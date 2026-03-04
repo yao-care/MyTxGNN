@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-04T03:58:15.404124",
+  "fetched": "2026-03-04T05:07:25.362828",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -123,6 +123,17 @@
       ]
     },
     {
+      "title": "Doctor&#039;s duty of care remains, says MMA over claims of credentials lease to prescribe weight-loss medications",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/04/doctor039s-duty-of-care-remains-says-mma-over-claims-of-credentials-lease-to-prescribe-weight-loss-medications",
+      "source": "The Star Health",
+      "published": "2026-03-04T04:27:00",
+      "summary": "PETALING JAYA: The Malaysian Medical Association (MMA) reminds doctors to ensure every prescription and facility operating under their name reflects their professional responsibility. Read full story",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
+    {
       "title": "Study: Over 2.85 million Malaysian children overweight or obese, more than 300,000 may develop serious diseases in later life",
       "url": "https://www.malaymail.com/news/malaysia/2026/03/04/study-over-285-million-malaysian-children-overweight-or-obese-more-than-300000-may-develop-serious-diseases-in-later-life/211242",
       "source": "Malay Mail",
@@ -150,17 +161,6 @@
       "summary": "KUALA LUMPUR, March 4 — Datin Seri Rosmah Mansor has officially exhausted all available legal avenues to press the...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Absence explained: Libaran MP in hospital, Tapah MP at prayers during PM tenure vote",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/03/absence-explained-libaran-mp-in-hospital-tapah-mp-at-prayers-during-pm-tenure-vote/211192",
-      "source": "Malay Mail",
-      "published": "2026-03-03T09:28:39",
-      "summary": "KUALA LUMPUR, March 3 — Government spokesman Datuk Fahmi Fadzil said Datuk Suhaimi Nasir (Libaran) was hospitalise...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
