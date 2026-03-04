@@ -1,31 +1,2546 @@
 {
   "drugs": [
-    {"name": "Prednisolone", "slug": "prednisolone", "drugbank_id": "DB00860"},
-    {"name": "Betamethasone", "slug": "betamethasone", "drugbank_id": "DB00443"},
-    {"name": "Fusidic Acid", "slug": "fusidic-acid", "drugbank_id": "DB02703"},
-    {"name": "Hydrocortisone Acetate", "slug": "hydrocortisone-acetate", "drugbank_id": "DB14539"},
-    {"name": "Hydrocortisone", "slug": "hydrocortisone", "drugbank_id": "DB00741"},
-    {"name": "Dexamethasone", "slug": "dexamethasone", "drugbank_id": "DB01234"},
-    {"name": "Ketoconazole", "slug": "ketoconazole", "drugbank_id": "DB01026"},
-    {"name": "Ofloxacin", "slug": "ofloxacin", "drugbank_id": "DB01165"},
-    {"name": "Triamcinolone", "slug": "triamcinolone", "drugbank_id": "DB00620"},
-    {"name": "Mometasone Furoate", "slug": "mometasone-furoate", "drugbank_id": "DB14512"},
-    {"name": "Salicylic Acid", "slug": "salicylic-acid", "drugbank_id": "DB00936"},
-    {"name": "Clotrimazole", "slug": "clotrimazole", "drugbank_id": "DB00257"},
-    {"name": "Fluticasone Propionate", "slug": "fluticasone-propionate", "drugbank_id": "DB00588"},
-    {"name": "Simvastatin", "slug": "simvastatin", "drugbank_id": "DB00641"},
-    {"name": "Zinc Oxide", "slug": "zinc-oxide", "drugbank_id": "DB09321"},
-    {"name": "Metronidazole", "slug": "metronidazole", "drugbank_id": "DB00916"},
-    {"name": "Paclitaxel", "slug": "paclitaxel", "drugbank_id": "DB01229"},
-    {"name": "Ibuprofen", "slug": "ibuprofen", "drugbank_id": "DB01050"},
-    {"name": "Telmisartan", "slug": "telmisartan", "drugbank_id": "DB00966"},
-    {"name": "Cyanocobalamin", "slug": "cyanocobalamin", "drugbank_id": "DB00115"},
-    {"name": "Metformin", "slug": "metformin", "drugbank_id": "DB00331"},
-    {"name": "Aspirin", "slug": "aspirin", "drugbank_id": "DB00945"},
-    {"name": "Atorvastatin", "slug": "atorvastatin", "drugbank_id": "DB01076"},
-    {"name": "Amlodipine", "slug": "amlodipine", "drugbank_id": "DB00381"},
-    {"name": "Omeprazole", "slug": "omeprazole", "drugbank_id": "DB00338"}
+    {
+      "name": "Acalabrutinib",
+      "slug": "acalabrutinib",
+      "drugbank_id": "DB11703"
+    },
+    {
+      "name": "Acarbose",
+      "slug": "acarbose",
+      "drugbank_id": "DB00284"
+    },
+    {
+      "name": "Aceclofenac",
+      "slug": "aceclofenac",
+      "drugbank_id": "DB06736"
+    },
+    {
+      "name": "Acetaminophen",
+      "slug": "acetaminophen",
+      "drugbank_id": "DB00316"
+    },
+    {
+      "name": "Acetazolamide",
+      "slug": "acetazolamide",
+      "drugbank_id": "DB00819"
+    },
+    {
+      "name": "Acetic Acid",
+      "slug": "acetic-acid",
+      "drugbank_id": "DB03166"
+    },
+    {
+      "name": "Acetylcysteine",
+      "slug": "acetylcysteine",
+      "drugbank_id": "DB06151"
+    },
+    {
+      "name": "Acetylsalicylic Acid",
+      "slug": "acetylsalicylic-acid",
+      "drugbank_id": "DB00945"
+    },
+    {
+      "name": "Acyclovir",
+      "slug": "acyclovir",
+      "drugbank_id": "DB00787"
+    },
+    {
+      "name": "Adalimumab",
+      "slug": "adalimumab",
+      "drugbank_id": "DB00051"
+    },
+    {
+      "name": "Adapalene",
+      "slug": "adapalene",
+      "drugbank_id": "DB00210"
+    },
+    {
+      "name": "Adenosine",
+      "slug": "adenosine",
+      "drugbank_id": "DB00640"
+    },
+    {
+      "name": "Aflibercept",
+      "slug": "aflibercept",
+      "drugbank_id": "DB08885"
+    },
+    {
+      "name": "Agomelatine",
+      "slug": "agomelatine",
+      "drugbank_id": "DB06594"
+    },
+    {
+      "name": "Albendazole",
+      "slug": "albendazole",
+      "drugbank_id": "DB00518"
+    },
+    {
+      "name": "Albutrepenonacog Alfa",
+      "slug": "albutrepenonacog-alfa",
+      "drugbank_id": "DB13884"
+    },
+    {
+      "name": "Alemtuzumab",
+      "slug": "alemtuzumab",
+      "drugbank_id": "DB00087"
+    },
+    {
+      "name": "Alfacalcidol",
+      "slug": "alfacalcidol",
+      "drugbank_id": "DB01436"
+    },
+    {
+      "name": "Alfuzosin",
+      "slug": "alfuzosin",
+      "drugbank_id": "DB00346"
+    },
+    {
+      "name": "Allopurinol",
+      "slug": "allopurinol",
+      "drugbank_id": "DB00437"
+    },
+    {
+      "name": "Alprazolam",
+      "slug": "alprazolam",
+      "drugbank_id": "DB00404"
+    },
+    {
+      "name": "Alprostadil",
+      "slug": "alprostadil",
+      "drugbank_id": "DB00770"
+    },
+    {
+      "name": "Ambrisentan",
+      "slug": "ambrisentan",
+      "drugbank_id": "DB06403"
+    },
+    {
+      "name": "Ammonium Chloride",
+      "slug": "ammonium-chloride",
+      "drugbank_id": "DB06767"
+    },
+    {
+      "name": "Amoxicillin",
+      "slug": "amoxicillin",
+      "drugbank_id": "DB01060"
+    },
+    {
+      "name": "Amphotericin B",
+      "slug": "amphotericin-b",
+      "drugbank_id": "DB00681"
+    },
+    {
+      "name": "Ampicillin",
+      "slug": "ampicillin",
+      "drugbank_id": "DB00415"
+    },
+    {
+      "name": "Anidulafungin",
+      "slug": "anidulafungin",
+      "drugbank_id": "DB00362"
+    },
+    {
+      "name": "Apalutamide",
+      "slug": "apalutamide",
+      "drugbank_id": "DB11901"
+    },
+    {
+      "name": "Apremilast",
+      "slug": "apremilast",
+      "drugbank_id": "DB05676"
+    },
+    {
+      "name": "Aripiprazole",
+      "slug": "aripiprazole",
+      "drugbank_id": "DB01238"
+    },
+    {
+      "name": "Arsenic Trioxide",
+      "slug": "arsenic-trioxide",
+      "drugbank_id": "DB01169"
+    },
+    {
+      "name": "Artesunate",
+      "slug": "artesunate",
+      "drugbank_id": "DB09274"
+    },
+    {
+      "name": "Ascorbic Acid",
+      "slug": "ascorbic-acid",
+      "drugbank_id": "DB00126"
+    },
+    {
+      "name": "Asfotase Alfa",
+      "slug": "asfotase-alfa",
+      "drugbank_id": "DB09105"
+    },
+    {
+      "name": "Aspartic Acid",
+      "slug": "aspartic-acid",
+      "drugbank_id": "DB00128"
+    },
+    {
+      "name": "Atenolol",
+      "slug": "atenolol",
+      "drugbank_id": "DB00335"
+    },
+    {
+      "name": "Atezolizumab",
+      "slug": "atezolizumab",
+      "drugbank_id": "DB11595"
+    },
+    {
+      "name": "Atovaquone",
+      "slug": "atovaquone",
+      "drugbank_id": "DB01117"
+    },
+    {
+      "name": "Avanafil",
+      "slug": "avanafil",
+      "drugbank_id": "DB06237"
+    },
+    {
+      "name": "Avelumab",
+      "slug": "avelumab",
+      "drugbank_id": "DB11945"
+    },
+    {
+      "name": "Axitinib",
+      "slug": "axitinib",
+      "drugbank_id": "DB06626"
+    },
+    {
+      "name": "Azacitidine",
+      "slug": "azacitidine",
+      "drugbank_id": "DB00928"
+    },
+    {
+      "name": "Azathioprine",
+      "slug": "azathioprine",
+      "drugbank_id": "DB00993"
+    },
+    {
+      "name": "Azelaic Acid",
+      "slug": "azelaic-acid",
+      "drugbank_id": "DB00548"
+    },
+    {
+      "name": "Azithromycin",
+      "slug": "azithromycin",
+      "drugbank_id": "DB00207"
+    },
+    {
+      "name": "Bacitracin",
+      "slug": "bacitracin",
+      "drugbank_id": "DB00626"
+    },
+    {
+      "name": "Baloxavir Marboxil",
+      "slug": "baloxavir-marboxil",
+      "drugbank_id": "DB13997"
+    },
+    {
+      "name": "Baricitinib",
+      "slug": "baricitinib",
+      "drugbank_id": "DB11817"
+    },
+    {
+      "name": "Beclomethasone Dipropionate",
+      "slug": "beclomethasone-dipropionate",
+      "drugbank_id": "DB00394"
+    },
+    {
+      "name": "Belimumab",
+      "slug": "belimumab",
+      "drugbank_id": "DB08879"
+    },
+    {
+      "name": "Benralizumab",
+      "slug": "benralizumab",
+      "drugbank_id": "DB12023"
+    },
+    {
+      "name": "Benzbromarone",
+      "slug": "benzbromarone",
+      "drugbank_id": "DB12319"
+    },
+    {
+      "name": "Benzocaine",
+      "slug": "benzocaine",
+      "drugbank_id": "DB01086"
+    },
+    {
+      "name": "Benzoic Acid",
+      "slug": "benzoic-acid",
+      "drugbank_id": "DB03793"
+    },
+    {
+      "name": "Benzoyl Peroxide",
+      "slug": "benzoyl-peroxide",
+      "drugbank_id": "DB09096"
+    },
+    {
+      "name": "Beractant",
+      "slug": "beractant",
+      "drugbank_id": "DB06761"
+    },
+    {
+      "name": "Betamethasone",
+      "slug": "betamethasone",
+      "drugbank_id": "DB00443"
+    },
+    {
+      "name": "Bevacizumab",
+      "slug": "bevacizumab",
+      "drugbank_id": "DB00112"
+    },
+    {
+      "name": "Bezafibrate",
+      "slug": "bezafibrate",
+      "drugbank_id": "DB01393"
+    },
+    {
+      "name": "Bilastine",
+      "slug": "bilastine",
+      "drugbank_id": "DB11591"
+    },
+    {
+      "name": "Bimatoprost",
+      "slug": "bimatoprost",
+      "drugbank_id": "DB00905"
+    },
+    {
+      "name": "Biotin",
+      "slug": "biotin",
+      "drugbank_id": "DB00121"
+    },
+    {
+      "name": "Bisacodyl",
+      "slug": "bisacodyl",
+      "drugbank_id": "DB09020"
+    },
+    {
+      "name": "Bortezomib",
+      "slug": "bortezomib",
+      "drugbank_id": "DB00188"
+    },
+    {
+      "name": "Brentuximab Vedotin",
+      "slug": "brentuximab-vedotin",
+      "drugbank_id": "DB08870"
+    },
+    {
+      "name": "Brexpiprazole",
+      "slug": "brexpiprazole",
+      "drugbank_id": "DB09128"
+    },
+    {
+      "name": "Brigatinib",
+      "slug": "brigatinib",
+      "drugbank_id": "DB12267"
+    },
+    {
+      "name": "Brinzolamide",
+      "slug": "brinzolamide",
+      "drugbank_id": "DB01194"
+    },
+    {
+      "name": "Brolucizumab",
+      "slug": "brolucizumab",
+      "drugbank_id": "DB14864"
+    },
+    {
+      "name": "Budesonide",
+      "slug": "budesonide",
+      "drugbank_id": "DB01222"
+    },
+    {
+      "name": "Bumetanide",
+      "slug": "bumetanide",
+      "drugbank_id": "DB00887"
+    },
+    {
+      "name": "Bupropion",
+      "slug": "bupropion",
+      "drugbank_id": "DB01156"
+    },
+    {
+      "name": "Burosumab",
+      "slug": "burosumab",
+      "drugbank_id": "DB14012"
+    },
+    {
+      "name": "Cabergoline",
+      "slug": "cabergoline",
+      "drugbank_id": "DB00248"
+    },
+    {
+      "name": "Cabozantinib",
+      "slug": "cabozantinib",
+      "drugbank_id": "DB08875"
+    },
+    {
+      "name": "Caffeine",
+      "slug": "caffeine",
+      "drugbank_id": "DB00201"
+    },
+    {
+      "name": "Calcifediol",
+      "slug": "calcifediol",
+      "drugbank_id": "DB00146"
+    },
+    {
+      "name": "Calcitriol",
+      "slug": "calcitriol",
+      "drugbank_id": "DB00136"
+    },
+    {
+      "name": "Calcium Carbonate",
+      "slug": "calcium-carbonate",
+      "drugbank_id": "DB06724"
+    },
+    {
+      "name": "Calcium Chloride",
+      "slug": "calcium-chloride",
+      "drugbank_id": "DB01164"
+    },
+    {
+      "name": "Calcium Lactate",
+      "slug": "calcium-lactate",
+      "drugbank_id": "DB13231"
+    },
+    {
+      "name": "Calcium Lactate Gluconate",
+      "slug": "calcium-lactate-gluconate",
+      "drugbank_id": "DB13365"
+    },
+    {
+      "name": "Candesartan Cilexetil",
+      "slug": "candesartan-cilexetil",
+      "drugbank_id": "DB00796"
+    },
+    {
+      "name": "Capecitabine",
+      "slug": "capecitabine",
+      "drugbank_id": "DB01101"
+    },
+    {
+      "name": "Capsaicin",
+      "slug": "capsaicin",
+      "drugbank_id": "DB06774"
+    },
+    {
+      "name": "Captopril",
+      "slug": "captopril",
+      "drugbank_id": "DB01197"
+    },
+    {
+      "name": "Carbamazepine",
+      "slug": "carbamazepine",
+      "drugbank_id": "DB00564"
+    },
+    {
+      "name": "Carbetocin",
+      "slug": "carbetocin",
+      "drugbank_id": "DB01282"
+    },
+    {
+      "name": "Carbidopa",
+      "slug": "carbidopa",
+      "drugbank_id": "DB00190"
+    },
+    {
+      "name": "Carbimazole",
+      "slug": "carbimazole",
+      "drugbank_id": "DB00389"
+    },
+    {
+      "name": "Carboplatin",
+      "slug": "carboplatin",
+      "drugbank_id": "DB00958"
+    },
+    {
+      "name": "Carfilzomib",
+      "slug": "carfilzomib",
+      "drugbank_id": "DB08889"
+    },
+    {
+      "name": "Carvedilol",
+      "slug": "carvedilol",
+      "drugbank_id": "DB01136"
+    },
+    {
+      "name": "Cefaclor",
+      "slug": "cefaclor",
+      "drugbank_id": "DB00833"
+    },
+    {
+      "name": "Cefixime",
+      "slug": "cefixime",
+      "drugbank_id": "DB00671"
+    },
+    {
+      "name": "Cefotaxime",
+      "slug": "cefotaxime",
+      "drugbank_id": "DB00493"
+    },
+    {
+      "name": "Ceftazidime",
+      "slug": "ceftazidime",
+      "drugbank_id": "DB00438"
+    },
+    {
+      "name": "Ceftriaxone",
+      "slug": "ceftriaxone",
+      "drugbank_id": "DB01212"
+    },
+    {
+      "name": "Celecoxib",
+      "slug": "celecoxib",
+      "drugbank_id": "DB00482"
+    },
+    {
+      "name": "Cephalexin",
+      "slug": "cephalexin",
+      "drugbank_id": "DB00567"
+    },
+    {
+      "name": "Ceritinib",
+      "slug": "ceritinib",
+      "drugbank_id": "DB09063"
+    },
+    {
+      "name": "Cetuximab",
+      "slug": "cetuximab",
+      "drugbank_id": "DB00002"
+    },
+    {
+      "name": "Chlorambucil",
+      "slug": "chlorambucil",
+      "drugbank_id": "DB00291"
+    },
+    {
+      "name": "Chloramphenicol",
+      "slug": "chloramphenicol",
+      "drugbank_id": "DB00446"
+    },
+    {
+      "name": "Chlordiazepoxide",
+      "slug": "chlordiazepoxide",
+      "drugbank_id": "DB00475"
+    },
+    {
+      "name": "Chlorthalidone",
+      "slug": "chlorthalidone",
+      "drugbank_id": "DB00310"
+    },
+    {
+      "name": "Cholecalciferol",
+      "slug": "cholecalciferol",
+      "drugbank_id": "DB00169"
+    },
+    {
+      "name": "Ciclesonide",
+      "slug": "ciclesonide",
+      "drugbank_id": "DB01410"
+    },
+    {
+      "name": "Cilostazol",
+      "slug": "cilostazol",
+      "drugbank_id": "DB01166"
+    },
+    {
+      "name": "Cimetidine",
+      "slug": "cimetidine",
+      "drugbank_id": "DB00501"
+    },
+    {
+      "name": "Cinchocaine",
+      "slug": "cinchocaine",
+      "drugbank_id": "DB00527"
+    },
+    {
+      "name": "Cinnarizine",
+      "slug": "cinnarizine",
+      "drugbank_id": "DB00568"
+    },
+    {
+      "name": "Ciprofloxacin",
+      "slug": "ciprofloxacin",
+      "drugbank_id": "DB00537"
+    },
+    {
+      "name": "Cisplatin",
+      "slug": "cisplatin",
+      "drugbank_id": "DB00515"
+    },
+    {
+      "name": "Citalopram",
+      "slug": "citalopram",
+      "drugbank_id": "DB00215"
+    },
+    {
+      "name": "Citric Acid",
+      "slug": "citric-acid",
+      "drugbank_id": "DB04272"
+    },
+    {
+      "name": "Cladribine",
+      "slug": "cladribine",
+      "drugbank_id": "DB00242"
+    },
+    {
+      "name": "Clarithromycin",
+      "slug": "clarithromycin",
+      "drugbank_id": "DB01211"
+    },
+    {
+      "name": "Clavulanic Acid",
+      "slug": "clavulanic-acid",
+      "drugbank_id": "DB00766"
+    },
+    {
+      "name": "Clobazam",
+      "slug": "clobazam",
+      "drugbank_id": "DB00349"
+    },
+    {
+      "name": "Clobetasol Propionate",
+      "slug": "clobetasol-propionate",
+      "drugbank_id": "DB01013"
+    },
+    {
+      "name": "Clofarabine",
+      "slug": "clofarabine",
+      "drugbank_id": "DB00631"
+    },
+    {
+      "name": "Clofazimine",
+      "slug": "clofazimine",
+      "drugbank_id": "DB00845"
+    },
+    {
+      "name": "Clonazepam",
+      "slug": "clonazepam",
+      "drugbank_id": "DB01068"
+    },
+    {
+      "name": "Clopidogrel",
+      "slug": "clopidogrel",
+      "drugbank_id": "DB00758"
+    },
+    {
+      "name": "Clotrimazole",
+      "slug": "clotrimazole",
+      "drugbank_id": "DB00257"
+    },
+    {
+      "name": "Colchicine",
+      "slug": "colchicine",
+      "drugbank_id": "DB01394"
+    },
+    {
+      "name": "Crisaborole",
+      "slug": "crisaborole",
+      "drugbank_id": "DB05219"
+    },
+    {
+      "name": "Crizotinib",
+      "slug": "crizotinib",
+      "drugbank_id": "DB08865"
+    },
+    {
+      "name": "Crotamiton",
+      "slug": "crotamiton",
+      "drugbank_id": "DB00265"
+    },
+    {
+      "name": "Cyanocobalamin",
+      "slug": "cyanocobalamin",
+      "drugbank_id": "DB00115"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "slug": "cyclophosphamide",
+      "drugbank_id": "DB00531"
+    },
+    {
+      "name": "Cycloserine",
+      "slug": "cycloserine",
+      "drugbank_id": "DB00260"
+    },
+    {
+      "name": "Cyclosporine",
+      "slug": "cyclosporine",
+      "drugbank_id": "DB00091"
+    },
+    {
+      "name": "Cytarabine",
+      "slug": "cytarabine",
+      "drugbank_id": "DB00987"
+    },
+    {
+      "name": "Dacarbazine",
+      "slug": "dacarbazine",
+      "drugbank_id": "DB00851"
+    },
+    {
+      "name": "Danazol",
+      "slug": "danazol",
+      "drugbank_id": "DB01406"
+    },
+    {
+      "name": "Dapagliflozin",
+      "slug": "dapagliflozin",
+      "drugbank_id": "DB06292"
+    },
+    {
+      "name": "Dapsone",
+      "slug": "dapsone",
+      "drugbank_id": "DB00250"
+    },
+    {
+      "name": "Daratumumab",
+      "slug": "daratumumab",
+      "drugbank_id": "DB09331"
+    },
+    {
+      "name": "Darunavir",
+      "slug": "darunavir",
+      "drugbank_id": "DB01264"
+    },
+    {
+      "name": "Dasatinib",
+      "slug": "dasatinib",
+      "drugbank_id": "DB01254"
+    },
+    {
+      "name": "Decitabine",
+      "slug": "decitabine",
+      "drugbank_id": "DB01262"
+    },
+    {
+      "name": "Deferasirox",
+      "slug": "deferasirox",
+      "drugbank_id": "DB01609"
+    },
+    {
+      "name": "Deferiprone",
+      "slug": "deferiprone",
+      "drugbank_id": "DB08826"
+    },
+    {
+      "name": "Delamanid",
+      "slug": "delamanid",
+      "drugbank_id": "DB11637"
+    },
+    {
+      "name": "Denosumab",
+      "slug": "denosumab",
+      "drugbank_id": "DB06643"
+    },
+    {
+      "name": "Desloratadine",
+      "slug": "desloratadine",
+      "drugbank_id": "DB00967"
+    },
+    {
+      "name": "Desmopressin",
+      "slug": "desmopressin",
+      "drugbank_id": "DB00035"
+    },
+    {
+      "name": "Desonide",
+      "slug": "desonide",
+      "drugbank_id": "DB01260"
+    },
+    {
+      "name": "Dexamethasone",
+      "slug": "dexamethasone",
+      "drugbank_id": "DB01234"
+    },
+    {
+      "name": "Dexlansoprazole",
+      "slug": "dexlansoprazole",
+      "drugbank_id": "DB05351"
+    },
+    {
+      "name": "Dexpanthenol",
+      "slug": "dexpanthenol",
+      "drugbank_id": "DB09357"
+    },
+    {
+      "name": "Dextromethorphan",
+      "slug": "dextromethorphan",
+      "drugbank_id": "DB00514"
+    },
+    {
+      "name": "Diazepam",
+      "slug": "diazepam",
+      "drugbank_id": "DB00829"
+    },
+    {
+      "name": "Digoxin",
+      "slug": "digoxin",
+      "drugbank_id": "DB00390"
+    },
+    {
+      "name": "Dimenhydrinate",
+      "slug": "dimenhydrinate",
+      "drugbank_id": "DB00985"
+    },
+    {
+      "name": "Dinoprostone",
+      "slug": "dinoprostone",
+      "drugbank_id": "DB00917"
+    },
+    {
+      "name": "Docetaxel",
+      "slug": "docetaxel",
+      "drugbank_id": "DB01248"
+    },
+    {
+      "name": "Dolutegravir",
+      "slug": "dolutegravir",
+      "drugbank_id": "DB08930"
+    },
+    {
+      "name": "Drospirenone",
+      "slug": "drospirenone",
+      "drugbank_id": "DB01395"
+    },
+    {
+      "name": "Dulaglutide",
+      "slug": "dulaglutide",
+      "drugbank_id": "DB09045"
+    },
+    {
+      "name": "Dupilumab",
+      "slug": "dupilumab",
+      "drugbank_id": "DB12159"
+    },
+    {
+      "name": "Durvalumab",
+      "slug": "durvalumab",
+      "drugbank_id": "DB11714"
+    },
+    {
+      "name": "Dutasteride",
+      "slug": "dutasteride",
+      "drugbank_id": "DB01126"
+    },
+    {
+      "name": "Ebastine",
+      "slug": "ebastine",
+      "drugbank_id": "DB11742"
+    },
+    {
+      "name": "Eculizumab",
+      "slug": "eculizumab",
+      "drugbank_id": "DB01257"
+    },
+    {
+      "name": "Edaravone",
+      "slug": "edaravone",
+      "drugbank_id": "DB12243"
+    },
+    {
+      "name": "Efavirenz",
+      "slug": "efavirenz",
+      "drugbank_id": "DB00625"
+    },
+    {
+      "name": "Elosulfase Alfa",
+      "slug": "elosulfase-alfa",
+      "drugbank_id": "DB09051"
+    },
+    {
+      "name": "Elvitegravir",
+      "slug": "elvitegravir",
+      "drugbank_id": "DB09101"
+    },
+    {
+      "name": "Emicizumab",
+      "slug": "emicizumab",
+      "drugbank_id": "DB13923"
+    },
+    {
+      "name": "Empagliflozin",
+      "slug": "empagliflozin",
+      "drugbank_id": "DB09038"
+    },
+    {
+      "name": "Emtricitabine",
+      "slug": "emtricitabine",
+      "drugbank_id": "DB00879"
+    },
+    {
+      "name": "Entacapone",
+      "slug": "entacapone",
+      "drugbank_id": "DB00494"
+    },
+    {
+      "name": "Entecavir",
+      "slug": "entecavir",
+      "drugbank_id": "DB00442"
+    },
+    {
+      "name": "Enzalutamide",
+      "slug": "enzalutamide",
+      "drugbank_id": "DB08899"
+    },
+    {
+      "name": "Epinephrine",
+      "slug": "epinephrine",
+      "drugbank_id": "DB00668"
+    },
+    {
+      "name": "Eplerenone",
+      "slug": "eplerenone",
+      "drugbank_id": "DB00700"
+    },
+    {
+      "name": "Eptinezumab",
+      "slug": "eptinezumab",
+      "drugbank_id": "DB14040"
+    },
+    {
+      "name": "Erenumab",
+      "slug": "erenumab",
+      "drugbank_id": "DB14039"
+    },
+    {
+      "name": "Ergocalciferol",
+      "slug": "ergocalciferol",
+      "drugbank_id": "DB00153"
+    },
+    {
+      "name": "Erythromycin",
+      "slug": "erythromycin",
+      "drugbank_id": "DB00199"
+    },
+    {
+      "name": "Eslicarbazepine Acetate",
+      "slug": "eslicarbazepine-acetate",
+      "drugbank_id": "DB09119"
+    },
+    {
+      "name": "Estradiol",
+      "slug": "estradiol",
+      "drugbank_id": "DB00783"
+    },
+    {
+      "name": "Estradiol Valerate",
+      "slug": "estradiol-valerate",
+      "drugbank_id": "DB13956"
+    },
+    {
+      "name": "Etanercept",
+      "slug": "etanercept",
+      "drugbank_id": "DB00005"
+    },
+    {
+      "name": "Ethinylestradiol",
+      "slug": "ethinylestradiol",
+      "drugbank_id": "DB00977"
+    },
+    {
+      "name": "Ethionamide",
+      "slug": "ethionamide",
+      "drugbank_id": "DB00609"
+    },
+    {
+      "name": "Etoposide",
+      "slug": "etoposide",
+      "drugbank_id": "DB00773"
+    },
+    {
+      "name": "Everolimus",
+      "slug": "everolimus",
+      "drugbank_id": "DB01590"
+    },
+    {
+      "name": "Evolocumab",
+      "slug": "evolocumab",
+      "drugbank_id": "DB09303"
+    },
+    {
+      "name": "Ezetimibe",
+      "slug": "ezetimibe",
+      "drugbank_id": "DB00973"
+    },
+    {
+      "name": "Famotidine",
+      "slug": "famotidine",
+      "drugbank_id": "DB00927"
+    },
+    {
+      "name": "Favipiravir",
+      "slug": "favipiravir",
+      "drugbank_id": "DB12466"
+    },
+    {
+      "name": "Febuxostat",
+      "slug": "febuxostat",
+      "drugbank_id": "DB04854"
+    },
+    {
+      "name": "Felodipine",
+      "slug": "felodipine",
+      "drugbank_id": "DB01023"
+    },
+    {
+      "name": "Fenofibrate",
+      "slug": "fenofibrate",
+      "drugbank_id": "DB01039"
+    },
+    {
+      "name": "Ferrous Fumarate",
+      "slug": "ferrous-fumarate",
+      "drugbank_id": "DB14491"
+    },
+    {
+      "name": "Ferrous Gluconate",
+      "slug": "ferrous-gluconate",
+      "drugbank_id": "DB14488"
+    },
+    {
+      "name": "Filgrastim",
+      "slug": "filgrastim",
+      "drugbank_id": "DB00099"
+    },
+    {
+      "name": "Finasteride",
+      "slug": "finasteride",
+      "drugbank_id": "DB01216"
+    },
+    {
+      "name": "Fluconazole",
+      "slug": "fluconazole",
+      "drugbank_id": "DB00196"
+    },
+    {
+      "name": "Fluocinolone Acetonide",
+      "slug": "fluocinolone-acetonide",
+      "drugbank_id": "DB00591"
+    },
+    {
+      "name": "Fluorometholone",
+      "slug": "fluorometholone",
+      "drugbank_id": "DB00324"
+    },
+    {
+      "name": "Fluorouracil",
+      "slug": "fluorouracil",
+      "drugbank_id": "DB00544"
+    },
+    {
+      "name": "Flurbiprofen",
+      "slug": "flurbiprofen",
+      "drugbank_id": "DB00712"
+    },
+    {
+      "name": "Flutamide",
+      "slug": "flutamide",
+      "drugbank_id": "DB00499"
+    },
+    {
+      "name": "Fluticasone Furoate",
+      "slug": "fluticasone-furoate",
+      "drugbank_id": "DB08906"
+    },
+    {
+      "name": "Fluticasone Propionate",
+      "slug": "fluticasone-propionate",
+      "drugbank_id": "DB00588"
+    },
+    {
+      "name": "Folic Acid",
+      "slug": "folic-acid",
+      "drugbank_id": "DB00158"
+    },
+    {
+      "name": "Furosemide",
+      "slug": "furosemide",
+      "drugbank_id": "DB00695"
+    },
+    {
+      "name": "Fusidic Acid",
+      "slug": "fusidic-acid",
+      "drugbank_id": "DB02703"
+    },
+    {
+      "name": "Gabapentin",
+      "slug": "gabapentin",
+      "drugbank_id": "DB00996"
+    },
+    {
+      "name": "Galcanezumab",
+      "slug": "galcanezumab",
+      "drugbank_id": "DB14042"
+    },
+    {
+      "name": "Galsulfase",
+      "slug": "galsulfase",
+      "drugbank_id": "DB01279"
+    },
+    {
+      "name": "Ganciclovir",
+      "slug": "ganciclovir",
+      "drugbank_id": "DB01004"
+    },
+    {
+      "name": "Gatifloxacin",
+      "slug": "gatifloxacin",
+      "drugbank_id": "DB01044"
+    },
+    {
+      "name": "Gefitinib",
+      "slug": "gefitinib",
+      "drugbank_id": "DB00317"
+    },
+    {
+      "name": "Gemfibrozil",
+      "slug": "gemfibrozil",
+      "drugbank_id": "DB01241"
+    },
+    {
+      "name": "Gilteritinib",
+      "slug": "gilteritinib",
+      "drugbank_id": "DB12141"
+    },
+    {
+      "name": "Gimeracil",
+      "slug": "gimeracil",
+      "drugbank_id": "DB09257"
+    },
+    {
+      "name": "Gliclazide",
+      "slug": "gliclazide",
+      "drugbank_id": "DB01120"
+    },
+    {
+      "name": "Glimepiride",
+      "slug": "glimepiride",
+      "drugbank_id": "DB00222"
+    },
+    {
+      "name": "Glipizide",
+      "slug": "glipizide",
+      "drugbank_id": "DB01067"
+    },
+    {
+      "name": "Glycine",
+      "slug": "glycine",
+      "drugbank_id": "DB00145"
+    },
+    {
+      "name": "Golimumab",
+      "slug": "golimumab",
+      "drugbank_id": "DB06674"
+    },
+    {
+      "name": "Griseofulvin",
+      "slug": "griseofulvin",
+      "drugbank_id": "DB00400"
+    },
+    {
+      "name": "Guaiacol",
+      "slug": "guaiacol",
+      "drugbank_id": "DB11359"
+    },
+    {
+      "name": "Guaifenesin",
+      "slug": "guaifenesin",
+      "drugbank_id": "DB00874"
+    },
+    {
+      "name": "Haloperidol",
+      "slug": "haloperidol",
+      "drugbank_id": "DB00502"
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "slug": "hydrochlorothiazide",
+      "drugbank_id": "DB00999"
+    },
+    {
+      "name": "Hydrocortisone",
+      "slug": "hydrocortisone",
+      "drugbank_id": "DB00741"
+    },
+    {
+      "name": "Hydrocortisone Acetate",
+      "slug": "hydrocortisone-acetate",
+      "drugbank_id": "DB14539"
+    },
+    {
+      "name": "Hydroxyurea",
+      "slug": "hydroxyurea",
+      "drugbank_id": "DB01005"
+    },
+    {
+      "name": "Ibrutinib",
+      "slug": "ibrutinib",
+      "drugbank_id": "DB09053"
+    },
+    {
+      "name": "Ibuprofen",
+      "slug": "ibuprofen",
+      "drugbank_id": "DB01050"
+    },
+    {
+      "name": "Idursulfase",
+      "slug": "idursulfase",
+      "drugbank_id": "DB01271"
+    },
+    {
+      "name": "Iloprost",
+      "slug": "iloprost",
+      "drugbank_id": "DB01088"
+    },
+    {
+      "name": "Imidafenacin",
+      "slug": "imidafenacin",
+      "drugbank_id": "DB09262"
+    },
+    {
+      "name": "Imiglucerase",
+      "slug": "imiglucerase",
+      "drugbank_id": "DB00053"
+    },
+    {
+      "name": "Imipenem",
+      "slug": "imipenem",
+      "drugbank_id": "DB01598"
+    },
+    {
+      "name": "Imiquimod",
+      "slug": "imiquimod",
+      "drugbank_id": "DB00724"
+    },
+    {
+      "name": "Indapamide",
+      "slug": "indapamide",
+      "drugbank_id": "DB00808"
+    },
+    {
+      "name": "Indomethacin",
+      "slug": "indomethacin",
+      "drugbank_id": "DB00328"
+    },
+    {
+      "name": "Infliximab",
+      "slug": "infliximab",
+      "drugbank_id": "DB00065"
+    },
+    {
+      "name": "Insulin Aspart",
+      "slug": "insulin-aspart",
+      "drugbank_id": "DB01306"
+    },
+    {
+      "name": "Insulin Degludec",
+      "slug": "insulin-degludec",
+      "drugbank_id": "DB09564"
+    },
+    {
+      "name": "Insulin Detemir",
+      "slug": "insulin-detemir",
+      "drugbank_id": "DB01307"
+    },
+    {
+      "name": "Insulin Glargine",
+      "slug": "insulin-glargine",
+      "drugbank_id": "DB00047"
+    },
+    {
+      "name": "Insulin Glulisine",
+      "slug": "insulin-glulisine",
+      "drugbank_id": "DB01309"
+    },
+    {
+      "name": "Insulin Human",
+      "slug": "insulin-human",
+      "drugbank_id": "DB00030"
+    },
+    {
+      "name": "Insulin Lispro",
+      "slug": "insulin-lispro",
+      "drugbank_id": "DB00046"
+    },
+    {
+      "name": "Ipilimumab",
+      "slug": "ipilimumab",
+      "drugbank_id": "DB06186"
+    },
+    {
+      "name": "Irbesartan",
+      "slug": "irbesartan",
+      "drugbank_id": "DB01029"
+    },
+    {
+      "name": "Iron",
+      "slug": "iron",
+      "drugbank_id": "DB01592"
+    },
+    {
+      "name": "Isoniazid",
+      "slug": "isoniazid",
+      "drugbank_id": "DB00951"
+    },
+    {
+      "name": "Isotretinoin",
+      "slug": "isotretinoin",
+      "drugbank_id": "DB00982"
+    },
+    {
+      "name": "Itraconazole",
+      "slug": "itraconazole",
+      "drugbank_id": "DB01167"
+    },
+    {
+      "name": "Ixekizumab",
+      "slug": "ixekizumab",
+      "drugbank_id": "DB11569"
+    },
+    {
+      "name": "Ketoconazole",
+      "slug": "ketoconazole",
+      "drugbank_id": "DB01026"
+    },
+    {
+      "name": "Ketoprofen",
+      "slug": "ketoprofen",
+      "drugbank_id": "DB01009"
+    },
+    {
+      "name": "Lactulose",
+      "slug": "lactulose",
+      "drugbank_id": "DB00581"
+    },
+    {
+      "name": "Lamivudine",
+      "slug": "lamivudine",
+      "drugbank_id": "DB00709"
+    },
+    {
+      "name": "Lamotrigine",
+      "slug": "lamotrigine",
+      "drugbank_id": "DB00555"
+    },
+    {
+      "name": "Lansoprazole",
+      "slug": "lansoprazole",
+      "drugbank_id": "DB00448"
+    },
+    {
+      "name": "Laronidase",
+      "slug": "laronidase",
+      "drugbank_id": "DB00090"
+    },
+    {
+      "name": "Latanoprost",
+      "slug": "latanoprost",
+      "drugbank_id": "DB00654"
+    },
+    {
+      "name": "Ledipasvir",
+      "slug": "ledipasvir",
+      "drugbank_id": "DB09027"
+    },
+    {
+      "name": "Leflunomide",
+      "slug": "leflunomide",
+      "drugbank_id": "DB01097"
+    },
+    {
+      "name": "Lemborexant",
+      "slug": "lemborexant",
+      "drugbank_id": "DB11951"
+    },
+    {
+      "name": "Lenalidomide",
+      "slug": "lenalidomide",
+      "drugbank_id": "DB00480"
+    },
+    {
+      "name": "Lercanidipine",
+      "slug": "lercanidipine",
+      "drugbank_id": "DB00528"
+    },
+    {
+      "name": "Letermovir",
+      "slug": "letermovir",
+      "drugbank_id": "DB12070"
+    },
+    {
+      "name": "Levetiracetam",
+      "slug": "levetiracetam",
+      "drugbank_id": "DB01202"
+    },
+    {
+      "name": "Levodopa",
+      "slug": "levodopa",
+      "drugbank_id": "DB01235"
+    },
+    {
+      "name": "Levofloxacin",
+      "slug": "levofloxacin",
+      "drugbank_id": "DB01137"
+    },
+    {
+      "name": "Levonorgestrel",
+      "slug": "levonorgestrel",
+      "drugbank_id": "DB00367"
+    },
+    {
+      "name": "Levosimendan",
+      "slug": "levosimendan",
+      "drugbank_id": "DB00922"
+    },
+    {
+      "name": "Lidocaine",
+      "slug": "lidocaine",
+      "drugbank_id": "DB00281"
+    },
+    {
+      "name": "Linagliptin",
+      "slug": "linagliptin",
+      "drugbank_id": "DB08882"
+    },
+    {
+      "name": "Linezolid",
+      "slug": "linezolid",
+      "drugbank_id": "DB00601"
+    },
+    {
+      "name": "Liraglutide",
+      "slug": "liraglutide",
+      "drugbank_id": "DB06655"
+    },
+    {
+      "name": "Lisinopril",
+      "slug": "lisinopril",
+      "drugbank_id": "DB00722"
+    },
+    {
+      "name": "Lithium Carbonate",
+      "slug": "lithium-carbonate",
+      "drugbank_id": "DB14509"
+    },
+    {
+      "name": "Lixisenatide",
+      "slug": "lixisenatide",
+      "drugbank_id": "DB09265"
+    },
+    {
+      "name": "Lonoctocog Alfa",
+      "slug": "lonoctocog-alfa",
+      "drugbank_id": "DB13998"
+    },
+    {
+      "name": "Loperamide",
+      "slug": "loperamide",
+      "drugbank_id": "DB00836"
+    },
+    {
+      "name": "Lopinavir",
+      "slug": "lopinavir",
+      "drugbank_id": "DB01601"
+    },
+    {
+      "name": "Loratadine",
+      "slug": "loratadine",
+      "drugbank_id": "DB00455"
+    },
+    {
+      "name": "Lorazepam",
+      "slug": "lorazepam",
+      "drugbank_id": "DB00186"
+    },
+    {
+      "name": "Lorlatinib",
+      "slug": "lorlatinib",
+      "drugbank_id": "DB12130"
+    },
+    {
+      "name": "Loteprednol Etabonate",
+      "slug": "loteprednol-etabonate",
+      "drugbank_id": "DB14596"
+    },
+    {
+      "name": "Lovastatin",
+      "slug": "lovastatin",
+      "drugbank_id": "DB00227"
+    },
+    {
+      "name": "Lumefantrine",
+      "slug": "lumefantrine",
+      "drugbank_id": "DB06708"
+    },
+    {
+      "name": "Luspatercept",
+      "slug": "luspatercept",
+      "drugbank_id": "DB12281"
+    },
+    {
+      "name": "Macitentan",
+      "slug": "macitentan",
+      "drugbank_id": "DB08932"
+    },
+    {
+      "name": "Magnesium Carbonate",
+      "slug": "magnesium-carbonate",
+      "drugbank_id": "DB09481"
+    },
+    {
+      "name": "Magnesium Hydroxide",
+      "slug": "magnesium-hydroxide",
+      "drugbank_id": "DB09104"
+    },
+    {
+      "name": "Magnesium Oxide",
+      "slug": "magnesium-oxide",
+      "drugbank_id": "DB01377"
+    },
+    {
+      "name": "Magnesium Sulfate",
+      "slug": "magnesium-sulfate",
+      "drugbank_id": "DB00653"
+    },
+    {
+      "name": "Magnesium Trisilicate",
+      "slug": "magnesium-trisilicate",
+      "drugbank_id": "DB09281"
+    },
+    {
+      "name": "Mannitol",
+      "slug": "mannitol",
+      "drugbank_id": "DB00742"
+    },
+    {
+      "name": "Mebendazole",
+      "slug": "mebendazole",
+      "drugbank_id": "DB00643"
+    },
+    {
+      "name": "Medroxyprogesterone Acetate",
+      "slug": "medroxyprogesterone-acetate",
+      "drugbank_id": "DB00603"
+    },
+    {
+      "name": "Megestrol Acetate",
+      "slug": "megestrol-acetate",
+      "drugbank_id": "DB00351"
+    },
+    {
+      "name": "Meloxicam",
+      "slug": "meloxicam",
+      "drugbank_id": "DB00814"
+    },
+    {
+      "name": "Melphalan",
+      "slug": "melphalan",
+      "drugbank_id": "DB01042"
+    },
+    {
+      "name": "Mepolizumab",
+      "slug": "mepolizumab",
+      "drugbank_id": "DB06612"
+    },
+    {
+      "name": "Mercaptopurine",
+      "slug": "mercaptopurine",
+      "drugbank_id": "DB01033"
+    },
+    {
+      "name": "Mesalazine",
+      "slug": "mesalazine",
+      "drugbank_id": "DB00244"
+    },
+    {
+      "name": "Methimazole",
+      "slug": "methimazole",
+      "drugbank_id": "DB00763"
+    },
+    {
+      "name": "Methotrexate",
+      "slug": "methotrexate",
+      "drugbank_id": "DB00563"
+    },
+    {
+      "name": "Methyldopa",
+      "slug": "methyldopa",
+      "drugbank_id": "DB00968"
+    },
+    {
+      "name": "Methylene Blue",
+      "slug": "methylene-blue",
+      "drugbank_id": "DB09241"
+    },
+    {
+      "name": "Methylphenidate",
+      "slug": "methylphenidate",
+      "drugbank_id": "DB00422"
+    },
+    {
+      "name": "Methylprednisolone",
+      "slug": "methylprednisolone",
+      "drugbank_id": "DB00959"
+    },
+    {
+      "name": "Methylprednisolone Hemisuccinate",
+      "slug": "methylprednisolone-hemisuccinate",
+      "drugbank_id": "DB14644"
+    },
+    {
+      "name": "Metronidazole",
+      "slug": "metronidazole",
+      "drugbank_id": "DB00916"
+    },
+    {
+      "name": "Miconazole",
+      "slug": "miconazole",
+      "drugbank_id": "DB01110"
+    },
+    {
+      "name": "Midazolam",
+      "slug": "midazolam",
+      "drugbank_id": "DB00683"
+    },
+    {
+      "name": "Midostaurin",
+      "slug": "midostaurin",
+      "drugbank_id": "DB06595"
+    },
+    {
+      "name": "Minoxidil",
+      "slug": "minoxidil",
+      "drugbank_id": "DB00350"
+    },
+    {
+      "name": "Mirabegron",
+      "slug": "mirabegron",
+      "drugbank_id": "DB08893"
+    },
+    {
+      "name": "Mirtazapine",
+      "slug": "mirtazapine",
+      "drugbank_id": "DB00370"
+    },
+    {
+      "name": "Moclobemide",
+      "slug": "moclobemide",
+      "drugbank_id": "DB01171"
+    },
+    {
+      "name": "Mometasone Furoate",
+      "slug": "mometasone-furoate",
+      "drugbank_id": "DB14512"
+    },
+    {
+      "name": "Moroctocog Alfa",
+      "slug": "moroctocog-alfa",
+      "drugbank_id": "DB13999"
+    },
+    {
+      "name": "Moxifloxacin",
+      "slug": "moxifloxacin",
+      "drugbank_id": "DB00218"
+    },
+    {
+      "name": "Moxonidine",
+      "slug": "moxonidine",
+      "drugbank_id": "DB09242"
+    },
+    {
+      "name": "Mupirocin",
+      "slug": "mupirocin",
+      "drugbank_id": "DB00410"
+    },
+    {
+      "name": "Naltrexone",
+      "slug": "naltrexone",
+      "drugbank_id": "DB00704"
+    },
+    {
+      "name": "Naproxen",
+      "slug": "naproxen",
+      "drugbank_id": "DB00788"
+    },
+    {
+      "name": "Netarsudil",
+      "slug": "netarsudil",
+      "drugbank_id": "DB13931"
+    },
+    {
+      "name": "Nevirapine",
+      "slug": "nevirapine",
+      "drugbank_id": "DB00238"
+    },
+    {
+      "name": "Nicotinamide",
+      "slug": "nicotinamide",
+      "drugbank_id": "DB02701"
+    },
+    {
+      "name": "Nicotine",
+      "slug": "nicotine",
+      "drugbank_id": "DB00184"
+    },
+    {
+      "name": "Nifedipine",
+      "slug": "nifedipine",
+      "drugbank_id": "DB01115"
+    },
+    {
+      "name": "Nimodipine",
+      "slug": "nimodipine",
+      "drugbank_id": "DB00393"
+    },
+    {
+      "name": "Nitrazepam",
+      "slug": "nitrazepam",
+      "drugbank_id": "DB01595"
+    },
+    {
+      "name": "Nitric Oxide",
+      "slug": "nitric-oxide",
+      "drugbank_id": "DB00435"
+    },
+    {
+      "name": "Nivolumab",
+      "slug": "nivolumab",
+      "drugbank_id": "DB09035"
+    },
+    {
+      "name": "Norethisterone",
+      "slug": "norethisterone",
+      "drugbank_id": "DB00717"
+    },
+    {
+      "name": "Norfloxacin",
+      "slug": "norfloxacin",
+      "drugbank_id": "DB01059"
+    },
+    {
+      "name": "Nystatin",
+      "slug": "nystatin",
+      "drugbank_id": "DB00646"
+    },
+    {
+      "name": "Obinutuzumab",
+      "slug": "obinutuzumab",
+      "drugbank_id": "DB08935"
+    },
+    {
+      "name": "Ocrelizumab",
+      "slug": "ocrelizumab",
+      "drugbank_id": "DB11988"
+    },
+    {
+      "name": "Octreotide",
+      "slug": "octreotide",
+      "drugbank_id": "DB00104"
+    },
+    {
+      "name": "Ofatumumab",
+      "slug": "ofatumumab",
+      "drugbank_id": "DB06650"
+    },
+    {
+      "name": "Ofloxacin",
+      "slug": "ofloxacin",
+      "drugbank_id": "DB01165"
+    },
+    {
+      "name": "Olanzapine",
+      "slug": "olanzapine",
+      "drugbank_id": "DB00334"
+    },
+    {
+      "name": "Olaparib",
+      "slug": "olaparib",
+      "drugbank_id": "DB09074"
+    },
+    {
+      "name": "Omalizumab",
+      "slug": "omalizumab",
+      "drugbank_id": "DB00043"
+    },
+    {
+      "name": "Omeprazole",
+      "slug": "omeprazole",
+      "drugbank_id": "DB00338"
+    },
+    {
+      "name": "Omidenepag Isopropyl",
+      "slug": "omidenepag-isopropyl",
+      "drugbank_id": "DB15071"
+    },
+    {
+      "name": "Orlistat",
+      "slug": "orlistat",
+      "drugbank_id": "DB01083"
+    },
+    {
+      "name": "Oxaliplatin",
+      "slug": "oxaliplatin",
+      "drugbank_id": "DB00526"
+    },
+    {
+      "name": "Oxcarbazepine",
+      "slug": "oxcarbazepine",
+      "drugbank_id": "DB00776"
+    },
+    {
+      "name": "Oxytocin",
+      "slug": "oxytocin",
+      "drugbank_id": "DB00107"
+    },
+    {
+      "name": "Paclitaxel",
+      "slug": "paclitaxel",
+      "drugbank_id": "DB01229"
+    },
+    {
+      "name": "Paliperidone",
+      "slug": "paliperidone",
+      "drugbank_id": "DB01267"
+    },
+    {
+      "name": "Palivizumab",
+      "slug": "palivizumab",
+      "drugbank_id": "DB00110"
+    },
+    {
+      "name": "Panitumumab",
+      "slug": "panitumumab",
+      "drugbank_id": "DB01269"
+    },
+    {
+      "name": "Pantoprazole",
+      "slug": "pantoprazole",
+      "drugbank_id": "DB00213"
+    },
+    {
+      "name": "Pantothenic Acid",
+      "slug": "pantothenic-acid",
+      "drugbank_id": "DB01783"
+    },
+    {
+      "name": "Pegaspargase",
+      "slug": "pegaspargase",
+      "drugbank_id": "DB00059"
+    },
+    {
+      "name": "Pembrolizumab",
+      "slug": "pembrolizumab",
+      "drugbank_id": "DB09037"
+    },
+    {
+      "name": "Pentoxifylline",
+      "slug": "pentoxifylline",
+      "drugbank_id": "DB00806"
+    },
+    {
+      "name": "Perampanel",
+      "slug": "perampanel",
+      "drugbank_id": "DB08883"
+    },
+    {
+      "name": "Perindopril",
+      "slug": "perindopril",
+      "drugbank_id": "DB00790"
+    },
+    {
+      "name": "Permethrin",
+      "slug": "permethrin",
+      "drugbank_id": "DB04930"
+    },
+    {
+      "name": "Perphenazine",
+      "slug": "perphenazine",
+      "drugbank_id": "DB00850"
+    },
+    {
+      "name": "Pertuzumab",
+      "slug": "pertuzumab",
+      "drugbank_id": "DB06366"
+    },
+    {
+      "name": "Phenol",
+      "slug": "phenol",
+      "drugbank_id": "DB03255"
+    },
+    {
+      "name": "Phentermine",
+      "slug": "phentermine",
+      "drugbank_id": "DB00191"
+    },
+    {
+      "name": "Pimecrolimus",
+      "slug": "pimecrolimus",
+      "drugbank_id": "DB00337"
+    },
+    {
+      "name": "Pirfenidone",
+      "slug": "pirfenidone",
+      "drugbank_id": "DB04951"
+    },
+    {
+      "name": "Piribedil",
+      "slug": "piribedil",
+      "drugbank_id": "DB12478"
+    },
+    {
+      "name": "Piroxicam",
+      "slug": "piroxicam",
+      "drugbank_id": "DB00554"
+    },
+    {
+      "name": "Plerixafor",
+      "slug": "plerixafor",
+      "drugbank_id": "DB06809"
+    },
+    {
+      "name": "Polyethylene Glycol",
+      "slug": "polyethylene-glycol",
+      "drugbank_id": "DB09287"
+    },
+    {
+      "name": "Pomalidomide",
+      "slug": "pomalidomide",
+      "drugbank_id": "DB08910"
+    },
+    {
+      "name": "Posaconazole",
+      "slug": "posaconazole",
+      "drugbank_id": "DB01263"
+    },
+    {
+      "name": "Potassium Acetate",
+      "slug": "potassium-acetate",
+      "drugbank_id": "DB14498"
+    },
+    {
+      "name": "Potassium Bicarbonate",
+      "slug": "potassium-bicarbonate",
+      "drugbank_id": "DB11098"
+    },
+    {
+      "name": "Potassium Chloride",
+      "slug": "potassium-chloride",
+      "drugbank_id": "DB00761"
+    },
+    {
+      "name": "Potassium Citrate",
+      "slug": "potassium-citrate",
+      "drugbank_id": "DB09125"
+    },
+    {
+      "name": "Potassium Iodide",
+      "slug": "potassium-iodide",
+      "drugbank_id": "DB06715"
+    },
+    {
+      "name": "Prednisolone",
+      "slug": "prednisolone",
+      "drugbank_id": "DB00860"
+    },
+    {
+      "name": "Prednisolone Acetate",
+      "slug": "prednisolone-acetate",
+      "drugbank_id": "DB15566"
+    },
+    {
+      "name": "Pregabalin",
+      "slug": "pregabalin",
+      "drugbank_id": "DB00230"
+    },
+    {
+      "name": "Prilocaine",
+      "slug": "prilocaine",
+      "drugbank_id": "DB00750"
+    },
+    {
+      "name": "Probenecid",
+      "slug": "probenecid",
+      "drugbank_id": "DB01032"
+    },
+    {
+      "name": "Procaine Benzylpenicillin",
+      "slug": "procaine-benzylpenicillin",
+      "drugbank_id": "DB09320"
+    },
+    {
+      "name": "Progesterone",
+      "slug": "progesterone",
+      "drugbank_id": "DB00396"
+    },
+    {
+      "name": "Promethazine",
+      "slug": "promethazine",
+      "drugbank_id": "DB01069"
+    },
+    {
+      "name": "Propylene Glycol",
+      "slug": "propylene-glycol",
+      "drugbank_id": "DB01839"
+    },
+    {
+      "name": "Propylthiouracil",
+      "slug": "propylthiouracil",
+      "drugbank_id": "DB00550"
+    },
+    {
+      "name": "Pyrazinamide",
+      "slug": "pyrazinamide",
+      "drugbank_id": "DB00339"
+    },
+    {
+      "name": "Racecadotril",
+      "slug": "racecadotril",
+      "drugbank_id": "DB11696"
+    },
+    {
+      "name": "Ramipril",
+      "slug": "ramipril",
+      "drugbank_id": "DB00178"
+    },
+    {
+      "name": "Ramucirumab",
+      "slug": "ramucirumab",
+      "drugbank_id": "DB05578"
+    },
+    {
+      "name": "Ranibizumab",
+      "slug": "ranibizumab",
+      "drugbank_id": "DB01270"
+    },
+    {
+      "name": "Ranitidine",
+      "slug": "ranitidine",
+      "drugbank_id": "DB00863"
+    },
+    {
+      "name": "Ravulizumab",
+      "slug": "ravulizumab",
+      "drugbank_id": "DB11580"
+    },
+    {
+      "name": "Rebamipide",
+      "slug": "rebamipide",
+      "drugbank_id": "DB11656"
+    },
+    {
+      "name": "Repaglinide",
+      "slug": "repaglinide",
+      "drugbank_id": "DB00912"
+    },
+    {
+      "name": "Resorcinol",
+      "slug": "resorcinol",
+      "drugbank_id": "DB11085"
+    },
+    {
+      "name": "Revefenacin",
+      "slug": "revefenacin",
+      "drugbank_id": "DB11855"
+    },
+    {
+      "name": "Riboflavin",
+      "slug": "riboflavin",
+      "drugbank_id": "DB00140"
+    },
+    {
+      "name": "Rifampicin",
+      "slug": "rifampicin",
+      "drugbank_id": "DB01045"
+    },
+    {
+      "name": "Rilpivirine",
+      "slug": "rilpivirine",
+      "drugbank_id": "DB08864"
+    },
+    {
+      "name": "Riluzole",
+      "slug": "riluzole",
+      "drugbank_id": "DB00740"
+    },
+    {
+      "name": "Rimegepant",
+      "slug": "rimegepant",
+      "drugbank_id": "DB12457"
+    },
+    {
+      "name": "Riociguat",
+      "slug": "riociguat",
+      "drugbank_id": "DB08931"
+    },
+    {
+      "name": "Risankizumab",
+      "slug": "risankizumab",
+      "drugbank_id": "DB14762"
+    },
+    {
+      "name": "Risperidone",
+      "slug": "risperidone",
+      "drugbank_id": "DB00734"
+    },
+    {
+      "name": "Ritonavir",
+      "slug": "ritonavir",
+      "drugbank_id": "DB00503"
+    },
+    {
+      "name": "Rituximab",
+      "slug": "rituximab",
+      "drugbank_id": "DB00073"
+    },
+    {
+      "name": "Rivastigmine",
+      "slug": "rivastigmine",
+      "drugbank_id": "DB00989"
+    },
+    {
+      "name": "Romiplostim",
+      "slug": "romiplostim",
+      "drugbank_id": "DB05332"
+    },
+    {
+      "name": "Romosozumab",
+      "slug": "romosozumab",
+      "drugbank_id": "DB11866"
+    },
+    {
+      "name": "Ropeginterferon Alfa-2B",
+      "slug": "ropeginterferon-alfa-2b",
+      "drugbank_id": "DB15119"
+    },
+    {
+      "name": "Rufinamide",
+      "slug": "rufinamide",
+      "drugbank_id": "DB06201"
+    },
+    {
+      "name": "Salbutamol",
+      "slug": "salbutamol",
+      "drugbank_id": "DB01001"
+    },
+    {
+      "name": "Salicylic Acid",
+      "slug": "salicylic-acid",
+      "drugbank_id": "DB00936"
+    },
+    {
+      "name": "Selenium Sulfide",
+      "slug": "selenium-sulfide",
+      "drugbank_id": "DB00971"
+    },
+    {
+      "name": "Selexipag",
+      "slug": "selexipag",
+      "drugbank_id": "DB11362"
+    },
+    {
+      "name": "Selumetinib",
+      "slug": "selumetinib",
+      "drugbank_id": "DB11689"
+    },
+    {
+      "name": "Semaglutide",
+      "slug": "semaglutide",
+      "drugbank_id": "DB13928"
+    },
+    {
+      "name": "Serine",
+      "slug": "serine",
+      "drugbank_id": "DB00133"
+    },
+    {
+      "name": "Silodosin",
+      "slug": "silodosin",
+      "drugbank_id": "DB06207"
+    },
+    {
+      "name": "Siltuximab",
+      "slug": "siltuximab",
+      "drugbank_id": "DB09036"
+    },
+    {
+      "name": "Simoctocog Alfa",
+      "slug": "simoctocog-alfa",
+      "drugbank_id": "DB09108"
+    },
+    {
+      "name": "Simvastatin",
+      "slug": "simvastatin",
+      "drugbank_id": "DB00641"
+    },
+    {
+      "name": "Sirolimus",
+      "slug": "sirolimus",
+      "drugbank_id": "DB00877"
+    },
+    {
+      "name": "Sitagliptin",
+      "slug": "sitagliptin",
+      "drugbank_id": "DB01261"
+    },
+    {
+      "name": "Sodium Citrate",
+      "slug": "sodium-citrate",
+      "drugbank_id": "DB09154"
+    },
+    {
+      "name": "Sodium Fluoride",
+      "slug": "sodium-fluoride",
+      "drugbank_id": "DB09325"
+    },
+    {
+      "name": "Sofosbuvir",
+      "slug": "sofosbuvir",
+      "drugbank_id": "DB08934"
+    },
+    {
+      "name": "Spironolactone",
+      "slug": "spironolactone",
+      "drugbank_id": "DB00421"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "slug": "sulfamethoxazole",
+      "drugbank_id": "DB01015"
+    },
+    {
+      "name": "Sulpiride",
+      "slug": "sulpiride",
+      "drugbank_id": "DB00391"
+    },
+    {
+      "name": "Sunitinib",
+      "slug": "sunitinib",
+      "drugbank_id": "DB01268"
+    },
+    {
+      "name": "Tacrolimus",
+      "slug": "tacrolimus",
+      "drugbank_id": "DB00864"
+    },
+    {
+      "name": "Tadalafil",
+      "slug": "tadalafil",
+      "drugbank_id": "DB00820"
+    },
+    {
+      "name": "Tafamidis",
+      "slug": "tafamidis",
+      "drugbank_id": "DB11644"
+    },
+    {
+      "name": "Tafluprost",
+      "slug": "tafluprost",
+      "drugbank_id": "DB08819"
+    },
+    {
+      "name": "Tazobactam",
+      "slug": "tazobactam",
+      "drugbank_id": "DB01606"
+    },
+    {
+      "name": "Tegafur",
+      "slug": "tegafur",
+      "drugbank_id": "DB09256"
+    },
+    {
+      "name": "Teicoplanin",
+      "slug": "teicoplanin",
+      "drugbank_id": "DB06149"
+    },
+    {
+      "name": "Telmisartan",
+      "slug": "telmisartan",
+      "drugbank_id": "DB00966"
+    },
+    {
+      "name": "Temozolomide",
+      "slug": "temozolomide",
+      "drugbank_id": "DB00853"
+    },
+    {
+      "name": "Tenecteplase",
+      "slug": "tenecteplase",
+      "drugbank_id": "DB00031"
+    },
+    {
+      "name": "Terbinafine",
+      "slug": "terbinafine",
+      "drugbank_id": "DB00857"
+    },
+    {
+      "name": "Teriflunomide",
+      "slug": "teriflunomide",
+      "drugbank_id": "DB08880"
+    },
+    {
+      "name": "Teriparatide",
+      "slug": "teriparatide",
+      "drugbank_id": "DB06285"
+    },
+    {
+      "name": "Testosterone",
+      "slug": "testosterone",
+      "drugbank_id": "DB00624"
+    },
+    {
+      "name": "Testosterone Undecanoate",
+      "slug": "testosterone-undecanoate",
+      "drugbank_id": "DB13946"
+    },
+    {
+      "name": "Thalidomide",
+      "slug": "thalidomide",
+      "drugbank_id": "DB01041"
+    },
+    {
+      "name": "Theophylline",
+      "slug": "theophylline",
+      "drugbank_id": "DB00277"
+    },
+    {
+      "name": "Thiotepa",
+      "slug": "thiotepa",
+      "drugbank_id": "DB04572"
+    },
+    {
+      "name": "Tibolone",
+      "slug": "tibolone",
+      "drugbank_id": "DB09070"
+    },
+    {
+      "name": "Ticagrelor",
+      "slug": "ticagrelor",
+      "drugbank_id": "DB08816"
+    },
+    {
+      "name": "Tigecycline",
+      "slug": "tigecycline",
+      "drugbank_id": "DB00560"
+    },
+    {
+      "name": "Timolol",
+      "slug": "timolol",
+      "drugbank_id": "DB00373"
+    },
+    {
+      "name": "Tiotropium",
+      "slug": "tiotropium",
+      "drugbank_id": "DB01409"
+    },
+    {
+      "name": "Tobramycin",
+      "slug": "tobramycin",
+      "drugbank_id": "DB00684"
+    },
+    {
+      "name": "Tocilizumab",
+      "slug": "tocilizumab",
+      "drugbank_id": "DB06273"
+    },
+    {
+      "name": "Tolbutamide",
+      "slug": "tolbutamide",
+      "drugbank_id": "DB01124"
+    },
+    {
+      "name": "Tolnaftate",
+      "slug": "tolnaftate",
+      "drugbank_id": "DB00525"
+    },
+    {
+      "name": "Tolvaptan",
+      "slug": "tolvaptan",
+      "drugbank_id": "DB06212"
+    },
+    {
+      "name": "Topiramate",
+      "slug": "topiramate",
+      "drugbank_id": "DB00273"
+    },
+    {
+      "name": "Trabectedin",
+      "slug": "trabectedin",
+      "drugbank_id": "DB05109"
+    },
+    {
+      "name": "Tranexamic Acid",
+      "slug": "tranexamic-acid",
+      "drugbank_id": "DB00302"
+    },
+    {
+      "name": "Trastuzumab",
+      "slug": "trastuzumab",
+      "drugbank_id": "DB00072"
+    },
+    {
+      "name": "Trastuzumab Emtansine",
+      "slug": "trastuzumab-emtansine",
+      "drugbank_id": "DB05773"
+    },
+    {
+      "name": "Travoprost",
+      "slug": "travoprost",
+      "drugbank_id": "DB00287"
+    },
+    {
+      "name": "Tretinoin",
+      "slug": "tretinoin",
+      "drugbank_id": "DB00755"
+    },
+    {
+      "name": "Triamcinolone",
+      "slug": "triamcinolone",
+      "drugbank_id": "DB00620"
+    },
+    {
+      "name": "Triazolam",
+      "slug": "triazolam",
+      "drugbank_id": "DB00897"
+    },
+    {
+      "name": "Trifarotene",
+      "slug": "trifarotene",
+      "drugbank_id": "DB12808"
+    },
+    {
+      "name": "Trifluridine",
+      "slug": "trifluridine",
+      "drugbank_id": "DB00432"
+    },
+    {
+      "name": "Trimethoprim",
+      "slug": "trimethoprim",
+      "drugbank_id": "DB00440"
+    },
+    {
+      "name": "Tropicamide",
+      "slug": "tropicamide",
+      "drugbank_id": "DB00809"
+    },
+    {
+      "name": "Turoctocog Alfa",
+      "slug": "turoctocog-alfa",
+      "drugbank_id": "DB09109"
+    },
+    {
+      "name": "Turoctocog Alfa Pegol",
+      "slug": "turoctocog-alfa-pegol",
+      "drugbank_id": "DB14738"
+    },
+    {
+      "name": "Udenafil",
+      "slug": "udenafil",
+      "drugbank_id": "DB06267"
+    },
+    {
+      "name": "Urea",
+      "slug": "urea",
+      "drugbank_id": "DB03904"
+    },
+    {
+      "name": "Ursodeoxycholic Acid",
+      "slug": "ursodeoxycholic-acid",
+      "drugbank_id": "DB01586"
+    },
+    {
+      "name": "Ustekinumab",
+      "slug": "ustekinumab",
+      "drugbank_id": "DB05679"
+    },
+    {
+      "name": "Valproic Acid",
+      "slug": "valproic-acid",
+      "drugbank_id": "DB00313"
+    },
+    {
+      "name": "Valsartan",
+      "slug": "valsartan",
+      "drugbank_id": "DB00177"
+    },
+    {
+      "name": "Vedolizumab",
+      "slug": "vedolizumab",
+      "drugbank_id": "DB09033"
+    },
+    {
+      "name": "Velpatasvir",
+      "slug": "velpatasvir",
+      "drugbank_id": "DB11613"
+    },
+    {
+      "name": "Venetoclax",
+      "slug": "venetoclax",
+      "drugbank_id": "DB11581"
+    },
+    {
+      "name": "Vibegron",
+      "slug": "vibegron",
+      "drugbank_id": "DB14895"
+    },
+    {
+      "name": "Vigabatrin",
+      "slug": "vigabatrin",
+      "drugbank_id": "DB01080"
+    },
+    {
+      "name": "Vildagliptin",
+      "slug": "vildagliptin",
+      "drugbank_id": "DB04876"
+    },
+    {
+      "name": "Voriconazole",
+      "slug": "voriconazole",
+      "drugbank_id": "DB00582"
+    },
+    {
+      "name": "Zanamivir",
+      "slug": "zanamivir",
+      "drugbank_id": "DB00558"
+    },
+    {
+      "name": "Zanubrutinib",
+      "slug": "zanubrutinib",
+      "drugbank_id": "DB15035"
+    },
+    {
+      "name": "Zidovudine",
+      "slug": "zidovudine",
+      "drugbank_id": "DB00495"
+    },
+    {
+      "name": "Zinc Gluconate",
+      "slug": "zinc-gluconate",
+      "drugbank_id": "DB11248"
+    },
+    {
+      "name": "Zinc Oxide",
+      "slug": "zinc-oxide",
+      "drugbank_id": "DB09321"
+    },
+    {
+      "name": "Zoledronic Acid",
+      "slug": "zoledronic-acid",
+      "drugbank_id": "DB00399"
+    },
+    {
+      "name": "Zopiclone",
+      "slug": "zopiclone",
+      "drugbank_id": "DB01198"
+    }
   ],
   "total": 508,
-  "last_updated": "2026-03-03"
+  "last_updated": "2026-03-04"
 }
