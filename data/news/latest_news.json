@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-04T10:25:11.041795",
+  "fetched": "2026-03-04T11:22:07.788161",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Protect Children From Attacks On Schools — Malaysian Paediatric Association",
@@ -117,17 +117,6 @@
       "summary": "Sunway Medical Centre is home to more than 300 resident medical consultants and provides comprehensive care across over 80 medical specialties and 28 Centres of Excellence. The post SMC Ranked Malaysia’s No. 1 Hospital In Newsweek’s World’s Best Hospitals 2026 appeared first on CodeBlue .",
       "keywords_matched": [
         "medical",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Penang police investigating social media post over temple gathering",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/04/penang-police-investigating-social-media-post-over-temple-gathering",
-      "source": "The Star Health",
-      "published": "2026-03-04T09:17:00",
-      "summary": "GEORGE TOWN: Penang police have launched an investigation following a police report over a Facebook post by preacher Zamri Vinoth about a planned gathering involving a Hindu temple near the entrance of Bukit Mertajam Hospital. Read full story",
-      "keywords_matched": [
         "hospital",
         "hospital"
       ]
