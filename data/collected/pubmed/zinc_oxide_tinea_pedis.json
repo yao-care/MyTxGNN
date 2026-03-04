@@ -1,0 +1,35 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Zinc Oxide",
+    "disease": "tinea pedis",
+    "query_string": "Zinc Oxide AND tinea pedis"
+  },
+  "data": {
+    "query": "Zinc Oxide AND tinea pedis",
+    "results": [
+      {
+        "pmid": "39871011",
+        "title": "Efficacy, Safety, and Cost-effectiveness of Zinc Oxide Nanoparticles in Whitfield's Spirit Solution for Treating Superficial Fungal Foot Infections: A Randomized Controlled Trial.",
+        "abstract": "A novel antifungal formulation combining zinc oxide nanoparticles and Whitfield's spirit solution (ZnO-WFs) was developed to enhance the treatment of superficial fungal foot infections.",
+        "journal": "Dermatology and therapy",
+        "year": "2025",
+        "authors": [
+          "Leeyaphan Charussri",
+          "Punnakitikashem Primana",
+          "Suiwongsa Bordeesuda",
+          "Komesmuneeborirak Phojana",
+          "Chongtrakool Piriyaporn"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39871011/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:34:42.300769",
+  "success": true,
+  "error_message": null
+}

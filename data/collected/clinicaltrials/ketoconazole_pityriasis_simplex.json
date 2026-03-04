@@ -1,0 +1,49 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ketoconazole",
+    "disease": "pityriasis simplex"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03845348",
+      "title": "Đánh giá hiệu quả điều trị viêm da dầu ở đầu của dầu gội Thái Dương 3 và Thái Dương 7 (A Randomized, Double Blind, Placebo Controlled, Parallel Group, Phase 3 Trial to Evaluate the Safety and Efficacy Shampoos TD03 and TD07 in Scalp Diseases)",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-05-22",
+      "completion_date": "2023-06",
+      "country": "Vietnam",
+      "enrollment": 366,
+      "brief_summary": "Scalp Conditions are common chronic skin inflamations with the occurence rate of 1 - 5 % among the population. TD03 shampoo and TD07 shampoo are widely used to avoid hair loss with successful rate reaching nearly 95%. This trial is going to evaluate the efficacy of getting rid of dandruff as well as the safety of the investigational products in comparison to a reference (ketoconazole 2%) during a 4-week treatment period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\> 18 years old and signed the ICF.\n* Diagnosed with head skin inflamtion with IGA \\<= 3.\n* Voluntary sign the ICF before any procedures.\n* No hypersentivity to the IP.\n\nExclusion Criteria:\n\n* Use oral antifungal 1 month prior to the trial participation or topical antifungal 2",
+      "endpoints": [
+        "Change from baseline in IGA scale at 4 week-treatment",
+        "The numbers of subjects with AE/SAE"
+      ],
+      "sponsor": "Sao Thai Duong Joint Stock Company",
+      "url": "https://clinicaltrials.gov/study/NCT03845348"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01203189",
+      "title": "Seborrheic Dermatitis of the Scalp in Populations Practicing Less Frequent Hair Washing: Ketoconazole 2% Foam Versus Ketoconazole 2% Shampoo",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2013-06",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "The aims of this study are to compare the effectiveness of antifungal foam versus antifungal shampoo and determine patient compliance and satisfaction with both vehicles among African American females with dandruff practicing less than once weekly hair washing.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* African American females aged 18 to 89 years\n* Previous diagnosis of seborrheic dermatitis of the scalp\n* TDSS between 50 and 200\n* Practice less than or equal to once weekly hair washing\n* Immunocompetent\n* Willing to not grease or oil scalp\n\nExclusion Criteria:\n\n* Age below ",
+      "endpoints": [
+        "Total Dandruff Severity Score (TDSS)"
+      ],
+      "sponsor": "St. Louis University",
+      "url": "https://clinicaltrials.gov/study/NCT01203189"
+    }
+  ],
+  "timestamp": "2026-03-04T13:21:03.080546",
+  "success": true,
+  "error_message": null
+}

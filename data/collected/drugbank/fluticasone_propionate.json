@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Fluticasone Propionate"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00588",
+    "name": "Fluticasone propionate",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T13:31:12.291061",
+  "success": true,
+  "error_message": null
+}

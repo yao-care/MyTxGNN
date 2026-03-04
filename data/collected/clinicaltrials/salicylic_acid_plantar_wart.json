@@ -1,0 +1,105 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Salicylic Acid",
+    "disease": "plantar wart"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05617950",
+      "title": "Salicylic Acid Versus Cryotherapy for the Treatment of HPV1-induced Plantar Warts: a Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-11",
+      "completion_date": "2022-11",
+      "country": "N/A",
+      "enrollment": 174,
+      "brief_summary": "To evaluate whether salicylic acid was superior to cryotherapy for plantar warts",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with HPV1-induced plantar warts.\n* Total number of warts is ≤5.\n* Aged 12 years or older.\n\nExclusion Criteria:\n\n* Patients are currently participating in another trial for the treatment of plantar warts.\n* Patients had received two or more consecutive sessions of cryo",
+      "endpoints": [
+        "cure rate at 12 weeks"
+      ],
+      "sponsor": "The 306 Hospital of People's Liberation Army",
+      "url": "https://clinicaltrials.gov/study/NCT05617950"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02151630",
+      "title": "Comparison of 70% Pyruvic Acid Solution and Duofilm Solution in Treatment of Plantar Wart",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2014-05",
+      "completion_date": "2014-09",
+      "country": "Iran",
+      "enrollment": 60,
+      "brief_summary": "Plantar warts can be bothersome and painful requiring treatment. The investigators will compare the efficacy of pyruvic acid and salicylic acid in treating multiple plantar warts. Patients with multiple plantar warts will be randomized to receive either pyruvic acid 70% or compound salicylic acid solution (salicylic acid 16.7%, lactic acid 16.7%, and collodion 100%) applying topically twice a day for 4 weeks. Patients will be visited every 2 weeks for one month after starting treatment and then ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* aged 12 years and above\n* multiple warts (at least 2)\n\nExclusion Criteria:\n\n* mosaic warts\n* already under any treatment for warts\n* pregnant or lactating women",
+      "endpoints": [
+        "Wart number",
+        "Wart size"
+      ],
+      "sponsor": "Isfahan University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT02151630"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06958237",
+      "title": "Evaluation of Performance and Safety of the Medical Device: Salicylic Acid Wart Patch for the Treatment of Common Warts and Plantar Warts",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2025-05-19",
+      "completion_date": "2025-09-05",
+      "country": "Poland",
+      "enrollment": 30,
+      "brief_summary": "Common and plantar warts are a type of skin lesion caused by infection with the human papilloma virus. The incidence of warts is relatively high, with an estimated few to several per cent of the adult population affected. An even higher incidence of dermal warts is reported in the child and adolescent population, where it reaches nearly twenty per cent. The human papilloma virus (HPV) multiplies in the epidermal cells, leading to the formation of a skin lesion with a hyperkeratotic, uneven surfa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* giving consent to participate in the clinical trial (consent of the minor's guardian where applicable);\n* presence of at least 1 wart (common/plantar) on the body, with a lesion up to 1 cm in diameter;\n* age, at least 6 years.\n\nExclusion Criteria:\n\n* failure to meet at least 1",
+      "endpoints": [
+        "reduction in the size of the lesion",
+        "change in the number of warts in the area of the main wart-like lesion",
+        "occurrence of further dermal wart-like lesions in the treated area"
+      ],
+      "sponsor": "Langsteiner sp. z o.o.",
+      "url": "https://clinicaltrials.gov/study/NCT06958237"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01712295",
+      "title": "New Formulation of Salicylate to Improve Treatment of Common Skin Warts",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2011-11",
+      "completion_date": "2014-03",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "Plantar warts on the sole of the foot are among the most common warts seen in podiatry clinics. Some patients are readily cured by simple standard of care treatments that include wart debridement (trimming or excision) and application of 17% salicylate (commercially known as Compound W)or by other treatments that may be painful and affect mobility. No treatment is consistently effective and most patients fail treatment multiple times.\n\nEthyl pyruvate (EP)is a common food additive noted to be 'ge",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* evidence of skin plantar wart(s)\n\nExclusion Criteria:\n\n* iodine allergy",
+      "endpoints": [
+        "To determine if salicylate with ethyl pyruvate (SA-EP) eliminates plantar warts more quickly than salicylate (SA) alone."
+      ],
+      "sponsor": "Grossman, Michael, D.P.M.",
+      "url": "https://clinicaltrials.gov/study/NCT01712295"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05588999",
+      "title": "Comparative Study Between Treatment With Cryotherapy Alone Versus Cryotherapy Plus Salicylic Acid Dressing for Planter Warts",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-03-01",
+      "completion_date": "2022-08-31",
+      "country": "Pakistan",
+      "enrollment": 70,
+      "brief_summary": "Verrucae plantaris (plantar warts) are a frequent cutaneous lesion of the plantar portion of the foot caused by the human papillomavirus (HPV) (HPV).Although HPV is ubiquitous in our environment, cellular and humoral immune responses typically prevent it from spreading or eliminate it.\n\nWarts can be painful and can lead to other difficulties, but there are some populations that are at a higher risk of getting HPV because they encounter the virus more frequently.\n\nIn addition to infecting other p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients having aged between 15 to 40 years\n* Patients diagnosed with planter warts on toe foot based on clinical and physical examination ,Patients with no history of treatment previously\n* Patients of either gender\n\nExclusion Criteria:\n\n* Patients with impaired healing (such",
+      "endpoints": [
+        "effectiveness of cryotherapy with liquid nitrogen alone and cryotherapy with 50% salicylic acid for the treatment of plantar warts calculated through clinical improvement"
+      ],
+      "sponsor": "Combined Military Hospital Abbottabad",
+      "url": "https://clinicaltrials.gov/study/NCT05588999"
+    }
+  ],
+  "timestamp": "2026-03-04T13:29:01.630569",
+  "success": true,
+  "error_message": null
+}

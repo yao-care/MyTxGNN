@@ -1,0 +1,516 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clotrimazole",
+    "disease": "oral candidiasis",
+    "query_string": "Clotrimazole AND oral candidiasis"
+  },
+  "data": {
+    "query": "Clotrimazole AND oral candidiasis",
+    "results": [
+      {
+        "pmid": "31287594",
+        "title": "Cutaneous candidiasis - an evidence-based review of topical and systemic treatments to inform clinical practice.",
+        "abstract": "Cutaneous candidiasis is a common skin disease, and several treatments have been investigated within the last fifty years. Yet, systematic reviews are lacking, and evidence-based topical and systemic treatment strategies remain unclear. Thus, the aim of this review was to summarize efficacy and adverse effects of topical and oral therapies for cutaneous candidiasis in all age groups. Two individual researchers searched PubMed and EMBASE for 'cutaneous candidiasis' and 'cutaneous candidiasis treatment', 'intertrigo', 'diaper dermatitis' and 'cheilitis'. Searches were limited to 'English language', 'clinical trials' and 'human subjects', and prospective clinical trials published in abstracts or articles were included. In total, 149 studies were identified, of which 44 were eligible, comprising 41 studies of 19 topical therapies and four studies of three systemic therapies for cutaneous candidiasis. Topical therapies were investigated in infants, children, adolescents, adults and elderly,",
+        "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+        "year": "2019",
+        "authors": [
+          "Taudorf E H",
+          "Jemec G B E",
+          "Hay R J",
+          "Saunte D M L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Antifungal Agents",
+          "Candidiasis, Cutaneous",
+          "Clotrimazole",
+          "Drug Therapy, Combination",
+          "Evidence-Based Medicine",
+          "Fluconazole",
+          "Humans",
+          "Ketoconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31287594/"
+      },
+      {
+        "pmid": "30818309",
+        "title": "Therapeutic tools for oral candidiasis: Current and new antifungal drugs.",
+        "abstract": "Candidiasis is one of the most common opportunistic oral infections that presents different acute and chronic clinical presentations with diverse diagnostic and therapeutic approaches. The present study carries out a bibliographic review on the therapeutic tools available against oral candidiasis and their usefulness in each clinical situation.",
+        "journal": "Medicina oral, patologia oral y cirugia bucal",
+        "year": "2019",
+        "authors": [
+          "Quindós G",
+          "Gil-Alonso S",
+          "Marcos-Arias C",
+          "Sevillano E",
+          "Mateo E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intravenous",
+          "Administration, Oral",
+          "Administration, Topical",
+          "Amphotericin B",
+          "Anidulafungin",
+          "Antifungal Agents",
+          "Azoles",
+          "Candidiasis, Oral",
+          "Caspofungin",
+          "Clotrimazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30818309/"
+      },
+      {
+        "pmid": "37082052",
+        "title": "Comparative evaluation of fluconazole and clotrimazole in treatment of oral candidiasis.",
+        "abstract": "Oral candidiasis is the most common opportunistic infection affecting the oral mucosa. Most commonly, the lesions are caused by Candida albicans and other organisms isolated are Candida glabrata, Candida krusei, Candida parapsilosis and Candida dubliniensis. As an opportunistic infection, it is seen affecting the young, old and debilitating people. This infection is seen to be enervative, exhausting and crippling; a few routinely employed antifungal agents are used in our study.",
+        "journal": "Journal of oral and maxillofacial pathology : JOMFP",
+        "year": "2022",
+        "authors": [
+          "Madane Pragati C",
+          "Choudary A Sailaja",
+          "Deepak T A",
+          "Abhinethra M S",
+          "Upasana L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37082052/"
+      },
+      {
+        "pmid": "30565745",
+        "title": "Randomised clinical trial in women with Recurrent Vulvovaginal Candidiasis: Efficacy of probiotics and lactoferrin as maintenance treatment.",
+        "abstract": "Vulvovaginal candidiasis (VVC) is a recurrent vaginal condition in childbearing women.",
+        "journal": "Mycoses",
+        "year": "2019",
+        "authors": [
+          "Russo Rosario",
+          "Superti Fabiana",
+          "Karadja Eugen",
+          "De Seta Francesco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Animals",
+          "Anti-Infective Agents",
+          "Candidiasis, Vulvovaginal",
+          "Chemoradiotherapy, Adjuvant",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30565745/"
+      },
+      {
+        "pmid": "38822256",
+        "title": "Drug-resistant oral candidiasis in patients with HIV infection: a systematic review and meta-analysis.",
+        "abstract": "Oral candidiasis (OC) is a prevalent opportunistic infection in patients with human immunodeficiency virus (HIV) infection. The increasing resistance to antifungal agents in HIV-positive individuals suffering from OC raised concerns. Thus, this study aimed to investigate the prevalence of drug-resistant OC in HIV-positive patients.",
+        "journal": "BMC infectious diseases",
+        "year": "2024",
+        "authors": [
+          "Keyvanfar Amirreza",
+          "Najafiarab Hanieh",
+          "Talebian Niki",
+          "Tafti Mahdi Falah",
+          "Adeli Gelareh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Candidiasis, Oral",
+          "Antifungal Agents",
+          "HIV Infections",
+          "Drug Resistance, Fungal",
+          "Candida",
+          "Prevalence",
+          "Microbial Sensitivity Tests",
+          "AIDS-Related Opportunistic Infections",
+          "Fluconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38822256/"
+      },
+      {
+        "pmid": "34924340",
+        "title": "Comparison of topical antifungal agents for oral candidiasis treatment: a systematic review and meta-analysis.",
+        "abstract": "To compare the efficacy and safety of topical antifungal drugs for oral candidiasis in adults and children.",
+        "journal": "Oral surgery, oral medicine, oral pathology and oral radiology",
+        "year": "2022",
+        "authors": [
+          "Xiao Yanxuan",
+          "Yuan Peiyang",
+          "Sun Yutong",
+          "Xu Yiming",
+          "Deng Xiaoting"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antifungal Agents",
+          "Candidiasis, Oral",
+          "Child",
+          "Fluconazole",
+          "Humans",
+          "Neoplasm Recurrence, Local"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34924340/"
+      },
+      {
+        "pmid": "11363911",
+        "title": "Candidiasis.",
+        "abstract": "",
+        "journal": "Journal of the International Association of Physicians in AIDS Care",
+        "year": "1996",
+        "authors": [
+          "Powderly W G"
+        ],
+        "pub_types": [
+          "Newspaper Article",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Candidiasis, Oral",
+          "Esophageal Diseases",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11363911/"
+      },
+      {
+        "pmid": "37233003",
+        "title": "Clotrimazole-Loaded Borneol-Based In Situ Forming Gel as Oral Sprays for Oropharyngeal Candidiasis Therapy.",
+        "abstract": "Oral candidiasis encompasses fungal infections of the tongue and other oral mucosal sites with fungal overgrowth and its invasion of superficial oral tissues. Borneol was assessed in this research as the matrix-forming agent of clotrimazole-loaded in situ forming gel (ISG) comprising clove oil as the co-active agent and N-methyl pyrrolidone (NMP) as a solvent. Their physicochemical properties, including pH, density, viscosity, surface tension, contact angle, water tolerance, gel formation, and drug release/permeation, were determined. Their antimicrobial activities were tested using agar cup diffusion. The pH values of clotrimazole-loaded borneol-based ISGs were in the range of 5.59-6.61, which are close to the pH of 6.8 of saliva. Increasing the borneol content in the formulation slightly decreased the density, surface tension, water tolerance, and spray angle but increased the viscosity and gel formation. The borneol matrix formation from NMP removal promoted a significantly (p < 0.0",
+        "journal": "Gels (Basel, Switzerland)",
+        "year": "2023",
+        "authors": [
+          "Lertsuphotvanit Nutdanai",
+          "Tuntarawongsa Sarun",
+          "Jitrangsri Kritamorn",
+          "Phaechamud Thawatchai"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37233003/"
+      },
+      {
+        "pmid": "36378415",
+        "title": "Species distribution and susceptibility profiles of oral candidiasis in hematological malignancy and solid tumor patients.",
+        "abstract": "Oral colonization and infection by Candida species are common in cancer patients receiving chemoradiotherapy, which has significantly increased in recent years. This study aimed to evaluate the frequency, distribution, and antifungal susceptibility profiles of Candida species isolates in patients with hematological malignancy and solid tumors. This study was conducted on a total of 45 cancer patients undergoing treatment with concurrent chemoradiotherapy within 2019-2020. The identification of Candida species was accomplished based on conventional examination and molecular assays. The minimum inhibitory concentrations were determined based on the guidelines of Clinical and Laboratory Standards Institute. The highest prevalence rates of oral candidiasis were observed in patients with chronic lymphoid leukemia (24.4%) and lymphoma (20%). The majority of the patients had oral candidiasis caused by non-albicans Candida species (64.4%). The results of the multiplex PCR for the identificatio",
+        "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+        "year": "2023",
+        "authors": [
+          "Nasri Elahe",
+          "Vaezi Afsane",
+          "Falahatinejad Mahsa",
+          "Rizi Mahnaz Hosseini",
+          "Sharifi Mehran"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Candidiasis, Oral",
+          "Antifungal Agents",
+          "Candida",
+          "Neoplasms",
+          "Candida glabrata",
+          "Candida parapsilosis",
+          "Hematologic Neoplasms",
+          "Microbial Sensitivity Tests",
+          "Drug Resistance, Fungal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36378415/"
+      },
+      {
+        "pmid": "33994826",
+        "title": "Efficacy of clotrimazole for the management of oral candidiasis: A meta-analysis of randomized clinical trials.",
+        "abstract": "To assess the efficacy and safety of topical application of clotrimazole versus others in the treatment of oropharyngeal candidiasis (OPC).",
+        "journal": "Saudi pharmaceutical journal : SPJ : the official publication of the Saudi Pharmaceutical Society",
+        "year": "2021",
+        "authors": [
+          "Almangour Thamer A",
+          "Kaye Keith S",
+          "Alessa Mohammed",
+          "Eljaaly Khalid",
+          "Sfouq Aleanizy Fadilah"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33994826/"
+      },
+      {
+        "pmid": "28462176",
+        "title": "Assessment of Effectiveness of Fluconazole and Clotrimazole in Treating Oral Candidiasis Patients: A Comparative Study.",
+        "abstract": "One of the most common fungal infections infecting humans is Candidiasis. Belonging to the group of opportunistic infections, it often affects individuals with various debilitating diseases. Fluconazole and clotrimazole are two of the commonly used anti-fungal agents for the treatment of oral candidiasis. Hence, we planned this study to evaluate the effectiveness of fluconazole and clotrimazole in the treatment of patients suffering from candidiasis.",
+        "journal": "Journal of International Society of Preventive & Community Dentistry",
+        "year": "2017",
+        "authors": [
+          "Reddy R C Jagat",
+          "Jeelani S",
+          "Duraiselvi P",
+          "Kandasamy M",
+          "Kumar G Suresh"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28462176/"
+      },
+      {
+        "pmid": "3917209",
+        "title": "Oral candidiasis--its pleomorphic clinical manifestations, diagnosis and treatment.",
+        "abstract": "Up to 60% of the population carry Candida albicans as part of the oral flora without having evidence of candidiasis. The pleomorphic clinical manifestations of oral candidiasis viz. thrush, denture stomatitis, angular cheilitis, median rhomboid glossitis, speckled leukoplakia, and chronic mucocutaneous candidiasis and its variants are briefly discussed. Current diagnostic techniques of oral candidiasis (OC) are reviewed. A simple and quick method of helping the clinician in the diagnosis of OC by taking a direct smear of the lesion is emphasized. OC is a 'disease of the diseased'. As a routine a full blood picture, serum iron and serum folate levels should be looked at. Several predisposing causes of OC need to be investigated. An up-date on the treatment of OC with nystatin, amphotericin B lozenges, clotrimazole and miconazole is made.",
+        "journal": "Dental journal of Malaysia",
+        "year": "1985",
+        "authors": [
+          "Ramanathan K",
+          "Han N K",
+          "Chelvanayagam P I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Candidiasis, Oral",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3917209/"
+      },
+      {
+        "pmid": "6365008",
+        "title": "Prophylaxis of oral candidiasis with clotrimazole troches.",
+        "abstract": "Oropharyngeal candidiasis is frequently a complication of patients with altered immune states. Clotrimazole troches are effective in the treatment of Candida and were evaluated in this study in a prophylaxis regimen. Patients with malignant neoplasms who were receiving chemotherapy and renal transplant recipients who were receiving immunosuppressives were randomized to receive either clotrimazole (10 mg) or placebo troches three times a day in a prospective, double-blinded study. Eighty-four patients were randomized into the study, 18 patients with leukemia, 19 patients with malignant neoplasms, and 47 patients with renal transplants. Among all patients, thrush developed in 57% while receiving placebo compared with 13% while receiving clotrimazole prophylaxis. Prophylaxis showed significant benefit for the renal transplant recipients and for patients with solid malignant neoplasms, but not for the leukemic patients. Clotrimazole troches are effective in preventing oral candidiasis in a",
+        "journal": "Archives of internal medicine",
+        "year": "1984",
+        "authors": [
+          "Owens N J",
+          "Nightingale C H",
+          "Schweizer R T",
+          "Schauer P K",
+          "Dekker P T"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Antineoplastic Agents",
+          "Candidiasis, Oral",
+          "Clinical Trials as Topic",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Imidazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6365008/"
+      },
+      {
+        "pmid": "24209593",
+        "title": "Candidiasis (oropharyngeal).",
+        "abstract": "Candida is a fungus present in the mouths of up to 60% of healthy people, but overt infection is associated with immunosuppression, diabetes, broad-spectrum antibiotics, and corticosteroid use. In most people, untreated candidiasis persists for months or years unless associated risk factors are treated or eliminated. In neonates, spontaneous cure of oropharyngeal candidiasis usually occurs after 3 to 8 weeks.",
+        "journal": "BMJ clinical evidence",
+        "year": "2013",
+        "authors": [
+          "Pankhurst Caroline L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Antifungal Agents",
+          "Candidiasis, Oral",
+          "HIV Infections",
+          "Humans",
+          "Miconazole",
+          "Oropharynx"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24209593/"
+      },
+      {
+        "pmid": "22348417",
+        "title": "Candidiasis (oropharyngeal).",
+        "abstract": "Candida is a fungus present in the mouths of up to 60% of healthy people, but overt infection is associated with immunosuppression, diabetes, broad-spectrum antibiotics, and corticosteroid use. In most people, untreated candidiasis persists for months or years unless associated risk factors are treated or eliminated. In neonates, spontaneous cure of oropharyngeal candidiasis usually occurs after 3 to 8 weeks.",
+        "journal": "BMJ clinical evidence",
+        "year": "2012",
+        "authors": [
+          "Pankhurst Caroline L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Antifungal Agents",
+          "Candidiasis, Oral",
+          "Fluconazole",
+          "HIV Infections",
+          "Humans",
+          "Oropharynx"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22348417/"
+      },
+      {
+        "pmid": "6362409",
+        "title": "Clotrimazole treatment of oral candidiasis in patients with neoplastic disease.",
+        "abstract": "A double-blind controlled study was performed to evaluate the effectiveness of clotrimazole in the treatment of oral candidiasis in patients with neoplastic disease. Six of seven patients who received clotrimazole had resolution of symptoms and signs of oral candidiasis. In five of six patients who received placebo, clinical progression of signs and symptoms occurred, esophagitis developed, and amphotericin B therapy had to be given. No toxicity was observed that could be attributed to clotrimazole. The results were statistically significant (p = 0.025 by Fisher's exact test). Clotrimazole is effective therapy for oral candidiasis in patients with neoplastic disease, and may prevent the development of esophagitis.",
+        "journal": "The American journal of medicine",
+        "year": "1984",
+        "authors": [
+          "Shechtman L B",
+          "Funaro L",
+          "Robin T",
+          "Bottone E J",
+          "Cuttner J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Candidiasis, Oral",
+          "Clinical Trials as Topic",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Esophagitis",
+          "Humans",
+          "Imidazoles",
+          "Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6362409/"
+      },
+      {
+        "pmid": "6309466",
+        "title": "Evaluation of ketoconazole.",
+        "abstract": "The pharmacology, microbiology, pharmacokinetics, clinical use, adverse effects, dosage and administration, and drug interactions of ketoconazole are reviewed. Ketoconazole, a new orally active antifungal agent, is an imidazole derivative structurally related to miconazole and clotrimazole. It impairs the synthesis of ergosterol (the main sterol in fungal cell membranes) in susceptible organisms, including yeast (Candida and Cryptococcus spp.), fungi, and dermatophytes. Ketoconazole is absorbed from the gastrointestinal tract; it is better absorbed from acidic aqueous solutions, so drugs that alter the pH of the stomach affect ketoconazole absorption. Therapeutic plasma concentrations are maintained for several hours following ketoconazole administration. Ketoconazole distributes readily into blood, urine, saliva, joint fluid, sebum, and cerumen; recent data indicate it may penetrate into cerebrospinal fluid as well. Elimination is biphasic, with a half-life of two hours during the fir",
+        "journal": "Clinical pharmacy",
+        "year": "1982",
+        "authors": [
+          "Sohn C A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Fungi",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Kinetics",
+          "Mycoses",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6309466/"
+      },
+      {
+        "pmid": "1437059",
+        "title": "Comparative trial of oral clotrimazole and nystatin for oropharyngeal candidiasis prophylaxis in orthotopic liver transplant patients.",
+        "abstract": "A prospective randomized study was conducted to assess the effectiveness of clotrimazole troches and nystatin suspension to prevent oral candidiasis in immunosuppressed orthotopic liver transplant patients. Thirty-four patients received either clotrimazole troches, 10 mg, five times daily, or nystatin suspension, 500,000 units, four times daily. Prophylaxis was initiated after extubation after transplantation and continued throughout the hospitalization. One of 17 patients in each treatment group developed clinical and microscopic evidence of an oropharyngeal Candida infection. This gave an intragroup and an overall infection rate of 5.9%. It appears that either nystatin or clotrimazole may be used for candidiasis prophylaxis in orthotopic liver transplant patients.",
+        "journal": "Oral surgery, oral medicine, and oral pathology",
+        "year": "1992",
+        "authors": [
+          "Ruskin J D",
+          "Wood R P",
+          "Bailey M R",
+          "Whitmore C K",
+          "Shaw B W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Adult",
+          "Candidiasis, Oral",
+          "Child",
+          "Child, Preschool",
+          "Clotrimazole",
+          "Female",
+          "Humans",
+          "Immunocompromised Host"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1437059/"
+      },
+      {
+        "pmid": "24554117",
+        "title": "Fast-acting clotrimazole composited PVP/HPβCD nanofibers for oral candidiasis application.",
+        "abstract": "This study investigates fabrication of clotrimazole (CZ)-composited electrospun Polyvinylpyrrolidone/Hydroxypropyl-β-cyclodextrin (PVP/HPβCD) blended nanofiber mats for oral candidiasis applications.",
+        "journal": "Pharmaceutical research",
+        "year": "2014",
+        "authors": [
+          "Tonglairoum Prasopchai",
+          "Ngawhirunpat Tanasait",
+          "Rojanarata Theerasak",
+          "Kaomongkolgit Ruchadaporn",
+          "Opanasopit Praneet"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "2-Hydroxypropyl-beta-cyclodextrin",
+          "Candidiasis, Oral",
+          "Clotrimazole",
+          "Excipients",
+          "Humans",
+          "Nanofibers",
+          "Povidone",
+          "Time Factors",
+          "X-Ray Diffraction",
+          "beta-Cyclodextrins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24554117/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:30:53.562863",
+  "success": true,
+  "error_message": null
+}

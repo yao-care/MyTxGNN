@@ -1,0 +1,565 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Salicylic Acid",
+    "disease": "osteoarthritis",
+    "query_string": "Salicylic Acid AND osteoarthritis"
+  },
+  "data": {
+    "query": "Salicylic Acid AND osteoarthritis",
+    "results": [
+      {
+        "pmid": "14592543",
+        "title": "The mechanism of action of aspirin.",
+        "abstract": "The therapy of rheumatism began thousands of years ago with the use of decoctions or extracts of herbs or plants such as willow bark or leaves, most of which turned out to contain salicylates. Following the advent of synthetic salicylate, Felix Hoffman, working at the Bayer company in Germany, made the acetylated form of salicylic acid in 1897. This drug was named \"Aspirin\" and became the most widely used medicine of all time. In 1971, Vane discovered the mechanism by which aspirin exerts its anti-inflammatory, analgesic and antipyretic actions. He proved that aspirin and other non-steroid anti-inflammatory drugs (NSAIDs) inhibit the activity of the enzyme now called cyclooxygenase (COX) which leads to the formation of prostaglandins (PGs) that cause inflammation, swelling, pain and fever. However, by inhibiting this key enzyme in PG synthesis, the aspirin-like drugs also prevented the production of physiologically important PGs which protect the stomach mucosa from damage by hydrochlo",
+        "journal": "Thrombosis research",
+        "year": "2003",
+        "authors": [
+          "Vane J R",
+          "Botting R M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics, Non-Narcotic",
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Aspirin",
+          "Cyclooxygenase 1",
+          "Cyclooxygenase 2",
+          "Cyclooxygenase 2 Inhibitors",
+          "Cyclooxygenase Inhibitors",
+          "Humans",
+          "Inflammation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14592543/"
+      },
+      {
+        "pmid": "38785813",
+        "title": "The Histological and Biochemical Assessment of Monoiodoacetate-Induced Knee Osteoarthritis in a Rat Model Treated with Salicylic Acid-Iron Oxide Nanoparticles.",
+        "abstract": "Iron oxide nanoparticles (IONPs) represent an important advance in the field of medicine with application in both diagnostic and drug delivery domains, offering a therapeutic approach that effectively overcomes physical and biological barriers. The current study aimed to assess whether oral administration of salicylic acid-functionalized iron oxide nanoparticles (SaIONPs) may exhibit beneficial effects in alleviating histological lesions in a murine monoiodoacetate (MIA) induced knee osteoarthritis model. In order to conduct our study, 15 Wistar male rats were randomly distributed into 3 work groups: Sham (S), MIA, and NP. At the end of the experiments, all animals were sacrificed for blood, knee, and liver sampling. Our results have shown that SaIONPs reached the targeted sites and also had a chondroprotective effect represented by less severe histological lesions regarding cellularity, altered structure morphology, and proteoglycan depletion across different layers of the knee joint ",
+        "journal": "Biology",
+        "year": "2024",
+        "authors": [
+          "Bică George",
+          "Rogoveanu Otilia-Constantina",
+          "Gherghina Florin-Liviu",
+          "Pisoschi Cătălina-Gabriela",
+          "Buteică Sandra-Alice"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38785813/"
+      },
+      {
+        "pmid": "41394718",
+        "title": "Acute immune modulation with poly-salicylic acid particles ameliorates pain and structural damage in post-traumatic osteoarthritis.",
+        "abstract": "Joint inflammation is a hallmark of post-traumatic osteoarthritis (PTOA) progression and a recognized driver of articular destruction and symptoms. Despite its known pathological role, inflammation has not been successfully targeted to treat PTOA. With the hypothesis that blocking the acute influx of systemically-derived immune cells can mitigate injury-induced inflammation and downstream PTOA disease severity, we targeted immune cell recruitment via systemically-administered poly salicylic acid (PolySA) particles. This formulation targets immune cells in circulation, namely neutrophils and monocytes, to inhibit their vascular extravasation into injured tissue. Employing a murine joint injury model, we show that PolySA particles reduced neutrophil and monocyte recruitment to the synovium by >50% when administered acutely after injury. Sex-specific therapeutic effects of PolySA emerged 7d post-ACLR, whereby female knee joints exhibited increased cathepsin activity and alleviation of kne",
+        "journal": "bioRxiv : the preprint server for biology",
+        "year": "2025",
+        "authors": [
+          "Felder Michael LaRue",
+          "Lammlin Lindsey",
+          "Giannone Adrienne A",
+          "Guevara M Valentina",
+          "Howser Scarlet C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Preprint"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41394718/"
+      },
+      {
+        "pmid": "3888490",
+        "title": "Clinical pharmacokinetics of the salicylates.",
+        "abstract": "The use of salicylates in rheumatic diseases has been established for over 100 years. The more recent recognition of their modification of platelet and endothelial cell function has lead to their use in other areas of medicine. Aspirin (acetylsalicylic acid) is still the most commonly used salicylate. After oral administration as an aqueous solution aspirin is rapidly absorbed at the low pH of the stomach millieu. Less rapid absorption is observed with other formulations due to the rate limiting step of tablet disintegration - this latter factor being maximal in alkaline pH. The rate of aspirin absorption is dependent not only on the formulation but also on the rate of gastric emptying. Aspirin absorption follows first-order kinetics with an absorption half-life ranging from 5 to 16 minutes. Hydrolysis of aspirin to salicylic acid by nonspecific esterases occurs in the liver and, to a lesser extent, the stomach so that only 68% of the dose reaches the systemic circulation as aspirin. B",
+        "journal": "Clinical pharmacokinetics",
+        "year": "1985",
+        "authors": [
+          "Needs C J",
+          "Brooks P M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aging",
+          "Arthritis, Rheumatoid",
+          "Blood Proteins",
+          "Chemical Phenomena",
+          "Chemistry, Physical",
+          "Child",
+          "Drug Interactions",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3888490/"
+      },
+      {
+        "pmid": "6988202",
+        "title": "Diflunisal: a review of its pharmacological properties and therapeutic use in pain and musculoskeletal strains and sprains and pain in osteoarthritis.",
+        "abstract": "Diflunisal is a salicylic acid derivative with analgesic and anti-inflammatory activity. It has been studied in osteoarthritis, pain resulting from musculoskeketal sprains and strains and from minor surgery and cancer. The duration of its analgesic effect is longer than that of aspirin and diflunisal is effective when given twice daily. Diflunisal is not metabolised to salicylic acid and has a lesser effect than aspirin on platelet function in vivo. In osteoarthritis, diflunisal appears comparable in efficacy to moderate doses of aspirin (2 to 3g daily), but is better tolerated. It has not been compared with the most active phenylalkanoic acid derivatives such as naproxen in adequate numbers of patients. Diflunisal is comparable with glafenine in pain and with propoxyphene/paracetamol combinations and oxyphenbutazone in pain and in musculoskeletal strains and sprains. As with other non-steroidal agents, gastrointestinal complaints are the most frequently reported side effects.",
+        "journal": "Drugs",
+        "year": "1980",
+        "authors": [
+          "Brogden R N",
+          "Heel R C",
+          "Pakes G E",
+          "Speight T M",
+          "Avery G S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diflunisal",
+          "Drug Interactions",
+          "Humans",
+          "Kinetics",
+          "Osteoarthritis",
+          "Pain",
+          "Salicylates",
+          "Sprains and Strains"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6988202/"
+      },
+      {
+        "pmid": "331427",
+        "title": "[A comparison of fenbufen and acetyl-salicylic acid in the treatment of osteoarthritis (author's transl)].",
+        "abstract": "",
+        "journal": "Revista medica de Chile",
+        "year": "1977",
+        "authors": [
+          "Astorga G",
+          "Bedoya J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Aspirin",
+          "Clinical Trials as Topic",
+          "Drug Evaluation",
+          "Humans",
+          "Middle Aged",
+          "Osteoarthritis",
+          "Propionates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/331427/"
+      },
+      {
+        "pmid": "17688170",
+        "title": "Comparison of the effects of tens and sodium salicylate iontophoresis in the management of osteoarthritis of the knee.",
+        "abstract": "The aim of this study was to compare the effects of transcutaneous electrical nerve stimulation (TENS) and sodium salicylate Iontophoresis on pain and functional disability in patients with osteoarthritis of the knee. Twenty (20) subjects participated in this study. Their ages ranged from 40-65 years. They were assigned to either the TENS or Iontophoresis group. The application of TENS was done using an EV 904 unit made by. Electro-medical supplies, while Iontophoresis treatment was delivered using a Galvanic current machine by F.W. Read and Sons London. The subjects levels of pain and functional disability prior to commencement of treatment and after the 6 weeks of treatment was taken using the Visual Analogue Scale (VAS) and Disability Index Questionnaire for patients with osteoarthritis of the knee joint(s). Analysis of data obtained was done using the Mann-Whitney U test and level of significance was set at (P < 0.05). The statistical analysis of the result showed a statistically s",
+        "journal": "Nigerian quarterly journal of hospital medicine",
+        "year": "2007",
+        "authors": [
+          "Aiyejusunle C B",
+          "Kola-Korolo T A",
+          "Ajiboye O A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Activities of Daily Living",
+          "Adult",
+          "Age Distribution",
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Hospitals, University",
+          "Humans",
+          "Iontophoresis",
+          "Middle Aged",
+          "Nigeria"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17688170/"
+      },
+      {
+        "pmid": "13125229",
+        "title": "Effect of ACTH and sodium salicylate on the urinary uric acid: creatinine ratio, and circulating eosinophils in man.",
+        "abstract": "",
+        "journal": "Annals of the rheumatic diseases",
+        "year": "1953",
+        "authors": [
+          "MARSON F G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenocorticotropic Hormone",
+          "Arthritis",
+          "Arthritis, Rheumatoid",
+          "Creatinine",
+          "Eosinophils",
+          "Gout",
+          "Humans",
+          "Male",
+          "Osteoarthritis",
+          "Salicylic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13125229/"
+      },
+      {
+        "pmid": "2754669",
+        "title": "In vitro effects of tiaprofenic acid, sodium salicylate and hydrocortisone on the proteoglycan metabolism of human osteoarthritic cartilage.",
+        "abstract": "We examined the in vitro effects of therapeutic doses of tiaprofenic acid (26 micrograms/ml; 2.6 micrograms/ml), sodium salicylate (160 micrograms/ml), and hydrocortisone (7.25 micrograms/ml; 0.725 micrograms/ml) on the proteoglycan metabolism (catabolism and synthesis) and chondrocyte ultrastructure of organ explant cultures of human osteoarthritic (OA) articular cartilage. The effect of these drugs on chondrocyte neutral metalloprotease synthesis was also examined. Tiaprofenic acid and the higher concentration of hydrocortisone had a similar suppressive effect on proteoglycan catabolism (38%). The effect of the lower concentration of hydrocortisone was less marked (29%), while sodium salicylate had the least effect (21%). The proteoglycan released in each treated group was significantly lower (p less than 0.05) than that of the untreated one. The suppression of proteoglycan catabolism by tiaprofenic acid was reversible in all but one specimen. This reversal was only seen in 4 of the ",
+        "journal": "The Journal of rheumatology",
+        "year": "1989",
+        "authors": [
+          "Pelletier J P",
+          "Cloutier J M",
+          "Martel-Pelletier J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Cartilage, Articular",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "In Vitro Techniques",
+          "Male",
+          "Metalloendopeptidases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2754669/"
+      },
+      {
+        "pmid": "6859071",
+        "title": "Distribution of salicylate in lens and intraocular fluids and its effect on cataract formation.",
+        "abstract": "Retrospective studies on cataract development in patients with rheumatoid arthritis or osteoarthritis revealed a retardant effect of aspirin on diabetic and non-diabetic cataracts. The effect of aspirin is dose-dependent. The correlation coefficient between years delay for various cataracts subcategories versus aspirin taken (in tablets per day X years of intake) was 0.69. The ocular pharmacokinetics of 14C acetylsalicylic acid or salicylate were determined after intravenous or intraperitoneal administration to rabbits. 14C acetylsalicylic acid penetrates rapidly into rabbit lens and aqueous humor after intravenous administration. After intraperitoneal administration, salicylate levels in rabbit plasma, similar to those of humans receiving four to six aspirin tablets (325 mg each), result in accumulation of salicylate by lens (mean +/- SD) of 405 +/- 72 mumoles/g and 620 +/- 30 mumoles/g at two and four hours, respectively. At those dosages, salicylate is cleared in 24 hours from rabbi",
+        "journal": "The American journal of medicine",
+        "year": "1983",
+        "authors": [
+          "Cotlier E",
+          "Sharma Y R",
+          "Niven T",
+          "Brescia M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Aqueous Humor",
+          "Aspirin",
+          "Cataract",
+          "Crystallins",
+          "Diabetes Complications",
+          "Galactose",
+          "Humans",
+          "Lens, Crystalline",
+          "Rabbits"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6859071/"
+      },
+      {
+        "pmid": "7361087",
+        "title": "[Diflunisal in the treatment of coxarthrosis and gonarthrosis. A comparative double-blind study with acetylsalicylic acid].",
+        "abstract": "A double-blind study comparing the efficacy and safety of diflunisal (Unisal), a new derivative of salicylic acid, and acetylsalicylic acid (Aspirin) was conducted in the rheumatology clinics of the Cantonal Hospital Beau-Séjour, Geneva, and the Triemli City Hospital, Zurich. A total of 38 patients with established osteoarthritis of the hip and/or knee were studied for 12 weeks. The daily dose of diflunisal was 500-750 mg and that of acetylsalicylic acid 2000-3000 mg. After 12 weeks diflunisal was judged superior to Aspirin by both patients and investigators. Among the most important clinical symptoms evaluated were pain and limitation of motion. Side effects, particularly gastro-intestinal symptoms, of sufficient severity to cause discontinuation of therapy were more frequent in the acetylsalicylic acid-treated patients than in the group receiving diflunisal.",
+        "journal": "Schweizerische medizinische Wochenschrift",
+        "year": "1980",
+        "authors": [
+          "Gross D",
+          "Frei M",
+          "Rau R",
+          "Boussina J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aspirin",
+          "Diflunisal",
+          "Double-Blind Method",
+          "Drug Evaluation",
+          "Female",
+          "Hip",
+          "Humans",
+          "Knee"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7361087/"
+      },
+      {
+        "pmid": "12244878",
+        "title": "[Willow bark extract--effects and effectiveness. Status of current knowledge regarding pharmacology, toxicology and clinical aspects].",
+        "abstract": "New pharmacological and clinical studies show that standardized willow bark extracts (WRE) is not only the natural form of salicylic acid. Willow bark extract has comparable antiinflammatory activities as higher doses of acetylsalicylic acid (ASS), and it shows antinociceptive and antipyretic activities. Under the pharmacologically active doses, no adverse effects regarding the stomach mucosa was observed, in contrast to acetylsalicylic acid. A daily dose of 1572 mg willow bark extract of a proprietary preparation (Assalix; standardised to 15.2% salicin, i.e. 240 mg salicin per day) was significantly superior to placebo in patients with osteoarthritis of the hip and the knee and in patients with exacerbations of chronic low back pain. In 2 open studies against active treatments as controls, willow bark extract exhibited advantages against a routinely prescribed treatment scheme of orthopedic specialists based on nonsteroidal antirheumatic drugs and rather similar efficacy as the COX-2-",
+        "journal": "Wiener medizinische Wochenschrift (1946)",
+        "year": "2002",
+        "authors": [
+          "März R W",
+          "Kemper F"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Back Pain",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Phytotherapy",
+          "Plant Extracts",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12244878/"
+      },
+      {
+        "pmid": "8456629",
+        "title": "In vitro effects of NSAIDs and corticosteroids on the synthesis and secretion of interleukin 1 by human osteoarthritic synovial membranes.",
+        "abstract": "The mechanism(s) of action of NSAIDs and corticosteroids in arthritic diseases has been the subject of intensive investigation in recent years. Although NSAIDs and corticosteroids have many effects, their possible ability to modify the disease course in patients has not been fully documented. In an attempt to characterize the mechanism(s) involved in the effect of some NSAIDs in joint diseases, we investigated the effect of three concentrations within the pharmacological (260 micrograms/ml) and therapeutic (26 and 2.6 micrograms/ml) ranges of tiaprofenic acid in the synthesis and release of interleukin (IL-1) alpha and beta in human OA synovial membranes. The effect of tiaprofenic acid was compared to the effect of two other NSAIDs, sodium salicylate (160 micrograms/ml) and indomethacin (1.5 micrograms/ml), and to a corticosteroid, hydrocortisone (0.725 and 7.25 micrograms/ml). This study was carried out using human OA synovium explants incubated in the presence or absence of LPS. In t",
+        "journal": "Agents and actions. Supplements",
+        "year": "1993",
+        "authors": [
+          "Pelletier J P",
+          "Cloutier J M",
+          "Martel-Pelletier J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Depression, Chemical",
+          "Enzyme-Linked Immunosorbent Assay",
+          "Humans",
+          "Hydrocortisone",
+          "In Vitro Techniques",
+          "Indomethacin",
+          "Interleukin-1",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8456629/"
+      },
+      {
+        "pmid": "4331391",
+        "title": "[Effect of some antirheumatic agents on the gastric mucous membrane].",
+        "abstract": "",
+        "journal": "Klinicheskaia meditsina",
+        "year": "1971",
+        "authors": [
+          "Vasilenko V Kh",
+          "Tsodikov G V",
+          "Minushkin O N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenocorticotropic Hormone",
+          "Aged",
+          "Aminopyrine",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Arthritis, Rheumatoid",
+          "Aspirin",
+          "Dogs",
+          "Drug Hypersensitivity",
+          "Duodenal Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4331391/"
+      },
+      {
+        "pmid": "1657006",
+        "title": "In vitro effect of nonsteroidal antiinflammatory drugs on proteoglycanase and collagenase activity in human osteoarthritic cartilage.",
+        "abstract": "The effects of several nonsteroidal antiinflammatory drugs, used at concentrations achievable in synovial fluid, on human osteoarthritic (OA) cartilage metallo-protease activity in vitro was studied. Acetaminophen and ketoprofen had no effect; sodium salicylate, indomethacin, and diclofenac slightly decreased proteoglycanase activity. Piroxicam and tenoxicam suppressed proteoglycanase activity by 48.2% and 68.3%, respectively, and suppressed collagenase activity by 19.1% and 36.8%, respectively. Use of these NSAIDs may help to decrease cartilage catabolism in patients with OA.",
+        "journal": "Arthritis and rheumatism",
+        "year": "1991",
+        "authors": [
+          "Vignon E",
+          "Mathieu P",
+          "Louisot P",
+          "Richard M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetaminophen",
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Cartilage, Articular",
+          "Diclofenac",
+          "Endopeptidases",
+          "Female",
+          "Humans",
+          "Indomethacin",
+          "Ketoprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1657006/"
+      },
+      {
+        "pmid": "14177937",
+        "title": "SERUM SALICYLATE LEVELS IN OSTEOARTHRITIS FOLLOWING ORAL ADMINISTRATION OF A PREPARATION CONTAINING SALICYLSALICYLIC ACID.",
+        "abstract": "",
+        "journal": "The American journal of the medical sciences",
+        "year": "1964",
+        "authors": [
+          "RUBIN H S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Aspirin",
+          "Blood",
+          "Blood Chemical Analysis",
+          "Drug Therapy",
+          "Geriatrics",
+          "Humans",
+          "Osteoarthritis",
+          "Salicylates",
+          "Salicylic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14177937/"
+      },
+      {
+        "pmid": "9849316",
+        "title": "Loss of laminin and of the laminin receptor integrin subunit alpha 6 in situ correlates with cytokine induced down regulation of alpha 6 on fibroblast-like synoviocytes from rheumatoid arthritis.",
+        "abstract": "To investigate in situ the expression of the integrin receptor subunits alpha 6 and beta 1 and the distribution of the ligand laminin in the synovia from osteoarthritis (OA) and rheumatoid arthritis (RA) patients and to study the effect of cytokines and antirheumatic drugs on the expression of the alpha 6 and beta 1 integrin subunits on long term cultures of fibroblast-like synoviocytes (FBS) derived from OA and RA.",
+        "journal": "Annals of the rheumatic diseases",
+        "year": "1998",
+        "authors": [
+          "Rinaldi N",
+          "Barth T F",
+          "Weis D",
+          "Schwarz-Eywill M",
+          "Pezzutto A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antigens, CD",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Cell Culture Techniques",
+          "Cytokines",
+          "Down-Regulation",
+          "Humans",
+          "Immunoenzyme Techniques",
+          "Integrin alpha6",
+          "Integrin beta1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9849316/"
+      },
+      {
+        "pmid": "20547600",
+        "title": "A randomised controlled trial of subcutaneous sodium salicylate therapy for osteoarthritis of the thumb.",
+        "abstract": "Current treatment for osteoarthritis (OA) is limited. Many patients with OA of the hand have areas of tender subcutaneous thickening in the forearm and upper scapular region. A pilot study showed an improvement in pain from OA at the first carpometacarpal joint after injection of such areas with 0.5% sodium salicylate or saline, an inexpensive treatment that can be administered by general practitioners and nurses. The study indicated that a randomised, sham-controlled trial was justified.",
+        "journal": "Postgraduate medical journal",
+        "year": "2010",
+        "authors": [
+          "Smith A S",
+          "Doré C J",
+          "Dennis L",
+          "Julius A",
+          "Mackworth-Young C G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Carpometacarpal Joints",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Injections, Subcutaneous",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20547600/"
+      },
+      {
+        "pmid": "20144114",
+        "title": "Effect of Non-Steroidal Anti-Inflammatory Drugs on Osteoarthritis of the Knee: With Special Reference to PSP Clearance as an Indicator.",
+        "abstract": "PSP clearance of the osteoarthritic knee was studied in 79 joints of 60 patients. Correlation between the clearance rate and the degree of disease activity (the grade of inflammatory exacerbation) was suggestive. Using PSP clearance, we studied the effect of non-steroidal anti-inflammatory drugs on the osteoarthritic knee. The results of this study are as follows: The drugs, phenylbutazone, indomethacin and acetyl-salicylic acid, are effective, when they are administered at the initial phase of inflammation, while in the chronic phase the effects of them are variable, though significant in patients whose PSP clearance rate is below 45 per cent. In the chronic and severely affected cases, the basic principles of therapy of osteoarthritic knees are avoidance of excessive use and the correct use of rest and physical therapy.",
+        "journal": "Scandinavian journal of rheumatology",
+        "year": "1987",
+        "authors": [
+          "Asai H",
+          "Nakamura R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20144114/"
+      },
+      {
+        "pmid": "16557412",
+        "title": "[NSAIDs and COX-2-inhibitors: current status].",
+        "abstract": "NSAIDs (non steroidal anti-inflammatory drugs) are a crucial component for the therapy of pain induced by inflammatory and degenerative joint diseases. Nevertheless their known therapeutic efficacy is contrasted by significant side effects. The recently developed selective COX-2-inhibitors appear to have a better gastrointestinal safety profile, especially relevant to patients with an increased risk for gastrointestinal ulcers and bleeding. However, this effect may similarly be reached by the combination of NSAIDs with proton pump inhibitors. Recent data relate to an elevated myocardial infarction rate in patients using COX-2-inhibitors. This risk may also occur in conventional NSAIDs. Therefore an individual risk calculation is necessary before COX-2-inhibitors or NSAIDs are used. Treatment should be performed with the lowest dosage for the shortest time possible. Combination therapy with salicylic acid seems to abolish the protective effect of COX-2-inhibitors in the GI-tract. Defini",
+        "journal": "Der Internist",
+        "year": "2006",
+        "authors": [
+          "Kneitz C",
+          "Tony H P",
+          "Krüger K"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Cyclooxygenase 2 Inhibitors",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Myocardial Infarction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16557412/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:29:48.377736",
+  "success": true,
+  "error_message": null
+}

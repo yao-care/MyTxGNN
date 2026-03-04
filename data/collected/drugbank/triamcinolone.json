@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Triamcinolone"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00620",
+    "name": "Triamcinolone",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T13:22:52.372782",
+  "success": true,
+  "error_message": null
+}

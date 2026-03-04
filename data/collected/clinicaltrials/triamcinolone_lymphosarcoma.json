@@ -1,0 +1,558 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Triamcinolone",
+    "disease": "lymphosarcoma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00992030",
+      "title": "Phase III Study Comparing Rituximab-supplemented ABVD (R-ABVD) With ABVD Followed by Involved-field Radiotherapy (ABVD-RT) in Limited Stage (Stage I-IIA With no Areas of Bulk) Hodgkin's Lymphoma",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-09",
+      "completion_date": "2019-03",
+      "country": "United States, Italy",
+      "enrollment": 112,
+      "brief_summary": "Combined modality therapy has then emerged as the standard of care for limited-stage Hodgkin's lymphoma and doxorubicin, bleomycin, vinblastine, and dacarbazine (ABVD) chemotherapy that is devoid of alkylating agents and associated with a low potential for gonadal toxicity and leukemogenesis, is currently considered a gold standard. Nevertheless, the disadvantage to combine radiotherapy to ABVD is represented by late cardiovascular events (myocardial dysfunction and coronary or valvular disease)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of histologically confirmed classical Hodgkin lymphoma (cHL)\n* Limited-stage disease defined as stage I or IIA with no areas of bulky disease\n* Measurable disease according to the Cheson criteria\n* Age \\>=18 years\n* Adequate bone marrow reserve (ANC \\>= 1,500/uL, Plate",
+      "endpoints": [
+        "3-year failure free survival. Failure is defined as disease progression during treatment, achievement of less than complete remission (CR) after the total planned therapy, relapse during follow-up or death from any cause."
+      ],
+      "sponsor": "Fondazione Michelangelo",
+      "url": "https://clinicaltrials.gov/study/NCT00992030"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03880279",
+      "title": "A Phase I/II Trial Investigating Safety and Efficacy of Autologous TAC T Cells Targeting CD19 in Relapsed or Refractory Large B-Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2020-05",
+      "completion_date": "2024-04",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "Phase I/II study to evaluate TAC01-CD19 in subjects with relapsed or refractory B-cell lymphomas. TAC technology is a novel way to genetically modify T cells and to redirect these T cells to target cancer antigens by co-opting the natural T cell receptor. The dose finding portion of this study will evaluate the safety and tolerability of increasing dose levels of TAC01-CD19 to identify a Maximal Tolerated Dose (MTD) or Recommended Phase II Dose (RP2D). The dose expansion portion of the study wil",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed CD19+ Large B-Cell Lymphoma including Diffuse Large B-cell Lymphoma (DLBCL) not otherwise specified (including de novo and transformed lymphoma), Primary Mediastinal Large B-cell Lymphoma, High-Grade B-cell Lymphoma with MYC and BCL2 and/or BCL6 rearra",
+      "endpoints": [
+        "Incidence of dose-limiting toxicities (DLTs)",
+        "Incidence of adverse events (AEs)"
+      ],
+      "sponsor": "Triumvira Immunologics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03880279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00080535",
+      "title": "A Phase II Clinical Trial of Anti-Tac(Fv)-PE38 (LMB-2) Immunotoxin for Treatment of CD25 Positive Cutaneous T-Cell Lymphomas",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-04-30",
+      "completion_date": "2011-12-31",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "This study will evaluate the effectiveness of an experimental drug called LMB-2 for treating cutaneous T-cell lymphoma in patients who have a protein called cluster of differentiation 25 (CD25) on their cancer cells. LMB-2 is a recombinant immunotoxin. It is made up of two parts: a genetically engineered monoclonal antibody that binds to CD25, and a toxin produced by bacteria that kills the cancer cells to which it binds. LMB-2 has killed CD25-containing cells in laboratory experiments and has c",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nPatients must have histopathological evidence of cluster of differentiation 25 (CD25) + cutaneous T-cell lymphoma (CTCL) confirmed by the National Institutes of Health (NIH) pathology department.\n\nOne of the following must be present:\n\nGreater than or equal to 20 percent expre",
+      "endpoints": [
+        "Response Rate"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00080535"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06132737",
+      "title": "An Open-label Dose Escalation Study to Evaluate Safety, Tolerability, Biodistribution and Efficacy of [90Y]Y-PentixaTher for the Therapy of Recurrent or Refractory Primary or Isolated Secondary Central Nervous System Lymphoma.",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-11-07",
+      "completion_date": "2028-03-26",
+      "country": "Germany",
+      "enrollment": 15,
+      "brief_summary": "This will be an open-label, single-arm, national phase 1/2 therapeutic study to evaluate the safety, tolerability, and preliminary efficacy of \\[90Y\\]Y-PentixaTher (\\[90Y\\]Y-PTT) for the treatment of recurrent or refractory primary or isolated secondary central nervous system (CNS) lymphoma.\n\nThe study will be performed in three cohorts with different dose levels according to the best-of-5 dose escalation design. A safety review committee (SRC) will evaluate dose-limiting toxicities and decide a",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients are eligible to be included in the study only if all of the following criteria apply and are maintained at Day -2 to Day 0 (before IMP infusion):\n\n1. Signed informed consent, by the patient or an authorized legal guardian in case the patient is temporarily not competent",
+      "endpoints": [
+        "Incidence, severity and relationship of (S)AEs (graded in severity according to NCI CTCAE version 5.0)"
+      ],
+      "sponsor": "Pentixapharm AG",
+      "url": "https://clinicaltrials.gov/study/NCT06132737"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02432235",
+      "title": "A Phase 1 Adaptive Dose-Escalation Study to Evaluate the Tolerability, Safety, Pharmacokinetics, and Antitumor Activity of ADCT-301 in Patients With Relapsed or Refractory Hodgkin Lymphoma and Non-Hodgkin Lymphoma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-10-05",
+      "completion_date": "2019-10-24",
+      "country": "United States, United Kingdom",
+      "enrollment": 133,
+      "brief_summary": "This study evaluates camidanlumab tesirine in participants with relapsed/refractory Non-Hodgkin or Hodgkin lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female age 18 years or older.\n2. Refractory or relapsed lymphoma (per World Health Organization (WHO) Classification system)\n3. Pathologically confirmed relapsed or refractory lymphoma\n4. Availability of formalin-fixed paraffin-embedded (FFPE) tumor tissue block.\n5. M",
+      "endpoints": [
+        "Number of Participants Who Experienced Dose-Limiting Toxicities (DLTs)",
+        "Recommended Dose of Camidanlumab Tesirine for Part 2",
+        "Number of Participants Reporting at Least One Treatment Emergent Adverse Event (TEAE)"
+      ],
+      "sponsor": "ADC Therapeutics S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02432235"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01323920",
+      "title": "Bortezomib-based Graft-Versus-Host-Disease Prophylaxis After Myeloablative Allogeneic Stem Cell Transplantation for Patients Lacking HLA-matched Related Donors: A Phase 2 Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2013-11",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "A common problem after stem cell transplant is graft-versus-host-disease (GVHD). GVHD is a complication of transplantation where the donor graft attacks and damages some of your tissues. After stem cell transplant, all patients receive prophylactic medications against GVHD.\n\nIn this research study, we are studying the safety and effectiveness of a bortezomib based GVHD prophylaxic drug combination in participants after myeloablative allogeneic stem call transplantation from a matched unrelated d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed advanced and/or aggressive hematologic malignancy (including myelodysplastic syndrome) that is unlikely to be cured by alternative therapies\n* HLA-Matched unrelated donor; or 1-locus HLA-mismatched related or unrelated donor\n* ECOG per",
+      "endpoints": [
+        "The Cumulative Incidence of Grade II-IV Acute GVHD up to Day 100 After Stem Cell Infusion"
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01323920"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03674411",
+      "title": "Single-Arm, Open Label, Interventional Phase II Clinical Trial Evaluating MGTA-456 in Patients With High-Risk Malignancy",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-01-02",
+      "completion_date": "2026-12-01",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "This is an single arm, open label, interventional phase II trial evaluating the efficacy of umbilical cord blood (UCB) hematopoietic stem and progenitor cells (HSPC) expanded in culture with stimulatory cytokines (SCF, Flt-3L, IL-6 and thromopoietin) on lympho-hematopoietic recovery. Patients will receive a uniform myeloablative conditioning and post-transplant immunoprophylaxis.",
+      "eligibility_criteria": "Age, Unit Cell Dose and HLA Match Criteria\n\n* Subjects must be ≤55 years of age\n* Subjects must weigh \\>11 kg\n* Subjects must have a partially HLA matched UCB unit with a pre-cryopreserved TNC dose \\>1.0 x 107 per kilogram recipient weight. HLA matching is initially based on a minimum of 5 of 8 HLA ",
+      "endpoints": [
+        "Percentage of Participants With Neutrophil Recover"
+      ],
+      "sponsor": "Masonic Cancer Center, University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT03674411"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001249",
+      "title": "Treatment of Tac-Expressing Cutaneous T-Cell Lymphoma (CTCL) and Adult T-Cell Leukemia (ATL) With Yttrium-90 Radiolabeled Anti-Tac",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1989-12",
+      "completion_date": "2000-10",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The study purpose is to evaluate the clinical response to multidose administration of anti-Tac monoclonal antibody conjugated with 10 mCi 90Y in patients with Tac-expressing adult T-cell leukemia (ATL).",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\nHistologically confirmed adult T-cell leukemia/lymphoma (ATL) or cutaneous T-cell lymphoma (CTCL).\n\nReactivity of at least 10% of peripheral blood, lymph node, or dermal malignant cells with anti-Tac as determined by immunofluorescent staining or soluble IL-2 receptor level",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00001249"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02373579",
+      "title": "Effect of Omega-3 Fatty Acids on Methotrexate Induced Hepatotoxicity in Children With Acute Lymphoblastic Leukemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2014-10",
+      "country": "N/A",
+      "enrollment": 70,
+      "brief_summary": "Study the role of oxidative stress in methotrexate induced hepatic damage, and the possible protective effect of OMEGA-3 fatty acids against methotrexate hepatotoxicity using clinical and biochemical parameters.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Child age: less than 17 years old.\n* Taking oral methotrexate in maintenance therapy.\n* Patients are at cycle one day zero.\n\nExclusion Criteria:\n\n* Child infected by hepatitis B or C viruses.\n* Child taking medications or having a condition causing elevation in liver enzymes l",
+      "endpoints": [
+        "Number of Participants with Adverse Events as a Measure of Safety and Tolerability by measuring Malondialdehyde (MDA) level changes .",
+        "Number of Participants with Adverse Events as a Measure of Safety and Tolerability by measuring Total antioxidant capacity (TAC) level changes.",
+        "Number of Participants with Adverse Events as a Measure of Safety and Tolerability by measuring superoxide dismutase (SOD) level changes."
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT02373579"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001941",
+      "title": "A Phase I/II Study of the Efficacy and Toxicity of Humanized Anti-Tac (Zenapax(Trademark)) in the Therapy of Tac-Expressing Adult T-Cell Leukemia",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1999-12",
+      "completion_date": "2011-02",
+      "country": "United States",
+      "enrollment": 34,
+      "brief_summary": "The purpose of the study was to determine: (1) the toxicity and maximum tolerated dose (MTD) of humanized anti-Tac (daclizumab), (Zenapax(Registered Trademark)) in patients with adult T-cell leukemia/lymphoma (ATL); (2) to define the dose of Zenapax(Registered Trademark) required to saturate interleukin 2 receptor alpha (IL-2R) alpha in patients with ATL; (3) determine the clinical response to humanized (Hu) anti-Tac (Zenapax(Registered Trademark) of patients with Tac-expressing adult T-cell leu",
+      "eligibility_criteria": "* ELIGIBILITY CRITERIA:\n* Population Base.\n* Patients diagnosed with smoldering or chronic human T-lymphotropic virus type 1 (HTLV-I)- associated adult T-cell leukemia.\n\nINCLUSION CRITERIA:\n\n* Patients must have serum antibodies directed to HTLV-I.\n* All patients must have a histologically confirmed",
+      "endpoints": [
+        "Duration of Response",
+        "Overall Survival",
+        "Percentage of Participants With an Overall Response Rate"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00001941"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06680661",
+      "title": "ABBA CORD: Double Umbilical Cord Blood Transplants With Abatacept for Graft Versus Host Disease Prophylaxis",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-02-25",
+      "completion_date": "2028-10-31",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The goal of this clinical trial is to see if adding abatacept to tacrolimus and MMF prevents or reduces the chances of acute graft versus host disease which is a complication that can occur after transplant in participants with blood cancer. The usual therapy for graft versus host disease prevention after a cord blood transplant includes tacrolimus and MMF. The main question this clinical trial aims to answer is whether or not abatacept will be safe and effective in reducing aGVHD rates in dCBT.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with the following hematologic malignancies:\n\n  * Acute myelogenous leukemia (AML): High-risk and intermediate-risk AML including:\n\n    * Antecedent hematological disease (e.g., myelodysplasia (MDS))\n    * Treatment-related leukemia\n    * Complete Remission (CR1) with",
+      "endpoints": [
+        "Severe aGVHD free survival"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT06680661"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03314974",
+      "title": "Myeloablative Allogeneic Hematopoietic Cell Transplantation Using a Related or Unrelated Donor for the Treatment of Hematological Diseases",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2018-03-30",
+      "completion_date": "2027-06-10",
+      "country": "United States",
+      "enrollment": 300,
+      "brief_summary": "This is a Phase II study of allogeneic hematopoietic stem cell transplant (HCT) using a myeloablative preparative regimen (of either total body irradiation (TBI); or, fludarabine/busulfan for patients unable to receive further radiation). followed by a post-transplant graft-versus-host disease (GVHD) prophylaxis regimen of post-transplant cyclophosphamide (PTCy), tacrolimus (Tac), and mycophenolate mofetil (MMF).",
+      "eligibility_criteria": "-Inclusion Criteria:\n\n* Age: ≤ 60 years of age\n* Performance Status: Karnofsky ≥ 70%, Lansky play score ≥ 70\n* Consent: Voluntary written consent (adult or legally authorized representative; or parental/guardian)\n* Adequate Organ Function:\n\n  * Renal: Creatinine \\<2x upper limit of normal. Patients ",
+      "endpoints": [
+        "Chronic GVHD - 1 year"
+      ],
+      "sponsor": "Masonic Cancer Center, University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT03314974"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00389506",
+      "title": "A Pilot Study of Anti-Tac(Fv)-PE38 (LMB-2) Immunotoxin for Treatment of CD25 Positive Hodgkin's Disease After Fludarabine and Cyclophosphamide",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2006-09",
+      "completion_date": "2008-05",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as fludarabine and cyclophosphamide, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. LMB-2 immunotoxin can find cancer cells and kill them without harming normal cells. Giving fludarabine and cyclophosphamide followed by LMB-2 immunotoxin may kill more cancer cells.\n\nPURPOSE: This clinical trial is studying how well giving fludarabine and cyclophosphamide followed by LMB-2 immuno",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histopathologically confirmed CD25+ Hodgkin's lymphoma\n\n  * At least 20% of the malignant cells positive by immunohistochemistry\n  * Stage II-IV disease\n* Meets the following criteria:\n\n  * Failed standard chemotherapy\n  * Not eligible for curative salvage radiotherapy or",
+      "endpoints": [
+        "Feasibility of using fludarabine phosphate and cyclophosphamide to decrease neutralizing antibodies"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00389506"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03380026",
+      "title": "Valchlor Therapy in Conjunction With Triamcinolone 0.1% Ointment for the Treatment of Contact Dermatitis in Patients With Early Stage Cutaneous T-cell Lymphoma (Mechlorethamine Induced Dermatitis Avoidance Study)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-12-13",
+      "completion_date": "2020-12-13",
+      "country": "United States",
+      "enrollment": 28,
+      "brief_summary": "This is a two-arm, open-label study that aims to compare the incidence and severity of the most common adverse reactions, particularly contact dermatitis, when Valchlor is used alone or in conjunction with triamcinolone ointment 0.1% in early stage MF subjects (Stage IA and IB) for a period of 4 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be eligible to receive Valchlor therapy.\n* Be at least of 18 years of age and ability to give informed consent\n* Have stage IA or IB CTCL\n* Subjects with histologic variants of Mycosis Fungoides such as folliculotropic, granulomatous slack skin, syringotropic MF, or large cell",
+      "endpoints": [
+        "Incidence of Moderate to Severe Contact Dermatitis by SCORD Scoring"
+      ],
+      "sponsor": "Rochester Skin Lymphoma Medical Group, PLLC",
+      "url": "https://clinicaltrials.gov/study/NCT03380026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05111743",
+      "title": "Real-world Evaluation of Brolucizumab for the Treatment of Neovascular (Wet) Age-related Macular Degeneration (AMD) (Komodo Health)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-06-17",
+      "completion_date": "2020-12-18",
+      "country": "United States",
+      "enrollment": 9261,
+      "brief_summary": "This study was a retrospective cohort study of patients to assess the early insights into real-world safety among wet AMD patients initiating brolucizumab. Evidence was generated to describe their patient characteristics and clinical outcomes. The study was conducted using the Komodo Healthcare Map.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. ≥1 Healthcare Common Procedure Coding System (HCPCS) code (J code) or National Drug Code (NDC) for treatment with brolucizumab during the index period (date of earliest code = index date)\n2. ≥18 years old on the index date\n3. ≥1 International Classification of Diseases, Clini",
+      "endpoints": [
+        "Number of patient eyes with an Intraocular Inflammation (IOI) event during the first 6 months"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT05111743"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00082017",
+      "title": "Phase II Study of UCN-01 in Relapsed or Refractory Systemic Anaplastic Large Cell and Mature T-Cell Lymphomas",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2004-04-05",
+      "completion_date": "2011-09-27",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This study will examine the effects of an experimental drug called UCN-01 (7-hydroxystaurosporine) on T-cell lymphomas. UCN-01 inhibits the growth of several different tumor cells, and, in laboratory studies, it has worked particularly well on tumor cells taken from patients with T cell lymphomas.\n\nPatients 9 years of age and older with T cell lymphoma that has relapsed or is not responding to chemotherapy may be eligible for this study. Candidates will be screened with a medical histories and p",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nRelapsed or refractory systemic Anaplastic Large Cell Lymphoma (ALCL).\n\nRelapsed or refractory mature T-cell lymphoma to include peripheral T-cell lymphoma unspecified and the following \"specified\" mature T-cell lymphomas:\n\nAdult T-cell lymphoma; Extranodal natural killer (NK)",
+      "endpoints": [
+        "Clinical Response Rate",
+        "Progression Free Survival (PFS)",
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00082017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002681",
+      "title": "Humanized Anti-Tac Antibody Therapy In Hodgkin's Disease, A Phase Ib/II Trial",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1995-07",
+      "completion_date": "2003-12",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "RATIONALE: Monoclonal antibodies can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells. Interleukin-2 may stimulate a person's white blood cells to kill leukemia or lymphoma cells. Combining these two therapies may be an effective treatment for leukemia and lymphoma.\n\nPURPOSE: Phase I/II trial to study the effectiveness of monoclonal antibody therapy plus interleukin-2 in treating patients who have leukemia or lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed diagnosis of one of the following malignancies:\n\n  * Hodgkin's lymphoma\n  * Acute myelogenous leukemia\n  * Chronic myelogenous leukemia\n* Failed standard therapy or in chronic phase if on standard therapy\n* At least 30% of malignant cells reactive",
+      "endpoints": [],
+      "sponsor": "Roger Williams Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00002681"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00321555",
+      "title": "A Phase II Clinical Trial of Anti-Tac(Fv)-PE38 (LMB-2) Immunotoxin for CD25 Positive Hairy Cell Leukemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-05-02",
+      "completion_date": "2022-12-31",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "Background:\n\n* About 80% of patients with hairy cell leukemia (HCL) have tumor cells that have a protein on their surface called cluster of differentiation 25 (CD25).\n* The experimental drug LMB-2 is a recombinant immunotoxin that has been shown to kill leukemia and lymphoma cells with the CD25 protein. (A recombinant immunotoxin is a genetically engineered drug that has two parts - a protein that binds or targets a cancer cell, and a toxin that kills the cancer cell to which it binds.)\n\nObjecti",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\n  1. Histopathological evidence of cluster of differentiation 25 (CD25)+ Hairy Cell Leukemia (HCL) confirmed by the National Institutes of Health (NIH) pathology department. This will require a monoclonal population of peripheral malignant lymphocytes that are CD25 positive by",
+      "endpoints": [
+        "Number of Patients Who Obtain Partial Response/Complete Remission"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00321555"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00019227",
+      "title": "PHASE I/II STUDY OF TAC-EXPRESSING ADULT T-CELL LEUKEMIA (ATL) WITH YTTRIUM-90 (90Y)-RADIOLABELED HUMANIZED ANTI-TAC AND CALCIUM-DTPA",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1996-10",
+      "completion_date": "2006-07",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Monoclonal antibodies can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells.\n\nPURPOSE: Phase I/II trial to study the effectiveness of radiolabeled monoclonal antibody plus pentetic acid calcium in patients with leukemia.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adult T-cell leukemia or lymphoma (ATL) of any stage\n* Tac expression of malignant cells confirmed by one of the following:\n\n  * At least 10% of peripheral blood, lymph node, or dermal malignant cells reactive with anti-Tac by immunofluorescent st",
+      "endpoints": [],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00019227"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03959241",
+      "title": "A Randomized, Multicenter, Phase III Trial of Tacrolimus/Methotrexate Versus Post-Transplant Cyclophosphamide/Tacrolimus/Mycophenolate Mofetil in Non-Myeloablative/Reduced Intensity Conditioning Allogeneic Peripheral Blood Stem Cell Transplantation (BMT CTN 1703; Progress III); Companion Study: Microbiome and Immune Reconstitution in Cellular Therapies and Hematopoietic Stem Cell Transplantation (BMT CTN 1801; Mi-Immune)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-06-25",
+      "completion_date": "2022-09-19",
+      "country": "United States",
+      "enrollment": 431,
+      "brief_summary": "1703: The study is designed as a randomized, phase III, multicenter trial comparing two acute graft-versus-host disease (aGVHD) prophylaxis regimens: tacrolimus/methotrexate (Tac/MTX) versus post-transplant cyclophosphamide/tacrolimus/mycophenolate mofetil (PTCy/Tac/MMF) in the setting of reduced intensity conditioning (RIC) allogeneic peripheral blood stem cell (PBSC) transplantation.\n\n1801: The goal of this protocol is to test the primary hypothesis that the engraftment stool microbiome divers",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18.0 years or older at the time of enrollment on Segment A\n2. Patients with acute leukemia or chronic myelogenous leukemia with no circulating blasts and with less than 5% blasts in the bone marrow\n3. Patients with myelodysplasia/chronic myelomonocytic leukemia with no ci",
+      "endpoints": [
+        "Percentage of Participants With GVHD/Relapse or Progression-free Survival (GRFS) at One Year"
+      ],
+      "sponsor": "Medical College of Wisconsin",
+      "url": "https://clinicaltrials.gov/study/NCT03959241"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01951885",
+      "title": "Tacrolimus, Mini-dose Methotrexate and Mycophenolate Mofetil Versus Tacrolimus and Methotrexate for the Prevention of Acute Graft-versus-Host-Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-07-07",
+      "completion_date": "2021-08-11",
+      "country": "United States",
+      "enrollment": 101,
+      "brief_summary": "This randomized clinical trial studies standard GVHD prophylaxis with tacrolimus and methotrexate compared to tacrolimus, mycophenolate mofetil and a reduced-dose methotrexate in patients with hematologic malignancies undergoing allogeneic hematopoietic cell transplant. Both mycophenolate mofetil and reduced-dose methotrexate, in combination with a calcineurin inhibitor, have been shown to be safe and effective in GVHD prevention with less toxicity than standard dose methotrexate. It is not yet ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have one of the following documented diseases:\n\n  * Chronic myelogenous leukemia\n  * Chronic lymphocytic leukemia\n  * Multiple myeloma\n  * Myelodysplasia\n  * Myeloproliferative disorder\n  * Non-Hodgkin's lymphoma\n  * Hodgkin's disease\n  * Acute myelogenous leukem",
+      "endpoints": [
+        "Percentage of Severe (Grade 3-4) Mucositis Graded According to the World Health Organization (WHO) Grading Scale",
+        "Time to Neutrophil Engraftment",
+        "Time to Platelet Engraftment"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01951885"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03794635",
+      "title": "A Communication-Based Intervention for Cancer Patient-Caregiver Dyads to Increase Engagement Treatment Planning and Reduce Caregiver Burden",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-12-20",
+      "completion_date": "2026-12",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "This study will test an intervention to improve patients' and their caregivers' ability to manage difficult emotions and communicate about the patient's illness. There will be two versions of the intervention used for this study: a culturally tailored version for Latinx participants refined during Phase 1 of this study, and a version of the intervention that was not culturally tailored for Latinx patients and caregivers developed in previous work. The two interventions differ in minor content ar",
+      "eligibility_criteria": "Inclusion Criteria:\n\nFor Patients:\n\n* Self-identifies as Latino/a\n* Diagnosis of poor prognosis advanced cancer defined as: (1) locally advanced or metastatic cancer (i.e., thoracic, gynecological, genitourinary cancer, pancreatic or lymphoma) or (2) disease progression following at least first line",
+      "endpoints": [
+        "Feasibility of patient-caregiver communication-based intervention defined by participant enrollment",
+        "Feasibility of patient-caregiver communication-based intervention defined by participant retention"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT03794635"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01476839",
+      "title": "Phase I Study of Yttrium-90 Labeled Anti-CD25 (a-Tac) Monoclonal Antibody Plus BEAM for Autologous Hematopoietic Cell Transplantation (AHCT) in Patients With Primary Refractory or Relapsed Hodgkin Lymphoma, the \"a-Tac BEAM Regimen\"",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-11-09",
+      "completion_date": "2024-05-31",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "This phase I clinical trial studies the side effects and best dose of radiolabeled monoclonal antibody therapy when given together with combination chemotherapy before stem cell transplant and to see how well it works in treating patients with primary refractory (did not respond to treatment) or relapsed (returned after treatment) Hodgkin lymphoma. Radiolabeled monoclonal antibodies can find cancer cells and carry cancer-killing substances to them without harming normal cells. Drugs used in chem",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pathology confirmation of HL with City of Hope (COH) pathology review\n* Hodgkin lymphoma that is:\n\n  * PIF (primary induction failure): did not enter complete remission with first line of therapy; Note: a patient with PIF who responds to salvage therapy with a PR or CR is also",
+      "endpoints": [
+        "RP2D of Yttrium-90 labeled basiliximab",
+        "DLT"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01476839"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05106192",
+      "title": "Triamcinolone Acetonide Injections in Primary Cutaneous Lymphoma Plaques With a Novel Needle-free Drug-delivery System.",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2022-04-01",
+      "completion_date": "2026-06-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "A study to compare pain differences between using MedJet needle-free drug-delivery system with standard of care treatment for cutaneous T-cell lymphomas and cutaneous B-cell lymphomas in participants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. \\> 18 years of age\n2. Diagnosed with primary cutaneous lymphoma defined by either:\n\n   * A board-certified dermatologist, OR\n   * Dermatology Nurse Practitioner, OR\n   * Skin punch biopsy\n3. The presence of plaque-type primary cutaneous lymphoma lesions with at least two plaq",
+      "endpoints": [
+        "Pain measurement between the Med-Jet and standard of care treatment."
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT05106192"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02988466",
+      "title": "Reduced Intensity (RIC) Conditioning And Transplantation of HLA-Haploidentical Related Hematopoietic Cells (Haplo-HCT) For Patients With Hematologic Malignancies",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-01-24",
+      "completion_date": "2025-03-24",
+      "country": "United States",
+      "enrollment": 78,
+      "brief_summary": "This is a single institution phase II study of a reduced intensity conditioning (RIC) followed by a haploidentical hematopoietic cell transplant (haplo-HCT) in persons with diagnosis of hematologic malignancy. Conditioning will consists of fludarabine, cyclophosphamide, melphalan and total body irradiation (TBI) preparative regimen with a melphalan dose reduction for patients ≥55 years old and those with HCT Comorbidity Index (CI) \\>3. This study uses a two-stage phase II design with accrual goa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Karnofsky performance status of ≥70% or Lansky play score ≥ 70%\n* A related haploidentical bone marrow donor with up to 2 or 3 HLA locus-mismatches\n* The donor and recipient must be HLA identical for at least one haplotype (using high resolution DNA based typing) at the follow",
+      "endpoints": [
+        "Disease-free Survival (DFS)"
+      ],
+      "sponsor": "Masonic Cancer Center, University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT02988466"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04095858",
+      "title": "A Randomized, Double Blind, Placebo Controlled, Multi-center, Phase III Study of CD24Fc for Prevention of Acute Graft-Versus-Host Disease Following Myeloablative Allogeneic Hematopoietic Stem Cell Transplantation",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2021-01-05",
+      "completion_date": "2021-11-05",
+      "country": "United States",
+      "enrollment": 11,
+      "brief_summary": "The study compares two acute graft-versus-host disease (aGVHD) prophylaxis regimens: efprezimod alfa vs placebo with the standard GVHD prophylaxis of tacrolimus / methotrexate.\n\nThe study compares two acute graft-versus-host disease (aGVHD) prophylaxis regimens: efprezimod alfa/tacrolimus / methotrexate (efprezimod alfa/Tac/MTX) versus placebo/tacrolimus / methotrexate (placebo/Tac/MTX) in the setting of myeloablative conditioning (MAC), matched unrelated donor (MUD) allogeneic hematopoietic ste",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. A prospective participant for allogeneic HCT for a malignant hematologic disorder.\n2. The donor and recipient must have a human leukocyte antigen (HLA)-8/8 allelic match at the HLA-A, -B, -C, and - DRB1 loci. High-resolution typing is required for all alleles for unmatched do",
+      "endpoints": [
+        "180 Day Grade III-IV Acute Graft-Versus-Host Disease (GVHD)-Free Survival (aGFS)"
+      ],
+      "sponsor": "Oncoimmune, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
+      "url": "https://clinicaltrials.gov/study/NCT04095858"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02345850",
+      "title": "A Randomized, Multi-Center, Phase III Trial of Calcineurin Inhibitor-Free Interventions for Prevention of Graft-versus-Host Disease (BMT CTN 1301; Progress II)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-08",
+      "completion_date": "2020-10-05",
+      "country": "United States",
+      "enrollment": 346,
+      "brief_summary": "The study is designed as a three arm randomized Phase III, multicenter trial comparing two calcineurin inhibitor (CNI)-free strategies for Graft-versus-Host Disease (GVHD) prophylaxis to standard tacrolimus and methotrexate (Tac/Mtx) in patients with hematologic malignancies undergoing myeloablative conditioning hematopoietic stem cell transplantation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males and females aged ≥ 1.0 year and \\< 66.0 years\n2. Patients with acute leukemia in morphologic complete remission with or without hematologic recovery or with myelodysplasia (MDS) with no circulating blasts and with less than 5% blasts in the bone marrow. Patients with CM",
+      "endpoints": [
+        "Chronic GVHD-free, Relapse-free Survival (CRFS) Probability"
+      ],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "url": "https://clinicaltrials.gov/study/NCT02345850"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002765",
+      "title": "PHASE I STUDY OF ANTI-TAC(Fv)-PE38 (LMB-2), A RECOMBINANT SINGLE-CHAIN IMMUNOTOXIN FOR TREATMENT OF TAC-EXPRESSING MALIGNANCIES",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1996-04",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Immunotoxins can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells.\n\nPURPOSE: Phase I trial to study the effectiveness of LMB-2 immunotoxin in treating patients who have leukemia or lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed Hodgkin's disease, non-Hodgkin's lymphoma, or leukemia in one of the following categories:\n\n  * Adult T-cell leukemia or lymphoma (ATL)\n\n    * No smoldering ATL\n    * No limitation on prior therapy\n  * Cutaneous T-cell lymphoma (CTCL)\n\n    * Stage",
+      "endpoints": [],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00002765"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001575",
+      "title": "Anti-Tac(90 Y-HAT) to Treat Hodgkin's Disease, Non-Hodgkin's Lymphoma and Lymphoid Leukemia",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1997-04",
+      "completion_date": "2013-11",
+      "country": "United States",
+      "enrollment": 87,
+      "brief_summary": "This study will examine the use of a radioactive monoclonal antibody called yttrium 90-labeled humanized anti-Tac (90 Y-HAT) for treating certain cancers. Monoclonal antibodies are genetically engineered proteins made in large quantities and directed against a specific target in the body. The anti-Tac antibody in this study is targeted to tumor cells and is tagged (labeled) with a radioactive substance called Yttrium-90 (Y-90). The study will determine the maximum tolerated dose of 90Y-HAT and e",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nAll patients must have a histologically confirmed diagnosis of Hodgkin's disease. Patients who have had an allogeneic or autologous transplant are eligible if they are more than 100 days post-transplant.\n\nAt least 10% of each patient's malignant cells from peripheral blood, ly",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of 90Y-HAT",
+        "Clinical Response"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00001575"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00924170",
+      "title": "Phase II Trial of LMB-2, Fludarabine and Cyclophosphamide for Adult T-Cell Leukemia",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-10-31",
+      "completion_date": "2021-05-05",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "BACKGROUND:\n\n* Cluster of differentiation 25 (CD25) (p55, Tac or interleukin 2 receptor (IL2R) alpha) is strongly expressed in virtually 100% of patients with adult T-cell leukemia/lymphoma (ATL), a highly aggressive human T-lymphotropic virus type 1 (HTLV-1) related malignancy responding poorly to chemotherapy.\n* In ATL, the humanized anti-CD25 monoclonal antibody (Mab) daclizumab produced 13-14% responses, and the anti-CD52 Mab Alemtuzumab (Campath-1H) produced response lasting greater than 2 ",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\n  1. Diagnosis of acute or lymphomatous adult T-cell leukemia (ATL) by flow cytometry of blood or immunohistochemistry of biopsy tissue, confirmed by National Cancer Institute (NCI) Laboratory of Pathology, and previously treated unless the patient is ineligible for or refuses",
+      "endpoints": [
+        "Percentage of Participants With a Minimally Durable Clinical Response Rate"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00924170"
+    }
+  ],
+  "timestamp": "2026-03-04T13:23:09.759522",
+  "success": true,
+  "error_message": null
+}

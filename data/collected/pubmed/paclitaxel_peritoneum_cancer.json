@@ -1,0 +1,613 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Paclitaxel",
+    "disease": "peritoneum cancer",
+    "query_string": "Paclitaxel AND peritoneum cancer"
+  },
+  "data": {
+    "query": "Paclitaxel AND peritoneum cancer",
+    "results": [
+      {
+        "pmid": "40690248",
+        "title": "Ovarian Cancer: A Review.",
+        "abstract": "Ovarian cancer is the eighth most common cause of cancer and cancer death in women worldwide. In 2022, ovarian cancer was diagnosed in approximately 324 398 individuals, and 206 839 died of ovarian cancer worldwide. In 2025, it is estimated that 20 890 US women will be diagnosed with ovarian cancer and 12 730 patients will die of ovarian cancer.",
+        "journal": "JAMA",
+        "year": "2025",
+        "authors": [
+          "Caruso Giuseppe",
+          "Weroha S John",
+          "Cliby William"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Antineoplastic Agents",
+          "Chemotherapy, Adjuvant",
+          "Genes, BRCA1",
+          "Neoplasm Staging",
+          "Ovarian Neoplasms",
+          "Risk Factors",
+          "Age Factors",
+          "Ovary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40690248/"
+      },
+      {
+        "pmid": "39285292",
+        "title": "Adipocyte derived exosomes promote cell invasion and challenge paclitaxel efficacy in ovarian cancer.",
+        "abstract": "Epithelial ovarian cancer (EOC) is the deadliest gynaecological cancer with high mortality rates driven by the common development of resistance to chemotherapy. EOC frequently invades the omentum, an adipocyte-rich organ of the peritoneum and omental adipocytes have been implicated in promoting disease progression, metastasis and chemoresistance. The signalling mechanisms underpinning EOC omentum tropism have yet to be elucidated.",
+        "journal": "Cell communication and signaling : CCS",
+        "year": "2024",
+        "authors": [
+          "Williams Michael Ellis",
+          "Howard David",
+          "Donnelly Claire",
+          "Izadi Fereshteh",
+          "Parra Jezabel Garcia"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Exosomes",
+          "Humans",
+          "Paclitaxel",
+          "Ovarian Neoplasms",
+          "Adipocytes",
+          "MicroRNAs",
+          "Cell Line, Tumor",
+          "Neoplasm Invasiveness",
+          "Omentum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39285292/"
+      },
+      {
+        "pmid": "35123694",
+        "title": "Trametinib versus standard of care in patients with recurrent low-grade serous ovarian cancer (GOG 281/LOGS): an international, randomised, open-label, multicentre, phase 2/3 trial.",
+        "abstract": "Low-grade serous carcinoma of the ovary or peritoneum is characterised by MAPK pathway aberrations and its reduced sensitivity to chemotherapy relative to high-grade serous carcinoma. We compared the MEK inhibitor trametinib to physician's choice standard of care in patients with recurrent low-grade serous carcinoma.",
+        "journal": "Lancet (London, England)",
+        "year": "2022",
+        "authors": [
+          "Gershenson David M",
+          "Miller Austin",
+          "Brady William E",
+          "Paul James",
+          "Carty Karen"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Ovarian Epithelial",
+          "Female",
+          "Humans",
+          "MAP Kinase Kinase 1",
+          "Middle Aged",
+          "Neoplasm Grading"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35123694/"
+      },
+      {
+        "pmid": "40646715",
+        "title": "Carboplatin and paclitaxel induced-gonadotoxicity on the ovarian reserve of young breast cancer patients with BRCA1 mutation.",
+        "abstract": "Are ovarian tissue fragments from patients with BReast CAncer gene 1 (BRCA1)-mutated breast cancer (BC) more sensitive to carboplatin and/or paclitaxel exposure compared to those from non-mutated patients with BC?",
+        "journal": "Human reproduction (Oxford, England)",
+        "year": "2025",
+        "authors": [
+          "Dias Nunes Joana",
+          "Ntemou Elissavet",
+          "Van den Steen Géraldine",
+          "Findikli Necati",
+          "Fastrez Maxime"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Carboplatin",
+          "Paclitaxel",
+          "Humans",
+          "Ovarian Reserve",
+          "Animals",
+          "Breast Neoplasms",
+          "Adult",
+          "BRCA1 Protein",
+          "Ovary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40646715/"
+      },
+      {
+        "pmid": "30761508",
+        "title": "Laparoscopic cytoreductive surgery and HIPEC is effective regarding peritoneum tissue paclitaxel distribution.",
+        "abstract": "In some patients with peritoneal carcinomatosis, we could perform the cytoreductive surgery and the HIPEC procedure by a complete laparoscopic approach to avoid morbidity. We consider that using laparoscopic approach for performing peritoneal carcinomatosis cytoreductive surgery and HIPEC with closed CO2 recirculation technique is possible and safe, with equal efficacy to conventional methods and hemodynamic complications.",
+        "journal": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
+        "year": "2019",
+        "authors": [
+          "Padilla-Valverde D",
+          "Villarejo P",
+          "Redondo J",
+          "Oyarzabal J",
+          "Estella A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents, Phytogenic",
+          "Chemotherapy, Cancer, Regional Perfusion",
+          "Combined Modality Therapy",
+          "Cytoreduction Surgical Procedures",
+          "Female",
+          "Hyperthermia, Induced",
+          "Laparoscopy",
+          "Lymph Node Excision",
+          "Paclitaxel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30761508/"
+      },
+      {
+        "pmid": "26124480",
+        "title": "Chemotherapy Response Score: Development and Validation of a System to Quantify Histopathologic Response to Neoadjuvant Chemotherapy in Tubo-Ovarian High-Grade Serous Carcinoma.",
+        "abstract": "To develop and validate a histopathologic scoring system for measuring response to neoadjuvant chemotherapy in interval debulking surgery specimens of stage IIIC to IV tubo-ovarian high-grade serous carcinoma.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2015",
+        "authors": [
+          "Böhm Steffen",
+          "Faruqi Asma",
+          "Said Ian",
+          "Lockley Michelle",
+          "Brockbank Elly"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Chemotherapy, Adjuvant",
+          "Cystadenocarcinoma, Serous",
+          "Cytoreduction Surgical Procedures",
+          "Disease-Free Survival",
+          "Fallopian Tube Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26124480/"
+      },
+      {
+        "pmid": "36456160",
+        "title": "First-Line Gemcitabine, Nab-Paclitaxel, and Oxaliplatin Chemotherapy With Itraconazole in Patients With Metastatic Pancreatic Cancer: A Single Institution Experience.",
+        "abstract": "Combination chemotherapy with gemcitabine, nab-paclitaxel, oxaliplatin, and itraconazole (GnPO-ITC) was administered as first-line chemotherapy in patients with metastatic pancreatic cancer (mPC). The efficacy and toxicity of these treatments were retrospectively investigated.",
+        "journal": "Anticancer research",
+        "year": "2022",
+        "authors": [
+          "Sawasaki Miyuki",
+          "Tsubamoto Hiroshi",
+          "Sugihara Ayako",
+          "Ikuta Shinichi",
+          "Sakai Yoshiyuki"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Middle Aged",
+          "Oxaliplatin",
+          "Itraconazole",
+          "Retrospective Studies",
+          "Pancreatic Neoplasms",
+          "Gemcitabine",
+          "Albumins",
+          "Paclitaxel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36456160/"
+      },
+      {
+        "pmid": "27981493",
+        "title": "Conversion Surgery Post-Intraperitoneal Paclitaxel and Systemic Chemotherapy for Gastric Cancer Carcinomatosis Peritonei. Are We Ready?",
+        "abstract": "Peritoneal metastasis is common in gastric cancer. It is difficult to treat and carries a poor prognosis. Intraperitoneal (IP) delivery of chemotherapy can attain a higher drug exposure in the peritoneal cavity but with reduced systemic toxicity. Therefore, we hypothesized that IP paclitaxel with systemic chemotherapy would be clinically beneficial for gastric cancer with peritoneal metastases. Patients with unresectable and/or recurrent gastric adenocarcinoma with peritoneal dissemination and/or positive peritoneal washing cytology were recruited. They underwent eight cycles of IP paclitaxel and systemic XELOX. The primary endpoint was 1-year overall survival rate and secondary endpoints were safety, response rate, and peritoneal cytological response. Patients who subsequently had no distant metastases and two consecutive negative peritoneal cytologies underwent conversion gastrectomy if there was no macroscopic evidence of peritoneal disease at diagnostic laparoscopy. Twenty-two pati",
+        "journal": "Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract",
+        "year": "2017",
+        "authors": [
+          "Chan Dexter Yak Seng",
+          "Syn Nicholas Li-Xun",
+          "Yap Rachel",
+          "Phua Janelle Niam Sin",
+          "Soh Thomas I Peng"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Carcinoma",
+          "Deoxycytidine",
+          "Female",
+          "Fluorouracil",
+          "Gastrectomy",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27981493/"
+      },
+      {
+        "pmid": "9427277",
+        "title": "Paclitaxel and weekly 24-hour infusion of 5-fluorouracil/folinic acid in advanced gastric cancer.",
+        "abstract": "The current phase II study evaluates the safety and efficacy of paclitaxel (Taxol; Bristol-Myers Squibb Company, Princeton, NJ) and 5-fluorouracil (5-FU) plus folinic acid in patients with advanced gastric cancer. Paclitaxel 175 mg/m2 was given intravenously over 3 hours on days 1 and 22; folinic acid 500 mg/m2 given intravenously over 2 hours followed by 5-FU 2,000 mg/m2 given intravenously over 24 hours was administered on days 1, 8, 15, 22, 29, and 36. Six weeks of treatment were considered one cycle, and each cycle was followed by 2 weeks off treatment. Twenty-two patients (six women and 16 men) with advanced/metastatic gastric cancer were entered on trial. All patients are evaluable for response and toxicity. None had received prior chemotherapy. Radiologically metastatic sites included gastric lymph nodes (64%), liver (36%), lungs (18%), peritoneum (18%), bone (9%), and skin (5%). No complete responses were observed. Seven patients (32%; 95% confidence interval, 12% to 52%) had a",
+        "journal": "Seminars in oncology",
+        "year": "1997",
+        "authors": [
+          "Bokemeyer C",
+          "Hartmann J T",
+          "Lampe C S",
+          "Clemens M R",
+          "Quietzsch D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Female",
+          "Fluorouracil",
+          "Humans",
+          "Infusions, Intravenous",
+          "Leucovorin",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9427277/"
+      },
+      {
+        "pmid": "24122996",
+        "title": "Establishment of new intraperitoneal paclitaxel-resistant gastric cancer cell lines and comprehensive gene expression analysis.",
+        "abstract": "Intraperitoneal (i.p.) chemotherapy with paclitaxel is a potential therapeutic modality for patients with peritoneal metastasis of gastric cancer. To overcome paclitaxel resistance, which is a major clinical problem with this modality, prediction of i.p. paclitaxel resistance is critically important.",
+        "journal": "Anticancer research",
+        "year": "2013",
+        "authors": [
+          "Murakami Hiroki",
+          "Ito Seiji",
+          "Tanaka Harunari",
+          "Kondo Eisaku",
+          "Kodera Yasuhiro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "ATPases Associated with Diverse Cellular Activities",
+          "Adaptor Proteins, Signal Transducing",
+          "Adenosine Triphosphatases",
+          "Aged",
+          "Animals",
+          "Antineoplastic Agents, Phytogenic",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "DNA-Binding Proteins",
+          "Drug Resistance, Neoplasm"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24122996/"
+      },
+      {
+        "pmid": "12494251",
+        "title": "Combination chemotherapy with paclitaxel and intraperitoneal cisplatin for ovarian cancer with disseminated lesions in the peritoneum and the diaphragm.",
+        "abstract": "In ovarian cancer, the management of micrometastases disseminated in the peritoneal cavity is extremely important. We performed intravenous paclitaxel (PAC) infusion combined with cisplatin (CDDP) intraperitoneal infusion for progressive ovarian cancer.",
+        "journal": "International journal of clinical oncology",
+        "year": "2002",
+        "authors": [
+          "Terauchi Fumitoshi",
+          "Moritake Tetsuya",
+          "Yamamoto Yasuhiro",
+          "Ogura Hisao"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Antineoplastic Agents, Phytogenic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biomarkers, Tumor",
+          "CA-19-9 Antigen",
+          "Carcinoembryonic Antigen",
+          "Cisplatin",
+          "Diaphragm",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12494251/"
+      },
+      {
+        "pmid": "15962635",
+        "title": "Adverse affects of paclitaxel and carboplatin combination chemotherapy in epithelial gynecologic cancer.",
+        "abstract": "To evaluate the adverse affects of paclitaxel and carboplatin combination chemotherapy.",
+        "journal": "Journal of the Medical Association of Thailand = Chotmaihet thangphaet",
+        "year": "2005",
+        "authors": [
+          "Kietpeerakool Chumnan",
+          "Suprasert Prapaporn",
+          "Srisomboon Jatupol"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Cross-Sectional Studies",
+          "Fallopian Tube Neoplasms",
+          "Female",
+          "Genital Neoplasms, Female",
+          "Hematologic Diseases",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15962635/"
+      },
+      {
+        "pmid": "17587539",
+        "title": "[Linitis plastica].",
+        "abstract": "Linitis plastica accounts for 3-19% of gastric cancers. Its diagnosis requires morphology findings of an infiltrating stomach tumor and pathology findings including signet-ring cells and fibrous stroma. Its etiology is not known, and it has no particular features. Diagnostic sensitivity of endoscopy is poor because of the difficulty of biopsies: \"Forceps slide on the infiltrated walls.\" Its characteristic radiologic appearance is due to the infiltration and stiffness that causes it to be known as \"leather-bottle stomach\". Endosonography is currently the reference examination and has made it possible to identify localized linitis. Unlike other stomach cancers, it frequently extends into the peritoneum and lymphatic system. Curative treatment remains radical surgical resection. Modern chemotherapy protocols based on oral derivatives of 5-FU (TS-1) and of paclitaxel appear promising. The severity of its prognosis is explained by the frequency of peritoneal dissemination, lymphatic invasio",
+        "journal": "Presse medicale (Paris, France : 1983)",
+        "year": "2007",
+        "authors": [
+          "Issam Beyrouti Mohamed",
+          "Beyrouti Ramez",
+          "Ben Amar Mohamed",
+          "Frikha Foued",
+          "Beyrouti Rahma"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diagnosis, Differential",
+          "Diagnostic Imaging",
+          "Humans",
+          "Linitis Plastica",
+          "Prognosis",
+          "Stomach Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17587539/"
+      },
+      {
+        "pmid": "38056873",
+        "title": "[A Long-Term Survival Case of Gastric Cancer with Pyloric Stenosis and Peritoneum Dissemination That Received Intravenous and Intraperitoneal Paclitaxel Combined with S-1 Therapy after Bypass Surgery].",
+        "abstract": "Although a 74-year-old man with gastric cancer with pyloric stenosis(cT4aN[+]M0, Stage Ⅲ)had undergone surgery, he was diagnosed with peritoneum dissemination. He received bypass surgery, and an intraperitoneal access port was implanted in his subcutaneous space. Postoperatively, he received 4 courses of SOX therapy. In treatment effect, the primary tumor showed no change, and ascites developed. Therefore, we changed the chemotherapy regimen in intravenous and intraperitoneal paclitaxel combined with S-1 therapy. After starting this regimen, the primary tumor decreased in size, and the pyloric stenosis improved. Currently, the patient is alive without recurrence for 5 years and 8 months after intravenous and intraperitoneal paclitaxel combined with S-1 therapy and receiving this treatment regularly.",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2023",
+        "authors": [
+          "Matono Satoru",
+          "Matsuo Toshihiro",
+          "Uchida Shinji",
+          "Nagano Takeshi",
+          "Sueyoshi Susumu"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Aged",
+          "Paclitaxel",
+          "Stomach Neoplasms",
+          "Peritoneum",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Peritoneal Neoplasms",
+          "Pyloric Stenosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38056873/"
+      },
+      {
+        "pmid": "30905627",
+        "title": "Management of epithelial cancer of the ovary, fallopian tube, and primary peritoneum. Short text of the French Clinical Practice Guidelines issued by FRANCOGYN, CNGOF, SFOG, and GINECO-ARCAGY, and endorsed by INCa.",
+        "abstract": "An MRI is recommended for an ovarian mass that is indeterminate on ultrasound. The ROMA score (combining CA125 and HE4) can also be calculated (Grade A). In presumed early-stage ovarian or tubal cancers, the following procedures should be performed: an omentectomy (at a minimum, infracolic), an appendectomy, multiple peritoneal biopsies, peritoneal cytology (grade C), and pelvic and para-aortic lymphadenectomies (Grade B) for all histologic types, except the expansile mucinous subtypes, for which lymphadenectomies can be omitted (grade C). Minimally invasive surgery is recommended for early-stage ovarian cancer, when there is no risk of tumor rupture (grade B). Adjuvant chemotherapy by carboplatin and paclitaxel is recommended for all high-grade ovarian and tubal cancers (FIGO stages I-IIA) (grade A). For FIGO stage III or IV ovarian, tubal, and primary peritoneal cancers, a contrast-enhanced computed tomography (CT) scan of the thorax/abdomen/pelvis is recommended (Grade B), as well a",
+        "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+        "year": "2019",
+        "authors": [
+          "Lavoue V",
+          "Huchon C",
+          "Akladios C",
+          "Alfonsi P",
+          "Bakrin N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Carcinoma",
+          "Fallopian Tube Neoplasms",
+          "Female",
+          "France",
+          "Humans",
+          "Minimally Invasive Surgical Procedures",
+          "Ovarian Neoplasms",
+          "Peritoneal Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30905627/"
+      },
+      {
+        "pmid": "32232793",
+        "title": "Pathological complete response after intraperitoneal paclitaxel and systemic combined chemotherapy in a patient with peritoneal metastases from gastric cancer: a case report.",
+        "abstract": "Despite recent progress in systemic chemotherapy, the prognosis of patients with peritoneal metastases from gastric cancer is still poor. Efficacious intraperitoneal and systemic combination chemotherapy regimens to treat patients with peritoneal metastases have recently been developed.",
+        "journal": "Surgical case reports",
+        "year": "2020",
+        "authors": [
+          "Meguro Yoshiyuki",
+          "Yamaguchi Hironori",
+          "Kitayama Joji",
+          "Kanamaru Rihito",
+          "Matsumoto Shiro"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32232793/"
+      },
+      {
+        "pmid": "32889836",
+        "title": "Comparison of FOLFIRINOX and Gemcitabine Plus Nab-paclitaxel for Treatment of Metastatic Pancreatic Cancer: Using Korean Pancreatic Cancer (K-PaC) Registry.",
+        "abstract": "By using the Korean Pancreatic Cancer (K-PaC) registry, we compared the clinical outcomes of FOLFIRINOX (FFX) and gemcitabine plus nab-paclitaxel (GNP) in patients with metastatic pancreatic cancer (MPC).",
+        "journal": "American journal of clinical oncology",
+        "year": "2020",
+        "authors": [
+          "Lee Jong-Chan",
+          "Woo Sang Myung",
+          "Shin Dong Woo",
+          "Kim Jinkook",
+          "Yang Se Yeol"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Albumins",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Pancreatic Ductal",
+          "Cross-Over Studies",
+          "Deoxycytidine",
+          "Febrile Neutropenia",
+          "Female",
+          "Fluorouracil",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32889836/"
+      },
+      {
+        "pmid": "15350364",
+        "title": "Pilot study of outpatient paclitaxel, carboplatin and gemcitabine for advanced stage epithelial ovarian, peritoneal, and fallopian tube cancer.",
+        "abstract": "The purpose of this study was to determine the feasibility, response rate, and toxicity of paclitaxel, carboplatin, and gemcitabine as an outpatient regimen in the treatment of ovarian/non-ovarian and tubal adenocarcinoma. This is the largest completed study using this regimen as first-line treatment of these patients.",
+        "journal": "Gynecologic oncology",
+        "year": "2004",
+        "authors": [
+          "Micha John P",
+          "Goldstein Bram H",
+          "Rettenmaier Mark A",
+          "Mattison Julie",
+          "Graham Cheri"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Combined Modality Therapy",
+          "Deoxycytidine",
+          "Disease-Free Survival",
+          "Fallopian Tube Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15350364/"
+      },
+      {
+        "pmid": "21369726",
+        "title": "Paclitaxel and cisplatin chemotherapy for ovarian cancer during pregnancy: case report and review of the literature.",
+        "abstract": "The safety of chemotherapy during pregnancy is debatable. We present a case of advanced ovarian cancer, diagnosed at week 28 of gestational age, treated with 2 cycles of paclitaxel/cisplatin (TC) chemotherapy during pregnancy, with no serious toxicity. At week 34, the patient underwent a caesarean section and delivered a healthy girl. Four additional cycles of TC were administered. Three months after completing chemotherapy, the patient developed abdominal progression and subsequently a huge metastatic cystic mass in the brain. Despite subsequent therapies, the patient died of progressive disease 35 months after the diagnosis. The infant had normal growth and development by 73 months of her age. This is another reported case of ovarian cancer diagnosed during the second trimester of the pregnancy treated with TC chemotherapy without apparent teratogenic effect.",
+        "journal": "Archives of gynecology and obstetrics",
+        "year": "2011",
+        "authors": [
+          "Serkies Krystyna",
+          "Węgrzynowicz Ewa",
+          "Jassem Jacek"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Mucinous",
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Appendectomy",
+          "Brain Neoplasms",
+          "Cesarean Section",
+          "Cisplatin",
+          "Fallopian Tubes",
+          "Fatal Outcome",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21369726/"
+      },
+      {
+        "pmid": "35712969",
+        "title": "Rotational intraperitoneal pressurized aerosol chemotherapy with paclitaxel and cisplatin: pharmacokinetics, tissue concentrations, and toxicities in a pig model.",
+        "abstract": "We used paclitaxel and cisplatin, known to be effective in intraperitoneal chemotherapy, in a novel prototype of rotational intraperitoneal pressurized aerosol chemotherapy (RIPAC) and evaluated the pharmacokinetics, tissue concentrations, and toxicities in a pig model.",
+        "journal": "Journal of gynecologic oncology",
+        "year": "2022",
+        "authors": [
+          "Park Soo Jin",
+          "Lee Eun Ji",
+          "Seol Aeran",
+          "Park Sunwoo",
+          "Ham Jiyeon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aerosols",
+          "Animals",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Humans",
+          "Paclitaxel",
+          "Peritoneum",
+          "Swine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35712969/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:38:02.772577",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,564 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Metronidazole",
+    "disease": "endometritis",
+    "query_string": "Metronidazole AND endometritis"
+  },
+  "data": {
+    "query": "Metronidazole AND endometritis",
+    "results": [
+      {
+        "pmid": "33007269",
+        "title": "Management of clinical chorioamnionitis: an evidence-based approach.",
+        "abstract": "This review aimed to examine the existing evidence about interventions proposed for the treatment of clinical chorioamnionitis, with the goal of developing an evidence-based contemporary approach for the management of this condition. Most trials that assessed the use of antibiotics in clinical chorioamnionitis included patients with a gestational age of ≥34 weeks and in labor. The first-line antimicrobial regimen for the treatment of clinical chorioamnionitis is ampicillin combined with gentamicin, which should be initiated during the intrapartum period. In the event of a cesarean delivery, patients should receive clindamycin at the time of umbilical cord clamping. The administration of additional antibiotic therapy does not appear to be necessary after vaginal or cesarean delivery. However, if postdelivery antibiotics are prescribed, there is support for the administration of an additional dose. Patients can receive antipyretic agents, mainly acetaminophen, even though there is no cle",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "2020",
+        "authors": [
+          "Conde-Agudelo Agustin",
+          "Romero Roberto",
+          "Jung Eun Jung",
+          "Garcia Sánchez Ángel José"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, N.I.H., Intramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Adrenal Cortex Hormones",
+          "Ampicillin",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents, Local",
+          "Antioxidants",
+          "Antipyretics",
+          "Ceftriaxone",
+          "Cesarean Section",
+          "Chorioamnionitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33007269/"
+      },
+      {
+        "pmid": "36768381",
+        "title": "Commonalities and Disparities between Endometriosis and Chronic Endometritis: Therapeutic Potential of Novel Antibiotic Treatment Strategy against Ectopic Endometrium.",
+        "abstract": "Chronic endometritis (CE) is a local mucosal inflammatory disorder of the uterine lining, which is histopathologically recognized as the unusual infiltration of CD138(+) plasmacytes into the endometrial stromal compartment. Accumulating body of research documented that CE is associated with female infertility and several obstetric/neonatal complications. The major cause of CE is thought to be intrauterine infection represented by common bacteria (Escherichia coli, Enterococcus faecalis, Streptococcus, and Staphylococcus), Mycoplasma/Ureaplasma, and Mycobacterium. Additionally, local dysbiosis in the female reproductive tract may be involved in the onset and development of CE. Antibiotic treatments against these microorganisms are effective in the elimination of endometrial stromal plasmacytes in the affected patients. Meanwhile, endometriosis is a common female reproductive tract disease characterized by endometriotic tissues (ectopic endometrium) growing outside the uterus and potenti",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Kitaya Kotaro",
+          "Yasuo Tadahiro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Pregnancy",
+          "Infant, Newborn",
+          "Humans",
+          "Female",
+          "Endometritis",
+          "Endometriosis",
+          "Anti-Bacterial Agents",
+          "Endometrium",
+          "Infertility, Female",
+          "Escherichia coli"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36768381/"
+      },
+      {
+        "pmid": "12844449",
+        "title": "Prevention and treatment of postpartum endometritis.",
+        "abstract": "Postpartum endometritis is an important cause of maternal morbidity after cesarean section. Prophylactic antibiotic therapy reduces the risk by approximately 60%. The benefit of antibiotic therapy for laboring women has been established. For nonlaboring patients, there is still some uncertainty. Intravaginal metronidazole as surgical preparation and oral methylergometrine after delivery are two interventions that show promise as additional prophylactic interventions. The gold standard therapy, once endometritis has been diagnosed, is intravenous clindamycin and gentamicin. If an alternative regimen is chosen, it should have a similar spectrum, including good coverage for gram-positive anaerobes such as Bacteroides fragilis. Antibiotic therapy can be discontinued once the patient is afebrile without continued oral antibiotics. Treatment failure occurs in approximately 10% of cases and should trigger investigation of other infectious complications. Prolonged fever of undetermined etiolog",
+        "journal": "Current women's health reports",
+        "year": "2003",
+        "authors": [
+          "French Linda"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Cesarean Section",
+          "Endometritis",
+          "Female",
+          "Fever",
+          "Humans",
+          "Puerperal Infection",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12844449/"
+      },
+      {
+        "pmid": "40403315",
+        "title": "Prophylactic Oral Cephalexin and Metronidazole Compared With Placebo After Cesarean Delivery to Reduce Infection Complications in Women With Obesity: A Randomized Controlled Trial.",
+        "abstract": "To compare prophylactic oral cephalexin and metronidazole with placebo for 48 hours after cesarean delivery following membrane rupture on the frequency of composite infection morbidity postpartum among pregnant individuals with obesity.",
+        "journal": "Obstetrics and gynecology",
+        "year": "2025",
+        "authors": [
+          "Saad Antonio F",
+          "Goldman Brett",
+          "Spencer Nicholas",
+          "Kuhlmann Maggie",
+          "McDonnold Mollie"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Administration, Oral",
+          "Anti-Bacterial Agents",
+          "Antibiotic Prophylaxis",
+          "Cephalexin",
+          "Cesarean Section",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40403315/"
+      },
+      {
+        "pmid": "6854509",
+        "title": "Blood and milk concentrations of metronidazole in mothers and infants.",
+        "abstract": "In order to assess the amounts of metronidazole and its clearance in suckling neonates whose mothers received the drug in therapeutic doses, we measured its levels in maternal plasma and milk and in infant plasma. Eleven mothers receiving 600 mg metronidazole daily and 4 receiving 1200 mg and their 15 infants had milk and plasma levels determined with a specific semi-micro high-pressure liquid chromatographic method. Maternal mean plasma levels were 5.0 micrograms/ml, range 1.0 - 11.6 micrograms/ml (600 mg/day) and 12.5 micrograms/ml range 3.7 - 17.9 micrograms/ml (1200 mg/day) and corresponding infant plasma levels were 0.8 micrograms/ml, range 0.3 - 1.4 micrograms/ml and 2.4 micrograms/ml, range 0.6 - 4.9 micrograms/ml. Maternal milk/plasma ratio was 1 and baby/mother plasma ratio was 0.15, independent of dosage (Tab. I). The levels of metronidazole hydroxy metabolite (I) were all below those of metronidazole (Tab. II). Simultaneous milk and blood samples showed almost identical leve",
+        "journal": "Journal of perinatal medicine",
+        "year": "1983",
+        "authors": [
+          "Heisterberg L",
+          "Branebjerg P E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Breast Feeding",
+          "Endometritis",
+          "Female",
+          "Humans",
+          "Infant, Newborn",
+          "Metronidazole",
+          "Milk, Human",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6854509/"
+      },
+      {
+        "pmid": "25751198",
+        "title": "Oral and intramuscular treatment options for early postpartum endometritis in low-resource settings: a systematic review.",
+        "abstract": "To suggest options for oral and intramuscular antibiotic treatment of early postpartum endometritis in low-resource community settings where intravenous antibiotics are unavailable.",
+        "journal": "Obstetrics and gynecology",
+        "year": "2015",
+        "authors": [
+          "Meaney-Delman Dana",
+          "Bartlett Linda A",
+          "Gravett Michael G",
+          "Jamieson Denise J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anti-Bacterial Agents",
+          "Developing Countries",
+          "Drug Therapy, Combination",
+          "Endometritis",
+          "Female",
+          "Humans",
+          "Injections, Intramuscular",
+          "Puerperal Infection"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25751198/"
+      },
+      {
+        "pmid": "37391748",
+        "title": "Combined oral antibiotics and intrauterine perfusion can improve in vitro fertilization and embryo transfer pregnancy outcomes in patients with chronic endometritis and repeated embryo implantation failure.",
+        "abstract": "The aim of this retrospective study was to investigate whether oral antibiotics (doxycycline and metronidazole) combined with intrauterine perfusion (gentamicin and dexamethasone) are beneficial for patients with repeated implantation failure (RIF) and chronic endometritis (CE) to improve clinical pregnancy outcomes.",
+        "journal": "BMC women's health",
+        "year": "2023",
+        "authors": [
+          "Ma Nana",
+          "Li Jiaxu",
+          "Zhang Junlei",
+          "Jin Yufu",
+          "Wang Jiawei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Pregnancy",
+          "Humans",
+          "Doxycycline",
+          "Metronidazole",
+          "Pregnancy Outcome",
+          "Endometritis",
+          "Retrospective Studies",
+          "Perfusion",
+          "Anti-Bacterial Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37391748/"
+      },
+      {
+        "pmid": "10804540",
+        "title": "Bacterial vaginosis in pregnancy.",
+        "abstract": "Bacterial vaginosis is a clinical condition caused by replacement of the normal hydrogen peroxide producing Lactobacillus sp. in the vagina with high concentrations of characteristic sets of aerobic and anaerobic bacteria. Bacterial vaginosis is the most prevalent cause of vaginal discharge or malodor, although 50 percent of women who meet the criteria for this condition are asymptomatic. Bacterial vaginosis is reported in 10 to 41 percent of women, and new evidence has shown association with maternal and fetal morbidity. Studies have shown that spontaneous abortion, preterm labor, premature birth, preterm premature rupture of the membranes, amniotic fluid infection, postpartum endometritis, and postcesarean wound infections are increased because of infection with bacterial vaginosis during pregnancy. Clinical trials demonstrated important reductions in many of these adverse events with appropriate screening and antimicrobial treatment protocols. New low-cost, diagnostic, point-of-care",
+        "journal": "Obstetrical & gynecological survey",
+        "year": "2000",
+        "authors": [
+          "McGregor J A",
+          "French J I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Guidelines as Topic",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications, Infectious",
+          "Prevalence",
+          "Risk Factors",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10804540/"
+      },
+      {
+        "pmid": "38273754",
+        "title": "Combination of Doxycycline with Metronidazole Protects against Pyroptosis in Rats with Endometritis through the Modulation of TLR4/NF-κB Pathway.",
+        "abstract": "Endometritis is a condition usually resulted from the bacterial infection of uterus, causing pelvic disease, sepsis, shock, uterine necrosis and even death if it is inappropriately treated. The aim of this study is to explore the pathogenesis of endometritis, and investigate whether the combination of doxycycline and metronidazole offers stronger protection against lipopolysaccharide (LPS)-induced endometritis, and decipher more about the mechanisms underlying endometritis-related pyroptosis.",
+        "journal": "Discovery medicine",
+        "year": "2024",
+        "authors": [
+          "Yao Qi",
+          "Lin Dongmei",
+          "Yang Yanyan",
+          "Zhuang Yuehong"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Rats",
+          "Animals",
+          "NF-kappa B",
+          "Endometritis",
+          "Interleukin-18",
+          "Toll-Like Receptor 4",
+          "Metronidazole",
+          "Doxycycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38273754/"
+      },
+      {
+        "pmid": "39128866",
+        "title": "Variation in diagnostic methods, criteria, and treatment for chronic endometritis: A nationwide survey in Japan.",
+        "abstract": "To investigate variation in the diagnosis and treatment of chronic endometritis (CE) at the national level in Japan.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "year": "2024",
+        "authors": [
+          "Jwa Seung Chik",
+          "Kuroda Keiji",
+          "Shirasawa Hiromitsu",
+          "Harada Miyuki",
+          "Osuga Yutaka"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Endometritis",
+          "Japan",
+          "Chronic Disease",
+          "Reproductive Techniques, Assisted",
+          "Surveys and Questionnaires",
+          "Hysteroscopy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39128866/"
+      },
+      {
+        "pmid": "30954518",
+        "title": "Povidone-iodine 1% is the most effective vaginal antiseptic for preventing post-cesarean endometritis: a systematic review and network meta-analysis.",
+        "abstract": "Direct comparison metaanalyses have reported benefits with presurgical vaginal preparation before cesarean delivery for the reduction of endometritis. These reports did not perform a multitreatment comparison of the various antiseptic solutions assessed in previous studies.",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "2019",
+        "authors": [
+          "Roeckner Jared T",
+          "Sanchez-Ramos Luis",
+          "Mitta Melanie",
+          "Kovacs Andrew",
+          "Kaunitz Andrew M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents, Local",
+          "Cesarean Section",
+          "Cetrimonium",
+          "Chlorhexidine",
+          "Endometritis",
+          "Female",
+          "Humans",
+          "Metronidazole",
+          "Povidone-Iodine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30954518/"
+      },
+      {
+        "pmid": "40467027",
+        "title": "The effect of antibiotic treatment on pregnancy outcomes in patients with mild chronic endometritis undergoing in vitro fertilization.",
+        "abstract": "To study whether antibiotic treatment improves the pregnancy outcomes of frozen-thawed embryo transfer (FET) in infertile patients diagnosed with mild chronic endometritis (CE).",
+        "journal": "Fertility and sterility",
+        "year": "2025",
+        "authors": [
+          "Xu Yiyao",
+          "Kwan Pik Ying",
+          "Chen Wenjun",
+          "Zhang Qingyan",
+          "Zhou Canquan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Pregnancy",
+          "Anti-Bacterial Agents",
+          "Endometritis",
+          "Adult",
+          "Fertilization in Vitro",
+          "Chronic Disease",
+          "Treatment Outcome",
+          "Live Birth"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40467027/"
+      },
+      {
+        "pmid": "3089909",
+        "title": "Treating pelvic inflammatory disease with doxycycline and metronidazole or penicillin and metronidazole.",
+        "abstract": "The best way of treating pelvic inflammatory disease (PID) is not known. The clinical response to two treatment regimens (penicillin plus metronidazole v doxycycline plus metronidazole) was studied in 33 patients with PID confirmed by laparoscopy and endometrial biopsy. The overall failure rate, according to the criteria used in this study was five of 11 (45%) women with chlamydial PID, none of six women with gonococcal PID, all of four women with chlamydial gonococcal PID, and three (25%) of 12 women with non-chlamydial non-gonococcal PID. The failure rate with penicillin plus metronidazole treatment was unacceptably high (53%), and significantly higher than that with doxycycline plus metronidazole (19%) (p = 0.038). In most cases the microbiological and histopathological evaluations identified a probable explanation for the poor response to the treatment regimen used.",
+        "journal": "Genitourinary medicine",
+        "year": "1986",
+        "authors": [
+          "Heinonen P K",
+          "Teisala K",
+          "Punnonen R",
+          "Aine R",
+          "Lehtinen M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Chlamydia trachomatis",
+          "Doxycycline",
+          "Drug Therapy, Combination",
+          "Endometritis",
+          "Female",
+          "Humans",
+          "Metronidazole",
+          "Neisseria gonorrhoeae",
+          "Pelvic Inflammatory Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3089909/"
+      },
+      {
+        "pmid": "12877638",
+        "title": "Postpartum infection treatments: a review.",
+        "abstract": "Upper genital tract infections are the most common complications of the puerperium. Less frequent complications are mastitis and septic pelvic thrombophlebitis. Several risk factors including obstetrical, gynaecological, demographic and surgical, are associated with an increased rate of postpartum endometritis and their influence is higher after a caesarean than vaginal delivery. Postpartum endometritis rate range from 15 to 35%. Their identification should be prioritized to prevent this complication. The vaginal flora plays a central role in the development of endometritis. Prophylactic antibiotic treatment at the time of caesarean delivery has helped reduce the rate of postpartum endometritis. When endometritis has been identified and cultures from the genital tract obtained. empirical therapy should be instituted until culture results are available and only then, if needed, therapy changed according to the microorganism's sensitivity. The use of penicillins, cephalosporins, aminogly",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2003",
+        "authors": [
+          "Chaim Walter",
+          "Burstein Eliezer"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "4-Quinolones",
+          "Adult",
+          "Aminoglycosides",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Bacterial Infections",
+          "Carbapenems",
+          "Cephalosporins",
+          "Clindamycin",
+          "Endometritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12877638/"
+      },
+      {
+        "pmid": "40954081",
+        "title": "Administration of levofloxacin combined with metronidazole suppositories prior to in vitro fertilisation in women with chronic endometritis: a protocol of a single-centre, randomised, controlled clinical trial.",
+        "abstract": "Chronic endometritis (CE) is regarded as a potential factor contributing to infertility and embryo implantation failure. The cause of CE remains unclear at present, but it might be associated with intrauterine microbial infections. Empirical antibiotic treatment typically consists of a 2-week course of oral levofloxacin combined with oral metronidazole. Currently, there is no research comparing the efficacy of oral levofloxacin versus vaginal metronidazole suppositories in improving pregnancy outcomes for these patients. This study aims to evaluate the effectiveness of combining oral levofloxacin with metronidazole suppositories in the treatment of CE. The goal is to enhance clinical pregnancy rates and live birth rates among patients undergoing in vitro fertilisation (IVF), while concurrently mitigating the incidence of miscarriages.",
+        "journal": "BMJ open",
+        "year": "2025",
+        "authors": [
+          "Lin Mingmei",
+          "Wang Yue",
+          "Lv Xiaodong",
+          "Lin Zeyang",
+          "Zeng Zhonghong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial Protocol"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Metronidazole",
+          "Levofloxacin",
+          "Pregnancy",
+          "Fertilization in Vitro",
+          "Endometritis",
+          "Suppositories",
+          "Anti-Bacterial Agents",
+          "Pregnancy Rate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40954081/"
+      },
+      {
+        "pmid": "15472851",
+        "title": "Bacterial vaginosis and anaerobic bacteria are associated with endometritis.",
+        "abstract": "Chlamydia trachomatis and/or Neisseria gonorrhoeae account for approximately one-third to one-half of pelvic inflammatory disease (PID) cases. Thus, up to 70% of cases have an unknown, nongonococcal/nonchlamydial microbial etiology.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2004",
+        "authors": [
+          "Haggerty Catherine L",
+          "Hillier Sharon L",
+          "Bass Debra C",
+          "Ness Roberta B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Bacteria, Anaerobic",
+          "Endometritis",
+          "Female",
+          "Humans",
+          "Metronidazole",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15472851/"
+      },
+      {
+        "pmid": "11704163",
+        "title": "Adjunctive intravaginal metronidazole for the prevention of postcesarean endometritis: a randomized controlled trial.",
+        "abstract": "To estimate the efficacy of preoperative administration of intravaginal metronidazole for the prevention of postcesarean endometritis.",
+        "journal": "Obstetrics and gynecology",
+        "year": "2001",
+        "authors": [
+          "Pitt C",
+          "Sanchez-Ramos L",
+          "Kaunitz A M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Intravaginal",
+          "Adult",
+          "Anti-Infective Agents",
+          "Cesarean Section",
+          "Double-Blind Method",
+          "Endometritis",
+          "Female",
+          "Gels",
+          "Humans",
+          "Incidence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11704163/"
+      },
+      {
+        "pmid": "30174955",
+        "title": "Trichomonas vaginalis Transports Virulent Mycoplasma hominis and Transmits the Infection to Human Cells after Metronidazole Treatment: A Potential Role in Bacterial Invasion of Fetal Membranes and Amniotic Fluid.",
+        "abstract": "Mycoplasma hominis is considered an opportunistic pathogen able to colonize the lower urogenital tract; in females the infection is associated with severe pregnancy and postpartum complications, including abortion, endometritis, preterm delivery, and low birth weight. Molecular mechanisms of pathogenicity and virulence effectors remain poorly characterized. A number of studies in the last decade have demonstrated that M. hominis can establish an endosymbiotic relationship with Trichomonas vaginalis, a urogenital parasitic protozoon, also associated with adverse pregnancy outcomes. Recently, two bacterial genes (alr and goiB) associated with amniotic cavity invasion and a single gene (goiC) associated with intra-amniotic infections and high risk of preterm delivery have been identified in M. hominis isolated from a group of pregnant patients. In this work we demonstrate that a high number of M. hominis intracellularly associated with T. vaginalis have goiC gene, in association with alr ",
+        "journal": "Journal of pregnancy",
+        "year": "2018",
+        "authors": [
+          "Thi Trung Thu Tran",
+          "Margarita Valentina",
+          "Cocco Anna Rita",
+          "Marongiu Alessandra",
+          "Dessì Daniele"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amniotic Fluid",
+          "Anti-Bacterial Agents",
+          "Extraembryonic Membranes",
+          "Female",
+          "Humans",
+          "Metronidazole",
+          "Mycoplasma Infections",
+          "Mycoplasma hominis",
+          "Obstetric Labor, Premature",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30174955/"
+      },
+      {
+        "pmid": "40564224",
+        "title": "Vaginal Cleansing and Post-Cesarean Infectious Morbidity? Updated Systematic Review and Meta-Analysis of Randomized Trials.",
+        "abstract": "Background: Endometritis, maternal fever and wound infection represent the most frequent post-cesarean complications. The aim of the present research was to evaluate the incidence of post-cesarean infections after vaginal cleansing. Materials and methods: The databases analyzed were MEDLINE, Scopus, EMBASE, CENTRAL, Google Scholar, Clinicaltrials.gov and the Register of Controlled Trials. No language or geographical restrictions were applied. We included only randomized controlled trials that analyzed various vaginal antiseptic solutions to reduce postpartum endometritis. The terms employed were as follows: vaginal solution, cesarean section, endometritis, wound infection, chlorhexidine, povidone, metronidazole, cetrimide, and pregnancy. The PICO categorization was as follows: P-population: pregnant women; I-intervention: vaginal antiseptic; C-control: hands-off or routine care; O-outcome: post-cesarean endometritis, wound infection and postoperative fever; S-study design: randomized c",
+        "journal": "Biomedicines",
+        "year": "2025",
+        "authors": [
+          "La Verde Marco",
+          "Torella Marco",
+          "Iavarone Irene",
+          "Molitierno Rossella",
+          "Cerillo Antonio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40564224/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:36:04.443640",
+  "success": true,
+  "error_message": null
+}

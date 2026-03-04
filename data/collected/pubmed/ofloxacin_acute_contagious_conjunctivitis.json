@@ -1,0 +1,78 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ofloxacin",
+    "disease": "acute contagious conjunctivitis",
+    "query_string": "Ofloxacin AND acute contagious conjunctivitis"
+  },
+  "data": {
+    "query": "Ofloxacin AND acute contagious conjunctivitis",
+    "results": [
+      {
+        "pmid": "35238405",
+        "title": "Topical pharmacologic interventions versus placebo for epidemic keratoconjunctivitis.",
+        "abstract": "Viruses cause about 80% of all cases of acute conjunctivitis. Human adenoviruses are believed to account for 65% to 90% of cases of viral conjunctivitis, or 20% to 75% of all causes of infectious keratoconjunctivitis worldwide. Epidemic keratoconjunctivitis (EKC) is a highly contagious subset of adenoviral conjunctivitis that has been associated with large outbreaks at military installations and at medical facilities. It is accompanied by severe conjunctival inflammation, watery discharge, and light sensitivity, and can lead to chronic complications such as corneal and conjunctival scarring with discomfort and poor quality of vision. Due to a lack of consensus on the efficacy of any pharmacotherapy to alter the clinical course of EKC, no standard of care exists, therefore many clinicians offer only supportive care.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2022",
+        "authors": [
+          "Liu Su-Hsun",
+          "Hawkins Barbara S",
+          "Ng Sueko M",
+          "Ren Mark",
+          "Leslie Louis"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Child",
+          "Conjunctivitis",
+          "Conjunctivitis, Viral",
+          "Cyclosporine",
+          "Dexamethasone",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35238405/"
+      },
+      {
+        "pmid": "21604820",
+        "title": "The role of topical moxifloxacin, a new antibacterial in Europe, in the treatment of bacterial conjunctivitis.",
+        "abstract": "This article discusses current practice in the treatment of conjunctivitis and how the use of topical moxifloxacin can increase therapeutic effectiveness, reduce treatment failures and, consequently, be cost effective and reduce the societal burden of the disorder. Current practice and effectiveness data were derived from the literature. Data on healthcare utilization as a result of treatment failure were collected by survey and the cost of treatment was defined using national costings. A decision-analytic model to assess cost effectiveness was developed and the impact on the healthcare budget was calculated to define the health economic impact. Bacterial conjunctivitis represents a significant health problem and accounts for an estimated 1-1.5% of primary-care consultations. The disorder is highly contagious and causes a substantial healthcare and societal burden. Bacterial conjunctivitis is generally self-limiting, resolving within 1-2 weeks. However, the use of antibacterials signif",
+        "journal": "Clinical drug investigation",
+        "year": "2011",
+        "authors": [
+          "Benitez-Del-Castillo Jose",
+          "Verboven Yves",
+          "Stroman David",
+          "Kodjikian Laurent"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anti-Bacterial Agents",
+          "Aza Compounds",
+          "Conjunctivitis, Bacterial",
+          "Cost-Benefit Analysis",
+          "Europe",
+          "Fluoroquinolones",
+          "Humans",
+          "Moxifloxacin",
+          "Ophthalmic Solutions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21604820/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:22:34.590838",
+  "success": true,
+  "error_message": null
+}

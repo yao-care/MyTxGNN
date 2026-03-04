@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Clotrimazole"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00257",
+    "name": "Clotrimazole",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T13:29:53.391565",
+  "success": true,
+  "error_message": null
+}

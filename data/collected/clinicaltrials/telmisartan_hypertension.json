@@ -1,0 +1,929 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Telmisartan",
+    "disease": "hypertension"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01426100",
+      "title": "A Randomized, Double-blind, Multi-center, Phase 3 Trial to Evaluate the Efficacy and Safety of a Fixed Dose Combination of Telmisartan and S-Amlodipine(CKD-828) Versus Telmisartan Monotherapy in Hypertensive Patients Inadequately Controlled by Telmisartan Monotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2012-08",
+      "country": "South Korea",
+      "enrollment": 183,
+      "brief_summary": "The aim of the present study is to evaluate the efficacy and safety of two dose combination of Telmisartan/S-Amlodipine (40/2.5mg and 40/5mg) compared with telmisartan monotherapy (80mg) in hypertensive patients inadequately controlled by telmisartan monotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 18 years or older\n* diagnosis of essential hypertension and blood pressure not adequately controlled(inadequate control defined as seated diastolic blood pressure(DBP)\\>= 90mmHg if on existing antihypertensive treatment of seated DBP \\>= 100mmHg if treatment naive)\n* failu",
+      "endpoints": [
+        "Mean Sitting Diastolic Blood Pressure (MSDBP)"
+      ],
+      "sponsor": "Chong Kun Dang Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT01426100"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02238262",
+      "title": "Observation of Therapy With Micardis® (Telmisartan) in Patients With Essential Hypertension in Hospitals",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2000-05",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 2318,
+      "brief_summary": "The aim of the observational study was to supplement the data on efficacy, safety and tolerability of telmisartan under daily conditions in hospitals",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with diagnosis of essential hypertension\n* Minimum age of 18 years\n\nExclusion Criteria:\n\n* NA",
+      "endpoints": [
+        "Change in clinic blood pressure",
+        "Number of patients with adverse drug reactions"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02238262"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00539487",
+      "title": "TOP -Study Telmisartan - Therapy of Hypertension and Life-style Changes in Cardiovascular Risk Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "",
+      "country": "Germany",
+      "enrollment": 5827,
+      "brief_summary": "This observational non-interventional study will assess (under conditions of clinical practice in daily routine) the antihypertensive efficacy of telmisartan treatment with or without active promotion of lifestyle changes in hypertensive patients at high cardiovascular risk",
+      "eligibility_criteria": "Inclusion Criteria:\n\npatients with essential hypertension aged \\>/= 18 years with one of the following risk factors: history of coronary artery disease or stroke/TIA or peripheral artery disease or diabetes mellitus.\n\nExclusion Criteria:\n\naccording to SPC",
+      "endpoints": [
+        "Blood pressure reduction"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00539487"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01819220",
+      "title": "Randomized, Open Labeled Clinical Trial to Compare the Effectiveness of Amlodipine/Valsartan vs Hydrochlorothiazide/Telmisartan on Glucose Tolerance in Patients With Hypertension With Metabolic Syndrome",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2014-11",
+      "country": "South Korea",
+      "enrollment": 16,
+      "brief_summary": "Recent studies have demonstrated that RAS inhibitors/calcium channel blockers are superior to RAS inhibitors/diuretics for reducing cardiovascular outcomes in hypertension. As such, RAS inhibitors/calcium channel blockers are recommended as first line combination treatment for hypertension. However, the mechanism for the superior efficacy of RAS inhibitors/calcium channel blockers are not well defined. This study will compare the efficacy of RAS inhibitors/calcium channel blockers vs RAS inhibit",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* consent to the study\n* Male or Female ≥ 20 years\n* Patients taking less than 1 antihypertensive medications or not taking antihypertensive medications. Hypertension defined at the screening visit as follows): 140mmHg \\< MSSBP or MSDBP \\> 90mmHg at screening\n* Hypertensive pati",
+      "endpoints": [
+        "To assess the glucose change"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT01819220"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02177435",
+      "title": "An Eight Week Randomized, Double-Blind Study Comparing a Fixed Dose Combination of Telmisartan 80 mg Plus Hydrochlorothiazide 12.5 mg to Telmisartan 80 mg in Patients Who Fail to Respond Adequately to Treatment With Telmisartan 80 mg.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1999-02",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 491,
+      "brief_summary": "Study to demonstrate that a fixed dose combination of telmisartan 80 mg plus hydrochlorothiazide (HCTZ) 12.5 mg (FDC 80/12.5) is superior to telmisartan 80 mg (Telm 80) alone in patients who failed to respond adequately to Telm 80 monotherapy in lowering seated trough diastolic blood pressure (DBP) after eight weeks of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of mild-to-moderate hypertension\n* Patients who fail to respond adequately to telmisartan monotherapy\n* Participants between 18 and 80 years of age\n* Ability to provide written informed consent\n\nExclusion Criteria:\n\n* Patients taking more than three anti-hypertensive m",
+      "endpoints": [
+        "Change from baseline in seated diastolic blood pressure (DBP) at trough"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02177435"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03785067",
+      "title": "Triple Therapy Prevention of Recurrent Intracerebral Disease EveNts Trial (TRIDENT) Cognitive Sub-Study",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2020-02-27",
+      "completion_date": "2021-02-03",
+      "country": "Australia, Netherlands",
+      "enrollment": 1,
+      "brief_summary": "A Sub-Study of an investigator initiated and conducted, multicentre, international, double-blinded, placebo-controlled, parallel-group, randomised controlled trial (TRIDENT) to determine the effect of more intensive long-term blood pressure control, provided by a fixed low-dose combination blood pressure lowering pill (\"Triple Pill\") strategy on top of standard of care, for slowing memory decline as measured by Cambridge Neuropsychological Test Automated Battery (CANTAB), in patients with a hist",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Eligible for, randomised and continuing in the TRIDENT Main Study\n2. Must be able to attend the site conducting the cognitive assessments. In Sydney, this will either be at the same site as where TRIDENT study is conducted or at the BMC, University of Sydney, Camperdown.\n3. A",
+      "endpoints": [
+        "Memory as measured by the Cambridge Neuropsychological Test Automated Battery (CANTAB) Paired Associates Learning (PAL) subtest"
+      ],
+      "sponsor": "The George Institute",
+      "url": "https://clinicaltrials.gov/study/NCT03785067"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02178306",
+      "title": "An Open-labeled, Placebo run-in, Multicentre Study to Investigate the Efficacy and Safety of Telmisartan (40 and 80 mg QD p.o.) in 3 Strata of Mild to Moderate Hypertensive Patients (Sitting Diastolic Blood Pressure ≥ 90 mmHg and ≤ 109 mmHg From Office Cuff Measurement) With Mild/Moderate or Severe Renal Impairment or Requiring Maintenance Hemodialysis. (ESPRIT Study = Efficacy and Safety in Patients With Renal Impairment Treated With Telmisartan)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2000-09",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 82,
+      "brief_summary": "To evaluate the safety and efficacy, in particular with regard to renal function of telmisartan at the doses of 40 mg and 80 mg in hypertensive patients with moderate to endstage renal impairment after 12 weeks of treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Mild to moderate hypertension, sitting diastolic BP ≥ 90 mmHg and BP ≤ 109 mmHg at visit 2\n2. No increase of serum creatinine over 30% within 6 months before the trial\n3. Stable renal insufficiency with a serum creatinine between 200 and 600 µmol/l or maintenance of hemodialy",
+      "endpoints": [
+        "Changes from baseline in seated diastolic blood pressure (DBP) at trough"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02178306"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00274599",
+      "title": "A Prospective, Randomised, Open-Label, Blinded-Endpoint, Parallel Group, Multicentre, Forced-Titration, 14-Week Treatment Study Comparing MICARDIS® (Telmisartan 40-80-80 mg, QD) and ALTACE® (Ramipril 2.5-5-10 mg, QD) in Patients With Mild-to-Moderate Hypertension Using Ambulatory Blood Pressure Monitoring",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-10-09",
+      "completion_date": "",
+      "country": "United States, Canada",
+      "enrollment": 812,
+      "brief_summary": "Demonstrate that telmisartan 80mg was at least as effective and possibly superior to ramipril 5mg \\& 10mg in lowering mean ambulatory DBP and SBP during the last 6 hrs of the 24-hr dosing interval in mild-to-moderate hypertensives at the end of 8 and 14 week treatment phases.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Ability to provide written informed consent in accordance with Good Clinical Practice (GCP) and local legislation.\n* Mild-to-moderate hypertension defined as a mean seated diastolic blood pressure of ≥95 mmHg and ≤109 mmHg, measured by manual cuff sphygmomanometer at Visit 2.\n",
+      "endpoints": [
+        "Change from baseline in the last 6-hr mean DBP & SBP as measured by ABPM at the end of and 8-wk treatment period (T80 vs R5 mg) and 14-wk treatment period (T80 vs R10 mg)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00274599"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03872232",
+      "title": "A Randomized, Double-blind, Active-controlled, Multicenter Phase3 Trial to Evaluate the Efficacy and Safety of Co-administrated Rosuvastatin/Ezetimibe and Telmisartan in Patients With Primary Hypercholesterolemia and Essential Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-02-26",
+      "completion_date": "2020-08-12",
+      "country": "South Korea",
+      "enrollment": 180,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of co-administrated Rosuvastatin/Ezetimibe and Telmisartan in patients with primary hypercholesterolemia and essential hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Subjects with hypertension and hyperlipidemia\n\nExclusion Criteria:\n\n* Patient with known or suspected secondary hypertension\n* Other exclusions applied",
+      "endpoints": [
+        "Low density lipoprotein cholesterol (LDL-C)",
+        "Mean sitting systolic blood pressure (MSSBP)"
+      ],
+      "sponsor": "Addpharma Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03872232"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01806363",
+      "title": "A Phase I Clinical Trial to Evaluate the Pharmacokinetic Interactions and Safety Between Telmisartan and Chlorthalidone in Healthy Male Volunteers.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-11",
+      "completion_date": "2013-06",
+      "country": "South Korea",
+      "enrollment": 60,
+      "brief_summary": "Clinical trial to evaluate the pharmacokinetic interactions and safety between telmisartan and chlorthalidone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy male subjects\n2. Age(yr)between 20 and 50\n3. Signed written informed consent\n\nExclusion Criteria:\n\n1. Known hypersensitivity to investigator product, thiazide, sulphonamide and other drugs or additive.\n2. History of any siginificant Sickness, Cardiovascular, Respirato",
+      "endpoints": [
+        "Part A : AUC, Cmax of Telmisartan",
+        "Part B : AUC, Cmax of Chlorthalidone"
+      ],
+      "sponsor": "HanAll BioPharma Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01806363"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00274638",
+      "title": "A Prospective, Randomised, Open-Label, Blinded-Endpoint, Parallel Group 6-week Treatment Study Comparing Telmisartan Combined With Hydrochlorothiazide (40 mg/12.5 mg or 80 mg/12.5 mg) Tablets With Losartan Combined With Hydrochlorothiazide (50 mg/12.5 mg) Tablets Using Ambulatory Blood Pressure Monitoring in Patients With Mild-to-Moderate Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-07",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 805,
+      "brief_summary": "To demonstrate that Telmisartan combined with Hydrochlorothiazide (MICARDIS® HCT) is superior to Losartan with Hydrochlorothiazide (Hyzaar®) in lowering blood pressure in mild-moderate hypertensives.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ability to provide written informed consent in accordance with GCP and local legislation.\n2. Mild-to-moderate hypertension defined as a mean seated DBP of \\>= 95 mm Hg and \\<=l to 109 mm Hg, measured by manual cuff sphygmomanometer at Visit 2.\n3. Male or Female \\>= 18 years.\n",
+      "endpoints": [
+        "Change from baseline in the last 6-hour mean (relative to dose time) diastolic blood pressure (DBP) as measured by ABPM (Ambulatory Blood Pressure Monitoring)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00274638"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02242838",
+      "title": "Post-Marketing Surveillance of Micardis® (Telmisartan) Special Drug Use-results Survey on Long-term Treatment",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-09",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 6336,
+      "brief_summary": "The primary objective of this survey is to prospectively investigate safety and efficacy in patients with hypertension treated with telmisartan in proper use in medical practice over a long period",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with hypertension\n\nExclusion Criteria:\n\nPatients with the following conditions\n\n* Patients with a history of hypersensitivity of this product\n* Women in pregnancy (included the possibility of pregnancy)\n* Patients with severe biliary obstructive disorders or severe he",
+      "endpoints": [
+        "Number of patients with adverse drug reactions",
+        "Incidence of adverse drug reactions",
+        "Change in Mean systolic blood pressure (SBP)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02242838"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01108796",
+      "title": "Additional Effect of a Life Style Program on Antihypertensive Treatment With Telmisartan",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2009-09",
+      "country": "Slovenia",
+      "enrollment": 1856,
+      "brief_summary": "This post-marketing surveillance study is designed to supplement the data on efficacy and tolerability of Micardis® and MicardisPlus® in patients at cardiovascular risk under general practice conditions.\n\nThe aim of the study is to investigate the effect of a six-month treatment with Micardis® / MicardisPlus® on blood pressure and the effect of the Lifestyle education tool for weight reduction on blood pressure control.\n\nIn addition, the post-marketing surveillance study will provide information",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Patients with essential hypertension (blood pressure (BP) higher or equal to 140/90 mmHg or higher or equal to 130/80 mmHg in case of diabetic patients)\n2. Patients with hypertension under treatment with one or more antihypertensive drug\n\nExclusion criteria:\n\nPatients are exc",
+      "endpoints": [
+        "Changes in Mean Blood Pressure (Systolic) After Treatment, Compared to Baseline",
+        "Changes in Mean Blood Pressure (Diastolic) After Treatment, Compared to Baseline"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT01108796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01075698",
+      "title": "A Trial of Telmisartan Prevention of Cardiovascular Disease",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-07",
+      "completion_date": "2016-03",
+      "country": "Japan",
+      "enrollment": 1228,
+      "brief_summary": "The present research is conducted as a randomized, parallel-group, controlled, open study (using the PROBE method) to primarily verify the effects on various biomarkers in high-risk hypertensive patients treated with ARB (telmisartan, ARB group) as compared with those in patients receiving ordinary therapy (non-ARB group (ordinary therapy group)). In addition, onset of cardiovascular events and levels of markers that are associated with cardiovascular events are observed over time to examine the",
+      "eligibility_criteria": "Inclusion Criteria: Patients who meet all of the criteria listed in \\[1\\] to \\[4\\] below and who have at least one cardiovascular risk listed in \\[1\\] to \\[5\\] below will be included in the study.\n\n1. Outpatients\n2. Age: ≥ 40 to \\< 80\n3. Hypertension: Systolic blood pressure of ≥ 140 mmHg or diastol",
+      "endpoints": [
+        "The effects of ARB therapy and that of standard therapy except ARB on the biomarker levels (UACR and BNP)"
+      ],
+      "sponsor": "Kumamoto University",
+      "url": "https://clinicaltrials.gov/study/NCT01075698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00242814",
+      "title": "A Phase IV Study, Prospective, Randomised, Open Label, Blinded Endpoint, Parallel Group, 9 Weeks of Comparison Between Oral Administration of Telmisartan Tablet (80mg Once Daily) and Amlodipine Tablet (10 mg Once Daily) on Biological PPAR Gamma Activities in Non Controlled Hypertensive Male Patients With Metabolic Syndrome",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-11-03",
+      "completion_date": "",
+      "country": "France",
+      "enrollment": 100,
+      "brief_summary": "The objective of the study is to compare PPAR activities (increase of adiponectin level) between MICARDIS and amlodipine after 6 weeks of treatment in hypertensive patients with metabolic syndrome. Moreover, this study will compare serum level of inflammatory markers of the metabolic syndrome after 6 weeks of treatment.\n\nAn ancillary study performed in one center will assess adipocyte differentiation (PPAR gamma stimulation) in 30 subjects (15 per arm).",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatient written informed consent is signed prior to any trial specific procedures participation\n\n* male patients \\> 18 years\n* Mean seated SBP \\> 130mmHg and/or DBP \\> 85mmHg treated with antihypertensive drug(s)\n* with at least 2 more criteria of metabolic syndrome (NCEPT III).",
+      "endpoints": [
+        "Comparison of the serum adiponectin level at the end of study (6 weeks) between the two groups."
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00242814"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01392534",
+      "title": "Evaluation of the Real-life Efficacy and Safety of a Fixed-dose Telmisartan/Hydrochlorothiazide, Including Its Effect on Plasma Potassium and on Glucose and Lipid Metabolism Parameters in Patients With Essential Arterial Hypertension",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2010-12",
+      "country": "Poland",
+      "enrollment": 1586,
+      "brief_summary": "One of the most common adverse effects resulting from the therapy with thiazides, thiazide-like diuretics and loop diuretics is increased potassium secretion. Disregulation of plasma potassium may be a life-threatening condition due to increased risk of arrythmias. Moreover, it has been postulated that decrease in plasma potassium level may negatively affect glucose metabolism resulting in the increased risk of new-onset type 2 diabetes.The main goal of this study is to assess the efficacy and s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* primary hypertension\n* age\\>18 years\n\nExclusion Criteria:\n\n* Cholestatic disorders or severe hepatic/renal failure\n* allergy to telmisartan or hydrochlorothiazide\n* treatment-resistant hypokalemia or hypercalcemia\n* pregnancy and lactation period",
+      "endpoints": [
+        "Change in systolic (SBP) and diastolic (DBP) blood pressure between first and final visit"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT01392534"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00326768",
+      "title": "An Open-Label, Long-term (52-week), Safety Trial of the Fixed Dose Combination of Telmisartan 80mg Plus Hydrochlorothiazide 12.5mg and Telmisartan 40mg Plus Hydrochlorothiazide 12.5mg in Patients With Essential Hypertension - Efficacy and Safety Evaluation",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2007-08",
+      "country": "Japan",
+      "enrollment": 184,
+      "brief_summary": "The objective of this trial is to assess the safety and efficacy of 52 weeks of open-label treatment with the fixed dose combination of telmisartan 80 mg plus HCTZ 12.5 mg and telmisartan 40 mg plus HCTZ 12.5 mg in patients with essential hypertension.",
+      "eligibility_criteria": "1. Essential hypertensive patients who meet the following criteria:\n\n   * In case of using any antihypertensives, mean seated DBP\\* must be over 90 and under 114 mmHg at Visit 1\n   * In case of not using any antihypertensives, mean seated DBP\\* must be over 95 and under 114 mmHg at Visit 1\n   * Mean",
+      "endpoints": [
+        "Incidence of adverse events",
+        "Changes in clinical laboratory tests (haematology, blood chemistry and urinalysis)",
+        "Changes in electrocardiogram (ECG)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00326768"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02242396",
+      "title": "A Study of a Hypertensive Population Under Treatment With Micardis® and Micardis Plus® Under Real Clinical Conditions With the Goal to Control the Early Morning BP Rise (SURGE II)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2005-08",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 5248,
+      "brief_summary": "The primary objective was to evaluate, through the use of Home blood pressure monitoring (HBPM), the degree of BP control in the early morning hours after 8 weeks of treatment in patients with essential hypertension under treatment with Micardis®, Telmisartan or Micardis Plus®, Telmisartan hydrochlorothiazide.\n\nThe co-primary endpoints were the degree of BP control, and change from baseline until study end in mean systolic blood pressure (mSBP) and mean diastolic blood pressure (mDBP) HBPM in th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients male or female between 18 and 80 years of age\n* Patients with mild to moderate essential hypertension\n* Patients diagnosed with hypertension that are not currently taking antihypertensive medication or previously diagnosed hypertensive patients who are uncontrolled wi",
+      "endpoints": [
+        "Change of degree of Blood Pressure (BP) control in the early morning hours",
+        "Change from baseline in mSBP and mDBP by HBPM in the early morning"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02242396"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06282549",
+      "title": "A Prospective Long-term Cohort Study to Identify the Predictive Model of Cardiocerebrovascular Risk Factors in Elderly Patients with More Than Three Antihypertensive Agents in Patients with Essential Hypertension in Korea",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-06-08",
+      "completion_date": "2027-03-31",
+      "country": "South Korea",
+      "enrollment": 1219,
+      "brief_summary": "This study is to develop a predictive model for cardiocerebrovascular risk factors in elderly patients with essential hypertension with Telmisartan, Amlodipine, and Chlorthalidone Fixed-Dose Combination.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. A patient over 65-year-old with essential hypertension\n2. A patient with essential hypertension who require treatment with 3 or more antihypertensive medication, as determined by investigator's decision\n3. A patient with no MACCE within 6 months prior to the enrollment\n4. A p",
+      "endpoints": [
+        "Percentage of MACCE(Major Adverse Cardiovascular and Cerebrovascular Events)"
+      ],
+      "sponsor": "Yuhan Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT06282549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00982735",
+      "title": "An Observational Cohort Study to Evaluate the Safety and Efficacy of Micardis Tablets Taken Once Daily at 40 mg/Day and 80 mg/Day in Hypertensive Patients Under Real Life Conditions in Usual Clinical Practice.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 987,
+      "brief_summary": "The \"CONTROL\" study is an out patient based prospective observational cohort study. The main aim of the study is to survey the safety and efficacy of Micardis 40 mg/day and 80 mg/day under real life conditions in usual clinical practice in essential hypertensive patients in the Kingdom of Saudi Arabia. The patients participating in the study will be surveyed for 24 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female.\n* Aged 20 to 80 years old.\n* Adult essential hypertensive either newly diagnosed and untreated, or previously treated and uncontrolled patients; sitting blood pressure: systolic BP \\> 140 mmHg but \\< 180 mmHg, and/or diastolic BP \\> 90 mmHg but \\< 110 mmHg).\n* ",
+      "endpoints": [
+        "Number of Patients Achieving Blood Pressure (BP) Control, Sitting Diastolic BP Over Systolic BP 90 Over 140 mm Hg and/or Reduction From Baseline in Sitting Systolic BP or Diastolic BP More Than 10 mm Hg."
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00982735"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03267329",
+      "title": "A Randomized, Open, Parallel, Multicenter, Phase 4 Study to Evaluate the Central Aortic Pressure Effect Between Fixed Dose Combination (Duowell® Tab) and Monotherapy of Telmisartan in Mild Dyslipidemia Patients With Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-09-11",
+      "completion_date": "2020-09-02",
+      "country": "South Korea",
+      "enrollment": 80,
+      "brief_summary": "This study is to evaluate effect and safety on central blood pressure with Duowell compared to telmisartan monotherapy in mild dyslipidemia patients with hypertension during 16 weeks.",
+      "eligibility_criteria": "Inclusion Criteria (All of the followings)\n\n* 40 to 75 years old diagnosed with hypertension\n* at screening, SBP ≥ 140 mmHg\n* at randomization, 130 mmHg ≤ SBP ≤160 mmHg or 80 mmHg ≤ DBP ≤ 100 mmHg\n* at screening, ASCVD risk ≥ 5 %\n* Those who did not take the dyslipidemic medications during screening",
+      "endpoints": [
+        "Changes from baseline in mean central systolic blood pressure"
+      ],
+      "sponsor": "Yuhan Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT03267329"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00932867",
+      "title": "Surveillance of Efficacy and Safety of Drug PRITOR in patieNts With Arterial Hypertension, Who do Not Tolerate ACE inhibitoR Treatment",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2009-08",
+      "country": "Romania, Slovakia",
+      "enrollment": 3114,
+      "brief_summary": "Surveillance of efficacy and safety of drug PRITOR in patieNts with arterial hypertension, who do not tolerate ACE inhibitoR treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients over 18 years of age\n* Arterial hypertension (SBP \\< 160 mmHg and DBP \\< 100 mmHg)\n* Patients, who do not tolerate ACE inhibitors (must be documented in the official ambulant documentation)\n\nInclusion criteria for the control arm (treated by ACEi):\n\n* Patients over 18",
+      "endpoints": [
+        "To evaluate efficacy and safety of telmisartan in patients with arterial hypertension, who do not tolerate ACEI treatment"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00932867"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02206659",
+      "title": "An Open-label Evaluation of Trough and Peak Effects of 40 mg Telmisartan Tablet by Ambulatory Blood Pressure Monitoring in Chinese Patients With Mild to Moderate Essential Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-08",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "To assess the trough/peak ratio of 40 mg Telmisartan tablet by ambulatory blood pressure monitoring in Chinese patients with mild to moderate essential hypertension",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chinese male or female aged 18 to 75 years\n* Mild to moderate hypertension defined as a morning DBP \\_95 and \\<110 mm Hg at visit1 and visit 2. Mean sitting systolic pressure (SBP) must be \\<180 mm Hg\n* Ability to provide written informed consent\n\nExclusion Criteria:\n\n* Women ",
+      "endpoints": [
+        "Mean of trough/peak (T/P) ratio for diastolic blood pressure (DBP) and systolic blood pressure (SBP)",
+        "Median of T/P ratio for DBP and SBP"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02206659"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03247140",
+      "title": "An Open Label, Randomized, Single-dose, 4-period Cross-over Study to Compare the Pharmacokinetics and Safety Following Administration of JLP-1401 and Coadministration of Rosuvastatin and Telmisartan/Amlodipine in Healthy Adult Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-06-10",
+      "completion_date": "2017-11-27",
+      "country": "South Korea",
+      "enrollment": 40,
+      "brief_summary": "The PK Characteristics of the Co-administration of Rosuvastatin and Telmisartan/Amlodipine and JLP-1401 in Healthy Male Volunteers Volunteers",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male volunteer, age is over 19 years Body weight is over 55kg, The result of Body Mass Index(BMI) is not less than 17.5 kg/m2 , no more than 30.5 kg/m2\n* Subject who has the ability to comprehend the study objectives, contents and the property of the study drug before ",
+      "endpoints": [
+        "AUC",
+        "Cmax"
+      ],
+      "sponsor": "Jeil Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03247140"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07030101",
+      "title": "A Phase 3 Double-blind, Multicenter, Randomized, Double-blind, Triple-dummy, Controlled Trial to Assess the Efficacy and Safety of a TCA108 in Participants ≥18 Years of Age With Uncontrolled Hypertension",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-11",
+      "completion_date": "2029-11",
+      "country": "N/A",
+      "enrollment": 400,
+      "brief_summary": "The purpose of this study if to evaluate the efficacy and safety of TCA108 in the treatment of hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participant must be 18 years of age or older at the time of signing the informed consent.\n2. Participants with a diagnosis of arterial hypertension presenting with SBP ≥ 140 mmHg and ≤ 170 mmHg and DBP ≥ 90 mmHg and ≤ 110 mmHg, confirmed by triplicate measurements from the re",
+      "endpoints": [
+        "Mean change from baseline systolic blood pressure (SBP) after 10 weeks of treatment"
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT07030101"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02933658",
+      "title": "Study of Multiple Oral Dosing to Evaluate the Safety and the Pharmacokinetic Drug-drug Interaction of Telmisartan/Amlodipine and Rosuvastatin in Healthy Male Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-11",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 71,
+      "brief_summary": "A non-randomized, two-arm, single-sequence, crossover, open label, multiple oral dosing clinical trial to evaluate the safety and the pharmacokinetic drug-drug interaction of Telmisartan/Amlodipine and Rosuvastatin in healthy male volunteers",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male who are ≥19, \\<50 years old\n* Man who weights over 55kg and whose BMI is 18\\~30(kg/m2)\n* Man who doesn't have any chronic disease or history of disease\n\nExclusion Criteria:\n\n* man who has or had any clinically relevant disease of liver, kidney, nervous/respiratory",
+      "endpoints": [
+        "AUC of Reference 1",
+        "Cmax of Reference 1",
+        "AUC of Reference 2"
+      ],
+      "sponsor": "Daewon Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02933658"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04970108",
+      "title": "National, Multicenter, Randomized, Double-blind, Triple-dummy, Phase III Clinical Trial to Evaluate the Efficacy and Safety of Egito Association in the Treatment of Type II Diabetes Mellitus and Hypertension",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2023-08",
+      "completion_date": "2025-05",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of Egito association in the treatment of type 2 diabetes mellitus and hypertension",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to confirm voluntary participation and agree to all trial purposes by signing and dating the informed consent forms;\n* Participants of both sexes, with age greater than or equal to 18 years and less than or equal to 85 years;\n* Participants presenting the diagnosis of ",
+      "endpoints": [
+        "Glycated hemoglobin",
+        "Systolic blood pressure (SBP)"
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT04970108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06041529",
+      "title": "An Open-Label, Superiority, Randomized, Comparative Study to Evaluate the Efficacy and Safety of Telmisartan, Amlodipine, and Chlorthalidone Fixed-Dose Combination Versus Telmisartan, Amlodipine, and Hydrochlorothiazide in Elderly Patients With Essential Hypertension Uncontrolled by Telmisartan and Amlodipine Combinations",
+      "phase": "PHASE4",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-10-18",
+      "completion_date": "2026-02-28",
+      "country": "South Korea",
+      "enrollment": 198,
+      "brief_summary": "This study is to compare the efficacy and safety of Telmisartan, Amlodipine, and Chlorthalidone Fixed-Dose Combination and Telmisartan, Amlodipine, and Hydrochlorothiazide in Elderly Patients with Essential Hypertension Uncontrolled by Telmisartan and Amlodipine Combinations",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants who have been fully informed about the purpose, content, and characteristics of investigational product, and have voluntarily agreed in writing\n2. Aged ≥ 65 with essential hypertension\n3. Patient with uncontrolled essential hypertension at screening\n\n   * If alre",
+      "endpoints": [
+        "Mean Systolic Blood Pressure (MSBP) in nighttime"
+      ],
+      "sponsor": "Yuhan Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT06041529"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00168857",
+      "title": "A Prospective, Randomised, Double-blind, Double-dummy, Forced-titration, Multicentre, Parallel Group, One Year Treatment Trial to Compare MICARDIS® (Telmisartan) 80 mg Versus COZAAR® (Losartan) 100 mg, in Hypertensive Type 2 Diabetic Patients With Overt Nephropathy (AMADEO Study)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-07-09",
+      "completion_date": "",
+      "country": "Thailand, New Zealand, Australia, Mexico, Taiwan, Canada, United States, Argentina, South Korea, Brazil",
+      "enrollment": 860,
+      "brief_summary": "A number of blood pressure lowering drugs in the class known as angiotensin receptor blockers (ARB) have been shown to slow the decline in kidney function of patients with type 2 diabetes, high blood pressure, and kidney disease. Losartan (COZAAR), is one such drug. The purpose of this research study is to determine if after one year of treatment telmisartan (MICARDIS, GLIOSARTAN, KINZAL, KINZALMONO, PREDXAL, PRITOR, SAMERTAN, TELMISARTAN) 80 mg, another blood pressure lowering drug from the ARB",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Ability to provide written informed consent in accordance with Good Clinical Practice (GCP) and local legislation\n* Age 21-80 years\n* Clinical history of type 2 diabetes mellitus, as defined by either:\n\n  * Hyperglycaemia not requiring insulin (diet, oral hypoglycaemic agents ",
+      "endpoints": [
+        "Change from baseline after one year of treatment in proteinuria (ratio of protein to creatinine as measure in spot urine sample)."
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00168857"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00659581",
+      "title": "Special Survey (Survey on Cerebrovascular and Cardiovascular Events Under Long-term Use) of Micardis Tablets (Telmisartan)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 21471,
+      "brief_summary": "The primary objective of this post marketing survey is to prospectively investigate patients with hypertension treated with Micardis Tablets (hereinafter \"this drug\") in routine clinical settings for 3 years in order to determine the following:\n\n1. Adverse events and adverse drug reactions under long-term use\n2. Blood pressure measurements during the survey period\n3. Determination of the incidence of cerebrovascular and cardiovascular events under use of this drug in routine clinical settings\n4.",
+      "eligibility_criteria": "Inclusion criteria:\n\nHypertension patients unadministered Micardis.\n\nExclusion criteria:\n\n1. Patients with a history of hypersensitivity to any ingredient of this product.\n2. Pregnant woman or possibly pregnant woman\n3. Patients with extremely poor bile secretion or patients with serious hepatic dis",
+      "endpoints": [
+        "Number of Patients With Cerebrovascular(CeV) and Cardiovascular (CaV) Events"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00659581"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00558064",
+      "title": "Filtered Trial for Amlodipine Non-responder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "",
+      "country": "Japan",
+      "enrollment": 531,
+      "brief_summary": "To demonstrate that a fixed-dose combination of telmisartan 40 mg plus amlodipine 5 mg is superior to amlodipine 5 mg alone in patients with essential hypertension and inadequately controlled with amlodipine 5 mg monotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Essential hypertensive patients satisfying all of the following criteria;\n2. Male or Female\n3. Age \\> 20 years\n4. Outpatient\n5. Patients who are able to stop current anti-hypertensive therapy at Visit 1 if taking any anti-hypertensive medications\n6. Patients with an ability t",
+      "endpoints": [
+        "Reduction From Reference Baseline in Mean Seated Diastolic Blood Pressure at Trough (24-hour Post-dosing)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00558064"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01134393",
+      "title": "A Prospective, Open-label TElmisartan/AMlodipine Single Pill STudy to Assess the Efficacy in Patients With Essential Hypertension\"...\"",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "",
+      "country": "Poland, Mexico, Italy, Germany, Netherlands",
+      "enrollment": 502,
+      "brief_summary": "The general aim of this trial to determine the efficacy as measured by the percentage of patients reaching blood pressure goal at the end of the treatment period at 12 weeks. In-clinic blood pressures, home blood pressures and safety will be carefully monitored.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Ability to provide written informed consent in accordance with Good Clinical Practice and local legislation\n2. Age 18 years or older\n3. Patients with uncontrolled hypertension as defined SBP \\> 140 mmHg and SBP \\> 130 mmHg in patients with diabetes or renal impairment or DBP ",
+      "endpoints": [
+        "Percentage of Patients Achieving Blood Pressure (BP) Control After 12 Weeks of Treatment Using In-clinic BP Measurements."
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT01134393"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01243268",
+      "title": "A Regulatory Requirement Post-Marketing Surveillance Study to Monitor the Safety and Efficacy of Twynsta (Telmisartan + Amlodipine SPC, q.d.) in Korean Hypertensive Patients Requiring Combination Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-12-21",
+      "completion_date": "2016-08-18",
+      "country": "South Korea",
+      "enrollment": 674,
+      "brief_summary": "This is a prospective, observational, open-label, multi-center study, which will provide detailed information about the safety and efficacy of Twynsta tablets in Korean hypertensive patients requiring combination therapy. This will present a convenient treatment option for hypertension in Korean patients.",
+      "eligibility_criteria": "Inclusion criteria:\n\nNo specific inclusion and exclusion criteria will be provided due to the exploratory character of the study. Patients who have initiated Twynsta tablets according to the recommended and approved usage in Korea will be consecutively enrolled.\n\nExclusion criteria:\n\nNo specific inc",
+      "endpoints": [
+        "Percentage of Subjects With Adverse Events"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT01243268"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05328310",
+      "title": "The Differential Effects of Antihypertensive Drugs on Central Blood Pressure: Comparison Between Beta-blocker and ARB",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-01-06",
+      "completion_date": "2026-03",
+      "country": "South Korea",
+      "enrollment": 110,
+      "brief_summary": "Trial name) The differential effects of antihypertensive drugs on central blood pressure: comparison between beta-blocker(BB) and angiotensin receptor blocker ARB)\n\nObjectives) To evaluate the effect of BB, which has vasodilatory effects, on CBP by comparison between ARB, one of the most widely used class of antihypertensives.\n\nStudy design) A multicenter, prospective, randomized, controlled, open-label clinical trial for hypertension patients.\n\nPatient enrollment) 110 patients will be enrolled ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. For patients with newly diagnosed hypertension: SBP ≥140mmHg or DBP ≥90 mmHg\n2. For patients with prior diagnosis of hypertension: SBP ≥140mmHg or DBP ≥90 mmHg after a two-week washout period of previous antihypertensive medications.\n3. Patients who wrote the informed consent",
+      "endpoints": [
+        "Central blood pressure"
+      ],
+      "sponsor": "Korea University Anam Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05328310"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00684489",
+      "title": "Renin-Guided Therapeutics in the Management of Untreated, Uncontrolled or Complicated Hypertension",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2003-09",
+      "completion_date": "2005-09",
+      "country": "N/A",
+      "enrollment": 52,
+      "brief_summary": "Plasma renin values determine whether volume or vasoconstrictor (renin) factors predominate in elevating blood pressure and are useful in selecting effective antihypertensive therapy.2,3\n\nThe researchers hypothesize that:\n\n1. Plasma renin-guided therapeutics will improve systolic and diastolic blood pressure control in patients with untreated hypertension as well as in patients with treatment refractory or resistant hypertension that are managed by Clinical Hypertension Specialists.\n2. Renin-gui",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age, 21 years of age and older\n* Male or female (post-menopausal or effective method of birth control)\n* BP and treatment criteria noted above\n* Willingness to provide written, informed consent\n* Ability to adhere to study protocol\n\nExclusion Criteria:\n\n* Uncontrolled diabetes",
+      "endpoints": [],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT00684489"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02177448",
+      "title": "A Double-blind, Parallel-group Comparison Study of BIBR 277 Capsule in Patients With Essential Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-09",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 225,
+      "brief_summary": "The efficacy and safety of Telmisartan capsule in patients with essential hypertension were evaluated in comparison with Enalapril Maleate in the double blind trial.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is ≥ 25 years of age\n* Patient is either male or female\n* Outpatient. Change to inpatient is not allowed during the study period\n* Blood pressure is measured 3 times or more during the 4-week observation period; the last 2 measurements in the sitting position (interval",
+      "endpoints": [
+        "Antihypertensive effect"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02177448"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01914432",
+      "title": "A Double-blind, Randomized, Multi-center Phase III Clinical Trial to Investigate the Safety and Efficacy Between YH16410 Versus Rosuvastatin and Telmisartan Monotherapies in Patients With Hypertension and Hyperlipidemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-11",
+      "completion_date": "2014-06",
+      "country": "South Korea",
+      "enrollment": 210,
+      "brief_summary": "To evaluate efficacy and safety of YH16410 versus rosuvastatin and telmisartan monotherapies in patients with hypertension and hyperlipidemia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed Informed Consent\n* Men and women ≥ 19 years of age\n* Subject who has one of 3 conditions classified by Cardiovascular Risk Factors, 10-Year Risk, Blood Pressure, LDL-C, TG, Coronary Artery Disease and Equivalent\n\nExclusion Criteria:\n\n* Females who are pregnant, breastfe",
+      "endpoints": [
+        "Change in Diastolic Blood Pressure, Change in LDL Cholesterol"
+      ],
+      "sponsor": "Yuhan Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT01914432"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00638911",
+      "title": "PMS Assessing the Safety and Efficacy of Telmisartan in Patients With Mild-to-moderate Essential Hypertension",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 33247,
+      "brief_summary": "The aim of this therapeutic observation is to demonstrate the efficacy and safety of telmisartan or telmisartan and HCTZ in the treatment of patients with mild-to-moderate essential hypertension under normal conditions of use after market launch.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1\\. Male or female patients over the age of 18 years, with mild-to-moderate essential hypertension with values of mean morning seated diastolic BP more than 90 mmHg and less than 109 mmHg and or mean morning seated systolic BP more than 140 mmHg and less than 180 mmHg\n\n1. newly ",
+      "endpoints": [
+        "Primary Endpoints will be the change from baseline in mean systolic blood pressure."
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00638911"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02176499",
+      "title": "Natriuretic Effect of Telmisartan Versus Placebo in Patients With Mild-to-Moderate Hypertension On a Controlled Sodium Diet (100 mmol/Day)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1999-02",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 26,
+      "brief_summary": "Study to compare the natriuretic effect of telmisartan to placebo in mild-to-moderate hypertensive patients on a controlled sodium diet as well as to explore the effects of telmisartan on norepinephrine, plasma renin activity (PRA), plasma aldosterone, urine potassium, creatinin, chloride, bicarbonate and uric acid excretion. Additionally it was assessed whether the natriuretic effect disappears after treatment when telmisartan is stopped. The effects of telmisartan on seated clinic blood pressu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mild-to-moderate hypertension as defined by a morning mean diastolic blood pressure from ≥ 90 and ≤ 115 mmHg and a mean systolic blood pressure ≤ 200 mmHg after five minutes in the seated position at the end of three weeks of placebo run-in treatment\n* Male or female patients ",
+      "endpoints": [
+        "Cumulative urinary sodium loss"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02176499"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02242344",
+      "title": "A Prospective, Randomized, Double-blind, Placebo-controlled, Evaluation of the Safety, Efficacy and Pharmacokinetics of MICARDIS® (Telmisartan) in Children and Adolescents With Hypertension After Four Weeks of Treatment",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 77,
+      "brief_summary": "Study to assess the blood pressure lowering effects of two doses of telmisartan over a four-week treatment period; to determine potentially effective doses for pediatric patients for future studies; to assess the safety and tolerability of two doses of telmisartan.\n\nPharmacokinetic objectives included the determination of the steady-state pharmacokinetics of telmisartan in children and adolescents aged 6 to \\<18 years, and to determine if age-related differences exist",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female children and adolescents 6 to \\<18 years of age at time of informed consent/assent\n2. Ability to provide written informed consent in accordance with Good Clinical Practice (GCP) and local Institutional Review Boards (IRBs), and/or patient assent, when appropria",
+      "endpoints": [
+        "Change from baseline in seated systolic blood pressure (SBP)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02242344"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00939588",
+      "title": "An 8 Week, Double-blind, Randomized, Parallel-group Study to Compare the Effect of Aliskiren 300mg + Valsartan 320mg vs. Telmisartan 80mg + Ramipril 10mg on Biomarkers of the Renin-angiotensin-aldosterone System in Moderate Hypertension",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-07",
+      "completion_date": "",
+      "country": "Russia",
+      "enrollment": 88,
+      "brief_summary": "This study is designed as a mechanistic study to compare the effect of two different combinations of anti-hypertensive treatments (aliskiren and valsartan vs. telmisartan and ramipril) on the renin-angiotensin-aldosterone system (RAAS) in patients with moderate hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females of non-childbearing potential, 18 to 65 years of age with moderate hypertension\n* Patients who are eligible and able to participate in the study\n\nExclusion criteria:\n\n* Severe hypertension or secondary form of hypertension.\n* Serum potassium \\> 5.1 mEq/L (mmol",
+      "endpoints": [
+        "Compare the effects of aliskiren + valsartan vs ramipril + telmisartan on 24-hour urinary aldosterone"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00939588"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00865020",
+      "title": "A Twelve-week, Randomized, Double-blind, Parallel Group Study to Evaluate the Prolonged Efficacy and Safety of Aliskiren 300 mg Compared to Telmisartan 80 mg in Mild to Moderate Hypertensive Patients With the 24-hour Ambulatory Blood Pressure Measurement After 1 Week of Treatment Withdrawal Study Acronym: ASSERTIVE - AliSkiren Study of Profound antihypERtensive Efficacy in hyperTensIVE Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2010-06",
+      "country": "Turkey (Türkiye), Singapore, Mexico, Hungary, Brazil, Philippines, Panama, Spain, Canada, Slovakia, Germany, Venezuela, South Korea, Malaysia, United Kingdom, Ecuador",
+      "enrollment": 822,
+      "brief_summary": "This study was specifically designed to provide additional information on the mechanism of action of direct renin inhibition postulating the higher-level RAS cascade inhibition. The purpose of this study was to compare the prolonged efficacy and safety of aliskiren to that of telmisartan in mild to moderate hypertensive patients in the 24 hrs Ambulatory Blood Pressure Monitoring setting after a one week treatment withdrawal.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mean sitting systolic blood pressure ≥ 140 mmHg and \\< 180 mmHg\n* 24-hr mean ambulatory systolic blood pressure ≥ 135 mmHg\n\nExclusion Criteria:\n\n* Severe hypertension defined as mean sitting systolic blood pressure ≥ 180 mmHg and/or mean sitting diastolic blood pressure ≥ 110 ",
+      "endpoints": [
+        "Change in 24 Hour (24-Hr) Mean Ambulatory Systolic Blood Pressure (MASBP) From the End of the Active Treatment Period to Day 7 of the Withdrawal Period"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00865020"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00936208",
+      "title": "To Evaluate the Safety, Efficacy, and Protection of Micardis 80 mg/Micardis Plus 80/12.5 mg From Cardiovascular Risks in a 24 Weeks Observational Study in Patients With Essential Hypertension Who Have at Least One Other Known Cardio-vascular Risk Factor",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "",
+      "country": "Saudi Arabia, Egypt, United Arab Emirates",
+      "enrollment": 3184,
+      "brief_summary": "PRO-POWER is an observational cohort study for a period of 24 weeks. All recruited patients will have essential hypertension. In addition, the patients will have at least one other contributing risk factor for cardiovascular events. The study aims to evaluate the safety, efficacy and protection of Micardis 80mg/Micardis plus 80/12.5mg from cardiovascular risks in patients with essential hypertension",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Male or female\n* Aged 20 to 80 years old.\n* adult with essential hypertension - either newly diagnosed and untreated, or previously treated and uncontrolled\n* Sitting blood pressure: systolic BP \\> 140 mmHg but \\< 180 mmHg, and/or diastolic BP \\> 90 mmHg but \\< 110 mmHg)\n* At ",
+      "endpoints": [
+        "Change in Diastolic Blood Pressure From Baseline at Week 24",
+        "Change in Systolic Blood Pressure From Baseline at Week 24"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00936208"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02358824",
+      "title": "A Phase I Clinical Trial to Compare the Pharmacokinetics and Safety of CKD-828(Telmisartan 80mg/S-amlodipine 5mg Combination Tablet) to Coadministration of Telmisartan 80mg and S-amlodipine 5mg in Healthy Male Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-02",
+      "completion_date": "2015-06",
+      "country": "South Korea",
+      "enrollment": 48,
+      "brief_summary": "A randomized, open-label, single-dose, four-period, two-way, crossover study,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A healthy volunteer over 20 years old\n* More than 50kg and within 20% of ideal body weight\n* No any congenital or chronic diseases and medical symptom\n* Appropriate for the study from examination(laboratory test, ECG etc.) within 4weeks prior to the first IP administration\n* S",
+      "endpoints": [
+        "Cmax after administration of CKD-828(Fixed Dose Combination) tablet and coadministration of corresponding dose of telmisartan and s-amlodipine.",
+        "AUClast after administration of CKD-828(Fixed Dose Combination) tablet and coadministration of corresponding dose of telmisartan and s-amlodipine."
+      ],
+      "sponsor": "Chong Kun Dang Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT02358824"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02213224",
+      "title": "Evaluation of Perindopril and Telmisartan for the Treatment of Nonalcoholic Fatty Liver Disease: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2014-08",
+      "completion_date": "2017-09",
+      "country": "China",
+      "enrollment": 180,
+      "brief_summary": "The aim of this current study was to assess the therapeutic effects of perindopril and telmisartan for hypertensive patients with NAFLD and make comparison between the therapeutic effects of these two kind of drugs.\n\nThis study is a randomized parallel control clinical trial which would be carried out in Nanfang Hospital, Southern Medical University.\n\nAbout one hundred and eighty patients would be randomly assigned to perindopril,telmisartan and amlodipine three groups.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-70 years old patients who were diagnosed with mild-moderate hypertension and NAFLD;\n* The patients did not take ACEIs or ARBs drugs six weeks before the inclusion; Patients agreed to participate in the trial and signed the informed consent.\n\nExclusion Criteria:\n\n* There are",
+      "endpoints": [
+        "Cap value of FibroScan （dB/m）"
+      ],
+      "sponsor": "Nanfang Hospital, Southern Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT02213224"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01222520",
+      "title": "An Eight-week Randomised Double-blind Study to Compare the Efficacy and Safety of Telmisartan 80 mg+ Amlodipine 5 mg Fixed-dose Combination vs. Telmisartan 80 mg Monotherapy in Patients With Hypertension Who Fail to Respond Adequately to Treatment With Telmisartan 80 mg Monotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "",
+      "country": "Japan",
+      "enrollment": 174,
+      "brief_summary": "If a patient cannot have his or her blood pressure controlled with telmisartan 80 mg, an antihypertensive drug from different class should be started concomitantly.\n\nIn the Japanese 3x3 factorial trial of telmisartan and hydrochlorothiazide in essential hypertension patients whose diastolic blood pressure (DBP) are equal or more than 95 mmHg, the DBP control rate (less than 90 mmHg) after 8 weeks treatment of the telmisartan 80 mg monotherapy group (66 patients) was 41.5%. There should be medica",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Essential hypertensive patients\n\n  * If already taking antihypertensive drugs, mean seated diastolic blood pressure (DBP) must be \\>=90 and \\>=114 mmHg\n  * If not taking any antihypertensive drugs, mean seated DBP must be \\>=95 and \\>=114 mmHg\n* Able to stop all current antihy",
+      "endpoints": [
+        "Reduction From the Reference Baseline in Mean Seated Diastolic Blood Pressure (DBP) at Trough"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT01222520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03860220",
+      "title": "A Multi-center, Randomized, Parallel Phase IV Clinical Trial to Evaluate the Efficacy and Safety of Triple Therapy of Telmisartan/Amlodipine/Rosuvastatin in Patients With Dyslipidemia and Hypertension",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2019-03-01",
+      "completion_date": "2020-06-01",
+      "country": "N/A",
+      "enrollment": 304,
+      "brief_summary": "The goal of this study was to assess the efficacy and safety of FDC therapy with triple therapy of Telmisartan 40 mg/Amlodipine 5 mg/Rosuvastatin 10mg in Korean patients with both hypertension and dyslipidemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 145 mmHg ≤ msSBP ≤ 190 mmHg\n* Triglycerides \\< 500 mg/dL\n* LDL-C ≤ 250 mg/dL\n\nExclusion Criteria:\n\n* sSBP ≥ 20mmHg and sDBP ≥ 10mmHg\n* symptomatic orthostatic hypotension and secondary/iatrogenic hypertension and dyslipidemia\n* history of moderate to severe cerebral ischemia, ",
+      "endpoints": [
+        "Percent changes in mean sitting systolic blood pressure (MSSBP)",
+        "Percent changes in LDL-C"
+      ],
+      "sponsor": "Seoul National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03860220"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00877929",
+      "title": "An 8-week Randomised, Double-blind Study to Compare the Fixed-dose Combination of Telmisartan 80 + Amlodipine 10mg Versus Amlodipine 10 mg Monotherapy as First Line Therapy in Type 2 Diabetes Patients With Hypertension.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "",
+      "country": "Mexico, Spain, Slovakia, Sweden, South Africa, United States, Argentina, South Korea, Netherlands",
+      "enrollment": 706,
+      "brief_summary": "To demonstrate that the fixed dose combination of telmisartan and amlodipine is more effective in lowering blood pressure.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Hypertension defined as a mean in-clinic seated cuff Systolic Blood Pressure \\>150 mmHg at Visit 3 (Randomisation visit)\n2. Diagnosis of Type 2 diabetes mellitus\n3. =18 years of age at the date of signing the informed consent\n4. Ability to stop current antihypertensive therap",
+      "endpoints": [
+        "Change From Baseline in Trough Seated Systolic Blood Pressure to Week 8"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00877929"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00283686",
+      "title": "HALT Progression of Polycystic Kidney Disease Study A",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2014-06",
+      "country": "United States",
+      "enrollment": 558,
+      "brief_summary": "The efficacy of interruption of the renin-angiotensin-aldosterone system (RAAS) on the progression of cystic disease and on the decline in renal function in autosomal dominant kidney disease (ADPKD) will be assessed in two multicenter randomized clinical trials targeting different levels of kidney function: 1) early disease defined by GFR \\>60 mL/min/1.73 m2 (Study A); and 2) moderately advanced disease defined by GFR 25-60 mL/min/1.73 m2 (Study B; NCT01885559). Participants will be recruited an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of ADPKD.\n* Age 15-49 (Study A); Age 18-64 (Study B).\n* GFR \\>60 mL/min/1.73 m2 (Study A); GFR 25-60 mL/min/1.73 m2 (Study B).\n* BP ≥130/80 or receiving treatment for hypertension.\n* Informed Consent.\n\nExclusion Criteria:\n\n* Pregnant/intention to become pregnant in 4",
+      "endpoints": [
+        "Study A: Percent Annual Change in Total Kidney Volume"
+      ],
+      "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "url": "https://clinicaltrials.gov/study/NCT00283686"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02047175",
+      "title": "A Randomized, Open-label, Multiple-dose, Two-arm, One-sequence • Crossover Study to Evaluate the Safety and Pharmacokinetics After Oral Concurrent Administration Telmisartan/S-amlodipine and Rosuvastatin in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-02",
+      "completion_date": "2014-03",
+      "country": "South Korea",
+      "enrollment": 64,
+      "brief_summary": "The purpose of this study is to evaluate the drug-drug interaction of CKD-346(Telmisartan/S-Amlodipine, Rosuvastatin)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participant is a male or female between 20 and 45 years of age (inclusive) at the pre-study (screening)\n2. Participant who has a body weight that is \\>55kg(male) or \\>50kg(female) with ideal body weight of 80-120% (ideal body weight) = {Height(cm) - 100} \\* 0.9\n3. If female, ",
+      "endpoints": [
+        "AUCt,ss of Telmisartan/S-Amlodipine",
+        "Cmax,ss of Telmisartan/S-Amlodipine",
+        "AUCt,ss of Rosuvastatin"
+      ],
+      "sponsor": "Chong Kun Dang Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT02047175"
+    }
+  ],
+  "timestamp": "2026-03-04T13:41:28.330606",
+  "success": true,
+  "error_message": null
+}

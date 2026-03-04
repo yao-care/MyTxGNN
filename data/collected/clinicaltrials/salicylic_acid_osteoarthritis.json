@@ -1,0 +1,70 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Salicylic Acid",
+    "disease": "osteoarthritis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04066426",
+      "title": "Analgesic Efficacy of Naproxen-codeine, Naproxen+Dexamethasone, and Naproxen on Myofascial Pain: A Randomized Double-blind Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-03-01",
+      "completion_date": "2019-07-15",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 200,
+      "brief_summary": "Temporomandibular disorders (TMDs) are one of the most common muco-skeletal disorders, seen in the dental clinics. Many factors work together to initiate or aggravate the condition, so it is a multifactorial disorder. The etiology of TMDs may be a result of parafunctional habits such as clenching and bruxism, acute trauma to the jaw, trauma from hyperextension e.g. after a long dental treatment, joint laxity, psychological distress, occlusal disharmony like presence of high crown or free-end sad",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Without a systemic disease,\n* Not used any medication in the last week\n* Have a habit of clenching and / or grinding teeth, individuals with normal preoperative results, suffering with pain and / or limitation of the mouth opening in the temporomandibular region\n\nExclusion Cri",
+      "endpoints": [
+        "Pain Evaluation",
+        "Pain Evaluation",
+        "Pain Evaluation"
+      ],
+      "sponsor": "Yuzuncu Yil University",
+      "url": "https://clinicaltrials.gov/study/NCT04066426"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03277573",
+      "title": "A Phase 1b, 12-Month, Randomized, Double-Blind, Placebo-Controlled Study of the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Efficacy of Salsalate in Patients With Mild to Moderate Alzheimer's Disease",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-07-21",
+      "completion_date": "2023-04-10",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "The purpose of the study is to test the safety and tolerability of twice daily Salsalate in patients with mild to moderate Alzheimer's Disease. Half of the participants will receive Salsalate and half will receive placebo during the 1-year duration of the study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Between 50 and 85 years of age (inclusive);\n2. Meets National Institute on Aging-Alzheimer's Association Workgroups criteria for probable AD dementia (McKhann et al. 2011) (30);\n3. MRI at Screening is consistent with AD (≤ 4 microhemorrhages, and no large strokes or severe wh",
+      "endpoints": [
+        "Incidence of Treatment-Emergent Adverse Events"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT03277573"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07350239",
+      "title": "Prospective Clinical, Microbial and Tissue-based Characterization Analyses of Severe Temporomandibular Joint Pathology",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03-01",
+      "completion_date": "2029-02-01",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "The general objective of this observational study is to clarify the clinical, microbial, and tissue characteristics, aetiology, and risk factors behind severe TMJ pathology. The main questions it aims to answer are:\n\n* What are the clinical and histologic characteristics of patients with severe pathology of the TMJ?\n* Can microbial DNA be found in TMJ tissue from patients with severe pathology of the TMJ, and if so, does this correlate to the outcome of the surgery?",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients subjected to open TMJ surgery such as arthroplastic surgery with or without autogen or allogen reconstruction\n* Preserved biobank material (resected bone and soft tissue).\n\nExclusion Criteria:\n\n* Absence of biobank material.\n* Inability to give informed consent.",
+      "endpoints": [
+        "Clinical investigation (patients):",
+        "Questionnaires:",
+        "Histopathologic analyses:"
+      ],
+      "sponsor": "Örebro University, Sweden",
+      "url": "https://clinicaltrials.gov/study/NCT07350239"
+    }
+  ],
+  "timestamp": "2026-03-04T13:29:39.243980",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,506 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Dexamethasone",
+    "disease": "disease of orbital region",
+    "query_string": "Dexamethasone AND disease of orbital region"
+  },
+  "data": {
+    "query": "Dexamethasone AND disease of orbital region",
+    "results": [
+      {
+        "pmid": "37184552",
+        "title": "[COVID-19 associated sino-orbital mucormycosis].",
+        "abstract": "To analyze the dynamics of symptoms in patients with COVID-19 associated sino-orbital mucormycosis.",
+        "journal": "Vestnik otorinolaringologii",
+        "year": "2023",
+        "authors": [
+          "Boiko N V",
+          "Kolesnikov V N",
+          "Khanamirov A A",
+          "Lapin M A",
+          "Miroshnichenko D I"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Mucormycosis",
+          "Orbital Diseases",
+          "COVID-19",
+          "Exophthalmos",
+          "Paranasal Sinuses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37184552/"
+      },
+      {
+        "pmid": "16675443",
+        "title": "Interleukin-4 induces 15-lipoxygenase-1 expression in human orbital fibroblasts from patients with Graves disease. Evidence for anatomic site-selective actions of Th2 cytokines.",
+        "abstract": "Orbital fibroblasts orchestrate tissue remodeling in Graves disease, at least in part, because they exhibit exaggerated responses to proinflammatory cytokines. A hallmark of late stage orbital disease is vision-threatening fibrosis, the molecular basis of which remains uncertain. We report here that the Th2 cytokines, interleukin (IL)-4 and IL-13, can induce in these cells the expression of 15-lipoxygenase-1 (15-LOX-1) and in so doing up-regulate the production of 15-hydroxyeicosatetraenoic acid. IL-4 increases 15-LOX-1 protein levels through pretranslational actions. The increased steady-state 15-LOX-1 mRNA is independent of ongoing protein synthesis and involves very modestly increased gene promoter activity. Importantly, IL-4 substantially enhances 15-LOX-1 transcript stability, activity that localizes to a 293-bp sequence of the 3'-untranslated region. IL-4 activates Jak2 in orbital fibroblasts. Interrupting signaling through that pathway, either with the specific chemical inhibito",
+        "journal": "The Journal of biological chemistry",
+        "year": "2006",
+        "authors": [
+          "Chen Beiling",
+          "Tsui Shanli",
+          "Boeglin William E",
+          "Douglas Raymond S",
+          "Brash Alan R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Arachidonate 15-Lipoxygenase",
+          "Autoimmunity",
+          "Dexamethasone",
+          "Enzyme Induction",
+          "Fibroblasts",
+          "Gene Expression Regulation, Enzymologic",
+          "Graves Disease",
+          "Humans",
+          "Interferon-gamma",
+          "Interleukin-13"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16675443/"
+      },
+      {
+        "pmid": "16689139",
+        "title": "Clinicopathologic manifestations and outcome of dengue fever and dengue haemorrhagic fever.",
+        "abstract": "During the peak period of outbreak from July through October, during the year 2000 through 2002, a total of 390 cases of either dengue fever (DF) or dengue haemorrhagic fever (DHF) were collected from medicine outpatient department (MOPD) of Bangabandhu Sheikh Mujib Medical University (BSMMU), Shahbag, Dhaka to study their clinicopathologic manifestations and management outcome. Data were collected using a structured questionnaire. Almost all of the patients presented with fever (100%), headache (98.2%), bodyache (97.7%), anorexia (100%) and nausea (100%) and the vast majority had skin rash (78.5%), backache (78.2%) and retro-orbital pain (79.7%). Mean +/-SD of duration of total illness was 7.57 +/- 1.11 days and that of fever and skin rash were 5.40 +/- 0.86 and 3.02 +/- 0.78 days respectively. Mean +/-SD of platelet count was 69643.59 +/- 32043.97/mm3 of blood and that of haematocrit was 41.18 +/- 2.65%. Almost all of the patients (97.7%) developed thrombocytopenia but only 4.1% deve",
+        "journal": "Bangladesh Medical Research Council bulletin",
+        "year": "2005",
+        "authors": [
+          "Rahim M A",
+          "Sikder M S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Bangladesh",
+          "Dengue",
+          "Dexamethasone",
+          "Episode of Care",
+          "Female",
+          "Glucocorticoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16689139/"
+      },
+      {
+        "pmid": "15728522",
+        "title": "Induction by IL-1 beta of tissue inhibitor of metalloproteinase-1 in human orbital fibroblasts: modulation of gene promoter activity by IL-4 and IFN-gamma.",
+        "abstract": "Thyroid-associated ophthalmopathy (TAO), an autoimmune component of Graves' disease, is associated with profound connective tissue remodeling and fibrosis that appear to involve the selective activation of orbital fibroblasts. Accumulation of extracellular matrix molecules is a hallmark of this process. Here we report that orbital fibroblasts treated with IL-1beta express high levels of tissue inhibitor of metalloproteinase-1 (TIMP-1), an important modulator of matrix metalloproteinase activity. These high levels are associated with increased TIMP-1 activity. The induction is mediated at the pretranslational level and involves activating the TIMP-1 gene promoter. IL-1beta activates the ERK 1/2 pathway in these fibroblasts and interrupting this signaling either with PD98059, a chemical inhibitor of MEK, or by transfecting cells with a dominant negative ERK 1 plasmid results in the attenuation of TIMP-1 induction. Surprisingly, treatment with IL-4 or IFN-gamma could also block the IL-1be",
+        "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+        "year": "2005",
+        "authors": [
+          "Han Rui",
+          "Smith Terry J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Cells, Cultured",
+          "Dexamethasone",
+          "Enzyme Activation",
+          "Extracellular Signal-Regulated MAP Kinases",
+          "Fibroblasts",
+          "Gene Expression Regulation",
+          "Graves Disease",
+          "Humans",
+          "Interferon-gamma",
+          "Interleukin-1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15728522/"
+      },
+      {
+        "pmid": "34646733",
+        "title": "A rare presentation of Klebsiella pneumoniae endogenous panophthalmitis with optic neuritis and orbital cellulitis from a urinary tract infection.",
+        "abstract": "This case illustrates the rare presentation of endogenous Klebsiella pneumoniae endophthalmitis with concomitant orbital cellulitis from an acute pyelonephritis. A 59-year-old Caucasian female with type 2 diabetes mellitus was transferred from a regional hospital with decreased visual acuity, periorbital edema, photophobia, proptosis and pain of the right eye, as well as suprapubic discomfort. Initial ocular examination and B-scan ultrasonography were consistent with endophthalmitis and orbital cellulitis which lead to a vitreous tap and intravitreal antibiotics injection and systemic antibiotherapy. Vitreous and blood cultures confirmed Klebsiella pneumoniae as the causative organism. An orbital MRI showed a panophthalmitis with optic neuritis and further imaging confirmed a concomitant pyelonephritis secondary to a septic nephrolithiasis. The patient was given treatment with high-does intravenous antibiotics, oral and topical corticotherapy, and an early core pars plana vitrectomy (P",
+        "journal": "IDCases",
+        "year": "2021",
+        "authors": [
+          "Bouhout Soumaya",
+          "Lacourse Magaly",
+          "Labbé Annie-Claude",
+          "Aubin Marie-Josée"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34646733/"
+      },
+      {
+        "pmid": "29255927",
+        "title": "Trochlear pain: clinical characteristics and treatment outcomes.",
+        "abstract": "Trochlear pain is frequently overlooked as published data regarding the clinical characteristic and current treatment are limited. The aim of this study is to evaluate this information from our experiences with trochlear pain. Medical records of 43 patients with trochlear pain from HRH Princess Maha Chakri Sirindhorn Medical Center between November 2010 and April 2017 were reviewed. Most patients were female (88%), with a median age of 51 years. Common characteristic symptoms of trochlear pain were acute, episodic, dull or pressure-like, periorbital pain, often radiating to the forehead, and aggravated by eye movements, especially reading. The causes of trochlear pain were idiopathic or primary trochlear headache (n = 33, 77%) and trochleitis (n = 10, 23%). Treatments included oral NSAIDs or dexamethasone injection into the trochlear region. At a median follow-up of 11 months (range 0-64), 67% of the patients reported complete remission using oral medication. Local steroid injection is",
+        "journal": "Journal of neurology",
+        "year": "2018",
+        "authors": [
+          "Chanlalit Waruttaporn",
+          "Teeyapant Chunhakarn",
+          "Soodchuen Sunsiree"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Orbit",
+          "Pain",
+          "Pain Management",
+          "Pain Measurement",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29255927/"
+      },
+      {
+        "pmid": "8784110",
+        "title": "Evidence of adipocyte differentiation in human orbital fibroblasts in primary culture.",
+        "abstract": "Graves' ophthalmopathy (GO), in which orbital tissues are infiltrated with activated T lymphocytes and hyaluronan, can manifest an overabundance of adipose tissue in the human orbit. Little is known about adipogenesis in this anatomic region. We have investigated whether orbital fibroblasts in culture possess the capacity to undergo adipocytic differentiation. Orbital tissue from patients with or without GO was placed in primary culture, and proliferating fibroblasts were sub-passaged. Confluent fibroblasts were subjected to a differentiation protocol, involving a serum-free defined medium supplemented with insulin, triiodothyronine, carbaprostacyclin, thyrotropin, dexamethasone, and isobutylmethylxanthine. Control cells were maintained in serum-free medium supplemented only with insulin. After approximately 14 days, light microscopy revealed characteristic morphologic changes of adipocyte differentiation, including cell rounding and lipid droplet accumulation. Oil Red O staining could",
+        "journal": "The Journal of clinical endocrinology and metabolism",
+        "year": "1996",
+        "authors": [
+          "Sorisky A",
+          "Pardasani D",
+          "Gagnon A",
+          "Smith T J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adipocytes",
+          "Cell Differentiation",
+          "Cells, Cultured",
+          "Eye Diseases",
+          "Fibroblasts",
+          "Graves Disease",
+          "Humans",
+          "Microscopy, Electron, Scanning",
+          "Orbit"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8784110/"
+      },
+      {
+        "pmid": "16359159",
+        "title": "Steroids in rhinoplasty: a survey of current UK otolaryngologists' practice.",
+        "abstract": "The use of steroids during rhinoplasty to reduce post-operative periorbital oedema and ecchymosis has been advocated. A number of randomized controlled trials have demonstrated the benefit of steroids in rhinoplasty. The aim of this study was to determine current UK practice in the use of steroids during rhinoplasty performed by otolaryngologists. A postal survey of consultant otolaryngologists in the UK was conducted. We received 203 responses, with 115 consultants performing 12 or more rhinoplasties per year. Only 28 consultants (24 per cent) used steroids routinely in patients undergoing rhinoplasty and of these 11 used a protocol, although this was unpublished. Dexamethasone was the most common steroid used (82 per cent), being administered as a single intravenous dose of 8 mg in the majority of cases (54 per cent). There was no correlation between the use of steroids and the number of rhinoplasties performed by individual consultants. Despite the evidence supporting the use of ste",
+        "journal": "The Journal of laryngology and otology",
+        "year": "2006",
+        "authors": [
+          "Ofo E",
+          "Singh A",
+          "Marais J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Dexamethasone",
+          "Drug Administration Schedule",
+          "Ecchymosis",
+          "Edema",
+          "Health Care Surveys",
+          "Humans",
+          "Orbital Diseases",
+          "Postoperative Complications",
+          "Rhinoplasty"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16359159/"
+      },
+      {
+        "pmid": "26287404",
+        "title": "Pentraxin-3 Is a TSH-Inducible Protein in Human Fibrocytes and Orbital Fibroblasts.",
+        "abstract": "CD34(+) fibrocytes are bone marrow-derived monocyte progenitor cells that traffic to sites of tissue injury and repair. They putatively infiltrate the orbit in thyroid-associated ophthalmopathy where they appear to transition into CD34(+) orbital fibroblasts (OFs) that interact with residential CD34(-) fibroblasts. A unique phenotypic attribute of fibrocytes and CD34(+) OFs is their expression of the functional thyrotropin receptor (TSHR) and other \"thyroid-specific\" proteins. When activated through TSHR, fibrocytes express a number of cytokines and other inflammatory genes. Here we sought to determine whether pentraxin-3 (PTX-3), an acute-phase protein involved in inflammation and autoimmunity, might be induced by TSH in fibrocytes and OFs. These cells were collected from patients with Graves disease and healthy individuals. PTX-3 mRNA levels were determined by real-time PCR, protein was determined by ELISA and Western blot, and PTX-3 gene promoter activity was assessed with reporter ",
+        "journal": "Endocrinology",
+        "year": "2015",
+        "authors": [
+          "Wang Hao",
+          "Atkins Stephen J",
+          "Fernando Roshini",
+          "Wei Rui-Li",
+          "Smith Terry J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Bone Marrow Cells",
+          "C-Reactive Protein",
+          "Cells, Cultured",
+          "Dexamethasone",
+          "Female",
+          "Fibroblasts",
+          "Glucocorticoids",
+          "Graves Ophthalmopathy",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26287404/"
+      },
+      {
+        "pmid": "40092272",
+        "title": "Efficacy of Atlantoaxial Joint Steroid Injections in Managing Cervicogenic Headache: A Case Series.",
+        "abstract": "The International Headache Society divides headaches into primary (vascular and muscular) and secondary (inflammatory). Secondary headaches include headaches secondary to inflammation caused by injuries to the head and neck. Cervicogenic headache (CGH) is thought to be referred pain arising from irritation caused by cervical structures innervated by spinal nerves C1, C2, and C3; therefore, any structure innervated by the C1-C3 spinal nerves could be the source of a CGH. Pain from the lateral atlanto-axial joint (AAJ) is one of several causes of CGH. The pain is perceived in the upper neck and can be referred to the occiput, ear, vertex, and forehead.",
+        "journal": "Journal of orthopaedic case reports",
+        "year": "2025",
+        "authors": [
+          "Singh Rampal",
+          "Sonkar Lautika"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40092272/"
+      },
+      {
+        "pmid": "12439162",
+        "title": "The efficacy of corticosteroids in postparotidectomy facial nerve paresis.",
+        "abstract": "To determine whether the administration of perioperative corticosteroids is effective in ameliorating facial nerve paresis after parotidectomy.",
+        "journal": "The Laryngoscope",
+        "year": "2002",
+        "authors": [
+          "Lee Kimberly J",
+          "Fee Willard E",
+          "Terris David J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Dexamethasone",
+          "Double-Blind Method",
+          "Facial Paralysis",
+          "Female",
+          "Glucocorticoids",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Parotid Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12439162/"
+      },
+      {
+        "pmid": "34210695",
+        "title": "Endogenous Streptococcus mitis panophthalmitis in a patient visiting the Dominican Republic.",
+        "abstract": "A 67-year-old woman presented with painful, acute vision loss after 5 days of fever and muscle aches while visiting the Dominican Republic. She had no recent history of ocular surgery, dental work or recent trauma. Anterior chamber aspiration confirmed an initial diagnosis of endogenous endophthalmitis, positive for Streptococcus mitis that progressed to panophthalmitis on return to Canada. Treatment included systemic antibiotics, intravitreal antibiotics and intravitreal dexamethasone. Despite the best medical treatment, the left eye progressed to corneal perforation 5 weeks after presentation. An evisceration with fitted orbital implant was successful in alleviating pain following the surgery. S. mitis is a rare, but possible cause of endogenous endophthalmitis and panophthalmitis. It was important to work with a multidisciplinary and global team to coordinate and offer appropriate treatment measures. Although vision was lost, evisceration of the left eye provided ocular comfort and ",
+        "journal": "BMJ case reports",
+        "year": "2021",
+        "authors": [
+          "Liu Victoria",
+          "Pirbhai Adnan",
+          "Masood Syed Faraz"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Canada",
+          "Dominican Republic",
+          "Endophthalmitis",
+          "Female",
+          "Humans",
+          "Panophthalmitis",
+          "Retrospective Studies",
+          "Streptococcus mitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34210695/"
+      },
+      {
+        "pmid": "28746255",
+        "title": "Normalization of Congenital Venous Stasis Retinopathy Following Sclerotherapy of a Macrocystic Lymphatic Malformation.",
+        "abstract": "The authors describe, for the first time to their knowledge, a case of a congenital macrocystic lymphatic malformation of the orbit with associated venous stasis retinopathy that acutely normalized after drainage and sclerotherapy of the lesion. Prenatal ultrasound revealed prominence of the left orbital soft tissue, and at birth, the patient was noted to have unilateral proptosis, tortuous retinal vessels, and intraretinal hemorrhages in all 4 quadrants in the left eye. MRI demonstrated a primarily intraconal, multiloculated, T2-hyperintense mass consistent with a lymphatic malformation. Ultrasound-guided cyst aspiration and sclerotherapy was performed, with subsequent improvement of the proptosis and resolution of the vessel tortuosity and intraretinal hemorrhages. Although venous stasis retinopathy is usually related to central retinal vein occlusion or carotid artery occlusive disease, any entity that increases orbital venous resistance can generate retinal venous dilation and intr",
+        "journal": "Ophthalmic plastic and reconstructive surgery",
+        "year": "2018",
+        "authors": [
+          "Hirabayashi Kristin E",
+          "Kalin-Hajdu Evan",
+          "Bever Greg J",
+          "Vagefi M Reza",
+          "de Alba Campomanes Alejandra G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Dexamethasone",
+          "Female",
+          "Follow-Up Studies",
+          "Glucocorticoids",
+          "Humans",
+          "Infant, Newborn",
+          "Injections, Intravenous",
+          "Lymphatic Abnormalities",
+          "Magnetic Resonance Imaging",
+          "Orbital Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28746255/"
+      },
+      {
+        "pmid": "30407333",
+        "title": "Management of refractory chronic migraine using ultrasound-guided pulsed radiofrequency of greater occipital nerve: Two case reports.",
+        "abstract": "Although various oral medications and procedures are applied for managing migraine, their efficacy remains limited. To control migraine that does not respond to conventional treatments, we conducted pulsed radiofrequency (PRF) stimulation to the greater occipital nerve (GON) in 2 patients.",
+        "journal": "Medicine",
+        "year": "2018",
+        "authors": [
+          "Kwak Soyoung",
+          "Chang Min Cheol"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Chronic Disease",
+          "Female",
+          "Humans",
+          "Male",
+          "Migraine Disorders",
+          "Pain Measurement",
+          "Pulsed Radiofrequency Treatment",
+          "Spinal Nerves",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30407333/"
+      },
+      {
+        "pmid": "16002736",
+        "title": "IL-1 beta induces IL-6 expression in human orbital fibroblasts: identification of an anatomic-site specific phenotypic attribute relevant to thyroid-associated ophthalmopathy.",
+        "abstract": "Human orbital fibroblasts exhibit a unique inflammatory phenotype. In the present study, we report that these fibroblasts, when treated with IL-1beta, express high levels of IL-6, a cytokine involved in B cell activation and the regulation of adipocyte metabolism. The magnitude of this induction is considerably greater than that in dermal fibroblasts and involves up-regulation of IL-6 mRNA levels. IL-1beta activates both p38 and ERK 1/2 components of the MAPK pathways. Disrupting these could attenuate the IL-6 induction. The up-regulation involves enhanced IL-6 gene promoter activity and retardation of IL-6 mRNA decay by IL-1beta. Dexamethasone completely blocked the effect of IL-1beta on IL-6 expression. Orbital fibroblasts also express higher levels of IL-6R than do skin-derived cells. When treated with rIL-6 (10 ng/ml), STAT3 is transiently phosphorylated. Thus, the exaggerated capacity of orbital fibroblasts to express high levels of both IL-6 and its receptor in an anatomic site-s",
+        "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+        "year": "2005",
+        "authors": [
+          "Chen Beiling",
+          "Tsui Shanli",
+          "Smith Terry J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Antigens, CD",
+          "Cell Movement",
+          "Cells, Cultured",
+          "Cytokine Receptor gp130",
+          "Dexamethasone",
+          "Fibroblasts",
+          "Gene Expression Regulation",
+          "Graves Disease",
+          "Humans",
+          "Immunophenotyping"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16002736/"
+      },
+      {
+        "pmid": "33173324",
+        "title": "Active Cousinia thomsonii Extracts Modulate Expression of Crucial Proinflammatory Mediators/Cytokines and NFκB Cascade in Lipopolysaccharide-Induced Albino Wistar Rat Model.",
+        "abstract": "Chronic inflammation is implicated in a multitude of diseases, including arthritis, neurodegeneration, autoimmune myositis, type 2 diabetes, rheumatic disorders, spondylitis, and cancer. Therefore, strategies to explore potent anti-inflammatory regimens are pivotal from a human-health perspective. Medicinal plants represent a vast unexplored treasure trove of therapeutically active constituents with diverse pharmacological activities, including anti-inflammatory properties. Herein, we evaluated Cousinia thomsonii, an edible medicinal herb, for its anti-inflammatory/immunomodulatory properties.",
+        "journal": "Journal of inflammation research",
+        "year": "2020",
+        "authors": [
+          "Dar Khalid Bashir",
+          "Khan Ishfaq Shafi",
+          "Amin Shajrul",
+          "Ganie Aijaz Hassan",
+          "Bhat Aashiq Hussain"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33173324/"
+      },
+      {
+        "pmid": "4714112",
+        "title": "Superior orbital fissure syndrome. Some clinical and radiological observations.",
+        "abstract": "A patient is described with features of a superior orbital fissure (Tolosa Hunt) syndrome and a coexistent intraorbital lesion. There was radiological evidence both of narrowing of the carotid artery and of an intraorbital obstruction of venous return from the orbit. The diagnostic value of orbital venography and carotid angiography in the investigation of granulomata in the region of the orbit is stressed. The condition described here is responsive to corticosteroids and it is also inferred that there may be a clinicopathological spectrum encompassing both the Tolosa Hunt syndrome and pseudotumour of the orbit.",
+        "journal": "Journal of neurology, neurosurgery, and psychiatry",
+        "year": "1973",
+        "authors": [
+          "Hallpike J F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carotid Artery Diseases",
+          "Cerebral Angiography",
+          "Dexamethasone",
+          "Humans",
+          "Male",
+          "Ophthalmoplegia",
+          "Orbit",
+          "Pain",
+          "Tetracycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4714112/"
+      },
+      {
+        "pmid": "23355567",
+        "title": "Multiple brain parenchymal neurocysticercosis with extraocular muscle cysticercosis affecting levator palpebral superioris and superior rectus complex: an unusual association.",
+        "abstract": "An 8-year-old girl presented to the neurology department with a complaint of insidious onset of left-sided ptosis and restricted elevation of the left eye. A CT scan orbit and brain revealed a ring-enhancing lesion in the levator palpebral superioris (LPS) and superior rectus (SR) muscle complex of the left eye and left parietal and right temporal region. She was started on steroid, followed by albendazole with improvement. The LPS/SR complex is the least common site of involvement among extraocular muscles in ocular cysticercosis. Specially, with brain neurocysticercosis (NCC), it is extremely rare. We report an unusual association of multiple brain NCC with ocular cysticercosis involving LPS and SR muscle.",
+        "journal": "BMJ case reports",
+        "year": "2013",
+        "authors": [
+          "Verma Rajesh",
+          "Jaiswal Anupam"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Anti-Inflammatory Agents",
+          "Anticestodal Agents",
+          "Blepharoptosis",
+          "Brain Diseases",
+          "Child",
+          "Cysticercosis",
+          "Dexamethasone",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23355567/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:19:27.942819",
+  "success": true,
+  "error_message": null
+}

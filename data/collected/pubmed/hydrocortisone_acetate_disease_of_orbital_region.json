@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrocortisone Acetate",
+    "disease": "disease of orbital region",
+    "query_string": "Hydrocortisone Acetate AND disease of orbital region"
+  },
+  "data": {
+    "query": "Hydrocortisone Acetate AND disease of orbital region",
+    "results": []
+  },
+  "timestamp": "2026-03-04T13:16:06.235525",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,588 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Cyanocobalamin",
+    "disease": "deficiency anemia",
+    "query_string": "Cyanocobalamin AND deficiency anemia"
+  },
+  "data": {
+    "query": "Cyanocobalamin AND deficiency anemia",
+    "results": [
+      {
+        "pmid": "35458234",
+        "title": "Pernicious Anemia: The Hematological Presentation of a Multifaceted Disorder Caused by Cobalamin Deficiency.",
+        "abstract": "Pernicious anemia is still a neglected disorder in many medical contexts and is underdiagnosed in many patients. Pernicious anemia is linked to but different from autoimmune gastritis. Pernicious anemia occurs in a later stage of autoimmune atrophic gastritis when gastric intrinsic factor deficiency and consequent vitamin B12 deficiency may occur. The multifaceted nature of pernicious anemia is related to the important role of cobalamin, which, when deficient, may lead to several dysfunctions, and thus, the proteiform clinical presentations of pernicious anemia. Indeed, pernicious anemia may lead to potentially serious long-term complications related to micronutrient deficiencies and their consequences and the development of gastric cancer and type 1 gastric neuroendocrine tumors. When not recognized in a timely manner or when pernicious anemia is diagnosed with delay, these complications may be potentially life-threatening and sometimes irreversible. The current review aimed to focus ",
+        "journal": "Nutrients",
+        "year": "2022",
+        "authors": [
+          "Esposito Gianluca",
+          "Dottori Ludovica",
+          "Pivetta Giulia",
+          "Ligato Irene",
+          "Dilaghi Emanuele"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Pernicious",
+          "Gastritis",
+          "Humans",
+          "Micronutrients",
+          "Precancerous Conditions",
+          "Stomach Neoplasms",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency",
+          "Vitamins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35458234/"
+      },
+      {
+        "pmid": "34015185",
+        "title": "Pernicious anemia: Pathophysiology and diagnostic difficulties.",
+        "abstract": "Pernicious anemia (PA) is the most common cause of vitamin B12 (cobalamin) deficiency anemia in the world. It is an autoimmune disease, comprising of salient features of autoimmune chronic atrophic gastritis (CAG) and cobalamin deficiency (CD). Although the anemia was first described as pernicious, it may well be controlled with vitamin B12 replacement. The onset and progression of PA is often insidious. Alternatively, patients may have no anemic symptoms since they become acclimatized to the subtle nature of the disease. Oftentimes, there is a possibility that the underlying disease may be missed unless a full blood count (FBC) is investigated, leading to hindrance in the treatment journey. Diagnostic challenges remain tangible for many practicing clinicians, since there is lack of reliable cobalamin assays to diagnose CD as well as clinical mimics, which simulate many other hematological conditions, such as myelodysplastic syndrome, acute leukemia, sideroblastic anemias, bone marrow ",
+        "journal": "Journal of evidence-based medicine",
+        "year": "2021",
+        "authors": [
+          "Htut Thura Win",
+          "Thein Kyaw Zin",
+          "Oo Thein Hlaing"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Pernicious",
+          "Humans",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34015185/"
+      },
+      {
+        "pmid": "28034892",
+        "title": "How I treat anemia in pregnancy: iron, cobalamin, and folate.",
+        "abstract": "Anemia of pregnancy, an important risk factor for fetal and maternal morbidity, is considered a global health problem, affecting almost 50% of pregnant women. In this article, diagnosis and management of iron, cobalamin, and folate deficiencies, the most frequent causes of anemia in pregnancy, are discussed. Three clinical cases are considered. Iron deficiency is the most common cause. Laboratory tests defining iron deficiency, the recognition of developmental delays and cognitive abnormalities in iron-deficient neonates, and literature addressing the efficacy and safety of IV iron in pregnancy are reviewed. An algorithm is proposed to help clinicians diagnose and treat iron deficiency, recommending oral iron in the first trimester and IV iron later. Association of folate deficiency with neural tube defects and impact of fortification programs are discussed. With increased obesity and bariatric surgery rates, prevalence of cobalamin deficiency in pregnancy is rising. Low maternal cobal",
+        "journal": "Blood",
+        "year": "2017",
+        "authors": [
+          "Achebe Maureen M",
+          "Gafter-Gvili Anat"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Erythrocyte Transfusion",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Hematinics",
+          "Humans",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28034892/"
+      },
+      {
+        "pmid": "36669740",
+        "title": "Vitamin B12: For more than just the treatment of megaloblastic anemia?",
+        "abstract": "Vitamin B12, or cobalamin, belongs to the group of water-soluble vitamins and is ingested through food of animal origin such as eggs, milk, red meat and poultry, fish, and shellfish. Its clinical indication is the treatment of hypovitaminosis B12 administered orally or intramuscularly in the form of hydroxocobalamin. Hypovitaminosis B12 is mainly caused by deficient dietary intake (individuals with malnutrition, vegetarians or vegans, older adults, pregnant people, individuals with alcohol use disorder); when intestinal absorption is reduced (atrophic gastritis, malabsorption syndrome, gastrointestinal surgery); and for causes associated with the intake of drugs (antacids, metformin). Hypervitaminosis B12 has been associated with renal failure; liver diseases such as cirrhosis and acute-phase hepatitis; alcohol use disorder with or without liver involvement; solid tumors of the lung, liver, esophagus, pancreas, and colorectum; and in hematological malignancies such as leukemia and bone",
+        "journal": "Revista clinica espanola",
+        "year": "2023",
+        "authors": [
+          "Pardo-Cabello A J",
+          "Manzano-Gamero V",
+          "Puche-Cañas E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Animals",
+          "Pregnancy",
+          "Vitamin B 12",
+          "Alcoholism",
+          "Vitamin B 12 Deficiency",
+          "Anemia, Megaloblastic",
+          "Vitamins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36669740/"
+      },
+      {
+        "pmid": "33906782",
+        "title": "Vitamin B12 deficiency and anemia in 140 Taiwanese female lacto-vegetarians.",
+        "abstract": "Lacto-vegetarians (LVs) tend to have vitamin B12 deficiency (B12D). This study assessed whether 140 female LVs, including 16 B12D/LVs and 124 non-B12D/LVs, had significantly higher frequencies of microcytosis, macrocytosis, and of blood hemoglobin (Hb), red blood cell (RBC), and serum vitamin B12 deficiencies than 140 healthy control subjects (HCSs).",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2021",
+        "authors": [
+          "Lee Yi-Pang",
+          "Loh Ching-Hui",
+          "Hwang Ming-Jay",
+          "Lin Chun-Pin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Autoantibodies",
+          "Erythrocyte Indices",
+          "Female",
+          "Folic Acid",
+          "Hemoglobins",
+          "Humans",
+          "Hyperhomocysteinemia",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33906782/"
+      },
+      {
+        "pmid": "38797248",
+        "title": "Oral vitamin B12 supplementation in pernicious anemia: a prospective cohort study.",
+        "abstract": "The absorption of vitamin B12 is hindered in pernicious anemia (PA) owing to intrinsic factor deficiency. Traditionally, intramuscular vitamin B12 injections were the standard treatment, bypassing the impaired absorption. Although there is potential for oral vitamin B12 supplementation through passive enteral absorption, it is not commonly prescribed in PA owing to limited studies assessing its efficacy.",
+        "journal": "The American journal of clinical nutrition",
+        "year": "2024",
+        "authors": [
+          "Lacombe Valentin",
+          "Vinatier Emeline",
+          "Roquin Guillaume",
+          "Copin Marie-Christine",
+          "Delattre Estelle"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vitamin B 12",
+          "Anemia, Pernicious",
+          "Female",
+          "Male",
+          "Prospective Studies",
+          "Dietary Supplements",
+          "Middle Aged",
+          "Aged",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38797248/"
+      },
+      {
+        "pmid": "27212091",
+        "title": "Evaluation of Anemia.",
+        "abstract": "Anemia is a common problem in primary care. Classification based on mean cell volume narrows the differential diagnosis and directs testing. A marked macrocytosis is characteristic of vitamin B12 and folate deficiencies, certain medications, and primary bone marrow disorders. The three most common causes of microcytic anemia are iron deficiency, thalassemia trait, and anemia of inflammation. Additional laboratory testing is required for diagnosis. Determination of the rate of development of anemia and examination of a blood smear may provide diagnostic clues to guide more specialized testing. Diagnosis of iron, vitamin B12, or folate deficiency mandates determination of the underlying cause.",
+        "journal": "Obstetrics and gynecology clinics of North America",
+        "year": "2016",
+        "authors": [
+          "Kujovich Jody L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alcohol Drinking",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Blood Cell Count",
+          "Diagnosis, Differential",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "FIGLU Test",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27212091/"
+      },
+      {
+        "pmid": "38043070",
+        "title": "Coexistence and clinical implications of anemia and depression in the elderly population.",
+        "abstract": "Anemia and depression are common in the elderly and they are important medical, social and economic problems for the world. Both disorders are associated with a lower quality of life, multimorbidity and a higher risk of death. The connections between anemia and depression have been reported, but the mechanism and clinical consequences of their co-existence are not fully understood. Several links can be found between anemia and depression in the elderly: common etiological factors, low socioeconomic status of patients, poor education and less physical activity. Both conditions are associated with the occurrence of the same pathological changes: age-related (especially with the presence of inflammation, oxidative stress, degenerative changes in organs and tissues), nutritional deficiencies (iron, vitamin B12, folic acid) and hormonal disorders (especially thyroid gland disorders, sex hormone deficiencies). Anemia and depression are not sufficiently diagnosed in the elderly and, as a resu",
+        "journal": "Psychiatria polska",
+        "year": "2023",
+        "authors": [
+          "Michalak Sylwia Sulimiera",
+          "Sterna Władysław"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aged",
+          "Depression",
+          "Quality of Life",
+          "Folic Acid Deficiency",
+          "Vitamin B 12 Deficiency",
+          "Anemia",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38043070/"
+      },
+      {
+        "pmid": "38527394",
+        "title": "Iron deficiency in pernicious anemia: Specific features of iron deficient patients and preliminary data on response to iron supplementation.",
+        "abstract": "While vitamin B12 (B12) deficiency is considered as the hallmark of pernicious anemia (PA), iron deficiency (ID) is also prevalent. Indeed, this auto immune gastritis is responsible for parietal cell atrophy and increase in gastric pH, leading to impaired iron absorption. We compared PA patients' features according to their iron status at PA diagnosis, and we assessed the iron status recovery after oral or intravenous iron supplementation.",
+        "journal": "Clinical nutrition (Edinburgh, Scotland)",
+        "year": "2024",
+        "authors": [
+          "Rogez Juliette",
+          "Urbanski Geoffrey",
+          "Vinatier Emeline",
+          "Lavigne Christian",
+          "Emmanuel Léa"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anemia, Pernicious",
+          "Iron",
+          "Vitamin B 12 Deficiency",
+          "Preliminary Data",
+          "Vitamin B 12",
+          "Iron Deficiencies",
+          "Autoantibodies",
+          "Dietary Supplements"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38527394/"
+      },
+      {
+        "pmid": "3880840",
+        "title": "Megaloblastic anemias.",
+        "abstract": "",
+        "journal": "Laboratory investigation; a journal of technical methods and pathology",
+        "year": "1985",
+        "authors": [
+          "Herbert V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Anemia, Megaloblastic",
+          "Anemia, Pernicious",
+          "Child",
+          "Child, Preschool",
+          "Demyelinating Diseases",
+          "Diagnosis, Differential"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3880840/"
+      },
+      {
+        "pmid": "30499147",
+        "title": "Relationship between cobalamin and folate deficiencies and anemia in dogs.",
+        "abstract": "Megaloblastic, nonregenerative anemia is a well-known consequence of cobalamin or folate deficiencies in humans but is not recognized in hypocobalaminemic or hypofolatemic dogs. Establishment of relationships between hypocobalaminemia or hypofolatemia and hematologic disease would encourage vitamin B testing, and potentially supplementation, in anemic dogs.",
+        "journal": "Journal of veterinary internal medicine",
+        "year": "2019",
+        "authors": [
+          "Stanley Emma",
+          "Appleman Elizabeth",
+          "Schlag Ariel",
+          "Siegel Andrea"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Animals",
+          "Case-Control Studies",
+          "Dog Diseases",
+          "Dogs",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Male",
+          "Prevalence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30499147/"
+      },
+      {
+        "pmid": "31607629",
+        "title": "Anemia, hematinic deficiencies, hyperhomocysteinemia, and gastric parietal cell antibody positivity in atrophic glossitis patients with iron deficiency.",
+        "abstract": "Our previous study found that 180 of 1064 atrophic glossitis (AG) patients have iron deficiency. This study assessed whether all AG patients with iron deficiency (so-called ID/AG patients) had iron deficiency anemia (IDA) and evaluated whether the ID/AG patients had significantly higher frequencies of anemia, hematinic deficiencies, hyperhomocysteinemia, and serum gastric parietal cell antibody (GPCA) positivity than healthy control subjects.",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2020",
+        "authors": [
+          "Chiang Chun-Pin",
+          "Wu Yang-Che",
+          "Chang Julia Yu-Fong",
+          "Wang Yi-Ping",
+          "Wu Yu-Hsueh"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Pernicious",
+          "Autoantibodies",
+          "Case-Control Studies",
+          "Comorbidity",
+          "Erythrocyte Indices",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31607629/"
+      },
+      {
+        "pmid": "28291568",
+        "title": "Anemia and hematinic deficiencies in oral mucosal disease patients with microcytosis.",
+        "abstract": "Patients with microcytosis (defined as mean corpuscular volume < 80 fL) are not uncommonly found in oral mucosal disease clinics. This study assessed the anemia statuses and hematinic deficiencies in 240 oral mucosal disease patients with microcytosis.",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2017",
+        "authors": [
+          "Wu Yu-Hsueh",
+          "Wang Yi-Ping",
+          "Chang Julia Yu-Fong",
+          "Wu Yang-Che",
+          "Chen Hsin-Ming"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Erythrocyte Count",
+          "Erythrocyte Indices",
+          "Humans",
+          "Mouth Diseases",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28291568/"
+      },
+      {
+        "pmid": "26187724",
+        "title": "Hematinic deficiencies and anemia statuses in oral mucosal disease patients with folic acid deficiency.",
+        "abstract": "Folic acid deficiency (FAD) may result in macrocytic anemia. This study assessed the hematinic deficiencies and anemia statuses in oral mucosal disease patients with FAD (defined as folic acid ≤ 6 ng/mL).",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2015",
+        "authors": [
+          "Chang Julia Yu-Fong",
+          "Wang Yi-Ping",
+          "Wu Yang-Che",
+          "Cheng Shih-Jung",
+          "Chen Hsin-Ming"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Autoantibodies",
+          "Case-Control Studies",
+          "Erythrocyte Indices",
+          "Female",
+          "Folic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26187724/"
+      },
+      {
+        "pmid": "22495692",
+        "title": "Anemia in the elderly.",
+        "abstract": "There have been several large-scale epidemiologic studies, including the National Health and Nutrition Examination Survey III (NHANES III), which have described the prevalence and impact of anemia in the elderly. The information derived has been critically important. However, given the large number of patients surveyed, these reports necessarily relied substantially on the laboratory-based screening evaluations. There are now two recent reports describing the cause of anemia in elderly outpatients, and although the numbers are smaller than the large scale surveys, they constitute comprehensive hematologic evaluations with therapeutic interventions and clinical follow-up. The purpose of this review is to compare these different analyses.",
+        "journal": "Current opinion in hematology",
+        "year": "2012",
+        "authors": [
+          "Pang Wendy W",
+          "Schrier Stanley L"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia",
+          "Blood Cell Count",
+          "Folic Acid",
+          "Health Surveys",
+          "Hemoglobins",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22495692/"
+      },
+      {
+        "pmid": "33093020",
+        "title": "Helicobacter pylori infection and micronutrient deficiency in pregnant women: a systematic review and meta-analysis.",
+        "abstract": "Over the last few years, epidemiological studies have shown that infection with Helicobacter pylori has a major effect on micronutrient deficiency as well as on adverse pregnancy outcomes. Importantly, there are gaps in understanding the linkage of H. pylori infection with micronutrients deficiency in pregnant women.",
+        "journal": "BMJ open gastroenterology",
+        "year": "2020",
+        "authors": [
+          "Afsar Md Nure Alam",
+          "Jhinu Zannatun Nahar",
+          "Bhuiyan Md Aminul Islam",
+          "Islam Zhahirul",
+          "Siddiqua Towfida Jahan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Case-Control Studies",
+          "Data Management",
+          "Female",
+          "Folic Acid",
+          "Helicobacter Infections",
+          "Helicobacter pylori",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33093020/"
+      },
+      {
+        "pmid": "19787827",
+        "title": "A short review of malabsorption and anemia.",
+        "abstract": "Anemia is a frequent finding in most diseases which cause malabsorption. The most frequent etiology is the combination of iron and vitamin B12 deficiency. Celiac disease is frequently diagnosed in patients referred for evaluation of iron deficiency anemia (IDA), being reported in 1.8%-14.6% of patients. Therefore, duodenal biopsies should be taken during endoscopy if no obvious cause of iron deficiency (ID) can be found. Cobalamin deficiency occurs frequently among elderly patients, but it is often unrecognized because the clinical manifestations are subtle; it is caused primarily by food-cobalamin malabsorption and pernicious anemia. The classic treatment of cobalamin deficiency has been parenteral administration of the vitamin. Recent data suggest that alternative routes of cobalamin administration (oral and nasal) may be useful in some cases. Anemia is a frequent complication of gastrectomy, and has been often described after bariatric surgery. It has been shown that banding procedu",
+        "journal": "World journal of gastroenterology",
+        "year": "2009",
+        "authors": [
+          "Fernández-Bañares Fernando",
+          "Monzón Helena",
+          "Forné Montserrat"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Celiac Disease",
+          "Gastrectomy",
+          "Helicobacter Infections",
+          "Humans",
+          "Iron Deficiencies",
+          "Malabsorption Syndromes",
+          "Parenteral Nutrition",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19787827/"
+      },
+      {
+        "pmid": "2688421",
+        "title": "Functional methionine synthase deficiency (cblE and cblG): clinical and biochemical heterogeneity.",
+        "abstract": "Functional methionine synthase deficiency is generally characterized by homocystinuria and hypomethioninemia in the absence of methylmalonic aciduria. Patients are divided into two classes, cblE and cblG, on the basis of complementation analysis. Presentation has usually been in the first 2 years of life, but one patient came to medical attention at age 21 years with symptoms initially diagnosed as multiple sclerosis. Common findings among 11 patients (4 with cblE and 7 with cblG) have included megaloblastic anemia (all patients) and various neurological deficits including developmental retardation (10 patients), cerebral atrophy (8 patients), hypotonia (7 patients), EEG abnormalities (6 patients), and nystagmus (5 patients). Hypertonia, seizures, blindness, and ataxia were less frequent. All patients have responded to therapy with cobalamin with resolution of anemia and biochemical abnormalities; neurological deficits resolved more slowly and in some cases incompletely. Hydroxycobalam",
+        "journal": "American journal of medical genetics",
+        "year": "1989",
+        "authors": [
+          "Watkins D",
+          "Rosenblatt D S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "5-Methyltetrahydrofolate-Homocysteine S-Methyltransferase",
+          "Adult",
+          "Anemia, Megaloblastic",
+          "Cells, Cultured",
+          "Female",
+          "Fibroblasts",
+          "Genetic Complementation Test",
+          "Homocystinuria",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2688421/"
+      },
+      {
+        "pmid": "11503492",
+        "title": "[Pernicious anemia].",
+        "abstract": "Pernicious anaemia is the most common cause of cobalamin deficiency. Nervous disorders associated with cobalamin deficiency are neuropathy, optic atrophy, dementia and myelopathy (subacute combined degeneration). In this case, symptoms are those of posterior and lateral column dysfunction of the spinal cord, with diminished vibratory sensation, ataxia, weakness of limbs, hyperreflexia, extensor plantar response and spasticity. Macrocytosis and anaemia are often lacking. There is an inverse correlation between the degree of anaemia and the extent of nervous impairment. The most sensitive tool for the diagnosis of cobalamin deficiency is the serum cobalamin level. But a normal cobalamin assay does not fully exclude cobalamin deficiency. Levels of serum methylmalonic acid and total homocysteine are useful as ancillary tests in the diagnosis. Treatment is based on intramuscular injections of vitamin B12.",
+        "journal": "La Revue du praticien",
+        "year": "2001",
+        "authors": [
+          "Marcaud V"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia, Pernicious",
+          "Ataxia",
+          "Humans",
+          "Injections, Intramuscular",
+          "Muscle Weakness",
+          "Spinal Cord Diseases",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11503492/"
+      },
+      {
+        "pmid": "31630933",
+        "title": "Anemia, hematinic deficiencies, hyperhomocysteinemia, and gastric parietal cell antibody positivity in atrophic glossitis patients with vitamin B12 deficiency.",
+        "abstract": "Our previous study found that 56 of 1064 atrophic glossitis (AG) patients have vitamin B12 deficiency. This study assessed whether the AG patients with vitamin B12 deficiency (B12D/AG patients) had significantly higher frequencies of anemia, hematinic deficiencies, hyperhomocysteinemia, and serum gastric parietal cell antibody (GPCA) positivity than healthy control subjects.",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2020",
+        "authors": [
+          "Wu Yang-Che",
+          "Wu Yu-Hsueh",
+          "Chang Julia Yu-Fong",
+          "Wang Yi-Ping",
+          "Kuo Ying-Shiung"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia",
+          "Autoantibodies",
+          "Case-Control Studies",
+          "Comorbidity",
+          "Erythrocyte Indices",
+          "Female",
+          "Folic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31630933/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:43:52.168209",
+  "success": true,
+  "error_message": null
+}

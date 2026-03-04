@@ -1,0 +1,166 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Triamcinolone",
+    "disease": "disease of orbital region",
+    "query_string": "Triamcinolone AND disease of orbital region"
+  },
+  "data": {
+    "query": "Triamcinolone AND disease of orbital region",
+    "results": [
+      {
+        "pmid": "41001361",
+        "title": "Percutaneous para-levator palpebrae superioris and subconjunctival injection of triamcinolone acetonide for upper eyelid retraction in thyroid-associated ophthalmopathy.",
+        "abstract": "Thyroid-associated ophthalmopathy (TAO) represents the most prevalent inflammatory condition affecting the orbital region. Upper eyelid retraction, predominantly affecting young female patients, can result in notable cosmetic issues and psychological distress. This study aimed to evaluate the therapeutic effectiveness and safety of percutaneous para-levator palpebrae superioris (PLPS) injections compared to subconjunctival (SC) injections via the upper fornix (SC) for the treatment of upper eyelid retraction secondary to TAO.",
+        "journal": "Frontiers in medicine",
+        "year": "2025",
+        "authors": [
+          "Wang Mengdi",
+          "Luan Yanan",
+          "Qian Zhenbin",
+          "Wang Yaohua",
+          "Fang Wei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41001361/"
+      },
+      {
+        "pmid": "33771079",
+        "title": "Fungal abscess after intra-orbital steroid injection: a case report.",
+        "abstract": "A 28-year-old male presented with gradually progressive swelling of the right lower eyelid along with a prominence of the eye for 6 months. He had received oral steroids and intraorbital triamcinolone acetonide injection in the inferior quadrant for active thyroid eye disease. External examination revealed right eye proptosis and swelling along the inferior orbital region. Magnetic resonance imaging showed an ill-defined soft tissue lesion in the inferior extraconal space and a bulky right inferior rectus. Histopathology of the biopsied material revealed inflammation with septate fungal filaments, identified as Aspergillus flavus on culture. He responded well to oral voriconazole despite a recurrence during the course of treatment. Intraorbital steroids are given for idiopathic and thyroid-associated orbital inflammation. This is a report of a rare complication of fungal orbital abscess following intraorbital corticosteroid injection in an immunocompetent young patient.",
+        "journal": "Orbit (Amsterdam, Netherlands)",
+        "year": "2022",
+        "authors": [
+          "Rao Mythri K",
+          "Alam Md Shahid",
+          "Gopalakrishnan Ram",
+          "Mukherjee Bipasha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Abscess",
+          "Adult",
+          "Edema",
+          "Glucocorticoids",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Orbital Cellulitis",
+          "Voriconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33771079/"
+      },
+      {
+        "pmid": "39135669",
+        "title": "Combined Papillectomy and Autologous Conjunctival Membrane Graft as Management of Giant Papillae for Severe, Refractory Palpebral Vernal Keratoconjunctivitis-A Case Report.",
+        "abstract": "Introduction: Vernal keratoconjunctivitis (VKC) is an allergic disease that predominantly affects young individuals, with a higher incidence among males. Traditionally seen as a condition of childhood that resolves at puberty, recent studies have shown persistent cases in some individuals, potentially influenced by hot and dry tropical environmental conditions. VKC is more prevalent in regions with a hot and humid climate and a high presence of airborne allergens, leading to significant morbidity and impacting the quality of life for affected individuals. Severe and chronic cases can lead to vision-threatening corneal complications, making effective management crucial. Although the clinical profile of VKC varies geographically, comprehensive studies in specific regions remain limited. Case Presentation: In this case report, we present an 18-year-old male patient with severe and refractory VKC. Despite initial treatments, including topical and oral medications, recurrent episodes occurr",
+        "journal": "Case reports in ophthalmological medicine",
+        "year": "2024",
+        "authors": [
+          "Annisa Devina Nur",
+          "Suharko Hernawita",
+          "Gaol Hasiana Lumban",
+          "Viona Viona"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39135669/"
+      },
+      {
+        "pmid": "38319189",
+        "title": "A Simple Procedure of Fascia-Fat Grafting and Blepharoplasty as a Single-Stage Procedure for the Correction of Sunken Eyelids in Vietnamese Population.",
+        "abstract": "Upper sunken eyelids, which are characterized by the hollowness of the upper eyelids, often cause a poor aesthetic appearance. Herein, we present a simplified technique using fascia-fat grafts for volume augmentation combined with blepharoplasty as a single-stage procedure.",
+        "journal": "Ophthalmic plastic and reconstructive surgery",
+        "year": "2024",
+        "authors": [
+          "Hoang Thanh Tuan",
+          "Nguyen Kim Thanh"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Adipose Tissue",
+          "Blepharoplasty",
+          "Eyelid Diseases",
+          "Eyelids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38319189/"
+      },
+      {
+        "pmid": "40591437",
+        "title": "Intralesional corticosteroid in the treatment of periorbital Kimura disease: a case report.",
+        "abstract": "Kimura disease (KD) is a rare chronic inflammatory disorder characterized by benign subcutaneous masses primarily in the head and neck region, often accompanied by regional lymphadenopathy, elevated serum immunoglobulin E (IgE) levels, and peripheral eosinophilia. The management of peri-orbital KD poses a challenge due to its infiltrative nature and potential aesthetic concerns. We present a case of a 19-year-old male with nephrotic syndrome who developed a painless, slowly enlarging mass in the left peri-orbital region. Imaging showed a well-defined soft tissue mass with no intraorbital extension. Histopathology confirmed KD. Following incisional biopsy, the patient received monthly intralesional corticosteroid injections (2 ml of triamcinolone acetonide, 20 mg/ml) for six months. There was a significant reduction in mass size, with no recurrence over a one-year follow-up period. This case highlights the effectiveness of intralesional corticosteroids as a minimally invasive treatment ",
+        "journal": "Orbit (Amsterdam, Netherlands)",
+        "year": "2025",
+        "authors": [
+          "Alkhayyal Mashael",
+          "Alhumud Atheer",
+          "Alwatban Jawaher"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Case Reports"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Injections, Intralesional",
+          "Triamcinolone Acetonide",
+          "Glucocorticoids",
+          "Young Adult",
+          "Orbital Diseases",
+          "Kimura Disease",
+          "Magnetic Resonance Imaging",
+          "Tomography, X-Ray Computed"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40591437/"
+      },
+      {
+        "pmid": "27440138",
+        "title": "Case report of subcutaneous panniculitis-like T-cell lymphoma complicated by eyelid swelling.",
+        "abstract": "Subcutaneous panniculitis-like T-cell lymphoma (SPTCL) is a rare, highly malignant, extranodal lymphoma that preferentially infiltrates into subcutaneous adipose tissue. No case of SPTCL with the earliest symptoms occurring in the eye region has been reported. We report a case of SPTCL complicated by eyelid swelling.",
+        "journal": "BMC ophthalmology",
+        "year": "2016",
+        "authors": [
+          "Hashimoto Ryuya",
+          "Uchiyama Michihiro",
+          "Maeno Takatoshi"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Edema",
+          "Eyelid Diseases",
+          "Humans",
+          "Lymphoma, T-Cell",
+          "Male",
+          "Orbital Diseases",
+          "Panniculitis",
+          "Young Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27440138/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:23:45.056050",
+  "success": true,
+  "error_message": null
+}

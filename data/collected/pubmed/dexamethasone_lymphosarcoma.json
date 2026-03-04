@@ -1,0 +1,634 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Dexamethasone",
+    "disease": "lymphosarcoma",
+    "query_string": "Dexamethasone AND lymphosarcoma"
+  },
+  "data": {
+    "query": "Dexamethasone AND lymphosarcoma",
+    "results": [
+      {
+        "pmid": "16502413",
+        "title": "Chemoimmunotherapy with hyper-CVAD plus rituximab for the treatment of adult Burkitt and Burkitt-type lymphoma or acute lymphoblastic leukemia.",
+        "abstract": "Adult Burkitt-type lymphoma (BL) and acute lymphoblastic leukemia (B-ALL) are rare entities composing 1% to 5% of non-Hodgkin lymphomas NHL) or ALL. Prognosis of BL and B-ALL has been poor with conventional NHL or ALL regimens, but has improved with dose-intensive regimens.",
+        "journal": "Cancer",
+        "year": "2006",
+        "authors": [
+          "Thomas Deborah A",
+          "Faderl Stefan",
+          "O'Brien Susan",
+          "Bueso-Ramos Carlos",
+          "Cortes Jorge"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Burkitt Lymphoma",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "Dexamethasone",
+          "Doxorubicin",
+          "Drug Administration Schedule"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16502413/"
+      },
+      {
+        "pmid": "23006948",
+        "title": "Adult lymphoblastic lymphoma.",
+        "abstract": "Adult lymphoblastic lymphoma (LBL) is an aggressive form of non-Hodgkin lymphoma occurring in predominantly adolescent and young adult men. Lymphoblastic lymphoma is rare, accounting for 1% to 2% of all non-Hodgkin lymphomas and is of T-cell phenotype in 90% of cases. Lymphoblastic lymphoma is morphologically indistinct from acute lymphoblastic leukemia (ALL). Both express their lineage-specific markers as well as terminal deoxynucleotidyl transferase. The differences are often made on clinical grounds. Lymphoblastic lymphoma is characterized by a predominantly nodal distribution of disease, often with a large mediastinal mass. Patients with less than 25% bone marrow involvement have typically been categorized as LBL rather than ALL, although this has not been applied consistently in the literature. Gene expression studies have identified differences in gene expression, with LBL expressing higher levels of genes associated with cytoskeleton, adhesion, angiogenesis, and chemotaxis than ",
+        "journal": "Cancer journal (Sudbury, Mass.)",
+        "year": "2012",
+        "authors": [
+          "Portell Craig A",
+          "Sweetenham John W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "Dexamethasone",
+          "Diagnosis, Differential",
+          "Doxorubicin",
+          "Gene Expression Regulation, Neoplastic",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23006948/"
+      },
+      {
+        "pmid": "33285732",
+        "title": "Gemcitabine, cisplatin, and dexamethasone and ifosfamide, carboplatin, and etoposide regimens have similar efficacy as salvage treatment for relapsed/refractory aggressive lymphoma: A retrospectively comparative study.",
+        "abstract": "In this study, our aim was to compare the efficacy and toxicity profiles of gemcitabine, cisplatin, and dexamethasone (GDP) and ifosfamide, carboplatin, and etoposide (ICE) regimens in the salvage treatment of relapsed/refractory lymphoma. A total of 110 patients with refractory/relapsed classical Hodgkin lymphoma (n = 22) or non-Hodgkin lymphoma (n = 88) who received GDP or ICE salvage regimens from January 2011 to July 2018 were retrospectively analyzed. Of the 110 patients, 50 patients received GDP, and 60 patients received ICE. The response could be evaluated in all patients. In the GDP group, 30 (60.0%) patients achieved overall response rate (ORR), and in the ICE group, the ORR was 56.6%. Of the classical Hodgkin lymphoma patients, the ORR were 72.8% and 54.6% in the GDP and ICE groups, respectively. Of the non-Hodgkin lymphoma patients, the ORR were 56.4% and 57.1% in the GDP and ICE groups, respectively. Grade I-II toxicity occurred in 16 (32.0%) patients in the GDP group and 1",
+        "journal": "Medicine",
+        "year": "2020",
+        "authors": [
+          "Mi Mi",
+          "Zhang Caijiao",
+          "Liu Zijian",
+          "Wang Ye",
+          "Li Juan"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Cisplatin",
+          "Deoxycytidine",
+          "Dexamethasone",
+          "Etoposide",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33285732/"
+      },
+      {
+        "pmid": "36939235",
+        "title": "Combination of gemcitabine, pegaspargase, etoposide, and dexamethasone (GPED) in treatment of advanced extranodal NK/T-cell lymphoma.",
+        "abstract": "",
+        "journal": "Chinese medical journal",
+        "year": "2023",
+        "authors": [
+          "Fu Ruiying",
+          "Liang Yuanzheng",
+          "Wei Liqiang",
+          "Liu Xindi",
+          "Piao Yingshi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Gemcitabine",
+          "Etoposide",
+          "Dexamethasone",
+          "Lymphoma, T-Cell",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Treatment Outcome",
+          "Neoplasm Staging",
+          "Lymphoma, Extranodal NK-T-Cell",
+          "Asparaginase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36939235/"
+      },
+      {
+        "pmid": "15561685",
+        "title": "Diffuse aggressive lymphoma.",
+        "abstract": "The aggressive non-Hodgkin's lymphomas can be cured in more than half of the cases. However, there has been great variation in the results reported from individual clinical Phase II trials. This variation in result can be attributed to unrecognized heterogeneity in this group of diseases. Recent clinical and molecular studies have enabled us to define more homogenous population in which new therapies can be studied. For patients with advanced stages of diffuse large B cell lymphoma, a new standard of therapy exists. For patients with localized aggressive non-Hodgkin's lymphomas, heterogeneity in patient selection prevents us from defining a new standard of care. Finally, in mantle cell lymphoma, new opportunities in drug discovery may permit advances in the treatment of this uniformly fatal malignancy. In Section I, Dr. Richard Fisher reviews the development of combination chemotherapy for patients with advanced stage diffuse large B cell lymphoma. Because of great heterogeneity in pat",
+        "journal": "Hematology. American Society of Hematology. Education Program",
+        "year": "2004",
+        "authors": [
+          "Fisher Richard I",
+          "Miller Thomas P",
+          "O'Connor Owen A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Clinical Trials as Topic",
+          "Cyclophosphamide",
+          "Dexamethasone",
+          "Doxorubicin",
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15561685/"
+      },
+      {
+        "pmid": "20709662",
+        "title": "Rituximab, dexamethasone, cytarabine, and oxaliplatin (R-DHAX) is an effective and safe salvage regimen in relapsed/refractory B-cell non-Hodgkin lymphoma.",
+        "abstract": "Salvage therapy for patients with refractory/relapsed B-cell non-Hodgkin lymphoma (NHL) is based on polychemotherapy, followed by high-dose therapy and autologous stem cell transplantation in eligible patients (HDT/ASCT). R-DHAP combines rituximab with cisplatin, cytarabine, and dexamethasone.",
+        "journal": "Clinical lymphoma, myeloma & leukemia",
+        "year": "2010",
+        "authors": [
+          "Lignon Julie",
+          "Sibon David",
+          "Madelaine Isabelle",
+          "Brice Pauline",
+          "Franchi Patricia"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Cytarabine",
+          "Dexamethasone",
+          "Drug Therapy, Combination",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20709662/"
+      },
+      {
+        "pmid": "24122387",
+        "title": "Combined lenalidomide, low-dose dexamethasone, and rituximab achieves durable responses in rituximab-resistant indolent and mantle cell lymphomas.",
+        "abstract": "Lenalidomide is an immunomodulatory drug with effects on the immune system that may enhance antibody-dependent cell-mediated cytotoxicity and reverse tumor-induced immune suppression. Furthermore, single-agent lenalidomide has therapeutic activity in relapsed/refractory B-cell lymphomas. These immunologic effects potentially may enhance the action of rituximab.",
+        "journal": "Cancer",
+        "year": "2014",
+        "authors": [
+          "Ahmadi Tahamtan",
+          "Chong Elise A",
+          "Gordon Amanda",
+          "Aqui Nicole A",
+          "Nasta Sunita D"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Dexamethasone",
+          "Drug Administration Schedule",
+          "Drug Resistance, Neoplasm",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24122387/"
+      },
+      {
+        "pmid": "37079999",
+        "title": "A phase I study of the combination of palbociclib and dexamethasone for the treatment of relapsed or refractory B-cell acute lymphoblastic leukemia.",
+        "abstract": "Despite advances in the treatment of B-cell acute lymphoblastic leukemia (B-ALL), outcomes for relapsed/refractory (R/R) disease remain poor. Preclinical studies suggest that the combination of the CDK4/6 inhibitor palbociclib and dexamethasone may be effective in targeting leukemic cell growth. We conducted a phase I study of escalating doses of palbociclib in combination with dexamethasone in adults with R/R B-ALL.",
+        "journal": "Leukemia research",
+        "year": "2023",
+        "authors": [
+          "Wilde Lindsay",
+          "Porazzi Patrizia",
+          "Trotta Rossana",
+          "De Dominici Marco",
+          "Palmisiano Neil"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Lymphoma, B-Cell",
+          "Pyridines",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Dexamethasone",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37079999/"
+      },
+      {
+        "pmid": "28529032",
+        "title": "Synergistic Cytotoxicity of Lenalidomide and Dexamethasone in Mantle Cell Lymphoma via Cereblon-dependent Targeting of the IL-6/STAT3/PI3K Axis.",
+        "abstract": "At our center, relapsed mantle cell lymphoma (MCL) can be treated with maintenance therapy composed of consecutive low-dose lenalidomide and short-term, high-dose dexamethasone (LD regimen), which achieves good responses (longer overall survival and progression-free survival) and low toxicity. Cereblon is probably targeted by both lenalidomide and dexamethasone, which leads to synergistic cytotoxicity in MCL by inhibiting the interleukin-6/signal transducer and activator of transcription 3 (IL-6/STAT3), phosphatidylinositol 3-kinase (PI3K)/AKT and AKT2/Forkhead box O3 (FOXO3A)/BCL2-like 11 (BIM) pathways. The two drugs synergistically inhibit the same pathways, but through different sites. Cereblon was found expressed in most of the MCL tissues (91.3% positivity). Moreover, cereblon expression is positively correlated with LD regimen sensitivity: long-term lenalidomide exposure downregulates cereblon and induces multi-drug resistance against lenalidomide, dexamethasone, cytarabine, cis",
+        "journal": "EBioMedicine",
+        "year": "2017",
+        "authors": [
+          "Ma Jiexian",
+          "Wu Kefei",
+          "Bai Weiya",
+          "Cui Xiaoxian",
+          "Chen Yan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adaptor Proteins, Signal Transducing",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Apoptosis",
+          "Biomarkers",
+          "Cell Cycle Checkpoints",
+          "Cell Line, Tumor",
+          "Dexamethasone",
+          "Drug Resistance, Neoplasm",
+          "Drug Synergism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28529032/"
+      },
+      {
+        "pmid": "32098553",
+        "title": "The effect of gemcitabine, dexamethasone, and cisplatin chemotherapy in relapsed/refractory NHL and HL patients: A single center experience.",
+        "abstract": "The optimal choice of salvage therapy for patients with relapsed/refractory non-Hodgkin lymphoma or Hodgkin lymphoma remains controversial. In this study, we aimed to share our experience in relapsed/refractory lymphoma patients who received GDP/R-GDP as salvage chemotherapy in our center. Data of 47 relapsed/refractory Hodgkin lymphoma and non-Hodgkin lymphoma patients who received GDP or R-GDP as salvage chemotherapy in our center between July 2014 and October 2017 were retrospectively evaluated. Non-Hodgkin lymphoma and Hodgkin lymphoma patients were divided into two groups as primary refractory and relapsed. The one-year overall survival was 100% (for relapsed) and 36.9% (for refractory) in the non-Hodgkin lymphoma groups, and 82.5% (for relapsed) and 80% (for refractory) in the Hodgkin lymphoma group. The one-year progression-free survival (PFS) was 72.7% (for relapsed) and 38.5% (for refractory) in patients with NHL, and 41% (for relapsed) and 18.2% (for refractory) in patients w",
+        "journal": "Journal of oncology pharmacy practice : official publication of the International Society of Oncology Pharmacy Practitioners",
+        "year": "2020",
+        "authors": [
+          "Batgi Hikmettullah",
+          "Merdin Alparslan",
+          "Dal Mehmet Sinan",
+          "Kızıl Çakar Merih",
+          "Yıldız Jale"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Deoxycytidine",
+          "Dexamethasone",
+          "Female",
+          "Hodgkin Disease",
+          "Humans",
+          "Lymphoma, Non-Hodgkin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32098553/"
+      },
+      {
+        "pmid": "29320913",
+        "title": "A phase 2 study of rituximab, cyclophosphamide, bortezomib and dexamethasone (R-CyBorD) in relapsed low grade and mantle cell lymphoma.",
+        "abstract": "In this phase 2 trial, we sought to evaluate the efficacy and safety of rituximab, cyclophosphamide, bortezomib, and dexamethasone (R-CyBorD) in patients with low-grade NHL. The regimen included rituximab on day 1 with weekly cyclophosphamide, dexamethasone, and bortezomib 1.3 mg/m2 IV in a 28-day cycle. Twenty one patients were enrolled on the study. Median age was 69 years (range 51-80) and 17 (81%) patients had two or more prior treatments. Histologies included FL (n = 8), MCL (n = 8), and LPL/WM (n = 5). Hematologic toxicity and peripheral sensory neuropathy were the most common adverse events. With a median follow-up of 38.1 months, ORR was 13/21 (62%), with 4 (19%) CR. The ORR was 7/8 (88%) in FL and was 4/5 (80%) in LPL/WM. Median PFS and OS were 11.6 months and 54.8 months, respectively. R-CyBorD is an effective regimen in relapsed FL and LPL/WM patients with an acceptable safety profile.",
+        "journal": "Leukemia & lymphoma",
+        "year": "2018",
+        "authors": [
+          "Sonbol Mohamad Bassam",
+          "Hilal Talal",
+          "Dueck Amylou C",
+          "Rosenthal Allison C",
+          "Conley Christopher R"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Dexamethasone",
+          "Fatigue",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29320913/"
+      },
+      {
+        "pmid": "22476761",
+        "title": "Rituximab, gemcitabine, cisplatin, and dexamethasone in patients with refractory or relapsed aggressive B-cell lymphoma.",
+        "abstract": "This study was conducted to evaluate the efficacy and safety of Rituximab, Gemcitabine, Cisplatin, and Dexamethasone (R-GDP) in relapsed or refractory aggressive B-Cell Non-Hodgkin's Lymphoma (NHL). Treatments consisted of rituximab 375 mg/m2, i.v. on day 1; gemcitabine 1,000 mg/m2, i.v. on days 1 and 8, dexamethasone 40 mg i.v. on days 1-4, and cisplatin 25 mg/m2 i.v. on days 1-3, every 21 days. The primary end-points were the overall survival (OS) and progression-free survival (PFS). Secondary endpoints included response rate (ORR; CR) and toxicities. Eligible patients could then proceed to high-dose chemotherapy (HDC) and autologous stem cell transplantation (ASCT) or receive up to six treatment cycles. From January 2005 to December 2010, 50 successive patients at Tianjin cancer hospital lymphoma department were enrolled in this study. All patients were recurrent or refractory aggressive B-cell NHL, including diffuse large B-cell lymphoma (n=30) and follicular lymphoma grade 3b (n=2",
+        "journal": "Medical oncology (Northwood, London, England)",
+        "year": "2012",
+        "authors": [
+          "Hou Yun",
+          "Wang Hua-qing",
+          "Ba Yi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Deoxycytidine",
+          "Dexamethasone",
+          "Disease-Free Survival",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22476761/"
+      },
+      {
+        "pmid": "36799516",
+        "title": "Efficacy of a short sandwich protocol, methotrexate, gemcitabine, L-asparaginase and dexamethasone chemotherapy combined with radiotherapy, in localised newly diagnosed NK/T-cell lymphoma: A French retrospective study.",
+        "abstract": "Extranodal NK/T-cell lymphoma, nasal type is a rare and aggressive form of lymphoma, historically associated with poor prognosis. We report here the results of a retrospective multi-centre study evaluating the efficacy of MGAD (methotrexate, gemcitabine, L-asparaginase and dexamethasone) regimen (two cycles) combined with 'sandwich' radiotherapy in 35 patients with localised newly diagnosed extranodal NK/T-cell lymphoma. Thirty-two patients (91%) reached complete remission. With a long median follow-up of 59.6 months, progression-free and overall survival at 2 and 5 years were 71%, 80% and 53%, 73%, respectively. Around one third of the patients experienced relapse within a median time of 14.5 months. Side-effects were manageable with grades 3-4 cytopenias, mucositis and infection in 50%, 24% and 21% of the cases, respectively. Monitoring of asparaginase activity was performed in 13 patients and showed inactivation of the drug in seven (54%) patients. Our results indicate that a short ",
+        "journal": "British journal of haematology",
+        "year": "2023",
+        "authors": [
+          "Chaubard Sammara",
+          "Marouf Amira",
+          "Lavergne David",
+          "Lemonnier François",
+          "Rossignol Julien"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Gemcitabine",
+          "Asparaginase",
+          "Methotrexate",
+          "Retrospective Studies",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Neoplasm Recurrence, Local",
+          "Treatment Outcome",
+          "Lymphoma, Extranodal NK-T-Cell",
+          "Dexamethasone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36799516/"
+      },
+      {
+        "pmid": "26956432",
+        "title": "Biweekly dose-dense gemcitabine-oxaliplatin and dexamethasone for relapsed/refractory aggressive non-Hodgkin lymphoma: A multicenter, single-arm, phase II trial.",
+        "abstract": "We performed a phase II study to evaluate the efficacy of combination chemotherapy consisting of gemcitabine, dexamethasone and oxaliplatin (GemDOx) as a biweekly regimen and salvage therapy in patients with relapsed or refractory aggressive non-Hodgkin lymphoma (NHL).",
+        "journal": "Asia-Pacific journal of clinical oncology",
+        "year": "2016",
+        "authors": [
+          "Jo Jae-Cheol",
+          "Baek Jin Ho",
+          "Lee Je-Hwan",
+          "Joo Young-Don",
+          "Bae Sung-Hwa"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Deoxycytidine",
+          "Dexamethasone",
+          "Disease-Free Survival",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26956432/"
+      },
+      {
+        "pmid": "31127456",
+        "title": "Combined rituximab, bendamustine, and dexamethasone chemotherapy for relapsed or refractory indolent B-cell non-Hodgkin lymphoma and mantle cell lymphoma: a multicenter phase II study.",
+        "abstract": "This multicenter phase II study (UMIN000008145) aims to investigate the efficacy and safety of six cycles of combination therapy (RBD) comprising rituximab, bendamustine, and dexamethasone (DEX) for relapsed or refractory (RR) indolent B-cell non-Hodgkin lymphoma (B-NHL) and mantle cell lymphoma (MCL). Although the initial study protocol comprised 20 mg/body DEX on days 1 and 2, and 10 mg/body on days 3-5 [high-dose (HD-) DEX group], the dose of DEX was later decreased to 8 mg/body on days 1 and 2 [low-dose (LD-) DEX group] due to frequent cytomegalovirus (CMV) antigenemia and recurrent retinitis. We enrolled 33 patients, and LD-DEX and HD-DEX were administered in 15 and 18 patients, respectively. The overall response and the 3-year progression-free survival rates were 88% and 75.5%, respectively. The leading adverse event was myelosuppression. Incidence of grade 3-4 leukocytopenia, neutropenia, and lymphocytopenia was 55%, 67%, and 91%, respectively. The most frequent nonhematological",
+        "journal": "International journal of hematology",
+        "year": "2019",
+        "authors": [
+          "Matsumoto Yosuke",
+          "Kobayashi Tsutomu",
+          "Shimura Yuji",
+          "Kawata Eri",
+          "Nagoshi Hisao"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bendamustine Hydrochloride",
+          "Cytomegalovirus Infections",
+          "Dexamethasone",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Leukopenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31127456/"
+      },
+      {
+        "pmid": "15009063",
+        "title": "Fludarabine, mitoxantrone and dexamethasone in the treatment of indolent B- and T-cell lymphoid malignancies in Chinese patients.",
+        "abstract": "The treatment results of indolent lymphoid malignancies in Chinese are poorly reported. The efficacy of FND (fludarabine 25 mg/m2/d, x3; mitoxantrone 10 mg/m2/d, x1; dexamethasone 20 mg/d, x5; monthly cycles, x6) in 95 Chinese patients with indolent B-cell malignancies (at diagnosis: 55, relapse/refractory disease: 40) and nine Chinese patients with T-cell large granular lymphocyte leukaemia (T-LGL leukaemia) (at diagnosis: two, refractory disease: seven) was evaluated. For B-cell malignancies, the complete response (CR), partial response (PR) and overall response (OR) rates were 50.5%, 18% and 68.5% respectively. Better results were obtained for primary versus relapse/refractory disease (CR: 60% vs. 37.5%, P = 0.03; OR: 84% vs. 47.5%, P < 0.001; median progression-free survival (PFS): 44 months vs. 22 months; 2-year PFS: 66% vs. 47%, P = 0.039; overall survival (OS): not reached vs. 32%; 2-year OS: 92% vs. 58%, P < 0.001). Responsive patients (CR/PR) had a better median PFS (44 months",
+        "journal": "British journal of haematology",
+        "year": "2004",
+        "authors": [
+          "Ma Shing Y",
+          "Au Wing Y",
+          "Chim Chor S",
+          "Lie Albert K W",
+          "Lam Clarence C K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asian People",
+          "Dexamethasone",
+          "Disease-Free Survival",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15009063/"
+      },
+      {
+        "pmid": "8708730",
+        "title": "Comparative cytotoxicity of dexamethasone and prednisolone in childhood acute lymphoblastic leukemia.",
+        "abstract": "The relative cytotoxicity of prednisolone and dexamethasone in acute lymphoblastic leukemia (ALL) is controversial. We therefore compared the direct antileukemic activities of these compounds in stroma-supported cultures of leukemic lymphoblasts.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "1996",
+        "authors": [
+          "Ito C",
+          "Evans W E",
+          "McNinch L",
+          "Coustan-Smith E",
+          "Mahmoud H"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antineoplastic Agents, Hormonal",
+          "Apoptosis",
+          "Bone Marrow Cells",
+          "Burkitt Lymphoma",
+          "Child",
+          "Child, Preschool",
+          "Dexamethasone",
+          "Flow Cytometry",
+          "Glucocorticoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8708730/"
+      },
+      {
+        "pmid": "35105261",
+        "title": "Effectiveness and safety of R-GCD (rituximab, gemcitabine, carboplatin, and dexamethasone) for transplant-ineligible relapse/refractory diffuse large B-cell lymphoma and grade 3a follicular lymphoma: a retrospective analysis comparing with R-GDP (rituximab, gemcitabine, cisplatin, and dexamethasone).",
+        "abstract": "",
+        "journal": "Leukemia & lymphoma",
+        "year": "2022",
+        "authors": [
+          "Naka Ryosuke",
+          "Tada Kohei",
+          "Kaneko Hitomi",
+          "Nagata Osamu",
+          "Tashima Masaharu"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Cisplatin",
+          "Deoxycytidine",
+          "Dexamethasone",
+          "Humans",
+          "Lymphoma, Follicular",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Lymphoma, Non-Hodgkin",
+          "Neoplasm Recurrence, Local"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35105261/"
+      },
+      {
+        "pmid": "9869200",
+        "title": "DIZE (dexamethasone, idarubicin, and continuous infusion of ifosfamide and etoposide): an effective and well-tolerated new regimen for patients with relapsed lymphoma.",
+        "abstract": "We performed a phase II study of dexamethasone, ifosfamide, idarubicin and etoposide (DIZE) in patients with relapsed or refractory Hodgkin's (HL) and non-Hodgkin's lymphoma (NHL). The regimen consisted of dexamethasone (20 mg i.v. days 1-4), idarubicin (8 mg/m2 i.v. days 1+2), continuous infusion (c.i.) of ifosfamide (1,000 mg/m2 days 1-4), and c.i. etoposide (60 mg/m2 days 1-4). G-CSF (5 microg/kg) was used to support neutrophil recovery from day 5. In older patients (> 60 years) the dosage of idarubicin and ifosfamide was reduced to 75% in the initial cycle. Fourty six patients (pts) were treated with a total of 131 cycles. Sixteen pts were primary resistant and 30 were relapsed. Median age was 54.3 years (range 22-75). The median number of different prior chemotherapies was 1.7 (range 1 to 5). 31/46 (67.4%) pts had advanced disease (stage III or IV); 19/46 had B symptoms. Of 43 evaluable pts the response rate was 58.1% including 11 complete remissions (CR) and 14 partial remissions",
+        "journal": "Leukemia & lymphoma",
+        "year": "1998",
+        "authors": [
+          "Reiser M",
+          "Schnell R",
+          "Straub G",
+          "Borchmann P",
+          "Wilhelm M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antibiotics, Antineoplastic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Dexamethasone",
+          "Etoposide",
+          "Female",
+          "Hodgkin Disease",
+          "Humans",
+          "Idarubicin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9869200/"
+      },
+      {
+        "pmid": "40232406",
+        "title": "Lenalidomide in combination with rituximab, dexamethasone, high-dose ARA-C and cisplatinum as salvage therapy in refractory or relapsed aggressive B-cell non-hodgkin-lymphoma - an open-label, multicentre phase I/II study (DSHNHL-R6).",
+        "abstract": "Treatment of relapsed or refractory aggressive B-cell lymphoma (aNHL) is still an unmet medical need. Platinum-containing salvage immunotherapies achieve remission rates of 40-60%. The phase I/II DSHNHL-R6 trial sought to investigate feasibility, safety and efficacy of R-DHAP plus lenalidomide in patients with first or subsequent relapse of aNHL. 33 patients were enrolled in the trial and could be analyzed (ITT). Lenalidomide dose was stepwise increased if no dose-limiting toxicities were observed. Maximum tolerated dose (MTD) for lenalidomide in combination with R-DHAP was 15 mg administered on days 1-7 of each cycle. The overall response rates (ORR; defined as complete, unconfirmed complete or partial remission; using the revised response criteria by CT) and complete response rates (CR) rates were 60.6% and 27.3% for the ITT-population and 81.3% and 50.0% in the patients treated as per protocol (PP). With a median follow-up of 13.9 months, the median OS was 21.2 months and PFS for th",
+        "journal": "Annals of hematology",
+        "year": "2025",
+        "authors": [
+          "Fuhrmann Stephan",
+          "Nickelsen Maike",
+          "Hasenkamp Justin",
+          "Hüttmann Andreas",
+          "Dreyling Martin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase I",
+          "Clinical Trial, Phase II",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lenalidomide",
+          "Salvage Therapy",
+          "Male",
+          "Middle Aged",
+          "Female",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Aged",
+          "Dexamethasone",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40232406/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:19:00.391575",
+  "success": true,
+  "error_message": null
+}

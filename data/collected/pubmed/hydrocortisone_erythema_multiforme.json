@@ -1,0 +1,555 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrocortisone",
+    "disease": "erythema multiforme",
+    "query_string": "Hydrocortisone AND erythema multiforme"
+  },
+  "data": {
+    "query": "Hydrocortisone AND erythema multiforme",
+    "results": [
+      {
+        "pmid": "37854261",
+        "title": "Erythema multiforme provoked by radiotherapy.",
+        "abstract": "Radiation dermatitis is one of the most common adverse effects that occur in patients treated with radiation therapy. It is usually limited to the irradiated area. However, cases of generalized lesions have also been described in the literature. A rare but highly important cutaneous manifestation can be erythema multiforme-like lesions localized all over the patient's skin. A 63-year-old patient was admitted to the Department of Dermatology for disseminated erythematous lesions localized on the trunk and extremities. The patient denied taking any new medications or dietary supplements. However, he was undergoing radiotherapy treatment. On admission, the patient was in good general condition. During the stay in the department, the patient was treated orally as well as intravenously with corticosteroids, acyclovir, and a topical ointment consisting of gentamicin and betamethasone, as well as hydrocortisone and cooling ointment. After 1 month, a significant improvement in the patient's sk",
+        "journal": "Clinical case reports",
+        "year": "2023",
+        "authors": [
+          "Machoń Natalia Joanna",
+          "Lewandowska Julia Alicja",
+          "Chojnacka-Purpurowicz Joanna",
+          "Owczarczyk-Saczonek Agnieszka"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37854261/"
+      },
+      {
+        "pmid": "2198136",
+        "title": "Erythema multiforme and Stevens-Johnson syndrome. Descriptive and therapeutic controversy.",
+        "abstract": "Diagnosis and particularly the management of erythema multiforme and Stevens-Johnson syndrome are controversial in medical textbooks and thus in individual cases. In these diseases, fatalities may result from various causes, including secondary infection or visceral organ damage to lung, liver, or kidneys. We present a series of 13 cases managed by one group of physicians which demonstrates the controversy in certain cases, and we review the controversy in the medical literature. Corticosteroid therapy used in this series was considered beneficial in every case by the managing physician and lifesaving in some cases. There were no fatalities in this series. Although the summation may be considered as our opinion only, the frequently suggested \"controlled trial of corticosteroid therapy\" can probably never be done for ethical reasons, and series such as this will have to establish the standard of therapy.",
+        "journal": "Chest",
+        "year": "1990",
+        "authors": [
+          "Patterson R",
+          "Dykewicz M S",
+          "Gonzalzles A",
+          "Grammer L C",
+          "Green D"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Erythema Multiforme",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Middle Aged",
+          "Prednisone",
+          "Stevens-Johnson Syndrome",
+          "Terminology as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2198136/"
+      },
+      {
+        "pmid": "12353720",
+        "title": "Erythema multiforme-like molluscum dermatitis.",
+        "abstract": "",
+        "journal": "Acta dermato-venereologica",
+        "year": "2002",
+        "authors": [
+          "Lee Hyun-Jeong",
+          "Kwon Ji-Ae",
+          "Kim Jin-Wou"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anti-Inflammatory Agents",
+          "Child",
+          "Dermatitis, Atopic",
+          "Erythema Multiforme",
+          "Humans",
+          "Hydrocortisone",
+          "Male",
+          "Molluscum Contagiosum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12353720/"
+      },
+      {
+        "pmid": "15243755",
+        "title": "Erythema multiforme major following docetaxel.",
+        "abstract": "The objective was to report a severe skin reaction, erythema multiforme major, following administration of docetaxel.",
+        "journal": "Archives of gynecology and obstetrics",
+        "year": "2005",
+        "authors": [
+          "Moisidis Christina",
+          "Möbus Volker"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Antineoplastic Agents, Phytogenic",
+          "Breast Neoplasms",
+          "Docetaxel",
+          "Erythema Multiforme",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Taxoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15243755/"
+      },
+      {
+        "pmid": "27016215",
+        "title": "Erythema multiforme-like eruption in a 3-year-old boy.",
+        "abstract": "",
+        "journal": "Archives of disease in childhood",
+        "year": "2016",
+        "authors": [
+          "Neri Iria",
+          "Loi Camilla",
+          "Magnano Michela",
+          "Vincenzi Colombina",
+          "La Placa Michelangelo"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenoids",
+          "Anti-Allergic Agents",
+          "Budesonide",
+          "Child, Preschool",
+          "Dermatitis, Allergic Contact",
+          "Diagnosis, Differential",
+          "Erythema Multiforme",
+          "Face",
+          "Glucocorticoids",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27016215/"
+      },
+      {
+        "pmid": "3611442",
+        "title": "Pityriasis rosea with erythema multiforme-like lesions.",
+        "abstract": "",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1987",
+        "authors": [
+          "Friedman S J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Child, Preschool",
+          "Erythema Multiforme",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Pityriasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3611442/"
+      },
+      {
+        "pmid": "13994257",
+        "title": "Triamcinolone and hydrocortisone in topical therapy.",
+        "abstract": "",
+        "journal": "Archives of dermatology",
+        "year": "1963",
+        "authors": [
+          "TROMOVITCH T A",
+          "JACOBS P H",
+          "PUZAK H P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dermatitis",
+          "Dermatitis, Atopic",
+          "Eczema",
+          "Erythema Multiforme",
+          "Humans",
+          "Hydrocortisone",
+          "Neurodermatitis",
+          "Pityriasis",
+          "Triamcinolone",
+          "Triamcinolone Acetonide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13994257/"
+      },
+      {
+        "pmid": "20407030",
+        "title": "Caspofungin-induced severe toxic epidermal necrolysis.",
+        "abstract": "To report a case of suspected caspofungin-induced toxic epidermal necrolysis (TEN).",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2010",
+        "authors": [
+          "Lee Ming-Chia",
+          "Ni Ya-Wen",
+          "Wang Chun-Hua",
+          "Lee Chih-Hsin",
+          "Wu Ta-Wei"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged, 80 and over",
+          "Caspofungin",
+          "Echinocandins",
+          "Fatal Outcome",
+          "Humans",
+          "Hydrocortisone",
+          "Lipopeptides",
+          "Male",
+          "Severity of Illness Index",
+          "Stevens-Johnson Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20407030/"
+      },
+      {
+        "pmid": "18370879",
+        "title": "Erythema multiforme after use of topical dorzolamide.",
+        "abstract": "Erythema multiforme may be a mild condition (erythema multiforme minor), or it may be a severe, possibly life-threatening condition (erythema multiforme major or Stevens-Johnson syndrome). Dorzolamide is a carbonic anhydrase inhibitor, which reduces intraocular pressure by suppressing aqueous production. In this paper we report on a patient who developed erythema multiforme following the use of topical dorzolamide.",
+        "journal": "Journal of ocular pharmacology and therapeutics : the official journal of the Association for Ocular Pharmacology and Therapeutics",
+        "year": "2008",
+        "authors": [
+          "Munshi Vineeta",
+          "Ahluwalia Harpreet"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents",
+          "Carbonic Anhydrase Inhibitors",
+          "Cataract Extraction",
+          "Drug Eruptions",
+          "Erythema Multiforme",
+          "Female",
+          "Glaucoma",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18370879/"
+      },
+      {
+        "pmid": "38854841",
+        "title": "Immunoglobulin-E (IgE) Screening for Detecting Mouthwash Allergic Reactions with Recurrent Oral Erythema Multiforme: A Case Report.",
+        "abstract": "Recurrent oral erythema multiforme (ROEM) is an uncommon subtype of erythema multiforme. Immunoglobulin E (IgE) is essential in acute allergy reactions and chronic allergic inflammatory disorders.",
+        "journal": "International medical case reports journal",
+        "year": "2024",
+        "authors": [
+          "Pranadwista Zulfa Fidi",
+          "Hidayat Wahyu"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38854841/"
+      },
+      {
+        "pmid": "3869906",
+        "title": "[The use of hydrocortisone iontophoresis in the treatment of erythema exudativum multiforme].",
+        "abstract": "",
+        "journal": "Czasopismo stomatologiczne",
+        "year": "1985",
+        "authors": [
+          "Szczepankiewicz W",
+          "Brzezińska B"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Erythema Multiforme",
+          "Humans",
+          "Hydrocortisone",
+          "Iontophoresis",
+          "Mouth Diseases",
+          "Wound Healing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3869906/"
+      },
+      {
+        "pmid": "14257740",
+        "title": "TOXIC EPIDERMAL NECROLYSIS.",
+        "abstract": "",
+        "journal": "JAMA",
+        "year": "1965",
+        "authors": [
+          "BAILEY G",
+          "ROSENBAUM J M",
+          "ANDERSON B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alcoholism",
+          "Anti-Bacterial Agents",
+          "Chloramphenicol",
+          "Chlorpromazine",
+          "Drug Eruptions",
+          "Drug Therapy",
+          "Humans",
+          "Hydrocortisone",
+          "Mannitol",
+          "Methicillin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14257740/"
+      },
+      {
+        "pmid": "26627523",
+        "title": "The use of corticosteroids in management of Herpes associated Erythema Multiforme.",
+        "abstract": "Erythema multiforme (EM) is an acute self-limiting condition considered to be hypersensitivity reaction associated commonly with infections or medications. It is characterized by skin lesions, with oral or other mucous membrane involvement. Occasionally EM may involve the mouth alone. We report a ten year-old healthy male child who developed skin lesions of both palms and soles associated with oral ulcerative lesions. The patient first noticed the lesions on the palms and soles followed by involvement of the oral cavity in form of multiple haemorrhagic crusting ulcerations involving lips and buccal mucosa. The diagnosis was established clinically based on the signs and symptoms as erythema multiforme minor associated with herpes simplex infection. Systemic corticosteroids as a treatment modality should always be considered for the treatment of erythema multiforme minor.",
+        "journal": "JPMA. The Journal of the Pakistan Medical Association",
+        "year": "2015",
+        "authors": [
+          "AlFar Maan Yacoub",
+          "AlRousan Medyan",
+          "Almajali Zahi",
+          "Batarseh Emil",
+          "Alsaddi Rania"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Anti-Inflammatory Agents",
+          "Antiviral Agents",
+          "Child",
+          "Erythema Multiforme",
+          "Herpes Simplex",
+          "Humans",
+          "Hydrocortisone",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26627523/"
+      },
+      {
+        "pmid": "10696380",
+        "title": "Erythema multiforme after application of aural Gentisone HC drops.",
+        "abstract": "Erythema multiforme is an uncommon acute self-limiting condition characterized by mucocutaneous lesions of varying severity with a variable pattern of recurrence. This is a case of a four-year-old girl who developed erythema multiforme secondary to topical aural application of Gentisone HC drops (hydrocortisone acetate one per cent, gentamicin 0.3 per cent (as sulphate)) prescribed as a treatment for otorrhoea following grommet insertion. The clinical features are described and the literature reviewed. To my knowledge, this is the first reported case in the literature, of erythema multiforme secondary to a topical aminoglycoside/steroid preparation.",
+        "journal": "The Journal of laryngology and otology",
+        "year": "1999",
+        "authors": [
+          "Siddiq M A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Child, Preschool",
+          "Erythema Multiforme",
+          "Female",
+          "Gentamicins",
+          "Humans",
+          "Instillation, Drug",
+          "Otitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10696380/"
+      },
+      {
+        "pmid": "5858117",
+        "title": "Oro-genital aphthosis.",
+        "abstract": "",
+        "journal": "The British journal of venereal diseases",
+        "year": "1965",
+        "authors": [
+          "Masterton G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Betamethasone",
+          "Erythema Multiforme",
+          "Genital Diseases, Male",
+          "Humans",
+          "Hydrocortisone",
+          "Male",
+          "Skin Ulcer",
+          "Stomatitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5858117/"
+      },
+      {
+        "pmid": "19764100",
+        "title": "Stevens-Johnson syndrome complicating adalimumab therapy in Crohn's disease.",
+        "abstract": "The anti-tumor necrosis factor (TNF)alpha medications demonstrate efficacy in the induction of remission and its maintenance in numerous chronic inflammatory conditions. With the increasing number of patients receiving anti-TNFalpha agents, however, less common adverse reactions will occur. Cutaneous eruptions complicating treatment with an anti-TNFalpha agent are not uncommon, occurring in around 20% of patients. Adalimumab, a fully humanized antibody against TNFalpha, may be expected to cause minimal immune-mediated skin reactions compared to the chimeric monoclonal antibody, infliximab. We, however, report a case of Stevens-Johnson syndrome that required hospitalization and cessation of adalimumab in a patient with Crohn's disease (CD). In this case report, a 29-year-old male with colonic and perianal CD with associated erythema nodosum and large joint arthropathy developed severe mucositis, peripheral rash and desquamation, fevers and respiratory symptoms concomitant with a second ",
+        "journal": "World journal of gastroenterology",
+        "year": "2009",
+        "authors": [
+          "Salama Muna",
+          "Lawrance Ian-Craig"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Crohn Disease",
+          "Humans",
+          "Male",
+          "Stevens-Johnson Syndrome",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19764100/"
+      },
+      {
+        "pmid": "1068978",
+        "title": "Corticosteroids in diseases of the oral mucosa.",
+        "abstract": "The introduction of corticosteroids into oral medicine heralded a therapeutic advance, and substantial benefits have occurred from their use. Three topical steroids are being used currently in oral diseases, i.e. hydrocortisone hemisuccinate, triamcinolone in Orabase 0-1 per cent and betamethasone valerate 0-1 mg. The efficacy of these agents can be increased markedly if they are administered during the prodromal phase of ulceration, i.e. when lymphocyte activity is at its maximum. Therapeutic doses of all of them can be exceeded three times without impairing adrenal function. Nevertheless some of these preparations, as exemplified by topical medication, induced an unfortunate acute pseudomembranous candidiasis without any alteration in the plasma cortisol level. The routine examination and treatment of ulcers in the mouth should be a careful exercise helped by a good light source and a tongue spatula. Oral lesions affecting the soft tissues may be often difficult to diagnose, because ",
+        "journal": "International dental journal",
+        "year": "1976",
+        "authors": [
+          "Kay L W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adrenal Cortex Hormones",
+          "Anti-Inflammatory Agents",
+          "Epidermolysis Bullosa",
+          "Erythema Multiforme",
+          "Herpes Simplex",
+          "Humans",
+          "Hydrocortisone",
+          "Lichen Planus",
+          "Lupus Erythematosus, Discoid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1068978/"
+      },
+      {
+        "pmid": "1355116",
+        "title": "Dermatitis caused by dimethyl cyanocarbonimidodithioate.",
+        "abstract": "Dimethyl cyanocarbonimidodithioate (CAS No. 10191-60-3) a raw material for cimetidine synthesis, is labelled as an irritant on its storage tank. There is no information available regarding the toxic effects of human exposure. We report a case of severe dermatitis clinically resembling erythema multiforme following an accidental exposure to dimethyl cyanocarbonimidodithioate in an occupational setting. A clerk sifted a handful of dimethyl cyanocarbonimidodithioate from an unlabelled bucket through his bare hands during an inspection prior to customs clearance. Five hours later, while he was washing his hands, pruritus, erythema and vesicles developed over the exposed area. The skin condition worsened within two weeks, extending to his whole body with generalized erythema and vesicles of various sizes. Some vesicles became confluent with ruptured bullae, resembling a second degree burn over 40% of the body. Elevation of the serum IgE (705 mu/mL, normal less than 300 mu/mL) and lymphocyte",
+        "journal": "Journal of toxicology. Clinical toxicology",
+        "year": "1992",
+        "authors": [
+          "Hung D Z",
+          "Deng J F",
+          "Tsai W J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbonates",
+          "Dermatitis, Contact",
+          "Dermatitis, Occupational",
+          "Erythema Multiforme",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Hydrocortisone",
+          "Immunoglobulin E",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1355116/"
+      },
+      {
+        "pmid": "17357592",
+        "title": "Drug-related hospital admissions--an overview of frequency and clinical presentation.",
+        "abstract": "Adverse drug reactions (ADR) are the cause of hospital admissions for millions of patients every year and are believed to be a major problem in terms of morbidity and hospital expenses. ADR are characterized by exceptional variety, both considering pathomechanism and clinical symptoms. During the time period between 2000-2004 at the Department of Dermatology a project was undertaken to monitor patients who were hospitalized as a result of ADR. Within five years 57 patients, including 30 men and 27 women were observed. The majority of the patients developed maculaopapular rash (16), urticaria medicamentosa and Quincke's edema (16) and erythema multiforme (15). The other cases included erythroderma (5), anaphylactic shock (2), lichenoid exanthem (1), bullous eruption (1) and Hoigne's syndrome (1). The most probable factors producing these changes were concluded to be non-steroid antiinflammation drugs (33%), antibiotics (7%) and other drugs from different pharmacological and chemical gro",
+        "journal": "Acta poloniae pharmaceutica",
+        "year": "2006",
+        "authors": [
+          "Jenerowicz Dorota",
+          "Czarnecka-Operacz Magdalena",
+          "Górecka Alina",
+          "Stawny Maciej"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Exanthema",
+          "Female",
+          "Hospitalization"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17357592/"
+      },
+      {
+        "pmid": "5926269",
+        "title": "Toxic epidermal necrolysis: the scalded skin syndrome.",
+        "abstract": "Toxic epidermal necrolysis is a condition that may occur in all age groups and resembles skin scalding. It presents as a generalized, markedly tender erythema and rapidly progresses to bullous desquamation of the superficial epidermal layers and systemic toxicity.The condition was first described in 1956. A review of the recent literature suggests that the incidence of the syndrome is increasing or it is being recognized more frequently. Its etiology has not been established, but it may represent unusual hypersensitivity to drug, bacterial, viral or immunization factors. The mortality rate in reported cases is approximately 30% and young children and debilitated adults are at greatest risk.Recently, two children with this condition were successfully treated at the Montreal Children's Hospital, using protective isolation, intensive nursing care, intravenous antibiotics and hydrocortisone hemisuccinate. Early use of corticosteroids may inhibit the progression of epidermal necrolysis and ",
+        "journal": "Canadian Medical Association journal",
+        "year": "1966",
+        "authors": [
+          "Anderson J P",
+          "Hillman D A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antigen-Antibody Reactions",
+          "Child, Preschool",
+          "Diagnosis, Differential",
+          "Drug Hypersensitivity",
+          "Hemagglutination",
+          "Humans",
+          "Hydrocortisone",
+          "Immunoelectrophoresis",
+          "Infant",
+          "Latex Fixation Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5926269/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:16:48.153553",
+  "success": true,
+  "error_message": null
+}

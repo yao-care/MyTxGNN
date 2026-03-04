@@ -1,0 +1,570 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clotrimazole",
+    "disease": "cutaneous candidiasis",
+    "query_string": "Clotrimazole AND cutaneous candidiasis"
+  },
+  "data": {
+    "query": "Clotrimazole AND cutaneous candidiasis",
+    "results": [
+      {
+        "pmid": "31287594",
+        "title": "Cutaneous candidiasis - an evidence-based review of topical and systemic treatments to inform clinical practice.",
+        "abstract": "Cutaneous candidiasis is a common skin disease, and several treatments have been investigated within the last fifty years. Yet, systematic reviews are lacking, and evidence-based topical and systemic treatment strategies remain unclear. Thus, the aim of this review was to summarize efficacy and adverse effects of topical and oral therapies for cutaneous candidiasis in all age groups. Two individual researchers searched PubMed and EMBASE for 'cutaneous candidiasis' and 'cutaneous candidiasis treatment', 'intertrigo', 'diaper dermatitis' and 'cheilitis'. Searches were limited to 'English language', 'clinical trials' and 'human subjects', and prospective clinical trials published in abstracts or articles were included. In total, 149 studies were identified, of which 44 were eligible, comprising 41 studies of 19 topical therapies and four studies of three systemic therapies for cutaneous candidiasis. Topical therapies were investigated in infants, children, adolescents, adults and elderly,",
+        "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+        "year": "2019",
+        "authors": [
+          "Taudorf E H",
+          "Jemec G B E",
+          "Hay R J",
+          "Saunte D M L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Antifungal Agents",
+          "Candidiasis, Cutaneous",
+          "Clotrimazole",
+          "Drug Therapy, Combination",
+          "Evidence-Based Medicine",
+          "Fluconazole",
+          "Humans",
+          "Ketoconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31287594/"
+      },
+      {
+        "pmid": "37536641",
+        "title": "Topical delivery systems containing clotrimazole for the management of candidiasis: Effect of different excipients and enhanced antifungal activity of nanovesicles.",
+        "abstract": "WHO classified Candida albicans as one of the four critical priority fungi for public health worldwide in 2022. Conventional topical formulations commercially available for the treatment of cutaneous candidiasis are associated with low drug bioavailability at the infection site and the lack of a sustained therapeutic effect. The main objectives of this work were to develop new topical administration systems of clotrimazole (CLT) and study the influence of surfactants on the antifungal inhibitory efficacy. Therefore, the minimum concentration of CLT required to inhibit 50 % of growth (MIC50) was determined, obtaining a value of approximately 15 ng/mL. A non-ionic emulsion type 1, Beeler base cream, hydrogel and liposomes containing CLT were designed, prepared, characterized and their antifungal activity against C. albicans was tested. CLT loaded liposomes were small in size (102 nm), homogeneous (polydispersity index = 0.3) and uncharged (+0.07 mV), showing higher antifungal activity ag",
+        "journal": "International journal of pharmaceutics",
+        "year": "2023",
+        "authors": [
+          "Usach Iris",
+          "Martínez-Álvarez Paula",
+          "Peris José-Esteban"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Clotrimazole",
+          "Antifungal Agents",
+          "Excipients",
+          "Liposomes",
+          "Candidiasis",
+          "Candida albicans",
+          "Surface-Active Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37536641/"
+      },
+      {
+        "pmid": "1097234",
+        "title": "Clotrimazole: a review of its antifungal activity and therapeutic efficacy.",
+        "abstract": "Clotrimazole 2, a synthetic imidazole derivative, is primarily used locally in the treatment of vaginal and skin infections due to yeasts and dermatophytes. In vitro, it is most active against Candida spp., Trichophyton spp., Microsporum spp. and Malazzesia fuffur (Pityrosporon orbiculare). In addition, it has some in vitro activity against certain Gram-positive bacteria, and at very high concentrations has activity against Trichomonas spp. In the treatment of vaginal candidiasis, clotrimazole vaginal tablets have produced cure rates comparable with those of conventional nystatin vaginal tablets. There have been no published comparisons with nystatin vaginal cream or foaming vaginal tablets - nystatin dosage forms preferred by some clinicians. Cootrimazole has also been successful in patients who had failed to respond to other antifungal agents such as nystatin and amphotericin B. Results in trichomonal vaginitis are not impressive. Skin infections caused by Candida or dermatophytes ha",
+        "journal": "Drugs",
+        "year": "1975",
+        "authors": [
+          "Sawyer P R",
+          "Brogden R N",
+          "Pinder R M",
+          "Speight T M",
+          "Avery"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amoeba",
+          "Animals",
+          "Candidiasis",
+          "Clotrimazole",
+          "Dogs",
+          "Drug Resistance, Microbial",
+          "Female",
+          "Fungi",
+          "Humans",
+          "Imidazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1097234/"
+      },
+      {
+        "pmid": "23560821",
+        "title": "Polymeric microparticles-based formulation for the eradication of cutaneous candidiasis: development and characterization.",
+        "abstract": "Cutaneous candidiasis is a common topical fungal infection which may be more prominent in patients associated with AIDS. It is usually treated by conventional formulations such as cream, gel, which show various adverse effects on skin along with systemic absorption. To overcome these drawbacks, various novel drug delivery systems have been explored. Poly(lactic-co-glycolic acid) (PLGA)-based microparticulate systems have shown good dermal penetration after topical application. Therefore, in the present study clotrimazole-loaded PLGA microspheres were prepared for targeted dermal delivery. Microspheres were prepared by using a single emulsification (oil-in-water, O/W) evaporation technique and characterized for different parameters. Prepared microparticulate systems were dispersed in Carbopol 934® gel and antifungal activity was carried out on experimentally induced cutaneous candidiasis in immunosuppressed guinea pigs. Particle size of optimized formulation was 2.9 µm along with 74.85%",
+        "journal": "Pharmaceutical development and technology",
+        "year": "2014",
+        "authors": [
+          "Kumar Lalit",
+          "Verma Shivani",
+          "Jamwal Sumit",
+          "Vaidya Shubha",
+          "Vaidya Bhuvaneshwar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Candidiasis, Cutaneous",
+          "Clotrimazole",
+          "Drug Delivery Systems",
+          "Gels",
+          "Guinea Pigs",
+          "Lactic Acid",
+          "Particle Size",
+          "Polyglycolic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23560821/"
+      },
+      {
+        "pmid": "29953171",
+        "title": "Efficacy and Safety in 1% Clotrimazole Powder, Adjuvant Therapy in Patients with Superficial Fungal Cutaneous Infection in Intertriginous Areas.",
+        "abstract": "Superficial fungal cutaneous infection is commonly found in intertriginous area.",
+        "journal": "Journal of the Medical Association of Thailand = Chotmaihet thangphaet",
+        "year": "2016",
+        "authors": [
+          "Desomchoke Rasthawathana",
+          "Bunyaratavej Sumanas",
+          "Leeyaphan Charussri",
+          "Prasertworonun Nuntida",
+          "Rujitharanawong Chuda"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antifungal Agents",
+          "Candidiasis, Cutaneous",
+          "Clotrimazole",
+          "Dermatomycoses",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29953171/"
+      },
+      {
+        "pmid": "11302816",
+        "title": "In vitro antifungal activity of KP-103, a novel triazole derivative, and its therapeutic efficacy against experimental plantar tinea pedis and cutaneous candidiasis in guinea pigs.",
+        "abstract": "The in vitro activity of KP-103, a novel triazole derivative, against pathogenic fungi that cause dermatomycoses and its therapeutic efficacy against plantar tinea pedis and cutaneous candidiasis in guinea pigs were investigated. MICs were determined by a broth microdilution method with morpholinepropanesulfonic acid-buffered RPMI 1640 medium for Candida species and with Sabouraud dextrose broth for dermatophytes and by an agar dilution method with medium C for Malassezia furfur. KP-103 was the most active of all the drugs tested against Candida albicans (geometric mean [GM] MIC, 0.002 microg/ml), other Candida species including Candida parapsilosis and Candida glabrata (GM MICs, 0.0039 to 0.0442 microg/ml), and M. furfur (GM MIC, 0.025 microg/ml). KP-103 (1% solution) was highly effective as a treatment for guinea pigs with cutaneous candidiasis and achieved mycological eradication in 8 of the 10 infected animals, whereas none of the imidazoles tested (1% solutions) was effective in e",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2001",
+        "authors": [
+          "Tatsumi Y",
+          "Yokoo M",
+          "Arika T",
+          "Yamaguchi H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Blood Proteins",
+          "Candida",
+          "Candidiasis, Cutaneous",
+          "Culture Media",
+          "Disease Models, Animal",
+          "Guinea Pigs",
+          "Hair",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11302816/"
+      },
+      {
+        "pmid": "31028492",
+        "title": "Impact of Process Parameters on Particle Size Involved in Media Milling Technique Used for Preparing Clotrimazole Nanocrystals for the Management of Cutaneous Candidiasis.",
+        "abstract": "Clotrimazole is widely used for the management of cutaneous candidiasis infection. The low solubility of clotrimazole and excipient-related topical side effects (of currently available marketed products) cause the compromised efficacy of the therapy with poor patient compliance. In the present investigation, a clotrimazole nanocrystal-based nanogel was developed. Clotrimazole nanocrystals were optimized with studying the impact of individual process parameters of the media milling technique. The optimum level of individual process parameters was considered in the development of optimized batches. A promising result was obtained with a non-ionic stabilizer, polysorbate 80, at a concentration of 1.5%w/v, showing a distinct reduction in the particle size from above 31 μm to 264 nm and a polydispersity index of 0.211 with media milling at 1500 rpm for 6 h. This result was found to be in concordance with the TEM images, revealing a sharp diminution in particle morphology. Powder X-ray diffr",
+        "journal": "AAPS PharmSciTech",
+        "year": "2019",
+        "authors": [
+          "Patel Viral",
+          "Sharma Om Prakash",
+          "Mehta Tejal A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Candida albicans",
+          "Candidiasis, Cutaneous",
+          "Clotrimazole",
+          "Diffusion",
+          "Drug Compounding",
+          "Irritants",
+          "Nanoparticles",
+          "Particle Size"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31028492/"
+      },
+      {
+        "pmid": "31174342",
+        "title": "Optimization of Innovative Three-Dimensionally-Structured Hybrid Vesicles to Improve the Cutaneous Delivery of Clotrimazole for the Treatment of Topical Candidiasis.",
+        "abstract": "New three-dimensionally-structured hybrid phospholipid vesicles, able to load clotrimazole in a high amount (10 mg/mL), were obtained for the first time in this work by significantly reducing the amount of water (≤10%), which was replaced with a mixture of glycerol and ethanol (≈90%). A pre-formulation study was carried out to evaluate the effect of both the composition of the hydrating medium and the concentration of the phospholipid on the physico-chemical properties of hybrid vesicles. Four different three-dimensionally-structured hybrid vesicles were selected as ideal systems for the topical application of clotrimazole. An extensive physico-chemical characterization performed using transmission electron microscopy (TEM), cryogenic transmission electron microscopy (cryo-TEM), 31P-NMR, and small-angle X-ray scattering (SAXS) displayed the formation of small, multi-, and unilamellar vesicles very close to each other, and was capable of forming a three-dimensional network, which stabil",
+        "journal": "Pharmaceutics",
+        "year": "2019",
+        "authors": [
+          "Manca Maria Letizia",
+          "Usach Iris",
+          "Peris José Esteban",
+          "Ibba Antonella",
+          "Orrù Germano"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31174342/"
+      },
+      {
+        "pmid": "6354167",
+        "title": "Treatment of cutaneous candidiasis: a double blind, parallel comparison of sulconazole nitrate 1% cream and clotrimazole 1% cream.",
+        "abstract": "",
+        "journal": "The Australasian journal of dermatology",
+        "year": "1983",
+        "authors": [
+          "Rajan V S",
+          "Thirumoorthy T"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Antifungal Agents",
+          "Candidiasis, Cutaneous",
+          "Clinical Trials as Topic",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Humans",
+          "Imidazoles",
+          "Random Allocation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6354167/"
+      },
+      {
+        "pmid": "10439936",
+        "title": "Terbinafine. An update of its use in superficial mycoses.",
+        "abstract": "Terbinafine is an allylamine antifungal agent which has fungicidal activity against a wide variety of dermatophytes, moulds and certain dimorphic fungi, and fungistatic activity against Candida albicans. Oral terbinafine 250 mg/day is effective in the treatment of superficial dermatophyte infections such as onychomycosis, tinea pedis and tinea corporis/cruris, generally achieving mycological cure in > 80% of patients. The drug is also effective in children with tinea capitis when administered orally in the dosage range 62.5 to 250 mg/day for 4 weeks. Comparative data indicate that oral terbinafine is more effective than continuous or intermittent intraconazole in dermatophyte onychomycosis, and is as effective as itraconazole 400 mg/day in tinea pedis. The drug has shown greater efficacy than griseofulvin in dermatophyte onychomycosis, tinea pedis and tinea corporis/cruris, and comparable efficacy in children with tinea capitis. Additionally, oral terbinafine is more effective than ket",
+        "journal": "Drugs",
+        "year": "1999",
+        "authors": [
+          "McClellan K J",
+          "Wiseman L R",
+          "Markham A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Dermatomycoses",
+          "Humans",
+          "Naphthalenes",
+          "Terbinafine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10439936/"
+      },
+      {
+        "pmid": "18840006",
+        "title": "Topical fenticonazole in dermatology and gynaecology: current role in therapy.",
+        "abstract": "Fenticonazole is an imidazole derivative with a broad spectrum of antimycotic activity against dermatophytes and yeasts in in vitro and clinical studies. Fenticonazole exerts its unique antimycotic mechanism of action in the following three ways: (i) inhibition of the secretion of protease acid by Candida albicans; (ii) damage to the cytoplasmic membrane; and (iii) by blocking cytochrome oxidases and peroxidises. Fenticonazole has also been shown to exhibit antibacterial action, with a spectrum of activity that includes bacteria commonly associated with superinfected fungal skin and vaginal infections, and antiparasitic action against the protozoan Trichomonas vaginalis. Therefore, fenticonazole may be an ideal topical alternative to multi-agent treatment of mixed infections involving mycotic, bacterial, dermatophyte and/or Trichomonas spp.Open-label clinical studies show that fenticonazole, in different pharmaceutical preparations administered once or twice daily, is effective in the ",
+        "journal": "Drugs",
+        "year": "2008",
+        "authors": [
+          "Veraldi Stefano",
+          "Milani Rodolfo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Antifungal Agents",
+          "Candidiasis, Vulvovaginal",
+          "Clinical Trials as Topic",
+          "Dermatomycoses",
+          "Female",
+          "Humans",
+          "Imidazoles",
+          "Randomized Controlled Trials as Topic",
+          "Trichomonas Vaginitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18840006/"
+      },
+      {
+        "pmid": "4804324",
+        "title": "Diffuse chronic muco-cutaneous candidiasis: report of two patients treated with topical clotrimazole and replacement of nutritional deficiencies.",
+        "abstract": "",
+        "journal": "Guy's Hospital reports",
+        "year": "1973",
+        "authors": [
+          "Higgs J M",
+          "Wells R S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Agglutination Tests",
+          "Anemia, Hypochromic",
+          "Antibodies",
+          "Antifungal Agents",
+          "Antigens",
+          "Candidiasis, Cutaneous",
+          "Candidiasis, Oral",
+          "Child",
+          "Child, Preschool",
+          "Chronic Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4804324/"
+      },
+      {
+        "pmid": "16989127",
+        "title": "[Use of topical antifungal agents].",
+        "abstract": "Topical antifungal agents are not absorbed when given orally. They act by direct contact on the fungus, this type of action requires the simultaneous presence of antifungal and fungus for a minimum of time. There are a large number of compounds belonging to different families of antifungals: polyens, azoles, allylamine and morpholine and antiseptic substances. The treatment of oropharyngeal candidiasis is based on topical antifungal agents: amphotericin B or nystatin, imidazoles such as clotrimazole or miconazole. Systemic antifungal agents are indicated in case or poor compliance to topical agents, in prophylaxis of highly relapsing disease, in oesophageal candidiasis and in Candida onychomycosis. A topical antifungal agent is the first choice to treat Candida intertrigo. In any case predisposing factors should be eradicated or amended. Infection to Malassezia spp. are treated topically with azoles or selenium sulphur. Oral ketoconazole is an alternative in severe cases. Dermatophytos",
+        "journal": "Therapie",
+        "year": "2006",
+        "authors": [
+          "Dupont Bertrand"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Infective Agents, Local",
+          "Antifungal Agents",
+          "Candidiasis, Cutaneous",
+          "Dermatomycoses",
+          "Humans",
+          "Mycoses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16989127/"
+      },
+      {
+        "pmid": "4467164",
+        "title": "The use of clotrimazole in the treatment of chronic muco-cutaneous candidiasis.",
+        "abstract": "",
+        "journal": "Postgraduate medical journal",
+        "year": "1974",
+        "authors": [
+          "Higgs J M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Candidiasis, Cutaneous",
+          "Child",
+          "Clotrimazole",
+          "Humans",
+          "Imidazoles",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4467164/"
+      },
+      {
+        "pmid": "2632381",
+        "title": "Comparative study of miconazole and clotrimazole in superficial mycosis.",
+        "abstract": "Two hundred cases of superficial mycosis (100 dermatophytosis, 40 candidiasis and 60 pityriasis versicolor) were studied for the comparative effect of miconazole and clotrimazole. The patients were evaluated both clinically and mycologically every 2 weeks for a period of 12 weeks. In dermatophytosis, miconazole showed accelerated response (75% cleared in 6 weeks) than clotrimazole (56%). In candidiasis, both were found to be effective (80-85%) cure though clotrimazole showed slightly earlier response (40% cure in 6 weeks) against miconazole (30% cure). In pityriasis versicolor both were, effective (miconazole 99.6% and clotrimazole 86.7%).",
+        "journal": "Indian journal of dermatology",
+        "year": "1989",
+        "authors": [
+          "Saha K C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Candidiasis, Cutaneous",
+          "Clotrimazole",
+          "Dermatomycoses",
+          "Humans",
+          "Imidazoles",
+          "Miconazole",
+          "Nail Diseases",
+          "Time Factors",
+          "Tinea Versicolor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2632381/"
+      },
+      {
+        "pmid": "4582719",
+        "title": "Comparison of clotrimazole cream, Whitfield's ointment and Nystatin ointment for the topical treatment of ringworm infections, pityriasis versicolor, erythrasma and candidiasis.",
+        "abstract": "",
+        "journal": "The British journal of dermatology",
+        "year": "1973",
+        "authors": [
+          "Clayton Y M",
+          "Connor B L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Benzoates",
+          "Candida albicans",
+          "Candidiasis, Cutaneous",
+          "Clinical Trials as Topic",
+          "Corynebacterium",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4582719/"
+      },
+      {
+        "pmid": "2319366",
+        "title": "Candidiasis in the breastfeeding mother and infant.",
+        "abstract": "Candidiasis in a breastfeeding mother and infant is described. The mother's breasts were a continuous source of Candida albicans, resulting in persistent thrush in the infant. The infant and mother were successfully treated with clotrimazole in a gel form. This report emphasizes the importance of treating both the infected mother and infant to prevent reinfection and ensure successful breastfeeding.",
+        "journal": "Journal of obstetric, gynecologic, and neonatal nursing : JOGNN",
+        "year": "1990",
+        "authors": [
+          "Johnstone H A",
+          "Marcinak J F"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Breast Diseases",
+          "Breast Feeding",
+          "Candidiasis",
+          "Candidiasis, Cutaneous",
+          "Candidiasis, Oral",
+          "Clotrimazole",
+          "Female",
+          "Humans",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2319366/"
+      },
+      {
+        "pmid": "471515",
+        "title": "Candida infections.",
+        "abstract": "The authors present a review of the epidemiology, pathology, diagnosis and treatment of candidiasis in the child. Their studies on the favoring factors in cutaneous forms as well as their experiences in pulmonary forms are emphasized.",
+        "journal": "Paediatrician",
+        "year": "1979",
+        "authors": [
+          "Argemi J",
+          "Valls A",
+          "Casanova-Bellido M",
+          "Lechuga J L",
+          "Botet F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Candidiasis",
+          "Candidiasis, Cutaneous",
+          "Candidiasis, Oral",
+          "Candidiasis, Vulvovaginal",
+          "Child",
+          "Clotrimazole",
+          "Complement C5",
+          "Female",
+          "Flucytosine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/471515/"
+      },
+      {
+        "pmid": "320670",
+        "title": "Topical clotrimazole in tinea pedis.",
+        "abstract": "Clotrimazole is a new antifungal agent which is effective topically in dermatophytosis, cutaneous candidiasis, and tinea vesicolor. The authors performed a controlled double-blind clinical trial comparing topical clotrimazole with its vehicle in the treatment of 66 patients with dermatophytic infections of the skin of the feet. Clotrimazole proved to be effective in the treatment of tinea pedis of both the interdigital and the plantar hyperkeratotic types.",
+        "journal": "Southern medical journal",
+        "year": "1977",
+        "authors": [
+          "Smith E B",
+          "Graham J L",
+          "Ulrich J A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Clinical Trials as Topic",
+          "Clotrimazole",
+          "Humans",
+          "Imidazoles",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/320670/"
+      },
+      {
+        "pmid": "6388169",
+        "title": "[Multicenter double-blind contralateral comparison of naftifin and clotrimazole cream in patients with dermatophytosis and candidiasis].",
+        "abstract": "Naftifine, an allylamine derivative, represents a new class of antimycotic agents. During a multicentric, double blind, intraindividual, contralateral comparison study, 126 patients with dermatophytosis or candidosis were examined with regard to antimycotic efficacy and local tolerance of Naftifine cream or Clotrimazole cream. After treatment with Naftifine for 7 days, 63.5% of the patients were mycologically cured, whereas 56% were cured with the help of Clotrimazole. After 2 weeks, the healing rate amounted to 84% under both drugs. At that time, 95% of the patients showed negative cultures on both corresponding body sites. Regarding the improvement of the clinical symptoms and the frequency of relapses occurring 4 weeks after the end of treatment as well as local side effects, there was no substantial difference between both drugs. The \"responder-rate\" towards Naftifine, however, was higher by the end of treatment. The local tolerance of both drugs was excellent or good on more than ",
+        "journal": "Zeitschrift fur Hautkrankheiten",
+        "year": "1984",
+        "authors": [
+          "Zaun H",
+          "Luszpinski P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Allylamine",
+          "Amines",
+          "Antifungal Agents",
+          "Candidiasis, Cutaneous",
+          "Clinical Trials as Topic",
+          "Clotrimazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6388169/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:30:17.244838",
+  "success": true,
+  "error_message": null
+}

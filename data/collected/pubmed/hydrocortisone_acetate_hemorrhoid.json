@@ -1,0 +1,530 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrocortisone Acetate",
+    "disease": "hemorrhoid",
+    "query_string": "Hydrocortisone Acetate AND hemorrhoid"
+  },
+  "data": {
+    "query": "Hydrocortisone Acetate AND hemorrhoid",
+    "results": [
+      {
+        "pmid": "1800704",
+        "title": "Pharmacokinetics and rectal bioavailability of hydrocortisone acetate.",
+        "abstract": "The pharmacokinetics and bioavailability of hydrocortisone after rectal administration of a hydrocortisone acetate foam was determined. Endogenous hydrocortisone was suppressed by dexamethasone administration. Plasma levels were compared with those observed after iv and oral administration. Only a very small part of the rectal dose (100 mg) was absorbed; the mean absolute bioavailability was 2%. There was substantial intersubject variability. Maximum hydrocortisone levels were reached after 2 h and averaged 35 ng/mL. These levels were 10-fold lower than those obtained after oral administration of a fivefold lower dose (20 mg) of hydrocortisone in the same subjects.",
+        "journal": "Journal of pharmaceutical sciences",
+        "year": "1991",
+        "authors": [
+          "Möllmann H",
+          "Barth J",
+          "Möllmann C",
+          "Tunn S",
+          "Krieg M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Rectal",
+          "Administration, Topical",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Biological Availability",
+          "Humans",
+          "Hydrocortisone",
+          "Injections, Intravenous",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1800704/"
+      },
+      {
+        "pmid": "40143012",
+        "title": "Innovative Hydrocortisone Acetate and Pramoxine Hydrochloride Topical Cream Formulations for Anorectal Conditions: Enhanced In Vitro Release Profile.",
+        "abstract": "This study focuses on analyzing the in vitro release characteristics, as well as improving the penetration rate and stability of hydrocortisone acetate and pramoxine. This medication combination (hydrocortisone and pramoxine) is the first generic drug product utilized to alleviate minor pain, itching, swelling, and discomfort associated with anorectal conditions such as hemorrhoids. Background/Objectives: The developed novel formulations contain hydrocortisone acetate and pramoxine HCl as active ingredients, at least one solvent, at least one penetrating agent, at least one emulsifying agent, at least one surfactant, and at least one antimicrobial preservative, and pH values between 3.0 and 5.0, preferably between 3.5 and 4.5. Methods: Typical semi-solid dosage form quality control tests included appearance, identification, content homogeneity, pH, viscosity, assay, compounds of interest, microbiological testing, and in vitro release testing. In in vitro release testing, a series of fo",
+        "journal": "Pharmaceutics",
+        "year": "2025",
+        "authors": [
+          "Pinarbasli Onur",
+          "Atilgan Nurdan",
+          "Turkes Ezgi",
+          "Sarracoglu Nagehan",
+          "Aybey Doganay Asuman"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40143012/"
+      },
+      {
+        "pmid": "11361050",
+        "title": "Pharmacokinetics and rectal bioavailability of hydrocortisone acetate after single and multiple administration in healthy subjects and patients.",
+        "abstract": "The pharmacokinetics and bioavailability of hydrocortisone after rectal administration of a hydrocortisone acetate foam were determined after single and multiple dosing in healthy subjects as well as in patients with inflammatory bowel disease. Endogenous hydrocortisone was suppressed by dexamethasone administration. Plasma levels were compared with those observed after intravenous administration of hydrocortisone. Only a very small part of the rectal dose (100 mg) was absorbed; the mean absolute bioavailability was 3.1% in healthy volunteers and 4.5% in patients. There was substantial intersubject variability. Although maximum hydrocortisone levels after single or multiple doses were significantly higher (about 70%) in the patient group, the systemic bioavailability is very low so that the risk of systemic side effects after rectal administration of hydrocortisone acetate foam has to be considered very low.",
+        "journal": "Journal of clinical pharmacology",
+        "year": "2001",
+        "authors": [
+          "Tromm A",
+          "Möllmann H",
+          "Barth J",
+          "Hochhaus G",
+          "Krieg M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Rectal",
+          "Adult",
+          "Aged",
+          "Area Under Curve",
+          "Biological Availability",
+          "Drug Administration Schedule",
+          "Half-Life",
+          "Humans",
+          "Hydrocortisone",
+          "Inflammatory Bowel Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11361050/"
+      },
+      {
+        "pmid": "31433782",
+        "title": "Comparison of the effect of Myrtus communis herbal and anti-hemorrhoid ointments on the hemorrhoid symptoms and quality of life in postpartum women with grade I and II internal hemorrhoid: A triple-blinded randomized controlled clinical trial.",
+        "abstract": "Introduction Due to the effects of hemorrhoids on physical and mental health, this study aimed to compare the effect of Myrtus communis herbal and anti-hemorrhoid ointments on symptoms of hemorrhoid and quality of life (primary outcomes) and satisfaction of the treatment and side effects (secondary outcomes). Methods This triple-blind randomized controlled trial was performed on women with grade I and II hemorrhoid referring to health centers in Tehran, Iran, in 2017. Individuals were randomly assigned to two groups of 67 people through block randomization method. The intervention group received the Myrtus communis herbal ointment and the control group received anti-hemorrhoid ointment twice a day, every 12 ± 2 h, an applicator of the drug through the rectum for 4 weeks. The Colorectal Evaluation of a Clinical Therapeutics Scale (CORECTS) was used to assess the severity of symptoms of hemorrhoid. To assess the quality of life, the World Health Organization Quality of Life questionnaire",
+        "journal": "Journal of complementary & integrative medicine",
+        "year": "2019",
+        "authors": [
+          "Malekuti Jamileh",
+          "Mirghafourvand Mojgan",
+          "Samadi Khadijeh",
+          "Abbasalizadeh Fatemeh",
+          "Khodaei Laleh"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acetates",
+          "Adult",
+          "Bicarbonates",
+          "Drug Therapy, Combination",
+          "Female",
+          "Hemorrhoids",
+          "Humans",
+          "Hydrocortisone",
+          "Iran",
+          "Lidocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31433782/"
+      },
+      {
+        "pmid": "20334171",
+        "title": "Optimization and validation of an RP-HPLC method for analysis of hydrocortisone acetate and lidocaine in suppositories.",
+        "abstract": "An RP-HPLC method has been optimized and validated for the simultaneous determination of hydrocortisone acetate and of lidocaine in suppositories. For the method optimization, response surface methodology was applied, and the obtained model was tested using analysis of variance. The optimal separations were conducted on a Beckman-Coulter 150 x 4.6 mm, 5 microm particle-size column at 20 degrees C. The mobile phase was methanol-water (65 + 35, v/v), pH adjusted to 2.5 with 85% orthophosphoric acid, with a flow rate of 1.0 ml/min. UV detection was performed at 250 nm. Phenobarbital was used as an internal standard. The method was validated for selectivity, linearity, precision, and robustness.",
+        "journal": "Journal of AOAC International",
+        "year": "2010",
+        "authors": [
+          "Jancic-Stojanović Biljana",
+          "Malenović Andjelija",
+          "Marković Slavko",
+          "Ivanović Darko",
+          "Medenica Mirjana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Study"
+        ],
+        "mesh_terms": [
+          "Analysis of Variance",
+          "Anesthetics, Local",
+          "Anti-Inflammatory Agents",
+          "Chromatography, High Pressure Liquid",
+          "Chromatography, Reverse-Phase",
+          "Hemorrhoids",
+          "Humans",
+          "Hydrocortisone",
+          "Hydrogen-Ion Concentration",
+          "Lidocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20334171/"
+      },
+      {
+        "pmid": "39945661",
+        "title": "Clinical evidence and rationale of topical nifedipine and lidocaine ointment in the treatment of anal fissure and hemorrhoidal disease.",
+        "abstract": "Anorectal conditions such as hemorrhoidal disease and anal fissure are frequently painful and debilitating. Pain after hemorrhoidectomy is also common and distressing. These conditions are at least initially managed conservatively. An ointment formulation containing the calcium channel blocker nifedipine and the local anesthetic lidocaine has an established role in the treatment of rectal conditions, particularly conditions associated with anal sphincter hypertonia such as hemorrhoidal disease and anal fissure. This review aimed to compile the evidence for the use of nifedipine 0.3% and lidocaine 1.5% ointment in treating these common but bothersome anorectal diseases.",
+        "journal": "Minerva surgery",
+        "year": "2025",
+        "authors": [
+          "Gallo Gaetano",
+          "Trompetto Mario"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lidocaine",
+          "Nifedipine",
+          "Fissure in Ano",
+          "Hemorrhoids",
+          "Ointments",
+          "Anesthetics, Local",
+          "Administration, Topical",
+          "Calcium Channel Blockers",
+          "Hemorrhoidectomy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39945661/"
+      },
+      {
+        "pmid": "13120601",
+        "title": "Local hydrocortisone acetate for radiation proctitis.",
+        "abstract": "",
+        "journal": "Postgraduate medicine",
+        "year": "1954",
+        "authors": [
+          "HURTIG A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex",
+          "Adrenal Cortex Hormones",
+          "Cervix Uteri",
+          "Disease",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Neoplasms",
+          "Proctitis",
+          "Radiotherapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13120601/"
+      },
+      {
+        "pmid": "12847368",
+        "title": "Budesonide foam vs. hydrocortisone acetate foam in the treatment of active ulcerative proctosigmoiditis.",
+        "abstract": "Rectal administration of corticosteroids is advocated in patients with proctosigmoiditis who have failed therapy with mesalamine enema. Foam offers patients better tolerability than an enema. In this study the efficacy and adverse effects of a new budesonide foam are compared with the presently available hydrocortisone foam.",
+        "journal": "Diseases of the colon and rectum",
+        "year": "2003",
+        "authors": [
+          "Bar-Meir Simon",
+          "Fidder Herma H",
+          "Faszczyk Mark",
+          "Bianchi Porro Gabriele",
+          "Sturniolo Giacomo C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Rectal",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Colitis, Ulcerative",
+          "Dosage Forms",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12847368/"
+      },
+      {
+        "pmid": "26109819",
+        "title": "Recombinant streptokinase vs hydrocortisone suppositories in acute hemorrhoids: A randomized controlled trial.",
+        "abstract": "To compare the efficacy and safety of recombinant streptokinase (rSK) vs hydrocortisone acetate-based suppositories in acute hemorrhoidal disease.",
+        "journal": "World journal of gastroenterology",
+        "year": "2015",
+        "authors": [
+          "Hernández-Bernal Francisco",
+          "Castellanos-Sierra Georgina",
+          "Valenzuela-Silva Carmen M",
+          "Catasús-Álvarez Karem M",
+          "Martínez-Serrano Osmany"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Administration, Rectal",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Cuba",
+          "Drug Administration Schedule",
+          "Female",
+          "Fibrinolytic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26109819/"
+      },
+      {
+        "pmid": "13741188",
+        "title": "[The treatment of fibrotic strictures of the rectum and sigmoid with the use of hydrocortisone acetate and delta-hydrocortisone acetate in local infiltrations].",
+        "abstract": "",
+        "journal": "Revista da Associacao Medica Brasileira",
+        "year": "1960",
+        "authors": [
+          "RIBEIRO M C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Colon, Sigmoid",
+          "Constriction, Pathologic",
+          "Disease",
+          "Humans",
+          "Hydrocortisone",
+          "Rectal Diseases",
+          "Rectum",
+          "Sigmoid Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13741188/"
+      },
+      {
+        "pmid": "14421315",
+        "title": "Topical treatment of anorectal inflammations with hydrocortisone acetate.",
+        "abstract": "",
+        "journal": "Diseases of the colon and rectum",
+        "year": "1960",
+        "authors": [
+          "MARKS M M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anal Canal",
+          "Anus Diseases",
+          "Disease",
+          "Hydrocortisone",
+          "Inflammation",
+          "Intestine, Large",
+          "Rectal Diseases",
+          "Rectum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14421315/"
+      },
+      {
+        "pmid": "8514096",
+        "title": "A rectal concretion of hydrocortisone acetate.",
+        "abstract": "",
+        "journal": "Gastrointestinal endoscopy",
+        "year": "1993",
+        "authors": [
+          "Levine E",
+          "Brandt L J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Aerosols",
+          "Aged",
+          "Enema",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Proctitis",
+          "Rectum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8514096/"
+      },
+      {
+        "pmid": "12432293",
+        "title": "Topical nifedipine with lidocaine ointment vs. active control for treatment of chronic anal fissure: results of a prospective, randomized, double-blind study.",
+        "abstract": "Chronic anal fissure may be treated by chemical or surgical sphincterotomy. The aim of this study was to test the efficacy of local application of nifedipine and lidocaine ointment in healing chronic anal fissure.",
+        "journal": "Diseases of the colon and rectum",
+        "year": "2002",
+        "authors": [
+          "Perrotti Pasquale",
+          "Bove Antonio",
+          "Antropoli Carmine",
+          "Molino Domenico",
+          "Antropoli Massimo"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Chronic Disease",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Female",
+          "Fissure in Ano",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12432293/"
+      },
+      {
+        "pmid": "10458123",
+        "title": "Nifedipine for local use in conservative treatment of anal fissures: preliminary results of a multicenter study.",
+        "abstract": "This study was performed according to a prospective, randomized, double-blind, multicenter design. The aim was to test the efficacy of local application of nifedipine gel\" in healing acute anal fissure by relaxing the internal anal sphincter.",
+        "journal": "Diseases of the colon and rectum",
+        "year": "1999",
+        "authors": [
+          "Antropoli C",
+          "Perrotti P",
+          "Rubino M",
+          "Martino A",
+          "De Stefano G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Double-Blind Method",
+          "Female",
+          "Fissure in Ano",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Nifedipine",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10458123/"
+      },
+      {
+        "pmid": "3364757",
+        "title": "Characterization of proximal colonic lymphoid tissue in the mouse.",
+        "abstract": "Here we describe a nodule of lymphoid tissue which was consistently located in the proximal colon of mice approximately 25% of the distance from the cecum to the rectum. Immunohistochemical characterization of this nodule demonstrated that the majority of lymphocytes were relatively immature 14.8+ (B220+), IgM+, Ia+ (specificity 20) B cells some of which were also Ly-1+. These nodules also possessed an occasional T cell (Thy-1+, Ly-1+, Lyt-2+) aggregate at the periphery. Rare, small areas did not stain for either T or B cell markers. These lymphoid nodules were associated with epithelial cells which stained positively with the ER-TR4 monoclonal antibody (which also recognizes thymic cortical epithelial cells) and also with ER-TR6, which has been reported to recognize thymic macrophages or dendritic cells. The overlying colonic epithelium stained intensely with the ER-TR4 monoclonal antibody. Proximal colonic lymphoid tissue was extremely sensitive to steroid treatment, losing approxima",
+        "journal": "The Anatomical record",
+        "year": "1988",
+        "authors": [
+          "Perry G A",
+          "Sharp J G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Colon",
+          "Female",
+          "Hydrocortisone",
+          "Lymphocytes",
+          "Lymphoid Tissue",
+          "Male",
+          "Mice",
+          "Mice, Inbred BALB C",
+          "Phenotype"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3364757/"
+      },
+      {
+        "pmid": "23577929",
+        "title": "Topical Nifedipine(®) for conservative treatment of acute haemorrhoidal thrombosis.",
+        "abstract": "The aim of this prospective, randomized trial was to test the efficacy of the local application of Nifedipine gel(®) in healing acute thrombosed haemorrhoids by relaxing the internal anal sphincter.",
+        "journal": "Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland",
+        "year": "2000",
+        "authors": [
+          "Perrotti",
+          "Antropoli",
+          "Noschese",
+          "Bartone",
+          "Mo De Stefano"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23577929/"
+      },
+      {
+        "pmid": "509112",
+        "title": "Retrograde spread of hydrocortisone containing foam given intrarectally in ulcerative colitis.",
+        "abstract": "A method is described of estimating retrograde spread through the colon of a 10% hydrocortisone acetate foam by labelling the foam with technetium-99m sulphur colloid and observing spread after intrarectal administration by serial gamma-camera pictures. The recommended 51 ml dose of foam reached the mid-sigmoid colon in all of the nine patients who had active ulcerative colitis. Furthermore, in seven the foam reached the proximal sigmoid colon. Foam spread less extensively in five patients with quiescent disease than in those with active disease. Increasing the volume of enema to 50 ml did not improve retrograde spread through the colon. These results suggest that 10% hydrocortisone foam may be useful in treating patients with distal ulcerative colitis that is not necessarily limited to the rectum.",
+        "journal": "British medical journal",
+        "year": "1979",
+        "authors": [
+          "Farthing M J",
+          "Rutland M D",
+          "Clark M L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Colitis, Ulcerative",
+          "Colon, Sigmoid",
+          "Enema",
+          "Female",
+          "Gamma Rays",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/509112/"
+      },
+      {
+        "pmid": "16509076",
+        "title": "[Application of preparations relief ultra and relief advance in practice of coloproctological department].",
+        "abstract": "Efficacy of application of preparations Relief Ultra and Relief Advance as pathogenetically directed medicines was established, basing on analysis of the examination and treatment results in 133 patients with anal region diseases (acute and chronic hemorrhoids, nonspeciphic ulcerative colitis, the Crohn's disease, acute paraproctitis, rectal polyp). For local conservative treatment it is expedient to apply preparations in various pharmacological forms in complex. Application of preparation Relief Ultra endorectally in conjunction with preparation Relief Advance endorectally and locally on the wound surface is indicated after performance of elective and urgent operative interventions for rectal and anal zone diseases.",
+        "journal": "Klinichna khirurhiia",
+        "year": "2005",
+        "authors": [
+          "Zakharash M P",
+          "Poĭda O I"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Rectal",
+          "Animals",
+          "Colorectal Surgery",
+          "Drug Combinations",
+          "Fish Oils",
+          "Hospital Departments",
+          "Humans",
+          "Hydrocortisone",
+          "Intestinal Diseases",
+          "Sharks"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16509076/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:14:30.425551",
+  "success": true,
+  "error_message": null
+}

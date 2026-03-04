@@ -1,0 +1,347 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Paclitaxel",
+    "disease": "hereditary breast ovarian cancer syndrome",
+    "query_string": "Paclitaxel AND hereditary breast ovarian cancer syndrome"
+  },
+  "data": {
+    "query": "Paclitaxel AND hereditary breast ovarian cancer syndrome",
+    "results": [
+      {
+        "pmid": "39590127",
+        "title": "Efficacy and Tolerability of Olaparib Plus Paclitaxel in Patients with Gastric Cancer Associated with Hereditary Breast and Ovarian Cancer.",
+        "abstract": "Helicobacter pylori, a gram-negative, flagellated, helical bacterium, is a common cause of chronic gastric infection worldwide. According to the World Health Organization, H. pylori infection, a specific carcinogenic factor, was the leading cause of gastric cancer (GC) in 2014 worldwide (80%). H. pylori infection causes GC in >98% of patients in East Asian countries, including Japan. However, only some types of GCs are associated with H. pylori infection. Previous clinical studies have revealed that the bacterium secretes cytotoxin-associated gene A antigen, which inhibits the nuclear translocation of the breast cancer susceptibility gene 1 and 2 (BRCA1/2), a factor involved in DNA damage repair. This indicated an association between hereditary breast and ovarian cancers (HBOCs) and the development of GC. However, the detailed mechanisms underlying the development of GC caused by H. pylori infection remain unclear. Using the information on hereditary cancers obtained based on cancer ge",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "year": "2024",
+        "authors": [
+          "Hayashi Takuma",
+          "Sano Kenji",
+          "Okada Mako",
+          "Muto Manabu",
+          "Konishi Ikuo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Stomach Neoplasms",
+          "Female",
+          "Piperazines",
+          "Paclitaxel",
+          "Phthalazines",
+          "Male",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Middle Aged",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39590127/"
+      },
+      {
+        "pmid": "39658994",
+        "title": "Response to Carboplatin and Paclitaxel in the treatment of hereditary breast ovarian cancer syndrome (HBOC): a case report.",
+        "abstract": "The co-occurrence of primary breast cancer and primary ovarian cancer is an exceptional hereditary phenomenon and results from inherent mutations in critical genes like BRCA1/2, PALB2, TP53, CHEK1, and ATM. We present here a unique case of hereditary breast-ovarian cancer syndrome (HBOC) reported in Combined Military Hospital, Lahore, Pakistan. It was marked by pathogenic variants in RAD51D, PALB2, CHEK1, and TP53 genes. Remarkably, the patient exhibited an outstanding response to the chemotherapy agents, Carboplatin and Paclitaxel. This dynamic treatment not only led to nearly complete remission of high-grade ovarian serous cancer but also triggered regression in grade-2 invasive ductal breast cancer after just a few rounds of chemotherapy. Consequently, what started as palliative care evolved into a curative triumph.",
+        "journal": "JPMA. The Journal of the Pakistan Medical Association",
+        "year": "2024",
+        "authors": [
+          "Mehmood Faisal",
+          "Touseef Mumtaz",
+          "Ashraf Amna",
+          "Rai Izza Ali"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Breast Neoplasms",
+          "Carboplatin",
+          "Carcinoma, Ductal, Breast",
+          "Hereditary Breast and Ovarian Cancer Syndrome",
+          "Ovarian Neoplasms",
+          "Paclitaxel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39658994/"
+      },
+      {
+        "pmid": "37592269",
+        "title": "Hereditary breast and ovarian cancer triggered by occult fallopian tube cancer: a case report.",
+        "abstract": "At the time of benign gynecological surgery, a prophylactic salpingo-oophorectomy or salpingectomy is increasingly being performed concurrently to reduce the risk of future ovarian and fallopian tube cancer. We herein describe a case of hereditary breast and ovarian cancer syndrome in which a hysterectomy and bilateral adnexectomy were performed with a preoperative diagnosis of benign tumor. A detailed pathological examination revealed occult fallopian tube cancer, and additional staging surgery provided an accurate pathology diagnosis.",
+        "journal": "Journal of medical case reports",
+        "year": "2023",
+        "authors": [
+          "Murakami Hikaru",
+          "Fujiwara Satoe",
+          "Nishie Ruri",
+          "Ueda Shoko",
+          "Terada Shinichi"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Pregnancy",
+          "Humans",
+          "Aged",
+          "Fallopian Tube Neoplasms",
+          "Hereditary Breast and Ovarian Cancer Syndrome",
+          "Ovarian Neoplasms",
+          "Breast",
+          "Fallopian Tubes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37592269/"
+      },
+      {
+        "pmid": "34930617",
+        "title": "Impact of veliparib, paclitaxel dosing regimen, and germline BRCA status on the primary treatment of serous ovarian cancer - an ancillary data analysis of the VELIA trial.",
+        "abstract": "In the Phase 3 VELIA trial (NCT02470585), veliparib added to carboplatin plus paclitaxel concomitantly and as maintenance for women with newly-diagnosed advanced ovarian cancer significantly improved progression-free survival (PFS) versus chemotherapy alone. Here we present exploratory analyses by paclitaxel dosing schedule and germline BRCA (gBRCA) status.",
+        "journal": "Gynecologic oncology",
+        "year": "2022",
+        "authors": [
+          "Aghajanian Carol",
+          "Swisher Elizabeth M",
+          "Okamoto Aikou",
+          "Steffensen Karina Dahl",
+          "Bookman Michael A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Benzimidazoles",
+          "Carboplatin",
+          "Carcinoma, Ovarian Epithelial",
+          "Drug Administration Schedule",
+          "Female",
+          "Genes, BRCA1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34930617/"
+      },
+      {
+        "pmid": "35082620",
+        "title": "A Case of Triple-Negative Breast Cancer with Germline Pathogenic Variants in Both BRCA1 and BRCA2.",
+        "abstract": "We report a rare case of hereditary breast and ovarian cancer syndrome (HBOC) with pathogenic variants in both BRCA1 and BRCA2. The patient was a 78-year-old woman who visited the hospital after noticing a lump in her left breast 6 months before, which gradually increased in size. According to her family history, her maternal aunt developed breast cancer in her 40s. On palpation, a 4-cm large mass was palpated in the upper outer part of the left breast. A needle biopsy revealed invasive ductal carcinoma of the breast, which was negative for estrogen receptor, progesterone receptor, and human epidermal growth factor receptor type 2. The patient was diagnosed with cT2N0M0 stage IIA, and primary systemic treatment was planned. The patient developed drug-induced interstitial pneumonia after receiving paclitaxel. Although she recovered spontaneously, she did not wish to receive further chemotherapy, and thus surgery was performed. Four months after the surgery, the patient became aware of d",
+        "journal": "Case reports in oncology",
+        "year": "2021",
+        "authors": [
+          "Kitahara Miyuki",
+          "Hozumi Yasuo",
+          "Machinaga Mitsuki",
+          "Hayashi Yuka"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35082620/"
+      },
+      {
+        "pmid": "30470691",
+        "title": "Concomitant Medications and Risk of Chemotherapy-Induced Peripheral Neuropathy.",
+        "abstract": "Peripheral neuropathy is the dose-limiting toxicity of many oncology drugs, including paclitaxel. There is large interindividual variability in the neuropathy, and several risk factors have been proposed; however, many have not been replicated. Here we present a comprehensive study aimed at identifying treatment and physiopathology-related paclitaxel-induced neuropathy risk factors in a large cohort of well-characterized patients.",
+        "journal": "The oncologist",
+        "year": "2019",
+        "authors": [
+          "Sánchez-Barroso Lara",
+          "Apellaniz-Ruiz Maria",
+          "Gutiérrez-Gutiérrez Gerardo",
+          "Santos María",
+          "Roldán-Romero Juan M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Agents, Phytogenic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Breast Neoplasms",
+          "Drug Interactions",
+          "Female",
+          "Humans",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30470691/"
+      },
+      {
+        "pmid": "26115084",
+        "title": "Role of cytochrome P450 2C8*3 (CYP2C8*3) in paclitaxel metabolism and paclitaxel-induced neurotoxicity.",
+        "abstract": "The CYP2C8*3 allele has been suggested as a risk factor for paclitaxel-induced neuropathy but the data hitherto published are conflicting.",
+        "journal": "Pharmacogenomics",
+        "year": "2015",
+        "authors": [
+          "Lee Mi-Young",
+          "Apellániz-Ruiz María",
+          "Johansson Inger",
+          "Vikingsson Svante",
+          "Bergmann Troels K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Alleles",
+          "Amodiaquine",
+          "Antineoplastic Agents, Phytogenic",
+          "Aryl Hydrocarbon Hydroxylases",
+          "Breast Neoplasms",
+          "Cytochrome P-450 CYP2C8",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "HEK293 Cells",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26115084/"
+      },
+      {
+        "pmid": "34906376",
+        "title": "Impact of homologous recombination status and responses with veliparib combined with first-line chemotherapy in ovarian cancer in the Phase 3 VELIA/GOG-3005 study.",
+        "abstract": "In the Phase 3 VELIA trial (NCT02470585), PARP inhibitor (PARPi) veliparib was combined with first-line chemotherapy and continued as maintenance for patients with ovarian carcinoma enrolled regardless of chemotherapy response or biomarker status. Here, we report exploratory analyses of the impact of homologous recombination deficient (HRD) or proficient (HRP) status on progression-free survival (PFS) and objective response rates during chemotherapy.",
+        "journal": "Gynecologic oncology",
+        "year": "2022",
+        "authors": [
+          "Swisher Elizabeth M",
+          "Aghajanian Carol",
+          "O'Malley David M",
+          "Fleming Gini F",
+          "Kaufmann Scott H"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Allelic Imbalance",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Benzimidazoles",
+          "CA-125 Antigen",
+          "Carboplatin",
+          "Carcinoma, Ovarian Epithelial",
+          "Cytoreduction Surgical Procedures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34906376/"
+      },
+      {
+        "pmid": "16515624",
+        "title": "The founder mutation BRCA1c.2845insA identified in a fallopian tube cancer patient: a case report.",
+        "abstract": "Fallopian tube carcinoma is a very rare tumor, comprising less than 1% of all gynecologic cancers and found primarily in postmenopausal women. With the disease being so uncommon, little is known about its causes and/or risk factors, and treatment approaches have been taken from experiences with ovarian cancer. We describe a case of a 42-year-old woman with fallopian tube cancer in which the founder mutation BRCA1c.2845insA was detected by mutational analysis. This same mutation was subsequently detected in four unaffected members of her family following genetic counseling. We report an association between this founder mutation and fallopian tube cancer as part of the hereditary breast cancer syndrome in an Asian population. A literature review of the association between this rare malignancy and BRCA mutation carriers and its implications to prophylactic surgery is discussed.",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "2006",
+        "authors": [
+          "Damayanti Z",
+          "Ali A B",
+          "Iau P T C",
+          "Ilancheran A",
+          "Sng J H"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Papillary",
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asian People",
+          "Breast Neoplasms",
+          "Carboplatin",
+          "Fallopian Tube Neoplasms",
+          "Female",
+          "Frameshift Mutation",
+          "Genes, BRCA1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16515624/"
+      },
+      {
+        "pmid": "33468816",
+        "title": "[A Case of Ipsilateral Breast Tumor Recurrence(IBTR)after Breast-Conserving Surgery Which Successfully Resected after Chemotherapy Using Carboplatin plus Gemcitabine].",
+        "abstract": "A 39-year-old woman underwent partial mastectomy with sentinel lymph node biopsy for right triple negative breast cancer(T2N0M0, Stage ⅡA). Six months later, ipsilateral breast tumor recurrence(IBTR)was observed and paclitaxel plus bevacizumab therapy was started, but anaphylactoid symptoms appeared and the patient was discontinued. Subsequently, eribulin was started, but the IBTR was increased ineffectively. At that point, IBTR had progressed, apparently unresectable, with no distant metastases. We predicted from the patient's background that the patient may be associated with BRCA1 gene mutation and was sensitive to the platinum salts. Carboplatin plus gemcitabine was selected and 6 courses were performed. After the 6 courses, the IBTR were remarkably reduced and resectable, and mastectomy with axillary lymph node dissection were performed. One year after the operation, contralateral breast cancer develop and found to be hereditary breast and ovarian cancer syndrome (HBOC) by Genetic",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2020",
+        "authors": [
+          "Sato Takanobu",
+          "Kouno Tsutomu",
+          "Hirose Shigemichi",
+          "Oikawa Haruna",
+          "Machino Chiaki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Breast Neoplasms",
+          "Carboplatin",
+          "Deoxycytidine",
+          "Female",
+          "Humans",
+          "Mastectomy",
+          "Mastectomy, Segmental",
+          "Neoplasm Recurrence, Local",
+          "Gemcitabine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33468816/"
+      },
+      {
+        "pmid": "32668858",
+        "title": "[A Case Report on the Effectiveness of Olaparib in a Patient with Recurrent Breast Cancer with Human Immunodeficiency Virus Infection].",
+        "abstract": "A 43 -year-old woman presented to the hospital with a right breast tumor. She had been treated for human immunodeficiency virus(HIV)infection for 5 years. After being diagnosed with right breast cancer, she underwent total mastectomy and sentinel lymph node biopsy, which indicated T2N1M0 triple-negative breast cancer. She received doxorubicin and cyclophosphamide( AC)followed by docetaxel(AC-T)as postoperative adjuvant chemotherapy. However, 14 months after the adjuvant chemotherapy finished, distant metastasis occurred in the brain, lung, and mediastinum lymph nodes. Treatment for relapse was initiated, with whole brain radiotherapy followed by paclitaxel plus bevacizumab combination therapy(PB); however, new metastatic lesions were found in the bone, liver, and mediastinum lymph node after 2 courses of PB. Given the risk of hereditary breast and ovarian cancer syndrome, a BRCAgene test was performed when the patient received radiotherapy for left recurrent laryngeal nerve paralysis c",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2020",
+        "authors": [
+          "Yabe Sakiko",
+          "Iwamoto Naoko",
+          "Inokuchi Takuhiko",
+          "Nara Miyako",
+          "Saita Chiaki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Breast Neoplasms",
+          "Female",
+          "HIV Infections",
+          "Humans",
+          "Mastectomy",
+          "Neoplasm Recurrence, Local",
+          "Phthalazines",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32668858/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:38:17.870551",
+  "success": true,
+  "error_message": null
+}

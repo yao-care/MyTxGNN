@@ -1,0 +1,132 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrocortisone",
+    "disease": "disease of orbital region",
+    "query_string": "Hydrocortisone AND disease of orbital region"
+  },
+  "data": {
+    "query": "Hydrocortisone AND disease of orbital region",
+    "results": [
+      {
+        "pmid": "19874128",
+        "title": "Successful medical treatment of blepharochalasis: a case series.",
+        "abstract": "Blepharochalasis describes recurrent attacks of idiopathic transient painless oedema in the adnexal tissue of the orbit with the most severe reaction in the skin and orbicularis region. This may produce permanent tissue changes associated with thinning of the eyelid skin. Previous reviews have concentrated on surgical correction of the excess skin and orbicularis created by the condition. There has, as yet, been no report of successful medical management.",
+        "journal": "Orbit (Amsterdam, Netherlands)",
+        "year": "2009",
+        "authors": [
+          "Drummond Suzannah R",
+          "Kemp Ewan G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetazolamide",
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Diuretics",
+          "Edema",
+          "Eyelid Diseases",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19874128/"
+      },
+      {
+        "pmid": "16550530",
+        "title": "Extramedullary infiltration at diagnosis and prognosis in children with acute myelogenous leukemia.",
+        "abstract": "Extramedullary infiltration (EMI) is an occasional clinical symptom in childhood acute myelogenous leukemia (AML), but there is considerable controversy regarding the prognostic significance of EMI in AML.",
+        "journal": "Pediatric blood & cancer",
+        "year": "2007",
+        "authors": [
+          "Kobayashi Ryoji",
+          "Tawa Akio",
+          "Hanada Ryoji",
+          "Horibe Keizo",
+          "Tsuchida Masahiro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bone and Bones",
+          "Central Nervous System",
+          "Child",
+          "Child, Preschool",
+          "Cytarabine",
+          "Disease-Free Survival",
+          "Etoposide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16550530/"
+      },
+      {
+        "pmid": "29985741",
+        "title": "Non-glaucoma periocular allergic, atopic, and irritant dermatitis at an academic institution: A retrospective review.",
+        "abstract": "To better understand the nature of periocular dermatitis (PD) patient presentation, treatment, time-to-cure, and referral pattern for allergy testing in an ophthalmic academic center.",
+        "journal": "Orbit (Amsterdam, Netherlands)",
+        "year": "2019",
+        "authors": [
+          "Pandit Saagar A",
+          "Glass Lora R Dagi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Academic Medical Centers",
+          "Administration, Ophthalmic",
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Anti-Allergic Agents",
+          "Anti-Bacterial Agents",
+          "Dermatitis, Allergic Contact",
+          "Dermatitis, Atopic",
+          "Dermatitis, Irritant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29985741/"
+      },
+      {
+        "pmid": "29606119",
+        "title": "Invasive meningococcal disease due to a non-capsulated Neisseria meningitidis strain in a patient with IgG4-related disease.",
+        "abstract": "Invasive Meningococcal Disease (IMD) is a rare and critical disease in Japan. Most of these cases are caused by capsulated Neisseria meningitidis strains. Non-capsulated (non-typable) strains are considered relatively low-pathogenic and can colonize in the nasopharynx of healthy children and young adults. As far as could be ascertained, only twelve IMD cases due to non-capsulated strains have been reported in the literature. No clear risk factors could be identified in a literature review (unknown or immunocompetent, seven cases; C6 deficiency, three cases).",
+        "journal": "BMC infectious diseases",
+        "year": "2018",
+        "authors": [
+          "Kurose Shun",
+          "Onozawa Kyoko",
+          "Yoshikawa Hiroshi",
+          "Yaita Kenichiro",
+          "Takahashi Hideyuki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Autoimmune Diseases",
+          "Ceftriaxone",
+          "Humans",
+          "Immunoglobulin G",
+          "Japan",
+          "Male",
+          "Meningococcal Infections",
+          "Middle Aged",
+          "Neisseria meningitidis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29606119/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:17:37.547320",
+  "success": true,
+  "error_message": null
+}

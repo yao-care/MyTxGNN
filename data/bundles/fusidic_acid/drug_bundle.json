@@ -1,0 +1,826 @@
+{
+  "drug": {
+    "name": "Fusidic Acid",
+    "drugbank_id": "DB02703",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "ornithosis",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "superior limbic keratoconjunctivitis",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "cholera",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "31762145",
+            "title": "Structural and functional characterization of three Type B and C chloramphenicol acetyltransferases from Vibrio species.",
+            "abstract": "Chloramphenicol acetyltransferases (CATs) were among the first antibiotic resistance enzymes identified and have long been studied as model enzymes for examining plasmid-mediated antibiotic resistance. These enzymes acetylate the antibiotic chloramphenicol, which renders it incapable of inhibiting bacterial protein synthesis. CATs can be classified into different types: Type A CATs are known to be important for antibiotic resistance to chloramphenicol and fusidic acid. Type B CATs are often called xenobiotic acetyltransferases and adopt a similar structural fold to streptogramin acetyltransferases, which are known to be critical for streptogramin antibiotic resistance. Type C CATs have recently been identified and can also acetylate chloramphenicol, but their roles in antibiotic resistance are largely unknown. Here, we structurally and kinetically characterized three Vibrio CAT proteins from a nonpathogenic species (Aliivibrio fisheri) and two important human pathogens (Vibrio cholerae",
+            "journal": "Protein science : a publication of the Protein Society",
+            "year": "2020",
+            "authors": [
+              "Alcala Ashley",
+              "Ramirez Guadalupe",
+              "Solis Allan",
+              "Kim Youngchang",
+              "Tan Kemin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Amino Acid Sequence",
+              "Chloramphenicol O-Acetyltransferase",
+              "Crystallography, X-Ray",
+              "Models, Molecular",
+              "Phylogeny",
+              "Protein Conformation",
+              "Sequence Alignment",
+              "Species Specificity",
+              "Vibrio"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31762145/"
+          },
+          {
+            "pmid": "15950082",
+            "title": "Epidemic strain Shigella dysenteriae Type 1 Dt66 encodes several drug resistances by chromosome.",
+            "abstract": "Multiple antibiotic-resistant strains of Shigella dysenteriae type 1 were isolated from an epidemic in West Bengal, India (1984). During the past two decades, much attention was given to reevaluation of treatment recommendations. However, there are no useful data on drug resistance encoded by chromosome.",
+            "journal": "Archives of medical research",
+            "year": "2005",
+            "authors": [
+              "Hens Dipak Kumar",
+              "Niyogi Swapan Kumar",
+              "Kumar Ranajit"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acridine Orange",
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents",
+              "Blotting, Southern",
+              "Chromosomes, Bacterial",
+              "Disease Outbreaks",
+              "Drug Resistance, Bacterial",
+              "Dysentery, Bacillary",
+              "Electrophoresis, Agar Gel",
+              "Electrophoresis, Gel, Pulsed-Field"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15950082/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "gastrointestinal anthrax",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "typhus",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11105004AZ",
+        "product": "DEFUZIN CREAM 2% W/W",
+        "active_ingredient": "FUSIDIC ACID[2.00% w/w]",
+        "generic_name": "Fusidic Acid 2 % Cream",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-13",
+        "date_end": "2026-12-13",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11105004AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11105005AZ",
+        "product": "DEFUZIN-B CREAM",
+        "active_ingredient": "FUSIDIC ACID[2.00% w/w],BETAMETHASONE VALERATE[0.121% w/w]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-13",
+        "date_end": "2026-12-13",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11105005AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19913375AZ",
+        "product": "FUCICORT CREAM",
+        "active_ingredient": "FUSIDIC ACID[20 mg,5 g],BETAMETHASONE VALERATE[1 mg,5 g]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-18",
+        "date_end": "2026-12-18",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19913375AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19913374AZ",
+        "product": "FUCIDIN CREAM 2%",
+        "active_ingredient": "FUSIDIC ACID[20 mg]",
+        "generic_name": "Fusidic Acid 2 % Cream",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-18",
+        "date_end": "2026-12-18",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19913374AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07010903AZ",
+        "product": "Fucid Cream 2 %w/w",
+        "active_ingredient": "FUSIDIC ACID[20.00;mg;1;g]",
+        "generic_name": "Fusidic Acid 2 % Cream",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-01-27",
+        "date_end": "2027-01-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07010903AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07050005AZ",
+        "product": "Fucid Ointment 2%w/w",
+        "active_ingredient": "SODIUM FUSIDATE[20.00;mg;1;g]",
+        "generic_name": "Fusidic Acid 2 % Ointment",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-06",
+        "date_end": "2027-05-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07050005AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020808AZ",
+        "product": "DUZEN-B CREAM",
+        "active_ingredient": "FUSIDIC ACID[2.0%                          ],BETAMETHASONE VALERATE[0.12%                         ]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-25",
+        "date_end": "2027-06-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020808AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17107035AZ",
+        "product": "Fusate-H Cream",
+        "active_ingredient": "Hydrocortisone Acetate (Micronised)[10mg],Fusidic Acid (Micronised)[20mg]",
+        "generic_name": NaN,
+        "holder": "Noripharma Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-06",
+        "date_end": "2027-10-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17107035AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021410AZ",
+        "product": "AXCEL FUSIDIC ACID OINTMENT",
+        "active_ingredient": "SODIUM FUSIDATE[2% W/W                        ]",
+        "generic_name": "Sodium Fusidate 2 % Ointment",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-11-23",
+        "date_end": "2027-11-23",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021410AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11110006AZ",
+        "product": "VAXCEL SODIUM FUSIDATE-500MG INJECTION",
+        "active_ingredient": "SODIUM FUSIDATE[500;mg;vial;0]",
+        "generic_name": "Sodium Fusidate (Fusidic Acid) 500 mg Injection",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-12-23",
+        "date_end": "2027-12-23",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11110006AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18026194AZ",
+        "product": "DYNA FUSIDIC CREAM 2%",
+        "active_ingredient": "FUSIDIC ACID[2%w/w;0]",
+        "generic_name": NaN,
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-01",
+        "date_end": "2028-02-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18026194AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08021554AZ",
+        "product": "Disuf Cream  2.0 % w/w",
+        "active_ingredient": "FUSIDIC ACID[2;%(w/w);;0]",
+        "generic_name": "Fusidic Acid 2 % Cream",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-03",
+        "date_end": "2028-03-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08021554AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23056038AZ",
+        "product": "Beta Fusidic Cream",
+        "active_ingredient": "Fusidic Acid (Micronised)[2 %w/w],BETAMETHASONE-17 VALERATE[0.1215 %w/w]",
+        "generic_name": NaN,
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-05-11",
+        "date_end": "2028-05-11",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23056038AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08051743AZ",
+        "product": "Disuf-H cream",
+        "active_ingredient": "FUSIDIC ACID[2.00;%(w/w);;0],HYDROCORTISONE ACETATE[1.0;%(w/w);;0]",
+        "generic_name": "Fusidic Acid 2 % Cream",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-01",
+        "date_end": "2028-06-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08051743AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19987365AZ",
+        "product": "FOBANCORT CREAM",
+        "active_ingredient": "FUSIDIC ACID[2% W/W                        ],BETAMETHASONE DIPROPIONATE[0.064% W/W                    ]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.05 % Cream",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-30",
+        "date_end": "2028-09-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19987365AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19987362AZ",
+        "product": "FOBAN CREAM",
+        "active_ingredient": "FUSIDIC ACID[2% W/W                        ]",
+        "generic_name": "Fusidic Acid 2 % Cream",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-30",
+        "date_end": "2028-09-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19987362AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08111773AZ",
+        "product": "Disuf-B Cream",
+        "active_ingredient": "FUSIDIC ACID[2.00;%(w/w);;0],BETAMETHASONE VALERATE[0.12;%(w/w);;0]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-05",
+        "date_end": "2028-12-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08111773AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL09020977AZ",
+        "product": "Axcel Sodium Fusidate 250 Tablet",
+        "active_ingredient": "SODIUM FUSIDATE[250.0;mg;;0]",
+        "generic_name": "Sodium Fusidate (Fusidic Acid) 250 mg Tablet",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-02-22",
+        "date_end": "2029-02-22",
+        "url": "https://npra.gov.my/index.php/search/product/MAL09020977AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040244AZ",
+        "product": "FOBAN HYDRO OINTMENT",
+        "active_ingredient": "SODIUM FUSIDATE[2.0%W/W                       ],HYDROCORTISONE[1.0%W/W                       ]",
+        "generic_name": "Fusidic Acid 2 % in Hydrocortisone 1% Cream",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-02-29",
+        "date_end": "2029-03-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040244AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24046017AZ",
+        "product": "Axcel Fusidic Acid-B Cream (New Formula)",
+        "active_ingredient": "FUSIDIC ACID[20.00 mg,1.00 gm],BETAMETHASONE-17 VALERATE[1.210 mg,1.00 gm]",
+        "generic_name": NaN,
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-04-04",
+        "date_end": "2029-04-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24046017AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19056035ACZ",
+        "product": "BACTAFUZ-B Fusidic Acid and Betamethasone Valerate Cream",
+        "active_ingredient": "FUSIDIC ACID[2.0 %w/w],BETAMETHASONE VALERATE[0.1214 %w/w]",
+        "generic_name": NaN,
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-05-03",
+        "date_end": "2029-05-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19056035ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19056116ACZ",
+        "product": "BACTAFUZ Fusidic Acid Cream 2% w/w",
+        "active_ingredient": "FUSIDIC ACID[2.0 %w/w]",
+        "generic_name": NaN,
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-05-31",
+        "date_end": "2029-05-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19056116ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19076024AZ",
+        "product": "Fuderm 2%w/w Cream",
+        "active_ingredient": "FUSIDIC ACID[2 %w/w]",
+        "generic_name": NaN,
+        "holder": "WINWA MEDICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-04",
+        "date_end": "2029-07-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19076024AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19991905AZ",
+        "product": "AXCEL FUSIDIC ACID-B CREAM",
+        "active_ingredient": "FUSIDIC ACID[2% W/W                        ],BETAMETHASONE VALERATE[0.1% W/W                      ]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-08-02",
+        "date_end": "2029-08-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19991905AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19992397AZ",
+        "product": "AXCEL FUSIDIC ACID CREAM",
+        "active_ingredient": "FUSIDIC ACID[2% W/W                        ]",
+        "generic_name": "Fusidic Acid 2 % Cream",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-10-05",
+        "date_end": "2029-10-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19992397AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24106134AZ",
+        "product": "FUSISURE (Fusidic acid cream 2%w/w)",
+        "active_ingredient": "FUSIDIC ACID[2.00 %w/w]",
+        "generic_name": NaN,
+        "holder": "HEALOL PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-10-15",
+        "date_end": "2029-10-15",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24106134AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL14125074AZ",
+        "product": "FUSTADIN CREAM 2% w/w",
+        "active_ingredient": "FUSIDIC ACID[2% w/w]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-12-06",
+        "date_end": "2029-12-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL14125074AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL04125484AZ",
+        "product": "Foban Hydro Cream",
+        "active_ingredient": "HYDROCORTISONE[1;%(w/w);;0],FUSIDIC ACID[2;%(w/w);;0]",
+        "generic_name": "Fusidic Acid 2 % in Hydrocortisone 1% Cream",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-12-27",
+        "date_end": "2029-12-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL04125484AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20000078AZ",
+        "product": "PHARMANIAGA GERMACORT CREAM",
+        "active_ingredient": "FUSIDIC ACID[2% W/W                        ],BETAMETHASONE[0.1% W/W                      ]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-02-01",
+        "date_end": "2030-02-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20000078AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20000077AZ",
+        "product": "PHARMANIAGA GERMACID CREAM",
+        "active_ingredient": "FUSIDIC ACID[2%                            ]",
+        "generic_name": "Fusidic Acid 2 % Cream",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-02-01",
+        "date_end": "2030-02-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20000077AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15025041AZ",
+        "product": "FUSIDASOL CREAM",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.05% w/w],FUSIDIC ACID[2.0% w/w]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-03-01",
+        "date_end": "2030-03-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15025041AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL25036163AZ",
+        "product": "OPTICIN 1% w/w Viscous Eye Drops",
+        "active_ingredient": "FUSIDIC ACID[10.0 mg]",
+        "generic_name": NaN,
+        "holder": "INSTAMED ASIA SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-03-25",
+        "date_end": "2030-03-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL25036163AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20046113AZ",
+        "product": "\"PBF\" FUSIDIC ACID CREAM 2% w/w",
+        "active_ingredient": "FUSIDIC ACID[2 %w/w]",
+        "generic_name": NaN,
+        "holder": "SUNWARD PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-01",
+        "date_end": "2030-05-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20046113AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20001028AZ",
+        "product": "FUCIDIN H CREAM",
+        "active_ingredient": "HYDROCORTISONE ACETATE[10mg],FUSIDIC ACID[20mg]",
+        "generic_name": "Fusidic Acid 2 % in Hydrocortisone 1% Cream",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-30",
+        "date_end": "2030-05-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20001028AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20076045ACZ",
+        "product": "CP Pharma Fusidic Acid Cream 2% w/w",
+        "active_ingredient": "Fusidic Acid (Micronised)[2.03 %w/w]",
+        "generic_name": NaN,
+        "holder": "Hovid Pharmacy Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-07-10",
+        "date_end": "2030-07-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20076045ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19913211ACZ",
+        "product": "FUCITHALMIC VISCOUS EYE-DROPS",
+        "active_ingredient": "FUSIDIC ACID[10MG/ML                       ]",
+        "generic_name": "Fusidic Acid 1% Eye Drops",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-09-05",
+        "date_end": "2030-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19913211ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20012737AZ",
+        "product": "DUZEN CREAM",
+        "active_ingredient": "FUSIDIC ACID[2.0% W/W                      ]",
+        "generic_name": "Fusidic Acid 2 % Cream",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-03-05",
+        "date_end": "2031-03-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20012737AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06030813AZ",
+        "product": "Fusate-250 Tablet",
+        "active_ingredient": "SODIUM FUSIDATE[250;mg;;]",
+        "generic_name": "Sodium Fusidate (Fusidic Acid) 250 mg Tablet",
+        "holder": "Noripharma Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-03-27",
+        "date_end": "2031-03-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06030813AZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB02703",
+    "name": "Fusidic acid",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Fusidic Acid"
+      },
+      "queried_at": "2026-03-04T13:12:14.638678",
+      "status": "success",
+      "result_count": 38,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Fusidic Acid"
+      },
+      "queried_at": "2026-03-04T13:12:35.558565",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "ornithosis"
+      },
+      "queried_at": "2026-03-04T13:12:38.615774",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "ornithosis"
+      },
+      "queried_at": "2026-03-04T13:12:45.990459",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "ornithosis"
+      },
+      "queried_at": "2026-03-04T13:12:50.464959",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "superior limbic keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-04T13:12:51.706694",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "superior limbic keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-04T13:12:57.670798",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "superior limbic keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-04T13:12:58.690209",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "cholera"
+      },
+      "queried_at": "2026-03-04T13:13:01.067600",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "cholera"
+      },
+      "queried_at": "2026-03-04T13:13:06.482594",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "cholera"
+      },
+      "queried_at": "2026-03-04T13:13:10.121288",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "gastrointestinal anthrax"
+      },
+      "queried_at": "2026-03-04T13:13:11.467659",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "gastrointestinal anthrax"
+      },
+      "queried_at": "2026-03-04T13:13:25.722170",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "gastrointestinal anthrax"
+      },
+      "queried_at": "2026-03-04T13:13:27.071486",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "typhus"
+      },
+      "queried_at": "2026-03-04T13:13:28.258438",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "typhus"
+      },
+      "queried_at": "2026-03-04T13:13:35.258575",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Fusidic Acid",
+        "disease": "typhus"
+      },
+      "queried_at": "2026-03-04T13:13:36.838153",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T13:13:36.839038",
+    "version": "1.0"
+  }
+}

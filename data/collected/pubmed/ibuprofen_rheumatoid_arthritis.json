@@ -1,0 +1,553 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ibuprofen",
+    "disease": "rheumatoid arthritis",
+    "query_string": "Ibuprofen AND rheumatoid arthritis"
+  },
+  "data": {
+    "query": "Ibuprofen AND rheumatoid arthritis",
+    "results": [
+      {
+        "pmid": "27959716",
+        "title": "Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis.",
+        "abstract": "The cardiovascular safety of celecoxib, as compared with nonselective nonsteroidal antiinflammatory drugs (NSAIDs), remains uncertain.",
+        "journal": "The New England journal of medicine",
+        "year": "2016",
+        "authors": [
+          "Nissen Steven E",
+          "Yeomans Neville D",
+          "Solomon Daniel H",
+          "Lüscher Thomas F",
+          "Libby Peter"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis",
+          "Cardiovascular Diseases",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Female",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27959716/"
+      },
+      {
+        "pmid": "391117",
+        "title": "Ibuprofen.",
+        "abstract": "Ibuprofen was introduced in England in 1967 and in the United States in 1974 as an anti-inflammatory drug in humans. It has weak but definite anti-inflammatory properties similar to those of aspirin, milligram for milligram, but with considerably less adverse effect on the stomach. Ibuprofen is chemically related to fenoprofen and naproxen, but lack of effect for any one in this chemical class of propionic-acid derivatives does not necessarily mean lack of effect for any other in an individual patient. The drug has analgesic properties, probably related to its anti-inflammatory effect. It inhibits prostaglandin synthesis and has no effect on the adrenopituitary axis, making it a nonsteroidal agent. Ibuprofen has been shown to be effective in rheumatoid arthritis and osteoarthritis and is probably effective in ankylosing spondylitis, gout, and Bartter's syndrome.",
+        "journal": "Annals of internal medicine",
+        "year": "1979",
+        "authors": [
+          "Kantor T G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Anti-Inflammatory Agents",
+          "Arthritis",
+          "Digestive System",
+          "Drug Interactions",
+          "Humans",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/391117/"
+      },
+      {
+        "pmid": "35234840",
+        "title": "Cardiorenal risk of celecoxib compared with naproxen or ibuprofen in arthritis patients: insights from the PRECISION trial.",
+        "abstract": "Non-steroidal anti-inflammatory drugs (NSAIDs) are among the most frequently used drugs, both prescribed and over the counter. The long-term cardiovascular safety of NSAIDs in patients with arthritis has engendered controversy. Concerns remain regarding the relative incidence and severity of adverse cardiorenal effects, particularly in arthritis patients with established cardiovascular (CV) disease or risk factors for disease as illustrated by the PRECISION (Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen) trial participants (NCT00346216).We further investigated whether the selective COX-2 Inhibitor celecoxib has a superior cardiorenal safety profile compared with ibuprofen or naproxen in the PRECISION population.",
+        "journal": "European heart journal. Cardiovascular pharmacotherapy",
+        "year": "2022",
+        "authors": [
+          "Obeid Slayman",
+          "Libby Peter",
+          "Husni Elaine",
+          "Wang Qiuqing",
+          "Wisniewski Lisa M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Cardiovascular Diseases",
+          "Celecoxib",
+          "Humans",
+          "Ibuprofen",
+          "Naproxen",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35234840/"
+      },
+      {
+        "pmid": "22149579",
+        "title": "HZT-501 (DUEXIS(®); ibuprofen 800 mg/famotidine 26.6 mg) gastrointestinal protection in the treatment of the signs and symptoms of rheumatoid arthritis and osteoarthritis.",
+        "abstract": "Arthritis affects nearly 50 million people in the USA and, with the aging of the population, the prevalence is expected to rise. While NSAIDs are very effective in relieving pain associated with osteoarthritis (OA) and rheumatoid arthritis (RA), they are associated with side effects, including gastrointestinal (GI) toxicity, which may manifest as dyspepsia, ulcers and/or bleeding. A number of approaches have been employed in an effort to either completely avoid or reduce the risk of GI toxicities associated with NSAID use. Two new products combining an NSAID with a gastroprotective agent have recently been approved and other agents are in the pipeline. Patient adherence to prescribed gastroprotective therapy is known to be poor, often resulting in an increased risk of GI events in patients taking NSAIDs. These newer combination products may fulfill an important need for many patients who need to receive NSAIDs for the pain of OA and RA, but who are also at risk of upper GI events. This",
+        "journal": "Expert review of gastroenterology & hepatology",
+        "year": "2012",
+        "authors": [
+          "Schiff Michael",
+          "Peura David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Anti-Ulcer Agents",
+          "Arthritis, Rheumatoid",
+          "Drug Combinations",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Famotidine",
+          "Female",
+          "Gastrointestinal Diseases",
+          "Gastrointestinal Tract",
+          "Histamine H2 Antagonists"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22149579/"
+      },
+      {
+        "pmid": "12269850",
+        "title": "Valdecoxib.",
+        "abstract": "In ten large, well-controlled, randomised trials (n = 203 to 1089), valdecoxib, a selective inhibitor of cyclo-oxygenase-2, was significantly more effective than placebo in the treatment of osteoarthritis, rheumatoid arthritis and pain associated with primary dysmenorrhoea, and for postsurgical analgesia. Valdecoxib 1.25 to 10mg twice daily and valdecoxib 10mg once daily were more effective than placebo for the relief of pain in patients with osteoarthritis of the knee, and dosages above 5mg twice daily were similar in efficacy to naproxen 500mg twice daily. Similarly, valdecoxib 5 and 10 mg/day were as effective for osteoarthritis of the hip as naproxen 500mg twice daily. In patients with rheumatoid arthritis, valdecoxib 10, 20 or 40 mg/day was significantly more effective than placebo, and similar in efficacy to naproxen 500mg twice daily; there were no significant differences in efficacy between the three dosages of valdecoxib. Valdecoxib 20 or 40mg administered 1 to 3 hours before ",
+        "journal": "Drugs",
+        "year": "2002",
+        "authors": [
+          "Ormrod Douglas",
+          "Wellington Keri",
+          "Wagstaff Antona J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis",
+          "Clinical Trials as Topic",
+          "Dysmenorrhea",
+          "Female",
+          "Humans",
+          "Isoxazoles",
+          "Pain",
+          "Sulfonamides",
+          "Benzenesulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12269850/"
+      },
+      {
+        "pmid": "11249495",
+        "title": "Rofecoxib.",
+        "abstract": "Rofecoxib (Vioxx, Merck & Co., Inc.) is a new orally-effective non-steroidal anti-inflammatory drug (NSAID) approved for treatment of acute pain, fever, primary dysmenorrhea and pain and inflammation in osteoarthritis (OA). It is also being evaluated for treatment of rheumatoid arthritis and adenomatous polyps of the colon. Rofecoxib is a specific inhibitor of cyclooxygenase-2 (COX-2), thereby inhibiting prostanoid synthesis in cells that express COX-2, including inflammatory cells. As cells in the gastrointestinal (GI) tract principally express COX-1, a different isoform of cyclooxygenase, it is predicted that rofecoxib will have less GI toxicity than other less selective NSAIDs. In clinical trials, rofecoxib was found to be as effective as other NSAIDs for management of pain and inflammation. In trials that compare rofecoxib with ibuprofen, diclofenac and indomethacin, less GI toxicity has been observed, as assayed by a decrease in lesions visible on endoscopy, by GI blood loss and, ",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2000",
+        "authors": [
+          "Hillson J L",
+          "Furst D E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis",
+          "Cyclooxygenase 2",
+          "Cyclooxygenase 2 Inhibitors",
+          "Cyclooxygenase Inhibitors",
+          "Drug Approval",
+          "Humans",
+          "Isoenzymes",
+          "Lactones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11249495/"
+      },
+      {
+        "pmid": "6380279",
+        "title": "Update on ibuprofen for rheumatoid arthritis.",
+        "abstract": "In doses of 1,200 mg/day or more, ibuprofen is as effective as aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) in the treatment of rheumatoid arthritis. The tolerability and safety of ibuprofen are superior to those of aspirin and compare favorably with those of other NSAIDs. Although additional controlled trials are indicated to determine optimal dose, ibuprofen's excellent therapeutic index establishes it as a useful drug in the treatment of rheumatoid arthritis.",
+        "journal": "The American journal of medicine",
+        "year": "1984",
+        "authors": [
+          "Ward J R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Arthritis, Rheumatoid",
+          "Aspirin",
+          "Clinical Trials as Topic",
+          "Drug Tolerance",
+          "Fenoprofen",
+          "Humans",
+          "Ibuprofen",
+          "Indomethacin",
+          "Ketoprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6380279/"
+      },
+      {
+        "pmid": "12466002",
+        "title": "Etoricoxib.",
+        "abstract": "Etoricoxib is a cyclo-oxygenase (COX)-2-selective NSAID with a higher COX-1 to COX-2 selectivity ratio than the other COX-2-selective NSAIDs rofecoxib, valdecoxib or celecoxib. In patients with rheumatoid arthritis, improvements in tender and swollen joint counts and patient and investigator global assessment of disease activity were significantly greater in etoricoxib than in placebo recipients in two studies. Etoricoxib was also significantly more effective than naproxen in one of these studies. In patients with osteoarthritis of the hip or knee, etoricoxib was significantly more effective than placebo and had similar efficacy to naproxen with regards to improvements in pain and physical function scores and patient global assessment of disease status scores in two studies. Etoricoxib had similar efficacy to diclofenac in patients with osteoarthritis of the knee. Single-dose etoricoxib relieved pain in patients with postoperative dental pain in two studies. Similar scores assessing to",
+        "journal": "Drugs",
+        "year": "2002",
+        "authors": [
+          "Cochrane Deborah J",
+          "Jarvis Blair",
+          "Keating Gillian M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Arthritis",
+          "Back Pain",
+          "Clinical Trials as Topic",
+          "Cyclooxygenase 1",
+          "Cyclooxygenase 2",
+          "Cyclooxygenase 2 Inhibitors",
+          "Cyclooxygenase Inhibitors",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12466002/"
+      },
+      {
+        "pmid": "36600619",
+        "title": "Toxic, Genotoxic and Teratogenic Effects of Ibuprofen and its Derivatives.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are extensively used pharmaceuticals and tons of kilos are produced annually. Ibuprofen is one of the core medicines of non-steroidal anti-inflammatory drug and is primarily used for reduced pain, fever and tissue inflammation. It is also available for the treatment of osteoarthritis, rheumatoid arthritis, tendonitis, etc. It is still one of the most prescribed non-steroidal anti-inflammatory drugs in contemporary times. Although ibuprofen is a drug that has been used for years, it is also known to have various serious toxic effects.",
+        "journal": "Current drug targets",
+        "year": "2023",
+        "authors": [
+          "Çalışıcı Dilan",
+          "Yılmaz Serkan",
+          "Goktas Bayram"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Humans",
+          "Ibuprofen",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Osteoarthritis",
+          "DNA Damage"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36600619/"
+      },
+      {
+        "pmid": "35585779",
+        "title": "Lessons from 20 years with COX-2 inhibitors: Importance of dose-response considerations and fair play in comparative trials.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) inhibit the enzyme cyclooxygenase (COX), which forms prostaglandins involved in pain and inflammation. COX inhibitors have analgesic and anti-inflammatory effects, but also increase risks for gastrointestinal ulcers, bleeding, and renal and cardiovascular adverse events. Identification of two isoforms of COX, COX-1 and COX-2, led to the development of selective COX-2 inhibitors, which were launched as having fewer gastrointestinal side effects since gastroprotective prostaglandins produced via COX-1 are spared. The balance between COX-1 mediated prothrombotic thromboxane and COX-2 mediated antithrombotic prostacyclin is important for thrombotic risk. An increased risk of suffering myocardial infarction and death with COX-2 inhibitor treatment is well established from clinical trials and observational research. Rofecoxib (Vioxx) was withdrawn from the market for this reason, but the equally COX-2 selective etoricoxib has replaced it in Europ",
+        "journal": "Journal of internal medicine",
+        "year": "2022",
+        "authors": [
+          "Stiller Carl-Olav",
+          "Hjemdahl Paul"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Cyclooxygenase 2",
+          "Cyclooxygenase 2 Inhibitors",
+          "Diclofenac",
+          "Etoricoxib",
+          "Fibrinolytic Agents",
+          "Humans",
+          "Ibuprofen",
+          "Lactones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35585779/"
+      },
+      {
+        "pmid": "2670397",
+        "title": "Diclofenac sodium.",
+        "abstract": "The pharmacology, pharmacokinetics, clinical efficacy, adverse effects, and dosage of diclofenac sodium are reviewed. Diclofenac, the first nonsteroidal anti-inflammatory agent (NSAID) to be approved that is a phenylacetic acid derivative, competes with arachidonic acid for binding to cyclo-oxygenase, resulting in decreased formation of prostaglandins. The drug has both analgesic and antipyretic activities. Diclofenac is efficiently absorbed from the gastrointestinal tract; peak plasma concentrations occur 1.5 to 2.0 hours after ingestion in fasting subjects. Even though diclofenac has a relatively short elimination half-life in plasma (1.5 hours), it persists in synovial fluid. The drug is metabolized in the liver and is eliminated by urinary and biliary excretion. In clinical trials, diclofenac was as effective as aspirin, diflunisal, indomethacin, sulindac, ibuprofen, ketoprofen, and naproxen in improving function and reducing pain in patients with rheumatoid arthritis. For treatmen",
+        "journal": "Clinical pharmacy",
+        "year": "1989",
+        "authors": [
+          "Small R E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Diclofenac",
+          "Humans",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2670397/"
+      },
+      {
+        "pmid": "28598564",
+        "title": "WITHDRAWN: Celecoxib for rheumatoid arthritis.",
+        "abstract": "Rheumatoid arthritis (RA) is a systemic auto-immune disorder, involving persistent joint inflammation. NSAIDs are used to control the symptoms of RA, but are associated with significant gastro-intestinal toxicity, including a risk of potentially life threatening gastroduodenal perforations, ulcers and bleeds. The NSAIDs known as the selective Cox II inhibitors, of which celecoxib is a member, were developed in order to reduce the GI toxicity, but are more expensive.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2017",
+        "authors": [
+          "Garner Sarah E",
+          "Fidan Dogan",
+          "Frankish Ruth R",
+          "Judd Maria",
+          "Shea Beverley"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28598564/"
+      },
+      {
+        "pmid": "28597983",
+        "title": "Celecoxib for rheumatoid arthritis.",
+        "abstract": "Rheumatoid arthritis is a systemic auto-immune disorder that causes widespread and persistent inflammation of the synovial lining of joints and tendon sheaths. Presently, there is no cure for rheumatoid arthritis and treatment focuses on managing symptoms such as pain, stiffness and mobility, with the aim of achieving stable remission and improving mobility. Celecoxib is a selective non-steroidal anti-inflammatory drug (NSAID) used for treatment of people with rheumatoid arthritis.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2017",
+        "authors": [
+          "Fidahic Mahir",
+          "Jelicic Kadic Antonia",
+          "Radic Mislav",
+          "Puljak Livia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Humans",
+          "Myocardial Infarction",
+          "Pain Measurement",
+          "Randomized Controlled Trials as Topic",
+          "Stomach Ulcer",
+          "Stroke",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28597983/"
+      },
+      {
+        "pmid": "389264",
+        "title": "The aspirin-ibuprofen interaction in rheumatoid arthritis.",
+        "abstract": "1 This was a double-blind crossover trial of ibuprofen and soluble aspirin against each drug alone and against placebo in patients with rheumatoid arthritis. Two dosage regimes were tested. 2 A weak clinical additive effect was demonstrated between soluble aspirin and ibuprofen in patients with rheumatoid arthritis using moderate (1600 mg ibuprofen and 3.6 g aspirin daily) but not low (800 mg ibuprofen and 2.4 g aspirin daily) dosages of both drugs. 3 A significant correlation between clinical efficacy and serum ibuprofen but not salicylate level was found in the single drug periods of the trial. 4 No consistent effect of ibuprofen administration on serum salicylate levels was found. 5 Concurrent salicylate administration produced significant lowering of serum ibuprofen levels without affecting elimination half-lives of the drug.",
+        "journal": "British journal of clinical pharmacology",
+        "year": "1979",
+        "authors": [
+          "Grennan D M",
+          "Ferry D G",
+          "Ashworth M E",
+          "Kenny R E",
+          "Mackinnon M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Arthritis, Rheumatoid",
+          "Aspirin",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Female",
+          "Humans",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/389264/"
+      },
+      {
+        "pmid": "12519610",
+        "title": "Celecoxib for rheumatoid arthritis.",
+        "abstract": "Rheumatoid arthritis (RA) is a systemic auto-immune disorder, involving persistent joint inflammation. NSAIDs are used to control the symptoms of RA, but are associated with significant gastro-intestinal toxicity, including a risk of potentially life threatening gastroduodenal perforations, ulcers and bleeds. The NSAIDs known as the selective Cox II inhibitors, of which celecoxib is a member, were developed in order to reduce the GI toxicity, but are more expensive.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2002",
+        "authors": [
+          "Garner S",
+          "Fidan D",
+          "Frankish R",
+          "Judd M",
+          "Shea B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Humans",
+          "Pyrazoles",
+          "Randomized Controlled Trials as Topic",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12519610/"
+      },
+      {
+        "pmid": "2200144",
+        "title": "Rheumatoid pleuritis.",
+        "abstract": "My case is one in which the principal manifestation of rheumatoid arthritis is pleurisy. It is a case that underscores the clinical nuances of rheumatoid pleuritis. The major articles that have shaped our view of rheumatoid pleuritis are discussed in light of my case, a perspective that raises the possibility that some of the established biases about rheumatoid pleuritis may be misleading. It is necessary to consider rheumatoid pleuritis in any patient with an unexplained pleural effusion.",
+        "journal": "Southern medical journal",
+        "year": "1990",
+        "authors": [
+          "Graham W R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Diagnosis, Differential",
+          "Female",
+          "Humans",
+          "Ibuprofen",
+          "Middle Aged",
+          "Pleural Effusion",
+          "Pleurisy",
+          "Pulmonary Embolism",
+          "Rheumatoid Factor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2200144/"
+      },
+      {
+        "pmid": "15456339",
+        "title": "Lumiracoxib.",
+        "abstract": "Lumiracoxib is a highly selective and potent cyclo-oxygenase (COX)-2 inhibitor, with a novel structure that conveys weakly acidic properties and a unique pharmacological profile. It is rapidly absorbed, with a relatively short plasma half-life. In well designed clinical trials of 1-52 weeks' duration in patients with osteoarthritis (OA) or rheumatoid arthritis, the efficacy of oral lumiracoxib 100-400 mg/day in decreasing pain intensity and improving functional status was greater than that with placebo and similar to those with nonselective NSAIDs or celecoxib 200mg once daily. In single- and multiple-dose well designed trials in patients with acute pain associated with primary dysmenorrhoea, dental or orthopaedic surgery or tension-type headache, lumiracoxib 100-800 mg once daily was more effective in relieving acute pain than placebo or controlled-release oxycodone 20 mg, and was at least as effective as selective COX-2 inhibitors or nonselective NSAIDs. Lumiracoxib was generally wel",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Lyseng-Williamson Katherine A",
+          "Curran Monique P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Cyclooxygenase Inhibitors",
+          "Diclofenac",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Drug Evaluation, Preclinical",
+          "Female",
+          "Half-Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15456339/"
+      },
+      {
+        "pmid": "33674957",
+        "title": "Comparison of Efficacy of Ketoprofen and Ibuprofen in Treating Pain in Patients with Rheumatoid Arthritis: A Systematic Review and Meta-Analysis.",
+        "abstract": "Patients with rheumatoid arthritis (RA) or other rheumatic diseases say that pain and stiffness are symptoms affecting their quality of life. Ketoprofen and ibuprofen are the most commonly used non-steroidal anti-inflammatory drugs (NSAIDs) to reduce inflammation and manage mild-to-moderate pain. The aim of this new systematic review of the literature and meta-analysis of randomized controlled trials (RCTs) was to compare the clinical efficacy of ketoprofen and ibuprofen in patients with RA.",
+        "journal": "Pain and therapy",
+        "year": "2021",
+        "authors": [
+          "Atzeni Fabiola",
+          "Masala Ignazio F",
+          "Bagnasco Michela",
+          "Lanata Luigi",
+          "Mantelli Flavio"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33674957/"
+      },
+      {
+        "pmid": "6849766",
+        "title": "Dose-response study with ibuprofen in rheumatoid arthritis: clinical and pharmacokinetic findings.",
+        "abstract": "Clinical response and plasma pharmacokinetics were studied in 20 rheumatoid patients receiving three dosages of ibuprofen. There was a significant response to 1600 mg daily of ibuprofen by all three clinical measurements but increasing the daily dosage to 2400 mg produced no overall increase in response. The AUC increased with increasing daily drug dosages from 800 to 2400 mg daily and the dose normalised AUC fell by 15% over the same dosage range. The fraction of ibuprofen not bound to plasma proteins increased with increasing dosage and may contribute to the fall in the dose normalised AUC. There was a considerably inter-individual variation in the AUC. There was no significant correlation between AUC and clinical response as measured by articular index and there was a weakly significant correlation between AUC and clinical response as measured by a visual analogue pain index. Pharmacokinetic variables probably account for only a small part of the inter-individual variation in respon",
+        "journal": "British journal of clinical pharmacology",
+        "year": "1983",
+        "authors": [
+          "Grennan D M",
+          "Aarons L",
+          "Siddiqui M",
+          "Richards M",
+          "Thompson R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Arthritis, Rheumatoid",
+          "Dose-Response Relationship, Drug",
+          "Half-Life",
+          "Humans",
+          "Ibuprofen",
+          "Kinetics",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6849766/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:40:05.341745",
+  "success": true,
+  "error_message": null
+}

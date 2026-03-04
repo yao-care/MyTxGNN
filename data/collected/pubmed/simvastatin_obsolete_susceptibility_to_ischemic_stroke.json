@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Simvastatin",
+    "disease": "obsolete susceptibility to ischemic stroke",
+    "query_string": "Simvastatin AND obsolete susceptibility to ischemic stroke"
+  },
+  "data": {
+    "query": "Simvastatin AND obsolete susceptibility to ischemic stroke",
+    "results": []
+  },
+  "timestamp": "2026-03-04T13:33:31.514733",
+  "success": true,
+  "error_message": null
+}

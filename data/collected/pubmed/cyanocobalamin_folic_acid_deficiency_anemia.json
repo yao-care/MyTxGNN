@@ -1,0 +1,575 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Cyanocobalamin",
+    "disease": "folic acid deficiency anemia",
+    "query_string": "Cyanocobalamin AND folic acid deficiency anemia"
+  },
+  "data": {
+    "query": "Cyanocobalamin AND folic acid deficiency anemia",
+    "results": [
+      {
+        "pmid": "32127439",
+        "title": "Severe megaloblastic anemia: Vitamin deficiency and other causes.",
+        "abstract": "Megaloblastic anemia causes macrocytic anemia from ineffective red blood cell production and intramedullary hemolysis. The most common causes are folate (vitamin B9) deficiency and cobalamin (vitamin B12) deficiency. Megaloblastic anemia can be diagnosed based on characteristic morphologic and laboratory findings. However, other benign and neoplastic diseases need to be considered, particularly in severe cases. Therapy involves treating the underlying cause-eg, with vitamin supplementation in cases of deficiency, or with discontinuation of a suspected medication.",
+        "journal": "Cleveland Clinic journal of medicine",
+        "year": "2020",
+        "authors": [
+          "Socha Daniel S",
+          "DeSouza Sherwin I",
+          "Flagg Aron",
+          "Sekeres Mikkael",
+          "Rogers Heesun J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Aged",
+          "Anemia, Megaloblastic",
+          "Avitaminosis",
+          "Diagnosis, Differential",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32127439/"
+      },
+      {
+        "pmid": "28189172",
+        "title": "Megaloblastic Anemias: Nutritional and Other Causes.",
+        "abstract": "Vitamin B12 and folate deficiencies are major causes of megaloblastic anemia. Causes of B12 deficiency include pernicious anemia, gastric surgery, intestinal disorders, dietary deficiency, and inherited disorders of B12 transport or absorption. The prevalence of folate deficiency has decreased because of folate fortification, but deficiency still occurs from malabsorption and increased demand. Other causes include drugs and inborn metabolic errors. Clinical features of megaloblastic anemia include anemia, cytopenias, jaundice, and megaloblastic marrow morphology. Neurologic symptoms occur in B12 deficiency, but not in folate deficiency. Management includes identifying any deficiency, establishing its cause, and replenishing B12 or folate parenterally or orally.",
+        "journal": "The Medical clinics of North America",
+        "year": "2017",
+        "authors": [
+          "Green Ralph",
+          "Datta Mitra Ananya"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Megaloblastic",
+          "Comorbidity",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Metabolic Diseases",
+          "Nutrition Disorders",
+          "Prevalence",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28189172/"
+      },
+      {
+        "pmid": "40315282",
+        "title": "New Insights into Folate-Vitamin B12 Interactions.",
+        "abstract": "Folate and vitamin B12 (B12) are essential cofactors in folate-mediated one-carbon metabolism (FOCM). FOCM includes a series of methyl transfer reactions for methionine regeneration and de novo synthesis of nucleotides, including thymidylate. Deficiency in either folate or B12 can result in negative health outcomes including megaloblastic anemia, with additional neurocognitive impairments observed as a result of B12 deficiency. While folate deficiency is not common in the United States due to mandatory folic acid fortification, B12 deficiency is observed more frequently, particularly in certain subpopulations such as vegetarians/vegans and older adults. Fortification of the food supply with folic acid has been effective to increase folate status and reduce the incidence of birth defects. However, consumption of fortified foods and use of dietary supplements containing folic acid have led to an increase in the proportion of individuals exceeding the tolerable upper intake level of folic",
+        "journal": "Annual review of nutrition",
+        "year": "2025",
+        "authors": [
+          "Castillo Luisa F",
+          "Pelletier Caitlyn M",
+          "Heyden Katarina E",
+          "Field Martha S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Folic Acid",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency",
+          "Folic Acid Deficiency",
+          "Food, Fortified",
+          "Dietary Supplements",
+          "Animals",
+          "Anemia, Megaloblastic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40315282/"
+      },
+      {
+        "pmid": "28034892",
+        "title": "How I treat anemia in pregnancy: iron, cobalamin, and folate.",
+        "abstract": "Anemia of pregnancy, an important risk factor for fetal and maternal morbidity, is considered a global health problem, affecting almost 50% of pregnant women. In this article, diagnosis and management of iron, cobalamin, and folate deficiencies, the most frequent causes of anemia in pregnancy, are discussed. Three clinical cases are considered. Iron deficiency is the most common cause. Laboratory tests defining iron deficiency, the recognition of developmental delays and cognitive abnormalities in iron-deficient neonates, and literature addressing the efficacy and safety of IV iron in pregnancy are reviewed. An algorithm is proposed to help clinicians diagnose and treat iron deficiency, recommending oral iron in the first trimester and IV iron later. Association of folate deficiency with neural tube defects and impact of fortification programs are discussed. With increased obesity and bariatric surgery rates, prevalence of cobalamin deficiency in pregnancy is rising. Low maternal cobal",
+        "journal": "Blood",
+        "year": "2017",
+        "authors": [
+          "Achebe Maureen M",
+          "Gafter-Gvili Anat"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Erythrocyte Transfusion",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Hematinics",
+          "Humans",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28034892/"
+      },
+      {
+        "pmid": "36263494",
+        "title": "Diagnosis, Treatment and Prevention of Nutritional Anemia in Children: Recommendations of the Joint Committee of Pediatric Hematology-Oncology Chapter and Pediatric and Adolescent Nutrition Society of the Indian Academy of Pediatrics.",
+        "abstract": "Anemia in children is a significant public health problem in our country. Comprehensive National Nutrition Survey 2016-18 provides evidence that more than 50% of childhood anemia is due to an underlying nutritional deficiency. The National Family Health Survey-5 has reported an increase in the prevalence of anemia in the under-five age group from 59% to 67.1% over the last 5 years. Clearly, the existing public health programs to decrease the prevalence of anemia have not shown the desired results. Hence, there is a need to develop nationally acceptable guidelines for the diagnosis, treatment and prevention of nutritional anemia.",
+        "journal": "Indian pediatrics",
+        "year": "2022",
+        "authors": [
+          "Chandra Jagdish",
+          "Dewan Pooja",
+          "Kumar Praveen",
+          "Mahajan Amita",
+          "Singh Preeti"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Infant",
+          "Adolescent",
+          "Humans",
+          "Child",
+          "Child, Preschool",
+          "Folic Acid Deficiency",
+          "Vitamin B 12 Deficiency",
+          "Anemia",
+          "Vitamin B 12",
+          "Anemia, Iron-Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36263494/"
+      },
+      {
+        "pmid": "27212091",
+        "title": "Evaluation of Anemia.",
+        "abstract": "Anemia is a common problem in primary care. Classification based on mean cell volume narrows the differential diagnosis and directs testing. A marked macrocytosis is characteristic of vitamin B12 and folate deficiencies, certain medications, and primary bone marrow disorders. The three most common causes of microcytic anemia are iron deficiency, thalassemia trait, and anemia of inflammation. Additional laboratory testing is required for diagnosis. Determination of the rate of development of anemia and examination of a blood smear may provide diagnostic clues to guide more specialized testing. Diagnosis of iron, vitamin B12, or folate deficiency mandates determination of the underlying cause.",
+        "journal": "Obstetrics and gynecology clinics of North America",
+        "year": "2016",
+        "authors": [
+          "Kujovich Jody L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alcohol Drinking",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Blood Cell Count",
+          "Diagnosis, Differential",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "FIGLU Test",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27212091/"
+      },
+      {
+        "pmid": "19453682",
+        "title": "Cobalamin, folic acid, and homocysteine.",
+        "abstract": "Cobalamin deficiency can lead to several adverse health consequences: folate trapping in the methylation cycle and subsequent impaired DNA biosynthesis; pernicious anemia hematologically, similar to that caused by folate deficiency; elevated blood homocysteine (tHcy) (risk factor for cardiovascular disease and adverse pregnancy outcomes); and neural tube defects (NTDs). Population-wide folate status is expected to improve where folic acid fortification policies for reducing NTD occurrence are established. However, there is concern that cobalamin deficiency and its characteristic neuropathy could be masked when hematological abnormalities in risk groups such as the elderly and vegetarians are reversed through folic acid supplementation. Folate-cobalamin interactions and their impact on health are reviewed here.",
+        "journal": "Nutrition reviews",
+        "year": "2009",
+        "authors": [
+          "Varela-Moreiras Gregorio",
+          "Murphy Michelle M",
+          "Scott John M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Cardiovascular Diseases",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Food, Fortified",
+          "Homocysteine",
+          "Humans",
+          "Neural Tube Defects"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19453682/"
+      },
+      {
+        "pmid": "6378487",
+        "title": "Folic acid and vitamin B12 deficiency in pregnancy and in the neonatal period.",
+        "abstract": "The fetus, the neonate, and the pregnant woman have a greater requirement for folic acid and vitamin B12 and are more likely to suffer from a deficiency of these vitamins. This article reviews the source, requirement, absorption, and metabolism of these vitamins and discusses the problems attributed to their deficiency in pregnancy and in the neonatal period.",
+        "journal": "Clinics in perinatology",
+        "year": "1984",
+        "authors": [
+          "Shojania A M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abortion, Spontaneous",
+          "Anemia",
+          "Congenital Abnormalities",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Infant, Newborn",
+          "Infant, Premature",
+          "Intellectual Disability"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6378487/"
+      },
+      {
+        "pmid": "3880840",
+        "title": "Megaloblastic anemias.",
+        "abstract": "",
+        "journal": "Laboratory investigation; a journal of technical methods and pathology",
+        "year": "1985",
+        "authors": [
+          "Herbert V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Anemia, Megaloblastic",
+          "Anemia, Pernicious",
+          "Child",
+          "Child, Preschool",
+          "Demyelinating Diseases",
+          "Diagnosis, Differential"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3880840/"
+      },
+      {
+        "pmid": "26187724",
+        "title": "Hematinic deficiencies and anemia statuses in oral mucosal disease patients with folic acid deficiency.",
+        "abstract": "Folic acid deficiency (FAD) may result in macrocytic anemia. This study assessed the hematinic deficiencies and anemia statuses in oral mucosal disease patients with FAD (defined as folic acid ≤ 6 ng/mL).",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2015",
+        "authors": [
+          "Chang Julia Yu-Fong",
+          "Wang Yi-Ping",
+          "Wu Yang-Che",
+          "Cheng Shih-Jung",
+          "Chen Hsin-Ming"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Autoantibodies",
+          "Case-Control Studies",
+          "Erythrocyte Indices",
+          "Female",
+          "Folic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26187724/"
+      },
+      {
+        "pmid": "395648",
+        "title": "Nutritional anemias.",
+        "abstract": "The role of the metals, iron and copper, and the vitamins E, folic acid, and B12 in the genesis of nutritional anemias in infancy have been reviewed. All are preventable. The precise requirements for each of these trace elements and vitamins in the small premature infant remain to be defined. The nonhematologic consequences of these nutritional deficiencies require further study. Anemia may prove to be the least important manifestation of the deficiency states.",
+        "journal": "Seminars in perinatology",
+        "year": "1979",
+        "authors": [
+          "Oski F A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Anemia, Hemolytic",
+          "Anemia, Hypochromic",
+          "Child",
+          "Child, Preschool",
+          "Copper",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/395648/"
+      },
+      {
+        "pmid": "14050985",
+        "title": "FOLIC ACID DEFICIENCY IN SICKLE-CELL ANEMIA.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1963",
+        "authors": [
+          "LINDENBAUM J",
+          "KLIPSTEIN F A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Sickle Cell",
+          "Avitaminosis",
+          "Erythropoiesis",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Vitamin B 12",
+          "Vitamin B Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14050985/"
+      },
+      {
+        "pmid": "30855221",
+        "title": "Vitamin B12 and folic acid associated megaloblastic anemia: Could it mislead the diagnosis of breast cancer?",
+        "abstract": "CA 15-3 is a tumor-associated antigen and is overexpressed in breast tumors, and may also be high in some other non-cancerous conditions. The aim of this study was to investigate the effect of megaloblastic anemia due to vitamin B12 or folic acid deficiency on the levels of tumor markers. Five-year patient data were retrospectively analyzed. The associations between megaloblastic anemia due to vitamin B12 deficiency and CA 15-3, CA 125, CA 19-9, CEA, and AFP levels were analyzed. Furthermore, association between CA 15-3 level and megaloblastic anemia due to folic acid deficiency was evaluated. Median CA 15-3 level was 38.1 U/mL in the group with megaloblastic anemia due to vitamin B12 deficiency(n = 15), 46.7 U/mL in the group with megaloblastic anemia related to folic acid deficiency (n = 3), and 17.8 U/mL in the normal group(n = 1724). CA 15-3 levels were significantly higher among patients with vitamin B12- and folic acid-associated megaloblastic anemia compared to the normal group ",
+        "journal": "International journal for vitamin and nutrition research. Internationale Zeitschrift fur Vitamin- und Ernahrungsforschung. Journal international de vitaminologie et de nutrition",
+        "year": "2019",
+        "authors": [
+          "Karakoyun Inanc",
+          "Duman Can",
+          "Demet Arslan Fatma",
+          "Baysoy Anil",
+          "Isbilen Basok Banu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia, Megaloblastic",
+          "Breast Neoplasms",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Retrospective Studies",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30855221/"
+      },
+      {
+        "pmid": "34559604",
+        "title": "Cobalamin and folic acid deficiencies presenting with features of a thrombotic microangiopathy: a case series.",
+        "abstract": "Case presentation We report three cases of vitamin B12 and/or folic acid deficiencies presenting with non-immune hemolytic anemia and thrombocytopenia. This presentation, with features of a thrombotic microangiopathy (TMA), has earlier been described as 'pseudo-TMA'.",
+        "journal": "Acta clinica Belgica",
+        "year": "2022",
+        "authors": [
+          "Ceuleers Britt",
+          "Stappers Sofie",
+          "Lemmens Jan",
+          "Rutsaert Lynn"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Diagnosis, Differential",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Thrombotic Microangiopathies",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34559604/"
+      },
+      {
+        "pmid": "22138002",
+        "title": "Anaemia in pregnancy.",
+        "abstract": "Anaemia in pregnancy, defined as a haemoglobin concentration (Hb) < 110 g/L, affects more than 56 million women globally, two thirds of them being from Asia. Multiple factors lead to anaemia in pregnancy, nutritional iron deficiency anaemia (IDA) being the commonest. Underlying inflammatory conditions, physiological haemodilution and several factors affecting Hb and iron status in pregnancy lead to difficulties in establishing a definitive diagnosis. IDA is associated with increased maternal and perinatal morbidity and mortality, and long-term adverse effects in the new born. Strategies to prevent anaemia in pregnancy and its adverse effects include treatment of underlying conditions, iron and folate supplementation given weekly for all menstruating women including adolescents and daily for women during pregnancy and the post partum period, and delayed clamping of the umbilical cord at delivery. Oral iron is preferable to intravenous therapy for treatment of IDA. B12 and folate deficie",
+        "journal": "Best practice & research. Clinical obstetrics & gynaecology",
+        "year": "2012",
+        "authors": [
+          "Goonewardene Malik",
+          "Shehata Mishkat",
+          "Hamad Asma"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Hemolytic",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Pernicious",
+          "Female",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications, Hematologic",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22138002/"
+      },
+      {
+        "pmid": "31991435",
+        "title": "Vitamin B12: An Intergenerational Story.",
+        "abstract": "Vitamin B12 is a fascinating nutrient in that it is made by microbes but is essential for human metabolism. Humans can get it only from animal origin foods. Dietary deficiency rather than an absorption defect (Pernicious anemia, intrinsic factor defect) is the commonest cause of deficiency in the world, contributed by cultural and economic imperatives. Indians have a large prevalence of subclinical B12 deficiency due to vegetarianism. Birth cohort with long-term serial follow-up (Pune Maternal Nutrition Study) has helped reveal the life-course evolution of B12 deficiency: genetics, transplacental and lactational transfer from the mother, influence of family environment, rapid childhood and adolescent growth, and low consumption of milk all made a contribution. A novel association of low maternal B12 status was with fetal growth restriction and increased risk factors of diabetes in the baby. After demonstrating adequate absorption of small (2 μg) dose of vitamin B12, and a noticeable im",
+        "journal": "Nestle Nutrition Institute workshop series",
+        "year": "2020",
+        "authors": [
+          "Chittaranjan Yajnik"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Animals",
+          "Diet",
+          "Diet, Vegetarian",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Gastrointestinal Microbiome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31991435/"
+      },
+      {
+        "pmid": "14096462",
+        "title": "FOLIC-ACID DEFICIENCY AND MEGALOBLASTIC ERYTHROPOIESIS IN MYELOFIBROSIS.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1964",
+        "authors": [
+          "FORSHAW J M",
+          "HARWOOD L",
+          "WEATHERALL D J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alkaline Phosphatase",
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Blood",
+          "Cobalt Isotopes",
+          "Erythropoiesis",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Histidine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14096462/"
+      },
+      {
+        "pmid": "38043070",
+        "title": "Coexistence and clinical implications of anemia and depression in the elderly population.",
+        "abstract": "Anemia and depression are common in the elderly and they are important medical, social and economic problems for the world. Both disorders are associated with a lower quality of life, multimorbidity and a higher risk of death. The connections between anemia and depression have been reported, but the mechanism and clinical consequences of their co-existence are not fully understood. Several links can be found between anemia and depression in the elderly: common etiological factors, low socioeconomic status of patients, poor education and less physical activity. Both conditions are associated with the occurrence of the same pathological changes: age-related (especially with the presence of inflammation, oxidative stress, degenerative changes in organs and tissues), nutritional deficiencies (iron, vitamin B12, folic acid) and hormonal disorders (especially thyroid gland disorders, sex hormone deficiencies). Anemia and depression are not sufficiently diagnosed in the elderly and, as a resu",
+        "journal": "Psychiatria polska",
+        "year": "2023",
+        "authors": [
+          "Michalak Sylwia Sulimiera",
+          "Sterna Władysław"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aged",
+          "Depression",
+          "Quality of Life",
+          "Folic Acid Deficiency",
+          "Vitamin B 12 Deficiency",
+          "Anemia",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38043070/"
+      },
+      {
+        "pmid": "27359315",
+        "title": "[Anaemia in the elderly].",
+        "abstract": "In the elderly, even mild anaemia leads to significantly decreased quality of life and reduced survival rate. Therefore even mild anaemias should be worked up especially in the elderly. More than 75 % of all anaemias have a specific and treatable cause.Differential diagnosis of anaemia in the elderly is much more challenging compared to the differential diagnosis in younger patients: in older patients often more than one dysfunction is responsible for the anaemia simultaneously. Many routine laboratory parameters are changed by ageing and are therefore only of limited value for diagnosis of anaemia. Soluble transferinreceptor and hepcidin are two parameters feasible for differential diagnosis of the causes of anaemia in the elderly.The most common cause of iron deficiency anaemia in the elderly is gastrointestinal bleeding. Many causes for gastrointestinal bleeding -like angiodysplasia of the colon - can readily be treated with endoscopic therapy. For this reason, colonoscopy is part o",
+        "journal": "Deutsche medizinische Wochenschrift (1946)",
+        "year": "2016",
+        "authors": [
+          "Leischker Andreas Herbert",
+          "Fetscher Sebastian",
+          "Kolb Gerald Franz"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia",
+          "Clinical Laboratory Techniques",
+          "Diagnosis, Differential",
+          "Evidence-Based Medicine",
+          "Female",
+          "Geriatric Assessment",
+          "Hematinics",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27359315/"
+      },
+      {
+        "pmid": "16716475",
+        "title": "Diagnosis of megaloblastic anaemias.",
+        "abstract": "There are a large number of causes of megaloblastic anaemia. The most frequent are disorders resulting in vitamin B(12) or folate deficiency. The diagnostic process often consists first of establishing the presence of B(12) or folate deficiency and then of determining the cause of deficiency. The blood count, blood film, serum B(12) assay, and red cell and serum folate assays are the primary investigations. Other useful investigations include serum/plasma methylmalonic acid (MMA), plasma total homocysteine (tHCYS) and serum holo-transcobalamin II assays. All currently used tests have limitations regarding specificity or sensitivity or both and the metabolite assays are not widely available. An understanding of these limitations is essential in formulating any diagnostic strategy. The wide use of serum B(12) and metabolite assays has resulted in the increasingly early diagnosis of B(12) deficiency, often in patients without B(12)-related symptoms (subclinical deficiency). Food cobalamin",
+        "journal": "Blood reviews",
+        "year": "2006",
+        "authors": [
+          "Wickramasinghe S N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Megaloblastic",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Transcobalamins",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16716475/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:44:12.498626",
+  "success": true,
+  "error_message": null
+}

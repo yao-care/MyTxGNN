@@ -1,0 +1,43 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Zinc Oxide",
+    "disease": "proctitis",
+    "query_string": "Zinc Oxide AND proctitis"
+  },
+  "data": {
+    "query": "Zinc Oxide AND proctitis",
+    "results": [
+      {
+        "pmid": "20614409",
+        "title": "[Topical treatment of anal eczema].",
+        "abstract": "",
+        "journal": "Deutsche medizinische Wochenschrift (1946)",
+        "year": "2010",
+        "authors": [
+          "Schauber J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anti-Inflammatory Agents",
+          "Astringents",
+          "Betamethasone",
+          "Calcineurin Inhibitors",
+          "Combined Modality Therapy",
+          "Dermatologic Agents",
+          "Diagnosis, Differential",
+          "Eczema",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20614409/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:34:21.288409",
+  "success": true,
+  "error_message": null
+}

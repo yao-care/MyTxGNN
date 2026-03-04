@@ -1,0 +1,302 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Metronidazole",
+    "disease": "peritonitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06864585",
+      "title": "Zavicefta Combination for Intravenous Infusion Special Investigation - Surveillance on Patients With Sepsis or Renal Impairment (Creatinine Clearance ≤ 50 mL/Min) -",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03-15",
+      "completion_date": "2029-03-30",
+      "country": "N/A",
+      "enrollment": 59,
+      "brief_summary": "The purpose of this study is to learn about the safety and how effective is Zavicefta under actual clinical practice in Japan.\n\nZavicefta is a combination of Avibactam sodium and Ceftazidime hydrate.\n\nThis study is seeking for patients with:\n\n* sepsis (A very serious infection in your blood caused by germ (a bacteria)) or\n* renal impairment (loss of kidney function) who are administrated with Zavicefta for the first time.\n\nSubjects will take part in this study from the start date of receiving Za",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who received Zavicefta for the first time after the launch of Zavicefta\n2. Patients who received Zavicefta for an infectious diseases indicated for Zavicefta\n3. Patients with diagnosis of sepsis and/or renal impairment (creatinine clearance ≤ 50mL/min) at the start o",
+      "endpoints": [
+        "Number of Participants with adverse drug reactions (ADRs)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT06864585"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02549170",
+      "title": "A Phase III Study to Evaluate the Efficacy, Safety, and Tolerability of Immune Globulin Infusion 10% (Human) With Recombinant Human Hyaluronidase (HYQVIA/HyQvia) and Immune Globulin Infusion (Human), 10% (GAMMAGARD LIQUID/KIOVIG) for the Treatment of Chronic Inflammatory Demyelinating Polyradiculoneuropathy (CIDP)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-12-15",
+      "completion_date": "2022-02-23",
+      "country": "Greece, Poland, Croatia, Canada, Sweden, Norway, Spain, France, Germany, United States, Czechia, Turkey (Türkiye), Denmark, Israel, Mexico, Argentina, Brazil, Colombia, Italy, Slovakia, Serbia, United Kingdom",
+      "enrollment": 138,
+      "brief_summary": "The aim of this study is to learn more about the following treatment options in adults with CIDP:\n\n* Subcutaneous self-infusion with HyQvia.\n* Intravenous infusion with Gammagard/Kiovig. Gammagard and Kiovig are the brand names for the same immunoglobulin compound.\n\nThe study is in two parts. In Part 1, participants receive either HyQvia or a placebo subcutaneously. In Part 2 (only for participants who have a CIPD relapse during Part 1), participants will receive Gammagard Liquid/Kiovig intraven",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females of age greater than or equal to (\\>=)18 years old at the time of screening.\n2. Participant has a documented diagnosis of definite or probable Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) (focal atypical CIDP and pure sensory atypical CIDP ",
+      "endpoints": [
+        "Epoch 1: Relapse Rate",
+        "Epoch 2: Responder Rate"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT02549170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02789865",
+      "title": "Multicenter Prospective Randomized Clinical Trial Comparing Endoscopic Retrograde Appendicitis Therapy (ERAT) vs Antibiotic Therapy vs Appendectomy for Treatment of Uncomplicated Acute Appendicitis",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2016-05",
+      "completion_date": "2019-04",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "Endoscopic retrograde appendicitis therapy (ERAT) is a new and minimally invasive method for the diagnosis and treatment of acute appendicitis.After a positive diagnosis of acute appendicitis is established by either colonoscopic direct-vision imaging or fluoroscopic endoscopic retrograde appendicography (ERA) imaging in patients with suspected acute appendicitis, the procedures to relieve the appendiceal lumen obstruction including appendiceal luminal irrigation, appendicolith removal, and sten",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with Alvarado scores ≥7 (with or without US/CT) diagnosed of uncomplicated acute appendicitis\n* patients with Alvarado scores \\<7 but US/CT suggested uncomplicated acute appendicitis or could not exclude acute appendicitis.\n\nExclusion Criteria:\n\n* perforated appendici",
+      "endpoints": [
+        "duration of abdominal pain"
+      ],
+      "sponsor": "First Affiliated Hospital Xi'an Jiaotong University",
+      "url": "https://clinicaltrials.gov/study/NCT02789865"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00230971",
+      "title": "A Multicenter, Open-Label, Randomized Comparative Study of Tigecycline vs Ceftriaxone Sodium Plus Metronidazole for the Treatment of Hospitalized Subjects With Complicated Intra-abdominal Infection",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2008-09",
+      "country": "Greece, Australia, Hong Kong, India, Taiwan, Spain, Switzerland, France, Germany, Turkey (Türkiye), Denmark, Philippines, Saudi Arabia, South Africa, China, Portugal, Italy, Finland, United Kingdom",
+      "enrollment": 473,
+      "brief_summary": "This is a study of the safety and efficacy of tigecycline to ceftriaxone sodium plus metronidazole in hospitalized subjects with cIAI. Subjects will be followed for efficacy through the test-of-cure assessment. Safety evaluations will occur through the treatment and post-treatment periods and continue through resolution or stability of the adverse event(s).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of complicated intra-abdominal infection that requires surgery within 24 hours.\n* Fever plus other symptoms such as nausea, vomiting, abdominal pain.\n\nExclusion Criteria:\n\n* Cancer\n* Medicines that suppress the immune system\n* Dialysis",
+      "endpoints": [
+        "Number of Clinically Evaluable (CE) Patients With Clinical Response of Cure at the Test-of-Cure (TOC) Visit"
+      ],
+      "sponsor": "Wyeth is now a wholly owned subsidiary of Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00230971"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00195351",
+      "title": "A Multicenter, Open-Label, Randomized Comparative Study of Tigecycline vs Ceftriaxone Sodium Plus Metronidazole for the Treatment of Hospitalized Subjects With Complicated Intra-abdominal Infection",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2008-02",
+      "country": "Mexico, Canada, Chile, United States, Argentina, Brazil",
+      "enrollment": 467,
+      "brief_summary": "This is a phase 3b/4 randomized, open-label, comparative, multicenter study of the safety and efficacy of tigecycline to ceftriaxone sodium plus metronidazole in hospitalized subjects with cIAI (Complicated Intra-Abdominal Infection). Subjects with clinical signs and symptoms of cIAI will be included for enrollment. Subjects will be stratified at randomization for Acute Physiologic and Chronic Health Evaluation scale (APACHE II) score \\< 10 and \\> 10. Subjects will be followed for efficacy throu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of complicated intra-abdominal infection that requires surgery within 24 hours.\n* Fever over 100.4°F (38.0°C) or high white blood cell count plus other symptoms such as nausea, vomiting, abdominal pain.\n\nExclusion Criteria:\n\n* Cancer\n* Medicines that suppres",
+      "endpoints": [
+        "Number of Clinically Evaluable Patients With Clinical Response of Cure at Test-of-Cure (TOC) Visit."
+      ],
+      "sponsor": "Wyeth is now a wholly owned subsidiary of Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00195351"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00629135",
+      "title": "Single Centre, Prospective, Comparative, Open-label, Randomised Study to Evaluate the Efficacy and Tolerability of the Combination of Moxifloxacin Plus Metronidazole Versus Piperacillin/Tazobactam for the Treatment of Patients With Intra-abdominal Abscesses",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-11-15",
+      "completion_date": "2011-08-15",
+      "country": "Germany",
+      "enrollment": 180,
+      "brief_summary": "The study is contemplating the antibiotic therapy of intraabdominal abscesses. These abscesses are a serious problem in surgical practice. Associated pathophysiologic effects as for example peritonitis may become life threatening or may lead to extended periods of morbidity with prolonged hospitalization.\n\nThe objective of the sudy is to evaluate whether the combination of Moxifloxacin and Metronidazole is equivalent to Piperacillin / Tazobactam with regard to clinical outcome and eradication of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who attained full age (18 years) with intra-abdominal abscesses documented by:\n\nA) Laparotomy revealing intra-abdominal abscess or macroscopic gastrointestinal perforation OR\n\nB) Suspected intra-abdominal abscess and scheduled for operation with at least three of the ",
+      "endpoints": [
+        "Clinical success / failure rate at the Test-of-Cure visit"
+      ],
+      "sponsor": "Hannover Medical School",
+      "url": "https://clinicaltrials.gov/study/NCT00629135"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02255617",
+      "title": "A Prospective, Single Center, Open Label Trial of Fecal Microbiota Transplantation (FMT) in the Management of Hepatic Encephalopathy (HE): a Pilot Study",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-07-23",
+      "completion_date": "2019-09-23",
+      "country": "Canada",
+      "enrollment": 4,
+      "brief_summary": "The purpose of this study is to determine if FMT can reverse Hepatic Encephlopathy (HE) in cirrhotic patients who continue to have breakthrough episodes of HE despite maintenance therapy with lactulose and/or rifaximin or metronidazole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. adult (age \\> 18 years of age) cirrhotic patients of various etiology, on lactulose and/or rifaximin or flagyl for at least 4 weeks as secondary prophylaxis\n2. abnormal inhibitory control test, defined as greater than 5 lures.\n3. an infectious etiology which may cause HE has ",
+      "endpoints": [
+        "Portion of participants with normailzation of ICT or Stroop Test during the study"
+      ],
+      "sponsor": "University of Alberta",
+      "url": "https://clinicaltrials.gov/study/NCT02255617"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03080103",
+      "title": "A Prospective Non-randomized Controlled, Multicenter, Multidisciplinary Trial Comparing Appendectomy and Conservative Treatment for Patients With Uncomplicated Acute Appendicitis (the ACTUAA STUDY).",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-06-01",
+      "completion_date": "2019-12-31",
+      "country": "Italy",
+      "enrollment": 300,
+      "brief_summary": "On September the 15th, 2015, Italian surgeons, radiologists and pathologists with a special interest and expertise in the diagnosis and management of Acute Appendicitis (AA), met up under the auspices of the Italian Society of Hospital Surgeons (ACOI) in Oristano (Italy) to constitute the ACTUAA collaborative working group. The main objectives of the working group are:\n\nTo create a working basis for analyzing the diagnostic features, treatment modalities and outcomes of interest of both the anti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Age over 18 years\n* Uncomplicated AA confirmed by US and/or CT or MRI scan.\n\nExclusion Criteria:\n\n* Pregnancy or lactating\n* Diffuse peritonitis at physical examination\n* Serious systemic illness\n* Positive anamnesis for Inflammatory Bowel Disease (IB",
+      "endpoints": [
+        "Number of participants with complication-free treatment success, as assessed by the Dindo-Clavien Scale."
+      ],
+      "sponsor": "Associazione Chirurghi Ospedalieri Italiani",
+      "url": "https://clinicaltrials.gov/study/NCT03080103"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06396078",
+      "title": "Improvement of PPROM Management With Prophylactic Antimicrobial Therapy",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-07-18",
+      "completion_date": "2026-12",
+      "country": "United States",
+      "enrollment": 56,
+      "brief_summary": "To conduct an unblinded pragmatic randomized controlled trial (pRCT) \"Improvement of PPROM Management with Prophylactic Antimicrobial Therapy (iPROMPT)\" of a seven-day course of ceftriaxone, clarithromycin, and metronidazole versus the current standard of care of a seven-day course of ampicillin/amoxicillin and azithromycin or erythromycin to prolong pregnancy and decrease adverse perinatal outcomes among hospitalized pregnant individuals undergoing expectant management of PPROM \\<34 weeks.",
+      "eligibility_criteria": "Inclusion criteria\n\n* Admitted to the inpatient unit for expectant management of PPROM until delivery\n* Age ≥ 18 years with the ability to provide informed consent\n* Gestational age between 23 0/7 and 32 6/7 weeks\n\nExclusion criteria\n\n* Having received more than one dose of any prophylactic antibiot",
+      "endpoints": [
+        "Latency"
+      ],
+      "sponsor": "Ohio State University",
+      "url": "https://clinicaltrials.gov/study/NCT06396078"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02466698",
+      "title": "A Feasibility Randomized Trial of Intestinal Lavage for the Treatment of Severe C. Difficile Infections",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2016-08",
+      "completion_date": "2019-08",
+      "country": "Canada",
+      "enrollment": 20,
+      "brief_summary": "Clostridium Difficile infections (CDIs) are treated initially with antibiotic therapy and supportive care, with surgical intervention reserved for patients with significant systemic toxicity or perforation. Severe CDI may be refractory to medical management and require surgical intervention, carrying a mortality of approximately 40%.\n\nMortality associated with CDI increases significantly as the severity of the infection increases. In patients failing medical management, earlier operation is asso",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult (\\>= 18 years) inpatients at LHSC with symptomatic CDI (diarrhea or colonic ileus)\n* CDI confirmed by standard hospital microbiology lab testing\n* Patients must meet criteria for severe CDI, defined as either: white blood cell \\> 15,000 or Serum Creatinine \\> 1.5 times t",
+      "endpoints": [
+        "Number of eligible participants recruited into the study"
+      ],
+      "sponsor": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's",
+      "url": "https://clinicaltrials.gov/study/NCT02466698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04462588",
+      "title": "Are the Changes in Immature Granulocyte Count and Percentage Significant in the Decision to Continue Medical Treatment of Uncomplicated Acute Appendicitis Cases",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-06-01",
+      "completion_date": "2020-06-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 64,
+      "brief_summary": "After appendectomy was first described by Mcburney in 1889, it has been the most practiced emergency surgery in the world with the lifetime incidence of acute appendicitis being 5%-25%. Most cases are uncomplicated cases without any complications and perforation (20%-30%). Although appendectomy is still a curative therapy, medical treatment has come to the fore in uncomplicated cases after improvements in imaging methods for diagnosing acute appendicitis and especially the developments in antibi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nClinically diagnosed uncomplicated acute appendisitis cases Uncomplicated acute appendicitis cases who accepted the study protocol Successfully medical treated acute appendicitis Operated uncomplicated acute appendicitis cases -\n\nExclusion Criteria:\n\nClinically diagnosed complic",
+      "endpoints": [
+        "Medical treatment success",
+        "Medical treatment success"
+      ],
+      "sponsor": "Kahramanmaras Sutcu Imam University",
+      "url": "https://clinicaltrials.gov/study/NCT04462588"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03439982",
+      "title": "A Prospective Single Center Open Label Trial of RBX2660 (Microbiota Suspension) in the Management of Hepatic Encephalopathy",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-04-12",
+      "completion_date": "2021-03-18",
+      "country": "Canada",
+      "enrollment": 3,
+      "brief_summary": "The purpose of the study is to determine if fecal microbiota transplant (FMT) can reverse hepatic encephalopathy (HE) in cirrhotic patients who continue to have breakthrough episodes of HE despite maintenance therapy with lactulose and/or rifaximin or metronidazole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult cirrhotic patients of various etiology on lactulose and/pr rifaximin or metronidazole for minimum 4 weeks as secondary prophylaxis\n* Abnormal ICT (\\>5 lures) or abnormal Stroop test (\\>200 seconds)\n* Baseline Conn score 0 or 1\n* Infectious etiology of HE has been ruled o",
+      "endpoints": [
+        "Portion of participants with normalization of ICT or Stroop Test during the study"
+      ],
+      "sponsor": "University of Alberta",
+      "url": "https://clinicaltrials.gov/study/NCT03439982"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02505581",
+      "title": "Preoperative Oral Antibiotics and Surgical Site Infections in Colon Surgery Without Mechanical Bowel Preparation. A Prospective, Multicentre, Single Blinded, Randomized Trial (ORALEV Study)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-05",
+      "completion_date": "2018-11-10",
+      "country": "Spain",
+      "enrollment": 536,
+      "brief_summary": "Routine antibiotics for the intravenous and oral prophylaxis of colorectal surgery will be used.\n\nExperimental group: Patients undergoing elective colorectal surgery that involves, colonic resection.\n\nThe antibiotic prophylaxis in this group will be composed of:\n\nAn oral antibiotic pattern of ciprofloxacin (750mg / 12h, 2 doses) and metronidazole (250mg / 8h, 3 doses) the day before surgery.\n\n\\+\n\nControl group: Patients undergoing elective colorectal surgery that involves, colonic resection.\n\nTh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients presenting colonic pathology\n* The surgery is not contraindicated\n* Diagnosis of colorectal neoplasia or diverticular disease with surgical indication (stenosis, chronic constipation, recurrent infections etc ..)\n* Indication of segmentary resection or total colectomy",
+      "endpoints": [
+        "Wound infection"
+      ],
+      "sponsor": "Hospital Universitari Vall d'Hebron Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT02505581"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04797195",
+      "title": "Improving Care for Peritoneal Dialysis Patients With the CKD-PD App",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-12-13",
+      "completion_date": "2023-04-30",
+      "country": "Thailand",
+      "enrollment": 208,
+      "brief_summary": "Managing the hydration status in patients undergoing peritoneal dialysis (PD) is a key task for nephrologists in Thailand that is made difficult due to lack of timely access to hydration metrics including weight, blood pressure, and ultrafiltration volume. This research project aims to improve the monitoring of hydration status in PD patients from a bimonthly, in-clinic review of a handwritten log-book to a smart phone based app (CKD-PD) with digitized data that allows for near real time monitor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* chronic kidney disease from any cause on home based peritoneal dialysis\n* age greater than 18 years\n* access to a smart phone capable of running the CKD-PD app\n\nExclusion Criteria:\n\n* vulnerable populations including children, prisoners, pregnant women, individuals with cognit",
+      "endpoints": [
+        "Clinical Interventions for Over Hydration"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04797195"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02682485",
+      "title": "A Multicenter, Phase II, Randomized, Double-Blinded, Placebo-Controlled Clinical Trial of Serial Endoscopic Surveillance (SES) and Direct Topical Antibiotics (DTA) to Define the Role of Microbes in Anastomotic Healing",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2017-03-03",
+      "completion_date": "2017-03-03",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "Rationale: The surgical complication of intestinal anastomotic leak remains a clear and present danger to patients despite advances in surgical technique and ever more powerful antibiotics. No surgeon is immune from this complication and leak rates have not changed in decades. The consequences of a leak (peritonitis, sepsis, death) can be so severe that in the case of rectal cancer, diverting ileostomies are routinely performed to divert the fecal stream away from the healing anastomosis. We hav",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Diagnosis of rectal cancer\n* Scheduled to undergo a low anterior resection (with the planned anastomosis within 10cm of the anal verge) and a diverting ileostomy\n* 18 years of age or older\n* Able to provide informed consent\n\nExclusion Criteria\n\n* Prior medical history of or sus",
+      "endpoints": [
+        "Anastomotic Healing Score (ordinal scale ranging from 0 to a maximum of 18)"
+      ],
+      "sponsor": "University of Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT02682485"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04748120",
+      "title": "Operative vs Non-Operative Management of Acute Appendicitis and Acute Cholecystitis in COVID-19 Positive Patients",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2020-12-28",
+      "completion_date": "2021-04-06",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "This study evaluates operative and non-operative management of acute appendicitis (infection or inflammation of the appendix) and acute cholecystitis (inflammation/infection of the gallbladder) in patients with active mild to moderate COVID-19 infection. The hypothesis is that COVID+ patients with uncomplicated acute appendicitis or acute cholecystitis amendable to a laparoscopic procedure can have safe operative outcomes compared to those managed non-operatively.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* COVID-19 confirmed positive by a microbiologic test.\n* Mild COVID-19 - no or mild pneumonia\n* EITHER\n\n  1. Uncomplicated acute appendicitis without a fecalith OR\n  2. Acute cholecystitis - by TG18/TG13 diagnostic criteria where definite diagnosis requires one item in A + one i",
+      "endpoints": [
+        "Number of Participants With Pulmonary Complications"
+      ],
+      "sponsor": "The Cleveland Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT04748120"
+    }
+  ],
+  "timestamp": "2026-03-04T13:35:36.033230",
+  "success": true,
+  "error_message": null
+}

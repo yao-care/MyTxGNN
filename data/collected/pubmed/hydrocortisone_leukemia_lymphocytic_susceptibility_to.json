@@ -1,0 +1,143 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrocortisone",
+    "disease": "leukemia, lymphocytic, susceptibility to",
+    "query_string": "Hydrocortisone AND leukemia, lymphocytic, susceptibility to"
+  },
+  "data": {
+    "query": "Hydrocortisone AND leukemia, lymphocytic, susceptibility to",
+    "results": [
+      {
+        "pmid": "34579671",
+        "title": "Study protocol: DexaDays-2, hydrocortisone for treatment of dexamethasone-induced neurobehavioral side effects in pediatric leukemia patients: a double-blind placebo controlled randomized intervention study with cross-over design.",
+        "abstract": "Dexamethasone, a highly effective drug in treating pediatric acute lymphoblastic leukemia (ALL), can induce serious neurobehavioral side effects. These side effects are experienced by patients and parents as detrimental with respect to health related quality of life (HRQoL). Based on previous studies, it has been suggested that neurobehavioral side effects are associated to cortisol depletion of the mineralocorticoid receptor in the brain. Our previously reported randomized controlled trial, the Dexadagen study (NTR3280), suggests that physiological hydrocortisone addition during dexamethasone treatment may overcome clinically relevant neurobehavioral problems in patients who experience these problems during dexamethasone treatment. With our current study, we aim to replicate these results in a targeted larger sample before further implementing this intervention into standard of care.",
+        "journal": "BMC pediatrics",
+        "year": "2021",
+        "authors": [
+          "van Hulst A M",
+          "Verwaaijen E J",
+          "Fiocco M F",
+          "Pluijm S M F",
+          "Grootenhuis M A"
+        ],
+        "pub_types": [
+          "Clinical Trial Protocol",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Cross-Over Studies",
+          "Dexamethasone",
+          "Double-Blind Method",
+          "Humans",
+          "Hydrocortisone",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Quality of Life",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34579671/"
+      },
+      {
+        "pmid": "6374403",
+        "title": "Impact of the timing of triple intrathecal therapy on remission induction in childhood acute lymphoblastic leukemia: a Pediatric Oncology Group study.",
+        "abstract": "Five weekly doses of triple intrathecal (IT) chemotherapy (methotrexate, hydrocortisone, cytosine arabinoside) starting on day 1 of treatment were added to systemic induction therapy in a regimen (Arm 3) that was compared to three other regimens (Arms 1, 2, and 4) in which central nervous system (CNS) prophylaxis was initiated after complete marrow remission (CR) was attained. The CR rate for Arm 3 was only 83% as compared to 91-92% for other Arms. The lower CR rate was the result of a significantly higher death rate during induction for patients receiving early CNS prophylaxis (10.6 vs 0.9-3.5%). These differences were only observed in high risk patients as defined in the study. The early death rate was especially high (30%) in Arm 3 for children who were less than 2 years of age. Infection was the primary cause of morbidity and mortality. Severe infection following the initiation of induction therapy was found in 16.7% of patients on Arm 3 vs 1.8-6% on other regimens. Immediate tripl",
+        "journal": "Medical and pediatric oncology",
+        "year": "1984",
+        "authors": [
+          "Hvizdala E",
+          "Berry D H",
+          "Chen T",
+          "Dyment P G",
+          "Kim T H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System Diseases",
+          "Child",
+          "Child, Preschool",
+          "Clinical Trials as Topic",
+          "Drug Administration Schedule",
+          "Female",
+          "Fever",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6374403/"
+      },
+      {
+        "pmid": "6117669",
+        "title": "Phenotypic characterization of mice of thymus target cells susceptible to productive infection by the radiation leukemia virus.",
+        "abstract": "The spread of virus replication was studied by electron microscopy in the thymuses of inbred C57BL/Ka mice after intrathymic inoculation of the radiation leukemia virus (RadLV). The first type C-budding virus particles appeared in scarce blast cells of the subcapsular zone. Most of these blast cells were \"X-cells,\" i.e., the thymus lymphoid cells most actively engaged in DNA synthesis. Virus replication spread to the entire cortical blast cell population and, from day 7 on, to the small cortical lymphocytes. The first virus-producing cells were derived from a very few target cells (approximately 0.001-0.003% of thymocytes) susceptible to RadLV infection. For determination of the phenotypes of these target cells, various thymocyte subpopulations obtained through a battery of cell separation methods were tested for their ability to support the replication of RadLV/VL3 virus in short-term culture. Most of these target cells were sensitive to the lytic effect of hydrocortisone and migrated",
+        "journal": "Journal of the National Cancer Institute",
+        "year": "1981",
+        "authors": [
+          "Boniver J",
+          "Declève A",
+          "Honsik C",
+          "Lieberman M",
+          "Kaplan H S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Animals, Newborn",
+          "Antigens, Surface",
+          "Cell Separation",
+          "DNA",
+          "H-2 Antigens",
+          "Hydrocortisone",
+          "Leukemia Virus, Murine",
+          "Membrane Proteins",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6117669/"
+      },
+      {
+        "pmid": "22915453",
+        "title": "Glucocorticoid withdrawal - heterozygous carriers of congenital adrenal hyperplasia at risk?",
+        "abstract": "",
+        "journal": "Klinische Padiatrie",
+        "year": "2012",
+        "authors": [
+          "Brackmann F",
+          "Dörr H-G",
+          "Bartram C R",
+          "Hinderhofer K",
+          "Holter W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenal Hyperplasia, Congenital",
+          "Adrenocorticotropic Hormone",
+          "Adrenogenital Syndrome",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Child, Preschool",
+          "DNA Mutational Analysis",
+          "Dexamethasone",
+          "Genetic Carrier Screening",
+          "Genetic Counseling",
+          "Genetic Predisposition to Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22915453/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:17:47.652357",
+  "success": true,
+  "error_message": null
+}

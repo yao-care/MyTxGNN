@@ -1,0 +1,574 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Salicylic Acid",
+    "disease": "plantar wart",
+    "query_string": "Salicylic Acid AND plantar wart"
+  },
+  "data": {
+    "query": "Salicylic Acid AND plantar wart",
+    "results": [
+      {
+        "pmid": "29379975",
+        "title": "Plantar Warts: Epidemiology, Pathophysiology, and Clinical Management.",
+        "abstract": "Verrucae plantaris (plantar warts) are common cutaneous lesions of the plantar aspect of the foot that are caused by the human papillomavirus (HPV). Ubiquitous in our environment, asymptomatic infection with HPV occurs frequently, with most infections controlled or cleared by cellular and humoral immune responses. However, certain populations have been observed to manifest plantar warts at higher rates compared with the general population, placing them at increased risk for wart-induced pain and complications. Plantar warts shed HPV, which can then infect other sites in the plantar region or spread to other people. Although controlling risk factors is useful in preventing infection, the pervasive nature of HPV makes these preventive measures frequently impractical. This literature review outlines the current knowledge regarding the relationship between plantar wart pathophysiology, HPV transmission, and epidemiologic characteristics. Given the high propensity for treatment resistance o",
+        "journal": "The Journal of the American Osteopathic Association",
+        "year": "2018",
+        "authors": [
+          "Witchey Dexter Jordan",
+          "Witchey Nichole Brianne",
+          "Roth-Kauffman Michele Marie",
+          "Kauffman Mark Kevin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cryotherapy",
+          "Female",
+          "Foot Diseases",
+          "Humans",
+          "Laser Therapy",
+          "Male",
+          "Papillomaviridae",
+          "Papillomavirus Infections",
+          "Risk Factors",
+          "Salicylic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29379975/"
+      },
+      {
+        "pmid": "33263934",
+        "title": "Topical treatment for plantar warts: A systematic review.",
+        "abstract": "There are a wide variety of treatments for plantar warts, but none has been shown to be effective in all patients. We aimed to perform a systematic review of the efficacy of different topical treatments on plantar warts. Systematic electronic searches (Pubmed, Cochrane Library, Embase, and Web of Science) were conducted in April 2020. Meta-analyses, systematic reviews, and retrospective or prospective clinical trials of the effects of topical and nonsurgical treatments of plantar warts were included. Two authors performed the study selection and data extraction. Any discrepancies between the two reviewers were discussed with a third reviewer. Forty-four studies were included. The average cure rates of the most frequent treatments were variable across the studies: cryotherapy (45.61%), salicylic acid (13.6%), cantharidin-podophyllin-salicylic acid formulation (97.82%), laser (79.36%), topical antivirals (72.45%), intralesional bleomycin (83.37%), and intralesional immunotherapy (68.14%)",
+        "journal": "Dermatologic therapy",
+        "year": "2021",
+        "authors": [
+          "García-Oreja Sara",
+          "Álvaro-Afonso Francisco Javier",
+          "García-Álvarez Yolanda",
+          "García-Morales Esther",
+          "Sanz-Corbalán Irene"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Cryotherapy",
+          "Humans",
+          "Prospective Studies",
+          "Retrospective Studies",
+          "Salicylic Acid",
+          "Warts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33263934/"
+      },
+      {
+        "pmid": "39295250",
+        "title": "Cantharidin (1%), podophyllin (5%), and salicylic acid (30%) formulation in recalcitrant plantar warts: Analysis of 48 patients.",
+        "abstract": "A plantar wart is a benign hyperplasia that appears on the feet due to the human papillomavirus (HPV). One method used for the treatment of recalcitrant plantar warts, those lasting over 2 years or persisting after at least two treatment attempts, is the cantharidin (1%), podophyllin (5%), and salicylic acid (30%) formulation, also known as the CPS formulation. Although this method is in use, there are few studies on it. This study's objective was to ascertain its cure rate. For this retrospective observational study, we reviewed the medical records of patients treated with the CPS formulation at a podiatric clinic specializing in plantar wart treatment. Our sample size was 48 subjects. The CPS formulation had a cure rate of 62.5%. Out of the cured patients, 86.67% (26/30) required one or two applications. There was no observable correlation (p > 0.05) between wart resolution and virus biotype, evolution time, patient's morphological and clinical attributes, location, number of warts, ",
+        "journal": "Journal of medical virology",
+        "year": "2024",
+        "authors": [
+          "Amo-Navarrete Jéssica",
+          "García-Oreja Sara",
+          "León-Herce Diego",
+          "Navarro-Pérez David",
+          "Lázaro-Martínez José Luís"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Young Adult",
+          "Cantharidin",
+          "Podophyllin",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39295250/"
+      },
+      {
+        "pmid": "40743833",
+        "title": "A multicentre pragmatic randomized controlled trial comparing 50% salicylic acid, liquid nitrogen, 5% 5-fluorouracil cream, and 5% imiquimod cream in previously treated plantar warts. The VRAIE (VeRrues plAntaIres en villE) study.",
+        "abstract": "Plantar warts are common among the general population. After failure of first-line treatment, they are challenging to treat.",
+        "journal": "Annales de dermatologie et de venereologie",
+        "year": "2025",
+        "authors": [
+          "Chanal J",
+          "Aubin F",
+          "Penso-Assathiany D",
+          "Buffière I",
+          "Makhlouf W"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Pragmatic Clinical Trial",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Young Adult",
+          "Fluorouracil",
+          "Foot Dermatoses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40743833/"
+      },
+      {
+        "pmid": "27072919",
+        "title": "Safety and effectiveness of cantharidin-podophylotoxin-salicylic acid in the treatment of recalcitrant plantar warts.",
+        "abstract": "The aim of our study was to evaluate the efficacy and safety of topical cantharidin-podophylotoxin-salicylic acid (CPS) treatment of recalcitrant plantar warts (RPW). This study was carried out in a health center in the city of A Coruña (Spain) between January and December 2013. A total of 75 patients completed all the stages of the research process. Information related to treatment with CPS and adverse effects was abstracted from medical records. Of 93 potential patients identified, 75 had at least one follow-up visit or telephone call after treatment and were included in this study. Patients experienced an average of 5.4 visits until complete resolution of their plantar wart occurred, although CPS was not applied at every visit. Fifty-four patients required one application to eliminate the wart and 21 patients required two applications/patient. Seventy-seven percent of patients experienced blistering - an expected therapeutic side effect. All patients experienced some form of an adve",
+        "journal": "Dermatologic therapy",
+        "year": "2016",
+        "authors": [
+          "López López Daniel",
+          "Vilar Fernández Juan Manuel",
+          "Losa Iglesias Marta Elena",
+          "Álvarez Castro Carlos",
+          "Romero Morales Carlos"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Cantharidin",
+          "Child",
+          "Drug Combinations",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Podophyllotoxin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27072919/"
+      },
+      {
+        "pmid": "23316984",
+        "title": "Cutaneous cryosurgery.",
+        "abstract": "Cutaneous cryosurgery refers to localized application of freezing temperatures to achieve destruction of skin lesions. It can be used to treat a broad range of benign and premalignant skin conditions, and certain malignant skin conditions, with high cure rates. Cellular destruction is accomplished by delivery of the cryogen via dipstick, probe, or spray techniques. It is widely used in primary care because of its safety, effectiveness, low cost, ease of use, good cosmetic results, and lack of need for anesthesia. Cryosurgery is as effective as alternative therapies for most cases of molluscum contagiosum, dermatofibromas, keloids, and plantar or genital warts. It is a more effective cure for common warts than salicylic acid or observation. Cryosurgery is generally the treatment of choice for actinic keratosis. Contraindications to cryosurgery include cryofibrinogenemia, cryoglobulinemia, Raynaud disease, agammaglobulinemia, and multiple myeloma. Complications from cryosurgery include h",
+        "journal": "American family physician",
+        "year": "2012",
+        "authors": [
+          "Zimmerman Ethan E",
+          "Crawford Paul"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Condylomata Acuminata",
+          "Cryosurgery",
+          "Histiocytoma, Benign Fibrous",
+          "Humans",
+          "Keloid",
+          "Keratosis, Actinic",
+          "Molluscum Contagiosum",
+          "Practice Guidelines as Topic",
+          "Skin Diseases",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23316984/"
+      },
+      {
+        "pmid": "12852385",
+        "title": "Plantar wart treatment with combination imiquimod and salicylic acid pads.",
+        "abstract": "Treatment of plantar warts is often difficult and may be painful, often employing destructive treatment modalities. We report the successful treatment of a patient with a large plantar wart using Imiquimod 5% cream under occlusion with a 40% salicylic acid pad. This combination treatment modality likely allows successful delivery of Imiquimod through the thick skin on the plantar surface. Once penetrated, an anti-viral state is created by upregulating specific cytokines to eradicate the human papilloma virus (HPV).",
+        "journal": "Journal of drugs in dermatology : JDD",
+        "year": "2003",
+        "authors": [
+          "Tucker Stephen B",
+          "Ali Asra",
+          "Ransdell Brian L"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Aminoquinolines",
+          "Drug Therapy, Combination",
+          "Foot",
+          "Humans",
+          "Imiquimod",
+          "Male",
+          "Salicylic Acid",
+          "Warts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12852385/"
+      },
+      {
+        "pmid": "34559938",
+        "title": "A case of resistant multiple plantar warts cured with combined autologous platelet-rich plasma injection and topical salicylic acid 30.",
+        "abstract": "Plantar warts are common benign cutaneous lesions affecting the plantar aspects of the feet; they are caused by infection of the keratinocytes by the human papillomavirus (HPV). The effective treatment of plantar warts is still a therapeutic challenge.",
+        "journal": "Journal of cosmetic dermatology",
+        "year": "2022",
+        "authors": [
+          "Abu El-Hamd Mohammed",
+          "Aboeldahab Soha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Injections, Intralesional",
+          "Male",
+          "Middle Aged",
+          "Platelet-Rich Plasma",
+          "Salicylic Acid",
+          "Treatment Outcome",
+          "Warts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34559938/"
+      },
+      {
+        "pmid": "11563570",
+        "title": "Over-the-counter foot remedies.",
+        "abstract": "Several effective and inexpensive over-the-counter treatments are available for minor but troubling foot problems. In most cases, one week of therapy with topical terbinafine is effective for interdigital tinea pedis. Treatment of plantar warts with 17 percent salicylic acid with lactic acid in a collodion base is as effective as cryotherapy, but treatment must be sustained for several months. Toe sleeves and toe spacers can relieve pain from hard or soft corns. Metatarsal pads can relieve the pressure associated with plantar keratoses. Heel cups often can relieve pain caused by age-related thinning of the heel fat pad. Plantar fasciitis is a common cause of anteromedial heel pain caused by repetitive strain on the plantar fascia. Although the mainstay of therapy is stretching exercises, ready-made arch supports and insoles can be helpful adjuncts.",
+        "journal": "American family physician",
+        "year": "2001",
+        "authors": [
+          "Bedinghaus J M",
+          "Niedfeldt M W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Dermatomycoses",
+          "Foot Diseases",
+          "Humans",
+          "Metatarsal Bones",
+          "Nonprescription Drugs",
+          "Orthotic Devices",
+          "Warts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11563570/"
+      },
+      {
+        "pmid": "25739479",
+        "title": "[Application of cantharidin, podophyllotoxin, and salicylic acid in recalcitrant plantar warts. A preliminary study].",
+        "abstract": "Plantar warts often are refractory to any treatment and can last for decades in adults. Recalcitrant warts are defined as those that have persisted for more than two years, or after at least two treatment modalities.",
+        "journal": "Gaceta medica de Mexico",
+        "year": "2015",
+        "authors": [
+          "López-López Daniel",
+          "Agrasar-Cruz Carlos",
+          "Bautista-Casasnovas Adolfo",
+          "Álvarez-Castro Carlos Javier"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adolescent",
+          "Adult",
+          "Cantharidin",
+          "Drug Combinations",
+          "Drug Compounding",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Keratolytic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25739479/"
+      },
+      {
+        "pmid": "16281635",
+        "title": "[Efficacy and benefit of a 5-FU/salicylic acid preparation in the therapy of common and plantar warts--systematic literature review and meta-analysis].",
+        "abstract": "(1) Salicylic acid (SA) and 5-Fluorouracil (5-FU) are effective drugs in wart therapy. (2) In Germany, increasing data on the benefit and the economic efficiency of drugs at Level I of evidence-based medicine are needed.",
+        "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+        "year": "2004",
+        "authors": [
+          "Zschocke Ina",
+          "Hartmann Armin",
+          "Schlöbe Andrea",
+          "Cummerow Ralf",
+          "Augustin Matthias"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Aspirin",
+          "Drug Combinations",
+          "Fluorouracil",
+          "Foot",
+          "Humans",
+          "Internationality",
+          "Prognosis",
+          "Randomized Controlled Trials as Topic",
+          "Risk Assessment",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16281635/"
+      },
+      {
+        "pmid": "23165837",
+        "title": "Comparative effectiveness of cryotherapy and salicylic acid for plantar warts.",
+        "abstract": "",
+        "journal": "Archives of dermatology",
+        "year": "2012",
+        "authors": [
+          "Le Cleach Laurence",
+          "Trinquart Ludovic",
+          "Penso-Assathiany Dominique",
+          "Chosidow Olivier"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23165837/"
+      },
+      {
+        "pmid": "40613638",
+        "title": "Efficacy and Safety of Topical 40% Salicylic Acid Ointment Therapy for Recalcitrant Plantar Warts: A Retrospective Case Series of 61 Japanese Patients.",
+        "abstract": "",
+        "journal": "The Journal of dermatology",
+        "year": "2025",
+        "authors": [
+          "Nakanishi Yuiko",
+          "Toyosawa Yui",
+          "Orimo Ayuka",
+          "Yoshikawa Kenta",
+          "Yano Daisuke"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40613638/"
+      },
+      {
+        "pmid": "36348614",
+        "title": "Cantharidin-Podophyllin-Salicylic Acid Formulation as a First-Line Treatment for Plantar Warts? A Case Report with Multiple Plantar Warts of Human Papillomavirus Biotype 27 and Previous Failed Treatments.",
+        "abstract": "BACKGROUND Plantar warts are benign skin tumors caused by the human papillomavirus (HPV). There are multiple treatments, but none ensure absolute success. Successful treatment depends on several factors, such as the location, number of lesions, HPV biotype, and the patient's health condition. This report presents a 53-year-old woman who had multiple recalcitrant plantar warts with HPV biotype 27 that were treated using a cantharidin-podophyllin-salicylic acid (CPS) formulation after 2 failed treatments. CASE REPORT A 53-year-old woman was seen on October 25, 2021. She had 6 plantar warts due to HPV biotype 27, which was confirmed by polymerase chain reaction using a sample of hyperkeratosis scales obtained from the wart after debridement. Five cryotherapy sessions were applied, without clinical improvement. Two sessions of nitric-acid-zinc complex were then applied, from which the patient reported severe pain, without clinical improvement. Finally, 3 sessions of CPS formulation were ap",
+        "journal": "The American journal of case reports",
+        "year": "2022",
+        "authors": [
+          "Navarro-Pérez David",
+          "García-Oreja Sara",
+          "Álvaro-Afonso Francisco Javier",
+          "López-Moral Mateo",
+          "García-Madrid Marta"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Papillomaviridae",
+          "Cantharidin",
+          "Podophyllin",
+          "Alphapapillomavirus",
+          "Papillomavirus Infections",
+          "Salicylic Acid",
+          "Warts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36348614/"
+      },
+      {
+        "pmid": "40526950",
+        "title": "Topical cantharidin use in dermatology: an updated review.",
+        "abstract": "Cantharidin, a natural toxin produced by the blister beetle, is a topical agent that induces acantholysis of the epidermis, breaking down desmosome plaques through the release of serine proteases. Cantharidin is available in three liquid forms: Ycanth (0.7%), Canthacur (0.7%), and Canthacur PS (1% cantharidin, 30% salicylic acid, 2% podophyllotoxin). Ycanth is used to treat molluscum contagiosum (MC). Canthacur is routinely used to treat a variety of dermatologic conditions including MC, plantar warts, and common warts, whereas Canthacur PS is a more potent formulation indicated for treatment of plantar warts only. The objective of this review is to highlight the efficacy, safety, and diverse use of topical cantharidin in the treatment of various skin conditions. Conditions in which treatment with topical cantharidin yielded a good-to-excellent response include MC, plantar warts, and common warts. Topical cantharidin treatment of anogenital warts yielded mixed results. None of the indi",
+        "journal": "Dermatology online journal",
+        "year": "2024",
+        "authors": [
+          "Ghali Helana",
+          "Smith Logan R",
+          "Krenitsky Amanda",
+          "Joseph Alexia M",
+          "Aung-Din David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cantharidin",
+          "Humans",
+          "Warts",
+          "Molluscum Contagiosum",
+          "Skin Diseases",
+          "Administration, Cutaneous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40526950/"
+      },
+      {
+        "pmid": "40463616",
+        "title": "Comparison of intralesional bleomycin versus salicylic acid 16.5% and lactic acid 16.5% combination paint in management of plantar warts.",
+        "abstract": "Salicylic and lactic acid (SAL) paint is commonly used to treat warts due to ease of application without any instrumentation. Intralesional bleomycin has been used for the treatment of warts since the 1970s with high efficacy even at low concentration. The aim of this study was to assess the efficacy of single dose of intralesional bleomycin in the treatment of plantar warts in comparison with a control group of similar sample receiving SAL paint application.",
+        "journal": "Medical journal, Armed Forces India",
+        "year": "2025",
+        "authors": [
+          "Bala Nishu",
+          "Kumar Ajay",
+          "Ranjan Eeshaan",
+          "Gera Vinay",
+          "Thombre Rahul"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40463616/"
+      },
+      {
+        "pmid": "12905977",
+        "title": "Plantar wart treatment with combination imiquimod and salicylic acid pads.",
+        "abstract": "Treatment of plantar warts is often difficult and may be painful, often employing destructive treatment modalities. We report the successful treatment of a patient with a large plantar wart using Imiquimod 5% cream under occlusion with a 40% salicylic acid pad. This combination treatment modality likely allows successful delivery of Imiquimod through the thick skin on the plantar surface. Once penetrated, an anti-viral state is created by upregulating specific cytokines to eradicate the human papilloma virus (HPV).",
+        "journal": "Journal of drugs in dermatology : JDD",
+        "year": "2003",
+        "authors": [
+          "Tucker Stephen B",
+          "Ali Asra",
+          "Ransdell Brian L"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Corrected and Republished Article",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Aminoquinolines",
+          "Drug Therapy, Combination",
+          "Foot",
+          "Humans",
+          "Male",
+          "Salicylic Acid",
+          "Warts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12905977/"
+      },
+      {
+        "pmid": "11202766",
+        "title": "Combined cryotherapy/70% salicylic acid treatment for plantar verrucae.",
+        "abstract": "Although common, warts are inconsistently treated by any single method. The authors present a review of the literature for various treatments with regard to the methodology and success rate of each treatment modality. The authors also present a therapeutic regimen of combined cryotherapy/ 70% salicylic acid. This treatment involves in-office application of the cryogenic agent and daily application of 70% salicylic acid by the patient. The cryotherapy was combined with daily patient application of salicylic acid to increase destruction of the verruca. In a study of 29 patients with 65 warts, the authors found this method successful in 58 warts in 25 patients, showing a 89.2% rate of eradication of verrucae in 86.2% of patients. The method is recommended due to its consistent efficacy in the patient population, and its relatively gentle and noninvasive approach.",
+        "journal": "The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons",
+        "year": "2001",
+        "authors": [
+          "van Brederode R L",
+          "Engel E D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Combined Modality Therapy",
+          "Cryotherapy",
+          "Female",
+          "Follow-Up Studies",
+          "Foot Diseases",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11202766/"
+      },
+      {
+        "pmid": "21652750",
+        "title": "Cryotherapy versus salicylic acid for the treatment of plantar warts (verrucae): a randomised controlled trial.",
+        "abstract": "To compare the clinical effectiveness of cryotherapy versus salicylic acid for the treatment of plantar warts.",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2011",
+        "authors": [
+          "Cockayne Sarah",
+          "Hewitt Catherine",
+          "Hicks Kate",
+          "Jayakody Shalmini",
+          "Kang'ombe Arthur Ricky"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Child",
+          "Cryotherapy",
+          "Female",
+          "Humans",
+          "Male",
+          "Salicylic Acid",
+          "State Medicine",
+          "Treatment Outcome",
+          "United Kingdom"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21652750/"
+      },
+      {
+        "pmid": "3377974",
+        "title": "Monochloroacetic acid and 60% salicylic acid as a treatment for simple plantar warts: effectiveness and mode of action.",
+        "abstract": "Monochloroacetic acid crystals and 60% salicylic acid ointment was found to be more effective than placebo as a treatment for simple plantar warts in a double blind study on 57 patients. Nineteen (66%) patients in the active treatment group compared with five (18%) patients in the placebo group were cured after 6 weeks (P = 0.002). The active treatment was associated with a significantly higher cure rate 6 months after entry (P = 0.04). Treatments were well tolerated. IgG or IgM antibodies or both to human papilloma virus (HPV) types 1 or 2 or both were detected significantly more frequently in the actively treated group 6 weeks after entry (P = 0.0005). Twelve (50%) patients considered to be cured had no detectable secondary immune response. Our results suggest that cure does not depend primarily on the humoral system but rather on mechanical destruction of wart tissue, or occurs as a result of cell mediated immunity.",
+        "journal": "The British journal of dermatology",
+        "year": "1988",
+        "authors": [
+          "Steele K",
+          "Shirodaria P",
+          "O'Hare M",
+          "Merrett J D",
+          "Irwin W G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acetates",
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Female",
+          "Foot Diseases",
+          "Humans",
+          "Irritants",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3377974/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:29:23.898884",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,566 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ketoconazole",
+    "disease": "disseminated candidiasis",
+    "query_string": "Ketoconazole AND disseminated candidiasis"
+  },
+  "data": {
+    "query": "Ketoconazole AND disseminated candidiasis",
+    "results": [
+      {
+        "pmid": "1457662",
+        "title": "Disseminated candidiasis in addicts who use brown heroin: report of 83 cases and review.",
+        "abstract": "From November 1983 to April 1990, disseminated candidiasis was diagnosed in 83 heroin addicts at our institution. All patients had consumed brown heroin diluted in fresh lemon juice. Sixty-two (75%) had skin lesions, 41 (49%) had ocular lesions, and 35 (42%) had one or several costochondral tumors. Candida albicans was grown in culture or histopathologically identified in 34 cases (41%). The patients who had only cutaneous lesions were treated with ketoconazole, and they were all cured. The patients with ocular involvement received systemic amphotericin B with or without oral flucytosine; 29 of these patients developed varying degrees of vision loss. The method of treatment of costochondral tumors was not uniform; in 14 cases the lesions were resected. The one patient who died developed endocarditis involving the aortic valve. Cases of pleuropulmonary involvement, spondylitis, and large-joint arthritis have also been described among the 300 cases reported in the reviewed literature. Th",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "1992",
+        "authors": [
+          "Bisbe J",
+          "Miro J M",
+          "Latorre X",
+          "Moreno A",
+          "Mallolas J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Candidiasis",
+          "Female",
+          "Heroin Dependence",
+          "Humans",
+          "Male",
+          "Substance Abuse, Intravenous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1457662/"
+      },
+      {
+        "pmid": "1476286",
+        "title": "[Systemic candidiasis].",
+        "abstract": "Candida proliferate within the body of patients with deficient cellular immunity either by the haematogenous route or by adjacency. This condition is often found in hospital patients. It explains the increasing incidence of disseminated candidiasis. They are preferentially found in patients who have had complicated surgery, mostly of the gastrointestinal tract and the heart, or transplant surgery (except for kidney transplants), or who have had prolonged intensive care. Other patients concerned are neonates with a low birth weight, haemato-oncology patients, heroin addicts and AIDS patients. Clinical signs are usually unspecific. When there is widespread involvement, clinical signs can be defined by the secondary locations, especially within the kidneys, lung, endocardium and brain in surgical patients, and liver and spleen in haemato-oncology patients. Eye, skin, gastrointestinal tract, and indeed, muscle lesions which are easily accessible, should be looked for routinely. This helps ",
+        "journal": "Annales francaises d'anesthesie et de reanimation",
+        "year": "1992",
+        "authors": [
+          "Lelarge P",
+          "Mariot J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Candida",
+          "Candidiasis",
+          "Decontamination",
+          "Drug Therapy, Combination",
+          "Female",
+          "Flucytosine",
+          "Humans",
+          "Ketoconazole",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1476286/"
+      },
+      {
+        "pmid": "2670371",
+        "title": "Systemic candidiasis.",
+        "abstract": "Systemic candidiasis is a disease of increasing incidence and proportions, which appears to be associated with the advances in modern medicine. It involves primarily patients with severe debilitating and malignant disease who are receiving immunosuppressive, cytotoxic, antimetabolite, and antibiotic therapy. Side effects of these otherwise major therapeutic agents predispose patients to opportunistic fungal infections, of which candidiasis is the most common. The high morbidity and mortality of disseminated candidiasis in neutropenic patients are difficult obstacles to obtaining the optimal, if not full, potential of modern chemotherapy for cancer. The inability to diagnose early invasive and systemic candidiasis is a major handicap that delays timely initiation of antifungal therapy. The paucity of highly efficacious antifungal agents with low toxicity severely limits the ability to successfully cure systemic fungal infections in cancer patients. Aggressive research into the basic bio",
+        "journal": "Dermatologic clinics",
+        "year": "1989",
+        "authors": [
+          "Ray T L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Candidiasis",
+          "Flucytosine",
+          "Humans",
+          "Immune Tolerance",
+          "Ketoconazole",
+          "Neoplasms",
+          "Opportunistic Infections",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2670371/"
+      },
+      {
+        "pmid": "6252105",
+        "title": "Treatment of paracoccidioidomycosis, candidiasis, chromomycosis, lobomycosis, and mycetoma with ketoconazole.",
+        "abstract": "The authors present the use of ketoconazole in 27 cases of paracoccidioidomycosis, eight of mycetoma, seven of chromomycosis, four of systemic candidiasis and one of lobomycosis. The drug was administered orally in a dosage of 200 to 400 mg per day within a period of up to 90 days. The results of the treatment for paracoccidioidomycosis were of cicatrization of the cutaneous lesions in three to four weeks in 24 patients and in two, from six to seven weeks. Out of 27 patients, 14 presented pulmonary lesions. The evolution within a 90-day period showed radiological cure in one case, improvement in seven, and unaltered picture in five patients. In one, there was no further control. In the three out of four cases of candidiasis there was clinical and mycological cure and in one case marked improvement. In seven cases of chromomycosis there was marked improvement in two, moderate in four, and slight in one case. There was slight improvement in one case of lobomycosis, and in eight cases of ",
+        "journal": "International journal of dermatology",
+        "year": "1980",
+        "authors": [
+          "Cucé L C",
+          "Wroclawski E L",
+          "Sampaio S A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Chromoblastomycosis",
+          "Clinical Trials as Topic",
+          "Female",
+          "Humans",
+          "Imidazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6252105/"
+      },
+      {
+        "pmid": "1815425",
+        "title": "Ketoconazole hepatotoxicity in a patient treated for environmental illness and systemic candidiasis.",
+        "abstract": "Environmental illness, a hypothesized disease caused by exposure to substances such as combustion products, pesticides, food additives, and Candida albicans, is discussed. The case of a patient with environmental illness and systemic candidiasis for six weeks with ketoconazole, liver enzyme concentrations increased. One month after discontinuation of ketoconazole, the liver enzyme concentrations decreased; however, over the next five months, liver enzymes and bilirubin increased. The patient developed encephalopathy and eventually was transferred to a medical center for possible liver transplant. A review of the literature pertaining to ketoconazole hepatotoxicity is also presented.",
+        "journal": "DICP : the annals of pharmacotherapy",
+        "year": "1991",
+        "authors": [
+          "Brusko C S",
+          "Marten J T"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Candidiasis",
+          "Chemical and Drug Induced Liver Injury",
+          "Environmental Exposure",
+          "Environmental Pollutants",
+          "Female",
+          "Humans",
+          "Jaundice",
+          "Ketoconazole",
+          "Liver Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1815425/"
+      },
+      {
+        "pmid": "7625792",
+        "title": "Evaluation of water-soluble pneumocandin analogs L-733560, L-705589, and L-731373 with mouse models of disseminated aspergillosis, candidiasis, and cryptococcosis.",
+        "abstract": "The activities of the water-soluble pneumocandin derivatives L-733560, L-705589, and L-731373 were evaluated in mouse models of disseminated aspergillosis, candidiasis, and cryptococcosis and were compared with those of commercially available antifungal agents. Pneumocandins are inhibitors of 1,3-beta-D-glucan synthesis. In the aspergillosis model, L-733560 and L-705589 significantly prolonged the survival of DBA/2N mice challenged intravenously with Aspergillus fumigatus conidia. L-733560 and L-705589 exhibited efficacies comparable to that of amphotericin B (AMB) with 90% effective doses of 0.48, 0.12, and 0.36 mg/kg of body weight, respectively. Two mouse models of disseminated candidiasis were used to evaluate these compounds. In both models, mice were challenged intravenously with Candida albicans. In a C. albicans survival model with DBA/2N and CD-1 mice, the efficacy of L-733560 was comparable to that of AMB, while L-731373 and L-705589 were somewhat less active. In a previously",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1995",
+        "authors": [
+          "Abruzzo G K",
+          "Flattery A M",
+          "Gill C J",
+          "Kong L",
+          "Smith J G"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Antifungal Agents",
+          "Aspergillosis",
+          "Candidiasis",
+          "Cryptococcosis",
+          "Female",
+          "Mice",
+          "Mice, Inbred DBA",
+          "Peptides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7625792/"
+      },
+      {
+        "pmid": "40574365",
+        "title": "Anticandidal Effects of Ocimum basilicum and Ocimum sanctum: Unveiling in vitro and in vivo Efficacy against Systemic Candidiasis.",
+        "abstract": "This research explored the antimicrobial, antifungal, and in vivo anticandidal activities of two herbal extracts: Ocimum basilicum (HEOB) and Ocimum sanctum (HEOS). Additionally, the study analyzed the phytochemical components of these extracts.",
+        "journal": "Current pharmaceutical design",
+        "year": "2026",
+        "authors": [
+          "Gupta Saurabh",
+          "Nagar Lokesh",
+          "Singla Madhav",
+          "Smriti",
+          "Singh Sachin Kumar"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40574365/"
+      },
+      {
+        "pmid": "2350126",
+        "title": "Otitic candidiasis in children: an evaluation of the problem and effectiveness of ketoconazole in 10 patients.",
+        "abstract": "The purpose of this paper is to report a group of children with recurring ear infections in whom persistent otorrhea was found to be due to monilial (Candida) infection of the middle ear. Some of the patients had associated mastoid disease. A review of the literature reveals few reports of otitis media and/or mastoiditis due to Candida infection. Ten patients who had persistent otorrhea were found to have monilial infection as a cause of the ear disease. None of the patients were immunosuppressed or immunocompromised. Nine of the 10 patients (one was lost to follow-up) were treated with antifungal medication, and the effectiveness of ketoconazole therapy is evaluated. None of the children in this series had systemic candidiasis. The probable causes of the problem of yeast infection of the ear are explored and appear to be related to the use of multiple broad-spectrum antibodies and local antibiotic-steroid ear drops.",
+        "journal": "The Annals of otology, rhinology, and laryngology",
+        "year": "1990",
+        "authors": [
+          "Cohen S R",
+          "Thompson J W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Candidiasis",
+          "Child, Preschool",
+          "Drug Evaluation",
+          "Female",
+          "Humans",
+          "Infant",
+          "Ketoconazole",
+          "Male",
+          "Otitis Media",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2350126/"
+      },
+      {
+        "pmid": "3705878",
+        "title": "Disseminated candidiasis in heroin addicts. Report of two cases and review of the literature.",
+        "abstract": "",
+        "journal": "Acta clinica Belgica",
+        "year": "1986",
+        "authors": [
+          "Etienne M",
+          "Nemery A",
+          "Darcis J M",
+          "Pierard G E",
+          "Demonty J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Candidiasis",
+          "Heroin Dependence",
+          "Humans",
+          "Ketoconazole",
+          "Male",
+          "Sepsis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3705878/"
+      },
+      {
+        "pmid": "6302455",
+        "title": "Neonatal systemic candidiasis treated with miconazole and ketoconazole.",
+        "abstract": "Three infants of very low birthweight, who contracted systemic Candida albicans infections while receiving neonatal intensive care, underwent therapy with intravenously administered miconazole and orally administered ketoconazole. The drugs proved to be effective against the systemic infections with C. albicans and were well tolerated by babies. However, further trials are necessary to confirm the efficacy of these drugs in newborn infants.",
+        "journal": "The Medical journal of Australia",
+        "year": "1983",
+        "authors": [
+          "Tudehope D I",
+          "Rigby B"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Candidiasis",
+          "Female",
+          "Humans",
+          "Imidazoles",
+          "Infant, Newborn",
+          "Infant, Newborn, Diseases",
+          "Ketoconazole",
+          "Male",
+          "Miconazole",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6302455/"
+      },
+      {
+        "pmid": "28857851",
+        "title": "Antifungal Prevention of Systemic Candidiasis in Immunocompetent ICU Adults: Systematic Review and Meta-Analysis of Clinical Trials.",
+        "abstract": "The aim of this study was to identify the impact of antifungal prevention in critically ill immunocompetent adult patients on mortality and subsequent infection.",
+        "journal": "Critical care medicine",
+        "year": "2017",
+        "authors": [
+          "Dupont Hervé",
+          "Mahjoub Yazine",
+          "Chouaki Taieb",
+          "Lorne Emmanuel",
+          "Zogheib Elie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candidiasis",
+          "Critical Illness",
+          "Hospital Mortality",
+          "Humans",
+          "Immunocompromised Host",
+          "Intensive Care Units",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28857851/"
+      },
+      {
+        "pmid": "6295158",
+        "title": "The antifungal activity of ketoconazole.",
+        "abstract": "The antifungal properties of ketoconazole were investigated both in vitro and in vivo. The antifungal potency of ketoconazole in vitro was studied in Sabouraud's broth for 715 fungal strains belonging to 85 species and several strains were tested in other media, including Eagle's minimal essential medium. Ketoconazole is highly active in vitro and possesses broadspectrum activity. Its in vitro activity is largely dependent on the medium used. Ketoconazole's activity is increased in medium enriched with serum and in Eagle's minimal essential medium. Ketoconazole is very potent in the topical treatment of skin dermatophytosis, skin candidiasis, and in vaginal candidiasis of laboratory animals. Ketoconazole is superior to griseofulvin in the oral treatment of skin dermatophytosis. Furthermore, ketoconazole is orally highly active in skin candidiasis in guinea pigs, in vaginal candidiasis in rats, and in gastrointestinal candidiasis in various animal animal species. In systemic candidiasis",
+        "journal": "The American journal of medicine",
+        "year": "1983",
+        "authors": [
+          "Van Cutsem J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Animals",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Candidiasis, Cutaneous",
+          "Candidiasis, Vulvovaginal",
+          "Culture Media",
+          "Dermatomycoses",
+          "Female",
+          "Guinea Pigs"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6295158/"
+      },
+      {
+        "pmid": "3041396",
+        "title": "Esophageal candidiasis. Managing an increasingly prevalent infection.",
+        "abstract": "Esophageal candidiasis is an opportunistic infection that is being recognized increasingly often in certain patients, including those who have a neoplastic disease, are undergoing protracted antibiotic therapy, or hae acquired immunodeficiency syndrome (AIDS). Impaired cell-mediated immunity may predispose the patient to esophageal mucosal colonization, whereas chemotherapy-induced granulocytopenia may predispose to disseminated candidiasis. Esophageal candidiasis should be suspected in susceptible patients with complaints of substernal odynophagia or dysphagia. The diagnosis is confirmed by endoscopically directed mucosal biopsy. Esophagitis from other causes (eg. herpes simplex virus, cytomegalovirus, or bacterial infection) may develop concomitantly with esophageal candidiasis. Treatment is determined by the clinical and immune status of the patient. Amphotericin B (Fungizone) is administered to immunocompromised patients at risk for disseminated or deeply invasive candidiasis and i",
+        "journal": "Postgraduate medicine",
+        "year": "1988",
+        "authors": [
+          "Walsh T J",
+          "Hamilton S R",
+          "Belitsos N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Adult",
+          "Agranulocytosis",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Candidiasis, Chronic Mucocutaneous",
+          "Diagnosis, Differential",
+          "Drug Interactions",
+          "Esophageal Diseases",
+          "Esophagoscopy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3041396/"
+      },
+      {
+        "pmid": "3897399",
+        "title": "Cutaneous, ocular, and osteoarticular candidiasis in heroin addicts: new clinical and therapeutic aspects in 38 patients.",
+        "abstract": "Of 38 heroin addicts treated for systemic candidal infections, 36 had metastatic cutaneous lesions (deep-seated scalp nodules and pustulosis in hairy zones), 15 had ocular localizations (mainly chorioretinitis), and 10 had osteoarticular involvement (vertebrae, costal cartilage, knees, and sacroiliac). Such cutaneous lesions have not previously been described in classical systemic candidiasis; we also observed hair invasion by candidal hyphae. Candida albicans was the exclusive species isolated, in contrast to other visceral candidiases in heroin addicts. All isolates were sensitive to amphotericin B, flucytosine, and ketoconazole. Thirty-one visceral localizations were treated only with ketoconazole. Results were favorable in 15 of 18 cutaneous, 6 of 6 ocular, and 4 of 7 osteoarticular cases of involvement. This outbreak coincided with introduction of a new heroin on the drug market in the Paris area. C. albicans was not isolated from the drug. Pathogenesis of this syndrome is unclear",
+        "journal": "The Journal of infectious diseases",
+        "year": "1985",
+        "authors": [
+          "Dupont B",
+          "Drouhet E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Amphotericin B",
+          "Bone Diseases",
+          "Candida albicans",
+          "Candidiasis",
+          "Candidiasis, Cutaneous",
+          "Eye Diseases",
+          "Female",
+          "Flucytosine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3897399/"
+      },
+      {
+        "pmid": "2711272",
+        "title": "Oral ketoconazole and flucytosine for neonatal systemic candidiasis.",
+        "abstract": "A neonate who developed systemic candidiasis was successfully treated with oral ketoconazole (Nizoral; Janssen) and flucytosine (Alcobon; Roche). The potential benefits of this combination are discussed.",
+        "journal": "South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde",
+        "year": "1989",
+        "authors": [
+          "Cotton M F",
+          "Ransome O J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Candidiasis",
+          "Drug Therapy, Combination",
+          "Flucytosine",
+          "Humans",
+          "Infant, Newborn",
+          "Infant, Premature, Diseases",
+          "Ketoconazole",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2711272/"
+      },
+      {
+        "pmid": "2264499",
+        "title": "[Systemic candidiasis and ureteral fungus ball. Ketoconazole and irrigating solutions in the management of urinary candidiasis].",
+        "abstract": "A case of systemic candidiasis is presented in a patient with one kidney in the post-operative period from a cysto-prostatouretrectomy with Bricker ureteroileal derivation, performed due to multifocal superficial vesical tumour non controllable by endoscopy. The clinical picture developed with anuria and temporary diuresis periods associated to a severe septic picture; a deep Candida albicans infection was demonstrated by laboratory tests and a fungus ball ureteral obstruction was demonstrated by radiology. Urinary derivation by means of percutaneous nephrostomy, associated with oral treatment with ketoconazole and local treatment with amphotericin B solution intermittently irrigated through the nephrostomy allowed the patient's resuperation and the fungus ball was spontaneously ejected after 30 days of treatment. The different forms of presentation of urinary candidiasis are discussed together with the diagnostic methods and present therapeutical options, with special reference to the",
+        "journal": "Actas urologicas espanolas",
+        "year": "1990",
+        "authors": [
+          "Martínez Bengoechea J",
+          "Allepuz Losa C",
+          "Gil Sanz M J",
+          "Minguez Pemán J",
+          "Rioja Sanz L A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Candidiasis",
+          "Combined Modality Therapy",
+          "Humans",
+          "Ketoconazole",
+          "Male",
+          "Middle Aged",
+          "Nephrostomy, Percutaneous",
+          "Postoperative Complications",
+          "Therapeutic Irrigation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2264499/"
+      },
+      {
+        "pmid": "9987539",
+        "title": "Antifungal agents. Part II. The azoles.",
+        "abstract": "Before 1978, amphotericin B and flucytosine were the only drugs available for the treatment of systemic fungal infections. The imidazoles, miconazole and ketoconazole, were introduced during the next 3 years. Intravenously administered miconazole served a limited therapeutic role and is no longer available. Orally administered ketoconazole, an inexpensive, effective, and convenient option for treating mucosal candidiasis, was widely used for a decade because it was the only available oral therapy for systemic fungal infections. During the 1990s, use of ketoconazole diminished because of the release of the triazoles--fluconazole and itraconazole. Fluconazole is less toxic and has several pharmacologic advantages over ketoconazole, including penetration into the cerebrospinal fluid. In addition, it has superior efficacy against systemic candidiasis, cryptococcosis, and coccidioidomycosis. Despite a myriad of drug interactions and less favorable pharmacologic and toxicity profiles in comp",
+        "journal": "Mayo Clinic proceedings",
+        "year": "1999",
+        "authors": [
+          "Terrell C L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Antifungal Agents",
+          "Azoles",
+          "Drug Interactions",
+          "Fluconazole",
+          "Humans",
+          "Immunocompromised Host",
+          "Itraconazole",
+          "Ketoconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9987539/"
+      },
+      {
+        "pmid": "2540949",
+        "title": "Itraconazole. A review of its pharmacodynamic and pharmacokinetic properties, and therapeutic use in superficial and systemic mycoses.",
+        "abstract": "Itraconazole is an orally active triazole antifungal drug which has demonstrated a broad spectrum of activity and a favourable pharmacokinetic profile. It is a potent inhibitor of most human fungal pathogens including Aspergillus sp. In non-comparative clinical trials itraconazole was shown to be extremely effective in a wide range of superficial and more serious 'deep' fungal infections when administered once or twice daily. Generally, greater than 80% of patients with superficial dermatophyte or yeast infections are cured by itraconazole. Similarly, good to excellent response rates (clinical cure or marked improvement) are achieved in paracoccidioidomycosis, histoplasmosis, sporotrichosis, blastomycosis, systemic candidiasis, coccidioidomycosis, chromomycosis, aspergillosis and cryptococcosis. Understandably, given the rare nature of some of these diseases, clinical experience is relatively limited and further evaluation, preferably controlled trials with amphotericin B and ketoconaz",
+        "journal": "Drugs",
+        "year": "1989",
+        "authors": [
+          "Grant S M",
+          "Clissold S P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Humans",
+          "Itraconazole",
+          "Ketoconazole",
+          "Mycoses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2540949/"
+      },
+      {
+        "pmid": "9785744",
+        "title": "Itraconazole in the treatment of superficial cutaneous and mucosal Candida infections.",
+        "abstract": "Superficial cutaneous and mucosal Candida infections are common and widely affect both the immunocompromised as well as the immunocompetent populations. Common infections may include Candida paronychia, cutaneous candidiasis, oral candidiasis, vulvovaginal candidiasis, and Candida onychomycosis. Although C albicans has been considered to be the most common pathogen, other Candida species have emerged as potential causes of certain infections. Currently, a variety of antifungal agents is available to treat these infections. They include fluconazole, ketoconazole, and itraconazole. These agents have been widely used to treat fungal infections, including superficial and systemic candidiasis. However, some concerns exist regarding safety associated with long-term use of ketoconazole, and emerging issues of Candida resistance to fluconazole in some patient subsets have been reported. Itraconazole has proven efficacy in treating cutaneous and mucosal Candida infections. Additionally, studies",
+        "journal": "The Journal of the American Osteopathic Association",
+        "year": "1998",
+        "authors": [
+          "Del Rosso J Q",
+          "Zellis S",
+          "Gupta A K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candidiasis",
+          "Candidiasis, Cutaneous",
+          "Humans",
+          "Itraconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9785744/"
+      },
+      {
+        "pmid": "6297871",
+        "title": "Antifungal agents used in systemic mycoses. Activity and therapeutic use.",
+        "abstract": "The development of the polyene antibiotic, amphotericin B, provided for the first time a drug which was clinically effective in many serious mycotic diseases. Unfortunately, it requires parenteral administration and is often toxic, factors which limit the total cumulative dose which can be given. Efforts to utilise combinations of amphotericin B with other agents were best realised with amphotericin B/flucytosine in cryptococcal meningitis, and to a lesser degree in systemic candidiasis. More recently, the introduction of new imidazoles has extended the range of applications of these drugs to fungal diseases. Two members of this group, miconazole and ketoconazole, are promising agents. Miconazole is a parenterally administered agent for patients acutely ill with candidiasis and other mycotic infections. It may be the drug of choice for Petriellidium boydii infections and it is an attractive alternative to amphotericin B for intrathecal administration to patients with fungal meningitis.",
+        "journal": "Drugs",
+        "year": "1983",
+        "authors": [
+          "Graybill J R",
+          "Craven P C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Antifungal Agents",
+          "Central Nervous System",
+          "Flucytosine",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Kidney",
+          "Kidney Diseases",
+          "Kinetics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6297871/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:20:41.329878",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,382 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Hydrocortisone Acetate",
+    "disease": "disease of orbital region"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01860664",
+      "title": "Phase 2 EFFICACY AND SAFETY OF HYDROCORTISONE OPHTHALMIC OINTMENT - VERSUS PLACEBO IN THE TREATMENT OF ALLERGIC CONJUNCTIVITIS",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-05",
+      "completion_date": "2017-01-01",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "The purpose of this study is to determine the safety and effectiveness of hydrocortisone ophthalmic ointment compared to placebo in the treatment of Allergic Conjunctivitis.",
+      "eligibility_criteria": "Inclusion Criteria\n\na) Diagnosis of allergic conjunctivitis. b) Must be at least 18 years of age c) Must be able and willing to comply with all treatment and follow up procedures d) Best corrected visual acuity of 0.3 logMAR or better (Snellen equivalent score of 20/40 or better) in each eye at Visi",
+      "endpoints": [
+        "Efficacy of Hydrocortisone Ophthalmic Ointment 0.5% vs. Placebo for the reduction of signs and symptoms associated with allergic conjunctivitis"
+      ],
+      "sponsor": "Koffler Vision Group",
+      "url": "https://clinicaltrials.gov/study/NCT01860664"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05222152",
+      "title": "A Double-Blind, Double-Dummy, Two-Way Cross-Over, Randomised, Phase II Study of Efficacy, Safety and Tolerability of Modified-Release Hydrocortisones: Chronocort® Versus Plenadren®, in Adrenal Insufficiency",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-11-23",
+      "completion_date": "2023-10-18",
+      "country": "United Kingdom, Germany",
+      "enrollment": 58,
+      "brief_summary": "This study is a double-blind, double-dummy, two-way cross-over, randomised, Phase II study to be conducted at approximately 6 investigational sites in 2 countries. The study will compare the efficacy, safety and tolerability of twice daily Chronocort, a modified-release hydrocortisone, with once daily Plenadren, a modified-release hydrocortisone, over a treatment period of up to 2 months in participants aged 18 years and over, diagnosed with primary Adrenal Insufficiency (AI).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female participants must be aged 18 years or older at the time of signing the informed consent.\n* Participants with known (documented) primary AI, defined as early morning pre-dose cortisol \\<50 nmol/L and currently treated with glucocorticoid as replacement therapy. P",
+      "endpoints": [
+        "To measure the change in morning serum cortisol levels from baseline, after 4 weeks treatment with Chronocort compared with 4 weeks treatment with Plenadren (crossover study)."
+      ],
+      "sponsor": "Neurocrine UK Limited",
+      "url": "https://clinicaltrials.gov/study/NCT05222152"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00039715",
+      "title": "Effect of Hydrocortisone Infusion on Hippocampal Glucose Metabolism, Neuropsychological Test Performance and Reexperiencing Symptoms in Patients With Post-Traumatic Stress Disorder (PTSD)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2002-06",
+      "completion_date": "2004-09",
+      "country": "United States",
+      "enrollment": 93,
+      "brief_summary": "The purpose of this study is to determine whether people who develop Post-Traumatic Stress Disorder (PTSD) after a trauma have increased sensitivity to the effects of a stress hormone.\n\nPatients with PTSD have small hippocampal volume and deficits in hippocampal-mediated memory as compared to healthy people. However, it is unclear whether the smaller hippocampi are a consequence of PTSD or a risk factor for the development of PTSD. Some researchers believe that people who develop PTSD have an in",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n1. The study sample will consist of:\n\n   Patients with a primary diagnosis of PTSD due to non-combat or combat related trauma according to DSM-IV.\n\n   Subjects with non-combat related traumatic experiences without current PTSD and\n\n   Healthy subjects without current or past his",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00039715"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06018727",
+      "title": "Role Of Sensitivity to neuroEndocrine Systems in Social Decisions",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2024-07",
+      "completion_date": "2025-07",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this research study is to investigate how personality traits and neuroendocrine systems relate to decision-making patterns in individuals 18-45 years old. The main question it aims to answer is how neuroendocrine activity impacts decision-making.\n\nThis study has two components. First, there will be an online session that participants complete to consent into the study, complete self-report surveys and a cognitive assessment, and confirm their eligibility for the second part of the",
+      "eligibility_criteria": "Inclusion Criteria:\n\nBorderline Personality Disorder (BPD) group:\n\n* Score of 38 or higher on PAI-BOR\n* Participants in the BPD group will be primarily recruited from the two DEPENd lab studies that maintain large samples of BPD participants. To ensure maximal similarity between BPD participants rec",
+      "endpoints": [
+        "Goal-directed decision-making in the Social Decision Tree Task (SDTT)",
+        "Change in salivary cortisol",
+        "Pupil diameter during SDTT"
+      ],
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "url": "https://clinicaltrials.gov/study/NCT06018727"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02249676",
+      "title": "Autologous Mesenchymal Stem Cells for the Treatment of Progressive and Refractory Neuromyelitis Optica Spectrum Disorders: an Open-label Phase 2a Proof-of-concept Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2014-12-31",
+      "country": "China",
+      "enrollment": 15,
+      "brief_summary": "Neuromyelitis optica (NMO) is a demyelinating and degenerative disorder of the central nervous system affecting vision and brain and spinal cord function which leads to accumulating disability with a 5 year-mortality of approximately 30%. Survivors are typically left with severe morbidity secondary to blindness, quadriparesis and respiratory failure. No agent has been found to be highly effective in halting disease activity.Based on recent outcomes of Multipotent mesenchymal stromal cells in aut",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinically definite neuromyelitis optica or neuromyelitis optica spectrum disorder\n* Age \\> 18 year\n* EDSS \\> 3\n* Progression continued relapses or worsening MRI after at least a year of attempted therapy as evidenced by one or more of the following:\n\n  * Increase of 1 EDSS po",
+      "endpoints": [
+        "EDSS"
+      ],
+      "sponsor": "Tianjin Medical University General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02249676"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05349006",
+      "title": "A Randomized, Placebo-controlled Phase 3 Trial of Azathioprine for the Prevention of Relapse in Myelin-oligodendrocyte-glycoprotein (MOG)-Antibody Associated Disease",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-12-12",
+      "completion_date": "2029-12-12",
+      "country": "France",
+      "enrollment": 126,
+      "brief_summary": "MOG-IgG associated disease (MOGAD) is a rare inflammatory disease of the central nervous system recently described. Initially reported as monophasic, data from incident cohorts suggests that around 50% of adult patients with MOG-Ab may relapse within the first two years of the disease, with most of relapses occurring early after disease onset.\n\nNo randomized controlled trial has ever been performed and therapeutic guidelines for this disease remain unclear especially after a single event. In sho",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* First attack of documented acute demyelinating syndrome of the central nervous system, within the past 3 months, whatever the severity or the clinical phenotype\n* Tested positive for MOG-Ab, confirmed in a centralized lab (Lyon referral centre)\n* Ability of th",
+      "endpoints": [
+        "Time to first relapse (in days), comparing azathioprine-treated vs placebo-treated patients during a randomized control period of a maximum of three years."
+      ],
+      "sponsor": "Hospices Civils de Lyon",
+      "url": "https://clinicaltrials.gov/study/NCT05349006"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05159284",
+      "title": "Prospective Evaluation of the Efficacy and Safety of Topical Hydrocortisone Treatment on Clinical Signs and Symptoms of Dry Eye Disease Associated With Moderate Meibomian Gland Dysfunction",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2021-11-09",
+      "completion_date": "2025-03",
+      "country": "Spain",
+      "enrollment": 54,
+      "brief_summary": "The purpose of this study is assess the efficacy and safety of topical hydrocortisone (Softacort) for treatment of clinical signs and symptoms of dry eye disease when associated with moderate meibomian gland dysfunction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years\n2. Documented diagnosis of DE defined by TBUT value ≤ 5 seconds and Schirmer I test value \\< 10 mm/5 min\n3. Normal ophthalmic findings except dry eye disease and meibomian gland dysfunction\n4. OSDI score \\> 23 (moderate symptoms)\n5. Documented diagnosis of MGD ",
+      "endpoints": [
+        "Efficacy endpoint: Change from baseline in Meibomian Gland Dysfunction Dry Eye symptom score (MGD-DE) at 14 days",
+        "Safety endpoint: Incidence of increased intraocular pressure and change from baseline at Day 0, Day 14, Day 28 and Day 84"
+      ],
+      "sponsor": "Laboratorios Thea, Spain",
+      "url": "https://clinicaltrials.gov/study/NCT05159284"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03539601",
+      "title": "A PHASE 3B/4, MULTICENTER, RANDOMIZED, ASSESSOR BLINDED, VEHICLE AND ACTIVE (TOPICAL CORTICOSTEROID AND CALCINEURIN INHIBITOR) CONTROLLED, PARALLEL GROUP STUDY OF THE EFFICACY, SAFETY, AND LOCAL TOLERABILITY OF CRISABOROLE OINTMENT, 2% IN PEDIATRIC AND ADULT SUBJECTS (AGES 2 YEARS AND OLDER) WITH MILD TO MODERATE ATOPIC DERMATITIS",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2018-04-27",
+      "completion_date": "2020-12-11",
+      "country": "Poland, Italy, Switzerland, Sweden, Germany, United States, United Kingdom",
+      "enrollment": 237,
+      "brief_summary": "This 4-week study will evaluate the safety and efficacy of crisaborole ointment 2%; crisaborole vehicle; topical corticosteroid and topical calcineurin inhibitor, applied twice daily (BID) in subjects who are at least 2 years of age with mild-moderate AD.\n\nA Sub-Study of Optical Coherence Tomography and Biomarkers in Subjects ages 2 to \\<18 years old, with Mild to Moderate Atopic Dermatitis, treated with Crisaborole Ointment, 2% or Crisaborole Vehicle Ointment or Hydrocortisone Butyrate 0.1% Cre",
+      "eligibility_criteria": "Inclusion Criteria:\n\nIs male or female 2 years and older at the Screening visit/time of informed consent/assent diagnosed with mild-moderate AD (according to the criteria of Hanifin and Rajka), of at least 5% BSA.\n\nExclusion Criteria:\n\nHas any clinically significant medical disorder, condition, or d",
+      "endpoints": [
+        "Percent Change From Baseline in the Eczema Area and Severity Index (EASI) Total Score at Day 29",
+        "Number of Participants With Treatment Emergent Adverse Events (TEAEs), Serious Adverse Events (SAEs) and Treatment Discontinuations Due to AEs and SAEs",
+        "Number of Participants With Local Tolerability Adverse Events (AEs)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT03539601"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05724056",
+      "title": "Comparison of the Efficacy and Safety of Idroflog® (Sodium Hyaluronate and Hydrocortisone) and Sodium Hyaluronate for the Treatment of Dry Eye Disease",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-03-01",
+      "completion_date": "2023-12-01",
+      "country": "France",
+      "enrollment": 130,
+      "brief_summary": "This study aims at demonstrating the non-inferiority of Idroflog compared to sodium hyaluronate 0.18% for the disease improvement of people with documented history of dry eyes and use of tear substitutes for at least 3 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Aged ≥ 18 years\n* Documented history of dry eyes and use of tear substitutes for at least 3 months within the last year",
+      "endpoints": [
+        "Change From Baseline in fluorescein corneal Staining (Oxford Scale 0-5) between inclusion and 30 days"
+      ],
+      "sponsor": "Alfa Intes Industria Terapeutica Splendore s.r.l.",
+      "url": "https://clinicaltrials.gov/study/NCT05724056"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06842316",
+      "title": "In Vitro Effects of Phytocannabinoids on Immune Response and Autophagy During Chronic Immune-mediated Inflammatory Diseases",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-04-10",
+      "completion_date": "2027-04-09",
+      "country": "France",
+      "enrollment": 100,
+      "brief_summary": "Cannabis, in addition to its psychotropic properties, could have anti-inflammatory and immunomodulatory effects. Phytocannabinoids (pCBs) are a group of molecules naturally secreted by the cannabis plant. The major pCBs are cannabidiol (CBD) and Δ9-tetrahydrocannabinol Δ9 (THC). Only THC has psychotropic effects, which CBD does not have. Alongside these two main components, there is a wide variety of other molecules, such as other pCBs and terpenes which could increase the effects on immune syst",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female ≥ 18 years old\n2. Diagnosis confirmed by a rheumatologist of RA or spondyloarthropathy (with or without IBD) or psoriatic arthritis (with or without active psoriasis) or systemic lupus erythematosus or Sjögren's disease\n3. Patient who has expressed consent to p",
+      "endpoints": [
+        "The primary outcome is to evaluate the biological effect of exposure of blood cells from patients suffering from IMID to different varieties of pCB extracts on the inflammatory profile.",
+        "The primary outcome is to evaluate the immunological effect of exposure of blood cells from patients suffering from IMID to different varieties of pCB extracts on the inflammatory profile."
+      ],
+      "sponsor": "Centre Hospitalier Régional d'Orléans",
+      "url": "https://clinicaltrials.gov/study/NCT06842316"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002816",
+      "title": "EXTRAMEDULLARY RELAPSE AND OCCULT BONE MARROW INVOLVEMENT IN CHILDHOOD ACUTE LYMPHOBLASTIC LEUKEMIA: A PHASE III GROUP-WIDE STUDY",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1996-12",
+      "completion_date": "2006-04",
+      "country": "United States, Australia, Canada",
+      "enrollment": 120,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die.\n\nPURPOSE: Phase III trial to compare the effectiveness of combination chemotherapy in treating children who have relapsed acute lymphoblastic leukemia.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Acute lymphoblastic leukemia (ALL) with isolated extramedullary relapse Relapse occurred during or following front-line therapy for ALL Initial diagnosis of more than 25% blasts of L1 or L2 morphology No leukemic marrow (M1) by conventional assessment Patients with B precurs",
+      "endpoints": [
+        "Event Free Survival"
+      ],
+      "sponsor": "Children's Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT00002816"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02112019",
+      "title": "Endoscopic Treatment of Salivary Glands Affected by Sjögren's Syndrome; A Randomised Controlled Pilot Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2014-06",
+      "completion_date": "2017-12",
+      "country": "Netherlands",
+      "enrollment": 50,
+      "brief_summary": "Sjögren's syndrome (SS) is an autoimmune inflammatory disorder of the exocrine glands. It particularly affects the lacrimal and salivary glands. Severe dry mouth and eyes are frequently reported as presenting symptoms. These symptoms are in many cases accompanied by nonspecific symptoms, such as malaise and fatigue. In addition, extraglandular manifestations, like purpura, polyneuropathy, and arthritis, can be present. SS affects mainly women with a female/male ratio of 9:1 and can occur at all ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosed (by the European League Against Rheumatism guidelines) primary or secondary Syndrome of Sjögren\n* Age: \\> 18 years and \\< 70 years\n* A remaining salivary flow\n\nExclusion Criteria:\n\n* A complete lack of measurable salivary flow, also after stimulation of the glands ",
+      "endpoints": [
+        "Change, compared to baseline and to a non-treatment control group, in unstimulated whole mouth saliva in ml/min after sialoendoscopic treatment"
+      ],
+      "sponsor": "Amsterdam UMC, location VUmc",
+      "url": "https://clinicaltrials.gov/study/NCT02112019"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00533962",
+      "title": "Anterior Juxtascleral Depot of Anecortave Acetate: Intraocular Pressure Reduction in Glaucoma Patients",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2007-08",
+      "completion_date": "",
+      "country": "Brazil",
+      "enrollment": 30,
+      "brief_summary": "Introduction: Ocular administration of glucocorticoids is a common and effective treatment for several ocular diseases. However it is often complicated with the elevation of intraocular pressure (IOP). Anecortave acetate (AA) is an analog of cortisol acetate and lacks the typical anti-inflammatory and immunosuppressive properties of glucocorticoids. The effect of its anterior juxtascleral depot (AJD) injection has been evaluated in cases of glaucoma caused by intravitreal triamcinolone acetonide",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Advanced glaucoma cases with surgery or cyclophotocoagulation indication (IOP over 25 mmHg)\n* Patients should be under maximum tolerated medication\n* Low best corrected visual acuity (worse than 20/100)\n\nExclusion Criteria:\n\n* Under 18 or over 80",
+      "endpoints": [
+        "Intraocular pressure"
+      ],
+      "sponsor": "Federal University of São Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT00533962"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04536129",
+      "title": "Effects of Topical Low Dose Preservative-free Hydrocortisone on Intraocular Pressure in Patients With and Without Glaucoma",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-11-04",
+      "completion_date": "2020-03-04",
+      "country": "Italy",
+      "enrollment": 90,
+      "brief_summary": "Evaluation of the safety and efficacy of hydrocortisone eye drops in the treatment of OSD (ocular surface disease) patients with and without glaucoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age of at least 18 years\n* diagnosis of OSD (Ocular Surface Disease)\n* normal ophthalmic ﬁndings except history of OSD for at least 3 months, and current therapy with topical lubricants for at least 3 months\n* POAG (primary open-angle glaucoma ) patients on medical therapy\n\nEx",
+      "endpoints": [
+        "Intraocular pressure(IOP)",
+        "OSDI (Ocular Surface Disease Index) questionnaire"
+      ],
+      "sponsor": "University of Molise",
+      "url": "https://clinicaltrials.gov/study/NCT04536129"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06576245",
+      "title": "Efficacy of Quantum Molecular Resonance Combined With Intense Pulsed Light in Mixed Dry Eye: A Prospective Clinical Study.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-09-01",
+      "completion_date": "2024-02-28",
+      "country": "Italy",
+      "enrollment": 25,
+      "brief_summary": "This study examines the effectiveness of combining Quantum Molecular Resonance (QMR) and Intense Pulsed Light (IPL) treatments for Mixed Dry Eye, a condition where both tear production and tear quality are compromised. Twenty-five patients received both treatments over a period of six weeks, and their symptoms and tear quality were monitored for three months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Diagnosed with Mixed Dry Eye (MDE)\n* Ocular Surface Disease Index (OSDI) score of 13 or higher\n* Non-Invasive Tear Film Break-Up Time (NIBUT) less than 10 seconds\n* Lipid Layer Thickness (LLT) less than 75 nm\n* Schirmer I Test (ST) without anesthesia le",
+      "endpoints": [
+        "Improvement in Ocular Surface Disease Index (OSDI) Score"
+      ],
+      "sponsor": "University of Seville",
+      "url": "https://clinicaltrials.gov/study/NCT06576245"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01353313",
+      "title": "A Randomized Controlled Trial of the Effect of Hydrocortisone on Survival Without Bronchopulmonary Dysplasia and on Neurodevelopmental Outcomes at 22 - 26 Months of Age in Intubated Infants < 30 Weeks Gestation Age",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-08-11",
+      "completion_date": "2024-09-12",
+      "country": "United States",
+      "enrollment": 800,
+      "brief_summary": "The Hydrocortisone and Extubation study will test the safety and efficacy of a 10 day course of hydrocortisone for infants who are less than 30 weeks estimated gestational age and who are intubated at 14-28 days of life. Infants will be randomized to receive hydrocortisone or placebo. This study will determine if hydrocortisone improves infants'survival without moderate or severe BPD and will be associated with improvement in survival without moderate or severe neurodevelopmental impairment at 2",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* infants \\<30 weeks estimated gestational age\n* inborn at an NRN site or were admitted to an NRN site before 72 hours postnatal age\n* have received at least 7days of mechanical ventilation;\n* are receiving mechanical ventilation through an endotracheal tube .\n\nExclusion Criteri",
+      "endpoints": [
+        "Survival Without Moderate/Severe Physiologic Bronchopulmonary Dysplasia (BPD)",
+        "Survival Without Moderate/Severe Neurodevelopmental Impairment (NDI)"
+      ],
+      "sponsor": "NICHD Neonatal Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT01353313"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03998358",
+      "title": "Characterization of Fatigue in Military Personnel With Traumatic Brain Injuries",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2021-03-19",
+      "completion_date": "2021-03-19",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Background:\n\nPeople who have had a traumatic brain injury (TBI) often experience fatigue. Fatigue is the feeling tired all the time. Researchers want to learn more about how TBI and fatigue are related.\n\nObjective:\n\nTo better understand fatigue after TBI in active duty military and veterans.\n\nEligibility:\n\nActive duty service members or veterans ages 25-40 who have sustained at least 1 TBI more than 6 months but less than 5 years ago\n\nDesign:\n\nParticipants will be screened with:\n\n* Medical histo",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n* Are 25 to 40 years of age\n* Are active duty service members or veterans\n* May be NIH employees/staff who are either active duty service members or veterans; except for those who are employed by NINR or subordinates, relatives, and/or co-workers of NINR employees/staff\n* Have ",
+      "endpoints": [
+        "Determine differences in objective sleep measures determined by actigraphy and PSG data in military personnel with and without fatigue following a TBI."
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT03998358"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03907865",
+      "title": "Clinical Efficacy of Topical Hydrocortisone 0.335% (Softacort®) in Patients With Chronic Dry Eye Disease and Associated Ocular Surface Inflammation",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-03-27",
+      "completion_date": "2019-01-02",
+      "country": "Austria",
+      "enrollment": 60,
+      "brief_summary": "Dry eye disease (DED) is a highly prevalent ocular condition and induces a significant burden to the affected patients. Regardless of the underlying etiology, DED is associated with increased inflammation of the entire ocular surface including the adnexa, conjunctiva and cornea. As such, there is evidence from in vitro, animal and clinical studies that this inflammatory response of the ocular surface plays a pathophysiological key role in the development of DED. The Dry Eye Workshop 2007 (DEWS) ",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Age ≥ 18 years\n* Normal ophthalmic findings except dry eye disease\n* Ametropy ≤ 6 diopters\n* Chronic dry eye defined as longer than six months since diagnosis\n* OSDI ≥ 22\n* Conjunctival Hyperemia ≥ Grade 3 (Efron Scale)\n* Current use of topical lubricants since at least 3 mont",
+      "endpoints": [
+        "Conjunctival hyperemia"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT03907865"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02153944",
+      "title": "Cognitive vs. Emotional Psycho-Pharmacological Manipulations of Fear vs. Anxiety",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-06-16",
+      "completion_date": "2021-10-07",
+      "country": "United States",
+      "enrollment": 142,
+      "brief_summary": "Objective:\n\nThe overall aim of this protocol is to examine the effect of pharmacological manipulations of affective and cognitive processes on anxiety and task performance. Ultimately, the goal is 1) to provide insight into the relative influence of cognitive and affective states on anxiety, 2) generate theoretical models that can be applied to a better understanding of the interaction between cognition and emotion, 3) develop a better screening approach to candidate anxiolytics, and 4) help for",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n* Ages 18-50\n* Males and females\n* Subjects give their own consent\n\nEXCLUSION CRITERIA:\n\n* Clinically significant prior exposure to medications, that based on the investigator s judgment, may impact the study, such as Ritalin (MPH).\n* Any significant medical or neurological pro",
+      "endpoints": [
+        "Magnitude of Startle Reflex During Safe Condition",
+        "Magnitude of Startle Reflex During Threat Condition",
+        "Proportion of Correct Responses in the Working Memory Task (N-back) - Safe Condition"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT02153944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04597762",
+      "title": "Effect of Ciclosporin Eyedrops on Ocular Symptoms and Optical Quality in Patients With Sjögren Syndrome",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-08-31",
+      "completion_date": "2021-03-31",
+      "country": "Austria",
+      "enrollment": 12,
+      "brief_summary": "Keratoconjunctivitis sicca, also known as dry eye syndrome, is one of the most common ophthalmological diseases and is treated with tear substitutes to moisten the surface of the eye and, in more severe cases of this disease, with local anti-inflammatory therapy with corticosteroids or ciclosporin A. In patients with rheumatological diseases, such as Sjögren's syndrome, dry eye syndrome of severe extent occurs particularly frequently, which is why topical anti-inflammatory therapy is often neces",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of severe keratoconjunctivitis sicca defined by:\n* Staining of the cornea ≥ grade III according to the Oxford scale\n* OSDI value ≥ 12\n* Age between 18 and 90 years\n* Primary or secondary Sjogren's syndrome (defined according to the American-European Consensus Group c",
+      "endpoints": [
+        "tearfilm breakup time",
+        "corneal fluorescein staining",
+        "corneal optical aberrations"
+      ],
+      "sponsor": "Hospital Hietzing",
+      "url": "https://clinicaltrials.gov/study/NCT04597762"
+    }
+  ],
+  "timestamp": "2026-03-04T13:15:56.523203",
+  "success": true,
+  "error_message": null
+}

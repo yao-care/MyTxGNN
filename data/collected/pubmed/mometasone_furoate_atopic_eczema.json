@@ -1,0 +1,590 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Mometasone Furoate",
+    "disease": "atopic eczema",
+    "query_string": "Mometasone Furoate AND atopic eczema"
+  },
+  "data": {
+    "query": "Mometasone Furoate AND atopic eczema",
+    "results": [
+      {
+        "pmid": "38781033",
+        "title": "Efficacy and safety of self-made WenyangJianpi-qushi Decoction combined with mometasone furoate cream in the treatment of atopic dermatitis of spleen deficiency and dampness accumulation type.",
+        "abstract": "Introduction: This work was to explore the efficacy and safety of self-made WenyangJianpi-qushi Decoction plus mometasone furoate cream in atopic dermatitis (AD) of spleen deficiency and dampness accumulation type. Material and method: 120 patients with this kind of atopic dermatitis were grouped: The Observation group (disease health education + basic treatment + mometasone furoate cream + self-made Decoction) and The Control group (disease health education + basic treatment + mometasone furoate cream), 60 cases in each group. The SCORAD score, serum IgE level, peripheral blood eosinophils, adverse events, recurrence rate, and total effective rate after treatment were observed.Result: Through treatment, SCORAD score of the observation group (29.96 ± 2.88) was lower as against controls (36.04 ± 3.12), p < 0.05. Through treatment, the peripheral blood eosinophil count in the observation group was (311.26 ± 50.19) 106/L, which was lower than (582.71 ± 54.75) 106/L in controls; the serum ",
+        "journal": "Cutaneous and ocular toxicology",
+        "year": "2024",
+        "authors": [
+          "Tan Jinhui",
+          "Fan Yuting",
+          "Liu Luhui",
+          "Deng Lixia",
+          "Li Xianzhou"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dermatitis, Atopic",
+          "Humans",
+          "Mometasone Furoate",
+          "Male",
+          "Female",
+          "Drugs, Chinese Herbal",
+          "Adult",
+          "Adolescent",
+          "Young Adult",
+          "Eosinophils"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38781033/"
+      },
+      {
+        "pmid": "26836729",
+        "title": "Effect of Subcutaneous Dupilumab on Nasal Polyp Burden in Patients With Chronic Sinusitis and Nasal Polyposis: A Randomized Clinical Trial.",
+        "abstract": "Dupilumab has demonstrated efficacy in patients with asthma and atopic dermatitis, which are both type 2 helper T-cell-mediated diseases.",
+        "journal": "JAMA",
+        "year": "2016",
+        "authors": [
+          "Bachert Claus",
+          "Mannent Leda",
+          "Naclerio Robert M",
+          "Mullol Joaquim",
+          "Ferguson Berrylin J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Asthma",
+          "Chronic Disease",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26836729/"
+      },
+      {
+        "pmid": "38430165",
+        "title": "Efficacy of Mometasone Furoate Cream Sodium Alginate Skin Repair Mask in Atopic Dermatitis Treatment.",
+        "abstract": "To observe the clinical effect of mometasone furoate cream sodium Alginate Skin Repair Mask in the treatment of atopic dermatitis (AD). By assessing the combined use of these two treatments, the study aims to address a gap in knowledge regarding the effectiveness and safety of adjuvant therapies for AD, particularly in the context of Alginate Skin Repair Mask.",
+        "journal": "Alternative therapies in health and medicine",
+        "year": "2024",
+        "authors": [
+          "Ma Haili",
+          "Zhao Ying",
+          "Xia Xiujuan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Young Adult",
+          "Alginates",
+          "Dermatitis, Atopic",
+          "Dermatologic Agents",
+          "Mometasone Furoate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38430165/"
+      },
+      {
+        "pmid": "31865821",
+        "title": "Comparing the effects of proactive treatment with tacrolimus ointment and mometasone furoate on the epidermal barrier structure and ceramide levels of patients with atopic dermatitis.",
+        "abstract": "The epidermal skin barrier and lipids that are integral to its structure are impaired in atopic dermatitis (AD). Current treatment guidelines include proactive therapy.",
+        "journal": "The Journal of dermatological treatment",
+        "year": "2021",
+        "authors": [
+          "Dähnhardt Dorothee",
+          "Bastian Mike",
+          "Dähnhardt-Pfeiffer Stephan",
+          "Buchner Matthias",
+          "Fölster-Holst Regina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ceramides",
+          "Dermatitis, Atopic",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Mometasone Furoate",
+          "Ointments",
+          "Tacrolimus",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31865821/"
+      },
+      {
+        "pmid": "22948032",
+        "title": "Efficacy and patient-reported outcomes of a new mometasone cream treating atopic eczema.",
+        "abstract": "This double-blind controlled phase II study was conducted to compare a newly developed formulation of mometasone furoate with a water content of 33% (Monovo® Cream) and with a smooth consistency versus the commercially available fatty cream of mometasone furoate (Ecural® Fettcreme) in terms of efficacy, cosmetic properties, and patients' acceptance. In 20 patients with mild to moderate atopic eczema, the preparations were tested intraindividually in a randomized mode and in two comparable lesion areas. Both preparations were equally effective and well tolerated. Due to improved cosmetic properties, the new formulation was preferred by the patients when asked for preferential use. Quality of life could be improved by treating with both preparations.",
+        "journal": "Skin pharmacology and physiology",
+        "year": "2012",
+        "authors": [
+          "Ruzicka Thomas",
+          "Willers Christoph",
+          "Wigger-Alberti Walter"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Dermatitis, Atopic",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Mometasone Furoate",
+          "Pregnadienediols",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22948032/"
+      },
+      {
+        "pmid": "23551950",
+        "title": "Comparison of effects of tacrolimus ointment and mometasone furoate cream on the epidermal barrier of patients with atopic dermatitis.",
+        "abstract": "The skin barrier plays a crucial role in the pathophysiology of atopic dermatitis. The quality of the skin barrier can be assessed using a new semi-quantitative method to measure intercellular lipid lamellae. This procedure was used to evaluate the influence of the topical application of the calcineurin inhibitor tacrolimus 0.1% ointment (Protopic®) versus mometasone furoate cream (Ecural®) on the quality of the skin barrier.",
+        "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+        "year": "2013",
+        "authors": [
+          "Dähnhardt-Pfeiffer Stephan",
+          "Dähnhardt Dorothee",
+          "Buchner Matthias",
+          "Walter Kersten",
+          "Proksch Ehrhardt"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Anti-Allergic Agents",
+          "Anti-Inflammatory Agents",
+          "Dermatitis, Atopic",
+          "Epidermis",
+          "Female",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23551950/"
+      },
+      {
+        "pmid": "2033138",
+        "title": "Comparison of mometasone furoate 0.1% cream and hydrocortisone 1.0% cream in the treatment of childhood atopic dermatitis.",
+        "abstract": "We conducted a 6-week randomized, blinded study that compared mometasone furoate 0.1% cream, applied once daily, and hydrocortisone 1.0% cream, applied twice daily, in 48 children with moderate to severe atopic dermatitis. Mometasone furoate, a moderate-potency steroid, produced significantly greater improvement than the low-potency hydrocortisone used twice daily. The difference in therapeutic response was particularly evident in patients with involvement of more than 25% of their body surface area. Morning plasma cortisol levels were assayed before treatment, after 1 week of therapy, and at the end of the clinical trial. Plasma cortisol levels were transiently suppressed in one child who was treated with hydrocortisone and in none of the children treated with mometasone.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1991",
+        "authors": [
+          "Vernon H J",
+          "Lane A T",
+          "Weston W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anti-Inflammatory Agents",
+          "Child",
+          "Child, Preschool",
+          "Dermatitis, Atopic",
+          "Double-Blind Method",
+          "Humans",
+          "Hydrocortisone",
+          "Infant",
+          "Mometasone Furoate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2033138/"
+      },
+      {
+        "pmid": "9035916",
+        "title": "Topical corticosteroids: experience with mometasone furoate.",
+        "abstract": "",
+        "journal": "Current problems in dermatology",
+        "year": "1995",
+        "authors": [
+          "Peets E A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adolescent",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Aged",
+          "Animals",
+          "Atrophy",
+          "Child",
+          "Child, Preschool",
+          "Clinical Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9035916/"
+      },
+      {
+        "pmid": "12118496",
+        "title": "Therapeutic efficacy and safety of loratadine syrup in childhood atopic dermatitis treated with mometasone furoate 0.1 per cent cream.",
+        "abstract": "Atopic dermatitis is a common skin disease in Thai children. The treatment of atopic dermatitis requires topical corticosteroids, emollients, systemic antihistamine as well as avoidance of the precipitating factors. A double blind multicenter placebo controlled study was conducted to assess the therapeutic efficacy of topical mometasone furoate 0.1 per cent cream in combination with loratadine syrup. Forty-eight patients, 23 boys and 25 girls, mean age 73.67 months, with atopic dermatitis were included in the study. The severity of the disease was measured by using the SCORAD index including the degree of erythema, dryness, edema/papulation, oozing/crusting, lichenification, and excoriation. Total area involved was measured and a target area of dermatitis was selected for specific evaluation. The degree of clinical signs and pruritic symptom was graded. The sensation of pruritus, disturbance of sleep due to pruritus, and feeling of sleepiness in the morning were recorded. Mometasone fu",
+        "journal": "Journal of the Medical Association of Thailand = Chotmaihet thangphaet",
+        "year": "2002",
+        "authors": [
+          "Chunharas Amornsri",
+          "Wisuthsarewong Wanee",
+          "Wananukul Siriwan",
+          "Viravan Suchitra"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Antipruritics",
+          "Child",
+          "Child, Preschool",
+          "Dermatitis, Atopic",
+          "Dosage Forms",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Glucocorticoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12118496/"
+      },
+      {
+        "pmid": "41730175",
+        "title": "Drugs for atopic dermatitis.",
+        "abstract": "",
+        "journal": "The Medical letter on drugs and therapeutics",
+        "year": "2026",
+        "authors": [],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41730175/"
+      },
+      {
+        "pmid": "39036951",
+        "title": "Long-lasting otic solution containing mometasone furoate can influence intradermal testing in dogs with healthy ears and otitis externa.",
+        "abstract": "Topical therapy is preferred for otitis externa (OE) in dogs. Otic products commonly contain glucocorticoids that can be systemically absorbed and possibly interfere with diagnostic tests such as intradermal testing (IDT).",
+        "journal": "Veterinary dermatology",
+        "year": "2024",
+        "authors": [
+          "Clegg Jennifer L",
+          "Souza Clarissa P",
+          "Sander William E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Dogs",
+          "Mometasone Furoate",
+          "Otitis Externa",
+          "Dog Diseases",
+          "Male",
+          "Female",
+          "Intradermal Tests",
+          "Administration, Topical",
+          "Ear"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39036951/"
+      },
+      {
+        "pmid": "32555122",
+        "title": "Drugs for atopic dermatitis.",
+        "abstract": "",
+        "journal": "The Medical letter on drugs and therapeutics",
+        "year": "2020",
+        "authors": [],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Administration, Oral",
+          "Animals",
+          "Dermatitis, Atopic",
+          "Dermatologic Agents",
+          "Humans",
+          "Injections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32555122/"
+      },
+      {
+        "pmid": "38810934",
+        "title": "Low drug load, high retention mometasone furoate cream with polyglyceryl - 3 oleate as a chemical enhancer: Formulation development, in vivo and in vitro evaluation and molecular mechanisms.",
+        "abstract": "The study aimed to create a low loading, high retention, easier to apply O/W mometasone furoate (MF) cream using a chemical enhancer (CE) approach to provide more options for patients with atopic dermatitis (AD) and to investigate molecular mechanisms of its increased release and retention. A Box-Behnken design determined the optimal formulation based on stability and in vitro skin retention. Evaluations included appearance, rheological properties, irritation, in vivo tissue distribution and pharmacodynamics. Molecular mechanisms of enhanced release were studied using high-speed centrifugation, molecular dynamics and rheology. The interaction between the CE, MF and skin was studied by tape stripping, CLSM, ATR-FTIR and SAXS. The formulation was optimized to contain 0.05% MF and used 10% polyglyceryl-3 oleate (POCC) as the CE. There was no significant difference from Elocon® cream in in vivo retention and pharmacodynamics but increased in vivo retention by 3.14-fold and in vitro release",
+        "journal": "International journal of pharmaceutics",
+        "year": "2024",
+        "authors": [
+          "Jia Wenxuan",
+          "Pang Yu",
+          "Zhao Chenyu",
+          "Cai Yu",
+          "Zhang Yang"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Mometasone Furoate",
+          "Animals",
+          "Drug Liberation",
+          "Skin Cream",
+          "Skin",
+          "Administration, Cutaneous",
+          "Male",
+          "Skin Absorption",
+          "Chemistry, Pharmaceutical",
+          "Glycerol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38810934/"
+      },
+      {
+        "pmid": "11576413",
+        "title": "The effectiveness of wet wrap dressings using 0.1% mometasone furoate and 0.005% fluticasone proprionate ointments in the treatment of moderate to severe atopic dermatitis in children.",
+        "abstract": "Various types of dressings have been used successfully in the treatment of atopic dermatitis. In this study we looked at the efficacy of two of the newer topical steroids when applied under wet wrap dressings for the treatment of refractory atopic dermatitis in children. Forty children with moderate to severe disease were randomized to receive either one-tenth-strength diluted 0.1% mometasone furoate ointment or one-tenth-strength diluted 0.005% fluticasone proprionate ointment. These were applied once a day over a 4-week period without wet wraps, or for 2 weeks without wet wraps followed by 2 weeks of application under wet wraps. There was a 2-week period for all patients when the topical treatment was standardized. At weekly follow-ups, patients were assessed by a single, blinded observer and objectively scored for disease extent and severity. A subjective score was also given for the impact of eczema on daily living. There was significant improvement in the disease severity from bas",
+        "journal": "Pediatric dermatology",
+        "year": "2001",
+        "authors": [
+          "Pei A Y",
+          "Chan H H",
+          "Ho K M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Analysis of Variance",
+          "Androstadienes",
+          "Anti-Inflammatory Agents",
+          "Bandages",
+          "Child",
+          "Child, Preschool",
+          "Dermatitis, Atopic",
+          "Dose-Response Relationship, Drug"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11576413/"
+      },
+      {
+        "pmid": "17590198",
+        "title": "Short-term growth in children with eczema during treatment with topical mometasone furoate and tacrolimus.",
+        "abstract": "Treatment with topical glucocorticoids in children with atopic eczema may be associated with systemic adverse effects, such as suppression of growth.",
+        "journal": "Acta paediatrica (Oslo, Norway : 1992)",
+        "year": "2007",
+        "authors": [
+          "Gradman Josefine",
+          "Wolthers Ole D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anti-Allergic Agents",
+          "Bone Development",
+          "Child",
+          "Child, Preschool",
+          "Cross-Over Studies",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Eczema",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17590198/"
+      },
+      {
+        "pmid": "36107506",
+        "title": "Effectiveness of calamine lotion as an adjunctive therapy to mometasone furoate ointment in the treatment of infant eczema: A retrospective study.",
+        "abstract": "This retrospective study investigated the effectiveness of calamine lotion (CL) as an adjunctive therapy to mometasone furoate ointment (MFO) in the treatment of infant eczema (IE). This retrospective study analyzed the electronic medical records of 50 IE infants. They were allocated to a treatment group or a control group, with 25 subjects in each group. All infants in both groups received MFO. In addition, infants in the treatment group underwent CL. The outcomes were effectiveness based on the eczema area and severity index, lesion area, and pruritus severity. We analyzed the outcomes before and after treatment. The results of this study showed that infants in the treatment group had more effective in effectiveness based on eczema area and severity index (P < .01), lesion area (P < .01), and pruritus severity (P = .01) than those in the control group. However, no medical records reported any adverse events in either group. The results of this study showed that CL added to MFO was mo",
+        "journal": "Medicine",
+        "year": "2022",
+        "authors": [
+          "Meng Yuan-Cui",
+          "Fan Jin-Chao",
+          "Bian Wei-Ni"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dermatitis, Atopic",
+          "Eczema",
+          "Humans",
+          "Mometasone Furoate",
+          "Ointments",
+          "Pruritus",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36107506/"
+      },
+      {
+        "pmid": "11305382",
+        "title": "An open study of efficacy and safety of long-term treatment with mometasone furoate fatty cream in the treatment of adult patients with atopic dermatitis.",
+        "abstract": "Atopic dermatitis is a severe chronic skin disease often deteriorated by the presence of microorganisms and often responds well to treatment with potent corticosteroids. However, the long-term use of potent topical corticosteroids are accompanied by side-effects such as skin atrophy.",
+        "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+        "year": "2000",
+        "authors": [
+          "Faergemann J",
+          "Christensen O",
+          "Sjövall P",
+          "Johnsson A",
+          "Hersle K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Dermatitis, Atopic",
+          "Drug Administration Schedule",
+          "Female",
+          "Glucocorticoids",
+          "Humans",
+          "Male",
+          "Mometasone Furoate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11305382/"
+      },
+      {
+        "pmid": "10354026",
+        "title": "Long-term, intermittent treatment of chronic hand eczema with mometasone furoate.",
+        "abstract": "Chronic hand eczema can be incapacitating, and there is little knowledge of the efficacy and safety of long-term treatment with topical corticosteroids. We compared the efficacy and safety of two different schedules for the treatment of chronic hand eczema with a potent topical corticosteroid, mometasone furoate. In a prospective, open, randomized trial, 120 patients with chronic hand eczema were treated daily with mometasone furoate fatty cream until the dermatitis cleared or for a maximum of 9 weeks. Those who cleared were randomized to treatment for up to 36 weeks with mometasone furoate on Sunday, Tuesday and Thursday (group A), mometasone furoate on Saturday and Sunday (group B) or no further corticosteroid treatment (group C). In the event of relapse, patients were permitted daily treatment with mometasone furoate for 3 weeks on two separate occasions. For 50 of 106 randomized patients, daily treatment for 3 weeks controlled their dermatitis; 29 needed 6 weeks and 27 needed 9 wee",
+        "journal": "The British journal of dermatology",
+        "year": "1999",
+        "authors": [
+          "Veien N K",
+          "Olholm Larsen P",
+          "Thestrup-Pedersen K",
+          "Schou G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Dermatitis, Allergic Contact",
+          "Dermatitis, Atopic",
+          "Dermatitis, Contact",
+          "Dermatitis, Irritant",
+          "Dermatitis, Occupational",
+          "Drug Administration Schedule"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10354026/"
+      },
+      {
+        "pmid": "15527669",
+        "title": "Clinical and cost-effectiveness of once-daily versus more frequent use of same potency topical corticosteroids for atopic eczema: a systematic review and economic evaluation.",
+        "abstract": "To assess the clinical and cost-effectiveness of once-daily use of topical corticosteroids versus more frequent use of same-potency topical corticosteroids in the treatment of people with atopic eczema.",
+        "journal": "Health technology assessment (Winchester, England)",
+        "year": "2004",
+        "authors": [
+          "Green C",
+          "Colquitt J L",
+          "Kirby J",
+          "Davidson P",
+          "Payne E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Child",
+          "Child, Preschool",
+          "Cost-Benefit Analysis",
+          "Dermatitis, Atopic",
+          "Drug Administration Schedule",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15527669/"
+      },
+      {
+        "pmid": "25227520",
+        "title": "The influence of mometasone furoate ear solution on intradermal test immediate reactions in dogs with atopic dermatitis.",
+        "abstract": "Topical ear medications, often containing a glucocorticoid, are used to treat the clinical signs of atopic otitis in dogs. Studies have looked at the inhibitory effect of topical glucocorticoids on intradermal testing (IDT), but only one previously published study evaluated the influence of an otic glucocorticoid on the results of IDT in dogs.",
+        "journal": "Veterinary dermatology",
+        "year": "2015",
+        "authors": [
+          "Marcia Murphy K",
+          "Olivry Thierry"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Alanine Transaminase",
+          "Alkaline Phosphatase",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Dermatitis, Atopic",
+          "Dog Diseases",
+          "Dogs",
+          "Ear, External",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25227520/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:24:59.137882",
+  "success": true,
+  "error_message": null
+}

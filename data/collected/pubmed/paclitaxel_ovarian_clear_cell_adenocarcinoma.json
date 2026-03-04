@@ -1,0 +1,599 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Paclitaxel",
+    "disease": "ovarian clear cell adenocarcinoma",
+    "query_string": "Paclitaxel AND ovarian clear cell adenocarcinoma"
+  },
+  "data": {
+    "query": "Paclitaxel AND ovarian clear cell adenocarcinoma",
+    "results": [
+      {
+        "pmid": "39341074",
+        "title": "Paclitaxel-resistance facilitates glycolytic metabolism via Hexokinase-2-regulated ABC and SLC transporter genes in ovarian clear cell carcinoma.",
+        "abstract": "Ovarian clear cell carcinoma (OCCC) frequently develops resistance to platinum-based therapies, which is regarded as an aggressive subtype. However, metabolic changes in paclitaxel resistance remain unclear. Herein, we present the metabolic alternations of paclitaxel resistance in bioenergetic profiling in OCCC. Paclitaxel-resistant OCCC cells were developed and metabolically active with oxygen consumption rates (OCR) compared to parental cells. Metabolite profiling analysis revealed that paclitaxel-resistant OCCC cells reduced intracellular ATP and GTP influx rates, increasing the NADH/NAD+ ratio. We further demonstrated that paclitaxel-resistant OCCC cells led to characteristic alternations of metabolite levels in energy-requiring and energy-releasing steps of glycolysis and their corresponding glycolytic enzymes. Copy number alterations and RNA sequencing analysis demonstrated that ATP-binding cassette (ABC) transporters and solute carrier (SLC) transporter genes involved in glycoly",
+        "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+        "year": "2024",
+        "authors": [
+          "Lin Tsai-Yu",
+          "Gu Shin-Yuan",
+          "Lin Yi-Hui",
+          "Shih Jou-Ho",
+          "Lin Jiun-Han"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Drug Resistance, Neoplasm",
+          "Humans",
+          "Glycolysis",
+          "Female",
+          "Hexokinase",
+          "Ovarian Neoplasms",
+          "Paclitaxel",
+          "Cell Line, Tumor",
+          "ATP-Binding Cassette Transporters",
+          "Adenocarcinoma, Clear Cell"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39341074/"
+      },
+      {
+        "pmid": "37415960",
+        "title": "Mixed squamous and clear cell ovarian adenocarcinoma arising from endometriosis in a 71 year old patient.",
+        "abstract": "•This 71 year old patient was diagnosed with mixed squamous and clear cell ovarian adenocarcinoma.•Patient was surgically staged with guidance from frozen section.•Patient received adjuvant treatment with carboplatin and paclitaxel for 6 cycles.",
+        "journal": "Gynecologic oncology reports",
+        "year": "2023",
+        "authors": [
+          "Mills Alexandra",
+          "Saleh Mona",
+          "Erdem Kombak Faruk",
+          "Flint Matthew",
+          "Kolev Valentin"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37415960/"
+      },
+      {
+        "pmid": "40853419",
+        "title": "Nicotinamide N-methyltransferase enhances paclitaxel resistance in ovarian clear cell carcinoma.",
+        "abstract": "Nicotinamide N-methyltransferase (NNMT) is an S-adenosyl-l-methionine (SAM)-dependent cytosolic enzyme, and a growing body of evidence suggest that it plays an essential role in cancer progression. Recently, NNMT has a role in methylation metabolism and tumorigenesis and was associated with a poor prognosis against numerous cancers. In addition, it has been reported that NNMT has been overexpressed in the stroma of advanced high-grade serous carcinoma and may contribute to decreased survival. This study aimed to identify novel biomarkers to predict resistance and investigate their clinicopathologic significance in paclitaxel-resistant advanced or recurrent ovarian clear cell carcinoma (OCCC). Fluorescence-labeled two-dimensional differential gel electrophoresis (2D-DIGE), immunohistochemical, and MASCOT analyses allowed us to identify the cytoplasmic metabolic enzyme NNMT. In cultured cell studies, NNMT protein expression was higher in paclitaxel-resistant OVMANA and OVTOKO cells than ",
+        "journal": "Human cell",
+        "year": "2025",
+        "authors": [
+          "Kikuchi-Koike Ryoko",
+          "Sakamoto Masaru",
+          "Sasajima Yuko",
+          "Miyagawa Yuko",
+          "Uozaki Hiroshi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Nicotinamide N-Methyltransferase",
+          "Paclitaxel",
+          "Ovarian Neoplasms",
+          "Drug Resistance, Neoplasm",
+          "Adenocarcinoma, Clear Cell",
+          "Cell Line, Tumor",
+          "Prognosis",
+          "Biomarkers, Tumor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40853419/"
+      },
+      {
+        "pmid": "25275661",
+        "title": "Patterns of recurrence and role of pelvic radiotherapy in ovarian clear cell adenocarcinoma.",
+        "abstract": "The aims of this study were to analyze patterns of recurrence in patients with ovarian clear cell adenocarcinoma (CCA) and to evaluate the role of pelvic radiotherapy (RT).",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "2014",
+        "authors": [
+          "Macrie Bryan D",
+          "Strauss Jonathan B",
+          "Helenowski Irene B",
+          "Rademaker Alfred",
+          "Schink Julian C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Clear Cell",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Ovarian Epithelial",
+          "Chicago",
+          "Combined Modality Therapy",
+          "Endometrial Neoplasms",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25275661/"
+      },
+      {
+        "pmid": "23430509",
+        "title": "Establishment and characterization of a novel ovarian clear cell adenocarcinoma cell line, TU-OC-1, with a mutation in the PIK3CA gene.",
+        "abstract": "A new cell line of human ovarian clear cell adenocarcinoma (CCC), TU-OC-1, was established and characterized. The cells showed a polygonal-shaped morphology and grew in monolayers without contact inhibition and were arranged like a jigsaw puzzle. The chromosome numbers ranged from 64 to 90. A low rate of proliferation was observed, similar to other CCC cell lines tested (OVTOKO, RMG-I, and OVAS), and the doubling time was 38.4 h. The respective IC50 values of cisplatin and paclitaxel were 12.2 μM and 58.3 nM. Mutational analysis revealed that TU-OC-1 cells harbored a PIK3CA mutation at codon 542 (E542K) in exon 9, which is a mutation hot spot on this gene. We observed that phosphorylated Akt protein was overexpressed in TU-OC-1 cells by western blot analysis. Heterotransplantation to nude mice produced tumors that reflected the original. This cell line may be useful to study the chemoresistant mechanisms of CCC and contribute to novel treatment strategies.",
+        "journal": "Human cell",
+        "year": "2013",
+        "authors": [
+          "Itamochi Hiroaki",
+          "Kato Misaki",
+          "Nishimura Mayumi",
+          "Oumi Nao",
+          "Oishi Tetsuro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Clear Cell",
+          "Aged",
+          "Animals",
+          "Antineoplastic Agents",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "Cisplatin",
+          "Class I Phosphatidylinositol 3-Kinases",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23430509/"
+      },
+      {
+        "pmid": "10695021",
+        "title": "Establishment and characterization of human ovarian clear cell adenocarcinoma cell line (SMOV-2), and its cytotoxity by anticancer agents.",
+        "abstract": "A novel cell line derived from a surgically resected ovarian clear cell adenocarcinoma of 46 year-old Japanese woman was established and designated SMOV-2. Cells of this lineage were continuously propagated in vitro over 44 months and were grown in a mono-layered sheet with a doubling time of 48.2 hours. The histopathology of the transplanted tumor in nude mice showed two distinctive cell types, hobnail cells and clear cells, which demonstrated recognizable characteristics of clear cell adenocarcinoma, as compared to resected original tumors. At the molecular level, SMOV-2 cells had the wild type p53 genes that were free from missence mutations. Anticancer agents (cisplatin and paclitaxel) were examined for cytotoxity against these SMOV-2 cells in vitro. These examinations revealed that the chemotherapy-treated cells had decreased proliferation, cell cycle arrests, and induction of apoptosis by the anticancer agents. As can be gleaned from this research, SMOV-2 is a valuable model to s",
+        "journal": "Human cell",
+        "year": "1999",
+        "authors": [
+          "Yonamine K",
+          "Hayashi K",
+          "Iida T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Clear Cell",
+          "Animals",
+          "Antineoplastic Agents",
+          "Apoptosis",
+          "Cell Cycle",
+          "Cisplatin",
+          "Female",
+          "Genes, p53",
+          "Humans",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10695021/"
+      },
+      {
+        "pmid": "11121861",
+        "title": "Cyclophosphamide and 5-fluorouracil act synergistically in ovarian clear cell adenocarcinoma cells.",
+        "abstract": "Chemosensitivity to the drugs plays a crucial role in the treatment of ovarian cancer. In this study, we evaluate the cytotoxicity of chemotherapeutic agents in six ovarian cancer cell lines; four clear cell adenocarcinoma and two serous papillary adenocarcinoma, using seven single drugs and seven sets of drug combinations with tetrazolium-based semiautomated colorimetric (MTT) assay. The drug concentration which produced 50% growth inhibition (IC50) of cisplatin was within clinically achievable range in five cell lines. The area under the curve (AUC) at IC50 of cyclophosphamide was below the clinically achievable AUC in two serous papillary cell lines. Paclitaxel was more effective in clear cells than serous papillary cells. The intensification of cytotoxicity was observed in the combinations of paclitaxel and cisplatin, and cyclophosphamide and cisplatin or 5-fluorouracil irrespective of histopathological characteristics of the original tumor. Our results indicate that ovarian cancer",
+        "journal": "Cancer letters",
+        "year": "2001",
+        "authors": [
+          "Ohta I",
+          "Gorai I",
+          "Miyamoto Y",
+          "Yang J",
+          "Zheng J H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Clear Cell",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cell Survival",
+          "Cisplatin",
+          "Cyclophosphamide",
+          "Drug Resistance, Neoplasm",
+          "Drug Synergism",
+          "Female",
+          "Fluorouracil",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11121861/"
+      },
+      {
+        "pmid": "9128804",
+        "title": "Endometrial cancer.",
+        "abstract": "Carcinoma of the uterine corpus (endometrial cancer) remains the gynecologic malignant disease with the highest annual prevalence in the United States. The most common histologic type is adenocarcinoma, although more aggressive variants (e.g., papillary serous carcinoma and clear cell carcinoma) have been identified. Risk factors that are strongly associated with the development of endometrial cancer include tamoxifen therapy, obesity, and stimulation from unopposed estrogen (from exogenous sources or endogenously secreting ovarian tumors). The current staging system of the International Federation of Gynecology and Obstetrics is based on surgical-pathologic findings. Survival has been directly correlated with tumor stage in this staging system. The cornerstone of therapy is total abdominal hysterectomy with bilateral salpingo-oophorectomy. Pelvic and para-aortic lymphadenectomy may provide additional prognostic information but probably does not confer a therapeutic advantage. Moreover",
+        "journal": "Current problems in cancer",
+        "year": "1997",
+        "authors": [
+          "Greven K M",
+          "Corn B W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Combined Modality Therapy",
+          "Endometrial Neoplasms",
+          "Estrogen Replacement Therapy",
+          "Female",
+          "Humans",
+          "Prevalence",
+          "Progestins",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9128804/"
+      },
+      {
+        "pmid": "16445610",
+        "title": "Paclitaxel-platinum combination chemotherapy for advanced or recurrent ovarian clear cell adenocarcinoma: a multicenter trial.",
+        "abstract": "The therapeutic effect of a combination of paclitaxel (PTX) and platinum (PLT) in ovarian clear cell adenocarcinoma (CC) patients with measurable disease has yet to be elucidated. In this study, we used retrospective review to evaluate the results of treatment with a combination of PTX and PLT in CC patients with measurable disease. A total of 28 patients with measurable residual CC (15 cases with primary disease, 13 cases with recurrent disease) treated with combination PTX-PLT chemotherapy was identified through medical records from ten institutions. Clinical response to chemotherapy was evaluated using Response Evaluation Criteria in Solid Tumors criteria. Of the 28 cases, 8 of 15 patients with primary disease (53.3%) and 3 of 13 patients with recurrent disease (23.1%) responded to PTX-PLT chemotherapy. The response rate for cases with late recurrent disease (>12 months) was 20% (1/5), whereas the rate was 25% (2/8) for cases with early recurrent (<12 months) or refractory disease. ",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "2006",
+        "authors": [
+          "Utsunomiya H",
+          "Akahira J",
+          "Tanno S",
+          "Moriya T",
+          "Toyoshima M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Clear Cell",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Confidence Intervals",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16445610/"
+      },
+      {
+        "pmid": "20192580",
+        "title": "Clinical outcome of the ovarian clear cell carcinoma compared to other epithelial ovarian cancers when treated with paclitaxel and carboplatin.",
+        "abstract": "Ovarian clear cell carcinoma (OCCC) has an aggressive histology. Our aim was to evaluate the progression free survival (PFS) of OCCC patients compared to other epithelial histology patients when treated with surgery followed by carboplatin and paclitaxel (PT) regimen. The medical records of them who treated with PT regimen at Chiang Mai University Hospital between January 2004 and December 2008 were reviewed. 67 ovarian clear cell patients were compared to 121 non-clear cell ovarian cancer patients. The mean age of OCCC patients was younger than that of the non-clear cell group (46.7 vs. 51.2 years old, P= 0.001). OCCC patients presented in early stage more often than the non-clear cell group (76.1% vs. 38.0%, P= 0.001). The surgical procedures in both groups were not significantly different. The complete response rates of OCCC patients and other epithelial histology patients were 65.7% and 55.3%, respectively (P= 0.01). With a mean follow-up time of 25 months, the 3-year PFS rates of ",
+        "journal": "Asian Pacific journal of cancer prevention : APJCP",
+        "year": "2009",
+        "authors": [
+          "Sirichaisutdhikorn Daranee",
+          "Suprasert Prapaporn",
+          "Khunamornpong Surapan"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Clear Cell",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Combined Modality Therapy",
+          "Disease-Free Survival",
+          "Female",
+          "Humans",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20192580/"
+      },
+      {
+        "pmid": "39115639",
+        "title": "Assessing the antitumor effects of metformin on ovarian clear cell carcinoma.",
+        "abstract": "Developing novel therapies that outperform the existing chemotherapeutic treatments is required for treatment-resistant ovarian clear cell carcinoma. We investigated the antitumor effect of metformin on ovarian clear cell carcinoma, enhancement of the antitumor effect by its combination with chemotherapy, and its molecular regulatory mechanism. First, we evaluated the viability of ovarian clear cell carcinoma lines using the water-soluble tetrazolium-1 assay and found that metformin suppressed cell viability. Cell viability was significantly suppressed by co-treatment with cisplatin and metformin. In contrast, co-treatment with paclitaxel and metformin showed no significant difference in viability compared with the group without metformin. Western blot analysis showed increased phosphorylation of AMP-activated protein kinase in some cell lines and suppressed phosphorylation of the mammalian target of rapamycin in a particular cell line. Flow cytometry analysis revealed a significant in",
+        "journal": "Human cell",
+        "year": "2024",
+        "authors": [
+          "Takemori Satoshi",
+          "Morisada Tohru",
+          "Osaka Makoto",
+          "Watanabe Momoe",
+          "Tajima Atsushi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Metformin",
+          "Humans",
+          "Ovarian Neoplasms",
+          "Female",
+          "Cisplatin",
+          "Apoptosis",
+          "Adenocarcinoma, Clear Cell",
+          "Cell Line, Tumor",
+          "Cell Survival",
+          "Antineoplastic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39115639/"
+      },
+      {
+        "pmid": "39178526",
+        "title": "Investigating the timing and site of recurrence for ovarian clear cell carcinoma: Analysis of the JGOG/GCIG trial-JGOG 3017-A3.",
+        "abstract": "This study was conducted to determine the optimal monitoring after initial treatment of ovarian clear cell carcinoma (OCCC) using data from patients enrolled in the Japanese Gynecologic Oncology Group (JGOG) 3017 study. The JGOG study evaluated the efficacy of an irinotecan and cisplatin combination regimen compared with that of a paclitaxel and carboplatin regimen for OCCC patients who underwent primary surgery.",
+        "journal": "Gynecologic oncology",
+        "year": "2024",
+        "authors": [
+          "Yunokawa M",
+          "Kurihara N",
+          "Ishizuka N",
+          "Kanao H",
+          "Kajiyama H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Ovarian Neoplasms",
+          "Adenocarcinoma, Clear Cell",
+          "Neoplasm Recurrence, Local",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Paclitaxel",
+          "Aged",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39178526/"
+      },
+      {
+        "pmid": "22041903",
+        "title": "Survival impact of adjuvant paclitaxel and carboplatin for early-stage ovarian clear-cell carcinoma with complete surgical staging.",
+        "abstract": "The aim of this study was to estimate the survival impact of adjuvant paclitaxel and carboplatin (TC) compared to cisplatin (CDDP)-based chemotherapies for early-stage ovarian clear-cell carcinoma (CCC).",
+        "journal": "Gynecologic and obstetric investigation",
+        "year": "2011",
+        "authors": [
+          "Kajiyama Hiroaki",
+          "Shibata Kiyosumi",
+          "Suzuki Shiro",
+          "Ino Kazuhiko",
+          "Kawai Michiyasu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Clear Cell",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Chemotherapy, Adjuvant",
+          "Cisplatin",
+          "Female",
+          "Follow-Up Studies",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22041903/"
+      },
+      {
+        "pmid": "36629283",
+        "title": "Immune-Hot tumor features associated with recurrence in early-stage ovarian clear cell carcinoma.",
+        "abstract": "Ovarian clear cell carcinoma (OCCC) is a distinct histotype of ovarian cancer, which usually presages a worse prognosis upon recurrence. Identifying patients at risk for relapse is an unmet need to improve outcomes. A retrospective cohort analysis of 195 early-stage OCCC patients diagnosed between January 2011 and December 2019 at National Taiwan University Hospital was conducted to identify prognostic factors for recurrence, progression-free survival (PFS) and overall survival (OS). Molecular profiling of tumors was performed in a case-controlled cohort matched for adjuvant therapy for biomarker discovery. Multivariate Cox proportional hazard model revealed that paclitaxel-based chemotherapy was associated with better PFS than nonpaclitaxel chemotherapy (HR = 0.19, P = .006). The addition of bevacizumab was associated with better PFS, compared to no bevacizumab (HR = 0.09, P = .02). Neither showed significant improvement in OS. Recurrence is associated with an Immune-Hot tumor feature",
+        "journal": "International journal of cancer",
+        "year": "2023",
+        "authors": [
+          "Huang Ruby Yun-Ju",
+          "Huang Kuan-Ju",
+          "Chen Ko-Chen",
+          "Hsiao Sheng-Mou",
+          "Tan Tuan Zea"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "CTLA-4 Antigen",
+          "Retrospective Studies",
+          "Neoplasm Staging",
+          "Neoplasm Recurrence, Local",
+          "Ovarian Neoplasms",
+          "Prognosis",
+          "Carcinoma",
+          "Adenocarcinoma, Clear Cell"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36629283/"
+      },
+      {
+        "pmid": "34972717",
+        "title": "Hypoxia-induced Maspin Expression Affects the Prognosis of Ovarian Clear Cell Carcinoma.",
+        "abstract": "To investigate the role of the expression of hypoxia-related genes on the prognosis of ovarian clear cell carcinoma (OCCC).",
+        "journal": "In vivo (Athens, Greece)",
+        "year": "2022",
+        "authors": [
+          "Lee Eun Ji",
+          "Park Soo Jin",
+          "Lee Cheol",
+          "Yim Ga Won",
+          "Kim Jae Weon"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Clear Cell",
+          "Female",
+          "Humans",
+          "Hypoxia",
+          "Ovarian Neoplasms",
+          "Prognosis",
+          "Serpins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34972717/"
+      },
+      {
+        "pmid": "21119364",
+        "title": "Prognostic and predictive values of E-cadherin for patients of ovarian clear cell adenocarcinoma.",
+        "abstract": "The purpose of the study was to analyze negative versus positive immunoexpression of epithelial cadherin (E-cadherin) and p53 in patients with primary advanced ovarian clear cell adenocarcinoma (OCCA) and its significance in relation to clinical features, progression-free survival and overall survival (OS).",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "2010",
+        "authors": [
+          "Ho Chih-Ming",
+          "Cheng Wen-Fang",
+          "Lin Ming-Chieh",
+          "Chen Tze-Chien",
+          "Huang Shih-Hung"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Clear Cell",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biomarkers, Tumor",
+          "Cadherins",
+          "Cisplatin",
+          "Female",
+          "Humans",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21119364/"
+      },
+      {
+        "pmid": "26497956",
+        "title": "Demethylation of HIN-1 reverses paclitaxel-resistance of ovarian clear cell carcinoma through the AKT-mTOR signaling pathway.",
+        "abstract": "Methylation of HIN-1 is associated with poor outcomes in patients with ovarian clear cell carcinoma (OCCC), which is regarded to be an aggressive, chemo-resistant histological subtype. This study aimed to evaluate whether 5-aza-2-deoxycytidine (5-aza-2-dC) can reverse methylation of the HIN-1 gene to restore chemo-sensitivity of OCCC and the possible mechanism.",
+        "journal": "BMC cancer",
+        "year": "2015",
+        "authors": [
+          "Ho Chih-Ming",
+          "Huang Chi-Jung",
+          "Huang Shih-Hung",
+          "Chang Shwu-Fen",
+          "Cheng Wen-Fang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Clear Cell",
+          "Adult",
+          "Aged",
+          "Animals",
+          "Antineoplastic Agents, Phytogenic",
+          "Cell Line, Tumor",
+          "Cytokines",
+          "DNA Methylation",
+          "Drug Resistance, Neoplasm",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26497956/"
+      },
+      {
+        "pmid": "23714502",
+        "title": "Rare epithelial tumors arising in or near the ovary: a review of the risk factors, presentation, and future treatment direction for ovarian clear cell and mucinous carcinoma.",
+        "abstract": "Currently all advanced-stage epithelial ovarian cancers are treated with a total abdominal hysterectomy, bilateral oophorectomy, and complete tumor debulking surgery, followed by carboplatin and paclitaxel. This treatment recommendation is based on clinical trials that are mostly populated with women with high-grade serous carcinomas. Patients with mucinous or clear cell carcinomas of the ovary tend to present with earlier-stage disease, and may not require adjuvant chemotherapy; those with advanced-stage disease tend to have carboplatin-resistant disease. Patients with mucinous ovarian carcinoma have presentations and tumor biology that are similar to colorectal carcinomas and may benefit from colorectal regimens containing fluorouracil (FU) and oxaliplatin. Their tumors may also be KRAS wild-type or have HER2 amplification, and could benefit from drugs like cetuximab or trastuzumab. Patients with clear cell carcinoma of the ovary often harbor AIRD1a mutations, an early event in oncog",
+        "journal": "American Society of Clinical Oncology educational book. American Society of Clinical Oncology. Annual Meeting",
+        "year": "2013",
+        "authors": [
+          "Jain Angela",
+          "Seiden Michael V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Video-Audio Media"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Mucinous",
+          "Biomarkers, Tumor",
+          "Carcinoma, Ovarian Epithelial",
+          "Female",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Neoplasm Staging",
+          "Neoplasms, Glandular and Epithelial",
+          "Ovarian Neoplasms",
+          "Predictive Value of Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23714502/"
+      },
+      {
+        "pmid": "26960408",
+        "title": "Establishment and characterization of a novel ovarian clear cell carcinoma cell line, TU-OC-2, with loss of ARID1A expression.",
+        "abstract": "A new cell line of human ovarian clear cell carcinoma (CCC), TU-OC-2, was established and characterized. The cells were polygonal in shape, grew in monolayers without contact inhibition and were arranged in islands like pieces of a jigsaw puzzle. The chromosome numbers ranged from 41 to 96. A low rate of proliferation was observed and the doubling time was 37.5 h. The IC50 values of cisplatin, 7-ethyl-10-hydroxycamptothecin (SN38), which is an active metabolite of camptothecin, and paclitaxel were 7.7 μM, 17.7 nM and 301 nM, respectively. The drug sensitivity assay indicated that TU-OC-2 was sensitive to SN38, but resistant to cisplatin and paclitaxel. Mutational analysis revealed that TU-OC-2 cells have no mutations of PIK3CA in exons 9 and 20 and of TP53 in exons 4-9. We observed the loss of ARID1A protein expression in TU-OC-2 cells by western blot analysis and in the original tumor tissue by immunohistochemistry. This cell line may be useful for studying the chemoresistant mechanis",
+        "journal": "Human cell",
+        "year": "2016",
+        "authors": [
+          "Sato Seiya",
+          "Itamochi Hiroaki",
+          "Oumi Nao",
+          "Chiba Youhei",
+          "Oishi Tetsuro"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Clear Cell",
+          "Antineoplastic Agents",
+          "Camptothecin",
+          "Cell Line, Tumor",
+          "Chromosomes",
+          "Cisplatin",
+          "DNA-Binding Proteins",
+          "Drug Resistance, Neoplasm",
+          "Female",
+          "Gene Deletion"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26960408/"
+      },
+      {
+        "pmid": "32787339",
+        "title": "Systemic therapy for non-serous ovarian carcinoma.",
+        "abstract": "Ovarian cancer is one of the top ten most common cancers in women around the world, with high-grade serous epithelial cancer being the most frequent type. However, around a quarter of cases consist of non-serous epithelial ovarian cancer (EOC), which is a heterogeneous group of malignancies that includes endometroid, mucinous, clear cell carcinoma (CCC), and carcinosarcoma. Another relevant group of nonepithelial tumors are those arising from germ cells or sex-cord stromal cells, which account for about 10% of all ovarian cancers. Although there are similarities in the presentation, evaluation, and management of these tumors, they have unique characteristics in terms of epidemiology, tumor biology, tumor marker expression, and response to treatment, warranting a different approach to each one of them. Collectively, the treatment of most of EOC include surgical cytoreduction followed by adjuvant systemic platinum-based chemotherapy. The most common chemotherapy and route of administrati",
+        "journal": "Chinese clinical oncology",
+        "year": "2020",
+        "authors": [
+          "Chávarri-Guerra Yanin",
+          "González-Ochoa Eduardo",
+          "De-la-Mora-Molina Héctor",
+          "Soto-Perez-de-Celis Enrique"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Ovarian Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32787339/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:37:01.625415",
+  "success": true,
+  "error_message": null
+}

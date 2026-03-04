@@ -1,0 +1,142 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ketoconazole",
+    "disease": "tinea pedis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01110330",
+      "title": "A Double-Blind, Randomized, Parallel Group Comparison of Nizoral Cream (F012), Ketoconazole 2% Cream (F126) and Placebo (F000) in the Treatment of Interdigital Tinea Pedis",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2007-07",
+      "completion_date": "2008-10",
+      "country": "Poland, United Kingdom",
+      "enrollment": 583,
+      "brief_summary": "The purpose of this study is to determine if a new formulation of ketoconazole 2% cream is as effective as a current formulation of ketoconazole 2% cream (Nizoral) compared with placebo in treating patients with Tinea pedis, a skin infection commonly known as \"athlete's foot\" that is caused by a kind of mold called a fungus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be co-operative, reliable and sufficiently competent to grade and record symptoms as requested\n* have a clinical diagnosis of uncomplicated interdigital Tinea pedis confirmed by KOH microscopy\n* Be either post-menopausal or surgically sterile, abstinent, or, if sexually active",
+      "endpoints": [
+        "The Number of Patients in the Positive Baseline Culture Set (PBCS) With Mycological Cure (MC) at Week 6"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT01110330"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02606383",
+      "title": "Non-inferiority, Phase III Clinical Trial Comparing Dapaconazole Cream 2% (Biolab Sanus Farmacêutica Ltda.) Versus Ketoconazole Cream 2% (Nizoral® Janssen-Cilag) in Patients With Tinea Pedis",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2016-06",
+      "completion_date": "",
+      "country": "Brazil",
+      "enrollment": 0,
+      "brief_summary": "This is a non-inferiority, Phase III, open-label, randomized, parallel trial to evaluate the new intervention Dapaconazole cream 2% versus Ketoconazole cream 2% in patients with Tinea pedis. Sample size is 140 participants (70 per treatment group), male or female, aged between 16 and 60 years-old.\n\nPrimary objective is to evaluate non-inferiority of Dapaconazole cream 2% compared to Ketoconazole cream 2% in Tinea pedis treatment. Secondary objective is to evaluate safety and tolerability of Dapa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female study participants, aged between 16 and 60 years-old. Patients aged between 16 and 18 years-old will provide additional Assent Form before enrollment in the trial;\n* Presence of a skin lesion characteristic of Tinea pedis, with diagnosis confirmed by direct myco",
+      "endpoints": [
+        "Clinical cure of the lesion",
+        "Mycological cure of the lesion"
+      ],
+      "sponsor": "Biolab Sanus Farmaceutica",
+      "url": "https://clinicaltrials.gov/study/NCT02606383"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02824926",
+      "title": "Non-inferiority Phase II Trial Comparing BL123 (Biolab Sanus Farmacêutica Ltda.) Versus Ketoconazole (Nizoral® Janssen-Cilag) in Patients With Tinea Pedis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2015-01",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "This is a non-inferiority, Phase II, open-label, randomized, parallel trial to evaluate efficacy and safety of the new intervention (Dapaconazole cream 2%) versus the active control (Ketoconazole cream 2%) in patients with Tinea Pedis. Study schedule comprises enrollment, treatment and follow-up visits. Treatment period is 14 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects, aged between 18 and 60 years-old;\n* Presence of skin lesion(s) characteristic of Tinea Pedis, with diagnosis confirmed by direct mycological exam;\n* Absence of previous antifungic treatment for the current lesion(s) under study;\n* Absence of other sign",
+      "endpoints": [
+        "Clinical cure of the lesion(s)",
+        "Mycological cure of the lesion(s)"
+      ],
+      "sponsor": "Galeno Desenvolvimento de Pesquisas Clínicas",
+      "url": "https://clinicaltrials.gov/study/NCT02824926"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03320486",
+      "title": "Phase 3, Multicenter, Double-blind, Randomized, Non-inferiority Clinical Trial of Dapaconazole Cream 2% (Biolab Sanus Farmacêutica Ltda.) Versus Ketoconazole Cream 2% (Nizoral®, Janssen-Cilag Farmacêutica Ltda.) in Patients With Tinea Pedis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-11-01",
+      "completion_date": "2019-11-12",
+      "country": "Brazil",
+      "enrollment": 360,
+      "brief_summary": "The main purpose of this study is to demonstrate that dapaconazole cream 2% (experimental drug) is non-inferior to ketoconazole cream 2% (Nizoral® - active comparator) for the treatment of dermatological lesions of Tinea pedis, when applied to the skin (topically) once daily during 28 days. Additionally, the safety and tolerability aspects will be evaluated in a descriptive way, through the observation of the incidence of adverse events.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants aged from 18 to 65 years old, male, or female with no childbearing potential or who are using an effective contraceptive method and who do not plan to become pregnant during the study period.\n* Presence of dermatological lesion(s) of Tinea pedis, with a global cli",
+      "endpoints": [
+        "Proportion of participants with therapeutic cure"
+      ],
+      "sponsor": "Biolab Sanus Farmaceutica",
+      "url": "https://clinicaltrials.gov/study/NCT03320486"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04203342",
+      "title": "A Randomized,Double-blind,Vehicle-controlled, Parallel-design,Multiple-site Study to Evaluate the Therapeutic Equivalence of Ketoconazole Cream 2% (Douglas Pharmaceuticals America Ltd) to Ketoconazole Cream 2% (Teva Pharmaceuticals USA Inc.) in the Treatment of Tinea Pedis.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-12-11",
+      "completion_date": "2020-07-13",
+      "country": "Belize, United States",
+      "enrollment": 682,
+      "brief_summary": "Clinical Study to Evaluate the Therapeutic Equivalence of Ketoconazole Cream 2% in the Treatment of Tinea Pedis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male or non-pregnant, non-lactating female, 18 years of age or older\n* Signed ICF meeting all criteria of current FDA regulations\n* Female subject of childbearing potential must NOT be pregnant or lactating at Visit 1 (negative urine pregnancy test)\n* Female subject of",
+      "endpoints": [
+        "Therapeutic cure of tinea pedis"
+      ],
+      "sponsor": "Douglas Pharmaceuticals America Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT04203342"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03824912",
+      "title": "A Randomized, Double-Blind, Vehicle-Controlled, Parallel-Design, Multiple-Site Clinical Study to Evaluate the Therapeutic Equivalence of Ketoconazole Cream 2% (Encube Ethicals Pvt Ltd) to Ketoconazole Cream 2% (G&W Laboratories Inc.) in the Treatment of Tinea Pedis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-08-23",
+      "completion_date": "2019-01-24",
+      "country": "Belize, United States, Saint Lucia",
+      "enrollment": 831,
+      "brief_summary": "Clinical Study to Evaluate the Therapeutic Equivalence of Ketoconazole Cream 2% in the Treatment of Tinea Pedis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy male or non-pregnant, non-lactating female, ≥ 18 years of age.\n2. Signed informed consent form (ICF) that meets all criteria of current Food and Drug Administration regulations.\n3. Female patient of childbearing potential must not be pregnant or lactating at Visit 1 (",
+      "endpoints": [
+        "Primary Efficacy Endpoint: The Number of Patients in Each Treatment Group With a Therapeutic Cure of Tinea Pedis (Equivalence: Per-Protocol Population)",
+        "Primary Efficacy Endpoint: The Number of Patients in Each Treatment Group With a Therapeutic Cure of Tinea Pedis (Superiority: Modified Intent-to-Treat Population)"
+      ],
+      "sponsor": "Encube Ethicals Pvt. Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03824912"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00501397",
+      "title": "An Open Label Study in Healthy Volunteers to Investigate the Effect of Ketoconazole on the Pharmacokinetics of GSK189075",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2007-02",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "The purpose of this research study is to evaluate the effect of several daily doses of ketoconazole (a medication used to treat fungal infections like athlete's foot) on a single dose of GSK189075 (an experimental diabetes drug), and also to evaluate the safety and tolerability of GSK189075 in healthy volunteers. The study will see whether ketoconazole causes GSK189075 to stay in your bloodstream for a longer period of time. It will also examine whether GSK189075 causes any changes in the amount",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Are a healthy, non-smoking male or female.\n* Are 18 to 55 years old, inclusive.\n* Have a body weight of \\> or equal to 110 pounds.\n* Are a female who is unable to have any more children and have a negative pregnancy test.\n* Are willing and able to provide written informed cons",
+      "endpoints": [
+        "Plasma blood samples for GSK189075 at Day 1 Session 1, Days 5 & 6 Session 3",
+        "urine collections for volume, glucose, & creatinine at Day 1 Session 1, Days 5 & 6 Session 3."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00501397"
+    }
+  ],
+  "timestamp": "2026-03-04T13:20:52.768050",
+  "success": true,
+  "error_message": null
+}

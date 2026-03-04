@@ -1,0 +1,381 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Metronidazole",
+    "disease": "rosacea"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05861310",
+      "title": "Effectivity and Safety of Metronidazole 1% Cream in Rosacea Therapy",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2023-05",
+      "completion_date": "2023-12",
+      "country": "Indonesia",
+      "enrollment": 48,
+      "brief_summary": "Rosacea is a chronic inflammatory disease of the central facial region, which can also occur in the neck and chest regions. Microbes that play a role in rosacea are Demodex folliculorum and Helicobactor pylori. On the skin with rosacea have decreased skin barrier function. This clinical study will compare the effectiveness and safety of metronidazole 1% cream as the main therapy in rosacea patients. Participants who will become research subjects are women and men aged 18-60 years who meet the in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and Female, aged 18-60 years\n* Diagnosed with rosacea\n* The patient agreed to participate in the study and signed a inform consent\n\nExclusion Criteria:\n\n* Taking corticosteroid therapy (oral or topical)\n* Patients with a history of using topical therapy on the face within",
+      "endpoints": [
+        "The degree of erythema Examination",
+        "The degree of erythema Examination",
+        "The degree of erythema Examination"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT05861310"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00436527",
+      "title": "MetroGel 1% Hydration Study: A Kinetic Regression Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2006-08",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "This eight-hour kinetic regression clinical study was conducted to assess the ability of MetroGel® 1% to deliver moisture to facial skin after a single application.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of moderate to severe rosacea, defined as the presence of at least moderate erythema with telangiectasia and a minimum of two inflammatory lesions\n\nExclusion Criteria:\n\n* Individuals with active symptoms of allergy (mild active seasonal allergies are accepta",
+      "endpoints": [
+        "Six replicate Corneometer CM 825 measurements"
+      ],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT00436527"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01513863",
+      "title": "A Randomized, Double-Blind, Placebo Controlled, Parallel Design, Multi-Site Clinical Study to Compare the Bioequivalence of Two Metronidazole 1% Topical Gel Formulations in Patients With Moderate to Severe Rosacea",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2012-09",
+      "country": "United States",
+      "enrollment": 602,
+      "brief_summary": "The objective of this study is to demonstrate that metronidazole 1% topical gel is effective for the treatment of patients with moderate to severe rosacea.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or non-pregnant, non-lactating female, 18 years of age or older.\n2. Signed informed consent form, which meets all criteria of current FDA regulations.\n3. If female and of child bearing potential, prepare to abstain from sexual intercourse or use a reliable method of cont",
+      "endpoints": [
+        "Clinical Success",
+        "Treatment Success"
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01513863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03193372",
+      "title": "A Study of Patient Concerns and Treatment Satisfaction in Patients Being Treated With Finacea Foam for Rosacea",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-07-20",
+      "completion_date": "2017-11-15",
+      "country": "United States",
+      "enrollment": 2200,
+      "brief_summary": "To survey rosacea patients about their concerns, treatment satisfaction, and quality of life associated with their Finacea Foam treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 years of age\n* Diagnosis of rosacea by a medical professional\n* Currently using Finacea Foam as topical monotherapy for rosacea\n* Willing and able to provide voluntary, informed consent to participate in this study\n\nExclusion Criteria:\n\n\\- Use of any other topical ",
+      "endpoints": [
+        "Demographics and clinical characteristics",
+        "Rosacea-relevant comorbidities and complications",
+        "Rosacea subtype"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT03193372"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02393937",
+      "title": "A Multi-center, Double-blind, Randomized, Vehicle-controlled, Parallel-group Study Comparing Metronidazole Gel 1%, to Metrogel® (Metronidazole Gel) 1% in the Treatment of Rosacea",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-02",
+      "completion_date": "2015-10",
+      "country": "United States",
+      "enrollment": 963,
+      "brief_summary": "The purpose of this study is to compare the efficacy of two Metronidazole Gels 1%, in the treatment of Rosacea.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female subjects with at least 18 years of age;\n* Read and signed ICF;\n* Clinical Diagnosis of Rosacea;\n\nExclusion Criteria:\n\n* Females who are pregnant, lactating or of childbearing potential who are not using or do not agree to use an acceptable form of contraception;",
+      "endpoints": [
+        "To compare the test and reference products of metronidazole topical gel 1% with regard to the mean percent change from Baseline of the inflammatory lesion counts of rosacea."
+      ],
+      "sponsor": "bioRASI, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02393937"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01426269",
+      "title": "Evaluation of Relapse, Efficacy and Safety of Long-term Treatment With Oracea® Capsules Compared to Placebo After an Initial 12 Week Treatment Regimen With Oracea® and MetroGel® 1% in Adults With Rosacea",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2013-06",
+      "country": "United States",
+      "enrollment": 235,
+      "brief_summary": "The purpose of this study is to assess relapse, efficacy and safety in subjects with rosacea during long-term treatment with either Oracea® or placebo, after an initial 12-week regimen of Oracea® and MetroGel® 1%.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is male or female aged 18 to 80 years inclusive.\n* Subject with papulopustular rosacea (11 to 40 papules or pustules) and an IGA of moderate or severe.\n* For subjects using medications to treat a concurrent medical condition, type and dose must have been stable for at ",
+      "endpoints": [
+        "Period 2: Number of Subjects Who Relapsed"
+      ],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT01426269"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05592548",
+      "title": "Open Label Split Face Pilot Study to Assess the Safety and Efficacy of Cold Atmospheric Plasma (non-thermal Plasma) for the Treatment of Rosacea",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-01-02",
+      "completion_date": "2024-06-30",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "10-13 patients will be enrolled to receive split face treatment: the control side will be treated with metronidazole cream, the intervention side will be treated with a cold atmospheric plasma device",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Papulopustular rosacea of the cheeks\n* Ability to complete six weeks of twice-weekly treatments\n\nExclusion Criteria:\n\n* substantial asymmetry of disease distribution\n* previous failure of topical ivermectin treatment\n* presence of any other facial dermatoses\n* presence of any ",
+      "endpoints": [
+        "Efficacy - Investigator global assessment",
+        "RosaQoL change",
+        "Demodex count change"
+      ],
+      "sponsor": "The Skin Center Dermatology Group",
+      "url": "https://clinicaltrials.gov/study/NCT05592548"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01449591",
+      "title": "A Proof of Concept (PoC) Study to Evaluate the Safety, Tolerability, and Efficacy of 12 Week Administration of BFH772 Ointment in Rosacea Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2012-02",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "This study will evaluate the safety, tolerability and efficacy of BFH772 after 12 weeks of treatment as compared to an active control and vehicle in patients with erythemato-telangiectatic rosacea.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have persistent facial erythema on the cheeks of at least moderate severity.\n* Women must not be able to bear children\n\nExclusion Criteria:\n\n* Have more than 12 inflammatory lesions on the face\n* Previous treatment of facial skin with lasers or electrocauterisation within 2 mo",
+      "endpoints": [
+        "To assess the effect of BFH772 treatment compared to vehicle on non-transient facial erythema using the Investigator's assessment of facial erythema score"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01449591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01493947",
+      "title": "Efficacy and Safety of CD5024 1% Cream Versus Metronidazole 0.75% Cream in Subjects With Papulopustular Rosacea Over 16 Weeks Treatment, Followed by a 36-week Extension Period.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2013-12",
+      "country": "Poland, Romania, Hungary, Bulgaria, Russia, France, Germany, Czechia, Ukraine, United Kingdom",
+      "enrollment": 962,
+      "brief_summary": "Study objectives:\n\n* To compare efficacy and safety of Ivermectin 1% cream versus metronidazole 0.75% cream in subjects with papulopustular rosacea after 16-week topical treatment.\n* And to compare, for subjects initially successfully treated by 16 weeks treatment, Ivermectin 1 % cream versus metronidazole 0.75% cream during a 36-week extension period by assessing, the time of first relapse, the relapse rate, and the number of days free of treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with papulopustular rosacea scored 3 (moderate) or 4 (severe) according to the Investigator Global Assessment (IGA),\n* Subjects with at least 15 but not more than 70 inflammatory lesions (papules and pustules) on the face.\n\nExclusion Criteria:\n\n* Subjects with particu",
+      "endpoints": [
+        "Percent Change in Inflammatory Lesions From Baseline to Week 16"
+      ],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT01493947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02204254",
+      "title": "Prospective, Open Label, Randomized Study Comparing Bipolar Radiofrequency Potentiated by Infrared Light to Doxycycline in Patient With Papulopustular Rosacea",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-03",
+      "completion_date": "2021-06-07",
+      "country": "France",
+      "enrollment": 20,
+      "brief_summary": "Rosacea is a chronic facial disfiguring dermatosis characterized by different stages like flushing, erythema, telangiectasia and papulo-pustular lesions. Recommended treatments include topical (metronidazole) and systemic (doxycycline) antibiotics with only a suspensive effect. The bipolar radiofrequency (RF) with Elos system (infrared light) is a device emitting an electromagnetic current inducing an increase in temperature when applied on the skin, potentiated by infrared light. The monopolar ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be between 18-70 years old\n* Subjects with papulopustular rosacea graded moderate to severe (2 or 3) according to the physician global Assessment, and with lesions on the cheeks.\n* Prior stop of any topical treatment antibiotic, retinoid, corticoid or other topic",
+      "endpoints": [
+        "percent of patients with a score of 0 or 1 severity of rosacea (absent or mild) on a scale of 0-3 (Physician Global Assessment)"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "url": "https://clinicaltrials.gov/study/NCT02204254"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02052999",
+      "title": "An Open Label Pilot Study to Evaluate the Efficacy of PAC-14028 in the Treatment of Erythematotelangiectatic Rosacea and Papulopustular Rosacea",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-02",
+      "completion_date": "2013-08",
+      "country": "South Korea",
+      "enrollment": 80,
+      "brief_summary": "The objective of this study is to determine the efficacy and safety of PAC-14028 1% cream of Amorepacific Corporation in patients with erythema-telangiectatic or papulopustular rosacea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients at the age of 20 to 65 years old\n* Clinical diagnosis of erythematotelangiectatic or papulopustular rosacea according to National Rosacea Committee Expert Society with\n\n  * Erythema severity ≥ 1\n  * Telangiectasia severity ≥ 1\n  * At least 3 papules or",
+      "endpoints": [
+        "Change in Investigator Global Assessment (IGA)"
+      ],
+      "sponsor": "Amorepacific Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT02052999"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06989216",
+      "title": "DermaFlow Alpha - Multi-modal Quantitative Imaging of the Skin",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-02-01",
+      "completion_date": "2026-02-01",
+      "country": "Sweden",
+      "enrollment": 8000,
+      "brief_summary": "This clinical trial is about evaluating the suitability of multi-modal imaging technology, which covers virtually the entire body, to evaluate the possibility of screening and early detection of disease.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Adult patients that are part of the regular healthcare patient flow at the investigational sites, or as separately invited to participate in this investigation.\n* Patients with signed informed consent\n\nExclusion criteria:\n\n* Cognitive impairment\n* Patients unable to understand",
+      "endpoints": [
+        "Sensitivity for detection of lesions requiring excision in comparison to visual inspection",
+        "Difference in body metrics between full-body 3D photography and traditional measurements",
+        "Sensitivity in detection of dermatological conditions with 2D images from full-body photography"
+      ],
+      "sponsor": "HJN Sverige AB/Neko Health",
+      "url": "https://clinicaltrials.gov/study/NCT06989216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06434519",
+      "title": "Evaluation of the Effect of Moisturizers on the Absorption of Metronidazole Into the Stratum Corneum of Rosacea Patients With Tape Stripping and Liquid Chromatography-mass Spectrometry",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-09-03",
+      "completion_date": "2025-11-04",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "Topical metronidazole is a widely used first line treatment for erythemotelangiectatic and inflammatory rosacea. Commonly, a moisturizer is also used to restore the skin barrier and reduce inflammation. The purpose of this study is to assess the whether the common practice of applying moisturizer prior to topical metronidazole affects this medication's stratum corneum penetrance in rosacea patients. Participants will have one research office visit that will consist of having a randomly assigned ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy, non-pregnant individual 18+ years of age;\n2. Subjects willing to allow a series of tape pieces to be pressed and removed from their faces over an 4 hour period;\n3. Subjects can remain calm and quiet at the research facility for 6 hours;\n4. Subjects in general good he",
+      "endpoints": [
+        "Metronidazole penetrance through the stratum corneum (SC)"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT06434519"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00855595",
+      "title": "An Exploratory, Multicenter, Investigator-blinded, Active-controlled Study to Investigate the Efficacy of Topical Azelaic Acid (AzA)15% Gel Twice Daily or Metronidazole Topical Gel 1% Once Daily, Plus Anti-inflammatory Dose Doxycycline (40mg) Once Daily in Subjects With Moderate Papulopustular Rosacea",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2009-07",
+      "country": "United States",
+      "enrollment": 207,
+      "brief_summary": "Subjects with moderate papulopustular rosacea will be treated either with azelaic acid 15% gel topically plus an anti-inflammatory dose of doxycyline (40mg) daily or with metronidazole 1% gel topically once daily plus an anti-inflammatory dose of doxycycline (40mg) over at total of twelve weeks to determine the rapidity of improvement, and the length of time to reach 25%, 50% and 75% clearing compared to baseline.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Moderate papulopustular rosacea (IGA\\>4) with a minimum of 10 and no more than 50 inflammatory lesions and persistent erythema with or without telangiectasia\n\nExclusion Criteria:\n\n* Sensitivity to any of the treatments used\n* Co-existing conditions that would unfavorably infl",
+      "endpoints": [
+        "Nominal Change From Baseline in Inflammatory Lesion (IL) Count (Sum of Papules and Pustules) at Week 2 (LOCF: Last Observation Carried Forward)"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00855595"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00249782",
+      "title": "A Phase II, Randomized, Partial-Blind, Parallel-Group, Active- and Vehicle-Controlled, Multicenter Study of the Safety and Efficacy of ACZONE™ (Dapsone) Gel, 5% in Subjects With Papulopustular Rosacea",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2006-05",
+      "country": "United States",
+      "enrollment": 400,
+      "brief_summary": "The purpose of this study is to evaluate the safety and effectiveness of ACZONE™ gel compared to placebo (inactive substance), MetroGel® and a combination of ACZONE™ gel and MetroGel® for the treatment of rosacea.\n\nACZONE™ gel, 5% is a topical (applied to the skin) medication that is approved by the United States Food and Drug Administration (FDA) for the treatment of acne vulgaris in people 12 years and older. The use of ACZONE™ for the treatment of rosacea is investigational. An investigationa",
+      "eligibility_criteria": "Inclusion Criteria:\n\nTo be eligible for the study, subjects must fulfill all of the following criteria:\n\n1. Men or women ≥18 years of age.\n2. A diagnosis of papulopustular rosacea, with ≥10 inflammatory lesions (papules and/or pustules) above the mandibular line at baseline.\n3. An Investigator Globa",
+      "endpoints": [
+        "Efficacy: Percent change and change from baseline in inflammatory lesion counts;",
+        "\"Success\" rate, defined as proportion of subjects with a score of 0 or 1 and at least a 2 point improvement from baseline on the IGA scale;",
+        "Erythema & telangiectasia scores;"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT00249782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01016782",
+      "title": "Multi-Center, Double-Blind, Randomized, Vehicle-Controlled, Parallel Group Study of 0444 Gel",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-07",
+      "country": "N/A",
+      "enrollment": 867,
+      "brief_summary": "The aim of this trial is to assess the efficacy of Metronidazole Topical Gel 1% in the Treatment of Inflammatory Lesions of Rosacea.\n\nTreatment medication will be administered as follows: A thin film of gel will be applied and rubbed into the entire face once daily for a period of 70 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of rosacea\n* Good health with the exception of rosacea\n* Papsules and pustules minimum and maximum requirements\n\nExclusion Criteria:\n\n* Subjects who are pregnant, nursing, or planning a pregnancy within the study participation period.\n* Subjects who have any",
+      "endpoints": [
+        "Reduction in the number of papules and pustules from Baseline to End of Treatment"
+      ],
+      "sponsor": "Fougera Pharmaceuticals Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01016782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00668655",
+      "title": "An Evaluation of the Cosmetic Appearance of Metronidazole Gel (MetroGel®) 1%",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2008-03",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to determine the cosmetic appearance of metronidazole gel (MetroGel®) 1% with commonly marketed facial foundations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with moderate Rosacea (Global Severity Score of 3),\n* Subjects willing to stop their current rosacea medication for at least 2 weeks\n* Subjects must have an established routine of cosmetics application (e.g. must have been using the same facial foundation for at least",
+      "endpoints": [],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT00668655"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06582043",
+      "title": "Evaluation of the Efficacy and Tolerance of Two Cosmetic Products in Subjects Presenting With Rosacea Treated With Topical Treatment",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-05-16",
+      "completion_date": "2025-02-06",
+      "country": "Argentina, Brazil",
+      "enrollment": 70,
+      "brief_summary": "Multicentric and double-blind randomised comparative clinical study in Argentina and Brazil. Under dermatological and ophthalmological control 4 visits: inclusion \\[Day(D)0\\], D28, D56, D84 Ethical committee required.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject with facial vascular rosacea with flushing, permanent redness, telangiectasias and at least 3 papules and/or pustules (this last criterion for at least 10 subjects per group)\n* Subject starting local treatment for rosacea (Ivermectin or metronidazole)\n* Female aged 18 ",
+      "endpoints": [
+        "Investigator Global Assessment (IGA)"
+      ],
+      "sponsor": "NAOS Argentina S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT06582043"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00495313",
+      "title": "Determine the Effects of COL-101 Administered Once Daily With Metronidazole Topical Gel, 1% Versus Doxycycline Hyclate 100 mg Administered Once Daily With Metronidazole Topical Gel, 1% in Patients With Moderate to Severe Rosacea",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2007-12",
+      "country": "United States",
+      "enrollment": 91,
+      "brief_summary": "To compare the safety and efficacy of two treatment regimens: 1) COL-101 and metronidazole gel 1%; 2) Doxycycline hyclate 100 mg and metronidazole gel 1%",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 8-40 total lesions\n* erythema\n* telangiectasia\n\nExclusion Criteria:\n\n* non-pregnant, non-lactating\n* achlorhydric\n* gastric by-pass surgery\n* allergy to study medications\n* drug/alcohol abuse\n* use of proton pump inhibitors",
+      "endpoints": [
+        "Change in total lesion count from Baseline at the study endpoint"
+      ],
+      "sponsor": "CollaGenex Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00495313"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02602470",
+      "title": "A Study of Patient Preferences and Drivers of Treatment Satisfaction in Patients With Rosacea",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-01-08",
+      "completion_date": "2016-03-10",
+      "country": "United States",
+      "enrollment": 206,
+      "brief_summary": "To survey patients with rosacea about their rosacea treatment preferences as well as to assess potential drivers of rosacea treatment satisfaction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients of at least 18 years of age at index date\n* At least one prescription for a topical rosacea treatments: Azelaic Acid Gel, Azelaic Acid Cream, Metronidazole Gel, Metronidazole Cream, Metronidazole Emulsion, Metronidazole Lotion, Brimonidine Tartrate Gel\n",
+      "endpoints": [
+        "Self-reported concerns and importance of such concerns regarding their current topical rosacea treatments"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02602470"
+    }
+  ],
+  "timestamp": "2026-03-04T13:35:08.544128",
+  "success": true,
+  "error_message": null
+}

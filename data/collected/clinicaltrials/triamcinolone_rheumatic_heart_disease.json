@@ -1,0 +1,67 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Triamcinolone",
+    "disease": "rheumatic heart disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07326098",
+      "title": "Efficacy of Ultrasound-Guided Genicular Nerve Block in Patients With Gonarthrosis: A Randomized, Placebo-Controlled, Double-Blind Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-11-01",
+      "completion_date": "2026-12-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 30,
+      "brief_summary": "This study planned to enroll a minimum of 30 patients aged 50 years and older, with a diagnosis of gonarthrosis classified as stage 2 or higher according to the Kellgren-Lawrence grading system, and who report complaints of knee pain and walking difficulties. Patients will be randomized into two groups, and they will be blinded to the group to which they are assigned.\n\nIn the first group, ultrasound-guided genicular nerve block will be performed using a combination of lidocaine and triamcinolone",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Knee pain persisting for 3 months or longer\n* Diagnosis of gonarthrosis with Grade 2 or higher tibiofemoral osteoarthritis detected on plain radiographs\n* Patients aged 50 years and older\n* Continued pain despite conservative treatment (exercise, simple analgesics such as para",
+      "endpoints": [
+        "Effect on gait kinematics",
+        "1. 6 minute walk test"
+      ],
+      "sponsor": "Ege University",
+      "url": "https://clinicaltrials.gov/study/NCT07326098"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06323018",
+      "title": "Effects of Remote Ischaemic Preconditioning in Cemented Total Hip Arthroplasty: Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-03-20",
+      "completion_date": "2027-03",
+      "country": "Estonia",
+      "enrollment": 200,
+      "brief_summary": "Total joint arthroplasty is one of the best treatment options for end-stage osteoarthritis. Cemented hip arthroplasty is mainly indicated for elderly patients with poor bone quality and multiple comorbidities. Bone cement implantation syndrome is associated with cemented hip arthroplasty and it has been shown to increase cardiovascular and renal complication and brain damage postoperatively. The aim of this project is to elucidate whether remote-ischemic preconditioning (RIPC) has multi-organ pr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age \\>65 years\n* undergoing total hip cemented hip arthroplasty\n\nExclusion Criteria:\n\n* previously diagnosed peripheral artery disease on both upper limb\n* RIPC is contraindicated",
+      "endpoints": [
+        "Myocardial injury"
+      ],
+      "sponsor": "University of Tartu",
+      "url": "https://clinicaltrials.gov/study/NCT06323018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06211465",
+      "title": "Cardiovascular And Metabolic Risk After Arthroplasty: the CAMERA Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-03-01",
+      "completion_date": "2023-04",
+      "country": "Estonia",
+      "enrollment": 152,
+      "brief_summary": "Osteoarthritis is a chronic joint disease that lacks curative therapy. Epidemiological studies show increase in the burden of disease. Total joint arthroplasty is one of the best treatment options for end-stage osteoarthritis. However, the specific effects of total joint arthroplasty on cardiovascular risk and metabolic profile are largely unknown. The aim of this project is to elucidate how hip and knee total joint arthroplasty impacts cardiovascular risk and metabolomic profile in comparison w",
+      "eligibility_criteria": "Inclusion Criteria for the arthroplasty group:\n\nprimary hip and knee OA (according to the American College of Rheumatology criteria) eligible for total joint arthroplasty\n\nExclusion Criteria for the arthroplasty group:\n\nposttraumatic OA, infectious and endocrine related arthropathy, any acute or chr",
+      "endpoints": [
+        "Aortic pulse wave velocity at 5 years after arthroplasty"
+      ],
+      "sponsor": "University of Tartu",
+      "url": "https://clinicaltrials.gov/study/NCT06211465"
+    }
+  ],
+  "timestamp": "2026-03-04T13:23:56.597876",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,40 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrocortisone Acetate",
+    "disease": "lymphosarcoma",
+    "query_string": "Hydrocortisone Acetate AND lymphosarcoma"
+  },
+  "data": {
+    "query": "Hydrocortisone Acetate AND lymphosarcoma",
+    "results": [
+      {
+        "pmid": "13671199",
+        "title": "[Histological changes induced in a reticulosarcoma by local administration of hydrocortisone acetate].",
+        "abstract": "",
+        "journal": "Bollettino della Societa italiana di biologia sperimentale",
+        "year": "1959",
+        "authors": [
+          "RICCI V"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hydrocortisone",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Lymphoma, Non-Hodgkin",
+          "Neoplasms",
+          "Palatal Neoplasms",
+          "Palate",
+          "Sarcoma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13671199/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:15:33.735120",
+  "success": true,
+  "error_message": null
+}

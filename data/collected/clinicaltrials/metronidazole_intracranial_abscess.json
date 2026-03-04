@@ -1,0 +1,50 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Metronidazole",
+    "disease": "intracranial abscess"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06649097",
+      "title": "Clearance of Intracranial Blood Products by Continuous Irrigation With the IRRAflow System",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-09-25",
+      "completion_date": "2031-07",
+      "country": "United States",
+      "enrollment": 250,
+      "brief_summary": "The study is a multi-center prospective cohort, controlled, phase 4 post-market registry evaluating the efficacy and radiographic outcomes associated with the use of the IRRAflow® Active Fluid Exchange System compared to standard of care external ventricular drains.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Age \\>=18 years of age\n* Intracranial hemorrhage documented on head CT or MRI scan.\n* Indication for active fluid exchange evaluated by treating physician.\n* Signed informed consent obtained by patient or Legal Authorized Representative\n* Scheduled enrollment and treatment wit",
+      "endpoints": [
+        "Residual blood volume by post bleed day 5",
+        "Utility weighted modified Rankin Score"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT06649097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04982588",
+      "title": "Medtronic CoreValve™ Evolut™ PRO System China Clinical Study",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-07-17",
+      "completion_date": "2028-05-15",
+      "country": "China",
+      "enrollment": 52,
+      "brief_summary": "Interventional study to evaluate the safety and efficacy of the Medtronic CoreValve™ Evolut™ PRO System when used by China implanting centers in Chinese patients with severe symptomatic aortic stenosis (AS) who are at high risk for Surgical Aortic Valve Replacement (SAVR).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aortic valve area (AVA) \\< 1.0 cm2 (or indexed AVA \\<0.6 cm2/m2) OR mean gradient \\> 40 mmHg, OR max aortic velocity \\> 4.0 m/sec\n2. High risk for SAVR defined as STS-PROM score ≥ 8% AND ≤ 15%, OR documented Heart Team agreement of high risk for AVR due to frailty or comorbid",
+      "endpoints": [
+        "All-cause Mortality",
+        "Percentage (%) of Subjects With Evaluable Echocardiograms With Moderate or Severe Aortic Regurgitation by Transthoracic Echocardiography (TTE)"
+      ],
+      "sponsor": "Medtronic Cardiovascular",
+      "url": "https://clinicaltrials.gov/study/NCT04982588"
+    }
+  ],
+  "timestamp": "2026-03-04T13:35:21.448101",
+  "success": true,
+  "error_message": null
+}

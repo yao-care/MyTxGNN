@@ -1,0 +1,31 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Salicylic Acid",
+    "disease": "keratinization disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05536193",
+      "title": "Efficacy and Safety of Topical Metformin Emulgel Versus Salicylic Acid Peeling in Treatment of Acne Vulgaris: A Split Face Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-09-10",
+      "completion_date": "2023-09-10",
+      "country": "N/A",
+      "enrollment": 34,
+      "brief_summary": "Acne Vulgaris (AV ) is a common skin disorder worldwide, affecting all ages and races, considered as a long term chronic inflammatory disease of the skin.It affects nearly 85% of adolescents and about 30% of adults which is known as post- adolescent acne that often occurs in individuals aged 25 years or older particularly women.\n\nAcne lesions, which may be papules, pustules, or nodules commonly affecting face, chest and back therefore acne patients may suffer from emotional distress due to its c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Both males and females will be included.\n* Patients older than 18 years of age.\n* Patients with mild and moderate AV.\n* Patients with Fitzpatrick skin type III, IV and V.\n\nExclusion Criteria:\n\n* Severe acne.\n\n  * Patients under treatment with contraceptive pills or received an",
+      "endpoints": [
+        "Efficacy of the medications",
+        "Evaluate effect of topical metformin on decreasing serum concentration of insulin-like growth factor 1 (IGF-1)"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT05536193"
+    }
+  ],
+  "timestamp": "2026-03-04T13:28:28.779993",
+  "success": true,
+  "error_message": null
+}

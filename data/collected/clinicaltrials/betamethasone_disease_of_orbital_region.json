@@ -1,0 +1,436 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Betamethasone",
+    "disease": "disease of orbital region"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03958344",
+      "title": "Intraorbital Injection Versus Oral Steroid in Patients With Anterior Idiopathic Orbital Inflammation: A Randomized Clinical Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-01-01",
+      "completion_date": "2025-06-01",
+      "country": "Iran",
+      "enrollment": 120,
+      "brief_summary": "A multicenter randomised double-arm clinical trial, to compare safety and efficacy of oral versus intralesional injection of steroid in a group of patients suffering from idiopathic orbital inflammation is designed. Outcome measures include number of recurrences, duration of remission, and side effects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Dacryoadenitis based on clinical findings and/or imaging with and without adjacent recti muscle myositis\n\nExclusion Criteria:\n\n* Abnormal thyroid-stimulating hormone\n* Systemic Vasculitides\n* Bilateral Orbital Inflammation\n* Collagen Vascular Diseases\n* One Seeing Eye\n* Glauco",
+      "endpoints": [
+        "Recurrence number",
+        "Recurrence time",
+        "Adverse Effect"
+      ],
+      "sponsor": "Iran University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03958344"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01079715",
+      "title": "Safety and Efficacy of Treatment With Propranolol in Newborns With Retinopathy of Prematurity: a Pilot Study",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2012-10",
+      "country": "Italy",
+      "enrollment": 52,
+      "brief_summary": "The purpose of this study is to determine whether the administration of propranolol is effective in the treatment of the retinopathy of the prematurity.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Infants who have been screened for ROP (≤ 32 weeks gestation) who develop Stage 2 ROP in zone II without plus.\n2. Informed Consent from a parent\n\nExclusion Criteria:\n\n1. Newborns with one or more of the following conditions at the enrollment in the study:\n\n   * Heart failure.",
+      "endpoints": [
+        "The primary aim is to evaluate the safety of propranolol administration"
+      ],
+      "sponsor": "Meyer Children's Hospital IRCCS",
+      "url": "https://clinicaltrials.gov/study/NCT01079715"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04246801",
+      "title": "A Phase 3, Multicenter, Randomized, Double-Masked Clinical Trial to Assess the Efficacy and Safety of Clobetasol Propionate Ophthalmic Nanoemulsion 0.05% Compared to Placebo in the Treatment of Inflammation and Pain Associated With Cataract Surgery",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-06-10",
+      "completion_date": "2021-05-19",
+      "country": "United States",
+      "enrollment": 250,
+      "brief_summary": "Cataract surgery is one of the most common surgical procedures performed worldwide. In fact, in 2017, 3.8 million cataracts procedures were performed in the US.\n\nDespite of surgical advances, pain and inflammation after ophthalmic surgery continues to be a burden on both patients and physicians. The treatment of postoperative pain is essential for hospitalized patients, but it is even more important for patients who are treated on an outpatient basis.\n\nThis study will compare the efficacy and sa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, age 18 years or older on day of consent\n2. Participants with routine unilateral cataract surgery on the day prior to study randomization\n3. Participants with at least 5 cells in anterior chamber on the first day after surgery (at Baseline visit)\n4. Willing and",
+      "endpoints": [
+        "Anterior Chamber Cell Grade"
+      ],
+      "sponsor": "Salvat",
+      "url": "https://clinicaltrials.gov/study/NCT04246801"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02148016",
+      "title": "Corneal Epithelium Repair and Therapy Using Autologous Limbal Stem Cell Transplantation",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2012-12",
+      "completion_date": "2014-09",
+      "country": "China",
+      "enrollment": 30,
+      "brief_summary": "Corneal disease is a leading cause of blindness in the world. A shortage of corneal donor tissue has prevented many patients from regaining vision. Additionally, refractive error such as myopia is a major cause of impaired visual function worldwide. Although refractive error is correctable by procedures that modify the refractive power of the cornea, these procedures often weaken corneal integrity and have risk of complications. This study aims to evaluate the safety and efficacy of corneal surf",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Monocular corneal chemical injury or pterygium, or refractive error greater than +/- 2D\n* Informed consent signed by patient or legal guardian\n\nExclusion Criteria:\n\n* Patients with a history of corneal perforation or surgery\n* Patients with other eye diseases\n* Patients with a",
+      "endpoints": [
+        "Composite measure of visual function in eyes treated for corneal ocular surface disease.",
+        "Composite measure of visual function in eyes after photo-refractive keratectomy (PRK)"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02148016"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04734210",
+      "title": "A Multicenter, Randomized, Double-Masked, Dose-Ranging Study To Compare The Ocular Safety, Tolerability, And Efficacy Of SURF-200 Ophthalmic Solution (0.02% And 0.04% Betamethasone Sodium Phosphate) To Vehicle In Subjects With A Diagnosis Of Dry Eye Disease And Experiencing An Episodic Flare Up",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-01-07",
+      "completion_date": "2022-10-12",
+      "country": "United States",
+      "enrollment": 139,
+      "brief_summary": "SURF-200 is being studied in people experiencing an episodic flare-up of their dry eye disease. SURF-200 is an investigational drug (which means the study drug is currently being tested) in the form of a sterile eye drop.\n\nThe purpose of this research study is to see how well SURF-200 works and what side effects there are, and to compare it with vehicle (placebo). The study will involve about 120 study participants at multiple research sites in the United States.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects 18 years of age and older who have a diagnosis of dry eye disease and experiencing an episodic flare up. Criteria for the diagnosis must include the following:\n\n   1. UNC DEMS score of greater than or equal to 5 but less than or equal to 9\n   2. Conjunctival hyperemi",
+      "endpoints": [
+        "University of North Carolina Dry Eye Management Scale (UNC DEMS) Responder Analysis"
+      ],
+      "sponsor": "Surface Ophthalmics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04734210"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06140186",
+      "title": "Efficacy and Safety of add-on Topical Timolol in the Management of Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor-induced Paronychia: A Prospective Randomized Open-labelled Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2023-04-01",
+      "completion_date": "2024-03-31",
+      "country": "Hong Kong",
+      "enrollment": 40,
+      "brief_summary": "This study would assess the clinical efficacy of add-on topical timolol 0.5% gel to betamethasone valerate 0.1% for the treatment of EGFR-TKI induced paronychia. Eligible patients, who develop paronychia (affecting fingernails, toenails or both), will be included in this study. They will be randomized in 1:1 ratio using computer-generated randomization list to receive either combination of topical timolol 0.5% gel and betamethasone valerate 0.1% lotion application twice daily or betamethasone va",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 18 years or above, either males or females.\n2. Received EGFR-TKI, namely gefitinib, erlotinib, afatinib, osimertinib, amivantamab, dacomitinib and mobocertinib.\n3. Paronychia (fingernails, toenails, or both) as an adverse event from EGFR-TKI use.\n4. Written informed cons",
+      "endpoints": [
+        "The difference in the proportion of patients achieved complete response (disappearance of the lesion, absent pain, and/or bleeding)"
+      ],
+      "sponsor": "Queen Mary Hospital, Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT06140186"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02716883",
+      "title": "Early Amniotic Membrane Transplantation in Bacterial Keratitis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2014-01",
+      "completion_date": "2016-04",
+      "country": "N/A",
+      "enrollment": 14,
+      "brief_summary": "In this study Investigators are going to do early amniotic membrane transplantation (AMT) for bacterial keratitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nBacterial keratitis being in the first week of diagnosis medically undergoing treatment\n\nExclusion Criteria:\n\nthinning limbal extension intraocular extension underlying disease Nocardia keratitis",
+      "endpoints": [
+        "Time to scar formation"
+      ],
+      "sponsor": "Farabi Eye Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02716883"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04249076",
+      "title": "A Phase 3, Multicenter, Randomized, Double-Masked Clinical Trial to Assess the Efficacy and Safety of Clobetasol Propionate Ophthalmic Nanoemulsion 0.05% Compared to Placebo in the Treatment of Inflammation and Pain Associated With Cataract Surgery",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-06-04",
+      "completion_date": "2021-04-14",
+      "country": "United States",
+      "enrollment": 215,
+      "brief_summary": "Cataract surgery is one of the most common surgical procedures performed worldwide. In fact, in 2017, 3.8 million cataracts procedures were performed in the US.\n\nDespite of surgical advances, pain and inflammation after ophthalmic surgery continues to be a burden on both patients and physicians. The treatment of postoperative pain is essential for hospitalized patients, but it is even more important for patients who are treated on an outpatient basis.\n\nThis study will compare the efficacy and sa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, age 18 years or older on day of consent\n2. Participants with routine unilateral cataract surgery on the day prior to study randomization\n3. Participants with at least 5 cells in anterior chamber on the first day after surgery (at Baseline visit)\n4. Willing and",
+      "endpoints": [
+        "Anterior Chamber Cell Grade"
+      ],
+      "sponsor": "Salvat",
+      "url": "https://clinicaltrials.gov/study/NCT04249076"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02114073",
+      "title": "Comparison of Effect of Cyclosporine Ophthalmic Emulsion 2% and Betamethasone Eye Drop on Intraocular Pressure, Conjunctival Hyperemia and Subjective Dry Eye Symptoms Following Trabeculectomy in Open Angle Glaucoma Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-04",
+      "completion_date": "2015-02",
+      "country": "Iran",
+      "enrollment": 40,
+      "brief_summary": "Glaucoma is one of the leading causes of blindness worldwide and trabeculectomy is the most commonly performed operation to slow-down the disease progression. In this study, we compare the effect of topical cyclosporine A and betamethasone eye drops on the postoperative course and surgical success of trabeculectomy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* POAG patient with insufficient IOP control on maximal tolerable medical therapy (MTMT), undergoing primary trabeculectomy with MMC augmentation.\n\nExclusion Criteria:\n\n* Age \\<20 years\n* History of previous ocular surgery in the same eye;\n* Candidate for combined surgery;\n* Pre",
+      "endpoints": [
+        "Intraocular Pressure (IOP)",
+        "Bleb morphology",
+        "Subjective dry eye symptoms"
+      ],
+      "sponsor": "Mashhad University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT02114073"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04741763",
+      "title": "\"Night Vision and Carotenoids\" A 2 Center Study of the Physiological Function of the Eyes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-02-13",
+      "completion_date": "2020-08-20",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "Vision at twilight and night is more difficult and dangerous for the entire population, even more so for the elderly and especially for the elderly with degenerative disease. Multiple worldwide laboratories have demonstrated the ability to raise macular pigment optical density with dietary carotenoids. This proposal further evaluates the relationship between macular re- pigmentation and vision under stressed conditions simulating twilight and night driving.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No significant supplementary carotenoids within last 10 weeks. Without significant media opacity, cataract or congenital / acquired retinal disease other than atrophic AMD or diabetic retinopathy. Minimum 20/25 to enroll.\n\nExclusion Criteria:\n\n* Unwilling or medically / psychi",
+      "endpoints": [
+        "MPOD"
+      ],
+      "sponsor": "Davis EyeCare",
+      "url": "https://clinicaltrials.gov/study/NCT04741763"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04976816",
+      "title": "Local Betamethasone Versus Triamcinolone Injection in Management of Thyroid-Related Upper Lid Retraction With and Without Proptosis",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-12-01",
+      "completion_date": "2023-10-30",
+      "country": "Egypt",
+      "enrollment": 92,
+      "brief_summary": "To compare the efficacy of local injections of two different types of steroid (betamethasone suspension versus triamcinolone acetate) in management of patients with thyroid-related upper lid retraction either isolated or associated with proptosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Thyroid Eye Disease.\n* Thyroid function within normal range.\n\nExclusion Criteria:\n\n* Patients on systemic steroid and or immunosuppressive therapy.\n* Patients underwent thyroidectomy.\n* Sight threatening (severe) TED which requires immediate surgery.\n* Pa",
+      "endpoints": [
+        "to measure the change in MRD1 in mm using slit lamp biomicroscope in all groups after peri-levator injection of different types of steroid",
+        "to measure the change in proptosis in mm using Hertel's exophthalmometer in group B after retrobulbar injection of different types of steroid"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT04976816"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01546402",
+      "title": "Intraoperative Dexamethasone Implant (Ozurdex®) Improves Outcome of Cataract Surgery in Patients With Diabetic Macular Edema",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2012-11",
+      "country": "India",
+      "enrollment": 20,
+      "brief_summary": "This study is undertaken to determine the effect of intravitreal long acting dexamethasone implant, (Ozurdex®) in improving outcome of cataract surgery in patients with diabetic macular edema.\n\nDiabetic Macular Edema and cataract constitute important causes of visual impairment in patients with diabetes. Cataract surgery in patients with diabetic retinopathy is associated with progression of retinopathy.\n\nSeveral modalities such as non-steroidal anti-inflammatory agents, carbonic anhydrase inhib",
+      "eligibility_criteria": "Inclusion Criteria:\n\nThe patients of Type 2 Diabetes Mellitus fulfilling the following inclusion criteria shall be enrolled in the study:\n\n1. Presence of visually significant cataract requiring surgery (any grade)\n2. Patients with Non-proliferative Diabetic Retinopathy (NPDR) with/without clinically",
+      "endpoints": [
+        "Change in the Central Macular Thickness"
+      ],
+      "sponsor": "PIMERIndia",
+      "url": "https://clinicaltrials.gov/study/NCT01546402"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02912182",
+      "title": "Acute Unilateral Vestibulopathy and Corticosteroid Treatment",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2015-12",
+      "completion_date": "2021-03-01",
+      "country": "Sweden",
+      "enrollment": 78,
+      "brief_summary": "Randomized placebo controlled trial on patients suffering from acute unilateral vestibulopathy. Patients will be randomized into 3 arms; 1) Placebo only, 2) Short corticosteroid treatment (3days) 3) Longer corticosteroid treatment (11 days).\n\nVestibular function as well as subjective symptoms will be estimated in the acute stage and regularly up to one year after the debut.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* definite unilateral vestibulopathy\n* no pathological HINTS (examination criteria in acute vestibular syndrome)\n* capable of making their own decisions\n\nExclusion Criteria:\n\n* tinnitus or hearing loss with same debut as vertigo\n* history of bleeding peptic ulcer\n* glaucoma\n* pr",
+      "endpoints": [
+        "Caloric function",
+        "Caloric function"
+      ],
+      "sponsor": "Lund University",
+      "url": "https://clinicaltrials.gov/study/NCT02912182"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07242846",
+      "title": "EFFECT OF INTRAARTICULAR TRIAMCINOLONE HEXACETONIDE AND BETAMETHASONE ON INTRAOCULAR PRESSURE: A PROSPECTIVE RANDOMIZED STUDY",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2025-10-02",
+      "completion_date": "2025-11-10",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 80,
+      "brief_summary": "This study is being done to find out whether two commonly used corticosteroid injections for knee osteoarthritis - betamethasone and triamcinolone hexacetonide - have different effects on eye pressure (intraocular pressure). Adults with painful early-stage knee osteoarthritis who have not improved with standard treatments receive one of these injections into the knee joint as part of their usual care. Eye pressure in both eyes is measured before the injection and one week later. By comparing the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Symptomatic early-stage knee osteoarthritis Patients aged 18-75 years No prior eye surgery No history of elevated IOP or glaucoma diagnosis Patients not receiving any medical treatment altering IOP\n\nExclusion Criteria:\n\n* IOP \\>21 mm Hg Patients with a previous or current diag",
+      "endpoints": [
+        "Change in Intraocular Pressure (IOP) From Baseline to 1 Week"
+      ],
+      "sponsor": "Nigde Omer Halisdemir University",
+      "url": "https://clinicaltrials.gov/study/NCT07242846"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03038295",
+      "title": "Safety and Efficacy of Propranolol Treatment in Newborns With Retinopathy of Prematurity:a Prospective Cohort Study",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2017-03",
+      "completion_date": "2019-12",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of oral/local propranolol in preterm newborns who diagnosed as early phase of retinopathy of prematurity (ROP).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm newborns (birth weight less than 1500g) with stage 1/2 ROP in Zone 2 or 3 without plus\n* A signed parental informed consent\n\nExclusion Criteria:\n\n* Newborns with heart failure\n* Newborns with recurrent bradycardia (heart rate \\< 90 beat per minute)\n* Newborns with seco",
+      "endpoints": [
+        "Number of newborns who have ROP progression",
+        "Number of newborns who need surgical treatment",
+        "Number of newborns who have side effects"
+      ],
+      "sponsor": "Guangdong Women and Children Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03038295"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04734197",
+      "title": "A Multicenter, Randomized, Double-Masked Study To Evaluate The Safety, Tolerability, And Efficacy Of SURF-100 Ophthalmic Solution (A Mycophenolic Acid/Betamethasone Sodium Phosphate Combination) In Subjects With Dry Eye Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-01-11",
+      "completion_date": "2022-03-25",
+      "country": "United States",
+      "enrollment": 349,
+      "brief_summary": "SURF-100 is being studied for the treatment of dry eye disease. SURF-100 is an investigational drug (which means the study drug is currently being tested) in the form of a sterile eye drop.\n\nThe purpose of this research study is to see how well SURF-100 works to treat dry eye and what potential side effects there are, and to compare it with Vehicle (placebo), 0.1% mycophenolic acid (MPA) in Vehicle, 0.3% MPA in Vehicle, 0.01% betamethasone phosphate (BSP) in Vehicle, Restasis and Xiidra. This st",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults at least 18 years of age at the time of the Screening visit.\n2. Willing and able to read, sign, and date the informed consent form (ICF) after the nature of the study has been explained and any questions have been answered, and prior to initiation of any study procedur",
+      "endpoints": [
+        "University of North Carolina Dry Eye Management Scale (UNC DEMS) Responder Analysis"
+      ],
+      "sponsor": "Surface Ophthalmics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04734197"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04194814",
+      "title": "Validation of a Novel Composite of Skin Biomarkers as a Primary Outcome Measure for Evaluating the Safety of Treatments for Atopic Dermatitis: a Randomized Controlled Trial (Phase 2) Comparing the Effects of Crisaborole 2% Ointment to Betamethasone Valerate 0.1% Cream on Skin Structure and Function in Participants With Atopic Dermatitis.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-11-20",
+      "completion_date": "2021-09-30",
+      "country": "United Kingdom",
+      "enrollment": 37,
+      "brief_summary": "The study aims to investigate two new non-invasive technologies for assessing skin properties to identify and validate a range of safety biomarkers that may be considered useful as primary outcome measures for evaluating the safety of topical treatments in atopic dermatitis. The method of assessing these biomarker technologies will be to determine whether twice daily treatment with crisaborole (2%) ointment, compared to betamethasone valerate (0.1%) cream, for up to 4 weeks, may cause skin struc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Volunteers with AD defined according to the UK working party diagnostic criteria\n* Male or female aged 18-65 years old at baseline (Visit 1)\n* Volunteer understands the purpose, modalities and potential risk of the trial\n* Participants able to read and understand English\n* Par",
+      "endpoints": [
+        "Change in Epidermal Thickness"
+      ],
+      "sponsor": "Sheffield Teaching Hospitals NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT04194814"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06643416",
+      "title": "Efficacy and Safety of Add-on Topical Timolol in the Management of Epidermal Growth Factor and Anaplastic Lymphoma Kinase Receptor Tyrosine Kinase Inhibitor-induced Paronychia: a Prospective Randomized Open-labelled Trial",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-10-09",
+      "completion_date": "2025-12-31",
+      "country": "Hong Kong",
+      "enrollment": 40,
+      "brief_summary": "To assess the clinical efficacy of add-on topical timolol 0.5% eye drops to betamethasone valerate 0.1% for the treatment of EGFR-TKI and ALK-TKI induced paronychia.",
+      "eligibility_criteria": "Inclusion criteria\n\n1. Aged 18 years or above, either males or females.\n2. Received EGFR-TKI and ALK-TKI, namely gefitinib, erlotinib, afatinib, osimertinib, amivantamab, dacomitinib, mobocertinib, crizotinib, ceritinib, alectinib, brigatinib and lorlatinib for the treatment of non-small cell lung c",
+      "endpoints": [
+        "The proportion of patients achieved complete response (disappearance of the lesion, absent pain, and/or bleeding) on topical timolol 0.5% eye drops as compared to betamethasone valerate 0.1% lotion"
+      ],
+      "sponsor": "Queen Mary Hospital, Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT06643416"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01168375",
+      "title": "The Role of Umbilical Cord Serum Therapy on Improvement of Corneal Epithelial Defect Following Diabetic Vitrectomy",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "",
+      "completion_date": "",
+      "country": "Iran",
+      "enrollment": "N/A",
+      "brief_summary": "80 diabetic patients underwent vitrectomy and had no history of Eye herpes infection, Refractive surgery, Autoimmune disease, Immune deficiency will be randomized into two groups (double blind)to evaluate the role of umbilical cord serum therapy on improvement of corneal epithelial defect following diabetic vitrectomy. Both groups will take the conventional medication including Chloramphenicol, Betamethasone, Cycloplegic eye drops besides the case group will take umbilical cord serum eye drop in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetic patients with corneal epithelial defect following diabetic vitrectomy at labbafinejad Hospital\n\nExclusion Criteria:\n\n* Any history of Eye herpes infection, Refractive surgery, Autoimmune disease, Immune deficiency\n* Patients with one eye\n* Use of any eye drops except ",
+      "endpoints": [
+        "measurement of corneal epithelial defect"
+      ],
+      "sponsor": "Shahid Beheshti University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01168375"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03192722",
+      "title": "Low Vision Patients' Preference for Colored Filters and Illumination for Near Reading Determined by the LuxIQ/2",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-04-20",
+      "completion_date": "2023-05-31",
+      "country": "United States",
+      "enrollment": 42,
+      "brief_summary": "The effect of tinted filters and illumination on the visual performance of patients with low vision (i.e., individuals with reduced vision that is uncorrectable with glasses, surgery or treatments) has been a topic of research and discussion for many years, yet there is no current consensus or practice standard for the evaluation and recommendation of colored filters and/or illumination intensity. Anecdotally, there have been many subjective reports of improvement in visual function and comfort ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who express a desire to obtain filters in a pair of near reading glasses\n* Age 18 and older\n* Provide informed consent\n* Complaints of difficulty performing sustained reading tasks, such as reading books or magazines\n* Patients who are interested in obtaining preferre",
+      "endpoints": [
+        "Changes in Ramulu's sustained reading test",
+        "Reading domain of Activity inventory"
+      ],
+      "sponsor": "Nova Southeastern University",
+      "url": "https://clinicaltrials.gov/study/NCT03192722"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03844178",
+      "title": "Role of Pupil Centroid Shift Compensation on Lower and Higher Order Aberrations During Photorefractive Keratectomy: An Eye-to-Eye Study",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2019-02-10",
+      "completion_date": "2019-07-01",
+      "country": "Iran",
+      "enrollment": 104,
+      "brief_summary": "patients who are candidates of PRK will be recruited in this intrasubject randomized clinical trial. Inclusion criteria are myopia or myopic astigmatism with refractive cylinder. Exclusion criteria were unstable refractive error, age less than 21 years old, corneal opacity, keratoconus, keratoconus suspects, residual corneal stromal thickness less than 350 µm, moderate or severe dry eye disease and any other ocular pathology other than refractive error. Complete eye exam will be performed preope",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* myopia\n* myopic astigmatism\n\nExclusion Criteria:\n\n* unstable refractive error, age less than 21 years old\n* corneal opacity\n* keratoconus, keratoconus suspects\n* residual corneal stromal thickness less than 350 µm\n* moderate or severe dry eye disease\n* any other ocular patholo",
+      "endpoints": [
+        "Postoperative refractive error"
+      ],
+      "sponsor": "Shahid Beheshti University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03844178"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01075347",
+      "title": "Clinical Study: Topical Autologous Serum Application for the Treatment of Corneal Epithelium Defect After Ocular Surgeries",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2008-03",
+      "country": "Taiwan",
+      "enrollment": 165,
+      "brief_summary": "Ophthalmology ,cornea Autologous serum has long been known to be effective to promote corneal epithelial wound healing in a variety of ocular surface disorders. However, its effectiveness for corneal epithelial defects due to pars plana vitrectomy (PPV) for diabetic retinopathy and penetrating keratoplasty has seldom been reported. In this study, we plan to perform a prospective study to determine the effectiveness of topical autologous serum as a primary treatment for corneal epithelial defect ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with proliferative diabetic retinopathy who's condition need to receive pars plana vitrectomy or patients who need to receive penetrating keratoplasty\n\nExclusion Criteria:\n\n* For PPV: ocular disease such as limbal stem cell Insufficiency , glaucoma, lagophthalmos\n* Fo",
+      "endpoints": [
+        "Patients With Corneal Epithelial Healing Time Within 14 Days"
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01075347"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06084624",
+      "title": "Evaluation of Topical Rebamipide Versus Topical Betamethasone for Management of Oral Ulcers in Behcet's Disease: A Randomized Clinical Trial",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2023-12",
+      "completion_date": "2025-04",
+      "country": "N/A",
+      "enrollment": 40,
+      "brief_summary": "The goal of this randomized clinical trial is to to compare the effect of topical rebamipide to topical betamethasone on oral ulcer severity in patients with Behcet's disease.. The main question it aims to answer is :\n\nWhat is the effect of topical Rebamipide mouthwash compared to topical betamethasone mouthwash in management of oral ulcers in Behcet's disease?\n\nParticipants will will be divided randomly into the two groups and the following outcomes will be measured:\n\nThe oral ulcers severity P",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients diagnosed with Behcet's disease as defined by the revised International Criteria for Behcet's Disease (ICBD2014).\n2. Patients with active oral ulcers.\n3. Patients free from any visible oral lesions other than the oral ulcers of BD.\n4. Patient who will agree to partic",
+      "endpoints": [
+        "oral ulcer severity"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT06084624"
+    }
+  ],
+  "timestamp": "2026-03-04T13:11:42.875488",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,35 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Paclitaxel",
+    "disease": "primary non-gestational choriocarcinoma of ovary",
+    "query_string": "Paclitaxel AND primary non-gestational choriocarcinoma of ovary"
+  },
+  "data": {
+    "query": "Paclitaxel AND primary non-gestational choriocarcinoma of ovary",
+    "results": [
+      {
+        "pmid": "39372162",
+        "title": "Revealing the Unanticipated: An Uncommon Case of Colorectal Adenocarcinoma Transitioning to Choriocarcinoma - A Case Report and Literature Review.",
+        "abstract": "Choriocarcinomas are uncommon tumors, with non-gestational types occurring in both males and females. Primary choriocarcinoma of the colon is extremely rare. It presents significant diagnostic and therapeutic challenges due to its aggressive nature and poor prognosis, with no cure available, and a mean survival of 8 months. This case report describes a 48-year-old woman who presented with abdominal pain and an ovarian mass, initially suspected to be ovarian cancer. Further workup showed a primary tumor in the colon, with extension to the ovary and liver metastasis. The pathology findings confirmed the presence of colorectal adenocarcinoma with choriocarcinomatous differentiation, as indicated by immunohistochemistry. The patient initially responded to the cisplatin/etoposide regimen; however, she relapsed shortly after. The patient received additional treatments with pembrolizumab, paclitaxel, and olaparib, which resulted in partial remission. Despite challenges during treatment, such ",
+        "journal": "European journal of case reports in internal medicine",
+        "year": "2024",
+        "authors": [
+          "Garcia Pleitez Hector",
+          "Saowapa Sakditad",
+          "Olavarria-Bernal Diego",
+          "Juarez Michel",
+          "Kanitthamniyom Chanakarn"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39372162/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:38:26.342173",
+  "success": true,
+  "error_message": null
+}

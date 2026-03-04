@@ -1,0 +1,638 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Simvastatin",
+    "disease": "stroke disorder",
+    "query_string": "Simvastatin AND stroke disorder"
+  },
+  "data": {
+    "query": "Simvastatin AND stroke disorder",
+    "results": [
+      {
+        "pmid": "27616593",
+        "title": "Interpretation of the evidence for the efficacy and safety of statin therapy.",
+        "abstract": "This Review is intended to help clinicians, patients, and the public make informed decisions about statin therapy for the prevention of heart attacks and strokes. It explains how the evidence that is available from randomised controlled trials yields reliable information about both the efficacy and safety of statin therapy. In addition, it discusses how claims that statins commonly cause adverse effects reflect a failure to recognise the limitations of other sources of evidence about the effects of treatment. Large-scale evidence from randomised trials shows that statin therapy reduces the risk of major vascular events (ie, coronary deaths or myocardial infarctions, strokes, and coronary revascularisation procedures) by about one-quarter for each mmol/L reduction in LDL cholesterol during each year (after the first) that it continues to be taken. The absolute benefits of statin therapy depend on an individual's absolute risk of occlusive vascular events and the absolute reduction in LD",
+        "journal": "Lancet (London, England)",
+        "year": "2016",
+        "authors": [
+          "Collins Rory",
+          "Reith Christina",
+          "Emberson Jonathan",
+          "Armitage Jane",
+          "Baigent Colin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Cholesterol, LDL",
+          "Clinical Trials as Topic",
+          "Coronary Disease",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Myocardial Infarction",
+          "Risk Assessment",
+          "Safety"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27616593/"
+      },
+      {
+        "pmid": "20228404",
+        "title": "Effects of combination lipid therapy in type 2 diabetes mellitus.",
+        "abstract": "We investigated whether combination therapy with a statin plus a fibrate, as compared with statin monotherapy, would reduce the risk of cardiovascular disease in patients with type 2 diabetes mellitus who were at high risk for cardiovascular disease.",
+        "journal": "The New England journal of medicine",
+        "year": "2010",
+        "authors": [
+          "Ginsberg Henry N",
+          "Elam Marshall B",
+          "Lovato Laura C",
+          "Crouse John R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Cardiovascular Diseases",
+          "Cholesterol",
+          "Diabetes Mellitus, Type 2",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fenofibrate",
+          "Follow-Up Studies",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20228404/"
+      },
+      {
+        "pmid": "21663949",
+        "title": "The effects of lowering LDL cholesterol with simvastatin plus ezetimibe in patients with chronic kidney disease (Study of Heart and Renal Protection): a randomised placebo-controlled trial.",
+        "abstract": "Lowering LDL cholesterol with statin regimens reduces the risk of myocardial infarction, ischaemic stroke, and the need for coronary revascularisation in people without kidney disease, but its effects in people with moderate-to-severe kidney disease are uncertain. The SHARP trial aimed to assess the efficacy and safety of the combination of simvastatin plus ezetimibe in such patients.",
+        "journal": "Lancet (London, England)",
+        "year": "2011",
+        "authors": [
+          "Baigent Colin",
+          "Landray Martin J",
+          "Reith Christina",
+          "Emberson Jonathan",
+          "Wheeler David C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Azetidines",
+          "Cardiovascular Diseases",
+          "Cholesterol, LDL",
+          "Confidence Intervals",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21663949/"
+      },
+      {
+        "pmid": "12114036",
+        "title": "MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: a randomised placebo-controlled trial.",
+        "abstract": "Throughout the usual LDL cholesterol range in Western populations, lower blood concentrations are associated with lower cardiovascular disease risk. In such populations, therefore, reducing LDL cholesterol may reduce the development of vascular disease, largely irrespective of initial cholesterol concentrations.",
+        "journal": "Lancet (London, England)",
+        "year": "2002",
+        "authors": [],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anticholesteremic Agents",
+          "Cause of Death",
+          "Cholesterol, LDL",
+          "Coronary Disease",
+          "Diabetes Mellitus",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12114036/"
+      },
+      {
+        "pmid": "35331984",
+        "title": "Comparative effectiveness of statins on non-high density lipoprotein cholesterol in people with diabetes and at risk of cardiovascular disease: systematic review and network meta-analysis.",
+        "abstract": "To compare the efficacy of different statin treatments by intensity on levels of non-high density lipoprotein cholesterol (non-HDL-C) for the prevention of cardiovascular disease in people with diabetes.",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2022",
+        "authors": [
+          "Hodkinson Alexander",
+          "Tsimpida Dialechti",
+          "Kontopantelis Evangelos",
+          "Rutter Martin K",
+          "Mamas Mamas A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Bayes Theorem",
+          "Cardiovascular Diseases",
+          "Cholesterol",
+          "Diabetes Mellitus, Type 2",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35331984/"
+      },
+      {
+        "pmid": "30716508",
+        "title": "Comparative effectiveness and safety of statins as a class and of specific statins for primary prevention of cardiovascular disease: A systematic review, meta-analysis, and network meta-analysis of randomized trials with 94,283 participants.",
+        "abstract": "The current guidelines of statins for primary cardiovascular disease (CVD) prevention were based on results from systematic reviews and meta-analyses that suffer from limitations.",
+        "journal": "American heart journal",
+        "year": "2019",
+        "authors": [
+          "Yebyo Henock G",
+          "Aschmann Hélène E",
+          "Kaufmann Marco",
+          "Puhan Milo A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Atorvastatin",
+          "Cardiovascular Diseases",
+          "Cause of Death",
+          "Chemical and Drug Induced Liver Injury",
+          "Double-Blind Method",
+          "Fluvastatin",
+          "Headache",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Kidney Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30716508/"
+      },
+      {
+        "pmid": "22085343",
+        "title": "Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy.",
+        "abstract": "In patients with established cardiovascular disease, residual cardiovascular risk persists despite the achievement of target low-density lipoprotein (LDL) cholesterol levels with statin therapy. It is unclear whether extended-release niacin added to simvastatin to raise low levels of high-density lipoprotein (HDL) cholesterol is superior to simvastatin alone in reducing such residual risk.",
+        "journal": "The New England journal of medicine",
+        "year": "2011",
+        "authors": [
+          "Boden William E",
+          "Probstfield Jeffrey L",
+          "Anderson Todd",
+          "Chaitman Bernard R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Atherosclerosis",
+          "Brain Ischemia",
+          "Cardiovascular Diseases",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22085343/"
+      },
+      {
+        "pmid": "40529509",
+        "title": "A Meta-Analysis of the Incidence of Adverse Reactions of Statins in Various Diseases.",
+        "abstract": "Introduction: In clinical practice, patients often avoid or cease statin use due to adverse reactions or noncompliance. To elucidate statin adverse reactions, their variability across diseases, and the factors influencing them, we conducted a high-quality clinical trial-based meta-analysis. Materials and Methods: Clinical randomized controlled trials involving statins and detailed recording of adverse reactions in the following three databases: PubMed, Embase, and Cochrane Library were included. The retrieval was completed by January 31, 2024. All studies will use the ROB2 scale for bias risk assessment. Results: We had included a total of 41 studies, involving a collective sample size of 64,728 individuals. In patients with hyperlipidemia, there was no difference in the overall incidence of total adverse events among four types of statins (p = 0.37). Simvastatin 40 mg had fewer statin-related adverse reactions. High-dose statin users experienced no remarkable transaminase elevation 0.",
+        "journal": "Cardiovascular therapeutics",
+        "year": "2025",
+        "authors": [
+          "Li Wanying",
+          "Wang Ding",
+          "Lin Caiyue",
+          "Cai Tongze",
+          "Zhao Mei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Incidence",
+          "Risk Factors",
+          "Randomized Controlled Trials as Topic",
+          "Female",
+          "Aged",
+          "Middle Aged",
+          "Risk Assessment",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40529509/"
+      },
+      {
+        "pmid": "21095263",
+        "title": "Study of Heart and Renal Protection (SHARP): randomized trial to assess the effects of lowering low-density lipoprotein cholesterol among 9,438 patients with chronic kidney disease.",
+        "abstract": "Lowering low-density lipoprotein (LDL) cholesterol with statin therapy has been shown to reduce the incidence of atherosclerotic events in many types of patient, but it remains uncertain whether it is of net benefit among people with chronic kidney disease (CKD).",
+        "journal": "American heart journal",
+        "year": "2010",
+        "authors": [
+          "Sharp Collaborative Group"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anticholesteremic Agents",
+          "Atherosclerosis",
+          "Azetidines",
+          "Cholesterol, LDL",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Ezetimibe"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21095263/"
+      },
+      {
+        "pmid": "24903982",
+        "title": "Stroke in patients with aortic stenosis: the Simvastatin and Ezetimibe in Aortic Stenosis study.",
+        "abstract": "There are limited data on risk stratification of stroke in aortic stenosis. This study examined predictors of stroke in aortic stenosis, the prognostic implications of stroke, and how aortic valve replacement (AVR) with or without concomitant coronary artery bypass grafting influenced the predicted outcomes.",
+        "journal": "Stroke",
+        "year": "2014",
+        "authors": [
+          "Greve Anders M",
+          "Dalsgaard Morten",
+          "Bang Casper N",
+          "Egstrup Kenneth",
+          "Ray Simon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anticholesteremic Agents",
+          "Aortic Valve Stenosis",
+          "Azetidines",
+          "Comorbidity",
+          "Coronary Artery Bypass",
+          "Ezetimibe",
+          "Female",
+          "Heart Valve Prosthesis Implantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24903982/"
+      },
+      {
+        "pmid": "18927449",
+        "title": "Simvastatin increases notch signaling activity and promotes arteriogenesis after stroke.",
+        "abstract": "Notch signaling activity regulates arteriogenesis. Presenilin 1 (PS1) mediates Notch signaling activity via cleavage of Notch, liberating Notch intracellular domain (NICD). We tested the hypothesis that simvastatin enhances arteriogenesis after stroke by increasing PS1 activation of the Notch signaling pathway.",
+        "journal": "Stroke",
+        "year": "2009",
+        "authors": [
+          "Zacharek Alex",
+          "Chen Jieli",
+          "Cui Xu",
+          "Yang Yuping",
+          "Chopp Michael"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Brain",
+          "Cell Movement",
+          "Cerebral Arteries",
+          "Cerebrovascular Circulation",
+          "Disease Models, Animal",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Male",
+          "Microcirculation",
+          "Myocytes, Smooth Muscle"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18927449/"
+      },
+      {
+        "pmid": "23391769",
+        "title": "Simvastatin attenuates stroke-induced splenic atrophy and lung susceptibility to spontaneous bacterial infection in mice.",
+        "abstract": "Statins are widely used in the primary and secondary prevention of ischemic stroke, but their effects on stroke-induced immunodepression and poststroke infections are elusive. We investigated the effects of simvastatin treatment on stroke-induced splenic atrophy and lung susceptibility to bacterial infection in acute experimental stroke in mice.",
+        "journal": "Stroke",
+        "year": "2013",
+        "authors": [
+          "Jin Rong",
+          "Zhu Xiaolei",
+          "Liu Lin",
+          "Nanda Anil",
+          "Granger D Neil"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticholesteremic Agents",
+          "Apoptosis",
+          "Atrophy",
+          "Bacterial Infections",
+          "Brain Infarction",
+          "Disease Models, Animal",
+          "Humans",
+          "Infarction, Middle Cerebral Artery",
+          "Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23391769/"
+      },
+      {
+        "pmid": "33186492",
+        "title": "Polypill with or without Aspirin in Persons without Cardiovascular Disease.",
+        "abstract": "A polypill comprising statins, multiple blood-pressure-lowering drugs, and aspirin has been proposed to reduce the risk of cardiovascular disease.",
+        "journal": "The New England journal of medicine",
+        "year": "2021",
+        "authors": [
+          "Yusuf Salim",
+          "Joseph Philip",
+          "Dans Antonio",
+          "Gao Peggy",
+          "Teo Koon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anticholesteremic Agents",
+          "Antihypertensive Agents",
+          "Aspirin",
+          "Atenolol",
+          "Blood Pressure",
+          "Cardiovascular Diseases",
+          "Cholesterol, LDL",
+          "Drug Combinations",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33186492/"
+      },
+      {
+        "pmid": "15923039",
+        "title": "Neuroprotective effect of simvastatin in stroke: a comparison between adult and neonatal rat models of cerebral ischemia.",
+        "abstract": "Statins, the most widely used lipid lowering drugs, have been demonstrated to play a protective role in stroke. Animal studies confirmed the observations obtained in clinical trials and provided additional data on the putative mechanism/s of action underlying this beneficial effect. We have shown that simvastatin reduced the size of the infarct to a different extend, according to the animal model used. Indeed, in the rat neonatal model of hypoxia/ischemia simvastatin affords protection only when is administered before the ischemic insult. In contrast, in adult rats bearing middle cerebral artery occlusion, simvastatin exerted its beneficial effect on brain injury when injected for 3 days either before or after induction of ischemia. Studies carried out to determine the therapeutic window of simvastatin demonstrated that the protective effect is observed after a single dose and when the drug is administered within 3-6 hours after ischemia. Simvastatin-dependent activation of eNOS has be",
+        "journal": "Neurotoxicology",
+        "year": "2005",
+        "authors": [
+          "Cimino M",
+          "Balduini W",
+          "Carloni S",
+          "Gelosa P",
+          "Guerrini U"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aging",
+          "Animals",
+          "Animals, Newborn",
+          "Brain Ischemia",
+          "Disease Models, Animal",
+          "Enzyme Activation",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Infarction, Middle Cerebral Artery",
+          "Neuroprotective Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15923039/"
+      },
+      {
+        "pmid": "25691077",
+        "title": "Cerebrovascular neurosurgery 2014.",
+        "abstract": "Continued advances in our understanding of the management of cerebrovascular disease were made in 2014. A randomized trial for management of unruptured brain arteriovenous malformation (ARUBA) (Mohr et al. Lancet 2014;383:614-21.) and the Scottish intracranial vascular malformation study (Al-Shahi Salman et al. JAMA 2014;311:1661-9) were published and contrasted with reports based on extensive surgical experience. We highlight the results from the simvastatin in aneurysmal subarachnoid hemorrhage study (STASH) (Kirkpatrick et al. Lancet Neurol 2014;13:666-75) which unfortunately did not demonstrate a benefit of simvastatin on outcome in patients with aneurysmal subarachnoid hemorrhage. The 10 year follow-up of the international subarachnoid aneurysm trial (ISAT) (Molyneux et al. Lancet 2014 [E-pub]) and the 3 year follow-up results from the stenting and aggressive medical management for preventing recurrent stroke in intracranial stenosis (SAMMPRIS) (Derdeyn et al. Lancet 2014;383:333-",
+        "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+        "year": "2015",
+        "authors": [
+          "Salem Mohamed",
+          "Gross Bradley A",
+          "Du Rose",
+          "Thomas Ajith J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cerebrovascular Disorders",
+          "Endovascular Procedures",
+          "Humans",
+          "Intracranial Aneurysm",
+          "Intracranial Arteriovenous Malformations",
+          "Neurosurgery",
+          "Neurosurgical Procedures",
+          "Randomized Controlled Trials as Topic",
+          "Stroke",
+          "Subarachnoid Hemorrhage"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25691077/"
+      },
+      {
+        "pmid": "11336576",
+        "title": "Pharmacology and clinical experience with simvastatin.",
+        "abstract": "Simvastatin (Zocortrade mark, Merck) is a safe and effective 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase inhibitor. Simvastatin potently lowers total and low density lipoprotein (LDL) cholesterol. Simvastatin was the first cholesterol-lowering agent that reduced total mortality in a randomised clinical trial. Simvastatin is effective at reducing total mortality, myocardial infarction, coronary mortality and the incidence of stroke or transient ischemic attack in patients with coronary heart disease and hypercholesterolemia. Simvastatin, like other statins, also has non-lipid mechanisms of action. These include anti-inflammatory effects, antiproliferative effects on smooth muscle cells and an upregulation of endothelial nitric oxide synthase. Overall, simvastatin has an excellent safety profile. Simvastatin, along with other statins, has made a significant impact on the morbidity and mortality from coronary heart disease.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2001",
+        "authors": [
+          "Hess D C",
+          "Fagan S C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Arteriosclerosis",
+          "Cholesterol, LDL",
+          "Clinical Trials, Phase I as Topic",
+          "Clinical Trials, Phase II as Topic",
+          "Clinical Trials, Phase III as Topic",
+          "Coronary Disease",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11336576/"
+      },
+      {
+        "pmid": "18070096",
+        "title": "Simvastatin in the acute phase of ischemic stroke: a safety and efficacy pilot trial.",
+        "abstract": "Although statins are being used for secondary prevention of ischemic stroke, recent experimental data have shown new pleiotropic effects of these drugs responsible for their role in neuroprotection. We conducted a pilot, double-blind, randomized, multicenter clinical trial to study for the first time safety and efficacy of simvastatin in the acute phase of ischemic stroke. Simvastatin/placebo was given at 3-12 h from symptom onset to 60 patients with cortical strokes. Efficacy on the evolution of several inflammation markers [interleukin (IL)-6, IL-8, IL-10, monocyte chemoattractant protein-1, intercellular adhesion molecule-1, vascular cell adhesion molecule-1, C-reactive protein, sApo/Fas, tumor necrosis factor-alpha, E-selectin, L-selectin and nitrites+nitrates] and neurological outcome was evaluated at baseline, day 1, 3, 5, 7 and 90. No differences were found amongst the biomarkers studied regarding treatment allocation. Although simvastatin patients improved significantly by the ",
+        "journal": "European journal of neurology",
+        "year": "2008",
+        "authors": [
+          "Montaner J",
+          "Chacón P",
+          "Krupinski J",
+          "Rubio F",
+          "Millán M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Aged",
+          "Aged, 80 and over",
+          "Biomarkers",
+          "Brain Ischemia",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18070096/"
+      },
+      {
+        "pmid": "19591934",
+        "title": "Chemokine, vascular and therapeutic effects of combination Simvastatin and BMSC treatment of stroke.",
+        "abstract": "We investigated the additive therapeutic effect of the combination treatment of stroke with sub-therapeutic doses of Simvastatin, a HMG-CoA reductase inhibitor, and bone marrow stromal cells (BMSCs). Rats were administered Simvastatin (0.5 mg/kg), BMSCs (1x10(6)) or combination of Simvastatin and BMSCs starting at 24 h after stroke. Combination treatment significantly improved neurological outcome, enhanced angiogenesis and arteriogenesis, and increased the number of engrafted-BMSCs in the ischemic brain. The number of engrafted-BMSCs and arteriogenesis was significantly correlated with functional outcome. Simvastatin significantly increased stromal cell-derived factor-1 (SDF1) expression in the ischemic brain and chemokine (CXC motif) receptor-4 (CXCR4) in BMSCs, and increased BMSC migration to RBMECs and astrocytes. Combination treatment of stroke upregulates the SDF1/CXCR4 axis and enhances BMSC migration into the ischemic brain, amplifies arteriogenesis and angiogenesis, and improv",
+        "journal": "Neurobiology of disease",
+        "year": "2009",
+        "authors": [
+          "Cui Xu",
+          "Chopp Michael",
+          "Zacharek Alex",
+          "Roberts Cynthia",
+          "Lu Mei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Analysis of Variance",
+          "Animals",
+          "Blood Vessels",
+          "Bone Marrow Cells",
+          "Bone Marrow Transplantation",
+          "Bromodeoxyuridine",
+          "Cell Movement",
+          "Chemokine CXCL12",
+          "Disease Models, Animal",
+          "Gene Expression Regulation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19591934/"
+      },
+      {
+        "pmid": "9892578",
+        "title": "Natural statins and stroke risk.",
+        "abstract": "",
+        "journal": "Circulation",
+        "year": "1999",
+        "authors": [
+          "Furberg C D"
+        ],
+        "pub_types": [
+          "Comment",
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Cerebrovascular Disorders",
+          "Humans",
+          "Myocardial Infarction",
+          "Pravastatin",
+          "Simvastatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9892578/"
+      },
+      {
+        "pmid": "20451219",
+        "title": "Combination treatment of experimental stroke with Niaspan and Simvastatin, reduces axonal damage and improves functional outcome.",
+        "abstract": "In this study we examined the effect of combination treatment of experimental stroke with Niaspan, a prolonged-release formulation of Niacin (vitamin B3), and Simvastatin, a cholesterol-lowering drug, on functional outcome, axonal damage, axonal density and the of Iba-1 immunoreactive microglia expression in the ischemic brain of rats. Adult male rats were subjected to 2 h middle cerebral artery occlusion (MCAo) and treated with or without Niaspan alone, Simvastatin alone and combination Niaspan and Simvastatin starting 24 h after MCAo and daily for 14 days. Neurological functional tests were performed. Axonal damage and density were evaluated by Amyloid Precursor Protein (APP) and Bielschowsky silver, respectively. Nogo66 Receptor (NgR) expression and immunoreactive microglia (Iba-1) were also measured in the ischemic brain. Niaspan and Simvastatin monotherapy and combination treatment significantly promote functional outcome after stroke (p<0.05) compared to MCAo control animals. Com",
+        "journal": "Journal of the neurological sciences",
+        "year": "2010",
+        "authors": [
+          "Shehadah Amjad",
+          "Chen Jieli",
+          "Cui Xu",
+          "Roberts Cynthia",
+          "Lu Mei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amyloid beta-Protein Precursor",
+          "Animals",
+          "Axons",
+          "Brain",
+          "Brain Ischemia",
+          "Calcium-Binding Proteins",
+          "Delayed-Action Preparations",
+          "Disease Models, Animal",
+          "Drug Therapy, Combination",
+          "GPI-Linked Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20451219/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:32:58.639900",
+  "success": true,
+  "error_message": null
+}

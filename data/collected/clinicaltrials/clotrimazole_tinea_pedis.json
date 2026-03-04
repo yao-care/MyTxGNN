@@ -1,0 +1,191 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clotrimazole",
+    "disease": "tinea pedis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01110330",
+      "title": "A Double-Blind, Randomized, Parallel Group Comparison of Nizoral Cream (F012), Ketoconazole 2% Cream (F126) and Placebo (F000) in the Treatment of Interdigital Tinea Pedis",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2007-07",
+      "completion_date": "2008-10",
+      "country": "Poland, United Kingdom",
+      "enrollment": 583,
+      "brief_summary": "The purpose of this study is to determine if a new formulation of ketoconazole 2% cream is as effective as a current formulation of ketoconazole 2% cream (Nizoral) compared with placebo in treating patients with Tinea pedis, a skin infection commonly known as \"athlete's foot\" that is caused by a kind of mold called a fungus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be co-operative, reliable and sufficiently competent to grade and record symptoms as requested\n* have a clinical diagnosis of uncomplicated interdigital Tinea pedis confirmed by KOH microscopy\n* Be either post-menopausal or surgically sterile, abstinent, or, if sexually active",
+      "endpoints": [
+        "The Number of Patients in the Positive Baseline Culture Set (PBCS) With Mycological Cure (MC) at Week 6"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT01110330"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03999437",
+      "title": "EFFICACY AND SAFETY OF A SINGLE-APPLICATION TREATMENT USING TERBINAFINE HYDROCHLORIDE (1%) TOPICAL LIQUID SOLUTION VERSUS A SINGLE-APPLICATION TREATMENT USING BUTENAFINE HYDROCHLORIDE (1%) TOPICAL LIQUID SOLUTION FOR THE TREATMENT OF TINEA PEDIS: A RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED TRIAL",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2019-01-02",
+      "completion_date": "2020-01-03",
+      "country": "Philippines",
+      "enrollment": 42,
+      "brief_summary": "Tinea pedis or athlete's foot is the most common fungal infection worldwide, caused by infection of the feet with dermatophytes such as Trichophyton rubrum, Trichophyton interdigitale (formerly Trichophyton mentagrophytes), and Epidermophyton floccosum. Diagnosis of tinea pedia involves clinical symptoms as well as microscopic examination. Topical therapies are usually applied once or twice daily for as long as 4 weeks, posing a challenge to compliance. The current study aims to test a formulati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or nonpregnant females aged 18-60 years old.\n* Clinical diagnosis of tinea pedis (total sign/symptom score \\>2), lesions between the toes, with possible extension to the lateral surfaces and soles of the feet confirmed by a positive microscopy prior to dosing.\n* Willing t",
+      "endpoints": [
+        "Proportion of participants with effective treatment at week 6"
+      ],
+      "sponsor": "United Laboratories",
+      "url": "https://clinicaltrials.gov/study/NCT03999437"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01524432",
+      "title": "Phase III Study in Hygienic Socks With Antifungal Agent-loaded Microcapsules for Patients With Tinea Pedis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2012-12",
+      "country": "Hong Kong",
+      "enrollment": 42,
+      "brief_summary": "This is a study of hygienic socks with antifungal agent-loaded microcapsules for subjects with interdigital type tinea pedis (athlete's foot between the toes). This is a 6 week study which has a 2 week treatment period and a 4 week follow-up evaluation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be at least 18 years of age and of either sex.\n* Subjects must have clinical evidence of interdigital tinea pedis of one or both feet characterized by: (i) moderate erythema, (ii) scaling and (iii) mild pruritis.\n* Have microscopic evidence (positive KOH) of the presence of fu",
+      "endpoints": [
+        "• Complete Cure"
+      ],
+      "sponsor": "The Hong Kong Polytechnic University",
+      "url": "https://clinicaltrials.gov/study/NCT01524432"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01580878",
+      "title": "A Double-Blind, Randomized, Parallel-Group, Vehicle-Controlled, Multicenter Study to Evaluate the Safety and Bioequivalence of a Generic Butenafine Hydrochloride Cream, 1% and Reference Listed Lotrimin Ultra® (Butenafine Hydrochloride Cream, 1%) and Compare Both Active Treatments to a Vehicle Control in the Treatment of Interdigital Tinea Pedis.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2012-12",
+      "country": "N/A",
+      "enrollment": 707,
+      "brief_summary": "The primary objective of this study is to determine the comparability of the safety and efficacy of a generic Butenafine Hydrochloride Cream, 1% (test product) and Lotrimin Ultra® (the reference listed drug) in subjects with interdigital tinea pedis. It will also be determined whether the efficacy of each of the two active treatments is superior to that of the vehicle cream (placebo).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Willing \\& able to provide \\& understand written informed consent\n* Healthy male or non-pregnant, non-lactating female at least 18 years of age and older\n* Clinical diagnosis of tinea pedis with lesions localized to the interdigital spaces or that is predominantly interdigital",
+      "endpoints": [
+        "Therapeutic Cure"
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01580878"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00004575",
+      "title": "Investigation of Miconazole as an Inhibitor of Endothelium-Derived Hyperpolarizing Factor",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2000-02",
+      "completion_date": "2001-10",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "This study will investigate the effect of the drug miconazole on blood vessel dilation. Miconazole stops production of EDHF, a substance that causes arteries to dilate. EDHF is produced by the cells that line blood vessels.\n\nNormal volunteers between the ages of 21 to 60 may participate in this study. Candidates will be screened for eligibility with a medical history, physical examination, electrocardiogram and routine laboratory tests. Those enrolled will be injected with miconazole to study it",
+      "eligibility_criteria": "Healthy male or female volunteers (age 21-60 years).\n\nNo presence of intercurrent illness.\n\nNo current smoking (within previous 5 years).\n\nNo hypertension (greater than 140/90).\n\nNo diabetes.\n\nNo hypercholesterolemia (total cholesterol greater than 240 mg/dl).\n\nNo pregnancy or menopause.\n\nNo renal f",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00004575"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00835510",
+      "title": "A Randomized, Double-Blind, Placebo Controlled, Parallel Design, Multiple-Site Study to Evaluate the Clinical Equivalence of Two Butenafine Hydrochloride 1% Creams in Patients With Interdigital Tinea Pedis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-06",
+      "completion_date": "2008-12",
+      "country": "Belize, United States",
+      "enrollment": 548,
+      "brief_summary": "To demonstrate comparable safety and efficacy of Taro Pharmaceuticals Inc. butenafine hydrochloride cream 1% (test product) and Lotrimin Ultra® cream (reference listed drug) in the treatment of interdigital tinea pedis, and to show the superiority of the active treatments over that of the placebo (vehicle).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Microbiologically confirmed clinical diagnosis of interdigital tinea pedis\n* If female and of child bearing potential, prepare to abstain from sexual intercourse or use a reliable method of contraception during the study (e.g., condom, intra-uterine device (IUD), oral, transde",
+      "endpoints": [
+        "Therapeutic Cure - Superiority Analysis",
+        "Therapeutic Cure Non-Inferiority Comparison of Butenafine Cream and Lotrimin Ultra"
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00835510"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01119742",
+      "title": "A Randomized, Double-Blind, Placebo Controlled, Parallel Design, Multiple-Site Study to Evaluate the Clinical Equivalence of Two Generic Butenafine Hydrochloride 1% Creams to Lotrimin Ultra® Cream in Patients With Interdigital Tinea Pedis",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2010-07",
+      "completion_date": "2011-07",
+      "country": "N/A",
+      "enrollment": 428,
+      "brief_summary": "To demonstrate comparable safety and efficacy of Taro Pharmaceuticals, Inc butenafine hydrochloride cream 1% test product and Lotrimin Ultra cream (reference listed drug) in the treatment of interdigital tinea pedis, and to show the superiority of the active treatments over that of the placebo (vehicle).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or non-pregnant, non lactating females 18 years of age or older.\n2. Signed informed consent form, which meets all criteria of current FDA regulations and the requirements of the India regulatory authorities.\n3. If female and of child bearing potential, have a negative ur",
+      "endpoints": [
+        "Therapeutic Cure"
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01119742"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01105013",
+      "title": "Study Clinical, Multicenter, Phase III, to Evaluate the Efficacy and Safety of Tolnaftate Cream in the Treatment of Patients With Fungal Infections Like Tinea Foot, Tinea and Tinea Crural Body\"",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2012-04",
+      "completion_date": "2012-07",
+      "country": "Brazil",
+      "enrollment": 90,
+      "brief_summary": "This is a study clinical, multicenter, Phase III trial, to evaluate the efficacy and safety of tolnaftate cream in the treatment of patients with fungal infections such as Tinea foot, Tinea and Tinea crural body.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of both sexes, of any race, aged 12 years;\n* Ability to understand and sign the IC (for patients older than age) in the case of minors monitoring and consent of a guardian;\n* Clinical diagnosis of fungal infections for tinea pedis (ringworm of the feet) or tinea cruri",
+      "endpoints": [
+        "Evaluate the efficacy and safety of the tolnaftate cream 10 mg / g."
+      ],
+      "sponsor": "Laboratório Teuto Brasileiro S/A",
+      "url": "https://clinicaltrials.gov/study/NCT01105013"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06869681",
+      "title": "Comparison of Efficacy of Sertaconazole Nitrate Cream 2 Percent Vs Clotrimazole 1 Percent for the Treatment of Tinea Pedis.",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-03-01",
+      "completion_date": "2025-06-15",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "This randomized controlled trail study will be carried out on OPD patients in the Department of Dermatology, Jinnah Postgraduate Medical Center. Institutional Ethical committee permission will be obtained and clinical trial registration number (CTN) will be obtained for the study. Written consent will obtained from all the participants of the study.\n\nAll the diagnosed patients of Tinea Pedis who will meet the selection criteria will be enrolled and will be educated regarding the study. Participa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of age 18-65 years age.\n* Either sex.\n* Patients presenting with the clinical manifestations of tinea pedis such as erythema, scaling, vesicles, pustules, and itch.\n* Skin scrapings positive for KOH mount test.\n\nExclusion Criteria:\n\n* Patients with secondary bacterial",
+      "endpoints": [
+        "frequency of Efficacy in both treatment groups"
+      ],
+      "sponsor": "Jinnah Postgraduate Medical Centre",
+      "url": "https://clinicaltrials.gov/study/NCT06869681"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01724229",
+      "title": "An Open-Label Clinical Case Series to Demonstrate Efficacy of the Kendall Skin Wellness System",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-11",
+      "completion_date": "2013-06",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this evaluation is to observe the performance of two (2) different skin care treatment protocols on the skin:\n\n#1 Kendall™ Body Wash \\& Shampoo in combination with the Moisture Barrier Cream; or #2 Kendall™ 2-in-1 Cleanser in combination with the Anti-fungal Cream.\n\nThe scientific evidence supports using these types of skin care products to keep the skin healthy in the presence of moisture, urine, stool, or fungal infection. The cleansers are preferred over soap and water and can ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAdult subjects with any of the following indications:\n\n* Erythema, maceration, or broken (denuded) skin from moisture, urinary or fecal incontinence\n* Irritated, unbroken skin (perineal area)\n* Fungal infection present in the perineal area\n\nExclusion Criteria:\n\n* An existing pre",
+      "endpoints": [
+        "skin condition following treatment"
+      ],
+      "sponsor": "GM Associates",
+      "url": "https://clinicaltrials.gov/study/NCT01724229"
+    }
+  ],
+  "timestamp": "2026-03-04T13:30:26.208226",
+  "success": true,
+  "error_message": null
+}

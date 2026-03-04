@@ -1,0 +1,564 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Dexamethasone",
+    "disease": "erythema multiforme",
+    "query_string": "Dexamethasone AND erythema multiforme"
+  },
+  "data": {
+    "query": "Dexamethasone AND erythema multiforme",
+    "results": [
+      {
+        "pmid": "30189985",
+        "title": "Painful Oral Lesions.",
+        "abstract": "Painful oral vesiculoerosive diseases (OVD) include lichen planus, pemphigus vulgaris, mucous membrane pemphigoid, erythema multiforme, and recurrent aphthous stomatitis. OVD lesions have an immunopathic cause. Treatment is aimed at reducing the immunologic and the following inflammatory response. The mainstay of OVD management is topical or systemic corticosteroids to include topical triamcinolone, fluocinonide, and clobetasol, whereas systemic medications used in practice can include dexamethasone, prednisone, and prednisolone. Oral herpetic lesions can be primary or recurrent. If management is desired, they can be treated by topical or systemic antiviral drugs. Topical antiviral creams include prescription acyclovir, penciclovir and over-the-counter docosanol.",
+        "journal": "Dental clinics of North America",
+        "year": "2018",
+        "authors": [
+          "Hargitai Istvan A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Erythema Multiforme",
+          "Facial Pain",
+          "Humans",
+          "Lichen Planus",
+          "Pemphigoid, Benign Mucous Membrane",
+          "Pemphigus",
+          "Stomatitis, Aphthous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30189985/"
+      },
+      {
+        "pmid": "35832787",
+        "title": "A Case Report: Clinical Efficacy of Combination Treatment of Dexamethasone and Azathioprine in Recurrent Erythema Multiforme.",
+        "abstract": "Recurrent erythema multiforme (REM) may have frequent episodes over a period of several years and is considered to be a hypersensitivity reaction associated with infection or medication. REM is a mucocutaneous disorder which is characterized by targetoid lesions. Most of the cases are caused by herpes simplex virus infection. Systemic corticosteroid is frequently used to treat REM due to its effects in suppressing the disease. When REM is unresponsive to systemic corticosteroid, steroid-sparing treatment needs to be instituted. We reported a case of REM in a 49-year-old male. There were complaints of burning sensations on the skin lesions, along with swelling on both hands. On physical examination, erythematous macules and targetoid lesions were found on both palms, arms, and legs. During hospitalization, dexamethasone 20 mg was administered in a tapering dose but new skin lesions still appeared. Two days after azathioprine 50 mg twice daily was added to the treatment, skin lesions and",
+        "journal": "International medical case reports journal",
+        "year": "2022",
+        "authors": [
+          "Suwarsa Oki",
+          "Dewi Isabella Puspa",
+          "Sutedja Endang",
+          "Dharmadji Hartati Purbo",
+          "Gunawan Hendra"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35832787/"
+      },
+      {
+        "pmid": "38828364",
+        "title": "Vaping as a Risk Factor for Oral Erythema Multiforme: A Case Report and Literature Review.",
+        "abstract": "Erythema multiforme is a hypersensitivity reaction caused by various factors, such as viruses, chemicals, and drugs. Electronic cigarettes (e-cigarettes) or vape is a battery-powered nicotine delivery device that substitutes for traditional cigarettes. The chemical components of vaping, including propylene glycol and nicotine, can cause hypersensitivity reactions.",
+        "journal": "International medical case reports journal",
+        "year": "2024",
+        "authors": [
+          "Santo Agustin Ninintowe T",
+          "Hidayat Wahyu",
+          "Dewi Tenny Setiani"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38828364/"
+      },
+      {
+        "pmid": "37829191",
+        "title": "Probable rivaroxaban-induced erythema multiforme in children: A case report.",
+        "abstract": "Background: Limited data exists on the use of rivaroxaban for the treatment of pediatric patients. This report presents a case of probable rivaroxaban-induced Erythema Multiforme in Children. Case Summary: A female patient aged 5.5 years with antiphospholipid syndrome (APS) was administered oral rivaroxaban tablets 2.5 mg twice a day for 16 days. Subsequently, the patient developed a slight itching sensation on both feet and buttocks without an apparent cause. The following day, erythema multiforme appeared across the body in a scattered pattern. The erythema presented higher than the skin surface and partially merged into areas of the skin. Following an increase in the extent and degree of the erythema, all oral medications were ceased. Treatment with dexamethasone sodium phosphate injection, mometasone furoate cream, and mucopolysaccharide polysulfate cream resulted in an improvement of erythema multiforme. The erythema diminished and did not deteriorate subsequent to changing from r",
+        "journal": "Saudi pharmaceutical journal : SPJ : the official publication of the Saudi Pharmaceutical Society",
+        "year": "2023",
+        "authors": [
+          "Cao Zhongqiang",
+          "Fu Zhengran",
+          "Liu Ying",
+          "Liu Ting",
+          "Zhan Min"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37829191/"
+      },
+      {
+        "pmid": "31327687",
+        "title": "Pembrolizumab plus pomalidomide and dexamethasone for patients with relapsed or refractory multiple myeloma (KEYNOTE-183): a randomised, open-label, phase 3 trial.",
+        "abstract": "Pomalidomide and dexamethasone is a standard of care for patients with multiple myeloma in whom bortezomib and lenalidomide treatment has failed. KEYNOTE-183 assessed efficacy and safety of pomalidomide and dexamethasone with or without pembrolizumab in patients with relapsed or refractory multiple myeloma. Here, we present the findings of an unplanned, ad-hoc interim analysis at the request of the US Food and Drug Administration (FDA).",
+        "journal": "The Lancet. Haematology",
+        "year": "2019",
+        "authors": [
+          "Mateos Maria-Victoria",
+          "Blacklock Hilary",
+          "Schjesvold Fredrik",
+          "Oriol Albert",
+          "Simpson David"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Dexamethasone",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Male",
+          "Multiple Myeloma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31327687/"
+      },
+      {
+        "pmid": "9118633",
+        "title": "Morbilliform erythema-multiforme-like eruption from desoxymethasone.",
+        "abstract": "",
+        "journal": "Contact dermatitis",
+        "year": "1996",
+        "authors": [
+          "Stingeni L",
+          "Hansel K",
+          "Lisi P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anti-Inflammatory Agents",
+          "Chronic Disease",
+          "Dermatitis, Allergic Contact",
+          "Desoximetasone",
+          "Drug Eruptions",
+          "Emulsions",
+          "Erythema Multiforme",
+          "Follow-Up Studies",
+          "Glucocorticoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9118633/"
+      },
+      {
+        "pmid": "8809612",
+        "title": "Toxic epidermal necrolysis.",
+        "abstract": "Most studies on drug-induced toxic epidermal necrolysis (TEN) report a high mortality rate. This has been attributed partly to the use of corticosteroids for its treatment. However, we consider corticosteroids to be the sheet anchor for saving the patients having TEN.",
+        "journal": "International journal of dermatology",
+        "year": "1996",
+        "authors": [
+          "Pasricha J S",
+          "Khaitan B K",
+          "Shantharaman R",
+          "Mital A",
+          "Girdhar M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Dexamethasone",
+          "Female",
+          "Glucocorticoids",
+          "Humans",
+          "Male",
+          "Stevens-Johnson Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8809612/"
+      },
+      {
+        "pmid": "14184734",
+        "title": "[LYELL'S SYNDROME].",
+        "abstract": "",
+        "journal": "Bulletin de la Societe francaise de dermatologie et de syphiligraphie",
+        "year": "1964",
+        "authors": [
+          "LAUGIER P",
+          "GISSELBRECHT H",
+          "RISOLD J P",
+          "PAGEAULT G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amino Alcohols",
+          "Aminopyrine",
+          "Ascorbic Acid",
+          "Blood Protein Electrophoresis",
+          "Dexamethasone",
+          "Humans",
+          "Hypoproteinemia",
+          "Immunoelectrophoresis",
+          "Leukocyte Disorders",
+          "Leukopenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14184734/"
+      },
+      {
+        "pmid": "33511662",
+        "title": "COVID-19-induced toxic epidermal necrolysis.",
+        "abstract": "",
+        "journal": "Clinical and experimental dermatology",
+        "year": "2021",
+        "authors": [
+          "Narang I",
+          "Panthagani A P",
+          "Lewis M",
+          "Chohan B",
+          "Ferguson A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Androstadienes",
+          "Aromatase Inhibitors",
+          "Body Surface Area",
+          "Bone Neoplasms",
+          "Brain Neoplasms",
+          "Breast Neoplasms",
+          "COVID-19",
+          "Dexamethasone",
+          "Emollients"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33511662/"
+      },
+      {
+        "pmid": "28128086",
+        "title": "Vesicular Contact Reaction May Progress into Erythema Multiforme.",
+        "abstract": "Dear Editor, Erythema multiforme is considered an acute skin condition, characterized by a self-limiting and sometimes recurrent course. It is regarded as a type IV hypersensitivity reaction associated with certain infections, medications, and other various triggers. Allergic contact dermatitis is in turn a delayed type of induced allergy as a result of cutaneous contact with a specific allergen to which the patient develops specific sensitivity. This type of cutaneous reaction is associated with inflammation manifesting with erythema, edema, and vesicles. A 27-year old female patient presented with a 3-day history of erythematous and vesicular lesions which developed 24 hours after cesarean section. Initially the lesions were localized in the area of surgery (mainly the abdomen and upper thighs) and on the next day progressed to the buttocks and lumbar area. The patient was referred to the Outpatient Clinic and was treated with antihistamines, but her dermatological state deteriorated",
+        "journal": "Acta dermatovenerologica Croatica : ADC",
+        "year": "2016",
+        "authors": [
+          "Czarnecka-Operacz Magdalena",
+          "Jenerowicz Dorota",
+          "Szulczyńska-Gabor Joanna",
+          "Teresiak-Mikołajczak Ewa",
+          "Szyfter-Harris Joanna"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Allergens",
+          "Cesarean Section",
+          "Dermatitis, Allergic Contact",
+          "Disease Progression",
+          "Enzyme-Linked Immunosorbent Assay",
+          "Erythema Multiforme",
+          "Female",
+          "Follow-Up Studies",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28128086/"
+      },
+      {
+        "pmid": "35379509",
+        "title": "Therapeutic approach of Lyell syndrome with infliximab and dexamethasone pulse: report of a clinical case.",
+        "abstract": "",
+        "journal": "Anais brasileiros de dermatologia",
+        "year": "2022",
+        "authors": [
+          "Pacheco Jânia Dara Jácome",
+          "Ribeiro Maria Rodrigues Viegas",
+          "Queirós Catarina Sousa Duque Soares",
+          "Xambre Maria Fátima Cameira Martins"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dexamethasone",
+          "Humans",
+          "Infliximab",
+          "Stevens-Johnson Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35379509/"
+      },
+      {
+        "pmid": "32643953",
+        "title": "Anti-MDA-5 Dermatomyositis With Development of Drug-Mediated Necrolytic Skin Lesions.",
+        "abstract": "A 59-year-old male presented with 1 month of progressive dyspnea, 30-lb weight loss, and skin changes on the digits of the hands. In the 4 weeks prior to admission, he was admitted and treated twice for pneumonia at another hospital and received intravenous (IV) vancomycin, ceftriaxone, and azithromycin for a total of 10 days. After admission, he underwent computed tomography imaging of chest, which revealed findings suggestive of interstitial lung disease but given the fact that infection was not ruled out, empiric antibiotics were initiated. The skin lesions on the fingers were felt to be consistent with Gottron's papules, and his overall constellation of findings were felt to be consistent with dermatomyositis (DM). Over the following 3 days, he developed diffuse, violaceous skin lesions, elevation of liver transaminases, and severe thrombocytopenia. The skin lesions progressed to epidermal necrosis. He developed erosions of the oral mucosa and scrotum. Before skin biopsy results we",
+        "journal": "Journal of investigative medicine high impact case reports",
+        "year": "2020",
+        "authors": [
+          "Case Robert A",
+          "Patel Vishal",
+          "Mejia-Otero Carolina",
+          "Siroy Alan E",
+          "Patel Divya C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Autoantibodies",
+          "Dermatomyositis",
+          "Dexamethasone",
+          "Humans",
+          "Immunoglobulins, Intravenous",
+          "Interferon-Induced Helicase, IFIH1",
+          "Male",
+          "Middle Aged",
+          "Skin",
+          "Stevens-Johnson Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32643953/"
+      },
+      {
+        "pmid": "18499877",
+        "title": "Erythema multiforme associated with prophylactic use of phenytoin during cranial radiation therapy.",
+        "abstract": "A case of erythema multiforme associated with prophylactic use of phenytoin during cranial radiation therapy is reported.",
+        "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+        "year": "2008",
+        "authors": [
+          "Barbosa Leandro A",
+          "Teixeira Carlos Roberto V"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Brain Neoplasms",
+          "Breast Neoplasms",
+          "Carcinoma, Intraductal, Noninfiltrating",
+          "Cranial Irradiation",
+          "Erythema Multiforme",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Phenytoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18499877/"
+      },
+      {
+        "pmid": "39506448",
+        "title": "Carbamazepine-induced Stevens-Johnson Syndrome: A Case Report with Review of the Literature.",
+        "abstract": "Stevens-Johnson Syndrome (SJS) is an infrequent yet severe mucocutaneous reaction that involves less than 10% of the Body Surface Area (BSA). It is predominantly induced by certain medications, including anticonvulsants (e.g., Lamotrigine, Carbamazepine, Phenytoin, Phenobarbitone), Allopurinol at doses above 100 mg per day, and sulphonamides (e.g., Cotrimoxazole, Sulfasalazine). Genetic predispositions, particularly the presence of the HLA-B*1502 allele, significantly increase the risk of developing SJS. This case report discusses a unique presentation of SJS in a young female patient, emphasizing the critical need for genetic screening and careful monitoring when prescribing Carbamazepine, especially in populations at higher genetic risk.",
+        "journal": "Current drug safety",
+        "year": "2025",
+        "authors": [
+          "Subramanian Arunkumar",
+          "Haitharali Rajamohamed",
+          "Nirenjen S",
+          "Tamilanban T",
+          "Dhanasekaran Sivaraman"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Case Reports",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Stevens-Johnson Syndrome",
+          "Carbamazepine",
+          "Female",
+          "Anticonvulsants",
+          "Young Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39506448/"
+      },
+      {
+        "pmid": "39429084",
+        "title": "[Deflazacort-induced Steven-Johnson syndrome: a case report and literature review].",
+        "abstract": "Objective: To summarize the clinical features and outcomes of deflazacort-induced Steven Johnson syndrome (SJS)-toxic epidermal necrolysis (TEN) to raise awareness among patients with Duchenne muscular dystrophy (DMD), neurologists as well as other deflazacort users. Methods: The clinical data of a boy with DMD who had SJS induced by deflazacort treated at the Department of Rheumatology & Clinical Immunology of Tianjin Children's Hospital in July 2024 was analyzed retrospectively. Taking \"deflazacort\" \"Steven-Johnson syndrome\" \"toxic epidermal necrolysis\" in Chinese or English as the keywords, literature was searched at CNKI, Wanfang, China Biomedical Literature Database and PubMed up to July 2024. The clinical characteristics, treatment and outcomes of deflazacort-induced SJS-TEN were summarized. Results: A 12-year-old boy was admitted with a 3-day history of rash. He was diagnosed with DMD at the age of 3 and had been treated with prednisolone since the age of 8. Forty-four days befo",
+        "journal": "Zhonghua er ke za zhi = Chinese journal of pediatrics",
+        "year": "2024",
+        "authors": [
+          "Li C W",
+          "Sun N",
+          "Li S N",
+          "Zhang Y C",
+          "Ma J J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Case Reports",
+          "Review",
+          "English Abstract"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Child",
+          "Stevens-Johnson Syndrome",
+          "Pregnenediones",
+          "Muscular Dystrophy, Duchenne",
+          "Immunoglobulins, Intravenous",
+          "Prednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39429084/"
+      },
+      {
+        "pmid": "39500588",
+        "title": "Stevens-Johnson syndrome presenting with massive oesophageal bleeding.",
+        "abstract": "Stevens-Johnson syndrome (SJS) is a severe adverse drug reaction affecting the skin and mucosal membranes, characterised by lesions covering less than 10% of the body's surface. Although gastrointestinal (GI) complications are usually mild, severe GI involvement can be life-threatening. A woman in her 30s with end-stage renal disease developed sepsis from methicillin-sensitive Staphylococcus aureus After 15 days of hospitalisation and antibiotic treatment, she developed new skin lesions, followed by massive GI bleeding and haemodynamic instability. Oesophagogastroduodenoscopy revealed necrotic plaques and mucosal sloughing along the oesophagus. Skin biopsy results confirmed SJS. Despite intensive care and multiple blood transfusions, she required intravenous dexamethasone. The patient improved and was discharged after 6 weeks. SJS can lead to serious complications, including rare but potentially life-threatening GI involvement. Effective management involves drug withdrawal, intensive c",
+        "journal": "BMJ case reports",
+        "year": "2024",
+        "authors": [
+          "Seubsung Atcha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Stevens-Johnson Syndrome",
+          "Female",
+          "Gastrointestinal Hemorrhage",
+          "Adult",
+          "Esophageal Diseases",
+          "Dexamethasone",
+          "Endoscopy, Digestive System"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39500588/"
+      },
+      {
+        "pmid": "25406459",
+        "title": "Corticosteroids in Stevens-Johnson Syndrome/toxic epidermal necrolysis: current evidence and implications for future research.",
+        "abstract": "To review the evidence for the use of steroids in adults presenting with Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), or overlap.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2015",
+        "authors": [
+          "Law Ernest H",
+          "Leung May"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Biomedical Research",
+          "Cardiovascular Agents",
+          "Cross-Sectional Studies",
+          "Dexamethasone",
+          "Glucocorticoids",
+          "Hospitalization",
+          "Humans",
+          "Prednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25406459/"
+      },
+      {
+        "pmid": "12571794",
+        "title": "[Febrile respiratory infection and erythema in a 25-year-old man].",
+        "abstract": "A 26-year-old man fell acutely ill with fever (39 degrees C), rigor, dry cough, headache and pain in the neck and limbs. Ambulant treatment with amoxycillin, later cefuroximaxetil, worsened his general condition. At admission to hospital he had, over his trunk and limbs, cocarde-like, erythematous efflorescences up to 2 cm in diameter with central elevations and blisters. Additional acute bronchitis, pharyngitis, stomatitis, tonsillitis, conjunctivitis and urethritis indicated extensive mucosal involvement.",
+        "journal": "Deutsche medizinische Wochenschrift (1946)",
+        "year": "2003",
+        "authors": [
+          "Hammerschmidt S",
+          "Gessner C",
+          "Seyfarth H-J",
+          "Schauer J",
+          "Wirtz H"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Anti-Inflammatory Agents",
+          "Dexamethasone",
+          "Diagnosis, Differential",
+          "Enzyme-Linked Immunosorbent Assay",
+          "Erythema Multiforme",
+          "Erythromycin",
+          "Glucocorticoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12571794/"
+      },
+      {
+        "pmid": "21467603",
+        "title": "A systematic review of treatment of drug-induced Stevens-Johnson syndrome and toxic epidermal necrolysis in children.",
+        "abstract": "Stevens-Johnson (SJS) and Toxic Epidermal Necrolysis (TEN) are two uncommon mucocutaneous diseases usually considered as severe drug reactions and are characterized by different grades of epidermal necrosis. Several treatment modalities have been proposed with variable results but the lack of controlled studies makes difficult to analyze them objectively especially in children. All publications describing management for SJS and TEN in children were searched in MEDLINE, EMBASE, and the Cochrane Library. Reports included were divided in two categories: A, studies with 5 or more patients and observational studies; and B, reports with less than 5 patients. A formal meta-analysis was not feasible. Description was made using central tendency measures. From 1389 references only 31 references with a total of 128 cases were included, 88 category A and 40 category B. The 4 main treatment modalities were: intravenous immunoglobulin (IVIG), steroids (prednisolone, methylprednisolone, dexamethasone",
+        "journal": "Journal of population therapeutics and clinical pharmacology = Journal de la therapeutique des populations et de la pharmacologie clinique",
+        "year": "2011",
+        "authors": [
+          "Del Pozzo-Magana Blanca R",
+          "Lazo-Langner Alejandro",
+          "Carleton Bruce",
+          "Castro-Pastrana Lucila I",
+          "Rieder Michael J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Humans",
+          "Stevens-Johnson Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21467603/"
+      },
+      {
+        "pmid": "33068096",
+        "title": "Cotrimoxazole Induced Steven Johnson Syndrome: A Case Report.",
+        "abstract": "Steven Johnson syndrome and toxic epidermal necrolysis are severe and rare adverse drug reactions usually caused by drugs like antiepileptics, penicillin and allopurinol and sometimes also due to infections, malignancy or idiopathic in some cases. Here we are reporting a case of a 50 years female who came with complaint of a burning sensation on the upper half of the body with atypical flat target lesion that later coalesced involving her face, chest and bilateral upper limbs. On examination, positive nikolsky sign and tenderness with <10% body surface area involvement was noticed. The diagnosis of cotrimoxazole induced Steven Johnson syndrome was made. Patient was shifted to ICU and given supportive care along with prophylactic teicoplanin, itraconazole and dexamethasone. The mechanism of eruptions in our patient was due to cotrimoxazole. Cotrimoxazole induced Steven Johnson syndrome is rare and the supportive management with broad spectrum antibiotic and the corticosteroid was enough",
+        "journal": "JNMA; journal of the Nepal Medical Association",
+        "year": "2020",
+        "authors": [
+          "Acharya Ayushma",
+          "Acharya Shreedhar Prasad",
+          "Bhattarai Tulsi Ram"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Allopurinol",
+          "Anti-Bacterial Agents",
+          "Anticonvulsants",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Stevens-Johnson Syndrome",
+          "Trimethoprim, Sulfamethoxazole Drug Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33068096/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:18:32.249502",
+  "success": true,
+  "error_message": null
+}

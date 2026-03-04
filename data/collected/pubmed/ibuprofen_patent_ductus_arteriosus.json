@@ -1,0 +1,626 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ibuprofen",
+    "disease": "patent ductus arteriosus",
+    "query_string": "Ibuprofen AND patent ductus arteriosus"
+  },
+  "data": {
+    "query": "Ibuprofen AND patent ductus arteriosus",
+    "results": [
+      {
+        "pmid": "29584842",
+        "title": "Association of Placebo, Indomethacin, Ibuprofen, and Acetaminophen With Closure of Hemodynamically Significant Patent Ductus Arteriosus in Preterm Infants: A Systematic Review and Meta-analysis.",
+        "abstract": "Despite increasing emphasis on conservative management of patent ductus arteriosus (PDA) in preterm infants, different pharmacotherapeutic interventions are used to treat those developing a hemodynamically significant PDA.",
+        "journal": "JAMA",
+        "year": "2018",
+        "authors": [
+          "Mitra Souvik",
+          "Florez Ivan D",
+          "Tamayo Maria E",
+          "Mbuagbaw Lawrence",
+          "Vanniyasingam Thuva"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Acetaminophen",
+          "Administration, Intravenous",
+          "Administration, Oral",
+          "Bayes Theorem",
+          "Cerebral Hemorrhage",
+          "Ductus Arteriosus, Patent",
+          "Enterocolitis, Necrotizing",
+          "Hemodynamics",
+          "Humans",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29584842/"
+      },
+      {
+        "pmid": "40288780",
+        "title": "Patent Ductus Arteriosus in Preterm Infants.",
+        "abstract": "Despite extensive research in basic science and in clinical settings with thousands of infants over decades, uncertainty and controversy persist regarding the significance, assessment, and management of the patent ductus arteriosus (PDA) in preterm infants, resulting in substantial variability in clinical approach. This clinical report aims to succinctly review the available evidence to guide evaluation and treatment of preterm infants with prolonged ductal patency. Delayed closure of the PDA is common in preterm infants, particularly at more extreme immaturity. Echocardiography is essential for confirming the presence of a PDA and assessing hemodynamic significance. Medical closure of a PDA using ibuprofen or acetaminophen is an option for a hemodynamically significant PDA (hsPDA). Recent data from multiple clinical trials indicate the lack of benefits of prophylactic or early (<2 weeks of age) medical closure of PDA as compared with expectant management, and they are, therefore, not ",
+        "journal": "Pediatrics",
+        "year": "2025",
+        "authors": [
+          "Ambalavanan Namasivayam",
+          "Aucott Susan W",
+          "Salavitabar Arash",
+          "Levy Victor Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ductus Arteriosus, Patent",
+          "Infant, Newborn",
+          "Infant, Premature",
+          "Ibuprofen",
+          "Echocardiography",
+          "Infant, Premature, Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40288780/"
+      },
+      {
+        "pmid": "36477458",
+        "title": "Expectant Management or Early Ibuprofen for Patent Ductus Arteriosus.",
+        "abstract": "Cyclooxygenase inhibitors are commonly used in infants with patent ductus arteriosus (PDA), but the benefit of these drugs is uncertain.",
+        "journal": "The New England journal of medicine",
+        "year": "2023",
+        "authors": [
+          "Hundscheid Tim",
+          "Onland Wes",
+          "Kooi Elisabeth M W",
+          "Vijlbrief Daniel C",
+          "de Vries Willem B"
+        ],
+        "pub_types": [
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Bronchopulmonary Dysplasia",
+          "Ductus Arteriosus, Patent",
+          "Echocardiography",
+          "Enterocolitis, Necrotizing",
+          "Ibuprofen",
+          "Indomethacin",
+          "Infant, Extremely Premature"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36477458/"
+      },
+      {
+        "pmid": "38265644",
+        "title": "Trial of Selective Early Treatment of Patent Ductus Arteriosus with Ibuprofen.",
+        "abstract": "The cyclooxygenase inhibitor ibuprofen may be used to treat patent ductus arteriosus (PDA) in preterm infants. Whether selective early treatment of large PDAs with ibuprofen would improve short-term outcomes is not known.",
+        "journal": "The New England journal of medicine",
+        "year": "2024",
+        "authors": [
+          "Gupta Samir",
+          "Subhedar Nimish V",
+          "Bell Jennifer L",
+          "Field David",
+          "Bowler Ursula"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Infant, Newborn",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Bronchopulmonary Dysplasia",
+          "Ductus Arteriosus, Patent",
+          "Ibuprofen",
+          "Infant, Extremely Premature",
+          "Cyclooxygenase Inhibitors",
+          "Double-Blind Method",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38265644/"
+      },
+      {
+        "pmid": "37039501",
+        "title": "Interventions for patent ductus arteriosus (PDA) in preterm infants: an overview of Cochrane Systematic Reviews.",
+        "abstract": "Patent ductus arteriosus (PDA) is associated with significant morbidity and mortality in preterm infants. Several non-pharmacological, pharmacological, and surgical approaches have been explored to prevent or treat a PDA.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2023",
+        "authors": [
+          "Mitra Souvik",
+          "de Boode Willem P",
+          "Weisz Dany E",
+          "Shah Prakeshkumar S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Infant, Newborn",
+          "Humans",
+          "Ductus Arteriosus, Patent",
+          "Ibuprofen",
+          "Cyclooxygenase Inhibitors",
+          "Acetaminophen",
+          "Prostaglandin Antagonists",
+          "Systematic Reviews as Topic",
+          "Infant, Premature",
+          "Indomethacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37039501/"
+      },
+      {
+        "pmid": "32045960",
+        "title": "Ibuprofen for the treatment of patent ductus arteriosus in preterm or low birth weight (or both) infants.",
+        "abstract": "Indomethacin is used as standard therapy to close a patent ductus arteriosus (PDA) but is associated with reduced blood flow to several organs. Ibuprofen, another cyclo-oxygenase inhibitor, may be as effective as indomethacin with fewer adverse effects.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2020",
+        "authors": [
+          "Ohlsson Arne",
+          "Walia Rajneesh",
+          "Shah Sachin S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Cyclooxygenase Inhibitors",
+          "Ductus Arteriosus, Patent",
+          "Enzyme Inhibitors",
+          "Humans",
+          "Ibuprofen",
+          "Indomethacin",
+          "Infant, Low Birth Weight",
+          "Infant, Newborn",
+          "Infant, Premature",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32045960/"
+      },
+      {
+        "pmid": "32888085",
+        "title": "Intravenous paracetamol in comparison with ibuprofen for the treatment of patent ductus arteriosus in preterm infants: a randomized controlled trial.",
+        "abstract": "Our aim was to assess the efficacy and safety of intravenous (i.v.) paracetamol vs. i.v. ibuprofen for the treatment of hemodynamically significant patent ductus arteriosus (hsPDA) in preterm infants. This is a multicenter randomized controlled study. Infants with a gestational age of 25+0-31+6 weeks were randomized to receive i.v. paracetamol (15 mg/kg/6 h for 3 days) or i.v. ibuprofen (10-5-5 mg/kg/day). The primary outcome was the closure rate of hsPDA after the first treatment course with paracetamol or ibuprofen. Secondary outcomes included the constriction rate of hsPDA, the re-opening rate, and the need for surgical closure. Fifty-two and 49 infants received paracetamol or ibuprofen, respectively. Paracetamol was less effective in closing hsPDA than ibuprofen (52 vs. 78%; P = 0.026), but the constriction rate of the ductus was similar (81 vs. 90%; P = 0.202), as confirmed by logistic regression analysis. The re-opening rate, the need for surgical closure, and the occurrence of a",
+        "journal": "European journal of pediatrics",
+        "year": "2021",
+        "authors": [
+          "Dani Carlo",
+          "Lista Gianluca",
+          "Bianchi Silvia",
+          "Mosca Fabio",
+          "Schena Federico"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acetaminophen",
+          "Ductus Arteriosus, Patent",
+          "Gestational Age",
+          "Humans",
+          "Ibuprofen",
+          "Infant",
+          "Infant, Newborn",
+          "Infant, Premature"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32888085/"
+      },
+      {
+        "pmid": "39011550",
+        "title": "Acetaminophen for Patent Ductus Arteriosus and Risk of Mortality and Pulmonary Morbidity.",
+        "abstract": "Emerging data indicate that acetaminophen may adversely affect lung health. We examined whether acetaminophen compared with cyclooxygenase (COX) inhibitor alone for patent ductus arteriosus (PDA) is associated with mortality or respiratory morbidity in extremely preterm infants.",
+        "journal": "Pediatrics",
+        "year": "2024",
+        "authors": [
+          "Jensen Erik A",
+          "DeMauro Sara B",
+          "Rysavy Matthew A",
+          "Patel Ravi M",
+          "Laughon Matthew M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ductus Arteriosus, Patent",
+          "Acetaminophen",
+          "Retrospective Studies",
+          "Infant, Newborn",
+          "Female",
+          "Male",
+          "Cyclooxygenase Inhibitors",
+          "Infant, Extremely Premature",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39011550/"
+      },
+      {
+        "pmid": "39661802",
+        "title": "Therapeutic Efficacy and Safety of Paracetamol versus Ibuprofen in Patent Ductus Arteriosus in Newborns: A Systematic Review.",
+        "abstract": "Closure of the ductus arteriosus (DA) using cyclooxygenase (COX) inhibitors is considered the first-line treatment for hemodynamically significant patent ductus arteriosus (PDA). Physiologically, prostaglandins have a recognized role in PDA. Admittedly, the comparative efficacy and safety between ibuprofen and acetaminophen need to be determined for rational choice of drug therapy for closure of the DA in clinical protocols. This study aims to present the aspects of the efficacy and therapeutic safety of paracetamol versus ibuprofen in the treatment of PDA in premature newborns. A systematic review of the literature was carried out, following the recommendations of the PRISMA protocol, using the Medline, Pubmed, LILACS, and SciELO databases. Studies from the last 10 years (2013-2023) that analyzed the efficacy and/or safety of acetaminophen compared to ibuprofen in newborns diagnosed with PDA were included. Eight randomized clinical trials (RCTs) were selected for analysis, resulting i",
+        "journal": "Arquivos brasileiros de cardiologia",
+        "year": "2024",
+        "authors": [
+          "da Silva Halecy Davidson Sousa",
+          "Franco Eryvelton de Souza",
+          "Lima Larissa Caroline de Almeida Sousa",
+          "Maia Maria Bernadete de Sousa"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ductus Arteriosus, Patent",
+          "Ibuprofen",
+          "Acetaminophen",
+          "Infant, Newborn",
+          "Infant, Premature",
+          "Treatment Outcome",
+          "Cyclooxygenase Inhibitors",
+          "Randomized Controlled Trials as Topic",
+          "Analgesics, Non-Narcotic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39661802/"
+      },
+      {
+        "pmid": "36519620",
+        "title": "Paracetamol (acetaminophen) for patent ductus arteriosus in preterm or low birth weight infants.",
+        "abstract": "The different management strategies for patent ductus arteriosus (PDA) in preterm infants are expectant management, surgery, or medical treatment with non-selective cyclo-oxygenase inhibitors. Randomized controlled trials (RCTs) have suggested that paracetamol may be an effective and safe agent for the closure of a PDA.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2022",
+        "authors": [
+          "Jasani Bonny",
+          "Mitra Souvik",
+          "Shah Prakeshkumar S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Acetaminophen",
+          "Ductus Arteriosus, Patent",
+          "Ibuprofen",
+          "Indomethacin",
+          "Infant, Low Birth Weight",
+          "Drug Therapy, Combination",
+          "Infant, Premature"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36519620/"
+      },
+      {
+        "pmid": "31222841",
+        "title": "Ibuprofen for the prevention of patent ductus arteriosus in preterm and/or low birth weight infants.",
+        "abstract": "Patent ductus arteriosus (PDA) complicates the clinical course of preterm infants and increases the risk of adverse outcomes. Indomethacin has been the standard treatment to close a PDA but is associated with renal, gastrointestinal, and cerebral side effects. Ibuprofen has less effect on blood flow velocity to important organs.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2019",
+        "authors": [
+          "Ohlsson Arne",
+          "Shah Sachin S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Cerebral Hemorrhage",
+          "Ductus Arteriosus, Patent",
+          "Enterocolitis, Necrotizing",
+          "Gastrointestinal Hemorrhage",
+          "Humans",
+          "Ibuprofen",
+          "Infant, Low Birth Weight",
+          "Infant, Newborn",
+          "Infant, Premature"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31222841/"
+      },
+      {
+        "pmid": "31985838",
+        "title": "Ibuprofen for the prevention of patent ductus arteriosus in preterm and/or low birth weight infants.",
+        "abstract": "Patent ductus arteriosus (PDA) complicates the clinical course of preterm infants and increases the risk of adverse outcomes. Indomethacin has been the standard treatment to close a PDA but is associated with renal, gastrointestinal, and cerebral side effects. Ibuprofen has less effect on blood flow velocity to important organs.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2020",
+        "authors": [
+          "Ohlsson Arne",
+          "Shah Sachin S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Cerebral Hemorrhage",
+          "Cyclooxygenase Inhibitors",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Ductus Arteriosus, Patent",
+          "Enterocolitis, Necrotizing",
+          "Enzyme Inhibitors",
+          "Gastrointestinal Hemorrhage",
+          "Humans",
+          "Ibuprofen",
+          "Indomethacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31985838/"
+      },
+      {
+        "pmid": "40016984",
+        "title": "Oral ibuprofen versus placebo in closure of patent ductus arteriosus in preterm neonates, a randomized control trial.",
+        "abstract": "A consensus on treatment of patent ductus arteriosus (PDA) in preterm neonates remains elusive. Conservative management has recently gained popularity due to medical treatment lacking the evidence of benefit in terms of mortality and morbidity.",
+        "journal": "Journal of neonatal-perinatal medicine",
+        "year": "2024",
+        "authors": [
+          "El Sherif Dalia Fathi",
+          "El Raggal Nehal Mohamed",
+          "Nasef Marwa Waheed",
+          "Saleh Ghada Ahmad",
+          "Youssef Nada Hussein"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Infant, Newborn",
+          "Male",
+          "Administration, Oral",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Bronchopulmonary Dysplasia",
+          "Ductus Arteriosus, Patent",
+          "Ibuprofen",
+          "Infant, Premature"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40016984/"
+      },
+      {
+        "pmid": "36914506",
+        "title": "Association of patent ductus arteriosus with fetal factors and endotypes of prematurity.",
+        "abstract": "During fetal life, the ductus arteriosus (DA) acquires the mechanisms for its postnatal closure following a thorough developmental program. This program can be interrupted by preterm birth and is also susceptible to alteration during fetal life by numerous physiological and pathological stimuli. In this review, we aim to summarize the evidence on how physiological and pathological factors affect DA development, eventually leading to patent DA (PDA). Specifically, we reviewed the associations of sex, race, and pathophysiological pathways leading to very preterm birth (endotypes) with PDA incidence and pharmacological closure. Summary of evidence suggests that there are no male-female differences in the incidence of PDA among very preterm infants. In contrast, risk of developing PDA appears to be higher in infants exposed to chorioamnionitis or who are small for gestational age. Finally, hypertensive disorders of pregnancy may be associated with a better response to pharmacological treat",
+        "journal": "Seminars in perinatology",
+        "year": "2023",
+        "authors": [
+          "Villamor Eduardo",
+          "Borges-Luján Moreyba",
+          "González-Luis Gema"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Infant",
+          "Infant, Newborn",
+          "Female",
+          "Humans",
+          "Ductus Arteriosus, Patent",
+          "Indomethacin",
+          "Premature Birth",
+          "Ibuprofen",
+          "Infant, Extremely Premature",
+          "Fetal Growth Retardation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36914506/"
+      },
+      {
+        "pmid": "41364689",
+        "title": "Expectant Management vs Medication for Patent Ductus Arteriosus in Preterm Infants: The PDA Randomized Clinical Trial.",
+        "abstract": "The management of patent ductus arteriosus (PDA) in preterm infants is controversial.",
+        "journal": "JAMA",
+        "year": "2026",
+        "authors": [
+          "Laughon Matthew M",
+          "Thomas Sonia M",
+          "Watterberg Kristi L",
+          "Kennedy Kathleen A",
+          "Keszler Martin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Comparative Study",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ductus Arteriosus, Patent",
+          "Infant, Newborn",
+          "Indomethacin",
+          "Watchful Waiting",
+          "Ibuprofen",
+          "Female",
+          "Male",
+          "Bronchopulmonary Dysplasia",
+          "Infant, Premature"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41364689/"
+      },
+      {
+        "pmid": "36914507",
+        "title": "Combination pharmacotherapy for patent ductus arteriosus: Rationale and evidence.",
+        "abstract": "While cyclooxygenase inhibitors have been the most common medications used to facilitate earlier closure of patent ductus arteriosus in preterm infants, adverse effects and low efficacy in extremely low gestational age neonates (ELGANs) have highlighted a need for alternative options. Combination therapy with acetaminophen and ibuprofen is a novel strategy for PDA treatment in ELGANs, as it may facilitate higher ductal closure rates via additive action on two separate pathways inhibiting prostaglandin production. Initial small observational studies and pilot randomized clinical trials indicate potentially higher efficacy of the combination regime to induce ductal closure in comparison to treatment with ibuprofen alone. In this review, we examine the potential clinical impact of treatment failure in ELGANs with significant PDA, highlight the biological rationale in support of studying combination therapy, and review the randomized and non-randomized studies to date. With the rising numb",
+        "journal": "Seminars in perinatology",
+        "year": "2023",
+        "authors": [
+          "Jasani Bonny",
+          "Weisz Dany E",
+          "Reese Jeff",
+          "Jain Amish"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Infant, Newborn",
+          "Humans",
+          "Ductus Arteriosus, Patent",
+          "Infant, Premature",
+          "Ibuprofen",
+          "Indomethacin",
+          "Infant, Low Birth Weight"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36914507/"
+      },
+      {
+        "pmid": "34021202",
+        "title": "Patent ductus arteriosus treatment trends and associated morbidities in neonates.",
+        "abstract": "To evaluate national epidemiologic data on infants treated for patent ductus arteriosus (PDA) in Korea and analyze outcomes associated with different PDA treatments. We retrospectively evaluated data on 12,336 patients diagnosed with PDA (International Classification of Diseases-10 code: Q250) between 2015 and 2018 from the Health Insurance Review and Assessment database. Among them, 1623 patients underwent surgical ligation (code: O1671). We used birth certificate data from Statistics Korea to estimate the prevalence, diagnosis, and treatment of PDA. The prevalence of infants with PDA was 81 infants per 10,000 live births and 45.2% in very low birth weight (VLBW) infants, which increased from 2015 to 2018. PDA ligation was performed in 2571 infants and 22% VLBW infants. Medical treatment was administered to 4202 infants, which decreased significantly, especially in VLBW infants (62% to 53%). The proportion of treatment was as follows: conservative treatment (53.1%), intravenous ibupro",
+        "journal": "Scientific reports",
+        "year": "2021",
+        "authors": [
+          "Park Joonsik",
+          "Yoon So J",
+          "Han Jungho",
+          "Song In G",
+          "Lim Joohee"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Clinical Decision-Making",
+          "Combined Modality Therapy",
+          "Disease Management",
+          "Ductus Arteriosus, Patent",
+          "Humans",
+          "Infant, Newborn",
+          "Odds Ratio",
+          "Outcome Assessment, Health Care",
+          "Prevalence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34021202/"
+      },
+      {
+        "pmid": "38015103",
+        "title": "Pharmacokinetic and Pharmacodynamic Analysis of Acetaminophen and Ibuprofen Dual Therapy for Patent Ductus Arteriosus Closure in Preterm Neonates at Less Than 29 Weeks of Gestation.",
+        "abstract": "Patent ductus arteriosus (PDA) is a blood vessel that critically supports fetal circulation. The ductus naturally closes within a few days after birth. However, it can stay open in premature neonates for an extended period of time, which is associated with increased mortality and various co-morbidities. Ibuprofen and indomethacin are currently the only 2 drugs approved for inducing PDA closure, but both have been associated with adverse renal and bleeding events. Clinical evidence suggests that combining acetaminophen (APAP) and ibuprofen treatments can decrease the need for surgical ligation. The objective of this study was to establish a disease-drug-trial model to characterize and predict PDA closure following single and combination drug therapy with ibuprofen and/or APAP in children at less than 29 weeks of gestation. The model was informed by a comprehensive literature review. The results of our analysis suggest that ibuprofen and APAP achieve therapeutic synergy. They further sug",
+        "journal": "Journal of clinical pharmacology",
+        "year": "2024",
+        "authors": [
+          "Almoslem Mohammed",
+          "Shah Sanket D",
+          "Vozmediano Valvanera",
+          "Guzy Serge",
+          "Kim Sarah"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Infant, Newborn",
+          "Humans",
+          "Child",
+          "Pregnancy",
+          "Female",
+          "Ibuprofen",
+          "Ductus Arteriosus, Patent",
+          "Acetaminophen",
+          "Infant, Premature",
+          "Infant, Low Birth Weight"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38015103/"
+      },
+      {
+        "pmid": "35404294",
+        "title": "Efficacy and safety of high versus standard dose ibuprofen for patent ductus arteriosus treatment in preterm infants: A systematic review and meta-analysis.",
+        "abstract": "Several small randomized controlled trials (RCTs) and observational studies have compared high (15-20/7.5-10/7.5-10 mg/kg/dose) versus standard dose (10/5/5 mg/kg/dose) ibuprofen for patent ductus arteriosus (PDA) closure, with limited evidence on efficacy and safety.",
+        "journal": "Journal of neonatal-perinatal medicine",
+        "year": "2022",
+        "authors": [
+          "Yeung T",
+          "Shahroor M",
+          "Jain A",
+          "Weisz D",
+          "Jasani B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Cyclooxygenase Inhibitors",
+          "Ductus Arteriosus, Patent",
+          "Humans",
+          "Ibuprofen",
+          "Indomethacin",
+          "Infant, Low Birth Weight",
+          "Infant, Newborn",
+          "Infant, Premature"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35404294/"
+      },
+      {
+        "pmid": "36008521",
+        "title": "Dual medication therapy (acetaminophen and ibuprofen) for the management of patent ductus arteriosus in preterm infants: a systematic review and meta-analysis.",
+        "abstract": "To examine the efficacy of dual medication therapy (intervention) (DMT: acetaminophen and ibuprofen) vs. single medication therapy (control) (SMT: ibuprofen) for medical management of PDA (outcomes) in preterm infants (population).",
+        "journal": "Journal of perinatology : official journal of the California Perinatal Association",
+        "year": "2022",
+        "authors": [
+          "Shah Sanket D",
+          "Makker Kartikeya",
+          "Zhang Mingyu",
+          "Harnett Susan",
+          "Aziz Khyzer B"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Infant, Newborn",
+          "Humans",
+          "Ductus Arteriosus, Patent",
+          "Ibuprofen",
+          "Acetaminophen",
+          "Indomethacin",
+          "Infant, Low Birth Weight",
+          "Infant, Premature"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36008521/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:40:28.646909",
+  "success": true,
+  "error_message": null
+}

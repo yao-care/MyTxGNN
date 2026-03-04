@@ -1,0 +1,929 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Hydrocortisone Acetate",
+    "disease": "lymphosarcoma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03007147",
+      "title": "International Phase 3 Trial in Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia (Ph+ALL) Testing Imatinib in Combination With Two Different Cytotoxic Chemotherapy Backbones",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-08-08",
+      "completion_date": "2027-09-30",
+      "country": "Australia, Canada, Sweden, Hong Kong, Puerto Rico, Switzerland, France, Germany, United States, Czechia, Austria, Israel, Saudi Arabia, Netherlands, New Zealand, Belgium, Italy, Chile, Finland",
+      "enrollment": 475,
+      "brief_summary": "This randomized phase III trial studies how well imatinib mesylate works in combination with two different chemotherapy regimens in treating patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukemia (ALL). Imatinib mesylate has been shown to improve outcomes in children and adolescents with Philadelphia chromosome positive (Ph+) ALL when given with strong chemotherapy, but the combination has many side effects. This trial is testing whether a different chemother",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* For patients enrolled on APEC14B1 prior to enrollment on AALL1631, the required diagnostic bone marrow sample has been fulfilled\n\n  * For patients who have not previously enrolled on APEC14B1 prior to enrollment on AALL1631, a baseline diagnostic sample (or peripheral blood sa",
+      "endpoints": [
+        "Disease free survival (DFS) of Randomized Arms (standard risk [SR] Philadelphia chromosome [Ph+] acute lymphoblastic leukemia [ALL] patients)"
+      ],
+      "sponsor": "Children's Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT03007147"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02112916",
+      "title": "A Phase III Randomized Trial Investigating Bortezomib (NSC# 681239) on a Modified Augmented BFM (ABFM) Backbone in Newly Diagnosed T-Lymphoblastic Leukemia (T-ALL) and T-Lymphoblastic Lymphoma (T-LLy)",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2014-10-04",
+      "completion_date": "2026-09-16",
+      "country": "United States, New Zealand, Australia, Canada",
+      "enrollment": 847,
+      "brief_summary": "This randomized phase III trial compares how well combination chemotherapy works when given with or without bortezomib in treating patients with newly diagnosed T-cell acute lymphoblastic leukemia or stage II-IV T-cell lymphoblastic lymphoma. Bortezomib may help reduce the number of leukemia or lymphoma cells by blocking some of the enzymes needed for cell growth. It may also help chemotherapy work better by making cancer cells more sensitive to the drugs. It is not yet known if giving standard ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* T-ALL: T-ALL patients must be enrolled on AALL08B1 or Project:EveryChild (APEC14B1, if open for the classification of ALL patients) prior to treatment and enrollment on AALL1231\n* All patients must be \\> 1 and \\< 31 years of age\n* Patients must have newly diagnosed T-lymphobla",
+      "endpoints": [
+        "Event-free Survival (EFS) for Modified Augmented Berlin-Frankfurt-Munster Backbone With or Without Bortezomib in All Randomized Patients"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT02112916"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04546399",
+      "title": "A Phase 2 Study of Blinatumomab (NSC# 765986) in Combination With Nivolumab (NSC # 748726), a Checkpoint Inhibitor of PD-1, in B-ALL Patients Aged &gt;/= 1 to &lt; 31 Years Old With First Relapse",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2020-12-17",
+      "completion_date": "2028-06-30",
+      "country": "Puerto Rico, United States, Australia, Canada",
+      "enrollment": 461,
+      "brief_summary": "This phase II trial studies the effect of nivolumab in combination with blinatumomab compared to blinatumomab alone in treating patients with B-cell acute lymphoblastic leukemia (B-ALL) that has come back (relapsed). Down syndrome patients with relapsed B-ALL are included in this study. Blinatumomab is an antibody, which is a protein that identifies and targets specific molecules in the body. Blinatumomab searches for and attaches itself to the cancer cell. Once attached, an immune response occu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be \\>= 1 and \\< 31 years at time of enrollment\n* Patients must have first relapse of CD19+ B-ALL (relapse blasts must express CD19) in one of the following categories:\n\n  * Isolated bone marrow relapse\n  * Isolated central nervous system (CNS) (excluding known op",
+      "endpoints": [
+        "Minimal residual disease (MRD) negative second remission (Rem-2) rate with blinatumomab vs with blinatumomab + nivolumab (Group 1)",
+        "Event-free survival post-reinduction (EFS PR) (Group 3)",
+        "EFS PR (Group 4)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT04546399"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02535806",
+      "title": "A Pilot Study of Mitoxantrone-Based Four Drug Reinduction in Combination With Bortezomib for Relapsed or Refractory Acute Lymphoblastic Leukemia or Lymphoblastic Lymphoma in Children and Young Adults",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2015-07",
+      "completion_date": "2017-05-25",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "This is a phase II study designed to investigate the combination of bortezomib with the mitoxantrone reinduction regimen used in the ALL R3 trial. The study will enroll patients with high risk ALL relapse including early bone marrow relapse and second or greater relapse of any kind. Patients with relapsed LL will also be eligible. Bone marrow evaluation will be performed after blood counts recover to assess the rate of CR (\\<5% bone marrow blasts) and MRD status in children following this regime",
+      "eligibility_criteria": "Inclusion Eligibility Criteria\n\n* Age: \\> 1 and \\< 40 years of age at the time of enrollment\n* Diagnosis: Precursor B-cell ALL with bone marrow (BM) or combined BM/extramedullary relapse; T-cell ALL with relapsed disease; LL with relapsed disease, or ALL(T or pre-B) with primary refractory disease a",
+      "endpoints": [
+        "Number of Subject With Adverse Events"
+      ],
+      "sponsor": "Children's Mercy Hospital Kansas City",
+      "url": "https://clinicaltrials.gov/study/NCT02535806"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00957320",
+      "title": "A Phase I Study of Sirolimus With PEG-Asparaginase in Multiple Recurrent or Refractory Childhood Acute Lymphoblastic Leukemia",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2009-06",
+      "completion_date": "2012-08",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The goal of this study is to find a safe dose of sirolimus that can be used with a standard dose of L-asparaginase. To find the safe dose, the investigators will give the first patient a very small dose of sirolimus (smaller than the dose used in organ transplant children) and the standard dose of L-asparaginase. The investigators will then look for side effects. If side effects develop, the investigators will decrease the dose of sirolimus. If they do not, the investigators will increase the do",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Less than 21 years old.\n2. Acute lymphoblastic leukemia.\n3. Second or greater bone marrow relapse or 1st relapse and refractory to at least 2 Attempts at re-induction.\n4. Life expectancy of at least 8 weeks.\n5. Fully recovered from the acute toxic effects of all prior therapy",
+      "endpoints": [
+        "To estimate the maximum tolerated dose (MTD) of sirolimus in children with refractory or recurrent acute lymphoblastic leukemia (ALL) who are concurrently receiving PEG-asparaginase.",
+        "To determine the dose limiting toxicities of sirolimus in combination with PEG-asparaginase in this Phase I Study."
+      ],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT00957320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05192889",
+      "title": "RAVEN: A Phase I/II Trial Treating Relapsed Acute Lymphoblastic Leukemia With Venetoclax and Navitoclax",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-08-25",
+      "completion_date": "2027-02",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "This is a phase I/II clinical trial evaluating the activity of combination chemotherapy with venetoclax and navitoclax in children with relapsed or refractory acute lymphoblastic leukemia or lymphoma (rALL) and assessing the combination dose of venetoclax combinations with either blinatumomab for CD19-positive patients or navitoclax and high-dose cytarabine for CD19-negative patients.\n\nPrimary Objectives\n\n* To compare Minimal Residual Disease (MRD)-negative CR/CRi rate in children with relapsed ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis:\n\n  * Relapsed or refractory acute lymphoblastic leukemia or lymphoma with ≥1% bone marrow disease as measured by flow cytometry, PCR, or next generation sequencing. However, if an adequate bone marrow sample cannot be obtained, patients may be enrolled if there is u",
+      "endpoints": [
+        "Number of Participants With Minimal Residual Disease (MRD)-Negative Response",
+        "Recommended Phase 2 Dose of Venetoclax in Combination With a) High-dose Cytarabine and Navitoclax",
+        "Recommended Phase 2 Dose of Venetoclax in Combination With b) Blinatumomab"
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05192889"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05675410",
+      "title": "A Randomized Phase 3 Interim Response Adapted Trial Comparing Standard Therapy With Immuno-oncology Therapy for Children and Adults With Newly Diagnosed Stage I and II Classic Hodgkin Lymphoma",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-05-11",
+      "completion_date": "2031-04-28",
+      "country": "Puerto Rico, United States, Canada",
+      "enrollment": 1875,
+      "brief_summary": "This phase III trial compares the effect of adding immunotherapy (brentuximab vedotin and nivolumab) to standard treatment (chemotherapy with or without radiation) to the standard treatment alone in improving survival in patients with stage I and II classical Hodgkin lymphoma. Brentuximab vedotin is in a class of medications called antibody-drug conjugates. It is made of a monoclonal antibody called brentuximab that is linked to a cytotoxic agent called vedotin. Brentuximab attaches to CD30 posi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be 5 to 60 years of age at the time of enrollment\n* Patients with newly diagnosed untreated histologically confirmed classic Hodgkin lymphoma (cHL) (nodular sclerosis, mixed cellularity, lymphocyte-rich, or lymphocyte-depleted, or not otherwise specified \\[NOS\\])",
+      "endpoints": [
+        "Progression-free survival (PFS) in rapid early responder (RER) patients",
+        "PFS in slow-early responder (SER) patients"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT05675410"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00400946",
+      "title": "Treatment of Acute Lymphoblastic Leukemia in Children",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2019-06",
+      "country": "United States, Canada",
+      "enrollment": 800,
+      "brief_summary": "RATIONALE: L-asparaginase is an important component of treatment for childhood acute lymphoblastic leukemia, but is also associated with notable side-effects, including hypersensitivity, pancreatitis, and thrombosis. We have previously reported that patients with acute lymphoblastic leukemia in whom asparaginase treatment was discontinued because of intolerable side-effects had survival outcomes that were inferior to those who received all or nearly all of their intended doses. Two bacterial sou",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of acute lymphoblastic leukemia (ALL)\n\n  * No known mature B-cell ALL, defined by the presence of any of the following:\n\n    * Surface immunoglobulin\n    * L3 morphology\n    * t(8;14)(q24;q32)\n    * t(8;22)\n    * t(2;8)\n  * T-cell surface markers and t(8;14)(q24",
+      "endpoints": [
+        "Asparaginase-Related Toxicity Rate"
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00400946"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07175415",
+      "title": "ITCC-104: HEM-iSMART International Proof of Concept Therapeutic Stratification Trial of Molecular Anomalies in Relapsed or Refractory HEMatological Malignancies in Children, Sub-Protocol E: Capivasertib + Venetoclax + Dexamethasone in Pediatric Patients With Relapsed or Refractory Hematological Malignancies",
+      "phase": "PHASE1, PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-10-01",
+      "completion_date": "2032-10-01",
+      "country": "N/A",
+      "enrollment": 42,
+      "brief_summary": "HEM-iSMART is a master protocol which investigates multiple investigational medicinal products in children, adolescents and young adults (AYA) with relapsed/refractory (R/R) ALL and LBL. Sub-protocol E is a phase I/II trial evaluating the safety and efficacy of capivasertib + venetocolax in combination with dexamethasone in children and AYA with R/R ped ALL/LBL whose tumor present with alterations of the PAM pathway, or lacking any mutations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children ≥ 2 years and ≤ 18 years of age at the time of first diagnosis and less than 21 years at the time of inclusion\n2. Performance status: Karnofsky performance status (for patients \\>16 years of age) or Lansky Play score (for patients ≤16 years of age) ≥ 50% (Appendix I)",
+      "endpoints": [
+        "Phase I: Maximum tolerated dose (MTD) / Recommended phase 2 dose (RP2D).",
+        "Phase II: Best Overall Response Rate (ORR)."
+      ],
+      "sponsor": "Princess Maxima Center for Pediatric Oncology",
+      "url": "https://clinicaltrials.gov/study/NCT07175415"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00352027",
+      "title": "Stanford V Chemotherapy With Low-Dose Tailored-Field Radiation Therapy for Intermediate Risk Pediatric Hodgkin Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-07-20",
+      "completion_date": "2022-11-15",
+      "country": "United States",
+      "enrollment": 81,
+      "brief_summary": "The main purpose of this protocol is to estimate the percentage of patients with intermediate risk Hodgkin lymphoma who will survive free of disease (Event-free survival) for three years after treatment with multi-agent chemotherapy (Stanford V) and low-dose, tailored-field radiation therapy. The hypothesis being studied is that this treatment will result in more than 80% of patients being alive and free of disease three years after starting treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is less than or equal to 21 years of age\n* Patient has a confirmed diagnosis of previously untreated Hodgkin lymphoma\n* Has Ann Arbor stage IB, IIIA, or IA/IIA with extranodal extension, multiple nodal involvement (3 or more sites), or bulky mediastinal adenopathy.\n\nEx",
+      "endpoints": [
+        "3-year Event-Free Survival Probability"
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00352027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00019409",
+      "title": "A Randomized Study of Two Methods of CNS Prophylaxis in Patients With Acute Lymphoblastic Leukemia",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "1999-10",
+      "completion_date": "2001-07",
+      "country": "India, United States",
+      "enrollment": 0,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage cancer cells. Giving radiation therapy to the head or intrathecal chemotherapy may prevent cancer cells from spreading to the brain. It is not yet known which treatment regimen is more effective for acute lymphoblastic leukemia.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of radiation therapy to the head",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Cytologically confirmed acute lymphoblastic leukemia Greater than 25% lymphoblasts in bone marrow No mediastinal or localized lymphoblastic lymphoma No single node or extranodal site without bone marrow involvement No B cell lymphoma (Burkitt's or L3 FAB) No blast cells posi",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00019409"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01186328",
+      "title": "A Phase I Study Evaluating the Safety, Tolerability and Biological Activity of EZN-3042, a Survivin mRNA Antagonist, Administered With Re-induction Chemotherapy in Children With Relapsed Acute Lymphoblastic Leukemia (ALL)",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2010-08-24",
+      "completion_date": "2012-01-10",
+      "country": "United States, Australia",
+      "enrollment": 6,
+      "brief_summary": "An experimental drug called EZN-3042 targets survivin, a protein expressed in leukemia cells at relapse that promotes the leukemia cells to grow. The main goal of this phase I study is to find out the dose of EZN-3042 that can be safely given without serious side effects both alone and in combination with standard chemotherapy drugs during re-induction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be ≥1 and ≤ 21 years of age when originally diagnosed with acute lymphoblastic leukemia (ALL).\n* Patients must have relapsed or refractory B-precursor acute lymphoblastic leukemia (ALL) with ≥25% blasts in the bone marrow (M3), with or without extramedullary dise",
+      "endpoints": [
+        "Maximum Tolerated Dose of EZN-3042"
+      ],
+      "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+      "url": "https://clinicaltrials.gov/study/NCT01186328"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06124157",
+      "title": "An International Pilot Study of Chemotherapy and Tyrosine Kinase Inhibitors With Blinatumomab in Patients With Newly-Diagnosed Philadelphia Chromosome-Positive or ABL-Class Philadelphia Chromosome-Like B-Cell Acute Lymphoblastic Leukemia",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-05-30",
+      "completion_date": "2030-12-01",
+      "country": "Puerto Rico, United States, Australia, Canada",
+      "enrollment": 222,
+      "brief_summary": "This pilot trial assesses the effect of the combination of blinatumomab with dasatinib or imatinib and standard chemotherapy for treating patients with Philadelphia chromosome positive (Ph+) or ABL-class Philadelphia chromosome-like (Ph-like) B-Cell acute lymphoblastic leukemia (B-ALL). Blinatumomab is a bispecific antibody that binds to two different proteins-one on the surface of cancer cells and one on the surface of cells in the immune system. An antibody is a protein made by the immune syst",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be \\> 365 days and \\< 18 years (for AIEOP-BFM), \\> 365 days and \\< 22 years (for Children's Oncology Group \\[COG\\]) and \\> 365 days and \\< 46 years (for ALLTogether sites) at the time of enrollment\n* Newly-diagnosed Ph+ or ABL-class Ph-like B-ALL. Leukemic blasts",
+      "endpoints": [
+        "Philadelphia chromosome-positive (Ph+) (BCR::ABL1-rearranged) 3-year event free survival (EFS)",
+        "ABL-class Ph-like B-ALL 3-year event free survival (EFS)",
+        "Incidence of adverse events"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT06124157"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03515200",
+      "title": "A Phase I Study of Palbociclib in Combination With Chemotherapy in Pediatric Patients With Relapsed or Refractory Acute Lymphoblastic Leukemia",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2018-04-20",
+      "completion_date": "2020-07-29",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "Leukemia cells grow and divide fast and out of control. In normal cells, certain proteins called CDK4 and CDK6 control cell growth. The study drug called palbociclib works by blocking the CDK4 and CDK6 proteins. Palbociclib has been shown to kill leukemia cells in the laboratory and in animal studies. Palbociclib will be added to other chemotherapy drugs, such as dexamethasone, that are known to be effective in treating childhood ALL.\n\nThis study will be done in two parts: Part 1: Dose Escalatio",
+      "eligibility_criteria": "Inclusion Criteria:\n\nParticipants must be \\< 22 years of age.\n\nDiagnosis:\n\nParticipants must have a diagnosis of acute lymphoblastic leukemia and disease meets at least one of the following criteria:\n\n* relapsed or refractory to chemotherapy as defined by ≥5% leukemic blasts in the bone marrow or fl",
+      "endpoints": [
+        "Maximum tolerated dose (MTD) of palbociclib plus chemotherapy"
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03515200"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05476770",
+      "title": "A Phase I Study of Tagraxofusp With or Without Chemotherapy in Pediatric Patients With Relapsed or Refractory CD123 Expressing Hematologic Malignancies",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2022-11-11",
+      "completion_date": "2027-11-11",
+      "country": "United States, Australia",
+      "enrollment": 54,
+      "brief_summary": "Tagraxofusp is a protein-drug conjugate consisting of a diphtheria toxin redirected to target CD123 has been approved for treatment in pediatric and adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN). This trial aims to examine the safety of this novel agent in pediatric patients with relapsed/refractory hematologic malignancies.\n\nThe mechanism by which tagraxofusp kills cells is distinct from that of conventional chemotherapy. Tagraxofusp directly targets CD123 that is pre",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAge\n\n* Patients must be ≥ 1 and ≤21 years of age at the time of study enrollment.\n\nDiagnosis\n\n* Relapsed and/or refractory hematologic malignancy (including, but not limited to, acute lymphoblastic leukemia, acute myeloid leukemia, myelodysplastic syndrome, mixed phenotype acute",
+      "endpoints": [
+        "Occurrence of dose limiting toxicity (DLT) during cycle 1 of therapy"
+      ],
+      "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+      "url": "https://clinicaltrials.gov/study/NCT05476770"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06584448",
+      "title": "Role of Acetate in Heavy Drinking",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-11-06",
+      "completion_date": "2030-01",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this study is to learn how drinking alcohol affects how people experience stress and how that is affected by the body's chemistry. Specifically, the investigators will be studying relationships of drinking and a stress hormone called cortisol. The investigators believe that results will lead us to find more effective ways to help people stop or reduce drinking when participants are drinking at harmful levels.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Medically stable male or female, aged 18-55.\n* Able to read, write and complete a multitude of self-assessments in Engl",
+      "endpoints": [
+        "Rate of Conversion of Acetate to Glutamate + Glutamine (Glx) in the Brain",
+        "Concentration of [2H]Glx in the brain during administration of [2H]acetate"
+      ],
+      "sponsor": "Yale University",
+      "url": "https://clinicaltrials.gov/study/NCT06584448"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01868035",
+      "title": "Phase II Multicenter Study of Iodine-131 Anti-B1 Antibody Consolidation For Patients With Diffuse Large B-Cell Non-Hodgkin's Lymphoma Following First-line CHOP",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2000-05",
+      "completion_date": "2012-10",
+      "country": "N/A",
+      "enrollment": 15,
+      "brief_summary": "This is a multicenter study for the long-term follow-up of surviving patients who are expected to complete or who have completed at least two years of follow-up after treatment with Iodine I 131 Tositumomab (BEXXAR) on studies CP-97-011, CP-98-025, CP-99-032, or CP-99-036. All patients will be assessed for survival and disease status, including subsequent therapy for Diffuse Large B-cell Non-Hodgkin's Lymphoma (NHL), and for long-term safety. Additionally laboratory evaluations consisting of a t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* male or female subjects age 18 to 80 years, inclusive, with any International Prognostic Index score; treated with 6 or more cycles of first-line CHOP chemotherapy and achieved a PR, CRu, or CR\n* de novo diffuse large B-cell NHL according to the REAL classification; Ann Arbor ",
+      "endpoints": [
+        "Number of Participants With the Indicated Grade 4 Hematology Toxicities Following Iodine-131 Anti-B1 Antibody"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01868035"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002970",
+      "title": "A Phase II Study of Compound 506U78 in Patients With Refractory T-Cell Malignancies-POG/CCG Intergroup Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1997-06",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 148,
+      "brief_summary": "Phase II trial to study the effectiveness of 506U78 in treating patients with recurrent or refractory hematologic cancer. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Refractory or recurrent acute lymphocytic leukemia (ALL) or non-Hodgkin's lymphoma (NHL) with bone marrow involvement (T-cell disease only)\n* Isolated CNS relapse not eligible\n* Performance status - Karnofsky 50-100%\n* At least 8 weeks\n* Bilirubin no greater than 1.5 mg/dL\n* S",
+      "endpoints": [
+        "Early marrow CR plus PR rate at day 21"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00002970"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00526305",
+      "title": "LAL-Ph-2000: Treatment of Acute Lymphoblastic Leukemia Chromosome Philadelphia Positive",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2000-01",
+      "completion_date": "2005-04",
+      "country": "Spain",
+      "enrollment": 100,
+      "brief_summary": "Due to ALL Ph+ patients should receive a different treatment, is proposed a therapeutical protocol with: intensification treatment of induction to increment the CR rate, allogenic transplantation in first CR, autologous transplantation follow by alfa interferon in patients cannot done allogenic transplantation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nALL BCR/ABL+ patients Age \\< 65 years No previous treatment\n\nExclusion Criteria:\n\n1. Other LLA variability\n2. Previous history of coronary valvular, hypertensive cardiopathy illness\n3. Chronic hepatic illness\n4. Chronic respiratory insufficiency\n5. Renal insufficiency not caused",
+      "endpoints": [
+        "To evaluate the efficacy of treatment in order to response rate, relapse free survival and overall survival"
+      ],
+      "sponsor": "PETHEMA Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00526305"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02101853",
+      "title": "Risk-Stratified Randomized Phase III Testing of Blinatumomab (NSC#765986) in First Relapse of Childhood B-Lymphoblastic Leukemia (B-ALL)",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2014-12-17",
+      "completion_date": "2026-09-16",
+      "country": "New Zealand, Australia, Puerto Rico, Canada, United States",
+      "enrollment": 669,
+      "brief_summary": "This randomized phase III trial studies how well blinatumomab works compared with standard combination chemotherapy in treating patients with B-cell acute lymphoblastic leukemia that has returned after a period of improvement (relapsed). Immunotherapy with blinatumomab may allow the body's immune system to attack and destroy some types of leukemia cells. It is not yet known whether blinatumomab is more effective than standard combination chemotherapy in treating relapsed B-cell acute lymphoblast",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients \\>= 1 year and \\< 31 years of age at the time of relapse will be eligible\n* First relapse of B-ALL, allowable sites of disease include isolated bone marrow, combined bone marrow and CNS and/or testicular, and isolated CNS and/or testicular; extramedullary sites are li",
+      "endpoints": [
+        "Disease Free Survival (DFS) of High-risk (HR) and Intermediate-risk (IR) Relapse Patients",
+        "Disease Free Survival (DFS) of Low Risk (LR) Relapse Patients"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT02101853"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002757",
+      "title": "FAB LMB 96 -- Treatment of Mature B-CELL Lymphoma/Leukemia: A SFOP LMB 96/CCG 5961/UKCCSG NHL 9600 Cooperative Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-06",
+      "completion_date": "2009-10",
+      "country": "United Kingdom, France",
+      "enrollment": 1148,
+      "brief_summary": "RATIONALE: Less intensive therapy may attain in the same results as intensive therapy in children with non-Hodgkin's lymphoma.\n\nPURPOSE: Randomized phase III trial to study the effectiveness of less intensive therapy for children who have non-Hodgkin's lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* One of the following diagnoses:\n\n  * Newly diagnosed B-cell non-Hodgkin's lymphoma in Revised European-American Lymphoma (REAL) categories II 9, 10, and 11, i.e.:\n\n    * Diffuse large cell\n    * Burkitt's\n    * High-grade B-cell, Burkitt's-like\n  * L3 leukemia with greate",
+      "endpoints": [
+        "Event Free Survival"
+      ],
+      "sponsor": "Children's Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT00002757"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05740449",
+      "title": "International Proof of Concept Therapeutic Stratification Trial of Molecular Anomalies in Relapsed or Refractory HEMatological Malignancies in Children, Subprotocol A: Decitabine / Venetoclax and Navitoclax in Pediatric Patients With Relapsed or Refractory Hematological Malignancies",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2023-10-01",
+      "completion_date": "2029-10-01",
+      "country": "Netherlands",
+      "enrollment": 0,
+      "brief_summary": "HEM-iSMART is a master protocol which investigates multiple investigational medicinal products in children, adolescents and young adults (AYA) with relapsed/refractory (R/R) ALL and LBL. Sub-protocol A is a phase I/II trial evaluating the safety and efficacy of Decitabine / Venetoclax and Navitoclax in children and AYA with R/R pediatric ALL/LBL",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children between 4 years and 18 years of age at the time of first diagnosis and less than 21 years at the time of inclusion. Children must have a body weight ≥ 20 kg.\n2. Performance status: Karnofsky performance status (for patients \\>12 years of age) or Lansky Play score (fo",
+      "endpoints": [
+        "Phase I: Maximum tolerated dose (MTD) / Recommended phase 2 dose (RP2D)",
+        "Phase II: Best overall response rate (ORR)"
+      ],
+      "sponsor": "Princess Maxima Center for Pediatric Oncology",
+      "url": "https://clinicaltrials.gov/study/NCT05740449"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00489203",
+      "title": "A Phase II Study to Evaluate the Efficacy of Oral Beclomethasone Dipropionate for Prevention of Acute GVHD After Hematopoietic Cell Transplantation With Myeloablative Conditioning Regimens",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 140,
+      "brief_summary": "RATIONALE: Beclomethasone dipropionate may be effective in preventing acute graft-versus-host disease in patients undergoing a stem cell transplant for hematologic cancer.\n\nPURPOSE: This randomized phase II trial is studying how well beclomethasone dipropionate works in preventing acute graft-versus-host disease in patients undergoing a donor stem cell transplant for hematologic cancer.",
+      "eligibility_criteria": "Inclusion\n\n* Allogeneic HCT with marrow or growth-factor mobilized blood cells from an HLA-A, B, C, DRB1, and HLA-DQB1-allele matched or single-allele or antigen mismatched related or unrelated donor\n* Use of myeloablative pre-transplant conditioning regimen with \\> 800 cGy total body irradiation an",
+      "endpoints": [
+        "Development of acute graft-versus-host disease (GVHD) with severity sufficient to require systemic immunosuppressive treatment"
+      ],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00489203"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01843868",
+      "title": "A Single Arm Study to Evaluate the Control of Chemotherapy Induced Nausea and Vomiting in Non-Hodgkin Lymphoma Patients Receiving R-CHOP.",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2012-01",
+      "completion_date": "2015-06",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The incidence and severity of chemotherapy-induced nausea and vomiting (CINV) in patients receiving R-CHOP chemotherapy for in non-Hodgkin's lymphoma is not well documented. The contribution of prednisolone to CINV control in the R-CHOP regimen is also unclear.\n\nThis study aims to evaluate the overall effectiveness of antiemetic control using a standardised 5HT3 (5-Hydroxytryptamine 3) antagonist-containing regimen (e.g. ondansetron) in a heterogeneous group of patients receiving R-CHOP chemothe",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed diagnosis of non Hodgkin's Lymphoma\n2. Newly diagnosed or relapsed patients who are chemotherapy-naïve or who have not received chemotherapy in the last 12 months. Pre-phase therapy with prednisolone and/or vincristine for \\< one week duration prior t",
+      "endpoints": [
+        "Complete Response, Acute Phase (Day 1), Cycle 1",
+        "Complete Response, Delayed Phase (Days 2 to 11), Cycle 1"
+      ],
+      "sponsor": "Australasian Leukaemia and Lymphoma Group",
+      "url": "https://clinicaltrials.gov/study/NCT01843868"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01313221",
+      "title": "A Randomized, Blinded Assessor Study to Evaluate the Efficacy and Safety of Etanercept 50 mg Once Weekly Plus As Needed Topical Agent Versus Etanercept 50 mg Twice Weekly in Subjects With Moderate to Severe Plaque Psoriasis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-04",
+      "completion_date": "2013-05",
+      "country": "Canada",
+      "enrollment": 310,
+      "brief_summary": "To estimate the difference in effectiveness between treatment with etanercept 50 mg twice weekly (BIW) and treatment with etanercept 50 mg once weekly (QW) plus an as needed (PRN) topical agent for 12 weeks in adults with moderate to severe plaque psoriasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has had stable moderate to severe plaque psoriasis for at least 6 months (eg, no morphology changes or significant flares of disease activity in the opinion of the investigator).\n* Has a body surface area (BSA) involvement ≥ 10% and Psoriasis Area and Severity Index (PASI) ≥ 1",
+      "endpoints": [
+        "Percent Change in Psoriasis Area and Severity Index (PASI) From Week 12 to Week 24"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT01313221"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00057811",
+      "title": "A Pilot Study To Determine The Toxicity Of The Addition Of Rituximab To The Induction And Consolidation Phases And The Addition Of Rasburicase To The Reduction Phase In Children With Newly Diagnosed Advanced B-Cell Leukemia/Lymphoma Treated With LMB/FAB Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-06",
+      "completion_date": "2014-07",
+      "country": "United States",
+      "enrollment": 97,
+      "brief_summary": "Phase II trial to study the effectiveness of combining rituximab and rasburicase with combination chemotherapy in treating young patients who have newly diagnosed advanced B-cell leukemia or lymphoma. Monoclonal antibodies such as rituximab can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells. Drugs used in chemotherapy work in different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed mature B-lineage (CD20-positive) leukemia or lymphoma by the REAL classification of 1 of the following subtypes:\n\n  * Diffuse large cell lymphoma\n  * Burkitt's lymphoma\n  * High-grade B-cell lymphoma (Burkitt-like)\n* No B-cell anaplastic large cell Ki-1 positiv",
+      "endpoints": [
+        "Grade ≥ 3 Stomatitis",
+        "Response Rate",
+        "Minimal Residual Disease"
+      ],
+      "sponsor": "Children's Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT00057811"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05761171",
+      "title": "A Phase 2 Study of Revumenib (SNDX-5613) in Combination With Chemotherapy for Patients With Relapsed or Refractory KMT2A-Rearranged Infant Leukemia",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-01-08",
+      "completion_date": "2027-12-31",
+      "country": "United States, Canada",
+      "enrollment": 78,
+      "brief_summary": "This phase II trial tests the safety and best dose of revumenib in combination with chemotherapy, and evaluates whether this treatment improves the outcome in infants and young children who have leukemia that has come back (relapsed) or does not respond to treatment (refractory) and is associated with a KMT2A (MLL) gene rearrangement (KMT2A-R). Leukemia is a cancer of the white blood cells, where too many underdeveloped (abnormal) white blood cells, called \"blasts\", are found in the bone marrow,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be 1 month to \\< 6 years old at the time of study enrollment and must have had initial diagnosis of leukemia at \\< 2 years old.\n* Patients must have KMT2A-rearranged acute lymphoblastic leukemia (ALL), acute leukemia of ambiguous lineage (ALAL), or mixed phenotyp",
+      "endpoints": [
+        "Incidence of dose-limiting toxicities (DLTs) for lymphoid directed chemotherapy block (Safety Phase)",
+        "Incidence of dose-limiting toxicities (DLTs) for myeloid directed chemotherapy block (Safety Phase)",
+        "Minimal residual disease (MRD) negative remission rate in patients with relapsed/refractory (R/R) infant KMT2A-R ALL (Expansion Phase)"
+      ],
+      "sponsor": "Children's Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT05761171"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00481832",
+      "title": "Autologous Followed by Non-myeloablative Allogeneic Transplantation for Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2007-01",
+      "completion_date": "2017-03-30",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this trial is to develop an alternative treatment for patients with poor risk non-Hodgkin's lymphoma. This trial uses a combination of high dose chemotherapy with stem cell transplant using the patient's own cells. This is followed with non-myeloablative transplant using stem cells from a related or unrelated donor to try and generate an anti-lymphoma response from the new immune system.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 to 70 years.\n* Histologically proven non-Hodgkin's lymphoma\n* Relapse after achieving initial remission or failure to achieve initial remission.\n* KPS \\> 70%\n* Matched related or unrelated donor identified and available. Donor must be a complete match or have only a sin",
+      "endpoints": [
+        "Event-free Survival (EFS)"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT00481832"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00096135",
+      "title": "Treatment of Late Isolated Extramedullary Relapse From Acute Lymphoblastic Leukemia (ALL) (Initial CR1≥ 18 Months)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "",
+      "country": "New Zealand, Australia, Canada, Switzerland, United States",
+      "enrollment": 168,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy work in different ways to stop cancer cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage cancer cells. Giving combination chemotherapy together with radiation therapy may kill more cancer cells.\n\nPURPOSE: This clinical trial is studying how well giving chemotherapy together with radiation therapy works in treating patients with acute lymphoblastic leukemia that has relapsed in the CNS and/or testes.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of acute lymphoblastic leukemia (ALL)\n\n  * B-precursor lineage (T-precursor lineage closed to accrual as of 05/20/10)\n  * In first bone marrow remission (M1 by morphology) AND duration of first complete remission ≥ 18 months from time of initial diagnosis\n* Firs",
+      "endpoints": [
+        "Event-free Survival"
+      ],
+      "sponsor": "Children's Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT00096135"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03914625",
+      "title": "A Phase 3 Trial Investigating Blinatumomab (NSC# 765986) in Combination With Chemotherapy in Patients With Newly Diagnosed Standard Risk or Down Syndrome B-Lymphoblastic Leukemia (B-ALL) and the Treatment of Patients With Localized B-Lymphoblastic Lymphoma (B-LLy)",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-07-03",
+      "completion_date": "2027-09-30",
+      "country": "New Zealand, Australia, Puerto Rico, Canada, United States",
+      "enrollment": 6720,
+      "brief_summary": "This phase III trial studies how well blinatumomab works in combination with chemotherapy in treating patients with newly diagnosed, standard risk B-lymphoblastic leukemia or B-lymphoblastic lymphoma with or without Down syndrome. Monoclonal antibodies, such as blinatumomab, may induce changes in the body's immune system and may interfere with the ability of cancer cells to grow and spread. Chemotherapy drugs, such as vincristine, dexamethasone, prednisone, prednisolone, pegaspargase, methotrexa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All B-ALL patients must be enrolled on APEC14B1 and consented to Eligibility Screening (Part A) prior to treatment and enrollment on AALL1731. APEC 14B1 is not a requirement for B-LLy patients. B-LLy patients may directly enroll on AALL1731.\n* Age at diagnosis:\n\n  * Patients m",
+      "endpoints": [
+        "Disease free survival (DFS) in randomization eligible patients with higher risk features (SR-High) or standard risk average (SR-Avg) B-ALL patients based on randomization with addition of blinatumomab",
+        "DFS in boys in the SR-favorable subset of SR B-ALL with or without Down syndrome (DS)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT03914625"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03959085",
+      "title": "A Phase 3 Randomized Trial of Inotuzumab Ozogamicin (NSC#: 772518) for Newly Diagnosed High-Risk B-ALL; Risk-Adapted Post-Induction Therapy for High-Risk B-ALL, Mixed Phenotype Acute Leukemia, and Disseminated B-LLy",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2019-10-31",
+      "completion_date": "2032-03-31",
+      "country": "New Zealand, Australia, Puerto Rico, Canada, United States",
+      "enrollment": 5951,
+      "brief_summary": "This phase III trial studies whether inotuzumab ozogamicin added to post-induction chemotherapy and immunotherapy (chemo-immunotherapy) for patients with High-Risk B-cell Acute Lymphoblastic Leukemia (B-ALL) improves outcomes. This trial also studies the outcomes of patients with mixed phenotype acute leukemia (MPAL), and B-lymphoblastic lymphoma (B-LLy) when treated with ALL therapy without inotuzumab ozogamicin. Inotuzumab ozogamicin is a monoclonal antibody, called inotuzumab, linked to a typ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* B-ALL and MPAL patients must be enrolled on APEC14B1 and consented to eligibility studies (Part A) prior to treatment and enrollment on AALL1732. Note that central confirmation of MPAL diagnosis must occur within 22 days of enrollment for suspected MPAL patients. If not perfor",
+      "endpoints": [
+        "Post-induction 5-year event-free survival (EFS)"
+      ],
+      "sponsor": "Children's Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT03959085"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00720109",
+      "title": "Intensified Tyrosine Kinase Inhibitor Therapy (Dasatinib NSC# 732517) in Philadelphia Chromosome Positive Acute Lymphoblastic Leukemia (ALL)",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-07-14",
+      "completion_date": "2020-03-31",
+      "country": "New Zealand, Australia, Puerto Rico, Canada, United States",
+      "enrollment": 63,
+      "brief_summary": "This phase II/III trial is studying the side effects and how well giving dasatinib together with combination chemotherapy works in treating young patients with newly diagnosed acute lymphoblastic leukemia (ALL). Dasatinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving dasatinib together with combin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed acute lymphoblastic leukemia (ALL)\n\n  * Definitive evidence of BCR-ABL fusion (Philadelphia chromosome positive \\[PH+\\]) from an approved Children's Oncology Group (COG) cytogenetics laboratory\n* Meets one of the following criteria:\n\n  * Concurrent enrollment o",
+      "endpoints": [
+        "Event-Free Survival (EFS) of Patients With Standard-risk Disease Treated With Dasatinib in Combination With Intensified Chemotherapy",
+        "Feasibility and Toxicity of an Intensified Chemotherapeutic Regimen Incorporating Dasatinib for Treatment of Children and Adolescents With Ph+ ALL Assessed by Examining Adverse Events"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00720109"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05751044",
+      "title": "International Proof of Concept Therapeutic Stratification Trial of Molecular Anomalies in Relapsed or Refractory HEMatological Malignancies in Children, Sub-protocol B Dasatinib + Venetoclax + Dexamethasone + Cyclophosphamide and Cytarabine in Pediatric Patients With Relapsed or Refractory Hematological Malignancies",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-10-01",
+      "completion_date": "2032-02-01",
+      "country": "Denmark, Israel, Ireland, Belgium, Italy, Spain, France, Germany, Norway, Sweden, Austria, Finland, United Kingdom, Netherlands",
+      "enrollment": 26,
+      "brief_summary": "HEM-iSMART is a master protocol which investigates multiple investigational medicinal products in children, adolescents and young adults (AYA) with relapsed/refractory (R/R) ALL and LBL. Sub-protocol B is a phase I/II trial evaluating the safety and efficacy of dasatinib + venetocolax in combination with dexamethasone + Cyclophosphamide and cytarabine in children and AYA with R/R ped ALL/LBL whose tumor present with alterations in the MAPK/SRC pathway.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children between 1 year (≥ 12 months) and 18 years of age at the time of first diagnosis and less than 21 years at the time of inclusion\n2. Performance status: Karnofsky performance status (for patients \\>12 years of age) or Lansky Play score (for patients ≤12 years of age) ≥",
+      "endpoints": [
+        "Phase I: Maximum tolerated dose (MTD) / Recommended phase 2 dose (RP2D).",
+        "Phase II: Best Overall Response Rate (ORR)."
+      ],
+      "sponsor": "Princess Maxima Center for Pediatric Oncology",
+      "url": "https://clinicaltrials.gov/study/NCT05751044"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00136435",
+      "title": "A Multicenter Phase II Study in Adults With Untreated Acute Lymphoblastic Leukemia: Testing Pharmacokinetically Individualized Doses of L-Asparaginase Following the Dana Farber Cancer Institute (DFCI) Pediatric Consortium Protocol",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-06",
+      "completion_date": "2011-05",
+      "country": "United States, Canada",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to determine the safety and optimal dosing of L-asparaginase in adult patients with acute lymphoblastic leukemia (ALL) between the ages of 18 and 50 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have pathologically documented acute lymphoblastic leukemia, excluding mature B-cell ALL.\n* No prior therapy for leukemia with the following exceptions:\n\n  * up to one week of steroids;\n  * emergent leukapheresis;\n  * emergency treatment for hyperleukocytosis wit",
+      "endpoints": [
+        "Asparaginase Completion Rate"
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00136435"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00928200",
+      "title": "Intravenous Erwinase for Patients With Relapsed/Refractory Acute Lymphoblastic Leukemia and Allergy to E. Coli Asparaginase (IND 104224)",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2009-04-13",
+      "completion_date": "2010-06-04",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "This is a phase I study using the Erwinia form of asparaginase in place of the E. coli form using a standard re-induction regimen (Vincristine, Dexamethasone, Doxorubicin) for patients with relapsed ALL who have developed an allergy to the E. coli formulation. This study will administer the drug intravenously instead of the usual intramuscular route. The dose of Erwinia will be escalated in the absence of dose limiting toxicity. Patients must have first or second relapse ALL with a history of pr",
+      "eligibility_criteria": "Inclusion Criteria The eligibility criteria listed below are interpreted literally and cannot be waived.\n\n1. Age Patients must be \\>1 and \\< 21 years of age when enrolled onto this study.\n2. Diagnosis Patients must have relapsed or refractory ALL with a M3 marrow (marrow blasts \\>25%) who have had n",
+      "endpoints": [
+        "Occurrence of a Dose-Limiting Toxicity"
+      ],
+      "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+      "url": "https://clinicaltrials.gov/study/NCT00928200"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01861002",
+      "title": "A Phase I Study of 5-Azacytidine in Combination With Chemotherapy for Children With Relapsed or Refractory ALL or AML",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-05-22",
+      "completion_date": "2014-07-28",
+      "country": "United States, Australia, Canada",
+      "enrollment": 15,
+      "brief_summary": "This is a Phase I study with a conditional cohort expansion phase to evaluate the feasibility of, and to obtain preliminary efficacy data about, pretreatment with Azacytidine (AZA) for 5 days followed by fludarabine/cytarabine chemotherapy regimen in pediatric acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL) patients who are refractory to primary treatment or who relapsed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients must be ≥ 1 and ≤ 21 years of age.\n\nDiagnosis\n\n1. Patients with AML must have ≥5% blasts (by morphology) in the bone marrow.\n2. Patients with ALL must have an M2 or M3 marrow (≥5% blasts by morphology).\n3. Patients may have disease in the central nervous system (CNS) or",
+      "endpoints": [
+        "Number of Participants Who Experienced a Dose Limiting Toxicity (DLT)"
+      ],
+      "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+      "url": "https://clinicaltrials.gov/study/NCT01861002"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05974410",
+      "title": "Expanded Access to Immunomodulatory AVM0703 for Solid Tumor and Blood Cancer Patients",
+      "phase": "N/A",
+      "status": "AVAILABLE",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "AVM Biotechnology, Inc., provides immunomodulatory AVM0703 to solid tumor and blood cancer patients upon request by a US licensed MD or DO. As of July 2024, 37 patients have been treated through this FDA-EAP including patients diagnosed with relapsed or recurring glioblastoma, inoperable/chemotherapy ineligible CNS Squamous Cell Carcinoma, metastatic Breast Cancer, ovarian cancer, gastric cancer, Hodgkin's Lymphoma, Mixed Phenotype Acute Myelogenous Leukemia, colon cancer, B-ALL, Malignant Myxoi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\-\n\nExclusion Criteria:\n\n\\-",
+      "endpoints": [],
+      "sponsor": "AVM Biotechnology Inc",
+      "url": "https://clinicaltrials.gov/study/NCT05974410"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00853008",
+      "title": "Treatment of High Risk Adult Acute Lymphoblastic Leukemia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2012-12",
+      "country": "Spain",
+      "enrollment": 100,
+      "brief_summary": "Current therapeutic protocols for adult ALL consider MRD together with the baseline risk factors (age, WBC count, immunophenotype, cytogenetics) and speed in response to therapy for treatment decisions. On the other hand, the systematic use of allogeneic SCT for all adult patients (pts) with Ph- HR-ALL is still a matter of debate. The aim of the prospective study ALL-AR-03 from the Spanish PETHEMA Group was to evaluate the response to a differentiated therapy (chemotherapy or allogeneic SCT) acc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* High risk ALL adult patients (age\\> 15 years)no treated previously\n* High-risk ALL:\n* One or more of the following:\n\n  * Age 30-60 yr.\n  * WBC count \\>25x109/L\n  * 11q23 or ALL1/AF4\n* Very high-risk ALL:\n* HR ALL and one or the following:\n\n  * Slow cytologic response (\\>10% bl",
+      "endpoints": [
+        "To evaluate the response to a differentiated therapy (chemotherapy or allogeneic SCT) according to early bone marrow blast clearance and MRD levels in HR Ph- adult ALL patients."
+      ],
+      "sponsor": "PETHEMA Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00853008"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00466258",
+      "title": "LINFOTARGAM: First-line Treatment With Dose-dense Chemotherapy Plus Rituximab (R-CHOP/14) and Highly Active Antiretroviral Therapy (HAART) in Patients With Diffuse Large B Cell Lymphoma (DLBCL) and Infection With the Human Immunodeficiency Virus (HIV)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2009-11",
+      "country": "Spain",
+      "enrollment": 50,
+      "brief_summary": "Main objective:\n\n* To evaluate the applicability of the treatment:\n\n  1. To evaluate the treatment toxicity according to the Common Terminology Criteria (CTC) version 3.0 of the National Cancer Institute (NCI).\n  2. To evaluate opportunistic and non-opportunistic infections after 6 cycles of treatment with rituximab plus cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) administered every 14 days and highly active antiretroviral therapy (HAART) in patients with diffuse large B ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with HIV infection diagnosed with DLBCL in any stage (I-IV according to the Ann Arbor classification) not previously treated for the lymphoma.\n* Patients with CD20-positive diffuse large B-cell lymphoma\n* Aged from 18 to 70 years old\n* Any score of International Progn",
+      "endpoints": [
+        "treatment toxicity according to the CTC criteria (version 3.0) of the National Cancer Institute (NCI)",
+        "opportunistic and non-opportunistic infections rate after 6 cycles of treatment with R-CHOP administered every 14 days and HAART in patients with DLBCL and HIV infection",
+        "adherence to the treatment with 6 cycles of R-CHOP considering the delays in the administration of the cycles and the reductions in the doses of chemotherapy (planned dose administered in predicted term)"
+      ],
+      "sponsor": "PETHEMA Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00466258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02043587",
+      "title": "A Phase II Study of Punctual, Cyclic, and Intensive Chemotherapy With Liposomal Cytarabine (Depocyt®) CNS Prophylaxis for Adults With Acute Lymphoblastic Leukemia and Lymphoblastic Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2014-01",
+      "completion_date": "2022-04-14",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "The objective of this protocol is to improve survival for adults with acute lymphoblastic leukemia or acute lymphoblastic lymphoma by reducing systemic and central nervous system (CNS) relapse with acceptable toxicity using intensive chemotherapy with liposomal cytarabine (Depocyt®) CNS prophylaxis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to understand and the willingness to sign a written informed consent.\n* Diagnosis of acute lymphoblastic leukemia or lymphoblastic lymphoma as defined by the World Health Organization \\[94\\]\n* Untreated disease EXCEPT for corticosteroids, hydroxyurea, leukapheresis, an",
+      "endpoints": [
+        "Event-free survival"
+      ],
+      "sponsor": "University of California, San Diego",
+      "url": "https://clinicaltrials.gov/study/NCT02043587"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01614197",
+      "title": "A Phase I Trial of Temsirolimus (CCI-779, Pfizer, Inc.) in Combination With Etoposide and Cyclophosphamide in Children With Relapsed Acute Lymphoblastic Leukemia and Non-Hodgkins Lymphoma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-07-03",
+      "completion_date": "2020-09-04",
+      "country": "United States, Australia, Canada",
+      "enrollment": 16,
+      "brief_summary": "This is a phase I study of temsirolimus (Torisel) combined with dexamethasone, cyclophosphamide and etoposide in patients with relapsed acute lymphoblastic leukemia (ALL), lymphoblastic lymphoma (LL) or peripheral T-cell lymphoma (PTL).",
+      "eligibility_criteria": "INCLUSION CRITERIA\n\n-Patients must be greater than or equal to 12 months and ≤ 21 years of age at the time of study enrollment.\n\nPatients must have one of the following:\n\nLeukemia\n\n* Bone marrow involvement defined as ALL ≥ 25% blasts (M2 or M3) with or without extramedullary involvement.\n* Refracto",
+      "endpoints": [
+        "Number of Patients That Experienced DLT During Cycle 1 of Therapy"
+      ],
+      "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+      "url": "https://clinicaltrials.gov/study/NCT01614197"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06533748",
+      "title": "SJALL23H: Combination Antigen-Directed Induction Therapy for Newly Diagnosed Patients With B-Cell Precursor Acute Lymphoblastic Leukemia and Lymphoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-01-23",
+      "completion_date": "2034-05",
+      "country": "United States",
+      "enrollment": 128,
+      "brief_summary": "This is a Phase II clinical trial testing the use of two antigen-directed therapies, inotuzumab and blinatumomab, as part of induction therapy for children and young adults with newly diagnosed B-cell precursor acute lymphoblastic leukemia and lymphoma.\n\nPrimary Objective\n\n* To assess if the flow-cytometry assessed MRD-negative remission rate following an immunotherapy-based Induction in NCI-high risk patients without favorable genetic features is higher than the results of similar patients trea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Enrollment on INITIALL.\n* Age 1-18.99 years at the time of enrollment on INITIALL.\n* B-Acute lymphoblastic leukemia or lymphoblastic lymphoma.\n* No prior chemotherapy excluding therapy given on or allowed by INITIALL.\n* NCI high-risk (age 10 years or greater or presenting WBC ",
+      "endpoints": [
+        "End of induction minimal residual disease negative remission"
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06533748"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00003215",
+      "title": "Standard Chemotherapy (CHOP Regimen) Versus Sequential High-Dose Chemotherapy With Autologous Stem Cell Transplantation in Patients With Newly Diagnosed Aggressive Non-Hodgkin's Lymphomas and Poor Prognostic Factors: A Randomized Phase III Study (MISTRAL)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1997-04",
+      "completion_date": "2004-03",
+      "country": "Greece, Italy, Switzerland, Germany, Austria",
+      "enrollment": 400,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining peripheral stem cell transplantation with more than one drug regimen may kill more tumor cells. It is not known whether receiving standard combination chemotherapy alone is more effective than receiving multiple combination chemotherapy plus peripheral stem cell transplantation for aggressive non-Hodgkin's lymphoma.\n\nPURPOSE: This randomized phase III trial is compari",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed aggressive non-Hodgkin's lymphoma (NHL)\n\n  * Diffuse large B-cell lymphoma\n  * Primary mediastinal large B-cell lymphoma\n  * Anaplastic large cell lymphoma (B-cell, T-cell, or null-cell type)\n* At least two of the following risk factors:\n\n  * Stag",
+      "endpoints": [],
+      "sponsor": "Swiss Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00003215"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00354107",
+      "title": "A Phase I/II Pilot Study of Ifosfamide, Carboplatin and Etoposide Therapy (ICE) and SGN-30 (NSC# 731636, IND#) in Children With CD30+ Recurrent Anaplastic Large Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2007-01",
+      "completion_date": "2010-01",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "This phase I/II trial is studying the side effects and best dose of SGN-30 when given together with ifosfamide, carboplatin, and etoposide and to see how well they work in treating young patients with recurrent anaplastic large cell lymphoma. Drugs used in chemotherapy, such as ifosfamide, carboplatin, and etoposide, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as SGN-30, can block cancer gro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed anaplastic large cell lymphoma\n* CD30-positive disease\n* Must be in first or second relapse\n* Measurable disease\n* No CNS disease\n* Karnofsky performance status (PS) 60-100% (\\> 16 years of age) OR Lansky PS 60-100% (≤ 16 years of age)\n* Absolute neutr",
+      "endpoints": [
+        "Response"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00354107"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01005758",
+      "title": "DFCI ALL Adult Consortium Protocol: Adult ALL Trial",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2009-01",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 180,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more cancer cells.\n\nPURPOSE: This phase II trial is studying the side effects of combination chemotherapy and to see how well it works in treating adult patients with newly diagnosed acute lymphoblastic leukemia.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of acute lymphoblastic leukemia (ALL)\n* No known mature B-cell ALL\\*, defined by the presence of surface immunoglobulin, L3 morphology, t(8;14)(q24;q32), t(8;22), or t(2;8)\n\n  * Patients with T-cell surface markers and t(8;14)(q24;q11) are eligible NOTE: \\*Patie",
+      "endpoints": [
+        "Feasibility of intensification therapy, measured as the percentage of patients who, having achieved a complete remission after induction therapy, receive > 25 weeks of pegaspargase IV as part of intensification therapy",
+        "Toxicity"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01005758"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05658640",
+      "title": "International Proof of Concept Therapeutic Stratification Trial of Molecular Anomalies in Relapsed or Refractory HEMatological Malignancies in Children, Subprotocol D: Trametinib + Dexamethasone + Cyclophosphamide and Cytarabine in Pediatric Patients With Relapsed or Refractory Hematological Malignancies",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-11-14",
+      "completion_date": "2029-04-01",
+      "country": "Denmark, Israel, Ireland, Belgium, Italy, Spain, Switzerland, France, Germany, Norway, Sweden, Austria, Finland, United Kingdom, Netherlands",
+      "enrollment": 26,
+      "brief_summary": "HEM-iSMART is a master protocol which investigates multiple investigational medicinal products in children, adolescents and young adults (AYA) with relapsed/refractory (R/R) ALL and LBL. Sub-protocol D is a phase I/II trial evaluating the safety and efficacy of trametinib in combination with dexamethasone, cyclophosphamide and cytarabine in children and AYA with R/R ped ALL/LBL whose tumor present with alterations in the RAS-RAF-MAPK pathway.",
+      "eligibility_criteria": "Inclusion criteria\n\n1. Children between 1 year (≥ 12 months) and 18 years of age at the time of first diagnosis and less than 21 years at the time of inclusion. Patients under 6 years old must weigh at least 7 kg at the time of enrollment. Patients over 6 years old must weigh at least 10 kg at the t",
+      "endpoints": [
+        "Phase I: Maximum tolerated dose (MTD) / Recommended phase 2 dose (RP2D)",
+        "Phase II: Best Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Princess Maxima Center for Pediatric Oncology",
+      "url": "https://clinicaltrials.gov/study/NCT05658640"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002471",
+      "title": "Phase II Trial of Intensive, Short-Course Combination Chemotherapy in the Treatment of Newly Diagnosed Patients With Poor-Risk Nonlymphoblastic Lymphoma and Acute B-Lymphoblastic Leukemia and in Patients With Recurrent Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1990-02",
+      "completion_date": "2003-01",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one drug may kill more cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy in treating patients who have acute B-lymphoblastic leukemia or recurrent non-Hodgkin's lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Newly diagnosed undifferentiated nonlymphoblastic non-Hodgkin's lymphoma (Burkitt's or non-Burkitt's) Newly diagnosed large cell lymphoma with CNS involvement Recurrent non-Hodgkin's lymphoma L-3 and B-cell leukemia included At least 1 of the following required: LDH at least",
+      "endpoints": [],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00002471"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02303821",
+      "title": "Phase 1b/2 Study of Carfilzomib in Combination With Induction Chemotherapy in Children With Relapsed or Refractory Acute Lymphoblastic Leukemia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-02-16",
+      "completion_date": "2024-06-28",
+      "country": "Greece, Poland, Thailand, Australia, Canada, Sweden, Norway, Hong Kong, Romania, Singapore, Taiwan, Russia, Spain, France, United States, Czechia, Austria, South Korea, Turkey (Türkiye), Denmark, Israel, Mexico, Saudi Arabia, South Africa, Argentina, Netherlands, Portugal, Brazil, Colombia, Italy, Bulgaria, Chile, United Kingdom",
+      "enrollment": 141,
+      "brief_summary": "The purpose of Phase 1b of this study is to:\n\n* Asses the safety, tolerability and activity of carfilzomib, alone and in combination with induction chemotherapy, in children with relapsed or refractory acute lymphoblastic leukemia (ALL).\n* Determine the maximum tolerated dose (MTD) and to recommend a phase 2 dose of carfilzomib in combination with induction chemotherapy.\n\nThe purpose of Phase 2 of this study is to compare the rate of complete remission (CR) of carfilzomib in combination with vin",
+      "eligibility_criteria": "Phase 1b Key Inclusion Criteria:\n\n1. Age 21 years or younger at the time of initial ALL diagnosis and age \\> 1 year at the time of study treatment initiation.\n2. Subjects must have a diagnosis of relapsed or refractory ALL with ≥ 5% blasts in the bone marrow (M2 or M3 disease), with or without extra",
+      "endpoints": [
+        "Phase 1b: Number of Participants Who Experienced Treatment-emergent Adverse Events (TEAEs)",
+        "Phase 1b: Number of Participants Who Experienced Dose Limiting Toxicities (DLTs)",
+        "Phase 2: Percentage of Participants With Complete Remission (CR) After Induction Therapy"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT02303821"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03817320",
+      "title": "A TACL Phase 1/2 Study of PO Ixazomib in Combination With Chemotherapy for Childhood Relapsed or Refractory Acute Lymphoblastic Leukemia and Lymphoblastic Lymphoma IND# 140730",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-02-12",
+      "completion_date": "2025-06-30",
+      "country": "United States, Australia",
+      "enrollment": 24,
+      "brief_summary": "This is a phase 1/2 study of a drug called Ixazomib in combination with cytotoxic chemotherapy consisting of Vincristine, Dexamethasone, Asparaginase, and Doxorubicin (VXLD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age Patients must be ≤21 years of age at the time of enrollment.\n\n  1. Phase 1 - Initial enrollment will be restricted to patients \\< 18 years of age until 9 such patients are enrolled\n  2. Phase 2 - Initial enrollment will be restricted to patients \\< 18 years of age until 6 ",
+      "endpoints": [
+        "Phase 1: Dose Limiting Toxicity (DLT) During Block 1 of Chemotherapy",
+        "Phase 2: Response (CR + CR MRD-, and CR + CR MRD- + CRi) After Block 1 Chemotherapy at the RP2D"
+      ],
+      "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+      "url": "https://clinicaltrials.gov/study/NCT03817320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002700",
+      "title": "A RANDOMIZED PHASE III TRIAL COMPARING DEXAMETHASONE WITH PREDNISONE IN INDUCTION TREATMENT AND BONE MARROW TRANSPLANTATION WITH INTENSIVE MAINTENANCE TREATMENT IN ADOLESCENT AND ADULT ACUTE LYMPHOBLASTIC LEUKEMIA (ALL-4)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1995-08",
+      "completion_date": "",
+      "country": "Belgium, Italy, Croatia, France, Germany, Slovakia, Czechia, Portugal, Turkey (Türkiye), Netherlands",
+      "enrollment": 392,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining chemotherapy with radiation therapy may kill more tumor cells. Bone marrow transplantation can replace immune cells that were destroyed by chemotherapy.\n\nPURPOSE: Randomized phase III trial to study the effectiveness of chemotherapy compared with or without bone marrow transplantation in treating patients with acute lymphoblastic leukemia.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Newly diagnosed acute lymphoblastic leukemia or lymphoblastic lymphoma with more than 30% blasts in bone marrow\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 15 to 60\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* See Disease Characterist",
+      "endpoints": [],
+      "sponsor": "European Organisation for Research and Treatment of Cancer - EORTC",
+      "url": "https://clinicaltrials.gov/study/NCT00002700"
+    }
+  ],
+  "timestamp": "2026-03-04T13:15:13.085997",
+  "success": true,
+  "error_message": null
+}

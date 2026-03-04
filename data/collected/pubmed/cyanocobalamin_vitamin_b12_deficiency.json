@@ -1,0 +1,559 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Cyanocobalamin",
+    "disease": "vitamin B12 deficiency",
+    "query_string": "Cyanocobalamin AND vitamin B12 deficiency"
+  },
+  "data": {
+    "query": "Cyanocobalamin AND vitamin B12 deficiency",
+    "results": [
+      {
+        "pmid": "28925645",
+        "title": "Vitamin B12 Deficiency: Recognition and Management.",
+        "abstract": "Vitamin B12 deficiency is a common cause of megaloblastic anemia, various neuropsychiatric symptoms, and other clinical manifestations. Screening average-risk adults for vitamin B12 deficiency is not recommended. Screening may be warranted in patients with one or more risk factors, such as gastric or small intestine resections, inflammatory bowel disease, use of metformin for more than four months, use of proton pump inhibitors or histamine H2 blockers for more than 12 months, vegans or strict vegetarians, and adults older than 75 years. Initial laboratory assessment should include a complete blood count and serum vitamin B12 level. Measurement of serum methylmalonic acid should be used to confirm deficiency in asymptomatic high-risk patients with low-normal levels of vitamin B12. Oral administration of high-dose vitamin B12 (1 to 2 mg daily) is as effective as intramuscular administration for correcting anemia and neurologic symptoms. Intramuscular therapy leads to more rapid improvem",
+        "journal": "American family physician",
+        "year": "2017",
+        "authors": [
+          "Langan Robert C",
+          "Goodbred Andrew J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hyperhomocysteinemia",
+          "Methylmalonic Acid",
+          "Risk Factors",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28925645/"
+      },
+      {
+        "pmid": "34046142",
+        "title": "Vitamin B12 deficiency: case report and review of literature.",
+        "abstract": "Vitamin B12 deficiency in early childhood is an important cause of neurodevelopmental delay and regression. Most of these cases occur in exclusively breast-fed infants of deficient mothers. Symptoms and signs of vitamin B12 deficiency appear between the ages of 2 to 12 months and include vomiting, lethargy, failure to thrive, hypotonia, and arrest or regression of developmental skills. Approximately one half of this cases exhibit abnormal movements, variously described as tremors, twitches, chorea, or myoclonus. Urinary concentrations of methylmalonic acid and homocysteine are characteristically elevated in vitamin B12 deficiency. Hyperglycinuria is sometimes present. The early diagnosis and treatment of vitamin B12 deficiency is crucial for significant neurological impairment and long-term prognosis. Treatment with vitamin B12 corrects these metabolic abnormalities very rapidly (within a few days). Vitamin B12 supplementation of pregnant women may prevent neurological and neuroradiolo",
+        "journal": "The Pan African medical journal",
+        "year": "2021",
+        "authors": [
+          "Hasbaoui Brahim El",
+          "Mebrouk Nadia",
+          "Saghir Salahiddine",
+          "Yajouri Abdelhkim El",
+          "Abilkassem Rachid"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Breast Feeding",
+          "Dietary Supplements",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male",
+          "Muscle Hypotonia",
+          "Pregnancy",
+          "Prenatal Care",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34046142/"
+      },
+      {
+        "pmid": "35337631",
+        "title": "Neuropsychiatric manifestations in vitamin B12 deficiency.",
+        "abstract": "Vitamin B12 deficiency can have distressing neuropsychiatric symptoms. It can have an etiological role in clinical presentations like depression, anxiety, psychosis, dementia, and delirium, requiring screening of at-risk populations. Few mechanisms that underlie the neuropsychiatric manifestations of B12 deficiency include alteration in one-carbon metabolism, genetic vulnerability, and alteration in folate metabolism. Maintaining a high serum B12 level in elderly can be protective against Alzheimer's disease (AD). In an established AD, its deficiency is associated with higher cognitive decline and risk for delirium. The other mental changes associated with B12 deficiency include apathy, agitation, impaired concentration, insomnia, persecutory delusions, auditory and visual hallucinations, and disorganized thought-process. Besides serum vitamin B12, plasma methylmalonic acid (MMA) and homocysteine helps in diagnosis. The chapter focuses on early recognition and effective treatment of th",
+        "journal": "Vitamins and hormones",
+        "year": "2022",
+        "authors": [
+          "Sahu Prashant",
+          "Thippeswamy Harish",
+          "Chaturvedi Santosh K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anxiety Disorders",
+          "Delirium",
+          "Folic Acid",
+          "Humans",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35337631/"
+      },
+      {
+        "pmid": "25824066",
+        "title": "Vitamin B12 deficiency - A 21st century perspective .",
+        "abstract": "Vitamin B12 deficiency is a common condition which can present with non-specific clinical features, and in severe cases with neurological or haematological abnormalities. Although classically caused by pernicious anaemia, this condition now accounts for a minority of cases and vitamin B12 deficiency occurs most often due to food-bound cobalamin malabsorption. Since missing the diagnosis can result in potentially severe complications, including degeneration of the spinal cord and pancytopaenia, vitamin B12 deficiency must be diagnosed early and managed appropriately. Intramuscular injections have been the mainstay of treatment, but oral replacement therapy can be effective in many cases. There is accumulating evidence that high vitamin B12 levels (values varied from 350-1,200 pmol/l) are associated with haematological and hepatic disorders, in particular with malignancy. This review focuses on the developments in the clinical features and management of vitamin B12 deficiency over the la",
+        "journal": "Clinical medicine (London, England)",
+        "year": "2015",
+        "authors": [
+          "Shipton Michael J",
+          "Thachil Jecko"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25824066/"
+      },
+      {
+        "pmid": "40961307",
+        "title": "Vitamin B12 Deficiency: Common Questions and Answers.",
+        "abstract": "Vitamin B12 deficiency occurs in approximately 2% to 3% of adults in the United States. Risk factors include malabsorptive processes, limited dietary intake of vitamin B12, use of certain medications (eg, metformin, proton pump inhibitors), and older age. Symptoms vary based on the severity of vitamin B12 deficiency but may include fatigue, brain fog, depression, peripheral neuropathy, and ataxia. Although universal screening is not recommended, testing should be considered in patients with at least one risk factor for and one clinical feature of vitamin B12 deficiency. Initial testing includes total serum vitamin B12 level, which is diagnostic for deficiency if less than 180 pg/mL. Borderline levels (180-350 pg/mL) warrant a methylmalonic acid measurement, which is diagnostic for vitamin B12 deficiency if elevated. Patients without a clear cause of deficiency should undergo further testing for atrophic gastritis with a Helicobacter pylori test and evaluation for autoantibodies associa",
+        "journal": "American family physician",
+        "year": "2025",
+        "authors": [
+          "Patel Hiten",
+          "McGuirk Rachael"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vitamin B 12 Deficiency",
+          "Vitamin B 12",
+          "Risk Factors",
+          "Dietary Supplements",
+          "United States"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40961307/"
+      },
+      {
+        "pmid": "12643357",
+        "title": "Vitamin B12 deficiency.",
+        "abstract": "Vitamin B12 (cobalamin) deficiency is a common cause of macrocytic anemia and has been implicated in a spectrum of neuropsychiatric disorders. The role of B12 deficiency in hyperhomocysteinemia and the promotion of atherosclerosis is only now being explored. Diagnosis of vitamin B12 deficiency is typically based on measurement of serum vitamin B12 levels; however, about 50 percent of patients with subclinical disease have normal B12 levels. A more sensitive method of screening for vitamin B12 deficiency is measurement of serum methylmalonic acid and homocysteine levels, which are increased early in vitamin B12 deficiency. Use of the Schilling test for detection of pernicious anemia has been supplanted for the most part by serologic testing for parietal cell and intrinsic factor antibodies. Contrary to prevailing medical practice, studies show that supplementation with oral vitamin B12 is a safe and effective treatment for the B12 deficiency state. Even when intrinsic factor is not pres",
+        "journal": "American family physician",
+        "year": "2003",
+        "authors": [
+          "Oh Robert",
+          "Brown David L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Malabsorption Syndromes",
+          "Mental Disorders",
+          "Methylmalonic Acid",
+          "Nervous System Diseases",
+          "Practice Guidelines as Topic",
+          "Schilling Test",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12643357/"
+      },
+      {
+        "pmid": "37060552",
+        "title": "Vitamin B12 deficiency and use of proton pump inhibitors: a systematic review and meta-analysis.",
+        "abstract": "Proton pump inhibitors (PPI) may impact the absorption of vitamin B12. We performed a systematic review to ascertain if PPI use increases risk of vitamin B12 deficiency.",
+        "journal": "Expert review of gastroenterology & hepatology",
+        "year": "2023",
+        "authors": [
+          "Choudhury Arup",
+          "Jena Anuraag",
+          "Jearth Vaneet",
+          "Dutta Amit K",
+          "Makharia Govind"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Proton Pump Inhibitors",
+          "Prospective Studies",
+          "Vitamin B 12 Deficiency",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37060552/"
+      },
+      {
+        "pmid": "33341967",
+        "title": "Review of Vitamin B12 deficiency in pregnancy: a diagnosis not to miss as veganism and vegetarianism become more prevalent.",
+        "abstract": "Vegetarianism and veganism are increasingly popular. The Food Standards Agency, biennial Food and You Survey of adults aged 16 years and over living in the UK, found that between 2012 and 2018 the proportion of people who reported never consuming dairy products had increased from 2% to 5%. However, veganism risks development of vitamin B12 deficiency as it is not available from plant sources. Moreover, its impact may be slow to be detected because body stores of vitamin B12 can last years. There is currently no published guidance on antenatal diagnosis and management of vitamin B12 deficiency. This paper reviews the metabolism, diagnosis and treatment of vitamin B12 in pregnancy. It concludes that national screening policymakers should consider introducing screening for B12 deficiency into the Antenatal and Newborn Screening Programmes for mothers and their infants if at risk of vitamin B12 deficiency. In the interim, national policy should be developed for prophylactic vitamin B12 sup",
+        "journal": "European journal of haematology",
+        "year": "2021",
+        "authors": [
+          "Rashid Sabia",
+          "Meier Violet",
+          "Patrick Hannah"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Combined Modality Therapy",
+          "Diet, Vegetarian",
+          "Dietary Supplements",
+          "Disease Management",
+          "Disease Susceptibility",
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33341967/"
+      },
+      {
+        "pmid": "25117994",
+        "title": "Treatment of vitamin B12 deficiency-methylcobalamine? Cyancobalamine? Hydroxocobalamin?-clearing the confusion.",
+        "abstract": "Vitamin B12 (cyancobalamin, Cbl) has two active co-enzyme forms, methylcobalamin (MeCbl) and adenosylcobalamin (AdCbl). There has been a paradigm shift in the treatment of vitamin B12 deficiency such that MeCbl is being extensively used and promoted. This is despite the fact that both MeCbl and AdCbl are essential and have distinct metabolic fates and functions. MeCbl is primarily involved along with folate in hematopiesis and development of the brain during childhood. Whereas deficiency of AdCbl disturbs the carbohydrate, fat and amino-acid metabolism, and hence interferes with the formation of myelin. Thereby, it is important to treat vitamin B12 deficiency with a combination of MeCbl and AdCbl or hydroxocobalamin or Cbl. Regarding the route, it has been proved that the oral route is comparable to the intramuscular route for rectifying vitamin B12 deficiency.",
+        "journal": "European journal of clinical nutrition",
+        "year": "2015",
+        "authors": [
+          "Thakkar K",
+          "Billa G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Cobamides",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Hydroxocobalamin",
+          "India",
+          "Injections, Intramuscular",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25117994/"
+      },
+      {
+        "pmid": "36669740",
+        "title": "Vitamin B12: For more than just the treatment of megaloblastic anemia?",
+        "abstract": "Vitamin B12, or cobalamin, belongs to the group of water-soluble vitamins and is ingested through food of animal origin such as eggs, milk, red meat and poultry, fish, and shellfish. Its clinical indication is the treatment of hypovitaminosis B12 administered orally or intramuscularly in the form of hydroxocobalamin. Hypovitaminosis B12 is mainly caused by deficient dietary intake (individuals with malnutrition, vegetarians or vegans, older adults, pregnant people, individuals with alcohol use disorder); when intestinal absorption is reduced (atrophic gastritis, malabsorption syndrome, gastrointestinal surgery); and for causes associated with the intake of drugs (antacids, metformin). Hypervitaminosis B12 has been associated with renal failure; liver diseases such as cirrhosis and acute-phase hepatitis; alcohol use disorder with or without liver involvement; solid tumors of the lung, liver, esophagus, pancreas, and colorectum; and in hematological malignancies such as leukemia and bone",
+        "journal": "Revista clinica espanola",
+        "year": "2023",
+        "authors": [
+          "Pardo-Cabello A J",
+          "Manzano-Gamero V",
+          "Puche-Cañas E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Animals",
+          "Pregnancy",
+          "Vitamin B 12",
+          "Alcoholism",
+          "Vitamin B 12 Deficiency",
+          "Anemia, Megaloblastic",
+          "Vitamins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36669740/"
+      },
+      {
+        "pmid": "37140279",
+        "title": "Catatonia and vitamin B12 deficiency - A hidden cause? A review article.",
+        "abstract": "This paper aims to broadly overview catatonia and vitamin B12 deficiency and highlight this association as a possible hidden cause. A review of published articles which examined the association between vitamin B12 deficiency and catatonia was performed. The articles for this review were selected by searching the electronic databases of the MEDLINE from March 2022 until August 2022 using catatonia (and related terms such as psychosis; psychomotor) and vitamin B12 (and related terms such as vitamin B12 deficiency; neuropsychiatry) as keywords. Articles had to be written in English to be included in this review. The direct relationship between levels of B12 and catatonic symptoms is difficult to confirm, as catatonia has different etiologies and can be triggered under the influence of multifactorial stressors. In this review, few published reports showed the reversibility of the catatonic symptoms once the level of B12 levels increased to more than 200 pg/ml. This could explain the respon",
+        "journal": "European review for medical and pharmacological sciences",
+        "year": "2023",
+        "authors": [
+          "Alhujaili N A"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Catatonia",
+          "Vitamin B 12 Deficiency",
+          "Vitamin B 12",
+          "Psychotic Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37140279/"
+      },
+      {
+        "pmid": "35761487",
+        "title": "Correlation Between Vitamin B12 Deficiency and Autoimmune Thyroid Diseases.",
+        "abstract": "Autoimmune thyroid diseases (AITD) are the most prevalent organ-specific autoimmune disorders. Vitamin B12 plays an important role in the proper functioning of the immune system. The aim of this study was therefore to investigate the correlation between vitamin B12 deficiency and AITD.",
+        "journal": "Endocrine, metabolic & immune disorders drug targets",
+        "year": "2023",
+        "authors": [
+          "Kacharava Tinatin",
+          "Giorgadze Elene",
+          "Janjgava Shota",
+          "Lomtadze Nino",
+          "Taboridze Iamze"
+        ],
+        "pub_types": [
+          "Observational Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Male",
+          "Humans",
+          "Retrospective Studies",
+          "Vitamin B 12 Deficiency",
+          "Hashimoto Disease",
+          "Vitamin B 12",
+          "Thyroiditis, Autoimmune"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35761487/"
+      },
+      {
+        "pmid": "33822790",
+        "title": "Maternal vitamin B12 deficiency and perinatal outcomes in southern India.",
+        "abstract": "Vitamin B12 deficiency during pregnancy has been associated with adverse maternal and infant health outcomes. Few prospective studies have investigated vitamin B12 status early in pregnancy, and its links to infant vitamin B12 status, particularly in India where the burden of vitamin B12 deficiency is estimated to be the highest globally. The objective of this study was to examine the associations of maternal vitamin B12 biomarkers with neonatal vitamin B12 status.",
+        "journal": "PloS one",
+        "year": "2021",
+        "authors": [
+          "Finkelstein Julia L",
+          "Fothergill Amy",
+          "Krisher Jesse T",
+          "Thomas Tinku",
+          "Kurpad Anura V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Biomarkers",
+          "Cohort Studies",
+          "Female",
+          "Folic Acid",
+          "Humans",
+          "India",
+          "Infant, Newborn",
+          "Maternal Nutritional Physiological Phenomena",
+          "Methylmalonic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33822790/"
+      },
+      {
+        "pmid": "36841981",
+        "title": "The Effect of Metformin on Vitamin B12 Deficiency and Stroke.",
+        "abstract": "Type 2 diabetes mellitus (T2DM) is a known risk factor for cardiovascular disease and stroke. Metformin is an old, relatively safe, first line therapy for T2DM; however, it has been associated with stroke.",
+        "journal": "The Israel Medical Association journal : IMAJ",
+        "year": "2023",
+        "authors": [
+          "Horrany Nizar",
+          "Abu Dahoud Wadie",
+          "Moallem Yara",
+          "Hajouj Taleb",
+          "Zreik Merna"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Metformin",
+          "Diabetes Mellitus, Type 2",
+          "Hypoglycemic Agents",
+          "Prospective Studies",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency",
+          "Stroke",
+          "Ischemic Stroke"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36841981/"
+      },
+      {
+        "pmid": "41128447",
+        "title": "Vitamin B12 deficiency among older adults and its associations with geriatric syndromes.",
+        "abstract": "Vitamin B12 deficiency is a common yet frequently underdiagnosed condition in older adults. The growing aging population is experiencing an increasing burden of geriatric syndromes, such as cognitive impairment, frailty, and falls. The aim of this review is to synthesize current evidence on the relationship between B12 deficiency and age-related clinical outcomes to guide early recognition and management.",
+        "journal": "Current opinion in clinical nutrition and metabolic care",
+        "year": "2026",
+        "authors": [
+          "Papazachariou Andria",
+          "Papakitsou Ioanna",
+          "Malikides Vironas",
+          "Filippatos Theodosios D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vitamin B 12 Deficiency",
+          "Aged",
+          "Cognitive Dysfunction",
+          "Vitamin B 12",
+          "Frailty",
+          "Aging",
+          "Geriatric Assessment",
+          "Aged, 80 and over",
+          "Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41128447/"
+      },
+      {
+        "pmid": "27486161",
+        "title": "Biochemistry, function, and deficiency of vitamin B12 in Caenorhabditis elegans.",
+        "abstract": "Caenorhabditis elegans is a nematode that has been widely used as an animal for investigation of diverse biological phenomena. Vitamin B12 is essential for the growth of this worm, which contains two cobalamin-dependent enzymes, methylmalonyl-CoA mutase and methionine synthase. A full complement of gene homologs encoding the enzymes associated with the mammalian intercellular metabolic processes of vitamin B12 is identified in the genome of C elegans However, this worm has no orthologs of the vitamin B12-binders that participate in human intestinal absorption and blood circulation. When the worm is treated with a vitamin B12-deficient diet for five generations (15 days), it readily develops vitamin B12 deficiency, which induces worm phenotypes (infertility, delayed growth, and shorter lifespan) that resemble the symptoms of mammalian vitamin B12 deficiency. Such phenotypes associated with vitamin B12 deficiency were readily induced in the worm.",
+        "journal": "Experimental biology and medicine (Maywood, N.J.)",
+        "year": "2016",
+        "authors": [
+          "Bito Tomohiro",
+          "Watanabe Fumio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Caenorhabditis elegans",
+          "Humans",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27486161/"
+      },
+      {
+        "pmid": "41156524",
+        "title": "Vitamin B12 in Cancer Patients: Clinical Insights into Deficiency, Excess, Diagnosis, and Management.",
+        "abstract": "Vitamin B12 (cobalamin) is a critical micronutrient involved in hematopoiesis and neurological function. Its deficiency, commonly presenting with anemia and neurological symptoms, is particularly relevant in oncology. While anemia affects up to 60% of cancer patients, the contribution of vitamin B12 deficiency to cancer-related anemia remains underexplored. Additionally, cobalamin-related neuropathy manifests or exacerbates existing chemotherapy-induced peripheral neuropathy (CIPN), a serious side effect of chemotherapy. Prevalence estimates in cancer populations range widely (6-48%), with higher rates in elderly and gastrointestinal cancer patients. This review summarizes current evidence on the prevalence and implications of both vitamin B12 deficiency and excess in patients with solid tumors. It discusses laboratory markers (such as serum vitamin B12, holotranscobalamin, methylmalonic acid, and homocysteine) that could improve diagnostic accuracy in oncology settings. Additionally, ",
+        "journal": "Nutrients",
+        "year": "2025",
+        "authors": [
+          "Osmola Małgorzata",
+          "Tyszka Martyna",
+          "Jirka Adam",
+          "Ciepiela Olga",
+          "Kapała Aleksandra"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vitamin B 12 Deficiency",
+          "Neoplasms",
+          "Vitamin B 12",
+          "Dietary Supplements",
+          "Peripheral Nervous System Diseases",
+          "Antineoplastic Agents",
+          "Prevalence",
+          "Biomarkers"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41156524/"
+      },
+      {
+        "pmid": "38987884",
+        "title": "Causes and Risk Factors of Vitamin B12 Deficiency at the Bookends of Life, From Infancy to Old Age.",
+        "abstract": "The causes and risk factors of vitamin B12 deficiency are many and varied. Importantly, they vary considerably across the lifespan, from infancy to old age. The complexity of the physiology of vitamin B12 bespeaks the myriad of possible causes of deficiency and possible disruptions of its functional integrity. These lead ultimately to the pathobiological effects witnessed in deficiency of this fascinating micronutrient. This brief overview of the multiplicity of mechanisms that can result in vitamin B12 deficiency, and the panoply of its manifestations explores the underlying reasons for the protean presentations of the disease. As the human organism progresses through the chronology and milestones of age, various susceptibility factors arise resulting from the interplay of environmental and genetic factors. Acting independently and in concert, these factors produce the common denominator of vitamin B12 deficiency. However, the rate at which such deficiency develops and the way in whic",
+        "journal": "Food and nutrition bulletin",
+        "year": "2024",
+        "authors": [
+          "Green Ralph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Vitamin B 12 Deficiency",
+          "Humans",
+          "Risk Factors",
+          "Vitamin B 12",
+          "Infant",
+          "Child, Preschool",
+          "Child",
+          "Aged",
+          "Female",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38987884/"
+      },
+      {
+        "pmid": "38797248",
+        "title": "Oral vitamin B12 supplementation in pernicious anemia: a prospective cohort study.",
+        "abstract": "The absorption of vitamin B12 is hindered in pernicious anemia (PA) owing to intrinsic factor deficiency. Traditionally, intramuscular vitamin B12 injections were the standard treatment, bypassing the impaired absorption. Although there is potential for oral vitamin B12 supplementation through passive enteral absorption, it is not commonly prescribed in PA owing to limited studies assessing its efficacy.",
+        "journal": "The American journal of clinical nutrition",
+        "year": "2024",
+        "authors": [
+          "Lacombe Valentin",
+          "Vinatier Emeline",
+          "Roquin Guillaume",
+          "Copin Marie-Christine",
+          "Delattre Estelle"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vitamin B 12",
+          "Anemia, Pernicious",
+          "Female",
+          "Male",
+          "Prospective Studies",
+          "Dietary Supplements",
+          "Middle Aged",
+          "Aged",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38797248/"
+      },
+      {
+        "pmid": "36697109",
+        "title": "Clinical Course of Vitamin B12 Deficiency and Associated Risk Factors in Patients After Total Gastrectomy for Gastric Cancer.",
+        "abstract": "Patients are at-risk for vitamin B12 deficiency after total gastrectomy due to a lack of intrinsic factors. The aim of the study was to clarify the clinical course and risk factors for vitamin B12 deficiency after total gastrectomy for gastric cancer patients.",
+        "journal": "Anticancer research",
+        "year": "2023",
+        "authors": [
+          "Aoyama Toru",
+          "Hara Kentaro",
+          "Maezawa Yukio",
+          "Kazama Keisuke",
+          "Hashimoto Itaru"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vitamin B 12",
+          "Stomach Neoplasms",
+          "Vitamin B 12 Deficiency",
+          "Risk Factors",
+          "Gastrectomy",
+          "Postoperative Complications",
+          "Disease Progression"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36697109/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:43:31.302427",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,41 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ketoconazole",
+    "disease": "pityriasis simplex",
+    "query_string": "Ketoconazole AND pityriasis simplex"
+  },
+  "data": {
+    "query": "Ketoconazole AND pityriasis simplex",
+    "results": [
+      {
+        "pmid": "11930825",
+        "title": "Drug susceptibility testing of Malassezia furfur strains to antifungal agents.",
+        "abstract": "The minimal inhibitory concentration of the three most commonly used antifungal agents--ketoconazole, fluconazole and intraconazole against 28 strains of Malassezia furfur, was studied. The strains were recovered from patients with pityriasis versicolor, pityriasis simplex capitis and dermatitis seborrhoides and were cultured on Dixon's agar. Diagnostic sensitivity test agar was used to determine the minimal inhibitory concentrations of the antifungal agents. The established minimal inhibitory concentration of ketoconazole against Malassezia furfur was 0.02 mg/l, the minimal inhibitory concentration of intraconazole--0.05 mg/l and that of fluconazole--0.09 mg/l. The results of the study are consistent with the data reported by other European authors in their studies. On the basis of the accumulated data it is concluded that the tested antifungal agents are effective in the treatment of infections caused by Malassezia furfur but ketoconazole is superior to intraconazole and fluconazole ",
+        "journal": "Folia medica",
+        "year": "2001",
+        "authors": [
+          "Zissova L G",
+          "Kantarjiev T B",
+          "Kuzmanov A H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Fluconazole",
+          "Humans",
+          "Itraconazole",
+          "Ketoconazole",
+          "Malassezia",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11930825/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:21:13.474489",
+  "success": true,
+  "error_message": null
+}

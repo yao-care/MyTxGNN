@@ -1,0 +1,517 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clotrimazole",
+    "disease": "pityriasis versicolor",
+    "query_string": "Clotrimazole AND pityriasis versicolor"
+  },
+  "data": {
+    "query": "Clotrimazole AND pityriasis versicolor",
+    "results": [
+      {
+        "pmid": "38364431",
+        "title": "Comparison of the Efficacies of Topical Liposomal Amphotericin B and Topical Clotrimazole in the Treatment of Pityriasis Versicolor.",
+        "abstract": "Pityriasis versicolor (PV) often exhibits recurrence even despite treatment, and a standardized therapy with a complete cure rate remains elusive. Given the fungicidal property of amphotericin B, its potential for PV treatment warrants investigation.",
+        "journal": "Dermatology practical & conceptual",
+        "year": "2024",
+        "authors": [
+          "Ghahartars Mehdi",
+          "Hosseini Hossein",
+          "Khedri Malek",
+          "Sadati Maryam Sadat"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38364431/"
+      },
+      {
+        "pmid": "6309466",
+        "title": "Evaluation of ketoconazole.",
+        "abstract": "The pharmacology, microbiology, pharmacokinetics, clinical use, adverse effects, dosage and administration, and drug interactions of ketoconazole are reviewed. Ketoconazole, a new orally active antifungal agent, is an imidazole derivative structurally related to miconazole and clotrimazole. It impairs the synthesis of ergosterol (the main sterol in fungal cell membranes) in susceptible organisms, including yeast (Candida and Cryptococcus spp.), fungi, and dermatophytes. Ketoconazole is absorbed from the gastrointestinal tract; it is better absorbed from acidic aqueous solutions, so drugs that alter the pH of the stomach affect ketoconazole absorption. Therapeutic plasma concentrations are maintained for several hours following ketoconazole administration. Ketoconazole distributes readily into blood, urine, saliva, joint fluid, sebum, and cerumen; recent data indicate it may penetrate into cerebrospinal fluid as well. Elimination is biphasic, with a half-life of two hours during the fir",
+        "journal": "Clinical pharmacy",
+        "year": "1982",
+        "authors": [
+          "Sohn C A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Fungi",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Kinetics",
+          "Mycoses",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6309466/"
+      },
+      {
+        "pmid": "28120351",
+        "title": "Comparative efficacy of topical application of tacrolimus and clotrimazole in the treatment of pityriasis versicolor: A single blind, randomised clinical trial.",
+        "abstract": "Pityriasis versicolor (PV) is a common superficial fungal disease. Possibility of emergence of resistant strains to azoles, and difficulty in differentiation of hypopigmented PV and early vitiligo, encouraged us to evaluate the efficacy of topical tacrolimus (a calcineurin inhibitor agent with proven in vitro anti-Malassezia effect) for PV treatment generally and its effect on PV-induced hypopigmentation specifically.",
+        "journal": "Mycoses",
+        "year": "2017",
+        "authors": [
+          "Sepaskhah Mozhdeh",
+          "Sadat Maryam Sadat",
+          "Pakshir Keyvan",
+          "Bagheri Zahra"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Infective Agents, Local",
+          "Antifungal Agents",
+          "Clotrimazole",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Hypopigmentation",
+          "Male",
+          "Pityriasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28120351/"
+      },
+      {
+        "pmid": "3607817",
+        "title": "Comparative study of tioconazole and clotrimazole in the treatment of tinea versicolor.",
+        "abstract": "An eight-week comparative study of tioconazole and clotrimazole was carried out in 32 patients with tinea versicolor. Sixteen patients were treated with 1% tioconazole lotion and 16 with 1% clotrimazole solution; each drug was applied twice daily for 28 days. Clinical and mycological direct examinations were performed before treatment and on days 7, 14, and 28 of therapy. All patients underwent overall clinical evaluation 30 days posttreatment. At the end of the study, all patients were clinically and mycologically cured. During the second week of treatment, however, a significant remission in rash (P less than 0.05) was observed in the group treated with tioconazole. None of the treated patients had adverse reactions. Tioconazole is a new imidazolic agent with an intense fungicidal action. It has been found to be effective and safe and is an agent of choice for treating tinea versicolor.",
+        "journal": "Clinical therapeutics",
+        "year": "1987",
+        "authors": [
+          "Alchorne M M",
+          "Paschoalick R C",
+          "Forjaz M H"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Antifungal Agents",
+          "Clotrimazole",
+          "Female",
+          "Humans",
+          "Imidazoles",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3607817/"
+      },
+      {
+        "pmid": "271850",
+        "title": "Pityriasis versicolor.",
+        "abstract": "",
+        "journal": "The New Zealand medical journal",
+        "year": "1977",
+        "authors": [
+          "Hawley T G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Clotrimazole",
+          "Humans",
+          "Imidazoles",
+          "Tinea Versicolor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/271850/"
+      },
+      {
+        "pmid": "19882007",
+        "title": "Randomized comparative clinical trial of Artemisia sieberi 5% lotion and clotrimazole 1% lotion for the treatment of pityriasis versicolor.",
+        "abstract": "To compare the therapeutic effects of topical Artremisia sieberi 5% lotion with topical clotrimazole 1% lotion in the treatment of pityriasis versicolor.",
+        "journal": "Indian journal of dermatology",
+        "year": "2008",
+        "authors": [
+          "Rad Farrokh",
+          "Aala Farzad",
+          "Reshadmanesh Naser",
+          "Yaghmaie Rokshana"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19882007/"
+      },
+      {
+        "pmid": "20649710",
+        "title": "Single-dose oral fluconazole versus topical clotrimazole in patients with pityriasis versicolor: A double-blind randomized controlled trial.",
+        "abstract": "This study was designed to compare the therapeutic effects of topical clotrimazole and systemic fluconazole in pityriasis versicolor. A double-blind randomized controlled trial was carried out in the dermatological clinic of Gorgan, northern Iran, between April 2006 and May 2007. All consecutive patients with pityriasis versicolor were included and randomly divided into two groups. In the first group (G1), patients underwent treatment with a single dose of fluconazole capsule (400 mg) and placebo cream. In the second group (G2), patients underwent treatment with clotrimazole cream (twice daily) and placebo capsule. The course of treatment was 2 weeks. All subjects were re-evaluated 2, 4 and 12 weeks after the end of the therapeutic course. After 2 weeks, the rate of complete resolution of disease was significantly higher in G2 than G1 (49.1% vs 30%). After 4 weeks, 41 patients (81.2%) of G1 and 52 patients (94.9%) of G2 showed complete resolution. After 12 weeks, 46 patients (92%) in G",
+        "journal": "The Journal of dermatology",
+        "year": "2010",
+        "authors": [
+          "Dehghan Mohammad",
+          "Akbari Negin",
+          "Alborzi Nazila",
+          "Sadani Somayeh",
+          "Keshtkar Abas A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antifungal Agents",
+          "Clinical Protocols",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Male",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20649710/"
+      },
+      {
+        "pmid": "3332758",
+        "title": "Treatment of pityriasis versicolor: comparison of sulconazole nitrate 1% solution and clotrimazole 1 % solution.",
+        "abstract": "",
+        "journal": "The Australasian journal of dermatology",
+        "year": "1987",
+        "authors": [
+          "Tham S N"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Antifungal Agents",
+          "Clinical Trials as Topic",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Imidazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3332758/"
+      },
+      {
+        "pmid": "326197",
+        "title": "Double-blind trial of 1% clotrimazole cream and Whitfield ointment in the treatment of pityriasis versicolor.",
+        "abstract": "",
+        "journal": "Archives of dermatology",
+        "year": "1977",
+        "authors": [
+          "Clayton R",
+          "Du Vivier A",
+          "Savage M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Letter",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Benzoates",
+          "Clinical Trials as Topic",
+          "Clotrimazole",
+          "Humans",
+          "Imidazoles",
+          "Ointments",
+          "Salicylates",
+          "Tinea Versicolor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/326197/"
+      },
+      {
+        "pmid": "20948094",
+        "title": "A double-blind comparison of 2% ketoconazole and 1% clotrimazole in the treatment of pityriasis versicolor.",
+        "abstract": "Forty adult patients of pityriasis versicolor were treated with either topical 2% ketoconazole cream (20 patients) or topical 1% clotrimazole cream (20 patients). In global assessment of treatment after 2 weeks, 18 (90%) out of 20 patients treated with ketoconazole cream were cured while 2 cases had considerable residual lesions. In clotrimazole treated group, 17 (85%) out of 20 patients were cured and 3 still had considerable lesions. No significant difference was observed in response rates in the two groups. No side effects were reported in either groups.",
+        "journal": "Indian journal of dermatology, venereology and leprology",
+        "year": "1996",
+        "authors": [
+          "Balwada R P",
+          "Jain V K",
+          "Dayal S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20948094/"
+      },
+      {
+        "pmid": "4619458",
+        "title": "The topical therapy of pityriasis versicolor with clotrimazole.",
+        "abstract": "",
+        "journal": "Postgraduate medical journal",
+        "year": "1974",
+        "authors": [
+          "Gip L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Clinical Trials as Topic",
+          "Clotrimazole",
+          "Humans",
+          "Imidazoles",
+          "Middle Aged",
+          "Tinea Versicolor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4619458/"
+      },
+      {
+        "pmid": "4582719",
+        "title": "Comparison of clotrimazole cream, Whitfield's ointment and Nystatin ointment for the topical treatment of ringworm infections, pityriasis versicolor, erythrasma and candidiasis.",
+        "abstract": "",
+        "journal": "The British journal of dermatology",
+        "year": "1973",
+        "authors": [
+          "Clayton Y M",
+          "Connor B L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Benzoates",
+          "Candida albicans",
+          "Candidiasis, Cutaneous",
+          "Clinical Trials as Topic",
+          "Corynebacterium",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4582719/"
+      },
+      {
+        "pmid": "390959",
+        "title": "Tinea versicolor and Pityrosporum orbiculare: mycological investigations, experimental infections and epidemiological surveys.",
+        "abstract": "In patients with tinea versicolor, Pityrosporum orbiculare was cultured from tinea versicolor lesions in 100%, from normal-looking skin in 80%, and from apparently healed lesions in 69%. P. orbiculare was isolated from normal skin in 85% of patients with seborrheic dermatitis and in 90% of volunteers. The best substrate for isolation of P. orbiculare was a peptone-glucose-yeast extract medium containing glycerol monostearate and Tween 80, overlaid with olive oil. Germ tubes were produced when P. orbiculare was incubated in an atmosphere containing air with 7% CO2. Cultures of P. orbiculare and P. ovale did not show any fluorescence in Wood's light. The in vitro activity of miconazole, clotrimazole, econazole, sodium omadine, and sodium thiosulphate against P. orbiculare was found to correlate to the good clinical effect of these drugs in tinea versicolor. In addition several substances used as solvents or in vehicles had an inhibitory activity against P. orbiculare in vitro. Inoculatio",
+        "journal": "Acta dermato-venereologica. Supplementum",
+        "year": "1979",
+        "authors": [
+          "Faergemann J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Animals",
+          "Antifungal Agents",
+          "Child",
+          "Drug Resistance, Microbial",
+          "Female",
+          "Humans",
+          "Malassezia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/390959/"
+      },
+      {
+        "pmid": "2170472",
+        "title": "Itraconazole in tinea versicolor: a review.",
+        "abstract": "Itraconazole, a new orally active triazole antifungal, has been tested in patients with pityriasis versicolor. A number of studies have shown that itraconazole is effective for this mild fungal skin disease. The total dose required for effective treatment is 1000 mg, and it has been given as 200 mg for 5 days or 7 days. The organisms disappear slowly from the skin, even when dead, and the results should be assessed clinically and mycologically at around 3 to 4 weeks after treatment. Numerous studies have shown that itraconazole is superior to placebo and as effective as selenium sulfide, clotrimazole, and ciclopirox olamine. It is also better tolerated by patients than selenium sulfide.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1990",
+        "authors": [
+          "Delescluse J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Humans",
+          "Itraconazole",
+          "Ketoconazole",
+          "Tinea Versicolor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2170472/"
+      },
+      {
+        "pmid": "31949421",
+        "title": "Infantile hypopigmented pityriasis versicolor: two uncommon cases.",
+        "abstract": "Pityriasis versicolor is a common infection of the epidermis in adults, but only a few cases of this infection (especially the hypopigmented type) have been reported in infants aged under one year. Herein, we document a report of these cases and a review of the literature. Two patients with infantile pityriasis versicolor, who presented with hypopigmented macules on the neck, upper back, and chest are reported. A KOH examination was suggestive of pityriasis versicolor and our patients responded well to 1% clotrimazole lotion (twice a day) for four weeks. Pityriasis versicolor should be considered in the differential diagnosis of hypopigmented macules and patches in infants.",
+        "journal": "Turk pediatri arsivi",
+        "year": "2019",
+        "authors": [
+          "Abdollahimajd Fahimeh",
+          "Niknezhad Nasim",
+          "Niknejad Nakisa",
+          "Nikvar Mohammad"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31949421/"
+      },
+      {
+        "pmid": "10439936",
+        "title": "Terbinafine. An update of its use in superficial mycoses.",
+        "abstract": "Terbinafine is an allylamine antifungal agent which has fungicidal activity against a wide variety of dermatophytes, moulds and certain dimorphic fungi, and fungistatic activity against Candida albicans. Oral terbinafine 250 mg/day is effective in the treatment of superficial dermatophyte infections such as onychomycosis, tinea pedis and tinea corporis/cruris, generally achieving mycological cure in > 80% of patients. The drug is also effective in children with tinea capitis when administered orally in the dosage range 62.5 to 250 mg/day for 4 weeks. Comparative data indicate that oral terbinafine is more effective than continuous or intermittent intraconazole in dermatophyte onychomycosis, and is as effective as itraconazole 400 mg/day in tinea pedis. The drug has shown greater efficacy than griseofulvin in dermatophyte onychomycosis, tinea pedis and tinea corporis/cruris, and comparable efficacy in children with tinea capitis. Additionally, oral terbinafine is more effective than ket",
+        "journal": "Drugs",
+        "year": "1999",
+        "authors": [
+          "McClellan K J",
+          "Wiseman L R",
+          "Markham A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Dermatomycoses",
+          "Humans",
+          "Naphthalenes",
+          "Terbinafine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10439936/"
+      },
+      {
+        "pmid": "18840006",
+        "title": "Topical fenticonazole in dermatology and gynaecology: current role in therapy.",
+        "abstract": "Fenticonazole is an imidazole derivative with a broad spectrum of antimycotic activity against dermatophytes and yeasts in in vitro and clinical studies. Fenticonazole exerts its unique antimycotic mechanism of action in the following three ways: (i) inhibition of the secretion of protease acid by Candida albicans; (ii) damage to the cytoplasmic membrane; and (iii) by blocking cytochrome oxidases and peroxidises. Fenticonazole has also been shown to exhibit antibacterial action, with a spectrum of activity that includes bacteria commonly associated with superinfected fungal skin and vaginal infections, and antiparasitic action against the protozoan Trichomonas vaginalis. Therefore, fenticonazole may be an ideal topical alternative to multi-agent treatment of mixed infections involving mycotic, bacterial, dermatophyte and/or Trichomonas spp.Open-label clinical studies show that fenticonazole, in different pharmaceutical preparations administered once or twice daily, is effective in the ",
+        "journal": "Drugs",
+        "year": "2008",
+        "authors": [
+          "Veraldi Stefano",
+          "Milani Rodolfo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Antifungal Agents",
+          "Candidiasis, Vulvovaginal",
+          "Clinical Trials as Topic",
+          "Dermatomycoses",
+          "Female",
+          "Humans",
+          "Imidazoles",
+          "Randomized Controlled Trials as Topic",
+          "Trichomonas Vaginitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18840006/"
+      },
+      {
+        "pmid": "28346993",
+        "title": "Artemisia sieberi Besser essential oil and treatment of fungal infections.",
+        "abstract": "A. sieberi essential oil has been used for treatment of hardly curable infectious ulcers in Middle East Medicine and has been famous due to its wormicide effects. In this review, we evaluated the potency of A. sieberi essential oil in treatment of fungal infections. We searched in PubMed Central, Science direct, Wiley, Springer, SID, and accessible books, reports, thesis. There is a lot of mixed information on chemical compositions of A. sieberi essential oil, but most articles reported α, β-thujones as the main components of essential oils. In vitro studies confirmed the antifungal activity of A. sieberi essential oil against saprophytes fungi, dermatophytes, Malassezia sp. and Candida sp. and these results were confirmed in six clinical studies. The clinical studies confirmed the superiority of A. sieberi essential oil (5%) lotion in improvement of clinical signs of fungal superficial diseases, and mycological laboratory examinations of dermatophytosis and pityriasis versicolor disea",
+        "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+        "year": "2017",
+        "authors": [
+          "Mahboubi Mohaddese"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Antioxidants",
+          "Artemisia",
+          "CHO Cells",
+          "Cell Line",
+          "Cricetulus",
+          "Fungi",
+          "Mice",
+          "Mycoses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28346993/"
+      },
+      {
+        "pmid": "37485124",
+        "title": "Tinea Versicolor in a Three-Month Infant: A Case Report and Literature Review.",
+        "abstract": "Tinea versicolor (TV) is a superficial fungal disease caused by Malassezia furfur, most commonly affecting adolescents and adults. TV is uncommon among newborns, particularly those aged under one year. Poor hygiene and perspiration, immunosuppression, the use of oils and greasy lotions, hyperhidrosis, and corticosteroids may all contribute to the appearance of the condition. It is clinically distinguished by hypopigmentation or hyperpigmentation. Most often, it occurs over the trunk. Treatment for TV usually begins with the use of a topical antifungal. This case report presents a rare TV in a three-month-old boy who exhibited multiple hypopigmented macules on his trunk without pruritus. Examination of the wood lamp showed bright yellow fluorescent lesions. The potassium hydroxide (KOH) preparation revealed yeast and short mycelial forms, confirming the diagnosis of TV. The baby was given a clotrimazole solution for topical use twice a day. KOH preparation was negative, and the lesions ",
+        "journal": "Cureus",
+        "year": "2023",
+        "authors": [
+          "Almalki Marwah K",
+          "Alruwaili Ziyad M",
+          "Alhammad Norah S",
+          "Alawadi Toleen M",
+          "Dajam Mazen S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37485124/"
+      },
+      {
+        "pmid": "2632381",
+        "title": "Comparative study of miconazole and clotrimazole in superficial mycosis.",
+        "abstract": "Two hundred cases of superficial mycosis (100 dermatophytosis, 40 candidiasis and 60 pityriasis versicolor) were studied for the comparative effect of miconazole and clotrimazole. The patients were evaluated both clinically and mycologically every 2 weeks for a period of 12 weeks. In dermatophytosis, miconazole showed accelerated response (75% cleared in 6 weeks) than clotrimazole (56%). In candidiasis, both were found to be effective (80-85%) cure though clotrimazole showed slightly earlier response (40% cure in 6 weeks) against miconazole (30% cure). In pityriasis versicolor both were, effective (miconazole 99.6% and clotrimazole 86.7%).",
+        "journal": "Indian journal of dermatology",
+        "year": "1989",
+        "authors": [
+          "Saha K C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Candidiasis, Cutaneous",
+          "Clotrimazole",
+          "Dermatomycoses",
+          "Humans",
+          "Imidazoles",
+          "Miconazole",
+          "Nail Diseases",
+          "Time Factors",
+          "Tinea Versicolor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2632381/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:30:04.255223",
+  "success": true,
+  "error_message": null
+}

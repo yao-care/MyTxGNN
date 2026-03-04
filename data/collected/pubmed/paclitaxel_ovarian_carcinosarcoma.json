@@ -1,0 +1,588 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Paclitaxel",
+    "disease": "ovarian carcinosarcoma",
+    "query_string": "Paclitaxel AND ovarian carcinosarcoma"
+  },
+  "data": {
+    "query": "Paclitaxel AND ovarian carcinosarcoma",
+    "results": [
+      {
+        "pmid": "40690248",
+        "title": "Ovarian Cancer: A Review.",
+        "abstract": "Ovarian cancer is the eighth most common cause of cancer and cancer death in women worldwide. In 2022, ovarian cancer was diagnosed in approximately 324 398 individuals, and 206 839 died of ovarian cancer worldwide. In 2025, it is estimated that 20 890 US women will be diagnosed with ovarian cancer and 12 730 patients will die of ovarian cancer.",
+        "journal": "JAMA",
+        "year": "2025",
+        "authors": [
+          "Caruso Giuseppe",
+          "Weroha S John",
+          "Cliby William"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Antineoplastic Agents",
+          "Chemotherapy, Adjuvant",
+          "Genes, BRCA1",
+          "Neoplasm Staging",
+          "Ovarian Neoplasms",
+          "Risk Factors",
+          "Age Factors",
+          "Ovary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40690248/"
+      },
+      {
+        "pmid": "40473448",
+        "title": "Relacorilant and nab-paclitaxel in patients with platinum-resistant ovarian cancer (ROSELLA): an open-label, randomised, controlled, phase 3 trial.",
+        "abstract": "Relacorilant, a first-in-class selective glucocorticoid receptor antagonist, increases a tumour's sensitivity to chemotherapy by reducing cortisol signalling. This study aimed to show whether the addition of relacorilant to nab-paclitaxel improves progression-free and overall survival in females with platinum-resistant ovarian cancer.",
+        "journal": "Lancet (London, England)",
+        "year": "2025",
+        "authors": [
+          "Olawaiye Alexander B",
+          "Gladieff Laurence",
+          "O'Malley David M",
+          "Kim Jae-Weon",
+          "Garbaos Gabriel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Albumins",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Drug Resistance, Neoplasm",
+          "Ovarian Neoplasms",
+          "Paclitaxel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40473448/"
+      },
+      {
+        "pmid": "35007153",
+        "title": "Randomized Phase III Trial of Paclitaxel and Carboplatin Versus Paclitaxel and Ifosfamide in Patients With Carcinosarcoma of the Uterus or Ovary: An NRG Oncology Trial.",
+        "abstract": "This phase III randomized trial (NCT00954174) tested the null hypothesis that paclitaxel and carboplatin (PC) is inferior to paclitaxel and ifosfamide (PI) for treating uterine carcinosarcoma (UCS).",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2022",
+        "authors": [
+          "Powell Matthew A",
+          "Filiaci Virginia L",
+          "Hensley Martee L",
+          "Huang Helen Q",
+          "Moore Kathleen N"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Carcinosarcoma",
+          "Disease-Free Survival",
+          "Female",
+          "Humans",
+          "Ifosfamide",
+          "Ovarian Neoplasms",
+          "Paclitaxel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35007153/"
+      },
+      {
+        "pmid": "37364223",
+        "title": "Relacorilant + Nab-Paclitaxel in Patients With Recurrent, Platinum-Resistant Ovarian Cancer: A Three-Arm, Randomized, Controlled, Open-Label Phase II Study.",
+        "abstract": "Despite therapeutic advances, outcomes for patients with platinum-resistant/refractory ovarian cancer remain poor. Selective glucocorticoid receptor modulation with relacorilant may restore chemosensitivity and enhance chemotherapy efficacy.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2023",
+        "authors": [
+          "Colombo Nicoletta",
+          "Van Gorp Toon",
+          "Matulonis Ursula A",
+          "Oaknin Ana",
+          "Grisham Rachel N"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Paclitaxel",
+          "Ovarian Neoplasms",
+          "Carcinoma, Ovarian Epithelial",
+          "Albumins",
+          "Chronic Disease",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Isoquinolines",
+          "Pyrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37364223/"
+      },
+      {
+        "pmid": "36186232",
+        "title": "Ovarian teratoid carcinosarcoma with a PIK3CA mutation: a case report and review of the literature.",
+        "abstract": "Ovarian teratoid carcinosarcoma involves an epithelial tumor of the Müllerian duct and an immature neuroepithelium, which is a characteristic of immature teratomas. Here, we describe the case of a 60-year-old woman who underwent surgery for a stage IC3 ovarian malignancy. The tumor showed a variety of histological features, including clear cell carcinoma, immature teratoma, and rhabdomyosarcoma, and a PIK3CA mutation was detected at the same locus in each. Two months after surgery and before the start of chemotherapy, multiple bone and liver metastases were found. Four courses of combination therapy with vincristine, actinomycin D and cyclophosphamide, the standard chemotherapy regimen for pediatric rhabdomyosarcoma, were administered, and a complete response was achieved. After a 2-month rest period, the patient developed recurrent peritoneal dissemination and underwent 6 courses of paclitaxel, carboplatin, and bevacizumab chemotherapy, resulting in a partial response. This is the eig",
+        "journal": "International cancer conference journal",
+        "year": "2022",
+        "authors": [
+          "Aoki Masato",
+          "Takaya Hisamitsu",
+          "Otani Tomoyuki",
+          "Nakai Hidekatsu",
+          "Murakami Kosuke"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36186232/"
+      },
+      {
+        "pmid": "35949347",
+        "title": "Management of a rare ovarian carcinosarcoma: A case report and literature review.",
+        "abstract": "Ovarian carcinosarcoma (OCS) is a rare and lethal gynecological cancer. The present study reports on the case of a 61-year-old post-menopausal female with abdominal distension who was detected to have a large OCS. The patient underwent cytoreductive surgery, including sub-extensive hysterectomy, bilateral adnexectomy, sigmoid colon and partial rectal resection, and lymph node dissection. Postoperative pathology of the bilateral adnexal masses revealed carcinosarcoma. The main components of the carcinoma included serous carcinoma and a small amount of squamous cell carcinoma. The sarcoma components mainly contained fibrosarcoma, as well as a small amount of chondrosarcoma and rhabdomyosarcoma. Infiltrating cells in cancer tissues or metastasis were observed in the serosal surface, muscular and subserosal layers of the uterus, as well as the sigmoid colon and part of the rectum. The patient was diagnosed postoperatively with International Federation of Gynecology and Obstetrics stage III",
+        "journal": "Experimental and therapeutic medicine",
+        "year": "2022",
+        "authors": [
+          "Fu Jun"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35949347/"
+      },
+      {
+        "pmid": "25341582",
+        "title": "Gynecologic Cancer InterGroup (GCIG) consensus review for uterine and ovarian carcinosarcoma.",
+        "abstract": "Carcinosarcomas (also known as malignant mixed müllerian tumors) are rare and highly aggressive epithelial malignancies that contain both malignant sarcomatous and carcinomatous elements. Uterine carcinosarcomas (UCs) are uncommon with approximately more than 35% presenting with extra uterine disease at diagnosis. Up to 90% ovarian carcinosarcomas (OCs) will have disease that has spread beyond the ovary. Prognosis for localized stage disease is poor with a high risk of recurrences, both local and distant, occurring within 1 year. The survival of women with advanced UC or OC is worse than survival of endometrioid or high-grade serous histologies. No improvement in survival rates has been observed in the past few decades with an overall median survival of less than 2 years. Currently, there is no clear evidence to establish consensus guidelines for therapeutic management of carcinosarcomas. Until recently, gynecological carcinosarcomas were considered as a subtype of sarcoma and treated ",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "2014",
+        "authors": [
+          "Berton-Rigaud Dominique",
+          "Devouassoux-Shisheboran Mojgan",
+          "Ledermann Jonathan A",
+          "Leitao Mario M",
+          "Powell Matthew A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "Carcinosarcoma",
+          "Combined Modality Therapy",
+          "Female",
+          "Humans",
+          "Medical Oncology",
+          "Ovarian Neoplasms",
+          "Practice Guidelines as Topic",
+          "Societies, Medical",
+          "Uterine Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25341582/"
+      },
+      {
+        "pmid": "25962155",
+        "title": "Conventional chemotherapy and oncogenic pathway targeting in ovarian carcinosarcoma using a patient-derived tumorgraft.",
+        "abstract": "Ovarian carcinosarcoma is a rare subtype of ovarian cancer with poor clinical outcomes. The low incidence of this disease makes accrual to large clinical trials challenging. However, studies have shown that treatment responses in patient-derived xenograft (PDX) models correlate with matched-patient responses in the clinic, supporting their use for preclinical testing of standard and novel therapies. An ovarian carcinosarcoma PDX is presented herein and showed resistance to carboplatin and paclitaxel (similar to the patient) but exhibited significant sensitivity to ifosfamide and paclitaxel. The PDX demonstrated overexpression of EGFR mRNA and gene amplification by array comparative genomic hybridization (log2 ratio 0.399). EGFR phosphorylation was also detected. Angiogensis and insulin-like growth factor pathways were also implicated by overexpression of VEGFC and IRS1. In order to improve response to chemotherapy, the PDX was treated with carboplatin/paclitaxel with or without a pan-H",
+        "journal": "PloS one",
+        "year": "2015",
+        "authors": [
+          "Glaser Gretchen",
+          "Weroha S John",
+          "Becker Marc A",
+          "Hou Xiaonan",
+          "Enderica-Gonzalez Sergio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Carcinosarcoma",
+          "Disease Models, Animal",
+          "Female",
+          "Gene Expression Profiling",
+          "Humans",
+          "Maximum Tolerated Dose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25962155/"
+      },
+      {
+        "pmid": "37835384",
+        "title": "Racial and Ethnic Disparities in Gynecologic Carcinosarcoma: A Single-Institution Experience.",
+        "abstract": "We aimed to determine the incidence, treatment regimen, and treatment outcomes (including progression-free survival and overall survival) of gynecologic carcinosarcoma, a rare, aggressive, and understudied gynecologic malignancy. This retrospective review included all patients with gynecologic cancers diagnosed and treated at a single tertiary care comprehensive cancer center between January 2012 and May 2021. A total of 2116 patients were eligible for review, of which 84 cases were identified as carcinosarcoma: 66 were uterine (5.2% of uterine cancers), 17 were ovarian (3.6% of ovarian cancers), 1 was cervical (0.28% of cervical cancers), and 1 was untyped. Of the patients, 76.2% presented advanced-stage disease (stage III/IV) at the time of diagnosis. Minority patients were more likely to present with stage III/IV (p < 0.0001). The majority of patients underwent surgical resection followed by systemic chemotherapy with carboplatin and paclitaxel. The median PFS was 7.5 months. Of the",
+        "journal": "Cancers",
+        "year": "2023",
+        "authors": [
+          "Mercado Kristina E",
+          "Badiner Nora M",
+          "Wang Canty",
+          "Denham Laura",
+          "Unternaehrer Juli J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37835384/"
+      },
+      {
+        "pmid": "35791423",
+        "title": "Genetic Analysis and Combined Therapy of Surgery and Chemotherapy for the Progression-Free Survival of a Patient with Ovarian Carcinosarcoma: A Case Report and Literature Review.",
+        "abstract": "Carcinosarcoma, also known as malignant Mullerian mixed tumour, is a rare and aggressive ovarian malignant tumour. The prognosis of ovarian carcinosarcoma is very poor, accounting for the vast majority of ovarian cancer deaths. Due to the rarity of ovarian carcinosarcoma, no unified treatment plan exists at present. Here, we report the case of a 69-year-old patient with stage IC ovarian carcinosarcoma. She underwent right salpingo-oophorectomy and R0 resection, inclouding extrafascial hysterectomy, left salpingo-oophorectomy, omentectomy, appendectomy, right pelvic lymph node dissection and multipoint biopsy. Full-exome sequencing was performed with normal ovarian tissue, cancer tissue, sarcoma tissue and carcinosarcoma tissue, and the results showed that the sarcoma and carcinosarcoma tissue shared more mutated genes. A TP53 mutation occurred in the cancer tissue and carcinosarcoma tissue. By analysing the lychee tree, we found that the sarcoma tissue and carcinosarcoma tissue shared ",
+        "journal": "OncoTargets and therapy",
+        "year": "2022",
+        "authors": [
+          "Guo Shanshan",
+          "Zhang Xiaoyun",
+          "Tang Qianjue",
+          "Zhou Mengyun",
+          "Jiang Dan"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35791423/"
+      },
+      {
+        "pmid": "34272090",
+        "title": "Phase I evaluation of lenvatinib and weekly paclitaxel in patients with recurrent endometrial, ovarian, fallopian tube, or primary peritoneal Cancer.",
+        "abstract": "To estimate the maximally tolerated dose (MTD) and describe toxicities associated with lenvatinib and weekly paclitaxel in patients with recurrent endometrial and platinum resistant epithelial ovarian cancer.",
+        "journal": "Gynecologic oncology",
+        "year": "2021",
+        "authors": [
+          "Backes Floor J",
+          "Wei Lai",
+          "Chen Min",
+          "Hill Kasey",
+          "Dzwigalski Kyle"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Ovarian Epithelial",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Drug Resistance, Neoplasm",
+          "Endometrial Neoplasms",
+          "Fallopian Tube Neoplasms",
+          "Female",
+          "Genital Neoplasms, Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34272090/"
+      },
+      {
+        "pmid": "33139041",
+        "title": "A phase I open-label study of selinexor with paclitaxel and carboplatin in patients with advanced ovarian or endometrial cancers.",
+        "abstract": "Selinexor, a selective inhibitor of nuclear export, monotherapy causes nuclear accumulation of tumor-suppressor proteins and has anti-tumor activity in ovarian and endometrial cancers. The safety and tolerability of oral selinexor plus intravenous carboplatin and paclitaxel chemotherapy (selinexor + CP) was evaluated in this population.",
+        "journal": "Gynecologic oncology",
+        "year": "2021",
+        "authors": [
+          "Rubinstein Maria M",
+          "Grisham Rachel N",
+          "Cadoo Karen",
+          "Kyi Chrisann",
+          "Tew William P"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Dose-Response Relationship, Drug",
+          "Endometrial Neoplasms",
+          "Female",
+          "Humans",
+          "Hydrazines",
+          "Karyopherins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33139041/"
+      },
+      {
+        "pmid": "34986897",
+        "title": "Statistical analysis plan for the Dual mTorc Inhibition in advanCed/recurrent Epithelial ovarian, fallopian tube or primary peritoneal cancer (of clear cell, endometrioid and high-grade serous type, and carcinosarcoma) trial (DICE).",
+        "abstract": "Treatment for ovarian cancer includes platinum-based chemotherapy, but many women become resistant to chemotherapy, becoming platinum-resistant. Standard of care for these women is weekly paclitaxel chemotherapy, but cancers can often become paclitaxel resistant. TAK228, an investigational dual TORC1/2 inhibitor, is an oral therapy that can be added to standard treatment. The DICE trial is a phase II international multicentre, parallel-group, superiority clinical trial with 1:1, open label randomisation which has the aim of investigating the effectiveness of TAK228 plus weekly paclitaxel. The planned sample size is 124 women (62 per treatment arm) with platinum-resistant ovarian cancer.",
+        "journal": "Trials",
+        "year": "2022",
+        "authors": [
+          "de la Rosa Consuelo Nóhpal",
+          "Krell Jonathan",
+          "Day Emily",
+          "Clarke Aaron",
+          "Reddi Meena"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinosarcoma",
+          "Fallopian Tubes",
+          "Female",
+          "Humans",
+          "Neoplasm Recurrence, Local",
+          "Ovarian Neoplasms",
+          "Paclitaxel",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34986897/"
+      },
+      {
+        "pmid": "25132040",
+        "title": "[A case and literature review of ovarian carcinosarcoma with long-term survival after repeated recurrences].",
+        "abstract": "Ovarian carcinosarcoma is a rare and aggressive tumor with a poor prognosis. We report a case of ovarian carcinosarcoma and also review the literature. In 2000, a 63-year-old woman underwent optimal cytoreductive surgery for ovarian carcinosarcoma( International Federation of Gynaecology and Obstetrics[FIGO]stage III c[pT3cN0M0]). She received adjuvant chemotherapy with paclitaxel and carboplatin(TC). In 2005, a recurrent tumor was noted anterior to the sacrum. The patient had a complete response after 6 cycles of TC chemotherapy; however, a year later, the tumor recurred and was resected. In 2013, the tumor recurred adjacent to the right kidney and was surgically removed after a partial response to 3 cycles of TC chemotherapy. The pathologic findings included epithelial and non-epithelial components with histologic variation and differentiation; specifically, a leiomyosarcoma, cartilaginous tissues with cellular atypia, and a rhabdomyosarcoma were identified in specimens obtained duri",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2014",
+        "authors": [
+          "Asano Maki",
+          "Hasegawa Kiyoshi",
+          "Tsukada Kazuhiko",
+          "Tada Shin",
+          "Mizoguchi Yoshikazu"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinosarcoma",
+          "Combined Modality Therapy",
+          "Female",
+          "Humans",
+          "Neoplasm Staging",
+          "Ovarian Neoplasms",
+          "Recurrence",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25132040/"
+      },
+      {
+        "pmid": "22209775",
+        "title": "Differential in vitro sensitivity to patupilone versus paclitaxel in uterine and ovarian carcinosarcoma cell lines is linked to tubulin-beta-III expression.",
+        "abstract": "To compare the in vitro sensitivity/resistance to patupilone versus paclitaxel in uterine and ovarian carcinosarcomas (CS).",
+        "journal": "Gynecologic oncology",
+        "year": "2012",
+        "authors": [
+          "Carrara Luisa",
+          "Guzzo Federica",
+          "Roque Dana M",
+          "Bellone Stefania",
+          "Emiliano Cocco"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Agents",
+          "Biomarkers, Tumor",
+          "Carcinosarcoma",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "Cell Survival",
+          "Drug Resistance, Neoplasm",
+          "Epothilones",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22209775/"
+      },
+      {
+        "pmid": "21436700",
+        "title": "A phase II trial of paclitaxel and carboplatin in women with advanced or recurrent uterine carcinosarcoma.",
+        "abstract": "Systemic therapy for advanced uterine carcinosarcoma (CS) has been disappointing. The most widely studied regimen is ifosfamide and cisplatinum. Moderate success has been documented using paclitaxel in ovarian CS. The purpose of this study was to evaluate carboplatin/paclitaxel in advanced and recurrent uterine CS.",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "2011",
+        "authors": [
+          "Lacour Robin A",
+          "Euscher Elizabeth",
+          "Atkinson E Neely",
+          "Sun Charlotte C",
+          "Ramirez Pedro T"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Carcinosarcoma",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Neoplasm Recurrence, Local",
+          "Neoplasm Staging"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21436700/"
+      },
+      {
+        "pmid": "29426293",
+        "title": "Comparison of first-line chemotherapy regimens for ovarian carcinosarcoma: a single institution case series and review of the literature.",
+        "abstract": "The optimal first-line chemotherapy for ovarian carcinosarcoma has not yet been determined. We therefore sought to determine the progression-free survival (PFS) and overall survival (OS) for patients with ovarian carcinosarcoma treated at our institution with different first-line chemotherapy regimens.",
+        "journal": "BMC cancer",
+        "year": "2018",
+        "authors": [
+          "Brackmann Melissa",
+          "Stasenko Marina",
+          "Uppal Shitanshu",
+          "Erba Jake",
+          "Reynolds R Kevin"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Carcinosarcoma",
+          "Disease-Free Survival",
+          "Female",
+          "Humans",
+          "Ifosfamide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29426293/"
+      },
+      {
+        "pmid": "21677454",
+        "title": "Carcinosarcoma of the ovary: analysis of 13 cases and review of the literature.",
+        "abstract": "The aim of this study was to evaluate our experience with patients affected by ovarian carcinosarcoma.",
+        "journal": "Oncology",
+        "year": "2011",
+        "authors": [
+          "Loizzi Vera",
+          "Cormio Gennaro",
+          "Camporeale Anna",
+          "Falagario Maddalena",
+          "De Mitri Paola"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "CA-125 Antigen",
+          "CA-19-9 Antigen",
+          "Carboplatin",
+          "Carcinosarcoma",
+          "Chemotherapy, Adjuvant",
+          "Cisplatin",
+          "Epirubicin",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21677454/"
+      },
+      {
+        "pmid": "32787339",
+        "title": "Systemic therapy for non-serous ovarian carcinoma.",
+        "abstract": "Ovarian cancer is one of the top ten most common cancers in women around the world, with high-grade serous epithelial cancer being the most frequent type. However, around a quarter of cases consist of non-serous epithelial ovarian cancer (EOC), which is a heterogeneous group of malignancies that includes endometroid, mucinous, clear cell carcinoma (CCC), and carcinosarcoma. Another relevant group of nonepithelial tumors are those arising from germ cells or sex-cord stromal cells, which account for about 10% of all ovarian cancers. Although there are similarities in the presentation, evaluation, and management of these tumors, they have unique characteristics in terms of epidemiology, tumor biology, tumor marker expression, and response to treatment, warranting a different approach to each one of them. Collectively, the treatment of most of EOC include surgical cytoreduction followed by adjuvant systemic platinum-based chemotherapy. The most common chemotherapy and route of administrati",
+        "journal": "Chinese clinical oncology",
+        "year": "2020",
+        "authors": [
+          "Chávarri-Guerra Yanin",
+          "González-Ochoa Eduardo",
+          "De-la-Mora-Molina Héctor",
+          "Soto-Perez-de-Celis Enrique"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Ovarian Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32787339/"
+      },
+      {
+        "pmid": "19875949",
+        "title": "Prediction of Chemotherapy Response With Platinum and Taxane in the Advanced Stage of Ovarian and Uterine Carcinosarcoma: A Clinical Implication of In vitro Drug Resistance Assay.",
+        "abstract": "To evaluate the role of an in vitro drug resistance assay to predict the response to platinum and taxane combination chemotherapy in advanced ovarian and uterine carcinosarcoma.",
+        "journal": "American journal of clinical oncology",
+        "year": "2010",
+        "authors": [
+          "Matsuo Koji",
+          "Bond Virginia K",
+          "Im Dwight D",
+          "Rosenshein Neil B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Agents",
+          "Carboplatin",
+          "Carcinosarcoma",
+          "Cisplatin",
+          "Disease-Free Survival",
+          "Docetaxel",
+          "Drug Resistance, Neoplasm",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19875949/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:38:58.342931",
+  "success": true,
+  "error_message": null
+}

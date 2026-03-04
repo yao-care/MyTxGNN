@@ -1,0 +1,398 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clotrimazole",
+    "disease": "oral candidiasis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06119672",
+      "title": "Evaluation of the Efficacy of Supplementary Probiotic Capsules With Topical Clobetasol Propionate 0.05% in the Treatment of Oral Lichen Planus",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2023-05-01",
+      "completion_date": "2023-12-30",
+      "country": "Egypt",
+      "enrollment": 36,
+      "brief_summary": "Oral lichen planus patients who will meet inclusion criteria will be divided into 2 groups\n\n-The intervention group (Group P): This group will be randomly allocated to take one capsule twice daily during meal time at morning and evening of probiotics complex obtained from Biovea for 4 -week study period. Moreover, patients in this group will be instructed to apply clobetasole propionate in orabase gel 2 times daily for 4 weeks. Patients will receive their supply of the gel and probiotics every 2",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are diagnosed with symptomatic lichen planus whether bullous erosive or erythematous oral lichen planus.\n* Male or female patient with age range between 20-75 years old were included.\n* medically free individuals\n\nExclusion Criteria:\n\n* the use of systemic antibio",
+      "endpoints": [
+        "size wound",
+        "Pain in oral cavity"
+      ],
+      "sponsor": "October 6 University",
+      "url": "https://clinicaltrials.gov/study/NCT06119672"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05421858",
+      "title": "An Interventional Efficacy and Safety Phase 3 Double-blind 2-arm Study to Investigate IV Followed by Oral Fosmanogepix Compared With IV Caspofungin Followed by Oral Fluconazole in Adult Participants With Candidemia and/or Invasive Candidiasis",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-12-11",
+      "completion_date": "2028-01-30",
+      "country": "Greece, Thailand, Australia, Singapore, Taiwan, Spain, France, Germany, United States, Austria, South Korea, Israel, South Africa, Argentina, China, Brazil, Colombia, Belgium, Italy, Bulgaria",
+      "enrollment": 450,
+      "brief_summary": "The purpose of this clinical trial is to learn about the safety and effects of the study medicine (called Fosmanogepix) for the potential treatment of candidemia and/or invasive candidiasis, a life-threatening fungal infection caused by several species of yeast called Candida.\n\nThe study is seeking patients who have a diagnosis of candidemia and/or invasive candidiasis.\n\nTwo-thirds of all patients will receive the study medication fosmanogepix Intravenous (IV) infusion followed by optional fosma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients ≥ 18 years (or the minimum country-specific age of consent if \\> 18) at Screening who have provided signed informed consent indicating that they understand the purpose of, and procedures required for, the study, and are willing to participate in the study. If the pat",
+      "endpoints": [
+        "Proportion of patients alive at Day 30",
+        "Proportion of patients with an overall response of treatment success at end of study treatment (EOST)"
+      ],
+      "sponsor": "Basilea Pharmaceutica",
+      "url": "https://clinicaltrials.gov/study/NCT05421858"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02180828",
+      "title": "An Case-controlled Randomized Study to the Efficacy of Clotrimazole Vaginal Tablet vs Fluconazole for Severe Vulvovaginal Candidiasis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2015-09",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "The study is focused to prove that the efficacy and safety of Clotrimazole vaginal tablet vs Fluconazole for the treatment of severe vulvovaginal candidiasis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Vulvovaginal candidiasis infection is diagnosed, the symptoms evaluated using a numerical rating system based on severity (absent=0; mild=1; moderate=2; severe=3) with a minimum VVC Composite Signs/Symptoms score of 7\n2. Subject completes the informed consent process\n3. Subje",
+      "endpoints": [
+        "Therapeutic Efficacy 1",
+        "Therapeutic Efficacy 2",
+        "Therapeutic Efficacy 3"
+      ],
+      "sponsor": "Peking University Shenzhen Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02180828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01729351",
+      "title": "Comparative Effectiveness of Extrafine Hydrofluoroalkane Beclometasone Versus Fluticasone and Chlorofluorocarbon Beclometasone in Smoking Asthma - a Retrospective, Real-life Observational Study in a UK Primary Care Asthma Population",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-06",
+      "country": "N/A",
+      "enrollment": 7195,
+      "brief_summary": "To evaluate the comparative effectiveness of extrafine hydrofluoroalkane beclometasone (EF HFA-BDP) and other inhaled corticosteroid (ICS) therapy commonly used in the UK, specifically fluticasone (FP) and non-extrafine (NEF) BDP (CFC-BDP and NEF HFA-BDP) in a UK primary care asthma population of current smokers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 16-70 years\n* Current smokers - explicitly coded in patient records or captured in patient questionnaires\n* Evidence of asthma diagnosis and current therapy: ≥2 prescriptions for asthma at different points in time during the baseline year ± a diagnostic code for asthma\n* ",
+      "endpoints": [
+        "Asthma Control proxy incorporating SABA use",
+        "Asthma Exacerbations (ATS Definition)"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01729351"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01242098",
+      "title": "Retrospective, Real-life Observational, Matched Cohort Evaluation of the Effectiveness of BDP/FOR (Fostair® 100/6) and FP/SAL (Seretide® 125) in Patients Switching From Seretide to Fostair in UK Primary Care Asthma Management",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2011-12",
+      "country": "United Kingdom",
+      "enrollment": 137,
+      "brief_summary": "The purpose of this study is to evaluate whether beclomethasone dipropionate / formoterol (BDP/FOR; Fostair® 100/6) is at least equivalent in terms of exacerbation prevention to fluticasone dipropionate / salmeterol (FP/SAL; Seretide® 125) in matched asthma patients switching to BDP/FOR following treatment with FP/SAL in normal clinical practice compared with patients not switched.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged:\n\n  * 18-60 years:\n  * 61-80 years who are never-smokers\n* Evidence of asthma:\n\n  * a diagnostic code for asthma, or\n  * ≥2 prescriptions for asthma at different points in time during the prior year\n* Baseline FP/SAL therapy:\n\n  * ≥2 prescription for ICS/LABA therapy as F",
+      "endpoints": [
+        "Exacerbation rate"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01242098"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05882864",
+      "title": "Efficacy of Ginger Muco-bioadhesive Gel in Management of Oral Lichen Planus: A Randomized Controlled Clinical Trial With Immunohistochemical Analysis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-08-01",
+      "completion_date": "2025-08-01",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "1. Compare the clinical efficacy of topical ginger extract versus triamcinolone acetonide 0.1% for symptomatic oral lichen planus (Primary Objective).\n2. Investigate using immunohistochemical analysis the effect of the two different treatment modalities on FasL expression in oral lichen planus lesions (Secondary Objective).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females, aged from 40 to 60 years.\n* Clinically proven painful Bullous/erosive (score 4) or atrophic (score 3) forms of OLP confirmed by the presence of red or erythromatous changes, or shallow ulcerations with fine lacy lines at the periphery of the lesion accentuate",
+      "endpoints": [
+        "Efficacy of Ginger Muco-bioadhesive Gel in Management of Oral Lichen Planus"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT05882864"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00835029",
+      "title": "Efficacy of Slow Release Clotrimazole Varnish Treating Denture Stomatitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2012-02",
+      "country": "Israel",
+      "enrollment": 13,
+      "brief_summary": "Background: Oral candidiasis is most frequently found among the elderly .It is accompanied with oral pain, irritation, burning sensation. In addition, the altered taste sensation may cause nutrition compromise, which may affect ones diet. Management of superficial oral Candida is usually achieved by treatment with clotrimazole, a fungi static drug which is given five times per day with instruction to slowly suck on it with out the dentures.\n\nWorking hypothesis and aims: Management of oral candid",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adults\n* removable denture in mouth\n* diagnosed oral candida\n\nExclusion Criteria:\n\n* allergy to clotrimazole\n* immunosuppressed\n* using other antifungi treatment\n* have an active oral ulcerative disease\n* impaired kidny or live functions",
+      "endpoints": [
+        "Microbial evidence of reduced candida infection"
+      ],
+      "sponsor": "Hadassah Medical Organization",
+      "url": "https://clinicaltrials.gov/study/NCT00835029"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00390780",
+      "title": "A Comparative Randomized, Double-blind, Double-Dummy, Multicenter Study of the Efficacy and Safety of Miconazole Lauriad 50mg Administered Once a Day and Mycelex Troches (Clotrimazole 10mg) Administered Five Times a Day in the Treatment of Oropharyngeal Candidiasis in Immunocompromised Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2008-01",
+      "country": "United States, Canada",
+      "enrollment": 578,
+      "brief_summary": "The purpose of this study is to evaluate the clinical cure of miconazole Lauriad 50 mg (1x50mg) Bioadhesive buccal tablets compared with clotrimazole troches (5x10mg) after 14 days of treatment (at the test of cure visit, at Day 17-19).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with clinical picture of oropharyngeal candidiasis\n* Confirmation of oropharyngeal candidiasis by candida culture positive\n* HIV-positive patients\n* Patients 18 years of age\n\nExclusion Criteria:\n\n* Patients with signs or symptoms of systemic candidiasis\n* Patients wit",
+      "endpoints": [
+        "Clinical Cure (Defined as a Complete Resolution of Signs and Symptoms) After 14 Days of Treatment at the Test of Cure Visit (Day 17-Day 22) Using Murray Scoring Scale"
+      ],
+      "sponsor": "Valerio Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT00390780"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06072716",
+      "title": "The Anti-fungal Effect of Miconazol and Miconazol-Loaded Chitosan Nanoparticles in Diabetic Patients With Oral Candidiasis-Randomized Control Clinical Trial and Microbiological Analysis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2023-01-10",
+      "completion_date": "2023-07-27",
+      "country": "Egypt",
+      "enrollment": 80,
+      "brief_summary": "Objective: this study aimed to evaluate the therapeutic effects of topical application of miconazole and miconazole-loaded chitosan nanoparticles in treatment diabetic patients with oral candidiasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. uncontrolled diabetes patients with oral candidiasis and their uncontrolled diabetes were confirmed by doing glycated hemoglobin test and their range is \\>7.0%,\n2. age ranged from 30-65 years\n3. patients were willing to participate in this study\n\nExclusion Criteria:\n\n1. immun",
+      "endpoints": [
+        "clinical assessment of erythematous/psuedomembranous oral candidiasis resolution"
+      ],
+      "sponsor": "MTI University",
+      "url": "https://clinicaltrials.gov/study/NCT06072716"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002282",
+      "title": "A Randomized Multicenter Study of the Efficacy, Safety, and Toleration of Fluconazole or Clotrimazole Troches in the Treatment of Patients With Oropharyngeal Candidiasis in Association With the Acquired Immunodeficiency Syndrome",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "To compare the efficacy, safety, and tolerance of fluconazole single daily capsule for 14 days versus clotrimazole troche 5 x daily for 14 days in the treatment of oropharyngeal candidiasis in patients with AIDS.",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Cimetidine.\n\nExclusion Criteria\n\nCo-existing Condition:\n\nPatients with the following are excluded:\n\n* Known history of intolerance or allergy to imidazoles or triazoles, or the non-azole components of clotrimazole troches (dextrose, cellulose, ",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002282"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05916729",
+      "title": "\"The Effect of Using Preparations With Maqui Berry Extract in Treating Oral Candidiasis in Patients With Diabetes Mellitus and Systemically Healthy Persons\"",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2021-05-01",
+      "completion_date": "2025-01-01",
+      "country": "Serbia",
+      "enrollment": 90,
+      "brief_summary": "Fungi from the genus Candida present the saprophytic flora of the cavity. This saprophytic yeast can cause different form of oral infections at immunocompromised patients as well as at subjects with impaired local oral microbiota e.g. wearers of dentures.\n\nThe most common cause of oral candidiasis is Candida albicans, but recently, non-albicans species has also been commonly isolated. One of the reasons for growing frequency of non-albicans species is traditional antifungal therapy. Standard ant",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age over 18\n* Candida spp. infection (Clinical signs, symptoms and microbiological confirmation of infection)\n* Systematically healthy wearing acrylate denture (Group A)\n* Diabetic patients with/without acrylate denture (Groups B and C)\n\nExclusion Criteria:\n\n* Presence of othe",
+      "endpoints": [
+        "Presence of Candida albicans after therapy at first reexamination",
+        "Presence of Candida albicans after therapy at second reexamination",
+        "Presence of Candida albicans after therapy at third reexamination"
+      ],
+      "sponsor": "University of Belgrade",
+      "url": "https://clinicaltrials.gov/study/NCT05916729"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01141439",
+      "title": "A Retrospective Evaluation of the Effectiveness and Cost-effectiveness of HFA-BDP MDI (Qvar®) Compared With CFC-BDP MDI and FP MDI Used in the Management of Asthma in a Representative UK UK Primary Care Population",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2001-01",
+      "completion_date": "2010-07",
+      "country": "United Kingdom",
+      "enrollment": 815377,
+      "brief_summary": "The objective of the study was to compare the effectiveness, cost-effectiveness and direct healthcare costs of managing asthma in patients with evidence of persistent asthma, following the initiation and increased dose of inhaled corticosteroid (ICS) therapy using HFA-BDP (Qvar®) (either as initial therapy or as a step-up therapy) compared with the most commonly prescribed alternative ICS in the UK, CFC-beclometasone (BDP) and fluticasone (FP) as metered dose inhalers (MDIs). Qvar vs FP analyses",
+      "eligibility_criteria": "Inclusion Criteria:\n\nIncluded patients must:\n\n* aged 5-60 years\n* evidence of asthma: a diagnostic code of asthma or ≥2 prescriptions for asthma in baseline year at different points in time including one of ICS\n* on current therapy at the IPD, defined as ≥1 ICS script and ≥1 other asthma prescriptio",
+      "endpoints": [
+        "Proxy asthma control"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01141439"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04712929",
+      "title": "Association of Candida and Antifungal Therapy With Pro-inflammatory Cytokines in Oral Leukoplakia- A Pilot Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-11-01",
+      "completion_date": "2020-03-30",
+      "country": "India",
+      "enrollment": 90,
+      "brief_summary": "This study aims to determine the correlation between candida and pro- inflammatory cytokines response in Oral Leukoplakia(OL) with antifungal therapy. Ethical clearance from the Institutes ethical committee and Informed written consent from the patient will be obtained. The study group would comprise of clinically and histopathologically confirmed cases of OL (60 patients). The control group would be 30 dental patients ( age \\& sex matched) who do not any malignancy, OL or any other potentially ",
+      "eligibility_criteria": "Inclusion criteria:\n\n* 60 clinically and histologically confirmed cases of Oral Leukoplakia would be prospectively recruited for this study who have not been under treatment for the same for past 6 months.\n* 30 healthy controls ( age and sex matched) would also be recruited from patients who are rep",
+      "endpoints": [
+        "Oral burning sensation",
+        "Clinical size of lesion",
+        "Pro- inflammatory cytokines"
+      ],
+      "sponsor": "All India Institute of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT04712929"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00479947",
+      "title": "A Double-Blind,Randomized Placebo-Controlled Study Using Probiotic Lactobacillus GR-1 and RC-14 as an Adjunctive Therapy to Fluconazole in the Treatment of Yeast Vaginitis",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2007-05",
+      "completion_date": "2007-12",
+      "country": "Nigeria",
+      "enrollment": 100,
+      "brief_summary": "Yeast vaginitis is a very common ailment affecting premenopausal women in Nigeria. This condition is more prevalent in the age group between 21-30 years. More than 75% of premenopausal women and university students are diagnosed with yeast infections annually. In most of these women, recurrent rate of vaginal candidiasis with empiric therapy, stands between 70 and 80%. In addition, resistance to anti-fungal agents is increasing at an alarming speed, particularly with species other than Candida a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premenopausal women suffering from acute or chronic yeast vaginitis and a past history of 3 or 4 episodes over the 12 months will be selected.\n* All participants must be symptomatic, i.e. the participant must have identified herself as suffering from one or more of the followi",
+      "endpoints": [
+        "In the placebo group of patients, it is anticipated that at the 3 month period, a recurrence rate of 50% will occur, whereas, in the treatment arm a reduction in recurrence to 25% will be achieved"
+      ],
+      "sponsor": "Faith Mediplex",
+      "url": "https://clinicaltrials.gov/study/NCT00479947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03562156",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Oteseconazole (VT-1161) Oral Capsules in the Treatment of Subjects With Recurrent Vulvovaginal Candidiasis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-08-16",
+      "completion_date": "2021-08-06",
+      "country": "United States",
+      "enrollment": 438,
+      "brief_summary": "Recurrent vulvovaginal candidiasis (RVVC), also known as recurrent yeast infections, is defined as at least 3 episodes of acute VVC in the past 12 months. Several properties of oteseconazole (VT-1161) suggest that it might be a safer and more effective treatment for RVVC than other oral anti-fungal medicines.\n\nThis study will evaluate the effectiveness and safety of oteseconazole (VT-1161) for the treatment of RVVC and consists of 2 parts. The first part of the study is a 2-week period for the t",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* 3 or more episodes of acute VVC in the past 12 months\n* Positive KOH or Gram stain\n* Total vulvovaginal signs and symptoms score of ≥3 at screening visit\n* Total vulvovaginal signs and symptoms score of \\<3 at baseline visit\n* Must be able to swallow pills\n\nKey Exclusion C",
+      "endpoints": [
+        "Percentage of Subjects With 1 or More Culture-Verified Acute VVC Episodes During the Maintenance Phase of the Study in the Intent-to-Treat Population"
+      ],
+      "sponsor": "Mycovia Pharmaceuticals Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03562156"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02184351",
+      "title": "A Prospective Randomized, Blinded Parallel Group Study of Clotrimazole Troches vs. Mycelex® Troches (10 mg Troche Five Times a Day for 14 Days) in Patients With Human Insufficiency Virus (HIV) Infection for the Treatment of Oropharyngeal Candidiasis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-05",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 187,
+      "brief_summary": "The objectives of this study are to compare the efficacy and safety of Roxane's clotrimazole troches vs. Mycelex troches in HIV positive patients with oropharyngeal candidiasis, where this condition has been diagnosed by clinical examination and confirmed by fungal culture.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented HIV positive status\n* Clinical examination of oropharynx is consistent with diagnosis of oral Candidiasis (such as creamy, white, curdlike patches or erythematous lesions on mucosal surfaces)\n* Findings on direct microscopic examination (Gram Stain or potassium hydr",
+      "endpoints": [
+        "Percent of patients that have a clinical response assessed by symptoms and physical examination"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02184351"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01400217",
+      "title": "HFA Beclomethasone in Asthma, a General Practice Research Database Study: Real-life Observational Evaluation of Extra-fine With Standard Particle Size Beclometasone Dipropionate Using the Propellant Hydrofluoroalkane 134a for the Management of Asthma in a Representative UK Primary Care Population",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "1991-01",
+      "completion_date": "2010-10",
+      "country": "United Kingdom",
+      "enrollment": 56985,
+      "brief_summary": "This study will compare the absolute and relative effectiveness of asthma management in patients on inhaled corticosteroid (ICS) maintenance therapy as either extra-fine-particle or larger-particle formulation beclomethasone dipropionate (BDP) via metered-dose inhalers (MDIs) using the propellant hydrofluoroalkane propellant (HFA-BDP), namely Qvar® MDI compared with Clenil® MDI.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 4-80 years\n* Paediatric cohort (aged 4-11 years), and\n* Adult cohort (aged 12-80 years )\n* Evidence of asthma and current asthma therapy:\n* All cohorts (IPDI, IPDS, IPDA):\n\n  * a diagnostic code for asthma, and / or \\*≥2 prescriptions for asthma at different points in ti",
+      "endpoints": [
+        "Severe asthma exacerbation (ATS/ERS based defn)",
+        "Primary composite asthma control"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01400217"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02818803",
+      "title": "Efficacy of Standardized-propolis Extract (EPP-AF®) Gel Formulation as Buccal Antiseptic in Elderly People",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-01",
+      "completion_date": "2016-06",
+      "country": "Brazil",
+      "enrollment": 40,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of propolis on the treatment of oral candidiasis, more specifically denture stomatitis. Half of participants will receive a standardized-propolis (EPP-AF®) gel formulation while the other half will receive miconazole gel, both for oral use.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Elderly patients with denture stomatitis\n\nExclusion Criteria:\n\n* Recent use of anti fungals or antibiotics(2 months or less), dementia",
+      "endpoints": [
+        "Change from Newton Score at 14 days"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT02818803"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02635438",
+      "title": "\"A Multi-Centre, Randomized, Double Blind, Parallel-Group, Comparative Clinical Trial to Evaluate the Safety and Clinical Equivalence of Generic Clotrimazole Troche/Lozenges USP, 10mg (Unique Pharmaceutical Laboratories, India) to Clotrimazole Troche/Lozenges ® 10mg (Roxane Laboratories Inc., USA) in Subjects With Oropharyngeal Candidiasis \".",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2016-12",
+      "completion_date": "2018-11",
+      "country": "India",
+      "enrollment": 360,
+      "brief_summary": "The objectives of this study are to compare the efficacy and safety of Clotrimazole troche/ lozenges USP, 10 mg (Unique Pharmaceutical Laboratories, India) vs. Clotrimazole Troche/ Lozenges USP, 10 mg (Roxane Laboratories Inc., USA) in patients with oropharyngeal candidiasis, where this condition has been diagnosed by clinical examination and confirmed by fungal culture",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Presence of specific signs and symptoms of Oropharyngeal Candidiasis, including erythematous areas, white patches(thrush), mouth pain, irritation, burning, glossitis, altered taste, pruritis, dysphagia and odynophagia.\n2. Clinical examination of oropharynx consistent with a d",
+      "endpoints": [
+        "Clinical Cure"
+      ],
+      "sponsor": "Thinq Pharma-CRO Pte. Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02635438"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04699240",
+      "title": "A Prospective, Case-controlled Randomized Study of Human Reproductive Tract Active Lactobacillus in Adjuvant Treatment of Recurrent Vulvovaginal Candidiasis.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-07-01",
+      "completion_date": "2023-12-30",
+      "country": "China",
+      "enrollment": 140,
+      "brief_summary": "We are trying to determine if Clotrimazole vaginal tablets with oral Lactobacillus is better than Clotrimazole vaginal tablets in Preventing the Recurrence of vulvovaginalcandidiasis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women be at least 18 years of age\n* Have symptoms of vulva irritation and or abnormal discharge\n* Meet the clinical criteria for RVVC\n* Willing to participate in research\n\nExclusion Criteria:\n\n1. Taking / injecting antibiotics in the past two weeks;\n2. A woman who intends to b",
+      "endpoints": [
+        "The cure rate of RVVC,"
+      ],
+      "sponsor": "Peking University Shenzhen Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04699240"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04705233",
+      "title": "A 2 Arm, Multi-centre, Open Label, Parallel-group Randomised Designed Trial Investigating the Use of Sputum Colour Charts to Guide Antibiotic Self-treatment of Acute Exacerbation of COPD in Patients With COPD - Colour COPD",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-12-14",
+      "completion_date": "2023-12-30",
+      "country": "United Kingdom",
+      "enrollment": 2954,
+      "brief_summary": "The primary objective of this study is to determine if a sputum colour chart can aid patient self-management of COPD exacerbations, such that use of the chart is non-inferior to usual care with respect to hospital admissions. There are also a range of other secondary objectives as detailed in the secondary outcomes section. An integral pilot phase, economic evaluation and process evaluation are also included.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinically diagnosed COPD, confirmed by a medical record of post-bronchodilator spirometry denoting obstruction.\n* ≥2 AECOPD in the 12 months prior to screening according to the patient or ≥1 hospital admission for AECOPD (i.e. Global Initiative for Chronic Obstructive Lung Di",
+      "endpoints": [
+        "Number of hospital admissions where the primary reason for admission is AECOPD"
+      ],
+      "sponsor": "University of Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT04705233"
+    }
+  ],
+  "timestamp": "2026-03-04T13:30:42.162633",
+  "success": true,
+  "error_message": null
+}

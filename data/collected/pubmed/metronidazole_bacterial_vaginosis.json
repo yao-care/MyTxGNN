@@ -1,0 +1,601 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Metronidazole",
+    "disease": "bacterial vaginosis",
+    "query_string": "Metronidazole AND bacterial vaginosis"
+  },
+  "data": {
+    "query": "Metronidazole AND bacterial vaginosis",
+    "results": [
+      {
+        "pmid": "40043236",
+        "title": "Male-Partner Treatment to Prevent Recurrence of Bacterial Vaginosis.",
+        "abstract": "Bacterial vaginosis affects one third of reproductive-aged women, and recurrence is common. Evidence of sexual exchange of bacterial vaginosis-associated organisms between partners suggests that male-partner treatment may increase the likelihood of cure.",
+        "journal": "The New England journal of medicine",
+        "year": "2025",
+        "authors": [
+          "Vodstrcil Lenka A",
+          "Plummer Erica L",
+          "Fairley Christopher K",
+          "Hocking Jane S",
+          "Law Matthew G"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Young Adult",
+          "Administration, Oral",
+          "Administration, Topical",
+          "Anti-Bacterial Agents",
+          "Clindamycin",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40043236/"
+      },
+      {
+        "pmid": "34470644",
+        "title": "Bacterial vaginosis: drivers of recurrence and challenges and opportunities in partner treatment.",
+        "abstract": "Bacterial vaginosis (BV) is the most common vaginal dysbiosis to affect women globally, yet an unacceptably high proportion of women experience BV recurrence within 6 months of recommended antibiotic therapy. The low rate of sustained cure highlights our limited understanding of the pathogenesis of BV recurrence, which has been attributed to possible persistence and re-emergence of BV-associated bacteria (BVAB) or a BV-associated biofilm following antimicrobials and/or reinfection occurring from sexual partners.There is a robust body of evidence to support the exchange of bacteria between partners during sexual activity, and while the hypothesis that women treated for BV are subsequently reinfected with BVAB following sex with an untreated sexual partner is not new, failure of past partner treatment trials has eroded confidence in this concept. If reinfection is a key driver of recurrence, current antimicrobial regimens directed to women alone are unlikely to achieve a high level of su",
+        "journal": "BMC medicine",
+        "year": "2021",
+        "authors": [
+          "Vodstrcil Lenka A",
+          "Muzny Christina A",
+          "Plummer Erica L",
+          "Sobel Jack D",
+          "Bradshaw Catriona S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Microbiota",
+          "Recurrence",
+          "Sexual Behavior",
+          "Sexual Partners",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34470644/"
+      },
+      {
+        "pmid": "37042412",
+        "title": "Fighting polymicrobial biofilms in bacterial vaginosis.",
+        "abstract": "Bacterial vaginosis (BV) is the most common cause of vaginal discharge and is often associated with other health consequences mainly in pregnant women. BV is described by an imbalance in the vaginal microbiota where strictly and facultative anaerobic bacteria outgrow the lactic acid- and hydrogen peroxide-producing Lactobacillus species. The species involved in BV are capable to grow and form a polymicrobial biofilm in the vaginal epithelium. The treatment of BV is usually performed using broad-spectrum antibiotics, including metronidazole and clindamycin. However, these conventional treatments are associated with high recurrence rates. The BV polymicrobial biofilm may have an important role on the treatment outcome and is accounted as one of the factors for treatment failure. Other possible reasons for treatment failure include the presence of species resistant to antibiotics or the chance of reinfection after treatment. Therefore, novel strategies to increase the rates of treatment h",
+        "journal": "Microbial biotechnology",
+        "year": "2023",
+        "authors": [
+          "Sousa Lúcia G V",
+          "Pereira Sofia A",
+          "Cerca Nuno"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Pregnancy",
+          "Female",
+          "Humans",
+          "Vaginosis, Bacterial",
+          "Metronidazole",
+          "Vagina",
+          "Anti-Bacterial Agents",
+          "Biofilms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37042412/"
+      },
+      {
+        "pmid": "38991218",
+        "title": "Assessment and Treatment of Vaginitis.",
+        "abstract": "Vaginitis is the presenting symptom at millions of office visits each year in the United States. Although treatment of sporadic cases is often straightforward, recurrent cases present both diagnostic and treatment challenges. Molecular diagnostic tests are likely superior to in-office microscopy for most clinicians and most cases. In both recurrent bacterial vaginosis and recurrent vulvovaginal candidiasis, national treatment guidelines recommend an extended treatment duration with one of the first-line agents. In cases in which such treatment is not successful, vaginal boric acid is likely the cheapest and easiest alternative option. New antifungal medications offer additional but limited treatment options. Probiotics are not recommended for prevention of vulvovaginal candidiasis; however, vaginal products containing Lactobacillus crispatus may have promise for recurrent bacterial vaginosis. Trichomoniasis should be treated with a 1-week course of metronidazole; this is the only sexua",
+        "journal": "Obstetrics and gynecology",
+        "year": "2024",
+        "authors": [
+          "Mitchell Caroline M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Vaginitis",
+          "Candidiasis, Vulvovaginal",
+          "Vaginosis, Bacterial",
+          "Antifungal Agents",
+          "Metronidazole",
+          "Anti-Bacterial Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38991218/"
+      },
+      {
+        "pmid": "32402161",
+        "title": "Randomized Trial of Lactin-V to Prevent Recurrence of Bacterial Vaginosis.",
+        "abstract": "Bacterial vaginosis affects 15 to 50% of women of reproductive age, and recurrence is common after treatment with an antibiotic agent. The high incidence of recurrence suggests the need for new treatments to prevent recurrent bacterial vaginosis.",
+        "journal": "The New England journal of medicine",
+        "year": "2020",
+        "authors": [
+          "Cohen Craig R",
+          "Wierzbicki Michael R",
+          "French Audrey L",
+          "Morris Sheldon",
+          "Newmann Sara"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Administration, Intravaginal",
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Antibiosis",
+          "Double-Blind Method",
+          "Female",
+          "Gels",
+          "Humans",
+          "Incidence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32402161/"
+      },
+      {
+        "pmid": "39969560",
+        "title": "Tinidazole vs metronidazole for the treatment of bacterial vaginosis: a systematic review and meta-analysis.",
+        "abstract": "Tinidazole shows potential as a first-line treatment for bacterial vaginosis (BV). However, its superiority to metronidazole remains uncertain. Therefore, this meta-analysis compares tinidazole versus metronidazole in patients with BV.",
+        "journal": "Archives of gynecology and obstetrics",
+        "year": "2025",
+        "authors": [
+          "Sobral Milene Vitória Sampaio",
+          "Soares Victor Gonçalves",
+          "Moreira João Lucas de Magalhães Leal",
+          "Rodrigues Livia Kneipp",
+          "Faria Hilária Saugo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Tinidazole",
+          "Metronidazole",
+          "Vaginosis, Bacterial",
+          "Female",
+          "Randomized Controlled Trials as Topic",
+          "Anti-Bacterial Agents",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39969560/"
+      },
+      {
+        "pmid": "38696172",
+        "title": "Efficacy of Dequalinium Chloride vs Metronidazole for the Treatment of Bacterial Vaginosis: A Randomized Clinical Trial.",
+        "abstract": "Bacterial vaginosis (BV) is a common cause of vaginal infection. First-line treatments of BV are metronidazole and clindamycin. Due to the increase in antibiotic resistance, effective nonantibiotic treatments for BV are needed.",
+        "journal": "JAMA network open",
+        "year": "2024",
+        "authors": [
+          "Raba Grzegorz",
+          "Durkech Anton",
+          "Malík Tomáš",
+          "Bassfeld Doerthe",
+          "Grob Philipp"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Multicenter Study",
+          "Clinical Trial, Phase IV",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Metronidazole",
+          "Vaginosis, Bacterial",
+          "Adult",
+          "Dequalinium",
+          "Treatment Outcome",
+          "Double-Blind Method",
+          "Middle Aged",
+          "Administration, Intravaginal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38696172/"
+      },
+      {
+        "pmid": "31499057",
+        "title": "Bacterial vaginosis and surgical site infections.",
+        "abstract": "Bacterial vaginosis is the most common cause of abnormal vaginal discharge or malodor, affecting up to one third of US women. Most women with bacterial vaginosis are unaware of the infection, making it difficult to diagnose in the absence of a microscopic examination of vaginal discharge or using point-of-care testing. Untreated bacterial vaginosis elevates the risk of postoperative surgical infections in women undergoing obstetric and gynecological procedures. Treatment with antimicrobial agents that target bacterial vaginosis has been shown to reduce the rate of postoperative infections following hysterectomy and surgical abortions. Furthermore, in a cost-comparison model, screening for and treatment of bacterial vaginosis prior to hysterectomy was shown to be superior to no screening in terms of infection rates and cost. The bacterial vaginosis diagnostic criteria are simple and screening tests are inexpensive; bacterial vaginosis screening is a relatively fast process in patients w",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "2020",
+        "authors": [
+          "Soper David E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications, Infectious",
+          "Premedication",
+          "Preoperative Care",
+          "Surgical Wound Infection",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31499057/"
+      },
+      {
+        "pmid": "30525953",
+        "title": "Evidence-based mixture containing Lactobacillus strains and lactoferrin to prevent recurrent bacterial vaginosis: a double blind, placebo controlled, randomised clinical trial.",
+        "abstract": "Bacterial vaginosis (BV) is the most common cause of vaginal discomfort in women. It is characterised by abnormal vaginal microbiota with a depletion of lactobacilli and predominance of anaerobic microorganisms, mainly Gardnerella vaginalis and Atopobium vaginae. Although antibiotics represent an effective therapeutic option in the short-term, recurrent infections still remain a serious problem. Nowadays, evidence exists about the efficacy of probiotics for the management of BV. The aim of the current double blind, randomised clinical trial was to assess the efficacy of a probiotic mixture, including Lactobacillus acidophilus GLA-14 and Lactobacillus rhamnosus HN001, in combination with bovine lactoferrin, as adjuvant therapy to metronidazole in women with recurrent BV. In particular, normalisation of Nugent score, remission of symptoms and recurrences during a six-months follow-up were assessed. 48 adult women received metronidazole (500 mg twice daily) for 7 days and randomly assigne",
+        "journal": "Beneficial microbes",
+        "year": "2019",
+        "authors": [
+          "Russo R",
+          "Karadja E",
+          "De Seta F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Combined Modality Therapy",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Lactobacillus",
+          "Lactoferrin",
+          "Metronidazole",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30525953/"
+      },
+      {
+        "pmid": "37575226",
+        "title": "Orally administrated Lactobacillus gasseri TM13 and Lactobacillus crispatus LG55 can restore the vaginal health of patients recovering from bacterial vaginosis.",
+        "abstract": "Bacterial vaginosis (BV) is a common infection of the lower genital tract with a vaginal microbiome dysbiosis caused by decreasing of lactobacilli. Previous studies suggested that supplementation with live Lactobacillus may benefit the recovery of BV, however, the outcomes vary in people from different regions. Herein, we aim to evaluate the effectiveness of oral Chinese-origin Lactobacillus with adjuvant metronidazole (MET) on treating Chinese BV patients. In total, 67 Chinese women with BV were enrolled in this parallel controlled trial and randomly assigned to two study groups: a control group treated with MET vaginal suppositories for 7 days and a probiotic group treated with oral Lactobacillus gasseri TM13 and Lactobacillus crispatus LG55 as an adjuvant to MET for 30 days. By comparing the participants with Nugent Scores ≥ 7 and < 7 on days 14, 30, and 90, we found that oral administration of probiotics did not improve BV cure rates (72.73% and 84.00% at day 14, 57.14% and 60.00% ",
+        "journal": "Frontiers in immunology",
+        "year": "2023",
+        "authors": [
+          "Qi Fengyuan",
+          "Fan Shangrong",
+          "Fang Chao",
+          "Ge Lan",
+          "Lyu Jinli"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Adjuvants, Immunologic",
+          "Adjuvants, Pharmaceutic",
+          "Lactobacillus",
+          "Lactobacillus crispatus",
+          "Lactobacillus gasseri",
+          "Metronidazole",
+          "Treatment Outcome",
+          "Vagina"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37575226/"
+      },
+      {
+        "pmid": "35246717",
+        "title": "Astodrimer sodium and bacterial vaginosis: a mini review.",
+        "abstract": "Bacterial vaginosis (BV) is the most common vaginal infection affecting women of childbearing age, and is associated with a substantial burden on women's physical, emotional, sexual and social lives, as well as being linked to a number of gynaecological and obstetrical complications and adverse pregnancy outcomes. Antibiotics, such as metronidazole or clindamycin, are recommended as first-line treatment for BV, but may be associated with antibiotic resistance, high rates of recurrence and poor patient treatment satisfaction. Astodrimer sodium gel is a novel, non-antibiotic treatment for BV that is not systemically absorbed. It prevents pathogenic bacteria from adhering to the vaginal wall, and disrupts and inhibits the formation of pathogenic bacterial biofilms. Clinical cure rates of 50-57% were observed in patients with BV treated with astodrimer sodium compared with 17-21% treated with placebo (p < 0.001) in Phase 3 trials. In a separate Phase 3 trial, recurrence of BV occurred in 4",
+        "journal": "Archives of gynecology and obstetrics",
+        "year": "2022",
+        "authors": [
+          "Mendling Werner",
+          "Holzgreve Wolfgang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacteria",
+          "Clindamycin",
+          "Dendrimers",
+          "Female",
+          "Humans",
+          "Metronidazole",
+          "Polylysine",
+          "Pregnancy",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35246717/"
+      },
+      {
+        "pmid": "32687973",
+        "title": "Bacterial vaginosis: Standard treatments and alternative strategies.",
+        "abstract": "Bacterial vaginosis (BV) affects many women and has a high influence on their self-esteem, being associated with huge discomfort and changes in the routines, especially the sexual life. International guidelines recommend the administration of metronidazole, clindamycin or tinidazole orally or intravaginally as the standard treatment. However, the treatment with these antibiotics is associated with high levels of failure and recurrence rates. These may be associated with antibiotic resistance, the inability to eradicate the polymicrobial biofilms, and failure to reestablish acidic pH and the lactobacillus-dominated commensal flora. Therefore, it is emergent to study alternative strategies to replace or to be combined with standard therapies in order to prevent and treat BV more efficiently. Alternative strategies may include antimicrobial substances (other antimicrobials, antiseptics and natural compounds) or substances that aim to reestablish the physiologic vaginal environment (probio",
+        "journal": "International journal of pharmaceutics",
+        "year": "2020",
+        "authors": [
+          "Tomás Mariana",
+          "Palmeira-de-Oliveira Ana",
+          "Simões Sérgio",
+          "Martinez-de-Oliveira José",
+          "Palmeira-de-Oliveira Rita"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Clindamycin",
+          "Female",
+          "Humans",
+          "Lactobacillus",
+          "Metronidazole",
+          "Probiotics",
+          "Vagina",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32687973/"
+      },
+      {
+        "pmid": "2694618",
+        "title": "Bacterial vaginosis.",
+        "abstract": "Bacterial vaginosis is a common, non-inflammatory infection of the vagina. It is characterised by the presence of a thin, homogenous, greyish-white discharge. The differential diagnosis includes infection with Trichomonas vaginalis and Candida albicans. A diagnosis of bacterial vaginosis may be made by the detection of three of the following: characteristic discharge, pH of 5 or greater, clue cells and a positive KOH amine test. Culture of vaginal discharge is not necessary to effect a diagnosis. Bacterial vaginosis responds readily to treatment with metronidazole at a dosage of 400 mg twice daily for seven days, although a proportion of patients suffer a recurrence of symptoms. Treatment of sexual partners may be necessary in such cases. Bacterial vaginosis results from the synergistic interaction of Gardnerella vaginalis and obligate anaerobes, including Bacteroides and Mobiluncus species. The pathogenesis, laboratory diagnosis, treatment, and the mechanisms by which these organisms ",
+        "journal": "The West Indian medical journal",
+        "year": "1989",
+        "authors": [
+          "Levett P N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Bacterial Infections",
+          "Diagnosis, Differential",
+          "Female",
+          "Humans",
+          "Metronidazole",
+          "Recurrence",
+          "Vaginal Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2694618/"
+      },
+      {
+        "pmid": "31403349",
+        "title": "Characterization and Treatment of Recurrent Bacterial Vaginosis.",
+        "abstract": "Bacterial vaginosis (BV) is a common but treatable condition, with a number of effective available treatments, including oral and intravaginal metronidazole and clindamycin and oral tinidazole. However, as many as 50% of women with BV experience recurrence within 1 year of treatment for incident disease. Some reasons for recurrence include the persistence of residual infection, resistance, and possibly reinfection from either male or female partners. Persistence may occur due to the formation of a biofilm that protects BV-causing bacteria from antimicrobial therapy. Poor adherence to treatment among patients with genitourinary infections may lead to resistance. However, the underlying mechanisms of recurrent etiology of BV are not known. Recommended treatment for recurrent BV consists of an extended course of metronidazole treatment (500 mg twice daily for 10-14 days); if ineffective, metronidazole vaginal gel 0.75% for 10 days, followed by two times per week for 3-6 months, is an alte",
+        "journal": "Journal of women's health (2002)",
+        "year": "2019",
+        "authors": [
+          "Faught Brooke M",
+          "Reyes Sonia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Antiprotozoal Agents",
+          "Clindamycin",
+          "Female",
+          "Humans",
+          "Metronidazole",
+          "Recurrence",
+          "Treatment Outcome",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31403349/"
+      },
+      {
+        "pmid": "33383580",
+        "title": "Treatment of Male Sexual Partners of Women With Bacterial Vaginosis: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+        "abstract": "We aimed to determine if treatment of male sexual partners of women with recurrent bacterial vaginosis (BV) with oral metronidazole 2×/day for 7 days (ie, multidose metronidazole) significantly decreased BV recurrence rates in the female.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2021",
+        "authors": [
+          "Schwebke Jane R",
+          "Lensing Shelly Y",
+          "Lee Jeannette",
+          "Muzny Christina A",
+          "Pontius Angela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Metronidazole",
+          "Sexual Partners",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33383580/"
+      },
+      {
+        "pmid": "37379861",
+        "title": "Persistent Bacterial Vaginosis and Risk for Spontaneous Preterm Birth.",
+        "abstract": "The aim of this study was to determine the association between persistent bacterial vaginosis (BV) in pregnancy and risk for spontaneous preterm birth (sPTB).",
+        "journal": "American journal of perinatology",
+        "year": "2024",
+        "authors": [
+          "Blumenfeld Yair J",
+          "Marić Ivana",
+          "Stevenson David K",
+          "Gibbs Ronald S",
+          "Shaw Gary M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Vaginosis, Bacterial",
+          "Pregnancy",
+          "Premature Birth",
+          "Retrospective Studies",
+          "Adult",
+          "Metronidazole",
+          "Adolescent",
+          "Clindamycin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37379861/"
+      },
+      {
+        "pmid": "24579850",
+        "title": "Treatment of bacterial vaginosis: what we have and what we miss.",
+        "abstract": "The disturbing, foul-smelling discharge of bacterial vaginosis (BV) is a nuisance to women. Treatment possibilities for BV are limited and only achieve complete cure in 65 to 85% of cases. In most women, the condition relapses within weeks to months after treatment.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2014",
+        "authors": [
+          "Donders Gilbert G G",
+          "Zodzika Jana",
+          "Rezeberga Dace"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents, Local",
+          "Clindamycin",
+          "Coinfection",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Metronidazole",
+          "Prebiotics",
+          "Probiotics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24579850/"
+      },
+      {
+        "pmid": "27793493",
+        "title": "[Bacterial vaginosis and spontaneous preterm birth].",
+        "abstract": "To determine if bacterial vaginosis is a marker for risk of spontaneous preterm delivery and if its detection and treatment can reduce this risk.",
+        "journal": "Journal de gynecologie, obstetrique et biologie de la reproduction",
+        "year": "2016",
+        "authors": [
+          "Brabant G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications, Infectious",
+          "Premature Birth",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27793493/"
+      },
+      {
+        "pmid": "34560047",
+        "title": "Recurrent bacterial vaginosis following metronidazole treatment is associated with microbiota richness at diagnosis.",
+        "abstract": "Bacterial vaginosis-a condition defined by a shift from Lactobacillus dominance to a polymicrobial, anaerobic bacterial community-increases the risk of acquiring sexually transmitted infections and other complications of the female reproductive tract. Antibiotic treatment frequently fails to return the microbiome to an optimal Lactobacillus-dominated state. No criteria currently exist to identify the patients likely to experience treatment failure.",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "2022",
+        "authors": [
+          "Gustin Andrew T",
+          "Thurman Andrea R",
+          "Chandra Neelima",
+          "Schifanella Luca",
+          "Alcaide Maria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Female",
+          "Humans",
+          "Lactobacillus",
+          "Longitudinal Studies",
+          "Metronidazole",
+          "Microbiota",
+          "Recurrence",
+          "Treatment Failure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34560047/"
+      },
+      {
+        "pmid": "17173220",
+        "title": "Bacterial vaginosis: resistance, recurrence, and/or reinfection?",
+        "abstract": "",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2007",
+        "authors": [
+          "Eschenbach David A"
+        ],
+        "pub_types": [
+          "Comment",
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacteria",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Humans",
+          "Metronidazole",
+          "Recurrence",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17173220/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:36:37.360430",
+  "success": true,
+  "error_message": null
+}

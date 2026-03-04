@@ -1,0 +1,325 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Betamethasone",
+    "disease": "erythema multiforme"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00820950",
+      "title": "A Double-Blind, Vehicle-Controlled, Rising Dose, Safety, Tolerability, Pharmacokinetic and Preliminary Efficacy Study of Ruxolitinib Phosphate Cream When Applied to Patients With Plaque Psoriasis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-05-31",
+      "completion_date": "2009-04-30",
+      "country": "United States",
+      "enrollment": 29,
+      "brief_summary": "The study is comprised of two parts. The first portion of this study will be a double-blind, Sponsor-unblinded, vehicle-controlled study with application of ruxolitinib or vehicle to paired lesions at least 15 cm apart in patients with active but stable plaque psoriasis. Part 2 of the study is a double-blind, sponsor unblinded, comparison of ruxolitinib with two FDA approved products in patients with active but stable plaque psoriasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Body Mass Index (BMI) of 17 to 40 kg/m2\n* Subjects must have two comparable psoriatic lesions measuring between 9 and 100 cm2 and these target lesions must be similar in size to each other, and separated by at least 15 cm.\n\nExclusion Criteria:\n\n* Subjects with lesions solely i",
+      "endpoints": [
+        "Change in Target Lesion Individual Component Scores for Erythema, Scaling and Thickness Compared to Baseline",
+        "Change in Target Lesion TOTAL Score (Sum of Erythema + Scaling + Thickness) Compared to Baseline",
+        "Number of Participants With Treatment Emergent Adverse Events"
+      ],
+      "sponsor": "Incyte Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT00820950"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03331523",
+      "title": "A Phase III, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multiple-Site Study to Evaluate the Therapeutic Equivalence of a Generic Calcipotriene and Betamethasone Dipropionate Topical Suspension, 0.005%/0.064% (Glenmark Pharmaceuticals Ltd) to the Marketed Product Taclonex® Topical Suspension (LEO Pharma Inc.) in the Treatment of Scalp Psoriasis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-10-20",
+      "completion_date": "2018-10-25",
+      "country": "United States",
+      "enrollment": 643,
+      "brief_summary": "This is a phase III, randomized, double-blind, placebo-controlled, parallel- group, multiple-site study to evaluate the therapeutic equivalence of generic calcipotriene and betamethasone dipropionate topical suspension, 0.005%/0.064% of Glenmark Pharmaceuticals Ltd to that of the marketed product Taclonex® topical suspension of Leo Pharma Inc. in the treatment of scalp psoriasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or non-pregnant, non-lactating female subjects aged at least 18 years at Visit 1.\n2. A clinical diagnosis of stable (at least 6 months) scalp psoriasis involving at least 10% of the scalp and clinical signs of psoriasis vulgaris on trunk and/or limbs.\n3. A PGA of disease",
+      "endpoints": [
+        "Proportion of subjects in each treatment group with treatment success, defined as a score of 0 or 1, within the treatment area(s) on the PGA scale of disease severity, at the end of study visit.",
+        "Proportion of subjects in each treatment group with clinical success, defined as a score of 0 or 1, at the target lesion site on the PASI scale at the end of study visit."
+      ],
+      "sponsor": "Glenmark Pharmaceuticals Ltd. India",
+      "url": "https://clinicaltrials.gov/study/NCT03331523"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02319616",
+      "title": "A Randomized Placebo Controlled Split-body Double-blind Phase II Clinical Trial to Investigate the Safety and Efficacy of Clobetasol 0.05% Ointment for the Treatment of Toxic Epidermal Necrolysis (TEN)",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2016-11",
+      "completion_date": "2019-02-06",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The primary objectives of this study are to investigate the efficacy and safety of topical steroid ointment (clobetasol 0.05%) for the treatment of the cutaneous manifestations of toxic epidermal necrolysis (TEN).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Characteristic histological findings on diagnostic biopsy\n* Clinical diagnosis verified by two independent physicians\n* Greater than 10% affected body surface area (BSA)\n* Ability to start treatment within seven days or less from the onset of erosions\n* Actively worsening dise",
+      "endpoints": [
+        "Safety (numeric cellulitis score)",
+        "Time to Cessation of Skin Detachment"
+      ],
+      "sponsor": "University of California, Davis",
+      "url": "https://clinicaltrials.gov/study/NCT02319616"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00470392",
+      "title": "Mechanistically-based Optimization of UV Radiation Therapy in Psoriasis",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2007-05",
+      "completion_date": "2012-07",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "The purpose of this study is 1) to determine whether Imiquimod or Steroid pretreatment modifies UVB laser light response resulting in increased cell death compared to UVB laser light alone; 2) to determine if pretreatment of psoriatic lesions with Imiquimod or Steroid prior to UVB laser light exposure selectively effects various T cell functions; 3) to determine clinical results from the Imiquimod/Steroid/UVB laser light and correlate those changes with immuno-histochemical changes in the skin; ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The presence of plaque-type psoriasis in areas of the trunk, buttocks, or extremities that are amenable to biopsy and evaluable disease in at least 2 cm target treatment sites separated by 1 cm\n* Age 18-80, both genders, all ethnicities\n* No contraindications to phototherapy o",
+      "endpoints": [
+        "Number of Subjects With Elevated MyxA"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT00470392"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03731091",
+      "title": "A Phase III, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multiple-Site Study to Evaluate the Therapeutic Equivalence of a Generic Calcipotriene and Betamethasone Dipropionate Topical Foam, 0.005%/0.064% (Glenmark Pharmaceuticals Ltd) to the Marketed Product Enstilar® Foam (LEO Pharma Inc.) in the Treatment of Psoriasis Vulgaris (Plaque Psoriasis)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-10-31",
+      "completion_date": "2020-03-17",
+      "country": "United States",
+      "enrollment": 494,
+      "brief_summary": "A Phase III, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multiple-Site Study to Evaluate the Therapeutic Equivalence of a Generic Calcipotriene and Betamethasone Dipropionate Topical Foam, 0.005%/0.064% (Glenmark Pharmaceuticals Ltd) to the Marketed Product Enstilar® Foam (LEO Pharma Inc.) in the Treatment of Psoriasis Vulgaris (Plaque Psoriasis)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or non-pregnant, non-lactating female subjects aged at least 18 years at Visit 1.\n2. A clinical diagnosis of stable (at least 6 months) psoriasis vulgaris involving 5% to 30% body surface area (BSA), not including the face, axilla and groin.\n3. A PGA of disease severity ",
+      "endpoints": [
+        "The proportion of subjects in each treatment group with treatment success",
+        "The proportion of subjects in each treatment group with clinical success"
+      ],
+      "sponsor": "Glenmark Pharmaceuticals Ltd. India",
+      "url": "https://clinicaltrials.gov/study/NCT03731091"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05185258",
+      "title": "An Investigator-Initiated, Phase 4, Open-Label, Single-Arm, Single-Center Study Investigating the Residual Disease Memory in Psoriasis Skin During Enstilar® and Narrow-Band Ultraviolet B Therapy: The Mempsolar Study",
+      "phase": "PHASE4",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-02-16",
+      "completion_date": "2026-07-15",
+      "country": "Denmark",
+      "enrollment": 12,
+      "brief_summary": "Psoriasis is a non-communicable chronic immune-mediated disease. Psoriatic skin is characterized by excessive proliferation of skin cells and infiltration of immune cells. The cause of psoriasis is so far unknown.\n\nEstablished therapeutics include topical, oral-systemic, biologic, narrow-band ultraviolet B (NB-UVB). A persistent antipsoriatic effect by the newest biologic therapies has been demonstrated after treatment discontinuation. However, the remittive hallmark of psoriasis suggests the ex",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAge:\n\n1. Women or men with chronic stable plaque psoriasis aged 18 years or older at the time of consent. Consent must be obtained prior to any study-related procedures. The participants must furthermore be willing to participate and must be of a condition capable of giving info",
+      "endpoints": [
+        "Evaluate the efficacy of Enstilar® foam in combination with NB-UVB in changing the TRM-cell number in the skin.",
+        "Evaluate the efficacy of Enstilar® foam in combination with NB-UVB in changing the TRM-cell microenvironment in the skin."
+      ],
+      "sponsor": "Aarhus University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05185258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01422434",
+      "title": "Efficacy and Safety of LEO 90105 Ointment (Calcipotriol Hydrate Plus Betamethasone Dipropionate) in Japanese Subjects With Psoriasis Vulgaris",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-07",
+      "completion_date": "2012-04",
+      "country": "Japan",
+      "enrollment": 676,
+      "brief_summary": "The purpose of this study is to compare the efficacy of LEO 90105 ointment applied once daily with Dovonex® ointment applied twice daily and with Rinderon®-DP ointment applied once daily in Japanese subjects with psoriasis vulgaris.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects having understood and signed a written informed consent form prior to any study related procedures being carried out.\n* Japanese subjects.\n* 20 years of age or above.\n* Either sex.\n* Clinical diagnosis of psoriasis vulgaris amenable to topical treatment, involving arm",
+      "endpoints": [
+        "Change From Baseline in Modified Psoriasis Area and Severity Index (mPASI)"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT01422434"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03880357",
+      "title": "Multi-center, Double-blind, Randomized, Placebo Controlled, Parallel-group Study Comparing Taro Product to RLD and Both Active Treatments to a Placebo Control in the Treatment of Scalp Psoriasis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-10-22",
+      "completion_date": "2019-03-15",
+      "country": "United States",
+      "enrollment": 485,
+      "brief_summary": "To demonstrate the superiority of the efficacy of the test and reference products over that of the placebo control in the treatment of scalp psoriasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male or non-pregnant female aged ≥18 years\n* All male subjects had to agree to use accepted methods of birth control with their partners, from the day of the first application of the study drug to 30 days after the last application of the study drug\n* Willing and able ",
+      "endpoints": [
+        "treatment success on the Physician's Global Assessment (PGA) of disease severity",
+        "clinical success on the Physician's Global Assessment (PASI) of disease severity"
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03880357"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00358384",
+      "title": "A Study to Investigate the Irritation Potential on Healthy Intact Skin and Effect on Psoriatic Skin of Topical Applications of GW786034",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2005-09-26",
+      "completion_date": "2006-02-24",
+      "country": "France",
+      "enrollment": 10,
+      "brief_summary": "This study is an exploratory study to evaluate the effectiveness, safety and tolerability of three concentrations of GW786034 ointment following treatment to small areas of stable psoriatic plaques. Dosing will proceed using a microplaque approach, where small volumes of ointment will be applied under full occlusion to representative psoriatic plaques. The effectiveness of topical GW786034 treatments and controls will be explored using visual intensity assessments in addition to dermal imaging a",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Stable (2-3 months) chronic plaque psoriasis covering greater than 5% body surface area (as determined by PASI palm method).\n* Other than having chronic plaque psoriasis, subject is health and ambulatory.\n* Women will be eligible to enter the study if they are of non-child-bea",
+      "endpoints": [
+        "Visual assessment and clinical scoring of lesion treatment areas using modified Psoriasis Area Scoring Index (PASI) target lesion assessment scale Clinical lab tests vital signs adverse events clinical monitoring/observation"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00358384"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00852761",
+      "title": "A Study to Evaluate Safety and Efficacy of Clobetasol Propionate for Treatment of Plaque-Type Psoriasis in Adult Subjects.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2009-08",
+      "country": "United States",
+      "enrollment": 34,
+      "brief_summary": "The purpose of the study is to determine the efficacy and safety of two different forms of a topical steroid (clobetasol propionate) in patients with plaque-type psoriasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Body surface area (BSA) affected with psoriasis between 4% and 20% .\n* Target lesion of at least 2 cm² on the elbow and/or knee, with a score of 2 or 3 on the Psoriasis Grading Scale for Target Lesion.\n* Elbow and/or knee plaque-type psoriasis with a Psoriasis Global Assessmen",
+      "endpoints": [
+        "At Least a One Grade Improvement for the Target Psoriasis Lesion on the Elbow or Knee (Psoriasis Grading Scale)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00852761"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03806790",
+      "title": "Efficacy and Safety of LEO 90100 Foam in Japanese Subjects With Psoriasis Vulgaris",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-01-24",
+      "completion_date": "2019-06-10",
+      "country": "Japan",
+      "enrollment": 182,
+      "brief_summary": "Comparison of the efficacy of LEO 90100 foam with Dovobet® ointment in the treatment of psoriasis in Japanese subjects.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Signed and dated informed consent obtained\n2. Japanese subjects\n3. Aged 20 years or above\n4. Clinical diagnosis of psoriasis vulgaris amenable to topical treatment of less than or equal to 30% BSA (excluding psoriasis on the face/genitals/skin folds).\n5. A target psoriasi",
+      "endpoints": [
+        "Overall Improvement Rate for the Target Lesion"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT03806790"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03848871",
+      "title": "The Effect of Enstilar Versus Vehicle on Target Lesions in Moderate Plaque Type Psoriasis Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-12-12",
+      "completion_date": "2018-12-10",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This study seeks to show whether there is a benefit of prescribing Enstilar in the treatment of patients with moderate plaque type psoriasis. Subjects will receive study treatment of Enstilar foam.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Outpatient, male or female subjects of any race, 18 years of age or higher. Female subjects of childbearing potential must have a (-) urine pregnancy test (UPT) result within 7 days of the first dose of study drug and practice a reliable method of contraception throughout the",
+      "endpoints": [
+        "Change in Physicians Global Assessment (PGA) From Baseline to Week 2 and Week 4"
+      ],
+      "sponsor": "Derm Research, PLLC",
+      "url": "https://clinicaltrials.gov/study/NCT03848871"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02668692",
+      "title": "Efficacy and Safety of LEO 80185 Gel (Calcipotriol Hydrate Plus Betamethasone Dipropionate) in Japanese Subjects With Psoriasis Vulgaris",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-02",
+      "completion_date": "2016-06",
+      "country": "Japan",
+      "enrollment": 213,
+      "brief_summary": "To compare the efficacy and safety of LEO 80185 gel with Dovobet® ointment in the treatment of psoriasis in Japanese subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Informed consent has been obtained.\n* 2\\. Japanese subjects\n* 3\\. Aged 20 years or above\n* 4\\. Clinical diagnosis of psoriasis vulgaris amenable to topical treatment of less than or equal to 30% BSA\n* 5\\. A target psoriasis lesion on the scalp and on the non-scalp area of ",
+      "endpoints": [
+        "Number of Subjects With 'Overall Improvement' for the Target Lesion on the Scalp"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02668692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03395132",
+      "title": "Efficacy and Safety of Fucicort® Lipid Cream Compared to Combination Treatment With Fucidin® Cream Followed by Betamethasone (Lianbang Beisong®) Cream and Fucicort® Lipid Cream Vehicle in Clinically Infected Atopic Dermatitis/Eczema",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2018-07-31",
+      "completion_date": "2019-05-09",
+      "country": "China",
+      "enrollment": 68,
+      "brief_summary": "The trial is designed to compare the efficacy and safety of Fucicort® Lipid cream with the combination treatment of Fucidin® cream followed by betamethasone (Lianbang Beisong®) cream, or Fucicort® Lipid cream vehicle, when applied twice daily for two weeks. The trial is designed to demonstrate that treatment with Fucicort® Lipid cream is not inferior to the combination treatment with the mono component drugs, Fucidin® cream followed by betamethasone (Lianbang Beisong®) cream and that treatment w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of AD/eczema as defined by Williams's criteria with clinical signs of infected AD/eczema on trunk and/or extremities such as fluid drainage, blistered skin, white or yellow pus, severe itchiness and new burning sensation\n* A minimum score of 1 for each of the signs i",
+      "endpoints": [
+        "The percentage change in modified Eczema Area and Severity Index (m-EASI) on trunk and extremities at Day 15"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT03395132"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00842153",
+      "title": "A Study to Evaluate the Efficacy and Tolerability of Clobetasol Propionate vs. Vehicle in the Treatment of Mild to Moderate Plaque-Type Psoriasis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2008-01",
+      "country": "United States",
+      "enrollment": 58,
+      "brief_summary": "The purpose of the study is to compare the efficacy and safety of Clobetasol propionate to that of its Vehicle in the treatment of mild to moderate plaque-type psoriasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient, male or female of any race, and at least 12 years of age. Female subjects of childbearing potential must have a negative urine pregnancy test result at baseline and practice a reliable method of contraception throughout the study.\n* Mild to moderate, plaque-type ps",
+      "endpoints": [
+        "Number of Participants With a Target Lesion Global Improvement (TLGI) Score of 0, 1, or 2 at Weeks 1, 2, and 4"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00842153"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05706870",
+      "title": "A Multicenter Randomized Double-blind Placebo-controlled Parallel Group Phase II Study Evaluating the Clinical Efficacy and Safety of GN-037 Cream Used in the Treatment of Mild to Moderate Plaque Psoriasis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2022-12-07",
+      "completion_date": "2024-03-03",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 190,
+      "brief_summary": "This Phase II study was designed as a multicenter, randomized, double-blind, placebo-controlled and 3-parallel arm, to assess clinical efficacy, safety, and tolerability of GN-037 versus clobetasol 17-propionate and placebo in patients diagnosed with mild to moderate plaque psoriasis at least 6 months ago",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female patients between the ages of 18-65\n2. Patients who can give their written informed consent prior to initiating any evaluation or procedure related to the study.\n3. Patients with negative SARS-CoV-2 PCR test result\n4. Patients who were diagnosed with mild or mo",
+      "endpoints": [
+        "Improvement in Investigator Global Assessment (IGA) score evaluated at weeks 2, 4, 6 and 8 in each arm."
+      ],
+      "sponsor": "GEN İlaç ve Sağlık Ürünleri A.Ş.",
+      "url": "https://clinicaltrials.gov/study/NCT05706870"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00248456",
+      "title": "A Randomised, Double-blind, Active-controlled, Parallel, Multi-center Study to Investigate the Efficacy and Safety of Daivobet® Ointment in Patients With Psoriasis Vulgaris",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2006-02",
+      "country": "China",
+      "enrollment": 320,
+      "brief_summary": "This study will evaluate the efficacy and safety of calcipotriol plus betamethasone dipropionate ointment compared with calcipotriol ointment in the treatment of patients with psoriasis vulgaris for a duration of 4 weeks. The study will focus on the percentage change of the psoriasis area and severity index (PASI) from baseline to the end of week 4.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of psoriasis vulgaris in a stable condition\n* Extent of at least 10% of one or more body regions\n* Amenable to topical therapy with maximum of 100 g/week of investigational product\n\nExclusion Criteria:\n\n* Patients with more than 30% of body surface area invo",
+      "endpoints": [
+        "The percentage change of PASI at the end of week 4 compared with baseline"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00248456"
+    }
+  ],
+  "timestamp": "2026-03-04T13:10:34.712688",
+  "success": true,
+  "error_message": null
+}

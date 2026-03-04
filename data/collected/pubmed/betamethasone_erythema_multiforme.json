@@ -1,0 +1,580 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Betamethasone",
+    "disease": "erythema multiforme",
+    "query_string": "Betamethasone AND erythema multiforme"
+  },
+  "data": {
+    "query": "Betamethasone AND erythema multiforme",
+    "results": [
+      {
+        "pmid": "32105227",
+        "title": "Erythema multiforme induced by fluconazole in an immunocompetent patient: a case report and review of the literature.",
+        "abstract": "Erythema multiforme (EM) is an acute hypersensitivity reaction that affects the skin and/or mucosa. EM induced by fluconazole is extremely rare, with only 2 previously published case reports. The aims of this article are to report a rare case of severe EM induced by fluconazole in an immunocompetent patient and to review all similar published cases. A 35-year-old man presented with multiple painful superficial ulcerated lesions on the lips, superficial ulcers on the right and left ocular mucosa, and erythematous macules on the right cervical region. Moreover, multiple painful superficial ulcers covered by a serofibrinous pseudomembrane were located on the oral mucosa. The lesions appeared after the initial oral use of fluconazole (100 mg) 3 weeks previously for the treatment of onychomycosis. The clinical diagnosis was EM associated with fluconazole. The antifungal medication was discontinued, and a single dose of intramuscular Diprospan (5 mg of betamethasone dipropionate/2 mg of beta",
+        "journal": "General dentistry",
+        "year": "2020",
+        "authors": [
+          "de Aquino da Silva Vanessa Silvestre",
+          "Freire Alice Engel Naves",
+          "Ribeiro Noé Vital",
+          "Sperandio Felipe Fornias",
+          "de Carli Marina Lara"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Erythema Multiforme",
+          "Fluconazole",
+          "Humans",
+          "Male",
+          "Mouth Mucosa",
+          "Ulcer",
+          "Wound Healing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32105227/"
+      },
+      {
+        "pmid": "31092494",
+        "title": "Erythema multiforme like reaction to santos rosewood (Machaerium scleroxylon) and Torreya nucifera.",
+        "abstract": "Erythema multiforme is a skin disorder characterised by target epithelial eruption, which is mainly caused by infection or drugs. In this case, we report an erythema multiforme like reaction caused by contact dermatitis against wood, especially santos rosewood. During the hospitalisation, we performed a patch test with lumber used in the patient's workplace, and recognised a positive response to multiple woods and a simultaneous recurring eruption (flare up) outside of the test site. The findings from this case of contact dermatitis caused by frequently used industrial wood type is important for the management of occupational environments. A review of the literature on erythema multiforme like reaction due to contact dermatitis, including past case reports, has also been provided.",
+        "journal": "BMJ case reports",
+        "year": "2019",
+        "authors": [
+          "Uchida Sayuri",
+          "Ogai Masaaki",
+          "Saito Kazuhito",
+          "Homma Yoichiro"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adult",
+          "Clobetasol",
+          "Dermatitis, Allergic Contact",
+          "Erythema Multiforme",
+          "Fabaceae",
+          "Humans",
+          "Male",
+          "Occupational Diseases",
+          "Patch Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31092494/"
+      },
+      {
+        "pmid": "36812283",
+        "title": "Ketoprofen-induced Photoallergic Reaction.",
+        "abstract": "Dear Editor, Photoallergic reactions are classic T-cell-mediated or delayed-type hypersensitivity reactions of the skin in response to a photoallergen (or a cross-reacting chemical) to which a subject was sensitized in the past (1). The immune system recognizes the changes caused by ultraviolet (UV) radiation; it produces antibodies and causes inflammation of the skin in the exposed areas (2). Common photoallergic drugs and ingredients are included in some sunscreens, aftershave lotions, antimicrobials (especially sulfonamides), non-steroidal anti-inflammatory drugs (NSAIDs), diuretics, anticonvulsants, chemotherapy drugs, fragrances, and other hygiene products (1,3,4). A 64-year-old female patient was admitted to the Department of Dermatology and Venereology with erythema and underlining edema on her left foot (Figure 1). A few weeks earlier, the patient had had a fracture of the metatarsal bones and since then she had been taking NSAIDs systemically every day to suppress pain. Five d",
+        "journal": "Acta dermatovenerologica Croatica : ADC",
+        "year": "2022",
+        "authors": [
+          "Rosan Tin",
+          "Ljubojević Hadžavdić Suzana"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Ketoprofen",
+          "Dermatitis, Photoallergic",
+          "Sunscreening Agents",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Ultraviolet Rays",
+          "Patch Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36812283/"
+      },
+      {
+        "pmid": "37854261",
+        "title": "Erythema multiforme provoked by radiotherapy.",
+        "abstract": "Radiation dermatitis is one of the most common adverse effects that occur in patients treated with radiation therapy. It is usually limited to the irradiated area. However, cases of generalized lesions have also been described in the literature. A rare but highly important cutaneous manifestation can be erythema multiforme-like lesions localized all over the patient's skin. A 63-year-old patient was admitted to the Department of Dermatology for disseminated erythematous lesions localized on the trunk and extremities. The patient denied taking any new medications or dietary supplements. However, he was undergoing radiotherapy treatment. On admission, the patient was in good general condition. During the stay in the department, the patient was treated orally as well as intravenously with corticosteroids, acyclovir, and a topical ointment consisting of gentamicin and betamethasone, as well as hydrocortisone and cooling ointment. After 1 month, a significant improvement in the patient's sk",
+        "journal": "Clinical case reports",
+        "year": "2023",
+        "authors": [
+          "Machoń Natalia Joanna",
+          "Lewandowska Julia Alicja",
+          "Chojnacka-Purpurowicz Joanna",
+          "Owczarczyk-Saczonek Agnieszka"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37854261/"
+      },
+      {
+        "pmid": "4594137",
+        "title": "Erythema multiforme exudativum: recurrent oral lesions. Review of the literature and a case history.",
+        "abstract": "",
+        "journal": "Journal of dentistry",
+        "year": "1973",
+        "authors": [
+          "Smith R G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Betamethasone",
+          "Biopsy",
+          "Erythema Multiforme",
+          "Histiocytes",
+          "Humans",
+          "Lymphocytes",
+          "Male",
+          "Oral Manifestations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4594137/"
+      },
+      {
+        "pmid": "14206262",
+        "title": "ERYTHEMA MULTIFORME OCCURRING DURING TREATMENT OF PRURITUS VULVAE AND NEURODERMATITIS WITH BETAMETHASONE.",
+        "abstract": "",
+        "journal": "The British journal of clinical practice",
+        "year": "1964",
+        "authors": [
+          "FOX E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Betamethasone",
+          "Drug Eruptions",
+          "Erythema Multiforme",
+          "Female",
+          "Humans",
+          "Lupus Erythematosus, Discoid",
+          "Neurodermatitis",
+          "Prednisolone",
+          "Pruritus Vulvae",
+          "Toxicology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14206262/"
+      },
+      {
+        "pmid": "37182731",
+        "title": "Topical Betamethasone Treatment of Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis with Ocular Involvement in the Acute Phase.",
+        "abstract": "To clarify the importance of administering topical steroids for the treatment of Stevens-Johnson syndrome (SJS) / toxic epidermal necrolysis (TEN) with ocular involvement in the acute phase.",
+        "journal": "American journal of ophthalmology",
+        "year": "2023",
+        "authors": [
+          "Matsumoto Kaori",
+          "Ueta Mayumi",
+          "Inatomi Tsutomu",
+          "Fukuoka Hideki",
+          "Mieno Hiroki"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Betamethasone",
+          "Humans",
+          "Stevens-Johnson Syndrome",
+          "Administration, Topical",
+          "Retrospective Studies",
+          "Anti-Inflammatory Agents",
+          "Visual Acuity",
+          "Glucocorticoids",
+          "Pulse Therapy, Drug",
+          "Eye Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37182731/"
+      },
+      {
+        "pmid": "40500649",
+        "title": "Updates on the ocular manifestations and treatment of SJS/TEN.",
+        "abstract": "Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) are acute inflammatory disorders that affect the skin and mucous membranes, and in 40-84 % of SJS/TEN cases, the ocular complications that are often overlooked due to severe systemic symptoms. Specific ocular findings at the acute-phase include conjunctival hyperemia, pseudomembrane formation, and epithelial defects, and severe acute-phase ocular involvement strongly correlates with long-term visual impairment. Thus, it is vital to diagnose ocular involvement early at the acute stage and suppress inflammation on the ocular surface to protect corneal epithelial stem cells. As outlined in the official Japanese treatment guidelines for SJS/TEN cases with ocular involvement, corticosteroid pulse therapy and topical application of 0.1 % betamethasone eye-drops within four days of disease onset significantly reduces ocular sequelae. Early intervention with amniotic membrane transplantation helps reduce scarring and potential",
+        "journal": "Allergology international : official journal of the Japanese Society of Allergology",
+        "year": "2025",
+        "authors": [
+          "Sotozono Chie",
+          "Ueta Mayumi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Stevens-Johnson Syndrome",
+          "Eye Diseases",
+          "Disease Management"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40500649/"
+      },
+      {
+        "pmid": "38795750",
+        "title": "Improvement of the Ocular Prognosis of Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis: A National Survey in Japan.",
+        "abstract": "To investigate the incidence and prognostic factors of ocular sequelae in Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) cases arising between 2016 and 2018 in Japan, and compare the findings with those presented in the previous 2005-2007 survey.",
+        "journal": "American journal of ophthalmology",
+        "year": "2024",
+        "authors": [
+          "Kojima Miho",
+          "Mieno Hiroki",
+          "Ueta Mayumi",
+          "Nakata Mitsuko",
+          "Teramukai Satoshi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Stevens-Johnson Syndrome",
+          "Humans",
+          "Retrospective Studies",
+          "Japan",
+          "Male",
+          "Female",
+          "Incidence",
+          "Middle Aged",
+          "Prognosis",
+          "Glucocorticoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38795750/"
+      },
+      {
+        "pmid": "26021384",
+        "title": "Rowell's syndrome induced by terbinafine.",
+        "abstract": "Terbinafine, a systemic antifungal commonly prescribed for onychomycosis (fungal infection involving the nails) has been reported to cause various cutaneous adverse effects. We describe an overlap syndrome between cutaneous lupus and erythaema multiforme induced by this medication with a review of other reported cases.",
+        "journal": "BMJ case reports",
+        "year": "2015",
+        "authors": [
+          "Murad Aizuri",
+          "Shudell Emma",
+          "Mulligan Niall"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents",
+          "Antifungal Agents",
+          "Clobetasol",
+          "Dermatologic Agents",
+          "Diagnosis, Differential",
+          "Erythema Multiforme",
+          "Female",
+          "Humans",
+          "Lupus Erythematosus, Cutaneous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26021384/"
+      },
+      {
+        "pmid": "7918011",
+        "title": "Recurrent post-herpetic erythema multiforme mimicking polymorphic light and juvenile spring eruption: report of two cases in young boys.",
+        "abstract": "",
+        "journal": "The British journal of dermatology",
+        "year": "1994",
+        "authors": [
+          "Wolf P",
+          "Soyer H P",
+          "Fink-Puches R",
+          "Huff J C",
+          "Kerl H"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Betamethasone",
+          "Child",
+          "Diagnosis, Differential",
+          "Erythema Multiforme",
+          "Humans",
+          "Male",
+          "Photosensitivity Disorders",
+          "Recurrence",
+          "Stomatitis, Herpetic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7918011/"
+      },
+      {
+        "pmid": "1068978",
+        "title": "Corticosteroids in diseases of the oral mucosa.",
+        "abstract": "The introduction of corticosteroids into oral medicine heralded a therapeutic advance, and substantial benefits have occurred from their use. Three topical steroids are being used currently in oral diseases, i.e. hydrocortisone hemisuccinate, triamcinolone in Orabase 0-1 per cent and betamethasone valerate 0-1 mg. The efficacy of these agents can be increased markedly if they are administered during the prodromal phase of ulceration, i.e. when lymphocyte activity is at its maximum. Therapeutic doses of all of them can be exceeded three times without impairing adrenal function. Nevertheless some of these preparations, as exemplified by topical medication, induced an unfortunate acute pseudomembranous candidiasis without any alteration in the plasma cortisol level. The routine examination and treatment of ulcers in the mouth should be a careful exercise helped by a good light source and a tongue spatula. Oral lesions affecting the soft tissues may be often difficult to diagnose, because ",
+        "journal": "International dental journal",
+        "year": "1976",
+        "authors": [
+          "Kay L W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adrenal Cortex Hormones",
+          "Anti-Inflammatory Agents",
+          "Epidermolysis Bullosa",
+          "Erythema Multiforme",
+          "Herpes Simplex",
+          "Humans",
+          "Hydrocortisone",
+          "Lichen Planus",
+          "Lupus Erythematosus, Discoid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1068978/"
+      },
+      {
+        "pmid": "33914926",
+        "title": "A flare of pre-existing erythema multiforme following BNT162b2 (Pfizer-BioNTech) COVID-19 vaccine.",
+        "abstract": "",
+        "journal": "Clinical and experimental dermatology",
+        "year": "2021",
+        "authors": [
+          "Lavery M J",
+          "Nawimana S",
+          "Parslew R",
+          "Stewart L"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "BNT162 Vaccine",
+          "COVID-19",
+          "COVID-19 Vaccines",
+          "Clobetasol",
+          "Erythema Multiforme",
+          "Female",
+          "Glucocorticoids",
+          "Humans",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33914926/"
+      },
+      {
+        "pmid": "8245308",
+        "title": "A case of herpes-associated erythema multiforme in a Japanese child.",
+        "abstract": "A case of a five-year-old Japanese boy with herpes-associated erythema multiforme (HAEM) was reported. The patient had eleven recurrences of herpes labiaris within one year; four of these recurrences were accompanied by erythema multiforme. A study of the human leukocyte antigens revealed the presence of HLA-DQW3, which has been reported to be significantly frequent in Caucasian patients with HAEM. Oral administration of acyclovir at the onset of herpes labialis was effective in preventing HAEM. Early administration of oral steroids at the onset of HAEM also prevented its exacerbation.",
+        "journal": "The Journal of dermatology",
+        "year": "1993",
+        "authors": [
+          "Uemura T",
+          "Nagayama M",
+          "Kawashima M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Oral",
+          "Asian People",
+          "Betamethasone",
+          "Child, Preschool",
+          "Erythema Multiforme",
+          "HLA-DQ Antigens",
+          "Herpes Labialis",
+          "Humans",
+          "Japan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8245308/"
+      },
+      {
+        "pmid": "5858117",
+        "title": "Oro-genital aphthosis.",
+        "abstract": "",
+        "journal": "The British journal of venereal diseases",
+        "year": "1965",
+        "authors": [
+          "Masterton G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Betamethasone",
+          "Erythema Multiforme",
+          "Genital Diseases, Male",
+          "Humans",
+          "Hydrocortisone",
+          "Male",
+          "Skin Ulcer",
+          "Stomatitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5858117/"
+      },
+      {
+        "pmid": "38214494",
+        "title": "A case of anti-laminin γ1 (p200) pemphigoid developed after dipeptidyl peptidase-4 inhibitor administration.",
+        "abstract": "A 73-year-old man with diabetes mellitus was referred to our department for ultraviolet treatment for erythematous skin lesions with itching. On dipeptidyl peptidase-4 inhibitor (DPP-4i) sitagliptin (Januvia®) for diabetes mellitus, the erythematous skin lesions appeared and spread to the whole body. At the initial visit, erythema multiforme-like skin lesions with crusts were observed on the trunk and extremities, and the patient was suspected to have drug eruption. Histopathology demonstrated eosinophilic infiltration in the superficial dermis and inflammatory cell infiltration in the epidermis. Sitagliptin was discontinued, and erythematous lesions improved with oral prednisolone. Thereafter the patient was treated with phototherapy and  betamethasone sodium phosphate infusion for residual prurigo. However, blistering skin lesions appeared 5 months later. Histopathological findings were subepidermal blisters with eosinophilic abscess, and bullous pemphigoid was suspected. CLEIAs for ",
+        "journal": "The Journal of dermatology",
+        "year": "2024",
+        "authors": [
+          "Nakatani Kahori",
+          "Noborio Reiko",
+          "Nomura Yuki",
+          "Ueki Yoko",
+          "Kiyohara Takahiro"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Aged",
+          "Dipeptidyl-Peptidase IV Inhibitors",
+          "Pemphigoid, Bullous",
+          "Laminin",
+          "Autoantibodies",
+          "Sitagliptin Phosphate",
+          "Skin",
+          "Drug Eruptions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38214494/"
+      },
+      {
+        "pmid": "2099475",
+        "title": "[Polymorphic erythema (P.E.)].",
+        "abstract": "",
+        "journal": "Revista de la Asociacion Odontologica Argentina",
+        "year": "1990",
+        "authors": [
+          "Lama A",
+          "Policicchio J E",
+          "Chuchurru J",
+          "Rebok E"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Betamethasone",
+          "Erythema Multiforme",
+          "Female",
+          "Humans",
+          "Mouth Mucosa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2099475/"
+      },
+      {
+        "pmid": "26297574",
+        "title": "Topical clobetasol for the treatment of toxic epidermal necrolysis: study protocol for a randomized controlled trial.",
+        "abstract": "Toxic epidermal necrolysis (TEN) is a rare systemic allergic drug eruption with high patient mortality. Currently, no established treatments have been shown to be effective for TEN beyond supportive care. Prior studies of systemic corticosteroids have yielded conflicting data, with some showing a possible benefit and others reporting in increased mortality. However, topical steroids have shown promise for treatment of ocular sequelae of TEN, such as scarring and vision loss. We have designed a randomized controlled trial to evaluate topical clobetasol for treatment of the epidermal manifestations of TEN. In addition, we propose genetic studies to characterize the TEN transcriptome and alterations in cutaneous gene expression that might occur following topical steroid treatment.",
+        "journal": "Trials",
+        "year": "2015",
+        "authors": [
+          "Wilken Reason",
+          "Li Chin Shang",
+          "Sharon Victoria R",
+          "Kim Kyoungmi",
+          "Patel Falin B"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Biopsy",
+          "California",
+          "Child",
+          "Clinical Protocols",
+          "Clobetasol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26297574/"
+      },
+      {
+        "pmid": "2011350",
+        "title": "Open preliminary clinical trial of clobetasol propionate ointment in adhesive paste for treatment of chronic oral vesiculoerosive diseases.",
+        "abstract": "Clobetasol propionate (Temovate), a novel high-potency topical corticosteroid, was used in open trial from 1987 to 1988 on 24 patients with persistent oral vesiculoerosive disease of at least 1 month's duration. Fourteen women and 10 men, ranging in age from 27 to 76 years (mean 48 years), participated. Nine patients had erosive lichen planus, one had benign mucous membrane pemphigoid, three had pemphigus vulgaris, seven had persistent major recurrent aphthous stomatitis, and four had chronic oral erythema multiforme. Fifteen patients had complete remission of signs and symptoms, seven had excellent response of signs and complete remission of symptoms, and two failed to respond. All other topical therapy was suspended before and during the study. All patients responded to two or three applications daily of medication. Side effects were minor and reversible, and included localized candidiasis (three patients), stomatopyrosis (two), and hypogeusia (one). Clobetasol propionate ointment in",
+        "journal": "Oral surgery, oral medicine, and oral pathology",
+        "year": "1991",
+        "authors": [
+          "Lozada-Nur F",
+          "Huang M Z",
+          "Zhou G A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Clobetasol",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Lichen Planus",
+          "Male",
+          "Middle Aged",
+          "Mouth Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2011350/"
+      },
+      {
+        "pmid": "22082897",
+        "title": "Severe obliterative bronchitis associated with Stevens-Johnson syndrome.",
+        "abstract": "We report a case of Stevens-Johnson syndrome (SJS) in which the patient had been diagnosed with severe obliterative bronchitis. A 29-year-old woman was admitted with a high fever and a widespread vesicular rash. She was diagnosed with SJS and betamethasone administration was started. After one month, her vesicular skin rash improved; however, she developed respiratory failure and was assisted with mechanical ventilation. Computed tomography of the chest demonstrated a hyperlucent lung with narrowing of the peripheral vessels. Bronchoscopy revealed an occlusion of the bronchus when the patient exhaled. The flow-volume curve revealed a severe obstructive pattern. The patient was diagnosed with obliterative bronchitis following SJS. She was treated with a bronchodilator and steroids, but could not breathe adequately without the ventilator. During the following year, her PaCO(2) increased to 100 torr and her heart function also continued to worsen. Despite intensive treatment, she died one",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "year": "2011",
+        "authors": [
+          "Woo Tetsukan",
+          "Saito Haruhiro",
+          "Yamakawa Yasushi",
+          "Komatsu Shigeru",
+          "Onuma Sumi"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Betamethasone",
+          "Bronchitis",
+          "Fatal Outcome",
+          "Female",
+          "Humans",
+          "Respiration, Artificial",
+          "Respiratory Insufficiency",
+          "Stevens-Johnson Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22082897/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:11:15.458853",
+  "success": true,
+  "error_message": null
+}

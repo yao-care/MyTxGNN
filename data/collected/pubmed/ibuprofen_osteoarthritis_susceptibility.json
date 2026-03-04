@@ -1,0 +1,107 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ibuprofen",
+    "disease": "osteoarthritis susceptibility",
+    "query_string": "Ibuprofen AND osteoarthritis susceptibility"
+  },
+  "data": {
+    "query": "Ibuprofen AND osteoarthritis susceptibility",
+    "results": [
+      {
+        "pmid": "28497473",
+        "title": "Topical analgesics for acute and chronic pain in adults - an overview of Cochrane Reviews.",
+        "abstract": "Topical analgesic drugs are used for a variety of painful conditions. Some are acute, typically strains or sprains, tendinopathy, or muscle aches. Others are chronic, typically osteoarthritis of hand or knee, or neuropathic pain.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2017",
+        "authors": [
+          "Derry Sheena",
+          "Wiffen Philip J",
+          "Kalso Eija A",
+          "Bell Rae F",
+          "Aldington Dominic"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acute Pain",
+          "Adult",
+          "Analgesics",
+          "Arthritis, Rheumatoid",
+          "Capsaicin",
+          "Chronic Pain",
+          "Diclofenac",
+          "Humans",
+          "Ketoprofen",
+          "Musculoskeletal Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28497473/"
+      },
+      {
+        "pmid": "18549459",
+        "title": "Clinical trial: comparison of ibuprofen-phosphatidylcholine and ibuprofen on the gastrointestinal safety and analgesic efficacy in osteoarthritic patients.",
+        "abstract": "Chronic use of NSAIDs is associated with gastrointestinal (GI) toxicity that increases with age.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2008",
+        "authors": [
+          "Lanza F L",
+          "Marathi U K",
+          "Anand B S",
+          "Lichtenberger L M"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Analgesics, Non-Narcotic",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Gastrointestinal Hemorrhage"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18549459/"
+      },
+      {
+        "pmid": "7579049",
+        "title": "Exercise-induced acute renal failure associated with ibuprofen, hydrochlorothiazide, and triamterene.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs predispose to acute renal failure in conditions associated with decreased RBF. Such conditions include advanced age, hypertension, chronic renal insufficiency, diuretic use, and any condition decreasing effective circulating volume. Strenuous exercise also causes marked reductions in RBF. The patient discussed developed severe acute renal failure after strenuous exercise and therapeutic doses of ibuprofen and hydrochlorothiazide-triamterene. Urinalysis showed a nephritic sediment with red blood cell casts. Renal biopsy showed acute tubular necrosis and arteriolar nephrosclerosis. Although exercise-associated acute renal failure is uncommon, susceptible patients with exercise-induced renal ischemia and prostaglandin inhibition may develop this complication.",
+        "journal": "Journal of the American Society of Nephrology : JASN",
+        "year": "1995",
+        "authors": [
+          "Sanders L R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Catecholamines",
+          "Cytokines",
+          "Eicosanoids",
+          "Hormones",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Ibuprofen",
+          "Kidney",
+          "Kidney Tubular Necrosis, Acute"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7579049/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:40:40.107650",
+  "success": true,
+  "error_message": null
+}

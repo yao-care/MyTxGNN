@@ -1,0 +1,537 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Dexamethasone",
+    "disease": "erythema multiforme"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02578680",
+      "title": "A Randomized, Double-Blind, Phase III Study of Platinum+Pemetrexed Chemotherapy With or Without Pembrolizumab (MK-3475) in First Line Metastatic Non-squamous Non-small Cell Lung Cancer Subjects (KEYNOTE-189)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-01-15",
+      "completion_date": "2023-06-22",
+      "country": "N/A",
+      "enrollment": 616,
+      "brief_summary": "This is an efficacy and safety study of pembrolizumab (MK-3475) combined with pemetrexed/platinum chemotherapy versus pemetrexed/platinum chemotherapy alone in participants with advanced or metastatic nonsquamous non-small cell lung cancer (NSCLC) who have not previously received systemic therapy for advanced disease. Participants will be randomly assigned to receive pembrolizumab combined with pemetrexed/platinum (Investigators choice of cisplatin or carboplatin), OR pemetrexed/platinum (Invest",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has a histologically-confirmed or cytologically confirmed diagnosis of stage IV nonsquamous NSCLC.\n* Has confirmation that epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK)-directed therapy is not indicated.\n* Has measurable disease.\n* Has not receive",
+      "endpoints": [
+        "Progression-Free Survival (PFS) Per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 as Assessed by Blinded Central Imaging",
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02578680"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00410956",
+      "title": "A Phase II Study of Hepatic Arterial Infusion With Floxuridine and Dexamethasone in Combination With Intravenous Bevacizumab (A Monoclonal Antibody to Vascular Endothelial Growth Factor-A), in Patients With Unresectable Primary Hepatic Malignancy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-05-09",
+      "completion_date": "2024-05-07",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as floxuridine and dexamethasone, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Bevacizumab may also stop the growth of tumor cells by blocking blood f",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed hepatocellular carcinoma (HCC) or intrahepatic cholangiocarcinoma (ICC)\n\n  * Peripheral, cholangiolar, or cholangiocellular types\n  * Mixed HCC/ICC disease allowed\n  * Unresectable disease\n  * Less than 70% liver involvement\n* Radiographically bid",
+      "endpoints": [
+        "Median Overall Survival",
+        "Median Hepatic Progression Free Survival",
+        "Median Progression Free Survival"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00410956"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05131386",
+      "title": "Phase II Multicohort Trial of Trabectedin and Low-dose Radiation Therapy in Advanced/Metastatic Sarcomas",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-05-28",
+      "completion_date": "2024-07-28",
+      "country": "Spain",
+      "enrollment": 85,
+      "brief_summary": "Phase II, multicohort, single arm, open-label, multicenter, international clinical trial with three cohorts (cohort A: Soft tissue sarcoma, cohort B: Bone tumors (osteosarcoma, chondrosarcoma and cohort C: Small round-cell sarcomas (Ewing's sarcoma, rhabdomyosarcoma, desmoplastic small round-cell tumors and other small round cell sarcomas)) with 7 sites in Spain.\n\nMain objective: To evaluate the overall response rate (ORR) in the irradiated nodules according to RECIST v1.1 criteria.\n\nTreatment\n\n",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must provide written informed consent prior to performance of study-specific procedures and must be willing to comply with treatment and follow up. Informed consent must be obtained prior to start of the screening process. Procedures conducted as part of the patient'",
+      "endpoints": [
+        "Overall response rate (ORR) in the irradiated nodules"
+      ],
+      "sponsor": "Grupo Espanol de Investigacion en Sarcomas",
+      "url": "https://clinicaltrials.gov/study/NCT05131386"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00675545",
+      "title": "A Phase II Study of Docetaxel Plus Carboplatin in Chemonaive Hormone-Refractory Prostate Cancer (HRPC) Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2010-05",
+      "country": "Singapore",
+      "enrollment": 2,
+      "brief_summary": "The primary objective is to determine the efficacy of docetaxel plus carboplatin as first line treatment in patients with hormone refractory prostate cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed adenocarcinoma of the prostate.\n2. At the time of enrollment, patients must have evidence of metastatic disease, with either measurable disease per RECIST criteria or non- measurable disease (i.e. positive bones scan) and PSA \\> 5 ng/mm3.\n3. Disease p",
+      "endpoints": [
+        "efficacy of docetaxel plus carboplatin"
+      ],
+      "sponsor": "National University Hospital, Singapore",
+      "url": "https://clinicaltrials.gov/study/NCT00675545"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01133158",
+      "title": "Study Phase II Non-randomized Prospective Open to Assess the Combination of Rituximab, Bendamustine, Mitoxantrone, Dexamethasone (R-BMD) in Patients With Follicular Lymphoma Refractory or Relapsed",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-07",
+      "completion_date": "2016-07",
+      "country": "Spain",
+      "enrollment": 61,
+      "brief_summary": "Assess the combination of efficacy of the combination of rituximab, bendamustine, mitoxantrone, dexamethasone in the treatment of patients with Follicular Lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 and ≤ 75 years.\n2. Patients with follicular lymphoma grade 1, 2 or 3a, CD20 +, histologically confirmed lymph node biopsy or tissue. Be accepted diagnosis in bone marrow if no accessible lymph nodes and whether it has discarded the mantle LLC, and NHL.\n3. Follicular ",
+      "endpoints": [
+        "Response Rate"
+      ],
+      "sponsor": "Grupo Español de Linfomas y Transplante Autólogo de Médula Ósea",
+      "url": "https://clinicaltrials.gov/study/NCT01133158"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04037462",
+      "title": "Induction of Sensecence Using Dexamethasone to Re-sensitize NSCLC to Anti-PD1 Therapy",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2021-07-07",
+      "completion_date": "2023-02-23",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "Lung cancer accounts for 30% of all cancers among American war Veterans and remains the leading cause of cancer related deaths. Half of all lung cancers are metastatic non-small cell lung cancer (NSCLC), with a 2-year survival rate of 10%. Immunotherapy with immune checkpoint inhibitors (ICI) has emerged as a promising therapeutic strategy that aims to harness the immune system to fight lung cancer. However, given the modest response rates of 20-25% to these immune checkpoint inhibitors, there i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be willing and able to provide written informed consent/assent for the trial.\n* Be 18 years of age on day of signing informed consent.\n* Have a life expectancy of at least 6 months.\n* Have a histologically confirmed diagnosis of stage IV NSCLC (includes patients who have progr",
+      "endpoints": [
+        "Change in Fluoro-3' Deoxythymidine Positron Emission Tomography (FLT-PET) Signal"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT04037462"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03950674",
+      "title": "A Randomized, Double-Blind, Phase III Study of Platinum+Pemetrexed Chemotherapy With or Without Pembrolizumab (MK-3475) in First Line Metastatic Non-squamous Non-small Cell Lung Cancer Subjects (KEYNOTE-189)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-02-22",
+      "completion_date": "2023-06-22",
+      "country": "Japan",
+      "enrollment": 40,
+      "brief_summary": "This is a Japan Extension Study of Global Study MK-3475-189 (NCT02578680). This is an efficacy and safety study of pembrolizumab (MK-3475) combined with pemetrexed/platinum chemotherapy versus pemetrexed/platinum chemotherapy alone in adult Japanese participants with advanced or metastatic nonsquamous non-small cell lung cancer (NSCLC) who have not previously received systemic therapy for advanced disease. Participants will be randomly assigned to receive pembrolizumab combined with pemetrexed/p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has a histologically-confirmed or cytologically confirmed diagnosis of stage IV nonsquamous NSCLC.\n* Has confirmation that epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK)-directed therapy is not indicated.\n* Has measurable disease.\n* Has not receive",
+      "endpoints": [
+        "Progression-Free Survival (PFS) Per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 as Assessed by Blinded Central Imaging",
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03950674"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04447027",
+      "title": "A Phase 1 Study of Romidepsin, CC-486 (5-azacitidine), Dexamethasone, and Lenalidomide (RAdR) for Relapsed/Refractory T-cell Malignancies",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-12-17",
+      "completion_date": "2025-12-17",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "Background:\n\nMature T-cell malignancies (TCMs) are a rare group of cancers that usually do not have effective treatments or cures. Because of this, participants with TCMs often relapse and have a poor overall prognosis. This trial is testing if combining several drugs against TCMs can be a more effective.\n\nPrimary Objective:\n\nTo test if the combination of romidepsin, CC-486 (5-azacitidine), dexamethasone, and lenalidomide (RAdR) can be given safely to participants with relapsed or treatment refr",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n* Patients must have relapsed after or progressed during at least one line of prior systemic therapy (which may include allogeneic stem cell transplantation) for mature T or NK/T neoplasm, i.e. have relapsed and/or refractory mature T and natural killer (NK) neoplasm per 2016 W",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD)",
+        "Rate and Severity of Serious and/or Non-serious Adverse Events (AE's) by Grade and Type of Toxicity",
+        "Number of Treatment Emergent Grades 3, 4 and/or 5 Adverse Events Possibly Related to Drug Grouped by Severity"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT04447027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00908232",
+      "title": "Efficacy and Safety of Velcade Plus Dexamethasone (VD), VD+Cyclophosphamide or VD Plus Lenalidomide in MMY Patients Who Are Refractory or Have Relapsed After Their Primary Therapy for MMY and Have Achieved Stable Disease After 4 Cycles of VD",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-05",
+      "completion_date": "2011-08",
+      "country": "Greece, Poland, Lithuania, Hungary, Spain, France, Germany, Turkey (Türkiye), Serbia, United Kingdom",
+      "enrollment": 163,
+      "brief_summary": "The purpose of this study is to test the effectiveness and safety of adding cyclophosphamide or lenalidomide to the VD combination in the treatment of patients with multiple myeloma that have achieved a stable response after 4 initial cycles of treatment with VD. Multiple myeloma is the second most common cancer of the blood. Bortezomib disrupts the life cycle of the cell, affecting numerous biologic pathways, including those related to growth and survival of cancer cells.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient has relapsed/progressed or is refractory for multiple myeloma following 1 previous line of therapy\n* Measurable secretory multiple myeloma: measurable disease for secretory multiple myeloma is defined by at least one of the following measurements: serum monoclonal prot",
+      "endpoints": [
+        "Overall Best Confirmed Response"
+      ],
+      "sponsor": "Janssen-Cilag International NV",
+      "url": "https://clinicaltrials.gov/study/NCT00908232"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01215344",
+      "title": "Impact of First Autologous Transplant on Minimal Residual Disease Markers in Previously Untreated Myeloma Undergoing Initial Treatment With Velcade Based Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-11",
+      "completion_date": "2018-03",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "The purpose of this study is to study the MRD status after VELCADE based induction therapy (VELCADE, lenalidomide, dexamethasone or VELCADE, liposomal doxorubicin, dexamethasone) in patients with previously untreated multiple myeloma and study the impact of HDC and ASCT on MRD status post-transplant. Our hypothesis is that MRD-status will continue to increase significantly at 3 months post-transplant and will validate that HDC and ASCT needs to be performed even when patients have achieved major",
+      "eligibility_criteria": "Inclusion Criteria:\n\nConfirmed Multiple Myeloma as defined below within 120 days of starting cycle 1:\n\n* Bone marrow plasmacytosis with ≥ 10% plasma cells or sheets of plasma cells or biopsy proven plasmacytoma\n* Presence of M protein in serum or urine or both. Conventional M spike, serum free light",
+      "endpoints": [
+        "The Percent of Patients With Minimal Residual Disease (MRD) Status Changing to Negative at Day 100 (Post-AHCT), Among Patients With MRD Positive at the End of Induction (EOI)."
+      ],
+      "sponsor": "Vanderbilt-Ingram Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01215344"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02479555",
+      "title": "LIMBO-PTA: Lower-Limb Adventitial Infusion of DexaMethasone Via Bullfrog to Reduce Occurrence of Restenosis After Percutaneous Transluminal Angioplasty Revascularization",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2016-01",
+      "completion_date": "2020-08",
+      "country": "Germany",
+      "enrollment": 120,
+      "brief_summary": "This is a prospective, multi-center, randomized pilot study to document the effects of adventitial delivery of dexamethasone after balloon angioplasty of lesions below the knee in symptomatic patients with critical limb ischemia (CLI).",
+      "eligibility_criteria": "Inclusion Criteria:\n\nScreening Criteria:\n\n* Age ≥18 years\n* Patient or patient's legal representative have been informed of the nature of the study, agrees to participate and has signed an IRB/EC approved consent form\n* Female patients of childbearing potential have a negative pregnancy test ≤7 days",
+      "endpoints": [
+        "Freedom from MALE",
+        "Freedom from CD-TLR",
+        "Composite clinical safety by freedom from adverse events including death, MALE, major unplanned amputation, or CD-TLR."
+      ],
+      "sponsor": "Mercator MedSystems, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02479555"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01018134",
+      "title": "A Double-Blind, Vehicle-Controlled, Randomized, Dose Ranging, Multiple-Site Clinical Study to Evaluate the Efficacy and Safety of Desoximetasone Topical Sprays (0.05%, 0.25%) in Patients With Moderate to Severe Plaque Psoriasis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2010-05",
+      "country": "United States",
+      "enrollment": 151,
+      "brief_summary": "The objectives of this study are to evaluate the efficacy and safety of two dosing regimens of desoximetasone 0.05% and 0.25% topical sprays as compared to a vehicle spray in patients with moderate to severe plaque psoriasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have a definite clinical diagnosis of stable plaque psoriasis involving ≥ 10% of the body surface area (BSA).\n* Have a combined total lesion severity score (TLSS) of ≥ 7 for the target lesion.\n* Have a plaque elevation score ≥ 3 of (moderate) for the target lesion.\n* The targe",
+      "endpoints": [
+        "Number of Participants in Each Treatment Group With Clinical Cure: Physician's Global Assessment (PGA) Score = 0 or 1 at Day 28",
+        "Number of Participants in Each Treatment Group With Treatment Success for the Target Lesion (Total Lesion Severity Scale (TLSS) a Score of 0 or 1)."
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01018134"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02479620",
+      "title": "LIMBO-ATX: Lower-Limb Adventitial Infusion of DexaMethasone Via Bullfrog to Reduce Occurrence of Restenosis After Atherectomy (ATX)-Based Revascularization",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2016-06",
+      "completion_date": "2020-03",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "This is a prospective, multi-center, randomized pilot study to document the effects of adventitial delivery of dexamethasone after atherectomy-based revascularizations of lesions below the knee in symptomatic patients with critical limb ischemia (CLI).",
+      "eligibility_criteria": "Inclusion Criteria:\n\nScreening Criteria:\n\n* Age ≥18 years\n* Patient or patient's legal representative have been informed of the nature of the study, agrees to participate and has signed an IRB/EC approved consent form\n* Female patients of childbearing potential have a negative pregnancy test ≤7 days",
+      "endpoints": [
+        "Freedom from MALE",
+        "Freedom from CD-TLR",
+        "Composite clinical safety by freedom from adverse events including death, MALE, major unplanned amputation, or CD-TLR."
+      ],
+      "sponsor": "Mercator MedSystems, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02479620"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01102426",
+      "title": "Randomized, Multicenter, Open-label, Phase III Study of Plitidepsin in Combination With Dexamethasone vs. Dexamethasone Alone in Patients With Relapsed/Refractory Multiple Myeloma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2017-11",
+      "country": "Greece, Poland, Ireland, Australia, Taiwan, Puerto Rico, Spain, France, Germany, United States, Czechia, Austria, South Korea, Portugal, Netherlands, New Zealand, Belgium, Italy, United Kingdom",
+      "enrollment": 255,
+      "brief_summary": "Study of Plitidepsin in combination with dexamethasone versus dexamethasone alone in patients with relapsed/refractory multiple myeloma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) ≤ 2\n* Life expectancy ≥ 3 months.\n* Patients previously diagnosed with multiple myeloma\n* Patients must have relapsed or relapsed and refractory multiple myeloma (MM) after at least three but n",
+      "endpoints": [
+        "Progression Free Survival (PFS) as Per Intention-to-treat (ITT)",
+        "Percentage of Participants With Progression Free Survival (PFS) as Per Intention-to-treat (ITT) at 6 Months"
+      ],
+      "sponsor": "PharmaMar",
+      "url": "https://clinicaltrials.gov/study/NCT01102426"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03942601",
+      "title": "Temsirolimus Alone or Paired With Dexamethasone Delivered to the Adventitia to eNhance Clinical Efficacy After Femoropopliteal Revascularization",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2019-10-01",
+      "completion_date": "2021-04-30",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "This is a prospective, multi-center, pilot feasibility study to document the effects of adventitial delivery of temsirolimus or temsirolimus with dexamethasone sodium phosphate injection, USP, after revascularization of femoropopliteal lesions in symptomatic patients with moderate to severe claudication (Rutherford 2-3) or critical limb ischemia (CLI) with rest pain (Rutherford 4). Subjects will be followed for up to 60 months post index procedure.",
+      "eligibility_criteria": "Inclusion Screening Criteria:\n\n* Age ≥18 years and ≤85 years at study enrollment\n* Subject has been informed of the nature of the study, agrees to participate and has signed an IRB-approved consent form\n* Subject is ambulatory\n* Female subjects of childbearing potential have a negative pregnancy tes",
+      "endpoints": [
+        "Safety - Freedom from MALE-POD at 30 days",
+        "Effectiveness - Primary patency",
+        "Effectiveness - Freedom from CD-TLR"
+      ],
+      "sponsor": "Mercator MedSystems, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03942601"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01120639",
+      "title": "A Phase 1-2 Trial of Temozolomide and Hypofractionated Radiotherapy in Treatment of Supratentorial Glioblastoma Multiforme",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2020-11-15",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to investigate the safety and effectiveness of a combination treatment for glioblastoma multiforme utilizing radiotherapy plus the FDA-approved chemotherapy drug temozolomide",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histopathologically confirmed newly diagnosed glioblastoma multiforme. Diagnosis must be made by surgical biopsy or excision\n* The tumor must be supratentorial in location\n* The planning target volume (tumor plus margin) must measure ≤ 150 cm\\^3 in volume\n* Age ≥ 18 years\n* Li",
+      "endpoints": [
+        "Number of Dose-limiting Toxicities (DLTs)"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT01120639"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01206387",
+      "title": "A Double-Blind, Vehicle-Controlled, Randomized, Parallel Design, Multiple-Site Clinical Study to Evaluate the Efficacy and Safety of Desoximetasone 0.25% Topical Spray in Patients With Moderate to Severe Plaque Psoriasis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2011-01",
+      "country": "N/A",
+      "enrollment": 120,
+      "brief_summary": "efficacy study in patients with moderate to severe plaque psoriasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or non-pregnant, non-lactating female 18 years of age or older.\n* Have a definite clinical diagnosis of stable plaque psoriasis involving ≥ 10% of the body surface area (BSA).\n* Have a combined total lesion severity score (TLSS) of ≥ 7 for the Target Lesion.\n* Have a plaq",
+      "endpoints": [
+        "Clinical Success",
+        "Treatment Success"
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01206387"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01846611",
+      "title": "A Randomized, Open-Label Study Comparing the Combination of YONDELIS and DOXIL/CAELYX With DOXIL/CAELYX Monotherapy for the Treatment of Advanced-Relapsed Epithelial Ovarian, Primary Peritoneal, or Fallopian Tube Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-10-16",
+      "completion_date": "2018-11-16",
+      "country": "Israel, Poland, New Zealand, Australia, Russia, Switzerland, South Africa, United States, China, United Kingdom",
+      "enrollment": 581,
+      "brief_summary": "The purpose of this study is to assess the efficacy and safety of trabectedin+DOXIL as a third-line chemotherapy regimen (treatment) in patients with platinum-sensitive advanced-relapsed epithelial ovarian, primary peritoneal, or fallopian tube cancer who received 2 previous lines of platinum-based chemotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically proven advanced-relapsed epithelial ovarian, primary peritoneal, or fallopian tube cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status grade of 0 or 1\n* Received first-line treatment with a platinum-based regimen and had no evidence of disease ",
+      "endpoints": [
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01846611"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01507558",
+      "title": "Dexamethasone Infusion to the Adventitia to Enhance Clinical Efficacy After Femoropopliteal Revascularization",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-12",
+      "completion_date": "2016-12",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "The purpose of this study is to test if dexamethasone, an anti-inflammatory medication approved by the US Food and Drug Administration (FDA), can be injected safely into the tissue around the blood vessel wall at the time of an angioplasty or atherectomy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is \\> 40 years and \\< 80 years of age\n* Patient has severe, lifestyle-limiting claudication or critical limb ischemia (Rutherford classification 3-6)\n* Patient has TASC II A, B or C disease, SFA revascularization is preferred over medical management, and endovascular a",
+      "endpoints": [
+        "Safety Outcome Measures:",
+        "Effectiveness Outcome Measures:"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT01507558"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00577993",
+      "title": "Fludarabine, Mitoxantrone, and Dexamethasone (FND) Plus Chimeric Anti-CD20 Monoclonal Antibody (Rituximab) for Stage IV Indolent Lymphoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-03-16",
+      "completion_date": "2017-08-24",
+      "country": "United States",
+      "enrollment": 210,
+      "brief_summary": "The goal of this clinical research study is to compare chemotherapy given with rituximab to chemotherapy followed by rituximab. The safety of both treatment schedules will be studied. Laboratory tests of genetic changes in blood and bone marrow before and during the study will also be monitored.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Previously untreated stage IV indolent B-cell lymphoma \\[Amendment May 2001: eligibility restricted to follicular lymphoma\\]\n2. Age \\<76\n\nExclusion Criteria:\n\nN/A",
+      "endpoints": [
+        "Number of Participants With Overall Survival (10 Years) by Treatment"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00577993"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00806819",
+      "title": "Multicenter, Randomized, Double-blind, Phase III Trial to Investigate the Efficacy and Safety of Oral BIBF 1120 Plus Standard Pemetrexed Therapy Compared to Placebo Plus Standard Pemetrexed Therapy in Patients With Stage IIIB/IV or Recurrent Non Small Cell Lung Cancer After Failure of First Line Chemotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2015-12",
+      "country": "Poland, Thailand, Ireland, Australia, North Macedonia, Canada, Sweden, Bosnia and Herzegovina, Hong Kong, Latvia, Romania, Taiwan, Germany, United States, Ukraine, South Korea, Turkey (Türkiye), Ecuador, Moldova, Mexico, Philippines, Panama, Argentina, Malaysia, Netherlands, Brazil, Peru, Colombia, New Zealand, Hungary, Chile, Serbia",
+      "enrollment": 718,
+      "brief_summary": "The trial will be performed to evaluate if BIBF 1120 in combination with standard pemetrexed therapy is more effective than placebo (inactive capsule) plus standard pemetrexed therapy in patients with stage IIIB, IV or recurrent NSCLC. Safety information about BIBF1120/pemetrexed will be obtained.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Male or female patient aged 18 years or older.\n2. Histologically or cytologically confirmed Stage IIIB, IV (according to AJCC) or recurrent non small cell lung cancer (NSCLC) (non squamous histologies)\n3. Relapse or failure of one first line chemotherapy (in the case of recur",
+      "endpoints": [
+        "Progression Free Survival (PFS) as Assessed by Central Independent Review"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00806819"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00579501",
+      "title": "A Multicenter Phase II Clinical Trial of Neoadjuvant Trabectedin (Yondelis) in Patients With Localized Myxoid / Round Cell Liposarcoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2010-01",
+      "country": "United States, France, Germany",
+      "enrollment": 29,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of trabectedin for the treatment of localized (non-metastatic) myxoid / round cell liposarcoma (malignant tumor derived from primitive or embryonal lipoblastic cells).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pathological diagnosis of myxoid / round cell liposarcoma (MRCL) and availability of pathology specimens for central review and pharmacogenomic studies\n* Clinical evidence of locally advanced (Stage III), non-metastatic tumor, including locally recurring disease after initial ",
+      "endpoints": [
+        "Percentage of Participants With Pathological Complete Response (pCR)"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00579501"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01351623",
+      "title": "Phase II Study of Infusional Carfilzomib in Patients With Relapsed or Refractory Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-05-09",
+      "completion_date": "2016-01-26",
+      "country": "United States",
+      "enrollment": 44,
+      "brief_summary": "The purpose of this study is to test a new drug called carfilzomib. It is a type of drug called a proteasome inhibitor. Proteasome breaks down proteins that are no longer useful to the cell. When the proteasome is turned off by a drug (like carfilzomib), useless proteins cannot be broken down. Instead the proteins build up and cause the cell to die. Myeloma cells make a lot of protein and are especially in need of a functional proteasome to survive.\n\nCarfilzomib is not approved for use by the Fo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must meet all of the following inclusion criteria to be eligible to enroll in this study.\n* Patients meeting the criteria for symptomatic multiple myeloma that has relapsed or is refractory to at least 2 prior lines of therapy.\n* Previous therapy with bortezomib.\n",
+      "endpoints": [
+        "To Evaluate the Best Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01351623"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01983449",
+      "title": "Delivery of Dexamethasone to the Adventitia to eNhance Clinical Efficacy After Femoropopliteal Revascularization",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-11",
+      "completion_date": "2018-01",
+      "country": "United States",
+      "enrollment": 285,
+      "brief_summary": "To assess the safety and effectiveness of adventitial deposition of the Study Drug in reducing inflammation and restenosis in patients with clinical evidence of claudication or critical limb ischemia and an angiographically significant lesion in the superficial femoral and/or popliteal arteries.\n\nStudy Drug and Dose: Dexamethasone Sodium Phosphate Injection, USP, 4 mg/ml, with dilute contrast (17%) administered to the adventitia in a dose of 1.6 mg per cm of desired vessel treatment length.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Screening Criteria\n\n  * Male or non-pregnant female ≥18 years of age\n  * Rutherford Clinical Category 2-4\n  * Clinical diagnosis of PAD requiring revascularization, secondary to atherosclerosis affecting a lower limb\n  * Patient is willing to provide informed consent and compl",
+      "endpoints": [
+        "MALE-POD",
+        "Duplex ultrasound index lesion binary restenosis",
+        "Duplex ultrasound index lesion binary restenosis"
+      ],
+      "sponsor": "Mercator MedSystems, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01983449"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03526900",
+      "title": "Phase II Non-randomized Study of a Atezolizumab (MPDL3280A) in Combination With Carboplatin Plus Pemetrexed in Patients Who Are Chemotherapy-naïve and Have Stage IV Non-squamous Non-small Cell Lung Cancer Twith Asymptomatic Brain Metastasis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-07-07",
+      "completion_date": "2022-09-15",
+      "country": "Spain",
+      "enrollment": 40,
+      "brief_summary": "This is a multicenter, national, nonrandomized, phase II trial in subjects with nonsquamous NSCLC patients that have untreated asymptomatic BM. A pre-screening period using brain MRI for patients diagnosed with advanced non-squamous NSCLC EGFR/ALK wild type and ECOG PS 0-1 will be crucial to identify patients with asyntomatic BM. Forty patients will be recruited.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 18 years or older.\n* Signed written informed consent.\n* ECOG Performance Status (PS) of 0 to 1.\n* Subjects with histologically or cytologically confirmed stage IV non-squamous NSCLC who did not received any prior chemotherapy or brain radiotherapy. Patients with ",
+      "endpoints": [
+        "Efficacy of Atezolizumab + CBDCA + Pemetrexed by Evaluating PFS Rate"
+      ],
+      "sponsor": "Spanish Lung Cancer Group",
+      "url": "https://clinicaltrials.gov/study/NCT03526900"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00531284",
+      "title": "Phase 1b/2, Multicenter Open-label Study of the Safety and Activity of Carfilzomib in Subjects With Relapsed Solid Tumors, Multiple Myeloma or Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2017-05-22",
+      "country": "United States",
+      "enrollment": 184,
+      "brief_summary": "The primary objectives of this Phase 1b/2 study were as follows:\n\n* Phase 1b (Bolus and Infusion): To evaluate the safety and tolerability of carfilzomib in patients with relapsed solid tumors and in patients with relapsed and/or refractory multiple myeloma and in patients with refractory lymphoma.\n* Phase 2 (Bolus): To evaluate the overall response rate (ORR) after 4 cycles of carfilzomib in patients with relapsed solid tumors.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nDisease related\n\nPhase 1 Subjects (Bolus and Infusion):\n\nSolid Tumor:\n\n* Histologically confirmed advanced solid tumor\n* 1 to 3 prior treatment regimens\n* At least one site of radiographically measurable disease of ≥ 2 cm in the largest dimension by traditional computed tomograp",
+      "endpoints": [
+        "Phase 1b: Number of Participants With Dose-limiting Toxicities (DLT)",
+        "Phase 2: Percentage of Participants With an Overall Response After 4 Treatment Cycles"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00531284"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04896658",
+      "title": "Belantamab Mafodotin, Cyclophosphamide and Dexamethasone in Relapsed/Refractory Multiple Myeloma",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2021-12-03",
+      "completion_date": "2024-12-01",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "Evaluate the efficacy and safety of Belantamab Mafodotin, cyclophosphamide, and dexamethasone in patients with Relapsed/Refractory Multiple Myeloma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed diagnosis of Refractory MM; failed at least 3 prior lines of anti-myeloma treatments, including an anti-CD38 antibody (e.g., daratumumab) alone or in combination, and is refractory to an IMiD (i.e., lenalidomide or pomalidomide), and to a proteasome i",
+      "endpoints": [
+        "Number of Participants With Adverse Events in Dose Escalation",
+        "Response Rate in Dose Escalation and Expansion Cohort"
+      ],
+      "sponsor": "University of Maryland, Baltimore",
+      "url": "https://clinicaltrials.gov/study/NCT04896658"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01068782",
+      "title": "A Phase 2 Non-Comparative Randomized Open-Label Study of Multiple Regimens of Single-Agent XL184 in Subjects With Grade IV Astrocytic Tumors in First or Second Relapse",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-04",
+      "completion_date": "2013-10",
+      "country": "United States, Canada",
+      "enrollment": 19,
+      "brief_summary": "This study was conducted in subjects with grade IV astrocytic tumors (a type of cancer that can occur in the brain or spinal cord) in first or second relapse.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The subject has histologically confirmed diagnosis at any time of grade IV astrocytic tumor as determined by the investigator. Tumor samples will be required for pathology review.\n* The subject has received prior standard radiation for any grade astrocytic tumor.\n* The subject",
+      "endpoints": [
+        "Randomized Phase: Number of Participants With Treatment Emergent Adverse Events (TEAEs)",
+        "Expansion Phase: Objective Response Rate (ORR)"
+      ],
+      "sponsor": "Exelixis",
+      "url": "https://clinicaltrials.gov/study/NCT01068782"
+    }
+  ],
+  "timestamp": "2026-03-04T13:18:22.143807",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,50 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ofloxacin",
+    "disease": "diarrheal disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01618591",
+      "title": "A Randomized, Double-Blind, Clinical Trial Evaluating Three Single Dose Regimens With Loperamide for Treatment of Ambulatory Watery Travelers' Diarrhea, and Azithromycin With and Without Loperamide for Treatment of Ambulatory Dysentery/Febrile Diarrhea",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2012-09",
+      "completion_date": "2016-03",
+      "country": "Thailand, Honduras, Djibouti, Afghanistan, Kenya",
+      "enrollment": 384,
+      "brief_summary": "The purpose of the trial is to develop the evidence on relative efficacy of 3 available single-dose loperamide adjuncted regimens for watery diarrhea and a single-dose regimen, with and without loperamide, for dysentery/febrile diarrhea required for informing decisions among these regimens. Information from this study will be used to develop management guidelines for the diagnosis and management of travelers' diarrhea (TD) among deployed United States and United Kingdom military personnel.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Active duty military or military beneficiary, 18 years-old or older.\n2. Presence of acute diarrhea (3 or more stools in 24 hours or 2 or more stools in 24 hours and associated symptoms such as nausea, vomiting, abdominal cramps or tenesmus) and \\<96 hours duration.\n3. Eligibl",
+      "endpoints": [
+        "Clinical Cure - Acute Watery Diarrhea group",
+        "Clinical Cure - Acute Dysentery/Febrile Diarrhea group"
+      ],
+      "sponsor": "Uniformed Services University of the Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01618591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07399717",
+      "title": "Assessing Role of Probiotics in Children Aged 6-36 Months Treated for Pneumonia at Phu Tho Provincial Obstetrics and Pediatrics Hospitals Within 2026-2027",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-26",
+      "completion_date": "2027-12-30",
+      "country": "Vietnam",
+      "enrollment": 330,
+      "brief_summary": "The main questions this study aims to answer are:\n\n* Does using probiotic nasal spray (LiveSpo Navax containing Bacillus subtilis and Bacillus clausii, 1x10\\^9 CFU/mL), with or without oral probiotics (LiveSpo Pregmom containing Bacillus subtilis, Bacillus clausii, and Bacillus coagulans, 3x10\\^9 CFU/5 mL), help children recover better from pneumonia when added to standard medical treatment?\n* Does using these adjunctive probiotics support reduce the recurrence of respiratory and gastrointestina",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children (male/female) aged 6-36 months diagnosed and hospitalized for treatment for pneumonia.\n* Parents or guradians of the children agree to participate in the study, explain, and sign the research consent form.\n\nExclusion Criteria:\n\n* Children who need ventilator support.\n",
+      "endpoints": [
+        "Number of days with typical clinical symptoms of pneumonia",
+        "Number of days of inpatient treatment"
+      ],
+      "sponsor": "Anabio R&D",
+      "url": "https://clinicaltrials.gov/study/NCT07399717"
+    }
+  ],
+  "timestamp": "2026-03-04T13:21:48.830410",
+  "success": true,
+  "error_message": null
+}

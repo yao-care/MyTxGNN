@@ -1,0 +1,48 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Cyanocobalamin",
+    "disease": "microcytic anemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05022979",
+      "title": "Prevalence of Micro-nutritional Deficiencies in Pregnant Women Presenting to the Emergency Department for Threatened Delivery",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-05-28",
+      "completion_date": "2019-03-31",
+      "country": "French Guiana",
+      "enrollment": 341,
+      "brief_summary": "Micronutrient deficiencies are frequent in pregnant women in French Guiana, a French territory in South America. Micronutrient deficiencies are more frequent in precarious women. Obesity is a frequent problem but it is also associated with micronutrient deficiency. Micronutrient deficiencies have largely been overlooked in this outermost European region and should be corrected.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant at least 22 weeks of amenorrhea (WHO threshold for fetal viability)\n* Patient hospitalized for delivery in the Gynecological and Obstetrical Emergency Unit at Cayenne hospital\n* Patient's consent\n* Consent of the legal representative if the patient is a minor\n\nExclusi",
+      "endpoints": [
+        "Identification of a micronutrient deficiency defined as at least one micronutrient below the lower limit."
+      ],
+      "sponsor": "Centre Hospitalier de Cayenne",
+      "url": "https://clinicaltrials.gov/study/NCT05022979"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05185024",
+      "title": "A Study of Efficacy and Safety of Three Different Oral Iron-Containing Dietary Supplements in Correction of Hematological Indices and Replenishment of Depleted Iron Stores in Iron Deficient Adults With or Without Mild Microcytic Anemia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-01-19",
+      "completion_date": "2024-01-15",
+      "country": "Slovenia",
+      "enrollment": 152,
+      "brief_summary": "The study is designed as a parallel, randomized, double blind, three-arm single-center study exploring the efficacy and safety of 12-week once daily oral dosing of iron for correction of overall iron status in 150 otherwise healthy iron-deficient adults presenting with or without mild microcytic anemia. Three iron-containing preparations in the form of either Ferrous Sulfate Capsules, \\>Your\\< Iron Forte Capsules, or \\>Your\\< Iron Forte Liquid will be tested. Potential study participants will be",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Personally signed and dated Informed Consent Form.\n* Male or female, aged 18-50 years (inclusive) at the time of signing the Informed Consent Form.\n* Iron deficiency as defined by a hemoglobin value 100-130 g/L (females) and 110-140 g/L (males) and a serum ferritin level \\<30 ",
+      "endpoints": [
+        "Change in hemoglobin level from baseline to week 12."
+      ],
+      "sponsor": "PharmaLinea Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05185024"
+    }
+  ],
+  "timestamp": "2026-03-04T13:42:26.516277",
+  "success": true,
+  "error_message": null
+}

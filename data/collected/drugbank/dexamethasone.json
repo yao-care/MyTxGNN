@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Dexamethasone"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB01234",
+    "name": "Dexamethasone",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T13:18:01.817033",
+  "success": true,
+  "error_message": null
+}

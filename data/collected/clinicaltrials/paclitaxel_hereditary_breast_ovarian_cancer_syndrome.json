@@ -1,0 +1,86 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Paclitaxel",
+    "disease": "hereditary breast ovarian cancer syndrome"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03329950",
+      "title": "A Phase 1 Study of CDX-1140 as Monotherapy or in Combination in Patients With Advanced Malignancies",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-12-01",
+      "completion_date": "2022-09-13",
+      "country": "United States",
+      "enrollment": 132,
+      "brief_summary": "This is a study to determine the maximum tolerated dose (MTD) for CDX-1140 (CD40 antibody), either alone or in combination with CDX-301 (FLT3L), pembrolizumab, or chemotherapy and to further evaluate its tolerability and efficacy in expansion cohorts once the MTD is determined.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Recurrent, locally advanced or metastatic melanoma (including mucosal and/or ocular), bladder/urothelial, non-small cell lung cancer, pancreatic adenocarcinoma, breast, colorectal, gastric, esophageal, renal cell, hepatic, ovarian fallopian or primary peritoneal carcinoma",
+      "endpoints": [
+        "Safety and Tolerability of CDX-1140 as assessed by CTCAE v5.0"
+      ],
+      "sponsor": "Celldex Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT03329950"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002854",
+      "title": "PHASE I PILOT STUDY OF SEQUENTIAL HIGH DOSE CYCLES OF CISPLATIN, CYCLOPHOSPHAMIDE, ETOPOSIDE AND IFOSFAMIDE, CARBOPLATIN AND TAXOL WITH AUTOLOGOUS STEM CELL SUPPORT",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1994-12",
+      "completion_date": "2015-08",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Peripheral stem cell transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more tumor cells.\n\nPURPOSE: Phase I trial to study the effectiveness of combination chemotherapy plus peripheral stem cell transplantation in treating patients who have advanced cancer.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed advanced carcinomas of the following types:\n\n  * Breast carcinoma that is ineligible for or patient has refused participation in a higher priority protocol in the following categories:\n\n    * Stage II disease with at least 10 involved lymph nodes ",
+      "endpoints": [
+        "Feasibility of two cycles of high dose chemotherapy with stem cell reinfusion",
+        "Toxicity of two cycles of high dose chemothearpy and stem cell reinfusion",
+        "Maximum tolerated dose of two cycles of high dose chemothearpy and stem cell reinfusion"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00002854"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00535119",
+      "title": "A Phase 1 Study of ABT-888 in Combination With Carboplatin and Paclitaxel in Advanced Solid Malignancies",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 107,
+      "brief_summary": "This phase I trial is studying the side effects and best dose of veliparib when given together with carboplatin and paclitaxel in treating patients with advanced solid cancer. Veliparib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving veliparib together with carbopl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed advanced solid malignancy\n* Patients enrolled in stratum II of the study must have BRCA1/2 mutation (added 04/07/09)\n* Patients with CNS metastases must be stable after therapy for CNS metastases (such as surgery, radiotherapy or stere",
+      "endpoints": [
+        "Recommended phase II dose (RP2D) for each stratum"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00535119"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02978495",
+      "title": "Neoadjuvant Carboplatin in Triple Negative Breast Cancer - A Prospective Phase II Study (NACATRINE Trial).",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-05-17",
+      "completion_date": "2021-10-22",
+      "country": "Brazil",
+      "enrollment": 154,
+      "brief_summary": "Breast cancer is the most frequent neoplasm in women in Brazil and in the world and up to 15% of all cases diagnosed correspond to the triple negative subtype. Triple negative breast cancer affects young women with germline mutations in BRCA 1/2 genes. Giving the lack of target therapies to date, there is no consensus regarding the most effective treatment for this subgroup of tumors. Although evidence shows that triple negative breast cancer is highly sensitive to chemotherapy when compared to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Triple Negative Breast Cancer;\n* Stage II or III;\n* Performance Status ECOG \\<2 or Karnofsky \\>50%;\n* Hematologic (minimal values):\n\nAbsolute neutrophil count \\> 1,500/mm3 Hemoglobin \\> 10.0 g/dl Platelet count \\> 100,000/mm3\n\nExclusion Criteria:\n\n* Stage I or IV;\n* other mali",
+      "endpoints": [
+        "Pathological complete response (pCR), defined as absence of invasive cancer in the breast and axillary lymph nodes."
+      ],
+      "sponsor": "Barretos Cancer Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02978495"
+    }
+  ],
+  "timestamp": "2026-03-04T13:38:06.472601",
+  "success": true,
+  "error_message": null
+}

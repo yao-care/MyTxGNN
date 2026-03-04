@@ -1,0 +1,193 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Mometasone Furoate",
+    "disease": "atopic eczema"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05578482",
+      "title": "The Pathogenic Role Of Staphylococcus Aureus And The Skin Microbiome During Flare And Resolution Of Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-10-24",
+      "completion_date": "2023-05",
+      "country": "Denmark",
+      "enrollment": 45,
+      "brief_summary": "The goal of this clinical trial is to compare and evaluate in patients with atopic dermatitis. The main questions it aims to answer are:\n\n* Does the addition of systemic dicloxacillin to TCS treatment result in a more rapid and deeper treatment response?\n* Does the addition of systemic dicloxacillin to TCS treatment affect the skin microbiome, the skin barrier and immune response during improvement of AD?\n* Does topical application of S. aureus or SEB increase the severity and rapidity of a flar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or above\n* European ancestry\n* AD diagnosis according to Hanifin \\& Rajka criteria\n* AD for at least 3 years\n* AD that is moderate-to-severe defined as an EASI score of ≥ 7\n* AD in the sampled location that has an TLSS score of ≥ 5\n\nEXCLUSION CRITERIA:\n\n* Current ",
+      "endpoints": [
+        "Change in The Total Lesion Symptom Scale (TLSS) score improvement"
+      ],
+      "sponsor": "Bispebjerg Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05578482"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03676036",
+      "title": "A Prospective, Randomised, Vehicle-Controlled, Double-Blind, Exploratory Clinical Trial To Assess The Efficacy And Steroid Sparing Potential Of DGLA Cream Topically Applied To Patients With Moderate To Severe Atopic Dermatitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2018-07",
+      "country": "Germany",
+      "enrollment": 42,
+      "brief_summary": "This study will investigate the steroid sparing potential of DS107E to vehicle in patients with moderate to severe atopic dermatitis.\n\nDS107E or vehicle will be topically administered with a steroid twice a day for the first 7 days. For the following 28 days DS107E or vehicle will be topically administered twice a day.\n\nThis study will enrol approximately 40 adult patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female and male volunteers aged 18-65 who are willing to give written informed consent.\n* Diagnosis of atopic dermatitis (\\> 6 months) according to the Hanifin and Raika Criteria;\n* Presence of at least 2 moderate to severe (target lesion score\\</=8) inflammatory lesions of co",
+      "endpoints": [
+        "Eczema Area and Severity Index (EASI)"
+      ],
+      "sponsor": "DS Biopharma",
+      "url": "https://clinicaltrials.gov/study/NCT03676036"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04271007",
+      "title": "Phase IV Clinical Study,Comparative, Blind Double and Randomized to Compare Mometasone Furoate Cream (TOPISON) Versus Other Two Cream Mometasone Furoate, in Participants With Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-11-23",
+      "completion_date": "2023-07-10",
+      "country": "Brazil",
+      "enrollment": 32,
+      "brief_summary": "Atopic dermatitis is a chronic disease, with outbreaks, predominant in childhood, whose main symptom is pruritus of variable intensity and signs of cutaneous xerosis and eczematous pattern lesions.\n\nIn this context, the present study aims to evaluate a comparative way of Topison drugs in reducing transepidermal water loss, improving skin hydration and comfort in participants with atopic dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to understand and consent / consent to their participation in this clinical study, manifested by signing the Informed Consent Form and, when applicable, the Informed Consent Form and the responsible consent form;\n* Participants of both sexes aged 10 or over and less th",
+      "endpoints": [
+        "sensory evaluation",
+        "Effectiveness"
+      ],
+      "sponsor": "Libbs Farmacêutica LTDA",
+      "url": "https://clinicaltrials.gov/study/NCT04271007"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07204561",
+      "title": "Analysis of the CeraVe Emollient Effect on Restoring the Hydration of the Skin Barrier as Maintenance Regimen in Subjects With Mild to Moderate Atopic Dermatitis",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-03-25",
+      "completion_date": "2026-07",
+      "country": "Italy",
+      "enrollment": 98,
+      "brief_summary": "This is an open-label, randomised, comparative, prospective, interventional study of a cosmetic product.",
+      "eligibility_criteria": "Inclusion criteria:\n\nSubjects with clinically confirmed mild-to-moderate atopic dermatitis (AD), as defined by an Eczema Area and Severity Index (EASI) score of 1-21, whose lesions will clear after treatment with a steroid and who will experience at least a 90% reduction in their EASI score.\n\n\\- Par",
+      "endpoints": [
+        "Changes in EASI score"
+      ],
+      "sponsor": "Societa Italiana di Dermatologia Medica, Chirurgica, Estetica e di Malattie Sessualmente Trasmesse",
+      "url": "https://clinicaltrials.gov/study/NCT07204561"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06636240",
+      "title": "Study on the Potential Prebiotic Effects and Gut Microbiota Changes of Glucoside-enriched Mulberry Fruit in Children and Adolescents With Atopic Dermatitis",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-03-17",
+      "completion_date": "2026-04-30",
+      "country": "Taiwan",
+      "enrollment": 120,
+      "brief_summary": "This project proposes a randomized controlled human study to explore the prebiotic effects of consuming mulberry juice on atopic dermatitis in children and adolescents. The study aims to investigate the potential of mulberry fruit as a human prebiotic. This human study will recruit up to 120 participants from the Taipei Medical University Hospital (commissioned by the Ministry of Health and Welfare). Participants will be divided into experimental groups and a control group, with a 3-month interv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 6 years and above (including 6 years) to less than 18 years (excluding 18 years)\n* The legal guardian has the ability to understand and is willing to sign the written informed consent document\n* Diagnosed by a physician according to the international Hanifin \\&amp; Rajka ",
+      "endpoints": [
+        "Change of Metabolism"
+      ],
+      "sponsor": "Taipei Medical University Shuang Ho Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06636240"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06448702",
+      "title": "Evaluation of Efficacy and Safety of Enhanced External Counter-pulsation on Patients With Atopic Dermatitis and Inflammatory Skin Disease Requiring Wet Wrap Therapy",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-07-03",
+      "completion_date": "2025-12-31",
+      "country": "N/A",
+      "enrollment": 40,
+      "brief_summary": "Patients with atopic dermatitis (AD) and erythematous skin disease are often treated with topical treatment containing corticosteroids. However, long term use of topical corticosteroid is well known for its potential side-effects such as skin atrophy, hirsutism, dyspigmentation, telangiectasia, and possible skin infection and iatrogenic adrenal insufficiency. Fear about medication side effects would cause lack of adherence to treatment regiments and thus patients would seek for alternative thera",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients aged between 18 to 65 years old present with atopic dermatitis or erythematous / inflammatory skin diseases attending Queen Mary Hospital dermatology clinics requiring wet-wrap therapy (WWT) will be screened for recruitment by attending dermatologist(s)\n2. Patients w",
+      "endpoints": [
+        "EECP therapy treatment should have more superior result compared to those receiving WWT alone"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT06448702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00236106",
+      "title": "Short Term Growth in Children With Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-02",
+      "completion_date": "2005-06",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "Main objective:to assess short term growth in children with atopic dermatitis during treatment with tacrolimus 0.1% and mometasone furoate 0.1%. A singl blind randomised cross over trial including 20 children. The study consists of 5 periods: run in, treatment(1),wash out, treatment(2) and run out. Each period 14 days where the children will use tacrolimus ointment tvice daily, mometasone furoate once daily or moisturizer (in run in wash out and run out)",
+      "eligibility_criteria": "Inclusion Criteria: age 5-14, atopic dermatitis, normal current growth, Tanner 1, informed consent by the parent or guardian, willing and able to comply with study procedures\n\nExclusion Criteria: Tanner 2-5, treatment of atopic dermatitis with anti-inflammatory agent within 1 week before the first v",
+      "endpoints": [
+        "short term growth during treatment compared to run in"
+      ],
+      "sponsor": "Children´s Clinic, Randers",
+      "url": "https://clinicaltrials.gov/study/NCT00236106"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01639040",
+      "title": "A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Study to Assess the Safety of REGN668 Administered Concomitantly With Topical Corticosteroids to Patients With Moderate-to-Severe Atopic Dermatitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2012-12",
+      "country": "Poland, Hungary, Germany",
+      "enrollment": 31,
+      "brief_summary": "The purpose of this study was to assess the safety of Dupilumab administered concomitantly with topical corticosteroids (TCS) in patients with moderate-to-severe atopic dermatitis (AD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female patients aged 18 years or older\n2. Chronic AD that had been present for at least 2 years\n\nExclusion Criteria:\n\n1. Prior treatment with Dupilumab\n2. Hypersensitivity to corticosteroids or to any other ingredients contained by the TCS product used in the study\n3",
+      "endpoints": [
+        "Percentage of Participants With Treatment Emergent Adverse Events (TEAEs)"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01639040"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04615962",
+      "title": "A Phase I, Multicenter, Double-Blind, Randomized Study to Evaluate the Safety and Tolerability Profile of Topical Cream SNG100 for 14 Days of Treatment in Moderate Atopic Dermatitis Subjects.",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2021-01-01",
+      "completion_date": "2022-01",
+      "country": "N/A",
+      "enrollment": 66,
+      "brief_summary": "The investigators aimed to understand better the efficacy in a randomized, double-blind, intraindividual design trial in 66 participants with AD treated with SNG100, and 2 different strengths of topical steroids hydrocortisone and the medium potent mometasone furoate cream.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females 6 years old or older with a diagnosis of moderate atopic dermatitis confirmed by a dermatologist\n2. Any child age 6 to 18 with a diagnosis of moderate atopic dermatitis confirmed by a dermatologist, together with the child's parent/guardian. Written informed ",
+      "endpoints": [
+        "Side Effects AE's and SAE's"
+      ],
+      "sponsor": "Seanergy Dermatology Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04615962"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00721331",
+      "title": "A Phase I, Single-Center, Randomized, Vehicle-Controlled Study to Assess the Safety and Tolerability of Topical CRx-197 Formulations in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2008-09",
+      "country": "Germany",
+      "enrollment": 20,
+      "brief_summary": "This will be a phase I, single center, randomized, vehicle-controlled, blinded study comparing two dosage strengths of CRx-197 cream, nortriptyline, an active comparator (0.1% mometasone) and placebo (the active ingredient free vehicle cream of CRx-197)in healthy volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must voluntarily sign and date the written Informed Consent prior to any study specific procedures\n* Subject must be 18 to 60 years of age\n* Subject must have healthy skin on which reddening can be easily recognized in the area where they will place the test fields\n* S",
+      "endpoints": [
+        "Safety and tolerability of CRx-197 as assessed by treatment emergent adverse events, physical exams, vital signs, concomitant medications/procedures and subject assessment of pruritus."
+      ],
+      "sponsor": "Zalicus",
+      "url": "https://clinicaltrials.gov/study/NCT00721331"
+    }
+  ],
+  "timestamp": "2026-03-04T13:24:42.287243",
+  "success": true,
+  "error_message": null
+}

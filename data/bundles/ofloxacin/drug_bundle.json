@@ -1,0 +1,3944 @@
+{
+  "drug": {
+    "name": "Ofloxacin",
+    "drugbank_id": "DB01165",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "paratyphoid fever",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "36420914",
+            "title": "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins.",
+            "abstract": "Typhoid and paratyphoid (enteric fever) are febrile bacterial illnesses common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends treatment with azithromycin, ciprofloxacin, or ceftriaxone due to widespread resistance to older, first-line antimicrobials. Resistance patterns vary in different locations and are changing over time. Fluoroquinolone resistance in South Asia often precludes the use of ciprofloxacin. Extensively drug-resistant strains of enteric fever have emerged in Pakistan. In some areas of the world, susceptibility to old first-line antimicrobials, such as chloramphenicol, has re-appeared. A Cochrane Review of the use of fluoroquinolones and azithromycin in the treatment of enteric fever has previously been undertaken, but the use of cephalosporins has not been systematically investigated and the optimal choice of drug and duration of treatment are uncertain.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2022",
+            "authors": [
+              "Kuehn Rebecca",
+              "Stoesser Nicole",
+              "Eyre David",
+              "Darton Thomas C",
+              "Basnyat Buddha"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Adult",
+              "Humans",
+              "Adolescent",
+              "Paratyphoid Fever",
+              "Typhoid Fever",
+              "Cephalosporins",
+              "Azithromycin",
+              "Ceftriaxone",
+              "Cefixime"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36420914/"
+          },
+          {
+            "pmid": "16271634",
+            "title": "Typhoid and paratyphoid fever.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "2005",
+            "authors": [
+              "Pandit Anil",
+              "Arjyal Amit"
+            ],
+            "pub_types": [
+              "Comment",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Anti-Infective Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Multiple, Bacterial",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Nalidixic Acid",
+              "Nepal",
+              "Ofloxacin",
+              "Salmonella enterica"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16271634/"
+          },
+          {
+            "pmid": "21975746",
+            "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+            "abstract": "Typhoid and paratyphoid are febrile illnesses, due to a bacterial infection, which remain common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends the fluoroquinolone antibiotics in areas with known resistance to the older first-line antibiotics.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2011",
+            "authors": [
+              "Effa Emmanuel E",
+              "Lassi Zohra S",
+              "Critchley Julia A",
+              "Garner Paul",
+              "Sinclair David"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Fluoroquinolones",
+              "Humans",
+              "Norfloxacin",
+              "Paratyphoid Fever",
+              "Randomized Controlled Trials as Topic",
+              "Treatment Outcome",
+              "Typhoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21975746/"
+          },
+          {
+            "pmid": "11197787",
+            "title": "Oral administration of fluoroquinolones in the treatment of typhoid fever and paratyphoid fever in Japan.",
+            "abstract": "To study the adverse reactions and therapeutic effects of fluoroquinolones to investigate whether they can be used for the treatment of patients with typhoid fever and paratyphoid fever.",
+            "journal": "Internal medicine (Tokyo, Japan)",
+            "year": "2000",
+            "authors": [
+              "Ohnishi K",
+              "Kimura K",
+              "Masuda G",
+              "Tsunoda T",
+              "Obana M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Aged",
+              "Anti-Infective Agents",
+              "Drug Evaluation",
+              "Female",
+              "Fluoroquinolones",
+              "Humans",
+              "Japan",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11197787/"
+          },
+          {
+            "pmid": "11022153",
+            "title": "[Typhoid and paratyphoid fever in adults in the Internal Medicine Department at Libreville (Gabon)].",
+            "abstract": "We carried out a retrospective study of 150 files of patients suffering from typhoid or paratyphoid fever, confirmed bacteriologically, between January 1992 and December 1996 at Libreville. Young adults were the most frequently affected. These infections were associated with unstable living conditions and lack of cleanliness. Neurological (17%), digestive (12%) and cardiovascular (3%) complications were the principal factors aggravating the disease. The following serotypes were identified: Salmonella typhi (47%), S. paratyphi B (25%), S. paratyphi C (20%) and S. paratyphi A (8%). Salmonellosis was associated with schistosomiasis (13%), nematodiasis (2.3%), sickle-cell anemia (7%) and HIV infection (8%). The mortality rate was 3.3%. Fluoroquinolones are the molecules of choice for treating typhoid and paratyphoid fevers.",
+            "journal": "Sante (Montrouge, France)",
+            "year": "2000",
+            "authors": [
+              "Okome-Nkoumou M",
+              "Ayo Nkana E",
+              "Békalé J",
+              "Kombila M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Age Factors",
+              "Anti-Bacterial Agents",
+              "Cefotaxime",
+              "Cephalosporins",
+              "Chloramphenicol",
+              "Drug Resistance, Microbial",
+              "Female",
+              "Gabon"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11022153/"
+          },
+          {
+            "pmid": "17337835",
+            "title": "Paratyphoid sepsis.",
+            "abstract": "A large for gestational age male baby was born to a healthy young primigravida, on L-thyroxime, at 40 weeks by caesarean delivery in a tertiary care hospital. The baby had episodes of hypoglycemia during his immediate four postnatal days in the nursery that were successfully managed with intravenous glucose administration. The baby became unwell on day 5 and had a positive sepsis-screening test. Blood culture revealed a multidrug susceptible S. Paratyphi A strain, which he probably acquired on the first or second postnatal day from the contaminated expressed breast milk or the formula feed.",
+            "journal": "Indian journal of pediatrics",
+            "year": "2007",
+            "authors": [
+              "Randhawa V S",
+              "Kumar Ajay",
+              "Saili Arvind",
+              "Datta Vikram",
+              "Agrawal Charu"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Amikacin",
+              "Anti-Bacterial Agents",
+              "Bottle Feeding",
+              "Breast Feeding",
+              "Cesarean Section",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "India"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17337835/"
+          },
+          {
+            "pmid": "38196224",
+            "title": "Burden of enteric fever and antibiotic sensitivity in Nepalese Children Prior to Typhoid Vaccine in National Immunization Program.",
+            "abstract": "Enteric fever is a major public health problem in developing and under developed countries. Case fatality rate without treatment is 10-30% and with appropriate treatment is only 1-4%. Gold standard for diagnosis is isolation of Salmonella enterica from blood or bone marrow. Antibiotics resistance is skyrocketing with emergence of multidrug resistance S. typhi and extensively drug resistant S. typhi.",
+            "journal": "Journal of Nepal Health Research Council",
+            "year": "2023",
+            "authors": [
+              "Chapagain Ram Hari",
+              "Adhikari Santosh",
+              "Bhattarai Tribhuwan",
+              "Basaula Yubanidhi",
+              "Bhattarai Srijana"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Humans",
+              "Child, Preschool",
+              "Anti-Bacterial Agents",
+              "Typhoid Fever",
+              "Typhoid-Paratyphoid Vaccines",
+              "Azithromycin",
+              "Cefixime",
+              "Ceftriaxone",
+              "Nalidixic Acid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38196224/"
+          },
+          {
+            "pmid": "20955459",
+            "title": "Immunological, antioxidative, and morphological response in combined treatment of ofloxacin and Lactobacillus fermentum ME-3 probiotic in Salmonella Typhimurium murine model.",
+            "abstract": "We aimed to elucidate the immunological (cytokines), biochemical (antioxidative), and patho-morphological responses in the gut and liver evoked by the addition of Lactobacillus fermentum ME-3 to ofloxacin (OFX) treatment in an experimental infection model of Salmonella enterica serovar Typhimurium. After challenge with S. Typhimurium and treatment according to different schemes, either with OFX and/or addition of L. fermentum ME-3, the mice were killed. Blood, liver, spleen, and small intestine samples were plated to detect S. Typhimurium and lactobacilli. Histological slides were prepared from the liver and ileum. The cytokines (IL-10, IFN-γ, and TNF-α), the glutathione peroxidase and reductase, the glutathione ratio, and the lipid peroxides (LPO) in mucosa of the small intestine and liver were estimated. The addition of L. fermentum ME-3 to OFX increased the eradication of S. Typhimurium from tested sites because of antagonistic and antioxidative properties, reduced the presence of t",
+            "journal": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+            "year": "2010",
+            "authors": [
+              "Truusalu Kai",
+              "Kullisaar Tiiu",
+              "Hütt Pirje",
+              "Mahlapuu Riina",
+              "Aunapuu Marina"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Cytokines",
+              "Disease Models, Animal",
+              "Glutathione Peroxidase",
+              "Glutathione Reductase",
+              "Immunohistochemistry",
+              "Intestine, Small",
+              "Limosilactobacillus fermentum",
+              "Lipid Peroxides"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20955459/"
+          },
+          {
+            "pmid": "18383953",
+            "title": "Current pattern of enteric fever: a prospective clinical and microbiological study.",
+            "abstract": "A prospective clinical and microbiological study was conducted in 145 blood culture positive cases of enteric fever below the age of 18 years over a period of eleven months (June 2004 to April 2005). It aimed to study the clinical profile, the relative magnitude of enteric fever in children, especially in those below the age of two years and to determine the current antibiotic sensitivity pattern of Salmonella typhi and S paratyphi. Enteric fever is a significant problem in the preschool years. Sixty-five per cent of cases were in the age group of 2 to 9 years, 27% in 0-5 years and 13% in age group 0-2 years. Ninety-two per cent of the cases were caused by S typhi. Paratyphoid fever is less common (8%), when occurs is caused by S paratyphi A. In-vitro sensitivity, using the Bauer-Kirby agar disc diffusion method, to ceftriaxone was 99%, cefixime-99%, cefotaxime-99%, cefpodoxime-72%, cefoperazone-93%, among quinolones, ciprofloxacin-95%, ofloxacin-83%, norfloxacin-79%. Sensitivity to th",
+            "journal": "Journal of the Indian Medical Association",
+            "year": "2007",
+            "authors": [
+              "Verma Madhoolika",
+              "Parashar Yogesh",
+              "Singh Anuradha",
+              "Kamoji Ravi"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Cephalosporins",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Infant",
+              "Male",
+              "Prospective Studies",
+              "Risk Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18383953/"
+          },
+          {
+            "pmid": "19493939",
+            "title": "A comparison of fluoroquinolones versus other antibiotics for treating enteric fever: meta-analysis.",
+            "abstract": "To review evidence supporting use of fluoroquinolones as first line agents over other antibiotics for treating typhoid and paratyphoid fever (enteric fever).",
+            "journal": "BMJ (Clinical research ed.)",
+            "year": "2009",
+            "authors": [
+              "Thaver Durrane",
+              "Zaidi Anita K M",
+              "Critchley Julia",
+              "Azmatullah Asma",
+              "Madni Syed Ali"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Child, Preschool",
+              "Fluoroquinolones",
+              "Humans",
+              "Infant",
+              "Randomized Controlled Trials as Topic",
+              "Typhoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19493939/"
+          },
+          {
+            "pmid": "24884719",
+            "title": "Recurrent paratyphoid fever A co-infected with hepatitis A reactivated chronic hepatitis B.",
+            "abstract": "We report here a case of recurrent paratyphoid fever A with hepatitis A co-infection in a patient with chronic hepatitis B. A 26-year-old male patient, who was a hepatitis B virus carrier, was co-infected with Salmonella enterica serovar Paratyphi A and hepatitis A virus. The recurrence of the paratyphoid fever may be ascribed to the coexistence of hepatitis B, a course of ceftriaxone plus levofloxacin that was too short and the insensitivity of paratyphoid fever A to levofloxacin. We find that an adequate course and dose of ceftriaxone is a better strategy for treating paratyphoid fever. Furthermore, the co-infection of paratyphoid fever with hepatitis A may stimulate cellular immunity and break immunotolerance. Thus, the administration of the anti-viral agent entecavir may greatly improve the prognosis of this patient with chronic hepatitis B, and the episodes of paratyphoid fever and hepatitis A infection prompt the use of timely antiviral therapy.",
+            "journal": "Annals of clinical microbiology and antimicrobials",
+            "year": "2014",
+            "authors": [
+              "Liu Yanling",
+              "Xiong Yujiao",
+              "Huang Wenxiang",
+              "Jia Bei"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Ceftriaxone",
+              "Coinfection",
+              "Drug Resistance, Bacterial",
+              "Hepatitis A",
+              "Hepatitis A virus",
+              "Hepatitis B, Chronic",
+              "Humans",
+              "Levofloxacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24884719/"
+          },
+          {
+            "pmid": "8361412",
+            "title": "[Ofloxacin treatment of salmonella infections].",
+            "abstract": "In the present study, 33 adult patients with salmonella infections consisting of 13 typhoid fever, 9 paratyphoid fever, 8 enterocolitis, 2 carriers, 1 acute gastroenteritis have been treated with ofloxacin. The duration of treatment was 10 days for typhoid fever, 7 days for paratyphoid fever, 5 days for enterocolitis, 3 days for acute gastroenteritis and 7 days for asymptomatic carriers. All the patients recovered without any complication and fever declined to normal levels within a mean of 3.0 +/- 1.34 days. Two carriers of S. enteritidis became salmonella free after 7 days of ofloxacin treatment. One of the patients who had severe S. paratyphi B bacteremia remained carrier for about 6 months. None of the patients have relapsed. The antibiotic therapy proposals on salmonella in adults were discussed in the light of our results and the other studies.",
+            "journal": "Mikrobiyoloji bulteni",
+            "year": "1993",
+            "authors": [
+              "Unlü S",
+              "Arman D",
+              "Altay G"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Carrier State",
+              "Humans",
+              "Ofloxacin",
+              "Paratyphoid Fever",
+              "Salmonella Food Poisoning",
+              "Salmonella Infections",
+              "Treatment Outcome",
+              "Typhoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8361412/"
+          },
+          {
+            "pmid": "3102387",
+            "title": "Ofloxacin, a new quinolone in the treatment of genitourinary and enteric infections.",
+            "abstract": "During 1984 to 1986, 121 patients with gonorrhoea were treated with ofloxacin. This report is to summarize the results of our trial in patients treated with three different dose regimens of ofloxacin: A) a single 800 mg dose of ofloxacin (32 patients); B) a single 400 mg dose of ofloxacin (55 patients) or C) a twice a day dose of 600 mg ofloxacin (34 patients). In addition, 19 patients with urinary tract infection and eight patients with enteric fever were treated with 400 mg ofloxacin twice a day for seven to ten days. Out of 121 patients with gonococcal urethritis, only 107 patients were evaluable. Cure was obtained in 96.5%; 93.2% and 94.5% of the patients in groups A, B and C respectively. 16 out of 17 patients with urinary tract infection achieved clinical cure or improvement. The 16 patients were bacteriologically accessible; pathogens were eradicated in all of them. Ofloxacin was also effective in the treatment of enteric fever, in which eradication was achieved in all seven pat",
+            "journal": "Infection",
+            "year": "1986",
+            "authors": [
+              "Tanphaichitra D",
+              "Sahaphong S",
+              "Srimuang S"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Anti-Infective Agents",
+              "Female",
+              "Gonorrhea",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Ofloxacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3102387/"
+          },
+          {
+            "pmid": "26905550",
+            "title": "Frequency of Blood Culture Isolates and their Antibiogram in a Teaching hospital.",
+            "abstract": "Bloodstream infections are associated with significant patient morbidity and mortality. Antimicrobial susceptibility patterns should guide the choice of empiric antimicrobial regimens for patients with bacteremia.",
+            "journal": "JNMA; journal of the Nepal Medical Association",
+            "year": "2014",
+            "authors": [
+              "Shrestha Subha",
+              "Amatya Ritu",
+              "Shrestha Raj Kumari",
+              "Shrestha Rajiv"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Bacteremia",
+              "Child",
+              "Child, Preschool",
+              "Drug Resistance, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26905550/"
+          },
+          {
+            "pmid": "28948961",
+            "title": "Pefloxacin as a surrogate marker for quinolone susceptibility in Salmonella enterica serovars Typhi & Paratyphi A in India.",
+            "abstract": "The emergence of resistance to fluoroquinolones in enteric fever despite the pathogen being susceptible by in vitro laboratory results, led to repeated changes in Clinical and Laboratory Standard Institute (CLSI) guidelines for this class of antibiotics to have specific and sensitive interpretative criteria. In 2015, CLSI added pefloxacin disk diffusion criteria as a surrogate marker for fluoroquinolone susceptibility. This study was carried out to evaluate the use of pefloxacin as a surrogate marker for ciprofloxacin, ofloxacin and levofloxacin susceptibility in clinical isolates of Salmonella Typhi and S. Paratyphi A.",
+            "journal": "The Indian journal of medical research",
+            "year": "2017",
+            "authors": [
+              "Sharma Priyanka",
+              "Dahiya Sushila",
+              "Kumari Bhavana",
+              "Balaji Veeraraghavan",
+              "Sood Seema"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Biomarkers",
+              "Drug Resistance, Bacterial",
+              "Humans",
+              "Mutation",
+              "Paratyphoid Fever",
+              "Pefloxacin",
+              "Salmonella enterica",
+              "Salmonella paratyphi A"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28948961/"
+          },
+          {
+            "pmid": "27407999",
+            "title": "Reemergence of Chloramphenicol Sensitivity in Enteric Fever.",
+            "abstract": "Enteric fever is a global health problem and rapidly developing resistance to various drugs makes the situation more alarming. Drug sensitivity in Salmonella enterica serovar typhi and Salmonella enterica serovar paratyphi A isolated from 45 blood culture positive cases of enteric fever was tested to determine in-vitro susceptibility pattern of prevalent strains in northern India.",
+            "journal": "Medical journal, Armed Forces India",
+            "year": "2007",
+            "authors": [
+              "Bhatia J K",
+              "Mathur A D",
+              "Arora M M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27407999/"
+          },
+          {
+            "pmid": "29016327",
+            "title": "Molecular and Clinical Epidemiology of Salmonella Paratyphi A Isolated from Patients with Bacteremia in Nepal.",
+            "abstract": "Little is known about the epidemiology of typhoid and paratyphoid fever in Nepal. We aimed to elucidate the molecular and clinical epidemiology of Salmonella Paratyphi A in Nepal. Isolates were collected from 23 cases of bacteremia due to S. Paratyphi A between December 2014 and October 2015. Thirteen patients (57%) were male, and the median age was 21 years. None of the patients had an underlying chronic disease. All S. Paratyphi A isolates were sensitive to ampicillin, trimethoprim/sulfamethoxazole, ceftriaxone, and chloramphenicol. All isolates were resistant to nalidixic acid and were categorized as intermediately susceptible to levofloxacin. Phylogenetic analysis revealed close relatedness among the isolates, including several clonal groups, suggesting local spread. Patients with bacteremia due to S. Paratyphi A in Kathmandu, Nepal, were relatively young and nondebilitated. Improving control of S. Paratyphi infections should focus on effective infection control measures and select",
+            "journal": "The American journal of tropical medicine and hygiene",
+            "year": "2017",
+            "authors": [
+              "Sherchan Jatan Bahadur",
+              "Morita Masatomo",
+              "Matono Takashi",
+              "Izumiya Hidemasa",
+              "Ohnishi Makoto"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Ampicillin",
+              "Anti-Bacterial Agents",
+              "Bacteremia",
+              "Ceftriaxone",
+              "Chloramphenicol",
+              "Drug Resistance, Multiple, Bacterial",
+              "Humans",
+              "Male",
+              "Microbial Sensitivity Tests",
+              "Molecular Epidemiology"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29016327/"
+          },
+          {
+            "pmid": "2113941",
+            "title": "Experience with ofloxacin in enteric fever.",
+            "abstract": "Ofloxacin 200 mg b.i.d. for 8 days was employed in 28 patients with enteric fever with a positive blood culture. All patients were cured clinically and bacteriologically. The fever subsided within a mean of 3.1 days (range 1.6.5.3). No relapse, clinical or bacteriological, was observed when patients were followed up for 12 weeks.",
+            "journal": "Journal of chemotherapy (Florence, Italy)",
+            "year": "1990",
+            "authors": [
+              "Sabbour M S",
+              "Osman L M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Adult",
+              "Clinical Trials as Topic",
+              "Drug Administration Schedule",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Ofloxacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2113941/"
+          },
+          {
+            "pmid": "17965350",
+            "title": "In vitro activity of azithromycin, newer quinolones and cephalosporins in ciprofloxacin-resistant Salmonella causing enteric fever.",
+            "abstract": "The therapeutic alternatives available for use against ciprofloxacin-resistant enteric fever isolates in an endemic area are limited. The antibiotics currently available are the quinolones, third-generation cephalosporins and conventional first-line drugs. In this study, the MICs of various newer drugs were determined for 31 ciprofloxacin-resistant enteric fever isolates (26 Salmonella enterica serovar Typhi and 5 S. enterica serovar Paratyphi A). MICs for ciprofloxacin, ofloxacin, gatifloxacin, levofloxacin, cefotaxime, cefixime, cefepime and azithromycin were determined using Etest strips and the agar dilution method. By Etest, all of the ciprofloxacin-resistant isolates had ciprofloxacin MICs >/=32 mug ml(-1). S. Typhi showed MIC(90) values of 0.50, 0.25 and 0.38 mug ml(-1) for cefixime, cefotaxime and cefepime, respectively. For the cephalosporins, a negligible difference in MIC(90) and MIC(50) values for S. Typhi and S. Paratyphi A was observed. A single isolate of S. Typhi showed",
+            "journal": "Journal of medical microbiology",
+            "year": "2007",
+            "authors": [
+              "Capoor Malini R",
+              "Rawat Deepti",
+              "Nair Deepthi",
+              "Hasan Azra S",
+              "Deb Monorama"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Cephalosporins",
+              "Drug Resistance, Bacterial",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Paratyphoid Fever",
+              "Quinolones",
+              "Salmonella paratyphi A",
+              "Salmonella typhi"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17965350/"
+          },
+          {
+            "pmid": "16978898",
+            "title": "Multidrug-resistant and extended-spectrum beta-lactamase (ESBL)-producing Salmonella enterica (serotypes Typhi and Paratyphi A) from blood isolates in Nepal: surveillance of resistance and a search for newer alternatives.",
+            "abstract": "We evaluated the prevalence of multidrug resistance (MDR) and production of extended spectrum beta-lactamase (ESBL) by Salmonella enterica (serotypes Typhi and Paratyphi A) in a teaching hospital in Nepal. The MDR strains of S. enterica were also tested for susceptibility to newer antibiotics.",
+            "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+            "year": "2006",
+            "authors": [
+              "Pokharel Bharat M",
+              "Koirala Janak",
+              "Dahal Rajan K",
+              "Mishra Shyam K",
+              "Khadga Prem K"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacteremia",
+              "Carbapenems",
+              "Cephalosporins",
+              "Drug Resistance, Multiple, Bacterial",
+              "Fluoroquinolones",
+              "Hospitals, Teaching",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Nepal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16978898/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "diarrheal disease",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01618591",
+            "title": "A Randomized, Double-Blind, Clinical Trial Evaluating Three Single Dose Regimens With Loperamide for Treatment of Ambulatory Watery Travelers' Diarrhea, and Azithromycin With and Without Loperamide for Treatment of Ambulatory Dysentery/Febrile Diarrhea",
+            "phase": "NA",
+            "status": "TERMINATED",
+            "start_date": "2012-09",
+            "completion_date": "2016-03",
+            "country": "Thailand, Honduras, Djibouti, Afghanistan, Kenya",
+            "enrollment": 384,
+            "brief_summary": "The purpose of the trial is to develop the evidence on relative efficacy of 3 available single-dose loperamide adjuncted regimens for watery diarrhea and a single-dose regimen, with and without loperamide, for dysentery/febrile diarrhea required for informing decisions among these regimens. Information from this study will be used to develop management guidelines for the diagnosis and management of travelers' diarrhea (TD) among deployed United States and United Kingdom military personnel.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Active duty military or military beneficiary, 18 years-old or older.\n2. Presence of acute diarrhea (3 or more stools in 24 hours or 2 or more stools in 24 hours and associated symptoms such as nausea, vomiting, abdominal cramps or tenesmus) and \\<96 hours duration.\n3. Eligibl",
+            "endpoints": [
+              "Clinical Cure - Acute Watery Diarrhea group",
+              "Clinical Cure - Acute Dysentery/Febrile Diarrhea group"
+            ],
+            "sponsor": "Uniformed Services University of the Health Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT01618591"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07399717",
+            "title": "Assessing Role of Probiotics in Children Aged 6-36 Months Treated for Pneumonia at Phu Tho Provincial Obstetrics and Pediatrics Hospitals Within 2026-2027",
+            "phase": "NA",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-01-26",
+            "completion_date": "2027-12-30",
+            "country": "Vietnam",
+            "enrollment": 330,
+            "brief_summary": "The main questions this study aims to answer are:\n\n* Does using probiotic nasal spray (LiveSpo Navax containing Bacillus subtilis and Bacillus clausii, 1x10\\^9 CFU/mL), with or without oral probiotics (LiveSpo Pregmom containing Bacillus subtilis, Bacillus clausii, and Bacillus coagulans, 3x10\\^9 CFU/5 mL), help children recover better from pneumonia when added to standard medical treatment?\n* Does using these adjunctive probiotics support reduce the recurrence of respiratory and gastrointestina",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Children (male/female) aged 6-36 months diagnosed and hospitalized for treatment for pneumonia.\n* Parents or guradians of the children agree to participate in the study, explain, and sign the research consent form.\n\nExclusion Criteria:\n\n* Children who need ventilator support.\n",
+            "endpoints": [
+              "Number of days with typical clinical symptoms of pneumonia",
+              "Number of days of inpatient treatment"
+            ],
+            "sponsor": "Anabio R&D",
+            "url": "https://clinicaltrials.gov/study/NCT07399717"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "31778196",
+            "title": "Deployment Infectious Disease Threats: IDCRP Initiatives and Vision Forward.",
+            "abstract": "Infectious diseases pose a significant threat to health and readiness of military personnel deployed globally during wartime and peacekeeping activities. Surveillance and improvement in mitigation through research of infectious disease threats remain an integral part of Force Health Protection. Herein, we review research efforts of the Infectious Disease Clinical Research Program related to deployment and travel-related infections.",
+            "journal": "Military medicine",
+            "year": "2019",
+            "authors": [
+              "Lalani Tahaniyat",
+              "Fraser Jamie",
+              "Riddle Mark S",
+              "Gutierrez Ramiro L",
+              "Hickey Patrick W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Clinical Laboratory Techniques",
+              "Communicable Diseases",
+              "Humans",
+              "Incidence",
+              "Military Medicine",
+              "Travel Medicine",
+              "United States",
+              "Warfare"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31778196/"
+          },
+          {
+            "pmid": "38364524",
+            "title": "Antimicrobial resistance spectrum and virulence characterization of Escherichia coli, Klebsiella pneumoniae and Proteus mirabilis isolated from asymptomatic and diarrheal rhesus monkeys.",
+            "abstract": "This study aims to deepen our understanding of the drug resistance and virulence characterization among gut bacteria in asymptomatic and diarrheal captive rhesus macaques (RMs). A total of 31 samples, including 8 asymptomatic RMs, 10 diarrheal RMs, and 1 dead RM, were collected from a breeding base in Sichuan, China, for bacterial isolation. As a result, Escherichia coli (n = 23), Klebsiella (n = 22), Proteus mirabilis (n = 10), Enterococcus (n = 10), Salmonella (n = 2), and Staphylococcus (n = 2) were isolated. All isolates were subjected to antimicrobial susceptibility testing and whole-genome sequencing, among which some E. coli, K. pneumoniae, and P. mirabilis were subjected to the Galleria mellonella and mice infection testing. The antimicrobial resistance rates of levofloxacin, enrofloxacin, and cefotaxime in diarrhea-associated isolates were higher than those of asymptomatic isolates. Consistent with the antimicrobial resistance phenotype, diarrheal isolates had a higher prevale",
+            "journal": "Microbiological research",
+            "year": "2024",
+            "authors": [
+              "Wu Jie",
+              "Zhou Quan",
+              "Qi Haoxuan",
+              "Lan Weiqi",
+              "Yang Shujian"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Mice",
+              "Klebsiella pneumoniae",
+              "Escherichia coli",
+              "Anti-Bacterial Agents",
+              "Macaca mulatta",
+              "Proteus mirabilis",
+              "Virulence",
+              "Drug Resistance, Bacterial",
+              "Diarrhea"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38364524/"
+          },
+          {
+            "pmid": "29183395",
+            "title": "Serotyping and antibiotic susceptibility patterns of Vibrio and Shigella isolates from diarrheal patients visiting a Tropical and Infectious Diseases Hospital in central Nepal.",
+            "abstract": "Diarrheal diseases are the major infectious disease in developing countries like Nepal. Lack of proper sanitation and antimicrobial resistance gained by microbes have challenged to address diarrheal diseases in resource-limited countries. Early diagnosis of disease and proper antibiotic treatment can significantly reduce the disease burden. This study was designed to determine the recent antimicrobial susceptibility pattern of Vibrio cholerae and Shigella spp. to assure the proper antibiotic treatment. Stool specimens were processed following microbiological protocol and identified by biochemical and serological tests recommended by the Clinical Laboratory Standard Institute.",
+            "journal": "BMC research notes",
+            "year": "2017",
+            "authors": [
+              "Maharjan Sujan",
+              "Rayamajhee Binod",
+              "Shreshtha Anima",
+              "Acharya Jyoti"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Diarrhea",
+              "Drug Resistance, Bacterial",
+              "Hospitals, Special",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Nepal",
+              "Serotyping",
+              "Shigella",
+              "Vibrio"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29183395/"
+          },
+          {
+            "pmid": "24844559",
+            "title": "Molecular subtyping and antimicrobial susceptibilities of Campylobacter coli isolates from diarrheal patients and food-producing animals in China.",
+            "abstract": "The aim of this study was to determine the molecular subtyping and antimicrobial susceptibility characteristics of Campylobacter coli isolates from different sources in China. One hundred thirteen C. coli isolates were subtyped by pulsed-field gel electrophoresis (PFGE), multilocus sequence typing (MLST), and porA and flaA short variable region (SVR) nucleotide sequences. Cluster analysis was performed based on the PFGE and sequence types (ST). Eighty-four PFGE patterns (SmaI) were observed in 113 isolates. Fifty-four STs (28 novel) and three clonal complexes (CC), 86% of which were clustered to CC828, were observed, as well as 52 porA and 37 flaA-SVR sequence alleles. MLST, porA, and flaA-SVR analysis demonstrated that many isolates from diarrheal patients shared identical genotypes with chicken isolates. Minimum inhibitory concentration values of 10 antibiotics were analyzed for 109 isolates isolated in 2011 using the E-test method. The most frequently observed resistance agents were",
+            "journal": "Foodborne pathogens and disease",
+            "year": "2014",
+            "authors": [
+              "Zhang Maojun",
+              "Liu Xiayang",
+              "Xu Xuebin",
+              "Gu Yixin",
+              "Tao Xiaoxia"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Alleles",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Bacterial Proteins",
+              "Bacterial Typing Techniques",
+              "Campylobacter coli",
+              "Chickens",
+              "China",
+              "Cloning, Molecular",
+              "Cluster Analysis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24844559/"
+          },
+          {
+            "pmid": "28885920",
+            "title": "Antibiotic Therapy for Acute Watery Diarrhea and Dysentery.",
+            "abstract": "Diarrheal disease affects a large proportion of military personnel deployed to developing countries, resulting in decreased job performance and operational readiness. Travelers' diarrhea is self-limiting and generally resolves within 5 days; however, antibiotic treatment significantly reduces symptom severity and duration of illness. Presently, azithromycin is the preferred first-line antibiotic for the treatment of acute watery diarrhea (single dose 500 mg), as well as for febrile diarrhea and dysentery (single dose 1,000 mg). Levofloxacin and ciprofloxacin are also options for acute watery diarrhea (single dose 500 mg and 750 mg, respectively) and febrile diarrhea/dysentery in areas with high rates of Shigella (500 mg once for 3 days [once daily with levofloxacin and twice daily with ciprofloxacin]), but are becoming less effective because of increasing fluoroquinolone resistance, particularly among Campylobacter spp. Another alternate for acute watery diarrhea is rifaximin (200 mg 3",
+            "journal": "Military medicine",
+            "year": "2017",
+            "authors": [
+              "Tribble David R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Ciprofloxacin",
+              "Developing Countries",
+              "Diarrhea",
+              "Dysentery",
+              "Humans",
+              "Levofloxacin",
+              "Military Personnel",
+              "Rifamycins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28885920/"
+          },
+          {
+            "pmid": "35731948",
+            "title": "Pharmacokinetic-Pharmacodynamic Determinants of Clinical Outcomes for Rifampin-Resistant Tuberculosis: A Multisite Prospective Cohort Study.",
+            "abstract": "Rifampin-resistant and/or multidrug-resistant tuberculosis (RR/MDR-TB) treatment requires multiple drugs, and outcomes remain suboptimal. Some drugs are associated with improved outcome. It is unknown whether particular pharmacokinetic-pharmacodynamic relationships predict outcome.",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2023",
+            "authors": [
+              "Heysell Scott K",
+              "Mpagama Stellah G",
+              "Ogarkov Oleg B",
+              "Conaway Mark",
+              "Ahmed Shahriar"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Antitubercular Agents",
+              "Rifampin",
+              "Pyrazinamide",
+              "Prospective Studies",
+              "Clofazimine",
+              "Tuberculosis, Multidrug-Resistant",
+              "Tuberculosis, Pulmonary",
+              "Mycobacterium tuberculosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35731948/"
+          },
+          {
+            "pmid": "31061152",
+            "title": "Fluoroquinolones in Drug-Resistant Tuberculosis: Culture Conversion and Pharmacokinetic/Pharmacodynamic Target Attainment To Guide Dose Selection.",
+            "abstract": "Fluoroquinolones are group A drugs in tuberculosis guidelines. We aim to compare the culture conversion between new-generation (levofloxacin and moxifloxacin) and old-generation (ciprofloxacin and ofloxacin) fluoroquinolones, develop pharmacokinetic models, and calculate target attainment for levofloxacin and moxifloxacin. We included three U.S. tuberculosis centers. Patients admitted between 1984 and 2015, infected with drug-resistant tuberculosis, and who had received fluoroquinolones for ≥28 days were included. Demographics, sputum cultures and susceptibility, treatment regimens, and serum concentrations were collected. A time-to-event analysis was conducted, and Cox proportional hazards model was used to compare the time to culture conversion. Using additional data from ongoing studies, pharmacokinetic modelling and Monte Carlo simulations were performed to assess target attainment for different doses. Overall, 124 patients received fluoroquinolones. The median age was 40 years, an",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2019",
+            "authors": [
+              "Al-Shaer Mohammad H",
+              "Alghamdi Wael A",
+              "Alsultan Abdullah",
+              "An Guohua",
+              "Ahmed Shahriar"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Antitubercular Agents",
+              "Ciprofloxacin",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Fluoroquinolones",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31061152/"
+          },
+          {
+            "pmid": "17620240",
+            "title": "Emergence and control of fluoroquinolone-resistant, toxin A-negative, toxin B-positive Clostridium difficile.",
+            "abstract": "Clostridium difficile is a major cause of infectious diarrhea in hospitalized patients. Between August 2003 and January 2004, we experienced an increase in the incidence of C. difficile-associated disease. We describe the investigation into and management of the outbreak in this article.",
+            "journal": "Infection control and hospital epidemiology",
+            "year": "2007",
+            "authors": [
+              "Drudy Denise",
+              "Harnedy Norma",
+              "Fanning Seamus",
+              "Hannan Margaret",
+              "Kyne Lorraine"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Bacterial Proteins",
+              "Bacterial Toxins",
+              "Clindamycin",
+              "Clostridioides difficile",
+              "Cross Infection",
+              "Disease Outbreaks",
+              "Drug Resistance, Bacterial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17620240/"
+          },
+          {
+            "pmid": "37107131",
+            "title": "Phenotypic and Genotypic Characteristics of Antimicrobial Resistance in Citrobacter freundii Isolated from Domestic Ducks (Anas platyrhynchos domesticus) in Bangladesh.",
+            "abstract": "Antimicrobial resistance (AMR) in Citrobacter freundii poses a serious challenge as this species is one of the sources of nosocomial infection and causes diarrheal infections in humans. Ducks could be the potential source of multidrug-resistant (MDR) C. freundii; however, AMR profiles in C. freundii from non-human sources in Bangladesh have remained elusive. This study aimed to detect C. freundii in domestic ducks (Anas platyrhynchos domesticus) in Bangladesh and to determine their phenotypic and genotypic antibiotic susceptibility patterns. A total of 150 cloacal swabs of diseased domestic ducks were screened using culturing, staining, biochemical, polymerase chain reaction (PCR), and matrix-assisted laser desorption/ionization time-of-flight (MALDI-TOF) to detect C. freundii. Phenotypic and genotypic antibiotic susceptibility patterns were done by the disk diffusion method and PCR, respectively. In total, 16.67% (25/150) of the samples were positive for C. freundii. C. freundii isola",
+            "journal": "Antibiotics (Basel, Switzerland)",
+            "year": "2023",
+            "authors": [
+              "Ahmed Tarana",
+              "Islam Md Saiful",
+              "Haider Najmul",
+              "Elton Linzy",
+              "Hasan Badrul"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37107131/"
+          },
+          {
+            "pmid": "1319301",
+            "title": "In vitro activity of lomefloxacin and other antimicrobials against bacterial enteritis pathogens.",
+            "abstract": "Lomefloxacin is a new, difluoroquinolone. In this study, the in vitro activity of lomefloxacin against clinical isolates of a variety of bacterial species associated with acute diarrheal disease was determined and compared with that of ciprofloxacin, ofloxacin, amoxicillin, sulphamethoxazole, trimethoprim, tetracycline, and chloramphenicol. Bacterial isolates were obtained from different geographical areas, including Western Europe and the United Kingdom, Southern Europe, Africa, the Middle East, South and Southeast Asia, and South America, and were included to reflect the range of susceptibility seen throughout the world. Minimum inhibitory concentrations (MICs) were determined using an agar incorporation technique in Mueller-Hinton medium supplemented when necessary with saponin-lysed horse blood at a final concentration of 10% vol/vol. Lomefloxacin was highly active against all the species examined which included Salmonella spp., Shigella spp., Escherichia coli enterotoxigenic [(ETE",
+            "journal": "Diagnostic microbiology and infectious disease",
+            "year": "1992",
+            "authors": [
+              "Felmingham D",
+              "Robbins M J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacteria",
+              "Enteritis",
+              "Fluoroquinolones",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Quinolones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1319301/"
+          },
+          {
+            "pmid": "25028972",
+            "title": "Fluoroquinolone resistance mechanisms of Shigella flexneri isolated in Bangladesh.",
+            "abstract": "To investigate the prevalence and mechanisms of fluoroquinolone resistance in Shigella species isolated in Bangladesh and to compare with similar strains isolated in China.",
+            "journal": "PloS one",
+            "year": "2014",
+            "authors": [
+              "Azmi Ishrat J",
+              "Khajanchi Bijay K",
+              "Akter Fatema",
+              "Hasan Trisheeta N",
+              "Shahnaij Mohammad"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Bangladesh",
+              "Base Sequence",
+              "China",
+              "DNA Gyrase",
+              "DNA Mutational Analysis",
+              "DNA Primers",
+              "DNA Topoisomerase IV",
+              "Drug Resistance, Bacterial",
+              "Electrophoresis, Gel, Pulsed-Field",
+              "Fluoroquinolones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25028972/"
+          },
+          {
+            "pmid": "41192838",
+            "title": "Prevalence, Antimicrobial Resistance Pattern of Shigella Spp. and Assessed Their Pathogenic Potential Using the Caenorhabditis elegans Infection Model Associated with Acute Diarrheal Patients in Tangail, Bangladesh.",
+            "abstract": "Shigella infection is a leading cause of diarrheal diseases, especially in developing countries like Bangladesh, contributing significantly to morbidity and mortality. Despite its importance, data on Shigella prevalence, serotype distribution, and antimicrobial resistance (AMR) patterns remained limited. This study aimed to explore the prevalence of Shigella among patients with acute diarrhea at Tangail Medical College and Hospital, Tangail, Bangladesh, and to analyze the serogroup distribution and AMR profiles of the isolated strains. Stool samples from 96 patients with diarrhea were collected from May 2018 to December 2018 and tested for Shigella using biochemical, molecular, and serotyping methods. The isolates were further examined for antibiotic resistance. In addition, pathogenicity of Shigella spp. was assessed using Caenorhabditis elegans in a solid agar infection assay. Of the total participants, 28.1% were Shigella-positive by culture, while 5.2% and 4.15% were positive by mo",
+            "journal": "Foodborne pathogens and disease",
+            "year": "2025",
+            "authors": [
+              "Kar Antora",
+              "Ahmed Parvez",
+              "Sakib Nazmus",
+              "Shibly Abu Zaffar",
+              "Zohora Fatama Tous"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41192838/"
+          },
+          {
+            "pmid": "27393547",
+            "title": "Comparison of TaqMan(®) Array Card and MYCOTB(TM) with conventional phenotypic susceptibility testing in MDR-TB.",
+            "abstract": "Although phenotypic drug susceptibility testing (DST) is endorsed as the standard for second-line drug testing of Mycobacterium tuberculosis, it is slow and laborious.",
+            "journal": "The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease",
+            "year": "2016",
+            "authors": [
+              "Foongladda S",
+              "Banu S",
+              "Pholwat S",
+              "Gratz J",
+              "O-Thong S"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Evaluation Study",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Bangladesh",
+              "DNA Mutational Analysis",
+              "Genotype",
+              "High-Throughput Screening Assays",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Mutation",
+              "Mycobacterium tuberculosis",
+              "Oligonucleotide Array Sequence Analysis",
+              "Phenotype"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27393547/"
+          },
+          {
+            "pmid": "36523289",
+            "title": "Evaluation of the bioresistance profile of enterobacteria isolated from faeces of children with diarrhoea in the town of Koula-Moutou, Gabon: prospective study.",
+            "abstract": "the emergence and expansion of multidrug resistance in Enterobacteriaceae responsible for various infections are increasing in the world. This study was designed to determine the phenotypic profiles of the resistance of enterobacteria strains isolated from the faeces of children with diarrhoeal diseases and to classify them according to the type of resistance.",
+            "journal": "The Pan African medical journal",
+            "year": "2022",
+            "authors": [
+              "Mabika Rolande Mabika",
+              "Liabagui Sandrine Lydie Oyegue",
+              "Mounioko Franck",
+              "Souza Alain",
+              "Yala Jean Fabrice"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Enterobacteriaceae",
+              "Prospective Studies",
+              "Microbial Sensitivity Tests",
+              "Gabon",
+              "Anti-Bacterial Agents",
+              "Feces",
+              "Diarrhea"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36523289/"
+          },
+          {
+            "pmid": "25710516",
+            "title": "Quantitative drug-susceptibility in patients treated for multidrug-resistant tuberculosis in Bangladesh: implications for regimen choice.",
+            "abstract": "Multidrug-resistant tuberculosis (MDR-TB) treatment in Bangladesh is empiric or based on qualitative drug-susceptibility testing (DST) by comparative growth in culture media with and without a single drug concentration.",
+            "journal": "PloS one",
+            "year": "2015",
+            "authors": [
+              "Heysell Scott K",
+              "Ahmed Shahriar",
+              "Ferdous Sara Sabrina",
+              "Khan Md Siddiqur Rahman",
+              "Rahman S M Mazidur"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antitubercular Agents",
+              "Female",
+              "Humans",
+              "Male",
+              "Microbial Sensitivity Tests",
+              "Middle Aged",
+              "Mycobacterium tuberculosis",
+              "Tuberculosis, Multidrug-Resistant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25710516/"
+          },
+          {
+            "pmid": "28472124",
+            "title": "Performance of TaqMan array card to detect TB drug resistance on direct specimens.",
+            "abstract": "Culture based phenotypic drug susceptibility testing (DST) for Mycobacterium tuberculosis (TB) is time consuming therefore rapid genotypic methods are increasingly being utilized. We previously developed and evaluated on TB isolates a rapid genotypic TaqMan array card (TAC) that detects mutations in several resistance-associated genes using dozens of primer pairs, probes, and high resolution melt analysis, with >96% accuracy versus Sanger sequencing. In this study we examined the performance of TAC on sputum, comparing results between 71 paired sputum and TB isolates of which 62 were MDR-TB. We also adapted the TAC to include wild-type probes and broadened coverage for rpoB and gyrA mutations. TAC was 89% successful at detecting wild-type or mutations within inhA, katG, rpoB, eis, gyrA, rplC, and pncA on smear positive sputa and 33% successful on smear negative sputa. The overall accuracy of these detections as compared to the TAC results of the paired isolate was 95% ± 7 (average sens",
+            "journal": "PloS one",
+            "year": "2017",
+            "authors": [
+              "Banu Sayera",
+              "Pholwat Suporn",
+              "Foongladda Suporn",
+              "Chinli Rattapha",
+              "Boonlert Duangjai"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antitubercular Agents",
+              "Drug Resistance, Microbial",
+              "Genotype",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Mycobacterium tuberculosis",
+              "Phenotype",
+              "Reverse Transcriptase Polymerase Chain Reaction"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28472124/"
+          },
+          {
+            "pmid": "34832578",
+            "title": "Correlation of gyr Mutations with the Minimum Inhibitory Concentrations of Fluoroquinolones among Multidrug-Resistant Mycobacterium tuberculosis Isolates in Bangladesh.",
+            "abstract": "Fluoroquinolone (FQ) compounds-moxifloxacin (MOX), levofloxacin (LEV), and ofloxacin (OFL)-are used to treat multidrug-resistant tuberculosis (MDR-TB) globally. In this study, we investigated the correlation of gyr mutations among Mtb isolates with the MICs of MOX, LEV, and OFL in Bangladesh. A total of 50 MDR-TB isolates with gyr mutations, detected by the GenoType MTBDRsl assay, were subjected to drug susceptibility testing to determine the MICs of the FQs. Spoligotyping was performed to correlate the genetic diversity of the gyr mutant isolates with different MIC distributions. Among the 50 isolates, 44 (88%) had mutations in the gyrA gene, one (2%) had a mutation in the gyrB gene, and five (10%) isolates had unidentified mutations. The substitutions in the gyrA region were at A90V (n = 19, 38%), D94G (n = 16, 32%), D94A (n = 4, 8%), D94N/D94Y (n = 4, 8%), and S91P (n = 1, 2%), compared to the gyrB gene at N538D (n = 1.2%). D94G mutations showed the highest MICs for MOX, LEV, and OF",
+            "journal": "Pathogens (Basel, Switzerland)",
+            "year": "2021",
+            "authors": [
+              "Uddin Mohammad Khaja Mafij",
+              "Ather Md Fahim",
+              "Nasrin Rumana",
+              "Rahman Tanjina",
+              "Islam A S M Iftekhairul"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34832578/"
+          },
+          {
+            "pmid": "11193551",
+            "title": "[A Shigella sonnei outbreak in Nagasaki].",
+            "abstract": "We have experienced an outbreak of dysentery in Nagasaki. Shigella sonnei were positively cultured from 467 patients out of suspected 821 cases, and 346 patients were admitted. 121 patients were treated with oral antimicrobials in the outpatient clinic. Five patients were diagnosed as secondary infection. We treated a total of 96 patients in Nagasaki Municipal Medical Center, and studied the clinical and bacterial features in these 96 patients. Chief complaints included fever, abdominal pain and diarrhea. Most diarrheal patients showed waterly diarrhea and only a few were bloody (3 of 47). Treatment of levofloxacine 300 mg a day for 5 days successfully eliminated S. sonnei from all culture positive patients. An environmental surveillance revealed that water in a well at the university to which many patients were using was the origin of the infection with positive cultures of S. sonnei. No difference between the clinical and environmental isolates was observed in results on biochemical,",
+            "journal": "Kansenshogaku zasshi. The Journal of the Japanese Association for Infectious Diseases",
+            "year": "2000",
+            "authors": [
+              "Hamamoto A",
+              "Kinosita K",
+              "Suyama N",
+              "Ishii Y",
+              "Kohno S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Infective Agents",
+              "Disease Outbreaks",
+              "Dysentery, Bacillary",
+              "Humans",
+              "Japan",
+              "Levofloxacin",
+              "Ofloxacin",
+              "Shigella sonnei"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11193551/"
+          },
+          {
+            "pmid": "41599023",
+            "title": "Whole Genome Sequencing of Drug-Resistant Vibrio cholerae Serotype Ogawa from an Outbreak in Khyber Pakhtunkhwa.",
+            "abstract": "Cholera, caused by Vibrio cholerae, remains endemic in many developing countries, including Pakistan. The extensive use of antibiotics has led to the emergence of antimicrobial resistance in V. cholerae, limiting available treatment options. In this study, we performed molecular characterisation of antibiotic-resistant V. cholerae serotype Ogawa isolates from a recent cholera outbreak in Khyber Pakhtunkhwa, Pakistan.",
+            "journal": "Pathogens (Basel, Switzerland)",
+            "year": "2025",
+            "authors": [
+              "Ali Aftab",
+              "Khan Momin",
+              "Khan Taj Ali",
+              "Ahmad Sajjad",
+              "Rahman Noor"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Cholera",
+              "Disease Outbreaks",
+              "Whole Genome Sequencing",
+              "Pakistan",
+              "Anti-Bacterial Agents",
+              "Serogroup",
+              "Drug Resistance, Multiple, Bacterial",
+              "Microbial Sensitivity Tests",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41599023/"
+          },
+          {
+            "pmid": "38965187",
+            "title": "Endoscopic Ultrasound-guided Jejunocolostomy for Management of Refractory Severe Obesity in a Post-gastric Bypass Patient.",
+            "abstract": "Obesity is a complex disease process, which often requires multifactorial, patient-tailored strategies for effective management. Treatment options include lifestyle optimization, pharmacotherapy, endobariatrics, and bariatric metabolic endoscopy. Obesity-based interventions can be challenging in patient populations with severe obesity, particularly post-gastric bypass. We report the case of a non-surgical patient with a failed remote open gastric bypass, who underwent an endoscopic small bowel diversion procedure, resulting in partial caloric diversion, via the creation of an EUS-guided jejunocolostomy (EUS-JC). The procedure is an extension of prior reported EUS-guided and magnet-based small bowel bypass procedures, in this case, for the purposes of weight loss (Kahaleh et al., 1; Jonica et al. Gastrointest Endosc. 97(5):927-933, 2; Machytka et al. Gastrointest Endosc. 86(5):904-912, 3;). The procedure was performed without peri-procedural complications, with effective weight loss dur",
+            "journal": "Obesity surgery",
+            "year": "2024",
+            "authors": [
+              "Sampath Kartik",
+              "Hassan Kamal M",
+              "Dawod Enad",
+              "Mintz Michael",
+              "Abu-Hammour Mohamad-Noor"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Gastric Bypass",
+              "Obesity, Morbid",
+              "Weight Loss",
+              "Female",
+              "Treatment Outcome",
+              "Endosonography",
+              "Jejunostomy",
+              "Adult",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38965187/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "pneumonia caused by chlamydia",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "2691969",
+            "title": "[Treatment of pneumonia caused by Legionella, Mycoplasma, Chlamydiae and Rickettsia using ofloxacin].",
+            "abstract": "To asses the efficacy and the safety of ofloxacin as therapy of pneumonia caused by intracellular pathogens, 35 patients were studied (26 male, 9 female, mean age: 52.5 +/- 16.6 years). Causative pathogens were Chlamydia psittaci (n = 13), Legionella pneumophila (n = 10), Mycoplasma pneumoniae (n = 7) and Coxiella burnetii (n = 5). Ofloxacin was administered orally in 32 cases (200 mg b.i.d. in 80% of cases) and by I.V. route in 3 cases. All patients were cured without any side effects. In conclusion, ofloxacin appears, in our study, as an efficient therapy for these pneumonias. It could be considered as a valuable alternative to other antimicrobial agents with intra-cellular activity.",
+            "journal": "Pathologie-biologie",
+            "year": "1989",
+            "authors": [
+              "Leroy O",
+              "Beuscart C",
+              "Chidiac C",
+              "Sivery B",
+              "Senneville E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "English Abstract",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Female",
+              "France",
+              "Humans",
+              "Legionnaires' Disease",
+              "Male",
+              "Middle Aged",
+              "Multicenter Studies as Topic",
+              "Ofloxacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2691969/"
+          },
+          {
+            "pmid": "21504249",
+            "title": "Sitafloxacin: in bacterial infections.",
+            "abstract": "Sitafloxacin is a fluoroquinolone antibacterial with in vitro activity against a broad range of Gram-positive and -negative bacteria, including anaerobic bacteria, as well as against atypical pathogens. It is approved in Japan for use in a number of bacterial infections caused by sitafloxacin-susceptible strains of Staphylococcus spp., Streptococcus pneumoniae, other Streptococcus spp., Enterococcus spp., Moraxella catarrhalis, Escherichia coli, Citrobacter spp., Klebsiella spp., Enterobacter spp., Serratia spp., Proteus spp., Morganella morganii, Haemophilus influenzae, Pseudomonas aeruginosa, Legionella pneumophila, Peptostreptococcus spp., Prevotella spp., Porphyromonas spp., Fusobacterium spp., Chlamydia trachomatis, Chlamydophila pneumoniae and Mycoplasma pneumoniae. In terms of clinical efficacy, oral sitafloxacin was noninferior to oral levofloxacin in the treatment of community-acquired pneumonia or an infectious exacerbation of chronic respiratory tract disease, noninferior to",
+            "journal": "Drugs",
+            "year": "2011",
+            "authors": [
+              "Keating Gillian M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Bacterial Infections",
+              "Clinical Trials as Topic",
+              "Dose-Response Relationship, Drug",
+              "Drug Resistance, Bacterial",
+              "Fluoroquinolones",
+              "Humans",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21504249/"
+          },
+          {
+            "pmid": "15700690",
+            "title": "[Choice of antimicrobial drug for infections caused by Chlamydia trachomatis and Chlamydophila pneumoniae].",
+            "abstract": "Chlamydia (C.) trachomatis is the most common bacterial cause of sexually transmitted disease in the world. A well documented feature of chlamydial infection is its high rate of recurrence among sexually active populations. However, it is difficult to distinguish whether the high rate of recurrent disease is due to reinfection or to persistent infection with the same organism. Of particular concern in this era of increasing antibiotic resistance is whether persistent infection is the consequence of increasing resistance to standard antimicrobial therapy. Azithromycin and doxycycline are considered by the Centers for Disease Control and Prevention (CDC) as first line drugs for the treatment of chlamydial infections; erythromycin, ofloxacin and levofloxacin are recommended as alternative-regimen. Although C. trachomatis has been historically sensitive to these antibiotics, in vitro resistance is being increasingly reported. However, although in vitro antimicrobial resistance has been des",
+            "journal": "Acta medica Croatica : casopis Hravatske akademije medicinskih znanosti",
+            "year": "2004",
+            "authors": [
+              "Zele-Starcević Lidija",
+              "Plecko Vanda",
+              "Budimir Ana",
+              "Kalenić Smilja"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Chlamydia Infections",
+              "Chlamydia trachomatis",
+              "Chlamydophila Infections",
+              "Chlamydophila pneumoniae",
+              "Humans",
+              "Sexually Transmitted Diseases, Bacterial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15700690/"
+          },
+          {
+            "pmid": "7986006",
+            "title": "Protective effects of sparfloxacin in experimental pneumonia caused by Chlamydia pneumoniae in leukopenic mice.",
+            "abstract": "The in vivo antichlamydial activities of sparfloxacin and reference drugs were examined in a experimental model of pneumonia caused by Chlamydia pneumoniae in leukopenic mice; their in vitro activities were also examined. The most potent agents in vitro were sparfloxacin (MICs for C. pneumoniae Kajaani and IOL 207, (0.031 and 0.031 micrograms/ml, respectively), clarithromycin (0.031 and 0.031 micrograms/ml, respectively), and minocycline (0.031 and 0.031 micrograms/ml, respectively); these were followed by tosufloxacin (0.063 and 0.125 micrograms/ml, respectively) and ofloxacin (0.5 and 0.5 micrograms/ml, respectively). The MBCs of sparfloxacin, tosufloxacin, ofloxacin, clarithromycin, and minocycline for these two strains were 0.063 and 0.063 micrograms/ml, 0.125 and 0.25 micrograms/ml, 1.0 and 1.0 micrograms/ml, 0.125 and 0.125 micrograms/ml, and 0.25 and 0.25 micrograms/ml, respectively. Fatal pneumonia was induced by intranasal inoculation of cyclophosphamide-treated leukopenic mic",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1994",
+            "authors": [
+              "Nakata K",
+              "Okazaki Y",
+              "Hattori H",
+              "Nakamura S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Infective Agents",
+              "Chlamydia Infections",
+              "Chlamydophila pneumoniae",
+              "Female",
+              "Fluoroquinolones",
+              "Leukopenia",
+              "Lung",
+              "Mice",
+              "Mice, Inbred ICR"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7986006/"
+          },
+          {
+            "pmid": "14979735",
+            "title": "New developments in antibacterial choice for lower respiratory tract infections in elderly patients.",
+            "abstract": "Elderly patients are at increased risk of developing lower respiratory tract infections compared with younger patients. In this population, pneumonia is a serious illness with high rates of hospitalisation and mortality, especially in patients requiring admission to intensive care units (ICUs). A wide range of pathogens may be involved depending on different settings of acquisition and patient's health status. Streptococcus pneumoniae is the most common bacterial isolate in community-acquired pneumonia, followed by Haemophilus influenzae, Moraxella catarrhalis and atypical pathogens such as Chlamydia pneumoniae, Legionella pneumophila and Mycoplasma pneumoniae. However, elderly patients with comorbid illness, who have been recently hospitalised or are residing in a nursing home, may develop severe pneumonia caused by multidrug resistant staphylococci or pneumococci, and enteric Gram-negative bacilli, including Pseudomonas aeruginosa. Moreover, anaerobes may be involved in aspiration pn",
+            "journal": "Drugs & aging",
+            "year": "2004",
+            "authors": [
+              "Ferrara Anna Maria",
+              "Fietta Anna Maria"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aging",
+              "Anti-Bacterial Agents",
+              "Geriatrics",
+              "Humans",
+              "Intestinal Absorption",
+              "Respiratory Tract Infections",
+              "Tissue Distribution",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14979735/"
+          },
+          {
+            "pmid": "15119993",
+            "title": "Efficacy of 750-mg, 5-day levofloxacin in the treatment of community-acquired pneumonia caused by atypical pathogens.",
+            "abstract": "Current recommended durations for treatment of atypical community-acquired pneumonia (CAP) range from 10 to 21 days. However, antibiotics such as the fluoroquinolones may allow for effective, short-course regimens.",
+            "journal": "Current medical research and opinion",
+            "year": "2004",
+            "authors": [
+              "Dunbar Lala M",
+              "Khashab Mohammed M",
+              "Kahn James B",
+              "Zadeikis Neringa",
+              "Xiang Jim X"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Chlamydia Infections",
+              "Chlamydophila pneumoniae",
+              "Community-Acquired Infections",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Female",
+              "Humans",
+              "Legionnaires' Disease"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15119993/"
+          },
+          {
+            "pmid": "18611582",
+            "title": "Atypical pneumonias: therapeutic possibilities.",
+            "abstract": "The atypical pneumonia syndrome is characterized by systemic complaints rather than respiratory symptoms. The causative pathogens include Mycoplasma, Chlamydia, Legionella and respiratory viruses (influenza, adenovirus, respiratory syncytial virus). The reported incidence of disease caused by these pathogens in community-acquired pneumonias varies from study to study. As most of these pathogens are intracellular, the antibiotics used in the treatment of atypical pneumonia are those able to penetrate into cells. Empirical antimicrobial therapy consists of macrolides (erythromycin or some of the newer agents such as roxithromycin, azithromycin or clarithromycin) or tetracyclines (e.g. doxycycline). In cases of severe legionellosis and in immunocompromised and critically-ill patients, the macrolides are sometimes given in combination with rifampicin. Promising alternatives are some of the newer fluoroquinolones (e.g. ofloxacin, pefloxacin) in the treatment of legionellosis.",
+            "journal": "International journal of antimicrobial agents",
+            "year": "1993",
+            "authors": [
+              "Akalin H E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18611582/"
+          },
+          {
+            "pmid": "35054214",
+            "title": "Mycoplasma pneumoniae and Chlamydia pneumoniae Coinfection with Acute Respiratory Distress Syndrome: A Case Report.",
+            "abstract": "Community-acquired pneumonia caused by Mycoplasma pneumoniae or Chlamydia pneumoniae is usually mild. Mycoplasma pneumoniae-related and C. pneumoniae-related acute respiratory distress syndromes (ARDSs) are rare. Moreover, to our knowledge, there are no published reports on ARDS caused by M. pneumoniae and C. pneumoniae coinfection. Here, we report a case of an immunocompetent young woman who was co-infected with M. pneumoniae and C. pneumoniae and was started on treatment with piperacillin and clarithromycin. Two days later, she developed ARDS. She recovered rapidly following a change of antibiotic treatment to levofloxacin and was discharged on day 12. We conducted exome sequencing followed by alternative filtering to search for candidate ARDS-related genes. We identified an intronic variant of unknown significance within leucine-rich repeat-containing 16A (LRRC16A), a gene previously identified as a significant locus for platelet count with a possible role in ARDS. This is a rare ca",
+            "journal": "Diagnostics (Basel, Switzerland)",
+            "year": "2021",
+            "authors": [
+              "Tsai Meng-Ko",
+              "Lai Chao-Hung",
+              "Tsai Chris",
+              "Chen Guan-Liang"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35054214/"
+          },
+          {
+            "pmid": "2808194",
+            "title": "The in-vitro activity, pharmacokinetics and tissue penetration of temafloxacin.",
+            "abstract": "The in-vitro activity of temafloxacin compared with other quinolone antibiotics was evaluated using 579 bacterial strains and three isolates of Chlamydia trachomatis. The MICs of temafloxacin for 90% of Haemophilus influenzae, Neisseria spp., Enterobacteriaceae, Bacteroides fragilis and Ch. trachomatis were all less than or equal to 1 mg/l, an activity comparable with or superior to that of ofloxacin and superior to those of fleroxacin and norfloxacin. Temafloxacin, although more active against anaerobes, was in general slightly less active than ciprofloxacin. Against Streptococcus pneumoniae and Staphylococcus aureus (including MRSA) temafloxacin was twice as active as ciprofloxacin. The pharmacokinetics of temafloxacin were studied in six volunteers, following a single 400 mg oral dose, measuring concentrations in plasma, inflammatory fluid and urine. Mean peak plasma levels of 3.3 mg/l were achieved. The mean plasma elimination half life was 6.8 h and the percentage penetration into",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "1989",
+            "authors": [
+              "Nye K",
+              "Shi Y G",
+              "Andrews J M",
+              "Ashby J P",
+              "Wise R"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "4-Quinolones",
+              "Adult",
+              "Anti-Infective Agents",
+              "Bacteria",
+              "Blister",
+              "Exudates and Transudates",
+              "Fluoroquinolones",
+              "Humans",
+              "Male",
+              "Quinolones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2808194/"
+          },
+          {
+            "pmid": "1804785",
+            "title": "Quinolones in the treatment of lower respiratory tract infections caused by intracellular pathogens.",
+            "abstract": "Intracellular pathogens are inhibited to varying degrees, depending upon the strain of the organism and the quinolone tested. Quinolones achieve levels in the lower respiratory tract that equal or exceed serum concentrations, and they also achieve good intracellular concentrations. Experimental models of intracellular infection have demonstrated the efficacy of ciprofloxacin, difloxacin, fleroxacin, ofloxacin and pefloxacin. Animal models of experimental legionellosis have confirmed in vivo their efficacy in this field. Thus, quinolones appear to be a safe and efficacious alternative treatment in lower respiratory tract infection (LRTI) due to intracellular pathogens. Considering the in vitro and experimental studies, quinolones should play an important role in the treatment of LRTI caused by intracellular pathogens, and prospective controlled studies are strongly recommended.",
+            "journal": "Infection",
+            "year": "1991",
+            "authors": [
+              "Chidiac C",
+              "Mouton Y"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "4-Quinolones",
+              "Animals",
+              "Anti-Infective Agents",
+              "Chlamydia Infections",
+              "Coxiella",
+              "Gram-Negative Bacterial Infections",
+              "Humans",
+              "Legionnaires' Disease",
+              "Pneumonia, Mycoplasma",
+              "Respiratory Tract Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1804785/"
+          },
+          {
+            "pmid": "2791500",
+            "title": "Comparative in vitro activity of lomefloxacin, a difluoro-quinolone.",
+            "abstract": "Lomefloxacin is a new difluoro-quinolone. In this study, we have determined the in vitro activity of lomefloxacin against a wide range of clinical bacterial isolates and compared it with that of other fluoro-quinolones and some unrelated antimicrobials. Lomefloxacin was very active against Enterobacteriaceae (MIC90, 0.5 micrograms/ml) with activity comparable to that of ofloxacin (MIC90, 0.25 micrograms/ml). Lomefloxacin was moderately active against isolates of Pseudomonas aeruginosa (MIC90, 4 micrograms/ml), and again the activity was comparable to ofloxacin (MIC90, 4 micrograms/ml) but was eightfold less than ciprofloxacin (MIC90, 0.5 micrograms/ml). Lomefloxacin was also active against isolates of Staphylococcus aureus (MIC90, 1 micrograms/ml), irrespective of methicillin susceptibility, and this activity was most comparable to ofloxacin (MIC90, 0.5 micrograms/ml) and ciprofloxacin (MIC90, 0.5 micrograms/ml). Lomefloxacin was fourfold less active than either ofloxacin or ciprofloxa",
+            "journal": "Diagnostic microbiology and infectious disease",
+            "year": "1989",
+            "authors": [
+              "Robbins M J",
+              "Baskerville A J",
+              "Sanghrajka M",
+              "Mumtaz G",
+              "Felmingham D"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "4-Quinolones",
+              "Anti-Infective Agents",
+              "Bacteria",
+              "Fluoroquinolones",
+              "Humans",
+              "Kinetics",
+              "Microbial Sensitivity Tests",
+              "Quinolones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2791500/"
+          },
+          {
+            "pmid": "9087506",
+            "title": "In vitro and in vivo antichlamydial activities of HSR-903, a new fluoroquinolone antibiotic.",
+            "abstract": "The in vitro and in vivo antichlamydial activities of HSR-903 were investigated. The MICs of HSR-903 for different species of chlamydia were 0.016 to 0.063 microg/ml, which were superior to those of conventional fluoroquinolones. The therapeutic effect of HSR-903 in experimental mouse Chlamydia psittaci pneumonia was also excellent and almost equal to that of minocycline and superior to that of ofloxacin. These results indicate that HSR-903 may be useful in the treatment of respiratory infections caused by chlamydiae.",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1997",
+            "authors": [
+              "Niki Y",
+              "Miyashita N",
+              "Kubota Y",
+              "Nakajima M",
+              "Matsushima T"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents",
+              "Chlamydia",
+              "Chlamydophila psittaci",
+              "Fluoroquinolones",
+              "HeLa Cells",
+              "Humans",
+              "Male",
+              "Mice"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9087506/"
+          },
+          {
+            "pmid": "17628200",
+            "title": "Q fever community-acquired pneumonia in a patient with Crohn's disease on immunosuppressive therapy.",
+            "abstract": "Community-acquired pneumonia (CAP) may be caused by typical or atypical pathogens. The three most common zoonotic atypical pathogens are Chlamydophila psittaci (psittacosis), Francisella tularensis (tularemia), and Coxiella burnetii (Q fever). Atypical CAPs are suggested by a distinctive pattern of extrapulmonary organ involvement. Zoonotic CAP may be differentiated from nonzoonotic CAP (Chlamydia pneumoniae, Mycoplasma pneumoniae, Legionnaire's disease) by a recent zoonotic vector contact history. Zoonotic atypical CAP occurs sporadically, but not randomly, and require close association with the appropriate zoonotic vector to transmit the infection. CAP accompanied by the extrapulmonary finding of splenomegaly in a normal host limits differential diagnostic possibilities to Q fever and psittacosis. Splenomegaly does not occur with other typical or atypical CAP. Another common extrapulmonary finding occurs with some atypical pneumonias, that is, Q fever, psittacosis, and Legionnaire's ",
+            "journal": "Heart & lung : the journal of critical care",
+            "year": "2007",
+            "authors": [
+              "Nausheen Sara",
+              "Cunha Burke A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Crohn Disease",
+              "Cross Infection",
+              "Follow-Up Studies",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Levofloxacin",
+              "Male",
+              "Middle Aged",
+              "Ofloxacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17628200/"
+          },
+          {
+            "pmid": "12387767",
+            "title": "Chlamydia pneumoniae in community-acquired pneumonia: seven years of experience.",
+            "abstract": "To determine the prevalence of Chlamydia pneumoniae in community-acquired pneumonia during a period of seven years.",
+            "journal": "The Journal of infection",
+            "year": "2002",
+            "authors": [
+              "Monno R",
+              "De Vito D",
+              "Losito G",
+              "Sibilio G",
+              "Costi A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Chlamydophila Infections",
+              "Chlamydophila pneumoniae",
+              "Community-Acquired Infections",
+              "Female",
+              "Humans",
+              "Immunoglobulin G",
+              "Immunoglobulin M",
+              "Incidence",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12387767/"
+          },
+          {
+            "pmid": "20424535",
+            "title": "[Experience accumulated in hospital setting with levofloxacin, in monotherapy and in association therapy].",
+            "abstract": "Levofloxacin possesses a wide antimicrobial spectrum which encompasses Gram positive (also including penicillin-resistant Streptococcus pneumoniae) and Gram negative, and atypical respiratory pathogens Chlamydia pneumoniae, Legionella pneumophila and Mycoplasma pneumoniae) as well. Comparative clinical studies (macrolides, beta-lactams, and other fluoroquinolones), have evidenced bacteriological and clinical efficacy in community-acquired pneumonia (CAP), acute exacerbation of chronic bronchitis, urinary tract infections, and skin and soft tissue infections. In clinical practice, levofloxacin in sequential therapy allowed to reduce length of stay, the efficacy being maintained unaltered. In severe pneumonia, or when a pseudomonas aetiology is suspected, an association therapy is suggested, although a reliable body of clinical evidence is still lacking. Recent in vitro studies showed a synergism between levofloxacin and imipenem against multiresistant Pseudomonas aeruginosa strains. A r",
+            "journal": "Le infezioni in medicina",
+            "year": "2009",
+            "authors": [
+              "Petrosillo Nicola"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Antibiotic Prophylaxis",
+              "Bacterial Infections",
+              "Community-Acquired Infections",
+              "Cross Infection",
+              "Drug Resistance, Multiple, Bacterial",
+              "Drug Therapy, Combination",
+              "Hospital Departments",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20424535/"
+          },
+          {
+            "pmid": "16088719",
+            "title": "The antibiotic treatment of severe community-acquired pneumonia admitted to the critical care unit.",
+            "abstract": "Community-acquired pneumonias (CAP) are still caused by Streptococcus pneumoniae, Hemophilus influenzae, or Moraxella catarrhalis. Legionella and Chlamydia pneumoniae have been defined as important atypical pathogens causing CAP. Klebsiella causes CAP primarily in patients with chronic alcoholism or in chronic care facilities. Normal hosts do not present with \"unusual pathogens'' e.g., Staphylococcus aureus or Pseudomonas aeruginosa. The clinical severity of a bacterial pneumonia has important prognostic implications and predicts admission to intensive care units, duration of therapy, and complications. The factors that determine the severity of a CAP are less related to the pathogen than the underlying cardiopulmonary status of the patient as well as the patient's humoral immunity. Relatively avirulent pathogens may result in severe CAP in patients with diminished/absent splenic function or significant cardiopulmonary disease. A critical concept is to appreciate that the selection of ",
+            "journal": "Seminars in respiratory and critical care medicine",
+            "year": "2000",
+            "authors": [
+              "Cunha B A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16088719/"
+          },
+          {
+            "pmid": "1408383",
+            "title": "[Value of quinolones in the treatment of lower respiratory tract infections caused by intracellular organisms, excluding mycobacteria].",
+            "abstract": "In vitro studies of quinolones against intracellular pathogens responsible for lower respiratory tract infections have shown that growth inhibition varies with the strain and with the drug. Following administration of quinolones, drug levels in the lower respiratory tract are similar to or greater than serum levels. Quinolones penetrate readily into cells. The effectiveness of quinolones in lower respiratory tract infections has been demonstrated in both in vitro intracellular infection models and in vivo animal models. These data show that quinolones are a valid therapeutic alternative for lower respiratory tract infections due to intracellular organisms.",
+            "journal": "Pathologie-biologie",
+            "year": "1992",
+            "authors": [
+              "Chidiac C",
+              "Senneville E",
+              "Mouton Y"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Infective Agents",
+              "Chlamydia Infections",
+              "Ciprofloxacin",
+              "Enoxacin",
+              "Erythromycin",
+              "Humans",
+              "In Vitro Techniques",
+              "Legionnaires' Disease",
+              "Ofloxacin",
+              "Pefloxacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1408383/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "acute contagious conjunctivitis",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "35238405",
+            "title": "Topical pharmacologic interventions versus placebo for epidemic keratoconjunctivitis.",
+            "abstract": "Viruses cause about 80% of all cases of acute conjunctivitis. Human adenoviruses are believed to account for 65% to 90% of cases of viral conjunctivitis, or 20% to 75% of all causes of infectious keratoconjunctivitis worldwide. Epidemic keratoconjunctivitis (EKC) is a highly contagious subset of adenoviral conjunctivitis that has been associated with large outbreaks at military installations and at medical facilities. It is accompanied by severe conjunctival inflammation, watery discharge, and light sensitivity, and can lead to chronic complications such as corneal and conjunctival scarring with discomfort and poor quality of vision. Due to a lack of consensus on the efficacy of any pharmacotherapy to alter the clinical course of EKC, no standard of care exists, therefore many clinicians offer only supportive care.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2022",
+            "authors": [
+              "Liu Su-Hsun",
+              "Hawkins Barbara S",
+              "Ng Sueko M",
+              "Ren Mark",
+              "Leslie Louis"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Child",
+              "Conjunctivitis",
+              "Conjunctivitis, Viral",
+              "Cyclosporine",
+              "Dexamethasone",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35238405/"
+          },
+          {
+            "pmid": "21604820",
+            "title": "The role of topical moxifloxacin, a new antibacterial in Europe, in the treatment of bacterial conjunctivitis.",
+            "abstract": "This article discusses current practice in the treatment of conjunctivitis and how the use of topical moxifloxacin can increase therapeutic effectiveness, reduce treatment failures and, consequently, be cost effective and reduce the societal burden of the disorder. Current practice and effectiveness data were derived from the literature. Data on healthcare utilization as a result of treatment failure were collected by survey and the cost of treatment was defined using national costings. A decision-analytic model to assess cost effectiveness was developed and the impact on the healthcare budget was calculated to define the health economic impact. Bacterial conjunctivitis represents a significant health problem and accounts for an estimated 1-1.5% of primary-care consultations. The disorder is highly contagious and causes a substantial healthcare and societal burden. Bacterial conjunctivitis is generally self-limiting, resolving within 1-2 weeks. However, the use of antibacterials signif",
+            "journal": "Clinical drug investigation",
+            "year": "2011",
+            "authors": [
+              "Benitez-Del-Castillo Jose",
+              "Verboven Yves",
+              "Stroman David",
+              "Kodjikian Laurent"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Anti-Bacterial Agents",
+              "Aza Compounds",
+              "Conjunctivitis, Bacterial",
+              "Cost-Benefit Analysis",
+              "Europe",
+              "Fluoroquinolones",
+              "Humans",
+              "Moxifloxacin",
+              "Ophthalmic Solutions"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21604820/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "acute gonococcal endometritis",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "1391639",
+            "title": "Pelvic inflammatory disease.",
+            "abstract": "Pelvic inflammatory disease is a common serious complication of the sexually transmitted pathogens Neisseria gonorrhoeae and Chlamydia trachomatis. There are more than 800,000 cases of pelvic inflammatory disease annually accounting for approximately 200,000 hospital admissions for acute and chronic infections. Early accurate diagnosis and treatment are essential to prevent the serious sequelae including ectopic pregnancy, tubal disease infertility, chronic pain, and disability requiring multiple hospitalizations and surgery. Although clinical models to aid in the diagnosis and management of pelvic inflammatory disease have been developed by numerous investigators, all have lacked the sensitivity and specificity to be helpful to the clinician. Laparoscopy, considered by many to be the \"gold standard\" for diagnosis, is underutilized, and the definition of pelvic infection differs between investigators. Improved patient compliance and safety may be seen if single-agent therapy for acute ",
+            "journal": "Current opinion in obstetrics & gynecology",
+            "year": "1992",
+            "authors": [
+              "McNeeley S G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Abortion, Legal",
+              "Anti-Bacterial Agents",
+              "Clinical Protocols",
+              "Drug Resistance, Microbial",
+              "Endometritis",
+              "Female",
+              "Humans",
+              "Incidence",
+              "Laparoscopy",
+              "Patient Admission"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1391639/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20162584HA",
+        "product": "Marbocyl 10%W/V Solution For Injection",
+        "active_ingredient": "Marbofloxacin[100 mg, In: 1 ml]",
+        "generic_name": NaN,
+        "holder": "Gladron Chemicals Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-04-30",
+        "date_end": "2026-04-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20162584HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL21076026HAR",
+        "product": "Marbox 100 mg/ml Solution for Injection",
+        "active_ingredient": "MARBOFLOXACIN[100 mg/mL]",
+        "generic_name": NaN,
+        "holder": "Ceva Animal Health Malaysia Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-01",
+        "date_end": "2026-07-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL21076026HAR"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL21076032HAC",
+        "product": "ENROFLO 200( Enrofloxacin 20% w/v  oral solution)",
+        "active_ingredient": "ENROFLOXACIN[200 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "Fijiliam Enterprise Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-01",
+        "date_end": "2026-07-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL21076032HAC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06061696AZ",
+        "product": "Ciprocep Tablet 500mg",
+        "active_ingredient": "CIPROFLOXACIN  HYDROCHLORIDE  MONOHYDRATE[583.00;mg;;]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "IMEKS PHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-02",
+        "date_end": "2026-07-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06061696AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20162604ACREZ",
+        "product": "hovid Zepro-500 Tablet",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582.210mg]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-02",
+        "date_end": "2026-07-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20162604ACREZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16075025ARZ",
+        "product": "Levofloxacin Kabi 5mg/mL Solution for Infusion",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[5.1246mg/ml;0]",
+        "generic_name": NaN,
+        "holder": "FRESENIUS KABI MALAYSIA SDN. BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-26",
+        "date_end": "2026-07-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16075025ARZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16075021AZ",
+        "product": "CIPOFAIN (Ciprofloxacin Sterile Ophthalmic Solution 0.3% w/v)",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[0.35% w/v]",
+        "generic_name": NaN,
+        "holder": "AIN MEDICARE SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-26",
+        "date_end": "2026-07-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16075021AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20162620HA",
+        "product": "ENPROSEEN 20% W/V ORAL SOLUTION",
+        "active_ingredient": "ENROFLOXACIN[200g/L]",
+        "generic_name": NaN,
+        "holder": "Taseen Trading Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-27",
+        "date_end": "2026-07-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20162620HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20162619HA",
+        "product": "GANADEXIL ENROFLOXACINA Oral Solution 100mg/ ml",
+        "active_ingredient": "ENROFLOXACIN[10 g, In: 100 ml]",
+        "generic_name": NaN,
+        "holder": "Taseen Trading Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-27",
+        "date_end": "2026-07-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20162619HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11070030HA",
+        "product": "Enflosin Oral Solution 100mg/ml",
+        "active_ingredient": "ENROFLOXACIN[100 mg]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-29",
+        "date_end": "2026-07-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11070030HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11070031HA",
+        "product": "ENFLOX-100 Oral Solution",
+        "active_ingredient": "ENROFLOXACIN[100.000 mg]",
+        "generic_name": NaN,
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-29",
+        "date_end": "2026-07-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11070031HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16085034HA",
+        "product": "TP-ENRO 200 SOL ENROFLOXACIN 200MG/ML SOLUTION",
+        "active_ingredient": "ENROFLOXACIN[200mg in 1ml]",
+        "generic_name": NaN,
+        "holder": "Thye Pharma Sdn. Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-08-23",
+        "date_end": "2026-08-23",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16085034HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL21096018HA",
+        "product": "QUINOFEED 200G/KG GRANULES",
+        "active_ingredient": "Enrofloxacin [200 gm,1 kg]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-09-09",
+        "date_end": "2026-09-09",
+        "url": "https://npra.gov.my/index.php/search/product/MAL21096018HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06071054AZ",
+        "product": "Cipmax Eye Drops 0.3%W/V, 5 ml bottle",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[3.5;mg;1;ml]",
+        "generic_name": "Ciprofloxacin HCl 0.3% Eye Drops",
+        "holder": "PHARMAFORTE (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-09-28",
+        "date_end": "2026-09-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06071054AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16105039HA",
+        "product": "Baytril 10% w/v Oral Solution",
+        "active_ingredient": "ENROFLOXACIN[100.00mg in 1ml]",
+        "generic_name": NaN,
+        "holder": "ELANCO MALAYSIA SDN BHD",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-11-01",
+        "date_end": "2026-11-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16105039HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06030807AZ",
+        "product": "Glevo Tablets 500 mg",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[517.52;mg;;]",
+        "generic_name": "Levofloxacin 500 mg Tablet",
+        "holder": "Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-11-01",
+        "date_end": "2026-11-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06030807AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20162654HA",
+        "product": "Kenoxin Enrofloxacin 10% w/v Oral Solution",
+        "active_ingredient": "ENROFLOXACIN[100g/1000ml]",
+        "generic_name": NaN,
+        "holder": "Nutri Pharmax Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-11-02",
+        "date_end": "2026-11-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20162654HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20034631ACZ",
+        "product": "BACTIFLOX-500 LACTAB",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[583MG]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "MEPHARM (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-11-14",
+        "date_end": "2026-11-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20034631ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020027AZ",
+        "product": "OFLICIN-100 TABLET",
+        "active_ingredient": "OFLOXACIN[100MG                         ]",
+        "generic_name": "Ofloxacin 100 mg Tablet",
+        "holder": "STERILINE SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-30",
+        "date_end": "2026-12-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020027AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06121051AZ",
+        "product": "CIPROXOL ( Ciprofloxacin 0.2%w/v Intravenous Infusion BP )",
+        "active_ingredient": "CIPROFLOXACIN LACTATE[0.254;%(w/v);;]",
+        "generic_name": "Ciprofloxacin 200 mg/ 100 ml Injection",
+        "holder": "AIN MEDICARE SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-30",
+        "date_end": "2026-12-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06121051AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11120047HAC",
+        "product": "ENXASOL 20% Oral Solution",
+        "active_ingredient": "ENROFLOXACIN[200.00 mg]",
+        "generic_name": NaN,
+        "holder": "Lim Seng Pharmachem Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-30",
+        "date_end": "2026-12-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11120047HAC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020029AZ",
+        "product": "FLOVID 200",
+        "active_ingredient": "OFLOXACIN[200MG                         ]",
+        "generic_name": "Ofloxacin 200 mg Tablet",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-30",
+        "date_end": "2026-12-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020029AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11120048HA",
+        "product": "E-10 Oral Solution",
+        "active_ingredient": "ENROFLOXACIN[10 % (W/V)]",
+        "generic_name": NaN,
+        "holder": "Nam Pharma Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-31",
+        "date_end": "2026-12-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11120048HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06081199ACZ",
+        "product": "Effexin Otic Solution 3 mg/ml",
+        "active_ingredient": "OFLOXACIN[15;mg;5;ml]",
+        "generic_name": "Ofloxacin 0.3% Otic Solution",
+        "holder": "PHARMAFORTE (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-01-27",
+        "date_end": "2027-01-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06081199ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020256AZ",
+        "product": "OFCIN FILM COATED TABLET 200MG",
+        "active_ingredient": "OFLOXACIN[200MG                         ]",
+        "generic_name": "Ofloxacin 200 mg Tablet",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-02-25",
+        "date_end": "2027-02-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020256AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020257AZ",
+        "product": "OFCIN FILM COATED TABLET 400MG",
+        "active_ingredient": "OFLOXACIN[400MG                         ]",
+        "generic_name": "Ofloxacin 400 mg Tablet",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-02-25",
+        "date_end": "2027-02-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020257AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22036024HA",
+        "product": "CENFLOX 100 mg/ml Solution For Injection",
+        "active_ingredient": "Enrofloxacin [100 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "Yenher Agro-products Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-03-03",
+        "date_end": "2027-03-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22036024HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12020023ACZ",
+        "product": "Locikline 250mg film-coated tablets",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[256.233;mg;;0]",
+        "generic_name": NaN,
+        "holder": "THE ZYFAS MEDICAL CO.,",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2022-03-03",
+        "date_end": "2027-03-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12020023ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12020024ACZ",
+        "product": "Locikline 500mg film-coated tablets",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[512.466;mg;;0]",
+        "generic_name": NaN,
+        "holder": "THE ZYFAS MEDICAL CO.,",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2022-03-03",
+        "date_end": "2027-03-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12020024ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12020005HA",
+        "product": "COLMYC-E    10 %  Oral solution",
+        "active_ingredient": "ENROFLOXACIN[10 % (W/V)]",
+        "generic_name": NaN,
+        "holder": "Laboratorios Reveex (asia) Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-03-30",
+        "date_end": "2027-03-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12020005HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12030011HA",
+        "product": "AURIZON EAR DROP",
+        "active_ingredient": "CLOTRIMAZOLE[10 mg],DEXAMETHASONE ACETATE[1 mg],MARBOFLOXACIN[3 mg]",
+        "generic_name": NaN,
+        "holder": "Gladron Chemicals Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-03-30",
+        "date_end": "2027-03-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12030011HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12030014HA",
+        "product": "QUINOVET 10% injection",
+        "active_ingredient": "ENROFLOXACIN[100 gm,1000 ml]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-03-30",
+        "date_end": "2027-03-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12030014HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22046036HA",
+        "product": "GYROFLOX TABLETS (ENROFLOXACIN TABLETS 150 MG).",
+        "active_ingredient": "ENROFLOXACIN[150.00 mg]",
+        "generic_name": NaN,
+        "holder": "KM Vet Pharm Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-04-07",
+        "date_end": "2027-04-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22046036HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12050022HA",
+        "product": "QUINOSOL 20% SOLUTION",
+        "active_ingredient": "Enrofloxacin [200 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-02",
+        "date_end": "2027-06-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12050022HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12050018HA",
+        "product": "MARBOCYL P TABLET 5MG",
+        "active_ingredient": "MARBOFLOXACIN[5 mg]",
+        "generic_name": NaN,
+        "holder": "Gladron Chemicals Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-06",
+        "date_end": "2027-06-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12050018HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20172860HA",
+        "product": "E-20% w/v Oral Solution",
+        "active_ingredient": "ENROFLOXACIN[200g/1L]",
+        "generic_name": NaN,
+        "holder": "Nam Pharma Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-07",
+        "date_end": "2027-06-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20172860HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12020003ACSZ",
+        "product": "Cravit IV 5mg/ml",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[5.1246;mg;1;ml]",
+        "generic_name": NaN,
+        "holder": "RANBAXY (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-04",
+        "date_end": "2027-08-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12020003ACSZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07021411AZ",
+        "product": "Ciproglen 500 Tablets",
+        "active_ingredient": "Ciprofloxacin Hydrochloride USP[582;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-04",
+        "date_end": "2027-08-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07021411AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06030806AZ",
+        "product": "Glevo Tablets 250 mg",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[256.20;mg;;0]",
+        "generic_name": "Levofloxacin 250mg Tablet",
+        "holder": "Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2022-09-01",
+        "date_end": "2027-09-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06030806AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12085065AZ",
+        "product": "PYCIP 500mg film coated tablets",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582mg;0]",
+        "generic_name": "Ciprofloxacin 500mg Capsule",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-01",
+        "date_end": "2027-09-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12085065AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22096051HA",
+        "product": "QUINOCID 100MG/ML INJECTION",
+        "active_ingredient": "Enrofloxacin [100 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-01",
+        "date_end": "2027-09-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22096051HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12095080AZ",
+        "product": "Levoquin 500mg film coated caplet",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[512mg]",
+        "generic_name": "Levofloxacin 500 mg Tablet",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-29",
+        "date_end": "2027-09-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12095080AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12095077AZ",
+        "product": "Levoquin 250mg film coated caplet",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[256mg]",
+        "generic_name": "Levofloxacin 250mg Tablet",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-29",
+        "date_end": "2027-09-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12095077AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07090903AZ",
+        "product": "QUINTOR 500 Tablet",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582.200;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "LABORATORIES TORRENT (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-30",
+        "date_end": "2027-09-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07090903AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17107028AZ",
+        "product": "Ciflox Eye Drop 0.3% w/v",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[17.5mg;5ml]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-04",
+        "date_end": "2027-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17107028AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021148AZ",
+        "product": "CIPRICIN-500 TABLET",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582MG]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "STERILINE SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-04",
+        "date_end": "2027-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021148AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22106030HA",
+        "product": "ENRO EMV 100 mg/ml Oral Solution ",
+        "active_ingredient": "Enrofloxacin base[100 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "F.E. VENTURE SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-06",
+        "date_end": "2027-10-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22106030HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22106027HA",
+        "product": "QUINOFORT 100MG/ML INJECTION",
+        "active_ingredient": "Enrofloxacin [100 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-06",
+        "date_end": "2027-10-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22106027HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021000AZ",
+        "product": "PHARMANIAGA CIPROFLOXACIN TABLET 500MG",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[500MG                         ]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-31",
+        "date_end": "2027-10-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021000AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17107077ARZ",
+        "product": "Cravit 1.5% ophthalmic solution",
+        "active_ingredient": "LEVOFLOXACIN[15mg;1ml]",
+        "generic_name": NaN,
+        "holder": "SANTEN PHARMA MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-31",
+        "date_end": "2027-10-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17107077ARZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17107036ACREZ",
+        "product": "hovid Ciprofloxacin Eye Drops 0.3% w/v",
+        "active_ingredient": "CIPROFLOXACIN LACTATE[30.8mg]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-11-03",
+        "date_end": "2027-11-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17107036ACREZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17107038ACREZ",
+        "product": "hovid Ofloxacin Eye Drops 0.3% w/v",
+        "active_ingredient": "OFLOXACIN[0.0259mg]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-11-03",
+        "date_end": "2027-11-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17107038ACREZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17107040ACREZ",
+        "product": "hovid Ciprofloxacin Ophthalmic Solution 0.3% w/v",
+        "active_ingredient": "CIPROFLOXACIN[0.3% w/v]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-11-03",
+        "date_end": "2027-11-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17107040ACREZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19921114AZ",
+        "product": "MEDOFLOXINE TABLET 200MG",
+        "active_ingredient": "OFLOXACIN[200MG                         ]",
+        "generic_name": "Ofloxacin 200 mg Tablet",
+        "holder": "KOMEDIC SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-12-13",
+        "date_end": "2027-12-13",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19921114AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22126065HA",
+        "product": "MARBOXIN 10% w/v INJECTION",
+        "active_ingredient": "MARBOFLOXACIN[100 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-12-13",
+        "date_end": "2027-12-13",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22126065HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22126066HA",
+        "product": "MALASONE EAR DROPS, SUSPENSION",
+        "active_ingredient": "CLOTRIMAZOLE[10 mg/mL],MARBOFLOXACIN[3 mg/mL],DEXAMETHASONE ACETATE[1 mg/mL]",
+        "generic_name": NaN,
+        "holder": "Vemedim Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-12-13",
+        "date_end": "2027-12-13",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22126066HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23016028HAC",
+        "product": "ENCIN  200 ( Enrofloxacin 20% oral solution)",
+        "active_ingredient": "ENROFLOXACIN[200 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "GNC Agritech Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-01-05",
+        "date_end": "2028-01-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23016028HAC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07081466AZ",
+        "product": "Ificipro Injection 200mg/100ml",
+        "active_ingredient": "Ciprofloxacin Hydrochloride USP[232.80;mg;100.00;ml]",
+        "generic_name": "Ciprofloxacin 200 mg/ 100 ml Injection",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2023-02-02",
+        "date_end": "2028-02-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07081466AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23036032HACR",
+        "product": "BOFLOX FLAVOUR 20 mg TABLETS FOR DOGS AND CATS",
+        "active_ingredient": "MARBOFLOXACIN[20 mg]",
+        "generic_name": NaN,
+        "holder": "My Vet Care Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-02",
+        "date_end": "2028-03-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23036032HACR"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20032257AZ",
+        "product": "OFLICIN-200 TABLET",
+        "active_ingredient": "OFLOXACIN[200MG                         ]",
+        "generic_name": "Ofloxacin 200 mg Tablet",
+        "holder": "STERILINE SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-25",
+        "date_end": "2028-03-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20032257AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20032244AZ",
+        "product": "CIPQUIN 500 TABLET",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[500MG                         ]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "SM PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-25",
+        "date_end": "2028-03-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20032244AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08021471AZ",
+        "product": "OFLOMAC TABLETS 200MG",
+        "active_ingredient": "OFLOXACIN[200;mg;;]",
+        "generic_name": "Ofloxacin 200 mg Tablet",
+        "holder": "ZULAT PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-03",
+        "date_end": "2028-04-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08021471AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19984772ACZ",
+        "product": "CIPROBAY 400 INFUSION SOLUTION",
+        "active_ingredient": "CIPROFLOXACIN[400MG/200ML                   ]",
+        "generic_name": "Ciprofloxacin 400 mg/200 ml Injection",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-08",
+        "date_end": "2028-04-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19984772ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13040010HA",
+        "product": "ENRO-10% W/V ORAL SOLUTION",
+        "active_ingredient": "ENROFLOXACIN[100.000 mg]",
+        "generic_name": NaN,
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-05-01",
+        "date_end": "2028-05-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13040010HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23056042HAC",
+        "product": "Enrovet, 100mg/ml, Solution for use in drinking water",
+        "active_ingredient": "Enrofloxacin [100 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "VISION BIOTECH SDN BHD",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-05-11",
+        "date_end": "2028-05-11",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23056042HAC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18056080HAC",
+        "product": "Metaenro 20% w/v Oral Solution",
+        "active_ingredient": "Enrofloxacin [200 g,1 null]",
+        "generic_name": NaN,
+        "holder": "Nutri Pharmax Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-01",
+        "date_end": "2028-06-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18056080HAC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20033356AZ",
+        "product": "UFEXIL SOLUTION FOR INTRAVENOUS INFUSION 200MG/100ML",
+        "active_ingredient": "CIPROFLOXACIN[2MG/ML]",
+        "generic_name": "Ciprofloxacin 200 mg/ 100 ml Injection",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-02",
+        "date_end": "2028-06-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20033356AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08021506AZ",
+        "product": "Ciproflo 2mg/ml solution for IV Infusion",
+        "active_ingredient": "CIPROFLOXACIN HCL[2.33;mg;1;ml]",
+        "generic_name": "Ciprofloxacin 2 mg/ml Injection",
+        "holder": "AVERROES PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-08",
+        "date_end": "2028-06-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08021506AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23076003ACZ",
+        "product": "Ducressa (Dexamethasone 1mg/ml + Levofloxacin 5mg/ml) eye drops, solution",
+        "active_ingredient": "DEXAMETHASONE SODIUM PHOSPHATE[1.32 mg/mL],Levofloxacin hemihydrate[5.12 mg/mL]",
+        "generic_name": NaN,
+        "holder": "SANTEN PHARMA MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-07-06",
+        "date_end": "2028-07-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23076003ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23076005HA",
+        "product": "MARBOXIN 2% w/v INJECTION",
+        "active_ingredient": "MARBOFLOXACIN[20 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-07-06",
+        "date_end": "2028-07-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23076005HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13070024HA",
+        "product": "ENRO 10% LIQUID SOLUTION",
+        "active_ingredient": "ENROFLOXACIN[100 g]",
+        "generic_name": NaN,
+        "holder": "Shennong Animal Health (Malaysia) Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-07-27",
+        "date_end": "2028-07-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13070024HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08082706ACZ",
+        "product": "CIPROX TABLET 500 MG",
+        "active_ingredient": "CIPROFLOXACIN HCL[582.00;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "APEX PHARMACY MARKETING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-31",
+        "date_end": "2028-08-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08082706ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08082713ACZ",
+        "product": "CIPROX TABLET 250MG",
+        "active_ingredient": "CIPROFLOXACIN HCL[291;mg;;0]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "APEX PHARMACY MARKETING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-31",
+        "date_end": "2028-08-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08082713ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13085049AZ",
+        "product": "Ciflox Film Coated Tablet 750mg",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[832.43mg;1215.0mg]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-31",
+        "date_end": "2028-08-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13085049AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13085047AZ",
+        "product": "Ciflox Film Coated Tablet 500mg",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[555.0 mg;810.0mg]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-31",
+        "date_end": "2028-08-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13085047AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13085048AZ",
+        "product": "Ciflox Film Coated Tablet 250mg",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[277.5mg;405.0 mg]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-31",
+        "date_end": "2028-08-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13085048AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20032243AZ",
+        "product": "CIPQUIN 250 TABLET",
+        "active_ingredient": "CIPROFLOXACIN[250MG                         ]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "SM PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2023-10-05",
+        "date_end": "2028-10-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20032243AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18106028HA",
+        "product": "ENFLODEX 200MG/ML SOLUTION",
+        "active_ingredient": "ENROFLOXACIN[200.00 mg,1.00 ml]",
+        "generic_name": NaN,
+        "holder": "Dexchem Industries Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-10-16",
+        "date_end": "2028-10-16",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18106028HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13110034HA",
+        "product": "ENRO-VET 100mg/ml Oral Solution",
+        "active_ingredient": "ENROFLOXACIN[10.0 % (W/V)]",
+        "generic_name": NaN,
+        "holder": "Life Biopharma Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-11-08",
+        "date_end": "2028-11-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13110034HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13115208AZ",
+        "product": "Axcel CIPROFLOXACIN-250MG TABLET",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[291.11mg;387.6mg]",
+        "generic_name": NaN,
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-11-30",
+        "date_end": "2028-11-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13115208AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13115209AZ",
+        "product": "Axcel CIPROFLOXACIN-500MG TABLET",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582.21mg;775.2mg]",
+        "generic_name": NaN,
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-11-30",
+        "date_end": "2028-11-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13115209AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08111828AZ",
+        "product": "Ificipro 250mg Tablet",
+        "active_ingredient": "Ciprofloxacin Hydrochloride USP[297;mg;;]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-07",
+        "date_end": "2028-12-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08111828AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08111830AZ",
+        "product": "Ificipro 500 mg Tablet",
+        "active_ingredient": "Ciprofloxacin Hydrochloride USP[594;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-07",
+        "date_end": "2028-12-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08111830AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20034634AZ",
+        "product": "CIPROCEP TABLET 250 MG",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[291.5 MG]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "IMEKS PHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-28",
+        "date_end": "2028-12-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20034634AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20034629AZ",
+        "product": "CIPRODAC 500 TABLET",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[583MG]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-28",
+        "date_end": "2028-12-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20034629AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24016040HA",
+        "product": "ENROXON 5MG/ML SOLUTION",
+        "active_ingredient": "ENROFLOXACIN[5 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-01-04",
+        "date_end": "2029-01-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24016040HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24026025HA",
+        "product": "Marbovitryl FD 5 mg tablet",
+        "active_ingredient": "MARBOFLOXACIN[5 mg,300 mg]",
+        "generic_name": NaN,
+        "holder": "Vemedim Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-02-08",
+        "date_end": "2029-02-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24026025HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24026024HAC",
+        "product": "ENROLIN-LD 200MG/ML ORAL SOLUTION",
+        "active_ingredient": "Enrofloxacin base[200 mg/mL]",
+        "generic_name": NaN,
+        "holder": "Kty Chemicals Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-02-08",
+        "date_end": "2029-02-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24026024HAC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040571AZ",
+        "product": "PRIFLOXIN TABLET",
+        "active_ingredient": "OFLOXACIN[200MG                         ]",
+        "generic_name": "Ofloxacin 200 mg Tablet",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-03-28",
+        "date_end": "2029-03-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040571AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL09032008AZ",
+        "product": "LEVOFLOXOL (Levofloxacin 5mg/mL Intravenous Infusion)",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[5.125;mg;;ml]",
+        "generic_name": "Levofloxacin 500 mg Injection",
+        "holder": "AIN MEDICARE SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-03-29",
+        "date_end": "2029-03-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL09032008AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL14050040HA",
+        "product": "Baytril Flavour Tablets 50 mg",
+        "active_ingredient": "ENROFLOXACIN[50 mg]",
+        "generic_name": NaN,
+        "holder": "ELANCO MALAYSIA SDN BHD",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-05-11",
+        "date_end": "2029-05-11",
+        "url": "https://npra.gov.my/index.php/search/product/MAL14050040HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19056135HA",
+        "product": "ENFLOCIN 120MG/ML SOLUTION",
+        "active_ingredient": "ENROFLOXACIN[120gm, In: 1.0L ]",
+        "generic_name": NaN,
+        "holder": "GMS Farming Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-05-31",
+        "date_end": "2029-05-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19056135HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19056134HA",
+        "product": "Boflox 100 mg/ml Solution For Injection",
+        "active_ingredient": "MARBOFLOXACIN[100 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "Yenher Agro-products Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-05-31",
+        "date_end": "2029-05-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19056134HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040908ARZ",
+        "product": "CRAVIT OPHTHALMIC SOLUTION",
+        "active_ingredient": "LEVOFLOXACIN[5.00MG/ML                     ]",
+        "generic_name": "Levofloxacin 5mg/ml Eye drops",
+        "holder": "SANTEN PHARMA MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-06-01",
+        "date_end": "2029-06-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040908ARZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040909ARZ",
+        "product": "TARIVID OPHTHALMIC SOLUTION",
+        "active_ingredient": "Ofloxacin[0.3 %]",
+        "generic_name": "Ofloxacin 3 mg/ml Ophthalmic Solution",
+        "holder": "SANTEN PHARMA MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-06-01",
+        "date_end": "2029-06-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040909ARZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040197AZ",
+        "product": "C-FLOX 250 TABLETS",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[277.5 MG]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "JETPHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2024-06-10",
+        "date_end": "2029-06-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040197AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040198AZ",
+        "product": "C-FLOX 500 TABLETS",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[555 MG]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "JETPHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2024-06-10",
+        "date_end": "2029-06-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040198AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24076016AZ",
+        "product": "Balkanpharma Levofloxacin 5mg/ml eye drops solution",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[5.12 mg/mL]",
+        "generic_name": NaN,
+        "holder": "IMAGE PHARMA SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-04",
+        "date_end": "2029-07-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24076016AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19076002HA",
+        "product": "Vimenro 10%w/v Injectable",
+        "active_ingredient": "ENROFLOXACIN[100 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "Vemedim Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-04",
+        "date_end": "2029-07-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19076002HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20041052AZ",
+        "product": "CRAVIT 500MG",
+        "active_ingredient": "LEVOFLOXACIN[500MG                         ]",
+        "generic_name": "Levofloxacin 500 mg Tablet",
+        "holder": "RANBAXY (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-08-10",
+        "date_end": "2029-08-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20041052AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20041051AZ",
+        "product": "CRAVIT 250MG",
+        "active_ingredient": "LEVOFLOXACIN[250MG                         ]",
+        "generic_name": "Levofloxacin 250mg Tablet",
+        "holder": "RANBAXY (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-08-10",
+        "date_end": "2029-08-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20041051AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19081003HA",
+        "product": "PVP -ENROMYCIN 10% W/V SOLUTION",
+        "active_ingredient": "ENROFLOXACIN[100 mg]",
+        "generic_name": NaN,
+        "holder": "Pelangi Vet Pharma Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-08-14",
+        "date_end": "2029-08-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19081003HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19900105ACZ",
+        "product": "CIPROBAY 200 INFUSION 100ML",
+        "active_ingredient": "CIPROFLOXACIN[200MG/                        ]",
+        "generic_name": "Ciprofloxacin 200 mg/ 100 ml Injection",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19900105ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24096129HA",
+        "product": "ENROLOX 25MG/ML SUSPENSION",
+        "active_ingredient": "ENROFLOXACIN[25 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24096129HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19890626AZ",
+        "product": "CIPROBAY TABLET 500MG",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[500MG                         ]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19890626AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19096006HA",
+        "product": "Vimenro 20% w/v Oral Solution",
+        "active_ingredient": "ENROFLOXACIN[200 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "Vemedim Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19096006HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19106032HA",
+        "product": "Marbovitryl 2%w/v Solution for Injection",
+        "active_ingredient": "MARBOFLOXACIN[20 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "Vemedim Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-07",
+        "date_end": "2029-11-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19106032HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24116046HA",
+        "product": "MARBOXA TAB 80 (Marbofloxacin 80mg Tablets)",
+        "active_ingredient": "MARBOFLOXACIN[80.00 mg]",
+        "generic_name": NaN,
+        "holder": "STADPHARM SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-07",
+        "date_end": "2029-11-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24116046HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24116047HA",
+        "product": "MARBOXA TAB 20 (Marbofloxacin 20mg Tablets)",
+        "active_ingredient": "MARBOFLOXACIN[20.00 mg]",
+        "generic_name": NaN,
+        "holder": "STADPHARM SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-07",
+        "date_end": "2029-11-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24116047HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19116021HACR",
+        "product": "ENROTRON FLAVOUR 50 MG TABLET",
+        "active_ingredient": "ENROFLOXACIN[50 mg]",
+        "generic_name": NaN,
+        "holder": "My Vet Care Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-14",
+        "date_end": "2029-11-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19116021HACR"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19116013HA",
+        "product": "Forcyl 160mg/ml Solution for Injection",
+        "active_ingredient": "MARBOFLOXACIN[160 mg/mL]",
+        "generic_name": NaN,
+        "holder": "Gladron Chemicals Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-14",
+        "date_end": "2029-11-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19116013HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19126032HA",
+        "product": "Interflox 100mg/ml Oral Solution",
+        "active_ingredient": "Enrofloxacin [100 mg/mL]",
+        "generic_name": NaN,
+        "holder": "Danberg (m) Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-12-06",
+        "date_end": "2029-12-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19126032HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19126035HAC",
+        "product": "ENROLIN-LD 100MG/ML ORAL SOLUTION",
+        "active_ingredient": "Enrofloxacin base[100gm, 1 L]",
+        "generic_name": NaN,
+        "holder": "Kty Chemicals Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-12-06",
+        "date_end": "2029-12-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19126035HAC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL14120195HA",
+        "product": "DANOVET 2.5% Injection",
+        "active_ingredient": "DANOFLOXACIN MESYLATE[31.75 g]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-12-25",
+        "date_end": "2029-12-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL14120195HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15010002HA",
+        "product": "MARBOCYL P TABLET 20MG",
+        "active_ingredient": "MARBOFLOXACIN[20 mg]",
+        "generic_name": NaN,
+        "holder": "Gladron Chemicals Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-01-31",
+        "date_end": "2030-01-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15010002HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15010003HA",
+        "product": "MARBOCYL P TABLET 80MG",
+        "active_ingredient": "MARBOFLOXACIN[80 mg]",
+        "generic_name": NaN,
+        "holder": "Gladron Chemicals Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-01-31",
+        "date_end": "2030-01-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15010003HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040755AZ",
+        "product": "EVAFLOX 200MG TABLET",
+        "active_ingredient": "OFLOXACIN[200MG                         ]",
+        "generic_name": "Ofloxacin 200 mg Tablet",
+        "holder": "HEALOL PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-03-04",
+        "date_end": "2030-03-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040755AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040756AZ",
+        "product": "EVAFLOX 400MG TABLET",
+        "active_ingredient": "OFLOXACIN[400MG                         ]",
+        "generic_name": "Ofloxacin 400 mg Tablet",
+        "holder": "HEALOL PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-03-04",
+        "date_end": "2030-03-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040756AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10021807AZ",
+        "product": "Zoxan Eye Drops 0.3% w/v",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[0.35;%(w/v);;0]",
+        "generic_name": "Ciprofloxacin HCl 0.3% Eye Drops",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-03-04",
+        "date_end": "2030-03-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10021807AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20046155HA",
+        "product": "Baytril Flavour Tablets 150 mg",
+        "active_ingredient": "Enrofloxacin [150 mg]",
+        "generic_name": NaN,
+        "holder": "ELANCO MALAYSIA SDN BHD",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-01",
+        "date_end": "2030-05-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20046155HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL25056033AZ",
+        "product": "Remflox 250mg Film-Coated Tablet",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[256.23 mg]",
+        "generic_name": NaN,
+        "holder": "PHARMAFORTE (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-22",
+        "date_end": "2030-05-22",
+        "url": "https://npra.gov.my/index.php/search/product/MAL25056033AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL05051054AZ",
+        "product": "Enoxin Tablet 500mg",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "Duopharma Marketing Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-30",
+        "date_end": "2030-05-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL05051054AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15065020AZ",
+        "product": "Cetraxal 2mg/ml Ear Drops Solution",
+        "active_ingredient": "CIPROFLOXACIN[2.00mg;1ml]",
+        "generic_name": NaN,
+        "holder": "HYPHENS PHARMA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-07-01",
+        "date_end": "2030-07-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15065020AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10070027HA",
+        "product": "COLMYC-E Injectable 10%",
+        "active_ingredient": "ENROFLOXACIN[10 % (W/V)]",
+        "generic_name": NaN,
+        "holder": "Laboratorios Reveex (asia) Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-08-01",
+        "date_end": "2030-08-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10070027HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL05061487AZ",
+        "product": "LOXOF TABLETS 500mg",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[512.45;mg;;0]",
+        "generic_name": "Levofloxacin 500 mg Tablet",
+        "holder": "RANBAXY (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-08-07",
+        "date_end": "2030-08-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL05061487AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15085079AZ",
+        "product": "Cetraxal Plus Ear Drops Solution",
+        "active_ingredient": "CIPROFLOXACIN[3.00mg;1ml],FLUOCINOLONE ACETONIDE[0.25mg;1ml]",
+        "generic_name": NaN,
+        "holder": "HYPHENS PHARMA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-08-22",
+        "date_end": "2030-08-22",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15085079AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20096007AZ",
+        "product": "CIFLOXIN INFUSION (2 MG/ML) (SOLUTION FOR INFUSION)",
+        "active_ingredient": "CIPROFLOXACIN[2 mg/mL ]",
+        "generic_name": NaN,
+        "holder": "SPG PHARMA (MALAYSIA) SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2025-09-04",
+        "date_end": "2030-09-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20096007AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL25096171HA",
+        "product": "ENROXEL 15MG PALATABLE TABLETS",
+        "active_ingredient": "Enrofloxacin [15 mg,In 200 mg]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-09-08",
+        "date_end": "2030-09-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL25096171HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL25096170HA",
+        "product": "ENROXEL 50MG PALATABLE TABLETS",
+        "active_ingredient": "Enrofloxacin [50 mg,In 390 mg]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-09-08",
+        "date_end": "2030-09-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL25096170HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20106022HA",
+        "product": "NEO MEDITRIL Oral Solution 100 mg/ml",
+        "active_ingredient": "ENROFLOXACIN[100 mg/mL]",
+        "generic_name": NaN,
+        "holder": "Sum Soon Agricultural Co. Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-10-02",
+        "date_end": "2030-10-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20106022HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10110029AZ",
+        "product": "Cinolone F.C. Tablet 250 mg \"S.T.\"(Ciprofloxacin)",
+        "active_ingredient": "Ciprofloxacin . HCl . H2O[291.1;mg;;0]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "SUNWARD PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-11-25",
+        "date_end": "2030-11-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10110029AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20126030HA",
+        "product": "GYROFLOX TABLETS (ENROFLOXACIN TABLETS 50MG)",
+        "active_ingredient": "ENROFLOXACIN[50.00 mg]",
+        "generic_name": NaN,
+        "holder": "KM Vet Pharm Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-12-04",
+        "date_end": "2030-12-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20126030HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20126027HA",
+        "product": "Interflox 100mg/ml Solution for injection",
+        "active_ingredient": "Enrofloxacin [100 mg/mL]",
+        "generic_name": NaN,
+        "holder": "Danberg (m) Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-12-04",
+        "date_end": "2030-12-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20126027HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15125065HA",
+        "product": "Baytril 100 mg/ml Injectable Solution",
+        "active_ingredient": "ENROFLOXACIN[10gm in 100ml]",
+        "generic_name": NaN,
+        "holder": "ELANCO MALAYSIA SDN BHD",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-12-24",
+        "date_end": "2030-12-24",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15125065HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL21016025HA",
+        "product": "ENRO-VET 200 mg/ml ORAL SOLUTION",
+        "active_ingredient": "ENROFLOXACIN[200 mg/mL]",
+        "generic_name": NaN,
+        "holder": "Life Biopharma Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-01-09",
+        "date_end": "2031-01-09",
+        "url": "https://npra.gov.my/index.php/search/product/MAL21016025HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16010001HA",
+        "product": "HIGH ENRO 110 SOL",
+        "active_ingredient": "ENROFLOXACIN[11 % (W/V)]",
+        "generic_name": NaN,
+        "holder": "Thye Pharma Sdn. Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-01-09",
+        "date_end": "2031-01-09",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16010001HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16010003HA",
+        "product": "Baytril 5% w/v Injectable Solution",
+        "active_ingredient": "ENROFLOXACIN[50 mg]",
+        "generic_name": NaN,
+        "holder": "ELANCO MALAYSIA SDN BHD",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-01-23",
+        "date_end": "2031-01-23",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16010003HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11010021AZ",
+        "product": "Olfovel 500mg Tablet",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[512.5;mg;;]",
+        "generic_name": "Levofloxacin 500 mg Tablet",
+        "holder": "IMEKS PHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-01-30",
+        "date_end": "2031-01-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11010021AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06011706AZ",
+        "product": "OFLO 200",
+        "active_ingredient": "OFLOXACIN[200.00;mg;;]",
+        "generic_name": "Ofloxacin 200 mg Tablet",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-02-03",
+        "date_end": "2031-02-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06011706AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06011704AZ",
+        "product": "OFLO 400",
+        "active_ingredient": "OFLOXACIN[400.00;mg;;0]",
+        "generic_name": "Ofloxacin 400 mg Tablet",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-02-03",
+        "date_end": "2031-02-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06011704AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL21026045HA",
+        "product": "KENOXIN Enrofloxacin 10%w/v Injection",
+        "active_ingredient": "Enrofloxacin [100 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "Nutri Pharmax Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-02-06",
+        "date_end": "2031-02-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL21026045HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16020008HA",
+        "product": "E-FORTE 10% INJECTABLE",
+        "active_ingredient": "ENROFLOXACIN[10 000 mg]",
+        "generic_name": NaN,
+        "holder": "Vemedim Sdn Bhd",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-02-27",
+        "date_end": "2031-02-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16020008HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL21036041HA",
+        "product": "FLUORO-VET 100, 100mg/ ml, Solution for use in drinking water",
+        "active_ingredient": "Enrofloxacin [100 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "N.S. LABORATORY SDN. BHD. ",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-03-03",
+        "date_end": "2031-03-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL21036041HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11040017HA",
+        "product": "ENROX-100 ORAL SOLUTION 100MG/ML",
+        "active_ingredient": "ENROFLOXACIN[100.00 mg]",
+        "generic_name": NaN,
+        "holder": "GENPHARMA SDN. BHD",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-04-23",
+        "date_end": "2031-04-23",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11040017HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16045029AZ",
+        "product": "Levores 5mg/ml Solution for Infusion",
+        "active_ingredient": "LEVOFLOXACIN HEMIHYDRATE[5.125mg;1ml]",
+        "generic_name": NaN,
+        "holder": "AVERROES PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-04-30",
+        "date_end": "2031-04-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16045029AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20162578HA",
+        "product": "Enrocin 0.5% w/v Oral Solution",
+        "active_ingredient": "ENROFLOXACIN[5g/L]",
+        "generic_name": NaN,
+        "holder": "Nam Pharma Sdn. Bhd.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-05-01",
+        "date_end": "2031-05-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20162578HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16065001HAC",
+        "product": "Enromax 20% Oral Solution",
+        "active_ingredient": "ENROFLOXACIN[200gm in 1l]",
+        "generic_name": NaN,
+        "holder": "LAI NGIT SEN SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-06-09",
+        "date_end": "2031-06-09",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16065001HAC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06011700AZ",
+        "product": "Ciprinol Film Coated Tablets 500mg",
+        "active_ingredient": "Ciprofloxacin Hydrochloride Monohydrate (Ciprofloxacin)[594;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-07-02",
+        "date_end": "2031-07-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06011700AZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01165",
+    "name": "Ofloxacin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Ofloxacin"
+      },
+      "queried_at": "2026-03-04T13:21:16.133093",
+      "status": "success",
+      "result_count": 148,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Ofloxacin"
+      },
+      "queried_at": "2026-03-04T13:21:35.035475",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-04T13:21:35.987261",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-04T13:21:40.548954",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-04T13:21:47.155705",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "diarrheal disease"
+      },
+      "queried_at": "2026-03-04T13:21:48.833676",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "diarrheal disease"
+      },
+      "queried_at": "2026-03-04T13:21:53.001325",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "diarrheal disease"
+      },
+      "queried_at": "2026-03-04T13:22:01.545728",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "pneumonia caused by chlamydia"
+      },
+      "queried_at": "2026-03-04T13:22:02.260535",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "pneumonia caused by chlamydia"
+      },
+      "queried_at": "2026-03-04T13:22:09.441667",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "pneumonia caused by chlamydia"
+      },
+      "queried_at": "2026-03-04T13:22:16.628281",
+      "status": "success",
+      "result_count": 17,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-04T13:22:19.785823",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-04T13:22:27.482240",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-04T13:22:34.590935",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "acute gonococcal endometritis"
+      },
+      "queried_at": "2026-03-04T13:22:35.188817",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "acute gonococcal endometritis"
+      },
+      "queried_at": "2026-03-04T13:22:40.375379",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ofloxacin",
+        "disease": "acute gonococcal endometritis"
+      },
+      "queried_at": "2026-03-04T13:22:43.030098",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T13:22:43.036652",
+    "version": "1.0"
+  }
+}

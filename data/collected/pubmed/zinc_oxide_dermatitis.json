@@ -1,0 +1,545 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Zinc Oxide",
+    "disease": "dermatitis",
+    "query_string": "Zinc Oxide AND dermatitis"
+  },
+  "data": {
+    "query": "Zinc Oxide AND dermatitis",
+    "results": [
+      {
+        "pmid": "38777185",
+        "title": "Sunscreens part 2: Regulation and safety.",
+        "abstract": "The second part of this CME article discusses sunscreen regulation and safety considerations for humans and the environment. First, we provide an overview of the history of the US Food and Drug Administration's regulation of sunscreen. Recent Food and Drug Administration studies clearly demonstrate that organic ultraviolet filters are systemically absorbed during routine sunscreen use, but to date there is no evidence of associated negative health effects. We also review the current evidence of sunscreen's association with vitamin D levels and frontal fibrosing alopecia, and recent concerns regarding benzene contamination. Finally, we review the possible environmental effects of ultraviolet filters, particularly coral bleaching. While climate change has been shown to be the primary driver of coral bleaching, laboratory-based studies suggest that organic ultraviolet filters represent an additional contributing factor, which led several localities to ban certain organic filters.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2025",
+        "authors": [
+          "Abdel Azim Sara",
+          "Bainvoll Liat",
+          "Vecerek Natalia",
+          "DeLeo Vincent A",
+          "Adler Brandon L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Sunscreening Agents",
+          "Humans",
+          "United States",
+          "United States Food and Drug Administration",
+          "Alopecia",
+          "Vitamin D",
+          "Ultraviolet Rays"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38777185/"
+      },
+      {
+        "pmid": "27841440",
+        "title": "Interventions for preventing and treating incontinence-associated dermatitis in adults.",
+        "abstract": "Incontinence-associated dermatitis (IAD) is one of the most common skin problems in adults who are incontinent for urine, stool, or both. In practice, products and procedures are the same for both prevention and treatment of IAD.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2016",
+        "authors": [
+          "Beeckman Dimitri",
+          "Van Damme Nele",
+          "Schoonhoven Lisette",
+          "Van Lancker Aurélie",
+          "Kottner Jan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Amitriptyline",
+          "Dermatitis",
+          "Dermatologic Agents",
+          "Fecal Incontinence",
+          "Humans",
+          "Petrolatum",
+          "Randomized Controlled Trials as Topic",
+          "Skin Care"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27841440/"
+      },
+      {
+        "pmid": "29086472",
+        "title": "Dermatological and environmental toxicological impact of the sunscreen ingredient oxybenzone/benzophenone-3.",
+        "abstract": "Oxybenzone (Benzophenone-3) is an emerging human and environmental contaminant used in sunscreens and personal care products to help minimize the damaging effects of ultraviolet radiation. The Center for Disease Control fourth national report on human exposure to environmental chemicals demonstrated that approximately 97% of the people tested have oxybenzone present in their urine, and independent scientists have reported various concentrations in waterways and fish worldwide. Oxybenzone can also react with chlorine, producing hazardous by-products that can concentrate in swimming pools and wastewater treatment plants. Moreover, adverse reactions could very well be increased by the closed loop of ingesting fish contaminated with oxybenzone and/or washing the ingredient off our bodies and having it return in drinking water as treatment plants do not effectively remove the chemical as part of their processing protocols. In humans, oxybenzone has been reported to produce contact and photo",
+        "journal": "Journal of cosmetic dermatology",
+        "year": "2018",
+        "authors": [
+          "DiNardo Joseph C",
+          "Downs Craig A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Benzophenones",
+          "Dermatitis, Irritant",
+          "Environmental Pollutants",
+          "Humans",
+          "Patch Tests",
+          "Risk Assessment",
+          "Sensitivity and Specificity",
+          "Skin Irritancy Tests",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29086472/"
+      },
+      {
+        "pmid": "38099219",
+        "title": "Exploring the antibacterial and dermatitis-mitigating properties of chicken egg white-synthesized zinc oxide nano whiskers.",
+        "abstract": "Zinc oxide nanoparticles (ZnO-NPs) have garnered considerable interest in biomedical research primarily owing to their prospective therapeutic implications in combatting pathogenic diseases and microbial infections. The primary objective of this study was to examine the biosynthesis of zinc oxide nanowhiskers (ZnO-NWs) using chicken egg white (albumin) as a bio-template. Furthermore, this study aimed to explore the potential biomedical applications of ZnO NWs in the context of infectious diseases.",
+        "journal": "Frontiers in cellular and infection microbiology",
+        "year": "2023",
+        "authors": [
+          "Abdikakharovich Sidikov Akmal",
+          "Rauf Mohd A",
+          "Khattak Saadullah",
+          "Shah Junaid Ali",
+          "Al-Keridis Lamya Ahmed"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Mice",
+          "Zinc Oxide",
+          "Chickens",
+          "Egg White",
+          "Metal Nanoparticles",
+          "Microbial Sensitivity Tests",
+          "Anti-Bacterial Agents",
+          "Staphylococcus aureus",
+          "Communicable Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38099219/"
+      },
+      {
+        "pmid": "33960676",
+        "title": "Effectiveness of skin cleanser and protectant regimen on incontinence-associated dermatitis outcomes in acute care patients: A cluster randomised trial.",
+        "abstract": "Skin cleansers and protectants protect skin from incontinent matter to reduce the risk of incontinence-associated dermatitis (IAD), but their effectiveness treating established IAD in the tropics is unknown. We conducted an open-label cluster randomised trial to compare the effectiveness of a combined regimen of (1) specialised skin cleansers with disposable body wipes and (2) either an acrylic terpolymer (T1) or zinc oxide (T2) skin protectant against disposable body wipes and zinc oxide protectant (control) in promoting IAD healing and reducing the risk of deterioration. Eighty-four patients were recruited in a tertiary hospital in Singapore between April 2019 and January 2020 (T1: n = 23; T2: n = 37; Control: n = 24). Although not statistically significant, patients treated with T1 and T2 were 1.5 times as likely to experience IAD healing within seven days compared with the control (P = .66). Healing was more pronounced in participants with skin loss treated with T1 or T2. No treatm",
+        "journal": "International wound journal",
+        "year": "2021",
+        "authors": [
+          "Glass George Frederick",
+          "Goh Cheng Cheng Karine",
+          "Cheong Run Qi",
+          "Ong Zhi Lei",
+          "Khong Peck Chui Betty"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Dermatitis",
+          "Emollients",
+          "Fecal Incontinence",
+          "Humans",
+          "Skin Care",
+          "Urinary Incontinence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33960676/"
+      },
+      {
+        "pmid": "33427488",
+        "title": "Zinc oxide nanoparticles prevent multidrug resistant Staphylococcus-induced footpad dermatitis in broilers.",
+        "abstract": "The current experiment was designed to evaluate the effects of dietary supplementations of zinc oxide nanoparticles (ZONPs) on some behavioural, performance, welfare and histopathological changes in broilers exposed to multidrug resistant Staphylococcus aureus (MRSA)-induced footpad dermatitis (FPD). Eighty-four male Indian River (IR) broilers were randomly allotted to six different dietary treatments as follows: C-ve, C+ve, 10, 20, 30 and 40 ppm ZONPs from 7 to 49d of age. At day 28, broilers (n = 70) were sub-cutaneously injected with 0.5 ml of saline containing 5.3 × 107 CFU/ml of S. aureus (MRSA) in each metatarsal foot pad. Control (non-infected) broilers were given 0.5 ml of saline (n = 14). Results clarified that non-infected birds and ZONPs-fed birds had significantly higher standing and feeding activities and lower resting activities in comparison with the infected group. Also, the S. aureus infected group had significantly lower body weight gain (BWG) and higher feed conversi",
+        "journal": "Avian pathology : journal of the W.V.P.A",
+        "year": "2021",
+        "authors": [
+          "Mahmoud Usama T",
+          "Darwish Madeha H A",
+          "Ali Fatma Abo Zakaib",
+          "Amen Omar A",
+          "Mahmoud Manal A M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33427488/"
+      },
+      {
+        "pmid": "34747103",
+        "title": "Hyperzincemia due to topical zinc oxide in an infant with diaper dermatitis.",
+        "abstract": "",
+        "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+        "year": "2022",
+        "authors": [
+          "Fujita Tomoka",
+          "Kondo Miyuki",
+          "Baba Toru",
+          "Ohishi Akira",
+          "Iijima Shigeo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Diaper Rash",
+          "Humans",
+          "Infant",
+          "Metal Metabolism, Inborn Errors",
+          "Severity of Illness Index",
+          "Zinc Oxide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34747103/"
+      },
+      {
+        "pmid": "33169905",
+        "title": "Irritant contact dermatitis caused by zinc oxide eugenol and formocresol used in dental operation.",
+        "abstract": "",
+        "journal": "Journal of cosmetic dermatology",
+        "year": "2021",
+        "authors": [
+          "Cenk Hulya",
+          "Erdogan Yıldırım",
+          "Goksin Şule",
+          "Kacar Nida"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Eugenol",
+          "Formocresols",
+          "Humans",
+          "Irritants",
+          "Zinc Oxide",
+          "Zinc Oxide-Eugenol Cement"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33169905/"
+      },
+      {
+        "pmid": "32466085",
+        "title": "Graphene Decorated Zinc Oxide and Curcumin to Disinfect the Methicillin-Resistant Staphylococcus aureus.",
+        "abstract": "Sometimes, life-threatening infections are initiated by the biofilm formation facilitated at the infection site by the drug-resistant bacteria Staphylococcus aureus. The aggregation of the same type of bacteria leads to biofilm formation on the delicate tissue, dental plaque, and skin. In the present investigation, a Graphene (Gr)-based nano-formulation containing Curcumin (C.C.M.) and Zinc oxide nanoparticles (ZnO-NPs) showed a wide range of anti-microbial activity against Methicillin-resistant Staphylococcus aureus (MRSA) biofilm and demonstrated the anti-microbial mechanism of action. The anti-microbial effect of GrZnO nanocomposites, i.e., GrZnO-NCs, suggests that the integrated graphene-based nanocomposites effectively suppressed both sensitive as well as MRSA ATCC 43300 and BAA-1708 isolates. The S. aureus inhibitory effect of GrZnO-NCs improved >5-fold when combined with C.C.M., and demonstrated a M.I.C. of 31.25 µg/mL contrasting with the GrZnO-NCs or C.C.M. alone having M.I.C.",
+        "journal": "Nanomaterials (Basel, Switzerland)",
+        "year": "2020",
+        "authors": [
+          "Oves Mohammad",
+          "Rauf Mohd Ahmar",
+          "Ansari Mohammad Omaish",
+          "Aslam Parwaz Khan Aftab",
+          "A Qari Huda"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32466085/"
+      },
+      {
+        "pmid": "34434272",
+        "title": "Establishment of incontinence-associated dermatitis rat models and assessment of the therapeutic effects of zinc oxide, painless skin protective film and silicone dressing.",
+        "abstract": "The aim of the present study was to construct incontinence-associated dermatitis (IAD) rat models and observe the therapeutic effects of zinc oxide, painless skin protective film and silicone dressing on IAD. A total of 54 rats were randomly divided into nine groups: i) Control group; ii) trypsin model group; iii) model + zinc oxide group; iv) model + painless skin protective film group; v) model + silicon dressing group; vi) synthetic urine combined with trypsin model group (joint model group); vii) joint model + zinc oxide group; viii) joint model + painless skin protective film group; and ix) joint model + silicone dressing group. A total of 4 days after applying the zinc oxide, protective film or silicon dressing intervention, IAD scores and pH values in skin tissues were examined. Skin tissues and blood samples were collected. Hematoxylin and eosin staining, immunohistochemical staining of major histocompatibility complex class II (MHC-II) and western blot analysis of MHC-II, NF-κ",
+        "journal": "Experimental and therapeutic medicine",
+        "year": "2021",
+        "authors": [
+          "Chen Guiyuan",
+          "Huang Liquan",
+          "Chen Yingxun",
+          "Zheng Shufeng",
+          "Zhu Louying"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34434272/"
+      },
+      {
+        "pmid": "34698020",
+        "title": "Adverse Reactions to Sunscreens.",
+        "abstract": "Adverse reactions to sunscreens are uncommon in relation to their widespread use [Loden et al. Br J Dermatol. 2011;165(2):255-62; Jansen et al. J Am Acad Dermatol. 2013;69(6):867 e861-814; quiz 881-862] and can be related to both active and inactive ingredients in sunscreen products [DiNardo et al. J Cosmet Dermatol. 2018;17(1):15-19; Barrientos et al. Contact Dermatitis. 2019;81(2):151-52]. Pathogenetically, the main cutaneous adverse reaction patterns to sunscreens can be divided into allergic and irritant contact dermatitis, phototoxic and photoallergic contact dermatitis, contact urticaria, and, in solitary cases, anaphylactic reactions [Lautenschlager et al. Lancet. 2007;370(9586):528-37]. A summary is provided in Table <xref ref-type=\"table\" rid=\"t01\">1</xref>. Nearly all adverse effects due to active sunscreen ingredients reported to date are related to the organic UV filters, which are sometimes also referred to as \"chemical UV filters.\" This imbalance is attributable to the li",
+        "journal": "Current problems in dermatology",
+        "year": "2021",
+        "authors": [
+          "Ludriksone Laine",
+          "Elsner Peter"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Dermatitis, Allergic Contact",
+          "Dermatitis, Irritant",
+          "European Union",
+          "Humans",
+          "Pharmaceutical Vehicles",
+          "Skin",
+          "Skin Neoplasms",
+          "Sunscreening Agents",
+          "Titanium",
+          "Ultraviolet Rays"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34698020/"
+      },
+      {
+        "pmid": "36717288",
+        "title": "The effectiveness of a hydrocolloid crusting method versus standard care in the treatment of incontinence-associated dermatitis among adult patients in an acute care setting: A randomised controlled trial.",
+        "abstract": "Incontinence-associated dermatitis (IAD) is a type of irritant contact dermatitis due to prolonged exposure of the skin to moisture induced by urine or/and faeces. The main principles when treating IAD involves protecting the skin from further exposure to irritants, establishing a healing environment, and eradicating skin infections. This study aimed to evaluate the effectiveness of the hydrocolloid crusting method (HCM) versus the standard care method (SCM) in treating IAD.",
+        "journal": "Journal of tissue viability",
+        "year": "2023",
+        "authors": [
+          "Gunasegaran Nanthakumahrie",
+          "Ang Shin Yuh",
+          "Ng Yi Zhen",
+          "Lee Nian En Samuel",
+          "Agus Nurliyana"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adult",
+          "Dermatitis",
+          "Fecal Incontinence",
+          "Skin Care",
+          "Skin",
+          "Zinc Oxide",
+          "Urinary Incontinence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36717288/"
+      },
+      {
+        "pmid": "8706397",
+        "title": "Rosin (colophony) and zinc oxide in adhesive bandages. An appropriate combination for rosin-sensitive patients?",
+        "abstract": "Adhesives and bandages containing zinc oxide (ZnO) and rosin are often used for treatment of ulcers. The aim of this work was to study a possible inhibitory effect of ZnO on the elicitation of allergic contact reactions to rosin and to determine whether such an effect might be due to the formation of zinc resinates. Patch testing in rosin-sensitive patients was performed with mixes of ZnO and rosin. The eliciting capacities of one mix in which zinc resinates might be formed and another mix in which the formation of zinc resinates was prevented, were compared to the eliciting capacity of rosin alone. If a reduction of the allergic response was observed for the mix in which zinc resinates might form and if no reduction was observed for the mix in which formation of zinc resinates was prevented, this would support the hypothesis that the reduction in eliciting capacity was due to formation of zinc resinates. However, we could not see any difference in eliciting capacity when comparing the",
+        "journal": "Contact dermatitis",
+        "year": "1995",
+        "authors": [
+          "Gäfvert E",
+          "Färm G"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Abietanes",
+          "Adhesives",
+          "Chromatography, High Pressure Liquid",
+          "Dermatitis, Allergic Contact",
+          "Dermatologic Agents",
+          "Diterpenes",
+          "Humans",
+          "Occlusive Dressings",
+          "Patch Tests",
+          "Phenanthrenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8706397/"
+      },
+      {
+        "pmid": "29181960",
+        "title": "A starch, glycyrretinic, zinc oxide and bisabolol based cream in the treatment of chronic mild-to-moderate atopic dermatitis in children: a three-center, assessor blinded trial.",
+        "abstract": "Atopic dermatitis (AD) is a very common chronic inflammatory and eczematous skin condition characterized by flares and remissions. Skin barrier alteration or dysfunction is the most relevant patogenetic factor. Topical corticosteroids are the mainstay treatment of AD, especially during flare periods. The daily use of emollients and moisturizers is also considered a relevant adjunctive strategy to improve skin barrier function and skin appearance in AD patients. Long-term use of topical corticosteroids is associated with important drawbacks and side effects. A corticosteroid-free cream containing starch, glycyrretinic acid, zinc oxide and bisabolol (Dermamid™; Difa Cooper, Caronno Pertusella, Varese, Italy) has been designed for the treatment of acute eczematous conditions like diaper dermatitis. However, this formulation could be particularly suitable also for AD. We evaluated in a three-center, assessor-blinded prospective 6-week treatment trial the efficacy and tolerability of this c",
+        "journal": "Minerva pediatrica",
+        "year": "2017",
+        "authors": [
+          "Licari Amelia",
+          "Ruffinazzi Giulia",
+          "DE Filippo Maria",
+          "Castagnoli Riccardo",
+          "Marseglia Alessia"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Anti-Inflammatory Agents",
+          "Child",
+          "Child, Preschool",
+          "Dermatitis, Atopic",
+          "Dermatologic Agents",
+          "Drug Combinations",
+          "Emollients",
+          "Female",
+          "Glycyrrhetinic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29181960/"
+      },
+      {
+        "pmid": "36305368",
+        "title": "Comparison of a novel form of zinc with zinc oxide bolus licensed for prevention of facial eczema, and interaction with copper oxide in sheep.",
+        "abstract": "To evaluate a novel elemental zinc bolus compared with a registered positive control zinc oxide bolus and assess serum zinc concentrations following concomitant treatment with a capsule containing copper oxide needles. Forty Romney-cross ewes were randomly allocated in a 2 × 2 factorial design study. On Day 0, 20 ewes received novel boluses containing elemental zinc (Investigational Veterinary Product, IVP) while 20 received a zinc oxide bolus (control; CP). Half the animals in each zinc treatment group (n = 10) were treated with a copper oxide needle capsule [Copasure® - Ewe]. Weekly, from Day -7 to 56, all ewes were assessed for signs of photosensitization, and for 10 ewes from each zinc treatment groups, samples were collected for analysis of serum GGT activity, serum zinc concentrations, faecal zinc concentrations and on Days -7 and 56, liver copper concentrations. Multivariable random-effects models assessed the effects of zinc treatment, copper treatment, treatment interactions a",
+        "journal": "Australian veterinary journal",
+        "year": "2023",
+        "authors": [
+          "Berry E A",
+          "Milner S J",
+          "Bosson M",
+          "McDougall S"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial, Veterinary",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Sheep",
+          "Female",
+          "Zinc",
+          "Zinc Oxide",
+          "Copper",
+          "Eczema",
+          "Mycotoxicosis",
+          "Sheep Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36305368/"
+      },
+      {
+        "pmid": "29901362",
+        "title": "Comparative Study between Talcum and Zinc Oxide Cream for the Prevention of Irritant Contact Diaper Dermatitis in Infants.",
+        "abstract": "Baby powder which consists of talcum powder (magnesium silicate) as an active ingredient has been popularly used for prevention of irritant contact diaper dermatitis for a long time because it has water absorbent and friction-decreased properties. There are some case reports of its side effects of pulmonary complication from massive inhalation and the risk of ovarian tumors in adult. However the clinical research on the effectiveness of talcum powder for the prevention of diaper dermatitis has not been investigated.",
+        "journal": "Journal of the Medical Association of Thailand = Chotmaihet thangphaet",
+        "year": "2016",
+        "authors": [
+          "Chaithirayanon Suthida"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Diaper Rash",
+          "Female",
+          "Humans",
+          "Incidence",
+          "Infant",
+          "Infant Care",
+          "Male",
+          "Skin Cream",
+          "Talc",
+          "Thailand"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29901362/"
+      },
+      {
+        "pmid": "38465232",
+        "title": "Corrigendum: Exploring the antibacterial and dermatitis-mitigating properties of chicken egg white-synthesized zinc oxide nano whiskers.",
+        "abstract": "[This corrects the article DOI: 10.3389/fcimb.2023.1295593.].",
+        "journal": "Frontiers in cellular and infection microbiology",
+        "year": "2024",
+        "authors": [
+          "Abdikakharovich Sidikov Akmal",
+          "Rauf Mohd A",
+          "Khattak Saadullah",
+          "Shah Junaid Ali",
+          "Al-Keridis Lamya Ahmed"
+        ],
+        "pub_types": [
+          "Published Erratum"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38465232/"
+      },
+      {
+        "pmid": "31669718",
+        "title": "The effect of the inhalation of and topical exposure to zinc oxide nanoparticles on airway inflammation in mice.",
+        "abstract": "Zinc oxide nanoparticles (ZnONPs) are widely used in the manufacturing of many commercial products. Workers exposed to ZnO particles may develop metal fume fever. Our previous study suggested that the oropharyngeal aspiration of ZnONPs could cause eosinophilic airway inflammation and increase T helper 2 (Th2) cytokine expression in the absence of allergens in mice. ZnO has been used topically as a sunscreen and a therapeutic agent for dermatological conditions. To understand whether inhalation and topically applied ZnONPs might cause or exert an adjuvant effect on the development of allergic airway inflammation in mice, C57BL/6 J mice were exposed to filtered air or 2.5 mg/m3 ZnONPs via whole-body inhalation for 5 h a day over 5 days, and BALB/c mice were topically exposed to ZnONPs using modified mouse models of atopic dermatitis (AD) and asthma. Ovalbumin (OVA) solution was used as an allergen in the topical exposure experiments. A significantly increased eosinophil count and mixed T",
+        "journal": "Toxicology and applied pharmacology",
+        "year": "2019",
+        "authors": [
+          "Huang Kuo-Liang",
+          "Chang Hung-Lun",
+          "Tsai Fu-Ming",
+          "Lee Yi-Hsin",
+          "Wang Chun-Hua"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Administration, Topical",
+          "Animals",
+          "Asthma",
+          "Bronchoalveolar Lavage Fluid",
+          "Dermatitis, Atopic",
+          "Disease Models, Animal",
+          "Eosinophilia",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31669718/"
+      },
+      {
+        "pmid": "17128840",
+        "title": "Comparison of dexpanthenol and zinc oxide ointment with ointment base in the treatment of irritant diaper dermatitis from diarrhea: a multicenter study.",
+        "abstract": "Severity of irritant diaper dermatitis (IDD) from diarrhea varies from patient to patient depending on the nature of feces and the number of bowel movements. The purpose of the present study was to compare the effectiveness of dexpanthenol and zinc oxide ointment with ointment base in the treatment of irritant diaper dermatitis from acute diarrhea in children by measuring transepidermal water loss (TEWL).",
+        "journal": "Journal of the Medical Association of Thailand = Chotmaihet thangphaet",
+        "year": "2006",
+        "authors": [
+          "Wananukul Siriwan",
+          "Limpongsanuruk Wanida",
+          "Singalavanija Srisupalak",
+          "Wisuthsarewong Wanee"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Dermatologic Agents",
+          "Diaper Rash",
+          "Diarrhea",
+          "Female",
+          "Humans",
+          "Infant",
+          "Infant Care",
+          "Male",
+          "Ointment Bases",
+          "Pantothenic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17128840/"
+      },
+      {
+        "pmid": "39081404",
+        "title": "Effects of Nursing Program in Preventing Incontinence-Associated Dermatitis by Applying Zinc Oxide and Petroleum Jelly Skin Protection Products Among Older Patients in Semi-Intensive Medical Care Units: A Pilot Study.",
+        "abstract": "Incontinence-associated dermatitis is a common health problem among older clinical patients, causing related severe skin damage such as pressure ulcers, secondary infection, and long length of hospital stay. This pilot study aimed to develop and examine the effects of nursing programs in preventing incontinence-associated dermatitis (IAD) among older patients. Ten older patients at high risk of incontinence-associated dermatitis were included in this study: five patients received a nursing program combined with mixed products, and another five received a nursing program combined with separate use of products. The program was evaluated using a perianal assessment tool (PAT-T) for risk assessment, the incontinence-associated dermatitis invention tool (IADIT-T) for severity assessment, the skin surface pH, and skin surface moisture. The results revealed that the nursing program and skin products are usable and acceptable, provide step-by-step details, and are simple and easy to follow. Th",
+        "journal": "Journal of multidisciplinary healthcare",
+        "year": "2024",
+        "authors": [
+          "Sommana Chakkarin",
+          "Banharak Samoraphop",
+          "Sim-Im Supin",
+          "Ransinyo Khanisorn"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39081404/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:34:13.141004",
+  "success": true,
+  "error_message": null
+}

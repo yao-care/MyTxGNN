@@ -1,0 +1,599 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Simvastatin",
+    "disease": "arteriosclerosis disorder",
+    "query_string": "Simvastatin AND arteriosclerosis disorder"
+  },
+  "data": {
+    "query": "Simvastatin AND arteriosclerosis disorder",
+    "results": [
+      {
+        "pmid": "22085343",
+        "title": "Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy.",
+        "abstract": "In patients with established cardiovascular disease, residual cardiovascular risk persists despite the achievement of target low-density lipoprotein (LDL) cholesterol levels with statin therapy. It is unclear whether extended-release niacin added to simvastatin to raise low levels of high-density lipoprotein (HDL) cholesterol is superior to simvastatin alone in reducing such residual risk.",
+        "journal": "The New England journal of medicine",
+        "year": "2011",
+        "authors": [
+          "Boden William E",
+          "Probstfield Jeffrey L",
+          "Anderson Todd",
+          "Chaitman Bernard R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Atherosclerosis",
+          "Brain Ischemia",
+          "Cardiovascular Diseases",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22085343/"
+      },
+      {
+        "pmid": "21095263",
+        "title": "Study of Heart and Renal Protection (SHARP): randomized trial to assess the effects of lowering low-density lipoprotein cholesterol among 9,438 patients with chronic kidney disease.",
+        "abstract": "Lowering low-density lipoprotein (LDL) cholesterol with statin therapy has been shown to reduce the incidence of atherosclerotic events in many types of patient, but it remains uncertain whether it is of net benefit among people with chronic kidney disease (CKD).",
+        "journal": "American heart journal",
+        "year": "2010",
+        "authors": [
+          "Sharp Collaborative Group"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anticholesteremic Agents",
+          "Atherosclerosis",
+          "Azetidines",
+          "Cholesterol, LDL",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Ezetimibe"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21095263/"
+      },
+      {
+        "pmid": "11336576",
+        "title": "Pharmacology and clinical experience with simvastatin.",
+        "abstract": "Simvastatin (Zocortrade mark, Merck) is a safe and effective 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase inhibitor. Simvastatin potently lowers total and low density lipoprotein (LDL) cholesterol. Simvastatin was the first cholesterol-lowering agent that reduced total mortality in a randomised clinical trial. Simvastatin is effective at reducing total mortality, myocardial infarction, coronary mortality and the incidence of stroke or transient ischemic attack in patients with coronary heart disease and hypercholesterolemia. Simvastatin, like other statins, also has non-lipid mechanisms of action. These include anti-inflammatory effects, antiproliferative effects on smooth muscle cells and an upregulation of endothelial nitric oxide synthase. Overall, simvastatin has an excellent safety profile. Simvastatin, along with other statins, has made a significant impact on the morbidity and mortality from coronary heart disease.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2001",
+        "authors": [
+          "Hess D C",
+          "Fagan S C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Arteriosclerosis",
+          "Cholesterol, LDL",
+          "Clinical Trials, Phase I as Topic",
+          "Clinical Trials, Phase II as Topic",
+          "Clinical Trials, Phase III as Topic",
+          "Coronary Disease",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11336576/"
+      },
+      {
+        "pmid": "39577453",
+        "title": "Drugs for dyslipidaemia: the legacy effect of the Scandinavian Simvastatin Survival Study (4S).",
+        "abstract": "Since the discovery of statins and the Scandinavian Simvastatin Survival Study (4S) results three decades ago, remarkable advances have been made in the treatment of dyslipidaemia, a major risk factor for atherosclerotic cardiovascular disease. Safe and effective statins remain the cornerstone of therapeutic approach for this indication, including for children with genetic dyslipidaemia, and are one of the most widely prescribed drugs in the world. However, despite the affordability of generic statins, they remain underutilised worldwide. The use of ezetimibe to further decrease plasma LDL cholesterol and the targeting of other atherogenic lipoproteins, such as triglyceride-rich lipoproteins and lipoprotein(a), are likely to be required to further reduce atherosclerotic cardiovascular disease events. Drugs directed at these lipoproteins, including gene silencing and editing methods that durably suppress the production of proteins, such as PCSK9 and ANGPTL3, open novel therapeutic optio",
+        "journal": "Lancet (London, England)",
+        "year": "2024",
+        "authors": [
+          "Strandberg Timo E",
+          "Kovanen Petri T",
+          "Lloyd-Jones Donald M",
+          "Raal Frederick J",
+          "Santos Raul D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Dyslipidemias",
+          "Simvastatin",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Ezetimibe",
+          "Atherosclerosis",
+          "Cholesterol, LDL",
+          "Anticholesteremic Agents",
+          "Scandinavian and Nordic Countries",
+          "Cardiovascular Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39577453/"
+      },
+      {
+        "pmid": "10740137",
+        "title": "Statins: effective antiatherosclerotic therapy.",
+        "abstract": "Statins are the most effective agents currently available for lowering plasma levels of low-density lipoprotein cholesterol (LDL-C) and are the mainstay of therapy for hyperlipidemia. The statins are highly liver-selective, inhibiting 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, a key enzyme in the synthesis of cholesterol. Several large, controlled clinical trials have confirmed significant reductions in rates of coronary heart disease morbidity and death with long-term statin therapy in patients with mild to severe hypercholesterolemia.",
+        "journal": "American heart journal",
+        "year": "2000",
+        "authors": [
+          "Blumenthal R S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Cholesterol, LDL",
+          "Coronary Artery Disease",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia",
+          "Survival Rate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10740137/"
+      },
+      {
+        "pmid": "28448973",
+        "title": "Downregulations of CD36 and Calpain-1, Inflammation, and Atherosclerosis by Simvastatin in Apolipoprotein E Knockout Mice.",
+        "abstract": "In the previous in vitro study, we found that simvastatin decreased the protein expression of CD36, the scavenger receptor, and calpain-1, the Ca2+-sensitive cysteine protease, in oxidized low-density lipoprotein (oxLDL)-treated macrophages. In this in vivo study, we investigated whether simvastatin downregulates the expression of CD36 and calpain-1 and inhibits the inflammation and atherosclerosis in apolipoprotein E knockout (ApoE KO) mice.",
+        "journal": "Journal of vascular research",
+        "year": "2017",
+        "authors": [
+          "Yin Meihui",
+          "Liu Qianqian",
+          "Yu Lan",
+          "Yang Yueyan",
+          "Lu Meili"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Antigens, CD",
+          "Antigens, Differentiation, Myelomonocytic",
+          "Aorta",
+          "Aortic Diseases",
+          "Apolipoproteins E",
+          "Atherosclerosis",
+          "CD36 Antigens",
+          "Calpain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28448973/"
+      },
+      {
+        "pmid": "20425166",
+        "title": "The SEAS Trial.",
+        "abstract": "The pathobiology of aortic stenosis (AS) now is recognized to have many similiarities to that of atherosclerosis, a disease in which lipid lowering therapy with statin drugs has been successful. Accordingly statins have been used to attempt to retard the progression of AS with variable success. The SEAS trial compared the effects of the combination of simvastatin and ezetimibe to placebo in retarding the progression of aortic stenosis (AS) and was the largest randomized trial of such therapies. One thousand eight hundred seventy three patients with moderate AS were included. The group receiving the drugs had a large reduction in LDL cholesterol and a reduction in coronary events. However drug therapy had no effect on the progression of AS. Conclusion. While AS has many similarities to atherosclerosis, lipid lowering therapy does not affect progression of moderate to severe AS.",
+        "journal": "Current cardiology reports",
+        "year": "2010",
+        "authors": [
+          "Carabello Blase A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Aortic Valve Stenosis",
+          "Azetidines",
+          "Cholesterol, LDL",
+          "Coronary Artery Disease",
+          "Disease Progression",
+          "Ezetimibe",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Simvastatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20425166/"
+      },
+      {
+        "pmid": "9648450",
+        "title": "[Hyperlipidemia and arteriosclerosis].",
+        "abstract": "",
+        "journal": "Nihon Naika Gakkai zasshi. The Journal of the Japanese Society of Internal Medicine",
+        "year": "1998",
+        "authors": [
+          "Mabuchi H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Coronary Artery Disease",
+          "Coronary Disease",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hyperlipidemias",
+          "Lovastatin",
+          "Pravastatin",
+          "Simvastatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9648450/"
+      },
+      {
+        "pmid": "8916484",
+        "title": "Atherosclerosis and restenosis: reflections on the Lovastatin Restenosis Trial and Scandinavian Simvastatin Survival Study.",
+        "abstract": "Atherosclerosis is related to serum lipids, whereas restenosis after coronary angioplasty is probably not, reflecting different pathophysiologies. Nonetheless, treatment of lipid disorders is appropriate after angioplasty.",
+        "journal": "The American journal of cardiology",
+        "year": "1996",
+        "authors": [
+          "Weintraub W S",
+          "Pederson J P"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Angioplasty, Balloon, Coronary",
+          "Anticholesteremic Agents",
+          "Coronary Artery Disease",
+          "Death, Sudden, Cardiac",
+          "Humans",
+          "Lovastatin",
+          "Myocardial Infarction",
+          "Pravastatin",
+          "Randomized Controlled Trials as Topic",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8916484/"
+      },
+      {
+        "pmid": "14618093",
+        "title": "The effects of raloxifene and simvastatin on plasma lipids and endothelium.",
+        "abstract": "Raloxifene is a selective estrogen receptor modulator and an attractive alternative to estrogen replacement as it obviates the need for a progestin and does not increase C-reactive protein levels. We compared the effects of simvastatin and raloxifene treatments on the lipid profile, the levels of adhesion molecules and the endothelium dependent and independent vasoreactivity.",
+        "journal": "Cardiovascular drugs and therapy",
+        "year": "2003",
+        "authors": [
+          "Sbarouni Eftihia",
+          "Flevari Panagiota",
+          "Kroupis Christos",
+          "Kyriakides Zenon S",
+          "Koniavitou Katerina"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Cell Adhesion Molecules",
+          "Coronary Artery Disease",
+          "Cross-Over Studies",
+          "Double-Blind Method",
+          "Endothelium, Vascular",
+          "Female",
+          "Forearm",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14618093/"
+      },
+      {
+        "pmid": "27281490",
+        "title": "Simvastatin and oxidative stress in humans: A randomized, double-blinded, placebo-controlled clinical trial.",
+        "abstract": "Simvastatin reduces the blood concentration of cholesterol by inhibiting hydroxymethylglutaryl-coenzyme A reductase, the rate-limiting enzyme in cholesterol synthesis, and thereby reduces the risk of cardiovascular disease. In addition, simvastatin treatment leads to a reduction in fluxes in mitochondrial respiratory complexes I and II and might thereby reduce the formation of reactive oxygen species, which have been implicated in the pathogenesis of arteriosclerosis. Therefore, we hypothesized that simvastatin may reduce oxidative stress in humans in vivo. We conducted a randomized, double-blinded, placebo-controlled study in which subjects were treated with either 40mg of simvastatin or placebo for 14 days. The endpoints were six biomarkers for oxidative stress, which represent intracellular oxidative stress to nucleic acids, lipid peroxidation and plasma antioxidants, that were measured in urine and plasma samples. A total of 40 participants were included, of which 39 completed the ",
+        "journal": "Redox biology",
+        "year": "2016",
+        "authors": [
+          "Rasmussen Sanne Tofte",
+          "Andersen Jon Trærup",
+          "Nielsen Torben Kjær",
+          "Cejvanovic Vanja",
+          "Petersen Kasper Meidahl"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Biomarkers",
+          "Healthy Volunteers",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Lipid Peroxidation",
+          "Male",
+          "Metabolome",
+          "Metabolomics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27281490/"
+      },
+      {
+        "pmid": "39243751",
+        "title": "Serum tsncRNAs reveals novel potential therapeutic targets of Salvianolic Acid B on atherosclerosis.",
+        "abstract": "Salvianolic Acid B (SalB) has been proven to delay the progression of atherosclerosis. The therapeutic mechanisms of this compound are unclear. A novel class of short non-coding RNAs, pre-transfer RNA and mature transfer RNA (tsncRNAs) may regulate gene expression. TsncRNAs-sequencing revealed novel therapeutic targets for SalB. This is the first study focusing on tsncRNAs to treat atherosclerosis using SalB.",
+        "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+        "year": "2024",
+        "authors": [
+          "Chang Xindi",
+          "Du Min",
+          "Wei Jing",
+          "Zhang Yifan",
+          "Feng Xiaoteng"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Atherosclerosis",
+          "Benzofurans",
+          "Male",
+          "Mice, Inbred C57BL",
+          "Mice",
+          "Disease Models, Animal",
+          "Cytokines",
+          "Simvastatin",
+          "Depsides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39243751/"
+      },
+      {
+        "pmid": "11986546",
+        "title": "The effects of simvastatin-niacin and antioxidant therapy on HDL.",
+        "abstract": "",
+        "journal": "Progress in cardiovascular nursing",
+        "year": "2002",
+        "authors": [
+          "Drown Donna J"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Antioxidants",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Coronary Artery Disease",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Hypolipidemic Agents",
+          "Niacin",
+          "Simvastatin",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11986546/"
+      },
+      {
+        "pmid": "28613211",
+        "title": "Role of simvastatin and RORα activity in the macrophage apoptotic pathway.",
+        "abstract": "Atherosclerosis is a chronic inflammatory condition and is one of the main causes of death worldwide. Macrophages play important roles in the formation of atherosclerotic plaques. Apoptosis is progressively observed while plaques develop, although the precise mechanisms and outcomes of apoptosis in atherosclerosis development and progression are still contradictory. This study was conducted to explore the effects of simvastatin and retinoic acid receptor-related orphan receptor alpha (RORα) ligands on apoptosis in human acute monocytic leukemia (THP-1) macrophage cells.",
+        "journal": "Anatolian journal of cardiology",
+        "year": "2017",
+        "authors": [
+          "Çoban Neslihan",
+          "Güleç Çağrı",
+          "Özsait Selçuk Bilge",
+          "Erginel-Ünaltuna Nihan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Apoptosis",
+          "Coronary Artery Disease",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Macrophages",
+          "Nuclear Receptor Subfamily 1, Group F, Member 1",
+          "Simvastatin",
+          "THP-1 Cells"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28613211/"
+      },
+      {
+        "pmid": "31704996",
+        "title": "Simvastatin mediates inhibition of exosome synthesis, localization and secretion via multicomponent interventions.",
+        "abstract": "Discovery of exosomes as modulator of cellular communication has added a new dimension to our understanding of biological processes. Exosomes influence the biological systems by mediating trans-communication across tissues and cells, which has important implication for health and disease. In absence of well-characterized modulators of exosome biogenesis, an alternative option is to target pathways generating important exosomal components. Cholesterol represents one such essential component required for exosomal biogenesis. We initiated this study to test the hypothesis that owing to its cholesterol lowering effect, simvastatin, a HMG CoA inhibitor, might be able to alter exosome formation and secretion. Simvastatin was tested for its effect on exosome secretion under various in-vitro and in-vivo settings and was found to reduce the secretion of exosome from various cell-types. It was also found to alter the levels of various proteins important for exosome production. Murine model of Ac",
+        "journal": "Scientific reports",
+        "year": "2019",
+        "authors": [
+          "Kulshreshtha Ankur",
+          "Singh Swati",
+          "Ahmad Mohd",
+          "Khanna Kritika",
+          "Ahmad Tanveer"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Asthma",
+          "Atherosclerosis",
+          "Cell Line",
+          "Cholesterol",
+          "Disease Models, Animal",
+          "Exosomes",
+          "Human Umbilical Vein Endothelial Cells",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31704996/"
+      },
+      {
+        "pmid": "27544235",
+        "title": "Neuroprotective Effects of Simvastatin and Cilostazol in L-Methionine-Induced Vascular Dementia in Rats.",
+        "abstract": "Vascular dementia (VaD) is a degenerative cerebrovascular disorder that leads to progressive decline in cognitive abilities and memory. Several reports demonstrated that oxidative stress and endothelial dysfunction are principal pathogenic factors in VaD. The present study was constructed to determine the possible neuroprotective effects of simvastatin in comparison with cilostazol in VaD induced by L-methionine in rats. Male Wistar rats were divided into four groups. Group I (control group), group II received L-methionine (1.7 g/kg, p.o.) for 32 days. The remaining two groups received simvastatin (50 mg/kg, p.o.) and cilostazol (100 mg/kg, p.o.), respectively, for 32 days after induction of VaD by L-methionine. Subsequently, rats were tested for cognitive performance using Morris water maze test then sacrificed for biochemical and histopathological assays. L-methionine induced VaD reflected by alterations in rats' behavior as well as the estimated neurotransmitters, acetylcholinestera",
+        "journal": "Molecular neurobiology",
+        "year": "2017",
+        "authors": [
+          "El-Dessouki Ahmed M",
+          "Galal Mai A",
+          "Awad Azza S",
+          "Zaki Hala F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Brain",
+          "Cilostazol",
+          "Dementia, Vascular",
+          "Disease Models, Animal",
+          "Endothelium, Vascular",
+          "Male",
+          "Maze Learning",
+          "Memory",
+          "Methionine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27544235/"
+      },
+      {
+        "pmid": "19589242",
+        "title": "Simvastatin reduces OX40 and OX40 ligand expression in human peripheral blood mononuclear cells and in patients with atherosclerotic cerebral infarction.",
+        "abstract": "This study investigated the effect of simvastatin on the expression of OX40 and OX40 ligand (OX40L) in vitro and in vivo. OX40 and OX40L mRNA and protein levels were measured in human peripheral blood mononuclear cells, using reverse transcription-polymerase chain reaction and Western blot, respectively, in response to simvastatin alone or given in combination with interferon-gamma, mevalonate or GW9662, a peroxisome proliferators-activated receptor-gamma (PPAR-gamma) antagonist. Simvastatin induced down-regulation of OX40 and OX40L mRNA and protein in a concentration-dependent manner, and antagonized the interferon-gamma-induced increase in OX40 and OX40L mRNA and protein levels. Mevalonate, but not GW9662, reversed the simvastatin-induced down-regulation of OX40 and OX40L expression, indicating that these effects were mediated through the mevalonate pathway. Serum levels of soluble OX40L and matrix metalloproteinase 9 levels were significantly reduced in patients with atherosclerotic",
+        "journal": "The Journal of international medical research",
+        "year": "2009",
+        "authors": [
+          "Liu B",
+          "Yu G",
+          "Yang Z",
+          "Sun L",
+          "Song R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Atherosclerosis",
+          "Cerebral Infarction",
+          "Gene Expression Regulation",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Leukocytes, Mononuclear",
+          "Male",
+          "Matrix Metalloproteinase 9",
+          "Middle Aged",
+          "OX40 Ligand"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19589242/"
+      },
+      {
+        "pmid": "8001298",
+        "title": "Dyslipidemia and coronary artery disease.",
+        "abstract": "Genetically determined and metabolically induced disturbances in lipid metabolism, as manifested in several types of dyslipidemia, have been shown to be causally related to the development of coronary artery disease (CAD). A diversity of clinical and angiographic studies has been made to evaluate the linkage between plasma lipid-control therapy in the development of initial and recurrent cardiovascular events. The plan of treatment invariably begins with a low-fat, low-cholesterol diet before initiation of drug therapy. However, many patients have difficulty in adhering to the low-fat diet. Fortunately, metabolic studies show that foods which contain fats rich in stearic (saturated) and oleic (monounsaturated) fatty acids may be given in limited amounts to boost patients' compliance to a low-fat diet and to prevent their blood lipids from rising to abnormal levels. A bile acid sequestrant (cholestyramine or colestipol) is the first-line drug for control of hypercholesterolemia. Either ",
+        "journal": "Clinical cardiology",
+        "year": "1994",
+        "authors": [
+          "Kuo P T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arteriosclerosis",
+          "Cholesterol",
+          "Coronary Disease",
+          "Drug Therapy, Combination",
+          "Exercise",
+          "Gemfibrozil",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hyperlipidemias",
+          "Niacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8001298/"
+      },
+      {
+        "pmid": "19118311",
+        "title": "Calcific aortic stenosis.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2009",
+        "authors": [
+          "Pazianas Michael"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticholesteremic Agents",
+          "Aortic Valve Stenosis",
+          "Atherosclerosis",
+          "Azetidines",
+          "Calcinosis",
+          "Disease Progression",
+          "Ezetimibe",
+          "Humans",
+          "Models, Biological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19118311/"
+      },
+      {
+        "pmid": "23305447",
+        "title": "Preparation and in vitro percutaneous penetration of simvastatin ethosome gel.",
+        "abstract": "To prepare ethosome gel containing simvastatin ethosome and investigate the permeation behavior of simvastatin from ethosome gel. Cumulative permeation quantity in unit area and intradermal retention were the indicators to evaluate the effects of simvastatin in vitro percutaneous permeation behavior. Cumulative permeation quantity in unit area of simvastatin ethosome gel was significantly higher than other agents (P < 0.05), the intradermal retention of simvastatin ethosome gel, simvastatin gel containing 1%, and 3% menthol were significantly higher than simvastatin gel (P < 0.05). Ethosome gel could enhance the skin permeation and accumulation in a depot of simvastatin.",
+        "journal": "Artificial cells, nanomedicine, and biotechnology",
+        "year": "2013",
+        "authors": [
+          "An Keyao",
+          "Sun Yong",
+          "Wu Yan",
+          "Yuan Haicheng",
+          "Cui Zhaoyuan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Animals",
+          "Coronary Artery Disease",
+          "Drug Delivery Systems",
+          "Gels",
+          "Humans",
+          "In Vitro Techniques",
+          "Male",
+          "Mice",
+          "Mice, Inbred Strains"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23305447/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:33:42.663652",
+  "success": true,
+  "error_message": null
+}

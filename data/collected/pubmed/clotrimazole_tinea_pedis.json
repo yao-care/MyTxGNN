@@ -1,0 +1,604 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clotrimazole",
+    "disease": "tinea pedis",
+    "query_string": "Clotrimazole AND tinea pedis"
+  },
+  "data": {
+    "query": "Clotrimazole AND tinea pedis",
+    "results": [
+      {
+        "pmid": "9530545",
+        "title": "Butenafine.",
+        "abstract": "Butenafine is a new antifungal agent with primary fungicidal activity against dermatophytes such as Trichophyton mentagrophytes, Microsporum canis and Trichophyton rubrum which cause tinea infections. 14C-labelled butenafine (approximately 30 micrograms/g tissue) was found within guinea-pig dorsal skin 24 hours after topical application. Most of the drug was distributed into the epidermis including the horny layer. Small amounts were found in the dermis, probably transported via sebaceous glands and hair follicles. In vitro, the minimum concentration that completely inhibited growth of dermatophytes (MIC) and the minimum fungicidal concentrations (MFC) for butenafine against T. mentagrophytes and M. canis were similar (0.012 to 0.05 mg/L) and were 4 to 130 times lower than those for naftifine, tolnaftate, clotrimazole and bifonazole. It also has greater activity against T. rubrum, M. gypseum and Epidermophyton floccosum when compared with naftifine, tolnaftate and clotrimazole; compari",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "McNeely W",
+          "Spencer C M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Benzylamines",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Naphthalenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9530545/"
+      },
+      {
+        "pmid": "778288",
+        "title": "Superficial mycoses.",
+        "abstract": "Twenty-five years ago many of the topical remedies for superficial mycoses were irritating, toxic, or allergenic. Total x-ray depilation of the scalp was the accepted mode of therapy for tinea capitis. The introduction of topical nystatin for candidiasis and tolnaftate for dermatophytosis were major advances, but tinea capitis, onychomycosis, and chronic tinea pedis still presented problems. Soon after its introduction in 1958, griseofulvin became the definitive form of therapy for all types of dermatophytosis and played a major role in abolishing large-scale epidemics of tinea capitis in some countries. Recently, haloprogin and the imidazole derivatives, miconazole and clotrimazole, which are topically active against dermatophytes and Candida albicans, have become available. Selective indicator media for isolating dermatophytes are useful diagnostic tools, but quicker methods of diagnosis which require little interpretation are still lacking. Epidemiologic studies in Vietnam again rev",
+        "journal": "The Journal of investigative dermatology",
+        "year": "1976",
+        "authors": [
+          "Taplin D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Animals",
+          "Antifungal Agents",
+          "Arthrodermataceae",
+          "Candidiasis",
+          "Dermatomycoses",
+          "Female",
+          "Griseofulvin",
+          "Hair Removal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/778288/"
+      },
+      {
+        "pmid": "8401048",
+        "title": "Comparison of terbinafine and clotrimazole in treating tinea pedis.",
+        "abstract": "To compare the efficacy and safety of terbinafine 1% cream and clotrimazole 1% cream in the treatment of tinea pedis.",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "1993",
+        "authors": [
+          "Evans E G",
+          "Dodman B",
+          "Williamson D M",
+          "Brown G J",
+          "Bowen R G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antifungal Agents",
+          "Child",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Epidermophyton"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8401048/"
+      },
+      {
+        "pmid": "320670",
+        "title": "Topical clotrimazole in tinea pedis.",
+        "abstract": "Clotrimazole is a new antifungal agent which is effective topically in dermatophytosis, cutaneous candidiasis, and tinea vesicolor. The authors performed a controlled double-blind clinical trial comparing topical clotrimazole with its vehicle in the treatment of 66 patients with dermatophytic infections of the skin of the feet. Clotrimazole proved to be effective in the treatment of tinea pedis of both the interdigital and the plantar hyperkeratotic types.",
+        "journal": "Southern medical journal",
+        "year": "1977",
+        "authors": [
+          "Smith E B",
+          "Graham J L",
+          "Ulrich J A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Clinical Trials as Topic",
+          "Clotrimazole",
+          "Humans",
+          "Imidazoles",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/320670/"
+      },
+      {
+        "pmid": "9154392",
+        "title": "Tinea pedis: clinical experience and efficacy of short treatment.",
+        "abstract": "Tinea pedis is the commonest fungal infection in developed countries. Topical therapy is an accepted and successful method for the management of this condition. This has usually involved the application of an antifungal twice or 3 times a day for 3-4 weeks to achieve a cure rate of > or = 80%. Terbinafine, a new antifungal, has been shown in a number of studies to give equally good results when applied once or twice daily for 1-2 weeks. In one study, a cure rate of 78% was achieved in patients with tinea pedis after a single application of 1% terbinafine cream, demonstrating the high potency of this antifungal. Topical terbinafine has also been compared to clotrimazole for the treatment of tinea pedis. Terbinafine 1% cream applied twice daily for 1 week was significantly superior to a 4-week course of clotrimazole 1% cream for treating this common mycosis. Overall, the high efficacy of topical terbinafine in treating tinea pedis following such-short-duration therapy is undoubtedly due ",
+        "journal": "Dermatology (Basel, Switzerland)",
+        "year": "1997",
+        "authors": [
+          "Evans E G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Antifungal Agents",
+          "Clinical Trials as Topic",
+          "Clotrimazole",
+          "Drug Administration Schedule",
+          "Humans",
+          "Naphthalenes",
+          "Terbinafine",
+          "Tinea Pedis",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9154392/"
+      },
+      {
+        "pmid": "21696646",
+        "title": "Athlete's foot.",
+        "abstract": "Around 15% to 25% of people are likely to have athlete's foot at any one time. The infection can spread to other parts of the body and to other people.",
+        "journal": "BMJ clinical evidence",
+        "year": "2009",
+        "authors": [
+          "Crawford Fay"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Clotrimazole",
+          "Drug Administration Schedule",
+          "Econazole",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Hygiene",
+          "Miconazole",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21696646/"
+      },
+      {
+        "pmid": "24863842",
+        "title": "Clotrimazole as a pharmaceutical: past, present and future.",
+        "abstract": "Clotrimazole is a broad-spectrum antimycotic drug mainly used for the treatment of Candida albicans and other fungal infections. A synthetic, azole antimycotic, clotrimazole is widely used as a topical treatment for tinea pedis (athlete's foot), as well as vulvovaginal and oropharyngeal candidiasis. It displays fungistatic antimycotic activity by targeting the biosynthesis of ergosterol, thereby inhibiting fungal growth. As well as its antimycotic activity, clotrimazole has become a drug of interest against several other diseases such as sickle cell disease, malaria and some cancers. It has also been combined with other molecules, such as the metals, to produce clotrimazole complexes that show improved pharmacological efficacy. Moreover, several new, modified-release pharmaceutical formulations are also undergoing development. Clotrimazole is a very well-tolerated product with few side effects, although there is some drug resistance appearing among immunocompromised patients. Here, we ",
+        "journal": "Journal of applied microbiology",
+        "year": "2014",
+        "authors": [
+          "Crowley P D",
+          "Gallagher H C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Clotrimazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24863842/"
+      },
+      {
+        "pmid": "10570555",
+        "title": "Topical treatment of interdigital tinea pedis: terbinafine compared with clotrimazole.",
+        "abstract": "A multicentre, prospective, randomized, double-blind, parallel group study was undertaken to compare the efficacy and tolerability of topical terbinafine with topical clotrimazole in the treatment of interdigital tinea pedis. Patients were randomized to receive either terbinafine 1% cream twice daily for 1 week, followed by a similar placebo cream for 5 weeks, or clotrimazole 1% cream twice daily for 4 weeks. Outcome measures were: (i) mycological cure (negative culture); (ii) effective treatment (negative culture plus a symptom score of 2 or less out of a maximum score of 18); and (iii) complete cure (negative culture and a symptom score of 0); measured at 1, 4, 8 and 12 weeks after the commencement of the study. One hundred and four of the 217 patients randomized had a culture-confirmed dermatophyte infection at baseline. In these patients, 84.6% in the terbinafine group were culture negative after 1 week, compared with only 55.8% in the clotrimazole group. Both agents were well tole",
+        "journal": "The Australasian journal of dermatology",
+        "year": "1999",
+        "authors": [
+          "Patel A",
+          "Brookman S D",
+          "Bullen M U",
+          "Marley J",
+          "Ellis D H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Antifungal Agents",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Humans",
+          "Naphthalenes",
+          "Prospective Studies",
+          "Terbinafine",
+          "Tinea Pedis",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10570555/"
+      },
+      {
+        "pmid": "688767",
+        "title": "Treatment of \"tinea pedis\" with griseofulvin and topical antifungal cream.",
+        "abstract": "A protocol for determining the antifungal efficacy of systemic or topical drugs in tinea pedis is presented. In this study, (1) no patient had concomitant onychomycosis; (2) the clinical types were separated into (a) plantar scaling, (b) intertriginous, and (c) vesicular instep; (3) the soles were treated for three months (time related to the shedding of all stratum corneum); (4) the follow-up period for soles was three months (related to characteristics of the drug and its depot effect on the target area, the horny layer); (5) the final evaluation related to the percentage of patients \"clinically and mycologically cured\" at the end of the follow-up period. With this protocol, ultramicrosize griseofulvin (Gris-PEG) alone, topical clotrimazole (Lotrimin) alone, and a combination of the two were tested in seventy-three patients with tinea pedis. The results were as follows: for plantar scaling type of tinea pedis, the combination was not better than griseofulvin alone; for intertriginous",
+        "journal": "Cutis",
+        "year": "1978",
+        "authors": [
+          "Zaias N",
+          "Battistini F",
+          "Gomez-Urcuyo F",
+          "Rojas R F",
+          "Ricart R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Clotrimazole",
+          "Drug Therapy, Combination",
+          "Follow-Up Studies",
+          "Griseofulvin",
+          "Humans",
+          "Imidazoles",
+          "Recurrence",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/688767/"
+      },
+      {
+        "pmid": "10536434",
+        "title": "Efficacy and tolerability of terbinafine 1% topical solution used for 1 week compared with 4 weeks clotrimazole 1% topical solution in the treatment of interdigital tinea pedis: a randomized, double-blind, multi-centre, 8-week clinical trial.",
+        "abstract": "In this double-blind clinical trial 429 patients (217 terbinafine and 212 clotrimazole) were randomized to receive twice daily terbinafine 1% topical solution for 1 week followed by a vehicle application for 3 weeks, or 1% clotrimazole solution for 4 weeks. Patients were evaluated clinically and mycologically at baseline and then at weeks one, two, four (end of treatment), and eight (end of follow-up). To be evaluable the patient needed to have a positive culture for a dermatophyte and positive KOH microscopy and a clinical diagnosis of tinea pedis (interdigital type) at baseline. Effective treatment of tinea pedis was recorded in 181 of 217 (83%) of patients treated for 1 week with terbinafine 1% solution and 174 of 212 (82%) of patients treated for 4 weeks with clotrimazole 1% solution. Mycological cure and disappearance of signs and symptoms were similar at each assessment visit in the two groups. In the subgroup of patients without any protocol violation the mycological cure rate w",
+        "journal": "Mycoses",
+        "year": "1999",
+        "authors": [
+          "Schopf R",
+          "Hettler O",
+          "Bräutigam M",
+          "Weidinger G",
+          "Kaben U"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Antifungal Agents",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Female",
+          "Germany",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10536434/"
+      },
+      {
+        "pmid": "12000508",
+        "title": "Clinical comparison of the efficacy and tolerability of once daily Canesten with twice daily Nizoral (clotrimazole 1% cream vs. ketoconazole 2% cream) during a 28-day topical treatment of interdigital tinea pedis.",
+        "abstract": "The effects of two topical cream formulations containing clotrimazole 1% and ketoconazole 2%, respectively, were clinically compared in a double-blind, randomized manner for a 28-day therapy of interdigital tinea pedis in 106 treated patients. Ketoconazole was to be used twice daily whereas clotrimazole was administered only once daily. The primary response criterion defined as the number of patients with cure or improvement after 28 treatment days was comparable with 62.0% vs. 64.0% (clotrimazole vs. ketoconazole) for the full analysis set of 100 (50 vs. 50) patients. The mycological response revealed a negative culture and microscopy in 53.1% vs. 52.1% of the patients after 14, in 76.0% vs. 79.2% after 28, and in 83.7% vs. 76.9% after 56 days of observation, indicating a possibly better long-term efficacy of clotrimazole. The development of the overall score of tinea-related signs and symptoms did not show relevant differences between the two drugs and continuously decreased from 11+",
+        "journal": "Mycoses",
+        "year": "2002",
+        "authors": [
+          "Suschka Sigrid",
+          "Fladung Bernward",
+          "Merk Hans F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antifungal Agents",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Drug Therapy, Combination",
+          "Epidermophyton",
+          "Humans",
+          "Ketoconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12000508/"
+      },
+      {
+        "pmid": "8496408",
+        "title": "Topical antifungal drugs in the treatment of tinea pedis, tinea cruris, and tinea corporis.",
+        "abstract": "Topical treatment of fungal infections took a step forward in the 1960s with the introduction of biologically active agents with specific antifungal mechanisms of action. Most modern broad-spectrum antifungal agents act by blocking specific steps in the synthesis of fungal cell membrane components. The broad-spectrum topical antifungal drugs now in use include the imidazoles (e.g. clotrimazole and miconazole), a pyridone-ethanolamine salt, dimethylmorpholines, and the newest class, the allylamines (e.g., naftifine and terbinafine). The topical allylamines have been shown in comparative studies to produce higher cure rates and more rapid responses in dermatophyte infections than many of the older agents.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1993",
+        "authors": [
+          "Smith E B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Groin",
+          "Humans",
+          "Male",
+          "Tinea",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8496408/"
+      },
+      {
+        "pmid": "1732321",
+        "title": "Double-blind comparison of naftifine cream and clotrimazole/betamethasone dipropionate cream in the treatment of tinea pedis.",
+        "abstract": "",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1992",
+        "authors": [
+          "Smith E B",
+          "Breneman D L",
+          "Griffith R F",
+          "Hebert A A",
+          "Hickman J G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Allylamine",
+          "Anti-Inflammatory Agents",
+          "Antifungal Agents",
+          "Betamethasone",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1732321/"
+      },
+      {
+        "pmid": "11860579",
+        "title": "Clotrimazole/betamethasone diproprionate: a review of costs and complications in the treatment of common cutaneous fungal infections.",
+        "abstract": "The use of antifungal/corticosteroid combinations as topical therapy for dermatophytoses has been criticized as being less effective, more expensive, and the cause of more adverse cutaneous reactions than antifungal monotherapy. The combination of clotrimazole and betamethasone diproprionate (Lotrisone) is a mix of an azole antifungal and a high-potency corticosteroid, and is one of the most widely prescribed of these combinations. Our objective was to describe the beneficial and deleterious effects of Lotrisone in the treatment of common cutaneous fungal infections and its relative cost-effectiveness. We did a literature review documenting clinical trial data and adverse reactions to Lotrisone and collected a cost analysis of topical antifungal prescribing data over a 2-month period from a large midwestern staff-model health maintenance organization (HMO). Lotrisone is approved by the U.S. Food and Drug Administration (FDA) for the treatment of tinea pedis, tinea cruris, and tinea cor",
+        "journal": "Pediatric dermatology",
+        "year": "2002",
+        "authors": [
+          "Greenberg H L",
+          "Shwayder Tor A",
+          "Bieszk Nella",
+          "Fivenson David P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anti-Inflammatory Agents",
+          "Antifungal Agents",
+          "Betamethasone",
+          "Clotrimazole",
+          "Cost-Benefit Analysis",
+          "Dermatomycoses",
+          "Drug Combinations",
+          "Drug Costs",
+          "Glucocorticoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11860579/"
+      },
+      {
+        "pmid": "11302816",
+        "title": "In vitro antifungal activity of KP-103, a novel triazole derivative, and its therapeutic efficacy against experimental plantar tinea pedis and cutaneous candidiasis in guinea pigs.",
+        "abstract": "The in vitro activity of KP-103, a novel triazole derivative, against pathogenic fungi that cause dermatomycoses and its therapeutic efficacy against plantar tinea pedis and cutaneous candidiasis in guinea pigs were investigated. MICs were determined by a broth microdilution method with morpholinepropanesulfonic acid-buffered RPMI 1640 medium for Candida species and with Sabouraud dextrose broth for dermatophytes and by an agar dilution method with medium C for Malassezia furfur. KP-103 was the most active of all the drugs tested against Candida albicans (geometric mean [GM] MIC, 0.002 microg/ml), other Candida species including Candida parapsilosis and Candida glabrata (GM MICs, 0.0039 to 0.0442 microg/ml), and M. furfur (GM MIC, 0.025 microg/ml). KP-103 (1% solution) was highly effective as a treatment for guinea pigs with cutaneous candidiasis and achieved mycological eradication in 8 of the 10 infected animals, whereas none of the imidazoles tested (1% solutions) was effective in e",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2001",
+        "authors": [
+          "Tatsumi Y",
+          "Yokoo M",
+          "Arika T",
+          "Yamaguchi H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Blood Proteins",
+          "Candida",
+          "Candidiasis, Cutaneous",
+          "Culture Media",
+          "Disease Models, Animal",
+          "Guinea Pigs",
+          "Hair",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11302816/"
+      },
+      {
+        "pmid": "8186134",
+        "title": "A comparison of terbinafine (Lamisil) 1% cream given for one week with clotrimazole (Canesten) 1% cream given for four weeks, in the treatment of tinea pedis.",
+        "abstract": "Terbinafine (Lamisil) is a synthetic allylamine antifungal which has been shown to be fungicidal against dermatophytes and a number of yeasts and moulds. Topical application of terbinafine 1% cream has been shown to be a highly effective short-duration therapy for dermatophytosis of the skin. The aim of this multicentre, double-blind, parallel-group study was to compare the safety and efficacy of terbinafine 1% cream, applied twice daily for 1 week, with clotrimazole (Canesten) 1% cream, applied twice daily for 4 weeks, in the treatment of tinea pedis. One hundred and seven patients with mycologically proven tinea pedis received 1 week of terbinafine 1% cream, followed by 3 weeks of placebo, and 104 patients received clotrimazole 1% cream for 4 weeks. Mycological cure (negative microscopy and culture) and effective treatment (mycological cure with no or minimal signs and symptoms) were assessed 4 and 6 weeks after commencing therapy. Mycological cure rates were 93.5% for terbinafine an",
+        "journal": "The British journal of dermatology",
+        "year": "1994",
+        "authors": [
+          "Evans E G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adolescent",
+          "Adult",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Humans",
+          "Naphthalenes",
+          "Terbinafine",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8186134/"
+      },
+      {
+        "pmid": "8463471",
+        "title": "Topical terbinafine and clotrimazole in interdigital tinea pedis: a multicenter comparison of cure and relapse rates with 1- and 4-week treatment regimens.",
+        "abstract": "",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1993",
+        "authors": [
+          "Bergstresser P R",
+          "Elewski B",
+          "Hanifin J",
+          "Lesher J",
+          "Savin R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adult",
+          "Antifungal Agents",
+          "Clinical Protocols",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Naphthalenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8463471/"
+      },
+      {
+        "pmid": "15865786",
+        "title": "Athlete's foot.",
+        "abstract": "",
+        "journal": "Clinical evidence",
+        "year": "2004",
+        "authors": [
+          "Crawford Fay"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Allylamine",
+          "Antifungal Agents",
+          "Clotrimazole",
+          "Humans",
+          "Imidazoles",
+          "Miconazole",
+          "Naphthalenes",
+          "Terbinafine",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15865786/"
+      },
+      {
+        "pmid": "9892913",
+        "title": "Comparison of one week of oral terbinafine (250 mg/day) with four weeks of treatment with clotrimazole 1% cream in interdigital tinea pedis.",
+        "abstract": "Treatment of interdigital tinea pedis often involves long-term therapy with topically applied preparations. Effective oral preparations, such as the allylamine terbinafine (Lamisil), taken over a shorter period, could provide a useful therapeutic alternative. A total of 269 patients from five centres with clinically diagnosed interdigital tinea pedis were entered into this double-blind, randomized, double-dummy, parallel-group study comparing oral terbinafine 250 mg once daily for 1 week with 1% clotrimazole (Canesten) cream applied twice daily for 4 weeks. Of these, 137 patients were evaluable for efficacy (confirmed dermatophyte infection by microscopy and culture): 63 terbinafine and 74 clotrimazole. At week 4, the mycological cure rates (negative culture at week 1 and negative results on microscopy and culture at week 4 onwards) were very similar (71% for clotrimazole and 72% for terbinafine). There was a faster response rate in the terbinafine group with respect to signs and sympt",
+        "journal": "The British journal of dermatology",
+        "year": "1998",
+        "authors": [
+          "Barnetson R S",
+          "Marley J",
+          "Bullen M",
+          "Brookman S",
+          "Cowen P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antifungal Agents",
+          "Australia",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Drug Therapy, Combination",
+          "Epidermophyton",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9892913/"
+      },
+      {
+        "pmid": "6991937",
+        "title": "[Double blind trial of clotrimazole and econazole in tinea pedis (author's transl)].",
+        "abstract": "",
+        "journal": "Mykosen",
+        "year": "1980",
+        "authors": [
+          "Qadripur S A",
+          "Krause U"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Child",
+          "Clinical Trials as Topic",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Econazole",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6991937/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:30:38.087752",
+  "success": true,
+  "error_message": null
+}

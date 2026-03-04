@@ -1,0 +1,633 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Telmisartan",
+    "disease": "hypertensive disorder",
+    "query_string": "Telmisartan AND hypertensive disorder"
+  },
+  "data": {
+    "query": "Telmisartan AND hypertensive disorder",
+    "results": [
+      {
+        "pmid": "39426836",
+        "title": "Efficacy and safety of a novel low-dose triple single-pill combination of telmisartan, amlodipine and indapamide, compared with dual combinations for treatment of hypertension: a randomised, double-blind, active-controlled, international clinical trial.",
+        "abstract": "Single-pill combinations (SPCs) of three low-dose antihypertensive drugs can improve hypertension control but are not widely available. A key issue for any combination product is the contribution of each component to efficacy and tolerability. This trial compared a new triple SPC called GMRx2, containing telmisartan, amlodipine, and indapamide, with dual combinations of components for efficacy and safety.",
+        "journal": "Lancet (London, England)",
+        "year": "2024",
+        "authors": [
+          "Rodgers Anthony",
+          "Salam Abdul",
+          "Schutte Aletta E",
+          "Cushman William C",
+          "de Silva H Asita"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Comparative Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Amlodipine",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39426836/"
+      },
+      {
+        "pmid": "37432701",
+        "title": "Efficacy of single-pill combination in uncontrolled essential hypertension: A systematic review and network meta-analysis.",
+        "abstract": "This study aimed to evaluate the efficacy of single-pill combination (SPC) antihypertensive drugs in patients with uncontrolled essential hypertension. Through Searching Pubmed, EMBASE, the Cochrane Library, and Web of Science collected only randomized controlled trials on the efficacy of single-pill combination antihypertensive drugs in people with uncontrolled essential hypertension. The search period is from the establishment of the database to July 2022. The methodological quality of the included studies was assessed using the Cochrane Risk of Bias Assessment, and statistical analyses were performed using Review Manage 5.3 and Stata 15.1 software. This review ultimately included 32 references involving 16 273 patients with uncontrolled essential hypertension. The results of the network meta-analysis showed that a total of 11 single-pill combination antihypertensive drugs were included, namely: Amlodipine/valsartan, Telmisartan/amlodipine, Losartan/HCTZ, Candesartan/HCTZ, Amlodipine",
+        "journal": "Clinical cardiology",
+        "year": "2023",
+        "authors": [
+          "Xie Mengxin",
+          "Tang Tianjiao",
+          "Liang Hongsheng"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antihypertensive Agents",
+          "Losartan",
+          "Hypertension",
+          "Telmisartan",
+          "Irbesartan",
+          "Angiotensin Receptor Antagonists",
+          "Hydrochlorothiazide",
+          "Valine",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37432701/"
+      },
+      {
+        "pmid": "38228033",
+        "title": "Effects of telmisartan on metabolic syndrome components: a comprehensive review.",
+        "abstract": "Telmisartan is an antagonist of the angiotensin II receptor used in the management of hypertension (alone or in combination with other antihypertensive agents. It belongs to the drug class of angiotensin II receptor blockers (ARBs). Among drugs of this class, telmisartan shows particular pharmacologic properties, including a longer half-life than any other angiotensin II receptor blockers that bring higher and persistent antihypertensive activity. In hypertensive patients, telmisartan has superior efficacy than other antihypertensive drugs (losartan, valsartan, ramipril, atenolol, and perindopril) in controlling blood pressure, especially towards the end of the dosing interval. Telmisartan has a partial PPARγ-agonistic effect whilst does not have the safety concerns of full agonists of PPARγ receptors (thiazolidinediones). Moreover, telmisartan has an agonist activity on PPARα and PPARδ receptors and modulates the adipokine levels. Thus, telmisartan could be considered as a suitable al",
+        "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+        "year": "2024",
+        "authors": [
+          "Imenshahidi Mohsen",
+          "Roohbakhsh Ali",
+          "Hosseinzadeh Hossein"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Telmisartan",
+          "Angiotensin Receptor Antagonists",
+          "Metabolic Syndrome",
+          "PPAR gamma",
+          "Prospective Studies",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Benzimidazoles",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38228033/"
+      },
+      {
+        "pmid": "22140319",
+        "title": "Telmisartan and cardioprotection.",
+        "abstract": "Cardiovascular risk reduction has been the target of several large clinical trials in the last decade. As the activation of the renin-angiotensin-aldosterone system (RAAS) plays a central role in the pathogenesis of atherosclerosis and cardiovascular disease, RAAS blockade has been suggested to be among the most efficient cardioprotective interventions, as revealed with the angiotensin converting enzyme (ACE) inhibitors trials. The angiotensin receptor blockers' (ARBs) efficacy in lowering blood pressure has been very well established. Telmisartan is however the first ARB to show a promising role in reducing cardiovascular risk in high-risk patients. This article will highlight the role of telmisartan in cardioprotection, underlying specifically the results of two major randomized controlled trials: ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and TRANSCEND (Telmisartan Randomized AssessmeNt Study in aCE-iNtolerant subjects with cardiovasc",
+        "journal": "Vascular health and risk management",
+        "year": "2011",
+        "authors": [
+          "Akhrass Philippe R",
+          "McFarlane Samy I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albuminuria",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Benzimidazoles",
+          "Benzoates",
+          "Cardiotonic Agents",
+          "Cardiovascular Diseases",
+          "Diabetes Mellitus",
+          "Humans",
+          "Hypertension",
+          "Risk"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22140319/"
+      },
+      {
+        "pmid": "26051689",
+        "title": "Telmisartan.",
+        "abstract": "Telmisartan is an angiotensin-II receptor antagonist (ARB) used in the treatment of hypertension. Generally, angiotensin-II receptor blockers such as telmisartan bind to the angiotensin-II type 1 receptors with high affinity, causing inhibition of the action of angiotensin II on vascular smooth muscle, ultimately leading to a reduction in arterial blood pressure. The present study gives a comprehensive profile of telmisartan, including detailed nomenclature, formulae, elemental analysis, and appearance of the drug are mentioned. The uses and applications and the several methods described for its preparation of the drug are outlined. The profile contains the physicochemical properties including: pKa value, solubility, X-ray powder diffraction, melting point, and methods of analysis (including compendial, electrochemical, spectroscopic, and chromatographic methods of analysis). Developed validated stability-indicating (HPLC and biodiffusion assay methods under accelerated acidic, alkalin",
+        "journal": "Profiles of drug substances, excipients, and related methodology",
+        "year": "2015",
+        "authors": [
+          "Bakheit Ahmed H H",
+          "Abd-Elgalil Ahmed A",
+          "Mustafa Bakheit",
+          "Haque Anzarul",
+          "Wani Tanveer A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Chemistry, Pharmaceutical",
+          "Drug Interactions",
+          "Drug Stability",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26051689/"
+      },
+      {
+        "pmid": "39808372",
+        "title": "Population Pharmacokinetics of Telmisartan in Healthy Subjects and Hypertensive Patients.",
+        "abstract": "Telmisartan exhibits significant pharmacokinetic (PK) variability, but it remains unclear whether its PK profile is altered in hypertensive patients. This study aimed to characterize telmisartan PKs by conducting a meta-analysis and developing a pooled population PK model based on data from healthy subjects and hypertensive patients.",
+        "journal": "Clinical pharmacokinetics",
+        "year": "2025",
+        "authors": [
+          "Jeong In Hwan",
+          "Ryu Sooyoon",
+          "Han Nayoung",
+          "Staatz Christine E",
+          "Baek In-Hwan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Telmisartan",
+          "Hypertension",
+          "Models, Biological",
+          "Antihypertensive Agents",
+          "Male",
+          "Female",
+          "Healthy Volunteers",
+          "Middle Aged",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39808372/"
+      },
+      {
+        "pmid": "9878991",
+        "title": "Telmisartan.",
+        "abstract": "Telmisartan is a nonpeptide angiotensin II receptor antagonist which selectively and insurmountably inhibits the angiotensin II AT1 receptor subtype without affecting other receptor systems involved in cardiovascular regulation. Oral telmisartan dose-dependently reduced blood pressure (BP) in various animal models of hypertension. In transgenic rats, telmisartan reduced cardiac hypertrophy and glomerulosclerosis. When administered at dosages of 40 to 160 mg once daily to patients with mild to moderate hypertension, telmisartan significantly reduced systolic and diastolic BP compared with placebo and was at least as effective as atenolol 50 or 100 mg and lisinopril 10 to 40 mg. One study showed telmisartan 80 mg/day to be more effective than enalapril 20 mg/day. In 2 studies that used ambulatory BP monitoring, once daily telmisartan provided better control of diastolic BP for the full dosing interval than losartan potassium 50 mg or amlodipine 5 or 10 mg. In a single study in patients w",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "McClellan K J",
+          "Markham A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin Receptor Antagonists",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Animals",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Biotransformation",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Half-Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9878991/"
+      },
+      {
+        "pmid": "21817185",
+        "title": "Antihypertensive and metabolic effects of telmisartan in hypertensive HIV-positive patients.",
+        "abstract": "Hypertension is more prevalent among HIV-infected individuals than in the general population and contributes to increased cardiovascular risk. The angiotensin II receptor blocker telmisartan is also a partial peroxisome proliferator activated receptor-γ agonist with documented effects on glucose and lipid homeostasis. The aim of this study was to evaluate the antihypertensive and metabolic effects of telmisartan in hypertensive HIV-positive patients.",
+        "journal": "Antiviral therapy",
+        "year": "2011",
+        "authors": [
+          "Vecchiet Jacopo",
+          "Ucciferri Claudio",
+          "Falasca Katia",
+          "Mancino Paola",
+          "Di Iorio Angelo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Cardiovascular Diseases",
+          "Cystatin C",
+          "Endothelin-1",
+          "HIV Seropositivity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21817185/"
+      },
+      {
+        "pmid": "30904178",
+        "title": "Efficacy and Tolerability of Telmisartan/Amlodipine and Rosuvastatin Coadministration in Hypertensive Patients with Hyperlipidemia: A Phase III, Multicenter, Randomized, Double-blind Study.",
+        "abstract": "Dyslipidemia and hypertension increase the risk for cardiovascular disease. Combination therapy improves patient compliance. This study was conducted to compare the efficacy and tolerability of the combination therapies telmisartan/amlodipine + rosuvastatin, telmisartan/amlodipine, and telmisartan + rosuvastatin in patients with hypercholesterolemia and hypertension.",
+        "journal": "Clinical therapeutics",
+        "year": "2019",
+        "authors": [
+          "Kim Tae-Seok",
+          "Rha Seung-Woon",
+          "Kim Seok-Yeon",
+          "Park Dae-Gyun",
+          "Sung Ki-Chul"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Amlodipine",
+          "Anticholesteremic Agents",
+          "Antihypertensive Agents",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Female",
+          "Humans",
+          "Hypercholesterolemia",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30904178/"
+      },
+      {
+        "pmid": "36876369",
+        "title": "Antihypertensive effect of telmisartan versus perindopril in hypertensive patients.",
+        "abstract": "We performed this meta-analysis determining the antihypertensive effect of telmisartan versus perindopril in patients with essential hypertension.",
+        "journal": "Bratislavske lekarske listy",
+        "year": "2023",
+        "authors": [
+          "Zhao Di",
+          "Liu Hui",
+          "Chen Shifang",
+          "Dong Pingshuan"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antihypertensive Agents",
+          "Telmisartan",
+          "Perindopril",
+          "Benzimidazoles",
+          "Hypertension",
+          "Essential Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36876369/"
+      },
+      {
+        "pmid": "21796128",
+        "title": "Effects of telmisartan and losartan on cardiovascular protection in Japanese hypertensive patients.",
+        "abstract": "The Telmisartan and Losartan Cardiac Evaluation Trial, a multicenter, prospective, randomized, open-labeled, blinded-endpoint trial, was designed to compare the effects of two angiotensin II receptor blockers (ARBs), telmisartan and losartan, on cardiovascular protection in Japanese patients with mild to moderate essential hypertension. We compared the effects of telmisartan and losartan on left ventricular (LV) hypertrophy, cardiac function, atherosclerosis of carotid arteries and surrogate markers related to the actions of peroxisome proliferator-activated receptor-γ. A total of 58 patients were enrolled in the present trial and the follow-up period was 1 year. There were no significant differences in blood pressure (BP) levels between the telmisartan group and the losartan group throughout the trial. The percentage of the patients treated with ARB monotherapy was significantly higher in the telmisartan group compared with the losartan group. In addition, the progression of intima-me",
+        "journal": "Hypertension research : official journal of the Japanese Society of Hypertension",
+        "year": "2011",
+        "authors": [
+          "Hasegawa Hiroshi",
+          "Takano Hiroyuki",
+          "Narumi Hiroya",
+          "Ohtsuka Masashi",
+          "Mizuguchi Tadahiko"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Atherosclerosis",
+          "Benzimidazoles",
+          "Benzoates",
+          "Cardiovascular Diseases",
+          "Carotid Intima-Media Thickness",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21796128/"
+      },
+      {
+        "pmid": "34129200",
+        "title": "Telmisartan Attenuates the Growth of Epithelium-like Cells and Glomerular Injury in Spontaneously Hypertensive Rats.",
+        "abstract": "The abnormal growth of epithelium-like cells has been noticed in spontaneously hypertensive rats (SHRs) with hypertensive nephropathy. However, the characteristics of abnormal epithelium-like cells and their pathogenesis in hypertensive nephropathy are not fully understood. In the present study, we investigated the correlation of epithelium-like cells with glomerular injury, and the effects of early drug intervention with telmisartan, an anti-hypertensive drug, on the growth of epithelium-like cells. The results showed that the epithelium-like cells were obviously observed lining along the luminal surface of Bowman's capsule in glomeruli, significantly resulting in the atrophy of the glomerular tuft. Some of the epithelium-like cells strongly expressed proliferating cell nuclear antigen (PCNA) and vimentin, indicating active cellular proliferation. The incidence of epithelium-like cells varied from 13.6% to 54.4% of glomeruli in 48-week-old SHRs, and from 5.1% to 18.0% of glomeruli in ",
+        "journal": "Current medical science",
+        "year": "2021",
+        "authors": [
+          "Zhang Zhi",
+          "Wang Fa-Zhan",
+          "Li Zai-Xin",
+          "Song Xiang-Rong"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Disease Models, Animal",
+          "Epithelium",
+          "Humans",
+          "Hypertension",
+          "Hypertension, Renal",
+          "Kidney",
+          "Nephritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34129200/"
+      },
+      {
+        "pmid": "21905967",
+        "title": "Efficacy and tolerability of telmisartan plus amlodipine in added-risk hypertensive patients.",
+        "abstract": "Added-risk hypertensive patients with co-morbidities such as diabetes and metabolic syndrome often require two or more antihypertensives to achieve blood pressure (BP) targets. The aim of this sub-analysis was to determine the efficacy and safety of telmisartan 40 or 80 mg plus amlodipine 5 or 10 mg in patients with hypertension, stratified according to certain criteria such as type 2 diabetes mellitus and metabolic syndrome.",
+        "journal": "Current medical research and opinion",
+        "year": "2011",
+        "authors": [
+          "Guthrie Robert M",
+          "Dahlöf Björn",
+          "Jamerson Kenneth A",
+          "Olvera Rafael",
+          "Seeber Mary"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Amlodipine",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Double-Blind Method",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21905967/"
+      },
+      {
+        "pmid": "38871219",
+        "title": "Comparison of the efficacy, safety, and tolerability of the FDC of telmisartan + bisoprolol with telmisartan + metoprolol succinate ER combination therapy for stage 1 and stage 2 hypertension: A double-blind, multicentric, phase-III clinical study.",
+        "abstract": "The present study compared the safety, efficacy, and tolerability of the new fixed-dose combination (FDC) of telmisartan 40 mg + bisoprolol 5 mg (TBP) tablets with the existing comparator FDC telmisartan 40 mg + metoprolol succinate ER 50 mg (TMS) tablets in patients with stage 1 and stage 2 hypertension.",
+        "journal": "Indian heart journal",
+        "year": "2024",
+        "authors": [
+          "Wander Gurpreet S",
+          "Ram Bhim",
+          "Kumar Sonkar Satyendra",
+          "Manjunath C N",
+          "Kamath Padmanabh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Hypertension",
+          "Female",
+          "Bisoprolol",
+          "Double-Blind Method",
+          "Middle Aged",
+          "Prospective Studies",
+          "Treatment Outcome",
+          "Blood Pressure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38871219/"
+      },
+      {
+        "pmid": "21266915",
+        "title": "Synergism of telmisartan and amlodipine on blood pressure reduction and cardiorenal protection in hypertensive rats.",
+        "abstract": "This study was designed to investigate the effects of telmisartan and amlodipine on reduction of blood pressure (BP), myocardial hypertrophy, and renal injury in hypertensive rats.",
+        "journal": "Journal of cardiovascular pharmacology",
+        "year": "2011",
+        "authors": [
+          "Liu Wei",
+          "Wang Wei",
+          "Song Shu-Wei",
+          "Gu Xiao-Fei",
+          "Ma Xiu-Juan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amlodipine",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Animals",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Calcium Channel Blockers",
+          "Cardiotonic Agents",
+          "Disease Models, Animal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21266915/"
+      },
+      {
+        "pmid": "24628252",
+        "title": "Pharmacokinetic-pharmacodynamic model of the antihypertensive interaction between telmisartan and hydrochlorothiazide in spontaneously hypertensive rats.",
+        "abstract": "The goal of this study was to establish an integrated indirect response pharmacokinetic-pharmacodynamic model between telmisartan and hydrochlorothiazide to describe the antihypertensive interaction of these two drugs in spontaneously hypertensive rats.",
+        "journal": "The Journal of pharmacy and pharmacology",
+        "year": "2014",
+        "authors": [
+          "Hao Kun",
+          "Chen Yuancheng",
+          "Zhao Xiaoping",
+          "Liu Xiaoquan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Drug Interactions",
+          "Drug Therapy, Combination",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24628252/"
+      },
+      {
+        "pmid": "17460371",
+        "title": "Effects of telmisartan and losartan on insulin resistance in hypertensive patients with metabolic syndrome.",
+        "abstract": "Partial peroxisome proliferator-activated receptor-gamma (PPAR-gamma) agonists are known to decrease insulin resistance. Experimental studies have shown that the angiotensin type 1 receptor blocker (ARB) telmisartan has a PPAR-gamma-activating property, but there does not appear to be a class effect. To test telmisartan's clinical importance, we here investigated its effect on insulin resistance in hypertensive patients with metabolic syndrome (MetS) in comparison with another ARB, losartan. A total of 42 hypertensive MetS patients (29 female, 13 male) were included (mean age: 50+/-9, range: 20-70 years). NCEP-ATP III criteria were used for the diagnosis of MetS. Patients were randomized to receive either telmisartan 80 mg/day (n=21) or losartan 50 mg/day (n=21) for 8 weeks. Biochemical assessments were made at baseline and at the end of the 8 weeks. Insulin resistance was evaluated by using homeostasis model assessment of insulin resistance (HOMA-IR). Both groups had similar reduction",
+        "journal": "Hypertension research : official journal of the Japanese Society of Hypertension",
+        "year": "2007",
+        "authors": [
+          "Bahadir Ozgur",
+          "Uzunlulu Mehmet",
+          "Oguz Aytekin",
+          "Bahadir Muzeyyen A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Glucose",
+          "Blood Pressure",
+          "Cholesterol, HDL",
+          "Fasting",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17460371/"
+      },
+      {
+        "pmid": "25591419",
+        "title": "Protective effect of telmisartan on neurovascular unit and inflammasome in stroke-resistant spontaneously hypertensive rats.",
+        "abstract": "Hypertension is a crucial risk factor for both stroke and dementia, including Alzheimer's disease (AD). We inspected the effect of telmisartan on the neurovascular unit (NVU) and related inflammatory responses in spontaneously hypertensive rat stroke resistant (SHR-SR) by observing the components of NVU such as N-acetyl glucosamine oligomer (NAGO), collagen IV, astrocytes, and matrix metalloproteinase-9 (MMP-9), as well as inflammasome NOD-like receptors family protein 3 (NLRP3).",
+        "journal": "Neurological research",
+        "year": "2015",
+        "authors": [
+          "Liu Wentao",
+          "Yamashita Toru",
+          "Kurata Tomoko",
+          "Kono Syoichiro",
+          "Hishikawa Nozomi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aging",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Carrier Proteins",
+          "Cerebral Cortex",
+          "Collagen",
+          "Disease Models, Animal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25591419/"
+      },
+      {
+        "pmid": "20070992",
+        "title": "Telmisartan ameliorates hyperglycemia and metabolic profile in nonobese Cohen-Rosenthal diabetic hypertensive rats via peroxisome proliferator activator receptor-gamma activation.",
+        "abstract": "The importance of hypertension treatment has expanded beyond blood pressure management to include additional risk factors, mainly diabetes. It was considered of interest to test the effect of telmisartan, an angiotensin receptor 1 antagonist and peroxisome proliferator activator receptor-gamma partial agonist, on Cohen-Rosenthal diabetic hypertensive nonobese (CRDH) rats, a unique model combining both pathologies. Its effect was examined on fat-derived and inflammatory agents in CRDH. To determine the extent of the drug's peroxisome proliferator activator receptor-gamma modulating beneficial metabolic actions, results were compared with those obtained with valsartan and rosiglitazone in CRDH and Cohen diabetic rat (CDR). Telmisartan and valsartan were given in drinking water at 3 and 12 mg/kg/d, whereas rosiglitazone (3 mg/kg/d) was given as food admixture for a period of 5 months. Blood pressure, glucose, insulin, adiponectin, leptin, and tumor necrosis factor alpha were examined. Tel",
+        "journal": "Metabolism: clinical and experimental",
+        "year": "2010",
+        "authors": [
+          "Younis Firas",
+          "Stern Naftali",
+          "Limor Rona",
+          "Oron Yoram",
+          "Zangen Sarah"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adiponectin",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Humans",
+          "Hyperglycemia",
+          "Hypertension",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20070992/"
+      },
+      {
+        "pmid": "19118910",
+        "title": "Telmisartan improves vascular function independently of metabolic and antihypertensive effects in hypertensive subjects with impaired glucose tolerance.",
+        "abstract": "Hypertensive patients with IGT have increased risk for cardiovascular disease and progression to diabetes mellitus. Clinical trials suggest that the ARB telmisartan uniquely possesses PPARγ agonistic properties and improves insulin resistance as well as vascular endothelial dysfunction. The aim of the present study was to compare vascular effects of telmisartan and losartan in relation to their metabolic and antihypertensive effects in hypertensive patients with IGT.",
+        "journal": "International journal of cardiology",
+        "year": "2010",
+        "authors": [
+          "Perl Sabine",
+          "Schmölzer Isabella",
+          "Sourij Harald",
+          "Pressl Helga",
+          "Eder Michaela"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Cross-Over Studies",
+          "Double-Blind Method",
+          "Female",
+          "Glucose Intolerance",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19118910/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:42:14.432877",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,266 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Telmisartan",
+    "disease": "cerebrovascular disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03785067",
+      "title": "Triple Therapy Prevention of Recurrent Intracerebral Disease EveNts Trial (TRIDENT) Cognitive Sub-Study",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2020-02-27",
+      "completion_date": "2021-02-03",
+      "country": "Australia, Netherlands",
+      "enrollment": 1,
+      "brief_summary": "A Sub-Study of an investigator initiated and conducted, multicentre, international, double-blinded, placebo-controlled, parallel-group, randomised controlled trial (TRIDENT) to determine the effect of more intensive long-term blood pressure control, provided by a fixed low-dose combination blood pressure lowering pill (\"Triple Pill\") strategy on top of standard of care, for slowing memory decline as measured by Cambridge Neuropsychological Test Automated Battery (CANTAB), in patients with a hist",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Eligible for, randomised and continuing in the TRIDENT Main Study\n2. Must be able to attend the site conducting the cognitive assessments. In Sydney, this will either be at the same site as where TRIDENT study is conducted or at the BMC, University of Sydney, Camperdown.\n3. A",
+      "endpoints": [
+        "Memory as measured by the Cambridge Neuropsychological Test Automated Battery (CANTAB) Paired Associates Learning (PAL) subtest"
+      ],
+      "sponsor": "The George Institute",
+      "url": "https://clinicaltrials.gov/study/NCT03785067"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01075698",
+      "title": "A Trial of Telmisartan Prevention of Cardiovascular Disease",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-07",
+      "completion_date": "2016-03",
+      "country": "Japan",
+      "enrollment": 1228,
+      "brief_summary": "The present research is conducted as a randomized, parallel-group, controlled, open study (using the PROBE method) to primarily verify the effects on various biomarkers in high-risk hypertensive patients treated with ARB (telmisartan, ARB group) as compared with those in patients receiving ordinary therapy (non-ARB group (ordinary therapy group)). In addition, onset of cardiovascular events and levels of markers that are associated with cardiovascular events are observed over time to examine the",
+      "eligibility_criteria": "Inclusion Criteria: Patients who meet all of the criteria listed in \\[1\\] to \\[4\\] below and who have at least one cardiovascular risk listed in \\[1\\] to \\[5\\] below will be included in the study.\n\n1. Outpatients\n2. Age: ≥ 40 to \\< 80\n3. Hypertension: Systolic blood pressure of ≥ 140 mmHg or diastol",
+      "endpoints": [
+        "The effects of ARB therapy and that of standard therapy except ARB on the biomarker levels (UACR and BNP)"
+      ],
+      "sponsor": "Kumamoto University",
+      "url": "https://clinicaltrials.gov/study/NCT01075698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06282549",
+      "title": "A Prospective Long-term Cohort Study to Identify the Predictive Model of Cardiocerebrovascular Risk Factors in Elderly Patients with More Than Three Antihypertensive Agents in Patients with Essential Hypertension in Korea",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-06-08",
+      "completion_date": "2027-03-31",
+      "country": "South Korea",
+      "enrollment": 1219,
+      "brief_summary": "This study is to develop a predictive model for cardiocerebrovascular risk factors in elderly patients with essential hypertension with Telmisartan, Amlodipine, and Chlorthalidone Fixed-Dose Combination.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. A patient over 65-year-old with essential hypertension\n2. A patient with essential hypertension who require treatment with 3 or more antihypertensive medication, as determined by investigator's decision\n3. A patient with no MACCE within 6 months prior to the enrollment\n4. A p",
+      "endpoints": [
+        "Percentage of MACCE(Major Adverse Cardiovascular and Cerebrovascular Events)"
+      ],
+      "sponsor": "Yuhan Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT06282549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00659581",
+      "title": "Special Survey (Survey on Cerebrovascular and Cardiovascular Events Under Long-term Use) of Micardis Tablets (Telmisartan)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 21471,
+      "brief_summary": "The primary objective of this post marketing survey is to prospectively investigate patients with hypertension treated with Micardis Tablets (hereinafter \"this drug\") in routine clinical settings for 3 years in order to determine the following:\n\n1. Adverse events and adverse drug reactions under long-term use\n2. Blood pressure measurements during the survey period\n3. Determination of the incidence of cerebrovascular and cardiovascular events under use of this drug in routine clinical settings\n4.",
+      "eligibility_criteria": "Inclusion criteria:\n\nHypertension patients unadministered Micardis.\n\nExclusion criteria:\n\n1. Patients with a history of hypersensitivity to any ingredient of this product.\n2. Pregnant woman or possibly pregnant woman\n3. Patients with extremely poor bile secretion or patients with serious hepatic dis",
+      "endpoints": [
+        "Number of Patients With Cerebrovascular(CeV) and Cardiovascular (CaV) Events"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00659581"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03783754",
+      "title": "Triple Therapy Prevention of Recurrent Intracerebral Disease EveNts Trial (TRIDENT) MRI Sub-study",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2018-08-09",
+      "completion_date": "2021-03-21",
+      "country": "Australia",
+      "enrollment": 4,
+      "brief_summary": "TRIDENT Main Study:\n\nTRIDENT is a multicentre, international, double-blinded, placebo-controlled, parallel-group, randomised controlled trial of a fixed low-dose combination BP-lowering pill (\"Triple Pill\") strategy on top of standard of care, in patients with a history of acute intracerebral haemorrhage (ICH) and systolic blood pressure (SBP) levels defined as 'high normal to borderline high', and on either minimal or no BP-lowering treatment according to current guidelines.\n\nMRI Sub-Study Cent",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Eligible for, randomised and continuing in TRIDENT Main Study\n2. No contraindications to MRI scan of the brain\n3. Provide informed consent for the MRI Sub-Study\n\nExclusion Criteria:\n\n1. Any MRI contraindications (e.g. metallic implants, claustrophobia, etc.)\n2. Less than 6 we",
+      "endpoints": [
+        "Change in T2 FLAIR white matter hyperintensities (WMH) volume"
+      ],
+      "sponsor": "The George Institute",
+      "url": "https://clinicaltrials.gov/study/NCT03783754"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00274118",
+      "title": "DETAIL = Diabetics Exposed to Telmisartan And enalapIL: A Randomised, Double-blind, Parallel-group Comparison of the Renal and Antihypertensive Effects of Telmisartan and Enalapril in Subjects With Mild to Moderate Hypertension and Concurrent Type II Diabetes Mellitus and Diabetic Nephropathy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1997-07",
+      "completion_date": "2004-01",
+      "country": "Denmark, Sweden, Norway, Finland, United Kingdom, Netherlands",
+      "enrollment": 250,
+      "brief_summary": "To compare the renal consequences of two different approaches to blocking the renin angiotensin system in subjects with hypertension and concurrent Type II diabetes mellitus and diabetic nephropathy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subjects between the ages 35 and 80 years.\n2. Current ACE inhibitor therapy for a minimum period of 3 months prior to study entry.\n3. Confirmed diagnosis of type II diabetes:\n\n   * Subjects currently treated by diet or diet and oral hypoglycaemic drugs, OR\n   *",
+      "endpoints": [
+        "Change from baseline in glomerular filtration rate GFR after five years of treatment."
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00274118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02735707",
+      "title": "Randomized, Embedded, Multifactorial Adaptive Platform Trial for Community- Acquired Pneumonia",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2016-04-11",
+      "completion_date": "2028-02",
+      "country": "Ireland, Australia, Estonia, Croatia, Canada, India, Romania, Spain, Switzerland, France, Germany, United States, Czechia, Israel, Saudi Arabia, Pakistan, Japan, Netherlands, Nepal, Portugal, Colombia, New Zealand, Belgium, Hungary, Italy, Slovenia, Finland, Serbia, United Kingdom",
+      "enrollment": 20000,
+      "brief_summary": "REMAP-CAP is a randomised, embedded, multifactorial, adaptive platform trial for community-acquired pneumonia.\n\nThe purpose of this study is to evaluate the effect of a range of interventions to improve outcome of patients admitted to intensive care with community-acquired pneumonia.\n\nIn addition, REMAP-CAP provides and adaptive research platform for evaluation of multiple treatment modalities in the event of a respiratory pandemic such as COVID-19.\n\nREMAP-COVID is a sub-platform of REMAP-CAP th",
+      "eligibility_criteria": "REMAP-CAP PLATFORM INCLUSION CRITERIA:\n\n1. Adult patient admitted to an ICU for severe CAP within 48 hours of hospital admission with:\n\n   1. symptoms or signs or both that are consistent with lower respiratory tract infection AND\n   2. Radiological evidence of new onset consolidation (in patients w",
+      "endpoints": [
+        "All-cause mortality",
+        "Days alive and not receiving organ support in ICU"
+      ],
+      "sponsor": "UMC Utrecht",
+      "url": "https://clinicaltrials.gov/study/NCT02735707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00741585",
+      "title": "Prognostic Value of the Circadian Pattern of Ambulatory Blood Pressure for Multiple Risk Assessment",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-09-01",
+      "completion_date": "2018-06-30",
+      "country": "Spain",
+      "enrollment": 21983,
+      "brief_summary": "The HYGIA study was designed to investigate prospectively\n\n1. the prognostic value of ambulatory blood pressure (BP) monitoring among subjects primarily evaluated at primary care settings\n2. the impact of changes in ambulatory BP during follow-up in cardiovascular, cerebrovascular, metabolic, and renal risk in hypertensive patients\n3. the influence of circadian time of treatment in cardiovascular, cerebrovascular, metabolic, and renal risk in hypertensive patients\n4. the prevalence of an altered",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects ≥18 years of age.\n* High-normal BP or essential hypertension.\n* Any subject with recommendation for evaluation with ABPM according to the 2007 European Guidelines.\n* Informed consent to participate in the study prior to any study procedures.\n\nExclusion ",
+      "endpoints": [
+        "To evaluate the impact of circadian time of treatment in cardiovascular, cerebrovascular, metabolic, and renal risk assessment."
+      ],
+      "sponsor": "University of Vigo",
+      "url": "https://clinicaltrials.gov/study/NCT00741585"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01050062",
+      "title": "Post Marketing Surveillance on Long Drug Use of Micombi Combination Tablets in Patients With Hypertension",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2011-12",
+      "country": "Japan",
+      "enrollment": 1452,
+      "brief_summary": "The survey is conducted to collect safety and effectiveness information in Hypertensive patients treated with Micombi Tablets on the long term use in daily clinical settings in Japan.",
+      "eligibility_criteria": "Inclusion criteria:\n\nHypertensive patients who have never taken Micombi Tablets.\n\nExclusion criteria:\n\nNone",
+      "endpoints": [
+        "Incidence of Adverse Events (AEs)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT01050062"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01011660",
+      "title": "Phase 4 Study of Effects of ARB Compared With Diuretics in Hypertension Patients With High Cardiovascular Risks",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2007-10",
+      "completion_date": "2012-12",
+      "country": "China",
+      "enrollment": 13542,
+      "brief_summary": "The aim of the study is to investigate the optimized treatment strategy of hypertension, so as to make more patients to reach the blood pressure goals and to reduce cardio-cerebrovascular events. Objective and Methods: Patients are eligible for inclusion in the study if they are essential hypertension, 50-79 years of age with at least one cardiovascular risk factor and sign the informed consent forms. This project is a multi-centre, prospective randomized,，openlabel blind-endpoint evaluation con",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* essential hypertension\n* 50-79 years old\n* with at least one of the cardiovascular risk factor\n* sign consent forms\n\nExclusion Criteria:\n\n* secondary hypertension\n* attack of cerebrovascular events or myocardial infarction within recent 3 months\n* coexistence of severe cardiom",
+      "endpoints": [
+        "The primary study outcomes are composite of non-fatal stroke, non-fatal myocardial infarction and cardiovascular death."
+      ],
+      "sponsor": "Chinese Academy of Medical Sciences, Fuwai Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01011660"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00153062",
+      "title": "PRoFESS - Prevention Regimen For Effectively Avoiding Second Strokes: A Double-blind, Active and Placebo Controlled Study of Aggrenox vs. Clopidogrel, With and Without Micardis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-08",
+      "completion_date": "",
+      "country": "Greece, Thailand, Ireland, Australia, Canada, Sweden, Norway, Hong Kong, India, Singapore, Taiwan, Russia, Spain, France, Germany, United States, Ukraine, Austria, South Korea, Turkey (Türkiye), Denmark, Israel, Mexico, South Africa, Argentina, China, Malaysia, Japan, Netherlands, Portugal, Brazil, Belgium, Italy, United Kingdom, Finland, El Salvador",
+      "enrollment": 20332,
+      "brief_summary": "The purpose of the trial is to determine if extended-release dipyridamole + aspirin \\[Aggrenox, Asasa ntin\\] is superior to clopidogrel \\[Plavix\\], and if telmisartan \\[Micardis, Gliosartan, Kinzal, Kinzalm ono, Predxal, Pritor, Samertan, Telmisartan\\] is superior to placebo, in the presence of background antihypertensive therapy, in prevention of a second stroke in patients who have recently suffered a stroke and therefore are at high risk of suffering another one.",
+      "eligibility_criteria": "Inclusion criteria:\n\nMale or female subjects 55 year or older who have suffered an ischemic stroke within the past 90 days and who meet all other inclusion criteria. Include also patients of ages 50 - 54 years and/or 90 to 120 days after the qualifying stroke provided the patient has at least two of",
+      "endpoints": [
+        "Number of Patients With First Recurrent Stroke of Any Type, Fatal or Nonfatal (Antiplatelet Comparison Only)",
+        "Number of Patients With First Recurrent Stroke of Any Type, Fatal or Nonfatal (Telmisartan vs. Placebo Only)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00153062"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01198496",
+      "title": "Phase IV Study for Effect of Intensive Blood-Pressure Control Using Anti-hypertensive Agents in Essential Hypertension With History of Stroke",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2010-10",
+      "completion_date": "2019-12",
+      "country": "Japan",
+      "enrollment": 5000,
+      "brief_summary": "1. Objectives and Hypothesis\n\n   1. Objectives:\n\n      This study evaluates whether strict BP management is useful for the prevention of recurrent stroke.\n\n      Hypertensive patients with history of stroke are treated with stepwise multi-drug therapy to achieve stricter BP target \\<120/80 mmHg in the strict BP control group and less stricter BP target \\<140/90 mmHg or \\<130/80 mmHg for patients with current DM/CKD/MI in the standard BP control group. The participants under the BP treatment achi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nParticipants include those with essential hypertension and history of stroke who satisfy the following criteria:\n\n* Outpatient\n* Onset of stroke(cerebral infarction/cerebral hemorrhage) occurred between 30 days and 3 years prior to the date of consent.\n* Drug adherence is ≧80% d",
+      "endpoints": [
+        "the prevention of recurrent stroke."
+      ],
+      "sponsor": "Biomedis International Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01198496"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00295542",
+      "title": "Prognostic Value of Ambulatory Blood Pressure Monitoring in the Prediction of Cardiovascular Events and Effects of Chronotherapy in Relation to Risk (the MAPEC Study).",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2000-03",
+      "completion_date": "2009-04",
+      "country": "Spain",
+      "enrollment": 3344,
+      "brief_summary": "The MAPEC study was designed to investigate whether normalizing the circadian blood pressure profile towards a more dipper pattern (increasing the diurnal/nocturnal ratio of blood pressure) by the use of Chronotherapy (that is, taking into account the time of day of administration of antihypertensive medications) reduces cardiovascular risk.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Essential hypertension\n\nExclusion Criteria:\n\n* AIDS\n* shift workers\n* secondary hypertension\n* intolerant to ABPM",
+      "endpoints": [
+        "Prognostic value of ABPM, impact of changes in ambulatory BP and impact of circadian time of antihypertensive treatment in cardiovascular, cerebrovascular and renal risk assessment."
+      ],
+      "sponsor": "University of Vigo",
+      "url": "https://clinicaltrials.gov/study/NCT00295542"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02699645",
+      "title": "Triple Therapy Prevention of Recurrent Intracerebral Disease EveNts Trial (TRIDENT), Substudies: MRI, Cognitive",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-09-28",
+      "completion_date": "2025-08-27",
+      "country": "Singapore, Australia, Taiwan, Nigeria, Sri Lanka, Malaysia, United Kingdom, Netherlands, Georgia, Brazil",
+      "enrollment": 1671,
+      "brief_summary": "An investigator initiated and conducted, multicentre, international, double-blinded, placebo-controlled, parallel-group, randomised controlled trial to determine the effect of more intensive blood pressure control provided by a fixed low-dose combination blood pressure lowering pill (\"Triple Pill\") strategy on top of standard of care, on time to first occurrence of recurrent stroke in patients with a history of stroke due to intracerebral haemorrhage.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults (≥18 years) with a history of primary ICH that is confirmed by imaging (copy of the brain imaging report to be uploaded to the database, labelled with participant identification (ID) and with personal identifiers removed)\n* Clinically stable, as judged by investigator\n*",
+      "endpoints": [
+        "Recurrent Stroke"
+      ],
+      "sponsor": "The George Institute",
+      "url": "https://clinicaltrials.gov/study/NCT02699645"
+    }
+  ],
+  "timestamp": "2026-03-04T13:41:43.197481",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,615 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Telmisartan",
+    "disease": "hypertension",
+    "query_string": "Telmisartan AND hypertension"
+  },
+  "data": {
+    "query": "Telmisartan AND hypertension",
+    "results": [
+      {
+        "pmid": "37432701",
+        "title": "Efficacy of single-pill combination in uncontrolled essential hypertension: A systematic review and network meta-analysis.",
+        "abstract": "This study aimed to evaluate the efficacy of single-pill combination (SPC) antihypertensive drugs in patients with uncontrolled essential hypertension. Through Searching Pubmed, EMBASE, the Cochrane Library, and Web of Science collected only randomized controlled trials on the efficacy of single-pill combination antihypertensive drugs in people with uncontrolled essential hypertension. The search period is from the establishment of the database to July 2022. The methodological quality of the included studies was assessed using the Cochrane Risk of Bias Assessment, and statistical analyses were performed using Review Manage 5.3 and Stata 15.1 software. This review ultimately included 32 references involving 16 273 patients with uncontrolled essential hypertension. The results of the network meta-analysis showed that a total of 11 single-pill combination antihypertensive drugs were included, namely: Amlodipine/valsartan, Telmisartan/amlodipine, Losartan/HCTZ, Candesartan/HCTZ, Amlodipine",
+        "journal": "Clinical cardiology",
+        "year": "2023",
+        "authors": [
+          "Xie Mengxin",
+          "Tang Tianjiao",
+          "Liang Hongsheng"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antihypertensive Agents",
+          "Losartan",
+          "Hypertension",
+          "Telmisartan",
+          "Irbesartan",
+          "Angiotensin Receptor Antagonists",
+          "Hydrochlorothiazide",
+          "Valine",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37432701/"
+      },
+      {
+        "pmid": "20144138",
+        "title": "Telmisartan and hydrochlorothiazide combination therapy for the treatment of hypertension.",
+        "abstract": "Control of elevated blood pressure has been shown to reduce the risk of cardiovascular events. The angiotensin II receptor blocker (ARB), telmisartan, has been shown to provide effective 24-hour blood pressure control. Additional antihypertensive efficacy can be achieved by combining telmisartan with the thiazide diuretic hydrochlorothiazide (HCTZ).",
+        "journal": "Current medical research and opinion",
+        "year": "2010",
+        "authors": [
+          "Kjeldsen Sverre E",
+          "Schmieder Roland E",
+          "Unger Thomas",
+          "Mancia Giuseppe"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Black People",
+          "Comorbidity",
+          "Diabetes Mellitus",
+          "Drug Combinations",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20144138/"
+      },
+      {
+        "pmid": "22103868",
+        "title": "Nifedipine and telmisartan for the treatment of hypertension: the TALENT study.",
+        "abstract": "A combination of two drugs as initial treatment in patients with a high or very high cardiovascular risk profile is recommended. Nifedipine extended release (GITS) is a calcium-channel antagonist known to be metabolically neutral, to mildly slow the development of atherosclerosis in hypertensive subjects and to significantly decrease cardiovascular risk in diabetic patients. Telmisartan is highly selective for the angiotensin receptor 1, it gives a greater improvement in glycemic and lipid control compared with irbesartan, and it proved its superiority in improving insulin sensitivity compared with eprosartan. The TALENT study was aimed to determine whether combining low-dose nifedipine GITS at and telmisartan reduced ambulatory and clinic blood pressure more than the two components in monotherapy in hypertensive patients at high cardiovascular risk. The study shows that combination treatment with nifedipine GITS and telmisartan provides a greater and earlier blood pressure reduction t",
+        "journal": "Expert review of cardiovascular therapy",
+        "year": "2011",
+        "authors": [
+          "Derosa Giuseppe",
+          "Maffioli Pamela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Calcium Channel Blockers",
+          "Cardiovascular Diseases",
+          "Delayed-Action Preparations",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22103868/"
+      },
+      {
+        "pmid": "22085386",
+        "title": "Single-pill telmisartan and amlodipine: a rational combination for the treatment of hypertension.",
+        "abstract": "Despite the well documented benefits conferred by adequate control of hypertension, the majority of hypertensive patients display suboptimal control and few patients achieve blood pressure (BP) levels <140/90 mmHg. As a consequence, combination therapy will be required in the majority of patients to achieve target BP. Fixed-dose combinations of antihypertensives not only simplify treatment regimens, contributing to enhanced patient adherence, they provide superior BP-lowering efficacy and an improved tolerability profile. Fixed-dose combinations have become the strategy of choice in high-risk patients or those with stage 2-3 hypertension. The combination of a renin-angiotensin system inhibitor (RASI) with a calcium channel blocker (CCB) is a first-line combination that, in addition to its antihypertensive efficacy, reduces oedema, the main adverse effect of the dihydropyridine CCB and the main factor limiting their use. In morbidity/mortality studies, this fixed-dose combination has al",
+        "journal": "Drugs",
+        "year": "2011",
+        "authors": [
+          "Suárez Carmen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amlodipine",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Humans",
+          "Hypertension",
+          "Telmisartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22085386/"
+      },
+      {
+        "pmid": "41292423",
+        "title": "Dual-Targeted Therapy in Cardiometabolic Risk: A Meta-Analysis of Telmisartan-Based Combinations for Hypertension and Dyslipidemia.",
+        "abstract": "Hypertension often coexists with dyslipidemia, requiring combination therapy. Telmisartan, combined with amlodipine or rosuvastatin, targets these conditions. This meta-analysis evaluates the efficacy and safety of these combinations in adults with hypertension and dyslipidemia.",
+        "journal": "Clinical cardiology",
+        "year": "2025",
+        "authors": [
+          "Asim Rabia",
+          "Muhammad Tazheen Saleh",
+          "Ahmed Saad",
+          "Khurram Laiba",
+          "Azeem Bazil"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Telmisartan",
+          "Dyslipidemias",
+          "Hypertension",
+          "Antihypertensive Agents",
+          "Drug Therapy, Combination",
+          "Amlodipine",
+          "Rosuvastatin Calcium",
+          "Blood Pressure",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41292423/"
+      },
+      {
+        "pmid": "20448797",
+        "title": "New standards in hypertension and cardiovascular risk management: focus on telmisartan.",
+        "abstract": "Blockade of the renin-angiotensin system is an important approach in managing high blood pressure, and has increasingly been shown to affect cardiovascular disease processes mediated by angiotensin II throughout the cardiovascular and renal continua. Telmisartan is an angiotensin II receptor blocker (ARB) displaying unique pharmacologic properties, including a longer half life than any other ARB, that result in large and sustained reductions of blood pressure. In patients with mild-to-moderate hypertension, telmisartan has proved superior to other antihypertensive agents (valsartan, losartan, ramipril, perindopril, and atenolol) in controlling blood pressure particularly towards the end of the dosing interval. There is also clinical evidence that telmisartan reduces left ventricular hypertrophy, reduces arterial stiffness and the recurrence of atrial fibrillation, and confers renoprotection. The ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial (ONTARGET)",
+        "journal": "Vascular health and risk management",
+        "year": "2010",
+        "authors": [
+          "Galzerano Domenico",
+          "Capogrosso Cristina",
+          "Di Michele Sara",
+          "Galzerano Antonio",
+          "Paparello Paola"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Calcium Channel Blockers",
+          "Cardiovascular Diseases",
+          "Cardiovascular System",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20448797/"
+      },
+      {
+        "pmid": "18584582",
+        "title": "Cardioprotective effects of telmisartan in uncomplicated and complicated hypertension.",
+        "abstract": "The development of angiotensin II receptor blockers (ARB) as a new class of drugs for the management of hypertension has elicited the attention of many clinicians worldwide with the aim of improving blood pressure (BP) control as well as cardiovascular protection. Among ARB telmisartan has been shown to be characterised by an antihypertensive efficacy fully covering the 24-hour period, thereby allowing to antagonise the adverse effects of early morning BP rise on cardiovascular risk. Other specific effects of the drug are represented by its favourable metabolic profile (particularly on insulin sensitivity) and neutral effects on sympathetic cardiovascular function. These properties are coupled with cardioprotective effects, documented by the evidence that the drug: 1) is effective in favouring the regression of cardiac and vascular organ damage, 2) reduces arterial stiffness and improves vascular distensibility and 3) reverses the endothelial dysfunction typical of the hypertensive sta",
+        "journal": "Journal of the renin-angiotensin-aldosterone system : JRAAS",
+        "year": "2008",
+        "authors": [
+          "Grassi Guido",
+          "Quarti-Trevano Fosca",
+          "Mancia Giuseppe"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Cardiotonic Agents",
+          "Heart Diseases",
+          "Humans",
+          "Hypertension",
+          "Telmisartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18584582/"
+      },
+      {
+        "pmid": "39557773",
+        "title": "Triple Therapy with Telmisartan, Amlodipine, and Rosuvastatin (TAR) Versus Telmisartan/Amlodipine (TA) and Telmisartan/Rosuvastatin (TR) Combinations in Hypertension and Dyslipidemia: A Systematic Review and Meta-analysis.",
+        "abstract": "Hypertension and dyslipidemia are common contributors to cardiovascular disease (CVD), often occurring together. Effectively Managing both is key to reducing mortality and morbidity, but complex regimens reduce adherence.",
+        "journal": "High blood pressure & cardiovascular prevention : the official journal of the Italian Society of Hypertension",
+        "year": "2025",
+        "authors": [
+          "Habboush Shady",
+          "Kagita Navyamani V",
+          "Gadelmawla Ahmed F",
+          "Elmoursi Ahmed",
+          "Merza Nooraldin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Amlodipine",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Biomarkers",
+          "Blood Pressure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39557773/"
+      },
+      {
+        "pmid": "20517535",
+        "title": "Importance of a fixed combination of telmisartan and amlodipine for the treatment of hypertension.",
+        "abstract": "Patients with moderate to severe hypertension frequently require>or=2 antihypertensives to achieve blood pressure (BP) control. The combination telmisartan/amlodipine is especially suitable for the treatment of severely hypertensive, high-risk patients, because it offers a substantial and sustained 24-h BP-lowering effect and is well tolerated in a range of patients with hypertension, who are at risk for cardiovascular events. ACCOMPLISH was the first trial to test two fixed-dose combinations (the angiotensin-converting enzyme inhibitor [ACEi] benazepril in combination with either the diuretic hydrochlorothiazide [HCTZ] or the calcium channel blocker amlodipine). It was shown that a combination including amlodipine was superior to that including HCTZ in reducing the risk of cardiovascular events and death among high-risk patients. Results of the ONTARGET study comparing telmisartan with ramipril showed that telmisartan was an equally effective alternative to ramipril and less likely to",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2010",
+        "authors": [
+          "Ahrens K",
+          "Bramlage P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amlodipine",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood",
+          "Cardiovascular Diseases",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20517535/"
+      },
+      {
+        "pmid": "38228033",
+        "title": "Effects of telmisartan on metabolic syndrome components: a comprehensive review.",
+        "abstract": "Telmisartan is an antagonist of the angiotensin II receptor used in the management of hypertension (alone or in combination with other antihypertensive agents. It belongs to the drug class of angiotensin II receptor blockers (ARBs). Among drugs of this class, telmisartan shows particular pharmacologic properties, including a longer half-life than any other angiotensin II receptor blockers that bring higher and persistent antihypertensive activity. In hypertensive patients, telmisartan has superior efficacy than other antihypertensive drugs (losartan, valsartan, ramipril, atenolol, and perindopril) in controlling blood pressure, especially towards the end of the dosing interval. Telmisartan has a partial PPARγ-agonistic effect whilst does not have the safety concerns of full agonists of PPARγ receptors (thiazolidinediones). Moreover, telmisartan has an agonist activity on PPARα and PPARδ receptors and modulates the adipokine levels. Thus, telmisartan could be considered as a suitable al",
+        "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+        "year": "2024",
+        "authors": [
+          "Imenshahidi Mohsen",
+          "Roohbakhsh Ali",
+          "Hosseinzadeh Hossein"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Telmisartan",
+          "Angiotensin Receptor Antagonists",
+          "Metabolic Syndrome",
+          "PPAR gamma",
+          "Prospective Studies",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Benzimidazoles",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38228033/"
+      },
+      {
+        "pmid": "20591086",
+        "title": "A systematic review and meta-analysis of telmisartan versus valsartan in the management of essential hypertension.",
+        "abstract": "This was a systematic assessment of the efficacy and safety of telmisartan and valsartan for the management of blood pressure (BP) in patients with essential hypertension. The authors reviewed randomized controlled trials (RCTs) and quasi-RCTs comparing telmisartan and valsartan for the management of essential hypertension in which the participants were followed for at least 6 weeks. When a metaanalysis was possible, included studies were analyzed by Review Manager 5.0 provided by Cochrane Collaboration Group. Statistics were calculated as weight mean differences (WMDs) and relative risk with a random-effect model. A total of 6 RCTs with 3762 patients were included in this metaanalysis. When the authors combined data from all treatment categories as a group, no difference was found between telmisartan and valsartan in reduction of systolic BP and diastolic BP. In subgroup analysis, telmisartan showed a significant benefit on lowering systolic BP and diastolic BP (WMD, -2.88; 95% confid",
+        "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+        "year": "2010",
+        "authors": [
+          "Zheng Zhenfeng",
+          "Lin Shan",
+          "Shi Huilan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Confidence Intervals",
+          "Diastole",
+          "Diuretics",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20591086/"
+      },
+      {
+        "pmid": "17081084",
+        "title": "Effective treatment of hypertension by AT(1) receptor antagonism: the past and future of telmisartan.",
+        "abstract": "Lowering blood pressure is the most effective treatment method to ensure a reduction in the total risk for cardiovascular morbidity and mortality. The renin-angiotensin system plays an important role in volume homeostasis and blood pressure regulation and is a target for several groups of pharmaceutical agents. Angiotensin II receptor blockers represent the newest class of antihypertensive compounds. They prevent the binding of angiotensin II to the subtype 1 receptor (AT(1)), which is believed to mediate most of the physiological actions relevant to the regulation of blood pressure. Telmisartan, a widely used AT(1) receptor antagonist, is a highly selective compound with high potency, a long duration of action and a tolerability profile similar to placebo. Numerous randomized clinical trials and community-based studies have demonstrated that oral telmisartan and combinations of telmisartan with hydrochlorothiazide are at least as effective in lowering blood pressure as all other hyper",
+        "journal": "Expert review of cardiovascular therapy",
+        "year": "2006",
+        "authors": [
+          "Goebel Matthias",
+          "Clemenz Markus",
+          "Unger Thomas"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Benzimidazoles",
+          "Benzoates",
+          "Diuretics",
+          "Drug Therapy, Combination",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Telmisartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17081084/"
+      },
+      {
+        "pmid": "26051689",
+        "title": "Telmisartan.",
+        "abstract": "Telmisartan is an angiotensin-II receptor antagonist (ARB) used in the treatment of hypertension. Generally, angiotensin-II receptor blockers such as telmisartan bind to the angiotensin-II type 1 receptors with high affinity, causing inhibition of the action of angiotensin II on vascular smooth muscle, ultimately leading to a reduction in arterial blood pressure. The present study gives a comprehensive profile of telmisartan, including detailed nomenclature, formulae, elemental analysis, and appearance of the drug are mentioned. The uses and applications and the several methods described for its preparation of the drug are outlined. The profile contains the physicochemical properties including: pKa value, solubility, X-ray powder diffraction, melting point, and methods of analysis (including compendial, electrochemical, spectroscopic, and chromatographic methods of analysis). Developed validated stability-indicating (HPLC and biodiffusion assay methods under accelerated acidic, alkalin",
+        "journal": "Profiles of drug substances, excipients, and related methodology",
+        "year": "2015",
+        "authors": [
+          "Bakheit Ahmed H H",
+          "Abd-Elgalil Ahmed A",
+          "Mustafa Bakheit",
+          "Haque Anzarul",
+          "Wani Tanveer A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Chemistry, Pharmaceutical",
+          "Drug Interactions",
+          "Drug Stability",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26051689/"
+      },
+      {
+        "pmid": "9878991",
+        "title": "Telmisartan.",
+        "abstract": "Telmisartan is a nonpeptide angiotensin II receptor antagonist which selectively and insurmountably inhibits the angiotensin II AT1 receptor subtype without affecting other receptor systems involved in cardiovascular regulation. Oral telmisartan dose-dependently reduced blood pressure (BP) in various animal models of hypertension. In transgenic rats, telmisartan reduced cardiac hypertrophy and glomerulosclerosis. When administered at dosages of 40 to 160 mg once daily to patients with mild to moderate hypertension, telmisartan significantly reduced systolic and diastolic BP compared with placebo and was at least as effective as atenolol 50 or 100 mg and lisinopril 10 to 40 mg. One study showed telmisartan 80 mg/day to be more effective than enalapril 20 mg/day. In 2 studies that used ambulatory BP monitoring, once daily telmisartan provided better control of diastolic BP for the full dosing interval than losartan potassium 50 mg or amlodipine 5 or 10 mg. In a single study in patients w",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "McClellan K J",
+          "Markham A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin Receptor Antagonists",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Animals",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Biotransformation",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Half-Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9878991/"
+      },
+      {
+        "pmid": "12462282",
+        "title": "Treatment of hypertension with an angiotensin II-receptor antagonist compared with an angiotensin-converting enzyme inhibitor: a review of clinical studies of telmisartan and enalapril.",
+        "abstract": "Angiotensin-converting enzyme (ACE) inhibitors and angiotensin II (ATII)-receptor antagonists suppress the effects of ATII and are effective antihypertensive agents. However, the use of ACE inhibitors is sometimes associated with intolerable side effects (eg, cough, angioedema), and patients may develop a compensatory rise in ATII levels. ATII-receptor antagonists have tolerability profiles similar to that of placebo and inhibit the effects of ATII more completely by blocking the AT1 receptor.",
+        "journal": "Clinical therapeutics",
+        "year": "2002",
+        "authors": [
+          "Smith David H G"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin Receptor Antagonists",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Benzimidazoles",
+          "Benzoates",
+          "Clinical Trials as Topic",
+          "Enalapril",
+          "Humans",
+          "Hypertension",
+          "Kidney Diseases",
+          "Renin-Angiotensin System"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12462282/"
+      },
+      {
+        "pmid": "24645740",
+        "title": "Effect of telmisartan on atrial fibrillation recurrences in patients with hypertension: a systematic review and meta-analysis.",
+        "abstract": "The systematic review and meta-analysis are to evaluate the effect of t Telmisartan on atrial fibrillation (AF) recurrences in hypertensive patients with paroxysmal AF.",
+        "journal": "Cardiovascular therapeutics",
+        "year": "2014",
+        "authors": [
+          "Pan Gaofeng",
+          "Zhou Xuefeng",
+          "Zhao Jinping"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Atrial Fibrillation",
+          "Benzimidazoles",
+          "Benzoates",
+          "Chi-Square Distribution",
+          "Humans",
+          "Hypertension",
+          "Kaplan-Meier Estimate",
+          "Odds Ratio"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24645740/"
+      },
+      {
+        "pmid": "32937023",
+        "title": "Efficacy and safety of co-administered telmisartan/amlodipine and rosuvastatin in subjects with hypertension and dyslipidemia.",
+        "abstract": "Single risk factors, such as hypertension and dyslipidemia, can combine to exacerbate the development and severity of cardiovascular disease. Treatment goals may be more effectively achieved if multiple disease factors are targeted with combination treatment. We enrolled 202 patients who were randomly divided into the following three groups: telmisartan/amlodipine 80/5 mg + rosuvastatin 20 mg, telmisartan 80 mg + rosuvastatin 20 mg, and telmisartan/amlodipine 80/5 mg. The primary efficacy variables were changes from baseline in mean sitting systolic blood pressure (MSSBP) between telmisartan/amlodipine 80/5 mg + rosuvastatin 20 mg and telmisartan 80 mg + rosuvastatin 20 mg at 8 weeks, and the percent changes from baseline in low-density lipoprotein (LDL) cholesterol between telmisartan/amlodipine 80/5 mg + rosuvastatin 20 mg and telmisartan/amlodipine 80/5 mg at 8 weeks. The secondary efficacy variables were changes in MSSBP, mean sitting diastolic blood pressure (MSDBP), LDL cholester",
+        "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+        "year": "2020",
+        "authors": [
+          "Jin Xuan",
+          "Kim Moo Hyun",
+          "Han Ki Hoon",
+          "Hong Soon Jun",
+          "Ahn Jeong-Cheon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Amlodipine",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Dyslipidemias",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32937023/"
+      },
+      {
+        "pmid": "38158926",
+        "title": "[Sartans in the treatment of arterial hypertension: focus on telmisartan and azilsartan. A review].",
+        "abstract": "The activity of the renin-angiotensin-aldosterone system is one of the main pathogenetic mechanisms underlying cardiovascular diseases at all stages of the cardiovascular continuum. This article discusses the role of telmisartan and azilsartan as the most powerful sartans in modern cardiology. Azilsartan and especially telmisartan have a significant organoprotection and are superior to other antihypertensive drugs in terms of lowering blood pressure. However, the effect of azilsartan on hard endpoints has not been studied while the efficacy of telmisartan on hard endpoints has been evaluated in plenty clinical trials including 3 large randomized clinical trials with several thousand patients. The article also presents calculations showing the better cost-effectiveness of telmisartan compared to azilsartan.",
+        "journal": "Terapevticheskii arkhiv",
+        "year": "2023",
+        "authors": [
+          "Zakiev V D",
+          "Kotovskaya Y V",
+          "Tkacheva O N"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Telmisartan",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Hypertension",
+          "Benzimidazoles",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Oxadiazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38158926/"
+      },
+      {
+        "pmid": "34280191",
+        "title": "Telmisartan use and risk of dementia in type 2 diabetes patients with hypertension: A population-based cohort study.",
+        "abstract": "Angiotensin receptor blockers (ARBs) may have protective effects against dementia occurrence in patients with hypertension (HTN). However, whether telmisartan, an ARB with peroxisome proliferator-activated receptor γ (PPAR-γ)-modulating effects, has additional benefits compared to other ARBs remains unclear.",
+        "journal": "PLoS medicine",
+        "year": "2021",
+        "authors": [
+          "Liu Chi-Hung",
+          "Sung Pi-Shan",
+          "Li Yan-Rong",
+          "Huang Wen-Kuan",
+          "Lee Tay-Wey"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Asian People",
+          "Cohort Studies",
+          "Dementia",
+          "Diabetes Mellitus, Type 2",
+          "Female",
+          "Humans",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34280191/"
+      },
+      {
+        "pmid": "34918194",
+        "title": "Fixed-dose Combination of Metoprolol, Telmisartan, and Chlorthalidone for Essential Hypertension in Adults with Stable Coronary Artery Disease: Phase III Study.",
+        "abstract": "The aim of the study was to evaluate the efficacy and safety of fixed-dose combination (FDC) of metoprolol, telmisartan, and chlorthalidone in patients with essential hypertension and stable coronary artery disease (CAD) who showed inadequate response to dual therapy.",
+        "journal": "Advances in therapy",
+        "year": "2022",
+        "authors": [
+          "Sarkar Gouranga",
+          "Gaikwad Vijay B",
+          "Sharma Aradhana",
+          "Halder Swapan K",
+          "Kumar Darivemula A"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Amlodipine",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Chlorthalidone",
+          "Coronary Artery Disease",
+          "Drug Therapy, Combination",
+          "Essential Hypertension",
+          "Humans",
+          "Hydrochlorothiazide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34918194/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:41:40.383463",
+  "success": true,
+  "error_message": null
+}

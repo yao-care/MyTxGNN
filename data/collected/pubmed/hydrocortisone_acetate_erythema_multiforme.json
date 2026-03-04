@@ -1,0 +1,42 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrocortisone Acetate",
+    "disease": "erythema multiforme",
+    "query_string": "Hydrocortisone Acetate AND erythema multiforme"
+  },
+  "data": {
+    "query": "Hydrocortisone Acetate AND erythema multiforme",
+    "results": [
+      {
+        "pmid": "10696380",
+        "title": "Erythema multiforme after application of aural Gentisone HC drops.",
+        "abstract": "Erythema multiforme is an uncommon acute self-limiting condition characterized by mucocutaneous lesions of varying severity with a variable pattern of recurrence. This is a case of a four-year-old girl who developed erythema multiforme secondary to topical aural application of Gentisone HC drops (hydrocortisone acetate one per cent, gentamicin 0.3 per cent (as sulphate)) prescribed as a treatment for otorrhoea following grommet insertion. The clinical features are described and the literature reviewed. To my knowledge, this is the first reported case in the literature, of erythema multiforme secondary to a topical aminoglycoside/steroid preparation.",
+        "journal": "The Journal of laryngology and otology",
+        "year": "1999",
+        "authors": [
+          "Siddiq M A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Child, Preschool",
+          "Erythema Multiforme",
+          "Female",
+          "Gentamicins",
+          "Humans",
+          "Instillation, Drug",
+          "Otitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10696380/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:14:13.063744",
+  "success": true,
+  "error_message": null
+}

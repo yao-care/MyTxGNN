@@ -1,0 +1,525 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Salicylic Acid",
+    "disease": "acquired keratosis",
+    "query_string": "Salicylic Acid AND acquired keratosis"
+  },
+  "data": {
+    "query": "Salicylic Acid AND acquired keratosis",
+    "results": [
+      {
+        "pmid": "32886029",
+        "title": "Treatment of keratosis pilaris and its variants: a systematic review.",
+        "abstract": "Keratosis pilaris (KP) is a common, benign skin condition of follicular hyperkeratosis. Although KP is asymptomatic, the cosmetic appearance of KP can lead to psychosocial distress among patients. New emerging treatments are increasingly being utilized. Yet, there is little to no summative data on the treatments of KP and its subtypes.",
+        "journal": "The Journal of dermatological treatment",
+        "year": "2022",
+        "authors": [
+          "Maghfour Jalal",
+          "Ly Sophia",
+          "Haidari Wasim",
+          "Taylor Sarah L",
+          "Feldman Steven R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Abnormalities, Multiple",
+          "Darier Disease",
+          "Eyebrows",
+          "Humans",
+          "Low-Level Light Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32886029/"
+      },
+      {
+        "pmid": "17298101",
+        "title": "Acquired palmoplantar keratoderma.",
+        "abstract": "Palmoplantar keratodermas (PPKs) are a diverse entity of disorders that are characterized by abnormal thickening of the skin on the palms and soles. Traditionally they have been classified as either hereditary or acquired and are distinguished from each other on the basis of mode of inheritance, presence of transgrediens (defined as contiguous extension of hyperkeratosis beyond the palmar and/or plantar skin), co-morbidities with other symptoms, and extent of epidermal involvement, namely diffuse, focal, and punctate. As the terms hyperkeratosis and keratoderma have been used interchangeably throughout the literature, we define acquired keratoderma as a non-hereditary, non-frictional hyperkeratosis of the palms and/or soles that involves >/=50% of the surface of involved acral areas and that may or may not be associated with clinical and histologic inflammation. Given the numerous possible underlying causes for acquired PPKs, evaluation of patients presenting with acquired PPK can be a",
+        "journal": "American journal of clinical dermatology",
+        "year": "2007",
+        "authors": [
+          "Patel Shaily",
+          "Zirwas Matthew",
+          "English Joseph C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Climacteric",
+          "Communicable Diseases",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Humans",
+          "Keratoderma, Palmoplantar",
+          "Malnutrition",
+          "Neoplasms",
+          "Skin Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17298101/"
+      },
+      {
+        "pmid": "23316984",
+        "title": "Cutaneous cryosurgery.",
+        "abstract": "Cutaneous cryosurgery refers to localized application of freezing temperatures to achieve destruction of skin lesions. It can be used to treat a broad range of benign and premalignant skin conditions, and certain malignant skin conditions, with high cure rates. Cellular destruction is accomplished by delivery of the cryogen via dipstick, probe, or spray techniques. It is widely used in primary care because of its safety, effectiveness, low cost, ease of use, good cosmetic results, and lack of need for anesthesia. Cryosurgery is as effective as alternative therapies for most cases of molluscum contagiosum, dermatofibromas, keloids, and plantar or genital warts. It is a more effective cure for common warts than salicylic acid or observation. Cryosurgery is generally the treatment of choice for actinic keratosis. Contraindications to cryosurgery include cryofibrinogenemia, cryoglobulinemia, Raynaud disease, agammaglobulinemia, and multiple myeloma. Complications from cryosurgery include h",
+        "journal": "American family physician",
+        "year": "2012",
+        "authors": [
+          "Zimmerman Ethan E",
+          "Crawford Paul"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Condylomata Acuminata",
+          "Cryosurgery",
+          "Histiocytoma, Benign Fibrous",
+          "Humans",
+          "Keloid",
+          "Keratosis, Actinic",
+          "Molluscum Contagiosum",
+          "Practice Guidelines as Topic",
+          "Skin Diseases",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23316984/"
+      },
+      {
+        "pmid": "32478958",
+        "title": "Treatment monitoring of 5-fluorouracil 0.5%/salicylic acid 10% lesion-directed therapy for actinic keratosis using dermoscopy and in-vivo reflectance confocal microscopy.",
+        "abstract": "Recently, 5-fluorouracil 0.5%/salicylic acid 10% (5-FU/SA) topical solution has been included in the National Italian portfolio for lesion-directed treatment of grade I/II actinic keratosis (AKs) located on the face or scalp. To describe the utility of dermoscopy and RCM in treatment response monitoring of a series of AKs treated with 5-FU/SA as lesion-directed therapy. Consecutive patients were prospectively treated for a maximum of 12 weeks with 5-FU/SA for AKs located on the face or scalp. Clinical, dermoscopic, and confocal images of one index AK were acquired at each visit and pre-specified criteria were evaluated. Clinical, dermoscopic, and confocal responses were evaluated at last follow-up visit. Fourteen patients were enrolled, of which five were treated for 12 weeks, seven for 8, and two for 4 weeks. At a median follow up of 30 weeks, 64.3% (9/14) index AKs achieved complete clinical, 50% (7/14) complete dermoscopic and 42.9% (6/14) complete confocal clearance. Local skin rea",
+        "journal": "Dermatologic therapy",
+        "year": "2020",
+        "authors": [
+          "Pampena Riccardo",
+          "Condorelli Alessandra",
+          "Cornacchia Luigi",
+          "Guiducci Laura",
+          "Raucci Margherita"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Dermoscopy",
+          "Fluorouracil",
+          "Humans",
+          "Keratosis, Actinic",
+          "Microscopy, Confocal",
+          "Salicylic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32478958/"
+      },
+      {
+        "pmid": "34126071",
+        "title": "Aquagenic Keratoderma: Treatment Update.",
+        "abstract": "Aquagenic keratoderma is an uncommon acquired dermatosis characterized by edema and whitish-translucent papules triggered by immersion or contact with water. Cases have been described in association with certain medications, hyperhidrosis, and cystic fibrosis. The aim of this review is to evaluate the effectiveness of different treatments for aquagenic keratoderma. We reviewed the literature and analyzed treatments for aquagenic keratoderma described in case series and reports. Aquagenic keratoderma associated with hyperhidrosis can be treated effectively. Tap water iontophoresis, endoscopic thoracic sympathectomy, botulinum toxin injections, and oxybutynin are effective against refractory forms. Topical salicylic acid and aluminum salts are effective, but of little value as maintenance therapy. Oral oxybutynin 5 mg/d is probably the best option for treating aquagenic keratoderma. The reported pathophysiological effects of nonsteroidal anti inflammatory drugs in this setting suggest th",
+        "journal": "Actas dermo-sifiliograficas",
+        "year": "2022",
+        "authors": [
+          "Carbonell Pradas M",
+          "Grimalt Santacana R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Humans",
+          "Hyperhidrosis",
+          "Keratoderma, Palmoplantar",
+          "Salicylic Acid",
+          "Water"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34126071/"
+      },
+      {
+        "pmid": "11976541",
+        "title": "[Xerosis].",
+        "abstract": "The clinical characteristic of xerosis is rough or coarse skin. Physiopathologically, the structure of the stratum corneum is modified and abnormalities in keratinization, proliferation, surface lipid, water metabolism and also pH and sebum exist. There are two forms of xerosis: dry skin forms and ichtyosis or ichtyosis-like forms. Xerosis has many etiologies including external aggression, senescence, drugs, infection, atopy, deficiencies, malignant diseases, endocrine affections, eating disorders and renal failure in dialyzed patients. It provokes cutaneous discomfort and unaesthetic appearance that justify appropriate treatment. Treatment is essentially local, symptomatic and must be accompanied by general measures. Many products include moisturizers and emollients (keratolytics: salicylic acid, urea and alpha-hydroxy acid).",
+        "journal": "Annales de dermatologie et de venereologie",
+        "year": "2002",
+        "authors": [
+          "Mazereeuw J",
+          "Bonafé J-L"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dermatologic Agents",
+          "Diet",
+          "Emollients",
+          "Humans",
+          "Hydrotherapy",
+          "Ichthyosis",
+          "Keratolytic Agents",
+          "Salicylic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11976541/"
+      },
+      {
+        "pmid": "27995485",
+        "title": "Efficacy and Safety of 5-Fluorouracil 0.5%/Salicylic Acid 10% in the Field-Directed Treatment of Actinic Keratosis: A Phase III, Randomized, Double-Blind, Vehicle-Controlled Trial.",
+        "abstract": "Due to the high prevalence of actinic keratosis (AK) and potential for lesions to become cancerous, clinical guidelines recommend that all are treated. The objective of this study was to evaluate the efficacy and safety of 5-fluorouracil (5-FU) 0.5%/salicylic acid 10% as field-directed treatment of AK lesions.",
+        "journal": "Dermatology and therapy",
+        "year": "2017",
+        "authors": [
+          "Stockfleth Eggert",
+          "von Kiedrowski Ralph",
+          "Dominicus Rolf",
+          "Ryan John",
+          "Ellery Adam"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27995485/"
+      },
+      {
+        "pmid": "40583662",
+        "title": "Comparison between Combination of Neem, Propylene Glycol and Salicylic Acid with Salicylic Acid Alone Topically in Arsenical Palmar Keratosis.",
+        "abstract": "Arsenicosis, a problem with chronic ingestion of arsenic in drinking water was first detected in 1993 in Bangladesh. Currently, 61 districts have been identified as having an arsenic concentration exceeding the maximum permissible limit of 0.05 mg/L. More than 40,000 people developed signs and symptoms of arsenicosis, manifested as skin hyperpigmentation often with hypopigmentation and later painful Keratosis on the palm and sole with fissures, cracks and warty lesions that reduce the working ability of patients. Keratosis is difficult to cure for its longer duration treatment and standard treatment is still lacking. Neem (Azadirachta Indica), a valuable source of unique natural products, has been used in various conditions, including skin care. Topical use of ethanol extract of neem has also been found to be effective. A cost-effective topical drug, in lower concentration with shorter duration and less adverse effect, is necessary. The purpose of this study was to observe the effect o",
+        "journal": "Mymensingh medical journal : MMJ",
+        "year": "2025",
+        "authors": [
+          "Sabiha K",
+          "Misbahuddin M",
+          "Chowdhury A S M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Salicylic Acid",
+          "Male",
+          "Female",
+          "Adult",
+          "Propylene Glycol",
+          "Middle Aged",
+          "Plant Extracts",
+          "Drug Therapy, Combination",
+          "Arsenic Poisoning"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40583662/"
+      },
+      {
+        "pmid": "27223248",
+        "title": "Actikerall™ (5-Fluorouracil 0.5% and Salicylic Acid 10%) Topical Solution for Patient-directed Treatment of Actinic Keratoses.",
+        "abstract": "Actinic keratosis (AK), a common cutaneous lesion with the potential to transform into squamous cell carcinoma, has traditionally been treated with ablative and/or surgical procedures. Recently, a topical formulation combining 0.5% 5-fluorouracil with 10% salicylic acid (5-FU-SA) was introduced in Europe under the trade name Actikerall™ for the treatment of grade I/II AKs. In a single randomized phase III trial, 5-FU-SA was shown to be superior to diclofenac 3% gel in hyaluronic acid, as measured by the histological clearance of one defined lesion (72% vs. 59.1%) and by complete clinical clearance (55.4% vs. 32.0%). 5-FU-SA should be applied once daily to a total area of up to 25 cm(2), which may include the lesion(s) and a small area of surrounding skin (rim of healthy skin should not exceed 0.5 cm), for up to 12 weeks. The most common side effects are local inflammation and pruritus at the application site, and no serious adverse effects have been reported to date. Now commercially a",
+        "journal": "Skin therapy letter",
+        "year": "2016",
+        "authors": [
+          "Nguyen H P",
+          "Rivers J K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Fluorouracil",
+          "Humans",
+          "Keratosis, Actinic",
+          "Salicylic Acid",
+          "Solutions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27223248/"
+      },
+      {
+        "pmid": "35435128",
+        "title": "Early clinical response to 5-fluorouracil 0.5% and salicylic acid 10% topical solution in the treatment of actinic keratoses of the head: an observational study.",
+        "abstract": "Actinic keratosis is one of the most common dermatological disorders. A new topical solution, constituted by 0.5% 5-fluorouracil and 10% salicylic acid (Actikerall, Almirall) has been introduced in the treatment pipeline of hyperkeratotic actinic keratoses of the head and neck.",
+        "journal": "The Journal of dermatological treatment",
+        "year": "2022",
+        "authors": [
+          "Garofalo Virginia",
+          "Geraci Francesco",
+          "Di Prete Monia",
+          "Lanna Caterina",
+          "Lozzi Flavia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Fluorouracil",
+          "Humans",
+          "Keratosis, Actinic",
+          "Prospective Studies",
+          "Salicylic Acid",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35435128/"
+      },
+      {
+        "pmid": "19192162",
+        "title": "Ichthyoses--Part 2: Congenital ichthyoses.",
+        "abstract": "Congenital ichthyoses are a group of genetic disorders with defective cornification, clinically characterized by scaling of the skin. Additionally, distinctive cutaneous inflammation can often be observed. For most of the patients these diseases lead to a significant restriction in quality of life. The diagnostic hallmarks are discussed. The diagnostic criteria include clinical and histological findings, often enhanced or confirmed by specialized tests. Because many of the congenital ichthyoses are extremely rare, their accurate diagnosis is often carried out in specialized centers. After discussing the vulgar ichthyoses as well as the diagnostic and therapeutic options in part one, in this second part we review congenital ichthyoses both with and without associated symptoms, focusing on the common genetic changes and their clinical phenotype. Specific therapies are still not available for most of these disorders. The use of different topical agents (e. g. urea, retinoids and salicylic",
+        "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+        "year": "2009",
+        "authors": [
+          "Krug Markus",
+          "Oji Vinzenz",
+          "Traupe Heiko",
+          "Berneburg Mark"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ichthyosiform Erythroderma, Congenital",
+          "Ichthyosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19192162/"
+      },
+      {
+        "pmid": "1534332",
+        "title": "Salicylic acid ointment peeling of the hands and forearms. Effective nonsurgical removal of pigmented lesions and actinic damage.",
+        "abstract": "A methyl salicylate-buffered, croton oil-containing 50% salicylic acid ointment peel, following pretreatment with topical tretinoin and localized 20% trichloroacetic acid, is extremely effective for removal of lentigines, pigmented keratoses, and actinically damaged skin from the dorsum of the hands and forearms. The ease of application, uniform results, decreased risk of scarring, and one-time application of this peel, in comparison with other methods used for treatment of these aging-skin changes, warrants consideration by the dermatologic surgeon.",
+        "journal": "The Journal of dermatologic surgery and oncology",
+        "year": "1992",
+        "authors": [
+          "Swinehart J M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Bandages",
+          "Chemexfoliation",
+          "Dermatitis, Seborrheic",
+          "Female",
+          "Forearm",
+          "Hand Dermatoses",
+          "Humans",
+          "Keratosis",
+          "Lentigo"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1534332/"
+      },
+      {
+        "pmid": "25495775",
+        "title": "Cost-effectiveness analysis of 5-fluorouracil 0.5%/salicylic acid 10% in the treatment of actinic keratosis in Spain.",
+        "abstract": "The aim of this study is to conduct a cost-effectiveness analysis of 5-fluorouracil 0.5%/salicylic acid 10% (5-FU/SA) in the treatment of isolated hyperkeratotic actinic keratosis lesions in Spain.",
+        "journal": "Expert review of pharmacoeconomics & outcomes research",
+        "year": "2015",
+        "authors": [
+          "Nieves Diana",
+          "Puig-Peiró Ruth",
+          "Ferrándiz Carlos",
+          "Plazas Maria Josep",
+          "Brosa Max"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Cost-Benefit Analysis",
+          "Cryotherapy",
+          "Decision Support Techniques",
+          "Drug Combinations",
+          "Fluorouracil",
+          "Humans",
+          "Keratolytic Agents",
+          "Keratosis, Actinic",
+          "Quality-Adjusted Life Years"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25495775/"
+      },
+      {
+        "pmid": "32250551",
+        "title": "Two is better than one: The combined effects of glycolic acid and salicylic acid on acne-related disorders.",
+        "abstract": "Many companies capitalized on treatable skin conditions by providing expensive prescription medications or high-end over-the-counter cosmetics. However, patients have become more apprehensive toward these medications in lieu of their often-detrimental side effect profile and reactivity with sensitive skin.",
+        "journal": "Journal of cosmetic dermatology",
+        "year": "2020",
+        "authors": [
+          "Wiegmann David",
+          "Haddad Lori"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Glycolates",
+          "Humans",
+          "Prospective Studies",
+          "Salicylic Acid",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32250551/"
+      },
+      {
+        "pmid": "31490769",
+        "title": "Development of Topical Gel of Methotrexate Incorporated Ethosomes and Salicylic Acid for the Treatment of Psoriasis.",
+        "abstract": "There is an unmet need for optimized drug delivery system of psoriasis therapy because of various issues like adverse reaction, permeation problem associated with convention treatment (oral and topical) available for psoriasis.",
+        "journal": "Pharmaceutical nanotechnology",
+        "year": "2019",
+        "authors": [
+          "Chandra Akhilesh",
+          "Aggarwal Geeta",
+          "Manchanda Satish",
+          "Narula Akshay"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acrylates",
+          "Administration, Cutaneous",
+          "Animals",
+          "Antipsychotic Agents",
+          "Disease Models, Animal",
+          "Drug Compounding",
+          "Drug Liberation",
+          "Gels",
+          "Guinea Pigs",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31490769/"
+      },
+      {
+        "pmid": "24472429",
+        "title": "A review of toxicity from topical salicylic acid preparations.",
+        "abstract": "Topical salicylic acid is often used in dermatologic conditions because of its keratolytic, bacteriostatic, fungicidal, and photoprotective properties. The bioavailability of salicylic acid differs depending on the vehicle used and pH of transcellular fluids. Although rare, salicylic acid toxicity (salicylism) can occur from topical application. Physicians should be mindful of the potential for salicylism or even death from topically applied salicylic acid.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2014",
+        "authors": [
+          "Madan Raman K",
+          "Levitt Jacob"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Female",
+          "Humans",
+          "Ichthyosis",
+          "Keratolytic Agents",
+          "Male",
+          "Prognosis",
+          "Psoriasis",
+          "Risk Assessment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24472429/"
+      },
+      {
+        "pmid": "36902419",
+        "title": "Pharmacological Agents Used in the Prevention and Treatment of Actinic Keratosis: A Review.",
+        "abstract": "Actinic keratosis (AK) is among the most commonly diagnosed skin diseases with potentially life-threatening repercussions if left untreated. Usage of pharmacologic agents represents one of many therapeutic strategies that can be used to help manage these lesions. Ongoing research into these compounds continues to change our clinical understanding as to which agents most benefit particular patient populations. Indeed, factors such as past personal medical history, lesion location and tolerability of therapy only represent a few considerations that clinicians must account for when prescribing appropriate treatment. This review focuses on specific drugs used in either the prevention or treatment of AKs. Nicotinamide, acitretin and topical 5-fluorouracil (5-FU) continue to be used with fidelity in the chemoprevention of actinic keratosis, although some uncertainty persists in regard to which agents should be used in immunocompetent vs. immunodeficient/immunosuppressed patients. Topical 5-F",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Arcuri Domenico",
+          "Ramchatesingh Brandon",
+          "Lagacé François",
+          "Iannattone Lisa",
+          "Netchiporouk Elena"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Keratosis, Actinic",
+          "Aminolevulinic Acid",
+          "Diclofenac",
+          "Imiquimod",
+          "Photochemotherapy",
+          "Fluorouracil",
+          "Photosensitizing Agents",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36902419/"
+      },
+      {
+        "pmid": "39913227",
+        "title": "Antioxidant, Keratolytic, and Hydrating Treatment for Seborrheic Keratoses.",
+        "abstract": "Seborrheic keratoses (SKs) are the most common skin lesions to prompt visits to a dermatologist. Patients may be concerned about unsightly appearance, irritation, or the possibility of skin cancer. They frequently ask if there is a topical treatment for these lesions.",
+        "journal": "Journal of drugs in dermatology : JDD",
+        "year": "2025",
+        "authors": [
+          "V Stoecker William",
+          "Kopel Jonathan",
+          "Geria Navin",
+          "Nosoudi Nasim"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Keratosis, Seborrheic",
+          "Antioxidants",
+          "Pilot Projects",
+          "Female",
+          "Male",
+          "Middle Aged",
+          "Keratolytic Agents",
+          "Treatment Outcome",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39913227/"
+      },
+      {
+        "pmid": "38351246",
+        "title": "Field Cancerization Therapies for the Management of Actinic Keratosis: An Updated Review.",
+        "abstract": "Field cancerization theory highlights that the skin surrounding actinic keratoses (AK) is also at increased risk for possible malignant transformation; thus, field-directed treatments may both reduce the risk of AK recurrence and potentially reduce the risk of development of cutaneous squamous cell carcinoma (cSCC). Photodynamic therapy (PDT) with either aminolevulinic acid (ALA) or methylaminolevulinate (MAL), as well as topical treatments such as 5-fluorouracil (5-FU), diclofenac gel, piroxicam, imiquimod, and ingenol mebutate, have all shown higher efficacy than vehicle treatments. PDT is widely recognized for its high efficacy; however, concerns for associated pain have driven new studies to begin using alternative illumination and pretreatment techniques, including lasers. Among topical treatments, a combination of 5-FU and salicylic acid (5-FU-SA) has shown to be the most effective but also causes the most adverse reactions. Tirbanibulin, a new topical agent approved for use in 2",
+        "journal": "American journal of clinical dermatology",
+        "year": "2024",
+        "authors": [
+          "Aggarwal Ishita",
+          "Puyana Carolina",
+          "Chandan Neha",
+          "Jetter Nathan",
+          "Tsoukas Maria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Keratosis, Actinic",
+          "Photochemotherapy",
+          "Skin Neoplasms",
+          "Carcinoma, Squamous Cell",
+          "Cell Transformation, Neoplastic",
+          "Administration, Cutaneous",
+          "Treatment Outcome",
+          "Antineoplastic Agents",
+          "Photosensitizing Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38351246/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:29:37.942756",
+  "success": true,
+  "error_message": null
+}

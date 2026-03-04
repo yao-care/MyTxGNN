@@ -1,0 +1,74 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fluticasone Propionate",
+    "disease": "exanthem",
+    "query_string": "Fluticasone Propionate AND exanthem"
+  },
+  "data": {
+    "query": "Fluticasone Propionate AND exanthem",
+    "results": [
+      {
+        "pmid": "19029572",
+        "title": "Generalized pustulosis.",
+        "abstract": "",
+        "journal": "Indian pediatrics",
+        "year": "2008",
+        "authors": [
+          "Ghosh Sudip Kumar",
+          "Bandyopadhyay Debabrata"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Androstadienes",
+          "Anti-Bacterial Agents",
+          "Anti-Inflammatory Agents",
+          "Cefadroxil",
+          "Child",
+          "Drug Eruptions",
+          "Exanthema",
+          "Fluticasone",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19029572/"
+      },
+      {
+        "pmid": "40898496",
+        "title": "Diagnosis and treatment of a patient with severe hepatitis and rash caused by toripalimab: A case report.",
+        "abstract": "Immune-related adverse events have been frequently reported using immune checkpoint inhibitors. However, these reports are commonly observed in single-organ toxicity. Thus, the compound, multiple, multisite, and multi-organ toxicities are seldom recognized and lack treatment experience, finally leading to severe challenges in the clinical treatment of such patients. More case studies are needed to fully understand the diagnostic and treatment strategies formulti-organ immune-related adverse events. This report aims to share the clinical diagnosis and treatment experience of a patient with nasopharyngeal carcinoma who developed severe hepatitis and rash after treatment with toripalimab.",
+        "journal": "Medicine",
+        "year": "2025",
+        "authors": [
+          "Guo Wei",
+          "Li Yurun",
+          "Li Jing",
+          "Dai Liping",
+          "Jia Yuting"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Case Reports"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Antibodies, Monoclonal, Humanized",
+          "Exanthema",
+          "Nasopharyngeal Carcinoma",
+          "Nasopharyngeal Neoplasms",
+          "Chemical and Drug Induced Liver Injury",
+          "Hepatitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40898496/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:31:34.978657",
+  "success": true,
+  "error_message": null
+}

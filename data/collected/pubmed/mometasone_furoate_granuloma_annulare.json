@@ -1,0 +1,45 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Mometasone Furoate",
+    "disease": "granuloma annulare",
+    "query_string": "Mometasone Furoate AND granuloma annulare"
+  },
+  "data": {
+    "query": "Mometasone Furoate AND granuloma annulare",
+    "results": [
+      {
+        "pmid": "12007024",
+        "title": "Annular elastolytic giant cell granuloma.",
+        "abstract": "Annular elastolytic giant cell granuloma is a granulomatous process that presents as slowly growing annular papules and plaques on sun-exposed skin. It was first described in patients in the fourth and fifth decades of life. These lesions are primarily distributed on the head and neck. A review of the literature shows a preponderance of cases in adults. We report two cases of annular elastolytic giant cell granuloma developing in children under the age of 11 years.",
+        "journal": "Pediatric and developmental pathology : the official journal of the Society for Pediatric Pathology and the Paediatric Pathology Society",
+        "year": "2002",
+        "authors": [
+          "Herron Mark D",
+          "Coffin Cheryl M",
+          "Vanderhooft Sheryll L"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Child",
+          "Elastic Tissue",
+          "Giant Cells",
+          "Granuloma Annulare",
+          "Humans",
+          "Male",
+          "Mometasone Furoate",
+          "Potassium Iodide",
+          "Pregnadienediols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12007024/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:24:39.576232",
+  "success": true,
+  "error_message": null
+}

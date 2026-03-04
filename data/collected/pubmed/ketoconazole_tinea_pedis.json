@@ -1,0 +1,560 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ketoconazole",
+    "disease": "tinea pedis",
+    "query_string": "Ketoconazole AND tinea pedis"
+  },
+  "data": {
+    "query": "Ketoconazole AND tinea pedis",
+    "results": [
+      {
+        "pmid": "37415917",
+        "title": "Tinea pedis: an updated review.",
+        "abstract": "Tinea pedis is one of the most common superficial fungal infections of the skin, with various clinical manifestations. This review aims to familiarize physicians with the clinical features, diagnosis and management of tinea pedis.",
+        "journal": "Drugs in context",
+        "year": "2023",
+        "authors": [
+          "Leung Alexander Kc",
+          "Barankin Benjamin",
+          "Lam Joseph M",
+          "Leong Kin Fon",
+          "Hon Kam Lun"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37415917/"
+      },
+      {
+        "pmid": "6094646",
+        "title": "Pharmacologic review: a review of the literature of ketoconazole therapy in the treatment of tinea pedis and onychomycosis.",
+        "abstract": "Ketoconazole, an imidazole derivative, is the first encouraging new oral antimycotic in 20 years. Ketoconazole currently lacks Food and Drug Administration approval for treatment of dermatophytosis; however, it has demonstrated usefulness against a variety of fungal diseases, including tinea pedis, when griseofulvin has failed. The authors provide the reader with data from several studies on the medicinal therapy for dermatomycosis and onychomycosis, particularly where ketoconazole was utilized. Several studies utilizing other treatment modalities are also cited.",
+        "journal": "The Journal of foot surgery",
+        "year": "1984",
+        "authors": [
+          "Cacciaglia G B",
+          "Tenczar A J",
+          "Kanat I O"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Foot Dermatoses",
+          "Humans",
+          "Ketoconazole",
+          "Onychomycosis",
+          "Time Factors",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6094646/"
+      },
+      {
+        "pmid": "40964723",
+        "title": "The Effect of Topical Ketoconazole and Topical Miconazole Nitrate in Modulating the Skin Microbiome and Mycobiome of Patients With Tinea Pedis.",
+        "abstract": "Tinea pedis is a type of dermatophytosis that affects the superficial layers of the skin on feet. Limited data are available on the skin microbiome composition in affected patients and its changes following topical antifungal therapy.",
+        "journal": "Mycoses",
+        "year": "2025",
+        "authors": [
+          "Tan Yen",
+          "Shao Yakun",
+          "Li Tingting",
+          "Hu Xunyi",
+          "Wang Xiaowen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Tinea Pedis",
+          "Miconazole",
+          "Antifungal Agents",
+          "Male",
+          "Female",
+          "Adult",
+          "Middle Aged",
+          "Ketoconazole",
+          "Skin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40964723/"
+      },
+      {
+        "pmid": "37206222",
+        "title": "Evaluation of the efficacy and safety of ionic liquids containing ketoconazole in patients with tinea pedis: A randomized controlled clinical trial.",
+        "abstract": "Ionic liquids (ILs) loading ketoconazole (KCZ) have shown better efficacy on rats with tinea pedis than the marketed Daktarin® but clinical studies are still lacking. In this study, we described the clinical translation of ILs containing KCZ (KCZ-ILs) from the lab into the clinic and evaluated the efficacy and safety of KCZ-ILs in patients with tinea pedis. Thirty-six enrolled participants were randomized to receive either KCZ-ILs (KCZ, 4.72 mg/g) or Daktarin® (control group; KCZ, 20 mg/g) topically twice daily, making the lesion be covered with a thin layer of medication. The randomized controlled trial lasted for 8 weeks including 4 weeks of intervention and 4 weeks of follow-up. Primary efficacy outcome was the proportion of treatment success responders, defined as patients achieving negative mycological result and ≥60% relative reduction in total clinical symptom score (TSS) from baseline at week 4. Secondary outcomes mainly for evaluating the relapse of disease included the propor",
+        "journal": "Bioengineering & translational medicine",
+        "year": "2023",
+        "authors": [
+          "Wu Xiying",
+          "Shen Min",
+          "Wang Huan",
+          "He Xue",
+          "Tan Jingwen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37206222/"
+      },
+      {
+        "pmid": "3430295",
+        "title": "Comparison of ketoconazole and griseofulvin in the treatment of tinea pedis.",
+        "abstract": "Twenty-nine patients with mycologically proven tinea pedis were randomly allocated to oral treatment with either ketoconazole 200 mg daily or griseofulvin 1 g daily for a period of up to 8 weeks. Mycological cure rate at 4 weeks was 33% for ketoconazole and 29% for griseofulvin, and at 8 weeks was 53% and 57% respectively. The efficacy of both drugs in the treatment of interdigital tinea pedis is similar, and is considerably lower than that found with topical imidazole preparations where cure rates of over 70% are generally expected.",
+        "journal": "Journal of medical and veterinary mycology : bi-monthly publication of the International Society for Human and Animal Mycology",
+        "year": "1987",
+        "authors": [
+          "Roberts D T",
+          "Cox N H",
+          "Gentles J C",
+          "Babu K K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Double-Blind Method",
+          "Griseofulvin",
+          "Humans",
+          "Ketoconazole",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3430295/"
+      },
+      {
+        "pmid": "29462232",
+        "title": "Treatment of Signs and Symptoms (Pruritus) of Interdigital Tinea Pedis With Econazole Nitrate Foam, 1.",
+        "abstract": "Tinea pedis is the most common dermatophyte infection. Treatment is critical to alleviate pruritic symptoms, to reduce the risk for secondary bacterial infection, and to limit the spread of infection to other body sites or other individuals. The objective of this study was to compare the abilities of econazole nitrate topical foam, 1% and ketoconazole cream (2%) to reduce pruritus, thus improving quality of life, and to determine patient preference for the foam product versus the cream product in patients with interdigital tinea pedis.",
+        "journal": "Journal of drugs in dermatology : JDD",
+        "year": "2018",
+        "authors": [
+          "Hoffman Lauren K",
+          "Raymond Isabelle",
+          "Kircik Leon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antifungal Agents",
+          "Drug Compounding",
+          "Econazole",
+          "Female",
+          "Follow-Up Studies",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29462232/"
+      },
+      {
+        "pmid": "9232944",
+        "title": "Advances in the treatment of superficial fungal infections: focus on onychomycosis and dry tinea pedis.",
+        "abstract": "Onychomycosis is one of the most stubborn superficial mycoses. With few exceptions, oral antifungal therapy is needed to achieve resolution. Before oral itraconazole, fluconazole, and terbinafine hydrochloride became available, physicians had to rely on prolonged therapy with griseofulvin or oral ketoconazole. Of the newer oral agents, itraconazole appears to have the broadest spectrum of action, with therapeutic activity against dermatophytes, yeasts, and some nondermatophyte molds. Tissue pharmacokinetics accounts for significantly greater efficacy and much shorter treatment courses for fungal infections of the skin and nails. In general, oral itraconazole, fluconazole, and terbinafine are very well tolerated. The newer oral agents offer improved efficacy over griseofulvin and ketoconazole for onychomycosis and dry tinea pedis.",
+        "journal": "The Journal of the American Osteopathic Association",
+        "year": "1997",
+        "authors": [
+          "Del Rosso J Q"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Antifungal Agents",
+          "Dermatomycoses",
+          "Humans",
+          "Onychomycosis",
+          "Prognosis",
+          "Tinea Pedis",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9232944/"
+      },
+      {
+        "pmid": "12000508",
+        "title": "Clinical comparison of the efficacy and tolerability of once daily Canesten with twice daily Nizoral (clotrimazole 1% cream vs. ketoconazole 2% cream) during a 28-day topical treatment of interdigital tinea pedis.",
+        "abstract": "The effects of two topical cream formulations containing clotrimazole 1% and ketoconazole 2%, respectively, were clinically compared in a double-blind, randomized manner for a 28-day therapy of interdigital tinea pedis in 106 treated patients. Ketoconazole was to be used twice daily whereas clotrimazole was administered only once daily. The primary response criterion defined as the number of patients with cure or improvement after 28 treatment days was comparable with 62.0% vs. 64.0% (clotrimazole vs. ketoconazole) for the full analysis set of 100 (50 vs. 50) patients. The mycological response revealed a negative culture and microscopy in 53.1% vs. 52.1% of the patients after 14, in 76.0% vs. 79.2% after 28, and in 83.7% vs. 76.9% after 56 days of observation, indicating a possibly better long-term efficacy of clotrimazole. The development of the overall score of tinea-related signs and symptoms did not show relevant differences between the two drugs and continuously decreased from 11+",
+        "journal": "Mycoses",
+        "year": "2002",
+        "authors": [
+          "Suschka Sigrid",
+          "Fladung Bernward",
+          "Merk Hans F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antifungal Agents",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Drug Therapy, Combination",
+          "Epidermophyton",
+          "Humans",
+          "Ketoconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12000508/"
+      },
+      {
+        "pmid": "8763460",
+        "title": "Cutaneous mycoses in children.",
+        "abstract": "This article describes common cutaneous mycoses in children: mucocutaneous candidiasis, pityriasis versicolor, tinea corporis, tinea pedis, onychomycosis and tinea capitis. Topical therapy is effective in tinea corporis and pedis, pityriasis versicolor and cutaneous candidiasis. It is ineffective in tinea capitis, in immunocompromised children and onychomycosis. Griseofulvin has been the main treatment until now in children, but it is only fungistatic, may cause interactions and has to be given for long periods. Ketoconazole has not been widely accepted for use in children because of hepatotoxicity and it is not an effective as griseofulvin. There are few data on paediatric use of fluconazole, although it is available in liquid form, has an excellent safety profile and may become important for treating paediatric mycoses. Similarly, there are only limited data on itraconazole in this area, with most experience in tinea capitis. There is only a 100-mg capsule available, which is not eas",
+        "journal": "The British journal of dermatology",
+        "year": "1996",
+        "authors": [
+          "Elewski B E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Antifungal Agents",
+          "Child",
+          "Dermatomycoses",
+          "Humans",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8763460/"
+      },
+      {
+        "pmid": "29191265",
+        "title": "Dapaconazole versus ketoconazole in the treatment of interdigital tinea pedis.",
+        "abstract": "",
+        "journal": "International journal of clinical pharmacology and therapeutics",
+        "year": "2018",
+        "authors": [
+          "Gobbato André Alves Moraes",
+          "Gobbato Cintia Aparecida Rodrigues Santiago",
+          "Moreno Ronilson A",
+          "Antunes Natalícia de Jesus",
+          "De Nucci Gilberto"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antifungal Agents",
+          "Female",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Male",
+          "Middle Aged",
+          "Ointments",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29191265/"
+      },
+      {
+        "pmid": "7634851",
+        "title": "Ketoconazole 2 percent cream in the treatment of tinea pedis, tinea cruris, and tinea corporis.",
+        "abstract": "Thirty-five dermatologists enrolled 256 patients to assess the safety and efficacy of ketoconazole 2 percent cream, applied once daily, in the treatment of tinea pedis, tinea cruris, and tinea corporis. Of these, 232 were eligible for efficacy evaluation based on mycologic evidence. Symptoms were assessed after four and eight weeks of treatment; relapse was assessed four weeks after the end of treatment. Total symptom scores decreased significantly during the treatment period. A marked or excellent response to treatment was observed in 82 percent of the cases. At the end of treatment 113 patients had all of their symptoms scored as absent or mild. Of these, three patients relapsed (2.7 percent) and had at least one symptom scored as moderate or severe at the follow-up visit. Only 7.2 percent (six of eighty-three) of the patients with negative findings on potassium hydroxide examination at the end of treatment showed positive findings at the follow-up visit. Three patients reported loca",
+        "journal": "Cutis",
+        "year": "1995",
+        "authors": [
+          "Lester M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adult",
+          "Female",
+          "Humans",
+          "Ketoconazole",
+          "Male",
+          "Middle Aged",
+          "Ointments",
+          "Tinea",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7634851/"
+      },
+      {
+        "pmid": "17051456",
+        "title": "Effectiveness and tolerability of a standardized extract from Ageratina pichinchensis on patients with tinea pedis: an explorative pilot study controlled with ketoconazole.",
+        "abstract": "Ageratina pichinchensis has been used for many years in Mexican traditional medicine for the treatment of superficial mycosis. Previous studies have demonstrated the antifungal effectiveness of a hexane extract from aerial parts of this plant on in vitro cultures of Candida albicans, Aspergillium niger, Trichophyton mentagrophytes, and Trichophyton rubrum. To compare the effectiveness and tolerability of A. pichinchensis with ketoconazole in patients with the clinical and mycological diagnosis of tinea pedis, we carried out a double-blind pilot study. The experimental group was treated topically with a cream containing A. pichinchensis standardized extract (10 %), while the control group was administered a similarly colored cream containing 2 % ketoconazole. All patients were clinically followed weekly for 4 weeks. By means of a mycological examination (direct microscopic detection), the mycological diagnosis of tinea pedis was performed. This technique was also used for evaluating the",
+        "journal": "Planta medica",
+        "year": "2006",
+        "authors": [
+          "Romero-Cerecero Ofelia",
+          "Rojas Gabriela",
+          "Navarro Víctor",
+          "Herrera-Arellano Armando",
+          "Zamilpa-Alvarez Alejandro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Ageratina",
+          "Antifungal Agents",
+          "Arthrodermataceae",
+          "Double-Blind Method",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17051456/"
+      },
+      {
+        "pmid": "25445834",
+        "title": "D-optimal experimental approach for designing topical microemulsion of itraconazole: Characterization and evaluation of antifungal efficacy against a standardized Tinea pedis infection model in Wistar rats.",
+        "abstract": "The study aims to statistically develop a microemulsion system of an antifungal agent, itraconazole for overcoming the shortcomings and adverse effects of currently used therapies. Following preformulation studies like solubility determination, component selection and pseudoternary phase diagram construction, a 3-factor D-optimal mixture design was used for optimizing a microemulsion having desirable formulation characteristics. The factors studied for sixteen experimental trials were percent contents (w/w) of water, oil and surfactant, whereas the responses investigated were globule size, transmittance, drug skin retention and drug skin permeation in 6h. Optimized microemulsion (OPT-ME) was incorporated in Carbopol based hydrogel to improve topical applicability. Physical characterization of the formulations was performed using particle size analysis, transmission electron microscopy, texture analysis and rheology behavior. Ex vivo studies carried out in Wistar rat skin depicted that ",
+        "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+        "year": "2015",
+        "authors": [
+          "Kumar Neeraj",
+          "Shishu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Animals",
+          "Antifungal Agents",
+          "Catalase",
+          "Drug Design",
+          "Emulsions",
+          "Female",
+          "Glutathione",
+          "Hydrogen-Ion Concentration",
+          "Itraconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25445834/"
+      },
+      {
+        "pmid": "1313717",
+        "title": "Itraconazole compared with griseofulvin in the treatment of tinea corporis/cruris and tinea pedis/manus: an interpretation of the clinical results of all completed double-blind studies with respect to the pharmacokinetic profile.",
+        "abstract": "Itraconazole is an orally active triazole antifungal which has been compared to griseofulvin in a number of double-blind trials. In dermatophytosis with a non-fixed treatment regimen for a maximum of 3 months, itraconazole 100 mg o.d. has produced a 100% mycological cure rate as compared with a 67% rate with griseofulvin 500 mg o.d. (p less than 0.01). Based on the pharmacokinetic profile, 100 mg itraconazole daily was then compared with 500 mg ultramicronized griseofulvin daily using a fixed treatment schedule of 15 days in tinea corporis and/or cruris and 30 days in tinea pedis and/or manus. In all studies in tinea corporis/cruris (n = 277), the superiority of itraconazole was shown for the clinical outcome at the last follow-up visit 2 weeks post-therapy (88 vs. 69%, p less than 0.01) and in the mycological outcome at the last follow-up visit (81 vs. 65%, p less than 0.05). In tinea pedis/manus (n = 210), the clinical response was virtually the same for the two treatment groups, but",
+        "journal": "Dermatology (Basel, Switzerland)",
+        "year": "1992",
+        "authors": [
+          "Lachapelle J M",
+          "De Doncker P",
+          "Tennstedt D",
+          "Cauwenbergh G",
+          "Janssen P A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antifungal Agents",
+          "Child",
+          "Child, Preschool",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1313717/"
+      },
+      {
+        "pmid": "27502503",
+        "title": "New Antifungal Agents and New Formulations Against Dermatophytes.",
+        "abstract": "A variety of oral and topical antifungal agents are available for the treatment of superficial fungal infections caused by dermatophytes. This review builds on the antifungal therapy update published in this journal for the first special issue on Dermatophytosis (Gupta and Cooper 2008;166:353-67). Since 2008, there have not been additions to the oral antifungal armamentarium, with terbinafine, itraconazole, and fluconazole still in widespread use, albeit for generally more severe or recalcitrant infections. Griseofulvin is used in the treatment of tinea capitis. Oral ketoconazole has fallen out of favor in many jurisdictions due to risks of hepatotoxicity. Topical antifungals, applied once or twice daily, are the primary treatment for tinea pedis, tinea corporis/tinea cruris, and mild cases of tinea unguium. Newer topical antifungal agents introduced include the azoles, efinaconazole, luliconazole, and sertaconazole, and the oxaborole, tavaborole. Research is focused on developing form",
+        "journal": "Mycopathologia",
+        "year": "2017",
+        "authors": [
+          "Gupta Aditya K",
+          "Foley Kelly A",
+          "Versteeg Sarah G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Antifungal Agents",
+          "Arthrodermataceae",
+          "Drug Compounding",
+          "Humans",
+          "Tinea"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27502503/"
+      },
+      {
+        "pmid": "35111444",
+        "title": "Two Feet-One Hand Syndrome.",
+        "abstract": "Ringworm infection is a common but frequently misdiagnosed skin disease. An 81-year-old woman presented with a complaint of mild itch of the third and fourth fingers of her right hand and the toes of both feet. A crusted rash was seen on the right hand and both feet. The results of potassium hydroxide testing were positive for filamentous fungi. The diagnosis of two feet-one hand syndrome was made. The rash was treated successfully by topical ketoconazole. Recognition of this typical distribution of the rash may help make a prompt diagnosis of ringworm infection.",
+        "journal": "Cureus",
+        "year": "2021",
+        "authors": [
+          "Mizumoto Junki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35111444/"
+      },
+      {
+        "pmid": "12802717",
+        "title": "Effectiveness and tolerability of a standardized phytodrug derived from Solanum chrysotrichum on Tinea pedis: a controlled and randomized clinical trial.",
+        "abstract": "Superficial mycosis such as Tinea pedis affects between 10 and 15% of the population and is amongst the top ten reasons for visiting the doctor in Mexico. The vegetal species Solanum chrysotrichum has been, for many years, widely used in Mexican traditional medicine for the treatment of fungal foot infections. This paper illustrates the results of a controlled and randomized, double-blind clinical trial, which compared the therapeutic effect and the tolerability of a standardized phytodrug from S. chrysotrichum (experimental group) with 2% ketoconazole (control group), applied externally (4 weeks) to 101 patients diagnosed with Tinea pedis. After the treatment, the results showed a clinical effectiveness (> or = 75% improvement of signs and symptoms) of 96.08 % for the group treated with the S. chrysotrichum extract and 91.67% for the ketoconazole group (chi 2, p > 0.38); the mycologic effectiveness (direct examination and negative culture) was 78.43 % and 77.78%, respectively (chi 2, ",
+        "journal": "Planta medica",
+        "year": "2003",
+        "authors": [
+          "Herrera-Arellano Armando",
+          "Rodríguez-Soberanes Artemio",
+          "de los Angeles Martínez-Rivera Maria",
+          "Martínez-Cruz Eugenia",
+          "Zamilpa Alejandro"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antifungal Agents",
+          "Chromatography, High Pressure Liquid",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Ketoconazole",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12802717/"
+      },
+      {
+        "pmid": "3301923",
+        "title": "Comparative trial of a two-dosage schedule of ketoconazole 2% cream for the treatment of tinea pedis.",
+        "abstract": "Sixty-two patients with mycologically confirmed tinea pedis received two different treatment regimens of ketoconazole 2% cream on a randomized double-blind basis for 1 month with weekly evaluations. A 4-week posttreatment follow-up permitted an assessment of recurrence or improvement. After 1 month of treatment, 90% of the patients treated once daily responded clinically, in comparison with 83% of those treated twice daily. The cure rate was 63% for the once-daily and 60% for the twice-daily group. This rate substantially improved at follow-up (77% and 73%, respectively). One patient from each group discontinued therapy for an adverse reaction. On the basis of both clinical and mycologic assessments, topical treatment with ketoconazole 2% cream was effective as a once-daily therapy.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1987",
+        "authors": [
+          "Greer D",
+          "Jolly H W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Ketoconazole",
+          "Male",
+          "Ointments",
+          "Random Allocation",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3301923/"
+      },
+      {
+        "pmid": "10439936",
+        "title": "Terbinafine. An update of its use in superficial mycoses.",
+        "abstract": "Terbinafine is an allylamine antifungal agent which has fungicidal activity against a wide variety of dermatophytes, moulds and certain dimorphic fungi, and fungistatic activity against Candida albicans. Oral terbinafine 250 mg/day is effective in the treatment of superficial dermatophyte infections such as onychomycosis, tinea pedis and tinea corporis/cruris, generally achieving mycological cure in > 80% of patients. The drug is also effective in children with tinea capitis when administered orally in the dosage range 62.5 to 250 mg/day for 4 weeks. Comparative data indicate that oral terbinafine is more effective than continuous or intermittent intraconazole in dermatophyte onychomycosis, and is as effective as itraconazole 400 mg/day in tinea pedis. The drug has shown greater efficacy than griseofulvin in dermatophyte onychomycosis, tinea pedis and tinea corporis/cruris, and comparable efficacy in children with tinea capitis. Additionally, oral terbinafine is more effective than ket",
+        "journal": "Drugs",
+        "year": "1999",
+        "authors": [
+          "McClellan K J",
+          "Wiseman L R",
+          "Markham A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Dermatomycoses",
+          "Humans",
+          "Naphthalenes",
+          "Terbinafine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10439936/"
+      },
+      {
+        "pmid": "8002147",
+        "title": "In vitro evaluation of griseofulvin, ketoconazole, and itraconazole against various dermatophytes in Singapore.",
+        "abstract": "Superficial cutaneous fungal infection, principally dermatophytosis, is an extremely common skin disease. Various in vitro test systems have been developed in recent years to determine the antifungal activity of various drugs. The minimum inhibitory concentration (MIC) obtained may give an indication of the in vivo potency of the drugs.",
+        "journal": "International journal of dermatology",
+        "year": "1994",
+        "authors": [
+          "Goh C L",
+          "Tay Y K",
+          "Ali K B",
+          "Koh M T",
+          "Seow C S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Child",
+          "Child, Preschool",
+          "Drug Resistance, Microbial",
+          "Epidermophyton",
+          "Female",
+          "Griseofulvin",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8002147/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:21:01.289776",
+  "success": true,
+  "error_message": null
+}

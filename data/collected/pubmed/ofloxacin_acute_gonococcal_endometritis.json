@@ -1,0 +1,43 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ofloxacin",
+    "disease": "acute gonococcal endometritis",
+    "query_string": "Ofloxacin AND acute gonococcal endometritis"
+  },
+  "data": {
+    "query": "Ofloxacin AND acute gonococcal endometritis",
+    "results": [
+      {
+        "pmid": "1391639",
+        "title": "Pelvic inflammatory disease.",
+        "abstract": "Pelvic inflammatory disease is a common serious complication of the sexually transmitted pathogens Neisseria gonorrhoeae and Chlamydia trachomatis. There are more than 800,000 cases of pelvic inflammatory disease annually accounting for approximately 200,000 hospital admissions for acute and chronic infections. Early accurate diagnosis and treatment are essential to prevent the serious sequelae including ectopic pregnancy, tubal disease infertility, chronic pain, and disability requiring multiple hospitalizations and surgery. Although clinical models to aid in the diagnosis and management of pelvic inflammatory disease have been developed by numerous investigators, all have lacked the sensitivity and specificity to be helpful to the clinician. Laparoscopy, considered by many to be the \"gold standard\" for diagnosis, is underutilized, and the definition of pelvic infection differs between investigators. Improved patient compliance and safety may be seen if single-agent therapy for acute ",
+        "journal": "Current opinion in obstetrics & gynecology",
+        "year": "1992",
+        "authors": [
+          "McNeeley S G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abortion, Legal",
+          "Anti-Bacterial Agents",
+          "Clinical Protocols",
+          "Drug Resistance, Microbial",
+          "Endometritis",
+          "Female",
+          "Humans",
+          "Incidence",
+          "Laparoscopy",
+          "Patient Admission"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1391639/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:22:43.030058",
+  "success": true,
+  "error_message": null
+}

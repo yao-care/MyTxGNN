@@ -1,0 +1,256 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Zinc Oxide",
+    "disease": "cutaneous candidiasis",
+    "query_string": "Zinc Oxide AND cutaneous candidiasis"
+  },
+  "data": {
+    "query": "Zinc Oxide AND cutaneous candidiasis",
+    "results": [
+      {
+        "pmid": "38844611",
+        "title": "Naringenin-Zinc Oxide Nanocomposites Amalgamated Polymeric Gel Augmented Drug Delivery and Attenuated Experimental Cutaneous Candidiasis in Balb/c Mice: In Vitro and In Vivo Studies.",
+        "abstract": "Naringenin (NRG) inhibits the fungal 17β-hydroxysteroid dehydrogenase accountable for ergosterol synthesis in Candida albicans (C. albicans), a causative agent for cutaneous candidiasis. In present research, NRG was complexed with ZnO nanomaterial (NRG-Zn2+) to synthesize NRG-Zn2+ nanocomposites. The particle size and ζ-potential of NRG-Zn2+ nanocomposites were respectively estimated to be 180.33 ± 1.22-nm and - 3.92 ± 0.35-mV. In silico data predicted the greater affinity of NRG-Zn2+ nanocomposite for 14α-demethylase and ceramide in comparison to NRG alone. Later, NRG-Zn2+ nanocomposites solution was transformed in to naringenin-zinc oxide nanocomposites loaded chitosan gel (NRG-Zn-CS-Gel) with viscosity and firmness of 854806.7 ± 52386.43 cP and 698.27 ± 10.35 g, respectively. The ex-vivo skin permeation demonstrated 70.49 ± 5.22% skin retention, significantly greater (P < 0.05) than 44.48 ± 3.06% of naringenin loaded chitosan gel (NRG-CS-Gel) and 31.24 ± 3.28% of naringenin solution",
+        "journal": "AAPS PharmSciTech",
+        "year": "2024",
+        "authors": [
+          "Katta Chanti Babu",
+          "Bahuguna Deepankar",
+          "Veerabomma Harithasree",
+          "Gollapalli Spandana",
+          "Shaikh Arbaz Sujat"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Flavanones",
+          "Mice",
+          "Mice, Inbred BALB C",
+          "Candida albicans",
+          "Chitosan",
+          "Nanocomposites",
+          "Antifungal Agents",
+          "Zinc Oxide",
+          "Gels"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38844611/"
+      },
+      {
+        "pmid": "32920952",
+        "title": "Comparison of antifungal and cytotoxicity activities of titanium dioxide and zinc oxide nanoparticles with amphotericin B against different Candida species: In vitro evaluation.",
+        "abstract": "Candida species are known to cause serious fungal infections that produce cutaneous, mucosal, and systemic infections. Nowadays, mortality and morbidity candidiasis in immunocompromised patients have increased. Nanotechnology is a new world-known technology and includes particles ranging from about 1 to 100 nanometers. The purpose of this study was to evaluate the antifungal and cytotoxicity activities of titanium dioxide nanoparticles (TiO2-NPs) and zinc oxide nanoparticles (ZnO-NPs) compared to amphotericin B (AmB) on different Candida spp in in vitro conditions.",
+        "journal": "Journal of clinical laboratory analysis",
+        "year": "2021",
+        "authors": [
+          "Ahmadpour Kermani Shima",
+          "Salari Samira",
+          "Ghasemi Nejad Almani Pooya"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Animals",
+          "Antifungal Agents",
+          "Candida",
+          "Cell Line",
+          "Cell Survival",
+          "Metal Nanoparticles",
+          "Mice",
+          "Microbial Sensitivity Tests",
+          "Tetrazolium Salts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32920952/"
+      },
+      {
+        "pmid": "2608092",
+        "title": "Treatment of cutaneous candidosis in guinea pigs: effect of zinc oxide on the antifungal efficacy of nystatin.",
+        "abstract": "This article describes the in vivo evaluation of a new topical preparation (Zincostatin) indicated for Candida albicans infected diaper rash. In order to study the influence of the 20% zinc oxide (W/W) (a protectant) on the anti-candidal efficacy of the 100,000 U/g of nystatin found in the ointment, groups of guinea pigs received different treatments with or without local occlusion. Zinc oxide, nystatin, or the combination of both were applied, in the ointment base, on the backs of the animals inoculated with a fresh strain of Candida albicans. Macroscopic and microbiological evaluation of the skin lesions were assessed at regular intervals during 21 days. While the two treatments containing nystatin were more effective than zinc oxide alone, the latter agent did not decrease the efficacy of the antifungal drug in combination therapy. Also, zinc oxide seemed to afford some protection against local maceration induced by occlusion, which increased the severity of the infection.",
+        "journal": "Mycoses",
+        "year": "1989",
+        "authors": [
+          "Auger P",
+          "Colin P",
+          "Joly J",
+          "Poirier S",
+          "Colin D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Candidiasis, Cutaneous",
+          "Colony Count, Microbial",
+          "Drug Therapy, Combination",
+          "Guinea Pigs",
+          "Humans",
+          "Male",
+          "Nystatin",
+          "Zinc",
+          "Zinc Oxide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2608092/"
+      },
+      {
+        "pmid": "23675632",
+        "title": "A prospective two-year assessment of miconazole resistance in Candida spp. With repeated treatment with 0.25% miconazole nitrate ointment in neonates and infants with moderate to severe diaper dermatitis complicated by cutaneous candidiasis.",
+        "abstract": "A petrolatum and zinc oxide-based ointment containing 0.25% miconazole nitrate is reported to be effective and well tolerated in the treatment of diaper dermatitis complicated by cutaneous candidiasis (DDCC). This prospective, multicenter, open-label, long-term, phase IV study investigated the potential resistance of Candida spp. to repeated topical use of 0.25% miconazole nitrate in infants age 15 months and younger with moderate to severe DDCC. For initial and recurring episodes of DDCC over the 2-year study period, subjects were treated with a 7-day course of 0.25% miconazole nitrate ointment (active components: miconazole nitrate 0.25%, zinc oxide 15%, and white petrolatum 81.35%) with a 7-day follow-up. Clinical and mycologic evaluations were conducted before treatment (day 0) and 7 days after treatment (day 14). Potential resistance to miconazole was defined using an arbitrary breakpoint of minimum inhibitory concentration of 2 μg/mL. There was no evidence of resistance to micona",
+        "journal": "Pediatric dermatology",
+        "year": "2013",
+        "authors": [
+          "Blanco Daisy",
+          "van Rossem Koen"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase IV",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candidiasis",
+          "Dermatitis",
+          "Dermatologic Agents",
+          "Diaper Rash",
+          "Drug Resistance, Fungal",
+          "Female",
+          "Humans",
+          "Infant",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23675632/"
+      },
+      {
+        "pmid": "22193141",
+        "title": "Incontinence-associated dermatitis: a comprehensive review and update.",
+        "abstract": "In 2009, a multinational group of clinicians was charged with reviewing and evaluating the research base pertaining to incontinence-associated dermatitis (IAD) and synthesizing this knowledge into best practice recommendations based on existing evidence. This is the first of 2 articles focusing on IAD; it updates current research and identifies persistent gaps in our knowledge. Our literature review revealed a small but growing body of evidence that provides additional insight into the epidemiology, etiology, and pathophysiology of IAD when compared to the review generated by the first IAD consensus group convened 5 years earlier. We identified research supporting the use of a defined skin care regimen based on principles of gentle perineal cleansing, moisturization, and application of a skin protectant. Clinical experience also supports application of an antifungal powder, ointment, or cream in patients with evidence of cutaneous candidiasis, aggressive containment of urinary or fecal",
+        "journal": "Journal of wound, ostomy, and continence nursing : official publication of The Wound, Ostomy and Continence Nurses Society",
+        "year": "2012",
+        "authors": [
+          "Gray Mikel",
+          "Beeckman Dimitri",
+          "Bliss Donna Z",
+          "Fader Mandy",
+          "Logan Susan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Clinical Nursing Research",
+          "Consensus Statements as Topic",
+          "Dermatitis",
+          "Fecal Incontinence",
+          "Humans",
+          "Perineum",
+          "Prevalence",
+          "Skin Care",
+          "Terminology as Topic",
+          "Urinary Incontinence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22193141/"
+      },
+      {
+        "pmid": "20131923",
+        "title": "Optimal management of incontinence-associated dermatitis in the elderly.",
+        "abstract": "Incontinence-associated dermatitis (IAD), sometimes referred to as perineal dermatitis, is an inflammation of the skin associated with exposure to urine or stool. Elderly adults, and especially those in long-term care facilities, are at risk for urinary or fecal incontinence and IAD. Traditionally, IAD has received little attention as a distinct disorder, and it is sometimes confused with stage I or II pressure ulcers. However, a modest but growing body of research is beginning to provide insights into the epidemiology, etiology, and pathophysiology of IAD. In addition, recent changes in reimbursement policies from the US Center for Medicare and Medicaid Services regarding pressure ulcer prevention has focused attention on the differential diagnosis of IAD versus pressure ulcer, and its influence on pressure ulcer risk. Color, location, depth, and the presence or absence of necrotic tissue are visual indicators used to differentiate IAD from pressure-related skin damage. Prevention is ",
+        "journal": "American journal of clinical dermatology",
+        "year": "2010",
+        "authors": [
+          "Gray Mikel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Aged",
+          "Candidiasis",
+          "Dermatitis",
+          "Dermatologic Agents",
+          "Fecal Incontinence",
+          "Humans",
+          "Immobilization",
+          "Perineum",
+          "Skin Care"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20131923/"
+      },
+      {
+        "pmid": "38749415",
+        "title": "Advancements in nanoparticle-based therapies for multidrug-resistant candidiasis infections: a comprehensive review.",
+        "abstract": "Candida auris, a rapidly emerging multidrug-resistant fungal pathogen, poses a global health threat, with cases reported in over 47 countries. Conventional detection methods struggle, and the increasing resistance ofC. auristo antifungal agents has limited treatment options. Nanoparticle-based therapies, utilizing materials like silver, carbon, zinc oxide, titanium dioxide, polymer, and gold, show promise in effectively treating cutaneous candidiasis. This review explores recent advancements in nanoparticle-based therapies, emphasizing their potential to revolutionize antifungal therapy, particularly in combatingC. aurisinfections. The discussion delves into mechanisms of action, combinations of nanomaterials, and their application against multidrug-resistant fungal pathogens, offering exciting prospects for improved clinical outcomes and reduced mortality rates. The aim is to inspire further research, ushering in a new era in the fight against multidrug-resistant fungal infections, pa",
+        "journal": "Nanotechnology",
+        "year": "2024",
+        "authors": [
+          "Izadi Alireza",
+          "Paknia Fatemeh",
+          "Roostaee Maryam",
+          "Mousavi Seyed Amin Ayatollahi",
+          "Barani Mahmood"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Nanoparticles",
+          "Drug Resistance, Multiple, Fungal",
+          "Candida auris",
+          "Animals",
+          "Metal Nanoparticles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38749415/"
+      },
+      {
+        "pmid": "16570675",
+        "title": "Topical miconazole nitrate ointment in the treatment of diaper dermatitis complicated by candidiasis.",
+        "abstract": "Diaper dermatitis (DD) complicated by candidiasis is a common problem in diaper-wearing infants and children. We report a double-blind, vehicle-controlled, parallel-group study evaluating the efficacy and safety of a low concentration of miconazole nitrate in a zinc oxide/petrolatum ointment for the treatment of DD complicated by candidiasis. Patients (N=330) who had DD with a severity score of 3 or higher were enrolled. Those patients with a baseline potassium hydroxide (KOH) preparation and a baseline culture specimen that both tested positive for Candida were retained for efficacy analysis (n=236). Miconazole nitrate 0.25% ointment or a zinc oxide/petrolatum vehicle control were applied to all clinically affected areas of patients with DD for 7 days at each diaper change and after bathing. A follow-up test-of-cure visit was conducted at day 14. Among the patients completing the study, the overall rate of cure (clinical cure plus microbiologic cure) was 23% for the miconazole nitrate",
+        "journal": "Cutis",
+        "year": "2006",
+        "authors": [
+          "Spraker Mary K",
+          "Gisoldi Elvira M",
+          "Siegfried Elaine C",
+          "Fling John A",
+          "de Espinosa Zila D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Antifungal Agents",
+          "Candidiasis, Cutaneous",
+          "Child, Preschool",
+          "Dermatologic Agents",
+          "Diaper Rash",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16570675/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:34:51.254415",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,533 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Salicylic Acid",
+    "disease": "acne",
+    "query_string": "Salicylic Acid AND acne"
+  },
+  "data": {
+    "query": "Salicylic Acid AND acne",
+    "results": [
+      {
+        "pmid": "32356369",
+        "title": "Topical azelaic acid, salicylic acid, nicotinamide, sulphur, zinc and fruit acid (alpha-hydroxy acid) for acne.",
+        "abstract": "Acne is an inflammatory disorder with a high global burden. It is common in adolescents and primarily affects sebaceous gland-rich areas. The clinical benefit of the topical acne treatments azelaic acid, salicylic acid, nicotinamide, sulphur, zinc, and alpha-hydroxy acid is unclear.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2020",
+        "authors": [
+          "Liu Haibo",
+          "Yu Haiyan",
+          "Xia Jun",
+          "Liu Ling",
+          "Liu Guan J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Adapalene",
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Benzoyl Peroxide",
+          "Bias",
+          "Child",
+          "Clindamycin",
+          "Dermatologic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32356369/"
+      },
+      {
+        "pmid": "38300170",
+        "title": "Guidelines of care for the management of acne vulgaris.",
+        "abstract": "Acne vulgaris commonly affects adults, adolescents, and preadolescents aged 9 years or older.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2024",
+        "authors": [
+          "Reynolds Rachel V",
+          "Yeung Howa",
+          "Cheng Carol E",
+          "Cook-Bolden Fran",
+          "Desai Seemal R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acne Vulgaris",
+          "Administration, Cutaneous",
+          "Administration, Oral",
+          "Adrenal Cortex Hormones",
+          "Anti-Bacterial Agents",
+          "Benzoyl Peroxide",
+          "Contraceptives, Oral, Combined",
+          "Cortodoxone",
+          "Dermatologic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38300170/"
+      },
+      {
+        "pmid": "35789996",
+        "title": "A systematic review and network meta-analysis of topical pharmacological, oral pharmacological, physical and combined treatments for acne vulgaris.",
+        "abstract": "Various treatments for acne vulgaris exist, but little is known about their comparative effectiveness in relation to acne severity.",
+        "journal": "The British journal of dermatology",
+        "year": "2022",
+        "authors": [
+          "Mavranezouli Ifigeneia",
+          "Daly Caitlin H",
+          "Welton Nicky J",
+          "Deshpande Shalmali",
+          "Berg Laura"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Isotretinoin",
+          "Acne Vulgaris",
+          "Anti-Bacterial Agents",
+          "Tetracycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35789996/"
+      },
+      {
+        "pmid": "34812859",
+        "title": "Management of Acne Vulgaris: A Review.",
+        "abstract": "Acne vulgaris is an inflammatory disease of the pilosebaceous unit of the skin that primarily involves the face and trunk and affects approximately 9% of the population worldwide (approximately 85% of individuals aged 12-24 years, and approximately 50% of patients aged 20-29 years). Acne vulgaris can cause permanent physical scarring, negatively affect quality of life and self-image, and has been associated with increased rates of anxiety, depression, and suicidal ideation.",
+        "journal": "JAMA",
+        "year": "2021",
+        "authors": [
+          "Eichenfield Dawn Z",
+          "Sprague Jessica",
+          "Eichenfield Lawrence F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Administration, Cutaneous",
+          "Administration, Oral",
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Benzoyl Peroxide",
+          "Child",
+          "Contraceptives, Oral, Combined",
+          "Dermatologic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34812859/"
+      },
+      {
+        "pmid": "30972839",
+        "title": "Salicylic acid treats acne vulgaris by suppressing AMPK/SREBP1 pathway in sebocytes.",
+        "abstract": "Acne vulgaris is a prevalent cutaneous disease characterized by a multifactorial pathogenic process including hyperseborrhea, inflammation, over-keratinization of follicular keratinocytes and Propionibacterium acnes (P acnes) overgrowth. Salicylic acid (SA), a beta-hydroxy acid, is frequently used in the treatment of acne. SA has been found to decrease skin lipids and to possess anti-inflammatory properties. However, few studies have elucidated the mechanisms and pathways involved in such treatment of acne. In this study, we initially investigated the anti-acne properties of SA in human SEB-1 sebocytes. Treatment with SA decreased sebocyte lipogenesis by downregulating the adenosine monophosphate-activated protein kinase (AMPK)/sterol response element-binding protein-1 (SREBP-1) pathway and reduced inflammation by suppressing the NF-κB pathway in these cells. Salicylic acid also decreased the cell viability of SEB-1 by increasing apoptosis via the death signal receptor pathway. Subsequ",
+        "journal": "Experimental dermatology",
+        "year": "2019",
+        "authors": [
+          "Lu Jin",
+          "Cong Tianxin",
+          "Wen Xiang",
+          "Li Xiaoxue",
+          "Du Dan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "AMP-Activated Protein Kinases",
+          "Acne Vulgaris",
+          "Apoptosis",
+          "Cell Line",
+          "Computational Biology",
+          "Down-Regulation",
+          "Humans",
+          "Keratinocytes",
+          "Lipid Metabolism",
+          "Propionibacterium acnes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30972839/"
+      },
+      {
+        "pmid": "40682377",
+        "title": "Clinical Efficacy of a Salicylic Acid-Containing Gel on Acne Management and Skin Barrier Function: A 21-Day Prospective Study.",
+        "abstract": "Acne vulgaris is a common skin condition characterized by excessive sebum production, inflammation, and compromised skin barrier function. Effective treatments should target both lesion reduction and skin hydration while maintaining tolerability.",
+        "journal": "Journal of cosmetic dermatology",
+        "year": "2025",
+        "authors": [
+          "Liu Ye",
+          "Dan Yanjun",
+          "Yang Jiahong",
+          "He Xiaofeng",
+          "Liu Jingjing"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acne Vulgaris",
+          "Female",
+          "Salicylic Acid",
+          "Male",
+          "Adult",
+          "Sebum",
+          "Prospective Studies",
+          "Gels",
+          "Young Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40682377/"
+      },
+      {
+        "pmid": "26347269",
+        "title": "Salicylic acid as a peeling agent: a comprehensive review.",
+        "abstract": "Salicylic acid has been used to treat various skin disorders for more than 2,000 years. The ability of salicylic acid to exfoliate the stratum corneum makes it a good agent for peeling. In particular, the comedolytic property of salicylic acid makes it a useful peeling agent for patients with acne. Once considered as a keratolytic agent, the role of salicylic acid as a desmolytic agent, because of its ability to disrupt cellular junctions rather than breaking or lysing intercellular keratin filaments, is now recognized and is discussed here. Salicylic acid as a peeling agent has a number of indications, including acne vulgaris, melasma, photodamage, freckles, and lentigines. The efficacy and safety of salicylic acid peeling in Fitzpatrick skin types I-III as well as in skin types V and VI have been well documented in the literature. This paper reviews the available data and literature on salicylic acid as a peeling agent and its possible indications. Its properties, efficacy and safety",
+        "journal": "Clinical, cosmetic and investigational dermatology",
+        "year": "2015",
+        "authors": [
+          "Arif Tasleem"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26347269/"
+      },
+      {
+        "pmid": "28274356",
+        "title": "Chemical peels in active acne and acne scars.",
+        "abstract": "Chemical peeling is a widely used procedure in the management of acne and acne scars. It causes controlled destruction of a part of or the entire epidermis, with or without the dermis, leading to exfoliation and removal of superficial lesions, followed by regeneration of new epidermal and dermal tissues. The most frequently used peeling agents are salicylic acid, glycolic acid, pyruvic acid, lactic acid, mandelic acid, Jessner solution, trichloroacetic acid, and phenol. The appropriate peel is chosen based on the patient's skin type, acne activity, and type of acne scars. Combination peels minimize side effects. In acne scars, chemical peels may be combined with other procedures to achieve better clinical results. A series of chemical peels can lead to significant improvement over a short period, leading to patient satisfaction and maintenance of clinical results. © 2016 Elsevier Inc. All rights reserved.",
+        "journal": "Clinics in dermatology",
+        "year": "2017",
+        "authors": [
+          "Kontochristopoulos Georgios",
+          "Platsidaki Eftychia"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Chemexfoliation",
+          "Cicatrix",
+          "Humans",
+          "Keratolytic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28274356/"
+      },
+      {
+        "pmid": "38453786",
+        "title": "Management of Acne in Pregnancy.",
+        "abstract": "Acne is one of the most common dermatological conditions to affect women of childbearing age, so it is important to consider the safety of long-term acne treatments on women who could become pregnant. In this review article, we clarify what management options are available to treat acne during pregnancy. Topical treatments, typically first-line for acne, such as azelaic acid, clindamycin, erythromycin, metronidazole, benzoyl peroxide, salicylic acid, dapsone, and retinoids, were reviewed. Systemic treatments, such as zinc supplements, cephalexin, cefadroxil, amoxicillin, azithromycin, erythromycin, and corticosteroids, typically second-line for acne, were also reviewed. Alternative treatments such as light therapy and cosmetic procedures were also evaluated. Due to recommendation of sunscreen utilization during acne treatments, sunscreen usage during pregnancy was also assessed. Management of acne during unplanned pregnancy was discussed in further detail regarding safety and adverse e",
+        "journal": "American journal of clinical dermatology",
+        "year": "2024",
+        "authors": [
+          "Rau Akash",
+          "Keri Jonette",
+          "Murase Jenny E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acne Vulgaris",
+          "Pregnancy",
+          "Female",
+          "Dermatologic Agents",
+          "Pregnancy Complications",
+          "Anti-Bacterial Agents",
+          "Sunscreening Agents",
+          "Pregnancy, Unplanned",
+          "Phototherapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38453786/"
+      },
+      {
+        "pmid": "37338719",
+        "title": "The Role and Benefits of Dermocosmetics in Acne Management in Japan.",
+        "abstract": "In Japan, as in other countries around the world, acne vulgaris is a common disease and a frequent reason for patients to consult dermatologists. For optimal management of acne, it is important to understand how available products to support skin health can be used both with and without prescription products. Dermocosmetics can be defined as skincare agents with dermatologically active ingredients that directly support or care for the symptoms of various skin conditions (distinct from vehicle effects). There are products with active ingredients-including familiar ones such as niacinamide, retinol derivatives, and salicylic acid-that target important aspects of acne pathophysiology. Others, including ceramides, glyercin, thermal spring water, and panthenols, may have positive effects on skin barrier function that are useful in managing acne. This publication will discuss the roles of dermocosmetics in acne either as monotherapy to manage the milder forms of acne and help prevent relapse",
+        "journal": "Dermatology and therapy",
+        "year": "2023",
+        "authors": [
+          "Kurokawa Ichiro",
+          "Kobayashi Miwa",
+          "Nomura Yuko",
+          "Abe Masatoshi",
+          "Kerob Delphine"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37338719/"
+      },
+      {
+        "pmid": "30550830",
+        "title": "Basic chemical peeling: Superficial and medium-depth peels.",
+        "abstract": "Chemical peeling, or chemexfoliation, has been used for centuries to improve signs of ultraviolet light-induced sun damage. Over the last 30 years, the science behind chemical peeling has evolved, increasing our understanding of the role of peeling ingredients and treatment indications. The depth of peels is directly related to improved results and to the number of complications that can occur. Key principles for superficial and medium depth peeling are discussed, as well as appropriate indications for these treatments.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2019",
+        "authors": [
+          "Lee Kachiu C",
+          "Wambier Carlos G",
+          "Soon Seaver L",
+          "Sterling J Barton",
+          "Landau Marina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Caustics",
+          "Chemexfoliation",
+          "Drug Combinations",
+          "Ethanol",
+          "Glycolates",
+          "Humans",
+          "Keratolytic Agents",
+          "Lactic Acid",
+          "Phenol",
+          "Resorcinols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30550830/"
+      },
+      {
+        "pmid": "40233838",
+        "title": "Skincare ingredients recommended by cosmetic dermatologists: A Delphi consensus study.",
+        "abstract": "There is ambiguity regarding the topical cosmetic ingredients preferred for common skin complaints.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2025",
+        "authors": [
+          "Alvarez Gabriella V",
+          "Kang Bianca Y",
+          "Richmond Alexandra M",
+          "Hoss Elika",
+          "Sulewski Ronald"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Delphi Technique",
+          "Cosmetics",
+          "Skin Care",
+          "Acne Vulgaris",
+          "Consensus",
+          "Dermatologists",
+          "Skin Aging",
+          "Dermatologic Agents",
+          "Glycolates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40233838/"
+      },
+      {
+        "pmid": "40027344",
+        "title": "Betaine-salicylic acid cocrystal for enhanced skincare and acne treatment.",
+        "abstract": "Salicylic acid (SA) is a natural lipophilic active ingredient commonly used in cosmetics and skin disease treatments, offering benefits such as exfoliation, anti-inflammation effects, antibacterial properties, oil control, and acne alleviation. However, its poor water solubility, low bioavailability, and potential side effects, such as allergies, irritation, and dryness, hinder its widespread application. In this study, we prepared a betaine-salicylic acid (BeSA) cocrystal and systematically characterized its crystal structure, biological activity, and clinical efficacy. The results showed that BeSA has significantly lower irritancy and cytotoxicity than SA, but exhibits excellent anti-inflammatory and antioxidant properties as well as high moisturizing and anti-acne efficacy, making it a potential alternative to SA. Further, quantum chemical calculations and molecular docking simulations were conducted to investigate the intrinsic mechanisms underlying the excellent bioactivity of BeS",
+        "journal": "RSC medicinal chemistry",
+        "year": "2025",
+        "authors": [
+          "Wang Zhenyuan",
+          "Wang Mi",
+          "Tao Qingsheng",
+          "Li Yufei",
+          "Wang Hao"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40027344/"
+      },
+      {
+        "pmid": "28538881",
+        "title": "Efficacy and safety of superficial chemical peeling in treatment of active acne vulgaris.",
+        "abstract": "Acne vulgaris is an extremely common condition affecting the pilosebaceous unit of the skin and characterized by presence of comedones, papules, pustules, nodules, cysts, which might result in permanent scars. Acne vulgaris commonly involve adolescents and young age groups. Active acne vulgaris is usually associated with several complications like hyper or hypopigmentation, scar formation and skin disfigurement. Previous studies have targeted the efficiency and safety of local and systemic agents in the treatment of active acne vulgaris. Superficial chemical peeling is a skin-wounding procedure which might cause some potentially undesirable adverse events. This study was conducted to review the efficacy and safety of superficial chemical peeling in the treatment of active acne vulgaris. It is a structured review of an earlier seven articles meeting the inclusion and exclusion criteria. The clinical assessments were based on pretreatment and post-treatment comparisons and the role of su",
+        "journal": "Anais brasileiros de dermatologia",
+        "year": "2017",
+        "authors": [
+          "Al-Talib Hassanain",
+          "Al-Khateeb Alyaa",
+          "Hameed Ayad",
+          "Murugaiah Chandrika"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Chemexfoliation",
+          "Erythema",
+          "Glycolates",
+          "Humans",
+          "Keratolytic Agents",
+          "Salicylates",
+          "Salicylic Acid",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28538881/"
+      },
+      {
+        "pmid": "33034949",
+        "title": "Evidence-based topical treatments (azelaic acid, salicylic acid, nicotinamide, sulfur, zinc, and fruit acid) for acne: an abridged version of a Cochrane systematic review.",
+        "abstract": "The effects of topical azelaic acid, salicylic acid, nicotinamide, sulfur, zinc, and fruit acid (alpha-hydroxy acid) for acne are unclear. We aimed to assess the effects of these topical treatments by collecting randomized controlled trials.",
+        "journal": "Journal of evidence-based medicine",
+        "year": "2020",
+        "authors": [
+          "Liu Haibo",
+          "Yu Haiyan",
+          "Xia Jun",
+          "Liu Ling",
+          "Liu Guanjian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Administration, Cutaneous",
+          "Dermatologic Agents",
+          "Dicarboxylic Acids",
+          "Fruit",
+          "Glycolates",
+          "Humans",
+          "Niacinamide",
+          "Salicylic Acid",
+          "Sulfur"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33034949/"
+      },
+      {
+        "pmid": "35073439",
+        "title": "30% supramolecular salicylic acid peels effectively treats acne vulgaris and reduces facial sebum.",
+        "abstract": "Acne is a chronic inflammatory skin disease with high incidence and recurrence.",
+        "journal": "Journal of cosmetic dermatology",
+        "year": "2022",
+        "authors": [
+          "Zhang Lingzhao",
+          "Shao Xinyi",
+          "Chen Yangmei",
+          "Wang Jiawei",
+          "Ariyawati Asoka"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Chemexfoliation",
+          "Cyclooxygenase 2",
+          "Humans",
+          "Salicylic Acid",
+          "Sebum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35073439/"
+      },
+      {
+        "pmid": "39420562",
+        "title": "An update on the pharmacological management of acne vulgaris: the state of the art.",
+        "abstract": "Acne vulgaris is a chronic inflammatory disease of the pilosebaceous unit that affects approximately 9.4% of the global population. Current treatment strategies aim to target as many pathogenic factors involved in the appearance of acne lesions and are centered on a systematic treatment escalation based on disease severity, extension, and treatment response, starting with topical treatments for mild cases and progressing over to systemic therapies in more severe cases. A literature search, which included clinical guidelines, clinical studies, and review articles on acne treatment and maintenance, was conducted to review the pharmacological approaches currently available to treat this disease.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2024",
+        "authors": [
+          "Valente Duarte de Sousa Isabel Cristina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Humans",
+          "Dermatologic Agents",
+          "Anti-Bacterial Agents",
+          "Severity of Illness Index",
+          "Administration, Cutaneous",
+          "Animals",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39420562/"
+      },
+      {
+        "pmid": "40730431",
+        "title": "Update to acne vulgaris treatment for Canadian practice.",
+        "abstract": "To provide updates and apply the new 2024 American Academy of Dermatology (AAD) guidelines of care for the management of acne vulgaris (AV) to Canadian practice and summarize current evidence-based practices, treatments, and emerging trends in acne management.",
+        "journal": "Canadian family physician Medecin de famille canadien",
+        "year": "2025",
+        "authors": [
+          "Keow Samantha",
+          "Xiong Grace",
+          "Abu-Hilal Mohannad"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acne Vulgaris",
+          "Canada",
+          "Dermatologic Agents",
+          "Anti-Bacterial Agents",
+          "Practice Guidelines as Topic",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40730431/"
+      },
+      {
+        "pmid": "35791845",
+        "title": "Combination treatment with 30% salicylic acid and fractional CO2 laser for acne scars: A 20-week prospective, randomized, split-face study.",
+        "abstract": "Multiple approaches are used to treat acne scars, but some are expensive, ineffective, and cause complications. We aimed to evaluate the efficacy and safety of ultra-pulsed CO2 fractional laser combined with 30% supramolecular salicylic acid in the treatment of acne scars in a prospective split-face control study. Twenty patients with facial symmetrical acne scars were enrolled. One side of face was randomly treated with 30% supramolecular salicylic acid, and two sides were treated with ultra-pulsed CO2 fractional laser. The Echelle d'evaluation clinique des cicatrices d'acne (ECCA) scale was used to evaluate the clinical efficacy before and 3 months after treatment, and a quartile scale was used to self-evaluate the improvement of patients. A visual analog scale was used to record pain scores after each treatment, and side effects and other adverse reactions on the face were recorded. All the patients completed treatment and follow-up. There was statistical difference in ECCA scores o",
+        "journal": "Dermatologic therapy",
+        "year": "2022",
+        "authors": [
+          "Zhang Yu Jie",
+          "Chen Yang Mei",
+          "Shao Xin Yi",
+          "Liu Lin",
+          "Pu Yi Huan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Carbon Dioxide",
+          "Cicatrix",
+          "Humans",
+          "Lasers, Gas",
+          "Pain",
+          "Prospective Studies",
+          "Salicylic Acid",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35791845/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:28:58.780395",
+  "success": true,
+  "error_message": null
+}

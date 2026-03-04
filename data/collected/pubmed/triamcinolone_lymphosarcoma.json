@@ -1,0 +1,588 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Triamcinolone",
+    "disease": "lymphosarcoma",
+    "query_string": "Triamcinolone AND lymphosarcoma"
+  },
+  "data": {
+    "query": "Triamcinolone AND lymphosarcoma",
+    "results": [
+      {
+        "pmid": "40445595",
+        "title": "How to treat primary cutaneous B cell lymphoma - Results from a monocentric cohort study on 98 patients.",
+        "abstract": "Primary cutaneous B cell lymphomas (CBCL) are chronic diseases with frequent relapses. Time to next treatment (TTNT) is an endpoint reflecting clinical benefit of treatments including patient perspectives. The objectives were to evaluate clinical characteristics, survival, prognosis and TTNT in CBCL.",
+        "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+        "year": "2025",
+        "authors": [
+          "Cankaya Rohat",
+          "Kleiner Pit Leonard",
+          "Hilke Franz Joachim",
+          "Moritz Rose",
+          "Eigentler Thomas"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Skin Neoplasms",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Aged",
+          "Aged, 80 and over",
+          "Adult",
+          "Cohort Studies",
+          "Lymphoma, Large B-Cell, Diffuse"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40445595/"
+      },
+      {
+        "pmid": "4359883",
+        "title": "Glucocorticoid receptors and mechanism of resistance in the cortisol-sensitive and -resistant lines of lymphosarcoma P1798.",
+        "abstract": "",
+        "journal": "Cancer research",
+        "year": "1974",
+        "authors": [
+          "Kaiser N",
+          "Milholland R J",
+          "Rosen F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Binding Sites",
+          "Cells, Cultured",
+          "Centrifugation, Density Gradient",
+          "Drug Resistance",
+          "Glucocorticoids",
+          "Hydrocortisone",
+          "Hydroxycorticosteroids",
+          "Lymphoma, Non-Hodgkin",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4359883/"
+      },
+      {
+        "pmid": "31667886",
+        "title": "Complete resolution of primary cutaneous marginal zone B-cell lymphoma on the cheek of a 7-year-old boy with intralesional triamcinolone and tincture of time.",
+        "abstract": "A 7-year-old healthy boy presented with an asymptomatic smooth, firm red plaque on the cheek. Histopathology, immunostaining, molecular testing and imaging confirmed a diagnosis of a primary cutaneous marginal zone B-cell lymphoma. The lesion was treated with intralesional triamcinolone, with complete clinical resolution achieved within one year. Intralesional steroid injection is an effective first-line modality for the treatment of patients with limited disease in cosmetically sensitive areas.",
+        "journal": "Pediatric dermatology",
+        "year": "2020",
+        "authors": [
+          "Skaljic Meliha",
+          "Cotton Colleen H",
+          "Reilly Anne F",
+          "Pillai Vinodh",
+          "Perman Marissa J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cheek",
+          "Child",
+          "Glucocorticoids",
+          "Humans",
+          "Injections, Intralesional",
+          "Lymphoma, B-Cell, Marginal Zone",
+          "Male",
+          "Remission Induction",
+          "Skin Neoplasms",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31667886/"
+      },
+      {
+        "pmid": "38091439",
+        "title": "Pediatric Primary Cutaneous Marginal Zone Lymphoma Treated With Doxycycline.",
+        "abstract": "Primary cutaneous marginal zone lymphoma (PCMZL) is a cutaneous B-cell lymphoma that rarely occurs in children. We present a 13-year-old boy with multiple asymptomatic erythematous papules and nodules on the trunk and arms that were confirmed on biopsy to be PCMZL. He was treated with doxycycline and intralesional triamcinolone with improvement of lesions. This case supports the use of doxycycline for the treatment of pediatric PCMZL in patients with widespread involvement despite negative Borrelia serology. Multiple low-risk treatment modalities may be used in conjunction to clear disease in pediatric patients.",
+        "journal": "Cutis",
+        "year": "2023",
+        "authors": [
+          "Chan Grace C",
+          "Kamath Sonia"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Humans",
+          "Male",
+          "Doxycycline",
+          "Lymphoma, B-Cell, Marginal Zone",
+          "Skin Neoplasms",
+          "Triamcinolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38091439/"
+      },
+      {
+        "pmid": "27546732",
+        "title": "CD8+ mycosis fungoides clinically masquerading as alopecia areata.",
+        "abstract": "A 33-year-old female with a 7-year history of CD8-positive hypopigmented mycosis fungoides (MF) involving the trunk and extremities presented with a large well-defined alopecic patch on her frontal scalp. Clinically, this area resembled alopecia areata (AA) and was without hypopigmentation or erythema. A scalp biopsy revealed a non-scarring inflammatory alopecia and a superficial band-like atypical lymphoid infiltrate with prominent epidermotropism. Atypical, predominately CD8-positive lymphocytes were seen surrounding and infiltrating the bulb portion of several hair follicles. Treatments for her MF lesions have included topical bexarotene, topical corticosteroids and phototherapy. Her alopecia has been treated with high potency topical corticosteroids and multiple intralesional triamcinolone injections with very minimal hair regrowth to date. Alopecia due to cutaneous lymphoma is an uncommon phenomenon but can occur in erythrodermic MF or Sezary syndrome. AA-like changes have most of",
+        "journal": "Journal of cutaneous pathology",
+        "year": "2016",
+        "authors": [
+          "Amin Sapna M",
+          "Tan Timothy",
+          "Guitart Joan",
+          "Colavincenzo Maria",
+          "Gerami Pedram"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alopecia Areata",
+          "CD8-Positive T-Lymphocytes",
+          "Female",
+          "Humans",
+          "Mycosis Fungoides",
+          "Neoplasm Recurrence, Local",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27546732/"
+      },
+      {
+        "pmid": "4571883",
+        "title": "Treatment of localized skin lesions with betamethasone 17-valerate and triamcinolone acetonide in alcoholic solution under occlusive dressing. A double blind comparative study.",
+        "abstract": "",
+        "journal": "Dermatologica",
+        "year": "1972",
+        "authors": [
+          "Neering H",
+          "van der Kroon H V",
+          "Roeleveld C G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "1-Propanol",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Betamethasone",
+          "Child",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Eczema",
+          "Ethanol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4571883/"
+      },
+      {
+        "pmid": "17057789",
+        "title": "Local corticosteroid treatment of eyelid and orbital xanthogranuloma.",
+        "abstract": "To demonstrate the efficacy of local corticosteroid therapy for the treatment of eyelid and orbital xanthogranuloma in adults.",
+        "journal": "Transactions of the American Ophthalmological Society",
+        "year": "2005",
+        "authors": [
+          "Elner Victor M",
+          "Mintz Roni",
+          "Demirci Hakan",
+          "Hassan Adam S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Eyelid Diseases",
+          "Female",
+          "Glucocorticoids",
+          "Granuloma",
+          "Humans",
+          "Injections, Intralesional",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17057789/"
+      },
+      {
+        "pmid": "9722724",
+        "title": "Topical corticosteroids for mycosis fungoides. Experience in 79 patients.",
+        "abstract": "To determine the effectiveness of topical corticosteroids in the management of mycosis fungoides.",
+        "journal": "Archives of dermatology",
+        "year": "1998",
+        "authors": [
+          "Zackheim H S",
+          "Kashani-Sabet M",
+          "Amin S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents",
+          "Antineoplastic Agents",
+          "Betamethasone",
+          "Betamethasone Valerate",
+          "Clobetasol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9722724/"
+      },
+      {
+        "pmid": "36714979",
+        "title": "Granulomatosis with polyangiitis-associated sclerokeratitis in a case of ocular adnexal B-cell lymphoma.",
+        "abstract": "We describe the first reported case of granulomatosis polyangiitis (GPA)-associated sclerokeratitis in a patient with treated ocular adnexal lymphoma (OAL). The patient presented with pain and decreased vision in the left eye over several weeks. Past medical history was significant for recent bilateral relapsing OAL that was treated successfully with radiotherapy. Examination of the eyes revealed sectoral scleritis and peripheral ulcerative keratitis. Magnetic resonance imaging (MRI) of the orbits excluded recurrence of OAL and serum antineutrophil cytoplasmic autoantibody (ANCA) titres confirmed the diagnosis of GPA. Disease was poorly responsive to systemic steroids, azathioprine and rituximab. Ultimately, resolution was achieved with successive subconjunctival dexamethasone and subconjunctival triamcinolone injections. This case highlights the need to consider ocular inflammation in patients with a history of malignant hemopathies.",
+        "journal": "Orbit (Amsterdam, Netherlands)",
+        "year": "2024",
+        "authors": [
+          "Valizadeh Ghazal",
+          "Manta Alexandra I",
+          "Conrad Diana",
+          "Schlect David",
+          "Sullivan Timothy J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Scleritis",
+          "Granulomatosis with Polyangiitis",
+          "Magnetic Resonance Imaging",
+          "Lymphoma, B-Cell",
+          "Keratitis",
+          "Glucocorticoids",
+          "Middle Aged",
+          "Female",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36714979/"
+      },
+      {
+        "pmid": "16418663",
+        "title": "Local corticosteroid treatment of eyelid and orbital xanthogranuloma.",
+        "abstract": "To demonstrate the efficacy of local corticosteroid therapy for the treatment of eyelid and orbital xanthogranuloma in adults.",
+        "journal": "Ophthalmic plastic and reconstructive surgery",
+        "year": "2006",
+        "authors": [
+          "Elner Victor M",
+          "Mintz Roni",
+          "Demirci Hakan",
+          "Hassan Adam S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Biopsy",
+          "Diagnosis, Differential",
+          "Eyelid Diseases",
+          "Female",
+          "Follow-Up Studies",
+          "Glucocorticoids",
+          "Granuloma",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16418663/"
+      },
+      {
+        "pmid": "5285754",
+        "title": "Stereospecific glucocorticoid binding to subcellular fractions of the sensitive and resistant lymphosarcoma P1798.",
+        "abstract": "",
+        "journal": "Nature: New biology",
+        "year": "1971",
+        "authors": [
+          "Kirkpatrick A F",
+          "Milholland R J",
+          "Rosen F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Binding Sites",
+          "Carbon Isotopes",
+          "Cell-Free System",
+          "Chromatography, Ion Exchange",
+          "Culture Techniques",
+          "DNA, Neoplasm",
+          "Female",
+          "Hexoses",
+          "Hydrocortisone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5285754/"
+      },
+      {
+        "pmid": "31543769",
+        "title": "Bilateral Ear Swelling and Erythema after Chemotherapy: A Case Report of Ara-C Ears.",
+        "abstract": "Cytarabine is an antimetabolite commonly used to treat hematological malignancies, especially acute myeloid leukemia (AML), acute lymphoblastic leukemia, and non-Hodgkin's lymphoma. Cytarabine-induced cutaneous adverse effects are common, usually manifesting as morbilliform eruptions predominantly on the acral site, intertriginous zone, and to a lesser extent on the elbows, knees, neck, and ears. The presentation on ears is usually called \"Ara-C ears,\" which is considered as a rare subtype of acral erythema. We report a 53-year-old Thai woman with AML who developed cytarabine-induced rashes. The lesions began on symmetrical bilateral ears, posterior auricular areas, and forehead followed by expansion to the trunk and extremities. The clinical presentations and histopathological findings were compatible with toxic erythema of chemotherapy. After giving cetirizine 10 mg orally twice daily and 0.1% triamcinolone acetonide cream twice daily, the lesions gradually improved over 10 days. Not",
+        "journal": "Case reports in dermatology",
+        "year": "2019",
+        "authors": [
+          "Jaruvijitrattana Pitchaya",
+          "Chanprapaph Kumutnart"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31543769/"
+      },
+      {
+        "pmid": "27440138",
+        "title": "Case report of subcutaneous panniculitis-like T-cell lymphoma complicated by eyelid swelling.",
+        "abstract": "Subcutaneous panniculitis-like T-cell lymphoma (SPTCL) is a rare, highly malignant, extranodal lymphoma that preferentially infiltrates into subcutaneous adipose tissue. No case of SPTCL with the earliest symptoms occurring in the eye region has been reported. We report a case of SPTCL complicated by eyelid swelling.",
+        "journal": "BMC ophthalmology",
+        "year": "2016",
+        "authors": [
+          "Hashimoto Ryuya",
+          "Uchiyama Michihiro",
+          "Maeno Takatoshi"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Edema",
+          "Eyelid Diseases",
+          "Humans",
+          "Lymphoma, T-Cell",
+          "Male",
+          "Orbital Diseases",
+          "Panniculitis",
+          "Young Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27440138/"
+      },
+      {
+        "pmid": "14988694",
+        "title": "Subcutaneous panniculitis-like T-cell lymphoma with vacuolar interface dermatitis resembling lupus erythematosus panniculitis.",
+        "abstract": "Lupus erythematosus (LE) panniculitis (LEP) is a form of chronic cutaneous LE most often characterized by erythematous subcutaneous nodules. The histopathology of LEP may be distinctive, allowing a diagnosis even in the absence of any other LE features. Lymphocytic infiltration of the panniculus is termed lymphocytic lobular panniculitis. This entity has been reported in both LEP and subcutaneous panniculitis-like T-cell lymphoma. We describe a 67-year-old woman who presented with multiple dermal and subcutaneous nodules on her legs and hips. Biopsy specimens of roughly 15 lesions were interpreted as being diagnostic of LEP, however, with each subsequent biopsy specimen more atypical cells were observed. The patient responded only to moderate doses of oral prednisone, and failed intralesional triamcinolone acetonide, oral immunosuppressive agents, oral antimalarial agents, and oral thalidomide. Three years after the onset of her disease, ulcerated plaques and nodules developed. At this",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2004",
+        "authors": [
+          "Cassis Tamella B",
+          "Fearneyhough Paul K",
+          "Callen Jeffrey P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Biopsy",
+          "Dermatitis",
+          "Diagnosis, Differential",
+          "Female",
+          "Humans",
+          "Lymphoma, T-Cell",
+          "Panniculitis",
+          "Panniculitis, Lupus Erythematosus",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14988694/"
+      },
+      {
+        "pmid": "20394622",
+        "title": "Intralesional corticosteroid therapy for primary cutaneous B-cell lymphoma.",
+        "abstract": "",
+        "journal": "The British journal of dermatology",
+        "year": "2010",
+        "authors": [
+          "Perry A",
+          "Vincent B J",
+          "Parker S R S"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "B-Lymphocytes",
+          "Female",
+          "Glucocorticoids",
+          "Humans",
+          "Injections, Intralesional",
+          "Lymphoma, B-Cell",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20394622/"
+      },
+      {
+        "pmid": "30063787",
+        "title": "Epidermolysis bullosa acquisita in association with mantle cell lymphoma.",
+        "abstract": "",
+        "journal": "Cutis",
+        "year": "2018",
+        "authors": [
+          "Shaffer Blake R",
+          "Schleicher Stephen M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Biopsy",
+          "Diagnosis, Differential",
+          "Epidermolysis Bullosa Acquisita",
+          "Glucocorticoids",
+          "Humans",
+          "Injections, Intralesional",
+          "Lymphoma, Mantle-Cell",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30063787/"
+      },
+      {
+        "pmid": "23578183",
+        "title": "Primary cutaneous marginal zone lymphoma associated with juxta-articular fibrotic nodules in a teenager.",
+        "abstract": "Primary cutaneous marginal zone lymphoma (PCMZL) has rarely been reported in teenagers and is occasionally associated with Borrelia burgdorferi infection. Juxta-articular fibrotic nodules represent a unique, localized fibrosing response to spirochete infections, namely Borreliosis. Herein, we report a 15-year-old healthy boy who presented with a 4-year history of progressive acquisition of asymptomatic, erythematous nodules, ≤ 3 cm, beginning with his right forearm (3), then right arm (1) and lastly his right inner thigh (1). Biopsy showed PCMZL in three of five samples, and inflamed, fibrotic nodules, near the elbow in two. The bottom heavy lymphomatous nodules consisted of mostly small CD20+ CD43+ lymphocytes, some with plasmacytoid features. Mature plasma cells were lambda light chain restricted by in situ hybridization. The juxta-articular fibrotic nodules were located in the deep dermis and subcutis, had peripheral plasma cell-rich infiltrates, and showed nodular sclerosis (morphe",
+        "journal": "Journal of cutaneous pathology",
+        "year": "2013",
+        "authors": [
+          "Ghatalia Pooja",
+          "Porter Joanne",
+          "Wroblewski Danielle",
+          "Carlson John Andrew"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Borrelia Infections",
+          "Borrelia burgdorferi",
+          "Doxycycline",
+          "Drug Substitution",
+          "Fibrosis",
+          "Glucocorticoids",
+          "Humans",
+          "In Situ Hybridization"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23578183/"
+      },
+      {
+        "pmid": "22323887",
+        "title": "Intraocular involvement of a nasal natural killer T-cell lymphoma: a case report.",
+        "abstract": "Herein, we report a case of nasal natural killer T-cell lymphoma (NKTL) with intraocular involvement. A 57-year-old woman was referred due to a three-day history of photophobia and diplopia in the left eye. One-month previously, she was diagnosed with nasal NKTL of the right nasal cavity. Ophthalmic examination revealed conjunctival injection and ptosis. The left pupil was fully dilated and non-reactive to light. Ocular motion was restricted on left-upper gaze. Five days later, anterior uveitis developed and persisted despite topical steroid treatment. An orbital magnetic resonance imaging was without specific findings, however, ophthalmoplegia, vitreous opacity, and an iris mass were observed. A diagnostic anterior chamber aspiration was performed. Aqueous humor aspiration revealed 35% morphologically atypical lymphocytes. After an intravitreal triamcinolone injection, radiotherapy and chemotherapy were administered; this resolved the uveitis and iris mass. When refractory uveitis or ",
+        "journal": "Korean journal of ophthalmology : KJO",
+        "year": "2012",
+        "authors": [
+          "Yoo Jae Ho",
+          "Kim Soo Young",
+          "Jung Kyu Bong",
+          "Lee Jung Joo",
+          "Lee Sang Joon"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Diagnosis, Differential",
+          "Eye Neoplasms",
+          "Fatal Outcome",
+          "Female",
+          "Humans",
+          "Lymphoma, T-Cell",
+          "Magnetic Resonance Imaging",
+          "Middle Aged",
+          "Natural Killer T-Cells",
+          "Nose Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22323887/"
+      },
+      {
+        "pmid": "8405814",
+        "title": "Use of receptor antibodies to demonstrate membrane glucocorticoid receptor in cells from human leukemic patients.",
+        "abstract": "Anti-peptide antibody to the human glucocorticoid receptor (GR) was produced and used to demonstrate that a subset of the GR population resides in the plasma membrane of human leukemic cells. Characterization of the antibody with intracellular GR (iGR) showed its ability to shift [3H]triamcinolone acetonide-labeled GR (4S protein) from two human leukemic cell lines to a higher density in sucrose gradients; Western and autoradiographic analysis of affinity-labeled ([3H]dexamethasone 21-mesylate) receptor revealed an immunoreactive and competitively labeled band of 94 kDa. CCRF-CEM cell membrane GR (mGR) resolved as a > 7S protein on density gradients and immunoselected cell surface protein labeled by whole cell biotinylation or affinity-labeling with [3H]dexamethasone 21-mesylate was approximately 145 kDa, demonstrating that mGR was larger in size than iGR, as has been shown previously for the mGR of mouse lymphoma cells. Analysis of mGR in lymphocytes of leukemic patients and the CCRF-",
+        "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+        "year": "1993",
+        "authors": [
+          "Gametchu B",
+          "Watson C S",
+          "Wu S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amino Acid Sequence",
+          "Antibodies",
+          "Autoradiography",
+          "Binding, Competitive",
+          "Blotting, Western",
+          "Burkitt Lymphoma",
+          "Cell Membrane",
+          "Centrifugation, Density Gradient",
+          "Flow Cytometry",
+          "Fluorescent Antibody Technique"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8405814/"
+      },
+      {
+        "pmid": "7451447",
+        "title": "Glucocorticoid receptor activation and inactivation in cultured human lymphocytes.",
+        "abstract": "Although glucocorticoids are not cytolytic for and do not inhibit the growth of the IM-9 line of cultured human lymphoblasts, these cells have a high steroid-binding capacity. We have used IM-9 cells in order to examine whether unoccupied glucocorticoid receptors are inactivated and activated in intact cells. when IM-9 cells are incubated in glucose-free medium in a nitrogen atmosphere, both their ability to bind triamcinolone acetonide and their ATP levels decline and, when glucose and oxygen are reintroduced, ATP levels and receptor activity return. The specific glucocorticoid-binding activity of cytosol prepared from cells exposed to various degrees of energy limitation is directly correlated with the ATP content. Receptor activation in intact cells is rapid and independent of protein synthesis. Cytosol prepared from inactivated cells cannot be activated by addition of ATP. The inactivation of glucocorticoid receptors that occurs when cytosol from normal IM-9 cells is incubated at 2",
+        "journal": "The Journal of biological chemistry",
+        "year": "1981",
+        "authors": [
+          "Wheeler R H",
+          "Leach K L",
+          "La Forest A C",
+          "O'Toole T E",
+          "Wagner R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adenosine Triphosphate",
+          "Burkitt Lymphoma",
+          "Cell Line",
+          "Cytosol",
+          "Dexamethasone",
+          "Glucose",
+          "Humans",
+          "Kinetics",
+          "Lymphocytes",
+          "Molybdenum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7451447/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:23:22.094869",
+  "success": true,
+  "error_message": null
+}

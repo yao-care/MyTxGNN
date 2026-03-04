@@ -1,0 +1,615 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Dexamethasone",
+    "disease": "leukemia, lymphocytic, susceptibility to",
+    "query_string": "Dexamethasone AND leukemia, lymphocytic, susceptibility to"
+  },
+  "data": {
+    "query": "Dexamethasone AND leukemia, lymphocytic, susceptibility to",
+    "results": [
+      {
+        "pmid": "31794095",
+        "title": "Optimizing the use of the hyperCVAD regimen: Clinical vignettes and practical management.",
+        "abstract": "",
+        "journal": "Cancer",
+        "year": "2020",
+        "authors": [
+          "Rausch Caitlin R",
+          "Jabbour Elias J",
+          "Kantarjian Hagop M",
+          "Kadia Tapan M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Brain Neoplasms",
+          "Constipation",
+          "Cyclophosphamide",
+          "Cytarabine",
+          "Dexamethasone",
+          "Doxorubicin",
+          "Drug Monitoring"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31794095/"
+      },
+      {
+        "pmid": "12010814",
+        "title": "In vitro susceptibility to dexamethasone- and doxorubicin-induced apoptotic cell death in context of maturation stage, responsiveness to interleukin 7, and early cytoreduction in vivo in childhood T-cell acute lymphoblastic leukemia.",
+        "abstract": "Within childhood T-cell acute lymphoblastic leukemia (T-ALL), patients with a cortical (CD1a(+)) immunophenotype have been identified as a subgroup with favorable outcome in the acute lymphoblastic leukemia-Berlin-Frankfurt-Münster (ALL-BFM), Cooperative study group for childhood acute lymphoblastic leukemia (COALL) and Pediatric Oncology Group studies. We investigated in leukemic samples of children with T-ALL (n = 81) whether the different in vivo therapy response could be linked to differential in vitro susceptibility to apoptotic cell death. The extent of dexamethasone- as well as doxorubicin-induced apoptosis, detected by annexin V staining, positively correlated with the expression levels of CD1a (Spearman correlation coefficient, r(s) = 0.3 and 0.4, respectively; P <.01). When compared to cortical T-ALL, mature (CD1a(-), surface CD3(+)) T-ALL were significantly more resistant to doxorubicin, and immature, pro-/pre-T-ALL were more resistant to both drugs (P <.05). Apoptosis-relat",
+        "journal": "Blood",
+        "year": "2002",
+        "authors": [
+          "Wuchter Christian",
+          "Ruppert Velia",
+          "Schrappe Martin",
+          "Dörken Bernd",
+          "Ludwig Wolf-Dieter"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antigens, CD",
+          "Antigens, CD1",
+          "Antigens, CD34",
+          "Antigens, Differentiation, Myelomonocytic",
+          "Apoptosis",
+          "CD2 Antigens",
+          "Child",
+          "Dexamethasone",
+          "Doxorubicin",
+          "Drug Resistance, Neoplasm"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12010814/"
+      },
+      {
+        "pmid": "38572553",
+        "title": "CD9 shapes glucocorticoid sensitivity in pediatric B-cell precursor acute lymphoblastic leukemia.",
+        "abstract": "Resistance to glucocorticoids (GC), the common agents for remission induction in pediatric B-cell precursor acute lymphoblastic leukemia (BCP-ALL), poses a significant therapeutic hurdle. Therefore, dissecting the mechanisms shaping GC resistance could lead to new treatment modalities. Here, we showed that CD9- BCP-ALL cells were preferentially resistant to prednisone and dexamethasone over other standard cytotoxic agents. Concordantly, we identified significantly more poor responders to the prednisone prephase among BCP-ALL patients with a CD9- phenotype, especially for those with adverse presenting features including older age, higher white cell count and BCR-ABL1. Furthermore, gain- and loss-offunction experiments dictated a definitive functional linkage between CD9 expression and GC susceptibility, as demonstrated by the reversal and acquisition of relative GC resistance in CD9low and CD9high BCP-ALL cells, respectively. Despite physical binding to the GC receptor NR3C1, CD9 did no",
+        "journal": "Haematologica",
+        "year": "2024",
+        "authors": [
+          "Zhang Chi",
+          "Chan Kathy Yuen Yee",
+          "Ng Wing Hei",
+          "Cheung John Tak Kit",
+          "Sun Qiwei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Precursor B-Cell Lymphoblastic Leukemia-Lymphoma",
+          "Tetraspanin 29",
+          "Glucocorticoids",
+          "Drug Resistance, Neoplasm",
+          "Child",
+          "Animals",
+          "Mice",
+          "Receptors, Glucocorticoid",
+          "Cell Line, Tumor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38572553/"
+      },
+      {
+        "pmid": "23413591",
+        "title": "Richter's transformation in chronic lymphocytic leukemia.",
+        "abstract": "Richter's transformation, or Richter's syndrome, is an uncommon clinicopathological condition observed in about 5% to 10% of patients with chronic lymphocytic leukemia (CLL). \"Richter's transformation\" refers to the development of aggressive lymphoma during the course of CLL. Diffuse large B-cell lymphoma occurs in the majority of cases of Richter's transformation. Clinically, patients with Richter's transformation present with an aggressive disease course with rapidly enlarging lymph nodes, hepatosplenomegaly, and elevated serum lactate dehydrogenase levels. Specific risk factors for the development of Richter's transformation in a patient with CLL have yet to be identified; however, TP53 disruption, c-MYCabnormalities, unmutated immunoglobulin heavy chain (IGHV) < 2%, non-del13q cytogenetics, CD38 gene polymorphisms, stereotypy, and VH4-39 gene usage may predispose to Richter's transformation. The prognosis is generally poor, with a median survival of about 10 months. Development of ",
+        "journal": "Oncology (Williston Park, N.Y.)",
+        "year": "2012",
+        "authors": [
+          "Jain Preetesh",
+          "O'Brien Susan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biopsy",
+          "Diagnostic Imaging",
+          "Disease Progression",
+          "Gene Expression Regulation, Leukemic",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Immunotherapy",
+          "Leukemia, Lymphocytic, Chronic, B-Cell",
+          "Lymphoma, Large B-Cell, Diffuse"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23413591/"
+      },
+      {
+        "pmid": "26102033",
+        "title": "Glucocorticoid-mediated co-regulation of RCAN1-1, E4BP4 and BIM in human leukemia cells susceptible to apoptosis.",
+        "abstract": "Glucocorticoids (GCs) are known to induce apoptosis of leukemia cells via gene regulatory changes affecting key pro-and anti-apoptotic genes. Three genes previously implicated in GC-evoked apoptosis in the CEM human T-cell leukemia model, RCAN1, E4BP4 and BIM, were studied in a panel of human lymphoid and myeloid leukemia cell lines. Of the two RCAN1 transcripts, the synthetic GC Dexamethasone (Dex) selectively upregulates RCAN1-1, but not RCAN1-4, in GC-susceptible Sup-B15, RS4;11, Kasumi-1 cells but not in GC-resistant Sup T1 and Loucy cells. E4BP4 and BIM regulation correlated with that of RCAN1-1. A putative GRE and four EBPREs were identified within 1500bp upstream from the transcription start site of RCAN1-1. GC-refractory CEM C1-15 cells sensitized to GC-evoked apoptosis by ectopic E4BP4 expression, CEM C1-15mE#3, showed restored RCAN1-1 upregulation, suggesting that RCAN1-1 is a downstream target of E4BP4. A model for coordinated regulation of RCAN1-1, E4BP4 and BIM, and their ",
+        "journal": "Biochemical and biophysical research communications",
+        "year": "2015",
+        "authors": [
+          "Saenz G Jonatan",
+          "Hovanessian Rebeka",
+          "Gisis Andrew D",
+          "Medh Rheem D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Apoptosis",
+          "Apoptosis Regulatory Proteins",
+          "Base Sequence",
+          "Basic-Leucine Zipper Transcription Factors",
+          "Bcl-2-Like Protein 11",
+          "Cell Line, Tumor",
+          "DNA-Binding Proteins",
+          "Gene Expression Regulation, Neoplastic",
+          "Humans",
+          "Intracellular Signaling Peptides and Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26102033/"
+      },
+      {
+        "pmid": "9498714",
+        "title": "Induction of apoptosis by chlorodeoxyadenosine and dexamethasone in B-chronic lymphocytic leukemia.",
+        "abstract": "Apoptosis, programmed cell death, occurs in a variety of cellular systems and in response to many different stimuli. In the present study we examined the ability of dexamethasone (Dex) and chlorodeoxyadenosine (2-CdA) to induce apoptosis in lymphocytes of patients with B-chronic lymphocytic leukemia (B-CLL). Lymphocytes of 29 untreated patients and 9 healthy controls were isolated and incubated for 24 hours in the presence or absence of either Dex (2 microM) (n = 15) or 2-CdA (3 microM) (n = 14). Following incubation the cells were harvested and their DNA extracted and analysed for internucleosomal DNA cleavage by UV illumination after electrophoresis on agarose slab gel containing ethidium bromide. In the Dex group, 10 patients showed dexamethasone independent spontaneous apoptosis appearing 24 hours after the start of incubation. These were the only instances of dexamethasone-enhanced apoptosis. Five patients showed no spontaneous or dexamethasone induced apopto sis. Of the 2-CdA gro",
+        "journal": "Leukemia & lymphoma",
+        "year": "1997",
+        "authors": [
+          "Shenkerman G",
+          "Klaper R",
+          "Ness-Abramof R",
+          "Vishlitzky V",
+          "Zemer R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Hormonal",
+          "Apoptosis",
+          "Arachidonic Acid",
+          "Deoxyadenosines",
+          "Dexamethasone",
+          "Humans",
+          "Leukemia, Lymphocytic, Chronic, B-Cell",
+          "Tumor Cells, Cultured"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9498714/"
+      },
+      {
+        "pmid": "24010694",
+        "title": "[Review of evidence of thalidomide and lenalidomide in different hematological diseases: chronic lymphocytic leukemia, primary amyloidosis, myelofibrosis and syndrome myelodysplastic].",
+        "abstract": "Lenalidomide is an immunomodulatory drug approved by the AEMPS and the EMA, in combination with dexamethasone, for the treatment of multiple myeloma in adult patients who have received at least one prior therapy. Moreover, it has recently been approved for the treatment of patients with transfusion-dependent anaemia due to low- or intermediate-1-risk myelodysplastic syndromes associated with an isolated deletion 5q cytogenetic abnormality when other therapeutic options are insufficient or inadequate. It has also shown to be active in other hematologic and no hematologic diseases. Growing evidence of its use entails a challenge when situating the drug in a cost-effective way to treat these diseases. On this article we review the available evidence on the use of lenalidomide in the second line treatment of patients with chronic lymphocytic leukemia, primary amyloidosis and primary myelofibrosis, and in the first line treatment of patients with myelodysplastic syndrome, and also the evide",
+        "journal": "Farmacia hospitalaria : organo oficial de expresion cientifica de la Sociedad Espanola de Farmacia Hospitalaria",
+        "year": "2013",
+        "authors": [
+          "Jiménez Lozano I",
+          "Juárez Jiménez J C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amyloidosis",
+          "Anemia, Macrocytic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bone Marrow Diseases",
+          "Chromosome Deletion",
+          "Chromosomes, Human, Pair 5",
+          "Dexamethasone",
+          "Disease Susceptibility",
+          "Fatigue",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24010694/"
+      },
+      {
+        "pmid": "2866834",
+        "title": "Possible role of cholesterol in the susceptibility of a human acute lymphoblastic leukemia cell line to dexamethasone.",
+        "abstract": "Because the absence of high affinity glucocorticoid receptors in lymphoid leukemia cells does not always correlate with the resistance to glucocorticoids in vitro, an effort was made to identify an alternate biochemical marker which, independently from the receptor system, would improve the reliability of the existing in vitro sensitivity assays as predictors of the patients' response to glucocorticoid therapy. Two receptor-containing lines of acute lymphoblastic leukemia, one glucocorticoid sensitive (CEM-C7) and one glucocorticoid resistant (CEM-C1), were used to study endogenous synthesis of cholesterol with [14C]-acetate as a cholesterol precursor. We found that dexamethasone inhibited cholesterol synthesis in the glucocorticoid-sensitive clone but was without effect on the resistant clone. In sensitive cells, this reduction in synthesis was paralleled by a decreased activity of 3-hydroxy-3-methylglutaryl coenzyme A synthase (EC 1.1.3.5) and was followed by a moderate decrease in c",
+        "journal": "Cancer research",
+        "year": "1986",
+        "authors": [
+          "Madden E A",
+          "Bishop E J",
+          "Fiskin A M",
+          "Melnykovych G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Cell Division",
+          "Cells, Cultured",
+          "Cholesterol",
+          "Dexamethasone",
+          "Humans",
+          "Hydroxymethylglutaryl CoA Reductases",
+          "Hydroxymethylglutaryl-CoA Synthase",
+          "Leukemia, Lymphoid",
+          "Lovastatin",
+          "Naphthalenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2866834/"
+      },
+      {
+        "pmid": "23128824",
+        "title": "Combination of prednisolone and low dosed dexamethasone exhibits greater in vitro antileukemic activity than equiactive dose of prednisolone and overcomes prednisolone drug resistance in acute childhood lymphoblastic leukemia.",
+        "abstract": "Glucocorticoids, particularly prednisone/ prednisolone and dexamethasone, play a prominent role in the treatment of pediatric patients with acute lymphoblastic leukemia due to their ability to induce apoptosis in susceptible cells. Current therapeutic protocols use prednisone for both the prophase and the induction phase of the therapy because the greater antileukemic activity of dexamethasone is compromised by its high frequency of serious adverse reactions.",
+        "journal": "Biomedical papers of the Medical Faculty of the University Palacky, Olomouc, Czechoslovakia",
+        "year": "2014",
+        "authors": [
+          "Spenerova Michaela",
+          "Dzubak Petr",
+          "Srovnal Josef",
+          "Radova Lenka",
+          "Burianova Renata"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Dexamethasone",
+          "Drug Resistance, Neoplasm",
+          "Drug Therapy, Combination",
+          "Glucocorticoids",
+          "Humans",
+          "In Vitro Techniques",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Prednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23128824/"
+      },
+      {
+        "pmid": "32419532",
+        "title": "A review of current induction strategies and emerging prognostic factors in the management of children and adolescents with acute lymphoblastic leukemia.",
+        "abstract": "Acute lymphoblastic leukemia is the most frequent hematologic malignancy in children. Almost 95% of children potentially achieve a complete remission after the induction treatment, but over the last years, new insights in the genomic disease profile and in minimal residual disease detection techniques have led to an improvement in the prognostic stratification, identifying selected patients' subgroups with peculiar therapeutic needs.",
+        "journal": "Expert review of hematology",
+        "year": "2020",
+        "authors": [
+          "Capria Saveria",
+          "Molica Matteo",
+          "Mohamed Sara",
+          "Bianchi Simona",
+          "Moleti Maria Luisa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age Factors",
+          "Central Nervous System Neoplasms",
+          "Child",
+          "Clinical Trials as Topic",
+          "Combined Modality Therapy",
+          "Comorbidity",
+          "Disease Management",
+          "Disease Susceptibility",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32419532/"
+      },
+      {
+        "pmid": "39703838",
+        "title": "Case report: HSV lymphadenitis in immunocompromised patient with CLL.",
+        "abstract": "Richter's transformation (RT) in chronic lymphocytic leukemia (CLL) is associated with poor prognosis and requires prompt modifications in patient care. CLL patients are susceptible to severe infections due to immune dysregulation induced by their malignancy and immunosuppressive therapies.",
+        "journal": "Frontiers in oncology",
+        "year": "2024",
+        "authors": [
+          "Al-Assil Talal",
+          "Handelsman Shane",
+          "Ansari Faisal",
+          "Flatley Ellen",
+          "Stone Steven"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39703838/"
+      },
+      {
+        "pmid": "2413243",
+        "title": "Glucocorticoid receptors in human leukemias and related diseases.",
+        "abstract": "The evidence to date is compelling that steroid initiated cell lysis involves participation of the glucocorticoid receptor. Not only do the concentrations and specificity of hormones for cell lysis and receptor occupancy correspond, but also steroid resistant cells selected with or without prior mutagenesis often have altered receptors. The glucocorticoid receptor protein from humans and other species is a approximately 95,000 d, thiol group-containing monomer, prone to aggregation when \"unactivated.\" After having bound steroid and been \"activated,\" the monomeric steroid-receptor complex is altered in charge and shape so that its binding to chromatin and DNA is greatly enhanced. Simple measurement of numbers of receptor sites in cells from patients with various blood dyscrasias has given, in some disease, good correlations between high numbers of receptor sites and good therapeutic response. These correlations are strongest for childhood acute lymphoblastic leukemia (ALL) and for non H",
+        "journal": "Klinische Wochenschrift",
+        "year": "1985",
+        "authors": [
+          "Thompson E B",
+          "Smith J R",
+          "Bourgeois S",
+          "Harmon J M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Azacitidine",
+          "Cell Line",
+          "Cell Survival",
+          "Clone Cells",
+          "Decitabine",
+          "Dexamethasone",
+          "Drug Resistance",
+          "Glucocorticoids",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2413243/"
+      },
+      {
+        "pmid": "26265699",
+        "title": "Genetics of glucocorticoid-associated osteonecrosis in children with acute lymphoblastic leukemia.",
+        "abstract": "Glucocorticoids are important therapy for acute lymphoblastic leukemia (ALL) and their major adverse effect is osteonecrosis. Our goal was to identify genetic and nongenetic risk factors for osteonecrosis. We performed a genome-wide association study of single nucleotide polymorphisms (SNPs) in a discovery cohort comprising 2285 children with ALL, treated on the Children's Oncology Group AALL0232 protocol (NCT00075725), adjusting for covariates. The minor allele at SNP rs10989692 (near the glutamate receptor GRIN3A locus) was associated with osteonecrosis (hazard ratio = 2.03; P = 3.59 × 10(-7)). The association was supported by 2 replication cohorts, including 361 children with ALL on St. Jude's Total XV protocol (NCT00137111) and 309 non-ALL patients from Vanderbilt University's BioVU repository treated with glucocorticoids (odds ratio [OR] = 1.87 and 2.26; P = .063 and .0074, respectively). In a meta-analysis, rs10989692 was also highest ranked (P = 2.68 × 10(-8)), and the glutamate",
+        "journal": "Blood",
+        "year": "2015",
+        "authors": [
+          "Karol Seth E",
+          "Yang Wenjian",
+          "Van Driest Sara L",
+          "Chang Tamara Y",
+          "Kaste Sue"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Biomarkers",
+          "Child",
+          "Cohort Studies",
+          "Dexamethasone",
+          "Female",
+          "Follow-Up Studies",
+          "Genetic Predisposition to Disease",
+          "Genome-Wide Association Study",
+          "Glucocorticoids",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26265699/"
+      },
+      {
+        "pmid": "21646920",
+        "title": "Mitochondrial D-loop polymorphisms and mitochondrial DNA content in childhood acute lymphoblastic leukemia.",
+        "abstract": "The mitochondrial displacement loop (D-loop) controls mitochondrial expression, with mutations and mitochondrial DNA (mtDNA) content linked to oncogenesis. We investigated D-loop polymorphisms and mtDNA content in childhood acute lymphoblastic leukemia (ALL). The D-loop was sequenced in 251 children: precursor B ALL (n=114), with 76 paired remission/relapse samples; T-ALL (n=24); cord blood controls (n=113). The mtDNA copy number was analyzed using real-time quantitative polymerase chain reaction for 92 controls and 54 ALL patients at diagnosis and remission. Polymorphisms around H-strand replication origin (nucleotides 150 to 199) and conserved sequence block II (nucleotides 299 to 317) were associated with leukemia biology and treatment response. T-ALL patients were more likely to have longer nt303 poly-C tract. T199C polymorphism was associated with increased risk of ALL in Malays; T152C was more frequent in good responders. There was no difference in mtDNA content between diagnosti",
+        "journal": "Journal of pediatric hematology/oncology",
+        "year": "2011",
+        "authors": [
+          "Kwok Cecilia Sze-Nga",
+          "Quah Thuan Chong",
+          "Ariffin Hany",
+          "Tay Stacey Kiat-Hong",
+          "Yeoh Allen Eng-Juh"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asparaginase",
+          "Case-Control Studies",
+          "Child",
+          "Child, Preschool",
+          "Chromosome Aberrations",
+          "DNA, Mitochondrial",
+          "Daunorubicin",
+          "Dexamethasone",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21646920/"
+      },
+      {
+        "pmid": "34360930",
+        "title": "Leukemia-Induced Cellular Senescence and Stemness Alterations in Mesenchymal Stem Cells Are Reversible upon Withdrawal of B-Cell Acute Lymphoblastic Leukemia Cells.",
+        "abstract": "Leukemic cell growth in the bone marrow (BM) induces a very stressful condition. Mesenchymal stem cells (MSC), a key component of this BM niche, are affected in several ways with unfavorable consequences on hematopoietic stem cells favoring leukemic cells. These alterations in MSC during B-cell acute lymphoblastic leukemia (B-ALL) have not been fully studied. In this work, we have compared the modifications that occur in an in vitro leukemic niche (LN) with those observed in MSC isolated from B-ALL patients. MSC in this LN niche showed features of a senescence process, i.e., altered morphology, increased senescence-associated β-Galactosidase (SA-βGAL) activity, and upregulation of p53 and p21 (without p16 expression), cell-cycle arrest, reduced clonogenicity, and some moderated changes in stemness properties. Importantly, almost all of these features were found in MSC isolated from B-ALL patients. These alterations rendered B-ALL cells susceptible to the chemotherapeutic agent dexameth",
+        "journal": "International journal of molecular sciences",
+        "year": "2021",
+        "authors": [
+          "Vanegas Natalia-Del Pilar",
+          "Ruiz-Aparicio Paola Fernanda",
+          "Uribe Gloria Inés",
+          "Linares-Ballesteros Adriana",
+          "Vernot Jean-Paul"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cell Differentiation",
+          "Cell Proliferation",
+          "Cells, Cultured",
+          "Cellular Senescence",
+          "Hematopoietic Stem Cells",
+          "Humans",
+          "Mesenchymal Stem Cells",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Tumor Microenvironment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34360930/"
+      },
+      {
+        "pmid": "36471442",
+        "title": "Cerebrovascular accident in a child with precursor B-cell acute lymphoblastic leukemia and coronavirus disease 2019: a case report.",
+        "abstract": "Coronavirus disease 2019 can lead to rare but severe and life-threatening diseases in susceptible high-risk populations, including patients with immunodeficiency. A rare event in this report is stroke following COVID-19 disease in a patient with an immunocompromised background due to leukemia and anti-cancer treatments.",
+        "journal": "Journal of medical case reports",
+        "year": "2022",
+        "authors": [
+          "Karimi Hanie",
+          "Sarmadian Roham",
+          "Gilani Abolfazl",
+          "Salajegheh Poorya",
+          "Nejad Biglari Habibe"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Female",
+          "Humans",
+          "COVID-19",
+          "Precursor Cells, B-Lymphoid",
+          "Levetiracetam",
+          "Iran",
+          "SARS-CoV-2",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Acute Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36471442/"
+      },
+      {
+        "pmid": "32466311",
+        "title": "Dual Targeting of Stromal Cell Support and Leukemic Cell Growth by a Peptidic PKC Inhibitor Shows Effectiveness against B-ALL.",
+        "abstract": "Mesenchymal stem cells (MSC) favour a scenario where leukemic cells survive. The protein kinase C (PKC) is essential to confer MSC support to leukemic cells and may be responsible for the intrinsic leukemic cell growth. Here we have evaluated the capacity of a chimeric peptide (HKPS), directed against classical PKC isoforms, to inhibit leukemic cell growth. HKPS was able to strongly inhibit viability of different leukemic cell lines, while control HK and PS peptides had no effect. Further testing showed that 30% of primary samples from paediatric B-cell acute lymphoblastic leukaemia (B-ALL) were also strongly affected by HKPS. We showed that HKPS disrupted the supportive effect of MSC that promote leukemic cell survival. Interestingly, ICAM-1 and VLA-5 expression increased in MSC during the co-cultures with B-ALL cells, and we found that HKPS inhibited the interaction between MSC and B-ALL cells due to a reduction in the expression of these adhesion molecules. Of note, the susceptibili",
+        "journal": "International journal of molecular sciences",
+        "year": "2020",
+        "authors": [
+          "Ruiz-Aparicio Paola Fernanda",
+          "Vanegas Natalia-Del Pilar",
+          "Uribe Gloria Inés",
+          "Ortiz-Montero Paola",
+          "Cadavid-Cortés Camila"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "B-Lymphocytes",
+          "Cell Adhesion",
+          "Cell Proliferation",
+          "Cells, Cultured",
+          "Child",
+          "Enzyme Inhibitors",
+          "Humans",
+          "Integrins",
+          "Intercellular Adhesion Molecule-1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32466311/"
+      },
+      {
+        "pmid": "20576660",
+        "title": "Skeletal morbidity in children receiving chemotherapy for acute lymphoblastic leukaemia.",
+        "abstract": "Children receiving chemotherapy for acute lymphoblastic leukaemia (ALL) may be susceptible to skeletal morbidity.",
+        "journal": "Archives of disease in childhood",
+        "year": "2010",
+        "authors": [
+          "Elmantaser M",
+          "Stewart G",
+          "Young D",
+          "Duncan R",
+          "Gibson B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age Factors",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bone Diseases",
+          "Child",
+          "Child, Preschool",
+          "Dexamethasone",
+          "Drug Administration Schedule",
+          "Female",
+          "Fractures, Bone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20576660/"
+      },
+      {
+        "pmid": "16615044",
+        "title": "Moyamoya syndrome following childhood acute lymphoblastic leukemia.",
+        "abstract": "Long-term survivors of childhood acute lymphoblastic leukemia (ALL) sometimes suffer from adverse long-term sequelae. We analyzed the incidence, clinical course and prognosis of moyamoya syndrome (MoS) following childhood ALL.",
+        "journal": "Pediatric blood & cancer",
+        "year": "2007",
+        "authors": [
+          "Kikuchi Akira",
+          "Maeda Miho",
+          "Hanada Ryoji",
+          "Okimoto Yuri",
+          "Ishimoto Koichi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anthracyclines",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asparaginase",
+          "Cerebral Infarction",
+          "Child",
+          "Child, Preschool",
+          "Combined Modality Therapy",
+          "Cranial Irradiation",
+          "Cyclophosphamide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16615044/"
+      },
+      {
+        "pmid": "31686588",
+        "title": "Genes identified through genome-wide association studies of osteonecrosis in childhood acute lymphoblastic leukemia patients.",
+        "abstract": "Aim: To evaluate top-ranking genes identified through genome-wide association studies for an association with corticosteroid-related osteonecrosis in children with acute lymphoblastic leukemia (ALL) who received Dana-Farber Cancer Institute treatment protocols. Patients & methods: Lead SNPs from these studies, as well as other variants in the same genes, pooled from whole exome sequencing data, were analyzed for an association with osteonecrosis in childhood ALL patients from Quebec cohort. Top-ranking variants were verified in the replication patient group. Results: The analyses of variants in the ACP1-SH3YL1 locus derived from whole exome sequencing data showed an association of several correlated SNPs (rs11553746, rs2290911, rs7595075, rs2306060 and rs79716074). The rs79716074 defines *B haplotype of the APC1 gene, which is well known for its functional role. Conclusion: This study confirms implication of the ACP1 gene in the treatment-related osteonecrosis in childhood ALL and iden",
+        "journal": "Pharmacogenomics",
+        "year": "2019",
+        "authors": [
+          "Gagné Vincent",
+          "Aubry-Morin Anne",
+          "Plesa Maria",
+          "Abaji Rachid",
+          "Petrykey Kateryna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adrenal Cortex Hormones",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Genetic Predisposition to Disease",
+          "Genome-Wide Association Study",
+          "Haplotypes",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31686588/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:19:42.712993",
+  "success": true,
+  "error_message": null
+}

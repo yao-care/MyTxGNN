@@ -1,0 +1,478 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ofloxacin",
+    "disease": "pneumonia caused by chlamydia",
+    "query_string": "Ofloxacin AND pneumonia caused by chlamydia"
+  },
+  "data": {
+    "query": "Ofloxacin AND pneumonia caused by chlamydia",
+    "results": [
+      {
+        "pmid": "2691969",
+        "title": "[Treatment of pneumonia caused by Legionella, Mycoplasma, Chlamydiae and Rickettsia using ofloxacin].",
+        "abstract": "To asses the efficacy and the safety of ofloxacin as therapy of pneumonia caused by intracellular pathogens, 35 patients were studied (26 male, 9 female, mean age: 52.5 +/- 16.6 years). Causative pathogens were Chlamydia psittaci (n = 13), Legionella pneumophila (n = 10), Mycoplasma pneumoniae (n = 7) and Coxiella burnetii (n = 5). Ofloxacin was administered orally in 32 cases (200 mg b.i.d. in 80% of cases) and by I.V. route in 3 cases. All patients were cured without any side effects. In conclusion, ofloxacin appears, in our study, as an efficient therapy for these pneumonias. It could be considered as a valuable alternative to other antimicrobial agents with intra-cellular activity.",
+        "journal": "Pathologie-biologie",
+        "year": "1989",
+        "authors": [
+          "Leroy O",
+          "Beuscart C",
+          "Chidiac C",
+          "Sivery B",
+          "Senneville E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "France",
+          "Humans",
+          "Legionnaires' Disease",
+          "Male",
+          "Middle Aged",
+          "Multicenter Studies as Topic",
+          "Ofloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2691969/"
+      },
+      {
+        "pmid": "21504249",
+        "title": "Sitafloxacin: in bacterial infections.",
+        "abstract": "Sitafloxacin is a fluoroquinolone antibacterial with in vitro activity against a broad range of Gram-positive and -negative bacteria, including anaerobic bacteria, as well as against atypical pathogens. It is approved in Japan for use in a number of bacterial infections caused by sitafloxacin-susceptible strains of Staphylococcus spp., Streptococcus pneumoniae, other Streptococcus spp., Enterococcus spp., Moraxella catarrhalis, Escherichia coli, Citrobacter spp., Klebsiella spp., Enterobacter spp., Serratia spp., Proteus spp., Morganella morganii, Haemophilus influenzae, Pseudomonas aeruginosa, Legionella pneumophila, Peptostreptococcus spp., Prevotella spp., Porphyromonas spp., Fusobacterium spp., Chlamydia trachomatis, Chlamydophila pneumoniae and Mycoplasma pneumoniae. In terms of clinical efficacy, oral sitafloxacin was noninferior to oral levofloxacin in the treatment of community-acquired pneumonia or an infectious exacerbation of chronic respiratory tract disease, noninferior to",
+        "journal": "Drugs",
+        "year": "2011",
+        "authors": [
+          "Keating Gillian M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Clinical Trials as Topic",
+          "Dose-Response Relationship, Drug",
+          "Drug Resistance, Bacterial",
+          "Fluoroquinolones",
+          "Humans",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21504249/"
+      },
+      {
+        "pmid": "15700690",
+        "title": "[Choice of antimicrobial drug for infections caused by Chlamydia trachomatis and Chlamydophila pneumoniae].",
+        "abstract": "Chlamydia (C.) trachomatis is the most common bacterial cause of sexually transmitted disease in the world. A well documented feature of chlamydial infection is its high rate of recurrence among sexually active populations. However, it is difficult to distinguish whether the high rate of recurrent disease is due to reinfection or to persistent infection with the same organism. Of particular concern in this era of increasing antibiotic resistance is whether persistent infection is the consequence of increasing resistance to standard antimicrobial therapy. Azithromycin and doxycycline are considered by the Centers for Disease Control and Prevention (CDC) as first line drugs for the treatment of chlamydial infections; erythromycin, ofloxacin and levofloxacin are recommended as alternative-regimen. Although C. trachomatis has been historically sensitive to these antibiotics, in vitro resistance is being increasingly reported. However, although in vitro antimicrobial resistance has been des",
+        "journal": "Acta medica Croatica : casopis Hravatske akademije medicinskih znanosti",
+        "year": "2004",
+        "authors": [
+          "Zele-Starcević Lidija",
+          "Plecko Vanda",
+          "Budimir Ana",
+          "Kalenić Smilja"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chlamydia Infections",
+          "Chlamydia trachomatis",
+          "Chlamydophila Infections",
+          "Chlamydophila pneumoniae",
+          "Humans",
+          "Sexually Transmitted Diseases, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15700690/"
+      },
+      {
+        "pmid": "7986006",
+        "title": "Protective effects of sparfloxacin in experimental pneumonia caused by Chlamydia pneumoniae in leukopenic mice.",
+        "abstract": "The in vivo antichlamydial activities of sparfloxacin and reference drugs were examined in a experimental model of pneumonia caused by Chlamydia pneumoniae in leukopenic mice; their in vitro activities were also examined. The most potent agents in vitro were sparfloxacin (MICs for C. pneumoniae Kajaani and IOL 207, (0.031 and 0.031 micrograms/ml, respectively), clarithromycin (0.031 and 0.031 micrograms/ml, respectively), and minocycline (0.031 and 0.031 micrograms/ml, respectively); these were followed by tosufloxacin (0.063 and 0.125 micrograms/ml, respectively) and ofloxacin (0.5 and 0.5 micrograms/ml, respectively). The MBCs of sparfloxacin, tosufloxacin, ofloxacin, clarithromycin, and minocycline for these two strains were 0.063 and 0.063 micrograms/ml, 0.125 and 0.25 micrograms/ml, 1.0 and 1.0 micrograms/ml, 0.125 and 0.125 micrograms/ml, and 0.25 and 0.25 micrograms/ml, respectively. Fatal pneumonia was induced by intranasal inoculation of cyclophosphamide-treated leukopenic mic",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1994",
+        "authors": [
+          "Nakata K",
+          "Okazaki Y",
+          "Hattori H",
+          "Nakamura S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Infective Agents",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Female",
+          "Fluoroquinolones",
+          "Leukopenia",
+          "Lung",
+          "Mice",
+          "Mice, Inbred ICR"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7986006/"
+      },
+      {
+        "pmid": "14979735",
+        "title": "New developments in antibacterial choice for lower respiratory tract infections in elderly patients.",
+        "abstract": "Elderly patients are at increased risk of developing lower respiratory tract infections compared with younger patients. In this population, pneumonia is a serious illness with high rates of hospitalisation and mortality, especially in patients requiring admission to intensive care units (ICUs). A wide range of pathogens may be involved depending on different settings of acquisition and patient's health status. Streptococcus pneumoniae is the most common bacterial isolate in community-acquired pneumonia, followed by Haemophilus influenzae, Moraxella catarrhalis and atypical pathogens such as Chlamydia pneumoniae, Legionella pneumophila and Mycoplasma pneumoniae. However, elderly patients with comorbid illness, who have been recently hospitalised or are residing in a nursing home, may develop severe pneumonia caused by multidrug resistant staphylococci or pneumococci, and enteric Gram-negative bacilli, including Pseudomonas aeruginosa. Moreover, anaerobes may be involved in aspiration pn",
+        "journal": "Drugs & aging",
+        "year": "2004",
+        "authors": [
+          "Ferrara Anna Maria",
+          "Fietta Anna Maria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aging",
+          "Anti-Bacterial Agents",
+          "Geriatrics",
+          "Humans",
+          "Intestinal Absorption",
+          "Respiratory Tract Infections",
+          "Tissue Distribution",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14979735/"
+      },
+      {
+        "pmid": "15119993",
+        "title": "Efficacy of 750-mg, 5-day levofloxacin in the treatment of community-acquired pneumonia caused by atypical pathogens.",
+        "abstract": "Current recommended durations for treatment of atypical community-acquired pneumonia (CAP) range from 10 to 21 days. However, antibiotics such as the fluoroquinolones may allow for effective, short-course regimens.",
+        "journal": "Current medical research and opinion",
+        "year": "2004",
+        "authors": [
+          "Dunbar Lala M",
+          "Khashab Mohammed M",
+          "Kahn James B",
+          "Zadeikis Neringa",
+          "Xiang Jim X"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Community-Acquired Infections",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Legionnaires' Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15119993/"
+      },
+      {
+        "pmid": "18611582",
+        "title": "Atypical pneumonias: therapeutic possibilities.",
+        "abstract": "The atypical pneumonia syndrome is characterized by systemic complaints rather than respiratory symptoms. The causative pathogens include Mycoplasma, Chlamydia, Legionella and respiratory viruses (influenza, adenovirus, respiratory syncytial virus). The reported incidence of disease caused by these pathogens in community-acquired pneumonias varies from study to study. As most of these pathogens are intracellular, the antibiotics used in the treatment of atypical pneumonia are those able to penetrate into cells. Empirical antimicrobial therapy consists of macrolides (erythromycin or some of the newer agents such as roxithromycin, azithromycin or clarithromycin) or tetracyclines (e.g. doxycycline). In cases of severe legionellosis and in immunocompromised and critically-ill patients, the macrolides are sometimes given in combination with rifampicin. Promising alternatives are some of the newer fluoroquinolones (e.g. ofloxacin, pefloxacin) in the treatment of legionellosis.",
+        "journal": "International journal of antimicrobial agents",
+        "year": "1993",
+        "authors": [
+          "Akalin H E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18611582/"
+      },
+      {
+        "pmid": "35054214",
+        "title": "Mycoplasma pneumoniae and Chlamydia pneumoniae Coinfection with Acute Respiratory Distress Syndrome: A Case Report.",
+        "abstract": "Community-acquired pneumonia caused by Mycoplasma pneumoniae or Chlamydia pneumoniae is usually mild. Mycoplasma pneumoniae-related and C. pneumoniae-related acute respiratory distress syndromes (ARDSs) are rare. Moreover, to our knowledge, there are no published reports on ARDS caused by M. pneumoniae and C. pneumoniae coinfection. Here, we report a case of an immunocompetent young woman who was co-infected with M. pneumoniae and C. pneumoniae and was started on treatment with piperacillin and clarithromycin. Two days later, she developed ARDS. She recovered rapidly following a change of antibiotic treatment to levofloxacin and was discharged on day 12. We conducted exome sequencing followed by alternative filtering to search for candidate ARDS-related genes. We identified an intronic variant of unknown significance within leucine-rich repeat-containing 16A (LRRC16A), a gene previously identified as a significant locus for platelet count with a possible role in ARDS. This is a rare ca",
+        "journal": "Diagnostics (Basel, Switzerland)",
+        "year": "2021",
+        "authors": [
+          "Tsai Meng-Ko",
+          "Lai Chao-Hung",
+          "Tsai Chris",
+          "Chen Guan-Liang"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35054214/"
+      },
+      {
+        "pmid": "2808194",
+        "title": "The in-vitro activity, pharmacokinetics and tissue penetration of temafloxacin.",
+        "abstract": "The in-vitro activity of temafloxacin compared with other quinolone antibiotics was evaluated using 579 bacterial strains and three isolates of Chlamydia trachomatis. The MICs of temafloxacin for 90% of Haemophilus influenzae, Neisseria spp., Enterobacteriaceae, Bacteroides fragilis and Ch. trachomatis were all less than or equal to 1 mg/l, an activity comparable with or superior to that of ofloxacin and superior to those of fleroxacin and norfloxacin. Temafloxacin, although more active against anaerobes, was in general slightly less active than ciprofloxacin. Against Streptococcus pneumoniae and Staphylococcus aureus (including MRSA) temafloxacin was twice as active as ciprofloxacin. The pharmacokinetics of temafloxacin were studied in six volunteers, following a single 400 mg oral dose, measuring concentrations in plasma, inflammatory fluid and urine. Mean peak plasma levels of 3.3 mg/l were achieved. The mean plasma elimination half life was 6.8 h and the percentage penetration into",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1989",
+        "authors": [
+          "Nye K",
+          "Shi Y G",
+          "Andrews J M",
+          "Ashby J P",
+          "Wise R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "4-Quinolones",
+          "Adult",
+          "Anti-Infective Agents",
+          "Bacteria",
+          "Blister",
+          "Exudates and Transudates",
+          "Fluoroquinolones",
+          "Humans",
+          "Male",
+          "Quinolones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2808194/"
+      },
+      {
+        "pmid": "1804785",
+        "title": "Quinolones in the treatment of lower respiratory tract infections caused by intracellular pathogens.",
+        "abstract": "Intracellular pathogens are inhibited to varying degrees, depending upon the strain of the organism and the quinolone tested. Quinolones achieve levels in the lower respiratory tract that equal or exceed serum concentrations, and they also achieve good intracellular concentrations. Experimental models of intracellular infection have demonstrated the efficacy of ciprofloxacin, difloxacin, fleroxacin, ofloxacin and pefloxacin. Animal models of experimental legionellosis have confirmed in vivo their efficacy in this field. Thus, quinolones appear to be a safe and efficacious alternative treatment in lower respiratory tract infection (LRTI) due to intracellular pathogens. Considering the in vitro and experimental studies, quinolones should play an important role in the treatment of LRTI caused by intracellular pathogens, and prospective controlled studies are strongly recommended.",
+        "journal": "Infection",
+        "year": "1991",
+        "authors": [
+          "Chidiac C",
+          "Mouton Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "4-Quinolones",
+          "Animals",
+          "Anti-Infective Agents",
+          "Chlamydia Infections",
+          "Coxiella",
+          "Gram-Negative Bacterial Infections",
+          "Humans",
+          "Legionnaires' Disease",
+          "Pneumonia, Mycoplasma",
+          "Respiratory Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1804785/"
+      },
+      {
+        "pmid": "2791500",
+        "title": "Comparative in vitro activity of lomefloxacin, a difluoro-quinolone.",
+        "abstract": "Lomefloxacin is a new difluoro-quinolone. In this study, we have determined the in vitro activity of lomefloxacin against a wide range of clinical bacterial isolates and compared it with that of other fluoro-quinolones and some unrelated antimicrobials. Lomefloxacin was very active against Enterobacteriaceae (MIC90, 0.5 micrograms/ml) with activity comparable to that of ofloxacin (MIC90, 0.25 micrograms/ml). Lomefloxacin was moderately active against isolates of Pseudomonas aeruginosa (MIC90, 4 micrograms/ml), and again the activity was comparable to ofloxacin (MIC90, 4 micrograms/ml) but was eightfold less than ciprofloxacin (MIC90, 0.5 micrograms/ml). Lomefloxacin was also active against isolates of Staphylococcus aureus (MIC90, 1 micrograms/ml), irrespective of methicillin susceptibility, and this activity was most comparable to ofloxacin (MIC90, 0.5 micrograms/ml) and ciprofloxacin (MIC90, 0.5 micrograms/ml). Lomefloxacin was fourfold less active than either ofloxacin or ciprofloxa",
+        "journal": "Diagnostic microbiology and infectious disease",
+        "year": "1989",
+        "authors": [
+          "Robbins M J",
+          "Baskerville A J",
+          "Sanghrajka M",
+          "Mumtaz G",
+          "Felmingham D"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "4-Quinolones",
+          "Anti-Infective Agents",
+          "Bacteria",
+          "Fluoroquinolones",
+          "Humans",
+          "Kinetics",
+          "Microbial Sensitivity Tests",
+          "Quinolones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2791500/"
+      },
+      {
+        "pmid": "9087506",
+        "title": "In vitro and in vivo antichlamydial activities of HSR-903, a new fluoroquinolone antibiotic.",
+        "abstract": "The in vitro and in vivo antichlamydial activities of HSR-903 were investigated. The MICs of HSR-903 for different species of chlamydia were 0.016 to 0.063 microg/ml, which were superior to those of conventional fluoroquinolones. The therapeutic effect of HSR-903 in experimental mouse Chlamydia psittaci pneumonia was also excellent and almost equal to that of minocycline and superior to that of ofloxacin. These results indicate that HSR-903 may be useful in the treatment of respiratory infections caused by chlamydiae.",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1997",
+        "authors": [
+          "Niki Y",
+          "Miyashita N",
+          "Kubota Y",
+          "Nakajima M",
+          "Matsushima T"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Chlamydia",
+          "Chlamydophila psittaci",
+          "Fluoroquinolones",
+          "HeLa Cells",
+          "Humans",
+          "Male",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9087506/"
+      },
+      {
+        "pmid": "17628200",
+        "title": "Q fever community-acquired pneumonia in a patient with Crohn's disease on immunosuppressive therapy.",
+        "abstract": "Community-acquired pneumonia (CAP) may be caused by typical or atypical pathogens. The three most common zoonotic atypical pathogens are Chlamydophila psittaci (psittacosis), Francisella tularensis (tularemia), and Coxiella burnetii (Q fever). Atypical CAPs are suggested by a distinctive pattern of extrapulmonary organ involvement. Zoonotic CAP may be differentiated from nonzoonotic CAP (Chlamydia pneumoniae, Mycoplasma pneumoniae, Legionnaire's disease) by a recent zoonotic vector contact history. Zoonotic atypical CAP occurs sporadically, but not randomly, and require close association with the appropriate zoonotic vector to transmit the infection. CAP accompanied by the extrapulmonary finding of splenomegaly in a normal host limits differential diagnostic possibilities to Q fever and psittacosis. Splenomegaly does not occur with other typical or atypical CAP. Another common extrapulmonary finding occurs with some atypical pneumonias, that is, Q fever, psittacosis, and Legionnaire's ",
+        "journal": "Heart & lung : the journal of critical care",
+        "year": "2007",
+        "authors": [
+          "Nausheen Sara",
+          "Cunha Burke A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Crohn Disease",
+          "Cross Infection",
+          "Follow-Up Studies",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Levofloxacin",
+          "Male",
+          "Middle Aged",
+          "Ofloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17628200/"
+      },
+      {
+        "pmid": "12387767",
+        "title": "Chlamydia pneumoniae in community-acquired pneumonia: seven years of experience.",
+        "abstract": "To determine the prevalence of Chlamydia pneumoniae in community-acquired pneumonia during a period of seven years.",
+        "journal": "The Journal of infection",
+        "year": "2002",
+        "authors": [
+          "Monno R",
+          "De Vito D",
+          "Losito G",
+          "Sibilio G",
+          "Costi A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chlamydophila Infections",
+          "Chlamydophila pneumoniae",
+          "Community-Acquired Infections",
+          "Female",
+          "Humans",
+          "Immunoglobulin G",
+          "Immunoglobulin M",
+          "Incidence",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12387767/"
+      },
+      {
+        "pmid": "20424535",
+        "title": "[Experience accumulated in hospital setting with levofloxacin, in monotherapy and in association therapy].",
+        "abstract": "Levofloxacin possesses a wide antimicrobial spectrum which encompasses Gram positive (also including penicillin-resistant Streptococcus pneumoniae) and Gram negative, and atypical respiratory pathogens Chlamydia pneumoniae, Legionella pneumophila and Mycoplasma pneumoniae) as well. Comparative clinical studies (macrolides, beta-lactams, and other fluoroquinolones), have evidenced bacteriological and clinical efficacy in community-acquired pneumonia (CAP), acute exacerbation of chronic bronchitis, urinary tract infections, and skin and soft tissue infections. In clinical practice, levofloxacin in sequential therapy allowed to reduce length of stay, the efficacy being maintained unaltered. In severe pneumonia, or when a pseudomonas aetiology is suspected, an association therapy is suggested, although a reliable body of clinical evidence is still lacking. Recent in vitro studies showed a synergism between levofloxacin and imipenem against multiresistant Pseudomonas aeruginosa strains. A r",
+        "journal": "Le infezioni in medicina",
+        "year": "2009",
+        "authors": [
+          "Petrosillo Nicola"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Antibiotic Prophylaxis",
+          "Bacterial Infections",
+          "Community-Acquired Infections",
+          "Cross Infection",
+          "Drug Resistance, Multiple, Bacterial",
+          "Drug Therapy, Combination",
+          "Hospital Departments",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20424535/"
+      },
+      {
+        "pmid": "16088719",
+        "title": "The antibiotic treatment of severe community-acquired pneumonia admitted to the critical care unit.",
+        "abstract": "Community-acquired pneumonias (CAP) are still caused by Streptococcus pneumoniae, Hemophilus influenzae, or Moraxella catarrhalis. Legionella and Chlamydia pneumoniae have been defined as important atypical pathogens causing CAP. Klebsiella causes CAP primarily in patients with chronic alcoholism or in chronic care facilities. Normal hosts do not present with \"unusual pathogens'' e.g., Staphylococcus aureus or Pseudomonas aeruginosa. The clinical severity of a bacterial pneumonia has important prognostic implications and predicts admission to intensive care units, duration of therapy, and complications. The factors that determine the severity of a CAP are less related to the pathogen than the underlying cardiopulmonary status of the patient as well as the patient's humoral immunity. Relatively avirulent pathogens may result in severe CAP in patients with diminished/absent splenic function or significant cardiopulmonary disease. A critical concept is to appreciate that the selection of ",
+        "journal": "Seminars in respiratory and critical care medicine",
+        "year": "2000",
+        "authors": [
+          "Cunha B A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16088719/"
+      },
+      {
+        "pmid": "1408383",
+        "title": "[Value of quinolones in the treatment of lower respiratory tract infections caused by intracellular organisms, excluding mycobacteria].",
+        "abstract": "In vitro studies of quinolones against intracellular pathogens responsible for lower respiratory tract infections have shown that growth inhibition varies with the strain and with the drug. Following administration of quinolones, drug levels in the lower respiratory tract are similar to or greater than serum levels. Quinolones penetrate readily into cells. The effectiveness of quinolones in lower respiratory tract infections has been demonstrated in both in vitro intracellular infection models and in vivo animal models. These data show that quinolones are a valid therapeutic alternative for lower respiratory tract infections due to intracellular organisms.",
+        "journal": "Pathologie-biologie",
+        "year": "1992",
+        "authors": [
+          "Chidiac C",
+          "Senneville E",
+          "Mouton Y"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Chlamydia Infections",
+          "Ciprofloxacin",
+          "Enoxacin",
+          "Erythromycin",
+          "Humans",
+          "In Vitro Techniques",
+          "Legionnaires' Disease",
+          "Ofloxacin",
+          "Pefloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1408383/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:22:16.628252",
+  "success": true,
+  "error_message": null
+}

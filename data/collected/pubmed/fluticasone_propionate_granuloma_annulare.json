@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fluticasone Propionate",
+    "disease": "granuloma annulare",
+    "query_string": "Fluticasone Propionate AND granuloma annulare"
+  },
+  "data": {
+    "query": "Fluticasone Propionate AND granuloma annulare",
+    "results": []
+  },
+  "timestamp": "2026-03-04T13:31:42.348658",
+  "success": true,
+  "error_message": null
+}

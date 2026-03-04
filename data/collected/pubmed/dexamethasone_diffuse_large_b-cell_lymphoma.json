@@ -1,0 +1,567 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Dexamethasone",
+    "disease": "diffuse large B-cell lymphoma",
+    "query_string": "Dexamethasone AND diffuse large B-cell lymphoma"
+  },
+  "data": {
+    "query": "Dexamethasone AND diffuse large B-cell lymphoma",
+    "results": [
+      {
+        "pmid": "35717989",
+        "title": "Lisocabtagene maraleucel versus standard of care with salvage chemotherapy followed by autologous stem cell transplantation as second-line treatment in patients with relapsed or refractory large B-cell lymphoma (TRANSFORM): results from an interim analysis of an open-label, randomised, phase 3 trial.",
+        "abstract": "Patients with large B-cell lymphoma (LBCL) primary refractory to or relapsed within 12 months of first-line therapy are at high risk for poor outcomes with current standard of care, platinum-based salvage immunochemotherapy and autologous haematopoietic stem cell transplantation (HSCT). Lisocabtagene maraleucel (liso-cel), an autologous, CD19-directed chimeric antigen receptor (CAR) T-cell therapy, has previously demonstrated efficacy and manageable safety in third-line or later LBCL. In this Article, we report a prespecified interim analysis of liso-cel versus standard of care as second-line treatment for primary refractory or early relapsed (within 12 months after response to initial therapy) LBCL.",
+        "journal": "Lancet (London, England)",
+        "year": "2022",
+        "authors": [
+          "Kamdar Manali",
+          "Solomon Scott R",
+          "Arnason Jon",
+          "Johnston Patrick B",
+          "Glass Bertram"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Dexamethasone",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Rituximab",
+          "Standard of Care",
+          "Thrombocytopenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35717989/"
+      },
+      {
+        "pmid": "20660832",
+        "title": "Salvage regimens with autologous transplantation for relapsed large B-cell lymphoma in the rituximab era.",
+        "abstract": "Salvage chemotherapy followed by high-dose therapy and autologous stem-cell transplantation (ASCT) is the standard treatment for relapsed diffuse large B-cell lymphoma (DLBCL). Salvage regimens have never been compared; their efficacy in the rituximab era is unknown.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2010",
+        "authors": [
+          "Gisselbrecht Christian",
+          "Glass Bertram",
+          "Mounier Nicolas",
+          "Singh Gill Devinder",
+          "Linch David C"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antigens, CD20",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Australia",
+          "Carboplatin",
+          "Chemotherapy, Adjuvant",
+          "Cytarabine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20660832/"
+      },
+      {
+        "pmid": "16702182",
+        "title": "Randomised phase III study of R-ICE versus R-DHAP in relapsed patients with CD20 diffuse large B-cell lymphoma (DLBCL) followed by high-dose therapy and a second randomisation to maintenance treatment with rituximab or not: an update of the CORAL study.",
+        "abstract": "The multicentre phase III CORAL study aims to guide choice of salvage chemotherapy in diffuse large B-cell lymphoma (DLBCL) and assess the role of rituximab maintenance after autologous stem cell transplantation (ASCT). Patients are first randomised between ICE (ifosfamide, carboplatin, etoposide) and DHAP (dexamethasone, ara-C and cisplatin), both combined with rituximab (R-ICE or R-DHAP). After three courses, responders are treated by ASCT with BEAM. A second randomisation then allocates patients to maintenance treatment with rituximab 375 mg/m(2), one injection every 2 months six times, or observation. Accrual to the study is now proceeding well and the planned 400 patients are likely to be enrolled within the next 1.5 years. Results to date are very preliminary but suggest encouraging rates of response. However, they also indicate that initial exposure to rituximab may increase the difficulty of salvaging patients who fail first-line therapy.",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2006",
+        "authors": [
+          "Hagberg H",
+          "Gisselbrecht C"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antigens, CD20",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Carmustine",
+          "Cisplatin",
+          "Combined Modality Therapy",
+          "Cytarabine",
+          "Dexamethasone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16702182/"
+      },
+      {
+        "pmid": "34296427",
+        "title": "Prophylactic corticosteroid use in patients receiving axicabtagene ciloleucel for large B-cell lymphoma.",
+        "abstract": "ZUMA-1 (NCT02348216) examined the safety and efficacy of axicabtagene ciloleucel (axi-cel), an autologous CD19-directed chimaeric antigen receptor (CAR)-T cell therapy, in refractory large B-cell lymphoma. To reduce treatment-related toxicity, several exploratory safety management cohorts were added to ZUMA-1. Specifically, cohort 6 investigated management of cytokine release syndrome (CRS) and neurologic events (NEs) with prophylactic corticosteroids and earlier corticosteroid and tocilizumab intervention. CRS and NE incidence and severity were primary end-points. Following leukapheresis, patients could receive optional bridging therapy per investigator discretion. All patients received conditioning chemotherapy (days -5 through -3), 2 × 106  CAR-T cells/kg (day 0) and once-daily oral dexamethasone [10 mg, day 0 (before axi-cel) through day 2]. Forty patients received axi-cel. CRS occurred in 80% of patients (all grade ≤2). Any grade and grade 3 or higher NEs occurred in 58% and 13% o",
+        "journal": "British journal of haematology",
+        "year": "2021",
+        "authors": [
+          "Oluwole Olalekan O",
+          "Bouabdallah Krimo",
+          "Muñoz Javier",
+          "De Guibert Sophie",
+          "Vose Julie M"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Agents, Immunological",
+          "Biological Products",
+          "Cytokine Release Syndrome",
+          "Dexamethasone",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34296427/"
+      },
+      {
+        "pmid": "40079097",
+        "title": "Real-world comparison of lisocabtagene maraleucel and axicabtagene ciloleucel in large B-cell lymphoma: an inverse probability of treatment weighting analysis with 3-year follow-up.",
+        "abstract": "Lisocabtagene maraleucel (liso-cel) and axicabtagene ciloleucel (axi-cel) are Food and Drug Administration- and European Medicines Agency-approved chimeric antigen receptor (CAR) T-cell therapies for relapsed/refractory large B-cell lymphoma (LBCL). However, comparative real-world analyses of their efficacy and toxicity with extended follow-up are lacking. We conducted a retrospective study of 160 LBCL patients treated at the Fred Hutchinson Cancer Center with commercial liso- cel or axi-cel per standard of care. Using inverse probability of treatment weighting (IPTW) to mitigate treatment allocation bias and multivariable adjustments to minimize other sources of confounding, we assessed the impact of CAR T-cell product type on outcomes. Axi-cel was associated with significantly higher rates of cytokine release syndrome (CRS; grade [G]1+: adjusted odds ratio [aOR] =4.27; P=0.004; G2+: aOR=2.88; P=0.006), immune effector cell-associated neurotoxicity syndrome (ICANS; G1+: aOR=2.10; P=0.",
+        "journal": "Haematologica",
+        "year": "2025",
+        "authors": [
+          "Portuguese Andrew J",
+          "Huang Jennifer J",
+          "Jeon Yein",
+          "Taheri Mahnoosh",
+          "Albittar Aya"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Aged",
+          "Immunotherapy, Adoptive",
+          "Retrospective Studies",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Follow-Up Studies",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40079097/"
+      },
+      {
+        "pmid": "33173198",
+        "title": "The nuclear export protein XPO1 - from biology to targeted therapy.",
+        "abstract": "Exportin 1 (XPO1), also known as chromosome region maintenance protein 1, plays a crucial role in maintaining cellular homeostasis via the regulated export of a range of cargoes, including proteins and several classes of RNAs, from the nucleus to the cytoplasm. Dysregulation of this protein plays a pivotal role in the development of various solid and haematological malignancies. Furthermore, XPO1 is associated with resistance to several standard-of-care therapies, including chemotherapies and targeted therapies, making it an attractive target of novel cancer therapies. Over the years, a number of selective inhibitors of nuclear export have been developed. However, only selinexor has been clinically validated. The novel mechanism of action of XPO1 inhibitors implies a different toxicity profile to that of other agents and has proved challenging in certain settings. Nonetheless, data from clinical trials have led to the approval of the XPO1 inhibitor selinexor (plus dexamethasone) as a f",
+        "journal": "Nature reviews. Clinical oncology",
+        "year": "2021",
+        "authors": [
+          "Azmi Asfar S",
+          "Uddin Mohammed H",
+          "Mohammad Ramzi M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Cell Line, Tumor",
+          "Dexamethasone",
+          "Drug Resistance, Neoplasm",
+          "Hematologic Neoplasms",
+          "Humans",
+          "Hydrazines",
+          "Karyopherins",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Molecular Targeted Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33173198/"
+      },
+      {
+        "pmid": "38701792",
+        "title": "Molecular targets of glucocorticoids that elucidate their therapeutic efficacy in aggressive lymphomas.",
+        "abstract": "Glucocorticoids have been used for decades to treat lymphomas without an established mechanism of action. Using functional genomic, proteomic, and chemical screens, we discover that glucocorticoids inhibit oncogenic signaling by the B cell receptor (BCR), a recurrent feature of aggressive B cell malignancies, including diffuse large B cell lymphoma and Burkitt lymphoma. Glucocorticoids induce the glucocorticoid receptor (GR) to directly transactivate genes encoding negative regulators of BCR stability (LAPTM5; KLHL14) and the PI3 kinase pathway (INPP5D; DDIT4). GR directly represses transcription of CSK, a kinase that limits the activity of BCR-proximal Src-family kinases. CSK inhibition attenuates the constitutive BCR signaling of lymphomas by hyperactivating Src-family kinases, triggering their ubiquitination and degradation. With the knowledge that glucocorticoids disable oncogenic BCR signaling, they can now be deployed rationally to treat BCR-dependent aggressive lymphomas and use",
+        "journal": "Cancer cell",
+        "year": "2024",
+        "authors": [
+          "Choi Jaewoo",
+          "Ceribelli Michele",
+          "Phelan James D",
+          "Häupl Björn",
+          "Huang Da Wei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Glucocorticoids",
+          "Receptors, Antigen, B-Cell",
+          "Animals",
+          "Signal Transduction",
+          "Receptors, Glucocorticoid",
+          "Mice",
+          "Cell Line, Tumor",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Burkitt Lymphoma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38701792/"
+      },
+      {
+        "pmid": "39015647",
+        "title": "Primary Diffuse Large B-Cell Lymphoma of the Breast with MYC and BCL2 Rearrangements with Terminal Deoxynucleotidyl Transferase Expression: A Case Report.",
+        "abstract": "Primary breast lymphoma represents only 1% of non-Hodgkin lymphomas. The most common histology is diffuse large B-cell lymphoma. When dual translocations of MYC and BCL2 or BCL6 occur, it is referred to as \"high-grade B-cell lymphoma with rearrangements of MYC and BCL2 and/or BCL6\" according to the 4th edition of the WHO classification of hematolymphoid tumors. The expression of tdt in this type of malignancy is exceptional.",
+        "journal": "Case reports in oncology",
+        "year": "2024",
+        "authors": [
+          "Matar Bassam",
+          "Chbat Maureen",
+          "Bitar Houssam",
+          "Rosado Francisco"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39015647/"
+      },
+      {
+        "pmid": "35117512",
+        "title": "Chemotherapy-induced thrombocytopenia and platelet transfusion in patients with diffuse large B-cell lymphoma.",
+        "abstract": "Currently, the risk factors associated with chemotherapy-induced thrombocytopenia (CIT) in patients with diffuse large B-cell lymphoma (DLBCL) are still undefined. Our study aimed to analyze the effects of risk factors on thrombocytopenia and to identify the threshold for infusion platelets of CIT patients who have received platelet transfusions.",
+        "journal": "Translational cancer research",
+        "year": "2020",
+        "authors": [
+          "Lu Rong",
+          "Lin Qiaoyan",
+          "Chen Shan",
+          "Ye Xianren"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35117512/"
+      },
+      {
+        "pmid": "37364464",
+        "title": "Primary diffuse large B-cell lymphoma of the kidney: A rare case report and review of literature.",
+        "abstract": "Lymphoma can either be Hodgkin or non-Hodgkin (NHL) with diffuse large B cell lymphoma (DLBL) being a type of the latter with an aggressive behavior. Although it is common for NHL to involve the kidney in its advanced stages, disease that primarily originates from the kidney is rare and therefore poses a diagnostic challenge.",
+        "journal": "International journal of surgery case reports",
+        "year": "2023",
+        "authors": [
+          "Ngowi Bartholomeo Nicholaus",
+          "Bright Frank",
+          "Mremi Alex",
+          "Kimolo Mathias",
+          "Mteta Alfred Kien"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37364464/"
+      },
+      {
+        "pmid": "38191715",
+        "title": "How to improve RCHOP as frontline therapy for diffuse large B-cell lymphoma: a systematic review and meta-analysis of 21 randomized controlled trials.",
+        "abstract": "RCHOP is the standard of care for patients with diffuse large b-cell lymphoma (DLBCL) but failures occur in approximately 40% of them. We performed a meta-analysis of 21 randomized controlled trials (RCTs) comparing experimental regimens with RCHOP. We searched the database of PubMed with proper criteria, and data of efficacy (Progression Free Survival-PFS) in the ITT population were extracted and analyzed. Cross comparisons of RCTs were performed by using the CINEMA software. Odds ratio (OR) and 95% confidence intervals (95%, CI) are reported. The literature search yielded 21 RCTs including 5785 patients in the RCHOP arm and 5648 patients in the experimental arm. Odds ratio (OR) for PFS in the total cohort was OR (95%, CI): 0.87 (0.76-0.99), p=0.02. Among different strategies to improve RCHOP, addition of a novel agent on RCHOP improved PFS. In total 1740 patients in the RCHOP arm were compared with 1755 in the RCHOP plus a novel agent arm, and the OR (95% CI) for PFS was 0.84 (0.71-0",
+        "journal": "Annals of hematology",
+        "year": "2024",
+        "authors": [
+          "Intzes Stergios",
+          "Symeonidou Marianthi",
+          "Zagoridis Konstantinos",
+          "Pentidou Aikaterini",
+          "Bezirgianidou Zoi"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Dexamethasone",
+          "Doxorubicin",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Prednisone",
+          "Progression-Free Survival",
+          "Randomized Controlled Trials as Topic",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38191715/"
+      },
+      {
+        "pmid": "35696785",
+        "title": "Double-drug loading upconversion nanoparticles for monitoring and therapy of a MYC/BCL6-positive double-hit diffuse large B-cell lymphoma.",
+        "abstract": "Diffuse large B-cell lymphoma (DLBCL) is a systemic hematological malignancy. Herein, through whole exome sequencing (WES), we found that DLBCL genome changes and expression characteristics are associated with various immune cells. Lenalidomide (Len) is a leading candidate for the immunomodulatory treatment of multiple myeloma in the clinic. Inspired by lenalidomide as an immunomodulatory drug for the treatment of multiple myeloma, we constructed a multifunctional nanoplatform with therapeutic and imaging properties for DLBCL by co-loading lenalidomide and dexamethasone (Dex) with upconversion nanoparticles using a GSH-sensitive linker (named as UCNPs-Len-Dex). In vitro cell experiments proved that the UCNPs-Len-Dex had good biocompatibility and obvious antitumor efficacy. UCNPs-Len-Dex also exhibited excellent anti-tumor efficacy and imaging properties in vivo. RNA sequencing showed that UCNPs-Len-Dex targeted and activated the E3 ligase of CRBN, resulting in IKZF1/3 degradation, whic",
+        "journal": "Biomaterials",
+        "year": "2022",
+        "authors": [
+          "Yang Yulu",
+          "Chen Rui",
+          "Gong Yi",
+          "Yang Weihu",
+          "Li Ke"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35696785/"
+      },
+      {
+        "pmid": "35727601",
+        "title": "Lenalidomide plus R-GDP (R2-GDP) in Relapsed/Refractory Diffuse Large B-Cell Lymphoma: Final Results of the R2-GDP-GOTEL Trial and Immune Biomarker Subanalysis.",
+        "abstract": "New therapeutic options are needed in relapsed/refractory diffuse large B-cell lymphoma (R/R DLBCL). Lenalidomide-based schedules can reverse rituximab refractoriness in lymphoma.",
+        "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+        "year": "2022",
+        "authors": [
+          "Palazón-Carrión Natalia",
+          "Martín García-Sancho Alejandro",
+          "Nogales-Fernández Esteban",
+          "Jiménez-Cortegana Carlos",
+          "Carnicero-González Fernando"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biomarkers",
+          "Humans",
+          "Lenalidomide",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Lymphoma, Non-Hodgkin",
+          "Neoplasm Recurrence, Local",
+          "Rituximab",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35727601/"
+      },
+      {
+        "pmid": "37748107",
+        "title": "Efficacy of ESHAP versus ICE plus dexamethasone (DICE) as salvage chemotherapy for relapsed or refractory diffuse large B-cell lymphoma.",
+        "abstract": "To compare the efficacy and side effects of salvage chemotherapy between etoposide, methylprednisolone, cytarabine and cisplatin (ESHAP) and ifosfamide, carboplatin and etoposide plus dexamethasone (DICE) for relapsed or refractory diffuse large B-cell lymphoma (DLBCL).",
+        "journal": "Annals of medicine",
+        "year": "2023",
+        "authors": [
+          "Boonlerd Pattamaporn",
+          "Tantiworawit Adisak",
+          "Norasetthada Lalita",
+          "Chai-Adisaksopha Chatree",
+          "Punnachet Teerachat"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Cisplatin",
+          "Etoposide",
+          "Retrospective Studies",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Cytarabine",
+          "Methylprednisolone",
+          "Dexamethasone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37748107/"
+      },
+      {
+        "pmid": "32872060",
+        "title": "Primary breast diffuse large B-cell lymphoma in a patient with systemic lupus erythematosus: A case report and review of the literature.",
+        "abstract": "Pilot studies have reported that patients with systemic lupus erythematosus (SLE) appear more likely to develop into neoplasia, especially lymphatic hyperplasia diseases. To our knowledge, this is the first case report of the concomitant onset of SLE and primary breast diffuse large B-cell lymphoma (PB-DLBCL).",
+        "journal": "Medicine",
+        "year": "2020",
+        "authors": [
+          "Shen Feifei",
+          "Li Gang",
+          "Jiang Huifeng",
+          "Zhao Shupeng",
+          "Qi Fengjie"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Breast",
+          "Breast Neoplasms",
+          "Fatal Outcome",
+          "Female",
+          "Humans",
+          "Kidney Failure, Chronic",
+          "Lupus Erythematosus, Systemic",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Radiography"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32872060/"
+      },
+      {
+        "pmid": "37548344",
+        "title": "Comparative effectiveness of salvage chemotherapy regimens and chimeric antigen T-cell receptor therapies in relapsed and refractory diffuse large B cell lymphoma: a network meta-analysis of clinical trials.",
+        "abstract": "The optimal salvage chemotherapy regimen (SC) for relapsed/refractory (R/R) diffuse large B-cell lymphoma (DLBCL) prior to autologous stem cell transplant remains unclear. Moreover, although chimeric antigen receptor T cell (CAR-T) therapies were recently approved for primary refractory DLBCL, head-to-head comparisons are lacking. We searched MEDLINE, EMBASE and CENTRAL to July 2022, for randomized trials that enrolled adult patients with R/R DLBCL and performed network meta-analyses (NMA) to assess the efficacy of SC and CAR-T therapies. NMA of SC (6 trials, 7 regimens, n = 1831) indicated that rituximab with gemcitabine, dexamethasone, cisplatin (R-GDP) improved OS and PFS over compared regimens. NMA of 3 CAR-T trials (n = 865) indicated that both axi-cel and liso-cel improved PFS over standard of care, with no difference in OS. Our results indicate that R-GDP may be preferred for R/R DLBCL over other SC compared. Longer follow-up is required for ongoing comparative survival analysis",
+        "journal": "Leukemia & lymphoma",
+        "year": "2023",
+        "authors": [
+          "Gong Inna Y",
+          "Aminilari Mahmood",
+          "Landego Ivan",
+          "Hueniken Katrina",
+          "Zhou Qianghua"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "T-Lymphocytes",
+          "Receptors, Chimeric Antigen",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Lymphoma, Non-Hodgkin",
+          "Immunotherapy, Adoptive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37548344/"
+      },
+      {
+        "pmid": "37763082",
+        "title": "Cytotoxic Activity of Melatonin Alone and in Combination with Doxorubicin and/or Dexamethasone on Diffuse Large B-Cell Lymphoma Cells in In Vitro Conditions.",
+        "abstract": "Melatonin (MLT), a pineal gland hormone, not only regulates circadian and seasonal rhythms, but also plays an important role in many aspects of human physiology and pathophysiology. MLT is of great interest as a natural substance with anti-cancer activities. The aim of this study was to assess the cytotoxicity and apoptosis of MLT, used alone or in combination with one of the most active anti-cancer drugs, doxorubicin (DOX), and a well-known anti-inflammatory drug, dexamethasone (DEX), on a diffuse large B-cell lymphoma (DLBCL)-derived cell line. The cytotoxicity and cell cycle distribution were measured using propidium iodide staining, while apoptosis was assessed using the annexin-V binding method. Additionally, to elucidate the mechanisms of action, caspase-3, -8, and -9 and a decline in the mitochondrial potential were determined using flow cytometry. MLT inhibited cell viability as well as induced apoptosis and cell cycle arrest at the G0/G1 phase. The pro-apoptotic effect was exe",
+        "journal": "Journal of personalized medicine",
+        "year": "2023",
+        "authors": [
+          "Mańka Sylwia",
+          "Smolewski Piotr",
+          "Cebula-Obrzut Barbara",
+          "Majchrzak Agata",
+          "Szmejda Klaudia"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37763082/"
+      },
+      {
+        "pmid": "39825138",
+        "title": "Epcoritamab-Induced fatal pleural effusion in diffuse large B-Cell lymphoma: a case report and literature review.",
+        "abstract": "Epcoritamab, a bispecific T-cell engager (BiTE) antibody targeting CD3 and CD20, has shown significant efficacy in treating refractory diffuse large B-cell lymphoma (DLBCL). However, its use can lead to severe side effects, such as tumor flare. Here, we report the case of an 84-year-old male with relapsed DLBCL who developed fatal unilateral pleural effusion following Epcoritamab treatment. Initially, the patient showed a favorable response, but later developed significant pleural effusion with elevated interleukin-6 (IL-6) levels, indicating a severe inflammatory response. This suggests that Epcoritamab directly affected the pleural lesions and caused a local cytokine release syndrome (L-CRS). Despite aggressive management, including Tocilizumab and Dexamethasone, the patient's condition worsened, leading to his death. This case underscores the importance of regular lab tests and imaging follow-ups to monitor and manage severe inflammatory reactions based on tumor location. Comprehens",
+        "journal": "Annals of hematology",
+        "year": "2025",
+        "authors": [
+          "Takahata Atsushi",
+          "Shimada Tomohito",
+          "Bando Kana",
+          "Toyota Shigeo"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Male",
+          "Aged, 80 and over",
+          "Pleural Effusion",
+          "Fatal Outcome",
+          "Antibodies, Bispecific",
+          "Cytokine Release Syndrome",
+          "Pleural Effusion, Malignant",
+          "Antineoplastic Agents, Immunological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39825138/"
+      },
+      {
+        "pmid": "38802107",
+        "title": "Canadian cancer trials group LY.17: A randomized phase II study evaluating novel salvage therapy pre-autologous stem cell transplant in relapsed/refractory diffuse large B-cell lymphoma-outcome of rituximab-dose-intensive cyclophosphamide, etoposide, cisplatin (R-DICEP) versus R-GDP.",
+        "abstract": "The Canadian Cancer Trials Group (CCTG) LY.17 is an ongoing multi-arm randomized phase II trial evaluating novel salvage therapies compared with R-GDP (rituximab, gemcitabine, dexamethasone and cisplatin) in autologous stem cell transplantation (ASCT)-eligible patients with relapsed/refractory diffuse large B-cell lymphoma (RR-DLBCL). This component of the LY.17 trial evaluated a dose-intensive chemotherapy approach using a single cycle of inpatient R-DICEP (rituximab, dose-intensive cyclophosphamide, etoposide and cisplatin) to achieve both lymphoma response and stem cell mobilization, shortening time to ASCT. This report is the result of the protocol-specified second interim analysis of the 67 patients who were randomized to either 1 cycle of R-DICEP or to 3 cycles of R-GDP. The overall response rate (ORR) was 65.6% for R-DICEP and 48.6% for R-GDP. The ASCT rate was 71.9% versus 54.3%, and 1-year progression-free survival rate was 42% versus 32%, respectively, for R-DICEP versus R-GD",
+        "journal": "British journal of haematology",
+        "year": "2024",
+        "authors": [
+          "Stewart Douglas A",
+          "Kuruvilla John",
+          "Lee David",
+          "Dudebout Jill J",
+          "Chua Neil"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Rituximab",
+          "Etoposide",
+          "Cyclophosphamide",
+          "Middle Aged",
+          "Salvage Therapy",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Female",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38802107/"
+      },
+      {
+        "pmid": "33376350",
+        "title": "Primary Diffuse Large B-Cell Lymphoma of the Female Urethra: A Case Report and Review of the Literature.",
+        "abstract": "Primary urethral non-Hodgkin's lymphoma (NHL) is uncommon. This case study reports the case of a 52-year-old woman with a light red mass at the urethral orifice. Her clinical manifestations included frequent urination, urgency, dysuria, and occasionally blood in urine. The tumor was surgically removed, and the pathological and immunohistochemistry examination confirmed the presence of a diffuse large B-cell lymphoma (DLBCL). Examination using positron emission tomography/computed tomography (PET/CT) revealed multiple hypermetabolic lymph nodes next to the external iliac vessels and bilateral inguinal regions, and focal hypermetabolic lesions in the vulvar nodules (consistent with the changes caused by lymphoma infiltration). Eight cycles of chemotherapy with rituximab, cyclophosphamide, doxorubicin, vincristine, and dexamethasone (R-CHOP) were prescribed after surgery. Re-examination using PET/CT showed lack of hypermetabolic tumor recurrence signs, and the presence of multiple slightl",
+        "journal": "OncoTargets and therapy",
+        "year": "2020",
+        "authors": [
+          "Zeng Haiping",
+          "Wang Jun",
+          "Deng Runpei",
+          "Chen Zhiqiang"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33376350/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:18:17.559375",
+  "success": true,
+  "error_message": null
+}

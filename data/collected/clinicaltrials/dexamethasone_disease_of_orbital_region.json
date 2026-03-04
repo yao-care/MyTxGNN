@@ -1,0 +1,942 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Dexamethasone",
+    "disease": "disease of orbital region"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04501367",
+      "title": "Assessing the Efficacy and Safety fo DEXTENZA, Sustained Release Dexamethasone 0.4 mg Insert(s) When Placed Within the Lower Eye Lid Canaliculus or Both the Upper and Lower Canaliculi for the Treatment of Pain, Inflammation, and Cystoid Macular Edema Following 27 Gauge Vitrectomy With Internal Limiting Membrane Peel for the Treatment of Retinal Edema Associated With Macular Pucker.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2021-04-27",
+      "completion_date": "2024-12-31",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Assessing the efficacy and safety of DEXTENZA, sustained release dexamethasone 0.4 mg inserts following 27 gauge vitrectomy with internal limiting membrane peel",
+      "eligibility_criteria": "Inclusion Criteria: A patient's study eye must meet the following criteria to be eligible for inclusion in the study:\n\n* Symptomatic macular pucker with retinal edema\n* Age 18 years and older\n* Scheduled vitrectomy and internal limiting membrane peel\n* Willing and able to comply with clinic visits a",
+      "endpoints": [
+        "Mean change in retina edema"
+      ],
+      "sponsor": "Kovach Eye Institute",
+      "url": "https://clinicaltrials.gov/study/NCT04501367"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05416827",
+      "title": "Evaluation of Intraoperative Slow-release Dexamethasone Implant Used During Vitrectomy for Epiretinal Membrane",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-06-15",
+      "completion_date": "2022-09-15",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "Epiretinal membrane (ERM) is a commonly encountered vitreoretinal interface anomaly with a prevalence of approximately 10% in the adult population. It is often treated with pars plana vitrectomy (PPV) and membrane peeling when symptomatic. PPV is generally successful at improving visual acuity (VA) and/or metamorphopsia. At times, however, visual recovery can be hindered by macular edema in the post-vitrectomy period. Ozurdex can accelerate the resorption of intraretinal edema and hasten the imp",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with a visually significant (BCVA\\<20/50) idiopathic epiretinal membrane.\n* ocular axial length less than 27.00 mm (optical biometry) associated with cataracts.\n\nExclusion Criteria:\n\n* concomitant or previous macular diseases (diabetic macular edema, retinal vein occl",
+      "endpoints": [
+        "CMT",
+        "IOP",
+        "BCVA"
+      ],
+      "sponsor": "Peking University People's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05416827"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00805649",
+      "title": "Combined Therapy in ARMD - Retrospective Case Series",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2008-07",
+      "country": "Germany",
+      "enrollment": 150,
+      "brief_summary": "The purpose of this study is to investigate the efficacy of combined intravitreal therapy with or without prior photodynamic therapy in patients with wet age-related macular degeneration (AMD).\n\nIn patients with wet AMD, a significant improvement in vision was observed after combined intravitreal therapy with or without prior photodynamic therapy. Both the pharmacological effects of the drugs and the physiological effects of the pars plana vitrectomy (posterior vitreous detachment, liquefaction,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Wet age related macular degeneration\n\nExclusion Criteria:\n\n* Opacities in lens or cornea\n* Ongoing intraocular inflammation\n* Trauma",
+      "endpoints": [
+        "Best corrected visual acuity",
+        "Central macular thickness"
+      ],
+      "sponsor": "Johann Wolfgang Goethe University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00805649"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01326585",
+      "title": "Effect of Dexamethasone on Postoperative Symptoms of Scleral Buckling Surgery Patients: a Randomized Control Trial",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2011-04",
+      "completion_date": "2012-04",
+      "country": "Canada",
+      "enrollment": 0,
+      "brief_summary": "Dexamethasone is a medication that has been shown to have clear anti-nausea, anti-inflammatory, and painkilling properties. Dexamethasone is currently used to manage postoperative symptoms of a variety of surgical procedures. However, its effect has not been validated for scleral buckling surgery, which is used to treat retinal detachment, a medical emergency that can lead to permanent blindness. In this study, the investigators will randomly administer dexamethasone to half of scleral buckling ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-79 years old\n* Scheduled for scleral buckle surgery to treat a retinal detachment\n* Consent to participate in study\n\nExclusion Criteria:\n\n* Pregnant or nursing\n* Prior treatment with steroids\n* Severe diabetes mellitus (HbA1c \\> 8%)\n* Use of opioids, sedatives, or any k",
+      "endpoints": [
+        "Subjective Level of Postoperative Nausea",
+        "Subjective Level of Postoperative Pain"
+      ],
+      "sponsor": "University of Toronto",
+      "url": "https://clinicaltrials.gov/study/NCT01326585"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01478737",
+      "title": "A Prospective, Randomized Study on Intravitreal Ozurdex for Preventing Recurrent Vitreous Hemorrhage Following Pars Plana Vitrectomy for Proliferative Diabetic Retinopathy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2016-04",
+      "country": "Sweden",
+      "enrollment": 100,
+      "brief_summary": "To evaluate if intravitreal Ozurdex can reduce the incidence of recurrent vitreous hemorrhage after primary pars plana vitrectomy (PPV) in patients with proliferative diabetic retinopathy (PDRP).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with vitreous hemorrhage undergoing PPV for PDRP\n\nExclusion Criteria:\n\n* Previous PPV\n* Vitreous hemorrhage of non-PDRP origin",
+      "endpoints": [
+        "Reoperation"
+      ],
+      "sponsor": "St. Erik Eye Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01478737"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05138029",
+      "title": "Study on Precision Treatment of Diabetic Retinopathy Macular Edema Guided by Real-time Optical Coherence Tomography During Operation",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-11-15",
+      "completion_date": "2024-05",
+      "country": "China",
+      "enrollment": 60,
+      "brief_summary": "Select Proliferative Proliferative diabetic retinopathy(PDR) patients who are planning to undergo vitrectomy for informed notification. After obtaining informed consent, vitrectomy will be performed. After hemorrhage is removed, the macular shape can be obtained through intraoperative optical coherence tomography (iOCT) real-time scanning. If the central Macular Thickness (CMT) of the patient is ≥250μm, random Enter the Anti-vascular endothelial growth factor (anti-VEGF) treatment group, the int",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PDR patients with severe vitreous hemorrhage who cannot collect oct images and need vitrectomy\n* Type 2 diabetes, aged 18\\~80 years old\n* Good blood sugar control (glycated hemoglobin \\<8.3%)\n* Sign the informed consent form voluntarily, and are willing and able to follow the ",
+      "endpoints": [
+        "Review the patient's vision before surgery"
+      ],
+      "sponsor": "Affiliated Hospital of Nantong University",
+      "url": "https://clinicaltrials.gov/study/NCT05138029"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05012033",
+      "title": "Evaluation of High Dose Prednisolone Pharmacokinetics in the Acute and Chronic Setting",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-04-12",
+      "completion_date": "2026-03-26",
+      "country": "United Kingdom",
+      "enrollment": 120,
+      "brief_summary": "This is a pilot study to investigate serum prednisolone profiles in:\n\n* Patients on high doses of prednisolone for any inflammatory disorder, both in the acute and chronic setting.\n* Patients stepping up from or down to prednisolone therapy in association with a course of high dose methyl-prednisolone or dexamethasone.\n\nThe study will comprise 3 groups, including those started on high doses of prednisolone acutely in an inpatient or outpatient setting, participants on chronically high doses, and",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 18 - 75 years\n* Male or female\n* Participants who are otherwise healthy enough to participate, as determined by pre-study medical history\n* Participants who are able and willing to give written informed consent to participate in the study\n* Group A only: Patients requirin",
+      "endpoints": [
+        "To elucidate differences in prednisolone pharmacokinetics (in patients receiving high dose prednisolone acutely and in the chronic setting).",
+        "To elucidate differences in prednisolone pharmacokinetics (in patients receiving high dose",
+        "To elucidate differences in prednisolone pharmacokinetics (in patients receiving high dose"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT05012033"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04022811",
+      "title": "Bromfenac Ophthalmic Solution 0.1% for Postoperative Ocular Pain and Inflammation Related To Pterygium Surgery",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-10",
+      "completion_date": "2017-10",
+      "country": "China",
+      "enrollment": 60,
+      "brief_summary": "To evaluate the efficacy and ocular safety of bromfenac ophthalmic solution (bromfenac) 0.1% dosed twice daily for the treatment of ocular inflammation and pain after pterygium excision with amniotic membrane transplantation(AMT).",
+      "eligibility_criteria": "Inclusion criteria\n\n1. Patients with unilateral or double pterygium\n2. The gender is not limited, age 45-75 years old\n3. intraocular pressure \\<21mmHg\n4. follow the preoperative and postoperative drug regimen and ensure regular follow-up\n\nExclusion Criteria\n\n1. Patient factors: lack of cooperation a",
+      "endpoints": [
+        "visual analog scale(VAS)",
+        "present pain intensity index(PPI)"
+      ],
+      "sponsor": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT04022811"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02006888",
+      "title": "The Efficacy and Safety of IBI-10090 for the Treatment of Inflammation Associated With Cataract Surgery",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2014-10",
+      "country": "United States",
+      "enrollment": 394,
+      "brief_summary": "The purpose of this study is to determine whether IBI-10090 injection is effective in the treatment of inflammation associated with cataract surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The patient must provide written informed consent by signing the Informed Consent approved by the Institutional Review Board (IRB).\n2. Male or female patients at least 40 years of age scheduled for unilateral cataract surgery by phacoemulsification with posterior chamber intr",
+      "endpoints": [
+        "Number of Participants With Anterior Chamber Cell Clearing"
+      ],
+      "sponsor": "ICON Bioscience Inc",
+      "url": "https://clinicaltrials.gov/study/NCT02006888"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01411696",
+      "title": "Retrospective Study in Patients Receiving Two or More OZURDEX® Injections for Retinal Vein Occlusion (RVO)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-07",
+      "completion_date": "2012-03",
+      "country": "United States",
+      "enrollment": 289,
+      "brief_summary": "This is a retrospective data collection study to evaluate the efficacy, safety, and re-injection interval of OZURDEX® in the treatment of macular edema due to RVO. Following informed consent, there were no patient study visits. All data was collected via chart review.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Macular edema\n* Received at least 2 OZURDEX® injections\n\nExclusion Criteria:\n\n* Received OZURDEX® injections as part of a clinical study",
+      "endpoints": [
+        "Change From Baseline in Best Corrected Visual Acuity (BCVA) 4 to 20 Weeks Following the Last OZURDEX® (Dexamethasone Intravitreal Implant) Injection"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT01411696"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07388069",
+      "title": "A Proof of Concept, Open-label, Two-arm Study to Investigate the Safety and Preliminary Efficacy of TN-001 Topical Eyedrops in Male and Female Patients With Progressive Keratoconus.",
+      "phase": "PHASE1, PHASE2",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2025-12-23",
+      "completion_date": "2027-07-01",
+      "country": "Australia",
+      "enrollment": 20,
+      "brief_summary": "The goal of this clinical trial is to learn if TN-001, a new eye-drop therapy, is safe and well-tolerated in adult patients with progressive keratoconus. It will also provide data on whether this therapy is effective in treating keratoconus.\n\nThe main questions it aims to answer are:\n\nWhat medical problems do participants have when using TN-001 eyedrops? Does TN-001 eyedrop therapy stop keratoconus from progressing further?\n\nParticipants will:\n\nTake TN-001 eyedrops twice a day, every day, for 3-",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants must be 18 to 40 years of age inclusive, at the time of signing the informed consent.\n2. Diagnosed with progressive keratoconus in one or both eyes.\n3. Minimum corneal thickness equal to or greater than 400 microns.\n4. Maximum corneal keratometry of 45 D to 54 D.",
+      "endpoints": [
+        "Participant-reported ocular tolerability score (5-point scale)",
+        "Incidence of ocular and peri-ocular inflammation by slit-lamp examination",
+        "Incidence of corneal scarring and conjunctival inflammation"
+      ],
+      "sponsor": "TheiaNova Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT07388069"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04839549",
+      "title": "Randomized, Open Label, Prospective Study on the Efficacy and Safety of Dextenza Compared to Topical Fluorometholone in Patients With Ocular Rosacea (ROSE Study)",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2020-06-06",
+      "completion_date": "2022-11-29",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "To determine patient preference and treatment outcomes with an intracanalicular dexamethasone (0.4mg) insert compared to a standard steroid drop regimen in the contralateral eye for the treatment of ocular rosacea.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be at least 18 years of age, any gender or race\n* Provide written informed consent\n* Sign the HIPAA form\n* Attend all study visits\n* Take all study medications as directed\n* Be willing to avoid all disallowed medications\n* Be willing to avoid all contact lens wear between Dext",
+      "endpoints": [
+        "Change in OSDI",
+        "Patient preference in treatment therapy"
+      ],
+      "sponsor": "Eye Associates of Central Texas",
+      "url": "https://clinicaltrials.gov/study/NCT04839549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01789437",
+      "title": "Diameters and Wall-to-lumen Ratio of Retinal Arterioles in Patients With Retinal Vein Occlusion.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-06",
+      "completion_date": "2013-01",
+      "country": "Italy",
+      "enrollment": 30,
+      "brief_summary": "to evaluate the wall-to-lumen ratio (WLR) of retinal arterioles in hypertensive patients with retinal vein occlusion (RVO) before and after dexamethasone intravitreal implant 0.7 mg (DEX) compared to a matched control group of normal eyes in non-hypertensive subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ability to provide written informed consent and comply with study assessments for the full duration of the study;\n* age \\> 20 years;\n* decreased visual acuity as a result of clinically detectable ME associated with either CRVO or BRVO;\n* the duration of macular edema was requi",
+      "endpoints": [
+        "change of outer arteriolar diameter",
+        "change of inner arteriolar diameter"
+      ],
+      "sponsor": "Università degli Studi di Brescia",
+      "url": "https://clinicaltrials.gov/study/NCT01789437"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07423442",
+      "title": "Frequency and Intensity of REcurrences in Non-infectious Posterior Uveitis Treated With Fluocinolone Acetonide Implant (FACi): a Multicenter Retrospective Real-world Study",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-06",
+      "completion_date": "2027-01",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Non-infectious posterior uveitis is a chronic inflammatory eye disease that can lead to irreversible retinal damage and visual impairment due to repeated inflammatory relapses.\n\nThe fluocinolone acetonide intravitreal implant is approved for the prevention of inflammatory relapses in this condition, but data from real-world clinical practice remain limited, particularly regarding the intensity of relapses over time.\n\nThis multicenter retrospective observational study aims to evaluate the frequen",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients aged 18 years or older\n* Diagnosis of non-infectious uveitis with posterior segment involvement\n* Presence of uveitic macular edema or persistent posterior segment inflammation\n* Treatment with a fluocinolone acetonide intravitreal implant prior to January 2024\n",
+      "endpoints": [
+        "Intensity of inflammatory recurrences after fluocinolone acetonide implant"
+      ],
+      "sponsor": "Nantes University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07423442"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04687800",
+      "title": "A Randomized, Clinical Investigation of the Dextenza 0.4mg Intracanalicular Insert Delivery System Used in Conjunction With Cataract Surgery Performed in Combination With Minimally Invasive Glaucoma Surgery",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2020-12-01",
+      "completion_date": "2022-10-24",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "To monitor intraocular pressure in glaucoma patients after cataract surgery preformed in conjunction with minimally invasive glaucoma surgery (MIGS)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 or Older\n* Mild-to-moderate primary open angle glaucoma and visually significant cataract with plans to undergo clear cornea cataract surgery with Phacoemulsification and implantation of posterior chamber IOL combined with minimally invasive glaucoma surgery ( MIGS) pro",
+      "endpoints": [
+        "Mean Intraocular Pressure from Baseline"
+      ],
+      "sponsor": "The Eye Associates",
+      "url": "https://clinicaltrials.gov/study/NCT04687800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06235567",
+      "title": "Comparison of Intracanalicular Steroid-eluting Insert (Dextenza) to Topical Steroid Eye Drops for the Postoperative Management of Corneal Collagen Crosslinking",
+      "phase": "PHASE1, PHASE2",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2025-04-11",
+      "completion_date": "2026-06",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This study aims to compare the use of Dextenza, an FDA-approved intracanilular drug-eluting insert that is designed to deliver a tapered dose of dexamethasone to the ocular surface for 30 days, to the standard of care, or the use of a month-long topical prednisolone acetate 1% (PredForte) eye drops starting from four times daily. Following treatment, Dextenza resorbs and exits the nasolacrimal system without the need for removal. Three prior phase 3 clinical trials have demonstrated that Dextenz",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The study will enroll patients age 13 and up with progressive keratoconus (KCN) who are scheduled for bilateral epithelial off corneal collagen cross-linking (CXL) with Photrexa. A patient's study eye must meet the following criteria to be eligible for inclusion in the study:\n",
+      "endpoints": [
+        "Corneal haze",
+        "Corneal re-epithelialization",
+        "Keratometry"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT06235567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03480607",
+      "title": "Comparative Evaluation of Dexamethasone and Dexmedetomidine as Adjuvants for Bupivacaine in Ultrasound Guided Infraorbital Nerve Block in Infants for Cleft Lip Repair",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-08-01",
+      "completion_date": "2018-05-10",
+      "country": "Egypt",
+      "enrollment": 44,
+      "brief_summary": "To assess the efﬁcacy of dexamethasone versus dexmedetomidine as adjuncts to bupivacaine for infra-orbital nerve block in infants undergoing cleft lip surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* American society of anesthesiologist (ASA) physical status I or II\n\nExclusion Criteria:\n\n* known allergy to any of drugs used\n* coagulopathy\n* any wound or infection related to puncture site\n* major illness\n* failure to gain consent of parents.",
+      "endpoints": [
+        "Postoperative FLACC scale",
+        "Postoperative sedation score"
+      ],
+      "sponsor": "Mansoura University",
+      "url": "https://clinicaltrials.gov/study/NCT03480607"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01030601",
+      "title": "Analysis of the Effect of Intravitreal Dexamethasone Injection on Diabetic Macular Edema After Cataract Surgery (IDDMECS)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2011-01",
+      "country": "Canada",
+      "enrollment": 48,
+      "brief_summary": "Macular Edema (Swelling of a particular site of the retina) can become a significant problem for Diabetics undergoing Cataract surgery. And a significant number of people who undergo Cataract surgery each year are diabetics. And when you multiply these two factors together you are left with a significant number of people who do not gain as much vision as their peers. Diabetics who develop Macular Edema actually can loose some vision after surgery and when you follow them up, they don't gain as m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetic patients for Cataract Surgery with vision of ≤ 20/50 and \\> grade 3 any cataract type using the Lens Opacities Classification System III. Diabetics included must have at least one microaneurysm in the posterior pole (defined by the Superior and Inferior Arcade).\n\nExcl",
+      "endpoints": [
+        "Central Retinal Thickness"
+      ],
+      "sponsor": "University Health Network, Toronto",
+      "url": "https://clinicaltrials.gov/study/NCT01030601"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00445965",
+      "title": "Phase II Study of Intrathecal I-3F8 in Patients With GD2-Expressing Central Nervous System and Leptomeningeal Neoplasms",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2023-02-01",
+      "country": "United States",
+      "enrollment": 78,
+      "brief_summary": "RATIONALE: Radiolabeled monoclonal antibodies, such as iodine I 131 monoclonal antibody 3F8, can find tumor cells and carry tumor-killing substances to them without harming normal cells. This may be an effective treatment for central nervous system cancer or leptomeningeal metastases.\n\nPURPOSE: This phase II trial is studying the side effects and how well iodine I 131 monoclonal antibody 3F8 works in treating patients with central nervous system cancer or leptomeningeal cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have a histologically confirmed diagnosis of a malignancy known to expressGD2. Such tumors include medulloblastoma/primitive neuroectodermal tumor of the CNS, high grade astrocytomas, malignant glioma, neuroblastoma, retinoblastoma, ependymoma, rhabdoid tumors, s",
+      "endpoints": [
+        "Six-month Overall Survival",
+        "Number of Participants With Response at 6 Months"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00445965"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05814757",
+      "title": "A Randomized, Double-masked, Study to Evaluate the Efficacy and Safety of OTX-DED (Dexamethasone Intracanalicular Ophthalmic Insert) for the Short-term Treatment of the Symptoms of Dry Eye Disease (DED)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2023-05-11",
+      "completion_date": "2024-05-22",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "To assess the efficacy and safety of OTX-DED for the short-term treatment of the symptoms of DED",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* VAS eye dryness severity score ≥ 35 and ≤ 90 at screening.\n* Investigator assessment of bulbar conjunctival hyperemia grade ≥ 2 (CCLRU; 0 - 4 scale).\n* Unanesthetized Schirmer of \\> 0 and ≤ 10 mm.\n* Must not have used Artificial Tears during the Screening period.\n* IOP in both",
+      "endpoints": [
+        "Severity of Eye Dryness Score (visual analogue scale (VAS))"
+      ],
+      "sponsor": "Ocular Therapeutix, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05814757"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05191706",
+      "title": "A Phase 3/4, Prospective, Randomized, Active Treatment-Controlled, Parallel-Design, Multicenter Study to Evaluate the Safety of DEXYCU for the Treatment of Inflammation Following Ocular Surgery for Childhood Cataract",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2022-01-04",
+      "completion_date": "2026-02",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "A Phase 3/4, Prospective, Randomized, Active Treatment-Controlled, Parallel-Design, Multicenter Study to Evaluate the Safety of DEXYCUfor the Treatment of Inflammation Following Ocular Surgery for Childhood Cataract",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Undergoing uncomplicated cataract surgery with or without a posterior chamber intraocular lens (IOL) implantation.\n* If a contact lens is used for correction of post-operative aphakia, it must be a silicone elastomer lens or a rigid gas permeable lens (no water content).\n* Oth",
+      "endpoints": [
+        "Grade of anterior chamber cells (ACC)"
+      ],
+      "sponsor": "EyePoint Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05191706"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01228149",
+      "title": "Investigation of the Efficacy and Safety of Preoperative Intraocular Pressure (IOP) Reduction With Preservative-free COSOPT-S® (Dorzolamide/Timolol, MSD) Eye Drops Versus Oral Acetazolamide and Dexamethasone Eye Drops",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2014-04",
+      "country": "Germany",
+      "enrollment": 62,
+      "brief_summary": "The most common cause of post-trabeculectomy filtration failure is postoperative scarring. Long-term preoperative treatment with local antiglaucoma agents containing preservatives has an increased risk of post-operative scarring of the filtration bleb. Therefore many surgeons prepare their patients for planned trabeculectomy by discontinuing local antiglaucoma drugs, controlling IOP with oral acetazolamide, and treating the eye with local steroids.\n\nPreservative-free COSOPT-S® eye drops b.i.d no",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients aged 18 years or older\n* Caucasian\n* A clinical diagnosis of open angle glaucoma, pseudoexfoliation or pigment dispersion glaucoma, or ocular hypertension in one or both eyes\n* Planned trabeculectomy\n* Previous treatment with antiglaucoma agents contain",
+      "endpoints": [
+        "Change in Intraocular Pressure (IOP) (ΔIOP) Three Months After Trabeculectomy in Comparison to the Mean Preoperative IOP"
+      ],
+      "sponsor": "Johannes Gutenberg University Mainz",
+      "url": "https://clinicaltrials.gov/study/NCT01228149"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02644720",
+      "title": "Neural Compensation, Visual Function and Visual Quality in Senile Cataract Patients After Monofocal or Multifocal Intraocular Lens Implantation",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2014-01",
+      "completion_date": "2019-01",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "Multifocal intraocular lenses (MIOLs) provide enhanced far and near visual acuity, but they can bring about halos and glare, which are caused by design deficiencies of the IOLs. Compared to monofocal intraocular lens, pseudo accommodation in nonphysiological state may increase the difficulty of neural compensation reconstruction in patients with multifocal intraocular lens implantation. Patients enrolled into the study will be followed for 1 year and will have study visits preoperatively, at 1 w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* visual acuity less than 0.3\n* Cataracts in both eyes classified by the Lens Opacity Classification System III\n* Corneal astigmatism less than 1.5 diopters (D)\n* Capability of understanding and signing the informed consent\n\nExclusion Criteria:\n\n* Corneal astigmatism ≥ 1.5D.\n* H",
+      "endpoints": [
+        "Change from contrast sensitivity",
+        "Change from functional magnetic resonance imaging"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02644720"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01805323",
+      "title": "A Retrospective Chart Review of OZURDEX® in Patients With Macular Edema",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-09-01",
+      "completion_date": "2013-04-15",
+      "country": "Canada",
+      "enrollment": 101,
+      "brief_summary": "This retrospective chart review study will describe the history of patients with retinal disease with macular edema to whom OZURDEX® (dexamethasone intravitreal implant) is administered, and assess treatment patterns and visual outcomes. OZURDEX® was previously administered according to general clinical practice.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Retinal disease involving macular edema\n* Received at least one OZURDEX® injection\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Peak Mean Change From Baseline in Best Corrected Visual Acuity (BCVA)"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT01805323"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01027650",
+      "title": "Safety and Efficacy of AGN208397 in the Treatment of Macular Edema Associated With Retinal Vein Occlusion (RVO)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-03",
+      "completion_date": "2013-02",
+      "country": "Israel, Australia, Canada, South Africa, United States",
+      "enrollment": 121,
+      "brief_summary": "This study will evaluate the safety and efficacy of a single intravitreal injection of AGN208397 to treat Macular Edema associated with Retinal Vein Occlusion. This study is being conducted in two stages: Stage 1 will enroll approximately 21 subjects who will receive a single open label intravitreal injection of either 75 ug, 300 ug, 600 ug or 900 ug of AGN208397 and be followed for 12 months post treatment; based on Stage 1 results, Stage 2 will enroll approximately 96 subjects who will receive",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* macular edema due to retinal vein occlusion\n* visual acuity in the study eye between 20/320 to 20/40\n\nExclusion Criteria:\n\n* cataract surgery or Lasik within 3 months prior to study Day 1 or anticipated need for cataract surgery during study period (12 months)\n* use of injecta",
+      "endpoints": [
+        "Change From Baseline at Month 1 in Retinal Thickness in the Study Eye During Stage 1",
+        "Change From Baseline at Month 1 in Retinal Thickness in the Study Eye During Stage 2",
+        "Change From Baseline at Month 1 in Best Corrected Visual Acuity (BCVA) in the Study Eye During Stage 1"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT01027650"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01408082",
+      "title": "A Randomized, Double-Masked, Parallel-Group, Comparative Study to Evaluate the Clinical Efficacy and Safety of ISV-502 Compared to AzaSite Alone, Dexamethasone Alone, and Vehicle in the Treatment of Subjects With Non-Bacterial Blepharitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2013-06",
+      "country": "United States",
+      "enrollment": 917,
+      "brief_summary": "The purpose of this study is to evaluate the clinical efficacy and safety of ISV-502 compared to AzaSite® alone, Dexamethasone alone, and vehicle in the treatment of subjects with Non-bacterial Blepharitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Are at least 18 years of age at Visit 1 (Day 1, Baseline) of either sex and any race.\n* Signature of the subject or legally authorized representative on the Informed Consent Form.\n* Are willing and able to follow all instructions and attend all study visits.\n* Are willing to a",
+      "endpoints": [
+        "Clinical Resolution",
+        "Recurrence of Clinical Signs and Symptoms"
+      ],
+      "sponsor": "Sun Pharmaceutical Industries Limited",
+      "url": "https://clinicaltrials.gov/study/NCT01408082"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07358312",
+      "title": "Traumatic Brain Injury - Efficacy of Steroids in Acute Vasogenic Edema",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03-01",
+      "completion_date": "2029-12-01",
+      "country": "N/A",
+      "enrollment": 280,
+      "brief_summary": "The goal of this observational study is to learn about the impact of dexamethasone treatment in traumatic brain injury patients with vasogenic edema in the second week after the trauma, administered in centers where this intervention has been considered to treat brain edema. The main question it aims to answer is: Does dexamethasone in a regimen of 8mg/8h for 5 days improve vasogenic edema in patients after 5 days of their trauma? Participants already receiving this treatment as part of their re",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18 and 70 years.\n* Mild or moderate TBI, treated in the emergency department within the first 24-72 hours post-trauma.\n* Abnormal CT scan with cerebral contusion, with or without midline shift \\>3 mm, and/or compression of basal cisterns.\n* At least 2 systems with ",
+      "endpoints": [
+        "Score of every patient in the Glasgow Outcome Scale - Extended (GOS-E) one month after the event"
+      ],
+      "sponsor": "Meditech Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT07358312"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03180255",
+      "title": "Multi-Center, Double-Masked, Randomized, Placebo-Controlled Phase 2b Clinical Trial Designed to Evaluate the Safety and Efficacy of Iontophoretic Dexamethasone Phosphate Ophthalmic Solution in Patients Having Undergone Cataract Surgery With Implantation of a Posterior Chamber Intraocular Lens (IOL)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-07-26",
+      "completion_date": "2017-11-27",
+      "country": "United States",
+      "enrollment": 101,
+      "brief_summary": "Phase 2b trial evaluating the safety and efficacy of EGP-437, versus placebo using the EyeGate® II Drug Delivery System (EGDS) in patients having undergone cataract surgery with implantation of a monofocal posterior chamber intraocular lens (IOL).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Undergoing unilateral cataract extraction and implantation of a monofocal IOL (at the time of enrollment)\n2. Age 18 to 85 years\n3. Receive, understand, and sign a copy of the written informed consent form (ICF)\n4. Are able to return for all study visits and willing to comply ",
+      "endpoints": [
+        "AC cell count = 0",
+        "Pain score = 0"
+      ],
+      "sponsor": "Eyegate Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03180255"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04322500",
+      "title": "Intestinal Microbiota: a New Target for Chalaziosis Treatment in Children",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-02-01",
+      "completion_date": "2020-02-29",
+      "country": "Italy",
+      "enrollment": 26,
+      "brief_summary": "There is growing evidence encouraging the use of probiotics in many conditions in children. The aim of the investigator's study is to define the possible beneficial impact of probiotics on paediatric patients affected by chalaziosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* paediatric patients\n* presence of one or more eyelid mass lesions (history of rapid onset of painful inflamed mass that had reached a stationary size for more than 2 months)\n\nExclusion Criteria:\n\n* eyelid infection\n* chalazion duration \\< 1 month\n* nonpalpable chalazion\n* susp",
+      "endpoints": [
+        "Time Taken for a Complete Resolution of the Chalaziosis",
+        "Number of Recurrences"
+      ],
+      "sponsor": "University of Molise",
+      "url": "https://clinicaltrials.gov/study/NCT04322500"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05023304",
+      "title": "In Clinic Optometrist Insertion of Dextenza Prior to Cataract Surgery",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2021-08-23",
+      "completion_date": "2022-10-01",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "To evaluate the clinical outcomes with optometrist pre-surgical insertion of DEXTENZA in the clinical office setting in patients undergoing same-day cataract surgery compared to standard of care steroid therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients 18 years of age or older, undergoing routine, uncomplicated, sequential bilateral cataract surgery.\n* Willing and able to comply with clinic visits and study related procedures\n* Willing and able to sign the informed consent form\n\nExclusion Criteria:\n\n* Patients under",
+      "endpoints": [
+        "Mean Anterior Chamber Cell/Flare Score",
+        "Mean Anterior Chamber Cell/Flare Score",
+        "Number of Eyes With No Cell or Flare Measured"
+      ],
+      "sponsor": "Vance Thompson Vision",
+      "url": "https://clinicaltrials.gov/study/NCT05023304"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05372562",
+      "title": "Risk Factors for the Recurrent Postoperative Macular Edema Treated With OZURDEX",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-07-01",
+      "completion_date": "2022-04-30",
+      "country": "China",
+      "enrollment": 30,
+      "brief_summary": "Patients who were diagnosed as postoperative CME and administrated with intravitreal OZURDEX injection were reviewed. Outcome will include best-corrected visual acuity (BCVA), intraocular pressure (IOP) and central macular thickness (CMT). Recurrent CME and corresponding treatments were recorded.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients who were diagnosed as postoperative CME after successful phacoemulsification or vitrectomy and administrated with intravitreal dexamethasone implant (OZURDEX, Allergan, Inc, California, USA) injection were reviewed.\n\nExclusion Criteria:\n\n* patients with retinal vascul",
+      "endpoints": [
+        "Best corrected visual acuity"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT05372562"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03971279",
+      "title": "Long Term Efficacy of Dexamethasone Intravitreal Implant (Ozurdex®) in Treatment of Recurrent VKH Uveitis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-01-01",
+      "completion_date": "2019-11-22",
+      "country": "United Arab Emirates",
+      "enrollment": 16,
+      "brief_summary": "VKH disease is a vision threatening condition.The investigators consider that ozurdex intravitreal implant is an effective line of treatment in recurrent VKH posterior uveitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Recurrent VKH posterior uveitis\n\nExclusion Criteria:\n\n* retinal pathology, other causes of posterior uveitis",
+      "endpoints": [
+        "Best corrected visual acuity (BCVA)"
+      ],
+      "sponsor": "Benha University",
+      "url": "https://clinicaltrials.gov/study/NCT03971279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01298076",
+      "title": "A Multicentre Randomised Clinical Trial of Intravitreal Bevacizumab (Avastin®) Versus Intravitreal Dexamethasone (Ozurdex™) for Persistent Diabetic Macular Oedema",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2014-09",
+      "country": "Australia",
+      "enrollment": 61,
+      "brief_summary": "The specific aims of the study are to test the following hypotheses:\n\n* That there is a difference in change in visual acuity resulting from treatment with intravitreal bevacizumab compared with dexamethasone implant in eyes with advanced macular oedema\n* That there is a difference in degree of resolution of macular oedema resulting from treatment with intravitreal bevacizumab compared with dexamethasone implant in eyes with advanced macular oedema\n* That both intravitreal bevacizumab and dexame",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>= 18 years\n* Diagnosis of diabetes mellitus types 1 or 2\n* Diabetic macular oedema affecting the fovea in one or both eyes (phakic or pseudophakic) for which laser treatment is unlikely to be helpful in the opinion of the centre chief investigator\n* Best corrected visual",
+      "endpoints": [
+        "Visual acuity gain"
+      ],
+      "sponsor": "University of Sydney",
+      "url": "https://clinicaltrials.gov/study/NCT01298076"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03383328",
+      "title": "Effect of Drop-less Surgery Compared to Topical NSAID Alone and Combination of Steroid and NSAID on Central Macular Thickness After Cataract Surgery, a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-02-01",
+      "completion_date": "2019-12-18",
+      "country": "Denmark",
+      "enrollment": 470,
+      "brief_summary": "The purpose of this study is to investigate which anti-inflammatory treatment is best at preventing postoperative inflammation following cataract surgery. We want to compare topical prophylaxis with NSAID eye drops to topical prophylaxis with a combination of NSAID and prednisolone. We also want to compare topical prophylaxis with eye drops to drop-less surgery where the anti-inflammatory drug is administered to the subtenonal space at the conclusion of the surgical procedure. In addition, we wa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with age-related cataracts\n* Older than 18 years\n* Women must be postmenopausal. Women are asked if they have menstruated within the preceding 12 months.\n* Capacity to consent\n* Scheduled to undergo cataract surgery at the ophthalmic department at Rigshospitalet-Glost",
+      "endpoints": [
+        "Central macular thickness"
+      ],
+      "sponsor": "Rigshospitalet, Denmark",
+      "url": "https://clinicaltrials.gov/study/NCT03383328"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02767219",
+      "title": "The Use of Bevacizumab as a Modulator of Wound Healing Following Trabeculectomy Surgery: A Single Centre Randomised Controlled Phase III Pilot Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-05",
+      "completion_date": "2019-05",
+      "country": "United Kingdom",
+      "enrollment": 6,
+      "brief_summary": "This is a phase III randomised controlled pilot study which aims to assess the effectiveness of the use of bevacizumab in patients who have undergone trabeculectomy surgery, which appear to be showing early signs of failure.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18 to 85 years, inclusive\n2. Patient must have undergone standard trabeculectomy augmented with Mitomycin C, within the past 4-6 weeks.\n3. Patients who in the clinician's opinion are mounting an aggressive wound healing response and demonstrate objective increase in bleb ",
+      "endpoints": [
+        "Time taken to recruit 30 subjects (from start of study)",
+        "Proportion of patients who are eligible who agree to be randomized",
+        "Proportion of patients who are lost to follow up or who withdraw from the study"
+      ],
+      "sponsor": "Moorfields Eye Hospital NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT02767219"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05372315",
+      "title": "A Randomized, Controlled Study to Evaluate the Safety and Effectiveness of Treatment With an Intracanalicular Dexamethasone (0.4mg) Ophthalmic Insert in the Operating Room Following Cataract Surgery/Intraocular Lens Implant (IOL).",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-06-15",
+      "completion_date": "2022-10-31",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "To assess the safety and effectiveness of treatment with an intracanalicular dexamethasone (0.4mg) insert in the operating room following cataract surgery/intraocular lens implant (IOL) with or without iStent/Hydrus/Goniotomy when placed in the lower punctum compared to the upper punctum.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects will be eligible for study participation if they:\n\n1. Are planning to undergo non-complicated CCI CE/PCIOL in one or both eyes with or without iStent/Hydrus/Goniotomy.\n2. Are willing and able to comply with clinic visits and study related procedures.\n3. Are willing and ",
+      "endpoints": [
+        "Participants With Complete Absence of Ocular Pain at Day 8",
+        "Participants With Zero Cells on Day 14"
+      ],
+      "sponsor": "Iworks Laser and Vision Center",
+      "url": "https://clinicaltrials.gov/study/NCT05372315"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01571232",
+      "title": "Ozurdex for Treatment of Recalcitrant Diabetic Macular Edema.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2015-03",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this study is to test the efficacy of an 0.7 mg intravitreal dexamethasone implant (Ozurdex®) on macular leakage and visual acuity for patients with recalcitrant diabetic macular edema.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Presence of NPDR or PDR as confirmed by fluorescein angiography\n* Prior treatment with \\>= 2 intravitreal anti-VEGF injections but no treatment in last 4 weeks\n* \\< 0.1 LogOCT decrease in macular edema on high resolution OCT between initial visit and following treatment with \\",
+      "endpoints": [
+        "The Change in Visual Acuity (Number of ETDRS Letters).",
+        "The Change in Central Foveal Thickness (Microns on High Resolution OCT)."
+      ],
+      "sponsor": "Retina Macula Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01571232"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02287298",
+      "title": "Triple Combination Therapy of Choroidal Neovascularization in Exudative Age-related Macular Degeneration - a Cost Effect and Efficient Therapeutic Treatment",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-08",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 400,
+      "brief_summary": "We propose to undertake a retrospective review of approximately 200 patients with a diagnosis of exudative macular degeneration treated with triple combination therapy (Bevacizumab, Dexamethasone and Photo-dynamic therapy) during the years of 2006 to 2010 at The Retina Center and compare those results with an additional group of approximately 200 patients also treated with triple combination therapy and 20 mg of daily oral zeaxanthin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- MUST HAVE AGE RELATED MACULAR DEGENERATION\n\nExclusion Criteria:\n\n\\-",
+      "endpoints": [
+        "BEST CORRECTED VISUAL ACUITY"
+      ],
+      "sponsor": "The Retina Center of St. Louis County, PC",
+      "url": "https://clinicaltrials.gov/study/NCT02287298"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02007174",
+      "title": "Triple Subconjunctival Bevacizumab Injection for Early Recurrent Pterygium. One Year Follow-up",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2013-08",
+      "country": "Mexico",
+      "enrollment": 38,
+      "brief_summary": "Blockade of vascular endothelial growth factor (VEGF) with bevacizumab has been used to treat abnormal vascular conditions of the anterior segment of the eye. In pterygium, anti-VEGF agents have been recently proposed as primary treatments, such as perioperative adjuvants, as well as treatments for pterygia recurrences after surgery. The aim of the present study was to prospectively evaluate the effect of three subconjunctival bevacizumab injections in patients with an early pterygium recurrence",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with an early pterygium recurrence were selected and invited to participate in the study. Recurrence was defined as the presence of corneal vessels with concomitant conjunctival hyperemia within the first trimester after primary pterygium removal, and only patients wi",
+      "endpoints": [
+        "Pterygium recurrence"
+      ],
+      "sponsor": "Instituto de Oftalmología Fundación Conde de Valenciana",
+      "url": "https://clinicaltrials.gov/study/NCT02007174"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01449682",
+      "title": "Efficacy of an Intravitreal Dexamethasone Implant on Macular Function in Retinal Vein Occlusion Following Treatment With Intravitreal Anti-VEGF Injections.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2013-02",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "To test the efficacy of a 0.7 mg intravitreal dexamethasone implant (Ozurdex®) on macular function and recalcitrant macular edema associated with retinal vein occlusion following treatment with 2 or more prior intravitreal anti-VEGF drug injections.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Presence of central retinal vein occlusion (CRVO) or branch retinal vein occlusion (BRVO)\n* Prior treatment with \\>= 2 intravitreal anti-VEGF injections but no treatment in last 45 days.\n* Age 18 years or older\n* ETDRS Visual acuity between 3 and 72 letters and approximate Sne",
+      "endpoints": [
+        "Macular Function Using Microperimetry",
+        "Macular Function Using Multi-focal ERG"
+      ],
+      "sponsor": "Retina Macula Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01449682"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02121262",
+      "title": "Dexamethasone Posterior Segment Drug Delivery System Versus Laser Photocoagulation in Patients With Diabetic Macular Edema",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-01-08",
+      "completion_date": "2019-11-01",
+      "country": "China, Philippines",
+      "enrollment": 284,
+      "brief_summary": "This study will evaluate the safety and efficacy of 700 μg dexamethasone versus laser photocoagulation in participants with diabetic macular edema (DME).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of diabetes mellitus (type 1 or type 2)\n* Presence of macular edema\n\nExclusion Criteria:\n\n* Anticipated need for ocular surgery in the study eye during the study\n* Laser photocoagulation in the study eye within 3 months\n* Cataract surgery within 3 months",
+      "endpoints": [
+        "Average Change From Baseline (CFB) in Best Corrected Visual Acuity (BCVA) in the Study Eye"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT02121262"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00881673",
+      "title": "A Single-Center, Randomized, Double-Masked, Placebo-Controlled Evaluation of the Efficacy of AL-38583 in the Reduction of Tear Eosinophil Count Following Conjunctival Allergen Challenge (CAC)",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2009-05",
+      "completion_date": "2009-05",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of the study is to determine whether Al38583 Ophthalmic Solution is safe and effective in reducing tear eosinophil levels at 5-8 hours after Conjunctival Allergen Challenge (CAC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have a positive bilateral CAC reaction (\\>2 itching and \\> conjunctival redness) to cat hair, cat dander, dust mites, cockroaches and/or dog dander within 10 minutes of instillation of the last titration of allergen at Visit 1\n\nExclusion Criteria:\n\n* Have a known allergy to th",
+      "endpoints": [
+        "The primary efficacy variable is mean change in tear eosinophil level at Visit 7 post-CAC from Visit 2 post-CAC."
+      ],
+      "sponsor": "Alcon Research",
+      "url": "https://clinicaltrials.gov/study/NCT00881673"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00579020",
+      "title": "An Evaluation of Moxidex Ophthalmic Solution for Treatment of Marginal Corneal Infiltrates",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2007-12",
+      "completion_date": "2009-02",
+      "country": "United States",
+      "enrollment": 144,
+      "brief_summary": "The purpose of the study is to determine whether Moxidex ophthalmic solution is safe and effective in treating marginal corneal infiltrates.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of marginal corneal infiltrates of size equal to or less than 1.5mm in diameter, with mild, moderate or severe bulbar conjunctival injection in at least one eye.\n* Other protocol-defined inclusion criteria may apply.\n\nExclusion Criteria:\n\n* Age related.\n* Other proto",
+      "endpoints": [
+        "Percentage of patients with resolution of all corneal stromal infiltrate(s) in study eye at Test of Cure (TOC) Visit (Day 10)"
+      ],
+      "sponsor": "Alcon Research",
+      "url": "https://clinicaltrials.gov/study/NCT00579020"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01445626",
+      "title": "A Retrospective Data Collection Study in Patients Receiving Dexamethasone Intravitreal Implant (Ozurdex®) for Macular Oedema Due to Retinal Vein Occlusion (RVO)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2012-01",
+      "country": "Germany",
+      "enrollment": 87,
+      "brief_summary": "This study will use retrospective data to evaluate the efficacy, safety, and re-injection interval of OZURDEX® in the treatment of macular oedema due to Retinal Vein Occlusion (RVO).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Macular oedema in the study eye due to BRVO or CRVO\n* Received at least 2 OZURDEX® injections in the study eye\n\nExclusion Criteria:\n\n* Received OZURDEX® injections as part of or during any clinical study",
+      "endpoints": [
+        "Time to OZURDEX® Re-injection"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT01445626"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04539548",
+      "title": "A Randomized, Parallel-Arm, Active Control, Multi-Center Study Assessing the Safety And Efficacy Of Dextenza® for the Treatment Of Ocular Pain and Inflammation Following Surgery for Pediatric Cataract",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-09-04",
+      "completion_date": "2023-12-21",
+      "country": "United States",
+      "enrollment": 65,
+      "brief_summary": "To assess the safety of Dextenza compared to an active control, prednisolone acetate suspension, for the treatment of postoperative pain and inflammation following ocular surgery for pediatric cataract.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Is 0-5 years of age (up to the day before the subject turns 6 years of age). In the event that a subject aged 0-5 years enrolls in the study and then undergoes a second cataract surgery in the contralateral eye during the study period, the subject remains eligible for particip",
+      "endpoints": [
+        "Adverse Events",
+        "Subject FLACC Pain Assessment",
+        "IOP"
+      ],
+      "sponsor": "Ocular Therapeutix, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04539548"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01424735",
+      "title": "Outcomes of TLR-9 Antagonism in Steroid Resistant Optic Neuritis; A Pilot Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2010-05",
+      "country": "India",
+      "enrollment": 8,
+      "brief_summary": "Although idiopathic steroid resistant optic neuritis is very uncommon, there is no established treatment protocol for such patients. Toll like receptors (TLRs) especially TLR-9 has been shown to play a role in the pathogenesis of optic neuritis. This small case series aims to determine whether immunomodulators directed specifically at TLR-9(i.e. TLR-9 antagonism)play any role in improving the visual function in such patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nUnilateral Steroid Resistant Optic Neuritis\n\nExclusion Criteria:\n\n* bilateral optic neuritis\n* Associated Systemic disease\n* Prior treatment received",
+      "endpoints": [
+        "Improvement in all aspects of visual function"
+      ],
+      "sponsor": "Sudhalkar Eye Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01424735"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04050644",
+      "title": "Comparison of Treatment With Preservative-free Dexamethasone 0.1% (Monofree Dexamethason) and Diclofenac 0.1% (Dicloabak) Eye Drops Versus Preserved Dexamethasone 0.1% (Maxidex) and Diclofenac 0.1% (Voltaren Ophtha) Eye Drops After Cataract Surgery",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2018-10-30",
+      "completion_date": "2024-12",
+      "country": "Belgium",
+      "enrollment": 100,
+      "brief_summary": "To compare treatment with preservative-free dexamethasone 0.1% (Monofree Dexamethason) and diclofenac 0.1% (Dicloabak) eye drops versus preserved dexamethasone 0.1% (Maxidex) and diclofenac 0.1% (Voltaren Ophtha) eye drops after cataract surgery in terms of postoperative inflammation, iatrogenic dry eye disease and cystoid macular edema.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with age-related cataract\n* Age 60 years or above\n\nExclusion Criteria:\n\n* Unwilling to sign informed consent\n* Pseudoexfoliation syndrome\n* Functionally monocular patient\n* Any use of eye drops during at least 3 months before surgery with the exception of ar",
+      "endpoints": [
+        "The superiority of treatment arm without conservative (WC) on treatment arm with conservative (C) on the aqueous flare value in the operated eye, measured with a laser flare meter, at week 4 after cataract surgery."
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "url": "https://clinicaltrials.gov/study/NCT04050644"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03580473",
+      "title": "Phase II, National, Multicenter, Randomized, Double Blind Clinical Trial, to Evaluate the Efficacy and Safety of Saturno IIB Association on the Control of Ocular Inflammation Post-phacoemulsification",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-02-27",
+      "completion_date": "2022-03-01",
+      "country": "Brazil",
+      "enrollment": 118,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of Saturno II association on the control of ocular inflammation post-phacoemulsification",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants of both sexes, aged 18 years or more;\n* Participants presenting the diagnosis of cataract with indication for surgery by the phacoemulsification procedure;\n* Participants who undergo surgery in only 1 eye at a time;\n* Participants with intraocular pressure (IOP) ≤",
+      "endpoints": [
+        "Control of ocular inflammation post-phacoemulsification as evaluated though the presence of cells in the anterior chamber"
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT03580473"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00956462",
+      "title": "Topical Steroids Versus Topical Non-steroidal Anti-inflammatory Drugs Following Ahmed Valve Glaucoma Drainage Device Surgery",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2007-07",
+      "completion_date": "2010-06",
+      "country": "Canada",
+      "enrollment": 36,
+      "brief_summary": "This study aims to evaluate the eye pressure response to non-steroidal anti-inflammatory eye drops as compared to steroid eye drops following glaucoma surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 18 - 85 years of age\n2. Undergoing glaucoma drainage device surgery\n\nExclusion criteria\n\n1. Unable to consent\n2. Undergoing combined GDD and cataract surgery\n3. Patients with conditions requiring additional anti-inflammatory medications e.g., uveitic glaucoma, previous cornea",
+      "endpoints": [
+        "Intraocular pressure"
+      ],
+      "sponsor": "University Health Network, Toronto",
+      "url": "https://clinicaltrials.gov/study/NCT00956462"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00074178",
+      "title": "Combination Chemotherapy (Methotrexate, Cyclophosphamide, And Etoposide Phosphate) Delivered In Conjunction With Osmotic Blood-Brain Barrier Disruption (BBBD), With Intraventricular Cytarabine +/- Intra-Ocular Chemotherapy, In Patients With Primary Central Nervous System Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2000-01",
+      "completion_date": "2006-07",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as methotrexate, cyclophosphamide, etoposide phosphate, dexamethasone, and cytarabine, work in different ways to stop cancer cells from dividing so they stop growing or die. Osmotic blood-brain barrier disruption uses certain drugs to open the blood vessels around the brain and allow anticancer substances to be delivered directly to the brain. Giving methotrexate, cyclophosphamide, and etoposide phosphate with osmotic blood-brain barrier disruption plu",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed intermediate- or high-grade primary CNS lymphoma by brain biopsy or cerebrospinal fluid or vitrectomy analysis\n* No more than 90 days since diagnosis\n* No systemic lymphoma NOTE: A new classification scheme for adult non-Hodgkin's",
+      "endpoints": [
+        "Survival as measured by clinical and radiographic response at 5 years after study treatment"
+      ],
+      "sponsor": "OHSU Knight Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00074178"
+    }
+  ],
+  "timestamp": "2026-03-04T13:19:10.907702",
+  "success": true,
+  "error_message": null
+}

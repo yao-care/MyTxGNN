@@ -1,0 +1,2736 @@
+{
+  "drug": {
+    "name": "Hydrocortisone Acetate",
+    "drugbank_id": "DB14539",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "erythema multiforme",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02153762",
+            "title": "Assessment of Application Order When Utilizing Locoid Lotion and Hylatopic Plus Cream in the Treatment of Atopic Dermatitis",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2013-04",
+            "completion_date": "2014-01",
+            "country": "United States",
+            "enrollment": 41,
+            "brief_summary": "The purpose of this study is to evaluate the safety and tolerability, as well as effectiveness, with regards to the order of application for Locoid Lipocream and Hylatopic Plus cream in patients with atopic dermatitis (AD), which is a type of skin rash.Topical skin barrier repair therapies (BRT) that are plain moisturizing creams/lotions with added lipids (fats/oils), such as Hylatopic Plus cream, have emerged as an effective addition to the the treatment of atopic dermatitis. BRTs are often use",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* subjects of at least 3 months of age.\n* clinical diagnosis of stable mild to moderate AD using the Hanifin and Rajka criteria for diagnosing AD\n* AD lesions of similar size and severity of bilateral anatomic location\n* a SPGA score of 2 or 3 and at least 10% BSA involvement at",
+            "endpoints": [
+              "Change from Baseline Treatment Success at Day 29"
+            ],
+            "sponsor": "Icahn School of Medicine at Mount Sinai",
+            "url": "https://clinicaltrials.gov/study/NCT02153762"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00332163",
+            "title": "A Phase 2, Open-label, Randomized Clinical Trial of Skin Toxicity Treatment in Subjects Receiving Second-line FOLFIRI or Irinotecan Only Chemotherapy Concomitantly With Panitumumab",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2006-04",
+            "completion_date": "2008-09",
+            "country": "N/A",
+            "enrollment": 95,
+            "brief_summary": "A comparison of prophylactic treatment with reactive treatment for skin toxicity observed in patients with metastatic colorectal cancer (mCRC) who are receiving second-line irinotecan-based chemotherapy concomitantly with panitumumab.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with unresectable metastatic adenocarcinoma of the colon or rectum that cannot, in the opinion of the investigator, be cured by surgical resection at the time of randomization;\n* Patients who have failed first line treatment containing fluoropyrimidine and oxaliplatin",
+            "endpoints": [
+              "Percentage of Participants With Specific Grade 2 or Higher Skin Toxicities During the 6-week Skin Treatment Period"
+            ],
+            "sponsor": "Amgen",
+            "url": "https://clinicaltrials.gov/study/NCT00332163"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05468372",
+            "title": "A Randomized Controlled Trial of Amphotericin B Versus Posaconazole for Treating Pulmonary Mucormycosis",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2022-07-01",
+            "completion_date": "2025-07-30",
+            "country": "India",
+            "enrollment": 50,
+            "brief_summary": "Pulmonary mucormycosis is a serious illness with high morbidity and mortality (approximately 57%). Surgery and antifungal therapy are central in the management of mucormycosis. Unlike rhino-orbital mucormycosis, surgery is not feasible in several patients with pulmonary mucormycosis. Hence, treatment is primarily with antifungal therapy. Amphotericin B is the standard of care in the medical management of mucormycosis. However, amphotericin B is expensive, has significant adverse events, and is a",
+            "eligibility_criteria": "Inclusion Criteria:\n\nSubjects with proven or probable pulmonary mucormycosis. Participants with a suspicion of pulmonary mucormycosis (as defined previously) based on compatible clinical presentation and compatible imaging will be screened for inclusion in the study.\n\nExclusion Criteria:\n\n* Failure ",
+            "endpoints": [
+              "The proportion of participants achieving a successful outcome (complete response or partial response) at the completion of six weeks. The response assessment will be a composite of clinical and radiological as adjudged by a multidisciplinary team"
+            ],
+            "sponsor": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+            "url": "https://clinicaltrials.gov/study/NCT05468372"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01650194",
+            "title": "A Phase 2 Study Determining Safety and Tolerability of Enzalutamide (Formerly MDV3100) in Combination With Abiraterone Acetate in Bone Metastatic Castration-Resistant Prostate Cancer Patients",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2012-07-09",
+            "completion_date": "2018-01-04",
+            "country": "United States",
+            "enrollment": 60,
+            "brief_summary": "The purpose of this study was to explore the safety and tolerability of enzalutamide in combination with abiraterone acetate plus prednisone. Subjects diagnosed with cancer of the prostate that was getting worse and spreading to the bone despite receiving hormone treatment were enrolled and received study treatment until disease progression.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate without neuroendocrine differentiation or small cell features\n* Presence of metastatic disease to the bone\n* Ongoing androgen deprivation therapy with a gonadotropin releasing hormone (GnRH) analogue or o",
+            "endpoints": [
+              "Number of Participants With Adverse Events (AEs)"
+            ],
+            "sponsor": "Astellas Pharma Inc",
+            "url": "https://clinicaltrials.gov/study/NCT01650194"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "10696380",
+            "title": "Erythema multiforme after application of aural Gentisone HC drops.",
+            "abstract": "Erythema multiforme is an uncommon acute self-limiting condition characterized by mucocutaneous lesions of varying severity with a variable pattern of recurrence. This is a case of a four-year-old girl who developed erythema multiforme secondary to topical aural application of Gentisone HC drops (hydrocortisone acetate one per cent, gentamicin 0.3 per cent (as sulphate)) prescribed as a treatment for otorrhoea following grommet insertion. The clinical features are described and the literature reviewed. To my knowledge, this is the first reported case in the literature, of erythema multiforme secondary to a topical aminoglycoside/steroid preparation.",
+            "journal": "The Journal of laryngology and otology",
+            "year": "1999",
+            "authors": [
+              "Siddiq M A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Child, Preschool",
+              "Erythema Multiforme",
+              "Female",
+              "Gentamicins",
+              "Humans",
+              "Instillation, Drug",
+              "Otitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10696380/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "hemorrhoid",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02301052",
+            "title": "Double Blind Randomized Placebo-control Trial of Allium Ampeloprasum Spp.Iranicum Cream Effect for the Management of Hemorrhoids Symptoms",
+            "phase": "PHASE1, PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2014-09",
+            "completion_date": "2014-12",
+            "country": "Iran",
+            "enrollment": 75,
+            "brief_summary": "Purpose of study is evaluation of Allium ampeloprasum Spp.Iranicum cream efficacy in management of symptomatic hemorrhoids in a double blind randomized placebo-control trial",
+            "eligibility_criteria": "Inclusion Criteria\n\n* Participants having symptomatic hemorrhoids(GRADE 1-4) without need to emergency operation according to physical examination\n* Participants who do not use drugs other than the study drug and the control drug to treat their hemorrhoids during the study period:\n\nExclusion Criteri",
+            "endpoints": [
+              "pain (visual analogue scale(0-10))",
+              "bleeding ( questionnaire)",
+              "itching ( questionnaire)"
+            ],
+            "sponsor": "Shiraz University of Medical Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT02301052"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00405288",
+            "title": "The Safety of Proctofoam-HC in the Third Trimester of Pregnancy",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2006-11",
+            "completion_date": "2010-06",
+            "country": "Canada",
+            "enrollment": 408,
+            "brief_summary": "The purpose of this study is to evaluate the fetal safety of topical application of Proctofoam-HC®, an antihemorrhoidal, in the third trimester of pregnancy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* For intervention group, any pregnant woman with a primary anorectal condition during the third trimester of pregnancy\n* For control group, women in third trimester of pregnancy not treated with Proctofoam, and matched on maternal age and smoking status\n* for either group,no ot",
+            "endpoints": [
+              "Birth-weight"
+            ],
+            "sponsor": "The Hospital for Sick Children",
+            "url": "https://clinicaltrials.gov/study/NCT00405288"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02689856",
+            "title": "A Randomized, Dose-Ranging, Double Blind Study of Lidocaine Hydrochloride and/or Hydrocortisone Acetate (Alone or in Combination) in the 14-Day Twice-Daily Treatment of Grade I or II Hemorrhoids",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2015-05",
+            "completion_date": "2015-10",
+            "country": "N/A",
+            "enrollment": 211,
+            "brief_summary": "The objectives of this study are to assess the potential contribution of lidocaine hydrochloride or hydrocortisone acetate, alone or in combination, in topical cream preparations in the treatment of Grade I or II hemorrhoids and to demonstrate the safety and efficacy of the test articles when applied twice daily for 14 days in subjects with Grade I or II hemorrhoids. These products reflect common drug combinations of lidocaine hydrochloride or hydrocortisone acetate found in many prescription he",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject is male or non-pregnant female 18 years of age or older, in generally good health. Females must be post-menopausal, surgically sterile or have a negative urine pregnancy test (UPT) at the Baseline Visit and agree to use birth control during the study.\n2. Subject has p",
+            "endpoints": [
+              "Global score of disease severity"
+            ],
+            "sponsor": "Citius Pharmaceuticals, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT02689856"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03335774",
+            "title": "A Randomized, Double-blind, Placebo-controlled, Multicenter, Parallel Group Study to Evaluate Safety and Efficacy of 25 mg Hydrocortisone Acetate Suppositories in the Treatment of Symptomatic Internal Hemorrhoids.",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2019-02-12",
+            "completion_date": "2021-03-05",
+            "country": "India, United States",
+            "enrollment": 103,
+            "brief_summary": "A randomized, double-blind, placebo-controlled, multicenter, parallel group study of the safety and efficacy of Hydrocortisone Acetate Suppositories, 25 mg compared to placebo suppositories in the treatment of symptomatic internal hemorrhoids.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* internal hemorrhoids.\n* hemorrhoidal bleeding.\n* male or female aged 18 years and older.\n* willing to forego the use of non-prescription (OTC) and prescription medication or procedures for the treatment of hemorrhoidal disease and/or pain for the duration of the study.\n* agree",
+            "endpoints": [
+              "Reduction in Swelling",
+              "Reduction in Itching Severity"
+            ],
+            "sponsor": "Nivagen Pharmaceuticals Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT03335774"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01913158",
+            "title": "A Randomized, Double-Blind, Vehicle-Controlled, Multicenter Study to Evaluate Safety and Efficacy of Anucort HC TM (Hydrocortisone Acetate) 25mg Rectal Suppositories in the Treatment of Symptomatic Internal Hemorrhoids",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2013-10",
+            "completion_date": "2014-03",
+            "country": "United States",
+            "enrollment": 150,
+            "brief_summary": "The primary objective of this study is to determine the safety and efficacy of G\\&W Laboratories' Anucort HC TM (Hydrocortisone Acetate) 25mg Rectal Suppositories in subjects with internal hemorrhoidal symptoms.",
+            "eligibility_criteria": "Inclusion Criteria\n\n1. Subjects with a diagnosis of symptomatic internal hemorrhoids will be selected to participate in the study.\n2. Eligible subjects will be males or non-pregnant, non-lactating, non-menstruating females; ≥ 18 years of age; with diagnosis of Grade I, II or III internal hemorrhoida",
+            "endpoints": [
+              "Bleeding Cessation"
+            ],
+            "sponsor": "G & W Laboratories Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT01913158"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "1800704",
+            "title": "Pharmacokinetics and rectal bioavailability of hydrocortisone acetate.",
+            "abstract": "The pharmacokinetics and bioavailability of hydrocortisone after rectal administration of a hydrocortisone acetate foam was determined. Endogenous hydrocortisone was suppressed by dexamethasone administration. Plasma levels were compared with those observed after iv and oral administration. Only a very small part of the rectal dose (100 mg) was absorbed; the mean absolute bioavailability was 2%. There was substantial intersubject variability. Maximum hydrocortisone levels were reached after 2 h and averaged 35 ng/mL. These levels were 10-fold lower than those obtained after oral administration of a fivefold lower dose (20 mg) of hydrocortisone in the same subjects.",
+            "journal": "Journal of pharmaceutical sciences",
+            "year": "1991",
+            "authors": [
+              "Möllmann H",
+              "Barth J",
+              "Möllmann C",
+              "Tunn S",
+              "Krieg M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Administration, Rectal",
+              "Administration, Topical",
+              "Adult",
+              "Anti-Inflammatory Agents",
+              "Biological Availability",
+              "Humans",
+              "Hydrocortisone",
+              "Injections, Intravenous",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1800704/"
+          },
+          {
+            "pmid": "40143012",
+            "title": "Innovative Hydrocortisone Acetate and Pramoxine Hydrochloride Topical Cream Formulations for Anorectal Conditions: Enhanced In Vitro Release Profile.",
+            "abstract": "This study focuses on analyzing the in vitro release characteristics, as well as improving the penetration rate and stability of hydrocortisone acetate and pramoxine. This medication combination (hydrocortisone and pramoxine) is the first generic drug product utilized to alleviate minor pain, itching, swelling, and discomfort associated with anorectal conditions such as hemorrhoids. Background/Objectives: The developed novel formulations contain hydrocortisone acetate and pramoxine HCl as active ingredients, at least one solvent, at least one penetrating agent, at least one emulsifying agent, at least one surfactant, and at least one antimicrobial preservative, and pH values between 3.0 and 5.0, preferably between 3.5 and 4.5. Methods: Typical semi-solid dosage form quality control tests included appearance, identification, content homogeneity, pH, viscosity, assay, compounds of interest, microbiological testing, and in vitro release testing. In in vitro release testing, a series of fo",
+            "journal": "Pharmaceutics",
+            "year": "2025",
+            "authors": [
+              "Pinarbasli Onur",
+              "Atilgan Nurdan",
+              "Turkes Ezgi",
+              "Sarracoglu Nagehan",
+              "Aybey Doganay Asuman"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40143012/"
+          },
+          {
+            "pmid": "11361050",
+            "title": "Pharmacokinetics and rectal bioavailability of hydrocortisone acetate after single and multiple administration in healthy subjects and patients.",
+            "abstract": "The pharmacokinetics and bioavailability of hydrocortisone after rectal administration of a hydrocortisone acetate foam were determined after single and multiple dosing in healthy subjects as well as in patients with inflammatory bowel disease. Endogenous hydrocortisone was suppressed by dexamethasone administration. Plasma levels were compared with those observed after intravenous administration of hydrocortisone. Only a very small part of the rectal dose (100 mg) was absorbed; the mean absolute bioavailability was 3.1% in healthy volunteers and 4.5% in patients. There was substantial intersubject variability. Although maximum hydrocortisone levels after single or multiple doses were significantly higher (about 70%) in the patient group, the systemic bioavailability is very low so that the risk of systemic side effects after rectal administration of hydrocortisone acetate foam has to be considered very low.",
+            "journal": "Journal of clinical pharmacology",
+            "year": "2001",
+            "authors": [
+              "Tromm A",
+              "Möllmann H",
+              "Barth J",
+              "Hochhaus G",
+              "Krieg M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Rectal",
+              "Adult",
+              "Aged",
+              "Area Under Curve",
+              "Biological Availability",
+              "Drug Administration Schedule",
+              "Half-Life",
+              "Humans",
+              "Hydrocortisone",
+              "Inflammatory Bowel Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11361050/"
+          },
+          {
+            "pmid": "31433782",
+            "title": "Comparison of the effect of Myrtus communis herbal and anti-hemorrhoid ointments on the hemorrhoid symptoms and quality of life in postpartum women with grade I and II internal hemorrhoid: A triple-blinded randomized controlled clinical trial.",
+            "abstract": "Introduction Due to the effects of hemorrhoids on physical and mental health, this study aimed to compare the effect of Myrtus communis herbal and anti-hemorrhoid ointments on symptoms of hemorrhoid and quality of life (primary outcomes) and satisfaction of the treatment and side effects (secondary outcomes). Methods This triple-blind randomized controlled trial was performed on women with grade I and II hemorrhoid referring to health centers in Tehran, Iran, in 2017. Individuals were randomly assigned to two groups of 67 people through block randomization method. The intervention group received the Myrtus communis herbal ointment and the control group received anti-hemorrhoid ointment twice a day, every 12 ± 2 h, an applicator of the drug through the rectum for 4 weeks. The Colorectal Evaluation of a Clinical Therapeutics Scale (CORECTS) was used to assess the severity of symptoms of hemorrhoid. To assess the quality of life, the World Health Organization Quality of Life questionnaire",
+            "journal": "Journal of complementary & integrative medicine",
+            "year": "2019",
+            "authors": [
+              "Malekuti Jamileh",
+              "Mirghafourvand Mojgan",
+              "Samadi Khadijeh",
+              "Abbasalizadeh Fatemeh",
+              "Khodaei Laleh"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Adult",
+              "Bicarbonates",
+              "Drug Therapy, Combination",
+              "Female",
+              "Hemorrhoids",
+              "Humans",
+              "Hydrocortisone",
+              "Iran",
+              "Lidocaine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31433782/"
+          },
+          {
+            "pmid": "20334171",
+            "title": "Optimization and validation of an RP-HPLC method for analysis of hydrocortisone acetate and lidocaine in suppositories.",
+            "abstract": "An RP-HPLC method has been optimized and validated for the simultaneous determination of hydrocortisone acetate and of lidocaine in suppositories. For the method optimization, response surface methodology was applied, and the obtained model was tested using analysis of variance. The optimal separations were conducted on a Beckman-Coulter 150 x 4.6 mm, 5 microm particle-size column at 20 degrees C. The mobile phase was methanol-water (65 + 35, v/v), pH adjusted to 2.5 with 85% orthophosphoric acid, with a flow rate of 1.0 ml/min. UV detection was performed at 250 nm. Phenobarbital was used as an internal standard. The method was validated for selectivity, linearity, precision, and robustness.",
+            "journal": "Journal of AOAC International",
+            "year": "2010",
+            "authors": [
+              "Jancic-Stojanović Biljana",
+              "Malenović Andjelija",
+              "Marković Slavko",
+              "Ivanović Darko",
+              "Medenica Mirjana"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Validation Study"
+            ],
+            "mesh_terms": [
+              "Analysis of Variance",
+              "Anesthetics, Local",
+              "Anti-Inflammatory Agents",
+              "Chromatography, High Pressure Liquid",
+              "Chromatography, Reverse-Phase",
+              "Hemorrhoids",
+              "Humans",
+              "Hydrocortisone",
+              "Hydrogen-Ion Concentration",
+              "Lidocaine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20334171/"
+          },
+          {
+            "pmid": "39945661",
+            "title": "Clinical evidence and rationale of topical nifedipine and lidocaine ointment in the treatment of anal fissure and hemorrhoidal disease.",
+            "abstract": "Anorectal conditions such as hemorrhoidal disease and anal fissure are frequently painful and debilitating. Pain after hemorrhoidectomy is also common and distressing. These conditions are at least initially managed conservatively. An ointment formulation containing the calcium channel blocker nifedipine and the local anesthetic lidocaine has an established role in the treatment of rectal conditions, particularly conditions associated with anal sphincter hypertonia such as hemorrhoidal disease and anal fissure. This review aimed to compile the evidence for the use of nifedipine 0.3% and lidocaine 1.5% ointment in treating these common but bothersome anorectal diseases.",
+            "journal": "Minerva surgery",
+            "year": "2025",
+            "authors": [
+              "Gallo Gaetano",
+              "Trompetto Mario"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Lidocaine",
+              "Nifedipine",
+              "Fissure in Ano",
+              "Hemorrhoids",
+              "Ointments",
+              "Anesthetics, Local",
+              "Administration, Topical",
+              "Calcium Channel Blockers",
+              "Hemorrhoidectomy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39945661/"
+          },
+          {
+            "pmid": "13120601",
+            "title": "Local hydrocortisone acetate for radiation proctitis.",
+            "abstract": "",
+            "journal": "Postgraduate medicine",
+            "year": "1954",
+            "authors": [
+              "HURTIG A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex",
+              "Adrenal Cortex Hormones",
+              "Cervix Uteri",
+              "Disease",
+              "Female",
+              "Humans",
+              "Hydrocortisone",
+              "Neoplasms",
+              "Proctitis",
+              "Radiotherapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13120601/"
+          },
+          {
+            "pmid": "12847368",
+            "title": "Budesonide foam vs. hydrocortisone acetate foam in the treatment of active ulcerative proctosigmoiditis.",
+            "abstract": "Rectal administration of corticosteroids is advocated in patients with proctosigmoiditis who have failed therapy with mesalamine enema. Foam offers patients better tolerability than an enema. In this study the efficacy and adverse effects of a new budesonide foam are compared with the presently available hydrocortisone foam.",
+            "journal": "Diseases of the colon and rectum",
+            "year": "2003",
+            "authors": [
+              "Bar-Meir Simon",
+              "Fidder Herma H",
+              "Faszczyk Mark",
+              "Bianchi Porro Gabriele",
+              "Sturniolo Giacomo C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Rectal",
+              "Adult",
+              "Anti-Inflammatory Agents",
+              "Budesonide",
+              "Colitis, Ulcerative",
+              "Dosage Forms",
+              "Female",
+              "Humans",
+              "Hydrocortisone",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12847368/"
+          },
+          {
+            "pmid": "26109819",
+            "title": "Recombinant streptokinase vs hydrocortisone suppositories in acute hemorrhoids: A randomized controlled trial.",
+            "abstract": "To compare the efficacy and safety of recombinant streptokinase (rSK) vs hydrocortisone acetate-based suppositories in acute hemorrhoidal disease.",
+            "journal": "World journal of gastroenterology",
+            "year": "2015",
+            "authors": [
+              "Hernández-Bernal Francisco",
+              "Castellanos-Sierra Georgina",
+              "Valenzuela-Silva Carmen M",
+              "Catasús-Álvarez Karem M",
+              "Martínez-Serrano Osmany"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase III",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Administration, Rectal",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Anti-Inflammatory Agents",
+              "Cuba",
+              "Drug Administration Schedule",
+              "Female",
+              "Fibrinolytic Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26109819/"
+          },
+          {
+            "pmid": "13741188",
+            "title": "[The treatment of fibrotic strictures of the rectum and sigmoid with the use of hydrocortisone acetate and delta-hydrocortisone acetate in local infiltrations].",
+            "abstract": "",
+            "journal": "Revista da Associacao Medica Brasileira",
+            "year": "1960",
+            "authors": [
+              "RIBEIRO M C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Colon, Sigmoid",
+              "Constriction, Pathologic",
+              "Disease",
+              "Humans",
+              "Hydrocortisone",
+              "Rectal Diseases",
+              "Rectum",
+              "Sigmoid Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13741188/"
+          },
+          {
+            "pmid": "14421315",
+            "title": "Topical treatment of anorectal inflammations with hydrocortisone acetate.",
+            "abstract": "",
+            "journal": "Diseases of the colon and rectum",
+            "year": "1960",
+            "authors": [
+              "MARKS M M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anal Canal",
+              "Anus Diseases",
+              "Disease",
+              "Hydrocortisone",
+              "Inflammation",
+              "Intestine, Large",
+              "Rectal Diseases",
+              "Rectum"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14421315/"
+          },
+          {
+            "pmid": "8514096",
+            "title": "A rectal concretion of hydrocortisone acetate.",
+            "abstract": "",
+            "journal": "Gastrointestinal endoscopy",
+            "year": "1993",
+            "authors": [
+              "Levine E",
+              "Brandt L J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Aerosols",
+              "Aged",
+              "Enema",
+              "Female",
+              "Humans",
+              "Hydrocortisone",
+              "Proctitis",
+              "Rectum"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8514096/"
+          },
+          {
+            "pmid": "12432293",
+            "title": "Topical nifedipine with lidocaine ointment vs. active control for treatment of chronic anal fissure: results of a prospective, randomized, double-blind study.",
+            "abstract": "Chronic anal fissure may be treated by chemical or surgical sphincterotomy. The aim of this study was to test the efficacy of local application of nifedipine and lidocaine ointment in healing chronic anal fissure.",
+            "journal": "Diseases of the colon and rectum",
+            "year": "2002",
+            "authors": [
+              "Perrotti Pasquale",
+              "Bove Antonio",
+              "Antropoli Carmine",
+              "Molino Domenico",
+              "Antropoli Massimo"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Chronic Disease",
+              "Double-Blind Method",
+              "Drug Combinations",
+              "Female",
+              "Fissure in Ano",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12432293/"
+          },
+          {
+            "pmid": "10458123",
+            "title": "Nifedipine for local use in conservative treatment of anal fissures: preliminary results of a multicenter study.",
+            "abstract": "This study was performed according to a prospective, randomized, double-blind, multicenter design. The aim was to test the efficacy of local application of nifedipine gel\" in healing acute anal fissure by relaxing the internal anal sphincter.",
+            "journal": "Diseases of the colon and rectum",
+            "year": "1999",
+            "authors": [
+              "Antropoli C",
+              "Perrotti P",
+              "Rubino M",
+              "Martino A",
+              "De Stefano G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Adult",
+              "Double-Blind Method",
+              "Female",
+              "Fissure in Ano",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Nifedipine",
+              "Prospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10458123/"
+          },
+          {
+            "pmid": "3364757",
+            "title": "Characterization of proximal colonic lymphoid tissue in the mouse.",
+            "abstract": "Here we describe a nodule of lymphoid tissue which was consistently located in the proximal colon of mice approximately 25% of the distance from the cecum to the rectum. Immunohistochemical characterization of this nodule demonstrated that the majority of lymphocytes were relatively immature 14.8+ (B220+), IgM+, Ia+ (specificity 20) B cells some of which were also Ly-1+. These nodules also possessed an occasional T cell (Thy-1+, Ly-1+, Lyt-2+) aggregate at the periphery. Rare, small areas did not stain for either T or B cell markers. These lymphoid nodules were associated with epithelial cells which stained positively with the ER-TR4 monoclonal antibody (which also recognizes thymic cortical epithelial cells) and also with ER-TR6, which has been reported to recognize thymic macrophages or dendritic cells. The overlying colonic epithelium stained intensely with the ER-TR4 monoclonal antibody. Proximal colonic lymphoid tissue was extremely sensitive to steroid treatment, losing approxima",
+            "journal": "The Anatomical record",
+            "year": "1988",
+            "authors": [
+              "Perry G A",
+              "Sharp J G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Colon",
+              "Female",
+              "Hydrocortisone",
+              "Lymphocytes",
+              "Lymphoid Tissue",
+              "Male",
+              "Mice",
+              "Mice, Inbred BALB C",
+              "Phenotype"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3364757/"
+          },
+          {
+            "pmid": "23577929",
+            "title": "Topical Nifedipine(®) for conservative treatment of acute haemorrhoidal thrombosis.",
+            "abstract": "The aim of this prospective, randomized trial was to test the efficacy of the local application of Nifedipine gel(®) in healing acute thrombosed haemorrhoids by relaxing the internal anal sphincter.",
+            "journal": "Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland",
+            "year": "2000",
+            "authors": [
+              "Perrotti",
+              "Antropoli",
+              "Noschese",
+              "Bartone",
+              "Mo De Stefano"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23577929/"
+          },
+          {
+            "pmid": "509112",
+            "title": "Retrograde spread of hydrocortisone containing foam given intrarectally in ulcerative colitis.",
+            "abstract": "A method is described of estimating retrograde spread through the colon of a 10% hydrocortisone acetate foam by labelling the foam with technetium-99m sulphur colloid and observing spread after intrarectal administration by serial gamma-camera pictures. The recommended 51 ml dose of foam reached the mid-sigmoid colon in all of the nine patients who had active ulcerative colitis. Furthermore, in seven the foam reached the proximal sigmoid colon. Foam spread less extensively in five patients with quiescent disease than in those with active disease. Increasing the volume of enema to 50 ml did not improve retrograde spread through the colon. These results suggest that 10% hydrocortisone foam may be useful in treating patients with distal ulcerative colitis that is not necessarily limited to the rectum.",
+            "journal": "British medical journal",
+            "year": "1979",
+            "authors": [
+              "Farthing M J",
+              "Rutland M D",
+              "Clark M L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Adult",
+              "Aged",
+              "Anti-Inflammatory Agents",
+              "Colitis, Ulcerative",
+              "Colon, Sigmoid",
+              "Enema",
+              "Female",
+              "Gamma Rays",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/509112/"
+          },
+          {
+            "pmid": "16509076",
+            "title": "[Application of preparations relief ultra and relief advance in practice of coloproctological department].",
+            "abstract": "Efficacy of application of preparations Relief Ultra and Relief Advance as pathogenetically directed medicines was established, basing on analysis of the examination and treatment results in 133 patients with anal region diseases (acute and chronic hemorrhoids, nonspeciphic ulcerative colitis, the Crohn's disease, acute paraproctitis, rectal polyp). For local conservative treatment it is expedient to apply preparations in various pharmacological forms in complex. Application of preparation Relief Ultra endorectally in conjunction with preparation Relief Advance endorectally and locally on the wound surface is indicated after performance of elective and urgent operative interventions for rectal and anal zone diseases.",
+            "journal": "Klinichna khirurhiia",
+            "year": "2005",
+            "authors": [
+              "Zakharash M P",
+              "Poĭda O I"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Rectal",
+              "Animals",
+              "Colorectal Surgery",
+              "Drug Combinations",
+              "Fish Oils",
+              "Hospital Departments",
+              "Humans",
+              "Hydrocortisone",
+              "Intestinal Diseases",
+              "Sharks"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16509076/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "lymphosarcoma",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03007147",
+            "title": "International Phase 3 Trial in Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia (Ph+ALL) Testing Imatinib in Combination With Two Different Cytotoxic Chemotherapy Backbones",
+            "phase": "PHASE3",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2017-08-08",
+            "completion_date": "2027-09-30",
+            "country": "Australia, Canada, Sweden, Hong Kong, Puerto Rico, Switzerland, France, Germany, United States, Czechia, Austria, Israel, Saudi Arabia, Netherlands, New Zealand, Belgium, Italy, Chile, Finland",
+            "enrollment": 475,
+            "brief_summary": "This randomized phase III trial studies how well imatinib mesylate works in combination with two different chemotherapy regimens in treating patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukemia (ALL). Imatinib mesylate has been shown to improve outcomes in children and adolescents with Philadelphia chromosome positive (Ph+) ALL when given with strong chemotherapy, but the combination has many side effects. This trial is testing whether a different chemother",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* For patients enrolled on APEC14B1 prior to enrollment on AALL1631, the required diagnostic bone marrow sample has been fulfilled\n\n  * For patients who have not previously enrolled on APEC14B1 prior to enrollment on AALL1631, a baseline diagnostic sample (or peripheral blood sa",
+            "endpoints": [
+              "Disease free survival (DFS) of Randomized Arms (standard risk [SR] Philadelphia chromosome [Ph+] acute lymphoblastic leukemia [ALL] patients)"
+            ],
+            "sponsor": "Children's Oncology Group",
+            "url": "https://clinicaltrials.gov/study/NCT03007147"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02112916",
+            "title": "A Phase III Randomized Trial Investigating Bortezomib (NSC# 681239) on a Modified Augmented BFM (ABFM) Backbone in Newly Diagnosed T-Lymphoblastic Leukemia (T-ALL) and T-Lymphoblastic Lymphoma (T-LLy)",
+            "phase": "PHASE3",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2014-10-04",
+            "completion_date": "2026-09-16",
+            "country": "United States, New Zealand, Australia, Canada",
+            "enrollment": 847,
+            "brief_summary": "This randomized phase III trial compares how well combination chemotherapy works when given with or without bortezomib in treating patients with newly diagnosed T-cell acute lymphoblastic leukemia or stage II-IV T-cell lymphoblastic lymphoma. Bortezomib may help reduce the number of leukemia or lymphoma cells by blocking some of the enzymes needed for cell growth. It may also help chemotherapy work better by making cancer cells more sensitive to the drugs. It is not yet known if giving standard ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* T-ALL: T-ALL patients must be enrolled on AALL08B1 or Project:EveryChild (APEC14B1, if open for the classification of ALL patients) prior to treatment and enrollment on AALL1231\n* All patients must be \\> 1 and \\< 31 years of age\n* Patients must have newly diagnosed T-lymphobla",
+            "endpoints": [
+              "Event-free Survival (EFS) for Modified Augmented Berlin-Frankfurt-Munster Backbone With or Without Bortezomib in All Randomized Patients"
+            ],
+            "sponsor": "National Cancer Institute (NCI)",
+            "url": "https://clinicaltrials.gov/study/NCT02112916"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04546399",
+            "title": "A Phase 2 Study of Blinatumomab (NSC# 765986) in Combination With Nivolumab (NSC # 748726), a Checkpoint Inhibitor of PD-1, in B-ALL Patients Aged &gt;/= 1 to &lt; 31 Years Old With First Relapse",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2020-12-17",
+            "completion_date": "2028-06-30",
+            "country": "Puerto Rico, United States, Australia, Canada",
+            "enrollment": 461,
+            "brief_summary": "This phase II trial studies the effect of nivolumab in combination with blinatumomab compared to blinatumomab alone in treating patients with B-cell acute lymphoblastic leukemia (B-ALL) that has come back (relapsed). Down syndrome patients with relapsed B-ALL are included in this study. Blinatumomab is an antibody, which is a protein that identifies and targets specific molecules in the body. Blinatumomab searches for and attaches itself to the cancer cell. Once attached, an immune response occu",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be \\>= 1 and \\< 31 years at time of enrollment\n* Patients must have first relapse of CD19+ B-ALL (relapse blasts must express CD19) in one of the following categories:\n\n  * Isolated bone marrow relapse\n  * Isolated central nervous system (CNS) (excluding known op",
+            "endpoints": [
+              "Minimal residual disease (MRD) negative second remission (Rem-2) rate with blinatumomab vs with blinatumomab + nivolumab (Group 1)",
+              "Event-free survival post-reinduction (EFS PR) (Group 3)",
+              "EFS PR (Group 4)"
+            ],
+            "sponsor": "National Cancer Institute (NCI)",
+            "url": "https://clinicaltrials.gov/study/NCT04546399"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02535806",
+            "title": "A Pilot Study of Mitoxantrone-Based Four Drug Reinduction in Combination With Bortezomib for Relapsed or Refractory Acute Lymphoblastic Leukemia or Lymphoblastic Lymphoma in Children and Young Adults",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2015-07",
+            "completion_date": "2017-05-25",
+            "country": "United States",
+            "enrollment": 2,
+            "brief_summary": "This is a phase II study designed to investigate the combination of bortezomib with the mitoxantrone reinduction regimen used in the ALL R3 trial. The study will enroll patients with high risk ALL relapse including early bone marrow relapse and second or greater relapse of any kind. Patients with relapsed LL will also be eligible. Bone marrow evaluation will be performed after blood counts recover to assess the rate of CR (\\<5% bone marrow blasts) and MRD status in children following this regime",
+            "eligibility_criteria": "Inclusion Eligibility Criteria\n\n* Age: \\> 1 and \\< 40 years of age at the time of enrollment\n* Diagnosis: Precursor B-cell ALL with bone marrow (BM) or combined BM/extramedullary relapse; T-cell ALL with relapsed disease; LL with relapsed disease, or ALL(T or pre-B) with primary refractory disease a",
+            "endpoints": [
+              "Number of Subject With Adverse Events"
+            ],
+            "sponsor": "Children's Mercy Hospital Kansas City",
+            "url": "https://clinicaltrials.gov/study/NCT02535806"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00957320",
+            "title": "A Phase I Study of Sirolimus With PEG-Asparaginase in Multiple Recurrent or Refractory Childhood Acute Lymphoblastic Leukemia",
+            "phase": "PHASE1",
+            "status": "WITHDRAWN",
+            "start_date": "2009-06",
+            "completion_date": "2012-08",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "The goal of this study is to find a safe dose of sirolimus that can be used with a standard dose of L-asparaginase. To find the safe dose, the investigators will give the first patient a very small dose of sirolimus (smaller than the dose used in organ transplant children) and the standard dose of L-asparaginase. The investigators will then look for side effects. If side effects develop, the investigators will decrease the dose of sirolimus. If they do not, the investigators will increase the do",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Less than 21 years old.\n2. Acute lymphoblastic leukemia.\n3. Second or greater bone marrow relapse or 1st relapse and refractory to at least 2 Attempts at re-induction.\n4. Life expectancy of at least 8 weeks.\n5. Fully recovered from the acute toxic effects of all prior therapy",
+            "endpoints": [
+              "To estimate the maximum tolerated dose (MTD) of sirolimus in children with refractory or recurrent acute lymphoblastic leukemia (ALL) who are concurrently receiving PEG-asparaginase.",
+              "To determine the dose limiting toxicities of sirolimus in combination with PEG-asparaginase in this Phase I Study."
+            ],
+            "sponsor": "Emory University",
+            "url": "https://clinicaltrials.gov/study/NCT00957320"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05192889",
+            "title": "RAVEN: A Phase I/II Trial Treating Relapsed Acute Lymphoblastic Leukemia With Venetoclax and Navitoclax",
+            "phase": "PHASE1, PHASE2",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2022-08-25",
+            "completion_date": "2027-02",
+            "country": "United States",
+            "enrollment": 35,
+            "brief_summary": "This is a phase I/II clinical trial evaluating the activity of combination chemotherapy with venetoclax and navitoclax in children with relapsed or refractory acute lymphoblastic leukemia or lymphoma (rALL) and assessing the combination dose of venetoclax combinations with either blinatumomab for CD19-positive patients or navitoclax and high-dose cytarabine for CD19-negative patients.\n\nPrimary Objectives\n\n* To compare Minimal Residual Disease (MRD)-negative CR/CRi rate in children with relapsed ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis:\n\n  * Relapsed or refractory acute lymphoblastic leukemia or lymphoma with ≥1% bone marrow disease as measured by flow cytometry, PCR, or next generation sequencing. However, if an adequate bone marrow sample cannot be obtained, patients may be enrolled if there is u",
+            "endpoints": [
+              "Number of Participants With Minimal Residual Disease (MRD)-Negative Response",
+              "Recommended Phase 2 Dose of Venetoclax in Combination With a) High-dose Cytarabine and Navitoclax",
+              "Recommended Phase 2 Dose of Venetoclax in Combination With b) Blinatumomab"
+            ],
+            "sponsor": "St. Jude Children's Research Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT05192889"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05675410",
+            "title": "A Randomized Phase 3 Interim Response Adapted Trial Comparing Standard Therapy With Immuno-oncology Therapy for Children and Adults With Newly Diagnosed Stage I and II Classic Hodgkin Lymphoma",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2023-05-11",
+            "completion_date": "2031-04-28",
+            "country": "Puerto Rico, United States, Canada",
+            "enrollment": 1875,
+            "brief_summary": "This phase III trial compares the effect of adding immunotherapy (brentuximab vedotin and nivolumab) to standard treatment (chemotherapy with or without radiation) to the standard treatment alone in improving survival in patients with stage I and II classical Hodgkin lymphoma. Brentuximab vedotin is in a class of medications called antibody-drug conjugates. It is made of a monoclonal antibody called brentuximab that is linked to a cytotoxic agent called vedotin. Brentuximab attaches to CD30 posi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be 5 to 60 years of age at the time of enrollment\n* Patients with newly diagnosed untreated histologically confirmed classic Hodgkin lymphoma (cHL) (nodular sclerosis, mixed cellularity, lymphocyte-rich, or lymphocyte-depleted, or not otherwise specified \\[NOS\\])",
+            "endpoints": [
+              "Progression-free survival (PFS) in rapid early responder (RER) patients",
+              "PFS in slow-early responder (SER) patients"
+            ],
+            "sponsor": "National Cancer Institute (NCI)",
+            "url": "https://clinicaltrials.gov/study/NCT05675410"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00400946",
+            "title": "Treatment of Acute Lymphoblastic Leukemia in Children",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2005-04",
+            "completion_date": "2019-06",
+            "country": "United States, Canada",
+            "enrollment": 800,
+            "brief_summary": "RATIONALE: L-asparaginase is an important component of treatment for childhood acute lymphoblastic leukemia, but is also associated with notable side-effects, including hypersensitivity, pancreatitis, and thrombosis. We have previously reported that patients with acute lymphoblastic leukemia in whom asparaginase treatment was discontinued because of intolerable side-effects had survival outcomes that were inferior to those who received all or nearly all of their intended doses. Two bacterial sou",
+            "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of acute lymphoblastic leukemia (ALL)\n\n  * No known mature B-cell ALL, defined by the presence of any of the following:\n\n    * Surface immunoglobulin\n    * L3 morphology\n    * t(8;14)(q24;q32)\n    * t(8;22)\n    * t(2;8)\n  * T-cell surface markers and t(8;14)(q24",
+            "endpoints": [
+              "Asparaginase-Related Toxicity Rate"
+            ],
+            "sponsor": "Dana-Farber Cancer Institute",
+            "url": "https://clinicaltrials.gov/study/NCT00400946"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07175415",
+            "title": "ITCC-104: HEM-iSMART International Proof of Concept Therapeutic Stratification Trial of Molecular Anomalies in Relapsed or Refractory HEMatological Malignancies in Children, Sub-Protocol E: Capivasertib + Venetoclax + Dexamethasone in Pediatric Patients With Relapsed or Refractory Hematological Malignancies",
+            "phase": "PHASE1, PHASE2",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-10-01",
+            "completion_date": "2032-10-01",
+            "country": "N/A",
+            "enrollment": 42,
+            "brief_summary": "HEM-iSMART is a master protocol which investigates multiple investigational medicinal products in children, adolescents and young adults (AYA) with relapsed/refractory (R/R) ALL and LBL. Sub-protocol E is a phase I/II trial evaluating the safety and efficacy of capivasertib + venetocolax in combination with dexamethasone in children and AYA with R/R ped ALL/LBL whose tumor present with alterations of the PAM pathway, or lacking any mutations.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Children ≥ 2 years and ≤ 18 years of age at the time of first diagnosis and less than 21 years at the time of inclusion\n2. Performance status: Karnofsky performance status (for patients \\>16 years of age) or Lansky Play score (for patients ≤16 years of age) ≥ 50% (Appendix I)",
+            "endpoints": [
+              "Phase I: Maximum tolerated dose (MTD) / Recommended phase 2 dose (RP2D).",
+              "Phase II: Best Overall Response Rate (ORR)."
+            ],
+            "sponsor": "Princess Maxima Center for Pediatric Oncology",
+            "url": "https://clinicaltrials.gov/study/NCT07175415"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00352027",
+            "title": "Stanford V Chemotherapy With Low-Dose Tailored-Field Radiation Therapy for Intermediate Risk Pediatric Hodgkin Lymphoma",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2006-07-20",
+            "completion_date": "2022-11-15",
+            "country": "United States",
+            "enrollment": 81,
+            "brief_summary": "The main purpose of this protocol is to estimate the percentage of patients with intermediate risk Hodgkin lymphoma who will survive free of disease (Event-free survival) for three years after treatment with multi-agent chemotherapy (Stanford V) and low-dose, tailored-field radiation therapy. The hypothesis being studied is that this treatment will result in more than 80% of patients being alive and free of disease three years after starting treatment.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is less than or equal to 21 years of age\n* Patient has a confirmed diagnosis of previously untreated Hodgkin lymphoma\n* Has Ann Arbor stage IB, IIIA, or IA/IIA with extranodal extension, multiple nodal involvement (3 or more sites), or bulky mediastinal adenopathy.\n\nEx",
+            "endpoints": [
+              "3-year Event-Free Survival Probability"
+            ],
+            "sponsor": "St. Jude Children's Research Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00352027"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00019409",
+            "title": "A Randomized Study of Two Methods of CNS Prophylaxis in Patients With Acute Lymphoblastic Leukemia",
+            "phase": "PHASE3",
+            "status": "WITHDRAWN",
+            "start_date": "1999-10",
+            "completion_date": "2001-07",
+            "country": "India, United States",
+            "enrollment": 0,
+            "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage cancer cells. Giving radiation therapy to the head or intrathecal chemotherapy may prevent cancer cells from spreading to the brain. It is not yet known which treatment regimen is more effective for acute lymphoblastic leukemia.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of radiation therapy to the head",
+            "eligibility_criteria": "DISEASE CHARACTERISTICS: Cytologically confirmed acute lymphoblastic leukemia Greater than 25% lymphoblasts in bone marrow No mediastinal or localized lymphoblastic lymphoma No single node or extranodal site without bone marrow involvement No B cell lymphoma (Burkitt's or L3 FAB) No blast cells posi",
+            "endpoints": [],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT00019409"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01186328",
+            "title": "A Phase I Study Evaluating the Safety, Tolerability and Biological Activity of EZN-3042, a Survivin mRNA Antagonist, Administered With Re-induction Chemotherapy in Children With Relapsed Acute Lymphoblastic Leukemia (ALL)",
+            "phase": "PHASE1",
+            "status": "TERMINATED",
+            "start_date": "2010-08-24",
+            "completion_date": "2012-01-10",
+            "country": "United States, Australia",
+            "enrollment": 6,
+            "brief_summary": "An experimental drug called EZN-3042 targets survivin, a protein expressed in leukemia cells at relapse that promotes the leukemia cells to grow. The main goal of this phase I study is to find out the dose of EZN-3042 that can be safely given without serious side effects both alone and in combination with standard chemotherapy drugs during re-induction.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be ≥1 and ≤ 21 years of age when originally diagnosed with acute lymphoblastic leukemia (ALL).\n* Patients must have relapsed or refractory B-precursor acute lymphoblastic leukemia (ALL) with ≥25% blasts in the bone marrow (M3), with or without extramedullary dise",
+            "endpoints": [
+              "Maximum Tolerated Dose of EZN-3042"
+            ],
+            "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+            "url": "https://clinicaltrials.gov/study/NCT01186328"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06124157",
+            "title": "An International Pilot Study of Chemotherapy and Tyrosine Kinase Inhibitors With Blinatumomab in Patients With Newly-Diagnosed Philadelphia Chromosome-Positive or ABL-Class Philadelphia Chromosome-Like B-Cell Acute Lymphoblastic Leukemia",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2025-05-30",
+            "completion_date": "2030-12-01",
+            "country": "Puerto Rico, United States, Australia, Canada",
+            "enrollment": 222,
+            "brief_summary": "This pilot trial assesses the effect of the combination of blinatumomab with dasatinib or imatinib and standard chemotherapy for treating patients with Philadelphia chromosome positive (Ph+) or ABL-class Philadelphia chromosome-like (Ph-like) B-Cell acute lymphoblastic leukemia (B-ALL). Blinatumomab is a bispecific antibody that binds to two different proteins-one on the surface of cancer cells and one on the surface of cells in the immune system. An antibody is a protein made by the immune syst",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be \\> 365 days and \\< 18 years (for AIEOP-BFM), \\> 365 days and \\< 22 years (for Children's Oncology Group \\[COG\\]) and \\> 365 days and \\< 46 years (for ALLTogether sites) at the time of enrollment\n* Newly-diagnosed Ph+ or ABL-class Ph-like B-ALL. Leukemic blasts",
+            "endpoints": [
+              "Philadelphia chromosome-positive (Ph+) (BCR::ABL1-rearranged) 3-year event free survival (EFS)",
+              "ABL-class Ph-like B-ALL 3-year event free survival (EFS)",
+              "Incidence of adverse events"
+            ],
+            "sponsor": "National Cancer Institute (NCI)",
+            "url": "https://clinicaltrials.gov/study/NCT06124157"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03515200",
+            "title": "A Phase I Study of Palbociclib in Combination With Chemotherapy in Pediatric Patients With Relapsed or Refractory Acute Lymphoblastic Leukemia",
+            "phase": "PHASE1",
+            "status": "TERMINATED",
+            "start_date": "2018-04-20",
+            "completion_date": "2020-07-29",
+            "country": "United States",
+            "enrollment": 12,
+            "brief_summary": "Leukemia cells grow and divide fast and out of control. In normal cells, certain proteins called CDK4 and CDK6 control cell growth. The study drug called palbociclib works by blocking the CDK4 and CDK6 proteins. Palbociclib has been shown to kill leukemia cells in the laboratory and in animal studies. Palbociclib will be added to other chemotherapy drugs, such as dexamethasone, that are known to be effective in treating childhood ALL.\n\nThis study will be done in two parts: Part 1: Dose Escalatio",
+            "eligibility_criteria": "Inclusion Criteria:\n\nParticipants must be \\< 22 years of age.\n\nDiagnosis:\n\nParticipants must have a diagnosis of acute lymphoblastic leukemia and disease meets at least one of the following criteria:\n\n* relapsed or refractory to chemotherapy as defined by ≥5% leukemic blasts in the bone marrow or fl",
+            "endpoints": [
+              "Maximum tolerated dose (MTD) of palbociclib plus chemotherapy"
+            ],
+            "sponsor": "St. Jude Children's Research Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03515200"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05476770",
+            "title": "A Phase I Study of Tagraxofusp With or Without Chemotherapy in Pediatric Patients With Relapsed or Refractory CD123 Expressing Hematologic Malignancies",
+            "phase": "PHASE1",
+            "status": "RECRUITING",
+            "start_date": "2022-11-11",
+            "completion_date": "2027-11-11",
+            "country": "United States, Australia",
+            "enrollment": 54,
+            "brief_summary": "Tagraxofusp is a protein-drug conjugate consisting of a diphtheria toxin redirected to target CD123 has been approved for treatment in pediatric and adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN). This trial aims to examine the safety of this novel agent in pediatric patients with relapsed/refractory hematologic malignancies.\n\nThe mechanism by which tagraxofusp kills cells is distinct from that of conventional chemotherapy. Tagraxofusp directly targets CD123 that is pre",
+            "eligibility_criteria": "Inclusion Criteria:\n\nAge\n\n* Patients must be ≥ 1 and ≤21 years of age at the time of study enrollment.\n\nDiagnosis\n\n* Relapsed and/or refractory hematologic malignancy (including, but not limited to, acute lymphoblastic leukemia, acute myeloid leukemia, myelodysplastic syndrome, mixed phenotype acute",
+            "endpoints": [
+              "Occurrence of dose limiting toxicity (DLT) during cycle 1 of therapy"
+            ],
+            "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+            "url": "https://clinicaltrials.gov/study/NCT05476770"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06584448",
+            "title": "Role of Acetate in Heavy Drinking",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2024-11-06",
+            "completion_date": "2030-01",
+            "country": "United States",
+            "enrollment": 50,
+            "brief_summary": "The purpose of this study is to learn how drinking alcohol affects how people experience stress and how that is affected by the body's chemistry. Specifically, the investigators will be studying relationships of drinking and a stress hormone called cortisol. The investigators believe that results will lead us to find more effective ways to help people stop or reduce drinking when participants are drinking at harmful levels.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Medically stable male or female, aged 18-55.\n* Able to read, write and complete a multitude of self-assessments in Engl",
+            "endpoints": [
+              "Rate of Conversion of Acetate to Glutamate + Glutamine (Glx) in the Brain",
+              "Concentration of [2H]Glx in the brain during administration of [2H]acetate"
+            ],
+            "sponsor": "Yale University",
+            "url": "https://clinicaltrials.gov/study/NCT06584448"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01868035",
+            "title": "Phase II Multicenter Study of Iodine-131 Anti-B1 Antibody Consolidation For Patients With Diffuse Large B-Cell Non-Hodgkin's Lymphoma Following First-line CHOP",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2000-05",
+            "completion_date": "2012-10",
+            "country": "N/A",
+            "enrollment": 15,
+            "brief_summary": "This is a multicenter study for the long-term follow-up of surviving patients who are expected to complete or who have completed at least two years of follow-up after treatment with Iodine I 131 Tositumomab (BEXXAR) on studies CP-97-011, CP-98-025, CP-99-032, or CP-99-036. All patients will be assessed for survival and disease status, including subsequent therapy for Diffuse Large B-cell Non-Hodgkin's Lymphoma (NHL), and for long-term safety. Additionally laboratory evaluations consisting of a t",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* male or female subjects age 18 to 80 years, inclusive, with any International Prognostic Index score; treated with 6 or more cycles of first-line CHOP chemotherapy and achieved a PR, CRu, or CR\n* de novo diffuse large B-cell NHL according to the REAL classification; Ann Arbor ",
+            "endpoints": [
+              "Number of Participants With the Indicated Grade 4 Hematology Toxicities Following Iodine-131 Anti-B1 Antibody"
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT01868035"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00002970",
+            "title": "A Phase II Study of Compound 506U78 in Patients With Refractory T-Cell Malignancies-POG/CCG Intergroup Study",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "1997-06",
+            "completion_date": "",
+            "country": "United States",
+            "enrollment": 148,
+            "brief_summary": "Phase II trial to study the effectiveness of 506U78 in treating patients with recurrent or refractory hematologic cancer. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Refractory or recurrent acute lymphocytic leukemia (ALL) or non-Hodgkin's lymphoma (NHL) with bone marrow involvement (T-cell disease only)\n* Isolated CNS relapse not eligible\n* Performance status - Karnofsky 50-100%\n* At least 8 weeks\n* Bilirubin no greater than 1.5 mg/dL\n* S",
+            "endpoints": [
+              "Early marrow CR plus PR rate at day 21"
+            ],
+            "sponsor": "National Cancer Institute (NCI)",
+            "url": "https://clinicaltrials.gov/study/NCT00002970"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00526305",
+            "title": "LAL-Ph-2000: Treatment of Acute Lymphoblastic Leukemia Chromosome Philadelphia Positive",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2000-01",
+            "completion_date": "2005-04",
+            "country": "Spain",
+            "enrollment": 100,
+            "brief_summary": "Due to ALL Ph+ patients should receive a different treatment, is proposed a therapeutical protocol with: intensification treatment of induction to increment the CR rate, allogenic transplantation in first CR, autologous transplantation follow by alfa interferon in patients cannot done allogenic transplantation.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nALL BCR/ABL+ patients Age \\< 65 years No previous treatment\n\nExclusion Criteria:\n\n1. Other LLA variability\n2. Previous history of coronary valvular, hypertensive cardiopathy illness\n3. Chronic hepatic illness\n4. Chronic respiratory insufficiency\n5. Renal insufficiency not caused",
+            "endpoints": [
+              "To evaluate the efficacy of treatment in order to response rate, relapse free survival and overall survival"
+            ],
+            "sponsor": "PETHEMA Foundation",
+            "url": "https://clinicaltrials.gov/study/NCT00526305"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02101853",
+            "title": "Risk-Stratified Randomized Phase III Testing of Blinatumomab (NSC#765986) in First Relapse of Childhood B-Lymphoblastic Leukemia (B-ALL)",
+            "phase": "PHASE3",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2014-12-17",
+            "completion_date": "2026-09-16",
+            "country": "New Zealand, Australia, Puerto Rico, Canada, United States",
+            "enrollment": 669,
+            "brief_summary": "This randomized phase III trial studies how well blinatumomab works compared with standard combination chemotherapy in treating patients with B-cell acute lymphoblastic leukemia that has returned after a period of improvement (relapsed). Immunotherapy with blinatumomab may allow the body's immune system to attack and destroy some types of leukemia cells. It is not yet known whether blinatumomab is more effective than standard combination chemotherapy in treating relapsed B-cell acute lymphoblast",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients \\>= 1 year and \\< 31 years of age at the time of relapse will be eligible\n* First relapse of B-ALL, allowable sites of disease include isolated bone marrow, combined bone marrow and CNS and/or testicular, and isolated CNS and/or testicular; extramedullary sites are li",
+            "endpoints": [
+              "Disease Free Survival (DFS) of High-risk (HR) and Intermediate-risk (IR) Relapse Patients",
+              "Disease Free Survival (DFS) of Low Risk (LR) Relapse Patients"
+            ],
+            "sponsor": "National Cancer Institute (NCI)",
+            "url": "https://clinicaltrials.gov/study/NCT02101853"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00002757",
+            "title": "FAB LMB 96 -- Treatment of Mature B-CELL Lymphoma/Leukemia: A SFOP LMB 96/CCG 5961/UKCCSG NHL 9600 Cooperative Study",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2001-06",
+            "completion_date": "2009-10",
+            "country": "United Kingdom, France",
+            "enrollment": 1148,
+            "brief_summary": "RATIONALE: Less intensive therapy may attain in the same results as intensive therapy in children with non-Hodgkin's lymphoma.\n\nPURPOSE: Randomized phase III trial to study the effectiveness of less intensive therapy for children who have non-Hodgkin's lymphoma.",
+            "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* One of the following diagnoses:\n\n  * Newly diagnosed B-cell non-Hodgkin's lymphoma in Revised European-American Lymphoma (REAL) categories II 9, 10, and 11, i.e.:\n\n    * Diffuse large cell\n    * Burkitt's\n    * High-grade B-cell, Burkitt's-like\n  * L3 leukemia with greate",
+            "endpoints": [
+              "Event Free Survival"
+            ],
+            "sponsor": "Children's Oncology Group",
+            "url": "https://clinicaltrials.gov/study/NCT00002757"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05740449",
+            "title": "International Proof of Concept Therapeutic Stratification Trial of Molecular Anomalies in Relapsed or Refractory HEMatological Malignancies in Children, Subprotocol A: Decitabine / Venetoclax and Navitoclax in Pediatric Patients With Relapsed or Refractory Hematological Malignancies",
+            "phase": "PHASE1, PHASE2",
+            "status": "WITHDRAWN",
+            "start_date": "2023-10-01",
+            "completion_date": "2029-10-01",
+            "country": "Netherlands",
+            "enrollment": 0,
+            "brief_summary": "HEM-iSMART is a master protocol which investigates multiple investigational medicinal products in children, adolescents and young adults (AYA) with relapsed/refractory (R/R) ALL and LBL. Sub-protocol A is a phase I/II trial evaluating the safety and efficacy of Decitabine / Venetoclax and Navitoclax in children and AYA with R/R pediatric ALL/LBL",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Children between 4 years and 18 years of age at the time of first diagnosis and less than 21 years at the time of inclusion. Children must have a body weight ≥ 20 kg.\n2. Performance status: Karnofsky performance status (for patients \\>12 years of age) or Lansky Play score (fo",
+            "endpoints": [
+              "Phase I: Maximum tolerated dose (MTD) / Recommended phase 2 dose (RP2D)",
+              "Phase II: Best overall response rate (ORR)"
+            ],
+            "sponsor": "Princess Maxima Center for Pediatric Oncology",
+            "url": "https://clinicaltrials.gov/study/NCT05740449"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00489203",
+            "title": "A Phase II Study to Evaluate the Efficacy of Oral Beclomethasone Dipropionate for Prevention of Acute GVHD After Hematopoietic Cell Transplantation With Myeloablative Conditioning Regimens",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2007-04",
+            "completion_date": "",
+            "country": "United States",
+            "enrollment": 140,
+            "brief_summary": "RATIONALE: Beclomethasone dipropionate may be effective in preventing acute graft-versus-host disease in patients undergoing a stem cell transplant for hematologic cancer.\n\nPURPOSE: This randomized phase II trial is studying how well beclomethasone dipropionate works in preventing acute graft-versus-host disease in patients undergoing a donor stem cell transplant for hematologic cancer.",
+            "eligibility_criteria": "Inclusion\n\n* Allogeneic HCT with marrow or growth-factor mobilized blood cells from an HLA-A, B, C, DRB1, and HLA-DQB1-allele matched or single-allele or antigen mismatched related or unrelated donor\n* Use of myeloablative pre-transplant conditioning regimen with \\> 800 cGy total body irradiation an",
+            "endpoints": [
+              "Development of acute graft-versus-host disease (GVHD) with severity sufficient to require systemic immunosuppressive treatment"
+            ],
+            "sponsor": "Fred Hutchinson Cancer Center",
+            "url": "https://clinicaltrials.gov/study/NCT00489203"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01843868",
+            "title": "A Single Arm Study to Evaluate the Control of Chemotherapy Induced Nausea and Vomiting in Non-Hodgkin Lymphoma Patients Receiving R-CHOP.",
+            "phase": "NA",
+            "status": "WITHDRAWN",
+            "start_date": "2012-01",
+            "completion_date": "2015-06",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "The incidence and severity of chemotherapy-induced nausea and vomiting (CINV) in patients receiving R-CHOP chemotherapy for in non-Hodgkin's lymphoma is not well documented. The contribution of prednisolone to CINV control in the R-CHOP regimen is also unclear.\n\nThis study aims to evaluate the overall effectiveness of antiemetic control using a standardised 5HT3 (5-Hydroxytryptamine 3) antagonist-containing regimen (e.g. ondansetron) in a heterogeneous group of patients receiving R-CHOP chemothe",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed diagnosis of non Hodgkin's Lymphoma\n2. Newly diagnosed or relapsed patients who are chemotherapy-naïve or who have not received chemotherapy in the last 12 months. Pre-phase therapy with prednisolone and/or vincristine for \\< one week duration prior t",
+            "endpoints": [
+              "Complete Response, Acute Phase (Day 1), Cycle 1",
+              "Complete Response, Delayed Phase (Days 2 to 11), Cycle 1"
+            ],
+            "sponsor": "Australasian Leukaemia and Lymphoma Group",
+            "url": "https://clinicaltrials.gov/study/NCT01843868"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01313221",
+            "title": "A Randomized, Blinded Assessor Study to Evaluate the Efficacy and Safety of Etanercept 50 mg Once Weekly Plus As Needed Topical Agent Versus Etanercept 50 mg Twice Weekly in Subjects With Moderate to Severe Plaque Psoriasis",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2011-04",
+            "completion_date": "2013-05",
+            "country": "Canada",
+            "enrollment": 310,
+            "brief_summary": "To estimate the difference in effectiveness between treatment with etanercept 50 mg twice weekly (BIW) and treatment with etanercept 50 mg once weekly (QW) plus an as needed (PRN) topical agent for 12 weeks in adults with moderate to severe plaque psoriasis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Has had stable moderate to severe plaque psoriasis for at least 6 months (eg, no morphology changes or significant flares of disease activity in the opinion of the investigator).\n* Has a body surface area (BSA) involvement ≥ 10% and Psoriasis Area and Severity Index (PASI) ≥ 1",
+            "endpoints": [
+              "Percent Change in Psoriasis Area and Severity Index (PASI) From Week 12 to Week 24"
+            ],
+            "sponsor": "Amgen",
+            "url": "https://clinicaltrials.gov/study/NCT01313221"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00057811",
+            "title": "A Pilot Study To Determine The Toxicity Of The Addition Of Rituximab To The Induction And Consolidation Phases And The Addition Of Rasburicase To The Reduction Phase In Children With Newly Diagnosed Advanced B-Cell Leukemia/Lymphoma Treated With LMB/FAB Therapy",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2004-06",
+            "completion_date": "2014-07",
+            "country": "United States",
+            "enrollment": 97,
+            "brief_summary": "Phase II trial to study the effectiveness of combining rituximab and rasburicase with combination chemotherapy in treating young patients who have newly diagnosed advanced B-cell leukemia or lymphoma. Monoclonal antibodies such as rituximab can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells. Drugs used in chemotherapy work in different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one d",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed mature B-lineage (CD20-positive) leukemia or lymphoma by the REAL classification of 1 of the following subtypes:\n\n  * Diffuse large cell lymphoma\n  * Burkitt's lymphoma\n  * High-grade B-cell lymphoma (Burkitt-like)\n* No B-cell anaplastic large cell Ki-1 positiv",
+            "endpoints": [
+              "Grade ≥ 3 Stomatitis",
+              "Response Rate",
+              "Minimal Residual Disease"
+            ],
+            "sponsor": "Children's Oncology Group",
+            "url": "https://clinicaltrials.gov/study/NCT00057811"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05761171",
+            "title": "A Phase 2 Study of Revumenib (SNDX-5613) in Combination With Chemotherapy for Patients With Relapsed or Refractory KMT2A-Rearranged Infant Leukemia",
+            "phase": "PHASE2",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2024-01-08",
+            "completion_date": "2027-12-31",
+            "country": "United States, Canada",
+            "enrollment": 78,
+            "brief_summary": "This phase II trial tests the safety and best dose of revumenib in combination with chemotherapy, and evaluates whether this treatment improves the outcome in infants and young children who have leukemia that has come back (relapsed) or does not respond to treatment (refractory) and is associated with a KMT2A (MLL) gene rearrangement (KMT2A-R). Leukemia is a cancer of the white blood cells, where too many underdeveloped (abnormal) white blood cells, called \"blasts\", are found in the bone marrow,",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be 1 month to \\< 6 years old at the time of study enrollment and must have had initial diagnosis of leukemia at \\< 2 years old.\n* Patients must have KMT2A-rearranged acute lymphoblastic leukemia (ALL), acute leukemia of ambiguous lineage (ALAL), or mixed phenotyp",
+            "endpoints": [
+              "Incidence of dose-limiting toxicities (DLTs) for lymphoid directed chemotherapy block (Safety Phase)",
+              "Incidence of dose-limiting toxicities (DLTs) for myeloid directed chemotherapy block (Safety Phase)",
+              "Minimal residual disease (MRD) negative remission rate in patients with relapsed/refractory (R/R) infant KMT2A-R ALL (Expansion Phase)"
+            ],
+            "sponsor": "Children's Oncology Group",
+            "url": "https://clinicaltrials.gov/study/NCT05761171"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00481832",
+            "title": "Autologous Followed by Non-myeloablative Allogeneic Transplantation for Non-Hodgkin's Lymphoma",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2007-01",
+            "completion_date": "2017-03-30",
+            "country": "United States",
+            "enrollment": 50,
+            "brief_summary": "The purpose of this trial is to develop an alternative treatment for patients with poor risk non-Hodgkin's lymphoma. This trial uses a combination of high dose chemotherapy with stem cell transplant using the patient's own cells. This is followed with non-myeloablative transplant using stem cells from a related or unrelated donor to try and generate an anti-lymphoma response from the new immune system.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 to 70 years.\n* Histologically proven non-Hodgkin's lymphoma\n* Relapse after achieving initial remission or failure to achieve initial remission.\n* KPS \\> 70%\n* Matched related or unrelated donor identified and available. Donor must be a complete match or have only a sin",
+            "endpoints": [
+              "Event-free Survival (EFS)"
+            ],
+            "sponsor": "Stanford University",
+            "url": "https://clinicaltrials.gov/study/NCT00481832"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00096135",
+            "title": "Treatment of Late Isolated Extramedullary Relapse From Acute Lymphoblastic Leukemia (ALL) (Initial CR1≥ 18 Months)",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2004-11",
+            "completion_date": "",
+            "country": "New Zealand, Australia, Canada, Switzerland, United States",
+            "enrollment": 168,
+            "brief_summary": "RATIONALE: Drugs used in chemotherapy work in different ways to stop cancer cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage cancer cells. Giving combination chemotherapy together with radiation therapy may kill more cancer cells.\n\nPURPOSE: This clinical trial is studying how well giving chemotherapy together with radiation therapy works in treating patients with acute lymphoblastic leukemia that has relapsed in the CNS and/or testes.",
+            "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of acute lymphoblastic leukemia (ALL)\n\n  * B-precursor lineage (T-precursor lineage closed to accrual as of 05/20/10)\n  * In first bone marrow remission (M1 by morphology) AND duration of first complete remission ≥ 18 months from time of initial diagnosis\n* Firs",
+            "endpoints": [
+              "Event-free Survival"
+            ],
+            "sponsor": "Children's Oncology Group",
+            "url": "https://clinicaltrials.gov/study/NCT00096135"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03914625",
+            "title": "A Phase 3 Trial Investigating Blinatumomab (NSC# 765986) in Combination With Chemotherapy in Patients With Newly Diagnosed Standard Risk or Down Syndrome B-Lymphoblastic Leukemia (B-ALL) and the Treatment of Patients With Localized B-Lymphoblastic Lymphoma (B-LLy)",
+            "phase": "PHASE3",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2019-07-03",
+            "completion_date": "2027-09-30",
+            "country": "New Zealand, Australia, Puerto Rico, Canada, United States",
+            "enrollment": 6720,
+            "brief_summary": "This phase III trial studies how well blinatumomab works in combination with chemotherapy in treating patients with newly diagnosed, standard risk B-lymphoblastic leukemia or B-lymphoblastic lymphoma with or without Down syndrome. Monoclonal antibodies, such as blinatumomab, may induce changes in the body's immune system and may interfere with the ability of cancer cells to grow and spread. Chemotherapy drugs, such as vincristine, dexamethasone, prednisone, prednisolone, pegaspargase, methotrexa",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All B-ALL patients must be enrolled on APEC14B1 and consented to Eligibility Screening (Part A) prior to treatment and enrollment on AALL1731. APEC 14B1 is not a requirement for B-LLy patients. B-LLy patients may directly enroll on AALL1731.\n* Age at diagnosis:\n\n  * Patients m",
+            "endpoints": [
+              "Disease free survival (DFS) in randomization eligible patients with higher risk features (SR-High) or standard risk average (SR-Avg) B-ALL patients based on randomization with addition of blinatumomab",
+              "DFS in boys in the SR-favorable subset of SR B-ALL with or without Down syndrome (DS)"
+            ],
+            "sponsor": "National Cancer Institute (NCI)",
+            "url": "https://clinicaltrials.gov/study/NCT03914625"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03959085",
+            "title": "A Phase 3 Randomized Trial of Inotuzumab Ozogamicin (NSC#: 772518) for Newly Diagnosed High-Risk B-ALL; Risk-Adapted Post-Induction Therapy for High-Risk B-ALL, Mixed Phenotype Acute Leukemia, and Disseminated B-LLy",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2019-10-31",
+            "completion_date": "2032-03-31",
+            "country": "New Zealand, Australia, Puerto Rico, Canada, United States",
+            "enrollment": 5951,
+            "brief_summary": "This phase III trial studies whether inotuzumab ozogamicin added to post-induction chemotherapy and immunotherapy (chemo-immunotherapy) for patients with High-Risk B-cell Acute Lymphoblastic Leukemia (B-ALL) improves outcomes. This trial also studies the outcomes of patients with mixed phenotype acute leukemia (MPAL), and B-lymphoblastic lymphoma (B-LLy) when treated with ALL therapy without inotuzumab ozogamicin. Inotuzumab ozogamicin is a monoclonal antibody, called inotuzumab, linked to a typ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* B-ALL and MPAL patients must be enrolled on APEC14B1 and consented to eligibility studies (Part A) prior to treatment and enrollment on AALL1732. Note that central confirmation of MPAL diagnosis must occur within 22 days of enrollment for suspected MPAL patients. If not perfor",
+            "endpoints": [
+              "Post-induction 5-year event-free survival (EFS)"
+            ],
+            "sponsor": "Children's Oncology Group",
+            "url": "https://clinicaltrials.gov/study/NCT03959085"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00720109",
+            "title": "Intensified Tyrosine Kinase Inhibitor Therapy (Dasatinib NSC# 732517) in Philadelphia Chromosome Positive Acute Lymphoblastic Leukemia (ALL)",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2008-07-14",
+            "completion_date": "2020-03-31",
+            "country": "New Zealand, Australia, Puerto Rico, Canada, United States",
+            "enrollment": 63,
+            "brief_summary": "This phase II/III trial is studying the side effects and how well giving dasatinib together with combination chemotherapy works in treating young patients with newly diagnosed acute lymphoblastic leukemia (ALL). Dasatinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving dasatinib together with combin",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed acute lymphoblastic leukemia (ALL)\n\n  * Definitive evidence of BCR-ABL fusion (Philadelphia chromosome positive \\[PH+\\]) from an approved Children's Oncology Group (COG) cytogenetics laboratory\n* Meets one of the following criteria:\n\n  * Concurrent enrollment o",
+            "endpoints": [
+              "Event-Free Survival (EFS) of Patients With Standard-risk Disease Treated With Dasatinib in Combination With Intensified Chemotherapy",
+              "Feasibility and Toxicity of an Intensified Chemotherapeutic Regimen Incorporating Dasatinib for Treatment of Children and Adolescents With Ph+ ALL Assessed by Examining Adverse Events"
+            ],
+            "sponsor": "National Cancer Institute (NCI)",
+            "url": "https://clinicaltrials.gov/study/NCT00720109"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05751044",
+            "title": "International Proof of Concept Therapeutic Stratification Trial of Molecular Anomalies in Relapsed or Refractory HEMatological Malignancies in Children, Sub-protocol B Dasatinib + Venetoclax + Dexamethasone + Cyclophosphamide and Cytarabine in Pediatric Patients With Relapsed or Refractory Hematological Malignancies",
+            "phase": "PHASE1, PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2025-10-01",
+            "completion_date": "2032-02-01",
+            "country": "Denmark, Israel, Ireland, Belgium, Italy, Spain, France, Germany, Norway, Sweden, Austria, Finland, United Kingdom, Netherlands",
+            "enrollment": 26,
+            "brief_summary": "HEM-iSMART is a master protocol which investigates multiple investigational medicinal products in children, adolescents and young adults (AYA) with relapsed/refractory (R/R) ALL and LBL. Sub-protocol B is a phase I/II trial evaluating the safety and efficacy of dasatinib + venetocolax in combination with dexamethasone + Cyclophosphamide and cytarabine in children and AYA with R/R ped ALL/LBL whose tumor present with alterations in the MAPK/SRC pathway.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Children between 1 year (≥ 12 months) and 18 years of age at the time of first diagnosis and less than 21 years at the time of inclusion\n2. Performance status: Karnofsky performance status (for patients \\>12 years of age) or Lansky Play score (for patients ≤12 years of age) ≥",
+            "endpoints": [
+              "Phase I: Maximum tolerated dose (MTD) / Recommended phase 2 dose (RP2D).",
+              "Phase II: Best Overall Response Rate (ORR)."
+            ],
+            "sponsor": "Princess Maxima Center for Pediatric Oncology",
+            "url": "https://clinicaltrials.gov/study/NCT05751044"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00136435",
+            "title": "A Multicenter Phase II Study in Adults With Untreated Acute Lymphoblastic Leukemia: Testing Pharmacokinetically Individualized Doses of L-Asparaginase Following the Dana Farber Cancer Institute (DFCI) Pediatric Consortium Protocol",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2002-06",
+            "completion_date": "2011-05",
+            "country": "United States, Canada",
+            "enrollment": 100,
+            "brief_summary": "The purpose of this study is to determine the safety and optimal dosing of L-asparaginase in adult patients with acute lymphoblastic leukemia (ALL) between the ages of 18 and 50 years.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have pathologically documented acute lymphoblastic leukemia, excluding mature B-cell ALL.\n* No prior therapy for leukemia with the following exceptions:\n\n  * up to one week of steroids;\n  * emergent leukapheresis;\n  * emergency treatment for hyperleukocytosis wit",
+            "endpoints": [
+              "Asparaginase Completion Rate"
+            ],
+            "sponsor": "Dana-Farber Cancer Institute",
+            "url": "https://clinicaltrials.gov/study/NCT00136435"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00928200",
+            "title": "Intravenous Erwinase for Patients With Relapsed/Refractory Acute Lymphoblastic Leukemia and Allergy to E. Coli Asparaginase (IND 104224)",
+            "phase": "PHASE1",
+            "status": "TERMINATED",
+            "start_date": "2009-04-13",
+            "completion_date": "2010-06-04",
+            "country": "United States",
+            "enrollment": 1,
+            "brief_summary": "This is a phase I study using the Erwinia form of asparaginase in place of the E. coli form using a standard re-induction regimen (Vincristine, Dexamethasone, Doxorubicin) for patients with relapsed ALL who have developed an allergy to the E. coli formulation. This study will administer the drug intravenously instead of the usual intramuscular route. The dose of Erwinia will be escalated in the absence of dose limiting toxicity. Patients must have first or second relapse ALL with a history of pr",
+            "eligibility_criteria": "Inclusion Criteria The eligibility criteria listed below are interpreted literally and cannot be waived.\n\n1. Age Patients must be \\>1 and \\< 21 years of age when enrolled onto this study.\n2. Diagnosis Patients must have relapsed or refractory ALL with a M3 marrow (marrow blasts \\>25%) who have had n",
+            "endpoints": [
+              "Occurrence of a Dose-Limiting Toxicity"
+            ],
+            "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+            "url": "https://clinicaltrials.gov/study/NCT00928200"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01861002",
+            "title": "A Phase I Study of 5-Azacytidine in Combination With Chemotherapy for Children With Relapsed or Refractory ALL or AML",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2013-05-22",
+            "completion_date": "2014-07-28",
+            "country": "United States, Australia, Canada",
+            "enrollment": 15,
+            "brief_summary": "This is a Phase I study with a conditional cohort expansion phase to evaluate the feasibility of, and to obtain preliminary efficacy data about, pretreatment with Azacytidine (AZA) for 5 days followed by fludarabine/cytarabine chemotherapy regimen in pediatric acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL) patients who are refractory to primary treatment or who relapsed.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nPatients must be ≥ 1 and ≤ 21 years of age.\n\nDiagnosis\n\n1. Patients with AML must have ≥5% blasts (by morphology) in the bone marrow.\n2. Patients with ALL must have an M2 or M3 marrow (≥5% blasts by morphology).\n3. Patients may have disease in the central nervous system (CNS) or",
+            "endpoints": [
+              "Number of Participants Who Experienced a Dose Limiting Toxicity (DLT)"
+            ],
+            "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+            "url": "https://clinicaltrials.gov/study/NCT01861002"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05974410",
+            "title": "Expanded Access to Immunomodulatory AVM0703 for Solid Tumor and Blood Cancer Patients",
+            "phase": "N/A",
+            "status": "AVAILABLE",
+            "start_date": "",
+            "completion_date": "",
+            "country": "N/A",
+            "enrollment": "N/A",
+            "brief_summary": "AVM Biotechnology, Inc., provides immunomodulatory AVM0703 to solid tumor and blood cancer patients upon request by a US licensed MD or DO. As of July 2024, 37 patients have been treated through this FDA-EAP including patients diagnosed with relapsed or recurring glioblastoma, inoperable/chemotherapy ineligible CNS Squamous Cell Carcinoma, metastatic Breast Cancer, ovarian cancer, gastric cancer, Hodgkin's Lymphoma, Mixed Phenotype Acute Myelogenous Leukemia, colon cancer, B-ALL, Malignant Myxoi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n\\-\n\nExclusion Criteria:\n\n\\-",
+            "endpoints": [],
+            "sponsor": "AVM Biotechnology Inc",
+            "url": "https://clinicaltrials.gov/study/NCT05974410"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00853008",
+            "title": "Treatment of High Risk Adult Acute Lymphoblastic Leukemia",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2003-01",
+            "completion_date": "2012-12",
+            "country": "Spain",
+            "enrollment": 100,
+            "brief_summary": "Current therapeutic protocols for adult ALL consider MRD together with the baseline risk factors (age, WBC count, immunophenotype, cytogenetics) and speed in response to therapy for treatment decisions. On the other hand, the systematic use of allogeneic SCT for all adult patients (pts) with Ph- HR-ALL is still a matter of debate. The aim of the prospective study ALL-AR-03 from the Spanish PETHEMA Group was to evaluate the response to a differentiated therapy (chemotherapy or allogeneic SCT) acc",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* High risk ALL adult patients (age\\> 15 years)no treated previously\n* High-risk ALL:\n* One or more of the following:\n\n  * Age 30-60 yr.\n  * WBC count \\>25x109/L\n  * 11q23 or ALL1/AF4\n* Very high-risk ALL:\n* HR ALL and one or the following:\n\n  * Slow cytologic response (\\>10% bl",
+            "endpoints": [
+              "To evaluate the response to a differentiated therapy (chemotherapy or allogeneic SCT) according to early bone marrow blast clearance and MRD levels in HR Ph- adult ALL patients."
+            ],
+            "sponsor": "PETHEMA Foundation",
+            "url": "https://clinicaltrials.gov/study/NCT00853008"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00466258",
+            "title": "LINFOTARGAM: First-line Treatment With Dose-dense Chemotherapy Plus Rituximab (R-CHOP/14) and Highly Active Antiretroviral Therapy (HAART) in Patients With Diffuse Large B Cell Lymphoma (DLBCL) and Infection With the Human Immunodeficiency Virus (HIV)",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2006-10",
+            "completion_date": "2009-11",
+            "country": "Spain",
+            "enrollment": 50,
+            "brief_summary": "Main objective:\n\n* To evaluate the applicability of the treatment:\n\n  1. To evaluate the treatment toxicity according to the Common Terminology Criteria (CTC) version 3.0 of the National Cancer Institute (NCI).\n  2. To evaluate opportunistic and non-opportunistic infections after 6 cycles of treatment with rituximab plus cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) administered every 14 days and highly active antiretroviral therapy (HAART) in patients with diffuse large B ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with HIV infection diagnosed with DLBCL in any stage (I-IV according to the Ann Arbor classification) not previously treated for the lymphoma.\n* Patients with CD20-positive diffuse large B-cell lymphoma\n* Aged from 18 to 70 years old\n* Any score of International Progn",
+            "endpoints": [
+              "treatment toxicity according to the CTC criteria (version 3.0) of the National Cancer Institute (NCI)",
+              "opportunistic and non-opportunistic infections rate after 6 cycles of treatment with R-CHOP administered every 14 days and HAART in patients with DLBCL and HIV infection",
+              "adherence to the treatment with 6 cycles of R-CHOP considering the delays in the administration of the cycles and the reductions in the doses of chemotherapy (planned dose administered in predicted term)"
+            ],
+            "sponsor": "PETHEMA Foundation",
+            "url": "https://clinicaltrials.gov/study/NCT00466258"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02043587",
+            "title": "A Phase II Study of Punctual, Cyclic, and Intensive Chemotherapy With Liposomal Cytarabine (Depocyt®) CNS Prophylaxis for Adults With Acute Lymphoblastic Leukemia and Lymphoblastic Lymphoma",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2014-01",
+            "completion_date": "2022-04-14",
+            "country": "United States",
+            "enrollment": 31,
+            "brief_summary": "The objective of this protocol is to improve survival for adults with acute lymphoblastic leukemia or acute lymphoblastic lymphoma by reducing systemic and central nervous system (CNS) relapse with acceptable toxicity using intensive chemotherapy with liposomal cytarabine (Depocyt®) CNS prophylaxis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to understand and the willingness to sign a written informed consent.\n* Diagnosis of acute lymphoblastic leukemia or lymphoblastic lymphoma as defined by the World Health Organization \\[94\\]\n* Untreated disease EXCEPT for corticosteroids, hydroxyurea, leukapheresis, an",
+            "endpoints": [
+              "Event-free survival"
+            ],
+            "sponsor": "University of California, San Diego",
+            "url": "https://clinicaltrials.gov/study/NCT02043587"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01614197",
+            "title": "A Phase I Trial of Temsirolimus (CCI-779, Pfizer, Inc.) in Combination With Etoposide and Cyclophosphamide in Children With Relapsed Acute Lymphoblastic Leukemia and Non-Hodgkins Lymphoma",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2015-07-03",
+            "completion_date": "2020-09-04",
+            "country": "United States, Australia, Canada",
+            "enrollment": 16,
+            "brief_summary": "This is a phase I study of temsirolimus (Torisel) combined with dexamethasone, cyclophosphamide and etoposide in patients with relapsed acute lymphoblastic leukemia (ALL), lymphoblastic lymphoma (LL) or peripheral T-cell lymphoma (PTL).",
+            "eligibility_criteria": "INCLUSION CRITERIA\n\n-Patients must be greater than or equal to 12 months and ≤ 21 years of age at the time of study enrollment.\n\nPatients must have one of the following:\n\nLeukemia\n\n* Bone marrow involvement defined as ALL ≥ 25% blasts (M2 or M3) with or without extramedullary involvement.\n* Refracto",
+            "endpoints": [
+              "Number of Patients That Experienced DLT During Cycle 1 of Therapy"
+            ],
+            "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+            "url": "https://clinicaltrials.gov/study/NCT01614197"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06533748",
+            "title": "SJALL23H: Combination Antigen-Directed Induction Therapy for Newly Diagnosed Patients With B-Cell Precursor Acute Lymphoblastic Leukemia and Lymphoma",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2025-01-23",
+            "completion_date": "2034-05",
+            "country": "United States",
+            "enrollment": 128,
+            "brief_summary": "This is a Phase II clinical trial testing the use of two antigen-directed therapies, inotuzumab and blinatumomab, as part of induction therapy for children and young adults with newly diagnosed B-cell precursor acute lymphoblastic leukemia and lymphoma.\n\nPrimary Objective\n\n* To assess if the flow-cytometry assessed MRD-negative remission rate following an immunotherapy-based Induction in NCI-high risk patients without favorable genetic features is higher than the results of similar patients trea",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Enrollment on INITIALL.\n* Age 1-18.99 years at the time of enrollment on INITIALL.\n* B-Acute lymphoblastic leukemia or lymphoblastic lymphoma.\n* No prior chemotherapy excluding therapy given on or allowed by INITIALL.\n* NCI high-risk (age 10 years or greater or presenting WBC ",
+            "endpoints": [
+              "End of induction minimal residual disease negative remission"
+            ],
+            "sponsor": "St. Jude Children's Research Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT06533748"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00003215",
+            "title": "Standard Chemotherapy (CHOP Regimen) Versus Sequential High-Dose Chemotherapy With Autologous Stem Cell Transplantation in Patients With Newly Diagnosed Aggressive Non-Hodgkin's Lymphomas and Poor Prognostic Factors: A Randomized Phase III Study (MISTRAL)",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "1997-04",
+            "completion_date": "2004-03",
+            "country": "Greece, Italy, Switzerland, Germany, Austria",
+            "enrollment": 400,
+            "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining peripheral stem cell transplantation with more than one drug regimen may kill more tumor cells. It is not known whether receiving standard combination chemotherapy alone is more effective than receiving multiple combination chemotherapy plus peripheral stem cell transplantation for aggressive non-Hodgkin's lymphoma.\n\nPURPOSE: This randomized phase III trial is compari",
+            "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed aggressive non-Hodgkin's lymphoma (NHL)\n\n  * Diffuse large B-cell lymphoma\n  * Primary mediastinal large B-cell lymphoma\n  * Anaplastic large cell lymphoma (B-cell, T-cell, or null-cell type)\n* At least two of the following risk factors:\n\n  * Stag",
+            "endpoints": [],
+            "sponsor": "Swiss Cancer Institute",
+            "url": "https://clinicaltrials.gov/study/NCT00003215"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00354107",
+            "title": "A Phase I/II Pilot Study of Ifosfamide, Carboplatin and Etoposide Therapy (ICE) and SGN-30 (NSC# 731636, IND#) in Children With CD30+ Recurrent Anaplastic Large Cell Lymphoma",
+            "phase": "PHASE1, PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2007-01",
+            "completion_date": "2010-01",
+            "country": "United States",
+            "enrollment": 5,
+            "brief_summary": "This phase I/II trial is studying the side effects and best dose of SGN-30 when given together with ifosfamide, carboplatin, and etoposide and to see how well they work in treating young patients with recurrent anaplastic large cell lymphoma. Drugs used in chemotherapy, such as ifosfamide, carboplatin, and etoposide, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as SGN-30, can block cancer gro",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed anaplastic large cell lymphoma\n* CD30-positive disease\n* Must be in first or second relapse\n* Measurable disease\n* No CNS disease\n* Karnofsky performance status (PS) 60-100% (\\> 16 years of age) OR Lansky PS 60-100% (≤ 16 years of age)\n* Absolute neutr",
+            "endpoints": [
+              "Response"
+            ],
+            "sponsor": "National Cancer Institute (NCI)",
+            "url": "https://clinicaltrials.gov/study/NCT00354107"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01005758",
+            "title": "DFCI ALL Adult Consortium Protocol: Adult ALL Trial",
+            "phase": "PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2009-01",
+            "completion_date": "",
+            "country": "N/A",
+            "enrollment": 180,
+            "brief_summary": "RATIONALE: Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more cancer cells.\n\nPURPOSE: This phase II trial is studying the side effects of combination chemotherapy and to see how well it works in treating adult patients with newly diagnosed acute lymphoblastic leukemia.",
+            "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of acute lymphoblastic leukemia (ALL)\n* No known mature B-cell ALL\\*, defined by the presence of surface immunoglobulin, L3 morphology, t(8;14)(q24;q32), t(8;22), or t(2;8)\n\n  * Patients with T-cell surface markers and t(8;14)(q24;q11) are eligible NOTE: \\*Patie",
+            "endpoints": [
+              "Feasibility of intensification therapy, measured as the percentage of patients who, having achieved a complete remission after induction therapy, receive > 25 weeks of pegaspargase IV as part of intensification therapy",
+              "Toxicity"
+            ],
+            "sponsor": "National Cancer Institute (NCI)",
+            "url": "https://clinicaltrials.gov/study/NCT01005758"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05658640",
+            "title": "International Proof of Concept Therapeutic Stratification Trial of Molecular Anomalies in Relapsed or Refractory HEMatological Malignancies in Children, Subprotocol D: Trametinib + Dexamethasone + Cyclophosphamide and Cytarabine in Pediatric Patients With Relapsed or Refractory Hematological Malignancies",
+            "phase": "PHASE1, PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2023-11-14",
+            "completion_date": "2029-04-01",
+            "country": "Denmark, Israel, Ireland, Belgium, Italy, Spain, Switzerland, France, Germany, Norway, Sweden, Austria, Finland, United Kingdom, Netherlands",
+            "enrollment": 26,
+            "brief_summary": "HEM-iSMART is a master protocol which investigates multiple investigational medicinal products in children, adolescents and young adults (AYA) with relapsed/refractory (R/R) ALL and LBL. Sub-protocol D is a phase I/II trial evaluating the safety and efficacy of trametinib in combination with dexamethasone, cyclophosphamide and cytarabine in children and AYA with R/R ped ALL/LBL whose tumor present with alterations in the RAS-RAF-MAPK pathway.",
+            "eligibility_criteria": "Inclusion criteria\n\n1. Children between 1 year (≥ 12 months) and 18 years of age at the time of first diagnosis and less than 21 years at the time of inclusion. Patients under 6 years old must weigh at least 7 kg at the time of enrollment. Patients over 6 years old must weigh at least 10 kg at the t",
+            "endpoints": [
+              "Phase I: Maximum tolerated dose (MTD) / Recommended phase 2 dose (RP2D)",
+              "Phase II: Best Overall Response Rate (ORR)"
+            ],
+            "sponsor": "Princess Maxima Center for Pediatric Oncology",
+            "url": "https://clinicaltrials.gov/study/NCT05658640"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00002471",
+            "title": "Phase II Trial of Intensive, Short-Course Combination Chemotherapy in the Treatment of Newly Diagnosed Patients With Poor-Risk Nonlymphoblastic Lymphoma and Acute B-Lymphoblastic Leukemia and in Patients With Recurrent Non-Hodgkin's Lymphoma",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "1990-02",
+            "completion_date": "2003-01",
+            "country": "United States",
+            "enrollment": "N/A",
+            "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one drug may kill more cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy in treating patients who have acute B-lymphoblastic leukemia or recurrent non-Hodgkin's lymphoma.",
+            "eligibility_criteria": "DISEASE CHARACTERISTICS: Newly diagnosed undifferentiated nonlymphoblastic non-Hodgkin's lymphoma (Burkitt's or non-Burkitt's) Newly diagnosed large cell lymphoma with CNS involvement Recurrent non-Hodgkin's lymphoma L-3 and B-cell leukemia included At least 1 of the following required: LDH at least",
+            "endpoints": [],
+            "sponsor": "Memorial Sloan Kettering Cancer Center",
+            "url": "https://clinicaltrials.gov/study/NCT00002471"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02303821",
+            "title": "Phase 1b/2 Study of Carfilzomib in Combination With Induction Chemotherapy in Children With Relapsed or Refractory Acute Lymphoblastic Leukemia",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2015-02-16",
+            "completion_date": "2024-06-28",
+            "country": "Greece, Poland, Thailand, Australia, Canada, Sweden, Norway, Hong Kong, Romania, Singapore, Taiwan, Russia, Spain, France, United States, Czechia, Austria, South Korea, Turkey (Türkiye), Denmark, Israel, Mexico, Saudi Arabia, South Africa, Argentina, Netherlands, Portugal, Brazil, Colombia, Italy, Bulgaria, Chile, United Kingdom",
+            "enrollment": 141,
+            "brief_summary": "The purpose of Phase 1b of this study is to:\n\n* Asses the safety, tolerability and activity of carfilzomib, alone and in combination with induction chemotherapy, in children with relapsed or refractory acute lymphoblastic leukemia (ALL).\n* Determine the maximum tolerated dose (MTD) and to recommend a phase 2 dose of carfilzomib in combination with induction chemotherapy.\n\nThe purpose of Phase 2 of this study is to compare the rate of complete remission (CR) of carfilzomib in combination with vin",
+            "eligibility_criteria": "Phase 1b Key Inclusion Criteria:\n\n1. Age 21 years or younger at the time of initial ALL diagnosis and age \\> 1 year at the time of study treatment initiation.\n2. Subjects must have a diagnosis of relapsed or refractory ALL with ≥ 5% blasts in the bone marrow (M2 or M3 disease), with or without extra",
+            "endpoints": [
+              "Phase 1b: Number of Participants Who Experienced Treatment-emergent Adverse Events (TEAEs)",
+              "Phase 1b: Number of Participants Who Experienced Dose Limiting Toxicities (DLTs)",
+              "Phase 2: Percentage of Participants With Complete Remission (CR) After Induction Therapy"
+            ],
+            "sponsor": "Amgen",
+            "url": "https://clinicaltrials.gov/study/NCT02303821"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03817320",
+            "title": "A TACL Phase 1/2 Study of PO Ixazomib in Combination With Chemotherapy for Childhood Relapsed or Refractory Acute Lymphoblastic Leukemia and Lymphoblastic Lymphoma IND# 140730",
+            "phase": "PHASE1, PHASE2",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2019-02-12",
+            "completion_date": "2025-06-30",
+            "country": "United States, Australia",
+            "enrollment": 24,
+            "brief_summary": "This is a phase 1/2 study of a drug called Ixazomib in combination with cytotoxic chemotherapy consisting of Vincristine, Dexamethasone, Asparaginase, and Doxorubicin (VXLD).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age Patients must be ≤21 years of age at the time of enrollment.\n\n  1. Phase 1 - Initial enrollment will be restricted to patients \\< 18 years of age until 9 such patients are enrolled\n  2. Phase 2 - Initial enrollment will be restricted to patients \\< 18 years of age until 6 ",
+            "endpoints": [
+              "Phase 1: Dose Limiting Toxicity (DLT) During Block 1 of Chemotherapy",
+              "Phase 2: Response (CR + CR MRD-, and CR + CR MRD- + CRi) After Block 1 Chemotherapy at the RP2D"
+            ],
+            "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+            "url": "https://clinicaltrials.gov/study/NCT03817320"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00002700",
+            "title": "A RANDOMIZED PHASE III TRIAL COMPARING DEXAMETHASONE WITH PREDNISONE IN INDUCTION TREATMENT AND BONE MARROW TRANSPLANTATION WITH INTENSIVE MAINTENANCE TREATMENT IN ADOLESCENT AND ADULT ACUTE LYMPHOBLASTIC LEUKEMIA (ALL-4)",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "1995-08",
+            "completion_date": "",
+            "country": "Belgium, Italy, Croatia, France, Germany, Slovakia, Czechia, Portugal, Turkey (Türkiye), Netherlands",
+            "enrollment": 392,
+            "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining chemotherapy with radiation therapy may kill more tumor cells. Bone marrow transplantation can replace immune cells that were destroyed by chemotherapy.\n\nPURPOSE: Randomized phase III trial to study the effectiveness of chemotherapy compared with or without bone marrow transplantation in treating patients with acute lymphoblastic leukemia.",
+            "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Newly diagnosed acute lymphoblastic leukemia or lymphoblastic lymphoma with more than 30% blasts in bone marrow\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 15 to 60\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* See Disease Characterist",
+            "endpoints": [],
+            "sponsor": "European Organisation for Research and Treatment of Cancer - EORTC",
+            "url": "https://clinicaltrials.gov/study/NCT00002700"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "13671199",
+            "title": "[Histological changes induced in a reticulosarcoma by local administration of hydrocortisone acetate].",
+            "abstract": "",
+            "journal": "Bollettino della Societa italiana di biologia sperimentale",
+            "year": "1959",
+            "authors": [
+              "RICCI V"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hydrocortisone",
+              "Lymphoma, Large B-Cell, Diffuse",
+              "Lymphoma, Non-Hodgkin",
+              "Neoplasms",
+              "Palatal Neoplasms",
+              "Palate",
+              "Sarcoma"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13671199/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "disease of orbital region",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01860664",
+            "title": "Phase 2 EFFICACY AND SAFETY OF HYDROCORTISONE OPHTHALMIC OINTMENT - VERSUS PLACEBO IN THE TREATMENT OF ALLERGIC CONJUNCTIVITIS",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2013-05",
+            "completion_date": "2017-01-01",
+            "country": "United States",
+            "enrollment": 15,
+            "brief_summary": "The purpose of this study is to determine the safety and effectiveness of hydrocortisone ophthalmic ointment compared to placebo in the treatment of Allergic Conjunctivitis.",
+            "eligibility_criteria": "Inclusion Criteria\n\na) Diagnosis of allergic conjunctivitis. b) Must be at least 18 years of age c) Must be able and willing to comply with all treatment and follow up procedures d) Best corrected visual acuity of 0.3 logMAR or better (Snellen equivalent score of 20/40 or better) in each eye at Visi",
+            "endpoints": [
+              "Efficacy of Hydrocortisone Ophthalmic Ointment 0.5% vs. Placebo for the reduction of signs and symptoms associated with allergic conjunctivitis"
+            ],
+            "sponsor": "Koffler Vision Group",
+            "url": "https://clinicaltrials.gov/study/NCT01860664"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05222152",
+            "title": "A Double-Blind, Double-Dummy, Two-Way Cross-Over, Randomised, Phase II Study of Efficacy, Safety and Tolerability of Modified-Release Hydrocortisones: Chronocort® Versus Plenadren®, in Adrenal Insufficiency",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2021-11-23",
+            "completion_date": "2023-10-18",
+            "country": "United Kingdom, Germany",
+            "enrollment": 58,
+            "brief_summary": "This study is a double-blind, double-dummy, two-way cross-over, randomised, Phase II study to be conducted at approximately 6 investigational sites in 2 countries. The study will compare the efficacy, safety and tolerability of twice daily Chronocort, a modified-release hydrocortisone, with once daily Plenadren, a modified-release hydrocortisone, over a treatment period of up to 2 months in participants aged 18 years and over, diagnosed with primary Adrenal Insufficiency (AI).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female participants must be aged 18 years or older at the time of signing the informed consent.\n* Participants with known (documented) primary AI, defined as early morning pre-dose cortisol \\<50 nmol/L and currently treated with glucocorticoid as replacement therapy. P",
+            "endpoints": [
+              "To measure the change in morning serum cortisol levels from baseline, after 4 weeks treatment with Chronocort compared with 4 weeks treatment with Plenadren (crossover study)."
+            ],
+            "sponsor": "Neurocrine UK Limited",
+            "url": "https://clinicaltrials.gov/study/NCT05222152"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00039715",
+            "title": "Effect of Hydrocortisone Infusion on Hippocampal Glucose Metabolism, Neuropsychological Test Performance and Reexperiencing Symptoms in Patients With Post-Traumatic Stress Disorder (PTSD)",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2002-06",
+            "completion_date": "2004-09",
+            "country": "United States",
+            "enrollment": 93,
+            "brief_summary": "The purpose of this study is to determine whether people who develop Post-Traumatic Stress Disorder (PTSD) after a trauma have increased sensitivity to the effects of a stress hormone.\n\nPatients with PTSD have small hippocampal volume and deficits in hippocampal-mediated memory as compared to healthy people. However, it is unclear whether the smaller hippocampi are a consequence of PTSD or a risk factor for the development of PTSD. Some researchers believe that people who develop PTSD have an in",
+            "eligibility_criteria": "INCLUSION CRITERIA:\n\n1. The study sample will consist of:\n\n   Patients with a primary diagnosis of PTSD due to non-combat or combat related trauma according to DSM-IV.\n\n   Subjects with non-combat related traumatic experiences without current PTSD and\n\n   Healthy subjects without current or past his",
+            "endpoints": [],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT00039715"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06018727",
+            "title": "Role Of Sensitivity to neuroEndocrine Systems in Social Decisions",
+            "phase": "PHASE4",
+            "status": "WITHDRAWN",
+            "start_date": "2024-07",
+            "completion_date": "2025-07",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "The purpose of this research study is to investigate how personality traits and neuroendocrine systems relate to decision-making patterns in individuals 18-45 years old. The main question it aims to answer is how neuroendocrine activity impacts decision-making.\n\nThis study has two components. First, there will be an online session that participants complete to consent into the study, complete self-report surveys and a cognitive assessment, and confirm their eligibility for the second part of the",
+            "eligibility_criteria": "Inclusion Criteria:\n\nBorderline Personality Disorder (BPD) group:\n\n* Score of 38 or higher on PAI-BOR\n* Participants in the BPD group will be primarily recruited from the two DEPENd lab studies that maintain large samples of BPD participants. To ensure maximal similarity between BPD participants rec",
+            "endpoints": [
+              "Goal-directed decision-making in the Social Decision Tree Task (SDTT)",
+              "Change in salivary cortisol",
+              "Pupil diameter during SDTT"
+            ],
+            "sponsor": "University of North Carolina, Chapel Hill",
+            "url": "https://clinicaltrials.gov/study/NCT06018727"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02249676",
+            "title": "Autologous Mesenchymal Stem Cells for the Treatment of Progressive and Refractory Neuromyelitis Optica Spectrum Disorders: an Open-label Phase 2a Proof-of-concept Study",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2013-01",
+            "completion_date": "2014-12-31",
+            "country": "China",
+            "enrollment": 15,
+            "brief_summary": "Neuromyelitis optica (NMO) is a demyelinating and degenerative disorder of the central nervous system affecting vision and brain and spinal cord function which leads to accumulating disability with a 5 year-mortality of approximately 30%. Survivors are typically left with severe morbidity secondary to blindness, quadriparesis and respiratory failure. No agent has been found to be highly effective in halting disease activity.Based on recent outcomes of Multipotent mesenchymal stromal cells in aut",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Clinically definite neuromyelitis optica or neuromyelitis optica spectrum disorder\n* Age \\> 18 year\n* EDSS \\> 3\n* Progression continued relapses or worsening MRI after at least a year of attempted therapy as evidenced by one or more of the following:\n\n  * Increase of 1 EDSS po",
+            "endpoints": [
+              "EDSS"
+            ],
+            "sponsor": "Tianjin Medical University General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02249676"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05349006",
+            "title": "A Randomized, Placebo-controlled Phase 3 Trial of Azathioprine for the Prevention of Relapse in Myelin-oligodendrocyte-glycoprotein (MOG)-Antibody Associated Disease",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2023-12-12",
+            "completion_date": "2029-12-12",
+            "country": "France",
+            "enrollment": 126,
+            "brief_summary": "MOG-IgG associated disease (MOGAD) is a rare inflammatory disease of the central nervous system recently described. Initially reported as monophasic, data from incident cohorts suggests that around 50% of adult patients with MOG-Ab may relapse within the first two years of the disease, with most of relapses occurring early after disease onset.\n\nNo randomized controlled trial has ever been performed and therapeutic guidelines for this disease remain unclear especially after a single event. In sho",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* First attack of documented acute demyelinating syndrome of the central nervous system, within the past 3 months, whatever the severity or the clinical phenotype\n* Tested positive for MOG-Ab, confirmed in a centralized lab (Lyon referral centre)\n* Ability of th",
+            "endpoints": [
+              "Time to first relapse (in days), comparing azathioprine-treated vs placebo-treated patients during a randomized control period of a maximum of three years."
+            ],
+            "sponsor": "Hospices Civils de Lyon",
+            "url": "https://clinicaltrials.gov/study/NCT05349006"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05159284",
+            "title": "Prospective Evaluation of the Efficacy and Safety of Topical Hydrocortisone Treatment on Clinical Signs and Symptoms of Dry Eye Disease Associated With Moderate Meibomian Gland Dysfunction",
+            "phase": "PHASE4",
+            "status": "RECRUITING",
+            "start_date": "2021-11-09",
+            "completion_date": "2025-03",
+            "country": "Spain",
+            "enrollment": 54,
+            "brief_summary": "The purpose of this study is assess the efficacy and safety of topical hydrocortisone (Softacort) for treatment of clinical signs and symptoms of dry eye disease when associated with moderate meibomian gland dysfunction.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years\n2. Documented diagnosis of DE defined by TBUT value ≤ 5 seconds and Schirmer I test value \\< 10 mm/5 min\n3. Normal ophthalmic findings except dry eye disease and meibomian gland dysfunction\n4. OSDI score \\> 23 (moderate symptoms)\n5. Documented diagnosis of MGD ",
+            "endpoints": [
+              "Efficacy endpoint: Change from baseline in Meibomian Gland Dysfunction Dry Eye symptom score (MGD-DE) at 14 days",
+              "Safety endpoint: Incidence of increased intraocular pressure and change from baseline at Day 0, Day 14, Day 28 and Day 84"
+            ],
+            "sponsor": "Laboratorios Thea, Spain",
+            "url": "https://clinicaltrials.gov/study/NCT05159284"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03539601",
+            "title": "A PHASE 3B/4, MULTICENTER, RANDOMIZED, ASSESSOR BLINDED, VEHICLE AND ACTIVE (TOPICAL CORTICOSTEROID AND CALCINEURIN INHIBITOR) CONTROLLED, PARALLEL GROUP STUDY OF THE EFFICACY, SAFETY, AND LOCAL TOLERABILITY OF CRISABOROLE OINTMENT, 2% IN PEDIATRIC AND ADULT SUBJECTS (AGES 2 YEARS AND OLDER) WITH MILD TO MODERATE ATOPIC DERMATITIS",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2018-04-27",
+            "completion_date": "2020-12-11",
+            "country": "Poland, Italy, Switzerland, Sweden, Germany, United States, United Kingdom",
+            "enrollment": 237,
+            "brief_summary": "This 4-week study will evaluate the safety and efficacy of crisaborole ointment 2%; crisaborole vehicle; topical corticosteroid and topical calcineurin inhibitor, applied twice daily (BID) in subjects who are at least 2 years of age with mild-moderate AD.\n\nA Sub-Study of Optical Coherence Tomography and Biomarkers in Subjects ages 2 to \\<18 years old, with Mild to Moderate Atopic Dermatitis, treated with Crisaborole Ointment, 2% or Crisaborole Vehicle Ointment or Hydrocortisone Butyrate 0.1% Cre",
+            "eligibility_criteria": "Inclusion Criteria:\n\nIs male or female 2 years and older at the Screening visit/time of informed consent/assent diagnosed with mild-moderate AD (according to the criteria of Hanifin and Rajka), of at least 5% BSA.\n\nExclusion Criteria:\n\nHas any clinically significant medical disorder, condition, or d",
+            "endpoints": [
+              "Percent Change From Baseline in the Eczema Area and Severity Index (EASI) Total Score at Day 29",
+              "Number of Participants With Treatment Emergent Adverse Events (TEAEs), Serious Adverse Events (SAEs) and Treatment Discontinuations Due to AEs and SAEs",
+              "Number of Participants With Local Tolerability Adverse Events (AEs)"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT03539601"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05724056",
+            "title": "Comparison of the Efficacy and Safety of Idroflog® (Sodium Hyaluronate and Hydrocortisone) and Sodium Hyaluronate for the Treatment of Dry Eye Disease",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2023-03-01",
+            "completion_date": "2023-12-01",
+            "country": "France",
+            "enrollment": 130,
+            "brief_summary": "This study aims at demonstrating the non-inferiority of Idroflog compared to sodium hyaluronate 0.18% for the disease improvement of people with documented history of dry eyes and use of tear substitutes for at least 3 months.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Aged ≥ 18 years\n* Documented history of dry eyes and use of tear substitutes for at least 3 months within the last year",
+            "endpoints": [
+              "Change From Baseline in fluorescein corneal Staining (Oxford Scale 0-5) between inclusion and 30 days"
+            ],
+            "sponsor": "Alfa Intes Industria Terapeutica Splendore s.r.l.",
+            "url": "https://clinicaltrials.gov/study/NCT05724056"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06842316",
+            "title": "In Vitro Effects of Phytocannabinoids on Immune Response and Autophagy During Chronic Immune-mediated Inflammatory Diseases",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2025-04-10",
+            "completion_date": "2027-04-09",
+            "country": "France",
+            "enrollment": 100,
+            "brief_summary": "Cannabis, in addition to its psychotropic properties, could have anti-inflammatory and immunomodulatory effects. Phytocannabinoids (pCBs) are a group of molecules naturally secreted by the cannabis plant. The major pCBs are cannabidiol (CBD) and Δ9-tetrahydrocannabinol Δ9 (THC). Only THC has psychotropic effects, which CBD does not have. Alongside these two main components, there is a wide variety of other molecules, such as other pCBs and terpenes which could increase the effects on immune syst",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female ≥ 18 years old\n2. Diagnosis confirmed by a rheumatologist of RA or spondyloarthropathy (with or without IBD) or psoriatic arthritis (with or without active psoriasis) or systemic lupus erythematosus or Sjögren's disease\n3. Patient who has expressed consent to p",
+            "endpoints": [
+              "The primary outcome is to evaluate the biological effect of exposure of blood cells from patients suffering from IMID to different varieties of pCB extracts on the inflammatory profile.",
+              "The primary outcome is to evaluate the immunological effect of exposure of blood cells from patients suffering from IMID to different varieties of pCB extracts on the inflammatory profile."
+            ],
+            "sponsor": "Centre Hospitalier Régional d'Orléans",
+            "url": "https://clinicaltrials.gov/study/NCT06842316"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00002816",
+            "title": "EXTRAMEDULLARY RELAPSE AND OCCULT BONE MARROW INVOLVEMENT IN CHILDHOOD ACUTE LYMPHOBLASTIC LEUKEMIA: A PHASE III GROUP-WIDE STUDY",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "1996-12",
+            "completion_date": "2006-04",
+            "country": "United States, Australia, Canada",
+            "enrollment": 120,
+            "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die.\n\nPURPOSE: Phase III trial to compare the effectiveness of combination chemotherapy in treating children who have relapsed acute lymphoblastic leukemia.",
+            "eligibility_criteria": "DISEASE CHARACTERISTICS: Acute lymphoblastic leukemia (ALL) with isolated extramedullary relapse Relapse occurred during or following front-line therapy for ALL Initial diagnosis of more than 25% blasts of L1 or L2 morphology No leukemic marrow (M1) by conventional assessment Patients with B precurs",
+            "endpoints": [
+              "Event Free Survival"
+            ],
+            "sponsor": "Children's Oncology Group",
+            "url": "https://clinicaltrials.gov/study/NCT00002816"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02112019",
+            "title": "Endoscopic Treatment of Salivary Glands Affected by Sjögren's Syndrome; A Randomised Controlled Pilot Study",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2014-06",
+            "completion_date": "2017-12",
+            "country": "Netherlands",
+            "enrollment": 50,
+            "brief_summary": "Sjögren's syndrome (SS) is an autoimmune inflammatory disorder of the exocrine glands. It particularly affects the lacrimal and salivary glands. Severe dry mouth and eyes are frequently reported as presenting symptoms. These symptoms are in many cases accompanied by nonspecific symptoms, such as malaise and fatigue. In addition, extraglandular manifestations, like purpura, polyneuropathy, and arthritis, can be present. SS affects mainly women with a female/male ratio of 9:1 and can occur at all ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosed (by the European League Against Rheumatism guidelines) primary or secondary Syndrome of Sjögren\n* Age: \\> 18 years and \\< 70 years\n* A remaining salivary flow\n\nExclusion Criteria:\n\n* A complete lack of measurable salivary flow, also after stimulation of the glands ",
+            "endpoints": [
+              "Change, compared to baseline and to a non-treatment control group, in unstimulated whole mouth saliva in ml/min after sialoendoscopic treatment"
+            ],
+            "sponsor": "Amsterdam UMC, location VUmc",
+            "url": "https://clinicaltrials.gov/study/NCT02112019"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00533962",
+            "title": "Anterior Juxtascleral Depot of Anecortave Acetate: Intraocular Pressure Reduction in Glaucoma Patients",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2007-08",
+            "completion_date": "",
+            "country": "Brazil",
+            "enrollment": 30,
+            "brief_summary": "Introduction: Ocular administration of glucocorticoids is a common and effective treatment for several ocular diseases. However it is often complicated with the elevation of intraocular pressure (IOP). Anecortave acetate (AA) is an analog of cortisol acetate and lacks the typical anti-inflammatory and immunosuppressive properties of glucocorticoids. The effect of its anterior juxtascleral depot (AJD) injection has been evaluated in cases of glaucoma caused by intravitreal triamcinolone acetonide",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Advanced glaucoma cases with surgery or cyclophotocoagulation indication (IOP over 25 mmHg)\n* Patients should be under maximum tolerated medication\n* Low best corrected visual acuity (worse than 20/100)\n\nExclusion Criteria:\n\n* Under 18 or over 80",
+            "endpoints": [
+              "Intraocular pressure"
+            ],
+            "sponsor": "Federal University of São Paulo",
+            "url": "https://clinicaltrials.gov/study/NCT00533962"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04536129",
+            "title": "Effects of Topical Low Dose Preservative-free Hydrocortisone on Intraocular Pressure in Patients With and Without Glaucoma",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2019-11-04",
+            "completion_date": "2020-03-04",
+            "country": "Italy",
+            "enrollment": 90,
+            "brief_summary": "Evaluation of the safety and efficacy of hydrocortisone eye drops in the treatment of OSD (ocular surface disease) patients with and without glaucoma.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* age of at least 18 years\n* diagnosis of OSD (Ocular Surface Disease)\n* normal ophthalmic ﬁndings except history of OSD for at least 3 months, and current therapy with topical lubricants for at least 3 months\n* POAG (primary open-angle glaucoma ) patients on medical therapy\n\nEx",
+            "endpoints": [
+              "Intraocular pressure(IOP)",
+              "OSDI (Ocular Surface Disease Index) questionnaire"
+            ],
+            "sponsor": "University of Molise",
+            "url": "https://clinicaltrials.gov/study/NCT04536129"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06576245",
+            "title": "Efficacy of Quantum Molecular Resonance Combined With Intense Pulsed Light in Mixed Dry Eye: A Prospective Clinical Study.",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2023-09-01",
+            "completion_date": "2024-02-28",
+            "country": "Italy",
+            "enrollment": 25,
+            "brief_summary": "This study examines the effectiveness of combining Quantum Molecular Resonance (QMR) and Intense Pulsed Light (IPL) treatments for Mixed Dry Eye, a condition where both tear production and tear quality are compromised. Twenty-five patients received both treatments over a period of six weeks, and their symptoms and tear quality were monitored for three months.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Diagnosed with Mixed Dry Eye (MDE)\n* Ocular Surface Disease Index (OSDI) score of 13 or higher\n* Non-Invasive Tear Film Break-Up Time (NIBUT) less than 10 seconds\n* Lipid Layer Thickness (LLT) less than 75 nm\n* Schirmer I Test (ST) without anesthesia le",
+            "endpoints": [
+              "Improvement in Ocular Surface Disease Index (OSDI) Score"
+            ],
+            "sponsor": "University of Seville",
+            "url": "https://clinicaltrials.gov/study/NCT06576245"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01353313",
+            "title": "A Randomized Controlled Trial of the Effect of Hydrocortisone on Survival Without Bronchopulmonary Dysplasia and on Neurodevelopmental Outcomes at 22 - 26 Months of Age in Intubated Infants < 30 Weeks Gestation Age",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2011-08-11",
+            "completion_date": "2024-09-12",
+            "country": "United States",
+            "enrollment": 800,
+            "brief_summary": "The Hydrocortisone and Extubation study will test the safety and efficacy of a 10 day course of hydrocortisone for infants who are less than 30 weeks estimated gestational age and who are intubated at 14-28 days of life. Infants will be randomized to receive hydrocortisone or placebo. This study will determine if hydrocortisone improves infants'survival without moderate or severe BPD and will be associated with improvement in survival without moderate or severe neurodevelopmental impairment at 2",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* infants \\<30 weeks estimated gestational age\n* inborn at an NRN site or were admitted to an NRN site before 72 hours postnatal age\n* have received at least 7days of mechanical ventilation;\n* are receiving mechanical ventilation through an endotracheal tube .\n\nExclusion Criteri",
+            "endpoints": [
+              "Survival Without Moderate/Severe Physiologic Bronchopulmonary Dysplasia (BPD)",
+              "Survival Without Moderate/Severe Neurodevelopmental Impairment (NDI)"
+            ],
+            "sponsor": "NICHD Neonatal Research Network",
+            "url": "https://clinicaltrials.gov/study/NCT01353313"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03998358",
+            "title": "Characterization of Fatigue in Military Personnel With Traumatic Brain Injuries",
+            "phase": "N/A",
+            "status": "WITHDRAWN",
+            "start_date": "2021-03-19",
+            "completion_date": "2021-03-19",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "Background:\n\nPeople who have had a traumatic brain injury (TBI) often experience fatigue. Fatigue is the feeling tired all the time. Researchers want to learn more about how TBI and fatigue are related.\n\nObjective:\n\nTo better understand fatigue after TBI in active duty military and veterans.\n\nEligibility:\n\nActive duty service members or veterans ages 25-40 who have sustained at least 1 TBI more than 6 months but less than 5 years ago\n\nDesign:\n\nParticipants will be screened with:\n\n* Medical histo",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n* Are 25 to 40 years of age\n* Are active duty service members or veterans\n* May be NIH employees/staff who are either active duty service members or veterans; except for those who are employed by NINR or subordinates, relatives, and/or co-workers of NINR employees/staff\n* Have ",
+            "endpoints": [
+              "Determine differences in objective sleep measures determined by actigraphy and PSG data in military personnel with and without fatigue following a TBI."
+            ],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT03998358"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03907865",
+            "title": "Clinical Efficacy of Topical Hydrocortisone 0.335% (Softacort®) in Patients With Chronic Dry Eye Disease and Associated Ocular Surface Inflammation",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2018-03-27",
+            "completion_date": "2019-01-02",
+            "country": "Austria",
+            "enrollment": 60,
+            "brief_summary": "Dry eye disease (DED) is a highly prevalent ocular condition and induces a significant burden to the affected patients. Regardless of the underlying etiology, DED is associated with increased inflammation of the entire ocular surface including the adnexa, conjunctiva and cornea. As such, there is evidence from in vitro, animal and clinical studies that this inflammatory response of the ocular surface plays a pathophysiological key role in the development of DED. The Dry Eye Workshop 2007 (DEWS) ",
+            "eligibility_criteria": "Inclusion criteria:\n\n* Age ≥ 18 years\n* Normal ophthalmic findings except dry eye disease\n* Ametropy ≤ 6 diopters\n* Chronic dry eye defined as longer than six months since diagnosis\n* OSDI ≥ 22\n* Conjunctival Hyperemia ≥ Grade 3 (Efron Scale)\n* Current use of topical lubricants since at least 3 mont",
+            "endpoints": [
+              "Conjunctival hyperemia"
+            ],
+            "sponsor": "Medical University of Vienna",
+            "url": "https://clinicaltrials.gov/study/NCT03907865"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02153944",
+            "title": "Cognitive vs. Emotional Psycho-Pharmacological Manipulations of Fear vs. Anxiety",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2014-06-16",
+            "completion_date": "2021-10-07",
+            "country": "United States",
+            "enrollment": 142,
+            "brief_summary": "Objective:\n\nThe overall aim of this protocol is to examine the effect of pharmacological manipulations of affective and cognitive processes on anxiety and task performance. Ultimately, the goal is 1) to provide insight into the relative influence of cognitive and affective states on anxiety, 2) generate theoretical models that can be applied to a better understanding of the interaction between cognition and emotion, 3) develop a better screening approach to candidate anxiolytics, and 4) help for",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n* Ages 18-50\n* Males and females\n* Subjects give their own consent\n\nEXCLUSION CRITERIA:\n\n* Clinically significant prior exposure to medications, that based on the investigator s judgment, may impact the study, such as Ritalin (MPH).\n* Any significant medical or neurological pro",
+            "endpoints": [
+              "Magnitude of Startle Reflex During Safe Condition",
+              "Magnitude of Startle Reflex During Threat Condition",
+              "Proportion of Correct Responses in the Working Memory Task (N-back) - Safe Condition"
+            ],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT02153944"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04597762",
+            "title": "Effect of Ciclosporin Eyedrops on Ocular Symptoms and Optical Quality in Patients With Sjögren Syndrome",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2020-08-31",
+            "completion_date": "2021-03-31",
+            "country": "Austria",
+            "enrollment": 12,
+            "brief_summary": "Keratoconjunctivitis sicca, also known as dry eye syndrome, is one of the most common ophthalmological diseases and is treated with tear substitutes to moisten the surface of the eye and, in more severe cases of this disease, with local anti-inflammatory therapy with corticosteroids or ciclosporin A. In patients with rheumatological diseases, such as Sjögren's syndrome, dry eye syndrome of severe extent occurs particularly frequently, which is why topical anti-inflammatory therapy is often neces",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of severe keratoconjunctivitis sicca defined by:\n* Staining of the cornea ≥ grade III according to the Oxford scale\n* OSDI value ≥ 12\n* Age between 18 and 90 years\n* Primary or secondary Sjogren's syndrome (defined according to the American-European Consensus Group c",
+            "endpoints": [
+              "tearfilm breakup time",
+              "corneal fluorescein staining",
+              "corneal optical aberrations"
+            ],
+            "sponsor": "Hospital Hietzing",
+            "url": "https://clinicaltrials.gov/study/NCT04597762"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "leukemia, lymphocytic, susceptibility to",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16075024AZ",
+        "product": "HYDROSONE CREAM 1% W/W",
+        "active_ingredient": "HYDROCORTISONE ACETATE[10.00mg;1gm]",
+        "generic_name": NaN,
+        "holder": "MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-26",
+        "date_end": "2026-07-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16075024AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06061321AZ",
+        "product": "MINACORT CREAM",
+        "active_ingredient": "MICONAZOLE NITRATE[20;mg;1;g],HYDROCORTISONE ACETATE[10;mg;1;g]",
+        "generic_name": "Miconazole Nitrate 2% & Hydrocortisone Acetate 1% Cream",
+        "holder": "MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2021-10-08",
+        "date_end": "2026-10-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06061321AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19913383AZ",
+        "product": "MICORT CREAM",
+        "active_ingredient": "MICONAZOLE NITRATE[2%                            ],HYDROCORTISONE ACETATE[1%                            ]",
+        "generic_name": "Miconazole Nitrate 2% & Hydrocortisone Acetate 1% Cream",
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-03-30",
+        "date_end": "2027-03-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19913383AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06071061AZ",
+        "product": "Doproct Suppository",
+        "active_ingredient": "Zinc oxide[250.00;mg;;],BENZOCAINE[40.00;mg;;],HYDROCORTISONE ACETATE[7.50;mg;;]",
+        "generic_name": "Hydrocortisone Acetate 7.5mg, Benzocaine 40mg & Zinc Oxide 250mg Suppository",
+        "holder": "IDAMAN PHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-01",
+        "date_end": "2027-05-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06071061AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860156AZ",
+        "product": "Hysone Cream 1% (w/w)",
+        "active_ingredient": "HYDROCORTISONE ACETATE[1%                            ]",
+        "generic_name": "Hydrocortisone 1 % Cream",
+        "holder": "DUOPHARMA MANUFACTURING (BANGI) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-30",
+        "date_end": "2027-08-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860156AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021007AZ",
+        "product": "MYCOSONE CREAM",
+        "active_ingredient": "MICONAZOLE NITRATE[2% W/W                        ],HYDROCORTISONE ACETATE[1% W/W                        ]",
+        "generic_name": "Miconazole Nitrate 2% & Hydrocortisone Acetate 1% Cream",
+        "holder": "SUNWARD PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-01",
+        "date_end": "2027-09-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021007AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17107035AZ",
+        "product": "Fusate-H Cream",
+        "active_ingredient": "Hydrocortisone Acetate (Micronised)[10mg],Fusidic Acid (Micronised)[20mg]",
+        "generic_name": NaN,
+        "holder": "Noripharma Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-06",
+        "date_end": "2027-10-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17107035AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07050013AZ",
+        "product": "Doproct Rectal Ointment",
+        "active_ingredient": "HYDROCORTISONE ACETATE[5.00;mg;1.0;g],Zinc oxide[200.00;mg;1.0;g],BENZOCAINE[10.00;mg;1.0;g]",
+        "generic_name": "Hydrocortisone Acetate 5mg, Benzocaine 10mg &  Zinc Oxide 200mg Rectal Ointment",
+        "holder": "IMEKS PHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-31",
+        "date_end": "2027-10-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07050013AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19921155AZ",
+        "product": "CROTAMIXONE CREAM",
+        "active_ingredient": "HYDROCORTISONE ACETATE[0.25%W/W                      ],Crotamiton[10%V/W                        ]",
+        "generic_name": "Crotamiton 10% & Hydrocortisone 0.25% Cream",
+        "holder": "SUNWARD PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-31",
+        "date_end": "2027-10-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19921155AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08042471AZ",
+        "product": "Dermazol Plus Gel",
+        "active_ingredient": "HYDROCORTISONE ACETATE[1;%(w/w);;0],MICONAZOLE NITRATE[2;%(w/w);;0]",
+        "generic_name": "Miconazole Nitrate 2% & Hydrocortisone Acetate 1% Gel",
+        "holder": "WINWA MEDICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-05-02",
+        "date_end": "2028-05-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08042471AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08051743AZ",
+        "product": "Disuf-H cream",
+        "active_ingredient": "FUSIDIC ACID[2.00;%(w/w);;0],HYDROCORTISONE ACETATE[1.0;%(w/w);;0]",
+        "generic_name": "Fusidic Acid 2 % Cream",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-01",
+        "date_end": "2028-06-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08051743AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19985532AZ",
+        "product": "AXCEL FUNGICORT CREAM",
+        "active_ingredient": "HYDROCORTISONE[1% W/W                        ],MICONAZOLE NITRATE[2% W/W                        ]",
+        "generic_name": "Miconazole Nitrate 2% & Hydrocortisone Acetate 1% Cream",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-03",
+        "date_end": "2028-06-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19985532AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19986503AZ",
+        "product": "DECOCORT CREAM",
+        "active_ingredient": "MICONAZOLE NITRATE[2% W/W                        ],HYDROCORTISONE[1% W/W                        ]",
+        "generic_name": "Miconazole Nitrate 2% & Hydrocortisone Acetate 1% Cream",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-12",
+        "date_end": "2028-08-12",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19986503AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08080406AZ",
+        "product": "Dermazol Plus Lotion",
+        "active_ingredient": "MICONAZOLE NITRATE[2;%(w/w);;0],HYDROCORTISONE ACETATE[1;%(w/w);;0]",
+        "generic_name": "Miconazole Nitrate 2% & Hydrocortisone Acetate 1% Lotion",
+        "holder": "WINWA MEDICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-29",
+        "date_end": "2028-08-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08080406AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19985962AZ",
+        "product": "YSP HYDROCORT CREAM 1% W/W",
+        "active_ingredient": "HYDROCORTISONE ACETATE[10mg; 1000mg]",
+        "generic_name": "Hydrocortisone 1 % Cream",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-29",
+        "date_end": "2028-08-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19985962AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871132AZ",
+        "product": "XYLOPROCT OINTMENT",
+        "active_ingredient": "HYDROCORTISONE ACETATE[2.5MG/G                       ],LIGNOCAINE/LIDOCAINE[50 MG/G                       ]",
+        "generic_name": "Lignocaine, Aluminium Acetate, Zinc Oxide & Hydrocortisone Ointment",
+        "holder": "Aspen Medical Products Malaysia Sdn Bhd",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871132AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871133ACZ",
+        "product": "XYLOPROCT SUPPOSITORY",
+        "active_ingredient": "HYDROCORTISONE ACETATE[5 MG                          ],LIGNOCAINE/LIDOCAINE[60 MG                         ]",
+        "generic_name": "Lignocaine, Aluminium Acetate, Zinc Oxide & Hydrocortisone Suppository",
+        "holder": "Aspen Medical Products Malaysia Sdn Bhd",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871133ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19870461AZ",
+        "product": "Royce Hydrocortisone Acetate Cream 1% w/w",
+        "active_ingredient": "HYDROCORTISONE ACETATE[1% W/W                        ]",
+        "generic_name": "Hydrocortisone 1 % Cream",
+        "holder": "ROYCE PHARMA MANUFACTURING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19870461AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19870458AZ",
+        "product": "NP HYDROCORTISONE CREAM 1% W/W",
+        "active_ingredient": "HYDROCORTISONE ACETATE[1% W/W                        ]",
+        "generic_name": "Hydrocortisone 1 % Cream",
+        "holder": "Noripharma Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19870458AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19870460AZ",
+        "product": "SW HYDROCORTISONE CREAM 1% W/W",
+        "active_ingredient": "HYDROCORTISONE ACETATE[1% W/W                        ]",
+        "generic_name": "Hydrocortisone 1 % Cream",
+        "holder": "SUNWARD PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-10-16",
+        "date_end": "2028-10-16",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19870460AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL09011474AZ",
+        "product": "Liproct Suppository",
+        "active_ingredient": "HYDROCORTISONE ACETATE[5;mg;2650;mg],LIDOCAINE[60;mg;2650;mg],Zinc oxide.[400;mg;2650;mg]",
+        "generic_name": "Lignocaine, Aluminium Acetate, Zinc Oxide & Hydrocortisone Suppository",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-02-01",
+        "date_end": "2029-02-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL09011474AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940029AZ",
+        "product": "UCORT CREAM",
+        "active_ingredient": "HYDROCORTISONE ACETATE[10mg; 1000mg],UREA[100mg; 1000mg]",
+        "generic_name": "Hydrocortisone 1 % Cream",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-04-07",
+        "date_end": "2029-04-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940029AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19056127AE",
+        "product": "TOPIDERM HYDROCORTISONE ACETATE 1% W/W CREAM",
+        "active_ingredient": "HYDROCORTISONE ACETATE[1.00 %w/w]",
+        "generic_name": NaN,
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-05-31",
+        "date_end": "2029-05-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19056127AE"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19900408AZ",
+        "product": "ARISONE CREAM 1%",
+        "active_ingredient": "HYDROCORTISONE ACETATE[1.0G/100G                     ]",
+        "generic_name": "Hydrocortisone 1 % Cream",
+        "holder": "TERAPUTICS SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19900408AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19890364AZ",
+        "product": "PRIME'S HYDROCORTISONE CREAM 1%W/W",
+        "active_ingredient": "HYDROCORTISONE ACETATE[1%                            ]",
+        "generic_name": "Hydrocortisone 1 % Cream",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19890364AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860242AZ",
+        "product": "REXOM HYDROCORTISONE NEOMYCIN CREAM",
+        "active_ingredient": "HYDROCORTISONE ACETATE[0.5 %                         ],NEOMYCIN SULPHATE[0.5 %                         ]",
+        "generic_name": "Hydrocortisone 0.5 % & Neomycin 0.5 % Cream",
+        "holder": "KCK PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-10-04",
+        "date_end": "2029-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860242AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860159AZ",
+        "product": "REXOM HYDROCORTISONE CREAM 1%",
+        "active_ingredient": "HYDROCORTISONE ACETATE[1 %                           ]",
+        "generic_name": "Hydrocortisone 1 % Cream",
+        "holder": "KCK PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-10-04",
+        "date_end": "2029-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860159AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19992401AZ",
+        "product": "MICOSTEN-H CREAM",
+        "active_ingredient": "HYDROCORTISONE[10MG/G                        ],MICONAZOLE NITRATE[20MG/G                        ]",
+        "generic_name": "Miconazole Nitrate 2% & Hydrocortisone Acetate 1% Cream",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-10-05",
+        "date_end": "2029-10-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19992401AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19880309AZ",
+        "product": "ZARICORT CREAM",
+        "active_ingredient": "HYDROCORTISONE[1G                            ],MICONAZOLE NITRATE[2G                            ]",
+        "generic_name": "Miconazole Nitrate 2% & Hydrocortisone Acetate 1% Cream",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-14",
+        "date_end": "2029-11-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19880309AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20001028AZ",
+        "product": "FUCIDIN H CREAM",
+        "active_ingredient": "HYDROCORTISONE ACETATE[10mg],FUSIDIC ACID[20mg]",
+        "generic_name": "Fusidic Acid 2 % in Hydrocortisone 1% Cream",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-30",
+        "date_end": "2030-05-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20001028AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20076037AZ",
+        "product": "Mecort (Hydrocortisone Acetate Cream 1% w/w)",
+        "active_ingredient": "Hydrocortisone Acetate (Micronised)[10.0 mg,1.00 gm]",
+        "generic_name": NaN,
+        "holder": "Synercam (M) Sdn Bhd",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-07-10",
+        "date_end": "2030-07-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20076037AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20096015AZ",
+        "product": "Mecort C (Clotrimazole and Hydrocortisone Acetate Cream)",
+        "active_ingredient": "CLOTRIMAZOLE[10.00 mg,1.00 gm],HYDROCORTISONE ACETATE[10.00 mg,1.00 gm]",
+        "generic_name": NaN,
+        "holder": "Synercam (M) Sdn Bhd",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-09-04",
+        "date_end": "2030-09-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20096015AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19900171AZ",
+        "product": "WINCORT 1% CREAM",
+        "active_ingredient": "HYDROCORTISONE ACETATE[1%W/W                         ]",
+        "generic_name": "Hydrocortisone 1 % Cream",
+        "holder": "WINWA MEDICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-09-05",
+        "date_end": "2030-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19900171AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19910181AZ",
+        "product": "CORTISONE CREAM",
+        "active_ingredient": "HYDROCORTISONE ACETATE[1%                            ]",
+        "generic_name": "Hydrocortisone 1 % Cream",
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-09-05",
+        "date_end": "2030-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19910181AZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB14539",
+    "name": "Hydrocortisone acetate",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate"
+      },
+      "queried_at": "2026-03-04T13:13:38.167317",
+      "status": "success",
+      "result_count": 34,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate"
+      },
+      "queried_at": "2026-03-04T13:13:59.054676",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "erythema multiforme"
+      },
+      "queried_at": "2026-03-04T13:14:01.634966",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "erythema multiforme"
+      },
+      "queried_at": "2026-03-04T13:14:10.088908",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "erythema multiforme"
+      },
+      "queried_at": "2026-03-04T13:14:13.063797",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "hemorrhoid"
+      },
+      "queried_at": "2026-03-04T13:14:14.634105",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "hemorrhoid"
+      },
+      "queried_at": "2026-03-04T13:14:19.781780",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "hemorrhoid"
+      },
+      "queried_at": "2026-03-04T13:14:30.425567",
+      "status": "success",
+      "result_count": 18,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "lymphosarcoma"
+      },
+      "queried_at": "2026-03-04T13:15:13.098674",
+      "status": "success",
+      "result_count": 50,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "lymphosarcoma"
+      },
+      "queried_at": "2026-03-04T13:15:23.264987",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "lymphosarcoma"
+      },
+      "queried_at": "2026-03-04T13:15:33.736347",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "disease of orbital region"
+      },
+      "queried_at": "2026-03-04T13:15:56.567175",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "disease of orbital region"
+      },
+      "queried_at": "2026-03-04T13:16:03.236494",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "disease of orbital region"
+      },
+      "queried_at": "2026-03-04T13:16:06.235557",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "leukemia, lymphocytic, susceptibility to"
+      },
+      "queried_at": "2026-03-04T13:16:08.014184",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "leukemia, lymphocytic, susceptibility to"
+      },
+      "queried_at": "2026-03-04T13:16:15.264699",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Hydrocortisone Acetate",
+        "disease": "leukemia, lymphocytic, susceptibility to"
+      },
+      "queried_at": "2026-03-04T13:16:18.891006",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T13:16:18.899797",
+    "version": "1.0"
+  }
+}

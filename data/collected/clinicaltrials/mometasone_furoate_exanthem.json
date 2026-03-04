@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Mometasone Furoate",
+    "disease": "exanthem"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04615962",
+      "title": "A Phase I, Multicenter, Double-Blind, Randomized Study to Evaluate the Safety and Tolerability Profile of Topical Cream SNG100 for 14 Days of Treatment in Moderate Atopic Dermatitis Subjects.",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2021-01-01",
+      "completion_date": "2022-01",
+      "country": "N/A",
+      "enrollment": 66,
+      "brief_summary": "The investigators aimed to understand better the efficacy in a randomized, double-blind, intraindividual design trial in 66 participants with AD treated with SNG100, and 2 different strengths of topical steroids hydrocortisone and the medium potent mometasone furoate cream.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females 6 years old or older with a diagnosis of moderate atopic dermatitis confirmed by a dermatologist\n2. Any child age 6 to 18 with a diagnosis of moderate atopic dermatitis confirmed by a dermatologist, together with the child's parent/guardian. Written informed ",
+      "endpoints": [
+        "Side Effects AE's and SAE's"
+      ],
+      "sponsor": "Seanergy Dermatology Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04615962"
+    }
+  ],
+  "timestamp": "2026-03-04T13:24:21.888607",
+  "success": true,
+  "error_message": null
+}

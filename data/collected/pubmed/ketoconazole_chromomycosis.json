@@ -1,0 +1,559 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ketoconazole",
+    "disease": "chromomycosis",
+    "query_string": "Ketoconazole AND chromomycosis"
+  },
+  "data": {
+    "query": "Ketoconazole AND chromomycosis",
+    "results": [
+      {
+        "pmid": "6301794",
+        "title": "Ketoconazole.",
+        "abstract": "The treatment of most fungal infections is difficult, at best. Antifungal therapy is complicated by the development of resistant organisms and by the toxicity of many agents. Ketoconazole, an orally active imidazole derivative, has been approved by the Food and Drug Administration for the treatment of candidiasis, chronic mucocutaneous candidiasis, oral thrush, candiduria, coccidioidomycosis, histoplasmosis, chromomycosis, and paracoccidioidomycosis. At present, there is very little peer review literature on ketoconazole's effectiveness for several of its approved indications. Gastrointestinal side effects account for the majority of reported adverse reactions; however, preliminary evidence suggests that higher dosages of ketoconazole may decrease adrenal steroidogenesis. Currently, ketoconazole 200-400 mg/d is recommended; the duration of therapy remains to be firmly established. Until well-designed clinical trials are completed and ketoconazole's effectiveness is compared to that of ",
+        "journal": "Drug intelligence & clinical pharmacy",
+        "year": "1983",
+        "authors": [
+          "Hume A L",
+          "Kerkering T M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Bacteria",
+          "Costs and Cost Analysis",
+          "Drug Interactions",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Kinetics",
+          "Mycoses",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6301794/"
+      },
+      {
+        "pmid": "6309466",
+        "title": "Evaluation of ketoconazole.",
+        "abstract": "The pharmacology, microbiology, pharmacokinetics, clinical use, adverse effects, dosage and administration, and drug interactions of ketoconazole are reviewed. Ketoconazole, a new orally active antifungal agent, is an imidazole derivative structurally related to miconazole and clotrimazole. It impairs the synthesis of ergosterol (the main sterol in fungal cell membranes) in susceptible organisms, including yeast (Candida and Cryptococcus spp.), fungi, and dermatophytes. Ketoconazole is absorbed from the gastrointestinal tract; it is better absorbed from acidic aqueous solutions, so drugs that alter the pH of the stomach affect ketoconazole absorption. Therapeutic plasma concentrations are maintained for several hours following ketoconazole administration. Ketoconazole distributes readily into blood, urine, saliva, joint fluid, sebum, and cerumen; recent data indicate it may penetrate into cerebrospinal fluid as well. Elimination is biphasic, with a half-life of two hours during the fir",
+        "journal": "Clinical pharmacy",
+        "year": "1982",
+        "authors": [
+          "Sohn C A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Fungi",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Kinetics",
+          "Mycoses",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6309466/"
+      },
+      {
+        "pmid": "6252105",
+        "title": "Treatment of paracoccidioidomycosis, candidiasis, chromomycosis, lobomycosis, and mycetoma with ketoconazole.",
+        "abstract": "The authors present the use of ketoconazole in 27 cases of paracoccidioidomycosis, eight of mycetoma, seven of chromomycosis, four of systemic candidiasis and one of lobomycosis. The drug was administered orally in a dosage of 200 to 400 mg per day within a period of up to 90 days. The results of the treatment for paracoccidioidomycosis were of cicatrization of the cutaneous lesions in three to four weeks in 24 patients and in two, from six to seven weeks. Out of 27 patients, 14 presented pulmonary lesions. The evolution within a 90-day period showed radiological cure in one case, improvement in seven, and unaltered picture in five patients. In one, there was no further control. In the three out of four cases of candidiasis there was clinical and mycological cure and in one case marked improvement. In seven cases of chromomycosis there was marked improvement in two, moderate in four, and slight in one case. There was slight improvement in one case of lobomycosis, and in eight cases of ",
+        "journal": "International journal of dermatology",
+        "year": "1980",
+        "authors": [
+          "Cucé L C",
+          "Wroclawski E L",
+          "Sampaio S A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Chromoblastomycosis",
+          "Clinical Trials as Topic",
+          "Female",
+          "Humans",
+          "Imidazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6252105/"
+      },
+      {
+        "pmid": "6298285",
+        "title": "Treatment of chromomycosis with ketoconazole and 5-fluorocytosine.",
+        "abstract": "Chromomycosis is a disfiguring cutaneous mycosis that is often recalcitrant to therapy. We describe a case of chromomycosis of the lower extremities that is being successfully treated with ketoconazole and 5-fluorocytosine (5-FC) after treatment with ketoconazole alone had failed. In vitro studies showed that the drugs acted synergistically against the strain of Fonsecaea pedrosoi which was isolated from the patient's lesion.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1983",
+        "authors": [
+          "Silber J G",
+          "Gombert M E",
+          "Green K M",
+          "Shalita A R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antifungal Agents",
+          "Chromoblastomycosis",
+          "Drug Synergism",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Male",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6298285/"
+      },
+      {
+        "pmid": "3842101",
+        "title": "Treatment of chromomycosis with a combination of ketoconazole and 5-fluorocytosine.",
+        "abstract": "",
+        "journal": "The Ceylon medical journal",
+        "year": "1985",
+        "authors": [
+          "Atukorala D N",
+          "Pothupitiya G M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Chromoblastomycosis",
+          "Drug Therapy, Combination",
+          "Flucytosine",
+          "Humans",
+          "Ketoconazole",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3842101/"
+      },
+      {
+        "pmid": "6325087",
+        "title": "Ketoconazole.",
+        "abstract": "",
+        "journal": "Connecticut medicine",
+        "year": "1984",
+        "authors": [
+          "Deutsch P H",
+          "Quintiliani R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Candidiasis",
+          "Candidiasis, Chronic Mucocutaneous",
+          "Candidiasis, Oral",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Chromoblastomycosis",
+          "Coccidioidomycosis",
+          "Cryptococcosis",
+          "Dermatomycoses",
+          "Drug Interactions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6325087/"
+      },
+      {
+        "pmid": "3325708",
+        "title": "[Chromomycosis].",
+        "abstract": "A case of chromomycosis with an evolution of 25 years, in a caucasoid man, aged 57, living in Mozambique, is reported. Fonsecae pedrosoi, the most frequently responsible agent of chromomycosis in Mozambique's cases, was isolated. Prognosis seemed poor since good results from therapy were unexpected, considering the long course of disease, the extensive and fibrotic lesions, and the unsuccessful treatment with 5-fluorocytosine and ketoconazole. The patient was treated with associated amphotericin B-5-fluorocytosine, and topical heat. Clinical improvement and mycologic negative studies were obtained.",
+        "journal": "Medicina cutanea ibero-latino-americana",
+        "year": "1987",
+        "authors": [
+          "Cachão P",
+          "Rocha M M",
+          "Cabrita J",
+          "Rodrigo J G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Chromoblastomycosis",
+          "Flucytosine",
+          "Humans",
+          "Ketoconazole",
+          "Male",
+          "Middle Aged",
+          "Mozambique"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3325708/"
+      },
+      {
+        "pmid": "6255545",
+        "title": "Treatment of paracoccidioidomycosis, candidosis, chromomycosis, lobomycosis, and mycetoma with ketoconazole: a brief summary.",
+        "abstract": "",
+        "journal": "Reviews of infectious diseases",
+        "year": "1980",
+        "authors": [
+          "Cucé L C",
+          "Wroclawski E L",
+          "Sampaio S A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Candidiasis",
+          "Chromoblastomycosis",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Mycetoma",
+          "Mycoses",
+          "Paracoccidioidomycosis",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6255545/"
+      },
+      {
+        "pmid": "8077517",
+        "title": "Treatment of tropical mycoses.",
+        "abstract": "Several subcutaneous and deep-seated mycoses are either observed more frequently in the tropical areas or are restricted to certain regions within the tropics. These mycoses include sporotichosis, chromoblastomycosis, entomophthoromycosis, eumycetoma, lobomycosis, and paracoccidioidomycosis. In sporotrichosis and paracoccidioidomycosis, therapy often results in either complete resolution or marked improvement. For decades sporotrichosis has been treated successfully with potassium iodide, but recently the triazole compounds, especially itraconazole, have proved effective and free of major side effects. The usual therapy for paracoccidioidomycosis is sulfonamides or amphotericin B; the former requires prolonged treatment, whereas the latter causes a significant degree of toxicity. Various azole derivatives (ketoconazole, fluconazole, saperconazole, and itraconazole) allow shorter treatment courses, can be given orally, and are more effective. Presently, itraconazole is the drug of choic",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1994",
+        "authors": [
+          "Restrepo A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Blastomycosis",
+          "Chromoblastomycosis",
+          "Combined Modality Therapy",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Mucormycosis",
+          "Mycetoma",
+          "Mycoses",
+          "Paracoccidioidomycosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8077517/"
+      },
+      {
+        "pmid": "20952879",
+        "title": "Chromoblastomycosis.",
+        "abstract": "This is an account of twenty eight years of sufferings of a young sikh agriculturist, who ultimately succumbed to chromoblastomycosis- a not so uncommon mycotic infection, despite the use of toxic (amphoterecin-B) and newer antimycotic drugs (ketoconazole). Involvement of face, small and large gut, larynx and trachea are the other highlights of this case.",
+        "journal": "Indian journal of dermatology, venereology and leprology",
+        "year": "1995",
+        "authors": [
+          "Bharti R",
+          "Malhotra S K",
+          "Bal M S",
+          "Sharma K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20952879/"
+      },
+      {
+        "pmid": "2172333",
+        "title": "Treatment of chromoblastomycosis.",
+        "abstract": "Treatment of chromoblastomycosis is frequently difficult and unsatisfactory. A representative case is presented of this chronic subcutaneous fungal infection, characterized by warty, cauliflower-like lesions usually on the extremities. Chromoblastomycosis and its treatment are reviewed, with attention to itraconazole, a new triazole compound, as the possible drug of choice.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1990",
+        "authors": [
+          "Tuffanelli L",
+          "Milburn P B"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Chromoblastomycosis",
+          "Drug Administration Schedule",
+          "Humans",
+          "Itraconazole",
+          "Ketoconazole",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2172333/"
+      },
+      {
+        "pmid": "9283666",
+        "title": "Chromoblastomycosis murine model and in vitro test to evaluate the sensitivity of Fonsecaea pedrosoi to ketoconazole, itraconazole and saperconazole.",
+        "abstract": "An experimental model of murine chromoblastomycosis and in vitro tests with Fonsecaea pedrosoi were used to test the sensitivity of this fungus to three different antimycotics. The experimental model was standardized in BALB/c mice inoculated intraperitoneally with a 10(6) CFU/ml suspension of a F. pedrosoi isolate. Clinical infection was evident after 5 days of inoculation. Three groups of 27 mice each were used in the experiment. One group was treated with ketoconazole (KTZ), another with itraconazole (ITZ) and the other with saperconazole (SPZ). Antimycotic therapy was continued for 21 days. The control group consisted of 40 mice which were inoculated, but not treated. Infection was documented by macroscopic and microscopic examination of affected tissue in addition to culture of tissue macerates. Minimal inhibitory concentrations (MIC) and minimal fungicidal concentrations (MFC) for the F. pedrosoi strain used were done. The in vitro results showed that SPZ was the most active with",
+        "journal": "Memorias do Instituto Oswaldo Cruz",
+        "year": "1996",
+        "authors": [
+          "Cardona-Castro N",
+          "Agudelo-Flórez P",
+          "Restrepo-Molina R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Azoles",
+          "Chromoblastomycosis",
+          "Culture Techniques",
+          "Disease Models, Animal",
+          "Itraconazole",
+          "Ketoconazole",
+          "Mice",
+          "Mice, Inbred BALB C"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9283666/"
+      },
+      {
+        "pmid": "1663201",
+        "title": "[Tropical mycoses].",
+        "abstract": "The most common tropical subcutaneous and deep mycoses include chromomycosis, sporotrichosis and mycetoma. All are commonly found in Natal and in other sub-tropical countries. Although blastomycosis is endemic in North America, only four cases have been identified in Natal during the last 25 years and all presented with atypical clinical features. African histoplasmosis caused by H. capsulatum var. duboisii and limited mainly to central and western Africa has been found in only one patient in Natal. Paracoccidioidomycosis, although the most common deep mycosis in Latin America, is limited to that area and we have no experience of this disease in South Africa. Over the past eight years itraconazole has been used in clinical trials for all these mycoses. The results in sporotrichosis, non-meningeal blastomycosis and paracoccidioidomycosis suggest that for these diseases itraconazole may be the drug of choice. The results in histoplasmosis are encouraging as are the results in chromomycos",
+        "journal": "Medizinische Klinik (Munich, Germany : 1983)",
+        "year": "1991",
+        "authors": [
+          "Bayles M A"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Blastomycosis",
+          "Chromoblastomycosis",
+          "Clinical Trials as Topic",
+          "Female",
+          "Histoplasmosis",
+          "Humans",
+          "Itraconazole",
+          "Ketoconazole",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1663201/"
+      },
+      {
+        "pmid": "2540949",
+        "title": "Itraconazole. A review of its pharmacodynamic and pharmacokinetic properties, and therapeutic use in superficial and systemic mycoses.",
+        "abstract": "Itraconazole is an orally active triazole antifungal drug which has demonstrated a broad spectrum of activity and a favourable pharmacokinetic profile. It is a potent inhibitor of most human fungal pathogens including Aspergillus sp. In non-comparative clinical trials itraconazole was shown to be extremely effective in a wide range of superficial and more serious 'deep' fungal infections when administered once or twice daily. Generally, greater than 80% of patients with superficial dermatophyte or yeast infections are cured by itraconazole. Similarly, good to excellent response rates (clinical cure or marked improvement) are achieved in paracoccidioidomycosis, histoplasmosis, sporotrichosis, blastomycosis, systemic candidiasis, coccidioidomycosis, chromomycosis, aspergillosis and cryptococcosis. Understandably, given the rare nature of some of these diseases, clinical experience is relatively limited and further evaluation, preferably controlled trials with amphotericin B and ketoconaz",
+        "journal": "Drugs",
+        "year": "1989",
+        "authors": [
+          "Grant S M",
+          "Clissold S P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Humans",
+          "Itraconazole",
+          "Ketoconazole",
+          "Mycoses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2540949/"
+      },
+      {
+        "pmid": "1319312",
+        "title": "Tropical mycoses.",
+        "abstract": "The most common tropical subcutaneous and deep mycoses include chromomycosis, sporotrichosis and mycetoma. All are commonly found in Natal and in other subtropical countries. Although blastomycosis is endemic in North America, only 4 cases have been identified in Natal during the last 25 years, and all presented with atypical clinical features. African histoplasmosis, caused by Histoplasma capsulatum var. duboisii and limited mainly to central and western Africa, has been found in only 1 patient in Natal. Paracoccidioidomycosis, though the most common deep mycosis in Latin America, is limited to that area and there is no experience of this disease in South Africa. Over the past 8 years, itraconazole has been used in clinical trials for all 3 mycoses. The results in sporotrichosis, non-meningeal blastomycosis and paracoccidioidomycosis suggest that for these diseases itraconazole may be the drug of choice. The results in histoplasmosis are encouraging, as are the results in chromomycosi",
+        "journal": "Chemotherapy",
+        "year": "1992",
+        "authors": [
+          "Bayles M A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antifungal Agents",
+          "Blastomycosis",
+          "Chromoblastomycosis",
+          "Drug Therapy, Combination",
+          "Female",
+          "Flucytosine",
+          "Histoplasmosis",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1319312/"
+      },
+      {
+        "pmid": "1666399",
+        "title": "Treatment of chromoblastomycosis.",
+        "abstract": "",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1991",
+        "authors": [
+          "Pradinaud R",
+          "Bolzinger T"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Chromoblastomycosis",
+          "Drug Combinations",
+          "Flucytosine",
+          "Humans",
+          "Itraconazole",
+          "Ketoconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1666399/"
+      },
+      {
+        "pmid": "40183549",
+        "title": "Establishment of epidemiological cutoff values for Fonsecaea pedrosoi, the primary etiologic agent of chromoblastomycosis, and eight antifungal medications.",
+        "abstract": "Chromoblastomycosis, a fungal neglected tropical disease, is acquired through traumatic inoculation and is clinically characterized by a chronic granulomatous infection of the skin and subcutaneous tissue. Fonsecaea pedrosoi is the most commonly reported etiologic agent globally. Itraconazole is considered first-line therapy, but successful treatment with terbinafine, voriconazole, and posaconazole has been reported. F. pedrosoi minimum inhibitory concentration (MIC) data are limited, and epidemiological cutoffs (ECVs) are lacking; such data are important to help monitor antifungal resistance trends and guide initial antifungal selection. Thus, we performed antifungal susceptibility testing (AFST) on F. pedrosoi isolates and determined the MIC distributions and ECVs. AFST on Fonsecaea pedrosoi isolates was conducted at six laboratories from October 2023 to June 2024. Species identification was previously confirmed by DNA sequence analysis. AFST was performed by CLSI M38 standard broth ",
+        "journal": "Journal of clinical microbiology",
+        "year": "2025",
+        "authors": [
+          "Smith Dallas J",
+          "Melhem Marcia S C",
+          "Dirven Jessy",
+          "de Azevedo Conceição Maria Pedrozo E Silva",
+          "Marques Sirlei Garcia"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Chromoblastomycosis",
+          "Microbial Sensitivity Tests",
+          "Humans",
+          "Fonsecaea",
+          "Itraconazole",
+          "Terbinafine",
+          "Drug Resistance, Fungal",
+          "Voriconazole",
+          "Triazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40183549/"
+      },
+      {
+        "pmid": "14708965",
+        "title": "Epidemiology, clinical manifestations, and therapy of infections caused by dematiaceous fungi.",
+        "abstract": "The dematiaceous (brown-pigmented) fungi are a large and heterogenous group of moulds that cause a wide range of diseases including phaeohyphomycosis, chromoblastomycosis, and eumycotic mycetoma. Among the more important human pathogens are Alternaria species, Bipolaris species, Cladophialophora bantiana, Curvularia species, Exophiala species, Fonsecaea pedrosoi, Madurella species, Phialophora species, Scedosporium prolificans, Scytalidium dimidiatum, and Wangiella dermatitidis. These organisms are widespread in the environment, being found in soil, wood, and decomposing plant debris. Cutaneous, subcutaneous, and corneal infections with dematiaceous fungi occur worldwide, but are more common in tropical and subtropical climates. Infection results from traumatic implantation. Most cases occur in immunocompetent individuals. Dematiaceous moulds are also important causes of invasive sinusitis and allergic fungal sinusitis. Infection is thought to follow inhalation. Although cerebral infec",
+        "journal": "Journal of chemotherapy (Florence, Italy)",
+        "year": "2003",
+        "authors": [
+          "Brandt M E",
+          "Warnock D W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Brain Diseases",
+          "Diagnosis, Differential",
+          "Humans",
+          "Incidence",
+          "Mitosporic Fungi",
+          "Mycoses",
+          "Sinusitis",
+          "Terminology as Topic",
+          "Tropical Climate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14708965/"
+      },
+      {
+        "pmid": "2850755",
+        "title": "Treatment of chromoblastomycosis with itraconazole.",
+        "abstract": "The results of long-term itraconazole therapy in 10 patients with active chromoblastomycosis due to F. pedrosoi were reported. Therapy consisted of 100 or 200 mg/day of itraconazole, the length of therapy depending on the patient's response (12 to 24 months). This new triazole proved effective in reducing the number, size, and severity of the lesions in nine of the patients. Those patients with minor involvement profited more from therapy and were cured; patients with moderate involvement achieved either minor or major improvement. In most cases, signs and symptoms began to improve after 6 months of therapy. Mycological tests (in which tissue samples were treated with potassium hydroxide and cultured) became negative in six patients, but the fungus was eradicated in only three patients. Itraconazole produced no side effects. In spite of the need for long-term therapy, this new azole derivative effectively controls the disease.",
+        "journal": "Annals of the New York Academy of Sciences",
+        "year": "1988",
+        "authors": [
+          "Restrepo A",
+          "Gonzalez A",
+          "Gomez I",
+          "Arango M",
+          "de Bedout C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Chromoblastomycosis",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Itraconazole",
+          "Ketoconazole",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2850755/"
+      },
+      {
+        "pmid": "6255542",
+        "title": "Chemotherapy for the systemic mycoses: the prelude to ketoconazole.",
+        "abstract": "Successful chemotherapy of the systemic mycoses now covers a span of more than 75 years and dates to the first reported use of potassium iodide for treatment of sporotrichosis. The second drug with efficacy was stilbamidine, and its currently available successor, hydroxystilbamidine isethionate, still has a role in therapy of some patients with nonprogressive blastomycosis of the skin. The introduction in 1957 of amphotericin B marked the first time there was an effective agent for such diseases as cryptococcosis, histoplasmosis, candidosis, and with lesser success, for coccidioidomycosis, mucormycosis, and aspergillosis. However, amphotericin B is nephrotoxic, depresses bone marrow (especially erythropoeisis), and, if patients are not monitored and controlled closely, the drug produces hypokalemic muscle weakness and cardiotoxicity. Flucytosine has a narrower spectrum of activity (cryptococcosis, candidosis, cladosporiosis, and chromomycosis) but a preferable route of administration (",
+        "journal": "Reviews of infectious diseases",
+        "year": "1980",
+        "authors": [
+          "Utz J P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Animals",
+          "Antifungal Agents",
+          "Blastomycosis",
+          "Candida",
+          "Cladosporium",
+          "Coccidioidomycosis",
+          "Cryptococcosis",
+          "Flucytosine",
+          "Histoplasmosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6255542/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:20:25.665046",
+  "success": true,
+  "error_message": null
+}

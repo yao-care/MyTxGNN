@@ -1,0 +1,600 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrocortisone",
+    "disease": "lymphosarcoma",
+    "query_string": "Hydrocortisone AND lymphosarcoma"
+  },
+  "data": {
+    "query": "Hydrocortisone AND lymphosarcoma",
+    "results": [
+      {
+        "pmid": "2456400",
+        "title": "Combined therapy with 5-azacytidine and hydrocortisone in glucocorticoid-sensitive and -resistant mouse P1798 lymphosarcoma.",
+        "abstract": "Experiments were undertaken to test the hypothesis that 5-azacytidine (AZA) treatment might make the glucocorticoid-resistant line of the mouse P1798 lymphosarcoma sensitive to cortisol. A modest (30%), though significant, effect in making cells cortisol sensitive was observed. Moreover, AZA enhanced tumor growth inhibition by cortisol in the corresponding sensitive line. The AZA alone was cytostatic, but it had no effect on DNA synthesis. The drug did not alter cytoplasmic glucocorticoid receptor levels or affinity, but nuclear levels were increased in the sensitive tumor. Results suggest that glucocorticoid resistance may be partially reversible and that the effect of AZA may be at the gene-expression level.",
+        "journal": "Journal of the National Cancer Institute",
+        "year": "1988",
+        "authors": [
+          "Chi C W",
+          "Ip M M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Azacitidine",
+          "DNA, Neoplasm",
+          "Drug Resistance",
+          "Female",
+          "Hydrocortisone",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2456400/"
+      },
+      {
+        "pmid": "12209750",
+        "title": "Prophylactic intrathecal methotrexate and hydrocortisone reduces central nervous system recurrence and improves survival in aggressive non-hodgkin lymphoma.",
+        "abstract": "Central nervous system (CNS) recurrence is almost invariably fatal in patients with aggressive non-Hodgkin lymphoma (NHL). Although some protocols are intended to prevent CNS disease, the value of CNS prophylaxis in patients with aggressive NHL remains to be determined.",
+        "journal": "Cancer",
+        "year": "2002",
+        "authors": [
+          "Tomita Naoto",
+          "Kodama Fumio",
+          "Kanamori Heiwa",
+          "Motomura Shigeki",
+          "Ishigatsubo Yoshiaki"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System Neoplasms",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Hydrocortisone",
+          "Injections, Spinal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12209750/"
+      },
+      {
+        "pmid": "2744225",
+        "title": "Isolation and characterization of cortisol-sensitive and -resistant P1798 mouse lymphosarcoma cell lines.",
+        "abstract": "Three cell lines have been isolated and characterized from the P1798 mouse lymphosarcoma. One line, derived from a glucocorticoid-resistant tumor, was glucocorticoid-resistant in vitro. The other two cell lines, derived from glucocorticoid-sensitive and -resistant parental tumors, respectively, were shown to be glucocorticoid-sensitive in vitro. The glucocorticoid receptor from all three cell lines bound glucocorticoid with similar affinity and capacity. However, based on Sephacryl S-300 gel filtration, the glucocorticoid receptor from the resistant cell line was smaller than that of the two sensitive cell lines. Moreover, the glucocorticoid receptor from the resistant cell line accumulated to a greater extent in the nucleus. This resistant cell line thus resembles the nti variant of the S49 lymphoma cell line. All three cell lines were tumorigenic and metastatic when reimplanted into mice, contained the normal mouse diploid complement of 40 chromosomes and exhibited the same responsiv",
+        "journal": "Molecular and cellular endocrinology",
+        "year": "1989",
+        "authors": [
+          "Chi C W",
+          "Sykes D",
+          "Ip M M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cell Division",
+          "Chromatography, Gel",
+          "Chromosomes",
+          "Drug Resistance",
+          "Female",
+          "Hydrocortisone",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2744225/"
+      },
+      {
+        "pmid": "15891567",
+        "title": "Vincristine-induced urinary bladder paralysis.",
+        "abstract": "The authors describe the development of bladder paralysis in a child with acute lymphoblastic leukemia undergoing maintenance chemotherapy. Immediately before the adverse clinical event, the child had received vincristine intravenously and triple therapy with hydrocortisone, cytosine arabinoside, and methotrexate intrathecally and had begun a 5-day pulse of prednisolone. The authors conclude that the ensuing reversible bladder paralysis was related to the vincristine. The clinical event resolved, and vincristine was deleted from the child's subsequent therapy until full recovery was achieved. The authors advise recognition of this problem and discontinuation of the vincristine if transient bladder paralysis develops until symptoms completely disappear.",
+        "journal": "Journal of pediatric hematology/oncology",
+        "year": "2005",
+        "authors": [
+          "El Hayek Mohammed",
+          "Trad Omar",
+          "Jamil Altaf"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Phytogenic",
+          "Burkitt Lymphoma",
+          "Child, Preschool",
+          "Humans",
+          "Male",
+          "Paralysis",
+          "Treatment Outcome",
+          "Urinary Bladder Diseases",
+          "Urinary Catheterization",
+          "Vincristine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15891567/"
+      },
+      {
+        "pmid": "15755904",
+        "title": "A potential role for hydrocortisone in the positive regulation of IL-15-activated NK-cell proliferation and survival.",
+        "abstract": "Although glucocorticoids (GCs) have been described as acting mainly as anti-inflammatory and immunosuppressive drugs, they may also positively influence the immune system. In the present study, we demonstrate for the first time that hydrocortisone (HC), in synergy with interleukin-15 (IL-15), induces a dramatic increase in the expansion of peripheral blood-derived CD56+ cells, favoring the preferential outgrowth of classical natural killer (CD56+CD3- NK) over CD56+CD3+ natural killer T (NKT) cells. HC plus IL-15-driven CD56+ cells exhibited an increased potential for cytokine production with no impairment in their NK- and lymphokine-activated killer (LAK) activities. Elevated levels of GC-induced leucine zipper protein (GILZ) messenger RNA (mRNA) were detected in both NK and NKT cells cultured with HC and IL-15, in comparison to IL-15 alone. Phosphorylation status of signal transducer and activator of transcription 5 (STAT5) was not affected by the presence of HC in either of the popul",
+        "journal": "Blood",
+        "year": "2005",
+        "authors": [
+          "Perez Sonia A",
+          "Mahaira Louisa G",
+          "Demirtzoglou Fillio J",
+          "Sotiropoulou Panagiota A",
+          "Ioannidis Panayotis"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adoptive Transfer",
+          "Anti-Inflammatory Agents",
+          "Burkitt Lymphoma",
+          "CD3 Complex",
+          "CD56 Antigen",
+          "Cell Division",
+          "Cell Survival",
+          "Cells, Cultured",
+          "DNA-Binding Proteins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15755904/"
+      },
+      {
+        "pmid": "17565251",
+        "title": "[MTX-HOPE (methotrexate, hydrocortisone, vincristine, sobuzoxane, and etoposide) as a low-dose salvage chemotherapy for recurrent or refractory non-Hodgkin's lymphoma].",
+        "abstract": "We conducted a clinical study of MTX-HOPE (day 1, methotrexate 20 mg per os (po); day 2, hydrocortisone 100 mg intravenous (iv), vincristine 1 mg iv; day 3,4 sobuzoxane 400 mg po; etoposide 25 mg po, repeating every 2 or 3 weeks) in 14 relapsed or refractory patients with non-Hodgkin's lymphoma. Ten responders were obtained 5 CR and 5 PR), and heavily treated patients were included in the responders. The median duration of over all survival which was estimated with Kaplan-Meier curve was 11.1 months (range, 2-18+ months), and the median duration of response was 6.9 months (range, 0.8+ -16.4+ months). Out of the 14 patients,eleven were treated with this regimen in an outpatient setting. Grade 4 neutropenia and thrombocytopenia were observed in 4 and 2 patients,and grade 3 GPT-elevation and stomatitis in two and one, respectively. This newly developed MTX-HOPE therapy may be a promising treatment option for such patients as are intolerable for high-dose chemotherapies with PBSC rescue or",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2007",
+        "authors": [
+          "Tsunoda Saburo",
+          "Kobayashi Hiroyuki",
+          "Inoue Koichi",
+          "Izumi Tohru",
+          "Akutsu Miyuki"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Etoposide",
+          "Female",
+          "Humans",
+          "Hydrocortisone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17565251/"
+      },
+      {
+        "pmid": "4359883",
+        "title": "Glucocorticoid receptors and mechanism of resistance in the cortisol-sensitive and -resistant lines of lymphosarcoma P1798.",
+        "abstract": "",
+        "journal": "Cancer research",
+        "year": "1974",
+        "authors": [
+          "Kaiser N",
+          "Milholland R J",
+          "Rosen F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Binding Sites",
+          "Cells, Cultured",
+          "Centrifugation, Density Gradient",
+          "Drug Resistance",
+          "Glucocorticoids",
+          "Hydrocortisone",
+          "Hydroxycorticosteroids",
+          "Lymphoma, Non-Hodgkin",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4359883/"
+      },
+      {
+        "pmid": "4136288",
+        "title": "[Acquired granulocyte disorders].",
+        "abstract": "",
+        "journal": "Nouvelle revue francaise d'hematologie",
+        "year": "1974",
+        "authors": [
+          "Hakim J",
+          "Boivin P",
+          "Boucherot J",
+          "Troube H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Sideroblastic",
+          "Blood Bactericidal Activity",
+          "Chloramphenicol",
+          "Glucose",
+          "Hematologic Diseases",
+          "Humans",
+          "Hydrocortisone",
+          "Hydrogen Peroxide",
+          "Iodine",
+          "Latex Fixation Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4136288/"
+      },
+      {
+        "pmid": "24262982",
+        "title": "Adrenal disorders in human immunodeficiency virus (HIV) infected patients.",
+        "abstract": "Human Immunodeficiency Virus (HIV) infection is associated with adrenal disorders, which must not be underestimated. Adrenal morphologic changes are primarily related to opportunistic infections, mostly by cytomegalovirus and mycobacteria, and malignant tumours such as non-Hodgkin's lymphoma and Kaposi's sarcoma. The most frequent biological alteration reported to date is the increases in cortisol concentrations which results from a decrease in cortisol metabolism and hyperactivity of the hypothalamo-pituitary-adrenal axis commonly referred to as pseudo-Cushing's syndrome. These modifications can be a consequence of antiretroviral therapy and do not require any investigation or specific treatment. Conversely, adrenal insufficiency, either iatrogenic or secondary to glandular infiltration by neoplasms or infections, needs long-term substitution with hydrocortisone, but at present occurs more rarely and usually at late stages of disease progression. The impact of HIV infection on the oth",
+        "journal": "Annales d'endocrinologie",
+        "year": "2013",
+        "authors": [
+          "Bons Justine",
+          "Moreau Lucile",
+          "Lefebvre Hervé"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Gland Diseases",
+          "Adrenal Gland Neoplasms",
+          "Adrenal Insufficiency",
+          "Androgens",
+          "Glucocorticoids",
+          "HIV Infections",
+          "HIV-1",
+          "Humans",
+          "Mineralocorticoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24262982/"
+      },
+      {
+        "pmid": "28567296",
+        "title": "Thyrotoxicosis leading to adrenal crises reveals primary bilateral adrenal lymphoma.",
+        "abstract": "Primary adrenal lymphoma is a rare malignancy. It frequently presents bilaterally and with symptoms of adrenal insufficiency. Amiodarone may induce secondary organ dysfunction, and thyrotoxicosis develops in 15% of cases. The symptomatology of both conditions is nonspecific, especially in the elderly, and a high suspicion index is necessary for appropriate diagnosis. A 78-year-old female presented to the emergency department with confusion, nausea and vomiting. She had recently been to the emergency department with urinary tract infection, vomiting and acute hypochloremic hyponatremia. Upon re-evaluation, the leukocyturia persisted and because of TSH 0.01 µU/mL and free-T4 68 (10-18) pmol/L, she was admitted to the Endocrinology ward. Further evaluation supported amiodarone-induced thyroiditis type 2. Sepsis ensued, in the setting of nosocomial pneumonia. Hemodynamic instability, hyponatremia, hypoglycemia and vomiting raised the suspicion of adrenocortical insufficiency. Fluid resusci",
+        "journal": "Endocrinology, diabetes & metabolism case reports",
+        "year": "2017",
+        "authors": [
+          "Roque Catarina",
+          "Fonseca Ricardo",
+          "Bello Carlos Tavares",
+          "Vasconcelos Carlos",
+          "Galzerano António"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28567296/"
+      },
+      {
+        "pmid": "15547922",
+        "title": "The 2000 Burkitt lymphoma trial in Malawi.",
+        "abstract": "We previously reported 57% 12-month event free survival (EFS) in Malawian children with stage I to III Burkitt lymphoma (BL) with an intermediate dose chemotherapy protocol lasting 77 days. This protocol was shortened to 42 days and evaluated in children with stage I to IV disease for EFS and toxicity.",
+        "journal": "Pediatric blood & cancer",
+        "year": "2005",
+        "authors": [
+          "Hesseling Peter",
+          "Broadhead Robin",
+          "Mansvelt Erna",
+          "Louw Mercia",
+          "Wessels Glynn"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antimetabolites, Antineoplastic",
+          "Antineoplastic Agents, Alkylating",
+          "Antineoplastic Agents, Phytogenic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Burkitt Lymphoma",
+          "Child",
+          "Child, Preschool",
+          "Cyclophosphamide",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15547922/"
+      },
+      {
+        "pmid": "5467455",
+        "title": "Inhibition of glucose uptake in lymphosarcoma P1798 by cortisol and its relationship to the biosynthesis of deoxyribonucleic acid.",
+        "abstract": "",
+        "journal": "The Journal of biological chemistry",
+        "year": "1970",
+        "authors": [
+          "Rosen J M",
+          "Fina J R",
+          "Milholland J",
+          "Rosen F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amino Acids",
+          "Animals",
+          "Carbon Isotopes",
+          "DNA, Neoplasm",
+          "Dexamethasone",
+          "Glucose",
+          "Hexoses",
+          "Hydrocortisone",
+          "In Vitro Techniques",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5467455/"
+      },
+      {
+        "pmid": "7954266",
+        "title": "Excessive spinal cord toxicity from intensive central nervous system-directed therapies.",
+        "abstract": "Intrathecal chemotherapy, radiation therapy, and systemic chemotherapy are used for both prophylaxis and treatment of central nervous system (CNS) disease in hematologic malignancies. Twenty-three cases of myelopathy that occurred in patients who received intensive CNS-directed therapy were evaluated to identify the determinants of this severe CNS toxicity.",
+        "journal": "Cancer",
+        "year": "1994",
+        "authors": [
+          "Watterson J",
+          "Toogood I",
+          "Nieder M",
+          "Morse M",
+          "Frierdich S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Burkitt Lymphoma",
+          "Child",
+          "Child, Preschool",
+          "Cytarabine",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7954266/"
+      },
+      {
+        "pmid": "5066716",
+        "title": "Inhibitory effect of cortisol in vitro on 2-deoxyglucose uptake and RNA and protein metabolism in lymphosarcoma P1798.",
+        "abstract": "",
+        "journal": "Cancer research",
+        "year": "1972",
+        "authors": [
+          "Rosen J M",
+          "Fina J J",
+          "Milholland R J",
+          "Rosen F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aminoisobutyric Acids",
+          "Animals",
+          "Carbon Isotopes",
+          "Cycloheximide",
+          "Depression, Chemical",
+          "Glucose",
+          "Glycine",
+          "Hexoses",
+          "Hydrocortisone",
+          "In Vitro Techniques"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5066716/"
+      },
+      {
+        "pmid": "8317850",
+        "title": "Mutant glucocorticoid receptors in lymphoma.",
+        "abstract": "",
+        "journal": "Annals of the New York Academy of Sciences",
+        "year": "1993",
+        "authors": [
+          "Ip M M",
+          "Shea W K",
+          "Rowan B G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Hydrocortisone",
+          "Lymphoma, Non-Hodgkin",
+          "Mutation",
+          "Receptors, Glucocorticoid",
+          "Tumor Cells, Cultured"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8317850/"
+      },
+      {
+        "pmid": "184911",
+        "title": "Cushing's disease in a child with lymphosarcoma and acute leukemia.",
+        "abstract": "A 6-year-old girl with lymphosarcoma developed Cushing's syndrome. Suppression-stimulation studies verified adrenal hyperfunction secondary to bilateral adrenocortical hyperplasia, and the course suggested the possibility of \"ectopic ACTH\" production by the neoplasm as the etiology.",
+        "journal": "Cancer",
+        "year": "1976",
+        "authors": [
+          "Williams T E",
+          "Franks R C",
+          "McCallum A N"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex",
+          "Adrenocorticotropic Hormone",
+          "Child",
+          "Cushing Syndrome",
+          "Female",
+          "Hormones, Ectopic",
+          "Humans",
+          "Hydrocortisone",
+          "Hyperplasia",
+          "Leukemia, Lymphoid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/184911/"
+      },
+      {
+        "pmid": "6028675",
+        "title": "Pathergic granulomatosis.",
+        "abstract": "",
+        "journal": "Archives of dermatology",
+        "year": "1967",
+        "authors": [
+          "Baxter D L",
+          "Schrader W A",
+          "Beerman H",
+          "Fleischmajer R",
+          "Moschella S L"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dexamethasone",
+          "Diagnosis, Differential",
+          "Fludrocortisone",
+          "Granuloma",
+          "Humans",
+          "Lymphatic Diseases",
+          "Male",
+          "Mestranol",
+          "Middle Aged",
+          "Mycosis Fungoides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6028675/"
+      },
+      {
+        "pmid": "38508620",
+        "title": "Rituximab-combined anthracycline-free chemotherapy in newly diagnosed paediatric and adolescent patients with non-high-risk aggressive mature B cell lymphoma: protocol for a single-arm, open-label, multicentre, phase II study (the Japan Children's Cancer Group Multicentre Trial, JPLSG B-NHL-20).",
+        "abstract": "Children and adolescents with mature B cell non-Hodgkin lymphoma (B-NHL) are treated with short-intensive chemotherapy. The burden of short-term and long-term toxicity is highly relative to its high cure rate in good-risk patients. Although the addition of rituximab to standard lymphome Malin B (LMB) chemotherapy markedly prolongs event-free survival and overall survival in high-risk patients, the benefit of rituximab in good-risk patients remains to be elucidated. This clinical trial will examine whether the addition of rituximab eliminates anthracyclines in good-risk patients without compromising treatment outcomes.",
+        "journal": "BMJ open",
+        "year": "2024",
+        "authors": [
+          "Sekimizu Masahiro",
+          "Fukano Reiji",
+          "Koga Yuhki",
+          "Mitsui Tetsuo",
+          "Fujita Naoto"
+        ],
+        "pub_types": [
+          "Clinical Trial Protocol",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adolescent",
+          "Child",
+          "Rituximab",
+          "Vincristine",
+          "Methotrexate",
+          "Anthracyclines",
+          "Hydrocortisone",
+          "Japan",
+          "Doxorubicin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38508620/"
+      },
+      {
+        "pmid": "5537126",
+        "title": "A comparison of the effect of glucocorticoids on glucose uptake and hexokinase activity in lymphosarcoma P1798.",
+        "abstract": "",
+        "journal": "Biochimica et biophysica acta",
+        "year": "1970",
+        "authors": [
+          "Rosen J M",
+          "Milholland R J",
+          "Rosen F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Biological Transport",
+          "Carbon Isotopes",
+          "Dexamethasone",
+          "Glucokinase",
+          "Glucose",
+          "Hexokinase",
+          "Hexosephosphates",
+          "Hexoses",
+          "Hydrocortisone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5537126/"
+      },
+      {
+        "pmid": "4353485",
+        "title": "Effect of hydrocortisone on cell viability, Epstein-Barr virus genome expression, and interferon synthesis in human lymphoblastoid cell lines.",
+        "abstract": "",
+        "journal": "Cancer research",
+        "year": "1973",
+        "authors": [
+          "Joncas J",
+          "Boucher J",
+          "Boudreault A",
+          "Granger-Julien M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antigens, Viral",
+          "Bromodeoxyuridine",
+          "Burkitt Lymphoma",
+          "Cell Division",
+          "Cell Line",
+          "Herpesvirus 4, Human",
+          "Humans",
+          "Hydrocortisone",
+          "Interferons",
+          "Virus Replication"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4353485/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:17:15.489430",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,520 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Salicylic Acid",
+    "disease": "keratinization disease",
+    "query_string": "Salicylic Acid AND keratinization disease"
+  },
+  "data": {
+    "query": "Salicylic Acid AND keratinization disease",
+    "results": [
+      {
+        "pmid": "30972839",
+        "title": "Salicylic acid treats acne vulgaris by suppressing AMPK/SREBP1 pathway in sebocytes.",
+        "abstract": "Acne vulgaris is a prevalent cutaneous disease characterized by a multifactorial pathogenic process including hyperseborrhea, inflammation, over-keratinization of follicular keratinocytes and Propionibacterium acnes (P acnes) overgrowth. Salicylic acid (SA), a beta-hydroxy acid, is frequently used in the treatment of acne. SA has been found to decrease skin lipids and to possess anti-inflammatory properties. However, few studies have elucidated the mechanisms and pathways involved in such treatment of acne. In this study, we initially investigated the anti-acne properties of SA in human SEB-1 sebocytes. Treatment with SA decreased sebocyte lipogenesis by downregulating the adenosine monophosphate-activated protein kinase (AMPK)/sterol response element-binding protein-1 (SREBP-1) pathway and reduced inflammation by suppressing the NF-κB pathway in these cells. Salicylic acid also decreased the cell viability of SEB-1 by increasing apoptosis via the death signal receptor pathway. Subsequ",
+        "journal": "Experimental dermatology",
+        "year": "2019",
+        "authors": [
+          "Lu Jin",
+          "Cong Tianxin",
+          "Wen Xiang",
+          "Li Xiaoxue",
+          "Du Dan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "AMP-Activated Protein Kinases",
+          "Acne Vulgaris",
+          "Apoptosis",
+          "Cell Line",
+          "Computational Biology",
+          "Down-Regulation",
+          "Humans",
+          "Keratinocytes",
+          "Lipid Metabolism",
+          "Propionibacterium acnes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30972839/"
+      },
+      {
+        "pmid": "11976541",
+        "title": "[Xerosis].",
+        "abstract": "The clinical characteristic of xerosis is rough or coarse skin. Physiopathologically, the structure of the stratum corneum is modified and abnormalities in keratinization, proliferation, surface lipid, water metabolism and also pH and sebum exist. There are two forms of xerosis: dry skin forms and ichtyosis or ichtyosis-like forms. Xerosis has many etiologies including external aggression, senescence, drugs, infection, atopy, deficiencies, malignant diseases, endocrine affections, eating disorders and renal failure in dialyzed patients. It provokes cutaneous discomfort and unaesthetic appearance that justify appropriate treatment. Treatment is essentially local, symptomatic and must be accompanied by general measures. Many products include moisturizers and emollients (keratolytics: salicylic acid, urea and alpha-hydroxy acid).",
+        "journal": "Annales de dermatologie et de venereologie",
+        "year": "2002",
+        "authors": [
+          "Mazereeuw J",
+          "Bonafé J-L"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dermatologic Agents",
+          "Diet",
+          "Emollients",
+          "Humans",
+          "Hydrotherapy",
+          "Ichthyosis",
+          "Keratolytic Agents",
+          "Salicylic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11976541/"
+      },
+      {
+        "pmid": "19467104",
+        "title": "[Not Available].",
+        "abstract": "Summary Seborrhea is a problem which ought to be corrected in view of its inacceptability for aesthetic reasons as well as for the complications which can follow, particularly those of acne. The medical treatments of seborrhea are not entirely satisfactory. Products for treating seborrhea do not give complete satisfaction due to secondary effects. When the dosages employed are sufficient to have an effect they are also contraindicated, especially in the female. Cosmetic treatments have considerable benefit and are completely innocuous. The treatment of acne is based on the inhibition of bacterial colonization of the pilo-sebaceous follicle (tetracycline, erythromycine and benzoyl peroxide) as well as by treatments which modify keratinization (vitamin A acid as well as salicylic acid and resorcin). Yeast infections appearing on oily skins are easily treated by classic fungicides. These two diseases associated with oily skin recur continually and require a maintenance therapy.",
+        "journal": "International journal of cosmetic science",
+        "year": "1980",
+        "authors": [
+          "Chivot M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19467104/"
+      },
+      {
+        "pmid": "26916232",
+        "title": "The role of topical dermocosmetics in acne vulgaris.",
+        "abstract": "Acne is a common chronic inflammatory disease and treatment modalities based on acne severity are well established. The role of dermocosmetics in dermatology, and in particular acne, is becoming more important as more research elucidates the mechanisms of action of products in the pathogenesis of acne. Dermocosmetics have the potential to be used as monotherapy or in combination with medical treatment. Therefore, it has become important for dermatologists to understand dermocosmetics to effectively and appropriately advise patients on their use. The objective of this review was to provide new insights into the role of traditional and novel ingredients in dermocosmetics for the treatment of acne, based on the authors' objective assessment of the published literature. The type of products discussed include: those which have a sebostatic effect, such as topical antioxidants and niacinamide; agents targeting abnormal keratinization, such as salicylic acid, lipo-hydroxy acid, alpha-hydroxy ",
+        "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+        "year": "2016",
+        "authors": [
+          "Araviiskaia E",
+          "Dréno B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Administration, Topical",
+          "Cosmetics",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26916232/"
+      },
+      {
+        "pmid": "31032792",
+        "title": "Combination of 30% Salicylic Acid Peels and Mechanical Comedo Extraction for the Treatment of Favre-Racouchot Syndrome.",
+        "abstract": "Dear Editor, Favre-Racouchot syndrome is a cutaneous disease characterized by cysts, comedones, and elastotic nodules in actinically damaged skin, typically on the face (1). It has been specifically connected to sun exposure and heavy smoking, which may act synergistically (2). Available medical and surgical therapies are of variable efficacy. We present a combined therapeutic approach: 30% salicylic acid peels followed by manual extraction of cystic and comedonal material in the same visit. Five male patients, aged between 60-75 years with the clinical diagnosis of Favre-Racouchot syndrome, were treated with salicylic acid peel 30% followed by cyst and mechanical comedo extraction. Local anesthesia was considered unnecessary. Patients were subjected to the above therapies every two weeks for a series of four treatments. Photographs were taken before the beginning of treatment, as well as before and after each session (Figures 1a, b and 2a, b). At the end of the study, physician and pa",
+        "journal": "Acta dermatovenerologica Croatica : ADC",
+        "year": "2019",
+        "authors": [
+          "Platsidaki Eftychia",
+          "Markantoni Vasiliki",
+          "Balamoti Evgenia",
+          "Kouris Anargyros",
+          "Rigopoulos Dimitrios"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Chemexfoliation",
+          "Facial Dermatoses",
+          "Humans",
+          "Keratolytic Agents",
+          "Male",
+          "Middle Aged",
+          "Salicylic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31032792/"
+      },
+      {
+        "pmid": "10449958",
+        "title": "Comparative effects of retinoic acid, glycolic acid and a lipophilic derivative of salicylic acid on photodamaged epidermis.",
+        "abstract": "Studies comparing purported antiaging compounds are rare.",
+        "journal": "Dermatology (Basel, Switzerland)",
+        "year": "1999",
+        "authors": [
+          "Pi rard G E",
+          "Kligman A M",
+          "Stoudemayer T",
+          "Lévêque J L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Double-Blind Method",
+          "Epidermis",
+          "Female",
+          "Filaggrin Proteins",
+          "Glycolates",
+          "Humans",
+          "Immunohistochemistry",
+          "Intermediate Filament Proteins",
+          "Keratins",
+          "Keratolytic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10449958/"
+      },
+      {
+        "pmid": "29077501",
+        "title": "Management of Plantar KeratodermasLessons from Pachyonychia Congenita.",
+        "abstract": "Plantar keratodermas can arise due to a variety of genetically inherited mutations. The need to distinguish between different plantar keratoderma disorders is becoming increasingly apparent because there is evidence that they do not respond identically to treatment. Diagnosis can be aided by observation of other clinical manifestations, such as palmar keratoderma, more widespread hyperkeratosis of the epidermis, hair and nail dystrophies, or erythroderma. However, there are frequent cases of plantar keratoderma that occur in isolation. This review focuses on the rare autosomal dominant keratin disorder pachyonychia congenita, which presents with particularly painful plantar keratoderma for which there is no specific treatment. Typically, patients regularly trim/pare/file/grind their calluses and file/grind/clip their nails. Topical agents, including keratolytics (eg, salicylic acid, urea) and moisturizers, can provide limited benefit by softening the skin. For some patients, retinoids ",
+        "journal": "Journal of the American Podiatric Medical Association",
+        "year": "2017",
+        "authors": [
+          "Porter Rebecca M",
+          "Bravo Albert A",
+          "Smith Frances J D"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Comorbidity",
+          "Disease Management",
+          "Female",
+          "Humans",
+          "Keratoderma, Palmoplantar",
+          "Male",
+          "Pachyonychia Congenita",
+          "Pain Management",
+          "Prognosis",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29077501/"
+      },
+      {
+        "pmid": "36812285",
+        "title": "A Case of Segmental Darier Disease.",
+        "abstract": "Darier disease (DD), also known as Darier-White disease, follicular keratosis, or dyskeratosis follicularis, is an uncommon autosomal dominant genodermatosis with complete penetrance and variable expressivity. This disorder is caused by mutations in the ATP2A2 gene and affects the skin, nails, and mucous membranes (1,2). A 40-year-old woman, without comorbidities, presented with pruritic, unilateral skin lesions on the trunk since she was 37 years old. Lesions had remained stable since onset, with physical examination revealing tiny scattered erythematous to light brown keratotic papules beginning at the patient's abdominal midline, extending over her left flank and onto her back (Figure 1, a, b). No other lesions were observed, and family history was negative. Skin punch biopsy revealed parakeratotic and acanthotic epidermis with foci of suprabasilar acantholysis and corps ronds in the stratum spinosum (Figure 2, a, b, c). Based on these findings, the patient was diagnosed with segmen",
+        "journal": "Acta dermatovenerologica Croatica : ADC",
+        "year": "2022",
+        "authors": [
+          "Franceschi Nika",
+          "Gašić Ana",
+          "Šitum Mirna",
+          "Majda Vučić",
+          "Kolić Maja"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Darier Disease",
+          "Acantholysis",
+          "Skin",
+          "Pruritus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36812285/"
+      },
+      {
+        "pmid": "29500825",
+        "title": "Case of punctate palmoplantar keratoderma type I treated with combination of low-dose oral acitretin and topical salicylic acid and steroid.",
+        "abstract": "Palmoplantar keratodermas (PPK) are heterogeneous disorders characterized by abnormal keratinization. Especially, punctate PPK (PPPK), one of the subtypes of hereditary PPK, is a rare punctate keratoderma characterized by tiny \"raindrop\" keratoses having a tendency to coalesce on the edge of soles, which are exposed to sustained pressure. If typical punctate lesions are confined to the palms and soles and the patient has a family history and late onset, it can be considered as PPPK type I (PPKP1), also called Buschke-Fisher-Brauer disease. The exact etiology of PPPK has not been fully understood. Furthermore, no standardized treatment for PPPK has been established and treatment options are limited. Above all, traditional systemic retinoids have been used in several cases, but dose-related adverse effects are common. Therefore, combination of low-dose systemic retinoids and adjuvant topical therapy can be an alternative treatment option for PPPK. Herein, we report a case of PPKP1 treate",
+        "journal": "The Journal of dermatology",
+        "year": "2018",
+        "authors": [
+          "Jo Jeong Won",
+          "Jeong Do Seon",
+          "Kim Chi Yeon"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acitretin",
+          "Biopsy",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "Glucocorticoids",
+          "Humans",
+          "Keratoderma, Palmoplantar",
+          "Keratolytic Agents",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29500825/"
+      },
+      {
+        "pmid": "40969999",
+        "title": "Unique Presentation of the Follicular Occlusion Tetrad: A Case Report and Review of the Literature.",
+        "abstract": "The follicular occlusion tetrad is a chronic inflammatory complex that consists of four co-related conditions in which follicles are blocked with keratin rupture and lead to inflammation. These conditions include hidradenitis suppurativa (HS), acne conglobata (AC), dissecting cellulitis of the scalp (DCS), and pilonidal cyst (PC). Our unique case reports a 43-year-old female patient who presented with a 36-year history of all four elements of the tetrad after previous treatment with ciprofloxacin, spironolactone, and salicylic acid. Our case is notable as the patient presented after being on semaglutide for weight loss, as well as the first report of the full tetrad in a female patient. A comprehensive review of the follicular occlusion tetrad was conducted using current literature. The goal of the literature review was to provide a general overview of the patient population diagnosed with follicular occlusion tetrad. Additionally, weight loss medications were discussed as potential tr",
+        "journal": "Cureus",
+        "year": "2025",
+        "authors": [
+          "Adler Robert",
+          "Gandhi Isha",
+          "Sheikh Maisha",
+          "Marson Justin",
+          "Fishman Steven"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40969999/"
+      },
+      {
+        "pmid": "36923260",
+        "title": "Confluent and Reticulated Papillomatosis Successfully Treated with Topical Vitamin A Derivative.",
+        "abstract": "Confluent and reticulated papillomatosis (CARP) is a rare dermatosis that typically develops in adolescents and young adults. Clinical characteristics include hyperkeratotic papules that coalesce centrally with a reticulated pattern peripherally on the central and upper trunk, neck, and axilla. Its etiology is not precisely known, and disordered keratinization has been postulated as one of the etiologies. Treatment options of the disease include systemic (such as antibiotics, antifungals, and retinoids) and topical treatments (such as lactic acid, antifungals, retinoids, salicylic acid, urea, tacrolimus, and vitamin D analogs). We report a case of a 17-year-old boy, otherwise healthy, presented with a new onset of asymptomatic, persistent, and slowly progressing brownish skin lesions over the trunk for 6 months. The diagnosis was revised to CARP based on clinical and histopathological examination. Treatment with topical tretinoin 0.025% cream once daily was begun. There was complete re",
+        "journal": "Case reports in dermatological medicine",
+        "year": "2023",
+        "authors": [
+          "Alsulami Manal",
+          "Alharbi Bader",
+          "Alotaibi Yaser",
+          "Alghamdi Fadi",
+          "Alsantali Adel"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36923260/"
+      },
+      {
+        "pmid": "41231204",
+        "title": "Mupirocin-nanoemulsion infused salicylic acid gel utilizing nigella sativa oil for treatment of imiquimod-induced psoriasis in mice.",
+        "abstract": "Psoriasis is an autoimmune dermal disease characterised by inflammation that results in excessive keratinocyte proliferation. The current topical therapies struggle to penetrate the keratinised layer to reach the targeted area. A combinatorial therapy was employed to reverse inflammatory expression and cellular infiltration. Salicylic acid (SA) provides a keratolytic effect by softening and removing the thickened layer of keratin to facilitate better absorption of the Mupirocin-loaded nanoemulsion (MUP-NE), supplemented by black seed oil, where MUP inhibits tRNA synthetase, aiding in psoriasis management. In our studies, MUP-NE was developed and optimised using central composite design (CCD), resulting in an average globule size of 86.56 nm, PDI of 0.3479 and transmittance of 89.68 ± 0.32%, further incorporated into SA-gel (MUP-SA-NEG). The in-vitro and ex-vivo studies demonstrated targeted delivery of SA to the epithelial layer and deeper penetration of MUP via nanocarriers. Pharmacod",
+        "journal": "Journal of drug targeting",
+        "year": "2025",
+        "authors": [
+          "Abbas Mohd Haider",
+          "Farooq Uzma",
+          "Ali Ahsan",
+          "Siddique Ayesha",
+          "Jain Pooja"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41231204/"
+      },
+      {
+        "pmid": "39373174",
+        "title": "Detection of human papillomavirus in plantar warts and its impact on outcome.",
+        "abstract": "Cutaneous warts are caused by human papillomavirus (HPV) infection. Distinguishing plantar warts from clavus and tylosis can be difficult. A less-invasive method of examining these lesions is necessary. Previously, we collected data on 90 patients with warts and related diseases to explore differentiation methods using HPV typing of tissue from the wart surface. In that study, 21 patients were diagnosed as cases with plantar warts, however, 10 of those 21 cases showed HPV-negative by polymerase chain reaction analysis, causing some ambiguity, thus their outcomes should be confirmed. To assess the role of HPV typing in clinical practice, we followed up these 21 cases (11 HPV-positive and 10 HPV-negative) and analyzed their outcomes. The HPV-positive group included HPV1a (one case), HPV27 (four cases), HPV57 (three cases), and HPV65 (three cases). The median age of the 21 patients was 43 years, that of the 11 HPV-positive cases was 37 years, and that of the 10 HPV-negative cases was 44 y",
+        "journal": "The Journal of dermatology",
+        "year": "2025",
+        "authors": [
+          "Shimizu Akira",
+          "Mieko Kosaka",
+          "Yamaguchi Kayoko",
+          "Niwa Osamu",
+          "Ishigaki Yasuhito"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Warts",
+          "Male",
+          "Female",
+          "Adult",
+          "Papillomavirus Infections",
+          "Middle Aged",
+          "Papillomaviridae",
+          "Young Adult",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39373174/"
+      },
+      {
+        "pmid": "32627753",
+        "title": "Orobol, A Derivative of Genistein, Inhibits Heat-Killed Propionibacterium acnes-Induced Inflammation in HaCaT Keratinocytes.",
+        "abstract": "Acne is a chronic skin disease that typically occurs in the teens and twenties, and its symptoms vary according to age, sex, diet, and lifestyle. The condition is characterized by hyperproliferation of keratinocytes in the epidermis, sebum overproduction, excessive growth of Propionibacterium acnes, and P. acnes-induced skin inflammation. Interleukin (IL)-1α and IL-6 are predominant in the inflammatory lesions of acne vulgaris. These cytokines induce an inflammatory reaction in the skin in the presence of pathogens or stresses. Moreover, IL-1α accelerates the production of keratin 16, which is typically expressed in wounded or aberrant skin, leading to abnormalities in architecture and hyperkeratinization. Orobol (3',4',5,7-tetrahydroxyisoflavone) is a metabolite of genistein that inhibited the P. acnes-induced increases in IL-6 and IL-1α levels in human keratinocytes (HaCaTs) more effectively compared with salicylic acid. In addition, orobol decreased the IL-1α and IL-6 mRNA levels an",
+        "journal": "Journal of microbiology and biotechnology",
+        "year": "2020",
+        "authors": [
+          "Oh Yunsil",
+          "Hwang Hwan Ju",
+          "Yang Hee",
+          "Kim Jong Hun",
+          "Park Jung Han Yoon"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Cell Proliferation",
+          "Cytokines",
+          "Flavonoids",
+          "Genistein",
+          "HaCaT Cells",
+          "Humans",
+          "Inflammation",
+          "Interleukins",
+          "Keratinocytes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32627753/"
+      },
+      {
+        "pmid": "31364784",
+        "title": "Pachyonychia congenita responding favorably to a combination of surgical and medical therapies.",
+        "abstract": "Pachyonychia congenital (PC) is a rare genetic disorder of cornification and is classified into five types on the basis of keratin gene involved. There are no established treatment options available for PC. Sirolimus in both topical and oral form has been studied in management of PC. We report a young female with a novel genetic mutation in KRT6A gene who presented with painful palmoplantar hyperkeratosis and onychogryphosis, which was cosmetically disfiguring. She was prescribed oral sirolimus after all investigations. There was significant improvement in pain within a week. Pain relief was sustained at 1 year follow-up with topical treatment only. Serial nail avulsion surgeries were also done with showed significant cosmetic improvement in the nails. Medical therapies can be combined with surgery for a better cosmetic outcome and improvement in patient quality of life.",
+        "journal": "Dermatologic therapy",
+        "year": "2019",
+        "authors": [
+          "Daroach Manju",
+          "Dogra Sunil",
+          "Bhattacharjee Rajsmita",
+          "Tp Afra",
+          "Smith Frances"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Combined Modality Therapy",
+          "Female",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Keratin-6",
+          "Mutation",
+          "Nails",
+          "Nicotinic Acids",
+          "Pachyonychia Congenita"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31364784/"
+      },
+      {
+        "pmid": "23986157",
+        "title": "A double-blind, randomized clinical trial of 20% alpha/poly hydroxy acid cream to reduce scaling of lesions associated with moderate, chronic plaque psoriasis.",
+        "abstract": "Salicylic acid is a topical keratolytic agent used to reduce scaling and hyperkeratosis associated with psoriasis vulgaris. However, its use is limited due to potential systemic toxicity. Hydroxyacids also modulate keratinization and desquamation. Therefore, they may serve a beneficial role in the treatment of hyperkeratotic conditions. To date, there are no clinical studies in the literature regarding the efficacy of hydroxyacids for psoriasis treatment.",
+        "journal": "Journal of drugs in dermatology : JDD",
+        "year": "2013",
+        "authors": [
+          "Akamine Kristie L",
+          "Gustafson Cheryl J",
+          "Yentzer Brad A",
+          "Edison Brenda L",
+          "Green Barbara A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Chronic Disease",
+          "Dermatologic Agents",
+          "Double-Blind Method",
+          "Follow-Up Studies",
+          "Humans",
+          "Hydroxy Acids",
+          "Psoriasis",
+          "Salicylic Acid",
+          "Severity of Illness Index"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23986157/"
+      },
+      {
+        "pmid": "28223752",
+        "title": "A Case of Terra Firma-Forme Dermatosis Treated with Salicylic Acid Alcohol Peeling.",
+        "abstract": "Terra firma-forme dermatosis (TFFD) is a bizarre, acquired and idiopathic dermatosis that etiology has still not been fully defined. It is characterized by the presence of asymptomatic, brownish dirt-like lesion maybe due to disorder of keratinization. These lesions cannot be removed with ordinary cleansing. Therefore, TFFD can be differentiated from dermatosis neglecta. Patient was a 17-year-old man with brownish lesions on his face for 1 month. The patient had a history of regular washing habit with soap and water. The lesions were asymptomatic however due to cosmetic reasons, the patient wanted to treat his skin lesions. Punch biopsy revealed hyperkeratosis and fungal spore are in stratum corneum. Salicylic acid peeling with alcohol base was performed on the patient's face. The skin lesions disappeared completely on gentle swabbing with peeling. In this point, the diagnosis of TFFD could be considered. Since, this disease can be confused with dermatosis neglecta, we report this case",
+        "journal": "Annals of dermatology",
+        "year": "2017",
+        "authors": [
+          "Chun Sin Wook",
+          "Lee Suk Young",
+          "Kim Jong Baik",
+          "Choi Hoo Min",
+          "Ro Byung In"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28223752/"
+      },
+      {
+        "pmid": "29782305",
+        "title": "Tatami Mats: A Source of Pitted Keratolysis in a Martial Arts Athlete?",
+        "abstract": "Dear Editor, Pitted keratolysis (PK), also known as keratosis plantaris sulcatum, is a non-inflammatory, bacterial, superficial cutaneous infection, characterized by many discrete superficial crateriform ''pits'' and erosions in the thickly keratinized skin of the weight-bearing regions of the soles of the feet (1). The disease often goes unnoticed by the patient, but when it is noticed it is because of the unbearable malodor and hyperhidrosis of the feet, which are socially unacceptable and cause great anxiety to many of the patients. PK occurs worldwide, with the incidence rates varying based on the environment and occupation. The prevalence of this condition does not differ significantly based on age, sex, or race. People who sweat profusely or wash excessively, who wear occlusive footwear, or are barefoot especially in hot and humid weather are extremely prone to this condition (2). Physicians commonly misdiagnose it as tinea pedis or plantar warts. Treatment is quite simple and st",
+        "journal": "Acta dermatovenerologica Croatica : ADC",
+        "year": "2018",
+        "authors": [
+          "Balić Anamaria",
+          "Bukvić Mokos Zrinka",
+          "Marinović Branka",
+          "Ledić Drvar Daniela"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acrodermatitis",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Athletes",
+          "Dermatologic Agents",
+          "Follow-Up Studies",
+          "Foot Dermatoses",
+          "Humans",
+          "Hyperhidrosis",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29782305/"
+      },
+      {
+        "pmid": "17511940",
+        "title": "Keratosis follicularis (Darier-White disease), with an unusual palmoplantar keratoderma.",
+        "abstract": "A 38-year-old woman presented with widespread, hyperkeratotic papules and plaques that had been present since childhood. Her mother, brother, and son have similar lesions. A diagnosis of keratosis follicularis was made, which has been treated with isotretinoin. Palmoplantar lesions of keratosis follicularis have been described as discrete, punctate keratoses, hyperkeratotic papules, small pits, or keratin-filled depressions. This patient has an unusual palmoplantar keratoderma in association with keratosis follicularis. The lesions are elevated, discrete, filiform, hyperkeratotic spires, which coalesce into large, hyperkeratotic plaques on the palms and soles.",
+        "journal": "Dermatology online journal",
+        "year": "2007",
+        "authors": [
+          "Kim Carolyn",
+          "Fangman William"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Biopsy",
+          "Darier Disease",
+          "Diagnosis, Differential",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Follow-Up Studies",
+          "Genetic Predisposition to Disease",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17511940/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:28:41.186083",
+  "success": true,
+  "error_message": null
+}

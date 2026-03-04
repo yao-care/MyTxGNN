@@ -1,0 +1,543 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrocortisone",
+    "disease": "hemorrhoid",
+    "query_string": "Hydrocortisone AND hemorrhoid"
+  },
+  "data": {
+    "query": "Hydrocortisone AND hemorrhoid",
+    "results": [
+      {
+        "pmid": "27223413",
+        "title": "[Ulcerative colitis].",
+        "abstract": "Ulcerative colitis is an immunologic disorder of the intestine which involves the mucosa and sometimes the submucosa. It has a chronic relapsing course, affects the colon and occasionally the terminal ileum. This so called backwash ileitis is overall very rare and of limited clinical importance. Usually the inflammation starts in the rectum and may extend in a proximal and continuous fashion to the rest of the colon. Symptoms consist of frequent loose bloody stools, cramps and weight loss. It is important and frequently neglected that patients especially (but not exclusively) with a limited degree of colonic involvement up to the splenic flexure are treated topically with mesalamine and budesonid or hydrocortisone by suppository, enema or foam. In case of more severe colitis oral mesalamine, systemic corticosteroids and other immunosupressors should be added to the therapy.",
+        "journal": "Praxis",
+        "year": "2016",
+        "authors": [
+          "Roose Laura",
+          "D'cunja Jaya",
+          "Biedermann Luc"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Rectal",
+          "Adrenal Cortex Hormones",
+          "Algorithms",
+          "Colitis, Ulcerative",
+          "Colonoscopy",
+          "Diagnosis, Differential",
+          "Female",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Intestinal Mucosa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27223413/"
+      },
+      {
+        "pmid": "12189774",
+        "title": "Local treatment of hemorrhoidal disease and perianal eczema. Meta-analysis of the efficacy and safety of an Escherichia coli culture suspension alone or in combination with hydrocortisone.",
+        "abstract": "The objective of this paper was to assess the available clinical data on the efficacy and safety of ointments containing either a bacterial culture suspension (BCS) from Escherichia coli or a combination of BCS with hydrocortisone (CAS 50-23-7) (BCS: Posterisan, and BCS + HC: Posterisan forte). The BCS is assumed to act by immunomodulation in hemorrhoidal disease and perianal eczema. Six randomized, double-blind trials are reported: three of them using BCS ointment and one using BCS + HC, against ointment base, and two trials using BCS + HC against hydrocortisone ointment alone. Patients with hemorrhoids and/or perianal eczema were included and treated over 2 weeks with weekly assessments. Efficacy parameters included score changes for burning, itching, redness and soiling as well as the investigators' overall efficacy rating. Safety was assessed from adverse drug reactions and an overall safety rating. Out of 1,070 patients (mean age 50 years), 273 received BCS and 229 BCS + HC; 568 p",
+        "journal": "Arzneimittel-Forschung",
+        "year": "2002",
+        "authors": [
+          "Wienert Volker",
+          "Heusinger Jörg H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Combined Modality Therapy",
+          "Eczema",
+          "Escherichia coli",
+          "Female",
+          "Hemorrhoids",
+          "Humans",
+          "Hydrocortisone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12189774/"
+      },
+      {
+        "pmid": "31433782",
+        "title": "Comparison of the effect of Myrtus communis herbal and anti-hemorrhoid ointments on the hemorrhoid symptoms and quality of life in postpartum women with grade I and II internal hemorrhoid: A triple-blinded randomized controlled clinical trial.",
+        "abstract": "Introduction Due to the effects of hemorrhoids on physical and mental health, this study aimed to compare the effect of Myrtus communis herbal and anti-hemorrhoid ointments on symptoms of hemorrhoid and quality of life (primary outcomes) and satisfaction of the treatment and side effects (secondary outcomes). Methods This triple-blind randomized controlled trial was performed on women with grade I and II hemorrhoid referring to health centers in Tehran, Iran, in 2017. Individuals were randomly assigned to two groups of 67 people through block randomization method. The intervention group received the Myrtus communis herbal ointment and the control group received anti-hemorrhoid ointment twice a day, every 12 ± 2 h, an applicator of the drug through the rectum for 4 weeks. The Colorectal Evaluation of a Clinical Therapeutics Scale (CORECTS) was used to assess the severity of symptoms of hemorrhoid. To assess the quality of life, the World Health Organization Quality of Life questionnaire",
+        "journal": "Journal of complementary & integrative medicine",
+        "year": "2019",
+        "authors": [
+          "Malekuti Jamileh",
+          "Mirghafourvand Mojgan",
+          "Samadi Khadijeh",
+          "Abbasalizadeh Fatemeh",
+          "Khodaei Laleh"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acetates",
+          "Adult",
+          "Bicarbonates",
+          "Drug Therapy, Combination",
+          "Female",
+          "Hemorrhoids",
+          "Humans",
+          "Hydrocortisone",
+          "Iran",
+          "Lidocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31433782/"
+      },
+      {
+        "pmid": "1800704",
+        "title": "Pharmacokinetics and rectal bioavailability of hydrocortisone acetate.",
+        "abstract": "The pharmacokinetics and bioavailability of hydrocortisone after rectal administration of a hydrocortisone acetate foam was determined. Endogenous hydrocortisone was suppressed by dexamethasone administration. Plasma levels were compared with those observed after iv and oral administration. Only a very small part of the rectal dose (100 mg) was absorbed; the mean absolute bioavailability was 2%. There was substantial intersubject variability. Maximum hydrocortisone levels were reached after 2 h and averaged 35 ng/mL. These levels were 10-fold lower than those obtained after oral administration of a fivefold lower dose (20 mg) of hydrocortisone in the same subjects.",
+        "journal": "Journal of pharmaceutical sciences",
+        "year": "1991",
+        "authors": [
+          "Möllmann H",
+          "Barth J",
+          "Möllmann C",
+          "Tunn S",
+          "Krieg M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Rectal",
+          "Administration, Topical",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Biological Availability",
+          "Humans",
+          "Hydrocortisone",
+          "Injections, Intravenous",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1800704/"
+      },
+      {
+        "pmid": "3538088",
+        "title": "Outpatient management of hemorrhoids.",
+        "abstract": "Hemorrhoids are a common medical problem that usually can be managed conservatively with dietary changes, stool softeners, and local hydrocortisone creams. Acutely thrombosed external hemorrhoids require excision of the entire hemorrhoidal mass and the overlying skin. Persistently bleeding or painful internal hemorrhoids are best managed by the technique of band ligation.",
+        "journal": "Primary care",
+        "year": "1986",
+        "authors": [
+          "Schussman L C",
+          "Lutz L J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Ambulatory Care",
+          "Ambulatory Surgical Procedures",
+          "Hemorrhoids",
+          "Humans",
+          "Postoperative Care",
+          "Postoperative Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3538088/"
+      },
+      {
+        "pmid": "40143012",
+        "title": "Innovative Hydrocortisone Acetate and Pramoxine Hydrochloride Topical Cream Formulations for Anorectal Conditions: Enhanced In Vitro Release Profile.",
+        "abstract": "This study focuses on analyzing the in vitro release characteristics, as well as improving the penetration rate and stability of hydrocortisone acetate and pramoxine. This medication combination (hydrocortisone and pramoxine) is the first generic drug product utilized to alleviate minor pain, itching, swelling, and discomfort associated with anorectal conditions such as hemorrhoids. Background/Objectives: The developed novel formulations contain hydrocortisone acetate and pramoxine HCl as active ingredients, at least one solvent, at least one penetrating agent, at least one emulsifying agent, at least one surfactant, and at least one antimicrobial preservative, and pH values between 3.0 and 5.0, preferably between 3.5 and 4.5. Methods: Typical semi-solid dosage form quality control tests included appearance, identification, content homogeneity, pH, viscosity, assay, compounds of interest, microbiological testing, and in vitro release testing. In in vitro release testing, a series of fo",
+        "journal": "Pharmaceutics",
+        "year": "2025",
+        "authors": [
+          "Pinarbasli Onur",
+          "Atilgan Nurdan",
+          "Turkes Ezgi",
+          "Sarracoglu Nagehan",
+          "Aybey Doganay Asuman"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40143012/"
+      },
+      {
+        "pmid": "11361050",
+        "title": "Pharmacokinetics and rectal bioavailability of hydrocortisone acetate after single and multiple administration in healthy subjects and patients.",
+        "abstract": "The pharmacokinetics and bioavailability of hydrocortisone after rectal administration of a hydrocortisone acetate foam were determined after single and multiple dosing in healthy subjects as well as in patients with inflammatory bowel disease. Endogenous hydrocortisone was suppressed by dexamethasone administration. Plasma levels were compared with those observed after intravenous administration of hydrocortisone. Only a very small part of the rectal dose (100 mg) was absorbed; the mean absolute bioavailability was 3.1% in healthy volunteers and 4.5% in patients. There was substantial intersubject variability. Although maximum hydrocortisone levels after single or multiple doses were significantly higher (about 70%) in the patient group, the systemic bioavailability is very low so that the risk of systemic side effects after rectal administration of hydrocortisone acetate foam has to be considered very low.",
+        "journal": "Journal of clinical pharmacology",
+        "year": "2001",
+        "authors": [
+          "Tromm A",
+          "Möllmann H",
+          "Barth J",
+          "Hochhaus G",
+          "Krieg M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Rectal",
+          "Adult",
+          "Aged",
+          "Area Under Curve",
+          "Biological Availability",
+          "Drug Administration Schedule",
+          "Half-Life",
+          "Humans",
+          "Hydrocortisone",
+          "Inflammatory Bowel Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11361050/"
+      },
+      {
+        "pmid": "31997994",
+        "title": "Anti-inflammatory activity of Anthemis tricolor Boiss.",
+        "abstract": "Traditionally, Anthemis genus has been used for the treatment of gastrointestinal disorders, haemorrhoid and stomach ache in Europe. There are several in-vitro and in-vivo studies that showed the pharmacological properties of Anthemisspecies such as antibacterial, anti-inflammatory, antiedemic and hepatoprotective properties.",
+        "journal": "Postepy dermatologii i alergologii",
+        "year": "2019",
+        "authors": [
+          "Demirkan Serkan",
+          "Özçınar Özge",
+          "Kıvçak Bijen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31997994/"
+      },
+      {
+        "pmid": "20334171",
+        "title": "Optimization and validation of an RP-HPLC method for analysis of hydrocortisone acetate and lidocaine in suppositories.",
+        "abstract": "An RP-HPLC method has been optimized and validated for the simultaneous determination of hydrocortisone acetate and of lidocaine in suppositories. For the method optimization, response surface methodology was applied, and the obtained model was tested using analysis of variance. The optimal separations were conducted on a Beckman-Coulter 150 x 4.6 mm, 5 microm particle-size column at 20 degrees C. The mobile phase was methanol-water (65 + 35, v/v), pH adjusted to 2.5 with 85% orthophosphoric acid, with a flow rate of 1.0 ml/min. UV detection was performed at 250 nm. Phenobarbital was used as an internal standard. The method was validated for selectivity, linearity, precision, and robustness.",
+        "journal": "Journal of AOAC International",
+        "year": "2010",
+        "authors": [
+          "Jancic-Stojanović Biljana",
+          "Malenović Andjelija",
+          "Marković Slavko",
+          "Ivanović Darko",
+          "Medenica Mirjana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Validation Study"
+        ],
+        "mesh_terms": [
+          "Analysis of Variance",
+          "Anesthetics, Local",
+          "Anti-Inflammatory Agents",
+          "Chromatography, High Pressure Liquid",
+          "Chromatography, Reverse-Phase",
+          "Hemorrhoids",
+          "Humans",
+          "Hydrocortisone",
+          "Hydrogen-Ion Concentration",
+          "Lidocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20334171/"
+      },
+      {
+        "pmid": "39945661",
+        "title": "Clinical evidence and rationale of topical nifedipine and lidocaine ointment in the treatment of anal fissure and hemorrhoidal disease.",
+        "abstract": "Anorectal conditions such as hemorrhoidal disease and anal fissure are frequently painful and debilitating. Pain after hemorrhoidectomy is also common and distressing. These conditions are at least initially managed conservatively. An ointment formulation containing the calcium channel blocker nifedipine and the local anesthetic lidocaine has an established role in the treatment of rectal conditions, particularly conditions associated with anal sphincter hypertonia such as hemorrhoidal disease and anal fissure. This review aimed to compile the evidence for the use of nifedipine 0.3% and lidocaine 1.5% ointment in treating these common but bothersome anorectal diseases.",
+        "journal": "Minerva surgery",
+        "year": "2025",
+        "authors": [
+          "Gallo Gaetano",
+          "Trompetto Mario"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lidocaine",
+          "Nifedipine",
+          "Fissure in Ano",
+          "Hemorrhoids",
+          "Ointments",
+          "Anesthetics, Local",
+          "Administration, Topical",
+          "Calcium Channel Blockers",
+          "Hemorrhoidectomy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39945661/"
+      },
+      {
+        "pmid": "20011281",
+        "title": "Ulcerative proctitis.",
+        "abstract": "Ulcerative proctitis is an idiopathic mucosal inflammatory disease involving only the rectum and is therefore an anatomically limited form of ulcerative colitis. Diagnosis is made based on clinical presentation, endoscopic appearance, and histopathology. Additionally, other etiologies of proctitis are excluded. The course of the disease is variable ranging from complete resolution to easily maintained remission to frequent relapses or refractory disease. Extension of inflammatory changes involving the proximal colon occurs in some cases. Rectal 5-aminosalicylic acid (5-ASA) or steroids are the initial treatments of choice with oral 5-ASA, sulfasalazine, or steroids used for treatment failures or patients unable to tolerate rectally administered drugs. Immunomodulators like azathioprine and 6-mercaptopurine have been used successfully in small groups of patients who have not responded to 5-ASA or steroids. Oral or rectal 5-ASA products maintain remission but long-term steroid use should",
+        "journal": "Clinics in colon and rectal surgery",
+        "year": "2004",
+        "authors": [
+          "Whitlow Charles B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20011281/"
+      },
+      {
+        "pmid": "26109819",
+        "title": "Recombinant streptokinase vs hydrocortisone suppositories in acute hemorrhoids: A randomized controlled trial.",
+        "abstract": "To compare the efficacy and safety of recombinant streptokinase (rSK) vs hydrocortisone acetate-based suppositories in acute hemorrhoidal disease.",
+        "journal": "World journal of gastroenterology",
+        "year": "2015",
+        "authors": [
+          "Hernández-Bernal Francisco",
+          "Castellanos-Sierra Georgina",
+          "Valenzuela-Silva Carmen M",
+          "Catasús-Álvarez Karem M",
+          "Martínez-Serrano Osmany"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Administration, Rectal",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Cuba",
+          "Drug Administration Schedule",
+          "Female",
+          "Fibrinolytic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26109819/"
+      },
+      {
+        "pmid": "29255743",
+        "title": "Infliximab-Induced Lupus: A Case Report.",
+        "abstract": "We report the case of a 48-year-old, leukodermic female diagnosed with ulcerative proctitis for 4 years and latent tuberculosis. She was allergic to salicylates and had a minor allergic reaction to infliximab (rash, vertigo, and headache). Thereafter, she started azathioprine (2.5 mg/kg/day). She maintained intravenous infliximab, together with prophylaxis with clemastine and hydrocortisone, due to the steroid-dependent proctitis. The therapy was continued every 8 weeks with anti-tumor necrosis factor for about 3 years. The analytical evaluation when she was diagnosed with ulcerative proctitis (February 2011) showed negative antinuclear antibodies (ANA), double-stranded-DNA antibodies (anti-dsDNA), antineutrophil cytoplasmic antibodies and anti-Saccharomyces cerevisiae antibodies, and a positive outer membrane protein antibody. About 2 years and 6 months after starting infliximab (November 2013), the patient complained of inflammatory symmetrical polyarthralgia (knee, shoulder, elbow, ",
+        "journal": "GE Portuguese journal of gastroenterology",
+        "year": "2017",
+        "authors": [
+          "Magno Pereira Vítor",
+          "Andrade Carla",
+          "Figueira Ricardo",
+          "Faria Goreti",
+          "Jasmins Luís"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29255743/"
+      },
+      {
+        "pmid": "6374877",
+        "title": "Absorption and secretion of fluid and electrolytes by the rectum.",
+        "abstract": "Although the amounts of ions and water absorbed and secreted by the rectum are small compared to those of other parts of the colon, rectal epithelium is capable of generating and maintaining considerable ionic gradients. Absorption of Na+ and Cl- and secretion of K+ and HCO-3 leads to relatively low concentrations of the former and high concentrations of the latter within the lumen. Detailed examination of the transport processes indicates that the epithelial mechanisms can be interpreted in terms of ionic movements through transcellular and paracellular pathways. These results show that the epithelium is relatively tight and largely amiloride-sensitive. Active Na+ absorption and apparent active K+ and HCO-3 secretion occur. The secretion of HCO-3 is related to Cl- and organic anion absorption. Mineralocorticoids increase the transepithelial potential difference (p.d.) as well as stimulating Na+ absorption and K+ secretion. Rectal epithelium may, with various physiological or pathologi",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1984",
+        "authors": [
+          "Edmonds C J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bicarbonates",
+          "Bisacodyl",
+          "Chlorine",
+          "Colitis",
+          "Electrolytes",
+          "Fludrocortisone",
+          "Humans",
+          "Intestinal Absorption",
+          "Potassium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6374877/"
+      },
+      {
+        "pmid": "17728120",
+        "title": "Treatment of radiation proctitis.",
+        "abstract": "Late complications of pelvic radiotherapy occur in 5-20% of patients, particularly chronic radiation proctitis (CRP). Rectal bleeding is the most common symptom. Other symptoms include difficulty in defaecation or tenesmus because of loss of distensibility of the rectum or rectal structuring. Treatment options of CRP include oral therapy (5-aminosalicylates, metronidazole), rectal instillation therapy (hydrocortisone, sucralfate, 5-aminosalicylates, formalin), thermal therapy (argon plasma coagulation, heater probe or laser) and hyperbaric oxygen. It is difficult to recommend evidence-based therapy. There are no adequately powered studies of the treatment of CRP and most data are uncontrolled, non-blinded observation studies from single sites. There are no standard evaluation tools (including endoscopic grading, symptom scores and quality-of-life scores), adequate description of preceding radiotherapy dose or adequate follow-up in most studies. Many studies have poor documentation of c",
+        "journal": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+        "year": "2007",
+        "authors": [
+          "Leiper K",
+          "Morris A I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Neoplasms",
+          "Pelvis",
+          "Proctitis",
+          "Radiation Injuries",
+          "Radiotherapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17728120/"
+      },
+      {
+        "pmid": "40302860",
+        "title": "A Clinical Investigation into the Long-term Use and Safety of Killed Escherichia coli Suspension-Hydrocortisone Combination Ointment for the Treatment of Hemorrhoids.",
+        "abstract": "Conservative treatment for hemorrhoids may be long-term, but there are only a few studies that have reported on the long-term use of corticosteroid-containing preparations. Therefore, the aim of this study was to conduct a clinical investigation into the long-term use and safety of Killed Escherichia coli suspension-hydrocortisone combination ointment for the treatment of hemorrhoids.",
+        "journal": "Journal of the anus, rectum and colon",
+        "year": "2025",
+        "authors": [
+          "Takano Shota",
+          "Sugimoto Kosuke",
+          "Kikukawa Yoshinobu",
+          "Nakamura Yasushi",
+          "Irei Yasue"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40302860/"
+      },
+      {
+        "pmid": "16845210",
+        "title": "Ephedrine-caffeine mixture in wet-cold stress.",
+        "abstract": "Our investigations were aimed at studying the possibility of enhancement of homeostatic processes protecting against excessive body cooling by using thermogenic drugs. We studied the influence of ephedrine (1 mg/kg) and caffeine (2.5 mg/kg) mixture in males immersed in cold water (12 degrees C) on core temperature and plasma catecholamines, cortisol, energy substrates and chosen cognitive functions in subjects without or after previous submission to short cold acclimation procedure by five repeated brief cold-water immersions. The tested drugs did not significantly influence core temperature during immersion both in acclimated and non-acclimated subjects, however, they enhanced metabolic response. There were observed faster mobilization and higher increase in energy substrates, more pronounced in acclimated subjects (free fatty acids, glucose). Tested drugs slightly improved some psychosomatic reactions. Although the results of our study suggest that a single application of ephedrine-c",
+        "journal": "Pharmacological reports : PR",
+        "year": "2006",
+        "authors": [
+          "Kowalczyk Marek",
+          "Antkowiak Bozena",
+          "Antkowiak Oktawiusz",
+          "Brytan Marek",
+          "Zdanowski Robert"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acclimatization",
+          "Adolescent",
+          "Adult",
+          "Blood Glucose",
+          "Body Temperature",
+          "Body Temperature Regulation",
+          "Caffeine",
+          "Catecholamines",
+          "Choice Behavior",
+          "Cognition"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16845210/"
+      },
+      {
+        "pmid": "14994109",
+        "title": "A systematic review of medical therapy for anal fissure.",
+        "abstract": "This is a meta-analysis of randomized, controlled trials to assess the efficacy and morbidity of medical therapies for anal fissure.",
+        "journal": "Diseases of the colon and rectum",
+        "year": "2004",
+        "authors": [
+          "Nelson Richard"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Botulinum Toxins, Type A",
+          "Child",
+          "Fissure in Ano",
+          "Humans",
+          "Neuromuscular Agents",
+          "Nifedipine",
+          "Nitroglycerin",
+          "Placebos",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14994109/"
+      },
+      {
+        "pmid": "37597875",
+        "title": "Evaluation of the efficacy and safety of an innovative flavonoid lotion in patients with haemorrhoid: a randomised clinical trial.",
+        "abstract": "Haemorrhoids are one of the most common gastrointestinal and anal diseases. In olive oil and honey propolis, flavonoids have beneficial effects on improving vascular function and decreasing vascular resistance. In this study, we aimed to produce a combination of these two substances in the form of lotions and assess their healing and side effects in comparison with routine treatment, anti-haemorrhoid ointment (containing hydrocortisone and lidocaine).",
+        "journal": "BMJ open gastroenterology",
+        "year": "2023",
+        "authors": [
+          "Razdar Sara",
+          "Panahi Yunes",
+          "Mohammadi Ramtin",
+          "Khedmat Leila",
+          "Khedmat Hossein"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ointments",
+          "Colonoscopy",
+          "Flavonoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37597875/"
+      },
+      {
+        "pmid": "7587757",
+        "title": "Effect of intervention in inflammatory bowel disease on health-related quality of life: a critical review.",
+        "abstract": "Health-related quality of life (HRQOL) is a quantitative measurement of subjective perception of health state, including emotional and social aspects. It can be reliably measured with several valid instruments. Previous reviews of the literature suggested inadequate attention to HRQOL in studies of interventions in inflammatory bowel disease.",
+        "journal": "Diseases of the colon and rectum",
+        "year": "1995",
+        "authors": [
+          "Maunder R G",
+          "Cohen Z",
+          "McLeod R S",
+          "Greenberg G R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Clinical Trials as Topic",
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Outcome Assessment, Health Care",
+          "Quality of Life",
+          "Research Design",
+          "Self-Assessment",
+          "Surveys and Questionnaires"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7587757/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:16:59.427730",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,318 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Triamcinolone",
+    "disease": "rheumatic heart disease",
+    "query_string": "Triamcinolone AND rheumatic heart disease"
+  },
+  "data": {
+    "query": "Triamcinolone AND rheumatic heart disease",
+    "results": [
+      {
+        "pmid": "14043524",
+        "title": "[ON RESULTS IN THE TREATMENT OF RHEUMATIC HEART DISEASE WITH ADRENAL CORTEX HORMONE PREPARATIONS].",
+        "abstract": "",
+        "journal": "Nihon Shonika Gakkai zasshi. Acta paediatrica Japonica",
+        "year": "1963",
+        "authors": [
+          "OKUNI M",
+          "YABUTA K",
+          "MATSUO J",
+          "KADOMA K",
+          "ANAMI S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex",
+          "Adrenal Cortex Hormones",
+          "Child",
+          "Cortisone",
+          "Dexamethasone",
+          "Humans",
+          "Infant",
+          "Prednisolone",
+          "Rheumatic Heart Disease",
+          "Triamcinolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14043524/"
+      },
+      {
+        "pmid": "4301244",
+        "title": "[Use of cortisol and its derivatives in clinic practice].",
+        "abstract": "",
+        "journal": "Terapevticheskii arkhiv",
+        "year": "1967",
+        "authors": [
+          "Egorova L I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Adrenal Insufficiency",
+          "Adrenocorticotropic Hormone",
+          "Arthritis, Rheumatoid",
+          "Bone Marrow Diseases",
+          "Cardiovascular Diseases",
+          "Collagen Diseases",
+          "Cortisone",
+          "Endocarditis, Bacterial",
+          "Endocrine System Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4301244/"
+      },
+      {
+        "pmid": "14157276",
+        "title": "EFFECT OF STEROID HORMONE ON THE RHEUMATIC CARDITIS.",
+        "abstract": "",
+        "journal": "Paediatria Universitatis Tokyo",
+        "year": "1963",
+        "authors": [
+          "OKUNI M",
+          "OSHIMA M",
+          "KURUMADA T",
+          "MATSUO N",
+          "YABUTA K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cortisone",
+          "Dexamethasone",
+          "Drug Therapy",
+          "Heart Auscultation",
+          "Japan",
+          "Myocarditis",
+          "Paramethasone",
+          "Prednisolone",
+          "Rheumatic Heart Disease",
+          "Toxicology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14157276/"
+      },
+      {
+        "pmid": "14164994",
+        "title": "[SYMPOSIUM ON RHEUMATIC MITRAL STENOSIS AND ITS SURGICAL TREATMENT. OUR EXPERIENCE IN THE HOSPITAL SANTO TOM'AS].",
+        "abstract": "",
+        "journal": "Archivos medicos panamenos",
+        "year": "1963",
+        "authors": [
+          "ROGNONI M",
+          "GUEVARA J F",
+          "BROWN A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cardiac Surgical Procedures",
+          "Electrocardiography",
+          "Mitral Valve Stenosis",
+          "Penicillins",
+          "Postoperative Complications",
+          "Rheumatic Heart Disease",
+          "Thoracic Surgery",
+          "Triamcinolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14164994/"
+      },
+      {
+        "pmid": "14150352",
+        "title": "[USE OF CORTICOSTEROIDS IN CARDIAC INSUFFICIENCY].",
+        "abstract": "",
+        "journal": "Sovetskaia meditsina",
+        "year": "1963",
+        "authors": [
+          "MERZON A K",
+          "NESTEROVA L P",
+          "KASIANOVA T N"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Blood",
+          "Cardiovascular Agents",
+          "Chlorides",
+          "Dexamethasone",
+          "Glucocorticoids",
+          "Heart Defects, Congenital",
+          "Heart Failure",
+          "Humans",
+          "Natriuresis",
+          "Potassium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14150352/"
+      },
+      {
+        "pmid": "14051420",
+        "title": "[SYMPOSIUM ON THE ETIOLOGICAL THERAPY OF RHEUMATIC CARDITIS].",
+        "abstract": "",
+        "journal": "Atti della Societa italiana di cardiologia",
+        "year": "1963",
+        "authors": [
+          "CONDORELLI L",
+          "AUDIER A",
+          "BALLABIO C B",
+          "BOSSA G",
+          "FRANCAVIGLIA A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenocorticotropic Hormone",
+          "Cortisone",
+          "Dexamethasone",
+          "Humans",
+          "Myocarditis",
+          "Penicillins",
+          "Phenylbutazone",
+          "Prednisone",
+          "Rheumatic Fever",
+          "Rheumatic Heart Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14051420/"
+      },
+      {
+        "pmid": "14202091",
+        "title": "[COMBINED STAGE BY STAGE TREATMENT OF RHEUMATISM IN CHILDREN].",
+        "abstract": "",
+        "journal": "Voprosy okhrany materinstva i detstva",
+        "year": "1964",
+        "authors": [
+          "DOLGOPOLOVA A V",
+          "KUZMINA N N"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Aminopyrine",
+          "Aspirin",
+          "Child",
+          "Cortisone",
+          "Dexamethasone",
+          "Endocarditis",
+          "Humans",
+          "Infant",
+          "Myocarditis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14202091/"
+      },
+      {
+        "pmid": "5712203",
+        "title": "[Use of corticosteroids in the treatment of children with circulatory insufficiency].",
+        "abstract": "",
+        "journal": "Voprosy okhrany materinstva i detstva",
+        "year": "1968",
+        "authors": [
+          "Borisova T P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Child, Preschool",
+          "Dexamethasone",
+          "Heart Failure",
+          "Humans",
+          "Prednisone",
+          "Rheumatic Heart Disease",
+          "Triamcinolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5712203/"
+      },
+      {
+        "pmid": "4537743",
+        "title": "[Clinical observations on the use of Trisurcort (triamcinolone)].",
+        "abstract": "",
+        "journal": "Minerva medica",
+        "year": "1972",
+        "authors": [
+          "Brambilla I",
+          "Cantoni L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Asthma",
+          "Blood Pressure",
+          "Blood Protein Electrophoresis",
+          "Coronary Disease",
+          "Electrocardiography",
+          "Eosinophils",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4537743/"
+      },
+      {
+        "pmid": "5506507",
+        "title": "[Plasma cortisol modified by the plasma level of fluorine-substituted long-acting cortisone].",
+        "abstract": "",
+        "journal": "Zeitschrift fur Rheumaforschung",
+        "year": "1970",
+        "authors": [
+          "Eberl R",
+          "Altmann H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Arthritis",
+          "Asthma",
+          "Humans",
+          "Hydrocortisone",
+          "Middle Aged",
+          "Rheumatic Heart Disease",
+          "Time Factors",
+          "Triamcinolone Acetonide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5506507/"
+      },
+      {
+        "pmid": "5385309",
+        "title": "[Clinico-theoretical bases of steroid therapy of collagen diseases].",
+        "abstract": "",
+        "journal": "Vestnik Akademii meditsinskikh nauk SSSR",
+        "year": "1969",
+        "authors": [
+          "Nesterov A I"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Collagen Diseases",
+          "Humans",
+          "Lupus Erythematosus, Systemic",
+          "Prednisolone",
+          "Pyrazoles",
+          "Rheumatic Fever",
+          "Rheumatic Heart Disease",
+          "Salicylates",
+          "Scleroderma, Systemic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5385309/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:24:07.111430",
+  "success": true,
+  "error_message": null
+}

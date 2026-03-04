@@ -1,0 +1,585 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ibuprofen",
+    "disease": "arthropathy",
+    "query_string": "Ibuprofen AND arthropathy"
+  },
+  "data": {
+    "query": "Ibuprofen AND arthropathy",
+    "results": [
+      {
+        "pmid": "391117",
+        "title": "Ibuprofen.",
+        "abstract": "Ibuprofen was introduced in England in 1967 and in the United States in 1974 as an anti-inflammatory drug in humans. It has weak but definite anti-inflammatory properties similar to those of aspirin, milligram for milligram, but with considerably less adverse effect on the stomach. Ibuprofen is chemically related to fenoprofen and naproxen, but lack of effect for any one in this chemical class of propionic-acid derivatives does not necessarily mean lack of effect for any other in an individual patient. The drug has analgesic properties, probably related to its anti-inflammatory effect. It inhibits prostaglandin synthesis and has no effect on the adrenopituitary axis, making it a nonsteroidal agent. Ibuprofen has been shown to be effective in rheumatoid arthritis and osteoarthritis and is probably effective in ankylosing spondylitis, gout, and Bartter's syndrome.",
+        "journal": "Annals of internal medicine",
+        "year": "1979",
+        "authors": [
+          "Kantor T G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Anti-Inflammatory Agents",
+          "Arthritis",
+          "Digestive System",
+          "Drug Interactions",
+          "Humans",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/391117/"
+      },
+      {
+        "pmid": "24672232",
+        "title": "Efficacy and safety of Curcuma domestica extracts compared with ibuprofen in patients with knee osteoarthritis: a multicenter study.",
+        "abstract": "To determine the efficacy and safety of Curcuma domestica extracts in pain reduction and functional improvement.",
+        "journal": "Clinical interventions in aging",
+        "year": "2014",
+        "authors": [
+          "Kuptniratsaikul Vilai",
+          "Dajpratham Piyapat",
+          "Taechaarpornkul Wirat",
+          "Buntragulpoontawee Montana",
+          "Lukkanapichonchut Pranee"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Curcuma",
+          "Female",
+          "Humans",
+          "Ibuprofen",
+          "Male",
+          "Middle Aged",
+          "Osteoarthritis, Knee",
+          "Phytotherapy",
+          "Plant Extracts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24672232/"
+      },
+      {
+        "pmid": "36600619",
+        "title": "Toxic, Genotoxic and Teratogenic Effects of Ibuprofen and its Derivatives.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are extensively used pharmaceuticals and tons of kilos are produced annually. Ibuprofen is one of the core medicines of non-steroidal anti-inflammatory drug and is primarily used for reduced pain, fever and tissue inflammation. It is also available for the treatment of osteoarthritis, rheumatoid arthritis, tendonitis, etc. It is still one of the most prescribed non-steroidal anti-inflammatory drugs in contemporary times. Although ibuprofen is a drug that has been used for years, it is also known to have various serious toxic effects.",
+        "journal": "Current drug targets",
+        "year": "2023",
+        "authors": [
+          "Çalışıcı Dilan",
+          "Yılmaz Serkan",
+          "Goktas Bayram"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Humans",
+          "Ibuprofen",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Osteoarthritis",
+          "DNA Damage"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36600619/"
+      },
+      {
+        "pmid": "35234840",
+        "title": "Cardiorenal risk of celecoxib compared with naproxen or ibuprofen in arthritis patients: insights from the PRECISION trial.",
+        "abstract": "Non-steroidal anti-inflammatory drugs (NSAIDs) are among the most frequently used drugs, both prescribed and over the counter. The long-term cardiovascular safety of NSAIDs in patients with arthritis has engendered controversy. Concerns remain regarding the relative incidence and severity of adverse cardiorenal effects, particularly in arthritis patients with established cardiovascular (CV) disease or risk factors for disease as illustrated by the PRECISION (Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen) trial participants (NCT00346216).We further investigated whether the selective COX-2 Inhibitor celecoxib has a superior cardiorenal safety profile compared with ibuprofen or naproxen in the PRECISION population.",
+        "journal": "European heart journal. Cardiovascular pharmacotherapy",
+        "year": "2022",
+        "authors": [
+          "Obeid Slayman",
+          "Libby Peter",
+          "Husni Elaine",
+          "Wang Qiuqing",
+          "Wisniewski Lisa M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Cardiovascular Diseases",
+          "Celecoxib",
+          "Humans",
+          "Ibuprofen",
+          "Naproxen",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35234840/"
+      },
+      {
+        "pmid": "35704468",
+        "title": "The effectiveness and safety of ibuprofen and acetylsalicylic acid in acute rheumatic fever.",
+        "abstract": "Acetylsalicylic acid (ASA) is a non-steroidal anti-inflammatory drug used in the treatment of acute rheumatic fever (ARF) and it can cause serious adverse effects. This study aimed to evaluate the clinical efficacy and side effects of ibuprofen in the treatment of ARF compared to the classic treatment, ASA.",
+        "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+        "year": "2022",
+        "authors": [
+          "Yılmaz Münevver",
+          "Gürses Dolunay",
+          "Tükenmez Gizem"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Aspirin",
+          "Child",
+          "Child, Preschool",
+          "Humans",
+          "Ibuprofen",
+          "Rheumatic Fever",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35704468/"
+      },
+      {
+        "pmid": "39789705",
+        "title": "Efficacy and safety of ibuprofen and naproxen in the treatment of oligoarticular juvenile idiopathic arthritis: bi-national cohort study.",
+        "abstract": "Juvenile idiopathic arthritis (JIA) is the most common rheumatic disease in children. Nonsteroidal anti-inflammatory drugs (NSAIDs) and intra-articular corticosteroid injections are first-line therapy for oligoarticular JIA. NSAIDs Adverse events (AEs) include gastrointestinal ulcers/bleeding and impaired renal function. The most prescribed NSAIDs for oligoarticular JIA are ibuprofen and naproxen. However, direct comparison between these drugs is lacking. We aimed to compare the efficacy and safety of ibuprofen versus naproxen for oligoarticular JIA.",
+        "journal": "Immunopharmacology and immunotoxicology",
+        "year": "2025",
+        "authors": [
+          "Ohana Orly",
+          "Marmor Itay",
+          "Ferguson Rina",
+          "Levinsky Yoel",
+          "Rubin Shiri"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ibuprofen",
+          "Naproxen",
+          "Arthritis, Juvenile",
+          "Male",
+          "Female",
+          "Retrospective Studies",
+          "Child, Preschool",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Child"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39789705/"
+      },
+      {
+        "pmid": "7006539",
+        "title": "Efficacy and safety of ibuprofen for hemophilic arthropathy.",
+        "abstract": "The safety and usefulness of ibuprofen (Motrin) were evaluated in 15 patients suffering from hemophilic arthropathy via a double-blind protocol with individual crossover. No significant increase in hemorrhagic episodes or alteration in platelet function was observed. A decrease in morning stiffness was noted in nine patients, and three decreased markedly their use of other pain medications. We conclude that ibuprofen represents a relatively safe agent for the management of discomfort caused by hemophilic arthropathy in a select group of hemophilic patients.",
+        "journal": "Archives of internal medicine",
+        "year": "1980",
+        "authors": [
+          "Hasiba U",
+          "Scranton P E",
+          "Lewis J H",
+          "Spero J A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Ankle Joint",
+          "Bleeding Time",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Elbow Joint",
+          "Hemarthrosis",
+          "Hematocrit",
+          "Hemophilia A",
+          "Humans",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7006539/"
+      },
+      {
+        "pmid": "6465159",
+        "title": "Ibuprofen--past, present, and future.",
+        "abstract": "",
+        "journal": "The American journal of medicine",
+        "year": "1984",
+        "authors": [
+          "Kantor T G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Arthritis, Rheumatoid",
+          "Blood Vessel Prosthesis",
+          "Drug Tolerance",
+          "Humans",
+          "Ibuprofen",
+          "Kinetics",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6465159/"
+      },
+      {
+        "pmid": "39140520",
+        "title": "Quercetin and ibuprofen combination displayed anti-inflammatory effects and also extenuates the enteric neurons damage of arthritic rats.",
+        "abstract": "This study aimed to investigate the antioxidant and anti-inflammatory properties of quercetin on the cellular components of the Enteric Nervous System in the ileum of rats with arthritis. Rats were distributed into five groups: control (C), arthritic (AIA), arthritic treated with ibuprofen (AI), arthritic treated with quercetin (AQ) and arthritic treated with both ibuprofen and quercetin (AIQ). The ileum was processed for immunohistochemical techniques for HuC/D, calcitonin gene-related peptide, and vasoactive intestinal polypeptide. Measurements in histological sections, chemiluminescence assays, and total antioxidant capacity were also performed. Rheumatoid arthritis resulted in a decrease in neuronal density, yet neuroplasticity mechanisms were evident through observed changes in varicosities size and neuronal area compared to the control group. Reduced paw edema and neuroprotective effects were predominantly noted in both plexuses, as evidenced by the increased density preservation",
+        "journal": "Anais da Academia Brasileira de Ciencias",
+        "year": "2024",
+        "authors": [
+          "Silva Bruna Thais DA",
+          "Martins-Perles Juliana Vanessa C",
+          "Bossolani Gleison Daion P",
+          "Lima Mariana M",
+          "Sehaber-Sierakowski Camila C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Quercetin",
+          "Ibuprofen",
+          "Rats",
+          "Rats, Wistar",
+          "Male",
+          "Anti-Inflammatory Agents",
+          "Antioxidants",
+          "Neurons",
+          "Arthritis, Experimental"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39140520/"
+      },
+      {
+        "pmid": "37085737",
+        "title": "Conjugates of ibuprofen inhibit CHIKV infection and inflammation.",
+        "abstract": "Chikungunya virus infection has become a global health concern because of its high rates of morbidity and mortality in patients with preexisting conditions. Inflammation and arthritis are the major symptoms of CHIKV that persist even after clearance of CHIKV. To develop an antiviral that can reduce infection and manage inflammation independent of the CHIKV infection, ibuprofen (IBU) conjugates with sulfonamide and thiosemicarbazide were synthesized. The conjugates, IBU-SULFA, IBU-ISS and IBU-IBT significantly inhibited CHIKV infection in vitro with a selectivity index (CC50/IC50) of > 11.9, > 25.1 and > 21, respectively. The reduction in infection was attributed to the interference of the conjugates in the early stages of CHIKV life cycle. With no acute oral toxicity, these compounds significantly reduced inflammation and arthritis in rats. Unlike IBU, the conjugates were not ulcerogenic. In conclusion, the conjugation imparted anti-CHIKV properties while retaining the anti-inflammator",
+        "journal": "Molecular diversity",
+        "year": "2024",
+        "authors": [
+          "Dash Rudra N",
+          "Prabhudutta Mamidi",
+          "De Saikat",
+          "Swain Ranjit P",
+          "Moharana Alok K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ibuprofen",
+          "Animals",
+          "Chikungunya virus",
+          "Antiviral Agents",
+          "Chikungunya Fever",
+          "Inflammation",
+          "Rats",
+          "Semicarbazides",
+          "Arthritis",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37085737/"
+      },
+      {
+        "pmid": "12723739",
+        "title": "Discovery, mechanisms of action and safety of ibuprofen.",
+        "abstract": "Ibuprofen was the product of a long research programme during the 1950s and 1960s to develop a 'super aspirin' for the treatment of rheumatoid arthritis which was as effective as current alternatives but safer. Selected for development in 1964 after several promising compounds had proved disappointing at the clinical stage, ibuprofen was found to have a short elimination half-life and exceptional gastrointestinal tolerability. Ibuprofen was introduced in the United Kingdom in 1966 and in the United States in 1974, and was the first non-steroidal anti-inflammatory drug (NSAID) licensed for over-the-counter use in the UK in 1983 and in the US the following year. Ibuprofen is a non-cyclo-oxygenase selective NSAID but recent evidence suggests additional anti-inflammatory properties are due to modulation of leucocyte activity, reduced cytokine production, inhibition of free radicals and signalling transduction. Ibuprofen may also exert a central analgesic action in the dorsal horn. Future r",
+        "journal": "International journal of clinical practice. Supplement",
+        "year": "2003",
+        "authors": [
+          "Rainsford K D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Chemistry, Pharmaceutical",
+          "Cyclooxygenase Inhibitors",
+          "Cytokines",
+          "Dogs",
+          "Free Radicals",
+          "Guinea Pigs",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12723739/"
+      },
+      {
+        "pmid": "28401783",
+        "title": "[Not Available].",
+        "abstract": "",
+        "journal": "Praxis",
+        "year": "2017",
+        "authors": [
+          "Raschle Joëlle"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Arthritis, Rheumatoid",
+          "Cardiovascular Diseases",
+          "Celecoxib",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Ibuprofen",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28401783/"
+      },
+      {
+        "pmid": "2200144",
+        "title": "Rheumatoid pleuritis.",
+        "abstract": "My case is one in which the principal manifestation of rheumatoid arthritis is pleurisy. It is a case that underscores the clinical nuances of rheumatoid pleuritis. The major articles that have shaped our view of rheumatoid pleuritis are discussed in light of my case, a perspective that raises the possibility that some of the established biases about rheumatoid pleuritis may be misleading. It is necessary to consider rheumatoid pleuritis in any patient with an unexplained pleural effusion.",
+        "journal": "Southern medical journal",
+        "year": "1990",
+        "authors": [
+          "Graham W R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Diagnosis, Differential",
+          "Female",
+          "Humans",
+          "Ibuprofen",
+          "Middle Aged",
+          "Pleural Effusion",
+          "Pleurisy",
+          "Pulmonary Embolism",
+          "Rheumatoid Factor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2200144/"
+      },
+      {
+        "pmid": "15506544",
+        "title": "Ibuprofen and Alzheimer's disease.",
+        "abstract": "There is epidemiological observation that long-term treatment of patients suffering from rheumatoid arthritis with ibuprofen results in reduced risk and delayed onset of Alzheimer's disease (AD). Chronic central nervous system inflammation in AD brain is implicated in the pathology, but how ibuprofen impacts the pathogenic AD pathways is unclear. Ibuprofen, a commonly used over-the-counter nonsteroidal anti-inflammatory drug (NSAID) that is a cyclooxygenase (COX)-1 and COX-2 inhibitor as well as a peroxisome proliferator-activated receptor (PPAR) agonist, decreases the production of nitric oxide (NO), protects neurons against glutamate toxicity and decreases the production of proinflammatory cytokines. Ibuprofen crosses the blood brain barrier and suppresses neuritic plaque pathology and inflammation in AD brain. Furthermore, ibuprofen is a potent free radical scavenger, and it could reduce lipid peroxidation and free radical generation. Because of neuroprotective activity, relative sa",
+        "journal": "Folia medica",
+        "year": "2004",
+        "authors": [
+          "Dokmeci Dikmen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alzheimer Disease",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Humans",
+          "Ibuprofen",
+          "Inflammation",
+          "Neuroimmunomodulation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15506544/"
+      },
+      {
+        "pmid": "33820460",
+        "title": "Ibuprofen-based advanced therapeutics: breaking the inflammatory link in cancer, neurodegeneration, and diseases.",
+        "abstract": "Ibuprofen is a classical nonsteroidal anti-inflammatory drug (NSAID) highly prescribed to reduce acute pain and inflammation under an array of conditions, including rheumatoid arthritis, osteoarthritis, dysmenorrhea, and gout. Ibuprofen acts as a potential inhibitor for cyclooxygenase enzymes (COX-1 and COX-2). In the past few decades, research on this small molecule has led to identifying other possible therapeutic benefits. Anti-tumorigenic and neuroprotective functions of Ibuprofen are majorly recognized in recent literature and need further consideration. Additionally, several other roles of this anti-inflammatory molecule have been discovered and subjected to experimental assessment in various diseases. However, the major challenge faced by Ibuprofen and other drugs of similar classes is their side effects, and tendency to cause gastrointestinal injury, generate cardiovascular risks, modulate hepatic and acute kidney diseases. Future research should also be conducted to deduce new",
+        "journal": "Drug metabolism reviews",
+        "year": "2021",
+        "authors": [
+          "Upadhyay Arun",
+          "Amanullah Ayeman",
+          "Joshi Vibhuti",
+          "Dhiman Rohan",
+          "Prajapati Vijay Kumar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Female",
+          "Humans",
+          "Ibuprofen",
+          "Neoplasms",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33820460/"
+      },
+      {
+        "pmid": "26165391",
+        "title": "Gastroprotective efficacy and safety of single-tablet ibuprofen/famotidine vs ibuprofen in older persons.",
+        "abstract": "A combination tablet of ibuprofen 800 mg and famotidine 26.6 mg given three times daily is effective for the treatment of rheumatoid arthritis and osteoarthritis and decreases the risk of developing upper gastrointestinal (GI) ulcers. This analysis evaluated the gastroprotective efficacy and safety of the single-tablet combination of ibuprofen/famotidine compared with ibuprofen alone on the basis of age and the presence of one or more risk factors for development of upper GI ulcer.",
+        "journal": "The Physician and sportsmedicine",
+        "year": "2015",
+        "authors": [
+          "Bello Alfonso E",
+          "Kent Jeffrey D",
+          "Holt Robert J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Anti-Ulcer Agents",
+          "Arthritis, Rheumatoid",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Duodenal Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26165391/"
+      },
+      {
+        "pmid": "22471358",
+        "title": "Osteoarthritis of the knee and hip. Part II: therapy with ibuprofen and a review of clinical trials.",
+        "abstract": "We review the pharmacological properties and clinical evidence pertaining to the efficacy of ibuprofen as a first-line treatment in hip and knee osteoarthritis (OA). In the context of our previous paper's exploration of the aetiology and pathogenesis of OA as a basis for pharmacotherapy, we discuss the pharmacokinetics (PK) and clinical pharmacodynamics (PD) of ibuprofen relevant to OA.",
+        "journal": "The Journal of pharmacy and pharmacology",
+        "year": "2012",
+        "authors": [
+          "Adatia Aleem",
+          "Rainsford K D",
+          "Kean Walter F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthralgia",
+          "Hip",
+          "Hip Joint",
+          "Humans",
+          "Ibuprofen",
+          "Knee",
+          "Knee Joint",
+          "Osteoarthritis, Hip",
+          "Osteoarthritis, Knee"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22471358/"
+      },
+      {
+        "pmid": "6338972",
+        "title": "The use and safety of Ibuprofen in the hemophiliac.",
+        "abstract": "After demonstrating initial safety of Ibuprofen administered to hemophiliacs, a 16-wk double-blind individual crossover trial was designed to test the safety and, to a more limited extent, the efficacy of 1600 mg of Ibuprofen or placebo given daily to 20 hemophiliacs with hemophiliac arthropathy. The trial was completed with no evidence of increased frequency or severity of hemophiliac bleeding episodes or clinical or laboratory evidence of bleeding secondary to Ibuprofen. There were five treatment failures, none associated with hemorrhage or lack of compliance. A benefit was obtained in reduction of early morning stiffness and pain. Ibuprofen should be considered as a safe and potentially beneficial antiinflammatory agent in the treatment of carefully monitored hemophiliacs eligible for such therapy.",
+        "journal": "Blood",
+        "year": "1983",
+        "authors": [
+          "Inwood M J",
+          "Killackey B",
+          "Startup S J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Clinical Trials as Topic",
+          "Hemophilia A",
+          "Humans",
+          "Ibuprofen",
+          "Joint Diseases",
+          "Random Allocation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6338972/"
+      },
+      {
+        "pmid": "6465162",
+        "title": "Pharmacokinetics of ibuprofen.",
+        "abstract": "The pharmacokinetics of ibuprofen (Motrin) are best described by a two-compartment open model. Ibuprofen pharmacokinetics are only minimally influenced by advanced age, the presence of alcoholic liver disease, or rheumatoid arthritis. Levels of ibuprofen in breast milk are negligible. In addition, ibuprofen can be combined with acetaminophen without altering the pharmacokinetic profile. However, although not yet clinically proved, the concomitant use of ibuprofen and aspirin appears to reduce ibuprofen plasma levels to less than half those observed with ibuprofen alone.",
+        "journal": "The American journal of medicine",
+        "year": "1984",
+        "authors": [
+          "Albert K S",
+          "Gernaat C M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetaminophen",
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Arthritis, Rheumatoid",
+          "Aspirin",
+          "Biological Availability",
+          "Chromatography, Gas",
+          "Chromatography, High Pressure Liquid",
+          "Drug Interactions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6465162/"
+      },
+      {
+        "pmid": "24740137",
+        "title": "Comparison of safety, efficacy and tolerability of dexibuprofen and ibuprofen in the treatment of osteoarthritis of the hip or knee.",
+        "abstract": "In this observer-blinded, multicenter, non-inferiority study, 489 patients suffering from painful osteoarthritis of the hip or knee were included to investigate safety and tolerability of Dexibuprofen vs. Ibuprofen powder for oral suspension. Only patients who had everyday joint pain for the past 3 months and \"moderate\" to \"severe\" global pain intensity in the involved hip/knee of within the last 48 h were enrolled. The treatment period was up to 14 days with a control visit after 3 days. The test product was Dexibuprofen 400 mg powder for oral suspension (daily dose 800 mg) compared to Ibuprofen 400 mg powder for oral suspension (daily dose 1,600 mg). Gastrointestinal adverse drug reactions were reported in 8 patients (3.3 %) in the Dexibuprofen group and in 19 patients (7.8 %) in the Ibuprofen group. Statistically significant non-inferiority was shown for Dexibuprofen. Comparing both groups by a Chi square test showed a statistical significant lower proportion of related gastrointest",
+        "journal": "Wiener klinische Wochenschrift",
+        "year": "2014",
+        "authors": [
+          "Zamani Omid",
+          "Böttcher Elke",
+          "Rieger Jörg D",
+          "Mitterhuber Johann",
+          "Hawel Reinhold"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase IV",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthralgia",
+          "Austria",
+          "Causality",
+          "Comorbidity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24740137/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:40:53.519093",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrocortisone Acetate",
+    "disease": "leukemia, lymphocytic, susceptibility to",
+    "query_string": "Hydrocortisone Acetate AND leukemia, lymphocytic, susceptibility to"
+  },
+  "data": {
+    "query": "Hydrocortisone Acetate AND leukemia, lymphocytic, susceptibility to",
+    "results": []
+  },
+  "timestamp": "2026-03-04T13:16:18.890974",
+  "success": true,
+  "error_message": null
+}

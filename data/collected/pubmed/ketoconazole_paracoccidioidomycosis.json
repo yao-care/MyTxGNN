@@ -1,0 +1,584 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ketoconazole",
+    "disease": "paracoccidioidomycosis",
+    "query_string": "Ketoconazole AND paracoccidioidomycosis"
+  },
+  "data": {
+    "query": "Ketoconazole AND paracoccidioidomycosis",
+    "results": [
+      {
+        "pmid": "6301794",
+        "title": "Ketoconazole.",
+        "abstract": "The treatment of most fungal infections is difficult, at best. Antifungal therapy is complicated by the development of resistant organisms and by the toxicity of many agents. Ketoconazole, an orally active imidazole derivative, has been approved by the Food and Drug Administration for the treatment of candidiasis, chronic mucocutaneous candidiasis, oral thrush, candiduria, coccidioidomycosis, histoplasmosis, chromomycosis, and paracoccidioidomycosis. At present, there is very little peer review literature on ketoconazole's effectiveness for several of its approved indications. Gastrointestinal side effects account for the majority of reported adverse reactions; however, preliminary evidence suggests that higher dosages of ketoconazole may decrease adrenal steroidogenesis. Currently, ketoconazole 200-400 mg/d is recommended; the duration of therapy remains to be firmly established. Until well-designed clinical trials are completed and ketoconazole's effectiveness is compared to that of ",
+        "journal": "Drug intelligence & clinical pharmacy",
+        "year": "1983",
+        "authors": [
+          "Hume A L",
+          "Kerkering T M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Bacteria",
+          "Costs and Cost Analysis",
+          "Drug Interactions",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Kinetics",
+          "Mycoses",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6301794/"
+      },
+      {
+        "pmid": "19879504",
+        "title": "Paracoccidioidomycosis.",
+        "abstract": "Paracoccidioidomycosis is a systemic fungal infection caused by Paracoccidoides brasiliensis. The infection is endemic in subtropical areas of Latin America and has a high prevalence in Brazil. The disease is acquired by airborne inhalation of conidia and is frequently observed in adult male rural workers. The juvenile type of this mycosis is less prevalent (5-10% of clinical cases) and attacks both sexes. This clinical form occurs in children and adolescents and has a subacute course with fever, toxemia, loss of weight, adenopathy, hepatoesplenomegaly, anaemia and eosinophilia. Radiologic abnormalities in the lung fields may be seen. Mucous membrane lesions occasionally occur. The clinical presentation resembles severe tuberculosis, leukaemia or lymphoma. The diagnosis is confirmed by finding yeast-like elements of P. brasiliensis in microscopic examinations of wet preparations of specimens submitted for mycologic studies. The fungus grows slowly (20-30 days) and its isolation is diff",
+        "journal": "Paediatric respiratory reviews",
+        "year": "2009",
+        "authors": [
+          "Ferreira Marcelo Simão"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Paracoccidioidomycosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19879504/"
+      },
+      {
+        "pmid": "6309466",
+        "title": "Evaluation of ketoconazole.",
+        "abstract": "The pharmacology, microbiology, pharmacokinetics, clinical use, adverse effects, dosage and administration, and drug interactions of ketoconazole are reviewed. Ketoconazole, a new orally active antifungal agent, is an imidazole derivative structurally related to miconazole and clotrimazole. It impairs the synthesis of ergosterol (the main sterol in fungal cell membranes) in susceptible organisms, including yeast (Candida and Cryptococcus spp.), fungi, and dermatophytes. Ketoconazole is absorbed from the gastrointestinal tract; it is better absorbed from acidic aqueous solutions, so drugs that alter the pH of the stomach affect ketoconazole absorption. Therapeutic plasma concentrations are maintained for several hours following ketoconazole administration. Ketoconazole distributes readily into blood, urine, saliva, joint fluid, sebum, and cerumen; recent data indicate it may penetrate into cerebrospinal fluid as well. Elimination is biphasic, with a half-life of two hours during the fir",
+        "journal": "Clinical pharmacy",
+        "year": "1982",
+        "authors": [
+          "Sohn C A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Fungi",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Kinetics",
+          "Mycoses",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6309466/"
+      },
+      {
+        "pmid": "20625674",
+        "title": "Association between paracoccidioidomycosis and cancer.",
+        "abstract": "To analyze the association between paracoccidioidomycosis (Pcm) and cancer in a series of 25 cases and to review the literature on this topic.",
+        "journal": "Jornal brasileiro de pneumologia : publicacao oficial da Sociedade Brasileira de Pneumologia e Tisilogia",
+        "year": "2010",
+        "authors": [
+          "Rodrigues Gustavo da Silva",
+          "Severo Cecília Bittencourt",
+          "Oliveira Flávio de Mattos",
+          "Moreira José da Silva",
+          "Prolla João Carlos"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Carcinoma, Bronchogenic",
+          "Chi-Square Distribution",
+          "Female",
+          "Humans",
+          "Lung Neoplasms",
+          "Male",
+          "Middle Aged",
+          "Paracoccidioidomycosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20625674/"
+      },
+      {
+        "pmid": "6255544",
+        "title": "Ketoconazole in the treatment of paracoccidioidomycosis and histoplasmosis.",
+        "abstract": "Ketoconazole was given orally to 33 patients with paracoccidioidomycosis and 23 with histoplasmosis. There were 55 men and one woman, and ages ranged from 28 to 67 years. Each patient had either the chronic disseminated or the chronic pulmonary form of disease. The diagnosis was established in 54 patients by culture of Paracoccidioides brasiliensis or Histoplasma capsulatum from lesions and in two patients by the clinical picture and results of serologic tests for histoplasmosis. The initial dosage was 400 mg per day. The dosage was reduced to 200 mg when a cure was achieved. The duration of treatment ranged from two to 18 months. Results of treatment were classified as very good (clinical and serologic cure) in 23 (41%) of the patients; good (clinical cure only) in 28 (50%); fair (partial improvement) in one (2%); and poor (no improvement) in three (5%). The results were not assessable in one patient who did not complete therapy. The three patients who did not respond to treatment had",
+        "journal": "Reviews of infectious diseases",
+        "year": "1980",
+        "authors": [
+          "Negroni R",
+          "Robles A M",
+          "Arechavala A",
+          "Tuculet M A",
+          "Galimberti R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Antifungal Agents",
+          "Complement Fixation Tests",
+          "Female",
+          "Histoplasmosis",
+          "Humans",
+          "Hypersensitivity, Delayed",
+          "Imidazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6255544/"
+      },
+      {
+        "pmid": "12230222",
+        "title": "Randomized trial with itraconazole, ketoconazole and sulfadiazine in paracoccidioidomycosis.",
+        "abstract": "Forty-two patients with active paracoccidioidomycosis were randomized to receive itraconazole (50-100 mg d(-1)), ketoconazole (200-400 mg d(-1)) or sulfadiazine (100-150 mg kg d(-1) up to 6 g d(-1)) for 4-6 months, followed by slow release sulfa until negativity of serological tests. All 14 patients in itraconazole and sulfadiazine groups and 13 in the ketoconazole group showed an adequate clinical response to the chemotherapy. One patient in the latter group showed treatment failure according to clinical and mycological criteria. The test of the hypothesis that the drugs reduced antibody levels up to ten months of treatment showed a p value equal to 0.0001 for itraconazole, 0.017 for ketoconazole and 0.0012 for sulfadiazine; this reduction was similar for the three groups. In this first randomized study for the treatment of paracoccidioidomycosis we could not show superiority of any one regimen over the others in the clinical and serological responses of patients with the moderately s",
+        "journal": "Medical mycology",
+        "year": "2002",
+        "authors": [
+          "Shikanai-Yasuda M A",
+          "Benard G",
+          "Higaki Y",
+          "Del Negro G M B",
+          "Hoo Sun"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antifungal Agents",
+          "Female",
+          "Humans",
+          "Itraconazole",
+          "Ketoconazole",
+          "Male",
+          "Middle Aged",
+          "Paracoccidioidomycosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12230222/"
+      },
+      {
+        "pmid": "6297655",
+        "title": "Ketoconazole.",
+        "abstract": "",
+        "journal": "British medical journal (Clinical research ed.)",
+        "year": "1982",
+        "authors": [
+          "Hay R"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candidiasis",
+          "Dermatomycoses",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Paracoccidioidomycosis",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6297655/"
+      },
+      {
+        "pmid": "6252105",
+        "title": "Treatment of paracoccidioidomycosis, candidiasis, chromomycosis, lobomycosis, and mycetoma with ketoconazole.",
+        "abstract": "The authors present the use of ketoconazole in 27 cases of paracoccidioidomycosis, eight of mycetoma, seven of chromomycosis, four of systemic candidiasis and one of lobomycosis. The drug was administered orally in a dosage of 200 to 400 mg per day within a period of up to 90 days. The results of the treatment for paracoccidioidomycosis were of cicatrization of the cutaneous lesions in three to four weeks in 24 patients and in two, from six to seven weeks. Out of 27 patients, 14 presented pulmonary lesions. The evolution within a 90-day period showed radiological cure in one case, improvement in seven, and unaltered picture in five patients. In one, there was no further control. In the three out of four cases of candidiasis there was clinical and mycological cure and in one case marked improvement. In seven cases of chromomycosis there was marked improvement in two, moderate in four, and slight in one case. There was slight improvement in one case of lobomycosis, and in eight cases of ",
+        "journal": "International journal of dermatology",
+        "year": "1980",
+        "authors": [
+          "Cucé L C",
+          "Wroclawski E L",
+          "Sampaio S A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Chromoblastomycosis",
+          "Clinical Trials as Topic",
+          "Female",
+          "Humans",
+          "Imidazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6252105/"
+      },
+      {
+        "pmid": "12950907",
+        "title": "Disseminated paracoccidioidomycosis: correlation between clinical and in vitro resistance to ketoconazole and trimethoprim sulphamethoxazole.",
+        "abstract": "The present study relates to a case of subacute multifocal paracoccidioidomycosis where the upper intestinal tract is involved. The involvement of the upper digestive tract is uncommon. The recommended therapeutic treatment plans and the difficulty in the treatment of paracoccidioidomycosis are discussed in association with susceptibility tests to antifungal drugs in vitro. This is the first report available in the literature showing, in parallel, clinical and in vitro resistance to ketoconazole and trimethoprim sulphamethoxazole, studied during the course of the disease.",
+        "journal": "Mycoses",
+        "year": "2003",
+        "authors": [
+          "Hahn Rosane Christine",
+          "Morato Conceição Yvelise Teresinha",
+          "Santos Niriana Lara",
+          "Ferreira Jussara Fialho",
+          "Hamdan Júnia Soares"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Infective Agents",
+          "Drug Resistance, Fungal",
+          "Humans",
+          "Ketoconazole",
+          "Male",
+          "Microbial Sensitivity Tests",
+          "Paracoccidioides",
+          "Paracoccidioidomycosis",
+          "Trimethoprim, Sulfamethoxazole Drug Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12950907/"
+      },
+      {
+        "pmid": "8077517",
+        "title": "Treatment of tropical mycoses.",
+        "abstract": "Several subcutaneous and deep-seated mycoses are either observed more frequently in the tropical areas or are restricted to certain regions within the tropics. These mycoses include sporotichosis, chromoblastomycosis, entomophthoromycosis, eumycetoma, lobomycosis, and paracoccidioidomycosis. In sporotrichosis and paracoccidioidomycosis, therapy often results in either complete resolution or marked improvement. For decades sporotrichosis has been treated successfully with potassium iodide, but recently the triazole compounds, especially itraconazole, have proved effective and free of major side effects. The usual therapy for paracoccidioidomycosis is sulfonamides or amphotericin B; the former requires prolonged treatment, whereas the latter causes a significant degree of toxicity. Various azole derivatives (ketoconazole, fluconazole, saperconazole, and itraconazole) allow shorter treatment courses, can be given orally, and are more effective. Presently, itraconazole is the drug of choic",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1994",
+        "authors": [
+          "Restrepo A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Blastomycosis",
+          "Chromoblastomycosis",
+          "Combined Modality Therapy",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Mucormycosis",
+          "Mycetoma",
+          "Mycoses",
+          "Paracoccidioidomycosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8077517/"
+      },
+      {
+        "pmid": "6095472",
+        "title": "Chronic murine paracoccidioidomycosis: effect of ketoconazole on clearance of Paracoccidioides brasiliensis and immune response.",
+        "abstract": "In a murine model of chronic pulmonary and disseminated paracoccidioidomycosis, ketoconazole (100 mg kg-1 in 0.3% agar) given by gavage twice daily for 1 or 2 months enabled all mice to clear disseminated Paracoccidioides brasiliensis from the spleen. Clearance of P. brasiliensis from the lungs was more difficult, and was achieved in 60% of the mice treated for 2 months. Sera from agar-treated control mice at days 77 and 103 post-infection demonstrated precipitating antibodies to P. brasiliensis antigens, but sera from ketoconazole-treated mice were precipitin-negative, indicating a favorable prognosis. Delayed hypersensitivity reactions to P. brasiliensis antigens in ketoconazole-treated mice were not significantly greater than in controls; consequently this test correlated less well with response than levels of serum antibody. This is the first use of this animal model of paracoccidioidomycosis to study the effect of antifungal drug protocols on the resolution of the disease. It also",
+        "journal": "Sabouraudia",
+        "year": "1984",
+        "authors": [
+          "Hoyos G L",
+          "McEwen J G",
+          "Brummer E",
+          "Castañeda E",
+          "Restrepo A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibodies, Fungal",
+          "Chronic Disease",
+          "Disease Models, Animal",
+          "Fungi",
+          "Hypersensitivity, Delayed",
+          "Ketoconazole",
+          "Lung Diseases, Fungal",
+          "Male",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6095472/"
+      },
+      {
+        "pmid": "3007365",
+        "title": "Adrenal function in paracoccidioidomycosis: a prospective study in patients before and after ketoconazole therapy.",
+        "abstract": "The adrenal gland functional reserve was studied in a group of 22 patients with active paracoccidioidomycosis before therapy and in 18 of the same patients after termination of six months of ketoconazole treatment. 22 control subjects were also tested. Serum cortisol was measured before and after i.v. infusion of 250 micrograms of corticotropin given over a period of two hours. Basal cortisol levels were subnormal in only one patients before treatment and in four of 18 patients after therapy. Overt Addison's disease was found in 14% of the patients before treatment. However, corticotropin stimulation revealed diminished adrenal reserve in 23% of patients before, and in 44% of the patients after treatment. Although decreased adrenal cortex function after therapy may be influenced by ketoconazole, more studies are needed to determine the role of this agent after prolonged use. The high frequency of subclinical adrenal failure in paracoccidioidomycosis should alert clinicians in charge of",
+        "journal": "Infection",
+        "year": "1986",
+        "authors": [
+          "Abad A",
+          "Gomez I",
+          "Velez P",
+          "Restrepo A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adrenal Glands",
+          "Adrenocorticotropic Hormone",
+          "Adult",
+          "Humans",
+          "Hydrocortisone",
+          "Ketoconazole",
+          "Middle Aged",
+          "Paracoccidioidomycosis",
+          "Reference Values"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3007365/"
+      },
+      {
+        "pmid": "16625617",
+        "title": "Drugs for treating paracoccidioidomycosis.",
+        "abstract": "Paracoccidioidomycosis is a fungal infection found in particular geographic localities in Latin America. Treatment can last for up to two years is often associated with complications, including relapse, but people may die without it.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2006",
+        "authors": [
+          "Menezes V M",
+          "Soares B G O",
+          "Fontes C J F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Humans",
+          "Itraconazole",
+          "Ketoconazole",
+          "Paracoccidioidomycosis",
+          "Randomized Controlled Trials as Topic",
+          "Sulfadiazine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16625617/"
+      },
+      {
+        "pmid": "6098832",
+        "title": "The effect of ketoconazole on experimental paracoccidioidomycosis in the Syrian hamster: immunological and histopathological study.",
+        "abstract": "The effect of Ketoconazole (KTZ) on the hamster experimental intratesticular paracoccidioidomycosis was studied employing different treatment schedules. KTZ long course treatment beginning at an early stage of the infection was effective in preventing fungal proliferation, dissemination to lymph nodes, spleen and kidneys, and in maintaining low levels of humoral and cellular specific immune responses. KTZ short course treatment starting at an advanced stage of disease resulted in a more severe histopathological picture without significant changes in the immunological profile. The drug prolonged the life span of hamsters infected with Paracoccidioides brasiliensis, but did not prevent mortality. Toxic necrosis of the bone marrow occurred in normal animals receiving 120 mg/kg/day of KTZ but with lower doses no morphologic alterations were observed in heart, lungs, kidneys, adrenals, spleen, liver, intestine or bone marrow.",
+        "journal": "Mycopathologia",
+        "year": "1984",
+        "authors": [
+          "Mota N G",
+          "Viero R M",
+          "Rezkallah-Iwasso M T",
+          "Peraçoli M T",
+          "Soares A M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cell Migration Inhibition",
+          "Cricetinae",
+          "Immunodiffusion",
+          "Ketoconazole",
+          "Macrophages",
+          "Male",
+          "Mesocricetus",
+          "Paracoccidioidomycosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6098832/"
+      },
+      {
+        "pmid": "3221915",
+        "title": "Measurement of glucose-6-phosphate dehydrogenase and glutathione reductase activity in patients with paracoccidioidomycosis treated with ketoconazole.",
+        "abstract": "Hemoglobin rates, hematocrit and glucose-6-phosphate dehydrogenase (G6PD) and glutathione reductase activities were measured in 38 patients with paracoccidioidomycosis treated with ketoconazole or sulfadoxin, and in 13 normal individuals. Ketoconazole-treated patients showed reduced G6PD and glutathione reductase activities. One of these patients was found to be G6PD-deficient and suffered a hemolytic episode during treatment, which, however, did not require interruption of therapy. The authors suggest that patients showing an erythrocyte enzyme defect should be monitored hematologically during treatment with ketoconazole. They also suggest that ketoconazole is an oxidant drug in addition to being a possible inhibitor of antioxidant erythrocyte enzymes.",
+        "journal": "Mycopathologia",
+        "year": "1988",
+        "authors": [
+          "Barraviera B",
+          "Mendes R P",
+          "Pereira P C",
+          "Machado J M",
+          "Curi P R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Erythrocytes",
+          "Glucosephosphate Dehydrogenase",
+          "Glutathione Reductase",
+          "Hematocrit",
+          "Hemoglobins",
+          "Humans",
+          "Ketoconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3221915/"
+      },
+      {
+        "pmid": "6151171",
+        "title": "Ketoconazole. Mechanism of action, spectrum of activity, pharmacokinetics, drug interactions, adverse reactions and therapeutic use.",
+        "abstract": "Ketoconazole is a well-tolerated oral antifungal agent with a broad spectrum of activity in vitro, but in vitro testing has not yet been correlated to in vivo results. In addition, many variables that can alter in vitro test results have been identified. The drug shows effectiveness in the treatment of paracoccidioidomycosis, chronic mucocutaneous candidiasis, oral thrush, coccidioidomycosis and histoplasmosis. It was recently approved for use in blastomycosis. It is not yet approved for use in dermatophyte infections, but a large body of literature exists supporting this application. Ketoconazole has several reported drug interactions, including lower bioavailability with cimetidine, accumulation of cyclosporin during concurrent therapy and a possible disulfiram-like reaction with alcohol. It is highly protein bound to albumin and is extensively metabolized. Dosage adjustment is not required in renal failure. The main side effects are gastrointestinal and occur in 5-10% of the patient",
+        "journal": "Pharmacotherapy",
+        "year": "1984",
+        "authors": [
+          "Van Tyle J H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Biotransformation",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Drug Interactions",
+          "Drug Resistance, Microbial",
+          "Female",
+          "Gynecomastia",
+          "Humans",
+          "Hydrocortisone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6151171/"
+      },
+      {
+        "pmid": "2828779",
+        "title": "[Comparative study of the efficiency of itraconazole and ketoconazole in the treatment of experimental paracoccidioidomycosis].",
+        "abstract": "A comparative study between ketoconazole and itraconazole in the prophylactic and curative treatment of experimental paracoccidioidomycosis in rats and guinea pigs was carried out. Ninety seven Wistar rats were inoculated intracardiacally with the yeast-phase of P. brasiliensis with the purpose of evaluating the prophylactic treatment. Eighty one guinea pigs were injected intratesticularly with the same microorganism with the aim of studying the healing treatment. Both drugs were administered by gavage once a day. The prophylactic treatment started 3 days before the challenger inoculation and the healing treatment begun 10 days after the challenger inoculation. The animals were divided in four groups: I), control animals to which only the solvents of both drugs were administered; II), those which received ketoconazole 40 mg/kg/day; III), those treated with the same drug 80 mg/kg/day, and IV), animals treated with itraconazole 8 mg/kg/day. Seven to 30 days after starting the healing and",
+        "journal": "Medicina cutanea ibero-latino-americana",
+        "year": "1987",
+        "authors": [
+          "Negroni R",
+          "Finquelievich J L",
+          "Gosis A S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Drug Evaluation, Preclinical",
+          "Guinea Pigs",
+          "Itraconazole",
+          "Ketoconazole",
+          "Lung Diseases, Fungal",
+          "Male",
+          "Paracoccidioidomycosis",
+          "Rats",
+          "Testicular Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2828779/"
+      },
+      {
+        "pmid": "6325087",
+        "title": "Ketoconazole.",
+        "abstract": "",
+        "journal": "Connecticut medicine",
+        "year": "1984",
+        "authors": [
+          "Deutsch P H",
+          "Quintiliani R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Candidiasis",
+          "Candidiasis, Chronic Mucocutaneous",
+          "Candidiasis, Oral",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Chromoblastomycosis",
+          "Coccidioidomycosis",
+          "Cryptococcosis",
+          "Dermatomycoses",
+          "Drug Interactions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6325087/"
+      },
+      {
+        "pmid": "6255545",
+        "title": "Treatment of paracoccidioidomycosis, candidosis, chromomycosis, lobomycosis, and mycetoma with ketoconazole: a brief summary.",
+        "abstract": "",
+        "journal": "Reviews of infectious diseases",
+        "year": "1980",
+        "authors": [
+          "Cucé L C",
+          "Wroclawski E L",
+          "Sampaio S A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Candidiasis",
+          "Chromoblastomycosis",
+          "Humans",
+          "Imidazoles",
+          "Ketoconazole",
+          "Mycetoma",
+          "Mycoses",
+          "Paracoccidioidomycosis",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6255545/"
+      },
+      {
+        "pmid": "10223586",
+        "title": "Endemic mycoses: a treatment update.",
+        "abstract": "Endemic mycoses remain a major public health problem in several countries and they are becoming increasingly frequent with the spread of HIV infection. Amphotericin B remains the drug of choice during the acute stage of life-threatening endemic mycoses occurring in both immunocompetent and immunocompromised hosts. Ketoconazole is effective in non-AIDS patients with non-life-threatening histoplasmosis, blastomycosis, or paracoccidioidomycosis. Itraconazole is the treatment of choice for non-life-threatening Histoplasma capsulatum or Blastomyces dermatitidis infections occurring in immunocompetent individuals and is the most efficient secondary prophylaxis of histoplasmosis in AIDS patients. Itraconazole is also effective in lymphocutaneous and visceral sporotrichosis, in paracoccidioidomycosis, for Penicillum marneffei infection, and is an alternative to amphotericin B for Histoplasma duboisii infection. Coccidioidomycosis may be effectively treated with prolonged and sometimes life-lon",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1999",
+        "authors": [
+          "Lortholary O",
+          "Denning D W",
+          "Dupont B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Amphotericin B",
+          "Blastomycosis",
+          "Coccidioidomycosis",
+          "Histoplasmosis",
+          "Humans",
+          "Mycoses",
+          "Paracoccidioidomycosis",
+          "Sporotrichosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10223586/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:20:51.293707",
+  "success": true,
+  "error_message": null
+}

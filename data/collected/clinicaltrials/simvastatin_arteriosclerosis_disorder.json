@@ -1,0 +1,919 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Simvastatin",
+    "disease": "arteriosclerosis disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00965055",
+      "title": "Atorvastatin vs. Atorvastatin/Ezetimibe in Patients With Hypo-response to Initial Dose Statin Therapy",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-09",
+      "completion_date": "2012-09",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "Response to statin therapy for elevated low density lipoprotein is variable and may be influenced by cholesterol absorption. This study will evaluate whether combination therapy with atorvastatin/ezetimibe will be superior to atorvastatin alone in subjects who have less than 25% LDL reduction on starting dose statin (eg, atorvastatin 10 mg daily or simvastatin 20 mg daily).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients will need to have an LDL-C level of 130 mg/dl or greater without treatment.\n* They must have demonstrated an initial LDL-C reduction of less than 25% on 10 mg of atorvastatin or 20 mg of simvastatin.\n* Eligible patients will be those deemed by their physicians to be e",
+      "endpoints": [
+        "LDL-C Reduction"
+      ],
+      "sponsor": "University of California, San Diego",
+      "url": "https://clinicaltrials.gov/study/NCT00965055"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00120289",
+      "title": "AIM HIGH: Niacin Plus Statin to Prevent Vascular Events",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2005-09",
+      "completion_date": "2012-12",
+      "country": "United States, Canada",
+      "enrollment": 3414,
+      "brief_summary": "The purpose of this study is to determine whether raising \"good cholesterol\" with a drug based on the vitamin niacin, while lowering \"bad cholesterol\" with a statin drug, can prevent more heart disease than the statin alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women aged 45 and older with established vascular disease and atherogenic dyslipidemia\n* Established vascular disease defined as one or more of the following: (1) documented coronary artery disease (CAD); (2) documented cerebrovascular or carotid disease; (3) documente",
+      "endpoints": [
+        "Composite End Point of CHD Death, Nonfatal MI, Ischemic Stroke, Hospitalization for Non-ST Segment Elevation Acute Coronary Syndrome (ACS), or Symptom-driven Coronary or Cerebral Revascularization"
+      ],
+      "sponsor": "Axio Research. LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00120289"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00653835",
+      "title": "SCH 58235: A Multicenter, Randomised, Parallel Groups, Placebo-Controlled Study Comparing The Efficacy, Safety, and Tolerability Of The Daily Co-Administration of Ezetimibe 10 mg With Simvastatin 20 mg vs Ezetimibe Placebo With Simvastatin 20 mg in Untreated Subjects With Primary Hypercholesterolaemia And Coronary Heart Disease (Protocol P03435)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-09-01",
+      "completion_date": "2004-08-01",
+      "country": "N/A",
+      "enrollment": 153,
+      "brief_summary": "This study will assess whether co-administration of ezetimibe 10 mg with simvastatin 20 mg will be more effective than treatment with simvastatin 20 mg alone in reducing LDL-C concentrations when administered for 6 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\>=18 years and \\<= 75 years of age\n* LDL-C concentration \\>= 3.3 mmol/L (130 mg/dL) to \\<= 4.9 mmol/L (190 mg/dL) at baseline.\n* Triglyceride concentration \\<3.99 mmol/L (350 mg/dL) at baseline.\n* Documented coronary heart disease (CHD), which will include one or more of the ",
+      "endpoints": [
+        "Percent change in LDL-C from baseline to endpoint."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00653835"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02431013",
+      "title": "A Randomized, Open-label, Multiple-dose, Parallel Study to Investigate The Effect of Cilostazol on the Disposition of Simvastatin in Healthy Male Volunteers",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2015-04",
+      "completion_date": "",
+      "country": "South Korea",
+      "enrollment": 20,
+      "brief_summary": "This is a randomized, open-label, single \\& multiple-dose, parallel study to investigate the effect of cilostazol on the disposition of simvastatin \\& pravastatin in healthy male volunteers",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male subjects aged 20 - 45 years\n* With in 20% of ideal body weight, {Ideal body weight=\\[height(cm)-100\\]\\*0.9}\n* Agreement with written informed consent\n\nExclusion Criteria:\n\n* Clinically significant cardiovascular, pulmonary, hepatic, renal, hematologic, gastrointes",
+      "endpoints": [
+        "AUC (area under the time-concentration curve) of Simvastatin"
+      ],
+      "sponsor": "Ajou University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02431013"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00125593",
+      "title": "Study of Heart and Renal Protection (SHARP): The Effects of Lowering LDL-cholesterol With Simvastatin 20mg Plus Ezetimibe 10mg in Patients With Chronic Kidney Disease: a Randomized Placebo-controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2010-08",
+      "country": "United Kingdom",
+      "enrollment": 9438,
+      "brief_summary": "The chief aim of SHARP was to determine whether lowering blood LDL cholesterol with simvastatin (20mg) plus ezetimibe (10mg) daily could safely reduce the risk of coronary heart disease, non-hemorrhagic stroke and the need for revascularization procedures in patients with chronic kidney disease (CKD). It also aimed to assess whether lowering LDL cholesterol reduced the rate of loss of renal function in people with CKD who had not commenced dialysis treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of chronic kidney disease (CKD): either patients who are pre-dialysis (with a plasma or serum creatinine greater than or equal to 150 micromol/l \\[greater than or equal to 1.7 mg/dl\\] in men, or greater than or equal to 130 micromol/l \\[greater than or equal to 1.5 mg/",
+      "endpoints": [
+        "Key Outcome as Per Statistical Analysis Plan = Major Atherosclerotic Events Among All Patients Ever Randomized to Simvastatin Plus Ezetimibe Versus All Patients Allocated to Placebo"
+      ],
+      "sponsor": "University of Oxford",
+      "url": "https://clinicaltrials.gov/study/NCT00125593"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02341716",
+      "title": "Hospital- or Home-based Supervised Exercise Therapy or Unsupervised Walk Advice for Patients With Intermittent Claudication",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2014-09",
+      "completion_date": "2022-06",
+      "country": "Sweden",
+      "enrollment": 165,
+      "brief_summary": "The purpose of this randomized clinical trial is to determine and compare the clinical and cost effectiveness of three methods for exercise therapy as treatment for patients with intermittent claudication. The methods tested are a hospital-based (SET) and a home-based (HET) supervised exercise program and unsupervised walk advice (WA) and all patients are followed for 12 months. Unsupervised WA consists of advice of at least 30 minutes walking with Nordic Poles (NP) at least three times per week",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Intermittent claudication in one or both legs with a typical history and ankle-brachial-index (ABI) 0.90 or less and/or 30% or more post-exercise reduction of ABI.\n2. Symptom duration \\> 6 months.\n3. Intermittent claudication is the walk limiting condition.\n\nExclusion Criteri",
+      "endpoints": [
+        "Six-minutes-walk-test walking distance (6MWD)",
+        "Generic health-related quality of life (SF36)"
+      ],
+      "sponsor": "Sahlgrenska University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02341716"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00880178",
+      "title": "Plaque Inflammation and Dysfunctional HDL in AIM-HIGH",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-05",
+      "completion_date": "2011-09",
+      "country": "United States, Canada",
+      "enrollment": 324,
+      "brief_summary": "Coronary heart disease (CHD) is a serious health concern that affects millions of people in the United States. It is usually caused by atherosclerosis-a condition that occurs when fatty material and plaque build up on the walls of the arteries that supply blood and oxygen to the heart, causing the arteries to narrow. As the arteries narrow, blood flow to the heart can slow down or stop, which can cause chest pain, shortness of breath, heart attack, or heart failure. Another component of CHD even",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eligible for main AIM-HIGH study (NCT00120289)\n* Willing to provide informed consent for participation in this substudy",
+      "endpoints": [
+        "Change in HDL oxidation and proteomics"
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT00880178"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03355027",
+      "title": "INvestigating the Lowest Threshold of Vascular bENefits From LDL Cholesterol Lowering With a PCSK9 mAb InhibiTor (Alirocumab) in Patients With Stable Cardiovascular Disease (INTENSITY-HIGH)",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2017-11-30",
+      "completion_date": "2023-11-30",
+      "country": "United Kingdom",
+      "enrollment": 60,
+      "brief_summary": "The INTENSITY-HIGH study aims to answer if there are any limits to LDL reduction in relation to benefiting vascular health, exploring the mechanisms by which secondary prevention in patients with established heart disease may benefit from even lower LDL levels. By using PCSK9 inhibitors such as Alirocumab, very low LDL cholesterol levels not previously encountered in statin trials, can be achieved in patients with established heart disease on top of intensive statin treatment.\n\nThis research is ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with high risk CVD with LDL-Cholesterol ≤ 4.0mmol\\* OR patients with very high risk CVD with LDL-Cholesterol ≤3.5mmol/l\\*\\*\n* Male or female patients over 40 years of age inclusive at screening, with a body weight ≥ 45kg and BMI ≥ 18 - ≤ 40kg/m2\n* Palpable brachial ar",
+      "endpoints": [
+        "Vascular inflammation (Standard Uptake Value) - Carotid artery",
+        "Vascular inflammation (Tissue to Background Ratio TBR) - Carotid artery",
+        "Vascular inflammation (Standard Uptake Value) - Aortic artery"
+      ],
+      "sponsor": "Cambridge University Hospitals NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT03355027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01634906",
+      "title": "Erythrocyte-bound Apolipoprotein B After Withdrawal of Statin Therapy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2013-03",
+      "country": "Netherlands",
+      "enrollment": 55,
+      "brief_summary": "Background: preliminary data have shown that erythrocyte-bound apolipoprotein B (ery-apoB) may be protective against atherosclerosis. However, statins may have an effect on ery-apoB.\n\nObjective: to investigate the effect of statins on ery-apoB levels.\n\nStudy design: a non-randomized intervention study. Ery-apoB will be measured twice in volunteers who are on statin therapy for medical reasons. After a baseline measurement of ery-apoB volunteers will discontinue their statin use for a period of s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years or older\n* use of a statin\n\nExclusion Criteria:\n\n* use of other lipid lowering drugs, other than statins\n* a cardiovascular event in the past 6 months",
+      "endpoints": [
+        "Apolipoprotein B bound to erythrocytes"
+      ],
+      "sponsor": "Sint Franciscus Gasthuis",
+      "url": "https://clinicaltrials.gov/study/NCT01634906"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01567826",
+      "title": "Reduction in YEllow Plaque by Aggressive Lipid LOWering Therapy. (YELLOW Trial)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2012-02",
+      "country": "United States",
+      "enrollment": 87,
+      "brief_summary": "The study will assess the regression of yellow plaque content of the lipid pool after aggressive lipid therapy by utilizing NIR spectroscopy. Statin therapy using Rosuvastatin 10-40 mg will be compared to the statin therapy of either Atorvastatin or Simvastatin. This is a single site study. A total of 100 subjects will randomized, of which 40 will receive intensive lipid therapy (Rosuvastatin 40mg) and 40 will receive standard care lipid lowering therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient \\> 18 years of age and willing to participate\n* Stable patients who will undergo cardiac catheterization and PCI (intent to stent)\n* Patient is willing to go on a cholesterol lowering medication for the duration of the study and willing to change statin therapy to the ",
+      "endpoints": [
+        "Lipiscan - Lipid Core Burden Index (LCBI)",
+        "LCBI4mm Max",
+        "Change in LCBI4mm Max"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT01567826"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00651391",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study of the Effect of Ezetimibe Plus Simvastatin Compared With Simvastatin Alone on Flow-Mediated Brachial Artery Vasoactivity in Subjects With Primary Hypercholesterolemia (The EFFECTS Trial)",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2003-10-01",
+      "completion_date": "2004-09-01",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "The purpose of this study is to evaluate the effect of ezetimibe coadministered with simvastatin compared with simvastatin alone when administered for 12 weeks on endothelial function as assessed by brachial artery reactivity testing (BART) using high-frequency ultrasound to image the brachial artery vasomotor response to a flow-mediated stimulus (high-shear stress) in subjects with high cholesterol. The secondary objectives include evaluation of nitroglycerin-induced vasodilation. In addition, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults (18 years old and older) with primary hypercholesterolemia with a plasma LDL-C \\>=145 mg/dL and \\<=250 mg/dL, and plasma TG \\<=350 mg/dL after adequate drug washout.\n* Postmenopausal women who are receiving postmenopausal hormonal therapy or raloxifene must be maintaine",
+      "endpoints": [
+        "Change from baseline to endpoint in flow-mediated vasodilation: percent change in the mean diameter between 1-minute, post-cuff release diameter and image obtained prior to cuff application."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00651391"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01567774",
+      "title": "Pharmacodynamic Effects of Atorvastatin vs. Rosuvastatin on pLatelet Reactivity in Stable Patients With Coronary Artery Disease Treated With Dual Antiplatelet Therapy",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-04",
+      "completion_date": "2015-06",
+      "country": "Italy",
+      "enrollment": 100,
+      "brief_summary": "Patients with coronary artery disease (CAD) are often treated with dual antiplatelet therapy (DAT), including aspirin and clopidogrel, to prevent from recurrent atherothrombotic events.\n\nLevels of platelet reactivity in patients on DAT can be influenced by concomitant treatment with medications that inhibit the CYP3A4 system involved in the activation of clopidogrel.\n\nAtorvastatin and simvastatin are metabolized by CYP3A4 \\[Clin pharmacokinetic 2002; 41: 343-70\\], whereas the cytochrome P450 med",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Angiographically-proven coronary artery disease\n* Class I indication to DAT because of recent (\\<12 months) percutaneous coronary intervention and/or recent acute coronary syndrome (\\<12 months)\n* Stable clinical conditions\n* Able to understand and willing to sign the informed",
+      "endpoints": [
+        "Assessment of platelet reaction units"
+      ],
+      "sponsor": "University of Roma La Sapienza",
+      "url": "https://clinicaltrials.gov/study/NCT01567774"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00351286",
+      "title": "Multicenter, Randomized, Double-Blind, Placebo-Controlled Study of Oral L-Citrulline Compared to Placebo in Patients Taking Background Simvastatin 40 mg qD and With Peripheral Arterial Disease Including Intermittent Claudication",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2006-03",
+      "completion_date": "",
+      "country": "Russia",
+      "enrollment": 160,
+      "brief_summary": "To prove the combination of L-citrulline with simvastatin leads to greater improvement in the symptoms of peripheral arterial disease (PAD) than simvastatin alone by evaluating oral L- citrulline or placebo against simvastatin for improvement in treadmill walking distance in patients, 40-75 years of age, who have PAD with intermittent claudication.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, 40-75 years of age\n2. If female, post-menopausal for the past year, surgically sterile (i.e., tubal ligation, hysterectomy), or using an adequate method of birth control (i.e., oral contraceptives, double barrier method, IUD cover, sterilized partner, or other",
+      "endpoints": [
+        "Change in absolute claudication walking distance from baseline to end of 12-week double-blind treatment period."
+      ],
+      "sponsor": "Angiogenix",
+      "url": "https://clinicaltrials.gov/study/NCT00351286"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00080275",
+      "title": "An Open-Label Evaluation of the Safety and Efficacy of a Combination of Niacin ER and Simvastatin in Patients With Dyslipidemia (OCEANS)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-03",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 600,
+      "brief_summary": "The purpose of this 24 week study is to compare the effectiveness and safety of different doses of Niacin ER/Simvastatin (NS) in subjects with elevated fat levels in their blood (dyslipidemia).\n\nAt least 600 subjects with a similar medical condition will take part in this study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient has primary Type II hyperlipidemia or mixed dyslipidemia.\n* If the patient is currently taking a lipid modifying medication other than Zocor \\& he/she is willing to discontinue this medication\n* LDL-C levels and/or non HDL-C levels above normal.\n* Reasonable compliance",
+      "endpoints": [],
+      "sponsor": "Kos Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00080275"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06858332",
+      "title": "Lipoprotein(a) Levels in Patients With Atherosclerotic Cardiovascular Diseases in Russia",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-04-15",
+      "completion_date": "2027-09-30",
+      "country": "Russia",
+      "enrollment": 2382,
+      "brief_summary": "This study has the purpose to answer how the Lipoprotein(a) (Lp(a)) level is distributed among Atherosclerotic cardiovascular disease (ASCVD) patients in Russia, and what is the connection between elevated levels of this parameter and the cardiovascular disease (CVD) risk.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent (signed and dated).\n2. Males and females aged ≥18 years.\n3. Presence of one of the following ASCVDs for at least 3 months within the 2 years prior to signing the informed consent to participate in this study:\n\n   * history of MI;\n   * history of IS an",
+      "endpoints": [
+        "Percentage of patients (%) with Lp(a) ≥125 nmol/L",
+        "The difference in the number of patients with cardiovascular events (%) between the groups"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT06858332"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02001883",
+      "title": "Randomized Trial of the Association Between Low-Dose Statins and Nutraceuticals in High-intEnsity Statin-intoleRant patiENts With Very High Risk Coronary Artery diseasE",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2013-11",
+      "completion_date": "2015-12",
+      "country": "Italy",
+      "enrollment": 100,
+      "brief_summary": "The primary objective of this study is to compare the efficacy and tolerability of low-dose statin therapy vs. the association between a low-dose statin and a nutraceutical-based protocol in high-dose statin-intolerant patients with coronary artery disease deemed to be at high-risk.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Angiographically-proven coronary artery disease\n* Recent (\\<12 months) percutaneous coronary intervention\n* Class I indication to receive statin treatment to achieve the LDL cholesterol goal of \\<70 mg/dL\n* Able to understand and willing to sign the informed consent form\n\nExcl",
+      "endpoints": [
+        "Long-term adherence to study treatments"
+      ],
+      "sponsor": "University of Roma La Sapienza",
+      "url": "https://clinicaltrials.gov/study/NCT02001883"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01384058",
+      "title": "The Effect of Ezetimibe 10 mg, Simvastatin 20 mg and the Combination of Simvastatin 20 mg Plus 10 mg Ezetimibe on Low Density Lipoprotein (LDL)-Subfractions in Patients With Type 2 Diabetes",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2010-06",
+      "country": "Germany",
+      "enrollment": 41,
+      "brief_summary": "It is of interest how ezetimibe alone or in combination with statin may influence atherogenic dense Low Density Lipoprotein (dLDL) in patients with type 2 diabetes mellitus. The primary objective of this study will be whether there is a change of the concentrations of Apolipoprotein B (ApoB) in dLDL from baseline in each of the 3 treatment groups.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* men \\> 18 and ≤ 75 years\n* post-menopausal women ≤ 75 years (follicle stimulating hormone (FSH) \\>30 mIU/ml, women \\> 60 years FSH \\> 20 mIU/ml )\n* well controlled diabetes mellitus type II (glycohaemoglobin ≤ 8,0 %)\n* LDL-cholesterol ≤ 160 mg/dl\n* LDL-subfractions: concentrat",
+      "endpoints": [
+        "Change of the concentration of apolipoprotein B (ApoB) in dense Low Densitiy Lipoprotein (dLDL) from baseline with ezetimibe, simvastatin or the combination of both drugs"
+      ],
+      "sponsor": "University Hospital Freiburg",
+      "url": "https://clinicaltrials.gov/study/NCT01384058"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00651014",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Efficacy, Safety, and Tolerability of Ezetimibe 10 mg or Placebo Co-administered With Existing Simvastatin 10mg or 20mg in Attaining Low-Density Lipoprotein Cholesterol Target Levels in Patients With Hypercholesterolemia and Coronary Heart Disease and/or Type II Diabetes",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2004-01",
+      "completion_date": "2006-06",
+      "country": "N/A",
+      "enrollment": 82,
+      "brief_summary": "The study was designed to assess whether 6 weeks of co-administration of ezetimibe and simvastatin is more effective than simvastatin monotherapy in allowing patients in the CHD risk strata of the NCEP III guidelines to achieve their LDL-C target goal of \\<=3.0 mmol/L. As this study was to be conducted in Canada, the target LDL-C goal for patients with CHD, or type II diabetic patients \\>30 years old with no CHD, was \\<2.5 mmol/L.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\>=18 years of age and treated with simvastatin 10 mg or 20 mg for at least 6 weeks and LDL-C levels of \\> 2.5 mmol/L to \\<=4.20 mmol/L (97 mg/dL to 160 mg/dL) at Visit 1.\n* history of coronary heart disease (type II diabetic patients \\> 30 years old with no CHD)\n* triglycerid",
+      "endpoints": [
+        "Percentage of patients reaching LDL-C goal of < 2.5 mmol/L (97 mg/dL) at endpoint."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00651014"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00360217",
+      "title": "The Efficacy and Short-Term Safety of Docosahexaenoic Acid (DHA) and Statin Therapy for Subjects With Coronary Artery Disease or Cardiac Risk Equivalents With Moderate Hypertriglyceridemia (IIb)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2007-05",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "This study will explore the ability of an algae (ocean plant) omega-3 fat supplement (DHA) to reduce triglyceride levels in patients currently being treated with statin therapy (Zocor or simvastatin, Lipitor or atorvastatin, Pravachol or pravastatin, Crestor or rosuvastatin, etc.) for coronary artery disease(CAD)or risk equivalents (any of the following: heart attack, post angioplasty or stent, post coronary bypass surgery, angina, vascular disease, stroke or diabetes).\n\nThe rationale for the st",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* CAD or Risk Equivalent\n* On any statin therapy\n* At NCEP LDL goal (\\<100)\n* TG\\>200 mg%\n\nExclusion Criteria:\n\n* TG\\>500, TG levels that vary more than 25% during base-line\n* Poorly controlled DM\n* BMI\\>40\n* Use of fibrates, niacin, other fish oil product",
+      "endpoints": [
+        "Lowering of triglyceride level"
+      ],
+      "sponsor": "Maine Center for Lipids and Cardiovascular Health",
+      "url": "https://clinicaltrials.gov/study/NCT00360217"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00552097",
+      "title": "Effect of Combination Ezetimibe and High-Dose Simvastatin vs Simvastatin Alone on the Atherosclerotic Process in Subjects With Heterozygous Familial Hypercholesterolemia (The ENHANCE Trial)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-06-01",
+      "completion_date": "2006-04-25",
+      "country": "N/A",
+      "enrollment": 720,
+      "brief_summary": "The purpose of the study is to determine whether ezetimibe plus simvastatin will be more effective than simvastatin alone in preventing progression of atherosclerosis of the inner layer of the carotid artery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Genotype-confirmed heterozygous familial hypercholesterolemia with written documentation of the genetic diagnosis at the time of screening and LDL-C \\>=210 mg/dL (5.43 mmol/L), or clinical diagnosis of heterozygous familial hypercholesterolemia, defined as LDL-C \\>=210 mg/dL (",
+      "endpoints": [
+        "Change in ultrasound-determined average carotid artery intima-media thickness (IMT) on a per subject basis between baseline and endpoint."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00552097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00952770",
+      "title": "Effect of Statins on the Progression of the Intima-media Thickness of the Radial Artery After Radial Angioplasty",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2009-07",
+      "completion_date": "",
+      "country": "South Korea",
+      "enrollment": 140,
+      "brief_summary": "The first event of the atherosclerotic plaque formation is the accumulation of the low density lipoprotein-cholesterol (LDL-cholesterol) in to the intima of the arterial wall. After accumulation of the LDL-cholesterol, the oxidation of the LDL-cholesterol particles and recruitment of monocytes to the intima and media are the next steps. The thickening of intima-media thickness (IMT) is resulted from these initial events. The IMT can be easily measured by high-resolution ultrasonography in variou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients undergoing coronary intervention via the radial artery\n\nExclusion Criteria:\n\n* Contraindication to statins\n* Left ventricular ejection fraction less than 30%\n* Recent history of hematologic disease or leukocyte count \\<3000/mm3 and/or platelet \\<100 000/mm3\n* Hepatic ",
+      "endpoints": [
+        "Difference of IMT between two groups"
+      ],
+      "sponsor": "Chungnam National University",
+      "url": "https://clinicaltrials.gov/study/NCT00952770"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00471549",
+      "title": "Simvastatin Reduces Plasma Osteoprotegerin in Type 2 Diabetic Patients With Microalbuminuria",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "1991-06",
+      "completion_date": "1993-12",
+      "country": "N/A",
+      "enrollment": 18,
+      "brief_summary": "Diabetes is associated with dyslipidaemia leading to generalized atherosclerosis, cardiovascular disease (CVD) and nephropathy. Osteoprotegerin (OPG), a glycoprotein involved in bone homeostasis, has been implicated in the pathogenesis leading up vessel calcification. Furthermore, CVD in diabetics is associated with increased levels of OPG.\n\nAim: To investigate whether low dose simvastatin treatment (10-20 mg/day) reduces circulating levels of OPG as well as adhesion molecules (VCAM-1; vascular ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes\n* Persistent microalbuminuria\n* Fasting plasma cholesterol \\> 5.5 mmol/liter\n* Fasting plasma triglycerides \\< 4.5 mmol/liter\n* Fasting HbA1c \\< 10 %\n* Fasting serum C-peptide \\> 0.49 nmol/liter\n* Blood pressure \\< 155/95\n\nExclusion Criteria:\n\n* Signs of primar",
+      "endpoints": [
+        "Relative reduction in circulating osteoprotegerin levels"
+      ],
+      "sponsor": "University of Aarhus",
+      "url": "https://clinicaltrials.gov/study/NCT00471549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00461630",
+      "title": "A Randomized Trial of the Long-term Clinical Effects of Raising HDL Cholesterol With Extended Release Niacin/Laropiprant",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2012-10",
+      "country": "United Kingdom",
+      "enrollment": 25673,
+      "brief_summary": "The primary aim is to assess the effects of raising HDL cholesterol (the good type) with extended release niacin/laropiprant 2g (previously known as MK-0524A) versus matching placebo on the risk of heart attack or coronary death, stroke, or the need for arterial bypass procedures (revascularisation) in people with a history of circulatory problems. The secondary aim is to assess the effects of extended release niacin/laropiprant 2g daily on heart attack, coronary death, stroke, and revascularisa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of myocardial infarction; or\n* Cerebrovascular atherosclerotic disease (history of presumed ischaemic stroke, transient ischaemic attack or carotid revascularisation)\n* Peripheral arterial disease (i.e. intermittent claudication or history of revascularisation); or\n* D",
+      "endpoints": [
+        "Major Vascular Event"
+      ],
+      "sponsor": "University of Oxford",
+      "url": "https://clinicaltrials.gov/study/NCT00461630"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00307307",
+      "title": "Magnetic Resonance Characterization of Carotid Atherosclerotic Plaque in Vivo: Effect of High Density Lipoprotein Elevation on Plaque Morphology",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2000-01",
+      "completion_date": "2005-09",
+      "country": "N/A",
+      "enrollment": 69,
+      "brief_summary": "The primary objective of this randomized, double blind, placebo controlled pilot study is to determine if therapies aimed at lowering LDL cholesterol (HMGCoA reductase inhibitor - simvastatin) or increasing HDL cholesterol (Niaspan) will induce regression of carotid atherosclerotic plaque in vivo using MRI imaging techniques. MR plaque morphology at baseline will be compared to that after 6 and 12 months of therapy and changes in MR characteristics will be compared to changes in lipoprotein para",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 18 and \\< 90 years\n* Capacity for giving written informed consent\n* Carotid stenosis of \\> 30% by ultrasound criteria\n* LDL cholesterol level of \\> 100mg/dl\n* Systolic BP \\< 170 and diastolic BP \\< 100 under resting conditions\n* Negative pregnancy test if female of chil",
+      "endpoints": [
+        "Change in MRI estimates of carotid atherosclerosis"
+      ],
+      "sponsor": "University of Pennsylvania",
+      "url": "https://clinicaltrials.gov/study/NCT00307307"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00736463",
+      "title": "Effects of High Dose Simvastatin vs. Atorvastatin on Baseline Lipoprotein Profiles, Apo-A-1 and C Reactive Protein",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2005-01",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "Summary:\n\nBackground: There is a lot of interest in the function and role of HDL to prevent and mitigate atherosclerosis in patients who are at or near LDLc targets. Statins have variable effects on HDLc which are accentuated in patients with a low baseline HDLc. Higher doses of statins are being used more commonly in practice based on newer outcomes studies which find greater benefits of the higher doses compared to lower or standard doses. This study is testing FDA approved dosages of two comm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Screening visit HDL-c cholesterol \\< 40 mg/dL (men) or \\< 50 mg/dL (women)\n* Screening visit LDL-c or non-HDL-c (for patients with TG 200-500 mg/dL) in range requiring therapy based on National Cholesterol Education Program (NCEP) guidelines\n* Identi",
+      "endpoints": [
+        "HDL cholesterol"
+      ],
+      "sponsor": "Oregon Health and Science University",
+      "url": "https://clinicaltrials.gov/study/NCT00736463"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01105975",
+      "title": "A Phase 2 Efficacy and Safety Study of LY2484595 Alone and in Combination With Atorvastatin, Simvastatin, and Rosuvastatin in Patients With Hypercholesterolemia or Low HDL-C",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2011-06",
+      "country": "Denmark, Poland, Germany, United States, United Kingdom, Netherlands",
+      "enrollment": 398,
+      "brief_summary": "The primary purpose of your participation in this study is to help answer the following research question(s)\n\n* Whether LY2484595 in combination with a statin drug (atorvastatin, simvastatin or rosuvastatin; currently used to treat abnormal fat or cholesterol in blood) improves the blood fat profile more than statins alone.\n* Whether LY2484595 alone improves blood fats profile compared to sugar pills.\n* Whether LY2484595 interferes with break down or functioning of statins.\n* Whether LY2484595 h",
+      "eligibility_criteria": "Inclusion Criteria:\n\n• Diagnosed with Low High Density Lipoprotein Cholesterol (HDL-C) or hypercholesterolemia, after diet lead-in/washout of lipid therapies\n\nExclusion Criteria:\n\n* History of coronary heart disease, or hardening of the arteries, or heart does not pump sufficiently well\n* Hypertensi",
+      "endpoints": [
+        "Percent Change From Baseline to 12 Weeks Endpoint in High Density Lipoprotein Cholesterol (HDL-C) With LY2484595 in Combination With Atorvastatin and Atorvastatin Monotherapy",
+        "Percent Change From Baseline to 12 Weeks Endpoint in Low Density Lipoprotein Cholesterol (LDL-C) With LY2484595 in Combination With Atorvastatin and Atorvastatin Monotherapy"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01105975"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00525824",
+      "title": "A 12-week Open-label, Randomised, Parallel-group, Multicentre, Phase IIIb Study to Compare the Efficacy and Safety of Rosuvastatin (CRESTOR™) in Combination With Ezetimibe and Simvastatin in Patients With Hypercholesterolaemia and CHD",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-08",
+      "completion_date": "2008-09",
+      "country": "Colombia, Lithuania, Chile, Venezuela, United States, Argentina, Netherlands, Peru, Brazil",
+      "enrollment": 1743,
+      "brief_summary": "The purpose of this study is to determine whether treatment of Rosuvastatin (CRESTOR™) or Simvastatin given as monotherapy or given in combination with Ezetimibe, will lower the Low Density Lipoprotein Cholesterol (LDL-C) in patients with Hypercholesterolaemia and Coronary Heart Disease (CHD) or a CHD Risk Equivalent, Atherosclerosis or a 10-year CHD Risk of \\>20%",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with with hypercholesterolaemia and CHD or a CHD risk equivalent, clinical evidence of atherosclerosis or a Framingham 10-year CHD risk score of \\>20\n* Patients will need to sign an informed consent before any visit procedures can be performed, including procedures fo",
+      "endpoints": [
+        "Percent Change From Baseline in Low-density Lipoprotein Cholesterol (LDL-C) After 6 Weeks Combination Treatment"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00525824"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02548936",
+      "title": "Efficacy and Safety of Simvastatin-ezetimibe Combination Therapy in Reduction of Progression of Atherosclerosis Among Patients With Systemic Lupus Erythematosus: A Randomized Single-Blind Trial",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2015-04",
+      "completion_date": "2016-12",
+      "country": "China",
+      "enrollment": 30,
+      "brief_summary": "This is a randomized single-blind trial. This study aimed to determine if intensive lipid-lowering therapy (simvastatin-ezetimibe combination therapy) could reduce the progression of atherosclerosis effectively and safely among SLE patients with carotid artery intima thickening. The study results were expected to be helpful for SLE patients in preventing atherosclerosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age ≥18 years and clinical diagnosis of SLE\n2. abnormal CIMT (≥0.9 mm at any site) by B-mode ultrasound\n3. LDL-C≥100mg/dl\n4. a signed written informed consent was able to be obtained.\n\nExclusion Criteria:\n\n1. atherosclerotic cardiovascular disease\n2. diabetes\n3. history of in",
+      "endpoints": [
+        "The change of carotid intima media thickness over 12 months"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02548936"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00560170",
+      "title": "Rho-kinase in Patients With Atherosclerosis: Effects of Statins A Randomized Clinical Trial Comparing Ezetimibe/Simvastatin and Simvastatin",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2008-02",
+      "country": "Taiwan",
+      "enrollment": 40,
+      "brief_summary": "Multiple clinical trials, using 3-hydroxy-3-methylglutaryl coenzyme A (HMG CoA) reductase inhibitors (statins), have shown benefit in the primary and secondary prevention of atherosclerotic complications. However, till now, there is an incomplete understanding of all the mechanisms of the biologic effects of statins beyond LDL cholesterol (LDL-C) reduction, but there is accumulating evidence that the Rho-GTP/Rho-Kinase pathway (Rho/Rho-K) plays an important role and may be a strategic therapeuti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inclusion Criteria:\n\n  1. Male or female subjects aged 40 to 80 years\n  2. Documented stable atherosclerosis by angiography or vascular ultrasound (more that 20% luminal narrowing), peripheral arterial disease or type 2 diabetes mellitus (coronary heart disease (CHD) risk equi",
+      "endpoints": [
+        "changes in the lipid profile change and Rho-kinase expression and activity"
+      ],
+      "sponsor": "National Cheng-Kung University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00560170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01715714",
+      "title": "Statin Recapture Therapy Before Coronary Artery Bypass Grafting",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-11-07",
+      "completion_date": "2020-09-27",
+      "country": "Germany",
+      "enrollment": 2630,
+      "brief_summary": "Patients with coronary artery disease requiring coronary artery bypass grafting (CABG) are at risk for postoperative complications after surgery. The StaRT-CABG trial is the first large-scale (2,630 patients) that will investigate whether an additional treatment with statins (lipid-lowering medication) in high doses before CABG surgery can reduce the incidence of major post-surgery complications including death, myocardial infarction and stroke. The StaRT-CABG trial will be recruiting patients f",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients on chronic statin treatment (\\>30 days) scheduled for isolated CABG, including on- or off-pump or repeat (redo's) revascularisation procedures\n2. Stable or unstable angina, including non ST-segment-elevation acute coronary syndrome (NSTE-ACS)\n3. Age ≥ 18 years\n4. Wri",
+      "endpoints": [
+        "Major adverse cardiocerebral events (MACCE) within 30 days after CABG."
+      ],
+      "sponsor": "University of Cologne",
+      "url": "https://clinicaltrials.gov/study/NCT01715714"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00208117",
+      "title": "A Randomized Controlled Trial of Inflammatory Markers, Depressive Symptoms, and Heart Disease",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2005-04",
+      "completion_date": "2009-01",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "The purpose of this study is to examine the relationship between depressive symptoms and markers of inflammation, two predictors of heart disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18 - 60\n2. Mild depression\n3. Inflammatory markers: CRP \\> 2\n\nExclusion Criteria:\n\n1. Non-English or Non-Spanish speakers\n2. Active suicidal or homicidal ideation\n3. Current alcohol or other substance abuse\n4. Psychotic features\n5. Current personality disorder\n6. History ",
+      "endpoints": [
+        "Score on Beck Depression Inventory and C-Reactive Protein Level at weeks 4, 8, and 12"
+      ],
+      "sponsor": "New York State Psychiatric Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00208117"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00474123",
+      "title": "Comparison of Antiplatelet and Anti-inflammatory Effects of High Dose Statin Monotherapy Versus Moderate Dose Statin Plus Ezetimibe",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2009-08",
+      "country": "Brazil",
+      "enrollment": 78,
+      "brief_summary": "Among patients with stable coronary artery disease (CAD), it is not clear if the pleiotropic effects of cholesterol reduction differ between high-dose simvastatin alone and combined ezetimibe/simvastatin.\n\nThe investigators sought to compare the anti-inflammatory and anti-platelet effects of ezetimibe 10 mg / simvastatin 20 mg (E10/S20) to simvastatin 80 mg (S80).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Stable angina\n* Low-density lipoprotein (LDL) cholesterol 70-160 mg/dl\n\nExclusion Criteria:\n\n* Renal failure\n* Age\\>80\n* Simvastatin current treatment\\>20mg\n* Hepatic disease\n* Inflammatory diseases",
+      "endpoints": [
+        "C-reactive Protein",
+        "Oxidized Low-Density Lipoprotein Cholesterol",
+        "Platelet Function Analyzer [PFA]-100"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT00474123"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00114504",
+      "title": "Detection of Atherosclerotic Plaque Inflammation and Visualization of Anti-inflammatory Effects of Statins on Plaque Inflammation by FDG-PET",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2009-04",
+      "country": "Japan",
+      "enrollment": 43,
+      "brief_summary": "The purpose of this study is to determine whether FDG-PET is capable of detecting atherosclerotic plaque inflammation and monitoring the effects of statins on plaque inflammation. The usefulness of FDG-PET in risk stratification is also investigated.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Protocol 1: patients who had carotid atherosclerosis detected by carotid ultrasound.\n* Protocol 2: patients who underwent FDG-PET for cancer screening and had vascular FDG uptakes\n\nExclusion Criteria:\n\n* Active inflammatory diseases\n* Dyslipidemia under medications\n* Uncontrol",
+      "endpoints": [
+        "Plaque Inflammation"
+      ],
+      "sponsor": "Kurume University",
+      "url": "https://clinicaltrials.gov/study/NCT00114504"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000620",
+      "title": "Action to Control Cardiovascular Risk in Diabetes (ACCORD)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1999-09",
+      "completion_date": "2012-12",
+      "country": "United States, Canada",
+      "enrollment": 10251,
+      "brief_summary": "The purpose of this study is to prevent major cardiovascular events (heart attack, stroke, or cardiovascular death) in adults with type 2 diabetes mellitus using intensive glycemic control, intensive blood pressure control, and multiple lipid management.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with type 2 diabetes mellitus, as determined by the new American Diabetes Association guidelines, which include a fasting plasma glucose level greater than 126 mg/dl (7.0 mmol/l), or a 2-hour postload value in the oral glucose tolerance test of greater than 200 mg/dl",
+      "endpoints": [
+        "First Occurrence of a Major Cardiovascular Event (MCE); Specifically Nonfatal Heart Attack, Nonfatal Stroke, or Cardiovascular Death (Measured Throughout the Study) in the Glycemia Trial.",
+        "First Occurrence of Major Cardiovascular Event (MCE) in the Blood Pressure Trial.",
+        "First Occurrence of Major Cardiovascular Event (MCE) in the Lipid Trial."
+      ],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "url": "https://clinicaltrials.gov/study/NCT00000620"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00651274",
+      "title": "A Multicenter, Randomized, Parallel Groups, Placebo-Controlled Study Comparing The Efficacy, Safety, And Tolerability Of The Daily Co-administration Of Ezetimibe 10 Mg Or Ezetimibe Placebo To Ongoing Treatment With Simvastatin 20 Mg In Subjects With Primary Hypercholesterolemia And Coronary Heart Disease",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-04-01",
+      "completion_date": "2004-08-01",
+      "country": "N/A",
+      "enrollment": 144,
+      "brief_summary": "This study will assess whether the daily co-administration of ezetimibe 10 mg with ongoing treatment of simvastatin 20 mg will be more effective than treatment with simvastatin 20 mg alone in further reducing LDL-C concentrations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must demonstrate their willingness to participate in the study and comply with its procedures by signing a written informed consent.\n* Subjects must be \\>= 18 years and \\<= 75 years of age.\n* Subjects must have an LDL-C concentration \\>= 2.6 mmol/L (100 mg/dL) to \\<= ",
+      "endpoints": [
+        "Percent change from baseline in LDL-cholesterol with ezetimibe added to simvastatin versus continued simvastatin alone."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00651274"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01178320",
+      "title": "Carotid Plaque Characteristics by MRI in AIM-HIGH",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2015-02",
+      "country": "United States, Canada",
+      "enrollment": 230,
+      "brief_summary": "Heart attacks and strokes caused by the unstable atherosclerotic plaques remain the leading cause of death in the United States. Unstable plaques often have more fat than stable plaques. This study will investigate if a treatment with LDL-lowering plus HDL-raising compared with LDL-lowering alone would more effectively reduce the plaque fat content assessed by magnetic resonance imaging (MRI), therefore, further reducing heart attacks and strokes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eligible for main AIM-HIGH study (NCT00120289)\n* Medically able to undergo MRI procedure\n* Willing to provide informed consent for participation in this substudy\n\nExclusion Criteria:\n\n* Uses pacemaker or has metallic implants\n* History of bilateral carotid endarterectomy\n* Glo",
+      "endpoints": [
+        "Mean plaque lipid composition in carotid arteries assessed by MR"
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT01178320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01086163",
+      "title": "Effects of Prescription OMega-3 Fatty Acids (Omacor®, Lovaza®) on Platelet Activity in Patients With Coronary Artery Disease With Hypertriglyceridemia (OMPA-CAD)",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2010-10",
+      "completion_date": "2011-04",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Omacor®/Lovaza® is an effective, and very safe mix of PO-3A, and the drug is currently approved by the Federal authorities for the drug management of post-infarction patients with high blood triglycerides. Given the growing length of CAD progression, it is pertinent that many more patients will yield extra benefit from Lovaza® on top of aggressive antiplatelet regimens and statin due to severity of their vascular disease. Therefore, mild antiplatelet properties of PO-3A will be a highly desirabl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Stable documented coronary artery disease proven by angiography treated with statin and aspirin. In order to achieve homogeneity within this population, the following additional inclusion criteria will apply:\n* survived first-time AMI more than 12 mths ago\n* stable medical tre",
+      "endpoints": [
+        "Change in platelet aggregation after Lovaza® (1 or 2g/daily) in patients treated with aspirin + simvastatin versus those matched patients treated with placebo+aspirin +simvastatin in combination."
+      ],
+      "sponsor": "HeartDrug Research LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01086163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00712049",
+      "title": "Effects of Nicotinic Acid Plus Simvastatin Versus Simvastatin Alone on Carotid and Femoral Intima-Media Thickness in Patients With Peripheral Artery Disease (NASCIT)-A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-06",
+      "completion_date": "",
+      "country": "Austria",
+      "enrollment": 200,
+      "brief_summary": "Dyslipidaemia is characterized by low plasma levels of high-density lipoprotein cholesterol (HDL-c), elevated triglycerides and an increase in low density lipoprotein (LDL-c) particles, and has been unequivocally established as a most important cardiovascular risk factor. While statins are effective in reducing plasma levels of LDL-c, these drugs have only modest effects on raising HDL-c (typically by less than 10%), even with aggressive statin therapy. However, increasing evidence suggests that",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PAD defined as an ABI ≤0.9 or \\>1.3 in patients with low serum HDL cholesterol levels (\\<45mg/dL in men, \\<55 mg/dL in women)\n\nExclusion Criteria:\n\n* Elevated liver enzymes (above 2 times the normal level)\n* Skeletal muscle myopathy or elevated serum CK levels\n* Allergy or hyp",
+      "endpoints": [
+        "change of carotid and femoral IMT from baseline to 6 and 12 months follow up and occurrence of major adverse cardiovascular events (MACE)"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT00712049"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01492361",
+      "title": "Evaluation of the Effect of AMR101 on Cardiovascular Health and Mortality in Hypertriglyceridemic Patients With Cardiovascular Disease or at High Risk for Cardiovascular Disease: REDUCE-IT (Reduction of Cardiovascular Events With EPA - Intervention Trial)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2018-05",
+      "country": "Poland, India, New Zealand, Australia, Romania, Russia, Canada, South Africa, United States, Ukraine, Netherlands",
+      "enrollment": 8179,
+      "brief_summary": "AMR101 (icosapent ethyl \\[ethyl-EPA\\]) is a highly purified ethyl ester of eicosapentaenoic acid (EPA) developed by Amarin Pharma Inc. for the treatment of cardiovascular disease in statin-treated patients with hypertriglyceridemia. The purpose of this study was to evaluate whether this drug, combined with a statin therapy, will be superior to the statin therapy alone, when used as a prevention in reducing long-term cardiovascular events in high-risk patients with mixed dyslipidemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and non-pregnant or sterile women ages 45 and older\n* Hypertriglyceridemia\n* On statin therapy for at least four weeks\n* Either having established cardiovascular disease or at high risk for cardiovascular disease\n\nExclusion Criteria:\n\n* Severe heart failure\n* Any life-thre",
+      "endpoints": [
+        "Composite of CV Death, Nonfatal MI (Including Silent MI), Nonfatal Stroke, Coronary Revascularization, or Unstable Angina Determined to be Caused by Myocardial Ischemia by Invasive / Non-invasive Testing and Requiring Emergent Hospitalization."
+      ],
+      "sponsor": "Amarin Pharma Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01492361"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00379418",
+      "title": "Anti Ischemic Effects of Abciximab in Angioplasty and Stenting Patients (AIR)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2009-12",
+      "country": "United States",
+      "enrollment": 220,
+      "brief_summary": "AIR STUDY\n\nTITLE: Anti-Ischemic effects of Abciximab(Reopro)\n\nPATIENT POPULATION: Patients undergoing PCI(an interventional procedure placing a small stent/metallic tube to keep a narrowed artery in your heart open) and either on a stable statin dose or not on a statin. Statin= cholesterol lowering drug(ie, lipitor, zocor).\n\nINTERVENTION: Heparin vs. heparin + abciximab during PCI\n\nPURPOSE: Measure the effects of abciximab on special healing blood stem cells (EPC's-Endothelial Progenitor Cells),",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Have either:\n\n   * clinical history of anginal symptoms or positive stress test or\n   * in stent restenosis\n2. Have an angiographic \\>70% coronary artery stenosis that will be treated with coronary angioplasty or stenting procedure\n3. For at least four weeks prior to the proc",
+      "endpoints": [],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT00379418"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00743197",
+      "title": "Women With Chest Pain and Normal Coronary Arteries Study: A Randomized Study of Medical Treatment and Therapeutic Lifestyle Changes",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2008-05",
+      "completion_date": "2010-05",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "The purpose of this study is to compare the effectiveness of standard medical therapy versus usual care in women with chest pain, coronary endothelial dysfunction and unblocked coronary arteries.\n\nCoronary endothelial dysfunction (CED) is a condition in which the layers of cells around the heart do not function properly and is believed to be key factor in the development of atherosclerosis (fat deposits in arteries). In addition, CED is associated with an increased risk for future cardiovascular",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Female gender\n2. Age 30 or greater\n3. Present with symptoms suggestive of Angina (Typical or \"Atypical\")\n4. Abnormal myocardial perfusion scan\n5. Referred for angiography\n6. Normal (0% stenosis) versus Nonobstructive coronary artery disease (CAD) (\\<50% stenosis)\n7. Evidence ",
+      "endpoints": [
+        "Effectiveness of Therapy Compared to Usual Care, in Those Women With Chest Pain (CP), Reversible Ischemia by Stress Testing and Nonobstructive Coronary Artery Disease (CAD) by Angiography Who Are Found to Have Coronary Endothelial Dysfunction (CED)."
+      ],
+      "sponsor": "Northwestern University",
+      "url": "https://clinicaltrials.gov/study/NCT00743197"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00588471",
+      "title": "The Effect of Acute Statin Treatment on Inflammation and Peripheral Arterial Tone in Patients Undergoing Percutaneous Coronary Intervention.",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2002-11",
+      "completion_date": "2011-04",
+      "country": "United States",
+      "enrollment": 57,
+      "brief_summary": "The goal of this study is to determine if one dose of simvastatin will decrease the inflammatory response to coronary intervention. Also to determine if one dose of simvastatin affects endothelial function (activity of the artery) as measured by noninvasive peripheral artery tonography.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients undergoing PCI/angiography\n* No previously known side effects of statins\n* Patients who sign an informed consent\n* Age \\> 18 years old\n\nExclusion Criteria:\n\n* Patients with ST elevation myocardial infarction\n* Patients with cardiogenic shock\n* Patients with hypersensi",
+      "endpoints": [
+        "Change in Serum High Sensitivity C-Reactive Protein (hsCRP)"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT00588471"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01070966",
+      "title": "Re-examination Study for General Drug Use to Assess the Safety and Efficacy Profile of VYTORIN in Usual Practice",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2010-04",
+      "country": "N/A",
+      "enrollment": 2089,
+      "brief_summary": "This survey is conducted for preparing application material for re-examination under the Pharmaceutical Affairs Laws and its Enforcement Regulation, its aim is to reconfirm the clinical usefulness of VYTORIN through collecting the safety and efficacy information according to the Re-examination Regulation for New Drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants Who Receives Vytorin In Usual Medical Practice Within Local Label For The First Time",
+      "endpoints": [
+        "Percentage of Participants With Any Clinical and/or Laboratory Adverse Experiences While Taking VYTORIN® Within 14 Days After Treatment Discontinuation",
+        "Mean Percent Change From Baseline to Treatment in Lipid Parameters"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT01070966"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01106495",
+      "title": "Study of the Effect of EECP on Subclinical Atherosclerosis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2020-01",
+      "country": "China",
+      "enrollment": 150,
+      "brief_summary": "Shear stress maybe the most crucial local factor affecting atherogenesis. The present study investigated the effect of exposure to increased shear stress promoted by Enhanced External Counterpulsation (EECP) on the progression of subclinical atherosclerosis and the underlying inflammation- related molecular mechanisms",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 20- 70 years old subjects whose LDL higher than 160mg/dl and carotid intima-media thickness higher than 75 percent of his age.\n\nExclusion Criteria:\n\n* Presence of history of coronary heart disease, stroke or atherosclerotic peripheral disease. Presence of impaired renal functi",
+      "endpoints": [
+        "Change in Intima-media thickness of the carotid artery"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT01106495"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01017835",
+      "title": "Simvastatin in the Treatment of Isolated Arterial hyPertension and Prevention of cARdiovascular Events",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2009-11",
+      "completion_date": "2012-01",
+      "country": "Poland",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this study is to determine whether combined therapy with simvastatin and hypotensive drugs (ACEI or ARB) may decrease the blood pressure. Moreover, we would like to assess the influence of isolated hypertension on endothelial injury, and on the development of atherosclerosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* isolated hypertension (I or II class according to ESH guidelines 2009)\n\nExclusion Criteria:\n\n* ischemic heart disease, prior percutaneous coronary intervention (PCI), prior coronary artery bypass grafting (CABG), heart failure, diabetes, hyperlipidemia, active smokers",
+      "endpoints": [],
+      "sponsor": "Medical University of Lodz",
+      "url": "https://clinicaltrials.gov/study/NCT01017835"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01506505",
+      "title": "A Randomised Controlled Cross-over Trial to Evaluate Evening Versus Morning Administration of a Cardiovascular Polypill",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2013-07",
+      "country": "Netherlands",
+      "enrollment": 78,
+      "brief_summary": "Background and rationale:\n\nIn clinical practice, antihypertensives are generally prescribed for use in the morning, whereas some statins are recommended for use in the evening. There is evidence that the reduction in LDL cholesterol achieved with some statins is superior when taken in the night, but it is unclear whether the additional reduction in LDL cholesterol(and the reported improvement in BP control when aspirin is taken in the evening) is offset by a reduction in adherence when taking me",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The participant is able to give informed consent.\n* The trial Investigator considers that each of the polypill components are indicated at the doses in the Red Heart Pill\n* Established atherothrombotic cardiovascular disease (CVD) or intermediate to high cardiovascular risk, d",
+      "endpoints": [
+        "LDL cholesterol (polypill evening vs polypill morning)",
+        "Mean 24 hour ambulatory systolic BP (polypill evening vs morning)"
+      ],
+      "sponsor": "UMC Utrecht",
+      "url": "https://clinicaltrials.gov/study/NCT01506505"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00720577",
+      "title": "Two-Part,Multicenter,Randomized,Double-Blind,Placebo-Controlled,Study to Evaluate the Effect of Simvastatin,Losartan,and Pioglitazone on Cardiovascular Disease Biomarkers in Lower Extremity Atherosclerotic Plaque Excised From Patients w/PAD",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2007-08",
+      "country": "N/A",
+      "enrollment": 164,
+      "brief_summary": "Part A. The purpose of this study is to assess the effects of 6 weeks of treatment with, simvastatin, losartan or pioglitazone compared to placebo on the RNA expression profile of lower extremity peripheral arterial atherosclerotic plaque. Part B. The effect of simvastatin, losartan or pioglitazone compared to placebo on protein and lipid biomarkers in lower extremity peripheral arterial atherosclerotic plaque.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women =90 years of age.\n* Bilateral lower extremity PAD requiring revascularization. Both extremities must have at least 1denovo atherosclerotic lesion\n* Able to space bilateral atherectomy procedures by at least 6 weeks.\n* Willing to provide informed consent to partic",
+      "endpoints": [
+        "Evaluate RNA expression profiles, protein and lipid biomarkers, and gene expression profiling on pts receiving simvastatin, losartan or pioglitazone."
+      ],
+      "sponsor": "Medtronic Endovascular",
+      "url": "https://clinicaltrials.gov/study/NCT00720577"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00497094",
+      "title": "Stenting vs. Best Medical Treatment of Asymptomatic High Grade Carotid Artery Stenosis - a Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-03",
+      "completion_date": "2011-10",
+      "country": "Austria",
+      "enrollment": 148,
+      "brief_summary": "Background. Carotid artery stenting (CAS) recently has become an accepted method for treatment of patients with high-grade carotid artery stenosis, who are at an increased risk for surgical carotid endarterectomy (CEA). The reported rates of neurological complications of CAS substantially decreased during the past years, and the routine use of cerebral protection devices and low profile catheter systems have further increased the procedure´s safety. In the early 90's large surgical trials in Nor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Atherosclerosis is the underlying disease\n* Patients with an asymptomatic stenosis \\>80% (NASCET) with a documented progression of the degree of stenosis to \\>80% within 6 months with a very tight stenosis ≥90% at initial presentation with a \\>80% stenosis plus silent ipsilate",
+      "endpoints": [
+        "Primary study endpoints: neurological events (ipsilateral and contralateral), major adverse cardiovascular events (MACE: composite of myocardial infarction, stroke and cardiovascular death) and any death"
+      ],
+      "sponsor": "Vienna General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00497094"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03771053",
+      "title": "Intravascular Ultrasound Evaluation of the Intervention Effect of Simvastatin Combined With Ezetimibe on Coronary Borderline Lesion in Patients With Stable Angina Pectoris and Diabetes Mellitus Compared With Simvastatin Alone",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-01-01",
+      "completion_date": "2019-12-31",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "In this study, simvastatin combined with Ezeimebum was used to enhance lipid reduction, and IVUS was used to evaluate the volume and composition of coronary plaque before and after treatment. The aim is to evaluate the overall intervention effect of Ezeimebum on stable angina pectoris with diabetes mellitus on the basis of statins.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients aged 18-75 years\n* consistent with the Chinese criteria for the diagnosis of chronic stable angina pectoris, stable angina pectoris symptoms in the last three months, and no more than CCS grade 3 of angina pectoris\n* coronary angiography showed that the degree of coro",
+      "endpoints": [
+        "Change from Baseline coronary plaque volume percentage(PAV) at 12 months"
+      ],
+      "sponsor": "Chinese PLA General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03771053"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01648829",
+      "title": "Pharmacodynamic Comparison of Pitavastatin Versus Atorvastatin on Platelet Reactivity in Patients With Coronary Artery Disease Treated With Dual Antiplatelet Therapy - The PORTO Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2014-01",
+      "completion_date": "2017-12",
+      "country": "Italy",
+      "enrollment": 100,
+      "brief_summary": "Levels of platelet reactivity in patients on Dual Antiplatelet Therapy (DAPT) can be influenced by concomitant treatment with medications (i.e. statins) that inhibit the CYP3A4 system involved in the activation of clopidogrel. Atorvastatin and simvastatin are metabolized by CYP3A4. Pitavastatin, unlike other statins, is little metabolized, most of the dose being excreted unchanged in bile, and biotransformation through the cytochrome P450 system is minimal. Indeed, pitavastatin's cyclopropyl gro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Angiographically-proven coronary artery disease\n* Class I indication to DAT because of recent (\\< 12 months) percutaneous coronary intervention and/or recent acute coronary syndrome (\\< 12 months)\n* Stable clinical conditions\n* Able to understand and willing to sign the inform",
+      "endpoints": [
+        "Assessment of platelet reaction units"
+      ],
+      "sponsor": "University of Roma La Sapienza",
+      "url": "https://clinicaltrials.gov/study/NCT01648829"
+    }
+  ],
+  "timestamp": "2026-03-04T13:33:35.074692",
+  "success": true,
+  "error_message": null
+}

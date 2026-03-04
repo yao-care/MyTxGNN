@@ -1,0 +1,917 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ibuprofen",
+    "disease": "patent ductus arteriosus"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03265782",
+      "title": "Comparison Between the Effect of Oral Paracetamol Versus Oral Ibuprofen in the Treatment of Patent Ductus Arteriosus in Preterm and Low Birth Weight Infants",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-06",
+      "completion_date": "2018-01",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "Comparison between the safety and efficacy of oral paracetamol and oral ibuprofen in treatment of Patent Ductus Arteriosus (PDA) in premature infants",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Gestational age ≤ 35 weeks\n2. Aged 2-7 days with color Doppler echocardiographic evidence of PDA\n3. Urine output more than 1 ml/kg/hr\n4. Creatinine concentration level less than 1.8 mg/dl\n\nExclusion Criteria:\n\nNeonates who have one or more of the following criteria were exclu",
+      "endpoints": [
+        "closure of PDA"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT03265782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04037514",
+      "title": "Paracetamol Versus Ibuprofen in Premature Infants With Hemodynamically Significant Patent Ductus Arteriosus: a Randomized Clinical Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-07-07",
+      "completion_date": "2024-12-18",
+      "country": "Spain",
+      "enrollment": 133,
+      "brief_summary": "Multicentric, double-blind clinical trial, which will evaluate the efficacy of iv paracetamol versus standard treatment with ibuprofen in the closure of patent ductus arteriosus in the preterm newborn. Secondarily, we intend to compare the safety of both treatments, increase our knowledge about the pharmacokinetics, pharmacodynamics and pharmacogenetics of paracetamol and ibuprofen in the neonatal period and make a pharmacoeconomic assessment of the use of both drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written Informed consent of parents/guardians\n* Gestacional Age ≤30 weeks\n* Postnatal age ≤ 2 weeks\n* Need for ventilatory support\n* Born in participating hospital/arrival to them within the period of application of the treatment\n* 1 st episode of hemodynamically significant P",
+      "endpoints": [
+        "Rate of closure of the hsPDA after treatment with paracetamol (experimental drug) versus ibuprofen (control drug)."
+      ],
+      "sponsor": "Instituto de Investigacion Sanitaria La Fe",
+      "url": "https://clinicaltrials.gov/study/NCT04037514"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03641209",
+      "title": "Extremely Low Gestational Age Infants' Paracetamol Study: a Randomized Trial",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-09-03",
+      "completion_date": "2024-03-01",
+      "country": "Finland",
+      "enrollment": 40,
+      "brief_summary": "In the present trial, early, intravenous paracetamol is compared to placebo in extremely premature or low birth weight infants in order to evaluate the effect on ductal closure.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premature infants born before 28+0 gestation weeks and/or birth weight less than 1000g\n\nExclusion Criteria:\n\n* Severe malformation or suspected chromosomal defect or other very severe life-threatening disease (e.g. very severe birth asphyxia or persistent pulmonary hypertensio",
+      "endpoints": [
+        "Ductal closure"
+      ],
+      "sponsor": "University of Oulu",
+      "url": "https://clinicaltrials.gov/study/NCT03641209"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01070745",
+      "title": "Ibuprofen vs. Indomethacin as Second Course of Therapy for Resistant PDA in Low Birth Weight Neonates",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2010-06",
+      "completion_date": "",
+      "country": "Israel",
+      "enrollment": 0,
+      "brief_summary": "Patency of the ductus arteriosus (PDA) is functionally essential for fetal circulation, however persistence of ductal patency postnatally may have significant adverse hemodynamic effects in the neonate. Medical therapy for PDA predominantly involves the administration of one of two non-steroidal anti-inflammatory drugs: indomethacin or ibuprofen. Both of these therapies have been shown to be successful in mediating ductal closure in approximately 70% of treated infants.\n\nHowever, the need for a ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inborn premature neonates (birth weight \\[BW\\] \\<1500 grams) being treated in the neonatal intensive care unit of the Shaare Zedek Medical Center and diagnosed as still having a hemodynamically significant patent ductus arteriosus (hsPDA) after a first course of therapy with i",
+      "endpoints": [
+        "Improvement in ductal closure rates in those infants who do not respond to a first course of therapy"
+      ],
+      "sponsor": "Shaare Zedek Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01070745"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01243996",
+      "title": "High-dose Ibuprofen for Patent Ductus Arteriosus in Extremely Preterm Infants: a Randomized Controlled Study",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-06",
+      "completion_date": "2010-10",
+      "country": "Italy",
+      "enrollment": 70,
+      "brief_summary": "The investigators hypothesized that the early treatment of PDA with ibuprofen doses higher than those actually recommended might increase the closure rate in preterm infants with gestational age \\<29 weeks without increasing the occurrence of associated adverse effects. To assess this hypothesis the investigators planned a multicenter randomized controlled study to compare the effectiveness of the current ibuprofen regimen to that of a high-dose regimen in closing PDA.",
+      "eligibility_criteria": "Inclusion Criteria: Gestational age \\<29 weeks; an echocardiographic evidence of significant PDA; an age of 12 to 24 hours; and RDS necessitating respiratory support.\n\n\\-\n\nExclusion Criteria: Major congenital anomalies; life-threatening infection or hydrops fetalis; pulmonary hypertension; death bef",
+      "endpoints": [
+        "Successful rate in closing PDA of ibuprofen administered at high or standard dose."
+      ],
+      "sponsor": "University of Florence",
+      "url": "https://clinicaltrials.gov/study/NCT01243996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02056223",
+      "title": "Paracetamol Versus Ibuprofen for Patent Ductus Arteriosus Closure in Preterm Infants. A Prospective, Randomized, Controlled, Double Blind, Multicenter Clinical Trial.",
+      "phase": "PHASE2, PHASE3",
+      "status": "SUSPENDED",
+      "start_date": "2017-01-09",
+      "completion_date": "2019-10-31",
+      "country": "Italy",
+      "enrollment": 120,
+      "brief_summary": "Current pharmacological options to treat an hemodynamically significant PDA (HsPDA) in preterm infants are limited to non-selective cyclo-oxygenase (COX) inhibitors, indomethacin or ibuprofen. Recently paracetamol exposure has been reported to successful closure of PDA. Aim of this randomized double-blind controlled study is to compare the efficacy and the safety of standard PDA treatment ibuprofen versus paracetamol-experimental treatment . We hypothesize that paracetamol is more effective than",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* inborn neonates\n* preterm neonates ≤ 31+ 6 days weeks gestation\n* newborns with HsPDA\n* parental written informed consent for participation in the study must be obtained\n\nExclusion Criteria:\n\n* Serum creatinine concentration greater than 1,5 mg/dl (132MMole/L)\n* Urine output l",
+      "endpoints": [
+        "PDA pharmacological closure"
+      ],
+      "sponsor": "University of Padova",
+      "url": "https://clinicaltrials.gov/study/NCT02056223"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02884219",
+      "title": "Multi-center, Randomized Non-inferiority Trial of Early Treatment Versus Expectative Management of Patent Ductus Arteriosus in Preterm Infants (BeNeDuctus Trial - Belgium Netherlands Ductus Trial)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-12-23",
+      "completion_date": "2022-03-15",
+      "country": "Belgium, Netherlands",
+      "enrollment": 273,
+      "brief_summary": "Much controversy exists about the optimal management of a patent ductus arteriosus (PDA) in preterm infants, especially in those born at a gestational age \\<28 weeks and/or a birth weight ≦1000 grams due to a lack of evidence for or against different approaches. A PDA has been associated with serious complications. However, a common finding is that medical and/or surgical treatment of a PDA seems not to reduce the risk of mortality or major morbidity. This might be related to the fact that a sub",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PDA diameter \\> 1.5 mm and ductal (predominantly) left-to-right shunt\n* Signed informed consent obtained from parent(s) or representative(s)\n* Gestational age \\< 28 completed weeks\n\nExclusion Criteria:\n\n* Contraindication for administration of cyclooxygenase-inhibitors (COXi)\n",
+      "endpoints": [
+        "Composite of mortality, and/or NEC, and/or BPD"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02884219"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05325177",
+      "title": "A Pilot, Randomized Controlled Study of the Effects of High Dose Ibuprofen on Cerebral and Splanchnic Tissue Oxygenation During Treatment of Hemodynamically Significant Patent Ductus Arteriosus (hsPDA) in Preterm Infants",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-06-01",
+      "completion_date": "2024-12-31",
+      "country": "Canada",
+      "enrollment": 30,
+      "brief_summary": "Babies who are born very prematurely are often born with murmurs in the heart. In preterm babies, one of the most common causes of murmur is the presence of a PDA. This is the persistence of a connection that normally exists in the baby before it is born, connecting between the major blood vessels that leave the heart. In term babies, this channel closes shortly after birth when normal adult circulation is achieved. However, in preterm babies, the PDA can remain open, which can lead to multiple ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm infants less than (\\< )29 weeks gestation at birth\n* Echocardiographic evidence of hsPDA (as outlined in the NICU PDA treatment guidelines) at 7-21 days of life requiring pharmacologic treatment as determined by the managing physician.\n\nExclusion Criteria:\n\n* Not able ",
+      "endpoints": [
+        "Change in regional tissue oxygenation (splanchnic, cerebral, and the splanchnic-cerebral oxygenation ratio 'SCOR') during hsPDA treatment",
+        "Change in splanchnic, cerebral, and renal Doppler blood flow during hsPDA treatment [Peak Systolic Velocity (PSV), End Diastolic Velocity (EDV), and Resistive Index (RI)]"
+      ],
+      "sponsor": "Ottawa Hospital Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT05325177"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00833365",
+      "title": "Early vs. Late Use of Ibuprofen for Patent Ductus Arteriosus (PDA) Closure and Pain/Stress Reduction",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2009-01",
+      "completion_date": "2011-11",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "The primary objective is to evaluate the Patent Ductus Arteriosus (PDA) closure rate of early vs. late use of Ibuprofen (Ibu). The investigators believe that early use of Ibu will have a higher PDA closure rate than later use of Ibu. Early use is defined as medication given before the infant reaches 96 hrs old. Late use is defined as medication given when infant is more than 96 hrs old.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Birth weight less than 1200gm\n* Less than 28 weeks gestational age\n* Confirmed Patent Ductus Arteriosus (PDA) via echocardiogram and clinical exam\n\nExclusion Criteria:\n\n* Active Bleeding\n* Currently being treated for Persistent Pulmonary Hypertension (PPHN)\n* Cardiac anomalies",
+      "endpoints": [
+        "Number of PDA Closures Related to Treatment With Ibuprofen"
+      ],
+      "sponsor": "University of Utah",
+      "url": "https://clinicaltrials.gov/study/NCT00833365"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05493540",
+      "title": "Oral Ibuprofen Versus Placebo in Management of Patent Ductus Arteriosus in Preterm Infants: A Double Blind, Randomized Control Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-04-15",
+      "completion_date": "2022-09-01",
+      "country": "Egypt",
+      "enrollment": 80,
+      "brief_summary": "The management options of Patent Ductus Arteriosus are still controversial and differ between centers. Recently, conservative management has been gaining interest as the evidence of benefit from medical treatment in terms of mortality and morbidity is lacking.\n\nThis study will compare oral ibuprofen (the standard treatment) with the conservative treatment, in terms of ductal closure and morbidity and mortality at discharge in preterm neonates less than 34 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Gestational age ≤ 34 weeks\n* PDA Size \\> 1.5 mm and predominantly left-to-right shunt\n* One of the following:\n* Signs of Pulmonary overflow: Left atrium/Aortic diameter ratio (LA/Ao), Left Ventricular End Diastolic Diameter (LVEDD).\n* Signs of Systemic Hypo perfusion: Absent o",
+      "endpoints": [
+        "Incidence of PDA Closure by Echocardiography"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT05493540"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01291654",
+      "title": "Paracetamol in the Treatment of Patent Ductus Arteriosus in the Premature Neonate",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2012-04",
+      "completion_date": "",
+      "country": "Israel",
+      "enrollment": 80,
+      "brief_summary": "The investigators propose that paracetamol will be similarly effective to ibuprofen in treating PDA in the premature neonate, with fewer side effects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Echocardiographic diagnosis of hemodynamically significant patent ductus arteriosus\n\nExclusion Criteria:\n\n* Major congenital anomalies\n* Life-threatening infection\n* Active NEC and/or intestinal perforation\n* Recent (within the previous 24 hours) intraventricular hemorrhage Gr",
+      "endpoints": [
+        "Closure of the Ductus"
+      ],
+      "sponsor": "Shaare Zedek Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01291654"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06601114",
+      "title": "The Effectiveness of Paracetamol Versus Ibuprofen in Management of Patent Ductus Arteriosus in Preterm Neonates",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-04-10",
+      "completion_date": "2024-10-10",
+      "country": "Pakistan",
+      "enrollment": 254,
+      "brief_summary": "This study aims to find and compare the effectiveness of paracetamol and ibuprofen in the closure of patent ductus arteriosus in preterm neonates.\n\nThe study is being conducted at Department of Nursery (special care baby unit) and Neonatal intensive care unit (NICU), KTH, Peshawar.\n\nNeonates diagnosed with patent ductus arteriosus (PDA) in the Special care baby unit (SCBU) and Neonatal Intensive Care Unit (NICU) were enrolled in the study after obtaining ethical approval and informed consent fro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Neonates of gestational age more than 30 weeks and less than 37 weeks\n* Neonates with birthweight of ≥1250g\n* Neonates with postnatal age of 48-96 hours\n* Neonates having one of the following echocardiographic criteria: a duct size \\&gt; 2mm, a left atrium-to-aorta ratio \\&gt;",
+      "endpoints": [
+        "Closure of Patent Ductus Arteriosus"
+      ],
+      "sponsor": "Khyber Teaching Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06601114"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06064825",
+      "title": "Long Term Follow-up of the TREOCAPA (Prophylactic TREatment Of the duCtus Arteriosus in Preterm Infants by Acetaminophen) Study (TREOCAPA-LT)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-12-12",
+      "completion_date": "2027-06",
+      "country": "France",
+      "enrollment": 500,
+      "brief_summary": "The ductus arteriosus (DA) is a large channel connecting the main pulmonary trunk with the descending aorta. In extremely preterm infants, the DA frequently fails to close and this results in a condition called patent ductus arteriosus (PDA). In these patients, PDA has been associated with increased mortality and morbidity in the neonatal period, and neonatal morbidities may in turn be associated with later deficits in cognitive functioning. PDA treatment with COX inhibitors, as ibuprofen or ind",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* were included in the TREOCAPA phase III RCT in participating centres\n* are aged between 23.5 and 27.5 months corrected age during the study period\n\nExclusion Criteria:\n\n* if the local investigator does not have up-to-date contact information allowing contact with parents\n* if ",
+      "endpoints": [
+        "Non-verbal cognition at 2 years corrected age"
+      ],
+      "sponsor": "Institut National de la Santé Et de la Recherche Médicale, France",
+      "url": "https://clinicaltrials.gov/study/NCT06064825"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05711966",
+      "title": "Comparison of \"IN-REC-SUR-E\" and LISA in Preterm Neonates With Respiratory Distress Syndrome: a Randomized Controlled Trial (IN-REC-LISA Trial)",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-01-09",
+      "completion_date": "2026-04-15",
+      "country": "Italy",
+      "enrollment": 381,
+      "brief_summary": "The primary hypothesis of this study is that surfactant administration by INtubate-RECruit-SURfactant-Extubate (IN-REC-SUR-E), via a high frequency oscillatory ventilation recruitment maneuver increases survival without BPD at 36 weeks' gestational age in spontaneously breathing infants born at 24+0-27+6 weeks' gestation affected by Respiratory Distress Syndrome (RDS) and failing nasal CPAP or nasal intermittent positive pressure ventilation (NIPPV) during the first 24 hours of life compared to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInfants satisfying the following inclusion criteria will be eligible to participate:\n\n1. Born at 24+0-27+6 in a tertiary neonatal intensive care unit participating in the trial (and)\n2. Breathing independently and sufficiently with only nasal CPAP or NIPPV for respiratory suppor",
+      "endpoints": [
+        "A composite outcome of death or bronchopulmonary dysplasia (BPD) at 36 weeks' postmenstrual age"
+      ],
+      "sponsor": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+      "url": "https://clinicaltrials.gov/study/NCT05711966"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04026464",
+      "title": "Monotherapy (Ibuprofen) vs. Combination Therapy (Ibuprofen and Acetaminophen) in the Management of Patent Ductus Arteriosus in Premature Infants: A Randomized Controlled Trial",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2021-04",
+      "completion_date": "2021-05-12",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "Patent ductus arteriosus is a common morbidity in preterm infants and management of PDA varies among neonatologist. The investigators are conducting a randomized controlled trial to determine the rates of initial patent ductus arteriosus (PDA) closure after completion of a first treatment course.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants 23 0/7 to 27 6/7 weeks' gestational age and birth weight \\< 1000 grams\n* Hemodynamically significant PDA as defined by any of the following:\n\n  1. Increased ventilator or oxygen support attributed by the clinician to be due to increased left-right shunting through the ",
+      "endpoints": [
+        "Percentage of infants with PDA closure."
+      ],
+      "sponsor": "University of Florida",
+      "url": "https://clinicaltrials.gov/study/NCT04026464"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00554307",
+      "title": "Comparison of Cerebral, Renal and Mesenteric Perfusion Using Near Infrared Spectroscopy in Neonates During Patent Ductus Arteriosus Closure With Ibuprofen or Indomethacin.",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2007-11",
+      "completion_date": "2009-12",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to determine how the medications which are used to close the patent ductus arteriosus (PDA) in preterm infants affect brain, kidney and gut blood flow when compared to infants that are not treated with these medications. The medications being used for PDA closure are indomethacin and neoprofen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Less than or equal to 32 weeks gestation;\n* Less than or equal to 1250 g;\n* Mechanical ventilation;\n* Echocardiographic findings of PDA with left to right shunting;\n* Medical judgement of neonatologist for medical treatment;\n\nExclusion Criteria:\n\n* Urine output less than 1 ml/",
+      "endpoints": [
+        "Changes in blood flow from baseline in infants treated with indomethacin or neoprofen. Blood flow will be measured in the brain, kidney and mesentery.",
+        "Measure oxygenation/blood flow to brain during PDA treatment"
+      ],
+      "sponsor": "University of Louisville",
+      "url": "https://clinicaltrials.gov/study/NCT00554307"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05340582",
+      "title": "Co-administration of Acetaminophen With Ibuprofen to Improve Duct-Related Outcomes in Extremely Premature Infants - The ACEDUCT Trial",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-12-12",
+      "completion_date": "2027-04",
+      "country": "Hong Kong, Ireland, Australia, Canada",
+      "enrollment": 310,
+      "brief_summary": "Patent ductus arteriosus (PDA), the most common cardiovascular complication of prematurity, is associated with higher mortality and morbidities in extremely low gestational age neonates (ELGANs, \\< 27+0 weeks). Ibuprofen and acetaminophen, which act by reducing prostaglandin synthesis, are the most commonly used first and second line agents for PDA treatment across Canada. However, initial treatment failure with monotherapy is a major problem, occurring in \\>60% ELGANs. Treatment failure is asso",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm infants born \\<27+0 weeks gestational age\n* Permission given by the attending clinician to approach and then consent obtained from parents\n* Diagnosis of PDA ≥ 1.5 mm on echocardiography with unrestrictive predominantly left to right shunt\n* Designated to receive first",
+      "endpoints": [
+        "Composite of pre-discharge mortality or any grade BPD"
+      ],
+      "sponsor": "Mount Sinai Hospital, Canada",
+      "url": "https://clinicaltrials.gov/study/NCT05340582"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06152796",
+      "title": "Paracetamol Versus Ibuprofen in Closure of Patent Ductus Arteriosus in Premature Neonates,at Upper Egypt",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2023-12-01",
+      "completion_date": "2026-01-01",
+      "country": "N/A",
+      "enrollment": 56,
+      "brief_summary": "To compare efficacy and safety of paracetamol and ibuprofen for the pharmacological closure of patent ductus arteriosus (PDA) in preterm infants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* preterm infants\n* with gestational age ≤37weeks\n* who had echocardiographically confirmed significant PDA.\n\nExclusion Criteria:\n\n* Preterm neonates\n* with major congenital anomalies,\n* life threatening sepsis,\n* NEC,\n* IVH,\n* urine output \\<1ml/kg/h in the last 24 h,\n* serum c",
+      "endpoints": [
+        "Closure of PDA"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT06152796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02128191",
+      "title": "Efficacy and Safety of No Treatment Compared With Oral Ibuprofen Treatment for Patent Ductus Arteriosus in Preterm Infants: a Randomized, Double-blind, Placebo-controlled, Non-inferiority Clinical Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2019-08",
+      "country": "South Korea",
+      "enrollment": 142,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of no treatment compared with ibuprofen treatment for patent ductus arteriosus in preterm infants. The study hypothesis is that no treatment is not inferior to oral ibuprofen treatment in preterm infants. (non-inferiority study)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. gestational age of 30 weeks or less or birth weight of 1250 g or less\n2. born in Samsung Medical Center\n3. confirmed to have hemodynamically significant patent ductus arteriosus (PDA) during day of life (DOL) 5 to 14\n4. Definition of hemodynamically significant PDA: ductal si",
+      "endpoints": [
+        "Incidence of moderate to severe bronchopulmonary dysplasia (BPD) or mortality at 36 weeks postmenstrual age (PMA)"
+      ],
+      "sponsor": "Samsung Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02128191"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04282941",
+      "title": "Phase III Clinical Trial, Randomized, Multicentre, Double Blind to Evaluate Two Guidelines for the Administration of Ibuprofen in the Treatment of Persistent Ductus Arteriosus Eco-guided: Impact in the Intestinal Prognosis",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2017-02-20",
+      "completion_date": "2020-11-30",
+      "country": "Spain",
+      "enrollment": 180,
+      "brief_summary": "Persistent ductus arteriosus (DA) is a common entity in the premature newborn and is associated with high morbidity and mortality. There is still controversy about which is the best treatment for its closure. Children with AD who receive pharmacological treatment present more frequently than other premature children, necrotizing enterocolitis or isolated intestinal perforation.\n\nAt the present time, the conventional treatment of DA consists in the administration of intravenous ibuprofen, slow bo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm infants with less 33 weeks of gestational age\n* DA ≥ 1.5 mm with decision to start pharmacological treatment\n* Informed consent signed by the legal representative\n\nExclusion Criteria:\n\n* Consent denied\n* Presence of serious congenital alterations\n* Congenital heart dis",
+      "endpoints": [
+        "Change the incidence of necrotizing enterocolitis or isolated intestinal perforation in preterm infants receiving treatment for closure of AD with ibuprofen in continuous IV perfusion and EchoG vs iv and EchoG boluses"
+      ],
+      "sponsor": "Instituto de Investigación Hospital Universitario La Paz",
+      "url": "https://clinicaltrials.gov/study/NCT04282941"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07374146",
+      "title": "Research on the Individualized Treatment Strategy for Extremely Preterm Infants With hsPDA Based on Biomarkers and Targeted Delivery Systems",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02-01",
+      "completion_date": "2028-12-31",
+      "country": "N/A",
+      "enrollment": 80,
+      "brief_summary": "This project aims to address the need for individualized precision therapy for hemodynamically significant patent ductus arteriosus (hsPDA) in extremely preterm infants by integrating clinical biomarker screening with the design of a targeted drug-delivery system, and advancing early prediction and targeted intervention in a stepwise manner. Infants born at \\<32 weeks' gestational age will be enrolled. Multi-time-point blood samples and relevant clinical parameters will be systematically collect",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Gestational age \\<32 weeks, regardless of sex;Parents or legal guardians are able to maintain effective communication with the investigators and agree to sign written informed consent.\n\nExclusion Criteria:\n\n* Infants with severe congenital heart disease (other than PDA), such ",
+      "endpoints": [
+        "Incidence of hsPDA"
+      ],
+      "sponsor": "Peking University Third Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07374146"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02421068",
+      "title": "Pharmacokinetic and Pharmacodynamic Modelling of Routinely Used Off Label Drugs in Premature Neonates",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-08",
+      "completion_date": "2017-06-30",
+      "country": "Netherlands",
+      "enrollment": 246,
+      "brief_summary": "This study will provide information on the pharmacokinetics, safety and effectiveness of off--label drugs used in critically ill premature infants: doxapram, fentanyl, midazolam, paracetamol, phenobarbital, sildenafil, levetiracetam, ibuprofen and fluconazole. PK/PD analysis with NONMEM (non-linear mixed effects modelling) will result in (adapted) dosage guidelines, thus contributing towards an improvement in the quality of care and cost efficiency. Furthermore the development of Dried Blood Spo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* prescription of one of the seven drug of interest\n* parental informed consent\n\nExclusion Criteria:\n\n\\- none",
+      "endpoints": [
+        "Clearance, Volume of distribution and covariates for the variability of paracetamol, fentanyl, midazolam, phenobarbital, doxapram, sildenafil, levetiracetam, ibuprofen, and fluconazole in premature born neonates"
+      ],
+      "sponsor": "Erasmus Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02421068"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03701074",
+      "title": "Single Center, Randomized, Double Blind, Placebo Controlled Trial to Evaluate the Safety and Efficacy of Acetaminophen in Preterm Infants Used in Combination With Ibuprofen for Closure of the Ductus Arteriosus",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2018-12-15",
+      "completion_date": "2020-12-02",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "The purpose of the present study is to determine whether treatment of hemodynamically significant patent ductus arteriosus with a combined therapy of intravenous Ibuprofen and oral acetaminophen has higher success rate in closing the ductus arteriosus than a standard treatment strategy of using intravenous ibuprofen alone among preterm infants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Preterm infant ≤27 6/7\n2. Written parental consent is obtained\n3. Infant requires respiratory support\n4. diagnosis of a persistent patent ductus arteriosus after 5 days of age, (defined as at least two of the following:\n\n   1. Ductus size ≥ 1.5 mm\n   2. Maximum flow velocity ",
+      "endpoints": [
+        "Ductus Arteriosus Closure/Constriction Rate"
+      ],
+      "sponsor": "University of South Alabama",
+      "url": "https://clinicaltrials.gov/study/NCT03701074"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01544972",
+      "title": "Serum Level Measurement of Oral Paracetamol and Oral Ibuprofen",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-02",
+      "completion_date": "2012-12",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 80,
+      "brief_summary": "The purpose of this study is to determine oral paracetamol and ibuprofen efficacy and safety in relation to serum levels in closure of patent ductus arteriosus in preterm infants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Birth weight below 1250 gram\n* Diagnosed patent ductus arteriosus by Echocardiographic examination\n\nExclusion Criteria:\n\n* Accompanied other congenital cardiac anomalies\n* Severe thrombocytopenia \\< 60.000\n* Severe intracranial bleeding (Grade III - IV)\n* Intestinal abnormalit",
+      "endpoints": [
+        "To detection of safe and effective serum levels of paracetamol and ibuprofen in preterm infants treated for PDA"
+      ],
+      "sponsor": "Zekai Tahir Burak Women's Health Research and Education Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01544972"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04986839",
+      "title": "PAIR (Paracetamol and Ibuprofen Research) Study: A Randomised Controlled Trial Comparing IV Paracetamol With IV Ibuprofen in the Management of Haemodynamically Significant Patent Ductus Arteriosus",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-09-03",
+      "completion_date": "2024-01-01",
+      "country": "United Kingdom",
+      "enrollment": 32,
+      "brief_summary": "Presence of Patent Ductus Arteriosus is detrimental to an infant born prematurely. The primary objective is to study the efficacy of Paracetamol (proposed new treatment) in treating haemodynamic significant Patent Ductus Arteriosus (hsPDA) in comparison to Ibuprofen (current standard treatment) in preterm infants. Outcome of such treatment will check on the conversion of hsPDA to non-hsPDA. All preterm infants (born at \\<32 weeks gestational age or birth weight \\< 1500 grams) with haemodynamical",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Gestational age - \\<32 weeks OR birth weight \\< 1500 grams\n* Postnatal age ≤ 28 days\n* Meets criteria for hsPDA\n* Clinician's decision to treat PDA\n\nExclusion Criteria:\n\n* Contraindication for administration of Ibuprofen (cyclooxygenase-inhibitors) or Paracetamol, such as: act",
+      "endpoints": [
+        "Conversion of haemodynamically significant PDA (hsPDA) to non-hsPDA"
+      ],
+      "sponsor": "Manchester University NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT04986839"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02079298",
+      "title": "Safety of Fluconazole Treatment of Premature and Full-term Newborn Infants - A Study on Interactions by Nonsteroidal Anti Inflammatory Drugs (NSAIDs) With Fluconazole in Respect of Pharmacodynamic Endpoints With Urinary Excretion of Vasoactive Endobiotics",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-04",
+      "completion_date": "2015-09",
+      "country": "Sweden",
+      "enrollment": 80,
+      "brief_summary": "This study will investigate pharmacological interventions between fluconazole and ibuprofen when they are given to premature newborn babys. This in order to find out if the drugs are influencing each other when they are given at the same time. The study is meant to find out if there are reasons to adjust the dose when fluconazole and ibuprofen are given together.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Newborn infants in need of prophylaxis with fluconazole according to clinical routines and/or clinical indication for treatment of Patent Ductus Arteriosis (PDA), or newborn infants who are not treated with either fluconazole or ibuprofen according to the following study grou",
+      "endpoints": [
+        "Urinary concentrations of prostacycline (PGI2) and thromboxane A2 (TxA2) measured in picogram/milliliter."
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT02079298"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01593163",
+      "title": "Randomised Controlled Clinical Trial of Echocardiographically Guided Versus Standard Ibuprofen Treatment for Patent Ductus Arteriosus: a Pilot Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2010-03",
+      "country": "Spain",
+      "enrollment": 49,
+      "brief_summary": "Patent ductus arteriosus (PDA) is a very common condition in immature newborn babies and it has been associated to morbidity and mortality. Ibuprofen is the drug of choice for PDA treatment according to the last version of the Cochrane review. Nowadays the best dose regimen for ibuprofen remains uncertain. The investigators aim to perform a randomized controlled clinical trial to assess whether echocardiographically guided PDA ibuprofen treatment versus standard treatment could reduce the number",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm infants with a gestational age lower than 37 weeks of gestational age\n* PDA ≥ 1.5 mm\n* No contraindication to receive ibuprofen\n* Informed consent signed.\n\nExclusion Criteria:\n\n* Life-threatening congenital defects\n* Congenital heart disease\n* Contraindication for ibup",
+      "endpoints": [
+        "PDA re-opening rate"
+      ],
+      "sponsor": "Fundacion para la Investigacion Biomedica del Hospital Universitario la Paz",
+      "url": "https://clinicaltrials.gov/study/NCT01593163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01251939",
+      "title": "Observational Study of Near Infrared Spectroscopy to Monitor Renal and Splanchnic Oxygenation During Ibuprofen Treatment for Patent Ductus Arterious in Preterm Infants",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2012-08",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 30,
+      "brief_summary": "Patent ductus arterious(PDA)is frequently seen and potentially pathologic in preterm infants. Near-infrared spectroscopy is a simple bedside tool to analyse the changes in the renal and splanchnic tissue oxygenation index and fractional tissue oxygen extraction and may be helpful to measure effects of ibuprofen treatment for PDA in preterm infants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Gestational age \\<32 weeks and \\<1500 g\n* Echocardiographic evidence of hemodynamically significant patent ductus arterious\n\nExclusion Criteria:\n\n* Major congenital anomalies\n* Intraventricular hemorrhage of grade 3 within the previous 24 hours\n* Serum creatinine level 1.5 mg%",
+      "endpoints": [],
+      "sponsor": "Zekai Tahir Burak Women's Health Research and Education Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01251939"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00485160",
+      "title": "Comparison of Intravenous Ibuprofen vs. Continuous Indomethacin in the Treatment of Patent Ductus Arteriosus",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-02",
+      "completion_date": "2006-09",
+      "country": "Israel",
+      "enrollment": 70,
+      "brief_summary": "The purpose of this study is to determine whether closure of the PDA in premature neonates using IV ibuprofen vs continuous IV indomethacin has different side effects, eg. effects on renal function, on blood flow velocity in the superior mesenteric artery, the anterior cerebral artery, and the renal artery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\< 1500 gm birth weight with PDA confirmed by echocardiography\n\nExclusion Criteria:\n\n* Additional congenital heart lesions\n* Significant congenital malformations\n* Documented infection\n* Thrombocytopenia (\\<60,000)\n* IVH grade 4",
+      "endpoints": [
+        "To show no differences in urine output and/or in serum creatinine between the treatment groups"
+      ],
+      "sponsor": "Shaare Zedek Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00485160"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00795990",
+      "title": "Timing for the Medical Treatment of Patent Ductus Arteriosus in Preterm Infants",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2014-11",
+      "country": "United States",
+      "enrollment": 350,
+      "brief_summary": "This is a retrospective chart review to look at the timing of using indomethacin and ibuprofen for PDA closure for infants admitted into the NICU of the University of Utah Hospital from 1/2007-8/2008. The purpose is to compare the outcomes of medical intervention in preterm infants if intervention occurs day of life 4 or less, or day of life 5 or greater, with the birthdate being counted as day of life 1.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* birth weight less than 1200 gm\n\nExclusion Criteria:\n\n* none",
+      "endpoints": [
+        "Early versus Late Medical Treatment of PDA"
+      ],
+      "sponsor": "University of Utah",
+      "url": "https://clinicaltrials.gov/study/NCT00795990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03289390",
+      "title": "Treatment of a PDA With Acetaminophen in Preterm Neonates: Exploring Various Indications",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-08-01",
+      "completion_date": "2019-06-30",
+      "country": "United States",
+      "enrollment": 11,
+      "brief_summary": "This study will evaluate the use of acetaminophen in preterm infants when a patent ductus arteriosus (PDA) is of concern. We will perform two simultaneous prospective observational studies over a 3 year period. The first will be of infants with clinically significant PDAs beyond 14 days of life who are medically treated with acetaminophen as a means to avoid surgical ligation, and the second will be of infants who received acetaminophen for a PDA closure during the first 2 weeks of life as a res",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants born at 23 0/7 to 29 6/7 weeks gestation, with PDA determined by medical team to need treatment and infant is beyond 14 days of life.\n\nExclusion Criteria:\n\n* Congenital heart disease Pneumonia Pulmonary hypertension Pulmonary hemorrhage ALT and AST ≥ 2X the upper limit",
+      "endpoints": [
+        "Rate of PDA closure",
+        "Change in PDA size"
+      ],
+      "sponsor": "Albany Medical College",
+      "url": "https://clinicaltrials.gov/study/NCT03289390"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04397913",
+      "title": "Population Pharmacokinetics and Dosage Individualization of Paracetamol and Ibuprofen in Preterm Neonates and Infants With Patent Ductus Arteriosus",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2020-05-25",
+      "completion_date": "2023-05-06",
+      "country": "China",
+      "enrollment": 500,
+      "brief_summary": "The investigator's purpose is to study the population pharmacokinetics of paracatamol and ibuprofen in neonates with patent ductus arteriosus (PDA) and assess the feasibility of dosage individualization.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients have been diagnosed with PDA;\n* Age: postnatal age ≤ 28 days;\n* Paracetamol or ibuprofen used as part of regular treatment;\n* Paracetamol or ibuprofen was administered orally.\n\nExclusion Criteria:\n\n* Patients who die within the treatment cycle;\n* Patients with other h",
+      "endpoints": [
+        "Plasma drug concentration of paracetamol",
+        "Plasma drug concentration of ibuprofen",
+        "Echocardiography"
+      ],
+      "sponsor": "Shandong University",
+      "url": "https://clinicaltrials.gov/study/NCT04397913"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01958320",
+      "title": "Early Treatment Versus Delayed Conservative Treatment of the Patent Ductus Arteriosus in Preterm infants-a Multicenter Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-12",
+      "completion_date": "2017-06",
+      "country": "Turkey (Türkiye), United States, United Kingdom, Sweden",
+      "enrollment": 202,
+      "brief_summary": "The primary goal of the trial is to compare two different Patent Ductus Arteriosus (PDA) treatment approaches: 1) an \"early treatment\" approach or 2) a \"conservative\" approach. For the purposes of the study infants will be enrolled if they are delivered before 28 weeks gestation and have a moderate/large PDA present at 5-7 days after birth.\n\nThe hypothesis is: treatment of a moderate size patent ductus arteriosus (PDA) will decrease the time needed for assisted respiratory support, diuretic ther",
+      "eligibility_criteria": "Inclusion Criteria:\n\nThis will be a prospective randomized, multi-center, controlled trial that will enroll infants delivered between 23 \\& 0/7 - 27 \\& 6/7 weeks gestation:\n\n1. infants must be between 5-14 days old (if delivered between 23 and 0/7 - 25 and 6/7 weeks) or 7-14 days old (if delivered b",
+      "endpoints": [
+        "Number of Infants Who Undergo in Hospital PDA Ligations or Who Have an Open Ductus at the Time of Discharge (That Need Future Outpatient Cardiology Follow-up Visits)"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT01958320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02602054",
+      "title": "The Best Treatment Strategy: Surgical Versus Pharmacological, to Close the Ductus Arteriosus Persistent in Preterm Infants. A Randomized Controlled Trial",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2015-10",
+      "completion_date": "2017-10",
+      "country": "Mexico",
+      "enrollment": 40,
+      "brief_summary": "The decision to treat patent ductus arteriosus in preterm infants, varies from a conservative, medical or immediate surgical treatment; although, at present, there is some controversy about this decision. This study aims to determine the efficacy and safety of surgical versus pharmacological treatment of patent ductus arteriosus in preterm infants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm infants\n* Preterm infants hospitalized in the Neonatal Intensive Care Unit with a diagnosis of patent ductus arteriosus\n\nExclusion Criteria:\n\n* Preterm infants with supportive treatment and / or drug prior to patent ductus arteriosus in another medical unit\n* Preterm i",
+      "endpoints": [
+        "Success rate of closure patent ductus arteriosus"
+      ],
+      "sponsor": "Hospital General Naval de Alta Especialidad - Escuela Medico Naval",
+      "url": "https://clinicaltrials.gov/study/NCT02602054"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07098910",
+      "title": "Surfactant Therapy Via Supraglottic Airway Device Versus Endotracheal Intubation to Prevent Mechanical Ventilation in Preterm Neonates With Respiratory Distress Syndrome: An Open-label, Non-inferiority, Randomized Controlled Trial at a Level-III Neonatal Intensive Care Unit in Vietnam",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-25",
+      "completion_date": "2029-03-30",
+      "country": "Vietnam",
+      "enrollment": 440,
+      "brief_summary": "Preterm babies often have trouble breathing because their lungs are not fully developed. This condition is called respiratory distress syndrome (RDS). A medicine called surfactant helps their lungs open up and work better. It is usually given through a procedure called INSURE, where a breathing tube is placed into the baby's trachea (via an endotracheal tube) to deliver the medicine. While effective, this method is invasive and can be uncomfortable and risky for the baby.\n\nA newer, less invasive",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inborn neonate (=born in the hospital), AND\n* Gestational age \\<34+0 weeks, AND\n* Birth weight ≥750g, AND\n* Age \\<48 hours, AND\n* Diagnosis of RDS, confirmed with a chest x-ray or lung ultrasound, except in cases where immediate treatment is necessary and imaging would cause a",
+      "endpoints": [
+        "Failure of surfactant therapy to prevent invasive mechanical ventilation"
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT07098910"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02002741",
+      "title": "Adding Paracetamol to Ibuprofen for Treatment of Patent Ductus Arteriosus in Preterm Infants: A Pilot, Double Blind, Randomized, Placebo-control Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-08-01",
+      "completion_date": "2017-12-31",
+      "country": "Israel",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this study is to determine if adding paracetamol to ibuprofen is superior to ibuprofen only for treatment of patent ductus arteriosus (PDA) in preterm infants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm infants born at 24-37 gestational age\n* diagnosis of Hemodynamically significant patent ductus arteriosus\n* Medical staff decided to treat with Ibuprofen\n* Parents have signed informed consent\n\nExclusion Criteria:\n\n* Contraindication for ibuprofen\n* Alanine transaminas",
+      "endpoints": [
+        "The incidence of patent ductus arteriosus closure"
+      ],
+      "sponsor": "Rambam Health Care Campus",
+      "url": "https://clinicaltrials.gov/study/NCT02002741"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00470743",
+      "title": "A Randomised Controlled Trial Comparing Ibuprofen And Indomethacin For The Treatment Of The Patent Ductus Arteriosus In Very Premature Infants",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2007-05",
+      "completion_date": "2009-06",
+      "country": "Singapore",
+      "enrollment": 0,
+      "brief_summary": "The purpose of the study is to determine the safety and efficacy of ibuprofen, compared with indomethacin, in the treatment for the closure of the patent ductus arteriosus in premature babies born under 29 weeks gestation",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants \\<29 weeks gestation with a PDA diameter of \\>= 1.5 mm on 2Dechocardiogram\n* Parental written informed consent - Parent agrees to the subject's participation in the study as indicated by parent's signature on the consent form\n* Parent is willing to comply with procedur",
+      "endpoints": [
+        "Incidence of oliguria and gastric bleeding"
+      ],
+      "sponsor": "KK Women's and Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00470743"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01755728",
+      "title": "Paracetamol (Acetaminophen) for Closure of PDA in Preterm Infants",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-01-01",
+      "completion_date": "2018-12-31",
+      "country": "Israel",
+      "enrollment": 19,
+      "brief_summary": "There is a report that acetaminophen may have a role in pharmacological closure of PDA (Patent arterial duct) in preterm infants.\n\nThe investigators conducted this open label non randomized and non control study to try to support that report.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm infants with symptomatic PDA who could not be treated with ibuprofen\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Closure of arterial duct - yes / No"
+      ],
+      "sponsor": "Hillel Yaffe Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01755728"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03648437",
+      "title": "Paracetamol And Ibuprofen/Indomethacin in Closing Patent Ductus Arteriosus of Preterm Infants - Randomised, Placebo-controlled Multicentre Trial",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2018-09-03",
+      "completion_date": "2024-10-04",
+      "country": "Finland",
+      "enrollment": 22,
+      "brief_summary": "The purpose of this pilot trial is to study efficacy and safety of simultaneous intravenous (iv) ibuprofen/indomethacin and paracetamol medications in the closure of patent ductus arteriosus (PDA) in preterm infants. It is randomized, placebo-controlled, double-blind, phase 1, multicenter, clinical trial.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm infants (born before 37+0 gestation weeks) who are diagnosed to have a hemodynamically significant PDA and who, according to the decision of the attending clinician, need ibuprofen therapy, are eligible to this trial.\n\nExclusion Criteria:\n\n* severe malformation or susp",
+      "endpoints": [
+        "Ductal closure"
+      ],
+      "sponsor": "University of Oulu",
+      "url": "https://clinicaltrials.gov/study/NCT03648437"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00440804",
+      "title": "Randomized, Double-Blind Study of Ibuprofen L-Lysine Intravenous Solution in Premature Infants for the Early Treatment of Patent Ductus Arteriosus",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-12",
+      "completion_date": "2005-08",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this study is to determine the safety and effectiveness of ibuprofen l-lysine iv in premature infants in the early treatment of Patent Ductus Arteriosus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premature newborn infant of either gender with a birth weight of 500 to 1000 grams, appropriate for gestational age;\n* Non-symptomatic PDA with evidence of ductal shunting documented by an echocardiogram (ECHO);\n* Less than 72 hours of age at the time of randomization;\n* If in",
+      "endpoints": [
+        "Primary Outcome Measures (Efficacy)"
+      ],
+      "sponsor": "Farmacon",
+      "url": "https://clinicaltrials.gov/study/NCT00440804"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03022253",
+      "title": "Liberal Versus Restrictive Platelet Transfusion for Treatment of Hemodynamically Significant Patent Ductus Arteriosus in Thrombocytopenic Preterm Neonates- A Randomized Open Label, Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-03",
+      "completion_date": "2017-03-20",
+      "country": "India",
+      "enrollment": 44,
+      "brief_summary": "Patent ductus arteriosus (PDA) is a common problem in preterm babies. Recently there have been various studies for and against an association between thrombocytopenia and PDA. A meta-analysis published in 2015 showed a marginally significant positive association between PDA and thrombocytopenia but these were all observational studies and there are no randomized controlled trials (RCT) on it. The investigators decided to conduct an RCT to determine whether liberal platelet transfusion criteria a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Gestational age up to 34 6/7 weeks\n2. PDA detected for the first time at less than 14 days of postnatal age\n3. Clinically and/or echocardiographically hemodynamically significant PDA Note: ELBW neonates will be screened in first 48 hours as per unit policy; the rest will unde",
+      "endpoints": [
+        "Time to closure of PDA post randomization"
+      ],
+      "sponsor": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+      "url": "https://clinicaltrials.gov/study/NCT03022253"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00728117",
+      "title": "Should Very Low Birth Weight Infants Receive Enteral Nutrition During Indomethacin or Ibuprofen Treatment of a Patent Ductus Arteriosus? A Multi-Center Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2012-09",
+      "country": "United States",
+      "enrollment": 177,
+      "brief_summary": "We hypothesize that feeding preterm infants while they receive indomethacin or ibuprofen therapy for treatment of a patent ductus arteriosus will decrease the incidence of feeding intolerance and shorten the time period that infants need to tolerate full enteral nutrition. We also hypothesize that this intervention will minimize the alterations in intestinal permeability that occur with these drugs and will improve the infants' hemodynamic response to enteral nutrition",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants between 401-1,250 g birth weight who\n\n  * Are receiving or are scheduled to begin enteral feedings and\n  * Are about to receive pharmacologic treatment (either indomethacin or ibuprofen) to close their PDA.\n\nExclusion Criteria:\n\n* Serious congenital malformations\n* Chr",
+      "endpoints": [
+        "Assess the effect of feeding infants during indomethacin or ibuprofen therapy on the incidence of feeding intolerance and the number of days required to achieve full feedings (120 ml/kg/day)."
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT00728117"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00802685",
+      "title": "Timing of PDA Closure and Respiratory Outcome in Premature Infants",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2007-11",
+      "completion_date": "2011-02",
+      "country": "United States",
+      "enrollment": 105,
+      "brief_summary": "The investigators propose the present study with the following aims:\n\n* to determine whether early patent ductus arteriosus (PDA) treatment with ibuprofen treatment at the onset of clinical symptoms is superior to late ibuprofen treatment only when symptoms of a hemodynamically significant PDA are present in the evolution of bronchopulmonary dysplasia (BPD) defined as duration of supplemental oxygen exposure during the first 28 days\n* to determine whether early PDA treatment with ibuprofen will ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inborn patients at JHS hospitals (admitted to the NICU at JMH within the first 72 hrs of age\n* BW 500-1250 grams\n* 23-32 wks gestational age\n* \\> 1d but \\< 14d of age.\n\nExclusion Criteria:\n\n* Major congenital malformations\n* Proven sepsis (positive blood culture)\n* Contraindic",
+      "endpoints": [
+        "Days Spent on Supplemental Oxygen During the First 28 Days."
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT00802685"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02422966",
+      "title": "Efficacy and Safety of Paracetamol in Comparison to Ibuprofen for Patent Ductus Arteriosus Treatment in Preterm Infants: A Randomized, Open Label, Comparator-controlled, Prospective Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-12",
+      "completion_date": "2019-04",
+      "country": "Italy",
+      "enrollment": 110,
+      "brief_summary": "The purpose of the study is to assess the efficacy and safety of paracetamol in comparison to ibuprofen in the treatment of patent ductus arteriosus (PDA) in preterm infants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female preterm infants with no limitation of race.\n2. Gestational age 25(+0) - 31(+6) weeks.\n3. Age 24-72 hours.\n4. Echocardiographic evidence of hemodynamically significant patent ductus arteriosus at the first 24-72 hours of life.\n\n   The diagnosis of hemodynamicall",
+      "endpoints": [
+        "success rate in closing PDA using paracetamol in comparison to ibuprofen."
+      ],
+      "sponsor": "Aziende Chimiche Riunite Angelini Francesco S.p.A",
+      "url": "https://clinicaltrials.gov/study/NCT02422966"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01630278",
+      "title": "Impact of Early Targeted Ibuprofene Treatment of Patent Ductus Arteriosus (PDA) on Long Term Neurodevelopmental Outcome in Very Premature Infants (TRIOCAPI)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2019-06",
+      "country": "France",
+      "enrollment": 363,
+      "brief_summary": "Very premature infants with a large ductus, selected by an early echocardiogram, will receive either ibuprofen or placebo before 12 hours of life. Follow-up will include repeated echocardiograms and cranial ultrasound at 36 hours, 14 days and 36 weeks of postconceptional age. The primary outcome will be survival without cerebral palsy at years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Gestational less than 28 weeks\n* Postnatal age less than 12 hours",
+      "endpoints": [
+        "2-year survival without cerebral palsy"
+      ],
+      "sponsor": "Nantes University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01630278"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00642330",
+      "title": "Randomized Pilot Study Comparing Oral Ibuprofen With Intravenous Ibuprofen in Very Low Birth Weight Infants With Patent Ductus Arteriosus",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2007-12",
+      "country": "Tunisia",
+      "enrollment": 62,
+      "brief_summary": "it is a prospective randomized simple-blinded pilot trial with the principal aim to compare efficacy and tolerance between oral ibuprofen and intravenous ibuprofen in early curative closure of PDA in very low birth weight infants. The likelihood of ductal closure with only one or two doses of treatment is a secondary objective.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* a gestational age \\< 32 weeks\n* a birth weight \\< 1500g\n* a postnatal age between 48 and 96 hours, a respiratory distress requiring more than 25 % of oxygen supplementation\n* an echocardiographic evidence of left to right significant shunting PDA\n\nExclusion Criteria:\n\n* a righ",
+      "endpoints": [
+        "rate of ductal closure"
+      ],
+      "sponsor": "Hopital La Rabta",
+      "url": "https://clinicaltrials.gov/study/NCT00642330"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07143201",
+      "title": "Model Informed Precision Dosing of Oral Ibuprofen for Treatment of Persistent Patent Ductus Arteriosus: A Pilot Randomized Controlled Feasibility Trial",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-07-04",
+      "completion_date": "2027-07",
+      "country": "Canada",
+      "enrollment": 26,
+      "brief_summary": "Newborns born early are at risk for a serious health problem called patent ductus arteriosus (PDA). PDA is a passageway between heart and lung that can cause life-threatening complications such as bleeding in the brain or even death if it remains open and large. When closure of PDA is needed, doctors make every attempt to do it as soon as possible. Ibuprofen is the best drug to close the PDA, but it only works for 50% of small newborns. The investigators have shown before that small newborns han",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Neonates with a gestational age of ≤27+6 weeks\n* Admitted to the neonatal intensive care unit (NICU) at McMaster Children's Hospital (MCH)\n* Diagnosed with PDA in need of treatment based on targeted neonatal echocardiography (TnEcho) performed prior to 27+6 CGA or postnatal ag",
+      "endpoints": [
+        "Recruitment Feasibility",
+        "Timeliness of PK Sample Result Availability",
+        "Timeliness of Top-up Dosing Data for Intervention Arm"
+      ],
+      "sponsor": "Hamilton Health Sciences Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT07143201"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01149564",
+      "title": "Comparison of Oral and Intravenous Ibuprofen for Treatment of Patent Ductus Arteriosus in Extremely Premature Infants: A Randomized Controlled Trial",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2009-12",
+      "completion_date": "2012-06",
+      "country": "Taiwan",
+      "enrollment": 70,
+      "brief_summary": "Background:\n\nPatent ductus arteriosus (PDA) continues to be one of the most common problems in premature infants. Pharmacological closure of PDA with intravenous (IV) indomethacin was first reported in 1976, however, concern remains regarding the safety of indomethacin, which affects renal, GI and cerebral perfusion and may lead to complications such as transient or permanent renal dysfunction, NEC, GI hemorrhage, and reduced cerebral oxygenation. Recently, IV ibuprofen has been shown to be effe",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* premature infants gestational age \\< 28 weeks, respiratory distress syndrome requiring assisted ventilation, a PDA without other cardiac anomalies confirmed by echocardiography within 24 hours after birth,\n\nExclusion Criteria:\n\n* severe congenital anomalies or lethal cardiopul",
+      "endpoints": [
+        "The primary outcome is to ascertain whether oral ibuprofen is effective and safe in inducing PDA closure in extremely premature infants."
+      ],
+      "sponsor": "China Medical University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01149564"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00961753",
+      "title": "Safety and Efficacy of an Optimized Ibuprofen Dosing Regimen Versus Standard Dosing for Pharmacologic Closure of Patent Ductus Arteriosus",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2009-08",
+      "completion_date": "2010-10",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this study is to determine if increasing the ibuprofen dose will increase the likelihood of closing the patent ductus arteriosus in premature babies.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All neonates (0-29 days old) less than or equal to 33 post-menstrual age at time of PDA diagnosis requiring nasal CPAP or mechanical ventilation\n* Echo confirmed PDA with a transductal diameter of 1.5 mm or greater and demonstrating a left-to-right shunt\n* Signed informed cons",
+      "endpoints": [
+        "PDA Closure"
+      ],
+      "sponsor": "OSF Healthcare System",
+      "url": "https://clinicaltrials.gov/study/NCT00961753"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03927833",
+      "title": "Cycled Phototherapy: A Safer Effective Method to Control the Serum Bilirubin Of Extremely Premature Infants?",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-07-16",
+      "completion_date": "2027-07-31",
+      "country": "United States",
+      "enrollment": 1700,
+      "brief_summary": "Cycled phototherapy (PT) is likely to increase survival over that with continuous PT among extremely premature infants (\\< 750 g BW or \\<27 weeks GA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Infants is inborn\n2. Infant is ≤ 750 grams at birth and/or \\< 27 weeks gestation at birth by best OB estimate\n3. Infant is 12-36 hours of age.\n\nExclusion Criteria:\n\n1. Unable to enroll infant by 36 hours of age\n2. Previous phototherapy\n3. Known hemolytic disease\n4. TSB report",
+      "endpoints": [
+        "Number of participants survival to discharge"
+      ],
+      "sponsor": "NICHD Neonatal Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT03927833"
+    }
+  ],
+  "timestamp": "2026-03-04T13:40:15.844229",
+  "success": true,
+  "error_message": null
+}

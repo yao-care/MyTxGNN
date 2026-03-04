@@ -1,0 +1,138 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Triamcinolone",
+    "disease": "erythema multiforme"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06132737",
+      "title": "An Open-label Dose Escalation Study to Evaluate Safety, Tolerability, Biodistribution and Efficacy of [90Y]Y-PentixaTher for the Therapy of Recurrent or Refractory Primary or Isolated Secondary Central Nervous System Lymphoma.",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-11-07",
+      "completion_date": "2028-03-26",
+      "country": "Germany",
+      "enrollment": 15,
+      "brief_summary": "This will be an open-label, single-arm, national phase 1/2 therapeutic study to evaluate the safety, tolerability, and preliminary efficacy of \\[90Y\\]Y-PentixaTher (\\[90Y\\]Y-PTT) for the treatment of recurrent or refractory primary or isolated secondary central nervous system (CNS) lymphoma.\n\nThe study will be performed in three cohorts with different dose levels according to the best-of-5 dose escalation design. A safety review committee (SRC) will evaluate dose-limiting toxicities and decide a",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients are eligible to be included in the study only if all of the following criteria apply and are maintained at Day -2 to Day 0 (before IMP infusion):\n\n1. Signed informed consent, by the patient or an authorized legal guardian in case the patient is temporarily not competent",
+      "endpoints": [
+        "Incidence, severity and relationship of (S)AEs (graded in severity according to NCI CTCAE version 5.0)"
+      ],
+      "sponsor": "Pentixapharm AG",
+      "url": "https://clinicaltrials.gov/study/NCT06132737"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05844618",
+      "title": "A Randomized, Intraindividual, Phase 4 Study to Evaluate the Short-Term Efficacy of Triamcinolone Acetonide (Aristocort® C) in Subjects with Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-05-09",
+      "completion_date": "2025-03-24",
+      "country": "Canada",
+      "enrollment": 20,
+      "brief_summary": "This study is a randomized, intraindividual study to evaluate the short-term efficacy of triamcinolone acetonide (Aristocort® C) in subjects with atopic dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subjects 18 years of age or older at the time of consent.\n2. Subject has clinically confirmed diagnosis of active AD, according to Hanifin and Rajka criteria.\n3. Subject has at least a 6-month history of AD and had no significant flares in AD for at least 4 wee",
+      "endpoints": [
+        "Change from baseline in pruritus NRS on AD lesions"
+      ],
+      "sponsor": "Innovaderm Research Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05844618"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05278858",
+      "title": "Needle-free Delivery of Intralesional Triamcinolone for Pediatric Alopecia Areata: a Pilot Study of Patient Tolerability",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2022-03-24",
+      "completion_date": "2023-06-06",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "This is an interventional pilot study assessing the tolerability of needle-free delivery administration of ILTA with the Med-Jet as an alternative to conventional syringe and needle in patients with patchy pediatric alopecia areata. There will be a total of four (4) or five (5) visits necessary for study participation. The investigators hypothesize that the Med-Jet will have acceptable pain tolerability, efficacy, safety, and a positive impact on patient quality of life.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with alopecia areata by either:\n\n  * A board-certified dermatologist, OR\n  * Dermatology Nurse Practitioner, OR\n  * Skin punch biopsy\n* Patient has at least 2 alopecic patches each measuring at least 2 cm2 and are…\n\n  * Located on contralateral body sites OR\n  * With",
+      "endpoints": [
+        "Determine Patient Tolerability of Needle-free Delivery of Intralesional Triamcinolone Using the Patient-reported Outcomes of a Pain Score Assessment and a Patient Survey."
+      ],
+      "sponsor": "University Hospitals Cleveland Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05278858"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06186596",
+      "title": "Patient Self-Administered Intralesional Injections of Triamcinolone for Acne Vulgaris",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-02-01",
+      "completion_date": "2024-01-31",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "The goal of this clinical trial is to test the safety of intralesional injections of triamcinolone self-administered into acne lesions via an injection assistance device. The main question\\[s\\] it aims to answer are:\n\n* is use of the injection assistance device safe?\n* is delivery of triamcinolone to acne lesions via the injection assistance device efficacious?\n\nParticipants will self-inject low dose triamcinolone into acne lesions and track lesion response via photos and survey for 14 days foll",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Outpatient, male or female of any race, 18 years of age or older. Female subjects of childbearing potential must have a negative UPT at Baseline.\n2. Diagnosed with facial acne vulgaris.\n3. At least one (1) identifiable inflammatory lesion that, in the opinion of the investiga",
+      "endpoints": [
+        "Incidence of adverse events following device use"
+      ],
+      "sponsor": "ACOM Labs",
+      "url": "https://clinicaltrials.gov/study/NCT06186596"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06170593",
+      "title": "Intralesional Injections of Triamcinolone for Acne Vulgaris",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-11-15",
+      "completion_date": "2023-02-14",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This proof-of-concept study seeks to investigate the safety of intralesional injections of triamcinolone for acne vulgaris lesions using an Intradermal Needle Adapter.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient, male or female of any race, 18 years of age or older. Female subjects of childbearing potential must have a negative urine pregnancy test at Baseline.\n* Diagnosed with facial acne vulgaris.\n* At least one (1) identifiable inflammatory lesion that, in the opinion of",
+      "endpoints": [
+        "Safety of intralesional triamcinolone injection"
+      ],
+      "sponsor": "ACOM Labs",
+      "url": "https://clinicaltrials.gov/study/NCT06170593"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01712685",
+      "title": "PET Imaging Of Renal Cell Carcinoma With 18F-VM4-037: A Phase II Pilot Study For Detection Of Disease And Correlation With VHL Mutation Status",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2012-10",
+      "completion_date": "2013-08",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "Background:\n\n\\- The drug 18F-VM4-037 is being tested for use in cancer imaging studies. It may help tumor tissue show up more clearly during scans. Researchers want to see how well it works for scans for people who have kidney cancer.\n\nObjectives:\n\n\\- To test the safety and effectiveness of 18F-VM4-037 during imaging studies of kidney cancer.\n\nEligibility:\n\n\\- Adults at least 18 years of age with kidney cancer that will be treated with surgery.\n\nDesign:\n\n* Participants will be screened with a ph",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n* Subject is greater than or equal to18 years old.\n* Subject must be scheduled to undergo surgery or biopsy for primary renal cell carcinoma (RCC) greater than or equal to 2.5cm in diameter or extrarenal/extrahepatic metastatic RCC lesion (greater than or equal to1cm in diamete",
+      "endpoints": [
+        "Level of Uptake of 18F-VM4-037 in Tumor and Non Tumor Tissues, Calculated as Standardized Uptake Values (SUVs)"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01712685"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05106192",
+      "title": "Triamcinolone Acetonide Injections in Primary Cutaneous Lymphoma Plaques With a Novel Needle-free Drug-delivery System.",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2022-04-01",
+      "completion_date": "2026-06-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "A study to compare pain differences between using MedJet needle-free drug-delivery system with standard of care treatment for cutaneous T-cell lymphomas and cutaneous B-cell lymphomas in participants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. \\> 18 years of age\n2. Diagnosed with primary cutaneous lymphoma defined by either:\n\n   * A board-certified dermatologist, OR\n   * Dermatology Nurse Practitioner, OR\n   * Skin punch biopsy\n3. The presence of plaque-type primary cutaneous lymphoma lesions with at least two plaq",
+      "endpoints": [
+        "Pain measurement between the Med-Jet and standard of care treatment."
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT05106192"
+    }
+  ],
+  "timestamp": "2026-03-04T13:22:55.271444",
+  "success": true,
+  "error_message": null
+}

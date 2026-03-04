@@ -1,0 +1,121 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Hydrocortisone",
+    "disease": "erythema multiforme"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02153762",
+      "title": "Assessment of Application Order When Utilizing Locoid Lotion and Hylatopic Plus Cream in the Treatment of Atopic Dermatitis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-04",
+      "completion_date": "2014-01",
+      "country": "United States",
+      "enrollment": 41,
+      "brief_summary": "The purpose of this study is to evaluate the safety and tolerability, as well as effectiveness, with regards to the order of application for Locoid Lipocream and Hylatopic Plus cream in patients with atopic dermatitis (AD), which is a type of skin rash.Topical skin barrier repair therapies (BRT) that are plain moisturizing creams/lotions with added lipids (fats/oils), such as Hylatopic Plus cream, have emerged as an effective addition to the the treatment of atopic dermatitis. BRTs are often use",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* subjects of at least 3 months of age.\n* clinical diagnosis of stable mild to moderate AD using the Hanifin and Rajka criteria for diagnosing AD\n* AD lesions of similar size and severity of bilateral anatomic location\n* a SPGA score of 2 or 3 and at least 10% BSA involvement at",
+      "endpoints": [
+        "Change from Baseline Treatment Success at Day 29"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT02153762"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05199376",
+      "title": "Evaluation of Percutaneous Cryotherapy in the Treatment of Plexiform Neurofibromas and Unresectable Neurofibromas in Neurofibromatosis Type 1 (NF1)",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2022-02-14",
+      "completion_date": "2027-02-07",
+      "country": "France",
+      "enrollment": 30,
+      "brief_summary": "Neurofibromatosis type 1 (NF1) is an autosomal dominant disease affecting chromosome 17. It is manifested by a neurogenic tumor proliferation that forms cutaneous, subcutaneous or deep neurofibromas.\n\nNeurofibromas can cause functional discomfort, neurogenic pain that is difficult to treat, and severe cosmetic disorders.\n\nTreatment is essentially surgical. It is sometimes a heavy invasive surgery with complicated postoperative follow-up and significant scarring on the aesthetic level. Currently,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years;\n* Patient with neurofibromatosis type 1 according to NIH criteria ;\n* Patient with a benign neurofibromatous lesion that is painful and/or generates functional discomfort and is unresectable or with unacceptable scarring ;\n* Neutrophils \\> 1 G/l in the 14 days p",
+      "endpoints": [
+        "To evaluate the impact of percutaneous cryotherapy on physical health-related quality of life (in patients with inoperable (or operable with mutilating surgery) neurofibroma."
+      ],
+      "sponsor": "Centre Leon Berard",
+      "url": "https://clinicaltrials.gov/study/NCT05199376"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00332163",
+      "title": "A Phase 2, Open-label, Randomized Clinical Trial of Skin Toxicity Treatment in Subjects Receiving Second-line FOLFIRI or Irinotecan Only Chemotherapy Concomitantly With Panitumumab",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2008-09",
+      "country": "N/A",
+      "enrollment": 95,
+      "brief_summary": "A comparison of prophylactic treatment with reactive treatment for skin toxicity observed in patients with metastatic colorectal cancer (mCRC) who are receiving second-line irinotecan-based chemotherapy concomitantly with panitumumab.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with unresectable metastatic adenocarcinoma of the colon or rectum that cannot, in the opinion of the investigator, be cured by surgical resection at the time of randomization;\n* Patients who have failed first line treatment containing fluoropyrimidine and oxaliplatin",
+      "endpoints": [
+        "Percentage of Participants With Specific Grade 2 or Higher Skin Toxicities During the 6-week Skin Treatment Period"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00332163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05468372",
+      "title": "A Randomized Controlled Trial of Amphotericin B Versus Posaconazole for Treating Pulmonary Mucormycosis",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-07-01",
+      "completion_date": "2025-07-30",
+      "country": "India",
+      "enrollment": 50,
+      "brief_summary": "Pulmonary mucormycosis is a serious illness with high morbidity and mortality (approximately 57%). Surgery and antifungal therapy are central in the management of mucormycosis. Unlike rhino-orbital mucormycosis, surgery is not feasible in several patients with pulmonary mucormycosis. Hence, treatment is primarily with antifungal therapy. Amphotericin B is the standard of care in the medical management of mucormycosis. However, amphotericin B is expensive, has significant adverse events, and is a",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects with proven or probable pulmonary mucormycosis. Participants with a suspicion of pulmonary mucormycosis (as defined previously) based on compatible clinical presentation and compatible imaging will be screened for inclusion in the study.\n\nExclusion Criteria:\n\n* Failure ",
+      "endpoints": [
+        "The proportion of participants achieving a successful outcome (complete response or partial response) at the completion of six weeks. The response assessment will be a composite of clinical and radiological as adjudged by a multidisciplinary team"
+      ],
+      "sponsor": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+      "url": "https://clinicaltrials.gov/study/NCT05468372"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06878729",
+      "title": "Antegrade Dissection and Re-entry Versus Retrograde Strategy in Chronic Total Occlusion Percutaneous Coronary Intervention",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-07-28",
+      "completion_date": "2028-09-30",
+      "country": "Poland",
+      "enrollment": 74,
+      "brief_summary": "The ADRENALINE trial has been designed as a multi-center, prospective randomized study to compare the procedural and periprocedural outcomes of coronary chronic total occlusion (CTO) percutaneous coronary intervention (PCI) using antegrade dissection and re-entry (ADR) versus retrograde strategy. Beyond the patient-oriented outcomes, the influence of the studied CTO PCI strategies on the stress levels among interventional cardiologists will be explored.\n\nThe main questions it aims to answer are ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* clinical indication for CTO PCI as determined by the local heart team (presence of angina or equivalent symptoms and/or documented ischemia or viability)\n* at least difficult native CTO lesion with J-CTO difficulty score ≥2 points on invasive angiography\n* angiographic suitabi",
+      "endpoints": [
+        "Total procedure time",
+        "Successful guidewire crossing through CTO"
+      ],
+      "sponsor": "National Institute of Cardiology, Warsaw, Poland",
+      "url": "https://clinicaltrials.gov/study/NCT06878729"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01650194",
+      "title": "A Phase 2 Study Determining Safety and Tolerability of Enzalutamide (Formerly MDV3100) in Combination With Abiraterone Acetate in Bone Metastatic Castration-Resistant Prostate Cancer Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-07-09",
+      "completion_date": "2018-01-04",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study was to explore the safety and tolerability of enzalutamide in combination with abiraterone acetate plus prednisone. Subjects diagnosed with cancer of the prostate that was getting worse and spreading to the bone despite receiving hormone treatment were enrolled and received study treatment until disease progression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate without neuroendocrine differentiation or small cell features\n* Presence of metastatic disease to the bone\n* Ongoing androgen deprivation therapy with a gonadotropin releasing hormone (GnRH) analogue or o",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs)"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT01650194"
+    }
+  ],
+  "timestamp": "2026-03-04T13:16:37.205292",
+  "success": true,
+  "error_message": null
+}

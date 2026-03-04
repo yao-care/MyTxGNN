@@ -1,0 +1,621 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Telmisartan",
+    "disease": "stroke disorder",
+    "query_string": "Telmisartan AND stroke disorder"
+  },
+  "data": {
+    "query": "Telmisartan AND stroke disorder",
+    "results": [
+      {
+        "pmid": "18378520",
+        "title": "Telmisartan, ramipril, or both in patients at high risk for vascular events.",
+        "abstract": "In patients who have vascular disease or high-risk diabetes without heart failure, angiotensin-converting-enzyme (ACE) inhibitors reduce mortality and morbidity from cardiovascular causes, but the role of angiotensin-receptor blockers (ARBs) in such patients is unknown. We compared the ACE inhibitor ramipril, the ARB telmisartan, and the combination of the two drugs in patients with vascular disease or high-risk diabetes.",
+        "journal": "The New England journal of medicine",
+        "year": "2008",
+        "authors": [
+          "Yusuf Salim",
+          "Teo Koon K",
+          "Pogue Janice",
+          "Dyal Leanne"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Angioedema",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Cardiovascular Diseases",
+          "Creatinine",
+          "Diabetes Mellitus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18378520/"
+      },
+      {
+        "pmid": "38926677",
+        "title": "The angiotensin II receptors type 1 and 2 modulate astrocytes and their crosstalk with microglia and neurons in an in vitro model of ischemic stroke.",
+        "abstract": "Astrocytes are the most abundant cell type of the central nervous system and are fundamentally involved in homeostasis, neuroprotection, and synaptic plasticity. This regulatory function of astrocytes on their neighboring cells in the healthy brain is subject of current research. In the ischemic brain we assume disease specific differences in astrocytic acting. The renin-angiotensin-aldosterone system regulates arterial blood pressure through endothelial cells and perivascular musculature. Moreover, astrocytes express angiotensin II type 1 and 2 receptors. However, their role in astrocytic function has not yet been fully elucidated. We hypothesized that the angiotensin II receptors impact astrocyte function as revealed in an in vitro system mimicking cerebral ischemia. Astrocytes derived from neonatal wistar rats were exposed to telmisartan (angiotensin II type 1 receptor-blocker) or PD123319 (angiotensin II type 2 receptor-blocker) under normal conditions (control) or deprivation from",
+        "journal": "BMC neuroscience",
+        "year": "2024",
+        "authors": [
+          "Olschewski Daniel Navin",
+          "Nazarzadeh Nilufar",
+          "Lange Felix",
+          "Koenig Anna Maria",
+          "Kulka Christina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Rats",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin II Type 2 Receptor Blockers",
+          "Animals, Newborn",
+          "Astrocytes",
+          "Benzimidazoles",
+          "Cell Communication",
+          "Cells, Cultured",
+          "Imidazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38926677/"
+      },
+      {
+        "pmid": "36577854",
+        "title": "A Novel Hybrid of Telmisartan and Borneol Ameliorates Neuroinflammation and White Matter Injury in Ischemic Stroke Through ATF3/CH25H Axis.",
+        "abstract": "Cerebral ischemic stroke causes substantial white matter injury, which is further aggravated by neuroinflammation mediated by microglia/astrocytes. Given the anti-neuroinflammatory action of telmisartan and the enhancing blood-brain barrier (BBB) permeability potential of resuscitation-inducing aromatic herbs, 13 hybrids (3a-m) of telmisartan (or its simplified analogues) with resuscitation-inducing aromatic agents were designed, synthesized, and biologically evaluated. Among them, the optimal compound 3a (the ester hybrid of telmisartan and (+)-borneol) potently inhibited neuroinflammation mediated by microglia/astrocytes and ameliorated ischemic stroke. Particularly, 3a significantly conferred protection for white matter integrity after cerebral ischemic stroke via decreasing abnormally dephosphorylated neurofilament protein, upregulating myelin basic protein, and attenuating oligodendrocyte damage. Further RNA-sequencing data revealed that 3a upregulated expression of transcriptiona",
+        "journal": "Translational stroke research",
+        "year": "2024",
+        "authors": [
+          "Guan Xin",
+          "Wu Jianbing",
+          "Geng Jiahui",
+          "Ji Duorui",
+          "Wei Dasha"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Telmisartan",
+          "Ischemic Stroke",
+          "White Matter",
+          "Neuroinflammatory Diseases",
+          "Stroke",
+          "Brain Injuries",
+          "Microglia",
+          "Activating Transcription Factor 3",
+          "Camphanes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36577854/"
+      },
+      {
+        "pmid": "25591419",
+        "title": "Protective effect of telmisartan on neurovascular unit and inflammasome in stroke-resistant spontaneously hypertensive rats.",
+        "abstract": "Hypertension is a crucial risk factor for both stroke and dementia, including Alzheimer's disease (AD). We inspected the effect of telmisartan on the neurovascular unit (NVU) and related inflammatory responses in spontaneously hypertensive rat stroke resistant (SHR-SR) by observing the components of NVU such as N-acetyl glucosamine oligomer (NAGO), collagen IV, astrocytes, and matrix metalloproteinase-9 (MMP-9), as well as inflammasome NOD-like receptors family protein 3 (NLRP3).",
+        "journal": "Neurological research",
+        "year": "2015",
+        "authors": [
+          "Liu Wentao",
+          "Yamashita Toru",
+          "Kurata Tomoko",
+          "Kono Syoichiro",
+          "Hishikawa Nozomi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aging",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Carrier Proteins",
+          "Cerebral Cortex",
+          "Collagen",
+          "Disease Models, Animal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25591419/"
+      },
+      {
+        "pmid": "24065095",
+        "title": "Potential of the angiotensin receptor blockers (ARBs) telmisartan, irbesartan, and candesartan for inhibiting the HMGB1/RAGE axis in prevention and acute treatment of stroke.",
+        "abstract": "Stroke is a major cause of mortality and disability worldwide. The main cause of stroke is atherosclerosis, and the most common risk factor for atherosclerosis is hypertension. Therefore, antihypertensive treatments are recommended for the prevention of stroke. Three angiotensin receptor blockers (ARBs), telmisartan, irbesartan and candesartan, inhibit the expression of the receptor for advanced glycation end-products (RAGE), which is one of the pleiotropic effects of these drugs. High mobility group box 1 (HMGB1) is the ligand of RAGE, and has been recently identified as a lethal mediator of severe sepsis. HMGB1 is an intracellular protein, which acts as an inflammatory cytokine when released into the extracellular milieu. Extracellular HMGB1 causes multiple organ failure and contributes to the pathogenesis of hypertension, hyperlipidemia, diabetes mellitus, atherosclerosis, thrombosis, and stroke. This is the first review of the literature evaluating the potential of three ARBs for t",
+        "journal": "International journal of molecular sciences",
+        "year": "2013",
+        "authors": [
+          "Kikuchi Kiyoshi",
+          "Tancharoen Salunya",
+          "Ito Takashi",
+          "Morimoto-Yamashita Yoko",
+          "Miura Naoki"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Angiotensin Receptor Antagonists",
+          "Animals",
+          "Benzimidazoles",
+          "Benzoates",
+          "Biphenyl Compounds",
+          "HMGB1 Protein",
+          "Humans",
+          "Hypertension",
+          "Irbesartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24065095/"
+      },
+      {
+        "pmid": "24780412",
+        "title": "Telmisartan reduces progressive oxidative stress and phosphorylated α-synuclein accumulation in stroke-resistant spontaneously hypertensive rats after transient middle cerebral artery occlusion.",
+        "abstract": "Telmisartan is an angiotensin receptor blocker with high lipid solubility, also called metabosartan, which exerts a special protective effect on both acute brain damage and chronic neurodegeneration. We examined the effects of telmisartan on oxidative stress by advanced glycation end product (AGE) and 4-hydroxynonenal (4-HNE) assays and the accumulation of phosphorylated α-synuclein (pSyn) in the brain of stroke-resistant spontaneously hypertensive rats (SHR-SR). At the age of 12 weeks, SHR-SR received transient middle cerebral artery occlusion (tMCAO) for 90 minutes and were divided into the following 3 groups: the vehicle group, the low-dose telmisartan group (.3 mg/kg/day), and the high-dose telmisartan group (3 mg/kg/day, postoperatively). Immunohistologic analysis was performed when rats were 6, 12, and 18 months old. AGE, 4-HNE, and pSyn-positive cells (per square millimeter) increased with age in the cerebral cortex and hippocampus of the vehicle group, in the low-dose telmisart",
+        "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+        "year": "2014",
+        "authors": [
+          "Sato Kota",
+          "Yamashita Toru",
+          "Kurata Tomoko",
+          "Lukic Violeta",
+          "Fukui Yusuke"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aldehydes",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Brain",
+          "Glycation End Products, Advanced",
+          "Hypertension",
+          "Infarction, Middle Cerebral Artery"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24780412/"
+      },
+      {
+        "pmid": "35222797",
+        "title": "Endothelial MicroRNA-483-3p Is Hypertension-Protective.",
+        "abstract": "Hypertension is a high-risk factor for developing coronary heart disease and stroke. Endothelial dysfunction and arterial remodeling can lead to increased vascular wall thickness and arterial stiffness. Previous studies showed that microRNA-483 (miR-483) enhances endothelial cell (EC) function. Here, we investigated the protective role of miR-483 in hypertension. Data collected from two patient cohorts showed that the serum miR-483-3p level was associated with the progression of hypertension and positively correlated with vascular function. In cultured ECs, miR-483 targets a number of endothelial dysfunction-related genes, such as transforming growth factor-β (TGF-β), connective tissue growth factor (CTGF), angiotensin-converting enzyme 1 (ACE1), and endothelin-1 (ET-1). Overexpression of miR-483-3p in ECs inhibited Ang II-induced endothelial dysfunction, revealed by the decreased expression of TGF-β, CTGF, ACE1, and ET-1. Furthermore, miR-483-3p secreted from ECs was taken up by smoot",
+        "journal": "Oxidative medicine and cellular longevity",
+        "year": "2022",
+        "authors": [
+          "Shang Fenqing",
+          "Guo Xuan",
+          "Chen Yueer",
+          "Wang Chen",
+          "Gao Jie"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Angiotensin II",
+          "Animals",
+          "Antihypertensive Agents",
+          "Endothelial Cells",
+          "Exosomes",
+          "Humans",
+          "Hypertension",
+          "MicroRNAs",
+          "Muscle, Smooth, Vascular",
+          "Rats"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35222797/"
+      },
+      {
+        "pmid": "22115399",
+        "title": "Telmisartan for the reduction of cardiovascular morbidity and mortality.",
+        "abstract": "Cardiovascular disease (CVD) poses a significant healthcare and economic burden on societies and individuals. Angiotensin II is a key component of the renin-angiotensin system that plays a central role in atherosclerotic mechanisms that contribute to CVD. Renin-angiotensin system blockers are widely used to reduce cardiovascular (CV) risk owing to their potential both to lower blood pressure, a CV risk factor, and to attenuate the atherosclerotic disease process directly. Telmisartan has a number of pharmacological properties that distinguish it from other angiotensin II receptor blockers (ARBs) - the longest plasma half-life, highest lipophilicity and strongest receptor binding affinity in class. The ONTARGET(®) trial showed that telmisartan is as effective as ramipril in reducing CV morbidity (including myocardial infarction and stroke) and mortality in a broad range of patients at increased CV risk. Evidence from other ARBs remains largely restricted to patients with heart failure, ",
+        "journal": "Expert review of clinical pharmacology",
+        "year": "2011",
+        "authors": [
+          "Verdecchia Paolo",
+          "Angeli Fabio",
+          "Gentile Giorgio",
+          "Mazzotta Giovanni",
+          "Reboldi Gianpaolo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Animals",
+          "Benzimidazoles",
+          "Benzoates",
+          "Cardiovascular Diseases",
+          "Humans",
+          "Morbidity",
+          "Randomized Controlled Trials as Topic",
+          "Telmisartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22115399/"
+      },
+      {
+        "pmid": "17845921",
+        "title": "Antiplatelet effect of losartan and telmisartan in patients with ischemic stroke.",
+        "abstract": "Antiplatelet effects of angiotensin II receptor blocker have been suggested, but satisfactory results in clinical settings are lacking. We investigated spontaneous platelet aggregation (SPA) and CD62P levels in patients with hypertension and chronic-stage ischemic stroke. The study comprised 35 patients assigned to losartan (50 mg/day) or telmisartan (40 mg/day) for 4 weeks randomly. SPA was evaluated using laser-scattered light aggregometry and CD62P levels using whole blood flow cytometry before and after treatment. SPA was not significantly reduced after losartan or telmisartan treatment. CD62P was significantly reduced after losartan treatment (P = .016), but no significant differences were noted with telmisartan. These findings suggest that standard doses of losartan display antiplatelet effect as measured by CD62P levels.",
+        "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+        "year": "2007",
+        "authors": [
+          "Yamada Koji",
+          "Hirayama Toshikazu",
+          "Hasegawa Yasuhiro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Benzimidazoles",
+          "Benzoates",
+          "Biomarkers",
+          "Blood Platelets",
+          "Brain Ischemia",
+          "Chronic Disease",
+          "Female",
+          "Flow Cytometry"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17845921/"
+      },
+      {
+        "pmid": "40045320",
+        "title": "Development of cerebral microhemorrhages in a mouse model of hypertension.",
+        "abstract": "Cerebral microhemorrhages (CMH) are the pathological substrate for MRI-demonstrable cerebral microbleeds, which are associated with cognitive impairment and stroke. Aging and hypertension are the main risk factors for CMH. In this study, we investigated the development of CMH in a mouse model of aging and hypertension. Hypertension was induced in aged (17-month-old) female and male C57BL/6J mice via angiotensin II (Ang II), a potent vasoconstrictor. We investigated the vascular origin of CMH using three-dimensional images of 1-mm thick brain sections. We examined Ang II-induced CMH formation with and without telmisartan, an Ang II type 1 receptor (AT1R) blocker. To evaluate the effect of microglia and perivascular macrophages on CMH formation, mice were treated with PLX3397, a selective colony-stimulating factor 1 receptor (CSF1R) inhibitor, to achieve microglial and macrophage depletion. Iba-1 and CD206 labeling were used to study the relative contributions of microglia and macrophage",
+        "journal": "Journal of neuroinflammation",
+        "year": "2025",
+        "authors": [
+          "Xie Danny F",
+          "Fang Chuo",
+          "Crouzet Christian",
+          "Hung Yu-Han",
+          "Vallejo Adrian"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Mice",
+          "Male",
+          "Mice, Inbred C57BL",
+          "Hypertension",
+          "Disease Models, Animal",
+          "Cerebral Hemorrhage",
+          "Angiotensin II",
+          "Female",
+          "Telmisartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40045320/"
+      },
+      {
+        "pmid": "19587553",
+        "title": "Preventing stroke: the PRoFESS, ONTARGET, and TRANSCEND trial programs.",
+        "abstract": "Renin-angiotensin system blockers have been shown to reduce stroke risk, partly independent of their blood pressure-lowering effect. The PReventiOn regimen For Effectively avoiding Second Strokes (PRoFESS) trial, ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial (ONTARGET) and Telmisartan Randomized AssessmeNt Study in aCE-iNtolerant subjects with cardiovascular Disease (TRANSCEND) recently showed potential benefits of the angiotensin II receptor blocker, telmisartan, in reducing secondary strokes. In PRoFESS, 20 332 ischemic stroke patients were randomized to telmisartan 80 mg versus placebo and to two antiplatelets in a 2 x 2 factorial design. After a mean exposure of 2 years, telmisartan showed a nonsignificant lower rate of recurrent stroke versus placebo [880 versus 934; hazard ratio 0.95; 95% confidence interval (CI) 0.86-1.04]. In a post-hoc analysis, from 6 months, telmisartan significantly reduced the number of strokes versus placebo (533 versus ",
+        "journal": "Journal of hypertension. Supplement : official journal of the International Society of Hypertension",
+        "year": "2009",
+        "authors": [
+          "Diener Hans-Christoph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Benzimidazoles",
+          "Benzoates",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19587553/"
+      },
+      {
+        "pmid": "25241340",
+        "title": "Telmisartan reduces progressive accumulation of cellular amyloid beta and phosphorylated tau with inflammatory responses in aged spontaneously hypertensive stroke resistant rat.",
+        "abstract": "In addition to reducing the level of blood pressure (BP), telmisartan was expected to show the long-term neuroprotective effects preventing accumulation of cellular amyloid beta peptide (Aβ) and phosphorylated tau (pτ) by ameliorating neuroinflammation.",
+        "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+        "year": "2014",
+        "authors": [
+          "Kurata Tomoko",
+          "Lukic Violeta",
+          "Kozuki Miki",
+          "Wada Daisuke",
+          "Miyazaki Kazunori"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Amyloid beta-Peptides",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Benzimidazoles",
+          "Benzoates",
+          "Calcium-Binding Proteins",
+          "Cerebral Cortex",
+          "Chemokine CCL2",
+          "Inflammation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25241340/"
+      },
+      {
+        "pmid": "25194744",
+        "title": "Strong reduction of low-density lipoprotein receptor/apolipoprotein E expressions by telmisartan in cerebral cortex and hippocampus of stroke resistant spontaneously hypertensive rats.",
+        "abstract": "Telmisartan is a unique angiotensin II type 1 receptor blocker with a partial peroxisome proliferator-activated receptor-γ (PPARγ) agonistic property to exert not only antihypertensive effect but also antimetabolic syndrome effect.",
+        "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+        "year": "2014",
+        "authors": [
+          "Zhai Yun",
+          "Yamashita Toru",
+          "Kurata Tomoko",
+          "Fukui Yusuke",
+          "Sato Kota"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Apolipoproteins E",
+          "Benzimidazoles",
+          "Benzoates",
+          "Cerebral Cortex",
+          "Dementia, Vascular",
+          "Dose-Response Relationship, Drug",
+          "Hippocampus",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25194744/"
+      },
+      {
+        "pmid": "12781906",
+        "title": "The ongoing telmisartan alone and in combination with ramipril global endpoint trial program.",
+        "abstract": "The renin-angiotensin system evolved to maintain volume homeostasis and blood pressure and to prevent ischemia during acute volume loss. But in the present age, these mechanisms are redundant, and the clinical significance of angiotensin II results from its pathologic effects, which are mediated by the angiotensin II type 1 (AT(1)) receptor. Activation of AT(1) receptors has been linked to pathologic processes that contribute to atherosclerosis and ischemic events, including oxidative stress, inflammatory processes, low-density lipoprotein cholesterol trafficking, and prothrombotic states. The Ongoing Telmisartan Alone and in Combination with Ramipril Global Endpoint Trial (ONTARGET) program will compare the efficacy of the angiotensin II receptor blocker (ARB) telmisartan, the angiotensin-converting enzyme (ACE) inhibitor ramipril, and combination therapy with telmisartan plus ramipril for reducing cardiovascular risk. The ARB telmisartan is distinguished by its long duration of actio",
+        "journal": "The American journal of cardiology",
+        "year": "2003",
+        "authors": [
+          "Unger Thomas"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II",
+          "Angiotensin Receptor Antagonists",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Benzimidazoles",
+          "Benzoates",
+          "Cardiovascular Diseases",
+          "Clinical Trials as Topic",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Ramipril"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12781906/"
+      },
+      {
+        "pmid": "19797187",
+        "title": "Effect of telmisartan on functional outcome, recurrence, and blood pressure in patients with acute mild ischemic stroke: a PRoFESS subgroup analysis.",
+        "abstract": "High blood pressure (BP) is common in acute ischemic stroke and associated independently with a poor functional outcome. However, the management of BP acutely remains unclear because no large trials have been completed.",
+        "journal": "Stroke",
+        "year": "2009",
+        "authors": [
+          "Bath Philip M W",
+          "Martin Reneé H",
+          "Palesch Yuko",
+          "Cotton Daniel",
+          "Yusuf Salim"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Brain Ischemia",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19797187/"
+      },
+      {
+        "pmid": "40536710",
+        "title": "The application of telmisartan in central nervous system disorders.",
+        "abstract": "Telmisartan, a well-established antihypertensive drug, has shown promising therapeutic potential for a variety of central nervous system (CNS) disorders. This review outlines the fundamental characteristics of telmisartan, focusing on its dual pharmacological effects as an angiotensin II type 1 receptor (AT1R) antagonist and a peroxisome proliferator-activated receptor (PPAR) γ activator. These mechanisms underpin its neuroprotective and anti-inflammatory effects, which are essential to its therapeutic benefits in CNS diseases. Telmisartan modulates key cellular components of the CNS, including microglia, astrocytes, oligodendrocytes, vascular endothelial cells, and neurons, thereby offering protection against neuroinflammation, oxidative stress, and neuronal damage. We summarize telmisartan's efficacy in addressing a range of neurological conditions, such as stroke, traumatic brain injury, dementia, Parkinson's disease, demyelinating diseases, psychiatric disorders, and gliomas. By ta",
+        "journal": "Pharmacological reports : PR",
+        "year": "2025",
+        "authors": [
+          "Quan Wei",
+          "Zhang Shui-Xian",
+          "Zhang Xu-Yang",
+          "Chen Xi",
+          "Yang Chao"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Telmisartan",
+          "Humans",
+          "Animals",
+          "Central Nervous System Diseases",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Neuroprotective Agents",
+          "PPAR gamma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40536710/"
+      },
+      {
+        "pmid": "17938615",
+        "title": "A perspective on telmisartan and cardiovascular risk.",
+        "abstract": "The angiotensin receptor blockers (ARBs) are well established as safe and effective in the treatment of arterial hypertension. Telmisartan is an ARB with potent blood-pressure lowering effects. It has a long terminal half-life of about 24 hours (the longest of any of the ARBs), which enables it to sustain blood pressure reductions in the early morning hours, after the previous morning dosing. Unlike the angiotensin-converting enzyme (ACE) inhibitors, the ARBs have not been shown to reduce mortality and morbidity in high-risk patients with coronary disease, peripheral vascular disease, cerebrovascular disease, or diabetes with cardiovascular risk factors without evidence of heart failure or low ejection fraction. Two studies, the ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial (ONTARGET) and the Telmisartan Randomized AssessmeNt Study in ACE-I INtolerant Subjects with Cardiovascular Disease (TRANSCEND) trial, are examining the benefits of ARBs alone and ",
+        "journal": "Reviews in cardiovascular medicine",
+        "year": "2007",
+        "authors": [
+          "Giles Thomas D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Benzimidazoles",
+          "Benzoates",
+          "Cardiovascular Diseases",
+          "Clinical Trials as Topic",
+          "Drug Therapy, Combination",
+          "Half-Life",
+          "Humans",
+          "Peripheral Vascular Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17938615/"
+      },
+      {
+        "pmid": "21152242",
+        "title": "Clinical effectiveness of telmisartan alone or in combination therapy for controlling blood pressure and vascular risk in the elderly.",
+        "abstract": "Elderly patients (age ≥ 65 years) with hypertension are at high risk for vascular complications, especially when diabetes is present. Antihypertensive drugs that inhibit the renin-angiotensin system have been shown to be effective for controlling blood pressure in adult and elderly patients. Importantly, renin-angiotensin system inhibitors were shown to have benefits beyond their classic cardioprotective and vasculoprotective effects, including reducing the risk of new-onset diabetes and associated cardiovascular effects. The discovery that the renin-angiotensin system inhibitor and angiotensin II type 1 (AT(1)) receptor blocker (ARB), telmisartan, can selectively activate the peroxisome proliferator-activated receptor-γ (PPARγ, an established antidiabetic drug target) provides the unique opportunity to prevent and treat cardiovascular complications in high-risk elderly patients with hypertension and new-onset diabetes. Two large clinical trials, ONTARGET (Ongoing Telmisartan Alone in ",
+        "journal": "Clinical interventions in aging",
+        "year": "2010",
+        "authors": [
+          "Jugdutt Bodh I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Comorbidity",
+          "Diabetes Mellitus, Type 2",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21152242/"
+      },
+      {
+        "pmid": "34342551",
+        "title": "Telmisartan ameliorates cardiac fibrosis and diastolic function in cardiorenal heart failure with preserved ejection fraction.",
+        "abstract": "Chronic kidney disease (CKD) is a major contributor to the development of heart failure with preserved ejection fraction (HFpEF), whereas the underlying mechanism of cardiorenal HFpEF is still elusive. The aim of this study was to investigate the role of cardiac fibrosis in a rat model of cardiorenal HFpEF and explore whether treatment with Telmisartan, an inhibitor of renin-angiotensin-aldosterone system (RAAS), can ameliorate cardiac fibrosis and preserve diastolic function in cardiorenal HFpEF. Male rats were subjected to 5/6 subtotal nephrectomy (SNX) or sham operation (Sham), and rats were allowed four weeks to recover and form a stable condition of CKD. Telmisartan or vehicle was then administered p.o. (8 mg/kg/d) for 12 weeks. Blood pressure, brain natriuretic peptide (BNP), echocardiography, and cardiac magnetic resonance imaging were acquired to evaluate cardiac structural and functional alterations. Histopathological staining, real-time polymerase chain reaction (PCR) and wes",
+        "journal": "Experimental biology and medicine (Maywood, N.J.)",
+        "year": "2021",
+        "authors": [
+          "Chang Di",
+          "Xu Ting-Ting",
+          "Zhang Shi-Jun",
+          "Cai Yu",
+          "Min Shu-Dan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Antihypertensive Agents",
+          "Blood Flow Velocity",
+          "Blood Pressure",
+          "Cardio-Renal Syndrome",
+          "Diastole",
+          "Disease Models, Animal",
+          "Echocardiography",
+          "Fibrosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34342551/"
+      },
+      {
+        "pmid": "34280191",
+        "title": "Telmisartan use and risk of dementia in type 2 diabetes patients with hypertension: A population-based cohort study.",
+        "abstract": "Angiotensin receptor blockers (ARBs) may have protective effects against dementia occurrence in patients with hypertension (HTN). However, whether telmisartan, an ARB with peroxisome proliferator-activated receptor γ (PPAR-γ)-modulating effects, has additional benefits compared to other ARBs remains unclear.",
+        "journal": "PLoS medicine",
+        "year": "2021",
+        "authors": [
+          "Liu Chi-Hung",
+          "Sung Pi-Shan",
+          "Li Yan-Rong",
+          "Huang Wen-Kuan",
+          "Lee Tay-Wey"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Asian People",
+          "Cohort Studies",
+          "Dementia",
+          "Diabetes Mellitus, Type 2",
+          "Female",
+          "Humans",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34280191/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:41:14.565564",
+  "success": true,
+  "error_message": null
+}

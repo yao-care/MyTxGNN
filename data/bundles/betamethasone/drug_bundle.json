@@ -1,0 +1,3525 @@
+{
+  "drug": {
+    "name": "Betamethasone",
+    "drugbank_id": "DB00443",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "erythema multiforme",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00820950",
+            "title": "A Double-Blind, Vehicle-Controlled, Rising Dose, Safety, Tolerability, Pharmacokinetic and Preliminary Efficacy Study of Ruxolitinib Phosphate Cream When Applied to Patients With Plaque Psoriasis",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2007-05-31",
+            "completion_date": "2009-04-30",
+            "country": "United States",
+            "enrollment": 29,
+            "brief_summary": "The study is comprised of two parts. The first portion of this study will be a double-blind, Sponsor-unblinded, vehicle-controlled study with application of ruxolitinib or vehicle to paired lesions at least 15 cm apart in patients with active but stable plaque psoriasis. Part 2 of the study is a double-blind, sponsor unblinded, comparison of ruxolitinib with two FDA approved products in patients with active but stable plaque psoriasis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Body Mass Index (BMI) of 17 to 40 kg/m2\n* Subjects must have two comparable psoriatic lesions measuring between 9 and 100 cm2 and these target lesions must be similar in size to each other, and separated by at least 15 cm.\n\nExclusion Criteria:\n\n* Subjects with lesions solely i",
+            "endpoints": [
+              "Change in Target Lesion Individual Component Scores for Erythema, Scaling and Thickness Compared to Baseline",
+              "Change in Target Lesion TOTAL Score (Sum of Erythema + Scaling + Thickness) Compared to Baseline",
+              "Number of Participants With Treatment Emergent Adverse Events"
+            ],
+            "sponsor": "Incyte Corporation",
+            "url": "https://clinicaltrials.gov/study/NCT00820950"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03331523",
+            "title": "A Phase III, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multiple-Site Study to Evaluate the Therapeutic Equivalence of a Generic Calcipotriene and Betamethasone Dipropionate Topical Suspension, 0.005%/0.064% (Glenmark Pharmaceuticals Ltd) to the Marketed Product Taclonex® Topical Suspension (LEO Pharma Inc.) in the Treatment of Scalp Psoriasis",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2017-10-20",
+            "completion_date": "2018-10-25",
+            "country": "United States",
+            "enrollment": 643,
+            "brief_summary": "This is a phase III, randomized, double-blind, placebo-controlled, parallel- group, multiple-site study to evaluate the therapeutic equivalence of generic calcipotriene and betamethasone dipropionate topical suspension, 0.005%/0.064% of Glenmark Pharmaceuticals Ltd to that of the marketed product Taclonex® topical suspension of Leo Pharma Inc. in the treatment of scalp psoriasis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or non-pregnant, non-lactating female subjects aged at least 18 years at Visit 1.\n2. A clinical diagnosis of stable (at least 6 months) scalp psoriasis involving at least 10% of the scalp and clinical signs of psoriasis vulgaris on trunk and/or limbs.\n3. A PGA of disease",
+            "endpoints": [
+              "Proportion of subjects in each treatment group with treatment success, defined as a score of 0 or 1, within the treatment area(s) on the PGA scale of disease severity, at the end of study visit.",
+              "Proportion of subjects in each treatment group with clinical success, defined as a score of 0 or 1, at the target lesion site on the PASI scale at the end of study visit."
+            ],
+            "sponsor": "Glenmark Pharmaceuticals Ltd. India",
+            "url": "https://clinicaltrials.gov/study/NCT03331523"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02319616",
+            "title": "A Randomized Placebo Controlled Split-body Double-blind Phase II Clinical Trial to Investigate the Safety and Efficacy of Clobetasol 0.05% Ointment for the Treatment of Toxic Epidermal Necrolysis (TEN)",
+            "phase": "PHASE1, PHASE2",
+            "status": "WITHDRAWN",
+            "start_date": "2016-11",
+            "completion_date": "2019-02-06",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "The primary objectives of this study are to investigate the efficacy and safety of topical steroid ointment (clobetasol 0.05%) for the treatment of the cutaneous manifestations of toxic epidermal necrolysis (TEN).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Characteristic histological findings on diagnostic biopsy\n* Clinical diagnosis verified by two independent physicians\n* Greater than 10% affected body surface area (BSA)\n* Ability to start treatment within seven days or less from the onset of erosions\n* Actively worsening dise",
+            "endpoints": [
+              "Safety (numeric cellulitis score)",
+              "Time to Cessation of Skin Detachment"
+            ],
+            "sponsor": "University of California, Davis",
+            "url": "https://clinicaltrials.gov/study/NCT02319616"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00470392",
+            "title": "Mechanistically-based Optimization of UV Radiation Therapy in Psoriasis",
+            "phase": "NA",
+            "status": "TERMINATED",
+            "start_date": "2007-05",
+            "completion_date": "2012-07",
+            "country": "United States",
+            "enrollment": 9,
+            "brief_summary": "The purpose of this study is 1) to determine whether Imiquimod or Steroid pretreatment modifies UVB laser light response resulting in increased cell death compared to UVB laser light alone; 2) to determine if pretreatment of psoriatic lesions with Imiquimod or Steroid prior to UVB laser light exposure selectively effects various T cell functions; 3) to determine clinical results from the Imiquimod/Steroid/UVB laser light and correlate those changes with immuno-histochemical changes in the skin; ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* The presence of plaque-type psoriasis in areas of the trunk, buttocks, or extremities that are amenable to biopsy and evaluable disease in at least 2 cm target treatment sites separated by 1 cm\n* Age 18-80, both genders, all ethnicities\n* No contraindications to phototherapy o",
+            "endpoints": [
+              "Number of Subjects With Elevated MyxA"
+            ],
+            "sponsor": "VA Office of Research and Development",
+            "url": "https://clinicaltrials.gov/study/NCT00470392"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03731091",
+            "title": "A Phase III, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multiple-Site Study to Evaluate the Therapeutic Equivalence of a Generic Calcipotriene and Betamethasone Dipropionate Topical Foam, 0.005%/0.064% (Glenmark Pharmaceuticals Ltd) to the Marketed Product Enstilar® Foam (LEO Pharma Inc.) in the Treatment of Psoriasis Vulgaris (Plaque Psoriasis)",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2018-10-31",
+            "completion_date": "2020-03-17",
+            "country": "United States",
+            "enrollment": 494,
+            "brief_summary": "A Phase III, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multiple-Site Study to Evaluate the Therapeutic Equivalence of a Generic Calcipotriene and Betamethasone Dipropionate Topical Foam, 0.005%/0.064% (Glenmark Pharmaceuticals Ltd) to the Marketed Product Enstilar® Foam (LEO Pharma Inc.) in the Treatment of Psoriasis Vulgaris (Plaque Psoriasis)",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or non-pregnant, non-lactating female subjects aged at least 18 years at Visit 1.\n2. A clinical diagnosis of stable (at least 6 months) psoriasis vulgaris involving 5% to 30% body surface area (BSA), not including the face, axilla and groin.\n3. A PGA of disease severity ",
+            "endpoints": [
+              "The proportion of subjects in each treatment group with treatment success",
+              "The proportion of subjects in each treatment group with clinical success"
+            ],
+            "sponsor": "Glenmark Pharmaceuticals Ltd. India",
+            "url": "https://clinicaltrials.gov/study/NCT03731091"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05185258",
+            "title": "An Investigator-Initiated, Phase 4, Open-Label, Single-Arm, Single-Center Study Investigating the Residual Disease Memory in Psoriasis Skin During Enstilar® and Narrow-Band Ultraviolet B Therapy: The Mempsolar Study",
+            "phase": "PHASE4",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2022-02-16",
+            "completion_date": "2026-07-15",
+            "country": "Denmark",
+            "enrollment": 12,
+            "brief_summary": "Psoriasis is a non-communicable chronic immune-mediated disease. Psoriatic skin is characterized by excessive proliferation of skin cells and infiltration of immune cells. The cause of psoriasis is so far unknown.\n\nEstablished therapeutics include topical, oral-systemic, biologic, narrow-band ultraviolet B (NB-UVB). A persistent antipsoriatic effect by the newest biologic therapies has been demonstrated after treatment discontinuation. However, the remittive hallmark of psoriasis suggests the ex",
+            "eligibility_criteria": "Inclusion Criteria:\n\nAge:\n\n1. Women or men with chronic stable plaque psoriasis aged 18 years or older at the time of consent. Consent must be obtained prior to any study-related procedures. The participants must furthermore be willing to participate and must be of a condition capable of giving info",
+            "endpoints": [
+              "Evaluate the efficacy of Enstilar® foam in combination with NB-UVB in changing the TRM-cell number in the skin.",
+              "Evaluate the efficacy of Enstilar® foam in combination with NB-UVB in changing the TRM-cell microenvironment in the skin."
+            ],
+            "sponsor": "Aarhus University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT05185258"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01422434",
+            "title": "Efficacy and Safety of LEO 90105 Ointment (Calcipotriol Hydrate Plus Betamethasone Dipropionate) in Japanese Subjects With Psoriasis Vulgaris",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2011-07",
+            "completion_date": "2012-04",
+            "country": "Japan",
+            "enrollment": 676,
+            "brief_summary": "The purpose of this study is to compare the efficacy of LEO 90105 ointment applied once daily with Dovonex® ointment applied twice daily and with Rinderon®-DP ointment applied once daily in Japanese subjects with psoriasis vulgaris.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects having understood and signed a written informed consent form prior to any study related procedures being carried out.\n* Japanese subjects.\n* 20 years of age or above.\n* Either sex.\n* Clinical diagnosis of psoriasis vulgaris amenable to topical treatment, involving arm",
+            "endpoints": [
+              "Change From Baseline in Modified Psoriasis Area and Severity Index (mPASI)"
+            ],
+            "sponsor": "LEO Pharma",
+            "url": "https://clinicaltrials.gov/study/NCT01422434"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03880357",
+            "title": "Multi-center, Double-blind, Randomized, Placebo Controlled, Parallel-group Study Comparing Taro Product to RLD and Both Active Treatments to a Placebo Control in the Treatment of Scalp Psoriasis",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2018-10-22",
+            "completion_date": "2019-03-15",
+            "country": "United States",
+            "enrollment": 485,
+            "brief_summary": "To demonstrate the superiority of the efficacy of the test and reference products over that of the placebo control in the treatment of scalp psoriasis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male or non-pregnant female aged ≥18 years\n* All male subjects had to agree to use accepted methods of birth control with their partners, from the day of the first application of the study drug to 30 days after the last application of the study drug\n* Willing and able ",
+            "endpoints": [
+              "treatment success on the Physician's Global Assessment (PGA) of disease severity",
+              "clinical success on the Physician's Global Assessment (PASI) of disease severity"
+            ],
+            "sponsor": "Sun Pharmaceutical Industries, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT03880357"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00358384",
+            "title": "A Study to Investigate the Irritation Potential on Healthy Intact Skin and Effect on Psoriatic Skin of Topical Applications of GW786034",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2005-09-26",
+            "completion_date": "2006-02-24",
+            "country": "France",
+            "enrollment": 10,
+            "brief_summary": "This study is an exploratory study to evaluate the effectiveness, safety and tolerability of three concentrations of GW786034 ointment following treatment to small areas of stable psoriatic plaques. Dosing will proceed using a microplaque approach, where small volumes of ointment will be applied under full occlusion to representative psoriatic plaques. The effectiveness of topical GW786034 treatments and controls will be explored using visual intensity assessments in addition to dermal imaging a",
+            "eligibility_criteria": "Inclusion criteria:\n\n* Stable (2-3 months) chronic plaque psoriasis covering greater than 5% body surface area (as determined by PASI palm method).\n* Other than having chronic plaque psoriasis, subject is health and ambulatory.\n* Women will be eligible to enter the study if they are of non-child-bea",
+            "endpoints": [
+              "Visual assessment and clinical scoring of lesion treatment areas using modified Psoriasis Area Scoring Index (PASI) target lesion assessment scale Clinical lab tests vital signs adverse events clinical monitoring/observation"
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT00358384"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00852761",
+            "title": "A Study to Evaluate Safety and Efficacy of Clobetasol Propionate for Treatment of Plaque-Type Psoriasis in Adult Subjects.",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2009-03",
+            "completion_date": "2009-08",
+            "country": "United States",
+            "enrollment": 34,
+            "brief_summary": "The purpose of the study is to determine the efficacy and safety of two different forms of a topical steroid (clobetasol propionate) in patients with plaque-type psoriasis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Body surface area (BSA) affected with psoriasis between 4% and 20% .\n* Target lesion of at least 2 cm² on the elbow and/or knee, with a score of 2 or 3 on the Psoriasis Grading Scale for Target Lesion.\n* Elbow and/or knee plaque-type psoriasis with a Psoriasis Global Assessmen",
+            "endpoints": [
+              "At Least a One Grade Improvement for the Target Psoriasis Lesion on the Elbow or Knee (Psoriasis Grading Scale)"
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT00852761"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03806790",
+            "title": "Efficacy and Safety of LEO 90100 Foam in Japanese Subjects With Psoriasis Vulgaris",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2019-01-24",
+            "completion_date": "2019-06-10",
+            "country": "Japan",
+            "enrollment": 182,
+            "brief_summary": "Comparison of the efficacy of LEO 90100 foam with Dovobet® ointment in the treatment of psoriasis in Japanese subjects.",
+            "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Signed and dated informed consent obtained\n2. Japanese subjects\n3. Aged 20 years or above\n4. Clinical diagnosis of psoriasis vulgaris amenable to topical treatment of less than or equal to 30% BSA (excluding psoriasis on the face/genitals/skin folds).\n5. A target psoriasi",
+            "endpoints": [
+              "Overall Improvement Rate for the Target Lesion"
+            ],
+            "sponsor": "LEO Pharma",
+            "url": "https://clinicaltrials.gov/study/NCT03806790"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03848871",
+            "title": "The Effect of Enstilar Versus Vehicle on Target Lesions in Moderate Plaque Type Psoriasis Patients",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2017-12-12",
+            "completion_date": "2018-12-10",
+            "country": "United States",
+            "enrollment": 20,
+            "brief_summary": "This study seeks to show whether there is a benefit of prescribing Enstilar in the treatment of patients with moderate plaque type psoriasis. Subjects will receive study treatment of Enstilar foam.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Outpatient, male or female subjects of any race, 18 years of age or higher. Female subjects of childbearing potential must have a (-) urine pregnancy test (UPT) result within 7 days of the first dose of study drug and practice a reliable method of contraception throughout the",
+            "endpoints": [
+              "Change in Physicians Global Assessment (PGA) From Baseline to Week 2 and Week 4"
+            ],
+            "sponsor": "Derm Research, PLLC",
+            "url": "https://clinicaltrials.gov/study/NCT03848871"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02668692",
+            "title": "Efficacy and Safety of LEO 80185 Gel (Calcipotriol Hydrate Plus Betamethasone Dipropionate) in Japanese Subjects With Psoriasis Vulgaris",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2016-02",
+            "completion_date": "2016-06",
+            "country": "Japan",
+            "enrollment": 213,
+            "brief_summary": "To compare the efficacy and safety of LEO 80185 gel with Dovobet® ointment in the treatment of psoriasis in Japanese subjects.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Informed consent has been obtained.\n* 2\\. Japanese subjects\n* 3\\. Aged 20 years or above\n* 4\\. Clinical diagnosis of psoriasis vulgaris amenable to topical treatment of less than or equal to 30% BSA\n* 5\\. A target psoriasis lesion on the scalp and on the non-scalp area of ",
+            "endpoints": [
+              "Number of Subjects With 'Overall Improvement' for the Target Lesion on the Scalp"
+            ],
+            "sponsor": "LEO Pharma",
+            "url": "https://clinicaltrials.gov/study/NCT02668692"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03395132",
+            "title": "Efficacy and Safety of Fucicort® Lipid Cream Compared to Combination Treatment With Fucidin® Cream Followed by Betamethasone (Lianbang Beisong®) Cream and Fucicort® Lipid Cream Vehicle in Clinically Infected Atopic Dermatitis/Eczema",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2018-07-31",
+            "completion_date": "2019-05-09",
+            "country": "China",
+            "enrollment": 68,
+            "brief_summary": "The trial is designed to compare the efficacy and safety of Fucicort® Lipid cream with the combination treatment of Fucidin® cream followed by betamethasone (Lianbang Beisong®) cream, or Fucicort® Lipid cream vehicle, when applied twice daily for two weeks. The trial is designed to demonstrate that treatment with Fucicort® Lipid cream is not inferior to the combination treatment with the mono component drugs, Fucidin® cream followed by betamethasone (Lianbang Beisong®) cream and that treatment w",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of AD/eczema as defined by Williams's criteria with clinical signs of infected AD/eczema on trunk and/or extremities such as fluid drainage, blistered skin, white or yellow pus, severe itchiness and new burning sensation\n* A minimum score of 1 for each of the signs i",
+            "endpoints": [
+              "The percentage change in modified Eczema Area and Severity Index (m-EASI) on trunk and extremities at Day 15"
+            ],
+            "sponsor": "LEO Pharma",
+            "url": "https://clinicaltrials.gov/study/NCT03395132"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00842153",
+            "title": "A Study to Evaluate the Efficacy and Tolerability of Clobetasol Propionate vs. Vehicle in the Treatment of Mild to Moderate Plaque-Type Psoriasis",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2007-11",
+            "completion_date": "2008-01",
+            "country": "United States",
+            "enrollment": 58,
+            "brief_summary": "The purpose of the study is to compare the efficacy and safety of Clobetasol propionate to that of its Vehicle in the treatment of mild to moderate plaque-type psoriasis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient, male or female of any race, and at least 12 years of age. Female subjects of childbearing potential must have a negative urine pregnancy test result at baseline and practice a reliable method of contraception throughout the study.\n* Mild to moderate, plaque-type ps",
+            "endpoints": [
+              "Number of Participants With a Target Lesion Global Improvement (TLGI) Score of 0, 1, or 2 at Weeks 1, 2, and 4"
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT00842153"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05706870",
+            "title": "A Multicenter Randomized Double-blind Placebo-controlled Parallel Group Phase II Study Evaluating the Clinical Efficacy and Safety of GN-037 Cream Used in the Treatment of Mild to Moderate Plaque Psoriasis",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2022-12-07",
+            "completion_date": "2024-03-03",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 190,
+            "brief_summary": "This Phase II study was designed as a multicenter, randomized, double-blind, placebo-controlled and 3-parallel arm, to assess clinical efficacy, safety, and tolerability of GN-037 versus clobetasol 17-propionate and placebo in patients diagnosed with mild to moderate plaque psoriasis at least 6 months ago",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female patients between the ages of 18-65\n2. Patients who can give their written informed consent prior to initiating any evaluation or procedure related to the study.\n3. Patients with negative SARS-CoV-2 PCR test result\n4. Patients who were diagnosed with mild or mo",
+            "endpoints": [
+              "Improvement in Investigator Global Assessment (IGA) score evaluated at weeks 2, 4, 6 and 8 in each arm."
+            ],
+            "sponsor": "GEN İlaç ve Sağlık Ürünleri A.Ş.",
+            "url": "https://clinicaltrials.gov/study/NCT05706870"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00248456",
+            "title": "A Randomised, Double-blind, Active-controlled, Parallel, Multi-center Study to Investigate the Efficacy and Safety of Daivobet® Ointment in Patients With Psoriasis Vulgaris",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-10",
+            "completion_date": "2006-02",
+            "country": "China",
+            "enrollment": 320,
+            "brief_summary": "This study will evaluate the efficacy and safety of calcipotriol plus betamethasone dipropionate ointment compared with calcipotriol ointment in the treatment of patients with psoriasis vulgaris for a duration of 4 weeks. The study will focus on the percentage change of the psoriasis area and severity index (PASI) from baseline to the end of week 4.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of psoriasis vulgaris in a stable condition\n* Extent of at least 10% of one or more body regions\n* Amenable to topical therapy with maximum of 100 g/week of investigational product\n\nExclusion Criteria:\n\n* Patients with more than 30% of body surface area invo",
+            "endpoints": [
+              "The percentage change of PASI at the end of week 4 compared with baseline"
+            ],
+            "sponsor": "LEO Pharma",
+            "url": "https://clinicaltrials.gov/study/NCT00248456"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "32105227",
+            "title": "Erythema multiforme induced by fluconazole in an immunocompetent patient: a case report and review of the literature.",
+            "abstract": "Erythema multiforme (EM) is an acute hypersensitivity reaction that affects the skin and/or mucosa. EM induced by fluconazole is extremely rare, with only 2 previously published case reports. The aims of this article are to report a rare case of severe EM induced by fluconazole in an immunocompetent patient and to review all similar published cases. A 35-year-old man presented with multiple painful superficial ulcerated lesions on the lips, superficial ulcers on the right and left ocular mucosa, and erythematous macules on the right cervical region. Moreover, multiple painful superficial ulcers covered by a serofibrinous pseudomembrane were located on the oral mucosa. The lesions appeared after the initial oral use of fluconazole (100 mg) 3 weeks previously for the treatment of onychomycosis. The clinical diagnosis was EM associated with fluconazole. The antifungal medication was discontinued, and a single dose of intramuscular Diprospan (5 mg of betamethasone dipropionate/2 mg of beta",
+            "journal": "General dentistry",
+            "year": "2020",
+            "authors": [
+              "de Aquino da Silva Vanessa Silvestre",
+              "Freire Alice Engel Naves",
+              "Ribeiro Noé Vital",
+              "Sperandio Felipe Fornias",
+              "de Carli Marina Lara"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Erythema Multiforme",
+              "Fluconazole",
+              "Humans",
+              "Male",
+              "Mouth Mucosa",
+              "Ulcer",
+              "Wound Healing"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32105227/"
+          },
+          {
+            "pmid": "31092494",
+            "title": "Erythema multiforme like reaction to santos rosewood (Machaerium scleroxylon) and Torreya nucifera.",
+            "abstract": "Erythema multiforme is a skin disorder characterised by target epithelial eruption, which is mainly caused by infection or drugs. In this case, we report an erythema multiforme like reaction caused by contact dermatitis against wood, especially santos rosewood. During the hospitalisation, we performed a patch test with lumber used in the patient's workplace, and recognised a positive response to multiple woods and a simultaneous recurring eruption (flare up) outside of the test site. The findings from this case of contact dermatitis caused by frequently used industrial wood type is important for the management of occupational environments. A review of the literature on erythema multiforme like reaction due to contact dermatitis, including past case reports, has also been provided.",
+            "journal": "BMJ case reports",
+            "year": "2019",
+            "authors": [
+              "Uchida Sayuri",
+              "Ogai Masaaki",
+              "Saito Kazuhito",
+              "Homma Yoichiro"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Adult",
+              "Clobetasol",
+              "Dermatitis, Allergic Contact",
+              "Erythema Multiforme",
+              "Fabaceae",
+              "Humans",
+              "Male",
+              "Occupational Diseases",
+              "Patch Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31092494/"
+          },
+          {
+            "pmid": "36812283",
+            "title": "Ketoprofen-induced Photoallergic Reaction.",
+            "abstract": "Dear Editor, Photoallergic reactions are classic T-cell-mediated or delayed-type hypersensitivity reactions of the skin in response to a photoallergen (or a cross-reacting chemical) to which a subject was sensitized in the past (1). The immune system recognizes the changes caused by ultraviolet (UV) radiation; it produces antibodies and causes inflammation of the skin in the exposed areas (2). Common photoallergic drugs and ingredients are included in some sunscreens, aftershave lotions, antimicrobials (especially sulfonamides), non-steroidal anti-inflammatory drugs (NSAIDs), diuretics, anticonvulsants, chemotherapy drugs, fragrances, and other hygiene products (1,3,4). A 64-year-old female patient was admitted to the Department of Dermatology and Venereology with erythema and underlining edema on her left foot (Figure 1). A few weeks earlier, the patient had had a fracture of the metatarsal bones and since then she had been taking NSAIDs systemically every day to suppress pain. Five d",
+            "journal": "Acta dermatovenerologica Croatica : ADC",
+            "year": "2022",
+            "authors": [
+              "Rosan Tin",
+              "Ljubojević Hadžavdić Suzana"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Middle Aged",
+              "Ketoprofen",
+              "Dermatitis, Photoallergic",
+              "Sunscreening Agents",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Ultraviolet Rays",
+              "Patch Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36812283/"
+          },
+          {
+            "pmid": "37854261",
+            "title": "Erythema multiforme provoked by radiotherapy.",
+            "abstract": "Radiation dermatitis is one of the most common adverse effects that occur in patients treated with radiation therapy. It is usually limited to the irradiated area. However, cases of generalized lesions have also been described in the literature. A rare but highly important cutaneous manifestation can be erythema multiforme-like lesions localized all over the patient's skin. A 63-year-old patient was admitted to the Department of Dermatology for disseminated erythematous lesions localized on the trunk and extremities. The patient denied taking any new medications or dietary supplements. However, he was undergoing radiotherapy treatment. On admission, the patient was in good general condition. During the stay in the department, the patient was treated orally as well as intravenously with corticosteroids, acyclovir, and a topical ointment consisting of gentamicin and betamethasone, as well as hydrocortisone and cooling ointment. After 1 month, a significant improvement in the patient's sk",
+            "journal": "Clinical case reports",
+            "year": "2023",
+            "authors": [
+              "Machoń Natalia Joanna",
+              "Lewandowska Julia Alicja",
+              "Chojnacka-Purpurowicz Joanna",
+              "Owczarczyk-Saczonek Agnieszka"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37854261/"
+          },
+          {
+            "pmid": "4594137",
+            "title": "Erythema multiforme exudativum: recurrent oral lesions. Review of the literature and a case history.",
+            "abstract": "",
+            "journal": "Journal of dentistry",
+            "year": "1973",
+            "authors": [
+              "Smith R G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Adult",
+              "Betamethasone",
+              "Biopsy",
+              "Erythema Multiforme",
+              "Histiocytes",
+              "Humans",
+              "Lymphocytes",
+              "Male",
+              "Oral Manifestations"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4594137/"
+          },
+          {
+            "pmid": "14206262",
+            "title": "ERYTHEMA MULTIFORME OCCURRING DURING TREATMENT OF PRURITUS VULVAE AND NEURODERMATITIS WITH BETAMETHASONE.",
+            "abstract": "",
+            "journal": "The British journal of clinical practice",
+            "year": "1964",
+            "authors": [
+              "FOX E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Betamethasone",
+              "Drug Eruptions",
+              "Erythema Multiforme",
+              "Female",
+              "Humans",
+              "Lupus Erythematosus, Discoid",
+              "Neurodermatitis",
+              "Prednisolone",
+              "Pruritus Vulvae",
+              "Toxicology"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14206262/"
+          },
+          {
+            "pmid": "37182731",
+            "title": "Topical Betamethasone Treatment of Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis with Ocular Involvement in the Acute Phase.",
+            "abstract": "To clarify the importance of administering topical steroids for the treatment of Stevens-Johnson syndrome (SJS) / toxic epidermal necrolysis (TEN) with ocular involvement in the acute phase.",
+            "journal": "American journal of ophthalmology",
+            "year": "2023",
+            "authors": [
+              "Matsumoto Kaori",
+              "Ueta Mayumi",
+              "Inatomi Tsutomu",
+              "Fukuoka Hideki",
+              "Mieno Hiroki"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Betamethasone",
+              "Humans",
+              "Stevens-Johnson Syndrome",
+              "Administration, Topical",
+              "Retrospective Studies",
+              "Anti-Inflammatory Agents",
+              "Visual Acuity",
+              "Glucocorticoids",
+              "Pulse Therapy, Drug",
+              "Eye Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37182731/"
+          },
+          {
+            "pmid": "40500649",
+            "title": "Updates on the ocular manifestations and treatment of SJS/TEN.",
+            "abstract": "Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) are acute inflammatory disorders that affect the skin and mucous membranes, and in 40-84 % of SJS/TEN cases, the ocular complications that are often overlooked due to severe systemic symptoms. Specific ocular findings at the acute-phase include conjunctival hyperemia, pseudomembrane formation, and epithelial defects, and severe acute-phase ocular involvement strongly correlates with long-term visual impairment. Thus, it is vital to diagnose ocular involvement early at the acute stage and suppress inflammation on the ocular surface to protect corneal epithelial stem cells. As outlined in the official Japanese treatment guidelines for SJS/TEN cases with ocular involvement, corticosteroid pulse therapy and topical application of 0.1 % betamethasone eye-drops within four days of disease onset significantly reduces ocular sequelae. Early intervention with amniotic membrane transplantation helps reduce scarring and potential",
+            "journal": "Allergology international : official journal of the Japanese Society of Allergology",
+            "year": "2025",
+            "authors": [
+              "Sotozono Chie",
+              "Ueta Mayumi"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Stevens-Johnson Syndrome",
+              "Eye Diseases",
+              "Disease Management"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40500649/"
+          },
+          {
+            "pmid": "38795750",
+            "title": "Improvement of the Ocular Prognosis of Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis: A National Survey in Japan.",
+            "abstract": "To investigate the incidence and prognostic factors of ocular sequelae in Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) cases arising between 2016 and 2018 in Japan, and compare the findings with those presented in the previous 2005-2007 survey.",
+            "journal": "American journal of ophthalmology",
+            "year": "2024",
+            "authors": [
+              "Kojima Miho",
+              "Mieno Hiroki",
+              "Ueta Mayumi",
+              "Nakata Mitsuko",
+              "Teramukai Satoshi"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Stevens-Johnson Syndrome",
+              "Humans",
+              "Retrospective Studies",
+              "Japan",
+              "Male",
+              "Female",
+              "Incidence",
+              "Middle Aged",
+              "Prognosis",
+              "Glucocorticoids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38795750/"
+          },
+          {
+            "pmid": "26021384",
+            "title": "Rowell's syndrome induced by terbinafine.",
+            "abstract": "Terbinafine, a systemic antifungal commonly prescribed for onychomycosis (fungal infection involving the nails) has been reported to cause various cutaneous adverse effects. We describe an overlap syndrome between cutaneous lupus and erythaema multiforme induced by this medication with a review of other reported cases.",
+            "journal": "BMJ case reports",
+            "year": "2015",
+            "authors": [
+              "Murad Aizuri",
+              "Shudell Emma",
+              "Mulligan Niall"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged, 80 and over",
+              "Anti-Inflammatory Agents",
+              "Antifungal Agents",
+              "Clobetasol",
+              "Dermatologic Agents",
+              "Diagnosis, Differential",
+              "Erythema Multiforme",
+              "Female",
+              "Humans",
+              "Lupus Erythematosus, Cutaneous"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26021384/"
+          },
+          {
+            "pmid": "7918011",
+            "title": "Recurrent post-herpetic erythema multiforme mimicking polymorphic light and juvenile spring eruption: report of two cases in young boys.",
+            "abstract": "",
+            "journal": "The British journal of dermatology",
+            "year": "1994",
+            "authors": [
+              "Wolf P",
+              "Soyer H P",
+              "Fink-Puches R",
+              "Huff J C",
+              "Kerl H"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Betamethasone",
+              "Child",
+              "Diagnosis, Differential",
+              "Erythema Multiforme",
+              "Humans",
+              "Male",
+              "Photosensitivity Disorders",
+              "Recurrence",
+              "Stomatitis, Herpetic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7918011/"
+          },
+          {
+            "pmid": "1068978",
+            "title": "Corticosteroids in diseases of the oral mucosa.",
+            "abstract": "The introduction of corticosteroids into oral medicine heralded a therapeutic advance, and substantial benefits have occurred from their use. Three topical steroids are being used currently in oral diseases, i.e. hydrocortisone hemisuccinate, triamcinolone in Orabase 0-1 per cent and betamethasone valerate 0-1 mg. The efficacy of these agents can be increased markedly if they are administered during the prodromal phase of ulceration, i.e. when lymphocyte activity is at its maximum. Therapeutic doses of all of them can be exceeded three times without impairing adrenal function. Nevertheless some of these preparations, as exemplified by topical medication, induced an unfortunate acute pseudomembranous candidiasis without any alteration in the plasma cortisol level. The routine examination and treatment of ulcers in the mouth should be a careful exercise helped by a good light source and a tongue spatula. Oral lesions affecting the soft tissues may be often difficult to diagnose, because ",
+            "journal": "International dental journal",
+            "year": "1976",
+            "authors": [
+              "Kay L W"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Adrenal Cortex Hormones",
+              "Anti-Inflammatory Agents",
+              "Epidermolysis Bullosa",
+              "Erythema Multiforme",
+              "Herpes Simplex",
+              "Humans",
+              "Hydrocortisone",
+              "Lichen Planus",
+              "Lupus Erythematosus, Discoid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1068978/"
+          },
+          {
+            "pmid": "33914926",
+            "title": "A flare of pre-existing erythema multiforme following BNT162b2 (Pfizer-BioNTech) COVID-19 vaccine.",
+            "abstract": "",
+            "journal": "Clinical and experimental dermatology",
+            "year": "2021",
+            "authors": [
+              "Lavery M J",
+              "Nawimana S",
+              "Parslew R",
+              "Stewart L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "BNT162 Vaccine",
+              "COVID-19",
+              "COVID-19 Vaccines",
+              "Clobetasol",
+              "Erythema Multiforme",
+              "Female",
+              "Glucocorticoids",
+              "Humans",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33914926/"
+          },
+          {
+            "pmid": "8245308",
+            "title": "A case of herpes-associated erythema multiforme in a Japanese child.",
+            "abstract": "A case of a five-year-old Japanese boy with herpes-associated erythema multiforme (HAEM) was reported. The patient had eleven recurrences of herpes labiaris within one year; four of these recurrences were accompanied by erythema multiforme. A study of the human leukocyte antigens revealed the presence of HLA-DQW3, which has been reported to be significantly frequent in Caucasian patients with HAEM. Oral administration of acyclovir at the onset of herpes labialis was effective in preventing HAEM. Early administration of oral steroids at the onset of HAEM also prevented its exacerbation.",
+            "journal": "The Journal of dermatology",
+            "year": "1993",
+            "authors": [
+              "Uemura T",
+              "Nagayama M",
+              "Kawashima M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acyclovir",
+              "Administration, Oral",
+              "Asian People",
+              "Betamethasone",
+              "Child, Preschool",
+              "Erythema Multiforme",
+              "HLA-DQ Antigens",
+              "Herpes Labialis",
+              "Humans",
+              "Japan"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8245308/"
+          },
+          {
+            "pmid": "5858117",
+            "title": "Oro-genital aphthosis.",
+            "abstract": "",
+            "journal": "The British journal of venereal diseases",
+            "year": "1965",
+            "authors": [
+              "Masterton G"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Betamethasone",
+              "Erythema Multiforme",
+              "Genital Diseases, Male",
+              "Humans",
+              "Hydrocortisone",
+              "Male",
+              "Skin Ulcer",
+              "Stomatitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5858117/"
+          },
+          {
+            "pmid": "38214494",
+            "title": "A case of anti-laminin γ1 (p200) pemphigoid developed after dipeptidyl peptidase-4 inhibitor administration.",
+            "abstract": "A 73-year-old man with diabetes mellitus was referred to our department for ultraviolet treatment for erythematous skin lesions with itching. On dipeptidyl peptidase-4 inhibitor (DPP-4i) sitagliptin (Januvia®) for diabetes mellitus, the erythematous skin lesions appeared and spread to the whole body. At the initial visit, erythema multiforme-like skin lesions with crusts were observed on the trunk and extremities, and the patient was suspected to have drug eruption. Histopathology demonstrated eosinophilic infiltration in the superficial dermis and inflammatory cell infiltration in the epidermis. Sitagliptin was discontinued, and erythematous lesions improved with oral prednisolone. Thereafter the patient was treated with phototherapy and  betamethasone sodium phosphate infusion for residual prurigo. However, blistering skin lesions appeared 5 months later. Histopathological findings were subepidermal blisters with eosinophilic abscess, and bullous pemphigoid was suspected. CLEIAs for ",
+            "journal": "The Journal of dermatology",
+            "year": "2024",
+            "authors": [
+              "Nakatani Kahori",
+              "Noborio Reiko",
+              "Nomura Yuki",
+              "Ueki Yoko",
+              "Kiyohara Takahiro"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Male",
+              "Aged",
+              "Dipeptidyl-Peptidase IV Inhibitors",
+              "Pemphigoid, Bullous",
+              "Laminin",
+              "Autoantibodies",
+              "Sitagliptin Phosphate",
+              "Skin",
+              "Drug Eruptions"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38214494/"
+          },
+          {
+            "pmid": "2099475",
+            "title": "[Polymorphic erythema (P.E.)].",
+            "abstract": "",
+            "journal": "Revista de la Asociacion Odontologica Argentina",
+            "year": "1990",
+            "authors": [
+              "Lama A",
+              "Policicchio J E",
+              "Chuchurru J",
+              "Rebok E"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Betamethasone",
+              "Erythema Multiforme",
+              "Female",
+              "Humans",
+              "Mouth Mucosa"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2099475/"
+          },
+          {
+            "pmid": "26297574",
+            "title": "Topical clobetasol for the treatment of toxic epidermal necrolysis: study protocol for a randomized controlled trial.",
+            "abstract": "Toxic epidermal necrolysis (TEN) is a rare systemic allergic drug eruption with high patient mortality. Currently, no established treatments have been shown to be effective for TEN beyond supportive care. Prior studies of systemic corticosteroids have yielded conflicting data, with some showing a possible benefit and others reporting in increased mortality. However, topical steroids have shown promise for treatment of ocular sequelae of TEN, such as scarring and vision loss. We have designed a randomized controlled trial to evaluate topical clobetasol for treatment of the epidermal manifestations of TEN. In addition, we propose genetic studies to characterize the TEN transcriptome and alterations in cutaneous gene expression that might occur following topical steroid treatment.",
+            "journal": "Trials",
+            "year": "2015",
+            "authors": [
+              "Wilken Reason",
+              "Li Chin Shang",
+              "Sharon Victoria R",
+              "Kim Kyoungmi",
+              "Patel Falin B"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase II",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Biopsy",
+              "California",
+              "Child",
+              "Clinical Protocols",
+              "Clobetasol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26297574/"
+          },
+          {
+            "pmid": "2011350",
+            "title": "Open preliminary clinical trial of clobetasol propionate ointment in adhesive paste for treatment of chronic oral vesiculoerosive diseases.",
+            "abstract": "Clobetasol propionate (Temovate), a novel high-potency topical corticosteroid, was used in open trial from 1987 to 1988 on 24 patients with persistent oral vesiculoerosive disease of at least 1 month's duration. Fourteen women and 10 men, ranging in age from 27 to 76 years (mean 48 years), participated. Nine patients had erosive lichen planus, one had benign mucous membrane pemphigoid, three had pemphigus vulgaris, seven had persistent major recurrent aphthous stomatitis, and four had chronic oral erythema multiforme. Fifteen patients had complete remission of signs and symptoms, seven had excellent response of signs and complete remission of symptoms, and two failed to respond. All other topical therapy was suspended before and during the study. All patients responded to two or three applications daily of medication. Side effects were minor and reversible, and included localized candidiasis (three patients), stomatopyrosis (two), and hypogeusia (one). Clobetasol propionate ointment in",
+            "journal": "Oral surgery, oral medicine, and oral pathology",
+            "year": "1991",
+            "authors": [
+              "Lozada-Nur F",
+              "Huang M Z",
+              "Zhou G A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Clobetasol",
+              "Female",
+              "Humans",
+              "Hydrocortisone",
+              "Lichen Planus",
+              "Male",
+              "Middle Aged",
+              "Mouth Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2011350/"
+          },
+          {
+            "pmid": "22082897",
+            "title": "Severe obliterative bronchitis associated with Stevens-Johnson syndrome.",
+            "abstract": "We report a case of Stevens-Johnson syndrome (SJS) in which the patient had been diagnosed with severe obliterative bronchitis. A 29-year-old woman was admitted with a high fever and a widespread vesicular rash. She was diagnosed with SJS and betamethasone administration was started. After one month, her vesicular skin rash improved; however, she developed respiratory failure and was assisted with mechanical ventilation. Computed tomography of the chest demonstrated a hyperlucent lung with narrowing of the peripheral vessels. Bronchoscopy revealed an occlusion of the bronchus when the patient exhaled. The flow-volume curve revealed a severe obstructive pattern. The patient was diagnosed with obliterative bronchitis following SJS. She was treated with a bronchodilator and steroids, but could not breathe adequately without the ventilator. During the following year, her PaCO(2) increased to 100 torr and her heart function also continued to worsen. Despite intensive treatment, she died one",
+            "journal": "Internal medicine (Tokyo, Japan)",
+            "year": "2011",
+            "authors": [
+              "Woo Tetsukan",
+              "Saito Haruhiro",
+              "Yamakawa Yasushi",
+              "Komatsu Shigeru",
+              "Onuma Sumi"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Betamethasone",
+              "Bronchitis",
+              "Fatal Outcome",
+              "Female",
+              "Humans",
+              "Respiration, Artificial",
+              "Respiratory Insufficiency",
+              "Stevens-Johnson Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22082897/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "lymphosarcoma",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "30677799",
+            "title": "Lymphomatoid papulosis.",
+            "abstract": "Lymphomatoid papulosis is often regarded as a low-grade variant of cutaneous T cell lymphoma (CTCL). Given the excellent long-term prognosis, recent consensus guidelines indicate that patients can be monitored off therapy. We report a case of a 67-year-old man who presented with lymphomatoid papulosis, with necrotic papules that have been intermittently present for over forty years.",
+            "journal": "Dermatology online journal",
+            "year": "2018",
+            "authors": [
+              "Wiznia Lauren E",
+              "Cohen Jeffrey M",
+              "Beasley Jenna M",
+              "Meehan Shane A",
+              "Latkowski Jo-Ann M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Clobetasol",
+              "Glucocorticoids",
+              "Humans",
+              "Hydroquinones",
+              "Hyperpigmentation",
+              "Lymphomatoid Papulosis",
+              "Male",
+              "Skin Neoplasms",
+              "Watchful Waiting"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30677799/"
+          },
+          {
+            "pmid": "23773745",
+            "title": "[Papular mycosis fungoides].",
+            "abstract": "Mycosis fungoides (MF) is the most common type of cutaneous T-cell lymphoma. A new form of incipient MF has recently been described: papular MF. Herein, we report a case and propose a literature review.",
+            "journal": "Annales de dermatologie et de venereologie",
+            "year": "2013",
+            "authors": [
+              "Brajon D",
+              "Bonnet N",
+              "Dales J-P",
+              "Berbis P"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Age Distribution",
+              "Anti-Inflammatory Agents",
+              "CD4-Positive T-Lymphocytes",
+              "Clobetasol",
+              "Combined Modality Therapy",
+              "Diagnosis, Differential",
+              "Humans",
+              "Lymphocytes, Tumor-Infiltrating",
+              "Lymphomatoid Papulosis",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23773745/"
+          },
+          {
+            "pmid": "38954612",
+            "title": "Mycosis Fungoides Palmaris et Plantaris Mimicking \"Dyshidrotic Eczema\": A Case Report.",
+            "abstract": "Mycosis fungoides palmaris et plantaris (MFPP) is a rare variant of mycosis fungoides (MF), a type of cutaneous T-cell lymphoma. MFPP primarily affects the palms and soles of the feet and is often misdiagnosed as dyshidrotic eczema due to its similar clinical presentation. This case report presents a middle-aged woman with MFPP whose initial presentation was mistaken for dyshidrotic eczema. Despite treatment with topical corticosteroids, the patient's lesions persisted, prompting further investigations that led to the diagnosis of MFPP. The patient was initiated on betamethasone dipropionate ointment and hydroxyzine for pruritus management, with a pivotal referral to oncology for comprehensive evaluation. This case highlights the importance of considering MFPP in the differential diagnosis of persistent eczematous lesions on the palms and soles, especially when treatment with topical corticosteroids is ineffective. J Drugs Dermatol. 2024;23(7):569-570.&nbsp; &nbsp;&nbsp; doi:10.36849/J",
+            "journal": "Journal of drugs in dermatology : JDD",
+            "year": "2024",
+            "authors": [
+              "Burke Olivia",
+              "Beer Jacob",
+              "Elman Scott A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Female",
+              "Mycosis Fungoides",
+              "Diagnosis, Differential",
+              "Middle Aged",
+              "Eczema, Dyshidrotic",
+              "Skin Neoplasms",
+              "Betamethasone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38954612/"
+          },
+          {
+            "pmid": "26303240",
+            "title": "Woringer-Kolopp disease mimicking psoriasis.",
+            "abstract": "",
+            "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+            "year": "2015",
+            "authors": [
+              "Wang Sheila C",
+              "Mistry Nisha"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Clobetasol",
+              "Diagnosis, Differential",
+              "Foot Diseases",
+              "Glucocorticoids",
+              "Humans",
+              "Male",
+              "Pagetoid Reticulosis",
+              "Psoriasis",
+              "Skin Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26303240/"
+          },
+          {
+            "pmid": "31156984",
+            "title": "Betamethasone dipropionate compounding for cutaneous T-cell lymphoma management.",
+            "abstract": "Primary cutaneous lymphomas (extranodular non-Hodgkin lymphomas) are rare (incidence 1:100 000). Mycosis fungoides is the most common cutaneous T-cell lymphoma (CTCL) subtype. Treatment options are based on the diagnosis and the stage of the disease. Skin-directed therapies are useful for the initial stages and include topical treatments such as corticosteroids. Betamethasone dipropionate (BD) is a synthetic glucocorticoid with high anti-inflammatory activity, potency and immunosuppressant effects. It is used for topical treatment of CTCL within the following dosage 0.025-0.1% (w/w). In the Portuguese market only one topical cream contains BD at 0.05% (w/w).",
+            "journal": "European journal of hospital pharmacy : science and practice",
+            "year": "2018",
+            "authors": [
+              "Trindade Patrícia",
+              "Gelpi Alice",
+              "Salgado Ana",
+              "Marto Joana",
+              "Machado Paula"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31156984/"
+          },
+          {
+            "pmid": "25780963",
+            "title": "Marginal vitiligo: an unusual depigmenting disorder.",
+            "abstract": "Marginal vitiligo, or inflammatory vitiligo with raised borders is a unique subset of vitiligo vulgaris presenting with scattered depigmented, pruritic patches surrounded by a raised, erythematous border. Alternative diagnoses include discoid lupus erythematosus and cutaneous T-cell lymphoma.",
+            "journal": "Dermatology online journal",
+            "year": "2014",
+            "authors": [
+              "Trikha Ritika",
+              "McCowan Nancye",
+              "Brodell Robert"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Clobetasol",
+              "Diagnosis, Differential",
+              "Glucocorticoids",
+              "Humans",
+              "Lupus Erythematosus, Discoid",
+              "Lymphoma, T-Cell, Cutaneous",
+              "Male",
+              "Vitiligo",
+              "Young Adult"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25780963/"
+          },
+          {
+            "pmid": "5026689",
+            "title": "Mycosis fungoides.",
+            "abstract": "",
+            "journal": "Archives of dermatology",
+            "year": "1972",
+            "authors": [
+              "Goldberg H S"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Betamethasone",
+              "Humans",
+              "Male",
+              "Mechlorethamine",
+              "Mycosis Fungoides",
+              "Skin Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5026689/"
+          },
+          {
+            "pmid": "25027222",
+            "title": "[A girl with hypopigmented skin lesions].",
+            "abstract": "A 9-year-old girl visited the department of Dermatology with an asymptomatic hypopigmented skin eruption on her upper legs, groins and trunk since 7 years. Histopathological analysis established the diagnosis of hypopigmented mycosis fungoides, a rare subtype of cutaneous T-cell lymphoma which is most commonly seen at younger age. The lesions are successfully treated with clobetasol 0.05% ointment 4 days a week.",
+            "journal": "Nederlands tijdschrift voor geneeskunde",
+            "year": "2014",
+            "authors": [
+              "Martens Bibi",
+              "Abdul Hamid Myrurgia",
+              "Martens Herm"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Clobetasol",
+              "Female",
+              "Glucocorticoids",
+              "Humans",
+              "Hypopigmentation",
+              "Mycosis Fungoides",
+              "Skin Neoplasms",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25027222/"
+          },
+          {
+            "pmid": "33026773",
+            "title": "Persistent Agminated CD30+ Lymphoproliferative Disorder.",
+            "abstract": "Lymphomatoid papulosis (LyP) is a chronic skin condition, characterized by recurrent eruptions of papules and nodules with or without central necrosis that spontaneously resolve. This condition was originally described by Macaulay in 1968 as a self-healing rhythmical paradoxical eruption that was clinically benign yet histologically malignant.1 Clinically, it is defined by papules that wax and wane, are generally less than 1cm in diameter, and heal spontaneously after 6–8 weeks with subsequent scarring.2",
+            "journal": "Journal of drugs in dermatology : JDD",
+            "year": "2020",
+            "authors": [
+              "Beer Jacob",
+              "Bittar Peter G",
+              "Bittar Julie M",
+              "Elenitsas Rosalie",
+              "Haun Paul"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Adult",
+              "Clobetasol",
+              "Diagnosis, Differential",
+              "Female",
+              "Humans",
+              "Leg",
+              "Lymphomatoid Papulosis",
+              "Skin Neoplasms",
+              "T-Lymphocyte Subsets"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33026773/"
+          },
+          {
+            "pmid": "17506958",
+            "title": "[Oral involvement in lymphomatoid papulosis].",
+            "abstract": "Lymphomatoid papulosis is a cutaneous lymphoma with an indolent clinical behaviour characterized by chronic development of recurrent, self-limited lesions appearing as necrotic papules and with a pathology compatible with T cell lymphoma. Mucosal involvement by lymphomatoid papulosis is very rare but has been reported in the literature. It usually appears as ulcers in patients previously diagnosed of lymphomatoid papulosis. From a histological perspective it is characterized by an infiltrate of CD 30 positive atypical lymphocytes together with a mixed inflammatory infiltrate of eosinophils, neutrophils, histiocytes and plasma cells. We report the case of a man previously diagnosed of lymphomatoid papulosis that developed two ulcerated lesions in the tongue whose biopsy confirmed the diagnosis of oral involvement by lymphomatoid papulosis.",
+            "journal": "Actas dermo-sifiliograficas",
+            "year": "2007",
+            "authors": [
+              "Serra-Guillén C",
+              "Requena C",
+              "Alfaro A",
+              "Hueso L",
+              "Sanmartín O"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Clobetasol",
+              "Eosinophilia",
+              "Humans",
+              "Lymphomatoid Papulosis",
+              "Male",
+              "Methotrexate",
+              "Mouth Mucosa",
+              "Prednisone",
+              "Tongue Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17506958/"
+          },
+          {
+            "pmid": "4571883",
+            "title": "Treatment of localized skin lesions with betamethasone 17-valerate and triamcinolone acetonide in alcoholic solution under occlusive dressing. A double blind comparative study.",
+            "abstract": "",
+            "journal": "Dermatologica",
+            "year": "1972",
+            "authors": [
+              "Neering H",
+              "van der Kroon H V",
+              "Roeleveld C G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "1-Propanol",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Betamethasone",
+              "Child",
+              "Clinical Trials as Topic",
+              "Drug Combinations",
+              "Eczema",
+              "Ethanol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4571883/"
+          },
+          {
+            "pmid": "22225743",
+            "title": "[Syringotropic cutaneous T-cell lymphoma mimicking dermatomycosis].",
+            "abstract": "Cutaneous syringotropic T-cell lymphoma is a rare form of lymphoma. We report a case involving a misleading cutaneous presentation on the sole of the foot.",
+            "journal": "Annales de dermatologie et de venereologie",
+            "year": "2012",
+            "authors": [
+              "Fenot M",
+              "Maillard H",
+              "Sierra-Fortuny S",
+              "De Ybarlucea L-R",
+              "Célérier P"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Carmustine",
+              "Clobetasol",
+              "Dermatomycoses",
+              "Diagnostic Errors",
+              "Female",
+              "Foot Diseases",
+              "Humans",
+              "Middle Aged",
+              "Mycosis Fungoides",
+              "Ointments"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22225743/"
+          },
+          {
+            "pmid": "31785005",
+            "title": "Pagetoid reticulosis in a 13-year old female. A unique immunohistochemical profile.",
+            "abstract": "Pagetoid reticulosis (PR) is a rare lymphoproliferative disorder with indolent behavior considered a variant of mycosis fungoides. It is characterized by marked epidermotropism of the neoplastic lymphocytes. Since its original description, five cases have been reported in children. We report a new case of PR with an immunohistochemical profile not previously described in children.",
+            "journal": "Journal of cutaneous pathology",
+            "year": "2020",
+            "authors": [
+              "Torre-Castro Juan",
+              "Carrasco Santos Loreto",
+              "Rodríguez-Pinilla Socorro M",
+              "Requena Luis"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Adolescent",
+              "Biopsy",
+              "Child",
+              "Child, Preschool",
+              "Clobetasol",
+              "Female",
+              "Glucocorticoids",
+              "Humans",
+              "Immunohistochemistry"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31785005/"
+          },
+          {
+            "pmid": "9722724",
+            "title": "Topical corticosteroids for mycosis fungoides. Experience in 79 patients.",
+            "abstract": "To determine the effectiveness of topical corticosteroids in the management of mycosis fungoides.",
+            "journal": "Archives of dermatology",
+            "year": "1998",
+            "authors": [
+              "Zackheim H S",
+              "Kashani-Sabet M",
+              "Amin S"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Inflammatory Agents",
+              "Antineoplastic Agents",
+              "Betamethasone",
+              "Betamethasone Valerate",
+              "Clobetasol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9722724/"
+          },
+          {
+            "pmid": "12581145",
+            "title": "Treatment of mycosis fungoides/Sezary syndrome: the University of California, San Francisco (UCSF) approach.",
+            "abstract": "",
+            "journal": "International journal of dermatology",
+            "year": "2003",
+            "authors": [
+              "Zackheim Herschel S"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Adult",
+              "Biopsy, Needle",
+              "Child",
+              "Clobetasol",
+              "Female",
+              "Hospitals, University",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12581145/"
+          },
+          {
+            "pmid": "21349387",
+            "title": "[Interstitial mycosis fungoid: a rare variant of mycosis fungoids. Two cases].",
+            "abstract": "Mycosis fungoids can present with various clinical and histological features, with only a few of them being recognized as distinct entities in the current WHO and EORTC classifications. Histologically, mycosis fungoids (MF) usually show a superficial perivascular or band-like lymphocytic infiltrate with epidermotropism. We here report two cases of a rare histological variant of MF, called interstitial in the literature. Our first patient, a 71-year-old male, had a previously diagnosed MF, which clinically evolved towards nodules, showing histologically an interstitial lymphocytic infiltrate without epidermotropism and without large cell transformation. The second patient was a 64-year-old female with widespread plaques and nodules. Histologically, a dense dermal interstitial infiltrate was observed, with foci of epidermotropism, without large cell transformation. At relapse after treatment, she presented with plaques, papules and nodules, histologically showing a slight interstitial ly",
+            "journal": "Annales de pathologie",
+            "year": "2011",
+            "authors": [
+              "Paoletti Marie-Thérèse",
+              "Comoz François",
+              "Dompmartin-Blanchere Anne",
+              "Bagot Martine",
+              "Ortonne Nicolas"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anti-Inflammatory Agents",
+              "Antirheumatic Agents",
+              "Arthritis, Rheumatoid",
+              "Biopsy",
+              "Clobetasol",
+              "Female",
+              "Humans",
+              "Immunophenotyping",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21349387/"
+          },
+          {
+            "pmid": "4230999",
+            "title": "[Hematodermia. Generalized zona].",
+            "abstract": "",
+            "journal": "Bulletin de la Societe francaise de dermatologie et de syphiligraphie",
+            "year": "1967",
+            "authors": [
+              "Duperrat B",
+              "Escande J P",
+              "Pringuet R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Betamethasone",
+              "Chlorambucil",
+              "Dermatitis, Exfoliative",
+              "Encephalitis",
+              "Herpes Zoster",
+              "Humans",
+              "Injections, Intravenous",
+              "Male",
+              "Mycosis Fungoides"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4230999/"
+          },
+          {
+            "pmid": "31498889",
+            "title": "Ichthyosiform pattern: an exceptional presentation of mycosis fungoides.",
+            "abstract": "",
+            "journal": "International journal of dermatology",
+            "year": "2020",
+            "authors": [
+              "Perandones González Héctor",
+              "Sánchez Sambucety Pedro",
+              "Rodríguez Prieto Manuel Á"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Aged",
+              "Biomarkers, Tumor",
+              "Biopsy",
+              "Clobetasol",
+              "Humans",
+              "Ichthyosis",
+              "Immunohistochemistry",
+              "Male",
+              "Mycosis Fungoides"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31498889/"
+          },
+          {
+            "pmid": "6935535",
+            "title": "[Betamethasone in the treatment of acute lymphatic leukosis and other lymphoproliferative diseases].",
+            "abstract": "Personal experience with the use of betamethasone, used orally in associated with various cytostatic drugs for inducing remission in acute lymphatic leucosis and some cases of lymphoproliferative disease is reported. The results obtained point to the effectiveness and tolerance of the drug, even in the high doses that are required to treat such blood diseases.",
+            "journal": "Minerva medica",
+            "year": "1980",
+            "authors": [
+              "Invernizzi R"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Antineoplastic Agents",
+              "Betamethasone",
+              "Blood Transfusion",
+              "Child",
+              "Female",
+              "Hodgkin Disease",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6935535/"
+          },
+          {
+            "pmid": "2934438",
+            "title": "Intralesional interferon in the treatment of early mycosis fungoides.",
+            "abstract": "Twelve patients with early mycosis fungoides were enrolled in a randomized, double-blind, placebo-controlled study. Isolated plaques were injected three times a week with recombinant alpha 2-interferon in nine patients and with the vehicle in three patients. Two additional plaques were evaluated in each patient; one was left untreated, and another was treated topically with either placebo ointment or betamethasone ointment. Biopsies were taken from an untreated, representative plaque prior to treatment and from all test sites following treatment for light microscopy and T lymphocyte subsets. Three of the nine lesions injected with interferon cleared, and all showed improvement. Thirteen of eighteen noninjected lesions improved in patients who received interferon, showing a systemic effect. In the control group, none of the injected lesions improved and only two of the noninjected lesions showed any change. Histopathologic changes confirmed the clinical impression. This study shows that",
+            "journal": "Journal of the American Academy of Dermatology",
+            "year": "1985",
+            "authors": [
+              "Wolff J M",
+              "Zitelli J A",
+              "Rabin B S",
+              "Smiles K A",
+              "Abell E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Antineoplastic Agents",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Injections",
+              "Interferon Type I",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2934438/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "disease of orbital region",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03958344",
+            "title": "Intraorbital Injection Versus Oral Steroid in Patients With Anterior Idiopathic Orbital Inflammation: A Randomized Clinical Trial",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2022-01-01",
+            "completion_date": "2025-06-01",
+            "country": "Iran",
+            "enrollment": 120,
+            "brief_summary": "A multicenter randomised double-arm clinical trial, to compare safety and efficacy of oral versus intralesional injection of steroid in a group of patients suffering from idiopathic orbital inflammation is designed. Outcome measures include number of recurrences, duration of remission, and side effects.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Dacryoadenitis based on clinical findings and/or imaging with and without adjacent recti muscle myositis\n\nExclusion Criteria:\n\n* Abnormal thyroid-stimulating hormone\n* Systemic Vasculitides\n* Bilateral Orbital Inflammation\n* Collagen Vascular Diseases\n* One Seeing Eye\n* Glauco",
+            "endpoints": [
+              "Recurrence number",
+              "Recurrence time",
+              "Adverse Effect"
+            ],
+            "sponsor": "Iran University of Medical Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT03958344"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01079715",
+            "title": "Safety and Efficacy of Treatment With Propranolol in Newborns With Retinopathy of Prematurity: a Pilot Study",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2010-01",
+            "completion_date": "2012-10",
+            "country": "Italy",
+            "enrollment": 52,
+            "brief_summary": "The purpose of this study is to determine whether the administration of propranolol is effective in the treatment of the retinopathy of the prematurity.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Infants who have been screened for ROP (≤ 32 weeks gestation) who develop Stage 2 ROP in zone II without plus.\n2. Informed Consent from a parent\n\nExclusion Criteria:\n\n1. Newborns with one or more of the following conditions at the enrollment in the study:\n\n   * Heart failure.",
+            "endpoints": [
+              "The primary aim is to evaluate the safety of propranolol administration"
+            ],
+            "sponsor": "Meyer Children's Hospital IRCCS",
+            "url": "https://clinicaltrials.gov/study/NCT01079715"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04246801",
+            "title": "A Phase 3, Multicenter, Randomized, Double-Masked Clinical Trial to Assess the Efficacy and Safety of Clobetasol Propionate Ophthalmic Nanoemulsion 0.05% Compared to Placebo in the Treatment of Inflammation and Pain Associated With Cataract Surgery",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-06-10",
+            "completion_date": "2021-05-19",
+            "country": "United States",
+            "enrollment": 250,
+            "brief_summary": "Cataract surgery is one of the most common surgical procedures performed worldwide. In fact, in 2017, 3.8 million cataracts procedures were performed in the US.\n\nDespite of surgical advances, pain and inflammation after ophthalmic surgery continues to be a burden on both patients and physicians. The treatment of postoperative pain is essential for hospitalized patients, but it is even more important for patients who are treated on an outpatient basis.\n\nThis study will compare the efficacy and sa",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, age 18 years or older on day of consent\n2. Participants with routine unilateral cataract surgery on the day prior to study randomization\n3. Participants with at least 5 cells in anterior chamber on the first day after surgery (at Baseline visit)\n4. Willing and",
+            "endpoints": [
+              "Anterior Chamber Cell Grade"
+            ],
+            "sponsor": "Salvat",
+            "url": "https://clinicaltrials.gov/study/NCT04246801"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02148016",
+            "title": "Corneal Epithelium Repair and Therapy Using Autologous Limbal Stem Cell Transplantation",
+            "phase": "PHASE1, PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2012-12",
+            "completion_date": "2014-09",
+            "country": "China",
+            "enrollment": 30,
+            "brief_summary": "Corneal disease is a leading cause of blindness in the world. A shortage of corneal donor tissue has prevented many patients from regaining vision. Additionally, refractive error such as myopia is a major cause of impaired visual function worldwide. Although refractive error is correctable by procedures that modify the refractive power of the cornea, these procedures often weaken corneal integrity and have risk of complications. This study aims to evaluate the safety and efficacy of corneal surf",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Monocular corneal chemical injury or pterygium, or refractive error greater than +/- 2D\n* Informed consent signed by patient or legal guardian\n\nExclusion Criteria:\n\n* Patients with a history of corneal perforation or surgery\n* Patients with other eye diseases\n* Patients with a",
+            "endpoints": [
+              "Composite measure of visual function in eyes treated for corneal ocular surface disease.",
+              "Composite measure of visual function in eyes after photo-refractive keratectomy (PRK)"
+            ],
+            "sponsor": "Sun Yat-sen University",
+            "url": "https://clinicaltrials.gov/study/NCT02148016"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04734210",
+            "title": "A Multicenter, Randomized, Double-Masked, Dose-Ranging Study To Compare The Ocular Safety, Tolerability, And Efficacy Of SURF-200 Ophthalmic Solution (0.02% And 0.04% Betamethasone Sodium Phosphate) To Vehicle In Subjects With A Diagnosis Of Dry Eye Disease And Experiencing An Episodic Flare Up",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2021-01-07",
+            "completion_date": "2022-10-12",
+            "country": "United States",
+            "enrollment": 139,
+            "brief_summary": "SURF-200 is being studied in people experiencing an episodic flare-up of their dry eye disease. SURF-200 is an investigational drug (which means the study drug is currently being tested) in the form of a sterile eye drop.\n\nThe purpose of this research study is to see how well SURF-200 works and what side effects there are, and to compare it with vehicle (placebo). The study will involve about 120 study participants at multiple research sites in the United States.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects 18 years of age and older who have a diagnosis of dry eye disease and experiencing an episodic flare up. Criteria for the diagnosis must include the following:\n\n   1. UNC DEMS score of greater than or equal to 5 but less than or equal to 9\n   2. Conjunctival hyperemi",
+            "endpoints": [
+              "University of North Carolina Dry Eye Management Scale (UNC DEMS) Responder Analysis"
+            ],
+            "sponsor": "Surface Ophthalmics, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT04734210"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06140186",
+            "title": "Efficacy and Safety of add-on Topical Timolol in the Management of Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor-induced Paronychia: A Prospective Randomized Open-labelled Trial",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2023-04-01",
+            "completion_date": "2024-03-31",
+            "country": "Hong Kong",
+            "enrollment": 40,
+            "brief_summary": "This study would assess the clinical efficacy of add-on topical timolol 0.5% gel to betamethasone valerate 0.1% for the treatment of EGFR-TKI induced paronychia. Eligible patients, who develop paronychia (affecting fingernails, toenails or both), will be included in this study. They will be randomized in 1:1 ratio using computer-generated randomization list to receive either combination of topical timolol 0.5% gel and betamethasone valerate 0.1% lotion application twice daily or betamethasone va",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 18 years or above, either males or females.\n2. Received EGFR-TKI, namely gefitinib, erlotinib, afatinib, osimertinib, amivantamab, dacomitinib and mobocertinib.\n3. Paronychia (fingernails, toenails, or both) as an adverse event from EGFR-TKI use.\n4. Written informed cons",
+            "endpoints": [
+              "The difference in the proportion of patients achieved complete response (disappearance of the lesion, absent pain, and/or bleeding)"
+            ],
+            "sponsor": "Queen Mary Hospital, Hong Kong",
+            "url": "https://clinicaltrials.gov/study/NCT06140186"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02716883",
+            "title": "Early Amniotic Membrane Transplantation in Bacterial Keratitis",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2014-01",
+            "completion_date": "2016-04",
+            "country": "N/A",
+            "enrollment": 14,
+            "brief_summary": "In this study Investigators are going to do early amniotic membrane transplantation (AMT) for bacterial keratitis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nBacterial keratitis being in the first week of diagnosis medically undergoing treatment\n\nExclusion Criteria:\n\nthinning limbal extension intraocular extension underlying disease Nocardia keratitis",
+            "endpoints": [
+              "Time to scar formation"
+            ],
+            "sponsor": "Farabi Eye Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02716883"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04249076",
+            "title": "A Phase 3, Multicenter, Randomized, Double-Masked Clinical Trial to Assess the Efficacy and Safety of Clobetasol Propionate Ophthalmic Nanoemulsion 0.05% Compared to Placebo in the Treatment of Inflammation and Pain Associated With Cataract Surgery",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-06-04",
+            "completion_date": "2021-04-14",
+            "country": "United States",
+            "enrollment": 215,
+            "brief_summary": "Cataract surgery is one of the most common surgical procedures performed worldwide. In fact, in 2017, 3.8 million cataracts procedures were performed in the US.\n\nDespite of surgical advances, pain and inflammation after ophthalmic surgery continues to be a burden on both patients and physicians. The treatment of postoperative pain is essential for hospitalized patients, but it is even more important for patients who are treated on an outpatient basis.\n\nThis study will compare the efficacy and sa",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, age 18 years or older on day of consent\n2. Participants with routine unilateral cataract surgery on the day prior to study randomization\n3. Participants with at least 5 cells in anterior chamber on the first day after surgery (at Baseline visit)\n4. Willing and",
+            "endpoints": [
+              "Anterior Chamber Cell Grade"
+            ],
+            "sponsor": "Salvat",
+            "url": "https://clinicaltrials.gov/study/NCT04249076"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02114073",
+            "title": "Comparison of Effect of Cyclosporine Ophthalmic Emulsion 2% and Betamethasone Eye Drop on Intraocular Pressure, Conjunctival Hyperemia and Subjective Dry Eye Symptoms Following Trabeculectomy in Open Angle Glaucoma Patients",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2014-04",
+            "completion_date": "2015-02",
+            "country": "Iran",
+            "enrollment": 40,
+            "brief_summary": "Glaucoma is one of the leading causes of blindness worldwide and trabeculectomy is the most commonly performed operation to slow-down the disease progression. In this study, we compare the effect of topical cyclosporine A and betamethasone eye drops on the postoperative course and surgical success of trabeculectomy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* POAG patient with insufficient IOP control on maximal tolerable medical therapy (MTMT), undergoing primary trabeculectomy with MMC augmentation.\n\nExclusion Criteria:\n\n* Age \\<20 years\n* History of previous ocular surgery in the same eye;\n* Candidate for combined surgery;\n* Pre",
+            "endpoints": [
+              "Intraocular Pressure (IOP)",
+              "Bleb morphology",
+              "Subjective dry eye symptoms"
+            ],
+            "sponsor": "Mashhad University of Medical Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT02114073"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04741763",
+            "title": "\"Night Vision and Carotenoids\" A 2 Center Study of the Physiological Function of the Eyes",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2018-02-13",
+            "completion_date": "2020-08-20",
+            "country": "United States",
+            "enrollment": 27,
+            "brief_summary": "Vision at twilight and night is more difficult and dangerous for the entire population, even more so for the elderly and especially for the elderly with degenerative disease. Multiple worldwide laboratories have demonstrated the ability to raise macular pigment optical density with dietary carotenoids. This proposal further evaluates the relationship between macular re- pigmentation and vision under stressed conditions simulating twilight and night driving.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* No significant supplementary carotenoids within last 10 weeks. Without significant media opacity, cataract or congenital / acquired retinal disease other than atrophic AMD or diabetic retinopathy. Minimum 20/25 to enroll.\n\nExclusion Criteria:\n\n* Unwilling or medically / psychi",
+            "endpoints": [
+              "MPOD"
+            ],
+            "sponsor": "Davis EyeCare",
+            "url": "https://clinicaltrials.gov/study/NCT04741763"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04976816",
+            "title": "Local Betamethasone Versus Triamcinolone Injection in Management of Thyroid-Related Upper Lid Retraction With and Without Proptosis",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2021-12-01",
+            "completion_date": "2023-10-30",
+            "country": "Egypt",
+            "enrollment": 92,
+            "brief_summary": "To compare the efficacy of local injections of two different types of steroid (betamethasone suspension versus triamcinolone acetate) in management of patients with thyroid-related upper lid retraction either isolated or associated with proptosis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Thyroid Eye Disease.\n* Thyroid function within normal range.\n\nExclusion Criteria:\n\n* Patients on systemic steroid and or immunosuppressive therapy.\n* Patients underwent thyroidectomy.\n* Sight threatening (severe) TED which requires immediate surgery.\n* Pa",
+            "endpoints": [
+              "to measure the change in MRD1 in mm using slit lamp biomicroscope in all groups after peri-levator injection of different types of steroid",
+              "to measure the change in proptosis in mm using Hertel's exophthalmometer in group B after retrobulbar injection of different types of steroid"
+            ],
+            "sponsor": "Assiut University",
+            "url": "https://clinicaltrials.gov/study/NCT04976816"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01546402",
+            "title": "Intraoperative Dexamethasone Implant (Ozurdex®) Improves Outcome of Cataract Surgery in Patients With Diabetic Macular Edema",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2011-05",
+            "completion_date": "2012-11",
+            "country": "India",
+            "enrollment": 20,
+            "brief_summary": "This study is undertaken to determine the effect of intravitreal long acting dexamethasone implant, (Ozurdex®) in improving outcome of cataract surgery in patients with diabetic macular edema.\n\nDiabetic Macular Edema and cataract constitute important causes of visual impairment in patients with diabetes. Cataract surgery in patients with diabetic retinopathy is associated with progression of retinopathy.\n\nSeveral modalities such as non-steroidal anti-inflammatory agents, carbonic anhydrase inhib",
+            "eligibility_criteria": "Inclusion Criteria:\n\nThe patients of Type 2 Diabetes Mellitus fulfilling the following inclusion criteria shall be enrolled in the study:\n\n1. Presence of visually significant cataract requiring surgery (any grade)\n2. Patients with Non-proliferative Diabetic Retinopathy (NPDR) with/without clinically",
+            "endpoints": [
+              "Change in the Central Macular Thickness"
+            ],
+            "sponsor": "PIMERIndia",
+            "url": "https://clinicaltrials.gov/study/NCT01546402"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02912182",
+            "title": "Acute Unilateral Vestibulopathy and Corticosteroid Treatment",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2015-12",
+            "completion_date": "2021-03-01",
+            "country": "Sweden",
+            "enrollment": 78,
+            "brief_summary": "Randomized placebo controlled trial on patients suffering from acute unilateral vestibulopathy. Patients will be randomized into 3 arms; 1) Placebo only, 2) Short corticosteroid treatment (3days) 3) Longer corticosteroid treatment (11 days).\n\nVestibular function as well as subjective symptoms will be estimated in the acute stage and regularly up to one year after the debut.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* definite unilateral vestibulopathy\n* no pathological HINTS (examination criteria in acute vestibular syndrome)\n* capable of making their own decisions\n\nExclusion Criteria:\n\n* tinnitus or hearing loss with same debut as vertigo\n* history of bleeding peptic ulcer\n* glaucoma\n* pr",
+            "endpoints": [
+              "Caloric function",
+              "Caloric function"
+            ],
+            "sponsor": "Lund University",
+            "url": "https://clinicaltrials.gov/study/NCT02912182"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07242846",
+            "title": "EFFECT OF INTRAARTICULAR TRIAMCINOLONE HEXACETONIDE AND BETAMETHASONE ON INTRAOCULAR PRESSURE: A PROSPECTIVE RANDOMIZED STUDY",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2025-10-02",
+            "completion_date": "2025-11-10",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 80,
+            "brief_summary": "This study is being done to find out whether two commonly used corticosteroid injections for knee osteoarthritis - betamethasone and triamcinolone hexacetonide - have different effects on eye pressure (intraocular pressure). Adults with painful early-stage knee osteoarthritis who have not improved with standard treatments receive one of these injections into the knee joint as part of their usual care. Eye pressure in both eyes is measured before the injection and one week later. By comparing the",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Symptomatic early-stage knee osteoarthritis Patients aged 18-75 years No prior eye surgery No history of elevated IOP or glaucoma diagnosis Patients not receiving any medical treatment altering IOP\n\nExclusion Criteria:\n\n* IOP \\>21 mm Hg Patients with a previous or current diag",
+            "endpoints": [
+              "Change in Intraocular Pressure (IOP) From Baseline to 1 Week"
+            ],
+            "sponsor": "Nigde Omer Halisdemir University",
+            "url": "https://clinicaltrials.gov/study/NCT07242846"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03038295",
+            "title": "Safety and Efficacy of Propranolol Treatment in Newborns With Retinopathy of Prematurity:a Prospective Cohort Study",
+            "phase": "PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2017-03",
+            "completion_date": "2019-12",
+            "country": "N/A",
+            "enrollment": 100,
+            "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of oral/local propranolol in preterm newborns who diagnosed as early phase of retinopathy of prematurity (ROP).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm newborns (birth weight less than 1500g) with stage 1/2 ROP in Zone 2 or 3 without plus\n* A signed parental informed consent\n\nExclusion Criteria:\n\n* Newborns with heart failure\n* Newborns with recurrent bradycardia (heart rate \\< 90 beat per minute)\n* Newborns with seco",
+            "endpoints": [
+              "Number of newborns who have ROP progression",
+              "Number of newborns who need surgical treatment",
+              "Number of newborns who have side effects"
+            ],
+            "sponsor": "Guangdong Women and Children Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03038295"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04734197",
+            "title": "A Multicenter, Randomized, Double-Masked Study To Evaluate The Safety, Tolerability, And Efficacy Of SURF-100 Ophthalmic Solution (A Mycophenolic Acid/Betamethasone Sodium Phosphate Combination) In Subjects With Dry Eye Disease",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2021-01-11",
+            "completion_date": "2022-03-25",
+            "country": "United States",
+            "enrollment": 349,
+            "brief_summary": "SURF-100 is being studied for the treatment of dry eye disease. SURF-100 is an investigational drug (which means the study drug is currently being tested) in the form of a sterile eye drop.\n\nThe purpose of this research study is to see how well SURF-100 works to treat dry eye and what potential side effects there are, and to compare it with Vehicle (placebo), 0.1% mycophenolic acid (MPA) in Vehicle, 0.3% MPA in Vehicle, 0.01% betamethasone phosphate (BSP) in Vehicle, Restasis and Xiidra. This st",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults at least 18 years of age at the time of the Screening visit.\n2. Willing and able to read, sign, and date the informed consent form (ICF) after the nature of the study has been explained and any questions have been answered, and prior to initiation of any study procedur",
+            "endpoints": [
+              "University of North Carolina Dry Eye Management Scale (UNC DEMS) Responder Analysis"
+            ],
+            "sponsor": "Surface Ophthalmics, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT04734197"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04194814",
+            "title": "Validation of a Novel Composite of Skin Biomarkers as a Primary Outcome Measure for Evaluating the Safety of Treatments for Atopic Dermatitis: a Randomized Controlled Trial (Phase 2) Comparing the Effects of Crisaborole 2% Ointment to Betamethasone Valerate 0.1% Cream on Skin Structure and Function in Participants With Atopic Dermatitis.",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2020-11-20",
+            "completion_date": "2021-09-30",
+            "country": "United Kingdom",
+            "enrollment": 37,
+            "brief_summary": "The study aims to investigate two new non-invasive technologies for assessing skin properties to identify and validate a range of safety biomarkers that may be considered useful as primary outcome measures for evaluating the safety of topical treatments in atopic dermatitis. The method of assessing these biomarker technologies will be to determine whether twice daily treatment with crisaborole (2%) ointment, compared to betamethasone valerate (0.1%) cream, for up to 4 weeks, may cause skin struc",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Volunteers with AD defined according to the UK working party diagnostic criteria\n* Male or female aged 18-65 years old at baseline (Visit 1)\n* Volunteer understands the purpose, modalities and potential risk of the trial\n* Participants able to read and understand English\n* Par",
+            "endpoints": [
+              "Change in Epidermal Thickness"
+            ],
+            "sponsor": "Sheffield Teaching Hospitals NHS Foundation Trust",
+            "url": "https://clinicaltrials.gov/study/NCT04194814"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06643416",
+            "title": "Efficacy and Safety of Add-on Topical Timolol in the Management of Epidermal Growth Factor and Anaplastic Lymphoma Kinase Receptor Tyrosine Kinase Inhibitor-induced Paronychia: a Prospective Randomized Open-labelled Trial",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2024-10-09",
+            "completion_date": "2025-12-31",
+            "country": "Hong Kong",
+            "enrollment": 40,
+            "brief_summary": "To assess the clinical efficacy of add-on topical timolol 0.5% eye drops to betamethasone valerate 0.1% for the treatment of EGFR-TKI and ALK-TKI induced paronychia.",
+            "eligibility_criteria": "Inclusion criteria\n\n1. Aged 18 years or above, either males or females.\n2. Received EGFR-TKI and ALK-TKI, namely gefitinib, erlotinib, afatinib, osimertinib, amivantamab, dacomitinib, mobocertinib, crizotinib, ceritinib, alectinib, brigatinib and lorlatinib for the treatment of non-small cell lung c",
+            "endpoints": [
+              "The proportion of patients achieved complete response (disappearance of the lesion, absent pain, and/or bleeding) on topical timolol 0.5% eye drops as compared to betamethasone valerate 0.1% lotion"
+            ],
+            "sponsor": "Queen Mary Hospital, Hong Kong",
+            "url": "https://clinicaltrials.gov/study/NCT06643416"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01168375",
+            "title": "The Role of Umbilical Cord Serum Therapy on Improvement of Corneal Epithelial Defect Following Diabetic Vitrectomy",
+            "phase": "PHASE1",
+            "status": "UNKNOWN",
+            "start_date": "",
+            "completion_date": "",
+            "country": "Iran",
+            "enrollment": "N/A",
+            "brief_summary": "80 diabetic patients underwent vitrectomy and had no history of Eye herpes infection, Refractive surgery, Autoimmune disease, Immune deficiency will be randomized into two groups (double blind)to evaluate the role of umbilical cord serum therapy on improvement of corneal epithelial defect following diabetic vitrectomy. Both groups will take the conventional medication including Chloramphenicol, Betamethasone, Cycloplegic eye drops besides the case group will take umbilical cord serum eye drop in",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetic patients with corneal epithelial defect following diabetic vitrectomy at labbafinejad Hospital\n\nExclusion Criteria:\n\n* Any history of Eye herpes infection, Refractive surgery, Autoimmune disease, Immune deficiency\n* Patients with one eye\n* Use of any eye drops except ",
+            "endpoints": [
+              "measurement of corneal epithelial defect"
+            ],
+            "sponsor": "Shahid Beheshti University of Medical Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT01168375"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03192722",
+            "title": "Low Vision Patients' Preference for Colored Filters and Illumination for Near Reading Determined by the LuxIQ/2",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2017-04-20",
+            "completion_date": "2023-05-31",
+            "country": "United States",
+            "enrollment": 42,
+            "brief_summary": "The effect of tinted filters and illumination on the visual performance of patients with low vision (i.e., individuals with reduced vision that is uncorrectable with glasses, surgery or treatments) has been a topic of research and discussion for many years, yet there is no current consensus or practice standard for the evaluation and recommendation of colored filters and/or illumination intensity. Anecdotally, there have been many subjective reports of improvement in visual function and comfort ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who express a desire to obtain filters in a pair of near reading glasses\n* Age 18 and older\n* Provide informed consent\n* Complaints of difficulty performing sustained reading tasks, such as reading books or magazines\n* Patients who are interested in obtaining preferre",
+            "endpoints": [
+              "Changes in Ramulu's sustained reading test",
+              "Reading domain of Activity inventory"
+            ],
+            "sponsor": "Nova Southeastern University",
+            "url": "https://clinicaltrials.gov/study/NCT03192722"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03844178",
+            "title": "Role of Pupil Centroid Shift Compensation on Lower and Higher Order Aberrations During Photorefractive Keratectomy: An Eye-to-Eye Study",
+            "phase": "PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2019-02-10",
+            "completion_date": "2019-07-01",
+            "country": "Iran",
+            "enrollment": 104,
+            "brief_summary": "patients who are candidates of PRK will be recruited in this intrasubject randomized clinical trial. Inclusion criteria are myopia or myopic astigmatism with refractive cylinder. Exclusion criteria were unstable refractive error, age less than 21 years old, corneal opacity, keratoconus, keratoconus suspects, residual corneal stromal thickness less than 350 µm, moderate or severe dry eye disease and any other ocular pathology other than refractive error. Complete eye exam will be performed preope",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* myopia\n* myopic astigmatism\n\nExclusion Criteria:\n\n* unstable refractive error, age less than 21 years old\n* corneal opacity\n* keratoconus, keratoconus suspects\n* residual corneal stromal thickness less than 350 µm\n* moderate or severe dry eye disease\n* any other ocular patholo",
+            "endpoints": [
+              "Postoperative refractive error"
+            ],
+            "sponsor": "Shahid Beheshti University of Medical Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT03844178"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01075347",
+            "title": "Clinical Study: Topical Autologous Serum Application for the Treatment of Corneal Epithelium Defect After Ocular Surgeries",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2007-03",
+            "completion_date": "2008-03",
+            "country": "Taiwan",
+            "enrollment": 165,
+            "brief_summary": "Ophthalmology ,cornea Autologous serum has long been known to be effective to promote corneal epithelial wound healing in a variety of ocular surface disorders. However, its effectiveness for corneal epithelial defects due to pars plana vitrectomy (PPV) for diabetic retinopathy and penetrating keratoplasty has seldom been reported. In this study, we plan to perform a prospective study to determine the effectiveness of topical autologous serum as a primary treatment for corneal epithelial defect ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patients with proliferative diabetic retinopathy who's condition need to receive pars plana vitrectomy or patients who need to receive penetrating keratoplasty\n\nExclusion Criteria:\n\n* For PPV: ocular disease such as limbal stem cell Insufficiency , glaucoma, lagophthalmos\n* Fo",
+            "endpoints": [
+              "Patients With Corneal Epithelial Healing Time Within 14 Days"
+            ],
+            "sponsor": "National Taiwan University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT01075347"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06084624",
+            "title": "Evaluation of Topical Rebamipide Versus Topical Betamethasone for Management of Oral Ulcers in Behcet's Disease: A Randomized Clinical Trial",
+            "phase": "PHASE1, PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2023-12",
+            "completion_date": "2025-04",
+            "country": "N/A",
+            "enrollment": 40,
+            "brief_summary": "The goal of this randomized clinical trial is to to compare the effect of topical rebamipide to topical betamethasone on oral ulcer severity in patients with Behcet's disease.. The main question it aims to answer is :\n\nWhat is the effect of topical Rebamipide mouthwash compared to topical betamethasone mouthwash in management of oral ulcers in Behcet's disease?\n\nParticipants will will be divided randomly into the two groups and the following outcomes will be measured:\n\nThe oral ulcers severity P",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients diagnosed with Behcet's disease as defined by the revised International Criteria for Behcet's Disease (ICBD2014).\n2. Patients with active oral ulcers.\n3. Patients free from any visible oral lesions other than the oral ulcers of BD.\n4. Patient who will agree to partic",
+            "endpoints": [
+              "oral ulcer severity"
+            ],
+            "sponsor": "Cairo University",
+            "url": "https://clinicaltrials.gov/study/NCT06084624"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "leukemia, lymphocytic, susceptibility to",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "rheumatic heart disease",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "5854785",
+            "title": "[Prednisone and betamethasone phosphate in prolonged treatment of rheumatic heart disease of childhood].",
+            "abstract": "",
+            "journal": "Il Fracastoro",
+            "year": "1965",
+            "authors": [
+              "Mastella G",
+              "Mantovanelli S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Betamethasone",
+              "Child",
+              "Female",
+              "Humans",
+              "Male",
+              "Prednisone",
+              "Rheumatic Fever",
+              "Rheumatic Heart Disease"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5854785/"
+          },
+          {
+            "pmid": "5408413",
+            "title": "[Therapeutic experience with an association of corticosteroids in pediatrics].",
+            "abstract": "",
+            "journal": "Rivista di clinica pediatrica",
+            "year": "1969",
+            "authors": [
+              "Magni L A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Age Factors",
+              "Arthritis, Rheumatoid",
+              "Asthma",
+              "Betamethasone",
+              "Bronchitis",
+              "Drug Synergism",
+              "Humans",
+              "Nephrotic Syndrome",
+              "Prednisolone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5408413/"
+          },
+          {
+            "pmid": "6009983",
+            "title": "[Duration of antirheumatic treatment in the prevention of rheumatic valvular incompetence].",
+            "abstract": "",
+            "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+            "year": "1966",
+            "authors": [
+              "Nagayama T",
+              "Oda T"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Betamethasone",
+              "Child",
+              "Child, Preschool",
+              "Heart Valve Diseases",
+              "Humans",
+              "Prednisolone",
+              "Rheumatic Fever",
+              "Rheumatic Heart Disease"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6009983/"
+          },
+          {
+            "pmid": "5404435",
+            "title": "[Use of a steroid combination in the treatment of rheumatic diseases in pediatrics. Preliminary note].",
+            "abstract": "",
+            "journal": "Reumatismo",
+            "year": "1969",
+            "authors": [
+              "Cerri B",
+              "Luvarà A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adolescent",
+              "Arthritis, Juvenile",
+              "Betamethasone",
+              "Body Weight",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5404435/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16035026AZ",
+        "product": "Xorsoint 0.1 Betamethasone 17 valerate 0.1% w/w ointment",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.001gm;1gm]",
+        "generic_name": NaN,
+        "holder": "Xorix Sdn Bhd",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-03-12",
+        "date_end": "2026-03-12",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16035026AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11060001AZ",
+        "product": "Quall Eczema Cream",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.64;mg;1.0;g]",
+        "generic_name": "Betamethasone Dipropionate 0.05% Cream",
+        "holder": "ZULAT PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-06-25",
+        "date_end": "2026-06-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11060001AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06061318AZ",
+        "product": "Bevarate-N cream",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.12;%(w/w);;0],NEOMYCIN SULPHATE[0.50;%(w/w);;0]",
+        "generic_name": "Neomycin 0.5 % in Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-02",
+        "date_end": "2026-07-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06061318AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19913399AZ",
+        "product": "BEPROGEL TOPICAL SOLUTION",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.064;%W/V;;]",
+        "generic_name": "Betamethasone Dipropionate 0.064% Liquid",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-05",
+        "date_end": "2026-07-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19913399AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16105034AZ",
+        "product": "BEZONE OINTMENT 0.1% W/W",
+        "active_ingredient": "BETAMETHASONE VALERATE[1.214mg;1.0mg]",
+        "generic_name": NaN,
+        "holder": "MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-11-01",
+        "date_end": "2026-11-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16105034AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20014528AZ",
+        "product": "BENOSONE CREAM",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.12% W/W                     ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-01",
+        "date_end": "2026-12-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20014528AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20014529AZ",
+        "product": "BENOSONE OINTMENT",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.12% W/W                     ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Ointment",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-01",
+        "date_end": "2026-12-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20014529AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11105005AZ",
+        "product": "DEFUZIN-B CREAM",
+        "active_ingredient": "FUSIDIC ACID[2.00% w/w],BETAMETHASONE VALERATE[0.121% w/w]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-13",
+        "date_end": "2026-12-13",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11105005AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19913375AZ",
+        "product": "FUCICORT CREAM",
+        "active_ingredient": "FUSIDIC ACID[20 mg,5 g],BETAMETHASONE VALERATE[1 mg,5 g]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-18",
+        "date_end": "2026-12-18",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19913375AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20071620AEZ",
+        "product": "BETAMETHASONE-G TABLET 0.5MG",
+        "active_ingredient": "BETAMETHASONE[0.5MG]",
+        "generic_name": "Betamethasone 0.5 mg Tablet",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-01-29",
+        "date_end": "2027-01-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20071620AEZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12025054AZ",
+        "product": "Betacylic Ointment",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.643mg;1gm],SALICYLIC ACID[30mg;1gm]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-02-24",
+        "date_end": "2027-02-24",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12025054AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12025053AZ",
+        "product": "Salic Ointment",
+        "active_ingredient": "SALICYLIC ACID[30mg;0],BETAMETHASONE DIPROPIONATE[0.64mg;0]",
+        "generic_name": NaN,
+        "holder": "AVERROES PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-02-25",
+        "date_end": "2027-02-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12025053AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22036018AZ",
+        "product": "Uniqler Cream 0.05% w/w",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.064 %w/w]",
+        "generic_name": NaN,
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-03-03",
+        "date_end": "2027-03-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22036018AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22036016AZ",
+        "product": "Bencovee Cream",
+        "active_ingredient": "CLOTRIMAZOLE[1.000 %w/w],BETAMETHASONE DIPROPIONATE[0.064 %w/w]",
+        "generic_name": NaN,
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-03-03",
+        "date_end": "2027-03-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22036016AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19970613AZ",
+        "product": "BETNESONE-G CREAM",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.1% W/W                      ],GENTAMICIN SULPHATE[0.1% W/W                      ]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Gentamicin Sulphate 0.1% Cream",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-03-26",
+        "date_end": "2027-03-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19970613AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12035002AZ",
+        "product": "Betalin Cream 0.05%w/w",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.64mg;0]",
+        "generic_name": "Betamethasone Dipropionate 0.05% Cream",
+        "holder": "AVERROES PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-03-31",
+        "date_end": "2027-03-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12035002AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22046016AZ",
+        "product": "CALCIBET Ointment (Calcipotriol 50mcg/g and Betamethasone 0.5mg/g)",
+        "active_ingredient": "Calcipotriol Monohydrate[52.2  mcg,1 gm],BETAMETHASONE DIPROPIONATE[0.643 mg,1 gm]",
+        "generic_name": NaN,
+        "holder": "HEALOL PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-04-07",
+        "date_end": "2027-04-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22046016AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19970903AZ",
+        "product": "BEPROGENT  OINTMENT",
+        "active_ingredient": "GENTAMICIN SULPHATE[0.17%                         ],BETAMETHASONE DIPROPIONATE[0.064%                        ]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Gentamicin Sulphate 0.1% Ointment",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-04-30",
+        "date_end": "2027-04-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19970903AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19970902AZ",
+        "product": "BEPROGENT CREAM",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.064% W/W                    ],GENTAMICIN SULPHATE[0.17% W/W                     ]",
+        "generic_name": "Betamethasone 0.05% & Gentamicin Sulphate 0.1% Cream",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-04-30",
+        "date_end": "2027-04-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19970902AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19920300AZ",
+        "product": "BEZONE CREAM 0.1% W/W",
+        "active_ingredient": "BETAMETHASONE[0.1%W/W                       ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-12",
+        "date_end": "2027-05-12",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19920300AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860150AZ",
+        "product": "BEAVATE CREAM 0.1%",
+        "active_ingredient": "BETAMETHASONE[0.1%                          ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "DUOPHARMA MANUFACTURING (BANGI) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-06",
+        "date_end": "2027-06-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860150AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19970637AZ",
+        "product": "UNIFLEX CREAM 0.05%",
+        "active_ingredient": "BETAMETHASONE[=0.05% W/W                    ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.01 - 0.05 % Cream",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-06",
+        "date_end": "2027-06-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19970637AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020808AZ",
+        "product": "DUZEN-B CREAM",
+        "active_ingredient": "FUSIDIC ACID[2.0%                          ],BETAMETHASONE VALERATE[0.12%                         ]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-25",
+        "date_end": "2027-06-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020808AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871372AZ",
+        "product": "DIPROGENTA CREAM",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.05 %                        ],GENTAMICIN SULPHATE[0.1 %                         ]",
+        "generic_name": "Betamethasone 0.05% & Gentamicin Sulphate 0.1% Cream",
+        "holder": "ORGANON MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-07-05",
+        "date_end": "2027-07-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871372AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19961681ACRZ",
+        "product": "BETNOVATE-N CREAM",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.122% W/W                    ],NEOMYCIN SULPHATE[0.50% W/W                     ]",
+        "generic_name": "Neomycin 0.5 % in Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-13",
+        "date_end": "2027-08-13",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19961681ACRZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19961263ARZ",
+        "product": "BETNOVATE CREAM 0.1%",
+        "active_ingredient": "BETAMETHASONE[=0.1%                         ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-13",
+        "date_end": "2027-08-13",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19961263ARZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19880402AZ",
+        "product": "ANTASONE CREAM",
+        "active_ingredient": "GENTAMICIN SULPHATE[0.1%W/W                       ],BETAMETHASONE[0.1%W/W                       ]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Gentamicin Sulphate 0.1% Cream",
+        "holder": "THE ZYFAS MEDICAL CO.,",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-30",
+        "date_end": "2027-08-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19880402AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021135AZ",
+        "product": "BEPROSALIC LOTION",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.064% W/V                    ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[2.0% W/V                      ]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Salicylic Acid 2% Lotion",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-01",
+        "date_end": "2027-10-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021135AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19921156AZ",
+        "product": "UNIFLEX CREAM 0.025%",
+        "active_ingredient": "BETAMETHASONE[=0.025%                       ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.01 - 0.05 % Cream",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-04",
+        "date_end": "2027-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19921156AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860148AZ",
+        "product": "Hovid Betasone Cream 0.1% w/w",
+        "active_ingredient": "BETAMETHASONE[0.1%                          ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-04",
+        "date_end": "2027-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860148AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860244AZ",
+        "product": "NEO BETASONE CREAM",
+        "active_ingredient": "BETAMETHASONE[=0.1% W/W                     ],NEOMYCIN SULPHATE[0.5% W/W                      ]",
+        "generic_name": "Neomycin 0.5 % in Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-31",
+        "date_end": "2027-10-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860244AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19921279AZ",
+        "product": "PHARMANIAGA DERMASOLE OINTMENT 0.1% W/W",
+        "active_ingredient": "BETAMETHASONE[=0.1%                         ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Ointment",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-01-07",
+        "date_end": "2028-01-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19921279AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23056038AZ",
+        "product": "Beta Fusidic Cream",
+        "active_ingredient": "Fusidic Acid (Micronised)[2 %w/w],BETAMETHASONE-17 VALERATE[0.1215 %w/w]",
+        "generic_name": NaN,
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-05-11",
+        "date_end": "2028-05-11",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23056038AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23056034AZ",
+        "product": "XERALIX OINTMENT",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.064 %w/w],SALICYLIC ACID[3.000 %w/w]",
+        "generic_name": NaN,
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-05-11",
+        "date_end": "2028-05-11",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23056034AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08051759AZ",
+        "product": "Betasolve 0.1% Cream",
+        "active_ingredient": "Betamethasone 17 Valerate[0.12;%(w/w);;0]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "WINWA MEDICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-01",
+        "date_end": "2028-06-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08051759AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020242AZ",
+        "product": "DIBETASOL INJECTION",
+        "active_ingredient": "BETAMETHASONE SODIUM PHOSPHATE[2.63MG                        ],BETAMETHASONE DIPROPIONATE[6.43MG                        ]",
+        "generic_name": "Betamethasone Dipropionate 5 mg/ml  & Betamethasone Disodium Phosphate 2 mg/ml Injection",
+        "holder": "THE ZYFAS MEDICAL CO.,",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-07-06",
+        "date_end": "2028-07-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020242AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19870588AZ",
+        "product": "BEMETHA TABLET 0.5MG",
+        "active_ingredient": "BETAMETHASONE[0.5MG                         ]",
+        "generic_name": "Betamethasone 0.5 mg Tablet",
+        "holder": "DUOPHARMA MANUFACTURING (BANGI) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19870588AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19870604AZ",
+        "product": "ROYCE BETASONE CREAM 0.1 % W/W",
+        "active_ingredient": "BETAMETHASONE[0.1% W/W                      ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "ROYCE PHARMA MANUFACTURING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19870604AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871155AZ",
+        "product": "UNIFLEX-N CREAM",
+        "active_ingredient": "BETAMETHASONE[=0.1% W/W                     ],NEOMYCIN SULPHATE[0.5% W/W                      ]",
+        "generic_name": "Neomycin 0.5 % in Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871155AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19870597AZ",
+        "product": "BEPROSONE  CREAM 0.064% W/W",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.064;%;;]",
+        "generic_name": "Betamethasone Dipropionate 0.05% Cream",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19870597AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19870596AZ",
+        "product": "BEPROSONE OINTMENT 0.064% W/W",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.064%W/W                     ]",
+        "generic_name": "Betamethasone Dipropionate 0.064% Ointment",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19870596AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19870603AZ",
+        "product": "SW BETAMETHASONE CREAM 0.1% W/W",
+        "active_ingredient": "BETAMETHASONE[0.1%                          ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "SUNWARD PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19870603AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19870593AZ",
+        "product": "DIPROCEL OINTMENT 0.05% W/W",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.05% W/W                     ]",
+        "generic_name": "Betamethasone Dipropionate 0.05% Ointment",
+        "holder": "ORGANON MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19870593AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19870620AZ",
+        "product": "PHARMANIAGA DERMASOLE CREAM 0.1% W/W",
+        "active_ingredient": "BETAMETHASONE[0.1% W/W                      ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19870620AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871164AZ",
+        "product": "BEPROSALIC  OINTMENT",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.064% W/W                    ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[3% W/W                        ]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Salicylic Acid 3% Ointment",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-14",
+        "date_end": "2028-09-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871164AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19870615AZ",
+        "product": "UNIFLEX CREAM",
+        "active_ingredient": "BETAMETHASONE[100MG/100G                    ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-14",
+        "date_end": "2028-09-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19870615AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19987365AZ",
+        "product": "FOBANCORT CREAM",
+        "active_ingredient": "FUSIDIC ACID[2% W/W                        ],BETAMETHASONE DIPROPIONATE[0.064% W/W                    ]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.05 % Cream",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-30",
+        "date_end": "2028-09-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19987365AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19987364AZ",
+        "product": "FOBANCORT OINTMENT",
+        "active_ingredient": "SODIUM FUSIDATE[2%W/W],BETAMETHASONE DIPROPIONATE[0.064% W/W]",
+        "generic_name": "Sodium Fusidate 2 % Ointment",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-30",
+        "date_end": "2028-09-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19987364AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19987988AZ",
+        "product": "PHARMANIAGA DERMAL SA OINTMENT",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.05% W/W                     ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[3.0% W/W                      ]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Salicylic Acid 3% Ointment",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-10-28",
+        "date_end": "2028-10-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19987988AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20132334AEZ",
+        "product": "TRISILON CREAM",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.064%W/W],CLOTRIMAZOLE[1%W/W],Gentamicin Sulfate[0.17%W/W]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-01",
+        "date_end": "2028-12-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20132334AEZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08111773AZ",
+        "product": "Disuf-B Cream",
+        "active_ingredient": "FUSIDIC ACID[2.00;%(w/w);;0],BETAMETHASONE VALERATE[0.12;%(w/w);;0]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-05",
+        "date_end": "2028-12-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08111773AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19990268AZ",
+        "product": "PHARMANIAGA DERMAL G CREAM",
+        "active_ingredient": "GENTAMICIN SULPHATE[0.167%                          ],BETAMETHASONE DIPROPIONATE[0.064%                         ]",
+        "generic_name": "Betamethasone 0.05% & Gentamicin Sulphate 0.1% Cream",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-03-01",
+        "date_end": "2029-03-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19990268AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24036030AZ",
+        "product": "Axtriol-B Gel",
+        "active_ingredient": "Calcipotriol Monohydrate[ ],BETAMETHASONE DIPROPIONATE[ ]",
+        "generic_name": NaN,
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-03-07",
+        "date_end": "2029-03-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24036030AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24046017AZ",
+        "product": "Axcel Fusidic Acid-B Cream (New Formula)",
+        "active_ingredient": "FUSIDIC ACID[20.00 mg,1.00 gm],BETAMETHASONE-17 VALERATE[1.210 mg,1.00 gm]",
+        "generic_name": NaN,
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-04-04",
+        "date_end": "2029-04-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24046017AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940031AZ",
+        "product": "YSP Betamethasone Tablet 0.5mg",
+        "active_ingredient": "BETAMETHASONE[0.5MG                         ]",
+        "generic_name": "Betamethasone 0.5 mg Tablet",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-04-08",
+        "date_end": "2029-04-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940031AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040816AZ",
+        "product": "DAIVOBET OINTMENT",
+        "active_ingredient": "CALCIPOTRIOL[50mcg/g],BETAMETHASONE DIPROPIONATE[0.643MG/G]",
+        "generic_name": "Calcipotriol Hydrate 50 mcg/g & Betamethasone Dipropionate 0.5 mg/g Ointment",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-05-02",
+        "date_end": "2029-05-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040816AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19056035ACZ",
+        "product": "BACTAFUZ-B Fusidic Acid and Betamethasone Valerate Cream",
+        "active_ingredient": "FUSIDIC ACID[2.0 %w/w],BETAMETHASONE VALERATE[0.1214 %w/w]",
+        "generic_name": NaN,
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-05-03",
+        "date_end": "2029-05-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19056035ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19076025AZ",
+        "product": "Betaprosalic Ointment",
+        "active_ingredient": "Betamethasone Dipropionate (Micronised)[0.640mg/g],SALICYLIC ACID[30.000mg/g]",
+        "generic_name": NaN,
+        "holder": "Noripharma Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-05",
+        "date_end": "2029-07-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19076025AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19076019ACZ",
+        "product": "Medisone Cream 0.1% W/W",
+        "active_ingredient": "Betamethasone 17 Valerate[0.1214 g]",
+        "generic_name": NaN,
+        "holder": "World Medicare Supplies Sdn Bhd",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-05",
+        "date_end": "2029-07-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19076019ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20041001AZ",
+        "product": "B-MYCIN CREAM",
+        "active_ingredient": "GENTAMICIN SULPHATE[1.59MG/G],BETAMETHASONE DIPROPIONATE[0.643MG/G]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Gentamicin Sulphate 0.1% Cream",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-06",
+        "date_end": "2029-07-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20041001AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19991905AZ",
+        "product": "AXCEL FUSIDIC ACID-B CREAM",
+        "active_ingredient": "FUSIDIC ACID[2% W/W                        ],BETAMETHASONE VALERATE[0.1% W/W                      ]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-08-02",
+        "date_end": "2029-08-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19991905AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19890514AZ",
+        "product": "AXCEL BETAMETHASONE CREAM",
+        "active_ingredient": "Betamethasone 17 Valerate[1.213;mg]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19890514AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19890431AZ",
+        "product": "BEVARATE CREAM 0.1%",
+        "active_ingredient": "BETAMETHASONE[=0.1%                         ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19890431AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19890643AZ",
+        "product": "Betasone Actavis Cream 0.1%w/w",
+        "active_ingredient": "BETAMETHASONE[=0.1%W/W                      ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "DCH AURIGA (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19890643AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19096022AZ",
+        "product": "CP Pharma Betamethasone Cream 0.1% w/w",
+        "active_ingredient": "Betamethasone 17 Valerate[0.12 %w/w]",
+        "generic_name": NaN,
+        "holder": "Hovid Pharmacy Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-06",
+        "date_end": "2029-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19096022AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860243AZ",
+        "product": "BETA-N CREAM",
+        "active_ingredient": "NEOMYCIN SULPHATE[0.5% W/W                      ],BETAMETHASONE-17 VALERATE[0.12% W/W                     ]",
+        "generic_name": "Neomycin 0.5 % in Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "KCK PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-06",
+        "date_end": "2029-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860243AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19900048AZ",
+        "product": "ZONTRON BETASONE CREAM 0.1%W/W",
+        "active_ingredient": "BETAMETHASONE[100MG; 100G                          ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.01 % Cream",
+        "holder": "TERAPUTICS SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-10-03",
+        "date_end": "2029-10-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19900048AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860147AZ",
+        "product": "BETA CREAM 0.1%",
+        "active_ingredient": "BETAMETHASONE[0.1% W/W                      ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "KCK PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-10-04",
+        "date_end": "2029-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860147AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19993067AZ",
+        "product": "BETAPRO CREAM 0.05%",
+        "active_ingredient": "BETAMETHASONE[0.5MG/G                       ]",
+        "generic_name": "Betamethasone Dipropionate 0.05% Cream",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-12-28",
+        "date_end": "2029-12-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19993067AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940638AZ",
+        "product": "BUFENCON INJECTION 5ML VIAL",
+        "active_ingredient": "BETAMETHASONE SODIUM PHOSPHATE[10MG/5ML],BETAMETHASONE DIPROPIONATE[25MG/5ML]",
+        "generic_name": "Betamethasone Dipropionate 25 mg/ml  & Betamethasone Disodium Phosphate 10 mg/ml Injection",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-01-06",
+        "date_end": "2030-01-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940638AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940637AZ",
+        "product": "BUFENCON INJECTION 1ML AMP",
+        "active_ingredient": "BETAMETHASONE SODIUM PHOSPHATE[=2MG                          ],BETAMETHASONE DIPROPIONATE[=5MG                          ]",
+        "generic_name": "Betamethasone Dipropionate 5 mg/ml  & Betamethasone Disodium Phosphate 2 mg/ml Injection",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-01-06",
+        "date_end": "2030-01-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940637AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL09102914AZ",
+        "product": "DIPVITE SKIN CREAM",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.64;mg;1;g]",
+        "generic_name": "Betamethasone Dipropionate 0.05% Cream",
+        "holder": "ZULAT PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-01-16",
+        "date_end": "2030-01-16",
+        "url": "https://npra.gov.my/index.php/search/product/MAL09102914AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20000078AZ",
+        "product": "PHARMANIAGA GERMACORT CREAM",
+        "active_ingredient": "FUSIDIC ACID[2% W/W                        ],BETAMETHASONE[0.1% W/W                      ]",
+        "generic_name": "Fusidic Acid 2 % in Betamethasone Valerate 0.1 % Cream",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-02-01",
+        "date_end": "2030-02-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20000078AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20026049AZ",
+        "product": " Enstilar (Calcipotriol 50 mcg/g + Bethamethasone Dipropionate 0.5 mg/g) Cutaneous Foam",
+        "active_ingredient": "Calcipotriol monohydrate[50 mcg],Betamethasone Dipropionate[0.5 mg]",
+        "generic_name": NaN,
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-02-14",
+        "date_end": "2030-02-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20026049AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15025041AZ",
+        "product": "FUSIDASOL CREAM",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.05% w/w],FUSIDIC ACID[2.0% w/w]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-03-01",
+        "date_end": "2030-03-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15025041AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19950042AZ",
+        "product": "DYNAVATE CREAM 0.1%",
+        "active_ingredient": "BETAMETHASONE VALERATE[1.21mg/1gm]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-04-07",
+        "date_end": "2030-04-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19950042AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19950086AZ",
+        "product": "Betacort Cream 0.1% W/W",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.1%                          ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "SM PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-01",
+        "date_end": "2030-05-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19950086AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20001295AZ",
+        "product": "GENTASONE CREAM",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.05% W/W                     ],GENTAMICIN SULPHATE[0.1% W/W                      ]",
+        "generic_name": "Betamethasone 0.05% & Gentamicin Sulphate 0.1% Cream",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-08-01",
+        "date_end": "2030-08-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20001295AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15085075AZ",
+        "product": "B-MYCIN EYE & EAR DROPS",
+        "active_ingredient": "BETAMETHASONE SODIUM PHOSPHATE[1.0mg;1ml],GENTAMICIN SULPHATE[5.08mg;1ml]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-08-22",
+        "date_end": "2030-08-22",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15085075AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20001561AZ",
+        "product": "PHARMANIAGA DERMAL C CREAM",
+        "active_ingredient": "BETAMETHASONE[0.05%                         ],CLOTRIMAZOLE[1.00%                         ]",
+        "generic_name": "Clotrimazole 1%w/w & Beclomethasone Dipropionate 0.05%w/w Cream",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-08-29",
+        "date_end": "2030-08-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20001561AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19900173AZ",
+        "product": "DERMOSONE CREAM 0.1%",
+        "active_ingredient": "BETAMETHASONE[0.1%W/W                       ]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "WINWA MEDICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-09-05",
+        "date_end": "2030-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19900173AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL05092207AZ",
+        "product": "Salosone Ointment",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.065;%(w/w);;],SALICYLIC ACID[3.00;%(w/w);;]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Salicylic Acid 3% Ointment",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-10-02",
+        "date_end": "2030-10-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL05092207AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19950248AZ",
+        "product": "DYNAVATE-N CREAM",
+        "active_ingredient": "BETAMETHASONE[0.1 %],NEOMYCIN SULPHATE[0.5%                          ]",
+        "generic_name": "Neomycin 0.5 % in Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-10-07",
+        "date_end": "2030-10-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19950248AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL25116012AZ",
+        "product": "Jardin Betacream 0.05% w/w",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.05 %w/w]",
+        "generic_name": NaN,
+        "holder": "JARDIN MANUFACTURING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-11-03",
+        "date_end": "2030-11-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL25116012AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL25116064HA",
+        "product": "BETA-GUARD TOPICAL SPRAY",
+        "active_ingredient": "Gentamicin sulfate[0.68 mg,1 ml],Betamethasone valerate[0.345 mg,1 ml]",
+        "generic_name": NaN,
+        "holder": "RANGE PHARMA SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-11-03",
+        "date_end": "2030-11-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL25116064HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL25116013AZ",
+        "product": "Jardin Betacream 0.025% w/w",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.025 %w/w]",
+        "generic_name": NaN,
+        "holder": "JARDIN MANUFACTURING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-11-03",
+        "date_end": "2030-11-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL25116013AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10110027AZ",
+        "product": "BETAGEN EYE/EAR DROPS",
+        "active_ingredient": "GENTAMICIN SULPHATE[0.55;%(w/v);;0],BETAMETHASONE SODIUM PHOSPHATE[0.10;%(w/v);;0]",
+        "generic_name": "Gentamicin Sulphate 0.3% & Betamethasone Sodium Phosphate 0.1% Eye And Ear Drops",
+        "holder": "DUOPHARMA (M) SENDIRIAN BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-11-25",
+        "date_end": "2030-11-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10110027AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10110024AZ",
+        "product": "BETACIN EYE/EAR DROPS",
+        "active_ingredient": "NEOMYCIN SULPHATE[0.5;%(w/v);;0],BETAMETHASONE SODIUM PHOSPHATE[0.1;%(w/v);;0]",
+        "generic_name": "Betamethasone Disod Phos & Neomycin Sulp Eye & Ear Drops",
+        "holder": "DUOPHARMA (M) SENDIRIAN BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-11-25",
+        "date_end": "2030-11-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10110024AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10120015AZ",
+        "product": "Xamiol Gel",
+        "active_ingredient": "Calcipotriol hydrate[50;mcg;1;g],BETAMETHASONE DIPROPIONATE[0.643;mg;1;g]",
+        "generic_name": "Calcipotriol Hydrate 50 mcg/g & Betamethasone Dipropionate 0.5 mg/g Gel",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-12-26",
+        "date_end": "2030-12-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10120015AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16015037AZ",
+        "product": "YSP Bufencon Injection",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[6.43;1ml],BETAMETHASONE SODIUM PHOSPHATE[2.63mg;1ml]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-01-09",
+        "date_end": "2031-01-09",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16015037AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20112105AZ",
+        "product": "EPIKLIN SKIN OINTMENT",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.64;mg;1.0;g],SALICYLIC ACID[30.0;mg;1.0;g]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Salicylic Acid 3% Ointment",
+        "holder": "ZULAT PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-01-31",
+        "date_end": "2031-01-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20112105AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL26026013AZ",
+        "product": "Jardin Betacream 0.01% Betamethasone Valerate 0.01% w/w Cream",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.01 %w/w]",
+        "generic_name": NaN,
+        "holder": "JARDIN MANUFACTURING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-02-03",
+        "date_end": "2031-02-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL26026013AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL26026014AZ",
+        "product": "Jardin Betacream 0.0125% Betamethasone Valerate 0.0125% w/w Cream",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.0125 %w/w]",
+        "generic_name": NaN,
+        "holder": "JARDIN MANUFACTURING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-02-03",
+        "date_end": "2031-02-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL26026014AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL26026012AZ",
+        "product": "Jardin Betasoint 0.1% Betamethasone Valerate 0.1% w/w Ointment",
+        "active_ingredient": "BETAMETHASONE VALERATE[0.1 %w/w]",
+        "generic_name": NaN,
+        "holder": "JARDIN MANUFACTURING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-02-03",
+        "date_end": "2031-02-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL26026012AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20012725AZ",
+        "product": "BETAVAL-N CREAM",
+        "active_ingredient": "BETAMETHASONE-17 VALERATE[1MG/G],NEOMYCIN SULPHATE[5 mg/g]",
+        "generic_name": "Neomycin 0.5 % in Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-03-05",
+        "date_end": "2031-03-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20012725AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20012724AZ",
+        "product": "BETAVAL CREAM 0.1%",
+        "active_ingredient": "BETAMETHASONE-17 VALERATE[1.2 mg/g]",
+        "generic_name": "Betamethasone 17 - Valerate 0.1 % Cream",
+        "holder": "Noripharma Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-03-05",
+        "date_end": "2031-03-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20012724AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16065050AZ",
+        "product": "Creobic DA (Double Action) Cream",
+        "active_ingredient": "CLOTRIMAZOLE[10mg;1gm],BETAMETHASONE DIPROPIONATE[0.64mg;1gm]",
+        "generic_name": NaN,
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-07-02",
+        "date_end": "2031-07-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16065050AZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00443",
+    "name": "Betamethasone",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Betamethasone"
+      },
+      "queried_at": "2026-03-04T13:10:28.240841",
+      "status": "success",
+      "result_count": 97,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Betamethasone"
+      },
+      "queried_at": "2026-03-04T13:10:33.110756",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "erythema multiforme"
+      },
+      "queried_at": "2026-03-04T13:10:34.715027",
+      "status": "success",
+      "result_count": 17,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "erythema multiforme"
+      },
+      "queried_at": "2026-03-04T13:10:43.021917",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "erythema multiforme"
+      },
+      "queried_at": "2026-03-04T13:11:15.461035",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "lymphosarcoma"
+      },
+      "queried_at": "2026-03-04T13:11:18.510451",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "lymphosarcoma"
+      },
+      "queried_at": "2026-03-04T13:11:30.406462",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "lymphosarcoma"
+      },
+      "queried_at": "2026-03-04T13:11:39.497155",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "disease of orbital region"
+      },
+      "queried_at": "2026-03-04T13:11:42.878577",
+      "status": "success",
+      "result_count": 23,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "disease of orbital region"
+      },
+      "queried_at": "2026-03-04T13:11:48.457220",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "disease of orbital region"
+      },
+      "queried_at": "2026-03-04T13:11:49.805876",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "leukemia, lymphocytic, susceptibility to"
+      },
+      "queried_at": "2026-03-04T13:11:51.760291",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "leukemia, lymphocytic, susceptibility to"
+      },
+      "queried_at": "2026-03-04T13:11:58.578819",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "leukemia, lymphocytic, susceptibility to"
+      },
+      "queried_at": "2026-03-04T13:11:59.976326",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "rheumatic heart disease"
+      },
+      "queried_at": "2026-03-04T13:12:03.104573",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "rheumatic heart disease"
+      },
+      "queried_at": "2026-03-04T13:12:09.293350",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Betamethasone",
+        "disease": "rheumatic heart disease"
+      },
+      "queried_at": "2026-03-04T13:12:13.017155",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T13:12:13.033566",
+    "version": "1.0"
+  }
+}

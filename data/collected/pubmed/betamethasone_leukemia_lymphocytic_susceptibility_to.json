@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Betamethasone",
+    "disease": "leukemia, lymphocytic, susceptibility to",
+    "query_string": "Betamethasone AND leukemia, lymphocytic, susceptibility to"
+  },
+  "data": {
+    "query": "Betamethasone AND leukemia, lymphocytic, susceptibility to",
+    "results": []
+  },
+  "timestamp": "2026-03-04T13:11:59.975481",
+  "success": true,
+  "error_message": null
+}

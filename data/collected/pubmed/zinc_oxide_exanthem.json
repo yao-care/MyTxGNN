@@ -1,0 +1,74 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Zinc Oxide",
+    "disease": "exanthem",
+    "query_string": "Zinc Oxide AND exanthem"
+  },
+  "data": {
+    "query": "Zinc Oxide AND exanthem",
+    "results": [
+      {
+        "pmid": "36913660",
+        "title": "Autoimmune Skin Conditions: Cutaneous Lupus Erythematosus.",
+        "abstract": "Cutaneous lupus erythematosus (CLE) is a spectrum of autoimmune skin conditions associated with systemic lupus erythematosus (SLE). CLE and SLE may exist concurrently or independently. Accurate recognition of CLE is crucial because it may herald systemic disease onset. Lupus-specific skin conditions include acute cutaneous lupus erythematosus (ACLE) which manifests as a malar or butterfly rash; subacute cutaneous lupus erythematosus (SCLE); and chronic cutaneous lupus erythematosus, which includes discoid lupus erythematosus (DLE). All three types of CLE present as pink-violet macules or plaques with unique morphology, in areas of sun-exposed skin. Association with SLE differs: ACLE is most closely associated, with SCLE in the middle, and DLE the least so. All types of CLE are pruritic, sting, and burn, and DLE can result in disfiguring scarring. All CLE is exacerbated by UV light exposure and smoking. Diagnosis combines clinical evaluation with skin biopsy. Management focuses on mitig",
+        "journal": "FP essentials",
+        "year": "2023",
+        "authors": [
+          "Foulke Galen",
+          "Helm Leesha A",
+          "Clebak Karl T",
+          "Helm Matthew"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Lupus Erythematosus, Discoid",
+          "Lupus Erythematosus, Cutaneous",
+          "Humans",
+          "Lupus Erythematosus, Systemic",
+          "Exanthema",
+          "Antirheumatic Agents",
+          "Skin",
+          "Acute Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36913660/"
+      },
+      {
+        "pmid": "32677172",
+        "title": "Systemic allergic dermatitis from intra-articular triamcinolone acetonide: Report of two cases with unusual clinical manifestations.",
+        "abstract": "",
+        "journal": "Contact dermatitis",
+        "year": "2021",
+        "authors": [
+          "Bianchi Leonardo",
+          "Marietti Rossella",
+          "Tramontana Marta",
+          "Hansel Katharina",
+          "Stingeni Luca"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents",
+          "Cross Reactions",
+          "Dermatitis, Allergic Contact",
+          "Dermatologic Agents",
+          "Glucocorticoids",
+          "Humans",
+          "Injections, Intra-Articular",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32677172/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:34:31.112993",
+  "success": true,
+  "error_message": null
+}

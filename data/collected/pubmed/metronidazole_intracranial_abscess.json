@@ -1,0 +1,504 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Metronidazole",
+    "disease": "intracranial abscess",
+    "query_string": "Metronidazole AND intracranial abscess"
+  },
+  "data": {
+    "query": "Metronidazole AND intracranial abscess",
+    "results": [
+      {
+        "pmid": "37648062",
+        "title": "European society of Clinical Microbiology and Infectious Diseases guidelines on diagnosis and treatment of brain abscess in children and adults.",
+        "abstract": "These European Society of Clinical Microbiology and Infectious Diseases guidelines are intended for clinicians involved in diagnosis and treatment of brain abscess in children and adults.",
+        "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+        "year": "2024",
+        "authors": [
+          "Bodilsen Jacob",
+          "D'Alessandris Quintino Giorgio",
+          "Humphreys Hilary",
+          "Iro Mildred A",
+          "Klein Matthias"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Humans",
+          "Anti-Infective Agents",
+          "Brain Abscess",
+          "Communicable Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37648062/"
+      },
+      {
+        "pmid": "33520524",
+        "title": "Intracranial Abscess and Proteus mirabilis: A Case Report and Literature Review.",
+        "abstract": "An intracranial abscess caused by Proteus mirabilis is rarely reported in adults. A 17-year-old girl presented with generalized tonic-clonic seizure, high-grade fever, headache, and vomiting with a history of slowly progressing apathy, clumsiness, and disorientation. She had meningeal signs and altered sensorium with a Glasgow Coma Scale of 10. The laboratory analysis revealed leukocytosis and elevated erythrocyte sedimentation rate. Brain computed tomography (CT) revealed a cystic lesion in the left temporal lobe with perilesional edema and a slight midline shift. She was commenced on empiric ceftriaxone, amikacin, and metronidazole. The non-foul smelling pus was drained through a craniotomy, and pus culture showed P. mirabilis. Culture sensitivity revealed extended-spectrum B-lactamase production, and she was commenced on intravenous carbapenem in addition to existing drugs. A repeat CT revealed a significant reduction in abscess size, and improvement in her condition was observed. O",
+        "journal": "Cureus",
+        "year": "2020",
+        "authors": [
+          "Muddassir Rabia",
+          "Khalil Asfandyar",
+          "Singh Romil",
+          "Taj Shafaq",
+          "Khalid Zoha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33520524/"
+      },
+      {
+        "pmid": "37073194",
+        "title": "Bacterial Brain Abscess and Life-Threatening Intracranial Hypertension Requiring Emergent Decompressive Craniectomy After SARS-CoV-2 Infection in a Healthy Adolescent.",
+        "abstract": "Acute coronavirus 2 (SARS-CoV-2) infection usually results in mild symptoms, but secondary infections after SARS-CoV-2 infection can occur, particularly with comorbid conditions. We present the clinical course of a healthy adolescent with a brain abscess and life-threatening intracranial hypertension requiring emergent decompressive craniectomy after a SARS-CoV-2 infection. A 13-year-old healthy immunized male presented with invasive frontal, ethmoid, and maxillary sinusitis and symptoms of lethargy, nausea, headache, and photophobia due to a frontal brain abscess diagnosed three weeks after symptoms and 11 days of oral amoxicillin treatment. Coronavirus disease 2019 (COVID-19) reverse transcription-polymerase chain reaction (RT-PCR) was negative twice but then positive on amoxicillin day 11 (symptom day 21), when magnetic resonance imaging revealed a 2.5-cm right frontal brain abscess with a 10-mm midline shift. The patient underwent emergent craniotomy for right frontal epidural absc",
+        "journal": "Cureus",
+        "year": "2023",
+        "authors": [
+          "Kunapaisal Thitikan",
+          "Guo Shuhong",
+          "Gomez Courtney",
+          "Theard Marie A",
+          "Lynch John B"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37073194/"
+      },
+      {
+        "pmid": "11096705",
+        "title": "Brain Abscess.",
+        "abstract": "Optimal treatment of a brain abscess requires early clinical suspicion, and the diagnosis is usually made by identification of the abscess on contrast-enhanced computed tomography (CT) or magnetic resonance imaging (MRI). The immediate first step is to reduce the potentially life-threatening brain mass (abscess and surrounding cerebral edema) and secure the diagnosis with culture specimens. This is usually accomplished by reducing the increased intracranial pressure (ICP) through surgical aspiration with or without drainage of the abscess pus. The surgical procedure chosen depends on several factors, including the location and type of abscess, multiplicity, and the medical condition of the patient. In addition, dexamethasone and hyperventilation may be required if brain herniation is imminent. The dexamethasone dose should be reduced as soon as the ICP is reduced because steroid administration may retard abscess capsule formation and decrease antibiotic concentrations within the absces",
+        "journal": "Current treatment options in neurology",
+        "year": "1999",
+        "authors": [
+          "Davis LE",
+          "Baldwin NG"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11096705/"
+      },
+      {
+        "pmid": "35726849",
+        "title": "A surgical protocol for sinogenic brain abscess: the Oxford experience and a review of the literature.",
+        "abstract": "Rhinosinusitis-induced brain abscesses are rare but can result in devastating long-term sequalae and mortality; they require a high index of suspicion with early imaging to start early empiric parenteral antibiotic treatment covering aerobes and anaerobes.",
+        "journal": "Rhinology",
+        "year": "2022",
+        "authors": [
+          "Bandino F",
+          "Thota R",
+          "Pendolino A L",
+          "Chaidas K",
+          "Jeyaretna S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Brain Abscess",
+          "Ceftriaxone",
+          "Child",
+          "Humans",
+          "Metronidazole",
+          "Retrospective Studies",
+          "Review Literature as Topic",
+          "Sinusitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35726849/"
+      },
+      {
+        "pmid": "40279858",
+        "title": "Increased incidence of intracranial complications following pediatric sinogenic and otogenic infections in the post-COVID-19 Era: A systematic review and meta-analysis.",
+        "abstract": "This systematic-review and meta-analysis aims to evaluate and summarize the prevalence of pediatric intracranial complications following sinogenic or otogenic infections before and after the COVID-19 pandemic.",
+        "journal": "International journal of pediatric otorhinolaryngology",
+        "year": "2025",
+        "authors": [
+          "Patel Pranav A",
+          "Ripp Asher T",
+          "Nguyen Shaun A",
+          "Duffy Alexander N",
+          "Soler Zachary M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "COVID-19",
+          "Child",
+          "Incidence",
+          "SARS-CoV-2",
+          "Adolescent",
+          "Sinusitis",
+          "Sinus Thrombosis, Intracranial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40279858/"
+      },
+      {
+        "pmid": "39920726",
+        "title": "Single-center experience and evaluation of rare ıntracranial abscesses in childhood.",
+        "abstract": "Intracranial abscess (IA) is a rare disorder in childhood. Clinical manifestations of brain abscess include headache, fever, and focal neurological deficits. This study aimed to examine the demographic, clinical, laboratory, and imaging findings in children with IA.",
+        "journal": "Italian journal of pediatrics",
+        "year": "2025",
+        "authors": [
+          "Yildiz Nihal",
+          "Gayretli Aydin Zeynep Gökçe"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Brain Abscess",
+          "Female",
+          "Child",
+          "Child, Preschool",
+          "Retrospective Studies",
+          "Magnetic Resonance Imaging",
+          "Infant",
+          "Anti-Bacterial Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39920726/"
+      },
+      {
+        "pmid": "2566203",
+        "title": "Intracranial complications of sinusitis.",
+        "abstract": "Sinusitis is a common problem that is routinely diagnosed and treated by most primary care physicians. Although most cases usually respond to appropriate therapy, some occasionally progress to the development of intracranial complications, including meningitis, osteomyelitis, epidural and subdural empyema, intracranial mucocele or polyps, and frank brain abscess. It is important to develop a rational approach to the diagnosis and treatment of these conditions. A high clinical index of suspicion must always be maintained, since symptoms are often masked by previous antibiotic therapy. Radiologic evaluation must always include computerized tomography (CT) for accurate diagnosis and surgical planning. Therapy includes surgical drainage and high doses of appropriate intravenous antibiotics. Cefuroxime and metronidazole provide excellent broad spectrum antibacterial coverage. Only early recognition and appropriate therapy can reduce the potential morbidity and mortality associated with thes",
+        "journal": "Southern medical journal",
+        "year": "1989",
+        "authors": [
+          "Parker G S",
+          "Tami T A",
+          "Wilson J F",
+          "Fetter T W"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Brain Abscess",
+          "Brain Neoplasms",
+          "Empyema, Subdural",
+          "Female",
+          "Frontal Bone",
+          "Humans",
+          "Male",
+          "Meningitis",
+          "Mucocele"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2566203/"
+      },
+      {
+        "pmid": "8869712",
+        "title": "Short course antimicrobial therapy in intracranial abscess.",
+        "abstract": "In this study, the author attempts to question the necessity of prolonged antimicrobial treatment for intracranial abscess. The C reactive protein (CRP) was measured serially in 26 patients with intracranial abscess. All patients had undergone surgery and were treated with antimicrobial therapy. The CRP was elevated in 20 (77%) patients and its return to normal after treatment correlated with a good recovery. In 3 (12%) patients a persistently high CRP level postoperatively coincided with reformation of the abscess. A transient rise in the CRP value during decrease to normal was due to deep venous thrombosis in 2 (8%) patients. The return of the CRP to normal in conjunction with improvement of the patient's clinical condition and evidence of resolution of the abscess on CT scan were used as a guideline to stop antibiotics early. The antimicrobial therapy of the patients in this series ranged from 11-30 (mean 20) days and the follow up from 6-36 (median 21) months; there have been no re",
+        "journal": "Acta neurochirurgica",
+        "year": "1996",
+        "authors": [
+          "Jamjoom A B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Brain Abscess",
+          "C-Reactive Protein",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8869712/"
+      },
+      {
+        "pmid": "36299836",
+        "title": "Treatment of Extra-Intestinal Clostridioides difficile Abscess following Acute Appendicitis.",
+        "abstract": "Clostridioides difficile infection (CDI) commonly presents with diarrhoea, colitis, and in more severe cases, toxic megacolon. Extraintestinal Clostridioides difficile infection (EI CDI) is rarely reported. Intraabdominal abscesses are the most commonly reported EI CDI presentation. EI CDI-associated bacteraemia, as well as bone, lung, and even intracranial infections have been reported in the literature. EI CDI is usually seen in patients with multiple comorbidities. Due to the rarity of cases, no clear treatment guidelines exist, but metronidazole and vancomycin have been primarily used to treat EI CDI and additional antibiotics have been used for treatment when the isolates are polymicrobial. We report a case of a patient with significant comorbidities who developed EI CDI following acute ruptured appendicitis. She was successfully treated with drainage of abscess and intravenous metronidazole followed by oral metronidazole.",
+        "journal": "European journal of case reports in internal medicine",
+        "year": "2022",
+        "authors": [
+          "Chatterjee Tulika",
+          "Roy Moni",
+          "Ahmad Sharjeel"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36299836/"
+      },
+      {
+        "pmid": "32695562",
+        "title": "Intracranial Subdural Abscess Caused by Actinomyces meyeri Related to Dental Treatment: A Case Report.",
+        "abstract": "Intracranial subdural abscess is a rare condition. Although brain abscess is often reported in relation to dental infection, reports of intracranial subdural abscess are few. Actinomyces spp. forms part of the normal flora of the oral, gastrointestinal, and genital tract, and is rarely the cause of intracranial infection; moreover, the pathogen Actinomyces meyeri is very rare. We report an exceptional case of intracranial subdural abscess caused by A. meyeri and related to dental treatment. A 57-year-old woman initially presented with a 5-day history of headache. Because left arm numbness and weakness became apparent, she was admitted to our department. She had a history of hypertension and dental problems requiring tooth extractions. Diffusion-weighted imaging (DWI) showed a 1-cm right convexity hyperintense mass above the postcentral gyrus. A post-gadolinium T1-weighted image showed a thin hypointense area with peripheral rim enhancement in the right subdural space that appeared to p",
+        "journal": "NMC case report journal",
+        "year": "2020",
+        "authors": [
+          "Funakoshi Yusuke",
+          "Hatano Taketo",
+          "Ando Mitsushige",
+          "Chihara Hideo",
+          "Takita Wataru"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32695562/"
+      },
+      {
+        "pmid": "28663048",
+        "title": "Evaluation of Continuous Irrigation and Drainage with a Double-Cavity Sleeve Tube to Treat Brain Abscess.",
+        "abstract": "Brain abscesses carries a high morbidity and mortality, and despite medical advances, it continues to pose diagnostic and therapeutic challenges worldwide. The traditional surgical approaches to treating brain abscess (burr hole aspiration and craniotomy) have both advantages and disadvantages and remain controversial. Here we report a single institution's experience with a new surgical approach for brain abscess.",
+        "journal": "World neurosurgery",
+        "year": "2017",
+        "authors": [
+          "Yang Zhenxing",
+          "Du Li",
+          "Liu Renzhong",
+          "Jian Zhihong",
+          "Wan Yu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Brain Abscess",
+          "Cefotaxime",
+          "Craniotomy",
+          "Drainage",
+          "Female",
+          "Glasgow Outcome Scale",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28663048/"
+      },
+      {
+        "pmid": "40417222",
+        "title": "Case report: Analysis of the efficacy and safety of anti-infectious treatment for brain abscess caused by oral anaerobes.",
+        "abstract": "Anaerobic meningitis is relatively rare, and the positivity rate of cerebrospinal fluid (CSF) cultures is exceedingly low, particularly in light of the limited research data regarding bacterial meningitis caused by oral anaerobes. This report presents a case involving a 24-year-old woman who developed fever and headache 32 days after undergoing a cesarean section. The symptoms persisted for 2 weeks, and enhanced nuclear magnetic resonance (NMR) scanning confirmed the suspicion of a brain abscess. Additionally, metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid (CSF) identified several microbial species, including Porphyromonas gingivalis, Prevotella heparinolyticus, Fusobacterium nucleatum, Parvimonas micra and Filifactor alocis. Bacterial culture of CSF revealed the growth of Prevotella heparinolyticus. Following bilateral ventricular external drainage, intracranial lesion resection, and the implantation of an Ommaya reservoir in the right lateral ventricle, cranial ",
+        "journal": "Frontiers in pharmacology",
+        "year": "2025",
+        "authors": [
+          "Tian Chunfang",
+          "Liu Jingxian",
+          "Chen Zhiyu",
+          "Li Lixia"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40417222/"
+      },
+      {
+        "pmid": "32768495",
+        "title": "Intracranial abscess due to Prevotella bivia: First case report from India.",
+        "abstract": "The association of Prevotella bivia (P. bivia), a Gram negative obligate anaerobic bacillus with brain abscess has been rarely reported. We hereby, report a case of brain abscess in a 50-year-old man, who suffered a head trauma followed by decompression surgery 10 months ago. Aspirated pus sample grew Methicillin resistant Staphylococcus aureus (MRSA) and P. bivia sensitive to metronidazole. The patient recovered well after a brain abscess evacuation surgery and post-operative metronidazole therapy, confirming the pathogenic role of P. bivia in this case.",
+        "journal": "Anaerobe",
+        "year": "2020",
+        "authors": [
+          "Samantaray Subhashree",
+          "Biswas Rakhi",
+          "Sasidharan Gopalakrishnan Madhavan"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacteroidaceae Infections",
+          "Brain Abscess",
+          "Combined Modality Therapy",
+          "Humans",
+          "India",
+          "Male",
+          "Metronidazole",
+          "Middle Aged",
+          "Postoperative Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32768495/"
+      },
+      {
+        "pmid": "6352873",
+        "title": "Current concepts of bacterial infections of the central nervous system. Bacterial meningitis and bacterial brain abscess.",
+        "abstract": "Investigative work continues to provide guidance toward more rational management of bacterial meningitis and bacterial brain abscess. An increased understanding of the host's response in cases of bacterial meningitis has established that diffusibility of an antibiotic into the cerebrospinal fluid (CSF) is necessary, but is not sufficient for microbial cure. The antibiotic must also have a bactericidal effect on the pathogen. Meningitis after neurosurgery may be caused by Gram-negative aerobic bacilli. In some of these cases the newer cephalosporin antibiotics may be a useful advance. Meningitis complicating ventricular CSF shunts presents a paradigm for the problem of eradicating foreign body-related infections. Studies of the interaction of the host, the organism, and the shunt material offer some explanation for the limited efficacy of antibiotics observed in this setting. There have been advances in microbial definition of bacterial brain abscess. The identification of Bacteroides f",
+        "journal": "Journal of neurosurgery",
+        "year": "1983",
+        "authors": [
+          "Garvey G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Brain Abscess",
+          "Central Nervous System Diseases",
+          "Cerebrospinal Fluid",
+          "Cerebrospinal Fluid Shunts",
+          "Humans",
+          "Meningitis",
+          "Postoperative Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6352873/"
+      },
+      {
+        "pmid": "6590023",
+        "title": "Antimicrobial management of intracranial abscess.",
+        "abstract": "Forty-four patients were treated over eight years with intracranial abscess. The bacterial flora of these abscesses was determined in 34 cases and 92 organisms of 54 different species were isolated. Presentation and treatment details were standard and are not covered in depth. The most common organisms isolated were aerobic streptococci and Bacteroides species. All organisms isolated were sensitive to chloramphenicol. An empirical regime of penicillin and chloramphenicol proved satisfactory in all cases after culture. The drug of choice could usually be selected from penicillin, chloramphenicol, or metronidazole. Antibiotics were usually continued for 6-8 weeks following diagnosis.",
+        "journal": "The Australian and New Zealand journal of surgery",
+        "year": "1984",
+        "authors": [
+          "Gillet G R",
+          "Garner J E",
+          "Bremner D A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacteria, Aerobic",
+          "Bacteria, Anaerobic",
+          "Brain Abscess",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Suction",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6590023/"
+      },
+      {
+        "pmid": "30054322",
+        "title": "Calvarial osteomyelitis and intracranial extension post-Mohs micrographic surgery.",
+        "abstract": "Mohs micrographic surgery (MMS) is a specialised micrographic technique used for the treatment of locally invasive skin cancers. Despite being a relatively low risk surgery, the overall complication rates range between 1.6% and 3%. Common complications include postoperative haemorrhage, haematoma formation, wound infection, wound dehiscence and flap/graft necrosis. Osteomyelitis after dermatological cancer surgery is exceedingly rare. There have only been two cases of osteomyelitis in association with Mohs surgery reported in the literature to date. Here, we describe an epidemiologically atypical patient who initially presented with fever and altered mental status and later found to have calvarial osteomyelitis, intracranial abscess (empyema) and meningoencephalitis as a result of Mohs surgery. Although rare, it is a predictable side effect postsurgery, and prevention of such complications are critical to decrease morbidity and mortality in patients undergoing MMS.",
+        "journal": "BMJ case reports",
+        "year": "2018",
+        "authors": [
+          "Desai Aakash",
+          "Krishnan Anand",
+          "Zaghloul Ahmed",
+          "McClure Mitchell"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Basal Cell Carcinoma",
+          "Diagnosis, Differential",
+          "Female",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Meningoencephalitis",
+          "Metronidazole",
+          "Mohs Surgery"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30054322/"
+      },
+      {
+        "pmid": "34466310",
+        "title": "Listeria Bacteremia Presenting With Cerebral Abscess and Endocarditis in an Elderly Patient With Chronic Immune Thrombocytopenia.",
+        "abstract": "Central nervous system involvement by Listeria monocytogenes usually presents as meningitis, meningoencephalitis or, less frequently, rhombencephalitis. Listerial brain abscesses are rare. Moreover, only 5-8% of listerial bacteremia is complicated by infective endocarditis (IE). A 70-year-old man with chronic immune thrombocytopenia (ITP) presented to our emergency department with acute onset of altered mental status and right-sided weakness. He was afebrile, with no heart murmurs or peripheral IE stigmata. Neurologic examination showed disorientation, expressive aphasia, and right-sided hemiparesis. Laboratory findings were unremarkable except for leukocytosis and hyponatremia. Brain MRI showed an irregular rim-enhancing lesion in the left frontal lobe, suspicious for a high-grade glial neoplasm. The lesion was excised, and he was started empirically on vancomycin, ceftriaxone, and metronidazole. After blood cultures grew Listeria monocytogenes, antibiotics were de-escalated to ampici",
+        "journal": "Cureus",
+        "year": "2021",
+        "authors": [
+          "Ogunleye Olushola O",
+          "Karimi Vanessa",
+          "Gujadhur Nili"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34466310/"
+      },
+      {
+        "pmid": "41528628",
+        "title": "A rare brain abscess caused by co-infection with Fusobacterium nucleatum and Actinomyces meyeri : Case report and a literature review.",
+        "abstract": "Brain abscesses are rare but life-threatening infections that may result from contiguous spread or hematogenous dissemination, with odontogenic infections being an important source. We report the first case from Turkey of a polymicrobial brain abscess caused by Actinomyces meyeri and Fusobacterium nucleatum in an immunocompetent 81-year-old male with poor oral hygiene and a history of untreated dental infection. The patient presented with headache and altered mental status, and neuroimaging revealed a right frontal abscess. Surgical excision was performed, and microbiological evaluation identified both pathogens by anaerobic culture and matrix-assisted laser desorption/ionization time-of-flight (MALDI-TOF) mass spectrometry, with susceptibility testing confirming sensitivity to β‑lactams and metronidazole. Notably, follow-up oral swab culture yielded A. meyeri with an identical susceptibility profile, supporting a dental origin of infection. The patient was successfully treated with su",
+        "journal": "Wiener medizinische Wochenschrift (1946)",
+        "year": "2026",
+        "authors": [
+          "Tozluyurt Abdullah",
+          "Sahin Mustafa Caglar",
+          "Acar Alaeddin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41528628/"
+      },
+      {
+        "pmid": "15689642",
+        "title": "Intracranial complications following mastoidectomy.",
+        "abstract": "Mastoidectomy is a common surgical procedure in otology. However, postoperative complications of various degrees of severity may occur. We present 4 children who underwent mastoidectomy for middle ear and mastoid disease and developed postoperative intracranial complications. One child was operated on for brain abscess 1 week after the initial mastoidectomy. Another child appeared with seizures 5 days after the initial mastoidectomy and a subdural empyema was drained during revision surgery. Large bone defects with exposed middle cranial fossa dura were found at revision surgery in both cases and Proteus vulgaris and methicillin-resistant Staphylococcus aureus were isolated from the mastoid and abscess cavities in these children. A small epidural collection was diagnosed in the third patient 2 days after initial mastoid surgery and was managed with intravenous antibiotics only. The other child was found to have sigmoid sinus thrombosis the day after mastoidectomy that was performed for",
+        "journal": "Pediatric neurosurgery",
+        "year": "2004",
+        "authors": [
+          "Migirov Lela",
+          "Eyal Ana",
+          "Kronenberg Jona"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Anticoagulants",
+          "Child, Preschool",
+          "Empyema, Subdural",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male",
+          "Mastoid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15689642/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:35:32.429731",
+  "success": true,
+  "error_message": null
+}

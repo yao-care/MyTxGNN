@@ -1,0 +1,251 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Simvastatin",
+    "disease": "hypoalphalipoproteinemia",
+    "query_string": "Simvastatin AND hypoalphalipoproteinemia"
+  },
+  "data": {
+    "query": "Simvastatin AND hypoalphalipoproteinemia",
+    "results": [
+      {
+        "pmid": "12679198",
+        "title": "High-density lipoprotein subpopulations in pathologic conditions.",
+        "abstract": "The role of low-density lipoprotein (LDL) cholesterol in coronary artery disease (CAD) and the impact of therapeutic agents on LDL cholesterol are well established. Less is known about the role of high-density lipoprotein (HDL) cholesterol and even less about the role of the different HDL subspecies in CAD. HDL particles vary in size and density, mainly because of differences in the number of apolipoprotein (apo) particles and the amount of cholesterol ester in the core of HDL. Apo A-I is essential and, together with lipid, sufficient for the formation of HDL particles. Apo A-I-containing HDL particles play a primary role in cholesterol efflux from membranes, at least in part through interactions with the adenosine triphosphate-binding cassette transporter A1 (ABCA1). Patients with Tangier disease have mutations in the gene encoding ABCA1, which result in functionally impaired protein, a marked deficiency in HDL cholesterol, and a high risk of premature CAD. Our studies of apo A-I-cont",
+        "journal": "The American journal of cardiology",
+        "year": "2003",
+        "authors": [
+          "Asztalos Bela F",
+          "Schaefer Ernst J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Coronary Artery Disease",
+          "Humans",
+          "Lipoproteins, HDL",
+          "Tangier Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12679198/"
+      },
+      {
+        "pmid": "21107758",
+        "title": "What combination therapy with a statin, if any, would you recommend?",
+        "abstract": "The latest recommended goals for blood lipid levels may require multiple lipid drugs. Lower doses in combination may render more efficacy and safety than highest doses of single agents. Except for isolated hypoalphalipoproteinemia (a low level of high-density lipoprotein cholesterol), therapies will start with a statin. All marketed statins are acceptable. The choice may be based on dose- efficacy and patient's tolerability. High-potency statins (eg, atorvastatin, simvastatin, or rosuvastatin) are often chosen. Currently, generic statins, such as simvastatin, lovastatin, pravastatin, and fluvastatin, offer cost benefits. The choice of added agent depends on the \"residual lipoprotein abnormalities\" after statin therapy, efficacy, compliance issues, and cost. Approved \"combined\" preparations improve cost and compliance. To further lower low-density lipoprotein cholesterol, ezetimibe is a safe, efficacious choice, pending resolution of a controversial trial's results. Colesevelam is moder",
+        "journal": "Current atherosclerosis reports",
+        "year": "2011",
+        "authors": [
+          "Dujovne Carlos A",
+          "Williams Craig D",
+          "Ito Matthew K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cholesterol, LDL",
+          "Controlled Clinical Trials as Topic",
+          "Coronary Artery Disease",
+          "Drug Costs",
+          "Drug Monitoring",
+          "Drug Synergism",
+          "Drug Therapy, Combination",
+          "Drugs, Generic",
+          "Dyslipidemias",
+          "Fatty Acids, Omega-3"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21107758/"
+      },
+      {
+        "pmid": "18224302",
+        "title": "Simvastatin reverses the hypertension of heterozygous mice lacking cystathionine beta-synthase and apolipoprotein A-I.",
+        "abstract": "Double heterozygous mice lacking Apoa1 and Cbs genes show mild hyperhomocysteinemia in combination with hypoalphalipoproteinemia. This situation leads to a moderate hypertension associated with a dysregulation in nitric oxide metabolism. The aim of this study was to investigate the potential beneficial effects of statin treatment in these mice. After 4 weeks of simvastatin administration, plasma parameters; apolipoproteins A-I, A-II and A-IV; lipid profile; and blood pressure were assessed, Western blotting was performed in the aorta of these mice to measure endothelial nitric oxide synthase and caveolin-1 content. The high blood pressure level present in the double heterozygous group was corrected down to that of the wild-type group after simvastatin treatment (124+/-7.7 vs. 109+/-11.2 mmHg, p<0.01). Concomitant with this effect, an increase in nitric oxide levels was observed in these double heterozygous mice receiving simvastatin treatment probably mediated in part by a decrease in ",
+        "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+        "year": "2008",
+        "authors": [
+          "Carnicer Ricardo",
+          "Navarro María A",
+          "Guillén Natalia",
+          "Arbonés-Mainar José M",
+          "Surra Joaquín C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antihypertensive Agents",
+          "Aorta",
+          "Apolipoprotein A-I",
+          "Blood Pressure",
+          "Blotting, Western",
+          "Chromatography, Liquid",
+          "Cystathionine beta-Synthase",
+          "Endothelium, Vascular",
+          "Heterozygote"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18224302/"
+      },
+      {
+        "pmid": "23973688",
+        "title": "Relationship of apolipoproteins A-1 and B, and lipoprotein(a) to cardiovascular outcomes: the AIM-HIGH trial (Atherothrombosis Intervention in Metabolic Syndrome with Low HDL/High Triglyceride and Impact on Global Health Outcomes).",
+        "abstract": "This study sought to examine the relationship between baseline and on-study apolipoproteins (apo) A-1 and B and lipoprotein(a) [Lp(a)] levels and the development of subsequent cardiovascular (CV) events in the AIM-HIGH (Atherothrombosis Intervention in Metabolic Syndrome with Low HDL/High Triglyceride and Impact on Global Health Outcomes) trial.",
+        "journal": "Journal of the American College of Cardiology",
+        "year": "2013",
+        "authors": [
+          "Albers John J",
+          "Slee April",
+          "O'Brien Kevin D",
+          "Robinson Jennifer G",
+          "Kashyap Moti L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Apolipoprotein A-I",
+          "Apolipoproteins B",
+          "Biomarkers",
+          "Cardiovascular Diseases",
+          "Cholesterol, HDL",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23973688/"
+      },
+      {
+        "pmid": "19307143",
+        "title": "Cholesteryl Ester Storage Disease (CESD) due to novel mutations in the LIPA gene.",
+        "abstract": "Cholesteryl Ester Storage Disease (CESD) is a rare recessive disorder due to mutations in LIPA gene encoding the lysosomal acidic lipase (LAL). CESD patients have liver disease associated with mixed hyperlipidemia and low plasma levels of high-density lipoproteins (HDL). The aim of this study was the molecular characterization of three patients with CESD. LAL activity was measured in blood leukocytes. In two patients (twin sisters) the clinical diagnosis of CESD was made at 9 years of age, following the fortuitous discovery of elevated serum liver enzymes in apparently healthy children. They had mixed hyperlipidemia, hepatosplenomegaly, reduced LAL activity (approximately 5% of control) and heteroalleic mutations in LIPA gene coding sequence: (i) the common c.894 G>A mutation and (ii) a novel nonsense mutation c.652 C>T (p.R218X). The other patient was an 80 year-old female who for several years had been treated with simvastatin because of severe hyperlipidemia associated with low plas",
+        "journal": "Molecular genetics and metabolism",
+        "year": "2009",
+        "authors": [
+          "Pisciotta Livia",
+          "Fresa Raffaele",
+          "Bellocchio Antonella",
+          "Pino Elisabetta",
+          "Guido Virgilia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Aged, 80 and over",
+          "Cholesterol Ester Storage Disease",
+          "Female",
+          "Genetic Testing",
+          "Humans",
+          "Lipids",
+          "Liver",
+          "Mutation",
+          "Pedigree"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19307143/"
+      },
+      {
+        "pmid": "23023895",
+        "title": "Beyond low-density lipoprotein cholesterol: why, who and when.",
+        "abstract": "Cardiovascular disease due to atherosclerosis is a leading cause of death around the world, including Singapore. Current treatment strategies primarily target low-density lipoprotein (LDL) cholesterol levels. Low levels of high-density lipoprotein (HDL) cholesterol and high triglyceride (TG) levels have been shown to increase the risk of coronary heart disease, but the clinical benefits of raising low HDL cholesterol have only been proven in a limited number of studies. This guide provides an approach on managing low HDL cholesterol levels in terms of lifestyle modifications and pharmacotherapy.",
+        "journal": "Singapore medical journal",
+        "year": "2012",
+        "authors": [
+          "Chang Christopher Ngai Kin",
+          "How Choon How",
+          "Tavintharan Subramaniam"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Coronary Disease",
+          "Drug Therapy, Combination",
+          "Exercise",
+          "Fenofibrate",
+          "Humans",
+          "Hypertriglyceridemia",
+          "Hypoalphalipoproteinemias",
+          "Hypolipidemic Agents",
+          "Life Style",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23023895/"
+      },
+      {
+        "pmid": "7567762",
+        "title": "Iatrogenic profound hypoalphalipoproteinaemia: an unrecognised cause of very low HDL cholesterol.",
+        "abstract": "A significant reduction in plasma high density lipoprotein (HDL) cholesterol is a recognised consequence of treatment with probucol. By contrast, fibrate therapy in general has the opposite effect. We report two cases where the combination of probucol and a fibrate led to profoundly reduced plasma levels of HDL cholesterol associated with very low levels of apolipoprotein A-I (apoA-I). In the first, bezafibrate was added to probucol, and in the second, probucol added to a combination of simvastatin and fenofibrate. In both cases, plasma levels of HDL and apoA-I returned towards normal after discontinuation of one or both drugs, indicating that the reduction was reversible.",
+        "journal": "Postgraduate medical journal",
+        "year": "1995",
+        "authors": [
+          "Murphy M J",
+          "Duncan A",
+          "Vallance B D",
+          "Packard C J",
+          "O'Reilly D S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticholesteremic Agents",
+          "Bezafibrate",
+          "Cholesterol, HDL",
+          "Drug Interactions",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hypolipoproteinemias",
+          "Lovastatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7567762/"
+      },
+      {
+        "pmid": "9064528",
+        "title": "[A patient with an unexplained low level of high density lipoprotein cholesterol].",
+        "abstract": "A non smoking male patient 42 years old complained of pain in the calves after exercise and had a low 'high density'-lipoprotein (HDL) cholesterol serum concentration. Angiography of the leg vessels revealed no abnormalities. Treatment with simvastatin and gemfibrozil did not affect HDL cholesterol concentrations. Blood tests of relatives made familial hypo-alpha-lipoproteinaemia unlikely. It appeared that the patient had used anabolic steroids; these increase hepatic lipase activity leading to a higher metabolism of HDL and reduced HDL cholesterol levels.",
+        "journal": "Nederlands tijdschrift voor geneeskunde",
+        "year": "1997",
+        "authors": [
+          "Castro Cabezas M",
+          "van Loon D",
+          "de Hiep H J",
+          "Meuwissen O J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anabolic Agents",
+          "Cholesterol, HDL",
+          "Humans",
+          "Hypolipoproteinemias",
+          "Lipase",
+          "Liver",
+          "Male",
+          "Pedigree"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9064528/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:33:12.484475",
+  "success": true,
+  "error_message": null
+}

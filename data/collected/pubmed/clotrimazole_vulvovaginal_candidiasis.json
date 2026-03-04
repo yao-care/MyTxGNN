@@ -1,0 +1,566 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clotrimazole",
+    "disease": "vulvovaginal candidiasis",
+    "query_string": "Clotrimazole AND vulvovaginal candidiasis"
+  },
+  "data": {
+    "query": "Clotrimazole AND vulvovaginal candidiasis",
+    "results": [
+      {
+        "pmid": "21774671",
+        "title": "Boric acid for recurrent vulvovaginal candidiasis: the clinical evidence.",
+        "abstract": "Recurrent vulvovaginal candidiasis (VVC) remains a challenge to manage in clinical practice. Recent epidemiologic studies indicate that non-albicans Candida spp. are more resistant to conventional antifungal treatment with azoles and are considered as causative pathogens of vulvovaginal candidiasis.",
+        "journal": "Journal of women's health (2002)",
+        "year": "2011",
+        "authors": [
+          "Iavazzo Christos",
+          "Gkegkes Ioannis D",
+          "Zarkada Ioanna M",
+          "Falagas Matthew E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intravaginal",
+          "Anti-Infective Agents, Local",
+          "Antifungal Agents",
+          "Azoles",
+          "Biological Availability",
+          "Boric Acids",
+          "Candida",
+          "Candidiasis, Vulvovaginal",
+          "Case-Control Studies",
+          "Drug Resistance, Multiple, Fungal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21774671/"
+      },
+      {
+        "pmid": "30565745",
+        "title": "Randomised clinical trial in women with Recurrent Vulvovaginal Candidiasis: Efficacy of probiotics and lactoferrin as maintenance treatment.",
+        "abstract": "Vulvovaginal candidiasis (VVC) is a recurrent vaginal condition in childbearing women.",
+        "journal": "Mycoses",
+        "year": "2019",
+        "authors": [
+          "Russo Rosario",
+          "Superti Fabiana",
+          "Karadja Eugen",
+          "De Seta Francesco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Animals",
+          "Anti-Infective Agents",
+          "Candidiasis, Vulvovaginal",
+          "Chemoradiotherapy, Adjuvant",
+          "Clotrimazole",
+          "Double-Blind Method",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30565745/"
+      },
+      {
+        "pmid": "37489336",
+        "title": "Vulvovaginal Candidiasis in Pregnancy-Between Sensitivity and Resistance to Antimycotics.",
+        "abstract": "Vulvovaginitis with Candida spp. is the most common infection in women and the rate is increased during pregnancy. Antifungal prescription in pregnant women continues to present challenges and the decision must balance the risk of fetal toxicity with the benefits to the fetus and mother. Starting from the idea that clotrimazole is the most recommended antifungal in candidal vaginitis in pregnancy, we tested the sensitivity of different species of Candida spp. to other azoles, polyenes, and antimetabolites. This retrospective study (January to June 2019) assessed 663 pregnant women hospitalized for various pregnancy-related symptoms in which samples of phage secretion were taken. The laboratory results confirmed 21% of cases, indicating 140 positive mycologic samples. In this study, vaginal candidiasis was mostly related to the first trimester of pregnancy (53.57%,) and less related in the last trimester (17.14%). Candida albicans was the most frequent isolated strain in this study, acc",
+        "journal": "Journal of xenobiotics",
+        "year": "2023",
+        "authors": [
+          "Maftei Nicoleta-Maricica",
+          "Arbune Manuela",
+          "Georgescu Costinela Valerica",
+          "Elisei Alina Mihaela",
+          "Iancu Alina Viorica"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37489336/"
+      },
+      {
+        "pmid": "41745294",
+        "title": "Therapeutic Tools for Vulvovaginal Candidiasis: Current and Emerging Antifungal Agents.",
+        "abstract": "Vulvovaginal candidiasis (VVC) represents a widespread gynaecological challenge, affecting approximately 75% of women at some point during their reproductive years, with a significant subset progressing to recurrent forms (RVVC). Classical azoles and polyenes remain the cornerstone of therapy. However, their clinical utility is undermined by the rise of azole-resistant non-Candida albicans species, the capacity of Candida to form biofilms, and a complex variety of host-related factors that complicate disease expression and therapeutic response. This narrative review provides a critical up-to-date examination of the therapeutic landscape, integrating current diagnostic algorithms with pharmacological strategies for both acute, recalcitrant and recurrent VVCs. We assess the efficacy and safety of established antifungal agents alongside the breakthrough introduction of novel drug classes, with a particular interest in the oral triterpenoid ibrexafungerp and the tetrazole oteseconazole, wh",
+        "journal": "Journal of fungi (Basel, Switzerland)",
+        "year": "2026",
+        "authors": [
+          "Quindós Guillermo",
+          "De-la-Pinta Iker",
+          "Marcos-Arias Cristina",
+          "Jauregizar Nerea",
+          "Sevillano Elena"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41745294/"
+      },
+      {
+        "pmid": "40619549",
+        "title": "Symptomatic vulvovaginal candidiasis and antifungal resistance in HIV-1 positive women at Mbarara city health centre IV.",
+        "abstract": "Vulvovaginal candidiasis (VVC) represents a universal health hazard that contributes to significant morbidity in HIV-positive women. Antifungal resistance is a worldwide increasing health problem that reduces treatment options while increasing treatment costs. The purpose of this study was to determine the prevalence of VVC, identify associated risk factors, characterize the distribution of Candida species, and assess their antifungal susceptibility patterns among HIV-positive women attending Mbarara City Health Centre IV. A laboratory-based, cross-sectional study design was conducted on 146 high vaginal swabs collected from HIV- positive women aged 18 years and above attending routine HIV care that presented with signs and symptoms of vulvovaginal candidiasis. These were subjected to microscopy and culture on Sabouraud Dextrose Agar. Candida isolates were identified by gram stain, germ tube, CHROM agar™, and Analytical profile index (API® Candida) tests. Susceptibility to fluconazole,",
+        "journal": "Scientific reports",
+        "year": "2025",
+        "authors": [
+          "Mbatudde Nusifah",
+          "Nalumaga Pauline Petra",
+          "Bazira Joel",
+          "Kabanda Taseera"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Candidiasis, Vulvovaginal",
+          "Adult",
+          "Antifungal Agents",
+          "Drug Resistance, Fungal",
+          "HIV Infections",
+          "Cross-Sectional Studies",
+          "Candida",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40619549/"
+      },
+      {
+        "pmid": "39419780",
+        "title": "Clotrimazole-induced shifts in vaginal bacteriome and lipid metabolism: insights into recovery mechanisms in vulvovaginal candidiasis.",
+        "abstract": "Vulvovaginal candidiasis (VVC) is a prevalent condition affecting a significant proportion of women worldwide, with recurrent episodes leading to detrimental effects on quality of life. While treatment with clotrimazole is common, the specific alterations it evokes in the vaginal bacteriome and metabolome were previously underexplored.",
+        "journal": "Journal of applied microbiology",
+        "year": "2024",
+        "authors": [
+          "Wang Jingjing",
+          "Pu Xiaowen",
+          "Gu Zhengrong"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Candidiasis, Vulvovaginal",
+          "Clotrimazole",
+          "Humans",
+          "Vagina",
+          "Prospective Studies",
+          "Adult",
+          "Lipid Metabolism",
+          "Antifungal Agents",
+          "Microbiota"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39419780/"
+      },
+      {
+        "pmid": "39174702",
+        "title": "Microbicidal Polymer Nanoparticles Containing Clotrimazole for Treatment of Vulvovaginal Candidiasis.",
+        "abstract": "Vulvovaginal candidiasis (VVC) alters the innate cervicovaginal immunity, which provides an important barrier against viruses and other infections. The incidence of this disease has not decreased in the last 30 years, so effective treatments are still needed. Nanoparticles (NPs) of cellulose acetate phthalate (CAP) and clotrimazole (CLZ) were prepared by the emulsification-diffusion method. NPs were characterized using dynamic light scattering, atomic force microscopy and differential scanning calorimetry; their release profile was determined by the dialysis bag technique and mucoadhesion was evaluated with the mucin-particle method. The growth inhibition study of Candida albicans was carried out using the plate counting technique. Finally, accelerated physical stability tests of NPs were carried out, both in water and in SVF. The CAP-CLZ NPs had an average diameter of 273.4 nm, a PDI of 0.284, smooth surfaces and spherical shapes. In vitro release of CLZ from the CAP NPs was categoriz",
+        "journal": "AAPS PharmSciTech",
+        "year": "2024",
+        "authors": [
+          "Del Rocío Lara-Sánchez María",
+          "Ganem-Rondero Adriana",
+          "Nava-Arzaluz María Guadalupe",
+          "Becerril-Osnaya Andrea Angela",
+          "Pérez-Carranza Laura Abril"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Clotrimazole",
+          "Candidiasis, Vulvovaginal",
+          "Nanoparticles",
+          "Candida albicans",
+          "Female",
+          "Cellulose",
+          "Antifungal Agents",
+          "Polymers",
+          "Particle Size",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39174702/"
+      },
+      {
+        "pmid": "31879636",
+        "title": "The effect of curcumin-based and clotrimazole vaginal cream in the treatment of vulvovaginal candidiasis.",
+        "abstract": "Vulvovaginal candidiasis (VVC) is the second most common infection of the lower female genital among women passing through their productive age. Furthermore, Candida albicans is the most common VVC agents followed by, non-albicans Candida species. Nowadays, extensive studies are being conducted on alternative therapies and the use of herbal medicines.",
+        "journal": "Journal of family medicine and primary care",
+        "year": "2019",
+        "authors": [
+          "Abouali Nilufar",
+          "Moghimipour Eskandar",
+          "Mahmoudabadi Ali Zarei",
+          "Namjouyan Foroogh",
+          "Abbaspoor Zahra"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31879636/"
+      },
+      {
+        "pmid": "36607885",
+        "title": "Improved treatment of vulvovaginal candidiasis with Clotrimazole plus probiotic Lacidophilin Vaginal Capsules: A prospective, real-world study.",
+        "abstract": "Clotrimazole has long been used to treat vulvovaginal candidiasis (VVC), yet the antibiotic resistance, adverse effects and recurrences still bring about a great challenge for the clinicians. To explore the effect of probiotic Lacidophilin Vaginal Capsules plus Clotrimazole Vaginal Tablets (500mg) in the treatment of uncomplicated VVC, a self-controlled real-world study was conducted.",
+        "journal": "Medicine",
+        "year": "2023",
+        "authors": [
+          "Zeng Xianling",
+          "An Ruifang",
+          "Li Han",
+          "Zhang Yafei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Lactobacillus",
+          "Candidiasis, Vulvovaginal",
+          "Probiotics",
+          "Vagina",
+          "Bacteria",
+          "Female",
+          "Prospective Studies",
+          "Humans",
+          "Clotrimazole",
+          "Vaginal Creams, Foams, and Jellies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36607885/"
+      },
+      {
+        "pmid": "37832705",
+        "title": "Chitosan-based sponges containing clotrimazole for the topical management of vulvovaginal candidiasis.",
+        "abstract": "Vulvovaginal candidiasis (VVC) persists as a worrying women's healthcare issue, often relying on suboptimal therapeutics. Novel intravaginal dosage forms focusing on improving patient acceptability and featuring improved biopharmaceutical properties could be interesting alternatives to available antifungal products. Different formulations of sponges based on chitosan (Ch), with or without crosslinking and co-formulated with poly(N-vinylcaprolactam) (PNVCL), were produced for the topical administration of clotrimazole (CTZ) and further tested for physicochemical properties, drug release, cytotoxicity and antifungal activity. Results showed that high amounts of CTZ (roughly 30-50 %) could be incorporated into sponges obtained by using a simple freeze-drying methodology. Cross-linking of Ch with ammonia affected the morphology and mechanical features of sponges and shifted the release profile from sustained (around 20 % and 60 % drug released after 4 h and 24 h, respectively) to fast-rele",
+        "journal": "International journal of pharmaceutics",
+        "year": "2023",
+        "authors": [
+          "Martins Fiama",
+          "Morgado Daniella L",
+          "Sarmento Bruno",
+          "de Camargo Emerson R",
+          "das Neves José"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Candidiasis, Vulvovaginal",
+          "Clotrimazole",
+          "Antifungal Agents",
+          "Chitosan",
+          "Administration, Topical",
+          "Candida albicans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37832705/"
+      },
+      {
+        "pmid": "11363911",
+        "title": "Candidiasis.",
+        "abstract": "",
+        "journal": "Journal of the International Association of Physicians in AIDS Care",
+        "year": "1996",
+        "authors": [
+          "Powderly W G"
+        ],
+        "pub_types": [
+          "Newspaper Article",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Candidiasis, Oral",
+          "Esophageal Diseases",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11363911/"
+      },
+      {
+        "pmid": "24387809",
+        "title": "Aetiologies and contributing factors of vulvovaginal candidiasis in Abidjan (Cote d'Ivoire).",
+        "abstract": "In order to update the data and contribute to optimizing the management of vulvovaginal candidiasis, we conducted this study to determine their etiology (and hence the sensitivity of the isolated fungal organisms) and the factors contributing to their occurrence in Abidjan (Cote d'Ivoire).",
+        "journal": "Journal de mycologie medicale",
+        "year": "2014",
+        "authors": [
+          "Konaté A",
+          "Yavo W",
+          "Kassi F K",
+          "Djohan V",
+          "Angora E K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antifungal Agents",
+          "Candida",
+          "Candidiasis, Vulvovaginal",
+          "Cote d'Ivoire",
+          "Cross-Sectional Studies",
+          "Female",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24387809/"
+      },
+      {
+        "pmid": "6963163",
+        "title": "Vulvovaginal candidiasis: treatment and recurrence.",
+        "abstract": "This study compares the effectiveness of 6 treatment regimens for vulvovaginal candidiasis with 6 months' follow-up. 292 patients randomly allocated to the treatments completed the trial. Significant differences were found in the rates of recurrence within the different treatment groups. The most successful treatment was miconazole vaginal cream with oral nystatin, with a cure rate of 81%. The high rate of recurrence of this condition is noted and the need for at least 6 months' follow-up in future trials of candidacides is emphasized.",
+        "journal": "The Australian & New Zealand journal of obstetrics & gynaecology",
+        "year": "1982",
+        "authors": [
+          "Dennerstein G J",
+          "Langley R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antifungal Agents",
+          "Candidiasis, Vulvovaginal",
+          "Child",
+          "Clotrimazole",
+          "Econazole",
+          "Female",
+          "Humans",
+          "Miconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6963163/"
+      },
+      {
+        "pmid": "39824974",
+        "title": "Comparing the effects of Mycozin and Clotrimazole 1% creams on vaginal candidiasis: a triple-blinded randomized controlled trial.",
+        "abstract": "Clotrimazole 1% and Mycozin vaginal cream have been reported to be effective in relieving the symptoms of vulvovaginitis caused by Candida. The resistance to azole compounds, and the side effects of chemical drugs have been reported following azole therapy. It was hypothesized that Mycozin is at least as effective as Clotrimazole in treating vaginal candidiasis. This equivalent, triple-blinded, randomized clinical trial was conducted on 126 patients who complained of vaginal itching referred to Al-Zahra Teaching Hospital, Tabriz, Iran between September 2023 and May 2024. Participants were divided into two groups, i.e., Mycozin (n = 64) and Clotrimazole 1% (n = 62), using the block randomization method. The patient's complaints, clinical signs, the pH and culture of the secretions was recorded before and after treatment. The patient's improvement, level of satisfaction, and side effects were recorded. The data were analyzed using Pearson chi-square test, ANCOVA, and Mann-Whitney U test.",
+        "journal": "Scientific reports",
+        "year": "2025",
+        "authors": [
+          "Hajizadeh Khadije",
+          "Alivand Zahra",
+          "Rahmani Vahideh",
+          "Mehrannia Leila",
+          "Nami Sanam"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Equivalence Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Young Adult",
+          "Antifungal Agents",
+          "Candidiasis, Vulvovaginal",
+          "Clotrimazole",
+          "Iran",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39824974/"
+      },
+      {
+        "pmid": "33767795",
+        "title": "Comparison of the effectiveness of Satureja khuzestanica and clotrimazole vaginal creams for the treatment of vulvovaginal candidiasis.",
+        "abstract": "Candidal vaginitis has a relatively high prevalence, and its resistance to treatment is on the rise. Considering the complications of chemical drugs, the use of herbal medicines has now been favored due to the lack of changes in the normal vaginal flora. The aim of this study was to compare the effectiveness of Satureja khuzestanica and clotrimazole vaginal creams for the treatment of candidal vulvovaginitis. A randomized clinical trial was conducted on 84 reproductive-aged women in the city of Ahvaz, Iran. Individuals were randomly divided into two treatment groups: 1% Satureja khuzestanica vaginal creams (n=42) and 1% clotrimazole vaginal cream (n=42) who used a one-full applicator daily for one week. About 4-7 days after the end of treatment, a clinical examination and laboratory re-tests were performed to determine the level of treatment. The data were analyzed using the Mann-Whitney U, t-test and Chi-square tests, with SPSS version 22. After the treatment, no significant differenc",
+        "journal": "Journal of medicine and life",
+        "year": "2021",
+        "authors": [
+          "Jaldani Shirin",
+          "Fatahinia Mahnaz",
+          "Maraghi Elham",
+          "Moghimipour Eskandar",
+          "Javadnoori Mojgan"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antifungal Agents",
+          "Candidiasis, Vulvovaginal",
+          "Clotrimazole",
+          "Female",
+          "Humans",
+          "Iran",
+          "Satureja",
+          "Treatment Outcome",
+          "Vaginal Creams, Foams, and Jellies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33767795/"
+      },
+      {
+        "pmid": "36276860",
+        "title": "Comparison between the Efficacy of Nigella sativa-Honey and Clotrimazole on Vulvovaginal Candidiasis: A Randomized Clinical Trial.",
+        "abstract": "This triple-blind, randomized controlled trial was conducted on eighty-four 18 to 49-year-old nonpregnant women from August 2019 to February 2020. The subjects were randomly divided into two groups after confirming the diagnosis of VVC infection through fungal culture. Clinical signs and symptoms and lab tests were recorded at baseline and 6-10 days after treatment. The treatment time for each group was seven nights.",
+        "journal": "Evidence-based complementary and alternative medicine : eCAM",
+        "year": "2022",
+        "authors": [
+          "Norouzi Allahleh Korabi Masoumeh",
+          "Mirmolaei Seyedeh Tahereh",
+          "Tabarrai Malihe",
+          "Ghalandarpoor-Attar Seyedeh Mojgan",
+          "Sadati Lamardi Seyede Nargess"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36276860/"
+      },
+      {
+        "pmid": "21833970",
+        "title": "Interventions for prevention and treatment of vulvovaginal candidiasis in women with HIV infection.",
+        "abstract": "Vulvovaginal candidiasis (VVC) is one of the most common fungal infections that recur frequently in HIV infected women. Symptoms of VVC are pruritis, discomfort, dyspareunia, and dysuria. Vulval infection presents as a morbiliform rash that may extend to the thighs. Vaginal infection is associated with white discharge, and plaques are seen on erythematous vaginal walls.Even though rarely or never resulting in systemic fungal infection or mortality, left untreated these lesions contribute considerably to the morbidity associated with HIV infection. Prevention and treatment of this condition is an essential part of maintaining the quality of life for these individuals.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2011",
+        "authors": [
+          "Ray Amita",
+          "Ray Sujoy",
+          "George Aneesh Thomas",
+          "Swaminathan Narasimman"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Adult",
+          "Antifungal Agents",
+          "Candidiasis, Vulvovaginal",
+          "Clotrimazole",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Lactobacillus",
+          "Probiotics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21833970/"
+      },
+      {
+        "pmid": "1877264",
+        "title": "Comparative study of fluconazole and clotrimazole in the treatment of vulvovaginal candidiasis.",
+        "abstract": "Fluconazole is a new oral triazole antifungal with good activity against Candida spp. In this study, we investigated the effectiveness and tolerability of a three-day course of treatment with fluconazole compared with clotrimazole vaginal tablets in nonpregnant women with acute Candida vaginitis. Of the 90 evaluable patients who received fluconazole, 76 (84 percent) were asymptomatic seven to ten days after treatment compared with 84 of 95 (88 percent) treated with clotrimazole. An additional ten patients in the fluconazole group (11 percent) and seven in the clotrimazole group (7 percent) had improvement in their signs and symptoms. Only four patients in each group (4 percent) were considered treatment failures. Mycological cures were obtained in 89 and 93 percent of patients treated with fluconazole and clotrimazole, respectively, seven to ten days posttreatment. Clinical cure rates remained high one month posttreatment: 79 percent in the fluconazole group and 83 percent in the clotr",
+        "journal": "DICP : the annals of pharmacotherapy",
+        "year": "1991",
+        "authors": [
+          "Stein G E",
+          "Christensen S",
+          "Mummaw N"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Intravaginal",
+          "Administration, Oral",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Candidiasis, Vulvovaginal",
+          "Clotrimazole",
+          "Female",
+          "Fluconazole",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1877264/"
+      },
+      {
+        "pmid": "39362128",
+        "title": "Maintenance pharmacological therapy of recurrent vulvovaginal candidiasis. A Bayesian network meta-analysis of randomized studies.",
+        "abstract": "Several topical and oral drugs are available for maintenance therapy of recurrent vulvovaginal candidiasis (RVVC)(≥ 3 episodes of symptomatic Candida infection per year). The study aimed to assess the risk of early (24 weeks) and late (48-52 weeks) clinical and mycological recurrences associated with oral/topical pharmacological maintenance therapy of RVVC.",
+        "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+        "year": "2024",
+        "authors": [
+          "Gardella Barbara",
+          "Cassani Chiara",
+          "Dominoni Mattia",
+          "Pasquali Marianna Francesca",
+          "Spinillo Arsenio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Antifungal Agents",
+          "Bayes Theorem",
+          "Candidiasis, Vulvovaginal",
+          "Clotrimazole",
+          "Fluconazole",
+          "Maintenance Chemotherapy",
+          "Randomized Controlled Trials as Topic",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39362128/"
+      },
+      {
+        "pmid": "41319137",
+        "title": "Non-albicans Candida in Vulvovaginal Candidiasis: Antifungal Resistance and Expression of ERG11, CDR1, CDR2, and MDR1 Genes.",
+        "abstract": "The rise in azole resistance among Nakaseomyces glabratus and Pichia kudriavzevii in recurrent vulvovaginal candidiasis presents a growing public health challenge. This study investigated the expression of antifungal resistance-related genes (ERG11, CDR1, CDR2, and MDR1) in clinical resistant (CR) and clinical and laboratory resistant (CLR) strains of these yeasts. Cervicovaginal samples from patients with recurrent infections were collected, microscopically examined, and cultured. Yeast species were identified phenotypically and genotypically, followed by drug sensitivity testing. Total RNA was extracted, reverse transcribed to complementary DNA, and real-time polymerase chain reaction was used to quantify target gene expression, comparing results to drug-sensitive controls. Non-Candida albicans species constituted 29% (45 cases) of the isolates, with N. glabratus (68%) and P. kudriavzevii (17%) being the dominant species. Other species included Candida parapsilosis, Meyerozyma guilli",
+        "journal": "MicrobiologyOpen",
+        "year": "2025",
+        "authors": [
+          "Ranjbar Golafshani Fatemeh Zahra",
+          "Kermani Firoozeh",
+          "Abbaszadeh Godarzi Soheila",
+          "Mahdavi Omran Saeid"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Candidiasis, Vulvovaginal",
+          "Female",
+          "Humans",
+          "Antifungal Agents",
+          "Drug Resistance, Fungal",
+          "Microbial Sensitivity Tests",
+          "Fungal Proteins",
+          "Candida",
+          "Pichia",
+          "Azoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41319137/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:31:07.319261",
+  "success": true,
+  "error_message": null
+}

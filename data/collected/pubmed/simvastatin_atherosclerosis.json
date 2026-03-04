@@ -1,0 +1,621 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Simvastatin",
+    "disease": "atherosclerosis",
+    "query_string": "Simvastatin AND atherosclerosis"
+  },
+  "data": {
+    "query": "Simvastatin AND atherosclerosis",
+    "results": [
+      {
+        "pmid": "35618653",
+        "title": "A ROS-Responsive Simvastatin Nano-Prodrug and its Fibronectin-Targeted Co-Delivery System for Atherosclerosis Treatment.",
+        "abstract": "Nanoprodrugs with responsive release properties integrate the advantages of stimuli-responsive prodrugs and nanotechnology. They would provide ultimate opportunity in fighting atherosclerosis. In this study, we synthesized a redox-responsive nanoprodrug of simvastatin (TPTS) by conjugating α-tocopherol polyethylene glycol derivative to the pharmacophore of simvastatin with a thioketal linker. TPTS formed nanoparticles and released parent simvastatin in the presence of hydrogen peroxide. Moreover, by taking advantage of the self-assembly behavior of TPTS, we developed a fibronectin-targeted delivery system (TPTS/C/T) to codelivery simvastatin prodrug and ticagrelor. In vitro and in vivo experiments indicated that TPTS and TPTS/C/T had good stability, which could reduce off-target leakage of drugs. They greatly inhibited the M1-type polarization of macrophages; reduced intracellular reactive oxygen species level and inflammatory cytokine; and TNF-α, MCP-1, and IL-1β were secreted by macr",
+        "journal": "ACS applied materials & interfaces",
+        "year": "2022",
+        "authors": [
+          "Zhao Runze",
+          "Ning Xiaoyue",
+          "Wang Mengqi",
+          "Wang Huanhuan",
+          "Xing Guang"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Atherosclerosis",
+          "Drug Liberation",
+          "Fibronectins",
+          "Mice",
+          "Nanoparticles",
+          "Prodrugs",
+          "Reactive Oxygen Species",
+          "Simvastatin",
+          "Ticagrelor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35618653/"
+      },
+      {
+        "pmid": "31295982",
+        "title": "Simvastatin reduces atherosclerotic plaques and endothelial inflammatory response in atherosclerosis rats through TGF-β/Smad pathway.",
+        "abstract": "",
+        "journal": "Minerva medica",
+        "year": "2020",
+        "authors": [
+          "Jiang Haibo",
+          "Ruan Zhaoyang",
+          "Wang Zirong",
+          "Wu Bin",
+          "Gao Zhongming"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticholesteremic Agents",
+          "Aorta",
+          "Carotid Artery Diseases",
+          "Coronary Artery Disease",
+          "Interleukin-10",
+          "Interleukin-1beta",
+          "Interleukin-6",
+          "Lipids",
+          "Plaque, Atherosclerotic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31295982/"
+      },
+      {
+        "pmid": "18543313",
+        "title": "The implications of the ezetimibe and simvastatin in hypercholesterolemia enhances atherosclerosis regression trial: a return to first principles.",
+        "abstract": "To outward appearances, the publication of the Ezetimibe and Simvastatin in Hypercholesterolemia Enhances Atherosclerosis Regression (ENHANCE) trial has led to a monolithic backlash against the use of ezetimibe by cardiologists for the treatment of hyperlipidemia. Rather than be swayed by popular opinion, we should each put the results of ENHANCE into context and ask the questions: should I put my trust in an imaging surrogate or in low-density lipoprotein (LDL) cholesterol (LDL-C), and how do the safety and efficacy of ezetimibe compare with other nonstatin lipid-lowering agents?",
+        "journal": "Clinical cardiology",
+        "year": "2008",
+        "authors": [
+          "Musunuru Kiran",
+          "Blumenthal Roger S"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Atherosclerosis",
+          "Azetidines",
+          "Cholesterol",
+          "Clinical Trials as Topic",
+          "Drug Therapy, Combination",
+          "Ezetimibe",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18543313/"
+      },
+      {
+        "pmid": "8916484",
+        "title": "Atherosclerosis and restenosis: reflections on the Lovastatin Restenosis Trial and Scandinavian Simvastatin Survival Study.",
+        "abstract": "Atherosclerosis is related to serum lipids, whereas restenosis after coronary angioplasty is probably not, reflecting different pathophysiologies. Nonetheless, treatment of lipid disorders is appropriate after angioplasty.",
+        "journal": "The American journal of cardiology",
+        "year": "1996",
+        "authors": [
+          "Weintraub W S",
+          "Pederson J P"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Angioplasty, Balloon, Coronary",
+          "Anticholesteremic Agents",
+          "Coronary Artery Disease",
+          "Death, Sudden, Cardiac",
+          "Humans",
+          "Lovastatin",
+          "Myocardial Infarction",
+          "Pravastatin",
+          "Randomized Controlled Trials as Topic",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8916484/"
+      },
+      {
+        "pmid": "28448973",
+        "title": "Downregulations of CD36 and Calpain-1, Inflammation, and Atherosclerosis by Simvastatin in Apolipoprotein E Knockout Mice.",
+        "abstract": "In the previous in vitro study, we found that simvastatin decreased the protein expression of CD36, the scavenger receptor, and calpain-1, the Ca2+-sensitive cysteine protease, in oxidized low-density lipoprotein (oxLDL)-treated macrophages. In this in vivo study, we investigated whether simvastatin downregulates the expression of CD36 and calpain-1 and inhibits the inflammation and atherosclerosis in apolipoprotein E knockout (ApoE KO) mice.",
+        "journal": "Journal of vascular research",
+        "year": "2017",
+        "authors": [
+          "Yin Meihui",
+          "Liu Qianqian",
+          "Yu Lan",
+          "Yang Yueyan",
+          "Lu Meili"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Antigens, CD",
+          "Antigens, Differentiation, Myelomonocytic",
+          "Aorta",
+          "Aortic Diseases",
+          "Apolipoproteins E",
+          "Atherosclerosis",
+          "CD36 Antigens",
+          "Calpain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28448973/"
+      },
+      {
+        "pmid": "23564080",
+        "title": "Simvastatin suppresses vascular inflammation and atherosclerosis in ApoE(-/-) mice by downregulating the HMGB1-RAGE axis.",
+        "abstract": "High mobility group box protein 1 (HMGB1) and receptor for the advanced glycation end product (RAGE) play pivotal roles in vascular inflammation and atherosclerosis. The aim of this study was to determine whether the HMGB1-RAGE axis was involved in the actions of simvastatin on vascular inflammation and atherosclerosis in ApoE(-/-) mice.",
+        "journal": "Acta pharmacologica Sinica",
+        "year": "2013",
+        "authors": [
+          "Liu Ming",
+          "Yu Ying",
+          "Jiang Hong",
+          "Zhang Lei",
+          "Zhang Pei-pei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Aorta",
+          "Apolipoproteins E",
+          "Atherosclerosis",
+          "Blotting, Western",
+          "Down-Regulation",
+          "HMGB1 Protein",
+          "Human Umbilical Vein Endothelial Cells",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23564080/"
+      },
+      {
+        "pmid": "28225891",
+        "title": "Soy milk versus simvastatin for preventing atherosclerosis and left ventricle remodeling in LDL receptor knockout mice.",
+        "abstract": "Functional food intake has been highlighted as a strategy for the prevention of cardiovascular diseases by reducing risk factors. In this study, we compared the effects of oral treatment with soy milk and simvastatin on dyslipidemia, left ventricle remodeling and atherosclerotic lesion of LDL receptor knockout mice (LDLr-/-) fed a hyperlipidic diet. Forty 3-month old male LDLr-/- mice were distributed into four groups: control group (C), in which animals received standard diet; HL group, in which animals were fed a hyperlipidic diet; HL+SM or HL+S groups, in which animals were submitted to a hyperlipidic diet plus soy milk or simvastatin, respectively. After 60 days, both soy milk and simvastatin treatment prevented dyslipidemia, atherosclerotic lesion progression and left ventricle hypertrophy in LDLr-/- mice. These beneficial effects of soy milk and simvastatin were associated with reduced oxidative stress and inflammatory state in the heart and aorta caused by the hyperlipidic diet.",
+        "journal": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
+        "year": "2017",
+        "authors": [
+          "Santos L",
+          "Davel A P",
+          "Almeida T I R",
+          "Almeida M R",
+          "Soares E A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticholesteremic Agents",
+          "Atherosclerosis",
+          "Diet",
+          "Male",
+          "Mice",
+          "Mice, Knockout",
+          "Receptors, LDL",
+          "Simvastatin",
+          "Soy Milk"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28225891/"
+      },
+      {
+        "pmid": "19968571",
+        "title": "Ezetimibe/simvastatin.",
+        "abstract": "Treatments with ezetimibe/simvastatin (combined or alone) have been indicated as very promising approaches to strongly reduce cholesterol levels in hyperlipidemic patients.",
+        "journal": "Expert opinion on drug safety",
+        "year": "2009",
+        "authors": [
+          "Montecucco Fabrizio",
+          "Quercioli Alessandra",
+          "Mach François"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticholesteremic Agents",
+          "Azetidines",
+          "Drug Combinations",
+          "Ezetimibe",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia",
+          "Simvastatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19968571/"
+      },
+      {
+        "pmid": "29602140",
+        "title": "Effect of simvastatin and ezetimibe on suPAR levels and outcomes.",
+        "abstract": "Soluble urokinase plasminogen activator receptor (suPAR) is an inflammatory marker associated with cardiovascular disease. Statins lower both low-density lipoprotein (LDL)-cholesterol and C-reactive protein (CRP), resulting in improved outcomes. However, whether lipid-lowering therapy also lowers suPAR levels is unknown.",
+        "journal": "Atherosclerosis",
+        "year": "2018",
+        "authors": [
+          "Hodges Gethin W",
+          "Bang Casper N",
+          "Forman Julie L",
+          "Olsen Michael H",
+          "Boman Kurt"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anticholesteremic Agents",
+          "Aorta",
+          "Aortic Valve Stenosis",
+          "Biomarkers",
+          "C-Reactive Protein",
+          "Cholesterol, LDL",
+          "Constriction, Pathologic",
+          "Disease Progression",
+          "Ezetimibe"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29602140/"
+      },
+      {
+        "pmid": "22085343",
+        "title": "Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy.",
+        "abstract": "In patients with established cardiovascular disease, residual cardiovascular risk persists despite the achievement of target low-density lipoprotein (LDL) cholesterol levels with statin therapy. It is unclear whether extended-release niacin added to simvastatin to raise low levels of high-density lipoprotein (HDL) cholesterol is superior to simvastatin alone in reducing such residual risk.",
+        "journal": "The New England journal of medicine",
+        "year": "2011",
+        "authors": [
+          "Boden William E",
+          "Probstfield Jeffrey L",
+          "Anderson Todd",
+          "Chaitman Bernard R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Atherosclerosis",
+          "Brain Ischemia",
+          "Cardiovascular Diseases",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22085343/"
+      },
+      {
+        "pmid": "16483569",
+        "title": "Chromosomal damage and atherosclerosis. A protective effect from simvastatin.",
+        "abstract": "In uremic patients, the frequency of sister chromatid exchanges appears markedly higher than in the general population. Statins are well known for their pleiotropic effects, which are independent of any reduction in cholesterol circulating levels. The aim of the present study was to determine the effects of exposure to escalating doses of simvastatin on the sister chromatid exchange rate in cultured lymphocytes in order to identify the influence of statin on genomic damage. Peripheral lymphocytic samples for culture were obtained from 25 healthy volunteers, 20 patients with documented carotid atherosclerosis and 30 atherosclerotic patients on maintenance regular acetate-free biofiltration. Hemodialyzed patients had a greater percentage of high frequency cells (50%) than healthy controls (3%) and a significantly higher average number of sister chromatid (9.82+/-2.1 vs. 4.65+/-2.18). The subgroup of hemodialyzed patients with high plaque score values was characterized by significantly gr",
+        "journal": "European journal of pharmacology",
+        "year": "2006",
+        "authors": [
+          "Pernice Franco",
+          "Floccari Fulvio",
+          "Caccamo Chiara",
+          "Belghity Nadia",
+          "Mantuano Stefania"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Atherosclerosis",
+          "Carotid Arteries",
+          "Cells, Cultured",
+          "Chromosome Aberrations",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Hemodiafiltration",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Kidney Failure, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16483569/"
+      },
+      {
+        "pmid": "21095263",
+        "title": "Study of Heart and Renal Protection (SHARP): randomized trial to assess the effects of lowering low-density lipoprotein cholesterol among 9,438 patients with chronic kidney disease.",
+        "abstract": "Lowering low-density lipoprotein (LDL) cholesterol with statin therapy has been shown to reduce the incidence of atherosclerotic events in many types of patient, but it remains uncertain whether it is of net benefit among people with chronic kidney disease (CKD).",
+        "journal": "American heart journal",
+        "year": "2010",
+        "authors": [
+          "Sharp Collaborative Group"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anticholesteremic Agents",
+          "Atherosclerosis",
+          "Azetidines",
+          "Cholesterol, LDL",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Ezetimibe"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21095263/"
+      },
+      {
+        "pmid": "24998652",
+        "title": "[Effect of simvastatin on atherosclerosis and central aortic pressure in ApoE gene knockout mice].",
+        "abstract": "To investigate the effects of simvastatin on atherosclerosis and central aortic pressure in ApoE-knockout (ApoE-/-) mice.",
+        "journal": "Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences",
+        "year": "2014",
+        "authors": [
+          "Liu Ming",
+          "Jin Yu-hong",
+          "Li Tiao-hong",
+          "Shi Lin-hui",
+          "Zhu Bao-qi"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Apolipoproteins E",
+          "Arterial Pressure",
+          "Atherosclerosis",
+          "Cholesterol",
+          "Disease Models, Animal",
+          "Lipoproteins, HDL",
+          "Lipoproteins, LDL",
+          "Male",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24998652/"
+      },
+      {
+        "pmid": "23216643",
+        "title": "Inhibitory effect of the combination therapy of simvastatin and pinocembrin on atherosclerosis in ApoE-deficient mice.",
+        "abstract": "The present study was performed to investigate the effects of the combination therapy of pinocembrin and simvastatin on the atherosclerotic lesions development in the ApoE-/- mice.",
+        "journal": "Lipids in health and disease",
+        "year": "2012",
+        "authors": [
+          "Sang Hui",
+          "Yuan Na",
+          "Yao Shutong",
+          "Li Furong",
+          "Wang Jiafu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Apolipoproteins E",
+          "Atherosclerosis",
+          "Diet, High-Fat",
+          "Drug Combinations",
+          "Endothelins",
+          "Flavanones",
+          "Humans",
+          "Lipids",
+          "Malondialdehyde"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23216643/"
+      },
+      {
+        "pmid": "41054981",
+        "title": "Zwitterionic Supramolecular Nanoassemblies With siRNA and Simvastatin as \"Nanoscavenger\" for Synergistic Atherosclerosis Treatment.",
+        "abstract": "Atherosclerotic vulnerable plaques contain various undesirable components, including excess cholesterol, efferocytosis-deficient macrophages, and inflammatory factors. However, conventional lipid-lowering drugs often show limited efficacy due to their inability to target the complex pathophysiology. Herein, innovative zwitterionic supramolecular nanoassemblies, termed PCDSC-S2P, are developed as the nanoscavenger to reduce and stabilize plaques. The nanoassemblies are based on zwitterionic poly(carboxybetaine)-modified β-cyclodextrin (β-CD) acting as a host molecule that encapsulates simvastatin (Sim) as a guest and absorbs small interfering RNA targeting calcium/calmodulin-dependent protein kinase II gamma (siCaMKIIγ) electrostatically. The PCDSC-S2P nanoassemblies are driven by host-guest interactions, electrostatic interactions, and hydrogen bonds. Moreover, the macrophage-targeting peptide modification directs nanoassemblies accumulation toward atherosclerotic plaques. Therefore, P",
+        "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+        "year": "2025",
+        "authors": [
+          "Ji Weihong",
+          "Shao Weichen",
+          "Ye Xing",
+          "Kankala Ranjith Kumar",
+          "Chen Aizheng"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Simvastatin",
+          "Animals",
+          "Atherosclerosis",
+          "RNA, Small Interfering",
+          "Mice",
+          "Plaque, Atherosclerotic",
+          "Macrophages",
+          "Nanoparticles",
+          "Mice, Inbred C57BL",
+          "beta-Cyclodextrins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41054981/"
+      },
+      {
+        "pmid": "26612090",
+        "title": "Inhibition of Atherosclerosis Progression, Intimal Hyperplasia, and Oxidative Stress by Simvastatin and Ivabradine May Reduce Thoracic Aorta's Stiffness in Hypercholesterolemic Rabbits.",
+        "abstract": "This study aims to evaluate atherosclerosis, oxidative stress, and arterial stiffness attenuation by simvastatin and ivabradine in hyperlipidemic rabbits.",
+        "journal": "Journal of cardiovascular pharmacology and therapeutics",
+        "year": "2016",
+        "authors": [
+          "Koniari Ioanna",
+          "Mavrilas Dimosthenis",
+          "Apostolakis Efstratios",
+          "Papadimitriou Evangelia",
+          "Papadaki Helen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antioxidants",
+          "Aorta, Thoracic",
+          "Aortic Diseases",
+          "Atherosclerosis",
+          "Benzazepines",
+          "Diet, Atherogenic",
+          "Disease Models, Animal",
+          "Disease Progression",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26612090/"
+      },
+      {
+        "pmid": "28207427",
+        "title": "Progression and Characterization of the Accelerated Atherosclerosis in Iliac Artery of New Zealand White Rabbits: Effect of Simvastatin.",
+        "abstract": "Although atherosclerosis is described in New Zealand White rabbit's iliac artery, yet details of time-dependent atherosclerosis progression are not well known. Further, a well characterized accelerated model of atherosclerosis is also required for the screening of candidate drugs to target specific steps of atherosclerosis development. The present study extensively characterizes the time-dependent plaque composition and functional responses of the atherosclerosis in rabbit iliac artery and its modification by simvastatin.",
+        "journal": "Journal of cardiovascular pharmacology",
+        "year": "2017",
+        "authors": [
+          "Kanshana Jitendra S",
+          "Khanna Vivek",
+          "Singh Vishal",
+          "Jain Manish",
+          "Misra Ankita"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Angioplasty, Balloon",
+          "Animals",
+          "Atherosclerosis",
+          "Biomarkers",
+          "Diet, High-Fat",
+          "Disease Models, Animal",
+          "Disease Progression",
+          "Endothelium, Vascular",
+          "Extracellular Matrix",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28207427/"
+      },
+      {
+        "pmid": "37669139",
+        "title": "Shear Stress and ROS Dual-Responsive RBC-Hitchhiking Nanoparticles for Atherosclerosis Therapy.",
+        "abstract": "Atherosclerosis (AS), a leading cause of death worldwide, is a chronic inflammatory disease rich in lipids and reactive oxygen species (ROS) within plaques. Therefore, lowering lipid and ROS levels is effective in treating AS and reducing AS-induced mortality. In this study, an intelligent biomimetic drug delivery system that specifically responded to both shear stress and ROS microenvironment was developed, consisting of red blood cells (RBCs) and cross-linked polyethyleneimine nanoparticles (SA PEI) loaded with a lipid-lowering drug simvastatin acid (SA), and RBCs were self-assembled with SA PEI to obtain biresponsive SA PEI@RBCs for the treatment of AS. SA PEI could achieve sustained release of SA in response to ROS and reduce ROS and lipid levels to achieve the purpose of treating AS. Shear stress model experiments showed that SA PEI@RBCs could respond to the high shear stress level (100 dynes/cm2) at plaques, realizing the desorption and enrichment of SA PEI and improving the ther",
+        "journal": "ACS applied materials & interfaces",
+        "year": "2023",
+        "authors": [
+          "Shen Meili",
+          "Jiang Hui",
+          "Zhao Yan",
+          "Wu Liangqiang",
+          "Yang Haiqin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Reactive Oxygen Species",
+          "Atherosclerosis",
+          "Erythrocytes",
+          "Nanoparticles",
+          "Plaque, Amyloid",
+          "Lipids",
+          "Simvastatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37669139/"
+      },
+      {
+        "pmid": "19128464",
+        "title": "Effects of probiotic bacteria, isoflavones and simvastatin on lipid profile and atherosclerosis in cholesterol-fed rabbits: a randomized double-blind study.",
+        "abstract": "Much attention has been drawn to different alternative strategies for cardiovascular disease prevention.",
+        "journal": "Lipids in health and disease",
+        "year": "2009",
+        "authors": [
+          "Cavallini Daniela C U",
+          "Bedani Raquel",
+          "Bomdespacho Laura Q",
+          "Vendramini Regina C",
+          "Rossi Elizeu A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Aorta",
+          "Atherosclerosis",
+          "Cholesterol",
+          "Diet",
+          "Dietary Fats",
+          "Enterococcus faecium",
+          "Isoflavones",
+          "Male",
+          "Organ Size"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19128464/"
+      },
+      {
+        "pmid": "26246463",
+        "title": "Doses of rosuvastatin, atorvastatin and simvastatin that induce equal reductions in LDL-C and non-HDL-C: Results from the VOYAGER meta-analysis.",
+        "abstract": "Achieving the greatest reduction in atherogenic lipoproteins requires the optimum dose and potency of statin. Using data from the VOYAGER meta-analysis, we determined doses of rosuvastatin, atorvastatin and simvastatin that induce equal reductions in low-density lipoprotein cholesterol (LDL-C) and non-high-density lipoprotein cholesterol (non-HDL-C).",
+        "journal": "European journal of preventive cardiology",
+        "year": "2016",
+        "authors": [
+          "Karlson Björn W",
+          "Palmer Michael K",
+          "Nicholls Stephen J",
+          "Lundman Pia",
+          "Barter Philip J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Atherosclerosis",
+          "Atorvastatin",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Rosuvastatin Calcium",
+          "Simvastatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26246463/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:33:56.522955",
+  "success": true,
+  "error_message": null
+}

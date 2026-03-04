@@ -1,0 +1,162 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Mometasone Furoate",
+    "disease": "exanthem",
+    "query_string": "Mometasone Furoate AND exanthem"
+  },
+  "data": {
+    "query": "Mometasone Furoate AND exanthem",
+    "results": [
+      {
+        "pmid": "28328785",
+        "title": "Contact Allergy to Topical Mometasone Furoate Confirmed by Rechallenge and Patch Test.",
+        "abstract": "",
+        "journal": "American journal of therapeutics",
+        "year": "2018",
+        "authors": [
+          "Tatu Alin L",
+          "Ionescu Marius A",
+          "Nwabudike Lawrence C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Aged",
+          "Dermatitis, Allergic Contact",
+          "Dermatologic Agents",
+          "Drug Eruptions",
+          "Exanthema",
+          "Female",
+          "Humans",
+          "Mometasone Furoate",
+          "Patch Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28328785/"
+      },
+      {
+        "pmid": "27345420",
+        "title": "Lichenoid drug eruption induced by colchicine: case report.",
+        "abstract": "Lichenoid drug eruption (LDE) is a common cutaneous side effect of drugs including antimalarials, antihypertensives, nonsteroids, anti-inflammatory drugs and diuretics. The physiopathologic relationship between colchicine treatment and LDE is unclear. There is very little documentation of LDE induced by colchicine in the literature. In this report, we present a case that developed LDE on the abdomen and the legs during the colchicine treatment.",
+        "journal": "Cutaneous and ocular toxicology",
+        "year": "2017",
+        "authors": [
+          "An Isa",
+          "Demir Vasfiye",
+          "Akdeniz Sedat"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Abdomen",
+          "Administration, Cutaneous",
+          "Administration, Oral",
+          "Colchicine",
+          "Drug Eruptions",
+          "Exanthema",
+          "Female",
+          "Histamine Antagonists",
+          "Humans",
+          "Hyperpigmentation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27345420/"
+      },
+      {
+        "pmid": "21922203",
+        "title": "Using the Skindex-16 and Common Terminology Criteria for Adverse Events to assess rash symptoms: results of a pooled-analysis (N0993).",
+        "abstract": "Historically, skin toxicity has been assessed in prospective clinical trials using the clinician-reported National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE). The patient-reported Skindex-16 measures symptoms and perceptions of toxicity. This study was designed to compare information provided by these two measures.",
+        "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+        "year": "2012",
+        "authors": [
+          "Atherton Pamela J",
+          "Burger Kelli N",
+          "Loprinzi Charles L",
+          "Neben Wittich Michelle A",
+          "Miller Robert C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Algorithms",
+          "Anti-Inflammatory Agents",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Agents",
+          "Breast Neoplasms",
+          "Cetuximab",
+          "Erlotinib Hydrochloride",
+          "Exanthema",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21922203/"
+      },
+      {
+        "pmid": "22472354",
+        "title": "Management of EGFR-inhibitor associated rash: a retrospective study in 49 patients.",
+        "abstract": "In recent years inhibitors directed against the epidermal growth factor receptor (EGFR) have evolved as effective targeting cancer drugs. Characteristic papulopustular exanthemas, often described as acneiform rashes, are the most frequent adverse effect associated with this class of novel cancer drugs and develop in > 90% of patients. Notably, the rash may significantly compromise the patients' quality of life, thereby potentially leading to incompliance as well as dose reduction or even termination of the anti-EGFR therapy. Yet, an effective dermatologic management of cutaneous adverse effects can be achieved. Whereas various case reports, case series or expert opinions on the management of EGFR-inhibitor (EGFRI) induced rashes have been published, data on systematic management studies are sparse.",
+        "journal": "European journal of medical research",
+        "year": "2012",
+        "authors": [
+          "Gerber Peter Arne",
+          "Meller Stephan",
+          "Eames Tatiana",
+          "Buhren Bettina Alexandra",
+          "Schrumpf Holger"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "ErbB Receptors",
+          "Exanthema",
+          "Fluoroquinolones",
+          "Humans",
+          "Isotretinoin",
+          "Mometasone Furoate",
+          "Pregnadienediols",
+          "Protein Kinase Inhibitors",
+          "Quinolizines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22472354/"
+      },
+      {
+        "pmid": "21244385",
+        "title": "Annular groin eruptions: pityriasis rosea of vidal.",
+        "abstract": "",
+        "journal": "International journal of dermatology",
+        "year": "2011",
+        "authors": [
+          "Zawar Vijay",
+          "Godse Kiran"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Anti-Inflammatory Agents",
+          "Antipruritics",
+          "Biopsy",
+          "Drug Therapy, Combination",
+          "Exanthema",
+          "Groin",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21244385/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:24:31.220181",
+  "success": true,
+  "error_message": null
+}

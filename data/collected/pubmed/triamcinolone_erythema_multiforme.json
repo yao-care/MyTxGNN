@@ -1,0 +1,555 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Triamcinolone",
+    "disease": "erythema multiforme",
+    "query_string": "Triamcinolone AND erythema multiforme"
+  },
+  "data": {
+    "query": "Triamcinolone AND erythema multiforme",
+    "results": [
+      {
+        "pmid": "30189985",
+        "title": "Painful Oral Lesions.",
+        "abstract": "Painful oral vesiculoerosive diseases (OVD) include lichen planus, pemphigus vulgaris, mucous membrane pemphigoid, erythema multiforme, and recurrent aphthous stomatitis. OVD lesions have an immunopathic cause. Treatment is aimed at reducing the immunologic and the following inflammatory response. The mainstay of OVD management is topical or systemic corticosteroids to include topical triamcinolone, fluocinonide, and clobetasol, whereas systemic medications used in practice can include dexamethasone, prednisone, and prednisolone. Oral herpetic lesions can be primary or recurrent. If management is desired, they can be treated by topical or systemic antiviral drugs. Topical antiviral creams include prescription acyclovir, penciclovir and over-the-counter docosanol.",
+        "journal": "Dental clinics of North America",
+        "year": "2018",
+        "authors": [
+          "Hargitai Istvan A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Erythema Multiforme",
+          "Facial Pain",
+          "Humans",
+          "Lichen Planus",
+          "Pemphigoid, Benign Mucous Membrane",
+          "Pemphigus",
+          "Stomatitis, Aphthous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30189985/"
+      },
+      {
+        "pmid": "9687059",
+        "title": "Erythema-multiforme-like lesions from triamcinolone acetonide.",
+        "abstract": "",
+        "journal": "Contact dermatitis",
+        "year": "1998",
+        "authors": [
+          "Valsecchi R",
+          "Reseghetti A",
+          "Leghissa P",
+          "Cologni L",
+          "Cortinovis R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Dermatitis, Allergic Contact",
+          "Drug Eruptions",
+          "Erythema Multiforme",
+          "Glucocorticoids",
+          "Humans",
+          "Male",
+          "Osteoarthritis",
+          "Patch Tests",
+          "Triamcinolone Acetonide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9687059/"
+      },
+      {
+        "pmid": "8690267",
+        "title": "Erythema multiforme.",
+        "abstract": "The diagnosis of erythema multiforme was established on the basis of physical examination, biopsy specimen evaluation, and the patient's medication history. Use of a triamcinolone mouthrinse and discontinuation of Triphasil-28 contraceptive led to resolution of the lesions.",
+        "journal": "General dentistry",
+        "year": "1996",
+        "authors": [
+          "Manganaro A M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Contraceptives, Oral, Hormonal",
+          "Diagnosis, Differential",
+          "Erythema Multiforme",
+          "Ethinyl Estradiol",
+          "Ethinyl Estradiol-Norgestrel Combination",
+          "Female",
+          "Humans",
+          "Mouth Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8690267/"
+      },
+      {
+        "pmid": "24603513",
+        "title": "Erythema multiforme-like allergic contact reaction to topical triamcinolone.",
+        "abstract": "",
+        "journal": "Dermatitis : contact, atopic, occupational, drug",
+        "year": "2014",
+        "authors": [
+          "Smart David Ross",
+          "Powell Douglas L"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Dermatitis, Allergic Contact",
+          "Drug Eruptions",
+          "Erythema Multiforme",
+          "False Negative Reactions",
+          "Female",
+          "Humans",
+          "Patch Tests",
+          "Triamcinolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24603513/"
+      },
+      {
+        "pmid": "39507134",
+        "title": "Drug-Induced Oral Erythema Multiforme: A Report of a Rare Case.",
+        "abstract": "Erythema multiforme (EM) is an acute-onset, self-limiting inflammatory condition affecting the skin and mucous membranes. It exhibits a range of skin lesions, which is why it is referred to as \"multiforme.\" Oral lesions, usually inflammatory and frequently marked by rapidly rupturing vesicles and bullae, often constitute a significant clinical feature. The exact etiology is obscure; however, it may be caused by multiple triggering factors. The most well-established connection is with a previous herpes simplex virus infection, while a smaller percentage of cases (<10%) are linked to drug use. Based on mucosal involvement, the condition is classified into two types: EM minor and EM major. Stevens-Johnson syndrome and toxic epidermal necrolysis (Lyell's disease) are now recognized as separate clinical conditions. EM usually exhibits a self-limiting course, with lesions typically improving within a few weeks. Avoiding triggers and using steroid therapy can be effective treatments. This pap",
+        "journal": "Cureus",
+        "year": "2024",
+        "authors": [
+          "Sriram Shyamkumar",
+          "Jayakanth Mambakkam J",
+          "Mariam Sarah",
+          "Saeed Shazina",
+          "Hasan Shamimul"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39507134/"
+      },
+      {
+        "pmid": "14206262",
+        "title": "ERYTHEMA MULTIFORME OCCURRING DURING TREATMENT OF PRURITUS VULVAE AND NEURODERMATITIS WITH BETAMETHASONE.",
+        "abstract": "",
+        "journal": "The British journal of clinical practice",
+        "year": "1964",
+        "authors": [
+          "FOX E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Betamethasone",
+          "Drug Eruptions",
+          "Erythema Multiforme",
+          "Female",
+          "Humans",
+          "Lupus Erythematosus, Discoid",
+          "Neurodermatitis",
+          "Prednisolone",
+          "Pruritus Vulvae",
+          "Toxicology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14206262/"
+      },
+      {
+        "pmid": "13994257",
+        "title": "Triamcinolone and hydrocortisone in topical therapy.",
+        "abstract": "",
+        "journal": "Archives of dermatology",
+        "year": "1963",
+        "authors": [
+          "TROMOVITCH T A",
+          "JACOBS P H",
+          "PUZAK H P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dermatitis",
+          "Dermatitis, Atopic",
+          "Eczema",
+          "Erythema Multiforme",
+          "Humans",
+          "Hydrocortisone",
+          "Neurodermatitis",
+          "Pityriasis",
+          "Triamcinolone",
+          "Triamcinolone Acetonide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13994257/"
+      },
+      {
+        "pmid": "28128086",
+        "title": "Vesicular Contact Reaction May Progress into Erythema Multiforme.",
+        "abstract": "Dear Editor, Erythema multiforme is considered an acute skin condition, characterized by a self-limiting and sometimes recurrent course. It is regarded as a type IV hypersensitivity reaction associated with certain infections, medications, and other various triggers. Allergic contact dermatitis is in turn a delayed type of induced allergy as a result of cutaneous contact with a specific allergen to which the patient develops specific sensitivity. This type of cutaneous reaction is associated with inflammation manifesting with erythema, edema, and vesicles. A 27-year old female patient presented with a 3-day history of erythematous and vesicular lesions which developed 24 hours after cesarean section. Initially the lesions were localized in the area of surgery (mainly the abdomen and upper thighs) and on the next day progressed to the buttocks and lumbar area. The patient was referred to the Outpatient Clinic and was treated with antihistamines, but her dermatological state deteriorated",
+        "journal": "Acta dermatovenerologica Croatica : ADC",
+        "year": "2016",
+        "authors": [
+          "Czarnecka-Operacz Magdalena",
+          "Jenerowicz Dorota",
+          "Szulczyńska-Gabor Joanna",
+          "Teresiak-Mikołajczak Ewa",
+          "Szyfter-Harris Joanna"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Allergens",
+          "Cesarean Section",
+          "Dermatitis, Allergic Contact",
+          "Disease Progression",
+          "Enzyme-Linked Immunosorbent Assay",
+          "Erythema Multiforme",
+          "Female",
+          "Follow-Up Studies",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28128086/"
+      },
+      {
+        "pmid": "23346669",
+        "title": "Radiation port erythema multiforme: erythema multiforme localized to the radiation port in a patient with non-small cell lung cancer.",
+        "abstract": "A 75-year-old man was treated with stereotactic radiation to 50 gray units in 4 fractions for stage IB non-small cell lung cancer. Radiotherapy was directed at the right lower lobe segment of the lung and lasted 4 days. He developed radiodermatitis, which completely resolved within a few weeks after radiotherapy was finished. Three months after completing radiation therapy, he developed a pruritic red lesion within his radiation port on his right mid back with the formation of blisters a week later. Two weeks after the onset of the patient's blisters, cutaneous examination showed individual and convergent erythematous papules and plaques with superficial scaling at sites of resolving vesicles located within the radiated area (Figures 1 and 2). The patient had neither symptoms of mycoplasma pneumoniae, nor lesions or history of present or past herpetic infection. Also, he had not recently been placed on any new medications, and he did not have any other erythema multiforme-associated ri",
+        "journal": "Skinmed",
+        "year": "2012",
+        "authors": [
+          "Chodkiewicz Hubert M",
+          "Cohen Philip R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Erythema Multiforme",
+          "Humans",
+          "Hyperpigmentation",
+          "Lung Neoplasms",
+          "Male",
+          "Radiodermatitis",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23346669/"
+      },
+      {
+        "pmid": "4884283",
+        "title": "Drug reactions. IV.",
+        "abstract": "",
+        "journal": "The British journal of dermatology",
+        "year": "1968",
+        "authors": [
+          "Baker H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Atrophy",
+          "Child",
+          "Erythema Multiforme",
+          "Female",
+          "Fluocinolone Acetonide",
+          "Glucocorticoids",
+          "Humans",
+          "Male",
+          "Skin Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4884283/"
+      },
+      {
+        "pmid": "38566932",
+        "title": "Evaluation of Oral Health-Related Quality of Life in Patient with Herpes-Associated Erythema Multiforme: A Unique Case Report.",
+        "abstract": "Erythema multiforme (EM) is an acute mucocutaneous hypersensitivity reaction with various etiological factors, including herpes simplex virus type 1 (HSV-1) infection, known as herpes-associated erythema multiforme (HAEM). Oral health-related quality of life (OHRQoL) is a multidimensional concept of biopsychosocial aspects related to oral health. OHRQol contains information for patient-centered treatment plan development. The OHRQoL measurement instrument widely used by clinicians is the oral health impact profile-14 (OHIP-14). This case report aimed to evaluate OHRQoL in HAEM patient, which only manifests on the lips and oral cavity.",
+        "journal": "International medical case reports journal",
+        "year": "2024",
+        "authors": [
+          "Bakti Fitrah Utari",
+          "Dewi Tenny Setiani"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38566932/"
+      },
+      {
+        "pmid": "16523274",
+        "title": "[Toxic epidermal necrolysis].",
+        "abstract": "",
+        "journal": "Der Hautarzt; Zeitschrift fur Dermatologie, Venerologie, und verwandte Gebiete",
+        "year": "2006",
+        "authors": [
+          "Lewerenz V",
+          "Bruch-Gerharz D",
+          "Ruzicka T",
+          "Kruse R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Adult",
+          "Antifungal Agents",
+          "Biopsy",
+          "Candidiasis, Vulvovaginal",
+          "Combined Modality Therapy",
+          "Critical Care",
+          "Female",
+          "Fluconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16523274/"
+      },
+      {
+        "pmid": "25098675",
+        "title": "Localized erythema multiforme-like contact dermatitis from a knee brace.",
+        "abstract": "A 47-year-old woman developed allergic contact dermatitis (ACD) to a knee brace after anterior cruciate ligament repair, manifesting as numerous erythema multiforme-like lesions. No previous cases of ACD to this Townsend Rebel knee brace, which is commonly worn postoperatively, have been reported. The patient was treated with triamcinolone ointment, cetirizine, and diphenhydramine. On follow-up, the lesions had resolved. We share this case to increase knowledge of this reaction pattern and encourage further similar reports to clarify the nature of the reaction.",
+        "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+        "year": "2015",
+        "authors": [
+          "Winn Aubrey E",
+          "Pace Sarah",
+          "Adams Erin G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Braces",
+          "Dermatitis, Contact",
+          "Diagnosis, Differential",
+          "Erythema Multiforme",
+          "Female",
+          "Humans",
+          "Knee",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25098675/"
+      },
+      {
+        "pmid": "1068978",
+        "title": "Corticosteroids in diseases of the oral mucosa.",
+        "abstract": "The introduction of corticosteroids into oral medicine heralded a therapeutic advance, and substantial benefits have occurred from their use. Three topical steroids are being used currently in oral diseases, i.e. hydrocortisone hemisuccinate, triamcinolone in Orabase 0-1 per cent and betamethasone valerate 0-1 mg. The efficacy of these agents can be increased markedly if they are administered during the prodromal phase of ulceration, i.e. when lymphocyte activity is at its maximum. Therapeutic doses of all of them can be exceeded three times without impairing adrenal function. Nevertheless some of these preparations, as exemplified by topical medication, induced an unfortunate acute pseudomembranous candidiasis without any alteration in the plasma cortisol level. The routine examination and treatment of ulcers in the mouth should be a careful exercise helped by a good light source and a tongue spatula. Oral lesions affecting the soft tissues may be often difficult to diagnose, because ",
+        "journal": "International dental journal",
+        "year": "1976",
+        "authors": [
+          "Kay L W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adrenal Cortex Hormones",
+          "Anti-Inflammatory Agents",
+          "Epidermolysis Bullosa",
+          "Erythema Multiforme",
+          "Herpes Simplex",
+          "Humans",
+          "Hydrocortisone",
+          "Lichen Planus",
+          "Lupus Erythematosus, Discoid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1068978/"
+      },
+      {
+        "pmid": "10940118",
+        "title": "Papular perniosis mimicking erythema multiforme: the first case report in Thailand.",
+        "abstract": "",
+        "journal": "International journal of dermatology",
+        "year": "2000",
+        "authors": [
+          "Wessagowit P",
+          "Asawanonda P",
+          "Noppakun N"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Australia",
+          "Chilblains",
+          "Climate",
+          "Diagnosis, Differential",
+          "Erythema Multiforme",
+          "Female",
+          "Foot Dermatoses",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10940118/"
+      },
+      {
+        "pmid": "32677172",
+        "title": "Systemic allergic dermatitis from intra-articular triamcinolone acetonide: Report of two cases with unusual clinical manifestations.",
+        "abstract": "",
+        "journal": "Contact dermatitis",
+        "year": "2021",
+        "authors": [
+          "Bianchi Leonardo",
+          "Marietti Rossella",
+          "Tramontana Marta",
+          "Hansel Katharina",
+          "Stingeni Luca"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents",
+          "Cross Reactions",
+          "Dermatitis, Allergic Contact",
+          "Dermatologic Agents",
+          "Glucocorticoids",
+          "Humans",
+          "Injections, Intra-Articular",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32677172/"
+      },
+      {
+        "pmid": "24550598",
+        "title": "Stevens-Johnson syndrome following use of metronidazole in a dental patient.",
+        "abstract": "Metronidazole alone rarely causes Stevens-Johnson syndrome (SJS). We present a case of an elderly male patient who, following metronidazole use, developed neurological symptoms followed by pain and blisters on both soles, erythema of face and neck, scrotal itching and erosion, and hemorrhagic encrustation around the lips and oral mucous membrane. Initial neurological symptoms followed by mucocutaneous manifestation of SJS following metronidazole use is probably a new presentation of this case.",
+        "journal": "Indian journal of pharmacology",
+        "year": "2014",
+        "authors": [
+          "Mazumdar Goutameswar",
+          "Shome Koushik"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dental Health Services",
+          "Dibenzoxepins",
+          "Drug Therapy, Combination",
+          "Erythromycin",
+          "Famotidine",
+          "Humans",
+          "Lichen Planus, Oral",
+          "Male",
+          "Methylprednisolone",
+          "Metronidazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24550598/"
+      },
+      {
+        "pmid": "14136810",
+        "title": "TRIAMCINOLONE ACETONIDE INTRAMUSCULARLY: EFFECTIVE LONG-ACTING STEROID THERAPY IN DERMATOLOGIC DISORDERS.",
+        "abstract": "",
+        "journal": "Journal of the American Geriatrics Society",
+        "year": "1964",
+        "authors": [
+          "SCHER R K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Alopecia Areata",
+          "Animals",
+          "Child",
+          "Dermatitis",
+          "Dermatitis, Atopic",
+          "Dermatitis, Contact",
+          "Eczema",
+          "Erythema Multiforme",
+          "Furunculosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14136810/"
+      },
+      {
+        "pmid": "1115513",
+        "title": "Erythema gyratum repens with metastatic adenocarcinoma.",
+        "abstract": "A patient with Erythema Gyratum Repens (EGR) had a marked increase of his eruption, with uncontrollable pruritus that was unresponsive to steriod therapy. This culminated in an exfoliative dermatitis. A metastatic, undifferentiated adenocarcinoma was removed following a right-sided craniotomy. The patient then had complete cessation of his pruritus, with moderate improvement of his eruption. All the reported cases of EGR were reviewed in terms of the source of the malignant disorder. The relationship between the time of onset of the EGR and the discovery of the malignant disorder, as well as the effect of treatment of the malignant condition on the course of the EGR, was studied. The data suggest a highly probable relationship between the two.",
+        "journal": "Archives of dermatology",
+        "year": "1975",
+        "authors": [
+          "Skolnick M",
+          "Mainman E R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Biopsy",
+          "Erythema Multiforme",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Prednisolone",
+          "Skin",
+          "Triamcinolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1115513/"
+      },
+      {
+        "pmid": "19839382",
+        "title": "Two takes on Turkish targets.",
+        "abstract": "",
+        "journal": "Journal of the Royal Naval Medical Service",
+        "year": "2009",
+        "authors": [
+          "Pepper Tom",
+          "Wood Iain"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Diagnosis, Differential",
+          "Erythema Multiforme",
+          "Herpes Simplex",
+          "Herpesvirus 1, Human",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Male",
+          "Military Personnel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19839382/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:23:06.355283",
+  "success": true,
+  "error_message": null
+}

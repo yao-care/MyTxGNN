@@ -1,0 +1,212 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Fluticasone Propionate",
+    "disease": "atopic eczema"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04706559",
+      "title": "Efficacy of Oral Supplementation of Probiotics in Children With Atopic Dermatitis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-01-03",
+      "completion_date": "2021-12-15",
+      "country": "Nepal",
+      "enrollment": 98,
+      "brief_summary": "Various clinical studies have evaluated the role of probiotics in children with atopic dermatitis, with some studies showing improvement in clinical outcome after supplementation of probiotics and others showing no additional benefit. This study is to provide clinical evidence of effect of a mixture of probiotics in Atopic Dermatitis (AD) patients based on improvement in SCORAD (SCORing Atopic Dermatitis) index.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children with a diagnosis of atopic dermatitis that meet Hanifin and Rajka criteria\n2. SCORAD ( SCORing Atopic Dermatitis) index 15- 50 at the time of enrollment\n\nExclusion Criteria:\n\n1. SCORAD (SCORing Atopic Dermatitis) index \\<15 or \\>50.\n2. Children treated with systemic ",
+      "endpoints": [
+        "Number of participants in each sex group",
+        "Duration",
+        "History Of Atopy"
+      ],
+      "sponsor": "B.P. Koirala Institute of Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT04706559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01772056",
+      "title": "Randomised Controlled, Double Blind Trial of Topical Twice Weekly Fluticasone Propionate Maintenance Treatment to Reduce Risk of Relapse in Mild or Moderate Atopic Dermatitis in Children",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-12",
+      "completion_date": "2013-03",
+      "country": "Spain",
+      "enrollment": 54,
+      "brief_summary": "The relapsing nature of atopic dermatitis (AD) presents a challenge for its long-term treatment. Efficacy and safety of corticosteroids have been proven in the acute treatment of AD, but not its efficacy and security to reduce or prevent relapses.\n\nObjectives To investigate long-term management (16 weeks) of AD with fluticasone propionate (FP) 0,05% cream twice weekly in addition to an emollient (vehicle) after stabilization of an acute flare of AD with FP cream.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children, aged 2 to 10 years, with mild or moderate acute flare of AD (SCORAD up to 50) and no treatment for this episode of AD.\n* written informed consent to patients' parents.\n\nExclusion Criteria:\n\n* \\>30% of affected body surface area AD.\n* Head affected.\n* Fluticasone o ve",
+      "endpoints": [
+        "Relapse in Atopic Dermatitis (AD)."
+      ],
+      "sponsor": "University of Valencia",
+      "url": "https://clinicaltrials.gov/study/NCT01772056"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01915914",
+      "title": "A Randomized, Open-label, Comparative Study to Evaluate an Intermittent Dosing Regimen of Fluticasone Propionate 0.05% Cream (Twice Per Week) in Reducing the Risk of Relapse When Added to Regular Daily Moisturization Using PHYSIOGEL Lotion in Paediatric Subjects With Stabilized Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-12-23",
+      "completion_date": "2015-02-15",
+      "country": "China",
+      "enrollment": 107,
+      "brief_summary": "This is an open-label, randomized, comparative study, including 4 phases: SCREENING, ACUTE, MAINTENANCE and FOLLOW-UP.\n\nSubjects will complete the SCREENING phase to check the eligibility within 7 days after they sign the written informed consent form. All eligible subjects will be enrolled in ACUTE phase to receive twice daily Fluticasone propionate (FP) 0.05% cream up to 4 weeks. The efficacy and safety in ACUTE phase will be assessed every 2 weeks up to 4 weeks or until Treatment Success whic",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSpecific information regarding warnings, precautions, contraindications, adverse events, and other pertinent information on the GSK investigational product or other study treatment that may impact subject eligibility is provided in the package insert of CUTIVATE and PHYSIOGEL Lo",
+      "endpoints": [
+        "Time to the First Relapse of AD During the Maintenance Phase"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01915914"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03594565",
+      "title": "The Use of Topical Nasal Steroids for Skin Reactions to Continuous Glucose Monitoring System, Among Children and Youth With Type 1 Diabetes Mellitus: Case Series",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-03",
+      "completion_date": "2018-06",
+      "country": "N/A",
+      "enrollment": 13,
+      "brief_summary": "Background Type 1 diabetes mellitus is a chronic metabolic disorder that presents a significant set of challenges to the patient, their family and the physician. Near normoglycemia is associated with a reduced risk of microvascular and macrovascular complications in type 1 diabetes mellitus but is difficult to achieve despite considerable effort from patients and healthcare providers . Furthermore, episodes of hypoglycemia are frequent and may endanger life acutely. Subcutaneous glucose monitori",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 1-20 years\n* Local skin reaction to CGMS indicating local or systemic management.\n\nExclusion Criteria:\n\n* Patients who were offered nsFP but did not actually use it.",
+      "endpoints": [
+        "Difference in skin irritation before and after regular application of nsFP according to the modified Draize scale."
+      ],
+      "sponsor": "Assaf-Harofeh Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03594565"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00689832",
+      "title": "Comparative, Multicentre, Randomised, Double-blind Study to Assess the Efficacy of Tacrolimus 0.03% Ointment Versus Fluticasone 0.005% Ointment in Children Aged 2 Years or Over Suffering From Moderate to Severe Atopic Dermatitis.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2005-08",
+      "country": "France",
+      "enrollment": 487,
+      "brief_summary": "Children with atopic eczema and a poor response to topical corticosteroid applied either Protopic or Fluticasone ointment twice a day for 3 weeks. They could continue during 3 more weeks once a day if needed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children with moderate to severe atopic dermatitis (Rajka \\& Langeland score greater than or equal to 4.5) and who had responded insufficiently to conventional therapies\n* Female patients of childbearing age: effective means of contraception throughout the period of the study ",
+      "endpoints": [
+        "Percentage of patients presenting at the week 3 visit (day 21) with an improvement of at least 60% in their modified Eczema Area and Severity Index (mEASI) in comparison to day 1"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT00689832"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00426283",
+      "title": "A Double Blinded, Randomized Trial of Swallowed 1760mcg Fluticasone Propionate Versus Placebo in the Treatment of Eosinophilic Esophagitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2012-03",
+      "country": "United States",
+      "enrollment": 42,
+      "brief_summary": "The purpose of this study is to test the effects (both good and bad) of high dose swallowed fluticasone propionate (Flovent) in subjects with eosinophilic esophagitis (EoE).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent for study by subject, or parent/guardian if subject is a minor. Assent will be obtained from all minors 11 years of age and older.\n* Histological findings on esophageal biopsy to include peak eosinophil density ≥ 24 per high power field (400x) in the pr",
+      "endpoints": [
+        "Percentage of Participants Who Attained Remission."
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT00426283"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00119158",
+      "title": "An Exploratory Double-blind, Randomized, Vehicle-controlled, Paired Study to Evaluate the Efficacy and Safety of Concomitant Use of Elidel Cream 1% and Cutivate Cream 0.05% in Patients With Severe Lesions of Atopic Dermatitis (AD)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2005-06",
+      "country": "United States",
+      "enrollment": 90,
+      "brief_summary": "Atopic dermatitis is a chronic relapsing disease with acute flares. The standard therapy is to treat acute flares using topical medications. The two most common classes of topical medications for atopic dermatitis (AD) are topical corticosteroids and topical calcineurin inhibitors.\n\nPimecrolimus and topical corticosteroids exert their activity by different mechanisms, there may be a synergistic effect of the combination therapy. Therefore, a combination therapy may provide a faster resolution of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 2 to 65 years\n* Clinical diagnosis of (Atopic Dermatitis) AD according to the American Academy of Dermatology (AAD) Consensus Conference (2001)\n* At least two lesions of AD on symmetrical part of the body (same location for each side of the body), of severe intensity (m-EA",
+      "endpoints": [
+        "Change From Baseline in the m-EASI (Eczema Area Severity Index) Score."
+      ],
+      "sponsor": "Children's Hospital of Philadelphia",
+      "url": "https://clinicaltrials.gov/study/NCT00119158"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00690105",
+      "title": "Comparative, Multicentre, Randomized, Double-blind Study to Assess the Efficacy of Tacrolimus 0.1% Ointment Versus Fluticasone 0.005% Ointment in Adult Patients Suffering From Moderate to Severe Atopic Dermatitis and Presenting With So-called 'Red Face' Lesions of the Head and Neck.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2005-07",
+      "country": "France",
+      "enrollment": 577,
+      "brief_summary": "Patients with facial atopic eczema and a poor response to topical corticosteroid applied either Protopic or Fluticasone ointment twice a day for 3 weeks. They could continue during 3 more weeks once a day if needed or change for the other ointment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Moderate to severe AD (Rajka \\& Langeland score) with lesions to the head and neck defined as 'red face' or 'facial eczema': erythema affecting at least 10% of the surface of the 'face' (head, neck, chest, nape of neck), due to long-term AD\n* At least two flare-ups of 'facial'",
+      "endpoints": [
+        "Percentage of patients presenting at the week 3 visit (day 21) with an improvement of at least 60% in their local mEASI score (mLEASI) compared to Baseline (day 1)."
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT00690105"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00546000",
+      "title": "A Multi-Center, Open-Label Study to Evaluate the Effect of ALTANA Inc's Cutivate (Fluticasone Propionate) Lotion 0.05% on the Hypothalmic Pituitary Adrenal (HPA) Axis in the Treatment of Atopic Dermatitis in a Pediatric Population",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 56,
+      "brief_summary": "A multi-center, open-label, Phase IV, unblinded study using Cutivate (fluticasone propionate, 0.05%)lotion and it's possible effects on the HPA axis of infants diagnosed with atopic dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects are 3-12 months of age\n* Subjects diagnosed with Atopic Dermatitis (AD) and have ≥35% of Body Surface Area\n* Subjects meet protocol specific AD signs and symptom severity score\n\nExclusion Criteria:\n\n* Subjects with conditions effecting the HPA Axis\n* Subjects with cli",
+      "endpoints": [
+        "Post Treatment Serum Cortisol Values Will be Compared."
+      ],
+      "sponsor": "Fougera Pharmaceuticals Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00546000"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00616538",
+      "title": "Prospective, Randomized, Investigator-Blind, Controlled, Pilot Study Comparing Effect of Epiceram™ Device vs Standard of Care Therapy of Mid-Strength Topical Steroid (Fluticasone Propionate 0.05%) in Treatment of Atopic Dermatitis in Pediatric Subjects",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 121,
+      "brief_summary": "Novel therapies for AD that avoid immunosuppression and potential carcinogensis are needed. EpiCeram™ , a topical cream, represents a novel class of therapy for skin disorders that does not contain corticosteroids or other anti-inflammatory drugs. The objective of the present study is to demonstrate the safety and efficacy of EpiCeram ™ in the treatment of moderate to severe atopic dermatitis as compared to mid-strength topical steroid cream following twice daily dosing for four weeks in pediatr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects willing to provide written informed consent (i.e. assent with parental/guardian consent for ages \\> 7 to 18 years and parental consent for ages 6 months to 7 years) to participate in the study\n* Males or Females\n* Age: 6 months to 18 years\n* Diagnosis of Moderate to S",
+      "endpoints": [
+        "Change in the mean Severity Scoring for Atopic Dermatitis (SCORAD)"
+      ],
+      "sponsor": "Ceragenix Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00616538"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03742414",
+      "title": "SEAL (Stopping Eczema and ALlergy) Study: Prevent the Allergic March by Enhancing the Skin Barrier",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-06-30",
+      "completion_date": "2028-06-30",
+      "country": "United States, United Kingdom",
+      "enrollment": 398,
+      "brief_summary": "This is a randomized, controlled trial designed for children who are have already developed atopic dermatitis (AD or eczema) by 12 weeks of age. The aim is to compare the effect of proactive sequential skin care, including the twice-daily use of a tri-lipid skin barrier cream (Epiceram) and proactive use of fluticasone propionate cream, against reactive AD therapy, to reduce the occurrence and severity of AD in early infancy and thereby prevent food allergy (FA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants who develop early onset visible dry skin or atopic dermatitis up to and equal to 12 weeks of age.\n2. Stated willingness to comply with all study procedures and availability for the duration of the study\n3. In good general health as evidenced by medical history\n4.",
+      "endpoints": [
+        "number of foods each participant is sensitized to"
+      ],
+      "sponsor": "Harvard School of Public Health (HSPH)",
+      "url": "https://clinicaltrials.gov/study/NCT03742414"
+    }
+  ],
+  "timestamp": "2026-03-04T13:31:44.298752",
+  "success": true,
+  "error_message": null
+}

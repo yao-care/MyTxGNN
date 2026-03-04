@@ -1,0 +1,606 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ofloxacin",
+    "disease": "paratyphoid fever",
+    "query_string": "Ofloxacin AND paratyphoid fever"
+  },
+  "data": {
+    "query": "Ofloxacin AND paratyphoid fever",
+    "results": [
+      {
+        "pmid": "36420914",
+        "title": "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins.",
+        "abstract": "Typhoid and paratyphoid (enteric fever) are febrile bacterial illnesses common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends treatment with azithromycin, ciprofloxacin, or ceftriaxone due to widespread resistance to older, first-line antimicrobials. Resistance patterns vary in different locations and are changing over time. Fluoroquinolone resistance in South Asia often precludes the use of ciprofloxacin. Extensively drug-resistant strains of enteric fever have emerged in Pakistan. In some areas of the world, susceptibility to old first-line antimicrobials, such as chloramphenicol, has re-appeared. A Cochrane Review of the use of fluoroquinolones and azithromycin in the treatment of enteric fever has previously been undertaken, but the use of cephalosporins has not been systematically investigated and the optimal choice of drug and duration of treatment are uncertain.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2022",
+        "authors": [
+          "Kuehn Rebecca",
+          "Stoesser Nicole",
+          "Eyre David",
+          "Darton Thomas C",
+          "Basnyat Buddha"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Adult",
+          "Humans",
+          "Adolescent",
+          "Paratyphoid Fever",
+          "Typhoid Fever",
+          "Cephalosporins",
+          "Azithromycin",
+          "Ceftriaxone",
+          "Cefixime"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36420914/"
+      },
+      {
+        "pmid": "16271634",
+        "title": "Typhoid and paratyphoid fever.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "2005",
+        "authors": [
+          "Pandit Anil",
+          "Arjyal Amit"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Ciprofloxacin",
+          "Drug Resistance, Multiple, Bacterial",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Nalidixic Acid",
+          "Nepal",
+          "Ofloxacin",
+          "Salmonella enterica"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16271634/"
+      },
+      {
+        "pmid": "21975746",
+        "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+        "abstract": "Typhoid and paratyphoid are febrile illnesses, due to a bacterial infection, which remain common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends the fluoroquinolone antibiotics in areas with known resistance to the older first-line antibiotics.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2011",
+        "authors": [
+          "Effa Emmanuel E",
+          "Lassi Zohra S",
+          "Critchley Julia A",
+          "Garner Paul",
+          "Sinclair David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Fluoroquinolones",
+          "Humans",
+          "Norfloxacin",
+          "Paratyphoid Fever",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21975746/"
+      },
+      {
+        "pmid": "11197787",
+        "title": "Oral administration of fluoroquinolones in the treatment of typhoid fever and paratyphoid fever in Japan.",
+        "abstract": "To study the adverse reactions and therapeutic effects of fluoroquinolones to investigate whether they can be used for the treatment of patients with typhoid fever and paratyphoid fever.",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "year": "2000",
+        "authors": [
+          "Ohnishi K",
+          "Kimura K",
+          "Masuda G",
+          "Tsunoda T",
+          "Obana M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Anti-Infective Agents",
+          "Drug Evaluation",
+          "Female",
+          "Fluoroquinolones",
+          "Humans",
+          "Japan",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11197787/"
+      },
+      {
+        "pmid": "11022153",
+        "title": "[Typhoid and paratyphoid fever in adults in the Internal Medicine Department at Libreville (Gabon)].",
+        "abstract": "We carried out a retrospective study of 150 files of patients suffering from typhoid or paratyphoid fever, confirmed bacteriologically, between January 1992 and December 1996 at Libreville. Young adults were the most frequently affected. These infections were associated with unstable living conditions and lack of cleanliness. Neurological (17%), digestive (12%) and cardiovascular (3%) complications were the principal factors aggravating the disease. The following serotypes were identified: Salmonella typhi (47%), S. paratyphi B (25%), S. paratyphi C (20%) and S. paratyphi A (8%). Salmonellosis was associated with schistosomiasis (13%), nematodiasis (2.3%), sickle-cell anemia (7%) and HIV infection (8%). The mortality rate was 3.3%. Fluoroquinolones are the molecules of choice for treating typhoid and paratyphoid fevers.",
+        "journal": "Sante (Montrouge, France)",
+        "year": "2000",
+        "authors": [
+          "Okome-Nkoumou M",
+          "Ayo Nkana E",
+          "Békalé J",
+          "Kombila M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Factors",
+          "Anti-Bacterial Agents",
+          "Cefotaxime",
+          "Cephalosporins",
+          "Chloramphenicol",
+          "Drug Resistance, Microbial",
+          "Female",
+          "Gabon"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11022153/"
+      },
+      {
+        "pmid": "17337835",
+        "title": "Paratyphoid sepsis.",
+        "abstract": "A large for gestational age male baby was born to a healthy young primigravida, on L-thyroxime, at 40 weeks by caesarean delivery in a tertiary care hospital. The baby had episodes of hypoglycemia during his immediate four postnatal days in the nursery that were successfully managed with intravenous glucose administration. The baby became unwell on day 5 and had a positive sepsis-screening test. Blood culture revealed a multidrug susceptible S. Paratyphi A strain, which he probably acquired on the first or second postnatal day from the contaminated expressed breast milk or the formula feed.",
+        "journal": "Indian journal of pediatrics",
+        "year": "2007",
+        "authors": [
+          "Randhawa V S",
+          "Kumar Ajay",
+          "Saili Arvind",
+          "Datta Vikram",
+          "Agrawal Charu"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Amikacin",
+          "Anti-Bacterial Agents",
+          "Bottle Feeding",
+          "Breast Feeding",
+          "Cesarean Section",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "India"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17337835/"
+      },
+      {
+        "pmid": "38196224",
+        "title": "Burden of enteric fever and antibiotic sensitivity in Nepalese Children Prior to Typhoid Vaccine in National Immunization Program.",
+        "abstract": "Enteric fever is a major public health problem in developing and under developed countries. Case fatality rate without treatment is 10-30% and with appropriate treatment is only 1-4%. Gold standard for diagnosis is isolation of Salmonella enterica from blood or bone marrow. Antibiotics resistance is skyrocketing with emergence of multidrug resistance S. typhi and extensively drug resistant S. typhi.",
+        "journal": "Journal of Nepal Health Research Council",
+        "year": "2023",
+        "authors": [
+          "Chapagain Ram Hari",
+          "Adhikari Santosh",
+          "Bhattarai Tribhuwan",
+          "Basaula Yubanidhi",
+          "Bhattarai Srijana"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Child, Preschool",
+          "Anti-Bacterial Agents",
+          "Typhoid Fever",
+          "Typhoid-Paratyphoid Vaccines",
+          "Azithromycin",
+          "Cefixime",
+          "Ceftriaxone",
+          "Nalidixic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38196224/"
+      },
+      {
+        "pmid": "20955459",
+        "title": "Immunological, antioxidative, and morphological response in combined treatment of ofloxacin and Lactobacillus fermentum ME-3 probiotic in Salmonella Typhimurium murine model.",
+        "abstract": "We aimed to elucidate the immunological (cytokines), biochemical (antioxidative), and patho-morphological responses in the gut and liver evoked by the addition of Lactobacillus fermentum ME-3 to ofloxacin (OFX) treatment in an experimental infection model of Salmonella enterica serovar Typhimurium. After challenge with S. Typhimurium and treatment according to different schemes, either with OFX and/or addition of L. fermentum ME-3, the mice were killed. Blood, liver, spleen, and small intestine samples were plated to detect S. Typhimurium and lactobacilli. Histological slides were prepared from the liver and ileum. The cytokines (IL-10, IFN-γ, and TNF-α), the glutathione peroxidase and reductase, the glutathione ratio, and the lipid peroxides (LPO) in mucosa of the small intestine and liver were estimated. The addition of L. fermentum ME-3 to OFX increased the eradication of S. Typhimurium from tested sites because of antagonistic and antioxidative properties, reduced the presence of t",
+        "journal": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+        "year": "2010",
+        "authors": [
+          "Truusalu Kai",
+          "Kullisaar Tiiu",
+          "Hütt Pirje",
+          "Mahlapuu Riina",
+          "Aunapuu Marina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Cytokines",
+          "Disease Models, Animal",
+          "Glutathione Peroxidase",
+          "Glutathione Reductase",
+          "Immunohistochemistry",
+          "Intestine, Small",
+          "Limosilactobacillus fermentum",
+          "Lipid Peroxides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20955459/"
+      },
+      {
+        "pmid": "18383953",
+        "title": "Current pattern of enteric fever: a prospective clinical and microbiological study.",
+        "abstract": "A prospective clinical and microbiological study was conducted in 145 blood culture positive cases of enteric fever below the age of 18 years over a period of eleven months (June 2004 to April 2005). It aimed to study the clinical profile, the relative magnitude of enteric fever in children, especially in those below the age of two years and to determine the current antibiotic sensitivity pattern of Salmonella typhi and S paratyphi. Enteric fever is a significant problem in the preschool years. Sixty-five per cent of cases were in the age group of 2 to 9 years, 27% in 0-5 years and 13% in age group 0-2 years. Ninety-two per cent of the cases were caused by S typhi. Paratyphoid fever is less common (8%), when occurs is caused by S paratyphi A. In-vitro sensitivity, using the Bauer-Kirby agar disc diffusion method, to ceftriaxone was 99%, cefixime-99%, cefotaxime-99%, cefpodoxime-72%, cefoperazone-93%, among quinolones, ciprofloxacin-95%, ofloxacin-83%, norfloxacin-79%. Sensitivity to th",
+        "journal": "Journal of the Indian Medical Association",
+        "year": "2007",
+        "authors": [
+          "Verma Madhoolika",
+          "Parashar Yogesh",
+          "Singh Anuradha",
+          "Kamoji Ravi"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Cephalosporins",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male",
+          "Prospective Studies",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18383953/"
+      },
+      {
+        "pmid": "19493939",
+        "title": "A comparison of fluoroquinolones versus other antibiotics for treating enteric fever: meta-analysis.",
+        "abstract": "To review evidence supporting use of fluoroquinolones as first line agents over other antibiotics for treating typhoid and paratyphoid fever (enteric fever).",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2009",
+        "authors": [
+          "Thaver Durrane",
+          "Zaidi Anita K M",
+          "Critchley Julia",
+          "Azmatullah Asma",
+          "Madni Syed Ali"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Child, Preschool",
+          "Fluoroquinolones",
+          "Humans",
+          "Infant",
+          "Randomized Controlled Trials as Topic",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19493939/"
+      },
+      {
+        "pmid": "24884719",
+        "title": "Recurrent paratyphoid fever A co-infected with hepatitis A reactivated chronic hepatitis B.",
+        "abstract": "We report here a case of recurrent paratyphoid fever A with hepatitis A co-infection in a patient with chronic hepatitis B. A 26-year-old male patient, who was a hepatitis B virus carrier, was co-infected with Salmonella enterica serovar Paratyphi A and hepatitis A virus. The recurrence of the paratyphoid fever may be ascribed to the coexistence of hepatitis B, a course of ceftriaxone plus levofloxacin that was too short and the insensitivity of paratyphoid fever A to levofloxacin. We find that an adequate course and dose of ceftriaxone is a better strategy for treating paratyphoid fever. Furthermore, the co-infection of paratyphoid fever with hepatitis A may stimulate cellular immunity and break immunotolerance. Thus, the administration of the anti-viral agent entecavir may greatly improve the prognosis of this patient with chronic hepatitis B, and the episodes of paratyphoid fever and hepatitis A infection prompt the use of timely antiviral therapy.",
+        "journal": "Annals of clinical microbiology and antimicrobials",
+        "year": "2014",
+        "authors": [
+          "Liu Yanling",
+          "Xiong Yujiao",
+          "Huang Wenxiang",
+          "Jia Bei"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Ceftriaxone",
+          "Coinfection",
+          "Drug Resistance, Bacterial",
+          "Hepatitis A",
+          "Hepatitis A virus",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Levofloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24884719/"
+      },
+      {
+        "pmid": "8361412",
+        "title": "[Ofloxacin treatment of salmonella infections].",
+        "abstract": "In the present study, 33 adult patients with salmonella infections consisting of 13 typhoid fever, 9 paratyphoid fever, 8 enterocolitis, 2 carriers, 1 acute gastroenteritis have been treated with ofloxacin. The duration of treatment was 10 days for typhoid fever, 7 days for paratyphoid fever, 5 days for enterocolitis, 3 days for acute gastroenteritis and 7 days for asymptomatic carriers. All the patients recovered without any complication and fever declined to normal levels within a mean of 3.0 +/- 1.34 days. Two carriers of S. enteritidis became salmonella free after 7 days of ofloxacin treatment. One of the patients who had severe S. paratyphi B bacteremia remained carrier for about 6 months. None of the patients have relapsed. The antibiotic therapy proposals on salmonella in adults were discussed in the light of our results and the other studies.",
+        "journal": "Mikrobiyoloji bulteni",
+        "year": "1993",
+        "authors": [
+          "Unlü S",
+          "Arman D",
+          "Altay G"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Carrier State",
+          "Humans",
+          "Ofloxacin",
+          "Paratyphoid Fever",
+          "Salmonella Food Poisoning",
+          "Salmonella Infections",
+          "Treatment Outcome",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8361412/"
+      },
+      {
+        "pmid": "3102387",
+        "title": "Ofloxacin, a new quinolone in the treatment of genitourinary and enteric infections.",
+        "abstract": "During 1984 to 1986, 121 patients with gonorrhoea were treated with ofloxacin. This report is to summarize the results of our trial in patients treated with three different dose regimens of ofloxacin: A) a single 800 mg dose of ofloxacin (32 patients); B) a single 400 mg dose of ofloxacin (55 patients) or C) a twice a day dose of 600 mg ofloxacin (34 patients). In addition, 19 patients with urinary tract infection and eight patients with enteric fever were treated with 400 mg ofloxacin twice a day for seven to ten days. Out of 121 patients with gonococcal urethritis, only 107 patients were evaluable. Cure was obtained in 96.5%; 93.2% and 94.5% of the patients in groups A, B and C respectively. 16 out of 17 patients with urinary tract infection achieved clinical cure or improvement. The 16 patients were bacteriologically accessible; pathogens were eradicated in all of them. Ofloxacin was also effective in the treatment of enteric fever, in which eradication was achieved in all seven pat",
+        "journal": "Infection",
+        "year": "1986",
+        "authors": [
+          "Tanphaichitra D",
+          "Sahaphong S",
+          "Srimuang S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Infective Agents",
+          "Female",
+          "Gonorrhea",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Ofloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3102387/"
+      },
+      {
+        "pmid": "26905550",
+        "title": "Frequency of Blood Culture Isolates and their Antibiogram in a Teaching hospital.",
+        "abstract": "Bloodstream infections are associated with significant patient morbidity and mortality. Antimicrobial susceptibility patterns should guide the choice of empiric antimicrobial regimens for patients with bacteremia.",
+        "journal": "JNMA; journal of the Nepal Medical Association",
+        "year": "2014",
+        "authors": [
+          "Shrestha Subha",
+          "Amatya Ritu",
+          "Shrestha Raj Kumari",
+          "Shrestha Rajiv"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Bacteremia",
+          "Child",
+          "Child, Preschool",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26905550/"
+      },
+      {
+        "pmid": "28948961",
+        "title": "Pefloxacin as a surrogate marker for quinolone susceptibility in Salmonella enterica serovars Typhi & Paratyphi A in India.",
+        "abstract": "The emergence of resistance to fluoroquinolones in enteric fever despite the pathogen being susceptible by in vitro laboratory results, led to repeated changes in Clinical and Laboratory Standard Institute (CLSI) guidelines for this class of antibiotics to have specific and sensitive interpretative criteria. In 2015, CLSI added pefloxacin disk diffusion criteria as a surrogate marker for fluoroquinolone susceptibility. This study was carried out to evaluate the use of pefloxacin as a surrogate marker for ciprofloxacin, ofloxacin and levofloxacin susceptibility in clinical isolates of Salmonella Typhi and S. Paratyphi A.",
+        "journal": "The Indian journal of medical research",
+        "year": "2017",
+        "authors": [
+          "Sharma Priyanka",
+          "Dahiya Sushila",
+          "Kumari Bhavana",
+          "Balaji Veeraraghavan",
+          "Sood Seema"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Biomarkers",
+          "Drug Resistance, Bacterial",
+          "Humans",
+          "Mutation",
+          "Paratyphoid Fever",
+          "Pefloxacin",
+          "Salmonella enterica",
+          "Salmonella paratyphi A"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28948961/"
+      },
+      {
+        "pmid": "27407999",
+        "title": "Reemergence of Chloramphenicol Sensitivity in Enteric Fever.",
+        "abstract": "Enteric fever is a global health problem and rapidly developing resistance to various drugs makes the situation more alarming. Drug sensitivity in Salmonella enterica serovar typhi and Salmonella enterica serovar paratyphi A isolated from 45 blood culture positive cases of enteric fever was tested to determine in-vitro susceptibility pattern of prevalent strains in northern India.",
+        "journal": "Medical journal, Armed Forces India",
+        "year": "2007",
+        "authors": [
+          "Bhatia J K",
+          "Mathur A D",
+          "Arora M M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27407999/"
+      },
+      {
+        "pmid": "29016327",
+        "title": "Molecular and Clinical Epidemiology of Salmonella Paratyphi A Isolated from Patients with Bacteremia in Nepal.",
+        "abstract": "Little is known about the epidemiology of typhoid and paratyphoid fever in Nepal. We aimed to elucidate the molecular and clinical epidemiology of Salmonella Paratyphi A in Nepal. Isolates were collected from 23 cases of bacteremia due to S. Paratyphi A between December 2014 and October 2015. Thirteen patients (57%) were male, and the median age was 21 years. None of the patients had an underlying chronic disease. All S. Paratyphi A isolates were sensitive to ampicillin, trimethoprim/sulfamethoxazole, ceftriaxone, and chloramphenicol. All isolates were resistant to nalidixic acid and were categorized as intermediately susceptible to levofloxacin. Phylogenetic analysis revealed close relatedness among the isolates, including several clonal groups, suggesting local spread. Patients with bacteremia due to S. Paratyphi A in Kathmandu, Nepal, were relatively young and nondebilitated. Improving control of S. Paratyphi infections should focus on effective infection control measures and select",
+        "journal": "The American journal of tropical medicine and hygiene",
+        "year": "2017",
+        "authors": [
+          "Sherchan Jatan Bahadur",
+          "Morita Masatomo",
+          "Matono Takashi",
+          "Izumiya Hidemasa",
+          "Ohnishi Makoto"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ampicillin",
+          "Anti-Bacterial Agents",
+          "Bacteremia",
+          "Ceftriaxone",
+          "Chloramphenicol",
+          "Drug Resistance, Multiple, Bacterial",
+          "Humans",
+          "Male",
+          "Microbial Sensitivity Tests",
+          "Molecular Epidemiology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29016327/"
+      },
+      {
+        "pmid": "2113941",
+        "title": "Experience with ofloxacin in enteric fever.",
+        "abstract": "Ofloxacin 200 mg b.i.d. for 8 days was employed in 28 patients with enteric fever with a positive blood culture. All patients were cured clinically and bacteriologically. The fever subsided within a mean of 3.1 days (range 1.6.5.3). No relapse, clinical or bacteriological, was observed when patients were followed up for 12 weeks.",
+        "journal": "Journal of chemotherapy (Florence, Italy)",
+        "year": "1990",
+        "authors": [
+          "Sabbour M S",
+          "Osman L M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Adult",
+          "Clinical Trials as Topic",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Ofloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2113941/"
+      },
+      {
+        "pmid": "17965350",
+        "title": "In vitro activity of azithromycin, newer quinolones and cephalosporins in ciprofloxacin-resistant Salmonella causing enteric fever.",
+        "abstract": "The therapeutic alternatives available for use against ciprofloxacin-resistant enteric fever isolates in an endemic area are limited. The antibiotics currently available are the quinolones, third-generation cephalosporins and conventional first-line drugs. In this study, the MICs of various newer drugs were determined for 31 ciprofloxacin-resistant enteric fever isolates (26 Salmonella enterica serovar Typhi and 5 S. enterica serovar Paratyphi A). MICs for ciprofloxacin, ofloxacin, gatifloxacin, levofloxacin, cefotaxime, cefixime, cefepime and azithromycin were determined using Etest strips and the agar dilution method. By Etest, all of the ciprofloxacin-resistant isolates had ciprofloxacin MICs >/=32 mug ml(-1). S. Typhi showed MIC(90) values of 0.50, 0.25 and 0.38 mug ml(-1) for cefixime, cefotaxime and cefepime, respectively. For the cephalosporins, a negligible difference in MIC(90) and MIC(50) values for S. Typhi and S. Paratyphi A was observed. A single isolate of S. Typhi showed",
+        "journal": "Journal of medical microbiology",
+        "year": "2007",
+        "authors": [
+          "Capoor Malini R",
+          "Rawat Deepti",
+          "Nair Deepthi",
+          "Hasan Azra S",
+          "Deb Monorama"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Cephalosporins",
+          "Drug Resistance, Bacterial",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Paratyphoid Fever",
+          "Quinolones",
+          "Salmonella paratyphi A",
+          "Salmonella typhi"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17965350/"
+      },
+      {
+        "pmid": "16978898",
+        "title": "Multidrug-resistant and extended-spectrum beta-lactamase (ESBL)-producing Salmonella enterica (serotypes Typhi and Paratyphi A) from blood isolates in Nepal: surveillance of resistance and a search for newer alternatives.",
+        "abstract": "We evaluated the prevalence of multidrug resistance (MDR) and production of extended spectrum beta-lactamase (ESBL) by Salmonella enterica (serotypes Typhi and Paratyphi A) in a teaching hospital in Nepal. The MDR strains of S. enterica were also tested for susceptibility to newer antibiotics.",
+        "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+        "year": "2006",
+        "authors": [
+          "Pokharel Bharat M",
+          "Koirala Janak",
+          "Dahal Rajan K",
+          "Mishra Shyam K",
+          "Khadga Prem K"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacteremia",
+          "Carbapenems",
+          "Cephalosporins",
+          "Drug Resistance, Multiple, Bacterial",
+          "Fluoroquinolones",
+          "Hospitals, Teaching",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Nepal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16978898/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:21:47.155658",
+  "success": true,
+  "error_message": null
+}

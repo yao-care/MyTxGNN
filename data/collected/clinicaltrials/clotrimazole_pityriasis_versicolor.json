@@ -1,0 +1,50 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clotrimazole",
+    "disease": "pityriasis versicolor"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04007237",
+      "title": "The Comparative Assessment of Mycological Efficacy, Safety, Recurrence, and Cost-effectiveness of Selenium Sulfide 1.8% Shampoo Versus Ketoconazole 2% Shampoo in Pityriasis Versicolor: a Double-blind Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-09-01",
+      "completion_date": "2018-12-30",
+      "country": "Indonesia",
+      "enrollment": 100,
+      "brief_summary": "There are several topical treatment for Pityriasis Versicolor including ketoconazole and selenium sulfide. Ketoconazole is a broad spectrum anti-fungal drug from imidazole group that has been reported to be effective in PV. The study aimed to reveal the mycological efficacy, safety, recurrence and cost-effectiveness of selenium sulfide 1.8% shampoo (SeS2) and ketoconazole 2% shampoo in the treatment of pityriasis versicolor. A double blind randomized controlled trial was performed in patients wi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Having PV characteristic skin lesions,proven by 20% KOH scraping test and Parker Blue-Black® ink, with the founding of short hyphae and group spores or short hyphae only\n* willing to participate in the study by signing the written informed consent\n* Subjects under the age of 1",
+      "endpoints": [
+        "mycology efficacy",
+        "mycology efficacy",
+        "compliance"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT04007237"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07331792",
+      "title": "Comparative Efficacy of Topical 1% Clotrimazole vs Oral Itraconazole in the Treatment of Pityriasis Versicolor",
+      "phase": "PHASE1, PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02-02",
+      "completion_date": "2026-05-31",
+      "country": "N/A",
+      "enrollment": 86,
+      "brief_summary": "Comparative efficacy of topical 1% clotrimazole vs oral itraconazole in the treatment of pityriasis versicolor -Randomized control trial",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age (15-50 years)\n* Both genders\n* Sufferers of Pityriasis versicolor ( Determined by scale , erythema and pruritus)\n\nExclusion Criteria:\n\n* Pt with history of antifungals in last one month\n* Pt on immunosuppressants or steroid therapy\n* Pregnant and lactating women\n* Pt with ",
+      "endpoints": [
+        "Percentile efficacy of topical versus oral antifungal in the treatment of pityriasis versicolor"
+      ],
+      "sponsor": "Combined Military Hospital Abbottabad",
+      "url": "https://clinicaltrials.gov/study/NCT07331792"
+    }
+  ],
+  "timestamp": "2026-03-04T13:29:54.302635",
+  "success": true,
+  "error_message": null
+}

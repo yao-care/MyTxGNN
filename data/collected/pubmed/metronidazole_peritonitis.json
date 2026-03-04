@@ -1,0 +1,516 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Metronidazole",
+    "disease": "peritonitis",
+    "query_string": "Metronidazole AND peritonitis"
+  },
+  "data": {
+    "query": "Metronidazole AND peritonitis",
+    "results": [
+      {
+        "pmid": "40705318",
+        "title": "Diverticulitis: A Review.",
+        "abstract": "Diverticulosis is defined by the presence of multiple outpouchings (diverticula) originating from the intestinal lumen. Diverticulitis is defined as inflammation of these diverticula. The annual incidence of diverticulitis in the US is approximately 180 per 100 000 people, resulting in approximately 200 000 hospital admissions annually and an estimated health care expenditure of more than $6.3 billion/year.",
+        "journal": "JAMA",
+        "year": "2025",
+        "authors": [
+          "Brown Rebecca F",
+          "Lopez Kerri",
+          "Smith Charlotte B",
+          "Charles Anthony"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40705318/"
+      },
+      {
+        "pmid": "10384859",
+        "title": "Pharmacokinetics and pharmacodynamics of the nitroimidazole antimicrobials.",
+        "abstract": "Metronidazole, the prototype nitroimidazole antimicrobial, was originally introduced to treat Trichomonas vaginalis, but is now used for the treatment of anaerobic and protozoal infections. The nitroimidazoles are bactericidal through toxic metabolites which cause DNA strand breakage. Resistance, both clinical and microbiological, has been described only rarely. Metronidazole given orally is absorbed almost completely, with bioavailability > 90% for tablets; absorption is unaffected by infection. Rectal and intravaginal absorption are 67 to 82%, and 20 to 56%, of the dose, respectively. Metronidazole is distributed widely and has low protein binding (< 20%). The volume of distribution at steady state in adults is 0.51 to 1.1 L/kg. Metronidazole reaches 60 to 100% of plasma concentrations in most tissues studied, including the central nervous system, but does not reach high concentrations in placental tissue. Metronidazole is extensively metabolised by the liver to 5 metabolites. The hy",
+        "journal": "Clinical pharmacokinetics",
+        "year": "1999",
+        "authors": [
+          "Lamp K C",
+          "Freeman C D",
+          "Klutman N E",
+          "Lacy M K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Infective Agents",
+          "Antitrichomonal Agents",
+          "Area Under Curve",
+          "Biological Availability",
+          "Dosage Forms",
+          "Drug Interactions",
+          "Female",
+          "Half-Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10384859/"
+      },
+      {
+        "pmid": "38577528",
+        "title": "Amebic liver abscess: An update.",
+        "abstract": "Amebic liver abscess (ALA) is still a common problem in the tropical world, where it affects over three-quarters of patients with liver abscess. It is caused by an anaerobic protozoan Entamoeba hystolytica, which primarily colonises the cecum. It is a non-suppurative infection of the liver consisting primarily of dead hepatocytes and cellular debris. People of the male gender, during their reproductive years, are most prone to ALA, and this appears to be due to a poorly mounted immune response linked to serum testosterone levels. ALA is more common in the right lobe of the liver, is strongly associated with alcohol consumption, and can heal without the need for drainage. While majority of ALA patients have an uncomplicated course, a number of complications have been described, including rupture into abdomino-thoracic structures, biliary fistula, vascular thrombosis, bilio-vascular compression, and secondary bacterial infection. Based on clinico-radiological findings, a classification s",
+        "journal": "World journal of hepatology",
+        "year": "2024",
+        "authors": [
+          "Kumar Ramesh",
+          "Patel Rishabh",
+          "Priyadarshi Rajeev Nayan",
+          "Narayan Ruchika",
+          "Maji Tanmoy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38577528/"
+      },
+      {
+        "pmid": "15023017",
+        "title": "Common intestinal parasites.",
+        "abstract": "Intestinal parasites cause significant morbidity and mortality. Diseases caused by Enterobius vermicularis, Giardia lamblia, Ancylostoma duodenale, Necator americanus, and Entamoeba histolytica occur in the United States. E. vermicularis, or pinworm, causes irritation and sleep disturbances. Diagnosis can be made using the \"cellophane tape test.\" Treatment includes mebendazole and household sanitation. Giardia causes nausea, vomiting, malabsorption, diarrhea, and weight loss. Stool ova and parasite studies are diagnostic. Treatment includes metronidazole. Sewage treatment, proper handwashing, and consumption of bottled water can be preventive. A. duodenale and N. americanus are hookworms that cause blood loss, anemia, pica, and wasting. Finding eggs in the feces is diagnostic. Treatments include albendazole, mebendazole, pyrantel pamoate, iron supplementation, and blood transfusion. Preventive measures include wearing shoes and treating sewage. E. histolytica can cause intestinal ulcer",
+        "journal": "American family physician",
+        "year": "2004",
+        "authors": [
+          "Kucik Corry Jeb",
+          "Martin Gary L",
+          "Sortor Brett V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Amebicides",
+          "Ancylostoma",
+          "Animals",
+          "Child",
+          "Entamoeba histolytica",
+          "Entamoebiasis",
+          "Enterobiasis",
+          "Enterobius",
+          "Giardia lamblia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15023017/"
+      },
+      {
+        "pmid": "12959680",
+        "title": "Hepatic amebiasis.",
+        "abstract": "Amebiasis can be considered the most aggressive disease of the human intestine, responsible in its invasive form for clinical syndromes, ranging from the classic dysentery of acute colitis to extra-intestinal disease, with emphasis on hepatic amebiasis, unsuitably named amebic liver abscess. Found worldwide, with a high incidence in India, tropical regions of Africa, Mexico and other areas of Central America, it has been frequently reported in Amazonia. The trophozoite reaches the liver through the portal system, provoking enzymatic focal necrosis of hepatocytes and multiple micro-abscesses that coalesce to develop a single lesion whose central cavity contains a homogeneous thick liquid, with typically reddish brown and yellow color similar to \"anchovy paste\". Right upper quadrant pain, fever and hepatomegaly are the predominant symptoms of hepatic amebiasis. Jaundice is reported in cases with multiple lesions or a very large abscess, and it affects the prognosis adversely. Besides che",
+        "journal": "The Brazilian journal of infectious diseases : an official publication of the Brazilian Society of Infectious Diseases",
+        "year": "2003",
+        "authors": [
+          "Salles José Maria",
+          "Moraes Luis Alberto",
+          "Salles Mauro Costa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Diagnosis, Differential",
+          "Entamoeba histolytica",
+          "Female",
+          "Humans",
+          "Liver Abscess, Amebic",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12959680/"
+      },
+      {
+        "pmid": "33630293",
+        "title": "The effects of sponges soaked with chlorhexidine gluconate and metronidazole on safety of colonic anastomosis in an experimental model of peritonitis.",
+        "abstract": "The present study aims to evaluate the use of the chlorhexidine gluconate and metronidazole impregnated compresses concerning anastomosis safety in the left colonic anastomosis in the presence of peritonitis.",
+        "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
+        "year": "2021",
+        "authors": [
+          "Aksu Ali",
+          "Bozan Mehmet Buğra",
+          "Kutluer Nizamettin",
+          "Kanat Burhan Hakan",
+          "İlhan Yavuz Selim"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anastomosis, Surgical",
+          "Animals",
+          "Anti-Infective Agents",
+          "Chlorhexidine",
+          "Colon",
+          "Disease Models, Animal",
+          "Metronidazole",
+          "Peritonitis",
+          "Rats",
+          "Rats, Wistar"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33630293/"
+      },
+      {
+        "pmid": "11096579",
+        "title": "Amebiasis.",
+        "abstract": "More than 80% of cases of amebic liver abscess can be managed with a 14-day course of intravenous or oral metronidazole. In cases of suspected amebic liver abscess, treatment should be started before diagnostic confirmation. If no clinical improvement is evident by 72 to 96 hours, treatment should be changed to dehydroemetine and chloroquine. Invasive treatment is necessary only in patients in whom medical treatment fails within 5 days or in whom signs of clinically severe disease are present. A 10-day course with a luminal agent such as paromomycin to eliminate intestinal cysts, which are resistant to imidazoles, should always follow treatment of the liver abscess. Percutaneous catheter drainage is indicated in patients with impending rupture, with a lesion 6 cm or more in diameter, with an abscess located in the left lobe or high in the dome of the right lobe, or in whom medical treatment fails. Although sympathetic pleural effusion is not an indication for drainage, direct pulmonary",
+        "journal": "Current treatment options in gastroenterology",
+        "year": "1999",
+        "authors": [
+          "Badalamenti S",
+          "Jameson JE",
+          "Reddy KR"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11096579/"
+      },
+      {
+        "pmid": "10868107",
+        "title": "[Amebiasis].",
+        "abstract": "Amoebiasis caused by the enteric protozoan Entamoeba histolytica is a widespread parasitic disease, which causes 40,000 to 100,000 deaths per year. Cases diagnosed in Denmark are always imported. Infection results from ingestion of amoebic cysts, which after excystation form trophozoits in the small intestine, colonize the bowel lumen and invade the intestinal epithelium resulting in amoebic colitis. Spread to the liver and formation of amoebic liver abscesses occurs in one third of the cases, whereas other extraintestinal manifestations are rare. Amoebic colitis and liver abscess have a good prognosis when treated with metronidazole, whereas complications such as necrotizing colitis, peritonitis and pericarditis have a high mortality. An early diagnosis and treatment is therefore important. Intestinal amoebiasis is diagnosed by demonstration of E. histolytica cysts or amoebae in the stools, whereas serology is of value in diagnosing extraintestinal amoebiasis in nonendemic regions.",
+        "journal": "Ugeskrift for laeger",
+        "year": "2000",
+        "authors": [
+          "Andersen P L"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibodies, Protozoan",
+          "Antiprotozoal Agents",
+          "Colitis",
+          "Entamoeba histolytica",
+          "Entamoebiasis",
+          "Feces",
+          "Humans",
+          "Liver Abscess, Amebic",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10868107/"
+      },
+      {
+        "pmid": "36590769",
+        "title": "Bacterial and Antibiotic Sensitivity Pattern in Secondary Peritonitis.",
+        "abstract": "Peritonitis is inflammation of the peritoneum usually as a result of a localized or generalized infection. Secondary peritonitis which is the most common type follows an infective process in a visceral organ. The role of peritoneal cultures and use of antibiotics effective against culture results remain controversial.",
+        "journal": "Journal of the West African College of Surgeons",
+        "year": "2022",
+        "authors": [
+          "Ojo Adedoyin Babatunde",
+          "Omoareghan Irabor David"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36590769/"
+      },
+      {
+        "pmid": "1478003",
+        "title": "Clinical pharmacokinetics of metronidazole and other nitroimidazole anti-infectives.",
+        "abstract": "Metronidazole was first introduced for the treatment of trichomoniasis. Its therapeutic use has subsequently been expanded to include amoebiasis, giardiasis and, more recently, anaerobic infections. Most of the early pharmacokinetic studies employed nonspecific assays such as microbiological and chemical assays. These assays were not able to differentiate the parent drug from the metabolites or other interfering substances. Pharmacokinetic data obtained through the use of specific chromatographic techniques provide the basis for this review of recent pharmacokinetic findings concerning metronidazole and other nitroimidazole antibiotics. When given intravenously or orally at usual recommended doses, metronidazole attains concentrations well above the minimum inhibitory concentrations for most susceptible micro-organisms. The drug has an oral bioavailability approaching 100%. Rectal and vaginal administration results in a smaller amount of drug absorption and lower serum concentrations. ",
+        "journal": "Clinical pharmacokinetics",
+        "year": "1992",
+        "authors": [
+          "Lau A H",
+          "Lam N P",
+          "Piscitelli S C",
+          "Wilkes L",
+          "Danziger L H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aging",
+          "Anti-Infective Agents",
+          "Biological Availability",
+          "Child, Preschool",
+          "Drug Interactions",
+          "Female",
+          "Humans",
+          "Infant",
+          "Metronidazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1478003/"
+      },
+      {
+        "pmid": "25442806",
+        "title": "Efficacy and safety of metronidazole injection for the treatment of infectious peritonitis, abdominal abscess and pelvic inflammatory diseases in Japan.",
+        "abstract": "Although metronidazole (MNZ) has been used worldwide for more than 4 decades as a standard therapy for trichomoniasis, anaerobic and amebic infections, resistance to MNZ is still low. MNZ is available as oral, intravenous, and vaginal formulations, but the intravenous formulation of MNZ has not been approved in Japan. We conducted a phase 3 study to evaluate the efficacy and safety of intravenous MNZ combined with ceftriaxone (CTRX) in Japanese subjects with infectious peritonitis, abdominal abscess or pelvic inflammatory diseases (PIDs) to obtain regulatory approval. A combination of MNZ/CTRX at doses of 500 mg 3 or 4 times a day/1 or 2 g twice a day was administered intravenously to a total of 38 hospitalized subjects. MNZ/CTRX was well tolerated and exhibited excellent clinical and bacteriological efficacy with clinical efficacy rates of 100% (20/20) in infectious peritonitis or abdominal abscess subjects and 90.0% (9/10) in PID subjects, and the eradication rates in infectious peri",
+        "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+        "year": "2015",
+        "authors": [
+          "Mikamo Hiroshige",
+          "Matsumizu Miyako",
+          "Nakazuru Yoshiomi",
+          "Nagashima Masahito"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Abdominal Abscess",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Infective Agents",
+          "Bacteria",
+          "Female",
+          "Humans",
+          "Japan",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25442806/"
+      },
+      {
+        "pmid": "4081633",
+        "title": "Comparative pharmacokinetics of metronidazole and tinidazole and their tissue penetration.",
+        "abstract": "Since metronidazole and tinidazole are used prophylactically against infections after colorectal surgery, their pharmacokinetics and that of hydroxy-metronidazole were compared in 34 such patients. Seventeen patients received a single dose of 1.5 g (50-min infusion) of either agent 1 h before the operation. The concentrations of serum and tissue homogenates (subcutaneous fat, omentum, peritoneum, ileum, appendix, colon) were assayed by high-pressure liquid chromatography. The serum concentrations 1 h after start of infusion were 34.1 +/- 6.7 mg/l of metronidazole, 2.3 +/- 1.2 mg/l of OH-metronidazole, and 35.2 +/- 6.3 mg/l of tinidazole. OH-metronidazole and tinidazole were detectable for 72 h and metronidazole for 48 h. The ranges of serum and tissue concentrations (subcutaneous fat, omentum, peritoneum, ileum, appendix, colon) overlapped (within one single standard deviation). The tissue concentrations were high, particularly in intestinal tissues, except that the levels were low in ",
+        "journal": "Scandinavian journal of gastroenterology",
+        "year": "1985",
+        "authors": [
+          "Bergan T",
+          "Solhaug J H",
+          "Søreide O",
+          "Leinebø O"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Colonic Diseases",
+          "Humans",
+          "Infusions, Parenteral",
+          "Metronidazole",
+          "Middle Aged",
+          "Nitroimidazoles",
+          "Postoperative Complications",
+          "Rectal Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4081633/"
+      },
+      {
+        "pmid": "38973913",
+        "title": "Metronidazole Interaction with Cu2+ and Zn2+: Speciation Study in Aqueous Solution and Biological Activity Evaluation.",
+        "abstract": "Metronidazole (2-methyl-5-nitro-1H-imidazole-1-ethanol, MNZ) is a well-known and widely used drug for its excellent activity against various anaerobic bacteria and protozoa. The purpose of this study is to elucidate the ability of MNZ to form metal complexes with Cu2+ and Zn2+ and to demonstrate that complexation increases its bioactivity profile against different pathogenic microorganisms. The interaction of MNZ with Cu2+ and Zn2+ was investigated in NaCl aqueous solution under different conditions of temperature (15, 25, and 37 °C) and ionic strength (0.15, 0.5, and 1 mol L-1) by potentiometric and spectrophotometric titrations. The obtained speciation models include two species for the Cu2+-containing system, namely, CuL and CuL2, and three species for the Zn2+-containing system, namely, ZnLH, ZnL, and ZnLOH. The formation constants of the species were calculated and their dependence on temperature and ionic strength evaluated. Comparison of the sequestering ability of MNZ under phy",
+        "journal": "ACS omega",
+        "year": "2024",
+        "authors": [
+          "Carnamucio Federica",
+          "Foti Claudia",
+          "Micale Nicola",
+          "Van Pelt Natascha",
+          "Matheeussen An"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38973913/"
+      },
+      {
+        "pmid": "3245692",
+        "title": "Effects of clindamycin and metronidazole on the intestinal colonization and translocation of enterococci in mice.",
+        "abstract": "The intestinal colonization and translocation of enterococci was studied in mice treated intramuscularly with metronidazole or clindamycin, with or without oral streptomycin. Treatment with metronidazole resulted in selective elimination of strictly anaerobic cecal bacteria, with a 100-fold increase in the numbers of aerobic and facultative gram-negative bacilli and a 10,000-fold increase in the numbers of aerobic and facultative gram-positive species. Clindamycin had a similar effect on the cecal flora except that the numbers of aerobic and facultative gram-positive bacteria decreased at least 10-fold. The predominating gram-positive species in the cecal flora or metronidazole-treated mice was an enterococcus, but this organism could not be recovered from the ceca of clindamycin-treated mice. Translocating bacteria (primarily gram-negative enteric bacteria) were recovered from the mesenteric lymph nodes of the majority of mice given metronidazole or clindamycin. Gram-positive bacteria",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1988",
+        "authors": [
+          "Wells C L",
+          "Jechorek R P",
+          "Maddaus M A",
+          "Simmons R L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Clindamycin",
+          "Drug Therapy, Combination",
+          "Female",
+          "Injections, Intramuscular",
+          "Intestines",
+          "Lymph Nodes",
+          "Mesentery",
+          "Metronidazole",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3245692/"
+      },
+      {
+        "pmid": "6351522",
+        "title": "Comparison of cefuroxime and gentamicin in combination with metronidazole in the treatment of peritonitis due to perforation of the appendix.",
+        "abstract": "A study on 42 surgical patients was carried out to find out whether cefuroxime may be substituted for gentamicin in combination with metronidazole in the treatment of peritonitis secondary to perforation of appendix. All patients recovered and there were four wound infections in each group. Both aerobic and anaerobic bacteria were cultured in the peritoneal fluid in 69% of cases and anaerobes only in 19% of the patients. Postoperatively the patients were followed up for one month. The mean length of the hospital stay and convalescence did not differ significantly. There was also no difference in the time to the removal of gastric suction, laboratory measurements and the incidence of pyrexia between the study groups. Although the number of patients was limited the present study indicates that gentamicin may be replaced by less toxic cefuroxime. This is especially the case if there are several risk factors in the use of gentamicin and if there is not a possibility for monitoring the seru",
+        "journal": "Acta chirurgica Scandinavica",
+        "year": "1983",
+        "authors": [
+          "Saario I",
+          "Arvilommi H",
+          "Silvola H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Appendicitis",
+          "Bacteria",
+          "Cefuroxime",
+          "Cephalosporins",
+          "Clinical Trials as Topic",
+          "Drug Therapy, Combination",
+          "Female",
+          "Gentamicins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6351522/"
+      },
+      {
+        "pmid": "40688946",
+        "title": "The Safety and Efficacy of Ceftazidime-Avibactam Plus Metronidazole Versus Meropenem for Intra-abdominal Infections: A Systematic Review and Meta-Analysis.",
+        "abstract": "Intra-abdominal infections encompass a range of medical conditions categorized by their complexity. Uncomplicated infections involve inflammation or infection limited to a single abdominal organ, such as acute appendicitis or cholecystitis, without extending to the peritoneum, while complicated infections spread to the peritoneal cavity. The key associated microbiological agents include Gram-positive cocci, Gram-negative Enterobacteriaceae, and obligate anaerobes, with common pathogens being Escherichia coli, Klebsiella pneumoniae, Streptococcus species, and Bacteroides fragilis. Treatment options include well-established antibiotics and newer agents like meropenem, metronidazole, and ceftazidime/avibactam. Meropenem, a carbapenem antibiotic, is known for its broad-spectrum efficacy and low toxicity, making it suitable for severe infections. Ceftazidime, a third-generation cephalosporin, is effective against Pseudomonas aeruginosa, especially when paired with avibactam, a β-lactamase i",
+        "journal": "Cureus",
+        "year": "2025",
+        "authors": [
+          "Nouh Mahmoud Ismail",
+          "AlButi Hala",
+          "Karrar Hani Raka",
+          "Hassan Dina M",
+          "Alhendi Rehab Salah Aldin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40688946/"
+      },
+      {
+        "pmid": "1681917",
+        "title": "Ceftriaxone/metronidazole is more effective than ampicillin/netilmicin/metronidazole in the treatment of bacterial peritonitis.",
+        "abstract": "In a prospective, open, controlled clinical study, 190 consecutive patients who were thought to have bacterial peritonitis before operation, were randomised to antibiotic treatment during and after operation with either ceftriaxone 1 g plus metronidazole 1.5 g once daily (n = 94) or ampicillin 2 g plus netilmicin 150 mg twice daily plus metronidazole 1.5 g once daily (n = 96). Incisional and deep surgical wound infections, postoperative pneumonia and urinary tract infection as well as deaths caused by infection were recorded. Ceftriaxone-metronidazole was significantly more effective than ampicillin-netilmicin-metronidazole, 6/94 wound related infections (6%) compared to 18/96 (19%) (p = 0.02). In patients with peritonitis caused by a perforated colon or appendix the rates of clinical failure were 6% and 28%, respectively. We consider ceftriaxone plus metronidazole an efficient and easily administered antibiotic regimen in patients with bacterial peritonitis, and both the wide range of",
+        "journal": "The European journal of surgery = Acta chirurgica",
+        "year": "1991",
+        "authors": [
+          "Luke M",
+          "Iversen J",
+          "Søndergaard J",
+          "Kvist E",
+          "Lund P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Ampicillin",
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Ceftriaxone",
+          "Child",
+          "Child, Preschool"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1681917/"
+      },
+      {
+        "pmid": "37276996",
+        "title": "Efficacy and safety of tazobactam/ceftolozane in combination with metronidazole for intraabdominal infection in a hepato-biliary-pancreatic field in clinical practice.",
+        "abstract": "This single-center study evaluated the efficacy and safety of tazobactam/ceftolozane (TAZ/CTLZ) in combination with metronidazole for intraabdominal infection in a hepato-biliary-pancreatic field in clinical practice.",
+        "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+        "year": "2023",
+        "authors": [
+          "Kubo Shoji",
+          "Shinkawa Hiroji",
+          "Tanaka Shogo",
+          "Kimura Kenjiro",
+          "Ohira Go"
+        ],
+        "pub_types": [
+          "Observational Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Tazobactam",
+          "Metronidazole",
+          "Penicillanic Acid",
+          "Cephalosporins",
+          "Anti-Bacterial Agents",
+          "Intraabdominal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37276996/"
+      },
+      {
+        "pmid": "3986473",
+        "title": "Antibiotic treatment during surgery for diffuse peritonitis: a prospective randomized study comparing the effects of cefuroxime and of a cefuroxime and metronidazole combination.",
+        "abstract": "In a prospective randomized open study of patients operated upon for diffuse peritonitis, the effects of two different antibiotic regimens were evaluated. Cefuroxime given as a single drug (Group I; n = 59) was compared with a combination of cefuroxime and metronidazole (Group II; n = 63). Bacteriological cultures, both aerobic and anaerobic, were obtained peroperatively and in the event of any complication. The antibiotic sensitivities of isolated bacteria, and the serum and tissue concentrations of cefuroxime were determined. Postoperative infectious complications occurred in 22 per cent of Group I patients (cefuroxime), and in 17.5 per cent of Group II (cefuroxime plus metronidazole). The mortality rates were 5 per cent for Group I and 8 per cent for Group II. Tissue concentrations of cefuroxime were well above the MIC (minimal inhibiting concentration) values for most of the bacteria isolated. From a few patients in Group I, however, cultures were obtained with isolates sensitive t",
+        "journal": "The British journal of surgery",
+        "year": "1985",
+        "authors": [
+          "Törnqvist A",
+          "Forsgren A",
+          "Leandoer L",
+          "Ursing J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Bacteria",
+          "Cefuroxime",
+          "Cephalosporins",
+          "Combined Modality Therapy",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3986473/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:35:47.057452",
+  "success": true,
+  "error_message": null
+}

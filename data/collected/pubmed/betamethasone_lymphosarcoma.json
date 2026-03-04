@@ -1,0 +1,599 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Betamethasone",
+    "disease": "lymphosarcoma",
+    "query_string": "Betamethasone AND lymphosarcoma"
+  },
+  "data": {
+    "query": "Betamethasone AND lymphosarcoma",
+    "results": [
+      {
+        "pmid": "30677799",
+        "title": "Lymphomatoid papulosis.",
+        "abstract": "Lymphomatoid papulosis is often regarded as a low-grade variant of cutaneous T cell lymphoma (CTCL). Given the excellent long-term prognosis, recent consensus guidelines indicate that patients can be monitored off therapy. We report a case of a 67-year-old man who presented with lymphomatoid papulosis, with necrotic papules that have been intermittently present for over forty years.",
+        "journal": "Dermatology online journal",
+        "year": "2018",
+        "authors": [
+          "Wiznia Lauren E",
+          "Cohen Jeffrey M",
+          "Beasley Jenna M",
+          "Meehan Shane A",
+          "Latkowski Jo-Ann M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Clobetasol",
+          "Glucocorticoids",
+          "Humans",
+          "Hydroquinones",
+          "Hyperpigmentation",
+          "Lymphomatoid Papulosis",
+          "Male",
+          "Skin Neoplasms",
+          "Watchful Waiting"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30677799/"
+      },
+      {
+        "pmid": "23773745",
+        "title": "[Papular mycosis fungoides].",
+        "abstract": "Mycosis fungoides (MF) is the most common type of cutaneous T-cell lymphoma. A new form of incipient MF has recently been described: papular MF. Herein, we report a case and propose a literature review.",
+        "journal": "Annales de dermatologie et de venereologie",
+        "year": "2013",
+        "authors": [
+          "Brajon D",
+          "Bonnet N",
+          "Dales J-P",
+          "Berbis P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age Distribution",
+          "Anti-Inflammatory Agents",
+          "CD4-Positive T-Lymphocytes",
+          "Clobetasol",
+          "Combined Modality Therapy",
+          "Diagnosis, Differential",
+          "Humans",
+          "Lymphocytes, Tumor-Infiltrating",
+          "Lymphomatoid Papulosis",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23773745/"
+      },
+      {
+        "pmid": "38954612",
+        "title": "Mycosis Fungoides Palmaris et Plantaris Mimicking \"Dyshidrotic Eczema\": A Case Report.",
+        "abstract": "Mycosis fungoides palmaris et plantaris (MFPP) is a rare variant of mycosis fungoides (MF), a type of cutaneous T-cell lymphoma. MFPP primarily affects the palms and soles of the feet and is often misdiagnosed as dyshidrotic eczema due to its similar clinical presentation. This case report presents a middle-aged woman with MFPP whose initial presentation was mistaken for dyshidrotic eczema. Despite treatment with topical corticosteroids, the patient's lesions persisted, prompting further investigations that led to the diagnosis of MFPP. The patient was initiated on betamethasone dipropionate ointment and hydroxyzine for pruritus management, with a pivotal referral to oncology for comprehensive evaluation. This case highlights the importance of considering MFPP in the differential diagnosis of persistent eczematous lesions on the palms and soles, especially when treatment with topical corticosteroids is ineffective. J Drugs Dermatol. 2024;23(7):569-570.&nbsp; &nbsp;&nbsp; doi:10.36849/J",
+        "journal": "Journal of drugs in dermatology : JDD",
+        "year": "2024",
+        "authors": [
+          "Burke Olivia",
+          "Beer Jacob",
+          "Elman Scott A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Mycosis Fungoides",
+          "Diagnosis, Differential",
+          "Middle Aged",
+          "Eczema, Dyshidrotic",
+          "Skin Neoplasms",
+          "Betamethasone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38954612/"
+      },
+      {
+        "pmid": "26303240",
+        "title": "Woringer-Kolopp disease mimicking psoriasis.",
+        "abstract": "",
+        "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+        "year": "2015",
+        "authors": [
+          "Wang Sheila C",
+          "Mistry Nisha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Clobetasol",
+          "Diagnosis, Differential",
+          "Foot Diseases",
+          "Glucocorticoids",
+          "Humans",
+          "Male",
+          "Pagetoid Reticulosis",
+          "Psoriasis",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26303240/"
+      },
+      {
+        "pmid": "31156984",
+        "title": "Betamethasone dipropionate compounding for cutaneous T-cell lymphoma management.",
+        "abstract": "Primary cutaneous lymphomas (extranodular non-Hodgkin lymphomas) are rare (incidence 1:100 000). Mycosis fungoides is the most common cutaneous T-cell lymphoma (CTCL) subtype. Treatment options are based on the diagnosis and the stage of the disease. Skin-directed therapies are useful for the initial stages and include topical treatments such as corticosteroids. Betamethasone dipropionate (BD) is a synthetic glucocorticoid with high anti-inflammatory activity, potency and immunosuppressant effects. It is used for topical treatment of CTCL within the following dosage 0.025-0.1% (w/w). In the Portuguese market only one topical cream contains BD at 0.05% (w/w).",
+        "journal": "European journal of hospital pharmacy : science and practice",
+        "year": "2018",
+        "authors": [
+          "Trindade Patrícia",
+          "Gelpi Alice",
+          "Salgado Ana",
+          "Marto Joana",
+          "Machado Paula"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31156984/"
+      },
+      {
+        "pmid": "25780963",
+        "title": "Marginal vitiligo: an unusual depigmenting disorder.",
+        "abstract": "Marginal vitiligo, or inflammatory vitiligo with raised borders is a unique subset of vitiligo vulgaris presenting with scattered depigmented, pruritic patches surrounded by a raised, erythematous border. Alternative diagnoses include discoid lupus erythematosus and cutaneous T-cell lymphoma.",
+        "journal": "Dermatology online journal",
+        "year": "2014",
+        "authors": [
+          "Trikha Ritika",
+          "McCowan Nancye",
+          "Brodell Robert"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Clobetasol",
+          "Diagnosis, Differential",
+          "Glucocorticoids",
+          "Humans",
+          "Lupus Erythematosus, Discoid",
+          "Lymphoma, T-Cell, Cutaneous",
+          "Male",
+          "Vitiligo",
+          "Young Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25780963/"
+      },
+      {
+        "pmid": "5026689",
+        "title": "Mycosis fungoides.",
+        "abstract": "",
+        "journal": "Archives of dermatology",
+        "year": "1972",
+        "authors": [
+          "Goldberg H S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Betamethasone",
+          "Humans",
+          "Male",
+          "Mechlorethamine",
+          "Mycosis Fungoides",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5026689/"
+      },
+      {
+        "pmid": "25027222",
+        "title": "[A girl with hypopigmented skin lesions].",
+        "abstract": "A 9-year-old girl visited the department of Dermatology with an asymptomatic hypopigmented skin eruption on her upper legs, groins and trunk since 7 years. Histopathological analysis established the diagnosis of hypopigmented mycosis fungoides, a rare subtype of cutaneous T-cell lymphoma which is most commonly seen at younger age. The lesions are successfully treated with clobetasol 0.05% ointment 4 days a week.",
+        "journal": "Nederlands tijdschrift voor geneeskunde",
+        "year": "2014",
+        "authors": [
+          "Martens Bibi",
+          "Abdul Hamid Myrurgia",
+          "Martens Herm"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Clobetasol",
+          "Female",
+          "Glucocorticoids",
+          "Humans",
+          "Hypopigmentation",
+          "Mycosis Fungoides",
+          "Skin Neoplasms",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25027222/"
+      },
+      {
+        "pmid": "33026773",
+        "title": "Persistent Agminated CD30+ Lymphoproliferative Disorder.",
+        "abstract": "Lymphomatoid papulosis (LyP) is a chronic skin condition, characterized by recurrent eruptions of papules and nodules with or without central necrosis that spontaneously resolve. This condition was originally described by Macaulay in 1968 as a self-healing rhythmical paradoxical eruption that was clinically benign yet histologically malignant.1 Clinically, it is defined by papules that wax and wane, are generally less than 1cm in diameter, and heal spontaneously after 6–8 weeks with subsequent scarring.2",
+        "journal": "Journal of drugs in dermatology : JDD",
+        "year": "2020",
+        "authors": [
+          "Beer Jacob",
+          "Bittar Peter G",
+          "Bittar Julie M",
+          "Elenitsas Rosalie",
+          "Haun Paul"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adult",
+          "Clobetasol",
+          "Diagnosis, Differential",
+          "Female",
+          "Humans",
+          "Leg",
+          "Lymphomatoid Papulosis",
+          "Skin Neoplasms",
+          "T-Lymphocyte Subsets"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33026773/"
+      },
+      {
+        "pmid": "17506958",
+        "title": "[Oral involvement in lymphomatoid papulosis].",
+        "abstract": "Lymphomatoid papulosis is a cutaneous lymphoma with an indolent clinical behaviour characterized by chronic development of recurrent, self-limited lesions appearing as necrotic papules and with a pathology compatible with T cell lymphoma. Mucosal involvement by lymphomatoid papulosis is very rare but has been reported in the literature. It usually appears as ulcers in patients previously diagnosed of lymphomatoid papulosis. From a histological perspective it is characterized by an infiltrate of CD 30 positive atypical lymphocytes together with a mixed inflammatory infiltrate of eosinophils, neutrophils, histiocytes and plasma cells. We report the case of a man previously diagnosed of lymphomatoid papulosis that developed two ulcerated lesions in the tongue whose biopsy confirmed the diagnosis of oral involvement by lymphomatoid papulosis.",
+        "journal": "Actas dermo-sifiliograficas",
+        "year": "2007",
+        "authors": [
+          "Serra-Guillén C",
+          "Requena C",
+          "Alfaro A",
+          "Hueso L",
+          "Sanmartín O"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Clobetasol",
+          "Eosinophilia",
+          "Humans",
+          "Lymphomatoid Papulosis",
+          "Male",
+          "Methotrexate",
+          "Mouth Mucosa",
+          "Prednisone",
+          "Tongue Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17506958/"
+      },
+      {
+        "pmid": "4571883",
+        "title": "Treatment of localized skin lesions with betamethasone 17-valerate and triamcinolone acetonide in alcoholic solution under occlusive dressing. A double blind comparative study.",
+        "abstract": "",
+        "journal": "Dermatologica",
+        "year": "1972",
+        "authors": [
+          "Neering H",
+          "van der Kroon H V",
+          "Roeleveld C G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "1-Propanol",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Betamethasone",
+          "Child",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Eczema",
+          "Ethanol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4571883/"
+      },
+      {
+        "pmid": "22225743",
+        "title": "[Syringotropic cutaneous T-cell lymphoma mimicking dermatomycosis].",
+        "abstract": "Cutaneous syringotropic T-cell lymphoma is a rare form of lymphoma. We report a case involving a misleading cutaneous presentation on the sole of the foot.",
+        "journal": "Annales de dermatologie et de venereologie",
+        "year": "2012",
+        "authors": [
+          "Fenot M",
+          "Maillard H",
+          "Sierra-Fortuny S",
+          "De Ybarlucea L-R",
+          "Célérier P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Carmustine",
+          "Clobetasol",
+          "Dermatomycoses",
+          "Diagnostic Errors",
+          "Female",
+          "Foot Diseases",
+          "Humans",
+          "Middle Aged",
+          "Mycosis Fungoides",
+          "Ointments"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22225743/"
+      },
+      {
+        "pmid": "31785005",
+        "title": "Pagetoid reticulosis in a 13-year old female. A unique immunohistochemical profile.",
+        "abstract": "Pagetoid reticulosis (PR) is a rare lymphoproliferative disorder with indolent behavior considered a variant of mycosis fungoides. It is characterized by marked epidermotropism of the neoplastic lymphocytes. Since its original description, five cases have been reported in children. We report a new case of PR with an immunohistochemical profile not previously described in children.",
+        "journal": "Journal of cutaneous pathology",
+        "year": "2020",
+        "authors": [
+          "Torre-Castro Juan",
+          "Carrasco Santos Loreto",
+          "Rodríguez-Pinilla Socorro M",
+          "Requena Luis"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Biopsy",
+          "Child",
+          "Child, Preschool",
+          "Clobetasol",
+          "Female",
+          "Glucocorticoids",
+          "Humans",
+          "Immunohistochemistry"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31785005/"
+      },
+      {
+        "pmid": "9722724",
+        "title": "Topical corticosteroids for mycosis fungoides. Experience in 79 patients.",
+        "abstract": "To determine the effectiveness of topical corticosteroids in the management of mycosis fungoides.",
+        "journal": "Archives of dermatology",
+        "year": "1998",
+        "authors": [
+          "Zackheim H S",
+          "Kashani-Sabet M",
+          "Amin S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents",
+          "Antineoplastic Agents",
+          "Betamethasone",
+          "Betamethasone Valerate",
+          "Clobetasol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9722724/"
+      },
+      {
+        "pmid": "12581145",
+        "title": "Treatment of mycosis fungoides/Sezary syndrome: the University of California, San Francisco (UCSF) approach.",
+        "abstract": "",
+        "journal": "International journal of dermatology",
+        "year": "2003",
+        "authors": [
+          "Zackheim Herschel S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Biopsy, Needle",
+          "Child",
+          "Clobetasol",
+          "Female",
+          "Hospitals, University",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12581145/"
+      },
+      {
+        "pmid": "21349387",
+        "title": "[Interstitial mycosis fungoid: a rare variant of mycosis fungoids. Two cases].",
+        "abstract": "Mycosis fungoids can present with various clinical and histological features, with only a few of them being recognized as distinct entities in the current WHO and EORTC classifications. Histologically, mycosis fungoids (MF) usually show a superficial perivascular or band-like lymphocytic infiltrate with epidermotropism. We here report two cases of a rare histological variant of MF, called interstitial in the literature. Our first patient, a 71-year-old male, had a previously diagnosed MF, which clinically evolved towards nodules, showing histologically an interstitial lymphocytic infiltrate without epidermotropism and without large cell transformation. The second patient was a 64-year-old female with widespread plaques and nodules. Histologically, a dense dermal interstitial infiltrate was observed, with foci of epidermotropism, without large cell transformation. At relapse after treatment, she presented with plaques, papules and nodules, histologically showing a slight interstitial ly",
+        "journal": "Annales de pathologie",
+        "year": "2011",
+        "authors": [
+          "Paoletti Marie-Thérèse",
+          "Comoz François",
+          "Dompmartin-Blanchere Anne",
+          "Bagot Martine",
+          "Ortonne Nicolas"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Biopsy",
+          "Clobetasol",
+          "Female",
+          "Humans",
+          "Immunophenotyping",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21349387/"
+      },
+      {
+        "pmid": "4230999",
+        "title": "[Hematodermia. Generalized zona].",
+        "abstract": "",
+        "journal": "Bulletin de la Societe francaise de dermatologie et de syphiligraphie",
+        "year": "1967",
+        "authors": [
+          "Duperrat B",
+          "Escande J P",
+          "Pringuet R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Betamethasone",
+          "Chlorambucil",
+          "Dermatitis, Exfoliative",
+          "Encephalitis",
+          "Herpes Zoster",
+          "Humans",
+          "Injections, Intravenous",
+          "Male",
+          "Mycosis Fungoides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4230999/"
+      },
+      {
+        "pmid": "31498889",
+        "title": "Ichthyosiform pattern: an exceptional presentation of mycosis fungoides.",
+        "abstract": "",
+        "journal": "International journal of dermatology",
+        "year": "2020",
+        "authors": [
+          "Perandones González Héctor",
+          "Sánchez Sambucety Pedro",
+          "Rodríguez Prieto Manuel Á"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Aged",
+          "Biomarkers, Tumor",
+          "Biopsy",
+          "Clobetasol",
+          "Humans",
+          "Ichthyosis",
+          "Immunohistochemistry",
+          "Male",
+          "Mycosis Fungoides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31498889/"
+      },
+      {
+        "pmid": "6935535",
+        "title": "[Betamethasone in the treatment of acute lymphatic leukosis and other lymphoproliferative diseases].",
+        "abstract": "Personal experience with the use of betamethasone, used orally in associated with various cytostatic drugs for inducing remission in acute lymphatic leucosis and some cases of lymphoproliferative disease is reported. The results obtained point to the effectiveness and tolerance of the drug, even in the high doses that are required to treat such blood diseases.",
+        "journal": "Minerva medica",
+        "year": "1980",
+        "authors": [
+          "Invernizzi R"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Antineoplastic Agents",
+          "Betamethasone",
+          "Blood Transfusion",
+          "Child",
+          "Female",
+          "Hodgkin Disease",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6935535/"
+      },
+      {
+        "pmid": "2934438",
+        "title": "Intralesional interferon in the treatment of early mycosis fungoides.",
+        "abstract": "Twelve patients with early mycosis fungoides were enrolled in a randomized, double-blind, placebo-controlled study. Isolated plaques were injected three times a week with recombinant alpha 2-interferon in nine patients and with the vehicle in three patients. Two additional plaques were evaluated in each patient; one was left untreated, and another was treated topically with either placebo ointment or betamethasone ointment. Biopsies were taken from an untreated, representative plaque prior to treatment and from all test sites following treatment for light microscopy and T lymphocyte subsets. Three of the nine lesions injected with interferon cleared, and all showed improvement. Thirteen of eighteen noninjected lesions improved in patients who received interferon, showing a systemic effect. In the control group, none of the injected lesions improved and only two of the noninjected lesions showed any change. Histopathologic changes confirmed the clinical impression. This study shows that",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1985",
+        "authors": [
+          "Wolff J M",
+          "Zitelli J A",
+          "Rabin B S",
+          "Smiles K A",
+          "Abell E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Agents",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Injections",
+          "Interferon Type I",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2934438/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:11:39.496993",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,47 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Mometasone Furoate",
+    "disease": "neurodermatitis",
+    "query_string": "Mometasone Furoate AND neurodermatitis"
+  },
+  "data": {
+    "query": "Mometasone Furoate AND neurodermatitis",
+    "results": [
+      {
+        "pmid": "25608275",
+        "title": "Effectiveness of silk fabric underwear as an adjuvant tool in the management of vulvar lichen simplex chronicus: results of a double-blind randomized controlled trial.",
+        "abstract": "Avoiding potentially irritating contact is a key point in vulvar lichen simplex chronicus (VLSC) management. This study aims to assess the use of nonirritating silk fabric underwear (Dermasilk) as an adjuvant tool in the treatment of VLSC.",
+        "journal": "Menopause (New York, N.Y.)",
+        "year": "2015",
+        "authors": [
+          "Corazza Monica",
+          "Borghi Alessandro",
+          "Minghetti Sara",
+          "Toni Giulia",
+          "Virgili Annarosa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Age of Onset",
+          "Aged",
+          "Clothing",
+          "Combined Modality Therapy",
+          "Cotton Fiber",
+          "Dermatologic Agents",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25608275/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:24:21.322484",
+  "success": true,
+  "error_message": null
+}

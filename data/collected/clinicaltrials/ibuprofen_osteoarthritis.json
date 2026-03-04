@@ -1,0 +1,928 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ibuprofen",
+    "disease": "osteoarthritis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00640627",
+      "title": "A Double-Blind, Placebo-Controlled Study of the Efficacy and Tolerability of Once Daily Celebrex® (Celecoxib) vs. Placebo in the Treatment of Subjects With Osteoarthritis of the Knee Non-Responsive to Naproxen and Ibuprofen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-12",
+      "completion_date": "2004-09",
+      "country": "United States",
+      "enrollment": 380,
+      "brief_summary": "To compare the safety and efficacy of celecoxib versus placebo in the treatment of patients with knee osteoarthritis who were unresponsive to treatment with prescription strength naproxen and ibuprofen or who could not tolerate prescription strength naproxen and ibuprofen",
+      "eligibility_criteria": "Inclusion criteria:\n\n* OA of the knee in flare state at baseline visit and functional capacity class of I-III\n* Failed adequate trials of both naproxen and ibuprofen (prescription strength) within the past 5 years due to lack of efficacy, tolerability or both; duration of prescription strength ibupr",
+      "endpoints": [
+        "Change from baseline in Patient's Assessment of Arthritis Pain, according to visual analog scale (VAS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00640627"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00531427",
+      "title": "Randomized, Double-blind, Placebo-controlled With Open-label Run-in Assessing Efficacy, Tolerability,Safety of BTDS 10 or 20 Compared to Placebo in Opioid-naïve Subjects w/Moderate to Severe, Chronic Pain Due to OA of Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2009-11",
+      "country": "United States",
+      "enrollment": 567,
+      "brief_summary": "The objective of this study is to determine the analgesic efficacy and safety of Buprenorphine Transdermal System (BTDS) 10 and 20 compared to placebo in opioid-naïve subjects with moderate to severe chronic pain due to osteoarthritis (OA) of the knee. The double-blind treatment intervention duration is 12 weeks, during which time supplemental analgesic medication (immediate-release oxycodone for the first 6 days postrandomization and acetaminophen or ibuprofen for the remainder of the double-bl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* subjects with moderate to severe chronic osteoarthritis (OA) pain of the knee (lasting several hours daily) as their predominant pain condition,\n* clinical diagnosis of OA of the knee 1 year or longer,\n* subjects treated within the 14 days prior to screening with nonopioid the",
+      "endpoints": [
+        "\"Average Pain Over the Last 24 Hours\" Score of the Study Knee at Week 12 of the Double Blind Phase."
+      ],
+      "sponsor": "Purdue Pharma LP",
+      "url": "https://clinicaltrials.gov/study/NCT00531427"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00565500",
+      "title": "A Placebo-Controlled, Double-Blind, Randomized Study of the Potential Interaction Between Aspirin and Ibuprofen or Celecoxib.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2005-04",
+      "country": "Italy",
+      "enrollment": 24,
+      "brief_summary": "Study design: Single center, placebo-controlled, double blind, parallel groups. To evaluate the potential interaction between aspirin and ibuprofen or celecoxib in patients with osteoarthritis (OA) and documented stable ischemic heart disease, a total of 24 patients chronically treated with aspirin will be randomly assigned to one of the 3 treatment groups: 1) celecoxib 200 mg bid; 2) ibuprofen 600 mg tid; 3) placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. male or female, age 18-75;\n2. subjects with osteoarthritis and documented stable ischemic heart disease;\n3. the patient is on long-term aspirin prophylaxis for the ischemic condition;\n4. the patient requires or is eligible for chronic treatment with an antiinflammatory and/or",
+      "endpoints": [
+        "serum thromboxane (TX)B2"
+      ],
+      "sponsor": "G. d'Annunzio University",
+      "url": "https://clinicaltrials.gov/study/NCT00565500"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05742763",
+      "title": "Platelet-Rich Plasma and the Effects of NSAIDs on Pain and Functional Scores in Knee Osteoarthritis",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2023-11-01",
+      "completion_date": "2024-10-07",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The primary research purpose is to determine if the use of a drug therapy intervention (each study participant will be randomly assigned to receive one of 3 study medications which will be blinded from everyone, including the study participants, and all research staff (except the principal investigator), combined with a series of 3 injections of Platelet-Rich Plasma (PRP) into an osteoarthritic knee joint, leads to reductions in knee pain, and improvements in physical function. Improvements will",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age \\>50 (all genders, and all races)\n2. Unilateral Symptoms\n3. Symptomatic knee pain on most days in the past month\n4. OA diagnosed with radiographic imaging (K-L grade 2 or 3)\n5. Can commit to 8 office visits (initial and 7 follow up) over a 12-month period\n6. Able to under",
+      "endpoints": [
+        "VAS pain scores after combination interventions of blinded medication therapy and a series of 3 PRP injections.",
+        "WOMAC pain and functionality scores after combination interventions of blinded medication therapy and a series of 3 PRP injections.",
+        "KOOS pain and functionality scores after combination interventions of blinded medication therapy and a series of 3 PRP injections."
+      ],
+      "sponsor": "QC Kinetix LLC",
+      "url": "https://clinicaltrials.gov/study/NCT05742763"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01119885",
+      "title": "Fentanyl Matrix for the Treatment of Pain Caused by Osteoarthritis of the Knee or Hip: Improvement of Pain and Function: Multicenter, Open-label, Prospective, Observational Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2009-01",
+      "country": "N/A",
+      "enrollment": 742,
+      "brief_summary": "The purpose of this study is to investigate the utility of fentanyl matrix for the treatment of pain due to osteoarthritis (OA) of knee or hip, which was not adequately controlled by non-opioid analgesic (e.g. NSAIDs or COX-II inhibitors) or weak opioids \\[tramadol HClacetaminophen, tramadol or codeine (or combinations with acetaminophen/ibuprofen)\\].",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who complain of chronic pain caused by osteoarthritis of the knee or hip persisting for 3 months or longer\n* Patients who can fully observe the overall clinical study requirements including K-WOMAC completion at the investigator's discretion\n* Patients who complain of",
+      "endpoints": [
+        "Change in pain intensity from baseline through final evaluation as measured by Numeric Rating Scale"
+      ],
+      "sponsor": "Janssen Korea, Ltd., Korea",
+      "url": "https://clinicaltrials.gov/study/NCT01119885"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00613106",
+      "title": "Double-Blind Follow-On Safety Study of HZT-501 (Ibuprofen 800 mg/Famotidine 26.6 mg)in Subjects Who Have Completed Participation in Horizon Protocol HZ-CA-301 (NCT00450658)or Horizon Protocol HZ-CA-303 (NCT00450216)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2008-10",
+      "country": "United States",
+      "enrollment": 179,
+      "brief_summary": "The purpose of this study is to evaluate the safety of long-term treatment with HZT-501.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Expected to continue to require daily administration of an NSAID for at least the coming 6 months.\n* Subject completed the 24-week Treatment period of either Horizon Protocol HZ-CA-301 or HZ-CA-303\n\nExclusion Criteria:\n\n* Subject didn't meet all of the Inclusion and Exclusion ",
+      "endpoints": [
+        "Number of Participants With Treatment Emergent Adverse Events"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00613106"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00442546",
+      "title": "A Multicenter, Double-Blind Randomized, Placebo-Controlled Study Of The Efficacy And Safety Of Pregabalin In The Treatment Of Subjects With Post-Operative Pain Following Total Knee Arthroplasty (TKA)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 307,
+      "brief_summary": "Pregabalin added to the standard of care with dosing starting preoperatively and continuing for up to 6 weeks post surgery will decrease the intensity of post-operative pain following total knee replacement.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with osteoarthritis (OA) undergoing elective TKA under regional anesthesia (neuroaxial with or without peripheral nerve block).\n* Subjects able to demonstrate sufficient psychomotor dexterity and cognitive capacity to use Patient Controlled Analgesia/Patient Controlle",
+      "endpoints": [
+        "Subject Reported Worst Pain Score in Daily Diaries Using the Worst Pain Item of the Modified Brief Pain Inventory - Short Form (m-BPI-sf)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00442546"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00784810",
+      "title": "A Double-blind, Double-dummy, Parallel Group, Randomised Study to Compare the Efficacy & Tolerability of Oxycodone/Naloxone Prolonged Release (OXN PR) & Codeine/Paracetamol in the Treatment of Moderate to Severe Chronic Low Back Pain or Pain Due to Osteoarthritis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2011-06",
+      "country": "United Kingdom",
+      "enrollment": 247,
+      "brief_summary": "The purpose of this study is to compare oxycodone/naloxone combination tablet and codeine/paracetamol tablets in the treatment of moderate to severe chronic low back pain or pain due to osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subjects at least 18 years or older.\n2. Female subjects less than one year post-menopausal must have a negative urine pregnancy test recorded prior to the first dose of study medication, be non-lactating, and willing to use adequate and reliable contraception t",
+      "endpoints": [
+        "Average Daily Pain Score Box Scale-11 (BS-11) Recorded at Week 12 (Average Pain Over Last 24 Hours)"
+      ],
+      "sponsor": "Napp Pharmaceuticals Limited",
+      "url": "https://clinicaltrials.gov/study/NCT00784810"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05530551",
+      "title": "The Effect of Single vs Multiple Prophylactic Antibiotic Doses on PJI Following Primary THA in Patients With Osteoarthritis: A Cross-over, Cluster Randomized Controlled, Non-inferiority Trial Based on National Quality Databases. ProHipQ-OA",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-09-01",
+      "completion_date": "2025-03-01",
+      "country": "Denmark",
+      "enrollment": 20000,
+      "brief_summary": "Aim: To compare the effect of one single dose versus multiple doses of prophylactic antibiotics administered within 24 hours, on the development of PJI in patients with osteoarthritis undergoing primary THA.\n\nThe study is designed as a cross-over, cluster randomized, non-inferiority trial. All Danish orthopedic surgery departments performing primary THA with the majority being within inclusion criteria will be involved: Based on national quality databases, two-year cohorts of approximately 20,00",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1\\. All patients receiving a primary Total Hip Arthroplasty (THA) due to primary and secondary causes of osteoarthritis\n\nExclusion Criteria:\n\n1. Patients receiving a primary THA due to either acute or sequelae of proximal femoral or acetabular fractures\n2. Patients receiving a p",
+      "endpoints": [
+        "Incidence of Prosthetic joint infections (PJI)"
+      ],
+      "sponsor": "University Hospital Bispebjerg and Frederiksberg",
+      "url": "https://clinicaltrials.gov/study/NCT05530551"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04320914",
+      "title": "High Intensity Laser Therapy (Classes IV) and Ibuprofen Gel Phonophoresis for Treating Knee Osteoarthritis Among People Living in Hilly Terrain: A Randomized, Double Blind, Controlled Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-09-28",
+      "completion_date": "2023-06-30",
+      "country": "India",
+      "enrollment": 80,
+      "brief_summary": "A total of 80 patients with knee osteoarthritis (KOA) aged between fourty five and seventy years will be recruited by simple random sampling to participate in two group, randomized, double blind, controlled study. Recruited patients will be randomly divided in to two groups high intensity-laser therapy (HILT) group and ibuprofen gel phonophoresis (IGP) group. Duration of the treatment will be 8 minutes in one session/knee joint for each day for 3 days/week for 8 weeks.The pain and quality of lif",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with clinical knee OA according to the diagnostic criteria of ACR were included in the study\n\nExclusion Criteria:\n\n* Unwillingness to participate in the study\n* Recent history (within the last 3 months) of physical therapy to the same joint\n* Recent history ",
+      "endpoints": [
+        "Digitalized pain pressure algometer (ALGO-DS-01)",
+        "Western Ontario and Mc Master Universities Osteoarthritis Index (WOMAC)"
+      ],
+      "sponsor": "Maharishi Markendeswar University (Deemed to be University)",
+      "url": "https://clinicaltrials.gov/study/NCT04320914"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00372801",
+      "title": "A Double-Blind, Randomised, Placebo-Controlled, Cross-Over Pilot Study to Investigate the Efficacy of Ibuprofen in Patients With Osteoarthritis of the Knee Following Administration of a Single Dose",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2005-08",
+      "completion_date": "",
+      "country": "Australia",
+      "enrollment": 36,
+      "brief_summary": "To demonstrate that new drugs work, many complex multidose studies are often required. The intent of this study is to use Ibuprofen as an example of a marketed pain relief drug to validate a simpler single dose model for future assessment of new pain drugs.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Subjects diagnosed with primary Osteoarthritis of the knee.\n* Have at least 3 months in symptom duration prior to screening visit.\n* Regular user of a prescribed non-steroidal anti-inflammatory drug (NSAID) or selective cyclo-oxygenase II (COX2) inhibitor for management of kne",
+      "endpoints": [
+        "Pain intensity recorded over 0-8 hours using question 1 of the WOMAC (Western Ontario and McMaster University Osteoarthritis Index)pain subscale (visual analog scale)."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00372801"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05318521",
+      "title": "A Randomized, Double-Blind, Parallel-Arm Study Comparing the Efficacy of Investigational Product \"Ibuprofen Modified-Release Tablets 800 mg\" and Placebo in Patients With Chronic Pain Related to Osteoarthritis of the Knee",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-12-10",
+      "completion_date": "2022-10-19",
+      "country": "United States",
+      "enrollment": 500,
+      "brief_summary": "It is a Phase III efficacy study as the title 'A randomized, double-blind, parallel-arm study comparing the efficacy of investigational product \"Ibuprofen Modified-Release Tablets 800 mg\" and placebo in patients with chronic pain related to osteoarthritis of the knee.' The primary objective is to determine the analgesic efficacy of orally administered IBUMR in patients with osteoarthritis (OA) of the knee.\n\nThe Secondary objectives are to compare the treatment effect on patient pain, function an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female patients ≥18 years of age at the screening visit.\n2. Patients diagnosed with symptomatic OA of the knee based on the American College of Rheumatology (ACR) clinical criteria and have an American Rheumatology Association (ARA) functional class rating of I, II, ",
+      "endpoints": [
+        "Change from baseline in the WOMAC visual analogue 3.1 Pain intensity subscale, over 12 weeks of treatment. [Time frame: Baseline week up to Week 12]"
+      ],
+      "sponsor": "Overseas Pharmaceuticals, Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05318521"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04170218",
+      "title": "Quality of Care for Knee and Hip Osteoarthritis in Elderly Patients: a Multicentric Observational Study in France Using Quality Indicators Assessed by Questionnaire",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-12-01",
+      "completion_date": "2022-12-01",
+      "country": "France",
+      "enrollment": 405,
+      "brief_summary": "Introduction: Hip and knee osteoarthritis (OA) was ranked in 2010 as the eleventh highest contributor to global disability. In France in 2014, non-spinal OA was the leading self-reported cause of morbidity among adults over sixty-five years of age, with a prevalence of 49.5 per cent. OA is known to be the first cause of disability in activities of daily life and a risk factor of frailty among people over seventy-five years of age. Despite its major impact on the elderly population's quality of l",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients aged seventy-five years or over\n* with symptomatic hip or knee osteoarthritis according to the American College of Rheumatology criteria\n* with pain for more than three months\n* affiliated to French social security\n* having given their oral non-opposition to participa",
+      "endpoints": [
+        "number of participants referred to an orthopedic surgeon as assessed by ACOVE's quality indicator questionnaire"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT04170218"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01066676",
+      "title": "Prospective, Clinical Trial to Investigate Safety, Tolerability and Efficacy of Dexibuprofen Gebro 400 mg Powder for Oral Suspension (Test) Compared to Ibuprofen 400 mg Powder for Oral Suspension (Reference) in Patients Suffering From Osteoarthritis of the Hip or Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2012-06",
+      "country": "Austria",
+      "enrollment": 482,
+      "brief_summary": "Medical condition under investigation: Osteoarthritis of the hip or knee\n\nNumber of patients planned: 480 adult patients\n\nMain objective: To evaluate and compare the tolerability profile of Dexibuprofen Gebro 400 mg powder for oral suspension compared to Ibuprofen 400 mg in patients with painful osteoarthritis of the hip or knee\n\nSecondary objectives: To compare the overall efficacy of Dexibuprofen Gebro 400 mg powder for oral suspension compared to Ibuprofen 400 mg in patients suffering from di",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* male or female patients aged between 18 and 75 years\n* everyday joint pain for the past three months\n* global pain intensity in the involved joint (hip or knee) of \"moderate\" to \"severe\" within the last 48 h\n\nExclusion Criteria:\n\n* acute inflammation or ischaemic necrosis\n* pa",
+      "endpoints": [
+        "Tolerability profile of Dexibuprofen Gebro 400 mg powder for oral suspension compared to Ibuprofen 400 mg in patients with painful osteoarthritis of the hip or knee"
+      ],
+      "sponsor": "Gebro Pharma GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT01066676"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00312221",
+      "title": "Randomized, Double-blind, Multicenter Study to Determine the Efficacy and Safety of BTDS 20 or Oxycodone Immediate-Release (OxyIR) Versus BTDS 5 in Subjects With Moderate to Severe Osteoarthritis (OA) Pain",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2004-04",
+      "completion_date": "2005-08",
+      "country": "United States",
+      "enrollment": 418,
+      "brief_summary": "The objective of this study is to demonstrate the effectiveness and tolerability of the buprenorphine transdermal system (20 mg) in comparison to the buprenorphine transdermal system (5 mg) and oxycodone immediate release in subjects with moderate to severe osteoarthritis pain currently treated with oral opioids. The double-blind treatment intervention duration is 12 weeks during which time supplemental analgesic medication (acetaminophen, ibuprofen, immediate release oxycodone) will be provided",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the hip, knee, or spine for 1 year or longer, confirmed by radiographic evidence within the last 2 years.\n* Good pain control while on a stable dose of an opioid analgesic for osteoarthritis.\n\nExclusion Criteria:\n\n* Not currently taking and tolerating opioids",
+      "endpoints": [
+        "\"Average Pain Over the Last 24 Hours\" Scores at Weeks 4, 8, and 12 of the Double-blind Phase."
+      ],
+      "sponsor": "Purdue Pharma LP",
+      "url": "https://clinicaltrials.gov/study/NCT00312221"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00630929",
+      "title": "A Study of the Efficacy and Tolerability of Once Daily Celebrex (Celecoxib) and Three Times Daily Ibuprofen vs. Placebo in the Treatment of Subjects With Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2004-02",
+      "country": "Spain, United Kingdom, Germany",
+      "enrollment": 388,
+      "brief_summary": "To compare the efficacy and safety of celecoxib versus ibuprofen in subjects with osteoarthritis (OA) of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInclusion criteria:\n\n* Aged \\>=40 years old\n* Diagnosed with OA of the knee according to the American College of Rheumatology and OA in flare state at baseline visit\n* Functional capacity class of I-III\n\nExclusion Criteria:\n\nExclusion criteria:\n\n* Inflammatory arthritis or gout ",
+      "endpoints": [
+        "Change from baseline in patient's assessment of arthritis pain according to visual analogue scale"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00630929"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00450216",
+      "title": "A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 in Subjects Requiring NSAID Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2008-10",
+      "country": "N/A",
+      "enrollment": 906,
+      "brief_summary": "The purpose of this study is to evaluate whether HZT-501 is effective in reducing the rate of development of ibuprofen-associated ulcers in patients who require long-term daily use of ibuprofen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Expected to require daily administration of an NSAID for at least the coming six months for conditions such as osteoarthritis, rheumatoid arthritis, chronic low back pain, chronic regional pain syndrome, and chronic soft tissue pain.\n* Did not use a NSAID within the 30 days pr",
+      "endpoints": [
+        "Number of Participants Who Develop Endoscopically-diagnosed Gastric Ulcers"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00450216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00631514",
+      "title": "Relevance of the Interaction Between Antihypertensive and Antirheumatic Drugs in a Family Practice",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2006-09",
+      "country": "Croatia",
+      "enrollment": 88,
+      "brief_summary": "NSAIDs may increase blood pressure and blunt the effects of many antihypertensives. Members of these drug classes differ in their propensity to such an interaction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Treated hypertensives of either gender aged between 55 and 76 years\n* About 50% with concomitant osteoarthritis of the hip or knee\n\nExclusion Criteria:\n\n* Normotensive persons or untreated hypertensives\n* Individuals outside the age limits\n* General exclusion criteria (e.g. un",
+      "endpoints": [
+        "Arterial blood pressure"
+      ],
+      "sponsor": "University of Split",
+      "url": "https://clinicaltrials.gov/study/NCT00631514"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00450658",
+      "title": "A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 in Subjects Requiring NSAID Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2008-10",
+      "country": "N/A",
+      "enrollment": 627,
+      "brief_summary": "The purpose of this study is to evaluate whether HZT-501 is effective in reducing the rate of development of ibuprofen-associated ulcers in patients who require long-term daily use of ibuprofen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Expected to require daily administration of a nonsteroidal anti-inflammatory drug (NSAID) for at least the coming six months for conditions such as osteoarthritis, rheumatoid arthritis, chronic low back pain, chronic regional pain syndrome, and chronic soft tissue pain.\n* Did ",
+      "endpoints": [
+        "Number of Subjects Who Develop Endoscopically-diagnosed Upper Gastrointestinal Ulcers Confirmed by Endoscopy."
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00450658"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06603662",
+      "title": "Systemic Oral Glucocorticoids for the Treatment of Acute Osteoarthritis Pain in the Emergency Department",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-02-24",
+      "completion_date": "2027-12",
+      "country": "United States",
+      "enrollment": 192,
+      "brief_summary": "The purpose of this clinical trial is to compare the analgesic effects (relief of pain) of glucocorticoids (steroids) and pain medication versus pain medication alone in adult patients presenting to the emergency department with joint pain due to osteoarthritis. Steroids are drugs that can reduce inflammation and are used commonly for many different medical conditions.\n\nIn brief, the central aims of the study are to:\n\n1. Assess the efficacy of adding oral glucocorticoid medications to the standa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years\n* Acute monoarticular arthritic joint pain affecting native knee, hip, or shoulder presumed to be related to osteoarthritis\n* Acute pain above baseline starting less than 72 hour prior to ED visit\n* Planned discharge from the ED\n* History of osteoarthritis of the",
+      "endpoints": [
+        "Change in Resting Pain Score at 3 Days (Effectiveness Outcome)",
+        "Adverse Events (Safety Outcome)"
+      ],
+      "sponsor": "WellSpan Health",
+      "url": "https://clinicaltrials.gov/study/NCT06603662"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02700451",
+      "title": "A Randomized Controlled Trial of Post-operative Acetaminophen Versus Nonsteroidal Anti-Inflammatory Drug (NSAID) Use on Lumbar Spinal Fusion Outcomes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-03",
+      "completion_date": "2023-03",
+      "country": "United States",
+      "enrollment": 178,
+      "brief_summary": "Patients undergoing spine surgery often have considerable pain post-operatively and frequently require opioid medication (Percocet, Norco, oxycodone, morphine, etc.) to control their pain postoperatively. The widespread use of opioids, however, is associated with a number of side effects. These include: sedation, dizziness, nausea, vomiting, constipation, dizziness and itching amongst others. Some investigators have suggested that anti-inflammatory medications (the same class of medicines as adv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-75\n* Require 1 or 2 level lumbar spinal fusion through posterior or lateral approach\n* No history of long term opioid use (daily or almost daily opioid use \\> 2 weeks) and not on opiates at time of presentation to clinic\n\nExclusion Criteria:\n\n* Documented allergy to NSA",
+      "endpoints": [
+        "Perioperative Opioid Use"
+      ],
+      "sponsor": "Hospital for Special Surgery, New York",
+      "url": "https://clinicaltrials.gov/study/NCT02700451"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07337772",
+      "title": "Prospective Randomized Controlled Trial Comparing Different Doses of Corticosteroids in Local Infiltration Analgesia (LIA) for Total Knee Arthroplasty",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2026-02-01",
+      "completion_date": "2028-11-01",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "This study aims to compare the efficacy of different doses of glucocorticoids in local infiltration analgesia (LIA) during total knee arthroplasty (TKA) through a prospective single-center randomized controlled trial, and to explore the safety and feasibility of high-dose glucocorticoids. Through this research, the investigators hope to provide an optimized solution for post-TKA pain management, improve patients' postoperative recovery and quality of life, and offer scientific evidence for pain ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female participants aged 18 years or older;\n2. Undergoing primary unilateral total knee arthroplasty (TKA)for unilateral knee osteoarthritis(OA)at ourhospital;\n3. Preoperative American Society of Anesthesiologists(ASA)physical status classification of 1-3;\n4. Ability ",
+      "endpoints": [
+        "Visual Analog Scale (VAS) Pain Score"
+      ],
+      "sponsor": "First Affiliated Hospital of Fujian Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT07337772"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00145730",
+      "title": "A Multicentre Randomised Placebo-Controlled Trail of Ibuprofen for the Prevention of Ectopic Bone-Related Pain and Disability After Elective Hip Replacement Surgery (HIPAID)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-02",
+      "completion_date": "2004-05",
+      "country": "N/A",
+      "enrollment": 1000,
+      "brief_summary": "The primary aim of this randomised trial is to determine the effects of a short peri-operative course of treatment with a non-steroidal anti-inflammatory drug (NSAID), ibuprofen, on the long-term consequences of ectopic bone formation in patients undergoing elective total hip replacement surgery. The specific hypotheses to be tested at that 6 to 12 months after surgery, patients assigned post-operative ibuprofen will have less self-reported pain and physical disability, greater health-related qu",
+      "eligibility_criteria": "Inclusion Criteria: Patient undergoing elective total hip replacement surgery, or revision thereof -\n\nExclusion Criteria: A definite indication or contra-indication for treatment with a NSAID during the 14-day study treatment period, in the opinion of the treating clinician.\n\n\\-",
+      "endpoints": [
+        "Self-reported pain and physical function (WOMAC)"
+      ],
+      "sponsor": "The George Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00145730"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02417506",
+      "title": "A Double Blind Randomized Comparator Controlled Study to Assess the Effect of E-OA-07 (Lanconone) on Acute Pain Response in Subjects Suffering From Osteoarthritis of the Knee",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-08",
+      "completion_date": "2015-02",
+      "country": "India",
+      "enrollment": 72,
+      "brief_summary": "The repetitive motions associated with active life and many sports can increase the wear and tear to the joints that leads to decrease in flexibility and joint pain finally heading its way to osteoarthritis. Activities such as jumping, running can wear away the cartilage that supports and cushions the joints of hands and knees, causing bones to rub against each other. Injuries stemming from repetitive motions can also cause and worsen the joint pain.\n\nJoint pain is discomfort that arises from an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ambulatory adults of either sex aged 40 to 60 years.\n* Subjects with moderate OA of the knee, which can be clinically, categorized as ARA functional Class II and III with radiological confirmation of Kellgren Lawrence Grade II and III. (incase of bilateral OA, the knee with th",
+      "endpoints": [
+        "Pain score as measured by Visual Analogue Scale"
+      ],
+      "sponsor": "Vedic Lifesciences Pvt. Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02417506"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02358707",
+      "title": "Is Phonophoresis Treatment Effective? Determination of Ibuprofen Levels by Microextraction and HPLC (High Liquid Pressure Chromatography) Method in the Tissues of the Patients With Knee Osteoarthritis?",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2014-05",
+      "completion_date": "2015-05",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 18,
+      "brief_summary": "The specimens from patients as knee osteoarthritis diagnosed who was applied ibuprofen phonophoresis will be analyzed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* having diagnosed as osteoarthritis\n\nExclusion Criteria:\n\n* surgery at knee\n* trauma at knee",
+      "endpoints": [
+        "level of ibuprofen in bone by Microextraction and HPLC (High Liquid Pressure Chromatography)",
+        "level of ibuprofen in synovial membrana by Microextraction and HPLC (High Liquid Pressure Chromatography)",
+        "level of ibuprofen in synovial fluid by Microextraction and HPLC (High Liquid Pressure Chromatography)"
+      ],
+      "sponsor": "Cukurova University",
+      "url": "https://clinicaltrials.gov/study/NCT02358707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05777564",
+      "title": "Tolerability of High Intensity Aerobic Exercise for Patients With Knee Osteoarthritis and Cardiovascular Disease Risk Factors",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-03-28",
+      "completion_date": "2024-02-08",
+      "country": "Denmark",
+      "enrollment": 41,
+      "brief_summary": "Background: Current knee osteoarthritis (OA) guidelines recommend knee specific exercise as treatment for knee OA pain. However, up to 87 % of patients with knee OA have at least one other chronic condition, typically cardiovascular in nature. The elevated risk of cardiovascular health problems can be mitigated by performing aerobic exercise. By consequence, it seems logical to apply aerobic exercise for this patient group as the symptomatic benefit is equal to other types of exercise.\n\nAim: Thi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinically diagnosed with knee OA\n* At least one of the following CVD risk factors: Overweight/obesity, hypertension, elevated HbA1c, elevated triglycerides, High LDL\n* Age \\> 18\n* Willing and able to understand and participate in the study\n\nExclusion Criteria:\n\n* Contraindica",
+      "endpoints": [
+        "Knee flares",
+        "Average knee pain",
+        "Attendance"
+      ],
+      "sponsor": "Frederiksberg University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05777564"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03770546",
+      "title": "Amnion-Based Injections in the Shoulder for Adhesive Capsulitis and Osteoarthritis",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2021-10-30",
+      "completion_date": "2023-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Osteoarthritis (OA) of the shoulder is a common debilitating condition affecting up to 5% of the general population and as much as 32% of patients over 60 years of age. Clinically, OA is diagnosed by a combination of symptoms, such as slow onset of progressively worsening shoulder pain and stiffness over months to years (often with a history of minor trauma), and pain with activity. Physical exam may show tenderness and swelling, muscle atrophy, and decreased range of motion. Adhesive capsulitis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or greater\n* Clinical diagnosis of adhesive capsulitis, clinically in the frozen phase at the time of enrollment OR Clinical diagnosis of osteoarthritis of the shoulder.\n* Symptoms for 2-6 months\n* Failure of conservative management.\n* \\> 25% reduction in active r",
+      "endpoints": [
+        "Range of Motion",
+        "Strength"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT03770546"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00620867",
+      "title": "A Study of the Efficacy and Tolerability of Once Daily Celebrex (Celecoxib) and Three Times Daily Ibuprofen vs. Placebo in the Treatment of Subjects With Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-10",
+      "completion_date": "2003-03",
+      "country": "United States",
+      "enrollment": 393,
+      "brief_summary": "To compare the efficacy and safety of celecoxib versus ibuprofen in subjects with osteoarthritis (OA) of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged \\>= 40 years old\n* Diagnosed with OA of the knee according to the American College of Rheumatology and OA in flare state at baseline visit\n* Functional capacity class of I-III\n\nExclusion Criteria:\n\n* Inflammatory arthritis or gout or pseudo-gout with acute flare within th",
+      "endpoints": [
+        "Change from baseline in patient's assessment of arthritis pain according to visual analogue scale (VAS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00620867"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00269191",
+      "title": "A 12-Week, Randomized, Placebo- and Active-Comparator-Controlled, Parallel-Group, Double-Blind Study to Assess the Safety and Efficacy of Etoricoxib 30 mg Versus Ibuprofen 2400 mg in Patients With Osteoarthritis (Study 1)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-02-05",
+      "completion_date": "2003-11-21",
+      "country": "N/A",
+      "enrollment": 528,
+      "brief_summary": "This study was conducted to assess the safety and tolerability of the drug and to evaluate its efficacy in the treatment of osteoarthritis of the hip or knee in men and women.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a clinical and radiographic diagnosis of osteoarthritis of the hip or knee\n* Either prior NSAID or Acetaminophen users within the the ARA functional class I,II or III\n* Patients required to demonstrate a \"flare\" of the signs and symptoms of OA following withdrawa",
+      "endpoints": [
+        "Pain and physical function over 12-weeks as assessed by the WOMAC VA 3.0 pain subscale, WOMAC VA 3.0 physical function subscale, and Patient Global Assessment of Disease Status, as well as safety over 12-weeks as assessed by adverse experiences."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00269191"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02409381",
+      "title": "Clinical Trial, Multicenter, Phase IV, Open, Randomized, Parallel, Controlled, Non-inferiority, to Evaluate the Efficacy and Safety of Motore® Compared to Alivium® in the Treatment of Adults With Knee Osteoarthritis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2016-06",
+      "country": "Brazil",
+      "enrollment": 288,
+      "brief_summary": "Prospective, multicenter, phase IV, open, randomized, parallel, controlled, in which 288 (two hundred and eighty-eight) participants of both sexes, aged between 40 and 75 years will be randomly allocated to one of two treatment groups , and treatment group 01 will be the dried extract of Curcuma longa complexed with phosphatidylcholine (Motore®), and treatment group 02 will ibuprofen (Alivium®).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants of both sexes;\n* Age greater than or equal to 40 years and less than or equal to 75 years;\n* Clinical diagnosis of osteoarthritis of the knee (tibiofemoral joint) based on clinical and radiological criteria (Grade 2 and 3 Kellgren and Lawrence) as specified below:",
+      "endpoints": [
+        "Reduction in the pain domain score of the WOMAC questionnaire"
+      ],
+      "sponsor": "Ache Laboratorios Farmaceuticos S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02409381"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00419796",
+      "title": "A 4-Week, Multicentre, Randomized, Double-Blind, Placebo Controlled, Double Dummy, Parallel Group Study, to Assess the Effect of Lumiracoxib 100 mg o.d. and Ibuprofen 600 mg t.i.d on 24-Hour Blood Pressure Profile and on Urinary Excretions of Eicosanoids, in Osteoarthritis Patients With Controlled Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2007-09",
+      "country": "United States",
+      "enrollment": 78,
+      "brief_summary": "This randomized study will compare the effect of lumiracoxib, ibuprofen and placebo on 24-hour blood pressure profile and on urinary excretions of eicosanoids in controlled hypertensive patients who have osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female outpatients of at least 50 years of age.\n* Female patients must be either post-menopausal for one year, surgically sterile, or using effective contraceptive methods such as barrier method with spermicide or intra-uterine device. Oral contraceptives use is not a",
+      "endpoints": [
+        "Change from baseline in average 24-hour systolic blood pressure (BP) derived from ambulatory blood pressure monitoring (ABPM) after 4 weeks of treatment",
+        "Urinary eicosanoid excretion"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00419796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00737737",
+      "title": "Effects of Chronic Musculoskeletal Pain and Opioidergic Versus Placebo Interventions on Neuroendocrine Function in Men",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2014-04",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "This study will examine hormone function in men with osteoarthritis pain and how it is affected by opioid medication (such as Percocet, Vicodin, MS Contin and morphine) versus placebo.\n\nMen between 30 and 65 years of age who have had moderate to severe osteoarthritis joint pain at least 5 days a week over the past 3 months may be eligible for this study. Candidates are screened with a physical examination, x-rays, laboratory and other tests, and questionnaires about pain, mood and medical health",
+      "eligibility_criteria": "-INCLUSION CRITERIA:\n\n1. Clinical evidence of chronic OA by history, examination and radiological examination\n\n   * a. Pain level of 4/10 or greater on a scale of 0 to 10 over a 2 week screening period\n   * b. Pain for a duration of 3 months or longer present at least 5 out of 7 days a week by histo",
+      "endpoints": [
+        "Is Chronic Opioid Treatment Associated With Changes in Adrenocorticotropic Hormone (ACTH), Cortisol, Luteinizing Hormone (LH) and Testosterone Secretion?"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00737737"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04321655",
+      "title": "Reduce Pain and Improve Quality of Life in Patient With Knee Osteoarthritis by Light, Sound and Brain Stimulation",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-04-01",
+      "completion_date": "2023-08-02",
+      "country": "N/A",
+      "enrollment": 160,
+      "brief_summary": "Patients affected with osteoarthritis knee have associated with pain and inflammation of the joint capsule, impaired muscular stabilization, decrease range of motion and functional disability. Laser therapy, phonophoresis, transcranial direct current stimulation (tDCS) and conventional physiotherapy exercises has innumerable benefits to the patients with knee osteoarthritis (KOA).However, it is still not clear which treatment is effective among them in rehabilitating the patients with chronic kn",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with clinical chronic knee OA according to the diagnostic criteria of American College of Rheumatology (ACR) were included in the study\n* Age between 45-70\n* Both sex male and female\n\nExclusion Criteria:\n\n* Unwillingness to participate in the study,\n* Recent",
+      "endpoints": [
+        "Digitalized pain pressure algometer",
+        "Western Ontario and Mc Master Universities Osteoarthritis Index"
+      ],
+      "sponsor": "Maharishi Markendeswar University (Deemed to be University)",
+      "url": "https://clinicaltrials.gov/study/NCT04321655"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00792818",
+      "title": "The Efficacy and Safety of Curcuma Domestica Extracts and Ibuprofen for Therapy of Patients With Knee Osteoarthritis, the Randomized Double-blinded Controlled Trial, Multicenter Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2012-10",
+      "country": "Thailand",
+      "enrollment": 367,
+      "brief_summary": "Osteoarthritis of knee is common degenerative musculoskeletal diseases. Non-steroidal antiinflammatory drugs (NSAIDs) are used to decrease pain symptom but someone can not tolerate its gastrointestinal adverse effects. In vitro studies showed that curcumin had an inhibitory effect on substances playing an important role in inflammatory pathway. The mechanisms by which curcumin prevents inflammation are postulated through inhibition of many cytokines, for example, lipo-oxygenase, cyclo-oxygenase,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary osteoarthritis\n* Knee pain score more than or equal to 5 point (NRS 0-10)\n* Age \\>= 50 years, not \\> 75 years\n* Knee crepitus\n* Knee stiffness less than 30 minutes\n* Urine pregnancy test negative in case of not being menopausal period\n\nExclusion Criteria:\n\n* History of",
+      "endpoints": [
+        "Change in mean WOMAC pain subscale"
+      ],
+      "sponsor": "Mahidol University",
+      "url": "https://clinicaltrials.gov/study/NCT00792818"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05566561",
+      "title": "Postoperative Analgesic Efficacy of Ultrasound-guided Para-sartorial Compartment Block in Knee Surgery: A Randomized Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-10-19",
+      "completion_date": "2025-09-16",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 60,
+      "brief_summary": "Selective blockade of the saphenous nerve branches is among the regional anesthesia techniques in knee surgery. In this block, analgesia is provided without motor block and is an essential advantage in terms of early mobilization in the postoperative period. Blockage of motor branches causes a delay in mobilization and increases the risk of falling. The vastus medialis and its medical femoral cutaneous branch are rich in the femoral triangle. Effective postoperative analgesia is provided by a fe",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with ASA classification I-III,\n* Aged 18-75 years\n* Who will be scheduled for knee surgery under spinal anesthesia.\n\nExclusion Criteria:\n\n* Patients who have a history of bleeding diathesis,\n* Take anticoagulant therapy,\n* History of chronic pain before surgery,\n* Mul",
+      "endpoints": [
+        "Pain scores (Numerical Rating Scale-NRS)"
+      ],
+      "sponsor": "Medipol University",
+      "url": "https://clinicaltrials.gov/study/NCT05566561"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00984815",
+      "title": "Open-Label Safety Study of HZT-501 in Patients Who Require Long-Term Daily Non-Steroidal Anti-Inflammatory Drug Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2011-07",
+      "country": "United States",
+      "enrollment": 86,
+      "brief_summary": "The purpose of this study is to evaluate the safety of long-term treatment with HZT-501, a fixed-dose combination oral tablet of 800 mg ibuprofen and 26.6 mg famotidine for patients that require long-term NSAID treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is capable of understanding the purpose and risks of the study and is able to provide written Informed Consent.\n* Patient is male or female, aged 40 to 80 years of age.\n* Patient is expected to require daily administration of an NSAID for at least the coming year for c",
+      "endpoints": [
+        "Number of Participants With Treatment Emergent Adverse Events"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00984815"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01496326",
+      "title": "A Pilot Study to Compare the Efficacy and Safety of a Novel 10% Ibuprofen Formulation Versus Placebo Alone Applied to the Knee in Patients With Painful Osteoarthritis of the Knee",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-02",
+      "completion_date": "2011-08",
+      "country": "Switzerland",
+      "enrollment": 75,
+      "brief_summary": "This is a phase 2a clinical trial performed to evaluate the efficacy of a topical treatment of ibuprofen compared to the use of a placebo topical treatment.\n\nA multi-center, double-blinded, randomized placebo controlled study. Study length: 14 days Dosing twice daily (b.i.d.)",
+      "eligibility_criteria": "Main Inclusion Criteria:\n\n* Male or female patients aged at least 40 years.\n* Primary osteoarthritis in a single knee joint, grade II/III based on the Kellgren and Lawrence classification system.\n* Radiographic evidence consistent with osteoarthritis carried out within 6 months before screening.\n* p",
+      "endpoints": [
+        "Visual Analogue Scale (VAS) Pain scale"
+      ],
+      "sponsor": "BioChemics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01496326"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05324163",
+      "title": "A Phase 3, Multicenter, Double-blind and Placebo and Active Control Study to Evaluate the Efficacy and Safety of X0002 Spray in Treatment of Subjects With Osteoarthritis of the Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-09-29",
+      "completion_date": "2023-02-06",
+      "country": "China",
+      "enrollment": 180,
+      "brief_summary": "This study is a randomized, double-blind clinical trial in a Chinese population",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must meet all of the following inclusion criteria before entering the study:\n\n  1. Aged between 40 and 75 years old.\n  2. A diagnosis of primary knee joint must be made by clinical and/or radiographic examination according to American College of Rheumatology standards",
+      "endpoints": [
+        "To evaluate the efficacy of ibuprofen hydrochloride spray in the treatment of subjects' target knee osteoarthritis when compared with celecoxib capsules at 12 weeks of treatment with ibuprofen hydrochloride spray."
+      ],
+      "sponsor": "Jiangsu XinChen-Techfields Pharma Co., LTD.",
+      "url": "https://clinicaltrials.gov/study/NCT05324163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05291793",
+      "title": "The Effect of Different Intra-articular Injections on Pain and Function in Primary Gonarthrosis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-04-01",
+      "completion_date": "2021-08-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 80,
+      "brief_summary": "Gonarthrosis is a frequent cause of knee pain and mostly related to altered function of the knee. Intra-articular injections are a valuable noninvasive medical treatment of choice for pain management and functional enhancement. This study aims to investigate the effects of intra-articular injections without local anesthesics which are well known to be chondrotoxic. For this purpose, functional data of the patients who received intra-articular injections have been collected and analyzed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients older than 18 years old\n* Diagnosed as Osteoarthritis ( in weight-bearing standing Antero-Posterior and Lateral knee plain radiographs)\n\nExclusion Criteria:\n\n* Patients refuse to enroll in the study voluntarily\n* Patients refuse to give informed consent\n* Patients who",
+      "endpoints": [
+        "Visual Analogue Scale (VAS)",
+        "Visual Analogue Scale (VAS)",
+        "Visual Analogue Scale (VAS)"
+      ],
+      "sponsor": "Nevsehir Haci Bektas Veli University",
+      "url": "https://clinicaltrials.gov/study/NCT05291793"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05014542",
+      "title": "Needling Techniques for Tonifying Kidneys and Dredging Meridians for Knee Osteoarthritis: A Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-01-02",
+      "completion_date": "2022-06-12",
+      "country": "Croatia",
+      "enrollment": 64,
+      "brief_summary": "The thirty-nine-week open-label clinical study investigates the efficacy of acupuncture for Knee Osteoarthritis (KOA) as adjunctive therapy to analgesics compared to analgesics only and assesses the effects after 9 and 24 weeks, with safety assessment provided.\n\nThe study seeks to find possible additional benefits of acupuncture on Kidney Deficiency (KD) while treating KOA with an acupuncture protocol designed to treat KOA following Traditional Chinese Medicine (TCM) theory, which connects KOA w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Knee Osteoarthritis\n* Knee Osteoarthritis for at least 6 months\n* painful knee in last month\n* radiographic changes of the knee (Kellgren-Lawrence grade 2 or more)\n* signed informed consent\n* participant can move independently\n\nExclusion Criteria:\n\n* if t",
+      "endpoints": [
+        "WOMAC Total in Week 15"
+      ],
+      "sponsor": "Family Medicine Practice Svijetlana Perculija Durdevic, MD",
+      "url": "https://clinicaltrials.gov/study/NCT05014542"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02794740",
+      "title": "Study of X0002 Following Escalating Single and Multiple Doses Administered as Topical Application in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-06",
+      "completion_date": "2017-03-29",
+      "country": "China",
+      "enrollment": 34,
+      "brief_summary": "Primary Objectives:\n\nTo evaluate the safety and tolerability of escalating single and multiple doses of X0002 administered as a topical application.\n\nSecondary Objectives:\n\nTo characterize the single and and multiple pharmacokinetics of escalating doses of X0002 and its active metabolite ibuprofen as a topical application.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Gender: male or female, each sex ratio does no less 1/3;\n* Were between the ages of 18 and 45 years, inclusive. General condition is will;\n* Were between the Body Mass Index (BMI) of 19-28, inclusive; BMI=Weight(kg)/Height2 (m2); Weight≥50kg (female) and 60kg (male);\n* Nearly ",
+      "endpoints": [
+        "Incidence of adverse events"
+      ],
+      "sponsor": "Tianjin XinChen-Techfields Pharma Co., LTD.",
+      "url": "https://clinicaltrials.gov/study/NCT02794740"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03975790",
+      "title": "Comparative Analysis of Outcomes Among Patients Initiating Xeljanz in Combination With Oral MTX Who Withdraw MTX Versus Continue MTX Using a United States Healthcare Claims Database",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-05-29",
+      "completion_date": "2018-10-02",
+      "country": "United States",
+      "enrollment": 479,
+      "brief_summary": "To address the objectives, a retrospective cohort design will be employed to evaluate patient characteristics, treatment patterns, medication effectiveness, and health care cost and utilization in RA patients newly initiating tofacitinib in combination with oral methotrexate (MTX)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least one claim for tofacitinib between 01 January 2014 and 31 January 2017 (the identification period).\n* Presence of The International Classification of Diseases, 9th Revision, Clinical Modification (ICD-9 CM) code for RA (in any position) during the one-year pre-index pe",
+      "endpoints": [
+        "Number of Participants as Per Type of Insurance Plan",
+        "Number of Participants in Each Geographic Region",
+        "Number of Participants With Biologic Disease Modifying Antirheumatic Drug (bDMARD) Use During Pre-Index Period"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT03975790"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03858231",
+      "title": "The Effects of Combination Therapy of Opioids Versus Non-Opioids on Postoperative Pain Management After Knee Arthroscopic Surgery: A Prospective Randomized Controlled Study",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2018-10-29",
+      "completion_date": "2028-01",
+      "country": "United States",
+      "enrollment": 148,
+      "brief_summary": "The purpose of this study is to look at pain management with opioids versus non-opioids after knee arthroscopy. This study will determine 1) whether the most commonly used non-narcotic medications provide pain relief comparable with the most commonly prescribed narcotic medications in patients undergoing arthroscopic knee surgery, and 2) whether patients' characteristics (gender, pre-operative knee symptoms, workers compensation status and employment status) affect pain level following surgery o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects ≥ 18 years of age through ≤ 80 years of age\n2. Subjects undergoing elective arthroscopic knee surgery, to include partial meniscectomy, chondroplasty, or loose body removal.\n\nExclusion Criteria:\n\n1. Previously enrolled in this study (enrolled for contralateral knee i",
+      "endpoints": [
+        "Change from Baseline Pain Assessment at 2 weeks",
+        "Change from Baseline Medication Use at 2 weeks"
+      ],
+      "sponsor": "Sanford Health",
+      "url": "https://clinicaltrials.gov/study/NCT03858231"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05975879",
+      "title": "Multicenter, Prospective, Double-blind, Placebo-controlled, Randomized Study of the Feasibility of Using the Dietary Supplement \"ARTNEO®\", Capsules for Oral Administration in Patients With Stage II-III Primary Knee Osteoarthritis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-05-31",
+      "completion_date": "2023-04-17",
+      "country": "Russia",
+      "enrollment": 212,
+      "brief_summary": "The goal of this clinical study is to evaluate the effectiveness of the properties that support the functional state of the joints and the safety of the dietary supplement for food ARTNEO®, oral capsules, in patients with stage II-III primary osteoarthritis of the knee joint.\n\nThe main questions it aims to answer are:\n\n1. To evaluate the effectiveness of the joint functional state-supporting properties of dietary supplement ARTNEO®, capsules for oral administration, in patients with stage II-III",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Voluntarily signed informed consent to participate in the study;\n2. Men and women in postmenopause, aged 40-75 years, capable of independent movement, BMI 18-30 kg/m2;\n3. Verified primary gonarthrosis according to the American College of Rheumatology criteria at least 6 month",
+      "endpoints": [
+        "Change in WOMAC-T score"
+      ],
+      "sponsor": "NPO Petrovax",
+      "url": "https://clinicaltrials.gov/study/NCT05975879"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00267176",
+      "title": "A 4-week, Multicentre, Randomized, Double-blind, Double-dummy, Parallel Group Ambulatory Blood Pressure Monitoring Study to Investigate Whether Treatment With Lumiracoxib 100 mg Once Daily Results in an Improved 24-hour Blood Pressure Profile Compared to Ibuprofen 600 mg Three Times a Day in Osteoarthritis Patients With Controlled Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "",
+      "country": "United States, Germany",
+      "enrollment": 1020,
+      "brief_summary": "This study will investigate the effect on ambulatory blood pressure of lumiracoxib 100 mg once daily versus ibuprofen 600 mg three times a day in osteoarthritis patients with controlled hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the hand, hip, knee or spine\n* High blood pressure (\\<140/ 90 mmHg) which is controlled by antihypertensive medication(s).\n\nExclusion criteria\n\n• Evidence or history of any cardiac and cerebral thrombotic/ ischemic diseases and/ or events\n\nOther protocol-defi",
+      "endpoints": [
+        "Assessment of the 24-hour systolic BP profile of lumiracoxib 100 mg o.d. in comparison to ibuprofen 600 mg t.i.d. after 4 weeks of treatment."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00267176"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05225480",
+      "title": "Reinforcement of Placebo Response in Knee Osteoarthritis: A Randomised Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-04-21",
+      "completion_date": "2023-02-23",
+      "country": "Denmark",
+      "enrollment": 103,
+      "brief_summary": "Saline intra-articular injections used as placebo treatments have been shown to provide pain relief in knee osteoarthritis (OA) It has further been shown that beneficial effects can be induced merely by having a conversation with a health professional.\n\nThe aim of this study is to determine whether an individual conversation based on the individual's illness perception related to knee OA affects the response to an intra-articular treatment with saline in individuals with knee OA.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥50 years\n* A clinical diagnosis of tibiofemoral OA in the target knee according to the American College of Rheumatology\n* Average knee pain in the last week during weight bearing activities of at least 4 on a 0 to 10 points scale (0=no pain; 10=worst possible pain).\n\nExcl",
+      "endpoints": [
+        "VAS knee pain"
+      ],
+      "sponsor": "Frederiksberg University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05225480"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00219700",
+      "title": "Phase II, Randomized, Blinded Study of Ibuprofen-PC and Ibuprofen in Patients With Osteoarthritis to Investigate Efficacy and Gastrointestinal Toxicity",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2005-11",
+      "country": "N/A",
+      "enrollment": 125,
+      "brief_summary": "To determine the safety and efficacy of 3 x 800 mg/day IBU-PC assessed by endoscopy and incidence of adverse events",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* moderate osteoarthritis in the hip and/or knee requiring chronic pain medication\n* others per protocol\n\nExclusion Criteria:\n\n* sensitivity to NSAIDs and lecithin\n* hypertension\n* history of GI and other specific problems\n* use of medications and other criteria per the protocol",
+      "endpoints": [
+        "Lanza score assessed by endoscopy at baseline and after six weeks of treatment to measure GI safety."
+      ],
+      "sponsor": "PLx Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00219700"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04189640",
+      "title": "The Efficacy of Different Volumes for Ultrasound-Guided Adductor Canal Block for Postoperative Analgesia Management After Total Knee Arthroplasty Surgery",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2020-01-10",
+      "completion_date": "2022-06-30",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 0,
+      "brief_summary": "The ultrasound-guided selective blockade of the saphenous nerve in the adductor canal provides effective analgesia and reduces postoperative pain in patients undergoing arthroscopic medial meniscectomy. Selective blockade of the saphenous nerve in the adductor canal provides effective analgesia without quadriceps muscle weakness. It has been shown that the adductor canal block (ACB) block increases the spread of local anesthetics in a distal and proximal way. Therefore, the proximal spread of lo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* American Society of Anesthesiologists (ASA) classification I-II\n* Scheduled for total knee arthroplasty under general anesthesia\n\nExclusion Criteria:\n\n* history of bleeding diathesis,\n* receiving anticoagulant treatment,\n* known local anesthetics and opioid allergy,\n* infectio",
+      "endpoints": [
+        "Opioid consumption"
+      ],
+      "sponsor": "Medipol University",
+      "url": "https://clinicaltrials.gov/study/NCT04189640"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03146689",
+      "title": "Identifying Treatment Responders to a Topical Non-steroidal Anti-inflammatory Drug (NSAID) or Topical Capsaicin in Painful Knee Osteoarthritis: A Pilot Series of N-of-1 Trials",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-08-04",
+      "completion_date": "2018-10-16",
+      "country": "United Kingdom",
+      "enrollment": 22,
+      "brief_summary": "Despite evidence that topical non-steroidal anti-inflammatory drugs (NSAIDs) and capsaicin are effective in osteoarthritis (OA), it is still unclear why they work for some people but not others. The investigators are undertaking an individual patient data (IPD) meta-analysis to identify responders according to patient characteristics, however, no studies report the presence of synovial hypertrophy or neuropathic-like pain. These two traits are of interest as they may be used to optimise the trea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and non-pregnant women who have had ultrasound and radiographic assessments in the Knee Pain in the Community study\n\n  o Premenopausal women will need to be on an acceptable contraceptive method\n* Aged 40-95 years\n* Knee pain between 4-8 on the NRS\n* Knee osteoarthritis - ",
+      "endpoints": [
+        "Change from baseline knee pain on 0-10 numeric rating scale (NRS)"
+      ],
+      "sponsor": "University of Nottingham",
+      "url": "https://clinicaltrials.gov/study/NCT03146689"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00346216",
+      "title": "A Randomized, Double Blind, Parallel-group Study Of Cardiovascular Safety In Osteoarthritis Or Rheumatoid Arthritis Patients With Or At High Risk For Cardiovascular Disease Comparing Celecoxib With Naproxen And Ibuprofen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-10-04",
+      "completion_date": "2016-04-12",
+      "country": "Colombia, Hong Kong, Australia, Mexico, Taiwan, Philippines, Panama, Canada, United States, Ukraine, Costa Rica, Peru, Brazil",
+      "enrollment": 24081,
+      "brief_summary": "To answer the question of overall benefit: risk of celecoxib when compared to two most commonly prescribe traditional (non-selective) nonsteroidal anti-inflammatory drugs (NSAIDs) in the treatment of arthritis pain. For this purpose, patients with osteoarthritis or rheumatoid arthritis with or at risk of developing cardiovascular disease will be recruited. The cardiovascular, gastrointestinal and renal safety and symptomatic benefit in each treatment group will be assessed accordingly.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with osteoarthritis or rheumatoid Arthritis with or at risk of developing cardiovascular disease and who require and eligible for chronic, daily therapy with an NSAID to control arthritis sign and symptoms.\n\nExclusion Criteria:\n\n* Subjects have had a recent cardiovasc",
+      "endpoints": [
+        "The First Occurrence of Antiplatelet Trialists Collaboration (APTC) Composite Endpoint, Confirmed by the Clinical Events Committee (CEC)."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00346216"
+    }
+  ],
+  "timestamp": "2026-03-04T13:39:24.701708",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,573 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ibuprofen",
+    "disease": "osteoarthritis",
+    "query_string": "Ibuprofen AND osteoarthritis"
+  },
+  "data": {
+    "query": "Ibuprofen AND osteoarthritis",
+    "results": [
+      {
+        "pmid": "24672232",
+        "title": "Efficacy and safety of Curcuma domestica extracts compared with ibuprofen in patients with knee osteoarthritis: a multicenter study.",
+        "abstract": "To determine the efficacy and safety of Curcuma domestica extracts in pain reduction and functional improvement.",
+        "journal": "Clinical interventions in aging",
+        "year": "2014",
+        "authors": [
+          "Kuptniratsaikul Vilai",
+          "Dajpratham Piyapat",
+          "Taechaarpornkul Wirat",
+          "Buntragulpoontawee Montana",
+          "Lukkanapichonchut Pranee"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Curcuma",
+          "Female",
+          "Humans",
+          "Ibuprofen",
+          "Male",
+          "Middle Aged",
+          "Osteoarthritis, Knee",
+          "Phytotherapy",
+          "Plant Extracts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24672232/"
+      },
+      {
+        "pmid": "391117",
+        "title": "Ibuprofen.",
+        "abstract": "Ibuprofen was introduced in England in 1967 and in the United States in 1974 as an anti-inflammatory drug in humans. It has weak but definite anti-inflammatory properties similar to those of aspirin, milligram for milligram, but with considerably less adverse effect on the stomach. Ibuprofen is chemically related to fenoprofen and naproxen, but lack of effect for any one in this chemical class of propionic-acid derivatives does not necessarily mean lack of effect for any other in an individual patient. The drug has analgesic properties, probably related to its anti-inflammatory effect. It inhibits prostaglandin synthesis and has no effect on the adrenopituitary axis, making it a nonsteroidal agent. Ibuprofen has been shown to be effective in rheumatoid arthritis and osteoarthritis and is probably effective in ankylosing spondylitis, gout, and Bartter's syndrome.",
+        "journal": "Annals of internal medicine",
+        "year": "1979",
+        "authors": [
+          "Kantor T G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Anti-Inflammatory Agents",
+          "Arthritis",
+          "Digestive System",
+          "Drug Interactions",
+          "Humans",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/391117/"
+      },
+      {
+        "pmid": "38937394",
+        "title": "Paracetamol Combination Therapy for Back Pain and Osteoarthritis: A Systematic Review and Meta-Analyses.",
+        "abstract": "Although paracetamol (acetaminophen) combined with other analgesics can reduce pain intensity in some pain conditions, its effectiveness in managing low back pain and osteoarthritis is unclear. This systematic review investigated whether paracetamol combination therapy is more effective and safer than monotherapy or placebo in low back pain and osteoarthritis.",
+        "journal": "Drugs",
+        "year": "2024",
+        "authors": [
+          "Cao Zhiying",
+          "Han Kaiyue",
+          "Lu Hanting",
+          "Illangamudalige Sandalika",
+          "Shaheed Christina Abdel"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acetaminophen",
+          "Analgesics, Non-Narcotic",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Drug Therapy, Combination",
+          "Ibuprofen",
+          "Low Back Pain",
+          "Osteoarthritis",
+          "Quality of Life",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38937394/"
+      },
+      {
+        "pmid": "25560713",
+        "title": "Comparative effectiveness of pharmacologic interventions for knee osteoarthritis: a systematic review and network meta-analysis.",
+        "abstract": "The relative efficacy of available treatments of knee osteoarthritis (OA) must be determined for rational treatment algorithms to be formulated.",
+        "journal": "Annals of internal medicine",
+        "year": "2015",
+        "authors": [
+          "Bannuru Raveendhara R",
+          "Schmid Christopher H",
+          "Kent David M",
+          "Vaysbrot Elizaveta E",
+          "Wong John B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Acetaminophen",
+          "Adrenal Cortex Hormones",
+          "Analgesics, Non-Narcotic",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Diclofenac",
+          "Humans",
+          "Hyaluronic Acid",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25560713/"
+      },
+      {
+        "pmid": "27959716",
+        "title": "Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis.",
+        "abstract": "The cardiovascular safety of celecoxib, as compared with nonselective nonsteroidal antiinflammatory drugs (NSAIDs), remains uncertain.",
+        "journal": "The New England journal of medicine",
+        "year": "2016",
+        "authors": [
+          "Nissen Steven E",
+          "Yeomans Neville D",
+          "Solomon Daniel H",
+          "Lüscher Thomas F",
+          "Libby Peter"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis",
+          "Cardiovascular Diseases",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Female",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27959716/"
+      },
+      {
+        "pmid": "36692805",
+        "title": "Risk of COVID-19 Diagnosis and Hospitalisation in Patients with Osteoarthritis or Back Pain Treated with Ibuprofen Compared to Other NSAIDs or Paracetamol: A Network Cohort Study.",
+        "abstract": "We aimed to investigate whether ibuprofen use, compared with other non-selective non-steroidal anti-inflammatory drugs (ns-NSAIDs), cyclooxygenase-2 inhibitors (COX-2i) or paracetamol, increases the risk of coronavirus disease 2019 (COVID-19) diagnosis or hospitalisation.",
+        "journal": "Drugs",
+        "year": "2023",
+        "authors": [
+          "Xie Junqing",
+          "Brash James T",
+          "Turkmen Cigdem",
+          "Driessen Stefan",
+          "Varrassi Giustino"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Ibuprofen",
+          "Acetaminophen",
+          "COVID-19 Testing",
+          "Cohort Studies",
+          "Pandemics",
+          "COVID-19",
+          "Osteoarthritis",
+          "Cyclooxygenase 2 Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36692805/"
+      },
+      {
+        "pmid": "22471358",
+        "title": "Osteoarthritis of the knee and hip. Part II: therapy with ibuprofen and a review of clinical trials.",
+        "abstract": "We review the pharmacological properties and clinical evidence pertaining to the efficacy of ibuprofen as a first-line treatment in hip and knee osteoarthritis (OA). In the context of our previous paper's exploration of the aetiology and pathogenesis of OA as a basis for pharmacotherapy, we discuss the pharmacokinetics (PK) and clinical pharmacodynamics (PD) of ibuprofen relevant to OA.",
+        "journal": "The Journal of pharmacy and pharmacology",
+        "year": "2012",
+        "authors": [
+          "Adatia Aleem",
+          "Rainsford K D",
+          "Kean Walter F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthralgia",
+          "Hip",
+          "Hip Joint",
+          "Humans",
+          "Ibuprofen",
+          "Knee",
+          "Knee Joint",
+          "Osteoarthritis, Hip",
+          "Osteoarthritis, Knee"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22471358/"
+      },
+      {
+        "pmid": "28035387",
+        "title": "Therapeutic mechanisms of ibuprofen, prednisone and betamethasone in osteoarthritis.",
+        "abstract": "The present study aimed to investigate the therapeutic mechanisms of nonsteroidal anti-inflammatory drugs (NSAIDs) and steroids in osteoarthritis (OA). The CHON‑002 human chondrocyte cell line was used in the study. The levels of the cytokines, interleukin (IL)‑1β, IL‑6, IL‑8 and IL‑10, released by cells treated with tumor necrosis factor‑α (TNF‑α) were determined by ELISA. Levels of collagen I, aggrecan, matrix metalloproteinase (MMP)‑1, MMP‑13, signal transducer and activator of transcription (STAT) 3, nuclear factor‑κB (NF‑κB) subunit p65 and inhibitory subunit of NF‑κB (IκB) following treatment with IL‑1β, IL‑6, IL‑8 or IL‑10 were assessed by western blot. Levels of IL‑6 and IL‑8 were measured by ELISA following administration of TNF‑α combined with certain drugs. In addition, these parameters were evaluated by western blot following incubation with drugs in combination with IL‑6 or IL‑8 and after knockdown of STAT3, by addition of small interfering RNA (siRNA)‑STAT3 (siSTAT3), an ",
+        "journal": "Molecular medicine reports",
+        "year": "2017",
+        "authors": [
+          "Sun Fenglong",
+          "Zhang Yaohua",
+          "Li Qiang"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aggrecans",
+          "Anti-Inflammatory Agents",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Betamethasone",
+          "Cell Line",
+          "Chondrocytes",
+          "Collagen Type I",
+          "Humans",
+          "Ibuprofen",
+          "Interleukins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28035387/"
+      },
+      {
+        "pmid": "36600619",
+        "title": "Toxic, Genotoxic and Teratogenic Effects of Ibuprofen and its Derivatives.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are extensively used pharmaceuticals and tons of kilos are produced annually. Ibuprofen is one of the core medicines of non-steroidal anti-inflammatory drug and is primarily used for reduced pain, fever and tissue inflammation. It is also available for the treatment of osteoarthritis, rheumatoid arthritis, tendonitis, etc. It is still one of the most prescribed non-steroidal anti-inflammatory drugs in contemporary times. Although ibuprofen is a drug that has been used for years, it is also known to have various serious toxic effects.",
+        "journal": "Current drug targets",
+        "year": "2023",
+        "authors": [
+          "Çalışıcı Dilan",
+          "Yılmaz Serkan",
+          "Goktas Bayram"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Humans",
+          "Ibuprofen",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Osteoarthritis",
+          "DNA Damage"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36600619/"
+      },
+      {
+        "pmid": "22149579",
+        "title": "HZT-501 (DUEXIS(®); ibuprofen 800 mg/famotidine 26.6 mg) gastrointestinal protection in the treatment of the signs and symptoms of rheumatoid arthritis and osteoarthritis.",
+        "abstract": "Arthritis affects nearly 50 million people in the USA and, with the aging of the population, the prevalence is expected to rise. While NSAIDs are very effective in relieving pain associated with osteoarthritis (OA) and rheumatoid arthritis (RA), they are associated with side effects, including gastrointestinal (GI) toxicity, which may manifest as dyspepsia, ulcers and/or bleeding. A number of approaches have been employed in an effort to either completely avoid or reduce the risk of GI toxicities associated with NSAID use. Two new products combining an NSAID with a gastroprotective agent have recently been approved and other agents are in the pipeline. Patient adherence to prescribed gastroprotective therapy is known to be poor, often resulting in an increased risk of GI events in patients taking NSAIDs. These newer combination products may fulfill an important need for many patients who need to receive NSAIDs for the pain of OA and RA, but who are also at risk of upper GI events. This",
+        "journal": "Expert review of gastroenterology & hepatology",
+        "year": "2012",
+        "authors": [
+          "Schiff Michael",
+          "Peura David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Anti-Ulcer Agents",
+          "Arthritis, Rheumatoid",
+          "Drug Combinations",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Famotidine",
+          "Female",
+          "Gastrointestinal Diseases",
+          "Gastrointestinal Tract",
+          "Histamine H2 Antagonists"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22149579/"
+      },
+      {
+        "pmid": "10493277",
+        "title": "Rofecoxib.",
+        "abstract": "Rofecoxib selectively inhibits cyclo-oxygenase-2 in a dose-dependent manner in humans. No significant inhibition of cyclo-oxygenase-1 is observed with rofecoxib up to doses of 1000 mg. In 4 large double-blind randomised trials performed in patients with osteoarthritis, rofecoxib 12.5 and 25 mg/day significantly improved physical functioning, assessed using the Western Ontario and McMasters Universities Osteoarthritis Index and patient or investigator global assessment, compared with placebo. In addition, rofecoxib showed similar clinical efficacy to that observed with diclofenac 50 mg 3 times daily, ibuprofen 800 mg 3 times daily and nabumetone 1500 mg once daily. Rofecoxib is also an effective analgesic in patients with primary dysmenorrhoea or postoperative dental pain and demonstrates similar analgesic efficacy to that of naproxen sodium and ibuprofen. Rofecoxib is generally well tolerated. The most common adverse events associated with rofecoxib are diarrhoea, headache, nausea and ",
+        "journal": "Drugs",
+        "year": "1999",
+        "authors": [
+          "Scott L J",
+          "Lamb H M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Clinical Trials as Topic",
+          "Cyclooxygenase Inhibitors",
+          "Drug Interactions",
+          "Dysmenorrhea",
+          "Enzyme Inhibitors",
+          "Humans",
+          "Lactones",
+          "Osteoarthritis",
+          "Sulfones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10493277/"
+      },
+      {
+        "pmid": "25141246",
+        "title": "Risk of upper gastrointestinal ulcers in patients with osteoarthritis receiving single-tablet ibuprofen/famotidine versus ibuprofen alone: pooled efficacy and safety analyses of two randomized, double-blind, comparison trials.",
+        "abstract": "Although anti-inflammatory doses of ibuprofen are very effective in treating the signs and symptoms of osteoarthritis (OA), they come with an increased risk for gastrointestinal damage which can limit their use and decrease patient adherence to therapy.",
+        "journal": "Postgraduate medicine",
+        "year": "2014",
+        "authors": [
+          "Bello Alfonso E",
+          "Kent Jeffrey D",
+          "Grahn Amy Y",
+          "Rice Patricia",
+          "Holt Robert J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Anti-Ulcer Agents",
+          "Drug Combinations",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female",
+          "Humans",
+          "Ibuprofen",
+          "Incidence",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25141246/"
+      },
+      {
+        "pmid": "12269850",
+        "title": "Valdecoxib.",
+        "abstract": "In ten large, well-controlled, randomised trials (n = 203 to 1089), valdecoxib, a selective inhibitor of cyclo-oxygenase-2, was significantly more effective than placebo in the treatment of osteoarthritis, rheumatoid arthritis and pain associated with primary dysmenorrhoea, and for postsurgical analgesia. Valdecoxib 1.25 to 10mg twice daily and valdecoxib 10mg once daily were more effective than placebo for the relief of pain in patients with osteoarthritis of the knee, and dosages above 5mg twice daily were similar in efficacy to naproxen 500mg twice daily. Similarly, valdecoxib 5 and 10 mg/day were as effective for osteoarthritis of the hip as naproxen 500mg twice daily. In patients with rheumatoid arthritis, valdecoxib 10, 20 or 40 mg/day was significantly more effective than placebo, and similar in efficacy to naproxen 500mg twice daily; there were no significant differences in efficacy between the three dosages of valdecoxib. Valdecoxib 20 or 40mg administered 1 to 3 hours before ",
+        "journal": "Drugs",
+        "year": "2002",
+        "authors": [
+          "Ormrod Douglas",
+          "Wellington Keri",
+          "Wagstaff Antona J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis",
+          "Clinical Trials as Topic",
+          "Dysmenorrhea",
+          "Female",
+          "Humans",
+          "Isoxazoles",
+          "Pain",
+          "Sulfonamides",
+          "Benzenesulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12269850/"
+      },
+      {
+        "pmid": "41114869",
+        "title": "Comparative efficacy of high intensity laser therapy (Class IV) and ibuprofen gel phonophoresis in the treatment of knee osteoarthritis among people living in hilly terrain: A randomized controlled study.",
+        "abstract": "Knee osteoarthritis (KOA) commonly causes pain and functional limitations, especially in hilly areas where mobility demands increase stress on the knee joint. High-Intensity Laser Therapy (HILT) and Ibuprofen Gel Phonophoresis (IGP) are both effective treatments, though comparative data is limited. Hence, we aimed to determine the effect of high-intensity laser therapy (HILT) (class-IV) and ibuprofen gel phonophoresis (IGP) for treating knee osteoarthritis (KOA) among people living in hilly terrain. A randomized controlled trial was conducted with 116 patients, aged 45 to 70, diagnosed with knee osteoarthritis (KOA) based on the Kellgren-Lawrence classification (grades I to IV). Participants were randomly assigned to two groups: the HILT group, which received 15 min of Class IV laser therapy in three phases, and the IGP group, which underwent 8 min of phonophoresis treatment with ibuprofen gel. Both groups followed a home exercise program three times a week for three weeks. Outcomes we",
+        "journal": "Lasers in medical science",
+        "year": "2025",
+        "authors": [
+          "Sharma Deeksha",
+          "Saini Vipin",
+          "Srivastav Adarsh Kumar",
+          "Samuel Asir John"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Osteoarthritis, Knee",
+          "Middle Aged",
+          "Ibuprofen",
+          "Phonophoresis",
+          "Male",
+          "Female",
+          "Aged",
+          "Treatment Outcome",
+          "Gels"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41114869/"
+      },
+      {
+        "pmid": "35234840",
+        "title": "Cardiorenal risk of celecoxib compared with naproxen or ibuprofen in arthritis patients: insights from the PRECISION trial.",
+        "abstract": "Non-steroidal anti-inflammatory drugs (NSAIDs) are among the most frequently used drugs, both prescribed and over the counter. The long-term cardiovascular safety of NSAIDs in patients with arthritis has engendered controversy. Concerns remain regarding the relative incidence and severity of adverse cardiorenal effects, particularly in arthritis patients with established cardiovascular (CV) disease or risk factors for disease as illustrated by the PRECISION (Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen) trial participants (NCT00346216).We further investigated whether the selective COX-2 Inhibitor celecoxib has a superior cardiorenal safety profile compared with ibuprofen or naproxen in the PRECISION population.",
+        "journal": "European heart journal. Cardiovascular pharmacotherapy",
+        "year": "2022",
+        "authors": [
+          "Obeid Slayman",
+          "Libby Peter",
+          "Husni Elaine",
+          "Wang Qiuqing",
+          "Wisniewski Lisa M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Cardiovascular Diseases",
+          "Celecoxib",
+          "Humans",
+          "Ibuprofen",
+          "Naproxen",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35234840/"
+      },
+      {
+        "pmid": "2670397",
+        "title": "Diclofenac sodium.",
+        "abstract": "The pharmacology, pharmacokinetics, clinical efficacy, adverse effects, and dosage of diclofenac sodium are reviewed. Diclofenac, the first nonsteroidal anti-inflammatory agent (NSAID) to be approved that is a phenylacetic acid derivative, competes with arachidonic acid for binding to cyclo-oxygenase, resulting in decreased formation of prostaglandins. The drug has both analgesic and antipyretic activities. Diclofenac is efficiently absorbed from the gastrointestinal tract; peak plasma concentrations occur 1.5 to 2.0 hours after ingestion in fasting subjects. Even though diclofenac has a relatively short elimination half-life in plasma (1.5 hours), it persists in synovial fluid. The drug is metabolized in the liver and is eliminated by urinary and biliary excretion. In clinical trials, diclofenac was as effective as aspirin, diflunisal, indomethacin, sulindac, ibuprofen, ketoprofen, and naproxen in improving function and reducing pain in patients with rheumatoid arthritis. For treatmen",
+        "journal": "Clinical pharmacy",
+        "year": "1989",
+        "authors": [
+          "Small R E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Diclofenac",
+          "Humans",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2670397/"
+      },
+      {
+        "pmid": "28850393",
+        "title": "NSAIDs relieve osteoarthritis (OA) pain, but cardiovascular safety in question even for diclofenac, ibuprofen, naproxen, and celecoxib: what are the alternatives?",
+        "abstract": "",
+        "journal": "Scandinavian journal of pain",
+        "year": "2017",
+        "authors": [
+          "Breivik Harald"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Diclofenac",
+          "Ibuprofen",
+          "Naproxen",
+          "Network Meta-Analysis as Topic",
+          "Osteoarthritis",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28850393/"
+      },
+      {
+        "pmid": "35585779",
+        "title": "Lessons from 20 years with COX-2 inhibitors: Importance of dose-response considerations and fair play in comparative trials.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) inhibit the enzyme cyclooxygenase (COX), which forms prostaglandins involved in pain and inflammation. COX inhibitors have analgesic and anti-inflammatory effects, but also increase risks for gastrointestinal ulcers, bleeding, and renal and cardiovascular adverse events. Identification of two isoforms of COX, COX-1 and COX-2, led to the development of selective COX-2 inhibitors, which were launched as having fewer gastrointestinal side effects since gastroprotective prostaglandins produced via COX-1 are spared. The balance between COX-1 mediated prothrombotic thromboxane and COX-2 mediated antithrombotic prostacyclin is important for thrombotic risk. An increased risk of suffering myocardial infarction and death with COX-2 inhibitor treatment is well established from clinical trials and observational research. Rofecoxib (Vioxx) was withdrawn from the market for this reason, but the equally COX-2 selective etoricoxib has replaced it in Europ",
+        "journal": "Journal of internal medicine",
+        "year": "2022",
+        "authors": [
+          "Stiller Carl-Olav",
+          "Hjemdahl Paul"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Cyclooxygenase 2",
+          "Cyclooxygenase 2 Inhibitors",
+          "Diclofenac",
+          "Etoricoxib",
+          "Fibrinolytic Agents",
+          "Humans",
+          "Ibuprofen",
+          "Lactones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35585779/"
+      },
+      {
+        "pmid": "320671",
+        "title": "Ibuprofen in osteoarthritis.",
+        "abstract": "In a double-blind, multiclinic study, 437 patients with osteoarthritis were treated sequentially with ibuprofen, 1,800 mg/day, and placebo, or with aspirin, 3,600 mg/day, and placebo. Each treatment was given for four weeks. Considering relief of pain, ability to function, and general well-being, the patients preferred drug to placebo, usually by a statistically significant margin. Combined results showed no significant differences between ibuprofen and aspirin. Patients' evaluations of exercise-related pain, ability to perform a selected activity, and total discomfort and disability, and physicians' evaluations of discomfort and disability, all favored drug over placebo, and the differences were significant for a number of endpoints. The results indicated ibuprofen, 1,800 mg/day, offers about the same antiarthritic benefit as aspirin, 3,600 mg/day. Both drugs are superior to placebo. The incidence of gastrointestinal complaints with ibuprofen was similar to that with placebo and signi",
+        "journal": "Southern medical journal",
+        "year": "1977",
+        "authors": [
+          "Giansiracusa J E",
+          "Donaldson M S",
+          "Koonce M L",
+          "Lefton T E",
+          "Ruoff G E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Activities of Daily Living",
+          "Aspirin",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Clinical Trials as Topic",
+          "Dextropropoxyphene",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Ibuprofen",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/320671/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:39:40.205206",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,647 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Salicylic Acid",
+    "disease": "acne"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06179056",
+      "title": "Anti-microbial Role of Non-antibiotic Agents Against Cutibacterium Acnes in Patients With Acne Vulgaris",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2023-03-01",
+      "completion_date": "2024-02-01",
+      "country": "Egypt",
+      "enrollment": 48,
+      "brief_summary": "* To evaluate and compare the anti-biofilm activity of Salicylic acid, Isotretinoin, and N-acetylcysteine against C. acne .\n* To assess the possible role of Salicylic acid, Isotretinoin, and N-acetylcysteine in improving the susceptibility of C. acne for Azithromycin and Doxycycline.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult Patients.\n* Patients of both sexes.\n* Patients with acne vulgaris with different grades\n\nExclusion Criteria:\n\n* Patients received topical or oral treatment within 6 weeks prior to microbiological sampling",
+      "endpoints": [
+        "inhibition of biofilm formation of c.acne after the use of Salicylic acid, Isotretinoin, and N-acetylcysteine",
+        "improvement of antibiotic sensitivity of c.acne after the use of Salicylic acid, Isotretinoin, and N-acetylcysteine"
+      ],
+      "sponsor": "Zagazig University",
+      "url": "https://clinicaltrials.gov/study/NCT06179056"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05497323",
+      "title": "Effectivity and Safety of Combination Cream of Salicylic Acid, Aqua Posae Filiformis, Niacinamide, Lipohydroxy Acid, Procerad and Zinc PCA as Adjuvant Therapy for Acne Vulgaris Mild to Moderate",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2022-08-01",
+      "completion_date": "2023-05-01",
+      "country": "Indonesia",
+      "enrollment": 284,
+      "brief_summary": "This clinical study will compare the effectivity and safety of combination cream of Salicylic Acid, Aqua Posae Filiformis, Niacinamide, Lipohydroxy Acid, Procerad, and Zinc PCA as adjuvant therapy for acne vulgaris patients. These combination cream will be tested by mild to moderate acne vulgaris patients. Participants will be female patients aged 15-50 years old and divided into three groups. The control group (Group 1) will use Adapalene 0.1% cream only every night. Group 2 will use Adapalene ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female aged 15 - 50 years\n* Mild and moderate acne vulgaris according to IAEM and GEA.\n* Patients are willing to participate in the study until it is finished.\n\nExclusion Criteria:\n\n* History of allergy to dermatocosmetic products.\n* Undergoing other acne therapy, medication, ",
+      "endpoints": [
+        "Change of acne severity",
+        "Change of acne severity",
+        "Change of Level Of Seborrhea"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT05497323"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05779085",
+      "title": "ASSESSMENT OF CLINICAL, INSTRUMENTAL AND NOTICED EFICACY BY SUBJECTS OF A COSMETIC PRODUCT 12.0417.01.090 UNDER NORMAL CONDITIONS OF USE Study With Dermatological Follow-up Including Instrumental Measurements",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2013-04-08",
+      "completion_date": "2013-07-22",
+      "country": "Brazil",
+      "enrollment": 56,
+      "brief_summary": "A clinical study with 56 healthy subjects (both sexes) aged between 13 to 25 years old. Subjects enrolled had a minimum of 5 inflammatory lesions (papules, nodules and pustules) and 10 non-inflammatory lesions (open and closed comedones), determined by dermatologist. The clinical evaluation considered in oiliness, shininess and global aspect of the skin too. Instrumental assessment of oiliness and shininess was performed, respectively, by Sebumeter and Sebutape.\n\nIThe tested cleanser was used tw",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* subjects aged 13-25 years\n* mild to moderate acne on the face\n* signed informed consent\n\nExclusion Criteria:\n\n* subjects below 13 years and above 26 years\n* severe acne on the face",
+      "endpoints": [
+        "Global lesion count",
+        "Global lesion count",
+        "Closed comedones"
+      ],
+      "sponsor": "Cosmetique Active International",
+      "url": "https://clinicaltrials.gov/study/NCT05779085"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06120452",
+      "title": "A Clinical Trial to Evaluate the Effectiveness of an Acne Serum in Improving Facial Acne and Post-Acne Pigmentation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-10-06",
+      "completion_date": "2024-01-31",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study will evaluate the efficacy of the Rael Miracle Clear Complete Acne Serum product in improving facial acne and post-acne pigmentation. This study will last for 56 days. The study will be conducted as a single-arm trial where all participants will use the test products. Participants will be required to complete questionnaires at Baseline, Day 1, Day 3, Day 7, Day 14, Day 28, and Day 56. Photos will be taken at Baseline, Day 28, and Day 56. The photos from Baseline and Day 56 will underg",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female. Age 18+. Currently experiencing mild to moderate acne issues. Generally healthy -and not living with any uncontrolled chronic disease.\n\nExclusion Criteria:\n\n* Anyone with pre-existing chronic conditions that would prevent participants from adhering to the protocol, inc",
+      "endpoints": [
+        "Changes in the appearance of facial acne. [Timeframe: Baseline to Day 56]",
+        "Changes in the appearance of post-acne pigmentation. [Timeframe: Baseline to Day 56]"
+      ],
+      "sponsor": "Rael",
+      "url": "https://clinicaltrials.gov/study/NCT06120452"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01160848",
+      "title": "A Clinical Study of Photoactive Porphyrins (PAP) Levels in Acne-affected Skin After Topical Visonac Application in Patients With Moderate to Severe Facial Acne Vulgaris",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "Open, prospective, randomized, single-centre study in patients with moderate to severe facial acne vulgaris. Three circular areas with a diameter of 4 cm, each circle including at least 4 inflammatory lesions, will be selected in acne-affected areas in the face. One area should be identified on each cheek and one area should be identified on the forehead. The minimum distance between the three areas should be at least 4 cm. For each patient the three areas will be randomized to either a pre-trea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed and verified informed consent form. For patients under age of 18, an assent form in conjunction with an informed consent form, signed and verified by parent/guardian.\n* Adolescent and adult female and male patients, from 12 to 35 years of age.\n* Patients with moderate t",
+      "endpoints": [
+        "Photoactive Porphyrins Level",
+        "Photoactive Porphyrins Level",
+        "Photoactive Porphyrins Level"
+      ],
+      "sponsor": "Photocure",
+      "url": "https://clinicaltrials.gov/study/NCT01160848"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02052752",
+      "title": "A Randomized, Double-blinded Study to Evaluate the Ability of an Acne Treatment Product to Produce Visible Improvements in Acne Lesions Over a 5 Day Period of Once-daily Use",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-02",
+      "completion_date": "2014-05",
+      "country": "United States",
+      "enrollment": 90,
+      "brief_summary": "5 Day study to assess how quickly a topical acne product begins to work.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Capable of understanding and willing to provide signed and dated written voluntary informed consent (and any local or national authorization requirements) before any protocol specific procedures are performed.\n2. Fitzpatrick Skin Type I - V.\n3. Male or female aged from 12 to ",
+      "endpoints": [
+        "To Assess the Percentage Change in Acne Lesion Swelling (Height) of the Target Lesion for 3% Benzoyl Peroxide (BPO) Gel Test Product Relative to the Vehicle Gel After 4 Once-daily Applications."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02052752"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06775314",
+      "title": "The Effectiveness and Safety of Cleanser Containing Triethyl Citrate, Pyruvic Acid, Combination Cream Containing Triethyl Citrate, Ethyl Linoleate, GT Peptide-10, Salicylic Acid 0,5%, Zinc Lactate, Hyaluronic Acid and Spot Cream Containing Triethyl Citrate, Ethyl Linoleate, GT Peptide-10, Honokiol As Adjuvant Therapy for Mild to Moderate Acne Vulgaris",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-03-01",
+      "completion_date": "2025-06-30",
+      "country": "Indonesia",
+      "enrollment": 102,
+      "brief_summary": "The goal of this clinical study is to learn the effectiveness and safety of Cleanser containing Triethyl citrate, Pyruvic acid, Combination cream containing Triethyl citrate, Ethyl linoleate, GT peptide-10, Salicylic acid 0,5%, Zinc lactate, Hyaluronic acid and Spot cream containing Triethyl citrate, Ethyl linoleate, GT peptide-10, Honokiol as Adjuvant Therapy for Mild to Moderate Acne Vulgaris. This research aims to answer the main questions, those are :\n\n1. How is the effectiveness of Cleanser",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female and male aged 15-50 years\n* mild to moderate acne vulgaris according to IAEM (Indonesian Acne Expert Meeting) scale and GEA ( Global Acne Severity) scale\n* The subject is willing to participate in the study until it is finished\n\nExclusion Criteria:\n\n* History of allergy",
+      "endpoints": [
+        "Change of acne severity",
+        "Change of acne severity",
+        "total of inflammation lesion and non inflammation lesion"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT06775314"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07401342",
+      "title": "An Assessment of the Efficacy and Safety of Employing a Duosomal Chemical Peel for Aesthetic Enhancement in the Periocular and Facial Regions",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-11-01",
+      "completion_date": "2024-01-31",
+      "country": "Mexico",
+      "enrollment": 12,
+      "brief_summary": "This study will employ an experimental, prospective, longitudinal, and comparative before-and-after design. The objective is to assess the efficacy and safety of duosomal chemical peels as agents for enhancing the aesthetic appearance of the periocular and facial regions",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Individuals aged 21 years and older, both male and female, who seek enhancement of the periocular and facial regions will be considered for recruitment. Participants must agree to the study conditions, consent to the follow-up period as proposed, and provide informed consent f",
+      "endpoints": [
+        "Objective skin quality improvement",
+        "Subjective skin quality improvement"
+      ],
+      "sponsor": "Instituto de Oftalmología Fundación Conde de Valenciana",
+      "url": "https://clinicaltrials.gov/study/NCT07401342"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05469880",
+      "title": "Evaluation of the Efficacy and Tolerance of Formula 609613 37 in Acneic Patients as an Adjunct to and in Addition to 5% Benzoyl Peroxide for 6 Months",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-10-21",
+      "completion_date": "2010-05-25",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Acne affects most adolescents and young adults with varying severity and presentation. For early or localized forms, the first-line treatment is usually local. The available treatments often lead to local irritation, particularly during the first few weeks of use. This is why creams containing exfoliating agents have long been used in acne, as they are considered to allow a faster disappearance of superficial lesions.\n\nThe objective of this 6-month double-blind study is to demonstrate in 100 acn",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* acneic facial skin\n* between 20 and 50 non-inflammatory lesions on the face\n* between 10 and 40 superficial inflammatory lesions on the face\n* no local acneic treatment in the previous 15 days\n* no treatment with isotretinoin in the previous 3 months\n* agreeing to apply only t",
+      "endpoints": [
+        "change in the composite score"
+      ],
+      "sponsor": "Cosmetique Active International",
+      "url": "https://clinicaltrials.gov/study/NCT05469880"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05821296",
+      "title": "Evaluation of the Efficacy and Tolerance of Crystal Peel (a Salicylic Acid Based Peel) in the Treatment of Acne",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-01-23",
+      "completion_date": "2023-06-07",
+      "country": "Poland",
+      "enrollment": 42,
+      "brief_summary": "The goal of this interventional, confirmatory and post market study is to evaluate the efficacy and clinical performance of Crystal Peel in adults suffering mild facial acne vulgaris. The principal and secondary aims are:\n\n* Principal aim: to evaluate the efficacy and clinical performance of Crystal Peel, a salicylic-based peel, for the treatment of acne by lesions counting (front, 2 cheeks, the chin above the jaw line (excluding the nose)) using both visual observation and palpation.\n* Secondar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy subjects\n2. Gender: female and/or male.\n3. Age: 18 - 45\n4. Phototype I to IV according Fitzpatrick scale.\n5. Healthy subject with normal physical examination results and a medical history compatible with the requirements of the study.\n6. A healthy male or female subje",
+      "endpoints": [
+        "Comparison of the Change From Baseline of Count Lesions on Each Visit to Evaluate the Efficacy and Clinical Performance of Crystal Peel for the Treatment of Acne."
+      ],
+      "sponsor": "Dermosciences France",
+      "url": "https://clinicaltrials.gov/study/NCT05821296"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06943118",
+      "title": "Comparison of Efficacy of 35% Glycolic Acid vs 20% Salicylic Acid Peel in the Treatment of Post Acne Scars",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04",
+      "completion_date": "2025-10",
+      "country": "Pakistan",
+      "enrollment": 60,
+      "brief_summary": "The goal of this clinical trial is to compare the effectiveness of two drugs in patients that presents with scars on face after acnes. The effectiveness will be measured by a goodman and baron scale. One group of patients will receive 35% glycolic acid while other group of patients will receive 20% salicylic acid and both groups will be followed by 12 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 18-45 years with mild to moderate atrophic post acne scars\n* Fitzpatrick skin type 2-4\n* No active acne or ongoing systemic acne treatment\n\nExclusion Criteria:\n\n* Pregnancy and breast feeding\n* History of keloid or hypertrophic scars\n* Use of retinoids or chemica",
+      "endpoints": [
+        "improvement in acne scars as per Goodman and baron scale"
+      ],
+      "sponsor": "Hayatabad Medical Complex",
+      "url": "https://clinicaltrials.gov/study/NCT06943118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05584150",
+      "title": "Assessment of the Benefit of a Deep Cleansing Gel Containing Salicylic Acid 2%, Zinc Gluconate 0.2% and Lipohydroxy Acids 0.05% in Patients With Mild to Moderate Truncal Acne: Results From an Exploratory Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-10-01",
+      "completion_date": "2020-11-30",
+      "country": "Brazil",
+      "enrollment": 35,
+      "brief_summary": "Acne vulgaris is a chronic inflammatory disease, mainly of the face, but also of the trunk. Acne may be caused by internal and external factors. Only a very small amount of data exists concerning truncal acne. The condition affects about 9% of the population worldwide, with 50% of subjects with facial acne also presenting with truncal acne. Until recently, clinicians frequently followed the same therapeutic approach as for facial acne, with treatment adherence remaining an issue.\n\nThis study ass",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* above 18 years\n* truncal acne\n\nExclusion Criteria:\n\n\\- None",
+      "endpoints": [
+        "Investigator global assessment",
+        "Investigator global assessment",
+        "Investigator global assessment"
+      ],
+      "sponsor": "Cosmetique Active International",
+      "url": "https://clinicaltrials.gov/study/NCT05584150"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01706263",
+      "title": "U0289-402: An Open Label, 8 Week Study to Evaluate the Efficacy and Tolerability of MAXCLARITY II in Subjects With Acne",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-08-01",
+      "completion_date": "2009-11-20",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "One of the main success factors in acne therapy is user compliance with treatment, product cost, availability and ease of use. Poor compliance may translate into decreased efficacy (either not improving symptoms well enough or not improving symptoms fast enough), tolerability issues or adverse effects (eg, erythema, dryness, or peeling of the skin), a lack of understanding of the instructions for use, or product cost/availability. Whatever the reason, poor compliance translates to decreased effi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Capable of understanding and willing to provide signed and dated written voluntary informed consent (and any local or national authorization requirements) before any protocol specific procedures are performed.\n2. Male or female aged from 16 to 29 years, inclusive, at time of ",
+      "endpoints": [
+        "Mean Percent Change in Inflammatory, Non Inflammatory, and Total Lesion Counts From Baseline to Week 8"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01706263"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03859843",
+      "title": "Efficacy and Antimicrobial Activity of Platelet Rich Plasma (PRP) in Acne Vulgaris : A Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-01-10",
+      "completion_date": "2022-05-10",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "Efficacy and Antimicrobial activity of Platelet Rich Plasma (PRP) in Acne Vulgaris : A randomized controlled trial",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with active acne vulgaris lesions (inflammatory and non-inflammatory).\n* Age range from 14 to 40 years.\n* Patients with any topical and systemic treatments will undergo wash out period of one month.\n\nExclusion Criteria:\n\n* Patients with herpes labials, or bacterial in",
+      "endpoints": [
+        "Cure rate"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03859843"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04002024",
+      "title": "A Randomized Controlled Trial of Efficiency of Moisturizer Containing Licochalcone A, Decanediol, L-carnitine and Salicylic Acid in Reducing Relapsing of Acne in Thai Acne Subjects",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-06-01",
+      "completion_date": "2020-05-01",
+      "country": "Thailand",
+      "enrollment": 50,
+      "brief_summary": "Moisturizer containing the active ingredients of licochalcone A, decanediol, L-carnitine, and salicylic acid may be beneficial in alternative treatment of acne in maintenance phase. This study aims to evaluate the efficacy and safety of moisturizer containing the active ingredients of licochalcone A, decanediol, L-carnitine, and salicylic acid during the maintenance phase of acne in Thai patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who had age more than 18 years\n2. Female patients must use any reliable contraceptive methods except contraceptive pills for at least 1 month prior to the study and 6 months after the completion of the study\n3. Being diagnosed acne vulgaris by dermatologist. Patients",
+      "endpoints": [
+        "Reduction of acne lesion count of moisturizer containing the active ingredients of licochalcone A, decanediol, L-carnitine, and salicylic acid",
+        "Relapse rate of acne of moisturizer containing the active ingredients of licochalcone A, decanediol, L-carnitine, and salicylic acid",
+        "Time to acne relapse of moisturizer containing the active ingredients of licochalcone A, decanediol, L-carnitine, and salicylic acid"
+      ],
+      "sponsor": "Mahidol University",
+      "url": "https://clinicaltrials.gov/study/NCT04002024"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05536193",
+      "title": "Efficacy and Safety of Topical Metformin Emulgel Versus Salicylic Acid Peeling in Treatment of Acne Vulgaris: A Split Face Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-09-10",
+      "completion_date": "2023-09-10",
+      "country": "N/A",
+      "enrollment": 34,
+      "brief_summary": "Acne Vulgaris (AV ) is a common skin disorder worldwide, affecting all ages and races, considered as a long term chronic inflammatory disease of the skin.It affects nearly 85% of adolescents and about 30% of adults which is known as post- adolescent acne that often occurs in individuals aged 25 years or older particularly women.\n\nAcne lesions, which may be papules, pustules, or nodules commonly affecting face, chest and back therefore acne patients may suffer from emotional distress due to its c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Both males and females will be included.\n* Patients older than 18 years of age.\n* Patients with mild and moderate AV.\n* Patients with Fitzpatrick skin type III, IV and V.\n\nExclusion Criteria:\n\n* Severe acne.\n\n  * Patients under treatment with contraceptive pills or received an",
+      "endpoints": [
+        "Efficacy of the medications",
+        "Evaluate effect of topical metformin on decreasing serum concentration of insulin-like growth factor 1 (IGF-1)"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT05536193"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02524665",
+      "title": "U0289-404: An Evaluator Blinded, 8 Week, Split Face Study to Evaluate and Compare the Efficacy and Tolerability of MAXCLARITYII and MURAD in Subjects With Acne",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2009-12",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "One of the main success factors in acne therapy is user compliance with treatment, product cost, availability and ease of use. Poor compliance may translate into decreased efficacy (either not improving symptoms well enough or not improving symptoms fast enough), tolerability issues or adverse effects (eg, erythema, dryness, or peeling of the skin), a lack of understanding of the instructions for use, or product cost/availability. Whatever the reason, poor compliance translates to decreased effi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Capable of understanding and willing to provide signed and dated written voluntary informed consent (and any local or national authorization requirements) before any protocol specific procedures are performed.\n2. Male or female aged from 16 to 29 years, inclusive, at time of ",
+      "endpoints": [
+        "Mean Percent Change in Inflammatory, Non-inflammatory and Total Lesion Counts From Baseline to Week 8."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02524665"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02755545",
+      "title": "A Multi-Center Clinical Trial to Evaluate the Efficacy of Two Acne Treatments",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-05-01",
+      "completion_date": "2017-04-04",
+      "country": "United States",
+      "enrollment": 127,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of 2 acne treatments for 24 weeks of use in adult men and women with mild to moderate facial acne, at least 5 inflammatory lesions, and at least 10 - 100 non-inflammatory lesions.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Men and women age 21 to 45 years at the time of enrollment.\n2. Individuals with mild to moderate acne (score of 2-3 on FDA Investigator's Global Assessment Scale1) on the face.\n3. Individuals with at least 5 inflammatory lesions.\n4. Individuals with 10 - 100 non-inflammat",
+      "endpoints": [
+        "Percent Change From Baseline in Total Lesions at Week 12"
+      ],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT02755545"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01179633",
+      "title": "Acne Treatment With Active Patches Which Contains Azelaic Acid, Citric Acid,Salicylic Acid and 2% Ascorbic Acid",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-03",
+      "completion_date": "2010-06",
+      "country": "Israel",
+      "enrollment": 35,
+      "brief_summary": "The purpose of this study was to demonstrate the effect of short treatment with active OPLON patches on Acne.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Acne Vulgaris\n* Over 18 years\n* Signing informed consent\n\nExclusion Criteria:\n\n* Active treatment of acne\n* Change in hormonal therapy\n* Antibiotic treatment in a week prior to the experiment\n* Sensitive skin\n* Pregnancy",
+      "endpoints": [
+        "Severity Score of lesion"
+      ],
+      "sponsor": "Oplon-Pure Science Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01179633"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00848744",
+      "title": "A Split-Face, Paired-Comparison, Pilot Study to Evaluate Safety and Efficacy of Two Topical Salicylic Acid 1.0% Creams for Mild to Moderate Acne Vulgaris",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2008-08",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "This study is a split face, paired-comparison, pilot study of at least 10 subjects to complete. Participants in this study will be patients seen at Children's Memorial Hospital, who are clinically diagnosed with mild to moderate acne vulgaris. Participants will be recruited from one of the clinics, as well as from previous Institutional Review Board (IRB) approved acne studies housed in the Department of Dermatology. All subjects accrued from previous studies have agreed to be contacted for furt",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy male or female subjects who are 13 to 35 years of age.\n2. Subjects are in good health and are free of any other facial skin disorders that may interfere with acne study assessments.\n3. Subjects have the willingness and ability to understand and provide informed assent",
+      "endpoints": [
+        "Physician Global Assessment"
+      ],
+      "sponsor": "Northwestern University",
+      "url": "https://clinicaltrials.gov/study/NCT00848744"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01139749",
+      "title": "Clinical, Laboratorial and Quality of Life Trial to Evaluate the Efficacy and Safety of Low-dose Oral Isotretinoin for Seborrhea.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2011-10",
+      "completion_date": "2012-12",
+      "country": "Brazil",
+      "enrollment": 50,
+      "brief_summary": "Oral isotretinoin is the gold standard drug to treat moderate to severe acne. Other indications like seborrhea, seborrheic dermatitis have been suggested. There is risk of reversible mucocutaneous side effects, as well as alterations in lipid profile and transaminases. The major problem is teratogenicity which demands pregnancy control from treatment beginning to one month after treatment end. Seborrhea and seborrheic dermatitis are chronic conditions characterized by oily skin, hair and scalp, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* consent form signature\n* presence of seborrhea and / or seborrheic dermatitis on face and scalp\n* good health\n* no previous treatment with oral isotretinoin in the last 6 months\n* normal laboratorial tests: pregnancy test, blood counting, transaminases and lipide profile\n* con",
+      "endpoints": [
+        "Sebum secretion rate",
+        "sebum secretion rate"
+      ],
+      "sponsor": "Federal University of São Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT01139749"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04154436",
+      "title": "Effectiveness, Safety, and Cost Efficacy of Water (H2O) as a Substitute for Sodium Bicarbonate (NaHCO3) Plus Solution in Neutralization of Chemical Peeling Using 35% Glycolic Acid Solution",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-09-17",
+      "completion_date": "2019-12-31",
+      "country": "Indonesia",
+      "enrollment": 126,
+      "brief_summary": "Chemical peeling is an applied procedure which creates controlled destruction of all layers of the epidermis or dermis, subsequently causes exfoliation followed by regeneration of layers with the final result of improved texture and appearance of the skin. Various indications of chemical peeling actions include damage to skin structure (skin aging, scars, pigmentation disorders), superficial tumors (seborrheic keratosis, lentigo, actinic keratosis), and inflammation such as acne vulgaris. Variou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 18-60 years old, male or female,\n2. Patients who visited the outpatient department of Cosmetic Dermatology Division in RSCM with almost symmetrical lesions and will undergo chemical peeling procedure using 35% glycolic acid solution\n3. Patients who have received priming with ",
+      "endpoints": [
+        "Erythema degree",
+        "Erythema degree",
+        "Erythema degree"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT04154436"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01446237",
+      "title": "An Open-Label, 12-Week Study to Evaluate the Efficacy and Safety of the Acne System (Benzoyl Peroxide 2.5%, Salicylic Acid 0.5%) in Subjects With Acne",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-06-01",
+      "completion_date": "2011-12-15",
+      "country": "United States",
+      "enrollment": 125,
+      "brief_summary": "This study is being conducted to obtain safety, efficacy, and satisfaction data on the combination of topical Benzoyl Peroxide (BPO) 2.5% and the topical keratolytic agent Salicylic Acid (SA) 0.5% in the treatment of moderate to severe acne. Subjects with moderate or severe acne will be asked to apply the commercially available, over-the-counter products Foam Deep Cleanser (2.5% BPO), Foam Advanced Acne Treatment (2.5% BPO), and Foam Rejuvenating Toner (0.5% SA) daily for 12 weeks. No control gr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Capable of understanding and willing to provide signed and dated written voluntary informed consent (and any local or national authorization requirements) before any protocol-specific procedures are performed.\n* Male or female ages 12 to 35 years, inclusive at time of consent.",
+      "endpoints": [
+        "Mean Percent Changes in Inflammatory (IL), Non-inflammatory (NIL), and Total Lesion (TL) Counts From Baseline to Each Study Visit",
+        "Number of Participants With a Minimum 2-grade Improvement of Investigator's Static Global Assessment (ISGA) From Baseline to Each Study Visit",
+        "Number of Participants With ISGA Score of 0 (Clear) or 1 (Almost Clear) at Each Study Visit"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01446237"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05712837",
+      "title": "Efficacy of 25% Trichloroacetic Acid Peel Versus 30% Salicylic Acid Peel in Mild to Moderate Acne Vulgaris",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-06-01",
+      "completion_date": "2022-11-30",
+      "country": "Pakistan",
+      "enrollment": 60,
+      "brief_summary": "To compare the efficacy of 25% trichloroacetic acid peel versus 30% salicylic acid peel in mild to moderate acne vulgaris.\n\nStudy Design: Randomized Control Trial. Place And Duration of Study: Department of Dermatology, CMH Abbottabad from 01 Jun 2022 to 30th Nov, 2022.\n\nMethodology: A total of 60 patients presented with mild or moderate acne vulgaris were randomized into two groups comprising 30 patients in each group and treated with either the TCA peel or the SA peel at 2-week intervals for 1",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with mild or moderate facial acne vulgaris presented in dermatology opd\n\nExclusion Criteria:\n\n* Patients with grade III or IV acne vulgaris\n* patients taking any acne medications or had taken oral or topical medications in the past 4 weeks\n* pregnant female patients o",
+      "endpoints": [
+        "Effectiveness of 25 % trichloroacetic acid peel versus 30 % salicylic acid peel in the treatment of mild to moderate acne vulgaris"
+      ],
+      "sponsor": "Combined Military Hospital Abbottabad",
+      "url": "https://clinicaltrials.gov/study/NCT05712837"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01706250",
+      "title": "U0289-401: An Evaluator Blinded, 8 Week, Split-Face Study to Evaluate and Compare the Efficacy and Tolerability of MAXCLARITY II and PROACTIV in Subjects With Acne",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-09-01",
+      "completion_date": "2010-01-25",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "One of the main success factors in acne therapy is user compliance with treatment, product cost, availability and ease of use. Poor compliance may translate into decreased efficacy (either not improving symptoms well enough or not improving symptoms fast enough), tolerability issues or adverse effects (eg, erythema, dryness, or peeling of the skin), a lack of understanding of the instructions for use, or product cost/availability. Whatever the reason, poor compliance translates to decreased effi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Capable of understanding and willing to provide signed and dated written voluntary informed consent (and any local or national authorization requirements) before any protocol specific procedures are performed.\n2. Male or female aged from 16 to 29 years, inclusive, at time of ",
+      "endpoints": [
+        "Mean Percent Change in Inflammatory Lesion (IL), Non-inflammatory Lesion (NIL), and Total Lesion (TL) Counts From Baseline (BL) (Day 1) to Week (Wk) 8."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01706250"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00361322",
+      "title": "Topical Clindamycin Salicylic Acid Preparation for the Treatment of Acne Vulgaris",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2006-01",
+      "country": "Israel",
+      "enrollment": 40,
+      "brief_summary": "The concept behind our study was to combine an effect of antibiotic and anti-inflammatory agents for a more efficient acne therapy directed at the factors involved in the pathophysiology of the disease. For this purpose we evaluated a combination of clindamycin phosphate and salicylic acid in a non-irritating carrier.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* mild to moderate acne vulgaris;\n* at least 5 lesions on the face;\n* a one-month wash-out period was established for any topical or systemic drug use for treatment of acne vulgaris.\n\nExclusion Criteria:\n\n* acne that was primarily truncal, nodular, or due to secondary causes/int",
+      "endpoints": [
+        "Lesions count at the baseline (week 0)",
+        "Lesions count at the end of study (week 8)"
+      ],
+      "sponsor": "Hadassah Medical Organization",
+      "url": "https://clinicaltrials.gov/study/NCT00361322"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03071549",
+      "title": "Clinical and Dermoscopic Study Using a Combination of Salicylic and Azaleic Acid Verus Trichloroacetic Acid 25% Peel in Treatment of Mild to Moderate Acne , A Split Face, Double Blinded, Randomised Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-04",
+      "completion_date": "2016-11",
+      "country": "N/A",
+      "enrollment": 34,
+      "brief_summary": "Acne patients were included in this randomized controlled trial. Each patient received four treatment sessions two weeks apart. 20% azelaic acid combined with 20% salicylic acid were applied to the one side of the face while 25% trichloroacetic acid was applied to the other side. Evaluation was done by counting number of non-inflammatory and inflammatory lesions before, after two and after four treatment sessions. The dermoscope was used in evaluating the degree of improvement of erythema.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* any patients with active acne\n\nExclusion Criteria:\n\n1. Pregnancy.\n2. History of oral herpes simplex virus.\n3. History of keloid formation.\n4. Associated autoimmune disease (e.g vitiligo, systemic lupus erythematosus).\n5. History of past medications in the last six months.\n6. P",
+      "endpoints": [
+        "Change in acne lesions count"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT03071549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01260766",
+      "title": "Phase II- Acne Treatment With Active Patches Which Contains Azelaic Acid, Citric Acid,Salicylic Acid and 2% Ascorbic Acid",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2011-01",
+      "completion_date": "2011-06",
+      "country": "Israel",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this study was to demonstrate the effect of short treatment with active OPLON patches on Acne.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Acne Vulgaris\n* Over 15 years\n* Signing informed consent\n\nExclusion Criteria:\n\n* Active treatment of acne\n* Change in hormonal therapy\n* Antibiotic treatment in a week prior to the experiment\n* Sensitive skin\n* Pregnancy",
+      "endpoints": [
+        "Severity Score of lesion"
+      ],
+      "sponsor": "Oplon-Pure Science Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01260766"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05446402",
+      "title": "Double Blinded, Split Face Investigation of the Tolerability of Two Facial Cleansing Routines for Mild to Moderate Acne",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-06-15",
+      "completion_date": "2023-12-31",
+      "country": "United States",
+      "enrollment": 29,
+      "brief_summary": "The objective of this study is to compare tolerability of two similar commercially available over the counter acne regimens (Geologie and Proactiv) in individuals with mild to moderate acne vulgaris over a 12-week daily treatment course.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years or older\n* No known active skin infection.\n* Presence of mild or moderate acne on face (clinical diagnosis or self-report)\n* Willingness to give written consent and comply with study procedures.\n\nExclusion Criteria:\n\n* Active skin infection.\n* Inability to understand ",
+      "endpoints": [
+        "Change in IGA Score between Geologie and ProActiv daily treatment"
+      ],
+      "sponsor": "Northwestern University",
+      "url": "https://clinicaltrials.gov/study/NCT05446402"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07240051",
+      "title": "Assessment of the Efficacy and Safety of 50% Glycolic Acid, 30% Salicylic Acid, and Modified Jessner's Chemical Peels in the Treatment of Active Acne and Post-acne Hyperpigmentation: Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-03-09",
+      "completion_date": "2024-07-12",
+      "country": "Egypt",
+      "enrollment": 90,
+      "brief_summary": "Assessment of the Efficacy and Safety of 50% Glycolic Acid, 30% Salicylic Acid, and Modified Jessner's Chemical Peels in the Treatment of Active Acne and Post-acne Hyperpigmentation: Randomized Controlled Trial.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Facial active acne (mild and moderate cases)\n* post-acne hyperpigmentation\n* a minimum age of 18 years\n* skin phototype III or IV\n\nExclusion Criteria:\n\n* Pregnant or nursing women\n* active infection in the treatment area (e.g., verrucae and herpes simplex)\n* systemic disease (",
+      "endpoints": [
+        "improvement in acne vulgaris by assessing Global acne scoring system and post-acne hyperpigmentation index"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT07240051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03832647",
+      "title": "Multicentric, Parallel, Randomized, Double Blind Study Under Dermatological Control to Evaluate the Anti-acne Efficacy of a Dermo-cosmetic Product (Fla 688977 33) Associated With the Fixed Combination Adapalene 0.1%/ Benzoyl Peroxide 2.5% Treatment Versus This Treatment Associated With a Standard Moisturizer (Hydréane légère, Cosmétique Active International) During a 12-week Application Period in Male and Female Subjects Presenting With Mild to Moderate Acne",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-02-18",
+      "completion_date": "2020-02-17",
+      "country": "France",
+      "enrollment": 200,
+      "brief_summary": "Study to evaluate the anti-acne efficacy of a dermo-cosmetic associated with the fixed combination Adapalene 0.1%/ benzoyl peroxide 2.5% treatment and to demonstrate that the dermo-cosmetic product can improve the local tolerance of the fixed combination Adapalene 0.1%/ benzoyl peroxide 2.5% treatment\n\nMulti centre, Randomised, Double blind, Controlled, Parallel (100 subjects per arm), Intra-subject \\& inter subject comparisons",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and/or female subjects aged 16 to 35 years\n2. Subjects presenting with mild to moderate acne (stage 2 or stage 3 with at least 12 inflammatory lesions on face according to the Global Acne Evaluation)\n3. Female subjects of child-bearing potential who:\n\n   * use the same r",
+      "endpoints": [
+        "Evaluation of the anti-acne efficacy 1 (number of the retentional and inflammatory lesions)"
+      ],
+      "sponsor": "Vichy Laboratoires",
+      "url": "https://clinicaltrials.gov/study/NCT03832647"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00624676",
+      "title": "Randomized Study Comparing the Efficacy and Tolerance of a Lipophilic Hydroxy Acid Derivative of Salicylic Acid and 5% Benzoyl Peroxide in the Treatment of Facial Acne Vulgaris",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2006-08",
+      "country": "Canada",
+      "enrollment": 80,
+      "brief_summary": "Acne vulgaris is a frequent inflammatory skin condition involving the pilosebaceous unit and affecting more than 80% of teenagers. Mild to moderate acne vulgaris is usually treated with topical agents such as benzoyl peroxide, retinoids and antibiotics. These treatments can be associated with local tolerance problems and/or antibiotic resistance. Salicylic acid has been shown to be an effective treatment for acne. LHA is a lipophilic hydroxy acid derivative of salicylic acid that has comedolytic",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years old or older\n* Phototype greater than I\n* Facial inflammatory acne with 15-50 inflammatory lesions and less than 50 non-inflammatory lesions (excluding the nasal pyramid)\n* Did not receive a topical acne treatment in the last 15 days\n* Did not receive cyclins or zinc-",
+      "endpoints": [
+        "Reduction in inflammatory lesions"
+      ],
+      "sponsor": "Cosmetique Active International",
+      "url": "https://clinicaltrials.gov/study/NCT00624676"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04490967",
+      "title": "Topical Silymarin Cream Versus Salicylic Acid Peeling in Treatment of Acne Vulgaris: Split Face Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2021-04",
+      "completion_date": "2021-12",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "Acne vulgaris is a disease of the pilosebaceous unit that causes noninflammatory lesions (open and closed comedones), inflammatory lesions (papules, pustules, and nodules), and varying degrees of scarring. Acne vulgaris is an extremely common condition with a lifetime prevalence of approximately 85% and occurs mostly during adolescence.\n\nAcne vulgaris leads to significant morbidity that is associated with residual scarring and psychological disturbances such as poor self-image, depression, and a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients older than 18 years of age.\n* Patients with mild and moderate acne vulgaris.\n* Patients with Fitzpatrick skin type III, IV and V.\n\nExclusion Criteria:\n\n* Severe acne.\n* Patients under treatment with contraceptive pills or any kind of systemic or topic acne medication ",
+      "endpoints": [
+        "Efficacy of the medication: number of inflammatory, non-inflammatory and total lesions",
+        "assessment of tolerability: interviewing the patients"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT04490967"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01180543",
+      "title": "Phase II- Acne Treatment With Active Patches Which Contains Azelaic Acid, Citric Acid,Salicylic Acid and 2% Ascorbic Acid",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2010-12",
+      "country": "Israel",
+      "enrollment": 40,
+      "brief_summary": "The purpose of this study was to demonstrate the effect of short treatment with active OPLON patches on Acne.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Acne Vulgaris\n* Over 18 years\n* Signing informed consent\n\nExclusion Criteria:\n\n* Active treatment of acne\n* Change in hormonal therapy\n* Antibiotic treatment in a week prior to the experiment\n* Sensitive skin\n* Pregnancy",
+      "endpoints": [
+        "Severity Score of lesion"
+      ],
+      "sponsor": "Oplon-Pure Science Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01180543"
+    }
+  ],
+  "timestamp": "2026-03-04T13:28:45.402759",
+  "success": true,
+  "error_message": null
+}

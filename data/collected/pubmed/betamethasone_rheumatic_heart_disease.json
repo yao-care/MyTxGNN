@@ -1,0 +1,120 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Betamethasone",
+    "disease": "rheumatic heart disease",
+    "query_string": "Betamethasone AND rheumatic heart disease"
+  },
+  "data": {
+    "query": "Betamethasone AND rheumatic heart disease",
+    "results": [
+      {
+        "pmid": "5854785",
+        "title": "[Prednisone and betamethasone phosphate in prolonged treatment of rheumatic heart disease of childhood].",
+        "abstract": "",
+        "journal": "Il Fracastoro",
+        "year": "1965",
+        "authors": [
+          "Mastella G",
+          "Mantovanelli S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Betamethasone",
+          "Child",
+          "Female",
+          "Humans",
+          "Male",
+          "Prednisone",
+          "Rheumatic Fever",
+          "Rheumatic Heart Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5854785/"
+      },
+      {
+        "pmid": "5408413",
+        "title": "[Therapeutic experience with an association of corticosteroids in pediatrics].",
+        "abstract": "",
+        "journal": "Rivista di clinica pediatrica",
+        "year": "1969",
+        "authors": [
+          "Magni L A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Age Factors",
+          "Arthritis, Rheumatoid",
+          "Asthma",
+          "Betamethasone",
+          "Bronchitis",
+          "Drug Synergism",
+          "Humans",
+          "Nephrotic Syndrome",
+          "Prednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5408413/"
+      },
+      {
+        "pmid": "6009983",
+        "title": "[Duration of antirheumatic treatment in the prevention of rheumatic valvular incompetence].",
+        "abstract": "",
+        "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+        "year": "1966",
+        "authors": [
+          "Nagayama T",
+          "Oda T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Betamethasone",
+          "Child",
+          "Child, Preschool",
+          "Heart Valve Diseases",
+          "Humans",
+          "Prednisolone",
+          "Rheumatic Fever",
+          "Rheumatic Heart Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6009983/"
+      },
+      {
+        "pmid": "5404435",
+        "title": "[Use of a steroid combination in the treatment of rheumatic diseases in pediatrics. Preliminary note].",
+        "abstract": "",
+        "journal": "Reumatismo",
+        "year": "1969",
+        "authors": [
+          "Cerri B",
+          "Luvarà A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Arthritis, Juvenile",
+          "Betamethasone",
+          "Body Weight",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5404435/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:12:13.017134",
+  "success": true,
+  "error_message": null
+}

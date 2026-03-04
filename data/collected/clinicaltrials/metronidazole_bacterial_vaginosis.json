@@ -1,0 +1,931 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Metronidazole",
+    "disease": "bacterial vaginosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01335373",
+      "title": "Observational Program Neo-Penotran® Forte",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2015-04",
+      "country": "Kazakhstan",
+      "enrollment": 13024,
+      "brief_summary": "Vaginitis is the most common gynecologic diagnosis in the primary care setting. In approximately 90 percent of affected women, this condition occurs secondary to bacterial vaginosis, vulvovaginal candidiasis, trichomoniasis or mixed infection.\n\nNeo-Penotran Forte is registered for treatment of these most common vaginal infections. Efficacy and safety of this product is already established, and this observational study was designed to learn more about practical use of Neo-Penotran® Forte in real ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients older than 18 years with previously taken decision of their gynecologist to prescribe Neo-Penotran Forte according to registered indications, and microbiological tests were performed.\n\nExclusion Criteria:\n\n* Presence of contraindications according to package insert.",
+      "endpoints": [
+        "Percent rate of different vaginal infections"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT01335373"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02209519",
+      "title": "Randomized Controlled Trial of Treatment of Male Partners of Women With BV",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-02",
+      "completion_date": "2019-03",
+      "country": "United States",
+      "enrollment": 214,
+      "brief_summary": "Male partners of womoen with recurrent bacteria vaginosis are randomized to treatment with metronidazole or placebo to compare the rates of recurrent BV in the women",
+      "eligibility_criteria": "Inclusion Criteria: Female\n\n1. At least 18 years of age (19 years of age in Alabama due to State law)\n2. Sexual partner to a female who meets study eligibility\n3. Willingness to provide informed consent\n4. Willingness to abstain from sexual intercourse or use condoms {during the study}\n5. Willingnes",
+      "endpoints": [
+        "Number of Female Partners Whose Male Partners Received Metronidazole Versus Females Whose Male Partners Did Not Receive Metrodiazole With Recurrence of BV in the Female"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT02209519"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02459665",
+      "title": "Preparing for a Clinical Trial of Interventions to Maintain Normal Vaginal Microbiota for Preventing Adverse Reproductive Health Outcomes in Africa",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-06-05",
+      "completion_date": "2018-08-06",
+      "country": "N/A",
+      "enrollment": 68,
+      "brief_summary": "A pilot randomized controlled clinical trial of intermittent use of two different vaginal lactobacilli-containing probiotics, and oral metronidazole, to prevent bacterial vaginosis recurrence.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Sexually active, defined as having had sex at least twice in the two weeks prior to screening\n* At high risk of HIV/STIs/BV, defined as having had more than one sexual partner in the last 12 months OR having been treated for an STI and/or BV in the last 12 months\n* Successfull",
+      "endpoints": [
+        "Bacterial Vaginosis (BV) Incidence by Modified Amsel Criteria",
+        "Bacterial Vaginosis (BV) Incidence by Nugent Scoring (Nugent 7-10)",
+        "Trichomonas Vaginalis (TV) Incidence by Culture"
+      ],
+      "sponsor": "University of Liverpool",
+      "url": "https://clinicaltrials.gov/study/NCT02459665"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03734523",
+      "title": "Clinical Trial to Survey Results of Flourish Vaginal Care System for Recurrent Bacterial Vaginosis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-07-01",
+      "completion_date": "2022-02-28",
+      "country": "United States",
+      "enrollment": 38,
+      "brief_summary": "Background\n\nBacterial Vaginosis is the most common vaginal infection in women in their reproductive years and a difficult one to treat. In the United States, the National Health and Nutrition Examination Survey (NHANES), estimated the prevalence of BV was 29 percent in the general population of women aged 14 to 49 years and 50 percent in African-American women. It is characterized by a shift in vaginal flora from an acidic environment due to acid producing lactobacilli to a mixture of anaerobic ",
+      "eligibility_criteria": "Inclusion:\n\nCis women aged 18-52 History of at least one prior episode of BV in the past year\n\nExclusion:\n\nPregnant Lactating Postmenopausal Immunosuppressed Known allergies to aloe vera or to other components of Restore, Balance or BiopHresh Known allergy or intolerability to po Diflucan or metroni",
+      "endpoints": [
+        "Vaginal pH Levels",
+        "BV recurrence (assessed using Affirm VPIII test, BD Diagnostics)",
+        "Vaginal microbiome (assessed using the Juno Vaginal Microbiome Test, a next-generation sequencing technology)"
+      ],
+      "sponsor": "Vaginal Biome Science",
+      "url": "https://clinicaltrials.gov/study/NCT03734523"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01287728",
+      "title": "The Value of Bacterial Loads by Real Time PCR in Predicting Recurrence of Abnormal Vaginal Flora After Oral Metronidazole Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-01",
+      "completion_date": "2016-01",
+      "country": "France",
+      "enrollment": 182,
+      "brief_summary": "Abnormal vaginal flora is currently diagnosed among women (20-40%). It is associated with symptoms (bad smell, vaginal discharge) and adverse out-comes in pregnant and not pregnant women. The high recurrence rate raises the long-term effectiveness of therapy. The hypothesis is the persistence of bacteria associated with vaginal flora imbalance as Atopobium vaginae and Gardnerella vaginalis. At the present time there is a lack of an accurate marker for the risk of recurrence.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Woman of more than 18 years, presenting vulvo-vaginal symptoms to type(chap) of smell or abnormal vaginal losses the day of the inclusion and having an imbalance of the vaginal flora objectivized by:\n* The presence of at least 3 clinical criteria of Amsel ( 41 ) is a score of ",
+      "endpoints": [
+        "To access the value of A. vaginae and G. vaginalis loads in predicting recurrence of abnormal vaginal flora over the course of 12 months after oral metronidazole therapy."
+      ],
+      "sponsor": "Assistance Publique Hopitaux De Marseille",
+      "url": "https://clinicaltrials.gov/study/NCT01287728"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02766023",
+      "title": "Phase II-b Randomized Double-Blind Placebo-Controlled Trial of Lactobacillus Crispatus CTV-05 (LACTIN-V) to Prevent the Recurrence of Bacterial Vaginosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-06-03",
+      "completion_date": "2019-02-11",
+      "country": "United States",
+      "enrollment": 228,
+      "brief_summary": "This Phase 2b trial is designed to provide a screening evaluation for the hypothesis that, following a 5-day treatment with MetroGel® to treat BV, L. crispatus CTV-05 (LACTIN-V, Osel, Inc.) administered at 2 x 10\\^9 cfu/dose using a vaginal applicator reduces the 12-week incidence of BV recurrence when compared to placebo. The primary objectives of this study are: 1) To estimate the efficacy of repeated doses of LACTIN-V (2 x 10\\^9 cfu/dose) as compared to placebo in preventing BV recurrence by ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1\\. Capable of reading and writing English and voluntarily provide written informed consent to participate in the study and comply with all study procedures 2. Untreated BV (asymptomatic or symptomatic) as diagnosed during the screening visit defined by \\>/=3 Amsel criteria. Not",
+      "endpoints": [
+        "The Proportion of Participants Reporting Product-related Adverse Events (AEs) and Serious Adverse Events (SAEs) in Each Study Arm.",
+        "The Proportion of Participants With a Positive BV Diagnosis in Each Study Arm."
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT02766023"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06659380",
+      "title": "Modulation of Vaginal Microbiota by Lactobacillus Sp As a Probiotic and Immunomodulatory Agent in Postmenopausal Women with Bacterial Vaginosis",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-06-26",
+      "completion_date": "2024-12-31",
+      "country": "Indonesia",
+      "enrollment": 12,
+      "brief_summary": "This study is a double-blind, randomized, controlled trial (RCT) aimed at evaluating the effects of Lactobacillus sp. probiotic administration on the vaginal microbiota changes in postmenopausal women with bacterial vaginosis and how its affect to immunology profile. Postmenopausal women diagnosed with bacterial vaginosis will be recruited as subjects as long as collected period in this study. All patients will receive Metronidazole antibiotic treatment then blind-randomly be divided into two gr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Postmenopausal with estradiol levels \\< 25 mg/ml\n2. Diagnosed have bacterial vaginosis by an obstetrician and gynecologist\n\nExclusion Criteria:\n\n1. Medically unable to perform a pap smear examination\n2. Experiencing vaginal bleeding of unknown cause\n3. Diagnosed or suspected ",
+      "endpoints": [
+        "Bacterial Vaginosis Status"
+      ],
+      "sponsor": "Hasanuddin University",
+      "url": "https://clinicaltrials.gov/study/NCT06659380"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00324818",
+      "title": "Therapy and Prevention for Sexually Associated Bacterial Vaginosis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-07",
+      "completion_date": "2006-05",
+      "country": "United States",
+      "enrollment": 600,
+      "brief_summary": "We are trying to determine if longer duration of therapy with metronidazole or combination therapy of metronidazole plus azithromycin results in better cure rates for BV",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Symptomatic bacterial vaginosis\n\nExclusion Criteria:\n\n* Pregnancy\n* Other genital infections",
+      "endpoints": [
+        "cure of bacterial vaginosis (BV)"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT00324818"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04478617",
+      "title": "PROJECT PREVENT: Metronidazole Antibiotic Per Vagina Before Hysterectomy: Is Additional Antibiotic Prophylaxis Beneficial?",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2020-07-15",
+      "completion_date": "2023-05",
+      "country": "United States",
+      "enrollment": 136,
+      "brief_summary": "Despite use of intravenous antibiotic prophylaxis, pelvic infection including vaginal and urinary complaints and infections are still noted after hysterectomy. For gynecologic surgery the burden of infection is not only from the skin but from the vagina and urinary tract. Hysterectomy involves a communication via the cervical or vaginal canal directly with the pelvis and thus can lead to a potentially increased risk of infection from both aerobic and anaerobic organisms. Vaginal metronidazole is",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Any female aged 18 years old and over\n* Patient scheduled for elective subtotal (removal of uterus only with or without ovaries) or total hysterectomy (removal of uterus and cervix with or without ovaries) by any route of surgery. Procedures will include laparoscopic, robotic,",
+      "endpoints": [
+        "Composite variable of patient reported symptom or documented post-operative infection by the 4 to 8-week post-operative visit(s)."
+      ],
+      "sponsor": "New York Medical College",
+      "url": "https://clinicaltrials.gov/study/NCT04478617"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05977491",
+      "title": "Randomized Controlled Trial in Nepal: Introducing Point-of-care Tests and Identifying Barriers to Reduce Antibiotics for Vaginal Discharge",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-04-22",
+      "completion_date": "2026-01-25",
+      "country": "Nepal",
+      "enrollment": 1500,
+      "brief_summary": "The goal of this clinical trial is to examine if and how the implementation of point-of care-tests (POCT) for sexually transmitted infections in the management of abnormal vaginal discharge reduces the overtreatment with antibiotics in a low income country. The setting is a university hospital in a semi-rural area in Nepal and several of its rural out-reach-centers. The plan is to include 1500 women attending the gynecological outpatients with a problem of vaginal discharge over approximately a ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women presenting with vaginal discharge to gynecological outpatients\n\nExclusion Criteria:\n\n* Minors below the age of 18 years.\n* Any bleeding from the vagina.\n* Suspicion of gynecological cancer.\n* Previous inclusion in the same study.",
+      "endpoints": [
+        "Proportion of participants overtreated with antibiotics (excluding antifungals)",
+        "Proportion of participant prescribed antimicrobial resistance driving antibiotics",
+        "Proportion of participants adhering to treatment recommendations"
+      ],
+      "sponsor": "Norwegian University of Science and Technology",
+      "url": "https://clinicaltrials.gov/study/NCT05977491"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00536848",
+      "title": "The Effect of Probiotic Supplementation With Lactobacillus GR-1 and RC-14,on the Immune Status, Diarrhea and Bacterial Vaginosis Cure Rate Among HIV Patients; a Randomised, Placebo Controlled Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2007-10",
+      "completion_date": "2008-08",
+      "country": "Tanzania",
+      "enrollment": 65,
+      "brief_summary": "The purpose of this study is to asses whether probiotics Lactobacillus rhamnosus (GR-1) and reuteri (RC-14) are able to prevent diarrhea, delay the decline of the immune system and prevent and/or cure bacterial vaginosis among HIV patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed HIV infection.\n* Participant does not meet the criteria for ARV therapy, CD4 count \\> 200, no clinical stage 3 or 4 \\[National guidelines, 2005\\].\n* Having an intermediate Nugent score (4-6), or a positive Nugent score (7-10).\n\nExclusion Criteria:\n\n* Pregnancy or lac",
+      "endpoints": [
+        "CD4 count"
+      ],
+      "sponsor": "National Institute for Medical Research, Tanzania",
+      "url": "https://clinicaltrials.gov/study/NCT00536848"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01055106",
+      "title": "A Multicenter, Randomized, Investigator-Blinded, Phase 2, Dose Ranging Study of Metronidazole Vaginal Gel in the Treatment of Bacterial Vaginosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2010-04",
+      "country": "United States",
+      "enrollment": 255,
+      "brief_summary": "The objective of this study is to evaluate the efficacy and safety of GW05 administered in 3 regimens versus metronidazole 0.75% for the treatment of bacterial vaginosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Females at least 18 years of age\n* In good general health\n* Confirmed current diagnosis of bacterial vaginosis (determined at study screening)\n* Negative pregnancy test (for women who are able to become pregnant)\n* Must abstain from sexual intercourse throughout the first 7 da",
+      "endpoints": [
+        "proportion of subjects with therapeutic cure"
+      ],
+      "sponsor": "Graceway Pharmaceuticals, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01055106"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01993524",
+      "title": "Efficacy and Safety Assessment of prOVag Dietary Supplement in Recurrent Bacterial Vaginitis. Multi-centre, Randomized, Double-blind, Placebo-controlled Clinical Study.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2012-02",
+      "country": "N/A",
+      "enrollment": 594,
+      "brief_summary": "The purpose of this study was to determine whether supplementation of standard antibiotic therapy with oral probiotic preparation prOVag containing lactic acid bacteria influences recurrence of bacterial vaginosis/vaginitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Informed Consent Form\n2. Subjects aged more than or equal 18 and less than or equal 50 years\n3. Women of the Caucasian race\n4. Regularly menstruating premenopausal women (normal menstrual function (Eumenorrhoea) shall mean regular menstrual bleeding pattern every 28 plus/minu",
+      "endpoints": [
+        "Reduced probability of recurrent bacterial vaginosis/vaginitis."
+      ],
+      "sponsor": "IBSS Biomed S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01993524"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00720291",
+      "title": "Inflammation and Treatment of Bacterial Vaginosis Near Term",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2010-11-23",
+      "country": "United States",
+      "enrollment": 59,
+      "brief_summary": "Most studies demonstrate that untreated bacterial vaginosis increases the rate of preterm birth. Despite this, there is no evidence that screening and treatment of asymptomatic bacterial vaginosis nor interpregnancy treatment of endometritis decreases the subsequent rate of preterm birth. However, treatment of symptomatic bacterial vaginosis has been associated with a modest reduction in subsequent preterm birth. Potential mechanisms for this reduction include a decrease in peripheral maternal p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 32 weeks gestation or greater\n* Multiparity\n* No history of preterm birth\n* English speaking\n* Ability to provide informed consent\n* Bacterial vaginosis by gram stain\n\nExclusion Criteria:\n\n* Acute infections at any site\n* Active autoimmune disease\n* Current anti-inflammatory u",
+      "endpoints": [
+        "Levels of Interleukins 1 and 6 as well as Tumor Necrosis Factor Alpha"
+      ],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT00720291"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02795845",
+      "title": "Oral Probiotics for the Treatment and Prevention of Vulvovaginal Infections in Pregnancy - Double-blind, Randomized, Placebo-controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-11",
+      "completion_date": "2021-08",
+      "country": "Israel",
+      "enrollment": 157,
+      "brief_summary": "During pregnancy, bacterial vaginosis (BV), abnormal vaginal flora (AVF) and vulvovaginal candidiasis (VVC) are associated with serious complications and discomfort. Yet, treatment options are limited. Lactobacilli administration was suggested to treat and prevent vaginal infections. However, this has not been examined in pregnant women, the information regarding oral treatment is scarce, and the mechanisms in which oral ingestion of probiotics induce vaginal lactobacilli proliferation are not w",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Women who will report on vaginal discharge or signs/symptoms consistent with vaginal/vulvar infection\n2. Above 18 years old\n3. pregnant women until 30th weeks of gestation\n4. Willing to participate and singed on consent form\n\nExclusion criteria:\n\n1. Patient refuse to particip",
+      "endpoints": [
+        "The degree of vaginal lactobacilli colonization in the probiotic formula group versus placebo",
+        "The rate of women in the primary prevention group, who developed any vaginal infection (BV/AVF/VVC) during the study period until delivery in the probiotic formula group versus placebo.",
+        "The rate of women in the second prevention group who developed any vaginal infection (BV/AVF/VVC) during the study period until delivery in the probiotic formula group versus placebo."
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT02795845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00545181",
+      "title": "Recurrent Bacterial Vaginosis (RBV): Efficiency of Metronidazole in Comparison to Metronidazole and Intravaginal Acidifying Gel: A Randomized Investigator-blinded Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2009-07",
+      "country": "United States",
+      "enrollment": 55,
+      "brief_summary": "Bacterial vaginosis (BV) is a common, complex clinical syndrome characterized by alterations in the normal vaginal flora. Bacterial vaginosis has been associated with a variety of adverse health outcomes including endometritis; post-abortion endometritis; nongonococcal, nonchlamydial pelvic inflammatory disease; and an increased risk of acquiring and transmitting HIV infection. In pregnancy, BV is associated with premature rupture of the membranes, chorioamnionitis, amniotic fluid infection, pre",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. All women of between 18-50 years of age.\n2. Confirmed current diagnosis of BV using Amsel's criteria.\n3. Women with at least total 2 confirmed episodes of BV including most recent episode (by Amsel's criteria) within a six month period or at least total three or more in the p",
+      "endpoints": [
+        "Recurrent Bacterial Vaginosis"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT00545181"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02365389",
+      "title": "Assiut University Hospital - Women Health Hospital",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-05",
+      "completion_date": "2014-12",
+      "country": "N/A",
+      "enrollment": 64,
+      "brief_summary": "A previous study showed that in situ MTZ vaginal gel twice daily is more effective than the conventional vaginal gel product in sustained cure of BV( 4 weeks after treatment) (80.0% in the in-situ gel group as compared with 47.4 in the conventional gel group.The current study aims to compare the efficacy of the use of once daily in situ MTZ vaginal gel (0.8%) versus twice-daily conventional MTZ vaginal gel in treatment of BV.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women with proven diagnosis of bacterial vaginosis infection from the Outpatient Gynecological Clinic in Women Health Center Assiut University.\n\nExclusion Criteria:\n\n* Women refusal to participate in the study.\n* Pregnant and nursing Women.\n* Anticipation of difficulty of subs",
+      "endpoints": [
+        "Clinical improvement of vaginitis."
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT02365389"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01867164",
+      "title": "A Prospective, Open-Label, Comparative, Parallel Double-Arm, Multicentric Clinical Study to Evaluate the Efficacy of an Ovule With Triple Active Agents (Terconazole, Clindamycin, Fluocinolone) Administered Once Per Day for Three Days Versus an Ovule With Triple Active Agents (Metronidazole, Nystatin, Fluocinolone) Administered Once Per Day for Ten Days to Treat Secondary Vulvar/Vaginal Symptoms of Vaginitis/Infectious Vaginosis (Bacterial and/or Mycotic and/or Parasitic)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2008-12",
+      "country": "Mexico",
+      "enrollment": 160,
+      "brief_summary": "The purpose of this comparative study is to evaluate the efficacy of an ovule with triple active agents (terconazole, clindamycin and fluocinolone) versus another ovule with triple active agents (nystatin, metronidazole and fluocinolone) in the treatment of symptoms caused by the presence of vaginitis (inflammation of the vagina) or bacterial vaginosis (polymicrobial, nonspecific vaginitis associated with positive cultures of Gardnerella vaginalis and other anaerobic organisms and a decrease in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants presenting clinical symptoms compatible with vaginitis/bacterial vaginosis, with any of the following symptoms being the reason for the consultation: pruritus (itchiness), vulvar burning, as well as presenting leukorrhea (a clear or white discharge from the vagina",
+      "endpoints": [
+        "Percentage of Participants With Presence or Absence of Symptoms 3 Days After Treatment",
+        "Percentage of Participants With Presence or Absence of Symptoms 8 Days After Treatment",
+        "Percentage of Participants With the Presence of Microorganisms (Single-celled, Tiny Organisms That Include Fungi, Bacteria, Viruses) 3 Days After Treatment"
+      ],
+      "sponsor": "Janssen-Cilag, S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01867164"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03930745",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Trial Of TOL-463 Insert for Suppression Of Bacterial Vaginosis (BV) [SUBVert]",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-09-09",
+      "completion_date": "2021-12-06",
+      "country": "United States",
+      "enrollment": 81,
+      "brief_summary": "A Phase II randomized, double-blind, placebo-controlled study screening approximately 600 adult females, aged 18-55, with a goal to enroll approximately 250 participants to achieve 200 evaluable participants at the test of cure (TOC) visit. The study is designed to determine the clinical efficacy of an investigational product (IP), TOL-463 Insert, in suppressing Recurrent Bacterial Vaginosis (RBV) when administered to women who have a history of RBV and have been successfully cleared of their cu",
+      "eligibility_criteria": "Inclusion Criteria:\n\nScreening Visit(s) Inclusion Criteria:\n\n1. Women with a current Bacterial Vaginosis (BV) infection and a history of at least two previous episodes of BV by documentation or self-report in the past year. Screening (V0) diagnosis is based on the presence of \\> / = 3 Amsel criteria",
+      "endpoints": [
+        "Proportion of Participants With Recurrent Bacterial Vaginosis (RBV) by Visit 4, as Defined by Presence of at Least 3 Amsel Criteria"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT03930745"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01089348",
+      "title": "Phase II Multicentered Randomized Open-label Study of Effectiveness and Safety of Lactofiltrum in Women With Bacterial Vaginosis",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2010-07",
+      "completion_date": "2010-12",
+      "country": "Russia",
+      "enrollment": 90,
+      "brief_summary": "This is a phase II multicenter randomized open-label clinical study that will determine whether treatment with Lactofiltrum (orally administered tablets) in combination with antibiotic therapy (metronidazole) is effective in women with bacterial vaginosis. Lactofiltrum is a composite drug that includes enterosorbent lignin and prebiotic Lactulose. It's supposed that supplement of Lactofiltrum to a standard therapy of bacterial vaginosis (metronidazole administered orally) improves women's genera",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* bacterial vaginosis.\n\nExclusion Criteria:\n\n* pregnancy and breast-feeding;\n* concomitant infection diseases;\n* systemic or topical treatment with antibiotics, steroids, immunosuppressive, cytostatic or antimetabolite agents by the time of inclusion;\n* application of intravagin",
+      "endpoints": [
+        "Self-reported complaints"
+      ],
+      "sponsor": "Avva Rus, JSC",
+      "url": "https://clinicaltrials.gov/study/NCT01089348"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01153958",
+      "title": "The Use of Colposeptine in Bacterial Vaginosis. A Randomized, Controlled Study",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2010-07",
+      "completion_date": "2010-11",
+      "country": "China",
+      "enrollment": 133,
+      "brief_summary": "This is a prospective, randomized, controlled and multi-center trial to assess the use of colposeptine in female subjects with bacterial vaginosis. A total of 480 subjects were planned to be enrolled in various centers in China.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female subjects in reproductive age and older than 18 year\n* Subjects with normal sexual activity\n* Subjects with symptoms such as vulva-vaginal irritation or abnormal vaginal discharge\n* Subjects with Nugent Score greater than or equal to 7\n* Subjects who are willing to use c",
+      "endpoints": [
+        "Percentage of Participants With Relapse 2 Months Post-treatment"
+      ],
+      "sponsor": "Merck KGaA, Darmstadt, Germany",
+      "url": "https://clinicaltrials.gov/study/NCT01153958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02392026",
+      "title": "A Multicenter, Open-Label Study to Evaluate the Safety and Tolerability of Metronidazole Vaginal Gel 1.3% in Adolescent Female Subjects With Bacterial Vaginosis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-08-12",
+      "completion_date": "2016-10-05",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Multicenter, open-label study to evaluate safety and tolerability of Metronidazole Vaginal Gel in females 12 to \\<18 years for the treatment of bacterial vaginosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provide written assent and parent/legal guardian informed consent and authorization to disclose protected health information.\n* Post-menarcheal, adolescent female, 12 to \\<18 years of age at time of Screening/Baseline Visit (Day 1).\n* In good general health at Screening visit ",
+      "endpoints": [
+        "Number of subjects with treatment-emergent adverse events (AEs), serious AEs, treatment-related AEs and AEs leading to study discontinuation after Metronidazole Vaginal Gel is administered in post-menarcheal, adolescent females with bacterial vaginosis.",
+        "A multicenter open label to evaluate safety and tolerability of metronidazole vaginal gel 1.3% for adolescents female subject with bacterial and vaginosis"
+      ],
+      "sponsor": "Insud Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02392026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02197182",
+      "title": "An Open-Label, Randomized Study to Determine the Safety and Efficacy of LUXSOL(TM) Cream for the Treatment of Bacterial Vaginosis: A Proof of Concept Study",
+      "phase": "EARLY_PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2014-06",
+      "completion_date": "2015-03",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "LUXSOL Cream may be useful for the treatment of bacterial Vaginosis. In this study, LUXSOL Cream is compared to a control arm group using metronidazole cream. LUXSOL is administered intravaginally for 10 days, each evening before bedtime to treat bacterial Vaginosis..",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject agrees to participate and signs informed consent\n* Female age 18 or older\n* Subject has clinical BV with 4 of 4 Amsel's criteria\n* Off-white (milky or gray), thin, adherent, homogenous discharge with minimal or absent pruritus and inflammation of the vulva and vagina\n*",
+      "endpoints": [
+        "Presence or absence of bacterial vaginosis at the end of the study"
+      ],
+      "sponsor": "CDA Research Group, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02197182"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01020396",
+      "title": "A Multi-Center, Double-Blind, Parallel Group Study Comparing the Bioequivalence of Teva Pharmaceuticals, USA's Generic Formulation of Metronidazole Vaginal Gel, 0.75% and MetroGel-Vaginal® Metronidazole Vaginal Gel, 0.75% in the Treatment of Bacterial Vaginosis",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-01",
+      "completion_date": "2003-03",
+      "country": "United States",
+      "enrollment": 579,
+      "brief_summary": "The purpose of this study was to demonstrate comparable efficacy, safety, and tolerability of Teva Pharmaceuticals USA's generic formulation of Metronidazole Vaginal Gel, 0.75% and 3M Pharmaceuticals' MetroGel-Vaginal® metronidazole vaginal gel, 0.75% to establish clinical equivalence in the treatment of bacterial vaginosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must provide written informed consent prior to any study related procedures being performed.\n* Female subjects must have a clinical diagnosis of bacterial vaginosis, defined as having the presence of \"clue cells\" \\> 20% of the total epithelia cells on microscopic exam",
+      "endpoints": [
+        "Therapeutic cure rate of the subject at the Test-of-Cure Visit.",
+        "Incidence of Adverse Effects reported throughout the study."
+      ],
+      "sponsor": "Teva Pharmaceuticals USA",
+      "url": "https://clinicaltrials.gov/study/NCT01020396"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03446443",
+      "title": "The Efficacy and Safety Study of Honghe Fujie Lotion for the Treatment of Bacterial Vaginosis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-07-26",
+      "completion_date": "2020-02-28",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "This is a Randomized, Positive -Controlled, Multi-center Trial enrolling 240 subjects with Bacterial Vaginosis who will be randomized at a ratio of 1:1 to receive active Honghe Fujie lotion or Metronidazole Suppositories. The primary objective is to assess the safety and tolerability of Honghe Fujie lotion compared to Metronidazole Suppositories.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Premenopausal women with sex history.\n2. Age: 20 - 50 years.\n3. Clinical diagnosis of Bacterial Vaginosis.\n4. Nugent scale ≥7.\n5. Patient is willing to participate voluntarily and to sign a written patient informed consent.\n\nExclusion Criteria:\n\n1. Evidence of other female ge",
+      "endpoints": [
+        "The percentage of patients with remission according to Nugent score < 7"
+      ],
+      "sponsor": "Dongfang Hospital Beijing University of Chinese Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03446443"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01722708",
+      "title": "Comparison Between Oral Clindamycin Vs Metronidazole for the Treatment of Abnormal Vaginal Flora in High Risk Pregnancies",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-11-01",
+      "completion_date": "2025-12-30",
+      "country": "Israel",
+      "enrollment": 166,
+      "brief_summary": "Abnormal vaginal flora is a risk factor for preterm labor. Therefore, in high risk pregnancies for preterm labor the diagnosis and treatment of abnormal flora is indicated. Clindamycin and metronidazole given orally are both acceptable treatments in these cases. The purpose of this study is to compare the effectiveness of Clindamycin Vs metronidazole for the treatment of abnormal vaginal flora in high risk pregnancies. For this purpose, pregnant women who are considered high risk for preterm lab",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women at increased risk for preterm labor (preterm cervical effacement, preterm uterine contractions, twins pregnancy, vaginal bleeding, past preterm delivery)\n* Age above 18 years\n\nExclusion Criteria:\n\n* Known allergy to the tested antibiotics\n* Antibacterial treatme",
+      "endpoints": [
+        "To compare the efficacy between oral Clindamycin Vs Metronidazole in the eradication of abnormal vaginal flora"
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT01722708"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00752193",
+      "title": "Safety and Efficacy of a Vaginally Administered Probiotic Lactobacilli Delivery System",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-10",
+      "completion_date": "2015-12",
+      "country": "Belgium",
+      "enrollment": 206,
+      "brief_summary": "The purpose of this study is to assess the safety and the efficacy of vaginally administered probiotic lactobacilli in combination with antibiotic therapy (metronidazole) in women with microbiologically defined bacterial vaginosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Untreated Bacterial Vaginosis (BV) (asymptomatic or symptomatic) as diagnosed during the screening visit using Amsel criteria.\n* Otherwise healthy? pre-menopausal women between 18-50 years of age at date of screening.\n* Regular menstrual cycles (21-35 days) or amenorrheic for ",
+      "endpoints": [
+        "The proposed research project aims at the development of a vaginal probiotic delivery system to restore and to maintain the vaginal microflora"
+      ],
+      "sponsor": "University Ghent",
+      "url": "https://clinicaltrials.gov/study/NCT00752193"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03080740",
+      "title": "The Efficacy and Safety Study of Clindamycin Palmitate Hydrochloride Dispersible Tablet for the Treatment of Bacterial Vaginosis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2016-07",
+      "completion_date": "2017-12",
+      "country": "China",
+      "enrollment": 300,
+      "brief_summary": "Randomized, double blind, positive drug parallel comparison, multi-centre clinical trial to assess the Efficacy and Safety of Clindamycin palmitate hydrochloride dispersible tablet for the treatment of bacterial vaginosis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients clinically diagnosed with bacterial vaginosis, should meet the following criteria: vaginal Gram stain integration score (Nugent score) ≥7 points\n2. Female patients aged 18 to 55 years old.\n3. Patients signed the Informed Consent Form(ICF).\n\nExclusion Criteria:\n\n1. Pa",
+      "endpoints": [
+        "Nugent score"
+      ],
+      "sponsor": "Guangzhou Yipinhong Pharmaceutical CO.,LTD",
+      "url": "https://clinicaltrials.gov/study/NCT03080740"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00334633",
+      "title": "Tinidazole for the Treatment of Bacterial Vaginosis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2009-12",
+      "country": "United States",
+      "enrollment": 593,
+      "brief_summary": "We are trying to determine if treatment of bacterial vaginosis with tinidazole is better than treatment with metronidazole",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women be at least 18 years of age\n* Have symptoms of vaginal odor and or/discharge\n* Meet the clinical (Amsel) criteria for BV\n* Willing to participate in research\n\nExclusion Criteria:\n\n* Presence of another vaginal infection or STD\n* Allergy to metronidazole\n* Pregnant or nur",
+      "endpoints": [
+        "Cure of Bacterial Vaginosis"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT00334633"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01762670",
+      "title": "An Open-Label, Randomized Study to Determine the Safety and Efficacy of GoldenCareTM for the Treatment of Bacterial Vaginosis",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-02",
+      "completion_date": "2013-12",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "GoldenCare is a copper intravaginal device that may be useful for the treatment of symptomatic bacterial Vaginosis (BV). Standard treatment for BV is metronidazole. Although the reported cure rate is as high as 90%, the recurrence rate is 58% after 12 months. The study hypothesis is that GoldenCare will cure BV. This is a proof of concept study to collect preliminary evidence of the safety and efficacy of GoldenCare.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent\n* Female aged 18 years or older\n* Subject has clinical bacterial Vaginosis with 4 of 4 positive Amsel's criteria\n* Negative pregnancy test\n* For 7 day treatment period, subject agrees to refrain from using douches and intravaginal products (i.e. femini",
+      "endpoints": [
+        "Safety and efficacy of treating BV with GoldenCare for 7 days"
+      ],
+      "sponsor": "CDA Research Group, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01762670"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00556179",
+      "title": "Local, National (Brazil), Multicentric, Open, Non-Controlled, Phase IV, Study of Lactoserum (Dermacyd Femina®), in Women at Reproductive Age, to Prevent Recurrence of Bacterial Vaginosis, During Three Months, After Standard Treatment With Metronidazole.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "",
+      "country": "Brazil",
+      "enrollment": 122,
+      "brief_summary": "The purpose of this study is to demonstrate if the use of Dermacyd can avoid the recurrence of bacterial vaginosis after three months of the standard treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women in reproductive age\n* Confirmed cure of bacterial vaginosis after treatment with oral metronidazole.\n* Vaginal bacterioscopic examination negative for candida and trichomonas.\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding women\n* Allergy to dermacyd\n\nThe above inform",
+      "endpoints": [
+        "Rate of recurrence of bacterial vaginosis after three months of treatment."
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00556179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00799214",
+      "title": "Back to BASICS: Boric Acid, Alternate Solution for Intravaginal Colonization, Comparing Intravaginal Metronidazole to Boric Acid in Women Symptomatic for Bacterial Vaginosis",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-04",
+      "completion_date": "2016-02",
+      "country": "Canada",
+      "enrollment": 13,
+      "brief_summary": "Bacterial vaginosis (BV), the world's most common vaginal infection, continues to cost patients time, energy, comfort and money. BV is associated with increased incidence of sexually transmitted infections (including HIV), spontaneous abortion, pre-term labour, post-surgical infections, and endometritis. Current treatment for those women symptomatic for BV includes both oral and intravaginal antibiotics, such as metronidazole, which have success rates of 70-80 % at 1 month after treatment. These",
+      "eligibility_criteria": "Inclusion Criteria:\n\nWomen will be included whether their complaint is symptoms of BV and have a positive whiff test/vaginal swab or if they have a positive whiff test/vaginal swab and are then asked if they have any symptoms of BV present. The following criteria must be met for enrolment in the stu",
+      "endpoints": [
+        "Non-inferiority, per protocol comparison of effectiveness of boric acid to metronidazole at day 17 as measured by Nugent score in 16-50 year olds with a z-based confidence interval for the difference of two proportions"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT00799214"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00313131",
+      "title": "A Randomised Controlled Trial of Single Dose Tinidazole+Fluconazole Versus Longer Courses of Metronidazole+Clotrimazole in the Management of West African Women With Vaginal Discharge",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-01",
+      "completion_date": "2005-05",
+      "country": "Togo, Guinea, Ghana",
+      "enrollment": 1524,
+      "brief_summary": "This randomised controlled trial aimed to verify whether directly observed single dose treatment (with tinidazole+fluconazole) would be as effective as the longer standard treatments (metronidazole for 7 days, plus vaginal clotrimazole for 3 days) in the syndromic management of women presenting with vaginal discharge in primary health care centers of Ghana, Togo, Guinea and Mali. It was designed as an effectiveness trial, i.e. it was done under conditions typical of routine work in these health ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women consulting for vaginal discharge\n* local resident\n* willingness and ability to consent\n\nExclusion Criteria:\n\n* sex worker consulting for active screening\n* main complaint of lower abdominal pain\n* allergy to one of the study drugs",
+      "endpoints": [
+        "Symptomatic resolution of the vaginal discharge according to the patient"
+      ],
+      "sponsor": "Université de Sherbrooke",
+      "url": "https://clinicaltrials.gov/study/NCT00313131"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02185456",
+      "title": "Validation of a Novel Diagnostic, Prognostic Assay for Bacterial Vaginosis",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2014-09",
+      "completion_date": "2016-03",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "Bacterial vaginosis (BV) is the commonest form of vaginitis worldwide, affecting millions of women. Unfortunately, recurrence rates of symptomatic BV remain extremely high, 30% at three months and 70-80% within a year. Given the paucity of information and data regarding pathogenesis of BV, the etiopathogenesis of recurrent bacterial vaginosis remains unknown. Accordingly, reliable, proven treatment regimens for Recurrent Bacterial Vaginosis (RBV) are not available.\n\nIn 2013, the investigators pu",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInclusion Criteria For BV Subjects: (140 subjects)\n\n* Premenopausal women over the age of 18 who have BV who are willing to sign informed consent.\n* Positive for all Amsel criteria:\n\n  * Vaginal pH \\> 4.5\n  * Positive amine test\n  * \\> 20% clue cells on wet mount\n  * Grayish-whi",
+      "endpoints": [
+        "Diagnosis of bacterial vaginosis"
+      ],
+      "sponsor": "Wayne State University",
+      "url": "https://clinicaltrials.gov/study/NCT02185456"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06135974",
+      "title": "Phase 1 Trial of Multi-strain Lactobacillus Crispatus Vaginal Live Biotherapeutic Product",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2024-02-01",
+      "completion_date": "2025-02-18",
+      "country": "South Africa, United States",
+      "enrollment": 24,
+      "brief_summary": "The goal of this randomized clinical trial is to evaluate safety and biologic effect of a multi-strain vaginal L. crispatus live biotherapeutic product (LBP) in people receiving antibiotic treatment for bacterial vaginosis (BV). The main question\\[s\\] it aims to answer are whether the intervention is safe, and whether the strains of L. crispatus will colonize recipients' vagina. The study will evaluate one LBP with 6 strains of L. crispatus (LC106) and one LBP with 15 strains (LC115) vs. placebo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premenopausal individuals, 18- 40 years old\n* BV by Amsel criteria (at least 3 of 4 criteria must be present)\n* Abnormal Nugent score: ≥ 7\n* Willing and able to provide written informed consent.\n* HIV uninfected (by HIV Ab/Ag test at enrollment)\n* Not pregnant by pregnancy tes",
+      "endpoints": [
+        "Detection of LBP strains by metagenomic sequencing",
+        "Adverse events"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06135974"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02308007",
+      "title": "Solubilized Metronidazole And/oR Terconazole Gels Intra-Vaginal Efficacy and Safety",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2018-06",
+      "country": "United States",
+      "enrollment": 475,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of terconazole/metronidazole gel in the treatment of vaginal infections",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A clinical diagnosis of vaginal infection that is confirmed by laboratory testing and:\n* Capable of providing written informed consent or assent\n* Currently not menstruating and not anticipating menses during treatment\n* If heterosexually active, subject must be post-menopausa",
+      "endpoints": [
+        "Clinical Cure of Mixed Infection (BV and VVC) as Assessed by the Investigator at the Test-of-cure Visit"
+      ],
+      "sponsor": "Curatek Pharmaceuticals, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02308007"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03099408",
+      "title": "A Pilot Study of Efficacy and Safety of Oral Metronidazole Versus Oral Metronidazole With Lactobacillus Vaginal Suppositories to Prevent the Recurrence of Bacterial Vaginosis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-07-01",
+      "completion_date": "2020-12-30",
+      "country": "China",
+      "enrollment": 66,
+      "brief_summary": "We are trying to determine if Oral Metronidazole with Lactobacillus Vaginal Suppositories is better than Oral Metronidazole in Preventing the Recurrence of Bacterial Vaginosis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women be at least 18 years of age\n* Have symptoms of vaginal odor and or/discharge\n* Meet the clinical (Amsel) criteria for BV\n* Willing to participate in research\n\nExclusion Criteria:\n\n* Presence of another vaginal infection or STD\n* Allergy to metronidazole\n* Pregnant or nur",
+      "endpoints": [
+        "Cure rate of BV"
+      ],
+      "sponsor": "Peking University Shenzhen Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03099408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04578015",
+      "title": "A Randomized Controlled Trial of Treatment of Bacterial Vaginosis in Late Third Trimester to Prevent Maternal Peripartum Infection",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2021-04-26",
+      "completion_date": "2022-02-09",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "This is a double-blinded, placebo controlled, multi-center randomized trial of 482 pregnant women who are diagnosed with Bacterial Vaginosis (BV) in the late 3rd trimester (\\>34 weeks). During routine clinic visit after 34 weeks, prospective patients will be counseled about the study. Patients who agree to be enrolled, will sign informed consent. Following enrollment, patients will be screened for BV. Those patients who are BV positive by clinical diagnosis, will be randomized to receive either ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women 18 to ≤50 years with the ability to give informed consent.\n* Patients expected to have a vaginal delivery with no obstetric contraindication for vaginal delivery at time of screening.\n* Diagnosed with bacterial BV per Amsel criteria at time of screening in clini",
+      "endpoints": [
+        "Evaluating Composite of Chorioamnionitis, Postpartum Endometritis, SSI, Wound Infection, or Other Post-cesarean Infections (Occurring Within 6 Weeks After Delivery)"
+      ],
+      "sponsor": "Ohio State University",
+      "url": "https://clinicaltrials.gov/study/NCT04578015"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02042287",
+      "title": "Controlled, Multicenter, Randomized Parallel Group Pilot Study With 2 Treatment Arms in Non-pregnant Women With Acute Symptomatic Bacterial Vaginosis (BV)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2020-03-19",
+      "country": "Switzerland",
+      "enrollment": 32,
+      "brief_summary": "Bacterial vaginosis (BV) is the most common cause of vaginitis in women of childbearing age. Women with symptomatic BV may present with malodorous discharge that is off-white, thin, and homogenous and has a fishy smell especially after intercourse. It is of importance to treat women with BV, as this condition is associated with serious risks, such as an increased risk of preterm birth in pregnant women, and particular vulnerability to the acquisition of sexually transmitted disease (STD). The pa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\> 18 years old\n* Acute symptomatic BV\n* Signed informed consent\n\nExclusion Criteria\n\n* Insufficient knowledge of German\n* Illiteracy\n* Pregnancy\n* Acute illness\n* Known allergies against ingredients of the investigational products",
+      "endpoints": [
+        "Proportion (percentage) of patients with treatment success based on the Amsel criteria at week 3."
+      ],
+      "sponsor": "Insel Gruppe AG, University Hospital Bern",
+      "url": "https://clinicaltrials.gov/study/NCT02042287"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00464542",
+      "title": "Asymptomatic Bacterial Vaginosis and Herpes Simplex Virus Type 2 Shedding",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "This investigation assessed the effects of asymptomatic BV on daily genital tract shedding of HSV-2 by determining shedding frequency before and after treatment of asymptomatic BV.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women 18-26 years old of age\n* Only those women who deny symptoms of vaginal discharge and odor but who meet Amsel and Gram stain criteria for the diagnosis of BV will be eligible\n* Amsel criteria (3 of the following 4 conditions) (10):\n* Homogenous vaginal discharge\n* Vaginal",
+      "endpoints": [
+        "Number of Participants With Bacterial Vaginosis Recurrence"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00464542"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02744638",
+      "title": "Double-blind, Randomized, Controlled Trial to Evaluate the Effect of a Yoghurt Containing Four Probiotic Lactobacillus Strains (L. Crispatus, L. Gasseri, L. Rhamnosus, L. Jensenii) on Bacterial Vaginosis (BV) in Adult Women",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-02",
+      "completion_date": "2016-09",
+      "country": "Germany",
+      "enrollment": 36,
+      "brief_summary": "The aim of this study is, to investigate, whether the consumption of a probiotic yoghurt containing 4 probiotic strains naturally colonizing the vagina (L. crispatus, L. gasseri, L. rhamnosus, L. jensenii) has an influence on the comfort of adult women with BV after and 3 weeks following a standard antibiotic treatment with metronidazole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nTo be enrolled, the following criteria have to be fulfilled:\n\n1. Woman aged ≥ 18 years with stable menstrual cycle or postmenopausal women\n2. Newly diagnosed bacterial vaginosis based on Amsel criteria\n3. Complies with a standard oral antibiotic treatment with Metronidazol for 7",
+      "endpoints": [
+        "Rate of BV-free woman"
+      ],
+      "sponsor": "Clinical Research Center Kiel GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT02744638"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02237950",
+      "title": "A Phase 3, Double-blind, Multicentre, Randomised, Placebo-controlled Study to Determine the Efficacy and Safety of SPL7013 Gel to Prevent the Recurrence of Bacterial Vaginosis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-10-13",
+      "completion_date": "2017-02-22",
+      "country": "Puerto Rico, United States, Canada",
+      "enrollment": 586,
+      "brief_summary": "A double-blind, phase 3 study to determine the efficacy of SPL7013 Gel when administered on alternate days for 16 weeks, compared to placebo gel in preventing the recurrence of BV in women with a history of recurrent BV.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Current active episode of BV (diagnosis defined as: At least 3 of the 4 Amsel criteria; Nugent score of at least 4; presence of BV-related symptoms)\n* History of recurrent BV (at least 3 episodes in previous year including current episode)\n* Using an effective method of contra",
+      "endpoints": [
+        "Recurrence of BV Where a Diagnosis of BV is Defined as the Presence of at Least 3 Clinical Findings"
+      ],
+      "sponsor": "Starpharma Pty Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT02237950"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05434104",
+      "title": "Is the Naturally Occurring Prebiotic Lactoferrin an Acceptable Alternative to Antibiotic/Antifungal Tablets for Women With Bacterial Vaginosis or Thrush?",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-10",
+      "completion_date": "2024-06",
+      "country": "United Kingdom",
+      "enrollment": 114,
+      "brief_summary": "Three-quarters of women have bacterial vaginosis (BV) or vaginal thrush/candida yeast infection at least once during their lifetime. Symptoms can include abnormal vaginal discharge, soreness, itching and an unpleasant smell. BV during pregnancy can make the baby come too early. In the UK over a million women suffer recurrent vaginal infections. These can affect their sexual relationships and quality of life, and may need repeated courses of treatment. But some women prefer not to keep taking ant",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 16-49 years\n\n  * Having periods (apart from women with a Mirena IUCD or polycystic ovary syndrome)\n  * Ability to consent\n  * Clinical diagnosis of BV or thrush confirmed on Gram stain\n  * Willing to be randomised to vaginal lactoferrin pessaries or oral antibiotics/antif",
+      "endpoints": [
+        "The acceptability of vaginal lactoferrin treatment",
+        "Adherence to treatment",
+        "Recruitment rate"
+      ],
+      "sponsor": "St George's, University of London",
+      "url": "https://clinicaltrials.gov/study/NCT05434104"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00153517",
+      "title": "Maternal Effects of Bacterial Vaginosis (BV) Treatment in Pregnancy (Randomized Trial of BV Treatment in Pregnancy)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1999-10",
+      "completion_date": "2004-09",
+      "country": "United States",
+      "enrollment": 126,
+      "brief_summary": "The goal of this study is to examine acceptability and efficacy of 2 kinds of BV treatment among women at low risk for preterm delivery. The objectives are:\n\n1. To examine the side effects and patient acceptability of oral versus intravaginal metronidazole.\n2. To compare the efficacy of oral and intravaginal metronidazole for the treatment of BV\n3. To study the efficacy of oral and intravaginal metronidazole for the prevention of hospital admission during the 3rd trimester, chorioamnionitis, pre",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Tested positive for bacerial vaginosis (Nugent score \\>7)\n* African American, Hispanic, Asian/Pacific Islander, Native American, and white women\n\nExclusion Criteria:\n\n* \\>20 weeks gestaion\n* history of preterm delivery\n* had a multiple gestation pregnancy\n* had major medical c",
+      "endpoints": [
+        "Microbiological, Clinical, and Therapeutic Cure Rates at Follow-Up among Women Treated with Oral vs. Intravaginal Metronidazole"
+      ],
+      "sponsor": "Centers for Disease Control and Prevention",
+      "url": "https://clinicaltrials.gov/study/NCT00153517"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03917134",
+      "title": "Efficacy of the Use of Metronidazole After Laparoscopic Hysterectomy for the Prevention of Vaginal Cellulitis or Vaginal Cuff Abscess. Multicentric Triple-blind Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-05-01",
+      "completion_date": "2020-01-30",
+      "country": "Colombia",
+      "enrollment": 600,
+      "brief_summary": "Operative site infection remains the most common complication after performing a gynecological procedure, and has a great implication in the morbidity and mortality of patients. Gynecological procedures, including laparoscopic hysterectomy, represent a unique challenge due to the amount of microorganisms found at the skin level of the vagina or the endocervix.\n\nHowever, there is no clear evidence that the complication decreases with the use of postoperative antibiotics.\n\nWith the completion of t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients between 18 and 55 years old scheduled for laparoscopic hysterectomy for benign pathology in the two centers linked to the study (Clínica del Prado and Pereira community clinic), who have been informed of their participation in the study and who have signed informed co",
+      "endpoints": [
+        "Incidence of cellulitis and vaginal cuff abscess"
+      ],
+      "sponsor": "CES University",
+      "url": "https://clinicaltrials.gov/study/NCT03917134"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07418996",
+      "title": "A Multicenter, Randomized, Double-Blind, Metronidazole-Controlled Phase IIa Clinical Study on the Safety and Tolerability of Dual Live Lactobacilli-containing Vaginal Capsules in the Treatment of Bacterial Vaginosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-05-18",
+      "completion_date": "2022-09-30",
+      "country": "China",
+      "enrollment": 57,
+      "brief_summary": "This is a mutilcenter, randomized, double-blind, Metronidazole controlled phase lIa clinical study to evaluate the safety and tolerability of dual - live lactobacilli-containing vaginal capsules for the treatment of Bacterial Vaginosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Female, aged 18-50 years (inclusive), with prior sexual experience, willing to undergo vaginal drug administration, and agreeing to refrain from using intravaginal products (such as contraceptive creams, gels, foams, sponges, lubricants, douches, tampons, etc.) not specified ",
+      "endpoints": [
+        "Incidence of Treatment-emergent adverse events (Safety Evaluation)",
+        "Incidence of treatment-related adverse events (Safety Evaluation)"
+      ],
+      "sponsor": "Guangdong Longchuangji Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT07418996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03769688",
+      "title": "VMT-01: Safety and Efficacy of Vaginal Microbiota Transplant (VMT) in Women With Bacterial Vaginosis (BV)",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2022-03",
+      "completion_date": "2023-12",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The composition of a woman's vaginal microbiota has a significant impact on her reproductive tract health and general quality of life. Approximately one-third of all women currently have bacterial vaginosis (BV), a polymicrobial condition in which the vaginal microbiota is not dominated by Lactobacillus species, leading to increased risk of various reproductive tract maladies and negative impact on well-being. It has been suggested by epidemiological studies that vaginal microbiota are readily t",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInclusion criteria that apply to potential Donor participants:\n\n1. Capable of reading and writing English and voluntarily provide written informed consent to participate in the study and comply with all study procedures.\n2. Generally healthy, pre-menopausal women age 18-45 years",
+      "endpoints": [
+        "Bacteria engraftment as assessed by ribosomal (rDNA) gene sequencing"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT03769688"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04846361",
+      "title": "The Effectiveness of Vaginal Hygiene Wash as Adjunct Treatment in Bacterial Vaginosis- a Randomized Double Blind Controlled Trial With Microbial Analysis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-05",
+      "completion_date": "2022-01",
+      "country": "N/A",
+      "enrollment": 56,
+      "brief_summary": "This study compares the effect of vaginal hygiene wash versus placebo as adjunct treatment with oral metronidazole in treatment of women with bacterial vaginosis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. premenopausal women who are sexually active 2.willing to use hygiene wash together with prescribed oral antibiotics 3. able to undergo pelvic examination for sampling of vaginal discharge\n\nExclusion Criteria:\n\n* 1\\. Unable to comply with pelvic examination or hygiene wash ",
+      "endpoints": [
+        "Bacterial vaginosis cure rate",
+        "Visual analog scale of symptoms before treatment",
+        "Visual analog scale of symptoms after treatment"
+      ],
+      "sponsor": "Universiti Kebangsaan Malaysia Medical Centre",
+      "url": "https://clinicaltrials.gov/study/NCT04846361"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03091777",
+      "title": "A Multicenter, Randomized, Double-Blind, Vehicle Controlled Study Evaluating the Therapeutic Equivalence and Safety of GDC-229 (Investigational Metronidazole 0.75% Vaginal Gel) and Metronidazole 0.75% Vaginal Gel in the Treatment of Bacterial Vaginosis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-03-10",
+      "completion_date": "2018-03-27",
+      "country": "United States",
+      "enrollment": 871,
+      "brief_summary": "This research study is being done to compare the safety and efficacy of GDC-229 (test drug) against the currently marketed reference drug (metronidazole 0.75% vaginal gel) and to establish that these two drugs work better than placebo in subjects with BV.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Non-pregnant female aged ≥ 18 years who is in good general health\n2. Diagnosis of BV\n3. Willing to refrain from using any intravaginal product (e.g., spermicide, tampon, douche, feminine deodorant spray, diaphragm, vaginal ring birth control, or condom with spermicide or inse",
+      "endpoints": [
+        "Clinical Cure"
+      ],
+      "sponsor": "Balmoral Medical company",
+      "url": "https://clinicaltrials.gov/study/NCT03091777"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05060029",
+      "title": "A Pilot Study to Evaluate the Efficacy and Safety of Lactobacillus Species Suppositories on Vaginal Health and pH",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-01-03",
+      "completion_date": "2022-08-12",
+      "country": "India",
+      "enrollment": 75,
+      "brief_summary": "Most of the methods involved in the treatment of BV include antibiotics. Some of the antibiotics used for this include metronidazole, clindamycin and fluconazole. The antibiotics inhibit the growth of anaerobes that support G. vaginalis and other microbes without affecting lactobacilli. This leads to the treatment of BV while also preventing its recurrence. However, the use of antibiotics may lead to antibiotic resistance and cause various side-effects such as thrush, dizziness, rash, nausea, et",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Non-pregnant, non-breastfeeding females between the ages of 40 and 65 years, inclusive.\n2. Participants having at least 3 out of following symptoms or signs:\n\n   1. Homogeneous, thin, white discharge that smoothly coats the vaginal walls.\n   2. Presence of the clue cells on m",
+      "endpoints": [
+        "Evaluate the efficacy of IP on Vaginal pH"
+      ],
+      "sponsor": "Vedic Lifesciences Pvt. Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05060029"
+    }
+  ],
+  "timestamp": "2026-03-04T13:36:11.124299",
+  "success": true,
+  "error_message": null
+}

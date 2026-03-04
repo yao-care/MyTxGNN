@@ -1,0 +1,76 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fusidic Acid",
+    "disease": "cholera",
+    "query_string": "Fusidic Acid AND cholera"
+  },
+  "data": {
+    "query": "Fusidic Acid AND cholera",
+    "results": [
+      {
+        "pmid": "31762145",
+        "title": "Structural and functional characterization of three Type B and C chloramphenicol acetyltransferases from Vibrio species.",
+        "abstract": "Chloramphenicol acetyltransferases (CATs) were among the first antibiotic resistance enzymes identified and have long been studied as model enzymes for examining plasmid-mediated antibiotic resistance. These enzymes acetylate the antibiotic chloramphenicol, which renders it incapable of inhibiting bacterial protein synthesis. CATs can be classified into different types: Type A CATs are known to be important for antibiotic resistance to chloramphenicol and fusidic acid. Type B CATs are often called xenobiotic acetyltransferases and adopt a similar structural fold to streptogramin acetyltransferases, which are known to be critical for streptogramin antibiotic resistance. Type C CATs have recently been identified and can also acetylate chloramphenicol, but their roles in antibiotic resistance are largely unknown. Here, we structurally and kinetically characterized three Vibrio CAT proteins from a nonpathogenic species (Aliivibrio fisheri) and two important human pathogens (Vibrio cholerae",
+        "journal": "Protein science : a publication of the Protein Society",
+        "year": "2020",
+        "authors": [
+          "Alcala Ashley",
+          "Ramirez Guadalupe",
+          "Solis Allan",
+          "Kim Youngchang",
+          "Tan Kemin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Amino Acid Sequence",
+          "Chloramphenicol O-Acetyltransferase",
+          "Crystallography, X-Ray",
+          "Models, Molecular",
+          "Phylogeny",
+          "Protein Conformation",
+          "Sequence Alignment",
+          "Species Specificity",
+          "Vibrio"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31762145/"
+      },
+      {
+        "pmid": "15950082",
+        "title": "Epidemic strain Shigella dysenteriae Type 1 Dt66 encodes several drug resistances by chromosome.",
+        "abstract": "Multiple antibiotic-resistant strains of Shigella dysenteriae type 1 were isolated from an epidemic in West Bengal, India (1984). During the past two decades, much attention was given to reevaluation of treatment recommendations. However, there are no useful data on drug resistance encoded by chromosome.",
+        "journal": "Archives of medical research",
+        "year": "2005",
+        "authors": [
+          "Hens Dipak Kumar",
+          "Niyogi Swapan Kumar",
+          "Kumar Ranajit"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acridine Orange",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Blotting, Southern",
+          "Chromosomes, Bacterial",
+          "Disease Outbreaks",
+          "Drug Resistance, Bacterial",
+          "Dysentery, Bacillary",
+          "Electrophoresis, Agar Gel",
+          "Electrophoresis, Gel, Pulsed-Field"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15950082/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:13:10.121274",
+  "success": true,
+  "error_message": null
+}

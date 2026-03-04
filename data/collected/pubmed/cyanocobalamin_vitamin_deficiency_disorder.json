@@ -1,0 +1,589 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Cyanocobalamin",
+    "disease": "vitamin deficiency disorder",
+    "query_string": "Cyanocobalamin AND vitamin deficiency disorder"
+  },
+  "data": {
+    "query": "Cyanocobalamin AND vitamin deficiency disorder",
+    "results": [
+      {
+        "pmid": "32127439",
+        "title": "Severe megaloblastic anemia: Vitamin deficiency and other causes.",
+        "abstract": "Megaloblastic anemia causes macrocytic anemia from ineffective red blood cell production and intramedullary hemolysis. The most common causes are folate (vitamin B9) deficiency and cobalamin (vitamin B12) deficiency. Megaloblastic anemia can be diagnosed based on characteristic morphologic and laboratory findings. However, other benign and neoplastic diseases need to be considered, particularly in severe cases. Therapy involves treating the underlying cause-eg, with vitamin supplementation in cases of deficiency, or with discontinuation of a suspected medication.",
+        "journal": "Cleveland Clinic journal of medicine",
+        "year": "2020",
+        "authors": [
+          "Socha Daniel S",
+          "DeSouza Sherwin I",
+          "Flagg Aron",
+          "Sekeres Mikkael",
+          "Rogers Heesun J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Aged",
+          "Anemia, Megaloblastic",
+          "Avitaminosis",
+          "Diagnosis, Differential",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32127439/"
+      },
+      {
+        "pmid": "35458234",
+        "title": "Pernicious Anemia: The Hematological Presentation of a Multifaceted Disorder Caused by Cobalamin Deficiency.",
+        "abstract": "Pernicious anemia is still a neglected disorder in many medical contexts and is underdiagnosed in many patients. Pernicious anemia is linked to but different from autoimmune gastritis. Pernicious anemia occurs in a later stage of autoimmune atrophic gastritis when gastric intrinsic factor deficiency and consequent vitamin B12 deficiency may occur. The multifaceted nature of pernicious anemia is related to the important role of cobalamin, which, when deficient, may lead to several dysfunctions, and thus, the proteiform clinical presentations of pernicious anemia. Indeed, pernicious anemia may lead to potentially serious long-term complications related to micronutrient deficiencies and their consequences and the development of gastric cancer and type 1 gastric neuroendocrine tumors. When not recognized in a timely manner or when pernicious anemia is diagnosed with delay, these complications may be potentially life-threatening and sometimes irreversible. The current review aimed to focus ",
+        "journal": "Nutrients",
+        "year": "2022",
+        "authors": [
+          "Esposito Gianluca",
+          "Dottori Ludovica",
+          "Pivetta Giulia",
+          "Ligato Irene",
+          "Dilaghi Emanuele"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Pernicious",
+          "Gastritis",
+          "Humans",
+          "Micronutrients",
+          "Precancerous Conditions",
+          "Stomach Neoplasms",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency",
+          "Vitamins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35458234/"
+      },
+      {
+        "pmid": "38968136",
+        "title": "Folic acid and autism: updated evidences.",
+        "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition that impairs communication, socialization, and behavior. The association of ASD with folic acid has been investigated due to the importance of this vitamin for neurological health. This study is an update of the publication 'Folic acid and autism: What do we know?' and aims to systematically review studies examining the relationship between folic acid and ASD. The search resulted in 2,389 studies on folic acid and ASD, which were selected by two reviewers based on their titles and abstracts. Studies meeting the inclusion criteria were fully read. The 52 included studies involved 10,429 individuals diagnosed with ASD and assessed the intake of vitamin B6, folic acid, and vitamin B12; serum levels of these vitamins, homocysteine, and methionine; therapeutic interventions using folic acid; and the association between maternal exposure to this vitamin and the risk of ASD. The evidence of insufficient folic acid intake",
+        "journal": "Nutritional neuroscience",
+        "year": "2025",
+        "authors": [
+          "Vasconcelos Cristiane",
+          "Perry Ingrid Schweigert",
+          "Gottfried Carmem",
+          "Riesgo Rudimar",
+          "Castro Kamila"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Folic Acid",
+          "Autism Spectrum Disorder",
+          "Female",
+          "Vitamin B 12",
+          "Child",
+          "Homocysteine",
+          "Folic Acid Deficiency",
+          "Autistic Disorder",
+          "Dietary Supplements"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38968136/"
+      },
+      {
+        "pmid": "36669740",
+        "title": "Vitamin B12: For more than just the treatment of megaloblastic anemia?",
+        "abstract": "Vitamin B12, or cobalamin, belongs to the group of water-soluble vitamins and is ingested through food of animal origin such as eggs, milk, red meat and poultry, fish, and shellfish. Its clinical indication is the treatment of hypovitaminosis B12 administered orally or intramuscularly in the form of hydroxocobalamin. Hypovitaminosis B12 is mainly caused by deficient dietary intake (individuals with malnutrition, vegetarians or vegans, older adults, pregnant people, individuals with alcohol use disorder); when intestinal absorption is reduced (atrophic gastritis, malabsorption syndrome, gastrointestinal surgery); and for causes associated with the intake of drugs (antacids, metformin). Hypervitaminosis B12 has been associated with renal failure; liver diseases such as cirrhosis and acute-phase hepatitis; alcohol use disorder with or without liver involvement; solid tumors of the lung, liver, esophagus, pancreas, and colorectum; and in hematological malignancies such as leukemia and bone",
+        "journal": "Revista clinica espanola",
+        "year": "2023",
+        "authors": [
+          "Pardo-Cabello A J",
+          "Manzano-Gamero V",
+          "Puche-Cañas E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Animals",
+          "Pregnancy",
+          "Vitamin B 12",
+          "Alcoholism",
+          "Vitamin B 12 Deficiency",
+          "Anemia, Megaloblastic",
+          "Vitamins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36669740/"
+      },
+      {
+        "pmid": "40218978",
+        "title": "Vitamin B12 and Autism Spectrum Disorder: A Review of Current Evidence.",
+        "abstract": "Vitamin B12 (cobalamin) plays a crucial role in neurodevelopment, particularly during pregnancy and early childhood. It is essential for DNA synthesis, red blood cell formation, and nervous system function. Maternal B12 levels are particularly important, as they influence fetal brain development. Inadequate maternal intake during pregnancy may lead to altered neurodevelopmental trajectories and increase the risk of ASD. Postnatally, insufficient dietary cobalamin in infants and young children could further contribute to cognitive and behavioral impairments. One potential mechanism linking low B12 levels to ASD involves its role in the gut microbiota balance. Dysbiosis, commonly observed in individuals with ASD, is associated with increased gut permeability, low-grade inflammation, and disruptions in the gut-brain axis, all of which may contribute to ASD symptoms. Additionally, B12 is essential for neurotransmitter metabolism, particularly in the synthesis of serotonin and dopamine, whi",
+        "journal": "Nutrients",
+        "year": "2025",
+        "authors": [
+          "Zwierz Mateusz",
+          "Suprunowicz Maria",
+          "Mrozek Katarzyna",
+          "Pietruszkiewicz Jacek",
+          "Oracz Aleksandra Julia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vitamin B 12",
+          "Autism Spectrum Disorder",
+          "Pregnancy",
+          "Female",
+          "Vitamin B 12 Deficiency",
+          "Gastrointestinal Microbiome",
+          "Maternal Nutritional Physiological Phenomena",
+          "Dysbiosis",
+          "Brain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40218978/"
+      },
+      {
+        "pmid": "29532755",
+        "title": "Homocysteine and Hyperhomocysteinaemia.",
+        "abstract": "Homocysteine (Hcy) is a thiol group containing the amino acid, which naturally occurs in all humans. Hcy is degraded in the body through two metabolic pathways, while a minor part is excreted through kidneys. The chemical reactions that are necessary for degradation of Hcy require the presence of folic acid, vitamins B6 and B12. Consequently, the level of the total Hcy in the serum is influenced by the presence or absence of these vitamins. An elevated level of the Hcy, hyperhomocysteinemia (HHcy) and homocystinuria is connected with occlusive artery disease, especially in the brain, the heart, and the kidney, in addition to venous thrombosis, chronic renal failure, megaloblastic anemia, osteoporosis, depression, Alzheimer's disease, pregnancy problems, and others. Elevated Hcy levels are connected with various pathologies both in adult and child population. Causes of HHcy include genetic mutations and enzyme deficiencies in 5, 10-methylenetetrahydrofolate reductase (MTHFR) methionine ",
+        "journal": "Current medicinal chemistry",
+        "year": "2019",
+        "authors": [
+          "Zaric Bozidarka L",
+          "Obradovic Milan",
+          "Bajic Vladan",
+          "Haidara Mohamed A",
+          "Jovanovic Milos"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "5-Methyltetrahydrofolate-Homocysteine S-Methyltransferase",
+          "Animals",
+          "Avitaminosis",
+          "Cystathionine beta-Synthase",
+          "Folic Acid",
+          "Homocysteine",
+          "Humans",
+          "Hyperhomocysteinemia",
+          "Methylenetetrahydrofolate Reductase (NADPH2)",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29532755/"
+      },
+      {
+        "pmid": "18606874",
+        "title": "How I treat cobalamin (vitamin B12) deficiency.",
+        "abstract": "The challenges in medical management of cobalamin deficiency lie in attention to the unique pathophysiology that underlies cobalamin deficiency, more than in the mechanics of therapy. The central physiologic principles are that clinically important deficiency is more likely to occur (and progress) when intrinsic factor-driven absorption fails than when diet is poor and that most causes take years to produce clinically obvious deficiency. Transient defects have little clinical impact. The key management principle is the importance of follow-up, which also requires knowing how the deficiency arose. The virtues of these principles are not always fully appreciated. Recent developments have made diagnosis and management more difficult by diminishing the ability to determine cobalamin absorption status. Clinicians must also grapple with premature medicalization of isolated, mild biochemical changes that added many asymptomatic cases of still undetermined medical relevance to their caseload, ",
+        "journal": "Blood",
+        "year": "2008",
+        "authors": [
+          "Carmel Ralph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Disease Management",
+          "Humans",
+          "Malabsorption Syndromes",
+          "Practice Guidelines as Topic",
+          "Treatment Outcome",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18606874/"
+      },
+      {
+        "pmid": "39047712",
+        "title": "Hallucinations and Vitamin B12 Deficiency: A Systematic Review.",
+        "abstract": "Vitamin B12 deficiency is primarily associated with pernicious anaemia, polyneuropathy, and spinal-cord disease, but publications on its association with hallucinations are on the rise.",
+        "journal": "Psychopathology",
+        "year": "2024",
+        "authors": [
+          "Blom Jan Dirk"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vitamin B 12 Deficiency",
+          "Hallucinations",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39047712/"
+      },
+      {
+        "pmid": "38797248",
+        "title": "Oral vitamin B12 supplementation in pernicious anemia: a prospective cohort study.",
+        "abstract": "The absorption of vitamin B12 is hindered in pernicious anemia (PA) owing to intrinsic factor deficiency. Traditionally, intramuscular vitamin B12 injections were the standard treatment, bypassing the impaired absorption. Although there is potential for oral vitamin B12 supplementation through passive enteral absorption, it is not commonly prescribed in PA owing to limited studies assessing its efficacy.",
+        "journal": "The American journal of clinical nutrition",
+        "year": "2024",
+        "authors": [
+          "Lacombe Valentin",
+          "Vinatier Emeline",
+          "Roquin Guillaume",
+          "Copin Marie-Christine",
+          "Delattre Estelle"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vitamin B 12",
+          "Anemia, Pernicious",
+          "Female",
+          "Male",
+          "Prospective Studies",
+          "Dietary Supplements",
+          "Middle Aged",
+          "Aged",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38797248/"
+      },
+      {
+        "pmid": "37247800",
+        "title": "Effects of vitamin B12 deficiency on risk and outcome of ischemic stroke.",
+        "abstract": "Ischemic stroke is the most prevalent form of stroke and has a high incidence in older adults, characterized by high morbidity, mortality, disability, and recurrence rate. Vitamin B12 deficiency is prevalent in the elderly and has been reported to be associated with ischemic stroke. The mechanisms maybe include the disorder of methylation metabolism, accumulation of toxic metabolites, immune dysfunction, affecting gut microbial composition and gut-brain immune homeostasis, and toxic stress responses to the brain. Vitamin B12 deficiency may lead to cerebral artery atherosclerosis, change myelination, influence the metabolism and transmission between nerve tissue, and ultimately causes the occurrence and development of ischemic stroke. This paper reviews the correlation between vitamin B12 deficiency and ischemic stroke, looking forward to improving clinicians' understanding and providing new therapeutic directions for ischemic stroke.",
+        "journal": "Clinical biochemistry",
+        "year": "2023",
+        "authors": [
+          "Zhou Li",
+          "Song Xiaosong",
+          "Wang Jiani",
+          "Tan Yongjun",
+          "Yang Qin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aged",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency",
+          "Ischemic Stroke",
+          "Stroke",
+          "Vitamins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37247800/"
+      },
+      {
+        "pmid": "36401952",
+        "title": "Possible association between vitamin B12 deficiency and restless legs syndrome.",
+        "abstract": "Restless Legs Syndrome (RLS) can be defined as a sleep disorder. However, whether changes in the serum vitamin B12 levels are involved in the pathophysiological mechanism of RLS remains unclear. Our study aimed to determine whether vitamin B12 levels are independently related to the occurrence of RLS.",
+        "journal": "Clinical neurology and neurosurgery",
+        "year": "2022",
+        "authors": [
+          "Geng Chaofan",
+          "Yang Zhenzhen",
+          "Xu Pengfei",
+          "Zhang Hongju"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Restless Legs Syndrome",
+          "Prospective Studies",
+          "Retrospective Studies",
+          "Vitamin B 12 Deficiency",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36401952/"
+      },
+      {
+        "pmid": "26597770",
+        "title": "Metabolic vitamin B12 deficiency: a missed opportunity to prevent dementia and stroke.",
+        "abstract": "The purpose of this narrative review is to highlight insights into the importance and frequency of metabolic vitamin B12 (B12) deficiency, reasons why it is commonly missed, and reasons for the widespread but mistaken belief that treatment of B12 deficiency does not prevent stroke or improve cognitive function. Metabolic B12 deficiency is common, being present in 10%-40% of the population; is frequently missed; is easily treated; and contributes importantly to cognitive decline and stroke in older people. Measuring serum B12 alone is not sufficient for diagnosis; it is necessary to measure holotranscobalamin or functional markers of B12 adequacy such as methylmalonic acid or plasma total homocysteine. B-vitamin therapy with cyanocobalamin reduces the risk of stroke in patients with normal renal function but is harmful (perhaps because of thiocyanate accumulation from cyanide in cyanocobalamin) in patients with renal impairment. Methylcobalamin may be preferable in renal impairment. B12",
+        "journal": "Nutrition research (New York, N.Y.)",
+        "year": "2016",
+        "authors": [
+          "Spence J David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Biomarkers",
+          "Delayed Diagnosis",
+          "Dementia",
+          "Dietary Supplements",
+          "Humans",
+          "Hydroxocobalamin",
+          "Prevalence",
+          "Risk",
+          "Stroke"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26597770/"
+      },
+      {
+        "pmid": "25418386",
+        "title": "Water-soluble vitamins.",
+        "abstract": "",
+        "journal": "World review of nutrition and dietetics",
+        "year": "2015",
+        "authors": [
+          "Said Hamid M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Ascorbic Acid",
+          "Avitaminosis",
+          "Biotin",
+          "Diet",
+          "Folic Acid",
+          "Gastrointestinal Microbiome",
+          "Humans",
+          "Intestines",
+          "Niacinamide",
+          "Pantothenic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25418386/"
+      },
+      {
+        "pmid": "2041378",
+        "title": "Vitamin B12 and folic acid deficiency in chronic pancreatitis: a relevant disorder?",
+        "abstract": "Vitamin B12 malabsorption was reported earlier to occur in patients with exocrine pancreatic insufficiency, and pancreatic extracts were shown to improve the absorption of vitamin B12. We investigated serum levels of vitamin B12 and serum folate in patients with chronic pancreatitis and different degrees of pancreatic insufficiency. 137 patients (84 males, 53 females, age 34-72 years) with chronic pancreatitis (C.P.) were included in the study. 123 of 137 (89.8%) patients had a pathologic pancreatic function test result, classified into mild (n = 24), moderate (n = 61) or severe (n = 38) insufficiency. The normal range of serum vitamin B12 and folic acid was established in 58 healthy controls and was found to be 190-1020 pg/ml for serum vitamin B12 and 2.4-16.1 ng/ml for folic acid. 7 patients (5.7%) with C.P. had vitamin B12 serum levels below 190 pg/ml; 4 of these had severe and 3 had mild or moderate exocrine pancreatic insufficiency. However there was no overall correlation between",
+        "journal": "Klinische Wochenschrift",
+        "year": "1991",
+        "authors": [
+          "Glasbrenner B",
+          "Malfertheiner P",
+          "Büchler M",
+          "Kuhn K",
+          "Ditschuneit H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Chronic Disease",
+          "Exocrine Pancreatic Insufficiency",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Intestinal Absorption",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2041378/"
+      },
+      {
+        "pmid": "32443822",
+        "title": "Relationship between Vitamin Deficiencies and Co-Occurring Symptoms in Autism Spectrum Disorder.",
+        "abstract": "Recently, connections have been made between feeding and eating problems and autism spectrum disorder (ASD) and between autism pathophysiology and diet issues. These could explain some of the mechanisms which have not yet been discovered or are not sufficiently characterized. Moreover, there is an increased awareness for micronutrients in ASD due to the presence of gastrointestinal (GI) problems that can be related to feeding issues. For example, levels of vitamins B1, B6, B12, A and D are often reported to be low in ASD children. Thus, in the present mini review we focused on describing the impact of some vitamins deficiencies and their relevance in ASD patients.",
+        "journal": "Medicina (Kaunas, Lithuania)",
+        "year": "2020",
+        "authors": [
+          "Robea Madalina-Andreea",
+          "Luca Alina-Costina",
+          "Ciobica Alin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Autism Spectrum Disorder",
+          "Avitaminosis",
+          "Child",
+          "Correlation of Data",
+          "Female",
+          "Humans",
+          "Male",
+          "Micronutrients",
+          "Pyridoxine",
+          "Thiamine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32443822/"
+      },
+      {
+        "pmid": "28864375",
+        "title": "Metformin Use and Vitamin B12 Deficiency: Untangling the Association.",
+        "abstract": "Current evidence linking vitamin B12 deficiency with metformin use is inconsistent. Hence, there is uncertainty regarding the diagnostic approach in this scenario. Furthermore, this possible association has not been studied in the complete spectrum of patients with diabetes.",
+        "journal": "The American journal of the medical sciences",
+        "year": "2017",
+        "authors": [
+          "Rodríguez-Gutiérrez René",
+          "Montes-Villarreal Juan",
+          "Rodríguez-Velver Karla Victoria",
+          "González-Velázquez Camilo",
+          "Salcido-Montenegro Alejandro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Cross-Sectional Studies",
+          "Diabetes Mellitus, Type 2",
+          "Female",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Male",
+          "Metformin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28864375/"
+      },
+      {
+        "pmid": "31018715",
+        "title": "Toxicity induced by multiple high doses of vitamin B12 during pernicious anemia treatment: a case report.",
+        "abstract": "Context: The clinical consequences of excess vitamin B12 induced by multiple oral doses of cyanocobalamin are not well-known.Case details: A young woman was treated with multiple daily doses of 1 mg of cyanocobalamin for severe pernicious anemia. After a total dose of 12 mg, she developed acne, palpitations, anxiety, akathisia, facial ruddiness, headache, and insomnia. She improved two weeks after stopping the drug. There were no sequelae nor complications.Discussion: Although these symptoms of cobalamin toxicity were unexpected and unusual, the case reminds us that the administration of any drug is not entirely safe.",
+        "journal": "Clinical toxicology (Philadelphia, Pa.)",
+        "year": "2020",
+        "authors": [
+          "Morales-Gutierrez Jessica",
+          "Díaz-Cortés Sebastián",
+          "Montoya-Giraldo María A",
+          "Zuluaga Andres F"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Adult",
+          "Anemia, Pernicious",
+          "Anxiety",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Humans",
+          "Injections, Intramuscular",
+          "Treatment Outcome",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31018715/"
+      },
+      {
+        "pmid": "38630748",
+        "title": "Vitamin B12 deficiency and neuropsychiatric symptoms in Lebanon: A cross-sectional study of vegans, vegetarians, and omnivores.",
+        "abstract": "Vitamin B12 deficiency is responsible for a variety of complications, particularly neurological/neuropsychiatric complications, including depression, irritability, paresthesia and insomnia. Since vitamin B12 is found in animal-derived products, vegans/vegetarians are at a greater risk for developing vitamin B12 deficiency.",
+        "journal": "PloS one",
+        "year": "2024",
+        "authors": [
+          "Al Jassem Omar",
+          "Kheir Karim",
+          "Ismail Ali",
+          "Abou-Abbas Linda",
+          "Masri Alaa"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Vegans",
+          "Cross-Sectional Studies",
+          "Diet, Vegetarian",
+          "Sleep Initiation and Maintenance Disorders",
+          "Paresthesia",
+          "Lebanon",
+          "Vegetarians",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38630748/"
+      },
+      {
+        "pmid": "39163059",
+        "title": "Diagnostic Signs and Symptoms of Cyanocobalamin Deficiency at Rural Setting in India: Novel Method of Supplementation.",
+        "abstract": "Cyanocobalamin or B12 deficiency is common in the Indian population, and responsible for anemia. Various clinical manifestations include central nervous system and cardiovascular manifestations, secondary to a rise in serum homocysteine levels.",
+        "journal": "The Journal of the Association of Physicians of India",
+        "year": "2024",
+        "authors": [
+          "Bawaskar Himmatrao Saluba",
+          "Bawaskar Pramodini Himmatrao",
+          "Jadhav Vikas Lb"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vitamin B 12 Deficiency",
+          "India",
+          "Female",
+          "Male",
+          "Vitamin B 12",
+          "Dietary Supplements",
+          "Adult",
+          "Rural Population",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39163059/"
+      },
+      {
+        "pmid": "33657632",
+        "title": "Vitamin B12 Deficiency and West Syndrome: An Uncommon but Preventable Cause of Neurological Disorder. Report on Three Cases, One of Them with Late Onset during Vitamin B12 Treatment.",
+        "abstract": "Vitamin B12 is a water-soluble vitamin that plays a fundamental role as an essential cofactor for two enzymes responsible for the production of succinyl-CoA and methionine. Vitamin B12 deficiency can occur in infants and may be related to the breastfeeding mother's adherence to a vegan diet or somatic diseases in the mother. It should be differentiated from inborn errors of vitamin B12 metabolism. Herein, we report the cases of three infants with West syndrome; all three were breastfed by mothers who followed a strict vegan diet. In one of the three infants, West syndrome developed during treatment with vitamin B12 and normalization of the vitamin B12 level. Early treatment and replacement therapy are worthwhile to prevent serious neurological problems and to improve the patient's clinical course.",
+        "journal": "Neuropediatrics",
+        "year": "2021",
+        "authors": [
+          "Pavone Piero",
+          "Sullo Federica",
+          "Falsaperla Raffaele",
+          "Greco Filippo",
+          "Crespo Agustina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Breast Feeding",
+          "Female",
+          "Humans",
+          "Infant",
+          "Nervous System Diseases",
+          "Spasms, Infantile",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33657632/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:43:09.960587",
+  "success": true,
+  "error_message": null
+}

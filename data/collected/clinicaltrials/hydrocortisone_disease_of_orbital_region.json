@@ -1,0 +1,961 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Hydrocortisone",
+    "disease": "disease of orbital region"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07112430",
+      "title": "Intranasal Fentanyl to Reduce Pain Intensity Associated With Retinopathy of Prematurity Screening in Preterm Infants: A Randomized Control Trial",
+      "phase": "PHASE1, PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-10-01",
+      "completion_date": "2027-05-01",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "This single-center, double-blinded, randomized controlled trial aims to evaluate the efficacy and safety of intranasal fentanyl (INF) for reducing pain during retinopathy of prematurity (ROP) screening in preterm infants. The trial will enroll preterm neonates (≤32 weeks gestation) requiring ROP screening and randomize them to receive either intranasal fentanyl (2 mcg/kg) or a placebo (normal saline) 5-10 minutes prior to the procedure. The primary outcome is pain intensity measured using the Pr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants born at \\<32 weeks gestational age\n* Undergoing their first screening for retinopathy of prematurity (ROP)\n* Clinically stable at the time of the procedure\n* Parental or legal guardian informed consent obtained\n\nExclusion Criteria:\n\n* Known or suspected congenital anom",
+      "endpoints": [
+        "Pain intensity during ROP screening"
+      ],
+      "sponsor": "IWK Health Centre",
+      "url": "https://clinicaltrials.gov/study/NCT07112430"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07119164",
+      "title": "The Effect of Laughter Yoga Applied to Parents of Mentally Disabled Children on Stress Level, Burnout and Parental Self-Efficacy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2025-04-15",
+      "completion_date": "2025-05-15",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 64,
+      "brief_summary": "The present study aims to investigate the effects of laughter yoga on stress levels, burnout, and parental self-efficacy among parents of children with intellectual disabilities.\n\nThe specific hypotheses of the study are as follows:\n\nHypothesis 1: The mean salivary cortisol levels of the intervention group will be significantly lower than those of the control group.\n\nHypothesis 2: The perceived stress levels of the intervention group will be significantly lower than those of the control group.\n\n",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Parents of children enrolled in the school where the study was conducted\n* Parents of children diagnosed with moderate to severe intellectual disability\n* Parents who are at least literate\n* Parents who can speak and understand Turkish\n* Parents with no prior experience in lau",
+      "endpoints": [
+        "self-efficacy",
+        "burnout",
+        "Perceived stress"
+      ],
+      "sponsor": "Pamukkale University",
+      "url": "https://clinicaltrials.gov/study/NCT07119164"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04850911",
+      "title": "Reward Emotion Learning and Ketamine Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-08-25",
+      "completion_date": "2023-05",
+      "country": "United Kingdom",
+      "enrollment": 70,
+      "brief_summary": "Ketamine's efficacy as an antidepressant is now well established yet the mechanisms underlying its antidepressant effect are yet to be fully described. Work in the animal literature and research in humans is suggestive of specific effects on anhedonia and memory reconsolidation. In this study the investigators will further explore the effects of ketamine on learning and memory as well as measuring the associated changes at neural level in a sample of healthy volunteers. Participants will be assi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* BMI between 18 and 30\n* Participant is willing and able to give informed consent for participation in the study\n* Sufficient knowledge of English language to understand and complete study tasks\n* Willingness to refrain from driving, cycling, or operating heavy machinery, until",
+      "endpoints": [
+        "Activation of the habenula during the Pavlovian conditioning task in response to the conditioned stimulus associated with pain stimuli and in response to the receipt of shock.",
+        "Habenula response to the absence of expected reward and the receipt of an unexpected loss (i.e. a negative prediction error signal) in both the reward maximisation and loss minimisation tasks.",
+        "Preference for high-reward probability shapes learned after winning money (in the Wheel of Fortune draw) during the preference test."
+      ],
+      "sponsor": "University of Oxford",
+      "url": "https://clinicaltrials.gov/study/NCT04850911"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04119128",
+      "title": "Effects of Transcranial Direct Current Stimulation (tDCS) on Fatigue in Patients With Primary Sjogren's Syndrome: a Double-blinded Randomized Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-06-03",
+      "completion_date": "2020-04-01",
+      "country": "Brazil",
+      "enrollment": 36,
+      "brief_summary": "Sjogren's Syndrome (SS) is an autoimune disease of unknown etiology characterized by lymphocytic infiltration of the exocrine glands and other organs. patients usually presents with xerophthalmia, xerostomia, fatigue and other symptoms. Fatigue has often been reported as the biggest problem and the most difficult symptom patients have to deal with. Fatigue management in pSS is difficult. However, in other diseases such as Parkinson disease, post-polio syndrome and multiple sclerosis the use of T",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women\n* Age between 18 and 65 years old;\n* Diagnosis of primary Sjogren's Syndrome according to American-European Criteria;\n* Stable pharmacological therapy for at least 3 months;\n* Complaints of fatigue as assessed by Fatigue Severity Scale (FSS\\>5).\n* Complaints of fatigue f",
+      "endpoints": [
+        "Change in Fatigue"
+      ],
+      "sponsor": "Federal University of São Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT04119128"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03775369",
+      "title": "Influence of Physical Activity in Patients With High Grade Glioma (WHO III° and IV°) on Patients' Psychological Well Being, Sleep and Quality of Life",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-10-26",
+      "completion_date": "2022-02-28",
+      "country": "Switzerland",
+      "enrollment": 39,
+      "brief_summary": "To investigate the influence of two physical activity and exercising (PAE) interventions, namely resistance training and endurance training in relation to quality of life, depression, fatigue, sleep, anxiety, stress and coping, body image, and social interactions (psychological dimensions); cardiorespiratory fitness, morning cortisol secretion, inflammatory markers, and objective sleep (physiological dimensions), along with cancer-related dimensions",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with high grade glioma (WHO III° and IV°), and undergoing radiotherapy, chemotherapy, or both\n* Willing and able to follow the study intervention\n* Signed written informed consent\n\nExclusion Criteria:\n\n* Severe psychiatric (psychosis, suicidal behavior, substance use ",
+      "endpoints": [
+        "Change in Functional Assessment of Cancer Therapy Scale (FACT)",
+        "Change in Hamilton Depression Rating Scale (HDRS)",
+        "Change in Intolerance of Uncertainty Scale (IU)"
+      ],
+      "sponsor": "University Hospital, Basel, Switzerland",
+      "url": "https://clinicaltrials.gov/study/NCT03775369"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01114503",
+      "title": "A Randomised, Comparator Controlled, Two Part, Open-label Study to Evaluate the Safety, Tolerability and Pharmacodynamics of Multiple Doses of Otelixizumab in Patients With Thyroid Orbitopathy",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-07-07",
+      "completion_date": "2012-08-29",
+      "country": "United Kingdom",
+      "enrollment": 2,
+      "brief_summary": "The purpose of this study is to investigate the safety and tolerability of otelixizumab in patients with Graves' ophthalmopathy (thyroid eye disease). There is currently no alternative therapy available for this condition other than treatment with steroids, or radiotherapy and surgery. The study also includes a comparison of the current steroid treatment, methylprednisolone, with the proposed new otelixizumab treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female between 18 and 75 years of age inclusive\n* A female subject is eligible to participate if she is of:\n* Non-childbearing potential defined as pre-menopausal females with a documented tubal ligation or hysterectomy; or postmenopausal defined as 12 months of sponta",
+      "endpoints": [
+        "Number of Participants With at Least One Adverse Event (AE), Serious Adverse Event (SAE), or Drug-related Adverse Event",
+        "Number of Participants With Laboratory Clinical Chemistry Abnormalities Meeting the Criteria for Potential Clinical Concern (PCC)",
+        "Number of Participants With Laboratory Hematology Abnormalities Meeting the Criteria for PCC"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01114503"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06658223",
+      "title": "Effects of Immersive Virtual Reality on Quality of Life, Stress, Anxiety, Depression and Cortisol in Fibromyalgia",
+      "phase": "NA",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2024-09-02",
+      "completion_date": "2025-02-28",
+      "country": "Chile",
+      "enrollment": 30,
+      "brief_summary": "Fibromyalgia is considered a disease of unknown etiology, which It affects between 2 to 5% of the population in developed countries, mostly women, diagnosed mainly between 40 and 50 years of age, and whose main characteristic is generalized presence of musculoskeletal pain. Although the most described symptoms are multiple sensitive areas in trigger points, fatigue and cognitive dysfunction, this syndrome is associated commonly to anxiety disorders, depression and catastrophizing. In Chile, cons",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females\n* over 18 years of age\n* with a diagnosis of fibromyalgia issued by a medical professional under the ACR criteria (2016)\n\nExclusion Criteria:\n\n* Subjects were excluded from the study when they presented pregnancy or lactation\n* oncologic pain\n* uncontrolled m",
+      "endpoints": [
+        "Impact of Fibromyalgia on Quality of Life"
+      ],
+      "sponsor": "Universidad San Sebastián",
+      "url": "https://clinicaltrials.gov/study/NCT06658223"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05012033",
+      "title": "Evaluation of High Dose Prednisolone Pharmacokinetics in the Acute and Chronic Setting",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-04-12",
+      "completion_date": "2026-03-26",
+      "country": "United Kingdom",
+      "enrollment": 120,
+      "brief_summary": "This is a pilot study to investigate serum prednisolone profiles in:\n\n* Patients on high doses of prednisolone for any inflammatory disorder, both in the acute and chronic setting.\n* Patients stepping up from or down to prednisolone therapy in association with a course of high dose methyl-prednisolone or dexamethasone.\n\nThe study will comprise 3 groups, including those started on high doses of prednisolone acutely in an inpatient or outpatient setting, participants on chronically high doses, and",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 18 - 75 years\n* Male or female\n* Participants who are otherwise healthy enough to participate, as determined by pre-study medical history\n* Participants who are able and willing to give written informed consent to participate in the study\n* Group A only: Patients requirin",
+      "endpoints": [
+        "To elucidate differences in prednisolone pharmacokinetics (in patients receiving high dose prednisolone acutely and in the chronic setting).",
+        "To elucidate differences in prednisolone pharmacokinetics (in patients receiving high dose",
+        "To elucidate differences in prednisolone pharmacokinetics (in patients receiving high dose"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT05012033"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05187533",
+      "title": "Efficacy of the Sphenopalatine Ganglion Stimulation Osteopathic Protocol in Patients with Ocular and Oral Dryness",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-01-15",
+      "completion_date": "2024-10-30",
+      "country": "Spain",
+      "enrollment": 30,
+      "brief_summary": "Dry Eye Disease (DED) is a multifactorial pathology characterized by inflammation of the lacrimal functional unit that develops in ocular surface pathology, severely affecting patients quality of life. The core of the treatment relies at present in antinflammatory topical therapies, which are still scarce.\n\nThe investigators hypothesize that osteopathy-based techniques may help these patients by influencing the central involvement regarding parasympathetic innervation of tear and saliva-secretin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\> 18 years old.\n* Patients diagnosed with Dry eye disease (DED) and suffering symptoms of ocular and oral dryness for at least 6 months.\n* \"Dry eye\" symptoms must have a score of \\> 2 (0-4 range) in mSIDEQ questionnaire.\n* Ocularly symptomatic patients (OSDI \\> 12) despite th",
+      "endpoints": [
+        "Ocular Surface Disease Index (OSDI)",
+        "Ocular Surface Disease Index (OSDI)",
+        "Modified Single-Item Score Dry Eye-Questionnaire (mSIDEQ)"
+      ],
+      "sponsor": "Instituto Universitario de Oftalmobiología Aplicada (Institute of Applied Ophthalmobiology) - IOBA",
+      "url": "https://clinicaltrials.gov/study/NCT05187533"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04406376",
+      "title": "Do We Need to Taper Down Steroid Therapy for Bell's Palsy: A Prospective Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2020-05-12",
+      "completion_date": "2023-08-01",
+      "country": "Israel",
+      "enrollment": 124,
+      "brief_summary": "Bell's palsy \\[BP\\] is defined as acute idiopathic peripheral facial palsy or paralysis.\n\nAdditional symptoms frequently include pain around or behind the ear, impaired tolerance to ordinary levels of noise and disturbed sense of taste on the same side. It affects men and women more or less equally.\n\nThere is a consensus in the literature regarding the importance of steroid treatment for improving recovery rates and sequela of BP. Moreover, there is increasing level of high quality of evidence i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients (≥18 years) diagnosed with BP within 72 hour of onset.\n2. Adult patients willing to get treatment, attending follow up visits and signing informed consent.\n\nExclusion Criteria:\n\n1. Patients treated with antivirals (i.e acyclovir) for any reason simultaneously, ",
+      "endpoints": [
+        "House-Brackmann scale"
+      ],
+      "sponsor": "Carmel Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04406376"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04863118",
+      "title": "Acute Effects of Strength Training in Shallow Water and Dry Land and High-intensity Training in Shallow and Deep Water, on Functional Measures and Biochemistries of Individuals With Parkinson's Disease",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-11-01",
+      "completion_date": "2024-04-30",
+      "country": "Brazil",
+      "enrollment": 60,
+      "brief_summary": "Introduction: Parkinson's disease (PD) is the second most common neurodegenerative disease in the elderly. Chronic and progressive, it includes loss of dopamine, a neurotransmitter involved in the regulation of movement. Thus, functional changes, such as postural disorders, trunk flexor pattern, muscle activation deficits, impairment of gait, balance, and mobility are common findings in this population. Once there is dopaminergic depletion, it is important to identify mechanisms that act in the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nGI (Individuals with Parkinson Disease):\n\n* Individuals diagnosed with Parkinson's disease for at least 6 months;\n* Age between 50 to 70 years;\n* Classified on the Hoehn and Yahr scale from 1 to 3;\n* Rigid-akinetic and/or tremor-dominant type;\n* Individuals who have preserved th",
+      "endpoints": [
+        "Changes in postural stability (stabilometry)"
+      ],
+      "sponsor": "Federal University of Health Science of Porto Alegre",
+      "url": "https://clinicaltrials.gov/study/NCT04863118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06669949",
+      "title": "Natural History and Phenotypic Spectrum of Sphingosine Phosphate Lyase Insufficiency Syndrome (SPLIS)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-04-22",
+      "completion_date": "2030-12-31",
+      "country": "United States",
+      "enrollment": 28,
+      "brief_summary": "This is a prospective longitudinal natural history study with a retrospective cross-sectional arm aimed at determining the natural history of sphingosine phosphate lyase insufficiency syndrome (SPLIS), a recently recognized inborn error of metabolism. The central hypothesis is that age of onset, other disease features, and disease biomarkers will be predictive of quality of life (QOL) and survival in SPLIS patients.",
+      "eligibility_criteria": "All identified patients with SPLIS diagnosed by genetic criteria are eligible for enrollment in this study, regardless of baseline demographic, biochemical or metabolic features and regardless of interventions such as vitamin B6 supplementation, dialysis or kidney transplantation at time of enrollme",
+      "endpoints": [
+        "Survival",
+        "Height",
+        "Weight"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT06669949"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07374393",
+      "title": "Establishment of a Research Cohort on Sleep and Sleep Disorders in Patients With Neurological Diseases",
+      "phase": "N/A",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2026-01-04",
+      "completion_date": "2030-12-31",
+      "country": "China",
+      "enrollment": 100,
+      "brief_summary": "This study aims to establish a research cohort on sleep and sleep disorders in patients with neurological diseases to systematically evaluate the relationship between various neurological conditions and sleep characteristics or disturbances.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of neurological diseases, including but not limited to: Stroke (ischemic or hemorrhagic)，Parkinson's disease and other movement disorders，Epilepsy，Cognitive disorders (mild cognitive impairment or dementia)，Neuroinfections or immune-mediated neurological di",
+      "endpoints": [
+        "Total sleep time measured by polysomnography",
+        "Wake after sleep onset measured by polysomnography",
+        "Sleep onset latency measured by polysomnography"
+      ],
+      "sponsor": "The First Hospital of Jilin University",
+      "url": "https://clinicaltrials.gov/study/NCT07374393"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06010498",
+      "title": "The Effect of Eye Mask Applied on Patients Undergoing Coronary Artery Bypass Graft Surgery on Sleep Quality and Pain: Double-Blind Randomized Controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-07-10",
+      "completion_date": "2024-03-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 64,
+      "brief_summary": "Introduction: Coronary Artery Bypass Graft (CABG) performed with open heart surgery technique is a successful operation in the treatment of cardiovascular diseases. Incision of the sternum region, saphenous vein graft, sternal retraction, presence of chest and mediastinal tubes cause pain. The pain experienced by the patients, the complications related to the disease they have, and the stress they experience cause an increase in sleep problems. In addition, the increase in sympathetic activity a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Over 18 years old\n* Those under 65 (Studies show that nighttime awakenings and sleep durations change with age (Lie et al., 2018)\n* Can speak Turkish\n* Those who agreed to participate in the study\n* Those who have not had open heart surgery before\n* No emergency bypass surgery",
+      "endpoints": [
+        "sleep quality measurement (Richards- Campbell Sleep Questionnaire)",
+        "pain measurement (numerical pain scale)"
+      ],
+      "sponsor": "Kutahya Health Sciences University",
+      "url": "https://clinicaltrials.gov/study/NCT06010498"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05330494",
+      "title": "Effects of Perioperative Transcutaneous Electrical Acupoint Stimulation on Postoperative Pain and Agitation in Pediatric Adenoidectomy and Tonsillectomy",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-04-25",
+      "completion_date": "2023-03-10",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "Adenoidectomy and tonsillectomy are generally performed during childhood to help reduce snoring and improve sleep or caused by recurrent infection.And insufficient analgesia may result in postoperative sore throat, difficulty swallowing, aspiration, delayed discharge, spasm, and agitation. Remedial analgesic drugs such as morphine and opioids may lead to postoperative respiration depression, desaturation and vomiting.Transcutaneous electrical acupoint stimulation (TEAS) is a peripheral stimulati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. the American Society of Anesthesiologists physical status Ⅰ and Ⅱ.\n2. Ranging in age from 4 to 10.\n3. Suffering from adenoid and/or tonsil hypertrophy\n4. Preparing for elective surgery under general anesthesia with a signed written informed consent by parents..\n\nExclusion Cri",
+      "endpoints": [
+        "change from pain score within 48 hours after surgery",
+        "change from agitation score within 48 hours after surgery"
+      ],
+      "sponsor": "Xian Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05330494"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02648165",
+      "title": "Secondary Prevention of Depression Through Group-based Acceptance and Commitment Therapy Preceded by an Experimental Attentional Bias Modification Procedure",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2018-11-30",
+      "country": "Norway",
+      "enrollment": 224,
+      "brief_summary": "Depression (major depressive disorder; MDD) is a very common mental disorder. Research suggests that individuals with prior depressive episodes have a risk of the relapse or recurrence of MDD. Secondary prevention has been identified as a key goal in the long-term management of the disease. The current project aims to investigate whether group based Acceptance and Commitment Therapy (ACT) can reduce surrogate and clinical markers of relapse in a group highly vulnerable to depressive episodes. Th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with a history of major depression, currently in remission\n\nExclusion Criteria:\n\n* Current or past neurological illness, bipolar disorder, psychosis or drug addiction.",
+      "endpoints": [
+        "Change in residual symptoms of depression - self report",
+        "Change in residual symptoms of depression - clinician rating"
+      ],
+      "sponsor": "Sorlandet Hospital HF",
+      "url": "https://clinicaltrials.gov/study/NCT02648165"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01227993",
+      "title": "Extension Study for the Evaluation of Finasteride in the Treatment of Chronic Central Serous Chorioretinopathy",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2013-06",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "Background:\n\n* Central serous chorioretinopathy (CSC) is a disease in which fluid accumulates under the retina and can cause distorted vision. CSC often resolves on its own without treatment, but in chronic CSC the fluid persists and can lead to permanent visual loss. Chronic CSC may be partly caused by hormones called androgens.\n* Finasteride is a drug that can modulate the effects of androgens; currently it is marketed as a treatment for male pattern baldness and benign prostate enlargement. T",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\nParticipant previously participated in NCT00837252 (NIH protocol 09-EI-0075), Pilot Study for the Evaluation of Finasteride in the Treatment of Chronic Central Serous Chorioretinopathy, and demonstrated clinical improvement, as indicated by a reduction in subretinal fluid as mea",
+      "endpoints": [
+        "Change in Best-corrected Visual Acuity (BCVA) in the Study Eye at Two Years Compared to Baseline"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01227993"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06243172",
+      "title": "Determining Circadian Metabolic and Behavioural Rhythms in Patients with and Without Type 2 Diabetes and Identifying the Relation to Hormone and Glucose Fluctuations, and Cognition",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2024-02-01",
+      "completion_date": "2025-05-01",
+      "country": "Denmark",
+      "enrollment": 60,
+      "brief_summary": "The goal of the present clinical descriptive study is to characterize and quantify the potential hormonal chronobiological differences between individuals with type 2 diabetes (T2D) and healthy age and weight-matched controls as either circadian aligned or misaligned. The investigators hypothesize that individuals with T2D have a misaligned and different circadian rhythmicity of circadian biomarkers (melatonin and cortisol) than controls, and that this difference in turn is related to 24h hormon",
+      "eligibility_criteria": "Inclusion Criteria:\n\nIndividuals with T2D:\n\n* Informed and written consent.\n* Clinically diagnosed diabetes mellitus type 2 for at least 5 years (diagnosed according to criteria of World Health Organization (WHO)).\n* HbA1c \\>53 mmol/mol\n* Stable medical treatment for at least 8 weeks.\n* Plasma haemo",
+      "endpoints": [
+        "Melatonin oscillations (amplitude, peak, mesor, phase, period length (TAU))",
+        "Cortisol oscillations (amplitude, peak, mesor, phase, period length (TAU))"
+      ],
+      "sponsor": "Steno Diabetes Center Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT06243172"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06080100",
+      "title": "RELIEF OF PSYCHOEMOTIONAL STRESS BEFORE REFRACTIVE LASER VISION CORRECTION SURGERY USING XENON SEDATION",
+      "phase": "EARLY_PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2023-11-01",
+      "completion_date": "2026-04-01",
+      "country": "Russia",
+      "enrollment": 140,
+      "brief_summary": "The goal of this clinical trial is to propose for implementation and evaluate the effectiveness of xenon sedation for the relief of psychoemotional stress disorder before the operation of refractive laser vision correction patients with high anxiety and stress instability who underwent xenon analgosedation before refractive laser vision correction. The main question\\[s\\] it aims to answer are:\n\n1. To develop a method of xenon sedation in patients with a high level of psychoemotional stress befor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* upcoming operation ReLEx® SMILE;\n* high anxiety and stress instability (Spielberger-Khanin test of 46 points or more);\n* signed informed consent to participate in the study.\n\nExclusion Criteria:\n\n\\- concomitant somatic diseases in the decompensation stage.",
+      "endpoints": [
+        "the concentration of cortisol in the blood",
+        "glucose concentration in capillary blood",
+        "stress index"
+      ],
+      "sponsor": "The S.N. Fyodorov Eye Microsurgery State Institution",
+      "url": "https://clinicaltrials.gov/study/NCT06080100"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01860664",
+      "title": "Phase 2 EFFICACY AND SAFETY OF HYDROCORTISONE OPHTHALMIC OINTMENT - VERSUS PLACEBO IN THE TREATMENT OF ALLERGIC CONJUNCTIVITIS",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-05",
+      "completion_date": "2017-01-01",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "The purpose of this study is to determine the safety and effectiveness of hydrocortisone ophthalmic ointment compared to placebo in the treatment of Allergic Conjunctivitis.",
+      "eligibility_criteria": "Inclusion Criteria\n\na) Diagnosis of allergic conjunctivitis. b) Must be at least 18 years of age c) Must be able and willing to comply with all treatment and follow up procedures d) Best corrected visual acuity of 0.3 logMAR or better (Snellen equivalent score of 20/40 or better) in each eye at Visi",
+      "endpoints": [
+        "Efficacy of Hydrocortisone Ophthalmic Ointment 0.5% vs. Placebo for the reduction of signs and symptoms associated with allergic conjunctivitis"
+      ],
+      "sponsor": "Koffler Vision Group",
+      "url": "https://clinicaltrials.gov/study/NCT01860664"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03956238",
+      "title": "Integrating Alcohol Myopia and Objectification to Understand Sexual Assault",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-04-22",
+      "completion_date": "2022-12-31",
+      "country": "United States",
+      "enrollment": 359,
+      "brief_summary": "The present project integrates previous research on factors associated with alcohol-involved sexual assault, with research on how intoxication alters attention and social perceptions in ways that increase the risk of sexual aggression and victimization. Specifically, this project examines whether alcohol intoxication on the part of a male perpetrator impairs attentional capacity and leads to a narrowing of the perceptual field causing a dehumanizing perspective of women as sexual objects for men",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 21-30 years of age\n* at least social drinkers\n* single\n* men attracted to women, women attracted to men\n\nExclusion Criteria:\n\n* current/past alcohol dependence (as assessed by a score of 8 or higher on the Alcohol Dependence Scale), alcohol-related treatment, or hospitalizatio",
+      "endpoints": [
+        "Laboratory analogue of sexual aggression",
+        "Sexual assault vignette measure of risk perception"
+      ],
+      "sponsor": "University of Nebraska Lincoln",
+      "url": "https://clinicaltrials.gov/study/NCT03956238"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06683248",
+      "title": "The Effects of Night Shift Work on Health Across the Menstrual Cycle: a Pilot Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2022-04-25",
+      "completion_date": "2025-12-31",
+      "country": "Sweden",
+      "enrollment": 60,
+      "brief_summary": "The study aims to investigate the effects of sleep deprivation on women's health across different phases of the menstrual cycle.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Healthy\n\nExclusion Criteria:\n\n* Use of hormonal contraceptives\n* Chronic disease\n* Regular use of nicotine\n* Use of medication\n* Consumes excessive amounts of alcohol or coffee",
+      "endpoints": [
+        "The effect of sleep deprivation vs sleep on brain health across the menstrual cycle",
+        "The effects of sleep deprivation across the menstrual cycle on EEG",
+        "The effects of sleep deprivation on metabolic function (TEE)"
+      ],
+      "sponsor": "Uppsala University",
+      "url": "https://clinicaltrials.gov/study/NCT06683248"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02895997",
+      "title": "Turning Night Into Day: Transcontinental Provision of Telehealth By and For the Emory Community",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-07",
+      "completion_date": "2017-12-31",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "The purpose of the study is to determine if temporarily relocating clinicians who deliver remote care using the eICU telehealth system to Sydney, Australia will lead to greater job satisfaction, reduced physiologic stress, and improve performance. Four nurses and six physicians will be sent to a site in Sydney Australia on a rotating basis to determine whether providing care during the Australian daytime is more efficient and precise than providing care during the night in the United States.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinicians working in the clinical operations room at Emory University Hospital who volunteer participation in the study\n\nExclusion Criteria:\n\n* Declining to participate after the first phase of data collection",
+      "endpoints": [
+        "Change in Salivary Cortisol Levels"
+      ],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT02895997"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04580979",
+      "title": "A Natural History Study of Neurodegeneration and Optic Atrophy Caused by Ferredoxin Reductase Mutations in Pediatric and Adult Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-11-03",
+      "completion_date": "2023-08-17",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "The purpose of the study is to systematically characterize the clinical course of the progressive neuropathy and optic atrophy observe in pediatric and adult patients with biallelic mutations in the ferredoxin reductase gene.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are clinically diagnosed with biallelic mutations in the ferredoxin reductase gene\n* Male and female patients from 2 to 65 years of age\n* Patients who have consented to the study\n* In the case of a deceased patient whose parent(s) and/or legal guardian(s) have pro",
+      "endpoints": [
+        "Custom Medical History Questionnaire for Patients with FDXR Mutation-related Mitochondriopathy",
+        "Retrospective examination of the medical records of patients with FDXR Mutation-related Mitochondriopathy",
+        "Eye assessments to evaluate ocular health"
+      ],
+      "sponsor": "State University of New York at Buffalo",
+      "url": "https://clinicaltrials.gov/study/NCT04580979"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05222152",
+      "title": "A Double-Blind, Double-Dummy, Two-Way Cross-Over, Randomised, Phase II Study of Efficacy, Safety and Tolerability of Modified-Release Hydrocortisones: Chronocort® Versus Plenadren®, in Adrenal Insufficiency",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-11-23",
+      "completion_date": "2023-10-18",
+      "country": "United Kingdom, Germany",
+      "enrollment": 58,
+      "brief_summary": "This study is a double-blind, double-dummy, two-way cross-over, randomised, Phase II study to be conducted at approximately 6 investigational sites in 2 countries. The study will compare the efficacy, safety and tolerability of twice daily Chronocort, a modified-release hydrocortisone, with once daily Plenadren, a modified-release hydrocortisone, over a treatment period of up to 2 months in participants aged 18 years and over, diagnosed with primary Adrenal Insufficiency (AI).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female participants must be aged 18 years or older at the time of signing the informed consent.\n* Participants with known (documented) primary AI, defined as early morning pre-dose cortisol \\<50 nmol/L and currently treated with glucocorticoid as replacement therapy. P",
+      "endpoints": [
+        "To measure the change in morning serum cortisol levels from baseline, after 4 weeks treatment with Chronocort compared with 4 weeks treatment with Plenadren (crossover study)."
+      ],
+      "sponsor": "Neurocrine UK Limited",
+      "url": "https://clinicaltrials.gov/study/NCT05222152"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00046553",
+      "title": "Glucocorticoid and Mineralocorticoid Receptor Function in Post Traumatic Stress Disorder",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2002-09",
+      "completion_date": "2004-10",
+      "country": "United States",
+      "enrollment": 97,
+      "brief_summary": "The purpose of this study is to examine the function of cortisol receptors in post-traumatic stress disorder (PTSD).\n\nPatients with PTSD have neurobiological dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis function. High corticotrophin releasing hormone (CRH) levels and decreased hippocampal volume are major features of the disorder. The mechanisms responsible for these alterations are not known. This study will evaluate the function of cortisol receptors to determine their roles ",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n18 to 65 years of age.\n\nMale and female.\n\nScore greater than or equal to 50 on the Clinician-Administered PTSD Scale (CAPS-2) as a baseline measure of PTSD symptom severity.\n\nCapable of providing informed consent, obtained prior to any study procedures.\n\nFree of all psychotropic",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00046553"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05249296",
+      "title": "The Impact of Green Spaces on the General Well-being and Stress of Students: an Intervention Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-02-10",
+      "completion_date": "2022-12-31",
+      "country": "Belgium",
+      "enrollment": 50,
+      "brief_summary": "The number of students with psychological problems is on the rise, due to a combination of increasing performance pressure, high expectations, difficulties handling stress, social pressure, and studying. Spending time in a green space has been shown to have positive effects on the mental and general health. This project aims to alleviate the symptoms of mental fatigue and stress related disorders such as burn out in students by offering a nature-based activity.\n\nParticipants are asked to take a ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Student of Hasselt university or university college PXL and dutch speaking\n\nExclusion Criteria:\n\n\\-",
+      "endpoints": [
+        "General health",
+        "Stress levels",
+        "cortisol level (stress levels)"
+      ],
+      "sponsor": "Hasselt University",
+      "url": "https://clinicaltrials.gov/study/NCT05249296"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00039715",
+      "title": "Effect of Hydrocortisone Infusion on Hippocampal Glucose Metabolism, Neuropsychological Test Performance and Reexperiencing Symptoms in Patients With Post-Traumatic Stress Disorder (PTSD)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2002-06",
+      "completion_date": "2004-09",
+      "country": "United States",
+      "enrollment": 93,
+      "brief_summary": "The purpose of this study is to determine whether people who develop Post-Traumatic Stress Disorder (PTSD) after a trauma have increased sensitivity to the effects of a stress hormone.\n\nPatients with PTSD have small hippocampal volume and deficits in hippocampal-mediated memory as compared to healthy people. However, it is unclear whether the smaller hippocampi are a consequence of PTSD or a risk factor for the development of PTSD. Some researchers believe that people who develop PTSD have an in",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n1. The study sample will consist of:\n\n   Patients with a primary diagnosis of PTSD due to non-combat or combat related trauma according to DSM-IV.\n\n   Subjects with non-combat related traumatic experiences without current PTSD and\n\n   Healthy subjects without current or past his",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00039715"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05748574",
+      "title": "The Sleep Well Observation Study: a Single-arm, Open-label, Prospective Intra-individual Change Controlled, Exploratory Pilot Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-03-14",
+      "completion_date": "2023-08-03",
+      "country": "Germany",
+      "enrollment": 50,
+      "brief_summary": "Insomnia is characterized by the recurring difficulty to fall or remain asleep despite motivation and means to do so. People with insomnia also experience excessive daytime sleepiness and other cognitive impairments while they are awake. Facing the situation mentioned and realizing that especially early preventive measures are needed to fight the increasing costs for treatment of sleep related diseases, effective nutrients might be a good and safe option to improve sleep quality.This single-arm,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Voluntary, written, informed consent to participate in the study.\n\n  * Male or female aged between 18-50 years (inclusive).\n  * Self reported sleep problems precursing the criteria of the German \"S3 guideline non-restorative sleep/sleep disorders - insomnia in adults\".\n  * H",
+      "endpoints": [
+        "Change in perceived sleep quantity/quality",
+        "Change in perceived sleep quantity/quality"
+      ],
+      "sponsor": "A. Vogel AG",
+      "url": "https://clinicaltrials.gov/study/NCT05748574"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05619133",
+      "title": "Effects and Underlying Mechanisms of Photobiomodulation (PBM) on Health and Well-Being",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-01-01",
+      "completion_date": "2023-05-31",
+      "country": "N/A",
+      "enrollment": 80,
+      "brief_summary": "The goal of this clinical study is to assess the effects of different photobiomodulation (PBM) conditions in men and women between 25 and 65 years old with daytime sleepiness/drowsiness and /or mild mood complaints but be otherwise healthy. The main question it aims to answer are:\n\n1. Does PBM significantly affect health and well-being?\n2. Are PBM effects wavelength dependent?\n3. Are PBM effects pulse dependent?\n4. Are the eyes needed to assert an PBM effect or is exposure only to the skin suffi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nHealthy, no chronic disease\n\n* Age between 25 - 65 years.\n* Suffer from daytime sleepiness/drowsiness and or a mild mood disturbance (ESS \\>5 or BDI equal to or higher than 13 but lower than 20, PSQI \\> 5)\n* Participants will have to have a desk type of work and/or have 3 hours ",
+      "endpoints": [
+        "Change from baseline in subjective mood after 5 and after 10 PBM sessions",
+        "Change from baseline in subjective drowsiness after 5 and after 10 PBM sessions",
+        "Change from baseline in depressions scale after 5 and after 10 PBM sessions"
+      ],
+      "sponsor": "Seaborough Life Science B.V.",
+      "url": "https://clinicaltrials.gov/study/NCT05619133"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02681783",
+      "title": "PRedictive Factors and Changes From Treatment in Idiopathic Polypoidal Choroidal Vasuclopathy Versus Central Serous Chorioretinopathy Versus Neovascular Age Related Macular Degeneration With afLibercept",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-12-01",
+      "completion_date": "2022-12-01",
+      "country": "Canada",
+      "enrollment": 90,
+      "brief_summary": "The presence of PEDs in nAMD, CSR and iPCV can present a diagnostic challenge in the elderly population; despite detailed diagnostic testing to differentiate these three conditions, misdiagnosis and mistreatment still occurs. One potential way of differentiating these three conditions might be to compare cytokine profiles in nAMD versus CSR versus iPCV. This information may be useful in creating a diagnostic aqueous cytokine and hormone profile to differentiate between nAMD, CSR and iPCV.\n\nThe p",
+      "eligibility_criteria": "Inclusion criteria for all study eye groups:\n\n1. 18 years of age or older\n2. Ability to provide signed informed consent\n3. Capable of complying with study protocol and required diagnostic tests\n4. Meets study eye criteria for each respective group (see Section 5 above)\n5. Participants in the nAMD, C",
+      "endpoints": [
+        "Baseline aqueous humour cytokine levels in nAMD, CSR, and iPCV patients"
+      ],
+      "sponsor": "Sunnybrook Health Sciences Centre",
+      "url": "https://clinicaltrials.gov/study/NCT02681783"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02780544",
+      "title": "Is There a Difference in Pain Score, Stress Response and Motor Repertoire in Infants Given Skin-to-skin Contact With the Mother/Father or Standard Care During Screening for Retinopathy?",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2016-06",
+      "country": "Norway",
+      "enrollment": 34,
+      "brief_summary": "Retinopathy of prematurity (ROP) is a feared complication of premature birth. If discovered in time, the disease can be treated, and impaired vision or blindness can be reduced. Premature infants are therefore examined regularly after birth. However, the examination is painful and stressful for the infant. Painful experiences might lead to a pathological stress response later in life and should therefore be prevented.\n\nIn this study skin-to-skin contact with a parent is tested for relief of pain",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants \\< 32 weeks of gestational age (\\< 31+6 weeks)\n\nExclusion Criteria:\n\n* Infants with ongoing analgesic treatment",
+      "endpoints": [
+        "pain score"
+      ],
+      "sponsor": "St. Olavs Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02780544"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01254045",
+      "title": "Double-blind Placebo Controlled Study of Oxytocin in Fragile X Syndrome",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-02",
+      "completion_date": "2010-01",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this study is to determine whether the medication oxytocin is an effective and tolerable treatment in adolescent males with fragile X syndrome (FraX) for improving socially appropriate behaviors and reducing social anxiety.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Confirmed genetic diagnosis of Fragile X (FraX) (full mutation).\n2. Male (who have more serious effects due to the X chromosome nature of the disorder)\n3. Age 13-29 years.\n4. Parent of adolescent must be willing to sign informed consent.\n5. Intelligence Quotient (IQ) \\> 42.\n\n",
+      "endpoints": [
+        "Eye Contact/Gaze During 10 Minute Social Challenge Task"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT01254045"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06018727",
+      "title": "Role Of Sensitivity to neuroEndocrine Systems in Social Decisions",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2024-07",
+      "completion_date": "2025-07",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this research study is to investigate how personality traits and neuroendocrine systems relate to decision-making patterns in individuals 18-45 years old. The main question it aims to answer is how neuroendocrine activity impacts decision-making.\n\nThis study has two components. First, there will be an online session that participants complete to consent into the study, complete self-report surveys and a cognitive assessment, and confirm their eligibility for the second part of the",
+      "eligibility_criteria": "Inclusion Criteria:\n\nBorderline Personality Disorder (BPD) group:\n\n* Score of 38 or higher on PAI-BOR\n* Participants in the BPD group will be primarily recruited from the two DEPENd lab studies that maintain large samples of BPD participants. To ensure maximal similarity between BPD participants rec",
+      "endpoints": [
+        "Goal-directed decision-making in the Social Decision Tree Task (SDTT)",
+        "Change in salivary cortisol",
+        "Pupil diameter during SDTT"
+      ],
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "url": "https://clinicaltrials.gov/study/NCT06018727"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02249676",
+      "title": "Autologous Mesenchymal Stem Cells for the Treatment of Progressive and Refractory Neuromyelitis Optica Spectrum Disorders: an Open-label Phase 2a Proof-of-concept Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2014-12-31",
+      "country": "China",
+      "enrollment": 15,
+      "brief_summary": "Neuromyelitis optica (NMO) is a demyelinating and degenerative disorder of the central nervous system affecting vision and brain and spinal cord function which leads to accumulating disability with a 5 year-mortality of approximately 30%. Survivors are typically left with severe morbidity secondary to blindness, quadriparesis and respiratory failure. No agent has been found to be highly effective in halting disease activity.Based on recent outcomes of Multipotent mesenchymal stromal cells in aut",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinically definite neuromyelitis optica or neuromyelitis optica spectrum disorder\n* Age \\> 18 year\n* EDSS \\> 3\n* Progression continued relapses or worsening MRI after at least a year of attempted therapy as evidenced by one or more of the following:\n\n  * Increase of 1 EDSS po",
+      "endpoints": [
+        "EDSS"
+      ],
+      "sponsor": "Tianjin Medical University General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02249676"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06510335",
+      "title": "Evaluation of a Lavender-based Natural Product System for Sleep Support",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-06-01",
+      "completion_date": "2023-08-11",
+      "country": "United States",
+      "enrollment": 46,
+      "brief_summary": "The goal of this clinical trial is to learn whether lavender essential oil-based product system can affect gene expression, serum protein markers, and sleep quality in healthy volunteers. The main questions this study aims to answer are:\n\n* Does the lavender essential oil-based product system affect gene expression and protein markers as measured in blood?\n* Does the lavender essential oil-based product system affect subjective quality of life and sleep assessments?\n* Is daily use of the product",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females, 35-50 years old\n* Non-smokers\n* Local to Pleasant Grove, Utah, and/or willing to come to clinical research center for study visits\n* Willing and able to apply study products internally, topically and aromatically for about 6 weeks\n* Willing to track use of s",
+      "endpoints": [
+        "Gene expression",
+        "Interleukin 6 (pg/mL)",
+        "Cortisol (ug/mL)"
+      ],
+      "sponsor": "dōTERRA International",
+      "url": "https://clinicaltrials.gov/study/NCT06510335"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03946787",
+      "title": "EMDR Therapy in Relapse Prevention in Mood Episodes in Adolescents With Bipolar Disorder and History of Trauma: A Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-02-05",
+      "completion_date": "2020-01",
+      "country": "Brazil",
+      "enrollment": 82,
+      "brief_summary": "In this research, EMDR protocol model specific for bipolar patients with a history of trauma, developed by Benedikt Ahmann et al (2017), who applies EMDR in adults with Bipolar Disorder (BD) and history of trauma will be adapted for adolescents. This protocol consists of a detailed survey of traumatic events, intervention and processing of these events according to the standard protocol developed by Shapiro.\n\nThe main hypothesis is that the use of EMDR in adolescents with BD and history of traum",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age between 12 and 17 years and 11 months;\n2. current clinical state of euthymia (patient stable or euthymic) after clinical evaluation, defined as the presence of clinical remission (CDRS ≤ 40, YMRS ≤ 12.5 and CGAS (Children's Global Assessment Scale) ≥ 51), being the presen",
+      "endpoints": [
+        "Reduction in the number of manic switches.",
+        "Reduction in the number of depressive episodes"
+      ],
+      "sponsor": "Hospital de Clinicas de Porto Alegre",
+      "url": "https://clinicaltrials.gov/study/NCT03946787"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06183476",
+      "title": "Circadian Amplification in Diabetic Retinopathy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-03-20",
+      "completion_date": "2025-01-10",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "This study will test the effects of a 6-week comprehensive circadian optimization intervention Amplify-RHYTHM in patients with diabetic retinopathy. The outcomes of interest are objective and subjective sleep parameters, evening salivary cortisol and melatonin levels, and glucose parameters from continuous glucose monitoring",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* type 2 diabetes\n* a history of at least moderate non-proliferative diabetic retinopathy\n* would like to improve sleep\n* own a smartphone compatible with fitbit.\n\nExclusion Criteria:\n\n* Use of melatonin\n* Use of antipsychotics\n* Use of more than one antidepressant. The dose of ",
+      "endpoints": [
+        "Sleep"
+      ],
+      "sponsor": "University of Illinois at Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT06183476"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05019521",
+      "title": "A Phase 2, Double-Masked, Placebo-Controlled, Dose Range Finding Study of Danicopan (ALXN2040) in Patients With Geographic Atrophy (GA) Secondary to Age-Related Macular Degeneration (AMD)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2021-08-23",
+      "completion_date": "2025-01-21",
+      "country": "Latvia, Australia, Hungary, Italy, Spain, France, Germany, Slovakia, United States, Czechia, South Korea, Japan, United Kingdom",
+      "enrollment": 365,
+      "brief_summary": "This is a dose finding study designed to evaluate the efficacy, safety, and pharmacokinetics of danicopan in participants with GA secondary to AMD. The study consists of a Screening Period of up to 6 weeks, a 104-week masked Treatment Period, followed by a 30-day Follow-up after the last dose. This study will have 4 treatments arms: 100 milligrams (mg) twice daily (bid), 200 mg bid, 400 mg once daily (qd), and matching placebo.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Vaccination for Neisseria meningitidis.\n* Capable of giving signed informed consent.\n* Presentation of GA secondary to AMD in at least 1 eye\n* The entire GA lesion must be \\> 1 μm outside of the foveal center\n\nKey Exclusion Criteria:\n\n* GA in the study eye due to cause oth",
+      "endpoints": [
+        "Rate of Change From Baseline to Week 52 in the Square Root (Sqrt) of Total Geographic Atrophy (GA) Lesion Area in the Study Eye as Measured by Fundus Autofluorescence (FAF)"
+      ],
+      "sponsor": "Alexion Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05019521"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04900675",
+      "title": "Effects of Bright Morning Light Exposure on Students' Stress, Mood, Anxiety, Sleep and, Circadian Rest-activity Cycle",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-10-01",
+      "completion_date": "2024-10-31",
+      "country": "Austria",
+      "enrollment": 125,
+      "brief_summary": "Increased stress levels are a significant problem for many students and represent a risk factor for impaired mental and physical health as well as academic performance. Stress levels are particularly high during the preparation phase for major exams.\n\nThere is good evidence that light therapy is an effective treatment option to improve mood in affective disorders.\n\nThe present study aims at investigating the psychophysiological effects of a 3-week morning bright light exposure in reducing stress",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* students from the faculty of medicine, pharmacy, and law\n* major exam at least 5 weeks ahead\n* major depressive disorder (PHQ-9): Score \\> 4\n* possession of smartphone and data plan\n\nExclusion Criteria:\n\n* suicidal ideation (BDI, Item i): Rating \\> 1\n* seasonal affective disor",
+      "endpoints": [
+        "subjective stress level - baseline/post",
+        "subjective stress level - baseline/post",
+        "subjective stress level - on weekdays"
+      ],
+      "sponsor": "Universitaet Innsbruck",
+      "url": "https://clinicaltrials.gov/study/NCT04900675"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05212714",
+      "title": "Transcutaneous Auricular Vagus Nerve Stimulation (taVNS) to Reduce Post Traumatic Stress Disorder (PTSD) Symptoms in World Trade Center (WTC) Responders",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-03-31",
+      "completion_date": "2024-02-15",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "This study seeks to conduct a randomized, double-blind pilot study, to determine whether the Transcutaneous Auricular Vagus Nerve Stimulation and study procedure are feasible and acceptable for use with World Trade Center responders with Post Traumatic Stress Disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* being a Queens WTCHP responder who agreed to be contacted to participate in research\n* having PTSD as per DSM criteria indicated by the GRDC\n* having elevated PTSD symptoms, indicated by a PCL-S93 score \\> 44 during an annual monitoring visit between 2018-2020\n* having a score",
+      "endpoints": [
+        "Feasibility of Utilizing taVNS with WTCHP Responders as Measured By Rates of Recruitment",
+        "Feasibility of Utilizing taVNS with WTCHP Responders as Measured By Intervention Adherence",
+        "Feasibility of Utilizing taVNS with WTCHP Responders as Measured By Retention Rates"
+      ],
+      "sponsor": "Northwell Health",
+      "url": "https://clinicaltrials.gov/study/NCT05212714"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06308601",
+      "title": "The Effect of Laughter Yoga on Loneliness, Anger and Salivary Cortisol Levels in Visually Impaired Individuals",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-12-02",
+      "completion_date": "2025-01-03",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 66,
+      "brief_summary": "Purpose: This project aimed to examine the effects of laughter yoga, which is accepted as an international nursing initiative, on loneliness, anger and salivary cortisol levels in visually impaired individuals. When the national and international literature was examined, no project was found that measured the results of laughter yoga as an intervention for visually impaired individuals. For this reason, planning an original project in this field aims to contribute to the literature. Thanks to th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Receiving service from Izmir Ataturk Provincial Public Library\n* Being visually impaired\n* Volunteering to participate in the research.\n\nExclusion Criteria:\n\n1. Those diagnosed with diabetes mellitus, hypertension, hypothyroidism, hyperaldosteronism, pregnancy, malignancy, con",
+      "endpoints": [
+        "salivary cortisol test",
+        "UCLA(University of California, Los Angeles) Loneliness Scale",
+        "Trait Anger Scale"
+      ],
+      "sponsor": "Ege University",
+      "url": "https://clinicaltrials.gov/study/NCT06308601"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02612636",
+      "title": "The Effect of Ear Plug and Eye Mask on Sleeping Quality in Critically Ill Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-11",
+      "completion_date": "2017-05",
+      "country": "Egypt",
+      "enrollment": 60,
+      "brief_summary": "Sleep is a complex physiologic and behavioral process essential for rest, repair, well-being, and survival. Sleep is defined as a periodic, reversible state of cognitive and sensory disengagement from the external environment. Critically ill patients experience poor sleep quality. Surveys of ICU survivors have shown that sleep disruption, pain and intubation for mechanical ventilation are the major sources of anxiety and stress during the ICU stay. Many physiological, psychological and environme",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years old.\n* Mechanically ventilated patient.\n* Conscious patient.\n* No hearing problems.\n* No eye disease.\n* Not receiving narcotic drugs five to six hours before sleep time at night.\n* No underlying disease that is affecting sleep such as rheumatoid arthritis and mi",
+      "endpoints": [
+        "Sleep quality ."
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT02612636"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01624194",
+      "title": "Double-blind, Randomized, Placebo Controlled Trial of Intranasal Oxytocin Treatment for Social Deficits in Children With Autism.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2016-05",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "Autism is a pervasive developmental disorder characterized by core deficits in social behavior and communication, and the presence of repetitive or stereotyped behaviors. It is one of three recognized disorders in the autism spectrum which affects an estimated 1 in 88 children in the United States. At present, pharmacotherapies target only associated features of autism, with no effective drug treatments for the social impairments. Several lines of evidence now suggest that the neuropeptide oxyto",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Medically healthy outpatients between 6 and 12 years of age (cut off 12 years and 11 months)\n* Intelligence Quotient \\> 40\n* Diagnosis of autism spectrum disorder based on the Autism Diagnostic Interview - Revised, Autism Diagnostic Observation Schedule, and DSM-IV criteria\n* ",
+      "endpoints": [
+        "Change From Baseline in Parent Rated Social Responsiveness Scale (SRS) Scores During Treatment."
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT01624194"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05369156",
+      "title": "The Effects of Chiropractic Care on Neurophysiological Function, Immune Markers and Health-Related Quality of Life in Adults With Subclinical Spinal Pain Using AI Modelling",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-05-15",
+      "completion_date": "2022-12-01",
+      "country": "Pakistan",
+      "enrollment": 120,
+      "brief_summary": "This study aims to investigate long term and retention (in a subgroup) effects of Chiropractic care (CC) on neurological, behavioral, immunological functions and health-related quality of life in adults with subclinical pain.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* aged between 18 and 60 years\n* have subclinical spinal pain\n\nExclusion Criteria:\n\n* no evidence of spinal dysfunction is present, they are in current pain (above 3/10 on VAS)\n* have sought previous treatment for their spinal issues\n* are unable to perform the assessment proced",
+      "endpoints": [
+        "Functional near-infrared spectroscopy (fNIRS)",
+        "Functional near-infrared spectroscopy (fNIRS)",
+        "Functional near-infrared spectroscopy (fNIRS)"
+      ],
+      "sponsor": "Riphah International University",
+      "url": "https://clinicaltrials.gov/study/NCT05369156"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05798143",
+      "title": "Developing Translational Biomarkers to Predict Clinical Response in Treatment-resistant Depression: Towards a Personalized, Plasticity-enhancing Accelerated Neuromodulation",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-02-28",
+      "completion_date": "2028-12-31",
+      "country": "Italy",
+      "enrollment": 80,
+      "brief_summary": "Background: 30-50% of patients with Major Depressive Disorder (MDD) do not respond adequately despite two or more antidepressant treatments with proper dosage and timing of administration, configuring a condition of Treatment-Resistant Depression (TRD). Repetitive Transcranial Magnetic Stimulation (rTMS) is a neuromodulation technique that uses a magnetic field to stimulate focal cortical brain regions and it has been approved by the FDA for the treatment of TRD. Accelerated rTMS (arTMS) protoco",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Current diagnosis of Major Depressive Disorder (MDD), based on the Diagnostic and Statistical Manual of Mental Disorder - Fifth Edition (DSM-5);\n* Subjects without clinical response to at least two antidepressant treatments administered at adequate dosage and duration during t",
+      "endpoints": [
+        "Changes in psychometric test indicator of depression - MADRS",
+        "Changes in psychometric test indicator of depression - HAM-D 21",
+        "Changes in neuroplasticity - structural RM and fMRI (physiological parameter)"
+      ],
+      "sponsor": "ITAB - Institute for Advanced Biomedical Technologies",
+      "url": "https://clinicaltrials.gov/study/NCT05798143"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05349006",
+      "title": "A Randomized, Placebo-controlled Phase 3 Trial of Azathioprine for the Prevention of Relapse in Myelin-oligodendrocyte-glycoprotein (MOG)-Antibody Associated Disease",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-12-12",
+      "completion_date": "2029-12-12",
+      "country": "France",
+      "enrollment": 126,
+      "brief_summary": "MOG-IgG associated disease (MOGAD) is a rare inflammatory disease of the central nervous system recently described. Initially reported as monophasic, data from incident cohorts suggests that around 50% of adult patients with MOG-Ab may relapse within the first two years of the disease, with most of relapses occurring early after disease onset.\n\nNo randomized controlled trial has ever been performed and therapeutic guidelines for this disease remain unclear especially after a single event. In sho",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* First attack of documented acute demyelinating syndrome of the central nervous system, within the past 3 months, whatever the severity or the clinical phenotype\n* Tested positive for MOG-Ab, confirmed in a centralized lab (Lyon referral centre)\n* Ability of th",
+      "endpoints": [
+        "Time to first relapse (in days), comparing azathioprine-treated vs placebo-treated patients during a randomized control period of a maximum of three years."
+      ],
+      "sponsor": "Hospices Civils de Lyon",
+      "url": "https://clinicaltrials.gov/study/NCT05349006"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06129942",
+      "title": "Light Therapy in Parkinson's Disease: a Prospective, Observational Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2021-09-01",
+      "completion_date": "2026-05-16",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "The aim of this randomized controlled trial (RCT) is to clarify the effect of bright light therapy on motor symptoms and sleep disorders in patients with Parkinson's disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* According to the criteria of PD diagnosis of the MDS, PD patients were selected as the research object. The clinical symptoms of PD patients were consistent with Hoehn and Yahr stages 2-3.\n* All PD patients have maintained stable drug treatment for at least one month, signed c",
+      "endpoints": [
+        "Changes from baseline in total sleep time(TST) by polysomnography (PSG) at the end of each intervention period",
+        "Changes from baseline in sleep efficient by polysomnography (PSG) at the end of each intervention period",
+        "Change from baseline in REM sleep without atonia by (RWA) polysomnography (PSG) at the end of each intervention period"
+      ],
+      "sponsor": "Second Affiliated Hospital of Soochow University",
+      "url": "https://clinicaltrials.gov/study/NCT06129942"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01239693",
+      "title": "A Research Plan for a Randomised, Single-blind, Parallel Group Controlled Trial in Rural Malawi, Testing the Health Effects of Supplementing Maternal Diet During Pregnancy and Lactation and Infant Diet From 6 to 18 Months of Age With High-energy, Micronutrient Fortified Lipid-based Nutrient Supplements (LNS)",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2011-02",
+      "completion_date": "2027-03-31",
+      "country": "Malawi",
+      "enrollment": 1391,
+      "brief_summary": "The use of lipid-based nutrients (LNS), such as Nutributter or fortified spread (FS), have been associated with improved growth and development outcomes among infants in Ghana and Malawi. Modified versions of such supplements have been developed to improve their nutrient density and quality and to lower their costs. Such modified products have proven acceptable to pregnant women in Malawi and Ghana. In the present trial, the investigators aim to test the effect of LNS on pregnancy and child outc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ultrasound confirmed pregnancy of no more than 20 completed gestation weeks\n* Permanent resident of Mangochi District Hospital, Malindi Hospital or Lungwena Health Centre catchment areas\n* Availability during the period of the study\n* Signed informed consent\n\nExclusion Criteri",
+      "endpoints": [
+        "Birth weight",
+        "Newborn length",
+        "Length for age Z-score (LAZ) at 18 months of age"
+      ],
+      "sponsor": "Tampere University",
+      "url": "https://clinicaltrials.gov/study/NCT01239693"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05369143",
+      "title": "The Effects of Chiropractic Care on Neurophysiological Function Immune Markers and Health Related Quality of Life in Children With Subclinical Spinal Pain Using Artificial Intelligence Modelling",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-05-30",
+      "completion_date": "2022-12-01",
+      "country": "Pakistan",
+      "enrollment": 107,
+      "brief_summary": "There is growing evidence that chiropractic care positively impacts various aspects of central and autonomic nervous system function.This study aims to investigate short term and long-term effects of Chiropractic care (CC) on neurological, behavioral, immunological functions and health-related quality of life in children with subclinical spinal pain.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* aged between 10 and 18 years\n* have subclinical spinal pain\n\nExclusion Criteria:\n\n* no evidence of spinal dysfunction is present\n* they are in current pain (above 3/10 on VAS)\n* have sought previous treatment for their spinal issues\n* are unable to perform the assessment proce",
+      "endpoints": [
+        "Functional near-infrared spectroscopy (fNIRS)",
+        "Functional near-infrared spectroscopy (fNIRS)",
+        "Functional near-infrared spectroscopy (fNIRS)"
+      ],
+      "sponsor": "Riphah International University",
+      "url": "https://clinicaltrials.gov/study/NCT05369143"
+    }
+  ],
+  "timestamp": "2026-03-04T13:17:29.291706",
+  "success": true,
+  "error_message": null
+}

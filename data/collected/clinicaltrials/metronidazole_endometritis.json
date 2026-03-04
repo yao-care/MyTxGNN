@@ -1,0 +1,414 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Metronidazole",
+    "disease": "endometritis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06572761",
+      "title": "A Combination of Antibiotics to Decrease Neonatal Mortality and Morbidity for Pregnancies Complicated With Previable Labour and Intact Membranes: a Multicenter, Open-label, Randomized and Controlled Trial",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-09",
+      "completion_date": "2028-05",
+      "country": "France",
+      "enrollment": 350,
+      "brief_summary": "The purpose of this study is to determine whether a combination of antibiotics (cephalosporin 3rd generation, clarithromycin, metronidazole) are effective to prolong pregnancies complicated with previable threatened labour with intact membranes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Threatened previable prelabor with intact membranes between 18weeks of gestation +0/7 and 23 weeks of gestation 6/7 SA defined on endovaginal ultrasound by a short cervix ≤10 mm, and/or protrusion of the membranes on speculum examination.\n* Maternal age \\>18 years\n* Affiliated",
+      "endpoints": [
+        "A perinatal composite outcome"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT06572761"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05205993",
+      "title": "Investigating the Effectiveness of Innovative Intrauterine Antibiotic Therapy for the Treatment of Patients With Chronic Endometritis",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-01-19",
+      "completion_date": "2024-04-30",
+      "country": "Greece",
+      "enrollment": 90,
+      "brief_summary": "Chronic Endometritis (CE) is related to infertility and entails a challenging management. This study investigates the treatment of off-label intrauterine antibiotic infusion either separately or combined with oral antibiotic administration, and it assesses respective performance against the gold standard treatment of oral antibiotic adminstration. Data sourced herein reports on treatment efficiency, defined as a negative diagnosis for chronic endometritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Positive diagnosis of CE following hysteroscopy and endometrial biopsy (positive diagnosis is required by both evaluations)\n* Signed Informed Consent\n* 18.5 \\< BMI \\< 30\n\nExclusion Criteria:\n\n* Diagnosed endometriosis or other related Pelvic Inflammatory Disorder (PID)\n* Curre",
+      "endpoints": [
+        "Negative diagnosis of CE following hysteroscopy and endometrial biopsy"
+      ],
+      "sponsor": "Genesis Athens Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT05205993"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00720291",
+      "title": "Inflammation and Treatment of Bacterial Vaginosis Near Term",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2010-11-23",
+      "country": "United States",
+      "enrollment": 59,
+      "brief_summary": "Most studies demonstrate that untreated bacterial vaginosis increases the rate of preterm birth. Despite this, there is no evidence that screening and treatment of asymptomatic bacterial vaginosis nor interpregnancy treatment of endometritis decreases the subsequent rate of preterm birth. However, treatment of symptomatic bacterial vaginosis has been associated with a modest reduction in subsequent preterm birth. Potential mechanisms for this reduction include a decrease in peripheral maternal p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 32 weeks gestation or greater\n* Multiparity\n* No history of preterm birth\n* English speaking\n* Ability to provide informed consent\n* Bacterial vaginosis by gram stain\n\nExclusion Criteria:\n\n* Acute infections at any site\n* Active autoimmune disease\n* Current anti-inflammatory u",
+      "endpoints": [
+        "Levels of Interleukins 1 and 6 as well as Tumor Necrosis Factor Alpha"
+      ],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT00720291"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02795845",
+      "title": "Oral Probiotics for the Treatment and Prevention of Vulvovaginal Infections in Pregnancy - Double-blind, Randomized, Placebo-controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-11",
+      "completion_date": "2021-08",
+      "country": "Israel",
+      "enrollment": 157,
+      "brief_summary": "During pregnancy, bacterial vaginosis (BV), abnormal vaginal flora (AVF) and vulvovaginal candidiasis (VVC) are associated with serious complications and discomfort. Yet, treatment options are limited. Lactobacilli administration was suggested to treat and prevent vaginal infections. However, this has not been examined in pregnant women, the information regarding oral treatment is scarce, and the mechanisms in which oral ingestion of probiotics induce vaginal lactobacilli proliferation are not w",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Women who will report on vaginal discharge or signs/symptoms consistent with vaginal/vulvar infection\n2. Above 18 years old\n3. pregnant women until 30th weeks of gestation\n4. Willing to participate and singed on consent form\n\nExclusion criteria:\n\n1. Patient refuse to particip",
+      "endpoints": [
+        "The degree of vaginal lactobacilli colonization in the probiotic formula group versus placebo",
+        "The rate of women in the primary prevention group, who developed any vaginal infection (BV/AVF/VVC) during the study period until delivery in the probiotic formula group versus placebo.",
+        "The rate of women in the second prevention group who developed any vaginal infection (BV/AVF/VVC) during the study period until delivery in the probiotic formula group versus placebo."
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT02795845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00545181",
+      "title": "Recurrent Bacterial Vaginosis (RBV): Efficiency of Metronidazole in Comparison to Metronidazole and Intravaginal Acidifying Gel: A Randomized Investigator-blinded Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2009-07",
+      "country": "United States",
+      "enrollment": 55,
+      "brief_summary": "Bacterial vaginosis (BV) is a common, complex clinical syndrome characterized by alterations in the normal vaginal flora. Bacterial vaginosis has been associated with a variety of adverse health outcomes including endometritis; post-abortion endometritis; nongonococcal, nonchlamydial pelvic inflammatory disease; and an increased risk of acquiring and transmitting HIV infection. In pregnancy, BV is associated with premature rupture of the membranes, chorioamnionitis, amniotic fluid infection, pre",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. All women of between 18-50 years of age.\n2. Confirmed current diagnosis of BV using Amsel's criteria.\n3. Women with at least total 2 confirmed episodes of BV including most recent episode (by Amsel's criteria) within a six month period or at least total three or more in the p",
+      "endpoints": [
+        "Recurrent Bacterial Vaginosis"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT00545181"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07265505",
+      "title": "Study of Immune and Microbiological Modifications of the Endometrium in Cases of Recurrent Implantation Failure and/or Recurrent Pregnancy Loss",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-04",
+      "completion_date": "2031-04",
+      "country": "France",
+      "enrollment": 100,
+      "brief_summary": "The IMERR study aims to improve understanding of certain causes of infertility related to recurrent implantation failure (RIF) and/or recurrent pregnancy loss (RPL), conditions that affect many women undergoing assisted reproductive technology (ART). Despite medical advances, some patients repeatedly fail to achieve pregnancy, or experience repeated miscarriages. These situations may be linked to subtle immune or microbial disturbances in the uterus. This study seeks to identify immune and micro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female aged ≥18 and \\<36 years\n* Undergoing assisted reproductive technology (ART) in a fertility center\n* Covered by the French national health insurance system\n* Belonging to one of two groups:\n\n  * Study group: history of recurrent implantation failure (RIF) and/or recurren",
+      "endpoints": [
+        "Profiling of endometrial immune cell populations"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT07265505"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02736682",
+      "title": "Single Dose Ceftriaxone and Metronidazole Versus Multiple Doses for Antibiotic Prophylaxis at Elective Cesarean Section in Mulago Hospital. A Randomized Clinical Trial.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-09",
+      "completion_date": "2016-03",
+      "country": "Uganda",
+      "enrollment": 174,
+      "brief_summary": "Delivery by Cesarean section is increasing worldwide and this is the most important risk factor for post partum infection where there is a 5-20% risk of developing post partum infection than women who deliver vaginally Provision of single dose broad spectrum intravenous antibiotics 30-60 minutes before cesarean section has been found to be as effective as multiple doses in reducing post operative infections. At Mulago National referral Hospital mothers who have had elective and are at low risk o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Antenatal mothers who have an indication for elective cesarean section in New Mulago hospital.\n\nExclusion Criteria:\n\n* Mothers who have a history of allergy to any of the drugs in the study, Mother with visible infection at any site or elevated body temperature before going to",
+      "endpoints": [
+        "Post operative wound infections"
+      ],
+      "sponsor": "Makerere University",
+      "url": "https://clinicaltrials.gov/study/NCT02736682"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00799214",
+      "title": "Back to BASICS: Boric Acid, Alternate Solution for Intravaginal Colonization, Comparing Intravaginal Metronidazole to Boric Acid in Women Symptomatic for Bacterial Vaginosis",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-04",
+      "completion_date": "2016-02",
+      "country": "Canada",
+      "enrollment": 13,
+      "brief_summary": "Bacterial vaginosis (BV), the world's most common vaginal infection, continues to cost patients time, energy, comfort and money. BV is associated with increased incidence of sexually transmitted infections (including HIV), spontaneous abortion, pre-term labour, post-surgical infections, and endometritis. Current treatment for those women symptomatic for BV includes both oral and intravaginal antibiotics, such as metronidazole, which have success rates of 70-80 % at 1 month after treatment. These",
+      "eligibility_criteria": "Inclusion Criteria:\n\nWomen will be included whether their complaint is symptoms of BV and have a positive whiff test/vaginal swab or if they have a positive whiff test/vaginal swab and are then asked if they have any symptoms of BV present. The following criteria must be met for enrolment in the stu",
+      "endpoints": [
+        "Non-inferiority, per protocol comparison of effectiveness of boric acid to metronidazole at day 17 as measured by Nugent score in 16-50 year olds with a z-based confidence interval for the difference of two proportions"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT00799214"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04578015",
+      "title": "A Randomized Controlled Trial of Treatment of Bacterial Vaginosis in Late Third Trimester to Prevent Maternal Peripartum Infection",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2021-04-26",
+      "completion_date": "2022-02-09",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "This is a double-blinded, placebo controlled, multi-center randomized trial of 482 pregnant women who are diagnosed with Bacterial Vaginosis (BV) in the late 3rd trimester (\\>34 weeks). During routine clinic visit after 34 weeks, prospective patients will be counseled about the study. Patients who agree to be enrolled, will sign informed consent. Following enrollment, patients will be screened for BV. Those patients who are BV positive by clinical diagnosis, will be randomized to receive either ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women 18 to ≤50 years with the ability to give informed consent.\n* Patients expected to have a vaginal delivery with no obstetric contraindication for vaginal delivery at time of screening.\n* Diagnosed with bacterial BV per Amsel criteria at time of screening in clini",
+      "endpoints": [
+        "Evaluating Composite of Chorioamnionitis, Postpartum Endometritis, SSI, Wound Infection, or Other Post-cesarean Infections (Occurring Within 6 Weeks After Delivery)"
+      ],
+      "sponsor": "Ohio State University",
+      "url": "https://clinicaltrials.gov/study/NCT04578015"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06396078",
+      "title": "Improvement of PPROM Management With Prophylactic Antimicrobial Therapy",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-07-18",
+      "completion_date": "2026-12",
+      "country": "United States",
+      "enrollment": 56,
+      "brief_summary": "To conduct an unblinded pragmatic randomized controlled trial (pRCT) \"Improvement of PPROM Management with Prophylactic Antimicrobial Therapy (iPROMPT)\" of a seven-day course of ceftriaxone, clarithromycin, and metronidazole versus the current standard of care of a seven-day course of ampicillin/amoxicillin and azithromycin or erythromycin to prolong pregnancy and decrease adverse perinatal outcomes among hospitalized pregnant individuals undergoing expectant management of PPROM \\<34 weeks.",
+      "eligibility_criteria": "Inclusion criteria\n\n* Admitted to the inpatient unit for expectant management of PPROM until delivery\n* Age ≥ 18 years with the ability to provide informed consent\n* Gestational age between 23 0/7 and 32 6/7 weeks\n\nExclusion criteria\n\n* Having received more than one dose of any prophylactic antibiot",
+      "endpoints": [
+        "Latency"
+      ],
+      "sponsor": "Ohio State University",
+      "url": "https://clinicaltrials.gov/study/NCT06396078"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05789940",
+      "title": "Hysteroscopy Versus Endouterine Aspiration in the Management of Trophoblastic Retention: A Prospective Randomized Multicenter Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-09-18",
+      "completion_date": "2029-01-01",
+      "country": "France",
+      "enrollment": 220,
+      "brief_summary": "Introduction: Incomplete early miscarriage is defined as early miscarriage with persistent intrauterine material on ultrasound. Intrauterine retention of trophoblastic debris is not an uncommon phenomenon. These retentions may initially be asymptomatic but are often responsible for persistent metrorrhagia and endometritis. This symptomatology often accentuates the psychological distress of patients mourning the pregnancy. Incomplete miscarriages are mainly managed by the gynecological emergency ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Management for trophoblastic retention after early spontaneous miscarriage (\\<14 weeks of amenorrhea)\n* Diagnosis of intrauterine trophoblastic retention by endovaginal pelvic ultrasound\n* Shared decision for surgical management\n* Current pregnancy desire\n\nExclusion Criteria:\n",
+      "endpoints": [
+        "Uterine vacuity"
+      ],
+      "sponsor": "University Hospital, Montpellier",
+      "url": "https://clinicaltrials.gov/study/NCT05789940"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03187106",
+      "title": "Prophylactic Antibiotics After Cesarean",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-08-01",
+      "completion_date": "2023-07-21",
+      "country": "United States",
+      "enrollment": 321,
+      "brief_summary": "The purpose of this study is to determine if the addition of a 48-hour course of post-operative antibiotics to the recommended course of pre-operative antibiotics improves surgical site infection rate in patients who are obese and undergo Cesarean section after laboring.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women \\>18 and \\<50 years\n* BMI \\>30kg/m2\n* Decision by clinical team to perform Cesarean section\n* Rupture of membranes (ROM) \\< 24 hours after onset of labor or during the course of labor (ROM defined by spontaneous or artificial rupture of the amniotic sac)\n\nExclusion Crite",
+      "endpoints": [
+        "Surgical site infection"
+      ],
+      "sponsor": "The University of Texas Medical Branch, Galveston",
+      "url": "https://clinicaltrials.gov/study/NCT03187106"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06650540",
+      "title": "Levofloxacin Plus Metronidazole Suppositories Versus Levofloxacin Co-administered with Metronidazole Tablets for the Treatment of Chronic Endometritis: a Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-10-22",
+      "completion_date": "2026-12-30",
+      "country": "China",
+      "enrollment": 800,
+      "brief_summary": "This is a single randomised controlled trial. The investigators plan to randomise 800 participants to the levofloxacin plus metronidazole suppositories versus levofloxacin co-administered with metronidazole tablets for the treatment of chronic endometritis in a 1:1 rate. Primary outcome will be the live birth rate after the embryo transfer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infertile patients aged 20-42 years\n* Hysteroscopy and endometrial biopsy were performed, and the\n* Pathological diagnosis was chronic endometritis\n* Serum FSH level on the second day of menstruation was ≤12U/L\n* Agree and sign the informed consent form\n\nExclusion Criteria:\n\n*",
+      "endpoints": [
+        "live birth rate after the first embryo transfer"
+      ],
+      "sponsor": "Peking University Third Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06650540"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04447625",
+      "title": "Introducing Intrauterine Antibiotic Infusion as a Novel Approach in Effectively Treating Chronic Endometritis and Restoring Reproductive Dynamics: A Pilot Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-03-01",
+      "completion_date": "2020-01-03",
+      "country": "Greece",
+      "enrollment": 80,
+      "brief_summary": "Chronic Endometritis (CE) is related to infertility and entails a challenging management. This study investigates the treatment of off-label intrauterine antibiotic infusion (IAI) combined with oral antibiotic administration (OAA), and it assesses respective performance against the gold standard treatment of OAA. Data sourced herein reports on treatment efficiency and fertility restoration for both patients aiming to conceive naturally or via In Vitro fertilization (IVF).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Positive diagnosis of CE\n* Recurrent Pregnancy Loss (RPL) or Recurrent Implantation Failure (RIF)\n* No previous live birth\n* FSH and LH levels -evaluated on day 2 of the menstrual cycle- \\<12 IU/ml\n* AMH levels \\>1.1ng/ml\n* Progesterone levels -evaluated on day 21 of the menst",
+      "endpoints": [
+        "Treatment efficiency rate",
+        "Side-effects rate"
+      ],
+      "sponsor": "Genesis Athens Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT04447625"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06950229",
+      "title": "Efficacy and Safety of Povidone Iodine Versus Normal Saline in Preoperative Vaginal Cleansing Before Caesarean Section: A Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-10-06",
+      "completion_date": "2021-03-09",
+      "country": "Nigeria",
+      "enrollment": 224,
+      "brief_summary": "Post-caesarean maternal infectious morbidity is still a big challenge despite prophylactic antibiotics and preoperative vaginal cleansing with povidone-iodine use in reduction of post-caesarean endometritis.Povidone iodine has been found to cause significant irritation to the vaginal mucosa especially in females with iodine hypersensitivity necessitating the study of efficacy of normal saline which has minimal side effects in the prevention of post caesarean complications",
+      "eligibility_criteria": "Inclusion Criteria:\n\n. All consenting parturient for either elective or emergency caesarean section after the age of viability\n\nExclusion Criteria:\n\n* Women with known allergy to topical povidone-iodine.\n* Women with presence of pre-existing vaginal irritation symptoms as itching, burning, swelling ",
+      "endpoints": [
+        "Post caesarean endometritis.",
+        "Post operative vaginal irritation"
+      ],
+      "sponsor": "Federal Teaching Hospital Abakaliki",
+      "url": "https://clinicaltrials.gov/study/NCT06950229"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05946655",
+      "title": "Evaluation of the Congruity of Methods Used in the Diagnostics of Chronic Endometritis in the Course of Infertility and the Effectiveness of Antibiotic Therapy in the Context of Remission of Symptoms and Obstetric Results",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-04-01",
+      "completion_date": "2024-10-30",
+      "country": "Poland",
+      "enrollment": 102,
+      "brief_summary": "Chronic endometritis (CE) is characterized by the presence of atypical plasma cell infiltrates (CD138 positive) in the endometrial stroma. Recent analyzes suggest that CE adversely affects fertility by reducing endometrial receptivity, impairing decidualization and uterine contractility, thus increasing the risk of recurrent pregnancy loss and implantation failure. It is likely that a significant proportion of idiopathic infertility cases are due to CE. The diagnosis of CE is a challenge because",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 18-45 years\n* lack of previous diagnosis and treatment due to suspected pathology of the uterine cavity\n* lack of active infection of the reproductive tract\n\nExclusion Criteria:\n\n* pelvic surgery performed within 6 months preceding the hysteroscopy\n* confirmed pelvic endom",
+      "endpoints": [
+        "Determination of the cut-off point of the number of plasma cells/1 HPF corresponding to histological CE"
+      ],
+      "sponsor": "Jagiellonian University",
+      "url": "https://clinicaltrials.gov/study/NCT05946655"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04792710",
+      "title": "Randomised Trial Comparing Pre-operative Administration of Single Dose Kefazolin to Kefazolin Plus Metronidazole to Reduce Postpartum Infection",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2021-03-08",
+      "completion_date": "2022-06-30",
+      "country": "South Africa",
+      "enrollment": 1000,
+      "brief_summary": "Randomised controlled trial to investigate the efficacy of adding metronidazole pre-operatively to kefazolin in reducing postpartum infection",
+      "eligibility_criteria": "Inclusion Criteria:\n\n18 years and older Willing and able to provide written informed consent\n\nExclusion Criteria:\n\n* women younger than 18 years women not able or willing to provide written informed consent women with or without infection already receiving antibiotics for other indications women all",
+      "endpoints": [
+        "Efficacy of reducing surgical site infection"
+      ],
+      "sponsor": "University of Pretoria",
+      "url": "https://clinicaltrials.gov/study/NCT04792710"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02430246",
+      "title": "The Association Between the Transfer of Lactobacilli From the Gastrointestinal Tract to the Vagina and the Prevention / Eradication of Abnormal Vaginal Flora in High Risk Pregnancies",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2016-01",
+      "completion_date": "2019-01-10",
+      "country": "Israel",
+      "enrollment": 40,
+      "brief_summary": "Pregnant women at high risk for preterm labor from at least 13 weeks of gestation will be tested to detect abnormal vaginal flora (AVF) or its severe form - bacterial vaginosis (BV) by taking vaginal smear. Treatment will be given according to the results.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* pregnant women from at least 13 weeks of gestation with a risk factor for preterm labor\n\nExclusion Criteria:\n\n* Women with preterm premature rupture of the membranes\n* Immunocompromised women\n* Planned elective preterm birth for reasons other than preterm premature rupture of ",
+      "endpoints": [
+        "The amount of lactobacilli in the vaginal",
+        "The rate of women with normal vaginal flora at enrollment, who developed AVF/BV during the study period",
+        "The rate of women with AVF/BV at enrollment whose infection was eradicated following antibiotics, who developed AVF/BV during the study period"
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT02430246"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07274527",
+      "title": "The PEARL Trial: A Randomized Trial of Amnioinfusion's Protective Effects on Respiratory and Longitudinal Pediatric Outcomes After Intrapartum Thick Meconium Exposure",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-30",
+      "completion_date": "2030-01-30",
+      "country": "United States",
+      "enrollment": 320,
+      "brief_summary": "Thick meconium in the amniotic fluid occurs in about one out of seven pregnancies and increases the chance that a newborn may have breathing problems after birth. These problems can include the need for oxygen, breathing support, admission to the neonatal intensive care unit (NICU), or, in severe cases, meconium aspiration syndrome or persistent pulmonary hypertension.\n\nAlthough amnioinfusion or placing sterile fluid into the uterus during labor was previously studied as a way to reduce these co",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Maternal age greater than or equal to 18 years old\n* Singleton pregnancy\n* Gestational age of greater than or equal to 36 weeks 0 days gestation\n* Cephalic presentation\n* Cercial dilation between 2-10 centimeters\n* Meconium\n\nExclusion Criteria:\n\n* Major fetal anomaly\n* Multipl",
+      "endpoints": [
+        "Number of participants with composite neonatal respiratory morbidity"
+      ],
+      "sponsor": "Medical College of Wisconsin",
+      "url": "https://clinicaltrials.gov/study/NCT07274527"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01194115",
+      "title": "Use of 48 Hour Course of Antibiotics to Prevent Surgical Site Infection in Obese Patients Undergoing Cesarean Delivery",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2010-09",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 475,
+      "brief_summary": "The purpose of this study is to evaluate if preoperative antibiotics, followed by 48 hour course of broad spectrum antibiotics prevents wound infection complications in patients that are obese who undergo cesarean section. Standard antibiotic prophylaxis in all weight women undergoing cesarean section is cefazolin prior to skin incision. It is the hypothesis that a prolonged, 48 hour course of broad spectrum antibiotics that are suited to prevent growth of normal vaginal flora will decrease the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* BMI \\> 30kg/m\\*2\n* Delivery via cesarean section\n* consent to participate\n* age 13 or older\n\nExclusion Criteria:\n\n* known immunodeficiency syndromes\n* non-English speaking\n* known allergy to cephalosporins or metronidazole",
+      "endpoints": [
+        "Surgical site infection"
+      ],
+      "sponsor": "University of Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT01194115"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03954990",
+      "title": "Treatment of Bacterial Vaginosis Prior to Active Labor and Infectious Morbidity: A Randomized Controlled Trial",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2019-10-11",
+      "completion_date": "2022-09-26",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "Bacterial vaginosis (BV) is the most common cause of vaginal discharge among repro-ductive aged women. It is been linked to adverse maternal and neonatal outcomes. Our objective is to evaluate if the use of a single dose of metronidazole in women with BV at time of delivery reduces infectious morbidities",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women ≤50 years at the time of admission with the ability to give informed con-sent.\n* Admission for induction of labor or early spontaneous labor with cervix ≤3 cm.\n* Diagnosed with bacterial vaginosis at time of admission or in the week prior to admission if not treated\n* Ge",
+      "endpoints": [
+        "Rate of Composite outcome of maternal infections"
+      ],
+      "sponsor": "The University of Texas Medical Branch, Galveston",
+      "url": "https://clinicaltrials.gov/study/NCT03954990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01160640",
+      "title": "The Importance of Anti-anaerobic Therapy for Acute PID",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-11",
+      "completion_date": "2015-08",
+      "country": "United States",
+      "enrollment": 233,
+      "brief_summary": "This study is a randomized placebo-controlled trial comparing two antibiotic treatment regimens for acute PID. Women with acute PID will be randomized to one of two treatment regimens: 1) a single intramuscular dose of ceftriaxone 250 mg, doxycycline 100 mg orally twice a day for 14 days, along with placebo tablets orally twice a day for 14 days or 2) same doses of ceftriaxone and doxycycline, and metronidazole 500 mg orally twice a day for 14 days. The primary objective is to compare the eradic",
+      "eligibility_criteria": "Inclusion Criteria:\n\nWomen must meet all of the following inclusion criteria:\n\n1. Age 15-40 at the time of enrollment (Note: Participants between the ages of 15-17 will require written informed consent from parent/legal guardian. Written assent will also be obtained from the minor)\n2. Acute PID, def",
+      "endpoints": [
+        "Clearance of Anaerobic Organisms From the Endometrium"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT01160640"
+    }
+  ],
+  "timestamp": "2026-03-04T13:35:50.421335",
+  "success": true,
+  "error_message": null
+}

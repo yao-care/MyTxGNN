@@ -1,0 +1,932 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Triamcinolone",
+    "disease": "disease of orbital region"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00443521",
+      "title": "Triamcinolone as Adjunctive Treatment to Laser Panretinal Photocoagulation for Proliferative Diabetic Retinopathy",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "2006-07",
+      "country": "Brazil",
+      "enrollment": 30,
+      "brief_summary": "The purpose of the study is to evaluate intravitreal injection of triamcinolone acetonide after laser panretinal photocoagulation in the treatment of proliferative diabetic retinopathy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type II Diabetes\n* symmetric proliferative diabetic retinopathy without high risk characteristics\n* Informed consent signed\n\nExclusion Criteria:\n\n* previous treatment for diabetic retinopathy\n* media opacities that may interfere with clinical, photographically or OCT examinati",
+      "endpoints": [
+        "Visual acuity (ETDRS)",
+        "Optic coherence tomography",
+        "Vitreous haemorrhage"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT00443521"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00238563",
+      "title": "Post-Operative Sub-Tenon Kenalog in Glaucoma Filtering Surgery",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Determine efficacy of sub tenon kenalog injections for post-operative management of trabeculectomy procedures.",
+      "eligibility_criteria": "Inclusion Criteria:Trabeculectomy surgery patient, age 18 or older - Exclusion Criteria:Pregnant, nursing, age less than 18, known allergy to medication being studied",
+      "endpoints": [
+        "Intraocular pressure"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT00238563"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00369863",
+      "title": "A Randomized, Placebo-Controlled Clinical Trial of Intravitreal Triamcinolone for Refractory Diabetic Macular Edema",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-06",
+      "completion_date": "2003-06",
+      "country": "Iran",
+      "enrollment": 76,
+      "brief_summary": "To determine the efficacy and safety of intravitreal triamcinolone acetonide for refractory diabetic macular edema.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinically significant macular edema(CSME)\n* Clinically significant macular edema(CSME)refractory to initial or supplemental macular photocoagulation\n\nExclusion Criteria:\n\n* Mono-ocular patients\n* History of vitrectomy\n* Glaucoma or ocular hypertension\n* Significant media opac",
+      "endpoints": [
+        "Central macular thickness"
+      ],
+      "sponsor": "Shahid Beheshti University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00369863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05428683",
+      "title": "Assistant Professor, Ophthalmology Department, Al Azhar University",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-12-03",
+      "completion_date": "2021-12-10",
+      "country": "Egypt",
+      "enrollment": 84,
+      "brief_summary": "This study aims to evaluate the short-term effects and safety of prophylactic intra-vitreal injection of triamcinolone-moxifloxacin combination after cataract surgery. 84 patients underwent cataract surgery associated with intra-vitreal injection of triamcinolone-moxifloxacin combination after surgery.",
+      "eligibility_criteria": "Inclusion criteria: Patients underwent uncomplicated cataract surgery with:\n\n* A significant cataract.\n* Good control of diabetes mellitus (DM) and hypertension (HPT) if present.\n* Visual acuity not less than hand movement (HM).\n\nExclusion criteria:\n\nThe followings were the exclusion criteria:\n\n* Th",
+      "endpoints": [
+        "Post operative best corrected visual acuity",
+        "A condition of the eye after cataract surgery without use of topical medications."
+      ],
+      "sponsor": "Al-Azhar University",
+      "url": "https://clinicaltrials.gov/study/NCT05428683"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05756062",
+      "title": "Antioxidant and Anti-inflammatory Effects of Oral Supplementation With a Highly-Concentrated Docosahexaenoic Acid (DHA) Triglyceride in Patients With Keratoconus: A Randomized Controlled Preliminary Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-02-01",
+      "completion_date": "2022-01-10",
+      "country": "Spain",
+      "enrollment": 34,
+      "brief_summary": "The goal of this randomized controlled preliminary study is to assess the effect of daily supplementation with a nutraceutical formulation of a highly-concentrated DHA triglyceride plus minerals on ophthalmological parameters and biomarkers of oxidative stress and inflammation in blood samples of patients with keratoconus.The main questions it aims to answer are:\n\n* Improvements in ophthalmological parameters.\n* Increase in antioxidant capacity, decrease in inflammatory status, and changes in li",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of keratoconus stages I to III according to the Amsler-Krumeich classification\n* Non-contact lens wearers\n* No history of previous corneal surgery\n* Capacity to volunteer and willing and able to follow the study protocol\n\nExclusion Criteria:\n\n* Advanced keratoconus (",
+      "endpoints": [
+        "Corneal topography",
+        "Antioxidant variables",
+        "Anti-inflammatory variables"
+      ],
+      "sponsor": "Fundación para el Fomento de la Investigación Sanitaria y Biomédica de la Comunitat Valenciana",
+      "url": "https://clinicaltrials.gov/study/NCT05756062"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00315640",
+      "title": "A Study of the Safety and Efficacy of Anecortave Acetate for Treatment of Steroid Induced Intraocular Pressure (IOP) Elevation",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2009-07",
+      "country": "Italy, Hungary, Puerto Rico, Spain, United States, United Kingdom, Netherlands, Brazil",
+      "enrollment": 70,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of anecortave acetate depot when administered for the treatment of elevated IOP following treatment with steroids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Either gender\n* 18 years of age or older\n* IOP elevation caused by steroid usage\n* Other protocol-defined inclusion criteria may apply\n\nExclusion Criteria:\n\n* Under 18 years of age\n* Other protocol-defined exclusion criteria may apply",
+      "endpoints": [
+        "Mean change in IOP at Week 4 from Baseline"
+      ],
+      "sponsor": "Alcon Research",
+      "url": "https://clinicaltrials.gov/study/NCT00315640"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05337332",
+      "title": "Suprachoroidal Triamcinolone Acetonide Injection in Two Chorioretinal Diseases: One Year Results",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-04-14",
+      "completion_date": "2023-06-01",
+      "country": "Egypt",
+      "enrollment": 50,
+      "brief_summary": "Suprachoroidal injection is a safe way for intraocular drug delivery. It was used to treat various retinal conditions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients diagnosed as central serous chorioretinopathy and patients with cystoid macular edema due to irvine-gass syndrome after cataract surgery.\n\nExclusion Criteria:\n\n* other retinal diseases that may affect CMT and final visual outcome.\n* Patients with dense corneal opacity",
+      "endpoints": [
+        "Central macular thickness"
+      ],
+      "sponsor": "Benha University",
+      "url": "https://clinicaltrials.gov/study/NCT05337332"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00791934",
+      "title": "Clinical Study of Safety and Efficacy for the Relieva Stratus With Elution of Triamcinolone Acetonide (Kenalog-40)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2011-11",
+      "country": "United States",
+      "enrollment": 63,
+      "brief_summary": "Study Design:\n\nA non-randomized, multi-center, prospective, clinical study intended to evaluate the safety and efficacy of treating the ethmoid sinuses with the Ethmoid Sinus Spacer and Access System used for the local delivery of Triamcinolone Acetonide, over a period of 28 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects age 17 years or older\n* Radiographic evidence of ethmoid disease (baseline CT scan obtained within 30 days of scheduled surgery)\n* Diagnosis of chronic sinusitis and failed medical management (minimum of 3 weeks of antibiotics)\n\nExclusion Criteria:\n\n* A",
+      "endpoints": [
+        "Mean Intrapatient Change in Ethmoid Lund-MacKay CT Score (Ethmoid Score Only) at 10 Weeks Post-procedure Compared to Baseline."
+      ],
+      "sponsor": "Integra LifeSciences Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT00791934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00642226",
+      "title": "A Randomized Study Comparing Combined Vitrectomy and Triamcinolone to Laser Grid in Patients With Macular Edema Secondary to Branch Retinal Vein Occlusion (BRVO)",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2006-11",
+      "completion_date": "2013-11",
+      "country": "Norway",
+      "enrollment": 34,
+      "brief_summary": "The purpose of this study is to determine whether pars plana vitrectomy in combination with triamcinolone acetate is effective in the treatment of macular edema due to branch retinal vein occlusion.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Macular edema secondary to BRVO\n* Best Corrected Visual Acuity of ≤ 20/40 on ETDRS chart\n* Duration no shorter than 3 months\n* Duration no longer than 12 months\n\nExclusion Criteria:\n\n* Proliferations in study eye\n* Blod in vitreous cavity\n* Previous fundus laser treatment\n* BR",
+      "endpoints": [
+        "Visual acuity (ETDRS)"
+      ],
+      "sponsor": "Helse Stavanger HF",
+      "url": "https://clinicaltrials.gov/study/NCT00642226"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07423442",
+      "title": "Frequency and Intensity of REcurrences in Non-infectious Posterior Uveitis Treated With Fluocinolone Acetonide Implant (FACi): a Multicenter Retrospective Real-world Study",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-06",
+      "completion_date": "2027-01",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Non-infectious posterior uveitis is a chronic inflammatory eye disease that can lead to irreversible retinal damage and visual impairment due to repeated inflammatory relapses.\n\nThe fluocinolone acetonide intravitreal implant is approved for the prevention of inflammatory relapses in this condition, but data from real-world clinical practice remain limited, particularly regarding the intensity of relapses over time.\n\nThis multicenter retrospective observational study aims to evaluate the frequen",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients aged 18 years or older\n* Diagnosis of non-infectious uveitis with posterior segment involvement\n* Presence of uveitic macular edema or persistent posterior segment inflammation\n* Treatment with a fluocinolone acetonide intravitreal implant prior to January 2024\n",
+      "endpoints": [
+        "Intensity of inflammatory recurrences after fluocinolone acetonide implant"
+      ],
+      "sponsor": "Nantes University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07423442"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01292798",
+      "title": "Open Label, Phase I/II, Residual Edema Evaluation With 0.5mg and 2.0mg Ranibizumab Formulations (REEF)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2013-04",
+      "country": "United States",
+      "enrollment": 43,
+      "brief_summary": "This is an open-label, Phase I/II study of intravitreally administered ranibizumab either 0.5-mg and/or 2.0-mg in subjects with clinical, angiographic, and ocular coherence tomography (OCT) evidence of diabetic retinopathy with associated diabetic macular edema following bevacizumab therapy. Thirty patients will be enrolled in this study.\n\nConsented, enrolled subjects will receive multiple open-label intravitreal injections of 0.5 mg ranibizumab administered every 30 days (±7 days) for 3 injecti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to provide written informed consent and comply with study assessments for the full duration of the study\n* Age \\> 18 years\n* Diagnosis of diabetes mellitus (type 1 or 2)Any one of the following will be considered to be sufficient evidence that diabetes is present:Curre",
+      "endpoints": [
+        "Overall Mean Change in Visual Acuity Scores at Month 6 Compared to Baseline"
+      ],
+      "sponsor": "California Retina Consultants",
+      "url": "https://clinicaltrials.gov/study/NCT01292798"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00464347",
+      "title": "Multi-Center, Randomized, Phase II Clinical Trial to Study the Effects of Preservative-Free Triamcinolone Acetonide and Avastin® in Combination With Photodynamic Therapy in Participants With Neovascular Age Related Macular Degeneration",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2007-01",
+      "completion_date": "2007-09",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "VERTACL will investigate whether a triple therapy, Avastin®, half fluence verteporfin photodynamic therapy (PDT), and triamcinolone acetonide-preservative free (TAC- PF), results in improved 12-month vision outcome compared to Avastin® alone in participants with neovascular AMD.",
+      "eligibility_criteria": "Inclusion Criteria Includes:\n\n* Drusen \\> 63 mm\n* Choroidal neovascularization under the fovea (Predominantly Classic, Minimally Classic, and Occult lesions acceptable)\n* Greatest linear dimension (GLD) of entire lesion \\< 5400 µm (no reading center confirmation required)\n* ETDRS best corrected visu",
+      "endpoints": [
+        "The mean change in best-corrected ETDRS visual acuity in the study eye from baseline to month 12"
+      ],
+      "sponsor": "National Eye Institute (NEI)",
+      "url": "https://clinicaltrials.gov/study/NCT00464347"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05345808",
+      "title": "Efficacy of Formulated Posterior Sub Tenon Triamcinolone in Macular Edema Secondary to Non-Ischemic Retinal Vein Occlusions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-03-01",
+      "completion_date": "2022-03-30",
+      "country": "Egypt",
+      "enrollment": 46,
+      "brief_summary": "Retinal vein occlusion (RVO) is considered the second vascular disorder of the retina after diabetic retinopathy. Patients with RVO are at risk of the development of macular edema. Different treatment modalities for macular edema include LASER therapy, antivascular endothelial growth factor (VEGF), and triamcinolone.\n\nAim To detect the efficacy of formulated Triamcinolone Acetonide(TA) injection in the posterior subtenon space to manage macular edema secondary to non-ischemic RVOs, either centra",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diminution of vision due to macular edema secondary to non-ischemic retinal vein occlusions, either central or branch\n* CMT ≥ 250 µ,\n* Willing to participate in the study.\n\nExclusion Criteria:\n\n* Unwilling to participate in the study\n* Ischemic RVO\n* previous laser treatment\n*",
+      "endpoints": [
+        "Best corrected visual acuity",
+        "Best corrected visual acuity",
+        "Best corrected visual acuity"
+      ],
+      "sponsor": "Al-Azhar University",
+      "url": "https://clinicaltrials.gov/study/NCT05345808"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02980874",
+      "title": "SAPPHIRE: A Randomized, Masked, Controlled Trial To Study The Safety And Efficacy Of Suprachoroidal CLS-TA In Conjunction With Intravitreal Aflibercept In Subjects With Retinal Vein Occlusion",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2017-01-31",
+      "completion_date": "2018-12-10",
+      "country": "Denmark, India, Israel, Australia, Hungary, Italy, Philippines, Poland, Taiwan, Spain, Canada, Slovakia, United States, Austria, United Kingdom, Portugal",
+      "enrollment": 460,
+      "brief_summary": "This is a Phase 3, multicenter, randomized, masked, controlled, parallel group study of 12 months duration in treatment naïve subjects with RVO.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has a clinical diagnosis of RVO in the study eye\n* Has a CST of ≥ 300 µm in the study eye\n* Has an ETDRS BCVA score of ≥ 20 letters read and ≤ 70 letters read in the study eye;\n* Is naïve to local pharmacologic treatment for RVO in the study eye;\n\nExclusion Criteria:\n\n* Any ac",
+      "endpoints": [
+        "Proportion of Subjects Demonstrating ≥ 15 Letter Improvement From Baseline in Early Treatment of Diabetic Retinopathy Study (ETDRS)"
+      ],
+      "sponsor": "Clearside Biomedical, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02980874"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00373282",
+      "title": "Triamcinolone Acetonide in Silicone-Filled Eyes as Adjunctive Treatment for Proliferative Vitreoretinopathy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-06",
+      "completion_date": "2003-06",
+      "country": "Iran",
+      "enrollment": "N/A",
+      "brief_summary": "To evaluate the effect of triamcinolone acetonide in silicone-filled eyes on the outcome of surgery for PVR.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Cases of rhegmatogenous retinal detachment complicated by PVR grade C undergoing vitrectomy and silicone oil tamponade.\n\nExclusion Criteria:\n\n* History of trauma\n* Presence of diabetic retinopathy\n* History of vein occlusion\n* Giant retinal tear",
+      "endpoints": [
+        "Single-operation retinal reattachment rate six",
+        "months after surgery."
+      ],
+      "sponsor": "Shahid Beheshti University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00373282"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04744623",
+      "title": "Clinical Evaluation of New Treatment Strategy of Mucous Membrane Pemphigoid Using Large Dose of Prednisolone Plus Intra-lesional of Triamcinolone Acetonide Followed by Combination of Mycophenolate Mofetil, Dapsone and Low Dose Prednisolone",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-09-30",
+      "completion_date": "2021-11-04",
+      "country": "Egypt",
+      "enrollment": 10,
+      "brief_summary": "Abstract: Mucous membrane pemphigoid (MMP) is an autoimmune blistering disorder characterized by inflammation, blistering, and scarring and predominantly occurring at mucous membranes. Successful treatment can be challenging, and uncontrolled disease may result in significant morbidity with scarring of the conjunctiva and oropharynx leading to blindness and dysphagia. Therefore successful treatment is a must to improve patient quality of life.\n\nAim of work: to evaluate clinically the effectivene",
+      "eligibility_criteria": "Inclusion Criteria:\n\npatients with age references patients confirmed from dermatology department that they had mucous membrane(MMP) pemphigoid- patients are not allergic o to the drugs being used for the treatment\n\nExclusion Criteria:\n\npatients below or above age reference used in the study patients",
+      "endpoints": [
+        "Mycophenolate mofetil, dapsone and low dose prednisolone may showing powerful effect than large dose of systemic corticosteroids with intra-lestional corticosteroid in treatment of Mucous membrane pemphigoid"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT04744623"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04071977",
+      "title": "Effect of Combined Antioxidant Therapy on the Levels of Oxidative Stress Markers in Aqueous and Vitreous Humor of Patients With Proliferative Diabetic Retinopathy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-03-25",
+      "completion_date": "2021-12-31",
+      "country": "Mexico",
+      "enrollment": 40,
+      "brief_summary": "The present study aims to support previous research on the effects of antioxidant therapy on the outcome of diabetic retinopathy and local oxidative stress values. The researchers intend to evaluate 56 patients with proliferative diabetic retinopathy undergoing the vitrectomy procedure, who will be assigned to a placebo group or combination antioxidant therapy. Each group will receive the intervention for 2 months. This intervention consists of taking one tablet (placebo or antioxidant therapy) ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with type 2 with proliferative diabetic retinopathy\n* Blood pressure under 160/100 mmHg\n* HbA1c equal or lower than 9%\n* LDL under 190mg/dl, triglycerides under 500mg/dl)\n* Signed informed consent\n* Patients scheduled for vitrectomy surgery, under the following indica",
+      "endpoints": [
+        "Compare levels of markers of oxidative stress in aqueous humor and vitreous humor",
+        "Changes in concentration of plasma 8-isoprostanes after intervention.",
+        "Changes in concentration of total antioxidant capacity (TAC) after intervention from baseline."
+      ],
+      "sponsor": "University of Guadalajara",
+      "url": "https://clinicaltrials.gov/study/NCT04071977"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001526",
+      "title": "Trial of Treatment of Non-Infectious Intermediate and Posterior Uveitis With Humanized Anti-Tac Antibody Therapy",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1996-06-04",
+      "completion_date": "2007-09-06",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "Uveitis refers to intraocular inflammatory diseases that are an important cause of visual loss. Standard systemic immunosuppressive medications for uveitis can cause significant adverse effects. Consequently, an effective treatment with a safer side effect profile is highly desirable.\n\nThis pilot study has permitted enrollment of up to 12 adults with non-infectious intermediate or posterior uveitis who require treatments to maintain visual function. This extended protocol began with an evaluatio",
+      "eligibility_criteria": "* INCLUSION CRITERIA\n\nParticipant is 18 years of age or older.\n\nParticipant has a diagnosis of sight-threatening, intermediate or posterior uveitis of at least three months duration prior to orginal enrollment, requiring treatment to control their intraocular inflammatory disease with at least 20 mg",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00001526"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03419052",
+      "title": "MIND Food and Speed of Processing Training in Older Adults With Low Education, The MINDSpeed Alzheimer's Disease Prevention Pilot Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-01-10",
+      "completion_date": "2024-03-08",
+      "country": "United States",
+      "enrollment": 212,
+      "brief_summary": "The purpose of this study is to learn how foods high in polyphenols and brain training exercises affect older adults' cognitive performance",
+      "eligibility_criteria": "Inclusion criteria:\n\n* age 60 years or older,\n* ≤ 12 years of education,\n* English speaking,\n* Marion County (and immediately surrounding counties) resident, with steady/fixed residence to receive food deliveries\n* natural-born US citizen.\n\nExclusion criteria:\n\n* living in nursing home\n* self-report",
+      "endpoints": [
+        "Executive Cognitive Function Composite Score"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT03419052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06681688",
+      "title": "Prospective Study of Complication Rates in Cataract Surgery Patients Treated With Combined Pre-operative NSAID, OMIDRIA, and Subconjunctival Triamcinolone Acetonide Compared With Peri-operative Standard of Care",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-07-10",
+      "completion_date": "2025-08",
+      "country": "United States",
+      "enrollment": 94,
+      "brief_summary": "This is a multicenter, 2-arm, randomized, prospective study of patients slated for bilateral cataract extraction. One eye will be randomized to the Study Arm, and the fellow eye will be randomized to the Control Arm.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult participants \\> 18 years of age undergoing bilateral cataract surgery\n* Able to provide written informed consent prior to any study related procedure\n* Able and willing, as assessed by the Investigator, to follow study instructions, complete study assessments, comply wit",
+      "endpoints": [
+        "inflammation"
+      ],
+      "sponsor": "The Eye Centers of Racine and Kenosha",
+      "url": "https://clinicaltrials.gov/study/NCT06681688"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01178697",
+      "title": "Three Injections of Intravitreal Bevasizumab Versus Two Injections of Intravitreal Triamcinolone in the Management of Branch Retinal Vein Occlusion",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2010-01",
+      "completion_date": "2010-12",
+      "country": "Iran",
+      "enrollment": "N/A",
+      "brief_summary": "This randomized clinical trial is conducted to evaluate the effect of three intravitreal injections of bevasizumab versus two intravitreal injections of triamcinolone in acute central retinal vein occlusion. The outcomes are visual acuity and central macular thickness. The follow-up time is 6 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Recent onset (less than 3 months) central retinal vein occlusion\n\nExclusion Criteria:\n\n* Any previous intervention",
+      "endpoints": [
+        "Visual acuity"
+      ],
+      "sponsor": "Shahid Beheshti University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01178697"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00997191",
+      "title": "Intravitreal Bevacizumab and Intravitreal Triamcinolone Associated to Laser Photocoagulation for Diabetic Macular Edema(IBeTA)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2011-11",
+      "country": "Brazil",
+      "enrollment": 12,
+      "brief_summary": "Intravitreal triamcinolone has been effective for central macular thickness reduction and concomitant visual acuity improvement in patients with diabetic macular edema (DME). VEGF is a very effective inducer of permeability, being 50.000 times more potent than histamine, and may exert its effect on retinal vascular permeability by altering tight-junctions proteins, such as occluding and VE-cadherin. Based on these principles, there is a rationale for anti-VEGF agents treatment of increased retin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinically significant DME - by biomicroscopic evaluation with generalized breakdown of the inner blood-retina barrier with diffuse fluorescein leakage involving the foveal center and most of the macular area on fluorescein angiography\n* Snellen logarithm of minimum angle of 2",
+      "endpoints": [
+        "Best Corrected Visual acuity"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT00997191"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03962335",
+      "title": "ModulAtion of Gut Microbiota Through Nutritional Interventions in Behcet's Syndrome pAtients: the MAMBA Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-01-06",
+      "completion_date": "2023-05-31",
+      "country": "Italy",
+      "enrollment": 90,
+      "brief_summary": "Behçet's syndrome (BS) is an idiopathic, chronic, multi-systemic inflammatory disorder characterized by ocular disease, skin lesions, vascular, neurological and gastrointestinal involvement. A recent study showed a peculiar dysbiosis of gut microbiota (GM) in BS patients, with specific changes in the profiles of short-chain fatty acids, especially butyrate. Over the last few years, a growing interest on the role of GM in metabolic disturbances has been manifested. Diet is one of the major facto",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Behcet syndrome\n* Age 18-65 years\n* Willing to give informed consent\n* Willing to participate in a study where one of the proposed dietary profile is a vegetarian pattern\n\nExclusion Criteria:\n\n* Pregnancy or lactation\n* Concomitant presence of serious illness or unstable condi",
+      "endpoints": [
+        "Disease severity of Behcet syndrome assessed by Behçet Disease Current Activity Form",
+        "Behcet disease's improvement of symptoms assessed by the Global Assessment of Improvement Scale (GAI) modified form",
+        "Behcet disease's severity of gastrointestinal symptoms assessed by the Symptom Severity Scale (SSS) modified form"
+      ],
+      "sponsor": "Azienda Ospedaliero-Universitaria Careggi",
+      "url": "https://clinicaltrials.gov/study/NCT03962335"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07405489",
+      "title": "A Retrospective Comparative Cohort Study Evaluating the Efficacy, Anatomical Outcomes, Recurrence Rates, and Safety of Oral Prednisolone Versus Posterior Sub-Tenon Triamcinolone Acetonide as Initial Therapy in Acute Ocular Vogt-Koyanagi-Harada Disease",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-01-01",
+      "completion_date": "2025-12-01",
+      "country": "Egypt",
+      "enrollment": 30,
+      "brief_summary": "Vogt-Koyanagi-Harada (VKH) disease is a rare autoimmune disorder characterized by bilateral ocular inflammation that may lead to serous retinal detachment and permanent visual impairment if not promptly treated. Systemic corticosteroids are commonly used as first-line therapy; however, periocular corticosteroid administration has been proposed as an alternative approach that may reduce systemic adverse effects.\n\nThis retrospective cohort study reviewed the medical records of patients with acute ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years\n\nDiagnosis of definite or probable acute ocular Vogt-Koyanagi-Harada (VKH) disease\n\nActive intraocular inflammation (choroiditis, serous retinal detachment, or panuveitis)\n\nNo prior treatment for the current VKH episode\n\nMinimum follow-up of 6 months with complet",
+      "endpoints": [
+        "Proportion of Participants Achieving Complete Control of Ocular Inflammation at 3 Months"
+      ],
+      "sponsor": "Benha University",
+      "url": "https://clinicaltrials.gov/study/NCT07405489"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00801450",
+      "title": "Intravitreal Injection Versus Sub-Tenon's Infusion of Triamcinolone Acetonide for Refractory Diabetic Macular Edema During Cataract Surgery",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2007-09",
+      "completion_date": "2009-02",
+      "country": "Brazil",
+      "enrollment": 24,
+      "brief_summary": "Triamcinolone has already been used by different routes of administration to treat diabetic macular edema. In the present study, intravitreal injection (IVI) and posterior sub-Tenon's infusion (STI) of triamcinolone acetonide (TA) during phacoemulsification cataract surgery in eyes with refractory diffuse diabetic macular edema are tested.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Refractory diffuse DME unresponsive to focal laser photocoagulation\n* Best corrected visual acuity between 20/800 and 20/40; Central subfield macular thickness greater than 300 µm\n\nExclusion Criteria:\n\n* Previous ocular surgery\n* Glycosylated hemoglobin (Hb A1C) rate above 10%",
+      "endpoints": [
+        "central subfield macular thickness"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT00801450"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00229918",
+      "title": "Combined Posterior Sub-Tenon Injection of Triamcinolone Acetonide and Laser Photocoagulation for the Treatment of Clinically Significant Macular Edema",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2005-09",
+      "completion_date": "2006-09",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Prospective randomized clinical trial comparing Laser Alone v. Laser and posterior sub-tenon injection of triamcinolone acetonide for primary and refractory clinically significant macular edema.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nThe criteria listed below must be satisfied in order for the patient to be eligible for the study.\n\n* Age 25 to 80, inclusive.\n* Primary CSME: CSME secondary to diabetic retinopathy as defined by the ETDRS in one or both eyes with no previous history of focal/grid laser photocoa",
+      "endpoints": [
+        "Vision loss",
+        "Vision gain",
+        "Central macular thickness"
+      ],
+      "sponsor": "Edward Hines Jr. VA Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00229918"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06615050",
+      "title": "A Randomized, Multicenter, Phase III Trial of Tacrolimus/Methotrexate/Ruxolitinib Versus Post-Transplant Cyclophosphamide/Tacrolimus/Mycophenolate Mofetil in Non-Myeloablative/Reduced Intensity Conditioning Allogeneic Peripheral Blood Stem Cell Transplantation",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-04-02",
+      "completion_date": "2031-01-17",
+      "country": "United States",
+      "enrollment": 572,
+      "brief_summary": "The purpose of this study is to assess Tacrolimus/Methotrexate/Ruxolitinib versus Post-Transplant Cyclophosphamide/Tacrolimus/Mycophenolate Mofetil in Non-Myeloablative/Reduced Intensity Conditioning Allogeneic Peripheral Blood Stem Cell Transplantation",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18.0 years or older at the time of enrollment.\n* Participants undergoing allogeneic HCT for one of the following indications:\n\n  * Acute leukemia or chronic myelogenous leukemia with no circulating blasts and with less than 5% blasts in the bone marrow. Therapy related mye",
+      "endpoints": [
+        "GVHD-free survival (GFS)"
+      ],
+      "sponsor": "Incyte Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT06615050"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00132925",
+      "title": "An Efficacy and Safety Evaluation of Nasacort AQ 110 µg QD Children Ages 2-5 Years With Perennial Allergic Rhinitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2006-02",
+      "country": "United States",
+      "enrollment": 460,
+      "brief_summary": "The purposes of this study are:\n\n* To demonstrate the efficacy of once daily administration of Nasacort AQ 110 µg compared with placebo in children 2-5 years of age with perennial allergic rhinitis; and\n* To assess the safety of Nasacort AQ 110 µg in children 2-5 years of age.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects will be male or female children ages 2-5 years with a history of at least 1 year of perennial allergic rhinitis (PAR) with or without seasonal allergic rhinitis (SAR) characterized by nasal stuffiness, nasal discharge, sneezing, nasal itching, and total eye symptoms, ",
+      "endpoints": [
+        "Double-blind phase: Change from baseline in mean daily instantaneous (immediately prior to dosing) Total Nasal Symptom Score (TNSS) over the 4-week double-blind period",
+        "Open-label phase: The efficacy variable is the global evaluation of efficacy as rated by the physician and the subject"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00132925"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01280214",
+      "title": "Peribulbar and Subconjunctival Kenalog Injection for Thyroid Orbitopathy",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2011-02",
+      "completion_date": "2013-02",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "Comparing the effectiveness of subconjunctival and peribulbar Triamcinolone injection to systemic Steroid therapy for patients with active thyroid orbitopathy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age\\>18 years.\n* Active thyroid orbitopathy according to clinical activity score\\>=3.\n\nExclusion Criteria:\n\n* Intraorbital or active infections.\n* Tuberculosis.\n* Other orbital disease.\n* Pregnancy.\n* Compressive optic neuropathy.\n* Systemic steroid therapy within 6 months of ",
+      "endpoints": [
+        "Comparing the effectiveness of subconjunctival and peribulbar Triamcinolone injection to systemic Steroid therapy for patients with active thyroid orbitopathy ."
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT01280214"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00071227",
+      "title": "Pilot Study of Intravitreal Injection of Triamcinolone Acetonide Formulation for Retinal Vascular Disorders",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-10-15",
+      "completion_date": "2007-08-15",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "This study will evaluate the safety and effectiveness of a new formulation of triamcinolone acetonide for the treatment of retinal blood vessel disorders. Triamcinolone is a steroid drug that decreases inflammation and scarring and is routinely used to treat eye inflammation or swelling. The commercially available form of this drug is associated with potentially harmful side effects thought to be due to preservatives in the preparation. This study will use a formulation that does not contain the",
+      "eligibility_criteria": "* INCLUSION CRITERIA - GENERAL:\n\nAll participants must:\n\n1. Understand and sign the informed consent.\n2. Must have visual acuity in the fellow eye the same or better than the study eye.\n3. Have BCVA worse than 20/80 in the study eye.\n4. Have sufficiently clear ocular media to permit good quality ret",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00071227"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00309192",
+      "title": "Efficacy and Safety of Intravitreal Triamcinolone as Treatment of the Diffuse Diabetic Macular Edema",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2009-07",
+      "country": "Spain",
+      "enrollment": 292,
+      "brief_summary": "The purpose of this study is to determine whether intravitreal injection of Triamcinolone Acetonide is effective in the treatment of Clinically Significant Diffuse Macular Edema due to Type 2 Diabetes Mellitus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type II Diabetes.\n* Mild-moderate diabetes retinopathy.\n* Diffuse clinically significant macular edema (demonstrated by angiofluoresceingraphy, associated or not to cystic changes).\n* Age between 50 to 75 years.\n* Foveal thickening greater than 300 microns tested with Optical ",
+      "endpoints": [
+        "Visual acuity stabilization or improvement 6 months after treatment.",
+        "Macular edema reduction or stabilization 6 months after treatment."
+      ],
+      "sponsor": "Instituto Universitario de Oftalmobiología Aplicada (Institute of Applied Ophthalmobiology) - IOBA",
+      "url": "https://clinicaltrials.gov/study/NCT00309192"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00229931",
+      "title": "The Role of Triamcinolone Injection During Cataract Extraction for Diabetic Patients With Pre-Operative Macular Edema",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2013-05",
+      "country": "United States",
+      "enrollment": 11,
+      "brief_summary": "The purpose of this study is to determine if intravitreal triamcinolone acetonide (IVTA) injection at the time of cataract surgery will improve visual acuity and decrease post-operative swelling in diabetic patients requiring cataract extraction as compared to the conventional treatment of laser following cataract surgery.\n\nThe subjects will be followed for 11 visits over 3 year. Visits will occur at screening,1, 3,6,9,12,18,24,30 and 36 months post surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* visually significant cataracts\n* pre-operative visual acuity 20/50 or worse\n* pre-operative optical coherence tomography (OCT) showing at least 250 microns central foveal thickness.\n\nExclusion Criteria:\n\n* macular ischemia\n* vitreomacular traction\n* macular hole",
+      "endpoints": [
+        "Main Outcome Measures Will be Quantitative Changes in OCT Central Thickness, Visual Acuity, and Number of Snellen Acuity Lines Gained/Lost."
+      ],
+      "sponsor": "University of Oklahoma",
+      "url": "https://clinicaltrials.gov/study/NCT00229931"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07129798",
+      "title": "Efficacy and Safety of Myopic Macular Hole Closure Surgery Without Endotamponade Agent",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-01-18",
+      "completion_date": "2026-06-26",
+      "country": "Hong Kong",
+      "enrollment": 20,
+      "brief_summary": "Macular hole (MH) is a common condition that affects approximately 1.6/1000 elderly Chinese population. The prevalence is expected to be even higher in individuals with high myopia (HM), an established risk factor for MH. Without prompt surgical intervention, it can lead to irreversible vision loss and retinal detachment. Standard MH surgery involves pars plana vitrectomy (PPV) with internal limiting membrane (ILM peeling), followed by endotamponade agents to appose the MH edge.\n\nOffice of Resea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 18 years or above\n* Patients with full thickness macular hole, defined as full thickness foveal defect on OCT\n* Patients with pathological myopia, defined as refractive error of \\</= -6.0D or axial length \\>/= 26.0mm with signs of posterior staphyloma, lacquer cracks or c",
+      "endpoints": [
+        "Macular hole closure rate"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT07129798"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03958344",
+      "title": "Intraorbital Injection Versus Oral Steroid in Patients With Anterior Idiopathic Orbital Inflammation: A Randomized Clinical Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-01-01",
+      "completion_date": "2025-06-01",
+      "country": "Iran",
+      "enrollment": 120,
+      "brief_summary": "A multicenter randomised double-arm clinical trial, to compare safety and efficacy of oral versus intralesional injection of steroid in a group of patients suffering from idiopathic orbital inflammation is designed. Outcome measures include number of recurrences, duration of remission, and side effects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Dacryoadenitis based on clinical findings and/or imaging with and without adjacent recti muscle myositis\n\nExclusion Criteria:\n\n* Abnormal thyroid-stimulating hormone\n* Systemic Vasculitides\n* Bilateral Orbital Inflammation\n* Collagen Vascular Diseases\n* One Seeing Eye\n* Glauco",
+      "endpoints": [
+        "Recurrence number",
+        "Recurrence time",
+        "Adverse Effect"
+      ],
+      "sponsor": "Iran University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03958344"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00805064",
+      "title": "Intravitreal Combination Therapy Using Triamcinolone and Bevacizumab Improves Vision in Patients With Retinal Vein Occlusion",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2008-11",
+      "country": "N/A",
+      "enrollment": 40,
+      "brief_summary": "The aim of this pilot study was to investigate the effects of an intravitreal combination therapy using triamcinolone and bevacizumab in patients with retinal vein occlusion (RVO).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ischemic central RVO (CRVO)\n* Non-ischemic CRVO\n* Branch RVO (BRVO)\n\nExclusion Criteria:\n\n* Visual deterioration due to acute or chronic inflammation\n* Post trauma\n* Macular edema of other origin\n* Intravitreal drug treatment within last 4 months",
+      "endpoints": [
+        "BCVA"
+      ],
+      "sponsor": "Johann Wolfgang Goethe University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00805064"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00101764",
+      "title": "Phase I Study of Intravitreal Injections Versus Anterior Sub-Tenon Injections of Triamcinolone Acetonide Formulation for Macular Edema in Retinal Disorders",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2005-01-05",
+      "completion_date": "2008-05-20",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "The use of intravitreal injections of corticosteroid (triamcinolone acetonide) appears to be a promising treatment for a variety of ocular diseases associated with inflammation. To date, the only drug available, \"Kenalog-40 Injection\" produced by Bristol Myers Squibb, has not been formulated for intraocular use.\n\nThe purpose of this study is to evaluate the long-term safety and potential efficacy of novel intravitreal injections of a preservative-free formulation of triamcinolone acetonide (TAC-",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nAll Participants must:\n\n1. Understand and sign the informed consent.\n2. Be at least 18 years of age.\n3. Have definite retinal thickening due to macular edema in the study eye, based on the clinical exam.\n4. Have retinal thickness greater than or equal to 250 microns in the cen",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00101764"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01666236",
+      "title": "Triple Treatment for Detachment of Retinal Pigment Epithelium Secondary to Polypoidal Choroidal Vasculopathy.",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2012-09",
+      "completion_date": "2014-09",
+      "country": "Brazil",
+      "enrollment": 0,
+      "brief_summary": "Study the effectiveness of the treatment detachment of retinal pigment epithelium secondary to polypoidal choroidal vasculopathy. Efficacy will be assessed by regression of polyp area after twelve months, compared to baseline. Treatment under study is a triple therapy with: 1) reduced-fluence photodynamic therapy (PDT), 2) intravitreal (IVT) triamcinolone and, 3) IVT ranibizumab, for the treatment of detachment of the retinal pigment epithelium (PED) secondary to Polypoidal Choroidal Vasculopath",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with PCV associated with PED near the polypoidal lesion recently diagnosed, documented by FA, ICGA and OCT.\n* Visual acuity between 20/40 and 20/400.\n* Patients older than 50 years (both genders).\n* Women must be postmenopausal for at least 12 months or surgically ste",
+      "endpoints": [
+        "Auxiliary Exams - Optical Coherency Tomography (OCT)",
+        "Auxiliary Exams - Indocyanine green angiography (ICGA)",
+        "Auxiliary Exams - Fluorescein Angiography (FA)"
+      ],
+      "sponsor": "Federal University of São Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT01666236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00411333",
+      "title": "Vascular Remodeling and the Effects of Angiogenic Inhibition in Diabetic Retinopathy",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2009-07",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The retinal vasculature changes dramatically in patients with diabetic retinopathy especially between non-proliferative and proliferative disease. The retinal vasculature can be imaged and quantified using special dyes. This study will test whether the pattern of the retinal vasculature changes in patients with different levels of diabetic retinopathy can be quantified using computerized image analysis. In addition, the study will evaluate whether new drugs to treat diabetic retinopathy will be ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Presence of mild, moderate, severe, or very severe non-proliferative diabetic retinopathy (defined as ETDRS level \\>10) in at least one eye (based on ETDRS criteria)\n\nExclusion Criteria:\n\n* Any condition that might impair the patient's ability to give informed consent\n* Any c",
+      "endpoints": [
+        "Change in retinal vascular density from baseline on fluorescein angiography"
+      ],
+      "sponsor": "National Eye Institute (NEI)",
+      "url": "https://clinicaltrials.gov/study/NCT00411333"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04627402",
+      "title": "Effects of Adding Triamcinolone Acetonide to Conbercept in Diabetic Macular Edema With Limited Response to Anti-VEGF Treatment After One Injection",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-11-12",
+      "completion_date": "2021-12-31",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "This study aimed to compare intravitreous conbercept alone with conbercept plus intravitreous triamcinolone acetonide in DME eyes which showed limited response to anti-VEGF treatment after one injection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type II diabetes\n* Vison decrease was mainly caused by diabetic macular edema (DME)\n* BCVA of 20/800 to 20/40 (decimal)\n* Central subfield retinal thickness (CST) ≥ 300μm by optical coherence tomography (OCT) in the study eye\n* Pan-retinal photocoagulation finished at least 3 ",
+      "endpoints": [
+        "Macular thickness"
+      ],
+      "sponsor": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT04627402"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00555594",
+      "title": "Prospective Study to Determine the Effect of Subconjunctival Bevacizumab (AVASTIN) in Corneal Neovascularization",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2007-10",
+      "country": "Mexico",
+      "enrollment": 18,
+      "brief_summary": "To determine the effect of subconjunctival Bevacizumab in corneal neovascularization",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Presence of vessels in minimum one quadrant\n2. vessels that penetrate more than 0.5 mm of the limb, in any depth\n3. who had signed the informed consent\n4. those that could attend to frequent ophthalmologic revisions after treatment and could wait for 6 months before the surgi",
+      "endpoints": [
+        "Anterior segment slit-lamp photographs and fluorescein angiograms Compared for any sign of diminished vascularization"
+      ],
+      "sponsor": "Asociación para Evitar la Ceguera en México",
+      "url": "https://clinicaltrials.gov/study/NCT00555594"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00849537",
+      "title": "The Effect of Intravitral Injection of Triamcinolone Combined With Cataract Surgery (Phacoemulsification) on Diabetic Macular Edema and Diabetic Retinopathy",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2008-04",
+      "completion_date": "2009-04",
+      "country": "Iran",
+      "enrollment": "N/A",
+      "brief_summary": "In this study, regressed proliferative diabetic retinopathy, very severe, severe and moderate non-prolifrative diabetic retinopathy patients who were going to have a cataract surgery, underwent a complete eye examination, OCT, FAG and color photography 2 weeks prior to their operation. All patients divided in two: 1) control group (Phyco,PCIOL), 2) triamcinolone treatment group (Phaco with PCIOL+IVT). One month after surgery a complete eye examination will be done especially; IOP and endophthalm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetic patients with non-proliferative diabetic retinopathy and regressed PDR\n\nExclusion Criteria:\n\n* Uncontrolled HTN\n* History of glaucoma\n* Active PDR\n* NVI\n* TRD\n* Any ophthalmic operation\n* Renal problem(cr\\>3)\n* CVA\n* Uveitis",
+      "endpoints": [
+        "Macula diameter"
+      ],
+      "sponsor": "Shahid Beheshti University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00849537"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01614509",
+      "title": "Combined Therapy of Posterior Subtenon Triamcinolone Acetonide and Intravitreal Bevacizumab for Macular Edema Secondary to Branch Retinal Vein Occlusion",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2012-08",
+      "country": "South Korea",
+      "enrollment": 45,
+      "brief_summary": "This study compares the efficacy of intravitreal bevacizumab monotherapy only or combined therapy of posterior subtenon's triamcinolone acetonide and intravitreal bevacizumab for the treatment of macular edema associated with branch retinal vein occlusion.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The participant must have macular edema associated branch retinal vein occlusion.\n2. The participant has retinal photographs, optical coherence tomography (OCT) and angiography of sufficient quality, allowing assessment of the macular area according to standard clinical pract",
+      "endpoints": [
+        "Changes of Central Retinal Thickness"
+      ],
+      "sponsor": "Yeungnam University College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01614509"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04101591",
+      "title": "Species Identification and Concentration Measurement of Antioxidants and Cytokines in the Anterior Chamber From Patients of Various Ocular Disorders",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-01-16",
+      "completion_date": "2024-07-31",
+      "country": "Taiwan",
+      "enrollment": 200,
+      "brief_summary": "This study offers evaluation and treatment for patients with corneal or retinal diseases, such as corneal opacities or diabetic retinopathy. The protocol is not designed to test new treatments; rather, patients will receive current standard of care treatments. The purpose of the study is twofold: 1) to allow ophthalmologist at Chang Gung Memorial Hospital (CGMH) to increase their knowledge of altered microenvironment in the corneal or retinal disorders and identify new pathways of possible resea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Intravitreal injection of patients\n* Patients with vitreoretinal surgery\n* Corneal transplant patients\n* General cataract surgery patients\n\nExclusion Criteria:\n\n* Those who have previously received aqueous extraction or intraocular surgery\n* Eyeball infection patients\n* Patien",
+      "endpoints": [
+        "The Correlation between the Total Antioxidative Capacity (TAC) and Ascorbic Acid (Vit C)"
+      ],
+      "sponsor": "Chang Gung Memorial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04101591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00811200",
+      "title": "Treatment Of Radiation Retinopathy Trial Subtitle: Treatment of Radiation Retinopathy; Influence of Lucentis® and Kenalog® on Radiation Retinopathy After Irradiation of Choroidal Melanoma.",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2009-09",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 220,
+      "brief_summary": "The purpose of this study is to demonstrate a statistically significant improvement of visual acuity after treatment using either Lucentis® or Triamcinolone® compared to no treatment, in patients with radiation retinopathy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The eye was previously irradiated for treatment of a uveal melanoma;\n* Decrease of visual acuity after irradiation therapy by more than 10 letters (ETDRS) and is now 20/40 or less;\n* Vision decrease is considered to be due to central radiation retinopathy with significant macu",
+      "endpoints": [
+        "To demonstrate a statistically significant superiority of intravitreal ranibizumab (0.5mg) or triamcinolone acetonide (4.0mg) to no treatment, in the mean change from baseline in best corrected visual acuity (BCVA)"
+      ],
+      "sponsor": "Leiden University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00811200"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00242580",
+      "title": "A 24-month Randomized, Double-masked, Sham Controlled, Multicenter, Phase IIIB Study Comparing Photodynamic Therapy With Verteporfin (Visudyne®) Plus Two Different Dose Regimens of Intravitreal Triamcinolone Acetonide (1 mg and 4 mg) Versus Visudyne® Plus Intravitreal Pegaptanib(Macugen®) in Patients With Subfoveal Choroidal Neovascularization Secondary to Age-related Macular Degeneration",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 111,
+      "brief_summary": "To evaluate the safety and efficacy of the combination treatments in wet age-related macular degeneration. The combination treatment consists of verteporfin photodynamic therapy and either triamcinolone acetonide or pegaptanib added as an intravitreal injection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age \\>50\n* all types of untreated subfoveal choroidal neovascularization secondary to AMD\n* lesion size \\<5400 microns in greater linear dimension (GLD)\n\nExclusion Criteria:\n\n* have a history of prior photodynamic therapy, external beam radiation, subfoveal focal laser photoco",
+      "endpoints": [
+        "Percentage of Participants Who Lose Less Than 15 Letters of Best Corrected Visual Acuity (BCVA) at 12 Months From Baseline."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00242580"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00370422",
+      "title": "Bevacizumab Versus Combined Bevacizumab and Triamcinolone for Refractory Diabetic Macular Edema; a Randomized Clinical Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2005-11",
+      "completion_date": "2006-09",
+      "country": "Iran",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this study is to compare the efficacy and safety of intravitreal injection of bevacizumab alone versus bevacizumab combined with triamcinolone for treatment of refractory diabetic macular edema.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Cases with clinically significant macular edema (CSME) with persistent retinal thickening after initial or supplemental macular photocoagulation\n\nExclusion Criteria:\n\n* Monocularity,\n* History of vitrectomy,\n* Glaucoma or ocular hypertension,\n* Significant media opacity,\n* Exi",
+      "endpoints": [
+        "Visual acuity",
+        "Central macular thickness"
+      ],
+      "sponsor": "Shahid Beheshti University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00370422"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05288192",
+      "title": "Changes Noted After Suprachoroidal Triamcinolone Acetonide Injection.",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-02-15",
+      "completion_date": "2022-09-01",
+      "country": "Egypt",
+      "enrollment": 30,
+      "brief_summary": "Changes after suprachoroidal injection are analyzed for statistical analysis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients prepared to suprachoroidal injection for various retinal diseases will be enrolled in the study.\n* Bilateral retinal diseases that required interventions as diabetic macular edema, exudative retinal detachment, and serous chorioretinopathies.\n\nExclusion Criteria:\n\n* O",
+      "endpoints": [
+        "Changes in visual acuity",
+        "Changes in central foveal thickness"
+      ],
+      "sponsor": "Benha University",
+      "url": "https://clinicaltrials.gov/study/NCT05288192"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04775849",
+      "title": "Intraoperative Berger Space Imaging",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-05-20",
+      "completion_date": "2022-11-30",
+      "country": "Austria",
+      "enrollment": 80,
+      "brief_summary": "The investigational device is an approved femtosecond laser (FSL) device with an integrated imaging system to perform certain steps of the cataract procedure. The FSL will perform anterior capsulotomy and lens fragmentation in individuals suffering from age-related cataract with need of cataract surgery.\n\nThe laser will be reduced to image the Berger space. If not visible, the space will be enhanced with BSS and Volon A to visualize the BS.\n\nCataract surgery will be performed in subjects who hav",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Bilateral age-related cataract necessitating phacoemulsification extraction and posterior IOL implantation\n* Age: 40 to 90 (females of childbearing age will be interviewed if pregnancy is possible)\n* Preoperative pupil size in mydriasis ≥ 6.0 mm\n\nExclusion Criteria:\n\n* Precedi",
+      "endpoints": [
+        "The primary objective is a Berger Space larger than 400μm"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT04775849"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00444600",
+      "title": "Intravitreal Ranibizumab or Triamcinolone Acetonide in Combination With Laser Photocoagulation for Diabetic Macular Edema",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2014-02",
+      "country": "United States",
+      "enrollment": 691,
+      "brief_summary": "The purpose of the study is to find out which is a better treatment for diabetic macular edema (DME): laser alone, laser combined with an intravitreal injection of triamcinolone, laser combined with an intravitreal injection of ranibizumab, or intravitreal injection of ranibizumab alone. At the present time, it is not known whether intravitreal steroid or anti-vascular endothelial growth factor (anti-VEGF) injections, with or without laser treatment, are better than just laser by itself. It is p",
+      "eligibility_criteria": "General Inclusion Criteria\n\nTo be eligible, the following inclusion criteria (1-5) must be met:\n\n* Age \\>= 18 years\n* Diagnosis of diabetes mellitus (type 1 or type 2)\n* At least one eye meets the study eye criteria\n* Fellow eye (if not a study eye) meets criteria\n* Able and willing to provide infor",
+      "endpoints": [
+        "Mean Change in Visual Acuity (Letters) From Baseline to 1 Year Adjusted for Baseline Visual Acuity",
+        "Distribution of Change in Visual Acuity (Letters) From Baseline to 1 Year",
+        "Change in Visual Acuity From Baseline to 1 Year Among Eyes That Were Pseudophakic at Baseline"
+      ],
+      "sponsor": "Jaeb Center for Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT00444600"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04736264",
+      "title": "Malay Glaucoma Eye Study II: Elucidating Navigation, Mobility and Reading Ability to Improve Quality of Life and Progression of Primary Glaucoma",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-10-01",
+      "completion_date": "2024-03-31",
+      "country": "Malaysia",
+      "enrollment": 300,
+      "brief_summary": "With the improvement of health system, the life span of Asians has increased tremendously especially in Malaysia. As an early preparation to be an 'aging country' in 2023, Malaysia needs to prepare infrastructure and policy to improve quality of life (QoL) in older adults. Glaucoma is an aging related chronic disease that cause progressive optic neuropathy and visual field defect1. The main aim of glaucoma treatment is to slow down disease progression and preserve patient's QoL2. Modification of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Known cases of POAG and PACG who are compliance to treatment and follow up\n2. Those who have more than 10 degree from fixation (based on Humphrey visual field)\n3. Best corrected visual acuity of 6/60 on the better seeing eye\n4. Pseudophakic or phakic (without visually signifi",
+      "endpoints": [
+        "Navigation: completion of maze",
+        "Navigation: completion of maze",
+        "Navigation: number of obstacles"
+      ],
+      "sponsor": "Universiti Sains Malaysia",
+      "url": "https://clinicaltrials.gov/study/NCT04736264"
+    }
+  ],
+  "timestamp": "2026-03-04T13:23:34.052108",
+  "success": true,
+  "error_message": null
+}

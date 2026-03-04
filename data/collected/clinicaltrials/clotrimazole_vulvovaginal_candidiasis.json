@@ -1,0 +1,456 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clotrimazole",
+    "disease": "vulvovaginal candidiasis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01335373",
+      "title": "Observational Program Neo-Penotran® Forte",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2015-04",
+      "country": "Kazakhstan",
+      "enrollment": 13024,
+      "brief_summary": "Vaginitis is the most common gynecologic diagnosis in the primary care setting. In approximately 90 percent of affected women, this condition occurs secondary to bacterial vaginosis, vulvovaginal candidiasis, trichomoniasis or mixed infection.\n\nNeo-Penotran Forte is registered for treatment of these most common vaginal infections. Efficacy and safety of this product is already established, and this observational study was designed to learn more about practical use of Neo-Penotran® Forte in real ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients older than 18 years with previously taken decision of their gynecologist to prescribe Neo-Penotran Forte according to registered indications, and microbiological tests were performed.\n\nExclusion Criteria:\n\n* Presence of contraindications according to package insert.",
+      "endpoints": [
+        "Percent rate of different vaginal infections"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT01335373"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00755053",
+      "title": "An Investigator-blinded, Active-controlled Phase 3 Study to Prove the Non-inferior Efficacy of a Clotrimazole Ovule (500 mg) Versus a Clotrimazole Vaginal Tablet (500 mg) in Vaginal Candidiasis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2009-05",
+      "country": "Russia, Germany",
+      "enrollment": 466,
+      "brief_summary": "The study is focused to prove that the efficacy of a new Canesten formulation (ovule) is not inferior to the old Canesten formulation (tablet)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Non-pregnant females aged at least 14 years in Germany or at least 16 years in Russia and not older than 50 years.\n* Subjects presenting a symptomatic vulvovaginal yeast infection confirmed by microscopic evaluation (wet mount preparation).\n* Subjects must be cooperative, able",
+      "endpoints": [
+        "Percentage of Subjects With Overall Response at Visit 2 (Day 10 to 14)"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00755053"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02242695",
+      "title": "Comparative Study of the Efficacy of 10.0 mg Dequalinium Chloride (Fluomizin®) and 100 mg Clotrimazole (Canesten®) for the Treatment of Vulvovaginal Candidiasis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-11",
+      "completion_date": "2016-04",
+      "country": "Thailand",
+      "enrollment": 150,
+      "brief_summary": "A clinical study to compare the clinical efficacy of vaginal tablets containing 10mg dequalinium chloride (Fluomizin) with the clinical efficacy of 100mg clotrimazole in patients suffering from vulvovaginal candidiasis, to assess safety of the two medications during the treatment, and to evaluate women's satisfaction with the two treatments.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical signs and symptoms of vulvovaginal candididiasis as Total Severity Score, Total Severity Score of at least 4 (0-15: vaginal itching (0-3), vaginal burning or soreness (0-3), abnormal vaginal discharge (0-3),vulvo/vaginal erythema or edema(0-3), vulvar excoriation or f",
+      "endpoints": [
+        "Clinical cure rate"
+      ],
+      "sponsor": "Medinova AG",
+      "url": "https://clinicaltrials.gov/study/NCT02242695"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02907307",
+      "title": "Comparative Study of the Efficacy and Safety of LactiSal 1% Vaginal Gel and LactSal 50 mg Vaginal Tablet Versus Clotrimazole 100 mg Vaginal Tablet in the Treatment of Vulvovaginal Candidiasis (VVC)",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2018-12",
+      "completion_date": "2020-07",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to compare the efficacy and safety of LactiSal 1%vaginal gel and LactiSal 50 mg vaginal tablet with the standart treatment of clotrimazole 100 mg vaginal tablet in woman with vulvovaginal candidiasis (VVC)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Clinical signs \\& symptoms of VVC as Total Severity Score, TSC 4 (range 0-15):\n\n   * vaginal itching (range 0-3) ,\n   * vaginal burning or soreness (range 0-3),\n   * abnormal vaginal discharge (range 0-3),\n   * vulvo/vaginal erythema or oedema (range 0-3),\n   * vulvar excoria",
+      "endpoints": [
+        "Clinical cure rate"
+      ],
+      "sponsor": "Medinova AG",
+      "url": "https://clinicaltrials.gov/study/NCT02907307"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00194324",
+      "title": "Vaginal Imaging Study to Evaluate the Effect of Exercise on the Distribution of Miconozole Nitrate OVULE",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-07",
+      "completion_date": "2004-10",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "This study uses MRI to detect the spread of the Miconozole Nitrate OVULE within the vagina. The effect of moderate amounts of physical activity on the spread will be evaluated, and compared to no physical activity.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Not at risk for pregnancy\n* Willing to abstain from intercourse 24 hours prior to MRI\n* Regular menstrual cycles (every 23-38 days)\n* At least 10 weeks from most recent pregnancy outcome and had 2 spontaneous menstrual cycles since\n* Normal pap smear within previous 12 months\n",
+      "endpoints": [
+        "To compare between exercise and no exercise:",
+        "Time needed for the capsule to dissolve;",
+        "Quantify and describe product distribution at 20 minute intervals within the first 90 minutes after insertion;"
+      ],
+      "sponsor": "University of Pennsylvania",
+      "url": "https://clinicaltrials.gov/study/NCT00194324"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02180828",
+      "title": "An Case-controlled Randomized Study to the Efficacy of Clotrimazole Vaginal Tablet vs Fluconazole for Severe Vulvovaginal Candidiasis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2015-09",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "The study is focused to prove that the efficacy and safety of Clotrimazole vaginal tablet vs Fluconazole for the treatment of severe vulvovaginal candidiasis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Vulvovaginal candidiasis infection is diagnosed, the symptoms evaluated using a numerical rating system based on severity (absent=0; mild=1; moderate=2; severe=3) with a minimum VVC Composite Signs/Symptoms score of 7\n2. Subject completes the informed consent process\n3. Subje",
+      "endpoints": [
+        "Therapeutic Efficacy 1",
+        "Therapeutic Efficacy 2",
+        "Therapeutic Efficacy 3"
+      ],
+      "sponsor": "Peking University Shenzhen Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02180828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04813822",
+      "title": "A Phase 2, Randomized, Double-Blind, Active-Controlled Study to Evaluate the Efficacy and Safety of Miconazole Nitrate 2% + Domiphen Bromide Vaginal Cream in the Treatment of Subjects With Acute Vulvovaginal Candidiasis",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-09-13",
+      "completion_date": "2022-10",
+      "country": "Belgium",
+      "enrollment": 90,
+      "brief_summary": "This study is a multicentre, three-arm, double-blind, randomized controlled, parallel-group, comparative phase II clinical trial to evaluate miconazole nitrate 2% + domiphen bromide vaginal cream in subjects with acute vulvovaginal candidiasis.",
+      "eligibility_criteria": "Main inclusion criteria:\n\n1. Subjects must be generally healthy, non-pregnant females, 18-50 years of age at Screening Visit.\n2. Subjects must have an acute VVC episode at Screening Visit, defined as a total signs and symptoms score of ≥3 and a positive KOH wet mount preparation or Gram stain from a",
+      "endpoints": [
+        "The proportion of subjects with clinical cure",
+        "The proportion of subjects with mycological eradication",
+        "The proportion of subjects with overall therapeutic success"
+      ],
+      "sponsor": "Aesculape CRO Belgium BV",
+      "url": "https://clinicaltrials.gov/study/NCT04813822"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06480604",
+      "title": "A Pilot Clinical Trial Assessing the Effect of a Multi-strain Probiotic on the Risk of Recurrence and Severity of Symptoms in Females With Recurrent Vulvovaginal Candidiasis",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-10-15",
+      "completion_date": "2025-07",
+      "country": "India",
+      "enrollment": 126,
+      "brief_summary": "This study evaluates the effect of a multi-strain probiotic on the risk of recurrence and severity of symptoms in females with recurrent vulvovaginal candidiasis (R-VVC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\nIndividuals meeting ALL of the following criteria will be enrolled for the study:\n\n1. Premenopausal women aged 18-50 years.\n2. Women with a culture-confirmed active episode caused by Candida spp. (albicans or non-albicans) reported within 24-48 hours of evidence of clinical symp",
+      "endpoints": [
+        "Incidence of culture-confirmed VVC recurrence between baseline and day 180 as compared to placebo."
+      ],
+      "sponsor": "The Archer-Daniels-Midland Company",
+      "url": "https://clinicaltrials.gov/study/NCT06480604"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05507333",
+      "title": "An Open Labelled Study to Evaluate Clinical Performance of the Gedea Pessary in Adult Women With Vulvovaginal Candidiasis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-03-16",
+      "completion_date": "2024-03-05",
+      "country": "Sweden",
+      "enrollment": 26,
+      "brief_summary": "This is a multi-centre, multi-national study to evaluate the clinical performance and safety of treatment with Gedea Pessary in adult women with confirmed vulvovaginal candidiasis (VVC).\n\nThe study population will consist of post-menarchal, pre-menopausal females, 18 years or older, seeking care for VVC symptoms. A total of 26 patients are planned to be included in the study. On Day 0 (Screening, Visit 1), eligible patients will undergo a gynaecological examination, including collection of compo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Having decisional capacity and providing written informed consent.\n2. Adult, post-menarchal, pre-menopausal women, aged 18 years or older\n3. Diagnosis of VVC, defined as:\n\n   * Having a white or creamy vaginal discharge\n   * At least 2 of the following signs and symptoms of V",
+      "endpoints": [
+        "Clinical Cure Rate at Day 7-14"
+      ],
+      "sponsor": "Gedea Biotech AB",
+      "url": "https://clinicaltrials.gov/study/NCT05507333"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00313131",
+      "title": "A Randomised Controlled Trial of Single Dose Tinidazole+Fluconazole Versus Longer Courses of Metronidazole+Clotrimazole in the Management of West African Women With Vaginal Discharge",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-01",
+      "completion_date": "2005-05",
+      "country": "Togo, Guinea, Ghana",
+      "enrollment": 1524,
+      "brief_summary": "This randomised controlled trial aimed to verify whether directly observed single dose treatment (with tinidazole+fluconazole) would be as effective as the longer standard treatments (metronidazole for 7 days, plus vaginal clotrimazole for 3 days) in the syndromic management of women presenting with vaginal discharge in primary health care centers of Ghana, Togo, Guinea and Mali. It was designed as an effectiveness trial, i.e. it was done under conditions typical of routine work in these health ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women consulting for vaginal discharge\n* local resident\n* willingness and ability to consent\n\nExclusion Criteria:\n\n* sex worker consulting for active screening\n* main complaint of lower abdominal pain\n* allergy to one of the study drugs",
+      "endpoints": [
+        "Symptomatic resolution of the vaginal discharge according to the patient"
+      ],
+      "sponsor": "Université de Sherbrooke",
+      "url": "https://clinicaltrials.gov/study/NCT00313131"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03064789",
+      "title": "Estudio epidemiológico de la evolución clínica y microbiológica en Pacientes Tratadas Por un Episodio Agudo de Candidiasis Vulvovaginal",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-12-29",
+      "completion_date": "2019-06-30",
+      "country": "Spain",
+      "enrollment": 43,
+      "brief_summary": "Epidemiological study about the clinical and microbiological progress in subjects under treatment for a severe vulvovaginal candidiases episody",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Sexually active women between 18 and 50 years of age at time of screening\n* With diagnosis and symptomatology of VVC\n\nExclusion Criteria:\n\n* Pregnant women\n* Diabetes Mellitus\n* Women witihin three months after a delivery or misbirth\n* Women with vaginal or genital infection s",
+      "endpoints": [
+        "Estimate cure rate in women with severe vuvovaginal candidiases infection"
+      ],
+      "sponsor": "Instituto Palacios",
+      "url": "https://clinicaltrials.gov/study/NCT03064789"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02248506",
+      "title": "Epidemiological Study About the Clinical and Microbiological Evolution of Patients Treated for an Acute Episode of Vulvovaginal Candidiasis.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-06",
+      "completion_date": "2015-03",
+      "country": "Spain",
+      "enrollment": 56,
+      "brief_summary": "To determine proportion of women achieving clinical and mycological cure or have recurrences / reinfection after being treated for an acute episode of vulvovaginal candidiasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Sexually active women between 18 and 50 years\n* Patients attending to the gynecologist with acute vulvovaginal candidiasis.\n* Patients requiring standard treatment with clotrimazole 500 single dose and that the decision to prescribe this treatment is prior to inclusion in the ",
+      "endpoints": [
+        "Vaginal swab test",
+        "Vaginal swab test",
+        "Vaginal swab test"
+      ],
+      "sponsor": "Instituto Palacios",
+      "url": "https://clinicaltrials.gov/study/NCT02248506"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06835361",
+      "title": "International Open-label Randomized Comparative Clinical Study of Efficacy and Safety of Clotrimazole+Lactulose, Vaginal Suppositories (AVVA RUS JSC, Russia) Vs. a Clotrimazole Monocomponent Product in Adult Female Patients with Candidal Vaginitis/vulvovaginitis",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-02-29",
+      "completion_date": "2025-11-30",
+      "country": "Belarus, Russia",
+      "enrollment": 264,
+      "brief_summary": "This study aims to compare the efficacy and safety of the combination drug Clotrimazole+Lactulose with the monocomponent product Canesten® (clotrimazole) in adult women diagnosed with candidal vulvovaginitis. The primary objective was to confirm the superiority of the combination drug in terms of clinical and microbiological response on Day 25 of the study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women aged 18 to 60 years.\n* Clinically and microbiologically confirmed diagnosis of candidal vulvovaginitis.\n* Negative pregnancy test at screening.\n* Agreement to use reliable contraception throughout the study and for 30 days after its completion.\n* Signed informed consent.",
+      "endpoints": [
+        "Proportion (%) of patients with clinical and microbiological response (recovery)"
+      ],
+      "sponsor": "AVVA Pharmaceuticals Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06835361"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01230814",
+      "title": "A Double-Blind, Randomized Trial of Monthly Treatment With Topical Metronidazole and Miconazole Co-formulated Vaginal Suppositories Versus Placebo for Preventing Vaginal Infections in HIV-seronegative Women",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-04",
+      "completion_date": "2013-08",
+      "country": "United States, Kenya",
+      "enrollment": 234,
+      "brief_summary": "This research study is about vaginal infections such as bacterial vaginosis, yeast infections, and trichomoniasis. Usually, these infections can be treated with medication, but sometimes they come back after treatment. Researchers want to know if using vaginal suppositories can decrease the risk of vaginal infections. Participants will include 234 women who are sexually active (greater than or equal to 4 episodes of sex with men during the past month), HIV-negative, 18 to 45 years old, with bact",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Informed consent obtained and informed consent form (ICF) signed.\n* Female, aged 18-45 years.\n* Sexually active with greater than or equal to 4 episodes of sex with a male partner during the past month.\n* Human immunodeficiency virus (HIV)-seronegative on both HIV tests in par",
+      "endpoints": [
+        "Efficacy of Monthly Periodic Presumptive Treatment (PPT) Using Metronidazole With Miconazole Intravaginal Suppositories Versus Matching Placebo Nightly for Five Nights Each Month for Preventing Vulvovaginal Candidiasis (VVC).",
+        "Efficacy of Monthly Periodic Presumptive Treatment (PPT) Using Metronidazole With Miconazole Intravaginal Suppositories Versus Matching Placebo Nightly for Five Nights Each Month for Preventing Bacterial Vaginosis (BV)."
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT01230814"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04292704",
+      "title": "The Role of Fractional CO2 Laser in Consolidation Treatment of Recurrent Vulvovaginal Candidiasis (RVVC) ：a Study Protocol for a Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-12-13",
+      "completion_date": "2022-05",
+      "country": "China",
+      "enrollment": 205,
+      "brief_summary": "Background: Recurrent vulvovaginal candidiasis (RVVC) is a common obstinate vulvovaginal inflammation in gynecology. At present, the pathogenesis of RVVC is not clear. In recent years, it is emphasized that the changes of vaginal microecological environment play an important role in the occurrence and development of RVVC. The treatment of RVVC can be divided into intensive treatment and consolidation treatment. Currently, local antifungal treatment is the main treatment regimen. While it is diff",
+      "eligibility_criteria": "200 RVVC patients will be eligible for the trial if they fulfil the following criterion:\n\n1. women aged 18 to 60;\n2. chief complaint: vulvar itching, burning pain, sexual intercourse pain and urine pain, leucorrhea increased, occurring 4 or more times a year;\n3. gynecological examination: vulvar ery",
+      "endpoints": [
+        "The difference of vaginal cleanliness between the healthy volunteers and 200 RVVC patients",
+        "The difference of the pH value of vagina between the healthy volunteers and 200 RVVC patients",
+        "The difference of vaginal microbiological conditions between the healthy volunteers and 200 RVVC patients"
+      ],
+      "sponsor": "Second Affiliated Hospital of Wenzhou Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT04292704"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03599323",
+      "title": "Prospective, Non-interventional, Post-marketing, Multi-center, Single-cohort, Safety (Questionnaire) Investigation of Empecid L Cream (Clotrimazole 1%)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-07-10",
+      "completion_date": "2021-09-03",
+      "country": "Japan",
+      "enrollment": 1033,
+      "brief_summary": "Researchers already did trials that showed Empecid L Cream worked for patients with Vaginal yeast infection who were in those trials. In this trial, they want to learn if consumers that use the cream under the guidance of a pharmacist have any medical problems during the trial",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Consumers who self-select and are then deemed appropriate users of the product by the pharmacist for treatment of Vulvar itching with rash due to recurrent vaginal candida (only in patients previously diagnosed and treated by a doctor).\n\nExclusion Criteria:\n\n* Patient with fi",
+      "endpoints": [
+        "Incidence of adverse event (AE) and serious adverse event (SAE) in consumers using Empecid L Cream.",
+        "Types of AE recorded in Questionnaire"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT03599323"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06392529",
+      "title": "Efficacy of Voriconazole Loaded Spanlastics Gel Versus Clotriamazole Cream on Treating Vulvovaginal Candidasis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2024-05-10",
+      "completion_date": "2024-06-30",
+      "country": "Egypt",
+      "enrollment": 28,
+      "brief_summary": "To investigate and compare the efficacy of voriconazole loaded spanlastics (VCZ loaded SPs) optimum gel formula (F2 VCZ loaded SP gel) versus Clotrimazole cream in treating candida albicans causing vulvovaginal candidiasis for different durations of 3 days and 5 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female patients aging from 20 t0 40 years old suffering from vulvovaginal candidiasis caused by albicans species.\n\nExclusion Criteria:\n\n* Pregnant women, female suffering from vulvovaginal candidiasis caused by other species rather than C. albicans.",
+      "endpoints": [
+        "efficacy of nano voriconazole versus Clotrimazole in Treatment of vaginal candidiasis albicans and removal of symptoms"
+      ],
+      "sponsor": "Beni-Suef University",
+      "url": "https://clinicaltrials.gov/study/NCT06392529"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03115073",
+      "title": "A Phase IIa Randomized, Active-controlled, Double-blind, Dose-escalation Study in Patients With Vulvovaginal Candidiasis to Evaluate Dose Response Relationship of Clinical Efficacy, Safety and Tolerability of Topically Administered ProF-001",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-04-04",
+      "completion_date": "2018-07-30",
+      "country": "Austria",
+      "enrollment": 84,
+      "brief_summary": "This is a multi-center, randomized, prospective, active-controlled, double-blind, dose-escalation study comparing dose response of clinical efficacy, safety, local tolerability of three different doses of ProF-001/Candiplus® (Candiplus® 0.2%, Candiplus® with 0.3%, Candiplus® with 0.4%) to 1% clotrimazole vaginal cream.\n\nPatients with acute episode of vulvovaginal candidiasis (VVC) will be randomized to receive a daily dose of either 5 ml (intravaginal) of Candiplus® at three different doses for ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premenopausal female patients ≥ 18 years old\n* Patients suffering from an acute episode of vulvovaginal candidiasis, characterized by:\n\n  * Positive vaginal smear (native, KOH) for budding yeasts and/or fungal (pseudo-) hyphae, normal or intermediate flora (G I and G II)\n  * P",
+      "endpoints": [
+        "Combined outcome measure of: Symptom relief within the first 60 minutes (after application of investigational product or active control) and clinical cure at day 7 (± 3 days)."
+      ],
+      "sponsor": "ProFem GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT03115073"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00479947",
+      "title": "A Double-Blind,Randomized Placebo-Controlled Study Using Probiotic Lactobacillus GR-1 and RC-14 as an Adjunctive Therapy to Fluconazole in the Treatment of Yeast Vaginitis",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2007-05",
+      "completion_date": "2007-12",
+      "country": "Nigeria",
+      "enrollment": 100,
+      "brief_summary": "Yeast vaginitis is a very common ailment affecting premenopausal women in Nigeria. This condition is more prevalent in the age group between 21-30 years. More than 75% of premenopausal women and university students are diagnosed with yeast infections annually. In most of these women, recurrent rate of vaginal candidiasis with empiric therapy, stands between 70 and 80%. In addition, resistance to anti-fungal agents is increasing at an alarming speed, particularly with species other than Candida a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premenopausal women suffering from acute or chronic yeast vaginitis and a past history of 3 or 4 episodes over the 12 months will be selected.\n* All participants must be symptomatic, i.e. the participant must have identified herself as suffering from one or more of the followi",
+      "endpoints": [
+        "In the placebo group of patients, it is anticipated that at the 3 month period, a recurrence rate of 50% will occur, whereas, in the treatment arm a reduction in recurrence to 25% will be achieved"
+      ],
+      "sponsor": "Faith Mediplex",
+      "url": "https://clinicaltrials.gov/study/NCT00479947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03562156",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Oteseconazole (VT-1161) Oral Capsules in the Treatment of Subjects With Recurrent Vulvovaginal Candidiasis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-08-16",
+      "completion_date": "2021-08-06",
+      "country": "United States",
+      "enrollment": 438,
+      "brief_summary": "Recurrent vulvovaginal candidiasis (RVVC), also known as recurrent yeast infections, is defined as at least 3 episodes of acute VVC in the past 12 months. Several properties of oteseconazole (VT-1161) suggest that it might be a safer and more effective treatment for RVVC than other oral anti-fungal medicines.\n\nThis study will evaluate the effectiveness and safety of oteseconazole (VT-1161) for the treatment of RVVC and consists of 2 parts. The first part of the study is a 2-week period for the t",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* 3 or more episodes of acute VVC in the past 12 months\n* Positive KOH or Gram stain\n* Total vulvovaginal signs and symptoms score of ≥3 at screening visit\n* Total vulvovaginal signs and symptoms score of \\<3 at baseline visit\n* Must be able to swallow pills\n\nKey Exclusion C",
+      "endpoints": [
+        "Percentage of Subjects With 1 or More Culture-Verified Acute VVC Episodes During the Maintenance Phase of the Study in the Intent-to-Treat Population"
+      ],
+      "sponsor": "Mycovia Pharmaceuticals Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03562156"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02860845",
+      "title": "Multicenter Pilot Study to Compare the Efficacy of a Combination of Vaginal Capsules With Acid Boric, L.Gasseri and L.Rhamnosus Versus the Reference Medication in Patients With Vaginal Candidiasis or Bacterial Vaginosis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-07-12",
+      "completion_date": "2017-11-30",
+      "country": "Spain",
+      "enrollment": 48,
+      "brief_summary": "The purpose of this study is to determine whether a formula of boric acid and probiotics for vaginal application is effective in the treatment of symptomatic episodes of vulvovaginitis in comparison to pharmacological reference controls (depending on the suspected diagnosis).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age over 18 years and agreement to participate by signing the consent form.\n* Women with clinical manifestations of acute infectious vulvovaginitis (burning, pruritus, erythema, oedema, and abnormal vaginal discharge).\n\nExclusion Criteria:\n\n* Clinical findings compatible with ",
+      "endpoints": [
+        "Change in the Presence of Vaginitis Clinical Symptoms Determined by Sobel Score."
+      ],
+      "sponsor": "Laboratorios Ordesa",
+      "url": "https://clinicaltrials.gov/study/NCT02860845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04699240",
+      "title": "A Prospective, Case-controlled Randomized Study of Human Reproductive Tract Active Lactobacillus in Adjuvant Treatment of Recurrent Vulvovaginal Candidiasis.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-07-01",
+      "completion_date": "2023-12-30",
+      "country": "China",
+      "enrollment": 140,
+      "brief_summary": "We are trying to determine if Clotrimazole vaginal tablets with oral Lactobacillus is better than Clotrimazole vaginal tablets in Preventing the Recurrence of vulvovaginalcandidiasis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women be at least 18 years of age\n* Have symptoms of vulva irritation and or abnormal discharge\n* Meet the clinical criteria for RVVC\n* Willing to participate in research\n\nExclusion Criteria:\n\n1. Taking / injecting antibiotics in the past two weeks;\n2. A woman who intends to b",
+      "endpoints": [
+        "The cure rate of RVVC,"
+      ],
+      "sponsor": "Peking University Shenzhen Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04699240"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03024502",
+      "title": "Randomized Clinical Trial of a Mucoadhesive Gel Containing EPP-AF in Patients Diagnosed With Vulvovaginal Candidiasis",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2018-01-30",
+      "completion_date": "2020-06",
+      "country": "Brazil",
+      "enrollment": 90,
+      "brief_summary": "The present study aims to evaluate the safety of two mucoadhesive gels containing a propolis standardized extract identified as EPP-AF, with 1 and 2% of propolis. The efficacy studies with both propolis gels will be performed in comparison with clotrimazole cream in patients presenting vulvovaginal candidiasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Have performed the clinical and laboratory diagnosis of vulvovaginitis by Candida\n\nExclusion Criteria:\n\n* cPatients with recurrent candidiasis;\n* History of hepatic, renal, hematological, cardiovascular diseases and with decompensated diabetes mellitus (glycemia above 200) and ",
+      "endpoints": [
+        "clinical cure"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT03024502"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03005353",
+      "title": "Randomized Clinical Trial for Treatment of Candidal Vulvovaginitis Using Cumin Seed Extract Vaginal Suppositories.",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-03-01",
+      "completion_date": "2020-01-31",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "Fungal infections have increased over the last two decades, largely because of the increasing size of the population at risk, including patients who are immunocompromised, broad-spectrum antibiotics and intravascular catheter users. Essential oils and other extracts of plants have evoked interest as sources of natural products. They have been shown to possess antibacterial, antifungal, antiviral, insecticidal and antioxidant properties. To the best of our knowledge, no study has examined the eff",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Women were 18-49 years old and were married;\n2. They had not used antibiotics, immunosuppressive drugs, or vaginal drugs 14 days before the study;\n3. They did not suffer from trichomonal vaginitis, bacterial vaginitis, or cervicitis based on direct smear;\n4. Candidiasis cultu",
+      "endpoints": [
+        "The percentage of patients with complete cure"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03005353"
+    }
+  ],
+  "timestamp": "2026-03-04T13:30:56.364798",
+  "success": true,
+  "error_message": null
+}

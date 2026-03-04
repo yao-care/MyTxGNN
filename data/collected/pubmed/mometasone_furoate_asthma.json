@@ -1,0 +1,583 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Mometasone Furoate",
+    "disease": "asthma",
+    "query_string": "Mometasone Furoate AND asthma"
+  },
+  "data": {
+    "query": "Mometasone Furoate AND asthma",
+    "results": [
+      {
+        "pmid": "38470381",
+        "title": "Allergic Rhinitis: A Review.",
+        "abstract": "Allergic rhinitis affects an estimated 15% of the US population (approximately 50 million individuals) and is associated with the presence of asthma, eczema, chronic or recurrent sinusitis, cough, and both tension and migraine headaches.",
+        "journal": "JAMA",
+        "year": "2024",
+        "authors": [
+          "Bernstein Jonathan A",
+          "Bernstein Joshua S",
+          "Makol Richika",
+          "Ward Stephanie"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Budesonide",
+          "Cetirizine",
+          "Fluticasone",
+          "Histamine H1 Antagonists",
+          "Immunoglobulin E",
+          "Mometasone Furoate",
+          "Olopatadine Hydrochloride",
+          "Pruritus",
+          "Rhinitis, Allergic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38470381/"
+      },
+      {
+        "pmid": "34329722",
+        "title": "Dose bridging data for mometasone furoate in once-daily fixed-dose inhaled combinations of mometasone furoate/indacaterol and mometasone furoate/ indacaterol/glycopyrronium in patients with asthma.",
+        "abstract": "Once-daily (o.d.) fixed-dose combinations of mometasone furoate/indacaterol acetate (MF/IND) and mometasone furoate/indacaterol acetate/glycopyrronium bromide (MF/IND/GLY), both delivered via the Breezhaler® device, are approved for the maintenance treatment of asthma. Across these fixed-dose combinations, while the doses of bronchodilators remain the same, the nominal doses of mometasone furoate in micrograms differ. This article presents the steps followed in bridging the mometasone furoate doses at the corresponding dose strengths in the mometasone furoate formulation delivered via the Twisthaler® and mometasone furoate/indacaterol acetate and mometasone furoate/indacaterol acetate/glycopyrronium bromide formulations delivered via the Breezhaler®. These were: (i) bridging the mometasone furoate doses in the Twisthaler® (previously approved) to mometasone furoate doses in the Breezhaler®; (ii) bridging the mometasone furoate doses in the Breezhaler® to mometasone furoate/indacaterol ",
+        "journal": "Pulmonary pharmacology & therapeutics",
+        "year": "2021",
+        "authors": [
+          "Buhl Roland",
+          "Nikolaev Ivan",
+          "Tillmann Hanns-Christian",
+          "Vaidya Soniya",
+          "Bartels Christian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Drug Combinations",
+          "Glycopyrrolate",
+          "Humans",
+          "Indans",
+          "Mometasone Furoate",
+          "Quinolones",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34329722/"
+      },
+      {
+        "pmid": "32524991",
+        "title": "Efficacy and safety of omalizumab in nasal polyposis: 2 randomized phase 3 trials.",
+        "abstract": "Chronic rhinosinusitis with nasal polyps (CRSwNP) is characterized by IgE hyperproduction and eosinophilic inflammation. The anti-IgE antibody, omalizumab, has demonstrated efficacy in patients with CRSwNP and comorbid asthma previously.",
+        "journal": "The Journal of allergy and clinical immunology",
+        "year": "2020",
+        "authors": [
+          "Gevaert Philippe",
+          "Omachi Theodore A",
+          "Corren Jonathan",
+          "Mullol Joaquim",
+          "Han Joseph"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Anti-Allergic Agents",
+          "Chronic Disease",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32524991/"
+      },
+      {
+        "pmid": "27218300",
+        "title": "Mometasone furoate nasal spray for the treatment of asthma.",
+        "abstract": "Asthma is a common respiratory disease characterized by airway inflammation, bronchoconstriction and airway hyperresponsiveness and symptoms such as coughing, wheezing, shortness of breath and chest tightness. Allergic rhinitis is a common comorbidity in asthma and glucocorticoids are the key stone in the treatment of both diseases. Mometasone furoate is a potent synthetic steroid with a very high receptor affinity and a low bioavailability and shown to be superior compared to other inhaled corticosteroids. It is not clear whether the use of mometasone furoate nasal spray (MFNS) is associated with an improvement in asthma control.",
+        "journal": "Expert opinion on investigational drugs",
+        "year": "2016",
+        "authors": [
+          "Meteran Howraman",
+          "Backer Vibeke"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Anti-Allergic Agents",
+          "Asthma",
+          "Glucocorticoids",
+          "Humans",
+          "Mometasone Furoate",
+          "Nasal Sprays",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27218300/"
+      },
+      {
+        "pmid": "19618993",
+        "title": "Mometasone furoate: an inhaled glucocorticoid for the management of asthma in adults and children.",
+        "abstract": "Mometasone furoate has been available for clinical use, starting with a dermatologic preparation, for nearly 20 years. An inhaled format of the drug for management of asthma had been in development during the last decade and has been available for clinical use for 6 years as a dry powder inhaler delivering either 100 mcg or 200 mcg per dose. It has a long half-life and is suitable for daily dosing. The drug is approved for use in the USA for the treatment of asthma in patients aged 4 years or over. Mometasone furoate is a topically potent glucocorticoid with a favorable risk-benefit profile. A wide variety of randomized clinical trials have shown the drug to have a clinically beneficial effect on asthma comparable to fluticasone propionate, and to permit the reduction or withdrawal of oral glucocorticoid therapy in patients with asthma. Mometasone furoate has approximately 1% oral bioavailability but does produce systemic glucocorticoid effects from the drug released from the lung and ",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2009",
+        "authors": [
+          "Cowie Robert L",
+          "Giembycz Mark A",
+          "Leigh Richard"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adult",
+          "Anti-Allergic Agents",
+          "Asthma",
+          "Biological Availability",
+          "Child",
+          "Dose-Response Relationship, Drug",
+          "Glucocorticoids",
+          "Humans",
+          "Mometasone Furoate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19618993/"
+      },
+      {
+        "pmid": "27130691",
+        "title": "Dupilumab efficacy and safety in adults with uncontrolled persistent asthma despite use of medium-to-high-dose inhaled corticosteroids plus a long-acting β2 agonist: a randomised double-blind placebo-controlled pivotal phase 2b dose-ranging trial.",
+        "abstract": "Dupilumab, a fully human anti-interleukin-4 receptor α monoclonal antibody, inhibits interleukin-4 and interleukin-13 signalling, key drivers of type-2-mediated inflammation. Adults with uncontrolled persistent asthma who are receiving medium-to-high-dose inhaled corticosteroids plus a long-acting β2 agonist require additional treatment options as add-on therapy. We aimed to assess the efficacy and safety of dupilumab as add-on therapy in patients with uncontrolled persistent asthma on medium-to-high-dose inhaled corticosteroids plus a long-acting β2 agonist, irrespective of baseline eosinophil count.",
+        "journal": "Lancet (London, England)",
+        "year": "2016",
+        "authors": [
+          "Wenzel Sally",
+          "Castro Mario",
+          "Corren Jonathan",
+          "Maspero Jorge",
+          "Wang Lin"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adult",
+          "Anti-Asthmatic Agents",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Asthma",
+          "Breath Tests",
+          "Budesonide, Formoterol Fumarate Drug Combination",
+          "Disease Progression",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27130691/"
+      },
+      {
+        "pmid": "11511026",
+        "title": "Inhaled mometasone furoate: a review of its use in adults and adolescents with persistent asthma.",
+        "abstract": "Mometasone furoate is a corticosteroid with relatively high in vitro potency. Recent randomised, double-blind, multicentre trials have assessed the efficacy of mometasone furoate delivered by dry powder inhaler over 12 weeks in adults and adolescents with mild to severe persistent asthma. Mometasone furoate 200 microg twice daily or 400 microg once daily in the morning or 200 microg once daily in the evening improved lung function, asthma symptom scores and use of rescue medication to a significantly greater extent than placebo in patients who had previously received only short-acting inhaled beta2-adrenoceptor agonists alone as treatment in 3 trials (n = 195 to 306). In studies in 227 to 733 patients with mild to moderate asthma who were receiving ongoing treatment with inhaled corticosteroids prior to enrolment, mometasone furoate 100 to 400 microg twice daily was consistently better at improving the above indicators of asthma than placebo. Mometasone furoate 100 to 200 microg twice ",
+        "journal": "Drugs",
+        "year": "2001",
+        "authors": [
+          "Sharpe M",
+          "Jarvis B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adolescent",
+          "Adult",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Cytochrome P-450 Enzyme System",
+          "Cytokines",
+          "Humans",
+          "Mometasone Furoate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11511026/"
+      },
+      {
+        "pmid": "34849118",
+        "title": "The efficacy of mometasone furoate for children with asthma: a meta-analysis of randomized controlled trials.",
+        "abstract": "The influence of mometasone furoate for paediatric asthma remains controversial.",
+        "journal": "Postepy dermatologii i alergologii",
+        "year": "2021",
+        "authors": [
+          "Song Yanling",
+          "Pan Kaiyu",
+          "Chen Yuyan",
+          "Wang Xiaoming",
+          "Tian Jun"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34849118/"
+      },
+      {
+        "pmid": "19392928",
+        "title": "Mometasone furoate: an effective anti-inflammatory with a well-defined safety and tolerability profile in the treatment of asthma.",
+        "abstract": "Inhaled corticosteroids (ICS) are recommended as a controller medication in the most recent Global Initiative for Asthma and the National Heart, Lung and Blood Institute guidelines. Mometasone furoate (MF) is an effective, well-tolerated inhaled steroid and is indicated for the maintenance treatment of adult and adolescent patients (> or = 12 years) with persistent asthma. MF is approved for once or bid maintenance treatment of asthma (in patients previously receiving ICS or bronchodilators). Low systemic bioavailability and high relative binding affinity for the glucocorticoid receptor are properties of MF that allow for a favourable efficacy and tolerability profile. Inhaled MF has been shown to be an effective and well-tolerated controller medication for those patients with mild, moderate or severe persistent asthma. MF has recently been approved by the US regulatory authorities for use in children (4-11 years). Future developments include the combination of MF with the long-acting ",
+        "journal": "International journal of clinical practice",
+        "year": "2009",
+        "authors": [
+          "Bousquet J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adolescent",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Aged",
+          "Anti-Asthmatic Agents",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Biological Availability",
+          "Child"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19392928/"
+      },
+      {
+        "pmid": "34783265",
+        "title": "Inhaled indacaterol/glycopyrronium/mometasone furoate fixed-dose combination in moderate-to-severe asthma.",
+        "abstract": "Fixed-dose long-acting beta2-agonist (LABA)/inhaled corticosteroid (ICS) combinations and add-on therapies as needed are the mainstay for maintenance therapy in asthma. However, more than 40% of patients have an inadequately controlled disease. The development of triple fixed-dose combinations consisting of long-acting muscarinic antagonist (LAMA)/LABA/ICS has paved the way for a new approach to reach therapeutic goals of an optimal control of symptoms and an effective prevention of future exacerbations.",
+        "journal": "Expert review of respiratory medicine",
+        "year": "2022",
+        "authors": [
+          "de Llano Luis Perez",
+          "Naval Elsa",
+          "Mejía Natalia",
+          "Domínguez-Ortega Javier"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenergic beta-2 Receptor Agonists",
+          "Asthma",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Glycopyrrolate",
+          "Humans",
+          "Indans",
+          "Mometasone Furoate",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34783265/"
+      },
+      {
+        "pmid": "16789800",
+        "title": "Inhaled mometasone furoate: A review of its use in persistent asthma in adults and adolescents.",
+        "abstract": "Inhaled mometasone furoate (Asmanex) is a synthetic corticosteroid indicated for the first-line maintenance prophylactic therapy of persistent asthma in adults and adolescents. It is formulated for delivery via a breath-actuated dry powder inhaler (DPI) [Twisthaler].Inhaled mometasone furoate delivered by DPI is effective in treating patients with persistent asthma. It improves pulmonary function and health-related quality of life, reduces symptoms and decreases oral corticosteroid requirements in severe disease. It is a potent anti-inflammatory agent and is at least as clinically effective as other inhaled corticosteroids. Inhaled mometasone furoate is equally effective in controlling asthma when administered in two divided doses or as a single daily dose. Once-daily administration of mometasone furoate 200 microg in the evening was more effective than administration of the same dosage in the morning. The drug is well tolerated, with low systemic bioavailability and minimal systemic a",
+        "journal": "Drugs",
+        "year": "2006",
+        "authors": [
+          "McCormack Paul L",
+          "Plosker Greg L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adolescent",
+          "Adult",
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Chronic Disease",
+          "Humans",
+          "Mometasone Furoate",
+          "Pregnadienediols",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16789800/"
+      },
+      {
+        "pmid": "27582089",
+        "title": "Vilanterol and fluticasone furoate for asthma.",
+        "abstract": "Vilanterol (VI) is a long-acting beta2-agonist (LABA) that binds to the beta2-adrenoceptor on the airway smooth muscle, producing bronchodilation. LABA therapy, which is well established in adults as part of the British Thoracic Society (BTS) Guidelines for the Management of Asthma, leads to improvement in symptoms and lung function and reduction in exacerbations. At present, the commonly used LABAs licensed for use in asthma management (formoterol and salmeterol) require twice-daily administration, whereas VI is a once-daily therapy.Fluticasone furoate (FF) is an inhaled corticosteroid (ICS), and ICS therapy is recommended by the BTS asthma guidelines. ICSs, the mainstay of asthma treatment, lead to a reduction in both airway inflammation and airway hyper-responsiveness. Regular use leads to improvement in symptoms and lung function. ICSs are currently recommended as 'preventer' therapy for patients who use a 'reliever' medication (e.g. short-acting beta2 agonist (SABA), salbutamol) t",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2016",
+        "authors": [
+          "Dwan Kerry",
+          "Milan Stephen J",
+          "Bax Lynne",
+          "Walters Nicola",
+          "Powell Colin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27582089/"
+      },
+      {
+        "pmid": "23517391",
+        "title": "Comparison of the efficacy and safety of mometasone furoate to other inhaled steroids for asthma: a meta-analysis.",
+        "abstract": "It has been of great interest whether mometasone furoate (MF) is better than other inhaled corticosteroids (ICSs) as the controller therapy in patients with moderate or severe asthma who had previously been taking ICSs.",
+        "journal": "Asian Pacific journal of allergy and immunology",
+        "year": "2013",
+        "authors": [
+          "Yang Danlei",
+          "Wang Jianmiao",
+          "Bunjhoo Hansvin",
+          "Xiong Weining",
+          "Xu Yongjian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Asthma",
+          "Humans",
+          "Mometasone Furoate",
+          "Odds Ratio",
+          "Pregnadienediols",
+          "Respiratory Function Tests",
+          "Steroids",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23517391/"
+      },
+      {
+        "pmid": "22049912",
+        "title": "Mometasone furoate dry powder inhaler for the treatment of asthma.",
+        "abstract": "Asthma is a chronic inflammatory disease that causes significant morbidity and mortality. Inhaled corticosteroids are the preferred initial treatment for this disorder. Mometasone furoate dry powder is an inhaled corticosteroid that is approved for once-daily treatment of asthma in both adults and children as young as 4 years.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2011",
+        "authors": [
+          "Fausnight Tracy B",
+          "Craig Timothy J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Dry Powder Inhalers",
+          "Humans",
+          "Mometasone Furoate",
+          "Pregnadienediols",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22049912/"
+      },
+      {
+        "pmid": "32653074",
+        "title": "Once-daily, single-inhaler mometasone-indacaterol-glycopyrronium versus mometasone-indacaterol or twice-daily fluticasone-salmeterol in patients with inadequately controlled asthma (IRIDIUM): a randomised, double-blind, controlled phase 3 study.",
+        "abstract": "Patients with asthma who are inadequately controlled on inhaled corticosteroid-long-acting β2-adrenoceptor agonist (ICS-LABA) combinations might benefit from the addition of a long-acting muscarinic receptor antagonist. The aim of the IRIDIUM study was to assess the efficacy and safety of a once-daily, single-inhaler combination of mometasone furoate, indacaterol acetate, and glycopyrronium bromide (MF-IND-GLY) versus ICS-LABA in patients with inadequately controlled asthma.",
+        "journal": "The Lancet. Respiratory medicine",
+        "year": "2020",
+        "authors": [
+          "Kerstjens Huib A M",
+          "Maspero Jorge",
+          "Chapman Kenneth R",
+          "van Zyl-Smit Richard N",
+          "Hosoe Motoi"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adolescent",
+          "Adrenergic beta-2 Receptor Agonists",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Child",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32653074/"
+      },
+      {
+        "pmid": "17169829",
+        "title": "The efficacy and safety of mometasone furoate delivered via a dry powder inhaler for the treatment of asthma.",
+        "abstract": "Inhaled corticosteroids are the gold standard of daily therapy for effective control of all stages of persistent asthma. For this review of the new inhaled corticosteroid mometasone furoate, a MEDLINE/PubMed search using the terms \"mometasone furoate AND asthma\" found 57 articles, 17 of which presented data from efficacy and safety studies reviewed herein. In clinical trials, once-daily evening dosing of mometasone furoate delivered via dry powder inhaler (200 or 400 mu g/day) was effective in patients with mild to moderate asthma previously treated with short-acting beta2-agonists alone and in those previously maintained on inhaled corticosteroid therapy. In patients with severe asthma, mometasone furoate 400 mu g twice daily eliminated or reduced the need for oral prednisone while improving lung function, asthma symptoms, and quality of life. Clinical studies have shown that mometasone furoate is generally well tolerated and has minimal systemic activity at recommended doses. In conc",
+        "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+        "year": "2006",
+        "authors": [
+          "Meltzer Eli O",
+          "Wenzel Sally"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Humans",
+          "Mometasone Furoate",
+          "Nebulizers and Vaporizers",
+          "Powders",
+          "Pregnadienediols",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17169829/"
+      },
+      {
+        "pmid": "11936562",
+        "title": "Bioavailability and metabolism of mometasone furoate: pharmacology versus methodology.",
+        "abstract": "The degree of systemic exposure ofter inhalation of corticosteroids is of great clinical concern. For optimum outcome, the pulmonary deposition should be sufficiently high to produce the desired anti-inflammatory effect in the lungs, whereas the plasma concentrations due to the absorption of the corticosteroid from the lung and the gut should be minimal. Recently, it has been reported that inhaled mometasone furoate has a systemic bioavailability of less than 1%, which is much lower than other corticosteroids currently available. However, critical evaluation of the study methodology and results does not support this finding. A major shortfall of the study was an insufficient analytical sensitivity, resulting in a calculated average plasma concentration profile that was entirely below the limit of quantification. These numbers were generated by replacing all concentrations below the limit of quantification byzero and then calculating an average value. This procedure can lead to erroneou",
+        "journal": "Journal of clinical pharmacology",
+        "year": "2002",
+        "authors": [
+          "Derendorf Hartmut",
+          "Daley-Yates Peter T",
+          "Pierre Lisa N",
+          "Efthimiou John"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Biological Availability",
+          "Humans",
+          "Injections, Intraventricular",
+          "Mometasone Furoate",
+          "Pregnadienediols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11936562/"
+      },
+      {
+        "pmid": "37038974",
+        "title": "Intranasal corticosteroid and antihistamine combinations in the treatment of allergic rhinitis: the role of the novel formulation olopatadine/mometasone furoate.",
+        "abstract": "Allergic rhinitis (AR) is a common disease with an important impact on the quality of life and very high management costs. In many patients, the poor control of rhinitis symptoms often requires the use of different drugs, and polytherapy tends to reduce therapeutic adherence. According to the latest version of ARIA guidelines, the currently recommended drugs for the treatment of moderate-to-severe AR are second-generation antihistamines, intranasal corticosteroids, and their combination, even in a single nasal spray device. A single medication with a rapid onset of action, acting on breakthrough symptoms too, would be advantageous, also in terms of patient compliance.",
+        "journal": "Expert review of clinical immunology",
+        "year": "2023",
+        "authors": [
+          "Ridolo Erminia",
+          "Barone Alessandro",
+          "Nicoletta Francesca",
+          "Paoletti Giovanni",
+          "Heffler Enrico"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Olopatadine Hydrochloride",
+          "Mometasone Furoate",
+          "Quality of Life",
+          "Rhinitis, Allergic, Seasonal",
+          "Drug Combinations",
+          "Treatment Outcome",
+          "Histamine Antagonists",
+          "Administration, Intranasal",
+          "Adrenal Cortex Hormones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37038974/"
+      },
+      {
+        "pmid": "37120785",
+        "title": "Medication Adherence and Asthma Control with Once-Daily Indacaterol/Glycopyrronium/Mometasone Furoate Breezhaler Digital Companion: 90-Day Analysis from Germany.",
+        "abstract": "Suboptimal adherence to inhaled asthma therapy is associated with poor clinical outcomes. Digital companion paired inhaler devices record medication use and provide reminders, thereby improving treatment adherence and asthma outcomes. This analysis assessed the impact of indacaterol/glycopyrronium/mometasone furoate (IND/GLY/MF) Breezhaler® digital companion on medication adherence and symptom control in adults with asthma from Germany.",
+        "journal": "Pulmonary therapy",
+        "year": "2023",
+        "authors": [
+          "Woehrle Holger",
+          "Mastoridis Paul",
+          "Stempel David",
+          "Kaye Leanne",
+          "Vuong Vy"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37120785/"
+      },
+      {
+        "pmid": "41033334",
+        "title": "Dupilumab versus omalizumab in patients with chronic rhinosinusitis with nasal polyps and coexisting asthma (EVEREST): a multicentre, randomised, double-blind, head-to-head phase 4 trial.",
+        "abstract": "Chronic rhinosinusitis with nasal polyps (CRSwNP) is predominantly driven by type 2 inflammation. The biologics dupilumab and omalizumab, which target drivers and mediators of type 2 inflammation (interleukin [IL]-4/IL-13 signaling and immunoglobulin E [IgE], respectively), are efficacious in treating CRSwNP but direct comparisons are few. In EVEREST (EValuating trEatment RESponses of dupilumab versus omalizumab), the first head-to-head trial in respiratory biologics, we aimed to compare the efficacy and safety of dupilumab and omalizumab in patients with severe CRSwNP who had mild, moderate, or severe asthma.",
+        "journal": "The Lancet. Respiratory medicine",
+        "year": "2025",
+        "authors": [
+          "De Corso Eugenio",
+          "Canonica G Walter",
+          "Heffler Enrico",
+          "Springer Michal",
+          "Grzegorzek Tomasz"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase IV",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Anti-Asthmatic Agents",
+          "Antibodies, Monoclonal, Humanized",
+          "Asthma",
+          "Chronic Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41033334/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T13:27:46.668096",
+  "success": true,
+  "error_message": null
+}
