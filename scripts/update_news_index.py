@@ -47,20 +47,34 @@ def match_drug_keywords(text: str, drugs_lookup: dict, synonyms: dict) -> list:
     matched = []
     seen = set()
 
-    # Check drug synonyms
+    # First check all 508 drug names from drugs_lookup
+    for drug_name_lower, slug in drugs_lookup.items():
+        # Only match if drug name is at least 4 chars to avoid false positives
+        if len(drug_name_lower) >= 4 and drug_name_lower in text_lower:
+            if drug_name_lower not in seen:
+                matched.append({
+                    "type": "drug",
+                    "name": drug_name_lower.title(),
+                    "slug": slug
+                })
+                seen.add(drug_name_lower)
+
+    # Also check drug synonyms (brand names, local names)
     drug_synonyms = synonyms.get("drug_synonyms", {})
     for drug_name, syns in drug_synonyms.items():
-        all_names = [drug_name] + syns
-        for name in all_names:
-            if name.lower() in text_lower:
+        if drug_name.lower() in seen:
+            continue
+        for syn in syns:
+            # Only match synonyms with 4+ chars
+            if len(syn) >= 4 and syn.lower() in text_lower:
                 slug = drugs_lookup.get(drug_name.lower())
-                if slug and drug_name not in seen:
+                if slug:
                     matched.append({
                         "type": "drug",
                         "name": drug_name.title(),
                         "slug": slug
                     })
-                    seen.add(drug_name)
+                    seen.add(drug_name.lower())
                 break
 
     return matched
