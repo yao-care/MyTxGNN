@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-04T12:31:23.803447",
+  "fetched": "2026-03-04T13:49:19.265000",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Protect Children From Attacks On Schools — Malaysian Paediatric Association",
@@ -119,16 +119,6 @@
         "medical",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Health Ministry vows to slash waiting times for heart surgery with infrastructure boost across Malaysia",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/04/health-ministry-vows-to-slash-waiting-times-for-heart-surgery-with-infrastructure-boost-across-malaysia/211277",
-      "source": "Malay Mail",
-      "published": "2026-03-04T06:51:24",
-      "summary": "KUALA LUMPUR, March 4 —The Ministry of Health (MOH) has implemented various short‑ and medium‑term measures to sho...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
