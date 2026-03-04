@@ -5,7 +5,7 @@ drugbank_id: "DB01590"
 drug_name: "Everolimus"
 kg_predictions: 80
 dl_predictions: 573
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 80
 brands: []
 permalink: /drugs/everolimus/
@@ -21,7 +21,7 @@ permalink: /drugs/everolimus/
 | **DrugBank ID** | [DB01590](https://go.drugbank.com/drugs/DB01590) |
 | **KG Predictions** | 80 |
 | **DL Predictions (≥0.7)** | 573 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

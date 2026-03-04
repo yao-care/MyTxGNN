@@ -1,0 +1,989 @@
+{
+  "drug": "Caffeine",
+  "drugbank_id": "DB00201",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:36:09Z",
+  "indications": [
+    {
+      "indication": "pharyngitis",
+      "evidence_level": "L1",
+      "trials": 2,
+      "articles": 4,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 1,
+        "review_articles": 1,
+        "other_articles": 2,
+        "total_trials": 2,
+        "total_articles": 4
+      }
+    },
+    {
+      "indication": "vasomotor rhinitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 2,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 2,
+        "total_trials": 0,
+        "total_articles": 2
+      }
+    },
+    {
+      "indication": "common cold",
+      "evidence_level": "L1",
+      "trials": 6,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 3,
+        "rct_articles": 1,
+        "review_articles": 5,
+        "other_articles": 4,
+        "total_trials": 6,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "nasopharyngitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "headache disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 0,
+        "phase1_trials": 2,
+        "other_trials": 15,
+        "rct_articles": 0,
+        "review_articles": 9,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 28,
+  "total_articles": 27,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01192178",
+      "title": "A Randomized, Double-Blind, Parallel Group Study of ADVAIR™ DISKUS™ 100/50 and FLOVENT™DISKUS™ 100, Both Twice Daily, in a Pediatric Population During the Fall Viral Season.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2010-12",
+      "country": "United States",
+      "enrollment": 339,
+      "brief_summary": "Study ADA113872 is an exploratory 16-week multi-centre, randomized, double-blind, parallel group study in pediatric subjects, 4 to 11 years of age, with a history of seasonal asthma exacerbation(s). Approximately 40 clinical sites in the United States will randomize 316 subjects. Eligible subjects will be randomly assigned to one of two double-blind treatments using a 1:1 randomization. Subjects will be identified for their eligibility for enrolment starting in April 2010. Eligible subjects will",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient\n* Subjects must be between the ages of 4 and 11 at Randomization\n* Subjects must attend day-care, pre-school, elementary school, or middle school. Day-care attendance is defined as receiving childcare outside the home for at least 10 hours per week. Children who are",
+      "endpoints": [
+        "Total Number of Asthma Exacerbations Reported During the Treatment Period"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01192178"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01048866",
+      "title": "A Repeat-Dose, Multi-Centre, Randomized, Double-Blind, Placebo-Controlled, Study to Determine the Safety and Efficacy of Flurbiprofen 8.75 mg Lozenge Compared to Its Vehicle Control Lozenge in Patients With Painful Pharyngitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 198,
+      "brief_summary": "The purposes of this study is to demonstrate the analgesic efficacy of flurbiprofen 8.75 mg lozenge compared to its vehicle lozenge and to demonstrate the safety of the flurbiprofen lozenge throughout the course of treating sore throat due to acute pharyngitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The patient has a complaint of sore throat.\n2. If the patient is a female of childbearing potential, she has been using effective contraception since the last date of menses and is not breast-feeding or lactating.\n3. If the patient is a female of childbearing potential, the p",
+      "endpoints": [
+        "Time Weighted Sum of Pain Intensity Differences (SPID) in Sore Throat Pain Intensity Scale (STPIS) Over the 24 Hours Post-baseline (STPIS SPID24)"
+      ],
+      "sponsor": "Reckitt Benckiser LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01048866"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01686646",
+      "title": "Effects of Two Doses of a Common Cold Treatment on Cognitive Function",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-11",
+      "country": "United Kingdom",
+      "enrollment": 240,
+      "brief_summary": "This study will investigate any improvement in alertness and performance based on cognitive function and mood assessment in subjects suffering the common cold, when taking a novel paracetamol and caffeine combination verses paracetamol alone.",
+      "eligibility_criteria": "* Participants with symptoms of cold \\< 96 hours, rating of at least '2' on malaise at least 4 other symptoms of cold.\n* No history of clinically significant perennial rhinitis, no recent antibiotic, antihistamine or cold treatment, no caffeine in the previous 12 hours, no psychoactive medication in",
+      "endpoints": [
+        "Change From Baseline in Number of Accurate Responses to Rapid Visual Information Processing (RVIP) Cognitive Test"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01686646"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01441141",
+      "title": "Exploratory Studies of Psychophysical Pain Phenotyping and Genetic Variability in Sickle Cell Disease",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-06-17",
+      "completion_date": "2020-12-09",
+      "country": "United States",
+      "enrollment": 67,
+      "brief_summary": "Background:\n\n\\- Pain is the most common symptom of sickle cell disease. Episodes of severe sickle cell pain are known as \"crises.\" High rates of pain crises are associated with a higher risk of early death. Some people with sickle cell disease have many severe pain crises while others experience fewer crises. This difference in pain crisis may be caused by sensitivity to pain. People with high sensitivity to pain may have more pain crises. Many factors, including a person's genetic makeup, deter",
+      "eligibility_criteria": "* ELIGIBILITY CRITERIA FOR ALL PARTICIPANTS:\n\nAll study participants must be of self-described African or African American ancestry. They will be at least 18 years old and must be able to provide informed, written consent for participation.\n\nINCLUSION CRITERIA:\n\nInclusion Criteria for Sickle Cell Pa",
+      "endpoints": [
+        "To determine if thresholds for pain perception are lower in SCD than in non-SCD controls."
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01441141"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07238465",
+      "title": "Dysautonomia InVestigation in Individuals With Down SyndromE: DIVE Study",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-12",
+      "completion_date": "2029-12",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "Down syndrome (DS), the most common genetic cause of intellectual disability, is associated with widespread organ dysfunction, including abnormalities in the autonomic nervous system (ANS). The ANS regulates critical functions such as heart rate (HR) and blood pressure (BP), both essential for maintaining homeostasis and supporting physical activity. Individuals with DS often exhibit blunted HR responses to exercise-typically \\~30 beats per minute below expected levels-suggesting reduced sympath",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-50 yrs old and apparently healthy individuals\n* Ability to understand the study and give assent to participate\n* Has a study partner who can attend all visits for the individuals with DS, and answer questionnaires, provide consent when necessary\n* Corrected or non-existent ",
+      "endpoints": [
+        "Seated Baseline Concentration of Plasma Catecholamines",
+        "Concentration of Plasma Catecholamines During Cold Pressor Test",
+        "Baseline Standing Concentration of Plasma Catecholamines"
+      ],
+      "sponsor": "University of Colorado, Denver",
+      "url": "https://clinicaltrials.gov/study/NCT07238465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02735070",
+      "title": "Phase III Study Comparing Coristina® D to Resfenol® in the Symptomatic Treatment of Common Cold",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2016-09",
+      "completion_date": "2017-03",
+      "country": "N/A",
+      "enrollment": 366,
+      "brief_summary": "The primary objective of this study is to evaluate the non-inferiority of Coristina® d in the symptomatic treatment of the common cold compared to Resfenol® comparator.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Sign and date the informed consent form;\n2. Age between 18 and 60 years old;\n3. Symptoms of common cold not exceeding 72 hours must be present;\n4. It will be considered symptoms of the common cold the presence of at least 2 of the 10 symptoms following: runny nose, sneezing, ",
+      "endpoints": [
+        "Global Evaluation from 1 to 3 days after last dose"
+      ],
+      "sponsor": "Brainfarma Industria Química e Farmacêutica S/A",
+      "url": "https://clinicaltrials.gov/study/NCT02735070"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01435486",
+      "title": "Caffeine Citrate for the Treatment of Apnea Associated With Bronchiolitis in Young Infants: A Randomized, Double Blind, Controlled Trial (RCT)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2014-11",
+      "country": "Qatar",
+      "enrollment": 90,
+      "brief_summary": "Viral bronchiolitis is the most common lower respiratory tract infection of infancy. Apnea is a complication of bronchiolitis, reported in 16 - 21% of cases. Caffeine, a trimethylxanthine, acts as an antagonist to endogenous adenosine and a potent central nervous system stimulant. In apnea of prematurity, caffeine is believed to work by increasing central respiratory drive.\n\nInfants ≤4 months of age, presenting to pediatric emergency center Al-Sadd, from September 2011 to May 2014, with a diagno",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants ≤4 months of age, presenting to pediatric emergency center Al-Sadd, from September 2011 to May 2014, with a diagnosis of viral bronchiolitis associated with apnea.\n\nExclusion Criteria:\n\n* Hypersensitivity to caffeine.\n* Patients on caffeine treatment.\n* Cardiovascular ",
+      "endpoints": [
+        "The primary efficacy outcome in this double-blinded study was the time until last apnea episode in both groups."
+      ],
+      "sponsor": "Hamad Medical Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT01435486"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01466348",
+      "title": "Effects of a Common Cold Treatment on Cognitive Function",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-02",
+      "completion_date": "2011-04",
+      "country": "United Kingdom",
+      "enrollment": 72,
+      "brief_summary": "A reduction in alertness and lower levels of performance are commonly associated with the common cold. Paracetamol has been shown to be more effective than placebo in treating symptoms associated with upper respiratory tract infection; caffeine has been shown to increase levels of alertness and improve performance of people suffering from colds. This study will investigate any improvement in alertness and performance based on cognitive function and mood assessment in subjects suffering from the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Present with symptoms of the common cold of no more than 96 hours duration\n* Score of \"2\" or more on a self-rating for malaise and at least 4 other cold symptoms\n\nExclusion Criteria:\n\n* Pregnancy or lactation\n* Hypersensitivity to drugs\n* Have taken caffeine in the last 12 hou",
+      "endpoints": [
+        "Adjusted Mean Change From Baseline in Number of Valid Responses to Rapid Visual Information Processing (RVIP) Cognitive Test"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01466348"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02758990",
+      "title": "Interventional Testing of Gene-environment Interactions Via the Verifomics Mobile Application",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2016-03",
+      "completion_date": "2016-11-23",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "The purpose of this study is to study interactions between genes, lifestyle environmental factors like foods, nutritional supplements and non-invasive medical devices and health factors that can be measured without specialized medical equipment in order to develop lifestyle recommendations tailored to individual genetics for a host of common chronic health conditions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* For BMI interventions, BMI \\> 25\n* For headache interventions, more than 2 headache-days per month\n* For insomnia interventions, at least one day of self-reported poor sleep per week\n* For rhinitis interventions, more than 2 days with symptoms per month\n* For joint pain interv",
+      "endpoints": [
+        "Frequency of correct predictions"
+      ],
+      "sponsor": "Verifomics LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02758990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01755702",
+      "title": "A Study to Assess the Efficacy of Paracetamol Taken in Combination With Caffeine for the Treatment of Episodic Tension Type Headache",
+      "phase": "PHASE2, PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-07",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 66,
+      "brief_summary": "This study will compare a fast-absorbing paracetamol plus caffeine formula with placebo and an over-the-counter dose of paracetamol and ibuprofen to treat episodic tension headache.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of episodic tension-type headache consistent with all of the following:\n\n  1. number of days with the condition is historically greater than or equal to two per month\n  2. onset of condition was greater than or equal to 12 months from Visit 1\n  3. age of onset was \\<",
+      "endpoints": [
+        "Time to First Perceptible Headache Relief"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01755702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04895800",
+      "title": "An Evaluation of the Effects of a Non-Caffeinated Energy Die-tary Supplement on Cognitive and Physical Performance: A Randomized Double-Blind Placebo-Controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-01-03",
+      "completion_date": "2021-03-15",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "This study tested the effects of a botanical blend to a caffeine and a placebo condition on 1) self-reported alertness, anxiety, and headaches 2) multiple measures of attention 3) physical performance and 4) stress biomarkers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult males and females from 18 to 50 years (inclusive) of age who are physically active and have been engaging in athletic and sporting endeavors consistently over a period of 6 months at minimum\n* BMI 18.0 (normal) to 34.9 (obese, class I) kg/ m2 inclusive\n* Agrees to mainta",
+      "endpoints": [
+        "Cognition",
+        "Mood",
+        "Physical Performance"
+      ],
+      "sponsor": "Nova Southeastern University",
+      "url": "https://clinicaltrials.gov/study/NCT04895800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02771587",
+      "title": "Effects of Alcohol and Energy Drinks on Driving Performance and Bleeding Risk",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-06",
+      "completion_date": "2016-09",
+      "country": "Spain",
+      "enrollment": 16,
+      "brief_summary": "The main objective of the project is to assess whether there is an interaction between the effects of ethanol and energy drinks on driving performance.\n\nSecondary objectives include: to evaluate subjective effects (drunkenness) after administration of alcohol and energy drinks, to assess pharmacokinetics of alcohol, caffeine and taurine after alcohol and energy drinks administration and to assess if there is an increased risk of bleeding when both drinks are taken together.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Understand and accept the study's procedures and sign an informed consent form\n* No evidence of somatic or psychiatric disorders as per past medical history and physical examination\n* EKG, blood and urine tests taken before entry into the study within the normal range. Minor a",
+      "endpoints": [
+        "Change in tracking test performance"
+      ],
+      "sponsor": "Parc de Salut Mar",
+      "url": "https://clinicaltrials.gov/study/NCT02771587"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04598685",
+      "title": "Early Vascular Ageing in the YOUth - An Observational Study Into the Predictors of Atherosclerotic Changes in Adolescents",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-02-01",
+      "completion_date": "2023-03-31",
+      "country": "Austria",
+      "enrollment": 1517,
+      "brief_summary": "This is a single-center observational study on adolescents to determine predictors of the early steps of the formation of atherosclerosis and to quantify their influence on Intima-Media-Thickness of the carotid artery and the aorta and on the Pulse-Wave Velocity.\n\nA long-term follow-up by means of record linkage is furthermore planned to evaluate the effect of early atherosclerosis and the cardiovascular risk profile on future morbidity with a special focus cardio- and cerebrovascular events.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adolescents at the age of 14 to 19 years\n* Signed informed consent of subjects (and legal guardian if subject \\< 18 years of age)\n\nExclusion Criteria:\n\n* Persons, who are suspended upon a court order or upon other legal processes or are accommodated according to the Hospitaliz",
+      "endpoints": [
+        "Determinants of Intima-Media Thickness (carotid and aortic)",
+        "Determinants of the Pulse-Wave Velocity [m/s]"
+      ],
+      "sponsor": "VASCage GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT04598685"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06824025",
+      "title": "Comparison of Nebulized Neostigmine/Atropine Versus Lignocaine in Treating Acute Post-dural Puncture Headache Following Subarachnoid Block in Parturient Undergoing Elective Cesarean Section. A Randomized, Clinical Trial.",
+      "phase": "EARLY_PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-02-20",
+      "completion_date": "2027-01-05",
+      "country": "N/A",
+      "enrollment": 111,
+      "brief_summary": "Post-dural puncture headache (PDPH) is a common and debilitating complication of spinal anesthesia in pregnant patients undergoing cesarean sections, with an incidence ranging from 0.5% to 2% (1). The International Headache Society (IHS) defines PDPH as a headache occurring within 4 days of a lumbar puncture, caused by cerebrospinal fluid (CSF) leakage through the dural puncture (2). Although the exact cause of PDPH is not fully understood, it is thought to occur due to cerebrospinal fluid loss ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-35 years old parturient with post partum headache after elective CS under spinal anesthesia with visual analog score (VAS) ≥ 4 \\[14\\] and Lybecker classification score ≥ 2\n\nExclusion Criteria:\n\n* Pregnancy induced hypertension\n* Emergency C.S\n* Asthmatic candidates\n* Previo",
+      "endpoints": [
+        "VAS score"
+      ],
+      "sponsor": "Minia University",
+      "url": "https://clinicaltrials.gov/study/NCT06824025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05992480",
+      "title": "An Open-Label, Case-Control Study to Compare the Anamnestic Response to the Recombinant Vesicular Stomatitis Delta Glycoprotein Zaire Ebola Virus (ZEBOV) Glycoprotein (rVSVDG-ZEBOV-GP) Ebola Virus Vaccine Among Ebola Virus Disease Survivors to the Primary Immune Response Among Naïve Age and Sex-Matched Controls",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-12-01",
+      "completion_date": "2026-05",
+      "country": "Sierra Leone",
+      "enrollment": 40,
+      "brief_summary": "This study is a vaccine-related clinical trial which will be conducted by our study team at Kenema Government Hospital (KGH)'s Viral Hemorrhagic Fever Program in collaboration with Tulane University School of Medicine. This study is funded by Merck \\& Co., the developers of ERVEBO®. This investigational medicinal product (IMP) was successful in Sierra Leone through the Sierra Leone Trial to Introduce a Vaccine against Ebola (STRIVE) working with the College of Medical and Allied Health Services ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* EVD survivors\n\n  * History of admission and discharge from an Ebola Treatment Unit as registered by the Sierra Leone Association of Ebola Survivors (SLAES).\n  * Anti-EBOV GP IgG positive by ELISA at the time of screening.\n  * ≥18 years of age.\n  * \\>45.5 kg (100lbs).\n  * Willi",
+      "endpoints": [
+        "Assess the immunogenicity and durability of rVSVDG-ZEBOV-GP among EVD survivors compared with unexposed age- and sex-matched controls at six months post-vaccination",
+        "Assess the incidence of adverse events after vaccination with rVSVDG-ZEBOV-GP among EVD survivors compared with unexposed age- and sex-matched controls"
+      ],
+      "sponsor": "Tulane University",
+      "url": "https://clinicaltrials.gov/study/NCT05992480"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04461795",
+      "title": "A Multicenter, Open Label Study Assessing the Efficacy of AJOVY (Fremanezumab-vfrm) on Interictal Migraine Related Burden",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-12-01",
+      "completion_date": "2022-01-10",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study is being conducted to evaluate the efficacy and safety of AJOVY (fremanezumab-vfrm) on interictal migraine related burden in adults.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. willing to participate and sign informed consent;\n2. ability to read and understand informed consent and study procedures, including able to use the electronic Daily Headache Diary;\n3. in good general health based on investigator's judgment;\n4. must be between 18 to 65 years ",
+      "endpoints": [
+        "Change in Migraine Interictal Burden Scale (MIBS-4) Scores From Baseline to Weeks 4, 8, and 12."
+      ],
+      "sponsor": "Clinvest Research, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT04461795"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06646822",
+      "title": "Prevalence, Patterns, Awareness and Attitudes of Stimulant Drug Use Among Students in Egyptian Universities: a Cross-sectional Study.",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-12-10",
+      "completion_date": "2025-11-30",
+      "country": "Egypt",
+      "enrollment": 1500,
+      "brief_summary": "Stimulants are dangerous drugs that are commonly abused by individuals looking to stay alert and focused, lose weight, stay awake, and get high. Although these drugs can be extremely harmful and even life-threatening, many of them can also be used to treat conditions like ADHD, narcolepsy, and in some cases, depression. There are many types of stimulant drugs, and it can be beneficial to know a little about each one, its purposes, and how harmful it can be when abused.\n\nIllicit stimulants are us",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Academic student Age (18-30) years Included in medical faculty\n\nExclusion Criteria:\n\n* Not undergraduates student Aged \\< 18 years",
+      "endpoints": [
+        "Prevalence/ pattern",
+        "Awareness/ attitude"
+      ],
+      "sponsor": "New Valley University",
+      "url": "https://clinicaltrials.gov/study/NCT06646822"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04906603",
+      "title": "Theta Burst Stimulation for Headaches After Traumatic Brain Injury",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-11-01",
+      "completion_date": "2023-09",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this study is to evaluate if theta burst stimulation (TBS) can reduce chronic headaches caused by a traumatic brain injury (TBI). TBS is a safe, drug-free brain stimulation technique that uses magnets to create electricity and stimulate nerve cells in the brain. After repeated TBS sessions, the increased stimulation of nerve cells can alter the way the brain communicates with itself (by creating new neural pathways) which, in turn, can reduce pain symptoms. Participants in this st",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Veterans receiving services through the MVAHCS\n* History of mild TBI according to VA/DoD Clinical Practice Guidelines (2009) with one or more of the following criteria present after head injury:\n\n  * Loss of consciousness between 0-30 minutes\n  * Post-traumatic amnesia between",
+      "endpoints": [
+        "Ecological Momentary Assessment (EMA) for Headache Frequency, Intensity, and Impairment",
+        "World Health Organization Quality of Life Scale (WHOQOL-BREF)",
+        "Migraine Disability Assessment (MIDAS)"
+      ],
+      "sponsor": "Minneapolis Veterans Affairs Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04906603"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03478735",
+      "title": "Ultrasound-guided Greater Occipital Nerve Block at the C2 Level Compared to Landmark-based Greater Occipital Nerve Block: A Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-07-17",
+      "completion_date": "2021-06-14",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "This study will compare the analgesic benefit of a traditional landmark-guided GON block with the ultrasound-guided approach over a four week period in patients with occipital neuralgia or cervicogenic headache.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Unilateral or bilateral headache symptoms attributed to occipital neuralgia or cervicogenic headache as defined by the International Headache Society's International Classification of Headache Disorders (3rd edition beta version)\n2. Age 18 years and older (no upper age limit ",
+      "endpoints": [
+        "Change in Numeric Rating Scale (NRS) Pain Score"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT03478735"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05262933",
+      "title": "Effect of Preoperative Coffee Consumption on Intraoperative and Post Operative Outcomes in Cesarean Section With Spinal Anesthesia",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-03-15",
+      "completion_date": "2022-07-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 2,
+      "brief_summary": "The prospective study is planned in a university hospital. Spinal anesthesia is widely used for cesarean section currently for its safety, low cost, reliability, easiness to administer, immediate effect, and well-operating conditions. However spinal anesthesia has some complications as hypotension, bradycardia and Post Dural Puncture Headache (PDPH). A practical strategy for avoiding hypotension during initiation of spinal anesthesia for cesarean delivery includes intravenous crystalloid, in con",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients who accept to participate in the study\n* patient who limit the consumption of caffeinated beverages such as coffee and tea during pregnancy\n* Patients with known caffeine or coffee allergy\n\nExclusion Criteria:\n\n* patients who refuse to participate in the study\n* Patie",
+      "endpoints": [
+        "hypotension"
+      ],
+      "sponsor": "TC Erciyes University",
+      "url": "https://clinicaltrials.gov/study/NCT05262933"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "2012456",
+      "title": "Caffeine as an analgesic adjuvant. A double-blind study comparing aspirin with caffeine to aspirin and placebo in patients with sore throat.",
+      "abstract": "Despite its frequent clinical use in analgesic agents, caffeine has not been accepted unequivocally as an analgesic adjuvant. To evaluate this activity of caffeine, we used new study methods in a randomized controlled trial on patients with acute sore throat due to tonsillopharyngitis. Patients were randomly assigned to receive a single dose of one of three treatments: 800 mg of aspirin with 64 mg of caffeine (n = 70), 800 mg of aspirin (n = 68), or placebo (n = 69). Under double-blind conditions, during a 2-hour evaluation period, patients used different rating scales to assess pain intensity, change in pain, relief, and two qualities of throat pain, how swollen the throat felt, and difficulty swallowing. Aspirin with caffeine and aspirin alone were significantly more effective than placebo for all efficacy measurements from 30 minutes through 2 hours and overall. The aspirin-caffeine combination also showed evidence of activity at 15 minutes on the relief scale. Aspirin with caffeine",
+      "journal": "Archives of internal medicine",
+      "year": "1991",
+      "authors": [
+        "Schachtel B P",
+        "Fillingim J M",
+        "Lane A C",
+        "Thoden W R",
+        "Baybutt R I"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Analgesics",
+        "Aspirin",
+        "Caffeine",
+        "Double-Blind Method",
+        "Drug Combinations",
+        "Female",
+        "Fever",
+        "Humans",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2012456/"
+    },
+    {
+      "pmid": "40626097",
+      "title": "Development and refinement of the sore throat pain model as an assay for measuring therapeutic effects on acute pain.",
+      "abstract": "The physical and subjective status of patients with acute throat pain has been developed and refined over the past 40 years as an acute pain model to measure changes in patient-reported symptoms attributed to active pharmacologic intervention when patients with painful pharyngitis are evaluated under randomized, double-blind, placebo-controlled conditions. Acute, painful pharyngitis is a familiar experience for the majority of adults and children (\"a sore throat\" is the most common example of the aches and pains of the common cold). As such, the condition has served as a general acute pain model to demonstrate the acute effects of non-prescription-strength analgesic agents (for mild-to-moderate pain) and prescription-strength analgesics (for moderate-to-severe pain). Here we discuss the methodologic features of this clinical pharmacology assay as it was refined from its original examinations of classic, orally administered, acute analgesics (aspirin, acetaminophen, aspirin with caffein",
+      "journal": "Frontiers in pain research (Lausanne, Switzerland)",
+      "year": "2025",
+      "authors": [
+        "Schachtel Bernard P",
+        "Shephard Adrian"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40626097/"
+    },
+    {
+      "pmid": "14255548",
+      "title": "[CHRONIC INFLAMMATIONS IN THE EPIPHARYNX].",
+      "abstract": "",
+      "journal": "Zeitschrift fur Laryngologie, Rhinologie, Otologie und ihre Grenzgebiete",
+      "year": "1964",
+      "authors": [
+        "BECK C"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Caffeine",
+        "Drug Therapy",
+        "Humans",
+        "Inflammation",
+        "Pharyngitis",
+        "Procaine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14255548/"
+    },
+    {
+      "pmid": "10424023",
+      "title": "[The clinical efficacy of the combined drug agent Valcophen in children].",
+      "abstract": "Children affected by acute virus respiratory infection running its course with characteristic symptoms of rhinitis, pharyngitis, tonsillitis, and acute bronchitis were administered combination therapy with a new pharmaceutical valcophen in a tablet form. In a clinical trial of the above drug, gratifying therapeutic results were found to be obtainable with a 2-to-3 day course of treatment at minimum dosage.",
+      "journal": "Likars'ka sprava",
+      "year": "1999",
+      "authors": [
+        "Shapovalova V A",
+        "Shapovalov V V"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adolescent",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Aspirin",
+        "Caffeine",
+        "Child",
+        "Child, Preschool",
+        "Drug Combinations",
+        "Drug Therapy, Combination",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10424023/"
+    },
+    {
+      "pmid": "8841149",
+      "title": "Human pharmacokinetics of dihydroergotamine administered by nasal spray.",
+      "abstract": "A nasal spray of dihydroergotamine was developed for the treatment of migraine headaches, and pharmacokinetic studies were scheduled to evaluate the bioavailability of dihydroergotamine by this new route of administration.",
+      "journal": "Clinical pharmacology and therapeutics",
+      "year": "1996",
+      "authors": [
+        "Humbert H",
+        "Cabiac M D",
+        "Dubray C",
+        "Lavène D"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Administration, Intranasal",
+        "Adult",
+        "Analgesics, Non-Narcotic",
+        "Area Under Curve",
+        "Biological Availability",
+        "Dihydroergotamine",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8841149/"
+    },
+    {
+      "pmid": "5688628",
+      "title": "[On the non-specific treatment of the vasomotor rhinopathy].",
+      "abstract": "",
+      "journal": "Zeitschrift fur Laryngologie, Rhinologie, Otologie und ihre Grenzgebiete",
+      "year": "1968",
+      "authors": [
+        "Schöler W"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Caffeine",
+        "Humans",
+        "Injections, Intradermal",
+        "Methods",
+        "Nasal Mucosa",
+        "Procaine",
+        "Rhinitis, Allergic, Seasonal",
+        "Vasomotor System"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/5688628/"
+    },
+    {
+      "pmid": "40077786",
+      "title": "A Review of Carbohydrate Supplementation Approaches and Strategies for Optimizing Performance in Elite Long-Distance Endurance.",
+      "abstract": "Carbohydrate supplementation is a common practice among endurance athletes participating in long-distance competitions. However, glycogen storage regulation, in-competition blood glucose levels, and their relationship with athletic performance are influenced by multiple factors. This review summarizes the recent research progress on carbohydrate supplementation, addressing its applications in the pre-, during-, and post-competition phases. It explores variables that influence the effectiveness of carbohydrate supplementation and provides a summary of strategies, based on six key aspects: carbohydrate properties, multi-nutrient interactions, gastrointestinal function, individual differences (such as age and gender), environmental conditions, and psychological factors. The combination of different types, ratios, and concentrations of carbohydrates has been demonstrated to enhance the efficiency of carbohydrate digestion and absorption. The synergistic combination of protein, sodium, and ",
+      "journal": "Nutrients",
+      "year": "2025",
+      "authors": [
+        "Cao Wei",
+        "He Yong",
+        "Fu Ronghua",
+        "Chen Yiru",
+        "Yu Jiabei"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Dietary Carbohydrates",
+        "Dietary Supplements",
+        "Athletic Performance",
+        "Physical Endurance",
+        "Athletes",
+        "Sports Nutritional Physiological Phenomena",
+        "Male",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40077786/"
+    },
+    {
+      "pmid": "26192072",
+      "title": "L-theanine, unique amino acid of tea, and its metabolism, health effects, and safety.",
+      "abstract": "Tea has been a very popular beverage around the world for centuries. The reason that it is delicious, enabling hydration, showing warming and relaxing effect can be mentioned why it is consumed so much in addition to its prominent health effects. Although the catechins and caffeine are the primary bioactive components that are related with the health effects of the tea, the health effects of theanine amino acid, which is a nonproteinic amino acid special to tea, has become prominent in recent years. It has been known that the theanine amino acid in tea has positive effects especially on relaxing, cognitive performance, emotional status, sleep quality, cancer, cardiovascular diseases, obesity, and common cold. The results of acute and chronic toxicity tests conducted on the safety of theanine express that L-theanine is reliable in general even if it is consumed too much with diet. However, it has not revealed a clear evidence-based result yet regarding theanine metabolism, health effect",
+      "journal": "Critical reviews in food science and nutrition",
+      "year": "2017",
+      "authors": [
+        "Türközü Duygu",
+        "Şanlier Nevin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Cardiovascular Diseases",
+        "Cognition",
+        "Glutamates",
+        "Humans",
+        "Neoplasms",
+        "Obesity",
+        "Plant Leaves",
+        "Randomized Controlled Trials as Topic",
+        "Sleep",
+        "Stress, Physiological"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26192072/"
+    },
+    {
+      "pmid": "9443519",
+      "title": "Caffeine and the common cold.",
+      "abstract": "An experiment was carried out to determine whether caffeinated and decaffeinated coffee removed the malaise (reduced alertness, slower psychomotor performance) associated with having a common cold. One hundred volunteers were tested when healthy and 46 returned to the laboratory when they developed colds. Those subjects who remained healthy were then recalled as a control group. On the second visit subjects carried out two sessions, one pre-drink and another an hour after the drink. Subjects were randomly assigned to one of the following three conditions, caffeinated coffee (1.5 mg/kg caffeine/body weight), decaffeinated coffee or fruit juice. Subjects with colds reported decreased alertness and were slower at performing psychomotor tasks. Caffeine increased the alertness and performance of the colds subjects to the same level as the healthy group and decaffeinated coffee also led to an improvement. These results suggest that drugs which increase alertness can remove the malaise associ",
+      "journal": "Journal of psychopharmacology (Oxford, England)",
+      "year": "1997",
+      "authors": [
+        "Smith A",
+        "Thomas M",
+        "Perry K",
+        "Whitney H"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Caffeine",
+        "Central Nervous System Stimulants",
+        "Common Cold",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male",
+        "Psychomotor Performance"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9443519/"
+    },
+    {
+      "pmid": "23021498",
+      "title": "Twenty-five years of research on the behavioural malaise associated with influenza and the common cold.",
+      "abstract": "Minor illnesses such as the common cold and influenza are frequent and widespread. As well as specific symptoms such as nasal problems and fever, these illnesses are associated with a behavioural malaise. One feature of this malaise is reduced alertness and this has been confirmed using subjective reports and objective measures of performance. Such effects have been obtained with both experimentally induced infections and in studies of naturally occurring illnesses. The mechanisms underlying the effects are unclear but possibly reflect effects of cytokines on the CNS which result in changes in neurotransmitter functioning that lead to reduced alertness. The malaise induced by these illnesses has many real-life consequences and activities such as driving and safety at work may be at risk. These illnesses not only have direct effects on performance and mood but also make the person more sensitive to effects of other negative influences such as noise, alcohol and prolonged work. Counterme",
+      "journal": "Psychoneuroendocrinology",
+      "year": "2013",
+      "authors": [
+        "Smith Andrew P"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Affect",
+        "Common Cold",
+        "Cytokines",
+        "Humans",
+        "Influenza, Human",
+        "Mental Fatigue"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23021498/"
+    },
+    {
+      "pmid": "22761287",
+      "title": "An investigation of the effects of the common cold on simulated driving performance and detection of collisions: a laboratory study.",
+      "abstract": "The aim of the present research was to investigate whether individuals with a common cold showed impaired ability on a simulated driving task and the ability to detect potential collisions between moving objects.",
+      "journal": "BMJ open",
+      "year": "2012",
+      "authors": [
+        "Smith Andrew Paul",
+        "Jamson Samantha"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22761287/"
+    },
+    {
+      "pmid": "10776186",
+      "title": "Use of cough and cold preparations during breastfeeding.",
+      "abstract": "Adverse reactions in infants from maternal drug ingestion depend largely on the amount of milk consumed by the infant, timing of breastfeeding in relation to dosing, dose of the medication, dosing interval, and duration of therapy. When taking medications, breastfeeding mothers should be instructed to take their medication after breastfeeding, at the lowest effective dose and for the shortest duration. Overall, there are few data from human studies on the use of antihistamines, decongestants, and cough products during breastfeeding. Studies of pseudoephedrine, triprolidine, and loratadine in humans conclude that low levels of each drug would reach a breastfed infant. Since triprolidine and pseudoephedrine are also considered compatible with breastfeeding by the AAP, these 2 drugs should be the first-line choices. Codeine is considered compatible with breastfeeding by the AAP, and would be an acceptable choice for short-term use as a cough suppressant. It is important to note that many ",
+      "journal": "Journal of human lactation : official journal of International Lactation Consultant Association",
+      "year": "1999",
+      "authors": [
+        "Mitchell J L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antitussive Agents",
+        "Breast Feeding",
+        "Common Cold",
+        "Cough",
+        "Expectorants",
+        "Female",
+        "Histamine H1 Antagonists",
+        "Humans",
+        "Infant, Newborn",
+        "Lactation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10776186/"
+    },
+    {
+      "pmid": "30076382",
+      "title": "Phenylephrine, a common cold remedy active ingredient, suppresses uterine contractions through cAMP signalling.",
+      "abstract": "Regulation of uterine contractility is an important aspect of women's health. Phenylephrine, a selective agonist of the α1-adrenoceptor and a potent smooth muscle constrictor, is widely used in women even during pregnancy to relieve cold-related symptoms, to treat postpartum haemorrhoid, and during routine eye exams. We performed isometric tension recordings to investigate the effect of phenylephrine on mouse uterine contractility. Phenylephrine decreased spontaneous and oxytocin-induced contractions in non-pregnant mouse uterine rings and strips with an IC50 of ~1 μM. Prazosin, an inhibitor of α1-adrenoceptor, did not prevent phenylephrine-mediated relaxations. Conversely, ICI118551, an antagonist of β2-adrenoceptors, inhibited phenylephrine relaxation. In the presence of ICI118551, high concentrations (>30 μM) of phenylephrine caused mouse uterine contractions, suggesting that β-adrenoceptor-mediated inhibition interferes with the phenylephrine contractile potential. Phenylephrine-de",
+      "journal": "Scientific reports",
+      "year": "2018",
+      "authors": [
+        "Chen Xingjuan",
+        "Meroueh Marya",
+        "Mazur Gabriela",
+        "Rouse Evan",
+        "Hundal Karmjot Singh"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Caffeine",
+        "Common Cold",
+        "Cyclic AMP",
+        "Estradiol",
+        "Female",
+        "Genitalia, Female",
+        "Humans",
+        "Intracellular Space",
+        "Mice, Inbred C57BL"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30076382/"
+    },
+    {
+      "pmid": "31412606",
+      "title": "Cold Brew Coffee: Consumer Acceptability and Characterization Using the Check-All-That-Apply (CATA) Method.",
+      "abstract": "The aim of this study was to investigate consumers' acceptability and perceived sensory attributes of cold brew coffee, which is increasing in popularity. A total of 120 consumers evaluated liking of 13 cold brew coffee samples and checked sensory attributes they perceived using the check-all-that-apply (CATA) method. Correspondence analysis identified characteristics of each cold brew sample and brewing methods, namely cold brew, coffee machine brewed but served cold, ready-to-drink, and purchased from a coffee shop. In addition, a reduced number of terms were reviewed for common-to-all cold brew samples (17 terms) and specific to each sample (48 terms), which also discriminated among samples. Furthermore, data on consumers' liking were not influenced by caffeine contents and most of the volatile compounds, but chlorogenic acid and trigonelline contents were negatively related with sensory data. This study specifies the characteristics of cold brew coffee using the CATA method, shows ",
+      "journal": "Foods (Basel, Switzerland)",
+      "year": "2019",
+      "authors": [
+        "Heo JeongAe",
+        "Choi Kap Seong",
+        "Wang Shangci",
+        "Adhikari Koushik",
+        "Lee Jeehyun"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31412606/"
+    },
+    {
+      "pmid": "12655962",
+      "title": "Overdose of cough and cold remedies.",
+      "abstract": "",
+      "journal": "Emergency nurse : the journal of the RCN Accident and Emergency Nursing Association",
+      "year": "2003",
+      "authors": [
+        "Hartley Victoria"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Inhalation",
+        "Analgesics",
+        "Antitussive Agents",
+        "Caffeine",
+        "Common Cold",
+        "Cough",
+        "Drug Combinations",
+        "Drug Overdose",
+        "Histamine H1 Antagonists",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12655962/"
+    },
+    {
+      "pmid": "25651621",
+      "title": "Characteristics of caffeine intoxication-related death in Tokyo, Japan, between 2008 and 2013.",
+      "abstract": "Caffeine is widely available in beverages and over-the-counter products; however, in large doses, it can lead to lethal arrhythmia. This study aims to clarify the characteristics of caffeine intoxication-related deaths in Tokyo, Japan.",
+      "journal": "Nihon Arukoru Yakubutsu Igakkai zasshi = Japanese journal of alcohol studies & drug dependence",
+      "year": "2014",
+      "authors": [
+        "Suzuki Hideto",
+        "Tanifuji Takanobu",
+        "Abe Nobuyuki",
+        "Maeda Masako",
+        "Kato Yukihisa"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Age Factors",
+        "Aged",
+        "Aged, 80 and over",
+        "Caffeine",
+        "Forensic Toxicology",
+        "Humans",
+        "Incidence",
+        "Mental Disorders",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25651621/"
+    },
+    {
+      "pmid": "33525313",
+      "title": "Ubrogepant to Treat Acute Migraine in Adults.",
+      "abstract": "Migraine is a neurobiological headache disorder that affects around 16% of adults in the United States. Medical treatment of mild to moderate migraines include non-prescription non-steroidal anti-inflammatory drugs, acetaminophen, or aspirin and caffeine-containing combination analgesics. Additionally, moderate to severe migraines and those that are mild to moderate that have not responded to analgesics can be treated with triptans, which are drugs specific for migraine treatment. Non-pharmacological treatments include cognitive behavioral therapy and relaxation training. Medications for the prevention of migraines have also been developed since they are more affective in offsetting the symptoms. Ubrogepant's high specificity and selectivity for calcitonin gene-related peptide (CGRP) sets it apart from certain other drugs, which previously limited the treatment of migraines with or without aura due to their decreased selectivity. The most frequently reported side effects are oropharyng",
+      "journal": "Neurology international",
+      "year": "2021",
+      "authors": [
+        "Edinoff Amber N",
+        "Casey C Austin",
+        "Colon Marc A",
+        "Zaheri Alexa R",
+        "Gregoire Courtney M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33525313/"
+    },
+    {
+      "pmid": "33974014",
+      "title": "Diagnosis and Management of Headache: A Review.",
+      "abstract": "Approximately 90% of people in the US experience headache during their lifetime. Migraine is the second leading cause of years lived with disability worldwide.",
+      "journal": "JAMA",
+      "year": "2021",
+      "authors": [
+        "Robbins Matthew S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Analgesics",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Calcitonin Gene-Related Peptide Receptor Antagonists",
+        "Diagnosis, Differential",
+        "Headache Disorders",
+        "Humans",
+        "Migraine Disorders",
+        "Tension-Type Headache",
+        "Tryptamines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33974014/"
+    },
+    {
+      "pmid": "35574653",
+      "title": "Dietary sources, health benefits, and risks of caffeine.",
+      "abstract": "Dietary intake of caffeine has significantly increased in recent years, and beneficial and harmful effects of caffeine have been extensively studied. This paper reviews antioxidant and anti-inflammatory activities of caffeine as well as its protective effects on cardiovascular diseases, obesity, diabetes mellitus, cancers, and neurodegenerative and liver diseases. In addition, we summarize the side effects of long-term or excessive caffeine consumption on sleep, migraine, intraocular pressure, pregnant women, children, and adolescents. The health benefits of caffeine depend on the amount of caffeine intake and the physical condition of consumers. Moderate intake of caffeine helps to prevent and modulate several diseases. However, the long-term or over-consumption of caffeine can lead to addiction, insomnia, migraine, and other side effects. In addition, children, adolescents, pregnant women, and people who are sensitive to caffeine should be recommended to restrict/reduce their intake ",
+      "journal": "Critical reviews in food science and nutrition",
+      "year": "2023",
+      "authors": [
+        "Saimaiti Adila",
+        "Zhou Dan-Dan",
+        "Li Jiahui",
+        "Xiong Ruo-Gu",
+        "Gan Ren-You"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Adolescent",
+        "Humans",
+        "Female",
+        "Pregnancy",
+        "Caffeine",
+        "Obesity",
+        "Diabetes Mellitus",
+        "Diet",
+        "Migraine Disorders"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35574653/"
+    },
+    {
+      "pmid": "26677204",
+      "title": "Effects of coffee/caffeine on brain health and disease: What should I tell my patients?",
+      "abstract": "Over the last decade, Food Regulation Authorities have concluded that coffee/caffeine consumption is not harmful if consumed at levels of 200 mg in one sitting (around 2½ cups of coffee) or 400 mg daily (around 5 cups of coffee). In addition, caffeine has many positive actions on the brain. It can increase alertness and well-being, help concentration, improve mood and limit depression. Caffeine may disturb sleep, but only in sensitive individuals. It may raise anxiety in a small subset of particularly sensitive people. Caffeine does not seem to lead to dependence, although a minority of people experience withdrawal symptoms. Caffeine can potentiate the effect of regular analgesic drugs in headache and migraine. Lifelong coffee/caffeine consumption has been associated with prevention of cognitive decline, and reduced risk of developing stroke, Parkinson's disease and Alzheimer's disease. Its consumption does not seem to influence seizure occurrence. Thus, daily coffee and caffeine intak",
+      "journal": "Practical neurology",
+      "year": "2016",
+      "authors": [
+        "Nehlig Astrid"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Brain",
+        "Caffeine",
+        "Coffee",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26677204/"
+    }
+  ]
+}

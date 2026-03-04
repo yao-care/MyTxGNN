@@ -5,7 +5,7 @@ drugbank_id: "DB03793"
 drug_name: "Benzoic Acid"
 kg_predictions: 80
 dl_predictions: 249
-evidence_level: "L5"
+evidence_level: "L4"
 indication_count: 80
 brands: []
 permalink: /drugs/benzoic-acid/
@@ -21,7 +21,7 @@ permalink: /drugs/benzoic-acid/
 | **DrugBank ID** | [DB03793](https://go.drugbank.com/drugs/DB03793) |
 | **KG Predictions** | 80 |
 | **DL Predictions (≥0.7)** | 249 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L4 |
 | **NPRA Status** | Approved |
 
 ---

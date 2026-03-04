@@ -5,7 +5,7 @@ drugbank_id: "DB00158"
 drug_name: "Folic Acid"
 kg_predictions: 132
 dl_predictions: 50
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 132
 brands: []
 permalink: /drugs/folic-acid/
@@ -21,7 +21,7 @@ permalink: /drugs/folic-acid/
 | **DrugBank ID** | [DB00158](https://go.drugbank.com/drugs/DB00158) |
 | **KG Predictions** | 132 |
 | **DL Predictions (≥0.7)** | 50 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

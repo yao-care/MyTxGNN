@@ -5,7 +5,7 @@ drugbank_id: "DB00199"
 drug_name: "Erythromycin"
 kg_predictions: 88
 dl_predictions: 180
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 88
 brands: []
 permalink: /drugs/erythromycin/
@@ -21,7 +21,7 @@ permalink: /drugs/erythromycin/
 | **DrugBank ID** | [DB00199](https://go.drugbank.com/drugs/DB00199) |
 | **KG Predictions** | 88 |
 | **DL Predictions (≥0.7)** | 180 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

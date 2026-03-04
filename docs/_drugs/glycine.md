@@ -5,7 +5,7 @@ drugbank_id: "DB00145"
 drug_name: "Glycine"
 kg_predictions: 192
 dl_predictions: 35
-evidence_level: "L5"
+evidence_level: "L2"
 indication_count: 192
 brands: []
 permalink: /drugs/glycine/
@@ -21,7 +21,7 @@ permalink: /drugs/glycine/
 | **DrugBank ID** | [DB00145](https://go.drugbank.com/drugs/DB00145) |
 | **KG Predictions** | 192 |
 | **DL Predictions (≥0.7)** | 35 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L2 |
 | **NPRA Status** | Approved |
 
 ---

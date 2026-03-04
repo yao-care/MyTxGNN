@@ -5,7 +5,7 @@ drugbank_id: "DB00999"
 drug_name: "Hydrochlorothiazide"
 kg_predictions: 165
 dl_predictions: 14
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 165
 brands: []
 permalink: /drugs/hydrochlorothiazide/
@@ -21,7 +21,7 @@ permalink: /drugs/hydrochlorothiazide/
 | **DrugBank ID** | [DB00999](https://go.drugbank.com/drugs/DB00999) |
 | **KG Predictions** | 165 |
 | **DL Predictions (≥0.7)** | 14 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

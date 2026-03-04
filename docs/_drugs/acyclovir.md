@@ -5,7 +5,7 @@ drugbank_id: "DB00787"
 drug_name: "Acyclovir"
 kg_predictions: 252
 dl_predictions: 926
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 252
 brands: []
 permalink: /drugs/acyclovir/
@@ -21,7 +21,7 @@ permalink: /drugs/acyclovir/
 | **DrugBank ID** | [DB00787](https://go.drugbank.com/drugs/DB00787) |
 | **KG Predictions** | 252 |
 | **DL Predictions (≥0.7)** | 926 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

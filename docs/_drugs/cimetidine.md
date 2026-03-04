@@ -5,7 +5,7 @@ drugbank_id: "DB00501"
 drug_name: "Cimetidine"
 kg_predictions: 252
 dl_predictions: 28
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 252
 brands: []
 permalink: /drugs/cimetidine/
@@ -21,7 +21,7 @@ permalink: /drugs/cimetidine/
 | **DrugBank ID** | [DB00501](https://go.drugbank.com/drugs/DB00501) |
 | **KG Predictions** | 252 |
 | **DL Predictions (≥0.7)** | 28 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

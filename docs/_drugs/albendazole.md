@@ -5,7 +5,7 @@ drugbank_id: "DB00518"
 drug_name: "Albendazole"
 kg_predictions: 72
 dl_predictions: 286
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 72
 brands: []
 permalink: /drugs/albendazole/
@@ -21,7 +21,7 @@ permalink: /drugs/albendazole/
 | **DrugBank ID** | [DB00518](https://go.drugbank.com/drugs/DB00518) |
 | **KG Predictions** | 72 |
 | **DL Predictions (≥0.7)** | 286 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

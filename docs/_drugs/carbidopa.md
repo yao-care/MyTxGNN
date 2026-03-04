@@ -5,7 +5,7 @@ drugbank_id: "DB00190"
 drug_name: "Carbidopa"
 kg_predictions: 90
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 90
 brands: []
 permalink: /drugs/carbidopa/
@@ -21,7 +21,7 @@ permalink: /drugs/carbidopa/
 | **DrugBank ID** | [DB00190](https://go.drugbank.com/drugs/DB00190) |
 | **KG Predictions** | 90 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

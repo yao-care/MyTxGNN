@@ -5,7 +5,7 @@ drugbank_id: "DB01592"
 drug_name: "Iron"
 kg_predictions: 90
 dl_predictions: 72
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 90
 brands: []
 permalink: /drugs/iron/
@@ -21,7 +21,7 @@ permalink: /drugs/iron/
 | **DrugBank ID** | [DB01592](https://go.drugbank.com/drugs/DB01592) |
 | **KG Predictions** | 90 |
 | **DL Predictions (≥0.7)** | 72 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

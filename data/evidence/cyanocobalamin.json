@@ -2,7 +2,7 @@
   "drug": "Cyanocobalamin",
   "drugbank_id": "DB00115",
   "evidence_level": "L1",
-  "collected_at": "2026-03-04T10:02:26Z",
+  "collected_at": "2026-03-04T10:16:39Z",
   "indications": [
     {
       "indication": "microcytic anemia",
@@ -413,7 +413,7 @@
       "status": "WITHDRAWN",
       "start_date": "2013-04",
       "completion_date": "2016-11",
-      "country": "Canada, Germany, Switzerland, United Kingdom, Netherlands, United States",
+      "country": "Netherlands, Germany, Switzerland, United Kingdom, United States, Canada",
       "enrollment": 0,
       "brief_summary": "Restricting dietary lysine intake in infants from age 3 months or less with confirmed diagnosis of pyridoxine-dependent epilepsy due to Antiquitin (ATQ) deficiency will: reduce the accumulation of neurotoxic substratesα-aminoadipicsemialdehydeandits cyclic equivalent 1-piperideine-6-carboxylate;and will improve overall neurodevelopmental outcome at 3 years of age by acting as an effective intervention into the complex pathophysiology of the condition.",
       "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of pyridoxine-dependent epilepsy based on clinical symptoms and elevated levels of plasma or urine AASA. Confirmation by at least one known disease causing mutation in the ALDH7A1 gene to be obtained within one month of enrollment.\n* Participant is male or female \\<3",

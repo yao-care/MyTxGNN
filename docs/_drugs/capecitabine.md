@@ -5,7 +5,7 @@ drugbank_id: "DB01101"
 drug_name: "Capecitabine"
 kg_predictions: 72
 dl_predictions: 328
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 72
 brands: []
 permalink: /drugs/capecitabine/
@@ -21,7 +21,7 @@ permalink: /drugs/capecitabine/
 | **DrugBank ID** | [DB01101](https://go.drugbank.com/drugs/DB01101) |
 | **KG Predictions** | 72 |
 | **DL Predictions (≥0.7)** | 328 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

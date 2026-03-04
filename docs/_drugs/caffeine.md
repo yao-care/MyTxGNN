@@ -5,7 +5,7 @@ drugbank_id: "DB00201"
 drug_name: "Caffeine"
 kg_predictions: 108
 dl_predictions: 153
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 108
 brands: []
 permalink: /drugs/caffeine/
@@ -21,7 +21,7 @@ permalink: /drugs/caffeine/
 | **DrugBank ID** | [DB00201](https://go.drugbank.com/drugs/DB00201) |
 | **KG Predictions** | 108 |
 | **DL Predictions (≥0.7)** | 153 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

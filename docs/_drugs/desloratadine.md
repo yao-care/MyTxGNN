@@ -5,7 +5,7 @@ drugbank_id: "DB00967"
 drug_name: "Desloratadine"
 kg_predictions: 230
 dl_predictions: 65
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 230
 brands: []
 permalink: /drugs/desloratadine/
@@ -21,7 +21,7 @@ permalink: /drugs/desloratadine/
 | **DrugBank ID** | [DB00967](https://go.drugbank.com/drugs/DB00967) |
 | **KG Predictions** | 230 |
 | **DL Predictions (≥0.7)** | 65 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

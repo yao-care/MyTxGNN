@@ -5,7 +5,7 @@ drugbank_id: "DB01262"
 drug_name: "Decitabine"
 kg_predictions: 96
 dl_predictions: 107
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 96
 brands: []
 permalink: /drugs/decitabine/
@@ -21,7 +21,7 @@ permalink: /drugs/decitabine/
 | **DrugBank ID** | [DB01262](https://go.drugbank.com/drugs/DB01262) |
 | **KG Predictions** | 96 |
 | **DL Predictions (≥0.7)** | 107 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

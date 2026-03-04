@@ -1,0 +1,1035 @@
+{
+  "drug": "Rituximab",
+  "drugbank_id": "DB00073",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:48:15Z",
+  "indications": [
+    {
+      "indication": "lymphoma, non-Hodgkin, familial",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 8,
+        "phase2_trials": 5,
+        "phase1_trials": 4,
+        "other_trials": 3,
+        "rct_articles": 2,
+        "review_articles": 4,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "rheumatoid arthritis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 4,
+        "phase1_trials": 2,
+        "other_trials": 13,
+        "rct_articles": 0,
+        "review_articles": 9,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "mantle cell lymphoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 17,
+        "phase1_trials": 2,
+        "other_trials": 0,
+        "rct_articles": 6,
+        "review_articles": 2,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "B-cell neoplasm",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 14,
+        "phase1_trials": 2,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 4,
+        "other_articles": 5,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "Langerhans cell histiocytosis",
+      "evidence_level": "L2",
+      "trials": 4,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 2,
+        "phase1_trials": 1,
+        "other_trials": 1,
+        "rct_articles": 0,
+        "review_articles": 5,
+        "other_articles": 5,
+        "total_trials": 4,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 84,
+  "total_articles": 50,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05583071",
+      "title": "Pilot-trial of Methotrexate, Tafasitamab (Minjuvi®), Lenalidomide (Revlimid®) and Rituximab in Patients Ineligible for HCT-ASCT With Primary Central Nervous System Lymphoma (PCNSL)",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-08-23",
+      "completion_date": "2027-04",
+      "country": "Germany",
+      "enrollment": 20,
+      "brief_summary": "Pilot-trial of Methotrexate, Tafasitamab (Minjuvi®), Lenalidomide (Revlimid®) and Rituximab in patients ineligible for HCT-ASCT with Primary Central Nervous System Lymphoma (PCNSL)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-69 years with ECOG PS ≥2 or age ≥70 years, and ineligible for HCT-ASCT as per investigators discretion\n2. Previously untreated, histologically (or cytologically) confirmed diagnosis of primary B-cell lymphoma of the central nervous system (PCNSL) by local pathologist. ",
+      "endpoints": [
+        "complete response rate (CRR)"
+      ],
+      "sponsor": "University of Cologne",
+      "url": "https://clinicaltrials.gov/study/NCT05583071"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03206671",
+      "title": "B-NHL 2013 - Treatment Protocol of the NHL-BFM and the NOPHO Study Groups for Mature Aggressive B-cell Lymphoma and Leukemia in Children and Adolescents",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-08-03",
+      "completion_date": "2027-06",
+      "country": "Germany, Switzerland, Sweden, Denmark, Austria, Norway, Finland, Czechia",
+      "enrollment": 650,
+      "brief_summary": "The trial B-NHL 2013 is a collaborative prospective, multi-national, multi-center, randomized trial with participating centers of the NHL-BFM group (Austria, Switzerland, Czech Republic, Germany) and the Scandinavian NOPHO group (Denmark, Finland, Norway, Sweden). The aim of the trial is to evaluate the role of rituximab in the treatment of mature aggressive B-cell Non-Hodgkin lymphoma and leukemia (B-NHL and B-AL) in children and adolescents.\n\nThe following primary study questions are going to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed, histological or cytological and immunological proven aggressive mature B-cell Non-Hodgkin lymphoma including Burkitt lymphoma (BL), Burkitt leukemia (B-AL), diffuse large B-cell lymphoma (DLBCL), or mature B-cell NHL not further classified according to current",
+      "endpoints": [
+        "Event-free survival (EFS)",
+        "Immune reconstitution rate (only in R3/R4 patients)"
+      ],
+      "sponsor": "University Hospital Muenster",
+      "url": "https://clinicaltrials.gov/study/NCT03206671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04447716",
+      "title": "A Phase I Study of Venetoclax + Lenalidomide + Rituximab Hyaluronidase in Relapsed or Refractory (R/R) Indolent Non-Hodgkin's Lymphoma (iNHL).",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-10-16",
+      "completion_date": "2027-04",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "This phase I trial studies the side effects and best dose of venetoclax when given together with lenalidomide and rituximab hyaluronidase in treating patients with follicular lymphoma and marginal zone lymphoma that has come back after treatment (relapsed) or has not responded to treatment (refractory). Venetoclax may stop the growth of cancer cells by blocking the action of a protein called Bcl-2, that helps cancer cells survive. Immunotherapy with lenalidomide, may induce changes in body's imm",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSigned informed consent form\n\n* Ability and willingness to comply with the requirements of the study protocol\n* Able to swallow oral medications whole\n* Patients must have received at least one prior systemic therapy\n* Histologically confirmed indolent B-cell non-Hodgkin's lymph",
+      "endpoints": [
+        "Rate of dose-limiting toxicities"
+      ],
+      "sponsor": "Thomas Jefferson University",
+      "url": "https://clinicaltrials.gov/study/NCT04447716"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06230224",
+      "title": "A Phase 3, Randomized, Open Label Study Evaluating the Efficacy and Safety of Odronextamab (REGN1979), an Anti-CD20 x Anti-CD3 Bispecific Antibody, Versus Standard of Care Therapy in Participants With Relapsed/Refractory Aggressive B-cell Non-Hodgkin Lymphoma (OLYMPIA-4)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-02-15",
+      "completion_date": "2027-05-14",
+      "country": "Italy, Netherlands, Thailand, Australia, South Korea, Hungary, Chile, Taiwan, Turkey (Türkiye), Singapore, Colombia, Spain, Malaysia, Argentina, Brazil, Romania",
+      "enrollment": 216,
+      "brief_summary": "This study is researching an experimental drug called odronextamab, referred to as study drug. The study is focused on patients with previously treated aggressive B-cell non-Hodgkin lymphoma whose cancer has stopped responding to treatment (also known as 'refractory') or has returned (also known as 'relapsed'). The aim of the study is to see how safe, tolerable and effective the study drug is when given alone.\n\nThe study is looking at several other research questions, including:\n\n* What side eff",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Histologically proven aggressive B-NHL, as described in the protocol. Availability of tumor tissue for submission to central laboratory is required for study enrollment. Archival tumor tissue for histological assessment prior to enrollment is allowed\n2. Have primary refra",
+      "endpoints": [
+        "Event-free survival (EFS) as assessed by independent central review (ICR)"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT06230224"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00521261",
+      "title": "Immune Consolidation With Allogeneic Activated T Cells Armed With OKT3 x Rituxan (Anti-CD3 x Anti-CD20) Bispecific Antibody (CD20Bi) After Allogeneic Peripheral Blood Stem Cell Transplant for High Risk CD20+ Non-Hodgkin's Lymphoma (Phase I)",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2007-10",
+      "completion_date": "2008-07",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "RATIONALE: Giving high doses of chemotherapy before a donor stem cell transplant helps stop the growth of cancer cells. It also stops the patient's immune system from rejecting the donor's stem cells. Colony stimulating factors, such as aldesleukin and GM-CSF, may increase the number of immune cells found in bone marrow or peripheral blood and may help the immune system recover from the side effects of chemotherapy. The donated stem cells may replace the patient's immune cells and help destroy a",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed CD20-positive non-Hodgkin lymphoma\n\n  * Relapsed, resistant, or chemorefractory disease\n* Must have an available HLA-identical sibling donor\n* No significant skin breakdown from tumor or other disease\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance ",
+      "endpoints": [
+        "Maximum tolerated dose",
+        "Time to relapse",
+        "Disease-free survival"
+      ],
+      "sponsor": "Barbara Ann Karmanos Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00521261"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00902434",
+      "title": "Retrospective Analysis of Histologies, Pattern of Care, and Outcomes of Non-Hodgkin Lymphoma in Elderly Patients Above the Age of 80 in the Rituximab Era: A Report From the Chicago Lymphoma Consortium",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2011-04",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "This is an exploratory analysis that is investigating the pattern of care in patients over the age of 80 who were diagnosed with non-Hodgkin lymphoma (NHL). This study will look at the dose intensity and density implemented in this patient population to calculate whether patients received the full course of therapy, received less duration of treatment, or received lower doses of the drugs administered. Furthermore, the investigators would explore time to disease progression for these patients re",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with any NHL diagnosis regardless of histology who are over the age of 80 at the time of diagnosis will be included and analyzed.\n* Data on age, gender, performance status, and major co-morbid conditions will be collected.\n* Histology of the diagnosed NHL will be reco",
+      "endpoints": [],
+      "sponsor": "Oncology Specialists, S.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00902434"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02657447",
+      "title": "A Phase 1, Open Label, Randomized Study to Assess Pharmacokinetics, Biodistribution and Radiation Dosimetry of Lutetium (177Lu) Lilotomab Satetraxetan (Betalutin®) Radioimmunotherapy in Patients With Relapsed Non-Hodgkin Lymphoma",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2017-12-19",
+      "completion_date": "2020-09",
+      "country": "Germany",
+      "enrollment": 0,
+      "brief_summary": "This study is a phase I, open label, randomized study to assess pharmacokinetics, biodistribution and radiation dosimetry of lutetium (177Lu) lilotomab satetraxetan (Betalutin®) radioimmunotherapy in patients with relapsed non-Hodgkin lymphoma. The study will also investigate the safety, toxicity and efficacy of Betalutin and pre-dosing.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed (by WHO classification) relapsed indolent non-Hodgkin B-cell lymphoma of following subtypes: Follicular lymphoma (follicular grade I-IIIA), Marginal zone lymphoma (exclusion of MZL if large lymphocytes \\> 50%), Small lymphocytic lymphoma, Lymphoplasma",
+      "endpoints": [
+        "Dosimetry"
+      ],
+      "sponsor": "Nordic Nanovector",
+      "url": "https://clinicaltrials.gov/study/NCT02657447"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04279938",
+      "title": "A Phase Ib Combination Study of Rituximab, TinostamustinEAnd CHeckpoint Inhibition With Pembrolizumab in Relapsed/Refractory DLBCL - REACH",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2018-09",
+      "completion_date": "2021-01",
+      "country": "United Kingdom",
+      "enrollment": 0,
+      "brief_summary": "Safety run-in (part 1): Relapsed or refractory B-cell Non-Hodgkin lymphoma (NHL)\n\nMain study (part 2): Relapsed or refractory diffuse large B-cell lymphoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically proven CD20+ DLBCL (including transformed lymphoma)\n* Previous treatment with at least 1 line of standard therapy\n* Age 18 or over\n* ECOG performance status 0/1 Measurable disease on cross-sectional imaging that is at least 1.5 cm in the longest diameter and mea",
+      "endpoints": [
+        "Number of participants with treatment-related adverse events as assessed by CTCAE v4.0"
+      ],
+      "sponsor": "Royal Marsden NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT04279938"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00072449",
+      "title": "A Phase II Study Of Anti-CD20 Monoclonal Antibody (Rituximab) Therapy For Patients With Refractory Or Relapsed Primary CNS Lymphoma (PCNSL)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2004-05",
+      "completion_date": "2010-06",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "RATIONALE: Monoclonal antibodies, such as rituximab, can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells.\n\nPURPOSE: Phase II trial to study the effectiveness of rituximab in treating patients who have refractory or relapsed primary CNS lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed primary CNS lymphoma based on 1 of the following:\n\n  * Histologically confirmed non-Hodgkin's B-cell lymphoma by brain biopsy or resection\n  * Positive cerebrospinal fluid (CSF) cytology or immunohistochemical diagnosis of CSF monoclonality with o",
+      "endpoints": [
+        "Radiographic Response"
+      ],
+      "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "url": "https://clinicaltrials.gov/study/NCT00072449"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03749018",
+      "title": "A Phase II Study of Nivolumab in Combination With DA-REPOCH Followed by Short Course Nivolumab Consolidation in Patients With Aggressive B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-01-02",
+      "completion_date": "2026-12-31",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "This phase II trial studies how well nivolumab works with the DA-REPOCH chemotherapy regimen in treating patients with aggressive B-cell non-Hodgkin lymphoma. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body?s immune system attack the cancer, and may interfere with the ability of cancer cells to grow and spread. Drugs used in chemotherapy, such as dose-adjusted rituximab, etoposide, prednisone, vincristine sulfate, cyclophosphamide, and doxorubicin hydrochloride (DA",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be willing and able to provide written informed consent/assent for the trial.\n* Measurable disease (defined as \\>= 1.5 cm in diameter) or at least one PET avid area of disease.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n* Absolute neutrophil count (",
+      "endpoints": [
+        "Progression-free survival (PFS)"
+      ],
+      "sponsor": "Ohio State University Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT03749018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00695786",
+      "title": "A Phase II Study of Revlimid in Combination With Rituximab as Initial Treatment for Patients With Indolent Non-Hodgkin's Lymphoma (NHL)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-06-10",
+      "completion_date": "2020-07-11",
+      "country": "United States",
+      "enrollment": 156,
+      "brief_summary": "This phase II trial studies how well lenalidomide works in combination with rituximab in treating participants with stage III-IV non-Hodgkin lymphoma that is growing slowly. Lenalidomide is designed to change the body's immune system. It may also interfere with the development of tiny blood vessels that help support tumor growth, which may prevent the growth of cancer cells. Monoclonal antibodies, such as rituximab, may interfere with the ability of cancer cells to grow and spread. Giving lenali",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Understand and voluntarily sign an informed consent form.\n2. Age \\>/= 18 at the time of signing the informed consent form.\n3. Able to adhere to the study visit schedule and other protocol requirements.\n4. Untreated indolent non-Hodgkin's lymphoma stage III-IV including small ",
+      "endpoints": [
+        "Number of Participants With Best Overall Disease Response"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00695786"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00186823",
+      "title": "Haploidentical Stem Cell Transplantation Utilizing Purified CD34+ Hematopoietic Cells for Patients With Hematologic Malignancies",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-03",
+      "completion_date": "2009-01",
+      "country": "United States",
+      "enrollment": 57,
+      "brief_summary": "Blood and marrow stem cell transplant has improved the outcome for patients with high-risk hematologic malignancies. However, most patients do not have an appropriate HLA (immune type) matched sibling donor available and/or are unable to identify an acceptable unrelated HLA matched donor through the registries in a timely manner. Another option is haploidentical transplant using a partially matched family member donor.\n\nAlthough haploidentical transplant has proven curative in many patients, thi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Lacking a HLA-identical sibling or unrelated donor matched at 6 HLA loci formally requested within an approximate 90 day period from search initiation and who has a mismatched family member donor available\n* At least 2 and less than or equal to 21 years of age\n\n  * Must have o",
+      "endpoints": [
+        "To describe rate of hematopoietic and immune reconstitution in first 100 days posttransplant for pediatric patients with high-risk hematologic malignancies receiving haploidentical transplant processed with investigational CliniMACS cell sorting device."
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00186823"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04680052",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Efficacy and Safety of Tafasitamab Plus Lenalidomide in Addition to Rituximab Versus Lenalidomide in Addition to Rituximab in Patients With Relapsed/Refractory (R/R) Follicular Lymphoma Grade 1 to 3a or R/R Marginal Zone Lymphoma",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-04-15",
+      "completion_date": "2028-08-09",
+      "country": "Italy, Switzerland, Sweden, Australia, United Kingdom, Spain, Japan, Netherlands, South Korea, Austria, Belgium, Czechia, Ukraine, France, Israel, Ireland, Hungary, Taiwan, Turkey (Türkiye), Finland, Canada, Poland, Germany, Greece, Denmark, Norway, Russia, United States",
+      "enrollment": 654,
+      "brief_summary": "This is a Phase 3 double-blind, placebo-controlled, randomized study designed to investigate whether tafasitamab and lenalidomide as an add-on to rituximab provides improved clinical benefit compared with lenalidomide as an add-on to rituximab in patients with R/R FL Grade 1 to 3a or R/R MZL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed Grade 1, 2, or 3a FL or nodal MZL, splenic MZL, or extra nodal MZL\n* Willingness to avoid pregnancy or fathering children\n* In the opinion of the investigator, be able and willing to receive adequate mandatory prophylaxis and/or therapy for thromboembo",
+      "endpoints": [
+        "FL Population: Progression-free Survival (PFS) by Investigator Assessment, Using the Lugano 2014 Criteria, Defined as the Time From Randomization to the First Documented Disease Progression (PD), or Death From Any Cause, Whichever Occurred First",
+        "FL Population: Kaplan-Meier Estimates of PFS by Investigator Assessment, Using the Lugano 2014 Criteria, Defined as the Time From Randomization to the First Documented PD, or Death From Any Cause, Whichever Occurred First"
+      ],
+      "sponsor": "Incyte Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT04680052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05171647",
+      "title": "A Randomized, Open-Label, Multicenter Phase III Study Evaluating Efficacy and Safety of Mosunetuzumab in Combination With Polatuzumab Vedotin in Comparison With Rituximab in Combination With Gemcitabine Plus Oxaliplatin in Participants With Relapsed or Refractory Aggressive B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-04-25",
+      "completion_date": "2027-02-28",
+      "country": "Thailand, Japan, South Korea, Israel, Mexico, Peru, New Zealand, Turkey (Türkiye), China, United States, Canada, Argentina, Brazil",
+      "enrollment": 208,
+      "brief_summary": "This study will assess the efficacy and safety of mosunetuzumab in combination with polatuzumab vedotin (M+P) in participants with relapsed or refractory (R/R) diffuse-large B-cell lymphoma (DLBCL), high-grade B-cell lymphoma, transformed follicular lymphoma (trFL) and FL Grade 3B (FL3B) in comparison with a commonly used regimen in this participant population, rituximab, gemcitabine and oxaliplatin (R-GemOx).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0, 1, or 2\n* CD20+ aggressive lymphoma as determined by the local hemopathology laboratory from the following diagnoses by 2016 World Health Organization classification of lymphoid neoplasms: DLBCL, not otherwise ",
+      "endpoints": [
+        "Progression-free survival (PFS)",
+        "Objective response rate (ORR) as determined by an independent review facility (IRF)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT05171647"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01829958",
+      "title": "Comprehensive Geriatric Assessment to Predict Toxic Events in Older Patients With Non-Hodgkin Lymphoma With Imbedded Pilot Study of Pre-Phase Therapy",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2013-04",
+      "completion_date": "2026-04",
+      "country": "United States",
+      "enrollment": 201,
+      "brief_summary": "This study will evaluate the ability of a largely self-administered geriatric assessment (GA) to predict toxicity in non-Hodgkin Lymphoma (NHL) patients ≥60 years old receiving chemotherapy or chemoimmunotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects meeting the following criteria will be eligible for enrollment in the study (unless excluded):\n\n* ≥60 years old\n* Pathologically confirmed NHL.\n* Must meet criteria for initiation of treatment; consisting of:\n* Aggressive histology, or\n* Indolent histology with one of t",
+      "endpoints": [
+        "Toxicity Assessment"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01829958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04745832",
+      "title": "A Phase 3, Randomized, Open-Label, Controlled, Multicenter Study of Zandelisib (ME- 401) in Combination With Rituximab Versus Standard Immunochemotherapy in Patients With Relapsed Indolent Non Hodgkin's Lymphoma (iNHL) - The COASTAL Study",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2021-08-13",
+      "completion_date": "2023-03-20",
+      "country": "Italy, Australia, United Kingdom, Spain, Japan, Netherlands, Belgium, Serbia, France, Hungary, New Zealand, Taiwan, Turkey (Türkiye), Canada, Poland, Georgia, Greece, South Korea, United States",
+      "enrollment": 82,
+      "brief_summary": "This is a Phase 3 study of the PI3Kδ inhibitor Zandelisib (ME-401) in combination with rituximab, in comparison to standard immunochemotherapy (Rituximab-Bendamustine or Rituximab-CHOP) in subjects with relapsed or refractory FL and MZL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects ≥18 years of age, ≥19 years in Korea, or ≥20 years for subjects in Japan and Taiwan\n* Histologically confirmed diagnosis of CD20 positive iNHL with histological subtype limited to:\n\n  1. FL Gr 1, Gr 2, or Gr 3a\n  2. MZL (splenic, nodal, or extra-nodal)\n",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "MEI Pharma, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04745832"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05376709",
+      "title": "A Mixed Methods Study of Nutrition Practice in Cancer Care: Test a Newly-developed Intervention and Establish Frameworks Reflecting Multi-aspects of Eating Behavior Based on Non-Hodgkin Lymphoma Population",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-09-01",
+      "completion_date": "2024-01-01",
+      "country": "Taiwan",
+      "enrollment": 200,
+      "brief_summary": "The effects of calorie or sugar control on health and disease has been a hot topic. While established evidence has proven the health benefits of long-term calorie restriction, recent preclinical studies show encouraging results of the beneficial effects of short-term fasting on cancer treatment. In particular, short-term calorie control seems to be safe and has the potential to increase cancer cell's sensitivity to chemotherapy whereas protect normal cells from chemotherapy-induced toxicity. Mor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Newly diagnosed with DLBCL\n2. Planning to receive R-CHOP regimen\n3. 20-year-old or older\n4. The targeted sample size is 50 for each group\n\nExclusion Criteria:\n\n1. Have BMI less than or equal to 18.5\n2. Have albumin level lower than 3.4 g/liter\n3. History of eating disorders\n4",
+      "endpoints": [
+        "Change from baseline Symptoms at 4 weeks",
+        "Change from baseline Quality-of-Life at 4 weeks",
+        "Change from baseline Cell Toxicity at 4 weeks"
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05376709"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00863369",
+      "title": "A Phase I/II Study of VELCADE in Combination With Gemcitabine in Relapsed B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-06-29",
+      "completion_date": "2023-06-20",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as gemcitabine hydrochloride, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry canc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed intermediate or high grade B-cell Non-Hodgkin lymphoma with primary progressive or relapsed disease\n* Patients may have had up to 4 prior chemo-and-or radiation therapy regiments, including one autologous transplant ",
+      "endpoints": [
+        "Number of Participants With at Least One Dose Limiting Toxicity (DLT)",
+        "Recommended Phase II Dose"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00863369"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02871869",
+      "title": "Cinobufacini Tablets Combined With R-CHOP Protocol (Rituximab + Vindesine + Cyclophosphamide + Epirubicin + Prednisone)/CHOP in Treatment of Diffuse Large B Cell Lymphoma: A Phase II Randomized, Controlled and Multi-center Study",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2016-09",
+      "completion_date": "2021-12",
+      "country": "China",
+      "enrollment": 316,
+      "brief_summary": "Diffuse large B cell lymphoma (DLBCL), as the most common subtype non-Hodgkin lymphoma (NHL), has great heterogeneity in clinical manifestations, histological morphology and prognosis. R-CHOP Protocol (Rituximab + Vindesine + Cyclophosphamide + Epirubicin + Prednisone) is the gold therapeutic criteria for patients with NHL, and it is also used as the first-line treatment for patients with DLBCL. After treatment, 50％～60％of patients with DLBCL receive complete remission (CR), 30％～40％ recurrent and",
+      "eligibility_criteria": "For control and trial groups A:\n\nInclusion Criteria:\n\n* Patients aged 18-70 years old;\n* Patients with eastern Collaborative Oncology Group (ECOG) performance status (PS) score: 0～3 points;\n* International prognostic index (IPI): ≤3 points;\n* Patients who were diagnosed as diffuse large B cell lymph",
+      "endpoints": [
+        "Progression-free survival (PFS)"
+      ],
+      "sponsor": "Xinjiang Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT02871869"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01662102",
+      "title": "An Open-Label, Multicenter, Randomized Study in Previously Untreated Follicular Lymphoma Patients to Evaluate the Efficacy of Consolidation With Zevalin® Versus Maintenance Treatment With Rituximab After Initial Therapeutic Response to Rituximab Plus Chemotherapy",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2012-12-11",
+      "completion_date": "2013-03-05",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "The purpose of this study is to evaluate the effect of consolidation treatment Zevalin® versus maintenance treatment with Rituxan® on progression-free survival (PFS) following response induction with chemotherapy plus rituximab in previously untreated participants with follicular lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 to 75 years of age.\n* Previously untreated with histologically confirmed grade 1, 2 or 3a cluster of differentiation-20 (CD20)-positive follicular lymphoma, with any of the GELF (Groupe d'Etude de Lymphomes Folliculaires) treatment criteria prior to induction.\n* Achieved a ",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "Spectrum Pharmaceuticals, Inc",
+      "url": "https://clinicaltrials.gov/study/NCT01662102"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "33938097",
+      "title": "Chemotherapy for non-Hodgkin lymphoma in the hemodialysis patient: A comprehensive review.",
+      "abstract": "Chemotherapy for non-Hodgkin lymphoma (NHL) in the hemodialysis (HD) patient is a challenging situation. Because many drugs are predominantly eliminated by the kidneys, chemotherapy in the HD patient requires special considerations concerning dose adjustments to avoid overdose and toxicities. Conversely, some drugs are removed by HD and may expose the patient to undertreatment, therefore the timing of drug administration in relation to HD sessions must be carefully planned. Also, the metabolites of some drugs show different toxicities and dialysability as compared with the parent drug, therefore this must also be catered for. However, the pharmacokinetics of many chemotherapeutics and their metabolites in HD patients are unknown, and the fact that NHL patients are often treated with distinct multiagent chemotherapy regimens makes the situation more complicated. In a realm where uncertainty prevails, case reports and case series reporting on actual treatment and outcomes are extremely v",
+      "journal": "Cancer science",
+      "year": "2021",
+      "authors": [
+        "Yasuda Hajime",
+        "Yasuda Mutsuko",
+        "Komatsu Norio"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Antineoplastic Agents",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Child",
+        "Cyclophosphamide",
+        "Doxorubicin",
+        "Drug Administration Schedule"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33938097/"
+    },
+    {
+      "pmid": "27345636",
+      "title": "Obinutuzumab plus bendamustine versus bendamustine monotherapy in patients with rituximab-refractory indolent non-Hodgkin lymphoma (GADOLIN): a randomised, controlled, open-label, multicentre, phase 3 trial.",
+      "abstract": "Patients with indolent non-Hodgkin lymphoma who fail to achieve adequate disease control with rituximab-based treatment have few treatment options and a poor prognosis. We aimed to assess a combination of obinutuzumab (GA101), a novel glyco-engineered type II anti-CD20 monoclonal antibody, and bendamustine in this patient population.",
+      "journal": "The Lancet. Oncology",
+      "year": "2016",
+      "authors": [
+        "Sehn Laurie H",
+        "Chua Neil",
+        "Mayer Jiri",
+        "Dueck Gregg",
+        "Trněný Marek"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Antibodies, Monoclonal, Humanized",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Bendamustine Hydrochloride",
+        "Drug Resistance, Neoplasm",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Lymphoma, Non-Hodgkin",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27345636/"
+    },
+    {
+      "pmid": "30702240",
+      "title": "CD47 Blockade and Rituximab in Non-Hodgkin’s Lymphoma.",
+      "abstract": "",
+      "journal": "The New England journal of medicine",
+      "year": "2019",
+      "authors": [
+        "Valerius Thomas",
+        "Rösner Thies",
+        "Leusen Jeanette H W"
+      ],
+      "pub_types": [
+        "Letter",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Antibodies, Monoclonal",
+        "Child",
+        "Humans",
+        "Lymphoma, Non-Hodgkin",
+        "Rituximab"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30702240/"
+    },
+    {
+      "pmid": "30699313",
+      "title": "CD47 Blockade and Rituximab in Non-Hodgkin's Lymphoma.",
+      "abstract": "",
+      "journal": "The New England journal of medicine",
+      "year": "2019",
+      "authors": [
+        "Advani Ranjana",
+        "Volkmer Jens-Peter",
+        "Chao Mark P"
+      ],
+      "pub_types": [
+        "Letter",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Child",
+        "Humans",
+        "Lymphoma, Non-Hodgkin",
+        "Rituximab"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30699313/"
+    },
+    {
+      "pmid": "39234863",
+      "title": "Rituximab and lenalidomide for the treatment of relapsed or refractory indolent non-Hodgkin lymphoma: real-life experience.",
+      "abstract": "The combination of rituximab and lenalidomide (R-len) stands as an established treatment for relapsed/refractory (R/R) indolent non-Hodgkin lymphoma (iNHL). However, the reproducibility of clinical trial results in routine clinical practice is unknown. To address this gap in knowledge, we reviewed our experience with patients diagnosed with R/R follicular lymphoma (FL) or marginal zone lymphoma (MZL) treated with this combination. Eighty-four patients underwent treatment with R-len, 69 (82%) affected by FL and 15 (18%) by MZL. The median age at the time of treatment initiation was 65 years (range, 39-94), 38 patients (45%) had a pretreatment FLIPI score of 3-5, 19 (23%) had a bulky disease, 29 (37%) had a lymphoma refractory to the last treatment line, while in 20 (24%) cases the disease was refractory to rituximab. The best overall response rate was 82%, and 52% achieved a complete response (CR). The best CR rates for FL and MZL patients were 55% and 40%, respectively. With a median f",
+      "journal": "Haematologica",
+      "year": "2025",
+      "authors": [
+        "Cassanello Giulio",
+        "Drill Esther",
+        "Rivas-Delgado Alfredo",
+        "Okwali Michelle",
+        "Isgor Irem"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Lenalidomide",
+        "Aged",
+        "Rituximab",
+        "Middle Aged",
+        "Male",
+        "Female",
+        "Aged, 80 and over",
+        "Adult",
+        "Antineoplastic Combined Chemotherapy Protocols"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39234863/"
+    },
+    {
+      "pmid": "40749164",
+      "title": "Preclinical advances in glofitamab combinations: a new frontier for non-Hodgkin lymphoma.",
+      "abstract": "T-cell engagers (TCEs) are transformative therapeutics in hematologic malignancies, including non-Hodgkin lymphoma. Initially approved for relapsed/refractory disease settings, TCEs are now explored in first-line and second-line settings, often combined with standard-of-care (SOC) treatments, including chemotherapy and antibody-drug conjugates. This study investigates glofitamab (CD20×CD3 TCE) combinations in preclinical humanized lymphoma models, addressing heterogeneity of tumor antigen expression, immune evasion, and T-cell exhaustion. Combining glofitamab with R-CHP-Pola (rituximab, cyclophosphamide, doxorubicin, prednisone, and polatuzumab vedotin) chemotherapy or Pola demonstrated strong synergistic antitumor efficacy with rapid tumor regression and reduced tumor cell proliferation. Glofitamab combination with gemcitabine/oxaliplatin also demonstrated strong efficacy, enhancing intratumor T-cell number, activation, and reduced exhaustion. These combinations were particularly adva",
+      "journal": "Blood",
+      "year": "2025",
+      "authors": [
+        "Sam Johannes",
+        "Leclercq-Cohen Gabrielle",
+        "Gebhardt Samuel",
+        "Surowka Marlena",
+        "Herter Sylvia"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Humans",
+        "Mice",
+        "Antibodies, Monoclonal, Humanized",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cell Line, Tumor",
+        "Cyclophosphamide",
+        "Doxorubicin",
+        "Lymphoma, Non-Hodgkin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40749164/"
+    },
+    {
+      "pmid": "28983798",
+      "title": "Rituximab in B-Cell Hematologic Malignancies: A Review of 20 Years of Clinical Experience.",
+      "abstract": "Rituximab is a human/murine, chimeric anti-CD20 monoclonal antibody with established efficacy, and a favorable and well-defined safety profile in patients with various CD20-expressing lymphoid malignancies, including indolent and aggressive forms of B-cell non-Hodgkin lymphoma. Since its first approval 20 years ago, intravenously administered rituximab has revolutionized the treatment of B-cell malignancies and has become a standard component of care for follicular lymphoma, diffuse large B-cell lymphoma, chronic lymphocytic leukemia, and mantle cell lymphoma. For all of these diseases, clinical trials have demonstrated that rituximab not only prolongs the time to disease progression but also extends overall survival. Efficacy benefits have also been shown in patients with marginal zone lymphoma and in more aggressive diseases such as Burkitt lymphoma. Although the proven clinical efficacy and success of rituximab has led to the development of other anti-CD20 monoclonal antibodies in r",
+      "journal": "Advances in therapy",
+      "year": "2017",
+      "authors": [
+        "Salles Gilles",
+        "Barrett Martin",
+        "Foà Robin",
+        "Maurer Joerg",
+        "O'Brien Susan"
+      ],
+      "pub_types": [
+        "Historical Article",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents, Immunological",
+        "B-Lymphocytes",
+        "Hematologic Neoplasms",
+        "History, 20th Century",
+        "History, 21st Century",
+        "Humans",
+        "Lymphoma, B-Cell",
+        "Rituximab"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28983798/"
+    },
+    {
+      "pmid": "25499449",
+      "title": "Transformed follicular non-Hodgkin lymphoma.",
+      "abstract": "Histologic transformation of follicular lymphoma to an aggressive non-Hodgkin lymphoma is a critical biologic event with profound implications on the natural history of this otherwise indolent disease. Recent insights into the genetic and epigenetic basis of transformation have been described, with the recognition of pivotal events governing the initiation and persistence of tumor evolution. Outcomes of patients with transformed lymphoma have historically been poor; however, several studies in the rituximab era suggest that survival may be more favorable than previously recognized. This review highlights our current understanding of transformed follicular lymphoma biology and pathogenesis, current treatment, and future directions.",
+      "journal": "Blood",
+      "year": "2015",
+      "authors": [
+        "Casulo Carla",
+        "Burack W Richard",
+        "Friedberg Jonathan W"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antibodies, Monoclonal, Murine-Derived",
+        "Antineoplastic Agents",
+        "Burkitt Lymphoma",
+        "Disease Progression",
+        "Epigenesis, Genetic",
+        "Humans",
+        "Lymphoma, Follicular",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Lymphoma, Non-Hodgkin",
+        "Medical Oncology"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25499449/"
+    },
+    {
+      "pmid": "38010876",
+      "title": "Clinical efficacy and safety of subcutaneous rituximab in non-Hodgkin lymphoma: a systematic literature review and meta-analysis.",
+      "abstract": "The role of subcutaneous (SC) rituximab in the efficacy and safety to non-Hodgkin lymphoma (NHL) is not clear enough. The purpose of this study was to conduct a systematic review and meta-analysis, to assess the efficacy and safety of subcutaneous rituximab to NHL.",
+      "journal": "Hematology (Amsterdam, Netherlands)",
+      "year": "2023",
+      "authors": [
+        "Si Tianyu",
+        "Ma Xiaolin",
+        "Zhu Wenwei",
+        "Zhou Yongming"
+      ],
+      "pub_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Rituximab",
+        "Lymphoma, Non-Hodgkin",
+        "Treatment Outcome",
+        "Lymphoma, Follicular",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Antineoplastic Combined Chemotherapy Protocols"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38010876/"
+    },
+    {
+      "pmid": "30702241",
+      "title": "CD47 Blockade and Rituximab in Non-Hodgkin’s Lymphoma.",
+      "abstract": "",
+      "journal": "The New England journal of medicine",
+      "year": "2019",
+      "authors": [
+        "Li Yijia"
+      ],
+      "pub_types": [
+        "Letter",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Antibodies, Monoclonal",
+        "Child",
+        "Humans",
+        "Lymphoma, Non-Hodgkin",
+        "Rituximab"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30702241/"
+    },
+    {
+      "pmid": "34802085",
+      "title": "Natural and iatrogenic ocular manifestations of rheumatoid arthritis: a systematic review.",
+      "abstract": "To provide an overview of the ocular features of rheumatoid arthritis (RA) and of the ophthalmic adverse drug reactions (ADRs) that may be associated with the administration of antirheumatic drugs.",
+      "journal": "International ophthalmology",
+      "year": "2022",
+      "authors": [
+        "Dammacco Rosanna",
+        "Guerriero Silvana",
+        "Alessio Giovanni",
+        "Dammacco Franco"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Antirheumatic Agents",
+        "Arthritis, Rheumatoid",
+        "Glaucoma, Open-Angle",
+        "Humans",
+        "Iatrogenic Disease",
+        "Rituximab"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34802085/"
+    },
+    {
+      "pmid": "33638167",
+      "title": "Variability of rituximab and tocilizumab trough concentrations in patients with rheumatoid arthritis.",
+      "abstract": "Patients with rheumatoid arthritis (RA) are eligible for treatment with therapeutic monoclonal antibodies (mAbs) that target tumor necrosis factor α (TNFα), as well as others, such as rituximab (RTX) and tocilizumab (TCZ). Although pharmacokinetic variability and the link between concentration-clinical response of anti-TNFα mAbs have been well-described, little is known about RTX and TCZ. We aimed to evaluate the variability of RTX and TCZ serum concentrations in RA patients treated in second-line and the relationship between RTX/TCZ concentrations and the clinical response. Serum mAb trough concentrations of RA patients treated with RTX (n = 35) or TCZ (n = 46) were determined at week 24 by liquid chromatography-tandem mass spectrometry. The clinical response was assessed at week 24 by the change in the disease activity score in the 28 joints-erythrocyte sedimentation rate from baseline (ΔDAS28-Erythrocyte Sedimentation Rate) and according to the European League Against Rheumatism (EU",
+      "journal": "Fundamental & clinical pharmacology",
+      "year": "2021",
+      "authors": [
+        "Truffot Aurélie",
+        "Gautier-Veyret Elodie",
+        "Baillet Athan",
+        "Jourdil Jean-François",
+        "Stanke-Labesque Françoise"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antibodies, Monoclonal, Humanized",
+        "Antirheumatic Agents",
+        "Arthritis, Rheumatoid",
+        "Humans",
+        "Rituximab",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33638167/"
+    },
+    {
+      "pmid": "36280095",
+      "title": "Prevention of rheumatoid arthritis: A systematic literature review of preventive strategies in at-risk individuals.",
+      "abstract": "Rheumatoid arthritis (RA) is an autoimmune disease characterized by symmetrical peripheral polyarthritis in the hands and/or feet, leading to long-term disability if not treated effectively. RA is preceded by a preclinical phase, in which genetically predisposed individuals accumulate environmental risk factors, and during which autoimmunity develops, followed by the emergence of non-specific signs and symptoms before arthritis becomes manifest. Early treatment in at-risk individuals - i.e. before the disease is fully established - has the theoretical potential to delay or prevent disease onset, with a positive impact on both patients' life and society.",
+      "journal": "Autoimmunity reviews",
+      "year": "2023",
+      "authors": [
+        "Frazzei Giulia",
+        "Musters Anne",
+        "de Vries Niek",
+        "Tas Sander W",
+        "van Vollenhoven Ronald F"
+      ],
+      "pub_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Arthritis, Rheumatoid",
+        "Antirheumatic Agents",
+        "Abatacept",
+        "Rituximab",
+        "Autoimmunity"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36280095/"
+    },
+    {
+      "pmid": "31099191",
+      "title": "Infection risks of rituximab versus non-rituximab treatment for rheumatoid arthritis: A systematic review and meta-analysis.",
+      "abstract": "The aim of this study was to assess the differences in infection rates between rituximab (RTX) and non-RTX treatment in patients with rheumatoid arthritis (RA).",
+      "journal": "International journal of rheumatic diseases",
+      "year": "2019",
+      "authors": [
+        "Shi Yuhong",
+        "Wu Yanbin",
+        "Ren Yafei",
+        "Jiang Yanan",
+        "Chen Yiqiang"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antirheumatic Agents",
+        "Arthritis, Rheumatoid",
+        "Female",
+        "Humans",
+        "Immunocompromised Host",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31099191/"
+    },
+    {
+      "pmid": "16920570",
+      "title": "Treatment of rheumatoid arthritis with rituximab: an update and possible indications.",
+      "abstract": "Based on new biologic and clinical insights, the number of drugs blocking different biologic targets in rheumatoid arthritis (RA) [e.g., tumor necrosis factor alpha (TNFalpha), CTLA4, interleukin (IL)-1, IL-6, IL-15, IL-18, B lymphocyte stimulator (BLyS), CD20] has increased considerably over the last decade. Rituximab, a chimeric monoclonal antibody that was developed for the treatment of B-cell lymphomas, has been used in different autoimmune diseases where B-cells are thought to play a pivotal role. However, blinded randomised controlled trials have been completed only for RA so far, indicating the clear efficacy of B-cell blockade in RA and highlighting the pathogenetic B-cell in rheumatoid synovitis. The use of rituximab in RA is herein updated, from early preliminary studies to more recent presentations in International Conferences. Key clinical and biologic issues are discussed, i.e., efficacy and safety of rituximab, role of concomitant therapies, use in the long term and retre",
+      "journal": "Autoimmunity reviews",
+      "year": "2006",
+      "authors": [
+        "De Vita Salvatore",
+        "Quartuccio Luca"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Murine-Derived",
+        "Antirheumatic Agents",
+        "Arthritis, Rheumatoid",
+        "Humans",
+        "Randomized Controlled Trials as Topic",
+        "Rituximab"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16920570/"
+    },
+    {
+      "pmid": "41004196",
+      "title": "Efficacy and safety of rituximab in rheumatoid arthritis-associated interstitial lung disease: a systematic review and meta-analysis.",
+      "abstract": "To assess the effectiveness and safety of Rituximab (RTX) treatment among patients diagnosed with rheumatoid arthritis-associated interstitial lung disease (RA-ILD).",
+      "journal": "Expert opinion on biological therapy",
+      "year": "2025",
+      "authors": [
+        "Ines Mahmoud",
+        "Zeineb Zarrouk",
+        "Selma Bouden",
+        "Olfa Saidane",
+        "Leila Rouached"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Antirheumatic Agents",
+        "Arthritis, Rheumatoid",
+        "Disease Progression",
+        "Lung Diseases, Interstitial",
+        "Rituximab",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41004196/"
+    },
+    {
+      "pmid": "19758217",
+      "title": "Long-term effects of rituximab in rheumatoid arthritis: clinical, biologic, and pharmacogenetic aspects.",
+      "abstract": "Rituximab selectively targets the B-cell compartment, including rheumatoid factor-positive B cells. Short-term efficacy and safety of rituximab in rheumatoid arthritis (RA) has been established by multicenter randomized placebo-controlled studies. Results of long-term follow-up of the phase II/III clinical trials have confirmed the efficacy and safety of repeated courses of rituximab in the responders. However, mechanisms of action in humans, retreatment regimens, biologic effects on memory B cells and on immunoglobulin levels of prolonged exposure of the immune system to B-cell depletion over time, and pharmacogenetic aspects remain open and intriguing issues of rituximab therapy. Several studies are ongoing to clarify possible clinical and biologic predictors of response to rituximab in RA and in other autoimmune diseases where rituximab has been proven to be effective. Preliminary clinical and pharmacogenetic results of our cohort of RA patients managed with rituximab from the year ",
+      "journal": "Annals of the New York Academy of Sciences",
+      "year": "2009",
+      "authors": [
+        "Quartuccio Luca",
+        "Lombardi Sandra",
+        "Fabris Martina",
+        "Masolini Paola",
+        "Saracco Marta"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Murine-Derived",
+        "Antigens, CD20",
+        "Antirheumatic Agents",
+        "Arthritis, Rheumatoid",
+        "B-Lymphocytes",
+        "Genotype",
+        "Humans",
+        "Receptors, IgG",
+        "Rituximab"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19758217/"
+    },
+    {
+      "pmid": "17896839",
+      "title": "Rituximab: in rheumatoid arthritis.",
+      "abstract": "An important role for B cells in the immunopathogenesis of rheumatoid arthritis (RA) is recognized. Rituximab is a chimeric murine/human anti-CD20 monoclonal antibody that transiently depletes CD20+ B cells. A single course of rituximab (two intravenous infusions of 1,000mg given two weeks apart) with a stable dose of methotrexate significantly improved all measures of disease activity, fatigue, and health-related quality of life relative to placebo with methotrexate. This was demonstrated in the REFLEX trial, a 24-week, randomized, double-blind, double-dummy, international, phase III study in 520 patients who had active RA despite ongoing treatment with methotrexate and had experienced an inadequate response to anti-tumor necrosis factor (TNF) therapy. Patients in REFLEX (or other studies) who responded to, and required further treatment after, an initial course of rituximab continued to respond to subsequent courses of the drug. A small subgroup of patients in REFLEX continued to res",
+      "journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",
+      "year": "2007",
+      "authors": [
+        "Frampton James E",
+        "Scott Lesley J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Murine-Derived",
+        "Antigens, CD20",
+        "Arthritis, Rheumatoid",
+        "Clinical Trials, Phase III as Topic",
+        "Humans",
+        "Infusions, Intravenous",
+        "Randomized Controlled Trials as Topic",
+        "Rituximab"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17896839/"
+    },
+    {
+      "pmid": "37705311",
+      "title": "Effectiveness and safety of rituximab in special types of rheumatoid arthritis.",
+      "abstract": "To elucidate the efficacy and safety of rituximab in special types of rheumatoid arthritis.",
+      "journal": "International journal of rheumatic diseases",
+      "year": "2023",
+      "authors": [
+        "Takanashi Satoshi",
+        "Kondo Yasushi",
+        "Saito Shuntaro",
+        "Kikuchi Jun",
+        "Hanaoka Hironari"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Rituximab",
+        "Antirheumatic Agents",
+        "Glucocorticoids",
+        "Rheumatoid Vasculitis",
+        "Retrospective Studies",
+        "Treatment Outcome",
+        "Arthritis, Rheumatoid",
+        "Severity of Illness Index",
+        "Lymphoproliferative Disorders"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37705311/"
+    },
+    {
+      "pmid": "31446557",
+      "title": "Comparative Efficacy and Safety of Biosimilar Rituximab and Originator Rituximab in Rheumatoid Arthritis and Non-Hodgkin's Lymphoma: A Systematic Review and Meta-analysis.",
+      "abstract": "Rituximab is a biologic medicine widely used for the treatment of autoimmune diseases and lymphoma. Several biosimilars of rituximab have been developed and marketed with the expiration of the originator rituximab's patent; thus, systematic combination and analysis of the latest data on the efficacy and safety of biosimilars and the demonstration of the interchangeability of biosimilar agents are required.",
+      "journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",
+      "year": "2019",
+      "authors": [
+        "Lee Soohyun",
+        "Lee Heeyoung",
+        "Kim EunYoung"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Agents, Immunological",
+        "Arthritis, Rheumatoid",
+        "Biosimilar Pharmaceuticals",
+        "Humans",
+        "Lymphoma, Non-Hodgkin",
+        "Randomized Controlled Trials as Topic",
+        "Rituximab",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31446557/"
+    }
+  ]
+}

@@ -1,0 +1,1008 @@
+{
+  "drug": "Clobetasol Propionate",
+  "drugbank_id": "DB01013",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:22:01Z",
+  "indications": [
+    {
+      "indication": "dermatitis",
+      "evidence_level": "L1",
+      "trials": 19,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 6,
+        "phase1_trials": 3,
+        "other_trials": 8,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 3,
+        "total_trials": 19,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "seborrheic keratosis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "scalp dermatosis",
+      "evidence_level": "L1",
+      "trials": 5,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 3,
+        "review_articles": 4,
+        "other_articles": 3,
+        "total_trials": 5,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "dermatitis, atopic",
+      "evidence_level": "L2",
+      "trials": 8,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 4,
+        "phase1_trials": 2,
+        "other_trials": 2,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 7,
+        "total_trials": 8,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "seborrheic dermatitis",
+      "evidence_level": "L1",
+      "trials": 1,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 2,
+        "review_articles": 4,
+        "other_articles": 4,
+        "total_trials": 1,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 33,
+  "total_articles": 41,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01323673",
+      "title": "Ethanol-Free Clobetasol Propionate Foam 0.05% (Olux-E Foam) vs Vehicle Foam in the Treatment of Chronic Hand Dermatitis.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-11-15",
+      "completion_date": "2011-03-29",
+      "country": "United States",
+      "enrollment": 125,
+      "brief_summary": "The purpose of this study is to determine how clobetasol proprionate foam works against a placebo foam in the treatment of hand dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Capable of understanding and willing to provide signed informed consent\n* Male or female at least 12 years of age at time of consent and at time of first dose.\n* Able to complete the study and to comply with study instructions.\n* Moderate to severe hand dermatitis.\n* Chronic h",
+      "endpoints": [
+        "Number of Participants With Improvement of at Least 2 Grades in the Investigator's Static Global Assessment (ISGA) (Target Hand) Score From Baseline to Day 15"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01323673"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02319616",
+      "title": "A Randomized Placebo Controlled Split-body Double-blind Phase II Clinical Trial to Investigate the Safety and Efficacy of Clobetasol 0.05% Ointment for the Treatment of Toxic Epidermal Necrolysis (TEN)",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2016-11",
+      "completion_date": "2019-02-06",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The primary objectives of this study are to investigate the efficacy and safety of topical steroid ointment (clobetasol 0.05%) for the treatment of the cutaneous manifestations of toxic epidermal necrolysis (TEN).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Characteristic histological findings on diagnostic biopsy\n* Clinical diagnosis verified by two independent physicians\n* Greater than 10% affected body surface area (BSA)\n* Ability to start treatment within seven days or less from the onset of erosions\n* Actively worsening dise",
+      "endpoints": [
+        "Safety (numeric cellulitis score)",
+        "Time to Cessation of Skin Detachment"
+      ],
+      "sponsor": "University of California, Davis",
+      "url": "https://clinicaltrials.gov/study/NCT02319616"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01591785",
+      "title": "An Investigator-Initiated Study: Treatment of Staphylococcus Aureus Colonization in Hand Eczema Decreases Severity of Disease",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2012-08",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Atopic dermatitis is a chronic disease characterized by itching and eczematous lesions. In adults, eczema commonly localizes to the hands or feet. Several studies have implicated bacterial contamination, especially with Staphylococcus aureus (S. aureus), to be a factor in atopic dermatitis, as infection with this bacteria correlates with disease severity. No trial to date has investigated how to treat S. aureus infection in adults with hand or hand/foot dermatitis. Using retapamulin ointment in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects at least 18 years of age with a clear diagnosis of moderate-to-severe hand or hand/foot dermatitis.\n* Subjects must be in general good health as confirmed by a medical history.\n* Subjects must be capable of understanding and willing to provide a signed ",
+      "endpoints": [
+        "Number of Participants With PGA of 0 or 1",
+        "Number of Participants With PGA of 0 or 1"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT01591785"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02376049",
+      "title": "An Explorative Clinical Trial to Evaluate an Intra Patient Comparison Design of Topical Agents in Adults With Mild to Moderate Atopic Dermatitis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-02",
+      "completion_date": "2015-07",
+      "country": "Canada, Israel",
+      "enrollment": 30,
+      "brief_summary": "An Explorative Clinical Trial to Evaluate an Intra Patient Comparison Design of Topical Agents in Adults with Mild to Moderate Atopic Dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject with mild to moderate AD\n* Four comparable TAs\n* TSS of at least 5 on all TAs\n* Difference in TSS not greater than 2 between the TAs\n* Sign score erythema ≥ 2 between the TAs\n* TAs should be at least 2 cm apart\n\nExclusion Criteria:\n\n* Investigator's opinion\n* Fitzpatri",
+      "endpoints": [
+        "Total Sign Score (TSS) change"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02376049"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00828464",
+      "title": "An Open Label Study to Evaluate Safety, Efficacy and Tolerability of Clobetasol Propionate for the Condition of Chronic Hand Dermatitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-10",
+      "completion_date": "2009-01",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The purpose of the study is to assess the safety, efficacy and tolerability of Clobetasol propionate foam in subjects with chronic dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects 18 years of age or older, with diagnosis of chronic dermatitis, able to complete the study and comply with study instructions.\n* Female subjects of childbearing potential must have a negative pregnancy test. Sexually active women of childbearing potential participatin",
+      "endpoints": [
+        "Proportion of Subjects With at Least 1-grade Improvement From Baseline to Day 15 in Investigator's Static Global Assessment Score (ISGA) Score"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00828464"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03089775",
+      "title": "A Randomized, Controlled Study to Evaluate the Effect of Topically Applied BBI-2000 (5%) on Allergic Responses in Subjects With Contact Hypersensitivity to Diphencyprone",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-03-14",
+      "completion_date": "2017-05-24",
+      "country": "Canada",
+      "enrollment": 47,
+      "brief_summary": "This two cohort study (Cohort A and B) is being conducted to assess the safety and efficacy of BBI-2000 for the prevention (Cohort A) and treatment (Cohort B) of delayed type hypersensitivity reaction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Individuals aged 18 to 65 years inclusive at the time of consent, and either female of non-reproductive potential or male.\n* Subjects must be healthy, normal volunteers per physical exam, laboratory and EKG assessments\n\nExclusion Criteria:\n\n* History of contact dermatitis to m",
+      "endpoints": [
+        "Number of adverse events in each study group",
+        "Vital signs, physical examinations, ECG, blood analysis, urine analysis",
+        "Size of contact hypersensitivity reaction"
+      ],
+      "sponsor": "Fresh Tracks Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03089775"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01870050",
+      "title": "A Double-blind, Randomized, Parallel-group, Side-by-side Single-center Study Comparing a Topical Steroid / Vehicle Combination to a Topical Steroid / Topical Dapsone Combination in Patients With Lichen Simplex Chronicus and/or Prurigo Nodularis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2013-09",
+      "completion_date": "2019-11",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "Principal aim of this study is to assess whether a combination of topical dapsone and clobetasol as a topical steroid is superior to clobetasol alone as treatment of prurigo nodularis or lichen simplex chronicus in a side to side comparison. The study is primarily exploratory and essentially meant to inform the sponsor whether further development of a combination treatment formulation is warranted",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Active prurigo nodularis or lichen simplex chronicus - diagnosed by clinical exam\n\n  * For lichen simplex chronicus patients: Severity of maximum pruritus in the last 24 hrs at least 5 out of 10 on a visual analogue scale.\n  * For prurigo nodularis patients: Excoriations or ",
+      "endpoints": [
+        "Pruritus based on visual analogue scale in side to side comparison"
+      ],
+      "sponsor": "Cook County Health",
+      "url": "https://clinicaltrials.gov/study/NCT01870050"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01987076",
+      "title": "DRESS - Setting of Corticosteroid Treatment.",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2013-10",
+      "completion_date": "2016-10",
+      "country": "France",
+      "enrollment": 112,
+      "brief_summary": "Drug reaction with eosinophilia and systemic symptoms (DRESS) is a rare and severe multiorgan adverse drug reaction occurring within 2 to 6-8 weeks after a new drug intake. DRESS syndrome is defined by the combination of clinical manifestations, cutaneous, visceral and biological disturbances. Its prognosis is directly linked to severity of visceral involvement, with a mortality evaluated above 10%.\n\nConsidering curative treatment, there is no consensus. Until now, no controlled trial has been p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patient age ≥ 18 years\n* signing informed consent form\n* DRESS diagnosis with at least 4 criteria a, b, c, d\n\n  1. Skin rash occurring at least 10 days and not more than two months after continuous drug intake (or within less than 10 days in case of rechallenge)\n  2. Fever ≥ 3",
+      "endpoints": [
+        "Rate of patients with a complete or almost healing of visceral involvement to D30 +/- 5 days AND complete or almost complete healing of skin involvement."
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT01987076"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00862654",
+      "title": "Efficacy and Safety of Clobetasol Propionate Shampoo 0.05% Used in Association With an Antifungal Shampoo in the Treatment of Moderate to Severe Scalp Seborrheic Dermatitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2010-02",
+      "country": "Germany, France, Mexico, Belgium, South Korea",
+      "enrollment": 326,
+      "brief_summary": "The objective is to assess different treatment regimens with Clobetasol propionate shampoo 0.05% in the treatment of scalp Seborrheic Dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with moderate to severe scalp Seborrheic Dermatitis\n\nExclusion Criteria:\n\n* Subjects suffering from psoriasis,\n* Subjects with a known allergy to one of the components of the test products,\n* Female subjects who are pregnant, nursing or planning a pregnancy during the",
+      "endpoints": [
+        "Total Severity Score (TSS): Percent Change From Baseline at Week 4"
+      ],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT00862654"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00779792",
+      "title": "Comparison of Efficacy of Glycerol, Two Topical Steroids, and a Topical Immune Modulator Against Experimentally Induced Skin Irritation",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-09",
+      "completion_date": "2008-11",
+      "country": "Denmark",
+      "enrollment": 36,
+      "brief_summary": "The purpose of this study is to compare the efficacy of glycerol ointment, triamcinolone acetonide ointment, clobetasol ointment and tacrolimus ointment on irritated skin in a cumulative skin irritation test model using healthy volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* caucasian\n* normal skin on both volar forearms\n* oral and written informed consent\n\nExclusion Criteria:\n\n* pregnant, lactating women\n* no safe anticonceptive method used\n* intake of systemic immunosuppressants (e.g. prednisolone)\n* endocrine, immune, or liver disorders\n* known",
+      "endpoints": [
+        "level of skin irritation as determined by visual reading, skin redness (color measurement), skin barrier integrity (transepidermal water loss measurement) and skin hydration (capacitance measurement)"
+      ],
+      "sponsor": "Odense University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00779792"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03983460",
+      "title": "Dupilumab Impact on Skin Resident Memory T Cells",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-03-09",
+      "completion_date": "2021-09",
+      "country": "France",
+      "enrollment": 20,
+      "brief_summary": "The main objective of the study consists in characterizing the immune cells that are present/persist in the skin and the blood of atopic dermatitis (AD) patients treated with Dupilumab, as well as with potent/very potent topical corticosteroids (TCS: betamethasone valerate cream 0.1% or clobetasol propionate cream 0.05%). A specific attention will be paid on the presence/persistence of skin Trm and ILCs.\n\nThe study population will consist of 20 adult patients suffering from moderate to severe At",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject over 18 years of age\n* Subject able to read, understand and give documented informed consent\n* Subject willing and able to comply with the protocol requirements for the duration of the study\n* Subject with health insurance coverage according to local regulations\n* For ",
+      "endpoints": [
+        "To assess the change of the number (per biopsy or per mL of blood) and/or frequency (among live hematopoietic cells CD45+) of immune cells that are present in the skin and the blood of AD patients after Dupilumab or TCS treatment."
+      ],
+      "sponsor": "Association pour la Recherche Clinique et Immunologique",
+      "url": "https://clinicaltrials.gov/study/NCT03983460"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06504160",
+      "title": "Safety and Efficacy of Topical Bacteriotherapy for Atopic Dermatitis Using Staphylococcus Hominis A9",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-04-10",
+      "completion_date": "2026-11-02",
+      "country": "United States",
+      "enrollment": 86,
+      "brief_summary": "This is a Phase 1b, randomized, placebo/vehicle-controlled, double-blinded, multi-center trial. It is designed to assess the safety and efficacy of S. hominis A9 (ShA9) topical application as a treatment for atopic dermatitis (AD). The trial will enroll adults and adolescents with atopic dermatitis who are culture positive for S. aureus colonization.\n\nThe primary safety objective of this study is to compare the safety profile of ShA9 to placebo (vehicle) over 14 weeks of application, which inclu",
+      "eligibility_criteria": "Inclusion Criteria:\n\nEach individual must meet all of the following criteria at Screening to be eligible for enrollment as a study participant:\n\n1. Must be able to understand and provide informed consent.\n2. Male or female participant 12 years of age or older.\n3. Meet ADRN Standard Diagnostic Criter",
+      "endpoints": [
+        "Time to the first Atopic Dermatitis (AD) flare.",
+        "Serious and non-serious treatment-emergent adverse events (TEAEs) related or possibly related to study treatment."
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT06504160"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03584360",
+      "title": "Study Role of the Local Treatments on the Microbiome Modulation in the Psoriatic Skin. Study Monocentric, Interventional, Randomized and Single-blind",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-09-24",
+      "completion_date": "2019-03-07",
+      "country": "France",
+      "enrollment": 30,
+      "brief_summary": "Changes in microbiome have been reported recently in psoriasis lesions compared to healthy surround skin. Preliminary data showed that systemic treatments of psoriasis induce modification of the skin microbiome that becomes similar to healthy individuals after successful treatment. The causative role of microbiome in psoriasis remains in debate. The modification of skin microbiome is suspected to be able to activate the innate immune response, namely natural killers (NKs) and immune lymphoid cel",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age who have signed and dated an informed information and consent form,\n* Subject presenting psoriasis vulgaris with lesions symmetrical in size and severity, localized on the elbows and the knees and having a severity score (PASI) \\<=10. The lesions must have an a",
+      "endpoints": [
+        "Quantitative evaluation of bacterial microbiota on psoriasis lesions and surrounding healthy skin by 16S rRNA (ribosomal ribonucleic acid 16S) amplification coupled with high throughput sequencing",
+        "Qualitative evaluation of bacterial microbiota on psoriasis lesions and surrounding healthy skin by 16S rRNA (ribosomal ribonucleic acid 16S) amplification coupled with high throughput sequencing"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "url": "https://clinicaltrials.gov/study/NCT03584360"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06120140",
+      "title": "A Phase 2, Open-Label, Randomized Trial Evaluating the Impact of Enhanced Versus Standard Dermatologic Management on Selected Dermatologic Adverse Events Among Patients With Locally Advanced or Metastatic EGFR-Mutated NSCLC Treated First-Line With Amivantamab + Lazertinib",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-02-16",
+      "completion_date": "2032-01-31",
+      "country": "Germany, France, South Korea, Taiwan, Turkey (Türkiye), China, Spain, United States, Malaysia, Argentina, Brazil",
+      "enrollment": 300,
+      "brief_summary": "The purpose of this study is to evaluate whether enhanced dermatologic management can reduce incidence of grade greater than or equal to (\\>=) 2 dermatologic adverse events of interest (DAEIs) when compared with standard-of-care skin management and with modified enhanced dermatologic management in participants with locally advanced or metastatic stage IIIB/C-IV epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC) treated first-line with amivantamab and lazertinib. T",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have histologically or cytologically confirmed, locally advanced or metastatic non-small cell lung cancer (NSCLC); Is treatment naive and not amenable to curative therapy including surgical resection or (chemo) radiation. Adjuvant or neoadjuvant therapy for Stage I, Stage II o",
+      "endpoints": [
+        "Number of Participants With Grade Greater Than or Equal to (>=) 2 Dermatologic Adverse Events of Interest (DAEIs) Within 12 Weeks After Initiation of Anticancer Treatment"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT06120140"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02573883",
+      "title": "A Randomized Trial of Clobetasol Propionate Versus Fractionated CO2 Laser for the Treatment of Lichen Sclerosus (CuRLS)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-10",
+      "completion_date": "2019-09",
+      "country": "United States",
+      "enrollment": 52,
+      "brief_summary": "This study is being done to compare the effects, good and bad, of fractionated CO2 laser treatment and clobetasol propionate .05% ointment on vulvar lichen sclerosus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Biopsy proven symptomatic vulvar lichen sclerosus\n* Ability to understand the study, accept randomization and logistically follow-up with scheduled visits\n* English Speaking\n\nExclusion Criteria:\n\n* Known vulvar malignancy\n* Pregnancy or planning pregnancy or less than 3 months",
+      "endpoints": [
+        "Change in SkinDEX-29 Score"
+      ],
+      "sponsor": "Medstar Health Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT02573883"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03847389",
+      "title": "Open-Label Study of the Pharmacokinetics and Safety Including HPA Axis Suppression Potential of Clobetasol Topical Oil in Pediatric Subjects With Moderate to Severe Atopic Dermatitis",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2019-09-09",
+      "completion_date": "2020-07-28",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Open-Label Study designed to evaluate the HPA axis suppression potential of Clobetasol Topical Oil and pharmacokinetic safety / systemic exposure to clobetasol when Clobetasol Topical Oil is applied to pediatric subjects with moderate to severe atopic dermatitis (AD) under maximal use conditions.\n\nThe study duration for each subject will be up to 54 days (up to 38 days for Screening assessments, followed by up to 16 days of treatment and follow-up). Additional time will be required for subjects ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects in good general health confirmed by medical history.\n* Subjects with a clinical diagnosis of AD (according to the criteria of Hanifin and Rajka) of moderate to severe intensity (ISGA score of 3 or 4) involving ≥25% to ≤50% of total BSA located within tr",
+      "endpoints": [
+        "Number of Participants With HPA Axis Suppression - Serum Cortisol Concentration (Cortrosyn Stimulation Test)",
+        "Adverse Events, Including Treatment Emergent Adverse Events (TEAEs)"
+      ],
+      "sponsor": "Hill Dermaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03847389"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03779360",
+      "title": "Investigating Anti-inflammatory Effects of Topical Antibiotics in an LPS Skin Challenge Model",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-10-12",
+      "completion_date": "2019-02-23",
+      "country": "Netherlands",
+      "enrollment": 32,
+      "brief_summary": "Erythromycin and clindamycin are believed to have anti-inflammatory aspects. This study investigates the possible anti-inflammatory effects of erythromycin and clindamycin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy male or female subjects, 18 to 45 years of age, inclusive. Healthy status is defined by absence of evidence of any active or chronic disease following a detailed medical and surgical history, a complete physical examination including vital signs, 12-lead ECG, hematolo",
+      "endpoints": [
+        "Change in perfusion by Laser speckle contrast imaging (LSCI)",
+        "Change in erythema by Antera 3D camera and 2D camera",
+        "Change in erythema by clinical evaluation (erythema grading scale)"
+      ],
+      "sponsor": "Centre for Human Drug Research, Netherlands",
+      "url": "https://clinicaltrials.gov/study/NCT03779360"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03961126",
+      "title": "Pilot Study of Vulvar Lichen Sclerosus (VLS) Treatment Using Adipose Tissue Associated With Autologous Platelet-rich Plasma (PRP).",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-09-06",
+      "completion_date": "2019-12-12",
+      "country": "Spain",
+      "enrollment": 20,
+      "brief_summary": "LIQUENIA clinical trial is a phase II, controlled, prospective and unicentric study to assess vulvar lichen sclerosus (VLS) treatment using adipose tissue associated with autologous platelet-rich plasma (PRP) coming from the inner side of the patients' thighs, which aims to restore the structure and elasticity of the affected vulvar subunits, and to improve vulvar subunits lesions and symptoms, therefore, patients' quality of life from the early phases of the treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult women between 18 and 70 years old.\n* Patients with clear clinical and/or histological diagnosis of vulvar lichen sclerosus (VLS).\n* Moderate to severe affectation of the disease at genital level.\n* Patients who have taken topical treatment for at least three months with ",
+      "endpoints": [
+        "Vulvar elasticity measured by the cutometer-dualmpa®",
+        "Vulvar elasticity measured by the cutometer-dualmpa®",
+        "Vulvar elasticity measured by the cutometer-dualmpa®"
+      ],
+      "sponsor": "Instituto de Investigacion Sanitaria La Fe",
+      "url": "https://clinicaltrials.gov/study/NCT03961126"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01381445",
+      "title": "A Randomised, Double-blind (for GW870086), Placebo-controlled Study of Topical GW870086 Formulation to Explore the Potential for Skin Thinning in Healthy Adult Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-04-14",
+      "completion_date": "2011-07-07",
+      "country": "Germany",
+      "enrollment": 20,
+      "brief_summary": "This study is a randomised, double-blind, placebo-controlled study of topical GW870086 to explore the potential for skin thinning in healthy adult volunteers after 42±2 days of treatment. Twenty (20) healthy volunteers will be randomised to receive placebo and GW870086 2% cream, they will also receive either of the following treatments: GW870086 0.2% cream, or clobetasol propionate 0.05% cream.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* AST (Aspartate aminotransferase), ALT (Alanine aminotransferase), alkaline phosphatase and bilirubin ≤ 1.5xULN (Upper limit of normal)(isolated bilirubin \\>1.5xULN is acceptable if bilirubin is fractionated and direct bilirubin \\<35%).\n* Healthy as determined by an experienced",
+      "endpoints": [
+        "Change from baseline in skin thickness using ultrasound between GW870086 (0.2% and 2%) versus placebo"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01381445"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00715975",
+      "title": "Clinical Trial of Effectiveness and Safety of Topical Halobetasol Propionate in the Treatment of Patients With Psoriasis Plate, and as Comparator the Product Psorex (Clobetasol Propionate).",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2010-08",
+      "country": "Brazil",
+      "enrollment": 140,
+      "brief_summary": "The Psoriasis and a chronic dermatosis characterized by abnormal proliferation of cells epithelial, vessel dilation and inflammation locally, which presents erythematous-scaly lesions in various areas of the body, preferably in the scalp, region and religious joints as elbows and knees. It occurs equally in both sexes and can appear at any age, and the mean age for the onset of the disease and around 27.3 years.\n\nThe halobetasol propionate and an ultra-potent corticoid. Its chemical structure an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of both sexes, adults over 18 years, holders of psoriasis plating of mild to moderate,\n* Patients with area of involvement of up to 20% of body surface,\n* Patients with good physical and mental health\n* Patients who agree with the purposes of the study and sign the In",
+      "endpoints": [
+        "assess the improvement of symptoms of psoriasis"
+      ],
+      "sponsor": "Azidus Brasil",
+      "url": "https://clinicaltrials.gov/study/NCT00715975"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "20672788",
+      "title": "Diagnosis and management of contact dermatitis.",
+      "abstract": "Contact dermatitis is a common inflammatory skin condition characterized by erythematous and pruritic skin lesions that occur after contact with a foreign substance. There are two forms of contact dermatitis: irritant and allergic. Irritant contact dermatitis is caused by the non-immune-modulated irritation of the skin by a substance, leading to skin changes. Allergic contact dermatitis is a delayed hypersensitivity reaction in which a foreign substance comes into contact with the skin; skin changes occur after reexposure to the substance. The most common substances that cause contact dermatitis include poison ivy, nickel, and fragrances. Contact dermatitis usually leads to erythema and scaling with visible borders. Itching and discomfort may also occur. Acute cases may involve a dramatic flare with erythema, vesicles, and bullae; chronic cases may involve lichen with cracks and fissures. When a possible causative substance is known, the first step in confirming the diagnosis is determ",
+      "journal": "American family physician",
+      "year": "2010",
+      "authors": [
+        "Usatine Richard P",
+        "Riojas Marcela"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Dermatitis, Contact",
+        "Diagnosis, Differential",
+        "Glucocorticoids",
+        "Humans",
+        "Incidence",
+        "Patch Tests",
+        "United States"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20672788/"
+    },
+    {
+      "pmid": "32462741",
+      "title": "Allergic contact dermatitis due to clobetasol propionate and lanoconazole.",
+      "abstract": "",
+      "journal": "Contact dermatitis",
+      "year": "2020",
+      "authors": [
+        "Kawai Misa",
+        "Sowa-Osako Junko",
+        "Omura Reina",
+        "Fukai Kazuyoshi",
+        "Tsuruta Daisuke"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Antifungal Agents",
+        "Clobetasol",
+        "Dermatitis, Allergic Contact",
+        "Humans",
+        "Imidazoles",
+        "Male",
+        "Middle Aged",
+        "Patch Tests"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32462741/"
+    },
+    {
+      "pmid": "18806904",
+      "title": "Clobetasol propionate--where, when, why?",
+      "abstract": "Clobetasol propionate is the most potent of all topical steroids. It is successfully applied in the treatment of various skin diseases such as atopic dermatitis, psoriasis and vulvar lichen sclerosus. The therapy is, however, mainly symptomatic. A preventive effect is only reported in the treatment of the latter. Clobetasol propionate exerts antiinflammatory, immunosuppressive and antimitotic effects influencing the growth, differentiation and function of various cells and inhibiting cytokine production. Seven different dosage forms are available to deliver the drug to the living cells of the skin. Their choice might additionally affect patient compliance. The potency of clobetasol propionate, however, is accompanied by local and systemic side effects, such as skin atrophy and hypothalamic-pituitary-adrenal axis suppression. Patients applying clobetasol propionate must be well instructed in how to use it. Physicians prescribing clobetasol propionate should consider a diversity of facto",
+      "journal": "Drugs of today (Barcelona, Spain : 1998)",
+      "year": "2008",
+      "authors": [
+        "Pels Ragna",
+        "Sterry Wolfram",
+        "Lademann Jürgen"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Adrenal Cortex Hormones",
+        "Anti-Inflammatory Agents",
+        "Clobetasol",
+        "Dermatitis, Atopic",
+        "Female",
+        "Humans",
+        "Immunosuppressive Agents",
+        "Psoriasis",
+        "Vulvar Lichen Sclerosus"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18806904/"
+    },
+    {
+      "pmid": "30222987",
+      "title": "Clobetasol pretreatment to reduce and prevent injection site dermatitis from biologic agents.",
+      "abstract": "",
+      "journal": "Journal of the American Academy of Dermatology",
+      "year": "2019",
+      "authors": [
+        "Liu Deede",
+        "Wu Dominic J",
+        "Rajpara Anand",
+        "Wang Ting",
+        "Aires Daniel J"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Anti-Inflammatory Agents",
+        "Biological Factors",
+        "Clobetasol",
+        "Dermatitis",
+        "Humans",
+        "Injections, Subcutaneous",
+        "Medication Adherence",
+        "Ointments"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30222987/"
+    },
+    {
+      "pmid": "3528243",
+      "title": "Topical clobetasol-17-propionate: review of its clinical efficacy and safety.",
+      "abstract": "Clobetasol-17-propionate, the most potent of currently available topical steroids as predicted by the vasoconstrictor assay, has just been approved in the United States. In psoriasis, it has proved significantly more effective than class II steroids and as or more effective than the only marketed class I steroid. In the more steroid-responsive eczemas, the superior efficacy of clobetasol is also apparent, but less striking. Clobetasol prolongs remission rates, making intermittent treatment schedules feasible and minimizing inherent potential steroid side effects. Clobetasol may also be useful in the treatment of a myriad of other skin conditions. A review of the pharmacology, efficacy, and side effects of this addition to our dermatologic armamentarium is presented here.",
+      "journal": "Journal of the American Academy of Dermatology",
+      "year": "1986",
+      "authors": [
+        "Olsen E A",
+        "Cornell R C"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Betamethasone",
+        "Clobetasol",
+        "Combined Modality Therapy",
+        "Drug Administration Schedule",
+        "Eczema",
+        "Hypothalamo-Hypophyseal System",
+        "Pituitary-Adrenal System",
+        "Psoriasis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3528243/"
+    },
+    {
+      "pmid": "19454093",
+      "title": "Seborrhoeic dermatitis.",
+      "abstract": "Seborrhoeic dermatitis affects at least 1-3% of the population. Malassezia (Pityrosporum) ovale is thought to be the causative organism, and causes inflammation involving T cells and complement. Seborrhoeic dermatitis tends to relapse after treatment.",
+      "journal": "BMJ clinical evidence",
+      "year": "2007",
+      "authors": [
+        "Manríquez Juan Jorge",
+        "Uribe Pablo"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Administration, Topical",
+        "Dermatitis, Seborrheic",
+        "Face",
+        "Humans",
+        "Ketoconazole",
+        "Lithium",
+        "Malassezia",
+        "Remission Induction",
+        "Scalp Dermatoses"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19454093/"
+    },
+    {
+      "pmid": "24672120",
+      "title": "Relative efficacy and interchangeability ofvarious clobetasol propionate vehicles in the management of steroid-responsive dermatoses.",
+      "abstract": "Topical corticosteroids have long been the cornerstone in thetreatment of steroid-responsive dermatoses. Despite the effectiveness of these formulations, there is a misperception that drugs delivered via ointments are more potent than those delivered via other vehicles. Potency, however, is a complex function of the physical and chemical properties of both the active ingredient and its vehicle. Studies have determined that newer vehicles (eg, lotions), particularly those in the super-high-potency class, not only heighten the ability of the active ingredient to penetrate skin but also are preferred by patients over ointments and creams.",
+      "journal": "Current therapeutic research, clinical and experimental",
+      "year": "2005",
+      "authors": [
+        "Feldman Steven R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24672120/"
+    },
+    {
+      "pmid": "32045171",
+      "title": "Unbearable wearables.",
+      "abstract": "As wearable devices play an increasing role in the management of health and disease, adverse skin reactions to wearables have become more common. However, the management of allergic contact dermatitis is challenging and new treatment options more compatible with wearable devices are needed. In a 40-year-old woman with contact dermatitis to a continuous glucose monitoring device, topical clobetasol propionate 0.05% spray proved to be an effective treatment that was compatible with the application of adhesive wearables. This case demonstrates that spray formulations of topical steroids are a good option for the treatment of dermatitis under wearable devices such as continuous glucose monitors or ostomy appliance.",
+      "journal": "Dermatology online journal",
+      "year": "2019",
+      "authors": [
+        "Wei Jenny J",
+        "Hayward Elizabeth May",
+        "Leung Thomas H",
+        "Rosenbach Misha"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adult",
+        "Blood Glucose Self-Monitoring",
+        "Clobetasol",
+        "Dermatitis, Allergic Contact",
+        "Female",
+        "Humans",
+        "Receptors, Glucocorticoid",
+        "Wearable Electronic Devices"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32045171/"
+    },
+    {
+      "pmid": "21418692",
+      "title": "Seborrhoeic dermatitis.",
+      "abstract": "Seborrhoeic dermatitis affects at least 10% of the population. Malassezia (Pityrosporum) ovale is thought to be the causative organism, and causes inflammation by still poorly defined mechanisms. Seborrhoeic dermatitis tends to relapse after treatment.",
+      "journal": "BMJ clinical evidence",
+      "year": "2010",
+      "authors": [
+        "Naldi Luigi"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Antifungal Agents",
+        "Betamethasone Valerate",
+        "Dermatitis, Seborrheic",
+        "Emollients",
+        "Hair Preparations",
+        "Humans",
+        "Hydrocortisone",
+        "Severity of Illness Index",
+        "United States Food and Drug Administration"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21418692/"
+    },
+    {
+      "pmid": "30145645",
+      "title": "Contact Dermatitis to Medications and Skin Products.",
+      "abstract": "Consumer products and topical medications today contain many allergens that can cause a reaction on the skin known as allergic contact dermatitis. This review looks at various allergens in these products and reports current allergic contact dermatitis incidence and trends in North America, Europe, and Asia. First, medication contact allergy to corticosteroids will be discussed along with its five structural classes (A, B, C, D1, D2) and their steroid test compounds (tixocortol-21-pivalate, triamcinolone acetonide, budesonide, clobetasol-17-propionate, hydrocortisone-17-butyrate). Cross-reactivities between the steroid classes will also be examined. Next, estrogen and testosterone transdermal therapeutic systems, local anesthetic (benzocaine, lidocaine, pramoxine, dyclonine) antihistamines (piperazine, ethanolamine, propylamine, phenothiazine, piperidine, and pyrrolidine), topical antibiotics (neomycin, spectinomycin, bacitracin, mupirocin), and sunscreen are evaluated for their potenti",
+      "journal": "Clinical reviews in allergy & immunology",
+      "year": "2019",
+      "authors": [
+        "Nguyen Henry L",
+        "Yiannias James A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Allergens",
+        "Animals",
+        "Cosmetics",
+        "Dermatitis, Allergic Contact",
+        "Drug Hypersensitivity",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30145645/"
+    },
+    {
+      "pmid": "16733453",
+      "title": "[Improvement of Darier's disease on treatment with topical 5-fluorouracil].",
+      "abstract": "Darier's disease is an inherited genodermatosis with autosomal dominant transmission characterized by hyperkeratotic papules of seborrheic regions in the axillae, groin or submammary skin in women. Current therapeutic alternatives are poor, encouraging recourse to alternatives treatments such as topical 5-fluorouracil (Efudix) used until now for pre-epitheliomatous keratosis.",
+      "journal": "Annales de dermatologie et de venereologie",
+      "year": "2006",
+      "authors": [
+        "Velasco S",
+        "Guillet G"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Antimetabolites",
+        "Darier Disease",
+        "Fluorouracil",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16733453/"
+    },
+    {
+      "pmid": "36483234",
+      "title": "Erosive pustular dermatosis of the scalp and multiple sclerosis: just a coincidence?",
+      "abstract": "We report the case of a 23-year-old woman with an erythematous, crusted patch of the scalp, lacking pustular lesions, with partial hair loss, developed after mechanical scalp trauma. Histopathological examination showed a dermal infiltrate, predominantly peri-adnexal and peri-vascular, rich in plasma cells and lymphocytes, but lacking neutrophils, possibly as a consequence of the time elapsed since the onset of the skin disease. Reduction of functional hair follicles was evidenced. Stains for bacterial or fungal infections were negative. Direct immunofluorescence was negative. Erosive pustular dermatosis of the scalp was diagnosed on the basis of clinical-anamnestic findings, supported by histology. Topical clobetasol propionate led to clinical improvement after a couple of weeks. Erosive pustular dermatosis of the scalp was diagnosed and soon after the patient developed also multiple sclerosis. Up to date, the pathogenesis of erosive pustular dermatosis of the scalp remains unknown, t",
+      "journal": "Dermatology reports",
+      "year": "2022",
+      "authors": [
+        "Molle Mattia Fabio",
+        "Burroni Anna Graziella",
+        "Herzum Astrid",
+        "Parodi Aurora"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36483234/"
+    },
+    {
+      "pmid": "20715392",
+      "title": "Scalp psoriasis.",
+      "abstract": "Psoriasis is a chronic, debilitating disease that commonly involves the scalp. Despite a wide range of therapy options, scalp psoriasis remains difficult to treat, highlighting a long-standing unmet need for the safe and effective treatment of scalp psoriasis. Many topical therapies for scalp psoriasis are also difficult or unpleasant to apply, resulting in decreased adherence and efficacy. In brief, the high level of patient dissatisfaction with currently available treatments for psoriasis supports the need for new, effective and well-tolerated treatment options for scalp psoriasis. This article aims to review the efficacy and safety of new formulations and treatment options available to control scalp psoriasis. For example, a new formulation of calcipotriene/betamethasone scalp solution has a rapid onset of action with once daily dosing that improves compliance. The CalePso study examines the safety profile of otherwise established Clobetasol propionate (CP) shampoo 0.05%, and report",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "year": "2010",
+      "authors": [
+        "Kircik Leon H",
+        "Kumar Sandeep"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Betamethasone",
+        "Calcitriol",
+        "Clobetasol",
+        "Coal Tar",
+        "Drug Combinations",
+        "Glucocorticoids",
+        "Humans",
+        "Keratolytic Agents",
+        "Psoriasis",
+        "Scalp Dermatoses"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20715392/"
+    },
+    {
+      "pmid": "37063403",
+      "title": "Erosive pustular dermatosis of the scalp: a pathogenetic mystery and therapeutic challenge.",
+      "abstract": "Erosive pustular dermatosis of the scalp (EPD) is a rare condition that affects predominantly the adult population and occurs on a previously photo-damaged bald scalp. The physical examination is presented with large erythematous, erosive and crusted patches with granulation on an atrophic skin. The problem in patients with erosive pustular dermatosis of the scalp arises from the non-specific clinical and histopathological findings, which can be misleading. Biopsy followed by careful histopathological verification is mandatory, although the finding is nonspecific. The histopathology findings are characterized by superficial erosions with mild neutrophil infiltrate, mainly intravascular and focally with neutrophil exocytosis; focal parakeratosis, smoothed rete ridges without pronounced interface changes; pronounced lymphoplasmacytic infiltrate with focal distribution in the dermis and giant cell reaction with the formation of a \"foreign body\" granuloma.. We report a 58-year-old male pat",
+      "journal": "Dermatology reports",
+      "year": "2023",
+      "authors": [
+        "Tchernev Georgi",
+        "Kordeva Simona",
+        "Batashki Ilia",
+        "Batashki Atanas",
+        "Kirilova Heily"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37063403/"
+    },
+    {
+      "pmid": "11705308",
+      "title": "Clobetasol propionate foam, 0.05%.",
+      "abstract": "Clobetasol propionate foam (clobetasol foam), a new formulation of the superpotent corticosteroid, has anti-inflammatory, antipruritic and vasoconstrictive properties. It was reported that the absorption rate of clobetasol was greater from the foam than from the solution in cadaver skin. In patients with moderate to severe scalp psoriasis, topical application of clobetasol 0.05% foam twice daily for 2 weeks induced significant improvement of all signs and symptoms of the disease compared with placebo. Compared with clobetasol 0.05% solution, clobetasol foam demonstrated greater improvement of scaling after 2 weeks of treatment and after 2 weeks of follow-up. The investigator's global assessment rated 74% of patients in the clobetasol foam group to be clear or almost clear (90 to 100%) of scalp psoriasis compared with 10% of the placebo foam group. Adverse events at the application site of clobetasol 0.05% foam were limited to one case each of dry skin, eczema, and skin hypertrophy. Clo",
+      "journal": "American journal of clinical dermatology",
+      "year": "2001",
+      "authors": [
+        "Melian E B",
+        "Spencer C M",
+        "Jarvis B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Anti-Inflammatory Agents",
+        "Clobetasol",
+        "Drug Administration Schedule",
+        "Female",
+        "Glucocorticoids",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11705308/"
+    },
+    {
+      "pmid": "19454093",
+      "title": "Seborrhoeic dermatitis.",
+      "abstract": "Seborrhoeic dermatitis affects at least 1-3% of the population. Malassezia (Pityrosporum) ovale is thought to be the causative organism, and causes inflammation involving T cells and complement. Seborrhoeic dermatitis tends to relapse after treatment.",
+      "journal": "BMJ clinical evidence",
+      "year": "2007",
+      "authors": [
+        "Manríquez Juan Jorge",
+        "Uribe Pablo"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Administration, Topical",
+        "Dermatitis, Seborrheic",
+        "Face",
+        "Humans",
+        "Ketoconazole",
+        "Lithium",
+        "Malassezia",
+        "Remission Induction",
+        "Scalp Dermatoses"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19454093/"
+    },
+    {
+      "pmid": "20184211",
+      "title": "Clobetasol propionate shampoo 0.05% is efficacious and safe for long-term control of scalp psoriasis.",
+      "abstract": "Clobetasol propionate (CP) shampoo 0.05% is an efficacious and safe treatment for scalp psoriasis. The aim of this double-blind, randomized, placebo-controlled study was to determine if CP shampoo is suitable for long-term disease control. Participants with moderate to severe scalp psoriasis (global severity score [GSS] of 3 or 4 on a scale of 0 [clear] to 5 [very severe]) first received once daily CP shampoo treatment for up to 4 weeks. Responders were subsequently randomized to receive the CP shampoo or vehicle twice weekly maintenance regimen for up to 6 months. When relapse occurred (defined as GSS > 2), participants resumed once daily CP shampoo treatment; when symptoms diminished (GSS < or = 2), they readopted the twice weekly maintenance regimen. At all visits significantly more participants treated with CP shampoo did not relapse compared with participants treated with vehicle (P < .001). Only approximately one-third of participants treated with vehicle remained relapse free at",
+      "journal": "Cutis",
+      "year": "2010",
+      "authors": [
+        "Poulin Yves",
+        "Papp Kim",
+        "Bissonnette Robert",
+        "Guenther Lyn",
+        "Tan Jerry"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Clobetasol",
+        "Double-Blind Method",
+        "Female",
+        "Glucocorticoids",
+        "Hair Preparations",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20184211/"
+    },
+    {
+      "pmid": "20131980",
+      "title": "Clobetasol propionate shampoo 0.05% is efficacious and safe for long-term control of moderate scalp psoriasis.",
+      "abstract": "We evaluated in this study the efficacy and safety of an alternate regimen using clobetasol propionate 0.05% shampoo (CP shampoo) for long-term control of scalp psoriasis. Patients with moderate scalp psoriasis (Global Severity Score [GSS] of 3 on a 0-5 scale) first received CP shampoo once daily for 4 weeks. Patients with a GSS <or= 2 were then randomized into the maintenance phase, receiving CP shampoo or vehicle twice weekly. When relapse (GSS > 2) occurred, patients received the 4-week daily CP shampoo treatment. Patients who had a GSS <or= 2 afterwards reinitiated the twice-weekly maintenance according to the original randomization scheme. Among the 168 patients enrolled, 141 (83.9%) had a GSS <or= 2 after the initial phase. The median time to first relapse was 141 days with CP shampoo, almost 4 months later than with vehicle (30.5 days;p < 0.0001). After 6 months, the percentage of patients who had no relapse was significantly higher with CP shampoo (40.3%) than with vehicle (11.",
+      "journal": "The Journal of dermatological treatment",
+      "year": "2010",
+      "authors": [
+        "Poulin Yves",
+        "Papp Kim",
+        "Bissonnette Robert",
+        "Barber Kirk",
+        "Kerrouche Nabil"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Adult",
+        "Clobetasol",
+        "Dose-Response Relationship, Drug",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "Female",
+        "Follow-Up Studies",
+        "Hair Preparations"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20131980/"
+    },
+    {
+      "pmid": "795609",
+      "title": "Local treatment of psoriasis of the scalp with clobetasol propionate and betamethasone-17,21-dipropionate: a double-blind comparison.",
+      "abstract": "A double-blind evaluation was carried out in 40 patients with moderate to severe psoriasis of the scalp to assess the effectiveness of a 0.05% alcoholic solution of clobetasol propionate as compared with a 0.05% alcoholic solution of betamethasone-17,21-dipropionate. Patients were treated on a non-selective basis with a twice a day application for 2 weeks. When comparing the effects on the parameters scaling, induration, erythema and itching it was concluded that clobetasol propionate was superior to betamethasone-17,21-dipropionate as an antipsoriatic compound. Clobetasol propionate did not cause any side-effects, while 2 of the patients using betamethasone-17,21-dipropionate developed a forehead folliculitis during the second week of treatment.",
+      "journal": "Current medical research and opinion",
+      "year": "1976",
+      "authors": [
+        "Lassus A"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Betamethasone",
+        "Clinical Trials as Topic",
+        "Clobetasol",
+        "Humans",
+        "Psoriasis",
+        "Scalp Dermatoses"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/795609/"
+    },
+    {
+      "pmid": "15897165",
+      "title": "Clobetasol propionate shampoo 0.05% and calcipotriol solution 0.005%: a randomized comparison of efficacy and safety in subjects with scalp psoriasis.",
+      "abstract": "Scalp involvement in psoriatic patients represents a common issue. Treatment of the hairy skin requires adequate pharmaceutical formulations; hence, a new specific shampoo formulation of clobetasol propionate 0.05% was developed by Galderma R&D, Inc.",
+      "journal": "The Journal of dermatological treatment",
+      "year": "2005",
+      "authors": [
+        "Reygagne P",
+        "Mrowietz U",
+        "Decroix J",
+        "de Waard-van der Spek F B",
+        "Acebes L Olmos"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adult",
+        "Calcitriol",
+        "Clobetasol",
+        "Dermatologic Agents",
+        "Female",
+        "Hair Preparations",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15897165/"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ drugbank_id: "DB00030"
 drug_name: "Insulin Human"
 kg_predictions: 110
 dl_predictions: 20
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 110
 brands: []
 permalink: /drugs/insulin-human/
@@ -21,7 +21,7 @@ permalink: /drugs/insulin-human/
 | **DrugBank ID** | [DB00030](https://go.drugbank.com/drugs/DB00030) |
 | **KG Predictions** | 110 |
 | **DL Predictions (≥0.7)** | 20 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

@@ -1,0 +1,738 @@
+{
+  "drug": "Loratadine",
+  "drugbank_id": "DB00455",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:17:11Z",
+  "indications": [
+    {
+      "indication": "pharyngitis",
+      "evidence_level": "L1",
+      "trials": 2,
+      "articles": 7,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 4,
+        "review_articles": 2,
+        "other_articles": 1,
+        "total_trials": 2,
+        "total_articles": 7
+      }
+    },
+    {
+      "indication": "papillary conjunctivitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "vasomotor rhinitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 2,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 2
+      }
+    },
+    {
+      "indication": "common cold",
+      "evidence_level": "L1",
+      "trials": 3,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 2,
+        "review_articles": 4,
+        "other_articles": 4,
+        "total_trials": 3,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "nasopharyngitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    }
+  ],
+  "total_trials": 5,
+  "total_articles": 19,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06531707",
+      "title": "Efficacy and Safety of Ibuprofen/Loratadine Fixed-dose Combination Versus the Fixed-dose Administration of Monotherapy as Symptomatic Treatment for Patients With the Common Cold",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-05-20",
+      "completion_date": "2025-02-20",
+      "country": "Mexico",
+      "enrollment": 177,
+      "brief_summary": "Phase III longitudinal, multicenter, randomized, double-blind clinical trial. The aim of this study is to evaluate the efficacy and safety of the drug combination of Ibuprofen/Loratadine versus Ibuprofen versus Loratadine as monotherapy for the symptomatic treatment of the common cold.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Agree to participate in the study and give written informed consent\n* At least 6 points on the Jackson scale according to physical examination and questioning (sneezing, runny nose, nasal obstruction, sore throat, cough, headache, malaise, and chills).\n* Symptoms associated wi",
+      "endpoints": [
+        "Assess the improvement in symptoms, comparing the percentage change through the Jackson score",
+        "Number of participants with treatment-related adverse events through the patient's diary record, by treatment group"
+      ],
+      "sponsor": "Laboratorios Silanes S.A. de C.V.",
+      "url": "https://clinicaltrials.gov/study/NCT06531707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05275933",
+      "title": "Assessing the Efficacy of TCM Capsules Lian Hua Qing Wen Jiao Nang as Adjuvant Treatment in Mild COVID-19 Patients on Home Recovery Program in Singapore: a Randomised, Double-blind, Placebo-controlled Study",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2022-04-05",
+      "completion_date": "2023-11-22",
+      "country": "Singapore",
+      "enrollment": 93,
+      "brief_summary": "This research aims to investigate the adjuvant effect of LH in reducing the symptomatic duration of fully vaccinated, mild COVID-19 patients on home recovery program in Singapore. It is aimed to assist policymakers in incorporating clinically proven TCM treatment for mild COVID-19 patients on home recovery program, and establishing a guideline on TCM pandemic treatment protocol which is suitable to be integrated into the healthcare system.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants of age 21 to 79 years, all gender and races.\n2. Participant provides informed consent prior to initiation of any study procedures.\n3. Fully vaccinated (according to latest MOH criteria. Refer to Appendix 1) and qualified for Protocol 2 Primary Care (P2PC) (Append",
+      "endpoints": [
+        "1.1 Time (Days) to become asymptomatic (the event) for all 8 major COVID-19 symptoms."
+      ],
+      "sponsor": "Singapore Chung Hwa Medical Institution",
+      "url": "https://clinicaltrials.gov/study/NCT05275933"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06217367",
+      "title": "Do Common Over-the-counter Antihistamine Medications Modify Thermoregulatory Responses During Passive Heat Stress?",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-12-05",
+      "completion_date": "2024-06",
+      "country": "Canada",
+      "enrollment": 16,
+      "brief_summary": "Allergic rhinitis (AR) currently affects \\~25% of Canadians, and due to factors of climate change, this number is expected to increase over the coming decade. AR symptoms can significantly impact individuals' quality of life by compromising sleep, productivity, and social interactions. To alleviate AR symptoms, North Americans tend to rely on H1 antihistamine medications available over-the-counter (OTC) at most pharmacies. However, public health authorities currently suggest restraining all anti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female between ages 19 and 39 years\n* Fully vaccinated against COVID-19\n* Able to provide informed consent\n* Body-mass index under 30\n\nExclusion Criteria:\n\n* Body-mass index over 30\n* Currently taking sedative or autonomic nervous system depressant medication\n* Hyperse",
+      "endpoints": [
+        "Whole-Body Sweat Losses",
+        "Skin Blood Flow",
+        "Heart Rate"
+      ],
+      "sponsor": "Lakehead University",
+      "url": "https://clinicaltrials.gov/study/NCT06217367"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06531707",
+      "title": "Efficacy and Safety of Ibuprofen/Loratadine Fixed-dose Combination Versus the Fixed-dose Administration of Monotherapy as Symptomatic Treatment for Patients With the Common Cold",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-05-20",
+      "completion_date": "2025-02-20",
+      "country": "Mexico",
+      "enrollment": 177,
+      "brief_summary": "Phase III longitudinal, multicenter, randomized, double-blind clinical trial. The aim of this study is to evaluate the efficacy and safety of the drug combination of Ibuprofen/Loratadine versus Ibuprofen versus Loratadine as monotherapy for the symptomatic treatment of the common cold.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Agree to participate in the study and give written informed consent\n* At least 6 points on the Jackson scale according to physical examination and questioning (sneezing, runny nose, nasal obstruction, sore throat, cough, headache, malaise, and chills).\n* Symptoms associated wi",
+      "endpoints": [
+        "Assess the improvement in symptoms, comparing the percentage change through the Jackson score",
+        "Number of participants with treatment-related adverse events through the patient's diary record, by treatment group"
+      ],
+      "sponsor": "Laboratorios Silanes S.A. de C.V.",
+      "url": "https://clinicaltrials.gov/study/NCT06531707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04645979",
+      "title": "The Perception of Celestamine Treatment in Mexico: a Retrospective Assessment of Consumer Perception of Prior Celestamine Use",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-11-11",
+      "completion_date": "2020-11-27",
+      "country": "Mexico",
+      "enrollment": 153,
+      "brief_summary": "Acute allergic rhinitis is a common allergic reaction to things like pollen or dust. It causes inflammation inside the nose, resulting in symptoms similar to the common cold. Allergic rhinitis is also known as hay fever.\n\nIn this study, the researchers want to learn what participants think of betamethasone plus loratadine as a treatment for their acute allergic rhinitis. These participants will have used betamethasone plus loratadine as a treatment for their acute allergic rhinitis within the pa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who used betamethasone plus loratadine within the previous 2 months for the treatment of acute episodes of allergic rhinitis\n* Participants allowing to use the data for research and marketing purposes as well as talking to authorities\n* Participants allowing us to",
+      "endpoints": [
+        "Experience with betamethasone plus loratadine via an online questionnaire"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT04645979"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "28441993",
+      "title": "Randomized, placebo-controlled study of cetirizine and loratadine in children with seasonal allergic rhinitis.",
+      "abstract": "Pharmacologic treatment is a mainstay of allergy therapy and many caregivers use over-the-counter antihistamines for the treatment of seasonal allergic rhinitis (SAR) symptoms in children.",
+      "journal": "Allergy and asthma proceedings",
+      "year": "2017",
+      "authors": [
+        "Nayak Anjuli S",
+        "Berger William E",
+        "LaForce Craig F",
+        "Urdaneta Eduardo R",
+        "Patel Mitesh K"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Anti-Allergic Agents",
+        "Cetirizine",
+        "Child",
+        "Female",
+        "Headache",
+        "Humans",
+        "Loratadine",
+        "Male",
+        "Pharyngitis",
+        "Rhinitis, Allergic, Seasonal"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28441993/"
+    },
+    {
+      "pmid": "12962522",
+      "title": "Desloratadine: an update of its efficacy in the management of allergic disorders.",
+      "abstract": "Desloratadine (Clarinex, Neoclarityn, Aerius, Azomyr, Opulis, Allex), the principal metabolite of loratadine, is itself an orally active, nonsedating, peripheral histamine H(1)-receptor antagonist. It is indicated in the US and Europe for the treatment of seasonal allergic rhinitis (SAR), perennial allergic rhinitis (PAR) and chronic idiopathic urticaria (CIU). It has a rapid onset of effect, efficacy throughout a 24-hour dosage interval, and sustained efficacy in these allergic conditions, as demonstrated in placebo-controlled trials of up to 6 weeks' duration in adult and adolescent patients. At present, there are no published direct comparisons of desloratadine and other H(1)-antihistamines; however, the principal, potential clinical advantages of desloratadine over late-generation H(1)-antihistamines are the drug's decongestant activity, which has been corroborated in several studies of patients with allergic rhinitis, and its anti-inflammatory effects. Indeed, the decongestant act",
+      "journal": "Drugs",
+      "year": "2003",
+      "authors": [
+        "Murdoch David",
+        "Goa Karen L",
+        "Keam Susan J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Clinical Trials as Topic",
+        "Drug Interactions",
+        "Histamine H1 Antagonists, Non-Sedating",
+        "Humans",
+        "Hypersensitivity",
+        "Loratadine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12962522/"
+    },
+    {
+      "pmid": "9806113",
+      "title": "Mometasone furoate. A review of its intranasal use in allergic rhinitis.",
+      "abstract": "Mometasone furoate is a synthetic corticosteroid which has been evaluated for intranasal use in the treatment of adults and children with allergic rhinitis. In several large, well-controlled clinical trials, mometasone furoate 200 micrograms administered once daily as an aqueous intranasal spray was significantly more effective than placebo in controlling the symptoms associated with moderate to severe seasonal or perennial allergic rhinitis. Mometasone furoate was as effective as twice-daily beclomethasone dipropionate or once-daily fluticasone propionate in the treatment of perennial allergic rhinitis, and was as effective as twice-daily beclomethasone dipropionate and slightly more effective than once-daily oral loratadine in the treatment of seasonal allergic rhinitis. Mometasone furoate was also as effective as twice-daily beclomethasone dipropionate or once-daily budesonide, and significantly more effective than placebo in the prophylaxis of seasonal allergic rhinitis. The onset ",
+      "journal": "Drugs",
+      "year": "1998",
+      "authors": [
+        "Onrust S V",
+        "Lamb H M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Allergic Agents",
+        "Humans",
+        "Mometasone Furoate",
+        "Pregnadienediols",
+        "Rhinitis, Allergic, Perennial",
+        "Rhinitis, Allergic, Seasonal"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9806113/"
+    },
+    {
+      "pmid": "12642846",
+      "title": "Efficacy and safety of desloratadine in the treatment of perennial allergic rhinitis.",
+      "abstract": "The evidence base for the use of H1-antihistamines in the treatment of perennial allergic rhinitis is considerably smaller than it is in the treatment of seasonal allergic rhinitis.",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2003",
+      "authors": [
+        "Simons F Estelle R",
+        "Prenner Bruce M",
+        "Finn Albert"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Child",
+        "Double-Blind Method",
+        "Female",
+        "Histamine H1 Antagonists, Non-Sedating",
+        "Humans",
+        "Loratadine",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12642846/"
+    },
+    {
+      "pmid": "11277962",
+      "title": "Once-daily desloratadine improves the signs and symptoms of chronic idiopathic urticaria: a randomized, double-blind, placebo-controlled study.",
+      "abstract": "Chronic idiopathic urticaria (CIU) is the most common type of chronic urticaria, and pruritus is the most prominent symptom. Antihistamines are the first-line treatment for CIU. Sedation and anticholinergic adverse effects are often experienced with the first-generation antihistamines and there is a risk of cardiovascular adverse effects and drug interactions with some second-generation agents. Hence, new treatment options are needed. Desloratadine is a new, potent, nonsedating antihistamine that has an excellent cardiovascular safety profile.",
+      "journal": "International journal of dermatology",
+      "year": "2001",
+      "authors": [
+        "Ring J",
+        "Hein R",
+        "Gauger A",
+        "Bronsky E",
+        "Miller B"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Cholinergic Antagonists",
+        "Chronic Disease",
+        "Dizziness",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Fatigue",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11277962/"
+    },
+    {
+      "pmid": "8621843",
+      "title": "Intranasal fluticasone propionate versus loratadine in the treatment of adolescent patients with seasonal allergic rhinitis.",
+      "abstract": "Fluticasone propionate (FP) is a topical corticosteroid with minimal systemic activity. We examined safety and compared the efficacy of FP aqueous nasal spray, 200 micrograms every day with loratadine tablets, 10 mg by mouth every day in 240 adolescents with ragweed pollen-induced seasonal allergic rhinitis for 4 weeks in a randomized, double-blind, parallel-group study. Nasal and eye symptoms were recorded daily on a 4-point (0 to 3) scale. A higher percentage of symptom-free days was observed for nasal blockage on waking during treatment with FP (p < 0.0001). Significant results were also obtained for all other nasal symptoms when analyzed for both symptom-free days and symptom scores. No differences were found for eye irritation symptoms (p = 0.14). Morning and evening nasal peak inspiratory flow (PIF) was recorded daily by 57 subjects. FP treatment was associated wit significantly higher PIF values than loratadine both morning (p = 0.0051) and evening (p = 0.0036). A greater improv",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "1996",
+      "authors": [
+        "Jordana G",
+        "Dolovich J",
+        "Briscoe M P",
+        "Day J H",
+        "Drouin M A"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Intranasal",
+        "Adolescent",
+        "Androstadienes",
+        "Anti-Allergic Agents",
+        "Child",
+        "Double-Blind Method",
+        "Female",
+        "Fluticasone",
+        "Headache",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8621843/"
+    },
+    {
+      "pmid": "19821542",
+      "title": "Best drugs for what ails you: the brands to buy--and those to skip.",
+      "abstract": "",
+      "journal": "Consumer reports",
+      "year": "2009",
+      "authors": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acetaminophen",
+        "Anesthetics, Local",
+        "Cetirizine",
+        "Chlorpheniramine",
+        "Common Cold",
+        "Cough",
+        "Dextromethorphan",
+        "Diphenhydramine",
+        "Drug Costs",
+        "Drug Therapy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19821542/"
+    },
+    {
+      "pmid": "17376024",
+      "title": "Review of azelastine nasal spray in the treatment of allergic and non-allergic rhinitis.",
+      "abstract": "Azelastine is a potent H(1)-antihistamine, which is available as a topical nasal spray and indicated for both seasonal allergic and non-allergic vasomotor rhinitis. In addition to its antihistaminic effects, it has also been shown to have a number of other potentially important attributes, including effects on cytokines, adhesion molecules and inflammatory cells. Azelastine nasal spray has been shown to benefit patients who have not responded adequately to loratadine and fexofenadine, and is significantly more efficacious than cetirizine and levocabastine in patients with seasonal allergic rhinitis. Given its unique pharmacologic properties and clinical profile, azelastine maintains an important role in the treatment of chronic rhinitis.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2007",
+      "authors": [
+        "Lee Christina",
+        "Corren Jonathan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Intranasal",
+        "Animals",
+        "Anti-Allergic Agents",
+        "Biological Availability",
+        "Humans",
+        "Phthalazines",
+        "Randomized Controlled Trials as Topic",
+        "Rhinitis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17376024/"
+    },
+    {
+      "pmid": "28005035",
+      "title": "[Acute respiratory viral infections: Topical issues of diagnosis, prevention and treatment in therapeutic practice].",
+      "abstract": "to assess the efficacy and safety of the medication Grippferon with loratadine for the prevention of acute respiratory viral infections (ARVI) and influenza during the epidemics.",
+      "journal": "Terapevticheskii arkhiv",
+      "year": "2016",
+      "authors": [
+        "Trukhan D I",
+        "Mazurov A L",
+        "Rechapova L A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adult",
+        "Antiviral Agents",
+        "Common Cold",
+        "Female",
+        "Humans",
+        "Influenza, Human",
+        "Male",
+        "Respiratory Tract Infections",
+        "Seasons"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28005035/"
+    },
+    {
+      "pmid": "10776186",
+      "title": "Use of cough and cold preparations during breastfeeding.",
+      "abstract": "Adverse reactions in infants from maternal drug ingestion depend largely on the amount of milk consumed by the infant, timing of breastfeeding in relation to dosing, dose of the medication, dosing interval, and duration of therapy. When taking medications, breastfeeding mothers should be instructed to take their medication after breastfeeding, at the lowest effective dose and for the shortest duration. Overall, there are few data from human studies on the use of antihistamines, decongestants, and cough products during breastfeeding. Studies of pseudoephedrine, triprolidine, and loratadine in humans conclude that low levels of each drug would reach a breastfed infant. Since triprolidine and pseudoephedrine are also considered compatible with breastfeeding by the AAP, these 2 drugs should be the first-line choices. Codeine is considered compatible with breastfeeding by the AAP, and would be an acceptable choice for short-term use as a cough suppressant. It is important to note that many ",
+      "journal": "Journal of human lactation : official journal of International Lactation Consultant Association",
+      "year": "1999",
+      "authors": [
+        "Mitchell J L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antitussive Agents",
+        "Breast Feeding",
+        "Common Cold",
+        "Cough",
+        "Expectorants",
+        "Female",
+        "Histamine H1 Antagonists",
+        "Humans",
+        "Infant, Newborn",
+        "Lactation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10776186/"
+    },
+    {
+      "pmid": "2529799",
+      "title": "The effectiveness of the nonsedating antihistamine loratadine plus pseudoephedrine in the symptomatic management of the common cold.",
+      "abstract": "A multicentered trial compared the effects of the non-sedating antihistamine, loratadine, 5 mg plus pseudoephedrine 120 mg with a placebo on the signs and symptoms of the common cold. One hundred forty-two (142) subjects were treated with the loratadine/pseudoephedrine combination and 141 subjects were treated with placebo twice daily for five days. Evaluations by both subjects and physicians suggest that this antihistamine/decongestant combination is superior to placebo in relieving symptoms of the common cold. Specific differences were found in symptoms including nasal congestion, sneezing, postnasal drainage, and nasal discharge. Differences between groups for the following side effects were found: dry mouth (9% for the combination vs 2% for placebo), insomnia (6% vs 3%), and nervousness (4% vs 2%). There were no differences between groups for the frequency of drowsiness.",
+      "journal": "Annals of allergy",
+      "year": "1989",
+      "authors": [
+        "Berkowitz R B",
+        "Connell J T",
+        "Dietz A J",
+        "Greenstein S M",
+        "Tinkelman D G"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Child",
+        "Common Cold",
+        "Cyproheptadine",
+        "Double-Blind Method",
+        "Drug Combinations",
+        "Ephedrine",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2529799/"
+    },
+    {
+      "pmid": "11588693",
+      "title": "Variant effect of first- and second-generation antihistamines as clues to their mechanism of action on the sneeze reflex in the common cold.",
+      "abstract": "Treatment with first-generation antihistamines reduces sneezing, rhinorrhea, nasal mucus weight, and, in some instances, cough in subjects with experimental or natural colds; however, treatment with second-generation antihistamines has not been effective for these complaints in trials in subjects with natural colds. This article reports the negative results of a clinical trial with loratadine, a second-generation antihistamine, in adults in the rhinovirus challenge model. This finding in the highly controlled setting of the challenge model confirms the earlier negative studies with second-generation antihistamines in natural colds. First-generation antihistamines block both histaminic and muscarinic receptors as well as passing the blood-brain barrier. Second-generation antihistamines mainly block histaminic receptors and do not pass the blood-brain barrier. The effectiveness of first-generation antihistamines in blocking sneezing in colds may be due primarily to neuropharmacological m",
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "year": "2001",
+      "authors": [
+        "Muether P S",
+        "Gwaltney J M"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Common Cold",
+        "Histamine H1 Antagonists",
+        "Humans",
+        "Intercellular Adhesion Molecule-1",
+        "Loratadine",
+        "Mucus",
+        "Rhinovirus",
+        "Sneezing",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11588693/"
+    },
+    {
+      "pmid": "16291073",
+      "title": "Non-antibiotic treatments for upper-respiratory tract infections (common cold).",
+      "abstract": "To review the seven Cochrane reviews of non-antibiotic treatment for the common cold.",
+      "journal": "Respiratory medicine",
+      "year": "2005",
+      "authors": [
+        "Arroll B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Ascorbic Acid",
+        "Child",
+        "Common Cold",
+        "Echinacea",
+        "Evidence-Based Medicine",
+        "Histamine H1 Antagonists",
+        "Hot Temperature",
+        "Humans",
+        "Humidity"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16291073/"
+    },
+    {
+      "pmid": "2523301",
+      "title": "Loratadine. A preliminary review of its pharmacodynamic properties and therapeutic efficacy.",
+      "abstract": "Loratadine is a long acting antihistamine which has a high selectivity for peripheral histamine H1-receptors and lacks the central nervous system depressant effects often associated with some of the older antihistamines. Results from controlled clinical trials have shown that loratadine (usually 10mg once daily) is a well-tolerated and effective antihistamine which will be beneficial in patients with allergic rhinitis and chronic urticaria. It was found to be significantly superior to placebo, faster acting than astemizole and as effective as usual dosages of terfenadine, clemastine, mequitazine and azatadine in eliciting relief of symptoms. Importantly, loratadine is associated with a lower incidence of sedation than azatadine, clemastine, chlorpheniramine and mequitazine. Thus, loratadine, with its convenience of once daily administration, will be a useful addition to those drugs currently available for the treatment of patients with allergic diseases in whom a histamine H1-receptor ",
+      "journal": "Drugs",
+      "year": "1989",
+      "authors": [
+        "Clissold S P",
+        "Sorkin E M",
+        "Goa K L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Common Cold",
+        "Cyproheptadine",
+        "Female",
+        "Humans",
+        "Loratadine",
+        "Male",
+        "Rhinitis, Allergic, Perennial",
+        "Rhinitis, Allergic, Seasonal",
+        "Urticaria"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2523301/"
+    },
+    {
+      "pmid": "19032340",
+      "title": "Ebastine in allergic rhinitis and chronic idiopathic urticaria.",
+      "abstract": "Histamine is a key mediator in the development of allergy symptoms, and oral H(1)-antihistamines are among the most widely used treatments for symptomatic relief in conditions such as allergic rhinitis and chronic urticaria. Ebastine is a second-generation antihistamine which has been shown to be an effective treatment for both seasonal and perennial allergic rhinitis. In controlled clinical trials in adult and adolescent patients with allergic rhinitis, ebastine 10 mg once-daily improved symptoms to a significantly greater extent than placebo and to a similar extent as loratadine 10 mg and cetirizine 10 mg (both once-daily), while ebastine 20 mg proved to be more effective than these two comparator antihistamines. In addition, ebastine was significantly more effective than placebo at relieving the symptoms of chronic idiopathic urticaria. Ebastine provides efficacy throughout the 24-h dosing interval with once-daily administration and clinical benefit is seen from the first day of tre",
+      "journal": "Allergy",
+      "year": "2008",
+      "authors": [
+        "Sastre J"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Butyrophenones",
+        "Chronic Disease",
+        "Histamine H1 Antagonists",
+        "Humans",
+        "Piperidines",
+        "Rhinitis, Allergic, Perennial",
+        "Rhinitis, Allergic, Seasonal",
+        "Urticaria"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19032340/"
+    },
+    {
+      "pmid": "15992014",
+      "title": "Therapeutic advantages of third generation antihistamines.",
+      "abstract": "A third generation of antihistamines is emerging for the treatment of allergic rhinitis and chronic urticaria. First generation antihistamines are among the most widely used drugs in the world, and provide symptomatic relief from allergies and the common cold to millions of patients, mainly in OTC combination preparations. Their full potential is limited by the sedation caused by their effects on histamine receptors in the brain. Second generation antihistamines (terfenadine, astemizole, loratadine and cetirizine), which block peripheral H1 receptors without penetrating the blood-brain barrier, were developed and introduced from 1981 onwards to provide comparable therapeutic benefit without the CNS side-effects. Although largely successful in this goal, terfenadine and astemizole were found to cause potentially serious arrhythmias when plasma concentrations became elevated subsequent to impaired metabolism. It was established that the cardiac toxicity was mainly due to the parent drugs",
+      "journal": "Expert opinion on investigational drugs",
+      "year": "1998",
+      "authors": [
+        "Handley D A",
+        "Magnetti A",
+        "Higgins A J"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15992014/"
+    },
+    {
+      "pmid": "27787269",
+      "title": "Management of Patient Experience With ATX-101 (Deoxycholic Acid Injection) for Reduction of Submental Fat.",
+      "abstract": "ATX-101 (deoxycholic acid injection; Kythera Biopharmaceuticals, Inc., Westlake Village, CA [an affiliate of Allergan plc, Dublin, Ireland]) was recently approved for submental fat (SMF) reduction in the United States (Kybella) and Canada (Belkyra). The pivotal trials supporting these approvals revealed that ATX-101 is associated with common injection-site treatment reactions consistent with its mechanism of action and administration procedure.",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "year": "2016",
+      "authors": [
+        "Dover Jeffrey S",
+        "Kenkel Jeffrey M",
+        "Carruthers Alastair",
+        "Lizzul Paul F",
+        "Gross Todd M"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Chin",
+        "Contusions",
+        "Cosmetic Techniques",
+        "Deoxycholic Acid",
+        "Dermatologic Agents",
+        "Double-Blind Method",
+        "Edema",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27787269/"
+    },
+    {
+      "pmid": "26676189",
+      "title": "Do pediatric medicines induce topographic changes in dental enamel?",
+      "abstract": "The purpose of the present study was to evaluate the effect of common pediatric liquid medicines on surface roughness and tooth structure loss and to evaluate the pH values of these medicines at room and cold temperatures in vitro. Eighty-four bovine enamel blocks were divided into seven groups (n = 12): G1-Alivium®, G2-Novalgina®, G3-Betamox®, G4-Clavulin®, G5-Claritin®, G6-Polaramine® and G7-Milli-Q water (negative control). The pH was determined and the samples were immersed in each treatment 3x/day for 5 min. 3D non-contact profilometry was used to determine surface roughness (linear Ra, volumetric Sa) and the Gap formed between treated and control areas in each block. Scanning electron microscopy (SEM) and energy dispersive spectrometry (EDS) were also performed. The majority of liquid medicines had pH ≤ 5.50. G1, G4, and G5 showed alterations in Ra when compared with G7 (p < 0.05). According to Sa and Gap results, only G5 was different from G7 (p < 0.05). Alteration in surface wa",
+      "journal": "Brazilian oral research",
+      "year": "2016",
+      "authors": [
+        "Alexandria Adílis Kalina",
+        "Meckelburg Nicolli de Araujo",
+        "Puetter Ursula Tavares",
+        "Salles Jordan Trugilho",
+        "Souza Ivete Pomarico Ribeiro"
+      ],
+      "pub_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Analgesics",
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Cattle",
+        "Chlorpheniramine",
+        "Cold Temperature",
+        "Dental Enamel",
+        "Dipyrone",
+        "Hardness Tests"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26676189/"
+    },
+    {
+      "pmid": "31888713",
+      "title": "Efficacy of Bimin decoction for patients with perennial allergic rhinitis: an open-label non-inferiority randomized controlled trial.",
+      "abstract": "Allergic rhinitis (AR) is a common allergic disease. It affects people worldwide and traditional Chinese medicine is becoming popular among AR patients because it has a definite clinical effect and there are few adverse reactions. Lung qi deficiency and cold syndrome (LQDCS) is a frequent type of AR, and the Chinese herbal medicine bimin decoction (BMD) is prescribed for it. This study compared the clinical efficacy of BMD for AR patients with LQDCS to the conventional medicine loratadine and fluticasone nasal spray.",
+      "journal": "Trials",
+      "year": "2019",
+      "authors": [
+        "Zhao Jingyi",
+        "Yan Xinyu",
+        "Gai Jianqing",
+        "Han Jinshuai",
+        "Zhang Hong"
+      ],
+      "pub_types": [
+        "Equivalence Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Allergic Agents",
+        "Drugs, Chinese Herbal",
+        "Female",
+        "Fluticasone",
+        "Humans",
+        "Loratadine",
+        "Male",
+        "Middle Aged",
+        "Nasal Obstruction"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31888713/"
+    }
+  ]
+}

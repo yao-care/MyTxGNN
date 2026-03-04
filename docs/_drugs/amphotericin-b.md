@@ -5,7 +5,7 @@ drugbank_id: "DB00681"
 drug_name: "Amphotericin B"
 kg_predictions: 106
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 106
 brands: []
 permalink: /drugs/amphotericin-b/
@@ -21,7 +21,7 @@ permalink: /drugs/amphotericin-b/
 | **DrugBank ID** | [DB00681](https://go.drugbank.com/drugs/DB00681) |
 | **KG Predictions** | 106 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

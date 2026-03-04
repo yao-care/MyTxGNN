@@ -5,7 +5,7 @@ drugbank_id: "DB01238"
 drug_name: "Aripiprazole"
 kg_predictions: 150
 dl_predictions: 74
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 150
 brands: []
 permalink: /drugs/aripiprazole/
@@ -21,7 +21,7 @@ permalink: /drugs/aripiprazole/
 | **DrugBank ID** | [DB01238](https://go.drugbank.com/drugs/DB01238) |
 | **KG Predictions** | 150 |
 | **DL Predictions (≥0.7)** | 74 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

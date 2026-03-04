@@ -1,0 +1,997 @@
+{
+  "drug": "Fluconazole",
+  "drugbank_id": "DB00196",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:24:57Z",
+  "indications": [
+    {
+      "indication": "esophageal candidiasis",
+      "evidence_level": "L1",
+      "trials": 7,
+      "articles": 8,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 3,
+        "rct_articles": 0,
+        "review_articles": 4,
+        "other_articles": 4,
+        "total_trials": 7,
+        "total_articles": 8
+      }
+    },
+    {
+      "indication": "vulvovaginal candidiasis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 9,
+        "phase2_trials": 4,
+        "phase1_trials": 2,
+        "other_trials": 5,
+        "rct_articles": 1,
+        "review_articles": 9,
+        "other_articles": 0,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "oral candidiasis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 9,
+        "phase2_trials": 5,
+        "phase1_trials": 0,
+        "other_trials": 6,
+        "rct_articles": 1,
+        "review_articles": 5,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "disseminated candidiasis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 11,
+        "phase2_trials": 3,
+        "phase1_trials": 0,
+        "other_trials": 6,
+        "rct_articles": 1,
+        "review_articles": 4,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "candidemia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 9,
+        "phase2_trials": 4,
+        "phase1_trials": 0,
+        "other_trials": 7,
+        "rct_articles": 0,
+        "review_articles": 4,
+        "other_articles": 6,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 87,
+  "total_articles": 47,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002339",
+      "title": "An Open Multicenter Trial of Fluconazole Oral Suspension in the Treatment of Esophageal Candidiasis in Immunocompromised Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "To determine the safety, toleration, and efficacy of fluconazole oral suspension in the treatment of esophageal candidiasis in immunocompromised patients, including those with AIDS.",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\n* AIDS or other immunocompromising condition.\n* Candidal esophagitis.\n* Life expectancy of at least 2 months.\n\nExclusion Criteria\n\nCo-existing Condition:\n\nPatients with the following symptoms or conditions are excluded:\n\n* Evidence of non-candidal systemic fu",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002339"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00666185",
+      "title": "A Phase 3, Randomized, Double-Blind, Comparative Trial of Micafungin Versus Fluconazole for the Treatment of Esophageal Candidiasis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-08",
+      "completion_date": "2004-02",
+      "country": "South Africa, Peru, Brazil",
+      "enrollment": 523,
+      "brief_summary": "To determine the efficacy and safety of IV Micafungin versus IV Fluconazole in the treatment of patients with Esophageal Candidiasis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of esophageal candidiasis confirmed by endoscopy\n* Negative pregnancy test in females of childbearing potential\n\nExclusion Criteria:\n\n* Pregnant or nursing\n* Evidence of liver disease\n* Presence of another active opportunistic fungal infection and/or receiving acute ",
+      "endpoints": [
+        "Endoscopic cure rate, defined as a mucosal grade of zero at the end of the therapy"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT00666185"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00041704",
+      "title": "A Phase 2 Open-Label Study of the Safety and Efficacy of Intravenous Anidulafungin as a Treatment for Azole-Refractory Mucosal Candidiasis.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-08",
+      "completion_date": "2004-08",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "Anidulafungin is an antifungal agent of the echinocandin class which is highly active in vitro against fluconazole resistant Candida species. The efficacy of anidulafungin has demonstrated in various animal models of fluconazole-resistant mucosal disease; as well as, in Phase 2 Esophageal Candidiasis studies. This study is intended to offer patients with FRMC an alternate therapy with amphotericin B or with other agents whose efficacy and/or safety are inadequate in the treatment of this disease",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of definite azole-refractory mucosal candidiasis (oral or oropharyngeal candidiasis or esophageal candidiasis), i.e., patients who have not responded to a prior 14-day course of fluconazole at a dose of at least 200 mg daily or other azole (e.g. voriconazole)\n* Grade",
+      "endpoints": [],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00041704"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000744",
+      "title": "A Randomized, Prospective, Double-Blind Study Comparing Fluconazole With Placebo for Primary and Secondary Prophylaxis of Mucosal Candidiasis in HIV-Infected Women",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1995-12",
+      "country": "United States",
+      "enrollment": 400,
+      "brief_summary": "To compare the efficacy of fluconazole versus placebo for the prevention of Candida esophagitis and vaginal/oropharyngeal candidiasis, including a comparison of the development of clinical resistance.\n\nFluconazole has been shown to be effective in preventing or suppressing candidiasis in HIV-negative women. An increasing likelihood of oral and esophageal candidiasis in conjunction with progressive immunosuppression raises the question of the potential role of prophylactic antifungal therapy in h",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\n* Evidence of HIV infection.\n* CD4+ count \\<= 300 cells/mm3 or \\<= 20 percent of total lymphocyte count.\n* Reasonably good health with a life expectancy of at least 6 months.\n* Pelvic exam including Pap smear or colposcopy performed within the past 90 days.\n\n",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000744"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002132",
+      "title": "Randomized, Controlled, Double-Blind Study of Itraconazole Oral Solution Versus Fluconazole Tablets for the Treatment of Esophageal Candidiasis.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "To evaluate the safety and efficacy of itraconazole oral solution versus fluconazole tablets for the treatment of esophageal candidiasis in immunocompromised patients.",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\n* Esophageal candidiasis.\n* Histological evidence of Candida spp. at baseline with confirmation by positive mycological culture.\n* HIV infection or other predisposing risk factor.\n* Life expectancy of at least 2 months.\n\nExclusion Criteria\n\nCo-existing Condit",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002132"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000676",
+      "title": "Randomized Comparative Study of Fluconazole Versus Clotrimazole Troches in the Prevention of Serious Fungal Infection in Patients With AIDS or Advanced AIDS-Related Complex. (A Nested Study of ACTG 081)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1993-11",
+      "country": "Tanzania, United States",
+      "enrollment": 500,
+      "brief_summary": "To study the effectiveness, safety, and tolerance of fluconazole versus clotrimazole troches (lozenges) as prophylaxis (preventive treatment) against fungal infections in patients enrolled in ACTG 081 (a study of prophylaxis against pneumocystosis, toxoplasmosis, and serious bacterial infection). Primarily, to compare the rates of invasive infections by C. neoformans, endemic mycoses, and Candida. To compare the mortality rates due to fungal infections between two antifungal prophylactic treatme",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nRequired:\n\n* Zidovudine (AZT).\n* Antipneumocystis prophylaxis.\n\nAllowed:\n\n* Topical suppressive antifungal agents.\n\nEligibility requirements are:\n\n* Participation in NIAID ACTG 081.\n* No history of systemic fungal infection, including esophageal or systemi",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000676"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002304",
+      "title": "A Randomized Comparative Multicenter Trial of Fluconazole and Ketoconazole in the Treatment of Esophageal Candidiasis in Immunocompromised Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "Canada, United States",
+      "enrollment": "N/A",
+      "brief_summary": "To compare the safety, tolerance, and effectiveness of fluconazole and ketoconazole in the treatment of candidal esophagitis in immunocompromised patients.",
+      "eligibility_criteria": "Inclusion Criteria\n\nPrior Medication:\n\nAllowed:\n\n* Cyclosporin if levels can be monitored for proper cyclosporin dose adjustment.\n\nExclusion Criteria\n\nCo-existing Condition:\n\nPatients with the following are excluded:\n\n* Evidence of noncandidal systemic fungal infections.\n* Leukopenia (white blood ce",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002304"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04956419",
+      "title": "A Randomized, Double-Blind, Double-Dummy, Parallel-Group, Fluconazole Controlled, Multicenter Phase III Clinical Study to Evaluate the Efficacy and Safety of SHR8008 vs. Fluconazole in Subjects With Acute Vulvovaginal Candidiasis (VVC)",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-04-24",
+      "completion_date": "2021-09-30",
+      "country": "China",
+      "enrollment": 322,
+      "brief_summary": "The purpose of this study is to evaluate the Efficacy and Safety of SHR8008 vs. Fluconazole In Subjects with Acute vulvovaginal Candidiasis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Females ≥18 and ≤75 years old;\n2. Clinical diagnosis with VVC episodes at screening, signs and symptoms score of ≥ 7, with a documented positive potassium hydroxide (KOH) or Gram staining;\n3. Subjects of childbearing potential must have a negative pregnancy test result at scr",
+      "endpoints": [
+        "The proportion of subjects with therapeutic cure"
+      ],
+      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04956419"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002122",
+      "title": "A Randomized Study of Daily and Intermittent Prophylactic Regimens for the Prevention of Disseminated Mycobacterium Avium Complex (MAC) and Fungal Infections in HIV-Infected Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 720,
+      "brief_summary": "PRIMARY: To determine the efficacy of azithromycin and rifabutin alone and in combination for the prevention of disseminated Mycobacterium avium Complex (MAC) infection in HIV-infected patients. To determine the efficacy of daily versus weekly fluconazole for the prevention of deep fungal infections in this patient population.\n\nSECONDARY: To determine the incidence of bacterial (including mycobacterial) infections, cryptosporidiosis, and toxoplasmosis in azithromycin versus non-azithromycin cont",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Preventive therapy with isoniazid for M. tuberculosis.\n* Maintenance therapy for CMV retinitis.\n\nPatients must have:\n\n* HIV infection or history of an AIDS-defining condition by CDC criteria.\n* One documented CD4 count \\< 100 cells/mm3 within 1",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002122"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03253094",
+      "title": "A Phase 2, Multicenter, Randomized, Double-Blind, Double-Dummy, Active-Controlled, Dose-Finding Study to Compare the Safety and Efficacy of Oral Ibrexafungerp (SCY-078) vs. Oral Fluconazole in Subjects With Acute Vulvovaginal Candidiasis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-08-01",
+      "completion_date": "2018-05-04",
+      "country": "United States",
+      "enrollment": 186,
+      "brief_summary": "This is a multicenter, randomized, double-blind, double-dummy, active-controlled, dose-finding study to compare the efficacy, safety and tolerability of oral SCY-078 versus oral fluconazole in adult female subjects 18 years and older with moderate to severe Acute Vulvovaginal Candidiasis (AVVC). Approximately 180 eligible subjects (30 subjects per treatment group) will be enrolled and randomized into the study.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Subject is a female of at least 18 years of age\n2. Subject has a diagnosis of symptomatic AVVC at baseline including a positive microscopic examination with 10% KOH in a vaginal sample revealing yeast forms (hyphae/pseudohyphae) or budding yeasts, and vaginal pH (≤4.5)\n\nK",
+      "endpoints": [
+        "Clinical Cure (Complete Resolution of Signs and Symptoms)"
+      ],
+      "sponsor": "Scynexis, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03253094"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02888197",
+      "title": "A Non-Interventional Extension Study to Investigate Vulvovaginal Candidiasis Recurrence and Candida Colonization Following a Phase 2 Randomized, Active-Controlled Study of Two Formulations of CD101 Compared to Fluconazole for the Treatment of Moderate to Severe Episodes of Acute Vulvovaginal Candidiasis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-08-16",
+      "completion_date": "2017-03-15",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "Non-interventional extension study to investigate VVC recurrence and candida colonization following the P2 acute VVC study",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Enrollment in and completed the primary study through the Day 28 visit.\n* Received at least one dose of study drug in the primary study\n* Able to give written informed consent prior to completion of the primary study\n\nExclusion Criteria:\n\n* Received systemic or topical vaginal",
+      "endpoints": [
+        "Time to recurrence of clinical signs/symptoms of VVC"
+      ],
+      "sponsor": "Cidara Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02888197"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04734405",
+      "title": "Phase IIb/III Parallel-arm, Random., Active-controlled, Double-blind, Double-dummy, Multicenter, Non-inferiority Study in Patients With RVVC to Compare Efficacy, Safety and Tolerability of Topically Administered ProF-001 to Oral Fluconazole",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-10-01",
+      "completion_date": "2022-12-30",
+      "country": "Slovakia, Poland, Austria",
+      "enrollment": 432,
+      "brief_summary": "This is a prospective, randomized, multi-center, active-controlled, double-blind, double-dummy, multicenter, non-inferiority study comparing the clinical efficacy, safety and tolerability of ProF-001 to fluconazole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female patients ≥ 18 years\n* Patients suffering from an acute episode in RVVC, characterized by:\n* Positive vaginal smear (native or KOH) for budding yeasts and/or (pseudo-) hyphae, normal or intermediate flora\n* Two or more of the following signs and symptoms of VVC that are ",
+      "endpoints": [
+        "Percentage of patients with at least one episode of clinical relapse of VVC during the 12 months study period."
+      ],
+      "sponsor": "ProFem GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT04734405"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03840616",
+      "title": "Phase 3, Randomized, Double-Blind Study to Evaluate Efficacy and Safety of Oteseconazole (VT-1161) Oral Capsules vs Fluconazole and Placebo in Treatment of Acute Vulvovaginal Candidiasis in Subjects With Recurrent Vulvovaginal Candidiasis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-03-13",
+      "completion_date": "2020-12-02",
+      "country": "United States",
+      "enrollment": 219,
+      "brief_summary": "Recurrent vulvovaginal candidiasis (RVVC), also known as recurrent yeast infections, is defined as at least 3 episodes of acute vulvovaginal candidiasis (VVC) in the past 12 months. Several properties of oteseconazole (VT-1161) suggest it might be a safer and more effective treatment of RVVC than other oral antifungal medications.\n\nThis study will evaluate the effectiveness and safety of oteseconazole (VT-1161) for the treatment of acute VVC episodes in patients with RVVC and consists of 2 parts",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 3 or more episodes of acute VVC in the past 12 months\n* Positive KOH test\n* Total vulvovaginal signs and symptoms score of ≥3 at screening visit\n* Total vulvovaginal signs and symptoms score of \\<3 at Day 14\n* Must be able to swallow pills\n\nExclusion Criteria:\n\n* Presence or a",
+      "endpoints": [
+        "Percentage of Subjects With 1 or More Culture-verified Acute VVC Episodes During the Maintenance Phase of the Study in the Intent-to-treat (ITT) Population"
+      ],
+      "sponsor": "Mycovia Pharmaceuticals Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03840616"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02180828",
+      "title": "An Case-controlled Randomized Study to the Efficacy of Clotrimazole Vaginal Tablet vs Fluconazole for Severe Vulvovaginal Candidiasis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2015-09",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "The study is focused to prove that the efficacy and safety of Clotrimazole vaginal tablet vs Fluconazole for the treatment of severe vulvovaginal candidiasis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Vulvovaginal candidiasis infection is diagnosed, the symptoms evaluated using a numerical rating system based on severity (absent=0; mild=1; moderate=2; severe=3) with a minimum VVC Composite Signs/Symptoms score of 7\n2. Subject completes the informed consent process\n3. Subje",
+      "endpoints": [
+        "Therapeutic Efficacy 1",
+        "Therapeutic Efficacy 2",
+        "Therapeutic Efficacy 3"
+      ],
+      "sponsor": "Peking University Shenzhen Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02180828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05895162",
+      "title": "Randomized Controlled Trial to Assess the Effectiveness of a Zinc-containing Vaginal Gel and Fluconazole on Treatment and Recurrence of Vulvovaginal Candidiasis.",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-06-10",
+      "completion_date": "2025-01-07",
+      "country": "Hungary",
+      "enrollment": 76,
+      "brief_summary": "Vaginitis is one of the most common gynecological problems in women. Candida albicans is responsible for more than 85% of vaginal fungal infections and reinfection after standard treatment is quite common. The aim of this study is to compare the effects of a zinc-containing vaginal gel and oral fluconazole on the treatment and recurrence of vulvovaginal candidiasis (VVC). The investigator's hypothesis is that zinc-containing vaginal gel may decrease the rate of reinfection after standard treatme",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy, nonpregnant female participants aged ≥18 years with a clinical diagnosis of symptomatic acute VVC.\n* Positive baseline potassium hydroxide (KOH) wet mount from a vaginal smear revealing filamentous hyphae/pseudohyphae or budding yeast cells.\n* Presence of ≥1 vulvovagi",
+      "endpoints": [
+        "Clinical cure"
+      ],
+      "sponsor": "FEMPHARMA Kft.",
+      "url": "https://clinicaltrials.gov/study/NCT05895162"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04626258",
+      "title": "A Randomized Controlled Trial to Compare the Efficacy of a Medical Grade Honey Formulation (L-Mesitran®) and Fluconazol (Diflucan®) for the Treatment of Recurrent Vulvovaginal Candidiasis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2021-03-01",
+      "completion_date": "2025-03-01",
+      "country": "N/A",
+      "enrollment": 252,
+      "brief_summary": "The purpose of this study is to compare the efficacy of Flucanzol versus L-mesitran in the treatment of patients with recurrent vulvovaginal candidiasis. The investigator will look at vaginal swabs after 1, 6 and 12 months. The investigator included 252 patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Women of at least 18 years old\n\n  * Recurrent vulvovaginal candidiasis (At least 3 episodes of clinical symptoms during the last year)\n  * Clinical and microbiological diagnosis of (recurrent) vulvovaginal candidiasis at time of consultation\n  * Capacity to understand, conse",
+      "endpoints": [
+        "Vaginal swab",
+        "Vaginal swab",
+        "Vaginal swab"
+      ],
+      "sponsor": "Maastricht University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04626258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05367089",
+      "title": "A Randomized Controlled Trial: the Effect of a Medical Grade Honey Formulation (L-Mesitran) on Clinical Symptoms of Recurrent Vulvovaginal Candidiasis",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2022-08-22",
+      "completion_date": "2027-04-22",
+      "country": "Netherlands",
+      "enrollment": 252,
+      "brief_summary": "The aim of the study is to investigate the efficacy of Fluconazol versus L-Mesitran in the treatment of patients with recurrent vulvovaginal candidiasis. Vaginal swabs will be analyzed after 1, 6 and 12 months. The study ends after 252 included patients completed the study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women of at least 18 years old\n* Recurrent vulvovaginal candidiasis (At least 3 episodes of clinical symptoms during the last year)\n* Clinical and microbiological diagnosis of (recurrent) vulvovaginal candidiasis at time of consultation\n* Capacity to understand, consent, and c",
+      "endpoints": [
+        "vaginal swab",
+        "vaginal swab",
+        "vaginal swab"
+      ],
+      "sponsor": "Maastricht University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05367089"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00313131",
+      "title": "A Randomised Controlled Trial of Single Dose Tinidazole+Fluconazole Versus Longer Courses of Metronidazole+Clotrimazole in the Management of West African Women With Vaginal Discharge",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-01",
+      "completion_date": "2005-05",
+      "country": "Togo, Ghana, Guinea",
+      "enrollment": 1524,
+      "brief_summary": "This randomised controlled trial aimed to verify whether directly observed single dose treatment (with tinidazole+fluconazole) would be as effective as the longer standard treatments (metronidazole for 7 days, plus vaginal clotrimazole for 3 days) in the syndromic management of women presenting with vaginal discharge in primary health care centers of Ghana, Togo, Guinea and Mali. It was designed as an effectiveness trial, i.e. it was done under conditions typical of routine work in these health ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women consulting for vaginal discharge\n* local resident\n* willingness and ability to consent\n\nExclusion Criteria:\n\n* sex worker consulting for active screening\n* main complaint of lower abdominal pain\n* allergy to one of the study drugs",
+      "endpoints": [
+        "Symptomatic resolution of the vaginal discharge according to the patient"
+      ],
+      "sponsor": "Université de Sherbrooke",
+      "url": "https://clinicaltrials.gov/study/NCT00313131"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02733432",
+      "title": "A Phase 2, Multicenter, Randomized, Active-controlled Study of the Safety and Tolerability of Two Formulations of CD101 Compared to Fluconazole for the Treatment of Moderate to Severe Episodes of Acute Vulvovaginal Candidiasis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-06-08",
+      "completion_date": "2016-12-23",
+      "country": "United States",
+      "enrollment": 126,
+      "brief_summary": "The purpose of this study is to determine if two topical formulations of CD101 are safe and effective in the treatment of acute moderate to severe vulvovaginal candidiasis (VVC) compared to oral fluconazole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* moderate to severe acute vulvovaginal candidiasis (severity score \\>7)\n* positive potassium hydroxide wet preparation for pseudohyphae or budding yeast or positive Becton Dickinson Affirm test or positive vaginal culture for Candida species\n* vaginal pH \\<4.5 for subjects with",
+      "endpoints": [
+        "Number of Subjects with Incidence of Treatment Emergent Adverse Events [Safety and Tolerability]"
+      ],
+      "sponsor": "Cidara Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02733432"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05074602",
+      "title": "A Randomized, Double-Blind, Double-Dummy, Parallel Fluconazole Controlled, Multicenter Phase III Clinical Study to Evaluate the Efficacy and Safety of SHR8008 vs. Fluconazole in Subjects With Recurrent Vulvovaginal Candidiasis (RVVC)",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-09-14",
+      "completion_date": "2023-09-30",
+      "country": "China",
+      "enrollment": 196,
+      "brief_summary": "The purpose of this study is to evaluate the Efficacy and Safety of SHR8008 capsule In Subjects With Recurrent Vulvovaginal Candidiasis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Females, ≥18 and ≤75 years old.\n2. Have a history of RVVC at screening.\n3. Suitable for oral therapy and able to swallow capsules intact.\n4. Subjects of childbearing potential must use highly effective contraceptive measures throughout the study.\n5. Willing to sign the inform",
+      "endpoints": [
+        "The proportion of subjects with one or more culture-verified VVC episodes during the study."
+      ],
+      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05074602"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "1583715",
+      "title": "Fluconazole: a new option in the treatment of Candida mucositis and esophageal candidiasis.",
+      "abstract": "Fluconazole is a new triazole antifungal agent with good activity against Candida and cryptococcal meningitis. It is well-tolerated and effective in immunosuppressed patients with oral-pharyngeal candidiasis. This review outlines the characteristics of fluconazole and discusses its role among the class of antifungal agents.",
+      "journal": "The Journal of otolaryngology",
+      "year": "1992",
+      "authors": [
+        "Garber G E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Candidiasis",
+        "Candidiasis, Oral",
+        "Esophageal Diseases",
+        "Fluconazole",
+        "HIV Infections",
+        "Humans",
+        "Mouth Mucosa"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1583715/"
+    },
+    {
+      "pmid": "12867215",
+      "title": "Voriconazole.",
+      "abstract": "Reports of resistance and intolerance to currently available antifungal agents are increasing. Voriconazole is a broad-spectrum azole antifungal agent structurally derived from fluconazole. It is indicated for the treatment of invasive aspergillosis and serious fungal infections caused by Scedosporium apiospermum and Fusarium species in patients who are unable to tolerate or are refractory to other antifungal therapy.",
+      "journal": "Clinical therapeutics",
+      "year": "2003",
+      "authors": [
+        "Jeu LilyAnn",
+        "Piacenti Frank J",
+        "Lyakhovetskiy Aleksandr G",
+        "Fung Horatio B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antifungal Agents",
+        "Area Under Curve",
+        "Aspergillosis",
+        "Candidiasis",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Fungi",
+        "Half-Life"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12867215/"
+    },
+    {
+      "pmid": "19029563",
+      "title": "Caspofungin.",
+      "abstract": "Caspofungin is a new antifungal drug meant for intravenous use. It has been shown to be comparable to other antifungal agents such as amphotericin B and fluconazole for empirical therapy in febrile neutropenic patients, oropharyngeal/esophageal candidiasis and invasive aspergillosis. Its efficacy has also been documented in children in small uncontrolled trials. The biggest assets of caspofungin are its excellent tolerability/safety profile and minimal drug interactions.",
+      "journal": "Indian pediatrics",
+      "year": "2008",
+      "authors": [
+        "Parakh Ankit",
+        "Dubey Anand Prakash",
+        "Samanta Debopam"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anesthesia, Intravenous",
+        "Antifungal Agents",
+        "Aspergillosis",
+        "Candidiasis",
+        "Caspofungin",
+        "Echinocandins",
+        "Humans",
+        "Lipopeptides",
+        "Mycoses"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19029563/"
+    },
+    {
+      "pmid": "11363911",
+      "title": "Candidiasis.",
+      "abstract": "",
+      "journal": "Journal of the International Association of Physicians in AIDS Care",
+      "year": "1996",
+      "authors": [
+        "Powderly W G"
+      ],
+      "pub_types": [
+        "Newspaper Article",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "AIDS-Related Opportunistic Infections",
+        "Candidiasis, Oral",
+        "Esophageal Diseases",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11363911/"
+    },
+    {
+      "pmid": "33380680",
+      "title": "Fungal profile and antifungal susceptibility pattern of candidiasis in esophageal cancer patients.",
+      "abstract": "This study was carried out to determine the fungal profile and antifungal susceptibility pattern in the brushing samples of candidiasis in patients with carcinoma of esophagus.",
+      "journal": "Journal of cancer research and therapeutics",
+      "year": "2020",
+      "authors": [
+        "Talukdar Abhijit",
+        "Barman Rashmisnata",
+        "Sarma Anupam",
+        "Krishnatreya Manigreeva",
+        "Sharma Jagannath Dev"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Antifungal Agents",
+        "Candida",
+        "Candidiasis",
+        "Drug Resistance, Fungal",
+        "Esophageal Neoplasms",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "India"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33380680/"
+    },
+    {
+      "pmid": "15456342",
+      "title": "Anidulafungin.",
+      "abstract": "Anidulafungin is a novel antifungal agent which, like other echinocandins, inhibits beta-(1,3)-D-glucan synthase and disrupts fungal cell-wall synthesis. It has marked antifungal activity against a broad spectrum of Candida spp. and Aspergillus spp., including amphotericin B- and triazole-resistant strains. In clinical trials, anidulafungin has primarily been evaluated in patients with oesophageal and invasive candidiasis. Preliminary data are emerging for other indications such as invasive aspergillosis. In a large, multicentre, double-blind, double-dummy, randomised trial in patients with oesophageal candidiasis, intravenous anidulafungin 50 mg/day was as effective as oral fluconazole 100 mg/day regarding end-of-treatment rates of endoscopic cure and clinical and microbiological success. Duration of treatment was approximately 2-3 weeks, and patients in both groups received a loading dose of study drug (twice the daily maintenance dose) on day 1. Anidulafungin is generally well toler",
+      "journal": "Drugs",
+      "year": "2004",
+      "authors": [
+        "Murdoch David",
+        "Plosker Greg L"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anidulafungin",
+        "Animals",
+        "Antifungal Agents",
+        "Aspergillosis",
+        "Aspergillus",
+        "Candida",
+        "Candidiasis",
+        "Cell Wall",
+        "Clinical Trials as Topic",
+        "Drug Administration Schedule"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15456342/"
+    },
+    {
+      "pmid": "15101786",
+      "title": "Micafungin.",
+      "abstract": "Micafungin, an echinocandin antifungal agent with a novel mechanism of action, inhibits beta-(1,3)-D-glucan synthase interfering with fungal cell wall synthesis. It shows excellent antifungal activity against a broad range of Candida spp., including azole-resistant strains, and Aspergillus spp. in in vitro and animal studies. In HIV-positive patients, intravenous micafungin 50-150 mg/day dose-dependently eradicated endoscopically confirmed oesophageal candidiasis, with micafungin 100 and 150 mg/day being more effective than micafungin 50 mg/day and as effective as fluconazole 200 mg/day in a double-blind trial. In nonblind trials, micafungin (monotherapy or combination therapy) was effective against invasive aspergillosis, candidiasis and candidaemia in paediatric and adult patients with newly diagnosed or refractory infections. Micafungin 50 mg/day provided significantly better antifungal prophylaxis than fluconazole 400 mg/day in 882 haematopoietic stem cell transplant recipients in ",
+      "journal": "Drugs",
+      "year": "2004",
+      "authors": [
+        "Jarvis Blair",
+        "Figgitt David P",
+        "Scott Lesley J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antifungal Agents",
+        "Aspergillosis",
+        "Candidiasis",
+        "Clinical Trials as Topic",
+        "Dose-Response Relationship, Drug",
+        "Drug Administration Schedule",
+        "Drug Resistance, Fungal",
+        "Echinocandins",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15101786/"
+    },
+    {
+      "pmid": "30755955",
+      "title": "Fungal Gastroduodenitis.",
+      "abstract": "Candida infection of the gastrointestinal (GI) tract is rare in the immunocompetent individual. In immunocompromised patients, it frequently involves the oesophagus, but extra-oesophageal involvement is uncommon. We report a case of primary and isolated gastroduodenal candidiasis. Upper GI endoscopy with biopsy of gastric mucosa was crucial for making the diagnosis. The patient showed transient improvement after therapy with fluconazole.",
+      "journal": "European journal of case reports in internal medicine",
+      "year": "2017",
+      "authors": [
+        "Branco Sara Castelo",
+        "Ferreira Ana Teresa",
+        "Saraiva Sofia",
+        "Silva Mário Jorge",
+        "Garcia Teresa"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30755955/"
+    },
+    {
+      "pmid": "26164695",
+      "title": "Recurrent vulvovaginal candidiasis.",
+      "abstract": "Recurrent vulvovaginal candidiasis (RVVC) is a common cause of significant morbidity in women in all strata of society affecting millions of women worldwide. Previously, RVVC occurrence was limited by onset of menopause but the widespread use of hormone replacement therapy has extended the at-risk period. Candida albicans remains the dominant species responsible for RVVC, however optimal management of RVVC requires species determination and effective treatment measures are best if species-specific. Considerable progress has been made in understanding risk factors that determine susceptibility to RVVC, particularly genetic factors, as well as new insights into normal vaginal defense immune mechanisms and their aberrations in RVVC. While effective control of RVVC is achievable with the use of fluconazole maintenance suppressive therapy, cure of RVVC remains elusive especially in this era of fluconazole drug resistance. Vaccine development remains a critical challenge and need.",
+      "journal": "American journal of obstetrics and gynecology",
+      "year": "2016",
+      "authors": [
+        "Sobel Jack D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antifungal Agents",
+        "Candidiasis, Vulvovaginal",
+        "Drug Resistance, Fungal",
+        "Female",
+        "Genetic Predisposition to Disease",
+        "Humans",
+        "Probiotics",
+        "Recurrence"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26164695/"
+    },
+    {
+      "pmid": "36198994",
+      "title": "Comparing the Effect of Probiotic and Fluconazole on Treatment and Recurrence of Vulvovaginal Candidiasis: a Triple-Blinded Randomized Controlled Trial.",
+      "abstract": "Vaginitis is a common problem in women. Candida albicans is responsible for more than 85% of vaginal fungal infections. The aim of this study was to compare the effects of probiotic and fluconazole on the treatment and recurrence of vulvovaginal candidiasis (VVC). This triple-blinded randomized controlled trial was conducted on 80 married women, aged 18-49 years, with VVC, as confirmed by clinical and laboratory diagnosis. The participants were allocated into two groups using blocked randomization method. The fluconazole-treated group received a single dose of fluconazole (150 mg) supplemented with 30 placebo capsules of probiotic, and the probiotic-treated group got 30 probiotic capsules containing 1 × 109 CFU/g LA-5 with 1 fluconazole placebo capsule. The samples were taken from patients to evaluate the vaginal pH and microbiological tests before, 30-35 days, and 60-65 days after starting the treatment. The signs and symptoms were assessed before the intervention and the first and se",
+      "journal": "Probiotics and antimicrobial proteins",
+      "year": "2023",
+      "authors": [
+        "Mollazadeh-Narestan Zahra",
+        "Yavarikia Parisa",
+        "Homayouni-Rad Aziz",
+        "Samadi Kafil Hossein",
+        "Mohammad-Alizadeh-Charandabi Sakineh"
+      ],
+      "pub_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Fluconazole",
+        "Candidiasis, Vulvovaginal",
+        "Antifungal Agents",
+        "Capsules",
+        "Iran",
+        "Probiotics"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36198994/"
+    },
+    {
+      "pmid": "38257934",
+      "title": "Bacterial Vaginosis and Vulvovaginal Candidiasis Pathophysiologic Interrelationship.",
+      "abstract": "Among the infectious causes of vulvovaginal symptoms, bacterial vaginosis (BV) and vulvovaginal candidiasis (VVC) dominate. Apart from infrequent mixed infections, both are considered independent and caused by unrelated pathogenic mechanisms. Clinical experience, however, is strongly suggestive that in some populations these infections are linked with recurrent BV (RBV) serving as the dominant etiopathogenic trigger for development of recurrent VVC (RVVC) with profound clinical and therapeutic consequences. The biologic basis for this critical interrelationship is discussed and suggests that as a consequence of BV dysbiosis, and not necessarily because of antibiotics prescribed, immune defenses are compromised, neutralizing vaginal yeast tolerance. The consequent BV-induced vaginal proinflammatory environment predisposes to mixed infection or consecutive episodes of post-treatment VVC. Recurrent BV and repeated antimicrobial drug exposure also predispose to acquired fluconazole resista",
+      "journal": "Microorganisms",
+      "year": "2024",
+      "authors": [
+        "Sobel Jack D",
+        "Vempati Yogitha Sai"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38257934/"
+    },
+    {
+      "pmid": "25775428",
+      "title": "Candidiasis (vulvovaginal).",
+      "abstract": "Vulvovaginal candidiasis is estimated to be the second most common cause of vaginitis after bacterial vaginosis. Candida albicans accounts for 85% to 90% of cases.",
+      "journal": "BMJ clinical evidence",
+      "year": "2015",
+      "authors": [
+        "Martin Lopez Juliana Ester"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Antifungal Agents",
+        "Candidiasis, Vulvovaginal",
+        "Complementary Therapies",
+        "Female",
+        "Fluconazole",
+        "Humans",
+        "Itraconazole",
+        "Yogurt"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25775428/"
+    },
+    {
+      "pmid": "35416967",
+      "title": "Vulvovaginal Candidiasis: A Review of the Evidence for the 2021 Centers for Disease Control and Prevention of Sexually Transmitted Infections Treatment Guidelines.",
+      "abstract": "Vulvovaginal candidiasis (VVC) is a common cause of vulvovaginal itching and discharge. This article discusses the latest CDC STI Treatment Guidelines for VVC.",
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "year": "2022",
+      "authors": [
+        "Nyirjesy Paul",
+        "Brookhart Carolyn",
+        "Lazenby Gweneth",
+        "Schwebke Jane",
+        "Sobel Jack D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Antifungal Agents",
+        "Candida albicans",
+        "Candidiasis, Vulvovaginal",
+        "Centers for Disease Control and Prevention, U.S.",
+        "Female",
+        "Fluconazole",
+        "HIV Infections",
+        "Humans",
+        "Pregnancy",
+        "Saccharomyces cerevisiae"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35416967/"
+    },
+    {
+      "pmid": "37643144",
+      "title": "Beyond fluconazole: A review of vulvovaginal candidiasis diagnosis and treatment.",
+      "abstract": "Vaginitis symptoms are among the most common reasons for patients to seek acute gynecological care. NPs who care for women and other patients with vaginas need to be up-to-date on diagnosis and treatment of vulvovaginal candidiasis (VVC) and recurrent VVC (RVVC). Two new antifungal medications for VVC are available. This article reviews vaginal physiology and provides an overview of VVC and RVVC pathophysiology, diagnosis, and treatment options.",
+      "journal": "The Nurse practitioner",
+      "year": "2023",
+      "authors": [
+        "Hellier Susan D",
+        "Wrynn Alexander F"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Fluconazole",
+        "Candidiasis, Vulvovaginal",
+        "Vagina",
+        "Critical Care"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37643144/"
+    },
+    {
+      "pmid": "21774671",
+      "title": "Boric acid for recurrent vulvovaginal candidiasis: the clinical evidence.",
+      "abstract": "Recurrent vulvovaginal candidiasis (VVC) remains a challenge to manage in clinical practice. Recent epidemiologic studies indicate that non-albicans Candida spp. are more resistant to conventional antifungal treatment with azoles and are considered as causative pathogens of vulvovaginal candidiasis.",
+      "journal": "Journal of women's health (2002)",
+      "year": "2011",
+      "authors": [
+        "Iavazzo Christos",
+        "Gkegkes Ioannis D",
+        "Zarkada Ioanna M",
+        "Falagas Matthew E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Intravaginal",
+        "Anti-Infective Agents, Local",
+        "Antifungal Agents",
+        "Azoles",
+        "Biological Availability",
+        "Boric Acids",
+        "Candida",
+        "Candidiasis, Vulvovaginal",
+        "Case-Control Studies",
+        "Drug Resistance, Multiple, Fungal"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21774671/"
+    },
+    {
+      "pmid": "36159646",
+      "title": "Management of recurrent vulvovaginal candidosis: Narrative review of the literature and European expert panel opinion.",
+      "abstract": "Recurrent vulvovaginal candidosis (RVVC) is a chronic, difficult to treat vaginal infection, caused by Candida species, which affects women of all ages and ethnic and social background. A long-term prophylactic maintenance regimen with antifungals is often necessary. In most clinical practice guidelines, oral fluconazole is recommended as the first-line treatment. Although clinical resistance to antifungal agents remains rare, overexposure to azoles may increase the development of fluconazole-resistant C. albicans strains. In addition, non-albicans Candida species are frequently dose-dependent susceptible or resistant to fluconazole and other azoles, and their prevalence is rising. Available therapeutic options to treat such fluconazole-resistant C. albicans and low susceptibility non-albicans strains are limited. Ten experts from different European countries discussed problematic issues of current RVVC diagnosis and treatment in two audiotaped online sessions and two electronic follow",
+      "journal": "Frontiers in cellular and infection microbiology",
+      "year": "2022",
+      "authors": [
+        "Donders Gilbert",
+        "Sziller István Oszkár",
+        "Paavonen Jorma",
+        "Hay Phillip",
+        "de Seta Francesco"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Antifungal Agents",
+        "Azoles",
+        "Candida",
+        "Candida albicans",
+        "Candidiasis, Vulvovaginal",
+        "Female",
+        "Fluconazole",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Quality of Life"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36159646/"
+    },
+    {
+      "pmid": "21718579",
+      "title": "Candidiasis (vulvovaginal).",
+      "abstract": "Vulvovaginal candidiasis is estimated to be the second most common cause of vaginitis after bacterial vaginosis. Candida albicans accounts for 85% to 90% of cases.",
+      "journal": "BMJ clinical evidence",
+      "year": "2010",
+      "authors": [
+        "Spence Des"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Administration, Oral",
+        "Candida albicans",
+        "Candidiasis, Vulvovaginal",
+        "Evidence-Based Medicine",
+        "Fluconazole",
+        "Humans",
+        "Itraconazole",
+        "Vaginosis, Bacterial"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21718579/"
+    },
+    {
+      "pmid": "23280281",
+      "title": "Weekly fluconazole therapy for recurrent vulvovaginal candidiasis: a systematic review and meta-analysis.",
+      "abstract": "To investigate the efficacy, compared to placebo, of fluconazole 150 mg weekly, given for six months as prophylaxis against recurrent vulvovaginal candidiasis (RVVC).",
+      "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+      "year": "2013",
+      "authors": [
+        "Rosa Maria I",
+        "Silva Bruno R",
+        "Pires Patrícia S",
+        "Silva Fábio R",
+        "Silva Napoleão C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Antibiotic Prophylaxis",
+        "Antifungal Agents",
+        "Candidiasis, Vulvovaginal",
+        "Drug Administration Schedule",
+        "Female",
+        "Fluconazole",
+        "Humans",
+        "Randomized Controlled Trials as Topic",
+        "Secondary Prevention"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23280281/"
+    },
+    {
+      "pmid": "30818309",
+      "title": "Therapeutic tools for oral candidiasis: Current and new antifungal drugs.",
+      "abstract": "Candidiasis is one of the most common opportunistic oral infections that presents different acute and chronic clinical presentations with diverse diagnostic and therapeutic approaches. The present study carries out a bibliographic review on the therapeutic tools available against oral candidiasis and their usefulness in each clinical situation.",
+      "journal": "Medicina oral, patologia oral y cirugia bucal",
+      "year": "2019",
+      "authors": [
+        "Quindós G",
+        "Gil-Alonso S",
+        "Marcos-Arias C",
+        "Sevillano E",
+        "Mateo E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Intravenous",
+        "Administration, Oral",
+        "Administration, Topical",
+        "Amphotericin B",
+        "Anidulafungin",
+        "Antifungal Agents",
+        "Azoles",
+        "Candidiasis, Oral",
+        "Caspofungin",
+        "Clotrimazole"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30818309/"
+    },
+    {
+      "pmid": "37072843",
+      "title": "Identification and susceptibility testing of oral candidiasis in advanced cancer patients.",
+      "abstract": "Patients with advanced cancer are prone to develop different opportunistic oral infection due to anti-cancer treatment or the malignancies themselves. Studies of oral fungal samples show an increased prevalence of non-Candida albicans species in mixed oral infections with Candida albicans. Non-C. albicans and C. albicans are associated with varying degrees of resistance to azoles, which may have implications for treatment. This study aimed to assess the diversity and antifungal susceptibility of Candida species detected in the oral cavity.",
+      "journal": "BMC oral health",
+      "year": "2023",
+      "authors": [
+        "Monsen Ragnhild Elisabeth",
+        "Kristoffersen Anne Karin",
+        "Gay Caryl L",
+        "Herlofson Bente Brokstad",
+        "Fjeld Katrine Gahre"
+      ],
+      "pub_types": [
+        "Observational Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Candidiasis, Oral",
+        "Fluconazole",
+        "Amphotericin B",
+        "Anidulafungin",
+        "Microbial Sensitivity Tests",
+        "Antifungal Agents",
+        "Candida",
+        "Candida albicans",
+        "Neoplasms"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37072843/"
+    }
+  ]
+}

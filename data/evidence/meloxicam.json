@@ -1,0 +1,1018 @@
+{
+  "drug": "Meloxicam",
+  "drugbank_id": "DB00814",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:32:27Z",
+  "indications": [
+    {
+      "indication": "osteoarthritis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 14,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 7,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "rheumatoid arthritis",
+      "evidence_level": "L1",
+      "trials": 16,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 12,
+        "rct_articles": 2,
+        "review_articles": 6,
+        "other_articles": 2,
+        "total_trials": 16,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "osteoarthritis susceptibility",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "arthropathy",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 13,
+        "rct_articles": 1,
+        "review_articles": 4,
+        "other_articles": 5,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "juvenile arthritis due to defect in LACC1",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    }
+  ],
+  "total_trials": 56,
+  "total_articles": 30,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00612885",
+      "title": "Post Marketing Surveillance to Assess the Safety and Efficacy of Mobic® (Meloxicam) Intramuscular Injection (7.5mg ~ 15mg, q.d.) up to 3 Days (in Case of Need for Prolonged Treatment, Switch to Mobic® Capsule Therapy Was Possible) in Korean Patients With Osteoarthritis and Rheumatoid Arthritis (KFDA Regulatory Requirement PMS)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2004-03",
+      "completion_date": "2005-08",
+      "country": "South Korea",
+      "enrollment": 425,
+      "brief_summary": "The main objective of this PMS study was to monitor and assess the safety of Mobic® intramuscular injection (7.5mg \\~ 15mg, q.d.) up to 3 days (in case of need for prolonged treatment, switch to Mobic® capsule therapy was possible) in Korean patients with osteoarthritis and rheumatoid arthritis.",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\ndiagnosed as osteoarthritis and rheumatoid arthritis\n\nEXCLUSION CRITERIA:\n\n1. Known hypersensitivity to meloxicam\n2. Cross hypersensitivity to aspirin and other non-steroidal anti-inflammatory drugs\n3. Symptoms of asthma, rhinitis, angioneurotic edema, or urticaria following the",
+      "endpoints": [
+        "Efficacy assessment by the treating physician",
+        "Combined efficacy, safety and tolerability assessment by the treating physician",
+        "Incidence of adverse events"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00612885"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02184039",
+      "title": "Clinical Therapeutic Evaluation Program in Patients With Rheumatic Diseases",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-05",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 12687,
+      "brief_summary": "Study to evaluate the efficacy and safety of meloxicam (Mobicox®) in Mexican population with rheumatic diseases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* none\n\nExclusion Criteria:\n\n* Hypersensitivity to meloxicam or to other NSAIDS\n* History of asthma, angioedema or urticaria secondary to NSAIDS\n* Pregnancy or lactation\n* Recent or current history of peptic ulcer disease, severe renal failure, severe hepatic failure\n* Age below",
+      "endpoints": [
+        "Change in intensity of the symptoms measured with a four-point scale"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02184039"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07430085",
+      "title": "Postoperative Pain Outcomes After Use of Bupivacaine-Meloxicam Extended-Release Solution in Robot Assisted Total Knee Arthroplasty: A Prospective Study",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-31",
+      "completion_date": "2028-02-28",
+      "country": "N/A",
+      "enrollment": 150,
+      "brief_summary": "Prospective Cohort of patients who are scheduled for a Robot Assisted Total Knee Arthroplasty (RATKA). A prospective survey of patient reported outcome measures (Numeric Rating Scale) will be obtained postoperatively of 72 hours, as well as at the postoperative opioid consumption after 72 hours.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nMales or females aged 18-89 years\n\nDiagnosed with knee osteoarthritis requiring surgical intervention\n\nIndicated for unilateral RATKA\n\nExclusion Criteria:\n\nPediatric, pregnant, or incarcerated patients\n\nBMI of more than 45 kg/m2\n\nProlonged opioid use history of \\>5 mg/day for \\>",
+      "endpoints": [
+        "Amount of opioid medications used (measured in morphine milligrams equivalents)",
+        "Patient reported outcome measure (Numeric Rating Scale)"
+      ],
+      "sponsor": "Allegheny Singer Research Institute (also known as Allegheny Health Network Research Institute)",
+      "url": "https://clinicaltrials.gov/study/NCT07430085"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02184052",
+      "title": "Meloxicam (MOBIC®) Ampoule Post Marketing Surveillance Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 121,
+      "brief_summary": "Study to determine the safety and efficacy of Mobic® ampoules in the initiation of treatment of painful exacerbations of osteoarthritis, rheumatoid arthritis and other similar painful inflammatory conditions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Painful acute exacerbations of inflammatory rheumatism (rheumatoid arthritis and ankylosing spondylitis), painful acute exacerbations of osteoarthritis and other similar conditions requiring acute treatment with an anti-inflammatory drug\n\nExclusion Criteria:\n\n* none",
+      "endpoints": [
+        "Overall assessment of degree of pain on a 3-point scale"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02184052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05974501",
+      "title": "Pre vs. Postoperative Adductor Canal Block for Total Knee Arthroplasty: Prospective Randomized Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-09-29",
+      "completion_date": "2024-01-22",
+      "country": "United States",
+      "enrollment": 84,
+      "brief_summary": "The purpose of this project is to determine if a change in patient reported pain, nausea and vomiting after total knee arthroplasty can be observed with the substitution of a post operative adductor canal block for a preoperative adductor canal block in the current established peri-operative pain protocol and if these changes lead to a decrease in opioid consumption (in morphine equivalents).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1- Patients 18 or older 2 - Patients undergoing primary total knee replacement at the University of Miami Hospital 3 - Patients that have capacity to provide medical consent\n\nExclusion Criteria:\n\n1. All patients under the age of 18\n2. Prisoners, uncontrolled diabetics, increased",
+      "endpoints": [
+        "Pain Status as Measured by Numeric Pain Scale",
+        "Pain Status as Measured by Numeric Pain Scale"
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT05974501"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03717714",
+      "title": "A Randomized, Double-blind, Active Controlled, 12-week Follow-up, Pilot Study to Evaluate the Safety and Efficacy of Polycan in Combination With Glucosamine for Treatment of Knee Osteoarthritis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-04-01",
+      "completion_date": "2018-05-30",
+      "country": "Vietnam",
+      "enrollment": 90,
+      "brief_summary": "The objectives of this study is to examine the Safety and Eﬃcacy of black yeast beta-glucan produced from Aureobusidium pulluluns SM-2001 (Polycan), in combination with glucosamine in reducing knee osteoarthritis (OA) associated symptoms. This study is a double-blind, randomized, active-controlled trial conducted with 100 OA patients, aged 35-80 years using a formulated product",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of knee osteoarthritis (OA)\n* OA ranging from grade 1 to grade 3 by Kellgren and Lawrence system\n* Agree to participate into the study\n\nExclusion Criteria:\n\n* OA ranging from grade 4 by Kellgren and Lawrence system\n* Allergic or contradicted with oral NSAID",
+      "endpoints": [
+        "Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) changes at 12 weeks in the three groups"
+      ],
+      "sponsor": "Vietstar Biomedical Research",
+      "url": "https://clinicaltrials.gov/study/NCT03717714"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05449613",
+      "title": "Efficacy and Safety Evaluation of Acupoint Application in the Treatment of Knee Osteoarthritis Joint Pain: a Randomized, Double-blind, Controlled Study",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-10-01",
+      "completion_date": "2024-10-01",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "To evaluate the efficacy and safety of acupoint application of Traditional Chinese medicine in the treatment of KOA joint pain through a prospective, randomized, double-blind, placebo-controlled clinical study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Western medicine diagnosed as knee osteoarthritis, clinical classification is primary, and conforms to the TCM syndrome of cold and wet obstruction;\n2. Guidelines for the diagnosis and treatment of osteoarthritis 2018 criteria and Kellgren -Lawrence\\<Ⅲ;\n3. VAS pain score ≥40m",
+      "endpoints": [
+        "Changes in VAS pain score from baseline 4 weeks"
+      ],
+      "sponsor": "Guang'anmen Hospital of China Academy of Chinese Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT05449613"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01799213",
+      "title": "Discontinuing NSAIDs in Veterans With Knee Osteoarthritis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-09-02",
+      "completion_date": "2018-10-05",
+      "country": "United States",
+      "enrollment": 490,
+      "brief_summary": "Knee osteoarthritis (OA) is now recognized as a major health problem. It is the number one cause of lower extremity disability and has significant deleterious effects on quality of life. While there are numerous therapies available for knee OA, most have limited efficacy. Of particular concern, is the widespread use of nonsteroidal anti-inflammatory drugs (NSAIDs) for this disorder. Veterans, as a group, are at high risk for both gastrointestinal and cardiovascular NSAID-induced complications. I",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects will include those for whom a discontinuation trial of NSAIDs is most appropriate: 1) Veterans with knee pain despite NSAID use and/or 2) Veterans at relatively higher risk of NSAID toxicity 55-59 as ascertained by meeting 1 or more of the following 4 criteria:\n\n* Answe",
+      "endpoints": [
+        "Primary Endpoint: WOMAC Pain Score (Likert Scale Version) at 4 Weeks"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT01799213"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03540030",
+      "title": "Opioid-Free Shoulder Arthroplasty",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-09",
+      "completion_date": "2019-06",
+      "country": "United States",
+      "enrollment": 86,
+      "brief_summary": "Purpose of Study:\n\nTo identify and provide a safe, opioid-free treatment pathway for shoulder arthroplasty with a focus on perioperative pain control and postoperative symptoms from treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient undergoing elective primary total shoulder or reverse total shoulder arthroplasty for osteoarthritis, avascular necrosis, cuff tear arthropathy, or inflammatory arthritis etiologies\n2. Age greater than or equal to 50.\n\nExclusion Criteria:\n\n1. Revision total shoulder a",
+      "endpoints": [
+        "Post Op Pain"
+      ],
+      "sponsor": "OrthoCarolina Research Institute, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03540030"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00239395",
+      "title": "A Randomised, Open-labelled Study to Compare the Efficacy and Safety of Meloxicam 7.5 mg IM Ampoules Once Daily and Meloxicam 7.5 mg Tablets Administered Orally Once Daily Over a Period of 7 Days in Patients With Osteoarthritis (OA)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-07",
+      "completion_date": "2004-12",
+      "country": "China",
+      "enrollment": 168,
+      "brief_summary": "The objective of this trial was to assess the efficacy and safety of 7.5 mg meloxicam i.m. once daily compared with 7.5 mg meloxicam tablets once daily p.o. in patients with osteoarthritis over a time period of 7 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female aged 18 years or above\n* Patients suffering from acute and painful exacerbation of osteoarthritis of the hip or knee.\n\nThe diagnosis must be based on\n\n* clinical signs and symptoms or\n* x-ray diagnosis plus clinical signs and symptoms\n\n  * Assessment of pain on ",
+      "endpoints": [
+        "Pain on active movement by VAS."
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00239395"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02183064",
+      "title": "A Multi-Center, Randomized, Parallel-Group, Open-Label Study to Compare Prescription Non-Steroidal Anti-Inflammatory Drug (NSAID) Changes, Health Care Utilization, Efficacy and Safety of Meloxicam 7.5 mg Versus Usual Care Administration of Prescription NSAIDs in a Managed Healthcare Setting in Patients With Osteoarthritis of the Hip, Knee, Hand or Spine",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-10",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 1309,
+      "brief_summary": "Study to compare the percentage of treatment successes or failures in patients randomized to meloxicam 7.5 mg vs. usual care prescription NSAIDs. Additionally, health care utilization, efficacy and safety of patients in a managed healthcare setting with osteoarthritis (OA) of the hip, knee, hand or spine will be assessed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females over the age of 18\n* The patient, if female and of reproductive potential (i.e. neither surgically sterilized nor post-menopausal), must be practicing adequate contraception (e.g. intrauterine device, contraceptive pills, Depo-Provera, or implant or double ba",
+      "endpoints": [
+        "Percentage of treatment successes and failures in patients randomized to meloxicam 7.5 mg vs.usual care prescription NSAIDs"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02183064"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02182726",
+      "title": "COX-2 Postmarketing Surveillance Study With MOBEC® 15 mg Tablets",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2001-05",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 4760,
+      "brief_summary": "The aim of the study is to investigate\n\n* the indication for MOBEC in a dose of 15 mg per day\n* the treatments patients were receiving before switching to 15 mg MOBEC\n* how treatment with 15 mg is assessed compared with previous treatment\n* how effective and safe treatment with 15 mg MOBEC is considered",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* An indication for a treatment with 15 mg MOBEC of at least four weeks\n\n  * the symptomatic short-term treatment of osteoarthritis\n  * the symptomatic long-term treatment of rheumatoid arthritis (chronic polyarthritis); restriction: the recommended dose for long-term treatment ",
+      "endpoints": [
+        "Nature and incidence of adverse drug reactions (ADR)",
+        "Assessment of efficacy by physician on a 5-point scale",
+        "Assessment of tolerability by physician on a 5-point scale"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02182726"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02180516",
+      "title": "Safety and Efficacy of Meloxicam (MOBIC) Compared to Other NSAIDs in Approved Therapeutic Dosages and Routes of Administration in an Observational Cohort Study of Patients With Rheumatoid Arthritis, Osteoarthritis, Lumbago, Scapulohumeral Periarthritis, Neck, Shoulder and Arm Syndrome",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2001-10",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 9984,
+      "brief_summary": "Study to assess the safety profile of meloxicam by comparing incidence of gastrointestinal adverse events of meloxicam with that of NSAID in the routine daily therapeutic situation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with Indications according to the package insert of the prescribed NSAID\n\nExclusion Criteria:\n\n* There is no exclusion criterion, because this Post Marketing Study is an observational study",
+      "endpoints": [
+        "Incidence for adverse event of gastrointestinal disorder"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02180516"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02298218",
+      "title": "Clinical Study About the Role of COX-2 Inhibitor in Liver Cirrhosis With Biliary Atresia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2011-12",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "In this clinical study, meloxicam will be used to the patients who are older than 2 years and underwent Kasai portoenterostomy to treat their biliary atresia before. Before and after the medication, their liver stiffness scores will be checked using hepatic Fibroscan. Liver stiffness scores will be compared before and after the medication of meloxicam, and the roll of the COX-2 inhibitor (meloxicam) in the patients with biliary atresia in releasing their hepatic fibrosis. Also, the side effect o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who had undergone a Kasai portoenterostomy for BA, and who were postoperatively managed in our outpatient clinic\n2. Patients who made informed consent for clinical study of COX-2 inhibitor\n3. Patients who were followed up with liver fibroscan study\n4. Patients who we",
+      "endpoints": [
+        "liver stiffness score on FibroScan"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT02298218"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07348627",
+      "title": "Opioid-Sparing Joint Replacement - Single Site Randomized Control Trial",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02",
+      "completion_date": "2028-08",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "The goal of this clinical trial is to evaluate whether an opioid-sparing postoperative pain regimen can reduce opioid consumption and maintain effective pain control in adults undergoing anterior total hip arthroplasty for osteoarthritis.\n\nThe main questions it aims to answer are:\n\n* Does an opioid-limited regimen result in lower postoperative opioid use compared with a standard opioid prescription?\n* Does the opioid-limited regimen provide comparable or improved postoperative pain control and p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of hip osteoarthritis requiring primary arthroplasty\n* Scheduled to undergo anterior total hip arthroplasty (THA)\n* Able to comply with study procedures and follow-up visits\n* Able to provide informed consent\n\nExclusion Criteria:\n\n* Concurrent significant injuries to",
+      "endpoints": [
+        "Daily Pain Scores (Numeric Rating Scale, NRS)",
+        "Opioid Consumption (Morphine Milligram Equivalents, MME)",
+        "Pain-Related Contacts to Clinical Team"
+      ],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT07348627"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02183129",
+      "title": "Open Label Study to Assess the Efficacy and Safety of Meloxicam 7.5mg vs. Diclofenac 100mg SR in Patients With Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "1999-04-01",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 91,
+      "brief_summary": "To assess the efficacy and safety of meloxicam 7.5mg once daily compared with diclofenac 100mg SR once daily over a treatment period of 8 weeks",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Osteoarthritis of the knee requiring the therapy with non-steroidal anti-inflammatory drugs (NSAIDs)\n\nExclusion Criteria:\n\n\\- none",
+      "endpoints": [
+        "Change from baseline in pain on active movement assessed by a 100 mm visual analogue Scale (VAS)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02183129"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05644496",
+      "title": "A Randomized Controlled Trial of ZYNRELEF Versus Standard of Care for Pain Management Following Unilateral Total Knee Arthroplasty",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-03-09",
+      "completion_date": "2027-12",
+      "country": "United States",
+      "enrollment": 242,
+      "brief_summary": "The goal of this randomized controlled trial is to compare opioid medication consumption after surgery for patients who have a total knee replacement.\n\nThe main questions it aims to answer are:\n\n* How well does the study drug control pain in the days after surgery?\n* Does the study drug reduce the amount of opioid analgesic consumed after surgery?\n\nParticipants in the study group will undergo a total knee replacement as planned with their surgeon. In addition, be given the study drug, Zynrelef (",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients undergoing primary unilateral total knee arthroplasty \\[Current Procedural Terminology Code: 27447\\]\n2. Patients with a diagnosis of primary osteoarthritis \\[ICD-10 codes: M17.0, M17.10, M17.11, M17.12\\]\n3. Varus deformity less than 10 degrees\n4. Flexion contra",
+      "endpoints": [
+        "Total opioid analgesic consumption",
+        "Change in pain assessment scores"
+      ],
+      "sponsor": "Baptist Health South Florida",
+      "url": "https://clinicaltrials.gov/study/NCT05644496"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05050409",
+      "title": "SMART Embedded Intervention for Military Postsurgical Engagement Readiness",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2022-05-01",
+      "completion_date": "2027-10",
+      "country": "United States",
+      "enrollment": 500,
+      "brief_summary": "The overarching objective of this proposal is to conduct a multi-site Sequential Multiple Assignment Randomized Trial (SMART) across multiple Military Health System (MHS) sites to optimize the sequencing and integration of two intervention strategies in total knee arthoplasty (TKA) patients: a single-session mindfulness-based intervention (MBI) and an intensive 8-week MBI-Mindfulness-Oriented Recovery Enhancement (MORE) designed to simultaneously reduce prolonged pain and chronic opioid use by e",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Scheduled to undergo unilateral total TKA at one of the study sites\n* TRICARE beneficiary\n* Facility with the English language that is adequate to complete study procedures.\n\nExclusion Criteria:\n\n* Cognitive impairment preventing completion of study procedures,\n* Formal mindfu",
+      "endpoints": [
+        "Western Ontario and McMaster (WOMAC) Universities Osteoarthritis Index"
+      ],
+      "sponsor": "University of Utah",
+      "url": "https://clinicaltrials.gov/study/NCT05050409"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02405793",
+      "title": "A Phase 2b, Multicenter, Randomized, Single Blind, Fixed Dose, Parallel Group Study to Evaluate the Efficacy and Safety of Meloxicam SoluMatrix® [Test] Capsules and Meloxicam Tablets in Patients With Pain Due to Osteoarthritis of the Knee or Hip",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2015-05",
+      "completion_date": "2015-07",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of a low dose and a high dose of Meloxicam SoluMatrix® Capsules versus Meloxicam Tablets for the treatment of pain due to osteoarthritis of the knee or hip.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary diagnosis of Functional Class I-III osteoarthritis (OA) of the hip or knee\n* Chronic user of nonsteroidal anti-inflammatory drugs (NSAIDs) and/or acetaminophen for OA pain\n* Discontinued all analgesic therapy at Screening\n* For women of childbearing potential: a woman ",
+      "endpoints": [
+        "Change From Baseline to Week 6 After Trial Entry in Osteoarthritis Pain Measured Using the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale Score."
+      ],
+      "sponsor": "Iroko Pharmaceuticals, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02405793"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00619177",
+      "title": "Assessing the Impact of MOVALIS on Health Related Quality of Life",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "",
+      "country": "Slovakia, Estonia, Russia, Czechia, Croatia",
+      "enrollment": 3569,
+      "brief_summary": "The objective of the observational study is to examine the effect of MOVALIS (Meloxicam) therapy on Health Related Quality of Life (HRQoL) in the diverse region of Central and Eastern Europe. The Medical Outcomes Study 12 Item Short Form Health Survey version 2 (SF-12v2) will be used as the instrument to measure any change in physical wellbeing (Physical Component Summary, PCS) and mental wellbeing (Mental Component Summary, MCS) of patients following MOVALIS (Meloxicam) therapy.",
+      "eligibility_criteria": "Inclusion Criteria (according to Summary of Product Characteristics (SPC) ):\n\n1\\. Male or female patients aged 18 years or above 2 Females of child bearing age must be using adequate contraception (hormonal or barrier method of birth control) 3. Patients with symptoms of acute, painful osteoarthriti",
+      "endpoints": [
+        "Mean Change in Medical Outcomes Study 12-item Short-Form Health Survey, Version 2 Score From Baseline to Final Visit.",
+        "Mean Change in SF 12 MCS Score From Baseline to Final Final Visit.Medical Outcomes Study 12-Item Short-Form Health Survey, Version 2"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00619177"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "38587872",
+      "title": "2024 ISFM and AAFP consensus guidelines on the long-term use of NSAIDs in cats.",
+      "abstract": "Non-steroidal anti-inflammatory drugs (NSAIDs) are widely used and are effective for the management of pain in cats. These Guidelines will support veterinarians in decision-making around prescribing NSAIDs in situations of chronic pain, to minimise adverse effects and optimise pain management. Information is provided on mechanism of action, indications for use, screening prior to prescription, use in the presence of comorbidities, monitoring of efficacy, and avoidance and management of adverse effects.",
+      "journal": "Journal of feline medicine and surgery",
+      "year": "2024",
+      "authors": [
+        "Taylor Samantha",
+        "Gruen Margaret",
+        "KuKanich Kate",
+        "X Lascelles B Duncan",
+        "Monteiro Beatriz P"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Cats",
+        "Animals",
+        "Humans",
+        "Chronic Pain",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Pain Management",
+        "Renal Insufficiency, Chronic",
+        "Veterinarians",
+        "Cat Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38587872/"
+    },
+    {
+      "pmid": "40434930",
+      "title": "Pentoxifylline in Dogs With Osteoarthritis: Comparative Treatment and Efficacy Analysis With Meloxicam.",
+      "abstract": "Osteoarthritis is a chronic joint disease that affects dogs and humans alike, with nonsteroidal anti-inflammatory drugs (NSAIDs) being the primary drug treatment for pain relief. This study hypothesised that pentoxifylline could be a potent therapeutic option for canine osteoarthritis, offering superior benefits compared to meloxicam. The study aimed to mitigate inflammation and degeneration, safeguard joint integrity, and assess pentoxifylline's potential as a safer and more effective alternative to NSAIDs in osteoarthritis management.",
+      "journal": "Veterinary medicine and science",
+      "year": "2025",
+      "authors": [
+        "Parlak Kurtuluş",
+        "Zamirbekova Erdogan Nuriza",
+        "Parlak Tugba Melike",
+        "Uzunlu Elgin Orçum",
+        "Dik Burak"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Meloxicam",
+        "Dogs",
+        "Pentoxifylline",
+        "Osteoarthritis",
+        "Dog Diseases",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Male",
+        "Female",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40434930/"
+    },
+    {
+      "pmid": "12387696",
+      "title": "Meloxicam.",
+      "abstract": "Meloxicam (Mobic trade mark, Boehringer Ingelheim) is a relatively new oral non-steroidal anti-inflammatory drug (NSAID) approved for the treatment of osteoarthritis in the US. It has also been evaluated for the treatment of rheumatoid arthritis, ankylosing spondylitis and acute 'rheumatic' pain. Meloxicam has been shown to be COX-2 preferential, particularly at its lowest therapeutic dose, and is anti-inflammatory by inhibiting prostanoid synthesis in inflammatory cells. Since it is COX-2 preferential, it would be expected to have less gastrointestinal toxicity than non-selective NSAIDs. In clinical trials of meloxicam in osteoarthritis, it was found to be as effective as piroxicam, diclofenac and naproxen with less clinical gastrointestinal symptoms and less perforations, obstructions and bleeds by meta-analysis. Adverse events, including peripheral oedema and hypertension, occurred at a similar rate as with traditional NSAIDs.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2002",
+      "authors": [
+        "Fleischmann Roy",
+        "Iqbal Imran",
+        "Slobodin Gleb"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Drug Interactions",
+        "Humans",
+        "Meloxicam",
+        "Osteoarthritis",
+        "Pain",
+        "Product Surveillance, Postmarketing",
+        "Spondylitis, Ankylosing",
+        "Thiazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12387696/"
+    },
+    {
+      "pmid": "40196808",
+      "title": "A randomised, parallel-group clinical trial comparing bedinvetmab to meloxicam for the management of canine osteoarthritis.",
+      "abstract": "Bedinvetmab (Librela®), a fully canine anti-nerve growth factor monoclonal antibody, was compared to the non-steroidal anti-inflammatory drug (NSAID) meloxicam in dogs for the management of osteoarthritis-related pain in a randomised, open-label, multicentre, parallel-group study. Subjects were recruited from general practices as client-owned dogs with appendicular osteoarthritis. Dogs were block randomised 1:1 to either daily oral meloxicam or bedinvetmab, administered subcutaneously once a month. The primary endpoint for efficacy was the change from baseline in the Canine Orthopaedic Index (COI) score. Linear mixed-effects models were used for statistical analysis conducted on a per-protocol and intent-to-treat basis. We hypothesised that bedinvetmab would demonstrate superior efficacy and safety compared to meloxicam; the number needed to harm (NNH) for meloxicam, relative to bedinvetmab, was calculated. Of the 190 screened dogs, 101 were randomised (bedinvetmab 52; meloxicam 49). O",
+      "journal": "Frontiers in veterinary science",
+      "year": "2025",
+      "authors": [
+        "Innes John F",
+        "Lascelles B Duncan X",
+        "Bell Daniel",
+        "Tulloch Robert",
+        "McVey Alex"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40196808/"
+    },
+    {
+      "pmid": "8882380",
+      "title": "Meloxicam.",
+      "abstract": "Meloxicam is a new nonsteroidal anti-inflammatory drug (NSAID) developed for the treatment of rheumatoid arthritis and osteoarthritis. It has greater in vitro and in vivo inhibitory action against the inducible isoform of cyclo-oxygenase (COX-2), which is implicated in the inflammatory response, than against the constitutive form of this enzyme (COX-1), inhibition of which is associated with gastric, renal and other adverse effects. It has anti-inflammatory effects similar to or better than those of other NSAIDs in animal models, and a greater therapeutic ratio (ulcerogenic potential:efficacy in adjuvant arthritis). In healthy volunteers meloxicam 7.5 or 15 mg caused less gastrointestinal mucosal damage on endoscopy than piroxicam 20 mg, with a significant difference between meloxicam 7.5 mg and piroxicam. In comparative clinical trials, meloxicam was at least as effective as piroxicam and naproxen in patients with rheumatoid arthritis, and diclofenac and piroxicam in patients with ost",
+      "journal": "Drugs",
+      "year": "1996",
+      "authors": [
+        "Noble S",
+        "Balfour J A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Biological Availability",
+        "Clinical Trials as Topic",
+        "Half-Life",
+        "Humans",
+        "Meloxicam",
+        "Osteoarthritis",
+        "Thiazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8882380/"
+    },
+    {
+      "pmid": "37180348",
+      "title": "Meloxicam hydro-chloride.",
+      "abstract": "The title salt, C14H14N3O4S2 +·Cl- [systematic name: 2-(4-hy-droxy-2-methyl-1,1-dioxo-1,2-benzo-thia-zine-3-amido)-5-methyl-1,3-thia-zol-3-ium chloride] is the hydro-chloride derivative of meloxicam, a drug used to treat pain and inflammation in rheumatic disorders and osteoarthritis. Although its mol-ecular structure is similar to that previously reported for the hydro-bromide analogue, both salts are not isomorphous. Different crystal structures originate from a conformational modification, arising from a degree of rotational freedom for the thia-zolium ring in the cations. By taking as a reference the conformation of meloxicam, the thia-zolium ring is twisted by 10.96 and -16.70° in the hydro-chloride and hydro-bromide salts, while the 1,2-benzo-thia-zine core is a rigid scaffold. This behaviour could explain why meloxicam is a polymorphous compound.",
+      "journal": "IUCrData",
+      "year": "2023",
+      "authors": [
+        "Flores Manuel Fermin",
+        "Sosa Rivadeneyra Martha",
+        "Bernès Sylvain"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37180348/"
+    },
+    {
+      "pmid": "32164967",
+      "title": "Meloxicam.",
+      "abstract": "Meloxicam, an oxicam derivative: 4-Hydroxy-2-methyl-N-(5-methyl-2-thiazolyl)-2H-1,2- benzothiazine-3-carboxamide 1,1-dioxide, is a nonsteroidal anti-inflammatory drug (NSAID). It is a selective inhibitor of cyclooxygenase-2 (COX-2). It is used in the management of rheumatoid arthritis, acute exacerbations of osteoarthritis, ankylosing spondylitis and juvenile idiopathic arthritis. It is given in a single oral dose of 7.5mg, increased if necessary to a maximum of 15mg daily (7.5mg in the elderly). It may also be given by rectal suppository in doses similar to those used orally. The reported side effects of meloxicam are similar to those of nonsteroidal anti-inflammatory drugs (NSAIDs), such as abdominal pain, anemia, and edema. There is also an increased risk of serious gastrointestinal (GI) adverse events, including ulceration and bleeding. This profile is prepared to discuss and explain physical characteristics, Proprietary and nonproprietary names of meloxicam. It also includes metho",
+      "journal": "Profiles of drug substances, excipients, and related methodology",
+      "year": "2020",
+      "authors": [
+        "Khalil Nasr Y",
+        "Aldosari Khalid F"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis",
+        "Humans",
+        "Meloxicam",
+        "Thiazines",
+        "Thiazoles"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32164967/"
+    },
+    {
+      "pmid": "37348266",
+      "title": "Meloxicam emulgel potently suppressed cartilage degradation in knee osteoarthritis: Optimization, formulation, industrial scalability and pharmacodynamic analysis.",
+      "abstract": "Meloxicam (MLX) is prescribed for the management of pain and inflammation allied with osteoarthritis (OA). However, MLX causes intestinal damage in long term administration. Hence, meloxicam loaded emulgel (MLX-emulgel) was optimized, formulated and examined under stringent parameters in monosodium-iodoacetate (MIA) induced knee OA in Wistar rats.",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "year": "2023",
+      "authors": [
+        "Jyothi Vaskuri Gs Sainaga",
+        "Veerabomma Harithasree",
+        "Kumar Rahul",
+        "Khatri Dharmendra Kumar",
+        "Singh Shashi Bala"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Rats",
+        "Animals",
+        "Meloxicam",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Osteoarthritis, Knee",
+        "Rats, Wistar",
+        "Skin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37348266/"
+    },
+    {
+      "pmid": "24859353",
+      "title": "Mavacoxib and meloxicam for canine osteoarthritis: a randomised clinical comparator trial.",
+      "abstract": "NSAIDs are the cornerstone of medical management of canine osteoarthritis (OA). Meloxicam is a daily-administered NSAID widely available in a liquid formulation and manufacturer's summary of product characteristics (SPC) advise that it is given at the lowest effective dose. Mavacoxib is a long-acting NSAID given as a monthly tablet. This study compares these drugs in the management of canine OA. In all, 111 dogs with OA of the elbow, hip or stifle were randomly assigned to receive one of these NSAIDs for a 12-week period, and to administer them as per the manufacturer's SPC. Outcomes, including ground reaction forces and three validated clinical metrology instruments, were measured at baseline, 6 and 12 weeks. Improvements were seen in all outcome measures for both groups to a similar degree, and adverse events occurred at a similar rate. There were significant improvements in outcome measures from week 6 to week 12, as well as from baseline. Long-term meloxicam dose was more important",
+      "journal": "The Veterinary record",
+      "year": "2014",
+      "authors": [
+        "Walton M B",
+        "Cowderoy E C",
+        "Wustefeld-Janssens B",
+        "Lascelles B D X",
+        "Innes J F"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Dog Diseases",
+        "Dogs",
+        "Female",
+        "Male",
+        "Meloxicam",
+        "Osteoarthritis",
+        "Pyrazoles",
+        "Thiazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24859353/"
+    },
+    {
+      "pmid": "28413731",
+      "title": "Meloxicam ameliorates the cartilage and subchondral bone deterioration in monoiodoacetate-induced rat osteoarthritis.",
+      "abstract": "This study aimed to quantify the cartilage- and subchondral bone-related effects of low-dose and high-dose meloxicam treatment in the late phase of mono-iodoacetate-induced osteoarthritis of the stifle.",
+      "journal": "PeerJ",
+      "year": "2017",
+      "authors": [
+        "Nagy Előd",
+        "Vajda Enikő",
+        "Vari Camil",
+        "Sipka Sándor",
+        "Fárr Ana-Maria"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28413731/"
+    },
+    {
+      "pmid": "16863437",
+      "title": "Meloxicam in rheumatoid arthritis.",
+      "abstract": "Rheumatoid arthritis (RA), a chronic inflammatory multisystem disorder marked by joint pain, stiffness, swelling and multiple systemic involvements, requires a multifaceted approach for its management. It includes symptomatic treatment with analgesics as well as disease-modifying medications to alter the course of RA over time. NSAIDS have been widely used for their symptomatic effects, but their use is not free from adverse effects, which may include life-threatening adverse events such as gastrointestinal (GI) bleeding and perforation. Meloxicam, an oxicam derivative that is a member of the enolic acid group of NSAIDs, has recently been approved by the US FDA for use in RA and osteoarthritis. At the FDA-recommended doses meloxicam is COX-2 preferential. By virtue of this COX-2 preferential activity it is expected to have lower GI toxicity as compared with COX-2 nonselective NSAIDs. Clinical trials have shown that meloxicam at 7.5 - 15 mg/day is as effective as diclofenac, piroxicam a",
+      "journal": "Expert opinion on drug metabolism & toxicology",
+      "year": "2005",
+      "authors": [
+        "Ahmed Mansoor",
+        "Khanna Dinesh",
+        "Furst Daniel E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Cardiovascular System",
+        "Cyclooxygenase Inhibitors",
+        "Gastrointestinal Tract",
+        "Humans",
+        "Kidney",
+        "Meloxicam",
+        "Thiazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16863437/"
+    },
+    {
+      "pmid": "32164967",
+      "title": "Meloxicam.",
+      "abstract": "Meloxicam, an oxicam derivative: 4-Hydroxy-2-methyl-N-(5-methyl-2-thiazolyl)-2H-1,2- benzothiazine-3-carboxamide 1,1-dioxide, is a nonsteroidal anti-inflammatory drug (NSAID). It is a selective inhibitor of cyclooxygenase-2 (COX-2). It is used in the management of rheumatoid arthritis, acute exacerbations of osteoarthritis, ankylosing spondylitis and juvenile idiopathic arthritis. It is given in a single oral dose of 7.5mg, increased if necessary to a maximum of 15mg daily (7.5mg in the elderly). It may also be given by rectal suppository in doses similar to those used orally. The reported side effects of meloxicam are similar to those of nonsteroidal anti-inflammatory drugs (NSAIDs), such as abdominal pain, anemia, and edema. There is also an increased risk of serious gastrointestinal (GI) adverse events, including ulceration and bleeding. This profile is prepared to discuss and explain physical characteristics, Proprietary and nonproprietary names of meloxicam. It also includes metho",
+      "journal": "Profiles of drug substances, excipients, and related methodology",
+      "year": "2020",
+      "authors": [
+        "Khalil Nasr Y",
+        "Aldosari Khalid F"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis",
+        "Humans",
+        "Meloxicam",
+        "Thiazines",
+        "Thiazoles"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32164967/"
+    },
+    {
+      "pmid": "8882380",
+      "title": "Meloxicam.",
+      "abstract": "Meloxicam is a new nonsteroidal anti-inflammatory drug (NSAID) developed for the treatment of rheumatoid arthritis and osteoarthritis. It has greater in vitro and in vivo inhibitory action against the inducible isoform of cyclo-oxygenase (COX-2), which is implicated in the inflammatory response, than against the constitutive form of this enzyme (COX-1), inhibition of which is associated with gastric, renal and other adverse effects. It has anti-inflammatory effects similar to or better than those of other NSAIDs in animal models, and a greater therapeutic ratio (ulcerogenic potential:efficacy in adjuvant arthritis). In healthy volunteers meloxicam 7.5 or 15 mg caused less gastrointestinal mucosal damage on endoscopy than piroxicam 20 mg, with a significant difference between meloxicam 7.5 mg and piroxicam. In comparative clinical trials, meloxicam was at least as effective as piroxicam and naproxen in patients with rheumatoid arthritis, and diclofenac and piroxicam in patients with ost",
+      "journal": "Drugs",
+      "year": "1996",
+      "authors": [
+        "Noble S",
+        "Balfour J A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Biological Availability",
+        "Clinical Trials as Topic",
+        "Half-Life",
+        "Humans",
+        "Meloxicam",
+        "Osteoarthritis",
+        "Thiazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8882380/"
+    },
+    {
+      "pmid": "12387696",
+      "title": "Meloxicam.",
+      "abstract": "Meloxicam (Mobic trade mark, Boehringer Ingelheim) is a relatively new oral non-steroidal anti-inflammatory drug (NSAID) approved for the treatment of osteoarthritis in the US. It has also been evaluated for the treatment of rheumatoid arthritis, ankylosing spondylitis and acute 'rheumatic' pain. Meloxicam has been shown to be COX-2 preferential, particularly at its lowest therapeutic dose, and is anti-inflammatory by inhibiting prostanoid synthesis in inflammatory cells. Since it is COX-2 preferential, it would be expected to have less gastrointestinal toxicity than non-selective NSAIDs. In clinical trials of meloxicam in osteoarthritis, it was found to be as effective as piroxicam, diclofenac and naproxen with less clinical gastrointestinal symptoms and less perforations, obstructions and bleeds by meta-analysis. Adverse events, including peripheral oedema and hypertension, occurred at a similar rate as with traditional NSAIDs.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2002",
+      "authors": [
+        "Fleischmann Roy",
+        "Iqbal Imran",
+        "Slobodin Gleb"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Drug Interactions",
+        "Humans",
+        "Meloxicam",
+        "Osteoarthritis",
+        "Pain",
+        "Product Surveillance, Postmarketing",
+        "Spondylitis, Ankylosing",
+        "Thiazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12387696/"
+    },
+    {
+      "pmid": "18405470",
+      "title": "Cyclooxygenase-2 selective non-steroidal anti-inflammatory drugs (etodolac, meloxicam, celecoxib, rofecoxib, etoricoxib, valdecoxib and lumiracoxib) for osteoarthritis and rheumatoid arthritis: a systematic review and economic evaluation.",
+      "abstract": "To review the clinical effectiveness and cost-effectiveness of cyclooxygenase-2 (COX-2) selective non-steroidal anti-inflammatory drugs (NSAIDs) (etodolac, meloxicam, celecoxib, rofecoxib, etoricoxib, valdecoxib and lumiracoxib) for osteoarthritis (OA) and rheumatoid arthritis (RA).",
+      "journal": "Health technology assessment (Winchester, England)",
+      "year": "2008",
+      "authors": [
+        "Chen Y-F",
+        "Jobanputra P",
+        "Barton P",
+        "Bryan S",
+        "Fry-Smith A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anti-Ulcer Agents",
+        "Arthritis, Rheumatoid",
+        "Cost-Benefit Analysis",
+        "Cyclooxygenase 2 Inhibitors",
+        "Gastrointestinal Diseases",
+        "Humans",
+        "Markov Chains",
+        "Models, Econometric",
+        "Omeprazole",
+        "Osteoarthritis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18405470/"
+    },
+    {
+      "pmid": "9034984",
+      "title": "Efficacy and safety of meloxicam in patients with rheumatoid arthritis.",
+      "abstract": "To evaluate the efficacy and safety of meloxicam, a new acidic enolic nonsteroidal anti-inflammatory drug, at doses of 7.5 and 15 mg once daily in patients with rheumatoid arthritis (RA).",
+      "journal": "The Journal of rheumatology",
+      "year": "1997",
+      "authors": [
+        "Lemmel E M",
+        "Bolten W",
+        "Burgos-Vargas R",
+        "Platt P",
+        "Nissilä M"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Demography",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Joints",
+        "Male",
+        "Meloxicam"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9034984/"
+    },
+    {
+      "pmid": "11339515",
+      "title": "Comparison of intramuscular and oral meloxicam in rheumatoid arthritis patients.",
+      "abstract": "This double-blind, double-dummy, two-way comparative trial evaluated the overall efficacy and tolerability of intramuscular (im) vs oral meloxicam.",
+      "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+      "year": "2001",
+      "authors": [
+        "Combe B",
+        "Vélicitat P",
+        "Garzón N",
+        "Bluhmki E"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Aged",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Cyclooxygenase Inhibitors",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Injections, Intramuscular"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11339515/"
+    },
+    {
+      "pmid": "28597983",
+      "title": "Celecoxib for rheumatoid arthritis.",
+      "abstract": "Rheumatoid arthritis is a systemic auto-immune disorder that causes widespread and persistent inflammation of the synovial lining of joints and tendon sheaths. Presently, there is no cure for rheumatoid arthritis and treatment focuses on managing symptoms such as pain, stiffness and mobility, with the aim of achieving stable remission and improving mobility. Celecoxib is a selective non-steroidal anti-inflammatory drug (NSAID) used for treatment of people with rheumatoid arthritis.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2017",
+      "authors": [
+        "Fidahic Mahir",
+        "Jelicic Kadic Antonia",
+        "Radic Mislav",
+        "Puljak Livia"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Celecoxib",
+        "Humans",
+        "Myocardial Infarction",
+        "Pain Measurement",
+        "Randomized Controlled Trials as Topic",
+        "Stomach Ulcer",
+        "Stroke",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28597983/"
+    },
+    {
+      "pmid": "35175701",
+      "title": "[Meloxicam clinical effects].",
+      "abstract": "Pain syndromes, acute and chronic, against the background of inflammatory diseases (such as osteoarthritis (OA)), degenerative-dystrophic changes (involutive process, trauma) or systemic diseases (rheumatoid arthritis, etc.) dictate a steady increase in the intake of nonsteroidal anti-inflammatory drugs (NSAIDs). The choice of the most «safe NSAID» is based on the assessment of the toxicity index (the ratio when blocking cyclooxygenase (COX)) and the development of relative risks (the benefit/risk ratio). As well as those adverse events that can be detected with individual sensitivity to a specific NSAIDs, taking into account the anamnesis of previous diseases and intolerance to NSAIDs, existing chronic diseases (gastrointestinal tract, cardiovascular system, type 2 diabetes mellitus), limiting the appointment of NSAIDs. Considering these circumstances, the NSAID meloxicam (Amelotex) can be recommended for the treatment of various genesis pain syndromes. A number of studies have demons",
+      "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+      "year": "2022",
+      "authors": [
+        "Shavlovskaya O A",
+        "Bokova I A",
+        "Shavlovskiy N I"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Diabetes Mellitus, Type 2",
+        "Humans",
+        "Meloxicam",
+        "Osteoarthritis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35175701/"
+    },
+    {
+      "pmid": "11398914",
+      "title": "Rofecoxib: a review of its use in the management of osteoarthritis, acute pain and rheumatoid arthritis.",
+      "abstract": "Rofecoxib is a selective cyclo-oxygenase (COX)-2 inhibitor which has little or no effect on the COX-1 isoenzyme at doses up to 1000 mg/day. Rofecoxib has greater selectivity for COX-2 than celecoxib, meloxicam, diclofenac and indomethacin. In well-controlled clinical trials, rofecoxib 12.5 to 500 mg/day has been evaluated for its efficacy in the treatment of osteoarthritis, acute pain and rheumatoid arthritis [lower dosages (5 to 125 mg/day) were generally used in the chronic pain indications]. In the treatment of patients with osteoarthritis, rofecoxib was more effective in providing symptomatic relief than placebo, paracetamol (acetaminophen) and celecoxib and was similar in efficacy to ibuprofen, diclofenac, naproxen and nabumetone. Overall, both the physician's assessment of disease status and the patient's assessment of response to therapy tended to favour rofecoxib. In patients with postsurgical dental pain, pain after spinal fusion or orthopaedic surgery, or primary dysmenorrhoe",
+      "journal": "Drugs",
+      "year": "2001",
+      "authors": [
+        "Matheson A J",
+        "Figgitt D P"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Clinical Trials as Topic",
+        "Cyclooxygenase Inhibitors",
+        "Humans",
+        "Lactones",
+        "Osteoarthritis",
+        "Pain"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11398914/"
+    }
+  ]
+}

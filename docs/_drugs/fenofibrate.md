@@ -5,7 +5,7 @@ drugbank_id: "DB01039"
 drug_name: "Fenofibrate"
 kg_predictions: 78
 dl_predictions: 86
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 78
 brands: []
 permalink: /drugs/fenofibrate/
@@ -21,7 +21,7 @@ permalink: /drugs/fenofibrate/
 | **DrugBank ID** | [DB01039](https://go.drugbank.com/drugs/DB01039) |
 | **KG Predictions** | 78 |
 | **DL Predictions (≥0.7)** | 86 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

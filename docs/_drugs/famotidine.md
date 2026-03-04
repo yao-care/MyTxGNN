@@ -5,7 +5,7 @@ drugbank_id: "DB00927"
 drug_name: "Famotidine"
 kg_predictions: 135
 dl_predictions: 63
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 135
 brands: []
 permalink: /drugs/famotidine/
@@ -21,7 +21,7 @@ permalink: /drugs/famotidine/
 | **DrugBank ID** | [DB00927](https://go.drugbank.com/drugs/DB00927) |
 | **KG Predictions** | 135 |
 | **DL Predictions (≥0.7)** | 63 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

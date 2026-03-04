@@ -1,0 +1,544 @@
+{
+  "drug": "Ammonium Chloride",
+  "drugbank_id": "DB06767",
+  "evidence_level": "L4",
+  "collected_at": "2026-03-04T10:40:49Z",
+  "indications": [
+    {
+      "indication": "pharyngitis",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 4,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 3,
+        "total_trials": 0,
+        "total_articles": 4
+      }
+    },
+    {
+      "indication": "common cold",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 4,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 4,
+        "total_trials": 0,
+        "total_articles": 4
+      }
+    },
+    {
+      "indication": "nasopharyngitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "pharyngitis",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 4,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 3,
+        "total_trials": 0,
+        "total_articles": 4
+      }
+    },
+    {
+      "indication": "common cold",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 4,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 4,
+        "total_trials": 0,
+        "total_articles": 4
+      }
+    }
+  ],
+  "total_trials": 0,
+  "total_articles": 16,
+  "trials": [],
+  "articles": [
+    {
+      "pmid": "38622748",
+      "title": "A case of severe benzalkonium chloride intoxication in a cat.",
+      "abstract": "Benzalkonium chloride (BAC) is a quaternary ammonium compound (QAC), that can be found in a wide variety of household products-from disinfectants to medicaments and home fragrances-but also professional products. In pets, cats have long been reported as more sensitive than dogs to QACs; in fact, signs of irritation such as oral ulcerations, stomatitis and pharyngitis can be observed after contact with concentrations of 2% or lower. In a review of 245 cases of BAC exposure in cats, reported by the Veterinary Poisons Information Service (United Kingdom) only 1.2% of the cases died or were euthanized. Nevertheless, BAC toxidromes in cats can result in transitory CNS and respiratory distress, as well as severe mucosal and cutaneous lesions. Currently, only a few reports are available concerning BAC poisoning in this species.",
+      "journal": "Acta veterinaria Scandinavica",
+      "year": "2024",
+      "authors": [
+        "Rubini Silva",
+        "Rubini Roberto",
+        "Bertocchi Silvia",
+        "Zordan Silvia",
+        "Magri Alice"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Cats",
+        "Animals",
+        "Female",
+        "Dogs",
+        "Benzalkonium Compounds",
+        "Quaternary Ammonium Compounds",
+        "Disinfectants",
+        "Italy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38622748/"
+    },
+    {
+      "pmid": "3606702",
+      "title": "An approach of the in vivo antibacterial activity of benzoxonium chloride and comparison with other buccopharyngeal disinfectants.",
+      "abstract": "Different pharmaceutical forms of N-benzyl,N-dodecyl-N,N-di(2-hydroxyethyl) ammonium chloride (benzoxonium chloride, Orofar) have been tested on the overall buccopharyngeal bacterial count in healthy volunteers, and compared to competitors. Gargle solutions are most effective in reducing initial bacterial count. An open repeated dose study has been performed on 38 patients with sore throat to assess the safety and the efficacy of benzoxonium chloride tablets and gelsolets at doses of 6 mg and 10 mg daily for 4 to 6 days. Pathogens disappeared or were clearly reduced and the syndrome resolved. Tolerance was good. Differences in methodologies are discussed.",
+      "journal": "Arzneimittel-Forschung",
+      "year": "1987",
+      "authors": [
+        "Weibel M A",
+        "Cortat M",
+        "Lebek G",
+        "LeCotonnec J Y",
+        "Kitler M E"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Infective Agents",
+        "Benzalkonium Compounds",
+        "Culture Media",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Mouth",
+        "Mouth Diseases",
+        "Mouthwashes",
+        "Pharyngeal Diseases",
+        "Pharyngitis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3606702/"
+    },
+    {
+      "pmid": "7818285",
+      "title": "Irritative and systemic symptoms following exposure to Microban disinfectant through a school ventilation system.",
+      "abstract": "Microban, a pesticide not registered in California, was sprayed into an operating heating/ventilation/air conditioning (HVAC) unit at an elementary school in San Francisco, California. This incident occurred on Monday, September 28, 1992, while 396 students and 67 staff members were in the school. The Microban formulation used contains ortho-phenylphenol (0.21%), a quaternary ammonium complex (di-isobutylphenoxy-ethoxy-ethyldimethylbenzyl-ammonium chloride, 0.69%), and bromine (0.04%). This study of the health effects of Microban mist exposure on the school staff was conducted as a result of legal and toxicological concerns. California registration for this formulation had been denied because of inadequate data and because there were concerns about inhalation toxicity in test animals. Predicted health effects from short-duration exposure to Microban are primarily skin and mucous membrane irritation. A self-administered health symptom questionnaire that covered the work week following t",
+      "journal": "Archives of environmental health",
+      "year": "1994",
+      "authors": [
+        "Sesline D",
+        "Ames R G",
+        "Howd R A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Air Pollutants",
+        "Bias",
+        "Bromine",
+        "Child",
+        "Data Collection",
+        "Drug Combinations",
+        "Environmental Exposure",
+        "Female",
+        "Headache"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7818285/"
+    },
+    {
+      "pmid": "442769",
+      "title": "[Therapy of acute inflammatory diseases of the mouth and pharyngeal space].",
+      "abstract": "",
+      "journal": "ZFA. Zeitschrift fur Allgemeinmedizin",
+      "year": "1979",
+      "authors": [
+        "Willenberg W"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Ammonium Chloride",
+        "Anti-Inflammatory Agents",
+        "Cetylpyridinium",
+        "Child",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/442769/"
+    },
+    {
+      "pmid": "34705560",
+      "title": "Chemical Evolution of Rhinovirus Identifies Capsid-Destabilizing Mutations Driving Low-pH-Independent Genome Uncoating.",
+      "abstract": "Rhinoviruses (RVs) cause recurrent infections of the nasal and pulmonary tracts, life-threatening conditions in chronic respiratory illness patients, predisposition of children to asthmatic exacerbation, and large economic cost. RVs are difficult to treat. They rapidly evolve resistance and are genetically diverse. Here, we provide insight into RV drug resistance mechanisms against chemical compounds neutralizing low pH in endolysosomes. Serial passaging of RV-A16 in the presence of the vacuolar proton ATPase inhibitor bafilomycin A1 (BafA1) or the endolysosomotropic agent ammonium chloride (NH4Cl) promoted the emergence of resistant virus populations. We found two reproducible point mutations in viral proteins 1 and 3 (VP1 and VP3), A2526G (serine 66 to asparagine [S66N]), and G2274U (cysteine 220 to phenylalanine [C220F]), respectively. Both mutations conferred cross-resistance to BafA1, NH4Cl, and the protonophore niclosamide, as identified by massive parallel sequencing and reverse",
+      "journal": "Journal of virology",
+      "year": "2022",
+      "authors": [
+        "Murer Luca",
+        "Petkidis Anthony",
+        "Vallet Thomas",
+        "Vignuzzi Marco",
+        "Greber Urs F"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Antiviral Agents",
+        "Capsid",
+        "Capsid Proteins",
+        "Drug Resistance, Viral",
+        "Endosomes",
+        "HeLa Cells",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Intercellular Adhesion Molecule-1",
+        "Mutation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34705560/"
+    },
+    {
+      "pmid": "26482329",
+      "title": "Hydrothermal Formation of Calcium Copper Tetrasilicate.",
+      "abstract": "We describe the first hydrothermal synthesis of CaCuSi4 O10 as micron-scale clusters of thin platelets, distinct from morphologies generated under salt-flux or solid-state conditions. The hydrothermal reaction conditions are surprisingly specific: too cold, and instead of CaCuSi4 O10 , a porous calcium copper silicate forms; too hot, and calcium silicate (CaSiO3 ) forms. The precursors also strongly impact the course of the reaction, with the most common side product being sodium copper silicate (Na2 CuSi4 O10 ). Optimized conditions for hydrothermal CaCuSi4 O10 formation from calcium chloride, copper(II) nitrate, sodium silicate, and ammonium hydroxide are 350 °C at 3000 psi for 72 h; at longer reaction times, competitive delamination and exfoliation causes crystal fragmentation. These results illustrate that CaCuSi4 O10 is an even more unique material than previously appreciated.",
+      "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+      "year": "2015",
+      "authors": [
+        "Johnson-McDaniel Darrah",
+        "Comer Sara",
+        "Kolis Joseph W",
+        "Salguero Tina T"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26482329/"
+    },
+    {
+      "pmid": "27249425",
+      "title": "HTCC: Broad Range Inhibitor of Coronavirus Entry.",
+      "abstract": "To date, six human coronaviruses have been known, all of which are associated with respiratory infections in humans. With the exception of the highly pathogenic SARS and MERS coronaviruses, human coronaviruses (HCoV-NL63, HCoV-OC43, HCoV-229E, and HCoV-HKU1) circulate worldwide and typically cause the common cold. In most cases, infection with these viruses does not lead to severe disease, although acute infections in infants, the elderly, and immunocompromised patients may progress to severe disease requiring hospitalization. Importantly, no drugs against human coronaviruses exist, and only supportive therapy is available. Previously, we proposed the cationically modified chitosan, N-(2-hydroxypropyl)-3-trimethylammonium chitosan chloride (HTCC), and its hydrophobically-modified derivative (HM-HTCC) as potent inhibitors of the coronavirus HCoV-NL63. Here, we show that HTCC inhibits interaction of a virus with its receptor and thus blocks the entry. Further, we demonstrate that HTCC po",
+      "journal": "PloS one",
+      "year": "2016",
+      "authors": [
+        "Milewska Aleksandra",
+        "Kaminski Kamil",
+        "Ciejka Justyna",
+        "Kosowicz Katarzyna",
+        "Zeglen Slawomir"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antiviral Agents",
+        "Cell Line",
+        "Chitosan",
+        "Coronavirus",
+        "Humans",
+        "Macaca mulatta",
+        "Membrane Fusion",
+        "Quaternary Ammonium Compounds",
+        "Virus Replication"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27249425/"
+    },
+    {
+      "pmid": "14053191",
+      "title": "THERAPEUTIC ASPECTS OF ASTHMA, EMPHASIZING THE ROLE AND CONTROL OF COUGH.",
+      "abstract": "",
+      "journal": "Hawaii medical journal",
+      "year": "1963",
+      "authors": [
+        "PRICKMAN L E"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Ammonium Chloride",
+        "Asthma",
+        "Common Cold",
+        "Cough",
+        "Epinephrine",
+        "Humans",
+        "Hypersensitivity",
+        "Iodides",
+        "Neurotic Disorders",
+        "Pathology"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14053191/"
+    },
+    {
+      "pmid": "38622748",
+      "title": "A case of severe benzalkonium chloride intoxication in a cat.",
+      "abstract": "Benzalkonium chloride (BAC) is a quaternary ammonium compound (QAC), that can be found in a wide variety of household products-from disinfectants to medicaments and home fragrances-but also professional products. In pets, cats have long been reported as more sensitive than dogs to QACs; in fact, signs of irritation such as oral ulcerations, stomatitis and pharyngitis can be observed after contact with concentrations of 2% or lower. In a review of 245 cases of BAC exposure in cats, reported by the Veterinary Poisons Information Service (United Kingdom) only 1.2% of the cases died or were euthanized. Nevertheless, BAC toxidromes in cats can result in transitory CNS and respiratory distress, as well as severe mucosal and cutaneous lesions. Currently, only a few reports are available concerning BAC poisoning in this species.",
+      "journal": "Acta veterinaria Scandinavica",
+      "year": "2024",
+      "authors": [
+        "Rubini Silva",
+        "Rubini Roberto",
+        "Bertocchi Silvia",
+        "Zordan Silvia",
+        "Magri Alice"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Cats",
+        "Animals",
+        "Female",
+        "Dogs",
+        "Benzalkonium Compounds",
+        "Quaternary Ammonium Compounds",
+        "Disinfectants",
+        "Italy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38622748/"
+    },
+    {
+      "pmid": "3606702",
+      "title": "An approach of the in vivo antibacterial activity of benzoxonium chloride and comparison with other buccopharyngeal disinfectants.",
+      "abstract": "Different pharmaceutical forms of N-benzyl,N-dodecyl-N,N-di(2-hydroxyethyl) ammonium chloride (benzoxonium chloride, Orofar) have been tested on the overall buccopharyngeal bacterial count in healthy volunteers, and compared to competitors. Gargle solutions are most effective in reducing initial bacterial count. An open repeated dose study has been performed on 38 patients with sore throat to assess the safety and the efficacy of benzoxonium chloride tablets and gelsolets at doses of 6 mg and 10 mg daily for 4 to 6 days. Pathogens disappeared or were clearly reduced and the syndrome resolved. Tolerance was good. Differences in methodologies are discussed.",
+      "journal": "Arzneimittel-Forschung",
+      "year": "1987",
+      "authors": [
+        "Weibel M A",
+        "Cortat M",
+        "Lebek G",
+        "LeCotonnec J Y",
+        "Kitler M E"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Infective Agents",
+        "Benzalkonium Compounds",
+        "Culture Media",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Mouth",
+        "Mouth Diseases",
+        "Mouthwashes",
+        "Pharyngeal Diseases",
+        "Pharyngitis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3606702/"
+    },
+    {
+      "pmid": "7818285",
+      "title": "Irritative and systemic symptoms following exposure to Microban disinfectant through a school ventilation system.",
+      "abstract": "Microban, a pesticide not registered in California, was sprayed into an operating heating/ventilation/air conditioning (HVAC) unit at an elementary school in San Francisco, California. This incident occurred on Monday, September 28, 1992, while 396 students and 67 staff members were in the school. The Microban formulation used contains ortho-phenylphenol (0.21%), a quaternary ammonium complex (di-isobutylphenoxy-ethoxy-ethyldimethylbenzyl-ammonium chloride, 0.69%), and bromine (0.04%). This study of the health effects of Microban mist exposure on the school staff was conducted as a result of legal and toxicological concerns. California registration for this formulation had been denied because of inadequate data and because there were concerns about inhalation toxicity in test animals. Predicted health effects from short-duration exposure to Microban are primarily skin and mucous membrane irritation. A self-administered health symptom questionnaire that covered the work week following t",
+      "journal": "Archives of environmental health",
+      "year": "1994",
+      "authors": [
+        "Sesline D",
+        "Ames R G",
+        "Howd R A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Air Pollutants",
+        "Bias",
+        "Bromine",
+        "Child",
+        "Data Collection",
+        "Drug Combinations",
+        "Environmental Exposure",
+        "Female",
+        "Headache"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7818285/"
+    },
+    {
+      "pmid": "442769",
+      "title": "[Therapy of acute inflammatory diseases of the mouth and pharyngeal space].",
+      "abstract": "",
+      "journal": "ZFA. Zeitschrift fur Allgemeinmedizin",
+      "year": "1979",
+      "authors": [
+        "Willenberg W"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Ammonium Chloride",
+        "Anti-Inflammatory Agents",
+        "Cetylpyridinium",
+        "Child",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/442769/"
+    },
+    {
+      "pmid": "34705560",
+      "title": "Chemical Evolution of Rhinovirus Identifies Capsid-Destabilizing Mutations Driving Low-pH-Independent Genome Uncoating.",
+      "abstract": "Rhinoviruses (RVs) cause recurrent infections of the nasal and pulmonary tracts, life-threatening conditions in chronic respiratory illness patients, predisposition of children to asthmatic exacerbation, and large economic cost. RVs are difficult to treat. They rapidly evolve resistance and are genetically diverse. Here, we provide insight into RV drug resistance mechanisms against chemical compounds neutralizing low pH in endolysosomes. Serial passaging of RV-A16 in the presence of the vacuolar proton ATPase inhibitor bafilomycin A1 (BafA1) or the endolysosomotropic agent ammonium chloride (NH4Cl) promoted the emergence of resistant virus populations. We found two reproducible point mutations in viral proteins 1 and 3 (VP1 and VP3), A2526G (serine 66 to asparagine [S66N]), and G2274U (cysteine 220 to phenylalanine [C220F]), respectively. Both mutations conferred cross-resistance to BafA1, NH4Cl, and the protonophore niclosamide, as identified by massive parallel sequencing and reverse",
+      "journal": "Journal of virology",
+      "year": "2022",
+      "authors": [
+        "Murer Luca",
+        "Petkidis Anthony",
+        "Vallet Thomas",
+        "Vignuzzi Marco",
+        "Greber Urs F"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Antiviral Agents",
+        "Capsid",
+        "Capsid Proteins",
+        "Drug Resistance, Viral",
+        "Endosomes",
+        "HeLa Cells",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Intercellular Adhesion Molecule-1",
+        "Mutation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34705560/"
+    },
+    {
+      "pmid": "26482329",
+      "title": "Hydrothermal Formation of Calcium Copper Tetrasilicate.",
+      "abstract": "We describe the first hydrothermal synthesis of CaCuSi4 O10 as micron-scale clusters of thin platelets, distinct from morphologies generated under salt-flux or solid-state conditions. The hydrothermal reaction conditions are surprisingly specific: too cold, and instead of CaCuSi4 O10 , a porous calcium copper silicate forms; too hot, and calcium silicate (CaSiO3 ) forms. The precursors also strongly impact the course of the reaction, with the most common side product being sodium copper silicate (Na2 CuSi4 O10 ). Optimized conditions for hydrothermal CaCuSi4 O10 formation from calcium chloride, copper(II) nitrate, sodium silicate, and ammonium hydroxide are 350 °C at 3000 psi for 72 h; at longer reaction times, competitive delamination and exfoliation causes crystal fragmentation. These results illustrate that CaCuSi4 O10 is an even more unique material than previously appreciated.",
+      "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+      "year": "2015",
+      "authors": [
+        "Johnson-McDaniel Darrah",
+        "Comer Sara",
+        "Kolis Joseph W",
+        "Salguero Tina T"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26482329/"
+    },
+    {
+      "pmid": "27249425",
+      "title": "HTCC: Broad Range Inhibitor of Coronavirus Entry.",
+      "abstract": "To date, six human coronaviruses have been known, all of which are associated with respiratory infections in humans. With the exception of the highly pathogenic SARS and MERS coronaviruses, human coronaviruses (HCoV-NL63, HCoV-OC43, HCoV-229E, and HCoV-HKU1) circulate worldwide and typically cause the common cold. In most cases, infection with these viruses does not lead to severe disease, although acute infections in infants, the elderly, and immunocompromised patients may progress to severe disease requiring hospitalization. Importantly, no drugs against human coronaviruses exist, and only supportive therapy is available. Previously, we proposed the cationically modified chitosan, N-(2-hydroxypropyl)-3-trimethylammonium chitosan chloride (HTCC), and its hydrophobically-modified derivative (HM-HTCC) as potent inhibitors of the coronavirus HCoV-NL63. Here, we show that HTCC inhibits interaction of a virus with its receptor and thus blocks the entry. Further, we demonstrate that HTCC po",
+      "journal": "PloS one",
+      "year": "2016",
+      "authors": [
+        "Milewska Aleksandra",
+        "Kaminski Kamil",
+        "Ciejka Justyna",
+        "Kosowicz Katarzyna",
+        "Zeglen Slawomir"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antiviral Agents",
+        "Cell Line",
+        "Chitosan",
+        "Coronavirus",
+        "Humans",
+        "Macaca mulatta",
+        "Membrane Fusion",
+        "Quaternary Ammonium Compounds",
+        "Virus Replication"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27249425/"
+    },
+    {
+      "pmid": "14053191",
+      "title": "THERAPEUTIC ASPECTS OF ASTHMA, EMPHASIZING THE ROLE AND CONTROL OF COUGH.",
+      "abstract": "",
+      "journal": "Hawaii medical journal",
+      "year": "1963",
+      "authors": [
+        "PRICKMAN L E"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Ammonium Chloride",
+        "Asthma",
+        "Common Cold",
+        "Cough",
+        "Epinephrine",
+        "Humans",
+        "Hypersensitivity",
+        "Iodides",
+        "Neurotic Disorders",
+        "Pathology"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14053191/"
+    }
+  ]
+}

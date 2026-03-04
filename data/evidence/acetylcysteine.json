@@ -1,0 +1,1051 @@
+{
+  "drug": "Acetylcysteine",
+  "drugbank_id": "DB06151",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:21:13Z",
+  "indications": [
+    {
+      "indication": "bronchitis",
+      "evidence_level": "L1",
+      "trials": 13,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 4,
+        "phase1_trials": 0,
+        "other_trials": 8,
+        "rct_articles": 2,
+        "review_articles": 5,
+        "other_articles": 2,
+        "total_trials": 13,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "bronchiectasis",
+      "evidence_level": "L1",
+      "trials": 13,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 9,
+        "rct_articles": 2,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 13,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "amyloidosis",
+      "evidence_level": "L3",
+      "trials": 2,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 7,
+        "total_trials": 2,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "AL amyloidosis",
+      "evidence_level": "L3",
+      "trials": 1,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 1,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 1,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "cystic fibrosis",
+      "evidence_level": "L1",
+      "trials": 17,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 6,
+        "phase1_trials": 1,
+        "other_trials": 8,
+        "rct_articles": 1,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 17,
+        "total_articles": 9
+      }
+    }
+  ],
+  "total_trials": 46,
+  "total_articles": 38,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05843669",
+      "title": "An Open-label, Multicenter, Single-group Study to Evaluate the Effects of Long-term Use of Mucinex® in Patients With Stable Chronic Bronchitis.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-07-17",
+      "completion_date": "2024-11-13",
+      "country": "United States",
+      "enrollment": 82,
+      "brief_summary": "This is an open-label, multicenter, single-group study designed to determine the effectiveness of Mucinex® when used by patients to treat SCB over a 12-week period, following a 2-week run-in period of no treatment (to establish a baseline).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients with a diagnosis of SCB at recruitment, male and female, over 40 years of age\n* A Pulmonary Function Test with FEV1/FVC less than 0.7 (70%) at the time of enrollment or at least a 10 year history of cigarette abuse.\n* Patients who have chronic sputum production ",
+      "endpoints": [
+        "Describe patient-reported real-world clinical use of Mucinex® (i.e., prior to study start) in patients with SCB.",
+        "Describe change in patient-reported real-world clinical use of Mucinex® (i.e., treatment compliance) in patients with SCB.",
+        "Describe change in patient-reported real-world clinical use of Mucinex® (i.e., treatment satisfaction) in patients with SCB."
+      ],
+      "sponsor": "American Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT05843669"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04155632",
+      "title": "Neurocircuit Strategy to Decrease Cocaine Cue Reactivity",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-12-18",
+      "completion_date": "2023-03-09",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "The overarching goal of this project is to examine the effect of combining theta burst stimulation (TBS) and N-acetylcysteine (NAC) on cocaine craving and brain response to cocaine-related images.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1\\. Age 18-65 2. English fluency 4. Meet criteria for cocaine use disorder (CUD), as determined by DSM-V criteria, using the Structured Clinical Interview for DSM-V.\n\n5\\. Enrolled in an intensive outpatient treatment program (MUSC Center for Drug and Alcohol Programs Intensive O",
+      "endpoints": [
+        "Change in Orbitofrontal Cortex (OFC) BOLD Signal During Cocaine Cue Reactivity Task (Pre- vs. Post-TBS)",
+        "Change in POMS Score From Baseline to Post-TBS\"",
+        "Change in Cocaine Craving Rating From Baseline to Post-TBS"
+      ],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT04155632"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07108166",
+      "title": "A Randomized, Single (Operator)-Blinded, Controlled Clinical Study for Assessing Major Symptoms and Function in Patients With Chronic Obstructive Pulmonary Disease (COPD) With Chronic Bronchitis Who Switch From Combustible Cigarettes (CIG) to Tobacco Heating System (THS)",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-04-02",
+      "completion_date": "2026-11",
+      "country": "Slovakia, Germany, United Kingdom, Romania, Czechia, Japan, Poland, Bulgaria, United States",
+      "enrollment": 290,
+      "brief_summary": "The purpose of this randomized study is to demonstrate direct clinical benefit, i.e., observed benefits in how humans with COPD feel in terms of symptoms (e.g., cough frequency, shortness of breath, and other respiratory symptoms) and function (e.g., lung function, and six-minute walking test \\[6MWT\\]) after switching to THS compared to continuing to smoking cigarettes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult, both sexes, aged ≥ 40 years.\n* Patient has read, understood, and signed the written informed consent form (ICF), which has received IEC or IRB approval.\n* Patient with body mass index (BMI) 17.6-40.0 kg/m2 and body weight \\> 50 kg (male) or \\> 40 kg (female). Checked at",
+      "endpoints": [
+        "Reduction in 24-hour cough frequency"
+      ],
+      "sponsor": "Philip Morris Products S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT07108166"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00205647",
+      "title": "A Phase II Multicenter Efficacy, Safety and Dose-Effect Study of the Expectorant Activity of Oral N-acetylcystein (NAC) in Patients With Stable, Chronic Bronchitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1997-01",
+      "completion_date": "2000-03",
+      "country": "United States",
+      "enrollment": 240,
+      "brief_summary": "This is a randonmized, masked, placebo-controlled parallel group, clinical trial to evaluate the effects of three different doses of N-acetyl L-cysteine (NAC) and placebo on patient safety and on physical and transport properties of expectorated sputum. Patient sumptoms, quality of life and exacerbation will also be followed as well as pulmonary function testing and functional exercise capacity. We hypothesized that a prolongeed course of oral NAC favorably affects the morbidity of chronic bronc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Smokers (past or current,20 pack years) with diagnosis of chronic bronchitis\n* expectorate sputum daily\n* FEV1 of 40-70%\n* understand and fill out questionnaire daily\n\nExclusion Criteria:\n\n* other investigational within 30 days\n* change in smoking habit within 6 months\n* pulmo",
+      "endpoints": [
+        "Acute exacerbations",
+        "Clinical assessments"
+      ],
+      "sponsor": "Wake Forest University Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00205647"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01713179",
+      "title": "Effects of Oral Mucolytics on Tear Film and Ocular Surface",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2011-10",
+      "country": "South Korea",
+      "enrollment": 20,
+      "brief_summary": "Ambroxol is a metabolite of bromhexine and possesses mucokinetic and secretolytic properties that are also found in mucolytic agents.1 Ambroxol has been used for decades for the treatment of respiratory disorders associated with excessive mucus, including chronic inflammatory pulmonary conditions, bronchitis, and pneumonia.2,3 The drug changes the biophysical properties of secretions by degrading the mucin polymers, deoxyribonucleic acid, fibrin in airway secretions, and by generally decreasing ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Twenty healthy male volunteers aged between 25 and 29 years\n\nExclusion Criteria:\n\n* Subjects with dry eye symptoms within the previous 6 months were excluded from the study.\n* Subjects have any systemic diseases such as systemic lupus, rheumatoid arthritis, Sjögren's syndrome ",
+      "endpoints": [
+        "Visual analog pain score",
+        "Fluorescein staining",
+        "Tear break up time"
+      ],
+      "sponsor": "Hallym University Kangnam Sacred Heart Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01713179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06688292",
+      "title": "A Randomized, Safety and Efficacy Study of Taneasy 600mg Granules and Actein Effervescent Tablets 600MG in COPD Subjects",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2024-09-20",
+      "completion_date": "2024-12-31",
+      "country": "Taiwan",
+      "enrollment": 42,
+      "brief_summary": "To evaluate the safety and efficacy of Taneasy 600mg granules and Actein effervescent tablets 600MG administered twice daily for 14 days in treatment of COPD Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects aged older than 20\\~75 years old.\n2. Able to sign informed consent prior to the study.\n3. Subjects have COPD.\n\nExclusion Criteria:\n\n1. Subjects with known hypersensitivity to Acetylcysteine preparations.\n2. Subjects with other serious medical diseases that are judged",
+      "endpoints": [
+        "To evaluate the safety and efficacy of Taneasy 600mg granules and Actein effervescent tablets 600MG administered twice daily for 14 days in treatment of COPD Disease."
+      ],
+      "sponsor": "Bun Yao Biotechnology Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT06688292"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01599884",
+      "title": "Effects of High-Dose N-Acetylcysteine on Respiratory Health Status in Patients With Chronic Obstructive Pulmonary Disease (COPD) and Chronic Bronchitis: A Randomized, Placebo-Controlled Trial-1",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2012-06",
+      "completion_date": "2013-08",
+      "country": "United States",
+      "enrollment": 65,
+      "brief_summary": "N-acetylcysteine (NAC) is described as having mucolytic and antioxidant properties. It is widely prescribed for patients with chronic obstructive pulmonary disease (COPD), particularly for those who have accompanying symptoms of chronic cough and sputum production. Randomized, placebo controlled indicate that it is safe and that it may have some clinical benefit when used at relatively low doses. It is postulated that substantially higher doses of NAC will be well-tolerated and will provide bett",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inclusion Criteria\n\n  * Capability to provide written informed consent\n  * Age ≥ 40 years and ≤ 85 years\n  * FEV1/FVC ratio (post bronchodilator) \\< 70%\n  * FEV1 (post bronchodilator) \\< 65%\n  * Presence of chronic cough and sputum production defined as the following:\n* Presen",
+      "endpoints": [
+        "Changes in the St. George's Respiratory Questionnaire"
+      ],
+      "sponsor": "Center for Veterans Research and Education",
+      "url": "https://clinicaltrials.gov/study/NCT01599884"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06828120",
+      "title": "A Randomized, Safety and Efficacy Study of Taneasy 600mg Granules and Fluimucil 600mg Granules in COPD Subjects",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2025-02-20",
+      "completion_date": "2025-09-17",
+      "country": "Taiwan",
+      "enrollment": 45,
+      "brief_summary": "To evaluate the safety and efficacy of Taneasy 600mg granules and Fluimucil 600mg granules administered twice daily for 14 days in treatment of COPD Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged older than 20\\~75 years old.\n* Able to sign informed consent prior to the study.\n* The appearance of sputum and the difficulty of expectoration are both at level 2 or above.\n\nExclusion Criteria:\n\n* Subjects with known hypersensitivity to Acetylcysteine preparatio",
+      "endpoints": [
+        "To evaluate the safety and efficacy of Taneasy 600mg granules and Fluimucil 600MG granules administered twice daily for 14 days in treatment of COPD Disease."
+      ],
+      "sponsor": "Bun Yao Biotechnology Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT06828120"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01739790",
+      "title": "Effects of High-Dose N-Acetylcysteine on Respiratory Health Status in Patients With Chronic Obstructive Pulmonary Disease (COPD) and Chronic Bronchitis: A Randomized, Placebo-Controlled Trial-3",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2013-01",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 51,
+      "brief_summary": "N-acetylcysteine (NAC) is described as having mucolytic and antioxidant properties. It is widely prescribed for patients with chronic obstructive lung disease (COPD), particularly for those who have accompanying symptoms of chronic cough and sputum production. Compared to placebo, high-dose NAC will improve Saint George Respiratory Questionnaire scores in patients with COPD and chronic bronchitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Capability to provide written informed consent\n* Age ≥ 40 years and ≤ 85 years\n* FEV1/FVC ratio (post bronchodilator) \\< 70%\n* FEV1 (post bronchodilator) \\< 65%\n* Presence of chronic cough and sputum production defined as the following:\n* Presence of chronic cough and sputum w",
+      "endpoints": [
+        "Changes in the Saint George's Respiratory Questionnaire"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT01739790"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00184977",
+      "title": "A Double-blind Placebo-controlled Trial Comparing the Efficacy and Cost-effectiveness of Inhaled Fluticason Propionate Versus Oral N-acetylcysteine in the Treatment of Patients With COPD in General Practice",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "1998-12",
+      "completion_date": "2003-01",
+      "country": "Netherlands",
+      "enrollment": 270,
+      "brief_summary": "The aim of this family practice based study is to determine the long-term treatment effects of two drugs that are presumed to modify the course and progression of chronic obstructive pulmonary disease (COPD), oral N-acetylcysteine and inhaled corticosteroids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age between 30 and 75 years\n* being a smoker or ex-smoker\n* post-bronchodilator FEV1/FVC ratio is \\<88% of the predicted value in case of men or \\<89% of the predicted value in case of women\n* post-bronchodilator FEV1\\>=40% and \\<90% of the predicted value\n* subjects have a GP",
+      "endpoints": [
+        "exacerbations of COPD, condition-specific quality of life"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00184977"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06727422",
+      "title": "A Phase 2b, Randomized, Double-Blind, Placebo- Controlled, Multicenter Study to Assess the Safety, Efficacy and Pharmacokinetics of RNIB21 in the Treatment of Patients With Irritable Bowel Syndrome With Diarrhea (IBS-D)",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-12-15",
+      "completion_date": "2027-01-01",
+      "country": "N/A",
+      "enrollment": 225,
+      "brief_summary": "The purpose of this study is to examine the effectiveness of using a combination of a drug, rifaximin and a dietary supplement, N-acetyl-L-cysteine (NAC), to treat patients with irritable bowel syndrome with diarrhea (IBS-D). Rifaximin is one of the standard treatments for IBS-D and is FDA approved. While rifaximin is safe and effective for treating symptoms in patients with IBS-D, many patients find that their symptoms may not completely resolve, or may come back after a period of time.\n\nThis r",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or non-pregnant, non-lactating female patients ≥ 18 years of age\n2. Diagnosed with IBS confirmed by the Rome IV criteria, with associated symptoms of diarrhea as noted below in 4(b).\n3. Do not have adequate relief of IBS symptoms of abdominal pain, stool consistency or s",
+      "endpoints": [
+        "stool consistency",
+        "Abdominal pain"
+      ],
+      "sponsor": "Cedars-Sinai Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT06727422"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03364218",
+      "title": "Nebulized N-Acetyl Cysteine for Bronchiolitis in Inpatient Hospital Use: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-02-01",
+      "completion_date": "2020-05-31",
+      "country": "United States",
+      "enrollment": 106,
+      "brief_summary": "Bronchiolitis is the major cause of hospital admission in infants \\< 6 months of age and usually viruses like Respiratory syncytial virus (RSV), human metapneumo virus, Adeno virus, para-influenza virus, Rhino virus and influenza virus are the main culprit. In the US, acute bronchiolitis in infancy is responsible for approximately 150,000 hospitalizations yearly at an estimated cost of $500 million. Globally in 2005 it was estimated that at least 33.8 million were affected with RSV and in the sa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Full term new born neonates up to patients \\< 2yrs\n* Respiratory score ≥2\n* Otherwise healthy with new respiratory illness\n\nExclusion Criteria:\n\n* Prematurity \\<34 weeks for patients \\<6 months age.\n* h/o congenital heart disease requiring baseline medication\n* Patient receive",
+      "endpoints": [
+        "Respiratory Score",
+        "Time on Non-Invasive Ventilation",
+        "Duration of PICU/Hospital Admission"
+      ],
+      "sponsor": "Carilion Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT03364218"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03843541",
+      "title": "A Phase III, Multi-centre, Randomized, Rater- and Patient-blind, Placebo- and Active-controlled, Parallel Group Clinical Trial to Compare the Efficacy and Safety of 1-week Treatment of Intravenous N-acetylcysteine (NAC) 600 mg Twice Daily (Active Test Treatment), Ambroxol Hydrochloride 30 mg Twice Daily (Active Control Treatment) and Placebo as Expectorant Therapies in Adult Chinese Patients With Respiratory Tract Diseases and Abnormal Mucus Secretions",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-06-25",
+      "completion_date": "2021-02-05",
+      "country": "China",
+      "enrollment": 333,
+      "brief_summary": "This is a phase 3, multicenter, randomized, rater- and patient-blind, placebo- and active-controlled, 3-arm parallel group clinical trial. Patients will be randomized to N-acetylcysteine (NAC) or ambroxol or placebo in a 1:1:1 ratio. A total of approximately 333 patients in China will be randomized. The total study duration will be approximately 8 months including the enrolment period of approximately 7 months and the patient participation duration of 1 month or 4 weeks. Each patient will underg",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female adult (≥18 years old) hospitalized patients with respiratory tract diseases and abnormal mucus secretions such as: acute bronchitis, chronic bronchitis and exacerbations, emphysema, mucoviscidosis and bronchiectasis.\n2. Chinese ethnicity and/or Chinese\n3. Signe",
+      "endpoints": [
+        "Change From Baseline to Day 7 of Mean Sputum Viscosity Score of NAC and Placebo",
+        "Change From Baseline to Day 7 Treatment of Mean Expectoration Difficulty Score of NAC and Placebo"
+      ],
+      "sponsor": "Zambon SpA",
+      "url": "https://clinicaltrials.gov/study/NCT03843541"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07136987",
+      "title": "A Randomized Controlled Trial of 2 Disease-Modifying Drugs (Metformin and N-acetylcysteine ) to Promote TB Lung Function Recovery (TB-MET-NAC)",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01",
+      "completion_date": "2031-07",
+      "country": "N/A",
+      "enrollment": 1104,
+      "brief_summary": "Tuberculosis is a leading global cause of morbidity and mortality. Even if cured, a majority patients are left with bronchiectasis and fibrosis, permanent conditions that impair lung function. Large cohort studies have confirmed that even modest loss of lung function is associated with excess mortality risk. This study will examine if two treatments, metformin and N-acetylcysteine (NAC), can promote the recovery of lung function in TB if given together with standard TB treatment. There currently",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Willing and able to provide signed written consent (or, in the case of illiteracy, witnessed oral consent plus patient thumbprint) prior to undertaking any trial-related procedures.\n* Body weight (in light clothing without shoes) between 30 and 90 kg.\n* Radiographic evidence o",
+      "endpoints": [
+        "FEV1",
+        "Favourable treatment outcome"
+      ],
+      "sponsor": "Open Source Pharma Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT07136987"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03177889",
+      "title": "Efficacy and Safety of Lung Dispersing, Turbid Descending and Gut Clearing Decoction on Clinically Stable Bronchiectasis (LUNG-CLEAR): A Multicenter, Randomized, Cross-over Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-12-31",
+      "completion_date": "2023-12-31",
+      "country": "N/A",
+      "enrollment": 80,
+      "brief_summary": "Bronchiectasis is a chronic airway disease which confers significant healthcare burden, with limited therapeutic approaches. From the perspective of traditional Chinese medicine, congenital insufficiency of the lung, spleen and kidney, when coupled with external injury or mood impairment, may collectively contribute to bronchiectasis pathogenesis due to heat trapping in the phlems, congestion of wind evils and stagnation of blood. Here, the investigators will explore the Lung Dispersing, Turbid ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* aged between 18 and 75 years;\n* remained clinically stable (respiratory symptoms and lung function parameters not exceeding normal daily variations) for 4 consecutive weeks;\n* no acute upper respiratory tract infections within 4 weeks;\n* 1 or more BEs within the previous 2 yea",
+      "endpoints": [
+        "Changes in Bronchiectasis Health Questionnaire scores at month 6 compared with baseline"
+      ],
+      "sponsor": "Guangzhou Institute of Respiratory Disease",
+      "url": "https://clinicaltrials.gov/study/NCT03177889"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07293884",
+      "title": "Efficacy of Nebulized Versus Intravenous N- Acetylcysteine in Airway Clearance in Broncheictasis",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-12",
+      "completion_date": "2026-04",
+      "country": "N/A",
+      "enrollment": 70,
+      "brief_summary": "It has been deduced that reducing the production of mucus or improving the clearance of sputum in the airway is the key to enhance the therapeutic efficacy for bronchiectasis . Mucoactive drugs are commonly used to clear the airway in mucus hypersecretion diseases. Currently, investigators have found that N-acetylcysteine (NAC), an effective mucolytic agent, not only reduces the viscosity and elasticity of sputum, but it also has anti-inflammatory and antioxidant activity.\n\nAdditionally, the Spa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged above 18 years old; with a diagnosis of bronchiectasis who are admitted to chest department due to acute exacerbation\n\nExclusion Criteria:\n\n* current smokers, a known allergy to N-acetylcysteine; pregnancy or lactation (for women); primary diagnosis of COPD or as",
+      "endpoints": [
+        "sputum viscosity score",
+        "Amount of sputum",
+        "Expectoration difficulty score"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT07293884"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06688292",
+      "title": "A Randomized, Safety and Efficacy Study of Taneasy 600mg Granules and Actein Effervescent Tablets 600MG in COPD Subjects",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2024-09-20",
+      "completion_date": "2024-12-31",
+      "country": "Taiwan",
+      "enrollment": 42,
+      "brief_summary": "To evaluate the safety and efficacy of Taneasy 600mg granules and Actein effervescent tablets 600MG administered twice daily for 14 days in treatment of COPD Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects aged older than 20\\~75 years old.\n2. Able to sign informed consent prior to the study.\n3. Subjects have COPD.\n\nExclusion Criteria:\n\n1. Subjects with known hypersensitivity to Acetylcysteine preparations.\n2. Subjects with other serious medical diseases that are judged",
+      "endpoints": [
+        "To evaluate the safety and efficacy of Taneasy 600mg granules and Actein effervescent tablets 600MG administered twice daily for 14 days in treatment of COPD Disease."
+      ],
+      "sponsor": "Bun Yao Biotechnology Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT06688292"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02088216",
+      "title": "Effect of N-acetylcysteine on Exacerbations of Bronchiectasis (BENE): a Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-04-01",
+      "completion_date": "2018-03-30",
+      "country": "China",
+      "enrollment": 161,
+      "brief_summary": "Objective: To evaluate whether long-term oral N-acetylcysteine as an expectorant drug can reduce the frequency of acute exacerbations of patients with non-cystic fibrosis bronchiectasis and improve their quality of life.\n\nMethods: Patients with non-cystic fibrosis bronchiectasis will be randomly assigned to the observer group (participants receive 600 mg of oral N-acetylcysteine BID for 12 months) or the control group (participants receive oral tablet BID for 12 months). The primary endpoint was",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. subjects were aged 18-80 years old;\n2. a diagnosis of idiopathic or post-infective bronchiectasis was made;\n3. patients had at least two exacerbations in the past year and were in a stable state for at least 4 weeks prior to the primary enrollment.\n\nExclusion Criteria:\n\nPatie",
+      "endpoints": [
+        "Median Number of Exacerbations"
+      ],
+      "sponsor": "Qilu Hospital of Shandong University",
+      "url": "https://clinicaltrials.gov/study/NCT02088216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04798118",
+      "title": "A Study on Toilet Bronchoscopy In Respiratory ICU, Assiut University Hospital",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-04-01",
+      "completion_date": "2023-12",
+      "country": "Egypt",
+      "enrollment": 130,
+      "brief_summary": "Toilet bronchoscopy is a potentially therapeutic intervention to aspirate retained secretions within the endotracheal tube and airways and revert atelectasis. Aspiration of airway secretions is the most common indication to perform a therapeutic bronchoscopy in the intensive care unit (ICU) .\n\nToilet bronchoscopy is particularly beneficial when retained secretions are visible during the procedure and when air-bronchograms are not present at the chest radiograph. It is also beneficial when there ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Patients on mechanical ventilation with underlying dieases that are characterized with mucus overproduction such as asthma, chronic obstructive pulmonary disease (COPD), bronchiectasis, and cystic fibrosis.\n\n  * Patients on mechanical ventilation with visible large amount of",
+      "endpoints": [
+        "1- percent of patients develop radiological improvement",
+        "2- improvement of hypoxemia",
+        "3-Lung mechanics reduction post procedure in mechanical ventilated patients"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT04798118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02765295",
+      "title": "Efficacy and Safety of Hydrogen Inhalation on Bronchiectasis (HYBRID): A Randomized, Multi-center, Double-blind, Parallel-group Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2016-06-01",
+      "completion_date": "2021-12",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "This is a multi-center, randomized, double-blind, parallel-group trial. After a 2-week run-in period, eligible patients will be, based on the randomization codes kept in sealed envelopes, randomly assigned to receive usual care (mucolytics and/or chest physiotherapy) plus oxygen inahaltion (1 hr daily for 12 consecutive months) or hydrogen inhalation (1 hr daily for 12 consecutive months) provided by the sponsor. At 3 months after the end-of-treatment, a follow-up visit will be scheduled for all",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Out-patients of either gender, ex- or never-smokers, aged between 18 and 75 years\n* Clinically stable bronchiectasis, defined as respiratory symptoms and lung function parameters not exceeding normal daily variations and no acute upper respiratory tract infections for 4 consec",
+      "endpoints": [
+        "Frequency of bronchiectasis exacerbations (BEs) within 12 months"
+      ],
+      "sponsor": "Guangzhou Institute of Respiratory Disease",
+      "url": "https://clinicaltrials.gov/study/NCT02765295"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "38555190",
+      "title": "N-acetylcysteine Treatment in Chronic Obstructive Pulmonary Disease (COPD) and Chronic Bronchitis/Pre-COPD: Distinct Meta-analyses.",
+      "abstract": "N-acetylcysteine (NAC) is a mucolytic agent with antioxidant properties. Oxidative stress is a key pathogenic mechanism in chronic respiratory conditions such as COPD and chronic bronchitis (CB). In these meta-analyses we investigated the efficacy of NAC in subjects with COPD or CB, the latter being a potential pre-COPD condition (CB/pre-COPD).",
+      "journal": "Archivos de bronconeumologia",
+      "year": "2024",
+      "authors": [
+        "Papi Alberto",
+        "Alfano Franco",
+        "Bigoni Tommaso",
+        "Mancini Lorenzo",
+        "Mawass Amal"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Acetylcysteine",
+        "Bronchitis, Chronic",
+        "Disease Progression",
+        "Expectorants",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Quality of Life",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38555190/"
+    },
+    {
+      "pmid": "26324807",
+      "title": "Influence of N-acetylcysteine on chronic bronchitis or COPD exacerbations: a meta-analysis.",
+      "abstract": "In order to clarify the possible role of N-acetylcysteine (NAC) in the treatment of patients with chronic bronchitis and chronic obstructive pulmonary disease (COPD), we have carried out a meta-analysis testing the available evidence that NAC treatment may be effective in preventing exacerbations of chronic bronchitis or COPD and evaluating whether there is a substantial difference between the responses induced by low (≤ 600 mg per day) and high (> 600 mg per day) doses of NAC. The results of the present meta-analysis (13 studies, 4155 COPD patients, NAC n = 1933; placebo or controls n = 2222) showed that patients treated with NAC had significantly and consistently fewer exacerbations of chronic bronchitis or COPD (relative risk 0.75, 95% CI 0.66-0.84; p < 0.01), although this protective effect was more apparent in patients without evidence of airway obstruction. However, high doses of NAC were also effective in patients suffering from COPD diagnosed using spirometric criteria (relativ",
+      "journal": "European respiratory review : an official journal of the European Respiratory Society",
+      "year": "2015",
+      "authors": [
+        "Cazzola Mario",
+        "Calzetta Luigino",
+        "Page Clive",
+        "Jardim Josè",
+        "Chuchalin Alexander G"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Bronchitis, Chronic",
+        "Bronchodilator Agents",
+        "Disease Progression",
+        "Humans",
+        "Lung",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26324807/"
+    },
+    {
+      "pmid": "35795313",
+      "title": "Efficacy and Safety of N-Acetylcysteine for Chronic Obstructive Pulmonary Disease and Chronic Bronchitis.",
+      "abstract": "Patients with chronic obstructive pulmonary disease (COPD) and chronic bronchitis are associated with poor clinical outcomes. N-acetylcysteine (NAC) is a widely used therapeutic option for such patients; however, the clinical efficacy of NAC has not been conclusively determined. We hypothesized that high-dose oral NAC can improve the clinical outcomes for patients with concurrent chronic bronchitis and COPD. Objective and Methods. This was a randomized, double-blind, placebo-controlled trial evaluating the efficacy of high-dose NAC for COPD patients with concurrent chronic bronchitis. Study participants were randomized into two groups and administered with NAC (900 mg) twice daily or matching placebo for 3 months. Then, respiratory health status was evaluated using the St. George's Respiratory Questionnaire (SGQR), which was set as the primary end point.",
+      "journal": "BioMed research international",
+      "year": "2022",
+      "authors": [
+        "Zhang Li",
+        "Xiong Yan",
+        "Du Lei"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Retracted Publication"
+      ],
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Bronchitis, Chronic",
+        "Double-Blind Method",
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Surveys and Questionnaires"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35795313/"
+    },
+    {
+      "pmid": "31107966",
+      "title": "Mucolytic agents versus placebo for chronic bronchitis or chronic obstructive pulmonary disease.",
+      "abstract": "Individuals with chronic bronchitis or chronic obstructive pulmonary disease (COPD) may suffer recurrent exacerbations with an increase in volume or purulence of sputum, or both. Personal and healthcare costs associated with exacerbations indicate that therapies that reduce the occurrence of exacerbations are likely to be useful. Mucolytics are oral medicines that are believed to increase expectoration of sputum by reducing its viscosity, thus making it easier to cough it up. Improved expectoration of sputum may lead to a reduction in exacerbations of COPD.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2019",
+      "authors": [
+        "Poole Phillippa",
+        "Sathananthan Kavin",
+        "Fortescue Rebecca"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Bronchitis, Chronic",
+        "Disease Progression",
+        "Expectorants",
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Quality of Life",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31107966/"
+    },
+    {
+      "pmid": "39413571",
+      "title": "Efficacy and safety of mucolytics in patients with stable chronic obstructive pulmonary disease: A systematic review and meta-analysis.",
+      "abstract": "The efficacy and safety of mucolytics in patients with chronic obstructive pulmonary disease (COPD) and chronic bronchitis or exacerbations of COPD have been reported. We conducted a systematic review and meta-analysis of mucolytics in patients with stable COPD.",
+      "journal": "Respiratory investigation",
+      "year": "2024",
+      "authors": [
+        "Ohnishi Hiroshi",
+        "Tanimoto Takuya",
+        "Inaba Ryunosuke",
+        "Eitoku Masamitsu"
+      ],
+      "pub_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Pulmonary Disease, Chronic Obstructive",
+        "Humans",
+        "Expectorants",
+        "Ambroxol",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome",
+        "Acetylcysteine",
+        "Disease Progression",
+        "Carbocysteine",
+        "Hospitalization"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39413571/"
+    },
+    {
+      "pmid": "38075328",
+      "title": "Retracted: Efficacy and Safety of N-Acetylcysteine for Chronic Obstructive Pulmonary Disease and Chronic Bronchitis.",
+      "abstract": "[This retracts the article DOI: 10.1155/2022/9133777.].",
+      "journal": "BioMed research international",
+      "year": "2023",
+      "authors": [
+        "International BioMed Research"
+      ],
+      "pub_types": [
+        "Retraction Notice"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38075328/"
+    },
+    {
+      "pmid": "10610368",
+      "title": "[Acetylcysteine in bronchitis and pneumonia].",
+      "abstract": "",
+      "journal": "Der Internist",
+      "year": "1999",
+      "authors": [
+        "Vogelmeier C"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Bronchitis",
+        "Clinical Trials as Topic",
+        "Expectorants",
+        "Free Radical Scavengers",
+        "Humans",
+        "Pneumonia",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10610368/"
+    },
+    {
+      "pmid": "19138505",
+      "title": "Fluticasone and N-acetylcysteine in primary care patients with COPD or chronic bronchitis.",
+      "abstract": "Increased oxidative stress and bronchial inflammation are important mechanisms in the pathophysiology of COPD.",
+      "journal": "Respiratory medicine",
+      "year": "2009",
+      "authors": [
+        "Schermer Tjard",
+        "Chavannes Niels",
+        "Dekhuijzen Richard",
+        "Wouters Emiel",
+        "Muris Jean"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Adult",
+        "Aged",
+        "Androstadienes",
+        "Bronchitis, Chronic",
+        "Bronchodilator Agents",
+        "Expectorants",
+        "Female",
+        "Fluticasone",
+        "Forced Expiratory Volume"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19138505/"
+    },
+    {
+      "pmid": "23728642",
+      "title": "Acetylcysteine and carbocysteine for acute upper and lower respiratory tract infections in paediatric patients without chronic broncho-pulmonary disease.",
+      "abstract": "Acetylcysteine and carbocysteine are the most commonly prescribed mucolytic drugs in Brazil and many European and African countries. To our knowledge, no systematic review has been published on their efficacy and safety for acute upper and lower respiratory tract infections (RTIs) in children without chronic broncho-pulmonary disease.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2013",
+      "authors": [
+        "Chalumeau Martin",
+        "Duijvestijn Yvonne C M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Acute Disease",
+        "Age Factors",
+        "Carbocysteine",
+        "Child",
+        "Child, Preschool",
+        "Cough",
+        "Expectorants",
+        "Humans",
+        "Infant"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23728642/"
+    },
+    {
+      "pmid": "39064168",
+      "title": "Anti-Inflammatory and Anti-Oxidant Properties of N-Acetylcysteine: A Fresh Perspective.",
+      "abstract": "N-acetyl-L-cysteine (NAC) was initially introduced as a treatment for mucus reduction and widely used for chronic respiratory conditions associated with mucus overproduction. However, the mechanism of action for NAC extends beyond its mucolytic activity and is complex and multifaceted. Contrary to other mucoactive drugs, NAC has been found to exhibit antioxidant, anti-infective, and anti-inflammatory activity in pre-clinical and clinical reports. These properties have sparked interest in its potential for treating chronic lung diseases, including chronic obstructive pulmonary disease (COPD), bronchiectasis (BE), cystic fibrosis (CF), and idiopathic pulmonary fibrosis (IPF), which are associated with oxidative stress, increased levels of glutathione and inflammation. NAC's anti-inflammatory activity is noteworthy, and it is not solely secondary to its antioxidant capabilities. In ex vivo models of COPD exacerbation, the anti-inflammatory effects have been observed even at very low doses",
+      "journal": "Journal of clinical medicine",
+      "year": "2024",
+      "authors": [
+        "Santus Pierachille",
+        "Signorello Juan Camilo",
+        "Danzo Fiammetta",
+        "Lazzaroni Giada",
+        "Saad Marina"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39064168/"
+    },
+    {
+      "pmid": "38141851",
+      "title": "Evaluation of high dose N- Acetylcysteine on airway inflammation and quality of life outcomes in adults with bronchiectasis: A randomised placebo-controlled pilot study.",
+      "abstract": "High dose N acetylcysteine (NAC), a mucolytic, anti-inflammatory and antioxidant agent has been shown to significantly reduce exacerbations, and improve quality of life in placebo controlled, double blind randomised (RCT) studies in patients with COPD, and in an open, randomised study in bronchiectasis. In this pilot, randomised, double-blind, placebo-controlled study, we wished to investigate the feasibility of a larger clinical trial, and the anti-inflammatory and clinical benefits of high dose NAC in bronchiectasis.",
+      "journal": "Pulmonary pharmacology & therapeutics",
+      "year": "2024",
+      "authors": [
+        "Jayaram L",
+        "King P T",
+        "Hunt J",
+        "Lim M",
+        "Park C"
+      ],
+      "pub_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Male",
+        "Aged",
+        "Acetylcysteine",
+        "Quality of Life",
+        "Pilot Projects",
+        "Bronchiectasis",
+        "Inflammation",
+        "Anti-Inflammatory Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38141851/"
+    },
+    {
+      "pmid": "35361640",
+      "title": "Efficacy of N-acetylcysteine on idiopathic or postinfective non-cystic fibrosis bronchiectasis: a systematic review and meta-analysis protocol.",
+      "abstract": "Non-cystic fibrosis (non-CF) bronchiectasis is a chronic pulmonary disorder that causes destruction and permanent dilatation of the airways, resulting in excessive sputum production, repeated infection and inflammation. A need for high-quality and specialised care has been highlighted in recent years. N-acetylcysteine (NAC) is a widely used mucolytic agent in respiratory diseases that not only possesses a property to enhance secretion clearance, but also exhibits antioxidant and anti-inflammatory effects. However, the efficacy and safety of NAC are not well described in idiopathic or postinfective non-CF bronchiectasis.",
+      "journal": "BMJ open",
+      "year": "2022",
+      "authors": [
+        "Luo Ai",
+        "Liu Xuemei",
+        "Hu Qiongqiong",
+        "Yang Mei",
+        "Jiang Hongli"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Bronchiectasis",
+        "Humans",
+        "Meta-Analysis as Topic",
+        "Quality of Life",
+        "Research Design",
+        "Systematic Reviews as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35361640/"
+    },
+    {
+      "pmid": "40180519",
+      "title": "Effect of N-Acetylcysteine on Bronchiectasis in a Real-life Study. Data From the Spanish RIBRON Registry.",
+      "abstract": "There is scarce information about the most used mucolytic drug in bronchiectasis N-acetylcysteine (N-AC). Our objective was to analyze the effect of N-AC with respect to some outcomes in bronchiectasis.",
+      "journal": "Archivos de bronconeumologia",
+      "year": "2025",
+      "authors": [
+        "Oscullo Grace",
+        "Méndez Raúl",
+        "Olveira Casilda",
+        "Girón Rosa",
+        "García-Clemente Marta"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Observational Study",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Bronchiectasis",
+        "Acetylcysteine",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Aged",
+        "Registries",
+        "Spain",
+        "Expectorants"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40180519/"
+    },
+    {
+      "pmid": "37203858",
+      "title": "Rationale and evidence for the adjunctive use of N-acetylcysteine in multidrug-resistant infections.",
+      "abstract": "Bacterial multidrug resistance has been a serious issue for healthcare systems in recent decades, responsible for many infections and deaths. Due to the increasing incidence of antimicrobial resistance and scarce treatment options, research is focused on finding possible therapeutic adjuvants able to increase the efficacy of antibiotics. The aim of this article is a review of available evidence on the use of N-acetylcysteine (NAC). MEDLINE/PubMed was searched for appropriate keywords. In vitro and in vivo preclinical studies, clinical studies, reviews, and meta-analyses were retrieved and selected based on relevance. A narrative review article was written, reporting published evidence and the expert opinion of the authors. Among possible adjunctive treatments, NAC has attracted the interest of researchers as a candidate for re-purposing. It is a widely used drug with a good tolerability profile, mainly used as a mucolytic agent, with antioxidant, anti-inflammatory properties and antiba",
+      "journal": "European review for medical and pharmacological sciences",
+      "year": "2023",
+      "authors": [
+        "Oliva A",
+        "Pallecchi L",
+        "Rossolini G M",
+        "Travaglino F",
+        "Zanatta P"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Acetylcysteine",
+        "Drug Resistance, Multiple, Bacterial",
+        "Anti-Bacterial Agents",
+        "Expectorants",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Klebsiella Infections",
+        "Klebsiella pneumoniae",
+        "Microbial Sensitivity Tests"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37203858/"
+    },
+    {
+      "pmid": "24789119",
+      "title": "Mucolytics for bronchiectasis.",
+      "abstract": "Bronchiectasis is predominantly an acquired disease process that represents the end stage of a variety of unrelated pulmonary insults. It is defined as persistent irreversible dilatation and distortion of medium-sized bronchi. It has been suggested that with widespread use of high-resolution computed tomography, more bronchiectasis diagnoses are being made. Patients diagnosed with bronchiectasis frequently have difficulty expectorating sputum. Sputum therefore is retained in the lungs and may become infected, leading to further lung damage. Mucolytic agents target hypersecretion or changed physiochemical properties of sputum to make it easier to clear. One drug, recombinant human DNase, breaks down the DNA that is released at the site of infection by neutrophils.Mucus clearance along with antimicrobial therapy remains an integral part of bronchiectasis management. Chest physiotherapy along with mucolytic agents is commonly used in practice without clear supportive evidence.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2014",
+      "authors": [
+        "Wilkinson Mark",
+        "Sugumar Karnam",
+        "Milan Stephen J",
+        "Hart Anna",
+        "Crockett Alan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Bromhexine",
+        "Bronchiectasis",
+        "Deoxyribonucleases",
+        "Drug Therapy, Combination",
+        "Expectorants",
+        "Humans",
+        "Randomized Controlled Trials as Topic",
+        "Recombinant Proteins",
+        "Thioglycolates"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24789119/"
+    },
+    {
+      "pmid": "30975143",
+      "title": "Effect of N-acetylcysteine on exacerbations of bronchiectasis (BENE): a randomized controlled trial.",
+      "abstract": "N-acetylcysteine is a classic mucolytic agent. This study aimed to investigate the efficacy of N-acetylcysteine on reducing the risk of exacerbations in bronchiectasis patients.",
+      "journal": "Respiratory research",
+      "year": "2019",
+      "authors": [
+        "Qi Qian",
+        "Ailiyaer Yirepanjaing",
+        "Liu Ruijuan",
+        "Zhang Yan",
+        "Li Caiyu"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Adult",
+        "Aged",
+        "Bronchiectasis",
+        "Female",
+        "Follow-Up Studies",
+        "Free Radical Scavengers",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30975143/"
+    },
+    {
+      "pmid": "39549856",
+      "title": "The precision medicine strategy to treat COPD pulmonary traits in clinical practice: The role of N-acetylcysteine.",
+      "abstract": "Chronic obstructive pulmonary disease (COPD) is a progressive lung condition and a leading cause of physical decline and death. COPD prevalence is expected to increase steadily in the coming years, and as a result, the healthcare and social burden of this condition will intensify. In this scenario, a patient-centric approach, the treatable trait (TT) strategy, based on the identification of traits that are clinically relevant, identifiable, monitorable and treatable, has emerged. The TT strategy, which considers behavioral/risk factors, as well as pulmonary and extrapulmonary traits, has shown to be a promising strategy in COPD management. This work reviews the TT strategy in COPD, giving special attention to the most relevant pulmonary traits, such as frequent productive cough, chronic bronchitis, type 2 inflammation, neutrophilic inflammation, lung hyperinflation, bronchiectasis, exacerbations and non-reversible airflow limitation. N-acetylcysteine (NAC), a widely used mucolytic agen",
+      "journal": "Respiratory medicine",
+      "year": "2024",
+      "authors": [
+        "Scioscia Giulia",
+        "Baraldi Federico",
+        "Bigoni Tommaso",
+        "Papi Alberto",
+        "Vatrella Alessandro"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Acetylcysteine",
+        "Precision Medicine",
+        "Expectorants",
+        "Cough",
+        "Disease Progression",
+        "Bronchitis, Chronic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39549856/"
+    },
+    {
+      "pmid": "27492531",
+      "title": "The effect of N-acetylcysteine on biofilms: Implications for the treatment of respiratory tract infections.",
+      "abstract": "In airway infections, biofilm formation has been demonstrated to be responsible for both acute and chronic events, and constitutes a genuine challenge in clinical practice. Difficulty in eradicating biofilms with systemic antibiotics has led clinicians to consider the possible role of non-antibiotic therapy. The aim of this review is to examine current evidence for the use of N-acetylcysteine (NAC) in the treatment of biofilm-related respiratory infections.",
+      "journal": "Respiratory medicine",
+      "year": "2016",
+      "authors": [
+        "Blasi Francesco",
+        "Page Clive",
+        "Rossolini Gian Maria",
+        "Pallecchi Lucia",
+        "Matera Maria Gabriella"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Administration, Inhalation",
+        "Biofilms",
+        "Bronchiectasis",
+        "Bronchitis",
+        "Bronchitis, Chronic",
+        "Cystic Fibrosis",
+        "Expectorants",
+        "Humans",
+        "Injections, Intramuscular"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27492531/"
+    },
+    {
+      "pmid": "36344940",
+      "title": "The effect of N-acetylcysteine in patients with non-cystic fibrosis bronchiectasis (NINCFB): study protocol for a multicentre, double-blind, randomised, placebo-controlled trial.",
+      "abstract": "N-acetylcysteine (NAC), which is specifically involved in airway mucus clearance and antioxidation, is recommended by the treatment guideline for non-cystic fibrosis bronchiectasis (NCFB). However, there is little clinical evidence of its long-term efficacy concerning quality of life (QoL) and exacerbation in patients with NCFB. In addition, the influences of NAC on airway bacterial colonization, chronic inflammation and oxidative stress in NCFB are also unclear.",
+      "journal": "BMC pulmonary medicine",
+      "year": "2022",
+      "authors": [
+        "Liao Yue",
+        "Wu Yanqiu",
+        "Zi Kai",
+        "Shen Yongchun",
+        "Wang Tao"
+      ],
+      "pub_types": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Acetylcysteine",
+        "Quality of Life",
+        "Prospective Studies",
+        "RNA, Ribosomal, 16S",
+        "Anti-Bacterial Agents",
+        "Bronchiectasis",
+        "Double-Blind Method",
+        "Cystic Fibrosis",
+        "Fibrosis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36344940/"
+    },
+    {
+      "pmid": "40163249",
+      "title": "N-Acetylcysteine for Hereditary Cystatin C Amyloid Angiopathy: A Nonrandomized Clinical Trial.",
+      "abstract": "Hereditary cystatin C amyloid angiopathy (HCCAA) is a lethal, dominantly inherited disease primarily affecting Icelandic young adults that leads to severe cerebral amyloid angiopathy, with no effective therapy.",
+      "journal": "JAMA neurology",
+      "year": "2025",
+      "authors": [
+        "Snorradottir Asbjorg Osk",
+        "Gutierrez-Uzquiza Alvaro",
+        "Bragado Paloma",
+        "March Michael E",
+        "Kao Charlly"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Cystatin C",
+        "Acetylcysteine",
+        "Adult",
+        "Middle Aged",
+        "Cerebral Amyloid Angiopathy, Familial",
+        "Biomarkers",
+        "Cerebral Amyloid Angiopathy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40163249/"
+    }
+  ]
+}

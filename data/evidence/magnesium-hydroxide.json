@@ -1,0 +1,933 @@
+{
+  "drug": "Magnesium Hydroxide",
+  "drugbank_id": "DB09104",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:27:21Z",
+  "indications": [
+    {
+      "indication": "esophagitis",
+      "evidence_level": "L1",
+      "trials": 1,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 3,
+        "review_articles": 2,
+        "other_articles": 4,
+        "total_trials": 1,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "constipation disorder",
+      "evidence_level": "L2",
+      "trials": 6,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 3,
+        "phase1_trials": 0,
+        "other_trials": 3,
+        "rct_articles": 1,
+        "review_articles": 4,
+        "other_articles": 5,
+        "total_trials": 6,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "gastroesophageal reflux disease",
+      "evidence_level": "L1",
+      "trials": 7,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 2,
+        "other_trials": 4,
+        "rct_articles": 5,
+        "review_articles": 3,
+        "other_articles": 2,
+        "total_trials": 7,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "peptic esophagitis",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 4,
+        "review_articles": 1,
+        "other_articles": 4,
+        "total_trials": 0,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "peptic ulcer disease",
+      "evidence_level": "L1",
+      "trials": 1,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 6,
+        "total_trials": 1,
+        "total_articles": 9
+      }
+    }
+  ],
+  "total_trials": 15,
+  "total_articles": 47,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01336530",
+      "title": "Clinical Trial to Assess the Efficacy of Fixed Combination Product Tepilta® in the Treatment of Radiation-induced Oesophagitis Compared to Its Active Ingredients Oxetacaine and Antacids, and to Placebo",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2011-04",
+      "completion_date": "2017-01",
+      "country": "Germany, Austria",
+      "enrollment": 40,
+      "brief_summary": "This is a randomised, double-blind, placebo-controlled, therapeutic confirmatory multicentre trial with 4 parallel treatment groups. The design is adaptive group-sequential with two interim analyses, possible sample size re-estimation after the first or second interim analysis and drop-the-loser approach. The study design was primarily chosen to show superior efficacy of Tepilta® compared to the single components and to placebo. Evaluation of safety is a secondary objective.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female ≥ 18 years.\n2. Score = 0 on NRS for oesophageal pain.\n3. Radiotherapy (RT) or combined radio-chemotherapy (RCT) of a solid tumour in head/neck/thorax region. A minimum length of 5 cm of the oesophagus must be included in high-dose radiation field.\n4. Duration o",
+      "endpoints": [
+        "Time from randomisation to requirement of additional systemic pain medication for oesophagitis (ASPO)."
+      ],
+      "sponsor": "Viatris Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01336530"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04437147",
+      "title": "The Effect of Probiotics on Functional Constipation in Adults: Double-blind, Randomized, Placebo-controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-03-11",
+      "completion_date": "2021-01-28",
+      "country": "Brazil",
+      "enrollment": 150,
+      "brief_summary": "Introduction:\n\nFunctional constipation is a symptom-based gastrointestinal disorder without an organic origin (eg, bowel obstruction). It has a prevalence of 14% in adults.\n\nObjective:\n\nThe objective of trial is to evaluate the efficacy and safety of two different probiotic blends in adults subjects with functional constipation.\n\nMethods:\n\nA double-blind, randomized, placebo-controlled study will be conducted for up to two years to evaluate the efficacy of two different probiotic mixtures: (Mixt",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Clinical diagnosis of functional constipation according to Rome IV. Granting of written informed consent.\n\nExclusion Criteria:\n\n* Presence of gastrointestinal diseases\n* Ingestion of antibiotics or dietary supplements containing probiotics or prebiotics in the last 15 days\n* Pr",
+      "endpoints": [
+        "Changed in the number of Bowel movements. Changed for more than 3 per week was considered a clinical response.",
+        "Change in the Bristol stool form scale at 4 weeks after Probiotics. Recovery to types 3-4 was considered a clinical response."
+      ],
+      "sponsor": "University of Sorocaba",
+      "url": "https://clinicaltrials.gov/study/NCT04437147"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06503978",
+      "title": "Dosing Study of Microbiota Transplant Therapy for Children With Autism Spectrum Disorder (ASD) Who Have Gastrointestinal Disorders",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-08-20",
+      "completion_date": "2026-08-17",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The investigators propose to investigate Microbiota Transfer Therapy (MTT) for treating patients with Autism-spectrum disorder with Gastrointestinal disorders (constipation, diarrhea, and/or abdominal pain). MTT involves a combination of 14 days of oral vancomycin (an antibiotic to kill pathogenic bacteria), followed by 1 day of bowel cleanse using Miralax, followed by 5 days of high dose MTP-101P with an antacid, followed by 12 weeks of a lower maintenance dose of MTP-101P with an antacid.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Child aged 4 to \\< 18 years. This is 1 year younger than our previous study of MTT for children with ASD (IND 19048, protocol 2), because there were minimal adverse effects in that study, and earlier intervention may be more beneficial.\n2. Diagnosis of autism per the Childhoo",
+      "endpoints": [
+        "Childhood Autism Rating Scale (CARS-2)",
+        "Daily Stool Record (DSR)"
+      ],
+      "sponsor": "Gut-Brain-Axis Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06503978"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03738904",
+      "title": "Prospective Randomized Controlled Trial of an Enhanced Recovery Protocol for Anorectal Surgery",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-10-26",
+      "completion_date": "2022-08-18",
+      "country": "United States",
+      "enrollment": 111,
+      "brief_summary": "The purpose of the study is to evaluate whether being randomized to an aggressive postoperative non-narcotic pain regimen that treats pain from multiple different pathways may decrease postoperative pain levels, decrease constipation, and decrease the dependency on opioid medications after anorectal surgery versus the standard of care for managing pain. This use of a more aggressive pain regimen is considered an enhanced recovery after surgery (ERAS) protocol because it is theorized to improve o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able to freely give written informed consent to participate in the study and have signed the Informed Consent Form;\n* Males or females, age 18 to 70 years old at the time of study screening;\n* American Society of Anesthesiologists (ASA) Class I-III (Appendix III) undergoing el",
+      "endpoints": [
+        "Total Narcotic Use Postoperatively in Oral Morphine Equivalents"
+      ],
+      "sponsor": "Cedars-Sinai Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03738904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06321796",
+      "title": "Microbiota Transfer Therapy for Children and Adults With Both Pitt Hopkins Syndrome and Gastrointestinal Disorders: MTP-101 P",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-02-27",
+      "completion_date": "2025-05",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The investigators propose to investigate Microbiota Transfer Therapy (MTT) for treating patients with Pitt-Hopkins Syndrome (PTHS) and gastrointestinal problems (constipation, bloating, abdominal pain). MTT involves a combination of 10 days of oral vancomycin (an antibiotic to kill pathogenic bacteria), followed by 1 day of bowel cleanse using magnesium citrate, followed by 4 days of high dose MTP-101P with an antacid, followed by 12 weeks of a lower maintenance dose of MTP-101P with an antacid.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children ages 5 to \\<18 years and adults ages 18 to \\< 55 years with Pitt Hopkins Syndrome (verified by genetic testing)\n2. GI disorder as defined below that has lasted for at least 2 years.\n3. No changes in medications, supplements, diet, or therapies in the 2 months prior t",
+      "endpoints": [
+        "Daily Stool Record (DSR)",
+        "Safety Measures (Adverse Events)"
+      ],
+      "sponsor": "Gut-Brain-Axis Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06321796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05216328",
+      "title": "OMAMA-study - Prevention of Opioid-induced Constipation in Patients With Advanced Cancer",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2022-12-02",
+      "completion_date": "2025-12",
+      "country": "Netherlands",
+      "enrollment": 330,
+      "brief_summary": "More than 70% of patients with cancer in the palliative phase have pain that often requires treatment with opioids (morphine-like agents). Constipation occurs in 59% of patients treated with opioids. Opioid-induced constipation (OIC) has consequences that range from daily discomfort with social insecurity and disability to intestinal obstruction. It leads to limitations in self-management, a reduced quality of life and a risk of the need for more care. In the guideline \"Diagnosis and treatment o",
+      "eligibility_criteria": "Inclusion criteria:\n\nIn order to be eligible to participate in this study, a subject must meet all of the following criteria:\n\n* Patients with metastatic cancer (≥18 years);\n* Starting with slow release or transdermal opioids for pain;\n* Able to complete a Dutch questionnaire. Previous treatment wit",
+      "endpoints": [
+        "The percentage of patients with a score of <30 of the Bowel Function Index"
+      ],
+      "sponsor": "Amsterdam UMC, location VUmc",
+      "url": "https://clinicaltrials.gov/study/NCT05216328"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00083382",
+      "title": "UARK 98-036, A Phase II Trial of Combination Bisphosphonate and Anti-Angiogenesis Therapy With Pamidronate and Thalidomide in Patients With Smoldering/Indolent Myeloma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1998-12",
+      "completion_date": "2014-05",
+      "country": "United States",
+      "enrollment": 83,
+      "brief_summary": "The purpose of this research is to study how helpful the combination of thalidomide and Pamidronate or thalidomide and Zometa is in controlling the myeloma disease and to study any side effects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have a diagnosis of Smoldering or Indolent myeloma\n* All patients must be informed of the investigational nature of this study and must sign a written informed consent in accordance with UAMS Human Research Advisory Committee and federal guidelines.\n\nExclusion Cr",
+      "endpoints": [
+        "Best Response"
+      ],
+      "sponsor": "University of Arkansas",
+      "url": "https://clinicaltrials.gov/study/NCT00083382"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00660660",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Efficacy Study Comparing 4 Weeks of Treatment With Esomeprazole 20 mg qd to Placebo qd in Patients With Heartburn and Sleep Disturbances Associated With Gastroesophageal Reflux Disease (GERD)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2008-07",
+      "country": "United States",
+      "enrollment": 276,
+      "brief_summary": "The purpose of this research study is to compare the safety and effectiveness (how well the medicine works) of esomeprazole (study drug) to placebo (a capsule that does not contain any medication) taken daily in relieving nighttime heartburn and problems sleeping in patients with gastroesophageal reflux disease (GERD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Prior to the run-in period, a history of heartburn or acid regurgitation for 3 months or longer or any history of EE;\n* Prior to the run-in period, nighttime heartburn averaging at least 2 or 3 times per week;\n* Prior to the run-in period, a history of sleep disturbances assoc",
+      "endpoints": [
+        "Percentage of Patients With Relief of Nighttime Heartburn During the Last 7 Days of the Study."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00660660"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01858584",
+      "title": "Prospective, Comparative, Randomized, Controlled Trial on the Efficacy of the Treatment of Gastroesophageal Reflux Infant With Magnesium Alginate",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2013-02",
+      "completion_date": "",
+      "country": "Italy",
+      "enrollment": 75,
+      "brief_summary": "The results on the efficacy of the formulations based on alginic acid are controversial. Corvaglia et al demonstrated a significant reduction in reflux episodes in preterm infants by evaluation with pH-impedance analysis. This study concludes that the use of alginic acid reduces the acidity of the gastroesophageal reflux (GER) and has a non-systemic effect and a lesser presence of side effects compared to the use of H2-receptor antagonist(H2RA) and proton pump inhibitor (PPI).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\< 1 year\n* Suggestive symptoms of gastroesophageal reflux (I-GERQ score \\> 7)\n* Absence of clinical evidence of allergy to cow milk protein or other allergic disorder\n* No previous intake of thickened formulas, acid suppressants or drugs\n* All parents or guardians must si",
+      "endpoints": [
+        "efficacy on GER"
+      ],
+      "sponsor": "Federico II University",
+      "url": "https://clinicaltrials.gov/study/NCT01858584"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03065816",
+      "title": "A Randomized, Open-label, 2-Treatment Crossover Study to Compare by Scintigraphy, the Antireflux Activity of the To-be-Registered Product (250 mg Sodium Alginate/187.5 mg Calcium Carbonate/106.5 mg Sodium Hydrogen Carbonate) Chewable Tablets Versus the Registered Gaviscon Double Action Tablets, in Healthy Adult Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-02-09",
+      "completion_date": "2017-05-02",
+      "country": "United Kingdom",
+      "enrollment": 34,
+      "brief_summary": "Primary Objective:\n\nPharmacodynamics: assessment and comparison by gamma scintigraphy of the gastric retention of alginate rafts (raft performance) of Z0063 to the effect of Gaviscon Double Action Tablets, in healthy adult subjects.\n\nSecondary Objective:\n\nSafety: assessment of the clinical safety of Z0063 versus Gaviscon Double Action tablets, in healthy adult subjects.",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Male or female subjects, between 18 and 55 years of age, inclusive.\n* Body weight between 50.0 and 100.0 kg, inclusive, if male, and between 40.0 and 90.0 kg, inclusive, if female, body mass index between 18.0 and 28.0 kg/m\\^2, inclusive.\n* Certified as healthy by a comprehen",
+      "endpoints": [
+        "Pharmacodynamics: area under curve (AUC) of investigational medicinal product (IMP) percentage retention in the whole stomach"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03065816"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06241183",
+      "title": "Comparing Intravenous Famotidine and Oral Antacids in the Treatment of Dyspepsia in the Emergency Department",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-11-09",
+      "completion_date": "2025-12",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "The aim of this study is to compare intravenous famotidine, an H2 receptor antagonist, and Maalox/ Mylanta, an oral antacid, in treatment of dyspepsia in the emergency department. The goal of this study is to reduce patients' pain based on the verbal numerical pain scale. The anticipated outcome is for pain levels in both groups to decrease. It is expected that antacids will improve symptoms more quickly and to a greater degree within an hour of taking medication based on the results of similar ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject Age ≥ 18 years of age\n2. Patient diagnosed with dyspepsia\n3. Present at the ED with upper abdominal pain score of at least 3\n\nExclusion Criteria:\n\n1. Hypersensitivity to an ingredient in Maalox/ Mylanta or Famotidine\n2. Moderate to Severe Renal Insufficiency (precauti",
+      "endpoints": [
+        "Verbal Numerical Pain Score"
+      ],
+      "sponsor": "Stony Brook University",
+      "url": "https://clinicaltrials.gov/study/NCT06241183"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03069963",
+      "title": "A Randomized, Open Label, 2-Treatment Crossover Study to Compare by pH Metry, the Antacid Activity of the To-be-registered Product (250 mg Sodium Alginate/187.5 mg Calcium Carbonate/106.5 mg Sodium Hydrogen Carbonate, Chewable Tablets) Versus the Registered Gaviscon Double Action Tablets, in Healthy Adult Subject",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-02-24",
+      "completion_date": "2017-04-23",
+      "country": "France",
+      "enrollment": 24,
+      "brief_summary": "Primary Objective:\n\nPharmacodynamics: assessment by pH metry of the change in gastric pH (antacid activity) of Z0063, in comparison to the effect of Gaviscon Double Action Tablets, in healthy adult subjects.\n\nSecondary Objective:\n\nSafety: assessment of the clinical safety of Z0063, and Gaviscon Double Action Tablets, in healthy adult subjects.",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Male or female subjects, between 18 and 55 years of age, inclusive.\n* Body weight between 50.0 and 100.0 kg, inclusive, if male, and between 40.0 and 90.0 kg, inclusive, if female, body mass index between 18.0 and 28.0 kg/m2, inclusive.\n* Certified as healthy by a comprehensi",
+      "endpoints": [
+        "Percentage of time at which the intragastric pH is at least equal to or greater than 4 during the 4-hour observation period post-dose"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03069963"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00343161",
+      "title": "A Randomized, Open, Parallel-group, Multi-national, Multi-centre, Phase IV Study to Evaluate the Efficacy of Three Different Patient Management Strategies With and Without Esomeprazole 20 mg During a 3 Months Maintenance Phase Following an Initial 4-weeks Acute Treatment Phase in Subjects With Symptoms Thought to be GERD Related",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2007-08",
+      "country": "Germany",
+      "enrollment": 441,
+      "brief_summary": "The purpose of the study is to determine whether a maintenance treatment over 12 weeks with esomeprazole 20 mg daily will sufficiently give control over GERD symptoms and how it compares either with an on-demand therapy with esomeprazole 20 mg or an as needed therapy (wait and see regimen) with rescue medication only (antacid), following a 4-weeks acute treatment phase with either esomeprazole 20 mg or esomeprazole 40 mg.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Patients who seek medical advice in primary care for symptoms thought to be GERD-related\n\nExclusion Criteria:\n\n* Clinical GERD diagnosis/treatment within last 3 month\n* History of severe esophagitis (i.e. LA grade C or D)\n* Previous anti-reflux surger",
+      "endpoints": [
+        "To compare the efficacy of three different long-term treatment strategies in primary care setting",
+        "To compare treatments separately within different levels of symptom load according to clinical judgement at baseline",
+        "Number of 'treatment failures' used as primary outcome variable."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00343161"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07310927",
+      "title": "Alginate vs Sucralfate for GERD Symptomatic Relief in Combination With PPIS",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2026-02-28",
+      "country": "Pakistan",
+      "enrollment": 140,
+      "brief_summary": "Gastroesophageal reflux disease (GERD) is a chronic gastrointestinal disorder characterized by the regurgitation of gastric contents into the esophagus.It can also present in an atypical manner such as chest pain, dental erosions, chronic cough, laryngitis, or asthma i.e. extra gastroesophageal symptoms. Sucralfate is a unique anti-ulcer drug and is a basic aluminum salt of sucrose octa-sulfate. It forms a protective layer, enhancing bicarbonate production, demonstrating anti-peptic properties, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients having symptoms of severe GERD for more than 3 times /week\n\nExclusion Criteria:\n\n1. Patients with preexisting cardiovascular disorders\n2. Patients with chronic kidney or liver diseases\n3. Patients with gross abnormalities on upper GI endoscopies e.g.; ulcers, tumo",
+      "endpoints": [
+        "Quality of Life in Reflux and Dyspepsia"
+      ],
+      "sponsor": "CMH Lahore Medical College and Institute of Dentistry",
+      "url": "https://clinicaltrials.gov/study/NCT07310927"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07310927",
+      "title": "Alginate vs Sucralfate for GERD Symptomatic Relief in Combination With PPIS",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2026-02-28",
+      "country": "Pakistan",
+      "enrollment": 140,
+      "brief_summary": "Gastroesophageal reflux disease (GERD) is a chronic gastrointestinal disorder characterized by the regurgitation of gastric contents into the esophagus.It can also present in an atypical manner such as chest pain, dental erosions, chronic cough, laryngitis, or asthma i.e. extra gastroesophageal symptoms. Sucralfate is a unique anti-ulcer drug and is a basic aluminum salt of sucrose octa-sulfate. It forms a protective layer, enhancing bicarbonate production, demonstrating anti-peptic properties, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients having symptoms of severe GERD for more than 3 times /week\n\nExclusion Criteria:\n\n1. Patients with preexisting cardiovascular disorders\n2. Patients with chronic kidney or liver diseases\n3. Patients with gross abnormalities on upper GI endoscopies e.g.; ulcers, tumo",
+      "endpoints": [
+        "Quality of Life in Reflux and Dyspepsia"
+      ],
+      "sponsor": "CMH Lahore Medical College and Institute of Dentistry",
+      "url": "https://clinicaltrials.gov/study/NCT07310927"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "11854825",
+      "title": "Effects of Aluminum/Magnesium Hydroxide and Calcium Carbonate on Esophageal and Gastric pH in Subjects with Heartburn.",
+      "abstract": "This single-blind crossover trial compared the effects of single oral doses of two antacids on esophageal and gastric pH in subjects with heartburn. Gastric and esophageal pH were assessed in 83 subjects from 1 h before to 4 h after a refluxogenic meal. Subjects received two chewable tablets of a high-potency aluminum/magnesium hydroxide [Al(OH)3/Mg(OH)2] formulation (Mylanta Double-Strength(TM)) or a calcium carbonate [CaCO3] formulation (Tums E-X(TM)), or placebo 1 h after the meal. Both antacid formulations significantly increased esophageal pH, as compared with placebo. Onset of action was faster with the Al(OH)3/Mg(OH)2 formulation than with the CaCO3 in 41 subjects, slower in 13 subjects, and identical in 29 subjects. Area under the esophageal pH--time curves after dosing were significantly greater for Al(OH)3/Mg(OH)2 than for CaCO3 (p < 0.05) and significantly greater for CaCO3 than for placebo (p < 0.05). The duration of Al(OH)3/Mg(OH)2 action in the esophagus was 82 min and 60",
+      "journal": "American journal of therapeutics",
+      "year": "1995",
+      "authors": [
+        "Decktor Dennis L.",
+        "Robinson Malcolm",
+        "Maton Paul N.",
+        "Lanza Frank L.",
+        "Gottlieb Stanley"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11854825/"
+    },
+    {
+      "pmid": "8047802",
+      "title": "Domperidone plus magnesium hydroxide and aluminum hydroxide: a valid therapy in children with gastroesophageal reflux. A double-blind randomized study versus placebo.",
+      "abstract": "To evaluate the efficacy of different drug combinations in treating severe gastroesophageal reflux (GER), we studied 80 children with GER. The patients were randomly divided into four groups: group A was treated with domperidone plus magnesium hydroxide and aluminum hydroxide, group B with domperidone plus alginate, group C with domperidone alone, and group D received placebo. At the time of diagnosis and 8 weeks after treatment the patients were clinically evaluated and underwent 24-h continuous esophageal pH monitoring. After treatment a complete regression of symptoms was observed in 16 of 20 patients in group A, in 8 of 20 in group B (A versus B, p < 0.018), in 9 of 20 in group C (A versus C, p < 0.034), and in 7 of 20 in group D (A versus D, p < 0.001). Moreover, there was a statistically significant improvement in several pH-metric variables studied in all treatment groups; in addition, a comparison of the pH-metric data of the four groups after treatment indicated that reflux va",
+      "journal": "Scandinavian journal of gastroenterology",
+      "year": "1994",
+      "authors": [
+        "Carroccio A",
+        "Iacono G",
+        "Montalto G",
+        "Cavataio F",
+        "Soresi M"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Aluminum Hydroxide",
+        "Domperidone",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Esophagus",
+        "Female",
+        "Gastroesophageal Reflux",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Infant"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8047802/"
+    },
+    {
+      "pmid": "1798406",
+      "title": "[Magnesium hydroxide and aluminum hydroxide in the treatment of gastroesophageal reflux].",
+      "abstract": "Fifteen children with gastro-esophageal reflux took part in a treatment trial with a regimen of magnesium hydroxide and aluminium hydroxide for 8 weeks period (700 mmol/1.73 mq/die). All children were evaluated clinically and underwent a 24-hour continuous esophageal pH-monitoring both at diagnosis and after 8 weeks of treatment. After therapy 12/15 children were cured and 3/15 improved. Moreover the total percentage of time during which pH was less than 4, the number of reflux episodes and the number of refluxes lasting than 5' recorded during 24-hour continuous esophageal pH-monitoring were significantly reduced after treatment. The Authors conclude that antacids in large quantities are effective in medical treatment of gastro-esophageal reflux.",
+      "journal": "Minerva pediatrica",
+      "year": "1991",
+      "authors": [
+        "Iacono G",
+        "Carroccio A",
+        "Montalto G",
+        "Cavataio F",
+        "Ippolito S"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aluminum Hydroxide",
+        "Antacids",
+        "Child",
+        "Child, Preschool",
+        "Drug Combinations",
+        "Female",
+        "Gastroesophageal Reflux",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Infant"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1798406/"
+    },
+    {
+      "pmid": "2986275",
+      "title": "Sucralfate and alginate/antacid in reflux esophagitis.",
+      "abstract": "The efficacy of sucralfate and of an alginate/antacid compound was compared in a randomized, double-blind 6-week trial in patients with symptomatic, endoscopically confirmed macroscopic reflux esophagitis. Of the 68 patients who completed the study, 36 received sucralfate and 32 alginate/antacid. Significant symptomatic improvement occurred in both treatment groups: almost 70% of the patients became symptom-free or improved. Esophagitis healed completely in 53% of the patients receiving sucralfate and in 34% of the alginate/antacid patients, as measured with endoscopic criteria (p greater than 0.05). Our results indicate that sucralfate seems to be at least as effective as alginate/antacid in relieving symptoms and in healing macroscopic lesions. As a safe, locally active mucosal protecting agent, sucralfate is a promising new drug for the treatment of reflux esophagitis and deserves further trials over longer periods.",
+      "journal": "Scandinavian journal of gastroenterology",
+      "year": "1985",
+      "authors": [
+        "Laitinen S",
+        "Ståhlberg M",
+        "Kairaluoma M I",
+        "Kiviniemi H",
+        "Pääkkönen M"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Alginates",
+        "Aluminum",
+        "Aluminum Hydroxide",
+        "Antacids",
+        "Anti-Ulcer Agents",
+        "Bicarbonates",
+        "Clinical Trials as Topic",
+        "Double-Blind Method"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2986275/"
+    },
+    {
+      "pmid": "24355558",
+      "title": "[Update on gastroesophageal reflux disease].",
+      "abstract": "Gastroesophageal reflux disease is a highly frequent disorder classically characterized by the presence of heartburn and/or acid regurgitation that improves with drug therapy that reduces acid content in the stomach. However, especially in patients with non-erosive disease, response to proton pump inhibitors is unsatisfactory in approximately 1 out of 3 patients, and consequently, in these patients, it is important to establish a definitive diagnosis and an alternative therapeutic strategy. In the last few years, advances have been made in knowledge of the physiopathology of reflux, such as identification of the role of the acid pocket in producing reflux, technological advances that allow differentiation among acid reflux, non-acid reflux and slightly acid reflux, and advances in the treatment of reflux with drugs that attempt to act on the barrier function of the esophagogastric junction.",
+      "journal": "Gastroenterologia y hepatologia",
+      "year": "2014",
+      "authors": [
+        "Serra Pueyo Jordi"
+      ],
+      "pub_types": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Alginates",
+        "Aluminum Hydroxide",
+        "Antacids",
+        "Comorbidity",
+        "Drug Combinations",
+        "Electric Impedance",
+        "Esophageal pH Monitoring",
+        "Esophagogastric Junction",
+        "Fundoplication",
+        "Gastric Emptying"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24355558/"
+    },
+    {
+      "pmid": "32592251",
+      "title": "Editorial: simultaneous prolonged monitoring of the acid pocket and oesophageal reflux.",
+      "abstract": "",
+      "journal": "Alimentary pharmacology & therapeutics",
+      "year": "2020",
+      "authors": [
+        "Katz Philip O",
+        "Castell Donald O"
+      ],
+      "pub_types": [
+        "Editorial",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Alginates",
+        "Aluminum Hydroxide",
+        "Antacids",
+        "Drug Combinations",
+        "Esophagitis, Peptic",
+        "Gastroesophageal Reflux",
+        "Humans",
+        "Obesity",
+        "Silicic Acid",
+        "Sodium Bicarbonate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32592251/"
+    },
+    {
+      "pmid": "32592257",
+      "title": "Editorial: simultaneous, prolonged monitoring of the acid pocket and oesophageal reflux. Authors' reply.",
+      "abstract": "",
+      "journal": "Alimentary pharmacology & therapeutics",
+      "year": "2020",
+      "authors": [
+        "Ma Zheng Feei",
+        "Deraman Mohd Adli",
+        "Coyle Cathal",
+        "Lee Yeong Yeh"
+      ],
+      "pub_types": [
+        "Editorial",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Alginates",
+        "Aluminum Hydroxide",
+        "Antacids",
+        "Drug Combinations",
+        "Esophagitis, Peptic",
+        "Gastroesophageal Reflux",
+        "Humans",
+        "Obesity",
+        "Silicic Acid",
+        "Sodium Bicarbonate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32592257/"
+    },
+    {
+      "pmid": "6250928",
+      "title": "A comparative crossover study on the treatment of heartburn and epigastric pain: Liquid Gaviscon and a magnesium--aluminium antacid gel.",
+      "abstract": "Forty-four patients with symptoms of gastro-oesophageal reflux were randomly assigned in a crossover trial to treatment for 15-day periods with Liquid Gaviscon (a reflux suppressant) or an antacid gel containing magnesium and aluminium hydroxide. Good relief of symptoms was reported by 84% of patients during therapy with Liquid Gaviscon compared to only 23% during antacid therapy. Relief of symptoms was obtained within 15 minutes by 68% of patients during therapy with Liquid Gaviscon compared to only 9% during antacid treatment. The beneficial effect lasted for more than 4 hours in 75% of patients during treatment with Liquid Gaviscom compared to only 23% of patients obtaining long-term relief during antacid therapy.",
+      "journal": "The Journal of international medical research",
+      "year": "1980",
+      "authors": [
+        "Chevrel B"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Abdomen",
+        "Adult",
+        "Aged",
+        "Alginates",
+        "Aluminum Hydroxide",
+        "Antacids",
+        "Bicarbonates",
+        "Drug Combinations",
+        "Female",
+        "Heartburn"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6250928/"
+    },
+    {
+      "pmid": "4359481",
+      "title": "Drug therapy. Antacid therapy.",
+      "abstract": "",
+      "journal": "The New England journal of medicine",
+      "year": "1974",
+      "authors": [
+        "Morrissey J F",
+        "Barreras R F"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Aluminum Hydroxide",
+        "Antacids",
+        "Bicarbonates",
+        "Buffers",
+        "Calcium Carbonate",
+        "Drug Combinations",
+        "Duodenal Ulcer",
+        "Esophagitis, Peptic",
+        "Gastric Juice",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4359481/"
+    },
+    {
+      "pmid": "30132304",
+      "title": "Phosphate binders for preventing and treating chronic kidney disease-mineral and bone disorder (CKD-MBD).",
+      "abstract": "Phosphate binders are used to reduce positive phosphate balance and to lower serum phosphate levels for people with chronic kidney disease (CKD) with the aim to prevent progression of chronic kidney disease-mineral and bone disorder (CKD-MBD). This is an update of a review first published in 2011.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2018",
+      "authors": [
+        "Ruospo Marinella",
+        "Palmer Suetonia C",
+        "Natale Patrizia",
+        "Craig Jonathan C",
+        "Vecchio Mariacristina"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Calcium",
+        "Calcium Compounds",
+        "Cause of Death",
+        "Chelating Agents",
+        "Chronic Disease",
+        "Chronic Kidney Disease-Mineral and Bone Disorder",
+        "Disease Progression",
+        "Fibroblast Growth Factor-23"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30132304/"
+    },
+    {
+      "pmid": "21116598",
+      "title": "Comparison of the effectiveness of polyethylene glycol 4000 without electrolytes and magnesium hydroxide in the treatment of chronic functional constipation in children.",
+      "abstract": "To compare the effectiveness of two drugs, polyethylene glycol 4000 without electrolytes and magnesium hydroxide, in the treatment of chronic functional constipation in children.",
+      "journal": "Jornal de pediatria",
+      "year": "2011",
+      "authors": [
+        "Gomes Patricia Boechat",
+        "Duarte Marco Antônio",
+        "Melo Maria do Carmo Barros de"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Child, Preschool",
+        "Chronic Disease",
+        "Constipation",
+        "Female",
+        "Humans",
+        "Laxatives",
+        "Magnesium Hydroxide",
+        "Male",
+        "Polyethylene Glycols"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21116598/"
+    },
+    {
+      "pmid": "2553511",
+      "title": "Comparison of the effects of magnesium hydroxide and a bulk laxative on lipids, carbohydrates, vitamins A and E, and minerals in geriatric hospital patients in the treatment of constipation.",
+      "abstract": "In a crossover study the effects of magnesium hydroxide on serum lipids, carbohydrates, vitamins A and E, uric acid and whole blood minerals were compared with those of a bulk laxative containing plantago rind and sorbitol in 64 constipated, elderly long-stay patients, 55 of whom were receiving diuretics. Hypomagnesaemia occurred in 11 (17%) patients after bulk laxative and in two (2%) patients after magnesium hydroxide treatment. There was a slight reduction in low values of high-density lipoprotein cholesterol and high values of triglycerides after magnesium hydroxide treatment. There were no significant differences in plasma lipids, whole blood minerals or vitamins A and E using either laxative. Negative correlations were found between the increase in serum concentrations of magnesium and glycosylated haemoglobin A1 (P less than 0.02) and the serum level of uric acid (P less than 0.01). These results suggest that the long-term effects of magnesium hydroxide and bulk laxative on the ",
+      "journal": "The Journal of international medical research",
+      "year": "1989",
+      "authors": [
+        "Kinnunen O",
+        "Salokannel J"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Blood Glucose",
+        "Cathartics",
+        "Cholesterol",
+        "Cholesterol, HDL",
+        "Clinical Trials as Topic",
+        "Constipation",
+        "Dietary Fiber",
+        "Diuretics"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2553511/"
+    },
+    {
+      "pmid": "25310742",
+      "title": "Efficacy and complications of polyethylene glycols for treatment of constipation in children: a meta-analysis.",
+      "abstract": "Constipation is a common childhood complaint. In 90% to 95% of children, constipation is functional, which means that there is no objective evidence of an underlying pathological condition. Polyethylene glycol (PEG or macrogol) solution is an osmotic laxative agent that is absorbed in only trace amounts from the gastrointestinal tract and routinely used to treat chronic constipation in adults. Here, we report the results of a meta-analysis of PEG-based laxatives compared with lactulose, milk of magnesia (magnesium hydroxide), oral liquid paraffin (mineral oil), or acacia fiber, psyllium fiber, and fructose in children. This meta-analysis was conducted in accordance with PRISMA guidelines and involved searches of MEDLINE, Cochrane, EMBASE, and Google Scholar databases up to February 10, 2014, using the keywords (Constipation OR Functional Constipation OR Fecal Impaction) AND (Children) AND (Polyethylene Glycol OR Laxative). Primary efficacy outcomes included a number of stool passages/w",
+      "journal": "Medicine",
+      "year": "2014",
+      "authors": [
+        "Chen Si-Le",
+        "Cai Shi-Rong",
+        "Deng Liang",
+        "Zhang Xin-Hua",
+        "Luo Te-Dong"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Chronic Disease",
+        "Constipation",
+        "Humans",
+        "Laxatives",
+        "Models, Statistical",
+        "Polyethylene Glycols",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25310742/"
+    },
+    {
+      "pmid": "38152602",
+      "title": "Fatal Hypermagnesemia in Patients Taking Magnesium Hydroxide.",
+      "abstract": "Hypermagnesemia is a rare but potentially fatal electrolyte disorder often overlooked because of its unfamiliarity. Magnesium is regulated through a balance of bone, intestinal absorption, and renal excretion. Hypermagnesemia typically arises from excessive magnesium intake or reduced renal excretion; however, it also occurs in patients with normal kidney function. Herein, we report two cases of hypermagnesemia in patients taking magnesium hydroxide for constipation. The first case involved an 82-year-old woman with end-stage renal disease who developed metabolic encephalopathy due to hypermagnesemia, after taking 3,000 mg of magnesium hydroxide daily for constipation. Her magnesium level was 9.9 mg/dL. Her treatment involved discontinuing magnesium hydroxide and continuing hemodialysis, which led to her recovery. In the second case, a 50-year-old woman with a history of cerebral hemorrhage and mental retardation developed hypermagnesemia despite having normal renal function. She was a",
+      "journal": "Electrolyte & blood pressure : E & BP",
+      "year": "2023",
+      "authors": [
+        "Jou Da Hye",
+        "Kim Su In",
+        "Choi In Hong",
+        "Song Su Hyun",
+        "Oh Tae Ryom"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38152602/"
+    },
+    {
+      "pmid": "17955081",
+      "title": "Review of the treatment options for chronic constipation.",
+      "abstract": "Constipation is a common gastrointestinal motility disorder that is often chronic, negatively affects patients' daily lives, and is associated with high healthcare costs. There is a considerable range of treatment modalities available for patients with constipation; however, the clinical evidence supporting their use varies widely. Nonpharmacologic modalities, such as increased exercise or fluid intake and bowel habit training, are generally recommended as first-line approaches, but data on the effectiveness of these measures are limited. The clinical benefits of various traditional pharmacologic agents (many of which are available over the counter, such as laxatives and fiber supplements) remain unclear. Although these modalities may benefit some patients with temporary constipation, their efficacy in patients for whom constipation is chronic is less well defined. Some studies suggest benefit with psyllium, polyethylene glycol, and lactulose; however, the use of other agents, such as ",
+      "journal": "MedGenMed : Medscape general medicine",
+      "year": "2007",
+      "authors": [
+        "Johanson John F"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Chronic Disease",
+        "Constipation",
+        "Decision Support Techniques",
+        "Humans",
+        "Practice Guidelines as Topic",
+        "Practice Patterns, Physicians'"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17955081/"
+    },
+    {
+      "pmid": "34506747",
+      "title": "Management of children with functional constipation referred to tertiary care.",
+      "abstract": "To describe the management, to compare treatment at initial referral vs. during specialized follow-up, and to describe outcomes of children with functional constipation (FC) referred to a Brazilian tertiary care center.",
+      "journal": "Jornal de pediatria",
+      "year": "2022",
+      "authors": [
+        "de Campos Giovanna Roberta Camargo",
+        "Sandy Natascha Silva",
+        "Lomazi Elizete Aparecida",
+        "Bellomo-Brandao Maria Angela"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Constipation",
+        "Enema",
+        "Female",
+        "Humans",
+        "Male",
+        "Referral and Consultation",
+        "Retrospective Studies",
+        "Tertiary Health Care"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34506747/"
+    },
+    {
+      "pmid": "20011352",
+      "title": "Childhood constipation: evaluation and management.",
+      "abstract": "Constipation is a common problem in children. It is also a long-term problem persisting for many months to years in children. Approximately 95% of childhood constipation is functional in nature without any obvious cause. Evaluation of a child with constipation requires a thorough history and physical examination. Hirschsprung's disease is an important cause of constipation arising in infancy and requires a thorough diagnostic evaluation and surgical treatment. Treatment of functional constipation in children requires a well-designed plan and a team approach involving the child, parents, and a health care provider. Treatment involves education of the family about constipation and encopresis, fecal disimpaction, and long-term maintenance therapy of laxatives and behavioral modification. Laxatives such as magnesium hydroxide, lactulose, and mineral oil have been used in children for a long time. A new laxative, polyethylene glycol 3350, has been used successfully in children with constipa",
+      "journal": "Clinics in colon and rectal surgery",
+      "year": "2005",
+      "authors": [
+        "Pashankar Dinesh S"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20011352/"
+    },
+    {
+      "pmid": "24345842",
+      "title": "Chronic functional constipation in children: adherence and factors associated with drug treatment.",
+      "abstract": "The aim of the present study was to evaluate the treatment adherence of children with chronic functional constipation.",
+      "journal": "Journal of pediatric gastroenterology and nutrition",
+      "year": "2014",
+      "authors": [
+        "Steiner Sílvia A",
+        "Torres Marcia R F",
+        "Penna Francisco J",
+        "Gazzinelli Barbara F",
+        "Corradi Caroline G A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Ambulatory Care Facilities",
+        "Brazil",
+        "Caregivers",
+        "Child",
+        "Child, Preschool",
+        "Chronic Disease",
+        "Constipation",
+        "Fathers",
+        "Feces"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24345842/"
+    },
+    {
+      "pmid": "236651",
+      "title": "Pharmacology and clinical use of antacids.",
+      "abstract": "The pharmacology of antacids, with particular reference to their clinical use in treating acid-peptic disease, is discussed. Liquid antacid suspension should be given at least as often as one hour after each meal and at bedtime. Inthe treatment of the acute phase of acid-peptic disease, hourly antacid is recommended. The dose should be planned in terms of milliequivalents of acid neutralizing capacity and should be adjusted according to the type of disease under treatment. All antacids have side effects, the most serious of which are metabolic. In clinical terms, the harmful sustemicside effects of calcium carbonate and sodium bicarbonate outweigh their benefit as neutralizing agents; they should rarely be employed in the treatment of acid-peptic disease. The more common antacid side effects of diarrhea (magnesium hydroxide) and constipation (aluminum hydroxide) are best managed by appropriately alternating the agents or by using one of the various antacid mixtures.",
+      "journal": "American journal of hospital pharmacy",
+      "year": "1975",
+      "authors": [
+        "Green F W",
+        "Norton R A",
+        "Kaplan M M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antacids",
+        "Chemical Phenomena",
+        "Chemistry",
+        "Drug Combinations",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Peptic Ulcer",
+        "Solubility",
+        "Stomach Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/236651/"
+    },
+    {
+      "pmid": "35867728",
+      "title": "Dietary and nutritional interventions in children with cerebral palsy: A systematic literature review.",
+      "abstract": "Cerebral palsy is an extremely severe brain injury associated with multiple nutritional and clinical issues, such as underweight, gastroesophageal reflux, constipation, and nutrient deficiency. Evidence-based dietary and nutritional interventions may improve the quality of life of children with cerebral palsy.",
+      "journal": "PloS one",
+      "year": "2022",
+      "authors": [
+        "Rebelo Fernanda",
+        "Mansur Isabela Rodrigues",
+        "Miglioli Teresa Cristina",
+        "Meio Maria Dalva Baker",
+        "Junior Saint Clair Gomes"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Cerebral Palsy",
+        "Child",
+        "Child, Preschool",
+        "Constipation",
+        "Diet",
+        "Gastroesophageal Reflux",
+        "Humans",
+        "Quality of Life",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35867728/"
+    }
+  ]
+}

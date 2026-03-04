@@ -5,7 +5,7 @@ drugbank_id: "DB00394"
 drug_name: "Beclomethasone Dipropionate"
 kg_predictions: 147
 dl_predictions: 38
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 147
 brands: []
 permalink: /drugs/beclomethasone-dipropionate/
@@ -21,7 +21,7 @@ permalink: /drugs/beclomethasone-dipropionate/
 | **DrugBank ID** | [DB00394](https://go.drugbank.com/drugs/DB00394) |
 | **KG Predictions** | 147 |
 | **DL Predictions (≥0.7)** | 38 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

@@ -1,0 +1,1045 @@
+{
+  "drug": "Ciprofloxacin",
+  "drugbank_id": "DB00537",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:17:54Z",
+  "indications": [
+    {
+      "indication": "paratyphoid fever",
+      "evidence_level": "L4",
+      "trials": 1,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 0,
+        "review_articles": 5,
+        "other_articles": 5,
+        "total_trials": 1,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "diarrheal disease",
+      "evidence_level": "L1",
+      "trials": 3,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 2,
+        "other_articles": 8,
+        "total_trials": 3,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "acute contagious conjunctivitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "escherichia coli infection",
+      "evidence_level": "L1",
+      "trials": 17,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 2,
+        "phase1_trials": 1,
+        "other_trials": 12,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 9,
+        "total_trials": 17,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "malignant otitis externa caused by Pseudomonas aeruginosa",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 7,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 21,
+  "total_articles": 41,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04349826",
+      "title": "Azithromycin and Cefixime Combination Versus Azithromycin Alone for the Out-patient Treatment of Clinically Suspected or Confirmed Uncomplicated Typhoid Fever in South Asia; a Randomised Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2021-05-23",
+      "completion_date": "2025-12-31",
+      "country": "Nepal",
+      "enrollment": 2150,
+      "brief_summary": "Typhoid and paratyphoid (enteric) fever affects more than 11 million children and adults globally each year including 7 million in South Asia. Up to 1% of patients who get typhoid may die of the disease and, in those that survive, a prolonged period of ill health and catastrophic financial cost to the family may follow. In the last 20 years, treatment of typhoid fever with a 7-day course of a single oral antimicrobial, such as ciprofloxacin, cefixime or azithromycin, given in an out-patient sett",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A history of fever at presentation for ≥ 72 hours and a documented fever (≥37.5oC (axillary) or ≥38oC (oral))\n* Age ≥ 2 years (and ≥ 10kg) to 65 years\n* No clear focus of infection on initial clinical evaluation\n* Malaria rapid Diagnostic test( RDT) negative; dengue nonstructu",
+      "endpoints": [
+        "Treatment Failure"
+      ],
+      "sponsor": "Oxford University Clinical Research Unit, Vietnam",
+      "url": "https://clinicaltrials.gov/study/NCT04349826"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00741052",
+      "title": "Randomized, Double Blind, Controlled Clinical Trial to Evaluate the Efficacy of Multiple-dose Ciprofloxacin With Single Dose Azithromycin Therapy for Adults With Cholera Due to Multiply Resistant Strains of V. Cholerae O1 or O139",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2010-06",
+      "country": "Bangladesh",
+      "enrollment": 218,
+      "brief_summary": "Cholera is an important diarrhoeal disease and an important cause of death, particularly during epidemic outbreaks, in Bangladesh and many other developing countries. Used as an adjunct to management of dehydration, antimicrobial therapy using an appropriate agent reduces diarrhoea duration and stool volume in severe cholera by about half.\n\nThe usefulness of antimicrobials has, however, been greatly eroded by the increasing prevalence of resistant strains of V. cholerae O1. From October 2004 at ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 18 - 60 years.\n* Gender: Male\n* Duration of diarrhoea: Not exceeding 24 hours\n* Written informed consent for participation.\n* Dehydration status: Severe dehydration.\n* Positive stool dark-field microscopic examination for V. cholerae \\& culture positive for V cholerae\n* F",
+      "endpoints": [
+        "To determine whether clinical success of therapy in the two treatment regimens are comparable."
+      ],
+      "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+      "url": "https://clinicaltrials.gov/study/NCT00741052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00229944",
+      "title": "Randomized, Double-Blind, Controlled Clinical Trial to Compare Efficacy of a Single Dose of Azithromycin Versus a Single Dose of Ciprofloxacin in the Treatment of Adults With Clinically Severe Cholera Due to V. Cholerae O1 or O139",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-12",
+      "completion_date": "2004-05",
+      "country": "Bangladesh",
+      "enrollment": 220,
+      "brief_summary": "Cholera remains an important cause of diarrhoeal illness and death in Asia, Africa and Latin America. Antimicrobial therapy is an important adjunct to fluid therapy in the management of patients with cholera, and should be given to all patients with clinically moderate-to-severe disease since they can reduce the diarrhoea duration and stool volume by half. Current therapy for cholera is limited by increasing prevalence of multiply-resistant strains of Vibrio cholerae O1 or O139. Tetracycline and",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 18 - 60 years\n* Gender: Male (To facilitate accurate measurement of stool and urine, and also due to the difficulties in hospitalizing women for longer duration)\n* Duration of illness: 24 hours or less\n* Written informed consent for participation in the study\n* Dehydratio",
+      "endpoints": [
+        "Clinical success",
+        "Bacteriological Success"
+      ],
+      "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+      "url": "https://clinicaltrials.gov/study/NCT00229944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00142272",
+      "title": "Randomised, Open, Parallel Group Clinical Trial to Compare the Efficacy and Safety of a Single Dose of Ciprofloxacin Oral Suspension 20 mg/kg With a 3-day Course of Erythromycin Oral Suspension Administered in a Dose of 12.5 mg/kg Every 6 Hours (12 Doses) in the Treatment of Children,With Clinically Severe Cholera Due to V. Cholerae O1 or O139.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-05",
+      "completion_date": "2002-07",
+      "country": "Bangladesh",
+      "enrollment": 180,
+      "brief_summary": "The study will be conducted to compare the efficacy and safety of a single dose of ciprofloxacin oral suspension 20 mg/kg with a 3-day course of erythromycin oral suspension administered in a dose of 12.5 mg/kg every 6 hours (12 doses) in the treatment of children, aged 2-15 years with clinically severe cholera due to V. cholerae O1 or O139.\n\nWe hypothesize that single dose ciprofloxacin would result in similar outcome in the clinicalcurewith that of erythromycin given in multiple doses.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAge: 2-15 years. Gender: male. Duration of illness: \\<24 hours. Written informed consent for participation in the study from either of the parents, or guardian, and oral assent from children aged ³ 8 years.\n\nSevere dehydration according to World Health Organisation (WHO) guideli",
+      "endpoints": [
+        "Rates of clinical success"
+      ],
+      "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+      "url": "https://clinicaltrials.gov/study/NCT00142272"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04575493",
+      "title": "Clinical Efficacy of Crano-cure inTreatment of Urinary Tract Infection",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-10-05",
+      "completion_date": "2020-11-30",
+      "country": "Pakistan",
+      "enrollment": 205,
+      "brief_summary": "The main objectives of the study are; to determine the efficacy of test drug Crano-cure for the treatment of urinary tract infection, to compare the effectiveness of Polyherbal formulation Crano-cure vs. Standard allopathic. Antibacterial/ antibiotic (Ciprofloxacin 500 mg) in treatment of UTI, to assess the safety of trial drug.\n\nResearch literatures have revealed that Tribulus terrestris (Gokhro), Vaccinium macrocarpon (karonda), Cuminum cyminum (Zeera sufaid), Rheum emodi (Revand chini) and Pi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 15 to 60 years with symptomatic acute urinary tract infection.\n\n  * Willing to participate in the study\n  * Non-pregnant adult females.\n  * Clinical signs and symptoms of a UTI (e.g., dysuria, frequency, urgency to urinate, Burning sensations during urination, Hematuria, s",
+      "endpoints": [
+        "Urine Culture Examination"
+      ],
+      "sponsor": "Islamia University of Bahawalpur",
+      "url": "https://clinicaltrials.gov/study/NCT04575493"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01349738",
+      "title": "Asymptomatic Bacteriuria & Risk of Urinary Tract Infection in Renal Transplants",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2011-05",
+      "completion_date": "2013-05",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "The goal of this research program is to understand the natural history of asymptomatic bacteriuria in the renal transplant patients, to determine if screening for asymptomatic bacteriuria and identification of key host characteristics and virulence factors present on uropathogenic bacteria identifies a sub-population of patients with asymptomatic bacteriuria that are at risk to develop symptomatic urinary tract infection. Ultimately, the knowledge obtained from this study will prevent inappropri",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* must be 18 years old or older,\n* had a kidney transplant,\n* be at least 30 days post operation.\n\nExclusion Criteria:\n\n* Pregnant women, those planning to become pregnant or nursing mothers;\n* Renal transplant patients less than 30 days post transplant; Use of an indwelling Fol",
+      "endpoints": [
+        "Prevalence of Asymptomatic Bacteriuria and Risk of Developing Symptomatic Urinary Tract Infections or Renal Allograft Injury in Renal Transplant Patients"
+      ],
+      "sponsor": "Rice, James C., M.D.",
+      "url": "https://clinicaltrials.gov/study/NCT01349738"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06080698",
+      "title": "Gram-Negative Bloodstream Infection Oral Antibiotic Therapy Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-02-22",
+      "completion_date": "2027-06-30",
+      "country": "United States",
+      "enrollment": 1204,
+      "brief_summary": "The Gram-negative bloodstream infection Oral Antibiotic Therapy trial (The GOAT Trial) is a multi-center, randomized clinical trial that hypothesizes that early transition to oral antibiotic therapy for the treatment of Gram-Negative BloodStream Infection (GN-BSI) is as effective but safer than remaining on intravenous (IV) antibiotic therapy for the duration of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult (≥ 18 years) at the time of screening\n* Hospitalized\n* Identification of at least one Gram-negative organism in a blood culture\n* Capable of providing written informed consent (includes through a legally authorized representative)\n* Willingness to adhere to assigned stud",
+      "endpoints": [
+        "Desirability of Outcome Ranking (DOOR)"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT06080698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02555059",
+      "title": "Special Drug Use Investigation of Ciproxan® Injection in Pediatrics",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-07-15",
+      "completion_date": "2019-06-13",
+      "country": "Japan",
+      "enrollment": 48,
+      "brief_summary": "The objective in this study is collecting post-marketing information on the safety and efficacy of Ciproxan injection under the routine clinical practice.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female and male pediatric patients (less than 15 years old) with a diagnosis of complicated cystitis, pyelonephritis, cystic fibrosis, or anthrax infected by ciprofloxacin-active microorganisms, i.e. Bacillus anthracis, Escherichia coli, Pseudomonas aeruginosa.\n* Patients for ",
+      "endpoints": [
+        "Number of musculoskeletal adverse events."
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT02555059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06692907",
+      "title": "A Phase 2b, Double-Blind, Placebo Controlled Trial to Evaluate the Efficacy of Intramuscularly Administered CssBA+dmLT Against Moderate-severe Diarrhea in a Controlled Human Infection Model With Enterotoxigenic Escherichia Coli (ETEC) Strain B7A in Healthy Adults",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-03-31",
+      "completion_date": "2026-08-20",
+      "country": "United States",
+      "enrollment": 72,
+      "brief_summary": "The study is designed to evaluate the safety, immunogenicity, and efficacy of the intramuscular administration of a CS6 based vaccine (CssBA) against ETEC co-administered with double mutant labile toxin (dmLT) in preventing moderate-severe diarrhea (MSD) following challenge with ETEC strain B7A in healthy adults. Approximately 72 adult participants, divided into 4 cohorts of 18, will be randomized 1:1 to receive vaccine (45 micrograms CssBA with 0.5 micrograms dmLT) or placebo (normal saline) on",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Non-pregnant, non-breast-feeding adults, age 18 to 49 years (inclusive) at the time of enrollment.\n2. Willing and able to sign and date informed consent document prior to study procedures.\n3. Stated willingness to be available for all study visits and comply with all trial pr",
+      "endpoints": [
+        "Number and percentage of CssBA+dmLT injected participants experiencing local solicited AEs",
+        "Number and percentage of CssBA+dmLT injected participants experiencing MAAEs",
+        "Number and percentage of CssBA+dmLT injected participants experiencing SAEs"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT06692907"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06093191",
+      "title": "Efficacy and Safety of tobRamycin Inhalation Solution for Pseudomonas AeruginoSa Eradication in Bronchiectasis (ERASE): a Multi-center, 2×2 Factorial Randomized, Double-blind, Placebo-controlled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-09-25",
+      "completion_date": "2025-12-30",
+      "country": "China",
+      "enrollment": 364,
+      "brief_summary": "People with bronchiectasis are prone to Pseudomonas aeruginosa (PA) infections, which can become chronic and lead to increased death rates and disease severity. Studies from cystic fibrosis suggest that eradication therapy aimed at PA can successfully transition patients to a culture-negative status, providing long-term benefits. Current guidelines for managing bronchiectasis in adults recommend eradicating PA when it is first or newly isolated; however, there is a lack of randomized controlled ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, aged 18 years and 80 years at screening\n2. Signed and dated written informed consent prior to admission to the study in accordance with local legislation.\n3. Clinical history consistent with bronchiectasis (cough, chronic sputum production and/or recurrent res",
+      "endpoints": [
+        "The proportion of patients successfully eradicating PA in each group by the end of the study, defined as a negative sputum culture of PA at both 24 weeks and 36 weeks."
+      ],
+      "sponsor": "Shanghai Pulmonary Hospital, Shanghai, China",
+      "url": "https://clinicaltrials.gov/study/NCT06093191"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02443285",
+      "title": "Is Spontaneous Bacterial Peritonitis Still Responding to 3rd Generation Cephalosporins?",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-01",
+      "completion_date": "2019-12",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "Current European and most other international guidelines recommend the use of a third-generation cephalosporin as the first choice, or amoxicillin-clavulanate acid or fluoroquinolones as an alternative choice .\n\nThese recommendations are based mainly on clinical trials that were very often conducted a decade or more ago, and on the assumption that E. coli would be involved in nearly half of the cases.\n\nThe microbial etiology of SBP remains relatively constant; however, the antibiotic resistance ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and SBP\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections",
+      "endpoints": [
+        "number of patients with clearence of infection"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT02443285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07236944",
+      "title": "Pivmecillinam as Oral Step-Down Treatment for Escherichia Coli Febrile Urinary Tract Infection Versus Standard of Care: A Randomized Controlled Non-Inferiority Multicenter Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-12",
+      "completion_date": "2029-03",
+      "country": "Norway, Sweden",
+      "enrollment": 560,
+      "brief_summary": "The goal of this clinical trial is to learn if oral treatment with pivmecillinam is effective to treat febrile urinary tract infections in adult patients. Hospitalized patients who have received 2-4 days of intravenous antibiotic therapy for febrile urinary tract infections, and have responded to treatment, will be randomized to either pivmecillinam or standard treatment (other oral or intravenous antibiotics).\n\nThe main question the study aims to answer is if oral follow-up with pivmecillinam i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 years of age.\n2. Diagnosis of fUTI, defined as i) fever ≥ 38°C and ii) at least one of the following: flank pain or pelvic pain, nausea or vomiting, dysuria, urinary frequency or urgency, and costovertebral angle tenderness on physical examination.\n3. Growth of E. coli in",
+      "endpoints": [
+        "Clinical response (primary endpoint)."
+      ],
+      "sponsor": "Uppsala University",
+      "url": "https://clinicaltrials.gov/study/NCT07236944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05002413",
+      "title": "NANO-RAST: Nanomotion-based Resistell AST to Determine the Antibiotic Susceptibility of Gram-negative Bacteria Causing Bacteremia and/or Sepsis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-06-18",
+      "completion_date": "2024-02-19",
+      "country": "Switzerland",
+      "enrollment": 300,
+      "brief_summary": "Blood culture samples from bacteremia patients positive for Gram-negative bacteria will be tested for antibacterial susceptibility using Resistell Phenotech device. The results will be compared with current AST gold standard tests to calculate sensitivity, specificity, and accuracy of Resistell Phenotech device.",
+      "eligibility_criteria": "Inclusion Criteria: The patients meeting all the following criteria can be recruited in the study:\n\n* patients over the age of 18 years who sign, or their relatives / legal representatives sign the informed consent form;\n* patients with bacteremia considered to be due to a pathogenic strain;\n* patie",
+      "endpoints": [
+        "Sensitivity of Resistell AST"
+      ],
+      "sponsor": "Resistell AG",
+      "url": "https://clinicaltrials.gov/study/NCT05002413"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05293483",
+      "title": "The Impact of Hospital Care for COVID-19 on the Prevalence of Multidrug-resistant Microorganisms Among Patients Compared to Non-COVID-19 Hospital Care in Limited-resource Hospitals in Indonesia",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2022-03-07",
+      "completion_date": "2023-03-07",
+      "country": "Indonesia",
+      "enrollment": 1110,
+      "brief_summary": "The effect of the COVID-19 pandemic on the emergence and spread of antibiotic-resistant bacteria is largely unknown, especially in low-resource settings. We aim to investigate the prevalence and relatedness of multidrug-resistant bacteria among patients in both COVID-19 and non-COVID-19 wards in two hospitals in Indonesia. Bacterial isolates will be collected from clinical sample and by screening of patients at discharge followed by 30 days after discharge. Aspects of hospital care that may be d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All adult patients discharged from Covid wards and non Covid wards (ICU and internal medicine wards)\n\nExclusion Criteria:\n\n* Patients discharged within 48 hours of admission\n* Patients who either live outside the city of Malang or their address is unclear",
+      "endpoints": [
+        "Multidrug resistant bacteria prevalence",
+        "Multidrug resistant bacteria transmission",
+        "Hand Hygiene and Personal Protective Equipment Use Compliance"
+      ],
+      "sponsor": "Erasmus Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05293483"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00449735",
+      "title": "Quinolone Resistance in Bloodstream Isolates of Escherichia Coli",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2017-06",
+      "country": "United States",
+      "enrollment": 500,
+      "brief_summary": "This proposed study aims to document the risk factors for quinolone resistance in bloodstream isolates of E. coli. Additionally, the adequacy of empiric antibiotic therapy for E. coli bloodstream infections will be assessed. Finally, outcome will be recorded - this is all-cause mortality at 28 days from the time of the first positive blood culture. Hypothesis: Ciprofloxacin resistant strains are associated with admission from nursing home and with prior quinolone use.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nClinical information is collected by chart review of \"case\" and \"control\" patients.\n\nA \"case A\" patient is defined as follows:\n\n* One or more blood cultures are positive for E. coli. The organism is ciprofloxacin resistant.\n\nA \"case B\" patient is defined as follows:\n\n* One or mo",
+      "endpoints": [
+        "dead or alive"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00449735"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00930982",
+      "title": "Randomized, Placebo-controlled, Double-blind, Multi-center Study to Evaluate the Safety and Efficacy of Ciprofloxacin Inhale Compared to Placebo in Patients With Non-cystic Fibrosis Bronchiectasis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2010-09",
+      "country": "Germany, Sweden, Australia, United Kingdom, Spain, United States",
+      "enrollment": 124,
+      "brief_summary": "The purpose of this study is to find out if bacterial load in the airways can be reduced after inhalation of ciprofloxacin for 28 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a proven and documented diagnosis of non-cystic fibrosis idiopathic or post pneumonic bronchiectasis\n* Stable pulmonary status and stable regimen of standard treatment at least for the past 30 days\n\nExclusion Criteria:\n\n* Forced Expiratory Volume 1 \\< 35% or \\> 8",
+      "endpoints": [
+        "Change From Baseline in Total Bacterial Load in the Sputum at End of Treatment (Day 29)."
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00930982"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02247960",
+      "title": "Antibiotic Prophylaxis for Urinary Catheter Removal After Radical Prostatectomy",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2014-07",
+      "completion_date": "2016-05",
+      "country": "United States",
+      "enrollment": 175,
+      "brief_summary": "The aim of this study is to determine whether antibiotics prophylaxis at the time of urinary catheter removal decreases the number of symptomatic urinary tract infections in patients after radical prostatectomy. In addition, the investigators aim to determine whether antibiotic prophylaxis is potentially harmful to patients (e.g. adverse reactions from antibiotic use, resistant bacteria in the urine, Clostridium difficile infections etc.). The investigators also aim to identify specific populati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects will include patients undergoing radical prostatectomy for prostate cancer. Subjects will be randomized into control or treatment group.\n\nExclusion Criteria:\n\n* Subjects with a history of adverse reaction to ciprofloxacin, or any other quinolone will be excluded. Subj",
+      "endpoints": [
+        "Number of Participants With a Positive Urinary Tract Infection"
+      ],
+      "sponsor": "University of Rochester",
+      "url": "https://clinicaltrials.gov/study/NCT02247960"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06252428",
+      "title": "Detection of Biofilm Among Uropathogenic Escherichia Coli Clinical Isolates in Suez Canal University Hospitals",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-12-20",
+      "completion_date": "2024-02-20",
+      "country": "Egypt",
+      "enrollment": 47,
+      "brief_summary": "This descriptive cross-sectional study will beconducted in Suez Canal University Hospitals (SCUHs) in Ismailia, Egypt. The study aims to detect Escherichia coli biofilm producers to improve prognosis and treatment and reduce morbidity and mortality rates due to this infection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients showing criteria for Symptomatic Urinary Tract Infection (SUTI) according to Center of Diseases and Control criteria (CDC) (CDC, 2022).\n\nPatient has at least one of the following signs or symptoms:\n\n* fever (\\>38.0°C)\n* suprapubic tenderness\n* costovertebral angle pai",
+      "endpoints": [
+        "antibiotic resistance",
+        "Congo red Agar method (CRA)",
+        "Modified tissue culture plate method (MTCP)"
+      ],
+      "sponsor": "Suez Canal University",
+      "url": "https://clinicaltrials.gov/study/NCT06252428"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02463721",
+      "title": "Identification of Ascitic Fluid Bacterial Pathogens in Spontaneous Bacterial Peritonitis in Nile Delta and Its Impact on Clinical Outcome of These Patients",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-01",
+      "completion_date": "2019-12",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "Several studies have pointed out changes in the epidemiology of the causative bacteria in SBP and bacterascites and in their susceptibility to antibiotics. In particular, the development of beta-lactamase enzymes, which confer resistance to clavulanate, or extended spectrum beta-lactamases in Escherichia coli. The potential emergence of enterococci, methicillin-resistant S. aureus, or fluoroquinolone-resistant bacteria, following norfloxacin prophylaxis, is also a cause of concern since they may",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and suspected to have SBP.\n* ascitic fluid PMNL ≥ 250 cells/mm3\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections\n* patients started empirical antibiotics without prior culture.",
+      "endpoints": [
+        "identification of SBP bacterial pathogens through gram stain or other specific stains"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT02463721"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03969758",
+      "title": "Efficacy of Empirical Ciprofloxacin Plus Metronidazole and Cefixime Plus Metronidazole Therapy for the Treatment of Liver Abscess: A Randomised Controlled Clinical Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-07",
+      "completion_date": "2020-05",
+      "country": "India",
+      "enrollment": 140,
+      "brief_summary": "Liver abscess is purulent collections in the liver parenchyma that result from microbial infection spread to the liver through the biliary tree, hepatic or portal vein and by extension of adjacent infection or as a result of trauma. Liver abscesses are most commonly pyogenic followed by amoebic and rarely tuberculous or fungal in immunocompromised patients. In the developing country amoebic liver abscess is more frequent than the developed country but secondary bacterial infection of amoebic liv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Irrespective of gender\n* Age ≥ 18 years\n* Symptomatic patients of liver abscess confirmed with radiology imaging, either by ultrasonography (USG) or computed tomographgy (CT) scan\n\nExclusion Criteria:\n\n* Past history of liver abscess\n* Chronic kidney disease (CKD)\n* History of",
+      "endpoints": [
+        "Clinical cure"
+      ],
+      "sponsor": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+      "url": "https://clinicaltrials.gov/study/NCT03969758"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "40914181",
+      "title": "Enteric (typhoid and paratyphoid) fever.",
+      "abstract": "Enteric fever, caused by the human-restricted bacteria Salmonella enterica serovar Typhi (typhoid) and Salmonella enterica serovar Paratyphi A, B, and C (paratyphoid), affects persons residing in, or travelling from, areas lacking safe water, sanitation, and hygiene infrastructure. Transmission is by the faecal-oral route. A gradual fever onset over 3-7 days with malaise, headache, and myalgia is typical. Symptoms can be altered by previous antimicrobial use. Life-threatening complications can arise in the second week of untreated illness. Differentiation from other febrile illnesses is challenging. Blood or bone marrow culture remain reference standard diagnostic methods, despite the low sensitivity of blood culture. Azithromycin, ciprofloxacin (excepting cases originating in south Asia due to drug resistance), or ceftriaxone are recommended treatment options for both typhoid and paratyphoid; however, choice should be guided by local resistance patterns. Ciprofloxacin-resistant and ce",
+      "journal": "Lancet (London, England)",
+      "year": "2025",
+      "authors": [
+        "Kuehn Rebecca",
+        "Rahden Paul",
+        "Hussain Huma Syed",
+        "Karkey Abhilasha",
+        "Qamar Farah Naz"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Typhoid Fever",
+        "Paratyphoid Fever",
+        "Anti-Bacterial Agents",
+        "Salmonella typhi",
+        "Typhoid-Paratyphoid Vaccines",
+        "Ciprofloxacin",
+        "Ceftriaxone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40914181/"
+    },
+    {
+      "pmid": "36420914",
+      "title": "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins.",
+      "abstract": "Typhoid and paratyphoid (enteric fever) are febrile bacterial illnesses common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends treatment with azithromycin, ciprofloxacin, or ceftriaxone due to widespread resistance to older, first-line antimicrobials. Resistance patterns vary in different locations and are changing over time. Fluoroquinolone resistance in South Asia often precludes the use of ciprofloxacin. Extensively drug-resistant strains of enteric fever have emerged in Pakistan. In some areas of the world, susceptibility to old first-line antimicrobials, such as chloramphenicol, has re-appeared. A Cochrane Review of the use of fluoroquinolones and azithromycin in the treatment of enteric fever has previously been undertaken, but the use of cephalosporins has not been systematically investigated and the optimal choice of drug and duration of treatment are uncertain.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2022",
+      "authors": [
+        "Kuehn Rebecca",
+        "Stoesser Nicole",
+        "Eyre David",
+        "Darton Thomas C",
+        "Basnyat Buddha"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Adult",
+        "Humans",
+        "Adolescent",
+        "Paratyphoid Fever",
+        "Typhoid Fever",
+        "Cephalosporins",
+        "Azithromycin",
+        "Ceftriaxone",
+        "Cefixime"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36420914/"
+    },
+    {
+      "pmid": "32050286",
+      "title": "[Typhoid and paratyphoid fever].",
+      "abstract": "Typhoid fever and paratyphoid fever are systemic infectious diseases of global significance caused by Salmonella enterica subspecies enterica Serovar Typhi (short name: Salmonella Typhi) or Serovar Paratyphi (short name: Salmonella Paratyphi). The course of these fecal-orally transmitted diseases is mainly characterized by a high fever. Left untreated, the course of typhoid fever can be severe and lethal. The infection is almost always acquired outside of Europe (mainly in India) and is notifiable in Germany, Austria and Switzerland. Paratyphoid is an attenuated disease of typhoid fever caused by Salmonella Paratyphi. Available vaccines only protect against Salmonella Typhi. Antibiotic resistance reflects the situation in endemic countries and shows a worrying increase of multi-drug resistant isolates. Currently, third-generation cephalosporins such as ceftriaxone are recommended as first-line therapy; if sensitive to quinolones, fluoroquinolones such as ciprofloxacin may continue to b",
+      "journal": "Zeitschrift fur Gastroenterologie",
+      "year": "2020",
+      "authors": [
+        "Trawinski Henning",
+        "Wendt Sebastian",
+        "Lippmann Norman",
+        "Heinitz Sascha",
+        "von Braun Amrei"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Cephalosporins",
+        "Fluoroquinolones",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Paratyphoid Fever",
+        "Quinolones",
+        "Salmonella enterica",
+        "Salmonella paratyphi A",
+        "Salmonella typhi"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32050286/"
+    },
+    {
+      "pmid": "16271634",
+      "title": "Typhoid and paratyphoid fever.",
+      "abstract": "",
+      "journal": "Lancet (London, England)",
+      "year": "2005",
+      "authors": [
+        "Pandit Anil",
+        "Arjyal Amit"
+      ],
+      "pub_types": [
+        "Comment",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Anti-Infective Agents",
+        "Ciprofloxacin",
+        "Drug Resistance, Multiple, Bacterial",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Nalidixic Acid",
+        "Nepal",
+        "Ofloxacin",
+        "Salmonella enterica"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16271634/"
+    },
+    {
+      "pmid": "21975746",
+      "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+      "abstract": "Typhoid and paratyphoid are febrile illnesses, due to a bacterial infection, which remain common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends the fluoroquinolone antibiotics in areas with known resistance to the older first-line antibiotics.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2011",
+      "authors": [
+        "Effa Emmanuel E",
+        "Lassi Zohra S",
+        "Critchley Julia A",
+        "Garner Paul",
+        "Sinclair David"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Child",
+        "Fluoroquinolones",
+        "Humans",
+        "Norfloxacin",
+        "Paratyphoid Fever",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome",
+        "Typhoid Fever"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21975746/"
+    },
+    {
+      "pmid": "40934281",
+      "title": "Paratyphoid fever and the genomics of Salmonella enterica serovar Paratyphi A in Taiwan.",
+      "abstract": "Salmonella enterica serovar Paratyphi A (S. Paratyphi A) has emerged as a significant global health concern due to the progressive development of antimicrobial resistance and its broader geographic distribution. In Taiwan, paratyphoid fever was historically rare and predominantly associated with imported cases. Since 2022, however, a marked increase in domestically acquired infections has been observed, prompting investigations into their origin and likely route of introduction.",
+      "journal": "PLoS neglected tropical diseases",
+      "year": "2025",
+      "authors": [
+        "Liao Ying-Shu",
+        "Hong Yu-Ping",
+        "Chen Bo-Han",
+        "Wan You-Wun",
+        "Teng Ru-Hsiou"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Paratyphoid Fever",
+        "Salmonella paratyphi A",
+        "Taiwan",
+        "Whole Genome Sequencing",
+        "Epidemiological Monitoring",
+        "Drug Resistance, Bacterial",
+        "Microbial Sensitivity Tests",
+        "Communicable Diseases, Imported",
+        "Ciprofloxacin",
+        "Nalidixic Acid"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40934281/"
+    },
+    {
+      "pmid": "15976828",
+      "title": "[Typhoid and paratyphoid fever in children].",
+      "abstract": "Febrile illness without focal symptoms in a child who has visited tropical or sub-tropical areas is an increasing health problem in western countries. In the department of paediatrics at Ullevaal University Hospital, malaria, typhoid and paratyphoid fever are the most frequent infectious diseases acquired in tropical or sub-tropical areas.",
+      "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+      "year": "2005",
+      "authors": [
+        "Krogh Kristin",
+        "Hermansen Nils Olav",
+        "Wathne Karl-Olaf"
+      ],
+      "pub_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Anti-Bacterial Agents",
+        "Child",
+        "Child, Preschool",
+        "Ciprofloxacin",
+        "Drug Resistance, Multiple, Bacterial",
+        "Emigration and Immigration",
+        "Humans",
+        "India",
+        "Microbial Sensitivity Tests"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15976828/"
+    },
+    {
+      "pmid": "25808163",
+      "title": "Enteric fever and its impact on returning travellers.",
+      "abstract": "Enteric fever, a systemic illness, is caused by Salmonella enterica serovar Typhi or S. enterica serovar Paratyphi A, B or C. The organism is transmitted to humans by the faecal oral route and is endemic in countries with poor sanitation and lacking clean drinking water. There are around 27 million individuals infected with S. Typhi worldwide annually. Enteric fever is a particular problem in travellers to endemic areas, especially those visiting friends and relatives. Currently, the two main vaccines recommended for travellers are the Vi polysaccharide vaccine and the oral Ty21a vaccine. These internationally licensed vaccines are safe and effective against S. Typhi. However, there is currently no commercially available vaccine against S. Paratyphi, which is increasingly reported as a cause of enteric fever. Vaccine uptake and taking appropriate precautions are poor in travellers visiting friends and relatives abroad; this problem requires addressing. Ciprofloxacin is no longer recomm",
+      "journal": "International health",
+      "year": "2015",
+      "authors": [
+        "Dave Jayshree",
+        "Sefton Armine"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Azithromycin",
+        "Ceftriaxone",
+        "Drug Resistance",
+        "Humans",
+        "Paratyphoid Fever",
+        "Salmonella paratyphi A",
+        "Salmonella paratyphi B",
+        "Salmonella paratyphi C",
+        "Salmonella typhi"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25808163/"
+    },
+    {
+      "pmid": "35871037",
+      "title": "Clinical manifestations and microbiological features between indigenous and imported enteric fever in Taiwan, 2010-2020.",
+      "abstract": "Previous studies had showed that indigenous clones of Salmonella Typhi and S. Paratyphi were originally imported from other countries in Taiwan. We presented the clinical manifestations and laboratory findings of indigenous and imported enteric fever cases in Taiwan in the current decade. We retrospectively reviewed typhoid and paratyphoid fever cases in two medical centers of Chang Gung Memorial Hospitals in 2010-2020. A total of 37 enteric fever cases including 24 typhoid fever and 13 paratyphoid fever were recorded. There were 20 indigenous cases, 16 imported cases, and one indetermined case. Splenomegaly and hepatitis were more frequent in typhoid fever than in paratyphoid fever (P < 0.05). Imported cases had more ciprofloxacin non-susceptibility rate (8/16, 50.0%) than indigenous cases (2/20, 10%). Indigenous ciprofloxacin non-susceptible S. Typhi isolates were found in 2018. One indigenous S. Paratyphi B isolate was multi-drug resistant (MDR) to chloramphenicol, ampicillin, and t",
+      "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+      "year": "2022",
+      "authors": [
+        "Chen Chih-Ho",
+        "Hsu Ying-Jie",
+        "Chen Yi-Ching",
+        "Cheng Shu-Shen",
+        "Kuo Kuang-Che"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Typhoid Fever",
+        "Paratyphoid Fever",
+        "Salmonella paratyphi A",
+        "Retrospective Studies",
+        "Taiwan",
+        "Anti-Bacterial Agents",
+        "Ciprofloxacin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35871037/"
+    },
+    {
+      "pmid": "16271635",
+      "title": "Typhoid and paratyphoid fever.",
+      "abstract": "",
+      "journal": "Lancet (London, England)",
+      "year": "2005",
+      "authors": [
+        "Hasan Rumina",
+        "Cooke Fiona J",
+        "Nair Satheesh",
+        "Harish Belgode N",
+        "Wain John"
+      ],
+      "pub_types": [
+        "Comment",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Anti-Infective Agents",
+        "Ciprofloxacin",
+        "Drug Resistance, Multiple, Bacterial",
+        "Female",
+        "Humans",
+        "Male",
+        "Salmonella paratyphi A"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16271635/"
+    },
+    {
+      "pmid": "15880088",
+      "title": "Shigellosis.",
+      "abstract": "Shigellosis is a global human health problem. Four species of Shigella i.e. S. dysenteriae, S. flexneri, S. boydii and S. sonnei are able to cause the disease. These species are subdivided into serotypes on the basis of O-specific polysaccharide of the LPS. Shigella dysenteriae type 1 produces severe disease and may be associated with life-threatening complications. The symptoms of shigellosis include diarrhoea and/or dysentery with frequent mucoid bloody stools, abdominal cramps and tenesmus. Shigella spp. cause dysentery by invading the colonic mucosa. Shigella bacteria multiply within colonic epithelial cells, cause cell death and spread laterally to infect and kill adjacent epithelial cells, causing mucosal ulceration, inflammation and bleeding. Transmission usually occurs via contaminated food and water or through person-to-person contact. Laboratory diagnosis is made by culturing the stool samples using selective/differential agar media. Shigella spp. are highly fragile organism ",
+      "journal": "Journal of microbiology (Seoul, Korea)",
+      "year": "2005",
+      "authors": [
+        "Niyogi Swapan Kumar"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Drug Resistance, Bacterial",
+        "Dysentery, Bacillary",
+        "Humans",
+        "Shigella",
+        "Shigella Vaccines",
+        "Virulence Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15880088/"
+    },
+    {
+      "pmid": "36509064",
+      "title": "Etiology of Acute Diarrheal Disease and Antimicrobial Susceptibility Pattern in Children Younger Than 5 Years Old in Nepal.",
+      "abstract": "Diarrhea is a common cause of morbidity and mortality among children younger than 5 years in developing countries. Children from 3 to 60 months of age were recruited from two hospitals in Nepal- Bharatpur Hospital, Bharatpur, and Kanti Children's Hospital, Kathmandu-in 2006 to 2009. Stool specimens collected from 1,200 children with acute diarrhea (cases) and 1,200 children without diarrhea (control subjects) were examined for a broad range of enteropathogens by standard microbiology, including microscopy, enzyme immunoassay for viral pathogens (adenovirus, astrovirus, and rotavirus) and protozoa (Giardia, Cryptosporidium, and Entamoeba histolytica), as well as by using reverse transcription real-time polymerase for norovirus. Antimicrobial susceptibility testing was performed using the disk diffusion method. Overall, rotavirus (22% versus 2%), norovirus (13% versus 7%), adenovirus (3% versus 0%), Shigella (6% versus 1%), enterotoxigenic Escherichia coli (8% versus 4%), Vibrio (7% vers",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "year": "2023",
+      "authors": [
+        "Shrestha Sanjaya K",
+        "Shrestha Jasmin",
+        "Mason Carl J",
+        "Sornsakrin Siriporn",
+        "Dhakhwa Jyoti Ratna"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Infant",
+        "Child, Preschool",
+        "Cryptosporidiosis",
+        "Nepal",
+        "Cryptosporidium",
+        "Diarrhea",
+        "Rotavirus",
+        "Shigella",
+        "Enterotoxigenic Escherichia coli"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36509064/"
+    },
+    {
+      "pmid": "37697804",
+      "title": "Global diversity and antimicrobial resistance of typhoid fever pathogens: Insights from a meta-analysis of 13,000 Salmonella Typhi genomes.",
+      "abstract": "The Global Typhoid Genomics Consortium was established to bring together the typhoid research community to aggregate and analyse Salmonella enterica serovar Typhi (Typhi) genomic data to inform public health action. This analysis, which marks 22 years since the publication of the first Typhi genome, represents the largest Typhi genome sequence collection to date (n=13,000).",
+      "journal": "eLife",
+      "year": "2023",
+      "authors": [
+        "Carey Megan E",
+        "Dyson Zoe A",
+        "Ingle Danielle J",
+        "Amir Afreenish",
+        "Aworh Mabel K"
+      ],
+      "pub_types": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Salmonella typhi",
+        "Typhoid Fever",
+        "Anti-Bacterial Agents",
+        "Travel",
+        "Drug Resistance, Bacterial",
+        "Ciprofloxacin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37697804/"
+    },
+    {
+      "pmid": "17426177",
+      "title": "Diarrheal disease among HIV-infected adults in Karnataka, India: evaluation of risk factors and etiology.",
+      "abstract": "The objectives of this study were to evaluate characteristics associated with diarrhea, the effect of trimethoprim-sulfamethoxazole (TMP/SMX) prophylaxis on diarrhea, the response to treatment with ciprofloxacin and tinidazole (Cipro-TZ), and presence of enteric pathogens. Adults infected with human immunodeficiency virus with and without diarrhea served as cases and controls, respectively. Participants provided a medical history and underwent a physical examination. Blood was collected for CD4 cell counts and stool for culture. Cases were treated with Cipro-TZ. Factors associated with a risk of diarrhea included crowded living and no toilet (all P < 0.05). Protective variables (P < 0.05) included a CD4 count greater than 200 cells/mm(3) and TMP/SMX prophylaxis. Cases were more likely to have a pathogen identified (P = 0.05). Eighty-six percent of the cases responded to treatment. Important risk factors for diarrhea were identified. Protection by TMP/SMX reinforces the importance of pr",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "year": "2007",
+      "authors": [
+        "Becker Marissa L",
+        "Cohen Craig R",
+        "Cheang Mary",
+        "Washington Reynold G",
+        "Blanchard James F"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Case-Control Studies",
+        "Diarrhea",
+        "Female",
+        "HIV Infections",
+        "Humans",
+        "India",
+        "Male",
+        "Risk Factors",
+        "Surveys and Questionnaires"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17426177/"
+    },
+    {
+      "pmid": "1656260",
+      "title": "Diarrheal disease during Operation Desert Shield.",
+      "abstract": "Under combat conditions infectious disease can become a major threat to military forces. During Operation Desert Shield, there were numerous outbreaks of diarrhea among the U.S. forces. To evaluate the causes of and risk factors for diarrheal disease, we collected clinical and epidemiologic data from U.S. troops stationed in northeastern Saudi Arabia.",
+      "journal": "The New England journal of medicine",
+      "year": "1991",
+      "authors": [
+        "Hyams K C",
+        "Bourgeois A L",
+        "Merrell B R",
+        "Rozmajzl P",
+        "Escamilla J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Ampicillin",
+        "Diarrhea",
+        "Drug Resistance, Microbial",
+        "Dysentery, Bacillary",
+        "Escherichia coli",
+        "Escherichia coli Infections",
+        "Feces",
+        "Gastroenteritis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1656260/"
+    },
+    {
+      "pmid": "15387492",
+      "title": "Emerging nalidixic acid and ciprofloxacin resistance in non-typhoidal Salmonella isolated from patients having acute diarrhoeal disease.",
+      "abstract": "Non-typhoidal Salmonella are one of the key etiological agents of diarrhoeal disease. The appearance of multiple drug resistance along with resistance to quinolones in this bacterium poses a serious therapeutic problem. We determined the prevalence of nalidixic acid and ciprofloxacin resistance in non-typhoidal Salmonella isolated from faecal samples of patients with acute diarrhoeal disease attending the outpatient and inpatient departments of a hospital in Saudi Arabia during the years 1999 to 2002.",
+      "journal": "Annals of Saudi medicine",
+      "year": "2004",
+      "authors": [
+        "Panhotra B R",
+        "Saxena A K",
+        "Al-Arabi Al-Ghamdi Ali M"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Anti-Infective Agents",
+        "Ciprofloxacin",
+        "Communicable Diseases, Emerging",
+        "Diarrhea",
+        "Drug Resistance, Multiple, Bacterial",
+        "Feces",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Nalidixic Acid"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15387492/"
+    },
+    {
+      "pmid": "33544770",
+      "title": "Characterization of Arcobacter spp. Isolated from human diarrheal, non-diarrheal and food samples in Thailand.",
+      "abstract": "Arcobacter butzleri is an emerging zoonotic food-borne and water-borne pathogen that can cause diarrhea in humans. The global prevalence of A. butzleri infection is underestimated, and little is known about their phenotypic and genotypic characterization. The aim of this study was to determine antimicrobial susceptibility (AST) profiles, detect related virulence genes, and classify sequence type (ST) of A. butzleri isolates obtained from human stool and food samples. A total of 84 A. butzleri isolates were obtained from human diarrheal (n = 25), non-diarrheal (n = 24) stool, and food (n = 35) samples in Thailand. They were evaluated for phenotypic identification by conventional microbiological procedures and AST by Kirby-Bauer disc diffusion method as well as virulence genes detection. Representative isolates from each origin were selected based on the presence of virulence genes and AST profiles to analyze genetic diversity by multilocus sequence typing (MLST). All isolates showed res",
+      "journal": "PloS one",
+      "year": "2021",
+      "authors": [
+        "Kietsiri Paksathorn",
+        "Muangnapoh Chonchanok",
+        "Lurchachaiwong Woradee",
+        "Lertsethtakarn Paphavee",
+        "Bodhidatta Ladaporn"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Arcobacter",
+        "Diarrhea",
+        "Genes, Bacterial",
+        "Genotype",
+        "Gram-Negative Bacterial Infections",
+        "Humans",
+        "Multilocus Sequence Typing",
+        "Thailand",
+        "Virulence Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33544770/"
+    },
+    {
+      "pmid": "31404533",
+      "title": "Acute Diarrheal Illness.",
+      "abstract": "",
+      "journal": "Gastroenterology",
+      "year": "2020",
+      "authors": [
+        "Jansson-Knodell Claire L",
+        "Shin Andrea",
+        "Rogers Nicholas"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adolescent",
+        "Ciprofloxacin",
+        "Colon",
+        "Diarrhea",
+        "Feces",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Ileum"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31404533/"
+    },
+    {
+      "pmid": "39540737",
+      "title": "Antibiotic resistance and serotype distribution of Shigella strains in Bangladesh over the period of 2014-2022: evidence from a nationwide hospital-based surveillance for cholera and other diarrheal diseases.",
+      "abstract": "The objective of this study was to assess the prevalence, antimicrobial resistance patterns, and risk factors linked to Shigella infections through a nationwide hospital-based diarrheal disease surveillance in Bangladesh. From May 2014 to May 2022, from a systematic sentinel surveillance of Shigella infections in over 10 hospitals across Bangladesh, stool specimens were collected from patients with acute watery diarrhea and tested for Shigella species by microbiological culture. The susceptibility to antibiotics was tested using the disk diffusion method. Structured questionnaires were used to collect participants' socioeconomic status and clinical, sanitation, and food history. Out of 24,357 stool specimens, 1.8% were positive for Shigella species, with a higher prevalence among males (58%). Children in the 6-17 age group were found to be at the highest risk of Shigella infections. The most prevalent serotype was Shigella flexneri (79.5%), followed by Shigella sonnei. S. flexneri sero",
+      "journal": "Microbiology spectrum",
+      "year": "2024",
+      "authors": [
+        "Afrad Mokibul Hassan",
+        "Islam Md Taufiqul",
+        "Begum Yasmin Ara",
+        "Saifullah Md",
+        "Ahmmed Faisal"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39540737/"
+    },
+    {
+      "pmid": "38387472",
+      "title": "Evaluating the relationship between ciprofloxacin prescription and non-susceptibility in Salmonella Typhi in Blantyre, Malawi: an observational study.",
+      "abstract": "Ciprofloxacin is the first-line drug for treating typhoid fever in many countries in Africa with a high disease burden, but the emergence of non-susceptibility poses a challenge to public health programmes. Through enhanced surveillance as part of vaccine evaluation, we investigated the occurrence and potential determinants of ciprofloxacin non-susceptibility in Blantyre, Malawi.",
+      "journal": "The Lancet. Microbe",
+      "year": "2024",
+      "authors": [
+        "Ashton Philip M",
+        "Chunga Chirambo Angeziwa",
+        "Meiring James E",
+        "Patel Priyanka D",
+        "Mbewe Maurice"
+      ],
+      "pub_types": [
+        "Observational Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Child",
+        "Salmonella typhi",
+        "Ciprofloxacin",
+        "Typhoid Fever",
+        "Malawi",
+        "Phylogeny",
+        "Typhoid-Paratyphoid Vaccines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38387472/"
+    }
+  ]
+}

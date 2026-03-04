@@ -5,7 +5,7 @@ drugbank_id: "DB00959"
 drug_name: "Methylprednisolone"
 kg_predictions: 118
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 118
 brands: []
 permalink: /drugs/methylprednisolone/
@@ -21,7 +21,7 @@ permalink: /drugs/methylprednisolone/
 | **DrugBank ID** | [DB00959](https://go.drugbank.com/drugs/DB00959) |
 | **KG Predictions** | 118 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

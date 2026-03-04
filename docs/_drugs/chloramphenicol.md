@@ -5,7 +5,7 @@ drugbank_id: "DB00446"
 drug_name: "Chloramphenicol"
 kg_predictions: 140
 dl_predictions: 120
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 140
 brands: []
 permalink: /drugs/chloramphenicol/
@@ -21,7 +21,7 @@ permalink: /drugs/chloramphenicol/
 | **DrugBank ID** | [DB00446](https://go.drugbank.com/drugs/DB00446) |
 | **KG Predictions** | 140 |
 | **DL Predictions (≥0.7)** | 120 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

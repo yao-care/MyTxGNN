@@ -1,0 +1,1041 @@
+{
+  "drug": "Gliclazide",
+  "drugbank_id": "DB01120",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:57:10Z",
+  "indications": [
+    {
+      "indication": "type 2 diabetes mellitus",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 16,
+        "rct_articles": 5,
+        "review_articles": 3,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "diabetes mellitus",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 15,
+        "rct_articles": 2,
+        "review_articles": 6,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "type 2 diabetes mellitus",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 16,
+        "rct_articles": 5,
+        "review_articles": 3,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "diabetes mellitus",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 15,
+        "rct_articles": 2,
+        "review_articles": 6,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "type 2 diabetes mellitus",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 16,
+        "rct_articles": 5,
+        "review_articles": 3,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 100,
+  "total_articles": 50,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01195259",
+      "title": "A Meta Analysis of Malignancy Serious Adverse Events in the ADOPT, 49653/048, and RECORD, 49653/231, Studies, Comparing Metformin With Rosiglitazone.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2010-01",
+      "country": "N/A",
+      "enrollment": 1,
+      "brief_summary": "Observational analyses of data from population registeries have suggested that metformin may be associated with a decreased prevalence of malignancy. The ADOPT and RECORD studies both contain groups of subjects randomly allocated to metformin and rosiglitazone. This meta-analysis combines malignancy serious adverse events from ADOPT and RECORD in order to compare their incidence on metformin with that on rosiglitazone.",
+      "eligibility_criteria": "Subjects from ADOPT that are included in this meta-analysis (those in the metformin or rosiglitazone groups) had the dose of their study medication increased to a maximum of 2g (metformin) or 8mg (rosiglitazone) if their fasting plasma glucose was greater than 140mg/dl.\n\nSubjects from RECORD that ar",
+      "endpoints": [
+        "Time to first occurrence of a serious adverse event of malignancy (excluding non-melanomatous skin cancers)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01195259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01420692",
+      "title": "The Effects of Insulin Detemir and Gliclazide-MR Treatments in Addition to Life-style Modification and Metformin Therapy on Endothelial Functions in Patients With Type 2 Diabetes : An Open-labelled Randomized Prospective Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2012-06",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 64,
+      "brief_summary": "The main purpose of this study is to analyze the effects of the addition of sulfonylurea (gliclazide MR) or ,alternatively, basal insulin (insulin detemir) to life-style modification and metformin treatment as a second step treatment in type 2 diabetes mellitus on endothelial cell functions. The second goal is to identify the effects of these treatment alternatives on body-mass index, the changes in body fat mass, insulin resistance and on the insulin secretion capacity of beta cells. The third ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Type 2 diabetic patients using at least 1000 mg/day metformin at least for 3 months\n2. 7\\<A1C ≤ 11\n3. Patients without any previous use of oral antidiabetics other than metformin or insulin\n4. Between 20 to 65 years old male or female patients\n\nExclusion Criteria:\n\n1. Active ",
+      "endpoints": [
+        "The evaluation of the changes in Flow-Mediated Dilatation (FMD) at 12th and 24th weeks compared to the baseline level, as a Measure of Endothelial Function",
+        "The Changes in the Peripheral Blood Levels of TNF-α, IL-6, MCP-1, sICAM-1, sVCAM-1, vWF, E-selectin, P-selectin, Endothelin-1, PAI-1, tPA and HMW Adiponectin at 12th and 24th weeks compared to the baseline level, as Measures of Inflam. and Coagulation"
+      ],
+      "sponsor": "Ankara University",
+      "url": "https://clinicaltrials.gov/study/NCT01420692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01709305",
+      "title": "A Multicenter, Randomized, Active-Controlled, Open-label Clinical Trial to Evaluate the Safety and Efficacy of Glimepiride, Gliclazide, Repaglinide or Acarbose as a Third OAHA on Top of Sitagliptin+Metformin Combination Therapy in Chinese Patients With Type 2 Diabetes Mellitus",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-11-08",
+      "completion_date": "2015-04-17",
+      "country": "N/A",
+      "enrollment": 5570,
+      "brief_summary": "To assess the effect of adding acarbose or repaglinide or gliclazide to sitagliptin plus metformin, compared to adding glimepiride, on glycemic improvements in Type 2 Diabetes Mellitus (T2DM) participants who require the addition of a third oral anti-hyperglycemic agent (OAHA) according to China Guideline for Type 2 Diabetes. The three co-primary hypotheses are that after 24 weeks of treatment in phase 2, the mean change from baseline in hemoglobin A1c (A1c) in participants receiving either (1)a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has Type 2 Diabetes Mellitus;\n* Agrees to use an effective method of contraception or must not otherwise be at risk of becoming pregnant (female participants).\n\nExclusion Criteria:\n\n* Has a history of type 1 diabetes mellitus or a history of ketoacidosis;\n* Has been treated wi",
+      "endpoints": [
+        "Change From Phase 2 Baseline to Week 44 in Hemoglobin A1c (HbA1c) Levels (Phase 2)"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01709305"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06704802",
+      "title": "Observational Cohort Study Evaluating the Effectiveness of an Education Program (NGAYDAUTIEN) in Combination With Gliclazide MR in the Management of Uncontrolled Type 2 Diabetic Patients.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-11-04",
+      "completion_date": "2024-06-28",
+      "country": "France",
+      "enrollment": 678,
+      "brief_summary": "The primary objective is to assess the change of HbA1c level from baseline after a 6-month follow up among uncontrolled patients with T2D who will be initiated to Diamicron® MR 60 (originator product) plus an educational program (NGAYDAUTIEN) as monotherapy or in add on to metformin in comparison to an initiation of an Oral Antidiabetic Drug (OAD) (except Diamicron®) as monotherapy or in add on to metformin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged at least 18 years (without upper limit of age)\n2. HbA1c value is required at the baseline visit\n3. Patients with diagnosis of uncontrolled T2D\n4. Initiation of a new OAD as monotherapy or on top of metformin\n5. Patient follow-up within the scope of the current medical pr",
+      "endpoints": [
+        "change of HbA1c level (measured in %) from baseline after a 6-month follow-up among the 2 arms"
+      ],
+      "sponsor": "Servier",
+      "url": "https://clinicaltrials.gov/study/NCT06704802"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02475499",
+      "title": "The Use of Incretin-based Drugs and the Risk of Pancreatic Cancer in Patients With Type 2 Diabetes",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-03",
+      "completion_date": "2015-04",
+      "country": "Canada",
+      "enrollment": 886172,
+      "brief_summary": "The purpose of this study is to determine whether incretin-based drugs (used to treat type 2 diabetes) taken either alone in or combination with other anti-diabetic drugs are associated with an increased risk of pancreatic cancer (PC) compared to sulfonylureas.\n\nThe investigators will carry out separate population based cohort studies using administrative health databases in five jurisdictions in Canada, the US, and the UK. Cohorts will be defined by the initiation of a new anti-diabetic drug wh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a first-ever prescription for a non-insulin anti-diabetic drug, including biguanides, sulfonylureas, thiazolidinediones, DPP-4 inhibitors, GLP-1 analogs, alpha-glucosidase inhibitors, meglitinides or combinations of these drugs from the earliest availability of d",
+      "endpoints": [
+        "Incident pancreatic cancer"
+      ],
+      "sponsor": "Canadian Network for Observational Drug Effect Studies, CNODES",
+      "url": "https://clinicaltrials.gov/study/NCT02475499"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00102388",
+      "title": "Efficacy and Safety of Vildagliptin Compared to Gliclazide in Drug Naive Patients With Type 2 Diabetes",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "",
+      "country": "Switzerland, Germany",
+      "enrollment": 1092,
+      "brief_summary": "This study is not being conducted in the United States. The purpose of this study is to assess the safety and effectiveness of vildagliptin, an unapproved drug, compared to gliclazide in lowering overall blood glucose levels in people with type 2 diabetes who have not been previously treated with drug therapy to lower their blood sugar.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Not currently on drug therapy for type 2 diabetes\n* Body mass index (BMI) in the range 22-45\n* Blood glucose criteria must be met\n\nExclusion Criteria:\n\n* Pregnancy or lactation\n* Type 1 diabetes\n* Evidence of significant diabetic complications\n* Evidence of serious cardiovascu",
+      "endpoints": [
+        "Change from baseline in HbA1c at 104 weeks"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00102388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03246828",
+      "title": "Investigating Glucagon Secretion in HNF1-alpha and HNF4-alpha MODY",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-07-03",
+      "completion_date": "2022-08-01",
+      "country": "United Kingdom",
+      "enrollment": 10,
+      "brief_summary": "The aim of this study is to determine whether fasting and post-prandial glucagon secretion is suppressed by gliclazide in patients with HNF1-/4-alpha MODY. Participants will undergo an oral glucose tolerance test (OGTT) before and after omitting their gliclazide medication for 3 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of HNF1-alpha or HNF4-alpha MODY.\n* Currently on gliclazide treatment\n\nExclusion Criteria:\n\n* Currently taking any anti-diabetic medication other than gliclazide and metformin\n* Oral steroid treatment 30 days prior to the start or at any time during the study period.",
+      "endpoints": [
+        "Change in plasma glucagon from baseline (0min)"
+      ],
+      "sponsor": "University of Oxford",
+      "url": "https://clinicaltrials.gov/study/NCT03246828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01758380",
+      "title": "A Double Blind, Double Dummy, Randomised, Multi-centre Study to Assess the Tolerability and Efficacy Profile of Vildagliptin Compared to Gliclazide as Dual Therapy With Metformin in Muslim Patients With Type 2 Diabetes Fasting During Ramadan",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2013-09",
+      "country": "Germany, Jordan, Tunisia, Denmark, Kuwait, United Kingdom, United Arab Emirates, Lebanon, Turkey (Türkiye), Russia, Singapore, Spain, Malaysia, Indonesia, Egypt, Saudi Arabia",
+      "enrollment": 557,
+      "brief_summary": "To evaluate vildagliptin as compared to gliclazide, given in combination with metformin in Muslim patients with type 2 diabetes fasting during Ramadan.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed Type 2 Diabetes diagnosis\n* Plan to fast during Ramadan\n* Treated with a combination of metformin and an Sulfonylurea (SU) for at least 12 weeks and HbA1c ≤8.5% at Visit 1\n* Taking a sulfonylurea treatment for less than 3 years prior to Visit 1\n* Body mass index (BMI",
+      "endpoints": [
+        "Percentage of patients experiencing at least one Hypoglycaemic Event (HE) during the Ramadan fasting period to test superiority"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01758380"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00738088",
+      "title": "The Use of Glycaemic Response to Sulphonylureas as a Tool to Investigate Type 2 Diabetes Pathophysiology",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2007-06",
+      "completion_date": "2011-03-03",
+      "country": "United Kingdom",
+      "enrollment": 14,
+      "brief_summary": "The study hypothesis is that people who respond well to sulphonylureas have a different underlying cause for their diabetes than people who respond poorly to this medication. We are using two approaches to study this. In one approach we look at people who have previously responded well or poorly, confirm this by rechallenging them with a sulphonylurea drug, and then looking at how well they produce insulin in response to glucose and an intravenous sulphonylurea called tolbutamide. The second app",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes\n* Age \\>35 and \\< 70\n* Age of diabetes diagnosis \\>35 and \\<70\n* White European\n* Pre-SU HbA1c \\<=10%\n* HbA1c (on treatment) \\<= 9%\n* No myocardial infarction or Acute coronary syndrome in previous year\n* No stroke or transient ischaemic attack in previous year",
+      "endpoints": [
+        "HbA1c reduction"
+      ],
+      "sponsor": "NHS Tayside",
+      "url": "https://clinicaltrials.gov/study/NCT00738088"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02092597",
+      "title": "Safety Evaluation of Adverse Reactions in Diabetes",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-10",
+      "completion_date": "2016-09",
+      "country": "Czechia",
+      "enrollment": 42,
+      "brief_summary": "The purpose of this study is to assess the effects of incretin-based antidiabetic therapies (DPP-4 inhibitors and GLP-1 agonists) on cardiovascular, gastrointestinal and renal system and to detail the mechanisms underlying their action in these systems.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes mellitus\n* Metformin monotherapy - stable dose during last 3 months\n* HbA1C 48-75 mmol/mol (IFCC)\n* BMI 25-40 kg/m2\n* Age 35-70 years (women postmenopausal)\n* Use of ACE inhibitors or ATII receptor blockers for at least 3 months before enrollment\n\nExclusion Cri",
+      "endpoints": [
+        "Heart rate",
+        "Gastric evacuation velocity",
+        "Blood pressure"
+      ],
+      "sponsor": "Charles University, Czech Republic",
+      "url": "https://clinicaltrials.gov/study/NCT02092597"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01697592",
+      "title": "A Phase III, Multicenter, Randomized, Placebo-controlled, Parallel-group, Double-blinded Study and Subsequent Open-label, Extension Study to Assess the Safety and Efficacy of Addition of MK-3102 in Japanese Patients With Type 2 Diabetes Mellitus Who Have Inadequate Glycemic Control on Diet/Exercise Therapy and Oral Antihyperglycemic Agent Monotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-10-24",
+      "completion_date": "2014-05-08",
+      "country": "N/A",
+      "enrollment": 585,
+      "brief_summary": "This study will examine the safety and efficacy of the addition of omarigliptin in Japanese participants with type 2 diabetes mellitus who have inadequate glycemic control on diet/exercise therapy and oral antihyperglycemic agent monotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has type 2 diabetes mellitus\n* Has inadequate glycemic control on diet/exercise therapy and oral antihyperglycemic agent monotherapy\n\nExclusion Criteria:\n\n* History of type 1 diabetes mellitus or a history of ketoacidosis\n* History of any of the following medications: Thiazoli",
+      "endpoints": [
+        "Percentage of Participants Who Experienced at Least One Adverse Event Excluding Data After Glycemic Rescue During Phase A",
+        "Percentage of Participants Who Experienced at Least One Adverse Event Excluding Data After Glycemic Rescue During the Overall Study",
+        "Percentage of Participants Who Discontinued From the Study Due to an Adverse Event During Phase A"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01697592"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02610088",
+      "title": "Effect of Dapagliflozin, a Sodium Glucose Co-transporter 2 Inhibitor, on Vascular Functions in Patients With Type 2 Diabetes Compared to Gliclazide",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-11",
+      "completion_date": "2018-09",
+      "country": "South Korea",
+      "enrollment": 32,
+      "brief_summary": "The investigators set up a clinical trial to compare effect of dapagliflozin, a sodium glucose co-transporter 2 inhibitor, with gliclazide on vascular function in patients with type 2 diabetes",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes with HbA1c ≥ 7.5% at screening visit\n* Male or female between 40 and 70 years of age\n* Patients taking metformin (≥ 1000 mg or maximum tolerated dose) for more than 3 months\n* BMI ≥23 kg/m²\n* Estimated GFR ≥ 60 ml/min/1.73m²\n\nExclusion Criteria:\n\n* Patients wit",
+      "endpoints": [
+        "Vascular function assessed by Flow-mediated vasodilation (FMD)"
+      ],
+      "sponsor": "Seoul National University Bundang Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02610088"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00808860",
+      "title": "Anti-Diabetic Effect of Gynostemma Pentaphyllum Tea as add-on Therapy With Sulfonylureas in Type 2 Diabetic Patients",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2008-12",
+      "country": "Vietnam",
+      "enrollment": 25,
+      "brief_summary": "The present study aimed at investigating effect of Gynostemma pentapyllum (GP) extract, administered as a \"tea\", as add-on therapy with Sulfonylurea (SU) in drug-naive patients with newly diagnosed type 2 diabetes. After screening, all patients received gliclazide MR 30mg and instruction regarding diet and physical exercise for 12 weeks. After 4 weeks treated with gliclazide MR 30mg, the patients was randomized to additional GP tea or placebo tea, 3 g twice daily during 8 weeks. Oral glucose tol",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed, drug-naive patients with type 2 diabetes\n* Fasting plasma glucose (FPG)9.0-14.0 mmol/L\n* HbA1C 9-13%\n\nExclusion Criteria:\n\n* Type 1 diabetes\n* Liver failure\n* Kidney failure",
+      "endpoints": [
+        "fasting plasma glucose",
+        "HbA1C (glycosylated hemoglobin)"
+      ],
+      "sponsor": "Hanoi Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT00808860"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06222476",
+      "title": "A Multicentric, Prospective, Randomized Study Evaluating the Improvement of Renal Function Outcomes With Dorzagliatin in Patients With Type 2 Diabetes Mellitus With Early Kidney Injury.",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-02-20",
+      "completion_date": "2026-06-30",
+      "country": "China",
+      "enrollment": 106,
+      "brief_summary": "The main purpose of this study is to explore the improvement of renal function before and after the intervention of dorzagliatin in patients with type 2 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age:18-75 years old, male and female.\n2. Patients with type 2 diabetes mellitus, type 2 diabetes mellitus diagnosis criteria: according to the \"Chinese Type 2 Diabetes Mellitus Prevention and Treatment Guide (2020 Edition).\n3. UACR 30-299mg/g.\n4. eGFR ≥60mL/min/1.73m².\n5. HbA",
+      "endpoints": [
+        "Participants' personal information",
+        "Physical assessments",
+        "renal function"
+      ],
+      "sponsor": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+      "url": "https://clinicaltrials.gov/study/NCT06222476"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03433248",
+      "title": "RACELINES: Renal Actions of Combined Empagliflozin and LINagliptin in Type 2 diabetES",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2017-11-09",
+      "completion_date": "2022-09-01",
+      "country": "Netherlands",
+      "enrollment": 66,
+      "brief_summary": "The current study aims to explore the clinical effects and mechanistics of mono- and combination therapy with SGLT-2 inhibitor empagliflozin and DPP-4 inhibitor linagliptin on renal physiology and biomarkers in metformin-treated T2DM patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Caucasian\\*\n* Both genders (females must be post-menopausal; no menses \\>1 year; in case of doubt, Follicle-Stimulating Hormone (FSH) will be determined with cut-off defined as \\>31 U/L)\n* Age: 35 - 75 years\n* BMI: \\>25 kg/m2\n* HbA1c: 7.0 - 9.5% Diabetes Control and Complicati",
+      "endpoints": [
+        "GFR",
+        "GFR"
+      ],
+      "sponsor": "Amsterdam UMC, location VUmc",
+      "url": "https://clinicaltrials.gov/study/NCT03433248"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03125694",
+      "title": "Efficacy, Durability, Safety, and Tolerability of Sitagliptin vs. Pioglitazone as add-on Treatments in Patients With Type 2 Diabetes Uncontrolled on the Full-dose Metformin Plus Sulfonylurea: a 52-week, Randomized, Open-label, Parallel-group, Phase 3 Clinical Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-02-01",
+      "completion_date": "2017-04-01",
+      "country": "Iran",
+      "enrollment": 250,
+      "brief_summary": "This study has been designed to investigate the comparative effects of sitagliptin vs. pioglitazone as add-on treatments in patients with type 2 diabetes who were uncontrolled on the full-dose of metformin and sulfonylurea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of type 2 diabetes according to the American Diabetes Association\n* Baseline level of 7% ≤ A1C \\< 11% despite a minimum 6 months period of active treatment with metformin 2000 mg/day plus gliclazide 240 mg/day (uncontrolled type 2 diabetes)\n\nExclusion Criter",
+      "endpoints": [
+        "Change from baseline in mean glycated hemoglobin (A1C) levels by sitagliptin vs. pioglitazone"
+      ],
+      "sponsor": "Tehran University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03125694"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03705195",
+      "title": "Study of Sulphonylurea Synergy With Incretins",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-08-03",
+      "completion_date": "2019-06-26",
+      "country": "United Kingdom",
+      "enrollment": 20,
+      "brief_summary": "The Study of Sulphonylurea Synergy with Incretins (LOGIC) is a Proof-of-Concept Physiological study in the form of two matched isoglycaemic clamps. A matched clamp consists of an of oral glucose tolerance test followed by an isoglycaemic intravenous glucose infusion (IGII). The study will investigate whether there is synergy between a physiological sulphonylurea (SU) stimulus and the incretin effect, causing augmentation of insulin secretion in patients with type 2 diabetes mellitus (T2DM). The ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 40 - 80,\n* Age of Diabetes Diagnoses ≥ 35\n* T2DM on no treatment or metformin monotherapy\n* White British\n* HbA1c ≤ 8% (64mmol/mol)\n* eGFR ≥ 50ml/min-1\n* ALT ≤ 2.5 x ULN\n* Able to consent\n\nExclusion Criteria:\n\n* Type 1 Diabetes Mellitus\n* HbA1c \\> 8.0% (\\> 64mmol/mol)\n* eG",
+      "endpoints": [
+        "Difference in insulin secretion and incretin effect between two matched clamps (presence and absence of low dose gliclazide)"
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT03705195"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04446026",
+      "title": "A Randomized, Placebo-controlled Clinical Trial of Teneligliptin as Quadruple Oral Combination Therapy for Type 2 DM After Failure of an Oral Triple Anti-diabetic Regimen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-07-08",
+      "completion_date": "2021-05-17",
+      "country": "South Korea",
+      "enrollment": 100,
+      "brief_summary": "This is a randomized, placebo-controlled clinical trial of Teneligliptin as quadruple oral combination therapy for type 2 diabetes after failure of an oral triple anti-diabetic regimen. Patients with uncontrolled type 2 diabetes (7.1% ≤ HbA1c ≤ 9%) prescribed with triple combination of oral antidiabetic drugs more than 12 weeks with sufficient doses (metformin \\>= 1000mg/d, Glimepiride \\>=4 mg/day, Gliclazide \\>= 60 mg/day, SGLT-2 inhibitor with approved dose by Korea FDA) will be included. Usin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age over 18 years and less than 81 years\n2. Patients with type 2 diabetes prescribed with triple combination of oral antidiabetic drugs more than 12 weeks with sufficient doses (metformin \\>= 1000mg/d, Glimepiride \\>=4 mg/day, Gliclazide \\>= 60 mg/day, SGLT-2 inhibitor with a",
+      "endpoints": [
+        "Hb1Ac"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT04446026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01269996",
+      "title": "JanUmet Before Insulin Lantus In Eastern Population Evaluation Program (JUBILEE) In Type 2 Diabetic Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2015-02",
+      "country": "Hong Kong",
+      "enrollment": 71,
+      "brief_summary": "To evaluate the efficacy and safety of a new treatment regimen of metformin plus sitagliptin (Janumet) followed by a long-acting basal insulin (Lantus) treatment compared to the usual treatment regimen of metformin followed by sulfonylurea and intermediate-acting basal insulin in Type 2 Diabetes Mellitus patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients aged 18 to 80 years old at Visit 1.\n2. Male or female of Chinese ethnicity.\n3. Type 2 diabetic patients who are drug naïve with HbA1c ranged between 7.0% to 11.0%.\n4. Type 2 diabetic patients who are on single oral hypoglycaemic drug treatment or insulin treatm",
+      "endpoints": [
+        "To evaluate the treatment efficacy"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT01269996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01022762",
+      "title": "A 16-week, Multicentre, Randomised, Open-label, Parallel Group Study to Investigate the Efficacy and Safety Profiles of Repaglinide Monotherapy Compared to Gliclazide Monotherapy in Chinese Antidiabetic-naïve Subjects With Type 2 Diabetes",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2010-11",
+      "country": "China",
+      "enrollment": 440,
+      "brief_summary": "This trial is conducted in Asia. The aim of this clinical trial is to investigate the blood glucose lowering effect and the safety profile of repaglinide given alone compared to gliclazide given alone in Chinese subjects with type 2 diabetes who never have been treated with oral anti-diabetic drugs (OADs). This study also investigates the augment effect of repaglinide on the phases of insulin secretion as a subgroup study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes\n* Oral anti-diabetic drug (OAD) naïve (unsystematic OAD treatment 6 months prior to this trial is allowed)\n* Insulin naïve (less than 1 week of daily use of insulin therapy before trial start is allowed)\n* Lipid-lowing agent naïve\n* HbA1c: 6.5-8.5%\n* Fasting gl",
+      "endpoints": [
+        "Change in Glycosylated Haemoglobin (HbA1c)"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT01022762"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "18539916",
+      "title": "Intensive blood glucose control and vascular outcomes in patients with type 2 diabetes.",
+      "abstract": "In patients with type 2 diabetes, the effects of intensive glucose control on vascular outcomes remain uncertain.",
+      "journal": "The New England journal of medicine",
+      "year": "2008",
+      "authors": [
+        "Patel Anushka",
+        "MacMahon Stephen",
+        "Chalmers John",
+        "Neal Bruce"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Blood Glucose",
+        "Cardiovascular Diseases",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Angiopathies",
+        "Diabetic Nephropathies",
+        "Drug Therapy, Combination",
+        "Female",
+        "Follow-Up Studies",
+        "Gliclazide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18539916/"
+    },
+    {
+      "pmid": "36300277",
+      "title": "Evaluating gliclazide for the treatment of type 2 diabetes mellitus.",
+      "abstract": "Sulfonylureas have been the standard second-line treatment after failure of metformin monotherapy in patients with type 2 diabetes (T2D) but they are becoming less popular as the newer glucose-lowering agents have a relatively lower risk of hypoglycemia and some of them have been shown to reduce cardiovascular and renal events. Gliclazide differs from other sulfonylureas in several respects and may provide a suitable option for some patients with T2D.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2022",
+      "authors": [
+        "Tomlinson Brian",
+        "Li Yan-Hong",
+        "Chan Paul"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Gliclazide",
+        "Diabetes Mellitus, Type 2",
+        "Sulfonylurea Compounds",
+        "Hypoglycemic Agents",
+        "Blood Glucose"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36300277/"
+    },
+    {
+      "pmid": "40326063",
+      "title": "Fasting and postprandial kidney haemodynamic effects of empagliflozin and linagliptin in mono- and combination therapy compared to gliclazide in overweight people with type 2 diabetes (RACELINES): A randomised, double-blind trial.",
+      "abstract": "Sodium-glucose cotransporter (SGLT) 2 inhibitors attenuate fasting glomerular hyperfiltration in people with type 2 diabetes (T2D). However, SGLT2-inhibition increases glucagon levels, which facilitate postprandial hyperfiltration. The impact of SGLT2 inhibition on protein-related hyperfiltration and postprandial (intra) kidney haemodynamic function is unclear. Moreover, the interaction with dipeptidyl-peptidase (DPP)-4 inhibitors, known to reduce glucagon levels and to affect meal-related factors modulating GFR, is unknown.",
+      "journal": "Diabetes, obesity & metabolism",
+      "year": "2025",
+      "authors": [
+        "van Baar Michaël J B",
+        "Muskiet Marcel H A",
+        "Scholtes Rosalie A",
+        "Touw Daan J",
+        "Nieuwdorp Max"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Benzhydryl Compounds",
+        "Blood Glucose",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Nephropathies",
+        "Dipeptidyl-Peptidase IV Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40326063/"
+    },
+    {
+      "pmid": "39792745",
+      "title": "Comparative efficacy and safety of sitagliptin or gliclazide combined with metformin in treatment-naive patients with type 2 diabetes: A single-center, prospective, randomized, controlled, noninferiority study with genetic polymorphism analysis.",
+      "abstract": "This study evaluates the efficacy and safety of sitagliptin versus gliclazide, combined with metformin, in treatment-naive patients with type 2 diabetes mellitus (T2DM) and glucotoxicity.",
+      "journal": "Medicine",
+      "year": "2025",
+      "authors": [
+        "Qin Min",
+        "Chao Lingxi",
+        "Liu Shiqun"
+      ],
+      "pub_types": [
+        "Equivalence Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Blood Glucose",
+        "Diabetes Mellitus, Type 2",
+        "Drug Therapy, Combination",
+        "Gliclazide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39792745/"
+    },
+    {
+      "pmid": "30119196",
+      "title": "Determination of gliclazide minimum concentration in type 2 diabetes mellitus patients.",
+      "abstract": "Type 2 diabetes mellitus is a worldwide health problem. Many drugs can be used in its treatment. One of them is gliclazide - the sulfonylurea derivative. It is dosed in modified release tablets. The study aimed to determine the minimum steady-state concentration of gliclazide at patients taking modified release tablets. Fasting plasma glucose, insulin level, and glycated hemoglobin were also assayed in this study. Ten patients of the primary care physician clinic took 30-90 mg of gliclazide daily. The statistical analysis proved that there is a statistically significant correlation between insulin level and body weight (p = 0.044) as well as between the dose and gliclazide concentrations (p = 0.015) and also between insulin level and minimum concentration of the drug (p = 0.0074). The linear correlation between dose and gliclazide's minimum steady state concentration proved its linear pharmacokinetics. The correlation between the minimum concentration of gliclazide and insulin level mi",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "year": "2018",
+      "authors": [
+        "Czyrski Andrzej",
+        "Resztak Matylda",
+        "Hermann Tadeusz"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Aged",
+        "Biomarkers",
+        "Blood Glucose",
+        "Diabetes Mellitus, Type 2",
+        "Drug Dosage Calculations",
+        "Drug Monitoring",
+        "Fasting",
+        "Female",
+        "Gliclazide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30119196/"
+    },
+    {
+      "pmid": "29039071",
+      "title": "Potential Applications of Gliclazide in Treating Type 1 Diabetes Mellitus: Formulation with Bile Acids and Probiotics.",
+      "abstract": "A major advancement in therapy of type 1 diabetes mellitus (T1DM) is the discovery of new treatment which avoids and even replaces the absolute requirement for injected insulin. The need for multiple drug therapy of comorbidities associated with T1DM increases demand for developing novel therapeutic alternatives with new mechanisms of actions. Compared to other sulphonylurea drugs used in the treatment of type 2 diabetes mellitus, gliclazide exhibits a pleiotropic action outside pancreatic β cells, the so-called extrapancreatic effects, such as antiinflammatory and cellular protective effects, which might be beneficial in the treatment of T1DM. Results from in vivo experiments confirmed the positive effects of gliclazide in T1DM that are even more pronounced when combined with other hypoglycaemic agents such as probiotics and bile acids. Even though the exact mechanism of interaction at the molecular level is still unknown, there is a clear synergistic effect between gliclazide, bile a",
+      "journal": "European journal of drug metabolism and pharmacokinetics",
+      "year": "2018",
+      "authors": [
+        "Mikov Momir",
+        "Đanić Maja",
+        "Pavlović Nebojša",
+        "Stanimirov Bojan",
+        "Goločorbin-Kon Svetlana"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Bile Acids and Salts",
+        "Diabetes Mellitus, Type 1",
+        "Gliclazide",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Probiotics"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29039071/"
+    },
+    {
+      "pmid": "32516291",
+      "title": "Effects of dapagliflozin and gliclazide on the cardiorenal axis in people with type 2 diabetes.",
+      "abstract": "There is a bidirectional relationship between cardiovascular and renal disease. The drug-class of SGLT2 inhibitors improves outcomes at both ends of this so called cardiorenal axis. We assessed the effects of SGLT2 inhibition and sulfonylurea treatment on systemic hemodynamic function and investigated whether SGLT2 inhibitor-induced changes in systemic hemodynamics correlate with changes in renal hemodynamics.",
+      "journal": "Journal of hypertension",
+      "year": "2020",
+      "authors": [
+        "van Bommel Erik J M",
+        "Smits Mark M",
+        "Ruiter Danique",
+        "Muskiet Marcel H A",
+        "Kramer Mark H H"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Benzhydryl Compounds",
+        "Diabetes Mellitus, Type 2",
+        "Gliclazide",
+        "Glomerular Filtration Rate",
+        "Glucosides",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Vascular Stiffness"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32516291/"
+    },
+    {
+      "pmid": "29558784",
+      "title": "Alogliptin and Gliclazide Similarly Increase Circulating Endothelial Progenitor Cells in Type 2 Diabetes Patients.",
+      "abstract": "We investigated the effect of alogliptin and gliclazide on endothelial progenitor cells (EPCs) in type 2 diabetes.",
+      "journal": "Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",
+      "year": "2019",
+      "authors": [
+        "Negro Roberto",
+        "Greco Eupremio Luigi",
+        "Greco Giacomo"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Diabetes Mellitus, Type 2",
+        "Endothelial Progenitor Cells",
+        "Female",
+        "Gliclazide",
+        "Glycated Hemoglobin",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29558784/"
+    },
+    {
+      "pmid": "29802958",
+      "title": "The place of gliclazide MR in the evolving type 2 diabetes landscape: A comparison with other sulfonylureas and newer oral antihyperglycemic agents.",
+      "abstract": "The sulfonylureas are effective oral glucose-lowering agents with a long history of clinical use. While all have the same general mechanism of action, their pharmacokinetic properties are influenced by factors such as dosage, rate of absorption, duration of action, route of elimination, tissue specificity, and binding affinity for pancreatic β-cell receptor. The result is a class of agents with similar HbA1c-lowering efficacy, but well-documented differences in terms of effects on hypoglycemia, and cardiovascular and renal safety. This review examines the differences between currently available sulfonylureas with a focus on how gliclazide modified release (MR) differs from other members of this class and from newer oral antihyperglycemic agents in the form of dipeptidyl peptidase-4 (DPP4) and sodium- glucose cotransporter 2 (SGLT2) inhibitors. The first part focuses on major outcome trials that have been conducted with the sulfonylureas and new oral agents. Consideration is then given ",
+      "journal": "Diabetes research and clinical practice",
+      "year": "2018",
+      "authors": [
+        "Colagiuri Stephen",
+        "Matthews David",
+        "Leiter Lawrence A",
+        "Chan Siew Pheng",
+        "Sesti Giorgio"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Diabetes Mellitus, Type 2",
+        "Gliclazide",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Sulfonylurea Compounds"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29802958/"
+    },
+    {
+      "pmid": "35398820",
+      "title": "Indonesia DIA-RAMADAN Study: A Real-life, Prospective and Observational of Gliclazide MR in Type-2 Diabetes Patients During Ramadan Fasting.",
+      "abstract": "Sulfonylureas (SUs) have been widely used in many countries for T2DM treatment. Gliclazide is one of the SUs with the lowest risk of hypoglycemia; however, the safety and effectiveness of gliclazide MR during Ramadan has not yet been reported in Indonesia. This study aimed to assess safety, efficacy, and tolerability of gliclazide modified release (MR) during Ramadan fasting.",
+      "journal": "Acta medica Indonesiana",
+      "year": "2022",
+      "authors": [
+        "Soelistijo Soebagijo Adi",
+        "Aman Andi Makbul",
+        "Zufry Hendra",
+        "Pranoto Agung",
+        "Rudijanto Achmad"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "mesh_terms": [
+        "Blood Glucose",
+        "Diabetes Mellitus, Type 2",
+        "Fasting",
+        "Gliclazide",
+        "Glycated Hemoglobin",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Indonesia",
+        "Islam",
+        "Prospective Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35398820/"
+    },
+    {
+      "pmid": "36300277",
+      "title": "Evaluating gliclazide for the treatment of type 2 diabetes mellitus.",
+      "abstract": "Sulfonylureas have been the standard second-line treatment after failure of metformin monotherapy in patients with type 2 diabetes (T2D) but they are becoming less popular as the newer glucose-lowering agents have a relatively lower risk of hypoglycemia and some of them have been shown to reduce cardiovascular and renal events. Gliclazide differs from other sulfonylureas in several respects and may provide a suitable option for some patients with T2D.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2022",
+      "authors": [
+        "Tomlinson Brian",
+        "Li Yan-Hong",
+        "Chan Paul"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Gliclazide",
+        "Diabetes Mellitus, Type 2",
+        "Sulfonylurea Compounds",
+        "Hypoglycemic Agents",
+        "Blood Glucose"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36300277/"
+    },
+    {
+      "pmid": "29039071",
+      "title": "Potential Applications of Gliclazide in Treating Type 1 Diabetes Mellitus: Formulation with Bile Acids and Probiotics.",
+      "abstract": "A major advancement in therapy of type 1 diabetes mellitus (T1DM) is the discovery of new treatment which avoids and even replaces the absolute requirement for injected insulin. The need for multiple drug therapy of comorbidities associated with T1DM increases demand for developing novel therapeutic alternatives with new mechanisms of actions. Compared to other sulphonylurea drugs used in the treatment of type 2 diabetes mellitus, gliclazide exhibits a pleiotropic action outside pancreatic β cells, the so-called extrapancreatic effects, such as antiinflammatory and cellular protective effects, which might be beneficial in the treatment of T1DM. Results from in vivo experiments confirmed the positive effects of gliclazide in T1DM that are even more pronounced when combined with other hypoglycaemic agents such as probiotics and bile acids. Even though the exact mechanism of interaction at the molecular level is still unknown, there is a clear synergistic effect between gliclazide, bile a",
+      "journal": "European journal of drug metabolism and pharmacokinetics",
+      "year": "2018",
+      "authors": [
+        "Mikov Momir",
+        "Đanić Maja",
+        "Pavlović Nebojša",
+        "Stanimirov Bojan",
+        "Goločorbin-Kon Svetlana"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Bile Acids and Salts",
+        "Diabetes Mellitus, Type 1",
+        "Gliclazide",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Probiotics"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29039071/"
+    },
+    {
+      "pmid": "6373223",
+      "title": "Gliclazide. A preliminary review of its pharmacodynamic properties and therapeutic efficacy in diabetes mellitus.",
+      "abstract": "Gliclazide is a 'second generation' oral hypoglycaemic agent. The particular interest with this drug is that it has shown certain effects on the blood for which it is hoped there may be some clinical benefit in diabetic angiopathies. Both in animal and human studies it has demonstrated a reduction in platelet adhesiveness and aggregation, whilst possible enhancement of platelet metabolism, reduction of coagulant factors, as well as increased fibrinolytic activity, are still being investigated. Initial trials have suggested that gliclazide therapy may reverse or at least slow down the progression of diabetic retinopathy. However, a few additional well-designed long term controlled studies are needed to confirm these findings, and to clarify whether any beneficial effect on diabetic retinopathy is unique to gliclazide or also occurs with other oral hypoglycaemic drugs. Both newly diagnosed maturity onset diabetics as well as those previously treated with sulphonylureas respond well to gl",
+      "journal": "Drugs",
+      "year": "1984",
+      "authors": [
+        "Holmes B",
+        "Heel R C",
+        "Brogden R N",
+        "Speight T M",
+        "Avery G S"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Absorption",
+        "Animals",
+        "Blood Glucose",
+        "Blood Platelets",
+        "Clinical Trials as Topic",
+        "Diabetes Mellitus",
+        "Diabetic Nephropathies",
+        "Diabetic Retinopathy",
+        "Drug Interactions",
+        "Epoprostenol"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6373223/"
+    },
+    {
+      "pmid": "7691511",
+      "title": "Gliclazide. An update of its pharmacological properties and therapeutic efficacy in non-insulin-dependent diabetes mellitus.",
+      "abstract": "Gliclazide is a second generation sulphonylurea oral hypoglycaemic agent used in the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It improves defective insulin secretion and may reverse insulin resistance observed in patients with NIDDM. These actions are reflected in a reduction in blood glucose levels which is maintained during both short and long term administration, and is comparable with that achieved by other sulphonylurea agents. Gradually accumulating evidence suggests that gliclazide may be useful in patients with diabetic retinopathy, due to its haemobiological actions, and that addition of gliclazide to insulin therapy enables insulin dosage to be reduced. Thus, gliclazide is an effective agent for the treatment of the metabolic defects associated with NIDDM and may have the added advantage of potentially slowing the progression of diabetic retinopathy. These actions, together with its good general tolerability and low incidence of hypoglycaemia have allowed",
+      "journal": "Drugs",
+      "year": "1993",
+      "authors": [
+        "Palmer K J",
+        "Brogden R N"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Blood Glucose",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Neuropathies",
+        "Diabetic Retinopathy",
+        "Drug Evaluation",
+        "Gliclazide",
+        "Hemodynamics",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7691511/"
+    },
+    {
+      "pmid": "30119196",
+      "title": "Determination of gliclazide minimum concentration in type 2 diabetes mellitus patients.",
+      "abstract": "Type 2 diabetes mellitus is a worldwide health problem. Many drugs can be used in its treatment. One of them is gliclazide - the sulfonylurea derivative. It is dosed in modified release tablets. The study aimed to determine the minimum steady-state concentration of gliclazide at patients taking modified release tablets. Fasting plasma glucose, insulin level, and glycated hemoglobin were also assayed in this study. Ten patients of the primary care physician clinic took 30-90 mg of gliclazide daily. The statistical analysis proved that there is a statistically significant correlation between insulin level and body weight (p = 0.044) as well as between the dose and gliclazide concentrations (p = 0.015) and also between insulin level and minimum concentration of the drug (p = 0.0074). The linear correlation between dose and gliclazide's minimum steady state concentration proved its linear pharmacokinetics. The correlation between the minimum concentration of gliclazide and insulin level mi",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "year": "2018",
+      "authors": [
+        "Czyrski Andrzej",
+        "Resztak Matylda",
+        "Hermann Tadeusz"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Aged",
+        "Biomarkers",
+        "Blood Glucose",
+        "Diabetes Mellitus, Type 2",
+        "Drug Dosage Calculations",
+        "Drug Monitoring",
+        "Fasting",
+        "Female",
+        "Gliclazide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30119196/"
+    },
+    {
+      "pmid": "29558784",
+      "title": "Alogliptin and Gliclazide Similarly Increase Circulating Endothelial Progenitor Cells in Type 2 Diabetes Patients.",
+      "abstract": "We investigated the effect of alogliptin and gliclazide on endothelial progenitor cells (EPCs) in type 2 diabetes.",
+      "journal": "Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",
+      "year": "2019",
+      "authors": [
+        "Negro Roberto",
+        "Greco Eupremio Luigi",
+        "Greco Giacomo"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Diabetes Mellitus, Type 2",
+        "Endothelial Progenitor Cells",
+        "Female",
+        "Gliclazide",
+        "Glycated Hemoglobin",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29558784/"
+    },
+    {
+      "pmid": "12076188",
+      "title": "Gliclazide modified release.",
+      "abstract": "Gliclazide modified release (MR) is a new formulation of the drug gliclazide and is given once daily. The hydrophilic matrix of hypromellose-based polymer in the new formulation effects a progressive release of the drug which parallels the 24-hour glycaemic profile in untreated patients with type 2 diabetes mellitus. The formulation shows high bioavailability and its absorption profile is unaffected by coadministration with food. Mean plasma glucose levels are significantly reduced over a 24-hour period in patients with type 2 diabetes mellitus treated with gliclazide MR once daily, in both fasting and postprandial states. No cardiovascular ATP-sensitive potassium channel interaction has been observed at therapeutic concentrations of gliclazide MR. Gliclazide MR has also demonstrated antioxidant properties that are independent of glycaemic control. In a randomised, double-blind, multicentre study, gliclazide MR 30 to 120 mg once daily showed similar efficacy to gliclazide immediate rel",
+      "journal": "Drugs",
+      "year": "2002",
+      "authors": [
+        "McGavin Jane K",
+        "Perry Caroline M",
+        "Goa Karen L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Biological Availability",
+        "Delayed-Action Preparations",
+        "Diabetes Mellitus, Type 2",
+        "Gliclazide",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12076188/"
+    },
+    {
+      "pmid": "39792745",
+      "title": "Comparative efficacy and safety of sitagliptin or gliclazide combined with metformin in treatment-naive patients with type 2 diabetes: A single-center, prospective, randomized, controlled, noninferiority study with genetic polymorphism analysis.",
+      "abstract": "This study evaluates the efficacy and safety of sitagliptin versus gliclazide, combined with metformin, in treatment-naive patients with type 2 diabetes mellitus (T2DM) and glucotoxicity.",
+      "journal": "Medicine",
+      "year": "2025",
+      "authors": [
+        "Qin Min",
+        "Chao Lingxi",
+        "Liu Shiqun"
+      ],
+      "pub_types": [
+        "Equivalence Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Blood Glucose",
+        "Diabetes Mellitus, Type 2",
+        "Drug Therapy, Combination",
+        "Gliclazide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39792745/"
+    },
+    {
+      "pmid": "1794271",
+      "title": "Hemobiological activity of gliclazide in diabetes mellitus.",
+      "abstract": "The hemovascular abnormalities encountered in diabetes include platelet alterations, shifts in prostaglandin metabolism and disorders of fibrinolysis. Diabetes is thus associated with increased platelet adhesiveness, increased platelet aggregation with hypersensitivity to proaggregants, increased plasma levels of beta-thromboglobulin and platelet factor 4 as an expression of platelet hyperactivity, increased levels of thromboxane A2 (TXA2) and prostacyclin (PGI2), and reduced levels of tissue plasminogen activator (t-PA). It is not clear which, if any, of these abnormalities are generated by chronic hyperglycemia and can be corrected by adequate glycemic control. Studies with gliclazide have demonstrated that it exerts hemovascular effects which can be valuable to patients. Thus, treatment with gliclazide leads to a decrease in platelet adhesiveness and aggregability. This treatment also reduces thromboxane levels and increases TPA levels. The mechanisms of action of gliclazide are not",
+      "journal": "Diabetes research and clinical practice",
+      "year": "1991",
+      "authors": [
+        "Ziegler O",
+        "Drouin P"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Blood Platelets",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Angiopathies",
+        "Gliclazide",
+        "Humans",
+        "Platelet Adhesiveness",
+        "Platelet Aggregation",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1794271/"
+    },
+    {
+      "pmid": "32702900",
+      "title": "Gliclazide monotherapy increases risks of all-cause mortality and has similar risk of acute myocardial infarction and stroke with glimepiride monotherapy in Korean type 2 diabetes mellitus.",
+      "abstract": "Sulphonylureas (SUs) subclasses have different risks of all-cause mortality, acute myocardial infarction (AMI), and stroke. Therefore, we assessed these risks in patients with type 2 diabetes mellitus administered gliclazide, glimepiride, or metformin monotherapy with retrospective cohort study design. Total 195,235 subjects were included in the study who were ≥20 years' old and prescribed monotherapy for at least 1 year as a first-line therapy for incident diabetes from January 01, 2009 to December 31, 2013 in the National Health Insurance Service Claim data. Incidence and hazard ratios (HRs) of all-cause mortality, AMI, and stroke were compared with glimepiride monotherapy as a reference. Gliclazide monotherapy increased all-cause mortality compared with glimepiride monotherapy. However, the gliclazide and glimepiride groups showed no difference in AMI and stroke incidences. In line with previous studies, metformin monotherapy showed significant clinical benefits in reducing risks of",
+      "journal": "Medicine",
+      "year": "2020",
+      "authors": [
+        "Cho Eun-Hee",
+        "Han Kyungdo",
+        "Kim Bongseong",
+        "Lee Dae Ho"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Asian People",
+        "Diabetes Mellitus, Type 2",
+        "Female",
+        "Gliclazide",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Incidence",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32702900/"
+    }
+  ]
+}

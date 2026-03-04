@@ -5,7 +5,7 @@ drugbank_id: "DB00438"
 drug_name: "Ceftazidime"
 kg_predictions: 105
 dl_predictions: 166
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 105
 brands: []
 permalink: /drugs/ceftazidime/
@@ -21,7 +21,7 @@ permalink: /drugs/ceftazidime/
 | **DrugBank ID** | [DB00438](https://go.drugbank.com/drugs/DB00438) |
 | **KG Predictions** | 105 |
 | **DL Predictions (≥0.7)** | 166 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

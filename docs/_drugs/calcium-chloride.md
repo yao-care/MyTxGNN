@@ -5,7 +5,7 @@ drugbank_id: "DB01164"
 drug_name: "Calcium Chloride"
 kg_predictions: 80
 dl_predictions: 16
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 80
 brands: []
 permalink: /drugs/calcium-chloride/
@@ -21,7 +21,7 @@ permalink: /drugs/calcium-chloride/
 | **DrugBank ID** | [DB01164](https://go.drugbank.com/drugs/DB01164) |
 | **KG Predictions** | 80 |
 | **DL Predictions (≥0.7)** | 16 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

@@ -1,0 +1,1072 @@
+{
+  "drug": "Atenolol",
+  "drugbank_id": "DB00335",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:25:43Z",
+  "indications": [
+    {
+      "indication": "hypertension",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 1,
+        "phase1_trials": 3,
+        "other_trials": 12,
+        "rct_articles": 5,
+        "review_articles": 2,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "myocardial infarction",
+      "evidence_level": "L1",
+      "trials": 13,
+      "articles": 8,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 0,
+        "phase1_trials": 2,
+        "other_trials": 6,
+        "rct_articles": 5,
+        "review_articles": 3,
+        "other_articles": 0,
+        "total_trials": 13,
+        "total_articles": 8
+      }
+    },
+    {
+      "indication": "hemoglobinopathy",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "myocardial infarction",
+      "evidence_level": "L1",
+      "trials": 13,
+      "articles": 8,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 0,
+        "phase1_trials": 2,
+        "other_trials": 6,
+        "rct_articles": 5,
+        "review_articles": 3,
+        "other_articles": 0,
+        "total_trials": 13,
+        "total_articles": 8
+      }
+    },
+    {
+      "indication": "coronary thrombosis",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 8,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 2,
+        "other_articles": 6,
+        "total_trials": 0,
+        "total_articles": 8
+      }
+    }
+  ],
+  "total_trials": 46,
+  "total_articles": 34,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00147563",
+      "title": "A Double-Blind, Parallel Design Study to Compare the Effectiveness of Eplerenone Versus Atenolol in Reversing the Remodeling of Resistance Arteries in Subjects With Mild to Moderate Primary Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-10",
+      "completion_date": "",
+      "country": "Canada",
+      "enrollment": 34,
+      "brief_summary": "To investigate the impact of antihypertensive therapy with the selective mineralocorticoid receptor blocker, eplerenone, on small resistance artery remodeling, compared to the effect of equivalent blood pressure control achieved with a b-blocker, atenolol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pt with essential hypertension who have never been treated or untreated within the previous 6 months\n\nExclusion Criteria:\n\n* History of Malignant Hypertension\n* Sitting diastolic blood pressure \\> 115mmHg or sitting Systolic blood pressure \\> 200mmHg",
+      "endpoints": [
+        "The change from baseline to week 52 in the media/lumen ratio and the maximum % relaxation response to acetylcholine of gluteal subcutaneous resistance vessels, measured from the gluteal biopsy."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00147563"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01499511",
+      "title": "Anglo-Scandinavian Cardiac Outcomes Trial: Post Trial Follow-Up Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2016-01-31",
+      "country": "United Kingdom",
+      "enrollment": 1718,
+      "brief_summary": "ASCOT-10 is a follow-up study of surviving participants in the United Kingdom (UK)arm of the Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT) which was conducted between 2000 and 2005.ASCOT's results showed substantial cardiovascular benefit from: 1) the use of a cholesterol lowering drug (atorvastatin) compared to placebo, and 2) the use of a blood-pressure lowering strategy based on amlodipine when compared to a strategy based on atenolol. ASCOT-10 will test the hypothesis that the ASCOT subj",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Surviving ASCOT participants from the participating UK sites\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Number of Participants Who Have Died From Cardiovascular Disease Since the End of the ASCOT Study",
+        "Number of Participants With Non Fatal Myocardial Infarction",
+        "Number of Participants With Non Fatal Stroke/TIA (Transient Ischaemic Attack)"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT01499511"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00158093",
+      "title": "A Randomized, Parallel Group Safety Evaluation of Electrocardiographic Intervals and Blood Pressure in Normal Healthy Volunteers After Nebivolol, Atenolol, Moxifloxacin, or Placebo Administration After Single and Repeated Doses",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2003-07",
+      "country": "United States",
+      "enrollment": 260,
+      "brief_summary": "Nebivolol is one of a class of drugs known as beta-blockers. These drugs are useful in the treatment of high blood pressure, angina, abnormal heart rhythms and following a heart attack. The purpose of this study is to explore the potential of nebivolol to cause a certain type of abnormal heart rhythm, known as QTc prolongation. The potential of nebivolol to cause this adverse event will be compared to three other drugs: atenolol, a beta-blocker approved by the FDA; Avelox (moxifloxacin), an anti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and nonpregnant, nonlactating women were 18 years or older.\n* Women declaring postmenopausal or surgical sterility.\n* Women of childbearing potential who had a negative serum HCG within 2 weeks of dosing.\n* Male subjects weighed at least 60 kg (132 lb), and female subjects",
+      "endpoints": [
+        "The primary study endpoint was the change in the average QTc intervals from Day 0 to 2 hours after dosing on Day 7."
+      ],
+      "sponsor": "Mylan Bertek Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00158093"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01939509",
+      "title": "Comparison of the Hemodynamic Changes in Patients Under Treatment With Bisoprolol Versus Atenolol",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-02",
+      "completion_date": "2014-11",
+      "country": "Argentina",
+      "enrollment": 80,
+      "brief_summary": "At hemodynamic level, the greater affinity of bisoprolol by the beta 1 receptor in theory could improve the peripheral arterial perfusion and could have a greater antihypertensive effect. At the same time, this could carry objectifiable improvements in the vascular tree, such as the level of arterial stiffness.\n\nThis study attempts to mark the hemodynamic differences in the same individual with hypertension and metabolic syndrome who will be exposed to both drugs at different moments. Parameters",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hypertension\n* Metabolic syndrome\n\nExclusion Criteria:\n\n* Severe hypertension \\>180/110\n* Secondary hypertension\n* Contraindication for betablockers\n* Prior treatment with betablockers (up to one month before inclusion)\n* History of neoplastic disease\n* Patients that do not si",
+      "endpoints": [
+        "central blood pressure"
+      ],
+      "sponsor": "Hospital Italiano de Buenos Aires",
+      "url": "https://clinicaltrials.gov/study/NCT01939509"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00389168",
+      "title": "Randomized, Double-blind Evaluation of the Effects of Irbesartan and Atenolol on Cardiovascular Structure and Function in Subjects With Hypertension and Left Ventricular Hypertrophy",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1995-04",
+      "completion_date": "1997-04",
+      "country": "Sweden",
+      "enrollment": 115,
+      "brief_summary": "The renin-angiotensin-aldosterone system has been implicated in the control of structural changes of the heart and the vasculature, beyond the effects on blood pressure.\n\nThis projects examines the importance of the renin-angiotensin-aldosterone system and the sympathetic nervous system in the control of cardiac and vascular structure and function in subjects with hypertension.Patients with hypertension and left ventricular hypertrophy were randomized to an angiotensin receptor blocker or a beta",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 ys old\n* Male or female with no child bearing potential\n* Seated blood pressure diastolic 90-115 mm Hg\n* Left ventricular mass above 131 g/m2 for men, above 100 g/m2 for women\n* Informed consent\n\nExclusion Criteria:\n\n* Coronary artery disease, heart failure or othe",
+      "endpoints": [
+        "Changes in Left Ventricular Mass Index"
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT00389168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00262236",
+      "title": "A Twelve-week, Randomized, Double-blind, Parallel-group, Multicenter, Dose Escalation Study to Evaluate the Efficacy and Safety of Aliskiren Administered Alone and in Combination With Atenolol in Patients With Essential Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2006-08",
+      "country": "Switzerland, Germany",
+      "enrollment": 693,
+      "brief_summary": "This is a study for people diagnosed with hypertension to compare the safety and effectiveness of aliskiren alone and in combination with atenolol. Each patient will be in the study for 12 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Outpatients 18 years of age and older.\n2. Patients with essential hypertension.\n\nExclusion Criteria:\n\nSevere hypertension, Current diagnosis of heart failure, History or evidence of a secondary form of hypertension, Participation in any investigational drug study within one m",
+      "endpoints": [
+        "Change from baseline in diastolic blood pressure after 12 weeks"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00262236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03626259",
+      "title": "Effect of the Administration of Losartan / Amlodipine in Fixed Combination Versus Losartan on Hemodynamic and Arterial Stiffness Parameters in Patients With Systemic Hypertension Grade 1 and 2",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-08-06",
+      "completion_date": "2019-06-14",
+      "country": "Mexico",
+      "enrollment": 28,
+      "brief_summary": "Systemic Arterial Hypertension (SAH) is a disease with a high prevalence in Mexico and worldwide. SAH is associated with an increase in cardiovascular morbidity and mortality, causing cardiovascular disease (CVD), heart failure (HF), as well as chronic kidney disease (CKD). Several of the physiopathological mechanisms observed are: the increase in cardiac output, central aortic pressure (CAP), pulse wave velocity (PWV) and peripheral vascular resistance (PVR), which leads to the generation of da",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of hypertension grade 1 or 2 according to the criteria of the American Heart Association (2017)\n* Written informed consent\n* Patients who are undergoing antihypertensive treatment and who, at the trial of the investigator and taking care of the health and safety of t",
+      "endpoints": [
+        "Pulse Wave Velocity (PWVao)"
+      ],
+      "sponsor": "Centro Universitario de Ciencias de la Salud, Mexico",
+      "url": "https://clinicaltrials.gov/study/NCT03626259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00593710",
+      "title": "A Randomized Double-blind Study Assessing the Effects of Losartan Versus Atenolol on Pulse Wave Velocity and the Biophysical Properties of the Aorta in Patients With Marfan Syndrome",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2011-12",
+      "country": "Canada",
+      "enrollment": 17,
+      "brief_summary": "Marfan syndrome is a genetic disease of our connective tissue, which provides material and support for our skeleton, muscles, blood vessels and other parts of our bodies. People with Marfan syndrome may be tall and thin with slender, tapering fingers, long arms and legs, and spine curvature. They often have heart and eye problems. In some patients, the condition is very mild and the person has few or no symptoms. Others are always at risk of life-threatening problems, which usually involve damag",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects must conform to the diagnostic criteria for MFS;\n2. Subjects must be between 12 and 25 years;\n3. Subjects must have technically suitable echocardiographic windows to obtain the images needed to calculate the biophysical properties listed as outcome measures;\n4. Subje",
+      "endpoints": [
+        "Pulse Wave Velocity"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT00593710"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00133692",
+      "title": "INternational VErapamil SR Trandolapril STudy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "1997-09",
+      "completion_date": "2003-02",
+      "country": "United States",
+      "enrollment": 22000,
+      "brief_summary": "Because blood pressure affects the heart, blood vessels, kidneys, and the entire body, it is important to keep it as normal as possible. There are several different ways to control blood pressure and to prevent or limit the development of heart disease due to high blood pressure. The purpose of this study is to compare two treatments to see how well they work and the difference in their side effects. One treatment includes the use of a calcium antagonist drug (Isoptin sustained release \\[SR\\] or",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female\n* Age 50 to no upper limit\n* Hypertension documented according to the 6th report of the Joint National Committee on Detection and Evaluation of the treatment of high BP (JNC VI) and the need for drug therapy (previously documented hypertension in patients curren",
+      "endpoints": [
+        "First occurrence of death or nonfatal myocardial infarction (MI) or nonfatal stroke"
+      ],
+      "sponsor": "University of Florida",
+      "url": "https://clinicaltrials.gov/study/NCT00133692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00913965",
+      "title": "Bioavailability of Atenolol Tablets",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1989-07",
+      "completion_date": "1989-08",
+      "country": "N/A",
+      "enrollment": 24,
+      "brief_summary": "To demonstrate the relative bioavailability of Atenolol tablets.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal finding on physical exam, medical history, or clinical laboratory results on screening.\n\nExclusion Criteria:\n\n* Positive test results for HIV or hepatitis B or C.\n* Treatment for drug or alcohol dependence.",
+      "endpoints": [
+        "Bioequivalence based on AUC and Cmax"
+      ],
+      "sponsor": "Sandoz",
+      "url": "https://clinicaltrials.gov/study/NCT00913965"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00946725",
+      "title": "A Comparative Bioavailability Study of Atenolol Tablets, 100 mg",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2000-11",
+      "completion_date": "2000-11",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "To demonstrate the relative bioavailability of atenolol tablets, 100 mg.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal finding on physical exam, medical history, or clinical laboratory results on screening.\n\nExclusion Criteria:\n\n* Positive test results for HIV or hepatitis B or C.\n* Treatment for drug or alcohol dependence.",
+      "endpoints": [
+        "Bioequivalence based on AUC and Cmax"
+      ],
+      "sponsor": "Sandoz",
+      "url": "https://clinicaltrials.gov/study/NCT00946725"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06670690",
+      "title": "Comparison Between Atenolol , Propnalol and Ivabradine as a Premedication for Bloodless Field Anesthesia in Lumbar Spine Surgery ,a Prospective Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-09-01",
+      "completion_date": "2023-10-01",
+      "country": "Egypt",
+      "enrollment": 120,
+      "brief_summary": "The aim of this work is to compare atenolol, propranolol, and ivabradine as a premedication to achieve bloodless field anesthesia primarily controlling heart rate in lumbar spine surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ASA physical status I and II,\n\n  * aged from 18 to 50 years old\n  * scheduled for elective lumber spine surgeries will be included in this study.\n\nExclusion Criteria:\n\n* Hypertension.\n* Hepatic or renal disease.\n* Diabetes Mellitus.\n* Pregnancy.\n* Coagulation disorders.\n* Anem",
+      "endpoints": [
+        "Perioperative Heamodynamic Effect of the drugs"
+      ],
+      "sponsor": "Menoufia University",
+      "url": "https://clinicaltrials.gov/study/NCT06670690"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000513",
+      "title": "Trial of Antihypertensive Intervention Management",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1984-04",
+      "completion_date": "1994-11",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "The objective of the Trial of Antihypertensive Intervention Management (TAIM) was to determine the efficacy of dietary management and/or drug therapy, namely thiazide-like diuretics or a beta-blocker, in the control of mild hypertension. Additionally, the Continuation of the Trial of Antihypertensive Intervention Management (COTAIM) tested the effects of long-term weight reduction, and sodium/potassium changes added to weight reduction, as well as the original drug treatment, on the failure rate",
+      "eligibility_criteria": "Men and women, ages 21 to 65, with mild hypertension in the range of 90 to 100 mm Hg diastolic blood pressure.\n\nSubjects were obese (110-150 percent of ideal weight).",
+      "endpoints": [],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "url": "https://clinicaltrials.gov/study/NCT00000513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00684489",
+      "title": "Renin-Guided Therapeutics in the Management of Untreated, Uncontrolled or Complicated Hypertension",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2003-09",
+      "completion_date": "2005-09",
+      "country": "N/A",
+      "enrollment": 52,
+      "brief_summary": "Plasma renin values determine whether volume or vasoconstrictor (renin) factors predominate in elevating blood pressure and are useful in selecting effective antihypertensive therapy.2,3\n\nThe researchers hypothesize that:\n\n1. Plasma renin-guided therapeutics will improve systolic and diastolic blood pressure control in patients with untreated hypertension as well as in patients with treatment refractory or resistant hypertension that are managed by Clinical Hypertension Specialists.\n2. Renin-gui",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age, 21 years of age and older\n* Male or female (post-menopausal or effective method of birth control)\n* BP and treatment criteria noted above\n* Willingness to provide written, informed consent\n* Ability to adhere to study protocol\n\nExclusion Criteria:\n\n* Uncontrolled diabetes",
+      "endpoints": [],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT00684489"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01736488",
+      "title": "A Randomized, Double-Blind, Phase IV Clinical Study to Evaluate the Antihypertensive Efficacy and Changes of Neurohormonal Markers of Fimasartan and Atenolol With Exaggerated Blood Pressure Response During Exercise in Essential Hypertensive Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "",
+      "country": "South Korea",
+      "enrollment": 25,
+      "brief_summary": "The purpose of this study is to evaluate the antihypertensive efficacy and changes of neurohormonal markers of fimasartan and atenolol with exaggerated blood pressure response during exercise in essential hypertensive patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects who agreed to participate in this clinical trial and submitted the written informed consent\n2. Subjects aged 20 to 75 years\n3. Essential hypertension patients who are measured more 140mmHg, less than 170mmHg of sitting systolic blood pressure(SiSBP) or more 90mmHg, l",
+      "endpoints": [
+        "The difference of sitting Systolic Blood Pressure(SiSBP) between at the peak compared to at resting"
+      ],
+      "sponsor": "Boryung Pharmaceutical Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01736488"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01748123",
+      "title": "Creating an Active Collaborative Network of Comparative Effectiveness Researchers: A Randomized Study of Initial Diuretic Therapy for Hypertension.",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2016-08",
+      "completion_date": "2018-06",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "* Clinical equipoise exists with respect to the important question, \"What is the best initial diuretic for the treatment of Hypertension\"? A pragmatic comparative effectiveness research (CER) study comparing Chlorthalidone to Hydrochlorthiazide (HCTZ) could help inform decision making for this common problem.\n* The investigators aim to harness both the power of bioinformatics (using web-based data-capture and electronic health records) and of online media (through collaboration) in order to faci",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women are eligible if they have hypertension, are not receiving antihypertensive medications, and have average office BP values within the last 6 months ≥140/90 mmHg.\n\nExclusion Criteria:\n\n* Patients with hypertensive urgency will be excluded (BP ≥180/120 mmHg). We als",
+      "endpoints": [
+        "Mean systolic 24 Hour Ambulatory Blood Pressure"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT01748123"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01251146",
+      "title": "Effects of Bisoprolol and Atenolol on Resting Heart Rate and Sympathetic Nervous System's Activity in Patients With Essential Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-11",
+      "completion_date": "2012-02",
+      "country": "China",
+      "enrollment": 177,
+      "brief_summary": "This is a Phase 4, prospective, multi-centric and randomized controlled study to compare the effects of bisoprolol and atenolol on resting heart rate (RHR) and sympathetic nervous system's (SNS) activity in subjects with essential hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged between 25-65 years\n* Subjects with essential hypertension (EH)\n* Subjects with systolic blood pressure (SBP) 140-160 millimeter of mercury (mmHg) and diastolic blood pressure (DBP) 90-100 mmHg\n* Subjects with normal sinus rhythm\n* Subjects with resting heart rat",
+      "endpoints": [
+        "Change From Baseline in Baroreflex Sensitivity (BRS) at Attainment of Heart Rate Goal",
+        "Change From Baseline in Baroreflex Sensitivity (BRS) at End of Follow-up"
+      ],
+      "sponsor": "Merck KGaA, Darmstadt, Germany",
+      "url": "https://clinicaltrials.gov/study/NCT01251146"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03082014",
+      "title": "EffecTs of Amlodipine and Other Blood PREssure Lowering Agents on Microvascular FuncTion in Small Vessel Diseases",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2018-02-22",
+      "completion_date": "2022-07-28",
+      "country": "Netherlands, United Kingdom, Germany",
+      "enrollment": 101,
+      "brief_summary": "Multicentre, multinational, prospective randomised, open-label, 3 sequence crossover phase III b clinical trial with blinded endpoint assessment (PROBE-design)\n\n* in 75 patients with sporadic small vessel diseases (SVDs) and\n* in 30 patients with cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL)",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients may be enrolled in the trial if all of the following criteria have been met:\n\n* Symptomatic SVD defined as\n\n  * History of clinical lacunar stroke in the last 5 years with a corresponding small subcortical infarct visible on MRI scan or CT scan\\* compatible with the cli",
+      "endpoints": [
+        "Change from Baseline Cerebrovascular Reactivity (CVR) at 4 weeks of Monotherapy"
+      ],
+      "sponsor": "Ludwig-Maximilians - University of Munich",
+      "url": "https://clinicaltrials.gov/study/NCT03082014"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02403349",
+      "title": "Comparison of Peripheral and Cerebral Arterial Flow in Acute Ischemic Stroke: Fimasartan vs. Valsartan vs. Atenolol",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-05",
+      "completion_date": "2015-09",
+      "country": "N/A",
+      "enrollment": 105,
+      "brief_summary": "Confirm central blood pressure reduction effect of Fimasartan, Valsartan and Atenolol and compare correlation with the measured peripheral (central blood pressure, pulse wave velocity, and flow-mediated dilation) and cerebral blood flow factors (transcranial doppler findings, cerebral blood flow volume) in acute ischemic stroke patients with hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 30 years old\n* Acute ischemic stroke patient who has corresponding DWI(diffusion- weighted imaging) lesion correlated with symptom\n* after 7days, but within 28days from stroke onset\n* Diagnosed with Hypertension\n* hypertensive patients who taking anti-hypertensive drugs ",
+      "endpoints": [
+        "Central Blood pressure control"
+      ],
+      "sponsor": "Ajou University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02403349"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00185094",
+      "title": "The Effects of Olmesartan Medoxomil, Losartan Potassium, and Atenolol on Insulin Sensitivity in Overweight and Obese Subjects With Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2005-07",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "To examine the effect of three different blood pressure medications on the insulin sensitivity in overweight patients with high blood pressure.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients between the ages of 18 and 75 years (inclusive)\n* Willingness to undergo insulin clamp procedure twice\n* Overweight or obese (BMI=25-39 kg/m2)\n* Subject must meet one of the following two blood pressure criteria at week-2 and at week-1: Systolic blood pressure 140-179",
+      "endpoints": [
+        "To compare the treatment effect of olmesartan medoxomil versus that of atenolol on insulin sensitivity"
+      ],
+      "sponsor": "Daiichi Sankyo",
+      "url": "https://clinicaltrials.gov/study/NCT00185094"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "31259",
+      "title": "Atenolol and three nonselective beta-blockers in hypertension.",
+      "abstract": "The object of this study was to establish whether cardioselectivity of atenolol confers any advantage over noncardioselective beta-blockade in the treatment of hypertension. A dose of atenolol was established on the basis of morning mean systolic blood pressure (mean of 5 readings) in 27 long-standing hypertensive patients previously controlled on one of three nonselective beta-blockers: propranolol, oxprenolol, or pindolol. Most patients were also taking a diuretic. A crossover trial was then conducted of atenolol and the previous nonselective beta-blocker, each drug being given for 8 wk in randomized order. Other drugs were kept constant. At the end of each 8-wk period a morning test of blood pressure and pulse rate was done, an 11:30 A.M. blood sample was taken for estimation of drug concentration, and spirometry was performed. During the eighth week a glucose tolerance test, fasting lipids, and other biochemical and hematologic estimations were done. On a separate occasion a late m",
+      "journal": "Clinical pharmacology and therapeutics",
+      "year": "1979",
+      "authors": [
+        "Waal-Manning H J"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adrenergic beta-Antagonists",
+        "Adult",
+        "Aged",
+        "Atenolol",
+        "Blood Pressure",
+        "Clinical Trials as Topic",
+        "Creatinine",
+        "Female",
+        "Humans",
+        "Hypertension"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31259/"
+    },
+    {
+      "pmid": "6805588",
+      "title": "Atenolol and metoprolol once daily in hypertension.",
+      "abstract": "The effect of once-daily dosage of the two most widely prescribed cardioselective beta-adrenoceptor antagonists used to treat hypertension--namely, atenolol and metoprolol--was studied in nine carefully selected hypertensive outpatients. Each patient received atenolol 50 mg/day, atenolol 100 mg/day, metoprolol 100 mg/day, and metoprolol 200 mg/day in a sustained-release formulation (as Lopresor SR) according to a randomised sequence. After three weeks' treatment with each drug given once daily comparisons of the treatments 24 hours after dosing showed no important differences between 50 and 100 mg atenolol/day. Metoprolol, as both the standard and the slow-release formulations, had some limitations in controlling systolic blood pressure and heart rate. These results suggest that the recommendations for the treatment of hypertension with these cardioselective beta-adrenoceptor antagonists should be reconsidered since doses smaller than those recommended are almost as effective and much ",
+      "journal": "British medical journal (Clinical research ed.)",
+      "year": "1982",
+      "authors": [
+        "Scott A K",
+        "Rigby J W",
+        "Webster J",
+        "Hawksworth G M",
+        "Petrie J C"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Atenolol",
+        "Blood Pressure",
+        "Dose-Response Relationship, Drug",
+        "Drug Administration Schedule",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Hypertension",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6805588/"
+    },
+    {
+      "pmid": "1104047",
+      "title": "Atenolol and bendrofluazide in hypertension.",
+      "abstract": "The effect of atenolol, a new beta-1-adrenergic receptor blocking agent, was studied in a double-blind cross-over trial in 24 carefully selected hypertensive outpatients. After a four-week run-in period on matching placebo each patient received atenolol 200 mg/day, atenolol 400 mg/day, a combination of atenolol 200/mg day with bendrofluazide 5 mg/day, and bendrofluazide 5 mg/day alone, according to a random sequence. Atenolol at either dose produced a significantly greater reduction in all blood pressure levels except standing systolic pressure than bendrofluazide alone. There was no statistically significant difference between the effects of the two atenolol doses on either blood pressure or pulse rate. The addition of bendrofluazide to atenolol resulted in a further significant lowering of the blood pressure. A significant effect of thiazide on weight was noted. The study shows that atenolol, a cardioselective beta-blocker of similar potency to propranolol in animals but without memb",
+      "journal": "British medical journal",
+      "year": "1975",
+      "authors": [
+        "Petrie J C",
+        "Galloway D B",
+        "Webster J",
+        "Simpson W T",
+        "Lewis J A"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Atenolol",
+        "Bendroflumethiazide",
+        "Body Weight",
+        "Clinical Trials as Topic",
+        "Drug Evaluation",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1104047/"
+    },
+    {
+      "pmid": "7903118",
+      "title": "[Pharmacology and clinical use of a fixed combination of nifedipine and slow release atenolol (Niften) in the treatment of arterial hypertension and angina pectoris].",
+      "abstract": "Nifedipine and atenolol are first choice drugs in the treatment of arterial hypertension and angina pectoris. In both these pathologies the administration of nifedipine and atenolol in free or fixed combinations has proved extremely efficacious in patients who were not adequately controlled by either drug in monotherapy. A fixed combination of intestinal slow-release nifedipine and atenolol (Niften) was recently developed and has already undergone several comparative and double-blind clinical trials for the treatment of arterial hypertension and angina pectoris. The pharmacokinetic and pharmacodynamic characteristics of atenolol and nifedipine are not altered when these drugs are administered in fixed or free combination. It has been shown that the nifedipine-atenolol combination causes anti-hypertensive and anti-anginous effects at doses which are lower, for either of its two components, in comparison to the doses required to achieve the same effects using monotherapy. In arterial hyp",
+      "journal": "Minerva cardioangiologica",
+      "year": "1993",
+      "authors": [
+        "Verdecchia P"
+      ],
+      "pub_types": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adrenergic beta-Antagonists",
+        "Angina Pectoris",
+        "Atenolol",
+        "Calcium Channel Blockers",
+        "Delayed-Action Preparations",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Hypertension",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7903118/"
+    },
+    {
+      "pmid": "39611995",
+      "title": "MMP-9 expression in rat pup incisor teeth is not altered by maternal hypertension or maternal atenolol treatment during pregnancy and lactation.",
+      "abstract": "Hypertension alters tooth formation and Atenolol reduces the blood pressure of spontaneously hypertensive rats (SHR) during pregnancy and lactation, and as demonstrated before, increases the microhardness of the SHR offspring's teeth. MMP-9 is overexpressed in different tissues of hypertensive animals and treatment of hypertension substances can reverse this alteration. We hypothesize hypertension alters the expression of MMP-9 in dental structures of SHR offspring and that treating female SHR with atenolol prevents this alteration. This study aimed to evaluate the expression of matrix metalloproteinase (MMP-9) in incisor teeth (IT) in male offspring of SHR (30 days old) treated or untreated with Atenolol during pregnancy and lactation. MMP-9 expression was evaluated in ameloblasts (AM), enamel matrix (EM), odontoblasts (OD), and predentin (PD) of IT through immunohistochemical reactions (immunoperoxidase). Data were analyzed by Shapiro-Wilk and Kruskal-Wallis (p < 0.05), with Dunn pos",
+      "journal": "Journal of molecular histology",
+      "year": "2024",
+      "authors": [
+        "Elias Gracieli Prado",
+        "Horta Haylla de Faria",
+        "Mateus Alanna Ramalho",
+        "Pes Laura Valentina Borges",
+        "Lopes Adrielle Ouchi"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Atenolol",
+        "Matrix Metalloproteinase 9",
+        "Pregnancy",
+        "Female",
+        "Rats",
+        "Lactation",
+        "Incisor",
+        "Hypertension",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39611995/"
+    },
+    {
+      "pmid": "2216994",
+      "title": "Efficacy of enalapril in essential hypertension and its comparison with atenolol.",
+      "abstract": "The effect of enalapril was evaluated in 67 patients with essential hypertension, and its therapeutic efficacy was compared with atenolol in a placebo run-in, single-blind, cross-over trial. Enalapril significantly reduced blood pressure in all grades of essential hypertension. As monotherapy it 'normalized' blood pressure in 88%, 50% and 25% of patients with mild, moderate and severe hypertension respectively. Optimal dose for most of the patients was 20 to 40 mg/day. Comparison with atenolol revealed almost parallel efficacy of the two drugs, although enalapril produced a significantly greater reduction in systolic blood pressure in patients with mild and moderate hypertension (P less than 0.01 in each group). No serious side effects were encountered with either drug. Enalapril, therefore, has a potent and slightly superior antihypertensive effect to that of atenolol, and may be used as a 'first-step' drug in the treatment of hypertensive patients.",
+      "journal": "Postgraduate medical journal",
+      "year": "1990",
+      "authors": [
+        "el Mangoush M",
+        "Singh N K",
+        "Kumar S",
+        "Basha A",
+        "Gupta B S"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Atenolol",
+        "Dose-Response Relationship, Drug",
+        "Enalapril",
+        "Female",
+        "Humans",
+        "Hypertension",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2216994/"
+    },
+    {
+      "pmid": "9759992",
+      "title": "Valsartan and atenolol in patients with severe essential hypertension.",
+      "abstract": "The aim of this study was to evaluate the efficacy and tolerability of valsartan, a new angiotensin II receptor antagonist, versus atenolol in the treatment of severe primary hypertension. A total of 103 adult out-patients were randomised to receive either valsartan 160 mg or atenolol 100 mg once daily for 6 weeks. If necessary, additional blood pressure (BP) control could be provided as add-on therapy. Both valsartan and atenolol decreased mean sitting diastolic BP (DBP) and mean sitting systolic BP (SBP): least squares mean change from baseline in DBP; valsartan, -20.0 mm Hg; atenolol, -20.4 mm Hg: in SBP; valsartan, -30.0 mm Hg; atenolol, -25.5 mm Hg. There was no statistically significant difference between the treatment groups. Add-on hydrochlorothiazide (HCTZ) 25 mg was required by 97.2% of patients receiving atenolol and 83.6% of patients receiving valsartan; additional verapamil SR 240 mg was also required by 58.3% of patients receiving atenolol and 64.2% receiving valsartan. V",
+      "journal": "Journal of human hypertension",
+      "year": "1998",
+      "authors": [
+        "Cifkova R",
+        "Peleska J",
+        "Hradec J",
+        "Rosolová H",
+        "Pintérová E"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Angiotensin Receptor Antagonists",
+        "Antihypertensive Agents",
+        "Atenolol",
+        "Female",
+        "Humans",
+        "Hypertension",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9759992/"
+    },
+    {
+      "pmid": "26425837",
+      "title": "PTPRD gene associated with blood pressure response to atenolol and resistant hypertension.",
+      "abstract": "The aim of this study is to identify single-nucleotide polymorphisms (SNPs) influencing blood pressure (BP) response to the β-blocker atenolol.",
+      "journal": "Journal of hypertension",
+      "year": "2015",
+      "authors": [
+        "Gong Yan",
+        "McDonough Caitrin W",
+        "Beitelshees Amber L",
+        "El Rouby Nihal",
+        "Hiltunen Timo P"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adrenergic beta-Antagonists",
+        "Adult",
+        "Aged",
+        "Antihypertensive Agents",
+        "Atenolol",
+        "Black People",
+        "Blood Pressure",
+        "Essential Hypertension",
+        "Female",
+        "Genome-Wide Association Study"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26425837/"
+    },
+    {
+      "pmid": "7340890",
+      "title": "A comparative study of atenolol and metoprolol in the treatment of hypertension.",
+      "abstract": "1 In an open, randomized cross-over investigation of thirteen patients (nine and four women, aged 37-67 years) with mild or moderate essential hypertension a comparison between atenolol and metoprolol was carried out in order to study the effects of 50, 100 and 200 mg given once daily on blood pressure and heart rate at rest and during exercise. 2 Before one beta-adrenoceptor blocking drug was replaced by the other in a patient an intervening drug-free interval of sufficient length was secured to allow an increase in the blood pressure to pretreatment levels. 3 A maximal fall in blood pressure was achieve with 50 mg atenolol once daily, with no further reduction when the dose was increased to 100 mg or 200 mg. Maximal blood pressure reduction was achieved with 100 mg metoprolol daily, while the hypertensive effect of 50 mg once daily was not consistent. Significant reductions in heart rate in all test situations were observed with 50 mg atenolol, while 200 mg metoprolol 100 was necessa",
+      "journal": "British journal of clinical pharmacology",
+      "year": "1981",
+      "authors": [
+        "Rasmussen S",
+        "Arnung K",
+        "Eskildsen P C",
+        "Nielsen P E"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Atenolol",
+        "Blood Pressure",
+        "Creatinine",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Hypertension",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7340890/"
+    },
+    {
+      "pmid": "15530629",
+      "title": "Atenolol in hypertension: is it a wise choice?",
+      "abstract": "Atenolol is one of the most widely used beta blockers clinically, and has often been used as a reference drug in randomised controlled trials of hypertension. However, questions have been raised about atenolol as the best reference drug for comparisons with other antihypertensives. Thus, our aim was to systematically review the effect of atenolol on cardiovascular morbidity and mortality in hypertensive patients.",
+      "journal": "Lancet (London, England)",
+      "year": "2004",
+      "authors": [
+        "Carlberg Bo",
+        "Samuelsson Ola",
+        "Lindholm Lars Hjalmar"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Adrenergic beta-Antagonists",
+        "Antihypertensive Agents",
+        "Atenolol",
+        "Blood Pressure",
+        "Humans",
+        "Hypertension",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15530629/"
+    },
+    {
+      "pmid": "28107561",
+      "title": "Beta-blockers for hypertension.",
+      "abstract": "Beta-blockers refer to a mixed group of drugs with diverse pharmacodynamic and pharmacokinetic properties. They have shown long-term beneficial effects on mortality and cardiovascular disease (CVD) when used in people with heart failure or acute myocardial infarction. Beta-blockers were thought to have similar beneficial effects when used as first-line therapy for hypertension. However, the benefit of beta-blockers as first-line therapy for hypertension without compelling indications is controversial. This review is an update of a Cochrane Review initially published in 2007 and updated in 2012.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2017",
+      "authors": [
+        "Wiysonge Charles S",
+        "Bradley Hazel A",
+        "Volmink Jimmy",
+        "Mayosi Bongani M",
+        "Opie Lionel H"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adrenergic beta-Antagonists",
+        "Adult",
+        "Aged",
+        "Angiotensin Receptor Antagonists",
+        "Antihypertensive Agents",
+        "Atenolol",
+        "Calcium Channel Blockers",
+        "Coronary Disease",
+        "Diuretics",
+        "Heart Arrest"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28107561/"
+    },
+    {
+      "pmid": "11937178",
+      "title": "Cardiovascular morbidity and mortality in the Losartan Intervention For Endpoint reduction in hypertension study (LIFE): a randomised trial against atenolol.",
+      "abstract": "Blood pressure reduction achieved with beta-blockers and diuretics is the best recorded intervention to date for prevention of cardiovascular morbidity and death in patients with hypertension. Left ventricular hypertrophy (LVH) is a strong independent indicator of risk of cardiovascular morbidity and death. We aimed to establish whether selective blocking of angiotensin II improves LVH beyond reducing blood pressure and, consequently, reduces cardiovascular morbidity and death.",
+      "journal": "Lancet (London, England)",
+      "year": "2002",
+      "authors": [
+        "Dahlöf Björn",
+        "Devereux Richard B",
+        "Kjeldsen Sverre E",
+        "Julius Stevo",
+        "Beevers Gareth"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Angiotensin Receptor Antagonists",
+        "Antihypertensive Agents",
+        "Atenolol",
+        "Cardiovascular Diseases",
+        "Diabetes Complications",
+        "Double-Blind Method",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11937178/"
+    },
+    {
+      "pmid": "33186492",
+      "title": "Polypill with or without Aspirin in Persons without Cardiovascular Disease.",
+      "abstract": "A polypill comprising statins, multiple blood-pressure-lowering drugs, and aspirin has been proposed to reduce the risk of cardiovascular disease.",
+      "journal": "The New England journal of medicine",
+      "year": "2021",
+      "authors": [
+        "Yusuf Salim",
+        "Joseph Philip",
+        "Dans Antonio",
+        "Gao Peggy",
+        "Teo Koon"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Anticholesteremic Agents",
+        "Antihypertensive Agents",
+        "Aspirin",
+        "Atenolol",
+        "Blood Pressure",
+        "Cardiovascular Diseases",
+        "Cholesterol, LDL",
+        "Drug Combinations",
+        "Drug Therapy, Combination"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33186492/"
+    },
+    {
+      "pmid": "2046107",
+      "title": "Prevention of stroke by antihypertensive drug treatment in older persons with isolated systolic hypertension. Final results of the Systolic Hypertension in the Elderly Program (SHEP). SHEP Cooperative Research Group.",
+      "abstract": "To assess the ability of antihypertensive drug treatment to reduce the risk of nonfatal and fatal (total) stroke in isolated systolic hypertension.",
+      "journal": "JAMA",
+      "year": "1991",
+      "authors": [],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Antihypertensive Agents",
+        "Atenolol",
+        "Cause of Death",
+        "Cerebrovascular Disorders",
+        "Chlorthalidone",
+        "Contraindications",
+        "Double-Blind Method",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2046107/"
+    },
+    {
+      "pmid": "16154016",
+      "title": "Prevention of cardiovascular events with an antihypertensive regimen of amlodipine adding perindopril as required versus atenolol adding bendroflumethiazide as required, in the Anglo-Scandinavian Cardiac Outcomes Trial-Blood Pressure Lowering Arm (ASCOT-BPLA): a multicentre randomised controlled trial.",
+      "abstract": "The apparent shortfall in prevention of coronary heart disease (CHD) noted in early hypertension trials has been attributed to disadvantages of the diuretics and beta blockers used. For a given reduction in blood pressure, some suggested that newer agents would confer advantages over diuretics and beta blockers. Our aim, therefore, was to compare the effect on non-fatal myocardial infarction and fatal CHD of combinations of atenolol with a thiazide versus amlodipine with perindopril.",
+      "journal": "Lancet (London, England)",
+      "year": "2005",
+      "authors": [
+        "Dahlöf Björn",
+        "Sever Peter S",
+        "Poulter Neil R",
+        "Wedel Hans",
+        "Beevers D Gareth"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adrenergic beta-Antagonists",
+        "Adult",
+        "Aged",
+        "Amlodipine",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Antihypertensive Agents",
+        "Atenolol",
+        "Bendroflumethiazide",
+        "Blood Pressure",
+        "Calcium Channel Blockers"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16154016/"
+    },
+    {
+      "pmid": "25821584",
+      "title": "β-Blockers in hypertension, diabetes, heart failure and acute myocardial infarction: a review of the literature.",
+      "abstract": "β-Blockers (BBs) are an essential class of cardiovascular medications for reducing morbidity and mortality in patients with heart failure (HF). However, a large body of data indicates that BBs should not be used as first-line therapy for hypertension (HTN). Additionally, new data have questioned the role of BBs in the treatment of stable coronary heart disease (CHD). However, these trials mainly tested the non-vasodilating β1 selective BBs (atenolol and metoprolol) which are still the most commonly prescribed BBs in the USA. Newer generation BBs, such as the vasodilating BBs carvedilol and nebivolol, have been shown not only to be better tolerated than non-vasodilating BBs, but also these agents do not increase the risk of diabetes mellitus (DM), atherogenic dyslipidaemia or weight gain. Moreover, carvedilol has the most evidence for reducing morbidity and mortality in patients with HF and those who have experienced an acute myocardial infarction (AMI). This review discusses the corner",
+      "journal": "Open heart",
+      "year": "2015",
+      "authors": [
+        "DiNicolantonio James J",
+        "Fares Hassan",
+        "Niazi Asfandyar K",
+        "Chatterjee Saurav",
+        "D'Ascenzo Fabrizio"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25821584/"
+    },
+    {
+      "pmid": "9732337",
+      "title": "Tight blood pressure control and risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 38. UK Prospective Diabetes Study Group.",
+      "abstract": "To determine whether tight control of blood pressure prevents macrovascular and microvascular complications in patients with type 2 diabetes.",
+      "journal": "BMJ (Clinical research ed.)",
+      "year": "1998",
+      "authors": [],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Adrenergic beta-Antagonists",
+        "Albuminuria",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Antihypertensive Agents",
+        "Atenolol",
+        "Blood Glucose",
+        "Captopril",
+        "Cerebrovascular Disorders",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Angiopathies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9732337/"
+    },
+    {
+      "pmid": "16534490",
+      "title": "Beta-blockers for the post-myocardial infarction patient: current clinical evidence and practical considerations.",
+      "abstract": "Beta-blockers significantly decrease the risk of mortality in patients after myocardial infarction (MI). Furthermore, beta-blockers reduce the risk of reinfarction and mortality in both the immediate and long term after an MI. Guidelines recommend that post-MI patients should be started on beta-blocker therapy and continued indefinitely, unless absolutely contraindicated or not tolerated. Despite compelling evidence, many patients are not prescribed beta-blockers after a myocardial event. In addition, some patients are treated with agents whose long-term use has not been shown to be effective. This article discusses practical implementation of beta-blockers, provides the rationale for choosing specific beta-blockers, and presents protocols for initiating or switching to evidence-based therapies in the acute and chronic post-MI period.",
+      "journal": "Reviews in cardiovascular medicine",
+      "year": "2006",
+      "authors": [
+        "Fonarow Gregg C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adrenergic beta-Antagonists",
+        "Algorithms",
+        "Atenolol",
+        "Carbazoles",
+        "Carvedilol",
+        "Humans",
+        "Myocardial Infarction",
+        "Practice Guidelines as Topic",
+        "Propanolamines",
+        "Propranolol"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16534490/"
+    },
+    {
+      "pmid": "28107561",
+      "title": "Beta-blockers for hypertension.",
+      "abstract": "Beta-blockers refer to a mixed group of drugs with diverse pharmacodynamic and pharmacokinetic properties. They have shown long-term beneficial effects on mortality and cardiovascular disease (CVD) when used in people with heart failure or acute myocardial infarction. Beta-blockers were thought to have similar beneficial effects when used as first-line therapy for hypertension. However, the benefit of beta-blockers as first-line therapy for hypertension without compelling indications is controversial. This review is an update of a Cochrane Review initially published in 2007 and updated in 2012.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2017",
+      "authors": [
+        "Wiysonge Charles S",
+        "Bradley Hazel A",
+        "Volmink Jimmy",
+        "Mayosi Bongani M",
+        "Opie Lionel H"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adrenergic beta-Antagonists",
+        "Adult",
+        "Aged",
+        "Angiotensin Receptor Antagonists",
+        "Antihypertensive Agents",
+        "Atenolol",
+        "Calcium Channel Blockers",
+        "Coronary Disease",
+        "Diuretics",
+        "Heart Arrest"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28107561/"
+    },
+    {
+      "pmid": "11937178",
+      "title": "Cardiovascular morbidity and mortality in the Losartan Intervention For Endpoint reduction in hypertension study (LIFE): a randomised trial against atenolol.",
+      "abstract": "Blood pressure reduction achieved with beta-blockers and diuretics is the best recorded intervention to date for prevention of cardiovascular morbidity and death in patients with hypertension. Left ventricular hypertrophy (LVH) is a strong independent indicator of risk of cardiovascular morbidity and death. We aimed to establish whether selective blocking of angiotensin II improves LVH beyond reducing blood pressure and, consequently, reduces cardiovascular morbidity and death.",
+      "journal": "Lancet (London, England)",
+      "year": "2002",
+      "authors": [
+        "Dahlöf Björn",
+        "Devereux Richard B",
+        "Kjeldsen Sverre E",
+        "Julius Stevo",
+        "Beevers Gareth"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Angiotensin Receptor Antagonists",
+        "Antihypertensive Agents",
+        "Atenolol",
+        "Cardiovascular Diseases",
+        "Diabetes Complications",
+        "Double-Blind Method",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11937178/"
+    }
+  ]
+}

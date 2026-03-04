@@ -5,7 +5,7 @@ drugbank_id: "DB01609"
 drug_name: "Deferasirox"
 kg_predictions: 98
 dl_predictions: 190
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 98
 brands: []
 permalink: /drugs/deferasirox/
@@ -21,7 +21,7 @@ permalink: /drugs/deferasirox/
 | **DrugBank ID** | [DB01609](https://go.drugbank.com/drugs/DB01609) |
 | **KG Predictions** | 98 |
 | **DL Predictions (≥0.7)** | 190 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

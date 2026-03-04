@@ -1,0 +1,1048 @@
+{
+  "drug": "Progesterone",
+  "drugbank_id": "DB00396",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T11:03:16Z",
+  "indications": [
+    {
+      "indication": "uterine corpus cancer",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 8,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 8,
+        "phase1_trials": 1,
+        "other_trials": 7,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 5,
+        "total_trials": 20,
+        "total_articles": 8
+      }
+    },
+    {
+      "indication": "endometrial cancer",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 7,
+        "phase1_trials": 1,
+        "other_trials": 9,
+        "rct_articles": 2,
+        "review_articles": 6,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "endometriosis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 6,
+        "phase1_trials": 6,
+        "other_trials": 5,
+        "rct_articles": 0,
+        "review_articles": 8,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "endometriosis of uterus",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 4,
+        "phase1_trials": 1,
+        "other_trials": 13,
+        "rct_articles": 0,
+        "review_articles": 9,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "postmenopausal atrophic vaginitis",
+      "evidence_level": "L2",
+      "trials": 2,
+      "articles": 8,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 1,
+        "review_articles": 3,
+        "other_articles": 4,
+        "total_trials": 2,
+        "total_articles": 8
+      }
+    }
+  ],
+  "total_trials": 82,
+  "total_articles": 46,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01464697",
+      "title": "Oral Micronized Progesterone for Perimenopausal Vasomotor Symptoms",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2018-06-01",
+      "country": "Canada",
+      "enrollment": 249,
+      "brief_summary": "The purpose of this study is to test whether a oral micronized progesterone reduces the Vasomotor Symptom Score comprised of the number and severity of hot flushes and night sweats in perimenopausal women. Oral micronized progesterone is molecularly identical to human progesterone, a steroid hormone. It is sold by prescription for use to prevent endometrial cancer in women taking estrogen in menopause. This research study will test whether progesterone reduces perimenopausal hot flushes and nigh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Between 35-58 years of age\n2. At least 4 vasomotor symptoms (VMS) per day, on average, for at least 2/4 weeks or at least 56 over a four-week period. In addition, women should report having VMS of moderate or severe rather than mild intensity. Women reporting fewer VMS than t",
+      "endpoints": [
+        "Vasomotor Symptoms (VMS)/ VMS Score - at 12 Weeks",
+        "Frequency of VMS",
+        "Severity of VMS"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT01464697"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01698164",
+      "title": "Multi-centre Clinical Trial on Hormone Replacement Treatment in China",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-12",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 1200,
+      "brief_summary": "This study is to evaluate the benefit/risk of hormone replacement treatment among early menopausal women in China. This is a multi-centre, random, prospective study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* going through amenorrhea above 6 months and within 5 years,\n* aged 40 to 60 years,\n* going though postmenopausal symptoms,\n* serum E2 concentration \\<30pg/ml,\n* serum FSH concentration \\>40IU/L.\n\nExclusion Criteria:\n\n* uterine fibroid diameter≥5cm,\n* history of diabetes or hyp",
+      "endpoints": [
+        "Change from Baseline in risk factors of cardiovascular disease at 12 months and 24 months",
+        "Change from Baseline in risk factors of breast cancer at 12 months and 24 months"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01698164"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03433768",
+      "title": "Androgen Receptor (AR) mRNA Expression is Positively Associated With Live Birth in Women Undergoing In-vitro Fertilization Independently of the Type of Ovarian Response",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-09-14",
+      "completion_date": "2018-01-10",
+      "country": "N/A",
+      "enrollment": 67,
+      "brief_summary": "AR is a steroid hormone receptor that regulates various genes' expression and affects cellular proliferation and differentiation. Androgens interact with AR, exert their paracrine action on granulosa cells and regulate gonadotropin synthesis, follicle development, oocyte maturation and corpus luteum function. Estrogens increase AR mRNA and testosterone binding site in uterine endometrium and leiomyoma. In human cancer cells, low estradiol increases AR levels, suggesting the estrogen/androgen rat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women with poor ovarian response according to bologna criteria\n\n  1. Advanced maternal age (≥40 years) or any other risk factor for poor ovarian response\n  2. A previous poor ovarian response (≤3 oocytes with a conventional stimulation protocol)\n  3. Abnormal ovarian reserve t",
+      "endpoints": [
+        "Androgen Receptor mRNA expression"
+      ],
+      "sponsor": "Aristotle University Of Thessaloniki",
+      "url": "https://clinicaltrials.gov/study/NCT03433768"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00919919",
+      "title": "Efficacy & Tolerability of Progesterone Vaginal Tablets (Endometrin®) in Menopausal Women Treated by Estrogen Replacement Therapy - Phase II Comparative Study",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2009-06",
+      "completion_date": "2010-11",
+      "country": "Israel",
+      "enrollment": 60,
+      "brief_summary": "The objective of the study is to confirm that the efficacy of vaginal progesterone is at least as good as oral progesterone in order to protect the endometrium of uncontrolled proliferation and prevent endometrial cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women who are candidates for Hormone Replacement Therapy due to menopausal symptoms.\n* Women with an intact uterus.\n* No menses within the 12 months preceding screening visit and /or FSH \\>30 IU/L.\n* Endometrial thickness ≤ 5 mm.\n\nExclusion Criteria:\n\n* Submucosal fibroid/s th",
+      "endpoints": [
+        "Comparing the proportion of women with endometrial thickness not exceeding 8mm and change not exceeding 3mm between the two groups."
+      ],
+      "sponsor": "Rabin Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00919919"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01811225",
+      "title": "Smoking, Sex Hormones, and Pregnancy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2017-06",
+      "country": "United States",
+      "enrollment": 95,
+      "brief_summary": "The investigators aim to (1) examine the association between levels of progesterone (Prog), allopregnanolone (Allo), and the estradiol/progesterone (E2/P) ratios with smoking-related symptomatology during ad libitum smoking and (2) determine the association between Prog, Allo, and E2/P with the changes in smoking-related symptomatology and response to nicotine following overnight abstinence",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* currently taking oral contraceptives\n* English fluency\n* Ability to provide informed consent\n\nExclusion Criteria:\n\n* use of progestin only contraceptive\n* pregnancy",
+      "endpoints": [
+        "Change in Smoking Urges"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT01811225"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02208375",
+      "title": "A Phase Ib Study of the Oral PARP Inhibitor Olaparib With the Oral mTORC1/2 Inhibitor AZD2014 or the Oral AKT Inhibitor AZD5363 for Recurrent Endometrial, Triple Negative Breast, and Ovarian, Primary Peritoneal, or Fallopian Tube Cancer",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2014-11-11",
+      "completion_date": "2026-06-30",
+      "country": "United States",
+      "enrollment": 159,
+      "brief_summary": "This phase Ib/II trial studies the side effects and best dose of olaparib and vistusertib (AZD2014) or olaparib and capivasertib (AZD5363) when given together in treating patients with endometrial, triple negative breast cancer, ovarian, primary peritoneal, or fallopian tube cancer that has come back (recurrent). Olaparib, vistusertib, and capivasertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Any histologically confirmed locally advanced recurrent endometrial adenocarcinoma (except for carcinosarcoma), recurrent high-grade serous ovarian/primary peritoneal/fallopian tube carcinoma, or deleterious BRCA mutant recurrent ovarian/primary peritoneal/fallopian tube cance",
+      "endpoints": [
+        "Maximum tolerated dose"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02208375"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00732693",
+      "title": "Comparison of Standard and Physiologic Sex Steroid Replacement Regimens in Women With Premature Ovarian Failure and the Assessment of Skeletal, Cardiovascular and Reproductive Parameters",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-02",
+      "completion_date": "2006-11",
+      "country": "United Kingdom",
+      "enrollment": 42,
+      "brief_summary": "The aim of the study is to determine whether physiological sex steroid replacement improves parameters of skeletal, cardiovascular and reproductive health of women treated with current sex steroid replacement regimens.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premature Ovarian Failure\n\nExclusion Criteria:\n\n* Intercurrent illness",
+      "endpoints": [
+        "Change in 24 hour ambulatory blood pressure",
+        "Bone mineral density measurements (DEXA)",
+        "Uterine ultrasound scan to assess uterine volume, endometrial thickness, and uterine artery blood flow"
+      ],
+      "sponsor": "University of Edinburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00732693"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04710017",
+      "title": "Tranexamic Acid Versus Depot-Medroxyprogesterone Acetate in the Treatment of Perimenopausal Irregular Uterine Bleeding: Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-02-01",
+      "completion_date": "2022-05-01",
+      "country": "Egypt",
+      "enrollment": 110,
+      "brief_summary": "Abnormal uterine bleeding is a symptom and not a disease. It is one of the most frequently encountered complaints in gynecologic practice. It accounts for more than 70% of all gynecological consultations in the peri- and post-menopausal age group.\n\nAbnormal uterine bleeding may be acute or chronic and is defined as bleeding from the uterine corpus that is abnormal in regularity, volume, frequency, or duration and occurs in the absence of pregnancy.\n\nChronic heavy or prolonged uterine bleeding ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed, clinically as peri-menopausal abnormal uterine bleeding with normal pelvic examination.\n* Patient's age ranging from 40- 55y.\n\nExclusion Criteria:\n\n* Post menopausal women\n* Presence of fibroids, adenomyosis, polyp, adnexal mass, endometrial hyperplasia wit",
+      "endpoints": [
+        "Number of bleeding days"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT04710017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02685072",
+      "title": "Progesterone Augmentation of Nicotine Replacement Therapy Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-04-07",
+      "completion_date": "2018-03-12",
+      "country": "United States",
+      "enrollment": 64,
+      "brief_summary": "This will be a double-blind, placebo-controlled, pilot, randomized clinical trial. A total of 50 women who smoke and have regular menstrual cycles will be randomized to either progesterone (200 mgs BID) + Transdermal Nicotine Patch (TNP) or placebo + TNP for 8 weeks. TNP will be tapered after 4-6 weeks. Progesterone or matching placebo will be discontinued at the end of Week 8. All participants will also be provided behavioral treatment for smoking cessation. Participants will be inducted onto p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 18 - 45\n* Smoking at least 5 cigarettes/ day for at least one year\n* Regular menstrual cycles every 24-36 days for the previous 6 months\n* Motivated to quit smoking (i.e., a rating of at least \"7 \"on a 10-point scale where 1 is not at all motivated and 10 is extremely mot",
+      "endpoints": [
+        "7-day Point Prevalence of Smoking Abstinence"
+      ],
+      "sponsor": "Yale University",
+      "url": "https://clinicaltrials.gov/study/NCT02685072"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00247169",
+      "title": "Vaginal Progesterone in the Treatment of Cervical Dysplasia Grade I and II: A Phase II Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2010-04",
+      "country": "Austria",
+      "enrollment": 40,
+      "brief_summary": "The investigators want to test whether treatment with a natural progesterone intravaginally increases the cure rate of cervical intraepithelial neoplasia grade I and II.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histological evidence of CIN I and II\n2. Transformation zone and lesion margins fully visible\n3. Compliant subject\n4. Safe contraception\n5. Negative pregnancy test\n\nExclusion Criteria:\n\nLesion related\n\n1. CIN III, (micro)-Invasive Cancer\n2. Endocervical lesion, upper margin o",
+      "endpoints": [
+        "To evaluate whether or not a treatment with vaginal progesterone 400mg 1x daily for 10 days/month from menstrual cycle day 16-25 for 6 months increases regression rates of CIN I and II."
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT00247169"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03621904",
+      "title": "PROMOTE Study: Prediction of Response Of HorMOnal Treatment in Advanced and Recurrent Endometrial Cancer",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2022-10-15",
+      "completion_date": "2027-09-01",
+      "country": "Netherlands",
+      "enrollment": 150,
+      "brief_summary": "The PROMOTE study aims at optimising use of hormonal therapy in advanced stage and recurrent endometrial cancer analysing tumor tissue taken before start of hormonal therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Advanced stage (FIGO stage III and IV) and recurrent endometrial cancer\n* All histologic types of endometrial carcinoma\n* Planned treatment with any type of hormonal therapy\n* Biopsy taken within 120 days prior to start of hormonal therapy with no intercurrent therapy between ",
+      "endpoints": [
+        "Response rate",
+        "Progression free survival",
+        "Clinical benefit rate"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03621904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01441635",
+      "title": "Phase 2a Proof Of Concept Study to Evaluate the Safety and Efficacy of Elagolix in Pre-Menopausal Women With Heavy Uterine Bleeding and Uterine Fibroids",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-09-08",
+      "completion_date": "2014-05-17",
+      "country": "N/A",
+      "enrollment": 271,
+      "brief_summary": "The purpose of this proof-of-concept study is to assess the safety and effectiveness of elagolix versus placebo to reduce uterine bleeding associated with uterine fibroids, and to reduce fibroid volume and uterine volume in premenopausal women 20 to 49 years of age with heavy uterine bleeding.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is a pre-menopausal female 20 to 49 years of age.\n* Subject has a diagnosis of uterine fibroids documented by a pelvic ultrasound assessed by a central reader and verification that a fibroid present met the following criteria:\n\n  * At least 1 fibroid with diameter ≥ 2 ",
+      "endpoints": [
+        "Mean Change From Baseline to the Last 28 Days of Treatment in Menstrual Blood Loss (MBL)"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01441635"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04558268",
+      "title": "Low Dose Prednisone Therapy in Women With Recurrent Pregnancy Loss",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-12",
+      "completion_date": "2021-10",
+      "country": "Israel",
+      "enrollment": 242,
+      "brief_summary": "For many years there is a lack of large randomized controlled trials that study the effect of low dose prednisone in women with RPL and thus the evidence of a probable efficacy of prednisone in RPL women remains limited and unclear. As the ESHRE recommended in 2018 (2) we aim to assess the effect of such treatment in a large trial that includes unexplained and abnormal autoimmune profile RPL patients. we also aim to assess the side effects of the treatment in RPL pregnant women.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with unexplained RPL.\n* Patients with abnormal immunological profile, including ANA, RF, anti-DNA, antilymphocyte, anticardiolipin, antithyroid and lupus anticoagulant antibodies that have no other clinical manifestation.\n* Women with three or more pregnancy losses (b",
+      "endpoints": [
+        "Live birth",
+        "Pregnancy loss"
+      ],
+      "sponsor": "Soroka University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04558268"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01744574",
+      "title": "Sex Differences & Progesterone: Association With Impulsivity and Smoking Cessation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2017-07-27",
+      "country": "United States",
+      "enrollment": 216,
+      "brief_summary": "Data suggest that progesterone may improve smoking cessation outcomes perhaps by reducing impulsive behavior. However, the clinical literature on this topic is lacking. Therefore, in Project I we are proposing a double-blind randomized controlled trial to assess the role of exogenous progesterone on impulsivity and smoking cessation in a sample of males and females who are motivated to quit smoking.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male 18 to 60 years old\n* Female 18 to 50 years old\n* Self-report regular smoking\n* Motivated to quit smoking\n* In stable physical/mental health\n* Self report of regular menstrual cycles (female only)\n* English fluency\n* Understand the study procedures and able to provide info",
+      "endpoints": [
+        "Number of Participants With 7-day Point Prevalence Abstinence From Smoking at Week 4"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT01744574"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01041027",
+      "title": "A Pilot Phase II Trial of Radiation Therapy \"Sandwiched\" Between Paclitaxel and Carboplatin in Patients With High-Risk Endometrial Cancer After Standard Surgical Staging",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-01-16",
+      "completion_date": "2019-10-01",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "This phase II trial studies how well radiation therapy, paclitaxel, and carboplatin work in treating patients with high-risk endometrial cancer. Radiation therapy uses high energy x rays to kill tumor cells. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing or by stopping them from spreading. Giving radiation therapy with chemotherapy may kill more tumor cells.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically-documented high-risk endometrioid adenocarcinoma with no visible residual disease, defined by the following criteria:\n\n  * Surgical stage I disease with \\< 50 myometrial invasion and grade 3 tumor (IAG3) with lymphovascular space involvement;\n  * Surgical stage ",
+      "endpoints": [
+        "Progression-free Survival (PFS)"
+      ],
+      "sponsor": "Albert Einstein College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01041027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03463252",
+      "title": "Value of Levonorgestrel-Releasing Intrauterine System (LNG-IUS) in the Fertility-preserving Treatment of Atypical Endometrial Hyperplasia and Early Endometrial Carcinoma",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2018-04-01",
+      "completion_date": "2030-12-30",
+      "country": "China",
+      "enrollment": 224,
+      "brief_summary": "Primary end points:\n\nThis clinical trial is aimed to analyze the effectiveness of Levonorgestrel-Releasing Intrauterine System (LNG-IUS, Mirena®) in the fertility-sparing treatment of atypical endometrial hyperplasia and early endometrial carcinoma, including pathology response and pregnancy outcome.\n\nSecond end points:\n\nTo analyze the appearances of side-effects.",
+      "eligibility_criteria": "For Patients With Endometrial Cancer：\n\nInclusion Criteria:\n\n* ≤40 years of age:\n* Having a strong desire for fertility preservation;\n* Histological diagnosis is confirmed as well-differentiated (grade 1) endometrioid adenocarcinoma by the designated gynecological pathologists, and the progesterone r",
+      "endpoints": [
+        "Pathologic Response",
+        "Pregnancy Rate",
+        "Live Birth Rate"
+      ],
+      "sponsor": "West China Second University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03463252"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02112552",
+      "title": "A Pilot Phase II Trial of Intravenous Paclitaxel and Intraperitoneal Carboplatin Followed by Radiation in Patients With Advanced Stage Uterine Serous Carcinoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2014-04-10",
+      "completion_date": "2017-12-01",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "This pilot, phase II trial studies the side effects and how well paclitaxel given into the vein and carboplatin given directly into the abdominal cavity (intraperitoneally) followed by radiation therapy work in treating patients with stage IIIC-IV serous uterine cancer. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, stopping them from dividing, or stopping them from spreading. Giving the drugs",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histological/cytologically documented primary International Federation of Gynecology and Obstetrics (FIGO) stage 3C1, 3C2, stage 4A, and 4B uterine serous carcinoma; in addition, certain stage 3A and B disease are also allowed\n\n  * Residual disease after primary surgery:\n\n    ",
+      "endpoints": [
+        "Degree of Tolerability, Estimated by the Proportion of Participants Who Complete 6 Treatment Cycles of IP Carboplatin"
+      ],
+      "sponsor": "Albert Einstein College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02112552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05586724",
+      "title": "Safety of Oral Micronized Progesterone Versus Norethisterone Acetate in Continuous Combination With Oral Estrogen as Menopausal Hormone Therapy - a Double-blind Randomized Study- PROBES Study (Progesterone Breast Endometrial Safety Study)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2022-03-15",
+      "completion_date": "2027-12",
+      "country": "Sweden",
+      "enrollment": 520,
+      "brief_summary": "About one third of all women during menopausal transition have significant climacteric symptoms with considerable impact on quality of life. Meta-analysis has shown a beneficial risk profile with menopausal hormone therapy (MHT) for women 50 to 60 years. Still, there is a great need to find safe MHT able to control excessive endometrial stimulation by estrogen without stimulatory effects on the breast by the combination of estrogen/progestogen. Recent observational studies indicate a lower risk ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy and naturally postmenopausal women (more than one year since last menstruation or FSH \\> 40 IE/L) with climacteric symptoms (sweating, hot flush and/or sleep problems) that adversely affect the quality of life\n* Age 45-60 years\n* BMI \\> 19 kg/m2 and ≤ 32 kg/m2\n* Intact",
+      "endpoints": [
+        "Mammographic breast density",
+        "Endometrial pathology"
+      ],
+      "sponsor": "Karolinska University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05586724"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00788671",
+      "title": "A Phase II Study of the Levonorgestrel Intrauterine Device (Mirena) to Treat Complex Atypical Hyperplasia and Grade 1 Endometrioid Endometrial Carcinoma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2008-11-03",
+      "completion_date": "2027-11-30",
+      "country": "United States",
+      "enrollment": 69,
+      "brief_summary": "This phase II trial studies how well levonorgestrel-releasing intrauterine system works in treating patients with complex atypical hyperplasia or grade I endometrial cancer. High levels of estrogen can cause the growth of endometrial cancer cells. Progesterone can help balance the amount of estrogen present. Hormone therapy using levonorgestrel, a type of progesterone, may fight endometrial cancer by helping regulate hormone levels.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients with a diagnosis of complex atypical hyperplasia or endometrial biopsy within three months of study enrollment OR patients with a diagnosis of grade 1 endometrioid endometrial carcinoma on endometrial biopsy within three months of study enrollment in the presence ",
+      "endpoints": [
+        "Response Rate at 12 Month",
+        "Efficacy of the Levonorgestrel Intrauterine Device (IUD)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00788671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00064025",
+      "title": "A Phase II Pilot Investigation Of The Relationship Of Short Term Depo-Provera (Medroxyprogesterone Acetate) Exposure To The Morphologic , Biochemical, And Molecular Changes In Primary Endometroid Adenocarcinoma of the Uterine Corpus",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-04",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "This phase II trial is studying how well medroxyprogesterone works in treating patients with endometrioid adenocarcinoma (cancer) of the uterine corpus (the body of the uterus, not including the cervix). Hormone therapy using medroxyprogesterone may be effective in treating endometrioid cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed primary endometrioid adenocarcinoma of the uterine corpus\n\n  * All histologic grades and stages eligible\n  * Diagnosis by endometrial curettage or biopsy within the past 8 weeks\n\n    * Must have the initial tissue block or 16 unstained sections of 5 mi",
+      "endpoints": [
+        "Histologic Response in Endometrial Adenocarcinomas of the Uterine Corpus That Are Progesterone Receptor Positive Compared With Those That Are Progesterone Receptor Negative"
+      ],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00064025"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "40590223",
+      "title": "Endometriosis and ovulatory menstruation: beyond the Sampson principle.",
+      "abstract": "Endometriosis is an estrogen-dependent chronic inflammatory syndrome characterized by viable endometrial tissue outside the uterine cavity and associated with pain and infertility. Endometriosis, as tissue or a pathological process, is dynamic in that its establishment and progression require repeated episodes of retrograde travel of shed endometrial tissue, which implants in the lower abdominal cavity following ovulatory cycles and survives. Estrogen-rich follicular fluid released onto peritoneal surfaces during ovulation may also support endometriotic implants. DNA evidence indicates that endometriosis originates from eutopic endometrial tissue, which may reach the abdominal cavity in a retrograde manner primarily via the uterine tubes. Unlike uterine bleeding associated with non-ovulatory circumstances, retrograde menstruation following an ovulation maximizes shedding of epithelial cells localized to deep invaginations of the basalis portion of the endometrium, which likely carry so",
+      "journal": "The Journal of clinical investigation",
+      "year": "2025",
+      "authors": [
+        "Bulun Serdar E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Endometriosis",
+        "Ovulation",
+        "Endometrium",
+        "Menstruation",
+        "Animals",
+        "Estrogens"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40590223/"
+    },
+    {
+      "pmid": "37307879",
+      "title": "The KAT6B::KANSL1 Fusion Defines a New Uterine Sarcoma With Hybrid Endometrial Stromal Tumor and Smooth Muscle Tumor Features.",
+      "abstract": "Neoplasms harboring a KAT6B/A::KANSL1 fusion were initially reported as benign (leiomyomas) and malignant (leiomyosarcomas, low-grade endometrial stromal sarcomas [LG-ESSs]) uterine neoplasms. However, they may represent an emerging entity characterized by clinical aggressiveness contrasting with a rather reassuring microscopic appearance. Here, we aimed to confirm that this neoplasm is a distinct clinicopathologic and molecular sarcoma and identify criteria that should alert pathologists and lead to KAT6B/A::KANSL1 fusion testing in routine practice. Therefore, we conducted a comprehensive clinical, histopathologic, immunohistochemical, and molecular study, including array comparative genomic hybridization, whole RNA-sequencing, unsupervised clustering, and cDNA mutational profile analyses of 16 tumors with KAT6B::KANSL1 fusion from 12 patients. At presentation, patients were peri-menopausal (median, 47.5 years), and the primary tumors were located in the uterine corpus (12/12, 100%),",
+      "journal": "Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",
+      "year": "2023",
+      "authors": [
+        "Trecourt Alexis",
+        "Azmani Rihab",
+        "Hostein Isabelle",
+        "Blanchard Larry",
+        "Le Loarer François"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37307879/"
+    },
+    {
+      "pmid": "2343294",
+      "title": "RU 486.",
+      "abstract": "",
+      "journal": "Scientific American",
+      "year": "1990",
+      "authors": [
+        "Ulmann A",
+        "Teutsch G",
+        "Philibert D"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Abortion, Induced",
+        "Animals",
+        "Developing Countries",
+        "Endometrium",
+        "Female",
+        "France",
+        "Humans",
+        "Mifepristone",
+        "Models, Molecular",
+        "Molecular Structure"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2343294/"
+    },
+    {
+      "pmid": "18580312",
+      "title": "Mesonephric adenocarcinoma of the uterine corpus: a case report and review of the literature.",
+      "abstract": "Mesonephric adenocarcinoma (MA) is a rare tumor of the female genital tract, mainly in the cervix and vagina, which is usually associated with mesonephric remnants or mesonephric hyperplasia. In the uterus corpus, MA is as rare as mesonephric structures, and only a few cases have been previously reported. Here, we report a rare case of MA of the uterine corpus. A 73-year-old woman presented with multiple nodules in the bilateral lung. Abdominal computed tomography scan confirmed a uterine tumor measuring 8.6 cm. All tumor markers, including CA125, were within normal limits. A total hysterectomy and bilateral salpingo-oophorectomy were performed. The tumor was confined to the myometrium and showed strong resemblance to cervical MA despite the absence of mesonephric hyperplasia or remnants. The most striking pattern consisted of large sheets of small round tubules, often with densely eosinophilic secretions in the lumen. In addition, the ductal pattern simulating endometrioid adenocarcin",
+      "journal": "International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists",
+      "year": "2008",
+      "authors": [
+        "Wani Yoji",
+        "Notohara Kenji",
+        "Tsukayama Choutatsu"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Aged",
+        "Female",
+        "Humans",
+        "Uterine Neoplasms"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18580312/"
+    },
+    {
+      "pmid": "38508521",
+      "title": "Expanding the Spectrum of NR4A3 Fusion-Positive Gynecologic Leiomyosarcomas.",
+      "abstract": "Recurrent gene fusions have been observed in epithelioid and myxoid variants of uterine leiomyosarcoma. PGR::NR4A3 fusions were recently described in a subset of epithelioid leiomyosarcomas exhibiting rhabdoid morphology. In this study, we sought to expand the clinical, morphologic, immunohistochemical, and genetic features of gynecologic leiomyosarcomas harboring NR4A3 rearrangements with PGR and novel fusion partners. We identified 9 gynecologic leiomyosarcomas harboring PGR::NR4A3, CARMN::NR4A3, ACTB::NR4A3, and possible SLCO5A1::NR4A3 fusions by targeted RNA sequencing. Tumors frequently affected premenopausal women, involving the uterine corpus, uterine cervix, or pelvis. All were similarly characterized by lobules of monomorphic epithelioid and/or spindled cells arranged in sheets, cords, trabeculae, and micro- and macrocysts associated with abundant myxoid matrix and hemorrhage, creating labyrinth-like or pulmonary edema-like architecture. Myogenic differentiation with frequent ",
+      "journal": "Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",
+      "year": "2024",
+      "authors": [
+        "Momeni-Boroujeni Amir",
+        "Mullaney Kerry",
+        "DiNapoli Sara E",
+        "Leitao Mario M",
+        "Hensley Martee L"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Leiomyosarcoma",
+        "Middle Aged",
+        "Adult",
+        "Receptors, Thyroid Hormone",
+        "Receptors, Steroid",
+        "Biomarkers, Tumor",
+        "DNA-Binding Proteins",
+        "Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38508521/"
+    },
+    {
+      "pmid": "6842804",
+      "title": "Risk of breast, uterine corpus, and ovarian cancer in women receiving medroxyprogesterone injections.",
+      "abstract": "Animal studies have yielded conflicting results on the carcinogenicity of long-acting progestins. Since more than 1.5 million women worldwide are currently receiving injections of a contraceptive progestin, depot medroxyprogesterone acetate, this is potentially an important public health problem. We obtained information on the occurrence of breast, uterine, and ovarian cancer among 5,000 black women attending a metropolitan hospital's family planning clinic who had received injections of medroxyprogesterone for contraception (between 1967 and 1976). The women were followed up for four to 13 years after their initial medroxyprogesterone injection. We compared the observed number of cancer cases in these women with the expected number based on annual age-, race-, and sex-specific rates derived from National Cancer Institute data. During more than 40,000 woman-years of observation, we found no evidence of an increased risk of developing cancer of the breast, uterine corpus, or ovary in th",
+      "journal": "JAMA",
+      "year": "1983",
+      "authors": [
+        "Liang A P",
+        "Levenson A G",
+        "Layde P M",
+        "Shelton J D",
+        "Hatcher R A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Black People",
+        "Breast Neoplasms",
+        "Child",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Injections",
+        "Medroxyprogesterone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6842804/"
+    },
+    {
+      "pmid": "34625284",
+      "title": "Phase 2 study of anastrozole in rare cohorts of patients with estrogen receptor/progesterone receptor positive leiomyosarcomas and carcinosarcomas of the uterine corpus: The PARAGON trial (ANZGOG 0903).",
+      "abstract": "Aromatase inhibitors have been used empirically to treat a subset of patients with hormone receptor positive uterine leiomyosarcomas(LMS) and carcinosarcomas (UCS) mainly supported by retrospective data. We evaluated the activity of anastrozole in two rare cohorts; patients with recurrent/metastatic LMS and UCS enrolled in PARAGON, a basket trial of anastrozole in estrogen receptor (ER+)/progesterone receptor positive (PR+) gynecological cancers.",
+      "journal": "Gynecologic oncology",
+      "year": "2021",
+      "authors": [
+        "Edmondson R J",
+        "O'Connell R L",
+        "Banerjee S",
+        "Mileshkin L",
+        "Sykes P"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Anastrozole",
+        "Aromatase Inhibitors",
+        "Carcinosarcoma",
+        "Female",
+        "Humans",
+        "Leiomyosarcoma",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34625284/"
+    },
+    {
+      "pmid": "4590322",
+      "title": "Luteal phase insufficiency.",
+      "abstract": "",
+      "journal": "Clinical obstetrics and gynecology",
+      "year": "1973",
+      "authors": [
+        "Jones G S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Body Temperature",
+        "Cervix Mucus",
+        "Chorionic Gonadotropin",
+        "Contraceptives, Oral",
+        "Corpus Luteum",
+        "Endometrium",
+        "Estrogens",
+        "Female",
+        "Follicle Stimulating Hormone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4590322/"
+    },
+    {
+      "pmid": "32732107",
+      "title": "Progesterone and endometrial cancer.",
+      "abstract": "It is well established that unopposed estrogen, either endogenous or therapeutic, can induce endometrial hyperplasia and potentially endometrial cancer (EC). Anovulatory cycles, obesity, and insulin resistance are major risk factors for EC. Progestogen (progesterone and progestin), including levonorgestrel intrauterine device, are able to prevent or to treat hyperplasia, atypical hyperplasia, and even well-differentiated EC, as presented in this review. During menopausal hormone therapy, progestogens protect the endometrium against the proliferative effects of estrogens in women with a uterus. Whereas, recent epidemiologic data suggest that micronized progesterone (MP) is apparently safer for the breast, it could be less efficient than synthetic progestin on the endometrium. However, several studies from biopsies during treatment with MP do not show any increased risk of hyperplasia. Lack of compliance could explain the results on EC.",
+      "journal": "Best practice & research. Clinical obstetrics & gynaecology",
+      "year": "2020",
+      "authors": [
+        "Gompel Anne"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Endometrial Hyperplasia",
+        "Endometrial Neoplasms",
+        "Endometrium",
+        "Estrogen Replacement Therapy",
+        "Estrogens",
+        "Female",
+        "Humans",
+        "Progesterone",
+        "Progestins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32732107/"
+    },
+    {
+      "pmid": "12117397",
+      "title": "Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial.",
+      "abstract": "Despite decades of accumulated observational evidence, the balance of risks and benefits for hormone use in healthy postmenopausal women remains uncertain.",
+      "journal": "JAMA",
+      "year": "2002",
+      "authors": [
+        "Rossouw Jacques E",
+        "Anderson Garnet L",
+        "Prentice Ross L",
+        "LaCroix Andrea Z",
+        "Kooperberg Charles"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Breast Neoplasms",
+        "Clinical Trials Data Monitoring Committees",
+        "Colorectal Neoplasms",
+        "Coronary Disease",
+        "Endometrial Neoplasms",
+        "Estrogen Replacement Therapy",
+        "Estrogens, Conjugated (USP)",
+        "Female",
+        "Fractures, Bone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12117397/"
+    },
+    {
+      "pmid": "35526471",
+      "title": "Reproductive and pregnancy outcomes of fertility-sparing treatments for early-stage endometrial cancer or atypical hyperplasia: A systematic review and meta-analysis.",
+      "abstract": "To report the pregnancy outcomes of women with prior endometrial cancer and endometrial hyperplasia managed with fertility-sparing treatments.",
+      "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+      "year": "2022",
+      "authors": [
+        "De Rocco Silvia",
+        "Buca Danilo",
+        "Oronzii Ludovica",
+        "Petrillo Marco",
+        "Fanfani Francesco"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Abortion, Spontaneous",
+        "Endometrial Hyperplasia",
+        "Endometrial Neoplasms",
+        "Female",
+        "Fertility Preservation",
+        "Humans",
+        "Hyperplasia",
+        "Intrauterine Devices, Medicated",
+        "Levonorgestrel",
+        "Medroxyprogesterone Acetate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35526471/"
+    },
+    {
+      "pmid": "28394884",
+      "title": "Long-term, hormone-responsive organoid cultures of human endometrium in a chemically defined medium.",
+      "abstract": "In humans, the endometrium, the uterine mucosal lining, undergoes dynamic changes throughout the menstrual cycle and pregnancy. Despite the importance of the endometrium as the site of implantation and nutritional support for the conceptus, there are no long-term culture systems that recapitulate endometrial function in vitro. We adapted conditions used to establish human adult stem-cell-derived organoid cultures to generate three-dimensional cultures of normal and decidualized human endometrium. These organoids expand long-term, are genetically stable and differentiate following treatment with reproductive hormones. Single cells from both endometrium and decidua can generate a fully functional organoid. Transcript analysis confirmed great similarity between organoids and the primary tissue of origin. On exposure to pregnancy signals, endometrial organoids develop characteristics of early pregnancy. We also derived organoids from malignant endometrium, and so provide a foundation to st",
+      "journal": "Nature cell biology",
+      "year": "2017",
+      "authors": [
+        "Turco Margherita Y",
+        "Gardner Lucy",
+        "Hughes Jasmine",
+        "Cindrova-Davies Tereza",
+        "Gomez Maria J"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult Stem Cells",
+        "Cell Culture Techniques",
+        "Cell Differentiation",
+        "Cell Lineage",
+        "Cell Proliferation",
+        "Cells, Cultured",
+        "Culture Media",
+        "Decidua",
+        "Endometrial Neoplasms",
+        "Endometrium"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28394884/"
+    },
+    {
+      "pmid": "23303565",
+      "title": "Progesterone action in endometrial cancer, endometriosis, uterine fibroids, and breast cancer.",
+      "abstract": "Progesterone receptor (PR) mediates the actions of the ovarian steroid progesterone, which together with estradiol regulates gonadotropin secretion, prepares the endometrium for implantation, maintains pregnancy, and differentiates breast tissue. Separation of estrogen and progesterone actions in hormone-responsive tissues remains a challenge. Pathologies of the uterus and breast, including endometrial cancer, endometriosis, uterine fibroids, and breast cancer, are highly associated with estrogen, considered to be the mitogenic factor. Emerging evidence supports distinct roles of progesterone and its influence on the pathogenesis of these diseases. Progesterone antagonizes estrogen-driven growth in the endometrium, and insufficient progesterone action strikingly increases the risk of endometrial cancer. In endometriosis, eutopic and ectopic tissues do not respond sufficiently to progesterone and are considered to be progesterone-resistant, which contributes to proliferation and surviva",
+      "journal": "Endocrine reviews",
+      "year": "2013",
+      "authors": [
+        "Kim J Julie",
+        "Kurita Takeshi",
+        "Bulun Serdar E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Breast Neoplasms",
+        "Cell Differentiation",
+        "Cell Proliferation",
+        "Endometrial Neoplasms",
+        "Endometriosis",
+        "Estrogens",
+        "Female",
+        "Humans",
+        "Leiomyoma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23303565/"
+    },
+    {
+      "pmid": "36191723",
+      "title": "Regulation of progesterone receptor expression in endometriosis, endometrial cancer, and breast cancer by estrogen, polymorphisms, transcription factors, epigenetic alterations, and ubiquitin-proteasome system.",
+      "abstract": "The uterus and breasts are hormone-responsive tissues. Progesterone and estradiol regulate gonadotropin secretion, prepare the endometrium for implantation, maintain pregnancy, and regulate the differentiation of breast tissue. Dysregulation of these hormones causes endometriosis, endometrial cancer, and breast cancer, damaging the physical and mental health of women. Emerging evidence has shown that progesterone resistance or elevated progesterone activity is the primary hormonal substrate of these diseases. Since progesterone acts through its specific nuclear receptor, the abnormal expression of the progesterone receptor (PR) dysregulates progesterone function. This review discusses the regulatory mechanisms of PR expression in patients with endometriosis, and endometrial or breast cancer, including estrogen, polymorphisms, transcription factors, epigenetics, and the ubiquitin-proteasome system. (1) Estrogen promotes the expression of PRA (a PR isoform) mRNA and protein through the i",
+      "journal": "The Journal of steroid biochemistry and molecular biology",
+      "year": "2023",
+      "authors": [
+        "Pu Huijie",
+        "Wen Xiaosha",
+        "Luo DiXian",
+        "Guo Zifen"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Pregnancy",
+        "Humans",
+        "Female",
+        "Progesterone",
+        "Receptors, Progesterone",
+        "Breast Neoplasms",
+        "Proteasome Endopeptidase Complex",
+        "Endometriosis",
+        "Transcription Factors",
+        "Ubiquitin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36191723/"
+    },
+    {
+      "pmid": "30683268",
+      "title": "Endometrial Cancer: Obesity, Genetics, and Targeted Agents.",
+      "abstract": "It is imperative to understand the underlying mechanisms of both endometrial carcinogenesis and recurrence in order to develop more effective prevention and treatment. This article reviews available molecular data, the interplay between endometrial cancer carcinogenesis with obesity and genetics, as well as current targeted therapies.",
+      "journal": "Obstetrics and gynecology clinics of North America",
+      "year": "2019",
+      "authors": [
+        "McDonald Megan E",
+        "Bender David P"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Age Factors",
+        "Antineoplastic Agents, Hormonal",
+        "Biomarkers, Tumor",
+        "Endometrial Neoplasms",
+        "Female",
+        "Humans",
+        "Molecular Targeted Therapy",
+        "Obesity",
+        "Progesterone",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30683268/"
+    },
+    {
+      "pmid": "39173088",
+      "title": "Menopausal Hormone Therapy and Ovarian and Endometrial Cancers: Long-Term Follow-Up of the Women's Health Initiative Randomized Trials.",
+      "abstract": "Menopausal hormone therapy's influence on ovarian and endometrial cancers remains unsettled. Therefore, we assessed the long-term influence of conjugated equine estrogen (CEE) plus medroxyprogesterone acetate (MPA) and CEE-alone on ovarian and endometrial cancer incidence and mortality in the Women's Health Initiative randomized, placebo-controlled clinical trials.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "year": "2024",
+      "authors": [
+        "Chlebowski Rowan T",
+        "Aragaki Aaron K",
+        "Pan Kathy",
+        "Haque Reina",
+        "Rohan Thomas E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Endometrial Neoplasms",
+        "Estrogen Replacement Therapy",
+        "Estrogens, Conjugated (USP)",
+        "Follow-Up Studies",
+        "Incidence",
+        "Medroxyprogesterone Acetate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39173088/"
+    },
+    {
+      "pmid": "24405633",
+      "title": "Endometrial progesterone resistance and PCOS.",
+      "abstract": "Polycystic ovary syndrome (PCOS) is a state of altered steroid hormone production and activity. Chronic estrogen exposure or lack of progesterone due to ovarian dysfunction can result in endometrial hyperplasia and carcinoma. A key contributor to our understanding of progesterone as a critical regulator for normal uterine function has been the elucidation of progesterone receptor (PR) expression, regulation, and signaling pathways. Several human studies indicate that PR-mediated signaling pathways in the nucleus are associated with progesterone resistance in women with PCOS. The aim of this review is to provide an overview of endometrial progesterone resistance in women with PCOS; to present the PR structure, its different isoforms, and their expression in the endometrium; to illustrate the possible regulation of PR and PR-mediated signaling in progesterone resistance in women with PCOS; and to discuss current clinical treatments for atypical endometrial hyperplasia and endometrial car",
+      "journal": "Journal of biomedical science",
+      "year": "2014",
+      "authors": [
+        "Li Xin",
+        "Feng Yi",
+        "Lin Jin-Fang",
+        "Billig Håkan",
+        "Shao Ruijin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Endometrial Hyperplasia",
+        "Endometrial Neoplasms",
+        "Endometrium",
+        "Female",
+        "Gene Expression Regulation",
+        "Humans",
+        "Polycystic Ovary Syndrome",
+        "Progesterone",
+        "Signal Transduction",
+        "Uterine Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24405633/"
+    },
+    {
+      "pmid": "40138919",
+      "title": "Excess heme orchestrates progesterone resistance in uterine endometrial cancer through macrophage polarization and the IL-33/PAX8/PGR axis.",
+      "abstract": "Progesterone is an important drug for hormone therapy in uterine endometrial cancer (UEC). However, the therapeutic efficacy of progestogen is often limited by resistance, and the underlying mechanism remains unknown. In this study, we observed heme metabolism is more active in progesterone-insensitive patients. Heme induced macrophages (Mφs) bias towards M2-like phenotype and downregulated the expression of IL-33, resulting in increased levels of Paired box gene 8 (PAX8). Further study showed PAX8 inhibited the transcriptional activity of PGR by binding to the PGR promoter region. In addition, PGR can also act as a transcriptional factor to regulate the transcription of autophagy-related gene 7 (ATG). Low expression of PGR decreases the transcriptional activity of ATG7 promoter, which decreases cell autophagy and promotes the progression of UEC. Overall, this study reveals the important interaction between heme metabolism, IL-33 and PGR in progesterone-insensitive UEC, and is promisin",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "year": "2025",
+      "authors": [
+        "Lu Jia-Jing",
+        "Ning Yan",
+        "Hu Wen-Ting",
+        "Sheng Yan-Ran",
+        "Liu Yu-Kai"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Macrophages",
+        "Heme",
+        "Interleukin-33",
+        "Progesterone",
+        "Endometrial Neoplasms",
+        "Receptors, Progesterone",
+        "Drug Resistance, Neoplasm",
+        "Cell Line, Tumor"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40138919/"
+    },
+    {
+      "pmid": "37108154",
+      "title": "Progesterone Resistance in Endometriosis: Current Evidence and Putative Mechanisms.",
+      "abstract": "Endometriosis is an estrogen-dependent disease characterized by the growth of endometrial-like tissue outside the uterus. Progestins are currently the most commonly used treatment for endometriosis because of their excellent therapeutic effects and limited side effects. However, progestins have been unsuccessful in some symptomatic patients. The inability of the endometrium to respond properly to progesterone is known as progesterone resistance. An increasing body of evidence suggests the loss of progesterone signaling and the existence of progesterone resistance in endometriosis. The mechanisms of progesterone resistance have received considerable scholarly attention in recent years. Abnormal PGR signaling, chronic inflammation, aberrant gene expression, epigenetic alterations, and environmental toxins are considered potential molecular causes of progesterone resistance in endometriosis. The general objective of this review was to summarize the evidence and mechanisms of progesterone ",
+      "journal": "International journal of molecular sciences",
+      "year": "2023",
+      "authors": [
+        "Zhang Ping",
+        "Wang Guoyun"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Endometriosis",
+        "Progestins",
+        "Progesterone",
+        "Receptors, Progesterone",
+        "Female",
+        "Humans",
+        "Endometrium",
+        "Uterine Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37108154/"
+    },
+    {
+      "pmid": "31387263",
+      "title": "Progesterone and Estrogen Signaling in the Endometrium: What Goes Wrong in Endometriosis?",
+      "abstract": "In the healthy endometrium, progesterone and estrogen signaling coordinate in a tightly regulated, dynamic interplay to drive a normal menstrual cycle and promote an embryo-receptive state to allow implantation during the window of receptivity. It is well-established that progesterone and estrogen act primarily through their cognate receptors to set off cascades of signaling pathways and enact large-scale gene expression programs. In endometriosis, when endometrial tissue grows outside the uterine cavity, progesterone and estrogen signaling are disrupted, commonly resulting in progesterone resistance and estrogen dominance. This hormone imbalance leads to heightened inflammation and may also increase the pelvic pain of the disease and decrease endometrial receptivity to embryo implantation. This review focuses on the molecular mechanisms governing progesterone and estrogen signaling supporting endometrial function and how they become dysregulated in endometriosis. Understanding how the",
+      "journal": "International journal of molecular sciences",
+      "year": "2019",
+      "authors": [
+        "Marquardt Ryan M",
+        "Kim Tae Hoon",
+        "Shin Jung-Ho",
+        "Jeong Jae-Wook"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Endometriosis",
+        "Endometrium",
+        "Estrogens",
+        "Female",
+        "Hormones",
+        "Humans",
+        "Infertility, Female",
+        "Progesterone",
+        "Receptors, Estrogen"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31387263/"
+    }
+  ]
+}

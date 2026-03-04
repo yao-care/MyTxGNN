@@ -1,0 +1,1057 @@
+{
+  "drug": "Famotidine",
+  "drugbank_id": "DB00927",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:31:16Z",
+  "indications": [
+    {
+      "indication": "hyperinsulinism",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "esophagitis",
+      "evidence_level": "L1",
+      "trials": 3,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 3,
+        "review_articles": 5,
+        "other_articles": 2,
+        "total_trials": 3,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "gastric ulcer",
+      "evidence_level": "L1",
+      "trials": 14,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 10,
+        "rct_articles": 5,
+        "review_articles": 1,
+        "other_articles": 4,
+        "total_trials": 14,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "gastrin secretion abnormality",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "duodenal ulcer",
+      "evidence_level": "L1",
+      "trials": 13,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 9,
+        "rct_articles": 4,
+        "review_articles": 4,
+        "other_articles": 2,
+        "total_trials": 13,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 30,
+  "total_articles": 30,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01499368",
+      "title": "A Multi-center, Randomized, Double-blind Phase III Clinical Trial to Assess and Compare to the Efficacy and Safety of Lafutidine, Famotidine and Omeprazole-referenced in Koran Erosive Esophagitis Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-11",
+      "country": "N/A",
+      "enrollment": 495,
+      "brief_summary": "To evaluate the healing rate and safety of Lafutidine in erosive esophagitis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who had symptoms of heartburn with a diagnosis of grade A to D reflux esophagitis according to the Los Angeles classification\n\nExclusion Criteria:\n\n* Gastric or duodenal ulcers (excluding ulcer scars)\n* Concurrent presence of Barrett's esophagus\n* A history of a poor ",
+      "endpoints": [
+        "Recovery Rates of Reflux Esophagitis"
+      ],
+      "sponsor": "Boryung Pharmaceutical Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01499368"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04248712",
+      "title": "A Phase II, Randomized, Placebo-controlled Study Evaluating the Efficacy of Antihistamines in the Treatment of Eosinophilic Esophagitis (the ATEE Study)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2020-07-10",
+      "completion_date": "2021-12-31",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "Researchers are assessing the safety and effectiveness of antihistamines in the treatment of eosinophilic esophagitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients over the age of 18, male and female.\n* Patients who carry the diagnosis of Eosinophilic Esophagitis (EoE) based on esophageal biopsies obtained within 6 months prior to enrollment (\\>15 eosinophils per hpf on at least 2 esophageal levels)\n* Subjects must be able to gi",
+      "endpoints": [
+        "Adverse Events",
+        "Change in Maximum Eosinophil Count"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT04248712"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00229424",
+      "title": "Verification Study on Lafutidine in Mild Reflux Oesophagitis - Double Blind Controlled Study With Famotidine -",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2007-01",
+      "country": "Japan",
+      "enrollment": 325,
+      "brief_summary": "The purpose of the study is to verify superiority of the lafutidine group over the placebo group and non-inferiority to the famotidine group in terms of endoscopic healing rate of the patients with mild reflux oesophagitis.\n\nFurthermore, the followings are compared:\n\nThe improvement effect in heartburn and other subjective symptoms, and dosing frequency of MALFA ® suspension (neutralizer) as well as incidence of adverse events among the lafutidine 20 mg/day treatment group, the famotidine 40 mg/",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 20 and over (at the time of consent given)\n* Gender and inpatient or outpatient: Irrelevant\n* Patients diagnosed with Grade A or Grade B mild reflux oesophagitis (according to the Los Angels classification) through endoscopic test\n* Patients who complained about \"heartburn",
+      "endpoints": [
+        "Endoscopic healing rate"
+      ],
+      "sponsor": "Taiho Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00229424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03667703",
+      "title": "Stress Ulcer Prophylaxis Versus Placebo - a Blinded Randomized Control Trial to Evaluate the Safety of Two Strategies in Critically Ill Infants With Congenital Heart Disease",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-03-10",
+      "completion_date": "2022-06-30",
+      "country": "United States",
+      "enrollment": 70,
+      "brief_summary": "Infants with congenital heart disease often require an intervention during their first year of life. Infants are generally admitted to a cardiac intensive care unit and are routinely prescribed stress ulcer prophylaxis to decrease acid release from the stomach to prevent stress ulcer formation. However, these medicines may not be safe and could put infants at increased risk for hospital-acquired infections, necrotizing enterocolitis and alteration to the infant's microbiome. The investigators pl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. \\< 12 months of age (including premature newborns),\n2. diagnosed with congenital heart disease (including anatomic, myopathic and arrhythmic conditions),\n3. received ≤ 1 dose of SUP (including histamine-2 receptor antagonists, proton pump inhibitors, and sucralfate) during cu",
+      "endpoints": [
+        "Predefined Feasibility Outcomes to Assess Trial Success",
+        "Rate of upper gastrointestinal bleeds"
+      ],
+      "sponsor": "Boston Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03667703"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00450216",
+      "title": "A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 in Subjects Requiring NSAID Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2008-10",
+      "country": "N/A",
+      "enrollment": 906,
+      "brief_summary": "The purpose of this study is to evaluate whether HZT-501 is effective in reducing the rate of development of ibuprofen-associated ulcers in patients who require long-term daily use of ibuprofen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Expected to require daily administration of an NSAID for at least the coming six months for conditions such as osteoarthritis, rheumatoid arthritis, chronic low back pain, chronic regional pain syndrome, and chronic soft tissue pain.\n* Did not use a NSAID within the 30 days pr",
+      "endpoints": [
+        "Number of Participants Who Develop Endoscopically-diagnosed Gastric Ulcers"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00450216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02418312",
+      "title": "Efficacy of H2 Receptor Antagonist in Prevention of Thienopyridine-related Peptic Ulcer",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2017-10",
+      "country": "Taiwan",
+      "enrollment": 228,
+      "brief_summary": "Whether H2 receptor antagonist can prevent thienopyridine-related peptic ulcer remains unclear.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The past history of gastroduodenal ulcer and underwent endoscopy for dyspeptic symptoms.\n2. thienopyridine users without baseline gastroduodenal ulcer at initial endoscopy.\n3. They are adult patients aged least 20 years of age.\n\nExclusion Criteria:\n\n1. They have a history of ",
+      "endpoints": [
+        "Number of Participants With Healed Peptic Ulcer"
+      ],
+      "sponsor": "Kaohsiung Veterans General Hospital.",
+      "url": "https://clinicaltrials.gov/study/NCT02418312"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00450658",
+      "title": "A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 in Subjects Requiring NSAID Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2008-10",
+      "country": "N/A",
+      "enrollment": 627,
+      "brief_summary": "The purpose of this study is to evaluate whether HZT-501 is effective in reducing the rate of development of ibuprofen-associated ulcers in patients who require long-term daily use of ibuprofen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Expected to require daily administration of a nonsteroidal anti-inflammatory drug (NSAID) for at least the coming six months for conditions such as osteoarthritis, rheumatoid arthritis, chronic low back pain, chronic regional pain syndrome, and chronic soft tissue pain.\n* Did ",
+      "endpoints": [
+        "Number of Subjects Who Develop Endoscopically-diagnosed Upper Gastrointestinal Ulcers Confirmed by Endoscopy."
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00450658"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04123899",
+      "title": "An Open-Label, Randomized, Two-sequence, Two-period, Fasting Condition, Single Oral Dose, Cross-over Study of Bioequivalence of \"Gaster®D Tab20mg (Famotidine) (Changed Manufacturer)\" and \"Gaster®D Tab 20mg (Famotidine) (Unchanged Manufacturer, Announced Reference Drug)\" in Healthy, Adult, Human Subjects",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-10-11",
+      "completion_date": "2020-01-03",
+      "country": "N/A",
+      "enrollment": 32,
+      "brief_summary": "An Open-Label, Randomized, Two-sequence, Two-period, Fasting Condition, Single Oral Dose, Cross-over Study of Bioequivalence of \"Gaster®D Tab20mg (Famotidine) (Changed Manufacturer)\" and \"Gaster®D Tab 20mg (Famotidine) (Unchanged Manufacturer, Announced Reference Drug)\" in Healthy, Adult, Human Subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. A person who aged 19 or older at the time of screening\n2. No congenital or chronic diseases or pathological symptoms on screening\n3. A person who is judged to be suitable for the study by the investigator based on the clinical laboratory examination\n4. BMI of 18 to 30 (BMI ca",
+      "endpoints": [
+        "AUClast",
+        "Cmax"
+      ],
+      "sponsor": "Dong-A ST Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04123899"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02551744",
+      "title": "Pantoprazole Versus Famotidine for the Prevention of Recurrent Peptic Ulcers in Thienopyridine Users - a Double-blind Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2018-07",
+      "country": "Taiwan",
+      "enrollment": 101,
+      "brief_summary": "Whether pantoprazole versus famotidine for the prevention of recurrent peptic ulcers in thienopyridine users remains unclear.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Recent endoscopic examination (within 2 months) reveals normal appearance or erythematous patches only (without subepithelial hemorrhages, erosions or ulcers).\n* Peptic ulcers (a mucosal break ³ 5 mm in diameter) have been documented by a previous endoscopic examination.\n* Sub",
+      "endpoints": [
+        "Number of Participants With Ulcer Recurrence"
+      ],
+      "sponsor": "Kaohsiung Veterans General Hospital.",
+      "url": "https://clinicaltrials.gov/study/NCT02551744"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00843063",
+      "title": "Famotidine vs. Pantoprazole to Prevent Recurrent Aspirin-Induced Peptic Ulcer/Erosion - a Randomized Controlled Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2008-12",
+      "country": "China",
+      "enrollment": 161,
+      "brief_summary": "Low-dose aspirin can prevent cerebral and cardiovascular accidents in individuals with symptomatic atherothrombotic disease, but its use is frequently limited by gastrointestinal side effects.\n\nThe position of H2-receptor antagonists as a step-down therapy after healing of peptic ulcer or erosions by proton pump inhibitor is unclear.\n\nThe objective of this randomized, double blinded control study was to compare the efficacy of high-dose famotidine with pantoprazole in the prevention of recurrent",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* upper GIB or dyspepsia due to peptic ulcers / erosions while receiving low-dose aspirin with a daily dose ranging from 80 mg to 320 mg\n* endoscopy revealed a gastric or duodenal ulcers of 3 mm or more in diameter with unequivocal depth, or more than 5 erosions in the stomach o",
+      "endpoints": [
+        "The primary end-point was the recurrence of dyspeptic or complicated ulcer / erosions."
+      ],
+      "sponsor": "Ruttonjee Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00843063"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00978159",
+      "title": "Esomeprazole or Famotidine in the Management of Aspirin Related Non-ulcer Dyspepsia - a Double Blind Randomized Control Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2009-09",
+      "completion_date": "2013-12",
+      "country": "China",
+      "enrollment": 128,
+      "brief_summary": "Aspirin can prevent ischemic vascular disease but is commonly complicated by dyspepsia in 30% of patients. Patients, who have aspirin related dyspepsia, commonly underwent upper endoscopy to exclude peptic ulcer disease or gastric cancers. For those without significant lesions in the stomach and duodenum (non-ulcer dyspepsia), the best approach in the management is unclear. The objective of this study is to compare the efficacy of esomeprazole and famotidine in the control of dyspeptic symptom. ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* at least moderate pain or discomfort (or both) centered in the upper abdomen as their predominant symptoms for 7 days before randomization; taking low dose aspirin (80-300 mg daily),and insignificant upper endoscopic finding. At least moderate pain or discomfort is defined if ",
+      "endpoints": [
+        "Treatment success : The HKDI is less than 16. Treatment was considered to have failed if a patient had taken medication for dyspepsia (other than antacids) during the study period"
+      ],
+      "sponsor": "Ruttonjee Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00978159"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00839488",
+      "title": "Comparison of Intravenous Pantoprazole and Famotidine for Stress Ulcer Prophylaxis in Patients After Major Abdominal Surgery",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2008-04",
+      "completion_date": "2009-04",
+      "country": "Taiwan",
+      "enrollment": 6,
+      "brief_summary": "Although stress ulcer is a complication that can cause significant mortality and morbidity in critical patients with risk factors, there is still lack of consensus about its prophylaxis. There are also few data available from Taiwan. H2 blockers are commonly used due to convenience. Some prefer sucralfate (a mucosal protective agent) for the sake of less association with nosocomial pneumonia. Recently, proton pump inhibitors were shown to have good prophylactic effects for stress ulcer. Pantopra",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* those recieved major abdominal surgery (estimated admission to sirgical ICU more than 7 days); give written consent and was randomized within 24 hours of admission\n\nExclusion Criteria:\n\n* age less than 18 y/o; pregnant; allergy to famotidine or pantoprazole; have had GI bleedi",
+      "endpoints": [
+        "apparant upper gastrointestinal bleeding"
+      ],
+      "sponsor": "Far Eastern Memorial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00839488"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00633035",
+      "title": "Comparison of Esomeprazole and Famotidine for Stress Ulcer Prophylaxis in Neurosurgical Intensive Care Unit",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2010-04",
+      "country": "Taiwan",
+      "enrollment": 60,
+      "brief_summary": "Although stress ulcer is a complication that can cause mortality and morbidity in critical patients, there is still lack of consensus about its prophylaxis. There is also few data available from Taiwan. H2 blockers are commonly used due to convenience. Some prefer sucralfate (a mucosal protective agent) for the sake of less associated nosocomial pneumonia. Recently, proton pump inhibitors were shown to have good prophylactic effects for stress ulcer. Esomeprazole, an isoform of omeprazole, has g",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Within 24 hours of admission to Neurosurgical ICU after neurosurgery with ventilator support\n\nExclusion Criteria:\n\n* Less than 18 y/o;\n* Pregnancy;\n* Not suitable for medication from NG route,\n* Had GI bleeding at admission to ICU",
+      "endpoints": [
+        "UGI bleeding: hematemesis or much coffee ground substance (> 60 ml) from NG, tarry stool, decrease of Hb more than 2g/dl and endoscopic proof of bleeder"
+      ],
+      "sponsor": "Far Eastern Memorial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00633035"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00153673",
+      "title": "Phase III Study of a Double-Blind Randomized Comparison of Famotidine Plus Celecoxib Versus Dologesics for Gastric Ulcer Healing in Arthritis Patients (NSAID#5A Study)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-02",
+      "completion_date": "2017-04-12",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "The purpose of this study is to compare the effect of Famotidine plus a COX-2 inhibitor (celecoxib) with Famotidine plus dologesics in ulcer healing in arthritis patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Gastric ulcers confirmed by endoscopy\n* Stop taking NSAIDs for 1 week prior to endoscopy\n* Age 18\n* H. pylori negative\n* Informed written consent\n\nExclusion Criteria:\n\n* Actively bleeding ulcers\n* Ulcers showing dysplasia or malignancy\n* Renal failure (serum creatinine \\>200um",
+      "endpoints": [
+        "ulcer healing"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT00153673"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00557349",
+      "title": "A Randomized, Double-blind Clinical Trial Comparing Zegerid Capsule to Famotidine in Preventing Anastomotic (Marginal) Ulcers in Post Gastric Bypass Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2008-03",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This research is to determine which medication, Zegerid (Omeprazole/Sodium Bicarbonate) or Pepcid AC (Famotidine), works best at reducing the chance that a patient will get an ulcer after gastric bypass surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is age ≥ 18 years\n* Patient meets the criteria for laparoscopic gastric bypass surgery\n* Females only: Patient is willing to take a urine pregnancy test\n\nExclusion Criteria:\n\n* Subject allergic to omeprazole or famotidine\n* Patient receiving antifungal (i.e. ketoconazo",
+      "endpoints": [
+        "Number of Participants With Complaints, Specifically About Pain, Vomiting, Dyspepsia, and/or Dysphagia."
+      ],
+      "sponsor": "University of Missouri-Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT00557349"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00229424",
+      "title": "Verification Study on Lafutidine in Mild Reflux Oesophagitis - Double Blind Controlled Study With Famotidine -",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2007-01",
+      "country": "Japan",
+      "enrollment": 325,
+      "brief_summary": "The purpose of the study is to verify superiority of the lafutidine group over the placebo group and non-inferiority to the famotidine group in terms of endoscopic healing rate of the patients with mild reflux oesophagitis.\n\nFurthermore, the followings are compared:\n\nThe improvement effect in heartburn and other subjective symptoms, and dosing frequency of MALFA ® suspension (neutralizer) as well as incidence of adverse events among the lafutidine 20 mg/day treatment group, the famotidine 40 mg/",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 20 and over (at the time of consent given)\n* Gender and inpatient or outpatient: Irrelevant\n* Patients diagnosed with Grade A or Grade B mild reflux oesophagitis (according to the Los Angels classification) through endoscopic test\n* Patients who complained about \"heartburn",
+      "endpoints": [
+        "Endoscopic healing rate"
+      ],
+      "sponsor": "Taiho Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00229424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01180179",
+      "title": "Prevention of Recurrent Idiopathic Gastroduodenal Ulcer Bleeding: a Double-blind Randomized Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2019-05",
+      "country": "China",
+      "enrollment": 228,
+      "brief_summary": "The aim of this study is to compare the efficacy of a proton pump inhibitor (lansoprazole) and a histamine-2 receptor antagonist (famotidine) in preventing recurrent ulcer bleeding in patients with a history of H. pylori-negative idiopathic peptic ulcers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. A history of H. pylori-negative idiopathic peptic ulcers, defined as\n\n   1. No exposure to aspirin, NSAIDs or drugs of unknown nature including traditional Chinese medicine within the 4 weeks before hospitalization;\n   2. Biopsies taken during endoscopy must be negative for b",
+      "endpoints": [
+        "Recurrent ulcer bleeding"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT01180179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03667703",
+      "title": "Stress Ulcer Prophylaxis Versus Placebo - a Blinded Randomized Control Trial to Evaluate the Safety of Two Strategies in Critically Ill Infants With Congenital Heart Disease",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-03-10",
+      "completion_date": "2022-06-30",
+      "country": "United States",
+      "enrollment": 70,
+      "brief_summary": "Infants with congenital heart disease often require an intervention during their first year of life. Infants are generally admitted to a cardiac intensive care unit and are routinely prescribed stress ulcer prophylaxis to decrease acid release from the stomach to prevent stress ulcer formation. However, these medicines may not be safe and could put infants at increased risk for hospital-acquired infections, necrotizing enterocolitis and alteration to the infant's microbiome. The investigators pl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. \\< 12 months of age (including premature newborns),\n2. diagnosed with congenital heart disease (including anatomic, myopathic and arrhythmic conditions),\n3. received ≤ 1 dose of SUP (including histamine-2 receptor antagonists, proton pump inhibitors, and sucralfate) during cu",
+      "endpoints": [
+        "Predefined Feasibility Outcomes to Assess Trial Success",
+        "Rate of upper gastrointestinal bleeds"
+      ],
+      "sponsor": "Boston Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03667703"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00450216",
+      "title": "A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 in Subjects Requiring NSAID Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2008-10",
+      "country": "N/A",
+      "enrollment": 906,
+      "brief_summary": "The purpose of this study is to evaluate whether HZT-501 is effective in reducing the rate of development of ibuprofen-associated ulcers in patients who require long-term daily use of ibuprofen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Expected to require daily administration of an NSAID for at least the coming six months for conditions such as osteoarthritis, rheumatoid arthritis, chronic low back pain, chronic regional pain syndrome, and chronic soft tissue pain.\n* Did not use a NSAID within the 30 days pr",
+      "endpoints": [
+        "Number of Participants Who Develop Endoscopically-diagnosed Gastric Ulcers"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00450216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02418312",
+      "title": "Efficacy of H2 Receptor Antagonist in Prevention of Thienopyridine-related Peptic Ulcer",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2017-10",
+      "country": "Taiwan",
+      "enrollment": 228,
+      "brief_summary": "Whether H2 receptor antagonist can prevent thienopyridine-related peptic ulcer remains unclear.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The past history of gastroduodenal ulcer and underwent endoscopy for dyspeptic symptoms.\n2. thienopyridine users without baseline gastroduodenal ulcer at initial endoscopy.\n3. They are adult patients aged least 20 years of age.\n\nExclusion Criteria:\n\n1. They have a history of ",
+      "endpoints": [
+        "Number of Participants With Healed Peptic Ulcer"
+      ],
+      "sponsor": "Kaohsiung Veterans General Hospital.",
+      "url": "https://clinicaltrials.gov/study/NCT02418312"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "9506245",
+      "title": "Rabeprazole.",
+      "abstract": "Rabeprazole is a proton pump inhibitor with antisecretory properties. In vitro animal experiments have indicated that the inhibition of the proton pump by rabeprazole is partially reversible. Rabeprazole has 2- to 10-fold greater antisecretory activity than omeprazole in vitro. However, it dissociates more readily from H+,K(+)-ATPase than omeprazole, resulting in a shorter duration of action. In comparative clinical trials rabeprazole was significantly more effective than placebo, famotidine or ranitidine and as effective as omeprazole in the treatment of patients with erosive or ulcerative gastro-oesophageal reflux disease or gastric or duodenal ulcers. Healing rates with rabeprazole were independent of Helicobacter pylori status. Rabeprazole in combination with either clarithromycin and metronidazole or clarithromycin and amoxicillin or amoxicillin and metronidazole or clarithromycin for 7 days produced eradication of H. pylori in 100, 95, 90 and 63% of patients. The tolerability pro",
+      "journal": "Drugs",
+      "year": "1998",
+      "authors": [
+        "Prakash A",
+        "Faulds D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "2-Pyridinylmethylsulfinylbenzimidazoles",
+        "Anti-Ulcer Agents",
+        "Benzimidazoles",
+        "Clinical Trials as Topic",
+        "Enzyme Inhibitors",
+        "Helicobacter Infections",
+        "Humans",
+        "Omeprazole",
+        "Peptic Ulcer",
+        "Proton Pump Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9506245/"
+    },
+    {
+      "pmid": "38610738",
+      "title": "Proton Pump Inhibitors and Cancer Risk: A Comprehensive Review of Epidemiological and Mechanistic Evidence.",
+      "abstract": "Background: Proton pump inhibitors (PPIs) are commonly prescribed long-acting drugs used to treat acid reflux, gastroesophageal reflux disease (GERD), and peptic ulcers. Recently, concerns have been raised about their safety, particularly due to the association between long-term PPI use and cancer development. Multiple comprehensive studies have consistently suggested a noteworthy link between prolonged PPI usage and an increased risk of developing gastric, esophageal, colorectal, and pancreatic cancers, yet the precise underlying mechanism remains elusive. Methods: First, we review the extensive body of research that investigates the intricate relationship between cancer and PPIs. Then, we predict PPI toxicity using the prodrug structures with the ProTox-II webserver. Finally, we predict the relative risk of cancer for each PPI, using PubMed citation counts of each drug and keywords related to cancer. Results: Our review indicates that prolonged PPI use (exceeding three months) is sig",
+      "journal": "Journal of clinical medicine",
+      "year": "2024",
+      "authors": [
+        "Sawaid Ibrahim O",
+        "Samson Abraham O"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38610738/"
+    },
+    {
+      "pmid": "12167115",
+      "title": "Randomized comparative study of omeprazole and famotidine in reflux esophagitis.",
+      "abstract": "Although proton pump inhibitors (PPI) and H2-receptor antagonists (H2-RA) are routinely used in the treatment of reflux esophagitis (RE), no consensus has been reached yet as to whether the first-choice drug should be PPI or H2-RA. In this study, the effects of omeprazole (OMP) and famotidine (FAM) on RE have been examined in a randomized comparative study.",
+      "journal": "Journal of gastroenterology and hepatology",
+      "year": "2002",
+      "authors": [
+        "Kawano Sunao",
+        "Murata Hiroaki",
+        "Tsuji Shingo",
+        "Kubo Mitsuhiko",
+        "Tatsuta Masaharu"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Evaluation Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Drug Evaluation",
+        "Enzyme Inhibitors",
+        "Esophagitis, Peptic",
+        "Esophagoscopy",
+        "Famotidine",
+        "Female",
+        "Gastroesophageal Reflux",
+        "Histamine H2 Antagonists",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12167115/"
+    },
+    {
+      "pmid": "15683433",
+      "title": "Comparative study of nizatidine and famotidine for maintenance therapy of erosive esophagitis.",
+      "abstract": "The therapeutic effect of combined administration of prokinetics and histamine H2 receptor antagonists (H2RA) in gastroesophageal reflux disease is reported to be superior to that of monotherapy with H2RA alone. In addition to its acid-suppressing effect, the H2RA nizatidine also has a prokinetic action by suppressing acetylcholine esterase. The present multicenter, randomized controlled study was performed to investigate whether nizatidine is superior to famotidine, which does not suppress acetylcholine esterase activity, in maintenance therapy for erosive esophagitis. In addition, the question as to whether the grade of erosive esophagitis affects the non-recurrence rate during the maintenance therapy with H2RA was also investigated.",
+      "journal": "Journal of gastroenterology and hepatology",
+      "year": "2005",
+      "authors": [
+        "Hamamoto Naoharu",
+        "Hashimoto Tomoyuki",
+        "Adachi Kyoichi",
+        "Hirakawa Kazuya",
+        "Ishihara Shunji"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Esophagitis, Peptic",
+        "Esophagoscopy",
+        "Famotidine",
+        "Female",
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15683433/"
+    },
+    {
+      "pmid": "8853932",
+      "title": "Pharmacokinetics and pharmacodynamics of famotidine in paediatric patients.",
+      "abstract": "Famotidine, an H2 receptor antagonist, has several potential advantages over cimetidine and ranitidine. These advantages include its potency, relatively longer elimination half-life, and lack of interaction with the cytochrome P450 isoforms. Eight studies addressing the use of famotidine in paediatric patients have been published. Data from these studies demonstrate that the pharmacokinetics and pharmacodynamics of intravenous famotidine appear to be similar in both children over the age of 1 year and adults. These data support a starting paediatric dosage for intravenous famotidine of 0.5 mg/kg every 8 to 12 hours. In addition, the safety and efficacy of famotidine in the treatment of peptic ulcer disease and esophagitis in paediatric patients is supported by these studies involving over 150 children. Future studies with famotidine in paediatrics should address its disposition in children under the age of 1 year and in children with compromised renal function, as well as the bioavaila",
+      "journal": "Clinical pharmacokinetics",
+      "year": "1996",
+      "authors": [
+        "James L P",
+        "Kearns G L"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Anti-Ulcer Agents",
+        "Child",
+        "Child, Preschool",
+        "Famotidine",
+        "Gastric Acid",
+        "Gastric Mucosa",
+        "Half-Life",
+        "Histamine H2 Antagonists"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8853932/"
+    },
+    {
+      "pmid": "20632193",
+      "title": "A double-blind, controlled study comparing lafutidine with placebo and famotidine in Japanese patients with mild reflux esophagitis.",
+      "abstract": "This randomized, double-blind, controlled study examined whether lafutidine is superior to placebo and non-inferior to famotidine in terms of healing rates as assessed by endoscopy in Japanese patients with mild reflux esophagitis. Safety and improvement in symptoms of heartburn were also assessed.",
+      "journal": "Journal of gastroenterology",
+      "year": "2010",
+      "authors": [
+        "Ohara Shuichi",
+        "Haruma Ken",
+        "Kinoshita Yoshikazu",
+        "Kusano Motoyasu"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Acetamides",
+        "Double-Blind Method",
+        "Esophagitis, Peptic",
+        "Esophagoscopy",
+        "Famotidine",
+        "Female",
+        "Heartburn",
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Japan"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20632193/"
+    },
+    {
+      "pmid": "2573505",
+      "title": "Famotidine. An updated review of its pharmacodynamic and pharmacokinetic properties, and therapeutic use in peptic ulcer disease and other allied diseases.",
+      "abstract": "Famotidine is a highly selective histamine H2-receptor antagonist. In healthy volunteers and patients with acid hypersecretory disease it is approximately 20 to 50 times more potent at inhibiting gastric acid secretion than cimetidine and 8 times more potent than ranitidine on a weight basis. As shown in placebo-controlled trials, famotidine is effective in healing both duodenal and gastric ulcers. Famotidine 20mg twice daily or 40mg at bedtime achieves healing rates and symptom relief similar or superior to those achieved by cimetidine 800mg daily or ranitidine 300mg daily in patients with peptic ulcer disease. Results of 1 placebo-controlled study suggest that famotidine prevents recurrence of duodenal ulcer, but comparative trials are needed to establish its relative efficacy in maintenance therapy. The few non-comparative trials conducted to date also suggest that famotidine 10 to 20mg twice daily may be effective in the treatment of gastritis and reflux gastro-oesophagitis. In com",
+      "journal": "Drugs",
+      "year": "1989",
+      "authors": [
+        "Langtry H D",
+        "Grant S M",
+        "Goa K L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Famotidine",
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Peptic Ulcer"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2573505/"
+    },
+    {
+      "pmid": "8172144",
+      "title": "Comparison of omeprazole and famotidine on esophageal pH in patients with moderate to severe esophagitis: a cross-over study.",
+      "abstract": "This open cross-over study compared the effects on esophageal pH of omeprazole (O) (20 mg once a day) and famotidine (F) (40 mg b.i.d.) in 19 patients with proven acid gastroesophageal reflux (GER) complicated by erosive or ulcerated esophagitis.",
+      "journal": "The American journal of gastroenterology",
+      "year": "1994",
+      "authors": [
+        "Ducrotté P",
+        "Guillemot F",
+        "Elouaer-Blanc L",
+        "Hirschauer C",
+        "Thorel J M"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Esophagitis",
+        "Esophagus",
+        "Famotidine",
+        "Female",
+        "Gastric Acid",
+        "Gastroesophageal Reflux",
+        "Humans",
+        "Hydrogen-Ion Concentration"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8172144/"
+    },
+    {
+      "pmid": "26176290",
+      "title": "Histamine-2 Receptor Antagonists and Semen Quality.",
+      "abstract": "Histamine-2 receptor antagonists are a class of drugs used to treat the acid-related gastrointestinal diseases such as ulcer and gastro-oesophageal reflux disease. Although such drugs, especially ranitidine and famotidine, are still widely used, their effects on semen quality, and hence on male infertility, is still unclear. This MiniReview systematically addresses and summarizes the effect of histamine-2 receptor antagonists (cimetidine, ranitidine, nizatidine and famotidine) on semen quality, particularly, on sperm function. Cimetidine appears to have adverse effects on semen quality. While the effects of ranitidine and nizatidine on semen quality are still controversial, famotidine does not appear to change semen quality. Therefore, additional studies will be required to clarify whether histamine-2 receptor-independent effects of these drugs play a role in semen quality as well as further clinical studies including direct comparison of the histamine-2 receptor antagonists.",
+      "journal": "Basic & clinical pharmacology & toxicology",
+      "year": "2016",
+      "authors": [
+        "Banihani Saleem A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Infertility, Male",
+        "Male",
+        "Receptors, Histamine H2",
+        "Sperm Count",
+        "Sperm Motility",
+        "Spermatozoa"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26176290/"
+    },
+    {
+      "pmid": "19280112",
+      "title": "Comparison of the effects of omeprazole and famotidine in treatment of upper abdominal symptoms in patients with reflux esophagitis.",
+      "abstract": "The purpose of this study was to compare the efficacy of proton pump inhibitor (PPI) with H(2) receptor antagonist (H(2)RA) in treatment of upper abdominal symptoms.",
+      "journal": "Journal of gastroenterology",
+      "year": "2009",
+      "authors": [
+        "Kusunoki Hiroaki",
+        "Kusaka Masayasu",
+        "Kido Soichiro",
+        "Yamauchi Ryo",
+        "Fujimura Yoshinori"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Anti-Ulcer Agents",
+        "Esophagitis, Peptic",
+        "Famotidine",
+        "Female",
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19280112/"
+    },
+    {
+      "pmid": "7594320",
+      "title": "Gastric ulcer healing and basic fibroblast growth factor: effects of lansoprazole and famotidine.",
+      "abstract": "We examined the effects of lansoprazole and famotidine on gastric basic fibroblast growth factor (bFGF) levels and ulcer healing in patients with gastric ulcer. Sixteen patients with active gastric ulcer were divided into two groups and received treatment with lansoprazole 30 mg/day or famotidine 40 mg/day. They were examined endoscopically at 2, 4, and 8 weeks to measure gastric bFGF levels at the ulcer margin and to assess ulcer healing. Helicobacter pylori infection was determined by a rapid urease test. The two groups were comparable with regard to age, male:female ratio, H. pylori infection rates, and bFGF levels. During treatment, bFGF levels did not change significantly in the famotidine group, whereas they increased by a factor of 2.2 to 2.6 in the lansoprazole group. Cumulative healing rates were also significantly lower in the famotidine group than in the lansoprazole group. These results indicate that lansoprazole increases tissue bFGF levels and promotes gastric ulcer heali",
+      "journal": "Journal of clinical gastroenterology",
+      "year": "1995",
+      "authors": [
+        "Tsuji S",
+        "Kawano S",
+        "Higashi T",
+        "Mukuda T",
+        "Imaizumi T"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "2-Pyridinylmethylsulfinylbenzimidazoles",
+        "Anti-Ulcer Agents",
+        "Famotidine",
+        "Female",
+        "Fibroblast Growth Factor 2",
+        "Helicobacter Infections",
+        "Helicobacter pylori",
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Lansoprazole"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7594320/"
+    },
+    {
+      "pmid": "7594335",
+      "title": "Comparison of lansoprazole and famotidine for gastric ulcer by endoscopic ultrasonography: a preliminary trial.",
+      "abstract": "To compare the efficacy of lansoprazole and famotidine in the treatment of gastric ulcer, 24 patients with gastric ulcer were treated for 8 weeks. They were assessed by endoscopic ultrasonography (EUS), which provides cross-sectional images of the gastric wall as well as endoscopic images. Patients were randomly assigned to receive either lansoprazole 30 mg once daily (n = 12), or famotidine 20 mg twice daily (n = 12). The healing rate after 4 weeks of treatment was 80% in the lansoprazole group and 40% in the famotidine group. After 8 weeks of treatment, the respective healing rates were 100 and 72.7%. Healing to Sakita's S2 stage of scarring occurred significantly more often in the lansoprazole group than in the famotidine group after 4 weeks (50% vs. 0%; p < 0.05). After 4 weeks of treatment, the submucosal fibrous tissues detected by EUS were significantly less extensive in the lansoprazole-treated patients with deep ulcers (reaching the muscle layer or serosa) than in the famotidi",
+      "journal": "Journal of clinical gastroenterology",
+      "year": "1995",
+      "authors": [
+        "Okai T",
+        "Sawabu N",
+        "Songür Y",
+        "Motoo Y",
+        "Watanabe H"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "2-Pyridinylmethylsulfinylbenzimidazoles",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Anti-Ulcer Agents",
+        "Famotidine",
+        "Female",
+        "Gastroscopy",
+        "Histamine H2 Antagonists",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7594335/"
+    },
+    {
+      "pmid": "3310200",
+      "title": "Famotidine: proven once-a-day treatment for gastric ulcer.",
+      "abstract": "An 8-week, double-blind, randomized, placebo-controlled, multinational (n = 14), multicenter (n = 44) trial was conducted to determine whether famotidine speeds healing and relief of symptoms in patients with benign gastric ulcer. Of the 336 patients who entered the trial, 167 received 40 mg of famotidine in the evening, and 169 received placebo. At 4, 6, and 8 weeks after entry, ulcers had healed in a significantly (P less than 0.01) higher percentage of famotidine-treated patients than in those treated with placebo (47%, 65%, 80% versus 31%, 46%, 54%, respectively). Famotidine was also superior to placebo in relieving ulcer symptoms; the proportion of patients receiving additional antacid therapy was significantly lower in the famotidine group. The findings show that the new H2-receptor antagonist famotidine, administered as a single evening dose, significantly speeds the healing of benign gastric ulcers and that it is a safe and highly effective treatment of gastric ulceration. The ",
+      "journal": "Scandinavian journal of gastroenterology. Supplement",
+      "year": "1987",
+      "authors": [
+        "Dammann H G",
+        "Walter T A",
+        "Hentschel E",
+        "Muller P",
+        "Simon B"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Ulcer Agents",
+        "Clinical Trials as Topic",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Famotidine",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3310200/"
+    },
+    {
+      "pmid": "8674804",
+      "title": "Comparison of roxatidine and famotidine on nocturnal gastric juice secretion.",
+      "abstract": "Adult patients with symptoms of gastric disease were randomly assigned to two treatment groups (roxatidine group, n = 115; famotidine group, n = 113) or untreated control group (placebo, n = 111). The treatment groups randomly received 75 mg of roxatidine or 20 mg of famotidine at 9 pm, and 12 - 13 h later gastric juice secretion was measured with gastric X-ray films in both groups. Mean gastric juice secretion was significantly lower in the treated groups (roxatidine, 16.1 ml/12 h; famotidine, 19.9 ml/12 h) than in the untreated controls (placebo, 49.5 ml/12 h). Gastric juice suppression by roxatidine and by famotidine, respectively, was 82% and 37% in patients with gastric ulcer; 71% and 39% in patients with duodenal ulcer; 70% and 64% in patients with gastritis; and 68% and 86% in patients with no evidence of disease. It is concluded that roxatidine was more effective than famotidine for gastric juice suppression in patients with peptic ulcer. In patients with no evidence of gastric",
+      "journal": "The Journal of international medical research",
+      "year": "1996",
+      "authors": [
+        "Tanioka H",
+        "Kaga K"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Ulcer Agents",
+        "Duodenal Ulcer",
+        "Famotidine",
+        "Female",
+        "Gastric Juice",
+        "Gastritis",
+        "Gastrointestinal Diseases",
+        "Humans",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8674804/"
+    },
+    {
+      "pmid": "23251441",
+      "title": "Bidirectional crosstalk between stress-induced gastric ulcer and depression under chronic stress.",
+      "abstract": "Stress contributes to a variety of diseases and disorders such as depression and peptic ulcer. The present study aimed to investigate the correlation between stress ulcer and depression in pathogenesis and treatment by using chronic stress depression (CSD), chronic psychological stress ulcer (CPSU) and water immersion restrain stress models in rats. Our data showed that the ulcer index of the animals after CSD exposure was significantly higher than that of controls. Depression-like behaviors were observed in rat after CPSU exposure. Fluoxetine hydrochloride significantly reduced the ulcer index of rats exposed to CPSU stress, while ranitidine inhibited depression-like behavior of the animals in CSD group. The ulcer index of rats administered with mifepristone after CPSU stress was markedly reduced compared to CPSU group, although there was no significant difference in the depression-like behavior between mifepristone-treated CSD group and naive controls. We also found that the rats exp",
+      "journal": "PloS one",
+      "year": "2012",
+      "authors": [
+        "Zhang Shuang",
+        "Xu Zhiwei",
+        "Gao Yan",
+        "Wu Yonghong",
+        "Li Zhihui"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Ulcer Agents",
+        "Corticosterone",
+        "Depression",
+        "Fluoxetine",
+        "Male",
+        "Mifepristone",
+        "Ranitidine",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23251441/"
+    },
+    {
+      "pmid": "16437673",
+      "title": "Synergistic action of famotidine and chlorpheniramine on acetic acid-induced chronic gastric ulcer in rats.",
+      "abstract": "To assess the synergistic action of famotidine (FMD) and chlorpheniramine (CPA) on acetic acid-induced chronic gastric ulcer in rats.",
+      "journal": "World journal of gastroenterology",
+      "year": "2005",
+      "authors": [
+        "Qin Zhen",
+        "Chen Chao"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "6-Ketoprostaglandin F1 alpha",
+        "Acetic Acid",
+        "Animals",
+        "Chlorpheniramine",
+        "Chronic Disease",
+        "Drug Synergism",
+        "Famotidine",
+        "Histamine H1 Antagonists",
+        "Histamine H2 Antagonists",
+        "Interleukin-8"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16437673/"
+    },
+    {
+      "pmid": "3905468",
+      "title": "Famotidine: nocturnal administration for gastric ulcer healing. Results of multicenter trials in Austria and Germany.",
+      "abstract": "We conducted an 8-week, double-blind, randomized, placebo-controlled multicenter trial (Austria and Germany) to determine whether famotidine would speed healing or relief of symptoms in patients with benign gastric ulcer. Of the 65 patients who completed the trial, 32 received famotidine 40 mg once at night, and 33 received placebo. At 4, 6, and 8 weeks after entry, ulcers had healed in a larger percentage of patients treated with famotidine than in those treated with placebo (German multicenter trial: 65 vs. 46%, 95 vs. 71%, and 95 vs. 79%; Austrian multicenter trial: 42 vs. 44%, 67 vs. 44%, and 92 vs. 44%). In the famotidine group, healing had occurred significantly more often after 6 weeks (p less than 0.05). Famotidine was not superior to placebo in relieving ulcer symptoms. The findings suggest that famotidine in a single evening dose significantly hastens the healing of benign gastric ulcers.",
+      "journal": "Digestion",
+      "year": "1985",
+      "authors": [
+        "Dammann H G",
+        "Walter T A",
+        "Hentschel E",
+        "Müller P",
+        "Simon B"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Clinical Trials as Topic",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Endoscopy",
+        "Famotidine",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3905468/"
+    },
+    {
+      "pmid": "2875864",
+      "title": "Famotidine. Pharmacodynamic and pharmacokinetic properties and a preliminary review of its therapeutic use in peptic ulcer disease and Zollinger-Ellison syndrome.",
+      "abstract": "Famotidine is a new histamine H2-receptor antagonist. On a weight basis, famotidine is 20 times more potent than cimetidine and 7.5 times more potent than ranitidine in inhibiting basal and pentagastrin-stimulated gastric acid secretion in humans. Therapeutic trials have shown that famotidine 20 mg twice daily or 40 mg at bedtime may be an effective alternative to standard doses of cimetidine for healing gastric ulcers and to standard doses of cimetidine and ranitidine for healing duodenal ulcers. When used prophylactically, a single 20 mg dose of famotidine at night decreases the incidence of duodenal ulcer recurrence (versus placebo). However, further study is needed to clarify the comparative efficacy of the H2-receptor antagonists, in particular as maintenance therapy for healed peptic ulcer. Preliminary results in a few patients with Zollinger-Ellison syndrome indicate that famotidine, alone or in combination with an anticholinergic agent, gives good control of gastric acid hypera",
+      "journal": "Drugs",
+      "year": "1986",
+      "authors": [
+        "Campoli-Richards D M",
+        "Clissold S P"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Famotidine",
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Kinetics",
+        "Peptic Ulcer",
+        "Thiazoles",
+        "Zollinger-Ellison Syndrome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2875864/"
+    },
+    {
+      "pmid": "2866137",
+      "title": "Famotidine in the treatment of gastric and duodenal ulceration: overview of clinical experience.",
+      "abstract": "The new H2 receptor antagonist, famotidine, has been tested in open and double-blind studies in over 2,000 acute duodenal or gastric ulcer patients as well as in the maintenance of chronic duodenal ulcer patients. In early studies, dosages of 20 mg b.i.d. were found to achieve better results than 10 mg b.i.d. and equivalent to 20 mg t.i.d. Trials comparing famotidine to cimetidine, ranitidine, and gefarnate found the new agent to be approximately equivalent to cimetidine and ranitidine and superior to gefarnate in the treatment of acute duodenal ulcer. Similar trials were conducted to compare different types of therapy in acute gastric ulcer. Famotidine 40 mg at bedtime was significantly more effective than placebo, and a 20 mg b.i.d. dosage once again proved at least as active as cimetidine 200 mg q.i.d. and considerably more effective than gefarnate. Furthermore, famotidine 20 mg at bedtime was found to effectively prevent relapses for at least 6 months. The side effect profile was e",
+      "journal": "Digestion",
+      "year": "1985",
+      "authors": [
+        "Bianchi Porro G"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Chronic Disease",
+        "Cimetidine",
+        "Circadian Rhythm",
+        "Clinical Trials as Topic",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Duodenal Ulcer",
+        "Endoscopy",
+        "Famotidine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2866137/"
+    },
+    {
+      "pmid": "38447874",
+      "title": "Molecular docking, characterization, ADME/toxicity prediction, and anti-ulcer activity of new quercetin derivatives on indomethacin-induced gastric ulcer in mice.",
+      "abstract": "Gastric ulcer (GU) is a serious upper gastrointestinal tract disorder that affects people worldwide. The drugs now available for GU treatment have a high rate of relapses and drug interactions, as well as mild to severe side effects. As a result, new natural therapeutic medications for treating GU with fewer negative side effects are desperately needed. Because of quercetin's (QCT) diverse pharmacological effects and unique structural features, we decided to semi-synthesize new QCT derivatives and test them for antiulcer activity. Docking assays were performed on the synthesized compounds to determine their affinity for TLR-4/MD-2, MyD88/TIR, and NF-κB domains, an important inflammatory pathway involved in GU development and progression. Mice were given oral famotidine (40 mg/kg/day), QCT, QCT pentamethyl (QPM), or QCT pentaacetyl (QPA) (50 mg/kg/day) for 5 days before GU induction by a single intraperitoneal injection of indomethacin (INDO; 18 mg/kg). QPM and QPA have a stronger bindi",
+      "journal": "Toxicology and applied pharmacology",
+      "year": "2024",
+      "authors": [
+        "Salem Maha B",
+        "Saleh Abdulrahman M",
+        "Seif El-Din Sayed H",
+        "Samir Safia",
+        "Hammam Olfat A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Mice",
+        "Animals",
+        "Indomethacin",
+        "Stomach Ulcer",
+        "Quercetin",
+        "Molecular Docking Simulation",
+        "Ulcer",
+        "NF-kappa B",
+        "Myeloid Differentiation Factor 88"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38447874/"
+    }
+  ]
+}

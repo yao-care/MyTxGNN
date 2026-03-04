@@ -1,0 +1,1013 @@
+{
+  "drug": "Tadalafil",
+  "drugbank_id": "DB00820",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:33:49Z",
+  "indications": [
+    {
+      "indication": "erectile dysfunction",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 2,
+        "phase1_trials": 1,
+        "other_trials": 13,
+        "rct_articles": 2,
+        "review_articles": 7,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "premature ejaculation",
+      "evidence_level": "L1",
+      "trials": 6,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 2,
+        "review_articles": 2,
+        "other_articles": 6,
+        "total_trials": 6,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "psychologic dyspareunia",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 2,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 2
+      }
+    },
+    {
+      "indication": "pulmonary hypertension",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 11,
+        "rct_articles": 5,
+        "review_articles": 4,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "benign prostatic hyperplasia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 3,
+        "phase1_trials": 6,
+        "other_trials": 4,
+        "rct_articles": 1,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 9
+      }
+    }
+  ],
+  "total_trials": 66,
+  "total_articles": 41,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00882934",
+      "title": "A Single-Blind, Controlled, Randomized, Parallel-Group Study of the Efficacy of Patients' Awareness on the Composition of the Experimental Drug in the Treatment of Erectile Dysfunction.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2008-01",
+      "country": "N/A",
+      "enrollment": 123,
+      "brief_summary": "Placebo-controlled randomized clinical trials (RCT) are the gold standard to provide applicable evidence for clinical practice. A vast number of RCTs for treatment of several disorders has shown a mean placebo effect of 30%. Erectile dysfunction (ED) is a high prevalent disease and its first-line therapy is oral phosphodiesterase type-5 inhibitor (iPDE5) (i.e., sildenafil, vardenafil and tadalafil). Although the placebo effect in iPDE5 RCT occurred at a rate as high as 50%, in the last decade, w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Complaint of ED for at least 6 months prior the start of the study, according to medical history and to the questionnaires IIEF, SEAR and QEQ.\n* A stable heterosexual relationship.\n* To be in good health prior the participation in the study, with no ",
+      "endpoints": [
+        "IIEF erectile function domain score",
+        "Quality of Erection Questionnaire (QEQ)"
+      ],
+      "sponsor": "Rio de Janeiro State University",
+      "url": "https://clinicaltrials.gov/study/NCT00882934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06805513",
+      "title": "Actual Use Trial to Switch Tadalafil 5 mg Tablets From Prescription to Over-the-Counter",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-01-30",
+      "completion_date": "2026-02-28",
+      "country": "United States",
+      "enrollment": 2250,
+      "brief_summary": "The purpose of this actual use trial (AUT) is to evaluate if participants can appropriately select and use the study product \\[Cialis over the counter (OTC)\\] using the labeling and the mandatory health survey assessment (HSA) for duration of 4-months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nParticipants will be included in Part II (enrolment phase) if they are:\n\n1. Male or female, 16 years of age or older\n2. Living in the US (Since this study will be conducted remotely, it is important to assure that all participants reside in this country.)\n\nParticipants will be i",
+      "endpoints": [
+        "The proportion of inter-dosing intervals in which the recommended time between doses is followed",
+        "The proportion of all participants found to have a do not use (DNU) condition in the Medical Assessment who also received a DNU Outcome screen in the Health survey assessment"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT06805513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02224846",
+      "title": "Postmarketing Surveillance Study: A Randomized, Open-Label, 3-Month Interventional Study of Tadalafil Effectiveness (2.5 mg and 5 mg) and Long-Term Safety Administered Once Daily in Chinese Men With Erectile Dysfunction",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-10",
+      "completion_date": "2017-05",
+      "country": "China",
+      "enrollment": 635,
+      "brief_summary": "The purpose of this study is to evaluate the safety and effectiveness of the study drug, taken once daily, known as tadalafil in Chinese participants with erectile dysfunction (ED). The study will last about up to 25 months for each participant.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have a history of erectile dysfunction for at least 3 months.\n* Are sexually active and willing to remain sexually active with the same female partner during the study.\n* Are willing to have 4 or more attempts of sexual intercourse with female partner between screening and fir",
+      "endpoints": [
+        "Percentage of Participants Experiencing at Least One Treatment Emergent Adverse Event (Serious or Non-Serious)",
+        "Percentage of Participants Experiencing at Least One Adverse Event Leading to Discontinuation"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT02224846"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05818670",
+      "title": "Comparison Between Tamsulosin and Tadalafil in Management of Benign Prostatic Hyperplasia A Randomised Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-11-11",
+      "completion_date": "2022-09-17",
+      "country": "Egypt",
+      "enrollment": 160,
+      "brief_summary": "Comparison between tamsulosin and Tadalafil in management of benign prostatic hyperplasia A Randomised Trial",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with Lower Urinary Tract Symptoms\n* married and sexually active\n* age more than 50 years\n* IPSS more than 12\n* Q max less than 15 ml/s\n* Post voiding residual less than 150 ml\n\nExclusion Criteria:\n\n* prostatic adenocarcinoma\n* cardiac patients on nitrates, patient wit",
+      "endpoints": [
+        "drug discontinuation rate"
+      ],
+      "sponsor": "Mansoura University",
+      "url": "https://clinicaltrials.gov/study/NCT05818670"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07117383",
+      "title": "A Phase 1 Pharmacokinetic Study Comparing Hezkue® (ASP-001), Hezkue Turbo® (ASP-001.1), and Select Commercially Available Sildenafil Products Under Fed Conditions in Healthy Adult Male Subjects",
+      "phase": "PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01",
+      "completion_date": "2026-03",
+      "country": "United States",
+      "enrollment": 72,
+      "brief_summary": "The goal of this clinical trial is to compare how different sildenafil formulations are absorbed and tolerated in healthy adult males under fed conditions. The main questions it aims to answer are:\n\nDo Hezkue and Hezkue Turbo differ in absorption compared to other commercial sildenafil products?\n\nAre there any differences in safety or tolerability between the products?\n\nResearchers will compare multiple formulations to evaluate differences in drug absorption and side effects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must be informed of the nature of the study and voluntarily agree to participate by signing an informed consent form prior to any study-specific procedures.\n* Participant must be a healthy male, aged 18 to 70 years (inclusive) at the time of dosing.\n* Participant m",
+      "endpoints": [
+        "Tmax - Time to Maximum Observed Plasma Concentration of Sildenafil",
+        "Cmax - Maximum Observed Plasma Concentration of Sildenafil"
+      ],
+      "sponsor": "Aspargo Labs, Inc",
+      "url": "https://clinicaltrials.gov/study/NCT07117383"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00644956",
+      "title": "A Randomized, Open-Label, Crossover, Multicenter, Single Dose Comparator Study Evaluating Onset Of Penile Rigidity In Men With Erectile Dysfunction Who Are Treated With Viagra (Sildenafil Citrate) And Cialis (Tadalafil)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2003-11",
+      "country": "Norway, United Kingdom",
+      "enrollment": 56,
+      "brief_summary": "The objective of this study was to determine and compare the minimum time required to achieve penile rigidity greater than or equal to 60% at the base of the penis that is sustained for at least 3 minutes measured by Rigiscan®, following visual sexual stimulation post dose of 100 mg sildenafil citrate and 20 mg tadalafil in men with erectile dysfunction (ED).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Included subjects were 18 years of age or older\n* A clinical diagnosis of erectile dysfunction\n* Known responders to either 100 mg sildenafil or 20 mg tadalafil.\n\nExclusion Criteria:\n\n* Excluded were subjects who were unable to achieve penile rigidity of greater than or equal ",
+      "endpoints": [
+        "The primary efficacy variable was time to onset of penile rigidity greater than or equal to 60% at the base of the penis, measured by Rigiscan, that was sustained for at least 3 minutes following visual sexual stimulation"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00644956"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05484167",
+      "title": "Placebo-Controlled Cross-Over Pilot Trial of Natesto Testosterone Nasal Gel on Demand for Hypogonadal Men With Sexual Dysfunction Using Daily Phosphodiesterase-5 Inhibitor",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2023-01-01",
+      "completion_date": "2025-04-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "To determine if testosterone deficient men who are using daily Tadalafil (a phosphodiesterase-5 Inhibitor), will have a significant improvement in erectile function and satisfaction with erectile dysfunction treatment when using on-demand Testosterone Nasal Gel (TNG) prior to sexual activity compared to placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to understand and provide written informed consent for the study.\n* Ability to read and complete electronic questionnaires in English.\n* Adult males between the ages of 18-64 years\n* Mild-moderate ED based on SHIM score between 8-21 at study entry\n* Ability to take dai",
+      "endpoints": [
+        "Comparison of Erectile Function and Sexual Intercourse Satisfaction Total Scores Recorded at Baseline and End of Study."
+      ],
+      "sponsor": "University of Utah",
+      "url": "https://clinicaltrials.gov/study/NCT05484167"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00867815",
+      "title": "Prospective Case Crossover Study to Assess Whether PDE5 Inhibitor Exposure in Men Increases the Risk for the Development of Non-arteritic Anterior Ischemic Optic Neuropathy (NAION)",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2009-07-13",
+      "completion_date": "2018-03-28",
+      "country": "Australia, Canada, United States",
+      "enrollment": 10,
+      "brief_summary": "The primary objective of this study is to determine whether the use of PDE5 inhibitors (vardenafil, sildenafil, or tadalafil) increases the risk for the development of NAION.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* NAION onset within 45 days before entry to the study\n* NAION onset definable by the subject within a 2 calendar day window\n* Men who have taken at least 1 dose of PDE5 inhibitor(s) at any time in the 1 year prior to enrollment in the study\n* Age 40 years or older\n\nExclusion Cr",
+      "endpoints": [
+        "Number of Participants With Confirmed Diagnosis of Non-arteritic Anterior Ischemic Optic Neuropathy (NAION)"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00867815"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04623840",
+      "title": "Obesity-induced ED Response to Combined Effect of Tadalafil Drug in Addition to Interval and Continuous Training",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-10-12",
+      "completion_date": "2021-03-30",
+      "country": "Egypt",
+      "enrollment": 60,
+      "brief_summary": "Erectile dysfunction (ED) is the persistent inability to attain and maintain a sufficient erection to permit satisfactory sexual performance. ED, a condition closely related to cardiovascular morbidity and mortality, is frequently associated with obesity. The importance of reducing cardiovascular risk factors remains fundamental to the overall vascular good health of the man, and that includes sexual vascular health. ED shares similar modifiable risks factors with coronary artery disease (CAD). ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Sixty sedentary obese married men with BMI \\> 30 kg/m2.\n2. The age of participants will range from 40-50 years old.\n3. Blood pressure will be \\< 140/90 mm Hg.\n4. The patients who will have ED at least from 6 months with IIEF-5 score \\< 22.\n\nExclusion Criteria:\n\n1. Alcoholic, ",
+      "endpoints": [
+        "Five-Item Version of International Index of Erectile Function (IIEF-5)"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT04623840"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00547417",
+      "title": "An Open-Label Study to Evaluate the Efficacy and Safety of Tadalafil Administered \"On Demand\" to Men of Various Populations With Erectile Dysfunction",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "2004-03",
+      "country": "United States",
+      "enrollment": 1933,
+      "brief_summary": "To compare men of different races and those with diabetes or depression to white men that do not have diabetes or depression but also suffer from the inability to get or keep an erection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 3 months history of erectile dysfunction (ED)\n* Anticipate a monogamous relationship with a female sexual partner\n* Be able to make minimum required sexual intercourse attempts\n* Abstain from using any other ED treatment\n\nExclusion Criteria:\n\n* Other primary sexual di",
+      "endpoints": [
+        "Change in the scores of the IIEF scale's Erectile Function domain, questions 1-5 and 15"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00547417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01160289",
+      "title": "A Study of LY900010 (LY2452473 + Tadalafil) in the Treatment of Men With Erectile Dysfunction",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2011-11",
+      "country": "United States",
+      "enrollment": 410,
+      "brief_summary": "The primary purpose of the study is to compare the efficacy of LY2452473 + tadalafil to tadalafil alone in improving the erectile function (EF) of men with erectile dysfunction (ED) who incompletely respond to tadalafil alone.",
+      "eligibility_criteria": "Inclusion Criteria include:\n\n* Ambulatory men\n* History of erectile dysfunction of at least 3 months duration\n* History of incomplete response to any phosphodiesterase type 5 inhibitor (PDE5i) at the maximum tolerated dose within the label\n* Anticipate having the same female sexual partner throughou",
+      "endpoints": [
+        "Change From Baseline to 12 Week Endpoint in International Index of Erectile Function (IIEF) Erectile Function (EF) Domain Score"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01160289"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00547599",
+      "title": "Does Presence of Distress Due to Erectile Dysfunction Affect the Effect of Tadalafil on Sexual Life and Life Satisfaction?",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2004-01",
+      "country": "Sweden",
+      "enrollment": 659,
+      "brief_summary": "To determine if patients who are distressed over having problems getting or maintaining an erection react differently to the medication than those who are not stressed over the issue.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 3 months history of erectile dysfunction (ED)\n* Anticipate a monogamous relationship with a female sexual partner\n* Be able to make minimum required sexual intercourse attempts\n* Abstain from using any other ED treatment\n\nExclusion Criteria:\n\n* Nitrate use\n* Participated in pr",
+      "endpoints": [
+        "Change In Spontaneity Domain of PAIRS scale scores"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00547599"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00334477",
+      "title": "Efficacy and Safety of Tadalafil 20mg for the Treatment of Erectile Dysfunction in Chronic Renal Patients in Hemodialysis.",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "",
+      "completion_date": "",
+      "country": "Brazil",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to check the safety and efficacy of a pde5 inhibitor, tadalafil, is a special group of patients: Renal chronic patients in hemodialysis treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men between 18 and 70 years old\n* Diagnosticated ED for 6 months at least\n* Accept the protocol\n* Sign the informed consent\n* Renal chronic patients in hemodyalisis\n\nExclusion Criteria:\n\n* History of another PDE5 inhibittor use.\n* C.C.I. grade III (NYHA)",
+      "endpoints": [
+        "IIEF 5"
+      ],
+      "sponsor": "University of Pernambuco",
+      "url": "https://clinicaltrials.gov/study/NCT00334477"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02304679",
+      "title": "The Effectiveness of Low Energy Shockwave Therapy for Improving Erectile Dysfunction in Men: a Double Blind Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-07-01",
+      "completion_date": "2020-06-22",
+      "country": "France",
+      "enrollment": 154,
+      "brief_summary": "The primary objective of this study is to evaluate the change from baseline in the erectile function domain of the International Index of Erectile Function (IIEF-EF) scores in patients receiving 4 weekly treatments of shockwave therapy versus those receiving a sham treatment. The change will be evaluated at 3 months after the end of a sequence of 4 weekly treatments.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patient has been correctly informed about the study.\n* The patient must have given his informed and signed consent.\n* The patient must be insured or beneficiary of a health insurance plan.\n* The patient is a man between 18 and 80 years of age. (≥18 years and \\< 80 years)\n*",
+      "endpoints": [
+        "Change in IIEF-EF score"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nīmes",
+      "url": "https://clinicaltrials.gov/study/NCT02304679"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00547183",
+      "title": "A Randomized, Double-Blind, Parallel-Design, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Tadalafil (2.5 mg and 5 mg) Administered Once Daily to Men With Diabetes Mellitus and Erectile Dysfunction",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2005-05",
+      "country": "Germany",
+      "enrollment": 298,
+      "brief_summary": "Study to evaluate the safety and effectiveness of 2.5 mg and 5 mg tadalafil when taken by men with diabetes mellitus who have problems getting and maintaining an erection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of erectile dysfunction for at least 3 months.\n* Currently have diabetes mellitus of at least 3 months duration.\n* Agree to not use any other ED treatment during the study.\n* Anticipate the same female sexual partner for the study.\n* Must be willing to make the require",
+      "endpoints": [
+        "Effectiveness measured by IIEF score of questions 1-5 and 15 plus the percentages of positive responses to questions 2 and 3 in the SEP diary"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00547183"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05199727",
+      "title": "Comparison of the Efficacy and Safety of Low Intensity Extracorporeal Shock Wave Therapy Versus On-demand Tadalafil for Erectile Dysfunction",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-09-01",
+      "completion_date": "2022-05",
+      "country": "Egypt",
+      "enrollment": 50,
+      "brief_summary": "The objective of this study is to evaluate the effectiveness and safety of focused Li-ESWT on 25 participants complaining of ED compared to 25 participants complaining of ED on medical treatment on a prospective clinical trial for 12 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male patients\n* ED at least for 6 months\n* vasculogenic ED\n* from 25-60 years old\n\nExclusion Criteria:\n\n* psychological patents\n* neurological patients\n* younger than 25 years old\n* older than 60 years old",
+      "endpoints": [
+        "Erectile function assessed by International Index of Erectile Function-5"
+      ],
+      "sponsor": "Menoufia University",
+      "url": "https://clinicaltrials.gov/study/NCT05199727"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02103088",
+      "title": "PROCAN: Sexual and Urological Rehabilitation to Men Operated for Prostate Cancer and Their Partners: A Randomized Controlled Intervention Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-05",
+      "completion_date": "2021-02",
+      "country": "Denmark",
+      "enrollment": 72,
+      "brief_summary": "Today prostate cancer (PC) treatment with curative intent is primarily surgical removal of the prostate gland (prostatectomy) which may be associated with immediate and long lasting erectile dysfunction and decline in urinary function. Besides these physical late effects patients operated for PC have a twofold increased risk for depression up to ten years after the diagnosis. To reduce these late effects affecting both patient and partner the investigators have developed a sexual and urological ",
+      "eligibility_criteria": "Inclusion Criteria: Patients operated for primary prostate cancer with open or robot-assisted surgery using nerve sparring or non-nerve sparring technique living with a female partner and reported being sexually active before the operation.\n\nExclusion Criteria:Patients with other cancers (except non",
+      "endpoints": [
+        "Erectile function measured by the International Index of Erectile Function (IIEF-15)"
+      ],
+      "sponsor": "Danish Cancer Society",
+      "url": "https://clinicaltrials.gov/study/NCT02103088"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03177746",
+      "title": "The Safety of Dapoxetine/Tadalafil Combination Therapy in Treatment of Men With Premature Ejaculation and Erectile Dysfunction",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-12-31",
+      "completion_date": "2023-10-14",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 40,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of Dapoxetine/Tadalafil 30/20 mg film-coated tablet in the treatment of men with premature ejaculation and erectile dysfunction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-64 years old men,\n* Participants must be heterosexual males and in a stable monogamous sexual relationship with a female partner for at least 6 months and will continue throughout the study,\n* Clinical diagnosis of erectile dysfunction, IIEF score ≤21,\n* Premature Ejaculati",
+      "endpoints": [
+        "Evaluation of safety of study drug"
+      ],
+      "sponsor": "Neutec Ar-Ge San ve Tic A.Ş",
+      "url": "https://clinicaltrials.gov/study/NCT03177746"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00422734",
+      "title": "Tadalafil 5 mg Once a Day Compared to Placebo in Improving Erectile Dysfunction and Sexual Quality of Life",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2008-01",
+      "country": "Germany, France, Mexico, Austria, United States",
+      "enrollment": 342,
+      "brief_summary": "To determine if tadalafil 5 mg daily compared to placebo when given for 12 weeks improves getting and maintaining an erection in men with erectile dysfunction and if there are improvements in the sexual quality of life of the man and his female study partner",
+      "eligibility_criteria": "Inclusion Criteria:\n\nMale\n\n* History of erectile dysfunction (ED) for at least 3 months duration\n* Anticipate having the same female partner willing to participate throughout the study\n* At least 18 years of age at Visit 1 and agree to make at least 4 sexual attempts during the early phase of the st",
+      "endpoints": [
+        "Change From Baseline to Endpoint in the International Index of Erectile Function (IIEF)- Erectile Function Domain Score (Sum of IIEF Questions 1-5 and 15)",
+        "Improvement in the Sexual Quality of Life in the Subject and His Study Partner as Measured by the Sexual Quality of Life (SQoL) Domain of the Sexual Life Quality Questionnaire (SLQQ)",
+        "Change From Baseline to Endpoint in the Percent of \"Yes\" Responses to Sexual Encounter Profile (SEP) Diary Questions 2 (SEP2) and 3 (SEP3)."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00422734"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05823506",
+      "title": "Efficacy and Safety of Focused Shockwave Therapy Plus Tadalafil vs Tadalafil Alone in Patient With Erectile Dysfunction: Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-02-01",
+      "completion_date": "2024-02-01",
+      "country": "Russia",
+      "enrollment": 36,
+      "brief_summary": "The goal of this trial is that using tadalafil plus low-intensity extracorporeal shockwave therapy (li-ESWT) is more effective than using tadalafil alone in improving erection rigidity and sexual function. The efficacy of the combination of li-ESWT and tadalafil has been confirmed by a number of studies, including in patients after radical prostatectomy. However, this method is still not a \"first-line\" method in young primary patients and its benefits in combination with drugs for these patients",
+      "eligibility_criteria": "Inclusion Criteria:• Age 20 to 45;\n\n* Married or have had a permanent sex partner for at least 3 months;\n* IIEF-5 questionnaire scores below 20\n\nExclusion Criteria:\n\n* History of previous use of PDE-5 inhibitors or fSWT;\n* Patients with diabetes mellitus;\n* Patients after the radical prostatectomy o",
+      "endpoints": [
+        "IIEF-5"
+      ],
+      "sponsor": "Saint Petersburg State University, Russia",
+      "url": "https://clinicaltrials.gov/study/NCT05823506"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "28741090",
+      "title": "Direct comparison of tadalafil with sildenafil for the treatment of erectile dysfunction: a systematic review and meta-analysis.",
+      "abstract": "Erectile dysfunction (ED) is a major care problem worldwide. Tadalafil and sildenafil are the two most common phosphodiesterase 5 inhibitors used to treat ED. This systematic review and meta-analysis were conducted to directly compare tadalafil with sildenafil for the treatment of ED.",
+      "journal": "International urology and nephrology",
+      "year": "2017",
+      "authors": [
+        "Gong Binbin",
+        "Ma Ming",
+        "Xie Wenjie",
+        "Yang Xiaorong",
+        "Huang Yongming"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Back Pain",
+        "Controlled Clinical Trials as Topic",
+        "Erectile Dysfunction",
+        "Flushing",
+        "Humans",
+        "Male",
+        "Myalgia",
+        "Patient Preference",
+        "Phosphodiesterase 5 Inhibitors",
+        "Self Efficacy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28741090/"
+    },
+    {
+      "pmid": "24387078",
+      "title": "Efficacy and safety of long-term tadalafil 5 mg once daily combined with sildenafil 50 mg as needed at the early stage of treatment for patients with erectile dysfunction.",
+      "abstract": "This study aimed to evaluate the efficacy and safety of long-term and low-dose tadalafil combined with sildenafil as needed at the early stage of treatment for erectile dysfunction (ED). We enrolled 180 patients with ED 1 : 1 to tadalafil 5 mg once daily or once-a-day tadalafil 5 mg combined with sildenafil 50 mg as needed. The efficacy measures included the 5-item version of the International Index of Erectile Function (IIEF-5) and the Sexual Encounter Profile (SEP). The safety was assessed by observing drug tolerability and adverse events. Total IIEF-5 scores of patients with severe ED in combined medication group were significantly higher than in tadalafil alone group. Question 2 scores of IIEF-5 of patients with moderate and severe ED in combined medication group were significantly higher than in tadalafil alone group. The significant improvement in question 3 scores of IIEF-5 existed only in patients with severe ED receiving combined medication. The percentage of 'yes' responses t",
+      "journal": "Andrologia",
+      "year": "2015",
+      "authors": [
+        "Cui H",
+        "Liu B",
+        "Song Z",
+        "Fang J",
+        "Deng Y"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Carbolines",
+        "Drug Therapy, Combination",
+        "Early Medical Intervention",
+        "Erectile Dysfunction",
+        "Humans",
+        "Male",
+        "Phosphodiesterase 5 Inhibitors",
+        "Piperazines",
+        "Purines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24387078/"
+    },
+    {
+      "pmid": "31464074",
+      "title": "Chinese herbal medicine combined with tadalafil for erectile dysfunction: a systematic review and meta-analysis.",
+      "abstract": "Erectile dysfunction (ED) is a tough problem in medicine. This article aims to provide the latest evidence for the efficacy and safety of traditional Chinese medicine (TCM) combined with tadalafil in treatment of erectile dysfunction.",
+      "journal": "Andrology",
+      "year": "2020",
+      "authors": [
+        "Wang Y L",
+        "Geng L G",
+        "He C B",
+        "Yuan S Y"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Drugs, Chinese Herbal",
+        "Erectile Dysfunction",
+        "Humans",
+        "Male",
+        "Phosphodiesterase 5 Inhibitors",
+        "Tadalafil",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31464074/"
+    },
+    {
+      "pmid": "21711956",
+      "title": "Erectile dysfunction.",
+      "abstract": "Erectile dysfunction may affect 30% to 50% of men aged 40 to 70 years, with age, smoking, and obesity being the main risk factors, although 20% of cases have psychological causes.",
+      "journal": "BMJ clinical evidence",
+      "year": "2011",
+      "authors": [
+        "Khera Mohit",
+        "Goldstein Irwin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Double-Blind Method",
+        "Erectile Dysfunction",
+        "Humans",
+        "Phosphodiesterase Inhibitors",
+        "Prostatectomy",
+        "Sildenafil Citrate",
+        "Tadalafil"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21711956/"
+    },
+    {
+      "pmid": "39532245",
+      "title": "Benefits of Tadalafil and Sildenafil on Mortality, Cardiovascular Disease, and Dementia.",
+      "abstract": "Erectile dysfunction and lower urinary tract symptoms, from benign prostatic hyperplasia and bladder neck obstructions, are prevalent in men and associated with an increased risk of cardiovascular diseases. Phosphodiesterase-5 (PDE-5) inhibitors, such as tadalafil and sildenafil, are used to treat erectile dysfunction and may also offer cardiovascular benefits due to their vasodilatory effects. This study evaluates the impact of these PDE-5 inhibitors on all-cause mortality, cardiovascular disease, and dementia in middle-aged men with erectile dysfunction and lower urinary tract symptoms over a 3 year follow-up period.",
+      "journal": "The American journal of medicine",
+      "year": "2025",
+      "authors": [
+        "Jehle Dietrich von Kuenssberg",
+        "Sunesra Raheed",
+        "Uddin Hamza",
+        "Paul Krishna K",
+        "Joglar Alejandro A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Tadalafil",
+        "Sildenafil Citrate",
+        "Cardiovascular Diseases",
+        "Phosphodiesterase 5 Inhibitors",
+        "Erectile Dysfunction",
+        "Middle Aged",
+        "Longitudinal Studies",
+        "Dementia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39532245/"
+    },
+    {
+      "pmid": "40349279",
+      "title": "Tamsulosin plus Tadalafil compared with Tamsulosin alone for benign prostate hyperplasia in patients with or without erectile dysfunction: a meta-analysis and meta-regression of randomized controlled trials.",
+      "abstract": "Combination pharmacotherapy with tamsulosin plus tadalafil could be a superior strategy compared to conventional monotherapy with tamsulosin in patients with Benign prostatic obstruction (BPO) with or without erectile dysfunction.",
+      "journal": "World journal of urology",
+      "year": "2025",
+      "authors": [
+        "Hashmi Tallal Mushtaq",
+        "Zia Rohma",
+        "Ashraf Hadiah",
+        "Siddiqui Momina",
+        "Haider Ali"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Adrenergic alpha-1 Receptor Antagonists",
+        "Drug Therapy, Combination",
+        "Erectile Dysfunction",
+        "Phosphodiesterase 5 Inhibitors",
+        "Prostatic Hyperplasia",
+        "Randomized Controlled Trials as Topic",
+        "Tadalafil",
+        "Tamsulosin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40349279/"
+    },
+    {
+      "pmid": "38081154",
+      "title": "Comparison of Monotherapies and Combination Therapy of Tamsulosin and Tadalafil for Treating Lower Urinary Tract Symptoms Caused by Benign Prostatic Hyperplasia with or without Erectile Dysfunction: A Meta-Analysis.",
+      "abstract": "There is limited research into the efficacy and safety of tadalafil combined with tamsulosin for the treatment of lower urinary tract symptoms (LUTS) caused by benign prostatic hyperplasia (BPH), with or without erectile dysfunction (ED). Therefore, we aimed to investigate the efficacy and safety of combination therapy compared to that of monotherapy.",
+      "journal": "Urologia internationalis",
+      "year": "2024",
+      "authors": [
+        "Liu Jianping",
+        "Zhou Weijian",
+        "Zhang Peng",
+        "Zhang Wei",
+        "Chang Congwang"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Drug Therapy, Combination",
+        "Erectile Dysfunction",
+        "Lower Urinary Tract Symptoms",
+        "Phosphodiesterase 5 Inhibitors",
+        "Prostatic Hyperplasia",
+        "Tadalafil",
+        "Tamsulosin",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38081154/"
+    },
+    {
+      "pmid": "31625449",
+      "title": "Meta-Analysis of Efficacy and Safety of Tadalafil Plus Tamsulosin Compared with Tadalafil Alone in Treating Men with Benign Prostatic Hyperplasia and Erectile Dysfunction.",
+      "abstract": "This meta-analysis was performed to evaluate the efficacy and safety of tadalafil plus tamsulosin compared with tadalafil alone in treating men with benign prostatic hyperplasia (BPH) and erectile dysfunction (ED) after 12 weeks' treatment. Systematic review was carried out using the Preferred Reporting Items for Systematic Reviews and Meta-analyses. MEDLINE, EMBASE, and the Cochrane Controlled Trials Register were searched to collect randomized controlled trials. The references of related articles were also searched. Four articles including 621 patients were involved in the analysis. The study identified that combination-therapy had significant improvements in total international prostate symptom score (IPSS), quality of life (QoL) and maximum urine flow rate (Qmax) compared with monotherapy, and there were no obvious significance in respects of post-void residual volume, international index of erectile function and IPSS storage. The difference of total IPSS was mainly reflected in th",
+      "journal": "American journal of men's health",
+      "year": "2019",
+      "authors": [
+        "Zhou Zhongbao",
+        "Zheng Xuesong",
+        "Wu Jitao",
+        "Gao Zhenli",
+        "Xu Zhunan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Drug Therapy, Combination",
+        "Erectile Dysfunction",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Phosphodiesterase Inhibitors",
+        "Prostatic Hyperplasia",
+        "Tadalafil",
+        "Tamsulosin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31625449/"
+    },
+    {
+      "pmid": "28882778",
+      "title": "The Efficacy of Tadalafil Daily vs on Demand in the Treatment of Erectile Dysfunction: A Systematic Review and Meta-analysis.",
+      "abstract": "We present a review comparing the use of tadalafil daily vs on-demand for erectile dysfunction. We examined randomized controlled trials and observational studies that examined the use of tadalafil for at least 8 weeks of follow-up with the primary outcome of International Index for Erectile Dysfunction-Erectile Function domain. Eight studies that examined the desired dosing regimens were identified. Of these, 6 studies included the primary end point of 12 weeks. Those patients taking tadalafil daily for 12 weeks scored on average 1.82 points higher in International Index for Erectile Dysfunction-Erectile Function domain scores, although the difference may not be clinically significant (Fig. 1).",
+      "journal": "Urology",
+      "year": "2018",
+      "authors": [
+        "Bansal Utsav K",
+        "Jones Cameron",
+        "Fuller Thomas W",
+        "Wessel Charles",
+        "Jackman Stephen V"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Drug Administration Schedule",
+        "Erectile Dysfunction",
+        "Humans",
+        "Male",
+        "Observational Studies as Topic",
+        "Phosphodiesterase 5 Inhibitors",
+        "Randomized Controlled Trials as Topic",
+        "Tadalafil",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28882778/"
+    },
+    {
+      "pmid": "38600694",
+      "title": "The effect of combination treatment with low-intensity shockwave therapy and daily tadalafil on severe erectile dysfunction: a double-blind, randomized, sham-controlled clinical trial.",
+      "abstract": "Patients with severe erectile dysfunction (ED) remain the most challenging group in terms of available noninvasive treatment modalities.",
+      "journal": "The journal of sexual medicine",
+      "year": "2024",
+      "authors": [
+        "Kalyvianakis Dimitrios",
+        "Mykoniatis Ioannis",
+        "Pyrgidis Nikolaos",
+        "Kapoteli Paraskeui",
+        "Zilotis Filimon"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Tadalafil",
+        "Double-Blind Method",
+        "Middle Aged",
+        "Phosphodiesterase 5 Inhibitors",
+        "Combined Modality Therapy",
+        "Erectile Dysfunction",
+        "Extracorporeal Shockwave Therapy",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38600694/"
+    },
+    {
+      "pmid": "37664322",
+      "title": "Topical Anesthetics and Premature Ejaculation: A Systematic Review and Meta-Analysis.",
+      "abstract": "This meta-analysis was conducted to assess the effectiveness of topical anesthetics in preventing premature ejaculation. We conducted an online database search for original studies comparing topical anesthetic agents with placebo in patients with premature ejaculation. After selecting relevant articles, we extracted data on baseline characteristics and predetermined endpoints. Intravaginal ejaculatory latency time (IELT) was the primary outcome for efficacy. Mean differences and corresponding 95% confidence intervals were used to present continuous data. A random-effects model was used to pool the data, and subgroup analysis was performed based on the type of anesthetic agent used. Eleven randomized controlled trials were examined, involving a total of 2008 participants. After analyzing the combined results, it was found that Severance Secret (SS) cream (CJ CheilJedang Corporation, Seoul, South Korea) demonstrated significantly higher effectiveness than a placebo in increasing IELT (P ",
+      "journal": "Cureus",
+      "year": "2023",
+      "authors": [
+        "Shah M Danial Ali",
+        "Shah Safdar",
+        "Nusrat Nadeem Bin",
+        "Zafar Nauman",
+        "Rehman Assad Ur"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37664322/"
+    },
+    {
+      "pmid": "39935900",
+      "title": "Evaluation of the Efficacy and Safety of On-Demand Tadalafil Alone or Combined With Lidocaine Spray for Treating Patients With Comorbid Erectile Dysfunction and Premature Ejaculation: A Randomized Controlled Trial.",
+      "abstract": "To evaluate the efficacy and safety of on-demand 20 mg tadalafil alone or combined with lidocaine spray for treating patients with comorbid erectile dysfunction (ED) and premature ejaculation (PE).",
+      "journal": "International journal of sexual health : official journal of the World Association for Sexual Health",
+      "year": "2025",
+      "authors": [
+        "Liu Min",
+        "Deng Zi Xiang",
+        "Zhu Xianxiang",
+        "Hu ShiAn"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39935900/"
+    },
+    {
+      "pmid": "30606186",
+      "title": "Paroxetine in the treatment of premature ejaculation: a systematic review and meta-analysis.",
+      "abstract": "Paroxetine is one of the selective serotonin reuptake inhibitors (SSRIs) used in the treatment of premature ejaculation (PE). However, this use is not approved in many countries. The purpose of this systematic review and meta-analysis is to review the efficacy and safety of paroxetine for PE patients.",
+      "journal": "BMC urology",
+      "year": "2019",
+      "authors": [
+        "Zhang Dong",
+        "Cheng Yue",
+        "Wu Kerong",
+        "Ma Qi",
+        "Jiang Junhui"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Paroxetine",
+        "Premature Ejaculation",
+        "Randomized Controlled Trials as Topic",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30606186/"
+    },
+    {
+      "pmid": "38481411",
+      "title": "Prospective comparison of tadalafil 5 mg, dapoxetine 30 mg, and the combination of both in the treatment of premature ejaculation.",
+      "abstract": "To compare the efficacy of tadalafil alone, dapoxetine alone, and tadalafil with dapoxetine as a combination therapy for the treatment of premature ejaculation.",
+      "journal": "Arab journal of urology",
+      "year": "2024",
+      "authors": [
+        "Hasan Ahmed Mahmoud",
+        "Abdelkader Mohammed Sayed",
+        "AbdelRazek Ahmed Mostafa",
+        "Mohsen Mohammed Mahmoud",
+        "Alsaghier Gamal Abdelhamid"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38481411/"
+    },
+    {
+      "pmid": "37203851",
+      "title": "Retrospective evaluation of the efficacy of daily paroxetine/tadalafil combination in patients with premature ejaculation and erectile dysfunction.",
+      "abstract": "Premature ejaculation (PE) and erectile dysfunction (ED) are sexual dysfunction diseases affecting males. The phosphodiesterase type 5 (PDE5) inhibitors such as tadalafil are used to treat ED whereas selective serotonin reuptake inhibitors (SSRIs) are preferred for PE. Most of the patients with ED also suffer from PE simultaneously. The combined drug therapies are commonly preferred as they favor elevated intra-vaginal ejaculation latency time (IELT) scores and improved sexual function. The study aimed to evaluate the efficacy and safety of daily paroxetine and tadalafil combination therapy in patients with PE and ED.",
+      "journal": "European review for medical and pharmacological sciences",
+      "year": "2023",
+      "authors": [
+        "Onal B",
+        "Can O",
+        "Ermec B",
+        "Culha M G"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Male",
+        "Female",
+        "Humans",
+        "Erectile Dysfunction",
+        "Premature Ejaculation",
+        "Paroxetine",
+        "Tadalafil",
+        "Retrospective Studies",
+        "Ejaculation",
+        "Phosphodiesterase 5 Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37203851/"
+    },
+    {
+      "pmid": "35223110",
+      "title": "Short- and long-term follow-up results of daily 5-mg tadalafil as a treatment for erectile dysfunction and premature ejaculation.",
+      "abstract": "To evaluate the safety and effectiveness of daily 5-mg tadalafil treatment for men who have erectile dysfunction (ED) and premature ejaculation (PE), and to assess the long-term follow-up for ED and PE improvement persistence years after the cessation of medication.",
+      "journal": "Arab journal of urology",
+      "year": "2022",
+      "authors": [
+        "Mohamed Gharib Tarek",
+        "Abdel-Al Ibrahim",
+        "Elatreisy Adel",
+        "Kandeel Wael",
+        "El-Shaer Waleed"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35223110/"
+    },
+    {
+      "pmid": "18362486",
+      "title": "Tadalafil and fluoxetine in premature ejaculation: prospective, randomized, double-blind, placebo-controlled study.",
+      "abstract": "Premature ejaculation (PE) is a common male sexual disorder. An ideal, reliable and effective treatment is desired by many men and couples affected by this condition.",
+      "journal": "Urologia internationalis",
+      "year": "2008",
+      "authors": [
+        "Mattos Rogerio M",
+        "Marmo Lucon Antonio",
+        "Srougi Miguel"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Carbolines",
+        "Double-Blind Method",
+        "Ejaculation",
+        "Fluoxetine",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Phosphodiesterase Inhibitors",
+        "Prospective Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18362486/"
+    },
+    {
+      "pmid": "26981497",
+      "title": "Comparison Between Tadalafil Plus Paroxetine and Paroxetine Alone in the Treatment of Premature Ejaculation.",
+      "abstract": "Several recent studies have investigated the therapeutic role of phosphodiesterase type 5 (PDE5) inhibitors in premature ejaculation (PE) used in the treatment of erectile dysfunction.",
+      "journal": "Nephro-urology monthly",
+      "year": "2016",
+      "authors": [
+        "Moudi Emadouddin",
+        "Kasaeeyan Ali Akbar"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26981497/"
+    },
+    {
+      "pmid": "34773634",
+      "title": "Comparison of Dapoxetine /Tadalafil and Paroxetine/Tadalafil Combination Therapies for the Treatment of the Premature Ejaculation: A Randomized Clinical Trial.",
+      "abstract": "The purpose of this study was to compare the effectiveness of Dapoxetine, and Paroxetine as well as Dapoxetine/Tadalafil and Paroxetine/Tadalafil combinational therapies, for the treatment of patients with premature ejaculation.",
+      "journal": "Urology journal",
+      "year": "2021",
+      "authors": [
+        "Mohseni Rad Hamed",
+        "Zahirian Moghadam Telma",
+        "Hosseinkhani Ali",
+        "Nima Soluki Nima",
+        "Amani Firouz"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Benzylamines",
+        "Ejaculation",
+        "Humans",
+        "Male",
+        "Naphthalenes",
+        "Paroxetine",
+        "Premature Ejaculation",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Tadalafil",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34773634/"
+    },
+    {
+      "pmid": "20189712",
+      "title": "Guidelines on male sexual dysfunction: erectile dysfunction and premature ejaculation.",
+      "abstract": "Erectile dysfunction (ED) and premature ejaculation (PE) are the two most prevalent male sexual dysfunctions.",
+      "journal": "European urology",
+      "year": "2010",
+      "authors": [
+        "Hatzimouratidis Konstantinos",
+        "Amar Edouard",
+        "Eardley Ian",
+        "Giuliano Francois",
+        "Hatzichristou Dimitrios"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_terms": [
+        "Algorithms",
+        "Decision Trees",
+        "Ejaculation",
+        "Erectile Dysfunction",
+        "Humans",
+        "Male",
+        "Sexual Dysfunction, Physiological",
+        "Time Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20189712/"
+    }
+  ]
+}

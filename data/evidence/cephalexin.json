@@ -1,0 +1,995 @@
+{
+  "drug": "Cephalexin",
+  "drugbank_id": "DB00567",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T11:00:57Z",
+  "indications": [
+    {
+      "indication": "streptococcal pneumonia",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 3,
+        "review_articles": 2,
+        "other_articles": 5,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "infectious otitis media",
+      "evidence_level": "L2",
+      "trials": 1,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 3,
+        "review_articles": 0,
+        "other_articles": 7,
+        "total_trials": 1,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "arthropathy",
+      "evidence_level": "L3",
+      "trials": 3,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 1,
+        "other_trials": 2,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 7,
+        "total_trials": 3,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "streptococcal infection",
+      "evidence_level": "L2",
+      "trials": 2,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 1,
+        "review_articles": 7,
+        "other_articles": 1,
+        "total_trials": 2,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "staphylococcus aureus infection",
+      "evidence_level": "L1",
+      "trials": 11,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 7,
+        "rct_articles": 0,
+        "review_articles": 4,
+        "other_articles": 5,
+        "total_trials": 11,
+        "total_articles": 9
+      }
+    }
+  ],
+  "total_trials": 17,
+  "total_articles": 48,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02297815",
+      "title": "Comparative Effectiveness of Broad vs. Narrow Spectrum Antibiotics for Acute Respiratory Tract Infections in Children",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2016-04",
+      "country": "United States",
+      "enrollment": 2472,
+      "brief_summary": "The purpose of this study is to identify and use patient centered outcomes to compare narrow-spectrum and broad-spectrum antibiotics for the treatment of common acute respiratory tract infections (ARTIs) in children.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nWe included children between six months and 12 years old, diagnosed with an ARTI (acute otitis media, acute sinusitis, Group A streptococcal \\[GAS\\] pharyngitis) using International Classification of Diseases diagnosis codes and prescribed an antibiotic. For GAS pharyngitis, the",
+      "endpoints": [
+        "Health Related Quality of Life Score"
+      ],
+      "sponsor": "Children's Hospital of Philadelphia",
+      "url": "https://clinicaltrials.gov/study/NCT02297815"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03975790",
+      "title": "Comparative Analysis of Outcomes Among Patients Initiating Xeljanz in Combination With Oral MTX Who Withdraw MTX Versus Continue MTX Using a United States Healthcare Claims Database",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-05-29",
+      "completion_date": "2018-10-02",
+      "country": "United States",
+      "enrollment": 479,
+      "brief_summary": "To address the objectives, a retrospective cohort design will be employed to evaluate patient characteristics, treatment patterns, medication effectiveness, and health care cost and utilization in RA patients newly initiating tofacitinib in combination with oral methotrexate (MTX)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least one claim for tofacitinib between 01 January 2014 and 31 January 2017 (the identification period).\n* Presence of The International Classification of Diseases, 9th Revision, Clinical Modification (ICD-9 CM) code for RA (in any position) during the one-year pre-index pe",
+      "endpoints": [
+        "Number of Participants as Per Type of Insurance Plan",
+        "Number of Participants in Each Geographic Region",
+        "Number of Participants With Biologic Disease Modifying Antirheumatic Drug (bDMARD) Use During Pre-Index Period"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT03975790"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03802552",
+      "title": "Comparative Pharmacokinetics and Pharmacodynamics (PK/PD) of Cefadroxil and Cephalexin for Pediatric Musculoskeletal (MSK) Infections",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-05-01",
+      "completion_date": "2021-04-30",
+      "country": "United States",
+      "enrollment": 17,
+      "brief_summary": "The goal of this study is to figure out the best doses for two antibiotics (called cefadroxil and cephalexin) when they are used to treat bone, joint, or muscle infections in children. In order to do this, the study will collect data about children admitted to Children's Hospital Colorado who have these types of infections. During the study, these patients will receive doses by mouth of each of these antibiotics, in addition to an IV antibiotic (given through a vein) used to treat their infectio",
+      "eligibility_criteria": "Inclusion Criteria:\n\nChildren who are admitted to Children's Hospital Colorado and:\n\n* Are to be treated for a deep musculoskeletal infection (osteomyelitis, septic arthritis, pyomyositis), as determined by their primary medical team\n* Are aged 6 months to 18 years\n\nExclusion Criteria:\n\nPatients wil",
+      "endpoints": [
+        "Time above Minimum Inhibitory Concentration (T > MIC)"
+      ],
+      "sponsor": "University of Colorado, Denver",
+      "url": "https://clinicaltrials.gov/study/NCT03802552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04538053",
+      "title": "BonE and Joint Infections - Simplifying Treatment in Children Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2021-06-01",
+      "completion_date": "2026-12",
+      "country": "Australia, New Zealand",
+      "enrollment": 285,
+      "brief_summary": "This is a multi- centre trial of children with bone and joint infections (BJIs) at eight major paediatric hospitals in Australia and New Zealand. The primary objective is to establish if in children with acute, uncomplicated BJIs, entirely oral antibiotic treatment is not inferior to initial intravenous (IV) treatment for 1 to 7 days followed by an oral antibiotic course in achieving full recovery 3 months after presentation. Children will be randomly allocated to the 'entirely oral antibiotic' ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children aged 1 to 18 years with acute, uncomplicated, community-acquired bone and joint infection who fulfil pre-defined clinical criteria.\n\nExclusion Criteria:\n\n1. Infection due to bacteria resistant to cefalexin or atypical infection (e.g. mycobacterial, fungal)\n2. Features",
+      "endpoints": [
+        "Proportion of children assessed as having made a full recovery 3 months"
+      ],
+      "sponsor": "Murdoch Childrens Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT04538053"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02297815",
+      "title": "Comparative Effectiveness of Broad vs. Narrow Spectrum Antibiotics for Acute Respiratory Tract Infections in Children",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2016-04",
+      "country": "United States",
+      "enrollment": 2472,
+      "brief_summary": "The purpose of this study is to identify and use patient centered outcomes to compare narrow-spectrum and broad-spectrum antibiotics for the treatment of common acute respiratory tract infections (ARTIs) in children.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nWe included children between six months and 12 years old, diagnosed with an ARTI (acute otitis media, acute sinusitis, Group A streptococcal \\[GAS\\] pharyngitis) using International Classification of Diseases diagnosis codes and prescribed an antibiotic. For GAS pharyngitis, the",
+      "endpoints": [
+        "Health Related Quality of Life Score"
+      ],
+      "sponsor": "Children's Hospital of Philadelphia",
+      "url": "https://clinicaltrials.gov/study/NCT02297815"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01561703",
+      "title": "Postoperative Healthcare Utilization in Adenotonsillectomy Patients With Postoperative Antibiotic Administration Compared to Patients Without Antibiotic Administration",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2015-06",
+      "country": "United States",
+      "enrollment": 58,
+      "brief_summary": "This study is designed to look at healthcare utilization following the removal of tonsils and adenoids in pediatric patients who are not given an antibiotic following surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are candidates for Adenotonsillectomy or Tonsillectomy only (AT/T).\n* Patient age 18 years or younger(if patient not 18 years, then parent/guardian will be the participant and must also meet inclusion criteria #3).\n* English as the primary language.\n\nExclusion Cri",
+      "endpoints": [
+        "Healthcare Utilization"
+      ],
+      "sponsor": "University of Missouri-Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT01561703"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00179959",
+      "title": "The Impact of Treating Staphylococcus Aureus Infection and Colonization on the Clinical Severity of Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "Staphylococcus aureus (S. aureus) infection is perceived not only as a common secondary complication of atopic dermatitis (AD), but also as a culprit in the worsening of this condition. In addition, the recent development of community acquired methicillin-resistant S. aureus (CA-MRSA) has presented a new challenge to our management of AD, both in treatment of acute infections and maintenance therapy. The investigators would like to perform a randomized investigator-blinded placebo-controlled stu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 6 months to 17 years of age\n* Moderate to severe atopic dermatitis\n\nExclusion Criteria:\n\n* Use of cephalexin or other antibiotic in last 6 weeks\n* Allergy to cephalosporins",
+      "endpoints": [
+        "Change in Eczema Area and Severity Index (EASI)Scores According to Location"
+      ],
+      "sponsor": "Northwestern University",
+      "url": "https://clinicaltrials.gov/study/NCT00179959"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00729937",
+      "title": "Strategies Using Off-Patent Antibiotics for Methicillin-Resistant Staphylococcus Aureus (\"STOP MRSA\") - A Phase IIB, Multi-Center, Randomized, Double-Blind Clinical Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2013-06",
+      "country": "United States",
+      "enrollment": 2265,
+      "brief_summary": "The purpose of this study is to determine the optimal outpatient treatment strategy of uncomplicated skin and soft tissue infection (SSTI) in areas of the United States where the prevalence of Community-Acquired Methicillin-Resistant Staphylococcus (S.) aureus (CA-MRSA) is high. Infection with the S. aureus bacteria that is resistant to antibiotics is a cause of SSTIs. Three oral antibiotics will be tested for off patent treatment. Patients will receive Trimethoprim/Sulfamethoxazole (TMP/SMX), p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult or child 13 years of age and older (who weighs greater than or equal to 40 kg);\n* Have a skin and soft tissue infection (SSTI) with all three local findings of erythema (\\> 2 cm across the lesion or from a discrete wound edge), tenderness, and swelling/induration. Fever,",
+      "endpoints": [
+        "Number of Participants With Clinical Cure as of the Test-of-Cure (TOC) Visit in the Per Protocol Population"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00729937"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00676130",
+      "title": "Randomized Trial of Trimethoprim-Sulfamethoxazole Versus Placebo Added to Standard Treatment of Uncomplicated Cellulitis in Emergency Department Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2012-05",
+      "country": "United States",
+      "enrollment": 153,
+      "brief_summary": "The primary aim of this study is to quantify the effectiveness of Bactrim as additional therapy for the treatment of uncomplicated cellulitis in adults, by comparing: standard therapy plus Bactrim, versus standard therapy plus placebo.\n\nThe primary hypothesis of this study is that, in light of increasing CA-MRSA prevalence, subjects treated with standard therapy plus Bactrim will have higher cure rates than those treated with standard therapy plus placebo.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Must have cellulitis as defined here:\n\n  1. Definition A (preferred definition):\n\n     Recent onset of soft tissue erythema, considered by the treating clinician to be bacterial in origin, and associated with signs of infection that include at least two of the following: pain, ",
+      "endpoints": [
+        "Relative Efficacy"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00676130"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00388310",
+      "title": "Effective Duration of Antibiotic Treatment of Community-Acquired Methicillin-Resistant Staphylococcus Aureus (MRSA)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "To evaluate the effective duration (in days) to clinical improvement of outpatient antibiotic regimens in the treatment of superficial abscesses caused by MRSA in patients that present to the emergency department.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients age 18 and older, presenting to the emergency department with an abscess with a diameter greater than three centimeters\n* Informed consent\n\nExclusion Criteria:\n\n* Patients who are presumed to have community-acquired pathogens\n* Under 18\n* Abscess less than three c",
+      "endpoints": [
+        "To determine the effective duration of treatment of different antibiotic regimens in the treatment of abscess with regards to resolution of patient symptoms and signs.",
+        "Treatment failure will be defined as an increase in patient symptoms, increase in abscess size, development of constitutional symptoms, or hospitalization secondary to abscess complications"
+      ],
+      "sponsor": "Christiana Care Health Services",
+      "url": "https://clinicaltrials.gov/study/NCT00388310"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02814916",
+      "title": "A Phase 3, Multicenter, Open-Label, Randomized, Comparator Controlled Trial of the Safety and Efficacy of Dalbavancin Versus Active Comparator in Pediatric Subjects With Acute Bacterial Skin and Skin Structure Infections",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-03-30",
+      "completion_date": "2024-01-01",
+      "country": "Spain, Argentina, Bulgaria, Mexico, Chile, Colombia, Guatemala, Romania, Ukraine, Poland, Brazil, Georgia, Greece, South Africa, Belarus, Latvia, Russia, Lithuania, Panama, United States",
+      "enrollment": 199,
+      "brief_summary": "To determine the safety and descriptive efficacy of dalbavancin for the treatment of acute bacterial skin and skin structure infections in children, aged birth to 17 years (inclusive), known or suspected to be caused by susceptible Gram-positive organisms, including methicillin-resistant strains of Staphylococcus aureus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients birth to 17 years (inclusive)\n* A clinical picture compatible with Acute Bacterial Skin and Skin Structure Infections (ABSSSI) suspected or confirmed to be caused by Gram-positive bacteria, including Methicillin-resistant Staphylococcus aureus (MRSA).\n*",
+      "endpoints": [
+        "Shift From Baseline in Distortion Product Otoacoustic Emission at TOC Visit",
+        "Shift From Baseline in Auditory Brainstem Response Test at TOC Visit",
+        "Shift From Baseline in Acoustic Immittance Test at TOC Visit"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02814916"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04553419",
+      "title": "Antibiotic Treatment Of Staphylococcus Aureus In Stable People With CF (ASAP-CF) Clinical Research Protocol",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-07-27",
+      "completion_date": "2025-06-30",
+      "country": "Canada",
+      "enrollment": 86,
+      "brief_summary": "This is a randomized, double-blinded study that aims to assess the effect of an oral antibiotic called Cephalexin (150 mg/kg/day) compared to placebo in clinically stable children with cystic fibrosis who have grown a bacteria called MSSA (methicillin-susceptible Staphylococcus aureus) over the course of 2 weeks.\n\nA sensitive technique called MBW (multiple breath washout) will be used to look at how well the participants lungs are functioning during the study and to see if the antibiotic improve",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of CF as evidenced by one or more clinical feature consistent with the CF phenotype or positive CF newborn screen AND one or more of the following criteria:\n\n   1. A documented sweat chloride ≥ 60 mEq/L by quantitative pilocarpine iontophoresis (QPIT)\n   2. A docume",
+      "endpoints": [
+        "The relative change in LCI2.5 between day 0 and day 14 (relative change = [LCI2.5 at day 14-LCI2.5 at day 0]/LCI2.5 at day 0)."
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT04553419"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06207786",
+      "title": "Efficacy of Intranasal Povidone Iodine Swab Versus Oral Antibiotic Prophylaxis to Prevent Surgical Site Infections in Patients Undergoing Mohs Micrographic Surgery",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2024-09-01",
+      "completion_date": "2030-05",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to compare surgical site infection rates for patients treated with Mohs micrographic surgery after bilateral nasal swab with povidone iodine versus standard treatment including the use of a standardized oral antibiotic prophylaxis protocol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Non-pregnant, non-lactating/breastfeeding, non-incarcerated, English-speaking persons undergoing Mohs micrographic surgery (MMS) for malignant cutaneous neoplasms and receiving same-day defect repair by the MMS-performing surgeon\n* Able to provide written informed consent prio",
+      "endpoints": [
+        "Effectiveness of nasal decolonization with povidone-iodine versus a standardized oral antibiotic prophylaxis protocol to prevent surgical site infection (SSI)"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT06207786"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06336824",
+      "title": "Early Intravenous to Oral Antibiotic Switch in Uncomplicated Staphylococcus Aureus Bacteraemia: The EVOS Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-06-28",
+      "completion_date": "2025-06",
+      "country": "Malaysia",
+      "enrollment": 290,
+      "brief_summary": "The Early Intravenous to Oral Antibiotic Switch in Uncomplicated Staphylococcus aureus Bacteraemia (EVOS) study is a multicentre, randomized, open-label, parallel group, phase 3, non-inferiority trial of early intravenous to oral antibiotic switch in comparison with standard intravenous antibiotic regime among patients with uncomplicated Staphylococcus aureus bacteraemia (SAB). The study is based on the hypothesis that an early switch from IV to oral antimicrobial therapy is non-inferior and saf",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Blood culture positive for Staphylococcus aureus (S. aureus).\n2. Received 3 to 7 days of definitive IV antimicrobial therapy, defined as:\n\n   * Cloxacillin or cefazolin for methicillin-sensitive staphylococcus aureus (MSSA); Vancomycin or ceftaroline for methicillin-resistant",
+      "endpoints": [
+        "Rate of SAB-relapse"
+      ],
+      "sponsor": "Clinical Research Centre, Malaysia",
+      "url": "https://clinicaltrials.gov/study/NCT06336824"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00187759",
+      "title": "A Placebo Controlled, Randomized, and Blinded Study of Antibiotic Treatment of Patients With Uncomplicated Soft Tissue Infection",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2005-03",
+      "country": "United States",
+      "enrollment": 500,
+      "brief_summary": "This study is to determine whether antibiotic therapy is needed for patients with non-life threatening soft tissue infections. Most patients with these soft tissue infections are presently treated with antibiotics. Many of these infections resolve without proper antibiotic treatment. Treatment of patients with antibiotics after surgical drainage of an abscess may not be necessary and indiscriminate use of antibiotics may lead to colonization by drug-resistant organisms. Subsequent infection by d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Patients must have a complicated skin or skin-structure infection that meets disease diagnostic criteria (severity, definition of complicated, and disease).\n\nSEVERITY: Complicated soft tissue infections must be of sufficient severity to anticipate five or more days of anti",
+      "endpoints": [
+        "Cure of soft tissue infection."
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT00187759"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01229553",
+      "title": "Effect of Topical and Systemic Decolonization of Staphylococcus Aureus (SA) in Pediatric Cystic Fibrosis (CF) Patients at the CF Center at SUNY Upstate Medical University, Syracuse, NY.",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2011-01",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The primary objective of this study is to measure efficacy of our new protocol by monitoring the results of our routine respiratory cultures at the end of the new standard treatment, and during routine visits for 1 year from initiation of therapy for Staphylococcus aureus. The secondary objective will include determining the clinical course (pulmonary exacerbations, antibiotic use, hospitalizations, pulmonary function tests) of patients who underwent the protocol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nEligible participants will include all patients with CF who test positive for SA from respiratory tract culture (throat, nares or expectorated sputum) and are 2-23 months of age at protocol presentation.\n\nExclusion Criteria:\n\nPatients co-infected with other bacteria (e.g. Pseudo",
+      "endpoints": [
+        "To measure the efficacy of a decolonization regimen to eliminate SA from nares, oropharynx and sputum of pediatric CF patients (2-23 months of age)."
+      ],
+      "sponsor": "State University of New York - Upstate Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT01229553"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00352612",
+      "title": "Comparison of Cephalexin Versus Clindamycin in the Empiric, Outpatient Treatment of Suspected Staphylococcal Cutaneous Infections in the Era of Community-associated Methicillin-resistant Staphylococcus Aureus (CA-MRSA)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2009-08",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "The purpose of this study is to help define the role of antibiotics in the treatment of pediatric skin infections caused by community-associated methicillin-resistant Staphylococcus aureus (CA-MRSA). The investigators hypothesize that treatment with cephalexin, a penicillin-like antibiotic to which CA-MRSA would be expected to be resistant, does not result in poorer outcomes than treatment with clindamycin, an antibiotic to which CA-MRSA is most often susceptible.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children between the ages of 6 months and 18 years of age (inclusive)\n* Suspected purulent staphylococcal skin or soft tissue infection\n* No hospitalization within the previous 14 days\n* Must have reliable means of follow-up contact (e.g. working phone)\n* Outpatient management",
+      "endpoints": [
+        "Clinical Improvement at the 48-72 Hour Clinical Follow-up"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT00352612"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "4248663",
+      "title": "Cephalexin.",
+      "abstract": "",
+      "journal": "The Medical clinics of North America",
+      "year": "1970",
+      "authors": [
+        "Griffith R S",
+        "Black H R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Absorption",
+        "Animals",
+        "Aqueous Humor",
+        "Bacteria",
+        "Biological Assay",
+        "Cats",
+        "Cephalosporins",
+        "Chemical Phenomena",
+        "Chemistry",
+        "Diarrhea"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4248663/"
+    },
+    {
+      "pmid": "3752972",
+      "title": "Therapeutic efficacy of cefadroxil and cephalexin for pneumonia in a rat test model.",
+      "abstract": "The therapeutic efficacies of cefadroxil and cephalexin were compared in a Streptococcus pyogenes-induced lung infection in rats. Although MICs, rates of in vitro killing in rat serum, and antibiotic serum levels after oral administration were similar for both drugs, cefadroxil was about eight times more effective than cephalexin in reducing the number of viable streptococci at the site of infection. This excellent in vivo bactericidal activity of cefadroxil in lung tissue and bronchial secretions was reflected in the 50% protective dose (PD50) after single or multiple oral treatments. A single treatment given 24 h after infection resulted in a PD50 of 2.8 mg of cefadroxil per kg, compared with 21 mg of cephalexin per kg. When treatment was administered three times, at 24, 27, and 30 h postinfection, the PD50s of cefadroxil and cephalexin were 0.7 and 8.0 mg/kg, respectively. In infected animals, treated 24 h postinfection, the area under the lung tissue concentration versus time curve",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "year": "1986",
+      "authors": [
+        "Chisholm D R",
+        "DeRegis R G",
+        "Behr D A"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Cefadroxil",
+        "Cephalexin",
+        "Lung",
+        "Male",
+        "Microbial Sensitivity Tests",
+        "Pneumonia",
+        "Rats",
+        "Streptococcal Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3752972/"
+    },
+    {
+      "pmid": "4642154",
+      "title": "Pneumonia.",
+      "abstract": "",
+      "journal": "American family physician",
+      "year": "1972",
+      "authors": [
+        "Pagano J S",
+        "Sarubbi F A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Ampicillin",
+        "Anti-Bacterial Agents",
+        "Bronchopneumonia",
+        "Cephalexin",
+        "Cephalothin",
+        "Erythromycin",
+        "Gentamicins",
+        "Haemophilus Infections",
+        "Humans",
+        "Klebsiella Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4642154/"
+    },
+    {
+      "pmid": "799997",
+      "title": "Comparative efficacy and safety of cephradine and cephalexin in children.",
+      "abstract": "Cephradine was compared to cephalexin a randomized, double-blind study for the treatment of bacterial infections in 162 children between four months and eleven years of age. In addition to evaluations of clinical and bacteriologic responses to therapy, the relative safety of the two cephalosporins was assessed for all children, including eight who were not included in the evaluation of drug efficacy. The children in the efficacy evaluation had either lobar pneumonia or skin infections and received oral suspensions of cephradine (25-110 mg/kg per day) or cephalexin (25-150 mg/kg per day) for five to fifteen days. Overall clinical and bacteriologic responses were nearly identical in the two groups, and both antibiotics proved to equally safe and effective for use paediatric practice.",
+      "journal": "The Journal of international medical research",
+      "year": "1976",
+      "authors": [
+        "Mouallem R"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Cephalexin",
+        "Cephalosporins",
+        "Cephradine",
+        "Child",
+        "Child, Preschool",
+        "Clinical Trials as Topic",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Infant"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/799997/"
+    },
+    {
+      "pmid": "15212560",
+      "title": "Cefdinir: a review of its use in the management of mild-to-moderate bacterial infections.",
+      "abstract": "Cefdinir (Omnicef) is an oral third-generation cephalosporin with good in vitro activity against many pathogens commonly causative in community-acquired infections. The drug provides good coverage against Haemophilus influenzae, Moraxella catarrhalis and penicillin-susceptible Streptococcus pneumoniae, the most common respiratory tract pathogens. Cefdinir is stable to hydrolysis by commonly occurring plasmid-mediated beta-lactamases and retains good activity against beta-lactamase-producing strains of H. influenzae and M. catarrhalis. The drug distributes into various tissues (e.g. sinus and tonsil) and fluids (e.g. middle ear), and has a pharmacokinetic profile that allows for once- or twice-daily administration.Cefdinir, administered for 5 or 10 days, has shown good clinical and bacteriological efficacy in the treatment of a wide range of mild-to-moderate infections of the respiratory tract and skin in adults, adolescents and paediatric patients in randomised, controlled trials. In a",
+      "journal": "Drugs",
+      "year": "2004",
+      "authors": [
+        "Perry Caroline M",
+        "Scott Lesley J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Cefdinir",
+        "Cephalosporins",
+        "Child",
+        "Gram-Negative Bacteria",
+        "Gram-Negative Bacterial Infections",
+        "Gram-Positive Bacteria",
+        "Gram-Positive Bacterial Infections",
+        "Humans",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15212560/"
+    },
+    {
+      "pmid": "4284",
+      "title": "Comparison of cepharadine and cephalexin in the treatment of respiratory and urinary tract infections.",
+      "abstract": "",
+      "journal": "Current therapeutic research, clinical and experimental",
+      "year": "1976",
+      "authors": [
+        "Mogabgab W J"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Bronchitis",
+        "Cephalexin",
+        "Cephalosporins",
+        "Cephradine",
+        "Child",
+        "Clinical Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4284/"
+    },
+    {
+      "pmid": "3803252",
+      "title": "Cefadroxil compared with cefaclor in the treatment of streptococcal pneumonia in adults.",
+      "abstract": "103 young male Black African gold-miners with pneumococcal pneumonia confirmed by culture or serology were randomly assigned to receive the long acting oral cephalosporin cefadroxil 1 g every 12 hours or cefaclor 500 mg every 8 hours for 10 days. Clinical cures were obtained in 94% of the group who received cefadroxil and in 94% of the cefaclor group. Similarly, the causative organism S. pneumoniae was eradicated in 98% and 96% of patients who received cefadroxil and cefaclor, respectively. Minimal side effects occurred in both groups, although 1 patient withdrew from therapy with cefaclor because of severe diarrhoea. Thus, cefadroxil and cefaclor both displayed effective antimicrobial activity with low toxicity in the treatment of pneumococcal pneumonia.",
+      "journal": "Drugs",
+      "year": "1986",
+      "authors": [
+        "ZeLuff B",
+        "Catchpole M",
+        "Lowe P",
+        "Koornhof H",
+        "Gentry L"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Cefaclor",
+        "Cefadroxil",
+        "Cephalexin",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Pneumonia",
+        "Streptococcal Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3803252/"
+    },
+    {
+      "pmid": "44908",
+      "title": "Treatment of acute bacterial bronchitis and pneumonia with cefaclor.",
+      "abstract": "Sixty patients with pneumonia and/or bronchitis were treated with cefaclor, a new orally administered cephalosporin. Of those 60, 27 adults were treated with 500 mg every 8 hours, 26 adults with 250 mg every 6 hours, and 7 children with 50 mg/kg/day. In the adults, pneumonia was caused most frequently by Streptococcus pneumoniae and Haemophilus influenzae. The 7 children had pneumococcal pneumonia. All but 2 adults, both elderly patients with chronic obstructive pulmonary disease, were successfully treated. One instance of drug hypersensitivity occurred. All 7 children responded rapidly, with no side effects, to cefaclor therapy.",
+      "journal": "Postgraduate medical journal",
+      "year": "1979",
+      "authors": [
+        "Mogabgab W J",
+        "Pollock B",
+        "Beville R B",
+        "Gentry L O",
+        "Jemsek J G"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Bronchitis",
+        "Cefaclor",
+        "Cephalexin",
+        "Child",
+        "Drug Administration Schedule",
+        "Haemophilus influenzae"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/44908/"
+    },
+    {
+      "pmid": "4791486",
+      "title": "Clinical studies of cefazolin and comparison with other cephalosporins.",
+      "abstract": "Cefazolin, a new cephalosporin derivative, was studied in the treatment of 105 hospitalized patients with a variety of infections including endocarditis, pneumonia, and urinary and soft tissue infections, and was found to be effective in 104 patients. Cefazolin was also tested in vitro and shown to be effective against staphylococci, pneumococci, Escherichia coli, Klebsiella sp., and Proteus mirabilis by agar dilution method. It was shown to produce high serum levels when administered in a 250- to 1,000-mg intramuscular dose and was well tolerated and free from renal toxicity. Comparison of the results of this study with those from our prior studies on cephaloridine revealed equivalent antibiotic potency, good tolerance to both the agents when given intramuscularly, superior, average blood levels with cefazolin, equal clinical efficacy, and absence of renal toxicity with cefazolin (unlike cephaloridine). Similarly, the results of treatment of pneumococcal pneumonia with intramuscular c",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "year": "1973",
+      "authors": [
+        "Madhavan T",
+        "Quinn E L",
+        "Freimer E",
+        "Fisher E J",
+        "Cox F"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Bacterial Infections",
+        "Cephalexin",
+        "Cephaloridine",
+        "Cephalosporins",
+        "Drug Evaluation",
+        "Humans",
+        "Microbial Sensitivity Tests"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4791486/"
+    },
+    {
+      "pmid": "1617044",
+      "title": "Review of the experience with cefprozil for the treatment of lower respiratory tract infections.",
+      "abstract": "A regimen of cefprozil (500 mg twice daily), a new oral cephalosporin with a broad in vitro spectrum of antimicrobial activity, was compared to standard regimens of cefaclor (500 mg three times daily), cefuroxime axetil (500 mg twice daily), or amoxicillin/clavulanate (500 mg/125 mg three times daily) for the treatment of lower respiratory tract infections (mainly bronchitis and acute exacerbations of chronic bronchitis) in adults in three open-label, randomized trials. In the first trial, in which bacterial pathogens were isolated in initial cultures for only one-third of the patients, 90% of the pathogens were susceptible to cefprozil. A satisfactory clinical response was noted for 84% of the evaluable patients who received cefprozil versus 79% of those who received cefaclor for treatment of lower respiratory tract infections; rates of bacteriologic efficacy were 82% and 78%, respectively. In the second study rates of satisfactory clinical response were 96% with cefprozil and 83% wit",
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "year": "1992",
+      "authors": [
+        "Pelletier L L"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Amoxicillin",
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Bronchitis",
+        "Bronchopneumonia",
+        "Cefaclor",
+        "Cefuroxime",
+        "Cephalosporins",
+        "Clavulanic Acids",
+        "Drug Therapy, Combination"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1617044/"
+    },
+    {
+      "pmid": "11675909",
+      "title": "Clinical and pro-host effects of cefaclor in prophylaxis of recurrent otitis media in HIV-infected children.",
+      "abstract": "The aim of this study was to evaluate the efficacy of cefaclor in the prophylaxis of recurrent acute otitis media (AOM) in human immunodeficiency virus (HIV)-infected children. The study was carried out in children born between 1 January 1986 and 31 December 1996 who had been vertically HIV infected Patients who had experienced recurrent AOM between October 1997 and March 1998 (period 1) were eligible for the trial. Recurrent AOM was defined as the occurrence in the same patient of three or more episodes of AOM within 6 months of the observation period. Patients recruited for this trial received cefaclor at a dose of 20 mg/kg once daily for 6 months between April and September 1998 (period 2). Clinical observation was carried out in periods 1 and 2 and for the first 6 months after prophylaxis, i.e. October 1998 - March 1999 (period 3). Natural killer-cell activity, phagocytosis and myeloperoxidase activity were determined before and at the end of the prophylactic period. For each perio",
+      "journal": "The Journal of international medical research",
+      "year": "2001",
+      "authors": [
+        "Zuccotti G",
+        "Dauria E",
+        "Torcoletti M",
+        "Lodi F",
+        "Bernardo L"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Anti-HIV Agents",
+        "CD4 Lymphocyte Count",
+        "Cefaclor",
+        "Cephalosporins",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "HIV Infections",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11675909/"
+    },
+    {
+      "pmid": "8417428",
+      "title": "Microbiologic and clinical aspects of a trial of once daily cefixime compared with twice daily cefaclor for treatment of acute otitis media in infants and children.",
+      "abstract": "In this randomized, investigator-blinded multicenter study, tympanocentesis for acute otitis media with effusion in 137 ears from 108 children, 6 months to 12 years of age, revealed 84 definite pathogens and 32 potential pathogens. Twenty-nine aspirates from 23 subjects were sterile. Of the 116 isolates 42 (36%) were Streptococcus pneumoniae, 24 (21%) were Haemophilus influenzae, 9 (8%) were Moraxella catarrhalis, 9 (8%) were Streptococcus pyogenes and 1 (1%) was Staphylococcus aureus. Twenty-two (19%) definite pathogens produced beta-lactamase. Patients were randomized to cefixime (8 mg/kg/day daily) or cefaclor (40 mg/kg/day divided into two doses). Efficacy was determined by pneumatic otoscopy and tympanometry at the end of therapy visit on Days 11 to 14 and up to 4 weeks of follow-up. At end of therapy subjects with definite pathogens exhibited a satisfactory clinical outcome in 26 of 36 (72%) ears for cefaclor and 40 of 48 (83%) ears for cefixime recipients (P = 0.12). For ears wi",
+      "journal": "The Pediatric infectious disease journal",
+      "year": "1993",
+      "authors": [
+        "Harrison C J",
+        "Chartrand S A",
+        "Pichichero M E"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Anti-Infective Agents",
+        "Cefaclor",
+        "Cefixime",
+        "Cefotaxime",
+        "Child",
+        "Child, Preschool",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Drug Resistance, Microbial"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8417428/"
+    },
+    {
+      "pmid": "6791569",
+      "title": "Cefaclor in management of streptococcal pharyngitis, otitis media, and skin infections.",
+      "abstract": "",
+      "journal": "The Annals of otology, rhinology & laryngology. Supplement",
+      "year": "1981",
+      "authors": [
+        "Kammer R B"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Cefaclor",
+        "Cephalexin",
+        "Child",
+        "Child, Preschool",
+        "Clinical Trials as Topic",
+        "Female",
+        "Humans",
+        "Infant"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6791569/"
+    },
+    {
+      "pmid": "10602721",
+      "title": "Bacteriologic efficacies of oral azithromycin and oral cefaclor in treatment of acute otitis media in infants and young children.",
+      "abstract": "A prospective, open-label, randomized study was conducted in order to determine the bacteriologic efficacies of cefaclor and azithromycin in acute otitis media (AOM). Tympanocentesis was performed on entry into the study and 3 to 4 days after initiation of treatment. Bacteriologic failure after 3 to 4 days of treatment with both drugs occurred in a high proportion of culture-positive patients, especially in those in whom AOM was caused by Haemophilus influenzae (16 of 33 [53%] of those treated with azithromycin and 13 of 34 [52%] of those treated with cefaclor). Although a clear correlation of the persistence of the pathogen with increased MICs of the respective drugs could be demonstrated for Streptococcus pneumoniae, no such correlation was found for H. influenzae. It is proposed that susceptibility breakpoints for H. influenzae should be considerably lower than the current ones for both cefaclor and azithromycin for AOM caused by H. influenzae.",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "year": "2000",
+      "authors": [
+        "Dagan R",
+        "Leibovitz E",
+        "Fliss D M",
+        "Leiberman A",
+        "Jacobs M R"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Administration, Oral",
+        "Anti-Bacterial Agents",
+        "Azithromycin",
+        "Cefaclor",
+        "Child, Preschool",
+        "Female",
+        "Haemophilus influenzae",
+        "Humans",
+        "Infant"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10602721/"
+    },
+    {
+      "pmid": "548945",
+      "title": "Cefaclor--summary of clinical experience.",
+      "abstract": "Cefaclor, a new semisynthetic cephalosporin antibiotic for oral use, was studied by 62 clinical investigators in 6 countries in 1493 adult and paediatric patients. The pooled data reveal that satisfactory clinical responses were obtained in 80% of urinary tract infections, 87% of upper respiratory infections, 90% of cases of otitis media, 99% of lower respiratory tract infections, and 96% of skin and skin structure infections. Administration of this antibiotic was associated with a low incidence of adverse reactions including gastrointestinal (2.6%) and hypersensitivity reactions (1.5%). Of particular clinical interest were the outstanding results obtained in the treatment of otitis media and lower respiratory tract infections.",
+      "journal": "Postgraduate medical journal",
+      "year": "1979",
+      "authors": [
+        "Kammer R B",
+        "Short L J"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Bacteria",
+        "Bacterial Infections",
+        "Cefaclor",
+        "Cephalexin",
+        "Child",
+        "Humans",
+        "Otitis Media",
+        "Pharyngitis",
+        "Respiratory Tract Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/548945/"
+    },
+    {
+      "pmid": "38629145",
+      "title": "Inappropriate prescribing contributes to high antibiotic exposure in young children in Australia.",
+      "abstract": "Antibiotic exposure increases antimicrobial resistance and has also been associated with long-term harms, including allergies, inflammatory diseases and weight gain. We assessed antibiotic exposure in the first 2 years of life in Australian children, the factors influencing this and its appropriateness.",
+      "journal": "The Journal of antimicrobial chemotherapy",
+      "year": "2024",
+      "authors": [
+        "Netea Stejara A",
+        "Messina Nicole L",
+        "Gardiner Kaya",
+        "Pittet Laure F",
+        "Curtis Nigel"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Anti-Bacterial Agents",
+        "Infant",
+        "Female",
+        "Male",
+        "Australia",
+        "Inappropriate Prescribing",
+        "Infant, Newborn",
+        "Respiratory Tract Infections",
+        "Otitis Media"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38629145/"
+    },
+    {
+      "pmid": "25249162",
+      "title": "Antibiotic treatment failure in four common infections in UK primary care 1991-2012: longitudinal analysis.",
+      "abstract": "To characterise failure of antibiotic treatment in primary care in the United Kingdom in four common infection classes from 1991 to 2012.",
+      "journal": "BMJ (Clinical research ed.)",
+      "year": "2014",
+      "authors": [
+        "Currie Craig J",
+        "Berni Ellen",
+        "Jenkins-Jones Sara",
+        "Poole Chris D",
+        "Ouwens Mario"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Bacterial Infections",
+        "Humans",
+        "Longitudinal Studies",
+        "Otitis Media",
+        "Primary Health Care",
+        "Respiratory Tract Infections",
+        "Skin Diseases, Infectious",
+        "Soft Tissue Infections",
+        "Treatment Failure"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25249162/"
+    },
+    {
+      "pmid": "551092",
+      "title": "Cefaclor: summary of clinical experience.",
+      "abstract": "Cefaclor, a new semisynthetic cephalosporin antibiotic for oral use, was studied by 62 clinical investigators in six countries in 1493 adult and paediatric patients. The pooled data reveal that satisfactory clinical responses were obtained in 80% of urinary tract infections, 87% of upper respiratory tract infections, 90% of cases of otitis media, 99% of lower respiratory tract infections, and 96% of skin and skin structure infections. Administration of this antibiotic was associated with a low incidence of adverse reactions including gastrointestinal (2.6%) and hypersensitivity (1.5%). Of particular clinical interest were the outstanding results obtained in the treatment of otitis media and lower respiratory tract infections.",
+      "journal": "Infection",
+      "year": "1979",
+      "authors": [
+        "Kammer R B",
+        "Short L J"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Bacterial Infections",
+        "Cefaclor",
+        "Cephalexin",
+        "Child",
+        "Drug Evaluation",
+        "Drug Hypersensitivity",
+        "Gastrointestinal Diseases",
+        "Humans",
+        "Otitis Media"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/551092/"
+    },
+    {
+      "pmid": "5115409",
+      "title": "[Action and tolerance of cephalexin in infectious processes of the upper respiratory tract in childhood. Apropos of 100 cases].",
+      "abstract": "",
+      "journal": "Prensa medica argentina",
+      "year": "1971",
+      "authors": [
+        "Vazquez J R",
+        "Vecchio H",
+        "Ordoñez A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Cephalosporins",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Humans",
+        "Infant",
+        "Male",
+        "Otitis Media",
+        "Respiratory Tract Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/5115409/"
+    },
+    {
+      "pmid": "7970967",
+      "title": "Variation in acceptance of common oral antibiotic suspensions.",
+      "abstract": "Palatability of oral antibiotic suspensions is important and may be a substantial factor in determining compliance in young pediatric patients. Because no comparative systematic data are available, we undertook the present study to assess the acceptance of and compliance with oral antibiotic suspensions commonly used in Israel. During a 4-month period lists of children receiving oral antibiotic suspensions were obtained from 3 major pediatric clinics, and parents were contacted by telephone 10 to 14 days after initiation of therapy, at which time information on age, sex, main disease, prescribed drugs and duration of treatment was obtained. Information regarding acceptance, side effects and compliance was obtained from 11 questions with graded scores. In the study 546 children received one of the following drugs: amoxicillin (n = 222); cefaclor (n - 142); cefuroxime axetil (n = 107); trimethoprim/sulfamethoxazole (n = 75). No major differences in background data were noted; more than 5",
+      "journal": "The Pediatric infectious disease journal",
+      "year": "1994",
+      "authors": [
+        "Dagan R",
+        "Shvartzman P",
+        "Liss Z"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Amoxicillin",
+        "Anti-Bacterial Agents",
+        "Cefaclor",
+        "Cefuroxime",
+        "Child, Preschool",
+        "Female",
+        "Humans",
+        "Infant",
+        "Israel"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7970967/"
+    }
+  ]
+}

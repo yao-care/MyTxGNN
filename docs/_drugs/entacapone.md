@@ -5,7 +5,7 @@ drugbank_id: "DB00494"
 drug_name: "Entacapone"
 kg_predictions: 88
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 88
 brands: []
 permalink: /drugs/entacapone/
@@ -21,7 +21,7 @@ permalink: /drugs/entacapone/
 | **DrugBank ID** | [DB00494](https://go.drugbank.com/drugs/DB00494) |
 | **KG Predictions** | 88 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

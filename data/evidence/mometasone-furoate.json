@@ -2,7 +2,7 @@
   "drug": "Mometasone Furoate",
   "drugbank_id": "DB14512",
   "evidence_level": "L1",
-  "collected_at": "2026-03-04T09:56:12Z",
+  "collected_at": "2026-03-04T10:09:42Z",
   "indications": [
     {
       "indication": "neurodermatitis",
@@ -246,7 +246,7 @@
       "status": "COMPLETED",
       "start_date": "2012-07",
       "completion_date": "2012-12",
-      "country": "Poland, Germany, Hungary",
+      "country": "Hungary, Poland, Germany",
       "enrollment": 31,
       "brief_summary": "The purpose of this study was to assess the safety of Dupilumab administered concomitantly with topical corticosteroids (TCS) in patients with moderate-to-severe atopic dermatitis (AD).",
       "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female patients aged 18 years or older\n2. Chronic AD that had been present for at least 2 years\n\nExclusion Criteria:\n\n1. Prior treatment with Dupilumab\n2. Hypersensitivity to corticosteroids or to any other ingredients contained by the TCS product used in the study\n3",
@@ -373,7 +373,7 @@
       "status": "COMPLETED",
       "start_date": "2016-11-28",
       "completion_date": "2018-11-16",
-      "country": "Spain, Australia, Russia, Canada, Mexico, Japan, Portugal, Sweden, Argentina, United States, Turkey (Türkiye), Israel, Belgium, Chile",
+      "country": "Japan, Portugal, Sweden, Australia, Israel, Mexico, Belgium, Chile, Turkey (Türkiye), Russia, United States, Spain, Canada, Argentina",
       "enrollment": 448,
       "brief_summary": "Primary Objective:\n\nTo evaluate the efficacy of dupilumab 300 mg every 2 weeks (q2w) compared to placebo on a background of mometasone furoate nasal spray (MFNS) in reducing nasal congestion (NC)/obstruction severity and endoscopic nasal polyp score (NPS) in participants with bilateral nasal polyps (NP). In addition for Japanese participants, reduction in computed tomography (CT) scan opacification of the sinuses was a co-primary objective.\n\nSecondary Objectives:\n\n* To evaluate the efficacy of d",
       "eligibility_criteria": "Inclusion criteria :\n\n* Participants with bilateral sino-nasal polyposis that despite prior treatment with SCS anytime within the past 2 years; and/or had a medical contraindication/intolerance to SCS; and/or had prior surgery for NP at the screening visit, had:\n* An endoscopic bilateral NPS at Visi",
@@ -818,6 +818,19 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/22948032/"
     },
     {
+      "pmid": "41730175",
+      "title": "Drugs for atopic dermatitis.",
+      "abstract": "",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2026",
+      "authors": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41730175/"
+    },
+    {
       "pmid": "23551950",
       "title": "Comparison of effects of tacrolimus ointment and mometasone furoate cream on the epidermal barrier of patients with atopic dermatitis.",
       "abstract": "The skin barrier plays a crucial role in the pathophysiology of atopic dermatitis. The quality of the skin barrier can be assessed using a new semi-quantitative method to measure intercellular lipid lamellae. This procedure was used to evaluate the influence of the topical application of the calcineurin inhibitor tacrolimus 0.1% ointment (Protopic®) versus mometasone furoate cream (Ecural®) on the quality of the skin barrier.",
@@ -940,19 +953,6 @@
         "Glucocorticoids"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/12118496/"
-    },
-    {
-      "pmid": "41730175",
-      "title": "Drugs for atopic dermatitis.",
-      "abstract": "",
-      "journal": "The Medical letter on drugs and therapeutics",
-      "year": "2026",
-      "authors": [],
-      "pub_types": [
-        "Journal Article"
-      ],
-      "mesh_terms": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41730175/"
     },
     {
       "pmid": "38470381",

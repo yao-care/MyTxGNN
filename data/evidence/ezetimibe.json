@@ -1,0 +1,1045 @@
+{
+  "drug": "Ezetimibe",
+  "drugbank_id": "DB00973",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:20:50Z",
+  "indications": [
+    {
+      "indication": "sitosterolemia",
+      "evidence_level": "L1",
+      "trials": 10,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 4,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 2,
+        "total_trials": 10,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "familial hyperlipidemia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 13,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 5,
+        "rct_articles": 2,
+        "review_articles": 7,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "obsolete familial combined hyperlipidemia",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "hyperlipidemia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 9,
+        "phase2_trials": 1,
+        "phase1_trials": 2,
+        "other_trials": 8,
+        "rct_articles": 4,
+        "review_articles": 5,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "hyperlipidemia, familial combined, LPL related",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    }
+  ],
+  "total_trials": 50,
+  "total_articles": 29,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00705211",
+      "title": "Designated Drug Use Investigation (Long-Term Administration) of Zetia 10-mg Tablets - A 52-Week Long-Term Designated Drug Use Investigation of Zetia Monotherapy and Combination Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2009-12",
+      "country": "N/A",
+      "enrollment": 1794,
+      "brief_summary": "This study is a non-interventional (observational) study in Japan to confirm the safety and efficacy of Zetia when administered alone or in combination with other lipid-lowering drugs in daily medical practice throughout a 52-week period. It is being conducted as a post-approval commitment, in accordance with the Ministry of Health, Labour and Welfare's guideline on Good Post-marketing Study Practice.\n\nPost-marketing surveys are not considered applicable clinical trials and thus the results of t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who have hypercholesterolemia, familial hypercholesterolemia, or homozygous sitosterolemia will be considered for this study.\n\nZetia monotherapy patients must be treated with Zetia alone.\n\nZetia combination therapy patients must be treated with Zetia in combination wi",
+      "endpoints": [
+        "A primary endpoint is the incidence of adverse events.",
+        "A primary endpoint is change in LDL-C"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00705211"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01584206",
+      "title": "Assessment of Sterol Metabolism in Sitosterolemia: A Pilot Study of Patients Treated With Ezetimibe",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2016-12",
+      "country": "Canada",
+      "enrollment": 8,
+      "brief_summary": "Ezetimibe has become the treatment choice for patients with sitosterolemia. Ezetimibe is an inhibitor of cholesterol absorption from the gastrointestinal tract. The purpose of this study is to determine if ezetimibe improves whole body plant sterol and cholesterol homeostasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* confirmed diagnosis of homozygous sitosterolemia as established by genotyping and clinical parameters\n\nExclusion Criteria:\n\n* pregnant\n* intellectual disability\n* major infectious diseases\n* immunodeficiency\n* cancer\n* renal failure\n* diabetes",
+      "endpoints": [
+        "Plasma cholesterol level",
+        "Plasma sitosterol level"
+      ],
+      "sponsor": "University of Manitoba",
+      "url": "https://clinicaltrials.gov/study/NCT01584206"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00099996",
+      "title": "A Study to Assess Adding Ezetimibe 30 mg to Ongoing Treatment With Ezetimibe 10 mg in Patients With Homozygous Sitosterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-12",
+      "completion_date": "2005-12",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "This study will test the safety and effectiveness of 40 mg of ezetimibe (Zetia ) daily in lowering blood levels of cholesterol and of the plant sterols sitosterol and campesterol in patients with homozygous sitosterolemia, an inherited disorder of sterol metabolism. (Sterols are alcohol substances found in animal and plant fats.) In this disorder, an excess of many plant sterols is absorbed and not enough excreted. Patients can develop atherosclerosis and coronary heart disease as early as child",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\nTo be enrolled into this study, patients must meet all of the following criteria:\n\n1. Patient is at least 18 years of age and no greater than 85 years of age as of Visit 1.\n2. Patient has a diagnosis of homozygous sitosterolemia, with a history of a plasma sitosterol concentrati",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00099996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092820",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety and Efficacy of MK0653 When Added to Current Regimen in Patients With Homozygous Sitosterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-02-12",
+      "completion_date": "2004-11-30",
+      "country": "N/A",
+      "enrollment": 58,
+      "brief_summary": "This is an extension study for patients having unusually high absorption of non-cholesterol sterols, resulting in heart-related diseases. This study will evaluate the long term safety and the ability to lower cholesterol levels with an investigational drug.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with elevated sitosterol levels while taking current medication\n\nExclusion Criteria:\n\n* Patient has a condition which, in the opinion of the investigator, might pose a risk to the patient, interfere with participation in the study, or does not meet the additional crit",
+      "endpoints": [
+        "Plasma sitosterol levels after 52 weeks."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092820"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00045812",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Study to Evaluate SCH-58235 in Homozygous Sitosterolemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-03",
+      "completion_date": "2004-04",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "This study will test the safety and effectiveness of SCH-58235 (Ezetimibe) in lowering sitosterol, plant sterol and cholesterol blood levels in patients with homozygous sitosterolemia when added to the patients' current treatment regimen. Homozygous sitosterolemia is an inherited disorder of sterol metabolism in which an excess of many plant sterols, including sitosterol, is absorbed and not enough excreted. (Sterols are substances used to form hormones, vitamins and membranes found in animal an",
+      "eligibility_criteria": "INCLUSION/EXCLUSION CRITERIA\n\nMale or female, age greater than or equal to 10 years are eligible.\n\nPatients must have a diagnosis of homozygous sitosterolemia with an elevated plasma sitosterol level (greater than 5 mg/dL at screening visit) on their current regimen.\n\nAll women of childbearing poten",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00045812"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00704444",
+      "title": "Designated Drug Use Investigation (12 Weeks) of Zetia 10mg Tablets - A 12-Week Designated Drug Use Investigation of Zetia Monotherapy and Combination Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2009-09",
+      "country": "N/A",
+      "enrollment": 11332,
+      "brief_summary": "This study is a non-interventional (observational) study in Japan to confirm the safety and efficacy of Zetia when administered alone or in combination with other lipid-lowering drugs in daily medical practice throughout a 12-week period. It is being conducted as a post-approval commitment, in accordance with the Ministry of Health, Labour and Welfare's guideline on Good Post-marketing Study Practice.\n\nPost-marketing surveys are not considered applicable clinical trials and thus the results of t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who have hypercholesterolemia, familial hypercholesterolemia, or homozygous sitosterolemia will be considered for this study.\n\nZetia monotherapy patients must be treated with Zetia alone.\n\nZetia combination therapy patients must be treated with Zetia in combination wi",
+      "endpoints": [
+        "Incidence of adverse events",
+        "Change in LDL-C"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00704444"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01948648",
+      "title": "Effects of Fish Oil, Colesevelam and Combination Therapy on Sterol Metabolism in Sitosterolemia",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-02-06",
+      "completion_date": "2021-07-30",
+      "country": "Canada",
+      "enrollment": 13,
+      "brief_summary": "If treatment of colesevelam, fish oil in conjunction with ezetimibe, will lead to further reduction in plasma plant sterol levels in sitosterolemia patients. We hypothesize that treatments with fish oil, colesevelam and ezetimibe will maximize decrease in plasma concentrations of sitosterol and other plant sterols in sitosterolemia patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Confirmed diagnosis of homozygous sitosterolemia as established by genotyping and/or clinical parameters\n2. Receiving ezetimibe treatment\n3. Over 8 years of age (no maximum)\n4. Concomitant illnesses or conditions\n\nExclusion Criteria:\n\n1. Pregnancy\n2. Intellectual disability\n3",
+      "endpoints": [
+        "Plasma plant sterol level"
+      ],
+      "sponsor": "University of Manitoba",
+      "url": "https://clinicaltrials.gov/study/NCT01948648"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092898",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate Efficacy and Safety of Adding Ezetimibe 30 mg to An Ongoing Regimen of Ezetimibe 10 mg in Patients Homozygous Sitosterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2005-10",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "This is a 6-month study with patients who have the rare disease, sitosterolemia which may result in heart-related diseases. These patients have unusually high absorption of non-cholesterol sterols, resulting in heart-related diseases. This study investigates whether absorption of these non-cholesterols can be reduced in these patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years or older, with a history of elevated sitosterol levels and have received treatment for at least 6 months prior to study entry.\n\nExclusion Criteria:\n\n* Patient has a condition which, in the opinion of the investigator, might pose a risk to the patient or interfere with",
+      "endpoints": [
+        "Sitosterol concentrations after 26 weeks."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092833",
+      "title": "An Open-Label, Worldwide, Treatment Use Study to Provide Ezetimibe 10 Mg/Day to Patients With Homozygous Familial Hypercholesterolemia or Homozygous Sitosterolemia",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2002-07",
+      "completion_date": "2005-05",
+      "country": "N/A",
+      "enrollment": 49,
+      "brief_summary": "The purpose of this study is to provide an investigational drug to patients with a specific type of hypercholesterolemia (high cholesterol) or sitosterolemia (unusually high absorption of non-cholesterol sterols) in a treatment use setting.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Homozygous familial hypercholesterolemia or sitosterolemia\n\nExclusion Criteria:\n\n* Patient has a condition which, in the opinion of the investigator, might pose a risk to the patient, interfere with participation in the study, or does not meet the additional criteria as requir",
+      "endpoints": [
+        "Incidence of clinical and laboratory adverse experiences in in patients with homozygous FH or homozygous sitosterolemia taking ezetimibe 10 mg/day"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092833"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092807",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety and Efficacy of MK0653 When Added to Current Regimen in Patients With Homozygous Sitosterolemia - 1 Year Open-Label Extension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-02-12",
+      "completion_date": "2004-11-30",
+      "country": "N/A",
+      "enrollment": 37,
+      "brief_summary": "This is an extension study for patients having unusually high absorption of non-cholesterol sterols, resulting in heart-related diseases. This study will evaluate the long term safety and the ability to lower cholesterol levels with an investigational drug.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with elevated sitosterol levels while taking current medication\n\nExclusion Criteria:\n\n* Patient has a condition which, in the opinion of the investigator, might pose a risk to the patient, interfere with participation in the study, or does not meet the additional crit",
+      "endpoints": [
+        "To assess the percent change relative to baseline in plasma sitosterol concentration after long-term treatment with MK0653 10 mg/day."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092807"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01266876",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, 12-Week Study of the Safety and Efficacy of REGN727 in Patients With Heterozygous Familial Hypercholesterolemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-01",
+      "completion_date": "2011-11",
+      "country": "Canada, United States",
+      "enrollment": 77,
+      "brief_summary": "The purpose of this study is to assess the efficacy and safety of REGN727/SAR236553 in participants diagnosed with heterozygous familial hypercholesterolemia (heFH)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Must meet the World Health Organization criteria for heFH\n2. Participants must be on a stable statin dose, with or without ezetimibe, for at least 6 weeks before screening\n3. Serum LDL-C levels ≥ 100 mg/dL at screening\n4. Willing to follow the NCEP ATPIII TLC diet, or an equi",
+      "endpoints": [
+        "Percent Change From Baseline in Calculated LDL-C at Week 12 - On-treatment Analysis"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01266876"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06005597",
+      "title": "A Placebo-Controlled, Double-Blind, Randomized, Phase 3 Study to Evaluate the Effect of Obicetrapib 10 mg and Ezetimibe 10 mg Fixed Dose Combination Daily on Top of Maximally Tolerated Lipid-Modifying Therapy in Participants With Heterozygous Familial Hypercholesterolemia (HeFH) and/or Atherosclerotic Cardiovascular Disease (ASCVD) or Multiple ASCVD Risk Factors",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2024-03-01",
+      "completion_date": "2024-10-16",
+      "country": "United States",
+      "enrollment": 407,
+      "brief_summary": "The study is a placebo-controlled, double-blind, randomized, phase 3 study in participants with heterozygous familial hypercholesterolemia (HeFH) and/or atherosclerotic cardiovascular disease (ASCVD) or multiple ASCVD risk factors to evaluate the efficacy, safety and tolerability of obicetrapib 10mg and ezetimibe 10mg fixed dose combination as an adjunct to diet and maximally tolerated lipid-lowering therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have underlying HeFH and/or a history of ASCVD or multiple ASCVD risk factors\n* On maximally tolerated lipid-modifying therapy as an adjunct to a diet and lifestyle modifications\n* LDL-C ≥ 70 mg/dL\n* Triglycerides \\< 500\n* Estimated glomerular filtration rate ≥ 15 mL/min/1.73 ",
+      "endpoints": [
+        "Effect of Fixed-Dose Combination (FDC) Compared to Placebo on LDL-C",
+        "Effect of Fixed Dose Combination (FDC) Compared to Ezetimibe Monotherapy on LDL-C",
+        "Effect of Fixed Dose Combination (FDC) Compared to Obicetrapib Monotherapy on LDL-C"
+      ],
+      "sponsor": "NewAmsterdam Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT06005597"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00705211",
+      "title": "Designated Drug Use Investigation (Long-Term Administration) of Zetia 10-mg Tablets - A 52-Week Long-Term Designated Drug Use Investigation of Zetia Monotherapy and Combination Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2009-12",
+      "country": "N/A",
+      "enrollment": 1794,
+      "brief_summary": "This study is a non-interventional (observational) study in Japan to confirm the safety and efficacy of Zetia when administered alone or in combination with other lipid-lowering drugs in daily medical practice throughout a 52-week period. It is being conducted as a post-approval commitment, in accordance with the Ministry of Health, Labour and Welfare's guideline on Good Post-marketing Study Practice.\n\nPost-marketing surveys are not considered applicable clinical trials and thus the results of t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who have hypercholesterolemia, familial hypercholesterolemia, or homozygous sitosterolemia will be considered for this study.\n\nZetia monotherapy patients must be treated with Zetia alone.\n\nZetia combination therapy patients must be treated with Zetia in combination wi",
+      "endpoints": [
+        "A primary endpoint is the incidence of adverse events.",
+        "A primary endpoint is change in LDL-C"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00705211"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04289285",
+      "title": "Safety and Efficacy of IBI306 in Chinese Non-familial Hypercholesterolemia Subjects at Very High or High Cardiovascular Risk: a Randomized, Double-blind and Placebo-controlled Phase III Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-04-29",
+      "completion_date": "2022-02-09",
+      "country": "China",
+      "enrollment": 804,
+      "brief_summary": "IBI306 is a fully human monoclonal antibody that binds proprotein convertase substilisin/kexin type 9 (PCSK-9), preventing its interaction with the low-density lipoprotein cholesterol receptor (LDL-R) and thereby restoring LDL-R recycling and low-density lipoprotein cholesterol(LDL-C) uptake. This study is being done to investigate the effects of IBI306 in Chinese people with non-familial hypercholesterolemia with very high or high cardiovascular risk. This study will see if IBI306 will reduce l",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Males and females ≥ 18 to ≤ 75 years of age\n2. Diagnosis of hypercholesterolemia\n3. LDL cholesterol ≥ 70 mg/dl (1.8mmol/L)\n4. Very high or high cardiovascular risk\n5. TG≤500 mg/dL(5.64 mmol/L)\n\nExclusion criteria:\n\n1. Diagnosis of HoFH or HeFH\n2. Uncontrolled hypertension\n3. ",
+      "endpoints": [
+        "Mean percent change from baseline in low-density lipoprotein cholesterol (LDL-C) at week 48"
+      ],
+      "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04289285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03867318",
+      "title": "A Phase III Double-Blind Efficacy and Safety of Ezetimibe (SCH 58235) 10 MG in Addition to Atorvastatin in Subjects With Coronary Heart Disease or Multiple Cardiovascular Risk Factors and With Primary Hypercholesterolemia Not Controlled by a Starting Dose (10 mg) of Atorvastatin",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-04-24",
+      "completion_date": "2001-11-16",
+      "country": "N/A",
+      "enrollment": 621,
+      "brief_summary": "The overall objective is to evaluate the efficacy and safety of ezetimibe (SCH 058235/MK-0653) 10 mg administered daily in conjunction with atorvastatin in participants with Heterozygous Familial Hypercholesterolemia (HeFH) or in participants with coronary heart disease (CHD) or multiple cardiovascular risk factors (≥2 risk factors) and primary hypercholesterolemia not controlled by a starting dose (10 mg/day) of atorvastatin.\n\nThe primary hypothesis is that the coadministration of ezetimibe 10 ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary hypercholesterolemic participants with known coronary heart disease (CHD) or multiple risk factors for CHD (≥2) not meeting the target low-density-lipoprotein cholesterol (LDL-C) of ≤100 mg/dL (2.59 mmol/L), with plasma LDL-C ≥130 mg/dL (3.37 mmol/L) and plasma triglyc",
+      "endpoints": [
+        "Percentage of Participants Achieving Target Low-Density-Lipoprotein Cholesterol (LDL-C) Levels of ≤100 mg/dL",
+        "Percentage of Participants With an Adverse Event",
+        "Percentage of Participants Who Discontinued the Study due to an Adverse Event"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT03867318"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03882996",
+      "title": "Long-Term, Open-Label, Safety and Tolerability Study of Ezetimibe (SCH 58235) in Addition to Atorvastatin in Subjects With Coronary Heart Disease or Multiple Risk Factors and With Primary Hypercholesterolemia Not Controlled by a Starting Dose (10 mg) of Atorvastatin",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-10-06",
+      "completion_date": "2003-02-04",
+      "country": "N/A",
+      "enrollment": 432,
+      "brief_summary": "The purpose of this study was to evaluate the long-term safety and tolerability of ezetimibe 10 mg once daily co-administered with atorvastatin 10 to 80 mg daily for up to 12 consecutive months in participants with heterozygous familial hypercholesterolemia (HeFH) or in participants with coronary heart disease (CHD) or multiple cardiovascular risk factors and primary hypercholesterolemia not controlled by a starting dose (10 mg daily) of atorvastatin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who have successfully completed the 14-week double-blind, efficacy and safety study of SCH 58235 in addition to atorvastatin in participants with CHD or multiple risk factors or HeFH, (Protocol P00693/MK-0653-030; NCT03867318). Entry into this protocol must occur ",
+      "endpoints": [
+        "Number of participants who experienced an adverse event",
+        "Number of participants who discontinued study drug due to an adverse event"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT03882996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02460159",
+      "title": "A Phase III, Clinical Trial to Assess the Long Term Safety and Tolerability of MK-0653C in Japanese Patients With Hypercholesterolemia Who Have Inadequate LDL-C Control on Ezetimibe or Atorvastatin Calcium Monotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-06-23",
+      "completion_date": "2016-12-22",
+      "country": "N/A",
+      "enrollment": 135,
+      "brief_summary": "This study will assess the safety and tolerability of Ezetimibe (EZ) 10 mg/Atorvastatin (Atora) 10 mg and EZ 10mg/Atora 20 mg fixed-dose combination (FDC) in Japanese participants with hypercholesterolemia uncontrolled with monotherapy of Ezetimibe 10 mg or Atorvastatin up to 20 mg. There is no formal hypothesis for the study.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Japanese\n* Outpatient with hypercholesterolemia\n* Has familial hypercholesterolemia (FH) diagnosed per genetic testing or meets two or more of the below criteria based on Japan Atherosclerosis Society Guideline 2012 (JAS2012): Hyper low-density lipoprotein (LDL)-cholesterolemia",
+      "endpoints": [
+        "Percentage of Participants Who Experience 1 or More Adverse Event (AE)",
+        "Percentage of Participants Who Experience 1 or More Gastrointestinal-related AEs",
+        "Percentage of Participants Who Experience 1 or More Gallbladder-related AEs"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT02460159"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02890992",
+      "title": "An 8-Week Open-Label, Sequential, Repeated Dose-Finding Study to Evaluate the Efficacy and Safety of Alirocumab in Children and Adolescents With Heterozygous Familial Hypercholesterolemia Followed by an Extension Phase",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-09-15",
+      "completion_date": "2019-02-22",
+      "country": "Netherlands, South Africa, Sweden, France, Norway, Czechia, United States, Russia, Spain, Canada",
+      "enrollment": 42,
+      "brief_summary": "Primary Objective:\n\nTo evaluate the effect of alirocumab on low-density lipoprotein cholesterol (LDL-C) levels after 8 weeks of treatment in heterozygous familial hypercholesterolemia (heFH) participants aged of 8 to 17 years, with LDL-C \\>=130 milligrams per deciliter (mg/dL) (3.37 millimoles per litre \\[mmol/L\\]) on optimal stable daily dose of statin therapy +/- other lipid modifying therapies (LMTs) or a stable dose of non-statin LMTs in case of intolerance to statins for at least 4 weeks pr",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Children and adolescent male and female participants aged of 8 to 17 years at the time of signed informed consent. For Russia only: Male and female participants aged \\>=12 and \\<=17 years at the time of signed informed consent.\n* Participants with diagnosis of heterozygous fa",
+      "endpoints": [
+        "Percent Change From Baseline in Calculated Low Density Lipoprotein Cholesterol (LDL-C) at Week 8"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02890992"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00704444",
+      "title": "Designated Drug Use Investigation (12 Weeks) of Zetia 10mg Tablets - A 12-Week Designated Drug Use Investigation of Zetia Monotherapy and Combination Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2009-09",
+      "country": "N/A",
+      "enrollment": 11332,
+      "brief_summary": "This study is a non-interventional (observational) study in Japan to confirm the safety and efficacy of Zetia when administered alone or in combination with other lipid-lowering drugs in daily medical practice throughout a 12-week period. It is being conducted as a post-approval commitment, in accordance with the Ministry of Health, Labour and Welfare's guideline on Good Post-marketing Study Practice.\n\nPost-marketing surveys are not considered applicable clinical trials and thus the results of t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who have hypercholesterolemia, familial hypercholesterolemia, or homozygous sitosterolemia will be considered for this study.\n\nZetia monotherapy patients must be treated with Zetia alone.\n\nZetia combination therapy patients must be treated with Zetia in combination wi",
+      "endpoints": [
+        "Incidence of adverse events",
+        "Change in LDL-C"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00704444"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07447648",
+      "title": "Assessing the Impact of Intensification of Lipid Lowering Therapy With Guidelines-based Evinacumab Administration on Coronary Plaque Volumes Measured by Coronary Computed Tomography Angiography (CCTA) in Patients With Homozygous Familial Hypercholesterolemia (HoFH): A Real World, Prospective and Retrospective, Observational Study",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03",
+      "completion_date": "2029-02",
+      "country": "N/A",
+      "enrollment": 52,
+      "brief_summary": "This observational, multicenter, retrospective and prospective study aims to evaluate the impact of intensified lipid-lowering therapy including Evinacumab on coronary atherosclerotic plaque burden in patients with Homozygous Familial Hypercholesterolemia (HoFH).\n\nHoFH is a rare genetic disorder characterized by extremely elevated low-density lipoprotein cholesterol (LDL-C) levels from early life and a markedly increased risk of premature atherosclerotic cardiovascular disease. Despite combinati",
+      "eligibility_criteria": "Inclusion Criteria (intensified treatment group - Evinacumab):\n\n1. Willing and able to provide written informed consent form/assent form for the use of retrospective and prospective data.\n2. Male or female patients aged ≥12 years old at time of enrolment (exception for Italy and France ≥18 years).\n3",
+      "endpoints": [
+        "Stabilization or regression of atherosclerotic coronary plaques as measured by CCTA in Evinacumab patients vs conventional ones"
+      ],
+      "sponsor": "Fondazione SISA (Societa Italiana per lo Studio della Arteriosclerosi)",
+      "url": "https://clinicaltrials.gov/study/NCT07447648"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "34969652",
+      "title": "Clinical, genetic profile and therapy evaluation of 55 children and 5 adults with sitosterolemia.",
+      "abstract": "Sitosterolemia is a rare autosomal recessive disease characterized by phytosterol accumulation in the blood and tissues. However, the detailed clinical and genetic spectra are lacking.",
+      "journal": "Journal of clinical lipidology",
+      "year": "2022",
+      "authors": [
+        "Xia Yu",
+        "Duan Ying",
+        "Zheng Wanqi",
+        "Liang Lili",
+        "Zhang Huiwen"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "ATP Binding Cassette Transporter, Subfamily G, Member 5",
+        "Adult",
+        "Arthralgia",
+        "Atherosclerosis",
+        "Child",
+        "Cholesterol, LDL",
+        "Ezetimibe",
+        "Genetic Profile",
+        "Humans",
+        "Hypercholesterolemia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34969652/"
+    },
+    {
+      "pmid": "36897412",
+      "title": "Update on Sitosterolemia and Atherosclerosis.",
+      "abstract": "The purpose of this review was to summarize important and updated information on sitosterolemia. Sitosterolemia is an inherited lipid disorder consisting of high levels of plasma plant sterols. This sterol storage condition is caused by biallelic loss-of-function genetic variants in either ABCG5 or ABCG8, leading to increased intestinal absorption and decreased hepatic excretion of plant sterols. Clinically, patients with sitosterolemia usually exhibit xanthomatosis, high levels of plasma cholesterol, and premature atherosclerotic disease, but presentation can be highly heterogeneous. Therefore, recognition of this condition requires a high level of suspicion, with confirmation upon genetic diagnosis or through measurement of plasma phytosterols. Treatment of sitosterolemia with both a plant sterol-restricted diet and the intestinal cholesterol absorption inhibitor ezetimibe can reduce efficiently the levels of plasma plant sterols, consisting in the first-line therapy for this disease",
+      "journal": "Current atherosclerosis reports",
+      "year": "2023",
+      "authors": [
+        "Rocha Viviane Zorzanelli",
+        "Tada Mauricio Teruo",
+        "Chacra Ana Paula Marte",
+        "Miname Marcio Hiroshi",
+        "Mizuta Marjorie H"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hypercholesterolemia",
+        "Phytosterols",
+        "Lipid Metabolism, Inborn Errors",
+        "Intestinal Diseases",
+        "Hyperlipoproteinemia Type II",
+        "Cholesterol",
+        "Xanthomatosis",
+        "Atherosclerosis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36897412/"
+    },
+    {
+      "pmid": "30033951",
+      "title": "Sitosterolemia, Hypercholesterolemia, and Coronary Artery Disease.",
+      "abstract": "Sitosterolemia is a rare inherited disease characterized by increased levels of plant sterols, such as sitosterol. The cause of this disease is ATP-binding cassette (ABC) subfamily G member 5 or member 8 (ABCG5 or ABCG8, respectively) gene mutations. Recent advances in genetics have revealed that the prevalence of subjects with deleterious mutations in ABCG5 and/or ABCG8 genes could be more than 1 in ~200,000 individuals among the general population. Furthermore, accumulated evidence, including infantile cases exhibiting progression/regression of systemic xanthomas associated with LDL cholesterol levels, have shown that the elevation of LDL cholesterol seems to be the major cause of development of atherosclerosis and not the elevation of sitosterol. Regarding therapies, LDL apheresis, as well as proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors, could be useful for sitosterolemia, in addition to ezetimibe and/or colestimide. In this study, we provide the current understa",
+      "journal": "Journal of atherosclerosis and thrombosis",
+      "year": "2018",
+      "authors": [
+        "Tada Hayato",
+        "Nohara Atsushi",
+        "Inazu Akihiro",
+        "Sakuma Nagahiko",
+        "Mabuchi Hiroshi"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "ATP Binding Cassette Transporter, Subfamily G, Member 5",
+        "ATP Binding Cassette Transporter, Subfamily G, Member 8",
+        "Coronary Artery Disease",
+        "Heterozygote",
+        "Humans",
+        "Hypercholesterolemia",
+        "Intestinal Diseases",
+        "Lipid Metabolism, Inborn Errors",
+        "Lipoproteins",
+        "Mutation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30033951/"
+    },
+    {
+      "pmid": "25941971",
+      "title": "Plant Sterols, Stanols, and Sitosterolemia.",
+      "abstract": "Phytosterolemia (sitosterolemia) is a rare autosomal recessive sterol storage disease caused by mutations in either of the adenosine triphosphate (ATP) binding cassette transporter genes; (ABC) G5 or ABCG8, leading to impaired elimination of plant sterols and stanols, with their increased accumulation in the blood and tissues. Thus the disease is characterized by substantially elevated serum plant sterols and stanols, with moderate to high plasma cholesterol levels, and increased risk of premature atherosclerosis. Hematologic abnormalities including macrothrombocytopenia, stomatocytosis and hemolysis are frequently observed in sitosterolemia patients. Currently, ezetimibe, a sterol absorption inhibitor, is used as the routine treatment for sitosterolemia, with reported improvement in plant sterol levels and hemolytic parameters. This review summarizes the research related to the health impact of plant sterols and stanols on sitosterolemia.",
+      "journal": "Journal of AOAC International",
+      "year": "2015",
+      "authors": [
+        "Ajagbe Bridget O",
+        "Othman Rgia A",
+        "Myrie Semone B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "ATP-Binding Cassette Transporters",
+        "Humans",
+        "Hypercholesterolemia",
+        "Intestinal Diseases",
+        "Lipid Metabolism, Inborn Errors",
+        "Mutation",
+        "Phytosterols",
+        "Plants"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25941971/"
+    },
+    {
+      "pmid": "24821603",
+      "title": "Sitosterolemia: diagnosis, investigation, and management.",
+      "abstract": "Sitosterolemia is a rare autosomal recessively inherited disease caused by mutations affecting ABCG5 or ABCG8, which are located on human chromosome band 2p21. Around 100 cases have been reported in the literature. Sitosterolemic patients typically exhibit a 30-fold to 100-fold increase in plasma concentrations of plant sterols. The clinical manifestations include xanthomas, premature atherosclerosis, hemolytic anemia, and macrothrombocytopenia. It is noteworthy that abnormal hematological parameters may be the only clinical feature of sitosterolemic patients, suggesting that sitosterolemia may be more frequent than previously thought. Severe accumulation of plant sterols in mouse models of sitosterolemia induced complex cardiac lesions, anemia, and macrothrombocytopenia, disrupted adrenal and liver cholesterol homeostasis, and caused infertility and hypertriglyceridemia. It remains unclear whether all disease traits are present in sitosterolemic patients. The drug ezetimibe appears to",
+      "journal": "Current atherosclerosis reports",
+      "year": "2014",
+      "authors": [
+        "Escolà-Gil Joan Carles",
+        "Quesada Helena",
+        "Julve Josep",
+        "Martín-Campos Jesús M",
+        "Cedó Lídia"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Hemolytic",
+        "Animals",
+        "Anticholesteremic Agents",
+        "Atherosclerosis",
+        "Azetidines",
+        "Ezetimibe",
+        "Humans",
+        "Hypercholesterolemia",
+        "Intestinal Diseases",
+        "Lipid Metabolism, Inborn Errors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24821603/"
+    },
+    {
+      "pmid": "29984642",
+      "title": "Sitosterolemia: Diagnosis, Metabolic and Hematological Abnormalities, Cardiovascular Disease and Management.",
+      "abstract": "Sitosterolemia is a recessive inherited metabolic disorder of unknown prevalence, characterized by increased levels of plasma plant sterols. It is caused by 28 and 31 variants in ABCG5 and ABCG8 genes, respectively, and is characterized by a predisposition to hyperabsorption and accumulation of toxic levels of plant sterols in plasma. Its clinical picture is extremely heterogeneous. The main clinical features are tendinous and cutaneous xanthomas, arthritis or arthralgia, premature cardiovascular disease and atherosclerosis. These characteristics are shared with familial hypercholesterolemia (FH), making it possible for sitosterolemia to be misdiagnosed as homozygous FH, especially in pediatric patients. In such cases, a specific chromatography-based laboratory method is essential to differentiate sitosterol and cholesterol. Hematological abnormalities (hemolytic anemia and macrothrombocytopenia) may be present in 25-35% of patients, in whom it is usually associated with the main clini",
+      "journal": "Current medicinal chemistry",
+      "year": "2019",
+      "authors": [
+        "Bastida Jose María",
+        "Girós María Luisa",
+        "Benito Rocío",
+        "Janusz Kamila",
+        "Hernández-Rivas Jesús María"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Cardiovascular Diseases",
+        "Humans",
+        "Hypercholesterolemia",
+        "Intestinal Diseases",
+        "Lipid Metabolism, Inborn Errors",
+        "Phytosterols"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29984642/"
+    },
+    {
+      "pmid": "27104173",
+      "title": "Sitosterolemia: a review and update of pathophysiology, clinical spectrum, diagnosis, and management.",
+      "abstract": "Sitosterolemia is an autosomal recessive disorder characterized by increased plant sterol levels, xanthomas, and accelerated atherosclerosis. Although it was originally reported in patients with normolipemic xanthomas, severe hypercholesterolemia have been reported in patients with sitosterolemia, especially in children. Sitosterolemia is caused by increased intestinal absorption and decreased biliary excretion of sterols resulting from biallelic mutations in either ABCG5 or ABCG8, which encode the sterol efflux transporter ABCG5 and ABCG8. Patients with sitosterolemia show extreme phenotypic heterogeneity, ranging from almost asymptomatic individuals to those with severe hypercholesterolemia leading to accelerated atherosclerosis and premature cardiac death. Hematologic manifestations include hemolytic anemia with stomatocytosis, macrothrombocytopenia, splenomegaly, and abnormal bleeding. The mainstay of therapy includes dietary restriction of both cholesterol and plant sterols and th",
+      "journal": "Annals of pediatric endocrinology & metabolism",
+      "year": "2016",
+      "authors": [
+        "Yoo Eun-Gyong"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27104173/"
+    },
+    {
+      "pmid": "28340366",
+      "title": "Effect of ezetimibe on low- and high-density lipoprotein subclasses in sitosterolemia.",
+      "abstract": "Sitosterolemia displays high plasma total sterols [high plant sterols (PS) + normal to high total cholesterol (TC)] with normal to moderately elevated low-density lipoprotein (LDL) levels. High LDL, intermediate-density lipoprotein (IDL) and very low-density lipoprotein (VLDL) particles, low high-density lipoprotein (HDL), and increased non-HDL and the ratios of TC and triglycerides (TG) to HDL can increase the risk for atherosclerosis. Ezetimibe (EZE) can reduce plasma PS and TC levels in sitosterolemia, but its effect on lipoprotein subclasses has not been previously reported.",
+      "journal": "Atherosclerosis",
+      "year": "2017",
+      "authors": [
+        "Othman Rgia A",
+        "Myrie Semone B",
+        "Mymin David",
+        "Roullet Jean-Baptiste",
+        "Steiner Robert D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Anticholesteremic Agents",
+        "Cholesterol, HDL",
+        "Electrophoresis, Polyacrylamide Gel",
+        "Ezetimibe",
+        "Female",
+        "Humans",
+        "Hypercholesterolemia",
+        "Intestinal Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28340366/"
+    },
+    {
+      "pmid": "34140251",
+      "title": "Cerebrotendinous xanthomatosis, sitosterolemia, Smith-Lemli-Opitz syndrome and the seminal contributions of Gerald Salen, MD (1935-2020).",
+      "abstract": "Cerebrotendinous xanthomatosis (CTX), sitosterolemia, and Smith-Lemli Opitz syndrome (SLOS) are rare inborn errors of metabolism. The diagnoses of CTX and sitosterolemia are often delayed for many years because of lack of physician awareness, often resulting in significant and unnecessary progression of disease. CTX may present with chronic diarrhea, juvenile onset cataracts, strikingly large xanthomas, and neurologic disease in the setting of a normal serum cholesterol, but markedly elevated serum or plasma cholestanol levels. These patients have a defect in producing the bile acid chenodoxycholate, and oral chenodeoxycholate therapy is essential for these patients in order to prevent neurologic complications. Sitosterolemia can present with xanthomas, anemia, thrombocytopenia, splenomegaly, very premature heart disease, and serum cholesterol levels that may be normal or elevated, along with marked elevations of plasma β-sitosterol. These patients have a defect causing overabsorption ",
+      "journal": "Journal of clinical lipidology",
+      "year": "2021",
+      "authors": [
+        "Schaefer Ernst J",
+        "Tint G Stephen",
+        "Duell P Barton",
+        "Steiner Robert D"
+      ],
+      "pub_types": [
+        "Biography",
+        "Historical Article",
+        "Journal Article",
+        "Portrait",
+        "Review"
+      ],
+      "mesh_terms": [
+        "History, 20th Century",
+        "History, 21st Century",
+        "Humans",
+        "Hypercholesterolemia",
+        "Intestinal Diseases",
+        "Lipid Metabolism, Inborn Errors",
+        "Male",
+        "Physicians",
+        "Phytosterols",
+        "Smith-Lemli-Opitz Syndrome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34140251/"
+    },
+    {
+      "pmid": "28978219",
+      "title": "Epidemiology and management of hyperlipidemia.",
+      "abstract": "Cardiovascular disease (CVD) is the leading cause of death among adults in the United States, and people with hyperlipidemia are at roughly twice the risk of developing CVD as compared to those with normal total cholesterol levels.1 Patients with familial hypercholesterolemia (FH) have an even greater risk of developing CVD at an earlier age; therefore, early detection and treatment are imperative to reduce cardiovascular events and premature death. Statins are the mainstay treatment for hyperlipidemia; however, the limitations of statins include treatment resistance, intolerance due to adverse events, and a lack of adherence which contribute to poor outcomes. As such, many patients require adjunct therapies to properly control hyperlipidemia including niacin, bile acid sequestrants, fibric acids, and ezetimibe. FH can be even more challenging to treat, often requiring the use of lomitapide, mipomersen, proprotein convertase subtilisin/kexin type 9 inhibitors, or low-density lipoprotei",
+      "journal": "The American journal of managed care",
+      "year": "2017",
+      "authors": [
+        "Karr Samantha"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Hypercholesterolemia",
+        "Hyperlipidemias",
+        "Hypolipidemic Agents",
+        "Practice Guidelines as Topic",
+        "Risk Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28978219/"
+    },
+    {
+      "pmid": "31357887",
+      "title": "Bempedoic acid plus ezetimibe fixed-dose combination in patients with hypercholesterolemia and high CVD risk treated with maximally tolerated statin therapy.",
+      "abstract": "The aim of this study was to evaluate the low-density lipoprotein cholesterol lowering efficacy and safety of a bempedoic acid 180 mg and ezetimibe 10 mg fixed-dose combination in patients with hypercholesterolemia and a high risk of cardiovascular disease receiving maximally tolerated statin therapy.",
+      "journal": "European journal of preventive cardiology",
+      "year": "2020",
+      "authors": [
+        "Ballantyne Christie M",
+        "Laufs Ulrich",
+        "Ray Kausik K",
+        "Leiter Lawrence A",
+        "Bays Harold E"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Anticholesteremic Agents",
+        "Biomarkers",
+        "Cardiovascular Diseases",
+        "Cholesterol, LDL",
+        "Dicarboxylic Acids",
+        "Double-Blind Method",
+        "Down-Regulation",
+        "Drug Combinations",
+        "Ezetimibe"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31357887/"
+    },
+    {
+      "pmid": "34480646",
+      "title": "Familial Hypercholesterolemia: Global Burden and Approaches.",
+      "abstract": "Familial hypercholesterolemia (FH) is the most common genetic metabolic disorder characterized by markedly elevated LDL-C levels from birth leading to atherosclerotic cardiovascular disease (ASCVD) and premature deaths. The purpose of this review is to share the current knowledge in the diagnosis, risk estimation, and management of patients with FH in the light of recent evidence and guideline recommendations.",
+      "journal": "Current cardiology reports",
+      "year": "2021",
+      "authors": [
+        "Tokgozoglu Lale",
+        "Kayikcioglu Meral"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anticholesteremic Agents",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Hyperlipoproteinemia Type II"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34480646/"
+    },
+    {
+      "pmid": "37762244",
+      "title": "Postprandial Hyperlipidemia: Its Pathophysiology, Diagnosis, Atherogenesis, and Treatments.",
+      "abstract": "Postprandial hyperlipidemia showing postprandial increases in serum triglyceride (TG) is associated with the development of atherosclerotic cardiovascular disease (ASCVD). To diagnose postprandial hyperlipidemia, the oral fat loading test (OFLT) should be performed; however, this test is very time-consuming and is difficult to perform. Elevated serum TG levels reflect an increase in TG-rich lipoproteins (TRLs), such as chylomicrons (CM), very low-density lipoproteins (VLDL), and their remnants (CM remnants [CMRs] and VLDL remnants [VLDLRs]). Understanding of elevation in CMR and/or VLDLR can lead us to understand the existence of postprandial hyperlipidemia. The measurement of apo B48, which is a constituent of CM and CMR; non-fasting TG, which includes TG content in all lipoproteins including CM and CMR; non-high-density lipoprotein cholesterol (non-HDL-C), which includes TRLs and low-density lipoprotein; and remnant cholesterol are useful to reveal the existence of postprandial hyper",
+      "journal": "International journal of molecular sciences",
+      "year": "2023",
+      "authors": [
+        "Yanai Hidekatsu",
+        "Adachi Hiroki",
+        "Hakoshima Mariko",
+        "Katsuyama Hisayuki"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hyperlipidemias",
+        "Diabetes Mellitus, Type 2",
+        "Lipoproteins",
+        "Triglycerides",
+        "Lipoproteins, VLDL",
+        "Atherosclerosis",
+        "Postprandial Period"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37762244/"
+    },
+    {
+      "pmid": "23956253",
+      "title": "Familial hypercholesterolaemia is underdiagnosed and undertreated in the general population: guidance for clinicians to prevent coronary heart disease: consensus statement of the European Atherosclerosis Society.",
+      "abstract": "The first aim was to critically evaluate the extent to which familial hypercholesterolaemia (FH) is underdiagnosed and undertreated. The second aim was to provide guidance for screening and treatment of FH, in order to prevent coronary heart disease (CHD).",
+      "journal": "European heart journal",
+      "year": "2013",
+      "authors": [
+        "Nordestgaard Børge G",
+        "Chapman M John",
+        "Humphries Steve E",
+        "Ginsberg Henry N",
+        "Masana Luis"
+      ],
+      "pub_types": [
+        "Consensus Statement",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anticholesteremic Agents",
+        "Atherosclerosis",
+        "Child",
+        "Child, Preschool",
+        "Cholesterol, LDL",
+        "Coronary Disease",
+        "Cost-Benefit Analysis",
+        "Delivery of Health Care",
+        "Early Diagnosis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23956253/"
+    },
+    {
+      "pmid": "25939291",
+      "title": "Familial hypercholesterolemia.",
+      "abstract": "Familial hypercholesterolemia is a common, inherited disorder of cholesterol metabolism that leads to early cardiovascular morbidity and mortality. It is underdiagnosed and undertreated. Statins, ezetimibe, bile acid sequestrants, niacin, lomitapide, mipomersen, and low-density lipoprotein (LDL) apheresis are treatments that can lower LDL cholesterol levels. Early treatment can lead to substantial reduction of cardiovascular events and death in patients with familial hypercholesterolemia. It is important to increase awareness of this disorder in physicians and patients to reduce the burden of this disorder.",
+      "journal": "Cardiology clinics",
+      "year": "2015",
+      "authors": [
+        "Bouhairie Victoria Enchia",
+        "Goldberg Anne Carol"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anticholesteremic Agents",
+        "Blood Component Removal",
+        "Genetic Predisposition to Disease",
+        "Global Health",
+        "Humans",
+        "Hyperlipoproteinemia Type II",
+        "Lipoproteins",
+        "Prevalence"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25939291/"
+    },
+    {
+      "pmid": "38599725",
+      "title": "Familial hypercholesterolemia.",
+      "abstract": "Familial hypercholesterolemia is a common genetic disorder of autosomal inheritance associated with elevated LDL-cholesterol. It is estimated to affect 1:250 individuals in general population roughly estimated to be 5 million in India. The prevalence of FH is higher in young CAD patients (<55 years in men; <60 years in women). FH is underdiagnosed and undertreated. Screening during childhood and Cascade screening of family members of known FH patients is of utmost importance in order to prevent the burden of CAD. Early identification of FH patients and early initiation of the lifelong lipid lowering therapy is the most effective strategy for managing FH. FH management includes pharmaceutical agents (statins and non statin drugs) and lifestyle modification. Inspite of maximum dose of statin with or without Ezetimibe, if target levels of LDL-C are not achieved, Bempedoic acid, proprotein convertase subtilisin/kexin type 9 (PCSK9) Inhibitors/Inclisiran can be added.",
+      "journal": "Indian heart journal",
+      "year": "2024",
+      "authors": [
+        "Sawhney J P S",
+        "Madan Kushal"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Male",
+        "Humans",
+        "Female",
+        "Proprotein Convertase 9",
+        "Anticholesteremic Agents",
+        "Cholesterol, LDL",
+        "Hyperlipoproteinemia Type II",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38599725/"
+    },
+    {
+      "pmid": "36422206",
+      "title": "Familial Hypercholesterolemia and Its Current Diagnostics and Treatment Possibilities: A Literature Analysis.",
+      "abstract": "Familial hypercholesterolemia (FH) is a common, inherited disorder of cholesterol metabolism. This pathology is usually an autosomal dominant disorder and is caused by inherited mutations in the APOB, LDLR, and PCSK9 genes. Patients can have a homozygous or a heterozygous genotype, which determines the severity of the disease and the onset age of cardiovascular disease (CVD) manifestations. The incidence of heterozygous FH is 1: 200-250, whereas that of homozygous FH is 1: 100.000-160.000. Unfortunately, FH is often diagnosed too late and after the occurrence of a major coronary event. FH may be suspected in patients with elevated blood low-density lipoprotein cholesterol (LDL-C) levels. Moreover, there are other criteria that help to diagnose FH. For instance, the Dutch Lipid Clinical Criteria are a helpful diagnostic tool that is used to diagnose FH. FH often leads to the development of early cardiovascular disease and increases the risk of sudden cardiac death. Therefore, early diag",
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "year": "2022",
+      "authors": [
+        "Zubielienė Kristina",
+        "Valterytė Gintarė",
+        "Jonaitienė Neda",
+        "Žaliaduonytė Diana",
+        "Zabiela Vytautas"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Proprotein Convertase 9",
+        "Cholesterol, LDL",
+        "Hyperlipoproteinemia Type II",
+        "Acute Coronary Syndrome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36422206/"
+    },
+    {
+      "pmid": "30586774",
+      "title": "2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.",
+      "abstract": "Since 1980, the American College of Cardiology (ACC) and American Heart Association (AHA) have translated scientific evidence into clinical practice guidelines with recommendations to improve cardiovascular health. These guidelines, which are based on systematic methods to evaluate and classify evidence, provide a foundation for the delivery of quality cardiovascular care. The ACC and AHA sponsor the development and publication of clinical practice guidelines without commercial support, and members volunteer their time to the writing and review efforts. Clinical practice guidelines provide recommendations applicable to patients with or at risk of developing cardiovascular disease (CVD). The focus is on medical practice in the United States, but these guidelines are relevant to patients throughout the world. Although guidelines may be used to inform regulatory or payer decisions, the intent is to improve quality of care and align with patients’ interests. Guidelines are intended to defi",
+      "journal": "Circulation",
+      "year": "2019",
+      "authors": [
+        "Grundy Scott M",
+        "Stone Neil J",
+        "Bailey Alison L",
+        "Beam Craig",
+        "Birtcher Kim K"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anticholesteremic Agents",
+        "Biomarkers",
+        "Cardiology",
+        "Cardiovascular Diseases",
+        "Cholesterol",
+        "Consensus",
+        "Evidence-Based Medicine",
+        "Humans",
+        "Hyperlipidemias",
+        "Risk Assessment"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30586774/"
+    },
+    {
+      "pmid": "41206969",
+      "title": "Efficacy and Safety of Oral PCSK9 Inhibitor Enlicitide in Adults With Heterozygous Familial Hypercholesterolemia: A Randomized Clinical Trial.",
+      "abstract": "Persons with heterozygous familial hypercholesterolemia (HeFH) are at increased risk of atherosclerotic cardiovascular disease due to lifelong elevated levels of low-density lipoprotein cholesterol (LDL-C). Many patients with HeFH do not achieve guideline-recommended LDL-C goals with the currently available lipid-lowering therapies.",
+      "journal": "JAMA",
+      "year": "2026",
+      "authors": [
+        "Ballantyne Christie M",
+        "Gellis Laura",
+        "Tardif Jean-Claude",
+        "Banka Puja",
+        "Navar Ann Marie"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Administration, Oral",
+        "Anticholesteremic Agents",
+        "Apolipoproteins B",
+        "Cholesterol, LDL"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41206969/"
+    },
+    {
+      "pmid": "39521985",
+      "title": "Efficacy and safety of inclisiran versus PCSK9 inhibitor versus statin plus ezetimibe therapy in hyperlipidemia: a systematic review and network meta-analysis.",
+      "abstract": "Hyperlipidemia plays a crucial role in increasing the risk of cardiovascular diseases such as atherosclerosis. Recent studies have established that inclisiran positively influences lipid regulation. Nevertheless, its effectiveness in comparison to conventional treatments is still questionable. Hence, a methodical assessment of its effectiveness and safety is required. This research evaluates the efficacy and safety of inclisiran, PCSK9 inhibitors, and the combination of statins with ezetimibe in the treatment of hyperlipidemia via a network meta-analysis of randomized controlled trials (RCTs).",
+      "journal": "BMC cardiovascular disorders",
+      "year": "2024",
+      "authors": [
+        "Zhang Shengxuan",
+        "Sun Lei",
+        "Xu Xinyu",
+        "Zhang Yanling",
+        "Chen Qilan"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Systematic Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Anticholesteremic Agents",
+        "Biomarkers",
+        "Drug Therapy, Combination",
+        "Ezetimibe",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Hyperlipidemias",
+        "Lipids",
+        "PCSK9 Inhibitors",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39521985/"
+    }
+  ]
+}

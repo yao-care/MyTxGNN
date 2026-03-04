@@ -5,7 +5,7 @@ drugbank_id: "DB00603"
 drug_name: "Medroxyprogesterone Acetate"
 kg_predictions: 63
 dl_predictions: 84
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 63
 brands: []
 permalink: /drugs/medroxyprogesterone-acetate/
@@ -21,7 +21,7 @@ permalink: /drugs/medroxyprogesterone-acetate/
 | **DrugBank ID** | [DB00603](https://go.drugbank.com/drugs/DB00603) |
 | **KG Predictions** | 63 |
 | **DL Predictions (≥0.7)** | 84 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

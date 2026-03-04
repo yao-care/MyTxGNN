@@ -5,7 +5,7 @@ drugbank_id: "DB00624"
 drug_name: "Testosterone"
 kg_predictions: 90
 dl_predictions: 119
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 90
 brands: []
 permalink: /drugs/testosterone/
@@ -21,7 +21,7 @@ permalink: /drugs/testosterone/
 | **DrugBank ID** | [DB00624](https://go.drugbank.com/drugs/DB00624) |
 | **KG Predictions** | 90 |
 | **DL Predictions (≥0.7)** | 119 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

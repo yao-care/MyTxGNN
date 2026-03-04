@@ -2,7 +2,7 @@
   "drug": "Ofloxacin",
   "drugbank_id": "DB01165",
   "evidence_level": "L2",
-  "collected_at": "2026-03-04T09:55:08Z",
+  "collected_at": "2026-03-04T10:08:38Z",
   "indications": [
     {
       "indication": "paratyphoid fever",
@@ -101,7 +101,7 @@
       "status": "TERMINATED",
       "start_date": "2012-09",
       "completion_date": "2016-03",
-      "country": "Kenya, Thailand, Honduras, Djibouti, Afghanistan",
+      "country": "Honduras, Thailand, Kenya, Afghanistan, Djibouti",
       "enrollment": 384,
       "brief_summary": "The purpose of the trial is to develop the evidence on relative efficacy of 3 available single-dose loperamide adjuncted regimens for watery diarrhea and a single-dose regimen, with and without loperamide, for dysentery/febrile diarrhea required for informing decisions among these regimens. Information from this study will be used to develop management guidelines for the diagnosis and management of travelers' diarrhea (TD) among deployed United States and United Kingdom military personnel.",
       "eligibility_criteria": "Inclusion Criteria:\n\n1. Active duty military or military beneficiary, 18 years-old or older.\n2. Presence of acute diarrhea (3 or more stools in 24 hours or 2 or more stools in 24 hours and associated symptoms such as nausea, vomiting, abdominal cramps or tenesmus) and \\<96 hours duration.\n3. Eligibl",

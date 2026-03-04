@@ -5,7 +5,7 @@ drugbank_id: "DB00188"
 drug_name: "Bortezomib"
 kg_predictions: 64
 dl_predictions: 16
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 64
 brands: []
 permalink: /drugs/bortezomib/
@@ -21,7 +21,7 @@ permalink: /drugs/bortezomib/
 | **DrugBank ID** | [DB00188](https://go.drugbank.com/drugs/DB00188) |
 | **KG Predictions** | 64 |
 | **DL Predictions (≥0.7)** | 16 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

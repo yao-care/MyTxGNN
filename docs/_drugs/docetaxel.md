@@ -5,7 +5,7 @@ drugbank_id: "DB01248"
 drug_name: "Docetaxel"
 kg_predictions: 70
 dl_predictions: 610
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 70
 brands: []
 permalink: /drugs/docetaxel/
@@ -21,7 +21,7 @@ permalink: /drugs/docetaxel/
 | **DrugBank ID** | [DB01248](https://go.drugbank.com/drugs/DB01248) |
 | **KG Predictions** | 70 |
 | **DL Predictions (≥0.7)** | 610 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

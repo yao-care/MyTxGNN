@@ -5,7 +5,7 @@ drugbank_id: "DB00820"
 drug_name: "Tadalafil"
 kg_predictions: 115
 dl_predictions: 87
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 115
 brands: []
 permalink: /drugs/tadalafil/
@@ -21,7 +21,7 @@ permalink: /drugs/tadalafil/
 | **DrugBank ID** | [DB00820](https://go.drugbank.com/drugs/DB00820) |
 | **KG Predictions** | 115 |
 | **DL Predictions (≥0.7)** | 87 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

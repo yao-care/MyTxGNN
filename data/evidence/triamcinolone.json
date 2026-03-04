@@ -2,7 +2,7 @@
   "drug": "Triamcinolone",
   "drugbank_id": "DB00620",
   "evidence_level": "L1",
-  "collected_at": "2026-03-04T09:55:40Z",
+  "collected_at": "2026-03-04T10:09:10Z",
   "indications": [
     {
       "indication": "erythema multiforme",
@@ -227,7 +227,7 @@
       "status": "TERMINATED",
       "start_date": "2009-09",
       "completion_date": "2019-03",
-      "country": "United States, Italy",
+      "country": "Italy, United States",
       "enrollment": 112,
       "brief_summary": "Combined modality therapy has then emerged as the standard of care for limited-stage Hodgkin's lymphoma and doxorubicin, bleomycin, vinblastine, and dacarbazine (ABVD) chemotherapy that is devoid of alkylating agents and associated with a low potential for gonadal toxicity and leukemogenesis, is currently considered a gold standard. Nevertheless, the disadvantage to combine radiotherapy to ABVD is represented by late cardiovascular events (myocardial dysfunction and coronary or valvular disease)",
       "eligibility_criteria": "Inclusion Criteria:\n\n* History of histologically confirmed classical Hodgkin lymphoma (cHL)\n* Limited-stage disease defined as stage I or IIA with no areas of bulky disease\n* Measurable disease according to the Cheson criteria\n* Age \\>=18 years\n* Adequate bone marrow reserve (ANC \\>= 1,500/uL, Plate",
@@ -300,7 +300,7 @@
       "status": "COMPLETED",
       "start_date": "2015-10-05",
       "completion_date": "2019-10-24",
-      "country": "United States, United Kingdom",
+      "country": "United Kingdom, United States",
       "enrollment": 133,
       "brief_summary": "This study evaluates camidanlumab tesirine in participants with relapsed/refractory Non-Hodgkin or Hodgkin lymphoma.",
       "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female age 18 years or older.\n2. Refractory or relapsed lymphoma (per World Health Organization (WHO) Classification system)\n3. Pathologically confirmed relapsed or refractory lymphoma\n4. Availability of formalin-fixed paraffin-embedded (FFPE) tumor tissue block.\n5. M",

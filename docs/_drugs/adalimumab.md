@@ -5,7 +5,7 @@ drugbank_id: "DB00051"
 drug_name: "Adalimumab"
 kg_predictions: 180
 dl_predictions: 130
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 180
 brands: []
 permalink: /drugs/adalimumab/
@@ -21,7 +21,7 @@ permalink: /drugs/adalimumab/
 | **DrugBank ID** | [DB00051](https://go.drugbank.com/drugs/DB00051) |
 | **KG Predictions** | 180 |
 | **DL Predictions (≥0.7)** | 130 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

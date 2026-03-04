@@ -5,7 +5,7 @@ drugbank_id: "DB09154"
 drug_name: "Sodium Citrate"
 kg_predictions: 90
 dl_predictions: 132
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 90
 brands: []
 permalink: /drugs/sodium-citrate/
@@ -21,7 +21,7 @@ permalink: /drugs/sodium-citrate/
 | **DrugBank ID** | [DB09154](https://go.drugbank.com/drugs/DB09154) |
 | **KG Predictions** | 90 |
 | **DL Predictions (≥0.7)** | 132 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

@@ -1,0 +1,1044 @@
+{
+  "drug": "Insulin Human",
+  "drugbank_id": "DB00030",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:35:38Z",
+  "indications": [
+    {
+      "indication": "diabetic ketoacidosis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 3,
+        "phase1_trials": 0,
+        "other_trials": 16,
+        "rct_articles": 1,
+        "review_articles": 6,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "type 2 diabetes mellitus",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 3,
+        "phase1_trials": 2,
+        "other_trials": 14,
+        "rct_articles": 5,
+        "review_articles": 3,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "type 1 diabetes mellitus",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 4,
+        "phase1_trials": 3,
+        "other_trials": 9,
+        "rct_articles": 2,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "diabetes mellitus",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 2,
+        "phase1_trials": 3,
+        "other_trials": 13,
+        "rct_articles": 3,
+        "review_articles": 4,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "IDDM 1",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 5,
+        "phase1_trials": 4,
+        "other_trials": 6,
+        "rct_articles": 3,
+        "review_articles": 5,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 100,
+  "total_articles": 49,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04233034",
+      "title": "Hybrid Closed Loop Therapy and Verapamil for Beta Cell Preservation in New Onset Type 1 Diabetes (CLVer)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-07-09",
+      "completion_date": "2022-09-30",
+      "country": "United States",
+      "enrollment": 113,
+      "brief_summary": "Randomized trial of youth aged 7-\\<18 years with newly diagnosed stage 3 type 1 diabetes (T1D) to assess the effect of both (1) near-normalization of glucose concentrations achieved through use of a hybrid closed loop (HCL) system and (2) verapamil on preservation of β-cell function 12 months after diagnosis. Participants with body weight ≥30 kg (Cohort A) will be randomly assigned in a factorial design to (1) HCL plus intensive diabetes management or usual care with no HCL and (2) verapamil or ",
+      "eligibility_criteria": "* Participant Inclusion Criteria:\n\n  1. New-onset stage 3 T1D within 21 days of diagnosis (timed from start of insulin therapy), with ability to be randomized within 31 days of diagnosis (time from diagnosis to screening can be longer provided all screening testing can be completed within 31 days of",
+      "endpoints": [
+        "C-peptide Area Under the Curve (AUC)"
+      ],
+      "sponsor": "Jaeb Center for Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT04233034"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07167693",
+      "title": "Phase 1 Randomized Clinical Trial of Arginine Hydrochloride Administration to Reduce Duration of Diabetic Ketoacidosis in Patients With Type 2 Diabetes",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-12-19",
+      "completion_date": "2027-12-31",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Diabetic ketoacidosis (DKA) is increasingly recognized in adults with \"ketone-prone\" type 2 diabetes. In many of these patients, the pancreas can still make insulin but becomes temporarily \"stunned\" during severe, prolonged high blood sugar. Arginine is a naturally occurring amino acid that can trigger the pancreas to release its own insulin when glucose is high. It is FDA-approved for other uses and has been given intravenously for decades with a strong safety record. Whether a single arginine ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>17 years.\n* Unscheduled presentation to a participating emergency department with hyperglycemia (serum glucose \\>250 mg/dL) and significant ketonemia consistent with DKA, defined as laboratory serum/plasma β-hydroxybutyrate (BHB) \\>20 mg/dL (≈≥1.9 mmol/L).\n\nNote: point-o",
+      "endpoints": [
+        "Change in endogenous insulin secretion (C-peptide/glucose ratio)"
+      ],
+      "sponsor": "Wayne State University",
+      "url": "https://clinicaltrials.gov/study/NCT07167693"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04196140",
+      "title": "Evaluating the Safety and Effectiveness of the Omnipod Horizon™ Automated Glucose Control System in Patients With Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-12-30",
+      "completion_date": "2022-04-20",
+      "country": "United States",
+      "enrollment": 240,
+      "brief_summary": "Subjects will undergo a 14-day outpatient, standard therapy phase during which sensor and insulin data will be collected. This will be followed by a 94-day (13-week) hybrid closed-loop phase conducted in an outpatient setting and an optional 12-month extension phase.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age at time of consent/assent 6-70 years\n2. Subjects aged \\< 18 years must be living with parent/legal guardian\n3. Diagnosed with type 1 diabetes for at least 6 months. Diagnosis is based on investigator's clinical judgment\n4. Deemed appropriate for pump therapy per investiga",
+      "endpoints": [
+        "Incidence Rate of Severe Hypoglycemia (Events Per Person Months)",
+        "Incidence Rate of Diabetic Ketoacidosis (DKA) (Events Per Person Months)",
+        "Glycated Hemoglobin (A1C)"
+      ],
+      "sponsor": "Insulet Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT04196140"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06007508",
+      "title": "Early Administration of Insulin Glargine in Patients With Diabetic Ketoacidosis",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2022-05-31",
+      "completion_date": "2023-02-28",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Diabetic ketoacidosis (DKA) is a medical emergency that is associated with significant morbidity and mortality for both patients with type I and type II diabetes. By correcting hyperglycemia and inhibiting the release of free fatty acids, insulin administration leads to decreased ketone formation and resolution of acidosis. Short-acting intravenous insulin is often preferred to subcutaneous administration for initial management due to its short half-life and ease of titration, but patients will ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Presented to Regions Hospital ED for chief complaint of DKA, nausea, vomiting, abdominal pain, hyperglycemia, or similar\n2. Meets all below diagnostic criteria for DKA per the American Diabetes Association:\n\n   * Arterial or venous pH \\</= 7.3\n   * Serum Bicarbonate \\</= 18 m",
+      "endpoints": [
+        "Does early administration of insulin glargine result in a change in ICU length of stay when compared to usual care for the treatment of diabetic ketoacidosis?"
+      ],
+      "sponsor": "HealthPartners Institute",
+      "url": "https://clinicaltrials.gov/study/NCT06007508"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00426413",
+      "title": "Ketosis Prone Diabetes Mellitus in African-Americans: Insulin Signaling, Proteomics, and Outcomes",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2010-08",
+      "country": "United States",
+      "enrollment": 44,
+      "brief_summary": "Over 50% of obese African-Americans (AA) presenting with newly diagnosed, severe hyperglycemia and/or unprovoked diabetic ketoacidosis (DKA) display clinical, metabolic, and immunogenetic features of type 2 diabetes. Prior studies indicate that these patients a) have markedly decreased insulin secretion and impaired insulin action at presentation, b) absent or low prevalence of beta-cell autoantibodies and c) are able to discontinue aggressive insulin therapy in \\~70% of cases within 3 months of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 36 Obese AA subjects with DKA or severe hyperglycemia and 8 obese nondiabetic subjects, age 19-65. All studies will be performed in the GCRC at Grady Memorial Hospital.\n* Subjects with a BMI ≥ 28 kg/m2 will be included.\n* Diagnostic criteria for DKA will include:\n\n  * a plasma",
+      "endpoints": [],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT00426413"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01709123",
+      "title": "Ketosis, Vascular Inflammation, and Its Therapy (Chromium Supplementation) in Diabetic Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-08",
+      "completion_date": "2013-09",
+      "country": "United States",
+      "enrollment": 62,
+      "brief_summary": "6-8% of USA population has diabetes. Intensive blood glucose control dramatically reduces the devastating complications that result from poorly controlled diabetes. However, for many patients, achievement of tight glucose control is difficult with current regimens. Trivalent chromium, the form found in foods and dietary supplements, is believed to be safe. Our preliminary studies have reported that chromium supplementation inhibits the increase in pro-inflammatory cytokines (tumor necrosis facto",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Type 1 diabetes mellitus\n* Participants between the ages of 8 and 21\n\nExclusion Criteria:\n\n* Subjects with sickle cell disease, renal or liver disease\n* Serum positive pregnancy test or breastfeeding\n* Participants unwilling/unable to take supplements in ",
+      "endpoints": [
+        "Blood Glucose Level",
+        "Blood Glucose Levels"
+      ],
+      "sponsor": "Louisiana State University Health Sciences Center Shreveport",
+      "url": "https://clinicaltrials.gov/study/NCT01709123"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06599203",
+      "title": "Prognostic Factors in Children with Diabetic Ketoacidosis",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-10-01",
+      "completion_date": "2026-01-31",
+      "country": "N/A",
+      "enrollment": 130,
+      "brief_summary": "In the present work we aim to\n\n1. Response to therapy, During the management of DKA, acid base status, glycemia, and serum electrolytes are measured frequently to monitor the efficacy of treatment, detect complications of DKA and its treatment, and to determine resolution of DKA.\n2. Clinical complication like cerebral injury / cerebral edema , cognitive impairment , acute kidney injury , hypokalemia.\n3. Severity of DKA",
+      "eligibility_criteria": "Inclusion Criteria:\n\nHospitalized diabetic patients aged from 1 year to 16 years with diabetic ketoacidosis\n\nExclusion Criteria:\n\n1. Other endocrine diseases as thyroid disease or pituitary disease\n2. Severe Hepatic Dysfunction or Chronic Kidney Dysfunction: Patients with significant liver or kidney",
+      "endpoints": [
+        "Method",
+        "Sample size",
+        "Determination of response to therapy and clinical complication of DKA"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT06599203"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04200313",
+      "title": "The Insulin-Only Bionic Pancreas Pivotal Trial: Testing the iLet in Adults and Children With Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-03-31",
+      "completion_date": "2022-01-14",
+      "country": "United States",
+      "enrollment": 440,
+      "brief_summary": "This multi-center randomized control trial (RCT) will compare efficacy and safety endpoints using the insulin-only configuration of the iLet Bionic Pancreas (BP) System versus Usual Care (UC) during a 13-week study period. Participants may be enrolled initially into a screening protocol and then transfer into the RCT protocol, or they may enter directly into the RCT protocol. The RCT will be followed by an Extension Phase in which the RCT Usual Care (UC) Group will use the insulin-only configura",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Clinical diagnosis of T1D for at least one year and using insulin for at least 1 year 2. Diabetes managed using the same regimen (either pump or MDI, with or without CGM) for ≥ 3 months\n\n  3\\. Age ≥ 6 years old\n  * Exception: the initial 5-participant test run will be limi",
+      "endpoints": [
+        "HbA1c"
+      ],
+      "sponsor": "Jaeb Center for Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT04200313"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04902378",
+      "title": "Closed-loop Insulin Delivery by Glucose Responsive Computer Algorithms In Type 1 Diabetes Pregnancies (CIRCUIT)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-06-15",
+      "completion_date": "2025-05-23",
+      "country": "Australia, Canada",
+      "enrollment": 94,
+      "brief_summary": "This trial will assess the efficacy of the Tandem t:slim X2 insulin pump with Control IQ technology compared with standard insulin delivery plus CGM in pregnant women with type 1 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Between 18 and 45 years of age (inclusive)\n* A diagnosis of type 1 diabetes, as defined by Diabetes Canada, for at least 12 months\n* A viable singleton pregnancy confirmed by ultrasound, less than 14 weeks gestation\n* Currently on intensive insulin therapy (≥ 3 injections, or ",
+      "endpoints": [
+        "Glycemic control as reflected by percent glucose time-in-range"
+      ],
+      "sponsor": "University of Calgary",
+      "url": "https://clinicaltrials.gov/study/NCT04902378"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06117449",
+      "title": "Effectiveness and Satisfaction of Insulin Therapy in Type 2 Diabetic Patients (Real Life Study)",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2025-05-01",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Diabetes mellitus is an endocrine disorder with heterogeneous etiologies, which is characterized by raised levels of glucose in a person's blood and disturbances of macromolecules such as carbohydrate, fat, and protein metabolism resulting from defects in insulin secretion, insulin action, or both.\n\nA lack of insulin, or the inability of cells to respond to it, leads to high levels of blood glucose (hyperglycemia), which is the clinical indicator of diabetes. Type 1 DM is characterized by insuli",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Patients with type 2 diabetes mellitus aged ≥18 years.\n\n* Patients going on insulin therapy versus patients going on oral antidiabetic drugs.\n* patients included if they met the following\n\nCriteria:\n\n* previous diagnosis of diabetes mellitus or on medical therapy of DM.\n* no pr",
+      "endpoints": [
+        "blood glucose level",
+        "HbA1C level"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT06117449"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06032325",
+      "title": "Neutrophil Gelatinase Associated Lipocalin and Kidney Injury Molecule-1 As Biomarkers of Acute Kidney Injury in Children With Diabetic Ketoacidosis",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2024-01-01",
+      "completion_date": "2024-12-01",
+      "country": "N/A",
+      "enrollment": 48,
+      "brief_summary": "Type 1 diabetes mellitus (T1DM) is a common, chronic, metabolic disorder that has significant consequences for physical and emotional development . The incidence of TIDM is steadily increasing in nearly all parts of the world by about 2-5% per year . Diabetic ketoacidosis (DKA) is the most serious complication of TIDM and results from metabolic abnormalities due to a severe deficiency of insulin or insulin effectiveness. Similar to diabetes, DKA has an increasing incidence and more frequently oc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients with diabetic ketoacidosis below 18 years whether first time or recurrent ketoacidosis with either increase in serum creatinine more than or equal 0.3 mg/dl within 48hrs or to more than or equal 1.5 times or more baseline within 7 days or urine output less than 0.",
+      "endpoints": [
+        "biomarkers"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT06032325"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04815018",
+      "title": "A Longitudinal Observational Study Identifying Shifts in the Respiratory Microbiome and Clinical Outcomes of SARS-CoV-2 in Nursing Home Residents",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2020-10-07",
+      "completion_date": "2021-05-30",
+      "country": "United States",
+      "enrollment": 185,
+      "brief_summary": "This is a longitudinal, prospective observational study focusing on health-related outcomes relative to potential changes in the respiratory microbiome seen with weekly SARS-CoV-2 testing in nursing home residents.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All residents of the nursing home facility, (M/F) 65 years or above, who have recently tested positive through Ohio's PARRT Program are eligible\n* Resident must submit weekly nasal swab sample per nursing home COVID testing guidelines\n* Clinical suspicion of a new episode of a",
+      "endpoints": [
+        "Percent of SARS-CoV-2 infection",
+        "Percent of SARS-CoV-2 and bacterial co-infection",
+        "Percent of SARS-CoV-2 and viral co-infection"
+      ],
+      "sponsor": "Pathnostics",
+      "url": "https://clinicaltrials.gov/study/NCT04815018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05910840",
+      "title": "Support-t, an Online Training and Peer Support Platform to Accompany Youth Living With Type 1 Diabetes Transitioning to Adult Healthcare",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-10-07",
+      "completion_date": "2027-10",
+      "country": "Canada",
+      "enrollment": 200,
+      "brief_summary": "The investigators will conduct a randomized controlled trial (RCT) to examine how an online training and peer support platform could help the preparation to transition to adult care. Among 14-16 year old youth with Type 1 Diabetes (T1D), the investigators aim to assess the effect of an online training and peer support platform (Support-t) integrated in usual care, compared with usual care on Hemoglobin A1c (HbA1c), adverse outcomes and psychosocial measures during the preparation for transition ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adolescents with a clinical diagnosis of T1D\n* 14-16 years of age\n* Receiving diabetes care at one of 4 university teaching hospital-based pediatric diabetes clinics in Quebec: Montreal Children's Hospital-McGill University Health Centre, Centre hospitalier universitaire de Sh",
+      "endpoints": [
+        "Change from Baseline Hemaglobin A1c (HbA1c) at 18 months"
+      ],
+      "sponsor": "McGill University",
+      "url": "https://clinicaltrials.gov/study/NCT05910840"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02463097",
+      "title": "Safety Evaluation of the Hybrid Closed Loop (HCL) System in Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2018-10",
+      "country": "Israel, United States",
+      "enrollment": 124,
+      "brief_summary": "This study is a single-arm, multi-center, Home and Hotel Clinical Investigation in subjects with type 1 diabetes on insulin pump therapy. The purpose of this study is to demonstrate that the closed loop algorithm that is built into the 670G insulin pump is safe as part of the overall system.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Is age 14 - 75 years at time of screening\n2. Has a clinical diagnosis of type 1 diabetes for 2 years or more as determined via medical record or source documentation by an individual qualified to make a medical diagnosis\n3. Is willing to participate in a hotel study for the s",
+      "endpoints": [
+        "Change in A1C"
+      ],
+      "sponsor": "Medtronic Diabetes",
+      "url": "https://clinicaltrials.gov/study/NCT02463097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03300934",
+      "title": "Adolescence and Diabetes: Can an Automated Closed Loop System Improve Control ?",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-07-01",
+      "completion_date": "2018-07-19",
+      "country": "Luxembourg",
+      "enrollment": 16,
+      "brief_summary": "This study evaluates the use of the FD2 automated closed loop insulin administration in Adolescents with a poor metabolic control . All youth will be treated in a random order by their usual pump treatment or an Automated system and we will evaluate whether this has an impact on metabolic control and sleep",
+      "eligibility_criteria": "Inclusion Criteria:\n\n12- 18 years Type 1 diabetes according to WHO/ISPAD , for at least 1 year CSII treatment for at least 6 month HbA1c ≥ 8,0%, for more than 6 months Informed consent of the patient and parents\n\nExclusion Criteria:\n\nNon-type 1 diabetes mellitus including those secondary to chronic ",
+      "endpoints": [
+        "Time spent in glucose target (%) (3.9 - 10 mmol/l)"
+      ],
+      "sponsor": "Centre Hospitalier du Luxembourg",
+      "url": "https://clinicaltrials.gov/study/NCT03300934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05403502",
+      "title": "Safety Evaluation of an Advanced Hybrid Closed Loop System Using Lyumjev With the Tandem t:Slim X2 Insulin Pump With Control-IQ Technology in Adults, Adolescents and Children With Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-08-31",
+      "completion_date": "2023-08-02",
+      "country": "United States",
+      "enrollment": 183,
+      "brief_summary": "Prospective, multi-center, single-arm study in adults and children ages 6 to 80 with type 1 diabetes to evaluate the safety of Lyumjev with Control-IQ technology to achieve labeling updates for Lyumjev and the t:slim X2 insulin pump.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 6 to \\<81 years\n2. Diagnosis of type 1 diabetes for at least 1 year\n3. Currently using Control-IQ technology for at least 3 months, with CGM data recorded indicative of system use (active closed loop) for at least 85% of the possible time in 14 days prior to enrollment\n4.",
+      "endpoints": [
+        "Severe Hypoglycemia",
+        "Diabetic Ketoacidosis",
+        "Unanticipated Adverse Device Effects"
+      ],
+      "sponsor": "Tandem Diabetes Care, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05403502"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02130180",
+      "title": "Measurement of the Optic Nerve Sheath Diameter by Optic Ultrasound in Diabetic Ketoacidosis and the Relationship to Cerebral Edema",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2014-04",
+      "completion_date": "2015-10",
+      "country": "United States",
+      "enrollment": 108,
+      "brief_summary": "Diabetic ketoacidosis (DKA) is a complication of type 1, or \"insulin-dependent,\" diabetes (T1DM) and is defined by a high blood glucose level (over 200 mg/dL) coupled with severe acidosis. In this state the body breaks down fat tissue for adequate energy production. This results in ketone and acid production, and ultimately DKA. Cerebral edema (CE), or \"brain swelling,\" can also occur with severe DKA. Current evaluation for DKA-related CE necessitates a high index of clinical suspicion and often",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAges 7-18 years English speaking\n\nDKA group recruited from Children's ED. Criteria for DKA:\n\n1. Hyperglycemia \\>200 mg/dL AND\n2. Venous pH \\<7.30 AND/OR\n3. Bicarbonate level \\<15 AND\n4. Either positive urine or serum ketones\n\nT1DM and hyperglycemia without criteria for DKA (recr",
+      "endpoints": [
+        "Mean Optic Nerve Sheath Diameter"
+      ],
+      "sponsor": "Children's Hospitals and Clinics of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT02130180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04769765",
+      "title": "Evaluation of the Feasability of a Care Pathway Integrating Collaborative Tele-expertise for the Prevention of Recurrent Hospitalisations for Patients With Diabetes",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2022-05-04",
+      "completion_date": "2023-05-09",
+      "country": "France",
+      "enrollment": 200,
+      "brief_summary": "Telemedicine for diabetic patients is currently based simply on remotely monitoring capillary blood glucose levels. This experimental approach remains limited to insulin-treated diabetic patients with sufficient motivation and ability to use connected devices and only considers one aspect of the care required by diabetic patients. So far, telemedicine has not offered a more global approach to the therapeutic support of patients. This failing leads to recurrent hospitalizations for acute metaboli",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetic patients hospitalized on an unscheduled basis in the diabetology department of one of the 8 study centers.\n* Patients with at least two unscheduled hospitalizations in less than one year (i.e. at least one other hospitalization in the last 365 days in addition to the ",
+      "endpoints": [
+        "Number of patients eligible for the Individualized Care Pathway as well as the basic diabetic program.",
+        "Number of patients on the basic diabetic program, included in the study, who have completed at least three of the four scheduled follow-up visits."
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nīmes",
+      "url": "https://clinicaltrials.gov/study/NCT04769765"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05014594",
+      "title": "Sodium-glucose Linked Transporter 2 (SGLT-2) Inhibitors in Recurrent Ascites: a Pilot RCT",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-09-03",
+      "completion_date": "2022-05-19",
+      "country": "India",
+      "enrollment": 44,
+      "brief_summary": "The development of ascites is a landmark event in the natural history of cirrhosis and signifies a grim prognosis. Portal hypertension and splanchnic arterial vasodilatation are the major contributors in the development of ascites. Vasodilatation with the consequential decrease in effective circulating volume leads to the activation of sympathetic nervous system and renin angiotensin aldosterone system (RAAS), leading to antinatriuretic effects and retention of sodium and water. This results in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-70 years\n2. Cirrhosis as determined by clinical findings, hemogram and liver function tests, endoscopic findings and imaging\n3. Recurrent ascites: Recurrent ascites will be defined as tense ascites recurring at least thrice within the last 1-year despite optimal standa",
+      "endpoints": [
+        "control of ascites at 6-months"
+      ],
+      "sponsor": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+      "url": "https://clinicaltrials.gov/study/NCT05014594"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06529705",
+      "title": "Performance and Safety Evaluation of the EkiYou V2 Application in Patients With Diabetes Using Multiple Daily Insulin Injections (EkiYou-Study1)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-08-19",
+      "completion_date": "2025-03-27",
+      "country": "France",
+      "enrollment": 21,
+      "brief_summary": "EkiYou-Study-1 is an interventional before/after clinical investigation according to EU 2017/745. It is conducted in 21 adults with diabetes and treated by multiple daily insulin injections.\n\nAfter a run-in period of 2 weeks, participants will receive for 6 weeks EkiYou V2 application that will help them to estimate their daily bolus and basal insulin doses. This device weekly adjusts insulin parameters including : basal insulin dose, insulin to carb ratios and correction factor.\n\nThe aim of the",
+      "eligibility_criteria": "Inclusion Criteria :\n\n* Be over 18 years old;\n* Have type 1, type 2, or pancreatogenic diabetes;\n* Have been treated with multiple daily injections of insulin in a basal/bolus regimen for at least 6 months;\n* Be using a continuous glucose monitoring device such as Dexcom G6, Dexcom One or Freestyle ",
+      "endpoints": [
+        "Change in the percentage of time in range 70-180 mg/dL"
+      ],
+      "sponsor": "University Hospital, Montpellier",
+      "url": "https://clinicaltrials.gov/study/NCT06529705"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "36479786",
+      "title": "Effectiveness and safety of early insulin glargine administration in combination with continuous intravenous insulin infusion in the management of diabetic ketoacidosis: A randomized controlled trial.",
+      "abstract": "To determine the effectiveness and safety of early combination of insulin glargine with intravenous (IV) insulin infusion compared with IV insulin infusion alone in the management of diabetic ketoacidosis (DKA).",
+      "journal": "Diabetes, obesity & metabolism",
+      "year": "2023",
+      "authors": [
+        "Thammakosol Kitti",
+        "Sriphrapradang Chutintorn"
+      ],
+      "pub_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Insulin",
+        "Insulin Glargine",
+        "Diabetic Ketoacidosis",
+        "Diabetes Mellitus, Type 2",
+        "Hypokalemia",
+        "Insulin, Regular, Human",
+        "Hypoglycemia",
+        "Hyperglycemia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36479786/"
+    },
+    {
+      "pmid": "16848698",
+      "title": "Fuel metabolism in starvation.",
+      "abstract": "This article, which is partly biographical and partly scientific, summarizes a life in academic medicine. It relates my progress from benchside to bedside and then to academic and research administration, and concludes with the teaching of human biology to college undergraduates. My experience as an intern (anno 1953) treating a youngster in diabetic ketoacidosis underscored our ignorance of the controls in human fuel metabolism. Circulating free fatty acids were then unknown, insulin could not be measured in biologic fluids, and beta-hydroxybutyric acid, which was difficult to measure, was considered by many a metabolic poison. The central role of insulin and the metabolism of free fatty acids, glycerol, glucose, lactate, and pyruvate, combined with indirect calorimetry, needed characterization in a near-steady state, namely prolonged starvation. This is the main topic of this chapter. Due to its use by brain, D-beta-hydroxybutyric acid not only has permitted man to survive prolonged ",
+      "journal": "Annual review of nutrition",
+      "year": "2006",
+      "authors": [
+        "Cahill George F"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "3-Hydroxybutyric Acid",
+        "Blood Glucose",
+        "Brain",
+        "Energy Metabolism",
+        "Fatty Acids, Nonesterified",
+        "Humans",
+        "Ketosis",
+        "Starvation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16848698/"
+    },
+    {
+      "pmid": "28222533",
+      "title": "Type 1 Diabetes Mellitus and Cognitive Impairments: A Systematic Review.",
+      "abstract": "Type 1 diabetes mellitus (T1DM) is a major subtype of diabetes and is usually diagnosed at a young age with insulin deficiency. The life expectancy of T1DM patients has increased substantially in comparison with that three decades ago due to the availability of exogenous insulin, though it is still shorter than that of healthy people. However, the relation remains unclear between T1DM and dementia as an aging-related disease. We conducted a systematic review of existing literature on T1DM and cognition impairments by carrying out searches in electronic databases Medline, EMBASE, and Google Scholar. We restricted our review to studies involving only human subjects and excluded studies on type 2 diabetes mellitus or non-classified diabetes. A meta-analysis was first performed on the relationship between T1DM and cognitive changes in youths and adults respectively. Then the review focused on the cognitive complications of T1DM and their relation with the characteristics of T1DM, glycemic ",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "year": "2017",
+      "authors": [
+        "Li Wei",
+        "Huang Edgar",
+        "Gao Sujuan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Cognitive Dysfunction",
+        "Diabetes Mellitus, Type 1",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28222533/"
+    },
+    {
+      "pmid": "27097605",
+      "title": "Euglycemic Diabetic Ketoacidosis: A Review.",
+      "abstract": "Diabetic ketoacidosis (DKA) is one of the most serious complications of diabetes. It is characterised by the triad of hyperglycemia (blood sugar >250 mg/dl), metabolic acidosis (arterial pH <7.3 and serum bicarbonate <18 mEq/L) and ketosis. Rarely these patients can present with blood glucose (BG) levels of less than 200 mg/dl, which is defined as euglycemic DKA. The possible etiology of euglycemic DKA includes the recent use of insulin, decreased caloric intake, heavy alcohol consumption, chronic liver disease and glycogen storage disorders. DKA in pregnancy has also been reported to present with euglycemia. The recent use of sodium glucose cotransporter 2 (SGLT2) inhibitors has shed light on another possible mechanism of euglycemic DKA. Clinicians may also be misled by the presence of pseudonormoglycemia.",
+      "journal": "Current diabetes reviews",
+      "year": "2017",
+      "authors": [
+        "Modi Anar",
+        "Agrawal Abhinav",
+        "Morgan Farah"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Alcohol Drinking",
+        "Blood Glucose",
+        "Diabetic Ketoacidosis",
+        "Female",
+        "Humans",
+        "Pregnancy",
+        "Pregnancy Complications",
+        "Sodium-Glucose Transporter 2",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Starvation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27097605/"
+    },
+    {
+      "pmid": "38954371",
+      "title": "SGLT2 inhibitor use in the management of feline diabetes mellitus.",
+      "abstract": "Sodium-glucose cotransporter-2 (SGLT2) inhibitors are routinely used in the management of human type 2 diabetes and have been shown to effectively mitigate hyperglycemia and reduce the risks of cardiovascular and renal compromise. Two SGLT2 inhibitors, namely bexagliflozin and velagliflozin, were recently FDA approved for the treatment of uncomplicated feline diabetes mellitus. These oral hypoglycemic agents are a suitable option for many newly diagnosed cats, with rapid improvements in glycemic control and clinical signs. Suitable candidates must have some residual β-cell function, as some endogenous insulin production is required to prevent ketosis. Appropriate patient selection and monitoring are necessary, and practitioners should be aware of serious complications such as euglycemic diabetic ketoacidosis.",
+      "journal": "Journal of veterinary pharmacology and therapeutics",
+      "year": "2025",
+      "authors": [
+        "Cook Audrey K",
+        "Behrend Ellen"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Hypoglycemic Agents",
+        "Diabetes Mellitus, Type 2",
+        "Diabetes Mellitus"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38954371/"
+    },
+    {
+      "pmid": "28003053",
+      "title": "SGLT2 Inhibitor-associated Diabetic Ketoacidosis: Clinical Review and Recommendations for Prevention and Diagnosis.",
+      "abstract": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors are the newest class of antihyperglycemic agents available on the market. Regulator warnings and concerns regarding the risk of developing diabetic ketoacidosis (DKA), however, have dampened enthusiasm for the class despite the combined glycemic, blood pressure, and occasional weight benefits of SGLT2 inhibitors. With the goal of improving patient safety, a cross-Canada expert panel and writing group were convened to review the evidence to-date on reported SGLT2 inhibitor-related DKA incidents and to offer recommendations for preventing and recognizing patients with SGLT2 inhibitor-associated DKA.",
+      "journal": "Clinical therapeutics",
+      "year": "2016",
+      "authors": [
+        "Goldenberg Ronald M",
+        "Berard Lori D",
+        "Cheng Alice Y Y",
+        "Gilbert Jeremy D",
+        "Verma Subodh"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Blood Glucose",
+        "Canada",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Ketoacidosis",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Incidence",
+        "Insulin",
+        "Sodium-Glucose Transporter 2",
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28003053/"
+    },
+    {
+      "pmid": "28364357",
+      "title": "Treatment of Diabetic Ketoacidosis (DKA)/Hyperglycemic Hyperosmolar State (HHS): Novel Advances in the Management of Hyperglycemic Crises (UK Versus USA).",
+      "abstract": "Diabetic ketoacidosis (DKA) and hyperglycemic hyperosmolar state (HHS) are diabetic emergencies that cause high morbidity and mortality. Their treatment differs in the UK and USA. This review delineates the differences in diagnosis and treatment between the two countries.",
+      "journal": "Current diabetes reports",
+      "year": "2017",
+      "authors": [
+        "Dhatariya Ketan K",
+        "Vellanki Priyathama"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Diabetic Ketoacidosis",
+        "Humans",
+        "Hyperglycemic Hyperosmolar Nonketotic Coma",
+        "United Kingdom",
+        "United States"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28364357/"
+    },
+    {
+      "pmid": "35389497",
+      "title": "Evaluation of Outcomes Following Hospital-Wide Implementation of a Subcutaneous Insulin Protocol for Diabetic Ketoacidosis.",
+      "abstract": "Standard diabetic ketoacidosis care in the US includes intravenous insulin treatment in the intensive care unit. Subcutaneous (SQ) insulin could decrease intensive care unit need, but the data are limited.",
+      "journal": "JAMA network open",
+      "year": "2022",
+      "authors": [
+        "Rao Priya",
+        "Jiang Sheng-Fang",
+        "Kipnis Patricia",
+        "Patel Divyesh M",
+        "Katsnelson Svetlana"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Cohort Studies",
+        "Diabetes Mellitus",
+        "Diabetic Ketoacidosis",
+        "Female",
+        "Hospitals",
+        "Humans",
+        "Insulin",
+        "Insulin, Regular, Human",
+        "Length of Stay"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35389497/"
+    },
+    {
+      "pmid": "34590174",
+      "title": "The management of type 1 diabetes in adults. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD).",
+      "abstract": "The American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD) convened a writing group to develop a consensus statement on the management of type 1 diabetes in adults. The writing group has considered the rapid development of new treatments and technologies and addressed the following topics: diagnosis, aims of management, schedule of care, diabetes self-management education and support, glucose monitoring, insulin therapy, hypoglycaemia, behavioural considerations, psychosocial care, diabetic ketoacidosis, pancreas and islet transplantation, adjunctive therapies, special populations, inpatient management and future perspectives. Although we discuss the schedule for follow-up examinations and testing, we have not included the evaluation and treatment of the chronic microvascular and macrovascular complications of diabetes as these are well-reviewed and discussed elsewhere. The writing group was aware of both national and international guidance on",
+      "journal": "Diabetologia",
+      "year": "2021",
+      "authors": [
+        "Holt Richard I G",
+        "DeVries J Hans",
+        "Hess-Fischl Amy",
+        "Hirsch Irl B",
+        "Kirkman M Sue"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Consensus Statement"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Blood Glucose",
+        "Blood Glucose Self-Monitoring",
+        "Consensus",
+        "Diabetes Mellitus, Type 1",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Insulin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34590174/"
+    },
+    {
+      "pmid": "38138975",
+      "title": "Drug Therapies for Diabetes.",
+      "abstract": "The treatment of type 2 diabetes (T2D) necessitates a multifaceted approach that combines behavioral and pharmacological interventions to mitigate complications and sustain a high quality of life. Treatment encompasses the management of glucose levels, weight, cardiovascular risk factors, comorbidities, and associated complications through medication and lifestyle adjustments. Metformin, a standard in diabetes management, continues to serve as the primary, first-line oral treatment across all age groups due to its efficacy, versatility in combination therapy, and cost-effectiveness. Glucagon-like peptide-1 receptor agonists (GLP-1 RA) offer notable benefits for HbA1c and weight reduction, with significant cardiovascular benefits. Sodium-glucose cotransporter inhibitors (SGLT-2i) lower glucose levels independently of insulin while conferring notable benefits for cardiovascular, renal, and heart-failure outcomes. Combined therapies emphasizing early and sustained glycemic control are pro",
+      "journal": "International journal of molecular sciences",
+      "year": "2023",
+      "authors": [
+        "Weinberg Sibony Roni",
+        "Segev Omri",
+        "Dor Saar",
+        "Raz Itamar"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Hypoglycemic Agents",
+        "Quality of Life",
+        "Blood Glucose",
+        "Metformin",
+        "Insulin",
+        "Insulin, Regular, Human",
+        "Glucagon-Like Peptide 1",
+        "Glucagon-Like Peptide-1 Receptor Agonists"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38138975/"
+    },
+    {
+      "pmid": "38489032",
+      "title": "Comparing Continuous Glucose Monitoring and Blood Glucose Monitoring in Adults With Inadequately Controlled, Insulin-Treated Type 2 Diabetes (Steno2tech Study): A 12-Month, Single-Center, Randomized Controlled Trial.",
+      "abstract": "To compare the 12-month effects of continuous glucose monitoring (CGM) versus blood glucose monitoring (BGM) in adults with insulin-treated type 2 diabetes.",
+      "journal": "Diabetes care",
+      "year": "2024",
+      "authors": [
+        "Lind Nanna",
+        "Christensen Merete B",
+        "Hansen Dorte L",
+        "Nørgaard Kirsten"
+      ],
+      "pub_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Male",
+        "Female",
+        "Insulin",
+        "Diabetes Mellitus, Type 2",
+        "Blood Glucose",
+        "Blood Glucose Self-Monitoring",
+        "Glycated Hemoglobin",
+        "Diabetes Mellitus, Type 1"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38489032/"
+    },
+    {
+      "pmid": "36800530",
+      "title": "Gastrointestinal Consequences of Type 2 Diabetes Mellitus and Impaired Glycemic Homeostasis: A Mendelian Randomization Study.",
+      "abstract": "We conducted a Mendelian randomization (MR) study to examine the associations of type 2 diabetes and glycemic traits with gastrointestinal diseases (GDs).",
+      "journal": "Diabetes care",
+      "year": "2023",
+      "authors": [
+        "Chen Jie",
+        "Yuan Shuai",
+        "Fu Tian",
+        "Ruan Xixian",
+        "Qiao Jie"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Blood Glucose",
+        "Mendelian Randomization Analysis",
+        "Acute Disease",
+        "Pancreatitis",
+        "Insulin",
+        "Glucose",
+        "Insulin, Regular, Human",
+        "Cholelithiasis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36800530/"
+    },
+    {
+      "pmid": "38045671",
+      "title": "Effect of Yoga and Walking on Glycemic Control for the Management of Type 2 Diabetes: A Systematic Review and Meta-analysis.",
+      "abstract": "A daily habit of yogic practice or walking, along with an oral hypoglycemic agent (OHA) could be beneficial for better control of type 2 diabetes mellitus (T2DM). We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) to find out the efficiency of yoga or walking on glycemic control in T2DM.",
+      "journal": "Journal of the ASEAN Federation of Endocrine Societies",
+      "year": "2023",
+      "authors": [
+        "Dhali Biswajit",
+        "Chatterjee Sridip",
+        "Sundar Das Sudip",
+        "Cruz Mary D"
+      ],
+      "pub_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Blood Glucose",
+        "Glycated Hemoglobin",
+        "Yoga",
+        "Glycemic Control",
+        "Diabetes Mellitus, Type 2",
+        "Insulin",
+        "Insulin Resistance",
+        "Walking",
+        "Insulin, Regular, Human"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38045671/"
+    },
+    {
+      "pmid": "38444317",
+      "title": "Efficacy of Semaglutide in Overweight and Obese Patients with Type 1 Diabetes.",
+      "abstract": "Introduction: More than two-thirds of patients with type 1 diabetes (T1D) are overweight (OW) and/or obese (OB) in the USA and Western Europe, resulting in insulin resistance as in type 2 diabetes. None of the currently available glucagon like polypeptide 1 (GLP-1) analogs are approved for patients with T1D. A higher dose of semaglutide has been approved by the Food and Drug Administration (FDA) for subjects with body mass index (BMI) >27 kg/m2. We evaluated the real-world use of semaglutide in patients with T1D. Methods: This was a retrospective chart review study of 50 OW or OB patients with T1D who were initiated on semaglutide and followed for 1 year. The control group comprised of 50 computer-matched patients (for sex, race, weight, BMI, and diabetes duration) during a similar time period and were not on any weight loss medications. Results: Most patients (92%) were non-Hispanic white in both arms. Mean ± standard deviation (SD) age and duration of diabetes were 42 ± 11 and 27 ± 1",
+      "journal": "Diabetes technology & therapeutics",
+      "year": "2024",
+      "authors": [
+        "Garg Satish K",
+        "Kaur Gurleen",
+        "Haider Zehra",
+        "Rodriquez Erika",
+        "Beatson Christie"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "United States",
+        "Humans",
+        "Overweight",
+        "Diabetes Mellitus, Type 1",
+        "Diabetes Mellitus, Type 2",
+        "Glycated Hemoglobin",
+        "Prospective Studies",
+        "Retrospective Studies",
+        "Obesity",
+        "Glucagon-Like Peptides"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38444317/"
+    },
+    {
+      "pmid": "36479786",
+      "title": "Effectiveness and safety of early insulin glargine administration in combination with continuous intravenous insulin infusion in the management of diabetic ketoacidosis: A randomized controlled trial.",
+      "abstract": "To determine the effectiveness and safety of early combination of insulin glargine with intravenous (IV) insulin infusion compared with IV insulin infusion alone in the management of diabetic ketoacidosis (DKA).",
+      "journal": "Diabetes, obesity & metabolism",
+      "year": "2023",
+      "authors": [
+        "Thammakosol Kitti",
+        "Sriphrapradang Chutintorn"
+      ],
+      "pub_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Insulin",
+        "Insulin Glargine",
+        "Diabetic Ketoacidosis",
+        "Diabetes Mellitus, Type 2",
+        "Hypokalemia",
+        "Insulin, Regular, Human",
+        "Hypoglycemia",
+        "Hyperglycemia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36479786/"
+    },
+    {
+      "pmid": "38444315",
+      "title": "Is It Time to Move Beyond TIR to TITR? Real-World Data from Over 20,000 Users of Continuous Glucose Monitoring in Patients with Type 1 and Type 2 Diabetes.",
+      "abstract": "The growing use of continuous glucose monitoring (CGM) has been supported by expert consensus and clinical guidelines on glycemic management in diabetes with time in range (TIR 70-180 mg/dL) representing a key CGM-derived glucose metric. Time in tight range (TITR) has also been proposed for clinical use, spanning largely normal glucose levels of 70-140 mg/dL. However, keeping such narrow glucose ranges can be challenging, and understanding the factors modulating TITR can help achieve these tight glycemic targets. Our real-life study aimed to evaluate the relationship between average glucose (AG) and TIR/TITR in a large cohort (n = 22,006) of CGM users, divided into four groups: self-identified as having type 1 diabetes (T1D) treated with insulin using multiple daily injections (MDI) or pumps; type 2 diabetes (T2D) on MDI or insulin pumps; T2D on basal insulin only; and T2D not on insulin treatment. The T2D groups, regardless of treatment type, displayed the highest TIR and TITR values,",
+      "journal": "Diabetes technology & therapeutics",
+      "year": "2024",
+      "authors": [
+        "Dunn Timothy C",
+        "Ajjan Ramzi A",
+        "Bergenstal Richard M",
+        "Xu Yongjin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Diabetes Mellitus, Type 1",
+        "Blood Glucose Self-Monitoring",
+        "Continuous Glucose Monitoring",
+        "Blood Glucose",
+        "Insulin, Regular, Human",
+        "Glucose"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38444315/"
+    },
+    {
+      "pmid": "38380954",
+      "title": "Continuous Glucose Monitoring-Based Metrics and Hypoglycemia Duration in Insulin-Experienced Individuals With Long-standing Type 2 Diabetes Switched From a Daily Basal Insulin to Once-Weekly Insulin Icodec: Post Hoc Analysis of ONWARDS 2 and ONWARDS 4.",
+      "abstract": "This post hoc analysis assessed continuous glucose monitoring (CGM)-based metrics and hypoglycemia duration with once-weekly insulin icodec versus once-daily basal insulin analogs in insulin-experienced individuals with long-standing type 2 diabetes from two 26-week phase 3a trials (ONWARDS 2 and ONWARDS 4).",
+      "journal": "Diabetes care",
+      "year": "2024",
+      "authors": [
+        "Bajaj Harpreet S",
+        "Ásbjörnsdóttir Björg",
+        "Carstensen Lisbeth",
+        "Laugesen Christian",
+        "Mathieu Chantal"
+      ],
+      "pub_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Insulin",
+        "Hypoglycemic Agents",
+        "Blood Glucose",
+        "Blood Glucose Self-Monitoring",
+        "Continuous Glucose Monitoring",
+        "Hypoglycemia",
+        "Insulin Glargine",
+        "Insulin, Regular, Human"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38380954/"
+    },
+    {
+      "pmid": "38085312",
+      "title": "Metformin Plus Insulin for Preexisting Diabetes or Gestational Diabetes in Early Pregnancy: The MOMPOD Randomized Clinical Trial.",
+      "abstract": "Insulin is recommended for pregnant persons with preexisting type 2 diabetes or diabetes diagnosed early in pregnancy. The addition of metformin to insulin may improve neonatal outcomes.",
+      "journal": "JAMA",
+      "year": "2023",
+      "authors": [
+        "Boggess Kim A",
+        "Valint Arielle",
+        "Refuerzo Jerrie S",
+        "Zork Noelia",
+        "Battarbee Ashley N"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Infant, Newborn",
+        "Pregnancy",
+        "Diabetes Mellitus, Type 2",
+        "Diabetes, Gestational",
+        "Hypoglycemia",
+        "Hypoglycemic Agents",
+        "Infant, Newborn, Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38085312/"
+    },
+    {
+      "pmid": "34413118",
+      "title": "Molecular and pharmacological characterization of insulin icodec: a new basal insulin analog designed for once-weekly dosing.",
+      "abstract": "Insulin icodec is a novel, long-acting insulin analog designed to cover basal insulin requirements with once-weekly subcutaneous administration. Here we describe the molecular engineering and the biological and pharmacological properties of insulin icodec.",
+      "journal": "BMJ open diabetes research & care",
+      "year": "2021",
+      "authors": [
+        "Nishimura Erica",
+        "Pridal Lone",
+        "Glendorf Tine",
+        "Hansen Bo Falk",
+        "Hubálek František"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Diabetes Mellitus, Type 2",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Insulin",
+        "Insulin, Long-Acting",
+        "Insulin, Regular, Human"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34413118/"
+    },
+    {
+      "pmid": "38597269",
+      "title": "Association Between Type 1 Diabetes Mellitus and Eating Disorders: A Systematic Review and Meta-Analysis.",
+      "abstract": "Previous meta-analyses have shown mixed results regarding the association between eating disorders (EDs) and type 1 diabetes mellitus (T1DM). Our paper aimed to analyse different EDs and disordered eating behaviours that may be practiced by patients with T1DM.",
+      "journal": "Endocrinology, diabetes & metabolism",
+      "year": "2024",
+      "authors": [
+        "Dean Yomna E",
+        "Motawea Karam R",
+        "Aslam Muaaz",
+        "Pintado Jose J Loayza",
+        "Popoola-Samuel Helen A O"
+      ],
+      "pub_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Male",
+        "Humans",
+        "Female",
+        "Diabetes Mellitus, Type 1",
+        "Bulimia",
+        "Feeding and Eating Disorders",
+        "Insulin",
+        "Insulin, Regular, Human"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38597269/"
+    }
+  ]
+}

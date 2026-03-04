@@ -2,7 +2,7 @@
   "drug": "Ibuprofen",
   "drugbank_id": "DB01050",
   "evidence_level": "L1",
-  "collected_at": "2026-03-04T10:01:45Z",
+  "collected_at": "2026-03-04T10:15:14Z",
   "indications": [
     {
       "indication": "osteoarthritis",
@@ -374,7 +374,7 @@
       "status": "COMPLETED",
       "start_date": "2003-01",
       "completion_date": "2004-02",
-      "country": "Germany, Spain, United Kingdom",
+      "country": "United Kingdom, Germany, Spain",
       "enrollment": 388,
       "brief_summary": "To compare the efficacy and safety of celecoxib versus ibuprofen in subjects with osteoarthritis (OA) of the knee.",
       "eligibility_criteria": "Inclusion Criteria:\n\nInclusion criteria:\n\n* Aged \\>=40 years old\n* Diagnosed with OA of the knee according to the American College of Rheumatology and OA in flare state at baseline visit\n* Functional capacity class of I-III\n\nExclusion Criteria:\n\nExclusion criteria:\n\n* Inflammatory arthritis or gout ",

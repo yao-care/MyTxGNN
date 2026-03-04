@@ -1,0 +1,1035 @@
+{
+  "drug": "Lamivudine",
+  "drugbank_id": "DB00709",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:47:28Z",
+  "indications": [
+    {
+      "indication": "HIV infectious disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 5,
+        "phase1_trials": 3,
+        "other_trials": 10,
+        "rct_articles": 2,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "chronic hepatitis B virus infection",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 3,
+        "phase1_trials": 1,
+        "other_trials": 10,
+        "rct_articles": 0,
+        "review_articles": 10,
+        "other_articles": 0,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "AIDS",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 5,
+        "phase1_trials": 4,
+        "other_trials": 9,
+        "rct_articles": 1,
+        "review_articles": 5,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "HIV infectious disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 5,
+        "phase1_trials": 3,
+        "other_trials": 10,
+        "rct_articles": 2,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "chronic hepatitis B virus infection",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 3,
+        "phase1_trials": 1,
+        "other_trials": 10,
+        "rct_articles": 0,
+        "review_articles": 10,
+        "other_articles": 0,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 100,
+  "total_articles": 50,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00033163",
+      "title": "A Randomized, Phase II, Controlled Trial Comparing the Efficacy of Adefovir Dipivoxil and Tenofovir Disoproxil Fumarate for the Treatment of Lamivudine-Resistant Hepatitis B Virus in Subjects Who Are Co-Infected With HIV",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2005-05",
+      "country": "United States",
+      "enrollment": 90,
+      "brief_summary": "Control of hepatitis B virus (HBV) infection can be difficult in HIV infected people who have taken the antiviral lamivudine (3TC). These people may have HBV that has become resistant to 3TC. Adefovir dipivoxil (ADV) has shown promising anti-HBV activity in clinical trials; tenofovir disoproxil fumarate (TDF) is used to treat HIV and may also be effective against HBV. The purpose of this study is to find out if adding ADV or TDF to a highly active antiretroviral therapy (HAART) regimen that incl",
+      "eligibility_criteria": "Inclusion Criteria for All Participants:\n\n* HIV infected\n* HBV infected\n* Serum HBV DNA of 100,000 copies/ml or greater\n* Positive for serum hepatitis B surface antigen (HBsAg) within 12 weeks prior to study entry\n* Agree to use acceptable methods of contraception\n* Serum alpha-fetoprotein (AFP) of ",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00033163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000865",
+      "title": "A Phase I Safety and Pharmacokinetic Study of 1592U89 Alone and In Combination With Other Antiretroviral Agents in Infants and Children With HIV Infection",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1998-04",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "To assess the steady state pharmacokinetic features, tolerance, and safety of orally administered 1592U89, given alone or in combination with other antiretroviral medications, in HIV infected infants and children. To establish doses of 1592U89 appropriate for future pediatric Phase II/III clinical trials.\n\nOn the basis of the preclinical and clinical studies, 1592U89 appears to be a promising agent for treatment of HIV infection in children, either as an alternative to currently employed agents,",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* IVIG.\n* Erythropoietin, granulocyte colony stimulating factor and granulocyte macrophage colony stimulating factor (for management of hematologic toxicity).\n\nPatients must have:\n\n* Documented HIV-1 infection.\n* Laboratory evidence of immunosupp",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000865"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04867798",
+      "title": "Transgender Men and HIV in Uganda: PrEP Uptake and Persistence",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-09-16",
+      "completion_date": "2023-04-30",
+      "country": "Uganda",
+      "enrollment": 75,
+      "brief_summary": "Transgender men (trans men; assigned female sex at birth but identify as male) are generally thought to be at low risk of HIV acquisition, perhaps because of the assumption that they have sex with cis-gender women. Emerging data from resource-rich settings show that trans men often face many of the same high risks as transgender women (trans women; assigned male sex at birth but identify as female). Trans men report similar rates to trans women of engagement in sex work and engage in unprotected",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Report female sex assigned at birth but currently identify as male\n* Age ≥18, or if 14-17 years, qualification as a mature or emancipated minor due to having a sexually transmitted infection or cater for own livelihood\n* Report condom-less sex in the past 6 months\n* Able and w",
+      "endpoints": [
+        "PrEP effectiveness as measured by intracellular tenofovir diphosphate levels in dried blood spots"
+      ],
+      "sponsor": "Makerere University",
+      "url": "https://clinicaltrials.gov/study/NCT04867798"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000887",
+      "title": "A Phase I Trial of the Safety, Tolerance, and Pharmacokinetics of Oral Nelfinavir (Viracept) Co-Administered With Zidovudine (ZDV) and Lamivudine (3TC) in HIV Infected Pregnant Women and Their Infants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2004-07",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this study is to see if giving nelfinavir (NFV) plus zidovudine (ZDV) plus lamivudine (3TC) to HIV-positive pregnant women and their babies is safe. This study will also look at how long these drugs stay in the blood.\n\nZDV has been given to mothers in the past to reduce the chances of passing HIV on to their babies. However, better treatments are needed to further reduce these chances and to better suit the treatment needs of mothers and their children. Taking a combination of ant",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients may be eligible for this study if they:\n\n* Are at least 13 years old (need consent of parent or guardian if under 18).\n* Are HIV-positive.\n* Are in the 2nd or 3rd trimester (14 to 34 weeks pregnant) and are pregnant with one or two children.\n* Have a normal ultrasound ex",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000887"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06005610",
+      "title": "Giving Standardized Estradiol Therapy In Transgender Women to Research Interactions With HIV Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2024-01-04",
+      "completion_date": "2025-08-21",
+      "country": "Peru, Thailand, Mexico, United States",
+      "enrollment": 93,
+      "brief_summary": "Transgender women (TW) are a key population and priority for HIV treatment. More research is needed to develop evidence-based clinical guidance when it comes to choosing antiretroviral treatment (ART) regimens for TW on feminizing hormonal therapy (FHT). Concerns about ART interacting with FHT and decreasing its effectiveness can lead to decreased ART adherence and increased viral loads.\n\nThe GET IT RiGHT trial aims to address concerns about drug-drug interactions (DDIs) between ART and FHT whil",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age greater than or equal to 18 years.\n2. Documentation of HIV-1 status.\n3. Assigned male sex at birth and identifies as a TW, female or transfeminine person.\n4. On ART for at least 24 weeks prior to study entry. Regimen changes within the 24 weeks prior to study entry are ac",
+      "endpoints": [
+        "Geometric Mean Ratio of ART Analytes BIC, DTG, and DRV trough concentrations (Ctrough) in plasma at each received dose of oral 17-β estradiol",
+        "Percentage of Participants with ART Analyte trough concentration (Ctrough) above drug-specific threshold",
+        "Trough serum total estradiol assessed at each received dose of oral 17-β estradiol as quantified via batch testing at central lab."
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT06005610"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00038506",
+      "title": "A Phase IV, Open-label, Multicenter Study of Treatment With TRIZIVIR (Abacavir 300mg/Lamivudine 150mg/Zidovudine 300mg) Twice Daily and Tenofovir 300mg Once-daily for 48 Weeks in HIV-infected Subjects Experiencing Early Virologic Failure (ZIAGEN Intensification Protocol)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-03",
+      "completion_date": "2004-08",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "This study is a 48-week study to evaluate the efficacy and safety of an investigational regimen combining FDA approved HIV drugs in antiretroviral-experienced subjects failing on their first highly active antiretroviral therapy regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Currently on an initial HAART (highly active antiretroviral therapy) regimen of 3TC/ZDV or 3TC/d4T and a PI (protease inhibitor) -boosted or unboosted- or NNRTI (non-nucleoside reverse transcriptase inhibitor).\n* Plasma HIV - 1 RNA was \\<400 copies/ml on at least 2 documented ",
+      "endpoints": [
+        "HIV viral load response at 48 weeks as measured by proportion of subjects with undetectable viral load."
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT00038506"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002411",
+      "title": "A Randomized Study of the Long-Term Suppression of Plasma HIV RNA Levels by Triple Combination Regimens in Treatment Naive Subjects",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1998-03",
+      "completion_date": "1999-09",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this study is to compare the safety of didanosine plus stavudine plus nelfinavir (NLF) with that of zidovudine plus lamivudine plus NLF. This study also examines how long these drug combinations are effective in lowering viral load (level of HIV in the blood).",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\nWithin 15 business days prior to randomization:\n\n* CD4 cell count greater than or equal to 100 cells/mm3.\n* HIV RNA greater than or equal to 2,000 copies/ml by Roche Amplicor Assay.\n\nExclusion Criteria\n\nCo-existing Condition:\n\nPatients with any of the followi",
+      "endpoints": [],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00002411"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00053638",
+      "title": "A Phase III, Randomized, Open-label, Multicenter Study of the Safety and Efficacy of Efavirenz Versus Tenofovir When Administered in Combination With the Abacavir/Lamivudine Fixed-dose Combination Tablet as a Once-daily Regimen in Antiretroviral-naive HIV-1 Infected Subjects.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2004-10",
+      "country": "United States",
+      "enrollment": 345,
+      "brief_summary": "This is a 48-week study to evaluate the safety and efficacy of a new tablet formulation containing two FDA-approved drugs in HIV-infected patients who have not received prior therapy. This tablet will be taken with one of two FDA-approved drugs as a once-daily regimen. Study physicians will evaluate subjects to determine if they have certain medical conditions, laboratory test values, medication use, or drug allergies that would exclude them from the study.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participants must be able to provide informed consent.\n* Have documented HIV-1 infection.\n* Have not received more than 14 days of prior treatment with antiretroviral drugs.\n* Meet laboratory test criteria.\n* Women of childbearing potential must abstain from sexual intercourse",
+      "endpoints": [
+        "Viral load response at 48 weeks"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00053638"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001083",
+      "title": "A Phase II Rolling Arm Master Protocol (PRAM) of Novel Antiretroviral Therapy in Stable Experienced HIV- Infected Children; PRAM-1: ZDV+3TC vs. d4T+Ritonavir vs. ZDV+3TC+Ritonavir; PRAM-1, Step 2: d4T+Nevirapine+Ritonavir; PRAM-1, Step 3: d4T+Indinavir vs. ZDV+3TC+Indinavir",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2001-06",
+      "country": "Puerto Rico, United States",
+      "enrollment": 240,
+      "brief_summary": "For PRAM-1: To evaluate zidovudine (ZDV) + lamivudine (3TC) vs. stavudine (d4T) + ritonavir vs. ZDV + 3TC + ritonavir with respect to the change in plasma HIV-1 RNA copy number from baseline to 48 weeks \\[AS PER AMENDMENT 1/5/98: 72 weeks; AS PER AMENDMENT 7/17/98: 48 weeks\\] in stable HIV-infected children with \\>= 16 weeks of prior continuous antiretroviral therapy. To evaluate the safety and tolerance of ZDV + 3TC vs. d4T + ritonavir vs. ZDV + 3TC + ritonavir based upon laboratory and clinica",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* IVIG and opportunistic infection prophylaxis will be allowed.\n* Erythropoietin (EPO), granulocyte colony-stimulating factor (G-CSF) and granulocyte-macrophage colony- stimulating factor (GM-CSF) will be allowed for the management of hematologic",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00001083"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03205566",
+      "title": "The Time to Protection and Adherence Requirements of Raltegravir With or Without Lamivudine in Protection From HIV Infection",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-09-19",
+      "completion_date": "2018-09-24",
+      "country": "United Kingdom",
+      "enrollment": 38,
+      "brief_summary": "This study evaluates whether a 7-day course of Raltegravir 400mg bd or Raltegravir 400mg/lamivudine 150mg bd can prevent HIV from infecting genital tissue and will relate the level of drug in the blood to the level of drug in genital tissue and to the ability to of HIV to infect genital tissue. As well as determining whether these regimes can provide ex vivo protection against HIV, this study will also determine speed to provision of protection and a 48 hour PK/PD decay profile of Raltegravir fo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The ability to understand and sign a written informed consent form prior to participation in any screening procedures and must be willing to comply with all trial requirements.\n2. Male or non-pregnant, non-lactating females\n3. Age between 18 to 60 years, inclusive.\n4. Body Ma",
+      "endpoints": [
+        "The Level of Raltegravir Alone or Raltegravir /Lamivudine Required in the Plasma, Vagina and Rectum for 100% ex Vivo Protection From HIV"
+      ],
+      "sponsor": "Guy's and St Thomas' NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT03205566"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02491242",
+      "title": "The Efficacy and Safety of Dolutegravir-based Dual Therapies in HIV-infected Patients With Intolerance or Toxicity to Nucleoside Analogues",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-11",
+      "completion_date": "2018-06",
+      "country": "Spain",
+      "enrollment": 155,
+      "brief_summary": "The objective of this study was to evaluate the efficacy and safety, and evolution of causes leading to change, of dual therapies based in Dolutegravir in patients requiring a change of virologically effective antiretroviral therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Older than 18 years\n* Receiving a virologically effective antiretroviral regimen\n* Switching to a dual therapy based in dolutegravir because of intolerance or toxicity to nucleoside analogues\n\nExclusion Criteria:\n\n* Pregnant women\n* Receiving other investigational drugs\n* Rece",
+      "endpoints": [
+        "Efficacy, measured as maintenance of virological suppression, after switching to a dolutegravir-based dual therapy"
+      ],
+      "sponsor": "Asociacion para el Estudio de las Enfermedades Infecciosas",
+      "url": "https://clinicaltrials.gov/study/NCT02491242"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05549180",
+      "title": "Phase IV, Randomized, Multicenter and Double Clinical Trial Blind Designed to Assess Safety and Convenience of the Change From DTG/3TC to BIC/FTC/TAF in People With HIV, Good Virological Control and Neuropsychiatric Vulnerabilities: MIND Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-10-06",
+      "completion_date": "2024-08-07",
+      "country": "Spain",
+      "enrollment": 84,
+      "brief_summary": "In people infected with HIV, with suppressed HIV viral load and receiving treatment with DTG/3TC:\n\nThe change to BIC/FTC/TAF will decrease the development of adverse events of neuropsychiatric etiology.\n\nThe change to BIC/FTC/TAF may improve the patient´s tolerability and degree of acceptance and use of TAR.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult \\>18 years diagnosed with HIV by standard microbiological techniques\n* Active antiretroviral treatment with DTG/3TC\n* Last HIV viral load performed on the participant in the 6 months prior to the visit screening \\< 50 copies/mL. If the participant does not have an HIV vi",
+      "endpoints": [
+        "The safety of switching to BIC/FTC/TAF versus continuing treatment with DTG/3TC."
+      ],
+      "sponsor": "Fundacion SEIMC-GESIDA",
+      "url": "https://clinicaltrials.gov/study/NCT05549180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000891",
+      "title": "Immunologic and Virologic Consequences of Long-Term Highly Active Antiretroviral Therapy (HAART) in Subjects With Moderately Advanced HIV-1 Disease: A Follow-Up Study to ACTG 315",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2004-05",
+      "country": "United States",
+      "enrollment": 34,
+      "brief_summary": "To evaluate the relationship between viral suppression and changes in immune function, as measured by the restoration of delayed-type hypersensitivity (DTH) and lymphoproliferative (LP) responses, observed after 48 weeks of treatment with highly active antiretroviral therapy (HAART) in ACTG 315. To evaluate the durability of the antiviral and immunologic effects of long-term treatment with HAART.\n\nGiven the extensive immunologic and virologic data available from ACTG 315, follow-up studies of th",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Protocol Chair-approved antiretroviral medications or research study treatment for an HIV complication.\n* Treatment, maintenance, or chemoprophylaxis with approved medications for opportunistic infections.\n* Antibiotics.\n* Recombinant erythropo",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000891"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00476606",
+      "title": "Treatment Outcome of Children With HIV Infection",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-03",
+      "completion_date": "2024-09-12",
+      "country": "Thailand",
+      "enrollment": 500,
+      "brief_summary": "To evaluate clinical and immunological outcome of children treated with HAART.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children who are part of the ATC program at Chulalongkorn hospital and at HIV-NAT, The Thai Red Cross AIDS research center\n* Children who fulfil criteria to start HAART according to the ATC program\n* Children who are switched to second regimen or salvage therapy\n* Children who",
+      "endpoints": [
+        "1. To collect clinical and immunologic data of children treated with HAART 2. To collect clinical outcome data on children with HIV infection 3. To provide the best possible care to children with HIV infection"
+      ],
+      "sponsor": "The HIV Netherlands Australia Thailand Research Collaboration",
+      "url": "https://clinicaltrials.gov/study/NCT00476606"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00765271",
+      "title": "A Study Investigating Plasma Abacavir and Its Intracellular Anabolite Carbovir-triphosphate Pharmacokinetics in the Absence and in the Presence of Darunavir/Ritonavir or Raltegravir in HIV-infected Subjects.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-05",
+      "completion_date": "2008-10",
+      "country": "United Kingdom",
+      "enrollment": 29,
+      "brief_summary": "The study is being conducted as we have found that many patients with Human Immunodeficiency Disease (HIV) require a combination of different drugs to treat the HIV infection. Before using different combination of drugs, it is important to do studies to see if the drugs will affect the activity of one another.\n\nThe study aims to help us understand if darunavir/ritonavir or raltegravir have any effects on levels of abacavir in the blood.\n\nThe purpose of the study is to assess the pharmacokinetics",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The ability to understand and sign a written informed consent form, prior to participation in any screening procedure and must be willing to comply with all study requirements.\n2. Male or non-pregnant, non-lactating females.\n3. Between 18 to 65 years, inclusive.\n4. Documented",
+      "endpoints": [
+        "Steady state plasma concentrations of abacavir and intracellular concentrations of its active anabolite carbovir-TP following the administration of abacavir 600 mg once daily, in the absence and in the presence of darunavir/ritonavir or raltegravir"
+      ],
+      "sponsor": "St Stephens Aids Trust",
+      "url": "https://clinicaltrials.gov/study/NCT00765271"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00424814",
+      "title": "Prevention of HIV1 Mother to Child Transmission Without Nucleoside Analogue Reverse Transcriptase Inhibitors in the Pre-partum Phase. A Multicenter Randomised Phase II/III Open Label Study With a Group of 100 Pregnant Women Receiving Lopinavir/Ritonavir and a Group of 50 Receiving Lopinavir/Ritonavir Plus Zidovudine and Lamivudine. ANRS 135 Primeva",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2012-11",
+      "country": "France",
+      "enrollment": 105,
+      "brief_summary": "In the pre-partum phase the use of antiretroviral therapy for the mother during the last trimester of pregnancy is mandatory. The use of HAART during pregnancy, usually two nucleosides analogues and a protease inhibitor exposes the mother and the child to cumulate toxicities related to both families. The aim of this study is to assess the use of a boosted protease inhibitor without nucleoside analogue during the pre-partum phase for women with no indication of antiretroviral therapy for their ow",
+      "eligibility_criteria": "Inclusion Criteria: Assessed between 20 and 24 months of pregnancy\n\n* Pregnancy known before 24 weeks of gestation\n* Documented HIV-1 infection without indication for ARV therapy\n* CD4 count above or equal to 350 per mm3\n* VL under 30 000 copies per ml\n* Naïve for PI (except treatment during previou",
+      "endpoints": [
+        "Proportion of mother with plasma HIV1 below 200 copies per ml after 8 weeks of treatment"
+      ],
+      "sponsor": "ANRS, Emerging Infectious Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT00424814"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01475240",
+      "title": "A Cross-sectional Controlled Study to Evaluate the Impact of Hyperbilirubinemia on Markers of Cardiovascular Disease, Neurocognitive Function and Renal Markers in HIV-1 Infected Subjects on Protease Inhibitors",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2013-11",
+      "country": "United Kingdom",
+      "enrollment": 101,
+      "brief_summary": "Use of some protease inhibitors is associated with elevations of a blood pigment called bilirubin. This may occasionally lead to yellowing of the eyes (scleral icterus) or jaundice, but in the general population bilirubin elevations have been shown to have antioxidant and anti-inflammatory properties that could be associated with reduced risk of cardiovascular or other disease events.\n\nInflammation may also be relevant to neurocognitive impairment in HIV (Human Immunodeficiency Virus) infection ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The ability to understand and sign a written informed consent form, prior to participation in any screening procedure and must be willing to comply with all study requirements.\n2. Documented HIV-1 infection.\n3. \\>18 years of age\n4. Stable on PI based therapy with TDF/FTC or A",
+      "endpoints": [
+        "To evaluate the impact of hyperbilirubinemia on markers of cardiovascular disease"
+      ],
+      "sponsor": "St Stephens Aids Trust",
+      "url": "https://clinicaltrials.gov/study/NCT01475240"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00255840",
+      "title": "\"Safeguard the Household\" - A Study of HIV Antiretroviral Therapy Treatment Strategies Appropriate for a Resource Poor Country",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2009-01",
+      "country": "N/A",
+      "enrollment": 812,
+      "brief_summary": "The purpose of this study is to determine the effectiveness of several anti-HIV treatment strategies in resource-poor South African communities. The strategies being studied are using specially trained doctors or nurses to administer HIV care.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected\n* Current severe CDC Category B AIDS-defining illness (with the exception of a single episode of bacterial sepsis or a single episode of zoster), OR history of a severe CDC Category B or C AIDS-defining illness, OR one CD4 count less than 350 cells/mm3 within 6 ",
+      "endpoints": [
+        "Cumulative Treatment Failure Rate of Participants on First Line Antiretroviral Therapy Monitored by Primary Health Care Nurses (Investigative Arm)is Not Inferior to the Cumulative Treatment Failure Rate of Participants Monitored by Doctors (Control Arm)."
+      ],
+      "sponsor": "CIPRA SA",
+      "url": "https://clinicaltrials.gov/study/NCT00255840"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00820118",
+      "title": "ARNS 141 TIPI : A Pilot Trial to Assess the Ability of an Intermittent Antiretroviral Therapy in Maintaining an Immunological Stability in Antiretroviral naïve HIV Infected Adults, With CD4 Count Above 500/mm3",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2012-05",
+      "country": "France",
+      "enrollment": 45,
+      "brief_summary": "The primary objective of the trial is to assess the ability of an early and intermittent antiretroviral therapy in maintaining an immunological stability in antiretroviral naive HIV infected adults, to offer a potential alternative strategy to differed and continuous antiretroviral treatment.This is a 2-year phase II, open-label, multicentric \"proof of concept\" trial. The patients included are treated following a pulse-therapy scheme, i.e. 6-month periods with once daily boosted-PI based therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult confirmed HIV-1 infection\n* no previous treatment with antiretroviral drugs or interleukin-2\n* CD4 count ≥ 500/mm3\n* no active opportunistic infection\n* written informed consent\n\nExclusion Criteria:\n\n* non barrier contraception in women of child bearing potential, pregna",
+      "endpoints": [
+        "proportion of patients with mean CD4 count at M21 and M24 above or equal to the mean CD4 count at screening and inclusion, without experiencing a decrease below 400/mm3 throughout the study."
+      ],
+      "sponsor": "ANRS, Emerging Infectious Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT00820118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00389194",
+      "title": "A Randomized, Controlled, Open-Label, 48-Week Study of Continuing Successfully Suppressive Treatment in HIV-1 Infected Adults With First-Line Twice-Daily Zidovudine and Lamivudine-Based Regimens Versus Pro-actively Replacing of Zidovudine and Lamivudine by Once-Daily Emtricitabine and Tenofovir Disoproxil Fumarate to Prevent Progression of or Reverse Peripheral Lipoatrophy.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2008-10",
+      "country": "Netherlands",
+      "enrollment": 120,
+      "brief_summary": "The main objective of the study is to assess changes in fat distribution over 48 weeks of treatment in patients who currently successfully use zidovudine (AZT) and lamivudine (3TC) as part of their regimen and who will either continue these antiretrovirals or who will switch these antiretrovirals to tenofovir disoproxil fumarate (TDF) and emtricitabine (FTC). Each of these medications is commonly used for the treatment of HIV-1 infection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Providing written informed consent\n* HIV-1 infected patients.\n* At least 18 years of age.\n* Males or non-pregnant, non-lactating females. Women of childbearing age must have a negative urine pregnancy test at screening. All female participants must be encouraged to utilise ade",
+      "endpoints": [],
+      "sponsor": "International Antiviral Therapy Evaluation Center",
+      "url": "https://clinicaltrials.gov/study/NCT00389194"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "37832567",
+      "title": "HIV-1 drug resistance in people on dolutegravir-based antiretroviral therapy: a collaborative cohort analysis.",
+      "abstract": "The widespread use of the integrase strand transfer inhibitor (INSTI) dolutegravir in first-line and second-line antiretroviral therapy (ART) might facilitate emerging resistance. The DTG RESIST study combined data from HIV cohorts to examine patterns of drug resistance mutations (DRMs) and identify risk factors for dolutegravir resistance.",
+      "journal": "The lancet. HIV",
+      "year": "2023",
+      "authors": [
+        "Loosli Tom",
+        "Hossmann Stefanie",
+        "Ingle Suzanne M",
+        "Okhai Hajra",
+        "Kusejko Katharina"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "HIV Infections",
+        "HIV-1",
+        "HIV Integrase Inhibitors",
+        "Reverse Transcriptase Inhibitors",
+        "Heterocyclic Compounds, 3-Ring",
+        "Lamivudine",
+        "Cohort Studies",
+        "HIV Seropositivity",
+        "Drug Resistance, Viral"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37832567/"
+    },
+    {
+      "pmid": "24754315",
+      "title": "Dolutegravir, abacavir and lamivudine as HIV therapy.",
+      "abstract": "Antiretroviral therapy has evolved dramatically and more potent, safer and convenient drugs have replaced former compounds. Dolutegravir (DTG) is the most recently approved integrase inhibitor. It displays attractive properties such as one pill once daily (QD) dosing, high barrier to resistance and clean safety profile. Moreover, it is planned to be marketed, co-formulated with abacavir (ABC) and lamivudine (3TC) as a single-tablet regimen (STR). The availability of this QD single pill represents a significant step further for a large number of HIV-infected persons.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2014",
+      "authors": [
+        "Fernandez-Montero Jose Vicente",
+        "Barreiro Pablo",
+        "Labarga Pablo",
+        "De Mendoza Carmen",
+        "Soriano Vicente"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-HIV Agents",
+        "Clinical Trials as Topic",
+        "Dideoxynucleosides",
+        "Drug Resistance, Viral",
+        "HIV Infections",
+        "HIV-1",
+        "Heterocyclic Compounds, 3-Ring",
+        "Humans",
+        "Lamivudine",
+        "Oxazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24754315/"
+    },
+    {
+      "pmid": "32504574",
+      "title": "Fixed-dose combination bictegravir, emtricitabine, and tenofovir alafenamide versus dolutegravir-containing regimens for initial treatment of HIV-1 infection: week 144 results from two randomised, double-blind, multicentre, phase 3, non-inferiority trials.",
+      "abstract": "In the primary week-48 analyses of two phase 3 studies, coformulated bictegravir, emtricitabine, and tenofovir alafenamide was non-inferior to a dolutegravir-containing regimen in treatment-naive people with HIV. We report week-144 efficacy and safety results from these studies.",
+      "journal": "The lancet. HIV",
+      "year": "2020",
+      "authors": [
+        "Orkin Chloe",
+        "DeJesus Edwin",
+        "Sax Paul E",
+        "Arribas Jose R",
+        "Gupta Samir K"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adenine",
+        "Adult",
+        "Aged",
+        "Alanine",
+        "Dideoxynucleosides",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Drug Combinations",
+        "Emtricitabine",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32504574/"
+    },
+    {
+      "pmid": "11996639",
+      "title": "Trizivir.",
+      "abstract": "Treatment of HIV infection has typically been carried out using two nucleoside analogues and a protease inhibitor (PI). Such regimens can be complex and have high pill burdens. Use of alternative regimens, such as triple nucleoside based regimens, can improve adherence and decrease toxicities associated with PI therapy. Trizivir is a combination tablet of zidovudine, lamivudine and abacavir. This formulation allows a dosing schedule of one pill twice-daily. The components of have performed favourably compared to PI-based regimens, such as indinavir. However, in one study the individual components of Trizivir did not suppress HIV-1 viral replication as well as the PI-based regimen in a subset of patients with very high HIV-1 plasma RNA. Trizivir also avoids side effects of antiretroviral therapy, such as hyperlipidaemia, but its use is associated with a hypersensitivity reaction in a small number of patients. Trizivir is an important part of the HIV armamentarium. The potency and ease o",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2002",
+      "authors": [
+        "Keiser Philip",
+        "Nassar Naiel"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antiretroviral Therapy, Highly Active",
+        "Biological Availability",
+        "Clinical Trials as Topic",
+        "Dideoxynucleosides",
+        "Drug Combinations",
+        "Drug Evaluation",
+        "HIV Infections",
+        "HIV-1",
+        "Humans",
+        "Intestinal Absorption"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11996639/"
+    },
+    {
+      "pmid": "29474268",
+      "title": "Twenty-Five Years of Lamivudine: Current and Future Use for the Treatment of HIV-1 Infection.",
+      "abstract": "Innovation in medicine is a dynamic, complex, and continuous process that cannot be isolated to a single moment in time. Anniversaries offer opportunities to commemorate crucial discoveries of modern medicine, such as penicillin (1928), polio vaccination (inactivated, 1955; oral, 1961), the surface antigen of the hepatitis B virus (1967), monoclonal antibodies (1975), and the first HIV antiretroviral drugs (zidovudine, 1987). The advent of antiretroviral drugs has had a profound effect on the progress of the epidemiology of HIV infection, transforming a terminal, irreversible disease that caused a global health crisis into a treatable but chronic disease. This result has been driven by the success of antiretroviral drug combinations that include nucleoside reverse transcriptase inhibitors such as lamivudine. Lamivudine, an L-enantiomeric analog of cytosine, potently affects HIV replication by inhibiting viral reverse transcriptase enzymes at concentrations without toxicity against huma",
+      "journal": "Journal of acquired immune deficiency syndromes (1999)",
+      "year": "2018",
+      "authors": [
+        "Quercia Romina",
+        "Perno Carlo-Federico",
+        "Koteff Justin",
+        "Moore Katy",
+        "McCoig Cynthia"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-HIV Agents",
+        "Drug Development",
+        "Drug Resistance, Viral",
+        "Drug Therapy, Combination",
+        "HIV Infections",
+        "HIV-1",
+        "Humans",
+        "Lamivudine",
+        "Reverse Transcriptase Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29474268/"
+    },
+    {
+      "pmid": "39826566",
+      "title": "Efficacy of dolutegravir plus lamivudine in treatment-naive people living with HIV without baseline drug-resistance testing available (D2ARLING): 48-week results of a phase 4, randomised, open-label, non-inferiority trial.",
+      "abstract": "Dolutegravir plus lamivudine has emerged as a preferred treatment for HIV; however, initiating this regimen without baseline resistance testing raises concerns about the potential presence of pretreatment lamivudine resistance. We aimed to evaluate the efficacy of dolutegravir plus lamivudine in the absence of information on baseline resistance testing in treatment-naive people with HIV.",
+      "journal": "The lancet. HIV",
+      "year": "2025",
+      "authors": [
+        "Cordova Ezequiel",
+        "Hernandez Rendon Jeniffer",
+        "Mingrone Veronica",
+        "Martin Patricio",
+        "Arevalo Calderon Gisela"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase IV",
+        "Equivalence Trial"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Pyridones",
+        "Heterocyclic Compounds, 3-Ring",
+        "Oxazines",
+        "Piperazines",
+        "Lamivudine",
+        "HIV Infections",
+        "Female",
+        "Male",
+        "Adult"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39826566/"
+    },
+    {
+      "pmid": "31503008",
+      "title": "Prevalence of pretreatment and acquired HIV-1 mutations associated with resistance to lamivudine or rilpivirine: a systematic review.",
+      "abstract": "Pretreatment and acquired drug resistance mutations (DRMs) can limit antiretroviral therapy effectiveness.",
+      "journal": "Antiviral therapy",
+      "year": "2019",
+      "authors": [
+        "Vannappagari Vani",
+        "Ragone Leigh",
+        "Henegar Cassidy",
+        "van Wyk Jean",
+        "Brown Dannae"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anti-HIV Agents",
+        "Antiretroviral Therapy, Highly Active",
+        "Drug Resistance, Viral",
+        "Genome, Viral",
+        "Global Health",
+        "HIV Infections",
+        "HIV-1",
+        "Humans",
+        "Lamivudine",
+        "Mutation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31503008/"
+    },
+    {
+      "pmid": "26517111",
+      "title": "Dutrebis (lamivudine and raltegravir) for use in combination with other antiretroviral products for the treatment of HIV-1 infection.",
+      "abstract": "Raltegravir and lamivudine have been part of highly active therapy regimens throughout the past years of antiretroviral therapy. A fixed-dose, single-tablet regimen comprising a non-poloxamer formulation of the integrase inhibitor raltegravir and the transcriptase inhibitor lamivudine (raltegravir/lamivudine; Dutrebis(®)) has been recently licensed for the treatment of HIV-1 infection. In several Phase I pharmacokinetic studies, one Dutrebis (150 mg lamivudine/300 mg raltegravir) fixed-dose combination tablet showed a higher bioavailability but comparable lamivudine and 400 mg raltegravir poloxamer exposures. Thus, the co-administration of raltegravir together with lamivudine created a potent, effective, well-tolerated antiretroviral combination, which could be more convenient for the patient. However, the disadvantage of twice a day administration, and the existence of other fixed-dose combinations limit its widespread clinical use. This article reviews pharmacokinetics data and appra",
+      "journal": "Expert review of clinical pharmacology",
+      "year": "2015",
+      "authors": [
+        "Casado José Luis",
+        "Bañón Sara"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-HIV Agents",
+        "Antiretroviral Therapy, Highly Active",
+        "Biological Availability",
+        "Drug Combinations",
+        "HIV Infections",
+        "HIV-1",
+        "Humans",
+        "Lamivudine",
+        "Raltegravir Potassium",
+        "Tablets"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26517111/"
+    },
+    {
+      "pmid": "40874763",
+      "title": "Efficacy and Safety of Dual Therapy With Dolutegravir/Lamivudine in Treatment-naive Persons With CD4 Counts <200/mm3: 48-Week Results of the DOLCE Study.",
+      "abstract": "Dolutegravir (DTG)/lamivudine dual therapy (DT) has demonstrated noninferiority to triple therapy (TT) in the GEMINI trials. Although the population with ≤200 CD4 cells/mm3 had a lower response rate, this was unrelated to virological failure. This trial evaluated the antiviral activity of dolutegravir/lamivudine among antiretroviral therapy (ART)-naive patients with human immunodeficiency virus (HIV) with a CD4 count ≤200 cells/mm3.",
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "year": "2026",
+      "authors": [
+        "Figueroa Maria Ines",
+        "Brites Carlos",
+        "Cecchini Diego",
+        "Ramalho Aline",
+        "Francos Jose Luis"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Pyridones",
+        "Heterocyclic Compounds, 3-Ring",
+        "Oxazines",
+        "Lamivudine",
+        "Piperazines",
+        "HIV Infections",
+        "Male",
+        "CD4 Lymphocyte Count",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40874763/"
+    },
+    {
+      "pmid": "36094514",
+      "title": "Efficacy and Safety of a Simplified Lamivudine Plus Dolutegravir Dual Therapy in HIV-1-Infected Patients: A Multicenter Cohort Study in China.",
+      "abstract": "Results from both clinical trials and real-world observational studies suggest that lamivudine plus dolutegravir (3TC + DTG) dual therapy has excellent virological efficacy and safety in HIV-1-infected patients. However, there is still no relevant study related to this dual therapy reported in China.",
+      "journal": "Journal of acquired immune deficiency syndromes (1999)",
+      "year": "2022",
+      "authors": [
+        "Zhong Mingli",
+        "Chen Chen",
+        "Hu Yue",
+        "Zou Meiyin",
+        "Yan Liting"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-HIV Agents",
+        "Cohort Studies",
+        "HIV Infections",
+        "HIV Seropositivity",
+        "HIV-1",
+        "Heterocyclic Compounds, 3-Ring",
+        "Homosexuality, Male",
+        "Humans",
+        "Lamivudine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36094514/"
+    },
+    {
+      "pmid": "12269843",
+      "title": "Lamivudine: in children and adolescents with chronic hepatitis B virus infection.",
+      "abstract": "Lamivudine, the negative enantiomer of 2'-deoxy-3'-thiacytidine, is a dideoxynucleoside analog that prevents hepatitis B virus (HBV) DNA synthesis by competitively inhibiting the viral reverse transcriptase and DNA polymerase stages of HBV replication and by terminating proviral DNA chain extension. A dose-ranging study established that once daily oral lamivudine 3 mg/kg up to a maximum of 100 mg/day has the optimum efficacy and tolerability profile for achieving a maximal reduction in serum HBV DNA levels in children aged 2 to 12 years and adolescents aged 13 to 17 years with chronic HBV infection and active viral replication (chronic hepatitis B). Significantly more children and adolescents with chronic hepatitis B receiving lamivudine demonstrated a virologic response (undetectable serum hepatitis Be antigen and undetectable HBV DNA level) [23 vs 13%; p = 0.04] and/or biochemical response (55 vs 12%; p < 0.001) compared with placebo in a large, randomized, double-blind, 52-week phas",
+      "journal": "Paediatric drugs",
+      "year": "2002",
+      "authors": [
+        "Keam Susan J",
+        "Scott Lesley J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Antiviral Agents",
+        "Child",
+        "Hepatitis B, Chronic",
+        "Humans",
+        "Lamivudine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12269843/"
+    },
+    {
+      "pmid": "19207972",
+      "title": "Natural history of chronic hepatitis B virus infection and long-term outcome under treatment.",
+      "abstract": "Chronic hepatitis B virus (HBV) infection is a dynamic state of interactions among HBV, the hepatocytes and the immune system of the patient. Perinatally or early childhood-acquired chronic HBV infection has a long 'immune tolerant phase', when patients are young, and HBeAg seropositive with a high viral load but with no significant liver disease. Persistent or episodic liver injuries during the 'immune clearance phase' may lead to decompensation, fibrosis progression or cirrhosis development in some patients, but may eventually lead to HBV-DNA seroclearance with HBeAg seroconversion and entry into the 'inactive phase' with remission. Hepatitis may relapse, because of reactivation of HBV with precore or basal core promptor mutations, and develop 'HBeAg-negative chronic hepatitis', in some patients. In contrast, HBsAg seroclearance may occur in those with sustained remission. During the course, HBV replication is the key driver of disease progression including development of cirrhosis a",
+      "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+      "year": "2009",
+      "authors": [
+        "Liaw Yun-Fan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Age Factors",
+        "Antiviral Agents",
+        "Disease Progression",
+        "Drug Therapy, Combination",
+        "Hepatitis B, Chronic",
+        "Humans",
+        "Interferon-alpha",
+        "Lamivudine",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19207972/"
+    },
+    {
+      "pmid": "31272463",
+      "title": "Lamivudine therapy for chronic hepatitis B in children: a meta-analysis.",
+      "abstract": "Currently, there is no consensus on the effects and safety of lamivudine therapy for chronic hepatitis B (CHB) in children.",
+      "journal": "Virology journal",
+      "year": "2019",
+      "authors": [
+        "Luo Aoran",
+        "Jiang Xiaoyan",
+        "Ren Hong"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Antiviral Agents",
+        "Child",
+        "Drug Resistance, Viral",
+        "Hepatitis B virus",
+        "Hepatitis B, Chronic",
+        "Humans",
+        "Lamivudine",
+        "Odds Ratio"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31272463/"
+    },
+    {
+      "pmid": "12526729",
+      "title": "Management of chronic hepatitis B virus infection in remote-dwelling Aboriginals and Torres Strait Islanders: an update for primary healthcare providers.",
+      "abstract": "Chronic HBV infection is common in remote Aboriginal and Torres Strait Islander communities, where resources are scarce and patients may have several concurrent illnesses. The management of chronic HBV infection has changed over recent years, with greater application of serological and radiological investigations and new, more acceptable treatments for chronic liver disease, cirrhosis and hepatocellular carcinoma. Optimal follow-up procedures for patients with chronic HBV infection are still being debated, but may not be applicable to Aboriginal and Torres Strait Islander communities where factors such as endemicity, remoteness, frequent comorbidities, shorter life expectancy and cultural differences in health priorities must be taken into consideration. We have defined an algorithm to assist primary care providers caring for patients with chronic HBV infection in Aboriginal and Torres Strait Islander communities. Patients are divided into one of three categories for follow-up and refe",
+      "journal": "The Medical journal of Australia",
+      "year": "2003",
+      "authors": [
+        "Fisher Dale A",
+        "Huffam Sarah E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adenine",
+        "Adolescent",
+        "Adult",
+        "Algorithms",
+        "Antiviral Agents",
+        "Australia",
+        "Carcinoma, Hepatocellular",
+        "Child",
+        "Child, Preschool",
+        "Clinical Protocols"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12526729/"
+    },
+    {
+      "pmid": "15482184",
+      "title": "Lamivudine for chronic hepatitis B.",
+      "abstract": "Lamivudine (Epivir, GlaxoSmithKline) was approved by the US Food and Drug Administration for the treatment of adult patients with chronic hepatitis B in 1998, and has since been shown to be of benefit to selected patients with chronic hepatitis B. Drug resistance is the main issue encountered during therapy, with lamivudine resistant mutants emerging at a rate of approximately 15 to 30% per year of therapy. These mutants are associated with relapse of hepatitis, and occasionally hepatic decompensation. Despite this, therapeutic indications and guidelines for lamivudine therapy have now been drawn up, which indicate that lamivudine will be the first line therapy for hepatitis B e antigen-positive chronic hepatitis B patients, although its role in hepatitis B e antigen-negative patients remains controversial.",
+      "journal": "Expert review of anti-infective therapy",
+      "year": "2004",
+      "authors": [
+        "Leung Nancy"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antiviral Agents",
+        "Clinical Trials, Phase III as Topic",
+        "Drug Resistance, Viral",
+        "Female",
+        "Hepatitis B e Antigens",
+        "Hepatitis B virus",
+        "Hepatitis B, Chronic",
+        "Humans",
+        "Immunosuppression Therapy",
+        "Infectious Disease Transmission, Vertical"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15482184/"
+    },
+    {
+      "pmid": "16984494",
+      "title": "Systematic review: lamivudine prophylaxis for chemotherapy-induced reactivation of chronic hepatitis B virus infection.",
+      "abstract": "Reactivation of hepatitis B virus infection in asymptomatic hepatitis B surface antigen carriers undergoing chemotherapy or immunosuppressive therapy is a well-documented and potentially fatal complication. Data supporting the use of lamivudine for primary prophylaxis have emerged, but its use remains controversial and is not standardized.",
+      "journal": "Alimentary pharmacology & therapeutics",
+      "year": "2006",
+      "authors": [
+        "Kohrt H E",
+        "Ouyang D L",
+        "Keeffe E B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Antiviral Agents",
+        "Hepatitis B, Chronic",
+        "Humans",
+        "Lamivudine",
+        "Prospective Studies",
+        "Randomized Controlled Trials as Topic",
+        "Reverse Transcriptase Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16984494/"
+    },
+    {
+      "pmid": "12118403",
+      "title": "Chronic hepatitis B virus infection in renal transplant recipients.",
+      "abstract": "Although in Western Europe and North America the prevalence of chronic hepatitis B virus (HBV) infection has declined in patients awaiting renal transplantation, it remains a relevant clinical problem, mainly in patients with a long history of renal replacement therapy (RRT) who may have been infected many years ago. At the same time, a significant proportion of renal transplant recipients (RTR) is at risk for HBV infection in areas with endemic HBV. HBV infection may increase morbidity and mortality in RTR. The majority of long-term studies reported reduced patient survival compared with hepatitis B surface antigen (HBsAg)-negative RTR. The risk for morbidity and mortality of HBsAg-positive RTR transplantation is probably related to the extent of pretransplant liver disease. A thorough evaluation, including liver biopsy in many patients, is required to assess the individual HBsAg-positive patient's risk-benefit ratio. The influence of immunosuppressive therapy on HBV replication and H",
+      "journal": "Seminars in nephrology",
+      "year": "2002",
+      "authors": [
+        "Kletzmayr Josef",
+        "Watschinger Bruno"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antiviral Agents",
+        "Hepatitis B, Chronic",
+        "Humans",
+        "Immunosuppression Therapy",
+        "Interferon-alpha",
+        "Kidney Failure, Chronic",
+        "Kidney Transplantation",
+        "Lamivudine",
+        "Practice Guidelines as Topic",
+        "Risk Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12118403/"
+    },
+    {
+      "pmid": "10534223",
+      "title": "Role of lamivudine in the treatment of chronic hepatitis B virus infection.",
+      "abstract": "To examine the evidence regarding the therapeutic effectiveness of lamivudine in the treatment of chronic hepatitis B virus (HBV) infection in immunocompetent patients.",
+      "journal": "The Annals of pharmacotherapy",
+      "year": "1999",
+      "authors": [
+        "Hagmeyer K O",
+        "Pan Y Y"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antiviral Agents",
+        "Clinical Trials as Topic",
+        "DNA, Viral",
+        "Hepatitis B Antigens",
+        "Hepatitis B virus",
+        "Hepatitis B, Chronic",
+        "Humans",
+        "Lamivudine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10534223/"
+    },
+    {
+      "pmid": "10764020",
+      "title": "Current limitations to nucleoside analogue therapy for chronic hepatitis B virus infection in the liver transplant and non-transplant settings.",
+      "abstract": "",
+      "journal": "Journal of gastroenterology and hepatology",
+      "year": "2000",
+      "authors": [
+        "Freiman J S",
+        "McCaughan G W"
+      ],
+      "pub_types": [
+        "Editorial",
+        "Review",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "2-Aminopurine",
+        "Adenine",
+        "Antiviral Agents",
+        "DNA, Viral",
+        "Famciclovir",
+        "Hepatitis B e Antigens",
+        "Hepatitis B virus",
+        "Hepatitis B, Chronic",
+        "Humans",
+        "Lamivudine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10764020/"
+    },
+    {
+      "pmid": "15476146",
+      "title": "Treatment of chronic hepatitis B: who to treat, what to use, and for how long?",
+      "abstract": "Chronic hepatitis B infection continues to be a major public health concern worldwide. The natural history of the disease can be divided into 4 different phases: immune tolerance, immune clearance, inactive carrier, and reactivation. The goals of treatment are sustained viral suppression, normalization of ALT, and improvement in liver histology. Antiviral agents in current use include standard interferon-alpha, lamivudine, and adefovir. With an improved understanding of the natural history of the disease and a growing repertoire of antiviral drugs, the important questions are: who should receive treatment, what is the best agent to use, and what is the optimal duration of therapy? Treatment is indicated for patients in the immune clearance and reactivation phases. Patients with high pretreatment ALT level, detectable HBV DNA in the serum, and active inflammation on liver biopsy are predicted to have the highest chance of response to treatment. The choice of a particular agent must bala",
+      "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+      "year": "2004",
+      "authors": [
+        "Fung Scott K",
+        "Lok Anna S F"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adenine",
+        "Antiviral Agents",
+        "Drug Administration Schedule",
+        "Drug Therapy, Combination",
+        "Hepatitis B, Chronic",
+        "Humans",
+        "Interferon-alpha",
+        "Lamivudine",
+        "Organophosphonates",
+        "Reverse Transcriptase Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15476146/"
+    }
+  ]
+}

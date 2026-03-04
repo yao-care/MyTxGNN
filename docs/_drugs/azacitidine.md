@@ -5,7 +5,7 @@ drugbank_id: "DB00928"
 drug_name: "Azacitidine"
 kg_predictions: 204
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 204
 brands: []
 permalink: /drugs/azacitidine/
@@ -21,7 +21,7 @@ permalink: /drugs/azacitidine/
 | **DrugBank ID** | [DB00928](https://go.drugbank.com/drugs/DB00928) |
 | **KG Predictions** | 204 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

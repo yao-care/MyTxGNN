@@ -5,7 +5,7 @@ drugbank_id: "DB09281"
 drug_name: "Magnesium Trisilicate"
 kg_predictions: 65
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 65
 brands: []
 permalink: /drugs/magnesium-trisilicate/
@@ -21,7 +21,7 @@ permalink: /drugs/magnesium-trisilicate/
 | **DrugBank ID** | [DB09281](https://go.drugbank.com/drugs/DB09281) |
 | **KG Predictions** | 65 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

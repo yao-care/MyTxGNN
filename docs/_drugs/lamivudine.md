@@ -5,7 +5,7 @@ drugbank_id: "DB00709"
 drug_name: "Lamivudine"
 kg_predictions: 90
 dl_predictions: 57
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 90
 brands: []
 permalink: /drugs/lamivudine/
@@ -21,7 +21,7 @@ permalink: /drugs/lamivudine/
 | **DrugBank ID** | [DB00709](https://go.drugbank.com/drugs/DB00709) |
 | **KG Predictions** | 90 |
 | **DL Predictions (≥0.7)** | 57 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

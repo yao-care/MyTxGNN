@@ -1,0 +1,1037 @@
+{
+  "drug": "Clavulanic Acid",
+  "drugbank_id": "DB00766",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:35:02Z",
+  "indications": [
+    {
+      "indication": "streptococcal pneumonia",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 5,
+        "other_articles": 4,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "staphylococcus aureus pneumonia",
+      "evidence_level": "L1",
+      "trials": 4,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 3,
+        "rct_articles": 0,
+        "review_articles": 4,
+        "other_articles": 5,
+        "total_trials": 4,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "urinary tract infection",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 13,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 7,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "bacterial pneumonia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 3,
+        "phase1_trials": 0,
+        "other_trials": 10,
+        "rct_articles": 1,
+        "review_articles": 4,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "escherichia coli infection",
+      "evidence_level": "L1",
+      "trials": 8,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 6,
+        "rct_articles": 1,
+        "review_articles": 1,
+        "other_articles": 8,
+        "total_trials": 8,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 52,
+  "total_articles": 48,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07322549",
+      "title": "Amoxicillin/Clavulanic Acid Susceptibility in Acute Community-acquired Pneumonia Documented With Streptococcus Pneumoniae, Haemophilus Influenzae, or Staphylococcus Aureus Requiring Intensive Care Management: a Single-center Retrospective Study.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2025-03-01",
+      "completion_date": "2025-09-30",
+      "country": "France",
+      "enrollment": 104,
+      "brief_summary": "Severe community-acquired pneumonia (CAP) and community-acquired aspiration pneumonia (CAAP) are common reasons for adult emergency department visits and subsequent admission to the intensive care unit (ICU). Three bacteria are primarily implicated in this type of pneumonia: Streptococcus pneumoniae, Haemophilus influenzae, and Staphylococcus aureus.\n\nEmpirical antibiotic therapy for this condition is currently based on the use of beta-lactams. While third-generation cephalosporins (3GC) remain ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient admitted to the ICU at Sainte-Musse Hospital between January 2018 and December 2022.\n2. Diagnosis of severe CAP or CAAP within 48 hours of hospital admission, documented with Streptococcus pneumoniae, and/or Haemophilus influenzae, and/or Staphylococcus aureus (confir",
+      "endpoints": [
+        "Susceptibility rate to AMC and/or 3GC for identified bacteria at CAP or CAAP diagnosis"
+      ],
+      "sponsor": "Centre Hospitalier Intercommunal de Toulon La Seyne sur Mer",
+      "url": "https://clinicaltrials.gov/study/NCT07322549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05079620",
+      "title": "Antibiotic Prophylaxis in Critically Ill Patients After Suspected Aspiration",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2021-11-30",
+      "completion_date": "2024-04-12",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "The purpose of this study is to evaluate the use of early antibiotics in ICU patients who appear to have aspirated, to help determine whether this improves outcomes by reducing the later incidence of pneumonia and other negative consequences.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Admitted to the ICU within the last 24 hours, or with a witnessed aspiration event in the last 24 hours while in the ICU\n* Radiographic findings on chest x-ray or CT deemed by the treating ICU team to be consistent with aspiration (e.g. dependent infiltrates or intraluminal ai",
+      "endpoints": [
+        "ICU-free Days"
+      ],
+      "sponsor": "UConn Health",
+      "url": "https://clinicaltrials.gov/study/NCT05079620"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01110421",
+      "title": "A Prospective, Randomized, Double-Blind, Multicenter Study to Establish the Safety and Tolerability of Doripenem Compared With Cefepime in Hospitalized Children With Bacterial Pneumonia",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2010-12",
+      "completion_date": "2012-03",
+      "country": "Ukraine, Latvia, Mexico, Lithuania, Colombia, Panama, Poland, Argentina, Brazil, United States",
+      "enrollment": 7,
+      "brief_summary": "The purpose of this study is to evaluate the safety and tolerability of doripenem compared to cefepime in children hospitalized with pneumonia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Require parenteral antibacterial therapy for the treatment of pneumonia\n* Have new or progressive radiographic infiltrate(s) (alveolar, lobar, or consolidation) consistent with a bacterial pneumonia that is not related to cardiac or other disease processes\n* Must, based on the",
+      "endpoints": [
+        "The Number of Participants With Clinical Cure Rate at Test Of Cure (TOC) Visit"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01110421"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01669980",
+      "title": "A Multicenter, Randomized, Observer-Blinded, Active-Controlled Study Evaluating the Safety, Tolerability, Pharmacokinetics, and Efficacy of Ceftaroline Versus Ceftriaxone Plus Vancomycin in Pediatric Subjects With Complicated Community-acquired Bacterial Pneumonia (CABP)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "2014-08",
+      "country": "Ukraine, Argentina, Georgia, United States",
+      "enrollment": 40,
+      "brief_summary": "This is a study of safety and effectiveness of ceftaroline fosamil in children with Complicated Community-acquired Pneumonia receiving antibiotic therapy in the hospital.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Presence of CABP warranting 3 days of initial hospitalization\n* Confirmed presence of indicators of complicated CABP\n\nExclusion Criteria:\n\n* Hypersensitivity or allergic reaction to vancomycin or any β-lactam antimicrobial\n* Confirmed or suspected infection with a pathogen kno",
+      "endpoints": [
+        "Evaluate the safety and tolerability of ceftaroline versus ceftriaxone plus vancomycin in pediatric subjects ages 2 months to < 18 years with complicated community-acquired bacterial pneumonia (CABP)"
+      ],
+      "sponsor": "Forest Laboratories",
+      "url": "https://clinicaltrials.gov/study/NCT01669980"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03357614",
+      "title": "Prospective, Phase 3, Randomized, Multi-center, Double-blind, Double-dummy Study of Efficacy, Tolerability & Safety of Sulopenem Followed by Sulopenem-etzadroxil/Probenecid vs Ertapenem Followed by Cipro for Treatment of cUTI in Adults",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-09-18",
+      "completion_date": "2019-12-14",
+      "country": "Latvia, Hungary, Estonia, United States, Georgia",
+      "enrollment": 1395,
+      "brief_summary": "This is a prospective, phase 3, randomized, multicenter, double-blind, double-dummy study to compare the efficacy and safety of sulopenem followed by sulopenem-etzadroxil/probenecid versus ertapenem followed by ciprofloxacin for the treatment of complicated urinary tract infections (cUTI) in adults.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults ≥18 years of age with more than 24 hours of urinary symptoms attributable to a UTI\n2. Able to provide informed consent\n3. Clinically documented pyelonephritis or complicated urinary tract infection:\n\n   1. Pyelonephritis with normal anatomy\n   2. Complicated UTI as def",
+      "endpoints": [
+        "Percentage of Participants With Overall Success"
+      ],
+      "sponsor": "Iterum Therapeutics, International Limited",
+      "url": "https://clinicaltrials.gov/study/NCT03357614"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06067386",
+      "title": "Selective Reporting for Antibiotic Susceptibility Testing and GPs' Prescribing of Broad-spectrum Antibiotics in Women With E. Coli UTIs",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-11-21",
+      "completion_date": "2024-11-21",
+      "country": "France",
+      "enrollment": 3000,
+      "brief_summary": "The control of antibiotic resistance requires a reduction in inappropriate prescriptions of broad-spectrum antibiotics (amoxillin-clavulanate (AMC), fluoroquinolones (FQ), third-generation cephalosporins (C3G)), particularly for urinary tract infections treated in primary care. Several studies have reported the positive impact of antibiotic susceptibility testing performed on urine cultures on the appropriate use of antibiotics.\n\nThe \"selective reporting for antibiotic susceptibility testing \", ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients :\n\n* women ≥18 years of age,\n* affiliated with the CPAM of Loire Atlantique (44) or Maine et Loire (49),\n* with a urine culture: i) analyzed by LabOuest, ii) positive for E. coli, and iii) associated with a prescription for antibiotics by a general practitioner in the p",
+      "endpoints": [
+        "Rate of broad-spectrum antibiotic dispensing"
+      ],
+      "sponsor": "Nantes University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06067386"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07189429",
+      "title": "PA-100 Workflow Assessment",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-07-01",
+      "completion_date": "2025-08-30",
+      "country": "Spain",
+      "enrollment": 199,
+      "brief_summary": "Assessment of workflow implications of the PA-100 AST System.\n\nUsing well-defined data collection protocols, the study comprises the following:\n\n* Collection of clean-catch midstream urine samples\n* Measurement of specimens on the PA-100 AST System\n\n  o Antibiotics tested: Amoxicillin/clavulanic acid (AMC), Ciprofloxacin (CIP), Trimethoprim (TRI), Fosfomycin (FOS) and Nitrofurantoin (NIT)\n* Treatment of patients according to the results of the tests on the PA-100 AST System\n* Collection of data ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients were recruited according to the following criteria: non-pregnant female, \\>18 years old, presenting with acute UTI symptoms that had been present for \\< 7 days (symptoms according to the current guidelines \\[EAU\\]), with no antibiotic treatment within the previous 7 day",
+      "endpoints": [
+        "Frequency of antibiotic prescription"
+      ],
+      "sponsor": "Sysmex Europe GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT07189429"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04724044",
+      "title": "A Randomized Clinical Trial of Oral Clarithromycin in Community-acquired Pneumonia to Attenuate Inflammatory Responses and Improve Outcomes: the ACCESS Clinical Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-01-25",
+      "completion_date": "2023-04-11",
+      "country": "Greece",
+      "enrollment": 278,
+      "brief_summary": "Traditional management of community-acquired pneumonia (CAP) relies on the prompt administration of antimicrobials that target the most common causative pathogens. Retrospective analysis of observational clinical studies in CAP showed that the addition of macrolides to standard antibiotic therapy conferred a significant survival benefit. The proposed benefit of macrolides is coming from their anti-inflammatory mode of action. An RCT that proves the attenuation of the high inflammatory burden of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients (≥18 years)\n* Male of female gender\n* In case of non-menopausal women, unwillingness to become pregnant during the study period. Women of child-bearing potential will be screened by a urine pregnancy test before inclusion in the study.\n* Written informed consent",
+      "endpoints": [
+        "Change of baseline respiratory symptoms score",
+        "Change of baseline total sequential organ failure assessment (SOFA) score and/or change of baseline serum PCT"
+      ],
+      "sponsor": "Hellenic Institute for the Study of Sepsis",
+      "url": "https://clinicaltrials.gov/study/NCT04724044"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03508921",
+      "title": "Comparison of Methods for Prevention of Urinary Tract Infection Following Botox Injection: a Non-Inferiority Trial",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2018-07-01",
+      "completion_date": "2022-06-01",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "Injection of OnabotulinumtoxinA (BTX-A) into the bladder is a widely used treatment option for patients with overactive bladder who have failed medical therapy. Urinary tract infection is the most common side effect of this procedure and therefore antibiotics are given around the time of injection in order to prevent these events. While antibiotics are commonly given at the time of injection, the duration of these antibiotic regimens are variable. The investigators propose a study to investigate",
+      "eligibility_criteria": "Inclusion criteria:\n\n* ≥ 18 years of age\n* Medication refractory OAB, identified per American Urological Association guidelines\n\nExclusion criteria:\n\n* Post void residual urine \\>150ml on two occasions\n* Untreated, symptomatic UTI\n* Comorbid neurological conditions, including spinal cord injury, sys",
+      "endpoints": [
+        "Post Procedural- Urinary Tract Infection"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03508921"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02650518",
+      "title": "Controlling Antimicrobial Use Through Reducing Unnecessary Treatment of Catheter Associated Urinary Tract Infections (CARCUTI)",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-12",
+      "completion_date": "2018-10",
+      "country": "Singapore",
+      "enrollment": 500,
+      "brief_summary": "Hypothesis: A short course (3-5 days) of antibiotic therapy (experimental arm) is as safe and effective as a long course of antibiotic therapy for the treatment of catheter-associated urinary tract infections.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Inpatients ≥ 21 years old.\n2. Presence of indwelling urinary catheter at the time of urine culture for ≥2days.\n3. Fever \\>38°C.\n4. A urine specimen sent to the hospital microbiological laboratory for culture.\n5. An antibiotic order for presumed symptomatic catheter associated",
+      "endpoints": [
+        "Resolution"
+      ],
+      "sponsor": "National University Hospital, Singapore",
+      "url": "https://clinicaltrials.gov/study/NCT02650518"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04400110",
+      "title": "Shortened Antibiotic Therapy for Febrile Urinary Tract Infection (UTI) in Childhood: a Multicenter Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-06-08",
+      "completion_date": "2022-12-31",
+      "country": "Italy",
+      "enrollment": 154,
+      "brief_summary": "Febrile urinary tract infections (UTIs) are common in children, but there is no consensus concerning the duration of the antibiotic treatment. Current recommendations include the use of an oral antibiotic, chosen between amoxicillin and clavulanic acid or a third-generation cephalosporin (ceftibuten), for a minimum of seven to a maximum of 14 days. In an antibiotic overuse-sparing model, proper evaluation of a shorter therapy in the treatment of febrile UTI in childhood is lacking.\n\nThe objectiv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age from 3 months to 5 years;\n2. Clinical diagnosis of febrile UTI, defined by fever ≥38°C and positive result of urinalysis (nitrite and/or leukocyte esterase positivity) in two consecutive urine samples collected by bladder catheterization or clean catch (19). The diagnosis",
+      "endpoints": [
+        "Rate of infection recurrence"
+      ],
+      "sponsor": "IRCCS Burlo Garofolo",
+      "url": "https://clinicaltrials.gov/study/NCT04400110"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05519072",
+      "title": "Use of Prophylactic Antibiotics Prior to OnabotulinumtoxinA Treatment of Overactive Bladder: a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2022-08-16",
+      "completion_date": "2024-08-16",
+      "country": "United States",
+      "enrollment": 140,
+      "brief_summary": "This study aims to show that lack of antibiotic prophylaxis to those undergoing bladder Botox injections is not significantly inferior to administering prophylaxis. By proving this, the investigators aim to decrease antibiotic use in this setting to combat the growing issue of antibiotic resistance.\n\nParticipants will be randomized to antibiotic or no treatment arm. Those randomized to the treatment arm will receive oral antibiotics for 2 days pre-treatment, on the treatment day, and 2 days post",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female\n* Age ≥ 18\n* Patient undergoing bladder Botox treatment\n\nExclusion Criteria:\n\n* Pregnant and/or breastfeeding\n* Contraindication to injection of Botox - hypersensitivity to any botulinum toxin preparation or to any of the components in the formulation, symptomatic urina",
+      "endpoints": [
+        "Urinary tract infections"
+      ],
+      "sponsor": "Atlantic Health System",
+      "url": "https://clinicaltrials.gov/study/NCT05519072"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03612297",
+      "title": "Impact of Selective Reporting of Antibiotic Susceptibility Test Results in Urinary Tract Infections in the Outpatient Setting: a Protocol for a Pragmatic, Prospective Quasi-experimental Trial",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2018-09-01",
+      "completion_date": "2020-04-30",
+      "country": "N/A",
+      "enrollment": 64000,
+      "brief_summary": "Antibiotic resistance is a serious and increasing worldwide threat to global public health. One of antibiotic stewardship programmes' objectives is to reduce inappropriate broad-spectrum antibiotics' prescription. Selective reporting of antibiotic susceptibility test (AST) results, which consists of reporting to prescribers only few (n=5-6) antibiotics, preferring first-line and narrow-spectrum agents, is one possible strategy advised in recommendations. However, selective reporting of AST has n",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adults with an E. coli positive urine culture on which an AST is realised in the year 2017 and 2019 in ATOUTBIO or EVOLAB laboratories\n* adults who go to ambulatory care practitioners located in the geographic areas served by all the 41 laboratories studied (in the interventio",
+      "endpoints": [
+        "Impact of selective reporting of AST for E. coli positive urine cultures in outpatient setting on the prescription of broad-spectrum antibiotics frequently used on UTIs (amoxicillin-clavulanate, third generation cephalosporins and fluoroquinolones)"
+      ],
+      "sponsor": "Central Hospital, Nancy, France",
+      "url": "https://clinicaltrials.gov/study/NCT03612297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07236944",
+      "title": "Pivmecillinam as Oral Step-Down Treatment for Escherichia Coli Febrile Urinary Tract Infection Versus Standard of Care: A Randomized Controlled Non-Inferiority Multicenter Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-12",
+      "completion_date": "2029-03",
+      "country": "Norway, Sweden",
+      "enrollment": 560,
+      "brief_summary": "The goal of this clinical trial is to learn if oral treatment with pivmecillinam is effective to treat febrile urinary tract infections in adult patients. Hospitalized patients who have received 2-4 days of intravenous antibiotic therapy for febrile urinary tract infections, and have responded to treatment, will be randomized to either pivmecillinam or standard treatment (other oral or intravenous antibiotics).\n\nThe main question the study aims to answer is if oral follow-up with pivmecillinam i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 years of age.\n2. Diagnosis of fUTI, defined as i) fever ≥ 38°C and ii) at least one of the following: flank pain or pelvic pain, nausea or vomiting, dysuria, urinary frequency or urgency, and costovertebral angle tenderness on physical examination.\n3. Growth of E. coli in",
+      "endpoints": [
+        "Clinical response (primary endpoint)."
+      ],
+      "sponsor": "Uppsala University",
+      "url": "https://clinicaltrials.gov/study/NCT07236944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06953271",
+      "title": "Methenamine Hippurate Compared to Typical Antibiotic Prophylaxis in the Prevention of Urinary Tract Infection Following Intradetrusor OnabotulinumtoxinA Injection for Treatment of Overactive Bladder: a Randomized Controlled Non-Inferiority Trial",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-05-15",
+      "completion_date": "2027-01-01",
+      "country": "United States",
+      "enrollment": 164,
+      "brief_summary": "The goal of this clinical trial is to compare methenamine hippurate prophylaxis to routine antibiotic prophylaxis following onabotulinumtoxinA (BOTOX-A) injections in women with overactive bladder (OAB). Participants will be randomly selected to receive one of the two post-procedural prophylaxis medications. The primary outcome measure will be urinary tract infection (UTI) rates within 30 days from the BOTOX-A procedure. Secondary outcomes will assess patient satisfaction with the two post-proce",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* undergoing intradetrusor BOTOX-A injections in the office setting for overactive bladder\n\nExclusion Criteria:\n\n* cisgender male individuals\n* neurogenic reasons for bladder symptoms (i.e. spinal cord injury, multiple sclerosis, etc.)\n* known allergy ",
+      "endpoints": [
+        "Acute Urinary Tract Infection"
+      ],
+      "sponsor": "Women and Infants Hospital of Rhode Island",
+      "url": "https://clinicaltrials.gov/study/NCT06953271"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00161330",
+      "title": "A Multicenter Randomized Controlled Trial of Antibiotic Treatment in Children With Urinary Tract Infections: Oral Amoxicillin/Clavulanic Acid vs Initial iv Ceftriaxone.",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2000-06",
+      "completion_date": "2005-07",
+      "country": "N/A",
+      "enrollment": 440,
+      "brief_summary": "The main objectives of the study are\n\n1. to compare the efficacy of oral vs initial iv antibiotic treatment in children with a first episode of UTI\n2. to assess the diagnostic power of the various imaging technique (renal ultrasonogram, voiding cystourethrogram, and renal scanning with technetium-99m-labeled dimercaptosuccinic acid)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age between 2 months and 6 years,\n* normal renal function\n* first episode of upper UTI (fever, 2 consecutive positive urinalysis, later confirmed by 2 cultures and high blood inflammation indices)\n\nExclusion Criteria:\n\n* documented previous urinary tract malformation (prenatal",
+      "endpoints": [
+        "1. Duration of fever (>38°),",
+        "2. Sterilization of the urine,",
+        "3. Reduction of the blood inflammatory indices,"
+      ],
+      "sponsor": "University of Padova",
+      "url": "https://clinicaltrials.gov/study/NCT00161330"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01111253",
+      "title": "DIABOLO Trial: A Multicenter Randomized Clinical Trial Investigating the Cost-effectiveness of Treatment Strategies With or Without Antibiotics for Uncomplicated Acute Diverticulitis.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2010-05",
+      "completion_date": "2014-10",
+      "country": "Netherlands",
+      "enrollment": 533,
+      "brief_summary": "Rationale\n\nThe prevalence of colonic diverticular disease is increasing in Western countries. Approximately 10 to 25% of patients with diverticular disease will eventually develop an episode of acute diverticulitis. Currently conservative treatment often includes antibiotic therapy. This advice lacks sound evidence and is merely based on experts' opinion. An old clinical dogma is being clarified with this randomized trial.\n\nObjective\n\nPrimary objective is to evaluate whether or not using antibio",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Only left-sided uncomplicated (mild) acute diverticulitis;\n* Clinical suspicion of acute diverticulitis. For acute diagnostic work-up: ultrasound or CT proven diverticulitis. In the case of diverticulitis-negative ultrasound in clinically suspected patients an intravenous cont",
+      "endpoints": [
+        "Time-to-full-recovery"
+      ],
+      "sponsor": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
+      "url": "https://clinicaltrials.gov/study/NCT01111253"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01820026",
+      "title": "Bacterial Infections Associated With Healthcare (Healthcare-Associated) in Hospitalized Cirrhotic Patients: Randomized Study of Use of Traditional Empirical Antibiotic Therapy and Second-line Targeted at Multi-resistant Bacteria",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-12",
+      "completion_date": "2015-06",
+      "country": "Italy",
+      "enrollment": 96,
+      "brief_summary": "Bacterial infections are a frequent complication in liver cirrhosis with a bad prognosis. However, the clinical outcome of cirrhotic patients with serious infections is significantly improved over the last 30 years due to early diagnosis and to the use of a more appropriate antibiotic therapy.\n\nAs in the general population, empirical treatment should be initiated soon after diagnosis, after making the necessary sampling and should be based on the use of an antibiotic with low toxicity and broad ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* cirrhosis\n* healthcare infection\n* older than 18 years\n* agreement to participate\n\nExclusion Criteria:\n\n* HIV\n* patients underwent to liver transplantation",
+      "endpoints": [
+        "Efficacy of anti-multiresistant empirical antibiotic therapy in healthcare associated infections in cirrhosis"
+      ],
+      "sponsor": "University of Roma La Sapienza",
+      "url": "https://clinicaltrials.gov/study/NCT01820026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01507974",
+      "title": "The Efficacy of Preventive Antibiotic Treatment During the Puerperium Among Pregnant Women With Recurrent Urinary Tract Infections",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-01-16",
+      "completion_date": "2015-01-01",
+      "country": "Israel",
+      "enrollment": 220,
+      "brief_summary": "Urinary tract infection is the most common bacterial infection during pregnancy. Asymptomatic bacteriuria is the most common infection, in up to 8% of the population. Symptomatic infection may cause cystitis or cause pyelonephritis.\n\nAmong pregnant women with recurrent bacteriuria, preventive antibiotic treatment has been found to be efficacious in reducing the bacteriuria rate and the complications.\n\nthe changes of the urinary tract which appear during pregnancy usually resolve up to 3 months p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women with two or more episodes of bacteriuria or one episode of pyelonephritis during pregnancy.\n\nExclusion Criteria:\n\n* Women with malformations of the urinary tract\n* women with risk factors to urinary tract infections, for example DIABETES MELLITUS, REFLUX.\n* Wome",
+      "endpoints": [
+        "Urinary tract complications"
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT01507974"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01110408",
+      "title": "A Prospective, Randomized, Double-Blind, Multicenter Study to Establish the Safety and Tolerability of Doripenem Compared With Cefepime in Hospitalized Children With Complicated Urinary Tract Infections",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2010-12",
+      "completion_date": "2013-06",
+      "country": "Ukraine, Latvia, Mexico, Lithuania, Chile, Czechia, Colombia, Panama, Poland, Argentina, Brazil, United States",
+      "enrollment": 41,
+      "brief_summary": "The purpose of this study is to evaluate the safety and tolerability of doripenem compared to cefepime in children hospitalized with complicated urinary tract infections.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are eligible for the study must have a current episode of cUTI or pyelonephritis\n* Have evidence of pyuria that meets criteria specified in the study protocol\n* Have a study-qualifying pretreatment \"baseline\" urine culture specimen obtained by an acceptable method",
+      "endpoints": [
+        "The Number of Participants With Clinical Cure Rate at Test Of Cure (TOC) Visit"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01110408"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "1854164",
+      "title": "Comparative efficacies of ciprofloxacin, amoxicillin, amoxicillin-clavulanic acid, and cefaclor against experimental Streptococcus pneumoniae respiratory infections in mice.",
+      "abstract": "Experimental respiratory infections were established in mice by intranasal inoculation of Streptococcus pneumoniae. Inoculation of 10(7) CFU of either S. pneumoniae 1629 or S. pneumoniae 7 produced a fatal pneumonia in nontreated mice 2 to 3 days after infection. Oral therapy was commenced 1 h after infection and was continued three times a day for 2 days. The doses used in mice produced peak concentrations in serum and lung tissue similar to those measured in humans. Ciprofloxacin failed to eliminate either strain of pneumococcus from mouse lungs at any of the doses tested (40, 80, or 160 mg/kg of body weight) by the end of therapy (33 h). Mice that received ciprofloxacin at 160 mg/kg were clear of S. pneumoniae 7 5 days later, whereas persistence and regrowth of S. pneumoniae 1629 resulted in the death of 20% of animals treated with ciprofloxacin. Therapy with cefaclor (20 mg/kg) produced an effect similar to that of ciprofloxacin. In contrast, amoxicillin (10 and 20 mg/kg) and amoxi",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "year": "1991",
+      "authors": [
+        "Gisby J",
+        "Wightman B J",
+        "Beale A S"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Amoxicillin",
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Cefaclor",
+        "Ciprofloxacin",
+        "Clavulanic Acid",
+        "Clavulanic Acids",
+        "Female",
+        "Humans",
+        "Mice"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1854164/"
+    },
+    {
+      "pmid": "10501315",
+      "title": "Treatment of pneumococcal pneumonia.",
+      "abstract": "The emergence of Streptococcus pneumoniae strains with resistance to penicillin, macrolide, and other drugs has made the treatment of pneumococcal infections more complicated. Although resistance to penicillin has had a profound impact on the outcome of meningitis, it has had little impact on the mortality from pneumococcal pneumonia because the serum and pulmonary levels achieved with penicillin (or related drugs) are several times higher than the minimal inhibitory concentration of the strains. Thus, based on current levels of resistance to penicillin and cephalosporin, most patients with mild/moderate pneumococcal pneumonia may respond to oral amoxicillin, and most with severe pneumonia may be successfully treated with intravenous ceftriaxone, cefotaxime, or amoxicillin-clavulanic acid. It is of concern that patients infected with erythromycin-resistant pneumococci may not respond to therapy with a macrolide. In our opinion, except for well-selected patients, imipenem and vancomycin",
+      "journal": "Seminars in respiratory infections",
+      "year": "1999",
+      "authors": [
+        "Pallares R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Drug Resistance, Multiple",
+        "Female",
+        "Humans",
+        "Lactams",
+        "Male",
+        "Microbial Sensitivity Tests",
+        "Penicillins",
+        "Pneumonia, Pneumococcal",
+        "Streptococcus pneumoniae"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10501315/"
+    },
+    {
+      "pmid": "2227080",
+      "title": "Treatment of respiratory tract infections in children: a study of a combination of amoxycillin and clavulanic acid.",
+      "abstract": "In an open study, 70 in-patients and 23 out-patients aged between 1 and 14 years with sinusitis (n = 1), perforated otitis media (n = 4), pharyngotonsillitis (n = 25), tracheobronchitis (n = 30) or broncho-pneumonia (n = 33) were treated daily with a combination of 40 mg/kg amoxycillin and 10 mg/kg clavulanic acid in three equal doses for between 6 and 15 days. Purulent specimens were cultured when obtainable and pathogenic organisms identified were Staphylococcus aureus, beta-haemolytic streptococcal group A, Pseudomonas aeruginosa, Pseudococcus species and Klebsiella pneumoniae infections, of which 45.7% were beta-lactamase-producing and 54.3% were ampicillin-susceptible. After treatment, only one beta-lactamase-producing Streptococcus and one Staphylococcus infection persisted. Side-effects (vomiting, nausea, diarrhoea, maculopapular exanthema, rash) occurred in 16 patients and treatment was withdrawn in eight. It is concluded that the amoxycillin--clavulanic acid combination is a s",
+      "journal": "The Journal of international medical research",
+      "year": "1990",
+      "authors": [
+        "Fiocchi A",
+        "Zuccotti G",
+        "Bellù R",
+        "Marangione P",
+        "Riva E"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Amoxicillin",
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Blood Cell Count",
+        "Child",
+        "Child, Preschool",
+        "Clavulanic Acids",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Infant"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2227080/"
+    },
+    {
+      "pmid": "36086715",
+      "title": "Community-acquired pneumonia-causing bacteria and antibiotic resistance rate among Vietnamese patients: A cross-sectional study.",
+      "abstract": "Due to the overuse of antibiotics in treatment and regional variation in disease factors, community-acquired pneumonia (CAP) has a relatively high morbidity and mortality rate. This study determined the prevalence of bacteria that cause CAP and the rate of antibiotic resistance. From April 2018 to May 2019, a cross-sectional study was conducted on 254 CAP patients at hospitals and medical centers in the province of Vinh Long. Based on interviews and medical records, SPSS 18.0 was used to analyze the data. CAP-causing bacteria, antibiotic susceptibility, and extended-spectrum β-lactamase production of bacteria were determined by performing Identification and Antibiotic Susceptibility Testing on sputum specimens using the VITEK 2 Automated instrument. With a total of 254 patients, the age of 60s accounted for the highest prevalence. Streptococcus pneumonia was the leading factor, accounting for 12.6%, followed by Klebsiella pneumonia and Pseudomonas aeruginosa at 12.2% and 8.3%, respecti",
+      "journal": "Medicine",
+      "year": "2022",
+      "authors": [
+        "Tran Hung Do",
+        "Bach Nguyen Yen Thi",
+        "Thanh Tran Trung",
+        "Thu Le Trang Thi",
+        "Thu Nguyen Ha Thi"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Amoxicillin",
+        "Anti-Bacterial Agents",
+        "Asian People",
+        "Bacteria",
+        "Clavulanic Acid",
+        "Community-Acquired Infections",
+        "Cross-Sectional Studies",
+        "Drug Resistance, Microbial",
+        "Gram-Negative Bacteria",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36086715/"
+    },
+    {
+      "pmid": "9711451",
+      "title": "Azithromycin. A review of its use in paediatric infectious diseases.",
+      "abstract": "Azithromycin is an azalide antimicrobial agent active in vitro against major pathogens responsible for infections of the respiratory tract, skin and soft tissues in children. Pathogens that are generally susceptible to azithromycin include Haemophilus influenzae (including ampicillin-resistant strains), Moraxella catarrhalis, Chlamydia pneumoniae, Chlamydia trachomatis, Mycoplasma pneumoniae, Legionella spp., Streptococcus pyogenes and Streptococcus agalactiae. Azithromycin is also generally active against erythromycin- and penicillin-susceptible Streptococcus pneumoniae and methicillin-susceptible Staphylococcus aureus. Azithromycin is administered once daily, achieves clinically relevant concentrations at sites of infection, is slowly eliminated from the body and has few drug interactions. In children, azithromycin is usually given as either a 3-day course of 10 mg/kg/day or a 5-day course with 10 mg/kg on the first day, followed by 5 mg/kg/day for a further 4 days. These standard re",
+      "journal": "Drugs",
+      "year": "1998",
+      "authors": [
+        "Langtry H D",
+        "Balfour J A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Azithromycin",
+        "Bacterial Infections",
+        "Child",
+        "Child, Preschool",
+        "Drug Tolerance",
+        "Humans",
+        "Infant",
+        "Otitis Media",
+        "Pharyngitis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9711451/"
+    },
+    {
+      "pmid": "15212560",
+      "title": "Cefdinir: a review of its use in the management of mild-to-moderate bacterial infections.",
+      "abstract": "Cefdinir (Omnicef) is an oral third-generation cephalosporin with good in vitro activity against many pathogens commonly causative in community-acquired infections. The drug provides good coverage against Haemophilus influenzae, Moraxella catarrhalis and penicillin-susceptible Streptococcus pneumoniae, the most common respiratory tract pathogens. Cefdinir is stable to hydrolysis by commonly occurring plasmid-mediated beta-lactamases and retains good activity against beta-lactamase-producing strains of H. influenzae and M. catarrhalis. The drug distributes into various tissues (e.g. sinus and tonsil) and fluids (e.g. middle ear), and has a pharmacokinetic profile that allows for once- or twice-daily administration.Cefdinir, administered for 5 or 10 days, has shown good clinical and bacteriological efficacy in the treatment of a wide range of mild-to-moderate infections of the respiratory tract and skin in adults, adolescents and paediatric patients in randomised, controlled trials. In a",
+      "journal": "Drugs",
+      "year": "2004",
+      "authors": [
+        "Perry Caroline M",
+        "Scott Lesley J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Cefdinir",
+        "Cephalosporins",
+        "Child",
+        "Gram-Negative Bacteria",
+        "Gram-Negative Bacterial Infections",
+        "Gram-Positive Bacteria",
+        "Gram-Positive Bacterial Infections",
+        "Humans",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15212560/"
+    },
+    {
+      "pmid": "15303634",
+      "title": "Gemifloxacin once daily for 7 days compared to amoxicillin/clavulanic acid thrice daily for 10 days for the treatment of community-acquired pneumonia of suspected pneumococcal origin.",
+      "abstract": "Community-acquired pneumonia (CAP) is common among adults and contributes considerably to morbidity and mortality.",
+      "journal": "Respiratory medicine",
+      "year": "2004",
+      "authors": [
+        "Léophonte P",
+        "File T",
+        "Feldman C"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Amoxicillin",
+        "Anti-Bacterial Agents",
+        "Clavulanic Acid",
+        "Community-Acquired Infections",
+        "Double-Blind Method",
+        "Drug Administration Schedule"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15303634/"
+    },
+    {
+      "pmid": "16137193",
+      "title": "Spotlight on amoxicillin/clavulanic acid 2000 mg/125 mg extended release (XR) in respiratory tract infections in adults.",
+      "abstract": "Amoxicillin/clavulanic acid 2000 mg/125 mg extended release (Augmentin XR), referred to herein as amoxicillin/clavulanic acid XR, is a pharmacokinetically enhanced formulation designed to provide more effective therapy in adults and adolescents than conventional formulations against community-acquired respiratory tract pathogens, particularly Streptococcus pneumoniae, with reduced susceptibility to amoxicillin.Amoxicillin/clavulanic acid XR maintains plasma amoxicillin concentrations >4 microg/mL for a mean of 49% of the dosing interval indicating that it would be highly effective against S. pneumoniae strains with minimum inhibitory concentrations (MICs) above the National Committee for Clinical Laboratory Standard's amoxicillin +/- clavulanic acid susceptibility breakpoint of < or = 2 microg/mL. Amoxicillin/clavulanic acid XR is at least as effective as conventional amoxicillin/clavulanic acid formulations, levofloxacin, and clarithromycin in treating community-acquired pneumonia, ac",
+      "journal": "Treatments in respiratory medicine",
+      "year": "2005",
+      "authors": [
+        "McCormack Paul L",
+        "Keating Gillian M"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Anti-Bacterial Agents",
+        "Delayed-Action Preparations",
+        "Dose-Response Relationship, Drug",
+        "Humans",
+        "Randomized Controlled Trials as Topic",
+        "Respiratory Tract Infections",
+        "Streptococcal Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16137193/"
+    },
+    {
+      "pmid": "14979735",
+      "title": "New developments in antibacterial choice for lower respiratory tract infections in elderly patients.",
+      "abstract": "Elderly patients are at increased risk of developing lower respiratory tract infections compared with younger patients. In this population, pneumonia is a serious illness with high rates of hospitalisation and mortality, especially in patients requiring admission to intensive care units (ICUs). A wide range of pathogens may be involved depending on different settings of acquisition and patient's health status. Streptococcus pneumoniae is the most common bacterial isolate in community-acquired pneumonia, followed by Haemophilus influenzae, Moraxella catarrhalis and atypical pathogens such as Chlamydia pneumoniae, Legionella pneumophila and Mycoplasma pneumoniae. However, elderly patients with comorbid illness, who have been recently hospitalised or are residing in a nursing home, may develop severe pneumonia caused by multidrug resistant staphylococci or pneumococci, and enteric Gram-negative bacilli, including Pseudomonas aeruginosa. Moreover, anaerobes may be involved in aspiration pn",
+      "journal": "Drugs & aging",
+      "year": "2004",
+      "authors": [
+        "Ferrara Anna Maria",
+        "Fietta Anna Maria"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aging",
+        "Anti-Bacterial Agents",
+        "Geriatrics",
+        "Humans",
+        "Intestinal Absorption",
+        "Respiratory Tract Infections",
+        "Tissue Distribution",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14979735/"
+    },
+    {
+      "pmid": "9793046",
+      "title": "[Would ampicillin alone again be enough for treating community-acquired pneumonias?].",
+      "abstract": "MORE THAN SEMANTICS: The complexity of the problem raised by this apparently simple question becomes apparent if one examines the meanings behind the words.",
+      "journal": "Presse medicale (Paris, France : 1983)",
+      "year": "1998",
+      "authors": [
+        "Bédos J P"
+      ],
+      "pub_types": [
+        "Editorial",
+        "English Abstract"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Ampicillin",
+        "Community-Acquired Infections",
+        "Dose-Response Relationship, Drug",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Male",
+        "Microbial Sensitivity Tests",
+        "Penicillins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9793046/"
+    },
+    {
+      "pmid": "7137980",
+      "title": "Distribution of amoxicillin and clavulanic acid in infected animals and efficacy against experimental infections.",
+      "abstract": "The therapeutic effects produced by formulations of amoxicillin plus clavulanic acid (BRL 25 000A and BRL 25 000G) were compared with those of amoxicillin and clavulanic acid separately against a variety of infections produced by amoxicillin-susceptible and beta-lactamase-producing (amoxicillin-resistant) bacteria. The infection models studied included intraperitoneal infections, a mouse pneumonia, experimental pyelonephritis, and local lesions caused by Staphylococcus aureus and Bacteroides fragilis. The distribution of amoxicillin and clavulanic acid in infected animals after the administration of amoxicillin-clavulanic acid was evaluated by measurement of the concentrations of the substances present in specimens collected at the sites of infection. The results showed that both amoxicillin and clavulanic acid were well distributed in the animal body after the administration of amoxicillin-clavulanic acid formulations, being present in significant concentrations at various sites of in",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "year": "1982",
+      "authors": [
+        "Boon R J",
+        "Beale A S",
+        "Comber K R",
+        "Pierce C V",
+        "Sutherland R"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Amoxicillin",
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Bacterial Infections",
+        "Bacteroides Infections",
+        "Clavulanic Acids",
+        "Drug Combinations",
+        "Mice",
+        "Pneumonia, Staphylococcal"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7137980/"
+    },
+    {
+      "pmid": "1771308",
+      "title": "Antibiotic therapy of pleural empyema.",
+      "abstract": "Most empyemas occur as a complication of pneumonia or lung abscess, but 15% to 30% occur after thoracic surgery and 10% occur in association with an intraabdominal infection. The bacteriology of empyemas that occur in association with lung infections is often polymicrobial and mixed, containing multiple species of both aerobic and anaerobic bacteria, the latter found in up to 75% of cases. In contrast, empyema following thoracic surgery is more likely to be monomicrobial and caused by common nosocomial pathogens such as Staphylococcus aureus and aerobic gram-negative bacilli. Diffusion of antibiotics into both infected and uninfected pleural fluid is good, but certain agents (aminoglycosides and some beta-lactams) may be inactivated in the presence of pus, low pH, and beta-lactamase enzymes. Single antibiotic agents that are likely to be active against the wide spectrum of potential pathogens include imipenem-cilastatin and ticarcillin-clavulanic acid. Combinations of antibiotics shoul",
+      "journal": "Seminars in respiratory infections",
+      "year": "1991",
+      "authors": [
+        "Hughes C E",
+        "Van Scoy R E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Bacterial Infections",
+        "Empyema, Pleural",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1771308/"
+    },
+    {
+      "pmid": "31463610",
+      "title": "Antibiogram and molecular characterization of methicillin-resistant Staphylococcus aureus recovered from treated wastewater effluent and receiving surface water in Durban, South Africa.",
+      "abstract": "Municipal wastewater treatment plants (WWTPs) may serve as a reservoir for potentially pathogenic and antibiotic resistant bacteria. The discharge of improperly treated wastewater effluent may lead to the spread of these bacteria, including methicillin-resistant Staphylococcus aureus (MRSA) which is responsible for causing pneumonia, septicaemia and skin and soft tissue infections, into the receiving surface waters. This study aimed to determine the antibiogram and virulence gene profiles of MRSA isolates recovered from treated wastewater effluent and receiving surface waters. Genetic fingerprinting of the isolates was also carried out to determine the phylogenetic relationship between the isolates and selected antibiogram profiles. Eighty MRSA isolates were obtained from treated effluent and receiving rivers of two WWTPs in Durban, KwaZulu-Natal. Antibiotic resistance was observed towards lincomycin (100%), oxacillin (98.75%), cefoxitin and penicillin (97.50%), and ampicillin (96.25%)",
+      "journal": "World journal of microbiology & biotechnology",
+      "year": "2019",
+      "authors": [
+        "Ramessar Kerisha",
+        "Olaniran Ademola O"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "DNA Fingerprinting",
+        "Drug Resistance, Bacterial",
+        "Electrophoresis, Gel, Pulsed-Field",
+        "Genes, Bacterial",
+        "Humans",
+        "Methicillin-Resistant Staphylococcus aureus",
+        "Microbial Sensitivity Tests",
+        "Phylogeny",
+        "South Africa"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31463610/"
+    },
+    {
+      "pmid": "17116443",
+      "title": "Monotherapy versus combination therapy.",
+      "abstract": "The science of antibiotic therapy for infectious diseases continues to evolve. In many instances where empiric coverage is necessary, treatment with more than one agent is considered prudent. If an etiology is identified, antibiotics are modified based on culture and susceptibility data. Even when the organism is known, more than one antibiotic may be needed. Decisions about antibiotics should be made after assessments of pertinent clinical information, laboratory and microbiology information, ease of administration, patient compliance, potential adverse effects, cost, and available evidence supporting various treatment options. Clinicians also need to consider synergy and local resistance patterns in selecting therapeutic options. In this article, the authors outline monotherapy and combination therapy options for several common infectious diseases.",
+      "journal": "The Medical clinics of North America",
+      "year": "2006",
+      "authors": [
+        "Patel Shilpa M",
+        "Saravolatz Louis D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Anti-Bacterial Agents",
+        "Bacterial Infections",
+        "Cellulitis",
+        "Cephalosporins",
+        "Ciprofloxacin",
+        "Diverticulitis",
+        "Drug Therapy, Combination",
+        "Endocarditis, Bacterial",
+        "Enterococcus faecalis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17116443/"
+    },
+    {
+      "pmid": "25344175",
+      "title": "[Clinical features of inhaled and blood-borne Staphylococcus aureus pneumonia and analysis of antibiotic resistance of the pathogen in children].",
+      "abstract": "To compare the clinical manifestations between inhaled and blood-borne Staphylococcus aureus pneumonia (SAP) and the antibiotic resistance between the isolates of inhaled and blood-borne Staphylococcus aureus.",
+      "journal": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
+      "year": "2014",
+      "authors": [
+        "Zhang Guang-Li",
+        "Liu Ru",
+        "Zhang Hui",
+        "Li Ying",
+        "Zhang Dong-Wei"
+      ],
+      "pub_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Age Factors",
+        "Blood-Borne Pathogens",
+        "Child",
+        "Child, Preschool",
+        "Drug Resistance, Bacterial",
+        "Female",
+        "Humans",
+        "Infant",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25344175/"
+    },
+    {
+      "pmid": "34446339",
+      "title": "RSV pneumonia with or without bacterial co-infection among healthy children.",
+      "abstract": "Respiratory syncytial virus (RSV) is a common cause of childhood pneumonia, but there is limited understanding of whether bacterial co-infections affect clinical severity.",
+      "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+      "year": "2022",
+      "authors": [
+        "Lin Hsiao-Chi",
+        "Liu Yun-Chung",
+        "Hsing Tzu-Yun",
+        "Chen Li-Lun",
+        "Liu Yu-Cheng"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Bacteria",
+        "Child",
+        "Child, Preschool",
+        "Coinfection",
+        "Hospitalization",
+        "Humans",
+        "Infant",
+        "Male",
+        "Pneumonia, Viral",
+        "Retrospective Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34446339/"
+    },
+    {
+      "pmid": "16823991",
+      "title": "Nursing home-acquired pneumonia: update on treatment options.",
+      "abstract": "The management of nursing home-acquired pneumonia (NHAP) continues to be debatable because of the lack of clinical trials and controversy regarding its aetiology. The controversy regarding aetiology stems, in part, from studies that utilised sputum cultures for the diagnosis of NHAP without assessing the quality of the samples. These studies found a high proportion of Gram-negative aerobic bacilli in cultures as well as Staphylococcus aureus. However, in studies that have assessed the reliability of sputum samples, Gram-negative bacilli and S. aureus were isolated infrequently and Streptococcus pneumoniae and Haemophilus influenzae isolated most commonly. Since Gram-negative aerobic bacilli and S. aureus frequently cause hospital-acquired pneumonia, some authors have considered NHAP to be a variant of this group. Many other studies, however, have considered NHAP as part of the community-acquired pneumonia category. Depending on which categorisation is used for NHAP, the treatment recom",
+      "journal": "Drugs & aging",
+      "year": "2006",
+      "authors": [
+        "Mylotte Joseph M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Anti-Bacterial Agents",
+        "Clinical Trials as Topic",
+        "Community-Acquired Infections",
+        "Dementia",
+        "Homes for the Aged",
+        "Humans",
+        "Infection Control",
+        "Nursing Homes",
+        "Oxygen"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16823991/"
+    },
+    {
+      "pmid": "3888101",
+      "title": "Clinical trial of the efficacy and safety of ticarcillin and clavulanic acid.",
+      "abstract": "Forty-three hospitalized patients were treated with a new antibiotic combination containing ticarcillin plus the beta-lactamase inhibitor, clavulanic acid, in a fixed combination for intravenous use. A variety of infections were treated, including pneumonia, bacteremia, urinary tract infection, and osteomyelitis. Of 50 episodes of infection in 43 patients, 44 clinical cures were obtained, with 5 patients improving and 1 patient failing to respond to treatment. In vitro susceptibility testing of 101 clinical isolates was notable for the rarity of resistance to the combination antibiotic. Of specific interest, all 14 isolates of Staphylococcus aureus were susceptible to ticarcillin plus clavulanic acid, whereas only 2 of the 14 isolates were susceptible to ticarcillin alone. Adverse reactions to the study drug were minimal; eosinophilia, unaccompanied by other allergic phenomena, and oral candidiasis were most frequent. Overall, the combination of ticarcillin with the beta-lactamase inhi",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "year": "1985",
+      "authors": [
+        "Roselle G A",
+        "Bode R",
+        "Hamilton B",
+        "Bibler M",
+        "Sullivan R"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Anti-Bacterial Agents",
+        "Bacteria",
+        "Bacterial Infections",
+        "Clavulanic Acid",
+        "Clavulanic Acids",
+        "Clinical Trials as Topic",
+        "Drug Combinations",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3888101/"
+    },
+    {
+      "pmid": "9711451",
+      "title": "Azithromycin. A review of its use in paediatric infectious diseases.",
+      "abstract": "Azithromycin is an azalide antimicrobial agent active in vitro against major pathogens responsible for infections of the respiratory tract, skin and soft tissues in children. Pathogens that are generally susceptible to azithromycin include Haemophilus influenzae (including ampicillin-resistant strains), Moraxella catarrhalis, Chlamydia pneumoniae, Chlamydia trachomatis, Mycoplasma pneumoniae, Legionella spp., Streptococcus pyogenes and Streptococcus agalactiae. Azithromycin is also generally active against erythromycin- and penicillin-susceptible Streptococcus pneumoniae and methicillin-susceptible Staphylococcus aureus. Azithromycin is administered once daily, achieves clinically relevant concentrations at sites of infection, is slowly eliminated from the body and has few drug interactions. In children, azithromycin is usually given as either a 3-day course of 10 mg/kg/day or a 5-day course with 10 mg/kg on the first day, followed by 5 mg/kg/day for a further 4 days. These standard re",
+      "journal": "Drugs",
+      "year": "1998",
+      "authors": [
+        "Langtry H D",
+        "Balfour J A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Azithromycin",
+        "Bacterial Infections",
+        "Child",
+        "Child, Preschool",
+        "Drug Tolerance",
+        "Humans",
+        "Infant",
+        "Otitis Media",
+        "Pharyngitis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9711451/"
+    },
+    {
+      "pmid": "30592257",
+      "title": "Urinary Tract Infection in Children.",
+      "abstract": "Urinary Tract Infection (UTI) is a common infection in children. Prompt diagnosis and appropriate treatment are very important to reduce the morbidity associated with this condition.",
+      "journal": "Recent patents on inflammation & allergy drug discovery",
+      "year": "2019",
+      "authors": [
+        "Leung Alexander K C",
+        "Wong Alex H C",
+        "Leung Amy A M",
+        "Hon Kam L"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Anti-Bacterial Agents",
+        "Cephalosporins",
+        "Child",
+        "Child, Preschool",
+        "Cystitis",
+        "Drug Resistance, Bacterial",
+        "Dysuria",
+        "Escherichia coli",
+        "Escherichia coli Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30592257/"
+    }
+  ]
+}

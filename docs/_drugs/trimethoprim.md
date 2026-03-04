@@ -5,7 +5,7 @@ drugbank_id: "DB00440"
 drug_name: "Trimethoprim"
 kg_predictions: 112
 dl_predictions: 115
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 112
 brands: []
 permalink: /drugs/trimethoprim/
@@ -21,7 +21,7 @@ permalink: /drugs/trimethoprim/
 | **DrugBank ID** | [DB00440](https://go.drugbank.com/drugs/DB00440) |
 | **KG Predictions** | 112 |
 | **DL Predictions (≥0.7)** | 115 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

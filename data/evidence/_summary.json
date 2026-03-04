@@ -1,11 +1,11 @@
 {
-  "collected_at": "2026-03-04T10:02:26Z",
-  "total_drugs": 20,
+  "collected_at": "2026-03-04T11:03:16Z",
+  "total_drugs": 100,
   "level_counts": {
-    "L1": 18,
-    "L2": 2,
+    "L1": 93,
+    "L2": 4,
     "L3": 0,
-    "L4": 0,
+    "L4": 3,
     "L5": 0
   },
   "drugs": [
@@ -87,6 +87,326 @@
     },
     {
       "drug": "Cyanocobalamin",
+      "level": "L1"
+    },
+    {
+      "drug": "Loratadine",
+      "level": "L1"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "level": "L1"
+    },
+    {
+      "drug": "Acyclovir",
+      "level": "L1"
+    },
+    {
+      "drug": "Cimetidine",
+      "level": "L1"
+    },
+    {
+      "drug": "Clarithromycin",
+      "level": "L1"
+    },
+    {
+      "drug": "Pregabalin",
+      "level": "L1"
+    },
+    {
+      "drug": "Ezetimibe",
+      "level": "L1"
+    },
+    {
+      "drug": "Acetylcysteine",
+      "level": "L1"
+    },
+    {
+      "drug": "Desloratadine",
+      "level": "L1"
+    },
+    {
+      "drug": "Clobetasol Propionate",
+      "level": "L1"
+    },
+    {
+      "drug": "Olanzapine",
+      "level": "L1"
+    },
+    {
+      "drug": "Budesonide",
+      "level": "L1"
+    },
+    {
+      "drug": "Azacitidine",
+      "level": "L1"
+    },
+    {
+      "drug": "Celecoxib",
+      "level": "L1"
+    },
+    {
+      "drug": "Glycine",
+      "level": "L2"
+    },
+    {
+      "drug": "Fluconazole",
+      "level": "L1"
+    },
+    {
+      "drug": "Adalimumab",
+      "level": "L1"
+    },
+    {
+      "drug": "Atenolol",
+      "level": "L1"
+    },
+    {
+      "drug": "Bevacizumab",
+      "level": "L1"
+    },
+    {
+      "drug": "Hydrochlorothiazide",
+      "level": "L1"
+    },
+    {
+      "drug": "Magnesium Hydroxide",
+      "level": "L1"
+    },
+    {
+      "drug": "Aripiprazole",
+      "level": "L1"
+    },
+    {
+      "drug": "Levodopa",
+      "level": "L1"
+    },
+    {
+      "drug": "Methotrexate",
+      "level": "L1"
+    },
+    {
+      "drug": "Norfloxacin",
+      "level": "L2"
+    },
+    {
+      "drug": "Risperidone",
+      "level": "L1"
+    },
+    {
+      "drug": "Beclomethasone Dipropionate",
+      "level": "L1"
+    },
+    {
+      "drug": "Irbesartan",
+      "level": "L1"
+    },
+    {
+      "drug": "Chloramphenicol",
+      "level": "L1"
+    },
+    {
+      "drug": "Famotidine",
+      "level": "L1"
+    },
+    {
+      "drug": "Folic Acid",
+      "level": "L1"
+    },
+    {
+      "drug": "Omeprazole",
+      "level": "L1"
+    },
+    {
+      "drug": "Meloxicam",
+      "level": "L1"
+    },
+    {
+      "drug": "Methylprednisolone",
+      "level": "L1"
+    },
+    {
+      "drug": "Thiotepa",
+      "level": "L1"
+    },
+    {
+      "drug": "Tadalafil",
+      "level": "L1"
+    },
+    {
+      "drug": "Tolnaftate",
+      "level": "L1"
+    },
+    {
+      "drug": "Trimethoprim",
+      "level": "L1"
+    },
+    {
+      "drug": "Clavulanic Acid",
+      "level": "L1"
+    },
+    {
+      "drug": "Insulin Human",
+      "level": "L1"
+    },
+    {
+      "drug": "Caffeine",
+      "level": "L1"
+    },
+    {
+      "drug": "Lidocaine",
+      "level": "L1"
+    },
+    {
+      "drug": "Potassium Chloride",
+      "level": "L1"
+    },
+    {
+      "drug": "Amphotericin B",
+      "level": "L1"
+    },
+    {
+      "drug": "Ceftazidime",
+      "level": "L1"
+    },
+    {
+      "drug": "Ethinylestradiol",
+      "level": "L1"
+    },
+    {
+      "drug": "Lamotrigine",
+      "level": "L1"
+    },
+    {
+      "drug": "Lenalidomide",
+      "level": "L1"
+    },
+    {
+      "drug": "Naproxen",
+      "level": "L1"
+    },
+    {
+      "drug": "Ammonium Chloride",
+      "level": "L4"
+    },
+    {
+      "drug": "Deferasirox",
+      "level": "L1"
+    },
+    {
+      "drug": "Calcium Carbonate",
+      "level": "L1"
+    },
+    {
+      "drug": "Carbamazepine",
+      "level": "L1"
+    },
+    {
+      "drug": "Decitabine",
+      "level": "L1"
+    },
+    {
+      "drug": "Ferrous Fumarate",
+      "level": "L1"
+    },
+    {
+      "drug": "Carbidopa",
+      "level": "L1"
+    },
+    {
+      "drug": "Iron",
+      "level": "L1"
+    },
+    {
+      "drug": "Lamivudine",
+      "level": "L1"
+    },
+    {
+      "drug": "Rituximab",
+      "level": "L1"
+    },
+    {
+      "drug": "Sodium Citrate",
+      "level": "L1"
+    },
+    {
+      "drug": "Testosterone",
+      "level": "L1"
+    },
+    {
+      "drug": "Entacapone",
+      "level": "L1"
+    },
+    {
+      "drug": "Erythromycin",
+      "level": "L1"
+    },
+    {
+      "drug": "Valsartan",
+      "level": "L1"
+    },
+    {
+      "drug": "Benzoic Acid",
+      "level": "L4"
+    },
+    {
+      "drug": "Calcium Chloride",
+      "level": "L1"
+    },
+    {
+      "drug": "Everolimus",
+      "level": "L1"
+    },
+    {
+      "drug": "Fenofibrate",
+      "level": "L1"
+    },
+    {
+      "drug": "Tobramycin",
+      "level": "L4"
+    },
+    {
+      "drug": "Albendazole",
+      "level": "L1"
+    },
+    {
+      "drug": "Capecitabine",
+      "level": "L1"
+    },
+    {
+      "drug": "Gliclazide",
+      "level": "L1"
+    },
+    {
+      "drug": "Docetaxel",
+      "level": "L1"
+    },
+    {
+      "drug": "Insulin Glargine",
+      "level": "L1"
+    },
+    {
+      "drug": "Magnesium Trisilicate",
+      "level": "L1"
+    },
+    {
+      "drug": "Bortezomib",
+      "level": "L1"
+    },
+    {
+      "drug": "Cephalexin",
+      "level": "L1"
+    },
+    {
+      "drug": "Theophylline",
+      "level": "L1"
+    },
+    {
+      "drug": "Medroxyprogesterone Acetate",
+      "level": "L1"
+    },
+    {
+      "drug": "Progesterone",
       "level": "L1"
     }
   ]

@@ -5,7 +5,7 @@ drugbank_id: "DB06767"
 drug_name: "Ammonium Chloride"
 kg_predictions: 99
 dl_predictions: 60
-evidence_level: "L5"
+evidence_level: "L4"
 indication_count: 99
 brands: []
 permalink: /drugs/ammonium-chloride/
@@ -21,7 +21,7 @@ permalink: /drugs/ammonium-chloride/
 | **DrugBank ID** | [DB06767](https://go.drugbank.com/drugs/DB06767) |
 | **KG Predictions** | 99 |
 | **DL Predictions (≥0.7)** | 60 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L4 |
 | **NPRA Status** | Approved |
 
 ---

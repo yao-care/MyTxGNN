@@ -5,7 +5,7 @@ drugbank_id: "DB00564"
 drug_name: "Carbamazepine"
 kg_predictions: 96
 dl_predictions: 241
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 96
 brands: []
 permalink: /drugs/carbamazepine/
@@ -21,7 +21,7 @@ permalink: /drugs/carbamazepine/
 | **DrugBank ID** | [DB00564](https://go.drugbank.com/drugs/DB00564) |
 | **KG Predictions** | 96 |
 | **DL Predictions (≥0.7)** | 241 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

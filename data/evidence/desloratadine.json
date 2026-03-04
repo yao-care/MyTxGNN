@@ -1,0 +1,696 @@
+{
+  "drug": "Desloratadine",
+  "drugbank_id": "DB00967",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:21:29Z",
+  "indications": [
+    {
+      "indication": "pharyngitis",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 4,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 2,
+        "review_articles": 2,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 4
+      }
+    },
+    {
+      "indication": "papillary conjunctivitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "vasomotor rhinitis",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "allergic urticaria",
+      "evidence_level": "L1",
+      "trials": 6,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 1,
+        "other_trials": 4,
+        "rct_articles": 1,
+        "review_articles": 8,
+        "other_articles": 0,
+        "total_trials": 6,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "common cold",
+      "evidence_level": "L1",
+      "trials": 2,
+      "articles": 2,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 0,
+        "review_articles": 2,
+        "other_articles": 0,
+        "total_trials": 2,
+        "total_articles": 2
+      }
+    }
+  ],
+  "total_trials": 8,
+  "total_articles": 16,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00521170",
+      "title": "Randomized, Monocenter, Double Blind, Placebo-controlled, Single Oral Dose, Three-way Cross Over Study, to Compare Levocetirizine and Desloratadine on Allergen-induced Wheal and Flare Reaction During 24 Hours in 18 Adult Allergic Volunteers.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2005-01",
+      "country": "France",
+      "enrollment": "N/A",
+      "brief_summary": "Compare the activity of 5 mg levocetirizine and 5 mg desloratadine on allergen-induced wheal and flare reaction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female allergic volunteers: Diagnosed allergy based on medical history and on positivity to skin tests to at least one of the standardized allergen including grass pollens, tree pollens, house dust mites, cat and dog dander and with a positive RAST for the specific se",
+      "endpoints": [
+        "Compare the activity of levocetirizine and desloratadine on allergen-induced wheal and flare reaction. Response to allergen administered by skin prick test (SPT) measured by the wheal and flare surface areas"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00521170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00724698",
+      "title": "Post-marketing Surveillance of the Safety, Tolerability and Efficacy of Desloratadine Tablet Among Filipino Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2007-12",
+      "country": "N/A",
+      "enrollment": 3011,
+      "brief_summary": "Eligible patients will be prescribed Desloratadine 1 tablet of 5 mg once daily. Patients will be asked to follow-up for a final visit after 14 days (Day 15) where the safety, tolerability and clinical efficacy will be measured.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient men or women, age 12 years and above.\n* Diagnosis of Allergic Rhinitis or Chronic Idiopathic Urticaria\n\nExclusion Criteria:\n\n* Known hypersensitivity to Desloratadine.\n* Pregnancy or lactation",
+      "endpoints": [
+        "Adverse Events"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00724698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06806826",
+      "title": "Evaluatıon of the Effectıveness of Omalızumab Treatment In Patıents Wıth Allergıc Rhınıtıs",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-01-01",
+      "completion_date": "2020-03-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 50,
+      "brief_summary": "We aimed to evaluate the usability and efficacy of omalizumab in allergic rhinitis and its potential as an alternative treatment option.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Those who gave informed consent and wanted to participate in the study and did not have any additional systemic or nasal diseases were included.\n\nExclusion Criteria:\n\n* under 18 years old,\n* over 65 years old,\n* with systemic comorbidities (diabetes mellitus, hypertension, chr",
+      "endpoints": [
+        "omalizumab treatment process"
+      ],
+      "sponsor": "Yuzuncu Yil University",
+      "url": "https://clinicaltrials.gov/study/NCT06806826"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00761527",
+      "title": "Post-marketing Surveillance of the Safety, Tolerability and Efficacy of Desloratadine Syrup Among Filipino Pediatric Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2010-05",
+      "country": "N/A",
+      "enrollment": 2980,
+      "brief_summary": "The purpose of this study is to observe the side effects of desloratadine syrup and how effective it is in relieving symptoms of allergic rhinitis or hives in Filipino children. The participants will take desloratadine syrup for 14 days. At the end of treatment, side effects will be recorded, as well as how the participants tolerate the medication. Effectiveness will also be rated at the end of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient pediatric participants, male or female, aged 6 months to 11 years\n* Diagnosis of allergic rhinitis or chronic idiopathic urticaria\n\nExclusion Criteria:\n\n* Known hypersensitivity to desloratadine",
+      "endpoints": [
+        "Number of Adverse Events Reported By Category After 14 Days of Treatment",
+        "Safety of Desloratadine Syrup Reported by Number of Participants Experiencing Adverse Events After 14 Days of Treatment",
+        "Participant Global Tolerability Assessment"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00761527"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00757562",
+      "title": "Multiple-Dose Safety and Tolerance Study of Desloratadine in Atopic Pediatric Subjects and Pediatric Subjects With Chronic Idiopathic Urticaria, Ages >=2 to <12 Years, Who Are Poor Metabolizers of Desloratadine",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-11-01",
+      "completion_date": "2003-10-01",
+      "country": "N/A",
+      "enrollment": 97,
+      "brief_summary": "This study was conducted to evaluate the safety and tolerance of desloratadine after 5 weeks of repetitive dosing in children ages 2 to 12 years old with allergic hypersensitivity or chronic hives. All of the subjects enrolled in this trial were previously identified in an earlier trial to be poor metabolizers of desloratadine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects must:\n\n* have been previously identified through the previous study P03031 to be atopic or with chronic idiopathic urticaria and be a poor metabolizer of desloratadine.\n* have clinical laboratory tests within normal limits.\n* be in good health, free of any clinically si",
+      "endpoints": [
+        "Safety and Tolerance"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00757562"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00723736",
+      "title": "Non-Interventional Study of the Safe Use of Aerius in Pediatric Patients With Allergic Rhinitis or Chronic Idiopathic Urticaria.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2008-06",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "The objective of this non-interventional study is to evaluate the safety of Aerius syrup in pediatric patients aged 1-5 years old with allergic rhinitis or chronic idiopathic uticaria. The patients will receive 2.5 ml (1.25 mg) once daily.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with allergic rhinitis or chronic idiopathic urticaria\n* Aged 1-5 years old\n* Caregiver's consent to participate\n\nExclusion Criteria:\n\n* Healthy individuals\n* Younger or older than the 1-5 year old age range",
+      "endpoints": [
+        "Proportion of Patients With Adverse Events"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00723736"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06217367",
+      "title": "Do Common Over-the-counter Antihistamine Medications Modify Thermoregulatory Responses During Passive Heat Stress?",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-12-05",
+      "completion_date": "2024-06",
+      "country": "Canada",
+      "enrollment": 16,
+      "brief_summary": "Allergic rhinitis (AR) currently affects \\~25% of Canadians, and due to factors of climate change, this number is expected to increase over the coming decade. AR symptoms can significantly impact individuals' quality of life by compromising sleep, productivity, and social interactions. To alleviate AR symptoms, North Americans tend to rely on H1 antihistamine medications available over-the-counter (OTC) at most pharmacies. However, public health authorities currently suggest restraining all anti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female between ages 19 and 39 years\n* Fully vaccinated against COVID-19\n* Able to provide informed consent\n* Body-mass index under 30\n\nExclusion Criteria:\n\n* Body-mass index over 30\n* Currently taking sedative or autonomic nervous system depressant medication\n* Hyperse",
+      "endpoints": [
+        "Whole-Body Sweat Losses",
+        "Skin Blood Flow",
+        "Heart Rate"
+      ],
+      "sponsor": "Lakehead University",
+      "url": "https://clinicaltrials.gov/study/NCT06217367"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02904304",
+      "title": "National Clinical Trial,Phase III, Multicenter, Randomized, Prospective, Double-blind, Parallel, Placebo-controlled, to Evaluate the Efficacy, Safety and Superiority of Decongex Gripe in the Treatment of Symptoms Associated With Common Cold",
+      "phase": "PHASE3",
+      "status": "SUSPENDED",
+      "start_date": "2020-12",
+      "completion_date": "2021-09",
+      "country": "Brazil",
+      "enrollment": 150,
+      "brief_summary": "National clinical trial, phase III, multicenter, randomized, prospective, double-blind, parallel, placebo-controlled, which one hundred and fifty (150) subjects of both sexes aged equal or more than 18 years will be randomly allocated to one the drug group or placebo group.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age older or equal to 18 and younger than 66 years;\n* Subjects diagnosed with common cold / flu syndrome defined by clinical evaluation and the presence of two or more of the following symptoms: sneezing, rhinorrhea, nasal obstruction, headache, throat discomfort, sore throat,",
+      "endpoints": [
+        "Evaluation of the superiority of Desloratadine + Phenylephrine + Ibuprofen over placebo"
+      ],
+      "sponsor": "Ache Laboratorios Farmaceuticos S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02904304"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "12642846",
+      "title": "Efficacy and safety of desloratadine in the treatment of perennial allergic rhinitis.",
+      "abstract": "The evidence base for the use of H1-antihistamines in the treatment of perennial allergic rhinitis is considerably smaller than it is in the treatment of seasonal allergic rhinitis.",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2003",
+      "authors": [
+        "Simons F Estelle R",
+        "Prenner Bruce M",
+        "Finn Albert"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Child",
+        "Double-Blind Method",
+        "Female",
+        "Histamine H1 Antagonists, Non-Sedating",
+        "Humans",
+        "Loratadine",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12642846/"
+    },
+    {
+      "pmid": "12962522",
+      "title": "Desloratadine: an update of its efficacy in the management of allergic disorders.",
+      "abstract": "Desloratadine (Clarinex, Neoclarityn, Aerius, Azomyr, Opulis, Allex), the principal metabolite of loratadine, is itself an orally active, nonsedating, peripheral histamine H(1)-receptor antagonist. It is indicated in the US and Europe for the treatment of seasonal allergic rhinitis (SAR), perennial allergic rhinitis (PAR) and chronic idiopathic urticaria (CIU). It has a rapid onset of effect, efficacy throughout a 24-hour dosage interval, and sustained efficacy in these allergic conditions, as demonstrated in placebo-controlled trials of up to 6 weeks' duration in adult and adolescent patients. At present, there are no published direct comparisons of desloratadine and other H(1)-antihistamines; however, the principal, potential clinical advantages of desloratadine over late-generation H(1)-antihistamines are the drug's decongestant activity, which has been corroborated in several studies of patients with allergic rhinitis, and its anti-inflammatory effects. Indeed, the decongestant act",
+      "journal": "Drugs",
+      "year": "2003",
+      "authors": [
+        "Murdoch David",
+        "Goa Karen L",
+        "Keam Susan J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Clinical Trials as Topic",
+        "Drug Interactions",
+        "Histamine H1 Antagonists, Non-Sedating",
+        "Humans",
+        "Hypersensitivity",
+        "Loratadine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12962522/"
+    },
+    {
+      "pmid": "11277962",
+      "title": "Once-daily desloratadine improves the signs and symptoms of chronic idiopathic urticaria: a randomized, double-blind, placebo-controlled study.",
+      "abstract": "Chronic idiopathic urticaria (CIU) is the most common type of chronic urticaria, and pruritus is the most prominent symptom. Antihistamines are the first-line treatment for CIU. Sedation and anticholinergic adverse effects are often experienced with the first-generation antihistamines and there is a risk of cardiovascular adverse effects and drug interactions with some second-generation agents. Hence, new treatment options are needed. Desloratadine is a new, potent, nonsedating antihistamine that has an excellent cardiovascular safety profile.",
+      "journal": "International journal of dermatology",
+      "year": "2001",
+      "authors": [
+        "Ring J",
+        "Hein R",
+        "Gauger A",
+        "Bronsky E",
+        "Miller B"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Cholinergic Antagonists",
+        "Chronic Disease",
+        "Dizziness",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Fatigue",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11277962/"
+    },
+    {
+      "pmid": "19808127",
+      "title": "Levocetirizine for the treatment of allergic rhinitis and chronic idiopathic urticaria in adults and children.",
+      "abstract": "Levocetirizine (LCZ) is a second-generation antihistamine that was approved in January 2008 for the relief of symptoms of seasonal allergic rhinitis (SAR), perennial allergic rhinitis (PAR), and chronic idiopathic urticaria (CIU) in adults and children aged > or = 6 years.",
+      "journal": "Clinical therapeutics",
+      "year": "2009",
+      "authors": [
+        "Singh-Franco Devada",
+        "Ghin Hoytin Lee",
+        "Robles Gisela I",
+        "Borja-Hart Nancy",
+        "Perez Alexandra"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Cetirizine",
+        "Child",
+        "Drug Interactions",
+        "Histamine H1 Antagonists, Non-Sedating",
+        "Humans",
+        "Quality of Life",
+        "Rhinitis, Allergic, Perennial",
+        "Rhinitis, Allergic, Seasonal",
+        "Urticaria"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19808127/"
+    },
+    {
+      "pmid": "23801461",
+      "title": "Intranasal sodium hyaluronate on the nasal cytology of patients with allergic and nonallergic rhinitis.",
+      "abstract": "Rhinitis is an extremely common medical problem characterized by nasal congestion, clear rhinorrhea, sneezing, and itching. Hyaluronate is an endogenous compound that has an important role in mucociliary clearance by the epithelial surface of the nasal passages and in mucosal surface healing and repair. The objective of this work was to determine the effects of intranasal administration of sodium hyaluronate on nasal cytology in patients with allergic and nonallergic rhinitis.",
+      "journal": "International forum of allergy & rhinology",
+      "year": "2013",
+      "authors": [
+        "Gelardi Matteo",
+        "Iannuzzi Lucia",
+        "Quaranta Nicola"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Administration, Intranasal",
+        "Adult",
+        "Double-Blind Method",
+        "Endoscopy",
+        "Female",
+        "Humans",
+        "Hyaluronic Acid",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23801461/"
+    },
+    {
+      "pmid": "18336052",
+      "title": "Clinical pharmacokinetics and pharmacodynamics of desloratadine, fexofenadine and levocetirizine : a comparative review.",
+      "abstract": "Second-generation histamine H(1) receptor antagonists were developed to provide efficacious treatment of allergic rhinitis (AR) and chronic idiopathic urticaria (CIU) while decreasing adverse effects associated with first-generation agents. When comparing the efficacy and safety profiles of the newest second-generation antihistamines - desloratadine, fexofenadine and levocetirizine - many pharmacological and clinical criteria must be considered. Most importantly, these elements should not be evaluated separately but, rather, as parts of a puzzle that create a whole picture. As a class, second-generation antihistamines are highly selective for the H(1) receptor. Some bind to it with high affinity, although there is marked heterogeneity among the various compounds. They have a limited effect on the CNS, and clinical studies have noted almost no significant drug-drug interactions in the agents studied. No major cytochrome P450 inhibition has been reported with desloratadine, fexofenadine ",
+      "journal": "Clinical pharmacokinetics",
+      "year": "2008",
+      "authors": [
+        "Devillier Philippe",
+        "Roche Nicolas",
+        "Faisy Christophe"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Cetirizine",
+        "Drug Interactions",
+        "Histamine H1 Antagonists, Non-Sedating",
+        "Humans",
+        "Loratadine",
+        "Rhinitis, Allergic, Perennial",
+        "Rhinitis, Allergic, Seasonal",
+        "Terfenadine",
+        "Urticaria"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18336052/"
+    },
+    {
+      "pmid": "39549290",
+      "title": "Comparative Efficacy of Mometasone Nasal Spray Combined with Different Doses of Desloratadine, and Montelukast in Childhood Allergic Rhinitis: A Randomized Clinical Trial.",
+      "abstract": "Allergic rhinitis is a common childhood disease. Although various drugs have been used to treat allergic rhinitis, including nasal corticosteroids, antileukotrienes, and antihistamines, there is still controversy about the optimal dose and the best combination with the highest efficacy. Higher doses of antihistamines are recommended for better control of urticaria, but there is insufficient evidence regarding the efficacy of increased doses of antihistamines in allergic rhinitis. The aim of the study was to evaluate the effectiveness of different drug combinations in the treatment of children with allergic rhinitis. Sixty-four children with persistent moderate to severe allergic rhinitis were enrolled and randomly divided into 4 groups. All children received mometasone furoate nasal spray once daily. In addition to mometasone, each group received one of the following drugs or drug combinations: daily desloratadine, twice daily desloratadine, montelukast, or a combination of desloratadi",
+      "journal": "Iranian journal of allergy, asthma, and immunology",
+      "year": "2024",
+      "authors": [
+        "Ghanbari Niloufar",
+        "Eftekhari Kambiz",
+        "Samadzadeh-Mamaghani Mohammadreza",
+        "Sedighiyan Mohsen",
+        "Diaz Diana Noemi"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cyclopropanes",
+        "Mometasone Furoate",
+        "Acetates",
+        "Quinolines",
+        "Loratadine",
+        "Child",
+        "Sulfides",
+        "Female",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39549290/"
+    },
+    {
+      "pmid": "33030434",
+      "title": "Efficacy and Safety of Up-dosing Antihistamines in Chronic Spontaneous Urticaria: A Systematic Review of the Literature.",
+      "abstract": "According to current guidelines, oral antihistamines are the first-line treatment for chronic spontaneous urticaria (CSU). Up-dosing antihistamines to 4-fold the licensed dose is recommended if control is not achieved. Such indications are based mainly on expert opinion. Objectives: To critically review and analyze clinical evidence on the efficacy and safety of higher-than-licensed dosage of second-generation oral antihistamines in the treatment of CSU.",
+      "journal": "Journal of investigational allergology & clinical immunology",
+      "year": "2021",
+      "authors": [
+        "Iriarte Sotés P",
+        "Armisén M",
+        "Usero-Bárcena T",
+        "Rodriguez Fernández A",
+        "Otero Rivas M M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Animals",
+        "Anti-Allergic Agents",
+        "Chronic Urticaria",
+        "Clinical Trials as Topic",
+        "Drug Dosage Calculations",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "Histamine H1 Antagonists, Non-Sedating",
+        "Humans",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33030434/"
+    },
+    {
+      "pmid": "20067329",
+      "title": "Safety and efficacy of desloratadine in subjects with seasonal allergic rhinitis or chronic urticaria: results of four postmarketing surveillance studies.",
+      "abstract": "Allergic rhinitis (AR) and chronic urticaria (CU) are common diseases with symptoms that impair quality of life. Second-generation antihistamines (e.g. cetirizine, desloratadine, fexofenadine, loratadine and mizolastine) are recommended first-line treatment for both conditions; however, studies of clinically relevant differences among these agents are lacking. The aim of this investigation was to evaluate the safety, tolerability and efficacy of desloratadine 5 mg once daily in four postmarketing surveillance studies in subjects with seasonal AR (SAR) or chronic idiopathic urticaria (CIU) in real-world clinical practice settings.",
+      "journal": "Clinical drug investigation",
+      "year": "2010",
+      "authors": [
+        "Bachert Claus",
+        "Maurer Marcus"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Activities of Daily Living",
+        "Adult",
+        "Anti-Allergic Agents",
+        "Chronic Disease",
+        "Female",
+        "Germany",
+        "Histamine H1 Antagonists, Non-Sedating",
+        "Humans",
+        "Loratadine",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20067329/"
+    },
+    {
+      "pmid": "16259582",
+      "title": "Review of desloratadine for the treatment of allergic rhinitis, chronic idiopathic urticaria and allergic inflammatory disorders.",
+      "abstract": "Desloratadine is a once-daily, non-sedating, non-impairing, selective histamine H1-receptor antagonist. It relieves the symptoms of seasonal allergic rhinitis (including nasal obstruction and congestion, and morning symptoms), perennial allergic rhinitis and chronic idiopathic urticaria by blocking multiple critical steps in the systemic allergic cascade and downregulating key allergy-induced inflammatory mediators. It also relieves asthma symptoms and decreases rescue medication use in patients with seasonal allergic rhinitis and comorbid asthma. Numerous clinical studies have demonstrated that desloratadine is safe, well tolerated and free of serious cardiac effects. Pharmacokinetic studies have demonstrated a low propensity for drug-drug or drug-food interactions. This review outlines the mechanism of action, efficacy and safety of desloratadine for the treatment of allergic inflammatory disorders.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2005",
+      "authors": [
+        "DuBuske Lawrence M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Asthma",
+        "Child",
+        "Child, Preschool",
+        "Chronic Disease",
+        "Clinical Trials, Phase III as Topic",
+        "Drug Administration Schedule"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16259582/"
+    },
+    {
+      "pmid": "22686617",
+      "title": "Bilastine: in allergic rhinitis and urticaria.",
+      "abstract": "Bilastine is an orally administered, second-generation antihistamine used in the symptomatic treatment of seasonal or perennial allergic rhinoconjunctivitis and urticaria. In two well designed phase III trials, 14 days' treatment with bilastine was associated with a significantly lower area under the effect curve (AUEC) for the reflective total symptom score (TSS) than placebo in patients with symptomatic seasonal allergic rhinitis. Additionally, reflective nasal symptom scores were significantly lower in bilastine than placebo recipients in patients with a history of seasonal allergic rhinitis who were challenged with grass pollen allergen in a single-centre, phase II study. Neither bilastine nor cetirizine was effective in the treatment of perennial allergic rhinitis with regard to the mean AUEC for reflective TSS in another well designed phase III trial. However, results may have been altered by differences in some baseline characteristics and placebo responses between study countri",
+      "journal": "Drugs",
+      "year": "2012",
+      "authors": [
+        "Carter Natalie J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Area Under Curve",
+        "Benzimidazoles",
+        "Cetirizine",
+        "Histamine H1 Antagonists, Non-Sedating",
+        "Humans",
+        "Loratadine",
+        "Piperidines",
+        "Randomized Controlled Trials as Topic",
+        "Rhinitis, Allergic, Perennial",
+        "Urticaria"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22686617/"
+    },
+    {
+      "pmid": "11424898",
+      "title": "Pharmacology and clinical efficacy of desloratadine as an anti-allergic and anti-inflammatory drug.",
+      "abstract": "Desloratadine is a biologically active metabolite of the second-generation antihistamine loratadine. Desloratadine is a highly selective peripheral H1 receptor antagonist that is significantly more potent than loratadine. Results of in vitro and in vivo studies have suggested that desloratadine has anti-allergic effects that are unrelated to its ability to antagonise the effects of histamine. Desloratadine inhibits the expression of cell adhesion molecules, inhibits the generation and release of inflammatory mediators and cytokines, attenuates eosinophil chemotaxis, adhesion and superoxide generation. Studies in animals indicate that desloratadine does not cross the blood-brain barrier and therefore does not cause sedation and does not impair cognition or psychomotor performance. Desloratadine has an excellent overall safety profile. It has no effect on QRS and QTc intervals and does not cause arrhythmias. Desloratadine is not associated with any significant changes in gastrointestinal",
+      "journal": "Expert opinion on investigational drugs",
+      "year": "2001",
+      "authors": [
+        "Agrawal D K"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Allergic Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Humans",
+        "Loratadine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11424898/"
+    },
+    {
+      "pmid": "16329713",
+      "title": "The safety and efficacy of desloratadine for the management of allergic disease.",
+      "abstract": "Allergic disease is an increasing problem worldwide. Allergic rhinitis, an inflammatory response to an allergen, affects an estimated 20-40 million people in the US, while chronic idiopathic urticaria is a dermatoallergic condition that affects 0.1-3% of people in the US and Europe. The primary goals of treatment for allergic rhinitis are to reduce symptoms, which include sneezing, rhinorrhoea and nasal congestion, improve quality of life and prevent the sequelae associated with this disease, while the goal for chronic idiopathic urticaria is the rapid and prolonged control of symptoms. Quantitatively, histamine is the most abundant mediator present during an allergic episode - thus, antihistamines (historically called histamine H(1) receptor antagonists, now called H(1) receptor inverse agonists) are a first-line defense against allergic rhinitis and chronic idiopathic urticaria. Although first-generation antihistamines can cause sedation and cognitive impairment, second-generation an",
+      "journal": "Drug safety",
+      "year": "2005",
+      "authors": [
+        "Berger William E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Histamine H1 Antagonists, Non-Sedating",
+        "Humans",
+        "Loratadine",
+        "Product Surveillance, Postmarketing",
+        "Randomized Controlled Trials as Topic",
+        "Rhinitis, Allergic, Perennial",
+        "Rhinitis, Allergic, Seasonal",
+        "Urticaria"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16329713/"
+    },
+    {
+      "pmid": "27110120",
+      "title": "Treatment of allergic rhinitis and urticaria: a review of the newest antihistamine drug bilastine.",
+      "abstract": "Allergic rhinitis and urticaria are common allergic diseases that may have a major negative impact on patients' quality of life. Bilastine, a novel new-generation antihistamine that is highly selective for the H1 histamine receptor, has a rapid onset and prolonged duration of action. This agent does not interact with the cytochrome P450 system and does not undergo significant metabolism in humans, suggesting that it has very low potential for drug-drug interactions, and does not require dose adjustment in renal impairment. As bilastine is not metabolized and is excreted largely unchanged, hepatic impairment is not expected to increase systemic exposure above the drug's safety margin. Bilastine has demonstrated similar efficacy to cetirizine and desloratadine in patients with seasonal allergic rhinitis and, in a Vienna Chamber study, a potentially longer duration of action than fexofenadine in patients with asymptomatic seasonal allergic rhinitis. It has also shown significant efficacy ",
+      "journal": "Therapeutics and clinical risk management",
+      "year": "2016",
+      "authors": [
+        "Wang Xue Yan",
+        "Lim-Jurado Margaret",
+        "Prepageran Narayanan",
+        "Tantilipikorn Pongsakorn",
+        "Wang De Yun"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27110120/"
+    },
+    {
+      "pmid": "15516152",
+      "title": "Chronic urticaria: aetiology, management and current and future treatment options.",
+      "abstract": "Chronic urticaria is a common condition that can be very disabling when severe. A cause for chronic idiopathic urticaria (CIU) is only infrequently identified. Potential causes include reactions to food and drugs, infections (rarely) and, apart from an increased incidence of thyroid disease, uncomplicated urticaria is not usually associated with underlying systemic disease or malignancy. About one-third of patients with CIU have circulating functional autoantibodies against the high affinity IgE receptor or against IgE, although it is not known why such antibodies are produced, or how the presence of such antibodies alters the course of the disease or response to treatment. There are only a few publications relating to childhood urticaria, but it is probably similar to the adult form, except that adult urticaria is more common. The diagnosis is based on patient history and it is vital to spend time documenting this in detail. Extensive laboratory tests are not required in the vast majo",
+      "journal": "Drugs",
+      "year": "2004",
+      "authors": [
+        "Kozel Martina M A",
+        "Sabroe Ruth A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Allergic Agents",
+        "Child",
+        "Chronic Disease",
+        "Histamine Antagonists",
+        "Humans",
+        "Immunosuppressive Agents",
+        "Quality of Life",
+        "Urticaria"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15516152/"
+    },
+    {
+      "pmid": "19032340",
+      "title": "Ebastine in allergic rhinitis and chronic idiopathic urticaria.",
+      "abstract": "Histamine is a key mediator in the development of allergy symptoms, and oral H(1)-antihistamines are among the most widely used treatments for symptomatic relief in conditions such as allergic rhinitis and chronic urticaria. Ebastine is a second-generation antihistamine which has been shown to be an effective treatment for both seasonal and perennial allergic rhinitis. In controlled clinical trials in adult and adolescent patients with allergic rhinitis, ebastine 10 mg once-daily improved symptoms to a significantly greater extent than placebo and to a similar extent as loratadine 10 mg and cetirizine 10 mg (both once-daily), while ebastine 20 mg proved to be more effective than these two comparator antihistamines. In addition, ebastine was significantly more effective than placebo at relieving the symptoms of chronic idiopathic urticaria. Ebastine provides efficacy throughout the 24-h dosing interval with once-daily administration and clinical benefit is seen from the first day of tre",
+      "journal": "Allergy",
+      "year": "2008",
+      "authors": [
+        "Sastre J"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Butyrophenones",
+        "Chronic Disease",
+        "Histamine H1 Antagonists",
+        "Humans",
+        "Piperidines",
+        "Rhinitis, Allergic, Perennial",
+        "Rhinitis, Allergic, Seasonal",
+        "Urticaria"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19032340/"
+    }
+  ]
+}

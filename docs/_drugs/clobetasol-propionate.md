@@ -5,7 +5,7 @@ drugbank_id: "DB01013"
 drug_name: "Clobetasol Propionate"
 kg_predictions: 224
 dl_predictions: 105
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 224
 brands: []
 permalink: /drugs/clobetasol-propionate/
@@ -21,7 +21,7 @@ permalink: /drugs/clobetasol-propionate/
 | **DrugBank ID** | [DB01013](https://go.drugbank.com/drugs/DB01013) |
 | **KG Predictions** | 224 |
 | **DL Predictions (≥0.7)** | 105 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

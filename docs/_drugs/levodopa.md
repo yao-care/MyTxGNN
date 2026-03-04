@@ -5,7 +5,7 @@ drugbank_id: "DB01235"
 drug_name: "Levodopa"
 kg_predictions: 150
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 150
 brands: []
 permalink: /drugs/levodopa/
@@ -21,7 +21,7 @@ permalink: /drugs/levodopa/
 | **DrugBank ID** | [DB01235](https://go.drugbank.com/drugs/DB01235) |
 | **KG Predictions** | 150 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

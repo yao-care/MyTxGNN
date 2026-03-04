@@ -1,0 +1,1033 @@
+{
+  "drug": "Methylprednisolone",
+  "drugbank_id": "DB00959",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:32:50Z",
+  "indications": [
+    {
+      "indication": "erythema multiforme",
+      "evidence_level": "L1",
+      "trials": 14,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 8,
+        "phase1_trials": 1,
+        "other_trials": 2,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 7,
+        "total_trials": 14,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "lymphosarcoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 7,
+        "phase1_trials": 2,
+        "other_trials": 4,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 7,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "disease of orbital region",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 2,
+        "phase1_trials": 1,
+        "other_trials": 10,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 10,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "leukemia, lymphocytic, susceptibility to",
+      "evidence_level": "L4",
+      "trials": 1,
+      "articles": 2,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 2,
+        "total_trials": 1,
+        "total_articles": 2
+      }
+    },
+    {
+      "indication": "rheumatic heart disease",
+      "evidence_level": "L1",
+      "trials": 9,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 3,
+        "rct_articles": 0,
+        "review_articles": 2,
+        "other_articles": 8,
+        "total_trials": 9,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 64,
+  "total_articles": 42,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02950025",
+      "title": "A Randomized Controlled Phase II Study of Daily Online Adaptation Versus Localization for MRI-Guided SBRT for Unresectable Primary or Oligometastatic Abdominal Malignancies",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2017-01-19",
+      "completion_date": "2018-03-19",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "In light of this new technology and preliminary findings of low toxicity of online, adaptive, magnetic resonance (M)-guided stereotactic radiation on a single arm prospective study, the investigators propose to compare this technique to online MR-guided stereotactic body radiation therapy (SBRT) without adaptation. Online plan adaptation increases treatment times for patients and comprises an increased burden on technical and clinical staff. Although preliminary trial results are encouraging, it",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Oligometastatic disease or unresectable primary abdominal malignancy with biopsy-proven primary disease histology of solid tumor categorization. Patients with a diagnosis of hepatocellular carcinoma do not require a biopsy.\n* No more than three progressive sites of disease, wi",
+      "endpoints": [
+        "Number of Grade 3 or Greater Toxicity Occurring in Patients Receiving Online, Adaptive, MRI-guided SBRT to the Abdomen and in Patients Receiving Non-adaptive SBRT"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02950025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00675545",
+      "title": "A Phase II Study of Docetaxel Plus Carboplatin in Chemonaive Hormone-Refractory Prostate Cancer (HRPC) Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2010-05",
+      "country": "Singapore",
+      "enrollment": 2,
+      "brief_summary": "The primary objective is to determine the efficacy of docetaxel plus carboplatin as first line treatment in patients with hormone refractory prostate cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed adenocarcinoma of the prostate.\n2. At the time of enrollment, patients must have evidence of metastatic disease, with either measurable disease per RECIST criteria or non- measurable disease (i.e. positive bones scan) and PSA \\> 5 ng/mm3.\n3. Disease p",
+      "endpoints": [
+        "efficacy of docetaxel plus carboplatin"
+      ],
+      "sponsor": "National University Hospital, Singapore",
+      "url": "https://clinicaltrials.gov/study/NCT00675545"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00485303",
+      "title": "A Phase II Open Label Study of CB7630 (Abiraterone Acetate) and Prednisone in Patients With Advanced Prostate Cancer Who Have Failed Androgen Deprivation and Docetaxel-Based Chemotherapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2011-10",
+      "country": "United Kingdom, United States",
+      "enrollment": 58,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of abiraterone acetate in participants with advanced prostate cancer (a disease in which cells in the prostate gland become abnormal and start to grow uncontrollably, forming tumors).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma (malignant epithelial tumor with a glandular organization)of the prostate (a gland in the male reproductive system found below the bladder and in front of the rectum), but not with neuroendocrine (specialized neurons tha",
+      "endpoints": [
+        "Percentage of Participants With Prostate Specific Antigen (PSA) Response"
+      ],
+      "sponsor": "Cougar Biotechnology, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00485303"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05927272",
+      "title": "Deciphering the Vitiligo Transcriptomic Signature Between Repigmented and Non Repigmented Lesions",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-04-10",
+      "completion_date": "2025-10-09",
+      "country": "France",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this study is to perform an in-depth analysis of the molecular pathways involved in lesions responding to current treatment and lesions not responding to current treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject: male or female aged ≥ 18 years and ≤ 65 years\n* Diagnosis of non-segmental (symmetrical) vitiligo with a body surface area involved \\>5% excluding hands and feet, with lesions located on arms\n* Active non-segmental vitiligo is defined by:\n\n  * Non-segmental vitiligo w",
+      "endpoints": [
+        "Evaluate the evolution of skin biological pathways, assessed by single cell RNAseq in the peri-lesional and lesional skin of a target lesion"
+      ],
+      "sponsor": "University Hospital, Bordeaux",
+      "url": "https://clinicaltrials.gov/study/NCT05927272"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01795703",
+      "title": "A Phase II Study of JNJ-212082 (Abiraterone Acetate) in Metastatic Castration-Resistant Prostate Cancer Patients Who Have Received Docetaxel-based Chemotherapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2014-10",
+      "country": "Japan",
+      "enrollment": 47,
+      "brief_summary": "The purpose of this study is to investigate the safety and efficacy of abiraterone in participants with metastatic castration-resistant prostate cancer (mCRPC) who have received docetaxel-based chemotherapy (treatment of disease, usually cancer, by chemical agents).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* In-patients or out-patients with histologically or cytologically confirmed adenocarcinoma of the prostate without neuroendocrine differentiation or small cell histology\n* Have surgically or medically castrated, with testosterone levels of less than 50 nanogram per deciliter\n* ",
+      "endpoints": [
+        "Percentage of Participants Achieving Prostate Specific Antigen (PSA) Response at Week 12"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01795703"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01756638",
+      "title": "A Phase II Study of JNJ-212082 (Abiraterone Acetate) in Metastatic Castration Resistant Prostate Cancer Patients Who Are Chemotherapy-Naïve",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06-06",
+      "completion_date": "2014-10-17",
+      "country": "Japan",
+      "enrollment": 48,
+      "brief_summary": "The purpose of this study is to investigate safety and efficacy of abiraterone in participants with metastatic castration-resistant prostate cancer (mCRPC) and who have not received prior chemotherapy (treatment of disease, usually cancer, by chemical agents).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* In-patients or out-patients with histologically or cytologically confirmed adenocarcinoma of the prostate without neuroendocrine differentiation or small cell histology\n* Have surgically or medically castrated, with testosterone levels of less than 50 nanogram per deciliter\n* ",
+      "endpoints": [
+        "Percentage of participants achieving Prostate-Specific Antigen (PSA) response up to 12 weeks"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01756638"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01685983",
+      "title": "A Phase 2 Open Label Study of Abiraterone Acetate (JNJ-212082) and Prednisolone in Patients With Advanced Prostate Cancer Who Have Failed Androgen Deprivation and Docetaxel-Based Chemotherapy.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-08-30",
+      "completion_date": "2018-03-06",
+      "country": "Taiwan, South Korea",
+      "enrollment": 82,
+      "brief_summary": "The purpose of this study is to assess the safety and efficacy in Korea or Taiwan of oral abiraterone acetate and oral prednisolone in men with metastatic-castration resistant prostate cancer (mCRPC) and with disease progression following treatment with a docetaxel-containing chemotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate (stage IV)\n* Has documented Prostate Specific Antigen (PSA) progression according to protocol-specific prostate specific antigen working group (PSAWG) eligibility criteria\n* Has undergone prior chemothera",
+      "endpoints": [
+        "Percentage of Participants With Prostate-specific Antigen (PSA) Response"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01685983"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00577993",
+      "title": "Fludarabine, Mitoxantrone, and Dexamethasone (FND) Plus Chimeric Anti-CD20 Monoclonal Antibody (Rituximab) for Stage IV Indolent Lymphoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-03-16",
+      "completion_date": "2017-08-24",
+      "country": "United States",
+      "enrollment": 210,
+      "brief_summary": "The goal of this clinical research study is to compare chemotherapy given with rituximab to chemotherapy followed by rituximab. The safety of both treatment schedules will be studied. Laboratory tests of genetic changes in blood and bone marrow before and during the study will also be monitored.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Previously untreated stage IV indolent B-cell lymphoma \\[Amendment May 2001: eligibility restricted to follicular lymphoma\\]\n2. Age \\<76\n\nExclusion Criteria:\n\nN/A",
+      "endpoints": [
+        "Number of Participants With Overall Survival (10 Years) by Treatment"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00577993"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04843059",
+      "title": "ERASE VITILIGO Early Repigmentation Approach for Stopping the Evolution of VITILIGO Prospective Multicentric Interventional Study With Blinded Evaluation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-06-01",
+      "completion_date": "2025-08-18",
+      "country": "France",
+      "enrollment": 51,
+      "brief_summary": "Vitiligo affects 1 to 2% of worldwide population and has a demonstrated impact on the quality of life.\n\nOptimal treatment of vitiligo requires to target the auto-immune inflammatory response (to halt the depigmentation process), in particular T cells, but also to induce the differentiation of melanocyte stem cells (to induce repigmentation). Ultimately, the treatment should also prevent the recurrences of depigmentation. Indeed, when repigmentation is achieved, 40 to 50% of lesions reoccur withi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Patients with non-segmental vitiligo. 3 groups of patients will be selected:\n* Patients with a long-lasting disease (more than 2 years) and no new or growing lesion since at least 2 years\n* Patients with a long-lasting disease (more than 2 years) and with at least one new ",
+      "endpoints": [
+        "The percentage of resident memory T-cells (ratio memory T cells (CD4+CD69++ and CD8+CD69+)/Total CD4+ and CD8+ *100), assessed by cytometric analysis, in the perilesional skin of the target lesion."
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "url": "https://clinicaltrials.gov/study/NCT04843059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00638690",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Abiraterone Acetate (CB7630) Plus Prednisone in Patients With Metastatic Castration-Resistant Prostate Cancer Who Have Failed Docetaxel-Based Chemotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-05",
+      "completion_date": "2012-10",
+      "country": "Netherlands, Germany, Australia, France, United Kingdom, Austria, Ireland, Belgium, Hungary, Spain, United States, Canada",
+      "enrollment": 1195,
+      "brief_summary": "This is a phase 3 study to compare the clinical benefit of abiraterone acetate plus prednisone with placebo plus prednisone in patients with metastatic castration-resistant prostate cancer (CRPC) who have failed one or two chemotherapy regimens. At least one of the previous chemotherapies must have contained docetaxel.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Metastatic Castration-Resistant Prostate Cancer Progression after one or two prior cytotoxic chemotherapies\n* At least one chemotherapy must have contained docetaxel\n* Eastern Cooperative Oncology Group (ECOG) Performance Status \\<= 2\n* Medical or surgical castration with test",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "Cougar Biotechnology, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00638690"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06266221",
+      "title": "Severe Erythema Multiforme: A Randomized Controlled Trial Comparing a Short Systemic Corticosteroids Regimen to Placebo in the Acute Established Phase",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-05-01",
+      "completion_date": "2027-11-01",
+      "country": "N/A",
+      "enrollment": 96,
+      "brief_summary": "Erythema multiforme (EM) is an acute and often recurrent mucocutaneous disease. EM is considered a hypersensitivity immune-mediated reaction. The two main known triggering factors are Herpes simplex virus (HSV) and Mycoplasma pneumoniae (MP) infections. Typical target skin lesions characterize EM, especially oral MMs. EM is in fact mainly linked to the oral MM involvement, including intense mucosal pain, impaired food intake, weight loss, hospitalization and potential risk of fibrotic sequelae (",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 15 years old and 30 kg ≤ Weight ≤ 150 kg\n* Clinical diagnosis of severe EM defined as:\n\n  * Typical skin lesions if first flare of EM: raised target lesions with 2 or 3 concentric rings located on the extremities or disseminated. In case of recurrent EM, with proven ante",
+      "endpoints": [
+        "Time to success",
+        "Evaluation of Pain",
+        "Food intake"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT06266221"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01381874",
+      "title": "Randomized, Open-Label Study of Abiraterone Acetate (JNJ-212082) Plus Prednisone With or Without Exemestane in Postmenopausal Women With ER+ Metastatic Breast Cancer Progressing After Letrozole or Anastrozole Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-08-24",
+      "completion_date": "2018-08-08",
+      "country": "Ukraine, Netherlands, France, South Korea, United Kingdom, Ireland, Belgium, Luxembourg, Russia, United States, Spain, Poland",
+      "enrollment": 297,
+      "brief_summary": "The purpose of this study is to assess the safety and efficacy of oral abiraterone acetate plus oral prednisone and oral abiraterone acetate plus oral prednisone plus oral exemestane, each compared with oral exemestane alone, in postmenopausal women with estrogen receptor-positive (ER+) metastatic (spreading) breast cancer that has relapsed after treatment with letrozole or anastrozole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female patients must be postmenopausal\n* ER+, Human epidermal growth factor receptor 2 (Her2) negative metastatic breast cancer\n* Disease must have been sensitive to anastrozole or letrozole therapy prior to disease progression\n* No more than two prior lines of therapy in the ",
+      "endpoints": [
+        "Progression-Free Survival (PFS)",
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01381874"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06119490",
+      "title": "Evaluation of the Efficacy and Safety of Methylprednisolone Combined With the JAK Inhibitors in the Treatment of Toxic Epidermal Necrolysis: Two-arm, Open, Single-center Study",
+      "phase": "EARLY_PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2023-07-05",
+      "completion_date": "2026-09",
+      "country": "China",
+      "enrollment": 30,
+      "brief_summary": "To evaluate the efficacy and safety of methylprednisolone combined with the JAK inhibitor abxitinib and tofacitinib in the treatment of toxic epidermal necrolysis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18 and above.\n2. Diagnosed with SJS/TEN according to the Registry of Severe Cutaneous Adverse Reactions (RegiSCAR) criteria.\n3. Liver and kidney function is within acceptable ranges.\n4. Blood parameters, including complete blood count, coagulation function, and platelet c",
+      "endpoints": [
+        "Time to Reepithelization"
+      ],
+      "sponsor": "Fujian Provincial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06119490"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01485861",
+      "title": "A Phase Ib/II Study of Ipatasertib (GDC-0068) or Apitolisib (GDC-0980) With Abiraterone Acetate Versus Abiraterone Acetate in Patients With Castration-Resistant Prostate Cancer Previously Treated With Docetaxel-Based Chemotherapy",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-01-11",
+      "completion_date": "2022-08-31",
+      "country": "Italy, Netherlands, Greece, France, United Kingdom, Czechia, United States, Spain, Romania",
+      "enrollment": 298,
+      "brief_summary": "This multicenter, international, Phase Ib/II trial consists of three stages: a Phase Ib, open-label stage in which the recommended Phase II dose was determined for ipataseritib administrated in combination with abiraterone and of apitolisib administrated in combination with abiraterone (this phase is no longer active), a Phase II, 3-arm, double-blind, randomized comparison of ipatasertib with abiraterone and prednisone/prednisolone versus placebo with abiraterone and prednisone/prednisolone and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed metastatic or advanced prostate adenocarcinoma that has been previously treated with docetaxel-based therapy and has progressed during treatment of at least one hormonal therapy(prior docetaxel is not required for the safety cohort)\n* Two rising PSA le",
+      "endpoints": [
+        "Phase Ib: Percentage of Participants With Dose-Limiting Toxicities (DLTs)",
+        "Phase Ib: Percentage of Participants With Adverse Events (AEs)",
+        "Phase Ib: Recommended Phase II Dose (RP2D) of Ipatasertib and Apitolisib"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01485861"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03206671",
+      "title": "B-NHL 2013 - Treatment Protocol of the NHL-BFM and the NOPHO Study Groups for Mature Aggressive B-cell Lymphoma and Leukemia in Children and Adolescents",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-08-03",
+      "completion_date": "2027-06",
+      "country": "Germany, Switzerland, Sweden, Denmark, Austria, Norway, Finland, Czechia",
+      "enrollment": 650,
+      "brief_summary": "The trial B-NHL 2013 is a collaborative prospective, multi-national, multi-center, randomized trial with participating centers of the NHL-BFM group (Austria, Switzerland, Czech Republic, Germany) and the Scandinavian NOPHO group (Denmark, Finland, Norway, Sweden). The aim of the trial is to evaluate the role of rituximab in the treatment of mature aggressive B-cell Non-Hodgkin lymphoma and leukemia (B-NHL and B-AL) in children and adolescents.\n\nThe following primary study questions are going to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed, histological or cytological and immunological proven aggressive mature B-cell Non-Hodgkin lymphoma including Burkitt lymphoma (BL), Burkitt leukemia (B-AL), diffuse large B-cell lymphoma (DLBCL), or mature B-cell NHL not further classified according to current",
+      "endpoints": [
+        "Event-free survival (EFS)",
+        "Immune reconstitution rate (only in R3/R4 patients)"
+      ],
+      "sponsor": "University Hospital Muenster",
+      "url": "https://clinicaltrials.gov/study/NCT03206671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00054236",
+      "title": "Pilot Study Of Multiple Umbilical Cord Blood Unit Transplantation Following Non-Myeloablative Conditioning In Patients With Hematologic Disorders Or Severe Aplastic Anemia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2002-05",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 55,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Umbilical cord blood transplantation may be able to replace cells destroyed by chemotherapy.\n\nPURPOSE: Phase I trial to study the effectiveness of combination chemotherapy followed by umbilical cord blood transplantation in treating patients who have hematologic cancer or severe aplastic anemia.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* One of the following histologically confirmed diagnoses:\n\n  * Acquired severe aplastic anemia\n\n    * Meets at least 2 of the following criteria:\n\n      * Granulocyte count less than 500/mm\\^3\n      * Platelet count less than 20,000/mm\\^3\n      * Absolute reticulocyte coun",
+      "endpoints": [
+        "Event-free survival by disease assessment"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00054236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03007147",
+      "title": "International Phase 3 Trial in Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia (Ph+ALL) Testing Imatinib in Combination With Two Different Cytotoxic Chemotherapy Backbones",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-08-08",
+      "completion_date": "2027-09-30",
+      "country": "Italy, Switzerland, Sweden, Australia, Netherlands, Austria, Belgium, Chile, Czechia, Hong Kong, France, Israel, New Zealand, Finland, Puerto Rico, Canada, Saudi Arabia, Germany, United States",
+      "enrollment": 475,
+      "brief_summary": "This randomized phase III trial studies how well imatinib mesylate works in combination with two different chemotherapy regimens in treating patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukemia (ALL). Imatinib mesylate has been shown to improve outcomes in children and adolescents with Philadelphia chromosome positive (Ph+) ALL when given with strong chemotherapy, but the combination has many side effects. This trial is testing whether a different chemother",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* For patients enrolled on APEC14B1 prior to enrollment on AALL1631, the required diagnostic bone marrow sample has been fulfilled\n\n  * For patients who have not previously enrolled on APEC14B1 prior to enrollment on AALL1631, a baseline diagnostic sample (or peripheral blood sa",
+      "endpoints": [
+        "Disease free survival (DFS) of Randomized Arms (standard risk [SR] Philadelphia chromosome [Ph+] acute lymphoblastic leukemia [ALL] patients)"
+      ],
+      "sponsor": "Children's Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT03007147"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02054559",
+      "title": "Randomized Phase III Trial Comparing R-CHOP Alone and R-CHOP Plus Radiotherapy for Localized CD20+ Diffuse Large B-cell Lymphoma (DLBCL)",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "",
+      "completion_date": "2020-01",
+      "country": "South Korea",
+      "enrollment": 0,
+      "brief_summary": "To compare the efficacy and safety of chemotherapy alone and combined modality therapy in the treatment of localized CD20 (+) diffuse large B-cell lymphoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent\n* Histologically confirmed CD20-positive Diffuse Large B-cell Lymphoma (DLBCL), NOS\n* Immunostains for CD20, CD5, CD3, CD10, MUM-1, BCL-6, BCL-2 and Ki-67 and the in situ hybridization for Epstein-Barr virus are recommended for diagnosis of DLBCL, NOS.",
+      "endpoints": [
+        "To compare 3-year event-free survival"
+      ],
+      "sponsor": "Asan Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02054559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01088750",
+      "title": "First International Inter-Group Study for Nodular Lymphocyte-Predominant Hodgkin's Lymphoma in Children and Adolescents",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-11-01",
+      "completion_date": "2023-10-31",
+      "country": "Germany",
+      "enrollment": 225,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as cyclophosphamide, vinblastine, and prednisolone, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Surgery to remove involved lymph nodes may be an effective treatment for young patients with nodular lymphocyte-predominant Hodgkin lymphoma.\n\nPURPOSE: This phase IV trial is continuing to study the side effects of giving surgery alone or giving surgery with cyclophosphamide, vinbl",
+      "eligibility_criteria": "Inclusion criteria:\n\n* nodular lymphocyte-predominant Hodgkin's lymphoma confirmed by reference pathology.\n* initial stage IA/IIA (according to local staging) or relapse stage IA or IIA and residual tumour after relapse biopsy and no additional surgery planned in nLP patients relapsing after surgery",
+      "endpoints": [
+        "Event-free survival"
+      ],
+      "sponsor": "Martin-Luther-Universität Halle-Wittenberg",
+      "url": "https://clinicaltrials.gov/study/NCT01088750"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03500133",
+      "title": "Non Randomized, Multicenter, Prospective Pediatric Hodgkin Lymphoma Treatment Trial Stratified According to Initial Risk Factors and Response to Chemotherapy, Reduced Cumulative Doses of Antineoplastic Agents and Radiotherapy.",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2017-10-06",
+      "completion_date": "2032-10-31",
+      "country": "Argentina",
+      "enrollment": 500,
+      "brief_summary": "This trial proposes a therapy for pediatric Hodgkin lymphoma with the objective of achieving high levels of long lasting complete remission with less risk of late effects.\n\nPatients of both genders, between 2 and 18 years, with newly diagnosed classical Hodgkin lymphoma are admitted.\n\nInitial staging provides stratification in three groups: low, intermediate and high risk. An initial set of two chemotherapy courses is administered to all cases after which a new disease assessment is performed. A",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histopathological diagnosis of classical Hodgkin lymphoma.\n* Normal renal, hepatic, pulmonary and metabolic function standards.\n* Informed consent signed by patient and/or legal caretakers.\n\nExclusion Criteria:\n\n* Lymphocyte predominant nodular Hodgkin lymphoma\n* Any form of i",
+      "endpoints": [
+        "Event-free Survival",
+        "Overall Survival"
+      ],
+      "sponsor": "Hospital JP Garrahan",
+      "url": "https://clinicaltrials.gov/study/NCT03500133"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "26281815",
+      "title": "Erythema Multiforme.",
+      "abstract": "",
+      "journal": "The Journal of emergency medicine",
+      "year": "2015",
+      "authors": [
+        "Stoopler Eric T",
+        "Houston Alicia M",
+        "Chmieliauskaite Milda",
+        "Sollecito Thomas P"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acyclovir",
+        "Adult",
+        "Anesthetics, Local",
+        "Antiviral Agents",
+        "Diagnosis, Differential",
+        "Drug Therapy, Combination",
+        "Erythema Multiforme",
+        "Female",
+        "Glucocorticoids",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26281815/"
+    },
+    {
+      "pmid": "35274741",
+      "title": "Systemic interventions for treatment of Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and SJS/TEN overlap syndrome.",
+      "abstract": "Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and SJS/TEN overlap syndrome are rare, severe cutaneous adverse reactions usually triggered by medications. In addition to tertiary-level supportive care, various systemic therapies have been used including glucocorticoids, intravenous immunoglobulins (IVIGs), cyclosporin, N-acetylcysteine, thalidomide, infliximab, etanercept, and plasmapheresis. There is an unmet need to understand the efficacy of these interventions.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2022",
+      "authors": [
+        "Jacobsen Audrey",
+        "Olabi Bayanne",
+        "Langley Annie",
+        "Beecker Jennifer",
+        "Mutter Eric"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Adrenal Cortex Hormones",
+        "Adult",
+        "Autoimmune Diseases",
+        "Child",
+        "Cyclosporine",
+        "Etanercept",
+        "Female",
+        "Humans",
+        "Immunoglobulins, Intravenous"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35274741/"
+    },
+    {
+      "pmid": "37832081",
+      "title": "Sintilimab-induced erythema multiforme drug eruption in the treatment of sigmoid colon cancer: A case report and literature review.",
+      "abstract": "Dermatologic toxicity has been reported as the most common immune-related side effect of programmed cell death 1 inhibitors. Previous reports related to Sintilimab include rash, pruritus, vitiligo, Stevens-Johnson syndrome, toxic epidermal necrolysis, and so on.",
+      "journal": "Medicine",
+      "year": "2023",
+      "authors": [
+        "Zhang Mei",
+        "Wu Ran",
+        "Jia Min",
+        "Sun Shaoqin",
+        "Zhang Lei"
+      ],
+      "pub_types": [
+        "Review",
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Male",
+        "Humans",
+        "Aged",
+        "Sigmoid Neoplasms",
+        "Immune Checkpoint Inhibitors",
+        "Erythema Multiforme",
+        "Stevens-Johnson Syndrome",
+        "Exanthema",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37832081/"
+    },
+    {
+      "pmid": "8566721",
+      "title": "Virus induced erythema multiforme and Stevens-Johnson syndrome.",
+      "abstract": "Erythema Multiforme is an acute, self-limited inflammatory cutaneous disorder characterized by distinctive target lesions. Stevens-Johnson syndrome (SJS) is defined as severe erythema multiforme with mucosal involvement, visceral involvement, or both. Both diseases are part of a continuum of immunologically mediated mucocutaneous diseases at various grades of severity. Viral infections are known triggers of these skin disorders. We report the success of a management strategy of acyclovir and prednisone for herpes simplex virus-associated erythema multiforme. In addition we describe the apparent first case of primary varicella infection as a direct cause of SJS. The two cases are presented and a single-case statistical analysis has been employed to evaluate the significance of the management protocol. The method of analysis is presented in the appendix. When a patient with primary varicella infection develops bullous lesions, SJS should be considered in the differential diagnosis, as ea",
+      "journal": "Allergy proceedings : the official journal of regional and state allergy societies",
+      "year": "1995",
+      "authors": [
+        "Choy A C",
+        "Yarnold P R",
+        "Brown J E",
+        "Kayaloglou G T",
+        "Greenberger P A"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acyclovir",
+        "Adult",
+        "Chickenpox",
+        "Dose-Response Relationship, Drug",
+        "Drug Therapy, Combination",
+        "Erythema Multiforme",
+        "Female",
+        "Herpes Simplex",
+        "Humans",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8566721/"
+    },
+    {
+      "pmid": "38962048",
+      "title": "PD-L1 expression in keratinocyte and infiltration of CD4 + T lymphocyte can predict a severe type of erythema multiforme major induced by the anti-PD-1 antibody, pembrolizumab.",
+      "abstract": "Skin toxicity is the most common adverse event of treatment with immune check point inhibitors. Among them, erythema multiforme is a rare occurrence with a frequency of 4%, with most of the cases developing grade 1/2 disease. We experienced high grade erythema multiforme major developing with pembrolizumab treatment for anal canal cancer with extensive skin metastases. Steroid ointment was ineffective, and the skin lesions with blisters expanded to > 45% of the body surface area. The patient was at risk for symptom aggravation, and a pulse therapy with methylprednisolone and increasing the dose of oral prednisolone (1 mg/kg) were started. The skin lesions improved in 1.8 months. Unless urgent and appropriate treatments such as high dose steroid administration were conducted, the skin toxicities could not be controlled. The presence of CD4+ T cells and PD-L1+ keratinocytes in the skin biopsy might be a predictive marker of erythema multiforme major resistant to standard steroid treatmen",
+      "journal": "International cancer conference journal",
+      "year": "2024",
+      "authors": [
+        "Kadoi Ryohei",
+        "Yoshida Taichi",
+        "Noto Mai",
+        "Toyoshima Aya",
+        "Fujii Sino"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38962048/"
+    },
+    {
+      "pmid": "7919560",
+      "title": "Erythema multiforme and hypersensitivity myocarditis caused by ampicillin.",
+      "abstract": "To report a case of erythema multiforme and hypersensitivity myocarditis caused by ampicillin.",
+      "journal": "The Annals of pharmacotherapy",
+      "year": "1994",
+      "authors": [
+        "Garty B Z",
+        "Offer I",
+        "Livni E",
+        "Danon Y L"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Ampicillin",
+        "Drug Hypersensitivity",
+        "Erythema Multiforme",
+        "Heart Failure",
+        "Humans",
+        "Male",
+        "Myocarditis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7919560/"
+    },
+    {
+      "pmid": "16164723",
+      "title": "Lupus erythematosus associated with erythema multiforme: report of two cases and review of the literature.",
+      "abstract": "Rowell's syndrome (RS) is a rare presentation of lupus erythematosus (LE) with erythema multiforme-like lesions associated with antinuclear, anti-La (SS-B)/anti-Ro (SS-A) antibodies and rheumatoid factor (RF) positivity. This syndrome is suggested to be a different variant of cutaneous lupus erythematosus by some authors in literature. Here we present a 64-year-old woman with LE and a 51-year-old woman with LE and Sjögren syndrome (SS) who had erythema multiforme-like eruptions and discuss the coexistence of lupus erythematosus and erythema multiforme.",
+      "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "year": "2005",
+      "authors": [
+        "Aydogan K",
+        "Karadogan Sk",
+        "Balaban Adim S",
+        "Tunali S"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Biopsy, Needle",
+        "Drug Therapy, Combination",
+        "Erythema Multiforme",
+        "Female",
+        "Humans",
+        "Immunohistochemistry",
+        "Lupus Erythematosus, Cutaneous",
+        "Methylprednisolone",
+        "Middle Aged",
+        "Prednisone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16164723/"
+    },
+    {
+      "pmid": "38061709",
+      "title": "Case Report: Erythema Multiforme Induced by Lithium Contact.",
+      "abstract": "Erythema multiforme (EM) is an acute, self-limited mucocutaneous disease with diverse triggering factors, and the recurrences are quite common. A 24-year old male presented with multiple erythematous, itchy papules and plaques on multiple sites. He has worked in a lithium battery factory and experienced the chemical burn 2 weeks ago. A histopathologic examination on right wrist showed a scattered lymphocytic infiltration, vacuolar degeneration, and necrotic keratinocyte. The final diagnosis was EM after occupational lithium exposure. He was treated by oral methylprednisolone and experienced recurrences after returning to the same workplace after remission. Although the precise pathogenesis is unknown, the pathogenesis of EM by lithium is related to the effect of lithium on immune system, different from other etiologies. To our knowledge, our case is the first report of EM following the chemical burn and occupational lithium exposure. We report this as an interesting case of EM.",
+      "journal": "Annals of dermatology",
+      "year": "2023",
+      "authors": [
+        "Kim Jin Cheol",
+        "Kang Seok Young",
+        "Chung Bo Young",
+        "Park Chun Wook",
+        "Kim Hye One"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38061709/"
+    },
+    {
+      "pmid": "37560848",
+      "title": "Antinuclear Antibodies in Erythema Multiforme: Transient Occurrence During Acute Illness.",
+      "abstract": "Children with target lesions are frequently diagnosed with erythema multiforme (EM). EM was not previously thought to be associated with any specific autoimmune serological abnormality.",
+      "journal": "Clinical laboratory",
+      "year": "2023",
+      "authors": [
+        "Liu Chenxi",
+        "Yan Lingyi",
+        "Peng Leiwen",
+        "Li Wensheng",
+        "Liu Xiaoqin"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Child",
+        "Female",
+        "Antibodies, Antinuclear",
+        "Acute Disease",
+        "Autoantibodies",
+        "Erythema Multiforme"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37560848/"
+    },
+    {
+      "pmid": "15370708",
+      "title": "1,2-Ethanedithiol-induced erythema multiforme-like contact dermatitis.",
+      "abstract": "Contact dermatitis simulating erythema multiforme can be caused by many allergens. The chemical agent 1,2-ethanedithiol, which serves as a protective group in chemical synthesis, has hitherto only been implicated as an irritant. We report on a 22-year-old female chemistry student who developed widespread erythema multiforme-like lesions after local contact with 1,2-ethanedithiol. Many target lesions were observed bilaterally on her hands, forearms, arms, and on her forehead. One such lesion was histologically compatible with erythema multiforme. The patient had a positive patch test to 1,2-ethanedithiol, whereas none of 30 healthy subjects showed a positive reaction. However, eight of the 30 controls (26.7%) developed irritant reactions to 1,2-ethanedithiol. Cautious handling of the compound is a prudent precaution.",
+      "journal": "Acta dermato-venereologica",
+      "year": "2004",
+      "authors": [
+        "Tjiu Jeng-Wei",
+        "Chu Chia-Yu",
+        "Sun Chee-Ching"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adrenal Cortex Hormones",
+        "Adult",
+        "Dermatitis, Contact",
+        "Diagnosis, Differential",
+        "Erythema Multiforme",
+        "Ethylene Glycol",
+        "Female",
+        "Humans",
+        "Irritants",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15370708/"
+    },
+    {
+      "pmid": "35242118",
+      "title": "Role of Dexamethasone and Methylprednisolone Corticosteroids in Coronavirus Disease 2019 Hospitalized Patients: A Review.",
+      "abstract": "The WHO announced coronavirus disease 2019 (COVID-19) as a pandemic disease globally on March 11, 2020, after it emerged in China. The emergence of COVID-19 has lasted over a year, and despite promising vaccine reports that have been produced, we still have a long way to go until such remedies are accessible to everyone. The immunomodulatory strategy has been kept at the top priority for the research agenda for COVID-19. Corticosteroids have been used to modulate the immune response in a wide range of diseases for the last 70 years. These drugs have been shown to avoid and reduce inflammation in tissues and the bloodstream through non-genomic and genomic effects. Now, the use of corticosteroids increased the chance of survival and relief by combating the viral strong inflammatory impacts and has moved to the forefront in the management of patients seeking supplemental oxygen. The goal of this review is to illuminate dexamethasone and methylprednisolone, i.e., in terms of their chemical",
+      "journal": "Frontiers in microbiology",
+      "year": "2022",
+      "authors": [
+        "Mehta Jyoti",
+        "Rolta Rajan",
+        "Mehta Brij Bhushan",
+        "Kaushik Neha",
+        "Choi Eun Ha"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35242118/"
+    },
+    {
+      "pmid": "5467061",
+      "title": "Lymphocytoma cutis.",
+      "abstract": "",
+      "journal": "Archives of dermatology",
+      "year": "1970",
+      "authors": [
+        "Roenigk H H",
+        "Lesowitz S A"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hydroxychloroquine",
+        "Lymphoma, Non-Hodgkin",
+        "Male",
+        "Methylprednisolone",
+        "Middle Aged",
+        "Skin Neoplasms"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/5467061/"
+    },
+    {
+      "pmid": "8406379",
+      "title": "Pharmacokinetics of high dose methylprednisolone and use in hematological malignancies.",
+      "abstract": "The pharmacokinetics of oral and intravenous high dose methylprednisolone (Solu-medrone, Upjohn) were compared in patients with hematological malignancies. The aim of the study was to determine the oral bioavailability of high dose methylprednisolone and to establish whether this is a feasible and more convenient route of administration. The plasma pharmacokinetics were described by a one-compartment open model with peak plasma levels of 6.9 +/- 2.5 micrograms/ml. Total area under the plasma concentration versus time curve was similar by either route. Mean relative oral bioavailability was generally high (91 +/- 27 per cent). Retrospective analysis of 34 patients with chronic lymphocytic leukemia (CLL), non-Hodgkin's and Hodgkin's lymphoma treated with high dose methylprednisolone showed 11 responses including two complete remissions among nine patients with CLL. There was significant improvement in platelet counts in thrombocytopenic patients and treatment was well tolerated and toxic",
+      "journal": "Hematological oncology",
+      "year": "1993",
+      "authors": [
+        "Patel P M",
+        "Selby P J",
+        "Graham M A",
+        "Viner C",
+        "Newell D R"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Biological Availability",
+        "Dose-Response Relationship, Drug",
+        "Doxorubicin",
+        "Female",
+        "Hodgkin Disease",
+        "Humans",
+        "Injections, Intravenous"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8406379/"
+    },
+    {
+      "pmid": "15812553",
+      "title": "Gemcitabine, cisplatin and methylprednisolone (GEM-P) is an effective salvage regimen in patients with relapsed and refractory lymphoma.",
+      "abstract": "There is currently no standard salvage chemotherapy regimen in relapsed and refractory lymphoma. Gemcitabine is a novel nucleoside analogue, which acts synergistically with cisplatin both in vitro and in clinical studies. We evaluated the combination of gemcitabine, cisplatin and methylprednisolone (GEM-P) in 41 heavily pretreated patients with relapsed and refractory Hodgkin's and non-Hodgkin's lymphoma. The best-achieved response rate (RR) was 79% (95% CI 64-91), with a complete RR of 21%. In patients with chemo-resistant disease, the RR was 63%. Myelosuppression was the main toxicity, the incidence of Grade 3 or 4 anaemia, neutropenia and thrombocytopenia was 17.1, 61.0 and 53.7% respectively. Only one patient had neutropenic sepsis and none of the patients suffered from haemorrhage. Grade 3 or 4 nonhaematological toxicity was minimal and stem cell mobilisation was not inhibited. GEM-P is an effective salvage regimen and its use prior to autologous stem cell transplant warrants furt",
+      "journal": "British journal of cancer",
+      "year": "2005",
+      "authors": [
+        "Ng M",
+        "Waters J",
+        "Cunningham D",
+        "Chau I",
+        "Horwich A"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cisplatin",
+        "Deoxycytidine",
+        "Drug Resistance, Neoplasm",
+        "Humans",
+        "Lymphoma",
+        "Methylprednisolone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15812553/"
+    },
+    {
+      "pmid": "25039915",
+      "title": "Rituximab, Gemcitabine, Cisplatin and Methylprednisolone (R-GEM-P) is an effective regimen in relapsed diffuse large B-cell lymphoma.",
+      "abstract": "Patients with relapsed diffuse large B-cell lymphoma (DLBCL) have a poor prognosis. Gemcitabine, methylprednisolone, cisplatin +/- rituximab (GEM-P+/-R) is a salvage regimen with limited overlap in toxicity with first-line therapy and short duration of inpatient delivery.",
+      "journal": "European journal of haematology",
+      "year": "2015",
+      "authors": [
+        "Barton Sarah",
+        "Hawkes Eliza A",
+        "Cunningham David",
+        "Peckitt Clare",
+        "Chua Sue"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Antibodies, Monoclonal, Murine-Derived",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carboplatin",
+        "Cisplatin",
+        "Deoxycytidine",
+        "Drug Administration Schedule",
+        "Drug Substitution",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25039915/"
+    },
+    {
+      "pmid": "24943209",
+      "title": "[Deep-seated mycosis].",
+      "abstract": "",
+      "journal": "Medical mycology journal",
+      "year": "2014",
+      "authors": [
+        "Yoshida Koichiro"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aspergillosis",
+        "Aspergillus fumigatus",
+        "Hepatitis B",
+        "Humans",
+        "Immunocompromised Host",
+        "Invasive Pulmonary Aspergillosis",
+        "Liver Neoplasms",
+        "Lymphoma, B-Cell, Marginal Zone",
+        "Male",
+        "Methylprednisolone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24943209/"
+    },
+    {
+      "pmid": "17454196",
+      "title": "Gemcitabine, cisplatin and methylprednisolone (GEM-P) with or without Rituximab in relapsed and refractory patients with diffuse large B cell lymphoma (DLBCL).",
+      "abstract": "This is the first report of the combination of gemcitabine, cisplatin and methylprednisolone (GEM-P) with Rituximab (GEM-PR) for diffuse large B-cell lymphoma (DLBCL). Thirty-nine patients with relapsed or refractory DLBCL in this study received GEM-P with (n = 24) or without Rituximab (n = 15) 64% patients had Stage III/IV disease. The overall response rate (ORR) was 59% (95% CI 42.1-74.4); 11/39 (28%) patients attained complete response. Patients received a median of two cycles (1-4) of treatment. For GEM-PR group, the ORR was 67% (95% CI 45-84%) compared to 47% (95% CI 21-73%) in GEM-P alone. one-year progression-free survival was 51% (95% CI 28-69%) in GEM-PR group compared to 27% (95% CI 8-49%) in GEM-P alone (P = 0.04). GEM-P is an effective second-line regimen in patients with relapsed or refractory DLBCL and the addition of Rituximab appears to further improve outcomes.",
+      "journal": "Hematology (Amsterdam, Netherlands)",
+      "year": "2007",
+      "authors": [
+        "Sirohi Bhawna",
+        "Cunningham David",
+        "Norman Andy",
+        "Last Kim",
+        "Chau Ian"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Murine-Derived",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cisplatin",
+        "Combined Modality Therapy",
+        "Deoxycytidine",
+        "Disease-Free Survival"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17454196/"
+    },
+    {
+      "pmid": "12648066",
+      "title": "Gemcitabine, cisplatin and methylprednisolone chemotherapy (GEM-P) is an effective regimen in patients with poor prognostic primary progressive or multiply relapsed Hodgkin's and non-Hodgkin's lymphoma.",
+      "abstract": "This study was designed to assess the efficacy and safety of gemcitabine, cisplatin and methylprednisolone (GEM-P) for patients with relapsed or refractory Hodgkin's disease (HD) and non-Hodgkin's lymphoma. Twenty-one patients were treated with gemcitabine (1000 mg/m2 d 1, 8 and 15), cisplatin (100 mg/m2 d 15) and methylprednisolone (1000 mg d 1-5) given every 28 d. Of these, 20 patients were evaluable for response. The median age was 38 years (range 17-64 years). Histological subtypes were: nodular sclerosing HD (n = 10), diffuse large B cell (n = 5), T cell-rich B cell (n = 2), follicular (n = 2), mantle cell (n = 1) and enteropathy-associated T-cell lymphoma (n = 1). The median remission duration prior to receiving GEM-P was only 42 d. The overall objective response rate was 80%[95% confidence interval (CI): 56-94%], including five complete and 11 partial responses. GEM-P induced responses in all histological subtypes, primary progressive disease and patients who had received a prev",
+      "journal": "British journal of haematology",
+      "year": "2003",
+      "authors": [
+        "Chau Ian",
+        "Harries Mark",
+        "Cunningham David",
+        "Hill Mark",
+        "Ross Paul J"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cisplatin",
+        "Deoxycytidine",
+        "Disease-Free Survival",
+        "Female",
+        "Follow-Up Studies",
+        "Hodgkin Disease",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12648066/"
+    },
+    {
+      "pmid": "24598187",
+      "title": "[Malignant lymphoma and adult T-cell leukemia-lymphoma].",
+      "abstract": "",
+      "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+      "year": "2014",
+      "authors": [
+        "Kato Koji"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cisplatin",
+        "Cyclophosphamide",
+        "Cytarabine",
+        "Deoxycytidine",
+        "Dexamethasone",
+        "Doxorubicin",
+        "Etoposide",
+        "Genetic Markers",
+        "Genetic Testing"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24598187/"
+    },
+    {
+      "pmid": "36470547",
+      "title": "Quantitative evaluation of therapy options for relapsed/refractory diffuse large B-cell lymphoma: A model-based meta-analysis.",
+      "abstract": "New therapies for relapsed/refractory diffuse large B-cell lymphoma (r/rDLBCL) have emerged in recent years, but there have been no comprehensive quantitative comparisons of the efficacy of these therapies. In this study, the efficacy characteristics of 11 types of treatment strategy and 63 treatment regimens were compared by model based meta-analysis. We found that compared with monotherapy, association therapy had significant benefits in terms of overall survival (OS), progression-free survival (PFS), and objective response rate (ORR). However, whereas treatment regimens involving chemotherapy contributed to significant improvements in ORR and PFS, OS was not improved. In terms of treatment strategy, we identified chemotherapy in association with immunotherapy sequential autologous stem cell transplantation (ASCT), the association of two different types of immunotherapies, chemotherapy sequential ASCT, chemotherapy in association with immunotherapy, and chemotherapy in association wi",
+      "journal": "Pharmacological research",
+      "year": "2023",
+      "authors": [
+        "Li Ting",
+        "Yu Jiesen",
+        "Hou Mengyuan",
+        "Zha Sijie",
+        "Cheng Qingqing"
+      ],
+      "pub_types": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Rituximab",
+        "Etoposide",
+        "Hematopoietic Stem Cell Transplantation",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Transplantation, Autologous",
+        "Neoplasm Recurrence, Local",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Cytarabine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36470547/"
+    }
+  ]
+}

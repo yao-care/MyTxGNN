@@ -1,0 +1,1049 @@
+{
+  "drug": "Calcium Carbonate",
+  "drugbank_id": "DB06724",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:42:27Z",
+  "indications": [
+    {
+      "indication": "nephrocalcinosis",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 10,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "dyspepsia",
+      "evidence_level": "L2",
+      "trials": 6,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 2,
+        "phase1_trials": 1,
+        "other_trials": 3,
+        "rct_articles": 3,
+        "review_articles": 2,
+        "other_articles": 5,
+        "total_trials": 6,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "phosphorus metabolism disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 2,
+        "phase1_trials": 2,
+        "other_trials": 10,
+        "rct_articles": 0,
+        "review_articles": 8,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "hypercalcemia disease",
+      "evidence_level": "L1",
+      "trials": 13,
+      "articles": 8,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 5,
+        "phase1_trials": 1,
+        "other_trials": 4,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 1,
+        "total_trials": 13,
+        "total_articles": 8
+      }
+    },
+    {
+      "indication": "nephrocalcinosis",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 10,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 39,
+  "total_articles": 48,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02125604",
+      "title": "A Multicenter, Open-Label, Single-Arm Study to Evaluate Gastrointestinal Tolerability in Subjects With Relapsing-Remitting Multiple Sclerosis Receiving Dimethyl Fumarate (TOLERATE)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2016-03",
+      "country": "Germany",
+      "enrollment": 214,
+      "brief_summary": "The primary objective of this study is to evaluate the effect of symptomatic therapies on gastrointestinal-related events reported by participants with relapsing-remitting multiple sclerosis initiating therapy with BG00012 (dimethyl fumarate, DMF) in the clinical practice setting.\n\nThe secondary objectives of this study in this study population are as follows: to evaluate gastrointestinal-related events requiring symptomatic therapy and the role of those therapies over time; to evaluate gastroin",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Have a confirmed diagnosis of relapsing-remitting multiple sclerosis according to the current McDonald Criteria and satisfy the therapeutic indication as described in the official local registration for Tecfidera (dimethyl fumarate)\n* Naïve to dimethyl fumarate and fumaric",
+      "endpoints": [
+        "Number of Participants Who Utilized Symptomatic Therapy With Gastrointestinal-Related Events During the 12-Week Treatment Period: Modified Overall Gastrointestinal Symptom Scale (MOGISS)",
+        "Number of Participants Who Utilized Symptomatic Therapy With Gastrointestinal-Related Events During the 12-Week Treatment Period: Modified Acute Gastrointestinal Symptom Scale (MAGISS)",
+        "Worst Severity Of Gastrointestinal-Related Events In Participants Who Utilized Symptomatic Therapy During the 12-Week Treatment Period, MOGISS"
+      ],
+      "sponsor": "Biogen",
+      "url": "https://clinicaltrials.gov/study/NCT02125604"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06293326",
+      "title": "An Open Label, Single Center, Randomized, Two-way Crossover Parallel Group, Trial to Assess the Mechanism of Action of a Bi-layer Swallowable Tablet (Immediate Release and Sustained Release) Containing Calcium Carbonate Antacid in an Overnight and Day Application as Compared With a Standard, Non-layered (Immediate Release) Calcium Carbonate Swallow Tablet in Fed Healthy Male Participants.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2024-03-06",
+      "completion_date": "2024-05-15",
+      "country": "United Kingdom",
+      "enrollment": 21,
+      "brief_summary": "Researchers are looking for a better way to treat people who have heartburn, indigestion, and problems due to excessive stomach acid. These are common problems which can affect daily life and disturb sleep during the night-time. Heartburn is the burning sensation or pain in the chest which occurs when stomach acid rises up in the food pipe (esophagus).\n\nCalcium carbonate tablets are used to treat heartburn, indigestion, and related digestive problems. Calcium carbonate works by neutralizing the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male\n* Participant must be 18 to ≤65 years of age inclusive, at the time of signing the informed consent.\n* Participants must have a verified diagnosis of \"healthy\": the results of the standard clinical, laboratory, and instrumental examinations are within the normal range (li",
+      "endpoints": [
+        "Gastric pH levels as measured and recorded with tip of pH probe in gastric fundus."
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT06293326"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06503978",
+      "title": "Dosing Study of Microbiota Transplant Therapy for Children With Autism Spectrum Disorder (ASD) Who Have Gastrointestinal Disorders",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-08-20",
+      "completion_date": "2026-08-17",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The investigators propose to investigate Microbiota Transfer Therapy (MTT) for treating patients with Autism-spectrum disorder with Gastrointestinal disorders (constipation, diarrhea, and/or abdominal pain). MTT involves a combination of 14 days of oral vancomycin (an antibiotic to kill pathogenic bacteria), followed by 1 day of bowel cleanse using Miralax, followed by 5 days of high dose MTP-101P with an antacid, followed by 12 weeks of a lower maintenance dose of MTP-101P with an antacid.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Child aged 4 to \\< 18 years. This is 1 year younger than our previous study of MTT for children with ASD (IND 19048, protocol 2), because there were minimal adverse effects in that study, and earlier intervention may be more beneficial.\n2. Diagnosis of autism per the Childhoo",
+      "endpoints": [
+        "Childhood Autism Rating Scale (CARS-2)",
+        "Daily Stool Record (DSR)"
+      ],
+      "sponsor": "Gut-Brain-Axis Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06503978"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04202692",
+      "title": "Evaluation of the Performance and Safety of an Oral Formulation of Hyaluronic Acid With Chondroitin Sulphate and Magnesium Trisilicate (GERDOff® Plus) in Patients With Gastro-Esophageal Reflux Disease: A Double-blind, Placebo-controlled, Randomized, Cross-over Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-11-05",
+      "completion_date": "2022-11-23",
+      "country": "Germany",
+      "enrollment": 40,
+      "brief_summary": "This is a post-market, multi-center, double-blind, placebo-controlled, randomized, cross-over study with GERDOff Plus added on top of the current PPI treatment in patients with GERD. The aim of the study is to evaluate the performance of GERDOff Plus, a class III medical device, consisting in a hyaluronic acid, chondroitin sulphate and magnesium trisilicate, in addition to the PPIs, in patients with GERD not fully satisfied with their current treatment with PPIs.\n\nPatients will receive either GE",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed and dated informed consent (ICF): a written informed consent must be obtained prior to any study related procedure being performed\n* Male and female out-patients aged 18 to 80 years\n* GERD diagnosis confirmed through a validated questionnaire (GERDQ score ≥ 8).\n* EGD en",
+      "endpoints": [
+        "Overall patient satisfaction"
+      ],
+      "sponsor": "SOFAR S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT04202692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02410278",
+      "title": "A Multicenter, Double- Blind, Placebo- Controlled Study of Montelukast on Gastrointestinal Tolerability in Patients With Relapsing Forms of Multiple Sclerosis Receiving Tecfidera® (Dimethyl Fumarate) Delayed Release Capsules",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-03-12",
+      "completion_date": "2017-04-27",
+      "country": "United States",
+      "enrollment": 102,
+      "brief_summary": "The primary objective of this study is to evaluate whether montelukast can reduce the severity of gastrointestinal (GI) events, measured by the Gastrointestinal Symptom Rating Scale (GSRS), after oral administration of dimethyl fumarate (DMF) in participants with relapsing forms of Multiple Sclerosis (MS). The secondary objectives of this study are as follows: To evaluate whether montelukast after oral administration of DMF in participants with relapsing forms of MS decreases discontinuations du",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Reside in the United States and have a confirmed diagnosis of a relapsing form of MS and satisfy the therapeutic indication as described in the local label\n* As perceived by the Investigator, have the ability to comply with all requirements of the study protocol and to ope",
+      "endpoints": [
+        "Percentage of Participants With a Worsening in Severity of Gastrointestinal (GI) Adverse Events (AEs) on the GSRS From Day 0 to Day 10"
+      ],
+      "sponsor": "Biogen",
+      "url": "https://clinicaltrials.gov/study/NCT02410278"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06321796",
+      "title": "Microbiota Transfer Therapy for Children and Adults With Both Pitt Hopkins Syndrome and Gastrointestinal Disorders: MTP-101 P",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-02-27",
+      "completion_date": "2025-05",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The investigators propose to investigate Microbiota Transfer Therapy (MTT) for treating patients with Pitt-Hopkins Syndrome (PTHS) and gastrointestinal problems (constipation, bloating, abdominal pain). MTT involves a combination of 10 days of oral vancomycin (an antibiotic to kill pathogenic bacteria), followed by 1 day of bowel cleanse using magnesium citrate, followed by 4 days of high dose MTP-101P with an antacid, followed by 12 weeks of a lower maintenance dose of MTP-101P with an antacid.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children ages 5 to \\<18 years and adults ages 18 to \\< 55 years with Pitt Hopkins Syndrome (verified by genetic testing)\n2. GI disorder as defined below that has lasted for at least 2 years.\n3. No changes in medications, supplements, diet, or therapies in the 2 months prior t",
+      "endpoints": [
+        "Daily Stool Record (DSR)",
+        "Safety Measures (Adverse Events)"
+      ],
+      "sponsor": "Gut-Brain-Axis Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06321796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03001011",
+      "title": "A Randomized, Double Blind, Parallel Group Study For Assessing The Efficacy And Safety Of Renvela® Tablets For The Treatment Of Hyperphosphatemia In Patients With Chronic Kidney Disease Not On Dialysis Versus Placebo",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-06-07",
+      "completion_date": "2019-08-16",
+      "country": "China",
+      "enrollment": 202,
+      "brief_summary": "Primary Objective:\n\nTo demonstrate efficacy of Renvela tablets in the reduction of serum phosphorus in hyperphosphatemia in participants with chronic kidney disease not on dialysis.\n\nSecondary Objectives:\n\nTo document the efficacy of Renvela tablets in the reduction of serum lipids (total cholesterol and low-density lipoprotein cholesterol \\[LDL-C\\]).\n\nTo document the efficacy of Renvela tablets in the reduction of calcium-phosphorus product.\n\nTo document the efficacy of Renvela tablets in the r",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participants with chronic kidney disease who had not been on dialysis, and were not expected to begin dialysis, or renal transplantation in the next 4 months from the screening visit.\n* Had serum phosphorus measurement greater than or equal to (\\>=) 5.5 mg/dL (1.78 mmol/L) at ",
+      "endpoints": [
+        "Change From Baseline in Serum Phosphorus at Week 8"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03001011"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02684643",
+      "title": "Study of Individualized Therapy on Hyperphosphatemia in Maintenance Hemodialysis Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-01",
+      "completion_date": "2017-04",
+      "country": "China",
+      "enrollment": 72,
+      "brief_summary": "This study is designed to study and compare the efficacy and cost-effectiveness of individualized phosphate-lowering therapy in comparison with regular guideline-recommended therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* aged 18-70 years' old\n* dialysis vintage more than 3 months on maintenance hemodialysis patients\n* using internal arteriovenous fistula\n* S\\[P\\] \\> 1.45 mmol/l, PTH (parathyroid hormone, PTH) \\< 900 ng/ml\n* no residual renal function (RRF)\n* stable dietary habit\n* clear consci",
+      "endpoints": [
+        "Serum phosphate level at the end of the trial"
+      ],
+      "sponsor": "Huashan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02684643"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01412398",
+      "title": "Special Drug Use Investigation of Fosrenol (Investigation for Patients With Continuous Ambulatory Peritoneal Dialysis)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-04-07",
+      "completion_date": "2016-09-01",
+      "country": "Japan",
+      "enrollment": 446,
+      "brief_summary": "This study is a regulatory post marketing surveillance in Japan, and it is a local prospective and observational study of patients in continuous ambulatory peritoneal dialysis (CAPD) who have received Fosrenol for hyperphosphatemia. The objective of this study is to assess safety and efficacy of using Fosrenol in clinical practice. This study is also all case investigation of which the enrollment period is one year, and all patients in CAPD who received Fosrenol for hyperphosphatemia will be rec",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients undergoing continuous ambulatory peritoneal dialysis who received Fosrenol for hyperphosphatemia\n\nExclusion Criteria:\n\n* Patients who are contraindicated based on the product label",
+      "endpoints": [
+        "Incidence of adverse drug reactions in subjects who received Fosrenol",
+        "Incidence of serious adverse events in subjects who received Fosrenol"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT01412398"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02965053",
+      "title": "A Single-center, Randomized, 2-Period, Crossover, Study to Explore The Safety, Pharmacokinetics, Pharmacodynamics, and Efficacy of EOS789 in Patients With Chronic Kidney Disease and Hyperphosphatemia on Hemodialysis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-12",
+      "completion_date": "2018-08",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "This study is a randomized study designed as a 2x2 cross-over in two periods (Period 1 and Period 2) to assess the safety, pharmacokinetics (PK), pharmacodynamics (PD), and efficacy of EOS789 in patients with chronic kidney disease (CKD) and hyperphosphatemia receiving hemodialysis. Period 1 is double-blind and Period 2 is open-label. Period 1 and Period 2 are identical with regard to the design, inclusion/exclusion criteria, and assessments. EOS789 and its combination with sevelamer carbonate a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Patients with CKD and hyperphosphatemia must meet the following criteria for study entry:\n\n* Age ≥18 years\n* On thrice-weekly hemodialysis for at least 3 months prior to screening\n* Not having changed dialysis prescription within 4 weeks prior to screening for dialyzer, calci",
+      "endpoints": [
+        "Safety: Incidences of adverse events",
+        "Safety: Change from baseline in vital signs",
+        "Safety: Change from baseline in clinical laboratory tests"
+      ],
+      "sponsor": "Chugai Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT02965053"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04606017",
+      "title": "Influence of Vitamin D3 Supplementation on Infliximab Efficacy in Chinese Patients With Crohn's Disease: A Retrospective Cohort Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-01-01",
+      "completion_date": "2020-06-01",
+      "country": "China",
+      "enrollment": 70,
+      "brief_summary": "Background: It remains uncertain whether vitD3 supplementation is beneficial for remission of Crohn's disease (CD). The influence of vitD3 supplementation on Infliximab (IFX) efficacy was retrospectively analyzed in Chinese CD patients. Methods: Patients with moderate-to-severe CD, who were bio-naïve and prescribed with IFX treatment for at least 54 weeks were recorded. VitD3 supplementation was defined as patients additionally took oral vitD3 (125 IU/d) within 3 days after the first infusion an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* moderate-to-severe CD\n* Treated with Infliximab\n* bio-naïve at the time of diagnosis\n\nExclusion Criteria:\n\n* had recent supplementation of vitD3\n* had prior or concomitant use of other biologic agent, glucocorticoid and/or immunomodulators at the time of enrollment\n* pregnant\n",
+      "endpoints": [
+        "Serum 25 (OH) D level",
+        "disease activity"
+      ],
+      "sponsor": "Second Affiliated Hospital of Wenzhou Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT04606017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05381168",
+      "title": "Efficacy and Safety of Calcium From Fish Bone in Volunteers With Osteopenia",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-05-20",
+      "completion_date": "2022-12-31",
+      "country": "N/A",
+      "enrollment": 48,
+      "brief_summary": "The aims of this study are to explore efficacy and safety of calcium from fish bone in volunteers with osteopenia. The volunteers are divided into 2 groups which are calcium from fish bone treatment group and calcium carbonate treatment group. Both groups received the calciums everyday for 6 months. Bone mineral density, blood examination, physical examination, adverse events, and satisfaction are evaluated before and after treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male age more than 70 years or female age more than 65 years or all age volunteers that have at least 1 risk factors which are menopause before 45 years, menopause with the height reduction (more than 4 cm), body mass index less than 20 kg/mm2, bone fracture history, taking so",
+      "endpoints": [
+        "Bone mineral density score"
+      ],
+      "sponsor": "Chulalongkorn University",
+      "url": "https://clinicaltrials.gov/study/NCT05381168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00833768",
+      "title": "A Randomised, Double-Blind, Placebo-Controlled Study to Investigate the Efficacy and Safety of Sevelamer Carbonate Tablets Dosed Three Times a Day in Hyperphosphataemic Chronic Kidney Disease (CKD) Patients Not on Dialysis",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-01",
+      "completion_date": "2009-09",
+      "country": "Italy, Germany, Greece, Portugal, Sweden, France, Austria, Hungary, Spain",
+      "enrollment": 5,
+      "brief_summary": "Approximately 207 hyperphosphatemic CKD patients not on dialysis will be entered into this study at approximately 50 sites within approximately 9 European countries. The purpose of this study is to determine if sevelamer carbonate tablets dosed three times a day (TID) is a safe and effective treatment for the control of serum phosphorous levels in hyperphosphatemic CKD patients not on dialysis. Total length of participation is approximately 24 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Serum phosphorus measurement ≥4.6 mg/dL (≥1.49 mmol/L) and ≤5.5 mg/dL (≤1.76 mmol/L after discontinuation of current phosphate binder therapy if applicable.\n\nExclusion Criteria:\n\n* Active dysphagia or swallowing disorder or a predisposition to or current bowel obstruction, ile",
+      "endpoints": [
+        "To compare the efficacy and safety of sevelamer carbonate and placebo dosed three times per day (TID) on serum phosphorus levels"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00833768"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04551300",
+      "title": "A Phase 2 Study to Evaluate the Safety and Efficacy of Escalated and Fixed Doses of VS-505(AP301) in Comparison With Sevelamer Carbonate to Treat Hyperphosphatemia in Chronic Kidney Disease Patients Receiving Hemodialysis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-10-13",
+      "completion_date": "2022-10-15",
+      "country": "China",
+      "enrollment": 158,
+      "brief_summary": "A multi-center, open-label, parallel-design, active-controlled phase 2 study to evaluate the tolerability, safety and efficacy of various dosages of VS-505 compared with Sevelamer Carbonate when given orally with meal for 6 weeks to treat hyperphosphatemia in chronic kidney disease subjects receiving maintenance hemodialysis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults with end stage renal disease who are receiving a stable hemodialysis regimen (3 times per week) with sufficient dialysis adequacy;\n* Serum phosphorus level range from \\>1.94 mmol/L (6.0 mg/dL) to ≤3.23 mmol/L (10.0 mg/dL) at the end of washout phase.\n\nExclusion Criteria",
+      "endpoints": [
+        "Serum phosphorus change from baseline to end of treatment"
+      ],
+      "sponsor": "Shanghai Alebund Pharmaceuticals Limited",
+      "url": "https://clinicaltrials.gov/study/NCT04551300"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00785629",
+      "title": "A Double Blind Randomized Placebo Controlled Trial of Maintenance of Normal Serum Phosphorus in Chronic Kidney Disease (CKD)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2011-07",
+      "country": "United States",
+      "enrollment": 148,
+      "brief_summary": "The purpose of this study is to determine the ability of 3 commercially available phosphorus binders (calcium acetate, sevelamer carbonate, and lanthanum carbonate) to achieve and maintain a phosphorus level in the normal range in patients with chronic kidney disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or women \\> 18 years of age;\n* Has signed and dated the most recent informed consent form approved by an IRB;\n* Will, in the opinion of the PI, be compliant with prescribed phosphate binder therapy;\n* Must be able to communicate with the investigator, and be able to unders",
+      "endpoints": [
+        "Serum Phosphorus"
+      ],
+      "sponsor": "Denver Nephrologists, P.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00785629"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00268957",
+      "title": "A Randomized, Parallel, Open-Label Study to Compare Once Per Day Sevelamer Carbonate Powder Dosing With Three Times Per Day Sevelamer Hydrochloride Tablet Dosing in Chronic Kidney Disease Patients on Hemodialysis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2007-05",
+      "country": "United States",
+      "enrollment": 217,
+      "brief_summary": "Approximately 207 patients with chronic kidney disease (CKD) on hemodialysis will be entered into this study at approximately 26 centers in the United States. This study aims to evaluate the safety and efficacy of sevelamer carbonate powder dosed once-a-day (QD) with the largest meal compared to sevelamer hydrochloride tablets dosed three-times-per-day (TID) with meals. The total length of participation is approximately 24 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* On three times per week hemodialysis for three months or longer\n* Currently on a phosphate binder(s)\n* Considered compliant with phosphate binders and hemodialysis therapy\n* Willing to avoid any intentional changes in diet such as fasting or dieting\n* Have the following docume",
+      "endpoints": [
+        "Demonstrate the efficacy of sevelamer carbonate powder dosed QD with the largest meal to sevelamer hydrochloride tablets dosed TID with meals on the control of serum phosphorus",
+        "Evaluate the safety and tolerability of sevelamer carbonate powder dosed QD with the largest meal compared to sevelamer hydrochloride tablets dosed TID with meals"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00268957"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01630629",
+      "title": "\"Bone Density and Calcitropic Hormones During Lactation in African-American and Caucasian Women\"",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2015-09",
+      "country": "United States",
+      "enrollment": 77,
+      "brief_summary": "Changes in maternal calcium metabolism are necessary during lactation to provide adequate calcium in breast milk for development of the newborn skeleton. The calcium in milk is derived from the maternal skeleton, resulting in significant bone loss, a process thought to be mediated by the actions of parathyroid hormone-related protein (PTHrP) in combination with a decreased estrogen levels. After weaning, bone lost during lactation is rapidly regained.\n\nDifferences between African-American and Ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 21-45 years old\n* Post-partum after a singleton pregnancy\n* Exclusively breast-feeding (not more than one supplemental bottle of formula per day)\n* African-American or Caucasian by self-identification\n\nExclusion Criteria:\n\n* Subjects with cardiac, hypertensive, vascular, renal",
+      "endpoints": [
+        "Change from baseline in bone density measurements (BMD)"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT01630629"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06660524",
+      "title": "Clinical Study on the Influence of Calcium and Phosphorus Regulation Therapy on Valvular Heart Disease.",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-03-01",
+      "completion_date": "2025-12",
+      "country": "China",
+      "enrollment": 196,
+      "brief_summary": "The goal of this clinical trial is to learn if calcium-phosphorus regulation therapy can slow the progression of heart valve calcification in patients with degenerative heart valve disease and chronic kidney disease (CKD). The main questions it aims to answer are:\n\n* Does Sevelamer lower the progression of heart valve calcification compared to calcium carbonate over 12 months?\n* What are the impacts of calcium-phosphorus regulation therapy on major cardiovascular events such as heart failure, ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 50 years old.\n\n  * Degenerative valvular heart disease clearly diagnosed by ultrasound or clinical history with calcification manifestation (including no stenosis or insufficiency due to calcification, mild, moderate and severe stenosis and insufficiency caused by calcif",
+      "endpoints": [
+        "The change of valve calcification score on CT scan from baseline to 1 year of treatment."
+      ],
+      "sponsor": "China National Center for Cardiovascular Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT06660524"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01696279",
+      "title": "A 3-part Open-label Study to Assess the Pharmacokinetics of Lanthanum Carbonate, Compare the Efficacy, Safety and Tolerability of 8 Weeks of Treatment With Lanthanum Carbonate and Calcium Carbonate Using a Crossover Design and Investigate the Efficacy and Safety of 8 Months of Treatment With Lanthanum Carbonate in Hyperphosphataemic Children and Adolescents Aged 10 Years to <18 Years With Chronic Kidney Disease on Dialysis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-02-15",
+      "completion_date": "2018-11-16",
+      "country": "Germany, Hungary, Chile, Turkey (Türkiye), Czechia, Russia, Poland, Argentina, Romania",
+      "enrollment": 63,
+      "brief_summary": "The purpose of this study is to summarize the percentage of participants achieving age-specific Kidney Disease Outcomes Quality Initiative (KDOQI) targets for serum phosphorus in hyperphosphatemic children and adolescents with chronic kidney disease (CKD) who are on dialysis, following 8 weeks of treatment with lanthanum carbonate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 10 years to less than (\\<) 18 years of age at the time of consent.\n2. Participant or parent/legally authorized representative (LAR) understand and are able, willing, and likely to fully comply with the study procedures and restrictions defined in this protocol.\n3. Male, ",
+      "endpoints": [
+        "Percentage of Participants Achieving Age-Specific Kidney Disease Outcomes Quality Initiative (KDOQI) Targets for Serum Phosphate Level Following 8 Weeks of Lanthanum Carbonate Administration (Part 2 + Part 3)"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT01696279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01289626",
+      "title": "Evaluation of Efficacy of Lanthanum Carbonate (Fosrenol) in Patients With Calciphylaxis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-02",
+      "completion_date": "2013-05",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "The research question and primary aim is to determine if lanthanum carbonate is effective in treating calciphylaxis by measurement of complete or partial remission of skin lesions. Secondary endpoints will be measured to determine if lanthanum carbonate can lower calcium-phosphorus product levels, intact PTH and mortality. Albumin levels will be measured as a marker of nutritional status and inflammation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* i Participants will have signed a witnessed informed consent. ii Participants will be greater than or equal to 18 years of age iii Chronic renal failure receiving hemodialysis or peritoneal dialysis iv A diagnosis of calciphylaxis proven by skin biopsy or initial dermatology v",
+      "endpoints": [
+        "Remission of calciphylaxis skin lesions"
+      ],
+      "sponsor": "University of Wisconsin, Madison",
+      "url": "https://clinicaltrials.gov/study/NCT01289626"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "23228382",
+      "title": "Lanthanum carbonate inhibits intestinal oxalate absorption and prevents nephrocalcinosis after oxalate loading in rats.",
+      "abstract": "Increased intestinal oxalate absorption leads to increased urinary oxalate excretion (secondary hyperoxaluria) and calcium oxalate crystal formation, contributing to nephrocalcinosis/lithiasis. Lanthanum carbonate is an intestinal phosphate binder that is orally administered to patients on dialysis to treat hyperphosphatemia. It is hypothesized that lanthanum can also bind oxalate, in addition to phosphate. We evaluated this in vitro and in vivo.",
+      "journal": "The Journal of urology",
+      "year": "2013",
+      "authors": [
+        "Robijn Stef",
+        "Vervaet Benjamin A",
+        "Hoppe Bernd",
+        "D'Haese Patrick C",
+        "Verhulst Anja"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Intestinal Absorption",
+        "Lanthanum",
+        "Male",
+        "Nephrocalcinosis",
+        "Oxalates",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23228382/"
+    },
+    {
+      "pmid": "2507975",
+      "title": "Safety and efficacy of calcium carbonate in children with chronic renal failure.",
+      "abstract": "The safety and clinical efficacy of calcium carbonate therapy in children with chronic renal failure were assessed in 68 patients (average age 8.38 years) during a mean follow-up period of 19.9 months (range 1.2-49.4). Forty-seven episodes of hypercalcaemia occurred in 29 children (3.5 episodes per 100 patient-months). There were no significant differences in mean GFR or biochemical parameters between these patients at the start of calcium carbonate therapy and the group of children who never experienced hypercalcaemia. Good control of secondary hyperparathyroidism and a significant reduction in serum aluminum were achieved. Two of 23 hypercalcaemic patients showed nephrocalcinosis on ultrasonography. 99Tc pyrophosphate scanning failed to detect any other ectopic calcification. The incidence of hypercalcaemia increased significantly when the GFR was less than 15 ml/min per 1.73 m2 and was most frequent in children receiving dialysis (48 episodes per 100 patient-months). The decrease in",
+      "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+      "year": "1989",
+      "authors": [
+        "Clark A G",
+        "Oner A",
+        "Ward G",
+        "Turner C",
+        "Rigden S P"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Calcium Carbonate",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Glomerular Filtration Rate",
+        "Humans",
+        "Hypercalcemia",
+        "Infant",
+        "Kidney Failure, Chronic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2507975/"
+    },
+    {
+      "pmid": "9203205",
+      "title": "Severe hypercalcemia, renal failure, and medullary nephrocalcinosis secondary to calcium carbonate ingestion.",
+      "abstract": "",
+      "journal": "Pediatric nephrology (Berlin, Germany)",
+      "year": "1997",
+      "authors": [
+        "Blau E B",
+        "Hoyman S"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Acute Kidney Injury",
+        "Calcium Carbonate",
+        "Child",
+        "Down Syndrome",
+        "Female",
+        "Humans",
+        "Hypercalcemia",
+        "Kidney Medulla",
+        "Nephrocalcinosis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9203205/"
+    },
+    {
+      "pmid": "8906632",
+      "title": "Effects of calcium gluconate on the utilization of magnesium and the nephrocalcinosis in rats fed excess dietary phosphorus and calcium.",
+      "abstract": "The effects of calcium gluconate on the utilization of magnesium and nephrocalcinosis in male Wistar rats made magnesium-deficient by adding excess dietary phosphorus (1.195 g of phosphorus/100 g of diet) and calcium (1.04 g of calcium/100 g of diet) were compared with the effects of calcium carbonate. The effects of dietary magnesium concentration on the magnesium status and nephrocalcinosis were also examined. Adding excess dietary phosphorus and calcium decreased the apparent magnesium absorption ratios and the concentrations of magnesium in the serum and femur and increased the deposition of calcium in the kidney, and the low magnesium condition (0.024 g of magnesium/100 g of diet) aggravated the deposition of calcium and the low magnesium status. The apparent magnesium absorption ratios and femur magnesium concentration in the rats fed a calcium gluconate diet (an equimolar mixture of calcium gluconate and calcium carbonate was used as a source of calcium) were significantly highe",
+      "journal": "Journal of nutritional science and vitaminology",
+      "year": "1996",
+      "authors": [
+        "Chonan O",
+        "Takahashi R",
+        "Kado S",
+        "Nagata Y",
+        "Kimura H"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Absorption",
+        "Animals",
+        "Bone and Bones",
+        "Calcium",
+        "Calcium Carbonate",
+        "Calcium Gluconate",
+        "Diet",
+        "Eating",
+        "Femur",
+        "Kidney"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8906632/"
+    },
+    {
+      "pmid": "7965206",
+      "title": "Dietary calcium chloride vs. calcium carbonate reduces urinary pH and phosphorus concentration, improves bone mineralization and depresses kidney calcium level in cats.",
+      "abstract": "The effect of dietary calcium chloride vs. calcium carbonate on mineral metabolism was studied in cats. Ovariectomized cats and female kittens were fed purified diets with a normal calcium level (9.5 mmol Ca/MJ) but containing either calcium carbonate or calcium chloride, or were fed diets with a high calcium level (17.7 mmol Ca/MJ) containing either calcium carbonate alone or equimolar amounts of both calcium carbonate and calcium chloride. A 4 x 4-wk cross-over study using adult cats and a 31-wk parallel study using kittens were conducted. Calcium, phosphorus and magnesium balances were established regularly. In the course of the experiment with the kittens, blood samples were taken and X-ray photographs of the tibiae made. At the age of 39 wk, the kittens were killed, and organs and bones were collected. In both adult cats and kittens fed the high calcium diets, urinary concentrations of magnesium and phosphorus and apparent absorption of these minerals were lower than after feeding",
+      "journal": "The Journal of nutrition",
+      "year": "1994",
+      "authors": [
+        "Pastoor F J",
+        "Opitz R",
+        "Van 't Klooster A T",
+        "Beynen A C"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aging",
+        "Animals",
+        "Animals, Newborn",
+        "Body Weight",
+        "Calcification, Physiologic",
+        "Calcium Carbonate",
+        "Calcium Chloride",
+        "Calcium, Dietary",
+        "Cats",
+        "Feces"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7965206/"
+    },
+    {
+      "pmid": "15815943",
+      "title": "Nephrolithiasis and nephrocalcinosis in rats with small bowel resection.",
+      "abstract": "Intestinal resection (IR) may lead to hyperoxaluria and nephrolithiasis. A rat model of IR was developed, in which kidney stones form. We describe the urine chemistries and histopathologic features. Rats underwent resection of 40-45 cm of distal ileum (n=16) or sham resection (SR) (n=8), and were then fed a 1% Na oxalate, 0.02% Ca diet. After 1 week on the diet, 24 h urine samples were obtained for stone chemistries. At 4-7 months after surgery, kidneys were examined grossly and by light microscopy. The extent and location of crystallization was assessed by polarized light. Histochemistry and infrared spectroscopy were used to determine crystal composition. IR rats had higher urine oxalate excretion (P<0.01) and concentration (P<0.001) than SR rats, and lower urine citrate excretion; only IR rats formed kidney stones (12/15 surviving rats). Tissue calcification was found only in kidneys from IR rats, located in the cortex (83% of kidneys), medulla (73%) and papillary tip (47%). Crystal",
+      "journal": "Urological research",
+      "year": "2005",
+      "authors": [
+        "O'Connor R Corey",
+        "Worcester Elaine M",
+        "Evan Andrew P",
+        "Meehan Shane",
+        "Kuznetsov Dimitri"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Disease Models, Animal",
+        "Ileum",
+        "Kidney Calculi",
+        "Kidney Medulla",
+        "Kidney Pelvis",
+        "Nephrocalcinosis",
+        "Rats",
+        "Urinary Calculi",
+        "Urine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15815943/"
+    },
+    {
+      "pmid": "39586905",
+      "title": "Pediatric hypoparathyroidism: etiological and clinical evaluation in a tertiary center.",
+      "abstract": "This study aims to evaluate the etiology, clinical presentation, and management of pediatric hypoparathyroidism in a tertiary center.",
+      "journal": "Endocrine",
+      "year": "2025",
+      "authors": [
+        "Kocabey Sütçü Zümrüt",
+        "Aytaç Kaplan Emel Hatun",
+        "Önal Hasan"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hypoparathyroidism",
+        "Child",
+        "Female",
+        "Male",
+        "Adolescent",
+        "Child, Preschool",
+        "Retrospective Studies",
+        "Infant",
+        "Tertiary Care Centers"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39586905/"
+    },
+    {
+      "pmid": "1908057",
+      "title": "X-linked recessive nephrolithiasis with renal failure.",
+      "abstract": "Nephrolithiasis may occur as a consequence of a number of hereditary disorders. We describe a large kindred from northern New York with hereditary nephrolithiasis accompanied by urinary concentrating defects, nephrocalcinosis, renal insufficiency, and renal wasting of potassium, phosphate, calcium, and uric acid. The pattern of inheritance was established by examining the patients and their records and interviewing family members. Selected members of the family were evaluated in detail, with measurements of erythrocyte cation fluxes and carbonic anhydrase (carbonate dehydratase) activity.",
+      "journal": "The New England journal of medicine",
+      "year": "1991",
+      "authors": [
+        "Frymoyer P A",
+        "Scheinman S J",
+        "Dunham P B",
+        "Jones D B",
+        "Hueber P"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Carbonic Anhydrases",
+        "Child",
+        "Erythrocytes",
+        "Female",
+        "Genes, Recessive",
+        "Humans",
+        "Kidney",
+        "Kidney Calculi",
+        "Kidney Failure, Chronic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1908057/"
+    },
+    {
+      "pmid": "36146999",
+      "title": "Too much of a good thing: A case series of rare yet pertinent causes of hypercalcaemia and acute kidney injury.",
+      "abstract": "Calcium compounds and vitamin D supplements are readily available as over-the-counter preparations. Whilst integral in maintaining calcium homeostasis in certain patients, excess exogenous intake of these preparations can have deleterious effects, particularly in terms of renal function. We look at the cases of two patients, aged 52 and 34, who were referred into hospital with hypercalcaemia and acute kidney injury (AKI). Both individuals reported regular and prolonged self-medication with unregulated over-the-counter supplements containing calcium carbonate and vitamin D, respectively. Prompt investigation and treatment enabled an element of reversibility of the AKI in both the cases, with further improvement in renal function over time. We emphasise the importance of recognising the overuse of exogenous vitamin D supplements and calcium compounds as rare yet treatable causes of AKI associated with hypercalcaemia and discuss how raising public awareness into the risks posed by self-me",
+      "journal": "The journal of the Royal College of Physicians of Edinburgh",
+      "year": "2022",
+      "authors": [
+        "Munir Mohsin",
+        "Kejeh Kwerinuchi T",
+        "Richardson Michelle L",
+        "Ande Praveen C"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Kidney Injury",
+        "Calcium",
+        "Calcium Carbonate",
+        "Humans",
+        "Hypercalcemia",
+        "Vitamin D"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36146999/"
+    },
+    {
+      "pmid": "8967338",
+      "title": "Evidence of calcium phosphate supersaturation in the loop of Henle.",
+      "abstract": "We have used published rat micropuncture data to construct a matrix of ion concentrations along the rat nephron. With an iterative computer model of known ion interactions, we calculated relative supersaturation ratios in all nephron segments. The collecting ducts and urine showed expected supersaturation with stone-forming salts. Fluid in the thin segment of the loop of Henle may be supersaturated with calcium carbonate and calcium phosphate under certain conditions. Because calculations cannot predict the actual course of crystallization, we made solutions to mimic, in vitro, presumed conditions in the loop of Henle. The solid phases that formed were analyzed by X-ray powder diffraction, electron microprobe, and infrared spectroscopy. All samples were identified as poorly crystallized or immature apatite. The descending limb of Henle's loop creates a unique condition as it extracts water but not sodium, bicarbonate, calcium, or phosphate, giving a calcium concentration at the bend of",
+      "journal": "The American journal of physiology",
+      "year": "1996",
+      "authors": [
+        "Asplin J R",
+        "Mandel N S",
+        "Coe F L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Calcium Phosphates",
+        "Crystallization",
+        "Durapatite",
+        "Electron Probe Microanalysis",
+        "Forecasting",
+        "Loop of Henle",
+        "Models, Biological",
+        "Nephrons",
+        "Rats"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8967338/"
+    },
+    {
+      "pmid": "12924641",
+      "title": "Increased reflux symptoms after calcium carbonate supplementation and successful anti-Helicobacter pylori treatment.",
+      "abstract": "We used data from a randomized placebo-controlled clinical trial to examine the relationship between Helicobacter pylori and reflux symptoms in nonulcer dyspepsia patients randomly assigned anti-Helicobacter pylori triple therapy alone, calcium carbonate alone, or in combination with triple therapy, tetracycline, or placebo. We compared risk differences for posttreatment Helicobacter pylori status and increased reflux symptoms from crude, multivariable and stratified multivariable analyses. In crude analyses, 54% of subjects without Helicobacter pylori after-treatment reported an increase in reflux compared to 41% of those with persistent infection (risk difference = 13%; P = 0.07). Only subjects with multifocal atrophic gastritis assigned to calcium carbonate reported an increase in reflux symptoms more frequently when Helicobacter pylori was absent versus when it persisted (risk difference = 52%; P = 0.0001). Therefore, the interaction of calcium carbonate use, chronic multifocal atr",
+      "journal": "Digestive diseases and sciences",
+      "year": "2003",
+      "authors": [
+        "Fischbach Lori A",
+        "Correa Pelayo",
+        "Feldman Mark",
+        "Fontham Elizabeth",
+        "Priest Elisa"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Evaluation Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Amoxicillin",
+        "Antacids",
+        "Bismuth",
+        "Calcium Carbonate",
+        "Drug Therapy, Combination",
+        "Dyspepsia",
+        "Female",
+        "Gastric Acidity Determination",
+        "Gastritis, Atrophic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12924641/"
+    },
+    {
+      "pmid": "23543983",
+      "title": "The calcium-alkali syndrome.",
+      "abstract": "The milk-alkali syndrome was a common cause of hypercalcemia, metabolic alkalosis, and renal failure in the early 20th century. It was caused by the ingestion of large quantities of milk and absorbable alkali to treat peptic ulcer disease. The syndrome virtually vanished after introduction of histamine-2 blockers and proton pump inhibitors. More recently, a similar condition called the calcium-alkali syndrome has emerged as a common cause of hypercalcemia and alkalosis. It is usually caused by the ingestion of large amounts of calcium carbonate salts to prevent or treat osteoporosis and dyspepsia. We describe a 78-year-old woman who presented with weakness, malaise, and confusion. She was found to have hypercalcemia, acute renal failure, and metabolic alkalosis. Upon further questioning, she reported use of large amounts of calcium carbonate tablets to treat recent heartburn symptoms. Calcium supplements were discontinued, and she was treated with intravenous normal saline. After 5 day",
+      "journal": "Proceedings (Baylor University. Medical Center)",
+      "year": "2013",
+      "authors": [
+        "Arroyo Mariangeli",
+        "Fenves Andrew Z",
+        "Emmett Michael"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23543983/"
+    },
+    {
+      "pmid": "34602015",
+      "title": "Safety and effectiveness of lanthanum carbonate for hyperphosphatemia in chronic kidney disease (CKD) patients: a meta-analysis.",
+      "abstract": "The aim of this study was to determine the efficacy and safety of lanthanum carbonate (LC) versus calcium salts, non-LC phosphate binders (PBs), sevelamer, or placebo in patients with chronic kidney disease (CKD).",
+      "journal": "Renal failure",
+      "year": "2021",
+      "authors": [
+        "Zhao Lijuan",
+        "Liu An",
+        "Xu Guoshuang"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Chronic Kidney Disease-Mineral and Bone Disorder",
+        "Humans",
+        "Hyperphosphatemia",
+        "Lanthanum",
+        "Observational Studies as Topic",
+        "Parathyroid Hormone",
+        "Phosphates",
+        "Randomized Controlled Trials as Topic",
+        "Renal Insufficiency, Chronic",
+        "Sevelamer"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34602015/"
+    },
+    {
+      "pmid": "15356967",
+      "title": "Long-term comparison of a calcium-free phosphate binder and calcium carbonate--phosphorus metabolism and cardiovascular calcification.",
+      "abstract": "Calcium carbonate used as a phosphate binder may contribute to cardiovascular calcification. Long-term comparisons of sevelamer, a non-calcium polymeric phosphate binder, and calcium carbonate (CC) are lacking.",
+      "journal": "Clinical nephrology",
+      "year": "2004",
+      "authors": [
+        "Braun J",
+        "Asmus H G",
+        "Holzer H",
+        "Brunkhorst R",
+        "Krause R"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Calcinosis",
+        "Calcium Carbonate",
+        "Cardiovascular Diseases",
+        "Epoxy Compounds",
+        "Female",
+        "Humans",
+        "Kidney Failure, Chronic",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15356967/"
+    },
+    {
+      "pmid": "7891547",
+      "title": "Milk-alkali syndrome associated with calcium carbonate consumption. Report of 7 patients with parathyroid hormone levels and an estimate of prevalence among patients hospitalized with hypercalcemia.",
+      "abstract": "Milk-alkali syndrome can be caused by ingesting large amounts of calcium carbonate. Coincident with the promotion of calcium carbonate as treatment for both dyspepsia and osteoporosis, milk-alkali syndrome is now a common cause of hypercalcemia severe enough to require admission to the hospital. The syndrome accounted for less than 2% of such admissions before 1990, but from 1990 through 1993, it was the cause of hypercalcemia for over 12% of these patients. Only primary hyperparathyroidism and hypercalcemia of malignancy (excluding multiple myeloma) are more common. The diagnosis of milk-alkali syndrome is made almost entirely based on the patient's history; careful attention to dietary practices and over-the-counter drug use is required, as numerous over-the-counter medications contain calcium carbonate. Modern assays for PTH demonstrate the expected suppression of PTH by hypercalcemia. Nonetheless, measurement of PTH must be performed in a timely manner as treatment with intravenous",
+      "journal": "Medicine",
+      "year": "1995",
+      "authors": [
+        "Beall D P",
+        "Scofield R H"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Calcium Carbonate",
+        "Female",
+        "Hospitalization",
+        "Humans",
+        "Hypercalcemia",
+        "Immunoradiometric Assay",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7891547/"
+    },
+    {
+      "pmid": "9586828",
+      "title": "Growth and recurrence of colorectal polyps: a double-blind 3-year intervention with calcium and antioxidants.",
+      "abstract": "Dietary calcium and antioxidants have been suggested as protective agents against colorectal cancer. This has been supported by animal experimental studies, case control and cohort studies.",
+      "journal": "Digestion",
+      "year": "1998",
+      "authors": [
+        "Hofstad B",
+        "Almendingen K",
+        "Vatn M",
+        "Andersen S N",
+        "Owen R W"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adenoma",
+        "Aged",
+        "Antioxidants",
+        "Ascorbic Acid",
+        "Calcium, Dietary",
+        "Cell Division",
+        "Colonic Polyps",
+        "Colorectal Neoplasms",
+        "Constipation",
+        "Diarrhea"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9586828/"
+    },
+    {
+      "pmid": "40928362",
+      "title": "Water hardness and digestive diseases: a large-scale population-based prospective cohort study.",
+      "abstract": "Water hardness, which refers to the level of dissolved calcium and magnesium salts, is of significant public health concern due to its potential impact on health. The association between water hardness and digestive diseases remains underexplored, with limited evidence from small-scale clinical studies. Given the rising prevalence of digestive disorders worldwide, large-scale cohort studies are needed to address this gap in the literature.",
+      "journal": "International journal of surgery (London, England)",
+      "year": "2026",
+      "authors": [
+        "He Qida",
+        "Sun Mengtong",
+        "Huang Jingting",
+        "Wang Qi",
+        "Adamkiewicz Gary"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Prospective Studies",
+        "Male",
+        "Female",
+        "Digestive System Diseases",
+        "Middle Aged",
+        "Adult",
+        "Hardness",
+        "Aged",
+        "Water"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40928362/"
+    },
+    {
+      "pmid": "10400401",
+      "title": "Antacids revisited: a review of their clinical pharmacology and recommended therapeutic use.",
+      "abstract": "Antacids are commonly used self-prescribed medications. They consist of calcium carbonate and magnesium and aluminum salts in various compounds or combinations. The effect of antacids on the stomach is due to partial neutralisation of gastric hydrochloric acid and inhibition of the proteolytic enzyme, pepsin. Each cation salt has its own pharmacological characteristics that are important for determination of which product can be used for certain indications. Antacids have been used for duodenal and gastric ulcers, stress gastritis, gastro-oesophageal reflux disease, pancreatic insufficiency, non-ulcer dyspepsia, bile acid mediated diarrhoea, biliary reflux, constipation, osteoporosis, urinary alkalinisation and chronic renal failure as a dietary phosphate binder. The development of histamine H2-receptor antagonists and proton pump inhibitors has significantly reduced usage for duodenal and gastric ulcers and gastro-oesophageal reflux disease. However, antacids can still be useful for s",
+      "journal": "Drugs",
+      "year": "1999",
+      "authors": [
+        "Maton P N",
+        "Burton M E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antacids",
+        "Clinical Trials as Topic",
+        "Drug Interactions",
+        "Gastrointestinal Diseases",
+        "Humans",
+        "Kidney Failure, Chronic",
+        "Oxidation-Reduction",
+        "Urine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10400401/"
+    },
+    {
+      "pmid": "28473363",
+      "title": "Antacid abuse: a rare cause of severe hypercalcaemia.",
+      "abstract": "We discuss a case of an 81-year-old man who presented to hospital with a case of severe hypercalcaemia (5.07 mmol/L). The two most common causes of hypercalcaemia, making up around 90% of the cases, are malignancy and primary hyperparathyroidism. Initial investigations are guided by this knowledge. In this case, no underlying malignancy or evidence of a parathyroid adenoma causing primary hyperparathyroidism was found. Instead, on further history, it was found that this patient had troublesome dyspepsia symptoms for which he had ingested 10-12 calcium carbonate tablets a day for the preceding 2 years. This amounts to 6.6-7.9 g of calcium carbonate per day compared with the guideline daily intake of calcium of 1 g. His presentation of severe hypercalcaemia was therefore diagnosed as milk-alkali syndrome secondary to calcium carbonate tablet abuse.",
+      "journal": "BMJ case reports",
+      "year": "2017",
+      "authors": [
+        "Stoney Ben",
+        "Bagchi Gautam"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged, 80 and over",
+        "Antacids",
+        "Calcium Carbonate",
+        "Diagnosis, Differential",
+        "Humans",
+        "Hypercalcemia",
+        "Male",
+        "Syndrome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28473363/"
+    },
+    {
+      "pmid": "32675162",
+      "title": "Lessons of the month: Over-the-counter antacids causing hypercalcaemia: The emergence of calcium-alkali syndrome.",
+      "abstract": "We present the case of a woman who was found to have severe hypercalcaemia, staghorn calculus formation and renal impairment from the long-standing ingestion of calcium carbonate antacids from a supermarket outlet. The dosage was reported to be approximately 1,800 mg of elemental calcium each day which would constitute only a marginal increase on the recommended intake for daily elemental calcium. Furthermore, she was concomitantly taking a prescribed anti-hypertensive medication that may have exacerbated the hypercalcaemia and subsequent renal calcification. While calcium-alkali syndrome is well documented, it can be overlooked by clinicians as the predominant cause of hypercalcaemia, especially if a thorough drug history is not actively sought. This is particularly important as calcium carbonate products are increasingly being purchased as over-the-counter remedies for dyspepsia management as well as osteoporosis prevention. Explicit product labelling regarding limiting duration usag",
+      "journal": "Clinical medicine (London, England)",
+      "year": "2020",
+      "authors": [
+        "Maarouf Amro",
+        "Jones Sharon"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Alkalies",
+        "Antacids",
+        "Calcium",
+        "Calcium Carbonate",
+        "Female",
+        "Humans",
+        "Hypercalcemia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32675162/"
+    }
+  ]
+}

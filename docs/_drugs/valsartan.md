@@ -5,7 +5,7 @@ drugbank_id: "DB00177"
 drug_name: "Valsartan"
 kg_predictions: 82
 dl_predictions: 27
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 82
 brands: []
 permalink: /drugs/valsartan/
@@ -21,7 +21,7 @@ permalink: /drugs/valsartan/
 | **DrugBank ID** | [DB00177](https://go.drugbank.com/drugs/DB00177) |
 | **KG Predictions** | 82 |
 | **DL Predictions (≥0.7)** | 27 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

@@ -5,7 +5,7 @@ drugbank_id: "DB00761"
 drug_name: "Potassium Chloride"
 kg_predictions: 108
 dl_predictions: 32
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 108
 brands: []
 permalink: /drugs/potassium-chloride/
@@ -21,7 +21,7 @@ permalink: /drugs/potassium-chloride/
 | **DrugBank ID** | [DB00761](https://go.drugbank.com/drugs/DB00761) |
 | **KG Predictions** | 108 |
 | **DL Predictions (≥0.7)** | 32 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

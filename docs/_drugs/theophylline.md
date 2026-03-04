@@ -5,7 +5,7 @@ drugbank_id: "DB00277"
 drug_name: "Theophylline"
 kg_predictions: 64
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 64
 brands: []
 permalink: /drugs/theophylline/
@@ -21,7 +21,7 @@ permalink: /drugs/theophylline/
 | **DrugBank ID** | [DB00277](https://go.drugbank.com/drugs/DB00277) |
 | **KG Predictions** | 64 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

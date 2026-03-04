@@ -5,7 +5,7 @@ drugbank_id: "DB00766"
 drug_name: "Clavulanic Acid"
 kg_predictions: 110
 dl_predictions: 194
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 110
 brands: []
 permalink: /drugs/clavulanic-acid/
@@ -21,7 +21,7 @@ permalink: /drugs/clavulanic-acid/
 | **DrugBank ID** | [DB00766](https://go.drugbank.com/drugs/DB00766) |
 | **KG Predictions** | 110 |
 | **DL Predictions (≥0.7)** | 194 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

@@ -5,7 +5,7 @@ drugbank_id: "DB00563"
 drug_name: "Methotrexate"
 kg_predictions: 150
 dl_predictions: 415
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 150
 brands: []
 permalink: /drugs/methotrexate/
@@ -21,7 +21,7 @@ permalink: /drugs/methotrexate/
 | **DrugBank ID** | [DB00563](https://go.drugbank.com/drugs/DB00563) |
 | **KG Predictions** | 150 |
 | **DL Predictions (≥0.7)** | 415 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

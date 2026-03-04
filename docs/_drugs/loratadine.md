@@ -5,7 +5,7 @@ drugbank_id: "DB00455"
 drug_name: "Loratadine"
 kg_predictions: 297
 dl_predictions: 18
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 297
 brands: []
 permalink: /drugs/loratadine/
@@ -21,7 +21,7 @@ permalink: /drugs/loratadine/
 | **DrugBank ID** | [DB00455](https://go.drugbank.com/drugs/DB00455) |
 | **KG Predictions** | 297 |
 | **DL Predictions (≥0.7)** | 18 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

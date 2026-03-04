@@ -5,7 +5,7 @@ drugbank_id: "DB00684"
 drug_name: "Tobramycin"
 kg_predictions: 78
 dl_predictions: 296
-evidence_level: "L5"
+evidence_level: "L4"
 indication_count: 78
 brands: []
 permalink: /drugs/tobramycin/
@@ -21,7 +21,7 @@ permalink: /drugs/tobramycin/
 | **DrugBank ID** | [DB00684](https://go.drugbank.com/drugs/DB00684) |
 | **KG Predictions** | 78 |
 | **DL Predictions (≥0.7)** | 296 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L4 |
 | **NPRA Status** | Approved |
 
 ---

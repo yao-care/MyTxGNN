@@ -5,7 +5,7 @@ drugbank_id: "DB00338"
 drug_name: "Omeprazole"
 kg_predictions: 126
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 126
 brands: []
 permalink: /drugs/omeprazole/
@@ -21,7 +21,7 @@ permalink: /drugs/omeprazole/
 | **DrugBank ID** | [DB00338](https://go.drugbank.com/drugs/DB00338) |
 | **KG Predictions** | 126 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

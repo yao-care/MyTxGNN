@@ -1,0 +1,1075 @@
+{
+  "drug": "Bortezomib",
+  "drugbank_id": "DB00188",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T11:00:19Z",
+  "indications": [
+    {
+      "indication": "B-cell neoplasm",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 15,
+        "phase1_trials": 1,
+        "other_trials": 0,
+        "rct_articles": 4,
+        "review_articles": 3,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "plasma cell myeloma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 15,
+        "phase1_trials": 2,
+        "other_trials": 2,
+        "rct_articles": 2,
+        "review_articles": 3,
+        "other_articles": 5,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "lymphosarcoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 13,
+        "phase1_trials": 3,
+        "other_trials": 1,
+        "rct_articles": 2,
+        "review_articles": 4,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "mantle cell lymphoma",
+      "evidence_level": "L2",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 16,
+        "phase1_trials": 2,
+        "other_trials": 2,
+        "rct_articles": 1,
+        "review_articles": 7,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "B-cell neoplasm",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 15,
+        "phase1_trials": 1,
+        "other_trials": 0,
+        "rct_articles": 4,
+        "review_articles": 3,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 100,
+  "total_articles": 50,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04133636",
+      "title": "A Phase 2, Multicohort Open-Label Study of JNJ-68284528, a Chimeric Antigen Receptor T Cell (CAR-T) Therapy Directed Against BCMA in Subjects With Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-11-07",
+      "completion_date": "2029-09-03",
+      "country": "Netherlands, Germany, France, Israel, Belgium, Spain, United States, Saudi Arabia",
+      "enrollment": 210,
+      "brief_summary": "The purpose of this study is to evaluate the overall minimal residual disease (MRD) negative rate of participants who receive JNJ-68284528.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Cohort A: Received a minimum of 1 to a maximum of 3 prior lines of therapy including a proteasome inhibitor (PI) and immunomodulatory therapy (IMiD), and lenalidomide refractory per International Myeloma Working Group (IMWG) guidelines\n* Cohort B: Received one line of prior th",
+      "endpoints": [
+        "Cohorts A, B, C, D, E, and F: Percentage of Participants with Negative Minimal Residual Disease (MRD)",
+        "Cohorts G and H: Percentage of Participants with Sustained MRD Negative Complete Response (CR)"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT04133636"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00508209",
+      "title": "Phase II Study of Bortezomib Dexamethasone and High-dose Melphalan in Patients With Relapse After High-dose Melphalan With Autologous Stem Cell Support",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2007-07",
+      "completion_date": "2010-09",
+      "country": "Norway, Denmark, Sweden",
+      "enrollment": 50,
+      "brief_summary": "The prognosis after retreating with high-dose melphalan with stem cell support after first relapse after high-dose treatment is dependent on the time to first relapse. Bortezomib can increase chemosensitivity of e.g. melphalan. The trial aims at determining the toxicity of adding bortezomib to high-dose melphalan with stem cell support and evaluating whether the time to a second relapse can be prolonged.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* First relapse after ASCT\n* Symptomatic myeloma\n* More than 2,0 x 10\\^6 CD34+ stem cells / kg bodyweight in the freezer for stem cell support\n* Signed informed consent given prior to any study related activities have been performed\n* Age \\> 18 years\n\nExclusion Criteria:\n\n* Allo",
+      "endpoints": [
+        "Comparison of the event free survival after first high-dose melphalan with stem cell support (ASCT) and a second ASCT combined with bortezomib treatment of first relapse"
+      ],
+      "sponsor": "Nordic Myeloma Study Group",
+      "url": "https://clinicaltrials.gov/study/NCT00508209"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02112916",
+      "title": "A Phase III Randomized Trial Investigating Bortezomib (NSC# 681239) on a Modified Augmented BFM (ABFM) Backbone in Newly Diagnosed T-Lymphoblastic Leukemia (T-ALL) and T-Lymphoblastic Lymphoma (T-LLy)",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2014-10-04",
+      "completion_date": "2026-09-16",
+      "country": "Australia, New Zealand, Canada, United States",
+      "enrollment": 847,
+      "brief_summary": "This randomized phase III trial compares how well combination chemotherapy works when given with or without bortezomib in treating patients with newly diagnosed T-cell acute lymphoblastic leukemia or stage II-IV T-cell lymphoblastic lymphoma. Bortezomib may help reduce the number of leukemia or lymphoma cells by blocking some of the enzymes needed for cell growth. It may also help chemotherapy work better by making cancer cells more sensitive to the drugs. It is not yet known if giving standard ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* T-ALL: T-ALL patients must be enrolled on AALL08B1 or Project:EveryChild (APEC14B1, if open for the classification of ALL patients) prior to treatment and enrollment on AALL1231\n* All patients must be \\> 1 and \\< 31 years of age\n* Patients must have newly diagnosed T-lymphobla",
+      "endpoints": [
+        "Event-free Survival (EFS) for Modified Augmented Berlin-Frankfurt-Munster Backbone With or Without Bortezomib in All Randomized Patients"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT02112916"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03314181",
+      "title": "A Phase 1/2, Multicenter, Dose-Escalation and Expansion Study of Combination Therapy With Venetoclax, Daratumumab and Dexamethasone (With and Without Bortezomib) in Subjects With Relapsed or Refractory Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-04-02",
+      "completion_date": "2031-05",
+      "country": "Germany, Japan, Australia, France, Denmark, United States, Canada",
+      "enrollment": 156,
+      "brief_summary": "This is a study of venetoclax, daratumumab, and dexamethasone with and without bortezomib combination therapy to evaluate safety, tolerability, and efficacy of these combinations in participants with relapsed or refractory multiple myeloma. The study will consist of 3 distinct parts: Part 1 includes participants with t(11;14) positive relapsed/refractory (R/R) multiple myeloma who will receive venetoclax in combination with daratumumab and dexamethasone (VenDd); Part 2 includes participants with",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status \\<= 2.\n* Participant has relapsed or refractory multiple myeloma with documented evidence of progression that occurred during or after the participant's last treatment regimen based on investigator's determination of",
+      "endpoints": [
+        "Overall Response Rate (ORR)",
+        "Very Good Partial Response or Better Response Rate (VGPR)",
+        "Complete Response (CR) or Better Rate"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT03314181"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01397591",
+      "title": "Phase II Trial of Ofatumumab and Bortezomib in Subjects With Relapsed Cluster of Differentiation Antigen 20 (CD20)+ Diffuse Large B Cell Lymphoma, Follicular Lymphoma, or Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2011-10",
+      "completion_date": "2013-07",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "This phase II trial studies how well giving ofatumumab together with bortezomib works in treating patients with relapsed diffuse large B cell lymphoma (DLBCL), follicular lymphoma (FL), or mantle cell lymphoma (MCL). Monoclonal antibodies, such as ofatumumab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Bortezomib may stop the growth of cancer cells by ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have biopsy sample obtained within 6 months of study entry that:\n* Is histologically confirmed DLBCL, MCL or FL, by an Oregon Health and Science University (OHSU) hematopathologist\n* Retains expression of CD20+\n* Patients must be refractory to or have recurrent d",
+      "endpoints": [
+        "Response Rate of Ofatumumab in Combination With Bortezomib in Patients With Relapsed CD20+ (Cluster of DIfferentiation Antigen 20) Diffuse Large B Cell Lymphoma, Follicular Lymphoma, or Mantle Cell Lymphoma"
+      ],
+      "sponsor": "OHSU Knight Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01397591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01729338",
+      "title": "Phase II Subcutaneous VELCADE and Oral Cyclophosphamide-based Induction + Sequential VELCADE and Revlimid Maintenance for Newly Diagnosed Multiple Myeloma in Non-transplant Candidates: An Entirely Non-intravenous Regimen",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2012-12-19",
+      "completion_date": "2016-12-31",
+      "country": "United States",
+      "enrollment": 17,
+      "brief_summary": "The primary purpose of this study is to estimate the overall response rate (ORR), defined as partial response (PR) or better at any time during induction therapy. The success of the therapy will be determined by ORR with strong consideration given to the secondary endpoints of tolerability, duration of response, and quality of life (QOL).\n\nAll patients will be treated with the same experimental regimen. Several novel features are being explored: the substitution of cyclophosphamide for melphalan",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Voluntary written informed consent before performance of any study-related procedure not part of normal medical care, with the understanding that consent may be withdrawn by the subject at any time without prejudice to future medical care.\n* Age ≥18 years at the time of signin",
+      "endpoints": [
+        "Overall Response Rate (ORR) During Induction Therapy"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT01729338"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00312845",
+      "title": "A Randomized, Open-Label, Multicenter Study of VELCADE With Rituximab or Rituximab Alone in Subjects With Relapsed or Refractory, Rituximab Naive or Sensitive Follicular B-cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2010-07",
+      "country": "Italy, Thailand, Sweden, Australia, United Kingdom, Spain, Argentina, Cyprus, South Korea, Mexico, Belgium, Czechia, Romania, Ukraine, Portugal, France, Israel, Hungary, New Zealand, Finland, Puerto Rico, India, Canada, Poland, Brazil, Slovakia, Germany, Greece, South Africa, China, Russia, United States",
+      "enrollment": 676,
+      "brief_summary": "The purpose of this study is to determine if the combination of VELCADE and rituximab improves progression free survival relative to rituximab alone in patients with relapsed or refractory B-cell non-Hodgkin's lymphoma (B-NHL) who never received rituximab or who have previously responded to rituximab. This is an international study being conducted in the United States and in many countries around the world. A complete list of study locations is listed below.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects must satisfy the following criteria to be enrolled in the study:\n\n* Man or woman and age 18 years or older\n* Diagnosis of follicular B-NHL of the following subtypes (World Health Organization \\[WHO\\] classification 1997): follicular lymphoma (FL) (Grades 1 and 2).\n* Doc",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "Millennium Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00312845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04991103",
+      "title": "Minimal Residual Disease Response-adapted Deferral of Transplant in Dysproteinemia - MILESTONE Trial",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2021-09-22",
+      "completion_date": "2028-08-27",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This is a phase II interventional study evaluating the use of minimal residual disease by next generation sequencing to defer autologous hematopoietic stem cell transplantation (AHCT) in patients with newly diagnosed multiple myeloma (cohort A) and amyloidosis (cohort B).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years with no upper age limit with a diagnosis of newly diagnosed multiple myeloma with indication for initiation of therapy with Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* No prior therapy except for dexamethasone (up to 160 mg) and/or bortezo",
+      "endpoints": [
+        "Number of patients who are able to attain MRD<10-5 by next generation sequencing after 6 cycles of Dara-VRD and defer AHCT."
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT04991103"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01453088",
+      "title": "(PRO#11307) Phase III Randomized Study of Autologous Stem Cell Transplantation With High-dose Melphalan Versus High-dose Melphalan and Bortezomib in Patients With Multiple Myeloma 65 Year or Older",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-06-24",
+      "completion_date": "2022-05-01",
+      "country": "United States",
+      "enrollment": 63,
+      "brief_summary": "In this study the investigators are comparing this standard regimen to the newly established regimen of melphalan and bortezomib.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of multiple myeloma less than 12 months since initiation of systemic therapy\n* Age ≥60 years at time of transplantation\n* KPS 70-100%\n* Recovery from complications of prior therapy\n\nExclusion Criteria:\n\n* Diagnosis other than multiple myeloma\n* Chemotherapy",
+      "endpoints": [
+        "Progression Free Survival Rate"
+      ],
+      "sponsor": "Hackensack Meridian Health",
+      "url": "https://clinicaltrials.gov/study/NCT01453088"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03652064",
+      "title": "A Phase 3 Study Comparing Daratumumab, VELCADE (Bortezomib), Lenalidomide, and Dexamethasone (D-VRd) With VELCADE, Lenalidomide, and Dexamethasone (VRd) in Subjects With Untreated Multiple Myeloma and for Whom Hematopoietic Stem Cell Transplant is Not Planned as Initial Therapy",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-11-06",
+      "completion_date": "2026-03-31",
+      "country": "Netherlands, Germany, Japan, France, United Kingdom, Israel, Turkey (Türkiye), Czechia, United States, Spain, Canada, Poland, Brazil",
+      "enrollment": 395,
+      "brief_summary": "The purpose of this study to determine if the addition of daratumumab to bortezomib + lenalidomide + dexamethasone (VRd) will improve overall minimal residual disease (MRD) negativity rate compared with VRd alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Diagnosis of multiple myeloma as documented per International Myeloma Working Group (IMWG) criteria Monoclonal plasma cells in the bone marrow greater than or equal to (\\>=)10 percentage (%) or presence of a biopsy proven plasmacytoma and documented multiple myeloma satisfyin",
+      "endpoints": [
+        "Percentage of Participants with Negative Minimal Residual Disease (MRD) Status"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03652064"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00369707",
+      "title": "A Phase II Trial of Combination Bortezomib and Rituximab as Front-line Therapy for Low-grade Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-08-09",
+      "completion_date": "2014-10-10",
+      "country": "United States",
+      "enrollment": 42,
+      "brief_summary": "Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the cancer. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Giving bortezomib together with rituximab may kill more cancer cells.\n\nThis phase II trial is studying how well giving borte",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed low-grade B-lymphocyte non-Hodgkins lymphoma\n* Life expectancy \\> 12 months\n\nExclusion Criteria:\n\n* No known history of HIV infection\n* No other active infection\n* No peripheral neuropathy ≥ grade 2 within the past 14 days\n* No uncontrolled hypertensio",
+      "endpoints": [
+        "Overall Response Rate (Complete Response and Partial Response) After Three Inductions Cycles of Treatment."
+      ],
+      "sponsor": "Northwestern University",
+      "url": "https://clinicaltrials.gov/study/NCT00369707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06913192",
+      "title": "A Single-Center, Open-Label, Single-Arm Clinical Study of Sequential Anti-BCMA CAR-T Cell Therapy Following Autologous Hematopoietic Stem Cell Transplantation in Transplant-Eligible Newly Diagnosed Multiple Myeloma",
+      "phase": "PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2028-02-28",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "1. Study Title A Single-Center, Open-Label, Single-Arm Clinical Study of Sequential Anti-BCMA CAR-T Cell Therapy Following Autologous Hematopoietic Stem Cell Transplantation in Transplant-Eligible Newly Diagnosed Multiple Myeloma\n2. Study Objective This study aims to evaluate the safety and efficacy of sequential anti-BCMA CAR-T cell therapy following autologous hematopoietic stem cell transplantation (ASCT) in transplant-eligible patients with newly diagnosed multiple myeloma (NDMM), in order t",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAge between 18 and 70 years; Estimated life expectancy \\> 12 weeks; Diagnosis of multiple myeloma confirmed by physical examination, histopathology, laboratory tests, and imaging; Liver function: ALT and AST \\< 3 times the upper limit of normal; Karnofsky Performance Status (KPS",
+      "endpoints": [
+        "Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Xuzhou Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT06913192"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00990652",
+      "title": "A Phase II Trial Evaluating the Effects of Bortezomib in Patients With Recurrent Malignant Gliomas Treated Prior to Surgery and Then Bortezomib and Temozolomide Post-operatively",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2012-10",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "Bortezomib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving bortezomib before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. Giving bortezomib together with temozolomide after surgery may kill any tumor cells that remain after ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed malignant glioma, including any of the following subtypes:\n\n  * Glioblastoma multiforme\n  * Gliosarcoma\n  * Anaplastic astrocytoma\n  * Anaplastic oligodendroglioma\n  * Anaplastic mixed oligoastrocytoma\n  * Malignant astrocytoma not otherwise specified\n",
+      "endpoints": [
+        "Number of Patients Surviving Without Disease Progression After 6 Months"
+      ],
+      "sponsor": "Northwestern University",
+      "url": "https://clinicaltrials.gov/study/NCT00990652"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00082966",
+      "title": "A Phase II Study of PS-341 (Bortezomib) in Patients With Relapsed or Refractory Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-03",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 43,
+      "brief_summary": "Phase II trial to study the effectiveness of bortezomib in treating patients who have relapsed or refractory Hodgkin's lymphoma. Bortezomib may stop the growth of cancer cells by blocking the enzymes necessary for their growth.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed classical Hodgkin's lymphoma\n\n  * No bone marrow biopsies or fine needle aspirates as the sole means of diagnosis\n  * Core biopsies allowed if they contain adequate tissue for primary diagnosis\n* The following subtypes are allowed:\n\n  * Nodular scleros",
+      "endpoints": [
+        "Overall response rate",
+        "Time to progression",
+        "Overall survival"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00082966"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00863369",
+      "title": "A Phase I/II Study of VELCADE in Combination With Gemcitabine in Relapsed B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-06-29",
+      "completion_date": "2023-06-20",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as gemcitabine hydrochloride, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry canc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed intermediate or high grade B-cell Non-Hodgkin lymphoma with primary progressive or relapsed disease\n* Patients may have had up to 4 prior chemo-and-or radiation therapy regiments, including one autologous transplant ",
+      "endpoints": [
+        "Number of Participants With at Least One Dose Limiting Toxicity (DLT)",
+        "Recommended Phase II Dose"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00863369"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05114109",
+      "title": "Isatuximab in Type I Cryoglobulinemia: A Prospective Pilot Study",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-11-01",
+      "completion_date": "2023-12-31",
+      "country": "N/A",
+      "enrollment": 21,
+      "brief_summary": "Cryoglobulinaemia is defined as the presence of immunoglobulins in the serum, which reversibly precipitate and form a gel when the temperature drops below 37°C and redissolve upon re-warming. Classification includes three subgroups based on Immunoglobulin (Ig) composition. Type I cryoglobulinaemia consists of only one isotype or subclass of immunoglobulin. Types II and III are classified as mixed cryoglobulinaemia (MC) because they include both IgG and IgM components. Overall, cryoglobulinaemia ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Written informed consent\n* Indolent Multiple myeloma or monoclonal gammopathy of unknown significance (MGUS) with monoclonal IgG component\n* Active cryoglobulinemia vasculitis defined by positive type I IgG cryoglobulinemia and a clinically active cryoglobuli",
+      "endpoints": [
+        "Clinical response W20"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT05114109"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02244125",
+      "title": "A Multicenter Open Label Phase II Study of Pomalidomide and Cyclophosphamide and Dexamethasone in Relapse/Refractory Multiple Myeloma Patients Who Were First Treated Within the IFM/DFCI 2009 Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-04-14",
+      "completion_date": "2023-05-29",
+      "country": "France",
+      "enrollment": 100,
+      "brief_summary": "Imnovid in combination with dexamethasone is indicated in the treatment of adult patients with relapsed and refractory multiple myeloma who have received at least two prior treatment regimens, including both lenalidomide (Revlimid) and bortezomib (Velcade), and have demonstrated disease progression on the last therapy.\n\nPatients with relapsed and refractory multiple myeloma who have received bortezomib, lenalidomide, dexamethasone combination, considered to be the multiple myeloma optimal treatm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must have been treated in first line within the IFM/DFCI 2009 trial to be treated within the PCD trial in second line\n2. Must be able to understand and voluntarily sign an informed consent form\n3. Must be able to adhere to the study visit schedule and other protocol ",
+      "endpoints": [
+        "Response rate (Partial response (PR) or better)"
+      ],
+      "sponsor": "Institut Curie",
+      "url": "https://clinicaltrials.gov/study/NCT02244125"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00072150",
+      "title": "Phase II Trial of PS-341 (Bortezomib) in Patients With Previously Treated Advanced Urothelial Tract Transitional Cell Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-10",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "Bortezomib may stop the growth of tumor cells by blocking the enzymes necessary for tumor cell growth. This phase II trial is studying how well bortezomib works in treating patients with advanced transitional cell carcinoma of the urothelium.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologic diagnosis of transitional cell carcinoma (TCC) of the bladder, urethra, ureter or renal pelvis; histologic documentation of metastatic/recurrent disease is not required; clinical staging, but not pathological staging, is required\n* All patients must have received on",
+      "endpoints": [
+        "Response rates (CR+PR) determined according to the RECIST criteria"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00072150"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00644228",
+      "title": "A Randomized Phase III Trial of CC-5013 (Lenalidomide, NSC-703813) and Low Dose Dexamethasone (LLD) Versus Bortezomib (PS-341, NSC-681239), Lenalidomide And Low Dose Dexamethasone (BLLD) for Induction, in Patients With Previously Untreated Multiple Myeloma Without an Intent for Immediate Autologous Stem Cell Transplant",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2008-07-28",
+      "completion_date": "2026-09-18",
+      "country": "Saudi Arabia, Puerto Rico, United States",
+      "enrollment": 525,
+      "brief_summary": "This randomized phase III trial studies lenalidomide, dexamethasone, and bortezomib to see how well it works compared to dexamethasone and lenalidomide alone in treating patients with previously untreated multiple myeloma. Biological therapies, such as lenalidomide, may stimulate the immune system in different ways and stop cancer cells from growing. Drugs used in chemotherapy, such as dexamethasone, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopp",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have newly diagnosed multiple myeloma with measurable disease; patients with non-secretory multiple myeloma (MM) based upon standard M-component criteria (i.e., measurable serum/urine M-component) are not eligible for this study; exception: patients with non-secr",
+      "endpoints": [
+        "Progression-free Survival"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00644228"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00276614",
+      "title": "A Phase II Study of Bortezomib (Velcade ) Administered as a Single Agent in Metastatic Non-Clear Cell Renal Cell Carcinoma (RCC) Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2009-07",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor.\n\nPURPOSE: This phase II trial is studying how well bortezomib works in treating patients with metastatic kidney cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed pure non-clear cell renal cell carcinoma (RCC)\n* Distant metastatic disease (Tx, Nx, M1)\n* Tumor expresses wild-type von Hippel-Lindau tumor suppressor gene/protein\n* Measurable disease on imaging scan (≥ 1 cm)\n* Brain metastases allowed provided they ",
+      "endpoints": [
+        "Objective Response Rate as Measured by RECIST Criteria After Every 2 Courses of Treatment for up to 6 Courses"
+      ],
+      "sponsor": "Jonsson Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00276614"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "38084760",
+      "title": "Daratumumab, Bortezomib, Lenalidomide, and Dexamethasone for Multiple Myeloma.",
+      "abstract": "Daratumumab, a monoclonal antibody targeting CD38, has been approved for use with standard myeloma regimens. An evaluation of subcutaneous daratumumab combined with bortezomib, lenalidomide, and dexamethasone (VRd) for the treatment of transplantation-eligible patients with newly diagnosed multiple myeloma is needed.",
+      "journal": "The New England journal of medicine",
+      "year": "2024",
+      "authors": [
+        "Sonneveld Pieter",
+        "Dimopoulos Meletios A",
+        "Boccadoro Mario",
+        "Quach Hang",
+        "Ho P Joy"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Antibodies, Monoclonal",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Bortezomib",
+        "Dexamethasone",
+        "Disease Progression",
+        "Lenalidomide",
+        "Multiple Myeloma",
+        "Membrane Glycoproteins",
+        "ADP-ribosyl Cyclase 1"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38084760/"
+    },
+    {
+      "pmid": "35271306",
+      "title": "Children's Oncology Group Trial AALL1231: A Phase III Clinical Trial Testing Bortezomib in Newly Diagnosed T-Cell Acute Lymphoblastic Leukemia and Lymphoma.",
+      "abstract": "To improve the outcomes of patients with T-cell acute lymphoblastic leukemia (T-ALL) and lymphoblastic lymphoma (T-LL), the proteasome inhibitor bortezomib was examined in the Children's Oncology Group phase III clinical trial AALL1231, which also attempted to reduce the use of prophylactic cranial radiation (CRT) in newly diagnosed T-ALL.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "year": "2022",
+      "authors": [
+        "Teachey David T",
+        "Devidas Meenakshi",
+        "Wood Brent L",
+        "Chen Zhiguo",
+        "Hayashi Robert J"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Bortezomib",
+        "Child",
+        "Disease-Free Survival",
+        "Humans",
+        "Infant",
+        "Lymphoma",
+        "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+        "Precursor T-Cell Lymphoblastic Leukemia-Lymphoma",
+        "T-Lymphocytes"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35271306/"
+    },
+    {
+      "pmid": "36652193",
+      "title": "Diagnosis and Treatment of AL Amyloidosis.",
+      "abstract": "Systemic light chain (AL) amyloidosis is caused by an usually small B cell clone that produces a toxic light chain forming amyloid deposits in tissue. The heart and kidney are the major organs affected, but all others, with the exception of the CNS, can be involved. The disease is rapidly progressive, and it is still diagnosed late. Screening programs in patients followed by hematologists for plasma cell dyscrasias should be considered. The diagnosis requires demonstration in a tissue biopsy of amyloid deposits formed by immunoglobulin light chains. The workup of patients with AL amyloidosis requires adequate technology and expertise, and patients should be referred to specialized centers whenever possible. Stagings are based on cardiac and renal biomarkers and guides the choice of treatment. The combination of daratumumab, cyclophosphamide, bortezomib and dexamethasone (dara-CyBorD) is the current standard of care. Autologous stem cell transplant is performed in eligible patients, esp",
+      "journal": "Drugs",
+      "year": "2023",
+      "authors": [
+        "Palladini Giovanni",
+        "Milani Paolo"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Immunoglobulin Light-chain Amyloidosis",
+        "Plaque, Amyloid",
+        "Bortezomib",
+        "Kidney",
+        "Cyclophosphamide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36652193/"
+    },
+    {
+      "pmid": "38767403",
+      "title": "Plasmablastic lymphoma: 2024 update on diagnosis, risk stratification, and management.",
+      "abstract": "Plasmablastic lymphoma (PBL) is a rare CD20-negative aggressive lymphoma with a poor prognosis under standard treatment options. Though PBL is associated with human immunodeficiency virus infection and other immunosuppressed states, it can also affect immunocompetent individuals.",
+      "journal": "American journal of hematology",
+      "year": "2024",
+      "authors": [
+        "Ramirez-Gamero Andres",
+        "Martínez-Cordero Humberto",
+        "Beltrán Brady E",
+        "Florindez Jorge",
+        "Malpica Luis"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Plasmablastic Lymphoma",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Risk Assessment",
+        "Cyclophosphamide",
+        "Doxorubicin",
+        "Vincristine",
+        "Prednisone",
+        "Lenalidomide",
+        "Prognosis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38767403/"
+    },
+    {
+      "pmid": "33270858",
+      "title": "Management of AL amyloidosis in 2020.",
+      "abstract": "In amyloid light chain (AL) amyloidosis, a small B-cell clone, most commonly a plasma cell clone, produces monoclonal light chains that exert organ toxicity and deposit in tissue in the form of amyloid fibrils. Organ involvement determines the clinical manifestations, but symptoms are usually recognized late. Patients with disease diagnosed at advanced stages, particularly when heart involvement is present, are at high risk of death within a few months. However, symptoms are always preceded by a detectable monoclonal gammopathy and by elevated biomarkers of organ involvement, and hematologists can screen subjects who have known monoclonal gammopathy for amyloid organ dysfunction and damage, allowing for a presymptomatic diagnosis. Discriminating patients with other forms of amyloidosis is difficult but necessary, and tissue typing with adequate technology available at referral centers, is mandatory to confirm AL amyloidosis. Treatment targets the underlying clone and should be risk ada",
+      "journal": "Blood",
+      "year": "2020",
+      "authors": [
+        "Palladini Giovanni",
+        "Milani Paolo",
+        "Merlini Giampaolo"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antibodies, Monoclonal",
+        "Bortezomib",
+        "Hematopoietic Stem Cell Transplantation",
+        "Humans",
+        "Immunoglobulin Light-chain Amyloidosis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33270858/"
+    },
+    {
+      "pmid": "41363801",
+      "title": "Teclistamab plus Daratumumab in Relapsed or Refractory Multiple Myeloma.",
+      "abstract": "In a phase 1-2 trial, teclistamab, a bispecific antibody targeting CD3 on T-cell surfaces and B-cell maturation antigen on myeloma cells, showed durable responses in heavily pretreated patients with relapsed or refractory multiple myeloma. Daratumumab, a monoclonal antibody targeting CD38 protein, has shown survival benefit in patients with multiple myeloma.",
+      "journal": "The New England journal of medicine",
+      "year": "2026",
+      "authors": [
+        "Costa Luciano J",
+        "Bahlis Nizar J",
+        "Perrot Aurore",
+        "Nooka Ajay K",
+        "Lu Jin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study",
+        "Comparative Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Multiple Myeloma",
+        "Male",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Female",
+        "Middle Aged",
+        "Aged",
+        "Antibodies, Monoclonal",
+        "Progression-Free Survival",
+        "Bortezomib"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41363801/"
+    },
+    {
+      "pmid": "31097405",
+      "title": "Pomalidomide, bortezomib, and dexamethasone for patients with relapsed or refractory multiple myeloma previously treated with lenalidomide (OPTIMISMM): a randomised, open-label, phase 3 trial.",
+      "abstract": "As lenalidomide becomes increasingly established for upfront treatment of multiple myeloma, patients refractory to this drug represent a population with an unmet need. The combination of pomalidomide, bortezomib, and dexamethasone has shown promising results in phase 1/2 trials of patients with relapsed or refractory multiple myeloma. We aimed to assess the efficacy and safety of this triplet regimen in patients with relapsed or refractory multiple myeloma who previously received lenalidomide.",
+      "journal": "The Lancet. Oncology",
+      "year": "2019",
+      "authors": [
+        "Richardson Paul G",
+        "Oriol Albert",
+        "Beksac Meral",
+        "Liberati Anna Marina",
+        "Galli Monica"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Bortezomib",
+        "Dexamethasone",
+        "Drug Resistance, Neoplasm",
+        "Female",
+        "Follow-Up Studies",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31097405/"
+    },
+    {
+      "pmid": "30523719",
+      "title": "Molecular High-Grade B-Cell Lymphoma: Defining a Poor-Risk Group That Requires Different Approaches to Therapy.",
+      "abstract": "Biologic heterogeneity is a feature of diffuse large B-cell lymphoma (DLBCL), and the existence of a subgroup with poor prognosis and phenotypic proximity to Burkitt lymphoma is well known. Conventional cytogenetics identifies some patients with rearrangements of MYC and BCL2 and/or BCL6 (double-hit lymphomas) who are increasingly treated with more intensive chemotherapy, but a more biologically coherent and clinically useful definition of this group is required.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "year": "2019",
+      "authors": [
+        "Sha Chulin",
+        "Barrans Sharon",
+        "Cucco Francesco",
+        "Bentley Michael A",
+        "Care Matthew A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Antibodies, Monoclonal, Murine-Derived",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Biomarkers, Tumor",
+        "Bortezomib",
+        "Cyclophosphamide",
+        "Databases, Genetic",
+        "Doxorubicin",
+        "Female",
+        "Humans",
+        "Lymphoma, Large B-Cell, Diffuse"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30523719/"
+    },
+    {
+      "pmid": "40565058",
+      "title": "Overexpression of CDCA2 in Diffuse Large B-Cell Lymphoma Promotes Cell Proliferation and Bortezomib Sensitivity.",
+      "abstract": "Numerous clinical trials have attempted to improve first-line R-CHOP treatment of diffuse large B-cell lymphoma (DLBCL) through the addition or substitution of drugs. The REMoDL-B trial, testing the addition of bortezomib (RB-CHOP), revealed that ABC and molecular high-grade DLBCL patients benefit from bortezomib. The aim of this study was to achieve a better understanding of the bortezomib response in DLBCL through a functional investigation of clinically identified markers. A retrospective analysis of transcriptional and clinical data from the REMoDL-B trial was conducted to identify genes associated with bortezomib response, identifying CDCA2. DLBCL patients with high expression of CDCA2 had a superior survival outcome when treated with RB-CHOP in comparison to R-CHOP, whereas no difference in outcome was observed for patients with low CDCA2. Moreover, CDCA2 was found to be overexpressed in DLBCL compared to non-malignant tissue, and to have higher levels in GCB and MYC/BCL2 double-",
+      "journal": "International journal of molecular sciences",
+      "year": "2025",
+      "authors": [
+        "Due Hanne",
+        "Brogaard Asta",
+        "Issa Issa Ismail",
+        "Jakobsen Maja Zimmer",
+        "Sylvester Cathrine"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Humans",
+        "Bortezomib",
+        "Cell Proliferation",
+        "Cell Line, Tumor",
+        "Cell Cycle Proteins",
+        "Gene Expression Regulation, Neoplastic",
+        "Prednisone",
+        "Animals",
+        "Antineoplastic Combined Chemotherapy Protocols"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40565058/"
+    },
+    {
+      "pmid": "23782157",
+      "title": "Targeting BTK with ibrutinib in relapsed or refractory mantle-cell lymphoma.",
+      "abstract": "Bruton's tyrosine kinase (BTK) is a mediator of the B-cell-receptor signaling pathway implicated in the pathogenesis of B-cell cancers. In a phase 1 study, ibrutinib, a BTK inhibitor, showed antitumor activity in several types of non-Hodgkin's lymphoma, including mantle-cell lymphoma.",
+      "journal": "The New England journal of medicine",
+      "year": "2013",
+      "authors": [
+        "Wang Michael L",
+        "Rule Simon",
+        "Martin Peter",
+        "Goy Andre",
+        "Auer Rebecca"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adenine",
+        "Administration, Oral",
+        "Adult",
+        "Agammaglobulinaemia Tyrosine Kinase",
+        "Aged",
+        "Aged, 80 and over",
+        "Drug Resistance, Neoplasm",
+        "Female",
+        "Humans",
+        "Lymphocyte Count"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23782157/"
+    },
+    {
+      "pmid": "38832972",
+      "title": "Isatuximab, Bortezomib, Lenalidomide, and Dexamethasone for Multiple Myeloma.",
+      "abstract": "Bortezomib, lenalidomide, and dexamethasone (VRd) is a preferred first-line treatment option for patients with newly diagnosed multiple myeloma. Whether the addition of the anti-CD38 monoclonal antibody isatuximab to the VRd regimen would reduce the risk of disease progression or death among patients ineligible to undergo transplantation is unclear.",
+      "journal": "The New England journal of medicine",
+      "year": "2024",
+      "authors": [
+        "Facon Thierry",
+        "Dimopoulos Meletios-Athanasios",
+        "Leleu Xavier P",
+        "Beksac Meral",
+        "Pour Ludek"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antibodies, Monoclonal, Humanized",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Bortezomib",
+        "Dexamethasone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38832972/"
+    },
+    {
+      "pmid": "38084760",
+      "title": "Daratumumab, Bortezomib, Lenalidomide, and Dexamethasone for Multiple Myeloma.",
+      "abstract": "Daratumumab, a monoclonal antibody targeting CD38, has been approved for use with standard myeloma regimens. An evaluation of subcutaneous daratumumab combined with bortezomib, lenalidomide, and dexamethasone (VRd) for the treatment of transplantation-eligible patients with newly diagnosed multiple myeloma is needed.",
+      "journal": "The New England journal of medicine",
+      "year": "2024",
+      "authors": [
+        "Sonneveld Pieter",
+        "Dimopoulos Meletios A",
+        "Boccadoro Mario",
+        "Quach Hang",
+        "Ho P Joy"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Antibodies, Monoclonal",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Bortezomib",
+        "Dexamethasone",
+        "Disease Progression",
+        "Lenalidomide",
+        "Multiple Myeloma",
+        "Membrane Glycoproteins",
+        "ADP-ribosyl Cyclase 1"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38084760/"
+    },
+    {
+      "pmid": "35560063",
+      "title": "Multiple myeloma: 2022 update on diagnosis, risk stratification, and management.",
+      "abstract": "Multiple myeloma accounts for approximately 10% of hematologic malignancies.",
+      "journal": "American journal of hematology",
+      "year": "2022",
+      "authors": [
+        "Rajkumar S Vincent"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Bortezomib",
+        "Dexamethasone",
+        "Hematopoietic Stem Cell Transplantation",
+        "Humans",
+        "Lenalidomide",
+        "Multiple Myeloma",
+        "Neoplasm Recurrence, Local",
+        "Risk Assessment",
+        "Transplantation, Autologous"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35560063/"
+    },
+    {
+      "pmid": "37315268",
+      "title": "Daratumumab, Cyclophosphamide, Bortezomib, Lenalidomide, and Dexamethasone as Induction and Extended Consolidation Improves Outcome in Ultra-High-Risk Multiple Myeloma.",
+      "abstract": "The multicenter OPTIMUM (MUKnine) phase II trial investigated daratumumab, low-dose cyclophosphamide, lenalidomide, bortezomib, and dexamethasone (Dara-CVRd) before and after autologous stem-cell transplant (ASCT) in newly diagnosed patients with molecularly defined ultra-high-risk (UHiR) multiple myeloma (NDMM) or plasma cell leukemia (PCL). To provide clinical context, progression-free survival (PFS) and overall survival (OS) were referenced to contemporaneous outcomes seen in patients with UHiR NDMM treated in the recent Myeloma XI (MyeXI) trial.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "year": "2023",
+      "authors": [
+        "Kaiser Martin F",
+        "Hall Andrew",
+        "Walker Katrina",
+        "Sherborne Amy",
+        "De Tute Ruth M"
+      ],
+      "pub_types": [
+        "Multicenter Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Multiple Myeloma",
+        "Lenalidomide",
+        "Bortezomib",
+        "Bayes Theorem",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cyclophosphamide",
+        "Dexamethasone",
+        "Transplantation, Autologous",
+        "Hematopoietic Stem Cell Transplantation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37315268/"
+    },
+    {
+      "pmid": "39287147",
+      "title": "A plain language summary of the PERSEUS study of daratumumab plus bortezomib, lenalidomide, and dexamethasone for treating newly diagnosed multiple myeloma.",
+      "abstract": "This summary describes the first analysis of the PERSEUS study, which looked at adults with multiple myeloma that had never been treated before, also called newly diagnosed multiple myeloma. Multiple myeloma is a type of cancer in the blood, specifically in plasma cells within the soft, spongy tissue in the center of most bones, called the bone marrow. Researchers wanted to see if adding daratumumab (D) to a standard treatment of three other medicines called VRd, which stands for bortezomib (V), lenalidomide (R), and dexamethasone (d), could stop the multiple myeloma from getting worse and help participants live longer without multiple myeloma.Half of the participants were assigned to the treatment plan with daratumumab; they received D-VRd during initial treatment phases (induction and consolidation), followed by daratumumab as well as lenalidomide (D-R) in the maintenance phase. The other half of participants received treatment without daratumumab; they received VRd induction and con",
+      "journal": "Future oncology (London, England)",
+      "year": "2024",
+      "authors": [
+        "Sonneveld Pieter",
+        "Dimopoulos Meletios A",
+        "Boccadoro Mario",
+        "Quach Hang",
+        "Ho P Joy"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Patient Education Handout"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antibodies, Monoclonal",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Bortezomib",
+        "Dexamethasone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39287147/"
+    },
+    {
+      "pmid": "31201134",
+      "title": "Retrospective Review of the Use of High-Dose Cyclophosphamide, Bortezomib, Doxorubicin, and Dexamethasone for the Treatment of Multiple Myeloma and Plasma Cell Leukemia.",
+      "abstract": "Multiple myeloma (MM) usually follows a clinical course leading to refractoriness and limited treatment options in advanced stages, which might need bridge therapies to either autologous stem cell transplantation or novel therapies. We report our experience with the high-dose chemotherapy mCBAD (modified cyclophosphamide, bortezomib, doxorubicin, and dexamethasone) regimen in newly diagnosed MM (NDMM), relapsed/refractory MM (RRMM), and plasma cell leukemia (PCL) patients.",
+      "journal": "Clinical lymphoma, myeloma & leukemia",
+      "year": "2019",
+      "authors": [
+        "Tabchi Samer",
+        "Nair Rajit",
+        "Kunacheewa Chutima",
+        "Patel Krina K",
+        "Lee Hans C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Bortezomib",
+        "Cyclophosphamide",
+        "Dexamethasone",
+        "Doxorubicin",
+        "Drug Resistance, Neoplasm",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31201134/"
+    },
+    {
+      "pmid": "39623468",
+      "title": "Doxorubicin synergizes bortezomib-induced multiple myeloma cell death by inhibiting aggresome formation and augmenting endoplasmic reticulum/Golgi stress and apoptosis.",
+      "abstract": "Bortezomib is a standard treatment for multiple myeloma (MM), working by the accumulation of toxic misfolded proteins in cancer cells. However, a significant clinical challenge arises from the development of resistance to bortezomib in MM treatment. Aggresome, a subcellular structure enclosed within Vimentin, forms in response to proteasome inhibitors and sequesters misfolded proteins that are transported by histone deacetylase 6 (HDAC6) and Dynein for degradation via autophagy, thereby reducing bortezomib's cytotoxic effects. Therefore, in this study, we screened several anticancer agents to identify those that could synergize with bortezomib to enhance cell death and block aggresome formation in the MM cell line U266B1.",
+      "journal": "Journal of translational medicine",
+      "year": "2024",
+      "authors": [
+        "Yu Chang-Tze Ricky",
+        "Liao Yu-Ting Amber",
+        "Chiang Chi-Yin Nina",
+        "Chen Jo-Mei Maureen",
+        "Pan Hsin-Yu Bella"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Bortezomib",
+        "Multiple Myeloma",
+        "Humans",
+        "Apoptosis",
+        "Doxorubicin",
+        "Endoplasmic Reticulum Stress",
+        "Cell Line, Tumor",
+        "Golgi Apparatus",
+        "Drug Synergism",
+        "Histone Deacetylase 6"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39623468/"
+    },
+    {
+      "pmid": "32863212",
+      "title": "Iron regulates myeloma cell/macrophage interaction and drives resistance to bortezomib.",
+      "abstract": "Iron plays a major role in multiple processes involved in cell homeostasis such as metabolism, respiration and DNA synthesis. Cancer cells exhibit pronounced iron retention as compared to healthy counterpart. This phenomenon also occurs in multiple myeloma (MM), a hematological malignancy characterized by terminally differentiated plasma cells (PCs), in which serum ferritin levels have been reported as a negative prognostic marker. The aim of current study is to evaluate the potential role of iron metabolism in promoting drug resistance in myeloma cancer cells with particular regard to the interactions between PCs and tumor-associated macrophages (TAMs) as a source of iron. Our data showed that myeloma cell lines are able to intake and accumulate iron and thus, increasing their scavenger antioxidant-related genes and mitochondrial mass. We further demonstrated that PCs pre-treated with ferric ammonium citrate (FAC) decreased bortezomib (BTZ)-induced apoptosis in vitro and successfully ",
+      "journal": "Redox biology",
+      "year": "2020",
+      "authors": [
+        "Camiolo Giuseppina",
+        "Barbato Alessandro",
+        "Giallongo Cesarina",
+        "Vicario Nunzio",
+        "Romano Alessandra"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Bortezomib",
+        "Carrier Proteins",
+        "Cell Line, Tumor",
+        "Drug Resistance, Neoplasm",
+        "Extracellular Matrix Proteins",
+        "Glycoproteins",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32863212/"
+    },
+    {
+      "pmid": "33440212",
+      "title": "Management of acute kidney injury in symptomatic multiple myeloma.",
+      "abstract": "Symptomatic multiple myeloma is commonly complicated by acute kidney injury through various mechanisms. The most frequent is the precipitation of monoclonal free light chains with uromodulin in the distal tubules, defining light chain cast nephropathy. Early diagnosis and identification of the cause of acute kidney injury are required for optimizing management and avoiding chronic kidney injury that strongly affects quality of life and patient survival. In light chain cast nephropathy, often manifesting with severe acute kidney injury, renal recovery requires urgent intervention based on vigorous rehydration, correction of precipitating factors, and efficient anti-plasma cell chemotherapy to rapidly reduce the secretion of nephrotoxic free light chains. Currently, the association of the proteasome inhibitor bortezomib with high-dose dexamethasone is the standard regimen in newly diagnosed patients. The addition of another drug such as cyclophosphamide or an immunodulatory agent may imp",
+      "journal": "Kidney international",
+      "year": "2021",
+      "authors": [
+        "Bridoux Frank",
+        "Leung Nelson",
+        "Belmouaz Mohamed",
+        "Royal Virginie",
+        "Ronco Pierre"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acute Kidney Injury",
+        "Bortezomib",
+        "Humans",
+        "Immunoglobulin Light Chains",
+        "Multiple Myeloma",
+        "Quality of Life",
+        "Renal Dialysis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33440212/"
+    },
+    {
+      "pmid": "27275642",
+      "title": "[Multiple myeloma and other plasma cell dyscrasias].",
+      "abstract": "Multiple myeloma is the most common primary malignant disease of bone marrow. It mainly occurs among elderly people and, according to international databases, it is twice as frequent in men, however in our country this fact cannot be observed because of the high male mortality rate. The presence of this disease increased by more than one and the half times during the last 60 years. The five year survival for multiple myeloma has increased from 25% to 40% since the seventies due to high-dose chemotherapy followed by autologous stem cell transplantation and the new anti-myeloma drugs which were introduced in the last decade, such as immunomodulators (IMiD) like thalidomide, lenalidomide, pomalidomide and proteasome inhibitors (PI) like bortezomib, carfilzomib, ixazomib. The number of treatment options are growing fast, and not only because of using new combinations of medications, but also due to the development of investigational products which are available for the patients by particip",
+      "journal": "Magyar onkologia",
+      "year": "2016",
+      "authors": [
+        "Nagy Zsolt"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Bortezomib",
+        "Female",
+        "Humans",
+        "Immunologic Factors",
+        "Male",
+        "Multiple Myeloma",
+        "Proteasome Inhibitors",
+        "Thalidomide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27275642/"
+    }
+  ]
+}

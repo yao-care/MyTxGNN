@@ -1,0 +1,1032 @@
+{
+  "drug": "Sodium Citrate",
+  "drugbank_id": "DB09154",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:48:43Z",
+  "indications": [
+    {
+      "indication": "pharyngitis",
+      "evidence_level": "L1",
+      "trials": 6,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 6,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "rhinitis",
+      "evidence_level": "L2",
+      "trials": 2,
+      "articles": 6,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 2,
+        "review_articles": 0,
+        "other_articles": 4,
+        "total_trials": 2,
+        "total_articles": 6
+      }
+    },
+    {
+      "indication": "esophagitis",
+      "evidence_level": "L1",
+      "trials": 5,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 0,
+        "review_articles": 4,
+        "other_articles": 6,
+        "total_trials": 5,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "gastroesophageal reflux disease",
+      "evidence_level": "L1",
+      "trials": 14,
+      "articles": 5,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 9,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 2,
+        "total_trials": 14,
+        "total_articles": 5
+      }
+    },
+    {
+      "indication": "common cold",
+      "evidence_level": "L2",
+      "trials": 3,
+      "articles": 6,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 1,
+        "review_articles": 0,
+        "other_articles": 5,
+        "total_trials": 3,
+        "total_articles": 6
+      }
+    }
+  ],
+  "total_trials": 30,
+  "total_articles": 28,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04518410",
+      "title": "Adaptive Platform Treatment Trial for Outpatients With COVID-19 (Adapt Out COVID)",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-08-19",
+      "completion_date": "2023-06-20",
+      "country": "South Africa, Mexico, Philippines, Puerto Rico, United States, Guatemala, Canada, Argentina, Brazil",
+      "enrollment": 4044,
+      "brief_summary": "Drug studies often look at the effect one or two drugs have on a medical condition, and involve one company. There is currently an urgent need for one study to efficiently test multiple drugs from more than one company, in people who have tested positive for COVID-19 but who do not currently need hospitalization. This could help prevent disease progression to more serious symptoms and complications, and spread of COVID-19 in the community.\n\nThis study looks at the safety and effectiveness of dif",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent.\n* Documentation of laboratory-confirmed SARS-CoV-2 infection, as determined by a molecular (nucleic acid) or antigen test from any respiratory tract specimen (e.g. oropharyngeal, nasopharyngeal (NP), or nasal swab, or saliva) collected ≤240 hours (10 d",
+      "endpoints": [
+        "COVID-19 Symptom Duration (Phase 2)",
+        "Quantification of SARS-CoV-2 RNA (Phase 2)",
+        "Quantification of SARS-CoV-2 RNA (Phase 2)"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT04518410"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05165992",
+      "title": "Nebulized Fentanyl for Respiratory Symptoms in Patients With COVID-19 (Ventanyl Trial)",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-02",
+      "completion_date": "2022-12",
+      "country": "N/A",
+      "enrollment": 200,
+      "brief_summary": "Patients with Coronavirus Disease (COVID-19) experience distressing and challenging to manage respiratory symptoms. Interventions such as Oxygen (O2) therapy, oral opiates, and traditional nebulizers like ipratropium bromide and salbutamol, are variably effective, and therapeutic responses in individual patients are difficult to predict. The purpose of this study is to investigate the efficacy of nebulized fentanyl citrate on dyspnea, cough, and throat pain in patients with COVID-19, as well as ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 18 - 65 years\n* Confirmed diagnosis (COVID-19) - positive PCR\n* Tachypnoea (Respiratory rate\\> 30/min)\n* Ability to provide informed consent and perform all study procedures\n\nExclusion Criteria:\n\n* History of allergy or adverse reaction to fentanyl or other opioids\n* Preg",
+      "endpoints": [
+        "Breathlessness",
+        "Throat Pain",
+        "Cough"
+      ],
+      "sponsor": "Hamad Medical Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT05165992"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03812718",
+      "title": "Anaesthesia Requirements for Ventilation With Endotracheal Tube Versus ProSeal Laryngeal Mask Airway During Automated Feedback-Loop Controlled Total Intravenous Anaesthesia in Patients Undergoing Laparoscopic Cholecystectomy: A Randomised Controlled Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2019-03-04",
+      "completion_date": "2025-12",
+      "country": "India",
+      "enrollment": 160,
+      "brief_summary": "Endotracheal tube (ETT) is the gold standard conduit for providing controlled ventilation during general anaesthesia (GA). however, the supra-glottic airway (SGA) devices in particular the laryngeal mask airway (LMA) and its variants have become a reliable alternative to ETT for carrying out controlled ventilation. Of the several variants of LMA available today, the proseal LMA (PLMA) is preferred for controlled ventilation. The various advantages of LMA includes, a lower incidence of postoperat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ASA physical status I/II\n2. Undergoing elective laparoscopic cholecystectomy\n\nExclusion Criteria:\n\n1. Anticipated difficult airway\n2. Body mass index \\> 30-kg/m2\n3. Uncompensated cardiovascular disease (e.g. uncontrolled hypertension, atrio-ventricular block, sinus bradycardi",
+      "endpoints": [
+        "Change in Propofol usage in milligrams"
+      ],
+      "sponsor": "Sir Ganga Ram Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03812718"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06251050",
+      "title": "A Lithium-containing Mouthwash Prevention and Treatment of Oral Mucositis and Dysgeusia in Patients Undergoing Radiotherapy",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2024-03-01",
+      "completion_date": "2025-05-01",
+      "country": "China",
+      "enrollment": 175,
+      "brief_summary": "To evaluate the efficacy and safety of lithium-containing mouthwash for prevention and treatment of oral mucositis and dysgeusia in patients undergoing radiotherapy for malignant head and neck tumors.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients pathologically diagnosed with non-metastatic head and neck malignant tumors; Aged 18-80 years; Eastern Cooperative Oncology Group performance status of ≤2; Planning to receive definitive RT or postoperative adjuvant RT; Normal liver, kidney and bone marrow function; Sig",
+      "endpoints": [
+        "The incidence of Severe Oral mucositis (WHO grade ≥3)"
+      ],
+      "sponsor": "West China Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06251050"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03107832",
+      "title": "Comparison of Bi-spectral Index-Controlled Sedation During a Thoracic Epidural Anesthesia With General Anesthesia in Laparoscopic Cholecystectomy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-12-30",
+      "completion_date": "2013-12-29",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 40,
+      "brief_summary": "CONTEXT AND AIMS: The aim of the study is to compare patients satisfaction of thoracic epidural and general anesthesia procedures in patients undergoing elective laparoscopic cholecystectomy. SETTINGS AND DESIGN: This comparative randomized study was conducted Abant Izzet Baysal University hospital between October 2012 and 2014.Forty-five patients who were under American Society of Anesthesiologists I-II classification and were scheduled for elective laparoscopic cholecystectomy were included in",
+      "eligibility_criteria": "* Inclusion Criteria:\n\n  * American Society of Anesthesiologists I-II classification ,\n  * Elective laparoscopic cholecystectomy ,\n  * Ages of 18 and 75\n* Exclusion Criteria:\n\n  * allergies against any of the drugs to be used in the study,\n  * current pregnancy,\n  * severe cardiac, renal, and liver ",
+      "endpoints": [
+        "patient satisfaction"
+      ],
+      "sponsor": "Abant Izzet Baysal University",
+      "url": "https://clinicaltrials.gov/study/NCT03107832"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04642638",
+      "title": "Phase 2/3 Randomized, Blinded, Placebo-Controlled Trial to Evaluate the Safety, Immunogenicity, and Efficacy of INO-4800, a Prophylactic Vaccine Against COVID-19 Disease, Administered Intradermally Followed by Electroporation in Adults at High Risk of SARS-CoV-2 Exposure",
+      "phase": "PHASE2, PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2020-11-30",
+      "completion_date": "2022-09-13",
+      "country": "Colombia, Mexico, United States",
+      "enrollment": 1307,
+      "brief_summary": "This is a Phase 2/3, randomized, placebo-controlled, multi-center trial to evaluate the safety, immunogenicity and efficacy of INO-4800 administered by intradermal (ID) injection followed by electroporation (EP) using CELLECTRA® 2000 device to prevent coronavirus disease 2019 (COVID-19) in participants at high risk of exposure to severe acute respiratory syndrome coronavirus - 2 (SARS-CoV-2).\n\nThe Phase 2 segment will evaluate immunogenicity and safety in approximately 400 participants at two do",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Working or residing in an environment with high risk of exposure to SARS-CoV-2 for whom exposure may be relatively prolonged or for whom personal protective equipment (PPE) may be inconsistently used, especially in confined settings.\n* Phase 2 only: Screening laboratory re",
+      "endpoints": [
+        "Phase 2: Change From Baseline in Antigen-specific Cellular Immune Response Measured by Interferon-gamma (IFN-γ) Enzyme-linked Immunospot (ELISpot) Assay",
+        "Phase 2: Change From Baseline in Neutralizing Antibody Response Measured by a Pseudovirus-based Neutralization Assay",
+        "Phase 3: Percentage of Participants (SARS-CoV-2 Seronegative at Baseline) With Virologically-confirmed COVID-19 Disease"
+      ],
+      "sponsor": "Inovio Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT04642638"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03705793",
+      "title": "Effectiveness of Mometasone Nasal Irrigation for Chronic Rhinosinusitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-01-01",
+      "completion_date": "2020-03-15",
+      "country": "United States",
+      "enrollment": 53,
+      "brief_summary": "Chronic rhinosinusitis (CRS) affects up to 12.5% of the US population and has a significant disease burden. The recommended medical management of CRS includes large-volume, low-pressure saline lavage, systemic antibiotics, and intranasal corticosteroids (INCS). While the efficacy and safety of INCS are well-established for the long-term management of CRS, penetration of INCS beyond the nasal vestibule and into the paranasal sinuses is limited. The aim of this study is to evaluate the effectivene",
+      "eligibility_criteria": "Inclusion Criteria:\n\n12-weeks or longer of two or more of the following signs and symptom consistent with CRS:\n\n* mucopurulent drainage(anterior, posterior, or both)\n* nasal obstruction (congestion)\n* facial pain-pressure-fullness\n* and decreased sense of smell\n\nAND inflammation documented by one or",
+      "endpoints": [
+        "Change in Sino-Nasal Outcome Test Scores (SNOT-22)"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03705793"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00533637",
+      "title": "A Double-Blind, Randomized, Placebo-Controlled, Cross-Over, Allergen Challenge Study to Evaluate Taste and Local Tolerance of NLA Nasal Spray in Patients With Allergic Rhinitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2007-12",
+      "country": "Sweden",
+      "enrollment": 28,
+      "brief_summary": "Evaluation of NLA Nasal Spray with regard to taste perversion and local tolerance",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 to 50 years of age (inclusive)\n* Body Mass Index (BMI) between 18 and 28 kg/m2\n* History of pollen-induced seasonal allergic rhinitis for at least two years and otherwise healthy\n* Elevated specific IgE to at least one aero allergen or at least one positive skin pick test (",
+      "endpoints": [
+        "Taste perversion scores",
+        "Local tolerance scores"
+      ],
+      "sponsor": "Biolipox AB",
+      "url": "https://clinicaltrials.gov/study/NCT00533637"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05998863",
+      "title": "Effervescent Calcium Magnesium Citrate to Prevent Mineral Metabolism and Renal Complications of Chronic Proton Pump Inhibitor Therapy",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-04-19",
+      "completion_date": "2026-12-31",
+      "country": "United States",
+      "enrollment": 56,
+      "brief_summary": "Proton pump inhibitors (PPIs) are widely used for the control of gastric ulcer-gastritis, erosive esophagitis (gastroesophageal reflux disease), peptic ulcer disease (duodenal ulcer), and heartburn. Despite their efficacy, their use has been implicated in possibly causing fragility fractures (osteoporosis), hypomagnesemia (magnesium deficiency) and increased risk of chronic kidney disease (CKD). The current trial represents the investigators ongoing effort to discern whether these complications ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ambulatory adult subjects (\\> 21 years of age) of either gender of any ethnicity\n* Must have taken PPI (omeprazole or equivalent ≥ 20 mg/day, ≥ three times per week, for at least 2 months)\n* Expected to continue at a similar dosage\n* Stage 1 hypertension (with systolic blood p",
+      "endpoints": [
+        "Change From Baseline in Bone Mineral Density (BMD) T-Score at 1 Year",
+        "Change From Baseline in the Fractional Excretion of Magnesium (FEMg) at 1 Year",
+        "Change from baseline in endogenous creatinine clearance at 1 year."
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05998863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03812380",
+      "title": "Averting Complications of Proton Pump Inhibitor Therapy by Effervescent Calcium Magnesium Citrate",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2019-01-01",
+      "completion_date": "2021-08-11",
+      "country": "United States",
+      "enrollment": 62,
+      "brief_summary": "Proton pump inhibitors (PPIs) are widely used for the control of gastric ulcer-gastritis, erosive esophagitis (gastroesophageal reflux disease), peptic ulcer disease (duodenal ulcer), and heartburn. Despite their efficacy, their use has been implicated in possibly causing fragility fractures (osteoporosis), hypomagnesemia (magnesium deficiency) and increased risk of chronic kidney disease (CKD). The current trial represents the investigators' ongoing effort to discern whether these complications",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must have taken PPI (omeprazole or equivalent ≥ 20 mg/day, ≥ three times per week, for at least 2 months)\n* Expected to continue at a similar dosage\n* Stage 1 hypertension (with systolic blood pressure \\<140 and diastolic \\<90)\n* controlled diabetes mellitus Type II with HbA1C",
+      "endpoints": [
+        "Change From Baseline in Bone Mineral Density (BMD) T-Score at 2 Years",
+        "Change From Baseline in Bone Mineral Density (BMD) Z-Score at 2 Years",
+        "Change From Baseline in the Fractional Excretion of Magnesium (FEMg) at 2 Years"
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03812380"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04626609",
+      "title": "Prostaglandin and Cannabinoid Receptors in the Development of Eosinophilic Esophagitis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-07-01",
+      "completion_date": "2024-11-18",
+      "country": "Austria",
+      "enrollment": 45,
+      "brief_summary": "The purpose of this study is to investigate prostaglandin and cannabinoid receptors and their endogenous ligands in eosinophilic esophagitis (EoE). A prostaglandin D2 receptor antagonist has been shown to improve disease symptoms suggesting a regulatory role for bioactive lipids in EoE. Prostaglandin D2 and E2, and endocannabinoids are lipid mediators that govern the functional and inflammatory behavior of immune cells critical for EoE development. The prostaglandin D2 and E2 receptor axis, and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosed or suspected EoE or GERD\n* without esophageal diseases\n* with signed informed consent\n\nExclusion Criteria:\n\n* viral or parasitic diseases (e.g. herpes, candidiasis)\n* eosinophilic gastroenteritis, hypereosinophilic syndrome, Crohn's disease\n* autoimmune diseases\n* un",
+      "endpoints": [
+        "Analysis of cannabinoid receptors- protein content",
+        "Analysis of cannabinoid receptors- transcripts",
+        "Analysis of prostaglandin D2 receptors- protein content"
+      ],
+      "sponsor": "Medical University of Graz",
+      "url": "https://clinicaltrials.gov/study/NCT04626609"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06850480",
+      "title": "A Multicenter, Randomized, Double-blind, Double-simulated, Positive Parallel-control Phase III Clinical Trails of JP-1366（Zastaprazan Citrate） Tablets and Nexium® on Reflux Esophagitis",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-12-05",
+      "completion_date": "2025-04-30",
+      "country": "China",
+      "enrollment": 356,
+      "brief_summary": "To evaluate the efficacy and safety of JP-1366 tablets and Nexium® (Esomeprazole magnesium enteric-coated tablets) in subjects with reflux esophagitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Voluntarily participate and sign a written informed consent form, and be able to understand the information provided and comply with the program requirements;\n2. Age between 18-75 years old (including boundary values) during screening, both male and female are acceptable.\n3. ",
+      "endpoints": [
+        "Percentage of subjects with esophageal mucosal healing confirmed by upper gastrointestinal endoscopy within 8 weeks of treatment"
+      ],
+      "sponsor": "Livzon Pharmaceutical Group Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06850480"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03050359",
+      "title": "A Randomized Double-Blind, Double-Dummy, Phase 3 Study to Evaluate the Efficacy and Safety of Oral TAK-438 20 mg Compared to Lansoprazole 30 mg Once- or Twice-Daily in the Treatment of Endoscopically Confirmed Duodenal Ulcer Subjects With or Without Helicobacter Pylori Infection",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-04-05",
+      "completion_date": "2019-07-19",
+      "country": "Philippines, Taiwan, China, South Korea",
+      "enrollment": 533,
+      "brief_summary": "The purpose of this study is to demonstrate the non-inferior efficacy of TAK-438 versus lansoprazole in the treatment of participants with duodenal ulcer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1\\. Has endoscopic evidence of active duodenal ulcer(s) (i.e., mucosal defects with white coating \\[including cases associated with blood coagulation as long as there is no active bleeding\\]) measuring 5 mm or larger in longest diameter within 14 days prior to randomization.\n\nEx",
+      "endpoints": [
+        "Percentage of Participants With Endoscopically Confirmed Healing of Duodenal Ulcers"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT03050359"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05014334",
+      "title": "Study on The Efficacy and Safety of Berberine,Amoxicillin and Vonoprazan Containing Triple Therapy in Helicobacter Pylori First-Line Eradication",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2021-12-01",
+      "completion_date": "2022-06-30",
+      "country": "China",
+      "enrollment": 300,
+      "brief_summary": "The purpose of this study is to assess the efficacy and safety of berberine, amoxicillin and vonoprazan containing triple therapy in Helicobacter Pylori first-line eradication. It is hypothesized that berberine hydrochloride, amoxicillin and vonoprazan triple therapy is non-inferior to bismuth-containing quadruple therapy or vonoprazan -containing quadruple therapy. Patients diagnosed with H. pylori infection will be randomly divided into one of the above treatments. At week 6 follow-up visits, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 18\\~70,both gender.\n2. Patients with upper gastrointestinal symptoms and with documented H.pylori infection who did not receive Helicobacter pylori eradication treatment;\n3. Patients are willing to receive eradication treatment.\n4. Women of childbearing age were r",
+      "endpoints": [
+        "H pylori eradication rates"
+      ],
+      "sponsor": "Xijing Hospital of Digestive Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT05014334"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04209933",
+      "title": "Comparison of Efficacy of Bismuth Potassium Citrate, Pectin Bismuth Capsules, and Pectin Bismuth Granules in the Treatment of Helicobacter Pylori (Hp) First-line Quadruple Regimen: a Multicenter, Randomized, Prospective, Comparative Clinical Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-05-25",
+      "completion_date": "2020-08-30",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "This study aims to compare efficacy and safety of bismuth-containing quadruple therapy（with rabeprazole amoxicillin clarithromycin）of different kinds of bismuth（Bismuth potassium citrate, pectin bismuth capsules, pectin bismuth particles）in H. pylori first-line eradication. It is hypothesized that different bismuth containing quadruple therapies have comparable eradication efficacy and safety. Patients with confirmed H. pylori positive status will be randomized to one of the treatments described",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18\\~75,both gender.\n* Patients with upper gastrointestinal symptoms and with documented H.pylori infection.\n* Patients are willing to receive eradication treatment.\n* Women are eligible if they are not pregnant or nursing, and if they are of childbearing potential ",
+      "endpoints": [
+        "helicobacter pylori eradication"
+      ],
+      "sponsor": "Xijing Hospital of Digestive Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT04209933"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05998863",
+      "title": "Effervescent Calcium Magnesium Citrate to Prevent Mineral Metabolism and Renal Complications of Chronic Proton Pump Inhibitor Therapy",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-04-19",
+      "completion_date": "2026-12-31",
+      "country": "United States",
+      "enrollment": 56,
+      "brief_summary": "Proton pump inhibitors (PPIs) are widely used for the control of gastric ulcer-gastritis, erosive esophagitis (gastroesophageal reflux disease), peptic ulcer disease (duodenal ulcer), and heartburn. Despite their efficacy, their use has been implicated in possibly causing fragility fractures (osteoporosis), hypomagnesemia (magnesium deficiency) and increased risk of chronic kidney disease (CKD). The current trial represents the investigators ongoing effort to discern whether these complications ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ambulatory adult subjects (\\> 21 years of age) of either gender of any ethnicity\n* Must have taken PPI (omeprazole or equivalent ≥ 20 mg/day, ≥ three times per week, for at least 2 months)\n* Expected to continue at a similar dosage\n* Stage 1 hypertension (with systolic blood p",
+      "endpoints": [
+        "Change From Baseline in Bone Mineral Density (BMD) T-Score at 1 Year",
+        "Change From Baseline in the Fractional Excretion of Magnesium (FEMg) at 1 Year",
+        "Change from baseline in endogenous creatinine clearance at 1 year."
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05998863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07017946",
+      "title": "A Pilot Trial to Investigate the Safety and Efficacy of Intestinal Microbiome Transplant (MTT) in People With Amyotrophic Lateral Sclerosis",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2026-01-27",
+      "completion_date": "2026-11-01",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This is a 24-week study of intestinal microbiome transplant in people with ALS. All participants will be evaluated clinically in person for 4 visits. Blood and mailed/ fresh stool samples will also be collected. Blood samples will be used to determine changes in neurofilament light chain over time. Stool samples will be processed for microbiome analysis. Participants will have phone visits to further evaluate safety and tolerability. They will then undergo antibiotic conditioning and a standard ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of ALS according to Gold Coast Criteria\n* Age: 18+ years at enrollment\n* Fast-progressing (ALSFRS-R change of at least 1.5 points per month between last 2 measurements at screening)\n* Modestly but not severely affected (ALSFRS-R score at or above 24 at screening)\n* A",
+      "endpoints": [
+        "ALS Functional Rating Scale, Revised (ALSFRS-R)",
+        "ALS Quality of Life (ALSAQ-5)",
+        "Neurofilament Light Chain levels"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT07017946"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07115706",
+      "title": "A Multi-center Prospective Observational Study to Evaluate the Effectiveness and Safety of JAQBO® Tab. 20 mg(Zastaprazan Citrate) in Erosive Gastroesophageal Reflux Disease",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-08-25",
+      "completion_date": "2026-07-31",
+      "country": "N/A",
+      "enrollment": 7150,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness and safety of JAQBO® Tab. 20 mg(Zastaprazan citrate) patients who have been prescribed the investigational drug.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* subjects aged 19 years or older who have been diagnosed with erosive reflux disease (ERD)\n* subjects who have voluntarily decided to participate in this observational study and have provided written informed consent after receiving the study information and consent form\n\nExclu",
+      "endpoints": [
+        "Change in Reflux Disease Questionnaire (RDQ) at Week 8"
+      ],
+      "sponsor": "Jeil Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT07115706"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06514274",
+      "title": "Study on The Efficacy and Safety of Berberine,Amoxicillin and Vonoprazan Containing Triple Therapy in Helicobacter Pylori First-Line Eradication",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2024-09-20",
+      "completion_date": "2025-06-25",
+      "country": "China",
+      "enrollment": 558,
+      "brief_summary": "The purpose of this study was to evaluate the efficacy and safety of the triple therapy of berberine hydrochloride, vonorasan and amoxicillin for the primary eradication of Helicobacter pylori.It is hypothesized that berberine hydrochloride, amoxicillin and vonoprazan triple therapy is non-inferior to bismuth-containing quadruple therapy.Patients diagnosed with H. pylori infection will be randomly divided into one of the above treatments. At week 6 follow-up visits, a urea breath test，rapid urea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 18\\~70,both gender.\n2. Patients with upper gastrointestinal symptoms and with documented H.pylori infection who did not receive Helicobacter pylori eradication treatment;\n3. Patients are willing to receive eradication treatment.\n4. Women of childbearing age were r",
+      "endpoints": [
+        "H pylori eradication rates"
+      ],
+      "sponsor": "Xijing Hospital of Digestive Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT06514274"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03320538",
+      "title": "Efficacy and Safety of Hou Gu Mi Xi in Patients With Peptic Ulcer Diseases: A Multicenter, Randomized, Double-blinded, Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-07-10",
+      "completion_date": "2020-09-17",
+      "country": "China",
+      "enrollment": 360,
+      "brief_summary": "This trial aims to determine whether Jiangzhong Hou Gu® Mi Xi™ is an effective intervention to improve symptoms and indicators in patients with spleen qi deficiency and peptic ulcer diseases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient should be diagnosed as gastric or duodenal ulcer under endoscope; the diameter of ulcers range from 0.3 to 1.0 cm; no indicator of bleeding or perforation.\n2. Patient should be diagnosed as syndrome of spleen qi deficiency, that is, meet 2 main symptoms of spleen defi",
+      "endpoints": [
+        "Total effective rate",
+        "Quality of ulcer healing",
+        "Changes in Spleen Qi Deficiency Symptoms Grading and Quantifying Scale (unit: score on a scale)"
+      ],
+      "sponsor": "Jiangxi University of Traditional Chinese Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03320538"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "11181329",
+      "title": "[67 Ga-citrate scintigraphy as a determiner in the diagnosis of a subacute thyroiditis].",
+      "abstract": "We present the case of a 41-year-old man admitted to the hospital with fever and toxic syndrome possibly having an oncological or infectious origin. A whole body scan with 67Ga-citrate showed an intense and diffuse radiotracer accumulation in the thyroid gland. The patient was re-evaluated and studied with other diagnostic tests including a thyroid 99mTc-pertechnetate scintigraphy and a thyroidal radioiodine uptake. A correct final diagnosis of painless subacute thyroiditis was made.",
+      "journal": "Revista espanola de medicina nuclear",
+      "year": "2001",
+      "authors": [
+        "Tembl A",
+        "Bernà L",
+        "Camacho V",
+        "Martín J C",
+        "Marí C"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anorexia",
+        "Citrates",
+        "Deglutition Disorders",
+        "Diagnosis, Differential",
+        "Diagnostic Errors",
+        "Fever",
+        "Gallium",
+        "Gallium Radioisotopes",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11181329/"
+    },
+    {
+      "pmid": "27316224",
+      "title": "Intranasal sodium citrate solution improves olfaction in post-viral hyposmia.",
+      "abstract": "Calcium plays an integral role in olfactory signal transduction, including feedback inhibition. Sodium citrate acts as a calcium sequestrant and when applied intranasally, reduces free calcium available for feedback inhibition, which should theoretically improve olfaction. We aimed to investigate the utility of intranasal sodium citrate in improving the olfactory function of hyposmic patients, by performing this prospective placebo controlled, single-blind trial.",
+      "journal": "Rhinology",
+      "year": "2016",
+      "authors": [
+        "Whitcroft K L",
+        "Merkonidis C",
+        "Cuevas M",
+        "Haehner A",
+        "Philpott C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Administration, Intranasal",
+        "Adult",
+        "Aged",
+        "Calcium Signaling",
+        "Chronic Disease",
+        "Citrates",
+        "Craniocerebral Trauma",
+        "Female",
+        "Humans",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27316224/"
+    },
+    {
+      "pmid": "27101674",
+      "title": "[Clinical evaluation of Montelukast plus Budesonide nasal spray and Desloratadine citrate disodium in treating moderate and severe persistent allergic rhinitis].",
+      "abstract": "To investigate the clinical efficacy of montelukast plus budesonide nasal spray and desloratadine citrate disodium tablets on moderate and severe persistent allergic rhinitis.",
+      "journal": "Lin chuang er bi yan hou tou jing wai ke za zhi = Journal of clinical otorhinolaryngology head and neck surgery",
+      "year": "2015",
+      "authors": [
+        "Wang Renzia",
+        "Zhang Chunhui"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Acetates",
+        "Budesonide",
+        "Cyclopropanes",
+        "Humans",
+        "Loratadine",
+        "Nasal Sprays",
+        "Quinolines",
+        "Rhinitis, Allergic, Perennial",
+        "Sulfides",
+        "Surveys and Questionnaires"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27101674/"
+    },
+    {
+      "pmid": "34842278",
+      "title": "The importance of vascular epithelial growth factor (VEGF) and inducible nitric oxide synthase (INOS) in rhinitis medicamentosa pathogenesis: An experimental rat model study.",
+      "abstract": "Our aim in this study is to reveal the expression of Vascular Endothelial Growth Factor (VEGF) and Inducible Nitric Oxide Synthase (iNOS) in the pathogenesis of rhinitis medicamentosa (RM), which occurs as a result of the overdose and long-term use of topical nasal decongestants.",
+      "journal": "Histology and histopathology",
+      "year": "2022",
+      "authors": [
+        "Cumbul Alev",
+        "Bulut Fuat"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Edema",
+        "Nasal Mucosa",
+        "Nitric Oxide Synthase Type II",
+        "Oxymetazoline",
+        "Rats",
+        "Rats, Wistar",
+        "Rhinitis",
+        "Vascular Endothelial Growth Factor A"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34842278/"
+    },
+    {
+      "pmid": "13443355",
+      "title": "[Treatment of allergic rhinitis with simultaneous sodium citrate-steroid dosage].",
+      "abstract": "",
+      "journal": "Wiener Zeitschrift fur innere Medizin und ihre Grenzgebiete",
+      "year": "1957",
+      "authors": [
+        "LADANYI J"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Citrates",
+        "Humans",
+        "Hyperthermia, Induced",
+        "Rhinitis, Allergic",
+        "Rhinitis, Allergic, Seasonal",
+        "Sodium Citrate",
+        "Steroids",
+        "Vitamin D",
+        "Vitamins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13443355/"
+    },
+    {
+      "pmid": "26155922",
+      "title": "Effects of desloratadine citrate disodium injection on rat models of ovalbumin-induced allergic rhinitis: involvement of T-cell responses modulation.",
+      "abstract": "Allergic rhinitis (AR) is a very common worldwide problem; patients display a number of symptoms, such as sneezing, nasal itching, and rhinorrhea, and their lifestyle is affected. Desloratadine is a novel, long-acting inhibitor of histamine. However, very little is known about the effect of desloratadine citrate disodium injection (DLC injection) on AR, and the underlying mechanisms are yet unexplored. Herein, we sought to explore the effects and mechanisms of actions of DLC injection in ovalbumin (OVA)-induced immune responses in a rat model of AR.",
+      "journal": "International forum of allergy & rhinology",
+      "year": "2015",
+      "authors": [
+        "Yuan Xin",
+        "Ghosh Arijit",
+        "Jie Qiong",
+        "He Guangwei",
+        "Wu Yulin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Allergens",
+        "Animals",
+        "Cell Adhesion Molecules",
+        "Citrates",
+        "Cytokines",
+        "Disease Models, Animal",
+        "Gene Expression Regulation",
+        "Histamine Antagonists",
+        "Humans",
+        "Immunomodulation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26155922/"
+    },
+    {
+      "pmid": "13164942",
+      "title": "[Autohemotherapy with sodium citrate injections in therapy of hay fever; preliminary report].",
+      "abstract": "",
+      "journal": "Medizinische Klinik",
+      "year": "1954",
+      "authors": [
+        "FELDER H"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Citrates",
+        "Humans",
+        "Immunization, Passive",
+        "Rhinitis, Allergic, Seasonal",
+        "Sodium Citrate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13164942/"
+    },
+    {
+      "pmid": "21712716",
+      "title": "Perioperative fasting in adults and children: guidelines from the European Society of Anaesthesiology.",
+      "abstract": "This guideline aims to provide an overview of the present knowledge on aspects of perioperative fasting with assessment of the quality of the evidence. A systematic search was conducted in electronic databases to identify trials published between 1950 and late 2009 concerned with preoperative fasting, early resumption of oral intake and the effects of oral carbohydrate mixtures on gastric emptying and postoperative recovery. One study on preoperative fasting which had not been included in previous reviews and a further 13 studies published since the most recent review were identified. The searches also identified 20 potentially relevant studies of oral carbohydrates and 53 on early resumption of oral intake. Publications were classified in terms of their evidence level, scientific validity and clinical relevance. The Scottish Intercollegiate Guidelines Network scoring system for assessing level of evidence and grade of recommendations was used. The key recommendations are that adults a",
+      "journal": "European journal of anaesthesiology",
+      "year": "2011",
+      "authors": [
+        "Smith Ian",
+        "Kranke Peter",
+        "Murat Isabelle",
+        "Smith Andrew",
+        "O'Sullivan Geraldine"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Carbohydrates",
+        "Child",
+        "Fasting",
+        "Humans",
+        "Infant",
+        "Intraoperative Complications",
+        "Preoperative Care"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21712716/"
+    },
+    {
+      "pmid": "3398901",
+      "title": "Gulper's gullet.",
+      "abstract": "",
+      "journal": "The New England journal of medicine",
+      "year": "1988",
+      "authors": [
+        "Oriscello R G",
+        "Mahal P"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aspirin",
+        "Beverages",
+        "Bicarbonates",
+        "Carbonated Beverages",
+        "Citrates",
+        "Drug Combinations",
+        "Esophageal Diseases",
+        "Esophageal Perforation",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3398901/"
+    },
+    {
+      "pmid": "3013486",
+      "title": "Nuclear medicine and esophageal surgery.",
+      "abstract": "The principal radionuclide procedures involved in the evaluation of esophageal disorders that are amenable to surgery are illustrated and briefly described. The role of the radionuclide esophagogram (RE) in the diagnosis and management of achalasia, oculopharyngeal muscular dystrophy and its complications, tracheoesophageal fistulae, pharyngeal and esophageal diverticulae, gastric transposition, and fundoplication is discussed. Detection of columnar-lined esophagus by Tc-99m pertechnetate imaging and of esophageal carcinoma by Ga-67 citrate and Tc-99m glucoheptonate studies also is presented.",
+      "journal": "Clinical nuclear medicine",
+      "year": "1986",
+      "authors": [
+        "Taillefer R",
+        "Beauchamp G",
+        "Duranceau A C",
+        "Lafontaine E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Barrett Esophagus",
+        "Deglutition Disorders",
+        "Diverticulum, Esophageal",
+        "Esophageal Achalasia",
+        "Esophageal Diseases",
+        "Esophageal Neoplasms",
+        "Esophagus",
+        "Gallium Radioisotopes",
+        "Gastroesophageal Reflux",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3013486/"
+    },
+    {
+      "pmid": "27732774",
+      "title": "Acute Gastric Injury Caused by Undissolved Sodium Picosulfate/Magnesium Citrate Powder.",
+      "abstract": "Sodium picosulfate/magnesium citrate (SPMC) is a widely used oral bowel cleansing agent considered to be relatively safe. However, partially dissolved or undissolved SPMC powder may cause severe injuries of the esophagus and stomach. We report a very rare case of acute gastric injury without esophageal damage caused by the ingestion of undissolved SPMC powder. A 69-year-old man experienced epigastric pain after swallowing SPMC powder without dissolving it in water in preparation for a screening colonoscopy. He realized his mistake immediately and subsequently drank 2 L of water. The esophagogastroduodenoscopy conducted after 12 hours indicated an acute gastric ulceration without injury of the esophagus or duodenum. The endoscopy conducted after 6 weeks of oral proton pump inhibitor treatment showed healing of the gastric injury. This suggested that drinking large amounts of water after ingesting partially dissolved or undissolved SPMC powder can prevent serious esophageal injury, but o",
+      "journal": "Clinical endoscopy",
+      "year": "2017",
+      "authors": [
+        "Ze Eun Young",
+        "Choi Chang Hwan",
+        "Kim Jeong Wook"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27732774/"
+    },
+    {
+      "pmid": "3322095",
+      "title": "[Prophylaxis and therapy of the acid aspiration syndrome].",
+      "abstract": "The best prevention of the aspiration syndrome begins with early identification of any patient at risk. Reduction of gastric volume and elevation of gastric pH can be achieved by premedication with glycopyrrolate (0.3 mg i.m.) and preoperative administration of H2-receptor antagonists (150 mg ranitidine p.o. 6-8 h and 80 mg i.m./i.v. 60 min before induction). Transportation of stomach contents into the duodenum can further be accelerated by 10 mg metoclopramide i.v. 20-40 min before induction. Metoclopramide will also elevate lower esophageal sphincter tone. Rapid elevation of gastric pH can be achieved by oral administration of 15-30 ml 0.3 mol sodium citrate. Induction of anesthesia should be performed as a \"rapid sequence induction\". Manual compression of the esophagus (Sellick manoever) may prevent gastric regurgitation. In cases of pulmonary aspiration, consequent therapy has to be initiated as soon as possible to limit broncho-alveolar damage. After endotracheal intubation the up",
+      "journal": "Der Anaesthesist",
+      "year": "1987",
+      "authors": [
+        "Ellmauer S"
+      ],
+      "pub_types": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anesthesia",
+        "Humans",
+        "Pneumonia, Aspiration"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3322095/"
+    },
+    {
+      "pmid": "30561588",
+      "title": "Effervescent agents in acute esophageal food impaction.",
+      "abstract": "Acute esophageal food impaction (AEFI) occurs frequently. Few data are published describing the use of effervescent agents (EAs) for treatment of AEFI. We aimed to evaluate the effectiveness, cost, and safety of EAs in the treatment of AEFI. We retrospectively identified patients aged 18 years and older who were seen in the emergency department of 2 hospitals in 1 metropolitan area from January 1, 2011, through April 4, 2016, who had a clinical diagnosis of AEFI. We collected and analyzed data on outcomes and cost associated with the use of EAs, glucagon, and no pharmacologic therapy. During the study period, 239 patients with AEFI met the inclusion criteria. Of the 45 patients who received EA monotherapy, 25 (55.6%) responded successfully, compared with 11 of 62 (17.7%) who received glucagon monotherapy (P < .001) and 16 of 93 (17.2%) who had no therapy (P < .001). Ten of 39 patients (25.6%) who were given both glucagon and EA responded successfully. The other 177 patients had endosco",
+      "journal": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus",
+      "year": "2019",
+      "authors": [
+        "David J",
+        "Backstedt D",
+        "O'Keefe K J",
+        "Salehpour K",
+        "Gerkin R D"
+      ],
+      "pub_types": [
+        "Evaluation Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Citrates",
+        "Drug Combinations",
+        "Drug Therapy, Combination",
+        "Emergency Service, Hospital",
+        "Esophageal Diseases",
+        "Female",
+        "Food",
+        "Gastrointestinal Agents",
+        "Glucagon"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30561588/"
+    },
+    {
+      "pmid": "24995633",
+      "title": "Design of pH-responsive alginate raft formulation of risedronate for reduced esophageal irritation.",
+      "abstract": "Risedronate sodium (RA), a pyridinyl bisphosphonate, is widely used in the treatment of osteoporosis. However, the free acid form of the bisphosphonate below pH 3.5 has the potential to produce severe impatience of the upper gastrointestinal tract, particularly esophagitis. A pH-responsive raft-forming tablet (PRR-T) was designed to prevent the esophageal irritation, mainly consisting of low-molecular-weight alginate (LFR 5/60, 300 mg) as raft-forming polymer, sodium bicarbonate (1000 mg) as gas-generating agent and citrate and sodium citrate (600 and 200 mg, respectively) as buffer system. A PRR-T was rapidly liquefied in water within 80 s with a low viscosity 8.0 mPa s, offering ease of swallowing in patients. A formulation profoundly neutralized simulated gastric fluid over pH 5.5, leading to an ionization of the bisphosphonate, without raft formation. On the other hand, the raft was rapidly formed on the top layer preventing the reflux of RA, if the contact with acidic medium is mu",
+      "journal": "International journal of biological macromolecules",
+      "year": "2014",
+      "authors": [
+        "Jang Sun Woo",
+        "Lee Jung Woo",
+        "Ryu Dong Sung",
+        "Son Miwon",
+        "Kang Myung Joo"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Alginates",
+        "Chemistry, Pharmaceutical",
+        "Drug Design",
+        "Esophagus",
+        "Etidronic Acid",
+        "Glucuronic Acid",
+        "Hexuronic Acids",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Irritants"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24995633/"
+    },
+    {
+      "pmid": "10499455",
+      "title": "Onset of action of antisecretory drugs: beneficial effects of a rapid increase in intragastric pH in acid reflux disease.",
+      "abstract": "The majority of patients who have symptomatic acid reflux disease will have a normal oesophageal mucosa or will have only a mild degree of oesophagitis. Treatment to relieve symptoms as they occur may be the best way to manage these patients, to whom the speed of symptom relief is of primary importance. The effervescent complex used to formulate effervescent ranitidine contains sodium bicarbonate and monosodium citrate, and has, therefore, an intrinsic acid-neutralizing capacity in addition to the well-documented antisecretory activity.",
+      "journal": "Scandinavian journal of gastroenterology. Supplement",
+      "year": "1999",
+      "authors": [
+        "Pipkin G A",
+        "Mills J G"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Gastric Acid",
+        "Gastric Mucosa",
+        "Gastroesophageal Reflux",
+        "Heartburn",
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Ranitidine",
+        "Stomach",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10499455/"
+    },
+    {
+      "pmid": "33422399",
+      "title": "Alkaline substances gastroesophageal injury in young children: emphasis on Asian food preparation habits.",
+      "abstract": "Ingestion of alkaline substances should not be disregarded because a small amount can cause chemical burns in the esophagus, with esophageal stricture being the most common late complication.",
+      "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+      "year": "2021",
+      "authors": [
+        "Chen Chin-Chiang",
+        "Chen An-Chyi",
+        "Wu Shu-Fen"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Burns, Chemical",
+        "Caustics",
+        "Child",
+        "Child, Preschool",
+        "Esophageal Stenosis",
+        "Female",
+        "Habits",
+        "Humans",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33422399/"
+    },
+    {
+      "pmid": "20587165",
+      "title": "A spoonful of sugar helps the medicine go down: a novel technique to improve oral gavage in mice.",
+      "abstract": "Oral gavage is a common route of precise oral dosing for studies in rodents. Complications including tracheal administration, esophageal trauma, and aspiration are common and usually related to animal resistance to the procedure, and the stress induced by oral gavage can be a confounding variable in many studies. The taste of sucrose conveys a pacifying and analgesic effect in newborns, whereas sour solutions can induce the swallow reflex in humans that are dysphagic. We hypothesized that precoating a gavage needle with sucrose or citrate (or both) would pacify mice and induce them to swallow, reducing the stress and complications associated with the technique. To validate this hypothesis, we quantitated time to passage, stress-related behavioral reactions to the procedure, and plasma corticosterone levels in mice after precoating gavage needles with water, sucrose, citrate, sucrose and citrate, or sodium chloride prior to oral gavage. Precoating needles with sucrose reduced the time t",
+      "journal": "Journal of the American Association for Laboratory Animal Science : JAALAS",
+      "year": "2010",
+      "authors": [
+        "Hoggatt Amber F",
+        "Hoggatt Jonathan",
+        "Honerlaw Meghan",
+        "Pelus Louis M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Validation Study"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Analgesics",
+        "Animals",
+        "Citric Acid",
+        "Corticosterone",
+        "Female",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Stress, Physiological",
+        "Sucrose"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20587165/"
+    },
+    {
+      "pmid": "3013486",
+      "title": "Nuclear medicine and esophageal surgery.",
+      "abstract": "The principal radionuclide procedures involved in the evaluation of esophageal disorders that are amenable to surgery are illustrated and briefly described. The role of the radionuclide esophagogram (RE) in the diagnosis and management of achalasia, oculopharyngeal muscular dystrophy and its complications, tracheoesophageal fistulae, pharyngeal and esophageal diverticulae, gastric transposition, and fundoplication is discussed. Detection of columnar-lined esophagus by Tc-99m pertechnetate imaging and of esophageal carcinoma by Ga-67 citrate and Tc-99m glucoheptonate studies also is presented.",
+      "journal": "Clinical nuclear medicine",
+      "year": "1986",
+      "authors": [
+        "Taillefer R",
+        "Beauchamp G",
+        "Duranceau A C",
+        "Lafontaine E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Barrett Esophagus",
+        "Deglutition Disorders",
+        "Diverticulum, Esophageal",
+        "Esophageal Achalasia",
+        "Esophageal Diseases",
+        "Esophageal Neoplasms",
+        "Esophagus",
+        "Gallium Radioisotopes",
+        "Gastroesophageal Reflux",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3013486/"
+    },
+    {
+      "pmid": "10499455",
+      "title": "Onset of action of antisecretory drugs: beneficial effects of a rapid increase in intragastric pH in acid reflux disease.",
+      "abstract": "The majority of patients who have symptomatic acid reflux disease will have a normal oesophageal mucosa or will have only a mild degree of oesophagitis. Treatment to relieve symptoms as they occur may be the best way to manage these patients, to whom the speed of symptom relief is of primary importance. The effervescent complex used to formulate effervescent ranitidine contains sodium bicarbonate and monosodium citrate, and has, therefore, an intrinsic acid-neutralizing capacity in addition to the well-documented antisecretory activity.",
+      "journal": "Scandinavian journal of gastroenterology. Supplement",
+      "year": "1999",
+      "authors": [
+        "Pipkin G A",
+        "Mills J G"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Gastric Acid",
+        "Gastric Mucosa",
+        "Gastroesophageal Reflux",
+        "Heartburn",
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Ranitidine",
+        "Stomach",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10499455/"
+    },
+    {
+      "pmid": "7104805",
+      "title": "Sodium citrate premedication in elective caesarean section patients.",
+      "abstract": "The pH and volume of gastric contents from thirty-three patients undergoing elective caesarean section with thiopentone, nitrous oxide, succinylcholine anaesthesia were examined. Twenty patients received Gelusil 30 ml by mouth and thirteen patients received 30 ml of a 0.15 molar solution of sodium citrate. Following tracheal intubation, gastric fluid was sampled through an 18 French Salem sump tube place orally. Mean pH following Gelusil was 4.54 +/- 2.45 (SD) and 2.29 +/- 1.77 following sodium citrate. This difference was statistically different (P less than 0.05). There was no difference in gastric volume between the two groups. Thirty five per cent of patients receiving Gelusil had a pH less than 2.5. This low pH was more likely to occur with prolonged intervals between drug administration and sampling. Significantly more patients receiving sodium citrate had a low pH (85 per cent) and this low pH was not related to the duration of interval between administration and sampling. This ",
+      "journal": "Canadian Anaesthetists' Society journal",
+      "year": "1982",
+      "authors": [
+        "Dewan D M",
+        "Writer W D",
+        "Wheeler A S",
+        "James F M",
+        "Floyd H M"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aging",
+        "Antacids",
+        "Cesarean Section",
+        "Citrates",
+        "Citric Acid",
+        "Female",
+        "Gastroesophageal Reflux",
+        "Humans",
+        "Hydrogen-Ion Concentration"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7104805/"
+    }
+  ]
+}

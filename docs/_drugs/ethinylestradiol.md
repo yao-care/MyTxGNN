@@ -5,7 +5,7 @@ drugbank_id: "DB00977"
 drug_name: "Ethinylestradiol"
 kg_predictions: 105
 dl_predictions: 122
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 105
 brands: []
 permalink: /drugs/ethinylestradiol/
@@ -21,7 +21,7 @@ permalink: /drugs/ethinylestradiol/
 | **DrugBank ID** | [DB00977](https://go.drugbank.com/drugs/DB00977) |
 | **KG Predictions** | 105 |
 | **DL Predictions (≥0.7)** | 122 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

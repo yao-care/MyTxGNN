@@ -1,0 +1,1063 @@
+{
+  "drug": "Budesonide",
+  "drugbank_id": "DB01222",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:23:01Z",
+  "indications": [
+    {
+      "indication": "asthma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 9,
+        "phase2_trials": 4,
+        "phase1_trials": 2,
+        "other_trials": 5,
+        "rct_articles": 4,
+        "review_articles": 5,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "inflammatory bowel disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 10,
+        "phase2_trials": 2,
+        "phase1_trials": 2,
+        "other_trials": 6,
+        "rct_articles": 1,
+        "review_articles": 7,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "allergic asthma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 8,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 3,
+        "phase1_trials": 0,
+        "other_trials": 10,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 5,
+        "total_trials": 20,
+        "total_articles": 8
+      }
+    },
+    {
+      "indication": "intrinsic asthma",
+      "evidence_level": "L2",
+      "trials": 8,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 7,
+        "rct_articles": 1,
+        "review_articles": 3,
+        "other_articles": 6,
+        "total_trials": 8,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "Crohn disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 2,
+        "phase1_trials": 3,
+        "other_trials": 9,
+        "rct_articles": 1,
+        "review_articles": 6,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 88,
+  "total_articles": 48,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00995904",
+      "title": "A Randomized, Open-Label, 3-Dose, 3-Period, Crossover Phase 2 Study Investigating the Tolerability and Pharmacokinetics of MAP0010 in Children 4 Through 11 Years Old With a History of Mild-To-Moderate Stable Asthma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2009-11",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "This Phase 2 study was to investigate the tolerability of unit dose budesonide (MAP0020) at three doses in pediatric volunteers with a diagnosis and history of mild-to-moderate stable asthma and evaluate the pharmacokinetic profile of budesonide resulting from inhalation aerosol delivery.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Male or female children with a documented diagnosis of mild-to-moderate persistent asthma (according to the 2007 NIH \\[EPR\\] criteria) for at least 1 year prior to screening and medically stable for a minimum of 6 months prior to screening.\n2. Children 4 through 11 years ",
+      "endpoints": [
+        "Cmax of Budesonide After Administration of MAP0020",
+        "AUC(0-inf) of Budesonide After Administration of MAP0020",
+        "Half-life (t1/2) of Budesonide After Administration of MAP0020"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT00995904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01668121",
+      "title": "Pharmacokinetic Study on Budesonide/Formoterol Device-metered Dry Powder Inhalers, Two Batches of Symbicort Turbuhaler and Budesonide/Formoterol Easyhaler: Randomised, Double-blind, Double-dummy, Single Centre, Single Dose, Crossover Study in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2012-11",
+      "country": "Germany",
+      "enrollment": 48,
+      "brief_summary": "The primary objective of this study is to evaluate the acceptance range with which two Symbicort Turbohaler batches could be declared bioequivalent in a bioequivalence setting. The secondary objective is to compare pharmacokinetic parameters of the reference product batches and Budesonide/formoterol Easyhaler.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent (IC) obtained.\n2. Males and females, 18-55 (inclusive) years of age.\n3. Normal weight defined as body mass index (BMI) \\> 19 and \\< 30 kg/m2 (BMI= weight/height2).\n4. Weight at least 50 kg.\n5. Forced expiratory volume in one second (FEV1) at least 80%",
+      "endpoints": [
+        "Pharmacokinetic parameter Cmax of plasma Budesonide concentration",
+        "Pharmacokinetic parameter AUCt of plasma Budesonide concentration",
+        "Pharmacokinetic parameter Cmax of plasma Formoterol concentration"
+      ],
+      "sponsor": "Orion Corporation, Orion Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT01668121"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00509028",
+      "title": "An Open-label, Multi-center, Long Term Study to Investigate the Safety and Efficacy of Budesonide Turbuhaler® Treatment for 48 Weeks (Following 6 Weeks Phase III Study) in Japanese Children With Bronchial Asthma Aged 5 Years to 15 Years Old",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2008-10",
+      "country": "Japan",
+      "enrollment": 241,
+      "brief_summary": "This study will include the patients who are Japanese children with bronchial asthma aged 5 years to 15 years old and have completed the Phase III study (Study code: D5254C00769) at about 29 centres. To investigate the safety of budesonide Turbuhaler® with a daily dose of 100 µg to 800 µg for 54 weeks treatment including the prior 6 weeks Phase III study (Study D5254C00769, NCT00504062) as compared with conventional therapy in Japanese children with bronchial asthma in need of inhaled glucocorti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient who complete preceding the Phase III study and provide a signed written informed consent by patient's legal representative at Visit 1 or 4 weeks prior to Visit 1 of the study. A signed written informed assent should also be obtained from the patients themselves as much",
+      "endpoints": [
+        "Number of Patients With Adverse Events (AEs)."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00509028"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00252863",
+      "title": "A Comparison of Symbicort Single Inhaler Therapy (Symbicort Turbuhaler 160/4.5 µg, 1 Inhalation b.i.d. Plus as Needed) and Conventional Best Practice for the Treatment of Persistent Asthma in Adults - a 26-Week, Randomised, Open-Label, Parallel-Group, Multicentre Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-12",
+      "completion_date": "2006-05",
+      "country": "Germany",
+      "enrollment": 1600,
+      "brief_summary": "The purpose of this study is to determine whether Symbicort dosed according to the Symbicort Maintenance and Reliever Therapy (SMART) concept is superior to standard asthma treatment according to the local German treatment guidelines.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with asthma, either well-controlled on a regular therapy with a combination of long-acting beta-agonists and inhaled corticosteroids or symptomatic on therapy with inhaled corticosteroids alone.\n\nExclusion Criteria:\n\n* Any other significant lung disease other than ast",
+      "endpoints": [
+        "Time to first severe asthma exacerbation"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00252863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04179461",
+      "title": "Personalized Treatment Algorithms for Difficult-to-treat Asthma: Bench to Community",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-03-16",
+      "completion_date": "2019-10-03",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "Asthma is a common, complex and costly chronic condition. Moreover, asthma is heterogeneous in terms of treatment response. This heterogeneity contributes to the difficulty in both studying and treating asthma. This is a pilot study to improve health outcomes in youths with difficult to treat asthma with ongoing symptoms and healthcare utilization despite medium to high doses of inhaled corticosteroids. Asthma heterogeneity in both disease pathophysiology and treatment response contributes to th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of provider-diagnosed asthma\n* Meets one of the following definition for NAEPP guidelines uncontrolled moderate persistent asthma or severe persistent asthma in the past 12 months:\n\n  * NAEPP step 3-4 with one of the following criteria in the past 12 months:\n\n    * Two",
+      "endpoints": [
+        "Change in Composite Asthma Severity Index (CASI)"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT04179461"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00667992",
+      "title": "A Phase 3, Randomised, Open-label, Crossover Study to Compare HFA vs CFC pMDI Formulations of Budesonide on Methacholine Hyper-reactivity in Patients With Stable, Persistent, Mild to Moderate Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2009-05",
+      "country": "United Kingdom, United States",
+      "enrollment": 99,
+      "brief_summary": "This study is being carried out to see if budesonide with HFA is effective, safe and well tolerated compared with budesonide CFC. Budesonide HFA has been already given in other research studies, in both healthy volunteers and subjects with asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients suffering from stable, persistent, mild to moderate asthma as defined by Global Initiative for Asthma (GINA) Guidelines and for whom FEV1 \\> 60 %\n* ICS taking ≤ 1000 μg BDP per day, or equivalent\n* Methacholine PC20 \\< 4 mg/mL\n\nExclusion Criteria:\n\n* Known or suspecte",
+      "endpoints": [
+        "PC 20 Methacholine (Provocative Concentration of Methacholine Causing 20 % Fall in FEV1(Forced Expiratory Volume)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00667992"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01035190",
+      "title": "Efficacy and Safety of Inhaled Budesonide in Very Preterm Infants at Risk for Bronchopulmonary Dysplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2016-07",
+      "country": "Italy, Netherlands, Germany, France, Israel, Belgium, Finland, Czechia",
+      "enrollment": 863,
+      "brief_summary": "HYPOTHESIS:\n\nEarly prophylactic inhalation of Budesonide reduces the absolute risk of developing bronchopulmonary dysplasia (BPD) or death in preterm infants born \\<28 weeks gestational age (GA) by 10%.\n\nPRIMARY OBJECTIVE:\n\nTo determine whether inhalation of Budesonide within 12 hours of life improves survival without BPD at 36 weeks GA in infants born between 23 and 27 weeks GA.\n\nSECONDARY OBJECTIVES:\n\nTo determine whether prophylactic inhalation of Budesonide affects neurodevelopment at a corr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* a gestational age of 23 0/7-27 6/7 weeks,\n* a postnatal age \\< 12 hours\n* the necessity for any form of positive pressure support (mechanical or nasal ventilation or CPAP\n\nExclusion Criteria:\n\n* involve a clinical decision not to administer therapies (infant not considered via",
+      "endpoints": [
+        "Survival without BPD at 36 weeks GA"
+      ],
+      "sponsor": "University Children's Hospital Tuebingen",
+      "url": "https://clinicaltrials.gov/study/NCT01035190"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05202262",
+      "title": "A Randomized, Double-Blind, Parallel Group, Multicenter 24 Week Study to Assess the Efficacy and Safety of Budesonide and Formoterol Fumarate Metered Dose Inhaler Relative to Budesonide Metered Dose Inhaler and Open-Label Symbicort® Turbuhaler® in Participants With Inadequately Controlled Asthma (VATHOS).",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2022-01-12",
+      "completion_date": "2025-02-26",
+      "country": "Italy, Germany, Vietnam, Spain, Japan, Canada, United States",
+      "enrollment": 645,
+      "brief_summary": "This is a 24 week study to evaluate the efficacy and safety of budesonide and formoterol fumarate metered dose inhaler in adults and adolescents with inadequately controlled asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 12 to 80 years of age, male and female, BMI \\<40 kg/m2; females must be not of childbearing potential or using a form of highly effective birth control.\n2. Participants who have a documented history of physician-diagnosed asthma ≥ 6 months prior to Visit 1, according to GINA ",
+      "endpoints": [
+        "Change From Baseline in Forced Expiratory Volume in 1 Second (FEV1) Area Under the Curve 0 to 3 Hours (AUC0-3) at Week 24"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT05202262"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00646529",
+      "title": "A Six Month, Randomized, Open-Label, Safety Study of Symbicort (160/4.5mcg) Compared to Pulmicort Turbuhaler in Asthmatic Children Aged Six to Eleven Years - SAPLING",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-07",
+      "completion_date": "2003-10",
+      "country": "N/A",
+      "enrollment": 175,
+      "brief_summary": "The purpose of this study is to assess the safety of Symbicort compared to Pulmicort in asthmatic children aged 6 to 11 years",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 6 and maximally 11 years of age\n* Diagnosis of asthma\n* Baseline lung function tests as determined by protocol and required and received daily treatment with inhaled corticosteroids for at least 4 weeks prior to study start\n\nExclusion Criteria:\n\n* Has required treatme",
+      "endpoints": [
+        "Long term safety profile of Symbicort compared to Pulmicort as determined by safety assessments detailed in the protocol"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00646529"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04480242",
+      "title": "Assessment of Children and Adolescents With Asthma: An Observational Prospective Study",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-07-26",
+      "completion_date": "2030-12-31",
+      "country": "Spain",
+      "enrollment": 525,
+      "brief_summary": "The purpose of this study is to assess the evolution of disease control, health-related quality of life, and the risk of severe asthma exacerbations in children and adolescents with persistent asthma in Spain at short, mid and long-term follow-up. Patient-reported information in this project is collected by computer assisted telephone interviews (CATI) and a mobile application (ARCA App).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children or adolescents aged 6-14.\n* Clinical diagnosis of asthma.\n* Undergoing treatment with inhaled corticosteroids (alone or combined with long-acting beta-agonists) for more than 6 months in the previous year.\n* With access to a smart phone (their own, or their parents').",
+      "endpoints": [
+        "Change from baseline in symptoms control, measured with the Asthma Control Questionnaire (ACQ)",
+        "Change from baseline in Health-Related Quality of Life, measured with the EuroQol",
+        "Number of severe asthmatic exacerbations"
+      ],
+      "sponsor": "Parc de Salut Mar",
+      "url": "https://clinicaltrials.gov/study/NCT04480242"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01803555",
+      "title": "A 12-Week Efficacy and Safety Evaluation of Budesonide/Formoterol SPIROMAX(R) 160/4.5 mcg Inhalation Powder Versus SYMBICORT(R) TURBOHALER(R) 200/6 mcg in Adult and Adolescent Patients With Persistent Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-07-04",
+      "completion_date": "2014-03-20",
+      "country": "Italy, Netherlands, Germany, Sweden, Denmark, France, Israel, Austria, United Kingdom, Belgium, Hungary, Finland, Czechia, Russia, Spain, Poland",
+      "enrollment": 605,
+      "brief_summary": "The primary objective of the study is to establish whether budesonide/formoterol fumarate dihydrate (BF) Spiromax 160/4.5 micrograms (mcg) is as effective as Symbicort Turbohaler 200/6 mcg administered twice daily in participants with persistent asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female participants 12 years and older as of the screening visit. Male or female participants 18 years and older, as of the screening visit, in countries where local regulations or the regulatory status of study medication permit enrollment of adult participants only.\n",
+      "endpoints": [
+        "Change From Baseline in Weekly Average of Daily Trough (Predose and Pre-rescue Bronchodilator) Morning (AM) Peak Expiratory Flow (PEF) Over the 12-Week Treatment Period"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01803555"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00839800",
+      "title": "A Comparison of Symbicort® SMART (160/4.5μg) and Symbicort® Turbuhaler 160/4.5 μg, Plus Terbutaline Turbuhaler 0.4 mg as Needed, for Treatment of Asthma - a 12-month, Randomized, Double-blind, Parallel Group, Active-controlled, Multinational Phase III Study in Asthmatic Patients From 16 Years",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2011-02",
+      "country": "Thailand, South Korea, Costa Rica, Peru, Philippines, Hungary, China, Japan, India, Malaysia, Argentina, Brazil",
+      "enrollment": 2091,
+      "brief_summary": "The primary objective of this study is to compare the efficacy of Symbicort SMART (Symbicort Turbuhaler 160/4.5μg, one inhalation twice daily plus as needed) with Symbicort Turbuhaler 160/4.5μg, one inhalation twice daily plus terbutaline Turbuhaler 0.4 mg as needed, as asthma therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of asthma according to the Global Initiative for Asthma guidelines (GINA) 2007 with a documented history of at least 6 months duration.\n* Reversible airway obstruction, defined as an increase in FEV1 ≥12% relative to baseline for all patients 15-30 minutes after inha",
+      "endpoints": [
+        "The Percentage of Participants Who Had Experienced Asthma Exacerbation(s) at the End of the Study"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00839800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06482294",
+      "title": "CIVETTA: Correlating Inflammatory Values of FEno, SympToms, SpuTum and Lung Function in Asthma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-06-18",
+      "completion_date": "2025-07-01",
+      "country": "Italy",
+      "enrollment": 80,
+      "brief_summary": "Single-center, interventional, open-label, randomized phase II study aimed at describing the changes in airway inflammation at the onset of asthma symptoms that lead to the use of rapid acting bronchodilator (RABD) as a rescue medication in a mild to moderate asthma population. The study will assess whether there are differences in the airway inflammation profile in patients using a reliever medication containing ICS (anti-inflammatory rescue strategy) compared to a reliever medication containin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients already followed for asthma according to ERS/ATS criteria\n* Mild and moderate asthma (GINA steps 1-3), with the exclusion of patients with severe asthma (GINA steps 4-5).\n\nExclusion Criteria:\n\nSevere asthma (Gina steps 4 and 5)\n\n* Inability to give informed consent\n* ",
+      "endpoints": [
+        "To evaluate airway inflammation characteristics and changes at the onset of asthma symptoms requiring as-needed therapy (RABD) and the impact of inhaled steroid therapy in addition to RABD on airway inflammation"
+      ],
+      "sponsor": "Università degli Studi di Ferrara",
+      "url": "https://clinicaltrials.gov/study/NCT06482294"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04191434",
+      "title": "Multicenter, Randomized, Double-blind, Double-dummy, National, Phase III Clinical Trial to Evaluate the Efficacy and Safety of Flamboyant 125/12 Association in the Treatment of Adults With Moderate Asthma .",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-07-22",
+      "completion_date": "2023-10",
+      "country": "Brazil",
+      "enrollment": 134,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of Flamboyant 125/12 association in adults with asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to confirm voluntary participation and agree to all trial purposes by signing and dating the informed consent forms;\n* Participants aged 18 years or more;\n* Diagnosis of uncontrolled moderate asthma;\n* Participants with Forced expiratory volume in 1 second (FEV1) \\> 60",
+      "endpoints": [
+        "Change from baseline in Forced expiratory volume in 1 second (FEV1), obtained through espirometry."
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT04191434"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092092",
+      "title": "A Double-Blind, Double-Dummy, Randomized, Placebo-Controlled, 2-Arm, 2X2 Crossover Study Comparing the Effects of Montelukast, Inhaled Budesonide, and Placebo on Lower Leg Growth in Children (Prepubertal, Tanner Stage I) With Mild Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-10",
+      "completion_date": "2004-06",
+      "country": "N/A",
+      "enrollment": 71,
+      "brief_summary": "The purpose of this study is to determine the effect of montelukast, an approved medication, on the lower leg growth rate in children with mild asthma. The primary hypothesis is that the lower leg length (LLL) growth rate for children treated with montelukast compared to placebo will be established.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A 6-month history of asthma with periodic episodes requiring treatment.\n\nExclusion Criteria:\n\n* Medical history of a lung disorder (other than asthma) or a recent upper respiratory tract infection.",
+      "endpoints": [
+        "Short-term lower-leg growth rate (LLGR)"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092092"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02934607",
+      "title": "A Randomised, Open-Label, Single-Dose, Single-Centre, Crossover Study in Healthy Subjects to Assess the Relative Bioavailability of Symbicort pMDI 160/4.5µg Administered With a Spacer (With and Without Charcoal) and Symbicort pMDI 160/4.5µg Administered Without a Spacer (With and Without Charcoal)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-11-04",
+      "completion_date": "2017-03-27",
+      "country": "United Kingdom",
+      "enrollment": 50,
+      "brief_summary": "This study will be conducted to establish the relative bioavailability of budesonide and formoterol delivered via Symbicort pressurized metered-dose inhaler (pMDI) with and without a spacer device.\n\nAdministration under each condition will occur with the concomitant administration of activated charcoal to estimate exposure through the lung and without activated charcoal to estimate total systemic exposure.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Provision of signed and dated, written informed consent prior to any study specific procedures.\n2. Healthy male and/or female subjects aged 18 years (inclusive) and older, with suitable veins for cannulation or repeated venipuncture.\n3. Females must have a negative pregnancy ",
+      "endpoints": [
+        "Maximum observed plasma concentration (Cmax) of Symbicort pMDI administered with spacer device without charcoal",
+        "Area under the plasma concentration-time curve from time zero to time of last quantifiable concentration (AUC0-t) of Symbicort pMDI administered with spacer device without charcoal",
+        "Cmax of Symbicort pMDI administered with spacer device with charcoal"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT02934607"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01526707",
+      "title": "The Use of FKBP51 in the Identification of Non-adherence to Inhaled Corticosteroids in Difficult Asthma",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-06",
+      "completion_date": "2014-08",
+      "country": "United Kingdom",
+      "enrollment": 40,
+      "brief_summary": "Approximately 5-10% of people with asthma do not respond to to standard therapy and are referred to as having difficult asthma. Evidence shows that this poor response is not always related to asthma severity and non-adherence to treatment is recognized as a common underlying problem, in 35% of these patients. Recognising non-adherence in the clinic is problematic as there is no straightforward objective test to identify it.\n\nPrevious studies have demonstrated up-regulation of FKBP51 gene express",
+      "eligibility_criteria": "Inclusion Criteria:\n\nThis pilot study will investigate the following groups (n=10 per group):\n\n1. Healthy volunteers.\n2. Steroid naïve asthmatics.\n3. Refractory asthmatics adherent to high dose inhaled steroids.\n4. Non-adherent asthmatics.\n\nInclusion Criteria\n\nFor inclusion into this study all parti",
+      "endpoints": [
+        "Change in FKBP51 gene expression"
+      ],
+      "sponsor": "Belfast Health and Social Care Trust",
+      "url": "https://clinicaltrials.gov/study/NCT01526707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03034005",
+      "title": "The RECONSTRUCT Study - Reconstructing Disease Mechanisms in Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-03-27",
+      "completion_date": "2019-02-28",
+      "country": "Denmark",
+      "enrollment": 60,
+      "brief_summary": "This study aims to assess the effect of inhaled corticosteroids (ICS) on airway smooth muscle (ASM) Na+, K+ pumps in patients with asthma.We wish to investigate differences in Na+, K+ pump content in healthy versus asthmatic patients, whether a reduction in airway hyper-responsiveness observed in asthmatic patients treated with ICS is attributable to an increase in Na+, K+ pump content in ASM cells and compare this in patients with non-eosinophilic asthma versus eosinophilic asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Asthma as defined by GINA (www.ginasthma.org) Eosinophilic asthma: Fractional exhaled nitric oxide (FeNO) \\> 25 ppb (marker of eosinophilic airway inflammation) Non-eosinophilic asthma: Fractional exhaled nitric oxide (FeNO) \\< 25 ppb\n* An FEV1 value of ≥70% of expected\n* Airw",
+      "endpoints": [
+        "Change in airway hyperresponsiveness (mannitol challenge) per change in Na+, K+ pumps content in airway smooth muscle."
+      ],
+      "sponsor": "Bispebjerg Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03034005"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01232322",
+      "title": "Pulmicort Respules 0.25/0.5 Specific Clinical Experience Investigation for Long-term Use in Pediatrics",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2011-07",
+      "country": "N/A",
+      "enrollment": 633,
+      "brief_summary": "The purpose of this study is to investigate the safety and efficacy for long term treatment of the drug in children aged 6 months and \\< 5 years on bronchial asthma in daily clinical usage.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients treated with Pulmicort Respules for the first time due to bronchial asthma\n* Children of \\>= 6 months and \\< 5 years old age at the start of study treatment",
+      "endpoints": [
+        "Incidence of Adverse Events",
+        "Effects on growth rate",
+        "Effects on the adrenal cortical function."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01232322"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00697801",
+      "title": "A Randomized, Double Blind, Placebo Controlled, 3 Arm, Parallel Group, Phase 2 Study Investigating the Efficacy, Tolerability and Pharmacokinetics of MAP0010 in Asthmatic Children and Adolescents Over 6 Weeks",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2006-12",
+      "country": "United States",
+      "enrollment": 208,
+      "brief_summary": "The objectives of this study are to evaluate the efficacy, tolerability and pharmacokinetics of 2 doses of MAP0010 (Unit Dose Budesonide) in asthmatic children/adolescents.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female asthmatic children/adolescents\n* 1 to 18 years of age\n* FEV1 greater than or equal to 50% predicted normal (where obtainable)\n* Stable but symptomatic\n* Diagnosis of asthma (per NIH criteria) at least 3 months before screening OR documented exacerbation or worse",
+      "endpoints": [
+        "Change From Baseline in Daytime Composite Symptom Score",
+        "Change From Baseline in Nighttime Composite Symptom Score"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT00697801"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "29768149",
+      "title": "Inhaled Combined Budesonide-Formoterol as Needed in Mild Asthma.",
+      "abstract": "In patients with mild asthma, as-needed use of an inhaled glucocorticoid plus a fast-acting β2-agonist may be an alternative to conventional treatment strategies.",
+      "journal": "The New England journal of medicine",
+      "year": "2018",
+      "authors": [
+        "O'Byrne Paul M",
+        "FitzGerald J Mark",
+        "Bateman Eric D",
+        "Barnes Peter J",
+        "Zhong Nanshan"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Equivalence Trial"
+      ],
+      "mesh_terms": [
+        "Administration, Inhalation",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Asthma",
+        "Bronchodilator Agents",
+        "Budesonide",
+        "Child",
+        "Double-Blind Method",
+        "Drug Administration Schedule"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29768149/"
+    },
+    {
+      "pmid": "37422796",
+      "title": "Effects of omalizumab combined with budesonide formoterol on clinical efficacy, pulmonary function, immune function, and adverse reactions in children with moderate and severe allergic asthma.",
+      "abstract": "To evaluate the clinical efficacy and safety of combining omalizumab with budesonide formoterol to treat children with moderate and severe allergic asthma, and investigate the effect of this combination therapy on pulmonary and immune functions.",
+      "journal": "Allergologia et immunopathologia",
+      "year": "2023",
+      "authors": [
+        "Chen Fuzhe",
+        "Liang Lei",
+        "Chu Fang Fang",
+        "Lu Changlong",
+        "Xu Chongyu"
+      ],
+      "pub_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Child",
+        "Budesonide",
+        "Omalizumab",
+        "Bronchodilator Agents",
+        "Formoterol Fumarate",
+        "Ethanolamines",
+        "Asthma",
+        "Budesonide, Formoterol Fumarate Drug Combination",
+        "Administration, Inhalation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37422796/"
+    },
+    {
+      "pmid": "32237004",
+      "title": "What have we learnt about asthma control from trials of budesonide/formoterol as maintenance and reliever?",
+      "abstract": "Despite improvements in medications, devices and understanding of the disease, about half of all asthma patients worldwide remain inadequately controlled, suggesting the need for a new approach to asthma management. Poor adherence to prescribed maintenance therapy and over-reliance on SABA reliever medication is a common cause of inadequate control. This article reviews published data from 6- to 12-month, double-blind, RCT and open-label real-world studies involving budesonide/formoterol maintenance and reliever therapy (MART) and relevant comparator approaches to asthma management, and considers how these compare in achieving the treatment goals described in guidelines. The data confirm that patients with asthma treated with budesonide/formoterol MART achieved the same or better asthma symptom control compared with ICS/LABA plus SABA regimens at similar or higher ICS doses, with consistently lower rates of exacerbations and considerably lower annual requirement for oral corticosteroid",
+      "journal": "Respirology (Carlton, Vic.)",
+      "year": "2020",
+      "authors": [
+        "Jenkins Christine R",
+        "Bateman Eric D",
+        "Sears Malcolm R",
+        "O'Byrne Paul M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Asthmatic Agents",
+        "Asthma",
+        "Bronchodilator Agents",
+        "Budesonide",
+        "Clinical Trials as Topic",
+        "Female",
+        "Formoterol Fumarate",
+        "Humans",
+        "Maintenance Chemotherapy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32237004/"
+    },
+    {
+      "pmid": "37003355",
+      "title": "Albuterol-Budesonide Pressurized Metered Dose Inhaler in Patients With Mild-to-Moderate Asthma: Results of the DENALI Double-Blind Randomized Controlled Trial.",
+      "abstract": "In the phase 3 MANDALA trial, as-needed albuterol-budesonide pressurized metered-dose inhaler significantly reduced severe exacerbation risk vs as-needed albuterol in patients with moderate-to-severe asthma receiving inhaled corticosteroid-containing maintenance therapy. This study (DENALI) was conducted to address the US Food and Drug Administration combination rule, which requires a combination product to demonstrate that each component contributes to its efficacy.",
+      "journal": "Chest",
+      "year": "2023",
+      "authors": [
+        "Chipps Bradley E",
+        "Israel Elliot",
+        "Beasley Richard",
+        "Panettieri Reynold A",
+        "Albers Frank C"
+      ],
+      "pub_types": [
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Child",
+        "Budesonide",
+        "Formoterol Fumarate",
+        "Metered Dose Inhalers",
+        "Administration, Inhalation",
+        "Asthma",
+        "Albuterol",
+        "Double-Blind Method",
+        "Bronchodilator Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37003355/"
+    },
+    {
+      "pmid": "11687183",
+      "title": "Budesonide for chronic asthma in children and adults.",
+      "abstract": "Inhaled budesonide is a widely used inhaled corticosteroid for asthma.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2001",
+      "authors": [
+        "Adams N",
+        "Bestall J",
+        "Jones P W"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Inflammatory Agents",
+        "Asthma",
+        "Bronchodilator Agents",
+        "Budesonide",
+        "Child",
+        "Chronic Disease",
+        "Humans",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11687183/"
+    },
+    {
+      "pmid": "32843176",
+      "title": "Comparing the efficacy and safety of formoterol/budesonide pMDI versus its mono-components and other LABA/ICS in patients with asthma.",
+      "abstract": "Pressurised metered dose inhalers (pMDIs) are effective drug delivery devices prescribed in obstructive airway diseases due to their convenience, portability, ease of enabling multiple doses in a single formulation, and storage in any orientation. For the management of asthma, the fixed-dose combination of a long-acting β2-agonist (LABA) and an inhaled corticosteroid (ICS) has been recommended by Global Initiative for Asthma guideline as a preferred treatment option for patients who are uncontrolled with only ICS doses. One of the available LABA/ICS combinations is the formoterol/budesonide (FB).",
+      "journal": "Respiratory medicine",
+      "year": "2020",
+      "authors": [
+        "Mukhopadhyay Aniruddha",
+        "Waked Mirna",
+        "Gogtay Jaideep",
+        "Gaur Vaibhav"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Administration, Inhalation",
+        "Adrenal Cortex Hormones",
+        "Adrenergic beta-2 Receptor Agonists",
+        "Age Factors",
+        "Anti-Asthmatic Agents",
+        "Asthma",
+        "Budesonide",
+        "Budesonide, Formoterol Fumarate Drug Combination",
+        "Child",
+        "Dose-Response Relationship, Drug"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32843176/"
+    },
+    {
+      "pmid": "16162021",
+      "title": "Budesonide inhalation suspension for the treatment of asthma in infants and children.",
+      "abstract": "On the basis of the well recognised role of inflammation in the pathogenesis of asthma, anti-inflammatory therapy, in the form of inhaled corticosteroids, has become the mainstay of treatment in patients with persistent asthma. Budesonide inhalation suspension (BIS) is a nonhalogenated corticosteroid with a high ratio of local anti-inflammatory activity to systemic activity. Furthermore, BIS is approved in >70 countries for the maintenance treatment of bronchial asthma in both paediatric and adult patients (approval is limited to paediatric patients in the US and France).Randomised, double-blind, placebo-controlled trials conducted in >1000 children have demonstrated the efficacy of BIS in children with persistent asthma of varying degrees of severity. In children frequently hospitalised with uncontrolled asthma, initiation of BIS therapy can reduce the need for emergency intervention. Moreover, limited data suggest that BIS is effective for the treatment of acute exacerbations of asth",
+      "journal": "Drugs",
+      "year": "2005",
+      "authors": [
+        "Berger William E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Inhalation",
+        "Anti-Inflammatory Agents",
+        "Asthma",
+        "Bronchodilator Agents",
+        "Budesonide",
+        "Child",
+        "Child, Preschool",
+        "Humans",
+        "Infant",
+        "Nebulizers and Vaporizers"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16162021/"
+    },
+    {
+      "pmid": "10172461",
+      "title": "Budesonide. An appraisal of the basis of its pharmacoeconomic and quality-of-life benefits in asthma.",
+      "abstract": "Budesonide is an inhaled corticosteroid that is used prophylactically to reduce the underlying inflammation and consequent airways narrowing associated with asthma. Widespread clinical experience has shown that inhaled budesonide is effective and well tolerated, and its use is well established in the management of adult and childhood asthma. In developed countries, asthma is a major health problem and consumes a large proportion of healthcare resources. Both the prevalence and severity of asthma appear to be increasing. Additionally, asthma-related mortality has been reported to have gradually increased since the mid- to late-1970s in many countries, possibly due to undertreatment and/or suboptimal management of the disease. Current guidelines recommend a shift away from initial treatment with oral bronchodilators, such as theophylline, or regular use of beta 2-agonist inhalers, toward the earlier use of more expensive inhalers containing corticosteroids. Inhaled bronchodilators are st",
+      "journal": "PharmacoEconomics",
+      "year": "1995",
+      "authors": [
+        "Davis R",
+        "McTavish D"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Asthma",
+        "Bronchodilator Agents",
+        "Budesonide",
+        "Cost-Benefit Analysis",
+        "Economics, Pharmaceutical",
+        "Humans",
+        "Pregnenediones",
+        "Prospective Studies",
+        "Quality of Life"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10172461/"
+    },
+    {
+      "pmid": "40593770",
+      "title": "Budesonide-incorporated inhalable lipid nanoparticles for antiTSLP nanobody mRNA delivery to treat steroid-resistant asthma.",
+      "abstract": "Asthma exacerbations and steroid resistance occur due to disruption of the airway epithelium, limiting the effectiveness of corticosteroids. Although monoclonal antibodies have progressively emerged as adjunctive therapy for steroid-resistant asthma, there remains a clinical need for targeted anti-inflammatory therapies with better efficacy and fewer off-target effects. Here, we propose the ASCEND (Alternative Steroids Co-delivering with mRNA Encoding Nanobodies) approach, which utilizes inhalable lipid nanoparticles formulated with budesonide (iLNPBUD5) to deliver mRNA encoding a thymic stromal lymphopoietin nanobody (mnbTSLP) for the treatment of steroid-resistant asthma. Upon nebulization, mnbTSLP-iLNPBUD5 targets the lungs, enhancing antiTSLP nanobody production while delivering budesonide. This combined therapy reduces airway inflammation, remodeling, and hyperresponsiveness in murine models. Additionally, mnbTSLP restores the sensitivity of steroid-resistant asthmatic mice to bud",
+      "journal": "Nature communications",
+      "year": "2025",
+      "authors": [
+        "Huang Jia",
+        "Bai Xin",
+        "Stewart William",
+        "Xu Xiaoyang",
+        "Zhang Xue-Qing"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Asthma",
+        "Animals",
+        "Budesonide",
+        "Mice",
+        "Nanoparticles",
+        "RNA, Messenger",
+        "Cytokines",
+        "Drug Resistance",
+        "Thymic Stromal Lymphopoietin",
+        "Single-Domain Antibodies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40593770/"
+    },
+    {
+      "pmid": "38527278",
+      "title": "Expert panel consensus recommendations on the utilization of nebulized budesonide for managing asthma and COPD in both stable and exacerbation stages in Thailand.",
+      "abstract": "This study investigated the utilization of nebulized budesonide for acute asthma and COPD exacerbations as well as for maintenance therapy in adults.",
+      "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+      "year": "2024",
+      "authors": [
+        "Wongsurakiat Phunsup",
+        "Rattanawongpaibul Akrawat",
+        "Limsukon Atikun",
+        "Chiewchalermsri Chirawat",
+        "Wiwatcharagoses Kittiyaporn"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "Consensus Statement"
+      ],
+      "mesh_terms": [
+        "Budesonide",
+        "Humans",
+        "Asthma",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Thailand",
+        "Nebulizers and Vaporizers",
+        "Administration, Inhalation",
+        "Bronchodilator Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38527278/"
+    },
+    {
+      "pmid": "36753033",
+      "title": "Mild Crohn's Disease: Definition and Management.",
+      "abstract": "Crohn's Disease (CD) is a chronic inflammatory disease that can lead to progressive damage to the gastrointestinal tract and significant disability. Early, \"top-down\" biologic therapy is recommended in moderate-to-severe CD to induce remission and to prevent hospitalization and complications. However, an estimated 20-30% of patients with CD have a mild disease course and may not garner sufficient benefit from expensive, immunosuppressing agents to justify their risks. Herein, we review characteristics of patients with mild CD, the available options for disease treatment and monitoring, and future directions of research.",
+      "journal": "Current gastroenterology reports",
+      "year": "2023",
+      "authors": [
+        "Claytor Jennifer",
+        "Kumar Pushkar",
+        "Ananthakrishnan Ashwin N",
+        "Colombel Jean-Frederic",
+        "Agrawal Manasi"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Crohn Disease",
+        "Sulfasalazine",
+        "Budesonide",
+        "Anti-Bacterial Agents",
+        "Enteral Nutrition",
+        "Remission Induction"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36753033/"
+    },
+    {
+      "pmid": "30840605",
+      "title": "ACG Clinical Guideline: Ulcerative Colitis in Adults.",
+      "abstract": "Ulcerative colitis (UC) is an idiopathic inflammatory disorder. These guidelines indicate the preferred approach to the management of adults with UC and represent the official practice recommendations of the American College of Gastroenterology. The scientific evidence for these guidelines was evaluated using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) process. In instances where the evidence was not appropriate for GRADE, but there was consensus of significant clinical merit, \"key concept\" statements were developed using expert consensus. These guidelines are meant to be broadly applicable and should be viewed as the preferred, but not only, approach to clinical scenarios.",
+      "journal": "The American journal of gastroenterology",
+      "year": "2019",
+      "authors": [
+        "Rubin David T",
+        "Ananthakrishnan Ashwin N",
+        "Siegel Corey A",
+        "Sauer Bryan G",
+        "Long Millie D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_terms": [
+        "Adalimumab",
+        "Anti-Inflammatory Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Biopsy",
+        "Budesonide",
+        "Colitis, Ulcerative",
+        "Colonoscopy",
+        "Colorectal Neoplasms",
+        "Disease Management",
+        "Early Detection of Cancer"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30840605/"
+    },
+    {
+      "pmid": "30007787",
+      "title": "Reviewing the therapeutic role of budesonide in Crohn's disease.",
+      "abstract": "Oral budesonide is a glucocorticoid of primarily local action. In the field of digestive diseases, it is used mainly in inflammatory bowel disease, but also in other indications. This review addresses the pharmacology, pharmacodynamics and therapeutic use of budesonide. Its approved indications are reviewed, as well as other clinical scenarios in which it could play a role, in order to facilitate its use and improve the accuracy of its prescription.",
+      "journal": "Gastroenterologia y hepatologia",
+      "year": "2018",
+      "authors": [
+        "López-Sanromán Antonio",
+        "Clofent Joan",
+        "Garcia-Planella Esther",
+        "Menchén Luis",
+        "Nos Pilar"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents",
+        "Budesonide",
+        "Colitis, Ulcerative",
+        "Controlled Clinical Trials as Topic",
+        "Crohn Disease",
+        "Humans",
+        "Ileostomy",
+        "Postoperative Complications",
+        "Practice Guidelines as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30007787/"
+    },
+    {
+      "pmid": "8819801",
+      "title": "Budesonide in inflammatory bowel disease.",
+      "abstract": "Due to its immunomodulatory and anti-inflammatory properties glucocorticosteroids have proved to be highly efficacious in patients with inflammatory bowel disease. However, because of the risk of side-effects, the dose and duration of therapy with systemically acting glucocorticosteroids have to be restricted. Recently the use of topically acting glucocorticosteroids has attracted great interest. Among the various topically acting glucocorticosteroids budesonide has emerged as the most promising. Budesonide is highly potent, is readily water-soluble and has low systemic bioavailability, thus reducing the risk of corticosteroid-related side-effects. When given as enema to patients with proctitis or proctosigmoiditis, the efficacy of budesonide is greater than that of placebo and equal to that of prednisolone or 5-aminosalicylic acid enemas. In an enteric-coated formulation budesonide is more effective than placebo in achieving and maintaining remission in patients with ileocecal Crohn's",
+      "journal": "The Netherlands journal of medicine",
+      "year": "1996",
+      "authors": [
+        "Lamers C B",
+        "Wagtmans M J",
+        "van der Sluys Veer A",
+        "van Hogezand R A",
+        "Griffioen G"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Administration, Topical",
+        "Anti-Inflammatory Agents",
+        "Budesonide",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Delayed-Action Preparations",
+        "Enema",
+        "Glucocorticoids",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8819801/"
+    },
+    {
+      "pmid": "18422482",
+      "title": "Oral pH-modified release budesonide for treatment of inflammatory bowel disease, collagenous and lymphocytic colitis.",
+      "abstract": "Budesonide is a glucocorticoid with high topical glucocorticoid activity and low systemic availability. Oral pH-modified release budesonide has been investigated for the treatment of various inflammatory intestinal diseases.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2008",
+      "authors": [
+        "Gross Volker"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Anti-Inflammatory Agents",
+        "Budesonide",
+        "Clinical Trials as Topic",
+        "Colitis, Collagenous",
+        "Colitis, Lymphocytic",
+        "Delayed-Action Preparations",
+        "Glucocorticoids",
+        "Humans",
+        "Hydrogen-Ion Concentration"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18422482/"
+    },
+    {
+      "pmid": "32681228",
+      "title": "Randomized Trial of Ciprofloxacin Doxycycline and Hydroxychloroquine Versus Budesonide in Active Crohn's Disease.",
+      "abstract": "Increased mucosa-associated E. coli are present in Crohn's disease, but their role in pathogenesis is uncertain.",
+      "journal": "Digestive diseases and sciences",
+      "year": "2021",
+      "authors": [
+        "Rhodes Jonathan M",
+        "Subramanian Sreedhar",
+        "Flanagan Paul K",
+        "Horgan Graham W",
+        "Martin Kate"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Anti-Inflammatory Agents",
+        "Budesonide",
+        "Ciprofloxacin",
+        "Crohn Disease",
+        "Cross-Over Studies",
+        "Doxycycline",
+        "Drug Therapy, Combination",
+        "Enzyme Inhibitors",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32681228/"
+    },
+    {
+      "pmid": "8586030",
+      "title": "Budesonide. A review of its pharmacological properties and therapeutic efficacy in inflammatory bowel disease.",
+      "abstract": "Budesonide is a glucocorticoid with high topical activity, but low systemic bio-availability which results in reduced systemic effects in comparison with other glucocorticoids. To date, it has been evaluated for use in patients with inflammatory bowel disease when administered either orally as a controlled ileal release formulation or rectally as an enema. In comparative trials, daily treatment with budesonide enema 2 mg/100ml for 4 weeks produced endoscopic remission or improvement in 46 to 84% of patients with active distal ulcerative colitis and/or proctitis and histological remission or improvement in 45 to 68%. In general, this regimen was effective as regimens of hydrocortisone, methylprednisolone, prednisolone or mesalazine (5-amino-salicylic acid, mesalamine) enemas, but caused less suppression of plasma cortisol levels than the other glucocorticoids. Oral treatment with controlled release budesonide 9 mg/day for 8 weeks produces clinical remission in 42 to 67% of patients with",
+      "journal": "Drugs",
+      "year": "1995",
+      "authors": [
+        "Spencer C M",
+        "McTavish D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Budesonide",
+        "Clinical Trials as Topic",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Humans",
+        "Pregnenediones",
+        "Proctitis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8586030/"
+    },
+    {
+      "pmid": "37418329",
+      "title": "Drugs for inflammatory bowel disease.",
+      "abstract": "",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2023",
+      "authors": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Inflammatory Bowel Diseases",
+        "Immunosuppressive Agents",
+        "Colitis, Ulcerative",
+        "Infliximab"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37418329/"
+    },
+    {
+      "pmid": "21790284",
+      "title": "Budesonide in the treatment of inflammatory bowel disease.",
+      "abstract": "Inflammatory bowel disease, including Crohn's disease and ulcerative colitis, features recurrent episodes of inflammation of the GI tract. The treatment of inflammatory bowel disease is aimed at breaking the cycle of relapsing and remitting inflammation by inducing and maintaining remission. Systemically active conventional corticosteroids have long played a role in the induction of remission in both Crohn's disease and ulcerative colitis, however, their long-term use can lead to adverse systemic effects. Budesonide, a synthetic steroid, has potent local anti-inflammatory effects and limited systemic bioavailability making it an appealing therapeutic option. Ulcerative colitis with predominantly distal disease may be treated with topical budesonide, however, novel oral controlled-release formulations have also been developed to allow for treatment of the entire colon. This article summarizes the use of budesonide in the management of inflammatory bowel disease.",
+      "journal": "Expert review of clinical immunology",
+      "year": "2011",
+      "authors": [
+        "Silverman Jason",
+        "Otley Anthony"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adrenal Cortex Hormones",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Budesonide",
+        "Clinical Trials as Topic",
+        "Drug Administration Routes",
+        "Drug Delivery Systems",
+        "Gastrointestinal Tract",
+        "Humans",
+        "Inflammatory Bowel Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21790284/"
+    },
+    {
+      "pmid": "21407179",
+      "title": "Glucocorticosteroid therapy in inflammatory bowel disease: systematic review and meta-analysis.",
+      "abstract": "The use of glucocorticosteroids to treat both Crohn's disease (CD) and ulcerative colitis (UC) is widespread, but no systematic review and meta-analysis has examined the issue of efficacy of these agents in its entirety.",
+      "journal": "The American journal of gastroenterology",
+      "year": "2011",
+      "authors": [
+        "Ford Alexander C",
+        "Bernstein Charles N",
+        "Khan Khurram J",
+        "Abreu Maria T",
+        "Marshall John K"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents",
+        "Budesonide",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Glucocorticoids",
+        "Humans",
+        "Randomized Controlled Trials as Topic",
+        "Remission Induction",
+        "Risk",
+        "Secondary Prevention"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21407179/"
+    }
+  ]
+}

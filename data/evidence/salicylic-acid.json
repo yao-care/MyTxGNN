@@ -2,7 +2,7 @@
   "drug": "Salicylic Acid",
   "drugbank_id": "DB00936",
   "evidence_level": "L1",
-  "collected_at": "2026-03-04T09:56:36Z",
+  "collected_at": "2026-03-04T10:10:26Z",
   "indications": [
     {
       "indication": "keratinization disease",
@@ -40,19 +40,19 @@
     },
     {
       "indication": "plantar wart",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "trials": 5,
-      "articles": 10,
+      "articles": 0,
       "summary": {
         "phase3_trials": 1,
         "phase2_trials": 0,
         "phase1_trials": 1,
         "other_trials": 3,
-        "rct_articles": 1,
-        "review_articles": 3,
-        "other_articles": 6,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
         "total_trials": 5,
-        "total_articles": 10
+        "total_articles": 0
       }
     },
     {
@@ -91,7 +91,7 @@
     }
   ],
   "total_trials": 29,
-  "total_articles": 49,
+  "total_articles": 39,
   "trials": [
     {
       "registry": "ClinicalTrials.gov",

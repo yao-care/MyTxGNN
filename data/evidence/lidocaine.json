@@ -1,0 +1,1015 @@
+{
+  "drug": "Lidocaine",
+  "drugbank_id": "DB00281",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:36:28Z",
+  "indications": [
+    {
+      "indication": "dermatitis",
+      "evidence_level": "L3",
+      "trials": 8,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 6,
+        "rct_articles": 0,
+        "review_articles": 4,
+        "other_articles": 6,
+        "total_trials": 8,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "mite infestation",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "urethritis",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 4,
+        "review_articles": 2,
+        "other_articles": 4,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "hemorrhoid",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 3,
+        "phase1_trials": 1,
+        "other_trials": 13,
+        "rct_articles": 2,
+        "review_articles": 4,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "premature ejaculation",
+      "evidence_level": "L1",
+      "trials": 12,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 2,
+        "phase1_trials": 2,
+        "other_trials": 4,
+        "rct_articles": 1,
+        "review_articles": 8,
+        "other_articles": 1,
+        "total_trials": 12,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 40,
+  "total_articles": 41,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06387212",
+      "title": "35 kDa Hyaluronan Fragment (HA35) Reduces Chronic Skin Inflammation",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-04-15",
+      "completion_date": "2024-05",
+      "country": "Mongolia",
+      "enrollment": 20,
+      "brief_summary": "To explore the clinical effect and safety of 35 kDa hyaluronic acid fragment ( HA35 ) combined with negative pressure microneedle technology in improving skin problems.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Skin problems include but are not limited to dry skin, dark skin, and coarse pores.\n* Chronic skin inflammation, pigmentation, erythema, etc.\n* Cooperate with the experimental requirements and be able to complete the score independently。\n\nExclusion Criteria:\n\n* Pregnant or lac",
+      "endpoints": [
+        "A skin dryness scale",
+        "A fair or smooth skin scale",
+        "A skin pore size scale"
+      ],
+      "sponsor": "Nakhia Impex LLC",
+      "url": "https://clinicaltrials.gov/study/NCT06387212"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06458179",
+      "title": "Retrospective Cohort Study for One Year Follow-up: Ultrasound Guided Radiofrequency Ablation of Proximal Greater Occipital Nerve is Effective",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-01-01",
+      "completion_date": "2023-04-30",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 18,
+      "brief_summary": "The International Headache Society (IHS) defines occipital neuralgia, as a unilateral or bilateral paroxysmal, shooting, or stabbing pain in the posterior region of the scalp, in the distribution of the greater occipital nerve (GON), lesser occipital nerve (LON), or third occipital nerve (TON). The condition is occasionally accompanied by diminished sensation or dysesthesia in the affected area and is frequently associated with tenderness over the involved nerves. The majority of cases with occi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with unilateral primary occipital neuralgia\n\nExclusion Criteria:\n\n* Patients lacking documentation or inadequate follow-up\n* Patients whom taking analgesic medication during the follow-up period\n* Bilateral occipital neuralgia\n* Secondary occipital neuralgia (e.g., ce",
+      "endpoints": [
+        "NRS"
+      ],
+      "sponsor": "Mersin Training and Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06458179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07360639",
+      "title": "Effectiveness of a Combination Cream of Gayo Arabica Coffee Bean Extract and Aceh Patchouli (Pogostemon Cablin Benth) Compared to Urea Cream for Dry Skin",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2025-06-01",
+      "completion_date": "2025-12-20",
+      "country": "Indonesia",
+      "enrollment": 64,
+      "brief_summary": "The goal of this Clinical trial is to Determine the effectiveness of a cream combining Gayo Arabica coffee bean extract and Aceh patchouli compared to urea cream for dry skin in Patients with dry skin, aged 18-65 years old who meet the inclusion criteria. The main question it aims to answer is:\n\nCan cream combination of Gayo Arabica coffee husk extract and Aceh patchouli be used on humans? is cream combination of Gayo Arabica coffee husk extract and Aceh patchouli clinically effective in improvi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18-65 years old\n* Diagnosed with xerosis cutis\n* not using any moisturizer for more than 2 weeks\n* dry skin at extremity\n\nExclusion Criteria:\n\n* no history of coffee, patchouli, urea, or cream composition allergy\n* secondary infection lession appeared\n* pregnant or",
+      "endpoints": [
+        "herbal cream effectiveness in treating dry skin",
+        "the safety assessment of herbal cream application on human skin"
+      ],
+      "sponsor": "Universitas Syiah Kuala",
+      "url": "https://clinicaltrials.gov/study/NCT07360639"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05145959",
+      "title": "Meibomian Gland Probing in the Sub-Acute Phase of Patients With Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-12-01",
+      "completion_date": "2024-03-01",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The investigators' aim is to study the effects of mechanical expression of meibomian glands on eyelid disease, ocular surface health in the subacute phase of SJS/TEN.\n\nThe primary outcome is to use meibomian gland imaging to assess the health and caliber of the meibomian glands of both lower eyelids, between the treated and non-treated eyes before and after the intervention. Monitoring of outcomes will be measured by comparing the results of meibography at the initial visit and at the 6-month fo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with SJS/TEN presenting to the Massachusetts Eye and Ear Infirmary (MEEI) ophthalmology clinic or who were seen by the ophthalmology team acutely at the Massachusetts General Hospital (MGH).\n* Patients must be in the Sub-acute phase of ocular SJS (within 6 months)\n* P",
+      "endpoints": [
+        "Meibomian gland imaging (Meibography) - Qualitative description"
+      ],
+      "sponsor": "Massachusetts Eye and Ear Infirmary",
+      "url": "https://clinicaltrials.gov/study/NCT05145959"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03630198",
+      "title": "The Use of Local Anesthetic in Intralesional Corticosteroid Injections; A Randomized, Double Blind Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-10-01",
+      "completion_date": "2019-09-01",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "Corticosteroid therapy, including intralesional and topical applications, has many indications within the fields of Dermatology, Plastic Surgery, and Orthopedics. However, these injections can be quite painful, which leads many patients to discontinue treatment.\n\nOften, the injection involves a mixture of local anesthetic and corticosteroids despite a lack of evidence that the use of lidocaine improves pain. Due to the acidic pH, the lidocaine component of the injection can actually cause a sign",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\>12 years old presenting with an indication for intralesional steroid injection\n\nExclusion Criteria:\n\n* Unconsentable\n* Not a candidate for corticosteroid injection\n* Contraindication to lidocaine",
+      "endpoints": [
+        "Pain Outcome: Visual Analog Scale"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03630198"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03720119",
+      "title": "Multicentre Observational Study on the Wound Pain Relief Properties of ORTODERMINA®",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-01-27",
+      "completion_date": "2018-03-05",
+      "country": "Italy",
+      "enrollment": 78,
+      "brief_summary": "Acute pain may occur due to trauma, surgery, infection, disruption of blood circulation or when there is tissue injury. It can be managed using analgesics and conduction anaesthesia, which may be preferable because of superior pain control and fewer side effects. Lidocaine hydrochloride is used topically to relieve itching, burning and pain from skin inflammation. This multicentric observational study is aimed to evaluate the relief gained with lidocaine hydrochloride (ORTODERMINA®) on wound pai",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Patients with painful exuding wounds \\>1 cm2 that includes painful exuding ulcers and pressure ulcers grade II \\[according to National Pressure Ulcer Advisory Panel (NPUAP) classification\\]\n* Patients available and able to return to the study site for the sche",
+      "endpoints": [
+        "Change of Pain Relief From Baseline to the End of Treatment Using the 5-point Visual Rating Scale (VRS)",
+        "Change of Pain Intensity From Baseline to the End of Treatment Using the 11-point Numerical Pain Rating Scale (NPRS)"
+      ],
+      "sponsor": "SOFAR S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT03720119"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07067541",
+      "title": "Clinical Observation of Topical Lidocaine Cream Combined With Moisturizing Cream in the Treatment of Atopic Dermatitis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-10-01",
+      "completion_date": "2024-01-31",
+      "country": "China",
+      "enrollment": 25,
+      "brief_summary": "Twenty-five patients with atopic dermatitis applied lidocaine cream plus a moisturizer to the right limb and lidocaine cream alone to the left limb, twice daily for four weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients aged 18-65 years.\n2. Clinical diagnosis of atopic dermatitis according to the 2020 Guidelines for the Diagnosis and Treatment of Atopic Dermatitis in China (symmetrical eczematous lesions for ≥6 months plus personal/family atopy history or elevated IgE",
+      "endpoints": [
+        "change in SCORAD (SCORing Atopic Dermatitis) from baseline"
+      ],
+      "sponsor": "First Affiliated Hospital of Kunming Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT07067541"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05508945",
+      "title": "Silk Scaffold Surgical Incision Dressing Interventional Study",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-08-23",
+      "completion_date": "2023-08-19",
+      "country": "United States",
+      "enrollment": 78,
+      "brief_summary": "Interventional Study of the novel clinical application of SERI surgical silk scaffold affixed with dermaFLEX medical adhesive as a wound dressing, compared to two separate current standard of care for surgical incision closure devices: Prineo Dermabond and 3M Steri-Strip. Both components of the silk wound dressing prototype are FDA approved materials for other indications. This study seeks to gain insight of functionality of silk as a wound coverage material and determine variations of clinical ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Exhibit fluency and literacy in English\n* Exhibit adequate cognitive ability to consent to experimental research\n* Ability to obtain pre-operative clearance from an unaffiliated primary care physician prior to surgery as deemed necessary under M. Mark Mofid's predetermined sta",
+      "endpoints": [
+        "Presence of Contact Dermatitis"
+      ],
+      "sponsor": "San Diego Skin, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05508945"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02301052",
+      "title": "Double Blind Randomized Placebo-control Trial of Allium Ampeloprasum Spp.Iranicum Cream Effect for the Management of Hemorrhoids Symptoms",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2014-09",
+      "completion_date": "2014-12",
+      "country": "Iran",
+      "enrollment": 75,
+      "brief_summary": "Purpose of study is evaluation of Allium ampeloprasum Spp.Iranicum cream efficacy in management of symptomatic hemorrhoids in a double blind randomized placebo-control trial",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Participants having symptomatic hemorrhoids(GRADE 1-4) without need to emergency operation according to physical examination\n* Participants who do not use drugs other than the study drug and the control drug to treat their hemorrhoids during the study period:\n\nExclusion Criteri",
+      "endpoints": [
+        "pain (visual analogue scale(0-10))",
+        "bleeding ( questionnaire)",
+        "itching ( questionnaire)"
+      ],
+      "sponsor": "Shiraz University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT02301052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07159334",
+      "title": "Role of Topical Application of Lignocaine Versus 0.2% Glyceryl Trinitrate (GTN) Ointment as a Postoperative Local Analgesic in Hemorrhoidectomy in Terms of Pain Score,Wound Healing Time and Patient Satisfaction Level",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-08-02",
+      "completion_date": "2025-12",
+      "country": "Pakistan",
+      "enrollment": 64,
+      "brief_summary": "This study is being conducted at the Department of General Surgery, King Edward Medical University, Lahore, Pakistan. The purpose of the trial is to compare the effectiveness of topical Lignocaine ointment versus topical Glyceryl Trinitrate (GTN) ointment in reducing postoperative pain following hemorrhoidectomy.\n\nPatients undergoing hemorrhoidectomy will be randomly assigned to receive either Lignocaine ointment or GTN ointment applied locally after surgery. Pain relief will be assessed using a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18 - 60 years\n* Both genders\n* Grade III and IV hemorrhoids diagnosed on the basis of history and clinical examination by consultant Surgeon.(Grade III Hemorrhoid manually reduced by patient with finger and Grade IV is prolapsed)\n* ASA (American society of Anesthes",
+      "endpoints": [
+        "Postoperative pain score",
+        "Wound Healing Time"
+      ],
+      "sponsor": "King Edward Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT07159334"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05348200",
+      "title": "A Randomized, Dose-Ranging, Double Blind Study to Demonstrate the Safety and Efficacy of a CITI-002 Cream in the Seven Day Twice-Daily Treatment of Grade II or III Hemorrhoids",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2022-04-22",
+      "completion_date": "2023-05-17",
+      "country": "United States",
+      "enrollment": 304,
+      "brief_summary": "A Randomized Phase 2 double blind study which aims to determine the safety and efficacy of CITI-002 cream in adult patients with Goligher's grade II or III hemorrhoids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or non-pregnant female 18 years of age or older.\n* Signs written informed consent for the study.\n* Females must be post-menopausal , surgically sterile , or use an effective method of birth control, or women of childbearing potential (WOCBP) must have a negative Urine Pre",
+      "endpoints": [
+        "Change in Hemorrhoid symptoms"
+      ],
+      "sponsor": "Citius Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05348200"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03757078",
+      "title": "Prospective Multicenter Non-interventional Study of Fluocortolone + Lidocaine Formulation in Patients With Acute Hemorrhoids to Evaluate Changes in Symptoms Severity During the Course of Treatment",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-11-30",
+      "completion_date": "2019-10-20",
+      "country": "Russia",
+      "enrollment": 1000,
+      "brief_summary": "In this study researcher wanted to learn more about the changes of biggest twisted and bulging veins in the rectal area (hemorrhoids) and changes of symptoms during a treatment period with the cream Relief Pro and suppositories Relief Pro. The study collected information on the treatment satisfaction of patients and their physicians with the prescribed treatment by using questionnaires. There were 3 visits at the physician's clinic for this study: one initial visit and 2 follow-up visits over a ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male \\& female patients 18 to 65 years old;\n* Patients with acute hemorrhoids 1 and 2 stage (with thrombosis (external, internal, mixed), including cases with bleeding);\n* Prescription of fluocortolone + lidocaine as a part of routine clinical practice.\n\nExclusion Criteria:\n\n*",
+      "endpoints": [
+        "Severity of pain (VAS: Visual Analogue Scale)",
+        "Severity of bleeding (according to 4-point Likert scale)",
+        "Severity of pruritus (according to 4-point Likert scale)"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT03757078"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06420388",
+      "title": "Efficacy of 2% Lidocaine Gel in Reducing Postoperative Pain and Analgesic Consumption Following Haemorrhoidectomy: A Randomized, Double-Blind, Controlled Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-05-01",
+      "completion_date": "2024-10-01",
+      "country": "Taiwan",
+      "enrollment": 400,
+      "brief_summary": "The study is a randomized, double-blind, controlled trial evaluating the efficacy of 2% lidocaine gel in reducing postoperative pain and analgesic consumption after haemorrhoidectomy. 222 patients undergoing Ferguson haemorrhoidectomy will be randomly assigned to receive either 2% lidocaine gel or a non-anaesthetic lubricant gel control. Pain scores using a visual analog scale (VAS) will be assessed at 12 and 24 hours, and 2, 3, and 7 days postoperatively. Analgesic consumption will also be meas",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Diagnosed with Grade III or IV hemorrhoids\n* Candidate for Ferguson haemorrhoidectomy\n\nExclusion Criteria:\n\n* Not a candidate for Ferguson haemorrhoidectomy\n* Recurrent hemorrhoidal disease\n* Concurrent anal pathology diagnosed preoperatively, including",
+      "endpoints": [
+        "Postoperative pain"
+      ],
+      "sponsor": "E-DA Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06420388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03345511",
+      "title": "Ultrasound Guided Analgesic Caudal Block in Anal Canal Surgery",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-11-01",
+      "completion_date": "2016-06-30",
+      "country": "Colombia",
+      "enrollment": 23,
+      "brief_summary": "Interventional study that evaluate analgesia and side effects of Ultrasound guided Caudal block preoperatively in benign canal anal surgery",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age from 18 to 70 year old patient\n* schedule for benign anal surgery ( hemorrhoids, anal fistula, fissure or abcess )\n* Caudal analgesic injection before surgery\n* Use of ultrasound to guide needle insertion into caudal space\n\nExclusion Criteria:\n\n* cognitive impairment\n* ver",
+      "endpoints": [
+        "postoperative pain intensity (P3). Self reported pain intensity at 6, 12 and 24 hours after surgery."
+      ],
+      "sponsor": "Universidad de Antioquia",
+      "url": "https://clinicaltrials.gov/study/NCT03345511"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04896268",
+      "title": "Prospective, Multicentric, Randomized, Open-label Study Comparing the Efficacy, in Terms of Quality of Life, and Safety of RAdiofrequency Versus HAL- RAR DOppler in Hemorrhoidal Pathology",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-01-03",
+      "completion_date": "2025-08",
+      "country": "France",
+      "enrollment": 100,
+      "brief_summary": "Haemorrhoids are composed of tissue rich in blood vessels and are present in all individuals inside the anus (internal haemorrhoids) or under the skin of the anus (external haemorrhoids). Haemorrhoidal disease (HD) occurs when haemorrhoids become troublesome and cause symptoms such as pain, bleeding, prolapse or oozing. In case of failure of medical treatment, instrumental procedures or extensive disease, surgical treatment can be considered. There are two classic surgical techniques. The first ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female consulting for hemorrhoidal pathology (grade II or III) after failure of medico-instrumental treatments.\n* Age ≥ 18 years and \\< 75 years\n* Mandatory affiliation to a health insurance system.\n* Patient having been informed of the study and having given informed ",
+      "endpoints": [
+        "To demonstrate an increase in quality of life, at 1 month post-procedure, when haemorrhoidal disease is managed with radiofrequency versus HAL-RAR with Doppler"
+      ],
+      "sponsor": "Elsan",
+      "url": "https://clinicaltrials.gov/study/NCT04896268"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07295886",
+      "title": "Observational Study on the Use of Topical Nifedipine 0.3% and Lidocaine 1.5% in Acute Uncomplicated Hemorrhoidal Disease",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-09-02",
+      "completion_date": "2026-05-02",
+      "country": "Italy",
+      "enrollment": 80,
+      "brief_summary": "The goal of this observational study is to evaluate the effectiveness of topical nifedipine 0.3% plus lidocaine 1.5% for uncomplicated hemorrhoidal disease. The main question it aims to answer is:\n\nDoes topical nifedipine 0.3% plus lidocaine 1.5% lower symptoms in patients with uncomplicated acute hemorrhoidal disease? Participants already taking nifedipine 0.3% plus lidocaine 1.5% as part of their regular medical care for hemorrhoidal disease will undergo four visits over a 30-day period, inclu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients aged 18-75 years.\n* Clinical or anoscopic diagnosis of acute hemorrhoidal disease with prolapse severity between Grade II and IV (Goligher), possibly associated with external congestion.\n* Patients who started treatment with nifedipine 0.3% + lidocaine",
+      "endpoints": [
+        "Change in HDSS (hemorrhoidal disease symptom score) questionnaire, analyzed using paired t-test or Wilcoxon signed-rank test according to data distribution. The total HDSS ranges from 0 to 20, with higher scores indicating greater symptom severity."
+      ],
+      "sponsor": "Cardarelli Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07295886"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03105674",
+      "title": "Multi-drug Analgesia Versus Standard Solution for Perianal Block - A Prospective Study to Determine the Efficacy, Cost and Narcotic Consumption in the Post-operative Period",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2017-05-01",
+      "completion_date": "2017-12",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The primary aim is to test the magnitude and duration of analgesia provided by single dose multi-drug analgesia administered for perianal block, and compare with standard solution (Marcaine \\& Lidocaine in 1:1 mixture - Total 60 ml), at post-operative period and also to compare with the standard solution including their respective post-operative opioid or non-opioid oral analgesic requirement. Local anesthesia via a perianal block using multi-drug analgesia or standard solution will be compared ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and nonpregnant women aged 18 years or older scheduled to undergo anorectal procedures\n* Female patients must be postmenopausal, surgically sterile, or willing to use acceptable means of contraception for at least 30 days after surgery.\n* Patients will be required to have ",
+      "endpoints": [
+        "Score on Numeric Pain Rating Scale"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT03105674"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03298997",
+      "title": "Comparison Between the Ligation and Hemorrhoidopexy Technique and the Conventional Ligation of Hemorrhoidal Arteries Using Ultrasound: a Prospective, Randomized Controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-10-01",
+      "completion_date": "2020-07-15",
+      "country": "Greece",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to compare two techniques for treating hemorrhoids, the ligation and hemorrhoidopexy technique and the conventional ligation of hemorrhoidal arteries using ultrasound, in patients with non-complicated hemorrhoids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Μale or female\n* Age: 18 to 80 years\n* American Society of Anesthesiologists (ASA) score: I and II\n* Grade I, II, and III hemorrhoids\n\nExclusion Criteria:\n\n* Acute perianal diseases, such as perianal abscesses, complicated hemorrhoids (e.g., thrombosis) and acute anal fissure\n",
+      "endpoints": [
+        "Symptoms Remission Rate"
+      ],
+      "sponsor": "Larissa University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03298997"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00617448",
+      "title": "Ligasure™ Versus Diathermy Haemorrhoidectomy Under Spinal or Local Anaesthesia With Ropivacaine. A Randomized Study With One Year Follow-up",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2005-05",
+      "completion_date": "2007-06",
+      "country": "Spain",
+      "enrollment": 81,
+      "brief_summary": "The objective of this prospective randomised trial was to compare the short- and long-term efficacy of conventional diathermy haemorrhoidectomy versus Ligasure™ diathermy, and to assess the short-term outcome of each procedure performed either under spinal anaesthesia or local anaesthesia with pudendal block with ropivacaine combined with intravenous sedation.\n\nWe think, Ligasure haemorrhoidectomy under local anesthesia can be performed as day-case procedure and with equal results at long-term t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with a long-standing history of symptomatic grade III or IV haemorrhoids\n\nExclusion Criteria:\n\n* previous anal surgery, concomitant anal disease (fissure, fistula, incontinence and inflammatory bowel disease), use of anticoagulants or analgesics, known hypersensitivit",
+      "endpoints": [
+        "all cause morbility within the first 7 days after surgery (consequence of surgery and anesthesia) and results sintomatology since 12 months"
+      ],
+      "sponsor": "Hospital de Viladecans",
+      "url": "https://clinicaltrials.gov/study/NCT00617448"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05965674",
+      "title": "The Effect of Sacral Erector Spinae Plane Block on Post-Hemorrhoidectomy Pain",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-06-01",
+      "completion_date": "2023-07-07",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 35,
+      "brief_summary": "Hemorrhoids are commonly observed surgical conditions affecting the anorectal area, characterized by symptoms such as pain, bleeding, and the presence of a protruding mass from the anal opening. Fear of postoperative pain is one of the most important factors for patients to avoid surgical interventions. Postoperative pain is a significant concern, with over 80% of patients encountering moderate to severe pain.\n\nThe main aim is to evaluate ESPB from the sacral level would result in effective anal",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* being between the ages of 18 and 65,\n* having an ASA status of 1-2.\n\nExclusion Criteria:\n\n* under the age of 18, pregnant individuals,\n* significant hematopoietic, cardiovascular, liver, or kidney disorders,\n* patients unable to comply with medical instructions, individuals on",
+      "endpoints": [
+        "pain intensity at rest and in motion evaluated with an NRS (0-10, 0 = no pain, 10 = worst pain) at 0, 2, 4, 6, 12, and 24h."
+      ],
+      "sponsor": "Konya City Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05965674"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "36521846",
+      "title": "Lidocaine alleviates inflammation and pruritus in atopic dermatitis by blocking different population of sensory neurons.",
+      "abstract": "Atopic dermatitis is a common chronic pruritic inflammatory disease of the skin involving neuro-immune communication. Neuronal mechanism-based therapeutic treatments remain lacking. We investigated the efficacy of intravenous lidocaine therapy on atopic dermatitis and the underlying neuro-immune mechanism.",
+      "journal": "British journal of pharmacology",
+      "year": "2023",
+      "authors": [
+        "Sun Pei-Yi",
+        "Li Hua-Guo",
+        "Xu Qian-Yue",
+        "Zhang Zhen",
+        "Chen Jia-Wen"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Dermatitis, Atopic",
+        "Pruritus",
+        "Skin",
+        "Inflammation",
+        "Sensory Receptor Cells"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36521846/"
+    },
+    {
+      "pmid": "38809527",
+      "title": "Chronic Pruritus: A Review.",
+      "abstract": "Chronic pruritus, defined as itch experienced for 6 weeks or longer, affects approximately 22% of people in their lifetime. Approximately 1% of physician visits are for the chief concern of chronic pruritus. Chronic pruritus is associated with adverse outcomes, including impaired sleep and reduced quality of life.",
+      "journal": "JAMA",
+      "year": "2024",
+      "authors": [
+        "Butler Daniel C",
+        "Berger Timothy",
+        "Elmariah Sarina",
+        "Kim Brian",
+        "Chisolm Sarah"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Chronic Disease",
+        "Pruritus",
+        "Antipruritics"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38809527/"
+    },
+    {
+      "pmid": "33470011",
+      "title": "Treatment of the feline atopic syndrome - a systematic review.",
+      "abstract": "Feline allergic skin disease and asthma occur regularly in small animal practice.",
+      "journal": "Veterinary dermatology",
+      "year": "2021",
+      "authors": [
+        "Mueller Ralf S",
+        "Nuttall Tim",
+        "Prost Christine",
+        "Schulz Bianka",
+        "Bizikova Petra"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Allergens",
+        "Animals",
+        "Cat Diseases",
+        "Cats",
+        "Cyclosporine",
+        "Dermatitis, Atopic",
+        "Desensitization, Immunologic",
+        "Glucocorticoids",
+        "Immunotherapy",
+        "Retrospective Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33470011/"
+    },
+    {
+      "pmid": "38934159",
+      "title": "Allergic Contact Dermatitis to Lidocaine and Sodium Metabisulfite.",
+      "abstract": "",
+      "journal": "Dermatitis : contact, atopic, occupational, drug",
+      "year": "2025",
+      "authors": [
+        "Hoyos Camila N Fontane",
+        "Jessup Chad J",
+        "Goldminz Ari M"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38934159/"
+    },
+    {
+      "pmid": "30145645",
+      "title": "Contact Dermatitis to Medications and Skin Products.",
+      "abstract": "Consumer products and topical medications today contain many allergens that can cause a reaction on the skin known as allergic contact dermatitis. This review looks at various allergens in these products and reports current allergic contact dermatitis incidence and trends in North America, Europe, and Asia. First, medication contact allergy to corticosteroids will be discussed along with its five structural classes (A, B, C, D1, D2) and their steroid test compounds (tixocortol-21-pivalate, triamcinolone acetonide, budesonide, clobetasol-17-propionate, hydrocortisone-17-butyrate). Cross-reactivities between the steroid classes will also be examined. Next, estrogen and testosterone transdermal therapeutic systems, local anesthetic (benzocaine, lidocaine, pramoxine, dyclonine) antihistamines (piperazine, ethanolamine, propylamine, phenothiazine, piperidine, and pyrrolidine), topical antibiotics (neomycin, spectinomycin, bacitracin, mupirocin), and sunscreen are evaluated for their potenti",
+      "journal": "Clinical reviews in allergy & immunology",
+      "year": "2019",
+      "authors": [
+        "Nguyen Henry L",
+        "Yiannias James A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Allergens",
+        "Animals",
+        "Cosmetics",
+        "Dermatitis, Allergic Contact",
+        "Drug Hypersensitivity",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30145645/"
+    },
+    {
+      "pmid": "34710629",
+      "title": "Predictors of Acute Radiation Dermatitis and Esophagitis in African American Patients Receiving Whole-Breast Radiation Therapy.",
+      "abstract": "Adjuvant whole breast radiation therapy after breast-conserving surgery is the standard of care in the management of early-stage breast cancer. Two of the most common acute toxicities of breast radiation therapy are radiation esophagitis (RE) and radiation dermatitis (RD). African American individuals are at higher risk for experiencing treatment-related toxic effects and are often underrepresented in clinical trials.",
+      "journal": "Practical radiation oncology",
+      "year": "2022",
+      "authors": [
+        "Dzul Stephen",
+        "Ninia James",
+        "Jang Hyejeong",
+        "Kim Seongho",
+        "Dominello Michael"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Black or African American",
+        "Breast",
+        "Breast Neoplasms",
+        "Esophagitis",
+        "Female",
+        "Humans",
+        "Mastectomy, Segmental",
+        "Radiodermatitis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34710629/"
+    },
+    {
+      "pmid": "23278914",
+      "title": "Serum lidocaine levels and cutaneous side effects after application of 23% lidocaine 7% tetracaine ointment to the face.",
+      "abstract": "Few published studies have analyzed serum lidocaine levels and individual patient characteristics affecting metabolism after application of compounded topical anesthetics.",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "year": "2013",
+      "authors": [
+        "McCleskey Patrick E",
+        "Patel Seema M",
+        "Mansalis Katherine A",
+        "Elam Amanda L",
+        "Kinsley Tina R"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anesthetics, Local",
+        "Body Surface Area",
+        "Dermatitis, Contact",
+        "Drug Combinations",
+        "Drug Eruptions",
+        "Face",
+        "Female",
+        "Humans",
+        "Hyperpigmentation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23278914/"
+    },
+    {
+      "pmid": "41046125",
+      "title": "Basic mechanisms of itch and advances in clinical management.",
+      "abstract": "Chronic pruritus requires comprehensive assessment and management due to its profound impact on quality of life. The etiologies of pruritus are diverse, encompassing dermatologic, neuropathic, systemic, psychogenic, and mixed causes. Pruritogens activate C and Aδ fibers through histaminergic and non-histaminergic pathways. Increasing evidence highlights the role of TH2 cytokines, particularly interleukin (IL)-4, IL-13, and IL-31, which directly stimulate sensory neurons and perpetuate the itch-scratch cycle. Itch perception arises from dynamic interactions between the immune system and the peripheral and central nervous systems. Signals transmitted by sensory fibers are processed in the dorsal horn and relayed to thalamic and cortical centers, reinforcing chronicity. Diagnostic evaluation begins with detailed history and examination, complemented by laboratory testing such as complete blood cell count, kidney, liver, glucose, and thyroid function tests to uncover systemic or neurologic",
+      "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+      "year": "2026",
+      "authors": [
+        "Coscarella Giulia",
+        "Edwards Elise",
+        "Yosipovitch Gil"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Pruritus",
+        "Animals"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41046125/"
+    },
+    {
+      "pmid": "17244876",
+      "title": "Lamotrigine-induced Stevens-Johnson syndrome.",
+      "abstract": "A case of lamotrigine-induced Stevens-Johnson syndrome (SJS) is reported.",
+      "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+      "year": "2007",
+      "authors": [
+        "Hilas Olga",
+        "Charneski Lisa"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anticonvulsants",
+        "Female",
+        "Humans",
+        "Lamotrigine",
+        "New York City",
+        "Stevens-Johnson Syndrome",
+        "Triazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17244876/"
+    },
+    {
+      "pmid": "21226720",
+      "title": "Prevalence of benzocaine and lidocaine patch test sensitivity in Denmark: temporal trends and relevance.",
+      "abstract": "BACKGROUND. Allergens included in the European baseline series should result in positive patch test reactions in at least 1% of a patch test population. Inclusion of local anaesthetics other than benzocaine in the baseline series has previously been debated.",
+      "journal": "Contact dermatitis",
+      "year": "2011",
+      "authors": [
+        "Thyssen Jacob P",
+        "Engkilde Kåre",
+        "Menné Torkil",
+        "Johansen Jeanne D"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Anesthetics, Local",
+        "Benzocaine",
+        "Causality",
+        "Denmark",
+        "Dermatitis, Allergic Contact",
+        "Forecasting",
+        "Humans",
+        "Lidocaine",
+        "Patch Tests"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21226720/"
+    },
+    {
+      "pmid": "1664794",
+      "title": "New developments in pediatric dermatology.",
+      "abstract": "",
+      "journal": "Current problems in pediatrics",
+      "year": "1991",
+      "authors": [
+        "Eichenfield L F",
+        "Honig P J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Anesthetics, Local",
+        "Child",
+        "Condylomata Acuminata",
+        "Drug Combinations",
+        "Erythema Infectiosum",
+        "Exanthema Subitum",
+        "Female",
+        "Food Hypersensitivity",
+        "Hemangioma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1664794/"
+    },
+    {
+      "pmid": "31307254",
+      "title": "Comparing 2% lidocaine gel (Dispogel and Cathejell) in cystoscopy.",
+      "abstract": "Cystoscopy is a common urologic procedure. Analgesics are often used to reduce any pain associated with this procedure. The aim of this study was to investigate the efficacy in reducing pain and the cost-effectiveness of two forms of lidocaine gel in patients undergoing cystoscopy.",
+      "journal": "The Journal of international medical research",
+      "year": "2019",
+      "authors": [
+        "Ucar Muharrem",
+        "Oguz Fatih",
+        "Gecit Ilhan",
+        "Aydogan Mustafa Said"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Blood Pressure",
+        "Cystoscopy",
+        "Gels",
+        "Humans",
+        "Lidocaine",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31307254/"
+    },
+    {
+      "pmid": "36570502",
+      "title": "Comparative evaluation of sedative and anti-nociceptive effects of epidural romifidine, romifidine-lidocaine, and lidocaine in donkeys (Equus asinus).",
+      "abstract": "Local and regional anesthetic procedures are valuable tools in veterinary practice. Caudal epidural administration of local anesthetic agents is widely reported for surgical interventions of the tail, anus, rectum, vulva, vagina, urethra, and bladder in the standing horse. Epidural analgesia is also obtained using various drugs such as alpha-2 adrenoceptor agonists, dissociative anesthetics, and opioids. The present study evaluates the anti-nociceptive and sedative effects of epidural administration of romifidine, a romifidine-lidocaine combination, and lidocaine alone in donkeys.",
+      "journal": "Frontiers in veterinary science",
+      "year": "2022",
+      "authors": [
+        "Marzok Mohamed",
+        "Almubarak Adel I",
+        "Babiker Hussein",
+        "Kandeel Mahmoud",
+        "El-Hawari Sayed Fathi"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36570502/"
+    },
+    {
+      "pmid": "29944227",
+      "title": "Urethral instillations of clobetasol propionate and lidocaine: a promising treatment of urethral pain syndrome.",
+      "abstract": "To evaluate topical treatment with clobetasol propionate and lidocaine in women with urethral pain syndrome (UPS) in a retrospective pilot study.",
+      "journal": "Clinical and experimental obstetrics & gynecology",
+      "year": "2016",
+      "authors": [
+        "Lindström B E",
+        "Hellberg D",
+        "Lindström A K"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Anesthetics, Local",
+        "Clobetasol",
+        "Female",
+        "Glucocorticoids",
+        "Humans",
+        "Lidocaine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29944227/"
+    },
+    {
+      "pmid": "19701033",
+      "title": "Lidocaine jelly and plain aqueous gel for urethral straight catheterization and the Q-tip test: a randomized controlled trial.",
+      "abstract": "To compare the pain perception between lidocaine and plain aqueous gel during assessment of postvoid residual volume and the Q-tip test.",
+      "journal": "Obstetrics and gynecology",
+      "year": "2009",
+      "authors": [
+        "Harmanli Ozgur H",
+        "Okafor Obi",
+        "Ayaz Reyhan",
+        "Knee Alexander"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Anesthetics, Local",
+        "Female",
+        "Gels",
+        "Humans",
+        "Lidocaine",
+        "Middle Aged",
+        "Pain"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19701033/"
+    },
+    {
+      "pmid": "2709497",
+      "title": "Cocaine and lidocaine as topical urethral anesthetics.",
+      "abstract": "To evaluate the efficacy of topical cocaine combined with lidocaine as a urethral anesthetic, a double-blind, randomized, prospective study was performed comparing lidocaine combined with cocaine or placebo in male outpatient cystoscopy. Evaluations were based on a scale of 1 to 10, with 1 representing no discomfort and 10 extreme discomfort as judged by the patient, and 1 representing the best tolerance and 10 extreme intolerance as judged by the physician. Patients who received lidocaine plus cocaine reported a mean score of 3.33 for over-all discomfort of cystoscopy. This was not significantly different than for lidocaine alone. This finding indicates a lack of a summation effect in combining topical anesthetics. Patients undergoing repeat examinations were no more comfortable than those undergoing initial cystoscopy but older patients tolerated the procedure significantly better than younger patients.",
+      "journal": "The Journal of urology",
+      "year": "1989",
+      "authors": [
+        "Pliskin M J",
+        "Kreder K J",
+        "Desmond P M",
+        "Dresner M L"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Anesthesia, Local",
+        "Anesthetics, Local",
+        "Cocaine",
+        "Cystoscopy",
+        "Double-Blind Method",
+        "Humans",
+        "Lidocaine",
+        "Male",
+        "Pain Measurement",
+        "Random Allocation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2709497/"
+    },
+    {
+      "pmid": "33759297",
+      "title": "Lidocaine lubricant jelly does not reduce pain perception during female urethral catheterization: A systematic review with meta-analysis and trial sequential analysis.",
+      "abstract": "The use of lubrication before performing urethral catheterization has been recommended. However, the benefit of using lidocaine gel over plain lubricant gel in reducing pain perception during female urethral catheterization is unclear. With this review, we aimed to compare the pain perception during female urethral catheterization with or without lidocaine lubricant gel.",
+      "journal": "International journal of clinical practice",
+      "year": "2021",
+      "authors": [
+        "Sharma Sneha",
+        "Sharma Gopal",
+        "Tyagi Shantanu"
+      ],
+      "pub_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anesthetics, Local",
+        "Female",
+        "Humans",
+        "Lidocaine",
+        "Lubricants",
+        "Pain Measurement",
+        "Pain Perception",
+        "Randomized Controlled Trials as Topic",
+        "Urinary Catheterization"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33759297/"
+    },
+    {
+      "pmid": "28670677",
+      "title": "A Randomized Control Trial Comparing Combined Glandular Lidocaine Injection and Intraurethral Lidocaine Gel with Intraurethral Lidocaine Gel Alone in Cystoscopy and Urethral Dilatation.",
+      "abstract": "Cystoscopy is one of the most common urologic procedures. The aim of this study is to investigate the combined effect of intraurethral lidocaine gel and intraglandular injection of lidocaine 2% on pain during and after cystoscopy. Materials &amp; Methods: In this double-blind, parallel group randomized clinical trial, 156 patients referred for double J removal, urethral dilatation, or cystoscopy were enrolled. The patients were divided into two groups, A and B. All patients received 20 cc of intraurethral lidocaine gel 2%. In group A (N = 75), lidocaine 2% was also injected into the glans penis. The patients in group B (N = 81) only received the intraurethral lidocaine gel. Cystoscopy was performed 10 minutes later. The primary outcome of interest was measured in terms of pain score (visual analogue scale) during and 5 minutes after cystoscopy.",
+      "journal": "Urology journal",
+      "year": "2017",
+      "authors": [
+        "Gooran Shahram",
+        "Pourfakhr Pejman",
+        "Bahrami Shirin",
+        "Fakhr Yasseri Ali Mohammad",
+        "Javid Amir"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Anesthesia, Local",
+        "Anesthetics, Local",
+        "Cystoscopy",
+        "Dilatation",
+        "Double-Blind Method",
+        "Gels",
+        "Humans",
+        "Injections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28670677/"
+    },
+    {
+      "pmid": "11371877",
+      "title": "Absorption of alkalized intravesical lidocaine in normal and inflamed bladders: a simple method for improving bladder anesthesia.",
+      "abstract": "Pharmacokinetic studies have shown that intravesical lidocaine is not sufficiently absorbed by human bladders to achieve significant serum levels and it only provides a superficial local anesthetic effect. We investigated the pharmacokinetics of alkalized intravesical lidocaine in healthy volunteers and patients with interstitial cystitis to determine a safe dose of buffered lidocaine, the effect of interstitial cystitis on lidocaine uptake and the acute local anesthetic effect on bladder pain in interstitial cystitis.",
+      "journal": "The Journal of urology",
+      "year": "2001",
+      "authors": [
+        "Henry R",
+        "Patterson L",
+        "Avery N",
+        "Tanzola R",
+        "Tod D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Absorption",
+        "Adult",
+        "Anesthetics, Local",
+        "Buffers",
+        "Cystitis, Interstitial",
+        "Humans",
+        "Lidocaine",
+        "Pain Measurement"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11371877/"
+    },
+    {
+      "pmid": "22435459",
+      "title": "Intravesical application of lidocaine and sodium bicarbonate in the treatment of obstructive idiopathic lower urinary tract disease in cats.",
+      "abstract": "In human patients with interstitial cystitis, intravesical instillation of alkalinized lidocaine sometimes is associated with sustained amelioration of symptoms beyond the acute treatment phase. Interstitial cystitis shares many features in common with feline idiopathic cystitis.",
+      "journal": "Journal of veterinary internal medicine",
+      "year": "2012",
+      "authors": [
+        "Zezza L",
+        "Reusch C E",
+        "Gerber B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Administration, Intravesical",
+        "Anesthetics, Local",
+        "Animals",
+        "Cat Diseases",
+        "Cats",
+        "Cystitis",
+        "Female",
+        "Lidocaine",
+        "Lower Urinary Tract Symptoms",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22435459/"
+    }
+  ]
+}

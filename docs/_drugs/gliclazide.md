@@ -5,7 +5,7 @@ drugbank_id: "DB01120"
 drug_name: "Gliclazide"
 kg_predictions: 72
 dl_predictions: 12
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 72
 brands: []
 permalink: /drugs/gliclazide/
@@ -21,7 +21,7 @@ permalink: /drugs/gliclazide/
 | **DrugBank ID** | [DB01120](https://go.drugbank.com/drugs/DB01120) |
 | **KG Predictions** | 72 |
 | **DL Predictions (≥0.7)** | 12 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

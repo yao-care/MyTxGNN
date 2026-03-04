@@ -5,7 +5,7 @@ drugbank_id: "DB00230"
 drug_name: "Pregabalin"
 kg_predictions: 252
 dl_predictions: 97
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 252
 brands: []
 permalink: /drugs/pregabalin/
@@ -21,7 +21,7 @@ permalink: /drugs/pregabalin/
 | **DrugBank ID** | [DB00230](https://go.drugbank.com/drugs/DB00230) |
 | **KG Predictions** | 252 |
 | **DL Predictions (≥0.7)** | 97 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

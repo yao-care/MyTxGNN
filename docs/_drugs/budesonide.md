@@ -5,7 +5,7 @@ drugbank_id: "DB01222"
 drug_name: "Budesonide"
 kg_predictions: 216
 dl_predictions: 208
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 216
 brands: []
 permalink: /drugs/budesonide/
@@ -21,7 +21,7 @@ permalink: /drugs/budesonide/
 | **DrugBank ID** | [DB01222](https://go.drugbank.com/drugs/DB01222) |
 | **KG Predictions** | 216 |
 | **DL Predictions (≥0.7)** | 208 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

@@ -5,7 +5,7 @@ drugbank_id: "DB00112"
 drug_name: "Bevacizumab"
 kg_predictions: 180
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 180
 brands: []
 permalink: /drugs/bevacizumab/
@@ -21,7 +21,7 @@ permalink: /drugs/bevacizumab/
 | **DrugBank ID** | [DB00112](https://go.drugbank.com/drugs/DB00112) |
 | **KG Predictions** | 180 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

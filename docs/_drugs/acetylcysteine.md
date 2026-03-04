@@ -5,7 +5,7 @@ drugbank_id: "DB06151"
 drug_name: "Acetylcysteine"
 kg_predictions: 232
 dl_predictions: 269
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 232
 brands: []
 permalink: /drugs/acetylcysteine/
@@ -21,7 +21,7 @@ permalink: /drugs/acetylcysteine/
 | **DrugBank ID** | [DB06151](https://go.drugbank.com/drugs/DB06151) |
 | **KG Predictions** | 232 |
 | **DL Predictions (≥0.7)** | 269 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

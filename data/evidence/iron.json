@@ -1,0 +1,1035 @@
+{
+  "drug": "Iron",
+  "drugbank_id": "DB01592",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:46:39Z",
+  "indications": [
+    {
+      "indication": "microcytic anemia",
+      "evidence_level": "L1",
+      "trials": 13,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 12,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 3,
+        "total_trials": 13,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "deficiency anemia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 0,
+        "phase1_trials": 1,
+        "other_trials": 15,
+        "rct_articles": 0,
+        "review_articles": 8,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "folic acid deficiency anemia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 19,
+        "rct_articles": 0,
+        "review_articles": 6,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "anemia of prematurity",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 3,
+        "phase1_trials": 0,
+        "other_trials": 13,
+        "rct_articles": 1,
+        "review_articles": 6,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "iron deficiency anemia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 17,
+        "rct_articles": 0,
+        "review_articles": 9,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 93,
+  "total_articles": 50,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06252103",
+      "title": "Lactoferrin With Ferrous Gluconate Versus Ferrous Gluconate in Treatment of Iron Deficiency Anemia During Pregnancy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-05-30",
+      "completion_date": "2023-12-30",
+      "country": "Egypt",
+      "enrollment": 40,
+      "brief_summary": "Study Procedures:\n\nAll patients will undergo the following:\n\nInformed consent will be obtained from all the participants in this study before enrolling in this study and all participants will be subjected to a detailed clinical assessment including: a detailed history, general, abdominal examinations, Investigations.\n\n1. History taking:\n\n   * Personal history: name, age, occupation and address.\n   * Menstrual and obstetric history: Date of LMP, expected date of delivery which will be calculated ",
+      "eligibility_criteria": "* The study will include women with the following inclusion and exclusion criteria:\n\nInclusion criteria:\n\n1. Pregnant women with single fetus\n2. Microcytic hypochromic anemia, mild anemia Hb 10 to 10.5 g/dl) and moderate anemia (Hb 7 to 9.9 g/dl)\n3. Gestational age (14 - 35 weeks)\n4. Serum ferritin ",
+      "endpoints": [
+        "• Hemoglobin (Hb) level",
+        "serum ferritin"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT06252103"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04713943",
+      "title": "Efficacy of >Your< Iron Syrup Supplementation in Children With Iron Deficiency With or Without Mild Microcytic Anemia - a Double-Blind, Placebo-Controlled Multicentric Clinical Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-12-22",
+      "completion_date": "2020-06-22",
+      "country": "Slovenia",
+      "enrollment": 94,
+      "brief_summary": "The study evaluates the efficacy and safety of \\>Your\\< Iron Syrup, a novel iron-containing dietary supplement, in the management of dietary iron deficiency in children. The study is a randomized, double-blind, placebo-controlled intervention conducted in 16 research centers in Slovenia, collectively enrolling 92 eligible children. Eligibility of children for participation in the study will be determined by screening for hemoglobin and ferritin (combined with C-reactive protein) levels in a samp",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 9 months to 6 years (inclusive).\n* Signed informed consent for screening and for enrollment (parent or legal guardian).\n* Iron deficiency with or without mild microcytic anemia not requiring treatment (ferritin ≤20 µg/l and Hb ≥ 100 g/l in a capillary blood sample).\n\nExclu",
+      "endpoints": [
+        "The proportion of children having ferritin >20 µg/l"
+      ],
+      "sponsor": "PharmaLinea Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04713943"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03868306",
+      "title": "Red Cell Distribution Width Index Versus Red Cell Distribution Width as Discriminating Guide for Iron Deficiency Anaemia and Beta Thalassemia Trait .",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-06-01",
+      "completion_date": "2022-06-01",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Red Cell Distribution Width Index versus Red Cell Distribution Width as Discriminating Guide for Iron Deficiency Anaemia and Beta Thalassemia Trait .",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients with microcytic hypochromic anemia ( according to WHO , MCV less than 80 fl and HB level below the lower limit of normal value specified by age and gender .\n\nExclusion Criteria:\n\n* Beta thalassemia major patients .\n* Chronic diseases or infections .\n* Lead poisoni",
+      "endpoints": [
+        "Diagnostic comparison of both the RDWI and RDW in the differentiation of Iron deficiency anemia and Beta thalassemia trait"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03868306"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06951633",
+      "title": "Functional Efficiency, Respiratory Parameters and Blood Rheological Tests in Elderly People With Respiratory Diseases Participating in Pulmonary Rehabilitation in Underground Salt Chambers - a Prospective Experimental Study, Controlled in a Crossover Design",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-04-04",
+      "completion_date": "2026-02-28",
+      "country": "Poland",
+      "enrollment": 33,
+      "brief_summary": "The aim of the study is to assess the impact of the rehabilitation and treatment stay at the underground Health Resort of the 'Wieliczka' Salt Mine in Wieliczka on the functional capacity, respiratory parameters, and rheological properties of blood in elderly individuals with respiratory diseases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* people aged 65 and older with chronic respiratory diseases in a stable period of the disease (without exacerbations), qualified to participate in a rehabilitation and treatment stay in the underground Health Resort 'Wieliczka' Salt Mine in Wieliczka,\n* patients who gave inform",
+      "endpoints": [
+        "Respiratory muscle force: Maximal inspiratory pressure - MIP",
+        "Respiratory muscle force: Maximal expiratory pressure - MEP",
+        "Respiratory muscle force: Sniff Nasal Inspiratory Pressure - SNIP"
+      ],
+      "sponsor": "University School of Physical Education, Krakow, Poland",
+      "url": "https://clinicaltrials.gov/study/NCT06951633"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06875947",
+      "title": "EFFECTS of MORINGA OLEIFERA LEAF MICRONIZED POWDERS on HEMATOLOGICAL PROFILES, PERIPHERAL BLOOD SMEAR, HEPCIDIN, AND CYTOKINES (IL-1 DAN IL-6) OF PREGNANT WOMEN WITH IRON DEFICIENCY ANAEMIA",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-05-23",
+      "completion_date": "2026-05-31",
+      "country": "Indonesia",
+      "enrollment": 59,
+      "brief_summary": "Title: The Effect of Moringa Oleifera Leaf Micronized Powders on Hematological Profile, Hepcidin, and Cytokines (IL-1 and IL-6) in Pregnant Women with Iron Deficiency Anemia\n\nStudy Description:\n\nIron deficiency anemia is one of the most common health problems affecting pregnant women worldwide, especially in developing countries like Indonesia. This condition can cause serious complications for both mothers and babies, such as premature birth, low birth weight, and increased risk of maternal mor",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Demographic Characteristics:\n\n   * Women aged 18-44 years\n   * Married, have a husband and/or family\n   * Have an ID card\n2. Clinical Characteristics:\n\n   * Pregnant with a gestational age of 28 to \\<32 weeks\n   * Live single fetus\n   * Hemoglobin (Hb) 7 - \\< 11 g/dl\n   * No c",
+      "endpoints": [
+        "Hemoglobin Levels"
+      ],
+      "sponsor": "Fakultas Kedokteran Universitas Padjadjaran",
+      "url": "https://clinicaltrials.gov/study/NCT06875947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06670963",
+      "title": "The Use of Epoetin Alfa and Iron Derisomaltose in the Treatment of Anemia in Patients With Sepsis or Septic Shock Hospitalized in the Intensive Care Unit: a Randomized Controlled Clinical Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-11-10",
+      "completion_date": "2027-04-01",
+      "country": "Poland",
+      "enrollment": 200,
+      "brief_summary": "Background Up to 66% of have anemia at the admission to the intensive care unit. This number increases to 95% after 72 hours of hospitalization in the intensive care unit due to illness and iatrogenic blood loss. Anemia worsens tissue oxygenation, especially in patietns with sepsis or septic shock, who already have blood flow issues. Instead of giving blood transfusions, which can have side effects, we aim to address the root causes of anemia in these patients. Sepsis can cause \"inflammatory ane",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. age ≥18,\n2. diagnosed sepsis (Sepsis-3) or septic shock (Septic Shock-3),\n3. hemoglobin \\<120 g/L in both sexes.\n\nExclusion criteria:\n\n1. bleeding,\n2. decompensated liver disease,\n3. inherited microcytic disorders,\n4. macrocytosis,\n5. contraindications to pharmacological prop",
+      "endpoints": [
+        "Hemoglobin concentration difference at exit from the study"
+      ],
+      "sponsor": "Medical University of Silesia",
+      "url": "https://clinicaltrials.gov/study/NCT06670963"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03822585",
+      "title": "Detection of β-thalassemia Carriers Among Close Relatives of β-thalassemia Children Attending Assiut University Children Hospital",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-03",
+      "completion_date": "2021-06",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Thalassemia is different in kids with microcytic hypochromic anemia than general population because there is a confusion between symptoms of thalassemia and iron deficiency anemia in kids and both of them differ in management and prognosis. otherwise the most commonest causes of microcytic hypochromic anemia in kids are iron deficiency anemia and thalassemia and both of them are more common in kids than in general population.\n\nThalassemia is different in Egypt than anywhere in the world because ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Close Relatives Of B-Thalassemia Carriers With Microcytic Hypochromic Anemia\n\nExclusion Criteria:\n\n* Normocytic Normochromic Anemia\n* Iron Deficiency Anemia",
+      "endpoints": [
+        "detection of thalassemia carriers in children with microcytic hypochromic anemia"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03822585"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05022979",
+      "title": "Prevalence of Micro-nutritional Deficiencies in Pregnant Women Presenting to the Emergency Department for Threatened Delivery",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-05-28",
+      "completion_date": "2019-03-31",
+      "country": "French Guiana",
+      "enrollment": 341,
+      "brief_summary": "Micronutrient deficiencies are frequent in pregnant women in French Guiana, a French territory in South America. Micronutrient deficiencies are more frequent in precarious women. Obesity is a frequent problem but it is also associated with micronutrient deficiency. Micronutrient deficiencies have largely been overlooked in this outermost European region and should be corrected.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant at least 22 weeks of amenorrhea (WHO threshold for fetal viability)\n* Patient hospitalized for delivery in the Gynecological and Obstetrical Emergency Unit at Cayenne hospital\n* Patient's consent\n* Consent of the legal representative if the patient is a minor\n\nExclusi",
+      "endpoints": [
+        "Identification of a micronutrient deficiency defined as at least one micronutrient below the lower limit."
+      ],
+      "sponsor": "Centre Hospitalier de Cayenne",
+      "url": "https://clinicaltrials.gov/study/NCT05022979"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05185024",
+      "title": "A Study of Efficacy and Safety of Three Different Oral Iron-Containing Dietary Supplements in Correction of Hematological Indices and Replenishment of Depleted Iron Stores in Iron Deficient Adults With or Without Mild Microcytic Anemia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-01-19",
+      "completion_date": "2024-01-15",
+      "country": "Slovenia",
+      "enrollment": 152,
+      "brief_summary": "The study is designed as a parallel, randomized, double blind, three-arm single-center study exploring the efficacy and safety of 12-week once daily oral dosing of iron for correction of overall iron status in 150 otherwise healthy iron-deficient adults presenting with or without mild microcytic anemia. Three iron-containing preparations in the form of either Ferrous Sulfate Capsules, \\>Your\\< Iron Forte Capsules, or \\>Your\\< Iron Forte Liquid will be tested. Potential study participants will be",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Personally signed and dated Informed Consent Form.\n* Male or female, aged 18-50 years (inclusive) at the time of signing the Informed Consent Form.\n* Iron deficiency as defined by a hemoglobin value 100-130 g/L (females) and 110-140 g/L (males) and a serum ferritin level \\<30 ",
+      "endpoints": [
+        "Change in hemoglobin level from baseline to week 12."
+      ],
+      "sponsor": "PharmaLinea Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05185024"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00481221",
+      "title": "Detection of β Thalassemia Carriers by Red Cell Parameters Obtained From the H2 Automatic Counter. A Clinical Retrospective Study.",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2007-03",
+      "completion_date": "2020-12-31",
+      "country": "Israel",
+      "enrollment": 30000,
+      "brief_summary": "β thalassemia is an autosomal recessive hemoglobinopathy and considered as the most widespread genetic mutation. According to the World Health Organization (WHO) between 1.5-7% of the world population are carriers for this disease, and every year 60,000-400,000 birth of new patients are reported. In Israel, the incidence of carriers for β thalassemia is around 20% among the Jewish from Kurdish origin and around 5-10% among the Arab population.\n\nβ thalassemia is a severe disease which requires ma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Blood count and Hgb electrophoresis analysis received from pregnant women send for screening for thalassemia.\n\nExclusion Criteria:\n\n* Age below 17 yrs and older than 50 yrs.\n* Sever anemia with hgb level below 8 gr/dl.",
+      "endpoints": [
+        "Detection of β Thalassemia Carriers by Red Cell Parameters"
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT00481221"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03771092",
+      "title": "CONTROLLED RANDOMIZED PILOT STUDY TO COMPARE THE EFFICACY OF DIFFERENT IRON FORMULATIONS: SUCROSOMAL FERRIC PYROPHOSPHATE, SUNACTIVE Fe AND INTRAVENOUS FERRIC GLUCONATE",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-11-02",
+      "completion_date": "2018-10-30",
+      "country": "N/A",
+      "enrollment": 148,
+      "brief_summary": "The purpose of the study is to evaluate the effects of martial therapy, comparing different formulations, sucrosomal ferric pyrophosphate, SunActive®Fe micronized and ferric gluconate and different ways of administration, orally and intravenous, in subjects affected by sideropenic microcytic hypochromic anemia identified by the simultaneous presence of anemia, microcytosis and hypoferremia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of iron deficiency anemia, microcytic and hypochromic\n* Age \\>18\n\nExclusion Criteria:\n\n* Diagnosis of Celiac Disease\n* Patients who refuse to sign the informed consent\n* Clinically relevant cognitive Turbe\n* Hemodynamic instability defined by the presence of low bloo",
+      "endpoints": [
+        "HB"
+      ],
+      "sponsor": "University of Palermo",
+      "url": "https://clinicaltrials.gov/study/NCT03771092"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03202615",
+      "title": "Bovine Lactoferrin Versus Ferrous Sulphate In The Treatment Of Iron Deficiency Anemia During Pregnancy: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-09",
+      "completion_date": "2018-10",
+      "country": "Egypt",
+      "enrollment": 130,
+      "brief_summary": "130 pregnant women with Iron deficiency anemia, in the 2nd trimester (microcytic hypochromic anemia, hemoglobin range from 9-10.5g/dl, serum ferritin less than 12 ng/ml), from the outpatient clinics in the Obstetrics and Gynecology Department, in Ain Shams University Hospital, Cairo, Egypt, will be enrolled and distributed into one of 2 groups by a computer generated random number table. Each of the 2 groups will receive 2 medication for 2 months with specific instruction to increase iron absorp",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant with singleton intrauterine pregnancy\n* 14- 20 weeks of gestation\n* Have iron deficiency anemia (IDA) with hemoglobin 9 to less than 10.5 g/dl.\n\nExclusion Criteria:\n\n* Patients with a history of anemia due to any other causes such as chronic blood loss, hemolytic anem",
+      "endpoints": [
+        "change in Hemoglobin concentration"
+      ],
+      "sponsor": "Abdelwahed, Mai Mahmoud Mohamed, M.D.",
+      "url": "https://clinicaltrials.gov/study/NCT03202615"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03212781",
+      "title": "Total Dose Infusion of Iron Dextran Versus Oral Iron for Treating Iron Deficiency Anemia in Pregnant Women: a Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-06",
+      "completion_date": "2016-10",
+      "country": "Egypt",
+      "enrollment": 66,
+      "brief_summary": "Iron deficiency is the most prevalent nutritional deficiency and the most common cause of anemia .It is characterized by a defect in hemoglobin synthesis, resulting in red blood cells that are abnormally small (microcytic) and contain a decreased amount of hemoglobin (hypochromic).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hemoglobin \\< 10 g/dL\n* Gestational age between 14-28 weeks.\n* Willingness to participate and signing the informed consent form.\n\nExclusion Criteria:\n\n* Iron overload or disturbances in utilization of iron\n* Decompensated liver cirrhosis and active hepatitis\n* Active acute or ",
+      "endpoints": [
+        "The change in Hemoglobin concentration from baseline to 8 weeks therapy"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03212781"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05991128",
+      "title": "The Effects of Ferric Derisomaltose Administered Before Hospital Discharge in Stabilised Patients With Acute Heart Failure and Iron Deficiency on Exercise Capacity and Quality of Life: a Randomised, Parallel-group, Double-blind, Placebo Controlled Trial (COREVIVE-HFpEF)",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-08-01",
+      "completion_date": "2025-08-01",
+      "country": "China",
+      "enrollment": 170,
+      "brief_summary": "This study will address whether the additional use of Ferric Derisomaltose on top of standard care will improve exercise capacity and quality of life in patients with acute heart failure and iron deficiency. One group of participants will receive treatment with Ferric Derisomaltose and the other group will receive normal saline 0.9% as placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥18 years.\n2. Clinical diagnosis of heart failure with preserved ejection fraction (HFpEF), defined as documented 2-dimensional echocardiography left ventricular ejection fraction (LVEF) ≥50% before randomization.\n3. Currently hospitalized for an episode of acute heart fa",
+      "endpoints": [
+        "Change in 6-minute walking distance"
+      ],
+      "sponsor": "China-Japan Friendship Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05991128"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01815333",
+      "title": "Clinical and Technical Feasibility of a Ultrasuperparamagnetic Nanoparticle Iron Oxide (USPIO)-Enhanced Magnetic Resonance Lymph Node Imaging",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-07",
+      "completion_date": "2019-07-25",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The goal of this clinical research study is to learn if the drug Feraheme ® (ferumoxytole) helps researchers most clearly to \"see\" cancerous lymph nodes on an MRI scan. Researchers also want to learn if ferumoxytole may be used in liver imaging.\n\nFerumoxytole is designed to deliver iron to treat iron-deficiency anemia (low red blood cell counts) in patients with chronic kidney disease. In this study, it will be used as an MRI contrast. Contrasts are used by doctors in order to see MRI images mor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Enrolled at MDACC, Written consent\n2. Measurable nodes on the recent cross sectional imaging (CT, MRI. US) or suspicious lymph nodes for metastasis\n3. Requiring tissue diagnosis (FNA, core biopsy, surgical biopsy, surgical resection), or clinical follow-ups for at least 6 mon",
+      "endpoints": [
+        "Number of Participants With Signal Intensity (SI) Change of a Lymph Node Between the Pre- and Post- Contrast of the Feraheme Enhanced Magnetic Resonance Imaging (MRI)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01815333"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04840433",
+      "title": "Location of Lesions Responsible for Blood Loss in the Gastrointestinal (GI) Tract",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-04-12",
+      "completion_date": "2022-12-31",
+      "country": "Hong Kong",
+      "enrollment": 180,
+      "brief_summary": "The purpose of this study is to identify the prevalence, nature and location of lesions in the GI tract that may contribute to iron deficiency anaemia and compare diagnostic yied of the upper GI magnetic controlled capsule endoscopy with conventional gastroscopy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients aged 18 years and over and up to but not exceeding 80 years\n* Patients presenting with IDA whom require gastroscopy and colonoscopy as per national guidelines (1)\n\nExclusion Criteria:\n\n* Patients who have contraindications to gastroscopy or colonoscopy",
+      "endpoints": [
+        "Prevalence and nature of lesions in the upper GI tract, small bowel and colon that cause IDA"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT04840433"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03457571",
+      "title": "Clinical Observational Study: IBD Patients With Restless-legs-syndrome and Iron Deficiency Syndrome",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-02-01",
+      "completion_date": "2015-04-30",
+      "country": "N/A",
+      "enrollment": 353,
+      "brief_summary": "Patients with inflammatory bowel disease, such as Crohn´s disease or ulcerative colitis, have recurring episodes of abdominal pain, diarrhea and loss of weight. Besides this other clinical symptoms are possible e.g. deficiency syndromes such as iron deficiency. Iron deficiency usually attended by symptoms like hair loss, pale skin, loss of concentration or fatigue. In some cases iron deficiency can lead to neurological manifestations such as restless-legs-syndrome (RLS). Restless legs syndrome i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written consent\n* Age \\> 18\n* Inflammatory bowel disease\n\nExclusion Criteria:\n\n* \\<18 years\n* No written consent",
+      "endpoints": [
+        "Prevalence of RLS in IBD"
+      ],
+      "sponsor": "Charite University, Berlin, Germany",
+      "url": "https://clinicaltrials.gov/study/NCT03457571"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03816800",
+      "title": "Investigating the Association of Iron and Pollen Allergy in Female Subjects Studie Zur Wirkung Von Eisen Auf Pollenallergikerinnen",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-01-28",
+      "completion_date": "2020-10-29",
+      "country": "Austria",
+      "enrollment": 58,
+      "brief_summary": "Iron deficiency and anemia are clearly associated with the onset of allergy and allergic diseases, whereas an improved iron status seems to prevent the onset of allergy in humans. Iron-deficiency can be absolute or functional. Functional iron-deficiency occurs during immune activation and may be reflective for the hyperactive state of atopic subjects.\n\nThe investigators plan a prophylactic dietary intervention study in atopic/allergic and non-allergic individuals that transport chelated iron to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants will be healthy premenopausal women over 18 years of age. Allergic participants should have been diagnosed with allergic rhinitis against birch and/or grass pollen.\n\nExclusion Criteria:\n\n* Subjects with co-morbidities such as diabetes mellitus, disorders of the li",
+      "endpoints": [
+        "Symptom severity - Total nasal symptom score",
+        "Symptom severity - Total nasal symptom score"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT03816800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03871699",
+      "title": "The Effect of Ferric Carboximaltose on Intra-myocardial Iron Load Assessed by Cardiac Magnetic Resonance in Patients With Heart Failure With Reduced Ejection Fraction (HFREF).",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2019-08-30",
+      "completion_date": "2021-02-28",
+      "country": "Brazil",
+      "enrollment": 20,
+      "brief_summary": "In general, anemia is associated with a greater presence of HF symptoms, worsening NYHA functional class, higher rate of hospitalization for heart failure, and reduced survival. However, it is unclear whether anemia is the cause of decreased survival or a marker for more advanced disease. Correction of iron deficiency in patients with New York Heart Association (NYHA) class II or III HF using intravenous iron (Ferinject®) improved \"overall patient self-assessment\" and NYHA functional class of 6-",
+      "eligibility_criteria": "Inclusion Criteria:\n\nLeft ventricular ejection fraction \\<40% assessed by transthoracic echocardiography or cardiac magnetic resonance with at least 3 months.\n\n* Serum ferritin \\< 100µg/L or 100-299µg/L with transferrin saturation \\< 20%\n* clinical stability during last 3 months\n\nExclusion Criteria:",
+      "endpoints": [
+        "Absolut changes in left ventricular ejection fraction"
+      ],
+      "sponsor": "Hospital Moinhos de Vento",
+      "url": "https://clinicaltrials.gov/study/NCT03871699"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04721262",
+      "title": "Evaluation of Hyperfine Low Field Strength Portable Point-of-Care Magnetic Resonance Imaging System in Patients Receiving Ferumoxytol Infusions",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-11-09",
+      "completion_date": "2022-08-29",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "The purpose of this pilot study is to evaluate the feasibility of using Ferumoxytol as a contrast agent on a low field strength, portable magnetic resonance imaging (MRI) system. Participants receiving Ferumoxytol as part of routine clinical care for iron deficiency anemia will be recruited and scanned on the Hyperfine MRI system before and after their clinically scheduled intravenous infusion. Resultant images will be compared to assess signal intensity changes generated by the presence of Fero",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Prescribed Ferumoxytol for iron deficiency anemia\n* Informed consent obtained from patient or a legally authorized representative\n\nExclusion Criteria:\n\n1. Contraindications to routine 1.5 T MRI evaluation, including:\n\n   * Electrical implants such as ca",
+      "endpoints": [
+        "Contrast enhancement"
+      ],
+      "sponsor": "University of Pennsylvania",
+      "url": "https://clinicaltrials.gov/study/NCT04721262"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "1578956",
+      "title": "Microcytic anemia. Differential diagnosis and management of iron deficiency anemia.",
+      "abstract": "Microcytic anemia is defined as the presence of small, often hypochromic, red blood cells in a peripheral blood smear and is usually characterized by a low MCV (less than 83 micron 3). Iron deficiency is the most common cause of microcytic anemia. The absence of iron stores in the bone marrow remains the most definitive test for differentiating iron deficiency from the other microcytic states, ie, anemia of chronic disease, thalassemia, and sideroblastic anemia. However, measurement of serum ferritin, iron concentration, transferrin saturation and iron-binding capacity, and, more recently, serum transferrin receptors may obviate proceeding to bone marrow evaluation. The human body maintains iron homeostasis by recycling the majority of its stores. Disruptions in this balance are commonly seen during menstruation, pregnancy, and gastrointestinal bleeding. Although the iron-absorptive capacity is able to increase upon feedback regarding total body iron stores or erythropoietic activity, ",
+      "journal": "The Medical clinics of North America",
+      "year": "1992",
+      "authors": [
+        "Massey A C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Hypochromic",
+        "Diagnosis, Differential",
+        "Humans",
+        "Iron"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1578956/"
+    },
+    {
+      "pmid": "26926814",
+      "title": "Iron Deficiency and Other Types of Anemia in Infants and Children.",
+      "abstract": "Anemia, defined as a hemoglobin level two standard deviations below the mean for age, is prevalent in infants and children worldwide. The evaluation of a child with anemia should begin with a thorough history and risk assessment. Characterizing the anemia as microcytic, normocytic, or macrocytic based on the mean corpuscular volume will aid in the workup and management. Microcytic anemia due to iron deficiency is the most common type of anemia in children. The American Academy of Pediatrics and the World Health Organization recommend routine screening for anemia at 12 months of age; the U.S. Preventive Services Task Force found insufficient evidence to assess the benefits vs. harms of screening. Iron deficiency anemia, which can be associated with cognitive issues, is prevented and treated with iron supplements or increased intake of dietary iron. The U.S. Preventive Services Task Force found insufficient evidence to recommend screening or treating pregnant women for iron deficiency an",
+      "journal": "American family physician",
+      "year": "2016",
+      "authors": [
+        "Wang Mary"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Iron-Deficiency",
+        "Child",
+        "Dietary Supplements",
+        "Female",
+        "Humans",
+        "Infant",
+        "Infant, Newborn",
+        "Iron",
+        "Mass Screening",
+        "Pregnancy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26926814/"
+    },
+    {
+      "pmid": "22942439",
+      "title": "Iron deficiency anemia.",
+      "abstract": "Iron is essential to virtually all living organisms and is integral to multiple metabolic functions. The most important function is oxygen transport in hemoglobin. Iron deficiency anemia in dogs and cats is usually caused by chronic blood loss and can be discovered incidentally as animals may have adapted to the anemia. Severe iron deficiency is characterized by a microcytic, hypochromic, potentially severe anemia with a variable regenerative response. Iron metabolism and homeostasis will be reviewed, followed by a discussion of diagnostic testing and therapeutic recommendations for dogs and cats with iron deficiency anemia.",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "year": "2012",
+      "authors": [
+        "Naigamwalla Dinaz Z",
+        "Webb Jinelle A",
+        "Giger Urs"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Iron-Deficiency",
+        "Animals",
+        "Blood Transfusion",
+        "Cat Diseases",
+        "Cats",
+        "Diagnosis, Differential",
+        "Dog Diseases",
+        "Dogs",
+        "Hemorrhage",
+        "Homeostasis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22942439/"
+    },
+    {
+      "pmid": "17375513",
+      "title": "Iron deficiency anemia.",
+      "abstract": "The prevalence of iron deficiency anemia is 2 percent in adult men, 9 to 12 percent in non-Hispanic white women, and nearly 20 percent in black and Mexican-American women. Nine percent of patients older than 65 years with iron deficiency anemia have a gastrointestinal cancer when evaluated. The U.S. Preventive Services Task Force currently recommends screening for iron deficiency anemia in pregnant women but not in other groups. Routine iron supplementation is recommended for high-risk infants six to 12 months of age. Iron deficiency anemia is classically described as a microcytic anemia. The differential diagnosis includes thalassemia, sideroblastic anemias, some types of anemia of chronic disease, and lead poisoning. Serum ferritin is the preferred initial diagnostic test. Total iron-binding capacity, transferrin saturation, serum iron, and serum transferrin receptor levels may be helpful if the ferritin level is between 46 and 99 ng per mL (46 and 99 mcg per L); bone marrow biopsy m",
+      "journal": "American family physician",
+      "year": "2007",
+      "authors": [
+        "Killip Shersten",
+        "Bennett John M",
+        "Chambers Mara D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Algorithms",
+        "Anemia, Iron-Deficiency",
+        "Diagnosis, Differential",
+        "Female",
+        "Ferric Compounds",
+        "Ferritins",
+        "Humans",
+        "Infusions, Parenteral",
+        "Iron"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17375513/"
+    },
+    {
+      "pmid": "32332184",
+      "title": "Anaemia: A disease or symptom.",
+      "abstract": "Anaemia is a common diagnosis for clinicians. This mini-review summarises criteria for diagnosing the cause of anaemia. Within the microcytic anaemias, iron-deficient anaemia is most common. In addition, we would like to raise awareness of thalassaemia as a differential diagnosis. A normocytic anaemia, such as anaemia of chronic disease, is a diagnosis of exclusion. A macrocytic anaemia scheme is provided and differentiates based on reticulocyte count. We aim to provide the readers a clear overview of anaemia and when to refer to haematologists.",
+      "journal": "The Netherlands journal of medicine",
+      "year": "2020",
+      "authors": [
+        "Newhall D A",
+        "Oliver R",
+        "Lugthart S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Anemia",
+        "Child",
+        "Diagnosis, Differential",
+        "Female",
+        "Hemoglobins",
+        "Humans",
+        "Male",
+        "Pregnancy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32332184/"
+    },
+    {
+      "pmid": "35289581",
+      "title": "Alpha- and Beta-thalassemia: Rapid Evidence Review.",
+      "abstract": "Thalassemia is a group of autosomal recessive hemoglobinopathies affecting the production of normal alpha- or beta-globin chains that comprise hemoglobin. Ineffective production of alpha- or beta-globin chains may result in ineffective erythropoiesis, premature red blood cell destruction, and anemia. Chronic, severe anemia in patients with thalassemia may result in bone marrow expansion and extramedullary hematopoiesis. Thalassemia should be suspected in patients with microcytic anemia and normal or elevated ferritin levels. Hemoglobin electrophoresis may reveal common characteristics of different thalassemia subtypes, but genetic testing is required to confirm the diagnosis. Thalassemia is generally asymptomatic in trait and carrier states. Alpha-thalassemia major results in hydrops fetalis and is often fatal at birth. Beta-thalassemia major requires lifelong transfusions starting in early childhood (often before two years of age). Alpha- and beta-thalassemia intermedia have variable ",
+      "journal": "American family physician",
+      "year": "2022",
+      "authors": [
+        "Baird Drew C",
+        "Batten Stuart H",
+        "Sparks Steven K"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Child, Preschool",
+        "Hematologic Diseases",
+        "Humans",
+        "Infant, Newborn",
+        "Iron",
+        "Iron Overload",
+        "Thalassemia",
+        "beta-Globins",
+        "beta-Thalassemia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35289581/"
+    },
+    {
+      "pmid": "39519457",
+      "title": "Diagnosis and Treatment of Iron Deficiency and Iron Deficiency Anemia in Children and Adolescents: Recommendations of the Polish Pediatric Society, the Polish Society of Pediatric Oncology and Hematology, the Polish Society of Neonatology, and the Polish Society of Family Medicine.",
+      "abstract": "Background/Objectives. Iron deficiency is one of the most common nutritional deficiencies worldwide and is the leading cause of anemia in the pediatric population (microcytic, hypochromic anemia due to iron deficiency). Moreover, untreated iron deficiency can lead to various systemic consequences and can disrupt the child's development. Methods/Results. Therefore, a team of experts from the Polish Pediatric Society, the Polish Society of Pediatric Oncology and Hematology, the Polish Neonatology Society, and the Polish Society of Family Medicine, based on a review of the current literature, their own clinical experience, and critical discussion, has developed updated guidelines for the diagnosis, prevention, and treatment of iron deficiency in children from birth to 18 years of age. These recommendations apply to the general population and do not take into account the specifics of individual conditions and diseases.",
+      "journal": "Nutrients",
+      "year": "2024",
+      "authors": [
+        "Chaber Radosław",
+        "Helwich Ewa",
+        "Lauterbach Ryszard",
+        "Mastalerz-Migas Agnieszka",
+        "Matysiak Michał"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Anemia, Iron-Deficiency",
+        "Child",
+        "Poland",
+        "Adolescent",
+        "Iron Deficiencies",
+        "Societies, Medical",
+        "Infant",
+        "Child, Preschool",
+        "Infant, Newborn"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39519457/"
+    },
+    {
+      "pmid": "25271605",
+      "title": "Microcytic anemia.",
+      "abstract": "",
+      "journal": "The New England journal of medicine",
+      "year": "2014",
+      "authors": [
+        "DeLoughery Thomas G"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia",
+        "Anemia, Iron-Deficiency",
+        "Blood Transfusion",
+        "Erythrocytes",
+        "Ferritins",
+        "Ferrous Compounds",
+        "Humans",
+        "Inflammation",
+        "Iron",
+        "Risk Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25271605/"
+    },
+    {
+      "pmid": "20540485",
+      "title": "Evaluation of anemia in children.",
+      "abstract": "Anemia is defined as a hemoglobin level of less than the 5th percentile for age. Causes vary by age. Most children with anemia are asymptomatic, and the condition is detected on screening laboratory evaluation. Screening is recommended only for high-risk children. Anemia is classified as microcytic, normocytic, or macrocytic, based on the mean corpuscular volume. Mild microcytic anemia may be treated presumptively with oral iron therapy in children six to 36 months of age who have risk factors for iron deficiency anemia. If the anemia is severe or is unresponsive to iron therapy, the patient should be evaluated for gastrointestinal blood loss. Other tests used in the evaluation of microcytic anemia include serum iron studies, lead levels, and hemoglobin electrophoresis. Normocytic anemia may be caused by chronic disease, hemolysis, or bone marrow disorders. Workup of normocytic anemia is based on bone marrow function as determined by the reticulocyte count. If the reticulocyte count is",
+      "journal": "American family physician",
+      "year": "2010",
+      "authors": [
+        "Janus Jennifer",
+        "Moerschel Sarah K"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Age Factors",
+        "Anemia",
+        "Anemia, Iron-Deficiency",
+        "Anemia, Macrocytic",
+        "Blood Transfusion",
+        "Child",
+        "Child, Preschool",
+        "Erythrocyte Count",
+        "Erythrocyte Indices"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20540485/"
+    },
+    {
+      "pmid": "36725875",
+      "title": "Alternate day versus daily oral iron for treatment of iron deficiency anemia: a randomized controlled trial.",
+      "abstract": "Oral iron is the mainstay of treating iron deficiency anemia. Recent studies indicate better fractional iron absorption with alternate day supplementation. However, the optimal supplementation strategy is unclear. We compared effectiveness of daily versus alternate day supplementation of oral iron for treatment of iron deficiency anemia. This double blind, active control, randomized controlled trial was conducted on two hundred adults having hemoglobin 10 g/dL or less with microcytic hypochromic anemia and/or serum ferritin below 50 ng/mL. They were randomized to receive either two Ferrous sulfate tablets containing 60 mg elemental iron (120 mg total) on alternate days or single tablet of 60 mg elemental iron daily for 8 weeks. Primary outcome was mean change in hemoglobin at week 8 from baseline. Mean hemoglobin was 6.53 (± 1.89) and 6.68 (± 1.89) g/dL in the alternate day and daily arms respectively. Mean change in hemoglobin was + 1.05 ± 1.34 g/dL in alternate day arm and + 1.36 ± 1",
+      "journal": "Scientific reports",
+      "year": "2023",
+      "authors": [
+        "Pasupathy Elamparithi",
+        "Kandasamy Ravichandran",
+        "Thomas Kurien",
+        "Basheer Aneesh"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Iron",
+        "Anemia, Iron-Deficiency",
+        "Hemoglobins",
+        "Iron Radioisotopes",
+        "Hemoglobins, Abnormal",
+        "Administration, Oral",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36725875/"
+    },
+    {
+      "pmid": "36075747",
+      "title": "Iron metabolism and iron deficiency anemia in women.",
+      "abstract": "Iron deficiency (ID) and iron deficiency anemia (IDA) are highly prevalent among women across their reproductive age. An iron-deficient state has been associated with and causes a number of adverse health consequences, affecting all aspects of the physical and emotional well-being of women. Heavy menstrual bleeding, pregnancy, and the postpartum period are the major causes of ID and IDA. However, despite the high prevalence and the impact on quality of life, ID and IDA among women in their reproductive age is still underdiagnosed and undertreated. In this chapter we summarized the iron metabolism and the diagnosis and treatment of ID and IDA in women.",
+      "journal": "Fertility and sterility",
+      "year": "2022",
+      "authors": [
+        "Cappellini Maria Domenica",
+        "Santini Valeria",
+        "Braxs Cecilia",
+        "Shander Aryeh"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Iron-Deficiency",
+        "Female",
+        "Humans",
+        "Iron",
+        "Iron Deficiencies",
+        "Pregnancy",
+        "Prevalence",
+        "Quality of Life"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36075747/"
+    },
+    {
+      "pmid": "34996762",
+      "title": "Iron deficiency anaemia: pathophysiology, assessment, practical management.",
+      "abstract": "The WHO has recognised iron deficiency anaemia (IDA) as the most common nutritional deficiency in the world, with 30% of the population being affected with this condition. Although the most common causes of IDA are gastrointestinal bleeding and menstruation in women, decreased dietary iron and decreased iron absorption are also culpable causes. Patients with IDA should be treated with the aim of replenishing iron stores and returning the haemoglobin to a normal level. This has shown to improve quality of life, morbidity, prognosis in chronic disease and outcomes in pregnancy. Iron deficiency occurs in many chronic inflammatory conditions, including congestive cardiac failure, chronic kidney disease and inflammatory bowel disease. This article will provide an updated overview on diagnosis and management of IDA in patients with chronic conditions, preoperative and in pregnancy. We will discuss the benefits and limitations of oral versus intravenous iron replacement in each cohort, with a",
+      "journal": "BMJ open gastroenterology",
+      "year": "2022",
+      "authors": [
+        "Kumar Aditi",
+        "Sharma Esha",
+        "Marley Alexandra",
+        "Samaan Mark A",
+        "Brookes Matthew James"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Iron-Deficiency",
+        "Chronic Disease",
+        "Female",
+        "Humans",
+        "Iron",
+        "Iron Deficiencies",
+        "Iron, Dietary",
+        "Pregnancy",
+        "Quality of Life"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34996762/"
+    },
+    {
+      "pmid": "33285139",
+      "title": "Iron deficiency.",
+      "abstract": "Iron deficiency is one of the leading contributors to the global burden of disease, and particularly affects children, premenopausal women, and people in low-income and middle-income countries. Anaemia is one of many consequences of iron deficiency, and clinical and functional impairments can occur in the absence of anaemia. Iron deprivation from erythroblasts and other tissues occurs when total body stores of iron are low or when inflammation causes withholding of iron from the plasma, particularly through the action of hepcidin, the main regulator of systemic iron homoeostasis. Oral iron therapy is the first line of treatment in most cases. Hepcidin upregulation by oral iron supplementation limits the absorption efficiency of high-dose oral iron supplementation, and of oral iron during inflammation. Modern parenteral iron formulations have substantially altered iron treatment and enable rapid, safe total-dose iron replacement. An underlying cause should be sought in all patients pres",
+      "journal": "Lancet (London, England)",
+      "year": "2021",
+      "authors": [
+        "Pasricha Sant-Rayn",
+        "Tye-Din Jason",
+        "Muckenthaler Martina U",
+        "Swinkels Dorine W"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Iron-Deficiency",
+        "Anti-Infective Agents",
+        "Dietary Supplements",
+        "Global Health",
+        "Hepcidins",
+        "Humans",
+        "Iron",
+        "Iron Deficiencies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33285139/"
+    },
+    {
+      "pmid": "33682105",
+      "title": "The effect of iron deficiency and anaemia on women's health.",
+      "abstract": "Iron deficiency and anaemia are global health problems and major causes of morbidity in women. Current definitions of anaemia in women are historic and have been challenged by recent data from observational studies. Menstrual loss, abnormal uterine bleeding and pregnancy put women at risk of developing iron deficiency which can result in severe fatigue, reduced exercise capacity and poor work performance. Iron deficiency and anaemia during pregnancy are associated with adverse maternal and fetal outcomes, including neurocognitive deficits in children born to iron-deficient mothers. Both iron deficiency and anaemia are common in women undergoing surgery but their association with poor outcomes remains uncertain. The enduring burden of iron deficiency and anaemia in women suggests that current strategies for recognition, prevention and treatment are limited in their utility. Improvements in our understanding of iron homeostasis and the development of new iron preparations, which are bett",
+      "journal": "Anaesthesia",
+      "year": "2021",
+      "authors": [
+        "Benson C S",
+        "Shah A",
+        "Stanworth S J",
+        "Frise C J",
+        "Spiby H"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Anemia",
+        "Anemia, Iron-Deficiency",
+        "Erythrocyte Transfusion",
+        "Female",
+        "Hepcidins",
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Iron",
+        "Women's Health"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33682105/"
+    },
+    {
+      "pmid": "27996086",
+      "title": "International consensus statement on the peri-operative management of anaemia and iron deficiency.",
+      "abstract": "Despite current recommendations on the management of pre-operative anaemia, there is no pragmatic guidance for the diagnosis and management of anaemia and iron deficiency in surgical patients. A number of experienced researchers and clinicians took part in an expert workshop and developed the following consensus statement. After presentation of our own research data and local policies and procedures, appropriate relevant literature was reviewed and discussed. We developed a series of best-practice and evidence-based statements to advise on patient care with respect to anaemia and iron deficiency in the peri-operative period. These statements include: a diagnostic approach for anaemia and iron deficiency in surgical patients; identification of patients appropriate for treatment; and advice on practical management and follow-up. We urge anaesthetists and peri-operative physicians to embrace these recommendations, and hospital administrators to enable implementation of these concepts by a",
+      "journal": "Anaesthesia",
+      "year": "2017",
+      "authors": [
+        "Muñoz M",
+        "Acheson A G",
+        "Auerbach M",
+        "Besser M",
+        "Habler O"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Consensus Statement"
+      ],
+      "mesh_terms": [
+        "Anemia",
+        "Consensus",
+        "Health Care Costs",
+        "Humans",
+        "Injections, Intravenous",
+        "Iron",
+        "Iron Deficiencies",
+        "Perioperative Care"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27996086/"
+    },
+    {
+      "pmid": "38549491",
+      "title": "Iron deficiency, iron deficiency anaemia and anaemia of inflammation - an overview.",
+      "abstract": "Iron is an essential trace element for various cellular proteins and for biological processes in all cells. Severe iron deficiency (ID) impairs haem synthesis, reduces erythropoiesis and causes iron deficiency anaemia (IDA). Iron restriction in anaemia of inflammation is mainly due to retention of iron in macrophages. This condition is known as 'functional iron deficiency'. A review of studies performed in Europe shows that the prevalence of ID and IDA in young children varies by region. It is more common in eastern than western European countries. This overview summarises information on the need for iron supplementation in children, and the current understanding of the regulatory mechanisms of iron homeostasis and ironrestricted erythropoiesis. The causes of anaemia during infection and the usefulness of classical and new indicators to distinguish absolute from functional iron deficiency are discussed.",
+      "journal": "Annals of agricultural and environmental medicine : AAEM",
+      "year": "2024",
+      "authors": [
+        "Kulik-Rechberger Beata",
+        "Dubel Magdalena"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Humans",
+        "Child, Preschool",
+        "Anemia, Iron-Deficiency",
+        "Iron Deficiencies",
+        "Anemia",
+        "Iron",
+        "Inflammation",
+        "Prevalence"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38549491/"
+    },
+    {
+      "pmid": "40923398",
+      "title": "Vitamins and Iron-Deficiency Gestational Anemia - A Review.",
+      "abstract": "Vitamins, as essential m icronutrients, are vital for numerous cellular functions and play a key role in maintaining hematological parameter s during pregnancy, including erythropoiesis and processes affecting iron status. Iron-Deficient Gestational Anemia (IDGA), the most common clinicopathological condition in obstetrics and highly prevalent in developing countries, significantly contributes to complications such as hypertensive disorders of pregnancy and gestational diabetes. While it is recognized that vitamin deficiencies impact iron metabolism and erythropoiesis, a complete understanding of their specific roles in preventing and managing IDGA is lacking. Insights into how vitamin deficiencies influence gene expression and cellular signaling are crucial. With rising IDGA prevalence, ensuring adequate vitamin intake during pregnancy is essential for improving hematological health. Mobile health-based literacy tools can effectively promote patient education to achieve this. This rev",
+      "journal": "Journal of dietary supplements",
+      "year": "2025",
+      "authors": [
+        "Yadav Dinesh Venkatesan",
+        "Mitra Tridip",
+        "Punniyamoorthy Deeksha",
+        "Murugesan Anuradha",
+        "Kumari Raveendran Sajeetha"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Pregnancy",
+        "Female",
+        "Anemia, Iron-Deficiency",
+        "Vitamins",
+        "Pregnancy Complications, Hematologic",
+        "Iron",
+        "Hemoglobins",
+        "Pregnancy Complications",
+        "Dietary Supplements"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40923398/"
+    },
+    {
+      "pmid": "38253961",
+      "title": "Oral iron therapy: Current concepts and future prospects for improving efficacy and outcomes.",
+      "abstract": "Iron deficiency (ID) and iron-deficiency anaemia (IDA) are global public health concerns, most commonly afflicting children, pregnant women and women of childbearing age. Pathological outcomes of ID include delayed cognitive development in children, adverse pregnancy outcomes and decreased work capacity in adults. IDA is usually treated by oral iron supplementation, typically using iron salts (e.g. FeSO4 ); however, dosing at several-fold above the RDA may be required due to less efficient absorption. Excess enteral iron causes adverse gastrointestinal side effects, thus reducing compliance, and negatively impacts the gut microbiome. Recent research has sought to identify new iron formulations with better absorption so that lower effective dosing can be utilized. This article outlines emerging research on oral iron supplementation and focuses on molecular mechanisms by which different supplemental forms of iron are transported across the intestinal epithelium and whether these transpor",
+      "journal": "British journal of haematology",
+      "year": "2024",
+      "authors": [
+        "Ebea-Ugwuanyi Pearl O",
+        "Vidyasagar Sadasivan",
+        "Connor James R",
+        "Frazer David M",
+        "Knutson Mitchell D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Child",
+        "Female",
+        "Humans",
+        "Pregnancy",
+        "Iron",
+        "Anemia, Iron-Deficiency",
+        "Iron Deficiencies",
+        "Iron Overload"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38253961/"
+    },
+    {
+      "pmid": "22306005",
+      "title": "Hepcidin and iron homeostasis.",
+      "abstract": "Despite fluctuations in dietary iron intake and intermittent losses through bleeding, the plasma iron concentrations in humans remain stable at 10-30 μM. While most of the iron entering blood plasma comes from recycling, appropriate amount of iron is absorbed from the diet to compensate for losses and maintain nontoxic amounts in stores. Plasma iron concentration and iron distribution are similarly regulated in laboratory rodents. The hepatic peptide hepcidin was identified as the systemic iron-regulatory hormone. In the efferent arc, hepcidin regulates intestinal iron absorption, plasma iron concentrations, and tissue iron distribution by inducing degradation of its receptor, the cellular iron exporter ferroportin. Ferroportin exports iron into plasma from absorptive enterocytes, from macrophages that recycle the iron of senescent erythrocytes, and from hepatocytes that store iron. In the more complex and less well understood afferent arc, hepatic hepcidin synthesis is transcriptional",
+      "journal": "Biochimica et biophysica acta",
+      "year": "2012",
+      "authors": [
+        "Ganz Tomas",
+        "Nemeth Elizabeta"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Iron-Deficiency",
+        "Animals",
+        "Antimicrobial Cationic Peptides",
+        "Bone Morphogenetic Protein Receptors",
+        "Cation Transport Proteins",
+        "Cations, Divalent",
+        "Erythropoiesis",
+        "Hepatocytes",
+        "Hepcidins",
+        "Homeostasis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22306005/"
+    },
+    {
+      "pmid": "25518052",
+      "title": "European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases.",
+      "abstract": "",
+      "journal": "Journal of Crohn's & colitis",
+      "year": "2015",
+      "authors": [
+        "Dignass Axel U",
+        "Gasche Christoph",
+        "Bettenworth Dominik",
+        "Birgegård Gunnar",
+        "Danese Silvio"
+      ],
+      "pub_types": [
+        "Consensus Statement",
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_terms": [
+        "Anemia",
+        "Anemia, Iron-Deficiency",
+        "Combined Modality Therapy",
+        "Dietary Supplements",
+        "Erythrocyte Transfusion",
+        "Hematinics",
+        "Humans",
+        "Inflammatory Bowel Diseases",
+        "Iron",
+        "Iron Deficiencies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25518052/"
+    }
+  ]
+}

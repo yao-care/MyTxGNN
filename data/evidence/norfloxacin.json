@@ -1,0 +1,686 @@
+{
+  "drug": "Norfloxacin",
+  "drugbank_id": "DB01059",
+  "evidence_level": "L2",
+  "collected_at": "2026-03-04T10:28:52Z",
+  "indications": [
+    {
+      "indication": "paratyphoid fever",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 2,
+        "review_articles": 3,
+        "other_articles": 4,
+        "total_trials": 0,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "diarrheal disease",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 2,
+        "review_articles": 2,
+        "other_articles": 6,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "pneumonia caused by chlamydia",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "acute contagious conjunctivitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "endomyometritis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 2,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 2,
+        "total_trials": 0,
+        "total_articles": 2
+      }
+    }
+  ],
+  "total_trials": 0,
+  "total_articles": 22,
+  "trials": [],
+  "articles": [
+    {
+      "pmid": "21975746",
+      "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+      "abstract": "Typhoid and paratyphoid are febrile illnesses, due to a bacterial infection, which remain common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends the fluoroquinolone antibiotics in areas with known resistance to the older first-line antibiotics.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2011",
+      "authors": [
+        "Effa Emmanuel E",
+        "Lassi Zohra S",
+        "Critchley Julia A",
+        "Garner Paul",
+        "Sinclair David"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Child",
+        "Fluoroquinolones",
+        "Humans",
+        "Norfloxacin",
+        "Paratyphoid Fever",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome",
+        "Typhoid Fever"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21975746/"
+    },
+    {
+      "pmid": "18843659",
+      "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+      "abstract": "Fluoroquinolones are recommended as first-line therapy for typhoid and paratyphoid fever (enteric fever), but how they compare with other antibiotics and different fluoroquinolones is unclear.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2008",
+      "authors": [
+        "Thaver Durrane",
+        "Zaidi Anita Km",
+        "Critchley Julia A",
+        "Azmatullah Asma",
+        "Madni Syed Ali"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Child",
+        "Fluoroquinolones",
+        "Humans",
+        "Norfloxacin",
+        "Paratyphoid Fever",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome",
+        "Typhoid Fever"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18843659/"
+    },
+    {
+      "pmid": "15846718",
+      "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+      "abstract": "Fluoroquinolones are recommended as first-line therapy for typhoid and paratyphoid fever, but how they compare with other cheaper antibiotics and different fluoroquinolones is unclear.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2005",
+      "authors": [
+        "Thaver D",
+        "Zaidi A K",
+        "Critchley J",
+        "Madni S A",
+        "Bhutta Z A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Infective Agents",
+        "Child",
+        "Fluoroquinolones",
+        "Humans",
+        "Norfloxacin",
+        "Paratyphoid Fever",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome",
+        "Typhoid Fever"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15846718/"
+    },
+    {
+      "pmid": "11197787",
+      "title": "Oral administration of fluoroquinolones in the treatment of typhoid fever and paratyphoid fever in Japan.",
+      "abstract": "To study the adverse reactions and therapeutic effects of fluoroquinolones to investigate whether they can be used for the treatment of patients with typhoid fever and paratyphoid fever.",
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "year": "2000",
+      "authors": [
+        "Ohnishi K",
+        "Kimura K",
+        "Masuda G",
+        "Tsunoda T",
+        "Obana M"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Aged",
+        "Anti-Infective Agents",
+        "Drug Evaluation",
+        "Female",
+        "Fluoroquinolones",
+        "Humans",
+        "Japan",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11197787/"
+    },
+    {
+      "pmid": "1781005",
+      "title": "Randomized treatment of patients with typhoid and paratyphoid fevers using norfloxacin or chloramphenicol.",
+      "abstract": "Forty adult patients with Salmonella typhi and S. paratyphi infections were studied in a randomly assigned prospective study to receive norfloxacin (12 drug-sensitive and 8 drug-resistant cases) or chloramphenicol (20 cases). No complication occurred in either group and no side effect was noted in the norfloxacin-treated group. The results suggest that a 7 d course of twice daily norfloxacin promises to be an alternative to a 14 d course of chloramphenicol for treating chloramphenicol-sensitive and multidrug-resistant typhoid and paratyphoid fevers.",
+      "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+      "year": "1991",
+      "authors": [
+        "Sarma P S",
+        "Durairaj P"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Chloramphenicol",
+        "Drug Resistance, Microbial",
+        "Female",
+        "Humans",
+        "Male",
+        "Norfloxacin",
+        "Paratyphoid Fever",
+        "Prospective Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1781005/"
+    },
+    {
+      "pmid": "18383953",
+      "title": "Current pattern of enteric fever: a prospective clinical and microbiological study.",
+      "abstract": "A prospective clinical and microbiological study was conducted in 145 blood culture positive cases of enteric fever below the age of 18 years over a period of eleven months (June 2004 to April 2005). It aimed to study the clinical profile, the relative magnitude of enteric fever in children, especially in those below the age of two years and to determine the current antibiotic sensitivity pattern of Salmonella typhi and S paratyphi. Enteric fever is a significant problem in the preschool years. Sixty-five per cent of cases were in the age group of 2 to 9 years, 27% in 0-5 years and 13% in age group 0-2 years. Ninety-two per cent of the cases were caused by S typhi. Paratyphoid fever is less common (8%), when occurs is caused by S paratyphi A. In-vitro sensitivity, using the Bauer-Kirby agar disc diffusion method, to ceftriaxone was 99%, cefixime-99%, cefotaxime-99%, cefpodoxime-72%, cefoperazone-93%, among quinolones, ciprofloxacin-95%, ofloxacin-83%, norfloxacin-79%. Sensitivity to th",
+      "journal": "Journal of the Indian Medical Association",
+      "year": "2007",
+      "authors": [
+        "Verma Madhoolika",
+        "Parashar Yogesh",
+        "Singh Anuradha",
+        "Kamoji Ravi"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Cephalosporins",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Humans",
+        "Infant",
+        "Male",
+        "Prospective Studies",
+        "Risk Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18383953/"
+    },
+    {
+      "pmid": "27188369",
+      "title": "[Drug tolerance and PFGE molecular typing of Salmonella paratyphi A isolated in Dengfeng, Henan province, 2009-2015].",
+      "abstract": "To investigate the drug tolerance and PFGE patterns of Salmonella(S.)paratyphi A strains isolated from sentinel hospitals in Dengfeng, Henan province, during 2009-2015.",
+      "journal": "Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi",
+      "year": "2016",
+      "authors": [
+        "Zhao J Y",
+        "Zhang S Y",
+        "Mu Y J",
+        "Zhang B F",
+        "Xia S L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Agglutination Tests",
+        "Anti-Bacterial Agents",
+        "Cefepime",
+        "Cephalosporins",
+        "China",
+        "Drug Resistance, Bacterial",
+        "Drug Tolerance",
+        "Electrophoresis, Gel, Pulsed-Field",
+        "Humans",
+        "Molecular Typing"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27188369/"
+    },
+    {
+      "pmid": "17164172",
+      "title": "Increasing prevalence of Salmonella enterica serotype Paratyphi-A in patients with enteric fever in a periurban slum setting of Kolkata, India.",
+      "abstract": "A sudden rise in the occurrence of Salmonella enterica serotype Paratyphi-A (SPTA) was noted in a longitudinal community-based study in Kolkata, India, during 2004 - 2005. We compared the incidence rate of Salmonella enterica serotype Typhi (ST) and SPTA and their antimicrobial susceptibility pattern. Rate of isolation of SPTA was 1.5 times higher than that of ST, a trend detected for the first time in that particular focus. Almost all the isolates were sensitive to Gentamycin and Norfloxacin. Most of the strains (90%) were sensitive to Ciprofloxacin. Two thirds of the strains were also sensitive to Chloramphenicol. The high occurrence of SPTA in the present study could be the signal of the emergence of SPTA as a pathogen in India. Quinolone derivatives (namely, Ciprofloxacin, Norfloxacin and Chloramphenicol) can be suggested as drugs of choice for treatment of enteric fever caused by SPTA. Future vaccination strategies should include bivalent vaccines with protection capacities agains",
+      "journal": "International journal of environmental health research",
+      "year": "2006",
+      "authors": [
+        "Palit Anup",
+        "Ghosh Subrata",
+        "Dutta Sanjucta",
+        "Sur Dipika",
+        "Bhattacharya Mihir Kumar"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Infective Agents",
+        "Humans",
+        "India",
+        "Longitudinal Studies",
+        "Microbial Sensitivity Tests",
+        "Paratyphoid Fever",
+        "Poverty Areas",
+        "Prevalence",
+        "Salmonella paratyphi A",
+        "Typhoid Fever"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17164172/"
+    },
+    {
+      "pmid": "3137036",
+      "title": "Prospective randomized comparative trial of pefloxacin versus cotrimoxazole in the treatment of typhoid fever in adults.",
+      "abstract": "Pefloxacin, which has been shown to have a high in vitro activity against Salmonella spp., was compared to cotrimoxazole in the treatment of typhoid fever in adults. In a prospective, randomized trial, 42 patients with bacteriologically documented typhoid fever received either 400 mg pefloxacin b.i.d. or 160/800 mg cotrimoxazole b.i.d. Duration of treatment was 14 days in both groups. All patients were cured without experiencing a relapse or becoming a salmonella carrier. Apyrexia and resolution of digestive and neurological symptoms were obtained in a significantly shorter time with pefloxacin than with cotrimoxazole. Pefloxacin was well tolerated and more effective than cotrimoxazole in the treatment of typhoid fever.",
+      "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+      "year": "1988",
+      "authors": [
+        "Hajji M",
+        "el Mdaghri N",
+        "Benbachir M",
+        "el Filali K M",
+        "Himmich H"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Drug Combinations",
+        "Female",
+        "Humans",
+        "Male",
+        "Norfloxacin",
+        "Paratyphoid Fever",
+        "Pefloxacin",
+        "Prospective Studies",
+        "Random Allocation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3137036/"
+    },
+    {
+      "pmid": "15880088",
+      "title": "Shigellosis.",
+      "abstract": "Shigellosis is a global human health problem. Four species of Shigella i.e. S. dysenteriae, S. flexneri, S. boydii and S. sonnei are able to cause the disease. These species are subdivided into serotypes on the basis of O-specific polysaccharide of the LPS. Shigella dysenteriae type 1 produces severe disease and may be associated with life-threatening complications. The symptoms of shigellosis include diarrhoea and/or dysentery with frequent mucoid bloody stools, abdominal cramps and tenesmus. Shigella spp. cause dysentery by invading the colonic mucosa. Shigella bacteria multiply within colonic epithelial cells, cause cell death and spread laterally to infect and kill adjacent epithelial cells, causing mucosal ulceration, inflammation and bleeding. Transmission usually occurs via contaminated food and water or through person-to-person contact. Laboratory diagnosis is made by culturing the stool samples using selective/differential agar media. Shigella spp. are highly fragile organism ",
+      "journal": "Journal of microbiology (Seoul, Korea)",
+      "year": "2005",
+      "authors": [
+        "Niyogi Swapan Kumar"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Drug Resistance, Bacterial",
+        "Dysentery, Bacillary",
+        "Humans",
+        "Shigella",
+        "Shigella Vaccines",
+        "Virulence Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15880088/"
+    },
+    {
+      "pmid": "36509064",
+      "title": "Etiology of Acute Diarrheal Disease and Antimicrobial Susceptibility Pattern in Children Younger Than 5 Years Old in Nepal.",
+      "abstract": "Diarrhea is a common cause of morbidity and mortality among children younger than 5 years in developing countries. Children from 3 to 60 months of age were recruited from two hospitals in Nepal- Bharatpur Hospital, Bharatpur, and Kanti Children's Hospital, Kathmandu-in 2006 to 2009. Stool specimens collected from 1,200 children with acute diarrhea (cases) and 1,200 children without diarrhea (control subjects) were examined for a broad range of enteropathogens by standard microbiology, including microscopy, enzyme immunoassay for viral pathogens (adenovirus, astrovirus, and rotavirus) and protozoa (Giardia, Cryptosporidium, and Entamoeba histolytica), as well as by using reverse transcription real-time polymerase for norovirus. Antimicrobial susceptibility testing was performed using the disk diffusion method. Overall, rotavirus (22% versus 2%), norovirus (13% versus 7%), adenovirus (3% versus 0%), Shigella (6% versus 1%), enterotoxigenic Escherichia coli (8% versus 4%), Vibrio (7% vers",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "year": "2023",
+      "authors": [
+        "Shrestha Sanjaya K",
+        "Shrestha Jasmin",
+        "Mason Carl J",
+        "Sornsakrin Siriporn",
+        "Dhakhwa Jyoti Ratna"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Infant",
+        "Child, Preschool",
+        "Cryptosporidiosis",
+        "Nepal",
+        "Cryptosporidium",
+        "Diarrhea",
+        "Rotavirus",
+        "Shigella",
+        "Enterotoxigenic Escherichia coli"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36509064/"
+    },
+    {
+      "pmid": "3300316",
+      "title": "Use of norfloxacin in the treatment of acute diarrheal disease.",
+      "abstract": "In studies conducted in seven countries, 392 persons with acute diarrhea were enrolled and randomly assigned to one of three regimens. In order to compare the effectiveness of various therapies for acute gastroenteritis, patients were treated for five days with either norfloxacin, 400 mg twice daily, norfloxacin, 400 mg three times a day, or trimethoprim/sulfamethoxazole, (160 mg/800 mg) twice daily. Clinical cure occurred in 89 percent (lower dose) and 91 percent (higher dose) of those treated with norfloxacin, compared with 78 percent of those receiving trimethoprim/sulfamethoxazole; cure rates in each treatment group were greater when the patient's stool contained fecal leukocytes. In 105 of 106 (99 percent) patients treated with either dose of norfloxacin and in 49 of 52 (94 percent) trimethoprim/sulfamethoxazole-treated subjects, the bacterial enteropathogen identified in the pretreatment stool was eradicated on the posttreatment specimen. Two percent (two patients) of those recei",
+      "journal": "The American journal of medicine",
+      "year": "1987",
+      "authors": [
+        "Dupont H L",
+        "Corrado M L",
+        "Sabbaj J"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adult",
+        "Child",
+        "Clinical Trials as Topic",
+        "Diarrhea",
+        "Drug Combinations",
+        "Feces",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Norfloxacin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3300316/"
+    },
+    {
+      "pmid": "1616214",
+      "title": "Empiric treatment of acute diarrheal disease with norfloxacin. A randomized, placebo-controlled study. Swedish Study Group.",
+      "abstract": "To evaluate the clinical and microbiologic efficacy and safety of norfloxacin for acute diarrhea.",
+      "journal": "Annals of internal medicine",
+      "year": "1992",
+      "authors": [
+        "Wiström J",
+        "Jertborn M",
+        "Ekwall E",
+        "Norlin K",
+        "Söderquist B"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Child",
+        "Diarrhea",
+        "Double-Blind Method",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1616214/"
+    },
+    {
+      "pmid": "1656260",
+      "title": "Diarrheal disease during Operation Desert Shield.",
+      "abstract": "Under combat conditions infectious disease can become a major threat to military forces. During Operation Desert Shield, there were numerous outbreaks of diarrhea among the U.S. forces. To evaluate the causes of and risk factors for diarrheal disease, we collected clinical and epidemiologic data from U.S. troops stationed in northeastern Saudi Arabia.",
+      "journal": "The New England journal of medicine",
+      "year": "1991",
+      "authors": [
+        "Hyams K C",
+        "Bourgeois A L",
+        "Merrell B R",
+        "Rozmajzl P",
+        "Escamilla J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Ampicillin",
+        "Diarrhea",
+        "Drug Resistance, Microbial",
+        "Dysentery, Bacillary",
+        "Escherichia coli",
+        "Escherichia coli Infections",
+        "Feces",
+        "Gastroenteritis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1656260/"
+    },
+    {
+      "pmid": "7985750",
+      "title": "Diarrheal disease in Peru after the introduction of cholera.",
+      "abstract": "Surveillance was conducted one day each week from December 1992 through May 1993 to determine the clinical features and etiology of diarrhea among a population in a suburban community of Lima, Peru. Patients who had had three or more loose stools during the previous 24 hr were enrolled at a clinic located in the community or at a nearby regional hospital. A total of 143 cases of diarrhea were detected for an overall rate of 7.1 cases per 1,000 population. The enteropathogens isolated were Vibrio cholerae 01 (31%), enterotoxigenic Escherichia coli (22%), and Salmonella, Shigella, Campylobacter, and Aeromonas species (10%). Specimens from the remaining cases were negative for enteropathogens. All isolates of V. cholerae were susceptible to tetracycline, doxycycline, nalidixic acid, norfloxacin, trimethoprim-sulfamethoxazole, trimethoprim, gentamicin, chloramphenicol, and cephalothin. Cases of diarrhea associated with V. cholerae were more common among adults, and more likely to experienc",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "year": "1994",
+      "authors": [
+        "Begue R E",
+        "Castellares G",
+        "Hayashi K E",
+        "Ruiz R",
+        "Meza R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aeromonas",
+        "Age Distribution",
+        "Campylobacter",
+        "Child",
+        "Child, Preschool",
+        "Cholera",
+        "Dehydration",
+        "Diarrhea"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7985750/"
+    },
+    {
+      "pmid": "31666490",
+      "title": "Prevalence of Multidrug Resistant Salmonellae with Increasing Frequency of Salmonella enterica Serovars Kentucky and Virchow among Hospitalized Diarrheal Cases in and around Delhi, India.",
+      "abstract": "Non-typhoidal salmonellae (NTS) are a major cause of acute diarrhea with characteristic multidrug resistance (MDR). In a hospital-based study, 81 NTS were isolated and tested for serotypes and antimicrobial resistance (AMR). Salmonella enterica isolates were classified into 7 different typable serovars, however, 19 (23%) isolates remained untypable. The most common serovars were S. Kentucky (48%), and S. Virchow (22%). Most of the NTS isolates displayed resistance to nalidixic acid (NA) (73%), ciprofloxacin (CIP) (48%), ampicillin (AM) and norfloxacin (NOR) (36% each), and gentamicin (CN) (31%). The AMR profiles for CN and NA; and AM, CIP, NA and NOR, were found to be high in S. Virchow (83%) and S. Kentucky (43%), respectively. Analysis of the pulsed-field gel electrophoresis patterns of S. Kentucky revealed 3 clusters. S. Kentucky has clones closely related to become prominent in recent years in Delhi. The AMR appears to be consistent with the change in MDR patterns during 2014-2017.",
+      "journal": "Japanese journal of infectious diseases",
+      "year": "2020",
+      "authors": [
+        "Sharma Naresh Chand",
+        "Kumar Dhirendra",
+        "Sarkar Anirban",
+        "Chowdhury Goutam",
+        "Mukhopadhyay Asish K"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Child",
+        "Child, Preschool",
+        "Diarrhea",
+        "Drug Resistance, Multiple, Bacterial",
+        "Electrophoresis, Gel, Pulsed-Field",
+        "Humans",
+        "India",
+        "Kentucky",
+        "Prevalence"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31666490/"
+    },
+    {
+      "pmid": "38399705",
+      "title": "The Antimicrobial Resistance of Enterotoxigenic Escherichia coli from Diarrheal Patients and the Environment in Two Geographically Distinct Rural Areas in Bangladesh over the Years.",
+      "abstract": "Antimicrobial resistance (AMR) is an unprecedented global health challenge, involving the transfer of bacteria and genes between humans and the environment. We simultaneously and longitudinally determined the AMR of enterotoxigenic Escherichia coli (ETEC) strains isolated from diarrheal patients and an aquatic environment over two years from two geographically distinct locations, Coastal Mathbaria and Northern Chhatak in Bangladesh. A total of 60% and 72% of ETEC strains from the patients in Mathbaria and Chhatak, respectively, were multi-drug resistant (MDR) with a high proportion of ETEC resistant to nalidixic acid (80.7%), macrolides (49.1-89.7%), ampicillin (57.9-69%), and trimethoprim/sulfamethoxazole (55.2%). From the surface water, 68.8% and 30% of ETEC were MDR in Mathbaria and Chhatak, respectively, with a high proportion of ETEC strains resistant to macrolides (87.5-100%), ampicillin (50-75%), ceftriaxone (62.5%), and nalidixic acid (40%). Notably, 80-100% of the ETEC strains",
+      "journal": "Microorganisms",
+      "year": "2024",
+      "authors": [
+        "Johura Fatema-Tuz",
+        "Sultana Marzia",
+        "Sadique Abdus",
+        "Monira Shirajum",
+        "Sack David A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38399705/"
+    },
+    {
+      "pmid": "3300309",
+      "title": "Norfloxacin: its potential in clinical practice.",
+      "abstract": "The in vitro spectrum and potency of norfloxacin against both aerobic gram-negative and gram-positive bacteria, its limited activity against anaerobes, and the apparent difficulty organisms have in acquiring resistance to it, have provided a rationale for the clinical development of this oral fluoroquinolone antimicrobial agent. The clinical experience with norfloxacin as treatment for a variety of urinary tract infection syndromes, uncomplicated gonococcal infection, and diarrheal disease, and as prophylaxis of infection in neutropenic patients with cancer, is reviewed. Norfloxacin appears at least equivalent to standard regimens for the treatment of acute urinary tract infections; however, long-term studies are needed to define its role in the treatment of recurrent urinary infections. Initial studies of norfloxacin treatment of uncomplicated gonococcal infection and bacterial gastroenteritis are also promising, and in neutropenic patients, continuous norfloxacin prophylaxis has been",
+      "journal": "The American journal of medicine",
+      "year": "1987",
+      "authors": [
+        "Lee C",
+        "Ronald A R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Bacterial Infections",
+        "Diarrhea",
+        "Gonorrhea",
+        "Humans",
+        "Neutropenia",
+        "Norfloxacin",
+        "Travel",
+        "Urinary Tract Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3300309/"
+    },
+    {
+      "pmid": "35663873",
+      "title": "Diarrhea-Causing Bacteria and Their Antibiotic Resistance Patterns Among Diarrhea Patients From Ghana.",
+      "abstract": "Diarrheal disease remains a major global health problem particularly in children under 5 years and the emergence of antibiotic-resistant strains of causative pathogens could slow control efforts, particularly in settings where treatment options are limited. This surveillance study conducted in Ghana aimed to determine the prevalence and antimicrobial susceptibility profile of diarrhea-causing bacteria. This was a cross-sectional study carried out in five health facilities in the Ga West Municipality of Ghana between 2017 and 2021. Diarrheic stool samples from patients were collected and cultured on standard differential/selective media and isolates identified by standard biochemical tests, MALDI-TOF assay, and serological analysis. The antibiogram was determined using Kirby-Bauer disk diffusion and Microscan autoScan4 MIC panels which were used for extended-spectrum beta-lactamase (ESBL) detection. Bacteria were isolated from 97.5% (772/792) of stool samples, and 167 of the isolates we",
+      "journal": "Frontiers in microbiology",
+      "year": "2022",
+      "authors": [
+        "Afum Theophilus",
+        "Asandem Diana Asema",
+        "Asare Prince",
+        "Asante-Poku Adwoa",
+        "Mensah Gloria Ivy"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35663873/"
+    },
+    {
+      "pmid": "2808194",
+      "title": "The in-vitro activity, pharmacokinetics and tissue penetration of temafloxacin.",
+      "abstract": "The in-vitro activity of temafloxacin compared with other quinolone antibiotics was evaluated using 579 bacterial strains and three isolates of Chlamydia trachomatis. The MICs of temafloxacin for 90% of Haemophilus influenzae, Neisseria spp., Enterobacteriaceae, Bacteroides fragilis and Ch. trachomatis were all less than or equal to 1 mg/l, an activity comparable with or superior to that of ofloxacin and superior to those of fleroxacin and norfloxacin. Temafloxacin, although more active against anaerobes, was in general slightly less active than ciprofloxacin. Against Streptococcus pneumoniae and Staphylococcus aureus (including MRSA) temafloxacin was twice as active as ciprofloxacin. The pharmacokinetics of temafloxacin were studied in six volunteers, following a single 400 mg oral dose, measuring concentrations in plasma, inflammatory fluid and urine. Mean peak plasma levels of 3.3 mg/l were achieved. The mean plasma elimination half life was 6.8 h and the percentage penetration into",
+      "journal": "The Journal of antimicrobial chemotherapy",
+      "year": "1989",
+      "authors": [
+        "Nye K",
+        "Shi Y G",
+        "Andrews J M",
+        "Ashby J P",
+        "Wise R"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "4-Quinolones",
+        "Adult",
+        "Anti-Infective Agents",
+        "Bacteria",
+        "Blister",
+        "Exudates and Transudates",
+        "Fluoroquinolones",
+        "Humans",
+        "Male",
+        "Quinolones"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2808194/"
+    }
+  ]
+}

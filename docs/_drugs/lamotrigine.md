@@ -5,7 +5,7 @@ drugbank_id: "DB00555"
 drug_name: "Lamotrigine"
 kg_predictions: 100
 dl_predictions: 99
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 100
 brands: []
 permalink: /drugs/lamotrigine/
@@ -21,7 +21,7 @@ permalink: /drugs/lamotrigine/
 | **DrugBank ID** | [DB00555](https://go.drugbank.com/drugs/DB00555) |
 | **KG Predictions** | 100 |
 | **DL Predictions (≥0.7)** | 99 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

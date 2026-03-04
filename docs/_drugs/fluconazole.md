@@ -5,7 +5,7 @@ drugbank_id: "DB00196"
 drug_name: "Fluconazole"
 kg_predictions: 182
 dl_predictions: 183
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 182
 brands: []
 permalink: /drugs/fluconazole/
@@ -21,7 +21,7 @@ permalink: /drugs/fluconazole/
 | **DrugBank ID** | [DB00196](https://go.drugbank.com/drugs/DB00196) |
 | **KG Predictions** | 182 |
 | **DL Predictions (≥0.7)** | 183 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

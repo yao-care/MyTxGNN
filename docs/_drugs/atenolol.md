@@ -5,7 +5,7 @@ drugbank_id: "DB00335"
 drug_name: "Atenolol"
 kg_predictions: 180
 dl_predictions: 52
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 180
 brands: []
 permalink: /drugs/atenolol/
@@ -21,7 +21,7 @@ permalink: /drugs/atenolol/
 | **DrugBank ID** | [DB00335](https://go.drugbank.com/drugs/DB00335) |
 | **KG Predictions** | 180 |
 | **DL Predictions (≥0.7)** | 52 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

@@ -5,7 +5,7 @@ drugbank_id: "DB00814"
 drug_name: "Meloxicam"
 kg_predictions: 119
 dl_predictions: 52
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 119
 brands: []
 permalink: /drugs/meloxicam/
@@ -21,7 +21,7 @@ permalink: /drugs/meloxicam/
 | **DrugBank ID** | [DB00814](https://go.drugbank.com/drugs/DB00814) |
 | **KG Predictions** | 119 |
 | **DL Predictions (≥0.7)** | 52 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

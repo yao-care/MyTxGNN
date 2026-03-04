@@ -5,7 +5,7 @@ drugbank_id: "DB00047"
 drug_name: "Insulin Glargine"
 kg_predictions: 65
 dl_predictions: 17
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 65
 brands: []
 permalink: /drugs/insulin-glargine/
@@ -21,7 +21,7 @@ permalink: /drugs/insulin-glargine/
 | **DrugBank ID** | [DB00047](https://go.drugbank.com/drugs/DB00047) |
 | **KG Predictions** | 65 |
 | **DL Predictions (≥0.7)** | 17 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

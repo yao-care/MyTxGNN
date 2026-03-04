@@ -2,7 +2,7 @@
   "drug": "Fluticasone Propionate",
   "drugbank_id": "DB00588",
   "evidence_level": "L1",
-  "collected_at": "2026-03-04T09:57:26Z",
+  "collected_at": "2026-03-04T10:11:46Z",
   "indications": [
     {
       "indication": "neurodermatitis",
@@ -283,7 +283,7 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "start_date": "2021-06-30",
       "completion_date": "2028-06-30",
-      "country": "United States, United Kingdom",
+      "country": "United Kingdom, United States",
       "enrollment": 398,
       "brief_summary": "This is a randomized, controlled trial designed for children who are have already developed atopic dermatitis (AD or eczema) by 12 weeks of age. The aim is to compare the effect of proactive sequential skin care, including the twice-daily use of a tri-lipid skin barrier cream (Epiceram) and proactive use of fluticasone propionate cream, against reactive AD therapy, to reduce the occurrence and severity of AD in early infancy and thereby prevent food allergy (FA).",
       "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants who develop early onset visible dry skin or atopic dermatitis up to and equal to 12 weeks of age.\n2. Stated willingness to comply with all study procedures and availability for the duration of the study\n3. In good general health as evidenced by medical history\n4.",

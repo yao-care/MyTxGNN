@@ -1,0 +1,1022 @@
+{
+  "drug": "Beclomethasone Dipropionate",
+  "drugbank_id": "DB00394",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:30:04Z",
+  "indications": [
+    {
+      "indication": "asthma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 5,
+        "phase1_trials": 1,
+        "other_trials": 7,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "allergic asthma",
+      "evidence_level": "L1",
+      "trials": 8,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 5,
+        "rct_articles": 2,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 8,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "rhinitis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 10,
+        "phase2_trials": 4,
+        "phase1_trials": 1,
+        "other_trials": 5,
+        "rct_articles": 2,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "intrinsic asthma",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 2,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "vasomotor rhinitis",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 3,
+        "other_articles": 6,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 48,
+  "total_articles": 50,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01450774",
+      "title": "A Single Centre, Randomised, Double-blind, Double-dummy, 2-way Cross Over Study to Compare Safety Assessed by Knemometry and Urinary Cortisol Measurements of CHF1535 50/6 Pmdi (Fixed Combination of Beclomethasone Dipropionate and Formoterol Fumarate) and the Free Combination of Licensed Beclomethasone Dipropionate and Formoterol Fumarate in Asthmatic Children Already Treated With Inhaled Corticosteroids",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2014-02",
+      "country": "Denmark",
+      "enrollment": 72,
+      "brief_summary": "This is a single centre, double-blind, double-dummy, randomised, single-centre, 2-way cross-over study in asthmatic children already treated with inhaled corticosteroids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Prepuberal male and female outpatients, ≥ 5 and ≤ 11 years old in Tanner stadium I according to Investigator's assessment\n* Clinical diagnosis of mild asthma during at least two months prior to screening visit\n* Forced Expiratory Volume during the first second (FEV1) \\> 80% of",
+      "endpoints": [
+        "Lower leg growth rate measured by knemometry"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01450774"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04179461",
+      "title": "Personalized Treatment Algorithms for Difficult-to-treat Asthma: Bench to Community",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-03-16",
+      "completion_date": "2019-10-03",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "Asthma is a common, complex and costly chronic condition. Moreover, asthma is heterogeneous in terms of treatment response. This heterogeneity contributes to the difficulty in both studying and treating asthma. This is a pilot study to improve health outcomes in youths with difficult to treat asthma with ongoing symptoms and healthcare utilization despite medium to high doses of inhaled corticosteroids. Asthma heterogeneity in both disease pathophysiology and treatment response contributes to th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of provider-diagnosed asthma\n* Meets one of the following definition for NAEPP guidelines uncontrolled moderate persistent asthma or severe persistent asthma in the past 12 months:\n\n  * NAEPP step 3-4 with one of the following criteria in the past 12 months:\n\n    * Two",
+      "endpoints": [
+        "Change in Composite Asthma Severity Index (CASI)"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT04179461"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00861926",
+      "title": "48-week,Multinational,Randomized,Double-blind,2-parallel Groups,Comparing the Efficacy of Foster for Maintenance and Reliever Versus Fixed-dose Foster for Maintenance Plus Salbutamol as Reliever in Asthmatics >=18 Years of Age",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2011-04",
+      "country": "Italy",
+      "enrollment": 2079,
+      "brief_summary": "Double-blind, multinational, multicentre, randomized, 2-arm parallel-group study",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written signed and dated informed consent obtained.\n* Male or female patients aged ≥ 18 years.\n* A positive reversibility test\n* Patients who experienced at least one severe exacerbation in the 12 months before entry (but not in the last month)\n* Using inhaled corticosteroids ",
+      "endpoints": [
+        "Time to first severe asthma exacerbation"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT00861926"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00921921",
+      "title": "Does Extra-fine HFA-BDP Suppress Small Airways Inflammation in COPD?",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2011-10",
+      "country": "United Kingdom",
+      "enrollment": 16,
+      "brief_summary": "Chronic obstructive pulmonary disease or 'COPD' is a chronic disease, which means that it cannot be cured, but that inhalers and tablets can be used to control the symptoms. In COPD, the airways become inflamed which can cause coughing and make the airways tighten. This 'inflammation' is the root of the problem in COPD.\n\nThe airways of the lung start in the windpipe and branch like the branches of a tree, getting smaller and smaller. In COPD the inflammation is deep in the lungs, out to the very",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Current or ex-smokers\n* \\> 40 years of age with a greater than 15 pack year history of smoking\n* post-bronchodilator FEV1/FVC ratio \\< 0.7\n* FEV1 \\< 80% predicted\n* CANO \\> 3 ppb at screening\n* Informed consent and ability to perform exhaled nitric oxide assessment\n\nExclusion ",
+      "endpoints": [
+        "Alveolar Nitric Oxide"
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT00921921"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06970080",
+      "title": "Therapeutic Relevance of Abnormal Airway Morphology in Asthma: A Path to Optimized Management and Drug Development (AirPATH Study)",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-06-02",
+      "completion_date": "2028-06",
+      "country": "Canada",
+      "enrollment": 242,
+      "brief_summary": "Most individuals with asthma can effectively manage their symptoms and maintain normal lung function using inhaled medications, unfortunately, there is a subset of asthma sufferers whose symptoms, lung function, and risk of asthma attacks remain unimproved despite conventional inhaled medications. There could be several reasons for this. One possibility is that inhaled medications fail to reach the intended areas within the lungs, due to structural abnormalities within the airways themselves. Mu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able and willing to provide written informed consent.\n* Able and willing to comply with the study protocol.\n* Males and females ≥ 18 years of age.\n* Asthma diagnosed by a respiratory physician.\n* Airway hyperresponsiveness (defined as methacholine PC20 ≤8mg/mL) and/or bronchod",
+      "endpoints": [
+        "Biological response to additional ICS",
+        "Biological response to add-on OCS"
+      ],
+      "sponsor": "McMaster University",
+      "url": "https://clinicaltrials.gov/study/NCT06970080"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04480242",
+      "title": "Assessment of Children and Adolescents With Asthma: An Observational Prospective Study",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-07-26",
+      "completion_date": "2030-12-31",
+      "country": "Spain",
+      "enrollment": 525,
+      "brief_summary": "The purpose of this study is to assess the evolution of disease control, health-related quality of life, and the risk of severe asthma exacerbations in children and adolescents with persistent asthma in Spain at short, mid and long-term follow-up. Patient-reported information in this project is collected by computer assisted telephone interviews (CATI) and a mobile application (ARCA App).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children or adolescents aged 6-14.\n* Clinical diagnosis of asthma.\n* Undergoing treatment with inhaled corticosteroids (alone or combined with long-acting beta-agonists) for more than 6 months in the previous year.\n* With access to a smart phone (their own, or their parents').",
+      "endpoints": [
+        "Change from baseline in symptoms control, measured with the Asthma Control Questionnaire (ACQ)",
+        "Change from baseline in Health-Related Quality of Life, measured with the EuroQol",
+        "Number of severe asthmatic exacerbations"
+      ],
+      "sponsor": "Parc de Salut Mar",
+      "url": "https://clinicaltrials.gov/study/NCT04480242"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01741285",
+      "title": "Effects Of Extra-fine Particle HFA-becLomethasone (HFA-QVAR) Versus Course Particle Treatment In Smokers and Ex-smokers With Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-04",
+      "completion_date": "2015-12",
+      "country": "Netherlands",
+      "enrollment": 40,
+      "brief_summary": "We hypothesize that extra-fine particle treatment with HFA-QVAR will be superior in improving small airways dysfunction, especially in ex-smokers and smokers with asthma.\n\nTo investigate this, we will perform a study comparing the efficacy of extra-fine particle HFA-QVAR 200 µg b.i.d. to an equipotent dose of course particle HFA-beclomethasone (HFA-Clenil) 400 µg b.i.d. and with coarse particle HFA-fluticasone (GSK) 250 µg in ex-smokers and smokers with asthma.\n\nStudy design: This study will be ",
+      "eligibility_criteria": "3.1 Inclusion criteria\n\nIn order to be eligible to participate in this study, a subject must meet all of the following criteria:\n\n* Males and females with a doctor's diagnosis of asthma\n* Age between 18 and 65 years\n* Current- and ex-smokers with ≥ 5 packyears.\n* Drop in FEV1 \\> 20% after provocatio",
+      "endpoints": [
+        "PD20 Adenosine"
+      ],
+      "sponsor": "University Medical Center Groningen",
+      "url": "https://clinicaltrials.gov/study/NCT01741285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03341403",
+      "title": "Assessment of the Impact of a Dietary Supplement Synbiotic \"Probiotical ®/Bactecal®\" in Asthma",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-01-17",
+      "completion_date": "2020-09-30",
+      "country": "Belgium",
+      "enrollment": 55,
+      "brief_summary": "It is a randomized double blind placebo control study. One hundred severe asthmatic patients will receive \"Probiotical ®/Bactecal®\" each day during 3 months and will be evaluated before and 1-3-6 months after in order to assess the impact of the synbiotic on the lung function, the exhaled nitric oxide value, the inflammatory blood and sputum profiles, the bronchial reactivity, the microvascular health and the quality of life and asthma control. The hypothesis is that, as these patients are not o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* severe asthma (ACQ \\>1.5 and treatment = minimum 200 µg beclomethasone) and stable treatment for at least 3 months.\n\nExclusion Criteria:\n\n* treatment not stable\n* exacerbation state\n* infection",
+      "endpoints": [
+        "ACQ improvement"
+      ],
+      "sponsor": "University of Liege",
+      "url": "https://clinicaltrials.gov/study/NCT03341403"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06482294",
+      "title": "CIVETTA: Correlating Inflammatory Values of FEno, SympToms, SpuTum and Lung Function in Asthma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-06-18",
+      "completion_date": "2025-07-01",
+      "country": "Italy",
+      "enrollment": 80,
+      "brief_summary": "Single-center, interventional, open-label, randomized phase II study aimed at describing the changes in airway inflammation at the onset of asthma symptoms that lead to the use of rapid acting bronchodilator (RABD) as a rescue medication in a mild to moderate asthma population. The study will assess whether there are differences in the airway inflammation profile in patients using a reliever medication containing ICS (anti-inflammatory rescue strategy) compared to a reliever medication containin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients already followed for asthma according to ERS/ATS criteria\n* Mild and moderate asthma (GINA steps 1-3), with the exclusion of patients with severe asthma (GINA steps 4-5).\n\nExclusion Criteria:\n\nSevere asthma (Gina steps 4 and 5)\n\n* Inability to give informed consent\n* ",
+      "endpoints": [
+        "To evaluate airway inflammation characteristics and changes at the onset of asthma symptoms requiring as-needed therapy (RABD) and the impact of inhaled steroid therapy in addition to RABD on airway inflammation"
+      ],
+      "sponsor": "Università degli Studi di Ferrara",
+      "url": "https://clinicaltrials.gov/study/NCT06482294"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01584492",
+      "title": "Double Blind, Double Dummy, Cross-over Study to Compare the Bronchodilator Effect of CHF1535 pMDI (Fixed Combination of Beclometasone 50 µg + Formoterol 6 µg) Versus Free Combination of Beclometasone Plus Formoterol pMDI in Asthmatic Children",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-12",
+      "completion_date": "2013-02",
+      "country": "Poland, Ukraine",
+      "enrollment": 59,
+      "brief_summary": "The purpose of this clinical study is to compare the improvement in breathing of single administration of CHF 1535 50/6 pMDI (fixed combination of a corticosteroid drug beclomethasone 50 µg + formoterol 6 µg/puff, 2 inhalations, total dose 100/12 µg) given with spacer versus free combination of beclomethasone 50 µg/puff pMDI (2 inhalations, total dose 100 µg) given with spacer plus formoterol 6 µg/puff pMDI (2 inhalations, total dose 12 µg) given with spacer in terms of FEV1 from 0 to 12 hours i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent obtained from the parents/legal representatives and/or the subject (if and when appropriate)\n* Prepuberal male and female outpatients, aged ≥ 5 and \\< 12 years (Tanner stage I and II)\n* Clinical diagnosis of asthma according to Global Strategy for Asth",
+      "endpoints": [
+        "bronchodilator effect of test treatment"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01584492"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00476268",
+      "title": "A 24-week Phase III Study to Evaluate the Efficacy and Tolerability of Beclometasone/Formoterol Single Inhaler HFA 134a-pMDI in Adult Patients With Moderate to Severe Persistent Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2005-01",
+      "country": "N/A",
+      "enrollment": 824,
+      "brief_summary": "Efficacy and tolerability of the fixed combination beclometasone/formoterol in patients with moderate to severe persistent asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of moderate to severe persistent asthma (according to GINA 2002 guidelines)\n* FEV1 \\> 40% and \\< 80% of predicted normal post-bronchodilator (and at least 0.7 L absolute value)\n* Patients already treated for at least 2 months with an association of inhaled c",
+      "endpoints": [
+        "Pre-dose morning PEF"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT00476268"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03859414",
+      "title": "A Single-center, Randomized, Double-blind, Single Dose, 4-way Cross-over, Placebo-controlled Ethnic Sensitivity Study to Assess the Pharmacokinetics (PK), Pharmacodynamics (PD), Safety, and Tolerability of Different Dosages of CHF 5993 Pressurized Metered Dose Inhaler (pMDI) in Caucasian and Japanese Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-03-18",
+      "completion_date": "2019-07-24",
+      "country": "United Kingdom",
+      "enrollment": 32,
+      "brief_summary": "The purpose of conducting this study is to obtain PK data of Beclometasone Dipropionate (BDP)/Beclometasone-17-MonoPropionate (B17MP), Formoterol Fumarate (FF) and Glycopyrronium Bromide (GB) after inhalation of CHF 5993 in Japanese as well as Caucasian healthy subjects under the same setting.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject's written informed consent obtained prior to any study related procedure;\n* Healthy male and female subjects aged 20 to 55 years inclusive;\n* For Japanese subjects: must be a Japanese subject who has resided outside Japan for no more than 5 years, born in Japan and hol",
+      "endpoints": [
+        "Area Under the Curve (AUC) of B17MP, formoterol and GB",
+        "Maximum of Concentration (Cmax) of B17MP, FF and GB"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT03859414"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000578",
+      "title": "NHLBI/NICHD Collaborative Studies of Asthma in Pregnancy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1994-04",
+      "completion_date": "2000-10",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "To conduct a collaborative program of research on asthma and pregnancy consisting of two studies: the Asthma in Pregnancy Study (APS) was an observational study to evaluate relationships between asthma severity and treatment programs and perinatal outcome, and the Asthma Therapy in Pregnancy Trial (ATPT) was a randomized clinical trial of inhaled beclomethasone versus theophylline in the treatment of moderate asthma during pregnancy. Both studies were conducted in the Maternal-Fetal Medicine Uni",
+      "eligibility_criteria": "Asthmatic pregnant women.",
+      "endpoints": [],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "url": "https://clinicaltrials.gov/study/NCT00000578"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06678191",
+      "title": "Effectiveness of BDP/FF/G 172/5/9 Fixed Triple Combination on Symptom Scores in Asthma Patients After 6 Months Treatment",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-10-24",
+      "completion_date": "2027-08-31",
+      "country": "Hungary",
+      "enrollment": 800,
+      "brief_summary": "The mainstay of asthma treatment are ICSs, mostly combined with LABA. In the past decade LAMA had been accepted as an add-on treatment for patients on GINA treatment Steps 4 and 5. Recently, RCTs proved the efficacy and safety of fixed triple combinations of moderate and high dose of ICS and LABA, LAMA in a very selected asthmatic population, resulting in the market authorisation of these products. However, there is a lack of evidence on the real-world effectiveness of these therapies, especiall",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n* Physician-confirmed clinical diagnosis of asthma according to GINA guidelines and treated for at least 3 years before inclusion\n* Patients ≥ 18 years of age in ambulatory care\n* Uncontrolled asthma according to the physician's clinical assessment despite the use of\n\n  1. LABA ",
+      "endpoints": [
+        "Asthma control Test",
+        "Asthma control Test 2"
+      ],
+      "sponsor": "Chiesi Hungary Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06678191"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02676076",
+      "title": "A 52 WEEK, RANDOMIZED, DOUBLE BLIND, MULTINATIONAL, MULTICENTRE, ACTIVE CONTROLLED, 2-ARM PARALLEL GROUP TRIAL COMPARING CHF 5993 100/6/12.5 µg pMDI (FIXED COMBINATION OF EXTRAFINE BECLOMETASONE DIPROPIONATE PLUS FORMOTEROL FUMARATE PLUS GLYCOPYRRONIUM BROMIDE) TO CHF 1535 100/6 µg pMDI (FIXED COMBINATION OF EXTRAFINE BECLOMETHASONE DIPROPIONATE PLUS FORMOTEROL FUMARATE) IN PATIENTS WITH ASTHMA UNCONTROLLED ON MEDIUM DOSES OF INHALED CORTICOSTEROIDS IN COMBINATION WITH LONG ACTING ß2 AGONISTS",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-02-17",
+      "completion_date": "2018-05-17",
+      "country": "Germany",
+      "enrollment": 1153,
+      "brief_summary": "The purpose of this study is to evaluate the superiority of CHF 5993 100/6/12.5 µg pMDI (fixed combination of extrafine beclometasone dipropionate plus formoterol fumarate plus glycopyrronum bromide) versus CHF 1535 100/6 µg pMDI (fixed combination of extrafine beclometasone dipropionate plus formoterol fumarate), in terms of lung functions parameters and rate of exacerbations, as well as to assess its safety and some health economics outcomes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of asthma ≥ 1 year and diagnosed before 40 years old\n* Uncontrolled asthma with double therapy only on medium doses of Inhaled CorticoSteroid (ICS) in combination with Long-acting beta2 Agonist (LABA) with ACQ-7 (Asthma Control Questionnaire) ≥1.5\n* Pre-bronchodilator ",
+      "endpoints": [
+        "Pre-dose FEV1 (Forced Expiratory Volume in the first second)",
+        "Reduction of moderate and severe asthma exacerbations rate"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02676076"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03084718",
+      "title": "An 8-week, Multicenter, Randomized, Double-blind, Placebo and Active-controlled, Parallel Group, Dose-ranging Study to Evaluate the Efficacy and Safety of 3 Doses of CHF 718 pMDI (HFA Beclomethasone Dipropionate Via Pressured Metered Dose Inhaler) in Asthmatic Subjects.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-07-28",
+      "completion_date": "2018-12-05",
+      "country": "United States",
+      "enrollment": 610,
+      "brief_summary": "The purpose of this study is to evaluate the dose-response of different doses of CHF 781 Pressurized Metered Dose Inhaler (pMDI) on lung function and other clinical outcomes, to identify the optimal dose(s) in terms of benefit/ risk ratio for further development in the target patient population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects aged ≥18 and ≤75 years who have signed an Informed Consent form prior to initiation of any study-related procedure.\n* A diagnosis of asthma as defined in the Global Initiative for Asthma (GINA) Report, 2016, documented for at least 1 year prior to scree",
+      "endpoints": [
+        "Pre-dose Morning FEV1 at Week 8 - Change From Baseline"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT03084718"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01620099",
+      "title": "Small Airways Involvement in Smoker Asthmatic Patients: a Pilot Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2014-04",
+      "country": "Italy, Germany",
+      "enrollment": 60,
+      "brief_summary": "Asthma is an inflammatory disease affecting the whole respiratory system, from central to peripheral airways. Anti-inflammatory treatment with inhaled corticosteroids (ICS), with or without long-acting β2-adrenoceptor agonists (LABA), is the cornerstone of asthma management \\[GINA Guideline - available at www.ginasthma.com\\]. Nevertheless, a considerable subset of asthmatic patients neither benefits from ICS nor gain optimal asthma control even with ICS/LABA combinations.\n\nThe involvement of the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients aged 18-50 years old, at stage 2-3 according to GINA international guidelines\n* patients must be free from an exacerbation from at least 2 months\n* patients must be on inhaled treatment (ICS alone or combination ICS/LABA) other than extrafine formulations from at leas",
+      "endpoints": [
+        "slope of phase III (dN2) by nitrogen single breath test"
+      ],
+      "sponsor": "Università degli Studi di Ferrara",
+      "url": "https://clinicaltrials.gov/study/NCT01620099"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02148120",
+      "title": "A Phase II, Multicentre, Double-blind, Randomised, 5-way Crossover Study to Test the Non-inferiority of the Acute Bronchodilator Effect of CHF 1535 200/6 µg NEXThaler Versus CHF 1535 100/6 µg NEXThaler in Partially Controlled and Uncontrolled Adult Asthmatic Patients.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-04",
+      "completion_date": "2014-10",
+      "country": "United Kingdom",
+      "enrollment": 60,
+      "brief_summary": "The aim of the study is to demonstrate the non-inferiority in terms of acute bronchodilator effect between a single dose of CHF 1535 NEXThaler 200/6 µg and a single dose of CHF 1535 NEXThaler 100/6 µg at two dose levels in partially controlled and uncontrolled asthmatic patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient's written informed consent obtained prior to any study-related procedures.\n* Male or female aged between 18 and 65 years inclusive;\n* Evidence for \"partially controlled\" or \"uncontrolled\" asthma;\n* Medium daily dose of previous inhaled corticosteroids (ICS) treatment;\n",
+      "endpoints": [
+        "FEV1 Area under the curve"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02148120"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01520688",
+      "title": "A Randomized, Cross Over Study Evaluating the Effect of Flovent Discus 100 mcg BID vs QVAR 80 mcg BID vs Pulmicort Flexhaler 180 mcg BID on Short Term Growth in Pediatric Subjects With Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-02",
+      "completion_date": "2016-02",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "Children with mild persistent asthma that have asthma symptoms once or twice a week and use a daily controller, while children with mild intermittent asthma rarely have asthma symptoms and do not use a daily controller. Inhaled corticosteroids are the standard treatment for mild peristent asthma. The purpose of this study is to measure children rate of growth while on different inhaled corticosteroids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects will include females (6 to 9 years of age) and males (6 to 11 years of age).\n2. All subjects must have a history of physician diagnosed mild intermittent or mild persistent asthma as documented by PCP medical record or detailed history by study investigator.\n3. All s",
+      "endpoints": [
+        "Short-term Lower Leg Growth During Treatment With Flovent Diskus 100 mcg BID or Pulmicort Flexhaler 180 mcg BID."
+      ],
+      "sponsor": "West Penn Allegheny Health System",
+      "url": "https://clinicaltrials.gov/study/NCT01520688"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02676089",
+      "title": "A 52 WEEK, RANDOMIZED, DOUBLE BLIND, MULTINATIONAL, MULTICENTRE, ACTIVE CONTROLLED, 3-ARM PARALLEL GROUP TRIAL COMPARING CHF 5993 200/6/12.5 µg pMDI (FIXED COMBINATION OF EXTRAFINE BECLOMETASONE DIPROPIONATE PLUS FORMOTEROL FUMARATE PLUS GLYCOPYRRONIUM BROMIDE) TO CHF 1535 200/6 µg pMDI (FIXED COMBINATION OF EXTRAFINE BECLOMETHASONE DIPROPIONATE PLUS FORMOTEROL FUMARATE) ALONE OR ON TOP OF OPEN-LABEL TIOTROPIUM 2.5 µg RESPIMAT® IN PATIENTS WITH ASTHMA UNCONTROLLED ON HIGH DOSES OF INHALED CORTICOSTEROIDS IN COMBINATION WITH LONG-ACTING ß2-AGONISTS",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-04-06",
+      "completion_date": "2018-05-28",
+      "country": "Italy, Ukraine, Slovakia, Germany, Portugal, Belarus, United Kingdom, Hungary, Turkey (Türkiye), Czechia, Lithuania, Russia, Spain, Poland, Argentina, Bulgaria, Romania",
+      "enrollment": 1433,
+      "brief_summary": "The purpose of this study is to evaluate the superiority of CHF 5993 200/6/12.5 µg pMDI (fixed combination of extrafine beclometasone dipropionate plus formoterol fumarate plus glycopyrronium bromide) versus CHF 1535 200/6 µg pMDI (fixed combination of extrafine beclometasone dipropionate plus formoterol fumarate) and to compare the effect of CHF 5993 200/6/12.5 µg pMDI vs CHF 5993 200/6/12.5 µg plus open-label Tiotropium 2.5µg, in terms of lung functions parameters and rate of exacerbations, as",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of asthma ≥ 1 year and diagnosed before 40 years old\n* Uncontrolled asthma with double therapy only on high doses of Inhaled CorticoSteroid (ICS) in combination with Long-Acting Beta2 Agonist (LABA) with ACQ-7 (Asthma Control Questionnaire) ≥1.5\n* Pre-bronchodilator FE",
+      "endpoints": [
+        "Pre-dose FEV1 (Forced Expiratory Volume in the first second)",
+        "Reduction of moderate and severe asthma exacerbations rate"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02676089"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "8334070",
+      "title": "A comparison of beclomethasone dipropionate and budesonide in the treatment of asthma.",
+      "abstract": "Several reports have claimed that beclomethasone dipropionate (BDP) and budesonide (BUD) differ with regard to therapeutic efficacy and associated adverse effects, based either upon clinical data, or upon theoretical considerations. Although long-term comparisons are lacking, the consensus of numerous studies is that these drugs are of equivalent therapeutic efficacy. Assessment of pharmacological data suggests that beclomethasone 17-monopropionate (17-BMP), the active bronchial metabolite of BDP, has a greater glucocorticoid receptor affinity than BUD and thus theoretical claims for greater efficacy of BUD based on comparison with the receptor affinity of unchanged BDP are inaccurate. Similarly, clinical experience has not revealed any significant differences between the adverse effect profiles of BDP and BUD, in terms of adrenal suppression, changes in bone metabolism and growth, or cataract formation. Critical examination reveals that those reports describing differences in efficacy",
+      "journal": "The British journal of clinical practice",
+      "year": "1993",
+      "authors": [
+        "Davies B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Asthma",
+        "Beclomethasone",
+        "Bronchodilator Agents",
+        "Budesonide",
+        "Humans",
+        "Pregnenediones"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8334070/"
+    },
+    {
+      "pmid": "36573485",
+      "title": "[Beclomethasone dipropionate: efficacy and safety of the administration by nebulization.].",
+      "abstract": "The advent of inhaled corticosteroids (ICS) brought a revolution in the management of asthma, representing now the cornerstone in this pathological condition treatment. Indeed, these drugs have clearly shown to possess a high degree of both efficacy and safety. Beclomethasone dipropionate (BDP) is the first molecule tested in the early 1970s. When administered via nebulizers or pressurized metered-dose inhalers (pMDI), BDP was found to be effective in reducing the symptoms frequency and severity in asthmatic patients, even in those previously treated with low-dose oral corticosteroids. The drug was thus produced to be administered by nebulization or via pMDI. Nebulizers are a practical and efficient tool for administering inhaled drugs in patients of all degree of severity and belonging to all ages, but are especially useful for those unable to utilize other inhaler devices correctly. BDP aerosolization, when generated by modern pneumatic nebulizers, can deliver particles with a mass m",
+      "journal": "Recenti progressi in medicina",
+      "year": "2022",
+      "authors": [
+        "Tosca Mariangela",
+        "Rossi Giovanni A"
+      ],
+      "pub_types": [
+        "Review",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Beclomethasone",
+        "Anti-Asthmatic Agents",
+        "Administration, Inhalation",
+        "Asthma",
+        "Adrenal Cortex Hormones"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36573485/"
+    },
+    {
+      "pmid": "10193533",
+      "title": "Effect of inhaled beclomethasone dipropionate and budesonide on growth in children with asthma.",
+      "abstract": "",
+      "journal": "Respiratory medicine",
+      "year": "1998",
+      "authors": [
+        "Allen D B"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Inhalation",
+        "Administration, Topical",
+        "Adolescent",
+        "Anti-Asthmatic Agents",
+        "Anti-Inflammatory Agents",
+        "Asthma",
+        "Beclomethasone",
+        "Body Height",
+        "Budesonide",
+        "Child"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10193533/"
+    },
+    {
+      "pmid": "6381025",
+      "title": "Beclomethasone dipropionate. A reappraisal of its pharmacodynamic properties and therapeutic efficacy after a decade of use in asthma and rhinitis.",
+      "abstract": "Inhaled beclomethasone dipropionate is now well established in the management of asthma. Studies conducted over the last decade, and since the drug was previously reviewed in the Journal, have confirmed that inhaled beclomethasone dipropionate 400 to 800 micrograms daily can reduce the need for oral maintenance corticosteroids in the majority of asthmatic patients requiring such therapy, and that increasing the dosage to 2000 micrograms daily may provide additional clinical benefit in some patients unresponsive to usual therapeutic dosages. Follow-up over a period of several years has confirmed that the initial response to inhaled beclomethasone can be maintained in most patients. Recent studies indicate that beclomethasone dipropionate 400 micrograms daily is equally effective when administered in 2 or 4 divided doses in patients with stable asthma, but it is likely that the lower frequency of administration will be less effective when the asthma is unstable. Recent studies have estab",
+      "journal": "Drugs",
+      "year": "1984",
+      "authors": [
+        "Brogden R N",
+        "Heel R C",
+        "Speight T M",
+        "Avery G S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adrenal Glands",
+        "Aerosols",
+        "Asthma",
+        "Beclomethasone",
+        "Bronchi",
+        "Drug Therapy, Combination",
+        "Glucocorticoids",
+        "Humans",
+        "Immunity",
+        "Kinetics"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6381025/"
+    },
+    {
+      "pmid": "10193530",
+      "title": "Efficacy of inhaled beclomethasone dipropionate and budesonide in the treatment of asthma.",
+      "abstract": "",
+      "journal": "Respiratory medicine",
+      "year": "1998",
+      "authors": [
+        "Webb D R"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Inhalation",
+        "Adult",
+        "Anti-Asthmatic Agents",
+        "Asthma",
+        "Beclomethasone",
+        "Budesonide",
+        "Child",
+        "Drug Administration Schedule",
+        "Drug Delivery Systems",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10193530/"
+    },
+    {
+      "pmid": "29255325",
+      "title": "[Efficacy and safety of beclomethasone dipropionate HFA.].",
+      "abstract": "",
+      "journal": "Recenti progressi in medicina",
+      "year": "2017",
+      "authors": [
+        "Capristo Carlo",
+        "Rossi Giovanni A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Inhalation",
+        "Aerosol Propellants",
+        "Anti-Asthmatic Agents",
+        "Asthma",
+        "Beclomethasone",
+        "Glucocorticoids",
+        "Humans",
+        "Nebulizers and Vaporizers"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29255325/"
+    },
+    {
+      "pmid": "9519232",
+      "title": "Clinical experience with fluticasone propionate in asthma: a meta-analysis of efficacy and systemic activity compared with budesonide and beclomethasone dipropionate at half the microgram dose or less.",
+      "abstract": "The relative clinical efficacy and systemic effects of different inhaled corticosteroids is controversial. To obtain further information on this matter, the authors have performed meta-analysis of seven trials comparing fluticasone propionate (FP) with budesonide (Bud), and seven trials comparing FP with beclomethasone dipropionate (BDP) for the treatment of asthma of all severities in adult and paediatric patients. In all cases, the drugs were compared at clinically equivalent doses, i.e. FP was given at half (or less) the microgram dose. The total number of patients was 1980 (1000 treated with FP 200-800 micrograms day-1 and 980 with Bud 400-1600 micrograms day-1), and 1584 patients in the second analysis (780 treated with FP 200-1000 micrograms day-1 and 804 with BDP 400-2000 micrograms day-1). FP significantly improved mean morning peak expiratory flow rate (PEFR) compared with Bud, with an overall difference of +11 l min-1. Analysis of serum cortisols showed no differences between",
+      "journal": "Respiratory medicine",
+      "year": "1998",
+      "authors": [
+        "Barnes N C",
+        "Hallett C",
+        "Harris T A"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Androstadienes",
+        "Anti-Asthmatic Agents",
+        "Anti-Inflammatory Agents",
+        "Asthma",
+        "Beclomethasone",
+        "Budesonide",
+        "Child",
+        "Drug Administration Schedule",
+        "Fluticasone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9519232/"
+    },
+    {
+      "pmid": "6792963",
+      "title": "Beclomethasone dipropionate.",
+      "abstract": "Experience with beclomethasone dipropionate during the past 5 years has confirmed and extended the original observation that it is an effective, topically active corticosteroid of great value in treating asthma. Most steroid-dependent asthmatic patients can be successfully controlled with the drug, at least most of the time, and the therapeutic effect is dose dependent. Although high doses may be associated with some adrenal suppression such doses do not cause systemic symptoms, and side effects are of little consequence. It is important that patients treated with steroid aerosols continue to receive other effective therapeutic agents, notably adrenergic drugs, particularly by aerosol, and theophylline compounds; that they learn how to inhale the aerosol properly; and, most important, that they promptly start taking oral steroids when they experience an exacerbation of asthma.",
+      "journal": "Annals of internal medicine",
+      "year": "1981",
+      "authors": [
+        "Williams M H"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aerosols",
+        "Asthma",
+        "Beclomethasone",
+        "Candidiasis, Oral",
+        "Humans",
+        "Long-Term Care",
+        "Lung Diseases, Obstructive"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6792963/"
+    },
+    {
+      "pmid": "4606264",
+      "title": "Beclomethasone dipropionate and oropharyngeal candidiasis.",
+      "abstract": "A survey of 936 patients attending a respiratory diseases unit outpatient department was performed to assess the incidence of oropharyngeal candidiasis in patients inhaling beclomethasone dipropionate in daily doses of 400 mug or less. Throat swabs from 209 (41%) patients treated with beclomethasone were positive on culture for yeasts compared with positive swabs from 77 (27.2%) patients not receiving corticosteroid therapy either orally or by inhalation. Clinical oropharyngeal thrush, confirmed by culture, was detected in 28 (5.5%) patients inhaling beclomethasone, one (0.7%) patient receiving treatment with oral prednisolone, and two (0.7%) patients not being treated with corticosteroids.",
+      "journal": "British medical journal",
+      "year": "1974",
+      "authors": [
+        "Milne L J",
+        "Crompton G K"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Administration, Topical",
+        "Aerosols",
+        "Anti-Inflammatory Agents",
+        "Asthma",
+        "Beclomethasone",
+        "Candida",
+        "Candida albicans",
+        "Candidiasis",
+        "Candidiasis, Oral"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4606264/"
+    },
+    {
+      "pmid": "1095170",
+      "title": "Beclomethasone dipropionate in asthma.",
+      "abstract": "Beclomethasone dipropionate aerosol therapy can replace or diminish systemic corticosteroid therapy in the majority of asthmatics. In a clinical trial of 41 patients with perennial asthma, the 10 who had not required long-term corticosteroid therapy improved symptomatically and in pulmonary function. Of the 31 who had required prolonged systemic corticosteroid therapy 12 were able to discontinue oral prednisone therapy, 15 were able to decrease the maintenance dose of prednisone and only 4 were unable to decrease the dose; all maintained satisfactory lung function and some showed improvement. Discontinuation of systemic corticosteroid therapy was accomplished more readily in patients whose daily maintenance dose was less than 15 mg and who had been taking the drug for less than 3 years. Side effects consisted of a \"dry throat\" in seven patients, two of whom had throat infections with Candida albicans. Recurrence of rhinitis after discontinuation or reduction of systemic corticosteroid ",
+      "journal": "Canadian Medical Association journal",
+      "year": "1975",
+      "authors": [
+        "Champion P",
+        "MacLean L",
+        "Chan-Yeung M"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adolescent",
+        "Adult",
+        "Aerosols",
+        "Aged",
+        "Asthma",
+        "Beclomethasone",
+        "Bronchodilator Agents",
+        "Child",
+        "Chronic Disease"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1095170/"
+    },
+    {
+      "pmid": "24925411",
+      "title": "Glucocorticoids.",
+      "abstract": "Glucocorticoids are the most effective anti-inflammatory treatment for allergic diseases, and inhaled glucocorticoids have now become the first-line treatment for asthma. Glucocorticoids were discovered in the 1940s as extracts of the adrenal cortex and this was followed by the isolation of adrenocorticotropic hormone (ACTH) from pituitary gland extracts. Cortisone and ACTH were found to be very beneficial in the treatment of rheumatoid arthritis and Kendall, Reichstein and Hench received the Nobel Prize in Physiology and Medicine for this work in 1950. Bordley and colleagues first showed that ACTH was very beneficial in the treatment of allergic diseases in 1949, but the use of systemic glucocorticoids was limited by side effects. Inhaled glucocorticoids were discovered from topical steroids developed for skin inflammation and beclomethasone dipropionate was introduced in 1972, initially in low doses but later in higher doses, and became the standard treatment for persistent asthma. S",
+      "journal": "Chemical immunology and allergy",
+      "year": "2014",
+      "authors": [
+        "Barnes Peter J"
+      ],
+      "pub_types": [
+        "Historical Article",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Inhalation",
+        "Adrenergic beta-Agonists",
+        "Anti-Inflammatory Agents",
+        "Asthma",
+        "Beclomethasone",
+        "Drug Therapy, Combination",
+        "Glucocorticoids",
+        "History, 20th Century",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24925411/"
+    },
+    {
+      "pmid": "34871605",
+      "title": "Practical and scalable synthesis of beclomethasone dipropionate.",
+      "abstract": "Beclomethasone dipropionate (1) is a synthetic corticosteroid with anti-inflammatory, antipruritic, and anti-allergy properties. It is widely used to treat asthma, allergic rhinitis, and dermatoses. However, existing synthetic routes to this active pharmaceutical ingredient (API) contain steps resulting in low and/or inconsistent yields, and use obsolete reagents. Such inconsistencies coupled with a lack of reliable experimental data makes laboratory-scale and large-scale synthesis of this API difficult and time-consuming. In this paper, we report a practical and scalable approach to synthesize 1 from the readily available steroidal intermediate, 16β-methyl epoxide (3, DB-11). A gram-scale to kilogram-scale synthesis of 1 was achieved with 82% yield, using a cost-effective and scalable methodology. Selective propionylation of the hydroxyl groups at C17 and C21 demonstrate the fact that this approach can be conveniently implemented in fine chemical industries.",
+      "journal": "Steroids",
+      "year": "2022",
+      "authors": [
+        "Welideniya Dhanushi T",
+        "Jayathilaka Adeesha S",
+        "Acharige Anjana Delpe",
+        "Samanthi K A U",
+        "Wanninayake Umayangani K"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Beclomethasone",
+        "Molecular Conformation",
+        "Stereoisomerism"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34871605/"
+    },
+    {
+      "pmid": "11496232",
+      "title": "Omalizumab, anti-IgE recombinant humanized monoclonal antibody, for the treatment of severe allergic asthma.",
+      "abstract": "A recombinant humanized anti-IgE mAb, omalizumab, forms complexes with free IgE, blocking its interaction with mast cells and basophils; as a consequence, it might be effective in the treatment of asthma.",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2001",
+      "authors": [
+        "Busse W",
+        "Corren J",
+        "Lanier B Q",
+        "McAlary M",
+        "Fowler-Taylor A"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Anti-Allergic Agents",
+        "Anti-Asthmatic Agents",
+        "Antibodies, Anti-Idiotypic",
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Humanized",
+        "Asthma",
+        "Child"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11496232/"
+    },
+    {
+      "pmid": "26558604",
+      "title": "Beclomethasone dipropionate hydrofluoroalkane for the treatment of allergic rhinitis.",
+      "abstract": "Allergic rhinitis (AR) is a common respiratory disease, and its prevalence is increasing all over the world, both in adults and in children. Patients experience symptoms that may negatively impact on physical, social and psychological well-being. Hence, if left untreated, allergic rhinitis may significantly affect quality of life. Under current guidelines, intranasal corticosteroids are considered the most effective drugs and they are recommended as first-line therapy. Among the several corticosteroid intranasal sprays available, beclomethasone dipropionate is one of the most prescribed. Recently, new intranasal hydrofluoroalkane-propelled formulations with little or no impact on the ozone layer have been developed for the treatment of AR. The use of these devices might improve patients' adherence to treatment, avoiding some of the most common side effects associated with aqueous formulations. This review provides the most recent evidence for the efficacy and safety of beclomethasone d",
+      "journal": "Expert review of clinical immunology",
+      "year": "2016",
+      "authors": [
+        "Ferrante Giuliana",
+        "Montalbano Laura",
+        "Cilluffo Giovanna",
+        "Malizia Velia",
+        "Marchese Donatella"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aerosol Propellants",
+        "Animals",
+        "Anti-Asthmatic Agents",
+        "Beclomethasone",
+        "Child",
+        "Humans",
+        "Hydrocarbons, Fluorinated",
+        "Medication Adherence",
+        "Nasal Sprays"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26558604/"
+    },
+    {
+      "pmid": "26115578",
+      "title": "Efficacy and safety of beclomethasone dipropionate nasal aerosol in children with perennial allergic rhinitis.",
+      "abstract": "Beclomethasone dipropionate (BDP) nasal aerosol (non-aqueous) is approved for management of seasonal and perennial allergic rhinitis (PAR) in adolescents and adults.",
+      "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+      "year": "2015",
+      "authors": [
+        "Berger William E",
+        "Jacobs Robert L",
+        "Amar Niran J",
+        "Tantry Sudeesh K",
+        "Li Jiang"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Inhalation",
+        "Anti-Allergic Agents",
+        "Beclomethasone",
+        "Child",
+        "Child, Preschool",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Female",
+        "Humans",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26115578/"
+    },
+    {
+      "pmid": "8750396",
+      "title": "Effectiveness and safety of beclomethasone dipropionate, an intranasal corticosteroid, in the treatment of patients with allergic rhinitis.",
+      "abstract": "There is an increasing trend toward topical intranasal corticosteroids as the preferred treatment for seasonal or perennial allergic rhinitis. This trend is based on the fact that the chronic, mucosal inflammation that accompanies allergic rhinitis responds to anti-inflammatory drugs such as topical corticosteroids. Intranasal corticosteroids, given before the natural antigen challenge, reverse preexisting inflammation and prevent nasal priming by antigens. One intranasal corticosteroid, beclomethasone dipropionate, has been available by prescription in the United States for more than a decade and has an established efficacy and safety profile in patients with allergic rhinitis. Beclomethasone dipropionate has become the standard to which other intranasal corticosteroid preparations are compared. In comparison with earlier corticosteroids (eg, hydrocortisone, prednisolone, dexamethasone, betamethasone) that caused adrenal suppression and other systemic adverse reactions, the actions of",
+      "journal": "Clinical therapeutics",
+      "year": "1995",
+      "authors": [
+        "Edwards T B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Asthmatic Agents",
+        "Beclomethasone",
+        "Humans",
+        "Rhinitis, Allergic, Perennial",
+        "Rhinitis, Allergic, Seasonal"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8750396/"
+    },
+    {
+      "pmid": "811455",
+      "title": "Beclomethasone dipropionate: II: Allergic rhinitis and other conditions.",
+      "abstract": "At doses similar to those used in the treatment of chronic bronchial asthma, intranasal beclomethasone dipropionate is effective in alleviating nasal symptoms of seasonal allergic and perennial rhinitis in about three-quarters of patients. Eye symptoms are not relieved. The carry-over effect of the evening dose is useful in preventing early morning attacks of sneezing. Intranasal beclomethasone dipropionate is useful in controlling symptoms persisting after polypectomy and may possibly delay or eliminate the need for the surgical removal of nasal polyps, which may shrink after several weeks or months of treatment.",
+      "journal": "Drugs",
+      "year": "1975",
+      "authors": [
+        "Brogden R N",
+        "Pinder R M",
+        "Sawyer P R",
+        "Speight T M",
+        "Avery G S"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Intranasal",
+        "Adrenal Glands",
+        "Adult",
+        "Beclomethasone",
+        "Child",
+        "Chronic Disease",
+        "Clinical Trials as Topic",
+        "Cromolyn Sodium",
+        "Drug Evaluation",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/811455/"
+    },
+    {
+      "pmid": "8394165",
+      "title": "Nedocromil sodium.",
+      "abstract": "To summarize the available pharmacokinetic and pharmacologic data on nedocromil sodium and to present representative clinical trials of this new agent in both mild-to-moderate and severe chronic asthma and allergic rhinitis. Adverse effects are reviewed.",
+      "journal": "The Annals of pharmacotherapy",
+      "year": "1993",
+      "authors": [
+        "Parish R C",
+        "Miller L J"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Asthma",
+        "Asthma, Exercise-Induced",
+        "Child",
+        "Child, Preschool",
+        "Clinical Trials as Topic",
+        "Double-Blind Method",
+        "Humans",
+        "Nedocromil"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8394165/"
+    },
+    {
+      "pmid": "27979016",
+      "title": "Safety of intranasal corticosteroids.",
+      "abstract": "Concurrent use of intranasal corticosteroids (INCSs) and inhaled corticosteroids (ICSs) is indicated for patients who are comorbid for asthma and allergic rhinitis. Clinicians need to know the data regarding INCS safety for their patients with asthma.",
+      "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+      "year": "2016",
+      "authors": [
+        "Bensch Greg W"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Intranasal",
+        "Adrenal Cortex Hormones",
+        "Adult",
+        "Anti-Allergic Agents",
+        "Asthma",
+        "Atrophy",
+        "Child",
+        "Child Development",
+        "Child, Preschool",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27979016/"
+    },
+    {
+      "pmid": "4335298",
+      "title": "Beclomethasone dipropionate: a new steroid aerosol for the treatment of allergic asthma.",
+      "abstract": "Beclomethasone dipropionate was used in pressurized aerosols for the treatment of 60 cases of chronic allergic asthma for up to 15 months. Twenty-eight out of 37 cases were transferred to this treatment after being dependent on oral steroids for up to 16 years. Nineteen out of 23 other asthmatics not dependent on steroids were also completely controlled. No biochemical evidence of adrenal suppression was found. Steroid withdrawal symptoms were often a problem, suggesting absence of systemic absorption. The precise mode of action and metabolic fate of this corticosteroid are not yet known.",
+      "journal": "British medical journal",
+      "year": "1972",
+      "authors": [
+        "Brown H M",
+        "Storey G",
+        "George W H"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adrenal Glands",
+        "Adrenocorticotropic Hormone",
+        "Adult",
+        "Aerosols",
+        "Aged",
+        "Asthma",
+        "Betamethasone",
+        "Child",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4335298/"
+    }
+  ]
+}

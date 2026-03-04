@@ -5,7 +5,7 @@ drugbank_id: "DB00734"
 drug_name: "Risperidone"
 kg_predictions: 150
 dl_predictions: 61
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 150
 brands: []
 permalink: /drugs/risperidone/
@@ -21,7 +21,7 @@ permalink: /drugs/risperidone/
 | **DrugBank ID** | [DB00734](https://go.drugbank.com/drugs/DB00734) |
 | **KG Predictions** | 150 |
 | **DL Predictions (≥0.7)** | 61 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

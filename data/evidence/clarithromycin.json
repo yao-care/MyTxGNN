@@ -1,0 +1,1043 @@
+{
+  "drug": "Clarithromycin",
+  "drugbank_id": "DB01211",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:19:25Z",
+  "indications": [
+    {
+      "indication": "maxillary sinusitis",
+      "evidence_level": "L2",
+      "trials": 1,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 6,
+        "review_articles": 2,
+        "other_articles": 2,
+        "total_trials": 1,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "streptococcal pneumonia",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 4,
+        "other_articles": 5,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "pneumonia caused by chlamydia",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 6,
+        "other_articles": 4,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "infectious otitis media",
+      "evidence_level": "L1",
+      "trials": 3,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 1,
+        "review_articles": 3,
+        "other_articles": 6,
+        "total_trials": 3,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "bacterial pneumonia",
+      "evidence_level": "L1",
+      "trials": 14,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 8,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 5,
+        "rct_articles": 4,
+        "review_articles": 3,
+        "other_articles": 3,
+        "total_trials": 14,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 18,
+  "total_articles": 50,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01667692",
+      "title": "Comparison of Azithromycin or Clarithromycin in 3drugs Protocol of H-pylori Eradication Regimen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2012-03",
+      "country": "Iran",
+      "enrollment": 78,
+      "brief_summary": "The Aim of this study is comparison between two regimens containing clarithromycinand azithromycin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with peptic ulcer due to H-pylori confirmed endoscopy and biopsy\n\nExclusion Criteria:\n\n* patients who got H-pylori eradication treatment previously\n* patients who used study drugs during 3months before study",
+      "endpoints": [
+        "H-pylori cinfirmation"
+      ],
+      "sponsor": "Shahid Sadoughi University of Medical Sciences and Health Services",
+      "url": "https://clinicaltrials.gov/study/NCT01667692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07396428",
+      "title": "Effectiveness and Implementation of a National Guideline for Acute Respiratory Tract Infections to Reduce Antibiotic Prescribing in Swiss Primary Care: the ImpProGUIDE Hybrid Type II Effectiveness-implementation Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-05-19",
+      "completion_date": "2026-11",
+      "country": "Switzerland",
+      "enrollment": 200,
+      "brief_summary": "The ImpProGUIDE study aims to find out whether implementing new Swiss national guidelines for acute respiratory infections (ARI) can help to reduce antibiotic prescribing in primary care. In Switzerland, most antibiotics are prescribed in outpatient care, and many of these prescriptions may not be needed - especially when infections are caused by viruses, which antibiotics do not treat. Reducing overuse of antibiotics is important to slow the spread of antibiotic resistance.\n\nThe new guidelines ",
+      "eligibility_criteria": "Inclusion criteria for quality circles (QCs)\n\n* Willing to participate in a study mainly conducted in French\n* Agreeing to participate in evaluation surveys\n\nExclusion criteria for QCs\\*\n\n\\- Not having any physician included in the study\n\nInclusion criteria for walk-in clinics\n\n* The clinic offers g",
+      "endpoints": [
+        "Defined daily doses of antibiotics commonly used for acute respiratory infections per 1000 consultations",
+        "Penetration of acute respiratory infection guidelines"
+      ],
+      "sponsor": "Center for Primary Care and Public Health (Unisante), University of Lausanne, Switzerland",
+      "url": "https://clinicaltrials.gov/study/NCT07396428"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04016051",
+      "title": "Comparison of Treatment Satisfaction and Treatment Adherence of a Novel Application Form \"Dose Sipping Technology\" (DST) of Oral Clarithromycin vs. Clarithromycin Syrup in Children Suffering From Acute Otitis Media, Tonsillitis, Pharyngitis, or Acute Bacterial Bronchitis (DoSe iT)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09-22",
+      "completion_date": "2004-12-23",
+      "country": "Poland, Germany",
+      "enrollment": 265,
+      "brief_summary": "This study was performed in children with upper respiratory tract infections (acute ear infection, infection of the tonsils or throat, or bacterial inflammation of the bronchi) who needed treatment with an antibiotic (clarithromycin). The study investigated a new technology which delivers the antibiotic in a straw (dose sipping technology, DST) in comparison to a marketed syrup.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female children weighing 12-40 kg.\n* Age 2 -12 years.\n* Written informed consent (parents).\n* Diagnosis of acute otitis media, tonsillitis, pharyngitis, or acute bacterial bronchitis requiring antibiotic treatment.\n\nExclusion Criteria:\n\n* Participation in another stud",
+      "endpoints": [
+        "Preparation of the medication (during treatment)",
+        "Preparation of the medication (after treatment)",
+        "Dosing accuracy (during treatment)"
+      ],
+      "sponsor": "Grünenthal GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT04016051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03824847",
+      "title": "Immunomodulatory Effect of Macrolides in Naturally Occurring Influenza Virus Infections in the Community",
+      "phase": "PHASE4",
+      "status": "SUSPENDED",
+      "start_date": "2023-06-01",
+      "completion_date": "2024-09-01",
+      "country": "Hong Kong",
+      "enrollment": 100,
+      "brief_summary": "The investigators propose a double-blind randomised placebo-controlled study in naturally occurring influenza virus infections in the community setting to compare the impact of a short course of clarithromycin versus placebo, on the clinical course, viral shedding, immunomodulation, and the antimicrobial resistance pattern of respiratory bacterial carriage of the patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults aged between 18-60\n* Presenting with symptoms of acute URTI (at least two among the following symptoms: body temperature ≥37.8°C, cough, rhinorrhea, sore throat, headache, myalgia/arthralgia) to university health clinics within 48 hours of illness onset.\n\nExclusion Crit",
+      "endpoints": [
+        "Time from recruitment to cessation of clinical illness",
+        "Time from recruitment to cessation of viral shedding"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT03824847"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00621504",
+      "title": "A Phase 3, Multicenter, Randomized, Double-blind, Comparative Study to Evaluate the Safety and Efficacy of Ceftaroline Versus Ceftriaxone, With Adjunctive Clarithromycin, in the Treatment of Adult Subjects With Community-Acquired Pneumonia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-06",
+      "country": "Thailand, Switzerland, Spain, Argentina, Bulgaria, Austria, Romania, Ukraine, Serbia, France, Hungary, India, Poland, Brazil, Georgia, Slovakia, Germany, South Africa, Estonia, Russia, Lithuania, Malaysia, United States",
+      "enrollment": 606,
+      "brief_summary": "The purpose of this study is to determine whether ceftaroline is effective and safe in the treatment of Community-Acquired Pneumonia",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects are required to meet the following inclusion criteria:\n\n* Community-acquired pneumonia\n* initial hospitalization, or treatment in an emergency room or urgent care setting\n* infection would require initial treatment with IV antimicrobials.\n\nExclusion Criteria:\n\nSubjects ",
+      "endpoints": [
+        "Clinical Cure Rate at Test-of-Cure (TOC) in the Modified Intent-to-Treat Efficacy (MITTE) Populations",
+        "Clinical Cure Rate for Ceftaroline Compared to That for Ceftriaxone at Test-of-Cure (TOC) in the Clinically Evaluable (CE) Population"
+      ],
+      "sponsor": "Forest Laboratories",
+      "url": "https://clinicaltrials.gov/study/NCT00621504"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00034736",
+      "title": "A Multicenter, Randomized, Open-Label, Comparative Study to Compare the Efficacy and Safety of Levofloxacin and Standard of Care Therapy in the Treatment of Children With Community-Acquired Pneumonia in the Hospitalized or Outpatient Setting",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-08",
+      "completion_date": "2004-06",
+      "country": "N/A",
+      "enrollment": 691,
+      "brief_summary": "The purpose of this study is to determine the safety and efficacy of levofloxacin in the treatment of children with community acquired pneumonia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signs and symptoms of pneumonia including at least 2 of the following: fever, cough, chest pain, shortness of breath, physical examination showing lung tissue has become airless and of solid consistency, white blood cell count \\>15,000/uL or \\<5000/uL (normal range is approxim",
+      "endpoints": [
+        "Clinical cure rate (cured or not cured) at 10-17 days after the last dose of study medication."
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00034736"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07396428",
+      "title": "Effectiveness and Implementation of a National Guideline for Acute Respiratory Tract Infections to Reduce Antibiotic Prescribing in Swiss Primary Care: the ImpProGUIDE Hybrid Type II Effectiveness-implementation Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-05-19",
+      "completion_date": "2026-11",
+      "country": "Switzerland",
+      "enrollment": 200,
+      "brief_summary": "The ImpProGUIDE study aims to find out whether implementing new Swiss national guidelines for acute respiratory infections (ARI) can help to reduce antibiotic prescribing in primary care. In Switzerland, most antibiotics are prescribed in outpatient care, and many of these prescriptions may not be needed - especially when infections are caused by viruses, which antibiotics do not treat. Reducing overuse of antibiotics is important to slow the spread of antibiotic resistance.\n\nThe new guidelines ",
+      "eligibility_criteria": "Inclusion criteria for quality circles (QCs)\n\n* Willing to participate in a study mainly conducted in French\n* Agreeing to participate in evaluation surveys\n\nExclusion criteria for QCs\\*\n\n\\- Not having any physician included in the study\n\nInclusion criteria for walk-in clinics\n\n* The clinic offers g",
+      "endpoints": [
+        "Defined daily doses of antibiotics commonly used for acute respiratory infections per 1000 consultations",
+        "Penetration of acute respiratory infection guidelines"
+      ],
+      "sponsor": "Center for Primary Care and Public Health (Unisante), University of Lausanne, Switzerland",
+      "url": "https://clinicaltrials.gov/study/NCT07396428"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01667692",
+      "title": "Comparison of Azithromycin or Clarithromycin in 3drugs Protocol of H-pylori Eradication Regimen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2012-03",
+      "country": "Iran",
+      "enrollment": 78,
+      "brief_summary": "The Aim of this study is comparison between two regimens containing clarithromycinand azithromycin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with peptic ulcer due to H-pylori confirmed endoscopy and biopsy\n\nExclusion Criteria:\n\n* patients who got H-pylori eradication treatment previously\n* patients who used study drugs during 3months before study",
+      "endpoints": [
+        "H-pylori cinfirmation"
+      ],
+      "sponsor": "Shahid Sadoughi University of Medical Sciences and Health Services",
+      "url": "https://clinicaltrials.gov/study/NCT01667692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02735707",
+      "title": "Randomized, Embedded, Multifactorial Adaptive Platform Trial for Community- Acquired Pneumonia",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2016-04-11",
+      "completion_date": "2028-02",
+      "country": "Italy, Switzerland, Australia, United Kingdom, Spain, Japan, Croatia, Netherlands, Belgium, Pakistan, Czechia, Colombia, Romania, Portugal, Nepal, Serbia, France, Israel, Ireland, Hungary, New Zealand, Finland, India, Canada, Slovenia, Saudi Arabia, Germany, Estonia, United States",
+      "enrollment": 20000,
+      "brief_summary": "REMAP-CAP is a randomised, embedded, multifactorial, adaptive platform trial for community-acquired pneumonia.\n\nThe purpose of this study is to evaluate the effect of a range of interventions to improve outcome of patients admitted to intensive care with community-acquired pneumonia.\n\nIn addition, REMAP-CAP provides and adaptive research platform for evaluation of multiple treatment modalities in the event of a respiratory pandemic such as COVID-19.\n\nREMAP-COVID is a sub-platform of REMAP-CAP th",
+      "eligibility_criteria": "REMAP-CAP PLATFORM INCLUSION CRITERIA:\n\n1. Adult patient admitted to an ICU for severe CAP within 48 hours of hospital admission with:\n\n   1. symptoms or signs or both that are consistent with lower respiratory tract infection AND\n   2. Radiological evidence of new onset consolidation (in patients w",
+      "endpoints": [
+        "All-cause mortality",
+        "Days alive and not receiving organ support in ICU"
+      ],
+      "sponsor": "UMC Utrecht",
+      "url": "https://clinicaltrials.gov/study/NCT02735707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00816140",
+      "title": "Comparative Study of the Levofloxacin-Based and Clarithromycin-Based Triple Therapy in First-Line Treatment for Helicobacter Pylori Eradication and Change of Gut Flora and Drug Susceptibility Before and After Treatment",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2009-07",
+      "country": "Taiwan",
+      "enrollment": 432,
+      "brief_summary": "Clarithromycin-based triple therapy containing a proton-pump inhibitor (PPI) twice daily, amoxicillin 1g twice daily, and clarithromycin 500 mg twice daily for 7 days is one of the standard firs-line therapy for Helicobacter pylori eradication. However, because of unsatisfactory eradication rate (80-85%), the Maastricht III guideline recommended extending the treatment duration to increase the eradication rate. Recently, levofloxacin (500 mg qd)-based triple therapy has been shown to achieve an ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Asymptomatic subjects or symptomatic patients with H. pylori infection who are aged greater than 20 years and are willing to received eradication therapy for H. pylori\n\nExclusion Criteria:\n\n* Children and teenagers aged less than 20 years\n* Previous eradication therapy for H. ",
+      "endpoints": [
+        "Primary end-point of the study is to compare the eradication rate of levofloxacin-based therapy (LALa regimen for 7 days) to that achieved with the standard first line regimen (CALa regimen for 7 days)."
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00816140"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00914888",
+      "title": "Multicenter, Randomized, And Double-Blind Study To Evaluate The Safety Of Tigecycline Versus A Ceftriaxone Regimen In The Treatment Of Complicated Intra-Abdominal Infections And Community-Acquired Pneumonia In Subjects Of 8-17 Years",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2011-01",
+      "completion_date": "2014-05",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The main purpose of this study is to compare the safety of tigecycline versus a ceftriaxone regimen in pediatric subjects (aged 8 to 17 years) with complicated intra-abdominal infections (cIAI) and community acquired pneumonia (CAP).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects 8 to 17 years old. Children with bone maturation less than 8 years old should be enrolled with caution due to potential risk of tooth discoloration.\n* Have a diagnosis of a serious infection (complicated intra-abdominal infections \\[cIAI\\] or community ",
+      "endpoints": [
+        "Clinical efficacy response (cure, failure, or indeterminate) at the test of cure (TOC) visit for 2 co-primary populations: the clinically evaluable (CE) and clinical modified Intent-to-Treat (c-mITT) populations"
+      ],
+      "sponsor": "Wyeth is now a wholly owned subsidiary of Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00914888"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01602874",
+      "title": "Multicenter, Randomized, And Double-Blind Study To Evaluate The Safety Of Tigecycline Versus A Ceftriaxone Regimen In The Treatment Of Complicated Intra-Abdominal Infections And Community-Acquired Pneumonia In Subjects Of 8-17 Years",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2011-01",
+      "completion_date": "2014-05",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The main purpose of this study is to compare the safety of tigecycline versus a ceftriaxone regimen in pediatric subjects (aged 8 to 17 years) with complicated intra-abdominal infections (cIAI) and community acquired pneumonia (CAP).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects 8 to 17 years old. Children with bone maturation less than 8 years old should be enrolled with caution due to potential risk of tooth discoloration.\n* Have a diagnosis of a serious infection (complicated intra-abdominal infections \\[cIAI\\] or community ",
+      "endpoints": [
+        "Clinical efficacy response (cure, failure, or indeterminate) at the test of cure (TOC) visit for 2 co-primary populations: the clinically evaluable (CE) and clinical modified Intent-to-Treat (c-mITT) populations"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01602874"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03345992",
+      "title": "A Double-Blind, Randomized, Placebo-Controlled Clinical Study of the Efficacy of Intravenous Clarithromycin as Adjunctive Treatment in Patients With Sepsis and Respiratory and Multiple Organ Dysfunction Syndrome",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-12-15",
+      "completion_date": "2020-12-19",
+      "country": "Belgium, Greece",
+      "enrollment": 110,
+      "brief_summary": "High mortality associated with sepsis and Multiple Organ Dysfunction Syndrome (MODS) calls for alternative, individualized therapies in selected patients that might benefit form specific interventions. Role of macrolides as potential immunomodulatory treatment in sepsis is promising, but unclear. Subgroup analysis of previous large-scale clinical trials on patients with ventilator-associated pneumonia or gram-negative sepsis, showed that addition of clarithromycin to standard antibiotic therapy ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients (≥18 years)\n* Patients of both genders\n* Informed consent form signed by patient or by first-degree relative in case of patient unable to consent\n* Negative (blood or urinary) pregnancy test for female patients of reproductive age\n* Willingness to receive contra",
+      "endpoints": [
+        "Mortality rate at 28 days"
+      ],
+      "sponsor": "Hellenic Institute for the Study of Sepsis",
+      "url": "https://clinicaltrials.gov/study/NCT03345992"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00021567",
+      "title": "A Randomized, Double-Blinded, Placebo-Controlled, Phase II Study of the Safety and Efficacy of Inhaled Interferon Gamma-1b With Antimycobacterial in Previously Treated or Moderate to Severe Pulmonary Mycobacterium Avium Complex (MAC) Infection",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-07",
+      "completion_date": "2002-06",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This study will test the safety and effectiveness of inhaled interferon gamma-1b and oral antibiotics for treating mycobacterium avium complex (MAC) infection of the lungs.\n\nPatients 18 years of age or older with MAC infection of the lungs who 1) have been previously treated for MAC, or 2) have moderate or severe lung disease due to MAC that has not been previously treated may be eligible for this study.\n\nParticipants will be randomly assigned to one of two treatment groups. Group 1 will receive",
+      "eligibility_criteria": "Patients may be enrolled in the study whether or not they are on antimycobacterial treatment for MAC at the time of screening, provided they have bacteriological evidence of active pulmonary MAC infection at screening and provided they meet the following criteria:\n\nMen or women enrolled in the study",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00021567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01223690",
+      "title": "A Double-blind Randomized Placebo-controlled Clinical Trial of the Safety and Efficacy of Intravenous Clarithromycin as Immunomodulatory Therapy for the Management of Sepsis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2011-04",
+      "country": "Greece",
+      "enrollment": 600,
+      "brief_summary": "The herein protocol is based on the results of one former clinical trial conducted by our study group showing the considerable efficacy of intravenously administered clarithromycin as an adjuvant to antimicrobial chemotherapy for patients with sepsis, septic shock and respiratory failure in the field of ventilator-associated pneumonia. The proposed clinical trial is based on the need to generalize the application of intravenous clarithromycin in the total of admitted septic patients irrespective",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* One or more of the following infections: a) primary or secondary bacteremia by Gram-negative bacteria, b) acute pyelonephritis, or c) intrabdominal infection. Only one episode of infection per patient will be enrolled. Both patients with community-acquired and nosocomial infec",
+      "endpoints": [
+        "Effect of clarithromycin in mortality and risk for death by severe sepsis/shock and multiple organ dysfunction compared with placebo"
+      ],
+      "sponsor": "University of Athens",
+      "url": "https://clinicaltrials.gov/study/NCT01223690"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06804096",
+      "title": "Efficacy and Safety of Faropenem in Bangladeshi Adult Patients With Community-Acquired Bacterial Pneumonia (CABP): A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-02-20",
+      "completion_date": "2025-12-01",
+      "country": "Bangladesh",
+      "enrollment": 160,
+      "brief_summary": "The goal of this clinical trial is to evaluate the efficacy and safety of faropenem in comparison to co-amoxiclav and clarithromycin in Bangladeshi adults diagnosed with community-acquired bacterial pneumonia (CABP). Eligible participants will be randomly assigned to one of two treatment arms. The first arm will receive faropenem at a dosage of 200 mg administered three times daily for a duration of seven days. The second arm will receive co-amoxiclav 625 mg, also three times daily, along with c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients aged between 18 to 65 years.\n* Have an acute illness (less than or equal to 7 days duration) with any of the following signs and symptoms consistent with a lower respiratory tract infection (new or worsening):\n\n  1. Fever (body temperature \\> 38.0 °C (1",
+      "endpoints": [
+        "Clinical Cure Rate between two groups.",
+        "Percentage of patients withdrawn from the study due to adverse events between two groups."
+      ],
+      "sponsor": "Beximco Pharmaceuticals Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06804096"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03824847",
+      "title": "Immunomodulatory Effect of Macrolides in Naturally Occurring Influenza Virus Infections in the Community",
+      "phase": "PHASE4",
+      "status": "SUSPENDED",
+      "start_date": "2023-06-01",
+      "completion_date": "2024-09-01",
+      "country": "Hong Kong",
+      "enrollment": 100,
+      "brief_summary": "The investigators propose a double-blind randomised placebo-controlled study in naturally occurring influenza virus infections in the community setting to compare the impact of a short course of clarithromycin versus placebo, on the clinical course, viral shedding, immunomodulation, and the antimicrobial resistance pattern of respiratory bacterial carriage of the patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults aged between 18-60\n* Presenting with symptoms of acute URTI (at least two among the following symptoms: body temperature ≥37.8°C, cough, rhinorrhea, sore throat, headache, myalgia/arthralgia) to university health clinics within 48 hours of illness onset.\n\nExclusion Crit",
+      "endpoints": [
+        "Time from recruitment to cessation of clinical illness",
+        "Time from recruitment to cessation of viral shedding"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT03824847"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05417997",
+      "title": "Evaluation of Effects, Safety, Viral Load and Antibody Level of Functional Food Dietary Supplement Containing Grape Products in Controlled, Randomized Study Using SARSCoV-2 RT-PCR Positive Covid-19 Patients.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-05-29",
+      "completion_date": "2021-12-02",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 71,
+      "brief_summary": "The primary objective of this study is to determine the safety and efficacy profile of the food supplement (KUNAMIN®) containing grape juice, seed, stem, and bark given to patients treated with the established treatment regimen against novel coronavirus infectious disease (COVID-19) via comparing Kunamin® group versus control group in a clinical trial.\n\nIn this study, both the therapeutic effect and the safety of the Kunamin® product has been evaluated. The study has been conducted on COVID-19 i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Uncomplicated, mild or moderate pneumonia according to the T.R. Ministry of Health COVID-19 guidelines,\n* Adult patients diagnosed with COVID-19\n* Being between the age of 18 and 65\n* Adult patients diagnosed with COVID-19 by PCR and who have COVID-19 symptoms in CT scan\n* Pat",
+      "endpoints": [
+        "Decrease in COVID-19, cold and flu viral load to become non detected or negative by Polymerase Chain Reaction.",
+        "Produce COVID-19 antibodies",
+        "Decrease in bacteria microbe load to become non detected or reduced."
+      ],
+      "sponsor": "RAAS Nutritionals, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT05417997"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "16771618",
+      "title": "Macrolide immunomodulatory effects and symptom resolution in acute exacerbation of chronic bronchitis and acute maxillary sinusitis: a focus on clarithromycin.",
+      "abstract": "Bacterial respiratory tract infections are common in the primary care setting and patients often seek the assistance of a healthcare professional in order to achieve resolution of their symptoms. Antibiotic agents that offer rapid symptom relief, in addition to excellent bacteriological and clinical cure, are highly desired. Macrolides have proven to be highly effective in treating acute bacterial exacerbations of chronic bronchitis and acute maxillary sinusitis. In addition, immunomodulatory effects that may contribute to symptom resolution have been reported. This article reviews current literature on symptom resolution in acute bacterial exacerbations of chronic bronchitis and acute maxillary sinusitis, with a focus on clarithromycin, and explores the potential mechanisms that may contribute to this action.",
+      "journal": "Expert review of anti-infective therapy",
+      "year": "2006",
+      "authors": [
+        "Bishai William R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Anti-Bacterial Agents",
+        "Bronchitis, Chronic",
+        "Clarithromycin",
+        "Humans",
+        "Immunologic Factors",
+        "Maxillary Sinusitis",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16771618/"
+    },
+    {
+      "pmid": "14726904",
+      "title": "Antimicrobial treatment guidelines for acute bacterial rhinosinusitis.",
+      "abstract": "Treatment guidelines developed by the Sinus and Allergy Health Partnership for acute bacterial rhinosinusitis (ABRS) were originally published in 2000. These guidelines were designed to: (1) educate clinicians and patients (or patients’ families) about the differences between viral and bacterial rhinosinusitis; (2) reduce the use of antibiotics for nonbacterial nasal/sinus disease; (3) provide recommendations for the diagnosis and optimal treatment of ABRS; (4) promote the use of appropriate antibiotic therapy when bacterial infection is likely; and (5) describe the current understanding of pharmacokinetic and pharmacodynamics and how they relate to the effectiveness of antimicrobial therapy. The original guidelines are updated here to include the most recent information on management principles, antimicrobial susceptibility patterns, and therapeutic options.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "year": "2004",
+      "authors": [
+        "Anon Jack B",
+        "Jacobs Michael R",
+        "Poole Michael D",
+        "Ambrose Paul G",
+        "Benninger Mark S"
+      ],
+      "pub_types": [
+        "Guideline",
+        "Journal Article",
+        "Practice Guideline",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Anti-Bacterial Agents",
+        "Bacterial Infections",
+        "Drug Resistance, Bacterial",
+        "Drug Therapy, Combination",
+        "Fluoroquinolones",
+        "Haemophilus influenzae",
+        "Humans",
+        "Lactams",
+        "Macrolides"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14726904/"
+    },
+    {
+      "pmid": "8111512",
+      "title": "Multicenter comparison of clarithromycin and amoxicillin in the treatment of acute maxillary sinusitis.",
+      "abstract": "To compare the safety and efficacy of orally administered clarithromycin, a new macrolide antimicrobial, and amoxicillin in the treatment of patients with acute maxillary sinusitis.",
+      "journal": "Archives of family medicine",
+      "year": "1993",
+      "authors": [
+        "Calhoun K H",
+        "Hokanson J A"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Amoxicillin",
+        "Clarithromycin",
+        "Female",
+        "Humans",
+        "Male",
+        "Maxillary Sinusitis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8111512/"
+    },
+    {
+      "pmid": "1827106",
+      "title": "The comparative efficacy and safety of clarithromycin and amoxycillin in the treatment of outpatients with acute maxillary sinusitis.",
+      "abstract": "The efficacy and safety of clarithromycin and amoxycillin in the treatment of acute maxillary sinusitis were compared in a single-blind, multicentre outpatient study. Fifty patients were randomly assigned to receive either clarithromycin 500 mg 12-hourly or amoxycillin 500 mg 8-hourly orally. Clinical signs and symptoms, sinus culture and blood and urine laboratory profiles were assessed prior to treatment, at four to six days during treatment, and within 48 h of the end of therapy (usually 9-11 days). Patients from whom beta-lactamase producing strains were isolated were excluded from the study. Both antibiotics achieved a clinical success rate of 91% within 48 h post-treatment; radiological resolution or improvement was observed in 91% of patients treated with clarithromycin and 89% of patients who received amoxycillin. Bacteriological cure was achieved in 88% and 91% of evaluable patients for clarithromycin and amoxycillin, respectively. Adverse events were reported for 16% of patie",
+      "journal": "The Journal of antimicrobial chemotherapy",
+      "year": "1991",
+      "authors": [
+        "Karma P",
+        "Pukander J",
+        "Penttilä M",
+        "Ylikoski J",
+        "Savolainen S"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Ambulatory Care",
+        "Amoxicillin",
+        "Clarithromycin",
+        "Erythromycin",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1827106/"
+    },
+    {
+      "pmid": "2140546",
+      "title": "Comparative efficacy and tolerability of clarithromycin and amoxycillin in the treatment of out-patients with acute maxillary sinusitis.",
+      "abstract": "The efficacy and tolerability of clarithromycin and amoxycillin in the treatment of acute maxillary sinusitis were compared in an open, Phase III multi-centre study. Sixty-one out-patients (40 males, 21 females) received clarithromycin (two 250 mg tablets twice daily) and 59 (34 males, 25 females) out-patients received amoxycillin (two 500 mg capsules twice daily). Fifty-seven and 47 patients in the clarithromycin group were evaluable for clinical efficacy and bacteriological effectiveness, respectively. In the amoxycillin group, 57 and 40 patients were evaluated for clinical efficacy and bacteriological effectiveness, respectively. Body temperature, bacteriological culture results, blood and urine chemistries, and clinical signs and symptoms were evaluated prior to drug administration, between Days 4 to 6 and between Days 9 to 11 of treatment, and within 48 hours and, if required, 6 weeks after the end of treatment. Clinical signs and symptoms improved significantly (p less than 0.001",
+      "journal": "Current medical research and opinion",
+      "year": "1990",
+      "authors": [
+        "Marchi E"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Amoxicillin",
+        "Anti-Bacterial Agents",
+        "Clarithromycin",
+        "Erythromycin",
+        "Female",
+        "Humans",
+        "Male",
+        "Maxillary Sinusitis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2140546/"
+    },
+    {
+      "pmid": "10211537",
+      "title": "Comparison of sparfloxacin and clarithromycin in the treatment of acute bacterial maxillary sinusitis. Sparfloxacin Multicenter AMS Study Group.",
+      "abstract": "Five hundred four patients were enrolled in a randomized, double-masked, multicenter study comparing the efficacy and tolerability of a 10-day regimen of sparfloxacin with a 14-day regimen of clarithromycin in the treatment of acute maxillary sinusitis. Two hundred fifty-two patients received sparfloxacin as a single 400-mg dose on day 1 and 200 mg once daily for 9 additional days, and 252 patients received clarithromycin 500 mg twice daily for 14 days. In the all-treated population, clinical success was observed at 6 to 10 days after therapy in approximately 82% of the patients in each treatment group. A total of 430 patients met the inclusion criteria for clinical assessment. The success rates in these patients were also comparable, at 83.1% and 83.4% for the sparfloxacin and clarithromycin groups, respectively. Sustained clinical success rates in the all-treated population 3 to 4 weeks after therapy were 71.6% for the sparfloxacin group and 68.6% for the clarithromycin group. All tr",
+      "journal": "Clinical therapeutics",
+      "year": "1999",
+      "authors": [
+        "Henry D C",
+        "Moller D J",
+        "Adelglass J",
+        "Scheld W M",
+        "Jablonski C K"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Anti-Infective Agents",
+        "Bacterial Infections",
+        "Clarithromycin",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Female",
+        "Fluoroquinolones"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10211537/"
+    },
+    {
+      "pmid": "11398913",
+      "title": "Telithromycin.",
+      "abstract": "Telithromycin is the first member of a new family of the macrolide-lincosamide-streptogramin-B (MLS(B)) class of antimicrobials, the ketolides. It has a good spectrum of activity against respiratory pathogens, including penicillin- and erythromycin-resistant pneumococci, as well as intracellular and atypical bacteria. Furthermore, it has a low potential to select for resistance or induce cross-resistance among other MLS(B) antimicrobials. At the recommended dosage of 800 mg orally once daily, telithromycin reaches maximal plasma concentrations of about 2 mg/L. It penetrates rapidly into bronchopulmonary, tonsillar, sinus and middle ear tissues and/or fluids and achieves high concentrations at sites of infection. It also concentrates within polymorphonuclear neutrophils. In clinical trials in patients with community-acquired pneumonia (CAP), acute exacerbations of chronic bronchitis (AECB) or pharyngitis/tonsillitis caused by group A beta-haemolytic streptococci, telithromycin 800 mg on",
+      "journal": "Drugs",
+      "year": "2001",
+      "authors": [
+        "Balfour J A",
+        "Figgitt D P"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Bronchitis",
+        "Clinical Trials as Topic",
+        "Drug Interactions",
+        "Humans",
+        "Ketolides",
+        "Macrolides",
+        "Maxillary Sinusitis",
+        "Pharyngitis",
+        "Pneumonia, Bacterial"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11398913/"
+    },
+    {
+      "pmid": "9923060",
+      "title": "Cefuroxime axetil versus clarithromycin in the treatment of acute maxillary sinusitis.",
+      "abstract": "Acute maxillary sinusitis is a common condition requiring broad-spectrum therapy to prevent development of chronic disease. A randomised, double-blind, multicentre study was performed to compare the efficacy and safety of cefuroxime axetil 250 mg twice daily (n = 185) and clarithromycin 250 mg twice daily (n = 185), both administered for 10 days, in the treatment of patients with acute sinusitis. Efficacy was determined by assessment of clinical response at post-treatment and follow-up, and by radiological assessment at pre-treatment and follow-up. Assessment of days absent from work due to illness was also made. In the cefuroxime axetil group, 169/185 (91%) patients were cured/improved at post-treatment, as were 172/185 (93%) patients receiving clarithromycin and, of these, 137/169 (81%) and 143/172 (83%) maintained their response at follow-up. Follow-up radiography showed a reduction in incidence of air fluid level and/or opacification from 96% to 15% (cefuroxime axetil) and from 96%",
+      "journal": "Rhinology",
+      "year": "1998",
+      "authors": [
+        "Stefansson P",
+        "Jacovides A",
+        "Jablonicky P",
+        "Sedani S",
+        "Staley H"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Clinical Trial, Phase IV",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Absenteeism",
+        "Acute Disease",
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Cefuroxime",
+        "Cephalosporins",
+        "Chi-Square Distribution",
+        "Clarithromycin",
+        "Confidence Intervals",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9923060/"
+    },
+    {
+      "pmid": "11192134",
+      "title": "Phase III, randomized, double-blind study of clarithromycin extended-release and immediate-release formulations in the treatment of adult patients with acute maxillary sinusitis.",
+      "abstract": "Clarithromycin has an established bacteriologic efficacy and safety profile in the treatment of respiratory tract infections.",
+      "journal": "Clinical therapeutics",
+      "year": "2000",
+      "authors": [
+        "Murray J J",
+        "Solomon E",
+        "McCluskey D",
+        "Zhang J",
+        "Palmer R"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Clarithromycin",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Female",
+        "Humans",
+        "Male",
+        "Maxillary Sinusitis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11192134/"
+    },
+    {
+      "pmid": "8313865",
+      "title": "Efficacy of clarithromycin vs. amoxicillin/clavulanate in the treatment of acute maxillary sinusitis.",
+      "abstract": "A new macrolide drug, clarithromycin (Biaxin) was compared with amoxicillin/clavulanate (Augmentin) in a single-blind (investigator-blind), randomized, multicenter study of 497 outpatients with acute maxillary sinusitis; treatment was 500 mg clarithromycin bid (n = 246) or 500 mg amoxicillin/clavulanate tid (n = 251). Pathogens included Streptococcus pneumoniae in 22% of patients, Staphylococcus aureus in 16%, Haemophilus influenzae in 10%, and Moraxella catarrhalis in 7%. For evaluable patients, clinical success (cure or improvement) was noted for 97% (128/132) of clarithromycin recipients and 93% (119/128) amoxicillin/clavulanate recipients. Clinically significant improvement in signs and symptoms was comparable between groups. Bacteriologic cure rates were 87% (115/132) and 90% (115/128), respectively. Respective pathogen eradication rates were 87% (125/143) and 90% (125/139). Adverse events not due to concurrent conditions occurred in 41% of the former and 46% of the latter group; ",
+      "journal": "Ear, nose, & throat journal",
+      "year": "1993",
+      "authors": [
+        "Dubois J",
+        "Saint-Pierre C",
+        "Tremblay C"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adult",
+        "Amoxicillin",
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Analysis of Variance",
+        "Bacterial Infections",
+        "Clarithromycin",
+        "Clavulanic Acids",
+        "Drug Therapy, Combination",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8313865/"
+    },
+    {
+      "pmid": "29932038",
+      "title": "Community-Acquired Pneumonia in Children.",
+      "abstract": "Community-acquired pneumonia is an important cause of morbidity in developed countries and an important cause of morbidity and mortality in developing countries. Prompt diagnosis and appropriate treatment are very important.",
+      "journal": "Recent patents on inflammation & allergy drug discovery",
+      "year": "2018",
+      "authors": [
+        "Leung Alexander K C",
+        "Wong Alex H C",
+        "Hon Kam L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Child",
+        "Community-Acquired Infections",
+        "Diagnosis, Differential",
+        "Humans",
+        "Patents as Topic",
+        "Pneumococcal Infections",
+        "Pneumonia",
+        "Respiratory Syncytial Virus Infections",
+        "Respiratory Syncytial Viruses"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29932038/"
+    },
+    {
+      "pmid": "10193688",
+      "title": "Moxifloxacin.",
+      "abstract": "Moxilloxacin is a new fluoroquinolone antibacterial agent with a broad spectrum of activity, encompassing gram-negative and gram-positive bacteria. It has improved activity against gram-positive species (including staphylococci, streptococci, enterococci) and anaerobes compared with ciprofloxacin. This is offset by slightly lower activity against pseudomonal species and Enterobacteriaceae. In common with other fluoroquinolones, moxifloxacin attains good penetration into respiratory tissues and fluids and its bioavailability is substantially reduced by coadministration with an antacid or iron preparation. However, moxifloxacin does not interact with theophylline or warfarin. In clinical trials in patients with community-acquired pneumococcal pneumonia (CAP), acute exacerbations of chronic bronchitis (AECB) or acute sinusitis, moxifloxacin 400 mg once daily achieved bacteriological and/or clinical success rates of approximately 90% or higher. Moxifloxacin was as effective as amoxicillin ",
+      "journal": "Drugs",
+      "year": "1999",
+      "authors": [
+        "Balfour J A",
+        "Wiseman L R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Infective Agents",
+        "Area Under Curve",
+        "Aza Compounds",
+        "Bacterial Infections",
+        "Ciprofloxacin",
+        "Drug Interactions",
+        "Fluoroquinolones",
+        "Half-Life",
+        "Humans",
+        "Metabolic Clearance Rate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10193688/"
+    },
+    {
+      "pmid": "9655546",
+      "title": "Clarithromycin and azithromycin.",
+      "abstract": "",
+      "journal": "The Pediatric infectious disease journal",
+      "year": "1998",
+      "authors": [
+        "Klein J O"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Azithromycin",
+        "Clarithromycin",
+        "Humans",
+        "Otitis Media",
+        "Pneumonia, Bacterial",
+        "Soft Tissue Infections",
+        "Streptococcal Infections",
+        "Streptococcus pyogenes",
+        "Whooping Cough"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9655546/"
+    },
+    {
+      "pmid": "16024590",
+      "title": "Efficacy of pulsatile amoxicillin and clarithromycin dosing alone and in combination in a murine pneumococcal pneumonia model.",
+      "abstract": "Amoxicillin and clarithromycin have been proven to be effective in the treatment of community-acquired pneumonia. This study investigated the in vivo bactericidal efficacy of a novel, pulsatile dosing strategy for amoxicillin and clarithromycin, when used as monotherapy and combination therapy.",
+      "journal": "The Journal of antimicrobial chemotherapy",
+      "year": "2005",
+      "authors": [
+        "Sun Heather K",
+        "Lee Su Young",
+        "Banevicius Mary Anne",
+        "Du Xiaoli",
+        "Maglio Dana"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Amoxicillin",
+        "Animals",
+        "Bacterial Proteins",
+        "Clarithromycin",
+        "Disease Models, Animal",
+        "Dose-Response Relationship, Drug",
+        "Drug Combinations",
+        "Drug Resistance, Multiple, Bacterial",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16024590/"
+    },
+    {
+      "pmid": "29621339",
+      "title": "Clarithromycin expands CD11b+Gr-1+ cells via the STAT3/Bv8 axis to ameliorate lethal endotoxic shock and post-influenza bacterial pneumonia.",
+      "abstract": "Macrolides are used to treat various inflammatory diseases owing to their immunomodulatory properties; however, little is known about their precise mechanism of action. In this study, we investigated the functional significance of the expansion of myeloid-derived suppressor cell (MDSC)-like CD11b+Gr-1+ cells in response to the macrolide antibiotic clarithromycin (CAM) in mouse models of shock and post-influenza pneumococcal pneumonia as well as in humans. Intraperitoneal administration of CAM markedly expanded splenic and lung CD11b+Gr-1+ cell populations in naïve mice. Notably, CAM pretreatment enhanced survival in a mouse model of lipopolysaccharide (LPS)-induced shock. In addition, adoptive transfer of CAM-treated CD11b+Gr-1+ cells protected mice against LPS-induced lethality via increased IL-10 expression. CAM also improved survival in post-influenza, CAM-resistant pneumococcal pneumonia, with improved lung pathology as well as decreased interferon (IFN)-γ and increased IL-10 level",
+      "journal": "PLoS pathogens",
+      "year": "2018",
+      "authors": [
+        "Namkoong Ho",
+        "Ishii Makoto",
+        "Fujii Hideki",
+        "Yagi Kazuma",
+        "Asami Takahiro"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Bacterial Agents",
+        "CD11b Antigen",
+        "Cell Differentiation",
+        "Cell Proliferation",
+        "Clarithromycin",
+        "Gastrointestinal Hormones",
+        "Lipopolysaccharides",
+        "Male",
+        "Mice"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29621339/"
+    },
+    {
+      "pmid": "19046911",
+      "title": "Pharmacodynamic target attainment potential of azithromycin, clarithromycin, and telithromycin in serum and epithelial lining fluid of community-acquired pneumonia patients with penicillin-susceptible, intermediate, and resistant Streptococcus pneumoniae.",
+      "abstract": "To compare the probability of target attainment (PTA) for macrolides and ketolides against penicillin-susceptible, intermediate, and resistant Streptococcus pneumoniae in both serum and epithelial lining fluid (ELF) of patients with community-acquired pneumonia (CAP).",
+      "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+      "year": "2009",
+      "authors": [
+        "Noreddin Ayman M",
+        "El-Khatib Walid F",
+        "Aolie Jason",
+        "Salem Ahmed H",
+        "Zhanel George G"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Area Under Curve",
+        "Azithromycin",
+        "Clarithromycin",
+        "Community-Acquired Infections",
+        "Drug Resistance, Bacterial",
+        "Humans",
+        "Ketolides",
+        "Microbial Sensitivity Tests",
+        "Monte Carlo Method"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19046911/"
+    },
+    {
+      "pmid": "1387132",
+      "title": "Individual efficacy of clarithromycin (A-56268) and its major human metabolite 14-hydroxy clarithromycin (A-62671) in experimental pneumococcal pneumonia in the mouse.",
+      "abstract": "In man, clarithromycin (A-56268) is metabolized to a 14-hydroxy derivative (14-OH clarithromycin, A-62671); this metabolite is absent in mice. An experimental mouse model was used to compare the efficacy of clarithromycin versus 14-OH clarithromycin in pneumococcal pneumonia by treatment with either the parent drug or its 14-OH metabolite alone. Four groups of 15 mice were infected intra-tracheally with a virulent strain of Streptococcus pneumoniae serotype 3 (approximately 10(5) cfu/mouse). Treatment was begun 18 h post infection, with clarithromycin or erythromycin 50 mg/kg subcutaneously (sc) bd, 14-OH clarithromycin 25 mg/kg sc bd or antibiotic free saline sc bd for 24 or 48 h. Survival rates ten days after one day of treatment with clarithromycin, 14-OH clarithromycin, erythromycin, or saline were 53%, 60%, 27% and 0% respectively. After two days treatment the rates were 100%, 100%, 53% (P less than 0.01) and 0% respectively. Thirty-six h after two doses, 14-OH clarithromycin demo",
+      "journal": "The Journal of antimicrobial chemotherapy",
+      "year": "1992",
+      "authors": [
+        "Bédos J P",
+        "Azoulay-Dupuis E",
+        "Vallée E",
+        "Veber B",
+        "Pocidalo J J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Clarithromycin",
+        "Erythromycin",
+        "Female",
+        "Lung",
+        "Mice",
+        "Microbial Sensitivity Tests",
+        "Pneumonia, Pneumococcal"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1387132/"
+    },
+    {
+      "pmid": "17939262",
+      "title": "An open-label, randomized comparison of levofloxacin and amoxicillin/clavulanate plus clarithromycin for the treatment of hospitalized patients with community-acquired pneumonia.",
+      "abstract": "Anti-pneumococcal fluoroquinolone has been used to treat community-acquired pneumonia (CAP) frequently because of its broad antimicrobial spectrum.",
+      "journal": "Chang Gung medical journal",
+      "year": "2007",
+      "authors": [
+        "Lin Ting-Yu",
+        "Lin Shu-Min",
+        "Chen Hao-Cheng",
+        "Wang Chih-Jan",
+        "Wang Yu-Min"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Anti-Bacterial Agents",
+        "Community-Acquired Infections",
+        "Female",
+        "Hospitalization",
+        "Humans",
+        "Levofloxacin",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17939262/"
+    },
+    {
+      "pmid": "9109154",
+      "title": "History of macrolide use in pediatrics.",
+      "abstract": "Erythromycin, the prototypical macrolide, has been widely used since the 1950s in the management of pediatric infections. Erythromycin is the drug of choice for infants and children with Legionnaire's disease, pertussis, diphtheria, lower respiratory tract infections caused by Mycoplasma pneumoniae, Chlamydia pneumoniae and Chlamydia trachomatis and enteritis caused by Campylobacter jejuni. It is also indicated for treatment of syphilis; for streptococcal, staphylococcal and pneumococcal infections; genital infections caused by Ureaplasma urealyticum; and for the prevention of rheumatic fever and endocarditis in patients who are allergic to beta-lactam antibiotics. The new macrolides azithromycin and clarithromycin are also active against Borrelia burgdorferi, Helicobacter pylori, Mycobacterium avium-intracellulare complex, Cryptosporidium spp. and Toxoplasma gondii. Erythromycin is associated with a low risk of serious side effects, although gastric distress occurs in a significant pr",
+      "journal": "The Pediatric infectious disease journal",
+      "year": "1997",
+      "authors": [
+        "Klein J O"
+      ],
+      "pub_types": [
+        "Historical Article",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Anti-Bacterial Agents",
+        "Azithromycin",
+        "Bacterial Infections",
+        "Child",
+        "Child, Preschool",
+        "Clarithromycin",
+        "Drug Interactions",
+        "Erythromycin",
+        "Haemophilus Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9109154/"
+    },
+    {
+      "pmid": "8407696",
+      "title": "Aetiology and treatment of community-acquired pneumonia in adults: an historical perspective.",
+      "abstract": "Community-acquired pneumonia is common. Most disease is mild but mortality among hospitalized patients is 5-20%. The most common aetiological pathogens are Streptococcus pneumoniae, Haemophilus influenzae, and the 'atypical' organisms, Mycoplasma pneumoniae, Legionella pneumophila and Chlamydia pneumoniae. Less common pathogens account for 10-30% of cases and the aetiology cannot be determined in one-third to one-half of cases. Classification by aetiology and initiation of specific antimicrobial therapy are difficult and treatment is often initiated empirically. Ampicillin (or amoxycillin) or erythromycin are inexpensive and effective for most patients, but their use in combination, the addition of a beta-lactamase inhibitor (e.g. amoxycillin/clavulanate) or the substitution of an expanded spectrum cephalosporin (e.g. cefuroxime) should be considered for patients with more serious illnesses or pathogens likely to be drug-resistant. Fluoroquinolones such as ciprofloxacin or ofloxacin wo",
+      "journal": "The Journal of antimicrobial chemotherapy",
+      "year": "1993",
+      "authors": [
+        "Fass R J"
+      ],
+      "pub_types": [
+        "Historical Article",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Infective Agents",
+        "Bronchopneumonia",
+        "Community-Acquired Infections",
+        "Drug Resistance, Microbial",
+        "History, 20th Century",
+        "Humans",
+        "Oropharynx",
+        "Pneumonia",
+        "Pneumonia, Pneumococcal"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8407696/"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ drugbank_id: "DB00537"
 drug_name: "Ciprofloxacin"
 kg_predictions: 280
 dl_predictions: 215
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 280
 brands: []
 permalink: /drugs/ciprofloxacin/
@@ -21,7 +21,7 @@ permalink: /drugs/ciprofloxacin/
 | **DrugBank ID** | [DB00537](https://go.drugbank.com/drugs/DB00537) |
 | **KG Predictions** | 280 |
 | **DL Predictions (≥0.7)** | 215 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

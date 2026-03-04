@@ -5,7 +5,7 @@ drugbank_id: "DB00396"
 drug_name: "Progesterone"
 kg_predictions: 63
 dl_predictions: 115
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 63
 brands: []
 permalink: /drugs/progesterone/
@@ -21,7 +21,7 @@ permalink: /drugs/progesterone/
 | **DrugBank ID** | [DB00396](https://go.drugbank.com/drugs/DB00396) |
 | **KG Predictions** | 63 |
 | **DL Predictions (≥0.7)** | 115 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

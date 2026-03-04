@@ -5,7 +5,7 @@ drugbank_id: "DB00073"
 drug_name: "Rituximab"
 kg_predictions: 90
 dl_predictions: 73
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 90
 brands: []
 permalink: /drugs/rituximab/
@@ -21,7 +21,7 @@ permalink: /drugs/rituximab/
 | **DrugBank ID** | [DB00073](https://go.drugbank.com/drugs/DB00073) |
 | **KG Predictions** | 90 |
 | **DL Predictions (≥0.7)** | 73 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

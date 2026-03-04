@@ -5,7 +5,7 @@ drugbank_id: "DB00525"
 drug_name: "Tolnaftate"
 kg_predictions: 112
 dl_predictions: 51
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 112
 brands: []
 permalink: /drugs/tolnaftate/
@@ -21,7 +21,7 @@ permalink: /drugs/tolnaftate/
 | **DrugBank ID** | [DB00525](https://go.drugbank.com/drugs/DB00525) |
 | **KG Predictions** | 112 |
 | **DL Predictions (≥0.7)** | 51 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

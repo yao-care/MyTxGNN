@@ -5,7 +5,7 @@ drugbank_id: "DB00480"
 drug_name: "Lenalidomide"
 kg_predictions: 100
 dl_predictions: 113
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 100
 brands: []
 permalink: /drugs/lenalidomide/
@@ -21,7 +21,7 @@ permalink: /drugs/lenalidomide/
 | **DrugBank ID** | [DB00480](https://go.drugbank.com/drugs/DB00480) |
 | **KG Predictions** | 100 |
 | **DL Predictions (≥0.7)** | 113 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

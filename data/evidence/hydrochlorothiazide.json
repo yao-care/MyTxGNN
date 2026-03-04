@@ -1,0 +1,1034 @@
+{
+  "drug": "Hydrochlorothiazide",
+  "drugbank_id": "DB00999",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:26:54Z",
+  "indications": [
+    {
+      "indication": "hypertensive disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 12,
+        "rct_articles": 2,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "hypertension",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 12,
+        "rct_articles": 3,
+        "review_articles": 4,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "congestive heart failure",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 12,
+        "rct_articles": 2,
+        "review_articles": 7,
+        "other_articles": 0,
+        "total_trials": 20,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "hypertensive disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 12,
+        "rct_articles": 2,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "hypertension",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 12,
+        "rct_articles": 3,
+        "review_articles": 4,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 100,
+  "total_articles": 49,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03295734",
+      "title": "ACES - ACE Inhibitors Combined With Exercise for Seniors With Hypertension",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-05-29",
+      "completion_date": "2024-09-19",
+      "country": "United States",
+      "enrollment": 223,
+      "brief_summary": "The purpose of this project is to conduct a randomized, controlled trial (RCT) to determine if choice of antihypertensive medication influences changes in functional status and other cardiovascular risk factors among older persons with hypertension when combined with physical exercise.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 60 years and older\n* Hypertension - untreated (SBP ≥ 140 mm Hg or DBP ≥ 90 mm Hg) or treated\n* \\> 290 seconds needed to complete long-distance corridor walk test\n* Sedentary lifestyle, defined as \\<150 min/wk of moderate physical activity\n* Willingness to participate in al",
+      "endpoints": [
+        "Change in Gait Speed From Baseline"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT03295734"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01101009",
+      "title": "Efficacy of Sevikar® Compared to the Combination of Perindopril/ Amlodipine on Central Arterial Blood Pressure in Patients With Moderate to Severe Hypertension-",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2012-12",
+      "country": "Spain",
+      "enrollment": 486,
+      "brief_summary": "Comparison of the combination of amlodipine with an angiotensin receptor blocker or an angiotensin converting inhibitor, on central arterial blood pressure in patients with hypertension and additional risk factors. This is a randomised, double-blind, double-dummy, multicenter study. The duration of active treatment 24 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* moderate to severe hypertension\n* 3 additional risk factors such as age \\> 55 (male), \\> 65 female, smoker, type 2 diabetes, obesity, cardiovascular disease, congestive heart failure, chronic kidney disease,\n* ability to give informed consent\n\nExclusion Criteria:\n\n* secondary ",
+      "endpoints": [
+        "Change in central systolic blood pressure from baseline (Week 0, Visit 0) to Final Examination (Week 24, Visit 5) using last observation carried forward approach."
+      ],
+      "sponsor": "Daiichi Sankyo",
+      "url": "https://clinicaltrials.gov/study/NCT01101009"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03553810",
+      "title": "Role of ARNi in Ventricular Remodeling in Hypertensive LVH",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-04-12",
+      "completion_date": "2024-06-28",
+      "country": "Singapore",
+      "enrollment": 80,
+      "brief_summary": "In Singapore, hypertension is very common in the adult population. Hypertensive heart disease is a leading cause of heart failure and cardiovascular death. Current management relies primarily on achieving blood pressure targets. However, the optimal blood pressure goals are controversial and there are inherent difficulties in measuring blood pressure using external devices applied to peripheral arteries. As a result of (usually longstanding) hypertension, the heart thickens (i.e. hypertrophies) ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Increased left ventricular mass on cardiovascular magnetic resonance (based on established local age- and sex-specific CMR ranges)\n* Essential hypertension\n\nExclusion Criteria:\n\n* Known secondary causes of hypertension\n* Previous intolerance to angiotensin receptor blockers\n* ",
+      "endpoints": [
+        "Fibrosis volume"
+      ],
+      "sponsor": "National Heart Centre Singapore",
+      "url": "https://clinicaltrials.gov/study/NCT03553810"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01964079",
+      "title": "The COMPAriSon of Systolic Blood Pressure Variability and Central Blood Pressure of Calcium Channel Blocker (Amlodipine) in Comparison With Angiotensin Receptor Blocker (Losartan) in Patients With Essential Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-04",
+      "completion_date": "2017-05",
+      "country": "South Korea",
+      "enrollment": 144,
+      "brief_summary": "Blood pressure (BP) is believed to be a major determinant of vascular disease, and BP lowering is the most important goal in hypertension treatment. Thus, clinical guidelines for hypertension are mainly focused on lowering mean BP. However, despite an increasing incidence of stroke with age, the association between systolic BP (SBP) and the risk of stroke decreases with age. This disparity highlights a gap in the link between BP and vascular-related diseases (i.e., stroke). In clinical practice,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 20 years or older and below 80 years.\n* Patients who have not previously taken any antihypertensive drugs or have discontinued previous antihypertensive drugs for 2 weeks.\n* Mean SBP ≥140 mmHg or mean diastolic BP ≥ 90 mmHg (blood pressure will be checked at leas",
+      "endpoints": [
+        "SD of visit-to-visit systolic blood pressure variability"
+      ],
+      "sponsor": "Wonju Severance Christian Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01964079"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01061450",
+      "title": "Effect of the Addition of Simvastatin to Enalapril in Hypertensive Individuals With Average Cholesterol Levels and Diastolic Dysfunction",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2009-08",
+      "country": "Brazil",
+      "enrollment": 55,
+      "brief_summary": "Diastolic dysfunction (DD) is an increasingly frequent condition in hypertensive individuals whose treatment remains unclear. Its presence is related to higher morbidity and mortality independent of blood pressure levels. The aim of this study is to investigate the additive effect of simvastatin on enalapril on DD in hypertensive patients with average cholesterol levels.\n\nFor this aim, hypertensive patients with DD and LDL-cholesterol \\<160 mg/dL will undergo a run-in phase to achieve a systolic",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* men or postmenopausal women aged between 40 and 65 years old\n* normal fasting blood glucose (\\<100 mg/dL) and glucose tolerance test (\\<140 mg/dL)\n* waist circumference \\< 102 cm (men) or \\< 88cm (women)\n* triglycerides \\<150 mg/dL, LDL cholesterol ≤ 160 mg/dl\n* creatinine \\<1",
+      "endpoints": [
+        "Changes in E/A ratio and e' wave velocity"
+      ],
+      "sponsor": "Brasilia Heart Study Group",
+      "url": "https://clinicaltrials.gov/study/NCT01061450"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00338936",
+      "title": "A 52-week Extension to the Factorial Study to Evaluate the Efficacy and Safety of VAH631 (Valsartan and Hydrochlorothiazide Combined) and Alone in Essential Hypertensive Patients - Long Term Study of VAH631 in Patients With Essential Hypertension (Extension From B1303 Study) -",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2007-09",
+      "country": "N/A",
+      "enrollment": 362,
+      "brief_summary": "This study is designed to provide long-term safety and efficacy data for the combination doses of VAH (VAL/ HCTZ) 40/6.25mg and 80/12.5mg in essential hypertensive patients. The 350 patients (approximately) who have successfully finished the core trial CVAH631B1303 and signed consent for the extension will be enrolled into this study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who successfully complete the core study (Protocol 1303)\n* Outpatients\n\nExclusion Criteria:\n\n* Presence of crucial protocol violation in Protocol 1303\n* Patients who experienced any adverse events considered serious and drug related in Protocol 1303.",
+      "endpoints": [
+        "Assessment of safety through reporting of adverse events, serious adverse events and deaths over 52 weeks."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00338936"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01560806",
+      "title": "Quasi-experimental Intervention Study on Hypertension Management Combined With Comprehensive Healthy Lifestyle Promotion at Commune Level",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2009-12",
+      "country": "Vietnam",
+      "enrollment": 2400,
+      "brief_summary": "A quasi-experimental study design was chosen to compare the model of hypertension management at commune-level with conventional management for people with high blood pressure in two communes (one for intervention versus one for reference).\n\nA intervention model included the commune-based programme on hypertension management combined with comprehensive health promotion campaigns",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult people above 25\n\nExclusion Criteria:\n\n* People deny to join the study",
+      "endpoints": [
+        "Proportion of people with high blood pressure receiving treatment and being controlled in intervention commune"
+      ],
+      "sponsor": "Vietnam National Heart Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01560806"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02521246",
+      "title": "Efficacy and Safety Evaluation of the New Association on Fixed Dose of Candesartan Cilexetil + Chlorthalidone (16mg + 12.5mg and 16mg + 25mg) Compared With HYZAAR® in Hypertension Control",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2016-11",
+      "completion_date": "2017-08",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to evaluate the non-inferiority clinical efficacy of two different drug associations in the essential hypertension control.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed Consent of the patient;\n* Participants with decompensated essential hypertension, classified into stage 1 (with high or very high cardiovascular risk), stage 2 or stage 3 according to the Brazilian Society of Cardiology (2010), who are being treated with monotherapy.\n\nE",
+      "endpoints": [
+        "Efficacy of essential hypertension control based on proportion of participants who achieve the therapeutic goal"
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT02521246"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00095394",
+      "title": "The Efficacy and Safety of Irbesartan/HCTZ Combination Therapy as First Line Treatment for Severe Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2005-05",
+      "country": "Netherlands, Germany, France, Israel, Belgium, Russia, United States, Canada",
+      "enrollment": 645,
+      "brief_summary": "The purpose of this clinical research is to learn if severe hypertension can be better controlled by initially treating with a combination of drugs (Irbesartan/HCTZ), in patients who are unlikely to achieve blood pressure (B/P) control with only one drug. In addition, the study will also evaluate the safety and tolerability of the drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women ages 18 and older;\n* Willing to provide written informed consent;\n* Must have uncontrolled hypertension defined as: currently untreated with a diastolic blood pressure greater than 110 mmHg OR currently receiving antihypertensive monotherapy with a diastolic bloo",
+      "endpoints": [
+        "Proportion of subjects whose seated diastolic blood pressure is controlled (SeDBP < 90 mmHg) at Week 5"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00095394"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01138423",
+      "title": "A Randomized, Placebo-controlled, Double Blind, 4-period, Cross-over Trial, to Study the Effects of Aliskiren, Hydrochlorothiazide and Moxonidine on Endothelial Dysfunction in Obesity Related Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2012-02",
+      "country": "Netherlands",
+      "enrollment": 32,
+      "brief_summary": "High blood pressure (hypertension) is an important cause of myocardial infarction and stroke. High blood pressure often occurs in people who are overweight. These people frequently also have abnormal fat and sugar metabolism. The combination of these problems is called the 'metabolic syndrome'.\n\nPeople with hypertension and obesity currently receive the same drug therapy as people with hypertension, but without obesity. Different classes of drugs are thought to be equally effective in lowering b",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Patient is a male or post menopausal female, 30-70 years of age on the day of signing informed consent. Post menopausal status is assumed if a woman has not experienced a menstrual bleed for a minimum of 12 months, assuming that she still has a uterus, and is not pregnant or l",
+      "endpoints": [
+        "Endothelial function assessed by Flow Mediated Dilation (FMD)"
+      ],
+      "sponsor": "UMC Utrecht",
+      "url": "https://clinicaltrials.gov/study/NCT01138423"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00354991",
+      "title": "An Open Label Study to Assess the Efficacy of Losartan/HCTZ Combination Therapy in Patients With Essential Hypertension Who Were Inadequately Controlled on Current Antihypertensive Monotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-06-01",
+      "completion_date": "2007-04-01",
+      "country": "N/A",
+      "enrollment": 437,
+      "brief_summary": "The objective of the study is to estimate the percentage of patients who reach blood pressure goal after 8 weeks of treatment with losartan/HCTZ combination.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is male or female and = 18 years of age\n* Patients with essential hypertension previously treated with antihypertensive medications for at least 4 weeks but did not reach the blood pressure goal\n\nExclusion Criteria:\n\n* History of any condition, therapy, lab abnormality",
+      "endpoints": [
+        "Percentage of patients reaching a blood pressure goal (diastolic <90mm Hg for non-diabetics; <80mm Hg for diabetics) after 8 weeks of treatment"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00354991"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03006796",
+      "title": "Observational Prospective stUdy of aZilsartan Medoxomil/ Chlorthalidone Compared With Irbesartan/hydrochlorothiaZide Combination Therapy in Patients With arteriaL Hypertension and obEsity in Routine Clinical Practice (PUZZLE).",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-01-16",
+      "completion_date": "2020-03-31",
+      "country": "Russia",
+      "enrollment": 94,
+      "brief_summary": "This is an observational prospective study of azilsartan medoxomil / chlorthalidone compared with irbesartan / hydrochlorothiazide in routine therapy of patients with arterial hypertension and obesity.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. male and female 35-55 year old,\n2. diagnosis of I-II grade essential AH,\n3. patients with obesity (BMI ≥ 30 kg/m²),\n4. patients with untreated AH (office SBP ≥ 140 mmHg, DBP ≥ 90 mmHg, no previous antihypertensive therapy),\n5. patients with poorly controlled AH (office SBP ≥ ",
+      "endpoints": [
+        "Clinic systolic blood pressure lowering."
+      ],
+      "sponsor": "Russian Heart Failure Society",
+      "url": "https://clinicaltrials.gov/study/NCT03006796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01819220",
+      "title": "Randomized, Open Labeled Clinical Trial to Compare the Effectiveness of Amlodipine/Valsartan vs Hydrochlorothiazide/Telmisartan on Glucose Tolerance in Patients With Hypertension With Metabolic Syndrome",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2014-11",
+      "country": "South Korea",
+      "enrollment": 16,
+      "brief_summary": "Recent studies have demonstrated that RAS inhibitors/calcium channel blockers are superior to RAS inhibitors/diuretics for reducing cardiovascular outcomes in hypertension. As such, RAS inhibitors/calcium channel blockers are recommended as first line combination treatment for hypertension. However, the mechanism for the superior efficacy of RAS inhibitors/calcium channel blockers are not well defined. This study will compare the efficacy of RAS inhibitors/calcium channel blockers vs RAS inhibit",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* consent to the study\n* Male or Female ≥ 20 years\n* Patients taking less than 1 antihypertensive medications or not taking antihypertensive medications. Hypertension defined at the screening visit as follows): 140mmHg \\< MSSBP or MSDBP \\> 90mmHg at screening\n* Hypertensive pati",
+      "endpoints": [
+        "To assess the glucose change"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT01819220"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00811226",
+      "title": "Prospective, Multicentric, Open Clinic Essay to Evaluate the Use of OLMETEC® (Olmesartan Medoxomile) and OLMETEC PLUS® (Olmesartan Medoxomile Hydrochlorothiazide) in Stade I and II, According to JNC VII",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2008-01",
+      "country": "N/A",
+      "enrollment": 450,
+      "brief_summary": "The purpose of this study is to determine the efficiency of Olmesartan medoxomile (OLMETEC®) alone or in combination with hydrochlorothiazide (OLMETEC PLUS®) in the reduction of arterial blood pressure in patients with light to moderate hypertension, and to evaluate the percentage of patients that reach treatment goals using this antihypertensive regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or women 18 years of age or older\n* Essential arterial hypertension Stade I and II according to JNC VII\n* Signature of Informed Consent\n\nExclusion Criteria:\n\n* Secondary arterial hypertension\n* Pregnant woman or during lactancy\n* Recent cardiovascular disease, as heart att",
+      "endpoints": [
+        "Evaluation of the efficiency of Olmesartan medoxomile (OLMETEC®) alone, or in combination with hydrochlorothiazide (OLMETEC PLUS®) in decreasing diastolic pressure"
+      ],
+      "sponsor": "Schering-Plough",
+      "url": "https://clinicaltrials.gov/study/NCT00811226"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02177435",
+      "title": "An Eight Week Randomized, Double-Blind Study Comparing a Fixed Dose Combination of Telmisartan 80 mg Plus Hydrochlorothiazide 12.5 mg to Telmisartan 80 mg in Patients Who Fail to Respond Adequately to Treatment With Telmisartan 80 mg.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1999-02",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 491,
+      "brief_summary": "Study to demonstrate that a fixed dose combination of telmisartan 80 mg plus hydrochlorothiazide (HCTZ) 12.5 mg (FDC 80/12.5) is superior to telmisartan 80 mg (Telm 80) alone in patients who failed to respond adequately to Telm 80 monotherapy in lowering seated trough diastolic blood pressure (DBP) after eight weeks of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of mild-to-moderate hypertension\n* Patients who fail to respond adequately to telmisartan monotherapy\n* Participants between 18 and 80 years of age\n* Ability to provide written informed consent\n\nExclusion Criteria:\n\n* Patients taking more than three anti-hypertensive m",
+      "endpoints": [
+        "Change from baseline in seated diastolic blood pressure (DBP) at trough"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02177435"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00890591",
+      "title": "National, Multicenter, Open-Label and Prospective Study Assessment of Efficacy and Safety in Stage 1 and 2 Essential Hypertension With Olmesartan Medoxomil Based Treatment Algorithm From Monotherapy to Association With Hydrochlorothiazide and Amlodipine Besylate",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2007-08",
+      "country": "N/A",
+      "enrollment": 144,
+      "brief_summary": "In patients naive to treatment or after a 2-week washout period for patients whose treatment was ineffective, the use of olmesartan was assessed in a 4-phase treatment scheme: monotherapy, addition of hydrochlorothiazide (2 phases), addition of amlodipine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Stage 1 and 2 hypertension without treatment for at least 2 weeks\n* Women with no risk of becoming pregnant\n\nExclusion Criteria:\n\n* Study participation could result in risk to health of subject\n* Cardiovascular disease\n* Secondary hypertension or stage 3 hypertension\n* Myocard",
+      "endpoints": [
+        "Number of Patients That Achieved a Blood Pressure Goal of Less Than 130/85 (Olmesartan 20 mg Monotherapy)",
+        "Number of Patients That Achieved a Blood Pressure Goal of Less Than 130/85 in First Titrated Group (Olmesartan 20 mg + 12.5 mg Hydrochlorothiazide)",
+        "Number of Patients That Achieved a Blood Pressure Goal of Less Than 130/85 in Second Titrated Group (Olmesartan 40 mg + 25 mg Hydrochlorothiazide)"
+      ],
+      "sponsor": "Daiichi Sankyo",
+      "url": "https://clinicaltrials.gov/study/NCT00890591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01033071",
+      "title": "A Phase 3b, Double-Blind, Randomized, 12-Week Efficacy and Safety Study Comparing the TAK-491 Plus Chlorthalidone Fixed-Dose Combination vs Olmesartan Medoxomil-Hydrochlorothiazide in Subjects With Moderate to Severe Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2010-11",
+      "country": "Canada, United States",
+      "enrollment": 1071,
+      "brief_summary": "The purpose of this study is to compare the antihypertensive effect of azilsartan medoxomil plus chlorthalidone, once daily (QD), to olmesartan medoxomil plus hydrochlorothiazide in participants with moderate to severe hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Has a mean sitting clinic systolic blood pressure greater than or equal to 160 and less than or equal to 190 mm Hg.\n2. Females of childbearing potential who are sexually active agree to routinely use adequate contraception from Screening through 30 days after the last adminis",
+      "endpoints": [
+        "Change From Baseline in Trough, Sitting, Clinic Systolic Blood Pressure."
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT01033071"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02814552",
+      "title": "OPTImizing Precision of Hypertension Care to Maximize Blood Pressure Control Pilot (OPTI-BP Pilot)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-06-18",
+      "completion_date": "2018-06-30",
+      "country": "United States",
+      "enrollment": 47,
+      "brief_summary": "Hypertension (HTN) is a major risk factor for coronary heart disease (CHD), heart failure, kidney failure and stroke. Disparities in HTN prevalence, treatment and control in the US have persisted for decades. The prevalence of HTN is 44% among Blacks, which is among the highest rates in the world. Those in ethnic/racial, rural, socioeconomically disadvantaged and other medically underserved populations are known to have the worst blood pressure (BP) control. Awareness of, treatment for, and cont",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* untreated HTN (systolic BP ≥ 140 or diastolic BP ≥ 90 mm Hg while taking no anti-HTN drugs)\n* treated, uncontrolled HTN (systolic BP ≥ 140 or diastolic BP ≥ 90 mm Hg while taking one or more anti-HTN drug)\n* provide voluntary, written informed consent\n* willing to comply with ",
+      "endpoints": [
+        "BP control"
+      ],
+      "sponsor": "University of Florida",
+      "url": "https://clinicaltrials.gov/study/NCT02814552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02336607",
+      "title": "A Randomized, Open-label Study to Evaluate the Effects on Blood Pressure Control, Pulse Wave Velocity, as Well as Safety and Tolerability of Felodipine Sustained Release, Alone and in Combination With Metoprolol, Lisinopril or Hydrochlorothiazide, in Chinese Patients With Mild to Moderate Essential Hypertension.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2006-08",
+      "country": "N/A",
+      "enrollment": 529,
+      "brief_summary": "The purpose of this study is to evaluate the effects on blood pressure control, pulse wave velocity, as well as safety and tolerability of felodipine single or combine with other drugs in Chinese Hypertension patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Provision of written informed consent\n2. Female or male aged between 35-79 years old\n3. Mild to moderate essential hypertension patients who meet any of the following criterias:\n\n   * Newly diagnosed, drug-naive, or without any antihypertension treatment for at least 3 months",
+      "endpoints": [
+        "The Percentage of Subjects Reaching Blood Pressure Target (Defined as < 140 / 90 mmHg) After 14 Weeks of Felodipine Sustained Release in Combination With Metoprolol, Lisinopril or Hydrochlorothiazide."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT02336607"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02449811",
+      "title": "Single-center, Randomized, Open-label, Parallel-group Study to Characterize Renin-angiotensin-system (RAS) Peptide Profiles Before and After Treatment Initiation With Different Antihypertensive Drug-classes in Patients With Treatment-naive Arterial Hypertension",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2018-11",
+      "country": "Switzerland",
+      "enrollment": 107,
+      "brief_summary": "Randomized, open-label, parallel-group study conducted at a single center in Switzerland.\n\nPatients diagnosed with primary arterial hypertension requiring antihypertensive drug Treatment as well as patients after a 4 week wash out period (Amendment 07/2016) will be recruited at the University Hospital Basel, Switzerland. Subjects will be randomized to either the angiotensin-converting enzyme inhibitor-, angiotensin receptor blocker-, calcium channel blocker- or hydrochlorothiazide-treatment arm.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female outpatients with previously untreated non-secondary arterial hypertension, defined as: office-systolic blood pressure ≥ 140 mmHg and ≤ 180 mmHg and office-diastolic blood pressure ≥ 90 mmHg and ≤110 mmHg (ESH grade I and II hypertension).\n* Male or female outpat",
+      "endpoints": [
+        "RAS peptide profiles"
+      ],
+      "sponsor": "Insel Gruppe AG, University Hospital Bern",
+      "url": "https://clinicaltrials.gov/study/NCT02449811"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "30529707",
+      "title": "The expanding saga of hydrochlorothiazide and skin cancer.",
+      "abstract": "",
+      "journal": "Journal of the American Academy of Dermatology",
+      "year": "2019",
+      "authors": [
+        "Heymann Warren R"
+      ],
+      "pub_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [
+        "Dose-Response Relationship, Drug",
+        "Drug Administration Schedule",
+        "Female",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Incidence",
+        "Male",
+        "Patient Safety",
+        "Prognosis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30529707/"
+    },
+    {
+      "pmid": "21561363",
+      "title": "Gout.",
+      "abstract": "",
+      "journal": "The New England journal of medicine",
+      "year": "2011",
+      "authors": [
+        "Messerli Franz H",
+        "Makani Harikrishna",
+        "Halpern Dan"
+      ],
+      "pub_types": [
+        "Letter",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Allopurinol",
+        "Antihypertensive Agents",
+        "Gout",
+        "Gout Suppressants",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Uric Acid"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21561363/"
+    },
+    {
+      "pmid": "7418711",
+      "title": "Reserpine, hydrochlorothiazide and pituitary-gonadal hormones in hypertensive patients.",
+      "abstract": "Sex histories and serum samples were obtained from 27 hypertensive men before and after 3 months of therapy with either 100 mg of hydrochlorothiazide or 0.25 mg of reserpine daily. Sera were analyzed for testosterone, dihydrotestosterone, estradiol, luteinizing hormone and prolactin. Both drugs effectively lowered pressure. The incidence of impaired sexual performance was low and insignificantly different in the two treatment groups. There were no significant changes in serum hormone concentrations as a result of drug therapy.",
+      "journal": "European journal of clinical pharmacology",
+      "year": "1980",
+      "authors": [
+        "Boyden T W",
+        "Nugent C A",
+        "Ogihara T",
+        "Maeda T"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Erectile Dysfunction",
+        "Gonadal Steroid Hormones",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Male",
+        "Middle Aged",
+        "Pituitary Hormones"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7418711/"
+    },
+    {
+      "pmid": "17703637",
+      "title": "Fixed combination of losartan and hydrochlorothiazide and reduction of risk of stroke.",
+      "abstract": "A fixed-dose combination of losartan/hydrochlorothiazide (HCTZ) therapy may be a logical choice for antihypertensive treatment, including for initial therapy in patients with blood pressure elevation >20/10 mmHg above treatment target. The renin-angiotensin-aldosterone-system-activating effect of hydrochlorothiazide augments the efficacy of blocking the angiotensin II type 1 (AT1) receptor with losartan. Some adverse effects associated with hydrochlorothiazide, including increased risk for new-onset diabetes mellitus, may be offset by losartan. Losartan was frequently administered with hydrochlorothiazide in the Losartan Intervention For Endpoint reduction in hypertension (LIFE) study, in which there was a 25% risk reduction for stroke in the losartan-based compared with the atenolol-based treatment group. The efficacy, tolerability, and convenience of losartan/HCTZ combination therapy may increase patient compliance and lower risk for stroke, a devastating outcome in patients with hyp",
+      "journal": "Vascular health and risk management",
+      "year": "2007",
+      "authors": [
+        "Kjeldsen Sverre E",
+        "Lyle Paulette A",
+        "Kizer Jorge R",
+        "Oparil Suzanne",
+        "Høieggen Aud"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Antihypertensive Agents",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Losartan",
+        "Risk Factors",
+        "Stroke"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17703637/"
+    },
+    {
+      "pmid": "19296759",
+      "title": "Efficacy and safety of olmesartan medoxomil alone and in combination with hydrochlorothiazide.",
+      "abstract": "In at least 50% of patients with hypertension, particularly those with stage 2 hypertension, combination drug therapy is required to achieve the currently recommended blood pressure (BP) goals. It is likely that future hypertension guidelines will recommend lowering BP beyond the currently recommended systolic/diastolic BP goals of lower than 140/90 mmHg for all patients with hypertension and lower than 130/80 mmHg for patients with diabetes or chronic kidney disease. In a series of clinical trials, the combination of olmesartan medoxomil, a well-established angiotensin receptor blocker, and hydrochlorothiazide, a thiazide diuretic, has produced greater reductions in systolic BP and diastolic BP and greater proportions of patients achieving BP goals than monotherapy with either component. Additionally, the increased efficacy resulting from the combination with hydrochlorothiazide does not appear to significantly affect the tolerability profile of olmesartan medoxomil. This article prov",
+      "journal": "Expert review of cardiovascular therapy",
+      "year": "2009",
+      "authors": [
+        "Punzi Henry A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antihypertensive Agents",
+        "Blood Pressure",
+        "Clinical Trials as Topic",
+        "Drug Combinations",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Imidazoles",
+        "Olmesartan Medoxomil"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19296759/"
+    },
+    {
+      "pmid": "8282360",
+      "title": "Combined versus single effect of fosinopril and hydrochlorothiazide in hypertensive patients.",
+      "abstract": "The antihypertensive effect and safety of fosinopril and hydrochlorothiazide combined were compared with each drug singly and placebo in a controlled manner. After a 4- to 5-week placebo lead-in period, 67 mild to moderate essential hypertensive patients (seated diastolic blood pressure > or = 95 and < or = 110 mm Hg) were randomized in a double-blind fashion into four parallel treatment groups: 20 mg fosinopril plus 12.5 mg hydrochlorothiazide, 20 mg fosinopril, 12.5 mg hydrochlorothiazide, and placebo during 8 weeks. Patients were seen biweekly. Sitting diastolic blood pressure was the outcome variable defining therapeutic response. The efficacy of fosinopril plus hydrochlorothiazide as a combined therapy was superior to any single drug (P < .05) and placebo (P < .01) in the treatment of mild to moderate essential hypertension. Mean adjusted systolic/diastolic blood pressure decrements at week 8 were -18.8/-13.7, -12.9/-11.8, -8.5/-9.3, and -2.7/-6.9 mm Hg for the fosinopril plus hyd",
+      "journal": "Hypertension (Dallas, Tex. : 1979)",
+      "year": "1994",
+      "authors": [
+        "Fernández M",
+        "Madero R",
+        "González D",
+        "Camacho P",
+        "Villalpando J"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Fosinopril",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8282360/"
+    },
+    {
+      "pmid": "36376654",
+      "title": "[Not Available].",
+      "abstract": "",
+      "journal": "MMW Fortschritte der Medizin",
+      "year": "2022",
+      "authors": [
+        "Schumacher Beate"
+      ],
+      "pub_types": [
+        "News"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hydrochlorothiazide",
+        "Antihypertensive Agents",
+        "Hypertension"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36376654/"
+    },
+    {
+      "pmid": "19689218",
+      "title": "Valsartan/hydrochlorothiazide: pharmacology and clinical efficacy.",
+      "abstract": "Valsartan/hydrochlorothiazide is a combination of an angiotensin II receptor antagonist and diuretic indicated for hypertensive patients as initial therapy and those not controlled on monotherapy.",
+      "journal": "Expert opinion on drug metabolism & toxicology",
+      "year": "2009",
+      "authors": [
+        "Kondrack Robyn",
+        "Mohiuddin Syed"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antihypertensive Agents",
+        "Clinical Trials as Topic",
+        "Drug Combinations",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Tetrazoles",
+        "Valine",
+        "Valsartan"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19689218/"
+    },
+    {
+      "pmid": "12215069",
+      "title": "Valsartan/hydrochlorothiazide: a review of its pharmacology, therapeutic efficacy and place in the management of hypertension.",
+      "abstract": "The combination of valsartan [an angiotensin II type 1 (AT(1)) receptor blocker] and hydrochlorothiazide (a thiazide diuretic), administered once daily, has been evaluated in the treatment of patients with hypertension in clinical trials ranging in duration from 8 weeks to 3 years. These studies showed that combination treatment with valsartan 80 or 160mg and hydrochlorothiazide 12.5 or 25mg induced significant reductions from baseline in systolic blood pressure (SBP) and diastolic BP (DBP) in patients with mild to severe hypertension. Clinical trials have demonstrated that the combination of valsartan 80 or 160mg with hydrochlorothiazide 12.5 or 25mg is significantly more effective than either drug alone. Furthermore, valsartan plus hydrochlorothiazide was effective at reducing BP in patients unresponsive to monotherapy with either agent alone. Effective BP control with valsartan plus hydrochlorothiazide was maintained in long-term studies, with reductions observed after 3 months of t",
+      "journal": "Drugs",
+      "year": "2002",
+      "authors": [
+        "Wellington Keri",
+        "Faulds Diana M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antihypertensive Agents",
+        "Databases, Bibliographic",
+        "Diuretics",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Randomized Controlled Trials as Topic",
+        "Sodium Chloride Symporter Inhibitors",
+        "Tetrazoles"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12215069/"
+    },
+    {
+      "pmid": "33851692",
+      "title": "Superior antihypertensive and cardioprotective effects of chlorthalidone compared with hydrochlorothiazide.",
+      "abstract": "Diuretics are the most commonly used drugs for the treatment of hypertension, either alone or in combination with other antihypertensive drugs. Of all diuretics, hydrochlorothiazide (HCTZ) and chlorthalidone (CTD) are the most commonly used, with HCTZ being the most widely prescribed diuretic. Recent studies have shown that CTD is a better diuretic with superior antihypertensive effectiveness and cardiovascular protection. Although these diuretics are chemically, pharmacokinetically and pharmacodynamically different, CTD continues to be called a \"thiazide-like\" diuretic. The only common features they both share are a sulfhydryl group in their molecules and their common mechanism and site of diuretic action. In order to get a better understanding of the true pharmacologic actions as well as the benefits and risks of these diuretics, a MEDLINE search of the English language literature between 1964 and January 2021 was conducted, using the terms \"diuretics\", \"hydrochlorothiazide\", \"chlort",
+      "journal": "Drugs of today (Barcelona, Spain : 1998)",
+      "year": "2021",
+      "authors": [
+        "Chrysant S G",
+        "Chrysant G S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antihypertensive Agents",
+        "Blood Pressure",
+        "Chlorthalidone",
+        "Diuretics",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33851692/"
+    },
+    {
+      "pmid": "35404993",
+      "title": "Thiazide and the Thiazide-Like Diuretics: Review of Hydrochlorothiazide, Chlorthalidone, and Indapamide.",
+      "abstract": "The term thiazide is universally understood to refer to diuretics that exert their principal action in the distal tubule. The thiazide class is heterogenous and can be further subdivided into compounds containing the benzothiadiazine ring structure-the thiazide-type (e.g., hydrochlorothiazide)-and those lacking the benzothiadiazine ring-the thiazide-like (e.g., chlorthalidone and indapamide) drugs. Thiazide-like agents are longer acting and constitute the diuretics used in most of the cardiovascular outcome trials that established benefits of treatment with diuretics, but pragmatic aspects, such as lack of availability in convenient formulations, limit their use. Regardless of class heterogeneity, thiazides have retained importance in the management of hypertension for over 60 years. They are reliably effective as monotherapy in a majority of hypertensive patients, and augment the efficacy of other classes of antihypertensives when used in combination. Importantly, a thiazide-based tre",
+      "journal": "American journal of hypertension",
+      "year": "2022",
+      "authors": [
+        "Ernst Michael E",
+        "Fravel Michelle A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antihypertensive Agents",
+        "Chlorthalidone",
+        "Diuretics",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Indapamide",
+        "Thiazides"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35404993/"
+    },
+    {
+      "pmid": "19355995",
+      "title": "Irbesartan and hydrochlorothiazide association in the treatment of hypertension.",
+      "abstract": "Blood pressure (BP) is one of the most important and common vascular risk factors but it is often poorly controlled. Inhibition of the renin-angiotensin-aldosterone system (RAAS) provides beneficial effects in hypertensives. The association of low-dosed diuretics in combination with RAAS blocking agents allows maximum benefit from potassium depletion and control of compensatory increase in renin secretion, so increasing the efficacy and safety of RAAS blockers. Irbesartan is a potent and selective angiotensin II subtype 1 receptor antagonist indicated for use in patients with hypertension, including those with type 2 diabetes mellitus and nephropathy. Once-daily irbesartan administration provides 24h control of BP. In patients with mild-to-moderate hypertension, irbesartan was as effective as enalapril, atenolol and amlodipine, and more effective than losartan and valsartan in terms of absolute reduction in BP and response rate. Irbesartan also induced regression of left ventricular hy",
+      "journal": "Current vascular pharmacology",
+      "year": "2009",
+      "authors": [
+        "Derosa Giuseppe",
+        "Ferrari Ilaria",
+        "Cicero Arrigo F G"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Animals",
+        "Antihypertensive Agents",
+        "Biphenyl Compounds",
+        "Blood Pressure",
+        "Clinical Trials as Topic",
+        "Dose-Response Relationship, Drug",
+        "Drug Combinations",
+        "Humans",
+        "Hydrochlorothiazide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19355995/"
+    },
+    {
+      "pmid": "19534037",
+      "title": "The risks and benefits of initial irbesartan/hydrochlorothiazide combination therapy in patients with severe hypertension.",
+      "abstract": "The impact of delays in blood pressure (BP) reduction is particularly relevant for patients with severe hypertension who are at risk for hypertensive emergencies. Combination therapies may hold promise as initial treatment for these patients. The safety and efficacy of initial irbesartan / hydrochlorothiazide (angiotensin receptor blocker / thiazide) treatment was compared with that of irbesartan as monotherapy in a multicenter, double-blind, parallel-group study in patients with severe hypertension. After 5 weeks, 47% of patients receiving combination therapy achieved a target diastolic BP <90 mm Hg compared with 33% with monotherapy (P=.0005). Similarly, systolic BP/ diastolic BP <140 / 90 mm Hg targets were reached by more subjects treated with combination therapy than subjects receiving monotherapy (34.6% vs 19.2%, P<.0001). Initial use of combination therapy instead of monotherapy is estimated to prevent between 250 and 4500 cardiovascular events in every 100,000 severely hyperten",
+      "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+      "year": "2009",
+      "authors": [
+        "Lapuerta Pablo",
+        "Franklin Stanley"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antihypertensive Agents",
+        "Biphenyl Compounds",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Irbesartan",
+        "Risk Assessment",
+        "Severity of Illness Index",
+        "Tetrazoles"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19534037/"
+    },
+    {
+      "pmid": "9431858",
+      "title": "Lacidipine, hydrochlorothiazide and their combination in systolic hypertension in the elderly.",
+      "abstract": "To compare with placebo the efficacies of once-daily administrations of lacidipine and hydrochlorothiazide separately and in combination to elderly patients with systolic hypertension.",
+      "journal": "Journal of hypertension",
+      "year": "1997",
+      "authors": [
+        "Wing L M",
+        "Arnolda L F",
+        "Harvey P J",
+        "Upton J",
+        "Molloy D"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Antihypertensive Agents",
+        "Aorta",
+        "Blood Pressure",
+        "Cross-Over Studies",
+        "Dihydropyridines",
+        "Double-Blind Method",
+        "Drug Combinations",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9431858/"
+    },
+    {
+      "pmid": "2859781",
+      "title": "Comparison of acebutolol and hydrochlorothiazide in essential hypertension.",
+      "abstract": "In a multicenter, double-blind comparison of acebutolol and hydrochlorothiazide in patients with mild to moderate essential hypertension (diastolic blood pressure, 95 to 114 mm Hg) in 182 and 178 patients, respectively, each agent reduced systolic and diastolic pressures to a similar significant degree: acebutolol, 15.9 and 14.9 mm Hg; hydrochlorothiazide, 15.2 and 13.3 mm Hg (p less than 0.001 vs baseline). Acebutolol significantly reduced heart rate by 8.9 bpm at the end of dose titration (p = 0.001), with no further decrease seen during maintenance. Fourteen patients on each treatment regimen were discontinued from the study because of side effects. However, significantly more hydrochlorothiazide patients experienced side effects of arrhythmia, anorexia, and flatulence; in addition, more hydrochlorothiazide patients developed abnormal levels of serum glucose, uric acid, blood urea nitrogen, serum potassium, and chloride. In a single-center study of patients who remained hypertensive",
+      "journal": "American heart journal",
+      "year": "1985",
+      "authors": [
+        "Lewis J E"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acebutolol",
+        "Adrenergic beta-Antagonists",
+        "Adult",
+        "Aged",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2859781/"
+    },
+    {
+      "pmid": "3341391",
+      "title": "Hypertension in elderly patients. A comparative study between indapamide and hydrochlorothiazide.",
+      "abstract": "Diuretic therapy is still regarded as the first-step approach in elderly patients with benign or moderate arterial hypertension. Traditional preparations such as thiazides, or potassium-sparing agents, are not devoid of significant side effects, however. Indapamide, a nonthiazide diuretic, has been shown to reduce blood pressure at low doses, in several clinical reports. In the present study, the effect of indapamide (2.5 mg per day) was compared with that of hydrochlorothiazide (50 mg per day) on blood pressure and serum chemistry of 47 elderly hypertensive patients (ages 65 to 91). After a six-week placebo-treatment period, patients were randomly assigned to receive either indapamide or hydrochlorothiazide. At that moment, blood pressure of patients in the supine position averaged 185 +/- 2/107 +/- 2, and 181 +/- 3/102 +/- 2 mm Hg, in the indapamide and hydrochlorothiazide groups, respectively. After 48 weeks of therapy, blood pressure was 162 +/- 3/89 +/- 2 and 170 +/- 2/94 +/- 2 mm",
+      "journal": "The American journal of medicine",
+      "year": "1988",
+      "authors": [
+        "Plante G E",
+        "Dessurault D L"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Blood Pressure",
+        "Diuretics",
+        "Drug Evaluation",
+        "Drug Tolerance",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Indapamide",
+        "Potassium"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3341391/"
+    },
+    {
+      "pmid": "318952",
+      "title": "Spironolactone and hydrochlorothiazide in normal-renin and low-renin essential hypertension.",
+      "abstract": "The relative blood pressure response and side effects of spironolactone (S), 400 mg/day, and hydrochlorothiazide (H), 100 mg/day, were evaluated in a double-masked crossed comparison. Subjects were 24 essential hypertensives, 13 normal and 11 with low renin activity. Upright renin levels were determined in the AM after 3 days of moderately low sodium diet (less than 100 mEq/day) and at the end of each drug treatment period. The values were not revealed to one investigator until completion of the study. After 4-week placebo control periods, either S or H was given in divided doses for 6 weeks. Blood pressure measurements and side effects were evaluated at biweekly intervals. The fall in blood pressure from control was the same for each drug and was independent of renin activity. Side effects occurred more often in patients treated with S, and H was judged superior by risk/benefit analysis. We conclude that S is no more beneficial than H in hypertensive patients with either low or normal",
+      "journal": "Clinical pharmacology and therapeutics",
+      "year": "1977",
+      "authors": [
+        "Ferguson R K",
+        "Turek D M",
+        "Rovner D R"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aldosterone",
+        "Blood Pressure",
+        "Clinical Trials as Topic",
+        "Female",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/318952/"
+    },
+    {
+      "pmid": "39957722",
+      "title": "Comparison of Cardiovascular Outcomes Between Chlorthalidone and Hydrochlorothiazide in Hypertensive Patients.",
+      "abstract": "Chlorthalidone (CLTD) and hydrochlorothiazide (HCTZ) are widely used thiazide diuretics for hypertension management. This study aimed to evaluate and compare the cardiovascular outcomes of patients treated with CLTD versus HCTZ. This multicenter, retrospective cohort study utilized data from the Korea University Medical Center, derived from electronic health records. A total of 14 257 hypertensive patients treated with either CLTD (n = 1920) or HCTZ (n = 12 337) were identified. Patients were matched 1:1 using propensity scores, resulting in 1606 patients in each treatment group. Demographic and clinical characteristics, incidence of major adverse cardiovascular events (MACE), and safety profiles were analyzed. Baseline characteristics after propensity score matching were well balanced between the two groups. The average age was 61.8 ± 14.6 years for CLTD users, with 59.3% being male. The 3-year MACE occurred in 1.2% of the CLTD group compared with 1.4% of the HCTZ group (hazard ratio ",
+      "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+      "year": "2025",
+      "authors": [
+        "Lim Subin",
+        "Kim Ju Hyeon",
+        "Oh Seungmi",
+        "Hong Soon Jun",
+        "Yu Cheol Woong"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Comparative Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Chlorthalidone",
+        "Male",
+        "Female",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Middle Aged",
+        "Retrospective Studies",
+        "Aged",
+        "Republic of Korea"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39957722/"
+    },
+    {
+      "pmid": "19689218",
+      "title": "Valsartan/hydrochlorothiazide: pharmacology and clinical efficacy.",
+      "abstract": "Valsartan/hydrochlorothiazide is a combination of an angiotensin II receptor antagonist and diuretic indicated for hypertensive patients as initial therapy and those not controlled on monotherapy.",
+      "journal": "Expert opinion on drug metabolism & toxicology",
+      "year": "2009",
+      "authors": [
+        "Kondrack Robyn",
+        "Mohiuddin Syed"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antihypertensive Agents",
+        "Clinical Trials as Topic",
+        "Drug Combinations",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Tetrazoles",
+        "Valine",
+        "Valsartan"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19689218/"
+    },
+    {
+      "pmid": "1920817",
+      "title": "Ketanserin and hydrochlorothiazide in the treatment of arterial hypertension.",
+      "abstract": "The chronic antihypertensive effect of the combination of ketanserin (KET) 40 mg + hydrochlorothiazide (HCTZ) 12.5 mg was evaluated in 20 patients with arterial hypertension of mild to moderate degree. After a 2-week wash-out period, patients were prescribed a single oral dose of KET 40 mg or HCTZ 25 mg in a randomized order at 2-day intervals and blood pressure and heart rate were measured during the following 24 hrs by an automatic recorder. Thereafter patients were given the combination of KET 40 mg + HCTZ 12.5 mg for 6 weeks and 24 hrs blood pressure was recorded after the first dose of the combination and at the end of treatment. Ketanserin induced a significant fall in systolic and diastolic pressures for up to 8 hrs; thiazide did not induce any change in these parameters. The combination of KET + HCTZ in the acute study reduced significantly systolic (SBP) and diastolic (DBP) blood pressures for up to 10 hrs. After 6 weeks of treatment with KET + HCTZ, blood pressure showed a fu",
+      "journal": "Japanese heart journal",
+      "year": "1991",
+      "authors": [
+        "Soro S",
+        "Grassi A",
+        "Pasanisi F",
+        "Ferrara L A"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Blood Pressure",
+        "Drug Therapy, Combination",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Ketanserin",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1920817/"
+    }
+  ]
+}

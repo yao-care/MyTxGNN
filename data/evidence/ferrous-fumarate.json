@@ -1,0 +1,1045 @@
+{
+  "drug": "Ferrous Fumarate",
+  "drugbank_id": "DB14491",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:45:10Z",
+  "indications": [
+    {
+      "indication": "acne",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 8,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 3,
+        "review_articles": 2,
+        "other_articles": 3,
+        "total_trials": 0,
+        "total_articles": 8
+      }
+    },
+    {
+      "indication": "microcytic anemia",
+      "evidence_level": "L2",
+      "trials": 1,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 1,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "deficiency anemia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 2,
+        "phase1_trials": 1,
+        "other_trials": 14,
+        "rct_articles": 5,
+        "review_articles": 2,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "folic acid deficiency anemia",
+      "evidence_level": "L1",
+      "trials": 12,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 10,
+        "rct_articles": 4,
+        "review_articles": 0,
+        "other_articles": 6,
+        "total_trials": 12,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "anemia of prematurity",
+      "evidence_level": "L2",
+      "trials": 4,
+      "articles": 4,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 1,
+        "review_articles": 0,
+        "other_articles": 3,
+        "total_trials": 4,
+        "total_articles": 4
+      }
+    }
+  ],
+  "total_trials": 37,
+  "total_articles": 33,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03212781",
+      "title": "Total Dose Infusion of Iron Dextran Versus Oral Iron for Treating Iron Deficiency Anemia in Pregnant Women: a Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-06",
+      "completion_date": "2016-10",
+      "country": "Egypt",
+      "enrollment": 66,
+      "brief_summary": "Iron deficiency is the most prevalent nutritional deficiency and the most common cause of anemia .It is characterized by a defect in hemoglobin synthesis, resulting in red blood cells that are abnormally small (microcytic) and contain a decreased amount of hemoglobin (hypochromic).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hemoglobin \\< 10 g/dL\n* Gestational age between 14-28 weeks.\n* Willingness to participate and signing the informed consent form.\n\nExclusion Criteria:\n\n* Iron overload or disturbances in utilization of iron\n* Decompensated liver cirrhosis and active hepatitis\n* Active acute or ",
+      "endpoints": [
+        "The change in Hemoglobin concentration from baseline to 8 weeks therapy"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03212781"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02118402",
+      "title": "In Home Iron Fortification in Kenyan Infants: Effect of Co-supplementation With Galactooligosaccharides (GOS) on the Gut Microbiota Composition and the Effectiveness of Iron Supplementation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2015-12",
+      "country": "Kenya",
+      "enrollment": 155,
+      "brief_summary": "Iron deficiency and anemia are health issues affecting mainly infants and women in developing countries. Iron deficiency in infancy can have long-lasting impact on cognitive and motor development of the child. Iron fortification has shown to be effective against anemia. However, in areas with a high burden of infectious diseases iron may increase the risk of unfavorable gut microbiota composition possibly influencing diarrhea prevalence. Therefore we want to assess the effects of home fortificat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 6-10 months at baseline\n* Assessment of good health as assessed by professional staff at Kikoneni Health Clinic.\n* Willingness of their caregiver to provide informed consent\n\nExclusion Criteria:\n\n* Hemoglobin \\<7g/dL; these participants will be referred for treatment at",
+      "endpoints": [
+        "The co-primary outcomes are the gut microbiome and gut inflammation"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02118402"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04074707",
+      "title": "Optimizing Oral Iron Supplementation Regimens During Pregnancy Using Serum Hepcidin Profiles and Iron Stable Isotopes: Defining a Dosing Regimen With Maximal Absorption and Minimal Gastrointestinal Side Effects",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-10-24",
+      "completion_date": "2022-06-30",
+      "country": "Thailand",
+      "enrollment": 30,
+      "brief_summary": "Iron deficiency anemia (IDA) is common during pregnancy and has adverse effects on the mother, fetus and newborn. Oral iron supplements are usually recommended to prevent ID/IDA during pregnancy.\n\nThe aim of this study is to define an iron supplementation schedule with maximal absorption using serum hepcidin profiles and stable iron isotopes in pregnant women. In this randomized, open-label trial, fractional and total iron absorption will be compared from daily dosing with 60 mg iron versus alte",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* gestational week 14-16 at study start\n* singleton pregnancy\n* Serum ferritin SF \\<60 µg/L\n* non-anemic or mildly anemic, defined as hemoglobin (Hb) \\>10 g/dL\n* female aged 18-45 years\n* healthy Thai woman\n\nExclusion Criteria:\n\n* acute or chronic disease\n* taking medications th",
+      "endpoints": [
+        "Fractional iron absorption in %",
+        "Fractional iron absorption in %",
+        "Fractional iron absorption in %"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT04074707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05033483",
+      "title": "Do Iron Supplements Impact the Gut Microbiome of Women of Reproductive Age?",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-08-31",
+      "completion_date": "2022-01-01",
+      "country": "Australia",
+      "enrollment": 82,
+      "brief_summary": "In this randomised controlled trial the investigators will determine whether taking iron supplements compared to placebo for 21 days alters the bacteria (microbiome) in the large intestine of non-pregnant female participants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able to give informed consent\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding.\n* Planning on becoming pregnant\n* Diagnosed with iron deficiency and/or anaemia in the previous three months\n* Taken antibiotics in the past three months\n* Taken iron containing supplements in the",
+      "endpoints": [
+        "Weighted UniFrac dissimilarity score"
+      ],
+      "sponsor": "South Australian Health and Medical Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT05033483"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05681871",
+      "title": "A South African Multi-centre Pilot Trial to Assess the Feasibility and Clinical Efficacy of Preoperative Oral Iron to Treat Preoperative Iron-deficiency Anaemia in Children Undergoing Elective Noncardiac Surgery",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-02-09",
+      "completion_date": "2025-05-31",
+      "country": "South Africa",
+      "enrollment": 755,
+      "brief_summary": "Preoperative anaemia has been shown to be associated with worse outcomes after surgery in both adults and children. Limited research has been done on how common preoperative iron-deficiency anaemia (IDA) is in children and how best to treat it. Oral iron is a relatively cost-effective treatment for IDA. This study aims to show whether giving children with IDA oral iron for 6-12 weeks before their surgery significantly improves their haemoglobin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 6 months to \\<16 years\n* Noncardiac surgery\n* Elective surgery\n* Anaemic as per World Health Organisation criteria\n\nExclusion Criteria:\n\n* Patient or parent refusal\n* Unable to obtain written consent at the surgical outpatient clinic\n* Surgery planned within 4 weeks fro",
+      "endpoints": [
+        "Delta Haemoglobin = Change in haemoglobin pre- and post- oral iron supplementation"
+      ],
+      "sponsor": "University of Cape Town",
+      "url": "https://clinicaltrials.gov/study/NCT05681871"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02005588",
+      "title": "Comparison Between Aminoacid Chelated Iron and Iron Salt in Treatment of Iron Deficiency Anemia With Pregnancy",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-12",
+      "completion_date": "2015-07",
+      "country": "Egypt",
+      "enrollment": 150,
+      "brief_summary": "Iron deficiency anemia is a very common problem accompanying pregnancy. in this study, the investigators are going to compare the efficacy and tolerability of two preparations of oral iron in treatment of iron deficiency anemia with pregnancy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 20-40 years\n* Pregnant 14-18 weeks\n* Singleton fetus\n* Hb 7-10.9 g/dl\n* Serum ferritin \\<12 microgram/L\n\nExclusion Criteria:\n\n* history of anemia due to other causes as chronic blood loss, hemolytic anemia or thalassemia\n* Multiple pregnancy\n* known hepatic, renal or card",
+      "endpoints": [
+        "change in hemoglobin level"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT02005588"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02666417",
+      "title": "Testing Iron Absorption From a New Micronutrient Powder Containing Galacto-oligosaccharides (GOS) for Fortification of Infant Foods in Sub-Saharan Africa",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-01",
+      "completion_date": "2016-12",
+      "country": "Kenya",
+      "enrollment": 64,
+      "brief_summary": "Infants and young children in sub-Saharan Africa have high rates of iron deficiency anemia (IDA), which adversely affects their growth and cognitive development. In-home iron fortification of complementary foods using micronutrient powders (MNPs) reduces risk for IDA. However, in areas with a high burden of infectious diseases iron may increase the risk of unfavorable gut microbiota composition possibly influencing diarrhea prevalence. Thus, there is an urgent need to find safer formulations of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 6-14 months at baseline\n* Assessment of good health as assessed by professional staff at Msambweni District Hospital\n* Willingness of their caregiver to provide informed consent\n\nExclusion Criteria:\n\n* Hemoglobin \\<70 g/L ; these infants will be referred for treatment a",
+      "endpoints": [
+        "Change from baseline in the isotopic ratio of iron in blood at week 5"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02666417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05278793",
+      "title": "The Efficacy of Intermittent Versus Daily Oral Iron Supplementation in Anaemic Pregnant Women.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-01-07",
+      "completion_date": "2022-12",
+      "country": "Netherlands",
+      "enrollment": 58,
+      "brief_summary": "In this study intermittent dosage of iron supplementation three times a week will be compared to daily dosage in anaemic pregnant women due to iron deficiency.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women of 18 years and older\n* Iron deficiency anaemia (defined as: Anaemia (haemoglobin lower than cut-off value) AND mean corpuscular volume (MCV) 70-85 fl OR ferritin \\<30ug/L) OR mean corpuscular volume (MCV) \\< 70fl / hemoglobinopathy is ruled out.\n* Adequate ment",
+      "endpoints": [
+        "Haemoglobin level"
+      ],
+      "sponsor": "Martini Hospital Groningen",
+      "url": "https://clinicaltrials.gov/study/NCT05278793"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04130828",
+      "title": "Thrice-weekly Versus Thrice-daily Oral Ferrous Fumarate Treatment in Adult Patients With Iron Deficiency Anemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-01-21",
+      "completion_date": "2022-01-18",
+      "country": "Thailand",
+      "enrollment": 66,
+      "brief_summary": "Iron deficiency anemia is a global health problem and the most common cause of anemia worldwide. Patients with iron deficiency and Iron deficiency anemia can present with a multitude of symptoms including fatigue, dyspnea on exertion, dysphagia, pallor, palpitations, headaches, tinnitus, taste disturbance and pica. Oral iron supplementation is associated with increasing hemoglobin in multiple studies in women, pregnant women and elderly patients. However, the optimal dose and frequency of oral i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Patients with iron deficiency anemia defined as hemoglobin less than 12 g/dL in women or 13 g/dL in men; AND ferritin less than 30 ng/mL\n\nExclusion Criteria:\n\n* Allergy to iron\n* Currently pregnancy\n* Currently breastfeeding\n* Known history of inflammatory bow",
+      "endpoints": [
+        "Proportion of patient who achieved hemoglobin target"
+      ],
+      "sponsor": "Prince of Songkla University",
+      "url": "https://clinicaltrials.gov/study/NCT04130828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01155375",
+      "title": "A Randomized, Open-Label, Active-Controlled Study of the Safety, Efficacy, and Pharmacokinetics of Ferumoxytol Compared With Oral Iron for the Treatment of Iron Deficiency Anemia in Pediatric Subjects With Chronic Kidney Disease",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2011-10-17",
+      "completion_date": "2014-06-24",
+      "country": "United States",
+      "enrollment": 14,
+      "brief_summary": "Study evaluating the efficacy and safety of intravenous (IV) ferumoxytol compared with oral iron for the treatment of pediatric participants with chronic kidney disease (CKD).",
+      "eligibility_criteria": "Key Inclusion Criteria for the combined AMAG-FER-CKD-251 and AMAG-FER-CDK-252 studies include:\n\n1. Males or females 6 months to \\<18 years of age\n2. CKD non-dialysis participants or dialysis-dependent participants who were on peritoneal dialysis or stable hemodialysis prior to Screening\n3. Had iron ",
+      "endpoints": [
+        "Mean Change In Hemoglobin From Baseline To Week 5"
+      ],
+      "sponsor": "AMAG Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01155375"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03484845",
+      "title": "Lactoferrin Versus Ferrous Fumarate for Treatment of Mild to Moderate Iron Deficiency Anemia During Pregnancy",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2018-11-01",
+      "completion_date": "2019-12-01",
+      "country": "N/A",
+      "enrollment": 150,
+      "brief_summary": "This study will conducted to evaluate and comparison between the effectiveness, safety and acceptability of lactoferrin alone, ferrous fumarate alone and combination of both for the treatment of mild to moderate IDA during pregnancy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women from 24-36 weeks of gestation.\n* Mild to moderate anemia.\n\nExclusion Criteria:\n\n* Women with a history of anemia due to any other causes other than IDA.\n* Severe anemia requiring blood transfusion.\n* History of peptic ulcer.\n* known hypersensitivity to iron prep",
+      "endpoints": [
+        "Increase in blood hemoglobin."
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03484845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03572010",
+      "title": "A Novel Stable Iron Isotope Method to Define Iron Needs and Improve Iron Nutrition in HIV+ and HIV- Children",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-09-27",
+      "completion_date": "2020-06-30",
+      "country": "South Africa",
+      "enrollment": 180,
+      "brief_summary": "The objective of this study is to compare HIV infected children to uninfected children regarding 1) quantifying iron absorption from iron fortified maize porridge, lipid-based food supplements and oral iron supplements, and 2) quantifying the daily iron requirement.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 8-13 years at baseline\n* Hemoglobin \\>=8 g/dL\n* BMI -3 to 3 SD of reference population\n* HIV criteria: soluble cluster of differentiation 4 (sCD4) \\>=500 cells/mm\\^3, HIV RNA viral load \\<50 copies/mL (measured as part of routine care)\n* Plasma ferritin \\<30 mikrogramm/L\n*",
+      "endpoints": [
+        "Fractional iron absorption"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT03572010"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03830034",
+      "title": "Amino Acid Chelated Iron Versus Ferrous Fumarate in the Treatment of Iron Deficiency Anemia With Pregnancy: Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2019-02-02",
+      "completion_date": "2019-12-01",
+      "country": "Egypt",
+      "enrollment": 150,
+      "brief_summary": "Anemia is the commonest hematological disorder that occurs in pregnancy. According to the recent standard laid down by 'WHO', anemia is present when the Hemoglobin (Hb) concentration in the peripheral blood is 11 gm/dl or less. The most common cause of anemia in pregnancy is lack of iron. This study is done to compare the efficacy and tolerability of iron amino acid chelate and that of iron salts (ferrous fumarat).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women at 14 -18 weeks of gestation calculated from the first day of their last menstrual period and confirmed or modified by ultrasound\n* Hemoglobin level 8-10.5 g/dL\n* Serum ferritin\\<15µg/L\n\nExclusion Criteria:\n\n* The presence of anemia from causes other than iron d",
+      "endpoints": [
+        "Hemoglobine (Hb) Rise"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT03830034"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01088958",
+      "title": "Diarrhea, Malaria, Anemia, and Helminthiasis Prevention Through Household-based Interventions in Rural Western Kenya: the Nyando Integrated Child Health and Education (NICHE) Project",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2014-09",
+      "country": "Kenya",
+      "enrollment": 7200,
+      "brief_summary": "The purpose of the study is to evaluate the effectiveness of household-based distribution of evidence-based health products and to measure the health impact of these combined interventions on a population basis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 6-36 months at the time of enrollment\n* Live within the study area for the duration of the intervention and follow-up period\n\nExclusion Criteria:\n\n* Unavailable for enrollment on 3 separate household visits\n* Parental refusal to give informed consent",
+      "endpoints": [
+        "Product sales and use (coverage)"
+      ],
+      "sponsor": "Centers for Disease Control and Prevention",
+      "url": "https://clinicaltrials.gov/study/NCT01088958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00746551",
+      "title": "Low Dose Intravenous Versus Oral Iron for Iron Deficiency Anemia Starting Late in Pregnancy: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2010-04",
+      "country": "Thailand",
+      "enrollment": 80,
+      "brief_summary": "The purpose of this study is to compare the efficacy of body iron storage replenishment between low dose intravenous iron and oral iron in late pregnancy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-45 years old\n2. Singleton pregnancy at 32 weeks gestation\n3. Having anemia in the third trimester according to World Health Organization, namely, with a hemoglobin level of \\< 11 g/dL or hematocrit of \\< 33%\n4. Having no underlying disease such as hypertension, gestati",
+      "endpoints": [
+        "Serum Ferritin Level"
+      ],
+      "sponsor": "Mahidol University",
+      "url": "https://clinicaltrials.gov/study/NCT00746551"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02858505",
+      "title": "Impact of One Versus Two Amino Acid Chelated Iron Capsules on Prevention of Iron Deficiency Anemia in Non-anemic Women With Twin Gestations",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-08",
+      "completion_date": "2016-07",
+      "country": "Egypt",
+      "enrollment": 120,
+      "brief_summary": "Anaemia is the most worldwide health problem affecting pregnant women in both developed and developing countries. During pregnancy there is an inconsistent increase in plasma volume and haemoglobin mass.\n\nIron deficiency anemia is the commonest type of anemia during pregnancy. The pregnant woman needs about 1000 mg of iron during pregnancy.\n\nDiet alone cannot give pregnant woman the daily required amount of the iron (about 27 mg/day) so the Centers for Disease Control and Prevention recommend th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* twin gestations\n* ±12 weeks)\n* normal hemoglobin level (Hb ≥ 120 g/L).\n* women were living in nearby area to make up follow up quit possible\n* willing to participate in our study\n\nExclusion Criteria:\n\n* a recent blood transfusion\n* threatened miscarriage\n* pathological blood l",
+      "endpoints": [
+        "Hemoglobin level"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT02858505"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01155388",
+      "title": "A Randomized, Open-Label, Active-Controlled Study of the Safety, Efficacy, and Pharmacokinetics of Ferumoxytol Compared With Oral Iron for the Treatment of Iron Deficiency Anemia in Pediatric Subjects With Nondialysis-dependent Chronic Kidney Disease",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2011-10-17",
+      "completion_date": "2014-06-24",
+      "country": "United States",
+      "enrollment": 14,
+      "brief_summary": "Study evaluating the efficacy and safety of intravenous (IV) ferumoxytol compared with oral iron for the treatment of pediatric participants with chronic kidney disease (CKD).",
+      "eligibility_criteria": "Key Inclusion Criteria for this study include:\n\n1. Males or females 6 months to \\<18 years of age\n2. Nondialysis dependent CKD, including kidney transplant recipients\n3. Has iron deficiency anemia defined as: a) hemoglobin level \\<11.0 grams (g)/deciliter (dL) and b) transferrin saturation level \\<2",
+      "endpoints": [
+        "Mean Change In Hemoglobin From Baseline To Week 5"
+      ],
+      "sponsor": "AMAG Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01155388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01032005",
+      "title": "Double Fortified Salt Intervention and Work Performance (Productivity) of Women Plantation Workers in West Bengal, India",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2010-09",
+      "country": "India",
+      "enrollment": 248,
+      "brief_summary": "The main objective of the present study is to assess the impact of double fortified salt containing iron and iodine on work performance (productivity) of women plantation workers in India. Efficacy studies have shown that salt double-fortified with iodine and iron can significantly reduce the incidence rates of iron-deficiency anemia (IDA) and iodine-deficiency disorders. Double-fortified salt (DFS) can be prepared by mixing microencapsulated iron compounds into conventionally iodated salt (Yuan",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Experienced, permanent, full-time tea pickers who plan to work for at least 2 picking seasons\n\nExclusion Criteria:\n\n* Pregnant and lactating women\n* Women with physical or mental disabilities that inhibit their ability to understand the study procedures or conduct their usual ",
+      "endpoints": [
+        "Work productivity (daily weight of tae picked)"
+      ],
+      "sponsor": "Micronutrient Initiative",
+      "url": "https://clinicaltrials.gov/study/NCT01032005"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03295851",
+      "title": "Preoperative, Single-dose Intravenous Iron Formulation to Reduce Post-surgical Complications in Patients Undergoing Major Abdominal Surgery: a Pilot Randomised Control Trial (PIRCAS Trial - Pilot)",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2017-11-22",
+      "completion_date": "2019-03",
+      "country": "Singapore",
+      "enrollment": 60,
+      "brief_summary": "Preoperative anemia is common worldwide, ranging from 25% in knee arthroplasties to 60% in colorectal malignancies. In Singapore, about a quarter (27%) of all patients have anaemia prior to operation at a main tertiary center. Currently, the rate of preoperative anemia in Singapore General Hospital (SGH) is 26.6%.\n\nThis is an alarming public health issue as the negative impact of preoperative anemia on post-surgical outcomes has been well documented and include increased rates of perioperative b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Elective major benign or malignant abdominal surgery\n* Procedures expected to last 2 hours and/or more OR Anticipated blood loss greater than 500ml\n* PAC clinic scheduled before 1 - 4 weeks before surgery\n* Male Hb less than 13.0 Gram Per Deciliter OR Female Hb less than 12.0 ",
+      "endpoints": [
+        "Feasibility of the study"
+      ],
+      "sponsor": "Singapore General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03295851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02989311",
+      "title": "Testing Iron Absorption From a New Micronutrient Powder Containing Galacto-oligosaccharides (GOS) for Fortification of Infant Foods in Sub-Saharan Africa",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-08",
+      "completion_date": "2016-12",
+      "country": "Kenya",
+      "enrollment": 23,
+      "brief_summary": "Infants and young children in sub-Saharan Africa have high rates of iron deficiency anemia (IDA), which adversely affects their growth and cognitive development. In-home iron fortification of complementary foods using micronutrient powders (MNPs) reduces risk for IDA by ensuring that the iron needs of infants and young children are met without changing their traditional diet. In order to optimize iron absorption timing of MNP consumption might as well be important. This is because hepcidin, a ke",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 6-14 months at baseline\n* Assessment of good health as assessed by health professional staff at Msambweni County Referral Hospital\n* Willingness of their caregiver to provide informed consent\n\nExclusion Criteria:\n\n* Hemoglobin \\<70 g/L; these infants will be referred fo",
+      "endpoints": [
+        "Change from baseline in isotopic ratio of iron in blood at day 18 and 19 for Study 1 and 2 respectively"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02989311"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "16371290",
+      "title": "Treating acne with oral contraceptives: use of lower doses.",
+      "abstract": "Oral contraceptives (OCs) have been shown to effectively treat acne. Clinical trials of various doses of ethinyl estradiol (EE) combined with progestins such as levonorgestrel, desogestrel, norgestimate, gestodene, cyproterone acetate and drospirenone in monophasic, triphasic and combiphasic formulations used to treat acne in women are reviewed here. Open-label and comparative studies beginning in the 1980s were the first to demonstrate objective and subjective reductions in the incidence of acne, severity of existing acne and seborrhea. Placebo-controlled trials have corroborated these findings with a trend toward effective acne treatment with declining doses of EE. Significant reductions in total, inflammatory and noninflammatory lesions compared with placebo have been demonstrated with an OC containing the low dose of 20 microg of EE. Collectively, these findings support the use of low-dose OCs for the treatment of acne.",
+      "journal": "Contraception",
+      "year": "2006",
+      "authors": [
+        "Huber Johannes",
+        "Walch Katharina"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acne Vulgaris",
+        "Contraceptives, Oral",
+        "Controlled Clinical Trials as Topic",
+        "Drug Combinations",
+        "Ethinyl Estradiol",
+        "Norethindrone",
+        "Norgestrel",
+        "Placebos",
+        "Progestins",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16371290/"
+    },
+    {
+      "pmid": "9678128",
+      "title": "A triphasic oral contraceptive pill, CTR-05: clinical efficacy and safety.",
+      "abstract": "The primary objective of this study was to compare the safety, contraceptive efficacy, and menstrual cycle patterns in women using triphasic oral contraceptive pills, namely CTR-05, containing 50/100/150 micrograms desogestrel and 35/30/30 micrograms ethinylestradiol, and Orthonovum777 containing 500/750/1000 micrograms norethindrone and 35/35/35 micrograms ethinylestradiol.",
+      "journal": "The European journal of contraception & reproductive health care : the official journal of the European Society of Contraception",
+      "year": "1996",
+      "authors": [
+        "Singh M",
+        "Thomas D",
+        "Singh R",
+        "Saxena B B",
+        "Ledger W J"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Cholesterol, HDL",
+        "Contraceptives, Oral, Combined",
+        "Contraceptives, Oral, Sequential",
+        "Desogestrel",
+        "Drug Combinations",
+        "Estradiol Congeners",
+        "Ethinyl Estradiol",
+        "Female",
+        "Headache"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9678128/"
+    },
+    {
+      "pmid": "14596626",
+      "title": "Evaluating minimal clinically important differences for the acne-specific quality of life questionnaire.",
+      "abstract": "The Acne-Specific Quality of Life Questionnaire (Acne-QoL) is a responsive, reliable and valid instrument developed to measure the impact of facial acne across four dimensions of patient QOL. Score changes on this instrument have been used to report statistically significant treatment advantages for a low-dose oral contraceptive (Estrostep, containing norethisterone (norethindrone) acetate (NA) 1mg and ethinylestradiol (EE) [20, 30, 35 mg] as compared with placebo in women with moderate acne vulgaris. However, the question remained if these statistically significant results were also clinically meaningful.",
+      "journal": "PharmacoEconomics",
+      "year": "2003",
+      "authors": [
+        "McLeod Lori D",
+        "Fehnel Sheri E",
+        "Brandman Jane",
+        "Symonds Tara"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Acne Vulgaris",
+        "Adolescent",
+        "Adult",
+        "Contraceptives, Oral, Combined",
+        "Drug Combinations",
+        "Ethinyl Estradiol",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Norethindrone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14596626/"
+    },
+    {
+      "pmid": "2289388",
+      "title": "Cycle control on low-dose oral contraceptives: a comparative trial.",
+      "abstract": "Cycle control was studied comparing the monophasic oral contraceptive Loestrin with three low-dose phasic preparations (Triphasil, Ortho 10/11 and Ortho 7/7/7) in 391 women of whom 300 completed 6 cycles. Loestrin subjects had a rate of occurrence (31% of cycles) for intermenstrual bleeding (IMB) comparable to the rates for subjects on the phasic preparations (36%, 37% and 37%, respectively). Triphasil subjects had lower rates than the Ortho 10/11 and Ortho 7/7/7 subjects (p less than 0.01) in cycle one when all subjects were analyzed and in pre-study users when continuing menstrual flow (CMF) episodes were not included as IMB. IMB was a cause for dropping out of the study in 7% of subjects who were evenly distributed between groups. There were no differences between groups for BTB when perceived by subjects as a side effect. Spotting was perceived as a side effect more often with Ortho 10/11 and Ortho 7/7/7 use than with Triphasil (p less than 0.01). Loestrin, Ortho 10/11 and Ortho 7/",
+      "journal": "Contraception",
+      "year": "1990",
+      "authors": [
+        "Percival-Smith R K",
+        "Yuzpe A A",
+        "Desrosiers J A",
+        "Rioux J E",
+        "Guilbert E"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Amenorrhea",
+        "Analysis of Variance",
+        "Contraceptives, Oral, Combined",
+        "Contraceptives, Oral, Synthetic",
+        "Drug Combinations",
+        "Ethinyl Estradiol",
+        "Ethinyl Estradiol-Norgestrel Combination",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2289388/"
+    },
+    {
+      "pmid": "16904419",
+      "title": "Does St. John's wort interfere with the antiandrogenic effect of oral contraceptive pills?",
+      "abstract": "St. John's wort (SJW), a commonly used herbal remedy, has been shown to compromise the efficacy of drugs, including oral contraceptive pills (OCPs), by inducing cytochrome P-450. We investigated whether the simultaneous use of SJW with OCPs resulted in elevated serum androgen levels with implications of impaired OCP treatment of hirsutism and acne.",
+      "journal": "Contraception",
+      "year": "2006",
+      "authors": [
+        "Fogle Robin H",
+        "Murphy Patricia A",
+        "Westhoff Carolyn L",
+        "Stanczyk Frank Z"
+      ],
+      "pub_types": [
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_terms": [
+        "Acne Vulgaris",
+        "Adolescent",
+        "Adult",
+        "Androgen Antagonists",
+        "Androgens",
+        "Contraceptives, Oral",
+        "Drug Combinations",
+        "Drug Interactions",
+        "Ethinyl Estradiol",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16904419/"
+    },
+    {
+      "pmid": "1974991",
+      "title": "Preliminary report: furunculosis and hypoferraemia.",
+      "abstract": "16 patients with recurrent staphylococcal furunculosis but without anaemia had significantly lower serum iron concentrations than normal laboratory reference values, 8 controls with single furuncles, or 10 controls with acne conglobata. There were no significant differences in serum glucose or iron binding capacity between the groups studied. Furunculosis resolved after 3-4 weeks' treatment with iron supplements in all but 1 patient. The relation between iron and susceptibility to infection is unclear, but merits further investigation.",
+      "journal": "Lancet (London, England)",
+      "year": "1990",
+      "authors": [
+        "Weijmer M C",
+        "Neering H",
+        "Welten C"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Blood Glucose",
+        "Child",
+        "Disease Susceptibility",
+        "Female",
+        "Ferrous Compounds",
+        "Furunculosis",
+        "Humans",
+        "Iron Deficiencies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1974991/"
+    },
+    {
+      "pmid": "14158432",
+      "title": "[PERORAL GESTAGEN/ESTROGEN TREATMENT--A SURVEY TOGETHER WITH PERSONAL CLINICAL TRIALS OF THE PREPARATION ANOVLAR].",
+      "abstract": "",
+      "journal": "Svenska lakartidningen",
+      "year": "1964",
+      "authors": [
+        "JACOBSON L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acne Vulgaris",
+        "Biomedical Research",
+        "Contraceptives, Oral",
+        "Drug Combinations",
+        "Dysmenorrhea",
+        "Endocrinology",
+        "Endometriosis",
+        "Estrogens",
+        "Ethinyl Estradiol",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14158432/"
+    },
+    {
+      "pmid": "1863941",
+      "title": "Synphasic tablets in Canadian practice: a phase-IV multicenter study.",
+      "abstract": "The performance of a low-dose triphasic oral contraceptive (OC) in the first four cycles of use was evaluated by 1,326 primary-care physicians and specialists across Canada in a phase-IV postmarketing trial. Data were available from 5,460 women who completed 19,756 cycles of use with Synphasic. The incidence of intermenstrual bleeding characteristically decreased over the four cycles to 10% in women who were first-time users of OCs, to 14% in women who had previously used OCs but had discontinued use until this trial, and to 16% in women who had switched from another OC to Synphasic. The women reported a low incidence of headache, nausea, weight gain, breast complaints, and acne while receiving Synphasic. The results demonstrate good endometrial control with Synphasic and a high level of patient acceptance.",
+      "journal": "Clinical therapeutics",
+      "year": "1991",
+      "authors": [
+        "Powell M G",
+        "Talbot C"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Contraceptives, Oral, Combined",
+        "Drug Combinations",
+        "Ethinyl Estradiol",
+        "Female",
+        "Humans",
+        "Menstrual Cycle",
+        "Norethindrone",
+        "Time Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1863941/"
+    },
+    {
+      "pmid": "1612493",
+      "title": "Gastric antral vascular ectasia: maintenance treatment with oestrogen-progesterone.",
+      "abstract": "Gastric antral vascular ectasia ('watermelon stomach') is a rare cause of chronic gastrointestinal bleeding and various medical and surgical treatments have been described. We report a patient in whom an oestrogen-progesterone preparation successfully controlled recurrent blood loss.",
+      "journal": "Gut",
+      "year": "1992",
+      "authors": [
+        "Moss S F",
+        "Ghosh P",
+        "Thomas D M",
+        "Jackson J E",
+        "Calam J"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Contraceptives, Oral, Combined",
+        "Dilatation, Pathologic",
+        "Drug Combinations",
+        "Ethinyl Estradiol",
+        "Female",
+        "Gastrointestinal Hemorrhage",
+        "Humans",
+        "Norethindrone",
+        "Pyloric Antrum"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1612493/"
+    },
+    {
+      "pmid": "35276810",
+      "title": "Efficacy and Safety of Ferrous Bisglycinate and Folinic Acid in the Control of Iron Deficiency in Pregnant Women: A Randomized, Controlled Trial.",
+      "abstract": "Iron deficiency in pregnancy is a major public health problem that causes maternal complications. The objective of this randomized, controlled trial was to examine the bioavailability, efficacy, and safety of oral ferrous bisglycinate plus folinic acid supplementation in pregnant women with iron deficiency. Subjects (12−16 weeks of gestation, n = 120) were randomly allocated to receive oral iron as ferrous bisglycinate (equiv. iron 24 mg) in supplement form with folinic acid and multivitamins (test group, n = 60) or as ferrous fumarate (equiv. iron 66 mg iron, control group, n = 60) after breakfast daily. Iron absorption was assessed by measuring fasted serum iron levels at 1 and 2 h immediately after supplementation. Hematological biomarkers and iron status were assessed before intervention, and at 3 and 6 months. Side effects were monitored throughout the intervention. A significant increase in serum iron was seen in both groups (p < 0.001) during the bioavailability assessment; howe",
+      "journal": "Nutrients",
+      "year": "2022",
+      "authors": [
+        "Bumrungpert Akkarach",
+        "Pavadhgul Patcharanee",
+        "Piromsawasdi Theera",
+        "Mozafari M R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Anemia, Iron-Deficiency",
+        "Biomarkers",
+        "Female",
+        "Ferrous Compounds",
+        "Glycine",
+        "Humans",
+        "Iron Deficiencies",
+        "Leucovorin",
+        "Pregnancy",
+        "Pregnancy Complications"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35276810/"
+    },
+    {
+      "pmid": "23252877",
+      "title": "Tolerability of different oral iron supplements: a systematic review.",
+      "abstract": "A systematic review was conducted to analyze the tolerability of several oral iron supplements based on data obtained in available publications and to report the incidence of adverse effects (AEs) for each supplement both overall and gastrointestinal.",
+      "journal": "Current medical research and opinion",
+      "year": "2013",
+      "authors": [
+        "Cancelo-Hidalgo María Jesús",
+        "Castelo-Branco Camil",
+        "Palacios Santiago",
+        "Haya-Palazuelos Javier",
+        "Ciria-Recasens Manel"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Iron-Deficiency",
+        "Dietary Supplements",
+        "Ferric Compounds",
+        "Ferrous Compounds",
+        "Glycine",
+        "Humans",
+        "Metalloproteins",
+        "Succinates"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23252877/"
+    },
+    {
+      "pmid": "38740692",
+      "title": "Comparative evaluation of different oral iron salts in the management of iron deficiency anemia.",
+      "abstract": "Anemia affects one-fourth of the world's population and is caused mostly by iron deficiency. Iron supplementation is the most essential strategy for preventing iron deficiency anemia. Conventional oral iron salts have many drawbacks such as poor absorption & bioavailability, and poor tolerability resulting in poor clinical outcomes.",
+      "journal": "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences",
+      "year": "2024",
+      "authors": [
+        "Suva Manoj A",
+        "Tirgar Pravin R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study",
+        "Observational Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Anemia, Iron-Deficiency",
+        "Female",
+        "Male",
+        "Retrospective Studies",
+        "Ferrous Compounds",
+        "Ascorbic Acid",
+        "Administration, Oral",
+        "Adult",
+        "Hemoglobins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38740692/"
+    },
+    {
+      "pmid": "39582678",
+      "title": "Low-Dose Prophylactic Oral Iron Supplementation (Ferrous Fumarate, Ferrous Bisglycinate, and Ferrous Sulphate) in Pregnancy Is Not Associated With Clinically Significant Gastrointestinal Complaints: Results From Two Randomized Studies.",
+      "abstract": "Background: Many pregnant women are reluctant to follow the recommendation concerning oral iron prophylaxis due to concerns about gastrointestinal (GI) side effects. Objective: To assess the frequency of GI complaints during low-dose oral iron prophylaxis and compare three iron formulas in equipotent doses: ferrous fumarate versus ferrous bisglycinate versus ferrous sulphate, in healthy women with an uncomplicated single pregnancy. Methods: Results from two randomized, double-blind studies are reported: the Gentofte study comprising 404 women allocated into four groups taking 20, 40, 60, and 80 mg of elemental iron as ferrous fumarate/day and the Naestved study comprising 78 women allocated into two groups: 25 mg of elemental iron as ferrous bisglycinate/day and 50 mg of elemental iron as ferrous sulphate/day between meals from 15 to 19 weeks of gestation to delivery. GI complaints (nausea, vomiting, epigastric pain/pyrosis, belching, meteorism, borborygmi, intestinal colic, flatulence",
+      "journal": "Journal of pregnancy",
+      "year": "2024",
+      "authors": [
+        "Milman Nils Thorm",
+        "Bergholt Thomas"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Ferrous Compounds",
+        "Pregnancy",
+        "Adult",
+        "Gastrointestinal Diseases",
+        "Double-Blind Method",
+        "Glycine",
+        "Anemia, Iron-Deficiency",
+        "Dietary Supplements"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39582678/"
+    },
+    {
+      "pmid": "24071485",
+      "title": "Anemia and iron deficiency before and after bariatric surgery.",
+      "abstract": "Iron deficiency and anemia are changes often associated with obesity. Bariatric surgery is responsible for increasing the iron loss and reducing its absorption. The objective of this study was to evaluate anemia and iron deficiency before and after bariatric surgery and to relate them to possible predisposing factors.",
+      "journal": "Surgery for obesity and related diseases : official journal of the American Society for Bariatric Surgery",
+      "year": "2014",
+      "authors": [
+        "Salgado Wilson",
+        "Modotti Caue",
+        "Nonino Carla Barbosa",
+        "Ceneviva Reginaldo"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anemia",
+        "Body Mass Index",
+        "Dietary Supplements",
+        "Female",
+        "Ferrous Compounds",
+        "Gastric Bypass",
+        "Humans",
+        "Iron Deficiencies",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24071485/"
+    },
+    {
+      "pmid": "37010569",
+      "title": "A randomized controlled trial of thrice-weekly versus thrice-daily oral ferrous fumarate treatment in adult patients with iron-deficiency anemia.",
+      "abstract": "Iron deficiency anemia (IDA) is a common health problem in developing countries. Many studies have shown that low-dose oral iron could have similar efficacy and less gastrointestinal effects in iron deficiency without anemia. This prospective open-labeled randomized controlled study was designed to compare the response of 200 mg ferrous fumarate thrice-weekly (TIW) as not inferior to the thrice-daily (TID) regimen and to assess the incidence of adverse events (AEs) between two regimens in treating adult patients with IDA. The primary endpoint was either an increase in Hb ≥ 3 g/dL, having Hb of 12 g/dL in females or 13 g/dL in males at the 12th week of treatment. Secondary outcomes included adverse events (AEs), red blood cell indices, iron profiles, and patient compliance. Sixty-four patients were randomized: 32 in the TIW arm and the other 32 in the TID arm. The response rates were not different between two arms either with intention to treat analysis (72.0%, 95%CI 56.6-88.5 vs. 71.9%",
+      "journal": "Annals of hematology",
+      "year": "2023",
+      "authors": [
+        "Jongkraijakra Siddhibhong",
+        "Doungngern Thitima",
+        "Sripakdee Warunsuda",
+        "Lekhakula Arnuparp"
+      ],
+      "pub_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Male",
+        "Female",
+        "Humans",
+        "Adult",
+        "Anemia, Iron-Deficiency",
+        "Prospective Studies",
+        "Iron",
+        "Ferrous Compounds",
+        "Anemia",
+        "Hemoglobins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37010569/"
+    },
+    {
+      "pmid": "36107229",
+      "title": "Intravenous ferric derisomaltose versus oral iron for persistent iron deficient pregnant women: a randomised controlled trial.",
+      "abstract": "To compare the efficacy of intravenous (IV) iron (ferric derisomaltose) with oral iron (ferrous fumarate) in women 14-21 weeks pregnant with persistent iron deficiency (ferritin < 30 µg/L).",
+      "journal": "Archives of gynecology and obstetrics",
+      "year": "2023",
+      "authors": [
+        "Hansen Rebecka",
+        "Sommer Veronika Markova",
+        "Pinborg Anja",
+        "Krebs Lone",
+        "Thomsen Lars Lykke"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Pregnancy",
+        "Ferric Compounds",
+        "Anemia, Iron-Deficiency",
+        "Administration, Oral",
+        "Administration, Intravenous",
+        "Trace Elements",
+        "Pregnancy Trimester, Second",
+        "Denmark"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36107229/"
+    },
+    {
+      "pmid": "34629872",
+      "title": "Cost-Effectiveness of Ferrous Fumarate-Folic Acid and Ferrous Gluconate-Multivitamins in a High Prevalence Area of Iron Deficiency Anemia in Indonesia.",
+      "abstract": "Up to now, the combinations of ferrous fumarate-folic acid (FF-FA) and ferrous gluconate-multivitamins (FG-MV) have been implemented by the local government in the province of Papua. Nevertheless, there is no a specific economic evaluation that has been applied to investigate the cost-effectiveness of FF-FA and FG-MV.",
+      "journal": "Therapeutics and clinical risk management",
+      "year": "2021",
+      "authors": [
+        "Rakanita Yasinta",
+        "Syamsunarno Mas Rizky A A",
+        "Sinuraya Rano K",
+        "Suradji Eka W",
+        "Abdulah Rizky"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34629872/"
+    },
+    {
+      "pmid": "39651609",
+      "title": "Effect and safety of intravenous iron compared to oral iron for treatment of iron deficiency anaemia in pregnancy.",
+      "abstract": "Intravenous iron is increasingly used to treat iron-deficient anaemia (IDA) in pregnancy. A previous network meta-analysis suggested that intravenous irons have a greater effect on haematological parameters than oral irons; however, the impact on serious pregnancy complications such as postpartum haemorrhage (PPH) or the need for blood transfusion was unclear. Since then, several new randomised controlled trials (RCTs) have been conducted.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2024",
+      "authors": [
+        "Nicholson Lily",
+        "Axon Emma",
+        "Daru Jahnavi",
+        "Rogozińska Ewelina"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Pregnancy",
+        "Administration, Intravenous",
+        "Administration, Oral",
+        "Anemia, Iron-Deficiency",
+        "Bias",
+        "Blood Transfusion",
+        "Ferric Compounds",
+        "Ferric Oxide, Saccharated"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39651609/"
+    },
+    {
+      "pmid": "15646652",
+      "title": "Comparison of a combination ferrous fumarate product and a polysaccharide iron complex as oral treatments of iron deficiency anemia: a Taiwanese study.",
+      "abstract": "Despite efforts to improve iron supplements for iron deficiency anemia, there is no consensus on products that balance efficacy, safety and tolerability, and cost. Ferrous products are effective, but they are associated with more gastrointestinal side effects than ferric products. Ferric products tend to have lower absorption. We present results from a 12-week study that randomized 72 people with uncomplicated iron deficiency anemia to receive a ferrous iron supplement (Ferall, a combination of ferrous fumarate with ascorbic acid, folic acid, and cyanocobalamin) or a ferric iron polysaccharide complex (Niferex, ferro-glycine sulfate) plus ascorbic acid. The ferrous product was significantly more effective, the primary and secondary endpoints including changes in levels of hemoglobin and serum ferritin. There was a slightly higher frequency of gastrointestinal side effects in patients taking the ferrous product, but both supplements were well tolerated. No participant withdrew from the ",
+      "journal": "International journal of hematology",
+      "year": "2004",
+      "authors": [
+        "Liu Ta-Chih",
+        "Lin Shen-Fung",
+        "Chang Chao-Sung",
+        "Yang Wen-Chi",
+        "Chen Tyen-Po"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Anemia, Iron-Deficiency",
+        "Ascorbic Acid",
+        "Female",
+        "Ferritins",
+        "Ferrous Compounds",
+        "Folic Acid",
+        "Hemoglobins",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15646652/"
+    },
+    {
+      "pmid": "34629872",
+      "title": "Cost-Effectiveness of Ferrous Fumarate-Folic Acid and Ferrous Gluconate-Multivitamins in a High Prevalence Area of Iron Deficiency Anemia in Indonesia.",
+      "abstract": "Up to now, the combinations of ferrous fumarate-folic acid (FF-FA) and ferrous gluconate-multivitamins (FG-MV) have been implemented by the local government in the province of Papua. Nevertheless, there is no a specific economic evaluation that has been applied to investigate the cost-effectiveness of FF-FA and FG-MV.",
+      "journal": "Therapeutics and clinical risk management",
+      "year": "2021",
+      "authors": [
+        "Rakanita Yasinta",
+        "Syamsunarno Mas Rizky A A",
+        "Sinuraya Rano K",
+        "Suradji Eka W",
+        "Abdulah Rizky"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34629872/"
+    }
+  ]
+}

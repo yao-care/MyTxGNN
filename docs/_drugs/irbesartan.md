@@ -5,7 +5,7 @@ drugbank_id: "DB01029"
 drug_name: "Irbesartan"
 kg_predictions: 141
 dl_predictions: 21
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 141
 brands: []
 permalink: /drugs/irbesartan/
@@ -21,7 +21,7 @@ permalink: /drugs/irbesartan/
 | **DrugBank ID** | [DB01029](https://go.drugbank.com/drugs/DB01029) |
 | **KG Predictions** | 141 |
 | **DL Predictions (≥0.7)** | 21 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

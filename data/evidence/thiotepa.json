@@ -1,0 +1,1072 @@
+{
+  "drug": "Thiotepa",
+  "drugbank_id": "DB04572",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:33:21Z",
+  "indications": [
+    {
+      "indication": "non-papillary transitional cell carcinoma of the bladder",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "ovarian clear cell adenocarcinoma",
+      "evidence_level": "L3",
+      "trials": 1,
+      "articles": 2,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 1,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 2,
+        "total_trials": 1,
+        "total_articles": 2
+      }
+    },
+    {
+      "indication": "Hodgkins lymphoma",
+      "evidence_level": "L2",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 17,
+        "phase1_trials": 2,
+        "other_trials": 1,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 9,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "non-Hodgkin lymphoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 17,
+        "phase1_trials": 1,
+        "other_trials": 1,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 7,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "lymphosarcoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 15,
+        "phase1_trials": 2,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 3,
+        "other_articles": 6,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 61,
+  "total_articles": 32,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002977",
+      "title": "A Phase I Trial of Melphalan and Thiotepa Followed by Autologous or Syngeneic Peripheral Blood Stem Cell (PBSC) Rescue in Patients With a Complete Response Following Standard Therapy for Stage III/IV Epithelial Ovarian Cancer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1997-01",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining chemotherapy with peripheral stem cell transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more tumor cells.\n\nPURPOSE: Phase I trial to study the effectiveness of melphalan and thiotepa followed by peripheral stem cell transplantation in treating patients with stage III or stage IV epithelial ovarian cancer in complete remission.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically confirmed stage III/IV ovarian epithelial cancer in first or second clinical complete remission after receiving a minimum of 4-10 courses of chemotherapy consisting of paclitaxel and either cisplatin or carboplatin Ovarian epithelial cancer of following histol",
+      "endpoints": [],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00002977"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01182415",
+      "title": "Phase II Trial of Hihg-Dose Thiotepa, Busulfan, Cyclophosphamide, and Rituximab With Autologous Stem Cell Transplantation for Patients With CNS Involvement by Non-Hodgkin's Lymphoma or Primary CNS Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2016-12",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Current standard treatments for lymphoma involving the central nervous system include chemotherapy or whole brain radiation therapy (WBRT). However, many patients do not respond to this treatment, and some of the patients who do respond relapse after treatment.\n\nPrevious research has shown that a stem cell transplant of a patient's own cells (autologous stem cell transplant) may be more effective for some patients with lymphoma involving the CNS. In previous research using autologous stem cell t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* One of the following clinical criteria:secondary CNS NHL; synchronous CNS NHL; relapsed PCNSL; relapsed IOL; PCNSL or IOL which has only achieved a PR after adequate initial therapy\n* Must have CNS or intraocular involvement by NHL\n* Subjects with secondary CNS NHL, relapsed P",
+      "endpoints": [
+        "Proportion of Patients With CNS Involvement by B-cell NHL, Relapsed PCNSL, or Relapsed PIOL Who Are Alive and Progression-free at One Year"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01182415"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00143559",
+      "title": "Haploidentical Hematopoietic Stem Cell Transplantation Utilizing Partial T-Cell Depletion as Immunotherapy for Hematologic Malignancies",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-08",
+      "completion_date": "2009-01",
+      "country": "United States",
+      "enrollment": 17,
+      "brief_summary": "Blood and marrow stem cell transplant has improved the outcome for patients with high-risk hematologic malignancies. However, most patients do not have an appropriate HLA (immune type) matched sibling donor available and/or are unable to identify an acceptable unrelated HLA matched donor through the registries in a timely manner. Another option is haploidentical transplant using a partially matched family member donor.\n\nAlthough haploidentical transplant has proven curative in many patients, thi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nEligible participants were assigned to one of two different strata dependent on diagnosis, disease status and/or past transplant experience. Both strata received the same intervention but will be followed and analyzed separately.\n\n* Group A must have one of the following diagnos",
+      "endpoints": [
+        "To measure the rate of disease relapse by six months posttransplant in children and young adults with refractory hematologic malignancies who receive a haploidentical stem cell graft processed using the investigational CliniMACS cell sorting device."
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00143559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02790515",
+      "title": "Provision of TCRγδ T Cells and Memory T Cells Plus Selected Use of Blinatumomab in Naïve T-cell Depleted Haploidentical Donor Hematopoietic Cell Transplantation for Hematologic Malignancies Relapsed or Refractory Despite Prior Transplantation",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2016-07-14",
+      "completion_date": "2026-07-01",
+      "country": "United States",
+      "enrollment": 170,
+      "brief_summary": "This study seeks to examine treatment therapy that will reduced regimen-related toxicity and relapse while promoting rapid immune reconstitution with limited serious graft-versus-host-disease (GVHD) and also improve disease-free survival and quality of life. The investigators propose to evaluate the safety and efficacy of selective naive T-cell depleted (by TCRɑβ and CD45RA depletion, respectively) haploidentical hematopoietic cell transplant (HCT) following reduced intensity conditioning regime",
+      "eligibility_criteria": "Inclusion Criteria for Transplant Recipient:\n\n* Age less than or equal to 21 years.\n* Any of the following hematologic malignancies that has relapsed or remains refractory after prior allogeneic HCT (this includes any stage of disease - such as refractory due to induction failure, refractory in rela",
+      "endpoints": [
+        "The number of patients engrafted by day +30 post-transplant"
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02790515"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02508038",
+      "title": "TCR-αβ+ and CD19+ Depleted KIR/KIR Ligand-mismatched Haploidentical Hematopoietic Stem Cell Transplant and Zoledronate for Pediatric Relapsed/Refractory Hematologic Malignancies and High Risk Solid Tumors",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2016-02-12",
+      "completion_date": "2027-12",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "This phase I trial studies the safety of transplantation with a haploidentical donor peripheral blood stem cell graft depleted of TCRαβ+ cells and CD19+ cells in conjunction with the immunomodulating drug, Zoledronate, given in the post-transplant period to treat pediatric patients with relapsed or refractory hematologic malignancies or high risk solid tumors.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Availability of an eligible haploidentical donor\n* Hematologic malignancy or solid tumor\n* Patients with more than one malignancy (hematologic or solid tumor) are eligible\n* Patients with hematologic malignancy must have no HLA identical sibling or suitable unrelated donor OR ",
+      "endpoints": [
+        "Incidence of acute graft versus host disease (GVHD)",
+        "Incidence of graft failure"
+      ],
+      "sponsor": "University of Wisconsin, Madison",
+      "url": "https://clinicaltrials.gov/study/NCT02508038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02861417",
+      "title": "Timed Sequential Busulfan and Post Transplant Cyclophosphamide for Allogeneic Transplantation",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2016-08-05",
+      "completion_date": "2026-08-31",
+      "country": "United States",
+      "enrollment": 204,
+      "brief_summary": "This phase II trial studies the side effect of busulfan, fludarabine phosphate, and post-transplant cyclophosphamide in treating patients with blood cancer undergoing donor stem cell transplant. Drugs used in chemotherapy, such as busulfan, fludarabine phosphate and cyclophosphamide work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving chemotherapy such as busulfan and fludarabine phospha",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with high-risk hematologic malignancies with anticipated poor prognosis with non transplant therapy, including those in remission or with induction failure and after treated or untreated relapse; Diagnoses to be included a) Acute myeloid leukemia; b) Acute lymphocytic",
+      "endpoints": [
+        "Non-relapse mortality rate"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02861417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00719888",
+      "title": "Transplantation of Umbilical Cord Blood for Patients With Hematological Diseases With Cyclophosphamide/Fludarabine/Total Body Irradiation or Cyclophosphamide/Fludarabine/Thiotepa/Total Body Irradiation Myeloablative Preparative Regimen",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-11-18",
+      "completion_date": "2024-12-19",
+      "country": "United States",
+      "enrollment": 135,
+      "brief_summary": "This phase II trial studies how well giving an umbilical cord blood transplant together with cyclophosphamide, fludarabine, and total-body irradiation (TBI) works in treating patients with hematologic disease. Giving chemotherapy, such as cyclophosphamide and fludarabine, and TBI before a donor umbilical cord blood transplant helps stop the growth of cancer and abnormal cells and helps stop the patient's immune system from rejecting the donor's stem cells. When the healthy stem cells from a dono",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* GRAFT CRITERIA:\n\n  * UCB units will be selected according to current umbilical cord blood graft selection algorithm; one or 2 UCB units may be used to achieve the required cell dose\n  * The UCB graft is matched at 4-6 human leukocyte antigen (HLA)-A, B, DRB1 antigens with the ",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00719888"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00038857",
+      "title": "Megadose CD34 Selected Progenitor Cells for Transplantation in Patients With Advanced Hematological Malignant Diseases",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-09",
+      "completion_date": "2009-06",
+      "country": "United States",
+      "enrollment": 29,
+      "brief_summary": "Donor:\n\nThis clinical study will evaluate the feasibility of a purified CD34 peripheral blood progenitor cell (PBPC) transplants in patients with hematological malignancies.\n\nThe primary objectives of the study are to evaluate the recipient obtaining donor derived neutrophil engraftment and the incidence of acute graft versus host disease \\[GvHD\\] (grade III-IV).\n\nSecondary objectives include assessments of recipient having donor derived platelet engraftment, incidence of graft failure and chron",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female recipients must have histopathologically confirmed diagnosis of hematological or lymphatic malignancy in one of the following categories:\n2. Acute Leukemia: Recipients must have acute leukemia in second or greater remission in relapse, or primary refractory dis",
+      "endpoints": [
+        "Number of Participants With Absolute Neutrophil Count Engraftment"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00038857"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01598025",
+      "title": "Biparental HLA Haplotype Disparate T-cell Depleted Transplants for Patients Lacking an HLACompatible Donor",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2012-05-02",
+      "completion_date": "2017-10-16",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "Approximately 30% of patients who are candidates for bone marrow transplants do not have an HLA-matched, or close to matched, donor available. For this reason, doctors have been testing ways to make transplants from HLA-partially matched donors as safe and effective as transplants from HLA-matched donors.\n\nThis study is being done to test the safety and the treatment results of a specific kind of transplant. In this transplant, blood from two donors will be used. Each donor will share one half o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Malignant conditions for which CD34+ selected, T-cell depleted allogeneic hematopoietic stem cell transplantation is indicated such as:\n\nAML in 1st remission - for patients whose AML does not have 'good risk' cytogenetic features (i.e. t 8;21, t15;17, inv 16).\n\n* Secondary AML",
+      "endpoints": [
+        "Efficacy of HLA-haploidentical Biparental T-cell Depleted CD34+ Peripheral Blood Stem Cell Transplants"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01598025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01050764",
+      "title": "A Feasibility Trial of Post-Transplant Infusion of Allogeneic Regulatory T Cells and Allogeneic Conventional T Cells in Patients With Hematologic Malignancies Undergoing Allogeneic Myeloablative Hematopoietic Cell Transplantation From Haploidentical-Related Donors",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-06",
+      "completion_date": "2014-06",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "Patients with hematologic malignancies will receive myeloablative chemotherapy followed by stem cell rescue with bone marrow or hematopoietic peripheral blood stem cells collected by apheresis from a filgrastim- (G-CSF)-mobilized haploidentical related-donor, ie, hematopoietic peripheral blood stem cell transplant (HSCT).",
+      "eligibility_criteria": "Inclusion Criteria\n\nRECIPIENT\n\n* Histopathologically-confirmed:\n* Acute leukemia (in first remission with poor risk factors and molecular prognosis)\n* Acute myelogenous leukemia (AML) with -5,-7, t (6;9), tri8, -11\n* Acute lymphoblastic leukemia (ALL) with Ph+ t (9;22), t (4;22), (q34;q11)\n* Acute l",
+      "endpoints": [
+        "Maximum-tolerated Dose (MTD) of Regulatory and Conventional T-cells"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT01050764"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06625359",
+      "title": "Efficacy of High-dose Chemotherapy with Thiotepa, Busulfan, and Cyclophosphamide Before Autologous Stem Cell Transplantation in Patients with Primary/secondary Central Nervous System Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2015-06-01",
+      "completion_date": "2024-09-30",
+      "country": "South Korea",
+      "enrollment": 17,
+      "brief_summary": "The involvement of the central nervous system (CNS) by non-Hodgkin lymphoma (NHL) has carried a poor prognosis. For both of primary central nervous system lymphoma (PCNSL) and secondary central nervous system lymphoma (SCNSL), high-dose methotrexate (HD- MTX) based chemotherapy and combined modality have significantly improved the previously poor response rates and prognosis. However, in PCNSL, relapse rates have remained high, with only 20% to 30% patients achieving a durable long-term remissio",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ∙Patients with histologically confirmed primary central nervous system lymphoma or secondary CNS lymphoma defined as either synchronous CNS involvement of sys- temic NHL or as a site of recurrence in a patient s with a history of systemic NHL\n\n  * Patients who achieved remissi",
+      "endpoints": [
+        "Progression-free survival (PFS)"
+      ],
+      "sponsor": "Seoul National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06625359"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01786018",
+      "title": "Allogeneic Transplantation After a Conditioning With Thiotepa, Busulfan and Fludarabin for the Treatment of Refractory/Early Relapsed Aggressive B-cell Non Hodgkin Lymphomas: a Phase II Multi-Center Trial",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2013-02",
+      "completion_date": "2015-02",
+      "country": "Italy",
+      "enrollment": 42,
+      "brief_summary": "The purpose of this study is to evaluate progression free survival, transplant-related morbidity (TRM) at day +100 and at +365, overall survival and incidence of acute and chronic GVHD in refractory/early relapsed aggressive B-cell non Hodgkin lymphomas patients treated with allogeneic Transplantation after a conditioning with Thiotepa, Busulfan and fludarabin.",
+      "eligibility_criteria": "Patient inclusion criteria:\n\n* Patients with refractory/relapsed aggressive B-cell non Hodgkin lymphomas after frontline therapy.\n* Patients with stable disease or partial or complete remission (PET-negative) after salvage therapy\n* Patients younger than 65 years old\n* A fully HLA-identical sibling ",
+      "endpoints": [
+        "Progression free survival"
+      ],
+      "sponsor": "Azienda Ospedaliera San Giovanni Battista",
+      "url": "https://clinicaltrials.gov/study/NCT01786018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05021770",
+      "title": "Safety and Efficacy of Orelabrutinib（O） in Combination With Thiotepa（T） in Refractory and Relapsed Primary CNS Lymphoma： A Single-arm, Multicenter Phase Ib/II Study（OT）",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-12",
+      "completion_date": "2024-06",
+      "country": "China",
+      "enrollment": 29,
+      "brief_summary": "The purpose of this study was to investigate the maximum tolerated dose and efficacy of Orelabrutinib combined with Thiotepa in refractory and relapsed primary central nervous system lymphoma (PCNSL).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men and woman who aged 18 or older on the day of consenting to the study.\n2. Participants must be able to understand and willing to sign a written informed consent document.\n3. ECOG performance status of 0 to 2.\n4. Histologically documented primary central nervous system(CNS)",
+      "endpoints": [
+        "Part 1 Dose Escalation：The maximum tolerated dose (MTD)",
+        "Part 2 Dose Expansion：ORR (Investigator-Assessed)"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT05021770"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06680661",
+      "title": "ABBA CORD: Double Umbilical Cord Blood Transplants With Abatacept for Graft Versus Host Disease Prophylaxis",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-02-25",
+      "completion_date": "2028-10-31",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The goal of this clinical trial is to see if adding abatacept to tacrolimus and MMF prevents or reduces the chances of acute graft versus host disease which is a complication that can occur after transplant in participants with blood cancer. The usual therapy for graft versus host disease prevention after a cord blood transplant includes tacrolimus and MMF. The main question this clinical trial aims to answer is whether or not abatacept will be safe and effective in reducing aGVHD rates in dCBT.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with the following hematologic malignancies:\n\n  * Acute myelogenous leukemia (AML): High-risk and intermediate-risk AML including:\n\n    * Antecedent hematological disease (e.g., myelodysplasia (MDS))\n    * Treatment-related leukemia\n    * Complete Remission (CR1) with",
+      "endpoints": [
+        "Severe aGVHD free survival"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT06680661"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03615105",
+      "title": "Allogeneic Hematopoietic Cell Transplantation Using α/β+ T-lymphocyte Depleted Grafts From HLA Mismatched Donors",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2018-07-25",
+      "completion_date": "2024-03-06",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "This study is being done to learn whether a new method to prevent rejection between the donor immune system and the patient's body is effective.",
+      "eligibility_criteria": "Subject Inclusion Criteria:\n\n* Patients with any of the following hematologic malignancies who are considered to be eligible for allogeneic transplantation:\n\n  * Acute lymphoid leukemia (ALL) in first complete remission (CR1) with high risk for relapse including:\n\n    * Detectable minimal residual d",
+      "endpoints": [
+        "the Number of Incidences of Grade 3-4 Acute GVHD"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT03615105"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05884333",
+      "title": "Optimized Cord Blood Transplantation for the Treatment of High-Risk Hematologic Malignancies in Adults",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-05-22",
+      "completion_date": "2028-05-22",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "Cord blood transplants (CBT) are a standard treatment for adults with blood cancers. MSK has developed a standard (\"optimized\") practice for cord blood transplant (CBT). This optimized practice includes how patients are evaluated for transplant, the conditioning treatment (standard chemotherapy and total body irradiation therapy) given to prepare the body for transplant, the amount of stem cells transplanted, and how patients are followed during and after transplant.The purpose of this study is ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* I. Acute myelogenous leukemia (AML):\n* Complete first remission (CR1) at high risk for relapse such as any of the following:\n\n  * Known prior diagnosis of myelodysplasia (MDS) or myeloproliferative disorder (MPD).\n  * Therapy-related AML.\n  * Presence of extramedullary leukemi",
+      "endpoints": [
+        "Overall survival (OS)"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT05884333"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002471",
+      "title": "Phase II Trial of Intensive, Short-Course Combination Chemotherapy in the Treatment of Newly Diagnosed Patients With Poor-Risk Nonlymphoblastic Lymphoma and Acute B-Lymphoblastic Leukemia and in Patients With Recurrent Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1990-02",
+      "completion_date": "2003-01",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one drug may kill more cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy in treating patients who have acute B-lymphoblastic leukemia or recurrent non-Hodgkin's lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Newly diagnosed undifferentiated nonlymphoblastic non-Hodgkin's lymphoma (Burkitt's or non-Burkitt's) Newly diagnosed large cell lymphoma with CNS involvement Recurrent non-Hodgkin's lymphoma L-3 and B-cell leukemia included At least 1 of the following required: LDH at least",
+      "endpoints": [],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00002471"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00007982",
+      "title": "CAMP 004A - Phase 2 Study Of Intensive Chemotherapy (BET) For Selected Categories Of Malignant Central Nervous System Tumor",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1999-04",
+      "completion_date": "2008-05",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining chemotherapy with peripheral stem cell transplant may allow the doctor to give higher doses of chemotherapy drugs and kill more cancer cells.\n\nPURPOSE: This phase II trial is studying how well chemotherapy and peripheral stem cell transplant work in treating patients with central nervous system cancer.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed malignant tumors\n\n  * Anaplastic astrocytoma\n  * Oligodendroglioma\n  * Germ cell tumor\n  * Medulloblastoma\n  * Primary neuroectodermal tumor\n  * Esthesioneuroblastoma\n  * CNS lymphoma (primary or systemic disease)\n* Multifocal intracranial disease",
+      "endpoints": [
+        "Response rate",
+        "Disease-free suvival",
+        "Overall survival"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00007982"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00644371",
+      "title": "Allogeneic Transplantation of Haematopoietic Stem Cells Following Non-myeloablative Conditioning With Melphalan, Fludarabine, Thiotepa, Rituximab and Ibritumomab Tiuxetan (Zevalin) in Patients With Aggressive Non-Hodgkin's B-cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2013-02-04",
+      "country": "Spain",
+      "enrollment": 20,
+      "brief_summary": "To evaluate the use of ibritumomab tiuxetan (Zevalin) as part of the non myeloablative conditioning with melphalan, fludarabine and thiotepa in patients submitted to allogeneic transplantation of haematopoietic stem cells from family donor's peripheral blood.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent\n2. Histologically confirmed B-cell lymphoma of the following subtypes:\n\n   * LBCDL\n   * Grade 3b follicular lymphoma\n   * Mantle-cell lymphoma\n   * Transformed B-cell lymphoma\n   * Burkitt lymphoma in patients not eligible for a conventional allogenei",
+      "endpoints": [
+        "progression-free survival"
+      ],
+      "sponsor": "Grupo Español de Linfomas y Transplante Autólogo de Médula Ósea",
+      "url": "https://clinicaltrials.gov/study/NCT00644371"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01362452",
+      "title": "Donor-Derived, CD19-Specific T Cell Infusion in Patients With B-Lineage Lymphoid Malignancies After Umbilical Cord Blood Transplantation",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-12-07",
+      "completion_date": "2017-07-25",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "The goal of this clinical research study is to learn if an infusion of white blood cells (called T cells) that have been genetically changed is safe to give patients who have received an umbilical cord blood transplant (UCBT). Researchers want to learn if these genetically changed T-cells are effective in attacking cancer cells in patients with advanced B-cell lymphoma or leukemia after they have received an UCBT, how long the changed T-cells stay in the body, and if adding them to standard tran",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with a history of CD19+ lymphoid malignancies that are primary refractory to treatment (do not achieve complete remission after first course of therapy) or are beyond first remission including second or greater remission or active disease.\n2. Patients in first remiss",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of T-Cell Infusions"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01362452"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "19395997",
+      "title": "Survival after second-line intraperitoneal therapy for the treatment of epithelial ovarian cancer: the Gynecologic Oncology Group experience.",
+      "abstract": "To assess the association between patient-disease characteristics and overall survival (OS) after second-line intraperitoneal (IP) treatment of ovarian cancer.",
+      "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+      "year": "2009",
+      "authors": [
+        "Markman Maurie",
+        "Brady Mark",
+        "Hutson Alan",
+        "Berek Jonathan S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Aged",
+        "Antineoplastic Agents",
+        "Cisplatin",
+        "Etoposide",
+        "Female",
+        "Fluorouracil",
+        "Humans",
+        "Infusions, Parenteral",
+        "Interferon alpha-2"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19395997/"
+    },
+    {
+      "pmid": "9072220",
+      "title": "[The morphological aspects of a study of the efficacy of chemotherapy in ovarian cancer].",
+      "abstract": "The authors have analyzed therapeutic pathomorphosis of carcinoma of the ovaries in 66 patients depending on the number of courses received and histological structure of the tumour. It has been established that the most serous carcinoma of the ovaries does not practically respond to the one course of chemotherapy while its metastases to the omentum do so better. Increase in the number of courses of chemotherapy promotes regression of primary tumour. Carcinoma mucosum is scarcely amenable to one course of chemotherapy as well, and like other carcinomas requires polychemotherapy and choice of chemotherapeutic agents to suit individual patients. Highly responsive to chemotherapy are dysgerminoma and clear cell carcinoma. As to the other histological forms of carcinoma, they are not treatable by chemotherapy, which fact attests to the need of searching for various and different means capable of influencing the carcinoma of the above localization.",
+      "journal": "Likars'ka sprava",
+      "year": "1996",
+      "authors": [
+        "Iakymova T P",
+        "Pavlova T D",
+        "Kartashov S M",
+        "Iakymov D Iu"
+      ],
+      "pub_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Adenocarcinoma, Mucinous",
+        "Adult",
+        "Aged",
+        "Antibiotics, Antineoplastic",
+        "Antineoplastic Agents, Alkylating",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cisplatin",
+        "Cyclophosphamide",
+        "Doxorubicin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9072220/"
+    },
+    {
+      "pmid": "25568347",
+      "title": "R-MPV followed by high-dose chemotherapy with TBC and autologous stem-cell transplant for newly diagnosed primary CNS lymphoma.",
+      "abstract": "High-dose methotrexate-based chemotherapy is the mainstay of treatment of primary central nervous system lymphoma (PCNSL), but relapses remain frequent. High-dose chemotherapy (HDC) with autologous stem-cell transplant (ASCT) may provide an alternative to address chemoresistance and overcome the blood-brain barrier. In this single-center phase-2 study, newly diagnosed PCNSL patients received 5 to 7 cycles of chemotherapy with rituximab, methotrexate (3.5 g/m(2)), procarbazine, and vincristine (R-MPV). Those with a complete or partial response proceeded with consolidation HDC with thiotepa, cyclophosphamide, and busulfan, followed by ASCT and no radiotherapy. Primary end point was 1-year progression-free survival (PFS), N = 32. Median age was 57, and median Karnofsky performance status 80. Following R-MPV, objective response rate was 97%, and 26 (81%) patients proceeded with HDC-ASCT. Among all patients, median PFS and overall survival (OS) were not reached (median follow-up: 45 months)",
+      "journal": "Blood",
+      "year": "2015",
+      "authors": [
+        "Omuro Antonio",
+        "Correa Denise D",
+        "DeAngelis Lisa M",
+        "Moskowitz Craig H",
+        "Matasar Matthew J"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antibodies, Monoclonal, Murine-Derived",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Busulfan",
+        "Central Nervous System Neoplasms",
+        "Combined Modality Therapy",
+        "Cyclophosphamide",
+        "Cytarabine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25568347/"
+    },
+    {
+      "pmid": "33956047",
+      "title": "Outcomes Associated With Thiotepa-Based Conditioning in Patients With Primary Central Nervous System Lymphoma After Autologous Hematopoietic Cell Transplant.",
+      "abstract": "Primary central nervous system lymphoma (PCNSL) requires induction and consolidation to achieve potential cure. High-dose therapy and autologous hematopoietic cell transplant (AHCT) is an accepted and effective consolidation strategy for PCNSL, but no consensus exists on the optimal conditioning regimens.",
+      "journal": "JAMA oncology",
+      "year": "2021",
+      "authors": [
+        "Scordo Michael",
+        "Wang Trent P",
+        "Ahn Kwang W",
+        "Chen Yue",
+        "Ahmed Sairah"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Central Nervous System",
+        "Cohort Studies",
+        "Cyclophosphamide",
+        "Hematopoietic Stem Cell Transplantation",
+        "Humans",
+        "Lymphoma, Non-Hodgkin",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33956047/"
+    },
+    {
+      "pmid": "24491026",
+      "title": "Effectiveness and safety of thiotepa as conditioning treatment prior to stem cell transplant in patients with central nervous system lymphoma.",
+      "abstract": "Thiothepa is a cytostatic agent used in managing solid malignancies, and also as conditioning treatment before hematopoietic stem cell transplantation [HSCT]. This systematic review summarizes evidence on its effectiveness and safety, in patients with central nervous system [CNS] lymphoma.",
+      "journal": "Leukemia & lymphoma",
+      "year": "2014",
+      "authors": [
+        "Kokolo Madzouka B",
+        "Fergusson Dean",
+        "O'Neill Joseph",
+        "Tay Jason",
+        "Tinmouth Alan T"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Central Nervous System Neoplasms",
+        "Hematopoietic Stem Cell Mobilization",
+        "Hematopoietic Stem Cell Transplantation",
+        "Humans",
+        "Lymphoma",
+        "Myeloablative Agonists",
+        "Neoplasm Recurrence, Local",
+        "Publication Bias",
+        "Thiotepa",
+        "Transplantation Conditioning"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24491026/"
+    },
+    {
+      "pmid": "29500148",
+      "title": "Thiotepa, Etoposide, Cyclophosphamide, Cytarabine, and Melphalan (TECAM) Conditioning Regimen for Autologous Stem Cell Transplantation in Lymphoma.",
+      "abstract": "High-dose chemotherapy and autologous stem cell transplantation (ASCT) is the current standard of care for relapsed non-Hodgkin lymphoma (NHL) and Hodgkin lymphoma (HL). Conditioning regimens with high-dose carmustine have been associated with idiopathic pneumonitis syndrome. We, therefore, created a modified alternative TECAM conditioning regimen, consisting of etoposide, thiotepa, cytarabine, cyclophosphamide, and melphalan.",
+      "journal": "Clinical lymphoma, myeloma & leukemia",
+      "year": "2018",
+      "authors": [
+        "Grisariu Sigal",
+        "Shapira Michael Y",
+        "Or Reuven",
+        "Avni Batia"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cyclophosphamide",
+        "Cytarabine",
+        "Etoposide",
+        "Female",
+        "Hematopoietic Stem Cell Transplantation",
+        "Hodgkin Disease"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29500148/"
+    },
+    {
+      "pmid": "32229199",
+      "title": "Durable Survival Outcomes in Primary and Secondary Central Nervous System Lymphoma After High-dose Chemotherapy and Autologous Stem Cell Transplantation Using a Thiotepa, Busulfan, and Cyclophosphamide Conditioning Regimen.",
+      "abstract": "High-dose chemotherapy (HDC) with autologous stem cell transplantation (ASCT) has been investigated in patients with primary central nervous system lymphoma (PCNSL) and non-Hodgkin lymphoma (NHL) with CNS involvement and has shown promising results.",
+      "journal": "Clinical lymphoma, myeloma & leukemia",
+      "year": "2020",
+      "authors": [
+        "Young Patricia A",
+        "Gaut Daria",
+        "Kimaiyo Davis K",
+        "Grotts Jonathan",
+        "Romero Tahmineh"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Busulfan",
+        "Central Nervous System Neoplasms",
+        "Cyclophosphamide",
+        "Disease-Free Survival",
+        "Female",
+        "Humans",
+        "Lymphoma",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32229199/"
+    },
+    {
+      "pmid": "29035395",
+      "title": "Replacing carmustine by thiotepa and cyclophosphamide for autologous stem cell transplantation in Hodgkin's and non-Hodgkin's B-cell lymphoma.",
+      "abstract": "This study aimed to compare the real-life results of TECAM, a thiotepa-based conditioning regimen consisting of thiotepa (40 mg/m2 days -5 to -2), etoposide (200 mg/m2 days -6 to -3), cytarabine (200 mg/m2 days -4 to -1), cyclophosphamide (60 mg/kg day -3), and melphalan (60 mg/m2 days -2 to -1) with that of the conventional carmustine-based regimen BEAM. We reviewed 125 consecutive patients who underwent a first autologous transplantation (ASCT) for B-cell lymphomas at a large tertiary transplantation center between 1999 and 2014. TECAM (n=65) and BEAM (n=60) had comparable results (3yPFS 49 vs 62%, P=0.16; 3yOS 64 vs 71%, P=0.44; TRM 1.6 vs 5%, P=0.35) without a difference in toxicity or time to engraftment. Notably, comparable outcomes were observed even though patients treated with TECAM were older (55 vs 44) and had a trend towards more prior lines of therapy (>2 prior lines: 43 vs 27%, P=0.08). In this regard, 23% of TECAM patients were over the age of 65 yet could withstand ther",
+      "journal": "Bone marrow transplantation",
+      "year": "2018",
+      "authors": [
+        "Joffe E",
+        "Rosenberg D",
+        "Rozovski U",
+        "Perry C",
+        "Kirgner I"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Antineoplastic Agents, Alkylating",
+        "Carmustine",
+        "Cyclophosphamide",
+        "Female",
+        "Hematopoietic Stem Cell Transplantation",
+        "Hodgkin Disease",
+        "Humans",
+        "Lymphoma, Non-Hodgkin",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29035395/"
+    },
+    {
+      "pmid": "24471910",
+      "title": "Great expectations? Conditioning with busulfan, melphalan and thiotepa in recurrent Hodgkin lymphoma.",
+      "abstract": "",
+      "journal": "Leukemia & lymphoma",
+      "year": "2014",
+      "authors": [
+        "Kosuri Satyajit",
+        "van Besien Koen"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Female",
+        "Hematopoietic Stem Cell Transplantation",
+        "Hodgkin Disease",
+        "Humans",
+        "Male",
+        "Transplantation Conditioning"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24471910/"
+    },
+    {
+      "pmid": "28870642",
+      "title": "High-dose Thiotepa, Busulfan, Cyclophosphamide, and Autologous Stem Cell Transplantation as Upfront Consolidation for Systemic Non-Hodgkin Lymphoma With Synchronous Central Nervous System Involvement.",
+      "abstract": "Synchronous involvement of the central nervous system (CNS) at the diagnosis of systemic non-Hodgkin lymphoma (NHL) is associated with an increased risk for relapse despite complete remission to initial therapy. High-dose chemotherapy with a CNS-directed conditioning regimen followed by autologous stem cell transplantation (ASCT) holds promise as a consolidative approach.",
+      "journal": "Clinical lymphoma, myeloma & leukemia",
+      "year": "2017",
+      "authors": [
+        "Qualls David",
+        "Sullivan Andrew",
+        "Li Shuli",
+        "Brunner Andrew M",
+        "Collier Kerry"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Busulfan",
+        "Central Nervous System",
+        "Combined Modality Therapy",
+        "Cyclophosphamide",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28870642/"
+    },
+    {
+      "pmid": "21928053",
+      "title": "High-dose thiotepa, etoposide and carboplatin as conditioning regimen for autologous stem cell transplantation in patients with high-risk non-Hodgkin lymphoma.",
+      "abstract": "High-dose chemotherapy conditioning regimens followed by autologous stem cell transplantation generally provide good results in non-Hodgkin lymphoma. We have evaluated the effects of a high-dose regimen comprising thiotepa, etoposide and carboplatin. After debulking and mobilization with high-dose cyclophosphamide or other schedules, forty-five patients at various disease stages were conditioned with thiotepa, etoposide and carboplatin prior to autologous stem cell transplantation. The overall response rate was 77.8% (30 CR, 66.7%; 5 PR, 11.1%). Ten patients (22.2%) did not respond. Two patients (4.4%) died from transplant-related complications. The mean 5-year overall survival was 71.1%: 12 patients relapsed within the first 5 years of follow-up. The overall response rate and 5-year overall survival were better for patients with an International Prognostic Index (IPI) 1 at diagnosis than for those with IPI 2 and IPI 3 (P<0.005 for all). The thiotepa, etoposide and carboplatin conditio",
+      "journal": "Clinical and experimental medicine",
+      "year": "2012",
+      "authors": [
+        "Falzetti Franca",
+        "Di Ianni Mauro",
+        "Ballanti Stelvio",
+        "Iodice Giuseppe",
+        "Reale Antonia"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antineoplastic Agents",
+        "Carboplatin",
+        "Disease-Free Survival",
+        "Etoposide",
+        "Female",
+        "Humans",
+        "Kaplan-Meier Estimate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21928053/"
+    },
+    {
+      "pmid": "30989325",
+      "title": "Thiotepa, busulfan, and cyclophosphamide or busulfan, cyclophosphamide, and etoposide high-dose chemotherapy followed by autologous stem cell transplantation for consolidation of primary central nervous system lymphoma.",
+      "abstract": "Primary central nervous system lymphoma (PCNSL) is a rare extranodal non-Hodgkin lymphoma for which standard treatment has yet to be established. High-dose chemotherapy followed by autologous stem cell transplantation (ASCT) is a suitable consolidation strategy for patients who respond to induction chemotherapy. The purpose of this study was to compare the outcome and toxicity profile of the combination of busulfan, cyclophosphamide, and etoposide (BuCyE) with that of the combination of thiotepa, busulfan, and cyclophosphamide (TBC) as conditioning regimens of upfront ASCT for consolidation therapy in PCNSL. The PCNSL registry data set, prospectively collected from March 1993 to May 2017 at Asan Medical Center, was reviewed retrospectively. Patients with objective response to induction chemotherapy who received BuCyE or TBC as conditioning regimen for ASCT were included in the analysis. Primary endpoints were overall survival (OS) and progression-free survival (PFS). Among 241 patients",
+      "journal": "Annals of hematology",
+      "year": "2019",
+      "authors": [
+        "Hyung Jaewon",
+        "Hong Jung Yong",
+        "Yoon Dok Hyun",
+        "Kim Shin",
+        "Park Jung Sun"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Autografts",
+        "Busulfan",
+        "Central Nervous System Neoplasms",
+        "Consolidation Chemotherapy",
+        "Cyclophosphamide",
+        "Disease-Free Survival",
+        "Etoposide",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30989325/"
+    },
+    {
+      "pmid": "27132696",
+      "title": "Chemoimmunotherapy with methotrexate, cytarabine, thiotepa, and rituximab (MATRix regimen) in patients with primary CNS lymphoma: results of the first randomisation of the International Extranodal Lymphoma Study Group-32 (IELSG32) phase 2 trial.",
+      "abstract": "Standard treatment for patients with primary CNS lymphoma remains to be defined. Active therapies are often associated with increased risk of haematological or neurological toxicity. In this trial, we addressed the tolerability and efficacy of adding rituximab with or without thiotepa to methotrexate-cytarabine combination therapy (the MATRix regimen), followed by a second randomisation comparing consolidation with whole-brain radiotherapy or autologous stem cell transplantation in patients with primary CNS lymphoma. We report the results of the first randomisation in this Article.",
+      "journal": "The Lancet. Haematology",
+      "year": "2016",
+      "authors": [
+        "Ferreri Andrés J M",
+        "Cwynarski Kate",
+        "Pulczynski Elisa",
+        "Ponzoni Maurilio",
+        "Deckert Martina"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Acute Kidney Injury",
+        "Anemia",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Central Nervous System Neoplasms",
+        "Chemical and Drug Induced Liver Injury",
+        "Combined Modality Therapy",
+        "Comparative Effectiveness Research",
+        "Cytarabine",
+        "Death, Sudden",
+        "Denmark"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27132696/"
+    },
+    {
+      "pmid": "37702537",
+      "title": "How I treat secondary CNS involvement by aggressive lymphomas.",
+      "abstract": "Secondary central nervous system (CNS) lymphoma (SCNSL) is a rare but clinically challenging scenario with historically disappointing outcomes. SCNSL refers to lymphoma that has spread into the CNS concurrently with systemic disease or CNS relapse during or after frontline immunochemotherapy, presenting with or without systemic lymphoma. Diffuse large B-cell lymphoma (DLBCL) denotes the most common entity, but an increased incidence is observed in other histologies, such as Burkitt lymphoma and mantle-cell lymphoma. The incidence, timing in disease course, location, evidence supporting the use of CNS prophylaxis, and treatment pathways vary according to histology. No randomized data exist to delineate the best treatment approaches with current recommendations based on retrospective and single-arm studies. However, a regimen comprising immunochemotherapy, incorporating agents that cross the blood-brain barrier, followed by thiotepa-containing conditioning and autologous stem-cell transp",
+      "journal": "Blood",
+      "year": "2023",
+      "authors": [
+        "Alderuccio Juan Pablo",
+        "Nayak Lakshmi",
+        "Cwynarski Kate"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Adult",
+        "Retrospective Studies",
+        "Neoplasm Recurrence, Local",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Central Nervous System Neoplasms",
+        "Thiotepa",
+        "Antineoplastic Combined Chemotherapy Protocols"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37702537/"
+    },
+    {
+      "pmid": "36384246",
+      "title": "Prevention and management of secondary central nervous system lymphoma.",
+      "abstract": "Secondary central nervous system (CNS) lymphoma (SCNSL) is defined by the involvement of the CNS, either at the time of initial diagnosis of systemic lymphoma or in the setting of relapse, and can be either isolated or with synchronous systemic disease. The risk of CNS involvement in patients with diffuse large B-cell lymphoma is approximately 5%; however, certain clinical and biological features have been associated with a risk of up to 15%. There has been growing interest in improving the definition of patients at increased risk of CNS relapse, as well as identifying effective prophylactic strategies to prevent it. SCNSL often occurs within months of the initial diagnosis of lymphoma, suggesting the presence of occult disease at diagnosis in many cases. The differing presentations of SCNSL create the therapeutic challenge of controlling both the systemic disease and the CNS disease, which uniquely requires agents that penetrate the blood-brain barrier. Outcomes are generally poor wit",
+      "journal": "Haematologica",
+      "year": "2023",
+      "authors": [
+        "Bobillo Sabela",
+        "Khwaja Jahanzaib",
+        "Ferreri Andrés J M",
+        "Cwynarski Kate"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Prospective Studies",
+        "Retrospective Studies",
+        "Neoplasm Recurrence, Local",
+        "Central Nervous System Neoplasms",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Methotrexate",
+        "Central Nervous System",
+        "Antineoplastic Combined Chemotherapy Protocols"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36384246/"
+    },
+    {
+      "pmid": "34271311",
+      "title": "How we treat primary central nervous system lymphoma.",
+      "abstract": "Primary diffuse large B-cell (DLBCL) lymphoma of the central nervous system (CNS) (PCNSL) is a new lymphoma entity, recognized by the 2017 WHO classification of hematopoietic and lymphoid tumors. Unlike systemic DLBCL, the use of anthracycline-based chemotherapy combinations is associated with disappointing outcomes, due to low CNS bioavailability of related drugs. Therefore, international researchers investigated alternative strategies, mostly including drugs able to cross the blood-brain-barrier at low or high doses, with a progressive improvement in survival. Some effective chemotherapy combinations of high-dose methotrexate (HD-MTX) with alkylating agents and rituximab with or without cytarabine have been tested in international randomized trials and represent the induction treatment in everyday practice, with some variations among different geographical areas. In patients aged 70 years or younger, MATRix (HD-MTX/cytarabine/thiotepa/rituximab) chemotherapy followed by consolidative",
+      "journal": "ESMO open",
+      "year": "2021",
+      "authors": [
+        "Calimeri T",
+        "Steffanoni S",
+        "Gagliardi F",
+        "Chiara A",
+        "Ferreri A J M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Central Nervous System",
+        "Hematopoietic Stem Cell Transplantation",
+        "Humans",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Transplantation, Autologous"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34271311/"
+    },
+    {
+      "pmid": "25568347",
+      "title": "R-MPV followed by high-dose chemotherapy with TBC and autologous stem-cell transplant for newly diagnosed primary CNS lymphoma.",
+      "abstract": "High-dose methotrexate-based chemotherapy is the mainstay of treatment of primary central nervous system lymphoma (PCNSL), but relapses remain frequent. High-dose chemotherapy (HDC) with autologous stem-cell transplant (ASCT) may provide an alternative to address chemoresistance and overcome the blood-brain barrier. In this single-center phase-2 study, newly diagnosed PCNSL patients received 5 to 7 cycles of chemotherapy with rituximab, methotrexate (3.5 g/m(2)), procarbazine, and vincristine (R-MPV). Those with a complete or partial response proceeded with consolidation HDC with thiotepa, cyclophosphamide, and busulfan, followed by ASCT and no radiotherapy. Primary end point was 1-year progression-free survival (PFS), N = 32. Median age was 57, and median Karnofsky performance status 80. Following R-MPV, objective response rate was 97%, and 26 (81%) patients proceeded with HDC-ASCT. Among all patients, median PFS and overall survival (OS) were not reached (median follow-up: 45 months)",
+      "journal": "Blood",
+      "year": "2015",
+      "authors": [
+        "Omuro Antonio",
+        "Correa Denise D",
+        "DeAngelis Lisa M",
+        "Moskowitz Craig H",
+        "Matasar Matthew J"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antibodies, Monoclonal, Murine-Derived",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Busulfan",
+        "Central Nervous System Neoplasms",
+        "Combined Modality Therapy",
+        "Cyclophosphamide",
+        "Cytarabine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25568347/"
+    },
+    {
+      "pmid": "33956047",
+      "title": "Outcomes Associated With Thiotepa-Based Conditioning in Patients With Primary Central Nervous System Lymphoma After Autologous Hematopoietic Cell Transplant.",
+      "abstract": "Primary central nervous system lymphoma (PCNSL) requires induction and consolidation to achieve potential cure. High-dose therapy and autologous hematopoietic cell transplant (AHCT) is an accepted and effective consolidation strategy for PCNSL, but no consensus exists on the optimal conditioning regimens.",
+      "journal": "JAMA oncology",
+      "year": "2021",
+      "authors": [
+        "Scordo Michael",
+        "Wang Trent P",
+        "Ahn Kwang W",
+        "Chen Yue",
+        "Ahmed Sairah"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Central Nervous System",
+        "Cohort Studies",
+        "Cyclophosphamide",
+        "Hematopoietic Stem Cell Transplantation",
+        "Humans",
+        "Lymphoma, Non-Hodgkin",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33956047/"
+    },
+    {
+      "pmid": "33513372",
+      "title": "MATRix-RICE therapy and autologous haematopoietic stem-cell transplantation in diffuse large B-cell lymphoma with secondary CNS involvement (MARIETTA): an international, single-arm, phase 2 trial.",
+      "abstract": "Secondary CNS lymphoma is a rare but potentially lethal event in patients with diffuse large B-cell lymphoma. We aimed to assess the activity and safety of an intensive, CNS-directed chemoimmunotherapy consolidated by autologous haematopoietic stem-cell transplantation (HSCT) in patients with secondary CNS lymphoma.",
+      "journal": "The Lancet. Haematology",
+      "year": "2021",
+      "authors": [
+        "Ferreri Andrés J M",
+        "Doorduijn Jeanette K",
+        "Re Alessandro",
+        "Cabras Maria Giuseppina",
+        "Smith Jeffery"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Central Nervous System Neoplasms",
+        "Cytarabine",
+        "Disease-Free Survival",
+        "Female",
+        "Hematopoietic Stem Cell Transplantation",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33513372/"
+    },
+    {
+      "pmid": "38301670",
+      "title": "High-dose chemotherapy and autologous haematopoietic stem-cell transplantation in older, fit patients with primary diffuse large B-cell CNS lymphoma (MARTA): a single-arm, phase 2 trial.",
+      "abstract": "Available treatments for older patients with primary diffuse large B-cell CNS lymphoma (PCNSL) offer progression-free survival of up to 16 months. We aimed to investigate an intensified treatment of high-dose chemotherapy and autologous haematopoietic stem-cell transplantation (HSCT) in older patients with PCNSL.",
+      "journal": "The Lancet. Haematology",
+      "year": "2024",
+      "authors": [
+        "Schorb Elisabeth",
+        "Isbell Lisa Kristina",
+        "Kerkhoff Andrea",
+        "Mathas Stephan",
+        "Braulke Friederike"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Male",
+        "Aged",
+        "Prospective Studies",
+        "Rituximab",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Hematopoietic Stem Cell Transplantation",
+        "Leukopenia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38301670/"
+    }
+  ]
+}

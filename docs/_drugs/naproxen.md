@@ -5,7 +5,7 @@ drugbank_id: "DB00788"
 drug_name: "Naproxen"
 kg_predictions: 100
 dl_predictions: 136
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 100
 brands: []
 permalink: /drugs/naproxen/
@@ -21,7 +21,7 @@ permalink: /drugs/naproxen/
 | **DrugBank ID** | [DB00788](https://go.drugbank.com/drugs/DB00788) |
 | **KG Predictions** | 100 |
 | **DL Predictions (≥0.7)** | 136 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

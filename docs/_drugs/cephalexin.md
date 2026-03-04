@@ -5,7 +5,7 @@ drugbank_id: "DB00567"
 drug_name: "Cephalexin"
 kg_predictions: 64
 dl_predictions: 65
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 64
 brands: []
 permalink: /drugs/cephalexin/
@@ -21,7 +21,7 @@ permalink: /drugs/cephalexin/
 | **DrugBank ID** | [DB00567](https://go.drugbank.com/drugs/DB00567) |
 | **KG Predictions** | 64 |
 | **DL Predictions (≥0.7)** | 65 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

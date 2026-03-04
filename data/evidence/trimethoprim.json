@@ -1,0 +1,1017 @@
+{
+  "drug": "Trimethoprim",
+  "drugbank_id": "DB00440",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:34:35Z",
+  "indications": [
+    {
+      "indication": "pneumocystosis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 4,
+        "phase1_trials": 3,
+        "other_trials": 6,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 7,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "acute contagious conjunctivitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "urinary tract infection",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 3,
+        "phase1_trials": 0,
+        "other_trials": 16,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 7,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "infectious otitis media",
+      "evidence_level": "L1",
+      "trials": 8,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 5,
+        "rct_articles": 1,
+        "review_articles": 6,
+        "other_articles": 3,
+        "total_trials": 8,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "conjunctivitis",
+      "evidence_level": "L1",
+      "trials": 3,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 3,
+        "review_articles": 4,
+        "other_articles": 3,
+        "total_trials": 3,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 51,
+  "total_articles": 40,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000727",
+      "title": "A Controlled Comparative Trial of Trimethoprim - Sulfamethoxazole Versus Aerosolized Pentamidine for Secondary Prophylaxis of Pneumocystis Carinii Pneumonia in AIDS Patients Receiving Azidothymidine (AZT)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1991-08",
+      "country": "United States",
+      "enrollment": 322,
+      "brief_summary": "To determine if the drug combination sulfamethoxazole-trimethoprim (SMX-TMP), given by mouth, and the drug pentamidine (PEN), given by inhaled aerosol, are effective in preventing a relapse of Pneumocystis carinii pneumonia (PCP) when they are given to patients who have recovered from a first episode of PCP and are being given zidovudine (AZT) to treat primary HIV infection.\n\nAZT prolongs survival in patients with AIDS and decreases the occurrence of opportunistic infections such as PCP. However",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must fulfill the following criteria:\n\n* Randomization within 10 weeks of completing therapy for Pneumocystis carinii pneumonia (PCP).\n* Ability to tolerate oral and aerosolized therapy at the time of randomization.\n* Life expectancy \\> 4 months.\n\nConcurrent Medication:\n\n",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000727"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00636935",
+      "title": "Oral Corticosteroids Therapy and Interstitial Fibrosis in Patients With Pneumocystis Jirovecii Pneumonia (PCP) and pO2 of >70 at Presentation.",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2008-02",
+      "completion_date": "2013-08",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "To explore the effects of corticosteroid therapy on pulmonary fibrosis and potentially pneumothorax in patients with mild PCP (pO2 \\>70mmHg) combined with the standard of care treatment of antibiotic therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV Infection,\n* Hospital admission for suspected PCP,\n* Confirmatory test for PCP (bronchoscopy with bronchoalveolar lavage), pO2\\>70 mmHg or pO2\\<70 mmHg while breathing room air,\n* 18 years or older\n\nExclusion Criteria:\n\n* Contraindications to corticosteroid therapy,\n* Unab",
+      "endpoints": [
+        "Changes in pulmonary function testing and DLCO measurements in patients with PCP and pO2 > 70 mmHg."
+      ],
+      "sponsor": "George Washington University",
+      "url": "https://clinicaltrials.gov/study/NCT00636935"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00023244",
+      "title": "A Double-Blind Randomized Trial of Steroid Withdrawal in Sirolimus- and Cyclosporine-Treated Primary Transplant Recipients",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2001-01",
+      "completion_date": "2005-06",
+      "country": "Mexico, United States",
+      "enrollment": 274,
+      "brief_summary": "The purpose of this study is to examine the effects of withdrawing steroids on graft rejection and kidney functions in kidney transplant recipients between the ages of 0 and 20 years (prior to their 21st birthday).\n\nGraft survival has improved in recent years in children with kidney transplants. One bad side effect of steroid maintenance therapy has been growth retardation. Doctors believe steroids might be safely withdrawn in patients that are receiving other maintenance therapies. If steroids ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients may be eligible for this study if they:\n\n* Are between the ages of 0 and 20 years (prior to their 21st birthday)\n* Are receiving their first living related (e.g.,kidney from a relative or unrelated donor) or cadaver donor transplant\n* Are willing to practice an acceptab",
+      "endpoints": [
+        "Growth, measured as change in standardized height from 6 month to 2.5 years post-transplantation"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00023244"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01747278",
+      "title": "The Safety and Effectiveness of Trimethoprim/Sulfamethoxazole as Pneumocystis Carinii Pneumonia (PCP) Prophylaxis in Patients With Connective Tissue Diseases",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2012-08",
+      "completion_date": "2013-08",
+      "country": "China",
+      "enrollment": 80,
+      "brief_summary": "Evaluation the efficacy and safety profile of trimethoprim/sulfamethoxazole as Pneumocystis carinii pneumonia (PCP) prophylaxis in Patients With Connective Tissue Diseases (CTD) treated with high-dose glucocorticoids and immunosuppressive agents.\n\nOpen-labeled, randomized, prospective single-center clinical trial. Observation period of 12 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-65 years with informed consent\n* SLE, Sjögren syndrome, Polymyositis or Dermatomyositis, defined by consensus classification criteria\n* concomitant high dose glucocorticoid, defined as \\>1mg/kg/d prednisone or equivalent\n* concomitant cyclophosphamide, cyclosporine or m",
+      "endpoints": [
+        "Documented PCP infection"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01747278"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002120",
+      "title": "Randomized Phase I Study of Trimetrexate Glucuronate (TMTX) With Leucovorin (LCV) Protection Plus Dapsone Versus Trimethoprim / Sulfamethoxazole (TMP/SMX) for Treatment of Moderately Severe Episodes of Pneumocystis Carinii Pneumonia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "To evaluate the safety of the combination of trimetrexate glucuronate (TMTX) and dapsone with leucovorin protection versus trimethoprim/sulfamethoxazole (TMP/SMX) in patients with AIDS and moderately severe Pneumocystis carinii pneumonia (PCP). To determine the pharmacokinetic parameters of TMTX, leucovorin, and dapsone and of TMP/SMX when given to patients with AIDS and moderately severe PCP.",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Empiric therapy for other opportunistic pulmonary infection (TB or fungi) for the first 72 hours of study enrollment ONLY, until presence of suspected pathogens can be confidently excluded.\n\nPatients must have:\n\n* AIDS.\n* Confirmed diagnosis of",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002120"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001014",
+      "title": "A Randomized, Comparative, Double-Blind Trial of Trimetrexate (CI-898) With Leucovorin Calcium Rescue Versus Trimethoprim / Sulfamethoxazole for Moderately Severe Pneumocystis Carinii Pneumonia in Patients With AIDS",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1991-09",
+      "country": "United States",
+      "enrollment": 302,
+      "brief_summary": "To compare the safety and effectiveness of an investigational drug therapy (trimetrexate plus leucovorin calcium) with that of conventional therapy (sulfamethoxazole-trimethoprim) in the treatment of moderately severe Pneumocystis carinii pneumonia (PCP) in patients who have AIDS, are HIV positive, or are at high risk for HIV infection. New treatments are needed to reduce the mortality rate from PCP in AIDS patients and to reduce the high relapse rate found after conventional therapy. Trimetrexa",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Acetaminophen 650 mg prescribed as necessary for temperature \\> 38.7 degrees C. Acetaminophen q4h should not be prescribed as a standing order for more than 48 hours.\n\nPrior Medication:\n\nAllowed:\n\n* Zidovudine as long as such therapy is suspend",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00001014"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03978559",
+      "title": "A Prospective Randomized Controlled Study to Compare Efficacy of Caspofungin Combined With Trimethoprim-sulfamethoxazole Versus Trimethoprim/Sulfamethoxazole as First-line Therapy in Non-HIV Patients With Severe Pneumocystis Pneumonia",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2019-08-14",
+      "completion_date": "2022-07-08",
+      "country": "China",
+      "enrollment": 122,
+      "brief_summary": "This is a prospective, randomized clinical trial. During the study, non-HIV patients who are admitted to ICU due to Pneumocystic pneumonia (PCP) and have not received anti-PCP therapy or have received therapy less than 48hrs will be randomized (1:1) to received caspofungin combined with trimethoprim-sulfamethoxazole or trimethoprim-sulfamethoxazole alone.\n\nThe aim of this study is to compare the effectiveness of caspofungin combined with trimethoprim-sulfamethoxazole with that of conventional th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years old\n2. Non-HIV immunosuppressed patients admitted to the ICU\n3. confirmed or suspect PCP\n\n3\\) Not receiving anti-PCP treatment or anti-PCP treatment \\< 48 hours\n\nExclusion Criteria:\n\n1. Age less than 18 years old\n2. Known pregnancy\n3. allergy to TMP/SMZ or casp",
+      "endpoints": [
+        "mortality to day 28"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03978559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000816",
+      "title": "Gradual Initiation of Trimethoprim/Sulfamethoxazole as Primary Pneumocystis Carinii Pneumonia Prophylaxis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1996-09",
+      "country": "Tanzania, Puerto Rico, United States",
+      "enrollment": 370,
+      "brief_summary": "To determine whether gradual initiation of sulfamethoxazole/trimethoprim (SMX/TMP) reduces the incidence of treatment-limiting adverse reactions compared to the routine initiation of the drugs for Pneumocystis carinii pneumonia (PCP) prophylaxis in HIV-infected patients.\n\nAlthough a number of clinical trials have demonstrated the superiority of SMX/TMP for PCP prophylaxis, the incidence of adverse reactions to this medication is high. In a pilot study in which patients were initiated with SMX/TM",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed if clinically indicated:\n\n* Recombinant erythropoietin (rEPO) and G-CSF.\n\nAllowed for symptomatic treatment of mild study drug toxicity:\n\n* Antipyretics and analgesics (ibuprofen).\n* Antihistamines (diphenhydramine HCl).\n* Terfenadine or astemizole",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000816"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05835479",
+      "title": "A Phase 2, Proof-of-Concept, Multicentre, Open-Label, Randomised, Active-Controlled Study to Evaluate the Efficacy, Safety, and Tolerability of Rezafungin Combined With 7 Days of Co-Trimoxazole Versus Co-Trimoxazole Monotherapy in HIV-Infected Adults With Pneumocystis Jirovecii Pneumonia",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-11-14",
+      "completion_date": "2025-08",
+      "country": "South Africa",
+      "enrollment": 50,
+      "brief_summary": "This study aims to generate clinical data on the efficacy, safety, and tolerability of rezafungin combined with 7 days of co-trimoxazole for treatment of Pneumocystis pneumonia (PCP) in adults living with human immunodeficiency virus (HIV), which would expand the knowledge of clinical use of rezafungin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females at least 18 years of age.\n2. Tested positive for HIV by either blood antigen/antibody combination HIV-1/2 immunoassay, HIV-1/HIV-2 antibody differentiation immunoassay, or nucleic acid tests (e.g., HIV ribonucleic acid \\[RNA\\] polymerase chain reaction \\[PCR\\",
+      "endpoints": [
+        "Therapeutic failure on Day 8"
+      ],
+      "sponsor": "Mundipharma Research Limited",
+      "url": "https://clinicaltrials.gov/study/NCT05835479"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000748",
+      "title": "A Randomized, Comparative, Prospective Study of Daily Trimethoprim / Sulfamethoxazole (TMS) and Thrice-Weekly TMS for Prophylaxis Against PCP in HIV-Infected Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1996-11",
+      "country": "United States",
+      "enrollment": 2500,
+      "brief_summary": "To compare the safety and efficacy of two dosage regimens (daily and thrice-weekly) of sulfamethoxazole/trimethoprim (SMX/TMP; TMS) in the prevention of Pneumocystis carinii pneumonia (PCP) in high-risk HIV-infected patients.\n\nPrevious tests have shown that SMX/TMP given daily is effective in preventing recurrence of PCP and may be effective in preventing PCP in patients who have never developed it. Because SMX/TMP can cause side effects, this study will attempt to determine the safest and most ",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\n* HIV infection.\n* CD4 count \\<= 200 cells/mm3 OR a history of prior PCP.\n* No active pneumocystosis. Patients or their guardians must sign informed consent. Pregnant patients are eligible at the clinician's discretion. Patients who do not meet required labor",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000748"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000732",
+      "title": "Evaluation of the Interaction Between Low Dose Trimethoprim/Sulfamethoxazole and Zidovudine",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1990-05",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "To determine if the pharmacokinetics of low doses of zidovudine (AZT) (that is, how fast AZT reaches the blood, what concentration of AZT is attained in the blood, and how long AZT remains in the blood) changes from day-to-day in the same patient. Also to determine whether the pharmacokinetics of AZT is changed by sulfamethoxazole/trimethoprim (SMX/TMP) given at the same time or whether the pharmacokinetics of SMX/TMP is altered by AZT therapy. AZT has been effective in treating some patients wi",
+      "eligibility_criteria": "Inclusion Criteria\n\nPrior Medication:\n\nAllowed:\n\n* Zidovudine (AZT) for patients with AIDS.\n* AIDS related complex (ARC). The presence of any one of the following findings within 12 months prior to entry and the absence of a concurrent illness or conditions other than HIV infection to explain the fi",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000732"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000714",
+      "title": "An Open, Prospective, Multicenter Study of Trimetrexate With Leucovorin Rescue for AIDS Patients With Pneumocystis Carinii Pneumonia (PCP) and Serious Intolerance to Approved Therapies",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2004-07",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "To determine the safety and effectiveness of an investigational drug therapy (trimetrexate plus leucovorin calcium (TMTX / LCV)) in the treatment of Pneumocystis carinii pneumonia (PCP) in patients who have AIDS, are HIV positive, or are at high risk for HIV infection, and who have suffered severe or life-threatening ill effects from both conventional therapies for PCP. AMENDED: 08/01/90 As of August 31, 1989, 437 patients were enrolled into uncontrolled studies of trimetrexate for PCP:214 in TX",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Noninvestigational therapies as needed.\n* Maintenance therapy with investigational triazoles such as itraconazole and SCH 39304.\n* High-dose corticosteroids (exceed physiologic replacement doses) including oral prednisone 40 mg bid for 5 days, ",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000714"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01167452",
+      "title": "Population Pharmacokinetic Analysis of Sulfamethoxazole and Trimethoprim in Normal Weight, Overweight, and Obese Volunteers",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2012-05",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "This study will find how weight affects the dosing of a drug called sulfamethoxazole and trimethoprim. Currently, the amount of sulfamethoxazole and trimethoprim a patient receives is the same regardless of the patient's weight. The entire cohort was analyzed for the study outcomes. BMI groups were for recruitment purposes only and were not used for ordinal data analysis.\n\nAll sulfamethoxazole and trimethoprim (Trade name is Bactrim or Septra) medication that you will receive in this study will ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female subjects, age \\>18 years, of all racial and ethnic origins.\n* We are recruiting 12 normal or underweight (BMI \\<25kg/m2), 12 overweight or obese (BMI 25-40 kg/m2), and 12 extremely obese (BMI \\> 40 kg/m2) for this study. This index is calculated using the volun",
+      "endpoints": [
+        "Elimination Rate Constants for Sulfamethoxazole and Trimethoprim"
+      ],
+      "sponsor": "Texas Tech University Health Sciences Center",
+      "url": "https://clinicaltrials.gov/study/NCT01167452"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001027",
+      "title": "A Phase I/II Trial of Parenteral Pentamidine for PCP Prophylaxis in HIV-Infected Children Who Are Intolerant to Oral Trimethoprim-Sulfamethoxazole",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1996-09",
+      "country": "Puerto Rico, United States",
+      "enrollment": 32,
+      "brief_summary": "Primary: To compare the pharmacokinetics of biweekly and monthly dose regimens of intravenous pentamidine in HIV-infected infants and children who require PCP prophylaxis and who are intolerant to oral trimethoprim - sulfamethoxazole. To determine the safety and tolerance of these regimens in this patient population.\n\nSecondary: To obtain information on the rate of PCP breakthrough in infants and children receiving parenteral pentamidine prophylaxis.\n\nProphylaxis against Pneumocystis carinii pne",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Steroids and intravenous immune globulin (IVIG).\n\nPatients must have:\n\n* Documented HIV infection.\n* Need for PCP prophylaxis.\n* Known intolerance to trimethoprim - sulfamethoxazole (TMP-SMX).\n\nOne of the following required conditions:\n\n* Known",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00001027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001013",
+      "title": "A Randomized, Comparative, Double-Blind Trial of Trimetrexate (CI-898) With Leucovorin Calcium Rescue Versus Trimethoprim / Sulfamethoxazole for Moderately Severe Pneumocystis Carinii Pneumonia in Patients With AIDS",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1991-09",
+      "country": "United States",
+      "enrollment": 364,
+      "brief_summary": "To compare the safety and effectiveness of an investigational drug therapy (trimetrexate plus leucovorin calcium) with that of conventional therapy (sulfamethoxazole-trimethoprim) in the treatment of moderately severe Pneumocystis carinii pneumonia (PCP) in patients who have AIDS, are HIV positive, or are at high risk for HIV infection.",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Acetaminophen:\n* 650 mg prescribed as necessary for temperature \\> 38.7 degrees C. Acetaminophen should not be prescribed as a standing order for more than 48 hours.\n\nPrior Medication:\n\nAllowed:\n\n* Zidovudine (AZT) as long as such therapy is su",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00001013"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07071909",
+      "title": "Immune Reconstitution Monitoring and Pneumococcal Vaccination (PCV-21) in Patients Treated With Chimeric Antigen Receptor T-Cells",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2025-01-20",
+      "completion_date": "2025-08-29",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "This is a prospective interventional study designed to investigate the effect of Immune Reconstitution clinic visits and pneumococcal vaccination (PCV-21) on infection risk, anti-infective prophylaxis adherence, and vaccine response in patients receiving CAR-T therapy following lymphodepletion. Fifty subjects (20 receiving commercial CAR-T for CD19 or BCMA and 30 receiving investigational CAR-T) will be enrolled. Subjects will attend Immune Reconstitution Clinic Visits at 3, 6, 9, and 12 months ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent was obtained to participate in the study and HIPAA authorization for the release of personal health information.\n2. The subject is willing and able to comply with study procedures based on the judgment of the investigator.\n3. Age ≥ 18 years at the tim",
+      "endpoints": [
+        "Anti-pneumococcal antibody concentrations"
+      ],
+      "sponsor": "UNC Lineberger Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT07071909"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06691321",
+      "title": "Efficacy of Caspofungin for Pneumocystis Jirovecii Pneumonia in People Living With HIV/AIDS.",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-08-01",
+      "completion_date": "2025-09-01",
+      "country": "Mexico",
+      "enrollment": 60,
+      "brief_summary": "Pneumocystis jirovecii pneumonia is a significant concern in peaple with HIV/AIDS, often severe and potentially fatal. While trimethoprim/sulfamethoxazole remains the primary treatment, safety concerns exist with alternative options. Research on Pneumocystis jirovecii's beta-D glucan composition has prompted investigations into echinocandins like caspofungin, showing promise in murine models and some positive results in human studies. Evaluating caspofungin's efficacy through observational studi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of probable or proven PCP, according to its diagnostic classification (refer to classification at the end of this section).\n* Have clinical laboratory and virological diagnostic laboratory studies at the time of admission.\n\n  * Classification criteria for Pneumonia b",
+      "endpoints": [
+        "Mortality by group at a 30-day follow up."
+      ],
+      "sponsor": "Instituto Nacional de Enfermedades Respiratorias",
+      "url": "https://clinicaltrials.gov/study/NCT06691321"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05843968",
+      "title": "Rituximab Versus Mycophenolate Mofetil in Children With Steriod-dependent Nephrotic Syndrome: A Single-center, Randomized Controlled Trial",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-01-29",
+      "completion_date": "2026-07-01",
+      "country": "China",
+      "enrollment": 46,
+      "brief_summary": "The goal of this clinical trial is to evaluate the efficacy and safety of rituximab(RTX) and mycophenolate mofetile(MMF) in the treatment of children with low-dose steroid-dependent nephrotic syndrome(SDNS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children with a definite diagnosis of SDNS are included in the study during relapse treatment.\n* Age 3-16 years.\n* Steroid dependent dose≤0.3mg/kg/day.\n* Cumulative steroid use for ≥6 months.\n* Ability to swallow tablet.\n* Guardians understand the characteristics and personal ",
+      "endpoints": [
+        "12-month relapse-free survival rate"
+      ],
+      "sponsor": "Children's Hospital of Chongqing Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT05843968"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000974",
+      "title": "A Phase I Study of the Safety, Tolerance, and Study of the Pharmacokinetics of Aerosolized Pentamidine and Parenteral Pentamidine in Children With HIV Infection and Suspected Pneumocystis Carinii Pneumonia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1996-09",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "To evaluate the delivery of a single dose of aerosolized pentamidine to children; to evaluate the tolerance of pentamidine administration by mask; to compare intravenous pentamidine first dose pharmacokinetics (blood levels) in children with information previously collected on adults; and to compare plasma pentamidine levels in children after an aerosolized treatment with levels previously collected on adults.\n\nPneumocystis carinii pneumonia (PCP) is the most common serious infection in children",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Routine trimethoprim / sulfamethoxazole (TMP / SMX) (or whatever medications are considered appropriate by the patient's primary physician for medical management) 1 - 2 hours after pentamidine is given.\n\nPatients must have:\n\n* HIV infection wit",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000974"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04346108",
+      "title": "A Phase 3, Open-label, Non-controlled, Multi-dose Study to Evaluate the Pharmacokinetics, Safety and Tolerability, and Efficacy of Immune Globulin Subcutaneous (Human), 20% Solution (IGSC, 20%) in Japanese Subjects With Primary Immunodeficiency Diseases (PID)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-08-11",
+      "completion_date": "2021-12-22",
+      "country": "Japan",
+      "enrollment": 17,
+      "brief_summary": "In this study, Japanese participants with primary immunodeficiency diseases were treated with Immune Globulin Subcutaneous (Human), 20% solution, (IGSC, 20%). This study will be in 3 parts:\n\nPart 1: Infusions with Immunoglobulin Intravenous (IGIV) every 3 or 4 weeks for 13 weeks.\n\nPart 2: Participants will switch to weekly subcutaneous infusions with IGSC, 20% for 24 weeks.\n\nPart 3: A subset will receive biweekly subcutaneous infusions with IGSC, 20% for 12 weeks.\n\nThe main aim of the study is t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be of Japanese descent, defined as born in Japan and having Japanese parents and Japanese maternal and paternal grandparents.\n* Participants must have a documented diagnosis of a form of primary humoral immunodeficiency involving antibody formation and requiring gammaglobulin ",
+      "endpoints": [
+        "Epoch 2: Total Serum Trough Levels of Immune Globulin G (IgG) Antibodies During Period 2",
+        "Epoch 3: Total Serum Trough Levels of IgG Antibodies"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT04346108"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "37358837",
+      "title": "Prophylaxis Against Pneumocystis jirovecii Pneumonia in Adults.",
+      "abstract": "",
+      "journal": "JAMA",
+      "year": "2023",
+      "authors": [
+        "Zhou Shiwei",
+        "Aitken Samuel L"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Immunocompromised Host",
+        "Pneumonia, Pneumocystis",
+        "Trimethoprim, Sulfamethoxazole Drug Combination",
+        "Pneumocystis carinii",
+        "Chemoprevention"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37358837/"
+    },
+    {
+      "pmid": "32000290",
+      "title": "Pneumocystis jiroveci.",
+      "abstract": "Pneumocystis jiroveci remains an important fungal pathogen in a broad range of immunocompromised hosts. The natural reservoir of infection remains unknown. Pneumocystis jiroveci Pneumonia (PJP) develops via airborne transmission or reactivation of inadequately treated infection. Nosocomial clusters of infection have been described among immunocompromised hosts. Subclinical infection or colonization may occur. Pneumocystis pneumonia occurs most often within 6 months of organ transplantation and with intensified or prolonged immunosuppression, notably with corticosteroids. Infection is also common during neutropenia and low-lymphocyte counts, with hypogammaglobulinemia, and following cytomegalovirus (CMV) infection. The clinical presentation generally includes fever, dyspnea with hypoxemia, and nonproductive cough. Chest radiographic patterns are best visualized by computed tomography (CT) scan with diffuse interstitial processes. Laboratory examination reveals hypoxemia, elevated serum ",
+      "journal": "Seminars in respiratory and critical care medicine",
+      "year": "2020",
+      "authors": [
+        "Fishman Jay A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Immunocompromised Host",
+        "Organ Transplantation",
+        "Pneumocystis carinii",
+        "Pneumonia, Pneumocystis",
+        "Radiography",
+        "Trimethoprim, Sulfamethoxazole Drug Combination"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32000290/"
+    },
+    {
+      "pmid": "15190141",
+      "title": "Pneumocystis pneumonia.",
+      "abstract": "",
+      "journal": "The New England journal of medicine",
+      "year": "2004",
+      "authors": [
+        "Thomas Charles F",
+        "Limper Andrew H"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ],
+      "mesh_terms": [
+        "AIDS-Related Opportunistic Infections",
+        "Anti-Infective Agents",
+        "Cytokines",
+        "Humans",
+        "Macrophages",
+        "Pneumocystis carinii",
+        "Pneumonia, Pneumocystis",
+        "Pulmonary Alveoli",
+        "Trimethoprim, Sulfamethoxazole Drug Combination"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15190141/"
+    },
+    {
+      "pmid": "29092853",
+      "title": "Prophylactic effect of trimethoprim-sulfamethoxazole for pneumocystis pneumonia in patients with rheumatic diseases exposed to prolonged high-dose glucocorticoids.",
+      "abstract": "To investigate the efficacy and safety of trimethoprim/sulfamethoxazole (TMP-SMX) as primary prophylaxis for pneumocystis pneumonia (PCP) in patients with rheumatic diseases receiving high-dose steroids.",
+      "journal": "Annals of the rheumatic diseases",
+      "year": "2018",
+      "authors": [
+        "Park Jun Won",
+        "Curtis Jeffrey R",
+        "Moon Jinyoung",
+        "Song Yeong Wook",
+        "Kim Suhnggwon"
+      ],
+      "pub_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Antifungal Agents",
+        "Female",
+        "Glucocorticoids",
+        "Humans",
+        "Incidence",
+        "Male",
+        "Middle Aged",
+        "Pneumonia, Pneumocystis",
+        "Propensity Score"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29092853/"
+    },
+    {
+      "pmid": "37574166",
+      "title": "Low-Dose vs Conventional-Dose Trimethoprim-Sulfamethoxazole Treatment for Pneumocystis Pneumonia in Patients Not Infected With HIV: A Multicenter, Retrospective Observational Cohort Study.",
+      "abstract": "Trimethoprim-sulfamethoxazole (TMP-SMX) is an effective treatment for Pneumocystis jirovecii pneumonia (PCP) in immunocompromised patients with and without HIV infection; however, a high incidence of adverse events has been observed. Low-dose TMP-SMX is a potentially effective treatment with fewer adverse events; however, evidence is limited.",
+      "journal": "Chest",
+      "year": "2024",
+      "authors": [
+        "Nagai Tatsuya",
+        "Matsui Hiroki",
+        "Fujioka Haruka",
+        "Homma Yuya",
+        "Otsuki Ayumu"
+      ],
+      "pub_types": [
+        "Multicenter Study",
+        "Observational Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Aged",
+        "Trimethoprim, Sulfamethoxazole Drug Combination",
+        "Pneumonia, Pneumocystis",
+        "Retrospective Studies",
+        "HIV Infections",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37574166/"
+    },
+    {
+      "pmid": "21653531",
+      "title": "HIV-associated Pneumocystis pneumonia.",
+      "abstract": "During the past 30 years, major advances have been made in our understanding of HIV/AIDS and Pneumocystis pneumonia (PCP), but significant gaps remain. Pneumocystis is classified as a fungus and is host-species specific, but an understanding of its reservoir, mode of transmission, and pathogenesis is incomplete. PCP remains a frequent AIDS-defining diagnosis and is a frequent opportunistic pneumonia in the United States and in Europe, but comparable epidemiologic data from other areas of the world that are burdened with HIV/AIDS are limited. Pneumocystis cannot be cultured, and bronchoscopy with bronchoalveolar lavage is the gold standard procedure to diagnose PCP, but noninvasive diagnostic tests and biomarkers show promise that must be validated. Trimethoprim-sulfamethoxazole is the recommended first-line treatment and prophylaxis regimen, but putative trimethoprim-sulfamethoxazole drug resistance is an emerging concern. The International HIV-associated Opportunistic Pneumonias (IHOP",
+      "journal": "Proceedings of the American Thoracic Society",
+      "year": "2011",
+      "authors": [
+        "Huang Laurence",
+        "Cattamanchi Adithya",
+        "Davis J Lucian",
+        "den Boon Saskia",
+        "Kovacs Joseph"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "AIDS-Related Opportunistic Infections",
+        "Adrenal Cortex Hormones",
+        "Anti-Infective Agents",
+        "Biomarkers",
+        "Bronchoalveolar Lavage",
+        "Bronchoscopy",
+        "CD4 Lymphocyte Count",
+        "Dihydropteroate Synthase",
+        "Drug Resistance, Fungal",
+        "HIV Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21653531/"
+    },
+    {
+      "pmid": "3484928",
+      "title": "Intravenous trimethoprim-sulfamethoxazole and ataxia.",
+      "abstract": "",
+      "journal": "Annals of internal medicine",
+      "year": "1986",
+      "authors": [
+        "Liu L X",
+        "Seward S J",
+        "Crumpacker C S"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Ataxia",
+        "Drug Combinations",
+        "Humans",
+        "Infusions, Parenteral",
+        "Male",
+        "Middle Aged",
+        "Pneumonia, Pneumocystis",
+        "Sulfamethoxazole",
+        "Trimethoprim"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3484928/"
+    },
+    {
+      "pmid": "3874045",
+      "title": "Persistence of pneumocystis.",
+      "abstract": "",
+      "journal": "Chest",
+      "year": "1985",
+      "authors": [
+        "Hughes W T"
+      ],
+      "pub_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [
+        "Acquired Immunodeficiency Syndrome",
+        "Animals",
+        "Humans",
+        "Pentamidine",
+        "Pneumonia, Pneumocystis",
+        "Recurrence",
+        "Sulfamethoxazole",
+        "Time Factors",
+        "Trimethoprim"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3874045/"
+    },
+    {
+      "pmid": "4365115",
+      "title": "Efficacy of trimethoprim and sulfamethoxazole in the prevention and treatment of Pneumocystis carinii pneumonitis.",
+      "abstract": "A combination of trimethoprim and sulfamethoxazole was effective in the prevention and treatment of Pneumocystis carinii pneumonitis in cortisonetreated rats. Although all of 15 untreated rats died with P. carinii pneumonitis, none of 15 given trimethoprim-sulfamethoxazole prophylactically acquired the infection. After P. carinii pneumonitis was established, 9 of 14 rats recovered after treatment with trimethoprim-sulfamethoxazole compared with only 2 of 14 treated with pentamidine isethionate. Rifampin and clindamycin, separately or in combination with pentamidine, were ineffective in the prevention and treatment of P. carinii infection.",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "year": "1974",
+      "authors": [
+        "Hughes W T",
+        "McNabb P C",
+        "Makres T D",
+        "Feldman S"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Alkanesulfonates",
+        "Amidines",
+        "Animals",
+        "Clindamycin",
+        "Drug Therapy, Combination",
+        "Male",
+        "Phenyl Ethers",
+        "Pneumonia, Pneumocystis",
+        "Rifampin",
+        "Sulfamethoxazole"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4365115/"
+    },
+    {
+      "pmid": "24617414",
+      "title": "Pneumocystis and Pneumocystosis: first meeting of experts from Latin-American and Portuguese-speaking countries - a mini-review.",
+      "abstract": "The Pneumocystis and Pneumocystosis: first meeting of experts from Latin-American and Portuguese-speaking countries was held in Lisbon, Portugal, on 24-26 October 2013. A total of 20 speakers from Latin America, Africa and Europe participated in the meeting. The epidemiological studies presented in this meeting begin to change the misconception that since the AIDS epidemic, Pneumocystis pneumonia (PcP) has become an infrequent disease, showing that today PcP remains a major opportunistic infection in HIV-infected patients in both developed and developing countries and an emerging problem in immunocompromised patients without HIV infection worldwide. PcP management remains a challenge. Right now, the combination of caspofungin and trimethoprim-sulfamethoxazole (TMP-SMX) is a promising therapeutic approach that needs to be assessed in controlled clinical trials.",
+      "journal": "Expert review of anti-infective therapy",
+      "year": "2014",
+      "authors": [
+        "Esteves Francisco",
+        "Medrano Francisco J",
+        "de Armas Yaxsier",
+        "Wissmann Gustavo",
+        "Calderón Enrique J"
+      ],
+      "pub_types": [
+        "Conference Proceedings"
+      ],
+      "mesh_terms": [
+        "AIDS-Related Opportunistic Infections",
+        "Anti-Infective Agents",
+        "Caspofungin",
+        "Developed Countries",
+        "Developing Countries",
+        "Echinocandins",
+        "Humans",
+        "Immunocompromised Host",
+        "Latin America",
+        "Lipopeptides"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24617414/"
+    },
+    {
+      "pmid": "29305250",
+      "title": "Diagnosis and treatment of urinary tract infections across age groups.",
+      "abstract": "Urinary tract infections are the most common outpatient infections, but predicting the probability of urinary tract infections through symptoms and test results can be complex. The most diagnostic symptoms of urinary tract infections include change in frequency, dysuria, urgency, and presence or absence of vaginal discharge, but urinary tract infections may present differently in older women. Dipstick urinalysis is popular for its availability and usefulness, but results must be interpreted in context of the patient's pretest probability based on symptoms and characteristics. In patients with a high probability of urinary tract infection based on symptoms, negative dipstick urinalysis does not rule out urinary tract infection. Nitrites are likely more sensitive and specific than other dipstick components for urinary tract infection, particularly in the elderly. Positive dipstick testing is likely specific for asymptomatic bacteriuria in pregnancy, but urine culture is still the test of",
+      "journal": "American journal of obstetrics and gynecology",
+      "year": "2018",
+      "authors": [
+        "Chu Christine M",
+        "Lowder Jerry L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Age Factors",
+        "Aged",
+        "Anti-Bacterial Agents",
+        "Antimicrobial Stewardship",
+        "Asymptomatic Infections",
+        "Bacteriuria",
+        "Culture Techniques",
+        "Drug Resistance, Bacterial",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29305250/"
+    },
+    {
+      "pmid": "37273158",
+      "title": "Recurrent Urinary Tract Infection in Adult Patients, Risk Factors, and Efficacy of Low Dose Prophylactic Antibiotics Therapy.",
+      "abstract": "Recurrent urinary tract infection (UTI) occurs in sizable percentages of patients after a single episode and is a frequent cause of primary healthcare visits and hospital admissions, accounting for up to one quarter of emergency department visits. We aim to describe the pattern of continuous antibiotic prophylaxis prescription for recurrent urinary tract infections, in what group of adult patients they are prescribed and their efficacy.",
+      "journal": "Journal of epidemiology and global health",
+      "year": "2023",
+      "authors": [
+        "Alghoraibi Hala",
+        "Asidan Aisha",
+        "Aljawaied Raneem",
+        "Almukhayzim Raghad",
+        "Alsaydan Aljoharah"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Adult",
+        "Female",
+        "Antibiotic Prophylaxis",
+        "Nitrofurantoin",
+        "Trimethoprim, Sulfamethoxazole Drug Combination",
+        "Escherichia coli",
+        "Retrospective Studies",
+        "Urinary Bladder, Neurogenic",
+        "Urinary Tract Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37273158/"
+    },
+    {
+      "pmid": "38587648",
+      "title": "Antibiotics efficacy in clinical and microbiological cure of uncomplicated urinary tract infection: a systematic review and network meta-analysis.",
+      "abstract": "Fosfomycin has been used more frequently in managing uncomplicated urinary tract infections (UTIs) due to decreased compliance and increased multidrug-resistant bacteria. The aim of this network meta-analysis was to assess the efficacy of Fosfomycin compared to Nitrofurantoin, Trimethoprim-Sulfamethoxazole (TMP-SMX), and Ciprofloxacin in terms of clinical and microbiological cure alongside with other measurements.",
+      "journal": "World journal of urology",
+      "year": "2024",
+      "authors": [
+        "Hadidi Mohammed F",
+        "Alhamami Nawaf",
+        "Alhakami Mohammed",
+        "Abdulhamid Ahmed S",
+        "Alsharif Abdullah"
+      ],
+      "pub_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Anti-Bacterial Agents",
+        "Fosfomycin",
+        "Nitrofurantoin",
+        "Trimethoprim, Sulfamethoxazole Drug Combination",
+        "Urinary Tract Infections",
+        "Ciprofloxacin",
+        "Recurrence"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38587648/"
+    },
+    {
+      "pmid": "38393801",
+      "title": "Acute Uncomplicated UTIs in Adults: Rapid Evidence Review.",
+      "abstract": "An acute uncomplicated urinary tract infection (UTI) is a bacterial infection of the lower urinary tract with no sign of systemic illness or pyelonephritis in a noncatheterized, nonpregnant adult with no urologic abnormalities or immunocompromise. In women, a self-diagnosis of a UTI with the presence of typical symptoms (e.g., frequency, urgency, dysuria/burning sensation, nocturia, suprapubic pain), without vaginal discharge, is accurate enough to diagnose an uncomplicated UTI without further testing. Urine culture and susceptibility testing should be reserved for women with recurrent infection, treatment failure, history of resistant isolates, or atypical presentation to make a definitive diagnosis and guide antibiotic selection. First-line antibiotics include nitrofurantoin for five days, fosfomycin in a single dose, trimethoprim for three days, or trimethoprim/sulfamethoxazole for three days. Symptomatic treatment with nonsteroidal anti-inflammatory drugs and delayed antibiotics ma",
+      "journal": "American family physician",
+      "year": "2024",
+      "authors": [
+        "Kurotschka Peter K",
+        "Gágyor Ildikó",
+        "Ebell Mark H"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Anti-Bacterial Agents",
+        "Fosfomycin",
+        "Nitrofurantoin",
+        "Trimethoprim, Sulfamethoxazole Drug Combination",
+        "Urinary Tract Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38393801/"
+    },
+    {
+      "pmid": "31088380",
+      "title": "Epidemiology of urinary tract infection and antimicrobial resistance in a pediatric hospital in Nepal.",
+      "abstract": "Urinary tract infection is an infection affecting infants and children. The aim of this study was to determine the etiology of urinary tract infection along with their antimicrobial resistance.",
+      "journal": "BMC infectious diseases",
+      "year": "2019",
+      "authors": [
+        "Ganesh Rabina",
+        "Shrestha Dhiraj",
+        "Bhattachan Balkrishna",
+        "Rai Ganesh"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Ampicillin",
+        "Anti-Bacterial Agents",
+        "Child",
+        "Child, Preschool",
+        "Cross-Sectional Studies",
+        "Drug Resistance, Bacterial",
+        "Escherichia coli",
+        "Female",
+        "Hospitals, Pediatric"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31088380/"
+    },
+    {
+      "pmid": "31888378",
+      "title": "Laboratory Findings After Urinary Tract Infection and Antimicrobial Prophylaxis in Children With Vesicoureteral Reflux.",
+      "abstract": "It is a common practice to monitor blood tests in patients receiving long-term trimethoprim-sulfamethoxazole (TMP-SMZ) prophylaxis for recurrent urinary tract infections. This multicenter, randomized, placebo-controlled trial enrolled 607 children aged 2 to 71 months with vesicoureteral reflux diagnosed after symptomatic urinary tract infection. Study participants received TMP-SMZ (n = 302) or placebo (n = 305) and were followed for 2 years. Serum electrolytes (n ≥ 370), creatinine (n = 310), and complete blood counts (n ≥ 206) were measured at study entry and at the 24-month study conclusion. We found no significant electrolyte, renal, or hematologic abnormalities when comparing the treatment and placebo groups. We observed changes in several laboratory parameters in both treatment and placebo groups as would normally be expected with physiologic maturation. Changes were within the normal range for age. Long-term use of TMP-SMX had no treatment effect on complete blood count, serum el",
+      "journal": "Clinical pediatrics",
+      "year": "2020",
+      "authors": [
+        "Nadkarni Milan Dattaram",
+        "Mattoo Tej K",
+        "Gravens-Mueller Lisa",
+        "Carpenter Myra A",
+        "Ivanova Anastasia"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_terms": [
+        "Anti-Infective Agents, Urinary",
+        "Biomarkers",
+        "Child",
+        "Child, Preschool",
+        "Drug Monitoring",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Infant",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31888378/"
+    },
+    {
+      "pmid": "38565823",
+      "title": "Paediatric Escherichia coli urinary tract infection: susceptibility trends and clinical management-a retrospective analysis of a 10-year period.",
+      "abstract": "Escherichia coli is the predominant urinary pathogen in children. Irish and international studies have demonstrated increasing antimicrobial resistance (AMR) to antibiotics such as co-amoxiclav.",
+      "journal": "Irish journal of medical science",
+      "year": "2024",
+      "authors": [
+        "Whelan Seán Olann",
+        "Kyne Sarah",
+        "Dore Andrew",
+        "Glynn Mark",
+        "Higgins Frances"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Urinary Tract Infections",
+        "Retrospective Studies",
+        "Escherichia coli Infections",
+        "Child",
+        "Infant",
+        "Anti-Bacterial Agents",
+        "Escherichia coli",
+        "Child, Preschool",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38565823/"
+    },
+    {
+      "pmid": "37102524",
+      "title": "Microbiological Spectrum and Antibiogram of Urinary Tract Infection in a Tertiary Care Center from the Kingdom of Bahrain.",
+      "abstract": "Urinary tract infection is the second-most common after respiratory infections. This is a single-center retrospective study conducted in Bahrain Specialist Hospital, Bahrain. Urine culture data from November 2011 until December 2020 was obtained from the hospital database. Out of 28082, 4849 (17.3%) cultures were positive. One hundred and thirty-four (2.8%) showed the growth of multiple organisms. The male-to-female ratio was 3.7. Most of the patients [1872 (39.7%)] were 20-40 years. Men and women were 53.84 ± 25.85 and 43.41 ± 23.89 years, respectively; P <0.001. 4118/4715 (87.3%) were Gram-negative. Five hundred and sixty-four (11.9 %) and 33 (0.7%) were Gram-positive cocci and fungi, respectively. Escherichia coli (E. coli) was the most common and Klebsiella species were second-most common, accounting for 2916 (61.8%) and 586 (12.4%), respectively. 30.2% of all E. coli and 130 (22.2%) of all Klebsiella species were extended-spectrum beta-lactamase (ESBL) producers. ESBL Klebsiella p",
+      "journal": "Saudi journal of kidney diseases and transplantation : an official publication of the Saudi Center for Organ Transplantation, Saudi Arabia",
+      "year": "2022",
+      "authors": [
+        "Sheikh Rayees Yousuf",
+        "Murdeshwar Soni",
+        "Maheshwari Teerath Kumar",
+        "Chacko Saramma"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Male",
+        "Escherichia coli",
+        "Tertiary Care Centers",
+        "Levofloxacin",
+        "Trimethoprim, Sulfamethoxazole Drug Combination",
+        "Retrospective Studies",
+        "Bahrain",
+        "Anti-Bacterial Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37102524/"
+    },
+    {
+      "pmid": "35610571",
+      "title": "Antimicrobial resistance in urinary pathogens and culture-independent detection of trimethoprim resistance in urine from patients with urinary tract infection.",
+      "abstract": "Although urinary tract infections (UTIs) are extremely common, isolation of causative uropathogens is not always routinely performed, with antibiotics frequently prescribed empirically. This study determined the susceptibility of urinary isolates from two Health and Social Care Trusts (HSCTs) in Northern Ireland to a range of antibiotics commonly used in the treatment of UTIs. Furthermore, we determined if detection of trimethoprim resistance genes (dfrA) could be used as a potential biomarker for rapid detection of phenotypic trimethoprim resistance in urinary pathogens and from urine without culture.",
+      "journal": "BMC microbiology",
+      "year": "2022",
+      "authors": [
+        "Somorin Yinka M",
+        "Weir Nichola-Jane M",
+        "Pattison Sally H",
+        "Crockard Martin A",
+        "Hughes Carmel M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Drug Resistance, Bacterial",
+        "Escherichia coli",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Trimethoprim",
+        "Trimethoprim Resistance",
+        "Urinary Tract Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35610571/"
+    },
+    {
+      "pmid": "14575059",
+      "title": "Urinary tract infection.",
+      "abstract": "",
+      "journal": "The New England journal of medicine",
+      "year": "2003",
+      "authors": [
+        "Hoey Rachel",
+        "Probst Fey"
+      ],
+      "pub_types": [
+        "Comment",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Anti-Infective Agents, Urinary",
+        "Cephalexin",
+        "Drug Resistance, Bacterial",
+        "Female",
+        "Humans",
+        "Pregnancy",
+        "Pregnancy Tests",
+        "Trimethoprim, Sulfamethoxazole Drug Combination",
+        "Urinary Tract Infections"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14575059/"
+    }
+  ]
+}

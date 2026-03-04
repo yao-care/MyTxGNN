@@ -5,7 +5,7 @@ drugbank_id: "DB01059"
 drug_name: "Norfloxacin"
 kg_predictions: 150
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L2"
 indication_count: 150
 brands: []
 permalink: /drugs/norfloxacin/
@@ -21,7 +21,7 @@ permalink: /drugs/norfloxacin/
 | **DrugBank ID** | [DB01059](https://go.drugbank.com/drugs/DB01059) |
 | **KG Predictions** | 150 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L2 |
 | **NPRA Status** | Approved |
 
 ---

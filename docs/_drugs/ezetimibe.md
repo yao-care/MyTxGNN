@@ -5,7 +5,7 @@ drugbank_id: "DB00973"
 drug_name: "Ezetimibe"
 kg_predictions: 234
 dl_predictions: 45
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 234
 brands: []
 permalink: /drugs/ezetimibe/
@@ -21,7 +21,7 @@ permalink: /drugs/ezetimibe/
 | **DrugBank ID** | [DB00973](https://go.drugbank.com/drugs/DB00973) |
 | **KG Predictions** | 234 |
 | **DL Predictions (≥0.7)** | 45 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

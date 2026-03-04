@@ -1,0 +1,1022 @@
+{
+  "drug": "Lamotrigine",
+  "drugbank_id": "DB00555",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:39:07Z",
+  "indications": [
+    {
+      "indication": "cutis verticis gyrata",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "epilepsy",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 13,
+        "rct_articles": 2,
+        "review_articles": 7,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "Lennox-Gastaut syndrome",
+      "evidence_level": "L1",
+      "trials": 2,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 0,
+        "review_articles": 9,
+        "other_articles": 1,
+        "total_trials": 2,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "partial epilepsy",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 10,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 8,
+        "rct_articles": 1,
+        "review_articles": 7,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "visual epilepsy",
+      "evidence_level": "L2",
+      "trials": 2,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 2,
+        "review_articles": 6,
+        "other_articles": 2,
+        "total_trials": 2,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 44,
+  "total_articles": 40,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00113165",
+      "title": "A Multicenter, Double-Blind, Randomized, Parallel-group Evaluation of LAMICTAL Extended-release Adjunctive Therapy in Subjects With Partial Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2007-07",
+      "country": "Ukraine, Germany, South Korea, Chile, Puerto Rico, United States, Russia, India, Argentina, Brazil",
+      "enrollment": 244,
+      "brief_summary": "This study is being conducted to compare the efficacy and safety of LAMICTAL (lamotrigine) extended-release with placebo in the treatment of partial seizures. LAMICTAL extended-release is an investigational drug. Placebo tablets look like LAMICTAL extended-release tablets but do not contain active medication. In this study, LAMICTAL extended-release or placebo tablets will be added to current seizure treatments.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Diagnosis of epilepsy with partial seizures for more than 24 weeks.\n* Must experience at least 8 partial seizures during an 8-week Baseline Phase.\n* Must currently be receiving treatment with a stable regimen of one or two antiepileptic drugs for at least four weeks.\n* Patient",
+      "endpoints": [
+        "The efficacy of LAMICTAL extended-release therapy will be measured by the percentage change from Baseline in partial seizure frequency during the double-blind treatment phase."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00113165"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00208520",
+      "title": "Second-Line Treatment Choice for Epilepsy",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2003-07",
+      "completion_date": "2007-06",
+      "country": "Netherlands",
+      "enrollment": 60,
+      "brief_summary": "Most patients are prescribed valproate as their first antiepileptic drug. It is unknown which is the best second-line drug when patients do not become seizure free on valproate. This has led the Dutch Epilepsy Clinics Foundation (SEIN) to start the SLICE study. Adult patients with partial and/or tonic-clonic seizures, insufficiently responding to valproate, are recruited for this study. These patients are randomized to receive one of three other drugs. Patients wil initially use this drug next t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients with generalized tonic-clonic, complex partial and/or simple partial seizures. The seizures should be well-defined according to the International Classification of Epileptic Seizures (1). Therefore, an accurate history and adequate neurophysiological data should",
+      "endpoints": [
+        "Percentage seizure free"
+      ],
+      "sponsor": "Dutch Epilepsy Clinics Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00208520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00007670",
+      "title": "CSP #428 - Treatment of Seizures in the Elderly Population",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-01",
+      "completion_date": "2003-03",
+      "country": "United States",
+      "enrollment": 720,
+      "brief_summary": "New onset epilepsy in the elderly occurs in 45,000-50,000 elderly patients each year. These patients are especially vulnerable to side effects from medications because of changes caused by the aging process and the fact that these patients often have many common diseases for which they are already receiving medications for so that the likelihood of drug interactions is increased. Two new drugs, gabapentin and lamotrigine, have recently been approved by the FDA as antiepileptic drugs. These drugs",
+      "eligibility_criteria": "Veterans 60 years of age or older who have new onset, unprovoked seizures of focal onset, with or without secondary generalization.",
+      "endpoints": [],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT00007670"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04274179",
+      "title": "A Prospective, Case-control Evaluation of Ketogenic Dietary Therapy for New-onset Childhood Absence Epilepsy",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2020-08-10",
+      "completion_date": "2026-05-01",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "The ketogenic diet is a medical therapy for epilepsy that is used nearly predominantly for refractory epilepsy (after 2-3 drugs have been tried and failed). However, there is both published evidence for first-line use (infantile spasms, Glut1 deficiency syndrome) and also anecdotal experience (families choosing to change the child's (or the family' own) diet rather than use anticonvulsant medications). Childhood absence epilepsy (refractory) has been published as being responsive to ketogenic di",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children ages 3-12 years at seizure onset with classic childhood absence epilepsy clinically.\n* Normal intellect or mild disability\n* EEG with confirmed 3/second spike-wave discharges, usually with hyperventilation\n* Daily reported absence seizures.\n* Generalized convulsions a",
+      "endpoints": [
+        "Change in seizure frequency"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT04274179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00807989",
+      "title": "An Open Label, Randomized, Multicenter Clinical Trial to Compare the Efficacy and Safety of Lamotrigine / Valproate Coadministration and Carbamazepine as Initial Pharmacotherapy in Epilepsies (Phase Ⅳ)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2012-05",
+      "country": "South Korea",
+      "enrollment": 207,
+      "brief_summary": "To evaluate the efficacy of usual monotherapy and low dose combination of Lamotrigine and Valproate. Low dose combination may be more effective and tolerable because they are low dose and VPA reduce Lamotrigine metabolism.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥16yr old\n* Who are diagnosed as epilepsy definitely\n* Who have minimum 2 unprovoked seizures and minimum 1 seizure in previous 3 months\n* Who need AED therapy and no AED medication for previous 1 year (exclude emergency medication for less than 2weeks)\n* Who is not pregna",
+      "endpoints": [
+        "Retention Rate After 52 Weeks Maintenance Period"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT00807989"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00789113",
+      "title": "Determination of Bioavailability and Clearance of Lamotrigine-XR by a Stable Isotope Technique",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "People over 65 years of ag break down (metabolize) drugs differently than younger adults. It is not known why this happens or how elderly people absorb or break down these drug differently. These difference may show that elderly individuals need lower doses of medications to avoid possible toxicity. We are interested in studying how yor body absorbs and breaks down your lamotrigine medication. This research may indicate that doses of lamotrigine should be lowered as people get older.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical Diagnosis of Epilepsy or Bipolar Depression\n* able to have a venus catheter implanted for blood withdrawal and for intravenous infusion\n* equal to or over the age of 65\n\nExclusion Criteria:\n\n* not on any medication that will interact with lamotrigine e.g. carbamazepin",
+      "endpoints": [
+        "Area Under the Curve (AUC) for Oral Bioavailability of Lamotrigine (LTG"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT00789113"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01064297",
+      "title": "Lamotrigine Pregnancy Registry (LAM05)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2001-11",
+      "completion_date": "2010-07",
+      "country": "N/A",
+      "enrollment": 3416,
+      "brief_summary": "Antiepileptic drugs (AEDs) are not indicated for use in pregnancy. However, women with epilepsy, and other approved indications including bipolar disorder, may require or be unintentionally exposed to AEDs during pregnancy. Prior to an AED being marketed there are few data available on drug safety in pregnancy: data from animal models may not translate directly to humans and pregnant women are routinely excluded from clinical trials. The International Lamotrigine Pregnancy Registry was establish",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women exposed in utero to lamotrigine (as monotherapy or in a polytherapy combination) during pregnancy. Exposure can occur at any time during pregnancy, though exposure in the first trimester is of primary interest.\n* Pregnancies exposed to lamotrigine and reported before the",
+      "endpoints": [
+        "Birth Outcomes by Earliest Pregnancy Trimester of Exposure to Lamotrigine Monotherapy",
+        "Birth Outcomes by Earliest Pregnancy Trimester of Exposure to Lamotrigine Polytherapy With Valproate",
+        "Birth Outcomes by Earliest Pregnancy Trimester of Exposure to Lamotrigine Polytherapy Without Valproate"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01064297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00292461",
+      "title": "A Study for Evaluating the Efficacy and Safety of Zonisamide and Lamotrigine (Lamictal) for Subjects With Refractory Simple Partial, Complex Partial or Partial With Secondary Generalized Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2009-09",
+      "country": "China",
+      "enrollment": 64,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of zonisamide for anti-epilepsy drugs (AEDs) treated subjects with refractory simple partial, complex partial or partial with secondary generalized seizures.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Subjects must sign and date the informed consent form\n* Clinical diagnosis as refractory epilepsy\n\nExclusion criteria:\n\n* Progressive neurologic disease\n* Serious psychiatric disease\n* Hemolytic anemia\n* G6PD (glucose-6-phosphate dehydrogenase) deficiency\n* Acute intermittent ",
+      "endpoints": [
+        "The Percentage Change of Monthly Seizure Frequency at the End of the 16-week Treatment From Baseline"
+      ],
+      "sponsor": "Eisai Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00292461"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00280059",
+      "title": "A Randomized, Comparative, Double-Blind, Parallel-Group, Multicenter, Monotherapy, Study Of Pregabalin (Lyrica) And Lamotrigine (Lamictal) In Patients With Newly Diagnosed Partial Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2010-04",
+      "country": "Italy, Thailand, Sweden, United Kingdom, Spain, Bulgaria, Netherlands, South Korea, Mexico, Belgium, Czechia, Colombia, Hong Kong, Romania, Portugal, France, Ireland, Hungary, Taiwan, Finland, Singapore, India, Slovakia, Germany, Latvia, Norway, China, Estonia, Lithuania",
+      "enrollment": 660,
+      "brief_summary": "The purpose of this study is to assess whether Lyrica is a safe and effective treatment for partial epilepsy in comparison with an established treatment, Lamictal.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be diagnosed with partial epilepsy and have experienced at least 2 partial seizures (simple partial, complex partial or partial seizure with secondary generalization) in the past year with one in the past 6 months.\n\nExclusion Criteria:\n\n* Treatable causes of seiz",
+      "endpoints": [
+        "Percentage of Seizure-free Participants (Responders) During Efficacy Assessment Phase"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00280059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01097720",
+      "title": "Developmental Delay in Children Exposed During Pregnancy to Either Lamotrigine, Sodium Valproate, or Carbamazepine",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2005-03",
+      "completion_date": "2010-09",
+      "country": "United States",
+      "enrollment": 298,
+      "brief_summary": "This study is investigating the neurodevelopmental effects of prenatal exposure to lamotrigine (LTG), sodium valproate (VPA), or carbamazepine (CBZ) monotherapies. The hypotheses to be tested include:\n\n1. Exposure during pregnancy to CBZ, LTG, and VPA, each as monotherapy, is associated with developmental delay with or without signs of autism.\n2. Exposure to each drug (CBZ, LTG, and VPA) as monotherapy is associated with an increased rate of occurrence of major malformations.\n3. The child with m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 36-83 months of age\n* Prenatal exposure to LTG, VPA, or CBZ monotherapy\n* AED was used by mother to suppress seizures\n* Mother was enrolled in the North American AED Pregnancy Registry\n\nExclusion Criteria:\n\n* Exposure during the first trimester to other known teratogens.\n* Mot",
+      "endpoints": [
+        "Adaptive Behavior Scores"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01097720"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02556320",
+      "title": "Immunological and Viral Parameters in Patients Receiving Anti-epileptic Drugs",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-05",
+      "completion_date": "2015-12",
+      "country": "France",
+      "enrollment": 30,
+      "brief_summary": "A recent study has shown that certain drug allergies were actually related to an immune system against certain viruses. The aim of the study is to evaluate, in patients taking antiepileptic drugs, if this treatment induces proliferation of these viruses and secondarily an immune response that would promote the development of a rash. In particular, will be studied whether these drugs can induce virus reactivation \"dormant\" in the immune system. This study will not affect the usual follow-up propo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients age over 18 years\n* Patient for whom treatment of antiepileptic class will be started or was set for less than 48 hours and including one of the following molecules (as princeps or generic equivalent form): sodium valproate, divalproate sodium, valpromide, lamotrigine",
+      "endpoints": [
+        "Number of patients with viral reactivation of Epstein-Barr Virus",
+        "Number of patients with viral reactivation of Human Herpes Virus 6",
+        "Number of patients with viral reactivation of Human Herpes Virus 7"
+      ],
+      "sponsor": "University Hospital, Rouen",
+      "url": "https://clinicaltrials.gov/study/NCT02556320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00054990",
+      "title": "The Effects Of Antiepileptic Drugs On Cortical Excitability",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2004-03",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study will evaluate the usefulness of transcranial magnetic stimulation (TMS) in measuring cortical excitability. The cortex is the outer part of the brain. Patients with seizures have increased cortical excitability and are often treated with antiepileptic drugs to reduce this excitability. The therapeutic effects of antiepileptic drugs are usually tracked with blood tests that measure their blood levels. However, these blood tests may not always correctly reflect the effects of the drugs ",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\nNormal volunteers will be male or female, aged 18 to 55 at protocol entry without any of the exclusion criteria described below.\n\nEXCLUSION CRITERIA:\n\nPatients will be excluded from this study if they:\n\n1. are pregnant (tested with urine pregnancy test).\n2. have severe coronary ",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00054990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03636958",
+      "title": "Study of the Efficacy and Safety of Perampanel in Combination in Glioma-refractory Epilepsy",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2021-02-15",
+      "completion_date": "2026-12-01",
+      "country": "France",
+      "enrollment": 0,
+      "brief_summary": "Gliomas are primitive brain tumors frequently associated with epilepsy. In a significant number of these patients epilepsy is resistant to antiepileptic drugs. There are currently no recommendations for the management of these drug-resistant epilepsies associated with glioma. In addition, few studies have addressed the subject and no treatment appears to be superior to others in the literature for this indication. In addition, many antiepileptic drugs pose problems of tolerance or interaction wi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatient, male or female, over 18 years old\n\n* Glioma confirmed by histology\n* Not in progression (clinico-radiological criterion RANO, (Wen et al., 2014), see appendix 1)\n\n  * No clinical worsening (excluding epileptic seizures)\n  * No increase greater than 25% in contrast enhan",
+      "endpoints": [
+        "Numbers of crisis at baseline",
+        "Numbers of crisis under treatment"
+      ],
+      "sponsor": "Assistance Publique Hopitaux De Marseille",
+      "url": "https://clinicaltrials.gov/study/NCT03636958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00916149",
+      "title": "Cognitive Effects of Treatment of Interictal Discharges",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2012-10",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "The purpose of this study is to determine if levetiracetam (for patients with focal seizures) or lamotrigine (for patients with generalized seizures) reduces the occurrence of interictal discharges. The study investigates the possible correlation between reduction of interictal discharges and improved cognitive performance.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* 18-55 years of age\n* Normal Intelligence Quotient (IQ ≥ 80) as estimated by the Wechsler Test of Adult Reading (WTAR)\n* Able to give consent\n* The subject's treating physician is planning to prescribe levetiracetam for focal or lamotrigine for generalized seizure prevention\n* E",
+      "endpoints": [
+        "Mean Change in Focal Interictal Discharges (IEDs) Per Hour, Pre to Post Treatment"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00916149"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04939675",
+      "title": "Modification of Epilepsy Screen Questionnaire and Treatment Feasibility Evaluation",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-07-01",
+      "completion_date": "2025-06-30",
+      "country": "N/A",
+      "enrollment": 40,
+      "brief_summary": "Atypical presentations in epilepsy may include confusion status, acute maniac or delirious condition, loss of cognitive ability such as speech, interaction skills, or other praxis. Current diagnosis of epilepsy did not address on definition of seizure. The new insights of seizure semiology and their treatment response, suggest the screen tool and diagnostic criteria of epilepsy can be revised.\n\nIn this study, we have two aims. The first aim is to develop a screening questionnaire by adding new s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1\\. Age equal or more than 20-year-old 2a. Patients already diagnosed of epilepsy 2b. Non-epileptic patients from outpatient and inpatient settings of National Taiwan University Hospital (NTUH) and National Taiwan University Hospital Yunlin Branch (NTUHYL) 2c. Community health p",
+      "endpoints": [
+        "Mini-Mental State Examination"
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04939675"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01657864",
+      "title": "WEUSKOP6166: Prevalence of Aseptic Meningitis Among Lamotrigine Users",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-05",
+      "completion_date": "2012-07",
+      "country": "N/A",
+      "enrollment": 1,
+      "brief_summary": "The objective of the study is to quantify the number of cases of aseptic meningitis among users of Lamotrigine. This study is a cross-sectional study design using data on lamotrigine patients within the Thomson Reuters MarketScan® Commercial database (MarketScan database). The MarketScan database is a US-based insurance claims database representative of a US insured population and includes supplemental datao n Medicare patients. This cross-sectional study will evaluate the number of cases of ase",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be using lamotrigine for epilepsy or bipolar disorder.\n* Patients must have at least 180 days history on the database prior to the index of lamotrigine use.\n* Patients must have medical and pharmacy coverage throughout the study, with no gaps in eligibility.\n\nExc",
+      "endpoints": [
+        "Aseptic meningitis during the period of time the patient is taking lamotrigine"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01657864"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02727101",
+      "title": "\"Rational Polytherapy\" Using Perampanel Dual Therapy Anticonvulsant Combination Treatments of Adults With Refractory Focal Epilepsy : a Pilot Study.",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2015-11",
+      "completion_date": "2017-07",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "The goal of the present study is to evaluate (\"screen\") a large number (12) of different dual therapies of perampanel + another AED (\"PMP+\") for a large, 75-100% seizure frequency reduction. The design of the study will differ from usual AED studies. The study will be (i) open label, with (ii) a small n per group, n=6, with (iii) outcome measures a 'blockbuster effect': (a) ≥75 seizure frequency reduction; and (b) seizure freedom.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-65\n2. Stable focal epilepsy, with partial complex seizures including partial complex seizures with or without secondary generalization, partial simple seizures with a clear motor component with or without secondary generalization, and partial simple seizures with secon",
+      "endpoints": [
+        "responder rate",
+        "seizure freedom rate",
+        "treatment discontinuation rate"
+      ],
+      "sponsor": "Mid-Atlantic Epilepsy and Sleep Center, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02727101"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00552526",
+      "title": "Comparing Ketogenic Diet With the Most Appropriate Antiepileptic Drug- a Randomized Study of Children With Mental Retardation and Drug Resistant Epilepsy",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2007-11",
+      "completion_date": "2013-12",
+      "country": "Norway",
+      "enrollment": 60,
+      "brief_summary": "This is an open randomized controlled study in children with mental retardation and refractory epilepsy in which treatment with ketogenic diet (KD) is compared with treatment with the antiepileptic drug (AED), not tried by the patient before, which we consider to be the most appropriate AED for the patient.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patient is mentally retarded\n* The patient has tried at least 3 different AED:s including one combination with two or more different AED:s.\n* The parents are willing to include their child in the study after written and verbal information.\n* Patients with all types of epil",
+      "endpoints": [
+        "Comparing amount of patients with 100%, >90% and >50% reduction in number of seizures between the two groups of seizures"
+      ],
+      "sponsor": "Oslo University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00552526"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02707965",
+      "title": "Characterization of Epilepsy Patients At-risk for Adverse Outcomes Related to Switching Antiepileptic Drug Products: BEEP 2b Study",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-06-08",
+      "completion_date": "2018-09-04",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "Some epilepsy patients are described as GB when they have worsened seizures or side effects related to switching between brand name and generic, or between generic antiepileptic drug (AED) products. In concert with Aim 1 (protocol BEEP2a), this study will uncover possible reasons for patient problems with the drug switching. Factors that will be studied in GB epilepsy patients include physiologic, psychological, and genetic factors, including in this protocol whether brand and generic AEDs are p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject previously completed BEEP2a study, found to be probably GB, and able to provide informed consent or subject's legally authorized representative is able to provide informed consent.\n2. Subject is male or female between 18 and 76 years of age inclusive.\n3. Subject has a",
+      "endpoints": [
+        "Mean AUC0-last_ss (Test vs. Reference)",
+        "Mean Cmax_ss (Test vs. Reference)",
+        "Mean Cmin_ss (Test vs. Reference)"
+      ],
+      "sponsor": "Food and Drug Administration (FDA)",
+      "url": "https://clinicaltrials.gov/study/NCT02707965"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07443241",
+      "title": "Gender-specific Differences in the Etiology, Diagnosis, Treatment and Outcome of Status Epilepticus",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-12-16",
+      "completion_date": "2024-03-27",
+      "country": "N/A",
+      "enrollment": 779,
+      "brief_summary": "Sex-specific differences in neurological emergencies such as Status epilepticus (SE) remain understudied despite growing recognition of gender disparities in medicine. This study aimes to investigate sex-related differences in etiology, diagnostics, treatment, and outcomes among patients with SE. The investigators conducted a retrospective analysis of 779 patients treated with SE at Marburg University Hospital between 2011 and 2023.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients who were treated at Marburg University Hospital (UKGM Marburg) between January 2011 to March 2023 with diagnosis of SE\n\nExclusion Criteria:\n\n* children",
+      "endpoints": [
+        "Age at SE Onset",
+        "Diagnosis of SE Subtype",
+        "Semiology: Focal vs. Generalized"
+      ],
+      "sponsor": "University Hospital Marburg",
+      "url": "https://clinicaltrials.gov/study/NCT07443241"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "17382828",
+      "title": "The SANAD study of effectiveness of valproate, lamotrigine, or topiramate for generalised and unclassifiable epilepsy: an unblinded randomised controlled trial.",
+      "abstract": "Valproate is widely accepted as a drug of first choice for patients with generalised onset seizures, and its broad spectrum of efficacy means it is recommended for patients with seizures that are difficult to classify. Lamotrigine and topiramate are also thought to possess broad spectrum activity. The SANAD study aimed to compare the longer-term effects of these drugs in patients with generalised onset seizures or seizures that are difficult to classify.",
+      "journal": "Lancet (London, England)",
+      "year": "2007",
+      "authors": [
+        "Marson Anthony G",
+        "Al-Kharusi Asya M",
+        "Alwaidh Muna",
+        "Appleton Richard",
+        "Baker Gus A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Anticonvulsants",
+        "Child",
+        "Child, Preschool",
+        "Cost-Benefit Analysis",
+        "Epilepsy, Generalized",
+        "Female",
+        "Follow-Up Studies",
+        "Fructose"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17382828/"
+    },
+    {
+      "pmid": "33838757",
+      "title": "The SANAD II study of the effectiveness and cost-effectiveness of levetiracetam, zonisamide, or lamotrigine for newly diagnosed focal epilepsy: an open-label, non-inferiority, multicentre, phase 4, randomised controlled trial.",
+      "abstract": "Levetiracetam and zonisamide are licensed as monotherapy for patients with focal epilepsy, but there is uncertainty as to whether they should be recommended as first-line treatments because of insufficient evidence of clinical effectiveness and cost-effectiveness. We aimed to assess the long-term clinical effectiveness and cost-effectiveness of levetiracetam and zonisamide compared with lamotrigine in people with newly diagnosed focal epilepsy.",
+      "journal": "Lancet (London, England)",
+      "year": "2021",
+      "authors": [
+        "Marson Anthony",
+        "Burnside Girvan",
+        "Appleton Richard",
+        "Smith Dave",
+        "Leach John Paul"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase IV",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Equivalence Trial"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Anticonvulsants",
+        "Child",
+        "Cost-Benefit Analysis",
+        "Epilepsies, Partial",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33838757/"
+    },
+    {
+      "pmid": "34931602",
+      "title": "Lamotrigine versus levetiracetam or zonisamide for focal epilepsy and valproate versus levetiracetam for generalised and unclassified epilepsy: two SANAD II non-inferiority RCTs.",
+      "abstract": "Levetiracetam (Keppra®, UCB Pharma Ltd, Slough, UK) and zonisamide (Zonegran®, Eisai Co. Ltd, Tokyo, Japan) are licensed as monotherapy for focal epilepsy, and levetiracetam is increasingly used as a first-line treatment for generalised epilepsy, particularly for women of childbearing age. However, there is uncertainty as to whether or not they should be recommended as first-line treatments owing to a lack of evidence of clinical effectiveness and cost-effectiveness.",
+      "journal": "Health technology assessment (Winchester, England)",
+      "year": "2021",
+      "authors": [
+        "Marson Anthony G",
+        "Burnside Girvan",
+        "Appleton Richard",
+        "Smith Dave",
+        "Leach John Paul"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase IV",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Pragmatic Clinical Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Child, Preschool",
+        "Female",
+        "Humans",
+        "Cost-Benefit Analysis",
+        "Epilepsies, Partial",
+        "Epilepsy",
+        "Lamotrigine",
+        "Levetiracetam",
+        "Quality of Life",
+        "Valproic Acid"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34931602/"
+    },
+    {
+      "pmid": "23036173",
+      "title": "Lamotrigine in epilepsy, pregnancy and psychiatry--a drug for all seasons?",
+      "abstract": "Lamotrigine has been demonstrated to be effective as both an antiepileptic drug and a mood stabiliser. For epilepsy it is less efficacious than valproate in primary generalised epilepsy, but it is comparable to some traditional drugs in partial epilepsy. In psychiatry it has significant advantages over other mood stabilisers for the treatment and prevention of depressive phases of bipolar illness, but not for the treatment of mania. It has a more benign adverse effect profile than older antiepileptic agents and is not a proven teratogen. Risk of adverse reactions is reduced by commencing treatment at a markedly reduced dose that is gradually increased.",
+      "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "year": "2013",
+      "authors": [
+        "Vajda Frank J E",
+        "Dodd Seetal",
+        "Horgan David"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Abnormalities, Drug-Induced",
+        "Anticonvulsants",
+        "Antipsychotic Agents",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Lamotrigine",
+        "Mood Disorders",
+        "Pregnancy",
+        "Triazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23036173/"
+    },
+    {
+      "pmid": "12562315",
+      "title": "Review of lamotrigine and its clinical applications in epilepsy.",
+      "abstract": "Lamotrigine is an anti-epileptic agent with broad efficacy. Lamotrigine works at voltage-sensitive sodium channels, thereby stabilising the neuronal membrane and inhibiting the release of excitatory neurotransmitters such as glutamate and aspartate. Early preclinical animal studies indicate its broad-spectrum efficacy, which was later confirmed in clinical trials. Multiple randomised, placebo-controlled and comparative trials demonstrate its efficacy against partial and secondarily generalised seizures. Open-label trials show its efficacy against generalised seizures, especially absence seizures of childhood absence epilepsy and generalised seizures of juvenile myoclonic epilepsy. Lamotrigine has a wide clinical dose range and possesses favourable pharmacokinetic properties. It has a good tolerability and safety profile, which enhance compliance. Its small risk of serious skin rash should be weighed against its potential benefits when choosing lamotrigine on an individual basis. Lamotr",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2003",
+      "authors": [
+        "Choi Hyunmi",
+        "Morrell Martha J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Abnormalities, Drug-Induced",
+        "Animals",
+        "Anticonvulsants",
+        "Child",
+        "Dose-Response Relationship, Drug",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Lamotrigine",
+        "Pregnancy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12562315/"
+    },
+    {
+      "pmid": "35144403",
+      "title": "The efficacy of lamotrigine after failure of the first administration of valproate in treating epilepsy: a systematic review and meta-analysis.",
+      "abstract": "Epilepsy is a long-term recurrent chronic brain disease that can cause significant emotional burden to the patient and their family, as well as huge economic costs to society. Timely and accurate diagnosis of epilepsy, together with early and standardized treatments can effectively control seizures and restore the patient's quality of life and reduce the economic burden. This meta-analysis examined the efficacy of lamotrigine administration in patients with epilepsy.",
+      "journal": "Annals of palliative medicine",
+      "year": "2022",
+      "authors": [
+        "He Jia",
+        "Wu Xueying",
+        "Zhou Dong"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Epilepsy",
+        "Humans",
+        "Lamotrigine",
+        "Quality of Life",
+        "Triazines",
+        "Valproic Acid"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35144403/"
+    },
+    {
+      "pmid": "39024362",
+      "title": "UGT1A4*3 polymorphism influences serum concentration and therapeutic effect of lamotrigine for epilepsy treatment: A meta-analysis.",
+      "abstract": "Lamotrigine as a broad-spectrum antiepileptic drug, is widely applied and its clinical efficacy is highly recognized. However, significant differences are observed in blood drug concentration of lamotrigine among individuals, which may have an impact on its efficacy. UGT1A4 is the main metabolic enzyme. However, it was inconsistent for the influence of UGT1A4 genetic polymorphism on concentration and efficacy of lamotrigine therapy. This study aimed to evaluate the influences of UGT1A4*3 genetic polymorphisms on lamotrigine concentration and therapeutic effect through meta-analysis.",
+      "journal": "PloS one",
+      "year": "2024",
+      "authors": [
+        "Jiang Zhimei",
+        "Fu Yuzhi",
+        "Shen Hongxin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Lamotrigine",
+        "Humans",
+        "Glucuronosyltransferase",
+        "Epilepsy",
+        "Anticonvulsants",
+        "Polymorphism, Genetic",
+        "Genotype",
+        "Polymorphism, Single Nucleotide",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39024362/"
+    },
+    {
+      "pmid": "8536554",
+      "title": "Lamotrigine. An update of its pharmacology and therapeutic use in epilepsy.",
+      "abstract": "Lamotrigine is an antiepileptic agent which blocks voltage-dependent sodium channels, thereby preventing excitatory neurotransmitter release. Clinical evidence indicates that lamotrigine is effective against partial and secondarily generalised tonic-clonic seizures, as well as idiopathic (primary) generalised epilepsy. As monotherapy, lamotrigine 100 to 300 mg/day has similar medium term (30 to 48 weeks) efficacy to carbamazepine 300 to 1400 mg/day and phenytoin 300 mg/day against partial onset seizures and idiopathic generalised tonic-clonic seizures in adults with newly diagnosed epilepsy, and appears to be better tolerated than the older agents. As adjunctive therapy, lamotrigine (50 to 500 mg/day) has shown efficacy in short term ( < or = 6-months) placebo-controlled studies in adults with refractory partial epilepsy, reducing total seizure frequency (by < or = 60%) and producing improvement ( > or = 50% reduction in seizure frequency) in < or = 67% of patients. Both simple and com",
+      "journal": "Drugs",
+      "year": "1995",
+      "authors": [
+        "Fitton A",
+        "Goa K L"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Anticonvulsants",
+        "Child",
+        "Child, Preschool",
+        "Epilepsy",
+        "Humans",
+        "Lamotrigine",
+        "Triazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8536554/"
+    },
+    {
+      "pmid": "17125413",
+      "title": "Pharmacokinetics, toxicology and safety of lamotrigine in epilepsy.",
+      "abstract": "Optimisation of pharmacotherapy for epilepsy requires consideration of the impact of drug metabolism and toxicology on the therapeutic profiles and clinical use of antiepileptic drugs (AEDs). This review discusses the pharmacokinetics and toxicology of the AED lamotrigine, and considers the implications of these data for optimising its use in the management of epilepsy. Lamotrigine has good absorption, minimal plasma protein binding and linear pharmacokinetics. Partly because of these properties, frequent dosing adjustments are generally unnecessary, and therapeutic monitoring is not required under most circumstances. Lamotrigine is not associated with clinically significant neurological, cognitive, metabolic, hepatic or reproductive endocrine toxicity. Like other AEDs, including carbamazepine and phenytoin, lamotrigine has been associated with serious rash. With some exceptions, lamotrigine has relatively few clinically relevant drug interactions, a characteristic important in reducin",
+      "journal": "Expert opinion on drug metabolism & toxicology",
+      "year": "2006",
+      "authors": [
+        "Biton Victor"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anticonvulsants",
+        "Dose-Response Relationship, Drug",
+        "Epilepsy",
+        "Exanthema",
+        "Humans",
+        "Intestinal Absorption",
+        "Lamotrigine",
+        "Metabolic Clearance Rate",
+        "Triazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17125413/"
+    },
+    {
+      "pmid": "9429127",
+      "title": "Use of lamotrigine in Lennox-Gastaut and related epilepsy syndromes.",
+      "abstract": "Lennox-Gastaut syndrome a combination of various generalized seizures including atypical absences and tonic seizures with generalized slow spike waves and mental deterioration, is often difficult to distinguish from a subgroup of myoclonic-astatic epilepsy, other generalized epilepsy syndromes, and various symptomatic generalized epilepsies. Conventional antiepileptic medication is poorly effective in this condition, particularly because various types of seizures respond differently to each given drug. Lamotrigine is effective in the various types of generalized seizures and efficacy has been demonstrated in Lennox-Gastaut syndrome. Given the potential of major mental deterioration within a matter of months in this condition, and the need of slow dose escalation in order to prevent skin rash, lamotrigine should be administered as soon as the diagnosis of Lennox-Gastaut syndrome is suspected. In addition, there is growing evidence that lamotrigine is also most useful in the subgroup of ",
+      "journal": "Journal of child neurology",
+      "year": "1997",
+      "authors": [
+        "Dulac O",
+        "Kaminska A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anticonvulsants",
+        "Child",
+        "Diagnosis, Differential",
+        "Epilepsy",
+        "Epilepsy, Generalized",
+        "Humans",
+        "Lamotrigine",
+        "Seizures",
+        "Syndrome",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9429127/"
+    },
+    {
+      "pmid": "29124439",
+      "title": "Lennox-Gastaut syndrome: a comprehensive review.",
+      "abstract": "Lennox-Gastaut syndrome (LGS) is considered an epileptic encephalopathy and is defined by a triad of multiple drug-resistant seizure types, a specific EEG pattern showing bursts of slow spike-wave complexes or generalized paroxysmal fast activity, and intellectual disability. The prevalence of LGS is estimated between 1 and 2% of all patients with epilepsy. The etiology of LGS is often divided into two groups: identifiable (genetic-structural-metabolic) in 65 to 75% of the patients and LGS of unknown cause in others. Lennox-Gastaut syndrome may be considered as secondary network epilepsy. The seizures in LGS are usually drug-resistant, and complete seizure control with resolution of intellectual and psychosocial dysfunction is often not achievable. Reduction in frequency of the most incapacitating seizures (e.g., drop attacks and tonic-clonic seizures) should be the major objective. Valproate, lamotrigine, and topiramate are considered to be the first-line drugs by many experts. Other ",
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "year": "2018",
+      "authors": [
+        "Asadi-Pooya Ali A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Lennox Gastaut Syndrome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29124439/"
+    },
+    {
+      "pmid": "39700524",
+      "title": "Refining management strategies for Lennox-Gastaut syndrome: Updated algorithms and practical approaches.",
+      "abstract": "Lennox-Gastaut syndrome (LGS) is a severe developmental and epileptic encephalopathy (DEE) characterized by multiple types of drug-resistant seizures (which must include tonic seizures) with classical onset before 8 years (although some cases with later onset have also been described), abnormal electroencephalographic features, and cognitive and behavioral impairments. Management and treatment of LGS are challenging, due to associated comorbidities and the treatment resistance of seizures. A panel of five epileptologists reconvened to provide updated guidance and treatment algorithms for LGS, incorporating recent advancements in antiseizure medications (ASMs) and understanding of DEEs. The resulting consensus document is based on current evidence from clinical trials and clinical practice and the panel's expert opinion, focusing on new ASMs with novel mechanisms of action, such as highly purified cannabidiol and fenfluramine. For a patient presenting with newly diagnosed LGS or suspect",
+      "journal": "Epilepsia open",
+      "year": "2025",
+      "authors": [
+        "Auvin Stéphane",
+        "Arzimanoglou Alexis",
+        "Falip Mercè",
+        "Striano Pasquale",
+        "Cross J Helen"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Algorithms",
+        "Anticonvulsants",
+        "Disease Management",
+        "Lennox Gastaut Syndrome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39700524/"
+    },
+    {
+      "pmid": "33479851",
+      "title": "Expanding the Treatment Landscape for Lennox-Gastaut Syndrome: Current and Future Strategies.",
+      "abstract": "Lennox-Gastaut syndrome (LGS), a childhood-onset severe developmental and epileptic encephalopathy (DEE), is an entity that encompasses a heterogenous group of aetiologies, with no single genetic cause. It is characterised by multiple seizure types, an abnormal EEG with generalised slow spike and wave discharges and cognitive impairment, associated with high morbidity and profound effects on the quality of life of patients and their families. Drug-refractory seizures are a hallmark and treatment is further complicated by its multiple morbidities, which evolve over the patient's lifetime. This review provides a comprehensive overview of the current and future options for the treatment of seizures associated with LGS. Six treatments are specifically indicated as adjunct therapies for the treatment of seizures associated with LGS in the US: lamotrigine, clobazam, rufinamide, topiramate, felbamate and most recently cannabidiol. These therapies have demonstrated reductions in drop seizures ",
+      "journal": "CNS drugs",
+      "year": "2021",
+      "authors": [
+        "Strzelczyk Adam",
+        "Schubert-Bast Susanne"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anticonvulsants",
+        "Child",
+        "Diet, Ketogenic",
+        "Drug Development",
+        "Electroencephalography",
+        "Humans",
+        "Lennox Gastaut Syndrome",
+        "Off-Label Use",
+        "Quality of Life"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33479851/"
+    },
+    {
+      "pmid": "32563898",
+      "title": "Expert opinion: Proposed diagnostic and treatment algorithms for Lennox-Gastaut syndrome in adult patients.",
+      "abstract": "Lennox-Gastaut syndrome (LGS) is a severe developmental epileptic encephalopathy diagnosed in childhood that persists through adolescence and into adulthood. While the characteristics of LGS in pediatric patients are well defined, including \"drop attacks\", interictal slow spike and wave electroencephalogram (EEG) activity, and intellectual disability, these features can evolve over time, and different EEG activities may be present in adult patients with LGS. This may result in missed diagnoses in these patients and subsequent challenges for the adequate treatment of their seizures. Based on discussions held during the LGS Transition of Care advisory board meeting and thereafter, we developed proposed diagnostic and treatment algorithms for LGS in adult patients. We highlight readily available assessments to facilitate diagnosis of LGS, based on past medical history and physical examination. The LGS diagnostic algorithm recommends that clinicians consider the occurrence of wider seizure",
+      "journal": "Epilepsy & behavior : E&B",
+      "year": "2020",
+      "authors": [
+        "Montouris Georgia",
+        "Aboumatar Sami",
+        "Burdette David",
+        "Kothare Sanjeev",
+        "Kuzniecky Ruben"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Algorithms",
+        "Anticonvulsants",
+        "Clinical Trials as Topic",
+        "Clobazam",
+        "Electroencephalography",
+        "Humans",
+        "Intellectual Disability",
+        "Lennox Gastaut Syndrome",
+        "Sleep",
+        "Triazoles"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32563898/"
+    },
+    {
+      "pmid": "39854828",
+      "title": "Antiseizure medications for Lennox-Gastaut Syndrome: Comprehensive review and proposed consensus treatment algorithm.",
+      "abstract": "Lennox-Gastaut syndrome (LGS) is a severe, childhood-onset developmental and epileptic encephalopathy characterized by multiple drug-resistant seizure types, specific electroencephalogram (EEG) patterns, and significant cognitive and behavioral impairments. To date, eight anti-seizure medications (ASMs) have been specifically approved by the U.S. Food and Drug Administration (FDA) for the treatment of LGS: clonazepam, felbamate, lamotrigine, topiramate, rufinamide, clobazam, cannabidiol, and fenfluramine. Additionally, several other ASMs, including valproate, are frequently used off-label for LGS management. As the therapeutic landscape for LGS expands, clinicians are increasingly faced with complex decisions regarding optimal ASM selection. This narrative review explores evolving treatment strategies, offering a consensus-based treatment algorithm designed by a panel of U.S.- based experts. We analyze both FDA-approved and off-label ASMs, drawing on data from randomized controlled tri",
+      "journal": "Epilepsy & behavior : E&B",
+      "year": "2025",
+      "authors": [
+        "Samanta Debopam",
+        "Bhalla Sonam",
+        "Bhatia Sonal",
+        "Fine Anthony L",
+        "Haridas Babitha"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Lennox Gastaut Syndrome",
+        "Anticonvulsants",
+        "Algorithms",
+        "Consensus"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39854828/"
+    },
+    {
+      "pmid": "32409177",
+      "title": "Lennox-Gastaut syndrome: New treatments and treatments under investigation.",
+      "abstract": "There are currently five compounds (clobazam, felbamate, lamotrigine, topiramate, rufinamide) available for prescription with a demonstrated efficacy on drop seizures for Lennox-Gastaut syndrome (LGS). There are also currently new and under-investigation compounds. This paper gives an overview on these novel developments for LGS based on the lecture given at the French Chapter meeting of the International League Against Epilepsy (ILAE) held in Paris in October 2019. Five compounds were discussed. Epidiolex (cannabidiol) has been approved recently based on positive randomized control trials in LGS patients. Four drugs are under investigation according to a search on the 'clinicaltrials.gov' database. Perampanel and fenfluramine are both being studied in ongoing phase 3 studies. Two compounds are in an earlier stage of development with ongoing phase 1 and 2 studies: carisbamate and OV953. We summarized the publicly available data. Based on these drug development programs, we can expect t",
+      "journal": "Revue neurologique",
+      "year": "2020",
+      "authors": [
+        "Auvin S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anticonvulsants",
+        "Cannabidiol",
+        "Drug Development",
+        "Drugs, Investigational",
+        "Fenfluramine",
+        "Humans",
+        "Lennox Gastaut Syndrome",
+        "Nitriles",
+        "Pyridones",
+        "Therapies, Investigational"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32409177/"
+    },
+    {
+      "pmid": "40468679",
+      "title": "Current and emerging pharmacotherapies in Lennox-Gastaut syndrome.",
+      "abstract": "Lennox-Gastaut syndrome (LGS) is a severe childhood-onset developmental and epileptic encephalopathy characterized by multiple drug-resistant seizures, cognitive impairments, and distinctive EEG patterns. Given its profound impact on patients' quality of life, developing effective pharmacotherapies remains a critical clinical challenge.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2025",
+      "authors": [
+        "Samanta Debopam",
+        "Nath Manan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Lennox Gastaut Syndrome",
+        "Anticonvulsants",
+        "Quality of Life",
+        "Precision Medicine",
+        "Animals",
+        "Drug Development",
+        "Randomized Controlled Trials as Topic",
+        "Off-Label Use"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40468679/"
+    },
+    {
+      "pmid": "37212330",
+      "title": "Current and emerging pharmacotherapy for the treatment of Lennox-Gastaut syndrome.",
+      "abstract": "Lennox-Gastaut syndrome (LGS) is a severe childhood-onset epileptic encephalopathy, characterized by multiple seizure types, generalized slow spike-and-wave complexes in the EEG, and cognitive impairment. Seizures in LGS are typically resistant to treatment with antiseizure medications (ASMs). Tonic/atonic ('drop') seizures are of particular concern, due to their liability to cause physical injury.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2023",
+      "authors": [
+        "Besag Frank M C",
+        "Vasey Michael J",
+        "Chin Richard F M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Child",
+        "Lennox Gastaut Syndrome",
+        "Clobazam",
+        "Topiramate",
+        "Quality of Life",
+        "Anticonvulsants",
+        "Seizures",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37212330/"
+    },
+    {
+      "pmid": "21233883",
+      "title": "[Lennox-Gastaut syndrome--course and treatment].",
+      "abstract": "Lennox-Gastaut syndrome (LGS) is a severe epileptic encephalopathy, which starts in childhood with various seizure types. The children develop cognitive impairment and a typical EEG pattern. The aim of this article is to describe the clinical presentation of LGS, with particular emphasis on the course in adulthood.",
+      "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+      "year": "2011",
+      "authors": [
+        "Lund Caroline",
+        "Brodtkorb Eylert",
+        "Nakken Karl O"
+      ],
+      "pub_types": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anticonvulsants",
+        "Diagnosis, Differential",
+        "Electroencephalography",
+        "Humans",
+        "Intellectual Disability",
+        "Lennox Gastaut Syndrome",
+        "Prognosis",
+        "Quality of Life",
+        "Spasms, Infantile"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21233883/"
+    },
+    {
+      "pmid": "28461749",
+      "title": "Treatment-resistant Lennox-Gastaut syndrome: therapeutic trends, challenges and future directions.",
+      "abstract": "Lennox-Gastaut syndrome is a severe, childhood-onset electroclinical syndrome comprised of multiple seizure types, intellectual and behavioral disturbances and characteristic findings on electroencephalogram of slow spike and wave complexes and paroxysmal fast frequency activity. Profound morbidity often accompanies a common and severe seizure type, the drop attack. Seizures often remain refractory, or initial treatment efficacy fades. Few individuals are seizure free despite the development of multiple generations of antiseizure medications over decades and high-level evidence on several choices. Approved medications such as lamotrigine, topiramate, rufinamide, felbamate and clobazam have demonstrated efficacy in reducing seizure burden. Cannabidiol has emerged as a promising investigational therapy with vast social interest yet lacks a standard, approved formulation. Palliative surgical procedures, such as vagal nerve stimulation and corpus callosotomy may provide reduction in total ",
+      "journal": "Neuropsychiatric disease and treatment",
+      "year": "2017",
+      "authors": [
+        "Ostendorf Adam P",
+        "Ng Yu-Tze"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28461749/"
+    }
+  ]
+}

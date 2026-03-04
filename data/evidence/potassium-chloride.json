@@ -1,0 +1,1027 @@
+{
+  "drug": "Potassium Chloride",
+  "drugbank_id": "DB00761",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:36:59Z",
+  "indications": [
+    {
+      "indication": "potassium deficiency disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 3,
+        "phase1_trials": 5,
+        "other_trials": 8,
+        "rct_articles": 0,
+        "review_articles": 6,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "constipation disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 8,
+        "phase1_trials": 0,
+        "other_trials": 9,
+        "rct_articles": 0,
+        "review_articles": 2,
+        "other_articles": 8,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "potassium deficiency disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 3,
+        "phase1_trials": 5,
+        "other_trials": 8,
+        "rct_articles": 0,
+        "review_articles": 6,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "constipation disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 8,
+        "phase1_trials": 0,
+        "other_trials": 9,
+        "rct_articles": 0,
+        "review_articles": 2,
+        "other_articles": 8,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "potassium deficiency disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 3,
+        "phase1_trials": 5,
+        "other_trials": 8,
+        "rct_articles": 0,
+        "review_articles": 6,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 100,
+  "total_articles": 50,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03493087",
+      "title": "Underlying Causes of Low Vitamin K Status in Hemodialysis Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-02-22",
+      "completion_date": "2018-11-20",
+      "country": "Denmark",
+      "enrollment": 33,
+      "brief_summary": "Studies have shown that patients with chronic kidney disease in hemodialysis have a low vitamin K status which is believed to be related to an increased risk of atherosclerosis and increased bleeding tendency. The underlying causes of low vitamin K status in hemodialysis patients is unknown. Thus, the aim of this study is to investigate why hemodialysis patients have a low vitamin K status and how to improve it.\n\nThis study is composed of five trials. Four of them are based on possible hypothese",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic kidney disease\n* Hemodialysis (\\> 3 months) at Herlev Hospital, Nephrological department\n* Understands and are able to read danish\n* Able to collaborate on diet etc.\n\nExclusion Criteria:\n\n* Warfarin treatment\n* Pregnant or breastfeeding\n* Prior intake of vitamin K supp",
+      "endpoints": [
+        "Δ-dp-uc-MGP (Sub-trial 5)"
+      ],
+      "sponsor": "University of Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT03493087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01300234",
+      "title": "A Multi-centre, Double Blind, Double Dummy, Randomised, Controlled Study to Evaluate the Efficacy and Safety of TDF 300mg Once Daily (QD) Versus Adefovir Dipivoxil (ADV) 10mg QD in Chinese Subjects With CHB",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-03-30",
+      "completion_date": "2016-12-06",
+      "country": "China",
+      "enrollment": 512,
+      "brief_summary": "This is a multi-centre, double blind, double dummy, randomised, controlled study to evaluate the efficacy and safety of TDF 300mg QD versus ADV 10mg QD in Chinese subjects with CHB. This study is designed to demonstrate the superiority of TDF 300mg QD over ADV 10mg QD in treating Chinese subjects with CHB (hepatitis B e antigen \\[HBeAg\\] positive subjects and HBeAg negative subjects). It will also provide long-term efficacy and safety data (up to 240 weeks) for TDF 300 mg administered once daily",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HBeAg positive/negative CHB with blood HBVDNA≥10\\^5 copies/mL and elevated ALT\n* Nucleoside and nucleotide naïve CHB subjects. Previous lamivudine treatment is allowed in less than 10% of the total study population\n\nExclusion Criteria:\n\n* subjects with hepatocellular carcinoma",
+      "endpoints": [
+        "Participants With Hepatitis B Virus (HBV) Deoxyribonucleic Acid (DNA) <400 Copies/Milliliter (mL) at Week 48"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01300234"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00594646",
+      "title": "A Phase IV Open-Label Evaluation of Safety, Tolerability and Patient Acceptance of Raltegravir (MK-0518) Combined With a Fixed-Dose Formulation of Tenofovir Following Potential Exposure to HIV-1",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2010-08",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "This study will evaluate how safe and tolerable a combination of taking three-drugs will be for the purpose of preventing HIV transmission after a high-risk sexual contact exposure in HIV uninfected adults.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV uninfected on the basis of a negative HIV Rapid Test, EIA or Western blot, and a negative HIV-1 RNA assay\n* Possible non-occupational exposure to HIV-1, recent enough to permit receiving the first dose of study medication within 72 hours from the end of the exposure.\n* Abl",
+      "endpoints": [
+        "Medication Regimen Completion Rates",
+        "Number of HIV-1 Infected Participants"
+      ],
+      "sponsor": "Fenway Community Health",
+      "url": "https://clinicaltrials.gov/study/NCT00594646"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03907241",
+      "title": "Title for SCGAM-03: CLINICAL PHASE III STUDY TO MONITOR THE SAFETY, TOLERABILITY AND EFFICACY OF SUBCUTANEOUS HUMAN IMMUNOGLOBULIN (OCTANORM) IN PATIENTS WITH PRIMARY IMMUNODEFICIENCY DISEASES WHO HAVE COMPLETED THE SCGAM-01 TRIAL Title for SCGAM-03 in Canada: CLINICAL PHASE III STUDY TO MONITOR THE SAFETY, TOLERABILITY AND EFFICACY OF SUBCUTANEOUS HUMAN IMMUNOGLOBULIN (OCTANORM) IN PATIENTS WITH PRIMARY IMMUNODEFICIENCY DISEASES, INCLUDING (BUT NOT LIMITED TO) THOSE WHO HAVE COMPLETED THE SCGAM-01 TRIAL",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-03-01",
+      "completion_date": "2019-09-05",
+      "country": "Canada, United States",
+      "enrollment": 27,
+      "brief_summary": "Summary for SCGAM-03: Clinical phase III study to monitor the safety, tolerability and efficacy of subcutaneous human immunoglobulin (Octanorm) in patients with primary immunodeficiency diseases who have completed the SCGAM-01 trial.\n\nSummary for SCGAM-03 in Canada: Clinical phase III study to monitor the safety, tolerability and efficacy of subcutaneous human immunoglobulin (octanorm) in patients with primary immunodeficiency diseases, including (but not limited to) those who have completed the",
+      "eligibility_criteria": "Inclusion Criteria for SCGAM-03:\n\n1. Completion of the main study SCGAM-01, with good tolerance of Octanorm (as determined by the investigator).\n2. For adult patients: freely given written informed consent. For patients below the legal age of majority: freely given written informed consent from pare",
+      "endpoints": [
+        "Occurrence of All Treatment-emergent Adverse Events (TEAEs)",
+        "Occurrence of Temporally Associated TEAEs",
+        "Number of Temporally Associated TEAEs by Infusion Rate"
+      ],
+      "sponsor": "Octapharma",
+      "url": "https://clinicaltrials.gov/study/NCT03907241"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02525861",
+      "title": "A Phase 3/4 Study to Evaluate the Safety, Immunogenicity, and Effects on the Alpha1-Proteinase Inhibitor (A1PI) Levels in Epithelial Lining Fluid Following Glassia Therapy in A1PI-Deficient Subjects",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-03-08",
+      "completion_date": "2020-07-29",
+      "country": "Canada, United States",
+      "enrollment": 34,
+      "brief_summary": "The purpose of the study is 2-fold: (1) to evaluate the safety and potential immunogenicity of GLASSIA following intravenous (IV) administration via in-line filtration; and (2) to assess the effects of GLASSIA augmentation therapy on the levels of A1PI and various biomarkers in the epithelial lining fluid (ELF) following intravenous (IV) administration at a dosage of 60 milligrams per kilogram (mg/kg) Body weight (BW)/week active alpha1-proteinase inhibitor (A1PI) protein for 25 weeks in partici",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female participants meeting the following age criteria:\n\n   1. For participants who will undergo bronchoscopy/ bronchoalveolar lavage (BAL) procedures: 18 to 75 years of age at the time of screening.\n   2. For participants who will be waived from undergoing bronchosco",
+      "endpoints": [
+        "Number of Participants With Treatment-Emergent Adverse Events (TEAEs) Potentially Related to Presence of Particle Load in the GLASSIA Solution",
+        "Number of Participants With Treatment-Emergent Adverse Reactions (ARs) Plus Suspected Adverse Reactions (ARs) Within 24 Hours Following the End of IP Infusion",
+        "Number of Participants With Treatment-Emergent Adverse Reactions (ARs) Plus Suspected Adverse Reactions (ARs) Within 72 Hours Following the End of IP Infusion"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT02525861"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05291520",
+      "title": "A Phase 1, Open-Label, Single-Dose Study of the Safety and Pharmacokinetics of a Human Monoclonal Antibody, GSK3810109, Administered Either Subcutaneously or Intravenously With Recombinant Human Hyaluronidase PH20 (rHuPH20) to Healthy Adults",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-02-23",
+      "completion_date": "2023-04-10",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "An open-label, two part study to assess the safety, tolerability, and PK of VH3810109 in healthy adult participants. Participants will receive a single SC or IV dose of VH3810109 co-administered with rHuPH20 and will be followed up for 24 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who are overtly healthy as determined by medical evaluation including medical history, physical examination, laboratory tests, and without history of any of the conditions listed in the exclusion criteria.\n* Participants having body weight of ≥50 kilogram (kg) and",
+      "endpoints": [
+        "Number of Participants With Grade 2 or Higher (>=) Adverse Events (AEs) Following SC Administration of VH3810109 (Part 1 and Part 3)",
+        "Number of Participants With Serious Adverse Events (SAEs) Following SC Administration of VH3810109 (Part 1 and Part 3)",
+        "Number of Participants With Injection Site Reactions (ISRs) Following VH3810109 SC Administration (Part 1 and 3)"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT05291520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00774683",
+      "title": "A Phase IV, Open-Label, Single-Sequence Pilot Study to Characterize the Pharmacokinetics of a 400mg Oral Dose of Raltegravir in the Cervicovaginal Fluids of HIV-Infected Women",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2009-09",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "The purpose of this research sub-study is to learn about the levels of an antiretroviral (ARV) medication called Raltegravir, and response to HIV virus in the genital tract of HIV-positive women.\n\nWe would like to see how this study medication is tolerated, and how the body processes the study medication in women who are HIV-positive. More specifically, we are interested in how Isentress® might penetrate into the female cervicovaginal secretions thereby potentially reducing the amount of HIV in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infection documented by HIV serology or detectable viral load\n* Self-described as African-American\n* Less than 7 days cumulative of prior HIV therapy\n* Plasma HIV RNA PCR equal to or greater than 1000 copies/mL within 90 days prior to study entry\n* Able to provide inform",
+      "endpoints": [
+        "To characterize the pharmacokinetics of raltegravir in cervicovaginal fluids of HIV-infected women, and compare this to the blood plasma pharmacokinetics being obtained in the main study, CID 0706."
+      ],
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "url": "https://clinicaltrials.gov/study/NCT00774683"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03205566",
+      "title": "The Time to Protection and Adherence Requirements of Raltegravir With or Without Lamivudine in Protection From HIV Infection",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-09-19",
+      "completion_date": "2018-09-24",
+      "country": "United Kingdom",
+      "enrollment": 38,
+      "brief_summary": "This study evaluates whether a 7-day course of Raltegravir 400mg bd or Raltegravir 400mg/lamivudine 150mg bd can prevent HIV from infecting genital tissue and will relate the level of drug in the blood to the level of drug in genital tissue and to the ability to of HIV to infect genital tissue. As well as determining whether these regimes can provide ex vivo protection against HIV, this study will also determine speed to provision of protection and a 48 hour PK/PD decay profile of Raltegravir fo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The ability to understand and sign a written informed consent form prior to participation in any screening procedures and must be willing to comply with all trial requirements.\n2. Male or non-pregnant, non-lactating females\n3. Age between 18 to 60 years, inclusive.\n4. Body Ma",
+      "endpoints": [
+        "The Level of Raltegravir Alone or Raltegravir /Lamivudine Required in the Plasma, Vagina and Rectum for 100% ex Vivo Protection From HIV"
+      ],
+      "sponsor": "Guy's and St Thomas' NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT03205566"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04112862",
+      "title": "Effects of Sodium Lactate Infusion in Patients With Glucose Transporter 1 Deficiency Syndrome (GLUT1DS)",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-05-20",
+      "completion_date": "2022-11-18",
+      "country": "Netherlands",
+      "enrollment": 2,
+      "brief_summary": "This study investigates the effect of lactate infusion on epileptic discharges on EEG and seizure frequency in glucose transporter 1 deficiency syndrome (GLUT1DS) patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with GLUT1DS and known in our center.\n* Baseline characteristics include a high frequency of clinical seizures and epileptic discharges on EEG.\n* History of trying ketogenic diet with good compliance without beneficial effects.\n* Age \\> 6 years.\n* Informed consent.\n\n",
+      "endpoints": [
+        "Number of changes in epileptic discharges on EEG during the infusion of lactate."
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04112862"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06363097",
+      "title": "The Effect of Dietary Sodium Intake on Ambulatory Blood Pressure Levels According to Urinary Uromodulin Levels in Patients With Chronic Kidney Disease",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2023-09-04",
+      "completion_date": "2025-08-30",
+      "country": "Greece",
+      "enrollment": 130,
+      "brief_summary": "In chronic kidney disease (CKD), hypertension is characterized by the phenomenon of sodium-sensitivity, i.e., the disproportionate increase in blood pressure (BP) due to an increase in dietary sodium consumption to maintain homeostasis through urinary sodium excretion. Impaired renal circulation, blunt suppression of renin-angiotensin-aldosterone system, sympathetic nervous system overactivity, paradoxically reduced levels of atrial natriuretic peptide and hyperinsulinemia represent the main pat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥18 years\n2. CKD defined based on the KDIGO criteria\n3. Provision of informed written consent\n\nExclusion Criteria:\n\n1. Kidney transplantation or end-stage kidney disease (ESKD) under hemodialysis or peritoneal dialysis\n2. Chronic atrial fibrillation or other diagnosed arr",
+      "endpoints": [
+        "Effect of urinary uromodulin levels on the relationship between 24-hour urinary sodium excretion and 24-hour ambulatory systolic blood pressure.",
+        "Effect of urinary uromodulin levels on the relationship between 24-hour urinary sodium excretion and 24-hour ambulatory diastolic blood pressure."
+      ],
+      "sponsor": "Aristotle University Of Thessaloniki",
+      "url": "https://clinicaltrials.gov/study/NCT06363097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000648",
+      "title": "A Pilot Study Evaluating Penicillin G and Ceftriaxone as Therapies for Presumed Neurosyphilis in HIV Seropositive Individuals",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1996-02",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "To provide information on the response of HIV infected, neurosyphilis patients to the currently recommended treatment for neurosyphilis; to determine whether possible co-infection with both HIV and syphilis makes more difficult the diagnosis of syphilis; to explore the usefulness of an alternative treatment which, if effective, would permit outpatient treatment for neurosyphilis that until now required prolonged hospitalization.\n\nStudies suggest that syphilis treatment failures may be more commo",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Antiretroviral drugs.\n* Concurrent treatment for opportunistic infections with non-antisyphilitic drugs.\n* Metronidazole, aminoglycosides, trimethoprim / sulfamethoxazole (TMP / SMX), polymyxin, vancomycin, dapsone, pentamidine, acyclovir, anti",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000648"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01187108",
+      "title": "Randomized Controlled Trial of N-acetylcysteine and Acetazolamide in Treatment of Chronic Mountain Sickness",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-06",
+      "completion_date": "2013-09",
+      "country": "Peru",
+      "enrollment": 85,
+      "brief_summary": "Chronic mountain sickness is characterized by excessive red blood cell production which causes sludging of the vascular system. This high viscosity blood causes heart failure, cognitive dysfunction, and strokes. The investigators hypothesize that cobalt which has been previously been shown to be an environmental pollutant worsens the overproduction of red blood cells. The investigators plan to conduct a 6 week trial in which acetazolamide (already shown to improve chronic mountain sickness) and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males over 17 years of age\n* Hematocrit \\> 70%\n* Chronic Mountain Sickness score (CMS) \\> 6\n* Able to give informed consent and follow instructions in written Spanish\n\nExclusion Criteria:\n\n* CMS \\> 15\n* Underlying lung disease, smoking, or oxygen therapy\n* Asthma (bronchospasm",
+      "endpoints": [
+        "Change from baseline in Hematocrit, or fraction of plasma occupied by cellular elements at week 8"
+      ],
+      "sponsor": "University of Colorado, Denver",
+      "url": "https://clinicaltrials.gov/study/NCT01187108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06669949",
+      "title": "Natural History and Phenotypic Spectrum of Sphingosine Phosphate Lyase Insufficiency Syndrome (SPLIS)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-04-22",
+      "completion_date": "2030-12-31",
+      "country": "United States",
+      "enrollment": 28,
+      "brief_summary": "This is a prospective longitudinal natural history study with a retrospective cross-sectional arm aimed at determining the natural history of sphingosine phosphate lyase insufficiency syndrome (SPLIS), a recently recognized inborn error of metabolism. The central hypothesis is that age of onset, other disease features, and disease biomarkers will be predictive of quality of life (QOL) and survival in SPLIS patients.",
+      "eligibility_criteria": "All identified patients with SPLIS diagnosed by genetic criteria are eligible for enrollment in this study, regardless of baseline demographic, biochemical or metabolic features and regardless of interventions such as vitamin B6 supplementation, dialysis or kidney transplantation at time of enrollme",
+      "endpoints": [
+        "Survival",
+        "Height",
+        "Weight"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT06669949"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03667547",
+      "title": "An Open-label Single Oral Dose Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of MK-0518 1200 mg (600 mg Tablet × 2) in Healthy Japanese Male Participants",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-09-27",
+      "completion_date": "2018-10-23",
+      "country": "Japan",
+      "enrollment": 12,
+      "brief_summary": "This study is designed to evaluate safety, tolerability, and pharmacokinetics of a single 1200-mg dose of raltegravir (MK-0518, ISENTRESS®) in healthy Japanese male participants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Japanese male in good health\n* Body mass index (BMI) between 18.5 and 32.0 kg/m\\^2\n* Nonsmoker and has not used nicotine-containing products for over 3 months at the time of screening test.\n\nExclusion Criteria:\n\n* History of clinically significant endocrine, gastrointestinal, ",
+      "endpoints": [
+        "Number of Participants With an Adverse Event (AE)",
+        "Number of Participants Discontinued From the Study Due to an AE",
+        "Number of Participants With a Serious Adverse Event (SAE)"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03667547"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01568892",
+      "title": "A Phase III Randomized, Double-blind Study to Demonstrate the Antiviral Activity of Dolutegravir (DTG) 50 mg Twice Daily Versus Placebo Both Co-Administered With a Failing Antiretroviral Regimen Over Seven Days, Followed by an Open Label Phase With All Subjects Receiving DTG 50 mg Twice Daily Co-administered With an Optimised Background Regimen (OBR) in HIV-1 Infected, Integrase Inhibitor Therapy-Experienced and Resistant, Adults",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-04-18",
+      "completion_date": "2013-12-16",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Study ING116529 is a multicenter, randomized, study with an initial 7 day placebo- controlled, functional monotherapy phase to quantify the antiviral activity attributable to dolutegravir (DTG) in HIV-1 infected, ART-experienced adults who are experiencing virological failure on an Integrase inhibitor containing regimen (current RAL or ELV failures), with evidence of genotypic resistance to RAL or ELV at study entry. Thirty subjects will be randomized (1:1) to receive either DTG 50mg BID (Arm A)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Screening plasma HIV-1 RNA ≥1000 copies/mL\n* ART-experienced, INI-experienced, DTG naïve\n* Current virological failure on raltegravir (RAL) or elvitegravir (ELV) regimen\n* The subject's HIV-1 shows genotypic resistance to RAL or ELV at Screening\n* Subject has been on stable AR",
+      "endpoints": [
+        "Mean Change From Baseline in Plasma Human Immunodeficiency Virus Type 1 (HIV-1) Ribonucleic Acid (RNA) at Day 8"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT01568892"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04563845",
+      "title": "A Study to Evaluate the Effect of Therapeutic and Supratherapeutic Oral Doses of GSK3640254 on Cardiac Conduction as Assessed by 12-Lead Electrocardiogram Compared to Placebo and a Single Oral Dose of Moxifloxacin in Healthy Adult Participants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-11-09",
+      "completion_date": "2021-10-30",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This study will aim to evaluate the effect of therapeutic and supratherapeutic oral doses of GSK3640254 on cardiac conduction compared to placebo and a single oral dose of Moxifloxacin in healthy adult participants. The study has 2 parts: Part 1 will determine the supratherapeutic dose for Part 2, which will be the main corrected QT interval (QTc) study. Part 1 will evaluate once daily (QD) dosing of GSK3640254 or placebo and Part 2 will investigate the safety, tolerability and Pharmacokinetics ",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participant must be 18 to 50 years of age inclusive, at the time of signing the informed consent.\n* Participants who are healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examination (inc",
+      "endpoints": [
+        "Part 1: Area Under the Plasma Concentration-time Curve From Time Zero to Time t (AUC[0-t]) of GSK3640254",
+        "Part 1: AUC From Time Zero to the End of the Dosing Interval at Steady State (AUC[0-tau]) of GSK3640254",
+        "Part 1: Maximum Observed Concentration (Cmax) of GSK3640254"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04563845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01047995",
+      "title": "Plasma and Intracellular Pharmacokinetics of Once Daily Darunavir/Ritonavir and Twice and Once Daily Raltegravir in HIV-infected Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2009-12",
+      "country": "United Kingdom",
+      "enrollment": 26,
+      "brief_summary": "The study aims to help us understand if the HIV drugs darunavir (taken with ritonavir) and raltegravir will affect each other when they are given at the same time.\n\nThe purpose of the study is to assess the pharmacokinetics (how a drug is absorbed, distributed and eliminated from your body) of darunavir and ritonavir when these are taken with and without raltegravir.\n\nThe duration of the study will be up to 50 days plus a screening visit which will take place up to 4 weeks prior to the start of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects must meet all of the following inclusion criteria within 28 days prior to the baseline visit:\n\n1. The ability to understand and sign a written informed consent form, prior to participation in any screening procedure and must be willing to comply with all study requireme",
+      "endpoints": [
+        "Steady state plasma and intracellular concentrations of darunavir/ritonavir once daily with and without raltegravir and raltegravir twice and once daily"
+      ],
+      "sponsor": "St Stephens Aids Trust",
+      "url": "https://clinicaltrials.gov/study/NCT01047995"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01288755",
+      "title": "A Phase I, Open-label, Randomized, Crossover Trial in Healthy Subjects to Investigate the Pharmacokinetic Interaction Between TMC278 25 mg q.d. and Raltegravir 400 mg b.i.d.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-02",
+      "completion_date": "2011-05",
+      "country": "N/A",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this study is to investigate the effect of steady-state concentrations of raltegravir (administered as 400 mg, twice daily) on the steady-state pharmacokinetics of TMC278 (25 mg, once daily), and vice versa. Steady state is a term that means that the drug has been given long enough so that the plasma levels will remain at about the same level with each subsequent dose. TMC278 is being investigated for the treatment of human immunodeficiency virus (HIV) infection. Raltegravir is a ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy, based on physical examination, medical history, vital signs, ECG, blood biochemistry, hematology and urinalysis\n* Body Mass Index of 18 to 30.0 kg/m2\n* Non-smoking for at least 3 months prior to screening\n* Women must be postmenopausal for at least 2 years, or be surg",
+      "endpoints": [
+        "Change in exposure to TMC278 following co-administration with raltegravir and vice versa"
+      ],
+      "sponsor": "Tibotec Pharmaceuticals, Ireland",
+      "url": "https://clinicaltrials.gov/study/NCT01288755"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06560489",
+      "title": "Clinical Trial of Safety, Pharmacodynamics and Pharmacokinetic Characteristics of Multiple Subcutaneous Injections of LP-98 in Primary Treatment of HIV-infected Patients",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2024-09-02",
+      "completion_date": "2025-08-22",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "A Randomized, Double-Blind, Parallel-Group, Exploratory Clinical Study to Evaluate the Safety, Pharmacodynamic Effects, and Pharmacokinetic Characteristics of Multiple Subcutaneous Injections of LP-98 in Treatment-Naive HIV-Infected Individuals",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Voluntarily participate in the study and obtain informed consent prior to any study-related evaluation;\n2. Aged 18-65 years at the time of the screening visit (including the cut-off), male or female;\n3. At the time of screening visit, the weight of male subjects is not less t",
+      "endpoints": [
+        "Changes from baseline in respiration rate of Vital Signs.",
+        "Changes from baseline in blood pressure of Vital Signs.",
+        "Changes from baseline in Blood lactate of Laboratory Examination."
+      ],
+      "sponsor": "Shanxi Kangbao Biological Product Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06560489"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02025868",
+      "title": "Systematic \"Adherence Intervention\" Phase Before Switching to 3rd-line ART in Patients With 2nd-line ART Virologic Failure in Sub-Saharan Africa : a Phase 2b Non-randomized Study.",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2013-03",
+      "completion_date": "2017-05",
+      "country": "Burkina Faso, Senegal, Côte d’Ivoire, Mali",
+      "enrollment": 201,
+      "brief_summary": "Thilao is a multi-country, phase 2b, non-randomized study, in Burkina Faso, Cote d'Ivoire, Mali and Senegal, West Africa.\n\nHIV-1 adults with 2nd-line ART virologic failure (plasma HIV-1 RNA \\>1000 copies/ml) will be recruited and followed in two phases:\n\n* First, a 12-week intentive adherence reinforcement phase, during which patients will continue 2nd-line ART, be seen repeatidly for counseling and educational training on adherence, and be offered the possibility of phone, SMS and home visit co",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Documented HIV-1 infection\n* History of failing a NNRTI-based 1st-line ART\n* Current PI-based 2nd-line ART \\>6 months\n* Plasma HIV-1 RNA \\>1000 copies/ml\n* Signed informed consent\n\nExclusion Criteria:\n\n* HIV-2 infection\n* Any Severe clinical event under explor",
+      "endpoints": [
+        "Virologic efficacy of the adherence reinforcement intervention",
+        "Persistent virologic efficacy of the adherence reinforcement intervention",
+        "Virologic efficacy of 3rd-line ART"
+      ],
+      "sponsor": "ANRS, Emerging Infectious Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT02025868"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "25861976",
+      "title": "Ion channels in innate and adaptive immunity.",
+      "abstract": "Ion channels and transporters mediate the transport of charged ions across hydrophobic lipid membranes. In immune cells, divalent cations such as calcium, magnesium, and zinc have important roles as second messengers to regulate intracellular signaling pathways. By contrast, monovalent cations such as sodium and potassium mainly regulate the membrane potential, which indirectly controls the influx of calcium and immune cell signaling. Studies investigating human patients with mutations in ion channels and transporters, analysis of gene-targeted mice, or pharmacological experiments with ion channel inhibitors have revealed important roles of ionic signals in lymphocyte development and in innate and adaptive immune responses. We here review the mechanisms underlying the function of ion channels and transporters in lymphocytes and innate immune cells and discuss their roles in lymphocyte development, adaptive and innate immune responses, and autoimmunity, as well as recent efforts to deve",
+      "journal": "Annual review of immunology",
+      "year": "2015",
+      "authors": [
+        "Feske Stefan",
+        "Wulff Heike",
+        "Skolnik Edward Y"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adaptive Immunity",
+        "Animals",
+        "Calcium Channels",
+        "Cation Transport Proteins",
+        "Humans",
+        "Hypersensitivity",
+        "Immunity, Innate",
+        "Immunologic Deficiency Syndromes",
+        "Immunotherapy",
+        "Ion Channels"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25861976/"
+    },
+    {
+      "pmid": "2650515",
+      "title": "Cardiovascular consequences of magnesium deficiency and loss: pathogenesis, prevalence and manifestations--magnesium and chloride loss in refractory potassium repletion.",
+      "abstract": "Dietary magnesium (Mg) deficiency is more prevalent than generally suspected and can cause cardiovascular lesions leading to disease at all stages of life. The average American diet is deficient in Mg, especially in the young, in alcoholic persons, and in those under stress or with diseases or receiving certain drug therapies, who have increased Mg needs. Otherwise normal, Mg-deficient diets cause arterial and myocardial lesions in all animals studied, and diets that are atherogenic, thrombogenic and cardiovasopathic, as well as Mg-deficient, intensify the cardiovascular lesions, whereas Mg supplementation prevents them. Diuretics and digitalis can intensify an underlying Mg deficiency, leading to cardiac arrhythmias that are refractory unless Mg is added to the regimen. Potassium (K) depletion in diuretic-treated hypertensive patients has been linked to an increased incidence of ventricular ectopy and sudden death. K supplementation alone is not the answer. Mg has been found to be nec",
+      "journal": "The American journal of cardiology",
+      "year": "1989",
+      "authors": [
+        "Seelig M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Cardiovascular Agents",
+        "Cardiovascular Diseases",
+        "Chlorides",
+        "Diet",
+        "Female",
+        "Heart Diseases",
+        "Humans",
+        "Hypertension",
+        "Magnesium",
+        "Magnesium Deficiency"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2650515/"
+    },
+    {
+      "pmid": "3543514",
+      "title": "Magnesium and potassium-sparing diuretics.",
+      "abstract": "One of the most common and serious side effects of diuretic therapy is in increased urinary loss of K. Another, although less well publicized, side effect of diuretic therapy is excessive urinary loss of Mg. In examining the effects of diuretics on Mg and K metabolism, the following factors should be taken into account: site of action and duration of action of diuretics, duration of treatment and dosage used, concurrent drug therapy, underlying disease conditions and dietary intake of Mg. Diuretics acting in the proximal tubule tend to have only minor effects on Mg excretion. Loop-blocking diuretics, however, cause major urinary losses of Mg. The Mg-wasting effects of loop-blocking diuretics have been demonstrated in large numbers of experimental and clinical studies, and the findings are consistent with micropuncture studies in laboratory animals which indicate the loop of Henle as the major site of Mg reabsorption. The effects of thiazide diuretics on Mg excretion are less well estab",
+      "journal": "Magnesium",
+      "year": "1986",
+      "authors": [
+        "Ryan M P"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Amiloride",
+        "Animals",
+        "Benzothiadiazines",
+        "Diuretics",
+        "Dose-Response Relationship, Drug",
+        "Furosemide",
+        "Humans",
+        "Kidney Tubules, Collecting",
+        "Kidney Tubules, Distal",
+        "Kidney Tubules, Proximal"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3543514/"
+    },
+    {
+      "pmid": "35195759",
+      "title": "Potassium and the kidney: a reciprocal relationship with clinical relevance.",
+      "abstract": "By controlling urinary potassium excretion, the kidneys play a key role in maintaining whole-body potassium homeostasis. Conversely, low urinary potassium excretion (as a proxy for insufficient dietary intake) is increasingly recognized as a risk factor for the progression of kidney disease. Thus, there is a reciprocal relationship between potassium and the kidney: the kidney regulates potassium balance but potassium also affects kidney function. This review explores this relationship by discussing new insights into kidney potassium handling derived from recently characterized tubulopathies and studies on sexual dimorphism. These insights reveal a central but non-exclusive role for the distal convoluted tubule in sensing potassium and subsequently modifying the activity of the sodium-chloride cotransporter. This is another example of reciprocity: activation of the sodium-chloride cotransporter not only reduces distal sodium delivery and therefore potassium secretion but also increases ",
+      "journal": "Pediatric nephrology (Berlin, Germany)",
+      "year": "2022",
+      "authors": [
+        "Wieërs Michiel L A J",
+        "Mulder Jaap",
+        "Rotmans Joris I",
+        "Hoorn Ewout J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Humans",
+        "Kidney Diseases",
+        "Kidney Tubules, Distal",
+        "Potassium",
+        "Potassium, Dietary",
+        "Sodium Chloride Symporters",
+        "Solute Carrier Family 12, Member 3"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35195759/"
+    },
+    {
+      "pmid": "40232853",
+      "title": "Potassium supplementation and depletion during development of salt-sensitive hypertension in male and female SS rats.",
+      "abstract": "The dietary sodium/potassium ratio is positively correlated with blood pressure, and understanding this relationship is crucial for improving hypertension treatment. Moreover, few studies have examined these effects in both sexes. In this study, we aimed to investigate how supplementing (1.41% K+; HK) or depleting (DK) dietary potassium affects the development of salt-sensitive (SS) hypertension in male and female Dahl SS rats. Potassium supplementation attenuated blood pressure during 5 weeks of high-salt (4% NaCl) diet in male but not in female rats. In contrast, a potassium-deficient diet prevented the development of salt-induced hypertension in both sexes, though this effect is unlikely to be protective. Both males and females on the DK diet were hypokalemic and had diminished heart rates and reduced weight gain; furthermore, females experienced high mortality. RNA-Seq of kidney cortical tissue revealed a number of genes that may underlie the sex-specific differences in phenotype. ",
+      "journal": "JCI insight",
+      "year": "2025",
+      "authors": [
+        "Zietara Adrian",
+        "Dissanayake Lashodya V",
+        "Lowe Melissa",
+        "Xu Biyang",
+        "Levchenko Vladislav"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Female",
+        "Hypertension",
+        "Rats",
+        "Rats, Inbred Dahl",
+        "Sodium Chloride, Dietary",
+        "Potassium",
+        "Dietary Supplements",
+        "Blood Pressure"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40232853/"
+    },
+    {
+      "pmid": "39962509",
+      "title": "Sodium butyrate attenuates microglia-mediated neuroinflammation by modulating the TLR4/MyD88/NF-κB pathway and microbiome-gut-brain axis in cardiac arrest mice.",
+      "abstract": "Cardiac arrest (CA) is one of the most common illnesses worldwide. Post-CA brain injury (PCABI) is a major cause of death and poor recovery in CA patients and the current CA treatments are not very effective. The microbiome-gut-brain axis has been found to significantly affect brain ischemia injury. Furthermore, in ischemic stroke patients, short-chain fatty acids (SCFA), especially sodium butyrate (SB), have been observed to promote neuroprotective effects by modulating inflammatory response and microglial polarization in the cortex. However, the precise mechanism of SB on CA-induced injury remains elusive. Therefore, this research study established an oxygen-glucose deprivation and reoxygenation (OGD/R) model using BV-2 microglial and HT22 cells to simulate cerebral ischemia/reperfusion injury in vitro and a potassium chloride-induced CA mouse model to mimic CA in vivo. The data revealed that SB markedly improved neurological scores and reduced neuronal death and apoptosis. Moreover,",
+      "journal": "Molecular brain",
+      "year": "2025",
+      "authors": [
+        "Sun Jianfei",
+        "Lu Liping",
+        "Lian Yingtao",
+        "Xu Song",
+        "Zhu Ying"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Toll-Like Receptor 4",
+        "Microglia",
+        "Myeloid Differentiation Factor 88",
+        "NF-kappa B",
+        "Signal Transduction",
+        "Neuroinflammatory Diseases",
+        "Gastrointestinal Microbiome",
+        "Butyric Acid",
+        "Heart Arrest"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39962509/"
+    },
+    {
+      "pmid": "748377",
+      "title": "Hypophosphatemia and rhabdomyolysis.",
+      "abstract": "Clinical observations suggest that overt rhabdomyolysis may occur if severe hypophosphatemia is superimposed upon a pre-existing subclinical myopathy. To examine this possibility, a subclinical muscle cell injury was induced in 23 dogs by feeding them a phosphorus- and calorie-deficient diet until they lost 30% of their original weight. To induce acute, severe hypophosphatemia in the animals after partial starvation, 17 of the dogs were given large quantities of the same phosphorus-deficient diet in conjunction with an oral carbohydrate supplement, which together provided 140 kcal/kg per day. After phosphorus and caloric deprivation, serum phosphorus and creatine phosphokinase (CPK) activity were normal. Total muscle phosphorus content fell from 28.0+/-1.3 to 26.1+/-2.5 mmol/dg fat-free dry solids. Sodium, chloride, and water contents rose. These changes resembled those observed in patients with subclinical alcoholic myopathy. When studied after 3 days of hyperalimentation, the animals",
+      "journal": "The Journal of clinical investigation",
+      "year": "1978",
+      "authors": [
+        "Knochel J P",
+        "Barcenas C",
+        "Cotton J R",
+        "Fuller T J",
+        "Haller R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Chlorides",
+        "Creatine Kinase",
+        "Dogs",
+        "Infusions, Parenteral",
+        "Male",
+        "Muscles",
+        "Muscular Diseases",
+        "Phosphates",
+        "Phosphorus"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/748377/"
+    },
+    {
+      "pmid": "33391739",
+      "title": "Dietary potassium and the kidney: lifesaving physiology.",
+      "abstract": "Potassium often has a negative connotation in Nephrology as patients with chronic kidney disease (CKD) are prone to develop hyperkalaemia. Approaches to the management of chronic hyperkalaemia include a low potassium diet or potassium binders. Yet, emerging data indicate that dietary potassium may be beneficial for patients with CKD. Epidemiological studies have shown that a higher urinary potassium excretion (as proxy for higher dietary potassium intake) is associated with lower blood pressure (BP) and lower cardiovascular risk, as well as better kidney outcomes. Considering that the composition of our current diet is characterized by a high sodium and low potassium content, increasing dietary potassium may be equally important as reducing sodium. Recent studies have revealed that dietary potassium modulates the activity of the thiazide-sensitive sodium-chloride cotransporter in the distal convoluted tubule (DCT). The DCT acts as a potassium sensor to control the delivery of sodium to",
+      "journal": "Clinical kidney journal",
+      "year": "2020",
+      "authors": [
+        "Wei Kuang-Yu",
+        "Gritter Martin",
+        "Vogt Liffert",
+        "de Borst Martin H",
+        "Rotmans Joris I"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33391739/"
+    },
+    {
+      "pmid": "36639120",
+      "title": "Pathophysiologic approach in genetic hypokalemia: An update.",
+      "abstract": "The pathophysiology of genetic hypokalemia is close to that of non-genetic hypokalemia. New molecular pathways physiologically involved in renal and extrarenal potassium homeostasis have been highlighted. A physiological approach to diagnosis is illustrated here, with 6 cases. Mechanisms generating and sustaining of hypokalemia are discussed. After excluding acute shift of extracellular potassium to the intracellular compartment, related to hypokalemic periodic paralysis, inappropriate kaliuresis (>40mmol/24h) concomitant to hypokalemia indicates renal potassium wasting. Clinical analysis distinguishes hypertension-associated hypokalemia, due to hypermineralocorticism or related disorders. Genetic hypertensive hypokalemia is rare. It includes familial hyperaldosteronism, Liddle syndrome, apparent mineralocorticoid excess,11beta hydroxylase deficiency and Geller syndrome. In case of normo- or hypo-tensive hypokalemia, two etiologies are to be considered: chloride depletion or salt-wasti",
+      "journal": "Annales d'endocrinologie",
+      "year": "2023",
+      "authors": [
+        "Blanchard Anne"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hypokalemia",
+        "Chlorides",
+        "Bartter Syndrome",
+        "Potassium",
+        "Hyperaldosteronism",
+        "Hypertension"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36639120/"
+    },
+    {
+      "pmid": "7199542",
+      "title": "Chloride deficiency in Holstein calves from a low chloride diet and removal of abomasal contents.",
+      "abstract": "Chloride deficiency signs were produced in young Holstein calves by a low chloride diet (.063% chlorine) and daily removal of chloride in abomasal contents. General clinical signs included anorexia, weights loss, lethargy, mild polydipsia, and mild polyuria. In latter stages of the deficiency, severe eye defects (scleral injection, sunken eyes, scaliness around eyes) and reduced respiration rate became evident. Feces contained varying amounts of blood and mucus. The chloride imbalance resulted in severe alkalosis and hypochloremia leading to secondary hypokalemia, hyponatremia, and azotemia. All deficient calves died after 24, 28, 38, and 46 days of treatment. Chloride concentrations of plasma in each of the calves just prior to death were similar at 31 to 35 meq/liter, which compares with normal 96 meq/liter. One additional calf made chloride deficient was recovered to normal health in 9 days following a single treatment with salt water and feeding of control diet containing .48% chlo",
+      "journal": "Journal of dairy science",
+      "year": "1981",
+      "authors": [
+        "Neathery M W",
+        "Blackmon D M",
+        "Miller W J",
+        "Heinmiller S",
+        "McGuire S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Abomasum",
+        "Acid-Base Equilibrium",
+        "Animals",
+        "Blood Urea Nitrogen",
+        "Cattle",
+        "Cattle Diseases",
+        "Chlorides",
+        "Deficiency Diseases",
+        "Diet",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7199542/"
+    },
+    {
+      "pmid": "31187895",
+      "title": "Physiology of Electrolyte Transport in the Gut: Implications for Disease.",
+      "abstract": "We now have an increased understanding of the genetics, cell biology, and physiology of electrolyte transport processes in the mammalian intestine, due to the availability of sophisticated methodologies ranging from genome wide association studies to CRISPR-CAS technology, stem cell-derived organoids, 3D microscopy, electron cryomicroscopy, single cell RNA sequencing, transgenic methodologies, and tools to manipulate cellular processes at a molecular level. This knowledge has simultaneously underscored the complexity of biological systems and the interdependence of multiple regulatory systems. In addition to the plethora of mammalian neurohumoral factors and their cross talk, advances in pyrosequencing and metagenomic analyses have highlighted the relevance of the microbiome to intestinal regulation. This article provides an overview of our current understanding of electrolyte transport processes in the small and large intestine, their regulation in health and how dysregulation at mult",
+      "journal": "Comprehensive Physiology",
+      "year": "2019",
+      "authors": [
+        "Rao Mrinalini C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Body Water",
+        "Electrolytes",
+        "Gastrointestinal Microbiome",
+        "Intestinal Absorption",
+        "Intestinal Diseases",
+        "Intestinal Mucosa",
+        "Ion Transport",
+        "Membrane Transport Proteins",
+        "Neurotransmitter Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31187895/"
+    },
+    {
+      "pmid": "31096799",
+      "title": "Use of prucalopride in adults with chronic idiopathic constipation.",
+      "abstract": "Introduction: Prucalopride is a selective 5-HT4 receptor agonist with colonic prokinetic activity. It was recently approved by the FDA for the treatment of chronic idiopathic constipation. Before this approval, there were limited options to improve colonic motility in the treatment of chronic idiopathic constipation. Areas covered: We systematically searched PubMed, Embase, ClinicalTrials.gov, and international conference presentations, and we reviewed all studies that evaluated prucalopride for the treatment of chronic idiopathic constipation in adults. In this review, we discuss the pharmacokinetics, pharmacodynamics, receptor interactions, phase I-IV clinical trials, and safety outcomes of prucalopride in adults, including the elderly. Expert opinion: Prucalopride is an effective agent to improve colonic motility, decrease colonic transit time, and increase complete spontaneous bowel movements in patients with chronic idiopathic constipation. Unlike previously available 5-HT4 recept",
+      "journal": "Expert review of clinical pharmacology",
+      "year": "2019",
+      "authors": [
+        "Vijayvargiya Priya",
+        "Camilleri Michael"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Benzofurans",
+        "Chronic Disease",
+        "Constipation",
+        "Gastrointestinal Motility",
+        "Humans",
+        "Laxatives",
+        "Serotonin 5-HT4 Receptor Agonists"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31096799/"
+    },
+    {
+      "pmid": "35996119",
+      "title": "Clinical significance of potential drug-drug interactions in older adults with psychiatric disorders: a retrospective study.",
+      "abstract": "Polypharmacy increases the risk of potential drug-drug interactions (pDDIs). This retrospective analysis was conducted to detect pDDIs and adverse drug reactions (ADRs) among older adults with psychiatric disorder, and identify pDDIs with clinical significance.",
+      "journal": "BMC psychiatry",
+      "year": "2022",
+      "authors": [
+        "Liu Yu",
+        "Yang Man",
+        "Ding Yaping",
+        "Wang Huanqiang",
+        "Zhang Hailin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Drug Interactions",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "Humans",
+        "Lorazepam",
+        "Mental Disorders",
+        "Olanzapine",
+        "Quetiapine Fumarate",
+        "Retrospective Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35996119/"
+    },
+    {
+      "pmid": "32678865",
+      "title": "Characterization of gut contractility and microbiota in patients with severe chronic constipation.",
+      "abstract": "Chronic constipation (CC) is one of the most common gastrointestinal disorders worldwide. Its pathogenesis, however, remains largely unclear. The purpose of the present work was to gain an insight into the role of contractility and microbiota in the etiology of CC. To this end, we studied spontaneous and evoked contractile activity of descending colon segments from patients that have undergone surgery for refractory forms of CC. The juxta-mucosal microbiota of these colon samples were characterized with culture-based and 16S rRNA sequencing techniques. In patients with CC the spontaneous colonic motility remained unchanged compared to the control group without dysfunction of intestinal motility. Moreover, contractions induced by potassium chloride and carbachol were increased in both circular and longitudinal colonic muscle strips, thus indicating preservation of contractile apparatus and increased sensitivity to cholinergic nerve stimulation in the constipated intestine. In the test g",
+      "journal": "PloS one",
+      "year": "2020",
+      "authors": [
+        "Yarullina Dina R",
+        "Shafigullin Marat U",
+        "Sakulin Kirill A",
+        "Arzamastseva Anastasiia A",
+        "Shaidullov Ilnar F"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Chronic Disease",
+        "Classification",
+        "Colon",
+        "Constipation",
+        "Female",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32678865/"
+    },
+    {
+      "pmid": "28531429",
+      "title": "Metabolic disturbances in patients with cerebral palsy and gastrointestinal disorders.",
+      "abstract": "Under nutrition and growth failure are common findings in children with cerebral palsy (CP) and neurologically impairments. Electrolyte and micronutrient abnormalities have also been documented. Gastrointestinal (GI) diseases like gastro esophageal reflux disease (GERD), feeding difficulties and constipation have been associated with increased frequency of these derangements. The goal of this study was to determine the prevalence of malnutrition, metabolic and electrolyte abnormalities in pediatric patients with cerebral palsy and gastrointestinal disorders. A retrospective review of 172 medical records was performed out of which 45 subjects did not have any GI problem, 69 patients had constipation and 58 patients either had GERD, esophagitis, gastrostomy and feeding difficulties. Data collected included: weight, length and body mass index, pre-albumin, albumin, vitamin D, potassium, chloride, bicarbonate, calcium, magnesium (Mg), phosphorus. The results demonstrate a significant diffe",
+      "journal": "Clinical nutrition ESPEN",
+      "year": "2016",
+      "authors": [
+        "Jaramillo Catalina",
+        "Johnson Abiodun",
+        "Singh Ruchi",
+        "Vasylyeva Tetyana L"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Academic Medical Centers",
+        "Adolescent",
+        "Biomarkers",
+        "Cerebral Palsy",
+        "Child",
+        "Child, Preschool",
+        "Combined Modality Therapy",
+        "Constipation",
+        "Deficiency Diseases",
+        "Deglutition Disorders"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28531429/"
+    },
+    {
+      "pmid": "37197558",
+      "title": "A novel case of homozygous PAX1 mutation associated with hypoparathyroidism.",
+      "abstract": "The PAX1 gene plays an important role in the development of the parathyroid glands and the thymus. Mouse knockout models of PAX1, PAX3, and PAX9 have been found to have hypoplastic or absent parathyroid glands. To our knowledge, there are no reported cases of PAX1-associated hypoparathyroidism in humans. We present a case of hypoparathyroidism in a 23-month-old boy with a homozygous pathogenic variant in the PAX1 gene (PAX1 NM_006192.5 c.463_465del variant), predicted to cause an in-frame deletion of asparagine at position 155 (p.Asn155del) of the PAX1 protein. The hypoparathyroidism was unmasked after the patient developed significant hypocalcemia while receiving GoLYTELY (polyethylene glycol 3350, sodium sulfate anhydrous, sodium bicarbonate, sodium chloride, potassium chloride) for bowel cleanout. The patient had mild and asymptomatic hypocalcemia prior to hospitalization. The patient was noted to have inappropriately normal parathyroid hormone (PTH) level at the time of documented ",
+      "journal": "Therapeutic advances in rare disease",
+      "year": "2023",
+      "authors": [
+        "Hamel Benjamin L",
+        "Kumar Seema",
+        "Heidenreich Leah",
+        "Joshi Avni",
+        "DaSilva Christiana"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37197558/"
+    },
+    {
+      "pmid": "26152628",
+      "title": "Gitelman's syndrome as a cause of poorly controlled hypokalemia.",
+      "abstract": "Gitelman's syndrome is a rare autosomal recessive tubulopathy caused by a defect of the thiazide-sensitive sodium chloride co-transporter at the distal tubule, leading to hypokalemia, metabolic alkalosis, hypomagnesemia, hypocalciuria and low-to-normal blood pressure. Clinical features include transient periods of muscle weakness and tetany, dizziness, abdominal pains and constipation. Patients can also present with convulsions due to severe metabolic alkalosis or hypomagnesemia. Therefore, early recognition and treatment are important. Diagnosis of Gitelman's syndrome is usually made incidentally during adolescence or early adulthood based on clinical and biochemical findings. In this paper we present the case of a 23-year-old female patient referred to our nephrology department for severe hypokalemia. Complementary evaluation revealed hypokalemia, hypomagnesemia, metabolic alkalosis, increased chloride and sodium urinary excretion and reduced urinary calcium excretion with normal ren",
+      "journal": "La Clinica terapeutica",
+      "year": "2015",
+      "authors": [
+        "Dimitrijevic Z",
+        "Salinger-Martinovic S",
+        "Mitic B",
+        "Nikolic V"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Alkalosis",
+        "Calcium",
+        "Chlorides",
+        "Diagnosis, Differential",
+        "Female",
+        "Gitelman Syndrome",
+        "Humans",
+        "Hypokalemia",
+        "Magnesium",
+        "Potassium"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26152628/"
+    },
+    {
+      "pmid": "11456284",
+      "title": "Clinical, biochemical and molecular genetic data in five children with Gitelman's syndrome.",
+      "abstract": "Gitelman's variant of Bartter's syndrome, inherited hypokalemic alkalosis, is caused by mutation in the thiazide-sensitive NaCl co-transporter (NCCT). The main clinical symptoms are: muscular weakness, carpopedal spasm, constipation and short stature. The diagnosis was suspected in five children according to clinical criteria. All patients exhibited carpopedal spasm during febrile illness, three patients had short stature. Biochemical features were: metabolic alkalosis, hypokalemia, hypomagnesemia, low IGF-I levels, hyperkaliuria, hypernatriuria, hypocalciuria and normoprostaglandinuria. Three patients had elevated plasma renin activity and hyperaldosteronism. Mutational analysis of the NCCT gene confirmed the diagnosis in all five patients. Different forms of therapy, potassium and magnesium substitution, spironolactone and indomethacin failed to fully correct hypokalemia and hypomagnesemia, but markedly improved growth velocity and normalized IGF-I levels in the three patients with s",
+      "journal": "Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme",
+      "year": "2001",
+      "authors": [
+        "Schmidt H",
+        "Kabesch M",
+        "Schwarz H P",
+        "Kiess W"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Bartter Syndrome",
+        "Body Height",
+        "Carrier Proteins",
+        "Child",
+        "Child, Preschool",
+        "Electrolytes",
+        "Female",
+        "Homeostasis",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11456284/"
+    },
+    {
+      "pmid": "32992050",
+      "title": "Inducible Deletion of YAP and TAZ in Adult Mouse Smooth Muscle Causes Rapid and Lethal Colonic Pseudo-Obstruction.",
+      "abstract": "YAP (Yap1) and TAZ (Wwtr1) are transcriptional co-activators and downstream effectors of the Hippo pathway, which play crucial roles in organ size control and cancer pathogenesis. Genetic deletion of YAP/TAZ has shown their critical importance for embryonic development of the heart, vasculature, and gastrointestinal mesenchyme. The aim of this study was to determine the functional role of YAP/TAZ in adult smooth muscle cells in vivo.",
+      "journal": "Cellular and molecular gastroenterology and hepatology",
+      "year": "2021",
+      "authors": [
+        "Daoud Fatima",
+        "Holmberg Johan",
+        "Alajbegovic Azra",
+        "Grossi Mario",
+        "Rippe Catarina"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adaptor Proteins, Signal Transducing",
+        "Animals",
+        "Colon",
+        "Colonic Pseudo-Obstruction",
+        "Disease Models, Animal",
+        "Female",
+        "Gastrointestinal Motility",
+        "Humans",
+        "Male",
+        "Mice"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32992050/"
+    },
+    {
+      "pmid": "16573444",
+      "title": "The essentials of calcium, magnesium and phosphate metabolism: part II. Disorders.",
+      "abstract": "To review the components of calcium, phosphate and magnesium metabolism that are relevant to the critically ill patient, in a two-part presentation.",
+      "journal": "Critical care and resuscitation : journal of the Australasian Academy of Critical Care Medicine",
+      "year": "2002",
+      "authors": [
+        "Baker S B",
+        "Worthley L I G"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16573444/"
+    }
+  ]
+}

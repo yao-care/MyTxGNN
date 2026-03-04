@@ -1,0 +1,1029 @@
+{
+  "drug": "Risperidone",
+  "drugbank_id": "DB00734",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:29:26Z",
+  "indications": [
+    {
+      "indication": "autism susceptibility 1",
+      "evidence_level": "L2",
+      "trials": 1,
+      "articles": 3,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 3,
+        "total_trials": 1,
+        "total_articles": 3
+      }
+    },
+    {
+      "indication": "autism",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 4,
+        "phase1_trials": 4,
+        "other_trials": 10,
+        "rct_articles": 1,
+        "review_articles": 7,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "schizophrenia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 14,
+        "rct_articles": 1,
+        "review_articles": 8,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "bipolar disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 2,
+        "phase1_trials": 1,
+        "other_trials": 13,
+        "rct_articles": 0,
+        "review_articles": 8,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "manic bipolar affective disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 10,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 10,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 81,
+  "total_articles": 43,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00584701",
+      "title": "Pharmacogenomics in Autism Treatment",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-05",
+      "country": "United States",
+      "enrollment": 49,
+      "brief_summary": "Autism is a complex neurodevelopmental disorder that is thought to involve an interaction between multiple and variable susceptibility genes, environmental factors, and epigenetic effects. Great concern has been raised about the marked increase in the prevalence of autism spectrum disorders in the last decade. Risperidone, the most studied atypical antipsychotic used in children, has been shown to improve severe behavioral difficulties in over half of children with autism who have these difficul",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Willingness to participate and written informed consent obtained from parent and when indicated by subject\n2. Confirmed DSM-IV-TR diagnosis of Autistic Disorder or Asperger's Disorder using the ADOS and the ADI-R, the current gold standards for diagnosing autism spectrum diso",
+      "endpoints": [
+        "Percent Change of ABC - Irritability Subscale Score"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT00584701"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01166152",
+      "title": "Development of a New Diagnosis and Intervention Method for Developmental Disorders",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2010-08",
+      "completion_date": "2013-03",
+      "country": "Japan",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this study is to develop a new diagnostic method for developmental disorders based on behavior recording during the interview of the subjects by medical staff as well anonymous persons. The behavior recording by video camera will be accompanied by non-invasive physiological recordings, including electroencephalogram (EEG), electrocardiogram (ECG), electromyogram (EMG), and body temperature using infrared (IR) thermograph. Thus, the physiologically relevant and the disorder correla",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Developmental disorders\n\nExclusion Criteria:\n\n* Mental retardation",
+      "endpoints": [
+        "thermogram of head"
+      ],
+      "sponsor": "Tokyo University of Agriculture and Technology",
+      "url": "https://clinicaltrials.gov/study/NCT01166152"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07060872",
+      "title": "A Randomized Controlled Interventional Study on the Effects of Spirulina Supplementation on Anxiety in Children With Non-Idiopathic Autism",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-07-07",
+      "completion_date": "2025-10-01",
+      "country": "Iran",
+      "enrollment": 82,
+      "brief_summary": "The aim of this study is to evaluate the effect of a Spirulina syrup formulation on reducing anxiety in children with non-idiopathic autism. Participants are referred to a private clinic and assessed by a pediatric neurology subspecialist to confirm the diagnosis. Informed consent is obtained from the parents. Patients are randomly assigned to two groups. The intervention group receives standard treatment (Risperidone tablets) plus Spirulina syrup, while the control group receives Risperidone pl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children diagnosed with non-idiopathic autism, confirmed by a pediatric neurology subspecialist\n\n  * Age range: \\[3 to 7 years\\]\n  * Parental informed consent obtained\n  * Ability to complete online anxiety questionnaires with parental assistance\n\nExclusion Criteria:\n\n* • Pres",
+      "endpoints": [
+        "Change in anxiety symptoms based on the Spence Children's Anxiety Scale (Parent Version) total score"
+      ],
+      "sponsor": "Shahid Sadoughi University of Medical Sciences and Health Services",
+      "url": "https://clinicaltrials.gov/study/NCT07060872"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00352196",
+      "title": "A Biological Basis of Therapy for Negative Symptom Spectrum Disorders: Risperdal Effect on Frontal Metabolism in Asperger's Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-11",
+      "completion_date": "2007-05",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "This study will be an open-label, 12-week trial of risperidone in subjects with Asperger's Disorder, according to Diagnostic and Statistical Manual of Mental Disorders IV (DSM-IV) Criteria. The study has two arms, one involving pre- and post-treatment MRS studies, and one without MRS. The MRS arm will study 18-20 subjects ages 6 and above, with a target of 14 completing patients. For both arms, we plan to a enroll at total of 30 patients to achieve completion for 24 patients. The non-MRS arm of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must be age 6 -18 for the Non-MRS arm of the study, and age 6 or above for the MRS arm of the study.\n2. If applicable, a parent or legal guardian or legal representatives of study subject must provide informed consent and sign an informed consent document.\n3. Female ",
+      "endpoints": [
+        "Chang in the Scale for the Assessment of Negative Symptoms (SANS)"
+      ],
+      "sponsor": "Augusta University",
+      "url": "https://clinicaltrials.gov/study/NCT00352196"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00783783",
+      "title": "CYP2D6 PHARMACOGENETICS IN RISPERIDONE-TREATED CHILDREN AND ADOLESCENTS WITH PSYCHIATRIC OR NEURODEVELOPMENTAL DISORDERS",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2011-06",
+      "country": "United States",
+      "enrollment": 47,
+      "brief_summary": "Risperidone is an important medication used to treat children with psychiatric illnesses or neurodevelopmental disorders, such as autism. Despite excellent symptom control, the potential for side effects is worrisome. Treating these disorders is difficult because not everyone responds the same way to the same risperidone dose. One reason for this is genetic differences in how people break down the drug. Understanding these differences will help clinicians choose a dose and better predict the res",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Previous risperidone PK study participation (CCHMC, Rainbow Babies and Children's Hospital or OSU)\n* CYP2D6 PM predicted phenotype\n* Actively taking risperidone\n* Under 18 years of age at time of enrollment\n* Signed, dated informed consent forms\n\nExclusion Criteria:\n\n* Investi",
+      "endpoints": [
+        "association of common CYP2D6 polymorphisms with risperidone area under the curve"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT00783783"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00166595",
+      "title": "Pharmacogenetics of Risperidone in Children With Pervasive Developmental Disorder (PDD)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2005-03",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to determine if the known differences in genes influence drug metabolizing enzymes and receptors that are involved in risperidone drug action. The study will determine if differences in these genes will change the concentration of risperidone in the blood over time in children in relation to side effects and clinical response to risperidone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients between the ages of 4 and 21 years.\n* Patients meeting DSM-IV criteria for autistic disorder, Pervasive Developmental Disorder (PDD), or Pervasive Developmental Disorder-Not Otherwise Specified (PDD-NOS) and about to initiate clinical treatment or curr",
+      "endpoints": [],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT00166595"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00261508",
+      "title": "Efficacy And Safety Of Risperidone In The Treatment Of Children With Autistic Disorder And Other Pervasive Developmental Disorders: A Canadian, Multicenter, Double-Blind, Placebo-Controlled Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1999-08",
+      "completion_date": "2001-12",
+      "country": "N/A",
+      "enrollment": 80,
+      "brief_summary": "The purpose of the study is to evaluate the effectiveness of an oral solution of risperidone (an antipsychotic medication) versus placebo in the treatment of behavioral symptoms in children with Pervasive Developmental Disorders (PDD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Pervasive Developmental Disorders (Autistic Disorder, Rett's Disorder, Childhood Disintegrative Disorder, Asperger's Disorder, or Pervasive Development Disorder not Otherwise Specified) by Diagnostic and Statistical Manual of Mental Disorders, 4th edition (DSM-IV)",
+      "endpoints": [
+        "Change in the Irritability Subscale of the Aberrant Behavior Checklist (ABC) and other ABC subscales at end of treatment compared with baseline"
+      ],
+      "sponsor": "Janssen-Ortho Inc., Canada",
+      "url": "https://clinicaltrials.gov/study/NCT00261508"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06657430",
+      "title": "A Study on the Preference of Risperidone Dosage Forms",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-09-19",
+      "completion_date": "2025-02-28",
+      "country": "China",
+      "enrollment": 1000,
+      "brief_summary": "This study aimed to understand patients' needs and preferences for antipsychotic dosage forms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with schizophrenia, bipolar disorder, autism spectrum disorder, mental retardation or their primary caregivers who voluntarily participate in the study.\n\nExclusion Criteria:\n\n* Have difficulty reading and understanding Chinese or refuse to participate in the study.",
+      "endpoints": [
+        "Proportion of patients (and their caregivers) who prefer risperidone patch-form medicine"
+      ],
+      "sponsor": "Shanghai Mental Health Center",
+      "url": "https://clinicaltrials.gov/study/NCT06657430"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06623227",
+      "title": "Randomized, Placebo-controlled, Double-blind Study of Increasing Total Antioxidant Capacity with Vitamin E and C in Two Cohorts of Patients with Autism Spectrum Disorders",
+      "phase": "NA",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2024-09-28",
+      "completion_date": "2025-06-30",
+      "country": "Indonesia",
+      "enrollment": 50,
+      "brief_summary": "This double-blind, randomized, controlled trial (RCT) has the aim to evaluating the effectiveness of increasing Total Antioxidant Capacity (TAC) as add-on intervention in two cohorts of patients with Autism Spectrum Disorder (ASD) who have received Risperidone (0.02-0.06 mg/KgBW) and Behavior Therapy as maintenance therapy. Both groups will receive placebo pill or Vitamin E and C pill using randomization. Clinical Symptoms, Aberrant Behavior and Quality of Life in Children with ASD will be asses",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Both parents or a legally authorized patient representative (LAR) must provide written informed consent. The parents and guardian must be able to understand and comply with the experimental protocol with a minimum of junior high school education.\n2. Parents earn no less than ",
+      "endpoints": [
+        "Aberrant Behavior Checklist - Irritability (ABC-I)"
+      ],
+      "sponsor": "Hasanuddin University",
+      "url": "https://clinicaltrials.gov/study/NCT06623227"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04903353",
+      "title": "Pragmatic Trial Comparing Weight Gain in Children With Autism Taking Risperidone Versus Aripiprazole",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-02-01",
+      "completion_date": "2025-12-01",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "This study aims to compare two FDA approved medications (aripiprazole and risperidone) for the treatment of behavioral dysregulation in children with autism spectrum disorders. This trial, done in the context of routine clinical care, will seek to evaluate whether aripiprazole or risperidone is associated with more weight gain in children.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 17 years and younger\n* diagnosed with autism\n* have behavior problems\n* seen in Vanderbilt clinic\n* naïve to atypical antipsychotics\n\nExclusion Criteria:\n\n* 18 years or older\n* history of atypical antipsychotic use\n* not diagnosed with autism",
+      "endpoints": [
+        "weight gain"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04903353"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01050582",
+      "title": "Evaluation of Growth, Sexual Maturation, and Prolactin-Related Adverse Events in the Pediatric Population Exposed to Atypical Antipsychotic Drugs",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2011-07",
+      "country": "Netherlands, Germany, Greece, Belgium, United States, Poland",
+      "enrollment": 244,
+      "brief_summary": "The purpose of this study is to evaluate the effects of risperidone compared with other atypical antipsychotic drugs on the physical maturity, growth and development of children, and the risk of prolactin-related adverse events (side effects) associated to these drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* One or both parents (according to local regulations) or a guardian must have signed an informed consent document indicating that they understand the purpose of and procedures required for the study and are willing to participate in the study (If appropriate according to local ",
+      "endpoints": [
+        "Height (cm) Z-score at Study Visit"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT01050582"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04047355",
+      "title": "A Pilot/Feasibility Study of the Use of High Dose Propranolol to Treat Severe and Chronic Challenging Behaviors in Adolescents and Adults With Autism Spectrum Disorders",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-02-11",
+      "completion_date": "2023-09-30",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Severe challenging behaviors such as aggression and self-injury can cause significant morbidity and decrease the quality of life for individuals with Autism Spectrum Disorders (ASD). There are only two medications (Risperdal and Abilify) rigorously studied and FDA-approved for the treatment of irritability in individuals with ASD. These medications are not always successful and have many short and long-term side effects. Well-designed studies demonstrating efficacy and safety of alternative medi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males and females between the ages of 12-30 years and is a resident in the state of New Jersey.\n2. Diagnosis of autism conducted by a clinician with confirmation using the Autism Diagnostic Observation Schedule (ADOS) or the Social Communication Questionnaire (SCQ).\n3. At lea",
+      "endpoints": [
+        "Aberrant Behavior Checklist--Community (ABC-C) Irritability Subscale Scores"
+      ],
+      "sponsor": "Rutgers, The State University of New Jersey",
+      "url": "https://clinicaltrials.gov/study/NCT04047355"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00147394",
+      "title": "Risperidone Pharmacokinetics in Children With Pervasive Developmental Disorder",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2001-12",
+      "completion_date": "2004-06",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this research is to study the pharmacokinetics of risperidone in a group of pediatric patients with Pervasive Developmental Disorder (PDD). The study will determine how much risperidone and its breakdown product, 9-hydroxy-risperidone, is in the blood following the patient's usual daily dose. The study is designed to look at how fast children absorb, breakdown, and eliminate risperidone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients between ages of 5 and less than 17 years.\n* Patients meeting DSM-IV criteria for PDD-NOS about to initiate clinical treatment or currently clinically treated with risperidone.\n* Patients with autistic disorder or PDD-NOS currently on risperidone as a p",
+      "endpoints": [
+        "Quantify the variability of clearance and volume of distribution among AE rating, weight gain and ABC responder status."
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT00147394"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05491720",
+      "title": "Comparable Efficacy of Transcranial Direct Current Stimulation and Pharmacological Treatments in Children With Autism Spectrum Disorder",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-08-15",
+      "completion_date": "2022-08-03",
+      "country": "Iran",
+      "enrollment": 45,
+      "brief_summary": "This project aims to comparing the effectiveness of transcranial direct current stimulation with common pharmacological treatments on behavioral problems and cognitive deficits of children with autism spectrum disorder",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of autism spectrum disorder by a psychiatrist and behavioral checklist\n* being 6-16 years old\n* providing written informed consent signed by parents\n\nExclusion Criteria:\n\n* comorbidity with other neurodevelopmental disorders\n* comorbidity with other neurological diso",
+      "endpoints": [
+        "Gilliam Autism Rating Scale (GADS)",
+        "verbal fluency task",
+        "Theory of mind"
+      ],
+      "sponsor": "The National Brain Mapping Laboratory (NBML)",
+      "url": "https://clinicaltrials.gov/study/NCT05491720"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01171937",
+      "title": "Risperidone Treatment In Children With Autism Spectrum Disorder And High Levels of Repetitive Behavior",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2016-12",
+      "country": "United States",
+      "enrollment": 41,
+      "brief_summary": "The proposed study attempts to deepen our understanding of repetitive behaviors in autism spectrum disorders (ASD) and its treatment by examining the changes in key neural circuits associated with risperidone treatment using functional MRI. This study is a substudy of a larger center grant (IRB#07-03-066). Other studies also under this center grant, include: IRB#03-02-085, IRB#95-01-028. All participants will have the option to enter another sub-study, should they meet criteria. The proposed stu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or females of any race or ethnicity between the ages of 8 and 16 years,\n2. Body weight greater than 20 kg body weight\n3. DSM-IV diagnosis of Autistic Disorder, PDD, NOS, or Asperger's Disorder (established by clinical assessment, corroborated by standard cutoff scores on",
+      "endpoints": [
+        "Aberrant Behavior Checklist"
+      ],
+      "sponsor": "University of California, Los Angeles",
+      "url": "https://clinicaltrials.gov/study/NCT01171937"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07024303",
+      "title": "Measuring the Effects of Medication and Behavioral Treatments for Challenging Behavior",
+      "phase": "EARLY_PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-06-15",
+      "completion_date": "2027-12-31",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "The overall objective is to evaluate and compare the efficacy of two common treatments for CB in children and adolescents with autism using multiple outcome measures. Our central hypothesis is that both behavioral treatment and medication will produce reductions in CB, but behavioral treatments, including behavior treatment + medication, will produce a greater reduction in CB when measured using direct observation within the contexts most associated with challenging behavior. We have four aims: ",
+      "eligibility_criteria": "The adult subjects will be the caregiver/guardian of the minor subjects. The only inclusion criterion for the adult subjects is that they must be the caregiver/legal guardian of the minor subject and their home is primarily English speaking.\n\nThe minor subjects will be individuals who were referred ",
+      "endpoints": [
+        "Aberrant Behavior Checklist, Irritability Subscale",
+        "Behavior Problems Inventory",
+        "Clinical Global Impressions Scale"
+      ],
+      "sponsor": "University of Iowa",
+      "url": "https://clinicaltrials.gov/study/NCT07024303"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03522168",
+      "title": "Pediatric Trials Network Long-term Antipsychotic Pediatric Safety Trial (LAPS) NICHD-2016-LAP01 Phase 4 Trial",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-01-10",
+      "completion_date": "2023-11-21",
+      "country": "United States",
+      "enrollment": 509,
+      "brief_summary": "Main LAP01 study: The purpose is to evaluate the long-term pathologic weight changes associated with multi-year risperidone or aripiprazole therapy in 3 - \\<18-year-old children, who have varying durations of prior antipsychotic drug exposure from the start of study Month 0 (M0). This is critical because children appear to have greater vulnerability to antipsychotic-associated weight gain than adults, and obesity has significant effects on morbidity and mortality.\n\nAn additional sub-study (regis",
+      "eligibility_criteria": "Main Study\n\nInclusion Criteria:\n\n1. Parent/guardian has provided informed consent\n2. Participant has provided assent if developmentally appropriate and as required by the institutional review board (IRB)\n3. 3 - \\<18 years of age inclusive at time of M0 visit\n4. Participant, when developmentally appr",
+      "endpoints": [
+        "Main Trial: Change in BMI z-score",
+        "Registry Sub-Study: Modified Body Mass Index (BMI) z-score"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT03522168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00005014",
+      "title": "Placebo-Controlled Study of Risperidone for the Treatment of Children and Adolescents With Autism and Negative Behavioral Symptoms",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1997-10",
+      "completion_date": "2001-02",
+      "country": "United States",
+      "enrollment": 101,
+      "brief_summary": "This study is designed to determine the effectiveness of risperidone, a drug treatment for the interfering symptoms of Autistic Disorder in children and adolescents between the ages of 5 and 17. Between 100 and 120 patients will be participating in this research study at five academic medical centers in the United States. The primary aim of the treatment is to reduce impairing behavioral symptoms such as aggression, explosive outbursts, or self-injurious behavior, without significant side effect",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females between the ages of 5 and 17 years 2 months.\n* Weight of 15 kg or greater.\n* DSM-IV diagnosis of Autistic Disorder.\n* Inpatient or outpatient.\n* Medication free for at least 2 weeks for all psychotropic medications (4 weeks for fluoxetine or depot neuroleptic",
+      "endpoints": [],
+      "sponsor": "National Institute of Mental Health (NIMH)",
+      "url": "https://clinicaltrials.gov/study/NCT00005014"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01844700",
+      "title": "1/2-MC4R Genotype and Pediatric Antipsychotic Drug- Induced Weight Gain",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2013-07",
+      "completion_date": "2014-04",
+      "country": "United States",
+      "enrollment": 14,
+      "brief_summary": "We will conduct a 12-week, randomized open label study, comparing usual care (UC) antipsychotic treatment (aripiprazole, quetiapine, risperidone) with ziprasidone (ZIP) in children and adolescents aged 13-18 years old. Patients will have 10 days or less lifetime antipsychotic exposure and be in clinical need for antipsychotic treatment for a pediatric psychiatric disorder with FDA indication for antipsychotic use, i.e., bipolar mania, schizophrenia-spectrum disorders, and irritability associated",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 13-18 years\n* English-speaking\n* DSM diagnoses that have an FDA indication for SGA use for at least one agent in the respective pediatric or adult age group. Specifically, primary DSM-IV diagnosis of early-onset schizophrenia spectrum disorders; bipolar I disorder mania (a",
+      "endpoints": [
+        "Weight Change"
+      ],
+      "sponsor": "Northwell Health",
+      "url": "https://clinicaltrials.gov/study/NCT01844700"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03887754",
+      "title": "Therapeutic Issues for Autism Spectrum Disorders: a Clinical Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-01",
+      "completion_date": "2018-12",
+      "country": "N/A",
+      "enrollment": 80,
+      "brief_summary": "This study aimed to show the effects of hyperbaric oxygen therapy and/or Risperidone in improving symptoms of autism",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age of 5-7 years\n* weight of at least 15 kg\n\nExclusion Criteria:\n\n* Absence of significant medical problems and any other neuropsychiatric disorder requiring drug therapy (e.g., Bipolar disorder, psychosis).\n* No concomitant treatment with psychotropic medication was allowed d",
+      "endpoints": [
+        "Childhood Autism Rating Scale version 2 (CARS2)measured after one year and after two years to compare the effect of hyperbaric oxygen therapy, Risperidone, both of them and the placebo effect"
+      ],
+      "sponsor": "Minia University",
+      "url": "https://clinicaltrials.gov/study/NCT03887754"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "29955115",
+      "title": "UGT1A1 polymorphisms associated with prolactin response in risperidone-treated children and adolescents with autism spectrum disorder.",
+      "abstract": "The aim of this study was to investigate the association of drug-metabolizing enzyme and transporter (DMET) polymorphisms with the risperidone-induced prolactin response using an overlapping gene model between serum prolactin level and hyperprolactinemia in autism spectrum disorder (ASD) patients. Eighty-four ASD patients who were receiving risperidone for at least 1 month were recruited and then assigned to either the normal prolactin group or the hyperprolactinemia group based on their serum prolactin level. The genotype profile of 1936 (1931 single nucleotide polymorphisms (SNPs) and 5 copy number variation (CNVs) drug metabolism markers was obtained using the Affymetrix DMET Plus GeneChip microarray platform. Genotypes of SNPs used to test the accuracy of DMET genotype profiling were determined using TaqMan SNP Genotyping Assay kits. Eighty-four patients were selected for the allelic association study after microarray analyses (51 in the normal prolactin group, and 33 in the hyperp",
+      "journal": "The pharmacogenomics journal",
+      "year": "2018",
+      "authors": [
+        "Hongkaew Yaowaluck",
+        "Medhasi Sadeep",
+        "Pasomsub Ekawat",
+        "Ngamsamut Nattawat",
+        "Puangpetch Apichaya"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Age Factors",
+        "Autism Spectrum Disorder",
+        "Child",
+        "Female",
+        "Genetic Predisposition to Disease",
+        "Glucuronosyltransferase",
+        "Humans",
+        "Hyperprolactinemia",
+        "Linkage Disequilibrium",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29955115/"
+    },
+    {
+      "pmid": "23306218",
+      "title": "Association study of NRXN3 polymorphisms with schizophrenia and risperidone-induced bodyweight gain in Chinese Han population.",
+      "abstract": "Recent researches have implicated that mutations in the neurexin-3 (NRXN3) gene on chromosome 14q24.3-q31.1 might play a role in addiction, autism, and obesity. In order to explore the association of NRXN3 polymorphisms with schizophrenia, we examined seven single nucleotide polymorphisms (SNPs) in NRXN3 spanning 1.33 Mb of this gene, in a Chinese Han sample of 1214 schizophrenic patients and 1517 healthy control subjects. Our results showed that three SNPs were associated with schizophrenia (rs7157669: A>C, p=0.006; rs724373: C>T, p=0.014; rs7154021: C>T, p=0.018). After being corrected for multiple tests, the association of rs7157669 remained significant but those for two others were modest. According to the linkage disequilibrium pattern, the 7 SNPs may construct 3 haplotype blocks. Several haplotypes were significantly associated with schizophrenia, constructed by rs11624704-rs7157669-rs724373 (AAC, p=0.003; ACT, p=0.007, both remained significant after permutation tests), rs715402",
+      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+      "year": "2013",
+      "authors": [
+        "Hu Xiaofeng",
+        "Zhang Jishui",
+        "Jin Chao",
+        "Mi Weifeng",
+        "Wang Fang"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Antipsychotic Agents",
+        "Asian People",
+        "DNA",
+        "Female",
+        "Genotype",
+        "Haplotypes",
+        "Humans",
+        "Linkage Disequilibrium",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23306218/"
+    },
+    {
+      "pmid": "23799528",
+      "title": "Moderation of antipsychotic-induced weight gain by energy balance gene variants in the RUPP autism network risperidone studies.",
+      "abstract": "Second-generation antipsychotic exposure, in both children and adults, carries significant risk for excessive weight gain that varies widely across individuals. We queried common variation in key energy balance genes (FTO, MC4R, LEP, CNR1, FAAH) for their association with weight gain during the initial 8 weeks in the two NIMH Research Units on Pediatric Psychopharmacology Autism Network trials (N=225) of risperidone for treatment of irritability in children/adolescents aged 4-17 years with autism spectrum disorders. Variants in the cannabinoid receptor (CNR)-1 promoter (P=1.0 × 10(-6)), CNR1 (P=9.6 × 10(-5)) and the leptin (LEP) promoter (P=1.4 × 10(-4)) conferred robust-independent risks for weight gain. A model combining these three variants was highly significant (P=1.3 × 10(-9)) with a 0.85 effect size between lowest and highest risk groups. All results survived correction for multiple testing and were not dependent on dose, plasma level or ethnicity. We found no evidence for assoc",
+      "journal": "Translational psychiatry",
+      "year": "2013",
+      "authors": [
+        "Nurmi E L",
+        "Spilman S L",
+        "Whelan F",
+        "Scahill L L",
+        "Aman M G"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Alpha-Ketoglutarate-Dependent Dioxygenase FTO",
+        "Amidohydrolases",
+        "Antipsychotic Agents",
+        "Body Weight",
+        "Child",
+        "Child Development Disorders, Pervasive",
+        "Child, Preschool",
+        "Female",
+        "Genetic Predisposition to Disease"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23799528/"
+    },
+    {
+      "pmid": "35101925",
+      "title": "Risperidone and aripiprazole for autism spectrum disorder in children: an overview of systematic reviews.",
+      "abstract": "To assess the effectiveness and safety of risperidone and aripiprazole in children with autism spectrum disorder (ASD).",
+      "journal": "BMJ evidence-based medicine",
+      "year": "2023",
+      "authors": [
+        "Fieiras Cecilia",
+        "Chen Michael Hao",
+        "Escobar Liquitay Camila Micaela",
+        "Meza Nicolás",
+        "Rojas Valeria"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Humans",
+        "Aripiprazole",
+        "Autism Spectrum Disorder",
+        "Risperidone",
+        "Systematic Reviews as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35101925/"
+    },
+    {
+      "pmid": "12151468",
+      "title": "Risperidone in children with autism and serious behavioral problems.",
+      "abstract": "Atypical antipsychotic agents, which block postsynaptic dopamine and serotonin receptors, have advantages over traditional antipsychotic medications in the treatment of adults with schizophrenia and may be beneficial in children with autistic disorder who have serious behavioral disturbances. However, data on the safety and efficacy of atypical antipsychotic agents in children are limited.",
+      "journal": "The New England journal of medicine",
+      "year": "2002",
+      "authors": [
+        "McCracken James T",
+        "McGough James",
+        "Shah Bhavik",
+        "Cronin Pegeen",
+        "Hong Daniel"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Antipsychotic Agents",
+        "Autistic Disorder",
+        "Child",
+        "Child Behavior",
+        "Child, Preschool",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12151468/"
+    },
+    {
+      "pmid": "35246237",
+      "title": "Pharmacological and dietary-supplement treatments for autism spectrum disorder: a systematic review and network meta-analysis.",
+      "abstract": "There is still no approved medication for the core symptoms of autism spectrum disorder (ASD). This network meta-analysis investigated pharmacological and dietary-supplement treatments for ASD.",
+      "journal": "Molecular autism",
+      "year": "2022",
+      "authors": [
+        "Siafis Spyridon",
+        "Çıray Oğulcan",
+        "Wu Hui",
+        "Schneider-Thoma Johannes",
+        "Bighelli Irene"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Network Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Child",
+        "Humans",
+        "Attention Deficit Disorder with Hyperactivity",
+        "Autism Spectrum Disorder",
+        "Oxytocin",
+        "Risperidone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35246237/"
+    },
+    {
+      "pmid": "28075089",
+      "title": "Autism Spectrum Disorder: Primary Care Principles.",
+      "abstract": "Autism spectrum disorder is characterized by difficulty with social communication and restricted, repetitive patterns of behavior, interest, or activities. The Diagnostic and Statistical Manual of Mental Disorders, 5th ed., created an umbrella diagnosis that includes several previously separate conditions: autistic disorder, Asperger syndrome, childhood disintegrative disorder, and pervasive developmental disorder not otherwise specified. There is insufficient evidence to recommend screening for autism spectrum disorder in children 18 to 30 months of age in whom the disorder is not suspected; however, there is a growing body of evidence that early intensive behavioral intervention based on applied behavior analysis improves cognitive ability, language, and adaptive skills. Therefore, early identification of autism spectrum disorder is important, and experts recommend the use of a validated screening tool at 18- and 24-month well-child visits. Medications can be used as adjunctive treat",
+      "journal": "American family physician",
+      "year": "2016",
+      "authors": [
+        "Sanchack Kristian E",
+        "Thomas Craig A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antipsychotic Agents",
+        "Aripiprazole",
+        "Asperger Syndrome",
+        "Autism Spectrum Disorder",
+        "Autistic Disorder",
+        "Behavior Therapy",
+        "Child Development Disorders, Pervasive",
+        "Child, Preschool",
+        "Early Diagnosis",
+        "Early Medical Intervention"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28075089/"
+    },
+    {
+      "pmid": "35470032",
+      "title": "Systematic Review and Meta-analysis: Efficacy of Pharmacological Interventions for Irritability and Emotional Dysregulation in Autism Spectrum Disorder and Predictors of Response.",
+      "abstract": "Emotional dysregulation and irritability are common in individuals with autism spectrum disorder (ASD). We conducted the first meta-analysis assessing the efficacy of a broad range of pharmacological interventions for emotional dysregulation and irritability in ASD and predictors of response.",
+      "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+      "year": "2023",
+      "authors": [
+        "Salazar de Pablo Gonzalo",
+        "Pastor Jordá Carolina",
+        "Vaquerizo-Serrano Julio",
+        "Moreno Carmen",
+        "Cabras Anna"
+      ],
+      "pub_types": [
+        "Systematic Review",
+        "Meta-Analysis",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Risperidone",
+        "Aripiprazole",
+        "Antipsychotic Agents",
+        "Autism Spectrum Disorder",
+        "Attention Deficit Disorder with Hyperactivity"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35470032/"
+    },
+    {
+      "pmid": "38263251",
+      "title": "Pharmacological and non-pharmacological interventions for irritability in autism spectrum disorder: a systematic review and meta-analysis with the GRADE assessment.",
+      "abstract": "Numerous interventions for irritability in autism spectrum disorder (ASD) have been investigated. We aimed to appraise the magnitude of pharmacological and non-pharmacological interventions for irritability in ASD without any restrictions in terms of eligible interventions.",
+      "journal": "Molecular autism",
+      "year": "2024",
+      "authors": [
+        "Choi Hangnyoung",
+        "Kim Jae Han",
+        "Yang Hee Sang",
+        "Kim Jong Yeob",
+        "Cortese Samuele"
+      ],
+      "pub_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Male",
+        "Humans",
+        "Female",
+        "GRADE Approach",
+        "Aripiprazole",
+        "Risperidone",
+        "Autism Spectrum Disorder"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38263251/"
+    },
+    {
+      "pmid": "34757514",
+      "title": "European clinical guidelines for Tourette syndrome and other tic disorders-version 2.0. Part III: pharmacological treatment.",
+      "abstract": "In 2011, the European Society for the Study of Tourette Syndrome (ESSTS) published the first European guidelines for Tourette Syndrome (TS). We now present an update of the part on pharmacological treatment, based on a review of new literature with special attention to other evidence-based guidelines, meta-analyses, and randomized double-blinded studies. Moreover, our revision took into consideration results of a recent survey on treatment preferences conducted among ESSTS experts. The first preference should be given to psychoeducation and to behavioral approaches, as it strengthens the patients' self-regulatory control and thus his/her autonomy. Because behavioral approaches are not effective, available, or feasible in all patients, in a substantial number of patients pharmacological treatment is indicated, alone or in combination with behavioral therapy. The largest amount of evidence supports the use of dopamine blocking agents, preferably aripiprazole because of a more favorable p",
+      "journal": "European child & adolescent psychiatry",
+      "year": "2022",
+      "authors": [
+        "Roessner Veit",
+        "Eichele Heike",
+        "Stern Jeremy S",
+        "Skov Liselotte",
+        "Rizzo Renata"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Attention Deficit Disorder with Hyperactivity",
+        "Child",
+        "Female",
+        "Guanfacine",
+        "Humans",
+        "Male",
+        "Risperidone",
+        "Tic Disorders",
+        "Tourette Syndrome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34757514/"
+    },
+    {
+      "pmid": "25385293",
+      "title": "Clinical and pharmacokinetic evaluation of risperidone for the management of autism spectrum disorder.",
+      "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder that is often accompanied by psychiatric comorbidity. Although there is no medication currently available to treat the core symptoms of ASD, risperidone was the first drug to be approved for use in ASD and is still the best established psychopharmacological option for the treatment of irritability and behavioral problems in ASD.",
+      "journal": "Expert opinion on drug metabolism & toxicology",
+      "year": "2015",
+      "authors": [
+        "Dinnissen Mariken",
+        "Dietrich Andrea",
+        "van den Hoofdakker Barbara J",
+        "Hoekstra Pieter J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antipsychotic Agents",
+        "Child Development Disorders, Pervasive",
+        "Disease Management",
+        "Drug Evaluation",
+        "Humans",
+        "Randomized Controlled Trials as Topic",
+        "Risperidone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25385293/"
+    },
+    {
+      "pmid": "21962519",
+      "title": "Absence of CNTNAP2 leads to epilepsy, neuronal migration abnormalities, and core autism-related deficits.",
+      "abstract": "Although many genes predisposing to autism spectrum disorders (ASD) have been identified, the biological mechanism(s) remain unclear. Mouse models based on human disease-causing mutations provide the potential for understanding gene function and novel treatment development. Here, we characterize a mouse knockout of the Cntnap2 gene, which is strongly associated with ASD and allied neurodevelopmental disorders. Cntnap2(-/-) mice show deficits in the three core ASD behavioral domains, as well as hyperactivity and epileptic seizures, as have been reported in humans with CNTNAP2 mutations. Neuropathological and physiological analyses of these mice before the onset of seizures reveal neuronal migration abnormalities, reduced number of interneurons, and abnormal neuronal network activity. In addition, treatment with the FDA-approved drug risperidone ameliorates the targeted repetitive behaviors in the mutant mice. These data demonstrate a functional role for CNTNAP2 in brain development and ",
+      "journal": "Cell",
+      "year": "2011",
+      "authors": [
+        "Peñagarikano Olga",
+        "Abrahams Brett S",
+        "Herman Edward I",
+        "Winden Kellen D",
+        "Gdalyahu Amos"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Autistic Disorder",
+        "Brain",
+        "Cell Movement",
+        "Disease Models, Animal",
+        "Epilepsy",
+        "Humans",
+        "Interneurons",
+        "Membrane Proteins",
+        "Mice"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21962519/"
+    },
+    {
+      "pmid": "40503466",
+      "title": "Efficacy and Safety of Risperidone Interventions in Children and Adolescents with Autism Spectrum Disorder.",
+      "abstract": "Autism Spectrum Disorder (ASD) is a neurodevelopmental condition that severely impairs children's health. Current data suggest that behavioral therapies are successful. Risperidone has been approved by the US Food and Drug Administration (FDA) to moderate impulsive behavior in people with ASD. This study aimed to evaluate the efficacy and safety of risperidone in children and adolescents with ASD.",
+      "journal": "Psychiatry and clinical psychopharmacology",
+      "year": "2025",
+      "authors": [
+        "Yang Fei",
+        "Kang Lin",
+        "Zou ChaoJie"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40503466/"
+    },
+    {
+      "pmid": "7545034",
+      "title": "Risperidone: review and assessment of its role in the treatment of schizophrenia.",
+      "abstract": "To review pharmacologic, pharmacokinetic, therapeutic, and safety information for the antipsychotic agent risperidone and to evaluate its place in the treatment of schizophrenia.",
+      "journal": "The Annals of pharmacotherapy",
+      "year": "1995",
+      "authors": [
+        "Cardoni A A"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antipsychotic Agents",
+        "Clinical Trials as Topic",
+        "Controlled Clinical Trials as Topic",
+        "Humans",
+        "Isoxazoles",
+        "Piperidines",
+        "Risperidone",
+        "Schizophrenia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7545034/"
+    },
+    {
+      "pmid": "39044342",
+      "title": "An overview of the currently available and emerging long-acting formulations of risperidone for schizophrenia and bipolar disorder.",
+      "abstract": "Long-acting injectable (LAI) antipsychotic medications can help improve treatment adherence in patients with schizophrenia and bipolar disorder. Despite this, they are underutilized. In 2003, intramuscular risperidone became the first available LAI atypical antipsychotic medication, and since then, a number of competing long-acting risperidone formulations have been brought to market, with additional options under active development. These include intramuscular, subcutaneous, long-acting oral, and implantable formulations.",
+      "journal": "Expert review of neurotherapeutics",
+      "year": "2024",
+      "authors": [
+        "Faden Justin",
+        "Ramirez Camila",
+        "Martinez Vanessa",
+        "Citrome Leslie"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Schizophrenia",
+        "Risperidone",
+        "Antipsychotic Agents",
+        "Bipolar Disorder",
+        "Delayed-Action Preparations"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39044342/"
+    },
+    {
+      "pmid": "15907151",
+      "title": "Effectiveness and cost of risperidone and olanzapine for schizophrenia: a systematic review.",
+      "abstract": "Risperidone and olanzapine are novel antipsychotic medications that compete as first-line agents in treating patients with schizophrenia. The objective of this paper is to review the available evidence regarding the effectiveness and cost of risperidone versus olanzapine. We reviewed both randomised and peer-reviewed non-randomised head-to-head (olanzapine versus risperidone) studies in populations with schizophrenia. The studies were selected through a MEDLINE search. Risperidone and olanzapine provide control of positive, negative and global symptoms of schizophrenia. Each drug has a distinct adverse effect profile. Five randomised trials comparing risperidone with olanzapine suggested grossly similar efficacy in the first 2 months of treatment, with some results indicating advantages for olanzapine over the longer term. Only two of the trials included measures of service utilisation. One had 28-week follow-up, and the other followed patients for 12 months but had small sample sizes.",
+      "journal": "CNS drugs",
+      "year": "2005",
+      "authors": [
+        "Hargreaves William A",
+        "Gibson P Joseph"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Antipsychotic Agents",
+        "Benzodiazepines",
+        "Costs and Cost Analysis",
+        "Humans",
+        "Olanzapine",
+        "Randomized Controlled Trials as Topic",
+        "Risperidone",
+        "Schizophrenia",
+        "Schizophrenic Psychology"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15907151/"
+    },
+    {
+      "pmid": "7527327",
+      "title": "Risperidone. A review of its pharmacology and therapeutic potential in the treatment of schizophrenia.",
+      "abstract": "Risperidone, a benzisoxazol derivative, is a novel antipsychotic agent which combines potent serotonin (5-hydroxytryptamine) 5-HT2 and dopamine D2 receptor antagonism. Development of the drug was stimulated by reports that the selective serotonin 5-HT2 antagonist ritanserin improved the negative symptoms of schizophrenia and decreased extrapyramidal symptoms when combined with haloperidol. The relatively low incidence of extrapyramidal symptoms with risperidone may reflect a preferential action on mesolimbic rather than nigrostriatal dopaminergic pathways. Recent clinical investigation suggests that risperidone is of at least comparable efficacy to haloperidol and perphenazine in improving the symptoms of acute and chronic schizophrenia on short term administration. Advantages offered by risperidone over haloperidol include a faster onset of antipsychotic action, a lower incidence of extrapyramidal effects and possibly greater efficacy against the negative symptoms of schizophrenia. If",
+      "journal": "Drugs",
+      "year": "1994",
+      "authors": [
+        "Grant S",
+        "Fitton A"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Absorption",
+        "Adult",
+        "Aged",
+        "Aging",
+        "Animals",
+        "Antipsychotic Agents",
+        "Central Nervous System",
+        "Cross-Over Studies",
+        "Disease Models, Animal",
+        "Drug Interactions"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7527327/"
+    },
+    {
+      "pmid": "35839173",
+      "title": "Effect of risperidone on serum IL-6 levels in individuals with schizophrenia: a systematic review and meta-analysis.",
+      "abstract": "Risperidone has been significant correlated with a direct effect of interleukin-6 (IL-6) levels in patients with schizophrenia. This fact allows the opportunity to link the probable immunomodulatory effect of antipsychotic medication. Specially, a proper functioning of IL-6 pathway plays a potential role in the treatment or development of schizophrenia.",
+      "journal": "International journal of psychiatry in clinical practice",
+      "year": "2023",
+      "authors": [
+        "Ramos-Méndez Miguel Angel",
+        "Tovilla-Zárate Carlos Alfonso",
+        "Juárez-Rojop Isela Esther",
+        "Villar-Soto Mario",
+        "Genis-Mendoza Alma Delia"
+      ],
+      "pub_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Risperidone",
+        "Schizophrenia",
+        "Interleukin-6",
+        "Antipsychotic Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35839173/"
+    },
+    {
+      "pmid": "14687852",
+      "title": "Risperidone in acute and long-term therapy of schizophrenia--a clinical profile.",
+      "abstract": "Data from a range of well-controlled clinical trials, observational studies, and clinical use support the efficacy of risperidone for both acute and long-term therapy of schizophrenic psychoses. With regard to positive symptoms, the efficacy of risperidone was shown to be at least comparable with that of haloperidol. However, risperidone differs from conventional antipsychotics because it is more effective against the negative symptoms, has beneficial effects on affective and cognitive symptoms, and carries less risk of extrapyramidal side effects (EPS). To date, risperidone is the only atypical antipsychotic to have shown a significantly lower relapse rate compared with haloperidol in a long-term double-blind trial. This review describes comprehensive trial data and therapeutic observations gained with risperidone in the treatment of schizophrenia since its approval.",
+      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+      "year": "2004",
+      "authors": [
+        "Pajonk Frank-Gerald"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Antipsychotic Agents",
+        "Chronic Disease",
+        "Humans",
+        "Risperidone",
+        "Schizophrenia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14687852/"
+    },
+    {
+      "pmid": "7517246",
+      "title": "Risperidone for schizophrenia.",
+      "abstract": "",
+      "journal": "BMJ (Clinical research ed.)",
+      "year": "1994",
+      "authors": [
+        "Edwards J G"
+      ],
+      "pub_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [
+        "Antipsychotic Agents",
+        "Humans",
+        "Isoxazoles",
+        "Piperidines",
+        "Risperidone",
+        "Schizophrenia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7517246/"
+    }
+  ]
+}

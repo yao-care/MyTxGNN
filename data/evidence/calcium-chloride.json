@@ -1,0 +1,1040 @@
+{
+  "drug": "Calcium Chloride",
+  "drugbank_id": "DB01164",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:52:14Z",
+  "indications": [
+    {
+      "indication": "hypercalcemia disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 4,
+        "phase1_trials": 5,
+        "other_trials": 8,
+        "rct_articles": 0,
+        "review_articles": 8,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "cardiac arrest",
+      "evidence_level": "L1",
+      "trials": 16,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 7,
+        "phase1_trials": 0,
+        "other_trials": 7,
+        "rct_articles": 2,
+        "review_articles": 4,
+        "other_articles": 4,
+        "total_trials": 16,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "phosphorus metabolism disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 2,
+        "phase1_trials": 4,
+        "other_trials": 9,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "potassium deficiency disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 3,
+        "phase1_trials": 13,
+        "other_trials": 3,
+        "rct_articles": 0,
+        "review_articles": 10,
+        "other_articles": 0,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "nephrocalcinosis",
+      "evidence_level": "L1",
+      "trials": 3,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 0,
+        "review_articles": 6,
+        "other_articles": 3,
+        "total_trials": 3,
+        "total_articles": 9
+      }
+    }
+  ],
+  "total_trials": 79,
+  "total_articles": 49,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00005834",
+      "title": "A Phase III Trial of Dexamethasone, Cyclophosphamide, Etoposide, Cisplatin (DCEP) and G-CSF With or Without Thalidomide (NSC #66847) as Salvage Therapy for Patients With Refractory Multiple Myeloma",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2000-04",
+      "completion_date": "2007-11",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Thalidomide may stop the growth of tumor cells by stopping blood flow to the tumor. It is not yet known if combination chemotherapy is more effective with or without thalidomide for multiple myeloma.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of combination chemotherapy with or without thalidomide in treating patients who have refractory multiple myeloma",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically or cytologically confirmed stage I, II, or III multiple myeloma with protein criteria present Quantifiable M-components of IgG, IgA, IgD, IgE AND/OR Urinary kappa or lambda light chain excretion No IgM peaks Quantifiable monoclonal proteins Received at least 1",
+      "endpoints": [
+        "PFS"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00005834"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00555906",
+      "title": "Phase 1/2 Open-label Study Of The Safety And Efficacy Of Pd 0332991 In Combination With Bortezomib And Dexamethasone In Patients With Refractory Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2013-03",
+      "country": "Germany, Czechia, United States",
+      "enrollment": 53,
+      "brief_summary": "This is a Phase 1/2 study evaluating the safety and anti-tumor activity of PD 0332991 in combination with Velcade® \\[bortezomib\\] and dexamethasone in patients who have received at least one previous treatment for multiple myeloma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of symptomatic multiple myeloma as defined by International Myeloma Working Group (IMWGURC).\n* Phase 1: Relapsed or relapsed/refractory myeloma after at least 1 previous treatments and with a life expectancy of more than 3 months.\n* Phase 2: Measurable (as defined by",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of PD-0332991: Phase 1",
+        "Recommended Phase II Dose (RP2D) of PD-0332991: Phase 1",
+        "Percentage of Participants With Objective Response (OR): Phase 2"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00555906"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03772990",
+      "title": "Calcium Administration in Patients Undergoing Cardiac Surgery Under Cardiopulmonary Bypass (ICARUS Trial): Prospective Randomized, Double-blind Placebo-controlled Superiority Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-01-14",
+      "completion_date": "2025-08-13",
+      "country": "Bahrain, Russia, Saudi Arabia",
+      "enrollment": 818,
+      "brief_summary": "Termination of cardiopulmonary bypass is a critical step in any cardiac surgical procedure and requires a thorough planning. Debate about rationale of calcium administration during weaning of cardiopulmonary bypass has been conducted for several decades; however, a consensus has not been yet reached.\n\nPerioperative hypocalcemia can develop because of haemodilution or calcium binding from heparin, albumin and citrate. Perioperative hypocalcemia is often complicated by development of arrhythmias, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* surgery under cardiopulmonary bypass\n* valve or valve surgery + CABG\n* age \\> 18 years\n* signed informed consent\n\nExclusion Criteria:\n\n* emergency surgery\n* isolated aortic valve repair/replacement\n* planned (before surgery) blood transfusion\n* redo surgery\n* known allergy to ",
+      "endpoints": [
+        "Inotropic support"
+      ],
+      "sponsor": "Meshalkin Research Institute of Pathology of Circulation",
+      "url": "https://clinicaltrials.gov/study/NCT03772990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02852837",
+      "title": "A Phase 1, Open-label, Dose Escalation Study of JNJ-54767414 (Daratumumab) in Chinese Subjects With Relapsed or Refractory Multiple Myeloma Who Failed at Least 2 Prior Lines of Systemic Therapy",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-09-26",
+      "completion_date": "2019-12-13",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this study is to evaluate the tolerability, safety and the pharmacokinetic (PK) profile of daratumumab in Chinese participants with relapsed or refractory multiple myeloma (RRMM) who failed at least 2 prior lines of systemic therapy (Part 1 and Part 2); and to evaluate the tolerability and safety of daratumumab in Chinese participants whose prior therapy included a proteasome inhibitor (PI) and an immunomodulatory drug (IMiD) and who have demonstrated disease progression on the la",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPart 1 and 2:\n\n* Chinese participant who must be at least 20 years of age\n* Documented multiple myeloma (MM) with measurable disease according to protocol-defined criteria\n* Relapsed or refractory multiple myeloma after receiving at least 2 prior lines of therapy\n* Eastern Coope",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs) as a Measure of Safety and Tolerability (Part 1,2 and 3)",
+        "Maximum Observed Plasma Concentration (Cmax) (Part 1 and 2)",
+        "Trough Analyte Concentration (Ctrough) (Part 1 and 2)"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02852837"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01134315",
+      "title": "A Prospective, Multicenter Study to Evaluate the Safety of Paricalcitol Capsules as Determined by Hypercalcemia in Pediatric Patients Ages 0 to 16 With Chronic Kidney Disease (CKD) Stage 5 Receiving Peritoneal Dialysis (PD) Within Current Clinical Practice",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2010-06",
+      "completion_date": "2012-05",
+      "country": "United States",
+      "enrollment": 61,
+      "brief_summary": "The objective of this study was to observe the safety of paricalcitol utilization in pediatric participants (ages 0 to 16 years old) being treated for secondary hyperparathyroidism (SHPT). Participants were to be followed for a minimum of 3 months and up to approximately 36 months to monitor the incidence of hypercalcemia (high calcium levels in blood).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female between 0 to 16 years of age (inclusive), on peritoneal dialysis for at least 30 days.\n2. The patient has a history of secondary hyperparathyroidism as defined by having initiated a vitamin D receptor activator to treat an elevated parathyroid hormone level.\n3.",
+      "endpoints": [
+        "Percentage of Participants With at Least One Incidence of Hypercalcemia"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01134315"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05781243",
+      "title": "Normal Saline Versus Lactated Ringer's Solution for Acute Pancreatitis Resuscitation, an Open-label Multicenter Randomized Controlled Trial: the WATERLAND Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-06-19",
+      "completion_date": "2024-09-30",
+      "country": "Spain",
+      "enrollment": 792,
+      "brief_summary": "Background: Some evidence suggests that fluid resuscitation with lactated Ringer's solution (LR) may have an anti-inflammatory effect on acute pancreatitis (AP) when compared to normal saline (NS), and may be associated with a decrease in severity, but existing single center randomized controlled trials showed conflicting results. The WATERLAND trial aims to investigate the efficacy and safety of fluid resuscitation using LR compared to NS in patients with AP.\n\nMethods: The WATERLAND trial is an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is 18 years or older\n* Diagnosis of acute pancreatitis according to the revision of the Atlanta classification (Banks et al, Gut 2013), which requires at least two of the following three criteria: A) typical abdominal pain, B) increase in serum amylase or lipase levels",
+      "endpoints": [
+        "Number of Participants with moderately severe or severe acute pancreatitis"
+      ],
+      "sponsor": "Hospital General Universitario de Alicante",
+      "url": "https://clinicaltrials.gov/study/NCT05781243"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06859580",
+      "title": "Bisphosphonate vs. Placebo Prior to Parathyroidectomy in Primary Hyperparathyroidisme: A Randomized, Double-blinded Placebo-controlled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-03-01",
+      "completion_date": "2028-02-01",
+      "country": "Denmark",
+      "enrollment": 140,
+      "brief_summary": "This study is a randomized, double-blinded, placebo-controlled trial investigating the effects of zoledronic acid (ZOL) versus placebo in patients with primary hyperparathyroidism (PHPT) undergoing parathyroidectomy (PTX). PHPT is a common endocrine disorder associated with hypercalcemia, reduced bone mineral density (BMD), increased fracture risk, renal calcifications, and cardiovascular complications. While PTX remains the definitive treatment, the potential role of bisphosphonates in optimizi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Postmenopausal females or males \\> 50 years\n2. A diagnosis of hyperparathyroid hypercalcemia due to sporadic PHPT referred to PTX\n3. aBMD T-score ≤ -1 at total hip, femoral neck, or lumbar spine\n4. 25-hydroxyvitamin D ≥ 50 nmol/l prior to randomization\n5. Willingness to under",
+      "endpoints": [
+        "Effects of ZOL vs. placebo at time of parathyroidectomy based on change in aBMD at lumbar spine meased at baseline compared to one year after PTX."
+      ],
+      "sponsor": "University of Aarhus",
+      "url": "https://clinicaltrials.gov/study/NCT06859580"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03068351",
+      "title": "Open-label, Multicenter, Dose-escalation/Expansion Phase Ib Study to Evaluate Safety, Pharmacokinetics, and Activity of BET Inhibitor RO6870810, Given as Mono- and Combination Therapy to Patients With Advanced Multiple Myeloma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-06-26",
+      "completion_date": "2019-08-01",
+      "country": "Australia, United Kingdom, United States",
+      "enrollment": 24,
+      "brief_summary": "This is a Phase Ib, open-label, multicenter, global study designed to assess the safety and tolerability of RO6870810 as monotherapy and in combination with daratumumab in participants with relapsed/refractory multiple myeloma. Each treatment cycle will be 21 days in length. There are two parts to this study. A dose-escalation phase (Part I) will be used to evaluate the safety and tolerability and dose limiting toxicities, and to establish the maximum tolerated dose (MTR)/optimum biological dose",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Performance status \\</=2 on the Eastern Cooperative Oncology Group (ECOG) scale\n* Life expectancy \\> 3 months\n* Relapsed or refractory multiple myeloma. Participants with primary refractory myeloma only allowed in dose-escalation phase of the study.\n* Prior treatment: Treated ",
+      "endpoints": [
+        "Number of Dose-Limiting Toxicities (DLTs)",
+        "Objective Response Rate (ORR)",
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT03068351"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02226172",
+      "title": "A Phase 2, Double-blind, Randomized Safety And Efficacy Study Of Glasdegib (Pf-04449913) Versus Placebo In Patients With Myelofibrosis Previously Treated With Ruxolitinib",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2014-10-06",
+      "completion_date": "2018-01-31",
+      "country": "Japan, United States",
+      "enrollment": 21,
+      "brief_summary": "A lead-in cohort of \\~20 patients with primary or secondary myelofibrosis previously treated with 1 or more Janus kinase inhibitors enrolled to single-agent glasdegib to evaluate safety and tolerability. Following the lead-in, a phase 2, double blind, 2-arm study, randomized 2:1 to oral single-agent glasdegib versus placebo in 201 patients resistant or intolerant to ruxolitinib.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Diagnosis of primary MF (PMF) or secondary MF (PET-MF and PPV-MF) as per WHO 2008 criteria.\n* Lead-in cohort: resistant or intolerant to 1 or more Janus kinase inhibitors (licensed or experimental).\n* Randomized cohort: resistant or intolerant to prior ruxolitinib therapy. Doc",
+      "endpoints": [
+        "Percentage of Participants Achieving Spleen Volume Reduction (SVR) ≥35% as Measured by Magnetic Resonance Imaging (MRI)/Computed Tomography (CT) Scan at Week 24 in the Randomized Cohort",
+        "Number of Participants With Treatment -Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs): Lead-in Cohort",
+        "Number of Participants With Treatment Emergent Treatment -Related Adverse Events (AEs) and Serious Adverse Events (SAEs): Lead-in Cohort"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02226172"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03422172",
+      "title": "An Open Label, Phase 1 Study to Evaluate the PK, Safety, Tolerability and Acceptability of Long Acting Injections of the HIV Integrase Inhibitor, Cabotegravir (CAB; GSK1265744) in HIV Uninfected Chinese Men",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-04-10",
+      "completion_date": "2020-04-20",
+      "country": "China",
+      "enrollment": 48,
+      "brief_summary": "The pre-exposure prophylaxis (PrEP) is an important component in the overall strategy for prevention of HIV infection. Cabotegravir (CAB) is an integrase strand transfer inhibitor currently in development for treatment and prevention of HIV infection. CAB possesses attributes that allow formulation and delivery as a LA parenteral product. CAB is being developed as both oral and long acting (LA) injectable formulations. This study is designed to evaluate the PK, safety, tolerability, and acceptab",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be 18 to 65 years of age inclusive, at the time of signing the informed consent.\n* Subjects are male at birth.\n* Subjects who have non-reactive point of care (POC) HIV test and undetectable HIV-1 ribose nucleic acid (RNA) at screening.\n* At risk of acquiring HIV,",
+      "endpoints": [
+        "Number of Participants With Non-serious Adverse Events (AEs) and Serious AEs (SAEs): Injection Phase",
+        "Number of Participants With Maximum Toxicity Post-Baseline in Hematology Parameters-Injection Phase",
+        "Number of Participants With Maximum Toxicity Post-Baseline in Chemistry Parameters: Injection Phase"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03422172"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02954653",
+      "title": "A PHASE 1 DOSE ESCALATION STUDY TO EVALUATE THE SAFETY, PHARMACOKINETICS AND PHARMACODYNAMICS OF INTRAVENOUS PF-06747143, ADMINISTERED AS SINGLE AGENT OR IN COMBINATION WITH STANDARD CHEMOTHERAPY IN ADULT PATIENTS WITH ACUTE MYELOID LEUKEMIA",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2016-11-28",
+      "completion_date": "2017-12-05",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Two part, dose escalation and dose expansion study. Open label, multi center, non randomized, multiple dose, safety, pharmacokinetic and pharmacodynamic study of single agent PF-06747143 in sequential dose levels of adult patients with refractory or relapsed AML in order to establish maximum tolerated dose (MTD), recommended Phase 2 dose (RP2D) or maximally permitted dose (MPD) following by a 3 arm dose expansion with PF-06747143 in combination with standard of care chemotherapy in adult patient",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPart 1 and Part 2 cohort 3: Patients diagnosed with AML ( bone marrow (BM) or peripheral blood (PB) blast counts \\>/= 20%) and have received prior chemotherapy and/or standard of care and have relapsed, refractory or Minimal Residual Disease (defined as patients showing residual",
+      "endpoints": [
+        "Number of Participants With Dose-Limiting Toxicities (DLTs) [Part 1]",
+        "Number of Participants With Treatment-Emergent Adverse Events (AEs) [Part 2]",
+        "Number of Participants With Laboratory Abnormalities [Part 2]"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02954653"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01850524",
+      "title": "A Phase 3, Randomized, Double-Blind, Multicenter Study Comparing Oral MLN9708 Plus Lenalidomide and Dexamethasone Versus Placebo Plus Lenalidomide and Dexamethasone in Adult Patients With Newly Diagnosed Multiple Myeloma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-04-29",
+      "completion_date": "2022-06-24",
+      "country": "France, South Korea, Belgium, New Zealand, Russia, United States, Canada",
+      "enrollment": 705,
+      "brief_summary": "The purpose of this study is to provide continued access to ixazomib and/or lenalidomide to participants who are continuing to have clinical benefit and to continue collecting relevant safety data to monitor safety in participants with Newly Diagnosed Multiple Myeloma (NDMM) who are not eligible for stem cell transplant.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female participants 18 years or older diagnosed with Multiple Myeloma according to standard criteria who have not received prior treatment for multiple myeloma.\n2. Participants for whom lenalidomide and dexamethasone treatment is appropriate and who are not eligible f",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT01850524"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00912938",
+      "title": "A Phase IV, Multi-center, Open Label, Single Arm Clinical Trial to Evaluate the Relationship of Bone Remodeling Markers for Skeletal Complications in Metastatic Breast Cancer Patients",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2007-12",
+      "completion_date": "2010-12",
+      "country": "South Korea",
+      "enrollment": 237,
+      "brief_summary": "to evaluate whether bone marker can provide the valuable predictor of skeletal complications and whether regular assessing of NTX(N-telopeptide of type I collagen) and osteocalcin can be useful in advanced breast cancer patients with bone metastasis receiving zoledronic acid.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with advanced breast cancer with radiographic confirmation of bone metastases (minimum of one bone scan lesion must be confirmed as metastatic on plain radiographs or CT/MR imaging)\n2. Men or women aged ≥ 18 years\n3. WHO (ECOG) performance status 0-2\n4. Women of chil",
+      "endpoints": [
+        "Urinary NTX and serum osteocalcin will be assessed at baseline, 3, 6, 9, and 12 months and when unexpected skeletal related events is detected."
+      ],
+      "sponsor": "Korean Breast Cancer Study Group",
+      "url": "https://clinicaltrials.gov/study/NCT00912938"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02652884",
+      "title": "Evaluation of Potential Benefits of Using Steroids in the Postoperative Transient Hypoparathyroidism Total Thyroidectomy",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2016-01",
+      "completion_date": "2017-12",
+      "country": "Argentina",
+      "enrollment": 110,
+      "brief_summary": "The incidence of thyroid cancer (TC) has increased exponentially worldwide. The increase in diagnosed cases brings about an increase in the number of surgeries performed on the thyroid gland, especially total thyroidectomy (TT), given that at present is still the gold standard of treatment.\n\nTransient postoperative hypoparathyroidism (HPT) is one of the most frequent complications, with an incidence of between 10 and 46% according to different sources. HPT involves longer hospital stay, serial m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult\n* thyroidectomy postoperative\n* prepaid affiliate patients\n\nExclusion Criteria:\n\n* allergy\n* CKD\n* idiophatic thrombocytopenic purpura\n* hyperthyroidism\n* chronic use of corticoids\n* no follicular cancer, nonpapillary\n* refusal to participate",
+      "endpoints": [
+        "Postoperative Hypocalcemia"
+      ],
+      "sponsor": "Hospital Italiano de Buenos Aires",
+      "url": "https://clinicaltrials.gov/study/NCT02652884"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03544281",
+      "title": "A Phase I/II, Open-label, Dose Escalation and Expansion Study to Evaluate Safety, Tolerability, and Clinical Activity of the Antibody-Drug Conjugate GSK2857916 Administered in Combination With Lenalidomide Plus Dexamethasone (Arm A), or Bortezomib Plus Dexamethasone (Arm B) in Participants With Relapsed / Refractory Multiple Myeloma - DREAMM-6",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-09-20",
+      "completion_date": "2024-02-28",
+      "country": "Australia, United Kingdom, Spain, United States, Canada",
+      "enrollment": 153,
+      "brief_summary": "This study will evaluate the safety and tolerability profile of belantamab mafodotin when administered in combination with approved regimens of either Lenalidomide Plus Dexamethasone \\[Len/Dex (Treatment A)\\] or Bortezomib Plus Dexamethasone \\[Bor/Dex (Treatment B)\\] in participants with RRMM, i.e., those who have relapsed or who are refractory to at least 1 line of approved therapy.\n\nParticipants receiving treatment A, may continue combination treatment until the occurrence of progressive disea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Capable of giving signed informed consent.\n* Male or female, 18 years or older (at the time consent is obtained).\n* Have confirmed diagnosis of Multiple Myeloma (MM) as defined by the IMWG.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 for Arm A and ",
+      "endpoints": [
+        "Number of Participants With Dose Limiting Toxicities (DLTs), Treatment A",
+        "Number of Participants With DLTs, Treatment B",
+        "Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT03544281"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00622505",
+      "title": "Bone Marker-directed Dosing of ZOMETA® (Zoledronic Acid) for the Prevention of Skeletal Complications in Patients With Advanced Multiple Myeloma.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-11-07",
+      "completion_date": "2012-04-03",
+      "country": "United States",
+      "enrollment": 121,
+      "brief_summary": "This study evaluated the effectiveness and safety of a dosing method for zoledronic acid in preventing skeletal complications in multiple myeloma participants who have been on an intravenous (IV) bisphosphonate for about one to two years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of multiple myeloma\n* Have been on zoledronic acid or pamidronate for 1-2 years and therapy must have been initiated for osteolytic lesion, bone fracture, spinal compression, or osteopenia due to multiple myeloma\n* Stable renal function\n\nExclusion Criteria:",
+      "endpoints": [
+        "Percentage of Participants With ≥1 SRE at the End of 1 Year on Study"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00622505"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00950859",
+      "title": "A Pilot Study to Assess the Antiviral Activity of GSK1349572 Containing Regimen in Antiretroviral Therapy (ART)-Experienced, HIV-1-infected Adult Subjects With Raltegravir Resistance",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-08",
+      "completion_date": "2015-01",
+      "country": "Italy, France, Spain, United States, Canada",
+      "enrollment": 51,
+      "brief_summary": "Integrase is an enzyme produced by HIV so that the virus can multiply in the human body. GSK1349572 is a new drug in the integrase inhibitor class that prevents the enzyme from working properly and therefore prevents the virus from multiplying.\n\nGSK1349572 has shown to be effective against viruses in a short-term monotherapy study in adults with no previous exposure to integrase inhibitors. The purpose of this study is to determine whether GSK1349572 is effective in the treatment of HIV-infected",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected male or female adults at least 18 years of age with a plasma HIV-1 RNA \\> 1,000 copies/mL at study entry. Women capable of becoming pregnant must use appropriate contraception during the study (as defined by the protocol)\n* ART-experienced (defined as on stable ",
+      "endpoints": [
+        "Number of Participants Who Achieved HIV-1 RNA <400 Copies (c)/Milliliter (mL) or at Least 0.7 log10 c/mL Below Their Baseline Value at Day 11"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT00950859"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06930391",
+      "title": "Effect of Extracellular Calcium on Carbetocin Mediated Contractility in Human Myometrium: An Ex-Vivo Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-15",
+      "completion_date": "2026-06",
+      "country": "Canada",
+      "enrollment": 40,
+      "brief_summary": "Postpartum hemorrhage (PPH) continues to be an increasing problem globally. Uterotonics play an essential role in the pharmacological management of uterine atony. Carbetocin, a long acting analog of oxytocin has been recommended as a first line uterotonic for PPH prophylaxis at cesarean delivery. Considering many woman have associated comorbidities and are at high risk of PPH, finding alternative pharmacological agents is essential. Calcium is a key factor for myometrial contractions and calcium",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* non-laboring women with gestational age between 37 to 41 weeks\n* not exposed to exogenous oxytocin, scheduled for a primary or first repeat cesarean delivery under neuraxial anesthesia.\n\nExclusion criteria:\n\n* patients requiring general anesthesia\n* more than 1 previous cesare",
+      "endpoints": [
+        "Motility index"
+      ],
+      "sponsor": "Samuel Lunenfeld Research Institute, Mount Sinai Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06930391"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02688764",
+      "title": "An Open-label, Randomised, Active-controlled, Parallel Group, Multicentre, Phase 3 Study to Investigate the Safety and Efficacy of PA21 (Velphoro®) and Calcium Acetate (Phoslyra®) in Paediatric and Adolescent CKD Patients With Hyperphosphataemia",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2016-05-26",
+      "completion_date": "2019-02-21",
+      "country": "Germany, France, Romania, Russia, Lithuania, Poland, United States",
+      "enrollment": 85,
+      "brief_summary": "This is a Phase 3, Open-label, Randomised, Active-controlled, Parallel Group, Multicentre Study to Investigate the Safety and Efficacy of PA21 (Velphoro®) and Calcium Acetate (Phoslyra®) in Paediatric and Adolescent CKD Patients with Hyperphosphataemia. The aim of this Phase 3 clinical study is to demonstrate similar efficacy of PA21 (Velphoro) in paediatric and adolescent patients with CKD, and to provide safety and dosing information for this patient population. The Phoslyra (comparator) group",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects 0 to \\<18 years at time of consent.\n2. Subjects with hyperphosphataemia\n3. Subjects ≥1 year with CKD Stages 4-5 defined by a glomerular filtration rate \\<30 mL/min/1.73 m2 or with CKD Stage 5D receiving adequate maintenance haemodialysis (HD) or peritoneal dialysis (",
+      "endpoints": [
+        "Change in Serum Phosphorus Level From Baseline to the End of Stage 1 in the PA21 Group",
+        "Number and Percentage of Participants Who Withdrew Due to Treatment Emergent Adverse Events",
+        "Number and Percentage of Participants With Any Treatment Emergent Adverse Event"
+      ],
+      "sponsor": "Vifor Fresenius Medical Care Renal Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02688764"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04209179",
+      "title": "A Randomized, Double-Blind, Multiple Ascending Oral Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of PCO371 in Patients With Hypoparathyroidism",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2020-07-23",
+      "completion_date": "2021-05-25",
+      "country": "Hungary, Canada, United States",
+      "enrollment": 5,
+      "brief_summary": "This is a multi-center, placebo-controlled, randomized, double-blind, multiple-ascending dose study in patients with hypoparathyroidism.\n\nThe total duration of study medication treatment will be 13 weeks and includes a Fixed-Dose Treatment period and a Dose Titration Treatment period. The Fixed-Dose Treatment period consists of multiple daily dosing at a fixed dose level. Once patients have completed the Fixed-Dose Treatment period, patients will enter the Dose Titration Treatment period where P",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Able and willing to provide written informed consent, to use the device for PRO and electronic diary and to comply with the requirements of the protocol.\n2. Adult males or females ≥18 years of age\n3. History of hypoparathyroidism for more than 1-year post initial diagnosis\n4.",
+      "endpoints": [
+        "Treatment-emergent adverse events",
+        "Selected adverse events",
+        "Clinically significant change in the safety parameters; vital signs"
+      ],
+      "sponsor": "Chugai Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT04209179"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "36282253",
+      "title": "Hypercalcemia: A Review.",
+      "abstract": "Hypercalcemia affects approximately 1% of the worldwide population. Mild hypercalcemia, defined as total calcium of less than 12 mg/dL (<3 mmol/L) or ionized calcium of 5.6 to 8.0 mg/dL (1.4-2 mmol/L), is usually asymptomatic but may be associated with constitutional symptoms such as fatigue and constipation in approximately 20% of people. Hypercalcemia that is severe, defined as total calcium of 14 mg/dL or greater (>3.5 mmol/L) or ionized calcium of 10 mg/dL or greater (≥2.5 mmol/L) or that develops rapidly over days to weeks, can cause nausea, vomiting, dehydration, confusion, somnolence, and coma.",
+      "journal": "JAMA",
+      "year": "2022",
+      "authors": [
+        "Walker Marcella Donovan",
+        "Shane Elizabeth"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Calcium",
+        "Coma",
+        "COVID-19",
+        "Dehydration",
+        "Denosumab",
+        "Hypercalcemia",
+        "Hyperparathyroidism, Primary",
+        "Immune Checkpoint Inhibitors",
+        "Nausea"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36282253/"
+    },
+    {
+      "pmid": "28806048",
+      "title": "Electrolytes: Calcium Disorders.",
+      "abstract": "A normal serum calcium level is 8 to 10 mg/dL. The diagnosis of hypercalcemia (ie, levels 10.5 mg/dL or greater) should be confirmed with an albumin-adjusted or ionized calcium level. The two most common causes of hypercalcemia are hyperparathyroidism and malignancy. Drugs, notably lithium and thiazide diuretics, also can cause hypercalcemia. Patients with severe or symptomatic hypercalcemia should be treated initially with hydration to decrease calcium levels. The evaluation should include a parathyroid hormone (PTH) level. If the PTH level is low, cancer is a likely cause, particularly multiple myeloma, breast cancer, or lymphoma. If the PTH level is normal or elevated, hyperparathyroidism is the likely cause. Symptomatic patients with hyperparathyroidism and patients with certain clinical markers should be considered for surgery. For patients with mild disease, monitoring is an option. Hypocalcemia often is caused by vitamin D deficiency. Symptomatic patients and patients with calci",
+      "journal": "FP essentials",
+      "year": "2017",
+      "authors": [
+        "Barstow Craig",
+        "Braun Michael"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Accidental Falls",
+        "Antimanic Agents",
+        "Calcium",
+        "Calcium Gluconate",
+        "Dietary Supplements",
+        "Fluid Therapy",
+        "Fractures, Bone",
+        "Humans",
+        "Hypercalcemia",
+        "Hyperparathyroidism"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28806048/"
+    },
+    {
+      "pmid": "25158579",
+      "title": "[Hypercalcemia].",
+      "abstract": "The most common cause of hypercalcemia is primary hyperparathyroidism. The level of parathyroid hormone (PTH) is the starting point of differential diagnosis. Other basic investigations include plasma phosphorus level, vitamin D, and calculated creatinine clearance. PTH-dependent hypercalcemia is mainly caused by primary hyperparathyreosis. If PTH is suppressed, malignant disease must be concidered carefully. Signs of severe hypercalcemia or hypercalcemic crisis are nausea, worsening general condition and impairment of renal function, whereby symptomatic treatment will be initiated without delay. Calcium drugs, thiazide diuretics and lithium are terminated. After taking care of sufficient rehydration, loop diuretics and bisphosphonates can be used as first line treatment of severe hypercalcemia.",
+      "journal": "Duodecim; laaketieteellinen aikakauskirja",
+      "year": "2014",
+      "authors": [
+        "Matikainen Niina"
+      ],
+      "pub_types": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Biomarkers",
+        "Creatinine",
+        "Diagnosis, Differential",
+        "Diphosphonates",
+        "Disease Progression",
+        "Fluid Therapy",
+        "Humans",
+        "Hypercalcemia",
+        "Hyperparathyroidism",
+        "Parathyroid Hormone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25158579/"
+    },
+    {
+      "pmid": "15698586",
+      "title": "Laboratory screening for hyperparathyroidism.",
+      "abstract": "The clinical syndrome produced by excess parathyroid hormone (PTH) is referred to as hyperparathyroidism (HPT). Autonomous growth of PTH producing cells is defined as primary hyperparathyroidism (pHPT). In its classic form pHPT is characterized by painful bones, kidney stones, abdominal groans, psychic moans, fatigue overtones and hypercalcemia. Chronic stimulation of the parathyroid glands secondary to low circulating calcium level results in secondary hyperparathyroidism (sHPT). Tertiary hyperparathyroidism (tHPT) results from prolonged secondary hyperparathyroidism when the glands take on an autonomous function manifested by hypercalcemia and high PTH levels despite resolution of the original stimulus.",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "year": "2005",
+      "authors": [
+        "Younes Nidal A",
+        "Shafagoj Yanal",
+        "Khatib Faisal",
+        "Ababneh Mahmoud"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Calcitonin",
+        "Calcium",
+        "Clinical Chemistry Tests",
+        "Humans",
+        "Hyperparathyroidism",
+        "Vitamin D"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15698586/"
+    },
+    {
+      "pmid": "8029686",
+      "title": "[Hypercalcemia].",
+      "abstract": "Severe hypercalcemia is mainly caused by inappropriately high concentrations of compounds which promote bone resorption, in particular PTH, PTHrP, or 1,25 (OH)2D3. The major consequences are impaired central nervous system and kidney function (polyuria/dehydration); the latter, in turn, aggravate hypercalcemia via decreased fluid intake, mobility, and renal calcium clearance. The most common causes of hypercalcemia are primary hyperparathyroidism and tumors, drugs (in particular thiazides, lithium, vitamin D and vitamin A and their derivatives), granulomatous and infectious diseases. The patient with mild hypercalcemia should be controlled (and if necessary operated on for adenoma of the parathyroid glands), while the patient with acute severe hypercalcemia needs to be treated immediately by (1.) 0.9% NaCl i.v. to restore plasma volume, (2.) bisphophonates i.v. to block bone resorption, and (3.) therapy for the underlying disorder.",
+      "journal": "Schweizerische medizinische Wochenschrift",
+      "year": "1994",
+      "authors": [
+        "Schmid C"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Bone Resorption",
+        "Diphosphonates",
+        "Glucocorticoids",
+        "Humans",
+        "Hypercalcemia",
+        "Hyperparathyroidism",
+        "Isotonic Solutions",
+        "Male",
+        "Multiple Myeloma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8029686/"
+    },
+    {
+      "pmid": "3731786",
+      "title": "Alterations in calcium, phosphorus and C-terminal parathyroid hormone levels in equine acute renal disease.",
+      "abstract": "The changes in serum and urinary levels of calcium and phosphorus and serum parathyroid hormone (PTH) were studied during controlled, chemically induced, acute renal disease in 4 ponies. There was an initial rise in daily urinary calcium and hydroxyproline excretion in 2 ponies which may have indicated increased bone resorption. Mild hypercalcemia, hypophosphatemia and elevated C-terminal PTH levels were associated with oliguria. Total daily urinary excretion of calcium and phosphorus decreased as oliguria developed. The levels of C-terminal PTH were increased in all four animals. This appears to have been related to their diminished renal function in that C-terminal fragments of intact PTH (which require functioning kidneys in order to be cleared) were probably being accumulated. Although there was no evidence with regard to an actual increase in PTH secretion, prolongation of intact PTH half-life due to renal tubular damage may have contributed to the development of hypercalcemia.",
+      "journal": "The Cornell veterinarian",
+      "year": "1986",
+      "authors": [
+        "Elfers R S",
+        "Bayly W M",
+        "Brobst D F",
+        "Reed S M",
+        "Liggitt H D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Acute Kidney Injury",
+        "Animals",
+        "Calcium",
+        "Chromates",
+        "Horses",
+        "Hydroxyproline",
+        "Male",
+        "Mercuric Chloride",
+        "Orchiectomy",
+        "Parathyroid Hormone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3731786/"
+    },
+    {
+      "pmid": "26138848",
+      "title": "Drugs Used in Paediatric Bone and Calcium Disorders.",
+      "abstract": "Calcium and bone disorders in children and adolescents are treated with a wide variety of drugs. Several of these drugs have been used for many years on the basis of accepted practice, without being subjected to rigorous trials. Bisphosphonates are the mainstay treatment for children with osteoporosis, but newer, more potent compounds such as zoledronate and risedronate have begun to replace the older-generation bisphosphonates. Hypocalcaemia is managed with calcium and vitamin D and its metabolites. In difficult cases that are secondary to hypoparathyroidism, subcutaneous injections or infusions of parathyroid hormone have been used. Multiple daily phosphate supplements and calcitriol are the standard treatment for hypophosphataemic rickets, but trials of an anti-fibroblast growth factor 23 antibody appear promising, and the results are eagerly awaited. Many new medications are undergoing clinical trials and are starting to emerge as viable treatment options for children. Some of thes",
+      "journal": "Endocrine development",
+      "year": "2015",
+      "authors": [
+        "Cheung Moira S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acetazolamide",
+        "Bone Density Conservation Agents",
+        "Bone Diseases, Metabolic",
+        "Bone and Bones",
+        "Calcitonin",
+        "Calcitriol",
+        "Calcium",
+        "Child",
+        "Denosumab",
+        "Diphosphonates"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26138848/"
+    },
+    {
+      "pmid": "37530086",
+      "title": "Regulation of the WNK4-SPAK-NCC pathway by the calcium-sensing receptor.",
+      "abstract": "Regulation of the sodium chloride cotransporter (NCC) in the distal convoluted tubule (DCT) plays a crucial role in renal salt handling. The calcium-sensing receptor (CaSR) has been shown to activate NCC through the WNK4-SPAK pathway, which is independent of the Renin-Angiotensin-Aldosterone system. In this review, we examine new information about the mechanism of how the CaSR regulates NCC through the WNK4-SPAK pathway and its physiological and therapeutic implications.",
+      "journal": "Current opinion in nephrology and hypertension",
+      "year": "2023",
+      "authors": [
+        "Chávez-Canales María",
+        "García Janeth Alejandra",
+        "Gamba Gerardo"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Protein Serine-Threonine Kinases",
+        "Receptors, Calcium-Sensing",
+        "Phosphorylation",
+        "Sodium Chloride",
+        "Calcium",
+        "Kidney Tubules, Distal",
+        "Hypertension",
+        "Sodium Chloride, Dietary",
+        "Solute Carrier Family 12, Member 3"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37530086/"
+    },
+    {
+      "pmid": "29806749",
+      "title": "The Effects of Diuretics on Mineral and Bone Metabolism.",
+      "abstract": "The effects of diuretics on water and electrolyte metabolism are well-established, but less known to the clinician are their effects on bone and mineral metabolism, and in particular on that of calcium homeostasis. In general, and clinically most relevant, diuretics acting at the thick ascending limb of the loop of Henle cause loss of calcium into the urine, thus making them a useful tool in treating hypercalcemia. However the hypercalciuria caused by loop diuretics may lead to the development of urolithiasis and nephrocalcinosis, as well as secondary hyperparathyroidism and bone disease. On the other hand, thiazide diuretics that act more distally, increase tubular calcium reabsorption, thus providing protection against hypercalciuria, and with that may raise serum calcium, suppress PTH secretion and improve bone metabolism. Additional hypocalciuric effect may be observed with the use of potassium-sparing diuretics. This review will address the effects of diuretics on mineral metaboli",
+      "journal": "Pediatric endocrinology reviews : PER",
+      "year": "2018",
+      "authors": [
+        "Alon Uri S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Bone Density",
+        "Calcium",
+        "Diuretics",
+        "Humans",
+        "Kidney",
+        "Sodium Chloride Symporter Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29806749/"
+    },
+    {
+      "pmid": "482179",
+      "title": "Causes of hypercalcemia.",
+      "abstract": "Hypercalcemia is most commonly seen in normal infants as the result of normal rapid bone growth. The most common causative diseases are malignant disease and hyperparathyroidism. A variety of pharmacologic agents, especially vitamin D and its metabolites and thiazide diuretics, can elevate serum calcium levels. Hypersensitivity to vitamin D appears to be a cause of hypercalcemia in infants and in patients with granulomatous disease, such as sarcoidosis. Ingestion of escessive amounts of calcium, especially with alkali, may also cause hypercalcemia, as may prolonged immobilization, particularly under conditions of rapid bone turnover.",
+      "journal": "Postgraduate medicine",
+      "year": "1979",
+      "authors": [
+        "Zawada E T",
+        "Lee D B",
+        "Kleeman C R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Benzothiadiazines",
+        "Diuretics",
+        "Humans",
+        "Hypercalcemia",
+        "Hyperparathyroidism",
+        "Hyperparathyroidism, Secondary",
+        "Immobilization",
+        "Infant, Newborn",
+        "Infant, Newborn, Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/482179/"
+    },
+    {
+      "pmid": "29731287",
+      "title": "Controversies in Management of Hyperkalemia.",
+      "abstract": "Hyperkalemia is a common electrolyte disorder that can result in morbidity and mortality if not managed appropriately.",
+      "journal": "The Journal of emergency medicine",
+      "year": "2018",
+      "authors": [
+        "Long Brit",
+        "Warix Justin R",
+        "Koyfman Alex"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acidosis",
+        "Buffers",
+        "Cation Exchange Resins",
+        "Dialysis",
+        "Drug Combinations",
+        "Electrocardiography",
+        "Glucose",
+        "Humans",
+        "Hyperkalemia",
+        "Hypoglycemia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29731287/"
+    },
+    {
+      "pmid": "3752763",
+      "title": "Calcium and cardiac arrest.",
+      "abstract": "Calcium has a central role in regulating both cardiac automaticity and myocardial contractility. The ability of calcium to increase tension in normal myocardium is well known. These properties of calcium have led to its use in the setting of cardiopulmonary resuscitation, especially in the presence of electromechanical dissociation or asystole, but evidence of benefit from this therapy is lacking. During cardiac arrest, disturbances in the control of calcium movement in myocardium would likely result in elevations in cytosolic calcium and the disturbances in myocardial function that occur with calcium overload. Administration of calcium and the subsequent elevation in serum calcium concentrations under these conditions may have further detrimental effects on the heart and vascular smooth muscle. The routine use of calcium in cardiac arrest is not recommended.",
+      "journal": "Annals of internal medicine",
+      "year": "1986",
+      "authors": [
+        "Stempien A",
+        "Katz A M",
+        "Messineo F C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Calcium",
+        "Calcium Chloride",
+        "Heart Arrest",
+        "Homeostasis",
+        "Humans",
+        "Myocardial Contraction",
+        "Risk"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3752763/"
+    },
+    {
+      "pmid": "34847226",
+      "title": "Effect of Intravenous or Intraosseous Calcium vs Saline on Return of Spontaneous Circulation in Adults With Out-of-Hospital Cardiac Arrest: A Randomized Clinical Trial.",
+      "abstract": "It is unclear whether administration of calcium has a beneficial effect in patients with cardiac arrest.",
+      "journal": "JAMA",
+      "year": "2021",
+      "authors": [
+        "Vallentin Mikael Fink",
+        "Granfeldt Asger",
+        "Meilandt Carsten",
+        "Povlsen Amalie Ling",
+        "Sindberg Birthe"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Intravenous",
+        "Aged",
+        "Calcium Chloride",
+        "Double-Blind Method",
+        "Epinephrine",
+        "Female",
+        "Humans",
+        "Infusions, Intraosseous",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34847226/"
+    },
+    {
+      "pmid": "7446909",
+      "title": "Calcium and cardiac arrest.",
+      "abstract": "Various preparations of calcium are recommended for use in treatment of cardiac arrest and advantages are claimed for one preparation over another because of increased availability of the calcium to the heart. Ionised calcium levels in human blood have been assayed following the addition of calcium increments by use of the calcium electrode. The results showed no difference between calcium chloride and calcium gluconate.",
+      "journal": "Anaesthesia",
+      "year": "1980",
+      "authors": [
+        "Bull J",
+        "Band D M"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Calcium",
+        "Calcium Chloride",
+        "Calcium Gluconate",
+        "Electrodes",
+        "Gluconates",
+        "Heart Arrest",
+        "Humans",
+        "Osmolar Concentration"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7446909/"
+    },
+    {
+      "pmid": "37921685",
+      "title": "Sodium Bicarbonate and Calcium Chloride for the Treatment of Hyperkalemia-Induced Cardiac Arrest: A Randomized, Blinded, Placebo-Controlled Animal Study.",
+      "abstract": "Current international guidelines recommend administrating calcium chloride and sodium bicarbonate to patients with hyperkalemia-induced cardiac arrest, despite limited evidence. The aim of this study was to evaluate the efficacy of calcium chloride and sodium bicarbonate on return of spontaneous circulation (ROSC) in a pig model of hyperkalemia-induced cardiac arrest.",
+      "journal": "Critical care medicine",
+      "year": "2024",
+      "authors": [
+        "Eggertsen Mark Andreas",
+        "Munch Johannsen Cecilie",
+        "Kovacevic Alexander",
+        "Fink Vallentin Mikael",
+        "Mørk Vammen Lauge"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Calcium Chloride",
+        "Cardiopulmonary Resuscitation",
+        "Disease Models, Animal",
+        "Double-Blind Method",
+        "Heart Arrest",
+        "Hyperkalemia",
+        "Sodium Bicarbonate",
+        "Swine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37921685/"
+    },
+    {
+      "pmid": "3382105",
+      "title": "Cardiac arrest and blood ionized calcium levels.",
+      "abstract": "Blood ionized and total calcium levels, and pH values were obtained in 12 patients who were being ventilated and given external cardiac massage after having had an out-of-hospital cardiac arrest. On admission they had marked ionized hypocalcemia, with mean ionized calcium levels of 0.67 +/- 0.22 mmol/L, (range, 0.26 to 0.89), but normal total calcium levels. There was a positive correlation between pH and ionized calcium levels (r = 0.71). Of the six patients who were successfully resuscitated, four were discharged and two died; the other six could not be resuscitated and died. By comparison, ionized and total calcium levels obtained within 3 minutes of cardiac arrest were normal in 9 patients who had cardiac arrests in the intensive care unit or during surgery. All were discharged. These data are the first to document the occurrence of severe ionized hypocalcemia after out-of-hospital cardiac arrest. Hypocalcemia appears to be time-dependent and due essentially to extracellular comple",
+      "journal": "Annals of internal medicine",
+      "year": "1988",
+      "authors": [
+        "Urban P",
+        "Scheidegger D",
+        "Buchmann B",
+        "Barth D"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Calcium",
+        "Calcium Chloride",
+        "Cations, Divalent",
+        "Female",
+        "Heart Arrest",
+        "Humans",
+        "Hydrogen-Ion Concentration"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3382105/"
+    },
+    {
+      "pmid": "18667063",
+      "title": "Gitelman syndrome.",
+      "abstract": "Gitelman syndrome (GS), also referred to as familial hypokalemia-hypomagnesemia, is characterized by hypokalemic metabolic alkalosis in combination with significant hypomagnesemia and low urinary calcium excretion. The prevalence is estimated at approximately 1:40,000 and accordingly, the prevalence of heterozygotes is approximately 1% in Caucasian populations, making it one of the most frequent inherited renal tubular disorders. In the majority of cases, symptoms do not appear before the age of six years and the disease is usually diagnosed during adolescence or adulthood. Transient periods of muscle weakness and tetany, sometimes accompanied by abdominal pain, vomiting and fever are often seen in GS patients. Paresthesias, especially in the face, frequently occur. Remarkably, some patients are completely asymptomatic except for the appearance at adult age of chondrocalcinosis that causes swelling, local heat, and tenderness over the affected joints. Blood pressure is lower than that ",
+      "journal": "Orphanet journal of rare diseases",
+      "year": "2008",
+      "authors": [
+        "Knoers Nine V A M",
+        "Levtchenko Elena N"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Diagnosis, Differential",
+        "Genetic Counseling",
+        "Gitelman Syndrome",
+        "Humans",
+        "Models, Biological",
+        "Mutation",
+        "Receptors, Drug",
+        "Solute Carrier Family 12, Member 3",
+        "Symporters"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18667063/"
+    },
+    {
+      "pmid": "36403820",
+      "title": "Effect of calcium in patients with pulseless electrical activity and electrocardiographic characteristics potentially associated with hyperkalemia and ischemia-sub-study of the Calcium for Out-of-hospital Cardiac Arrest (COCA) trial.",
+      "abstract": "The Calcium for Out-of-hospital Cardiac Arrest (COCA) trial was recently conducted and published. This pre-planned sub-study evaluated the effect of calcium in patients with pulseless electrical activity (PEA) including subgroup analyses based on electrocardiographic characteristics potentially associated with hyperkalemia and ischemia.",
+      "journal": "Resuscitation",
+      "year": "2022",
+      "authors": [
+        "Vallentin Mikael Fink",
+        "Povlsen Amalie Ling",
+        "Granfeldt Asger",
+        "Terkelsen Christian Juhl",
+        "Andersen Lars W"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Calcium",
+        "Cardiopulmonary Resuscitation",
+        "Coca",
+        "Epinephrine",
+        "Hyperkalemia",
+        "Ischemia",
+        "Out-of-Hospital Cardiac Arrest"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36403820/"
+    },
+    {
+      "pmid": "36864469",
+      "title": "Improving vasopressor use in cardiac arrest.",
+      "abstract": "The Chain of Survival highlights the effectiveness of early recognition of cardiac arrest and call for help, early cardiopulmonary resuscitation and early defibrillation. Most patients, however, remain in cardiac arrest despite these interventions. Drug treatments, particularly the use of vasopressors, have been included in resuscitation algorithms since their inception. This narrative review describes the current evidence base for vasopressors and reports that adrenaline (1 mg) is highly effective at achieving return of spontaneous circulation (number needed to treat 4) but is less effective on long-term outcomes (survival to 30 days, number needed to treat 111) with uncertain effects on survival with a favourable neurological outcome. Randomised trials evaluating vasopressin, either as an alternative to or in addition to adrenaline, and high-dose adrenaline have failed to find evidence of improved long-term outcomes. There is a need for future trials to evaluate the interaction betwe",
+      "journal": "Critical care (London, England)",
+      "year": "2023",
+      "authors": [
+        "Perkins Gavin D",
+        "Couper Keith"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Epinephrine",
+        "Heart",
+        "Norepinephrine",
+        "Out-of-Hospital Cardiac Arrest",
+        "Vasoconstrictor Agents",
+        "Heart Arrest"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36864469/"
+    },
+    {
+      "pmid": "24766936",
+      "title": "Derangements of potassium.",
+      "abstract": "Changes in potassium elimination, primarily due to the renal and GI systems, and shifting potassium between the intracellular and extracellular spaces cause potassium derangement. Symptoms are vague, but can be cardiac, musculoskeletal, or gastrointestinal. There are no absolute guidelines for when to treat, but it is generally recommended when the patient is symptomatic or has ECG changes. Treatment of hyperkalemia includes cardiac membrane stabilization with IV calcium, insulin and beta-antagonists to push potassium intracellularly, and dialysis. Neither sodium bicarbonate nor kayexelate are recommended. Treatment of symptomatic hypokalemia consists of PO or IV repletion with potassium chloride and magnesium sulfate.",
+      "journal": "Emergency medicine clinics of North America",
+      "year": "2014",
+      "authors": [
+        "Medford-Davis Laura",
+        "Rafique Zubaid"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Electrocardiography",
+        "Heart Arrest",
+        "Humans",
+        "Hyperkalemia",
+        "Hypokalemia",
+        "Myocardium",
+        "Potassium",
+        "Potassium Chloride",
+        "Risk Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24766936/"
+    }
+  ]
+}

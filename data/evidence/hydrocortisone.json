@@ -2,39 +2,39 @@
   "drug": "Hydrocortisone",
   "drugbank_id": "DB00741",
   "evidence_level": "L1",
-  "collected_at": "2026-03-04T09:53:16Z",
+  "collected_at": "2026-03-04T10:07:20Z",
   "indications": [
     {
       "indication": "erythema multiforme",
-      "evidence_level": "L4",
-      "trials": 0,
+      "evidence_level": "L2",
+      "trials": 6,
       "articles": 10,
       "summary": {
         "phase3_trials": 0,
-        "phase2_trials": 0,
+        "phase2_trials": 3,
         "phase1_trials": 0,
-        "other_trials": 0,
+        "other_trials": 3,
         "rct_articles": 0,
         "review_articles": 1,
         "other_articles": 9,
-        "total_trials": 0,
+        "total_trials": 6,
         "total_articles": 10
       }
     },
     {
       "indication": "hemorrhoid",
       "evidence_level": "L2",
-      "trials": 0,
+      "trials": 6,
       "articles": 10,
       "summary": {
         "phase3_trials": 0,
-        "phase2_trials": 0,
+        "phase2_trials": 4,
         "phase1_trials": 0,
-        "other_trials": 0,
+        "other_trials": 2,
         "rct_articles": 1,
         "review_articles": 4,
         "other_articles": 5,
-        "total_trials": 0,
+        "total_trials": 6,
         "total_articles": 10
       }
     },
@@ -90,9 +90,231 @@
       }
     }
   ],
-  "total_trials": 40,
+  "total_trials": 52,
   "total_articles": 38,
   "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02153762",
+      "title": "Assessment of Application Order When Utilizing Locoid Lotion and Hylatopic Plus Cream in the Treatment of Atopic Dermatitis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-04",
+      "completion_date": "2014-01",
+      "country": "United States",
+      "enrollment": 41,
+      "brief_summary": "The purpose of this study is to evaluate the safety and tolerability, as well as effectiveness, with regards to the order of application for Locoid Lipocream and Hylatopic Plus cream in patients with atopic dermatitis (AD), which is a type of skin rash.Topical skin barrier repair therapies (BRT) that are plain moisturizing creams/lotions with added lipids (fats/oils), such as Hylatopic Plus cream, have emerged as an effective addition to the the treatment of atopic dermatitis. BRTs are often use",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* subjects of at least 3 months of age.\n* clinical diagnosis of stable mild to moderate AD using the Hanifin and Rajka criteria for diagnosing AD\n* AD lesions of similar size and severity of bilateral anatomic location\n* a SPGA score of 2 or 3 and at least 10% BSA involvement at",
+      "endpoints": [
+        "Change from Baseline Treatment Success at Day 29"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT02153762"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05199376",
+      "title": "Evaluation of Percutaneous Cryotherapy in the Treatment of Plexiform Neurofibromas and Unresectable Neurofibromas in Neurofibromatosis Type 1 (NF1)",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2022-02-14",
+      "completion_date": "2027-02-07",
+      "country": "France",
+      "enrollment": 30,
+      "brief_summary": "Neurofibromatosis type 1 (NF1) is an autosomal dominant disease affecting chromosome 17. It is manifested by a neurogenic tumor proliferation that forms cutaneous, subcutaneous or deep neurofibromas.\n\nNeurofibromas can cause functional discomfort, neurogenic pain that is difficult to treat, and severe cosmetic disorders.\n\nTreatment is essentially surgical. It is sometimes a heavy invasive surgery with complicated postoperative follow-up and significant scarring on the aesthetic level. Currently,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years;\n* Patient with neurofibromatosis type 1 according to NIH criteria ;\n* Patient with a benign neurofibromatous lesion that is painful and/or generates functional discomfort and is unresectable or with unacceptable scarring ;\n* Neutrophils \\> 1 G/l in the 14 days p",
+      "endpoints": [
+        "To evaluate the impact of percutaneous cryotherapy on physical health-related quality of life (in patients with inoperable (or operable with mutilating surgery) neurofibroma."
+      ],
+      "sponsor": "Centre Leon Berard",
+      "url": "https://clinicaltrials.gov/study/NCT05199376"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00332163",
+      "title": "A Phase 2, Open-label, Randomized Clinical Trial of Skin Toxicity Treatment in Subjects Receiving Second-line FOLFIRI or Irinotecan Only Chemotherapy Concomitantly With Panitumumab",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2008-09",
+      "country": "N/A",
+      "enrollment": 95,
+      "brief_summary": "A comparison of prophylactic treatment with reactive treatment for skin toxicity observed in patients with metastatic colorectal cancer (mCRC) who are receiving second-line irinotecan-based chemotherapy concomitantly with panitumumab.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with unresectable metastatic adenocarcinoma of the colon or rectum that cannot, in the opinion of the investigator, be cured by surgical resection at the time of randomization;\n* Patients who have failed first line treatment containing fluoropyrimidine and oxaliplatin",
+      "endpoints": [
+        "Percentage of Participants With Specific Grade 2 or Higher Skin Toxicities During the 6-week Skin Treatment Period"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00332163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05468372",
+      "title": "A Randomized Controlled Trial of Amphotericin B Versus Posaconazole for Treating Pulmonary Mucormycosis",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-07-01",
+      "completion_date": "2025-07-30",
+      "country": "India",
+      "enrollment": 50,
+      "brief_summary": "Pulmonary mucormycosis is a serious illness with high morbidity and mortality (approximately 57%). Surgery and antifungal therapy are central in the management of mucormycosis. Unlike rhino-orbital mucormycosis, surgery is not feasible in several patients with pulmonary mucormycosis. Hence, treatment is primarily with antifungal therapy. Amphotericin B is the standard of care in the medical management of mucormycosis. However, amphotericin B is expensive, has significant adverse events, and is a",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects with proven or probable pulmonary mucormycosis. Participants with a suspicion of pulmonary mucormycosis (as defined previously) based on compatible clinical presentation and compatible imaging will be screened for inclusion in the study.\n\nExclusion Criteria:\n\n* Failure ",
+      "endpoints": [
+        "The proportion of participants achieving a successful outcome (complete response or partial response) at the completion of six weeks. The response assessment will be a composite of clinical and radiological as adjudged by a multidisciplinary team"
+      ],
+      "sponsor": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+      "url": "https://clinicaltrials.gov/study/NCT05468372"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06878729",
+      "title": "Antegrade Dissection and Re-entry Versus Retrograde Strategy in Chronic Total Occlusion Percutaneous Coronary Intervention",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-07-28",
+      "completion_date": "2028-09-30",
+      "country": "Poland",
+      "enrollment": 74,
+      "brief_summary": "The ADRENALINE trial has been designed as a multi-center, prospective randomized study to compare the procedural and periprocedural outcomes of coronary chronic total occlusion (CTO) percutaneous coronary intervention (PCI) using antegrade dissection and re-entry (ADR) versus retrograde strategy. Beyond the patient-oriented outcomes, the influence of the studied CTO PCI strategies on the stress levels among interventional cardiologists will be explored.\n\nThe main questions it aims to answer are ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* clinical indication for CTO PCI as determined by the local heart team (presence of angina or equivalent symptoms and/or documented ischemia or viability)\n* at least difficult native CTO lesion with J-CTO difficulty score ≥2 points on invasive angiography\n* angiographic suitabi",
+      "endpoints": [
+        "Total procedure time",
+        "Successful guidewire crossing through CTO"
+      ],
+      "sponsor": "National Institute of Cardiology, Warsaw, Poland",
+      "url": "https://clinicaltrials.gov/study/NCT06878729"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01650194",
+      "title": "A Phase 2 Study Determining Safety and Tolerability of Enzalutamide (Formerly MDV3100) in Combination With Abiraterone Acetate in Bone Metastatic Castration-Resistant Prostate Cancer Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-07-09",
+      "completion_date": "2018-01-04",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study was to explore the safety and tolerability of enzalutamide in combination with abiraterone acetate plus prednisone. Subjects diagnosed with cancer of the prostate that was getting worse and spreading to the bone despite receiving hormone treatment were enrolled and received study treatment until disease progression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate without neuroendocrine differentiation or small cell features\n* Presence of metastatic disease to the bone\n* Ongoing androgen deprivation therapy with a gonadotropin releasing hormone (GnRH) analogue or o",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs)"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT01650194"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01833104",
+      "title": "A Longitudinal Study on the Trainability of Socio-affective and Cognitive Functions and Abilities.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2016-02",
+      "country": "Germany",
+      "enrollment": 332,
+      "brief_summary": "The purpose of the study is to look at the long term effects of a complex socio-affective mental training program on a neuroscientific-, hormonal-, behavioral-, biological, and subjective measures-level. The training protocol consists of a variety of meditation and other mental health techniques, which are trained over the period of 3-9 months (13 weeks per Module; 1-3 Modules)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* is a healthy, normal subject\n\nExclusion Criteria:\n\n* can not participate in the kick-off retreats\n* does not have a PC with internet connection at home\n* does not speak and understand German fluently\n* has studied or is studying Psychology/Psychotherapy\n* has a daily meditatio",
+      "endpoints": [
+        "Changes in several structural MRI measures (MRI-based cortical thickness, mprage; T1-mapping, mp2rage; automatic amygdala volumetry; tensor-based morphometry, Diffusion Tensor Imaging; Flair)",
+        "Changes in functional magnetic resonance imaging (fMRI) measure: Regulation and Generation of Emotions (RAGE)",
+        "Changes in functional magnetic resonance imaging (fMRI) measure: Resting State measurement"
+      ],
+      "sponsor": "Max Planck Institute for Human Cognitive and Brain Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01833104"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02301052",
+      "title": "Double Blind Randomized Placebo-control Trial of Allium Ampeloprasum Spp.Iranicum Cream Effect for the Management of Hemorrhoids Symptoms",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2014-09",
+      "completion_date": "2014-12",
+      "country": "Iran",
+      "enrollment": 75,
+      "brief_summary": "Purpose of study is evaluation of Allium ampeloprasum Spp.Iranicum cream efficacy in management of symptomatic hemorrhoids in a double blind randomized placebo-control trial",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Participants having symptomatic hemorrhoids(GRADE 1-4) without need to emergency operation according to physical examination\n* Participants who do not use drugs other than the study drug and the control drug to treat their hemorrhoids during the study period:\n\nExclusion Criteri",
+      "endpoints": [
+        "pain (visual analogue scale(0-10))",
+        "bleeding ( questionnaire)",
+        "itching ( questionnaire)"
+      ],
+      "sponsor": "Shiraz University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT02301052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00405288",
+      "title": "The Safety of Proctofoam-HC in the Third Trimester of Pregnancy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2010-06",
+      "country": "Canada",
+      "enrollment": 408,
+      "brief_summary": "The purpose of this study is to evaluate the fetal safety of topical application of Proctofoam-HC®, an antihemorrhoidal, in the third trimester of pregnancy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* For intervention group, any pregnant woman with a primary anorectal condition during the third trimester of pregnancy\n* For control group, women in third trimester of pregnancy not treated with Proctofoam, and matched on maternal age and smoking status\n* for either group,no ot",
+      "endpoints": [
+        "Birth-weight"
+      ],
+      "sponsor": "The Hospital for Sick Children",
+      "url": "https://clinicaltrials.gov/study/NCT00405288"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02689856",
+      "title": "A Randomized, Dose-Ranging, Double Blind Study of Lidocaine Hydrochloride and/or Hydrocortisone Acetate (Alone or in Combination) in the 14-Day Twice-Daily Treatment of Grade I or II Hemorrhoids",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-05",
+      "completion_date": "2015-10",
+      "country": "N/A",
+      "enrollment": 211,
+      "brief_summary": "The objectives of this study are to assess the potential contribution of lidocaine hydrochloride or hydrocortisone acetate, alone or in combination, in topical cream preparations in the treatment of Grade I or II hemorrhoids and to demonstrate the safety and efficacy of the test articles when applied twice daily for 14 days in subjects with Grade I or II hemorrhoids. These products reflect common drug combinations of lidocaine hydrochloride or hydrocortisone acetate found in many prescription he",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject is male or non-pregnant female 18 years of age or older, in generally good health. Females must be post-menopausal, surgically sterile or have a negative urine pregnancy test (UPT) at the Baseline Visit and agree to use birth control during the study.\n2. Subject has p",
+      "endpoints": [
+        "Global score of disease severity"
+      ],
+      "sponsor": "Citius Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02689856"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03335774",
+      "title": "A Randomized, Double-blind, Placebo-controlled, Multicenter, Parallel Group Study to Evaluate Safety and Efficacy of 25 mg Hydrocortisone Acetate Suppositories in the Treatment of Symptomatic Internal Hemorrhoids.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-02-12",
+      "completion_date": "2021-03-05",
+      "country": "India, United States",
+      "enrollment": 103,
+      "brief_summary": "A randomized, double-blind, placebo-controlled, multicenter, parallel group study of the safety and efficacy of Hydrocortisone Acetate Suppositories, 25 mg compared to placebo suppositories in the treatment of symptomatic internal hemorrhoids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* internal hemorrhoids.\n* hemorrhoidal bleeding.\n* male or female aged 18 years and older.\n* willing to forego the use of non-prescription (OTC) and prescription medication or procedures for the treatment of hemorrhoidal disease and/or pain for the duration of the study.\n* agree",
+      "endpoints": [
+        "Reduction in Swelling",
+        "Reduction in Itching Severity"
+      ],
+      "sponsor": "Nivagen Pharmaceuticals Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03335774"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01913158",
+      "title": "A Randomized, Double-Blind, Vehicle-Controlled, Multicenter Study to Evaluate Safety and Efficacy of Anucort HC TM (Hydrocortisone Acetate) 25mg Rectal Suppositories in the Treatment of Symptomatic Internal Hemorrhoids",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-10",
+      "completion_date": "2014-03",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "The primary objective of this study is to determine the safety and efficacy of G\\&W Laboratories' Anucort HC TM (Hydrocortisone Acetate) 25mg Rectal Suppositories in subjects with internal hemorrhoidal symptoms.",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Subjects with a diagnosis of symptomatic internal hemorrhoids will be selected to participate in the study.\n2. Eligible subjects will be males or non-pregnant, non-lactating, non-menstruating females; ≥ 18 years of age; with diagnosis of Grade I, II or III internal hemorrhoida",
+      "endpoints": [
+        "Bleeding Cessation"
+      ],
+      "sponsor": "G & W Laboratories Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01913158"
+    },
     {
       "registry": "ClinicalTrials.gov",
       "id": "NCT03007147",
@@ -101,7 +323,7 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "start_date": "2017-08-08",
       "completion_date": "2027-09-30",
-      "country": "Canada, Netherlands, United States, Hong Kong, Italy, Switzerland, New Zealand, Belgium, Chile, Czechia, Australia, Saudi Arabia, Austria, Sweden, Israel, Finland, Puerto Rico, Germany, France",
+      "country": "Italy, Switzerland, Sweden, Australia, Netherlands, Austria, Belgium, Chile, Czechia, Hong Kong, France, Israel, New Zealand, Finland, Puerto Rico, Canada, Saudi Arabia, Germany, United States",
       "enrollment": 475,
       "brief_summary": "This randomized phase III trial studies how well imatinib mesylate works in combination with two different chemotherapy regimens in treating patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukemia (ALL). Imatinib mesylate has been shown to improve outcomes in children and adolescents with Philadelphia chromosome positive (Ph+) ALL when given with strong chemotherapy, but the combination has many side effects. This trial is testing whether a different chemother",
       "eligibility_criteria": "Inclusion Criteria:\n\n* For patients enrolled on APEC14B1 prior to enrollment on AALL1631, the required diagnostic bone marrow sample has been fulfilled\n\n  * For patients who have not previously enrolled on APEC14B1 prior to enrollment on AALL1631, a baseline diagnostic sample (or peripheral blood sa",
@@ -119,7 +341,7 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "start_date": "2014-10-04",
       "completion_date": "2026-09-16",
-      "country": "New Zealand, United States, Australia, Canada",
+      "country": "Australia, New Zealand, Canada, United States",
       "enrollment": 847,
       "brief_summary": "This randomized phase III trial compares how well combination chemotherapy works when given with or without bortezomib in treating patients with newly diagnosed T-cell acute lymphoblastic leukemia or stage II-IV T-cell lymphoblastic lymphoma. Bortezomib may help reduce the number of leukemia or lymphoma cells by blocking some of the enzymes needed for cell growth. It may also help chemotherapy work better by making cancer cells more sensitive to the drugs. It is not yet known if giving standard ",
       "eligibility_criteria": "Inclusion Criteria:\n\n* T-ALL: T-ALL patients must be enrolled on AALL08B1 or Project:EveryChild (APEC14B1, if open for the classification of ALL patients) prior to treatment and enrollment on AALL1231\n* All patients must be \\> 1 and \\< 31 years of age\n* Patients must have newly diagnosed T-lymphobla",
@@ -157,7 +379,7 @@
       "status": "RECRUITING",
       "start_date": "2020-12-17",
       "completion_date": "2028-06-30",
-      "country": "Puerto Rico, United States, Australia, Canada",
+      "country": "Australia, Canada, Puerto Rico, United States",
       "enrollment": 461,
       "brief_summary": "This phase II trial studies the effect of nivolumab in combination with blinatumomab compared to blinatumomab alone in treating patients with B-cell acute lymphoblastic leukemia (B-ALL) that has come back (relapsed). Down syndrome patients with relapsed B-ALL are included in this study. Blinatumomab is an antibody, which is a protein that identifies and targets specific molecules in the body. Blinatumomab searches for and attaches itself to the cancer cell. Once attached, an immune response occu",
       "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be \\>= 1 and \\< 31 years at time of enrollment\n* Patients must have first relapse of CD19+ B-ALL (relapse blasts must express CD19) in one of the following categories:\n\n  * Isolated bone marrow relapse\n  * Isolated central nervous system (CNS) (excluding known op",
@@ -234,7 +456,7 @@
       "status": "RECRUITING",
       "start_date": "2023-05-11",
       "completion_date": "2031-04-28",
-      "country": "United States, Puerto Rico, Canada",
+      "country": "Canada, Puerto Rico, United States",
       "enrollment": 1875,
       "brief_summary": "This phase III trial compares the effect of adding immunotherapy (brentuximab vedotin and nivolumab) to standard treatment (chemotherapy with or without radiation) to the standard treatment alone in improving survival in patients with stage I and II classical Hodgkin lymphoma. Brentuximab vedotin is in a class of medications called antibody-drug conjugates. It is made of a monoclonal antibody called brentuximab that is linked to a cytotoxic agent called vedotin. Brentuximab attaches to CD30 posi",
       "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be 5 to 60 years of age at the time of enrollment\n* Patients with newly diagnosed untreated histologically confirmed classic Hodgkin lymphoma (cHL) (nodular sclerosis, mixed cellularity, lymphocyte-rich, or lymphocyte-depleted, or not otherwise specified \\[NOS\\])",
@@ -244,224 +466,6 @@
       ],
       "sponsor": "National Cancer Institute (NCI)",
       "url": "https://clinicaltrials.gov/study/NCT05675410"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT00400946",
-      "title": "Treatment of Acute Lymphoblastic Leukemia in Children",
-      "phase": "PHASE3",
-      "status": "COMPLETED",
-      "start_date": "2005-04",
-      "completion_date": "2019-06",
-      "country": "United States, Canada",
-      "enrollment": 800,
-      "brief_summary": "RATIONALE: L-asparaginase is an important component of treatment for childhood acute lymphoblastic leukemia, but is also associated with notable side-effects, including hypersensitivity, pancreatitis, and thrombosis. We have previously reported that patients with acute lymphoblastic leukemia in whom asparaginase treatment was discontinued because of intolerable side-effects had survival outcomes that were inferior to those who received all or nearly all of their intended doses. Two bacterial sou",
-      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of acute lymphoblastic leukemia (ALL)\n\n  * No known mature B-cell ALL, defined by the presence of any of the following:\n\n    * Surface immunoglobulin\n    * L3 morphology\n    * t(8;14)(q24;q32)\n    * t(8;22)\n    * t(2;8)\n  * T-cell surface markers and t(8;14)(q24",
-      "endpoints": [
-        "Asparaginase-Related Toxicity Rate"
-      ],
-      "sponsor": "Dana-Farber Cancer Institute",
-      "url": "https://clinicaltrials.gov/study/NCT00400946"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT07175415",
-      "title": "ITCC-104: HEM-iSMART International Proof of Concept Therapeutic Stratification Trial of Molecular Anomalies in Relapsed or Refractory HEMatological Malignancies in Children, Sub-Protocol E: Capivasertib + Venetoclax + Dexamethasone in Pediatric Patients With Relapsed or Refractory Hematological Malignancies",
-      "phase": "PHASE1, PHASE2",
-      "status": "NOT_YET_RECRUITING",
-      "start_date": "2026-10-01",
-      "completion_date": "2032-10-01",
-      "country": "N/A",
-      "enrollment": 42,
-      "brief_summary": "HEM-iSMART is a master protocol which investigates multiple investigational medicinal products in children, adolescents and young adults (AYA) with relapsed/refractory (R/R) ALL and LBL. Sub-protocol E is a phase I/II trial evaluating the safety and efficacy of capivasertib + venetocolax in combination with dexamethasone in children and AYA with R/R ped ALL/LBL whose tumor present with alterations of the PAM pathway, or lacking any mutations.",
-      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children ≥ 2 years and ≤ 18 years of age at the time of first diagnosis and less than 21 years at the time of inclusion\n2. Performance status: Karnofsky performance status (for patients \\>16 years of age) or Lansky Play score (for patients ≤16 years of age) ≥ 50% (Appendix I)",
-      "endpoints": [
-        "Phase I: Maximum tolerated dose (MTD) / Recommended phase 2 dose (RP2D).",
-        "Phase II: Best Overall Response Rate (ORR)."
-      ],
-      "sponsor": "Princess Maxima Center for Pediatric Oncology",
-      "url": "https://clinicaltrials.gov/study/NCT07175415"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT00352027",
-      "title": "Stanford V Chemotherapy With Low-Dose Tailored-Field Radiation Therapy for Intermediate Risk Pediatric Hodgkin Lymphoma",
-      "phase": "PHASE2",
-      "status": "COMPLETED",
-      "start_date": "2006-07-20",
-      "completion_date": "2022-11-15",
-      "country": "United States",
-      "enrollment": 81,
-      "brief_summary": "The main purpose of this protocol is to estimate the percentage of patients with intermediate risk Hodgkin lymphoma who will survive free of disease (Event-free survival) for three years after treatment with multi-agent chemotherapy (Stanford V) and low-dose, tailored-field radiation therapy. The hypothesis being studied is that this treatment will result in more than 80% of patients being alive and free of disease three years after starting treatment.",
-      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is less than or equal to 21 years of age\n* Patient has a confirmed diagnosis of previously untreated Hodgkin lymphoma\n* Has Ann Arbor stage IB, IIIA, or IA/IIA with extranodal extension, multiple nodal involvement (3 or more sites), or bulky mediastinal adenopathy.\n\nEx",
-      "endpoints": [
-        "3-year Event-Free Survival Probability"
-      ],
-      "sponsor": "St. Jude Children's Research Hospital",
-      "url": "https://clinicaltrials.gov/study/NCT00352027"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT00019409",
-      "title": "A Randomized Study of Two Methods of CNS Prophylaxis in Patients With Acute Lymphoblastic Leukemia",
-      "phase": "PHASE3",
-      "status": "WITHDRAWN",
-      "start_date": "1999-10",
-      "completion_date": "2001-07",
-      "country": "India, United States",
-      "enrollment": 0,
-      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage cancer cells. Giving radiation therapy to the head or intrathecal chemotherapy may prevent cancer cells from spreading to the brain. It is not yet known which treatment regimen is more effective for acute lymphoblastic leukemia.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of radiation therapy to the head",
-      "eligibility_criteria": "DISEASE CHARACTERISTICS: Cytologically confirmed acute lymphoblastic leukemia Greater than 25% lymphoblasts in bone marrow No mediastinal or localized lymphoblastic lymphoma No single node or extranodal site without bone marrow involvement No B cell lymphoma (Burkitt's or L3 FAB) No blast cells posi",
-      "endpoints": [],
-      "sponsor": "National Institutes of Health Clinical Center (CC)",
-      "url": "https://clinicaltrials.gov/study/NCT00019409"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT01186328",
-      "title": "A Phase I Study Evaluating the Safety, Tolerability and Biological Activity of EZN-3042, a Survivin mRNA Antagonist, Administered With Re-induction Chemotherapy in Children With Relapsed Acute Lymphoblastic Leukemia (ALL)",
-      "phase": "PHASE1",
-      "status": "TERMINATED",
-      "start_date": "2010-08-24",
-      "completion_date": "2012-01-10",
-      "country": "United States, Australia",
-      "enrollment": 6,
-      "brief_summary": "An experimental drug called EZN-3042 targets survivin, a protein expressed in leukemia cells at relapse that promotes the leukemia cells to grow. The main goal of this phase I study is to find out the dose of EZN-3042 that can be safely given without serious side effects both alone and in combination with standard chemotherapy drugs during re-induction.",
-      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be ≥1 and ≤ 21 years of age when originally diagnosed with acute lymphoblastic leukemia (ALL).\n* Patients must have relapsed or refractory B-precursor acute lymphoblastic leukemia (ALL) with ≥25% blasts in the bone marrow (M3), with or without extramedullary dise",
-      "endpoints": [
-        "Maximum Tolerated Dose of EZN-3042"
-      ],
-      "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
-      "url": "https://clinicaltrials.gov/study/NCT01186328"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT06124157",
-      "title": "An International Pilot Study of Chemotherapy and Tyrosine Kinase Inhibitors With Blinatumomab in Patients With Newly-Diagnosed Philadelphia Chromosome-Positive or ABL-Class Philadelphia Chromosome-Like B-Cell Acute Lymphoblastic Leukemia",
-      "phase": "PHASE3",
-      "status": "RECRUITING",
-      "start_date": "2025-05-30",
-      "completion_date": "2030-12-01",
-      "country": "Puerto Rico, United States, Australia, Canada",
-      "enrollment": 222,
-      "brief_summary": "This pilot trial assesses the effect of the combination of blinatumomab with dasatinib or imatinib and standard chemotherapy for treating patients with Philadelphia chromosome positive (Ph+) or ABL-class Philadelphia chromosome-like (Ph-like) B-Cell acute lymphoblastic leukemia (B-ALL). Blinatumomab is a bispecific antibody that binds to two different proteins-one on the surface of cancer cells and one on the surface of cells in the immune system. An antibody is a protein made by the immune syst",
-      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be \\> 365 days and \\< 18 years (for AIEOP-BFM), \\> 365 days and \\< 22 years (for Children's Oncology Group \\[COG\\]) and \\> 365 days and \\< 46 years (for ALLTogether sites) at the time of enrollment\n* Newly-diagnosed Ph+ or ABL-class Ph-like B-ALL. Leukemic blasts",
-      "endpoints": [
-        "Philadelphia chromosome-positive (Ph+) (BCR::ABL1-rearranged) 3-year event free survival (EFS)",
-        "ABL-class Ph-like B-ALL 3-year event free survival (EFS)",
-        "Incidence of adverse events"
-      ],
-      "sponsor": "National Cancer Institute (NCI)",
-      "url": "https://clinicaltrials.gov/study/NCT06124157"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT03515200",
-      "title": "A Phase I Study of Palbociclib in Combination With Chemotherapy in Pediatric Patients With Relapsed or Refractory Acute Lymphoblastic Leukemia",
-      "phase": "PHASE1",
-      "status": "TERMINATED",
-      "start_date": "2018-04-20",
-      "completion_date": "2020-07-29",
-      "country": "United States",
-      "enrollment": 12,
-      "brief_summary": "Leukemia cells grow and divide fast and out of control. In normal cells, certain proteins called CDK4 and CDK6 control cell growth. The study drug called palbociclib works by blocking the CDK4 and CDK6 proteins. Palbociclib has been shown to kill leukemia cells in the laboratory and in animal studies. Palbociclib will be added to other chemotherapy drugs, such as dexamethasone, that are known to be effective in treating childhood ALL.\n\nThis study will be done in two parts: Part 1: Dose Escalatio",
-      "eligibility_criteria": "Inclusion Criteria:\n\nParticipants must be \\< 22 years of age.\n\nDiagnosis:\n\nParticipants must have a diagnosis of acute lymphoblastic leukemia and disease meets at least one of the following criteria:\n\n* relapsed or refractory to chemotherapy as defined by ≥5% leukemic blasts in the bone marrow or fl",
-      "endpoints": [
-        "Maximum tolerated dose (MTD) of palbociclib plus chemotherapy"
-      ],
-      "sponsor": "St. Jude Children's Research Hospital",
-      "url": "https://clinicaltrials.gov/study/NCT03515200"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT05476770",
-      "title": "A Phase I Study of Tagraxofusp With or Without Chemotherapy in Pediatric Patients With Relapsed or Refractory CD123 Expressing Hematologic Malignancies",
-      "phase": "PHASE1",
-      "status": "RECRUITING",
-      "start_date": "2022-11-11",
-      "completion_date": "2027-11-11",
-      "country": "United States, Australia",
-      "enrollment": 54,
-      "brief_summary": "Tagraxofusp is a protein-drug conjugate consisting of a diphtheria toxin redirected to target CD123 has been approved for treatment in pediatric and adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN). This trial aims to examine the safety of this novel agent in pediatric patients with relapsed/refractory hematologic malignancies.\n\nThe mechanism by which tagraxofusp kills cells is distinct from that of conventional chemotherapy. Tagraxofusp directly targets CD123 that is pre",
-      "eligibility_criteria": "Inclusion Criteria:\n\nAge\n\n* Patients must be ≥ 1 and ≤21 years of age at the time of study enrollment.\n\nDiagnosis\n\n* Relapsed and/or refractory hematologic malignancy (including, but not limited to, acute lymphoblastic leukemia, acute myeloid leukemia, myelodysplastic syndrome, mixed phenotype acute",
-      "endpoints": [
-        "Occurrence of dose limiting toxicity (DLT) during cycle 1 of therapy"
-      ],
-      "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
-      "url": "https://clinicaltrials.gov/study/NCT05476770"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT06584448",
-      "title": "Role of Acetate in Heavy Drinking",
-      "phase": "NA",
-      "status": "RECRUITING",
-      "start_date": "2024-11-06",
-      "completion_date": "2030-01",
-      "country": "United States",
-      "enrollment": 50,
-      "brief_summary": "The purpose of this study is to learn how drinking alcohol affects how people experience stress and how that is affected by the body's chemistry. Specifically, the investigators will be studying relationships of drinking and a stress hormone called cortisol. The investigators believe that results will lead us to find more effective ways to help people stop or reduce drinking when participants are drinking at harmful levels.",
-      "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Medically stable male or female, aged 18-55.\n* Able to read, write and complete a multitude of self-assessments in Engl",
-      "endpoints": [
-        "Rate of Conversion of Acetate to Glutamate + Glutamine (Glx) in the Brain",
-        "Concentration of [2H]Glx in the brain during administration of [2H]acetate"
-      ],
-      "sponsor": "Yale University",
-      "url": "https://clinicaltrials.gov/study/NCT06584448"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT06244147",
-      "title": "Long Term Safety and Efficacy of KSM-66 Ashwagandha (Standardized Root Extract of Withania Somnifera) in Adults: A Prospective, Observational Study",
-      "phase": "N/A",
-      "status": "COMPLETED",
-      "start_date": "2024-02-15",
-      "completion_date": "2025-10-15",
-      "country": "United States",
-      "enrollment": 200,
-      "brief_summary": "The primary objective is to evaluate the clinical safety of KSM-66 Ashwagandha (Withania Somnifera) on long-term administration over 12 months. The secondary objectives are to evaluate the laboratory safety of KSM-66 Ashwagandha (Withania Somnifera) on long-term administration over 12 months and to evaluate the efficacy of KSM-66 Ashwagandha (Withania Somnifera) on long-term administration over 12 months.",
-      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults (male and female) aged between 18 and 65 years.\n* Prescribed KSM-66 Ashwagandha by their clinicians for long-term period.\n* No plan to commence any other alternative treatment modality for their conditions.\n* Willingness to sign an informed consent document and to compl",
-      "endpoints": [
-        "Adverse Events"
-      ],
-      "sponsor": "SF Research Institute, Inc.",
-      "url": "https://clinicaltrials.gov/study/NCT06244147"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT02150148",
-      "title": "Vegetable Garden Feasibility Trial to Promote Function in Older Cancer Survivors",
-      "phase": "NA",
-      "status": "COMPLETED",
-      "start_date": "2014-04",
-      "completion_date": "2015-12",
-      "country": "United States",
-      "enrollment": 46,
-      "brief_summary": "Cancer survivorship has been claimed a national priority, with a call to develop effective interventions that can prevent, delay, or mitigate the adverse effects and comorbidities in this high risk population. Strong evidence exists that a healthful diet and regular physical activity can prevent many chronic diseases and improve physical function. More research however is needed to develop interventions that can produce long-term adherence to healthful lifestyle behaviors. This pilot study is ba",
-      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosed with a loco-regionally staged cancer associated with an 60% or greater 5-year survival rate (localized and regional staged breast, Hodgkin lymphoma, prostate, ovary, endometrial, colorectal and thyroid cancers; localized cervix, kidney/renal pelvis, non-Hodgkin lymph",
-      "endpoints": [
-        "feasibility"
-      ],
-      "sponsor": "University of Alabama at Birmingham",
-      "url": "https://clinicaltrials.gov/study/NCT02150148"
-    },
-    {
-      "registry": "ClinicalTrials.gov",
-      "id": "NCT01868035",
-      "title": "Phase II Multicenter Study of Iodine-131 Anti-B1 Antibody Consolidation For Patients With Diffuse Large B-Cell Non-Hodgkin's Lymphoma Following First-line CHOP",
-      "phase": "PHASE2",
-      "status": "COMPLETED",
-      "start_date": "2000-05",
-      "completion_date": "2012-10",
-      "country": "N/A",
-      "enrollment": 15,
-      "brief_summary": "This is a multicenter study for the long-term follow-up of surviving patients who are expected to complete or who have completed at least two years of follow-up after treatment with Iodine I 131 Tositumomab (BEXXAR) on studies CP-97-011, CP-98-025, CP-99-032, or CP-99-036. All patients will be assessed for survival and disease status, including subsequent therapy for Diffuse Large B-cell Non-Hodgkin's Lymphoma (NHL), and for long-term safety. Additionally laboratory evaluations consisting of a t",
-      "eligibility_criteria": "Inclusion Criteria:\n\n* male or female subjects age 18 to 80 years, inclusive, with any International Prognostic Index score; treated with 6 or more cycles of first-line CHOP chemotherapy and achieved a PR, CRu, or CR\n* de novo diffuse large B-cell NHL according to the REAL classification; Ann Arbor ",
-      "endpoints": [
-        "Number of Participants With the Indicated Grade 4 Hematology Toxicities Following Iodine-131 Anti-B1 Antibody"
-      ],
-      "sponsor": "GlaxoSmithKline",
-      "url": "https://clinicaltrials.gov/study/NCT01868035"
     }
   ],
   "articles": [

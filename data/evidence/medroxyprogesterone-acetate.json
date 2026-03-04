@@ -1,0 +1,1053 @@
+{
+  "drug": "Medroxyprogesterone Acetate",
+  "drugbank_id": "DB00603",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T11:02:14Z",
+  "indications": [
+    {
+      "indication": "uterine corpus cancer",
+      "evidence_level": "L1",
+      "trials": 5,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 2,
+        "rct_articles": 0,
+        "review_articles": 2,
+        "other_articles": 8,
+        "total_trials": 5,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "endometrial cancer",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 6,
+        "phase1_trials": 0,
+        "other_trials": 10,
+        "rct_articles": 4,
+        "review_articles": 3,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "endometriosis",
+      "evidence_level": "L1",
+      "trials": 10,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 4,
+        "phase1_trials": 0,
+        "other_trials": 5,
+        "rct_articles": 2,
+        "review_articles": 4,
+        "other_articles": 3,
+        "total_trials": 10,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "endometriosis of uterus",
+      "evidence_level": "L4",
+      "trials": 4,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 4,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 9,
+        "total_trials": 4,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "postmenopausal atrophic vaginitis",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 3,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 2,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 3
+      }
+    }
+  ],
+  "total_trials": 39,
+  "total_articles": 42,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01698164",
+      "title": "Multi-centre Clinical Trial on Hormone Replacement Treatment in China",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-12",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 1200,
+      "brief_summary": "This study is to evaluate the benefit/risk of hormone replacement treatment among early menopausal women in China. This is a multi-centre, random, prospective study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* going through amenorrhea above 6 months and within 5 years,\n* aged 40 to 60 years,\n* going though postmenopausal symptoms,\n* serum E2 concentration \\<30pg/ml,\n* serum FSH concentration \\>40IU/L.\n\nExclusion Criteria:\n\n* uterine fibroid diameter≥5cm,\n* history of diabetes or hyp",
+      "endpoints": [
+        "Change from Baseline in risk factors of cardiovascular disease at 12 months and 24 months",
+        "Change from Baseline in risk factors of breast cancer at 12 months and 24 months"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01698164"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04710017",
+      "title": "Tranexamic Acid Versus Depot-Medroxyprogesterone Acetate in the Treatment of Perimenopausal Irregular Uterine Bleeding: Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-02-01",
+      "completion_date": "2022-05-01",
+      "country": "Egypt",
+      "enrollment": 110,
+      "brief_summary": "Abnormal uterine bleeding is a symptom and not a disease. It is one of the most frequently encountered complaints in gynecologic practice. It accounts for more than 70% of all gynecological consultations in the peri- and post-menopausal age group.\n\nAbnormal uterine bleeding may be acute or chronic and is defined as bleeding from the uterine corpus that is abnormal in regularity, volume, frequency, or duration and occurs in the absence of pregnancy.\n\nChronic heavy or prolonged uterine bleeding ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed, clinically as peri-menopausal abnormal uterine bleeding with normal pelvic examination.\n* Patient's age ranging from 40- 55y.\n\nExclusion Criteria:\n\n* Post menopausal women\n* Presence of fibroids, adenomyosis, polyp, adnexal mass, endometrial hyperplasia wit",
+      "endpoints": [
+        "Number of bleeding days"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT04710017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03463252",
+      "title": "Value of Levonorgestrel-Releasing Intrauterine System (LNG-IUS) in the Fertility-preserving Treatment of Atypical Endometrial Hyperplasia and Early Endometrial Carcinoma",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2018-04-01",
+      "completion_date": "2030-12-30",
+      "country": "China",
+      "enrollment": 224,
+      "brief_summary": "Primary end points:\n\nThis clinical trial is aimed to analyze the effectiveness of Levonorgestrel-Releasing Intrauterine System (LNG-IUS, Mirena®) in the fertility-sparing treatment of atypical endometrial hyperplasia and early endometrial carcinoma, including pathology response and pregnancy outcome.\n\nSecond end points:\n\nTo analyze the appearances of side-effects.",
+      "eligibility_criteria": "For Patients With Endometrial Cancer：\n\nInclusion Criteria:\n\n* ≤40 years of age:\n* Having a strong desire for fertility preservation;\n* Histological diagnosis is confirmed as well-differentiated (grade 1) endometrioid adenocarcinoma by the designated gynecological pathologists, and the progesterone r",
+      "endpoints": [
+        "Pathologic Response",
+        "Pregnancy Rate",
+        "Live Birth Rate"
+      ],
+      "sponsor": "West China Second University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03463252"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00064025",
+      "title": "A Phase II Pilot Investigation Of The Relationship Of Short Term Depo-Provera (Medroxyprogesterone Acetate) Exposure To The Morphologic , Biochemical, And Molecular Changes In Primary Endometroid Adenocarcinoma of the Uterine Corpus",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-04",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "This phase II trial is studying how well medroxyprogesterone works in treating patients with endometrioid adenocarcinoma (cancer) of the uterine corpus (the body of the uterus, not including the cervix). Hormone therapy using medroxyprogesterone may be effective in treating endometrioid cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed primary endometrioid adenocarcinoma of the uterine corpus\n\n  * All histologic grades and stages eligible\n  * Diagnosis by endometrial curettage or biopsy within the past 8 weeks\n\n    * Must have the initial tissue block or 16 unstained sections of 5 mi",
+      "endpoints": [
+        "Histologic Response in Endometrial Adenocarcinomas of the Uterine Corpus That Are Progesterone Receptor Positive Compared With Those That Are Progesterone Receptor Negative"
+      ],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00064025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03018249",
+      "title": "A Randomized Surgical Window Pilot Investigation of the Relationship of Short Term Medroxyprogesterone Acetate (NSC #26386) Compared to Medroxyprogesterone Acetate Plus Entinostat (NSC #706995) on the Morphologic, Biochemical, and Molecular Changes in Primary Endometrioid Adenocarcinoma of the Uterine Corpus",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-10-11",
+      "completion_date": "2021-03-12",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This randomized surgical window trial evaluates the effect of adding entinostat to medroxyprogesterone acetate before surgery works on progesterone receptors on endometrioid endometrial tumors. Medroxyprogesterone acetate is a progesterone, a hormone produced by body normally. Entinostat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving medroxyprogesterone acetate with or without entinostat may effect tumors from endometrioid endometrial cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have a histologically proven diagnosis of endometrioid endometrial adenocarcinoma by endometrial curettage or biopsy within 8 weeks prior to registration; central pathology review will be required as part of the study but not for registration purposes\n* History/p",
+      "endpoints": [
+        "Mean Post-treatment Tumor Progesterone Receptor H-score (Histology Score)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT03018249"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04792749",
+      "title": "Clinical Effects of Metformin on Fertility-sparing Treatment for Early Endometrial Cancer",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-06-01",
+      "completion_date": "2024-03-31",
+      "country": "South Korea",
+      "enrollment": 77,
+      "brief_summary": "The purpose of the study is to investigate the effects of metformin in addition to the conventional progestin therapy in the fertility-sparing treatment of early stage endometrial cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Endometrial cancer radiologic International Federation of Obstetrics and Gynecology (FIGO) stage IA patients\n* Endometrioid endometrial cancer patients\n* FIGO cellular differentiation grade 1 patients\n* Patients who wish to preserve fertility\n* Patients who understand that the",
+      "endpoints": [
+        "Treatment response rates",
+        "Treatment response rates",
+        "Treatment response rates"
+      ],
+      "sponsor": "Samsung Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04792749"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06468215",
+      "title": "Fertility Sparing Therapy for Patients With Stage IA G2 Endometrial Cancer",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-07",
+      "completion_date": "2028-10",
+      "country": "N/A",
+      "enrollment": 16,
+      "brief_summary": "Endometrial cancer (EC) is a prevalent gynecological cancer with an escalating global incidence and a decreasing age of onset. In the era of precision medicine, there is an increasing emphasis on tailoring treatments to different populations to optimize the positive impact of clinical interventions. Fertility-sparing therapies (FST) are gaining popularity for early-stage, low-grade endometrial cancer due to mounting evidence supporting favorable oncologic and pregnancy outcomes. However, consens",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Endometrioid adenocarcinoma G2, diagnosis by pathological.\n* The lesion is limited to the endometrium.\n* FIGO (2009) staging is IA.\n* Age less than 45.\n* Strongly request to preserve fertility.\n* Sign informed consent.\n\nExclusion Criteria:\n\n* The tumor has invaded the muscle l",
+      "endpoints": [
+        "The Time Required for Complete Remission for the First Time"
+      ],
+      "sponsor": "Peking University People's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06468215"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01074892",
+      "title": "A Multicenter Study Comparing Mirena and Systemic Progestin for Endometrial Hyperplasia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-05",
+      "completion_date": "2013-12",
+      "country": "Norway",
+      "enrollment": 170,
+      "brief_summary": "Randomized controlled multi-center study with three arms including 200 patients with low risk endometrial hyperplasia. After confirmed diagnosis the patients will receive one of the following treatments:\n\n1. Provera (Medroxyprogesterone (MPA)/progestin) 10 mg per oral treatment for 6 months 10 day each cycle,\n2. MPA 10 mg continuously for 6 months,\n3. Mirena (Levonorgestrel) impregnated IUD for 6 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed endometrial hyperplasia,\n* D-score \\> 0,\n* Age 30-70 years,\n* No contra-indications against progestin hormones,\n* Written consent,\n* Patients who have been treated with transcervical resection need a histologically confirmed diagnosis of hyperplasia ta",
+      "endpoints": [
+        "Regression of hyperplasia related to treatment arm after 6 months of therapy"
+      ],
+      "sponsor": "University Hospital of North Norway",
+      "url": "https://clinicaltrials.gov/study/NCT01074892"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01594879",
+      "title": "Treatment With Medroxyprogesterone Acetate(MPA) Plus Levonorgestrel-releasing Intrauterine System(LNG-IUS) in Young Women With Early Stage Endometrial Cancer: Multicenter Study: Korean Gynecologic Oncology Group Study (KGOG2009)",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2012-01",
+      "completion_date": "2014-12",
+      "country": "South Korea",
+      "enrollment": 39,
+      "brief_summary": "A prospective multicenter trial has been started in Korea to investigate the treatment efficacy of Levonorgestrel-releasing intrauterine system (LNG-IUS) plus Medroxyprogesterone Acetate(MPA) in Young Women with Early Stage Endometrial Cancer.\n\nThe standard treatment for endometrial cancer is total hysterectomy and bilateral salpingo-oophorectomy, peritoneal cytology, and lymph node dissection. However, young patients who desire to preserve their potential for fertility may find this standard tr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients younger than 40 years\n2. Patients who are histological confirmed as endometrial adenocarcinoma grade I that is presumably confined to the endometrium based on the MRI evaluation\n3. Patients who desire to preserve fertility potential\n4. Patients signed the written inf",
+      "endpoints": [
+        "response rate"
+      ],
+      "sponsor": "Korean Gynecologic Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT01594879"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05255653",
+      "title": "Refining Adjuvant Treatment in Endometrial Cancer Based on Molecular Features: the P53abn-RED Trial, the MMRd-GREEN Trial, the NSMP-ORANGE Trial and the POLEmut-BLUE Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2021-11-11",
+      "completion_date": "2031-01-01",
+      "country": "United Kingdom, Netherlands, France, Canada",
+      "enrollment": 1615,
+      "brief_summary": "The RAINBO umbrella program consists of four clinical trials investigating new adjuvant therapies in endometrial cancer patients. Eligible patients will be assigned to one of the four RAINBO trials based on the molecular profile of their cancer:\n\n* p53 abnormal endometrial cancer patients to the p53abn-RED trial\n* mismatch repair deficient endometrial cancer patients to the MMRd-GREEN trial\n* no specific molecular profile endometrial cancer patients to NSMP-ORANGE trial\n* POLE mutant endometrial",
+      "eligibility_criteria": "Participants of the four RAINBO trials should be eligible according to the inclusion and exclusion criteria of both the overarching RAINBO trials program and the clinical trial that they are assigned to based on the molecular profile.\n\nInclusion Criteria of the overarching RAINBO program:\n\n* Histolo",
+      "endpoints": [
+        "p53abn-RED trial",
+        "MMRd-GREEN trial",
+        "NSMP-ORANGE trial"
+      ],
+      "sponsor": "Leiden University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05255653"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03538704",
+      "title": "Effect of Fertility-sparing Therapy of Early Endometrial Cancer",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-01-01",
+      "completion_date": "2020-12-31",
+      "country": "China",
+      "enrollment": 80,
+      "brief_summary": "The purpose of this study is to investigate the effect of Fertility-sparing Therapy of Early Endometrial Cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ages of no more than 40\n* with a strong desire of fertility preservation\n* International Federation of Gynecology and Obstetrics (FIGO) 2009 stage Ⅰa grade 1\\~2 with lesion confined in endometrium\n* pathology expression of progestin receptors (PRs) and estrogen receptors\n\nExcl",
+      "endpoints": [
+        "Complete response rate"
+      ],
+      "sponsor": "Peking University People's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03538704"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02412072",
+      "title": "Comparison of Dilatation & Curettage and Endometrial Aspiration Biopsy Accuracy in Patients Treated With Progestin for Endometrial Hyperplasia: A Korean Gynecologic Oncology Group Study",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2015-04",
+      "completion_date": "2017-12",
+      "country": "South Korea",
+      "enrollment": 75,
+      "brief_summary": "A prospective multicenter trial has been started in Korea to evaluate the diagnostic accuracy of endometrial aspiration biopsy compared with D\\&C in patients treated with progestin for endometrial hyperplasia (EH). For conservative treatment of EH, oral progestins are most commonly used method with various treatment regimens and more recently, the levonorgestrel-releasing intrauterine system (LNG-IUS) also has been used successfully to treat EH. However, there is no report about the accuracy of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who are histological confirmed as endometrial hyperplasia\n2. Patients who desire to preserve fertility potential.\n3. Patients signed the written informed consent voluntarily.\n\nExclusion Criteria:\n\n1. Pregnancy or suspected pregnancy.\n2. Patients who have severe under",
+      "endpoints": [
+        "consistency of the endometrial aspiration biopsy and D&C after hormonal treatment of EH"
+      ],
+      "sponsor": "Korean Gynecologic Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT02412072"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00319566",
+      "title": "Heart and Estrogen-Progestin Replacement Study (HERS)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1992-07",
+      "completion_date": "2001-07",
+      "country": "United States",
+      "enrollment": 2430,
+      "brief_summary": "The purpose of the study is to determine whether hormone replacement therapy in post menopausal women with coronary artery disease prevents future heart attacks or death from coronary heart disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\<75 y.o.\n* uterus present\n* postmenopausal\n* evidence of CHD\n* signed consent\n\nExclusion Criteria:\n\n* MI, CABG, mechanical revascularization within 6 months\n* serum triglyceride \\>300mg/dl\n* used hormone therapy or estrogen vaginal cream in past 3 months\n* history of DVT or p",
+      "endpoints": [
+        "Myocardial Infarction",
+        "CHD Death"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT00319566"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04710017",
+      "title": "Tranexamic Acid Versus Depot-Medroxyprogesterone Acetate in the Treatment of Perimenopausal Irregular Uterine Bleeding: Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-02-01",
+      "completion_date": "2022-05-01",
+      "country": "Egypt",
+      "enrollment": 110,
+      "brief_summary": "Abnormal uterine bleeding is a symptom and not a disease. It is one of the most frequently encountered complaints in gynecologic practice. It accounts for more than 70% of all gynecological consultations in the peri- and post-menopausal age group.\n\nAbnormal uterine bleeding may be acute or chronic and is defined as bleeding from the uterine corpus that is abnormal in regularity, volume, frequency, or duration and occurs in the absence of pregnancy.\n\nChronic heavy or prolonged uterine bleeding ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed, clinically as peri-menopausal abnormal uterine bleeding with normal pelvic examination.\n* Patient's age ranging from 40- 55y.\n\nExclusion Criteria:\n\n* Post menopausal women\n* Presence of fibroids, adenomyosis, polyp, adnexal mass, endometrial hyperplasia wit",
+      "endpoints": [
+        "Number of bleeding days"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT04710017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05247268",
+      "title": "Gonadotropin-releasing Hormone Agonist Combined With Letrozole Compared With Megestrol Acetate or Medroxyprogesterone Acetate Alone as Fertility-sparing Treatment in Early Endometrial Cancer",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-03-11",
+      "completion_date": "2027-09-10",
+      "country": "China",
+      "enrollment": 104,
+      "brief_summary": "To see if Gonadotropin-releasing hormone analogue (GnRHa) combined with aromatase inhibitors (AIs) will achieve better complete response rate than megestrol acetate or medroxyprogesterone acetate (MA/MPA) alone as fertility-sparing treatment for patients with early endometrial carcinoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Consent informed and signed\n* Primarily have a confirmed diagnosis of early-stage endometrial cancer (endometrioid, grade I, without myometrial inva- sion) ) based upon endometrial biopsy, diagnostic curettage or hysteroscopy\n* No signs of suspicious myometrial invasion or ext",
+      "endpoints": [
+        "Complete response rates within 16 weeks of treatment"
+      ],
+      "sponsor": "Fudan University",
+      "url": "https://clinicaltrials.gov/study/NCT05247268"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00155051",
+      "title": "Progestin Treatment for Endometrial Stromal Cells in Adenomyosis",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2004-07",
+      "completion_date": "2005-04",
+      "country": "Taiwan",
+      "enrollment": 45,
+      "brief_summary": "Long term treatment of progestin has been demonstrated to have an inhibitory effect on endometrial angiogenesis and the proliferation of endometrial stromal cells. As a result, progestin is now widely employed in the treatment of endometrial cancer, endometrial hyperplasia, and dysfunction uterine bleeding. In the treatment of adenomyosis, however, the beneficial effect of progestin was limited. It might imply that the behavior of endometrial cells in women with adenomyosis is different from tha",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women with adenomyosis\n* at early- to mid-secretory phases\n\nExclusion Criteria:\n\n* postmenopausal\n* malignancy",
+      "endpoints": [],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00155051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06549855",
+      "title": "PD-1 Inhibitor Combined With Progesterone Treatment in Fertility Sparing Therapy for Mismatch Repair-deficient Endometrial Cancer",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-10",
+      "completion_date": "2029-10",
+      "country": "China",
+      "enrollment": 10,
+      "brief_summary": "The objective of this study was to investigate the feasibility of a PD-1 inhibitor in combination with progesterone as a means of preserving fertility in patients with early-stage mismatch repair-deficient (MMRd) endometrial cancer who wish to preserve fertility.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be between the ages of 18-45 years old;\n* Stage IA (FIGO 2009) ;\n* Confirmed diagnosis of endometrial adenocarcinoma G1-G2 based upon D\\&C or hysteroscopy;\n* Molecular classification of MMRd, determined by immunohistochemical (IHC) for MMR proteins and by the second generation",
+      "endpoints": [
+        "Complete remission (CR) rate",
+        "Time to CR"
+      ],
+      "sponsor": "Peking University People's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06549855"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03463252",
+      "title": "Value of Levonorgestrel-Releasing Intrauterine System (LNG-IUS) in the Fertility-preserving Treatment of Atypical Endometrial Hyperplasia and Early Endometrial Carcinoma",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2018-04-01",
+      "completion_date": "2030-12-30",
+      "country": "China",
+      "enrollment": 224,
+      "brief_summary": "Primary end points:\n\nThis clinical trial is aimed to analyze the effectiveness of Levonorgestrel-Releasing Intrauterine System (LNG-IUS, Mirena®) in the fertility-sparing treatment of atypical endometrial hyperplasia and early endometrial carcinoma, including pathology response and pregnancy outcome.\n\nSecond end points:\n\nTo analyze the appearances of side-effects.",
+      "eligibility_criteria": "For Patients With Endometrial Cancer：\n\nInclusion Criteria:\n\n* ≤40 years of age:\n* Having a strong desire for fertility preservation;\n* Histological diagnosis is confirmed as well-differentiated (grade 1) endometrioid adenocarcinoma by the designated gynecological pathologists, and the progesterone r",
+      "endpoints": [
+        "Pathologic Response",
+        "Pregnancy Rate",
+        "Live Birth Rate"
+      ],
+      "sponsor": "West China Second University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03463252"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01966575",
+      "title": "Effect of Progestin-Induced Endometrial Shedding on Ovulation Induction Cycles With Clomiphene Citrate: A Randomized Study",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2013-10",
+      "completion_date": "2015-12",
+      "country": "Canada",
+      "enrollment": 0,
+      "brief_summary": "Women with polycystic ovary syndrome (PCOS) can suffer from infertility because they do not produce an egg each month, resulting in irregular periods. As a result, these women often need a medication called clomiphene citrate (clomiphene) to induce ovulation. A traditional 'clomiphene protocol' begins with a short course of progestin treatment to bring on a period (termed a 'withdrawal bleed') before starting the clomiphene medication. Newer evidence, however, has suggested that this progestin-i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Polycystic ovary syndrome (Rotterdam 2003 Consensus Criteria) and a diagnosis of anovulatory infertility\n* Age 18-38 years\n* At least 1 patent fallopian tube (as demonstrated by hysterosalpingogram, hydrotubation or hysterosonogram within the last year)\n* Normal semen analysis",
+      "endpoints": [
+        "Clinical pregnancy rate per ovulation"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT01966575"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02228681",
+      "title": "A Randomized Phase II Trial of Everolimus and Letrozole or Hormonal Therapy (Tamoxifen/Medroxyprogesterone Acetate) in Women With Advanced, Recurrent, or Persistent Endometria Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-05-21",
+      "completion_date": "2024-08-22",
+      "country": "United States",
+      "enrollment": 74,
+      "brief_summary": "The main purpose of this study is to evaluate the effectiveness of the combination of the drugs Everolimus and Letrozole compared to Tamoxifen and Medroxyprogesterone acetate in treating endometrial cancer and to determine the types and severity of side effects caused by treatment with these drug combinations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed advanced (FIGO Stage III or IV), persistent, or recurrent endometrial carcinoma, which is not likely to be curable by surgery or radiotherapy. Histologic documentation of the recurrence is not required.\n* All patients must have measu",
+      "endpoints": [
+        "Frequency of Response"
+      ],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT02228681"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "6842804",
+      "title": "Risk of breast, uterine corpus, and ovarian cancer in women receiving medroxyprogesterone injections.",
+      "abstract": "Animal studies have yielded conflicting results on the carcinogenicity of long-acting progestins. Since more than 1.5 million women worldwide are currently receiving injections of a contraceptive progestin, depot medroxyprogesterone acetate, this is potentially an important public health problem. We obtained information on the occurrence of breast, uterine, and ovarian cancer among 5,000 black women attending a metropolitan hospital's family planning clinic who had received injections of medroxyprogesterone for contraception (between 1967 and 1976). The women were followed up for four to 13 years after their initial medroxyprogesterone injection. We compared the observed number of cancer cases in these women with the expected number based on annual age-, race-, and sex-specific rates derived from National Cancer Institute data. During more than 40,000 woman-years of observation, we found no evidence of an increased risk of developing cancer of the breast, uterine corpus, or ovary in th",
+      "journal": "JAMA",
+      "year": "1983",
+      "authors": [
+        "Liang A P",
+        "Levenson A G",
+        "Layde P M",
+        "Shelton J D",
+        "Hatcher R A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Black People",
+        "Breast Neoplasms",
+        "Child",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Injections",
+        "Medroxyprogesterone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6842804/"
+    },
+    {
+      "pmid": "2526620",
+      "title": "[Combination with medroxyprogesterone acetate and chemotherapy making possible complete removal of uterine corpus carcinoma].",
+      "abstract": "A case of uterine corpus carcinoma (stage III) after surgical resection of her primary lesion was treated with a medroxyprogesterone acetate (MPA) and PAE (CDDP, adriamycin and etoposide) regimen. The patient has been given MPA during a three-month period and received four courses of PAE regimen. The residual tumor was decreased and removed completely at the second-look operation. Pathologically, the carcinoma cells were clearly changed in loss of atrophy or degeneration by MPA or PAE regimen. After the second-look operation, the patient underwent 4 courses of PAE regimen and was given MPA continuously. We have not recognized any recurrence of carcinoma for seven months after the second look operation.",
+      "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+      "year": "1989",
+      "authors": [
+        "Tajima H",
+        "Okada T",
+        "Fujimori Y",
+        "Tomioka Y",
+        "Hirano M"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cisplatin",
+        "Doxorubicin",
+        "Etoposide",
+        "Female",
+        "Humans",
+        "Hysterectomy",
+        "Medroxyprogesterone",
+        "Medroxyprogesterone Acetate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2526620/"
+    },
+    {
+      "pmid": "9605604",
+      "title": "Effects of conjugated estrogens with or without medroxyprogesterone acetate on mammary carcinogenesis, uterine adenomyosis and femur in mice.",
+      "abstract": "Although combined hormone replacement therapy using estrogens and progestins reduces the risk of endometrial cancer in postmenopausal women, it has been unclear whether the combined therapy is associated with an alteration of the risk of mammary cancer. Virgin mice of the SHN strain, which has a high potential for the development of mammary cancer and uterine adenomyosis, were given diets containing conjugated estrogens with or without medroxyprogesterone acetate for 230 days. The combined administration of conjugated estrogens and medroxyprogesterone acetate completely suppressed the development of uterine adenomyosis with a decrease in uterine thymidylate synthetase activity, significantly enhanced the bone mineral density in the femur and slightly shortened the latent period of mammary carcinogenesis.",
+      "journal": "Acta anatomica",
+      "year": "1997",
+      "authors": [
+        "Sakamoto S",
+        "Mori T",
+        "Shinoda H",
+        "Sassa S",
+        "Koyama T"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adenoma",
+        "Animals",
+        "Antineoplastic Agents, Hormonal",
+        "Bone Density",
+        "Corpus Luteum",
+        "Drug Combinations",
+        "Estradiol",
+        "Estrogens, Conjugated (USP)",
+        "Female",
+        "Femur"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9605604/"
+    },
+    {
+      "pmid": "15535270",
+      "title": "[Hormone therapy for uterine corpus cancer--introduction].",
+      "abstract": "",
+      "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+      "year": "2004",
+      "authors": [
+        "Sugiyama Toru",
+        "Izutsu Toshihiko"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "17 alpha-Hydroxyprogesterone Caproate",
+        "Antineoplastic Agents, Hormonal",
+        "Endometrial Neoplasms",
+        "Estrogens",
+        "Female",
+        "Gonadotropin-Releasing Hormone",
+        "Humans",
+        "Hydroxyprogesterones",
+        "Leuprolide",
+        "Medroxyprogesterone Acetate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15535270/"
+    },
+    {
+      "pmid": "6467144",
+      "title": "Radiosensitizing effect of medroxyprogesterone acetate on endometrial cancer cells in vitro.",
+      "abstract": "From clinical experience it is known that medroxyprogesterone acetate (MPA) can increase the radiosensitivity of adenocarcinomas of the corpus uteri. This study investigates this phenomenon in vitro. Primary explants of highly differentiated adenocarcinomas were irradiated with or without pretreatment with MPA and compared with an untreated control group and to a group treated with MPA only. Cell culture itself was performed on an agarose medium in order to prevent overgrowth by fibroblasts. Untreated samples formed 43 +/- 5 clones, explants treated with MPA only produced 39 +/- 5 clones, a difference which was not statistically different; samples irradiated without pretreatment produced 16 +/- 8 and samples after combined treatment 9 +/- 3 clones (all values means +/- SD). This numeric reduction of cell growth through preirradiation treatment with MPA was statistically significant. The effect of MPA as a radiosensitizer may be due to its potential to prolong the radiosensitive G2 phas",
+      "journal": "Cancer",
+      "year": "1984",
+      "authors": [
+        "Huber H",
+        "Husslein P",
+        "Michalica W",
+        "Wagenbichler P"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Cell Division",
+        "Cells, Cultured",
+        "Female",
+        "Humans",
+        "Medroxyprogesterone",
+        "Radiation-Sensitizing Agents",
+        "Uterine Neoplasms"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6467144/"
+    },
+    {
+      "pmid": "20414038",
+      "title": "[Two cases of multidrug-resistant recurrent endometrial cancer successfully treated with medroxyprogesterone acetate (MPA)].",
+      "abstract": "We report two cases of multidrug-resistant endometrial cancer which recurred after the initial therapy and progressed despite further anticancer chemotherapy, but could be successfully treated with medroxyprogesterone acetate (MPA). The first patient with stage IVb moderately-differentiated endometrioid adenocarcinoma of the uterine corpus underwent initial operation and postoperative chemotherapy followed by maintenance chemotherapy. Four months later, lung metastases were found. Since the hormone receptor status was positive, the patient was treated with MPA, and CR was achieved. The second patient with stage IIIc poorly-differentiated endometrioid adenocarcinoma of the uterine corpus developed lung metastases 14 months after the initial operation and postoperative chemotherapy. Subsequent chemotherapy yielded a complete response(CR). Two months later, however, a small intestinal metastasis was observed, which was treated by surgical excision and chemotherapy. The patient again remai",
+      "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+      "year": "2010",
+      "authors": [
+        "Nishio Shin",
+        "Koyanagi Takahiro",
+        "Miyabe Kyosuke",
+        "Kuromatsu Hajime"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Antineoplastic Agents, Hormonal",
+        "Drug Resistance, Multiple",
+        "Drug Resistance, Neoplasm",
+        "Endometrial Neoplasms",
+        "Female",
+        "Humans",
+        "Lung Neoplasms",
+        "Medroxyprogesterone Acetate",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20414038/"
+    },
+    {
+      "pmid": "1801500",
+      "title": "Epidemiologic aspects of exogenous progestagens in relation to their role in pathogenesis of human breast cancer.",
+      "abstract": "This review focuses on epidemiologic studies of the relationship between breast cancer risk and exogenous progestagens, as present in oral contraceptives, injectable contraceptives and hormone replacement therapy. Subsequently, it will be discussed whether the present findings are consistent with one of the hypotheses that have been postulated for the role of hormones in breast cancer pathogenesis. The relationship between oral contraceptives and breast cancer is still controversial. Several studies have found that prolonged oral contraceptives use at young ages is associated with increased risk to develop breast cancer at an early age, i.e. before age 35. None of these studies, however, has been able to attribute the increased risk to specific formulations of oral contraceptives, or to the progestagen content of the preparations. This may be largely due to the fact that there is no good method to calculate progestagen potencies of different formulations. There are no reliable data reg",
+      "journal": "Acta endocrinologica",
+      "year": "1991",
+      "authors": [
+        "van Leeuwen F E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Breast Neoplasms",
+        "Contraceptives, Oral, Hormonal",
+        "Estrogen Replacement Therapy",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Progestins",
+        "Risk Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1801500/"
+    },
+    {
+      "pmid": "38469132",
+      "title": "Successful fertility preservation in stage II endometrial carcinoma with long-term progestin therapy: A case report.",
+      "abstract": "Progestin therapy is a fertility-sparing treatment option for well-differentiated stage IA endometrioid carcinomas without myometrial invasion. Here, we present a case of successful pregnancy and live birth following long-term progestin therapy in a patient with stage II well-differentiated endometrioid carcinoma. A 30-year-old nulliparous woman with an unremarkable medical history presented with abnormal uterine bleeding. A 45 mm mass was identified in the lower uterine segment. An endometrial biopsy revealed grade 1 endometrioid carcinoma, leading to a diagnosis of stage II uterine corpus cancer based on hysteroscopic findings. The patient refused surgical treatment and underwent oocyte retrieval and cryopreservation at another hospital. A subsequent endometrial biopsy revealed a marked reduction in the Ki-67 index from approximately 60 % to less than 10 %, suggesting the possibility of a hormone-sensitive tumor. The patient persistently refused surgery. Therefore, progestin therapy ",
+      "journal": "Gynecologic oncology reports",
+      "year": "2024",
+      "authors": [
+        "Kashihara Yuki",
+        "Sekiyama Kentaro",
+        "Abe Akiko",
+        "Yamamura Akitoshi",
+        "Kozono Yuki"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38469132/"
+    },
+    {
+      "pmid": "7559094",
+      "title": "Inhibitory effects of medroxyprogesterone acetate on mouse endometrial carcinogenesis.",
+      "abstract": "The present study was undertaken to examine the effects of cyclic administration of low-dose progestogen on endometrial carcinogenesis in mice. A total of 115 female ICR mice, 10 weeks of age, were divided into four experimental and control groups. Mice in groups 1-3 received laparotomy and were injected with N-methyl-N-nitrosourea (MNU) solution at a dose of 1 mg/100 g body weight to the left uterine tube and with normal saline to the right uterine tube. From one week after the MNU exposure, groups 1 and 2 were given 5 ppm 17 beta-estradiol (E2)-containing diet throughout the experiment. Mice in group 1 received 5 s.c. injections of medroxyprogesterone acetate (MPA) (2 mg/mouse) at intervals of 4 weeks from week 7. Group 3 was treated with MNU/normal saline alone. Group 4 consisted of mice treated with MPA alone. At the termination of the experiment (week 30), all animals were killed and autopsied for pathological examinations. It was found that adenocarcinomas and preneoplastic lesio",
+      "journal": "Japanese journal of cancer research : Gann",
+      "year": "1995",
+      "authors": [
+        "Niwa K",
+        "Morishita S",
+        "Murase T",
+        "Itoh N",
+        "Tanaka T"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anticarcinogenic Agents",
+        "Carcinogens",
+        "Cocarcinogenesis",
+        "Disease Models, Animal",
+        "Dose-Response Relationship, Drug",
+        "Endometrial Neoplasms",
+        "Endometrium",
+        "Estradiol",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7559094/"
+    },
+    {
+      "pmid": "3972289",
+      "title": "Cauda equina compression secondary to metastatic carcinoma of the uterine corpus: preservation of neurologic function and long-term survival following surgical decompression and radiation therapy.",
+      "abstract": "Spinal cord or cauda equina compression secondary to epidural metastasis rarely develops in patients with endometrial carcinoma and the early signs and symptoms of compression can therefore be inadvertently overlooked. A 78-year-old patient who developed bone metastasis with destruction of the fifth lumbar vertebral body and blockage of the cauda equina at L-4, L-5 as the only sites of metastasis is reported. This occurred 2 years after initial treatment of a stage IB, well-differentiated, grade I, adenosquamous carcinoma of the endometrium. The patient remains alive, with good neurological function and free of metastatic disease, 2 1/2 years following vertebrectomy, radiation therapy, and adjuvant Provera (medroxyprogesterone acetate) therapy. This patient represents the only case of metastatic endometrial cancer with cauda equina compression in the literature in whom long-term disease-free follow-up has been noted.",
+      "journal": "Gynecologic oncology",
+      "year": "1985",
+      "authors": [
+        "Kapp D S",
+        "LiVolsi V A",
+        "Kohorn E I"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Aged",
+        "Carcinoma, Squamous Cell",
+        "Cauda Equina",
+        "Female",
+        "Humans",
+        "Nerve Compression Syndromes",
+        "Spinal Neoplasms",
+        "Uterine Neoplasms"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3972289/"
+    },
+    {
+      "pmid": "12117397",
+      "title": "Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial.",
+      "abstract": "Despite decades of accumulated observational evidence, the balance of risks and benefits for hormone use in healthy postmenopausal women remains uncertain.",
+      "journal": "JAMA",
+      "year": "2002",
+      "authors": [
+        "Rossouw Jacques E",
+        "Anderson Garnet L",
+        "Prentice Ross L",
+        "LaCroix Andrea Z",
+        "Kooperberg Charles"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Breast Neoplasms",
+        "Clinical Trials Data Monitoring Committees",
+        "Colorectal Neoplasms",
+        "Coronary Disease",
+        "Endometrial Neoplasms",
+        "Estrogen Replacement Therapy",
+        "Estrogens, Conjugated (USP)",
+        "Female",
+        "Fractures, Bone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12117397/"
+    },
+    {
+      "pmid": "37183712",
+      "title": "Depot medroxyprogesterone acetate and endometrial cancer: A multicenter case-control study.",
+      "abstract": "To assess the associations between depot medroxyprogesterone acetate (DMPA) and endometrial cancer.",
+      "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+      "year": "2023",
+      "authors": [
+        "Kietpeerakool Chumnan",
+        "Cheewakriangkrai Chalong",
+        "Rattanakanokchai Siwanon",
+        "Rattanalappaiboon Daungporn",
+        "Tiyayon Jitima"
+      ],
+      "pub_types": [
+        "Multicenter Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Child, Preschool",
+        "Medroxyprogesterone Acetate",
+        "Case-Control Studies",
+        "Endometrial Neoplasms",
+        "Contraceptive Agents, Female",
+        "Endometrium",
+        "Delayed-Action Preparations"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37183712/"
+    },
+    {
+      "pmid": "37160245",
+      "title": "Medroxyprogesterone acetate-resistant endometrial cancer cells are susceptible to ferroptosis inducers.",
+      "abstract": "Medroxyprogesterone acetate (MPA) is the most common fertility-sparing treatment in patients with early-stage endometrial cancer. If MPA treatment fails, hysterectomy is recommended. Thus, there is an urgent need for novel treatment approaches for MPA-resistant endometrial cancer patients who wish to preserve their fertility. Ferroptosis is a recently discovered type of regulated cell death caused by the excessive accumulation of reactive oxygen species (ROS), followed by aberrant lipid peroxidation. Recent studies have shown that inducing ferroptosis is a potential therapeutic strategy for cancer. However, the role of ferroptosis in endometrial cancer treatment remains to be discussed. We therefore investigated the effects of ferroptosis inducers on MPA-resistant endometrial cancer cells.",
+      "journal": "Life sciences",
+      "year": "2023",
+      "authors": [
+        "Murakami Hikaru",
+        "Hayashi Masami",
+        "Terada Shinichi",
+        "Ohmichi Masahide"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Ferroptosis",
+        "Medroxyprogesterone Acetate",
+        "Reactive Oxygen Species",
+        "Sulfasalazine",
+        "Endometrial Neoplasms"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37160245/"
+    },
+    {
+      "pmid": "35526471",
+      "title": "Reproductive and pregnancy outcomes of fertility-sparing treatments for early-stage endometrial cancer or atypical hyperplasia: A systematic review and meta-analysis.",
+      "abstract": "To report the pregnancy outcomes of women with prior endometrial cancer and endometrial hyperplasia managed with fertility-sparing treatments.",
+      "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+      "year": "2022",
+      "authors": [
+        "De Rocco Silvia",
+        "Buca Danilo",
+        "Oronzii Ludovica",
+        "Petrillo Marco",
+        "Fanfani Francesco"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Abortion, Spontaneous",
+        "Endometrial Hyperplasia",
+        "Endometrial Neoplasms",
+        "Female",
+        "Fertility Preservation",
+        "Humans",
+        "Hyperplasia",
+        "Intrauterine Devices, Medicated",
+        "Levonorgestrel",
+        "Medroxyprogesterone Acetate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35526471/"
+    },
+    {
+      "pmid": "8200214",
+      "title": "Depot-medroxyprogesterone acetate (DMPA) and cancer of the endometrium and ovary.",
+      "abstract": "This review addresses possible associations between depot-medroxy-progesterone acetate (DMPA) and endometrial and epithelial ovarian cancers. Two unexpected endometrial carcinomas were observed at autopsy of rhesus monkeys treated for 10 years with 50 times the human doses of DMPA. A record linkage in the USA did not suggest any association between DMPA and endometrial cancer. A multicentre case-control study in Thailand showed a strong protective effect of DMPA for endometrial cancer. Studies from the USA, Mexico and Thailand did not observe any association between use of DMPA and epithelial ovarian cancer. The available information, therefore, indicates that use of DMPA protects against endometrial cancer and is not associated with epithelial ovarian cancer.",
+      "journal": "Contraception",
+      "year": "1994",
+      "authors": [
+        "Lumbiganon P"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Endometrial Neoplasms",
+        "Female",
+        "Humans",
+        "Macaca mulatta",
+        "Medroxyprogesterone Acetate",
+        "Ovarian Neoplasms",
+        "Thailand",
+        "United States"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8200214/"
+    },
+    {
+      "pmid": "39173088",
+      "title": "Menopausal Hormone Therapy and Ovarian and Endometrial Cancers: Long-Term Follow-Up of the Women's Health Initiative Randomized Trials.",
+      "abstract": "Menopausal hormone therapy's influence on ovarian and endometrial cancers remains unsettled. Therefore, we assessed the long-term influence of conjugated equine estrogen (CEE) plus medroxyprogesterone acetate (MPA) and CEE-alone on ovarian and endometrial cancer incidence and mortality in the Women's Health Initiative randomized, placebo-controlled clinical trials.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "year": "2024",
+      "authors": [
+        "Chlebowski Rowan T",
+        "Aragaki Aaron K",
+        "Pan Kathy",
+        "Haque Reina",
+        "Rohan Thomas E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Endometrial Neoplasms",
+        "Estrogen Replacement Therapy",
+        "Estrogens, Conjugated (USP)",
+        "Follow-Up Studies",
+        "Incidence",
+        "Medroxyprogesterone Acetate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39173088/"
+    },
+    {
+      "pmid": "24084921",
+      "title": "Menopausal hormone therapy and health outcomes during the intervention and extended poststopping phases of the Women's Health Initiative randomized trials.",
+      "abstract": "Menopausal hormone therapy continues in clinical use but questions remain regarding its risks and benefits for chronic disease prevention.",
+      "journal": "JAMA",
+      "year": "2013",
+      "authors": [
+        "Manson JoAnn E",
+        "Chlebowski Rowan T",
+        "Stefanick Marcia L",
+        "Aragaki Aaron K",
+        "Rossouw Jacques E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Intramural"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Breast Neoplasms",
+        "Colorectal Neoplasms",
+        "Coronary Disease",
+        "Drug Therapy, Combination",
+        "Endometrial Neoplasms",
+        "Estrogens",
+        "Estrogens, Conjugated (USP)",
+        "Female",
+        "Follow-Up Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24084921/"
+    },
+    {
+      "pmid": "33025002",
+      "title": "Randomized Trial Evaluation of the Benefits and Risks of Menopausal Hormone Therapy Among Women 50-59 Years of Age.",
+      "abstract": "The health benefits and risks of menopausal hormone therapy among women aged 50-59 years are examined in the Women's Health Initiative randomized, placebo-controlled trials using long-term follow-up data and a parsimonious statistical model that leverages data from older participants to increase precision. These trials enrolled 27,347 healthy postmenopausal women aged 50-79 years at 40 US clinical centers during 1993-1998, including 10,739 post-hysterectomy participants in a trial of conjugated equine estrogens and 16,608 participants with a uterus in the trial of these estrogens plus medroxyprogesterone acetate. Over a (median) 18-year follow-up period (1993-2016), risk for a global index (defined as the earliest of coronary heart disease, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, endometrial cancer, hip fracture, and all-cause mortality) was reduced with conjugated equine estrogens with a hazard ratio of 0.82 (95% confidence interval: 0.71, 0.95), and wit",
+      "journal": "American journal of epidemiology",
+      "year": "2021",
+      "authors": [
+        "Prentice Ross L",
+        "Aragaki Aaron K",
+        "Chlebowski Rowan T",
+        "Rossouw Jacques E",
+        "Anderson Garnet L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_terms": [
+        "Coronary Disease",
+        "Estrogen Replacement Therapy",
+        "Estrogens, Conjugated (USP)",
+        "Female",
+        "Hip Fractures",
+        "Humans",
+        "Medroxyprogesterone Acetate",
+        "Middle Aged",
+        "Neoplasms",
+        "Postmenopause"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33025002/"
+    },
+    {
+      "pmid": "8725705",
+      "title": "Depot medroxyprogesterone acetate contraception and the risk of breast and gynecologic cancer.",
+      "abstract": "As the use of depot medroxyprogesterone acetate (DMPA) contraception increases in the United States and worldwide, assessing any impact on the risk of breast and gynecologic cancers becomes increasingly important. Overall, use of DMPA does not affect breast cancer risk. An elevated risk of this disease, however, has been noted in recent or current users. Hence, the association between DMPA use and breast cancer risk appears similar to that observed with oral contraceptives. Use of DMPA is associated with an 80% risk reduction of endometrial adenocarcinoma, a level of protection even greater than that noted with oral contraceptives. The risk of epithelial ovarian cancer and cervical neoplasia does not appear to be affected by DMPA use. Except for a substantial reduction in the risk of endometrial adenocarcinoma, use of DMPA does not appear to influence reproductive tract cancer risks.",
+      "journal": "The Journal of reproductive medicine",
+      "year": "1996",
+      "authors": [
+        "Kaunitz A M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Breast Neoplasms",
+        "Case-Control Studies",
+        "Contraceptive Agents, Female",
+        "Delayed-Action Preparations",
+        "Endometrial Neoplasms",
+        "Female",
+        "Genital Neoplasms, Female",
+        "Humans",
+        "Medroxyprogesterone Acetate",
+        "Risk Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8725705/"
+    },
+    {
+      "pmid": "40967167",
+      "title": "Genomic and DNA methylomic factors associated with the efficacy of oral medroxyprogesterone acetate on endometrial neoplastic disease.",
+      "abstract": "There is growing demand for fertility-sparing treatments in women with endometrial neoplastic disease who wish to conceive. Although progestins, such as medroxyprogesterone acetate (MPA), have conventionally been used for this purpose, their efficacy remains inconsistent, even when patients are selected based on clinicopathological criteria, including eligible histology or the absence of myometrial invasion or extra-uterine disease. There is thus an urgent need to identify potential biomarkers to stratify patients for improved MPA efficacy. In this study, we sought to identify candidate biomarkers associated with an efficacious response to MPA among women with endometrial disease.",
+      "journal": "Gynecologic oncology",
+      "year": "2025",
+      "authors": [
+        "Sugiyama Yuko",
+        "Kosugi Mayuko",
+        "Gotoh Osamu",
+        "Tonooka Akiko",
+        "Sano Masatoshi"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Medroxyprogesterone Acetate",
+        "Endometrial Neoplasms",
+        "DNA Methylation",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Endometrial Hyperplasia",
+        "Adult",
+        "Antineoplastic Agents, Hormonal"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40967167/"
+    }
+  ]
+}

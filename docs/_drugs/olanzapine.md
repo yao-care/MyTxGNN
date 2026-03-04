@@ -5,7 +5,7 @@ drugbank_id: "DB00334"
 drug_name: "Olanzapine"
 kg_predictions: 224
 dl_predictions: 81
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 224
 brands: []
 permalink: /drugs/olanzapine/
@@ -21,7 +21,7 @@ permalink: /drugs/olanzapine/
 | **DrugBank ID** | [DB00334](https://go.drugbank.com/drugs/DB00334) |
 | **KG Predictions** | 224 |
 | **DL Predictions (≥0.7)** | 81 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

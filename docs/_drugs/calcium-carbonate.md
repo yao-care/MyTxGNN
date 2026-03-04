@@ -5,7 +5,7 @@ drugbank_id: "DB06724"
 drug_name: "Calcium Carbonate"
 kg_predictions: 96
 dl_predictions: 9
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 96
 brands: []
 permalink: /drugs/calcium-carbonate/
@@ -21,7 +21,7 @@ permalink: /drugs/calcium-carbonate/
 | **DrugBank ID** | [DB06724](https://go.drugbank.com/drugs/DB06724) |
 | **KG Predictions** | 96 |
 | **DL Predictions (≥0.7)** | 9 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

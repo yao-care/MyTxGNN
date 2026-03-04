@@ -1,0 +1,759 @@
+{
+  "drug": "Glycine",
+  "drugbank_id": "DB00145",
+  "evidence_level": "L2",
+  "collected_at": "2026-03-04T10:24:32Z",
+  "indications": [
+    {
+      "indication": "pharyngitis",
+      "evidence_level": "L2",
+      "trials": 2,
+      "articles": 7,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 1,
+        "review_articles": 0,
+        "other_articles": 6,
+        "total_trials": 2,
+        "total_articles": 7
+      }
+    },
+    {
+      "indication": "rhinitis",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 1,
+        "other_articles": 8,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "vasomotor rhinitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "common cold",
+      "evidence_level": "L2",
+      "trials": 1,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 1,
+        "review_articles": 3,
+        "other_articles": 6,
+        "total_trials": 1,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "nasopharyngitis",
+      "evidence_level": "L2",
+      "trials": 1,
+      "articles": 6,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 4,
+        "review_articles": 0,
+        "other_articles": 2,
+        "total_trials": 1,
+        "total_articles": 6
+      }
+    }
+  ],
+  "total_trials": 4,
+  "total_articles": 33,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03656198",
+      "title": "Non-specific Effects of Rabies Vaccine on the Incidence of Common Infectious Disease Episodes: a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-08-29",
+      "completion_date": "2020-07-27",
+      "country": "Saint Kitts and Nevis",
+      "enrollment": 546,
+      "brief_summary": "Vaccines work by stimulating the body to produce a high-quality, rapid and specific immune response upon exposure to infection by a particular disease-causing microorganism - the microorganism targeted by the vaccine. Evidence is emerging that some vaccines may have additional 'non-specific effects' (NSEs); that is, effects on the immune system beyond the direct protection against the diseases for which the vaccines were developed. It has been proposed that rabies vaccine has protective NSEs in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nA student registered at RUSVM, and in the Veterinary Preparatory (VP) program or the 1st or 5th semester of the Doctor of Veterinary Medicine (DVM) program\n\nExclusion Criteria:\n\nA student registered at RUSVM and in the VP program or the 1st or 5th semester of the DVM program wil",
+      "endpoints": [
+        "Number of self-reported new episodes of acute common infectious disease (CID), defined as any of the following: upper respiratory illness (URI) or influenza-like illness (ILI) or diarrhea (DIA) or undifferentiated febrile illness (UFI)"
+      ],
+      "sponsor": "Ross University School of Veterinary Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03656198"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04678830",
+      "title": "A Phase 2, Randomized, Double Blind, Placebo Controlled Study to Evaluate the Efficacy and Safety of Leronlimab in Patients Experiencing Prolonged Coronavirus Disease 2019 (COVID-19) Symptoms [Long-Haulers]",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-03-01",
+      "completion_date": "2021-07-08",
+      "country": "United States",
+      "enrollment": 56,
+      "brief_summary": "The purpose of this study is to assess the safety and efficacy of leronlimab (PRO 140) administered as weekly subcutaneous injections in subjects experiencing prolonged symptoms (\\> 12 weeks) of COVID-19.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female adult ≥ 18 years of age at time of enrollment.\n2. Prior confirmed COVID-19 diagnosis by standard reverse transcriptase-polymerase chain reaction (RT-PCR) assay or equivalent testing\n3. Clinical Symptom Score of ≥6 AND at least two symptoms of moderate or higher",
+      "endpoints": [
+        "Changes From Baseline in Daily COVID-19-related Symptom Severity Score Through Day 56."
+      ],
+      "sponsor": "CytoDyn, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04678830"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03656198",
+      "title": "Non-specific Effects of Rabies Vaccine on the Incidence of Common Infectious Disease Episodes: a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-08-29",
+      "completion_date": "2020-07-27",
+      "country": "Saint Kitts and Nevis",
+      "enrollment": 546,
+      "brief_summary": "Vaccines work by stimulating the body to produce a high-quality, rapid and specific immune response upon exposure to infection by a particular disease-causing microorganism - the microorganism targeted by the vaccine. Evidence is emerging that some vaccines may have additional 'non-specific effects' (NSEs); that is, effects on the immune system beyond the direct protection against the diseases for which the vaccines were developed. It has been proposed that rabies vaccine has protective NSEs in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nA student registered at RUSVM, and in the Veterinary Preparatory (VP) program or the 1st or 5th semester of the Doctor of Veterinary Medicine (DVM) program\n\nExclusion Criteria:\n\nA student registered at RUSVM and in the VP program or the 1st or 5th semester of the DVM program wil",
+      "endpoints": [
+        "Number of self-reported new episodes of acute common infectious disease (CID), defined as any of the following: upper respiratory illness (URI) or influenza-like illness (ILI) or diarrhea (DIA) or undifferentiated febrile illness (UFI)"
+      ],
+      "sponsor": "Ross University School of Veterinary Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03656198"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03656198",
+      "title": "Non-specific Effects of Rabies Vaccine on the Incidence of Common Infectious Disease Episodes: a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-08-29",
+      "completion_date": "2020-07-27",
+      "country": "Saint Kitts and Nevis",
+      "enrollment": 546,
+      "brief_summary": "Vaccines work by stimulating the body to produce a high-quality, rapid and specific immune response upon exposure to infection by a particular disease-causing microorganism - the microorganism targeted by the vaccine. Evidence is emerging that some vaccines may have additional 'non-specific effects' (NSEs); that is, effects on the immune system beyond the direct protection against the diseases for which the vaccines were developed. It has been proposed that rabies vaccine has protective NSEs in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nA student registered at RUSVM, and in the Veterinary Preparatory (VP) program or the 1st or 5th semester of the Doctor of Veterinary Medicine (DVM) program\n\nExclusion Criteria:\n\nA student registered at RUSVM and in the VP program or the 1st or 5th semester of the DVM program wil",
+      "endpoints": [
+        "Number of self-reported new episodes of acute common infectious disease (CID), defined as any of the following: upper respiratory illness (URI) or influenza-like illness (ILI) or diarrhea (DIA) or undifferentiated febrile illness (UFI)"
+      ],
+      "sponsor": "Ross University School of Veterinary Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03656198"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "38043864",
+      "title": "The erythromycin polyketide compound TMC-154 stimulates ROS generation to exert antibacterial effects against Streptococcus pyogenes.",
+      "abstract": "The erythromycin polyketide compound TMC-154 is a secondary metabolite that is isolated from the rhizospheric fungus Clonostachys rogersoniana associated with Panax notoginseng, which possesses antibacterial activity. However, its antibacterial mechanism has not been investigated thus far. In this study, proteomics coupled with bioinformatics approaches was used to explore the antibacterial mechanism of TMC-154. KEGG pathway enrichment analysis indicated that eight signaling pathways were associated with TMC-154, including oxidative phosphorylation, cationic antimicrobial peptide (CAMP) resistance, benzoate degradation, heme acquisition systems, glycine/serine and threonine metabolism, beta-lactam resistance, ascorbate and aldarate metabolism, and phosphotransferase system (PTS). Cell biology experiments confirmed that TMC-154 could induce reactive oxygen species (ROS) generation in Streptococcus pyogenes; moreover, TMC-154-induced antibacterial effects could be blocked by the inhibiti",
+      "journal": "Journal of proteomics",
+      "year": "2024",
+      "authors": [
+        "Yan Yuan-Feng",
+        "Liu Ying",
+        "Liang Hangeri",
+        "Cai Le",
+        "Yang Xiao-Yan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Proteomics",
+        "Anti-Bacterial Agents",
+        "Microbial Sensitivity Tests",
+        "Streptococcus pyogenes",
+        "Reactive Oxygen Species",
+        "Humans",
+        "Erythromycin",
+        "Mannose",
+        "Waxes",
+        "Hypocreales"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38043864/"
+    },
+    {
+      "pmid": "34603060",
+      "title": "Pithecellobium clypearia: Amelioration Effect on Imiquimod-Induced Psoriasis in Mice Based on a Tissue Metabonomic Analysis.",
+      "abstract": "Pithecellobium clypearia Benth. (accepted name: Archidendron clypearia (Jack) I.C.Nielsen; Mimosaceae), a popular traditional Chinese medicine, has a significant anti-inflammatory effect. The crude water extract of the aerial part of P. clypearia has been clinically applied to treat upper respiratory tract infections, acute gastroenteritis, laryngitis, and pharyngitis. However, the therapeutic mechanism of ethanol fraction of water extract (ESW) of P. clypearia to treat psoriasis should be complemented. The aim of our research was to clarify the protective effects of ESW from P. clypearia against psoriasis-like skin inflammation induced by imiquimod (IMQ) in mice with efficacy indexes and target tissue (spleen and serum) metabolomics. The ingredient of ESW was analyzed by ultrahigh-performance liquid chromatography combined with tandem mass spectrometry (UHPLC-MS/MS) method. The imiquimod-induced psoriatic mouse model was employed to investigate the effect of ESW against psoriasis, whe",
+      "journal": "Frontiers in pharmacology",
+      "year": "2021",
+      "authors": [
+        "Li Ying",
+        "Zong Jiaxin",
+        "Ye Wenjun",
+        "Fu Yuanfeng",
+        "Gu Xinyi"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34603060/"
+    },
+    {
+      "pmid": "32493693",
+      "title": "Phase 3, Randomized, Double-Blind, Active-Comparator (Darbepoetin Alfa) Study of Oral Roxadustat in CKD Patients with Anemia on Hemodialysis in Japan.",
+      "abstract": "Roxadustat is an oral hypoxia-inducible factor prolyl hydroxylase inhibitor approved in China for dialysis-dependent CKD anemia.",
+      "journal": "Journal of the American Society of Nephrology : JASN",
+      "year": "2020",
+      "authors": [
+        "Akizawa Tadao",
+        "Iwasaki Manabu",
+        "Yamaguchi Yusuke",
+        "Majikawa Yoshikatsu",
+        "Reusch Michael"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Anemia",
+        "Contusions",
+        "Darbepoetin alfa",
+        "Diarrhea",
+        "Double-Blind Method",
+        "Female",
+        "Ferritins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32493693/"
+    },
+    {
+      "pmid": "23291146",
+      "title": "Determination of glyphosate and AMPA in blood and urine from humans: about 13 cases of acute intoxication.",
+      "abstract": "Acute intoxications after ingesting glyphosate are observed in suicidal or accidental cases. Despite low potential toxicity of this herbicide, a number of fatalities and severe outcomes are reported. Indeed, some authors have described the clinical features associated with blood and urine concentrations following intoxication. The purpose of this study is to describe the clinical feature and determinate the utility of the glyphosate concentration in blood and urine and the dose taken for predicting clinical outcomes. In 13 glyphosate poisoning cases treated in our laboratory within 7 years period from 2002 to 2009, we registered clinical observations and collected blood and urine samples to HPLC-MS-MS analysis. We classified our patients by the intoxication severity using simple clinical criteria. We obtained clinical observations from 10 patients and the others three patients were treated in forensic cases. Among the 10 patients, one was asymptomatic, 5 had mild to moderate poisoning ",
+      "journal": "Forensic science international",
+      "year": "2013",
+      "authors": [
+        "Zouaoui K",
+        "Dulaurent S",
+        "Gaulier J M",
+        "Moesch C",
+        "Lachâtre G"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Accidents",
+        "Acidosis",
+        "Adult",
+        "Aged",
+        "Arrhythmias, Cardiac",
+        "Chemical and Drug Induced Liver Injury",
+        "Chromatography, High Pressure Liquid",
+        "Consciousness Disorders",
+        "Deglutition Disorders",
+        "Disseminated Intravascular Coagulation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23291146/"
+    },
+    {
+      "pmid": "31891449",
+      "title": "Oral roxadustat three times weekly in ESA-naïve and ESA-converted patients with anemia of chronic kidney disease on hemodialysis: Results from two phase 3 studies.",
+      "abstract": "Roxadustat is a hypoxia-inducible factor prolyl hydroxylase inhibitor approved in China for anemia of dialysis-dependent chronic kidney disease (CKD). Japanese hemodialysis patients with anemia of CKD previously naïve to, or converted from, erythropoiesis-stimulating agents (ESAs) were enrolled in two open-label, noncomparative studies of titrated oral roxadustat administered three times weekly. ESA-naïve patients (n = 75) were randomized to roxadustat (initial dose, 50 or 70 mg) for 24 weeks; ESA-converted patients (n = 164) were assigned to roxadustat (initial dose, 70 or 100 mg based on prior ESA dose) for 52 weeks. Efficacy outcomes included average hemoglobin (Hb, weeks 18-24 or 46-52), change of Hb from baseline to weeks 18 to 24 (ΔHb18-24 ) or weeks 46 to 52 (ΔHb46-52 ), and maintenance rate (proportion of patients who achieved average Hb of 10.0-12.0 g/dL for weeks 18-24 or weeks 46-52). Treatment-emergent adverse events (TEAEs) were monitored. Mean (SD) Hb was 10.93 (0.79) g/d",
+      "journal": "Therapeutic apheresis and dialysis : official peer-reviewed journal of the International Society for Apheresis, the Japanese Society for Apheresis, the Japanese Society for Dialysis Therapy",
+      "year": "2020",
+      "authors": [
+        "Akizawa Tadao",
+        "Ueno Mai",
+        "Shiga Takanori",
+        "Reusch Michael"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Anemia",
+        "Dose-Response Relationship, Drug",
+        "Drug Administration Schedule",
+        "Drug Monitoring",
+        "Female",
+        "Glycine",
+        "Hematinics",
+        "Hemoglobins",
+        "Humans",
+        "Hypoxia-Inducible Factor-Proline Dioxygenases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31891449/"
+    },
+    {
+      "pmid": "26283331",
+      "title": "A Single Amino Acid Replacement in the Sensor Kinase LiaS Contributes to a Carrier Phenotype in Group A Streptococcus.",
+      "abstract": "Despite the high frequency of asymptomatic carriage of bacterial pathogens, we understand little about the bacterial molecular genetic underpinnings of this phenomenon. To obtain new information about the molecular genetic mechanisms underlying carriage of group A Streptococcus (GAS), we performed whole-genome sequencing of GAS strains recovered from a single individual during acute pharyngitis and subsequent asymptomatic carriage. We discovered that compared to the initial infection isolate, the strain recovered during asymptomatic carriage contained three single nucleotide polymorphisms, one of which was in a highly conserved region of a gene encoding a sensor kinase, liaS, resulting in an arginine-to-glycine amino acid replacement at position 135 of LiaS (LiaS(R135G)). Using gene replacement, we demonstrate that introduction of the carrier allele (liaS(R135G)) into a serotype-matched invasive strain increased mouse nasopharyngeal colonization and adherence to cultured human epitheli",
+      "journal": "Infection and immunity",
+      "year": "2015",
+      "authors": [
+        "Flores Anthony R",
+        "Jewell Brittany E",
+        "Yelamanchili Dedipya",
+        "Olsen Randall J",
+        "Musser James M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Amino Acid Substitution",
+        "Animals",
+        "Asymptomatic Diseases",
+        "Bacterial Proteins",
+        "Carrier State",
+        "Female",
+        "Gene Expression Regulation, Bacterial",
+        "Humans",
+        "Mice"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26283331/"
+    },
+    {
+      "pmid": "1112054",
+      "title": "Free amino acids in human tonsillar tissue.",
+      "abstract": "Free amino acids in the tonsils of 20 individuals were measured column chromatographically. Those always found in readily detectable amounts included O-phosphoserine, taurine, O-phosphoethanolamine, aspartic acid, hydroxyproline, threonine, serine, glutamic acid, proline, glycine, alanine, alpha-amino-n-butyric acid, valine, cystine, methionine, isoleucine, leucine, tyrosine, phenylalanine, ornithine, gamma-amino-butyric acid, lysine, histidine, and arginine. Results were compared for three clinical pathological groups and for four age groups. Some abnormal values may result from the pathological conditions.",
+      "journal": "Clinical chemistry",
+      "year": "1975",
+      "authors": [
+        "Doi Y",
+        "Kataura A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Age Factors",
+        "Amino Acids",
+        "Child",
+        "Child, Preschool",
+        "Chromatography, Ion Exchange",
+        "Chronic Disease",
+        "Humans",
+        "Palatine Tonsil"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1112054/"
+    },
+    {
+      "pmid": "25621616",
+      "title": "Cleavage efficient 2A peptides for high level monoclonal antibody expression in CHO cells.",
+      "abstract": "Linking the heavy chain (HC) and light chain (LC) genes required for monoclonal antibodies (mAb) production on a single cassette using 2A peptides allows control of LC and HC ratio and reduces non-expressing cells. Four 2A peptides derived from the foot-and-mouth disease virus (F2A), equine rhinitis A virus (E2A), porcine teschovirus-1 (P2A) and Thosea asigna virus (T2A), respectively, were compared for expression of 3 biosimilar IgG1 mAbs in Chinese hamster ovary (CHO) cell lines. HC and LC were linked by different 2A peptides both in the absence and presence of GSG linkers. Insertion of a furin recognition site upstream of 2A allowed removal of 2A residues that would otherwise be attached to the HC. Different 2A peptides exhibited different cleavage efficiencies that correlated to the mAb expression level. The relative cleavage efficiency of each 2A peptide remains similar for expression of different IgG1 mAbs in different CHO cells. While complete cleavage was not observed for any o",
+      "journal": "mAbs",
+      "year": "2015",
+      "authors": [
+        "Chng Jake",
+        "Wang Tianhua",
+        "Nian Rui",
+        "Lau Ally",
+        "Hoi Kong Meng"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antibodies, Monoclonal",
+        "CHO Cells",
+        "Cricetinae",
+        "Cricetulus",
+        "Humans",
+        "Immunoglobulin G",
+        "Immunoglobulin Heavy Chains",
+        "Immunoglobulin Light Chains",
+        "Peptides"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25621616/"
+    },
+    {
+      "pmid": "33524387",
+      "title": "The Impact of Formula Choice for the Management of Pediatric Cow's Milk Allergy on the Occurrence of Other Allergic Manifestations: The Atopic March Cohort Study.",
+      "abstract": "To compare the impact of different formulas on the occurrence of other atopic manifestations and the time of immune tolerance acquisition.",
+      "journal": "The Journal of pediatrics",
+      "year": "2021",
+      "authors": [
+        "Nocerino Rita",
+        "Bedogni Giorgio",
+        "Carucci Laura",
+        "Cosenza Linda",
+        "Cozzolino Tommaso"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Amino Acids",
+        "Asthma",
+        "Caseins",
+        "Child, Preschool",
+        "Conjunctivitis, Allergic",
+        "Dermatitis, Atopic",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Immune Tolerance"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33524387/"
+    },
+    {
+      "pmid": "34246717",
+      "title": "Glyphosate-based herbicides: Evidence of immune-endocrine alteration.",
+      "abstract": "Glyphosate (G) is the active ingredient of the most widely used herbicide products. It targets the enzyme 5-enolpyruvylshikimate-3-phosphate synthase (EPSPS), which lacks in humans, suggesting to confer a low mammalian toxicity to G-based herbicides (GBHs). Despite this, the use of G is currently under intense debate. Many studies indicating its hazard and toxicity on non-target organisms are emerging, and associations between GBHs and immune-endocrine disturbances have been described. This review aims to investigate, based on recent epidemiological studies and studies performed in vitro and in vivo in animals, the possible association between GBHs and immune-endocrine alterations. Published data suggest that GBHs have endocrine disrupting potentiality targeting sex and thyroid hormones, although its relevance for humans will require further investigations. Evidence of immunotoxicity are limited compared to those on endocrine effects, but overall highlight possible noxious effects, inc",
+      "journal": "Toxicology",
+      "year": "2021",
+      "authors": [
+        "Maddalon Ambra",
+        "Galbiati Valentina",
+        "Colosio Claudio",
+        "Mandić-Rajčević Stefan",
+        "Corsini Emanuela"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Endocrine Disruptors",
+        "Glycine",
+        "Herbicides",
+        "Humans",
+        "Immune System",
+        "Microbiota",
+        "Glyphosate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34246717/"
+    },
+    {
+      "pmid": "41246313",
+      "title": "Microbiome and metabolomics analyses of the effect of heat-sensitive moxibustion on allergic rhinitis in rats.",
+      "abstract": "The original concept of acupoint sensitization theory was put forward in Huangdi Neijing, which believed that acupoints, as the reflecting parts of the body surface, are personalized, changeable, and sensitive. Heat-sensitive moxibustion has a good therapeutic effect on allergic rhinitis, but the mechanism is still unclear. Notably, acupoint sensitization in allergic rhinitis (AR) rats was accompanied by a distal thermal effect, with an increase in tail temperature (TTI) after 40 min of moxibustion.",
+      "journal": "Frontiers in immunology",
+      "year": "2025",
+      "authors": [
+        "Xiong Jun",
+        "Li Jianheng",
+        "Xu Haiyan",
+        "Li Yicheng",
+        "Lu Lunbin"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Moxibustion",
+        "Rhinitis, Allergic",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Metabolomics",
+        "Gastrointestinal Microbiome",
+        "Male",
+        "Disease Models, Animal",
+        "Hot Temperature"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41246313/"
+    },
+    {
+      "pmid": "38357755",
+      "title": "Evaluation of two different remineralising toothpastes in children with drug-controlled asthma and allergic rhinitis: a randomised clinical trial.",
+      "abstract": "To compare the efficacy of two remineralising toothpastes in children suffering from asthma and allergic rhinitis after a 6-month study.",
+      "journal": "European journal of paediatric dentistry",
+      "year": "2024",
+      "authors": [
+        "Scribante A",
+        "Pascadopoli M",
+        "Bergomi P",
+        "Licari A",
+        "Marseglia G L"
+      ],
+      "pub_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Humans",
+        "Adolescent",
+        "Toothpastes",
+        "Periodontal Index",
+        "Dental Plaque Index",
+        "Rhinitis, Allergic",
+        "Italy",
+        "Double-Blind Method"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38357755/"
+    },
+    {
+      "pmid": "33501873",
+      "title": "A novel nasal co-loaded loratadine and sulpiride nanoemulsion with improved downregulation of TNF-α, TGF-β and IL-1 in rabbit models of ovalbumin-induced allergic rhinitis.",
+      "abstract": "The work aimed to develop a co-loaded loratadine and sulpiride nasal nanoemulsion for allergic rhinitis management.",
+      "journal": "Drug delivery",
+      "year": "2021",
+      "authors": [
+        "Mohamad Soad A",
+        "Safwat Mohamed A",
+        "Elrehany Mahmoud",
+        "Maher Sherif A",
+        "Badawi Ahmed M"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Intranasal",
+        "Animals",
+        "Calorimetry, Differential Scanning",
+        "Disease Models, Animal",
+        "Dopamine Antagonists",
+        "Drug Combinations",
+        "Drug Liberation",
+        "Emulsions",
+        "Glycerol",
+        "Histamine H1 Antagonists, Non-Sedating"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33501873/"
+    },
+    {
+      "pmid": "30485927",
+      "title": "Soy product and isoflavone intake associations with allergic diseases in Japanese workers: rhinitis, dermatitis and asthma.",
+      "abstract": "The aim of this study was to determine the associations of intake of soy products and isoflavones with allergic diseases.",
+      "journal": "Asia Pacific journal of clinical nutrition",
+      "year": "2018",
+      "authors": [
+        "Nakamoto Mariko",
+        "Shuto Emi",
+        "Nakamoto Akiko",
+        "Hata Akiko",
+        "Aki Nanako"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Asthma",
+        "Dermatitis, Atopic",
+        "Female",
+        "Humans",
+        "Hypersensitivity",
+        "Isoflavones",
+        "Japan",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30485927/"
+    },
+    {
+      "pmid": "7189650",
+      "title": "Children with allergic rhinitis and/or bronchial asthma treated with elimination diet: a five-year follow-up.",
+      "abstract": "Three hundred and twenty-two children under one year of age with respiratory allergy and negative inhalant skin tests were placed on a six-week hypoallergenic diet consisting of Meat Base Formula, beef, carrots, broccoli and apricots. Two hundred and ninety-two or 91% showed significant improvement of respiratory symptom scores during the trial. On subsequent oral food challenge symptoms were reproduced in only 51% of the children. Milk greater than egg greater than chocolate greater than soy greater than legumes greater than cereals were most commonly involved. Skin tests with food allergens rarely correlated with challenge results. One hundred and seventeen or 40% later developed inhalant respiratory allergy. Only 6% of the children studied five years or longer showed any evidence of food sensitivity. The data suggest (1) infants with respiratory allergy will respond to hypoallergenic diet, (2) symptoms may or may not reappear on food challenge, (3) food allergy tends to be \"outgrown",
+      "journal": "Annals of allergy",
+      "year": "1980",
+      "authors": [
+        "Ogle K A",
+        "Bullock J D"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Asthma",
+        "Cacao",
+        "Cattle",
+        "Egg White",
+        "Follow-Up Studies",
+        "Food Hypersensitivity",
+        "Humans",
+        "Infant",
+        "Milk"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7189650/"
+    },
+    {
+      "pmid": "14223209",
+      "title": "ALLERGIC RHINITIS IN EARLY INFANCY. REVIEW OF THE LITERATURE AND REPORT OF A CASE IN A NEWBORN.",
+      "abstract": "",
+      "journal": "Pediatrics",
+      "year": "1965",
+      "authors": [
+        "INGALL M",
+        "GLASER J",
+        "MELTZER R S",
+        "DREYFUSS E M"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Drug Therapy",
+        "Histamine H1 Antagonists",
+        "Humans",
+        "Infant",
+        "Infant, Newborn",
+        "Infant, Newborn, Diseases",
+        "Milk",
+        "Plant Oils",
+        "Rhinitis, Allergic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14223209/"
+    },
+    {
+      "pmid": "23197073",
+      "title": "Correlation of symptoms with total IgE and specific IgE levels in patients presenting with allergic rhinitis.",
+      "abstract": "The objective of this study was to investigate the correlation of symptoms in patients with presumed allergic rhinitis on the basis of their medical history and physical examination with the levels of total immunoglobulin E (IgE) and specific IgE, and to question the necessity of these tests in diagnosis.",
+      "journal": "Therapeutic advances in respiratory disease",
+      "year": "2013",
+      "authors": [
+        "Karli Rifat",
+        "Balbaloglu Evrim",
+        "Uzun Lokman",
+        "Cinar Fikret",
+        "Ugur Mehmet Birol"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Antigens, Dermatophagoides",
+        "Child",
+        "Female",
+        "Humans",
+        "Immunoglobulin E",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23197073/"
+    },
+    {
+      "pmid": "30288712",
+      "title": "Mechanism of Stomatal Closure in Plants Exposed to Drought and Cold Stress.",
+      "abstract": "Drought is one of the abiotic stresses which impairs the plant growth/development and restricts the yield of many crops throughout the world. Stomatal closure is a common adaptation response of plants to the onset of drought condition. Stomata are microscopic pores on the leaf epidermis, which regulate the transpiration/CO2 uptake by leaves. Stomatal guard cells can sense various abiotic and biotic stress stimuli from the internal and external environment and respond quickly to initiate closure under unfavorable conditions. Stomata also limit the entry of pathogens into leaves, restricting their invasion. Drought is accompanied by the production and/or mobilization of the phytohormone, abscisic acid (ABA), which is well-known for its ability to induce stomatal closure. Apart from the ABA, various other factors that accumulate during drought and affect the stomatal function are plant hormones (auxins, MJ, ethylene, brassinosteroids, and cytokinins), microbial elicitors (salicylic acid, ",
+      "journal": "Advances in experimental medicine and biology",
+      "year": "2018",
+      "authors": [
+        "Agurla Srinivas",
+        "Gahir Shashibhushan",
+        "Munemasa Shintaro",
+        "Murata Yoshiyuki",
+        "Raghavendra Agepati S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Acclimatization",
+        "Cold Temperature",
+        "Cold-Shock Response",
+        "Dehydration",
+        "Droughts",
+        "Gene Expression Regulation, Plant",
+        "Organism Hydration Status",
+        "Plant Proteins",
+        "Plant Stomata"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30288712/"
+    },
+    {
+      "pmid": "21322286",
+      "title": "Complementary and alternative medicine for prevention and treatment of the common cold.",
+      "abstract": "To review the evidence supporting complementary and alternative medicine approaches to treatment and prevention of the common cold in adults.",
+      "journal": "Canadian family physician Medecin de famille canadien",
+      "year": "2011",
+      "authors": [
+        "Nahas Richard",
+        "Balla Agneta"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Ascorbic Acid",
+        "Common Cold",
+        "Complementary Therapies",
+        "Dietary Supplements",
+        "Disulfides",
+        "Echinacea",
+        "Garlic",
+        "Gluconates",
+        "Glycine",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21322286/"
+    },
+    {
+      "pmid": "11193291",
+      "title": "Cold adapted enzymes.",
+      "abstract": "The number of reports on enzymes from cold adapted organisms has increased significantly over the past years, and reveals that adaptive strategies for functioning at low temperature varies among enzymes. However, the high catalytic efficiency at low temperature seems, for the majority of cold active enzymes, to be accompanied by a reduced thermal stability. Increased molecular flexibility to compensate for the low working temperature, is therefore still the most dominating theory for cold adaptation, although there also seem to be other adaptive strategies. The number of experimentally determined 3D structures of enzymes possessing cold adaptation features is still limited, and restricts a structural rationalization for cold activity. The present summary of structural characteristics, based on comparative studies on crystal structures (7), homology models (7), and amino acid sequences (24), reveals that there are no common structural feature that can account for the low stability, incr",
+      "journal": "Biotechnology annual review",
+      "year": "2000",
+      "authors": [
+        "Smalås A O",
+        "Leiros H K",
+        "Os V",
+        "Willassen N P"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adaptation, Biological",
+        "Cold Temperature",
+        "Enzymes"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11193291/"
+    }
+  ]
+}

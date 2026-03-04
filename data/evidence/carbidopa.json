@@ -1,0 +1,999 @@
+{
+  "drug": "Carbidopa",
+  "drugbank_id": "DB00190",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:45:39Z",
+  "indications": [
+    {
+      "indication": "parkinsonian disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 6,
+        "phase1_trials": 3,
+        "other_trials": 5,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 8,
+        "total_trials": 20,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "juvenile onset Parkinson disease 19A",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "early-onset parkinsonism-intellectual disability syndrome",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "Parkinson disease",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 6,
+        "phase1_trials": 3,
+        "other_trials": 5,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "atypical juvenile parkinsonism",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 4,
+        "other_articles": 6,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 40,
+  "total_articles": 29,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00562198",
+      "title": "Effects of Single Doses of Stalevo 200 and Levodopa/Carbidopa 200/50mg on Striatal 11C-Raclopride Binding Potential in Parkinson's Disease Patients With Wearing-Off Symptoms;an Open, Randomised, Active-Controlled,Two-Period Crossover Study.",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2008-01",
+      "completion_date": "2008-05",
+      "country": "Finland",
+      "enrollment": 16,
+      "brief_summary": "This is an open, randomised, active-controlled, 2-period crossover study comparing the effect of single doses of Stalevo 200 and Sinemet on striatal (putamenal and caudate) 11C-raclopride BP in PD patients with wearing-off symptoms. The study consists of 4 visits: a screening visit (visit 1), 2 treatment periods (period 1=visit 2, period 2=visit 3) separated by a minimum wash-out period of at least 3 days, and an end-of-study visit (visit 4). Subjects will be randomly allocated to start the peri",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients with idiopathic Parkinson's disease according to the UK Brain Bank criteria.\n2. Predictable wearing-off symptoms with a response to standard release levodopa/carbidopa (200/50 mg)during the levodopa challenge test lasting for a minimum of 1.5 h and a m",
+      "endpoints": [
+        "The difference between the study drugs in change in striatal 11C-raclopride BP.Striatal 11C-raclopride BP will be determined with PET scans performed at baseline and from 2.5 to 3.5 h after the study drug administration."
+      ],
+      "sponsor": "Orion Corporation, Orion Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00562198"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05103618",
+      "title": "Evaluating the Physiological and Psychological Effects of a Novel Meditation Technique on Cerebral Activity Measured With Functional Magnetic Resonance Imaging(fMRI) and F-18 Fluorodopa PET Imaging",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2021-07-08",
+      "completion_date": "2025-07-21",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this research is to use 18 F Fluorodopa positron emission tomography (FDOPA PET) to measure dopamine function, and utilize magnetic resonance imaging (MRI) to measure inflammatory and oxidative stress markers in persons with Parkinson's disease.\n\nThe overall goal of this study will be to further the understanding of the effects of a novel meditation technique called orgasmic meditation (OM) on these neurophysiological parameters.",
+      "eligibility_criteria": "Inclusion Criteria:(Control Group: 6 healthy, normal couple pairs)\n\n1. No clinical diagnosis of PD\n2. Age 25 years old and older\n3. Physically independent, ambulatory\n4. Women of childbearing potential will confirm a negative pregnancy test and must practice effective contraception during the period",
+      "endpoints": [
+        "FDOPA PET",
+        "FDOPA PET"
+      ],
+      "sponsor": "Thomas Jefferson University",
+      "url": "https://clinicaltrials.gov/study/NCT05103618"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00869791",
+      "title": "A Study to Compare Pharmacokinetics and Pharmacodynamics of IPX066 to Standard Carbidopa-Levodopa",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2009-06",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "This study evaluated the pharmacokinetics, motor effects, and assessed the safety of IPX066 compared with an immediate-release cabridopa-levodopa formulation in subjects with advanced Parkinson's disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female diagnosed with idiopathic PD, without any known cause for Parkinsonism.\n2. If female and of childbearing potential, subject should be abstinent or continuing to practice and willing to continue throughout the study with appropriate contraceptives (defined as No",
+      "endpoints": [
+        "Pharmacokinetics Measurements to Determine Cmax for Carbidopa (CD) and Levodopa (LD) Plasma Concentrations From Samples Collected Pre-dose and at Different Time Points on Day 1 and Day 8 of Periods 1 and 2 of Both Treatment Arms.",
+        "Pharmacokinetics Measurements to Determine Tmax for Levodopa and Carbidopa Plasma Concentrations From Samples Collected Pre-dose and at Different Time Points on Day 1 and Day 8 of Periods 1 and 2 of Both Treatment Arms.",
+        "Pharmacokinetics Measurements to Determine Area Under the Concentration-time Curve for the Dosing Interval for LD and CD Concentrations From Blood Collected Pre-dose and at Different Time Points on Day 1 and Day 8 of Periods 1 and 2 of Treatment Arms."
+      ],
+      "sponsor": "Impax Laboratories, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00869791"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00139880",
+      "title": "A Single Center, Randomized, Double-blind, Crossover Pilot Trial Comparing the Onset of Action of Parcopa™ With Sinemet® in Subjects With Stable Parkinson's Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-06",
+      "completion_date": "2005-08",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "To test whether Parcopa, a new Orally Disintegrating Tablet of Carbidopa-Levodopa, has a faster onset of action, changes in the UPDRS Motor Exam score at intervals after a single dose of Parcopa or Sinemet are being compared in 10 subjects with Parkinson's disease. Subjects 40 years or older having idiopathic PD with Hoehn and Yahr state II or III are eligible if taking a stable dose of \\< 200 mg carbidopa and \\< 2000 mg levodopa daily. At both treatment visits, either Parcopa or Sinemet, plus a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Stable Parkinson's disease\n\nExclusion Criteria:\n\n* idiopathic PD with Hoehn and Yahr state II or III",
+      "endpoints": [],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00139880"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00143026",
+      "title": "Study to Compare the Effect of Treatment With Carbidopa/Levodopa/Entacapone on the Quality of Life of Patients With Parkinson's Disease.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2006-06",
+      "country": "Philippines, Australia, Taiwan, Thailand",
+      "enrollment": 184,
+      "brief_summary": "This study examines the effect of treatment of levodopa/entacapone on quality of life, as measured by the Parkinson's Disease-Questionnaire 8 (PDQ-8), in Parkinson's disease patients with no or minimal, non-disabling motor fluctuations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of idiopathic Parkinson's disease exhibiting at least 2 or 3 symptoms\n* Motor functions must be regarded as non-disabling by the patient\n\nExclusion Criteria:\n\n* History, signs or symptoms suggesting the diagnosis of atypical or secondary parkinsonism\n* Histo",
+      "endpoints": [
+        "Quality of life assessment"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00143026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01725802",
+      "title": "A Phase I/IIa, Single Dose, Single-centre, Randomized, Crossover, Double-blind, Placebo-controlled Study Evaluating Safety, Tolerability and Levodopa Plasma Concentration Following Administration of Subcutaneous Continuously-delivered Levodopa/Carbidopa Solution (ND0612) in PD Patients",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-12-16",
+      "completion_date": "2013-02-26",
+      "country": "Israel",
+      "enrollment": 8,
+      "brief_summary": "In this Phase I/IIa study, the effect of continuous subcutaneous administration of LD/CD solution (ND0612) on the safety and PK profile of LD will be examined.",
+      "eligibility_criteria": "Main Inclusion Criteria:\n\n* Men and women with idiopathic Parkinson's disease\n* Subjects must experience motor fluctuations associated with LD/CD dosing\n* Modified Hoehn and Yahr stage \\< 5\n* Subjects must be taking optimized and stable levodopa/dopa decarboxylase inhibitor therapy\n* Women must be p",
+      "endpoints": [
+        "Incidence and frequency of adverse events",
+        "Withdrawal rate"
+      ],
+      "sponsor": "NeuroDerm Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01725802"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00360568",
+      "title": "Open-Label, 12-Month Safety and Efficacy Study of Levodopa - Carbidopa Intestinal Gel in Levodopa-Responsive Parkinson's Disease Subjects",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2012-10",
+      "country": "New Zealand, Germany, United States",
+      "enrollment": 62,
+      "brief_summary": "Long term safety and efficacy (12 months) of levodopa-carbidopa intestinal gel.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Idiopathic Parkinson's disease (PD) according to United Kingdon Parkinson's Disease Society (UKPDS) Brain Bank Criteria\n* Levodopa-responsive with severe motor fluctuations\n* Completion of protocol S187.3.001 (NCT00357994) or S187.3.002 (NCT00660387) and continue to meet the i",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs), Serious AEs (SAEs), Deaths and Discontinuations Due to AEs",
+        "Number of Participants With Device Complications",
+        "Number of Participants With Potentially Clinically Significant Values for Hematology Parameters"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT00360568"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00199407",
+      "title": "A 12-week, Double Blind, Placebo-controlled, Randomized, Parallel Group, Multicenter, Fixed Dose Study to Evaluate the Efficacy and Safety of a 20 mg/d Oral Dose of KW-6002 (Istradefylline) as Treatment for Parkinson's Disease in Patients With Motor Response Complications on Levodopa/Carbidopa Therapy.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-06",
+      "completion_date": "2006-01",
+      "country": "United States",
+      "enrollment": 230,
+      "brief_summary": "To establish the efficacy of a 20 mg/day dose of istradefylline for reducing the percentage of OFF time in patients with advanced Parkinson's disease (PD) treated with levodopa.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. UK Parkinson's Disease Society (UKPDS) brain bank criteria (Step 1 and 2) for PD.\n2. PD stages 2-4 in the OFF state for Modified Hoehn and Yahr Scale.\n3. On levodopa/carbidopa for at least one year, stable dose in past 4 weeks.\n4. Currently take at least three doses of levodo",
+      "endpoints": [
+        "To establish the efficacy of a 20 mg/d dose of istradefylline for reducing the percentage of OFF time in patients with advanced Parkinson's disease (PD) treated with levodopa/carbidopa."
+      ],
+      "sponsor": "Kyowa Kirin Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00199407"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01519284",
+      "title": "A Double-blind, Randomised, Placebo- and Active-controlled Multiple-dose Study of BIA 9-1067 to Investigate Its Effect on Levodopa Pharmacokinetics Following a Levodopa/Carbidopa 100/25 mg Single-dose in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2011-06",
+      "country": "Portugal",
+      "enrollment": 82,
+      "brief_summary": "To investigate the effect of repeated dosing of BIA 9-1067 on the levodopa pharmacokinetics, in comparison to placebo and entacapone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able and willing to give written informed consent.\n* Male or female subjects aged between 18 and 45 years, inclusive.\n* Subjects of body mass index (BMI) between 19 and 30 kg/m2, inclusive.\n* Healthy as determined by pre-study medical history, physical examination, vital signs",
+      "endpoints": [
+        "Cmax - Maximum Plasma Concentration of Levodopa"
+      ],
+      "sponsor": "Bial - Portela C S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01519284"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01766258",
+      "title": "Efficacy and Safety of ODM-101 Compared to a Standard Combination (Stalevo®); a Randomised, Double-blind, Crossover, Proof of Concept Study in Patients With Parkinson's Disease and End-of-dose Motor Fluctuations",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2012-09",
+      "country": "N/A",
+      "enrollment": 117,
+      "brief_summary": "The primary objective of the study is to assess the efficacy, carbidopa dose response and safety of ODM-101, a new combination of levodopa, carbidopa and entacapone in the treatment of Parkinson's disease (PD) patients with end-of-dose motor fluctuations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent (IC) obtained.\n* Male or female patients with idiopathic PD according to the United Kingdom brain bank criteria with end-of-dose -motor fluctuations.\n* Hoehn and Yahr stage 2-4 performed during the on state.\n* An average of 3.0 hours of off time, with ",
+      "endpoints": [
+        "Duration of off time"
+      ],
+      "sponsor": "Orion Corporation, Orion Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT01766258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00590122",
+      "title": "Comparison of Orally Dissolving Carbidopa/Levodopa (Parcopa) to Conventional Oral Carbidopa/Levodopa: A Single-Dose, Double-Blind, Double-Dummy, Placebo-Controlled, Crossover Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2008-11",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "To find out if a single dose of Parcopa®, a form of levodopa that dissolves in your mouth, works faster than regular oral levodopa which is swallowed, in fluctuating PD patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female between the age of 31 and 80 -Diagnosis of idiopathic Parkinson's disease for at least three years duration\n* Patients requiring levodopa for their PD\n* Good subjective response to levodopa\n* Fluctuating symptoms defined by wearing off phenomenon, any dyskinesia",
+      "endpoints": [
+        "Measurement of Time in Minutes From When a Patient Was in a Clinical \"Off\" State, Took Their Medication and Went Into a Clinical \"on\" State"
+      ],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00590122"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06596876",
+      "title": "A Randomized, Controlled, Double-blind, Double-dummy, Multicenter Phase III Study to Evaluate the Efficacy and Safety of HRG2010 in Parkinson's Disease With Motor Fluctuations",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-11-06",
+      "completion_date": "2027-02-14",
+      "country": "China",
+      "enrollment": 450,
+      "brief_summary": "The study is a multicenter, randomized, double-blind, double-dummy, active-controlled, Phase III clinical study. The aim of this trial is to evaluated the efficacy and assessed the safety of HRG2010 compared with a sustained-release cabridopa-levodopa formulation in Parkinson's Disease With Motor Fluctuations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female who are at age 40\\~80 years with PD, consistent with the International Parkinson and Movement Disorder Society Clinical Diagnostic Criteria and who are being treated with stable regimens of DDCI+LD but experiencing motor fluctuations.\n2. Mini Mental State Exami",
+      "endpoints": [
+        "Change from baseline in \"Off\" time at Week 21"
+      ],
+      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06596876"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00086294",
+      "title": "5HT2A/C Serotonin Blockade in Parkinson's Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-06-25",
+      "completion_date": "2007-11-15",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study will evaluate the effects of an experimental drug called ACP-103 on Parkinson's disease symptoms and on dyskinesias (involuntary movements) that develop as a result of long-term levodopa treatment. ACP-103 changes the spread of certain brain signals that are affected in patients with Parkinson's disease.\n\nPatients with relatively advanced Parkinson's disease and dyskinesias who are between 30 and 80 years of age may be eligible for this study. Candidates are screened with a complete m",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nPatients who meet all of the following inclusion criteria will be eligible to participate in the study:\n\n1. Patient is between the ages of 30 and 80 (inclusive);\n2. Patient has been diagnosed with idiopathic Parkinson's disease based on the presence of a characteristic clinica",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00086294"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01486628",
+      "title": "A Phase I, Single Dose, Single-centre, Randomized, Double-blind, Placebo-controlled Dose Escalation Study Evaluating Safety, Tolerability and Levodopa Plasma Concentration Following Administration of Subcutaneous Continuously-delivered Levodopa/Carbidopa Solution (ND0612) in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-04-30",
+      "completion_date": "2013-06-13",
+      "country": "Israel",
+      "enrollment": 36,
+      "brief_summary": "It will be a single dose, single-center, randomized, double-blind, placebo-controlled dose escalation study of SC continuously-delivered LD/CD solution (ND-0612) for 24 hours in healthy volunteers.\n\nObjectives are to determine:\n\n1. the maximal tolerated dose of SC ND-0612\n2. the steady state plasma concentration of LD and CD following SC ND-0612 administration.\n\nEach treatment group will include 6 healthy volunteers. Dosing will be done in a sequential manner.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy Caucasian males between 18 and 40 years (inclusive) of age\n* Normal BMI (18.5-24.9)\n* Subjects with negative urinary drugs of abuse, HIV, Hepatitis B or Hepatitis C serology tests\n* Subjects must be able to adhere to the protocol requirements\n* Subjects must provide wr",
+      "endpoints": [
+        "Safety and tolerability"
+      ],
+      "sponsor": "NeuroDerm Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01486628"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00129181",
+      "title": "A Single-blinded Assessment of the Short-term Effects of Cabergoline vs. Carbidopa/Levodopa on SPECT Dopamine Transporter Density in Out-patient Subjects With Parkinson's Disease",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2007-01",
+      "country": "Italy, Spain, Germany, Austria",
+      "enrollment": 30,
+      "brief_summary": "This study investigates whether there is a change in 123iodine-2ß- carbomethoxy-3ß-(4-iodophenyl) tropane (\\[123I\\]ß-CIT) uptake after short-term treatment with levodopa compared to either dopamine agonist or placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The subject is aged 40 years or older.\n* Written informed consent is obtained.\n* Subjects have a clinical diagnosis of idiopathic Parkinson's disease.\n* Hoehn and Yahr stages for subjects are I-II.\n\nExclusion Criteria:\n\n* The subject has atypical or drug-induced Parkinson's di",
+      "endpoints": [
+        "To determine the influence of short-term levodopa therapy on dopamine transporter density in early Parkinson's disease"
+      ],
+      "sponsor": "Institute for Neurodegenerative Disorders",
+      "url": "https://clinicaltrials.gov/study/NCT00129181"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07370532",
+      "title": "Clinical Study to Evaluate Safety and Efficacy of Etoricoxib in Patients With Parkinson's Disease Treated With Conventional Treatment",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-06-30",
+      "completion_date": "2027-11-20",
+      "country": "Egypt",
+      "enrollment": 60,
+      "brief_summary": "Neuroinflammation is considered one of the most important factors contributing critically to pathophysiology of PD . Recently, high mobility group box-1 (HMGB1) protein has been encoded as a potential inflammatory biomarker in PD. HMGB1 mediates immune response mostly through endothelial cells and macrophage activation via targeting two vital cell receptors; Toll-like receptor 4 (TLR4) and advanced glycation end products (RAGE).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years.\n* Both male and female will be included.\n* Patients diagnosed with PD according to Unified Parkinson's Disease Rating Scale.\n\nExclusion Criteria:\n\n* Breast feeding\n* Patients with significant liver and kidney function abnormalities.\n* Alcohol and / or drug abus",
+      "endpoints": [
+        "- Change in The Unified Parkinson's Disease Rating Scale"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT07370532"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04750226",
+      "title": "An Open-Label Extension of Studies M15-736 and M20-339 to Evaluate the Safety and Tolerability of 24-Hour Daily Exposure of ABBV-951 in Subjects With Advanced Parkinson's Disease",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-02-18",
+      "completion_date": "2026-04",
+      "country": "Australia, United States",
+      "enrollment": 118,
+      "brief_summary": "Parkinson's disease (PD) is a neurological condition, which affects the brain. PD gets worse over time, but how quickly it progresses varies a lot from person to person. Some symptoms of PD are tremors, stiffness, and slowness of movement. This study will assess how safe and effective ABBV-951 is in adult participants with PD. Adverse events and change in disease activity is evaluated.\n\nABBV-951 is an investigational (unapproved) drug containing Levodopa Phosphate/Carbidopa Phosphate (LDP/CDP) g",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Completion of the parent study, Study M15-736 or Study M20-339.\n\nExclusion Criteria:\n\n\\- Participant considered by the investigator to be an unsuitable candidate to receive ABBV-951 for any reason.",
+      "endpoints": [
+        "Percentage of Participants with Adverse Event (AEs)",
+        "Percentage of Participants with AEs of Special Interest (AESIs)",
+        "Percentage Of Participants With Numeric Grade Equal To Or Higher Than 5 On The Infusion Site Evaluation Scale"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT04750226"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07430722",
+      "title": "A Cross-sectional Study of Serum Vitamin B6 Levels in People Living With Parkinson's Disease",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2024-07-01",
+      "completion_date": "2026-02-15",
+      "country": "United States",
+      "enrollment": 288,
+      "brief_summary": "The purpose of this study is to estimate the prevalence of abnormal serum levels of vitamin B6, and the associations of those levels with demographic and clinical variables in a randomly selected sample of people living with Parkinson's disease, compared to historical controls.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* People with a clinical diagnosis of Parkinson's disease according to the diagnostic criteria of the Movement Disorders Society \\[Postuma 2015\\].\n* Participants are ≥ 18 years old.\n* As determined by the study investigators, participants are able to communicate at a level suffi",
+      "endpoints": [
+        "Serum levels of vitamin B6 (Fasting)"
+      ],
+      "sponsor": "University of Rochester",
+      "url": "https://clinicaltrials.gov/study/NCT07430722"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00880620",
+      "title": "A Placebo-Controlled Study To Evaluate The Safety And Efficacy Of IPX066 In Subjects With Parkinson's Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2010-11",
+      "country": "Ukraine, Latvia, Estonia, Lithuania, Canada, Romania, United States",
+      "enrollment": 381,
+      "brief_summary": "This study examines the efficacy of three doses of IPX066 as compared to placebo in Parkinson's disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Able to understand and willing to voluntarily sign an informed consent form (ICF) and Health Insurance Portability and Accountability Act (HIPAA) authorization or local equivalent if applicable.\n2. Diagnosed with idiopathic PD.\n3. LD-naïve: defined as subjects not exposed to ",
+      "endpoints": [
+        "Change From Baseline in the Sum of UPDRS Part II + UPDRS Part III at Week 30"
+      ],
+      "sponsor": "Impax Laboratories, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00880620"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04054960",
+      "title": "A Trial of tPCS on Parkinson's Disease OFF State",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-09",
+      "completion_date": "2021-10",
+      "country": "Canada",
+      "enrollment": 15,
+      "brief_summary": "A significant number of patients with Parkinson's disease (PD) face motor fluctuations even after repeated titration of the dosing of Levodopa. Dealing with OFF state really becomes problematic for them. Aggravation of bradykinesia, rigidity, tremor and gait difficulty are the common problems in OFF state. Studies are going on drugs like Apomorphine as rescue therapy in OFF state. Recently there are studies with Noninvasive brain stimulation, as an evolving therapeutic option in different neurod",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with Idiopathic Parkinson's disease (IPD).\n\nExclusion Criteria:\n\n* Parkinson plus syndromes.\n* Drug-induced parkinsonism.\n* Patients who cannot walk independently or wheelchair-bound.\n* Patients who are not able to provide informed consent.",
+      "endpoints": [
+        "Change in Unified Parkinson's disease rating scale (UPDRS) part III",
+        "Changes in spatiotemporal gait measures using objective gait analysis",
+        "Change in upper limb motor kinetics"
+      ],
+      "sponsor": "Western University, Canada",
+      "url": "https://clinicaltrials.gov/study/NCT04054960"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "25449210",
+      "title": "Levodopa therapy for Parkinson's disease: Pharmacokinetics and pharmacodynamics.",
+      "abstract": "For all its imperfections at treating Parkinson's disease (PD), orally-administered levodopa (l-dopa) can be regarded as the \"platinum\" standard of PD therapeutics for its impact on disability and discomfort and its cost-effectiveness. The past half-century has confirmed that the typical l-dopa-treated patient gains improvement for most Parkinsonian features, presumably by conversion of this amino acid into dopamine in the striatum. However, fundamental questions remain as to its full mechanism of action and how adverse reactions evolve. Various aspects of clinical phenomenology associated with chronic l-dopa use (such as dyskinesias and the long-duration anti-Parkinsonian response) present a continuing challenge for better understanding of its pharmacology. The pharmacokinetics of l-dopa tend to predict some of problems that can emerge during chronic therapy, which can be linked with its irregular uptake and marked dose-by-dose variability in plasma concentrations. Several new pharmac",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2015",
+      "authors": [
+        "LeWitt Peter A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antiparkinson Agents",
+        "Brain",
+        "Humans",
+        "Levodopa",
+        "Parkinson Disease"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25449210/"
+    },
+    {
+      "pmid": "8787797",
+      "title": "Pharmacokinetic model of oral levodopa and role of carbidopa in parkinsonian patients.",
+      "abstract": "A pharmacokinetic model of oral levodopa is proposed to elucidate the effects of carbidopa on the pharmacokinetics of levodopa. The propriety of the model was evaluated by simultaneous computer Multi-Line fitting for the plasma concentration-time data of levodopa and dopamine-3-O-sulfate (DA-S), a major metabolite of levodopa, after oral administration of three different levodopa doses to parkinsonian patients. Plasma profiles of levodopa and DA-S were also determined in 12 parkinsonian patients during daily oral administration of Neodopaston, a levodopa preparation containing carbidopa in tablet form. We investigated the role of carbidopa by comparing the populational mean parameters calculated in the levodopa alone model with those obtained in patients coadministered levodopa and carbidopa. The results indicated that the pharmacokinetics of levodopa coadministered with carbidopa were dose-independent and that carbidopa reduces the first-pass metabolism of levodopa in the gut wall to ",
+      "journal": "Biological & pharmaceutical bulletin",
+      "year": "1995",
+      "authors": [
+        "Mizutani Y",
+        "Okada Y",
+        "Ogawa M",
+        "Hasegawa T",
+        "Nabeshima T"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Aged",
+        "Antiparkinson Agents",
+        "Biological Availability",
+        "Carbidopa",
+        "Dopamine",
+        "Drug Combinations",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8787797/"
+    },
+    {
+      "pmid": "30361296",
+      "title": "Behavioural and trait changes in parkinsonian patients with impulse control disorder after switching from dopamine agonist to levodopa therapy: results of REIN-PD trial.",
+      "abstract": "In this multicentre open-label trial, we compared behavioural and neuropsychiatric symptoms in Parkinson's disease (PD) patients with impulse control disorders (ICD) treated with dopamine agonists before and 12 weeks after substituting dopamine agonists with an equivalent dose of levodopa/carbidopa slow-release formulation.",
+      "journal": "Journal of neurology, neurosurgery, and psychiatry",
+      "year": "2019",
+      "authors": [
+        "Lee Jee-Young",
+        "Jeon Beomseok",
+        "Koh Seong-Beom",
+        "Yoon Won Tae",
+        "Lee Ho-Won"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Antiparkinson Agents",
+        "Carbidopa",
+        "Disruptive, Impulse Control, and Conduct Disorders",
+        "Dopamine Agonists",
+        "Drug Combinations",
+        "Drug Substitution",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30361296/"
+    },
+    {
+      "pmid": "30566307",
+      "title": "Anti-parkinsonian drugs today.",
+      "abstract": "The current pharmacotherapeutic options for Parkinson's disease is described in this article. Newly formulations of levodopa developed to date. Levodopa / carbidopa intestinal gel (Duodopa) was approved recently in Japan. Duodopa permits to maintain plasma concentrations of levodopa at steady levels and prolongs ON time without dyskinesia. IPX066 is a newly developed oral formulation of levodopa, and launched in US. It contains both an immediate-release and a sustained-release levodopa component. Safinamide has an inhibitory activity of glutamate release and antagonism of sodium channel activity in addition to MAO-B inhibitor. Opicapone is a novel third generation COMT inhibitor. Rasagiline is a widely used MAO-B inhibitor in many countries. Clinical trials of the both agents are performed in Japan. Pimavanserin, a 5-HT2A inverse agonist, is the first and only medication approved by FDA for the treatment of psychosis associated with Parkinson's disease.",
+      "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+      "year": "2017",
+      "authors": [
+        "Nagai Masahiro"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Antiparkinson Agents",
+        "Humans",
+        "Parkinson Disease"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30566307/"
+    },
+    {
+      "pmid": "477187",
+      "title": "Niacin depletion in Parkinsonian patients treated with L-dopa, benserazide and carbidopa.",
+      "abstract": "1. Benserazide and carbidopa, decarboxylase inhibitors used in the treatment of Parkinson's disease, have been shown to inhibit the enzyme kynurenine hydrolase in rat and mouse liver. This results in reduced synthesis of nicotinamide coenzymes from tryptophan, and hence an increased reliance on dietary niacin. 2. Pellagra might be expected as a result of this inhibition of endogenous synthesis of nicotinamide nucleotides, but has not been reported in patients treated with either drug. 3. The urinary excretion of N1-methyl-nicotinamide, a product of nicotinamide nucleotide metabolism, is considerably reduced in patients treated with dopa alone or in combination with an inhibitor of peripheral dopa decarboxylase, to as low as 40% of the control value. This means that many of these patients could be classified as 'at risk' of niacin deficiency, even if not frankly deficient. 4. Patients treated with dopa plus a decarboxylase inhibitor, but not those treated with dopa alone, also show a re",
+      "journal": "Clinical science (London, England : 1979)",
+      "year": "1979",
+      "authors": [
+        "Bender D A",
+        "Earl C J",
+        "Lees A J"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Benserazide",
+        "Bromocriptine",
+        "Carbidopa",
+        "Female",
+        "Humans",
+        "Hydrazines",
+        "Levodopa",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/477187/"
+    },
+    {
+      "pmid": "19367357",
+      "title": "Cyclosporine-induced parkinsonism.",
+      "abstract": "",
+      "journal": "Journal of neurology",
+      "year": "2009",
+      "authors": [
+        "Lima Marco A",
+        "Maradei Simone",
+        "Maranhao Filho Pericles"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Antiparkinson Agents",
+        "Brain",
+        "Carbidopa",
+        "Cyclosporine",
+        "Fatal Outcome",
+        "Hematoma, Subdural",
+        "Humans",
+        "Immunosuppressive Agents",
+        "Leukemia, Lymphoid",
+        "Levodopa"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19367357/"
+    },
+    {
+      "pmid": "40270087",
+      "title": "Dopamine-responsive post-anoxic parkinsonism.",
+      "abstract": "BackgroundParkinsonism following hypoxic ischemic damage of the basal ganglia is an uncommon phenomenon that has been infrequently reported. However, only a few cases have noted improvement of symptoms with dopaminergic therapy. We report the clinical and imaging features of five patients with post-anoxic parkinsonism responsive to dopamine supplementation.ObjectiveTo describe a retrospective case series of five cases of dopamine-responsive post-anoxic parkinsonism.MethodsWe identified all the cases using the Mayo Clinic Data Management System utilizing advanced data explorer search engine for any patients evaluated for post anoxic parkinsonism and its associated acronyms from 2000-2024. Clinical features, neuroimaging, medication trials, and responses were obtained from chart review of identified patients.ResultsFive patients met the inclusion criteria. All patients underwent anoxic events followed by development of parkinsonism. Patients exhibited parkinsonism described as combinatio",
+      "journal": "Journal of Parkinson's disease",
+      "year": "2025",
+      "authors": [
+        "Liu Tina",
+        "Ahlskog J Eric",
+        "Bower James",
+        "Kantarci Orhun",
+        "Savica Rodolfo"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Antiparkinson Agents",
+        "Carbidopa",
+        "Dopamine Agonists",
+        "Drug Combinations",
+        "Hypoxia-Ischemia, Brain",
+        "Levodopa",
+        "Parkinson Disease, Secondary",
+        "Parkinsonian Disorders",
+        "Retrospective Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40270087/"
+    },
+    {
+      "pmid": "3341962",
+      "title": "Drug-induced alzheimerism.",
+      "abstract": "A 74-year-old man with parkinsonism developed progressive cognitive and behavioral dysfunction suggesting coexistent Alzheimer's disease. The intellectual and behavioral disturbances were reversed following withdrawal of his anticholinergic antiparkinsonian medication. This case demonstrates that anticholinergic drugs used to treat parkinsonism may mimic or exacerbate the clinical signs of Alzheimer's disease and suggests that these medications should be withdrawn for all parkinsonian patients who develop significant impairments of cognition or behavior.",
+      "journal": "Archives of neurology",
+      "year": "1988",
+      "authors": [
+        "Kurlan R",
+        "Como P"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Alzheimer Disease",
+        "Biperiden",
+        "Carbidopa",
+        "Drug Combinations",
+        "Humans",
+        "Levodopa",
+        "Male",
+        "Parkinson Disease",
+        "Piperidines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3341962/"
+    },
+    {
+      "pmid": "31032135",
+      "title": "Attempted Suicide in a Parkinsonian Patient Treated with DBS of the VIM and High Dose Carbidopa-Levodopa.",
+      "abstract": "Parkinson's disease (PD) is a complex disease that is often treated with dopaminergic medications such as carbidopa-levodopa and now with innovative interventions such as deep brain stimulation (DBS). While PD frequently presents with depression and apathy, research must elucidate whether its treatment modalities have an additive or synergistic effect that can lead to an increased suicide risk. DBS has been associated with depression, behavioral changes, and suicidality while dopaminergic treatment has also been shown to cause behavioral changes such as hypersexuality and impulsivity. Considering the now frequent practice of utilizing both DBS and carbidopa-levodopa to treat PD, it is crucial to understand how to properly manage PD patients who are displaying this overlap in symptomology.",
+      "journal": "Case reports in psychiatry",
+      "year": "2019",
+      "authors": [
+        "Ayobello Ayotunde",
+        "Saway Brian",
+        "Greenage Michael"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31032135/"
+    },
+    {
+      "pmid": "32044947",
+      "title": "Diagnosis and Treatment of Parkinson Disease: A Review.",
+      "abstract": "Parkinson disease is the most common form of parkinsonism, a group of neurological disorders with Parkinson disease-like movement problems such as rigidity, slowness, and tremor. More than 6 million individuals worldwide have Parkinson disease.",
+      "journal": "JAMA",
+      "year": "2020",
+      "authors": [
+        "Armstrong Melissa J",
+        "Okun Michael S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antiparkinson Agents",
+        "Carbidopa",
+        "Combined Modality Therapy",
+        "Deep Brain Stimulation",
+        "Diagnosis, Differential",
+        "Disease Progression",
+        "Dopamine Agonists",
+        "Drug Combinations",
+        "Humans",
+        "Levodopa"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32044947/"
+    },
+    {
+      "pmid": "33252908",
+      "title": "Parkinson Disease.",
+      "abstract": "Parkinson disease is a progressive neurodegenerative disorder with significant morbidity and mortality. Most patients consult with their primary care physician about Parkinson disease symptoms before seeking care from a specialist. The diagnosis of Parkinson disease is clinical, and key disease features are bradykinesia, rigidity, and tremor. The main diagnostic signs of Parkinson disease are motor symptoms; however, Parkinson disease is also associated with nonmotor symptoms, including autonomic dysfunction, depression, and hallucinations, which can make the initial diagnosis of Parkinson disease difficult. Disease progression is variable and clinical signs cannot be used to predict progression accurately. Therapies, including levodopa, have not demonstrated the ability to slow disease progression. Motor symptoms are managed with carbidopa/levodopa, monoamine oxidase-B inhibitors, and nonergot dopamine agonists. Prolonged use and higher doses of levodopa result in dyskinesias and moto",
+      "journal": "American family physician",
+      "year": "2020",
+      "authors": [
+        "Halli-Tierney Anne D",
+        "Luker Jacquelynn",
+        "Carroll Dana G"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Antiparkinson Agents",
+        "Carbidopa",
+        "Combined Modality Therapy",
+        "Deep Brain Stimulation",
+        "Disease Progression",
+        "Drug Combinations",
+        "Family Practice",
+        "Humans",
+        "Levodopa",
+        "Parkinson Disease"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33252908/"
+    },
+    {
+      "pmid": "31356286",
+      "title": "Parkinson Disease.",
+      "abstract": "Parkinson disease is a common neurodegenerative disorder that affects millions of people worldwide. Important advances in the treatment, etiology, and the pathogenesis of Parkinson disease have been made in the past 50 years. This article provides a review of the current understanding of Parkinson disease, including the epidemiology, phenomenology, and treatment options of the disease.",
+      "journal": "Continuum (Minneapolis, Minn.)",
+      "year": "2019",
+      "authors": [
+        "Zesiewicz Theresa A"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Antiparkinson Agents",
+        "Carbidopa",
+        "Drug Combinations",
+        "Exercise",
+        "Female",
+        "Humans",
+        "Levodopa",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31356286/"
+    },
+    {
+      "pmid": "29517331",
+      "title": "Using tube feeding and levodopa-carbidopa intestinal gel application in advanced Parkinson's disease.",
+      "abstract": "The inability to achieve adequate nutrition and weight loss are serious problems for patients with advanced Parkinson's disease (PD). To ensure the optimal intake of nutrition and fluids and to administer levodopa-carbidopa intestinal gel (LCIG) (which patients need to increase or maintain their mobility as long as possible), different artificial feeding tubes can be used. Although percutaneous endoscopic gastrostomy (PEG) tubes are frequently used in medical practice, there is little research that addresses key questions, including if and when to administer artificial fluids, nutrition and/or LCIG via tubes. Weight gain through tube feeding is only possible for some patients; nurses should keep in mind that tube insertion and feeding may lead to frequent adverse events. Administering LCIG via tubes is usually advisable as it seems to enhance patients' mobility and therefore has positive outcomes in terms of the quality of life of patients and their families ( Lim et al, 2015 ). The au",
+      "journal": "British journal of nursing (Mark Allen Publishing)",
+      "year": "2018",
+      "authors": [
+        "Lex Katharina Maria",
+        "Kundt Firuzan Sari",
+        "Lorenzl Stefan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antiparkinson Agents",
+        "Carbidopa",
+        "Drug Combinations",
+        "Enteral Nutrition",
+        "Female",
+        "Gels",
+        "Humans",
+        "Intestines",
+        "Levodopa",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29517331/"
+    },
+    {
+      "pmid": "39152018",
+      "title": "Continuous subcutaneous levodopa-carbidopa infusion for Parkinson's disease.",
+      "abstract": "",
+      "journal": "The Lancet. Neurology",
+      "year": "2024",
+      "authors": [
+        "Wang Shu",
+        "Jiang Yin",
+        "Yang Anchao",
+        "Meng Fangang",
+        "Zhang Jianguo"
+      ],
+      "pub_types": [
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Levodopa",
+        "Parkinson Disease",
+        "Carbidopa",
+        "Antiparkinson Agents",
+        "Infusions, Subcutaneous",
+        "Drug Combinations"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39152018/"
+    },
+    {
+      "pmid": "39932029",
+      "title": "Cognitive Outcomes of Advanced Therapies in Parkinson's Disease: A Systematic Review of Apomorphine and Levodopa-Carbidopa Intestinal Gel Therapies.",
+      "abstract": "Parkinson's disease (PD) treatments, such as apomorphine (APO) and levodopa-carbidopa intestinal gel (LCIG), represent advanced therapeutic options for managing motor symptoms. However, clear selection criteria and well-defined cognitive outcomes are lacking. This systematic review specifically aimed to address these gaps by assessing the cognitive impact of APO and LCIG in PD patients.",
+      "journal": "European journal of neurology",
+      "year": "2025",
+      "authors": [
+        "Longo Chiara",
+        "Papagno Costanza"
+      ],
+      "pub_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Carbidopa",
+        "Parkinson Disease",
+        "Levodopa",
+        "Drug Combinations",
+        "Apomorphine",
+        "Antiparkinson Agents",
+        "Gels",
+        "Cognition"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39932029/"
+    },
+    {
+      "pmid": "27044646",
+      "title": "Advances in levodopa therapy for Parkinson disease: Review of RYTARY (carbidopa and levodopa) clinical efficacy and safety.",
+      "abstract": "Parkinson disease (PD) is a slowly progressive, incurable, neurodegenerative disorder with progressive motor symptoms that can be managed with treatments. Levodopa is generally recognized as the most effective and widely used treatment for PD. It improves function and quality of life, morbidity, and mortality, and therefore reduces individual and societal costs. Levodopa has a relatively short half-life, however, and is quickly metabolized in the plasma, leading to fluctuations, including wearing-off of effect and inconsistent symptomatic relief as well as development of dyskinesias, with both wearing off and dyskinesias worsening with advancing disease. Immediate-release and controlled-release formulations have been used with success, but motor fluctuations remain a problem. RYTARY (levodopa and carbidopa, IPX066) is an oral extended-release therapy composed of carbidopa-levodopa microbeads designed to dissolve at various rates that allows for quick absorption and sustained levodopa r",
+      "journal": "Neurology",
+      "year": "2016",
+      "authors": [
+        "Dhall Rohit",
+        "Kreitzman David L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Animals",
+        "Antiparkinson Agents",
+        "Carbidopa",
+        "Delayed-Action Preparations",
+        "Drug Administration Schedule",
+        "Drug Combinations",
+        "Dyskinesia, Drug-Induced",
+        "Humans",
+        "Levodopa"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27044646/"
+    },
+    {
+      "pmid": "32162166",
+      "title": "Levodopa/carbidopa/entacapone for the treatment of early Parkinson's disease: a meta-analysis.",
+      "abstract": "Treatment of Parkinson's disease with levodopa/carbidopa/entacapone (LCE) has been studied for a long time. However, the efficacy and safety of LCE in the treatment of early Parkinson's disease (PD) still need to be assessed. Our objective was to do a meta-analysis of relevant randomized controlled trials (RCTs) to evaluate the efficacy and safety of LCE for early PD. PubMed, Embase, the Cochrane Library, and the Web of Science were searched for RCTs with \"levodopa/carbidopa/entacapone\" and \"Parkinson's disease\" as keywords. The search period was from inception to October 2018. The quality of included studies was strictly evaluated. We evaluated the quality of included studies strictly and six studies met all inclusion criteria. The results showed that LCE could improve activities of daily living and motor function in PD patients. However, LCE therapy was associated with higher risks of total AEs and single AEs compared with traditional therapy.",
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "year": "2020",
+      "authors": [
+        "Liao Xiaoli",
+        "Wu Nianyue",
+        "Liu Dongfeng",
+        "Shuai Bowei",
+        "Li Shilei"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antiparkinson Agents",
+        "Carbidopa",
+        "Catechols",
+        "Drug Combinations",
+        "Humans",
+        "Levodopa",
+        "Nitriles",
+        "Parkinson Disease"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32162166/"
+    },
+    {
+      "pmid": "38780079",
+      "title": "Levodopa infusion therapies for Parkinson disease.",
+      "abstract": "to review recent progress in the development and use of continuous levodopa therapies in Parkinson disease (PD).",
+      "journal": "Current opinion in neurology",
+      "year": "2024",
+      "authors": [
+        "Dean Marissa N",
+        "Standaert David G"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Levodopa",
+        "Parkinson Disease",
+        "Antiparkinson Agents",
+        "Carbidopa",
+        "Drug Combinations",
+        "Infusions, Subcutaneous"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38780079/"
+    },
+    {
+      "pmid": "25832138",
+      "title": "New and emerging treatments for Parkinson disease.",
+      "abstract": "",
+      "journal": "The Medical journal of Australia",
+      "year": "2015",
+      "authors": [
+        "Fung Victor S C"
+      ],
+      "pub_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [
+        "Antiparkinson Agents",
+        "Carbidopa",
+        "Clinical Trials as Topic",
+        "Deep Brain Stimulation",
+        "Dopamine Agonists",
+        "Drug Combinations",
+        "Drug Therapy, Combination",
+        "Evidence-Based Medicine",
+        "Humans",
+        "Levodopa"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25832138/"
+    },
+    {
+      "pmid": "11581527",
+      "title": "Diffuse Lewy Body Disease.",
+      "abstract": "Diffuse Lewy body disease (DLB) is a neurodegenerative disorder characterized by dementia, fluctuations in mental status, hallucinations, and parkinsonism. Diffuse Lewy body disease is the second most common cause of dementia, following Alzheimer's disease. The treatment of DLB includes cholinergic therapy for cognitive impairment, atypical neuroleptics to alleviate hallucinations, and levodopa/carbidopa to improve parkinsonism. The recognition and diagnosis of DLB has critical treatment implications. Centrally acting cholinesterase inhibitors, such as rivastigmine, donepezil, and galantamine partially reverse decreased cortical cholinergic activity and may improve cognition and neuropsychiatric symptoms in DLB. Rivastigmine has been demonstrated to improve cognition and neuropsychiatric symptoms in patients with DLB without worsening parkinsonian features. Due to the potential adverse events associated with neuroleptics in this population, treatment with cholinesterase inhibitors is c",
+      "journal": "Current treatment options in neurology",
+      "year": "2001",
+      "authors": [
+        "Zesiewicz Theresa A.",
+        "Baker Matthew J.",
+        "Dunne Peter B.",
+        "Hauser Robert A."
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11581527/"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ drugbank_id: "DB00482"
 drug_name: "Celecoxib"
 kg_predictions: 198
 dl_predictions: 121
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 198
 brands: []
 permalink: /drugs/celecoxib/
@@ -21,7 +21,7 @@ permalink: /drugs/celecoxib/
 | **DrugBank ID** | [DB00482](https://go.drugbank.com/drugs/DB00482) |
 | **KG Predictions** | 198 |
 | **DL Predictions (≥0.7)** | 121 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

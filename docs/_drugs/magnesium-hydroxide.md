@@ -5,7 +5,7 @@ drugbank_id: "DB09104"
 drug_name: "Magnesium Hydroxide"
 kg_predictions: 162
 dl_predictions: 43
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 162
 brands: []
 permalink: /drugs/magnesium-hydroxide/
@@ -21,7 +21,7 @@ permalink: /drugs/magnesium-hydroxide/
 | **DrugBank ID** | [DB09104](https://go.drugbank.com/drugs/DB09104) |
 | **KG Predictions** | 162 |
 | **DL Predictions (≥0.7)** | 43 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

@@ -5,7 +5,7 @@ drugbank_id: "DB04572"
 drug_name: "Thiotepa"
 kg_predictions: 117
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 117
 brands: []
 permalink: /drugs/thiotepa/
@@ -21,7 +21,7 @@ permalink: /drugs/thiotepa/
 | **DrugBank ID** | [DB04572](https://go.drugbank.com/drugs/DB04572) |
 | **KG Predictions** | 117 |
 | **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

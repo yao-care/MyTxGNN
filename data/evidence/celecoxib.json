@@ -1,0 +1,1081 @@
+{
+  "drug": "Celecoxib",
+  "drugbank_id": "DB00482",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:24:11Z",
+  "indications": [
+    {
+      "indication": "osteoarthritis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 12,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 7,
+        "rct_articles": 2,
+        "review_articles": 8,
+        "other_articles": 0,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "spondyloarthropathy, susceptibility to",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "rheumatoid arthritis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 3,
+        "phase1_trials": 2,
+        "other_trials": 12,
+        "rct_articles": 2,
+        "review_articles": 7,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "osteoarthritis susceptibility",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 2,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 2,
+        "total_trials": 0,
+        "total_articles": 2
+      }
+    },
+    {
+      "indication": "ankylosing spondylitis",
+      "evidence_level": "L1",
+      "trials": 17,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 2,
+        "phase1_trials": 1,
+        "other_trials": 12,
+        "rct_articles": 2,
+        "review_articles": 3,
+        "other_articles": 5,
+        "total_trials": 17,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 57,
+  "total_articles": 33,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00546507",
+      "title": "The Efficacy and Safety of TDS-943 in the Treatment of Osteoarthritis of the Knee: Pivotal Study I",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2008-10",
+      "country": "United States",
+      "enrollment": 650,
+      "brief_summary": "The objective of this study is to evaluate the efficacy and safety of TDS-943 (topical diclofenac spray) compared to oral celecoxib and placebo in subjects with osteoarthritis of the knee. The main hypotheses are that TDS-943 will be better than placebo and no worse than celecoxib.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females in generally good health at least 40 years of age\n* Osteoarthritis (OA) of at least one knee, verified by a weight-bearing radiograph\n* Subject has taken an oral NSAID or analgesic at least 3 days during the past 30 days to treat knee OA pain\n\nExclusion Criter",
+      "endpoints": [
+        "Change from baseline in the WOMAC Composite Pain Score"
+      ],
+      "sponsor": "Mika Pharma GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT00546507"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00664560",
+      "title": "Randomized, Double-Blind, Parallel Group, Placebo-Controlled Multi-Center Study Evaluating the Efficacy of PN400 (VIMOVO) Twice Daily (Bid) and Celecoxib Once Daily (qd) in Patients With Osteoarthritis of the Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2009-01",
+      "country": "United States",
+      "enrollment": 614,
+      "brief_summary": "We will evaluate the efficacy of PN400 and an active comparator in patients that have Osteoarthritis of the knee.",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Male or non-pregnant female subjects50 years of age and older with a 6-month history of OA of the knee\n2. Female subjects were eligible for participation in the study if they were of non-childbearing potential (i.e., physiologically incapable of becoming pregnant); or of child",
+      "endpoints": [
+        "Change in Western Ontario and McMaster Universities (WOMAC) Pain Questionnaire Subscore From Baseline",
+        "Change in Western Ontario and McMaster Universities (WOMAC) Function Questionnaire Subscore From Baseline",
+        "Change in Patient Global Assessment (PGA) Subscore From Baseline"
+      ],
+      "sponsor": "POZEN",
+      "url": "https://clinicaltrials.gov/study/NCT00664560"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03031938",
+      "title": "A PROTOCOL TO MONITOR FROM BIRTH TO AGE 15 MONTHS THE NEUROLOGICAL DEVELOPMENT OF INFANTS WITH EXPOSURE IN-UTERO IN TANEZUMAB CLINICAL STUDIES AT ALL INVESTIGATIONAL SITES",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-11-03",
+      "completion_date": "2020-06-04",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "A4091065 is a multicenter, prospective, cohort study with enhance physical an neurodevelopmental surveillance to characterize the outcomes related to the development of infants up to the age of 15 months who were potentially exposed to tanezumab, placebo or comparator via maternal exposure or in utero in any tanezumb study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is an infant born to a mother who was exposed to study drug on a tanezumab clinical study.\n* The infant's mother (who was the tanezumab clinical study participant) must review, agree and sign an informed consent document explaining the details of the perinatal and post",
+      "endpoints": [
+        "Occipital-frontal Head Circumference During 0 to Less Than or Equal to (<=) 2 Months of Participant's Age",
+        "Occipital-frontal Head Circumference at 8 Months of Participant's Age",
+        "Occipital-frontal Head Circumference at 15 Months of Participant's Age"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT03031938"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01554163",
+      "title": "A Phase III, 12-Week, Randomized, Active-Comparator-Controlled, Parallel-Group, Double Blind Study in Korea to Assess the Safety and Efficacy of Etoricoxib 30 mg Versus Celecoxib 200 mg in Patients With Osteoarthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2013-03",
+      "country": "N/A",
+      "enrollment": 239,
+      "brief_summary": "The main purpose of this study is to establish that etoricoxib 30 mg is safe and not inferior to celecoxib 200 mg in the treatment of the signs and symptoms of osteoarthritis in Korean patients. Given that the efficacy of etoricoxib vs. placebo in the treatment of osteoarthritis has been established, and that prescription drugs, such as celecoxib, are available for the treatment of pain associated with osteoarthritis in Korea, it would be inappropriate to subject patients with a flare of osteoar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is at least 40 years of age\n* Clinical diagnosis of osteoarthritis of the knee for greater than 6 months based on clinical and radiographic criteria\n* Female patients of childbearing potential must have a negative pregnancy test prior to study enrollment and must agree",
+      "endpoints": [
+        "Time-Weighted Mean Change From Baseline in Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT01554163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02528188",
+      "title": "A PHASE 3 RANDOMIZED, DOUBLE-BLIND, ACTIVE-CONTROLLED, MULTICENTER STUDY OF THE LONG-TERM SAFETY AND EFFICACY OF SUBCUTANEOUS ADMINISTRATION OF TANEZUMAB IN SUBJECTS WITH OSTEOARTHRITIS OF THE HIP OR KNEE",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-07-21",
+      "completion_date": "2019-02-27",
+      "country": "Ukraine, Slovakia, Serbia, Australia, South Korea, Mexico, Lithuania, Peru, Brazil, Philippines, New Zealand, Taiwan, Russia, Colombia, Japan, Croatia, Bulgaria, United States",
+      "enrollment": 3021,
+      "brief_summary": "The purpose of this study is to compare the long-term joint safety and efficacy (pain relief) of the investigational study drug, tanezumab compared to non-steroidal anti inflammatory drugs (NSAIDs) in subjects with osteoarthritis of the hips or knees.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of osteoarthritis of the index hip or knee based on American College of Rheumatology criteria with Kellgren Lawrence X ray Grade of 2 as diagnosed by the Central Reader\n* Currently receiving a stable dose regimen of oral NSAID (naproxen, celecoxib, diclofenac, acec",
+      "endpoints": [
+        "Percentage of Participants With Adjudicated Primary Composite Joint Safety Outcome",
+        "Observation Time-Adjusted Event Rate of Participants With Adjudicated Primary Composite Joint Safety Outcome",
+        "Change From Baseline in Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale at Week 16"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02528188"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00640627",
+      "title": "A Double-Blind, Placebo-Controlled Study of the Efficacy and Tolerability of Once Daily Celebrex® (Celecoxib) vs. Placebo in the Treatment of Subjects With Osteoarthritis of the Knee Non-Responsive to Naproxen and Ibuprofen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-12",
+      "completion_date": "2004-09",
+      "country": "United States",
+      "enrollment": 380,
+      "brief_summary": "To compare the safety and efficacy of celecoxib versus placebo in the treatment of patients with knee osteoarthritis who were unresponsive to treatment with prescription strength naproxen and ibuprofen or who could not tolerate prescription strength naproxen and ibuprofen",
+      "eligibility_criteria": "Inclusion criteria:\n\n* OA of the knee in flare state at baseline visit and functional capacity class of I-III\n* Failed adequate trials of both naproxen and ibuprofen (prescription strength) within the past 5 years due to lack of efficacy, tolerability or both; duration of prescription strength ibupr",
+      "endpoints": [
+        "Change from baseline in Patient's Assessment of Arthritis Pain, according to visual analog scale (VAS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00640627"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00581685",
+      "title": "Does Optimal Pain Control With Pregabalin and Celecoxib Predict Improved Function After Total Hip Arthroplasty?",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2010-06",
+      "country": "N/A",
+      "enrollment": 31,
+      "brief_summary": "Despite the development of new pain medications, the prevalence of persistent postoperative pain (for more than three to six months) remains alarmingly high. Chronic pain and reduced function after surgery are of great concern since they have a significant impact on a patient's quality of life and are costly to society in terms of longer hospital stays and lost work days. An important risk factor for chronic pain and reduced function after surgery is the amount of pain patients experience immedi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of informed consent\n* American Society of Anesthesiologists physical status I-III\n* Average daily VAS ≥ 4\n* Aged 18 - 75 years\n* Male or female\n* Scheduled for total hip arthroplasty (THA).\n\nExclusion Criteria:\n\n* Allergy to study medications or local anesthetics\n* H",
+      "endpoints": [
+        "Physical function"
+      ],
+      "sponsor": "Sunnybrook Health Sciences Centre",
+      "url": "https://clinicaltrials.gov/study/NCT00581685"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00565500",
+      "title": "A Placebo-Controlled, Double-Blind, Randomized Study of the Potential Interaction Between Aspirin and Ibuprofen or Celecoxib.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2005-04",
+      "country": "Italy",
+      "enrollment": 24,
+      "brief_summary": "Study design: Single center, placebo-controlled, double blind, parallel groups. To evaluate the potential interaction between aspirin and ibuprofen or celecoxib in patients with osteoarthritis (OA) and documented stable ischemic heart disease, a total of 24 patients chronically treated with aspirin will be randomly assigned to one of the 3 treatment groups: 1) celecoxib 200 mg bid; 2) ibuprofen 600 mg tid; 3) placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. male or female, age 18-75;\n2. subjects with osteoarthritis and documented stable ischemic heart disease;\n3. the patient is on long-term aspirin prophylaxis for the ischemic condition;\n4. the patient requires or is eligible for chronic treatment with an antiinflammatory and/or",
+      "endpoints": [
+        "serum thromboxane (TX)B2"
+      ],
+      "sponsor": "G. d'Annunzio University",
+      "url": "https://clinicaltrials.gov/study/NCT00565500"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06328153",
+      "title": "Biomechanically Based Fu's Subcutaneous Needling Treatment for Senile Keen Osteoarthritis: Protocol For a Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-03-15",
+      "completion_date": "2026-03-01",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "The goal of this clinical trial is to compare FSN with oral Nonsteroidal Antiinflammatory Drugs (NSAIDs) in pain relief and improvement in knee function among elder people, the main questions it aims to answer are:\n\nQ1: Compared with the positive drug (celecoxib), whether FSN is more or at least as effective for pain relief and improvement in knee function in elder people with knee arthritis.\n\nQ2: From the biomechanical point of view, what is the mechanism by which FSN plays a therapeutic role i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged between 60-80 years old.\n* BMI\\<28.\n* Clinical diagnosis of knee osteoarthritis.\n* Kellgren-Lawrence grade 1-3.\n* Knee pain score \\> 3 on an 10-point numerical rating scale (VAS).\n* Having no obvious deformity.\n* Having not taken other medication and other modalities of t",
+      "endpoints": [
+        "Change from Baseline in the visual analogue scale (VAS) (0-100 mm) at the 14th day after receiving treatment."
+      ],
+      "sponsor": "Guangdong Provincial Hospital of Traditional Chinese Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT06328153"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00476034",
+      "title": "A 39-week, Double-blind, Active-controlled Extension to CCOX189A2361, a 13-week, Multicenter, Randomized, Double-blind, Double-dummy, Placebo-controlled, Parallel Trial of 2 Different Dose Regimens of Lumiracoxib (100 mg od and 200 mg od Initial Dose for Two Weeks Followed by 100 mg od) in Patients With Primary Knee Osteoarthritis, Using Celecoxib (200 mg od) as a Comparator",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-12",
+      "completion_date": "",
+      "country": "Netherlands, Slovakia, Germany, South Africa, Sweden, Australia, Israel, Austria, Hungary, New Zealand, Turkey (Türkiye), Finland, Czechia, Spain, Poland",
+      "enrollment": 1312,
+      "brief_summary": "This 39-week, active controlled, study is designed to assess long-term efficacy, safety and tolerability of lumiracoxib 100mg od in patients with osteoarthritis (OA) of the knee who participated in the 13-week core CCOX189A2361 study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Any patient who completed the core study 2361 may enter the extension trial upon signing informed consent. A patient is defined as completing if he/she completed the core study 2361 up to and including Visit 6 (week 13) without a major protocol violation.\n\nExclusion Criteria:\n",
+      "endpoints": [
+        "To compare lumiracoxib 100mg od to celecoxib 200mg od in treating osteoarthritis (OS) of the target knee with respect to:",
+        "Overall OA pain intensity in the target knee on a 0-100 mm Visual Analog Scale (VAS) at 26 weeks.",
+        "Patient's global assessment of disease activity on a 0-100mm VAS at 26 weeks."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00476034"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01279395",
+      "title": "Impact of Anti-inflammatory Agents on Cholesterol Metabolism and Atherogenic Potency of Patient Plasma",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2010-11",
+      "completion_date": "2018-01-18",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "We hypothesize that administration of anti-inflammatory medications such as celecoxib, naprosyn and diclofenac will cause changes in the blood plasma and white blood cells of patients such that they will be less able to efficiently process cholesterol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 40-70, osteoarthritis, male or female\n\nExclusion Criteria:\n\n* other known autoimmune or inflammatory rheumatic conditions, renal disease, current or recent (\\>1 month) corticosteroid or statin treatment, contraindications to medication (i.e. those taking oral anticoagulant",
+      "endpoints": [
+        "Difference in expression of the cholesterol-metabolizing enzyme cytochrome P450 cholesterol 27-hydroxylase in peripheral blood mononuclear cells (PBMC) before and after treatment with naprosyn, celecoxib or diclofenac."
+      ],
+      "sponsor": "Winthrop University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01279395"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03562429",
+      "title": "The Efficacy of TGF for Treating Osteoarthritis of the Knee: A Randomized Double-blind Controlled Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2018-08-01",
+      "completion_date": "2021-12-31",
+      "country": "N/A",
+      "enrollment": 180,
+      "brief_summary": "This study is to evaluate the efficacy of herbal formula TGF treating knee joint osteoarthritis(KOA) and its biochemical mechanism. The study design is a parallel randomized, placebo-controlled, double-blind clinical trial includes 180 patients with KOA. The patients are random allocated into study group(taking TGF) and control group(taking 1/20 TGF). After the 12 weeks treatment course, another 4 weeks is to follow-up the condition without medication. Assessments will be performed before and af",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age between 50\\~75 years old\n2. diagnosis of osteoarthritis: The Clinical/Radiographic classification criteria of American College of Rheumatology, ACR\n3. chronic knee pain over 3 months.\n\nExclusion Criteria:\n\n1. the past history with systemic joint disease, such as autoimmun",
+      "endpoints": [
+        "Western Ontario & McMaster Universities Osteoarthritis Index",
+        "Visual Analogue Scale for pain",
+        "the used dosage of Celebrex"
+      ],
+      "sponsor": "China Medical University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03562429"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01535417",
+      "title": "A 12 Weeks, Randomized, Double-blind, Multi-centers, Phase III Study to Evaluate the Efficacy and Safety of Shinbaro Capsule Compared With Celebrex Capsule in Patients With Osteoarthritis of Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2009-12",
+      "country": "N/A",
+      "enrollment": 198,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of 'Shinbaro Capsule', a new herbal anti-arthritic agent, in patients with osteoarthritis of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age between 35 and 80\n* diagnosed with Knee OA based on criteria of ACR and showed ont through I \\~ III of Kellgren Stage on radiography\n* wuffered constantly with Knee OA for more than 6 months prior to begining the study\n* scored more than 30 on total WOMAC scale\n\nExclusion ",
+      "endpoints": [
+        "WOMAC change"
+      ],
+      "sponsor": "GC Biopharma Corp",
+      "url": "https://clinicaltrials.gov/study/NCT01535417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092768",
+      "title": "A 26-Week, Randomized, Placebo- and Active-Comparator-Controlled, Parallel-Group, Double-Blind, 2-Part Study to Assess the Safety and Efficacy of Etoricoxib 30 mg Versus Celecoxib 200 mg in Patients With Osteoarthritis (Study 1)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-03-01",
+      "completion_date": "2005-02-01",
+      "country": "N/A",
+      "enrollment": 500,
+      "brief_summary": "The purpose of this study is to compare the safety and effectiveness of an investigational drug and an approved drug in the treatment of osteoarthritis of the knee and hip.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the knee or hip which requires treatment with a medication to obtain pain relief\n\nExclusion Criteria:\n\n* Any known allergy to the study drugs",
+      "endpoints": [
+        "Osteoarthritis of the knee & hip as assessed by WOMAC VA 3.0 pain and physical function subscales, Patient/Investigator assessments of disease and response to therapy over 12 weeks of treatment."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092768"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00809354",
+      "title": "A PHASE 3, MULTI-CENTER, RANDOMIZED, DOUBLE-BLIND, CONTROLLED STUDY OF THE LONG-TERM ANALGESIC EFFICACY AND SAFETY OF TANEZUMAB ALONE OR IN COMBINATION WITH NON-STEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDS) VERSUS NSAIDS ALONE IN PATIENTS WITH OSTEOARTHRITIS OF THE KNEE OR HIP",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-02-12",
+      "completion_date": "2011-01-12",
+      "country": "Ukraine, Netherlands, South Africa, South Korea, Mexico, Philippines, Russia, Colombia, Spain, India, Canada, United States",
+      "enrollment": 2720,
+      "brief_summary": "The purpose of this study is to investigate the long-term analgesic efficacy and safety of tanezumab for patients with osteoarthritis (OA) of the knee or hip currently experiencing partial benefit from, and are tolerating, non-steroidal anti-inflammatory drug (NSAID) therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the knee or hip according to ACR criteria with Kellgren-Lawrence x-ray grade equal to, or greater than, 2.\n* Patients must be experiencing some benefit from their current stable dose regimen of oral NSAID therapy of either naproxen 500-1000 mg/day or celecoxi",
+      "endpoints": [
+        "Change From Baseline in the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale Score at Week 16",
+        "Change From Baseline in the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Physical Function Subscale Score at Week 16",
+        "Change From Baseline in the Patient Global Assessment (PGA) of Osteoarthritis at Week 16"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00809354"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03850587",
+      "title": "A Multi-center, Double-blinded, Randomized, Active-controlled, Parallel Design, phaseII Study to Investigate the Efficacy and Safety of YYC301 in Subject With Knee Osteoarthritis.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-08-30",
+      "completion_date": "2020-09-07",
+      "country": "South Korea",
+      "enrollment": 261,
+      "brief_summary": "A Multi-center, Double-blinded, Randomized, Active-controlled, Parallel Design, phaseII Study to Investigate the Efficacy and Safety of YYC301 in Subject With Knee Osteoarthritis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men/Women aged over 20\n* Subjects who are diagnosed with one- or both-sided knee osteoarthritis according to the standards of clinical diagnosis from American College of Rheumatology(ACR)have knee osteoarthritis pain and meet over three of the following conditions.\n\n  1. Older",
+      "endpoints": [
+        "100mm Pain VAS",
+        "KOOS(Knee Injury and Osteoarthritis Outcome Score)",
+        "Patient Global Assessment(PGA)"
+      ],
+      "sponsor": "Yooyoung Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03850587"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04170218",
+      "title": "Quality of Care for Knee and Hip Osteoarthritis in Elderly Patients: a Multicentric Observational Study in France Using Quality Indicators Assessed by Questionnaire",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-12-01",
+      "completion_date": "2022-12-01",
+      "country": "France",
+      "enrollment": 405,
+      "brief_summary": "Introduction: Hip and knee osteoarthritis (OA) was ranked in 2010 as the eleventh highest contributor to global disability. In France in 2014, non-spinal OA was the leading self-reported cause of morbidity among adults over sixty-five years of age, with a prevalence of 49.5 per cent. OA is known to be the first cause of disability in activities of daily life and a risk factor of frailty among people over seventy-five years of age. Despite its major impact on the elderly population's quality of l",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients aged seventy-five years or over\n* with symptomatic hip or knee osteoarthritis according to the American College of Rheumatology criteria\n* with pain for more than three months\n* affiliated to French social security\n* having given their oral non-opposition to participa",
+      "endpoints": [
+        "number of participants referred to an orthopedic surgeon as assessed by ACOVE's quality indicator questionnaire"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT04170218"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05930080",
+      "title": "Multi-center, Randomized, Double Blinded, Active-controlled Phase III Clinical Trial to Assess the Efficacy and Safety of SKCPT in Patients With Knee Osteoarthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-01-28",
+      "completion_date": "2022-09-30",
+      "country": "South Korea",
+      "enrollment": 278,
+      "brief_summary": "Multi-center, Randomized, Double Blinded, Active-controlled Phase III Clinical Trial to Assess the Efficacy and Safety of SKCPT in Patients with knee Osteoarthritis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult males and females aged 20 to 75 years\n* Kellgren-Lawrence (KL) grade 1 to 3\n* Individuals who voluntarily decide to participate in the study and provide written informed consent form\n* Individuals who can understand and follow instructions and can participate in the stud",
+      "endpoints": [
+        "K-WOMAC Pain Subscale"
+      ],
+      "sponsor": "SK Chemicals Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05930080"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05974501",
+      "title": "Pre vs. Postoperative Adductor Canal Block for Total Knee Arthroplasty: Prospective Randomized Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-09-29",
+      "completion_date": "2024-01-22",
+      "country": "United States",
+      "enrollment": 84,
+      "brief_summary": "The purpose of this project is to determine if a change in patient reported pain, nausea and vomiting after total knee arthroplasty can be observed with the substitution of a post operative adductor canal block for a preoperative adductor canal block in the current established peri-operative pain protocol and if these changes lead to a decrease in opioid consumption (in morphine equivalents).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1- Patients 18 or older 2 - Patients undergoing primary total knee replacement at the University of Miami Hospital 3 - Patients that have capacity to provide medical consent\n\nExclusion Criteria:\n\n1. All patients under the age of 18\n2. Prisoners, uncontrolled diabetics, increased",
+      "endpoints": [
+        "Pain Status as Measured by Numeric Pain Scale",
+        "Pain Status as Measured by Numeric Pain Scale"
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT05974501"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00630929",
+      "title": "A Study of the Efficacy and Tolerability of Once Daily Celebrex (Celecoxib) and Three Times Daily Ibuprofen vs. Placebo in the Treatment of Subjects With Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2004-02",
+      "country": "United Kingdom, Germany, Spain",
+      "enrollment": 388,
+      "brief_summary": "To compare the efficacy and safety of celecoxib versus ibuprofen in subjects with osteoarthritis (OA) of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInclusion criteria:\n\n* Aged \\>=40 years old\n* Diagnosed with OA of the knee according to the American College of Rheumatology and OA in flare state at baseline visit\n* Functional capacity class of I-III\n\nExclusion Criteria:\n\nExclusion criteria:\n\n* Inflammatory arthritis or gout ",
+      "endpoints": [
+        "Change from baseline in patient's assessment of arthritis pain according to visual analogue scale"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00630929"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "25589511",
+      "title": "Combined chondroitin sulfate and glucosamine for painful knee osteoarthritis: a multicentre, randomised, double-blind, non-inferiority trial versus celecoxib.",
+      "abstract": "To compare the efficacy and safety of chondroitin sulfate plus glucosamine hydrochloride (CS+GH) versus celecoxib in patients with knee osteoarthritis and severe pain.",
+      "journal": "Annals of the rheumatic diseases",
+      "year": "2016",
+      "authors": [
+        "Hochberg Marc C",
+        "Martel-Pelletier Johanne",
+        "Monfort Jordi",
+        "Möller Ingrid",
+        "Castillo Juan Ramón"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase IV",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Celecoxib",
+        "Chondroitin Sulfates",
+        "Cyclooxygenase 2 Inhibitors",
+        "Double-Blind Method",
+        "Drug Combinations",
+        "Edema",
+        "Female",
+        "Glucosamine",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25589511/"
+    },
+    {
+      "pmid": "30362840",
+      "title": "Amlodipine and celecoxib for treatment of hypertension and osteoarthritis pain.",
+      "abstract": "Osteoarthritis constitutes one of the leading causes of pain and disability worldwide with a significant impact on health-care costs. Patients with osteoarthritis are often affected by a number of cardiovascular comorbidities, including hypertension, which is present in about 40% of cases. Just recently, a single tablet combination of amlodipine besylate, a calcium channel blocker, and celecoxib, a nonsteroidal anti-inflammatory drug, indicated for patients for whom treatment with amlodipine for hypertension and celecoxib for osteoarthritis are appropriate, has been recently approved. Areas covered: We reviewed data from clinical studies that investigated safety and efficacy of the combination of amlodipine and celecoxib in hypertensive patients with osteoarthritis published before 31 August 2018. The literature search was conducted using research Methodology Filters. Expert commentary: The advantages of this single formulation over sequential administration include increased complianc",
+      "journal": "Expert review of clinical pharmacology",
+      "year": "2018",
+      "authors": [
+        "Angeli Fabio",
+        "Trapasso Monica",
+        "Signorotti Sara",
+        "Verdecchia Paolo",
+        "Reboldi Gianpaolo"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Amlodipine",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Antihypertensive Agents",
+        "Celecoxib",
+        "Drug Combinations",
+        "Humans",
+        "Hypertension",
+        "Osteoarthritis",
+        "Pain"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30362840/"
+    },
+    {
+      "pmid": "30240679",
+      "title": "Fixed-Dose Combination Amlodipine/Celecoxib (Consensi) for Hypertension and Osteoarthritis.",
+      "abstract": "The US Food and Drug Administration recently granted an approved indication for the first fixed-dose combination antihypertensive (amlodipine) and nonsteroidal anti-inflammatory drug (celecoxib) for treatment of comorbid hypertension and osteoarthritis. This review summarizes available data on this combination product, to be marketed as Consensi (Kitov Pharmaceuticals, Ltd, Tel Aviv, Israel), and discusses its potential place in therapy.",
+      "journal": "The American journal of medicine",
+      "year": "2019",
+      "authors": [
+        "Smith Steven M",
+        "Cooper-DeHoff Rhonda M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Amlodipine",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Antihypertensive Agents",
+        "Celecoxib",
+        "Humans",
+        "Hypertension",
+        "Osteoarthritis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30240679/"
+    },
+    {
+      "pmid": "34932581",
+      "title": "Cardiovascular safety of celecoxib in rheumatoid arthritis and osteoarthritis patients: A systematic review and meta-analysis.",
+      "abstract": "To assess the cardiovascular safety of celecoxib compared to non-selective non-steroid anti-inflammatory drugs or placebo.",
+      "journal": "PloS one",
+      "year": "2021",
+      "authors": [
+        "Cheng Bai-Ru",
+        "Chen Jia-Qi",
+        "Zhang Xiao-Wen",
+        "Gao Qin-Yang",
+        "Li Wei-Hong"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Cardiovascular System",
+        "Celecoxib",
+        "Humans",
+        "Osteoarthritis",
+        "Patient Safety"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34932581/"
+    },
+    {
+      "pmid": "27196460",
+      "title": "Efficacy and Safety of Celecoxib Therapy in Osteoarthritis: A Meta-Analysis of Randomized Controlled Trials.",
+      "abstract": "Osteoarthritis (OA) is the most common form of arthritis in older individuals and is among the most prevalent and disabling chronic conditions worldwide.We conducted a meta-analysis to determine the efficacy and safety of celecoxib, a cyclooxygenase-2 (COX-2) inhibitor in the treatment of osteoarthritis. Studies were pooled, and mean difference (MD), relative risk (RR), and its corresponding 95% confidence interval (CI) were calculated. Fifteen relevant articles were included for this meta-analysis study.We observed that osteoarthritis total score (MD = -4.41, 95% CI -7.27 to -1.55), pain subscale score (MD = -0.86, 95% CI -1.10 to -0.62), and function subscale score (MD = -2.90, 95% CI -5.12 to -0.67) in OA patients treatment with celecoxib was significantly improved than that with placebo. There was no significant difference in the incidence of adverse events (AEs), SAEs, and discontinuations due to AEs; however, the incidence of gastrointestinal AEs in OA patients treatment with cel",
+      "journal": "Medicine",
+      "year": "2016",
+      "authors": [
+        "Xu Chao",
+        "Gu Ke",
+        "Yasen Yalikun",
+        "Hou Yanjie"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Abdominal Pain",
+        "Celecoxib",
+        "Chronic Pain",
+        "Cyclooxygenase 2 Inhibitors",
+        "Diarrhea",
+        "Dyspepsia",
+        "Headache",
+        "Nausea",
+        "Osteoarthritis",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27196460/"
+    },
+    {
+      "pmid": "30575881",
+      "title": "Association of Pharmacological Treatments With Long-term Pain Control in Patients With Knee Osteoarthritis: A Systematic Review and Meta-analysis.",
+      "abstract": "Even though osteoarthritis is a chronic and progressive disease, pharmacological agents are mainly studied over short-term periods, resulting in unclear recommendations for long-term disease management.",
+      "journal": "JAMA",
+      "year": "2018",
+      "authors": [
+        "Gregori Dario",
+        "Giacovelli Giampaolo",
+        "Minto Clara",
+        "Barbetta Beatrice",
+        "Gualtieri Francesca"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Adrenal Cortex Hormones",
+        "Aged",
+        "Analgesics",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Bone Density Conservation Agents",
+        "Celecoxib",
+        "Female",
+        "Follow-Up Studies",
+        "Glucosamine",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30575881/"
+    },
+    {
+      "pmid": "16495392",
+      "title": "Glucosamine, chondroitin sulfate, and the two in combination for painful knee osteoarthritis.",
+      "abstract": "Glucosamine and chondroitin sulfate are used to treat osteoarthritis. The multicenter, double-blind, placebo- and celecoxib-controlled Glucosamine/chondroitin Arthritis Intervention Trial (GAIT) evaluated their efficacy and safety as a treatment for knee pain from osteoarthritis.",
+      "journal": "The New England journal of medicine",
+      "year": "2006",
+      "authors": [
+        "Clegg Daniel O",
+        "Reda Domenic J",
+        "Harris Crystal L",
+        "Klein Marguerite A",
+        "O'Dell James R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Celecoxib",
+        "Chondroitin Sulfates",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Glucosamine",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16495392/"
+    },
+    {
+      "pmid": "25560713",
+      "title": "Comparative effectiveness of pharmacologic interventions for knee osteoarthritis: a systematic review and network meta-analysis.",
+      "abstract": "The relative efficacy of available treatments of knee osteoarthritis (OA) must be determined for rational treatment algorithms to be formulated.",
+      "journal": "Annals of internal medicine",
+      "year": "2015",
+      "authors": [
+        "Bannuru Raveendhara R",
+        "Schmid Christopher H",
+        "Kent David M",
+        "Vaysbrot Elizaveta E",
+        "Wong John B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Systematic Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Acetaminophen",
+        "Adrenal Cortex Hormones",
+        "Analgesics, Non-Narcotic",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Celecoxib",
+        "Cyclooxygenase 2 Inhibitors",
+        "Diclofenac",
+        "Humans",
+        "Hyaluronic Acid",
+        "Ibuprofen"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25560713/"
+    },
+    {
+      "pmid": "10804043",
+      "title": "Celecoxib: a review of its use in osteoarthritis, rheumatoid arthritis and acute pain.",
+      "abstract": "Celecoxib is a cyclo-oxygenase (COX) inhibitor that exhibits relative in vitro and ex vivo selectivity for COX-2 over COX-1. Results of randomised double-blind multicentre studies indicate that celecoxib is superior to placebo and has similar efficacy as conventional nonsteroidal anti-inflammatory drugs (NSAIDs) in improving the signs and symptoms of osteoarthritis and rheumatoid arthritis. Analgesic efficacy and improvements in functional status are apparent within 2 weeks of starting therapy and are maintained throughout treatment. Available data suggest that celecoxib has analgesic efficacy in patients with postsurgical dental pain, although this is yet to be confirmed. In patients with osteoarthritis of the knee, celecoxib 100 and 200 mg and naproxen 500 mg twice daily were similarly efficacious and superior to placebo. Once and twice daily celecoxib dosage regimens provided comparable efficacy. Improvements in physical function paralleled those in pain relief. Celecoxib also has e",
+      "journal": "Drugs",
+      "year": "2000",
+      "authors": [
+        "Clemett D",
+        "Goa K L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Animals",
+        "Arthritis, Rheumatoid",
+        "Celecoxib",
+        "Cyclooxygenase Inhibitors",
+        "Electron Transport Complex IV",
+        "Humans",
+        "Osteoarthritis",
+        "Pain",
+        "Plant Proteins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10804043/"
+    },
+    {
+      "pmid": "26576862",
+      "title": "Effectiveness and safety of Glucosamine, chondroitin, the two in combination, or celecoxib in the treatment of osteoarthritis of the knee.",
+      "abstract": "This study aimed to investigate the effectiveness and safety of glucosamine, chondroitin, the two in combination, or celecoxib in the treatment of knee osteoarthritis (OA). PubMed, Embase and Cochrane Library were searched through from inception to February 2015. A total of 54 studies covering 16427 patients were included. Glucosamine plus chondroitin, glucosamine alone, and celecoxib were all more effective than placebo in pain relief and function improvement. Specifically, celecoxib is most likely to be the best treatment option, followed by the combination group. All treatment options showed clinically significant improvement from baseline pain, but only glucosamine plus chondroitin showed clinically significant improvement from baseline function. In terms of the structure-modifying effect, both glucosamine alone and chondroitin alone achieved a statistically significant reduction in joint space narrowing. Although no significant difference was observed among the five options with r",
+      "journal": "Scientific reports",
+      "year": "2015",
+      "authors": [
+        "Zeng Chao",
+        "Wei Jie",
+        "Li Hui",
+        "Wang Yi-lun",
+        "Xie Dong-xing"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Arthralgia",
+        "Celecoxib",
+        "Chondroitin",
+        "Drug Therapy, Combination",
+        "Glucosamine",
+        "Humans",
+        "Odds Ratio",
+        "Osteoarthritis, Knee",
+        "Pain Management",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26576862/"
+    },
+    {
+      "pmid": "22528818",
+      "title": "A patient with Leiden V mutation, multiple sclerosis, psoriasis, and sicca syndrome: could celecoxib and fingolimod adversely affect the heart?",
+      "abstract": "The paper describes the case of a patient affected by a combination of genetic and autoimmune diseases (multiple sclerosis, psoriatic arthritis, Leiden V mutation, and sicca syndrome) and hypertension. The psoriatic arthritis was treated with celecoxib and multiple sclerosis with fingolimod. The patient developed high fever and endocarditis, resulting in severe mitral regurgitation, atrial fibrillation, and congestive heart failure. Evidence is suggestive of adverse effects of potent immunosuppressive and anti-inflammatory therapies with biologic agents and the cardiovascular system. Fingolimod increases susceptibility to infections and induced endocarditis resulting in severe mitral regurgitation, atrial fibrillation, and congestive heart failure. Managed care systems limit the contact among basic care physicians and specialists. However, the process by which the optimal decision may be reached for a patient with a complex pathology is shared decision making, where the risk of severe ",
+      "journal": "Cardiovascular toxicology",
+      "year": "2012",
+      "authors": [
+        "Cocco G"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Arthritis, Psoriatic",
+        "Atrial Fibrillation",
+        "Autoimmune Diseases",
+        "Celecoxib",
+        "Cyclooxygenase Inhibitors",
+        "Drug Therapy, Combination",
+        "Factor V",
+        "Fingolimod Hydrochloride",
+        "Heart",
+        "Heart Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22528818/"
+    },
+    {
+      "pmid": "27959716",
+      "title": "Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis.",
+      "abstract": "The cardiovascular safety of celecoxib, as compared with nonselective nonsteroidal antiinflammatory drugs (NSAIDs), remains uncertain.",
+      "journal": "The New England journal of medicine",
+      "year": "2016",
+      "authors": [
+        "Nissen Steven E",
+        "Yeomans Neville D",
+        "Solomon Daniel H",
+        "Lüscher Thomas F",
+        "Libby Peter"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis",
+        "Cardiovascular Diseases",
+        "Celecoxib",
+        "Cyclooxygenase 2 Inhibitors",
+        "Female",
+        "Gastrointestinal Diseases",
+        "Humans",
+        "Ibuprofen"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27959716/"
+    },
+    {
+      "pmid": "34932581",
+      "title": "Cardiovascular safety of celecoxib in rheumatoid arthritis and osteoarthritis patients: A systematic review and meta-analysis.",
+      "abstract": "To assess the cardiovascular safety of celecoxib compared to non-selective non-steroid anti-inflammatory drugs or placebo.",
+      "journal": "PloS one",
+      "year": "2021",
+      "authors": [
+        "Cheng Bai-Ru",
+        "Chen Jia-Qi",
+        "Zhang Xiao-Wen",
+        "Gao Qin-Yang",
+        "Li Wei-Hong"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Cardiovascular System",
+        "Celecoxib",
+        "Humans",
+        "Osteoarthritis",
+        "Patient Safety"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34932581/"
+    },
+    {
+      "pmid": "28597983",
+      "title": "Celecoxib for rheumatoid arthritis.",
+      "abstract": "Rheumatoid arthritis is a systemic auto-immune disorder that causes widespread and persistent inflammation of the synovial lining of joints and tendon sheaths. Presently, there is no cure for rheumatoid arthritis and treatment focuses on managing symptoms such as pain, stiffness and mobility, with the aim of achieving stable remission and improving mobility. Celecoxib is a selective non-steroidal anti-inflammatory drug (NSAID) used for treatment of people with rheumatoid arthritis.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2017",
+      "authors": [
+        "Fidahic Mahir",
+        "Jelicic Kadic Antonia",
+        "Radic Mislav",
+        "Puljak Livia"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Celecoxib",
+        "Humans",
+        "Myocardial Infarction",
+        "Pain Measurement",
+        "Randomized Controlled Trials as Topic",
+        "Stomach Ulcer",
+        "Stroke",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28597983/"
+    },
+    {
+      "pmid": "28598564",
+      "title": "WITHDRAWN: Celecoxib for rheumatoid arthritis.",
+      "abstract": "Rheumatoid arthritis (RA) is a systemic auto-immune disorder, involving persistent joint inflammation. NSAIDs are used to control the symptoms of RA, but are associated with significant gastro-intestinal toxicity, including a risk of potentially life threatening gastroduodenal perforations, ulcers and bleeds. The NSAIDs known as the selective Cox II inhibitors, of which celecoxib is a member, were developed in order to reduce the GI toxicity, but are more expensive.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2017",
+      "authors": [
+        "Garner Sarah E",
+        "Fidan Dogan",
+        "Frankish Ruth R",
+        "Judd Maria",
+        "Shea Beverley"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Celecoxib",
+        "Humans",
+        "Randomized Controlled Trials as Topic",
+        "Sulfonamides"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28598564/"
+    },
+    {
+      "pmid": "12519610",
+      "title": "Celecoxib for rheumatoid arthritis.",
+      "abstract": "Rheumatoid arthritis (RA) is a systemic auto-immune disorder, involving persistent joint inflammation. NSAIDs are used to control the symptoms of RA, but are associated with significant gastro-intestinal toxicity, including a risk of potentially life threatening gastroduodenal perforations, ulcers and bleeds. The NSAIDs known as the selective Cox II inhibitors, of which celecoxib is a member, were developed in order to reduce the GI toxicity, but are more expensive.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2002",
+      "authors": [
+        "Garner S",
+        "Fidan D",
+        "Frankish R",
+        "Judd M",
+        "Shea B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Celecoxib",
+        "Humans",
+        "Pyrazoles",
+        "Randomized Controlled Trials as Topic",
+        "Sulfonamides"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12519610/"
+    },
+    {
+      "pmid": "10804043",
+      "title": "Celecoxib: a review of its use in osteoarthritis, rheumatoid arthritis and acute pain.",
+      "abstract": "Celecoxib is a cyclo-oxygenase (COX) inhibitor that exhibits relative in vitro and ex vivo selectivity for COX-2 over COX-1. Results of randomised double-blind multicentre studies indicate that celecoxib is superior to placebo and has similar efficacy as conventional nonsteroidal anti-inflammatory drugs (NSAIDs) in improving the signs and symptoms of osteoarthritis and rheumatoid arthritis. Analgesic efficacy and improvements in functional status are apparent within 2 weeks of starting therapy and are maintained throughout treatment. Available data suggest that celecoxib has analgesic efficacy in patients with postsurgical dental pain, although this is yet to be confirmed. In patients with osteoarthritis of the knee, celecoxib 100 and 200 mg and naproxen 500 mg twice daily were similarly efficacious and superior to placebo. Once and twice daily celecoxib dosage regimens provided comparable efficacy. Improvements in physical function paralleled those in pain relief. Celecoxib also has e",
+      "journal": "Drugs",
+      "year": "2000",
+      "authors": [
+        "Clemett D",
+        "Goa K L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Animals",
+        "Arthritis, Rheumatoid",
+        "Celecoxib",
+        "Cyclooxygenase Inhibitors",
+        "Electron Transport Complex IV",
+        "Humans",
+        "Osteoarthritis",
+        "Pain",
+        "Plant Proteins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10804043/"
+    },
+    {
+      "pmid": "35234840",
+      "title": "Cardiorenal risk of celecoxib compared with naproxen or ibuprofen in arthritis patients: insights from the PRECISION trial.",
+      "abstract": "Non-steroidal anti-inflammatory drugs (NSAIDs) are among the most frequently used drugs, both prescribed and over the counter. The long-term cardiovascular safety of NSAIDs in patients with arthritis has engendered controversy. Concerns remain regarding the relative incidence and severity of adverse cardiorenal effects, particularly in arthritis patients with established cardiovascular (CV) disease or risk factors for disease as illustrated by the PRECISION (Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen) trial participants (NCT00346216).We further investigated whether the selective COX-2 Inhibitor celecoxib has a superior cardiorenal safety profile compared with ibuprofen or naproxen in the PRECISION population.",
+      "journal": "European heart journal. Cardiovascular pharmacotherapy",
+      "year": "2022",
+      "authors": [
+        "Obeid Slayman",
+        "Libby Peter",
+        "Husni Elaine",
+        "Wang Qiuqing",
+        "Wisniewski Lisa M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Cardiovascular Diseases",
+        "Celecoxib",
+        "Humans",
+        "Ibuprofen",
+        "Naproxen",
+        "Prospective Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35234840/"
+    },
+    {
+      "pmid": "38879555",
+      "title": "Baricitinib ameliorates inflammatory and neuropathic pain in collagen antibody-induced arthritis mice by modulating the IL-6/JAK/STAT3 pathway and CSF-1 expression in dorsal root ganglion neurons.",
+      "abstract": "Janus kinase (JAK) inhibitors, such as baricitinib, are widely used to treat rheumatoid arthritis (RA). Clinical studies show that baricitinib is more effective at reducing pain than other similar drugs. Here, we aimed to elucidate the molecular mechanisms underlying the pain relief conferred by baricitinib, using a mouse model of arthritis.",
+      "journal": "Arthritis research & therapy",
+      "year": "2024",
+      "authors": [
+        "Makabe Kenta",
+        "Okada Hiroyuki",
+        "Tachibana Naohiro",
+        "Ishikura Hisatoshi",
+        "Ito Norihito"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Mice",
+        "Arthritis, Experimental",
+        "Azetidines",
+        "Ganglia, Spinal",
+        "Interleukin-6",
+        "Janus Kinase Inhibitors",
+        "Mice, Inbred DBA",
+        "Neuralgia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38879555/"
+    },
+    {
+      "pmid": "10860137",
+      "title": "Treatment options for rheumatoid arthritis: celecoxib, leflunomide, etanercept, and infliximab.",
+      "abstract": "To review new pharmacologic agents approved for use in the management of rheumatoid arthritis (RA).",
+      "journal": "The Annals of pharmacotherapy",
+      "year": "2000",
+      "authors": [
+        "Luong B T",
+        "Chong B S",
+        "Lowder D M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Antibodies, Monoclonal",
+        "Antirheumatic Agents",
+        "Arthritis, Rheumatoid",
+        "Celecoxib",
+        "Drug Interactions",
+        "Etanercept",
+        "Female",
+        "Humans",
+        "Immunoglobulin G"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10860137/"
+    }
+  ]
+}

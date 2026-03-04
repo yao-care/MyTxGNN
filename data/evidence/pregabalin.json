@@ -1,0 +1,994 @@
+{
+  "drug": "Pregabalin",
+  "drugbank_id": "DB00230",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:20:10Z",
+  "indications": [
+    {
+      "indication": "fibromyalgia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 14,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "myofascial pain syndrome",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 5,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 15,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 5
+      }
+    },
+    {
+      "indication": "anxiety disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 12,
+        "rct_articles": 0,
+        "review_articles": 8,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "postherpetic neuralgia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 5,
+        "phase1_trials": 2,
+        "other_trials": 10,
+        "rct_articles": 1,
+        "review_articles": 9,
+        "other_articles": 0,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "fibromyalgia",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 14,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 9
+      }
+    }
+  ],
+  "total_trials": 100,
+  "total_articles": 43,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07171320",
+      "title": "Comparing the Efficacy and Safety of Pregabalin Monotherapy With Pregabalin Combined Other Neuromodulatory Drugs (Desvenlafaxine) in the Treatment of Fibromyalgia: A Multicenter Clinical Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-15",
+      "completion_date": "2027-08-31",
+      "country": "China",
+      "enrollment": 384,
+      "brief_summary": "Fibromyalgia (FM) is a chronic pain syndrome characterized by widespread pain, fatigue, and emotional disorders. Its onset is related to factors such as central sensitization and imbalance of neurotransmitters. The current mainstream treatments include pregabalin, but the efficacy of pregabalin is limited, with only 25%-40% pain relief rate, and adverse reactions are common. Selective serotonin and norepinephrine reuptake inhibitors (SNRIs), such as duloxetine and venlafaxine, have demonstrated ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with FM according to the 2016 Revisions to the 2010/2011 FM diagnostic criteria;\n* Aged 18 years or older;\n* Experiencing moderate to severe FM that have not been effectively alleviated by non-pharmacological treatments and has not received currently recommended phar",
+      "endpoints": [
+        "The average pain intensity"
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07171320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04245748",
+      "title": "Determining Optimal Treatment Sequences in Anxious Depression (DOTS-AD)",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2020-03-01",
+      "completion_date": "2025-12-31",
+      "country": "United States",
+      "enrollment": 84,
+      "brief_summary": "Acute, double-blind, adaptively randomized treatment with duloxetine or escitalopram, followed by double-blind, randomized adjunctive treatment with clonazepam or pregabalin for persistent symptoms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written, informed consent.\n* Patients must be fluent in the English.\n* 18 to 50 years of age, inclusive, at Visit 1.\n* Patients must meet DSM-5 criteria for generalized, social and/or separation anxiety disorder and/or panic disorder, confirmed by the MINI.99 Patients may also",
+      "endpoints": [
+        "Change from Baseline in Hamilton Anxiety Rating Scale (HAM-A) total score",
+        "Change from Baseline in the Clinical Global Impression of Severity (CGI-S)"
+      ],
+      "sponsor": "University of Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT04245748"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02868814",
+      "title": "The Efficacy and Safety of Pregabalin Release Tablets for the Treatment of Fibromyalgia",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2016-05",
+      "completion_date": "2019-05",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "The purpose of this study is to evaluate the Efficacy and safety of pregabalin sustained release tablets versus placebo for fibromyalgia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who met the 1990 American College of Rheumatology (ACR) criteria for fibromyalgia (ie, widespread pain present for at least 3 months, and pain in at least 11 of 18 specific tender point sites).\n\nPatients who completed at least 4 pain diaries within the last 7 days and",
+      "endpoints": [
+        "Change from baseline in mean pain score diary at Endpoint"
+      ],
+      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02868814"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01904097",
+      "title": "Study of the Brain With Optic Functional Neuroimaging in Patients With Chronic Pain Using Transcranial Direct Current Stimulation",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2013-03",
+      "completion_date": "2014-12",
+      "country": "Brazil",
+      "enrollment": 34,
+      "brief_summary": "The purpose of this study is to evaluate effectiveness and cerebral neuronal ability to adaptation in patients with fibromyalgia who receive pregabalin and transcranial direct current stimulation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\- Diagnosis of fibromyalgia according to the American College of Rheumatology criteria\n\nExclusion Criteria:\n\n* Psychiatric or neurologic disorder that unable patient to consent and follow study protocol.\n* De-compensated systemic disease.\n* Chronic inflammatory disease (e.g. ",
+      "endpoints": [
+        "Change in the pressure pain threshold.",
+        "Change in cortical excitability parameters assessed by transcranial magnetic stimulation.",
+        "Changes in motor cortex blood flow assessed by near infrared spectroscopy."
+      ],
+      "sponsor": "Hospital de Clinicas de Porto Alegre",
+      "url": "https://clinicaltrials.gov/study/NCT01904097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07208357",
+      "title": "Comparing the Efficacy and Safety of Pregabalin Monotherapy With Pregabalin Combined Other Neuromodulatory Drugs (Toludesvenlafaxine) in the Treatment of Fibromyalgia: A Multicenter Clinical Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-10-20",
+      "completion_date": "2027-08-31",
+      "country": "China",
+      "enrollment": 384,
+      "brief_summary": "Fibromyalgia (FM) is a chronic pain syndrome characterized by widespread pain, fatigue, and emotional disorders. Its onset is related to factors such as central sensitization and imbalance of neurotransmitters. The current mainstream treatments include pregabalin, but the efficacy of pregabalin is limited, with only 25%-40% pain relief rate, and adverse reactions are common. Selective serotonin and norepinephrine reuptake inhibitors (SNRIs), such as duloxetine, has demonstrated efficacy in FM by",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with FM according to the 2016 Revisions to the 2010/2011 FM diagnostic criteria;\n* Aged 18 years or older;\n* Experiencing moderate to severe FM that have not been effectively alleviated by non-pharmacological treatments and has not received currently recommended phar",
+      "endpoints": [
+        "The average pain intensity"
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07208357"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03712475",
+      "title": "A Randomized, Single-dose, Parallel-group Study to Evaluate the Pharmacokinetic Profiles of Two Formulation of Pregabalin in Healthy Volunteers Under Fasting Conditions",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-01-19",
+      "completion_date": "2018-12-03",
+      "country": "Taiwan",
+      "enrollment": 28,
+      "brief_summary": "A Randomized, Single-Dose, Parallel-Group Study to Evaluate the Pharmacokinetic Profiles of Two Formulations of Pregabalin after Oral Administration in Healthy Volunteers under Fasting Conditions",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy adult male subjects between 20-45 years of age.\n2. Body weight within 80-120% of ideal body weight.\n\n   \\* Ideal body weight (kg) = \\[height (cm) - 80\\] \\*0.7 for male subjects\n3. Acceptable medical history and physical examination including:\n\n   * no particular clini",
+      "endpoints": [
+        "Area under the plasma concentration (AUC)",
+        "Peak Drug Concentration (Cmax)",
+        "Elimination half-life (T1/2)"
+      ],
+      "sponsor": "Yung Shin Pharm. Ind. Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03712475"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07230171",
+      "title": "Comparing the Efficacy and Safety of Conventional Therapy With Conventional Therapy Combined Esketamine in the Treatment of Fibromyalgia: A Multicenter Clinical Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-15",
+      "completion_date": "2027-08-31",
+      "country": "China",
+      "enrollment": 106,
+      "brief_summary": "Fibromyalgia is a chronic pain syndrome where current medications have limited efficacy and a slow onset of action. Esketamine shows potential as a rapid-acting analgesic, but previous low-dose studies failed to demonstrate long-term benefits. The efficacy of higher-dose ESK as an adjunctive therapy when standard treatments are insufficient remains unclear.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients between ages over 18 years with proper cognitive function and language skills for the study;\n* Patients diagnosed with FM as defined by the ACR FM diagnostic criteria;\n* Patients who have experienced insufficient symptom relief with non-pharmacological treatments and ",
+      "endpoints": [
+        "The median pain relief time"
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07230171"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00346034",
+      "title": "A 12 Week, Open-Label, Safety Trial Of Pregabalin In Patients With Fibromyalgia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2008-02",
+      "country": "Italy, Netherlands, Germany, Portugal, Switzerland, Sweden, France, Denmark, United Kingdom, South Korea, India, Canada",
+      "enrollment": 357,
+      "brief_summary": "The main purpose of this protocol is to evaluate the long-term safety of pregabalin in patients who participated in the previous fibromyalgia Study A0081100 and who wish to receive open-label pregabalin therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have met the inclusion criteria for the preceding fibromyalgia Protocol A0081100, and must have received pregabalin/placebo under double-blind conditions.\n\nExclusion Criteria:\n\n* Patients may not participate in the study if they experienced a serious adverse even",
+      "endpoints": [
+        "Change From Baseline to Week 4 in Pain Visual Analog Scale (VAS) Score",
+        "Change From Baseline to Week 12 in Pain Visual Analog Scale (VAS) Score"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00346034"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01226667",
+      "title": "Fixed Versus Flexible Dosing of Pregabalin in Patients With Fibromyalgia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2012-07",
+      "country": "United States",
+      "enrollment": 174,
+      "brief_summary": "A 9-week randomized double-blind, multi-center study of 172 patients, who after 1 week baseline evaluation are randomized to either fixed dose pregabalin starting at 75 mg BID for one week and increased to 150 mg BID for 7 weeks or flexibly dosed pregabalin given BID (75-300 mg/d) increased gradually over 4 weeks then maintained at that same dosing for 4 weeks.It is proposed that use of flexible dosing combined with nightly dosing would have similar pain relief to fixed dosing, would improve adh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosis of fibromyalgia by ACR criteria\n* ambulatory patients\n* complete of 5 pain diaries during 1 week evaluation\n* other inclusion criteria may apply\n\nExclusion Criteria:\n\n* pregnant or of childbearing potential not using contraceptives\n* use of pregabalin in the past\n* c",
+      "endpoints": [
+        "Pain score evaluation by NRS"
+      ],
+      "sponsor": "Osteoporosis Medical Center, Beverly Hills, CA",
+      "url": "https://clinicaltrials.gov/study/NCT01226667"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01020526",
+      "title": "A 6-month, Open-label, Safety Trial Of Pregabalin In Adolescent Patients With Fibromyalgia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2015-06",
+      "country": "India, Czechia, United States",
+      "enrollment": 63,
+      "brief_summary": "The main purpose of this study is to evaluate the long-term safety of pregabalin in adolescent patients who participated in the previous fibromyalgia study (A0081180) and who wish to recieve open-label pregabalin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have met the inclusion criteria for the preceding fibromyalgia Study A0081180, and have received pregabalin/placebo under double-blind conditions.\n\nExclusion Criteria:\n\n* Patients may not participate in the study if they experienced a serious adverse event during",
+      "endpoints": [
+        "Change From Baseline in Pain Numeric Rating Scale by Week"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01020526"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02747940",
+      "title": "Neurologic Signatures of Chronic Pain Disorders",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-12",
+      "completion_date": "",
+      "country": "Taiwan",
+      "enrollment": 200,
+      "brief_summary": "\"Brain signatures\" as objective measures of acute pain have been characterized with functional magnetic resonance image and machine learning technology. As compared to acute pain, chronic pain leads to greater socioeconomic burden. However, measures for chronic pain remain subjective and suboptimal, and the brain signatures for chronic pain are largely unknown. Chronic migraine and fibromyalgia are two prototypes primary chronic pain disorders with high disability and intractability with prevale",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Control: devoid of any systemic or neurological diseases\n* Chronic migraine: by ICHD-III (International Classification of Headache Disorder) criteria\n* Fibromyalgia: by ACR (American College of Rheumatology) 2010 criteria\n\nExclusion Criteria:\n\n* history of major systemic illne",
+      "endpoints": [
+        "clinical improvement after treatment (1) headache/pain intensity [NRS, numeric rating scale]",
+        "clinical improvement after treatment (2) headache/pain frequency [attacks per month]",
+        "clinical improvement after treatment (3) headache/pain duration [hours per day]"
+      ],
+      "sponsor": "Taipei Veterans General Hospital, Taiwan",
+      "url": "https://clinicaltrials.gov/study/NCT02747940"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01268631",
+      "title": "Mechanism-based Choice of Therapy: Can Treatments Success in Fibromyalgia Patients be Coupled to Psychophysical Pain Modulation Profile?",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2011-01",
+      "completion_date": "2013-01",
+      "country": "Israel",
+      "enrollment": 150,
+      "brief_summary": "Hypothesis:\n\nResponse to therapy in fibromyalgia can be improved by coupling of specific medications to the individual patterns of dysfunctional pain modulation. Individuals exhibit wide range of pain modulating capabilities that can be assessed by dynamic psychophysical testing. Those that exhibit less efficient endogenous analgesia and/or increased pain summation are known to be more prone to suffer from pain. Tailoring medications to compensate for the specific dysfunctioning modulatory mecha",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Fibromyalgia patients. All patients will undergo physical examination and tender point evaluation to ascertain fulfillment of the ACR 1990 criteria for classification of fibromyalgia (Wolfe et al 1990) i.e. the presence of widespread pain lasting at least 3 months and the pres",
+      "endpoints": [
+        "correlations between pain modulation and drug effect"
+      ],
+      "sponsor": "Tel-Aviv Sourasky Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01268631"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01020474",
+      "title": "A 15 Week, Randomized, Double Blind, Parallel-group, Placebo-controlled, Flexible-dose, Safety And Efficacy Study Of Pregabalin In Adolescents (12-17 Years Old) With Fibromyalgia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2014-12",
+      "country": "India, Taiwan, Czechia, United States",
+      "enrollment": 107,
+      "brief_summary": "This study will compare pregabalin with placebo over a 15 week period in adolescents with fibromyalgia aged 12-17 years to evaluate the safety and efficacy of pregabalin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of fibromyalgia\n* 12-17 years of age\n\nExclusion Criteria:\n\n* Patients with other pain conditions\n* Previous treatment with pregabalin\n* Patients taking excluded medication",
+      "endpoints": [
+        "Change From Baseline to Week 15 in Mean Pain Diary Score"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01020474"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00333866",
+      "title": "A 14 Week, Randomized, Double-Blind, Placebo-Controlled Trial Of Pregabalin Twice Daily In Patients With Fibromyalgia.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2007-11",
+      "country": "Italy, Netherlands, Germany, Portugal, Switzerland, Sweden, Australia, France, Denmark, United Kingdom, Mexico, Venezuela, Spain, South Korea, India, Canada",
+      "enrollment": 747,
+      "brief_summary": "This study, will compare pregabalin with placebo for the duration of 14 weeks to evaluate the efficacy and safety of pregabalin in patients with fibromyalgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ACR criteria for fibromyalgia\n* A score of more or equal to 40 mm on the Pain Visual Analog Scale (VAS) and a an average score more or equal to 4 on 4 daily pain diaries\n\nExclusion Criteria:\n\n* Patients with other severe pain conditions\n* Patients with severe depression\n* Pati",
+      "endpoints": [
+        "Change From Baseline in Mean Pain Score at Endpoint (Up to Week 14)",
+        "Patient Global Impression of Change (PGIC)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00333866"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03890133",
+      "title": "Exploration the Therapeutic Mechanism of Ba-Duan-Jin in the Treatment of Fibromyalgia by Improving Intestinal Microecology",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-04-01",
+      "completion_date": "2022-12-31",
+      "country": "China",
+      "enrollment": 60,
+      "brief_summary": "Fibromyalgia (FM) is a chronic debilitating musculoskeletal pain syndrome. \"Central sensitization\" is an important mechanism of the disease. Recent studies have shown that \"microbiome-gut-brain axis\" imbalance may be one of the important mechanisms of \"central sensitization\". The purpose of this study was to investigate the therapeutic mechanism of Ba-Duan-Jin therapy in the treatment of fibromyalgia by improving intestinal microecology. The mechanism was evaluated by comparing the results of br",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* meet the 1990 American College of Rheumatology (ACR) Research Classification Criteria for fibromyalgia and 2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria;\n* be between the ages of 18 to 70 years;\n* not taking medication for FM for at least 4 weeks;\n* no speci",
+      "endpoints": [
+        "The change of the Visual Analogue Scale (VAS) for pain from baseline."
+      ],
+      "sponsor": "Guang'anmen Hospital of China Academy of Chinese Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03890133"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01432236",
+      "title": "A Phase 3b Multicenter, Double-blind, Randomized, Placebo-controlled, 2-way Crossover Study Of Pregabalin In The Treatment Of Fibromyalgia With Concurrent Antidepressant Therapy For Comorbid Depression (Protocol A0081275)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2013-07",
+      "country": "Italy, Canada, Spain, United States",
+      "enrollment": 197,
+      "brief_summary": "The intent of this study is to identify and treat fibromyalgia subjects with comorbid depression who are receiving an SSRI (selective serotonin reuptake inhibitor) or SNRI (selective norepinephrine reuptake inhibitor) primarily for their depression and to determine whether pregabalin demonstrates improvement relative to placebo in improving pain associated with fibromyalgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or women of any race or ethnicity who are at least 18 years of age.\n* Adult women and men with a diagnosis of fibromyalgia and stable depression (major depressive disorder, depression not otherwise specified (NOS), or dysthymia) who have been taking an antidepressant (SSRI",
+      "endpoints": [
+        "Mean NRS Pain Score at End of Period."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01432236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01220180",
+      "title": "Post Marketing Surveillance Study For Observing Safety And Efficacy Of Lyrica",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2011-04",
+      "country": "N/A",
+      "enrollment": 4175,
+      "brief_summary": "This study collects post-marketing safety and efficacy surveillance data in real world clinical use of pregabalin for its approved indications in Korea.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Any patient treated with pregabalin for an approved indication by Korean Food and Drug Administration\n\nExclusion Criteria:\n\n* Non-consenting\n* Hypersensitivity to the active substance or to any of the excipients\n* galactose intolerance, Lapp lactase deficiency or glucose-galac",
+      "endpoints": [
+        "Percentage of Participants Achieving 28 Days Seizure Free Period in Intent-to Treat (ITT) Population",
+        "Percentage of Participants Achieving 28 Days Seizure Free Period in Per Protocol (PP) Population",
+        "Percentage of Participants With Improvement in Seizure Frequency in ITT Population"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01220180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01397006",
+      "title": "Fibromyalgia of Less Than One Year Duration in Primary Care: Treatment Response in a Double Blind, Placebo Controlled Study of Pregabalin",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2011-09",
+      "completion_date": "2014-03",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of the study is to evaluate whether pregabalin is effective in treating subjects who have had fibromyalgia for less than one year. Pregabalin has been approved by the FDA for treatment of fibromyalgia. the purpose of the study is to see if subjects identified through their primary care physicians who have fibromyalgia and have had symptoms for less than one year respond to pregabalin and to identify characteristics of that response.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Meet the 2010 ACR criteria for diagnosis of fibromyalgia (See Appendix)\n\n  * Meet the 1990 ACR criteria for the classification of fibromyalgia (See Appendix)\n  * Patients have a pain VAS \\> 4\n  * Patients are able to understand and sign informed consent\n  * Patients are able",
+      "endpoints": [
+        "Change in pain VAS from study entry to end of study"
+      ],
+      "sponsor": "Newton-Wellesley Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01397006"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07382921",
+      "title": "Efficacy and Safety of Pregabalin/Tizanidine vs. Pregabalin in Patients With Fibromyalgia: a Prospective, Randomized, Open-label, Blinded Endpoint (PROBE) Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-30",
+      "completion_date": "2026-08",
+      "country": "China",
+      "enrollment": 164,
+      "brief_summary": "Fibromyalgia (FM) is a chronic pain syndrome characterized by widespread pain, fatigue, and emotional disorders. Its onset is related to factors such as central sensitization and imbalance of neurotransmitters. The current mainstream treatments include pregabalin, but the efficacy of pregabalin is limited, with only 25%-40% pain relief rate, and adverse reactions are common.Tizanidine is an imidazoline derivative and a centrally acting alpha-2 receptor agonist with skeletal muscle relaxant, seda",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1.Aged 18-65 years. 2.Fulfill the 2016 updated American College of Rheumatology (ACR) diagnostic criteria for fibromyalgia.\n\n  3.Sufficient cognitive function, visual acuity and language skills to complete questionnaires and pain diaries and to participate in telephone communi",
+      "endpoints": [
+        "Average pain intensity"
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07382921"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05292066",
+      "title": "Efficacy of Variable Doses of Pregabalin Vs Duloxetine in Diabetic Peripheral Neuropathic Pain: A Comparative Study",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2022-10",
+      "completion_date": "2022-12",
+      "country": "N/A",
+      "enrollment": 126,
+      "brief_summary": "Background Diabetic neuropathy is a widespread, debilitating condition and its management needs a significant cost. Around, 50% of diabetes mellitus (DM) patients suffer from Diabetic Peripheral Neuropathic Pain (DPNP). According to the reported data, specific anticonvulsants and antidepressants are effective for coping diabetic peripheral neuropathy. Two drugs, duloxetine and pregabalin, are officially permitted by the Food and Drug Administration (FDA) for the management of DPNP.\n\nMethodology ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Both male and female patient with age more than 18 years to 70 years.\n* Patients diagnosed with peripheral neuropathic pain affected by diabetes from at least 24 weeks and all other causes off peripheral painful neuropathy has been already excluded by their primary physician.\n",
+      "endpoints": [
+        "visual analogue scale score.",
+        "Toronto clinical neuropathy score"
+      ],
+      "sponsor": "Aga Khan University",
+      "url": "https://clinicaltrials.gov/study/NCT05292066"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "36791450",
+      "title": "Fibromyalgia: Diagnosis and Management.",
+      "abstract": "Fibromyalgia is a chronic, centralized pain syndrome characterized by disordered processing of painful stimuli. Fibromyalgia is diagnosed more frequently in women and occurs globally, affecting 2% of people in the United States. Patients with fibromyalgia have diffuse chronic pain, poor sleep, fatigue, cognitive dysfunction, and mood disturbances. Comorbid conditions, such as functional somatic syndromes, psychiatric diagnoses, and rheumatologic conditions may be present. The Fibromyalgia Rapid Screening Tool is a helpful screening method for patients with diffuse chronic pain. The American College of Rheumatology criteria or the Analgesic, Anesthetic, and Addiction Clinical Trial Translations Innovations Opportunities and Networks-American Pain Society Pain Taxonomy diagnostic criteria can diagnose fibromyalgia. Establishing the diagnosis and providing education can reassure patients and decrease unnecessary testing. A multidisciplinary approach that incorporates nonpharmacologic ther",
+      "journal": "American family physician",
+      "year": "2023",
+      "authors": [
+        "Winslow Bradford T",
+        "Vandal Carmen",
+        "Dang Laurel"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Fibromyalgia",
+        "Chronic Pain",
+        "Pregabalin",
+        "Analgesics",
+        "Duloxetine Hydrochloride"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36791450/"
+    },
+    {
+      "pmid": "38279728",
+      "title": "Diet and Lifestyle Modifications for Fibromyalgia.",
+      "abstract": "Fibromyalgia (FM) is a complex, widespread pain disorder characterized by symptoms such as fatigue, sleep deprivation, mental fog, mood swings, and headaches. Currently, there are only three FDA-approved medications for FM patients: duloxetine, milnacipran, and pregabalin, with outcomes frequently being inadequate. This research team aims to investigate the effects of diet and lifestyle modifications on FM, with emphasis on anti-inflammatory diet, antioxidants, and gluten-free diets, as well as supplementation with Magnesium, CQ10, and Vitamin D, microbiome, sleep, exercise, and cognitive behavioral therapy. We reviewed the pathophysiology of certain foods that can be proinflammatory with the release of cytokines leading to activation of pain, fatigue and aggravation of the majority of Fibromyalgia symptoms. A literature review was performed by identifying FM articles published between 1994 and 2022 via PubMed and EMBASE databases, with particular emphasis on randomized controlled tria",
+      "journal": "Current rheumatology reviews",
+      "year": "2024",
+      "authors": [
+        "Metyas Caroline",
+        "Aung Tun Tun",
+        "Cheung Jennifer",
+        "Joseph Marina",
+        "Ballester Andrew M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Fibromyalgia",
+        "Diet",
+        "Life Style",
+        "Exercise"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38279728/"
+    },
+    {
+      "pmid": "32345589",
+      "title": "Pregabalin and gabapentin for pain.",
+      "abstract": "",
+      "journal": "BMJ (Clinical research ed.)",
+      "year": "2020",
+      "authors": [
+        "Mathieson Stephanie",
+        "Lin Chung-Wei Christine",
+        "Underwood Martin",
+        "Eldabe Sam"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Analgesics",
+        "Diabetic Neuropathies",
+        "Evidence-Based Medicine",
+        "Fibromyalgia",
+        "Gabapentin",
+        "Humans",
+        "Neuralgia",
+        "Neuralgia, Postherpetic",
+        "Pregabalin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32345589/"
+    },
+    {
+      "pmid": "27345098",
+      "title": "Alpha2delta ligands, gabapentin, pregabalin and mirogabalin: a review of their clinical pharmacology and therapeutic use.",
+      "abstract": "The first two alpha2delta ligands - gabapentin (GBP) and pregabalin (PGB) - were initially synthesized as antiepileptics; however, they were later also found to be useful for the treatment of additional conditions. Areas covered: Relevant publications describing potential underlying mechanisms, clinical pharmacokinetics/pharmacokinetics, and clinical efficacy and safety of these drugs in various disease conditions were searched in PubMed and Scopus and included in this review. Expert commentary: GBP and PGB are effective for the treatment neuropathic pain, fibromyalgia and epilepsy; in addition, they may be useful for the reduction of postoperative pain. PGB is also effective for the treatment of generalized anxiety disorder and GBP for the treatment of restless legs syndrome. GBP may be considered a treatment option for pain associated with Guillain-Barré Syndrome and phantom limb and for the management of uremic pruritus. Mirogabalin (MGB), recently developed, is being investigated f",
+      "journal": "Expert review of neurotherapeutics",
+      "year": "2016",
+      "authors": [
+        "Calandre Elena P",
+        "Rico-Villademoros Fernando",
+        "Slim Mahmoud"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Amines",
+        "Bridged Bicyclo Compounds",
+        "Calcium Channel Blockers",
+        "Cyclohexanecarboxylic Acids",
+        "Gabapentin",
+        "Humans",
+        "Ligands",
+        "Nervous System Diseases",
+        "Pregabalin",
+        "gamma-Aminobutyric Acid"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27345098/"
+    },
+    {
+      "pmid": "39744264",
+      "title": "Pain Management in Fibromyalgia: Evaluating the Roles of Pregabalin, Duloxetine, and Milnacipran.",
+      "abstract": "Introduction Fibromyalgia is a chronic pain disorder characterized by widespread pain, fatigue, and sleep disturbances. The purpose of this study was to compare how well duloxetine, pregabalin, and milnacipran worked for fibromyalgia patients in terms of pain management, quality of life, and sleep quality. Methodology A prospective cohort research study with 193 fibromyalgia patients was carried out at the Abbas Institute of Medical Sciences, Muzaffarabad, Pakistan. For a total study duration of nine months, participants were prescribed milnacipran, pregabalin, or duloxetine for six months, and followed up monthly for an additional three months after completing therapy. At baseline and at the conclusion of the study, measures of pain intensity, quality of life (Fibromyalgia Impact Questionnaire, FIQ), and sleep quality (Pittsburgh Sleep Quality Index, PSQI) were taken. Analysis of variance (ANOVA) and paired t-tests were among the statistical studies carried out. Results Significant im",
+      "journal": "Cureus",
+      "year": "2024",
+      "authors": [
+        "Faizan Ejaz Khawaja",
+        "Wani Rehan",
+        "Akbar Amna",
+        "Umaira Khan Qudsia",
+        "Ishtiaq Hifza"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39744264/"
+    },
+    {
+      "pmid": "26937205",
+      "title": "Clinical utility, safety, and efficacy of pregabalin in the treatment of fibromyalgia.",
+      "abstract": "Fibromyalgia is a chronic debilitating medical syndrome with limited therapeutic options. Pregabalin, an anticonvulsant and α-2-Δ subunit receptor ligand, is one of the anchor drugs approved by the US Food and Drug Administration for the treatment of fibromyalgia. The drug has shown clinically meaningful benefits across multiple symptom domains of fibromyalgia. Efficacy of pregabalin in fibromyalgia pain has been evaluated in at least five high-quality randomized trials, two long-term extension studies, a meta-analysis, a Cochrane database systematic review, and several post hoc analyses. These studies also hint towards a meaningful benefit on sleep, functioning, quality of life, and work productivity. Side effects of pregabalin, although common, are mild to moderate in intensity. They are noted early during therapy, improve or disappear with dose reduction, and are not usually life- or organ threatening. In most patients, tolerance develops to the most common side effects, dizziness, ",
+      "journal": "Drug, healthcare and patient safety",
+      "year": "2016",
+      "authors": [
+        "Bhusal Santosh",
+        "Diomampo Sherilyn",
+        "Magrey Marina N"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26937205/"
+    },
+    {
+      "pmid": "35587348",
+      "title": "Comparison of Amitriptyline and US Food and Drug Administration-Approved Treatments for Fibromyalgia: A Systematic Review and Network Meta-analysis.",
+      "abstract": "Amitriptyline is an established medication used off-label for the treatment of fibromyalgia, but pregabalin, duloxetine, and milnacipran are the only pharmacological agents approved by the US Food and Drug Administration (FDA) to treat fibromyalgia.",
+      "journal": "JAMA network open",
+      "year": "2022",
+      "authors": [
+        "Farag Hussein M",
+        "Yunusa Ismaeel",
+        "Goswami Hardik",
+        "Sultan Ihtisham",
+        "Doucette Joanne A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Amitriptyline",
+        "Duloxetine Hydrochloride",
+        "Fatigue",
+        "Female",
+        "Fibromyalgia",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Milnacipran",
+        "Pain"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35587348/"
+    },
+    {
+      "pmid": "38927473",
+      "title": "Management of Fibromyalgia: An Update.",
+      "abstract": "Fibromyalgia, a chronic pain condition marked by abnormal pain processing, impacts a significant part of the population, leading to reduced quality of life and function. Hallmark symptoms include widespread persistent pain, sleep disturbances, fatigue, cognitive dysfunction, and mood changes. Through this updated review, we aim to contribute to the evolving understanding and management of fibromyalgia, offering insights into the diverse tools available to improve the lives of those affected by this challenging condition. Management begins with educating patients to ultimately relieve them of unnecessary testing and provide reassurance. Treatment emphasizes a comprehensive approach, combining nonpharmacological interventions such as aforementioned education, exercise, and psychotherapy, alongside pharmacologic management-namely duloxetine, milnacipran, pregabalin, and amitriptyline-which have consistent benefits for a range of symptoms across the spectrum of fibromyalgia. Notably, drugs",
+      "journal": "Biomedicines",
+      "year": "2024",
+      "authors": [
+        "Jones Eric A",
+        "Asaad Farrah",
+        "Patel Nishil",
+        "Jain Esha",
+        "Abd-Elsayed Alaa"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38927473/"
+    },
+    {
+      "pmid": "21054455",
+      "title": "Gabapentin and pregabalin in the treatment of fibromyalgia: a systematic review and a meta-analysis.",
+      "abstract": "Fibromyalgia (FBM) is a common chronic pain disorder affecting up to 2% of the general population. Current treatment options are mostly symptom-based and limited both in efficacy and number. Two promising alternatives are gabapentin (GP) and pregabalin (PB). We aimed to estimate the efficacy and safety/tolerability of the two compounds in FBM through a systematic review and a meta-analysis of relevant randomized double-blind placebo-controlled (RCT) were performed.",
+      "journal": "Journal of clinical pharmacy and therapeutics",
+      "year": "2010",
+      "authors": [
+        "Tzellos T G",
+        "Toulis K A",
+        "Goulis D G",
+        "Papazisis G",
+        "Zampeli V A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Amines",
+        "Analgesics, Non-Narcotic",
+        "Cyclohexanecarboxylic Acids",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Fibromyalgia",
+        "Gabapentin",
+        "Humans",
+        "Male",
+        "Outcome Assessment, Health Care"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21054455/"
+    },
+    {
+      "pmid": "34544324",
+      "title": "Effectiveness of pregabalin treatment for trigger points in patients with comorbid myofascial pain syndrome and fibromyalgia syndrome: a randomized controlled trial.",
+      "abstract": "Myofascial pain syndrome (MPS) is a common problem in the general population. MPS should not be a local/peripheral painful syndrome and considered to be a syndrome of central sensitivity. We aimed to investigate the effect of pregabalin in patients with MPS in this study.",
+      "journal": "Somatosensory & motor research",
+      "year": "2021",
+      "authors": [
+        "Karamanlioglu Duygu Silte",
+        "Geler Kulcu Duygu",
+        "Ozturk Gulcan",
+        "Akpinar Pinar",
+        "Unlu Ozkan Feyza"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Fibromyalgia",
+        "Humans",
+        "Myofascial Pain Syndromes",
+        "Pregabalin",
+        "Quality of Life",
+        "Treatment Outcome",
+        "Trigger Points"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34544324/"
+    },
+    {
+      "pmid": "26937205",
+      "title": "Clinical utility, safety, and efficacy of pregabalin in the treatment of fibromyalgia.",
+      "abstract": "Fibromyalgia is a chronic debilitating medical syndrome with limited therapeutic options. Pregabalin, an anticonvulsant and α-2-Δ subunit receptor ligand, is one of the anchor drugs approved by the US Food and Drug Administration for the treatment of fibromyalgia. The drug has shown clinically meaningful benefits across multiple symptom domains of fibromyalgia. Efficacy of pregabalin in fibromyalgia pain has been evaluated in at least five high-quality randomized trials, two long-term extension studies, a meta-analysis, a Cochrane database systematic review, and several post hoc analyses. These studies also hint towards a meaningful benefit on sleep, functioning, quality of life, and work productivity. Side effects of pregabalin, although common, are mild to moderate in intensity. They are noted early during therapy, improve or disappear with dose reduction, and are not usually life- or organ threatening. In most patients, tolerance develops to the most common side effects, dizziness, ",
+      "journal": "Drug, healthcare and patient safety",
+      "year": "2016",
+      "authors": [
+        "Bhusal Santosh",
+        "Diomampo Sherilyn",
+        "Magrey Marina N"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26937205/"
+    },
+    {
+      "pmid": "18363616",
+      "title": "Fibromyalgia: harmonizing science with clinical practice considerations.",
+      "abstract": "This review summarizes the present and emerging knowledge base on the pathophysiology, diagnosis, and management of fibromyalgia.",
+      "journal": "Pain practice : the official journal of World Institute of Pain",
+      "year": "2008",
+      "authors": [
+        "Perrot Serge",
+        "Dickenson Anthony H",
+        "Bennett Robert M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Amines",
+        "Analgesics",
+        "Central Nervous System",
+        "Clinical Trials as Topic",
+        "Combined Modality Therapy",
+        "Cyclohexanecarboxylic Acids",
+        "Diagnosis, Differential",
+        "Disease Management",
+        "Exercise Therapy",
+        "Fatigue"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18363616/"
+    },
+    {
+      "pmid": "41069897",
+      "title": "Delayed-Onset Postsurgical Myofascial Pain Following Axillary Artery Cannulation: A Case Report.",
+      "abstract": "Chronic postsurgical pain (CPSP) is often attributed to neuropathic, genetic, or psychosocial factors, whereas musculoskeletal causes, such as myofascial pain syndrome (MPS), are frequently overlooked. We report a case of delayed-onset MPS as a musculoskeletal manifestation of CPSP following axillary artery cannulation, aiming to raise awareness of this potential etiology. A 48-year-old man developed persistent right anterior chest pain one year after total arch replacement surgery. Physical examination revealed postural asymmetry, atrophy of the right pectoralis major muscle, mechanical allodynia, and myofascial trigger points (MTrPs) near the cannulation site and scapula. Ultrasonography demonstrated the disrupted architecture of the pectoralis major and adjacent connective tissue. Based on clinical and sonographic findings, MPS was diagnosed. Treatment included pregabalin, ultrasound-guided trigger point injections (TPIs) with levobupivacaine and triamcinolone, and type II pectoral ",
+      "journal": "Cureus",
+      "year": "2025",
+      "authors": [
+        "Watanabe Ikuyo",
+        "Moriwaki Katsuyuki",
+        "Hachisuka Rumiko",
+        "Nakamura Ryuji",
+        "Tsutsumi Yasuo M"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41069897/"
+    },
+    {
+      "pmid": "24849638",
+      "title": "Successful use of stellate ganglion block and a new centrally acting analgesic with dual mode of action in a resistant temporomandibular joint pain.",
+      "abstract": "Stellate ganglion blocks have been shown to provide effective pain relief in a number of different conditions involving the upper body. This was demonstrated in a 65-year-old woman who had experienced severe debilitating pain in her left temporomandibular joint (TMJ) and the surrounding area of her face for over 10 years. The pain was unresponsive to indomethacin, carbamazepine, sodium valproate, gabapentin, lithium, melatonin and amitriptyline. She had also had four surgical procedures to the TMJ without success. The pain was partially responsive to Syndol tablets and pregabalin, although the use of pregabalin was limited by its adverse effects. The patient underwent 13 ultrasound guided stellate ganglion blocks over a 24-month period which demonstrated 90% pain relief for up to 10 weeks. Pulsed radio frequency lesioning showed no benefit over stellate ganglion block. More recently, tapentadol was found to be effective and this replaced the stellate ganglion blocks.",
+      "journal": "BMJ case reports",
+      "year": "2014",
+      "authors": [
+        "Jones Gareth Peter",
+        "Tripathi Shiva Shankar"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Analgesics, Opioid",
+        "Female",
+        "Humans",
+        "Nerve Block",
+        "Pain Management",
+        "Phenols",
+        "Stellate Ganglion",
+        "Tapentadol",
+        "Temporomandibular Joint Dysfunction Syndrome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24849638/"
+    },
+    {
+      "pmid": "34819636",
+      "title": "Gabapentin and pregabalin in bipolar disorder, anxiety states, and insomnia: Systematic review, meta-analysis, and rationale.",
+      "abstract": "The gabapentinoids, gabapentin, and pregabalin, target the α2δ subunits of voltage-gated calcium channels. Initially licensed for pain and seizures, they have become widely prescribed drugs. Many of these uses are off-label for psychiatric indications, and there is increasing concern about their safety, so it is particularly important to have good evidence to justify this usage. We conducted a systematic review and meta-analysis of the evidence for three of their common psychiatric uses: bipolar disorder, anxiety, and insomnia. Fifty-five double-blind randomised controlled trials (RCTs) and 15 open-label studies were identified. For bipolar disorder, four double-blind RCTs investigating gabapentin, and no double-blind RCTs investigating pregabalin, were identified. A quantitative synthesis could not be performed due to heterogeneity in the study population, design and outcome measures. Across the anxiety spectrum, a consistent but not universal effect in favour of gabapentinoids compar",
+      "journal": "Molecular psychiatry",
+      "year": "2022",
+      "authors": [
+        "Hong James S W",
+        "Atkinson Lauren Z",
+        "Al-Juffali Noura",
+        "Awad Amine",
+        "Geddes John R"
+      ],
+      "pub_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Amines",
+        "Anxiety",
+        "Bipolar Disorder",
+        "Calcium Channels",
+        "Cyclohexanecarboxylic Acids",
+        "Gabapentin",
+        "Humans",
+        "Pregabalin",
+        "Randomized Controlled Trials as Topic",
+        "Sleep Initiation and Maintenance Disorders"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34819636/"
+    },
+    {
+      "pmid": "37183813",
+      "title": "Pharmacological Treatment of Generalised Anxiety Disorder: Current Practice and Future Directions.",
+      "abstract": "Generalized Anxiety Disorder (GAD) is a common psychiatric condition, characterized by the presence of general apprehensiveness and excessive worry. Current management consists of a range of pharmacological and psychological treatments. However, many patients do not respond to first-line pharmacological treatments and novel anxiolytic drugs are being developed.",
+      "journal": "Expert review of neurotherapeutics",
+      "year": "2023",
+      "authors": [
+        "Fagan Harry A",
+        "Baldwin David S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Anti-Anxiety Agents",
+        "Anxiety Disorders",
+        "Duloxetine Hydrochloride",
+        "Pregabalin",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37183813/"
+    },
+    {
+      "pmid": "30712879",
+      "title": "Pharmacological treatments for generalised anxiety disorder: a systematic review and network meta-analysis.",
+      "abstract": "Generalised anxiety disorder is a disease that can be associated with substantial dysfunction. Pharmacological treatment is often the first choice for clinicians because of the cost and resource constraints of psychological alternatives, but there is a paucity of comparative information for the multiple available drug choices.",
+      "journal": "Lancet (London, England)",
+      "year": "2019",
+      "authors": [
+        "Slee April",
+        "Nazareth Irwin",
+        "Bondaronek Paulina",
+        "Liu Yifeng",
+        "Cheng Zhihang"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Anti-Anxiety Agents",
+        "Antidepressive Agents",
+        "Anxiety Disorders",
+        "Clinical Trials as Topic",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Hypnotics and Sedatives",
+        "Male",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30712879/"
+    },
+    {
+      "pmid": "33424664",
+      "title": "Pharmacotherapy of Anxiety Disorders: Current and Emerging Treatment Options.",
+      "abstract": "Anxiety disorders are the most prevalent psychiatric disorders and a leading cause of disability. While there continues to be expansive research in posttraumatic stress disorder (PTSD), depression and schizophrenia, there is a relative dearth of novel medications under investigation for anxiety disorders. This review's first aim is to summarize current pharmacological treatments (both approved and off-label) for panic disorder (PD), generalized anxiety disorder (GAD), social anxiety disorder (SAD), and specific phobias (SP), including selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), azapirones (e.g., buspirone), mixed antidepressants (e.g., mirtazapine), antipsychotics, antihistamines (e.g., hydroxyzine), alpha- and beta-adrenergic medications (e.g., propranolol, clonidine), and GABAergic medications (benzodiazepines, pregabalin, and gabapentin). Posttraumatic stress disorder and obsessive-compulsive disorder are excluded from this ",
+      "journal": "Frontiers in psychiatry",
+      "year": "2020",
+      "authors": [
+        "Garakani Amir",
+        "Murrough James W",
+        "Freire Rafael C",
+        "Thom Robyn P",
+        "Larkin Kaitlyn"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33424664/"
+    },
+    {
+      "pmid": "28867934",
+      "title": "Treatment of anxiety disorders.",
+      "abstract": "Anxiety disorders (generalized anxiety disorder, panic disorder/agoraphobia, social anxiety disorder, and others) are the most prevalent psychiatric disorders, and are associated with a high burden of illness. Anxiety disorders are often underrecognized and undertreated in primary care. Treatment is indicated when a patient shows marked distress or suffers from complications resulting from the disorder. The treatment recommendations given in this article are based on guidelines, meta-analyses, and systematic reviews of randomized controlled studies. Anxiety disorders should be treated with psychological therapy, pharmacotherapy, or a combination of both. Cognitive behavioral therapy can be regarded as the psychotherapy with the highest level of evidence. First-line drugs are the selective serotonin reuptake inhibitors and serotonin-norepinephrine reuptake inhibitors. Benzodiazepines are not recommended for routine use. Other treatment options include pregabalin, tricyclic antidepressan",
+      "journal": "Dialogues in clinical neuroscience",
+      "year": "2017",
+      "authors": [
+        "Bandelow Borwin",
+        "Michaelis Sophie",
+        "Wedekind Dirk"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Anxiety Agents",
+        "Anxiety Disorders",
+        "Benzodiazepines",
+        "Cognitive Behavioral Therapy",
+        "Humans",
+        "Psychotherapy",
+        "Selective Serotonin Reuptake Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28867934/"
+    },
+    {
+      "pmid": "30056792",
+      "title": "Pharmacotherapy for generalized anxiety disorder in adult and pediatric patients: an evidence-based treatment review.",
+      "abstract": "Generalized anxiety disorder (GAD) often begins during adolescence or early adulthood and persists throughout the lifespan. Randomized controlled trials support the efficacy of selective serotonin and selective serotonin norepinephrine reuptake inhibitors (SSRIs and SNRIs, respectively), as well as benzodiazepines, azapirones, anti-adrenergic medications, melatonin analogs, second-generation antipsychotics, kava, and lavender oil in GAD. However, psychopharmacologic treatment selection requires clinicians to consider multiple factors, including age, co-morbidity, and prior treatment. Areas covered: The authors review the literature concerning pharmacotherapy for pediatric and adult patients with GAD with specific commentary on the efficacy and tolerability of selected agents in these age groups. The authors describe an algorithmic approach to the pediatric and adult patient with GAD and highlight considerations for the use of selected medications in these patients. Expert opinion: In a",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2018",
+      "authors": [
+        "Strawn Jeffrey R",
+        "Geracioti Laura",
+        "Rajdev Neil",
+        "Clemenza Kelly",
+        "Levine Amir"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Antidepressive Agents",
+        "Antipsychotic Agents",
+        "Anxiety Disorders",
+        "Child",
+        "Evidence-Based Practice",
+        "Humans",
+        "Monoamine Oxidase Inhibitors",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Serotonin and Noradrenaline Reuptake Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30056792/"
+    }
+  ]
+}

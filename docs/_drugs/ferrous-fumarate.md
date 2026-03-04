@@ -5,7 +5,7 @@ drugbank_id: "DB14491"
 drug_name: "Ferrous Fumarate"
 kg_predictions: 91
 dl_predictions: 55
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 91
 brands: []
 permalink: /drugs/ferrous-fumarate/
@@ -21,7 +21,7 @@ permalink: /drugs/ferrous-fumarate/
 | **DrugBank ID** | [DB14491](https://go.drugbank.com/drugs/DB14491) |
 | **KG Predictions** | 91 |
 | **DL Predictions (≥0.7)** | 55 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

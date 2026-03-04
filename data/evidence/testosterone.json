@@ -1,0 +1,1038 @@
+{
+  "drug": "Testosterone",
+  "drugbank_id": "DB00624",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:49:29Z",
+  "indications": [
+    {
+      "indication": "congenital hypogonadotropic hypogonadism",
+      "evidence_level": "L3",
+      "trials": 15,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 1,
+        "phase1_trials": 4,
+        "other_trials": 10,
+        "rct_articles": 0,
+        "review_articles": 5,
+        "other_articles": 5,
+        "total_trials": 15,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "eunuchism",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 6,
+        "phase1_trials": 2,
+        "other_trials": 6,
+        "rct_articles": 1,
+        "review_articles": 8,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "pituitary deficiency",
+      "evidence_level": "L3",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 1,
+        "phase1_trials": 3,
+        "other_trials": 16,
+        "rct_articles": 0,
+        "review_articles": 8,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "trisomy 13",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "hypogonadotropic hypogonadism-frontoparietal alopecia syndrome",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 5,
+        "other_articles": 5,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 55,
+  "total_articles": 41,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05752591",
+      "title": "Study of the Hypothalamic-pituitary Dysfuntion in Patients With Diabetes Mellitus",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-05-25",
+      "completion_date": "2024-03-14",
+      "country": "Italy",
+      "enrollment": 200,
+      "brief_summary": "Type 2 Diabetes mellitus (T2DM) is a chronic disease with a high prevalence and several comorbidities impacting on public health and society. Among the complications of T2DM it has been showed a high prevalence of hypogonadotropic hypogonadism. Even if hypogonadism is associated to a worse metabolic profile and cardiovascular risk, it is discussed whether and when to treat this potentially reversible form associated to diabetes. In fact, the pathogenic mechanism of this condition in diabetic pat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age between 18 and 80 years old\n* males\n* proved diagnosis of T2DM\n\nExclusion Criteria:\n\n* patients affected with known hypothalamic-pituitary diseases at the enrollment.\n* patients affected with severe systemic diseases, fever, chronic inflammatory disorders with PCR \\> 10 mg",
+      "endpoints": [
+        "Prevalence of Hypogonadism",
+        "Genetic predisposition"
+      ],
+      "sponsor": "Istituto Auxologico Italiano",
+      "url": "https://clinicaltrials.gov/study/NCT05752591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00392457",
+      "title": "Feedback Control of FSH Secretion in the Human Male",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1995-07",
+      "completion_date": "2007-02",
+      "country": "United States",
+      "enrollment": 175,
+      "brief_summary": "The purpose of the research study is to learn more about the regulation of reproductive hormones in adult men. We would like to understand what role testosterone and estradiol play in controlling the release of LH (lutenizing hormone) and FSH (follicle stimulating hormone). Testosterone and estradiol come from the testes, and LH and FSH are released from a gland in the head called the pituitary.\n\nMen involved in the study will have detailed evaluations that involve overnight stays in the hospita",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men aged 18 to 50 years\n* In good health\n* On no medications\n\nExclusion Criteria:\n\nSubjects will not be enrolled in this study if there is a history of:\n\n* Liver disease or if screening blood tests demonstrate abnormal liver function tests\n* Excessive alcohol consumption\n* Ill",
+      "endpoints": [
+        "serum hormone levels"
+      ],
+      "sponsor": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+      "url": "https://clinicaltrials.gov/study/NCT00392457"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01438073",
+      "title": "Elucidating Kisspeptin Physiology by Blocking Kisspeptin Signaling",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2016-04",
+      "country": "United States",
+      "enrollment": 96,
+      "brief_summary": "The investigators are looking for subjects to complete a study on the role of kisspeptin in the reproductive system. Kisspeptin is a naturally occurring hormone in humans that tells the body to produce other reproductive hormones. However, giving someone a continued amount of kisspeptin over a period of time can have the opposite effect and tell the body to, for a short time, stop making hormones needed for reproduction. By giving 24-hour infusions of kisspeptin, the investigators hope to learn ",
+      "eligibility_criteria": "A. Healthy Subjects\n\nAll healthy subjects will meet the following criteria:\n\n* normal puberty with respect to onset and pace,\n* no difficulty with blood draws,\n* no prescription medications for at least 2 months with the exception of asthma medication (albuterol only), hypercholesterolemia medicatio",
+      "endpoints": [
+        "Average difference in Luteinizing Hormone (LH) concentration at the beginning and end of kisspeptin infusion"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01438073"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01454011",
+      "title": "Phase 4 Study That Compares the High Density Lipoprotein Cholesterol (HDL) Cholesterol Subgroups of the Patients With Congenital Hypogonadotrophic Hypogonadism With That of the Healthy Control Subjects, and Investigates the Effect of Testosterone Treatment on HDL Subgroups.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2011-02",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 140,
+      "brief_summary": "The study is designed to answer the following questions:\n\n1. Is there any difference between the compositions of the HDL cholesterol subpopulations of patients with hypogonadism and the healthy controls.\n2. What is the effect of testosterone replacement therapy on the distributions of HDL subgroups.\n3. Is there any difference between the effects of the two different testosteron replacement regiments",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Congenital hypogonadotrophic hypogonadism,\n* Male sex\n\nExclusion Criteria:\n\n* Previous history of androgen replacement,\n* any chronic disorder",
+      "endpoints": [
+        "Changes in the HDL cholesterol levels and the HDL subgroups"
+      ],
+      "sponsor": "Gulhane School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01454011"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03118479",
+      "title": "Effect of Varying Testosterone Levels on Insulin Sensitivity in Men With Idiopathic Hypogonadotropic Hypogonadism",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2010-05",
+      "completion_date": "2010-09-01",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "The investigators are doing this research study to look at the relationship between testosterone (the main sex hormone in men) and insulin (the hormone that controls blood sugar levels) in men with Idiopathic Hypogonadotropic Hypogonadism (IHH).\n\nThe investigators hypothesize that normalizing testosterone levels in men with IHH enhances insulin sensitivity, reduces visceral fat, increases lean body mass, and improves the lipid profile.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of idiopathic hypogonadotropic hypogonadism or Kallmann Syndrome\n* mean testosterone level less than 300 ng/dl\n* stable weight for the previous 3 months (no weight change greater than or equal to 10 lbs)\n* normal serum TSH\n* normal serum prolactin levels\n\nExclusion C",
+      "endpoints": [
+        "Change in glucose tolerance",
+        "Change in insulin sensitivity"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03118479"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02111434",
+      "title": "Phase 4 Study of Effect of Testosteron Treatment on the Visceral Adiposity Index and Triglyceride/High-density Lipoprotein Cholesterol Ratio in the Congenital Hypogonadotropic Hypogonadism",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-07",
+      "completion_date": "2014-04",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 150,
+      "brief_summary": "The study is designed to answer the following questions:\n\n1. What is the levels of visceral adiposity index and Triglycerides/HDL cholesterol ratio in hypogonadism?\n2. What is the effect of testosterone replacement on the visceral adiposity index and Triglycerides/HDL cholesterol ratio?",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men\n* Congenital hypogonadism\n* Treatment Naive\n\nExclusion Criteria:\n\n* Previous history of androgen replacement\n* Hypertension\n* Diabetes mellitus",
+      "endpoints": [
+        "time to change of visceral adiposity index with testosteron replacement",
+        "time to change of TG/HDL cholesterol ratio with testosteron replacement"
+      ],
+      "sponsor": "Gulhane School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02111434"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00392756",
+      "title": "Role of Gonadotropin Pulsations in the Reversal of Hypogonadotropic Hypogonadism",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1989-04",
+      "completion_date": "2019-05-16",
+      "country": "United States",
+      "enrollment": 624,
+      "brief_summary": "The purpose of the study is to examine how Kallmann syndrome (KS) and idiopathic hypogonadotropic hypogonadism (IHH) affect reproductive hormones. These disorders are caused by a defect in Gonadotropin Releasing Hormone (GnRH) secretion. GnRH is a hormone released by a small gland in the brain called the hypothalamus. When GnRH is released, it signals another gland in the brain, the pituitary, to secrete the reproductive hormones that influence sex hormone (testosterone, estrogen) levels and gam",
+      "eligibility_criteria": "Eligibility\n\nAges Eligible for Study:\n\n* Adolescents (16-17yrs)\n* Adults (18 years and older)\n\n  * Genders Eligible for Study:\n* Male and Female\n\n  * Accepts Healthy Volunteers:\n* No\n\nCriteria\n\nInclusion Criteria:\n\n* adolescent boys (age 16-17 years) and adult male individuals (age 18 years and olde",
+      "endpoints": [
+        "endogenous LH secretion pattern"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00392756"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00623116",
+      "title": "Kallmann Syndrome in Finland",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2007-12",
+      "completion_date": "2025-12",
+      "country": "Finland",
+      "enrollment": 50,
+      "brief_summary": "Objective is to characterize epidemiology, clinical and genetic features of Kallmann syndrome in Finland.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Kallmann syndrome\n* Age 15 yrs or more\n\nExclusion Criteria:\n\n* Severe mental retardation",
+      "endpoints": [
+        "Clinical features including quality of life, reversibility and genetic features of Kallmann syndrome in Finland"
+      ],
+      "sponsor": "Hospital for Children and Adolescents, Finland",
+      "url": "https://clinicaltrials.gov/study/NCT00623116"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00064987",
+      "title": "Role of FSH in Human Gonadal Development",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2001-04",
+      "completion_date": "2012-10",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "Men with idiopathic hypogonadotropic hypogonadism (IHH, Kallmann Syndrome) may have small testicular size, low testosterone levels, no history of puberty, and infertility. These men lack a hormone called gonadotropin releasing hormone (GnRH) that stimulates the development and maturation of the testes. This study will investigate the impact of hormonal treatments on men with IHH. The goal of hormonal therapy is to maximize the potential fertility in these individuals.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* no history of spontaneous puberty\n* clinical hypogonadism\n* infantile testes (\\< 3 ml)\n* no reproductive hormone therapy except testosterone\n* Complete absence of normal LH pulses during 12-hour baseline frequent blood sampling and serum testosterone \\< 100 ng/dl\n* Normal testi",
+      "endpoints": [
+        "LH",
+        "FSH",
+        "Testosterone"
+      ],
+      "sponsor": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+      "url": "https://clinicaltrials.gov/study/NCT00064987"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02111473",
+      "title": "Phase 4 Study of Effect of Testosteron Replacement Treatment on the Fibroblast Growth Factor-23, Asymmetric Dimethylarginine and Vitamin D Levels in the Congenital Hypogonadotropic Hypogonadism",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2014-04",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 49,
+      "brief_summary": "The study is designed to answer the following questions:\n\n1\\) What is the effect of testosteron replacement treatment on the endothelial dysfunction.\n\n2/ What is the effect of testosteron replacement on the bone mineral metabolism.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men\n* Congenital hypogonadism\n* Treatment Naive\n\nExclusion Criteria:\n\n* Previous history of androgen replacement\n* Hypertension\n* Diabetes mellitus",
+      "endpoints": [
+        "the effect of testosteron replacement treatment on the Fibroblast Growth Factor-23.",
+        "the effect of testosteron replacement treatment on the asymmetric dimethylarginine.",
+        "the effect of testosteron replacement treatment on the vitamin D levels."
+      ],
+      "sponsor": "Gulhane School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02111473"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02880280",
+      "title": "Human Menopausal Gonadotropin Combining With Human Chorionic Gonadotropin is Superior to Human Chorionic Gonadotropin in Therapeutic Efficacy in Adolescent Boys With Congenital Hypogonadotropic Hypogonadism",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2016-08",
+      "completion_date": "2018-12",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "Observe the therapeutic efficacy of human menopausal gonadotropin combining with human chorionic gonadotropin in adolescent boys with congenital hypogonadotropic hypogonadism.",
+      "eligibility_criteria": "Inclusion Criteria\n\nCriteria A\n\n* Boy \\>14yr without any sign of puberty, testis \\<4ml\n* BA ≥12yr\n* Sex hormone (LH,FSH, T) are pre-pubertal level\n* No other hormones problems (other pituitary glands axis are normal except gonad axis)\n* No space occupying lesion, No tumor on MRI of pituitary and hyp",
+      "endpoints": [
+        "testicular volume"
+      ],
+      "sponsor": "Beijing Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02880280"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00493961",
+      "title": "The Effects of 7 Days of Exogenous Pulsatile GnRH Treatment on the Pituitary-Gonadal Axis in Hypogonadotropic Hypogonadal Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1999-01",
+      "completion_date": "2009-11-17",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "Men with Idiopathic Hypogonadotropic Hypogonadism (IHH) lack a hormone called gonadotropin releasing hormone (GnRH). This hormone is important for starting puberty, maintaining testosterone levels, and fertility. The purpose of this study is to research the effects of treating IHH men with GnRH for 7 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of idiopathic hypogonadotropic hypogonadism (IHH) or Kallmann syndrome (KS)Adult male 18-65 years of age\n* Serum testosterone \\<100 ng/dL\n\nExclusion Criteria:\n\n* No specific exclusion criteria",
+      "endpoints": [
+        "testosterone",
+        "LH",
+        "FSH"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00493961"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01511588",
+      "title": "The Role of Gonadotropin Pulsations in the Regulation of Puberty and Fertility",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-04-25",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 111,
+      "brief_summary": "Background:\n\n\\- The body produces gonadotropin-releasing hormone (GnRH) about every 2 hours. GnRH travels through the bloodstream to the pituitary gland, where it stimulates the gland to produce hormones called gonadotropins. These hormones stimulate the testicles or ovaries. The testicles produce testosterone and develop sperm. The ovaries produce estrogen and prepare for ovulation. Normal estrogen and testosterone levels are required for puberty. Some people, however, have either low levels or",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nSince hypogonadotropic hypogonadism is a rare condition, with an incidence of 1/10,000 to 1/86,000 for isolated GnRH deficiency (43, 44), this protocol remains open to enrollment so that we may study all subjects that are both qualified and interested in participating. Males o",
+      "endpoints": [
+        "The main outcome is the identification of novel GnRH secretory patterns or non-reproductive phenotypic characteristics in individuals representing the complete spectrum of idiopathic hypogonadotropic hypogonadism."
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01511588"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02171390",
+      "title": "Phase 4 Study That Evaluates the Presence of Endothelial Dysfunction, Inflammation and Insulin Resistance in Male Subjects With Hypogonadotrophic Hypogonadism and Effects of Two Different Testosterone Replacement Regiments on These Parameters.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 130,
+      "brief_summary": "The study searched for answers to two questions\n\n1. Is there endothelial dysfunction, inflammation and insulin resistance in patients with congenital hypogonadotropic hypogonadism?\n2. What is the effect of testosterone replacement therapy on endothelial dysfunction, inflammation and insulin resistance?",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men\n* Treatment naive\n* Hypogonadotrophic hypogonadism\n\nExclusion Criteria:\n\n* Previous history of androgen replacement\n* Chronic metabolic disorders",
+      "endpoints": [
+        "The alterations in the measures for endothelial functions",
+        "The alterations in the measures of inflammation",
+        "The alterations in the measures of insulin resistance"
+      ],
+      "sponsor": "Gulhane School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02171390"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03687606",
+      "title": "Efficacy and Safety of Long Term Use of hCG or hCG Plus hMG in the Treatment of Male Patients With Isolated Hypogonadotropic Hypogonadism: an Open, Randomized Controlled Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-10-18",
+      "completion_date": "2025-10-01",
+      "country": "China",
+      "enrollment": 210,
+      "brief_summary": "This study will evaluate the efficacy and safety of long term use of hCG alone or hCG plus hMG in the treatment of male patients with isolated hypogonadotropic hypogonadism (IHH). One third of the participants will receive hCG treatment alone and the other third of the participants will receive hCG treatment alone for six months, then the hMG will be added. And the last third of the participants will receive hCG and hMG treatment since the beginning of the treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18, ≤ 45 years old;\n2. Adolescent dysplasia or loss of puberty: Genital Tanner score ﹤ 5, pubic hair Tanner score ﹤ 5;\n3. Serum FSH and LH levels are low or in normal low value, testosterone was lower than normal range (1.75ng / ml, the lower limit of the normal blood t",
+      "endpoints": [
+        "Sperm density"
+      ],
+      "sponsor": "Tongji Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03687606"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03541395",
+      "title": "Testosterone-Dependent Effects on Protein Biomarkers From Healthy Males Before and After Pharmacological Castration",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-03",
+      "completion_date": "2015-06",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "The study is designed to identify and validate new protein biomarkers in blood related to testosterone activity. Thirty healthy young males underwent pharmaceutical castration to lower testosterone levels. After three weeks the subjects received an intramuscular injection of testosterone undecanoate. Blood samples from just before pharmaceutical castration, three weeks after castration, and one week after injection of testosterone undecanoate were collected representing normal testosterone level",
+      "eligibility_criteria": "Inclusion Criteria:\n\nhealthy males\n\nExclusion Criteria:\n\nuse of anabolic steroids, use of narcotics,",
+      "endpoints": [
+        "Protein biomarkers"
+      ],
+      "sponsor": "Lund University",
+      "url": "https://clinicaltrials.gov/study/NCT03541395"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03198728",
+      "title": "A 12-Month, Randomized, Active-controlled, Open-label Study of the Efficacy and Safety of Oral Testosterone Undecanoate in Hypogonadal Men (RE-TUne)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-07-05",
+      "completion_date": "2020-05-01",
+      "country": "United States",
+      "enrollment": 314,
+      "brief_summary": "This will be a randomized, multicenter, open-label, active-controlled, efficacy, and safety study in adult hypogonadal men. The study duration is 12 months (365 days), including a 90-day, open-label efficacy period and a 9-month (275-day) safety evaluation period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male aged 18 to 65 years, inclusive, at the time of providing informed consent to participate in the study.\n2. Hypogonadism defined as having 2 consecutive serum total T levels≤ 281 ng/dL based on a blood sample, drawn at least 3 days apart, between 7 a.m. and 10 a.m.\n3. At l",
+      "endpoints": [
+        "Percentage of Male Hypogonadal Subjects With Average NaF/EDTA Plasma Total Testosterone (T Cavg) Within the Normal Range Using Oral SOV2012-F1."
+      ],
+      "sponsor": "Marius Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT03198728"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01665599",
+      "title": "A Phase 3, Open-label, Non-randomized, Clinical Trial to Evaluate the Efficacy and Safety of FE 999303 (Testosterone Gel) in Adult Hypogonadal Males",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2013-05",
+      "country": "Canada, United States",
+      "enrollment": 180,
+      "brief_summary": "This is a Phase 3 clinical trial in adult hypogonadal males with baseline serum testosterone concentrations \\<300 ng/dL. The purpose of this study is to evaluate the safety and efficacy of testosterone gel (2%) delivered using an applicator.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males between 18-75 years of age\n2. Two screening serum testosterone values less than 300 ng/dL\n3. One or more symptoms of testosterone deficiency\n\nExclusion Criteria:\n\n1. Previous use of the investigational product\n2. Use of any investigational product within 30 days prior t",
+      "endpoints": [
+        "The Percentage of Subjects on Day 90 Whose Cavg (0-24) Serum Total Testosterone Levels Are Between 300 and 1050 ng/dL"
+      ],
+      "sponsor": "Ferring Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01665599"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04717362",
+      "title": "The Effects of Natesto For Treatment Of Hypogonadism On Maintenance Of Spermatogensis.",
+      "phase": "EARLY_PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2024-03-01",
+      "completion_date": "2024-12-31",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "In this prospective study, the investigators plan is to confirm the role of Natesto (intranasal testosterone) to combat hypogonadal symptoms in men trying to recover spermatogenesis following the withdrawal of conventional Testosterone replacement therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Voluntarily sign and date the study consent form(s) which have been approved by an Institutional Review Board (IRB). Written consent must be obtained prior to the initiation of any study procedures.\n\n  2\\. Male between 18 and 64 years of age, inclusive, with documented ons",
+      "endpoints": [
+        "Change in Semen Analysis"
+      ],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT04717362"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04467697",
+      "title": "A 6 Month, Open Label, Ambulatory Blood Pressure Monitoring (ABPM) Extension Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-09-18",
+      "completion_date": "2020-05-01",
+      "country": "United States",
+      "enrollment": 155,
+      "brief_summary": "The purpose of this six-month treatment study is\n\n* to assess feasibility of a lower starting dose of SOV2012-F1 (daily dose of 400 mg \\[200 mg with breakfast meal and 200mg with dinner meal\\]) to titrate individual doses to further enhance efficacy and safety.\n* To examine the blood pressure (BP) effects of Marius's oral testosterone undecanoate formulation, SOV2012-F1, using 24-hour ambulatory blood pressure monitoring (ABPM).",
+      "eligibility_criteria": "For all subjects participating in MRS-TU-2019EXT, whether rolling over from MRS-TU-2019 (after washout) or newly enrolling, the following MRS-TU-2019EXT Inclusion/Exclusion Criteria apply:\n\nInclusion Criteria:\n\n1\\. Completion of MRS-TU-2019 Day 365/ End of Treatment\n\nExclusion Criteria:\n\n1. Upper ar",
+      "endpoints": [
+        "Change From Baseline in 24-hour Average Ambulatory Systolic Blood Pressure After 120 Days Treatment",
+        "Plasma and Serum Testosterone Efficacy of Oral SOV2012-F1 With up and Down Titration"
+      ],
+      "sponsor": "Marius Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT04467697"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "31147553",
+      "title": "Paediatric and adult-onset male hypogonadism.",
+      "abstract": "The hypothalamic-pituitary-gonadal axis is of relevance in many processes related to the development, maturation and ageing of the male. Through this axis, a cascade of coordinated activities is carried out leading to sustained testicular endocrine function, with gonadal testosterone production, as well as exocrine function, with spermatogenesis. Conditions impairing the hypothalamic-pituitary-gonadal axis during paediatric or pubertal life may result in delayed puberty. Late-onset hypogonadism is a clinical condition in the ageing male combining low concentrations of circulating testosterone and specific symptoms associated with impaired hormone production. Testosterone therapy for congenital forms of hypogonadism must be lifelong, whereas testosterone treatment of late-onset hypogonadism remains a matter of debate because of unclear indications for replacement, uncertain efficacy and potential risks. This Primer focuses on a reappraisal of the physiological role of testosterone, with",
+      "journal": "Nature reviews. Disease primers",
+      "year": "2019",
+      "authors": [
+        "Salonia Andrea",
+        "Rastrelli Giulia",
+        "Hackett Geoffrey",
+        "Seminara Stephanie B",
+        "Huhtaniemi Ilpo T"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Age Factors",
+        "Child",
+        "Humans",
+        "Hypogonadism",
+        "Male",
+        "Testosterone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31147553/"
+    },
+    {
+      "pmid": "38683021",
+      "title": "A Current Perspective on Delayed Puberty and Its Management.",
+      "abstract": "Delayed puberty is defined as the lack of development of secondary sex characteristics in childhood. Based on a review of the literature, delayed puberty can be divided into three main categories: (i) hypergonadotropic hypogonadism (congenital and acquired); (ii) permanent hypogonadotropic hypogonadism (congenital and acquired); and (iii) transient hypogonadotropic hypogonadism [constitutional delay of growth and puberty (CDGP) and functional hypogonadotropic hypogonadism]. CDGP is the most common cause of hypogonadism in both males and females, accounting for 60% and 30% respectively. Testosterone is the primary treatment for male hypogonadism, while estrogen and progesterone are used for female hypogonadism. However, in recent years, physiological induction therapy protocols such as human chorionic gonadotropin (hCG) monotherapy, hCG + follicle-stimulating hormone combined therapy, and gonadotropin-releasing hormone infusion have been recommended for the treatment of hypogonadotropic",
+      "journal": "Journal of clinical research in pediatric endocrinology",
+      "year": "2024",
+      "authors": [
+        "Abacı Ayhan",
+        "Besci Özge"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Puberty, Delayed",
+        "Hypogonadism",
+        "Male",
+        "Female",
+        "Chorionic Gonadotropin",
+        "Testosterone",
+        "Gonadotropin-Releasing Hormone",
+        "Child"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38683021/"
+    },
+    {
+      "pmid": "32445446",
+      "title": "Gonadotropin Treatment for the Male Hypogonadotropic Hypogonadism.",
+      "abstract": "Hypogonadotropic hypogonadism (HH) is caused by a dysfunction in the hypothalamus and/or the pituitary gland and it can be congenital or acquired. This condition is biochemically characterized by low or inappropriately normal gonadotropin levels along with low total testosterone levels. If fertility is not an issue, testosterone therapy is the treatment of choice to induce and maintain secondary sexual characteristics and sexual function. Spermatogenesis is frequently impaired in patients with HH, but usually responsive to hormonal therapy such as gonadotropin therapy or GnRH supplementary/replacement therapy. When gonadotropins are the choice of treatment, conventional therapy includes human chorionic gonadotropin (hCG) along with different FSH formulations: human menopausal gonadotropins (hMG), highly purified urinary FSH preparations (hpFSH) (e.g., urofollitropin) or recombinant FSH (rFSH). The combination of FSH and hCG demonstrated to be associated with better outcomes than single",
+      "journal": "Current pharmaceutical design",
+      "year": "2021",
+      "authors": [
+        "Boeri Luca",
+        "Capogrosso Paolo",
+        "Salonia Andrea"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Chorionic Gonadotropin",
+        "Female",
+        "Follicle Stimulating Hormone",
+        "Gonadotropin-Releasing Hormone",
+        "Humans",
+        "Hypogonadism",
+        "Male",
+        "Pregnancy",
+        "Spermatogenesis",
+        "Testis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32445446/"
+    },
+    {
+      "pmid": "38437850",
+      "title": "Classes and predictors of reversal in male patients with congenital hypogonadotropic hypogonadism: a cross-sectional study of six international referral centres.",
+      "abstract": "Although some male patients with congenital hypogonadotropic hypogonadism (CHH) undergo spontaneous reversal following treatment, predictors of reversal remain elusive. We aimed to assemble the largest cohort of male patients with CHH reversal to date and identify distinct classes of reversal.",
+      "journal": "The lancet. Diabetes & endocrinology",
+      "year": "2024",
+      "authors": [
+        "Dwyer Andrew A",
+        "McDonald Isabella R",
+        "Cangiano Biagio",
+        "Giovanelli Luca",
+        "Maione Luigi"
+      ],
+      "pub_types": [
+        "Multicenter Study",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "United States",
+        "Child",
+        "Adult",
+        "Humans",
+        "Male",
+        "Adolescent",
+        "Cross-Sectional Studies",
+        "Hypogonadism",
+        "Follicle Stimulating Hormone",
+        "Genital Diseases, Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38437850/"
+    },
+    {
+      "pmid": "35353710",
+      "title": "Pubertal induction and transition to adult sex hormone replacement in patients with congenital pituitary or gonadal reproductive hormone deficiency: an Endo-ERN clinical practice guideline.",
+      "abstract": "An Endo-European Reference Network guideline initiative was launched including 16 clinicians experienced in endocrinology, pediatric and adult and 2 patient representatives. The guideline was endorsed by the European Society for Pediatric Endocrinology, the European Society for Endocrinology and the European Academy of Andrology. The aim was to create practice guidelines for clinical assessment and puberty induction in individuals with congenital pituitary or gonadal hormone deficiency. A systematic literature search was conducted, and the evidence was graded according to the Grading of Recommendations, Assessment, Development and Evaluation system. If the evidence was insufficient or lacking, then the conclusions were based on expert opinion. The guideline includes recommendations for puberty induction with oestrogen or testosterone. Publications on the induction of puberty with follicle-stimulation hormone and human chorionic gonadotrophin in hypogonadotropic hypogonadism are reviewe",
+      "journal": "European journal of endocrinology",
+      "year": "2022",
+      "authors": [
+        "Nordenström A",
+        "Ahmed S F",
+        "van den Akker E",
+        "Blair J",
+        "Bonomi M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Female",
+        "Gonadal Steroid Hormones",
+        "Hormone Replacement Therapy",
+        "Humans",
+        "Hypogonadism",
+        "Male",
+        "Pituitary Diseases",
+        "Puberty",
+        "Puberty, Delayed"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35353710/"
+    },
+    {
+      "pmid": "30851011",
+      "title": "Testosterone replacement in congenital hypogonadotropic hypogonadism maintains bone density but has only limited osteoanabolic effects.",
+      "abstract": "Congenital hypogonadotropic hypogonadism (CHH) is a rare condition characterized by complete sex steroid deficiency. Therefore, CHH is a unique human model to study the impact of long-term testosterone replacement therapy (TRT) on bone.",
+      "journal": "Andrology",
+      "year": "2019",
+      "authors": [
+        "Antonio L",
+        "Caerels S",
+        "Jardi F",
+        "Delaunay E",
+        "Vanderschueren D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Bone Density",
+        "Bone Diseases, Metabolic",
+        "Child",
+        "Hormone Replacement Therapy",
+        "Humans",
+        "Hypogonadism",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30851011/"
+    },
+    {
+      "pmid": "35674463",
+      "title": "What are the pharmacological considerations for male congenital hypogonadotropic hypogonadism?",
+      "abstract": "",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2022",
+      "authors": [
+        "Rastrelli Giulia",
+        "Maggi Mario",
+        "Corona Giovanni"
+      ],
+      "pub_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [
+        "Gonadotropin-Releasing Hormone",
+        "Humans",
+        "Hypogonadism",
+        "Male",
+        "Testosterone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35674463/"
+    },
+    {
+      "pmid": "32748610",
+      "title": "Delayed puberty.",
+      "abstract": "The onset of puberty may be late - in the latter part of the predicted normal range or truly delayed - beyond this range. The latest age to start is usually regarded as 13 years in girls and 14 years in boys. There may also be a delayed completion of puberty, 16 years in girls and 17 years in boys. The initial approach requires a detailed history and clinical examination to exclude other medical or psychological problems. The presence or absence or pubertal signs should be documented. Investigations should be targeted at ruling out any medical causes and determining whether the delay is due to central gonadotropin deficiency (hypogonadotropic hypogonadism) or a gonadal disorder (hypergonadotropic hypogonadism). Physiological or constitutional delay of growth and puberty (CDGP) is more common in boys but is a diagnosis of exclusion. Current research suggests that CDGP and congenital hypogonadotropic hypogonadism have distinct genetic profiles which may aid in the differential diagnosis.",
+      "journal": "Minerva pediatrica",
+      "year": "2020",
+      "authors": [
+        "Butler Gary",
+        "Purushothaman Preetha"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adrenarche",
+        "Female",
+        "Gonadotropins",
+        "Growth Disorders",
+        "Humans",
+        "Hypogonadism",
+        "Male",
+        "Menarche",
+        "Puberty"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32748610/"
+    },
+    {
+      "pmid": "24815726",
+      "title": "Congenital hypogonadotropic hypogonadism and Kallmann syndrome as models for studying hormonal regulation of human testicular endocrine functions.",
+      "abstract": "Men with Kallmann syndrome (KS) and those with congenital isolated hypogonadotropic hypogonadism with normal olfaction share a chronic, usually profound deficit, in FSH and LH, the two pituitary gonadotropins. Many studies indicate that this gonadotropin deficiency is already present during fetal life, thus explaining the micropenis, cryptorchidism and marked testicular hypotrophy already present at birth. In addition, neonatal activation of gonadotropin secretion is compromised in boys with severe CHH/Kallmann, preventing the first phase of postnatal testicular activation. Finally, CHH is characterized by the persistence, in the vast majority of cases, of gonadotropin deficiency at the time of puberty and during adulthood. This prevents the normal pubertal testicular reactivation required for physiological sex steroid and testicular peptide production, and for spermatogenesis. CHH/KS thus represents a pathological paradigm that can help to unravel, in vivo, the role of each gonadotrop",
+      "journal": "Annales d'endocrinologie",
+      "year": "2014",
+      "authors": [
+        "Trabado Séverine",
+        "Lamothe Sophie",
+        "Maione Luigi",
+        "Bouvattier Claire",
+        "Sarfati Julie"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Cryptorchidism",
+        "Drug Therapy, Combination",
+        "Follicle Stimulating Hormone",
+        "Hormone Replacement Therapy",
+        "Hormones",
+        "Humans",
+        "Hypogonadism",
+        "Infant, Newborn",
+        "Inhibins",
+        "Kallmann Syndrome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24815726/"
+    },
+    {
+      "pmid": "32010061",
+      "title": "Hypogonadism and Cryptorchidism.",
+      "abstract": "Congenital cryptorchidism (undescended testis) is one of the most common congenital urogenital malformations in boys. Prevalence of cryptorchidism at birth among boys born with normal birth weight ranges from 1.8 to 8.4%. Cryptorchidism is associated with a risk of low semen quality and an increased risk of testicular germ cell tumors. Testicular hormones, androgens and insulin-like peptide 3 (INSL3), have an essential role in the process of testicular descent from intra-abdominal position into the scrotum in fetal life. This explains the increased prevalence of cryptorchidism among boys with diseases or syndromes associated with congenitally decreased secretion or action of androgens, such as patients with congenital hypogonadism and partial androgen insensitivity syndrome. There is evidence to support that cryptorchidism is associated with decreased testicular hormone production later in life. It has been shown that cryptorchidism impairs long-term Sertoli cell function, but may also",
+      "journal": "Frontiers in endocrinology",
+      "year": "2019",
+      "authors": [
+        "Rodprasert Wiwat",
+        "Virtanen Helena E",
+        "Mäkelä Juho-Antti",
+        "Toppari Jorma"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32010061/"
+    },
+    {
+      "pmid": "32068334",
+      "title": "Testosterone replacement therapy.",
+      "abstract": "The aim of testosterone replacement therapy (TRT) is to improve symptoms and signs of testosterone deficiency including decreased libido, erectile dysfunction, depressed mood, anaemia, loss of muscle and bone mass, by increasing serum testosterone levels to physiologic range. TRT has been used in the last 70 years, and overtime, numerous preparations and formulations have been developed to improve pharmacokinetics (PKs) and patient compliance. The routes of delivery approved for use in the Western world include buccal, nasal, subdermal, transdermal and intramuscular (IM).",
+      "journal": "Andrology",
+      "year": "2020",
+      "authors": [
+        "Barbonetti Arcangelo",
+        "D'Andrea Settimio",
+        "Francavilla Sandro"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Clinical Decision-Making",
+        "Dosage Forms",
+        "Drug Administration Routes",
+        "Drug Compounding",
+        "Eunuchism",
+        "Hormone Replacement Therapy",
+        "Humans",
+        "Male",
+        "Risk Assessment",
+        "Risk Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32068334/"
+    },
+    {
+      "pmid": "26791805",
+      "title": "Testofen, a specialised Trigonella foenum-graecum seed extract reduces age-related symptoms of androgen decrease, increases testosterone levels and improves sexual function in healthy aging males in a double-blind randomised clinical study.",
+      "abstract": "This study examined the effect of Testofen, a specialised Trigonella foenum-graecum seed extract on the symptoms of possible androgen deficiency, sexual function and serum androgen concentrations in healthy aging males. This was a double-blind, randomised, placebo-controlled trial involving 120 healthy men aged between 43 and 70 years of age. The active treatment was standardised Trigonella foenum-graecum seed extract at a dose of 600 mg/day for 12 weeks. The primary outcome measure was the change in the Aging Male Symptom questionnaire (AMS), a measure of possible androgen deficiency symptoms; secondary outcome measures were sexual function and serum testosterone. There was a significant decrease in AMS score over time and between the active and placebo groups. Sexual function improved, including number of morning erections and frequency of sexual activity. Both total serum testosterone and free testosterone increased compared to placebo after 12 weeks of active treatment. Trigonella ",
+      "journal": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+      "year": "2016",
+      "authors": [
+        "Rao Amanda",
+        "Steels Elizabeth",
+        "Inder Warrick J",
+        "Abraham Suzanne",
+        "Vitetta Luis"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Double-Blind Method",
+        "Eunuchism",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Seeds"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26791805/"
+    },
+    {
+      "pmid": "30614347",
+      "title": "Testosterone, testosterone therapy and prostate cancer.",
+      "abstract": "With prostate cancer not observed in eunuchs and total androgen suppression by castration an effective first-line treatment for advanced prostate cancer, the dramatic regression seen in tumour symptoms after castration, lead to the theory that high levels of circulating androgens were a risk factor for prostate cancer. This theory however, ignored the effects testosterone variations within a physiologic range could have on early tumour events and since the early 2000s, clinical evidence discounting testosterone as a linear mechanistic cause of prostate cancer growth mounted, with alternative mechanistic hypotheses such as the saturation model being proposed. Together with a growing understanding of the negative health effects and decreased quality of life in men with testosterone deficiency or hypogonadism, a paradigm shift away from testosterone as a prostate cancer inducer occurred allowing clinicians to use testosterone therapy as potential treatment for men with difficult and sympt",
+      "journal": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+      "year": "2019",
+      "authors": [
+        "Yassin A",
+        "AlRumaihi K",
+        "Alzubaidi R",
+        "Alkadhi S",
+        "Al Ansari A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Androgens",
+        "Humans",
+        "Hypogonadism",
+        "Male",
+        "Prostatic Neoplasms",
+        "Quality of Life",
+        "Risk Factors",
+        "Testosterone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30614347/"
+    },
+    {
+      "pmid": "25337845",
+      "title": "Testosterone and benign prostatic hyperplasia.",
+      "abstract": "The use of testosterone to treat the symptoms of late-onset hypogonadal men has increased recently due to patient and physician awareness. However, concerns regarding the effect of testosterone on the prostate, in particular any possible effect on the risk of prostate cancer have prompted further research in this regard. Surprisingly, numerous retrospective or small, randomized trials have pointed to a possible improvement in male lower urinary tract symptoms (LUTS) in patients treated with testosterone. The exact mechanism of this improvement is still debated but may have a close relationship to metabolic syndrome. For the clinician, the results of these studies are promising but do not constitute high levels of evidence. A thorough clinical examination (including history, examination and laboratory testing of testosterone) should be undertaken before considering the diagnosis of late-onset hypogonadism or instigating treatment for it. Warnings still remain on the testosterone supplem",
+      "journal": "Asian journal of andrology",
+      "year": "2015",
+      "authors": [
+        "Jarvis Thomas R",
+        "Chughtai Bilal",
+        "Kaplan Steven A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Age Factors",
+        "Eunuchism",
+        "Hormone Replacement Therapy",
+        "Humans",
+        "Lower Urinary Tract Symptoms",
+        "Male",
+        "Prostatic Hyperplasia",
+        "Quality of Life",
+        "Risk Factors",
+        "Testosterone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25337845/"
+    },
+    {
+      "pmid": "7712321",
+      "title": "Hemicorporectomy.",
+      "abstract": "Intractable decubitus ulcers and femoropelvic osteomyelitis are rare sequelae of paraplegia. Therapy for these conditions ranges from the simple to the complex, including wound debridement and care, alimentary and urinary tract diversion, hip disarticulation, and myofasciocutaneous rotational flaps. Should the condition be recalcitrant to these modalities the only curative therapy is hemicorporectomy. A 28-year-old rendered paraplegic 3 years ago presented manifesting sepsis; marasmus; hip and knee flexion contractures; suppurative sacral and femoropelvic decubitus ulcers, exposed bone, and osteomyelitis; and fecal and urinary incontinence. Pre-operative nutritional supplementation, wound debridement and care, and psychological counselling were provided. Hemicorporectomy was performed, including colostomy, ureteroileal conduit, gastrostomy, and translumbar amputation. Several anatomical, physiological, and operative-technical perspectives are emphasized: a two-staged approach may be pr",
+      "journal": "Clinical anatomy (New York, N.Y.)",
+      "year": "1995",
+      "authors": [
+        "Stelly T C",
+        "McNeil J W",
+        "Snypes S R",
+        "Thomas W O",
+        "Rodning C B"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Hemipelvectomy",
+        "Humans",
+        "Male",
+        "Osteomyelitis",
+        "Paraplegia",
+        "Pressure Ulcer"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7712321/"
+    },
+    {
+      "pmid": "25532575",
+      "title": "Diagnosis and management of testosterone deficiency.",
+      "abstract": "Testosterone supplementation therapy (TST) use has dramatically increased over the past decade, due to the availability of newer agents, aggressive marketing, and an increasing incidence of testosterone deficiency (TD). Despite the increase in TST, a degree of ambiguity remains as to the exact diagnostic criteria of TD, and administration and monitoring of TST. One explanation for this phenomenon is the complex role testosterone plays in multiple physiologic pathways. Numerous medical co-morbidities and medications can alter testosterone levels resulting in a wide range of nonspecific clinical signs and symptoms of TD. The diagnosis is also challenging due to the lack of a definitive serum total testosterone level that reliably correlates with symptoms. This observation is particularly true in the aging male and is exacerbated by inconsistencies between different laboratory assays. Several prominent medical societies have developed guideline statements to clarify the diagnosis, but the",
+      "journal": "Asian journal of andrology",
+      "year": "2015",
+      "authors": [
+        "McBride James A",
+        "Carson Culley C",
+        "Coward Robert M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Aging",
+        "Cardiovascular Diseases",
+        "Comorbidity",
+        "Diagnostic Tests, Routine",
+        "Disease Management",
+        "Erectile Dysfunction",
+        "Eunuchism",
+        "Hormone Replacement Therapy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25532575/"
+    },
+    {
+      "pmid": "38146670",
+      "title": "The testis, eunuchs, and testosterone: a historical review over the ages and around the world.",
+      "abstract": "Testosterone therapy for men with testosterone deficiency is widely used, yet remains controversial. The rich and fascinating history of the testicles, including human castration, provides a valuable perspective on this important topic.",
+      "journal": "Sexual medicine reviews",
+      "year": "2024",
+      "authors": [
+        "Morgentaler Abraham",
+        "Hanafy Han M"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Male",
+        "Testis",
+        "Testosterone",
+        "Orchiectomy",
+        "Sexual Behavior",
+        "China"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38146670/"
+    },
+    {
+      "pmid": "25652628",
+      "title": "Controversies in testosterone replacement therapy: testosterone and cardiovascular disease.",
+      "abstract": "The role of testosterone in the cardiovascular (CV) health of men is controversial. Data suggest that both the condition and treatment of clinical hypogonadism is associated with decreased CV mortality; however, two recent studies suggest that hypogonadal subjects treated with testosterone replacement therapy have a higher incidence of new CV events. There has been increased media attention concerning the risk of CV disease in men treated with testosterone. Until date, there are no long-term prospective studies to determine safety. Literature spanning over the past 30 years has suggested that not only is there a possible increased CV risk in men with low levels of testosterone, but the benefits from testosterone therapy may even lower this risk. We review here the recent studies that have garnered such intense scrutiny. This article is intended as a thorough review of testosterone levels and CV risk, providing the clinician with the facts needed to make informed clinical decisions in m",
+      "journal": "Asian journal of andrology",
+      "year": "2015",
+      "authors": [
+        "Hwang Kathleen",
+        "Miner Martin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Cardiovascular Diseases",
+        "Eunuchism",
+        "Follow-Up Studies",
+        "Hormone Replacement Therapy",
+        "Humans",
+        "Incidence",
+        "Male",
+        "Risk Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25652628/"
+    },
+    {
+      "pmid": "26433309",
+      "title": "[Testosterone deficiency, metabolic syndrome and diabetes mellitus].",
+      "abstract": "Testosterone deficiency in adult age is associated with a decrease in libido, energy, hematocrit, muscle mass and bone mineral density, as well as with depression. More recently, testosterone deficiency has also been associated with various components of the metabolic syndrome, which in turn is associated with a five-fold increase in the risk of cardiovascular disease. Low testosterone levels are associated with increased insulin resistance, increase in fat mass, low HDL cholesterol, higher triglyceride levels and hypertension. Testosterone replacement therapy in patients with testosterone deficiency and type 2 diabetes mellitus and/or metabolic syndrome has shown reductions in insulin resistance, total cholesterol, LDL cholesterol and triglycerides and improvement in glycemic control and anthropometric parameters.",
+      "journal": "Medicina clinica",
+      "year": "2016",
+      "authors": [
+        "Fernández-Miró Mercè",
+        "Chillarón Juan J",
+        "Pedro-Botet Juan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adiposity",
+        "Aging",
+        "Cardiovascular Diseases",
+        "Diabetes Mellitus",
+        "Disease Susceptibility",
+        "Early Diagnosis",
+        "Eunuchism",
+        "Hormone Replacement Therapy",
+        "Humans",
+        "Hyperlipidemias"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26433309/"
+    },
+    {
+      "pmid": "32056383",
+      "title": "Late-onset hypogonadism: Prostate safety.",
+      "abstract": "There have always been concerns regarding testosterone replacement therapy and prostate safety because of the central role of testosterone in prostate tissue. Even though there is a body of evidence supporting that the benefits of testosterone replacement therapy outbalance the risks of prostate disease, this matter is still debatable and represents a common concern among testosterone prescribers.",
+      "journal": "Andrology",
+      "year": "2020",
+      "authors": [
+        "Miranda Eduardo P",
+        "Torres Luiz Otávio"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Biomarkers",
+        "Clinical Decision-Making",
+        "Eunuchism",
+        "Hormone Replacement Therapy",
+        "Humans",
+        "Male",
+        "Prognosis",
+        "Prostate",
+        "Prostatic Hyperplasia",
+        "Prostatic Neoplasms"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32056383/"
+    }
+  ]
+}

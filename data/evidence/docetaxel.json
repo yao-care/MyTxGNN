@@ -1,0 +1,1060 @@
+{
+  "drug": "Docetaxel",
+  "drugbank_id": "DB01248",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:57:46Z",
+  "indications": [
+    {
+      "indication": "familial prostate carcinoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 9,
+        "phase2_trials": 8,
+        "phase1_trials": 0,
+        "other_trials": 3,
+        "rct_articles": 0,
+        "review_articles": 2,
+        "other_articles": 8,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "lung cancer",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 13,
+        "phase1_trials": 2,
+        "other_trials": 2,
+        "rct_articles": 0,
+        "review_articles": 8,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "head and neck cancer",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 12,
+        "phase1_trials": 2,
+        "other_trials": 1,
+        "rct_articles": 4,
+        "review_articles": 3,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "non-small cell lung carcinoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 13,
+        "phase1_trials": 2,
+        "other_trials": 1,
+        "rct_articles": 2,
+        "review_articles": 3,
+        "other_articles": 5,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "upper aerodigestive tract neoplasm",
+      "evidence_level": "L2",
+      "trials": 1,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 1,
+        "other_trials": 0,
+        "rct_articles": 7,
+        "review_articles": 0,
+        "other_articles": 3,
+        "total_trials": 1,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 81,
+  "total_articles": 50,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04876651",
+      "title": "A Multinational, Multicenter, Prospective, Randomized, Controlled, Open Label Phase 3 Study With Best Standard of Care With and Without 177Lu-DOTA-rosopatamab for Patients With PSMA Expressing Metastatic Castration-resistant Prostate Cancer Progressing Despite Prior Treatment With a Novel Androgen Axis Drug",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2023-08-29",
+      "completion_date": "2025-07-01",
+      "country": "Australia, New Zealand",
+      "enrollment": 16,
+      "brief_summary": "This multinational, multicenter, prospective, randomized, controlled, open label Phase 3 study is designed to investigate and confirm the benefits and risks associated with the PSMA-targeted antibody, 177Lu DOTA rosopatamab administered together with Standard of Care (SoC), as compared to the best SoC alone. The phase 3 will be conducted in patients with metastatic castration-resistant PC (mCRPC) that expresses PSMA and has progressed despite prior treatment with a novel androgen axis drug (NAAD",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Be a male, at least 18 years old, with metastatic adenocarcinoma of the prostate defined by histological / pathological confirmation of PC.\n2. Be of ECOG Performance Status 0, 1, or 2 and have an estimated life expectancy of ≥6 months.\n3. Have metastatic disease (≥1 metastati",
+      "endpoints": [
+        "Comparison of radiographic progression-free survival (rPFS)"
+      ],
+      "sponsor": "Telix Pharmaceuticals (Innovations) Pty Limited",
+      "url": "https://clinicaltrials.gov/study/NCT04876651"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00514917",
+      "title": "A Randomized, Open Label, Multicenter, Phase III, 2-Arm Study of Androgen Deprivation With Leuprolide, +/- Docetaxel for Clinically Asymptomatic Prostate Cancer Subjects With a Rising PSA Following Definitive Local Therapy",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2007-07",
+      "completion_date": "2012-09",
+      "country": "Slovakia, Germany, Lithuania, Belgium, Czechia, United States, Spain, Canada, Poland",
+      "enrollment": 413,
+      "brief_summary": "The primary objective was to evaluate and compare the efficacy of androgen deprivation with or without docetaxel as determined by the median progression free survival (PFS) over the period of 18-month therapy and at least 18-month follow-up.\n\nThe secondary objectives were:\n\n* To assess cancer specific survival;\n* To compare overall survival between the 2 treatment groups;\n* To evaluate patient-reported outcomes including quality of life, fatigue, and sexual functioning as measured by 3 different",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of prostate adenocarcinoma pathologically confirmed\n* History of radical prostatectomy (pre-operative radiation therapy to the prostate or pelvis or salvage radiation after radical prostatectomy was allowed)\n* Demonstration of biochemical progression of disease based",
+      "endpoints": [
+        "Median Progression-Free Survival (PFS) in Intent-to-treat (ITT) Population",
+        "Progression-Free Survival (PFS) Rate at Month 36 in ITT Population",
+        "Median Progression-Free Survival (PFS) in Testosterone Specific Evaluable Population"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00514917"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04028388",
+      "title": "A Multicentre Phase 2b Trial to Evaluate the Efficacy and Tolerability of ModraDoc006/r in Subjects With Metastatic Castration Resistant Prostate Cancer (mCRPC), Suitable for Treatment With a Taxane",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-07-17",
+      "completion_date": "2021-11-29",
+      "country": "Germany, Hungary, Czechia, United States, Russia, Poland",
+      "enrollment": 135,
+      "brief_summary": "This is a multicenter phase 2b study to evaluate the efficacy and tolerability of ModraDoc006 in combination with ritonavir (denoted ModraDoc006/r) in patients with metastatic castration-resistant prostate cancer, suitable for treatment with a taxane.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years\n2. Histologically or cytologically proven prostate cancer with evidence of progressive mCRPC, defined as:\n\n   1. Castrate levels of testosterone, defined as ≤ 50 ng/dL (or ≤ 0.50 ng/mL or 1.73 nmol/L)\n   2. Evidence of progressive metastatic disease as defined ",
+      "endpoints": [
+        "Radiographic Progression Free Survival (rPFS)"
+      ],
+      "sponsor": "Modra Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT04028388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06551324",
+      "title": "A PHASE 3, RANDOMIZED, OPEN-LABEL STUDY OF PF-06821497 (MEVROMETOSTAT) IN COMBINATION WITH ENZALUTAMIDE COMPARED WITH ENZALUTAMIDE OR DOCETAXEL IN PARTICIPANTS WITH METASTATIC CASTRATION RESISTANT PROSTATE CANCER PREVIOUSLY TREATED WITH ABIRATERONE ACETATE (MEVPRO-1)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-10-21",
+      "completion_date": "2028-10-29",
+      "country": "Italy, Sweden, Australia, United Kingdom, Spain, Japan, Argentina, Netherlands, Czechia, France, Hungary, Taiwan, Turkey (Türkiye), Canada, Poland, Brazil, Slovakia, Germany, Greece, South Africa, China, South Korea, United States",
+      "enrollment": 600,
+      "brief_summary": "Pfizer MEVPRO-1 (C2321014) is a randomized, open-label, multi-center clinical trial evaluating whether combining the study medicine (PF-06821497) with enzalutamide is safe and effective compared to physician's choice of either second-line androgen receptor (AR) directed therapy with enzalutamide or docetaxel (chemotherapy) for treating metastatic castration-resistant prostate cancer (mCRPC) after progression on prior abiraterone acetate treatment.\n\nThe primary objective of this clinical trial is",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate without small cell features.\n* Metastatic disease in bone documented on bone scan, or in soft tissue documented on CT/MRI scan.\n* Progressive disease in the setting of surgical or medical castration with ",
+      "endpoints": [
+        "Radiographic Progression Free Survival (rPFS) assessed by blinded independent central review (BICR) per RECIST v1.1 and Prostate Cancer Clinical Trials Working Group 3 (PCWG3)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT06551324"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04034095",
+      "title": "The Registry to Observe Clinical Outcomes of Patients With High-risk Metastatic Hormone-naïve Prostate Cancer in Japan",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-07-08",
+      "completion_date": "2024-08-13",
+      "country": "Japan",
+      "enrollment": 979,
+      "brief_summary": "The purpose of this registry study is to longitudinally observe clinical outcomes and patient-reported outcomes (PRO) for participants with high-risk metastatic hormone-naive prostate cancer (mHNPC) in the real-world setting in Japan.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented diagnosis of metastatic, hormone-naïve prostate cancer (mHNPC) after 1 May 2019\n* Should have at least 2 of the 3 following high-risk factors: a Gleason score of greater than or equal to (\\>=) 8, at least 3-bone lesions, or the presence of visceral metastasis\n* Will",
+      "endpoints": [
+        "Percentage of Participants who Achieve Prostate-specific Antigen (PSA) <=0.2 ng/mL Within a Year from Registration",
+        "PSA Progression-free Survival (PSA-PFS)",
+        "Percentage of Participants with PSA-PFS"
+      ],
+      "sponsor": "Janssen Pharmaceutical K.K.",
+      "url": "https://clinicaltrials.gov/study/NCT04034095"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02560051",
+      "title": "Phase 2 Study of Androgen Deprivation Therapy (ADT) Plus Chemotherapy as Initial Treatment for Local Failures or Advanced Prostate Cancer",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2015-11",
+      "completion_date": "2017-09-14",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "This study is for men who have prostate cancer and have failed local therapy or are not a candidate for prostatectomy or radiation therapy. The purpose of this research study is to assess the safety and benefit of androgen deprivation therapy (ADT, blocks hormones) plus chemotherapy. Degarelix is the hormone blocking drug that will be used. Doxorubicin, Ketoconazole, Docetaxel and Estramustine are the chemotherapy drugs that will be used. The drugs used in this study are approved by the Food and",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Pathologic proof of adenocarcinoma of the prostate.\n* Patients must belong to one of the following subsets:\n* Prior local therapy\n* Patients with Prostate Specific Antigen (PSA) recurrence following prostatectomy or radiation therapy who have no radiographic involvement. PSA d",
+      "endpoints": [
+        "Efficacy as Measured by Number Who Progressed"
+      ],
+      "sponsor": "The University of Texas Health Science Center, Houston",
+      "url": "https://clinicaltrials.gov/study/NCT02560051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00676650",
+      "title": "A Multicenter, Randomized, Double-Blind, Phase 3 Study Of Sunitinib Plus Prednisone Versus Prednisone In Patients With Progressive Metastatic Castration-Resistant Prostate Cancer After Failure Of A Docetaxel-Based Chemotherapy Regimen",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2008-07",
+      "completion_date": "2011-12",
+      "country": "Italy, Sweden, Australia, United Kingdom, Peru, Spain, Belgium, Czechia, Portugal, France, Israel, Taiwan, Finland, Canada, Poland, Brazil, Slovakia, Germany, Denmark, China, South Korea, United States",
+      "enrollment": 873,
+      "brief_summary": "This study will compare the safety and efficacy of sunitinib in combination with prednisone versus placebo and prednisone in patients that have metastatic castration-resistant prostate cancer that has progressed after treatment with a docetaxel-containing chemotherapy regimen. This is a second-line study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate.\n* Progressive, metastatic castration-resistant prostate cancer after failure of docetaxel chemotherapy (resistant or intolerant).\n* Progressive disease based on PSA progression, RECIST, or positive bone ",
+      "endpoints": [
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00676650"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00480090",
+      "title": "A Phase II Study of Ara-C (Cytarabine) in Men With Androgen Independent Prostate Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2011-07",
+      "country": "Canada",
+      "enrollment": 10,
+      "brief_summary": "This is a single-arm, open label phase II trial of the investigational agent, Ara-C (cytarabine), in patients diagnosed with hormone refractory prostate cancer whose disease has progressed on or deemed not suitable for standard chemotherapy with docetaxel. Ara-C appears to inhibit DNA synthesis and is cytotoxic to a wide variety of mammalian cells. Recent discoveries have suggested the role of gene fusions in the ETS family of transcription factors as important for the development of prostate ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Biopsy-proven prostate cancer or clinical picture consistent with metastatic prostate cancer with high level of serum PSA (\\> 20ng/ml)\n* At least 4 weeks after docetaxel treatment and have at least 2 consecutive rising PSAs measured at least 2 weeks apart\n* Progression on or i",
+      "endpoints": [
+        "PSA response"
+      ],
+      "sponsor": "University Health Network, Toronto",
+      "url": "https://clinicaltrials.gov/study/NCT00480090"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00313781",
+      "title": "A Phase 2, Randomized, Non-Comparative, Two-Arm Open Label, Multiple-Center Study Of CP-751,871 In Combination With Docetaxel/Prednisone In Chemotherapy- Naive (Arm A) And Docetaxel/Prednisone Refractory (Arm B) Patients With Hormone Insensitive Prostate Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2011-12",
+      "country": "Germany, Switzerland, United Kingdom, Spain, United States, Canada",
+      "enrollment": 204,
+      "brief_summary": "To test the efficacy of CP-751,871 combined with docetaxel and prednisone in the treatment of prostate cancer that is refractory to hormone therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of metastatic, progressive hormone refractory prostate cancer\n* Adequate bone marrow, liver and kidney function\n\nExclusion Criteria:\n\n* Previous treatment with chemotherapy",
+      "endpoints": [
+        "Percentage of Participants With Prostate Specific Antigen (PSA) Best Response"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00313781"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01289067",
+      "title": "Predicting Response to Platinum Chemotherapy in Metastatic Castration Resistant Prostate Ca(mCRPC)Using a Genomic Signature for \"BRCAness\": A Phase II Prospective Open Label Clinical Trial of Satraplatin in Men With mCRPC Who Have Progressed on Docetaxel",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-12",
+      "completion_date": "2013-05",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "The purpose of the study is to test genes for BRCAness(BRCA\\[BReast CAncer\\] gene) Studying these genes could help predict which patients would benefit from treatment with satraplatin, a medication being used for subjects who have failed prior chemotherapy. All subjects will have a biopsy of metastatic lesions to measure BRCAness (a gene signature). This gene signature may be able to predict response to satraplatin and a tool will be developed to be able to screen patients likely to benefit from",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must have histologically confirmed adenocarcinoma of the prostate.\n2. Radiographic evidence of metastatic disease (Bone scan, CT(Computerized Tomography) scan, or MRI(Magnetic Resonance Imaging) are acceptable) amenable to image-guided biopsy.\n3. Castrate levels of t",
+      "endpoints": [
+        "Efficacy of Satraplatin as Second Line Therapy in Men With CRCP"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT01289067"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07112209",
+      "title": "Evaluation of the Efficacy and Safety of Rezvilutamide Combined With Docetaxel in the Treatment of Abiraterone-resistant Prostate Cancer.",
+      "phase": "NA",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2023-11-06",
+      "completion_date": "2027-11-06",
+      "country": "China",
+      "enrollment": 20,
+      "brief_summary": "Emphasize the main 4 points.\n\n1. Trial Name: Evaluate the efficacy and safety of Rezvilutamide combined with docetaxel in the treatment of abiraterone-resistant prostate cancer.\n2. Inclusion criteria:\n\n   ① Adult males over 18 years old, excluding healthy volunteers.\n   * Pathological and imaging confirmed as metastatic prostate cancer, who have been receiving abiraterone and castration therapy but have experienced serological or imaging progression; ③ Agree to receive Rezvilutamide combined wit",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult males over 18 years old, excluding healthy volunteers. ② Pathological and imaging confirmed as metastatic prostate cancer, who have been receiving abiraterone and castration therapy but have experienced serological or imaging progression; ③ Agree to receive Rezvilutamide",
+      "endpoints": [
+        "PSA response rate"
+      ],
+      "sponsor": "Zhujiang Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07112209"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00879619",
+      "title": "A Pilot Phase I/II Study to Evaluate the Effects of Taxotere/Prednisone Plus Sunitinib in Chemotherapy-Naïve, Hormone Refractory Prostate Cancer Patients With Biochemical Relapse",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-07",
+      "completion_date": "2011-11",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as docetaxel and prednisone, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Sunitinib malate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor. Giving docetaxel and prednisone together with sunitinib malate may kill more tumor cells.\n\nPURPOSE: This pilot phase I/II trial studies the side effects and b",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Subjects must have a histological diagnosis of adenocarcinoma of the prostate\n* Age ≥ 18\n* Subjects must have metastatic prostate cancer deemed to be unresponsive or refractory to hormone therapy by one or more of the following (despite androgen deprivation and anti-androgen wi",
+      "endpoints": [
+        "Prostate Specific Antigen (PSA) Response Rate"
+      ],
+      "sponsor": "University of California, Irvine",
+      "url": "https://clinicaltrials.gov/study/NCT00879619"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00309985",
+      "title": "CHAARTED: ChemoHormonal Therapy Versus Androgen Ablation Randomized Trial for Extensive Disease in Prostate Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-09-26",
+      "completion_date": "2025-01-31",
+      "country": "United States",
+      "enrollment": 790,
+      "brief_summary": "RATIONALE: Androgens can cause the growth of prostate cancer cells. Androgen ablation therapy may stop the adrenal glands from making androgens. Drugs used in chemotherapy, such as docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. It is not yet known whether androgen-ablation therapy is more effective with or without docetaxel in treating metastatic prostate cancer.\n\nPURPOSE: This randomized phase III trial is stud",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed prostate cancer\n* Metastatic disease\n* On androgen-deprivation therapy for \\< 120 days\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-2\n\n  * PS 2 eligible only if decline in PS is due to metastatic prostate cance",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "Eastern Cooperative Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT00309985"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01732549",
+      "title": "A Randomised, Double-Blind, Placebo-Controlled Proof Of Concept Study Of Maintenance Therapy With Tasquinimod In Patients With Metastatic Castrate-Resistant Prostate Cancer Who Are Not Progressing After A First Line Docetaxel Based Chemotherapy",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-01",
+      "completion_date": "2015-05",
+      "country": "Italy, Germany, France, Denmark, United Kingdom, Belgium, Hungary, Czechia, Lithuania, Spain, Poland",
+      "enrollment": 144,
+      "brief_summary": "The purpose of this study is to confirm that tasquinimod used as maintenance therapy is active and tolerable in patients with metastatic castrate-resistant prostate cancer not progressing after a first chemotherapy with docetaxel.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically documented prostate cancer with evidence of metastatic disease on radiological evaluation, with or without symptoms (defined according to the BPI scale, with use of analgesics or narcotics)\n* Has received a first line docetaxel based chemotherapy (as a monothera",
+      "endpoints": [
+        "Time to Radiological Progression Free Survival [PFS]"
+      ],
+      "sponsor": "Ipsen",
+      "url": "https://clinicaltrials.gov/study/NCT01732549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02485691",
+      "title": "A Randomized, Open Label, Multicenter Study of Cabazitaxel Versus an Androgen Receptor (AR)-Targeted Agent (Abiraterone or Enzalutamide) in mCRPC Patients Previously Treated With Docetaxel and Who Rapidly Failed a Prior AR-targeted Agent (CARD)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-11-09",
+      "completion_date": "2021-03-15",
+      "country": "Italy, Netherlands, Germany, Greece, France, United Kingdom, Austria, Ireland, Belgium, Norway, Czechia, Spain, Iceland",
+      "enrollment": 255,
+      "brief_summary": "Primary Objective:\n\nTo compare the radiographic progression-free survival (rPFS) (using Response Evaluation Criteria in Solid Tumors \\[RECIST\\] 1.1 for tumor lesions and Prostate Cancer Working Group 2 (PCWG2) criteria for bone scan lesions or death due to any cause) with chemotherapy (cabazitaxel plus prednisone, Arm A) versus Androgen Receptor (AR)-targeted therapy (enzalutamide or abiraterone acetate plus prednisone, Arm B) in mCRPC participants who have been treated with docetaxel and who ha",
+      "eligibility_criteria": "Inclusion criteria :\n\nHistologically confirmed prostate adenocarcinoma.\n\n* Metastatic disease.\n* Effective castration with serum testosterone levels less than (\\<)0.5 ng/mL. If the participant has been treated with Luteinizing hormone-releasing hormone agonist (LHRH) agonists or antagonist (i.e., wi",
+      "endpoints": [
+        "Radiographic Progression-Free Survival (rPFS)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02485691"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00283062",
+      "title": "A Multicenter, Open-Label, Randomized, Phase III Trial Comparing Immediate Adjuvant Hormonal Therapy (ELIGARD®- Leuprolide Acetate) in Combination With TAXOTERE® (Docetaxel) Administered Every Three Weeks Versus Hormonal Therapy Alone Versus Deferred Therapy Followed by the Same Therapeutic Options in Patients With Prostate Cancer at High Risk of Relapse After Radical Prostatectomy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2010-12",
+      "country": "Italy, Netherlands, Germany, South Africa, Australia, France, United Kingdom, Israel, Austria, Mexico, Turkey (Türkiye), Russia, United States, India, Canada, Poland, Brazil",
+      "enrollment": 228,
+      "brief_summary": "This is a prospective, multicenter, open-label, randomized phase III study in participants at high risk of recurrent prostate cancer after radical prostatectomy. The study will investigate\n\n* Treatment with docetaxel (TAXOTERE®) every three weeks (q3w) plus leuprolide acetate (ELIGARD®) versus leuprolide acetate alone (ELIGARD®)\n* Immediate treatment following prostatectomy versus deferred treatment at the time of relapse\n\nUsing a 2x2 factorial design participants will therefore be randomized to",
+      "eligibility_criteria": "Inclusion Criteria:\n\nParticipants who met all of the following criteria were considered for enrollment into the study.\n\n* Pathologically confirmed adenocarcinoma of the prostate based on central pathology review. All other variants are excluded\n* Randomization should occur less than 120 days after p",
+      "endpoints": [
+        "Progression-free Survival (PFS) Assessment - Number of Participants With Disease Progression"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00283062"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05848011",
+      "title": "A Phase 2, Randomized, Open-Label, Study of Lorigerlimab With Docetaxel or Docetaxel Alone in Participants With Metastatic Castration-Resistant Prostate Cancer",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-09-28",
+      "completion_date": "2027-09",
+      "country": "Australia, France, United Kingdom, Belgium, Puerto Rico, United States, Spain, Poland, Bulgaria, Georgia",
+      "enrollment": 154,
+      "brief_summary": "The purpose of this study is to determine whether the amount of time before disease progression can be prolonged in participants with metastatic castration-resistant prostate cancer (MCRPC) who receive lorigerlimab in addition to the standard of care (SOC) of docetaxel and prednisone. About 150 participants with mCRPC will be enrolled. Participants will be randomized in a 2:1 ratio to receive lorigerlimab with docetaxel and prednisone (experimental arm) or docetaxel and prednisone alone (standar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Metastatic castration-resistant adenocarcinoma of the prostate without evidence of neuroendocrine differentiation, signet cell, or small cell features.\n* Participants must have ≥ 1 metastatic (measurable or non-measurable per PCWG3) lesion.\n* Participant has prostate cancer pr",
+      "endpoints": [
+        "Median radiographic progression free survival (rPFS) determined by investigator review."
+      ],
+      "sponsor": "MacroGenics",
+      "url": "https://clinicaltrials.gov/study/NCT05848011"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02288247",
+      "title": "A Randomized, Double Blind, Placebo-Controlled, Phase IIIb Study of the Efficacy and Safety of Continuing Enzalutamide in Chemotherapy Naïve Metastatic Castration Resistant Prostate Cancer Patients Treated With Docetaxel Plus Prednisolone Who Have Progressed on Enzalutamide Alone",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-12-01",
+      "completion_date": "2024-03-15",
+      "country": "Italy, Netherlands, Germany, Greece, Switzerland, Sweden, France, United Kingdom, Austria, Belgium, Norway, Turkey (Türkiye), Czechia, Russia, Spain, Poland",
+      "enrollment": 688,
+      "brief_summary": "The purpose of the study was to understand if there was benefit in continued treatment with a medicine called enzalutamide, when starting treatment with docetaxel and prednisolone (a standard chemotherapy for prostate cancer), after the prostate cancer had gotten worse when treated with enzalutamide alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the prostate without neuroendocrine differentiation or small cell features;\n* Ongoing androgen deprivation therapy (ADT) with a luteinizing hormone-releasing hormone (LHRH) agonist or antagonist at a stable dose and schedule within 4 ",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT02288247"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01308567",
+      "title": "Randomized, Open Label, Multi-Center Study Comparing Cabazitaxel at 25 mg/m^2 and at 20 mg/m^2 in Combination With Prednisone Every 3 Weeks to Docetaxel in Combination With Prednisone in Patients With Metastatic Castration Resistant Prostate Cancer Not Pretreated With Chemotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-05-05",
+      "completion_date": "2018-05",
+      "country": "Italy, Sweden, Australia, Peru, Spain, Japan, Mexico, Czechia, Romania, Ukraine, Portugal, France, Israel, Taiwan, Turkey (Türkiye), Finland, Canada, Poland, Brazil, Germany, Belarus, Denmark, China, Russia, United States",
+      "enrollment": 1168,
+      "brief_summary": "Primary Objective:\n\n* To demonstrate the superiority of cabazitaxel plus prednisone at 25 mg/m\\^2 (Arm A) or 20 mg/m\\^2 (Arm B) versus docetaxel plus prednisone (Arm C) in term of overall survival (OS) in participants with metastatic castration resistant prostate cancer (mCRPC) and not previously treated with chemotherapy.\n\nSecondary Objectives:\n\n* To evaluate safety in the 3 treatment arms.\n* To compare efficacy of cabazitaxel at 20 mg/m\\^2 and 25 mg/m\\^2 to docetaxel for:\n\n  * Progression Free",
+      "eligibility_criteria": "Inclusion criteria :\n\n* I 01. Histologically- or cytologically-confirmed prostate adenocarcinoma.\n* I 02. Metastatic disease.\n* I 03. Progressive disease while receiving hormonal therapy or after surgical castration.\n* I 04. Effective castration (serum testosterone levels ≤0.50 ng/mL) by orchiectomy",
+      "endpoints": [
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT01308567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00974311",
+      "title": "Affirm: A Multinational Phase 3, Randomized, Double-blind, Placebo-controlled Efficacy And Safety Study Of Oral Mdv3100 In Patients With Progressive Castration-resistant Prostate Cancer Previously Treated With Docetaxel Based Chemotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-09-30",
+      "completion_date": "2017-11-02",
+      "country": "Italy, Netherlands, Germany, South Africa, Australia, France, United Kingdom, Austria, Belgium, Chile, Poland, United States, Spain, Canada, Argentina",
+      "enrollment": 1199,
+      "brief_summary": "This is a phase 3 study to compare the clinical benefit of MDV3100 versus placebo in patients with castration-resistant prostate cancer who have been previously treated with docetaxel-based chemotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Progressive prostate cancer\n* Medical or surgical castration with testosterone less than 50 ng/dl\n* One or two prior chemotherapy regimens. At least one chemotherapy regimen must have contained docetaxel\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Adeq",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00974311"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "23832735",
+      "title": "Taxane- and epothilone-based chemotherapy: from molecule cargo cytoskeletal logistics to management of castration-resistant prostate carcinoma.",
+      "abstract": "Challenges in the discovery of more potent agents to treat the castration-resistant prostate carcinoma (CRPC) reflect the frustrating condition due to development of its drug-resistance in addition to hormone-refractoriness. Although among the different CRPC therapy modalities, the chemotherapy regimens might seem conceptually outclassed as exhibiting a scant tumor cell-selectivity if compared with new molecular mechanism-based agents (so-called \"smart drugs\"), nevertheless, combo-therapies which combine the chemotherapeutic highly killing potential with specific mechanism-targeting products, seem to be effective antitumor measures. Thus, both microtubule (taxanes, epothilones, noscapine, Vinca-derivatives) and actin filament (pertenotoxins, cytochalasin D)-targeting agents may supply valuable outcomes in CRPC, either alone or in combination with \"smart drugs\" such as tyrosine- or multi-kinase receptor blockers, mTOR (mammalian target of rapamicin) inhibitors, monoclonal antibodies aga",
+      "journal": "European review for medical and pharmacological sciences",
+      "year": "2013",
+      "authors": [
+        "Alberti C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Carcinoma",
+        "Castration",
+        "Cytoskeleton",
+        "Epothilones",
+        "Humans",
+        "Male",
+        "Prostatic Neoplasms",
+        "Taxoids",
+        "Tubulin Modulators"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23832735/"
+    },
+    {
+      "pmid": "28235398",
+      "title": "Testis specific Y-like 5: gene expression, methylation and implications for drug sensitivity in prostate carcinoma.",
+      "abstract": "TSPYL5, a putative tumor suppressor gene, belongs to the nucleosome assembly protein family. The chromosomal location of the TSPYL5 gene is 8Q22.1, and its exact role in prostate cancer etiology remains unclear. Further TSPYL5 gene and protein expression in prostate carcinoma cells and diseased tissues including its susceptibility for epigenetic silencing is unknown. Also, not known is the variation in TSPYL5 protein expression with regards to progression of prostatic carcinoma and its possible role in drug sensitivity.",
+      "journal": "BMC cancer",
+      "year": "2017",
+      "authors": [
+        "Kumar Senthil R",
+        "Bryan Jeffrey N",
+        "Esebua Magda",
+        "Amos-Landgraf James",
+        "May Tanner J"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Antimetabolites, Antineoplastic",
+        "Azacitidine",
+        "Cell Line, Tumor",
+        "Cyclin-Dependent Kinase Inhibitor p21",
+        "DNA (Cytosine-5-)-Methyltransferase 1",
+        "DNA Methylation",
+        "Decitabine",
+        "Epigenesis, Genetic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28235398/"
+    },
+    {
+      "pmid": "15332713",
+      "title": "Effects of paclitaxel and docetaxel on EGFR-expressing human carcinoma cells under normoxic versus hypoxic conditions in vitro.",
+      "abstract": "Human malignant tumors, such as non-small lung, breast, ovarian, head and neck, prostate, stomach and colorectal cancers express a number of growth factor receptors (e.g. EGFR or EGFR family members) that are regulated by tumor hypoxia and contribute to tumor growth and failure of cytotoxic therapy. Paclitaxel and docetaxel are indispensable substances in the treatment of these tumors. Despite the active clinical use of taxanes, little is known about their cytotoxic activity under hypoxia. The aim of the present work was to compare the cytotoxic effect of taxanes, paclitaxel and docetaxel on the EGFR-expressing carcinoma cell lines A431, MDA-MB-231 and NCI-H358 under normoxic and hypoxic conditions. The two taxanes caused different cell cycle distribution and varying aneuploid cell formation under hypoxia. EGFR-overexpressing carcinoma cells showed hypoxia to severely affect the cytotoxicity of paclitaxel, whereas docetaxel preserved its tumor cell-killing activity even at lowest conce",
+      "journal": "Journal of chemotherapy (Florence, Italy)",
+      "year": "2004",
+      "authors": [
+        "Skvortsova I",
+        "Skvortsov S",
+        "Haidenberger A",
+        "Devries A",
+        "Nevinny-Stickel M"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Agents, Phytogenic",
+        "Apoptosis",
+        "Cell Cycle",
+        "Cell Survival",
+        "Docetaxel",
+        "Drug Resistance, Neoplasm",
+        "ErbB Receptors",
+        "Female",
+        "Humans",
+        "Hypoxia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15332713/"
+    },
+    {
+      "pmid": "29587605",
+      "title": "Chondritis of the ear after docetaxel-carboplatin chemotherapy.",
+      "abstract": "Docetaxel, derived from the yew tree, belongs to the taxane family of medications. It works by disrupting the normal function of microtubules, thereby stopping cell division. Docetaxel is used in the treatment of ovarian, breast, esophageal, gastric, prostate, lung, and head and neck cancers. Common side effects include hair loss, low blood cell counts, peripheral neuropathy, vomiting, and muscle pain. Auricular chondritis with ear deformity has not been reported previously as a side effect of docetaxel. In this paper, we present the case of a 64-year-old male patient with chondritis accompanied by ear deformity that developed due to docetaxel-carboplatin chemotherapy for non-small cell lung cancer.",
+      "journal": "Journal of oncology pharmacy practice : official publication of the International Society of Oncology Pharmacy Practitioners",
+      "year": "2019",
+      "authors": [
+        "Kong Tae Hoon",
+        "Han Sung Min",
+        "Seo Young Joon"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carboplatin",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Docetaxel",
+        "Humans",
+        "Lung Neoplasms",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29587605/"
+    },
+    {
+      "pmid": "24714754",
+      "title": "Circulating microRNAs are associated with docetaxel chemotherapy outcome in castration-resistant prostate cancer.",
+      "abstract": "Docetaxel is the first-line chemotherapy for castration-resistant prostate cancer (CRPC). However, response rates are ∼50% and determined quite late in the treatment schedule, thus non-responders are subjected to unnecessary toxicity. The potential of circulating microRNAs as early biomarkers of docetaxel response in CRPC patients was investigated in this study.",
+      "journal": "British journal of cancer",
+      "year": "2014",
+      "authors": [
+        "Lin H-M",
+        "Castillo L",
+        "Mahon K L",
+        "Chiam K",
+        "Lee B Y"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Aged",
+        "Aged, 80 and over",
+        "Androgen Antagonists",
+        "Antineoplastic Agents, Hormonal",
+        "Antineoplastic Agents, Phytogenic",
+        "Biomarkers, Tumor",
+        "Cell Line, Tumor",
+        "Docetaxel",
+        "Drug Resistance, Neoplasm"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24714754/"
+    },
+    {
+      "pmid": "27537383",
+      "title": "Loss of SLCO1B3 drives taxane resistance in prostate cancer.",
+      "abstract": "Both taxanes, docetaxel and cabazitaxel, are effective treatments for metastatic castration-resistant prostate cancer (mCRPC). However, resistance to taxanes is common. Our objective was to investigate mechanisms of taxane resistance in prostate cancer.",
+      "journal": "British journal of cancer",
+      "year": "2016",
+      "authors": [
+        "de Morrée Ellen S",
+        "Böttcher René",
+        "van Soest Robert J",
+        "Aghai Ashraf",
+        "de Ridder Corrina M"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Androgens",
+        "Androstenes",
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Benzamides",
+        "Biological Transport",
+        "Cell Line, Tumor",
+        "Docetaxel",
+        "Drug Resistance, Multiple"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27537383/"
+    },
+    {
+      "pmid": "23199349",
+      "title": "Abiraterone acetate for the treatment of prostate cancer.",
+      "abstract": "Prostate cancer is the second leading cause of cancer death in men in the United States. The disease is driven by androgen receptor (AR) signaling, and the majority of patients initially respond to androgen deprivation therapies. The lethal form of this disease occurs when metastatic lesions progress in the setting of low testosterone levels, in what is conventionally referred to as castration-resistant prostate cancer (CRPC). Recent insights suggest that CRPC continues to rely on an active AR pathway for cell survival and growth.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2013",
+      "authors": [
+        "Ryan Charles J",
+        "Cheng Michael L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Administration, Oral",
+        "Androstenes",
+        "Androstenols",
+        "Antineoplastic Agents",
+        "Castration",
+        "Disease Progression",
+        "Humans",
+        "Male",
+        "Neoplasms, Hormone-Dependent"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23199349/"
+    },
+    {
+      "pmid": "32252682",
+      "title": "Overexpression of SLC6A1 associates with drug resistance and poor prognosis in prostate cancer.",
+      "abstract": "Solute Carrier Family 6 Member 1 (SLC6A1) has been identified as a cancer-promoting gene in various human cancers, such as clear cell renal cell carcinoma and ovarian cancer. However, its roles in prostate cancer (PCa) has not been fully elucidated. The aim of this study was to investigate the expression and clinical significance of SLC6A1 in PCa tissues and its effect on drug resistance to docetaxel in PCa.",
+      "journal": "BMC cancer",
+      "year": "2020",
+      "authors": [
+        "Chen Chaojiang",
+        "Cai Zhiduan",
+        "Zhuo Yangjia",
+        "Xi Ming",
+        "Lin Zhuoyuan"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Animals",
+        "Antineoplastic Agents",
+        "Biomarkers, Tumor",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Computational Biology",
+        "Databases, Genetic",
+        "Disease Progression",
+        "Docetaxel"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32252682/"
+    },
+    {
+      "pmid": "34649352",
+      "title": "A phase II study of docetaxel plus lycopene in metastatic castrate resistant prostate cancer.",
+      "abstract": "We carried out a phase II study to investigate the activity of docetaxel plus lycopene in advanced castrate resistant adenocarcinoma of the prostate. Patients were chemotherapy and biological therapy naive. Docetaxel 75 mg/m2 was given every 21 days with daily oral lycopene 30 mg. The primary endpoint was a ≥50% reduction in PSA. Secondary endpoints were median time to PSA progression, duration of response and overall survival. Thirteen patients were initiated on protocol therapy. Median age was 77 (range 55-90). Twelve patients (92%) had bone metastases. Four patients (30%) had both bone and visceral metastases. PSA response was seen in 10 patients (76.9% [95% confidence interval (CI), 46.2-94.9%]). Two patients had stable disease (SD), yielding a disease control rate of 92%. Median time to PSA progression was 8 months [95% CI, 3.5-8.7]. Median duration of response (DOR) was 7.3 months [95% CI, 4.8-13.2]. Median overall survival at 5 years was 35.1 months [95% CI 25.7-57.7]. No new sa",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "year": "2021",
+      "authors": [
+        "Zhuang Eric",
+        "Uchio Edward",
+        "Lilly Michael",
+        "Zi Xiaolin",
+        "Fruehauf John P"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase II",
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Aged",
+        "Aged, 80 and over",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "California",
+        "Disease Progression",
+        "Docetaxel",
+        "Humans",
+        "Kallikreins",
+        "Lycopene"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34649352/"
+    },
+    {
+      "pmid": "26041764",
+      "title": "Management of patients with advanced prostate cancer: recommendations of the St Gallen Advanced Prostate Cancer Consensus Conference (APCCC) 2015.",
+      "abstract": "The first St Gallen Advanced Prostate Cancer Consensus Conference (APCCC) Expert Panel identified and reviewed the available evidence for the ten most important areas of controversy in advanced prostate cancer (APC) management. The successful registration of several drugs for castration-resistant prostate cancer and the recent studies of chemo-hormonal therapy in men with castration-naïve prostate cancer have led to considerable uncertainty as to the best treatment choices, sequence of treatment options and appropriate patient selection. Management recommendations based on expert opinion, and not based on a critical review of the available evidence, are presented. The various recommendations carried differing degrees of support, as reflected in the wording of the article text and in the detailed voting results recorded in supplementary Material, available at Annals of Oncology online. Detailed decisions on treatment as always will involve consideration of disease extent and location, p",
+      "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "year": "2015",
+      "authors": [
+        "Gillessen S",
+        "Omlin A",
+        "Attard G",
+        "de Bono J S",
+        "Efstathiou E"
+      ],
+      "pub_types": [
+        "Consensus Statement",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Androgen Antagonists",
+        "Antineoplastic Agents",
+        "Antineoplastic Agents, Hormonal",
+        "Bone Density Conservation Agents",
+        "Docetaxel",
+        "Humans",
+        "Male",
+        "Orchiectomy",
+        "Practice Guidelines as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26041764/"
+    },
+    {
+      "pmid": "37842809",
+      "title": "Docetaxel liposomes for lung targeted delivery: development and evaluation.",
+      "abstract": "Docetaxel (DTX) is an artificial semi-synthetic second-generation taxane anti-tumor drug, which is suitable for the treatment of various cancers such as lung cancer. The route of administration of DTX formulations has been extended to oral, intravenous, and rectal, with few studies on pulmonary administration being reported. Here, we had developed DTX liposomes (DTX-lips) for pulmonary inhalation administration. The particle size of the preparation was 125 nm, the encapsulation efficiency was 94.4 ± 0.14%, and the drug loading capacity was 1.26 ± 0.01%. It had good stability. The fine particle fraction with aerodynamic diameter less than 6.4 μm accounts for 64.63 ± 0.12%, showed excellent aerosolization performance. DTX-lips were slow to release in simulated lung fluid. The fluorescence distribution experimented in mice and tissues showed that the fluorescence of the inhaled liposome group was mainly distributed in the lung, and the retention time was significantly prolonged as compare",
+      "journal": "Pharmaceutical development and technology",
+      "year": "2023",
+      "authors": [
+        "Liu Yishuai",
+        "Zhao Zixuan",
+        "Zhu Shuhui",
+        "Cheng Yumin",
+        "Liu Jun"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Docetaxel",
+        "Liposomes",
+        "Antineoplastic Agents",
+        "Lung",
+        "Lung Neoplasms",
+        "Cell Line, Tumor",
+        "Drug Carriers"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37842809/"
+    },
+    {
+      "pmid": "7551925",
+      "title": "Paclitaxel (Taxol) and docetaxel (Taxotere): active chemotherapeutic agents in lung cancer.",
+      "abstract": "Paclitaxel (Taxol), the prototype of a new class of plant-derived antineoplastic compounds, is a natural product isolated from the Pacific yew. Docetaxel (Taxotere) is a hemisynthetic product derived from the European yew. These agents share a unique mechanism of cytotoxic action by promoting assembly of microtubules and rendering the microtubules resistant to depolymerization. In vitro studies suggest a possible role for radiation sensitization. In Phase I trials, the dose-limiting toxicity was neutropenia for both agents. Other toxicities include infusion-related hypersensitivity reactions, alopecia, neurotoxicity, mucositis, diarrhoea and myalgias. To prevent infusion-related reactions, routine premedication is recommended. Noncumulative cardiac toxicity has been observed with paclitaxel. Fluid retention and rash have been reported with docetaxel. In Phase II studies of paclitaxel in advanced non-small cell lung cancer, response rates of 21% and 24% were observed. In Phase II studie",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "year": "1995",
+      "authors": [
+        "Francis P A",
+        "Kris M G",
+        "Rigas J R",
+        "Grant S C",
+        "Miller V A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Agents, Phytogenic",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Clinical Trials, Phase I as Topic",
+        "Clinical Trials, Phase II as Topic",
+        "Docetaxel",
+        "Drug Administration Schedule",
+        "Humans",
+        "Lung Neoplasms",
+        "Paclitaxel",
+        "Taxoids"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7551925/"
+    },
+    {
+      "pmid": "17503897",
+      "title": "Docetaxel in non-small cell lung cancer: impact on quality of life and pharmacoeconomics.",
+      "abstract": "Lung cancer is one of the leading causes of cancer-related deaths in industrialised countries, with non-small cell lung cancer (NSCLC) accounting for the majority of cases. A large proportion of patients present with advanced disease and are >65 years of age at the time of diagnosis. Systemic chemotherapy may be offered in an effort to improve survival and quality of life (QOL). Chemotherapy with platinum-based compounds has been shown to modestly improve survival and QOL, and is considered the standard of care as first-line treatment in patients with a good performance status. The last decade has seen the emergence of newer generation chemotherapy agents for the treatment of all cancer types. We review the evidence for the use of docetaxel, an antimicrotubular agent, in patients with advanced NSCLC. In this review, we evaluate not only the effects of docetaxel on survival, but also its impact on QOL and economic issues. Docetaxel is a potent anticancer agent with activity both as a si",
+      "journal": "Drugs & aging",
+      "year": "2007",
+      "authors": [
+        "Horn Leora",
+        "Visbal Antonio",
+        "Leighl Natasha B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Antineoplastic Agents",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Clinical Trials as Topic",
+        "Docetaxel",
+        "Drug Costs",
+        "Humans",
+        "Lung Neoplasms",
+        "Quality of Life",
+        "Taxoids"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17503897/"
+    },
+    {
+      "pmid": "34488513",
+      "title": "Factors affecting the efficacy and safety of docetaxel combined with platinum in the treatment of advanced non-small cell lung cancer.",
+      "abstract": "This study aimed to quantitatively evaluate factors influencing the efficacy and safety of the docetaxel-platinum regimen to provide reliable information for optimizing chemotherapy regimens.",
+      "journal": "Expert review of clinical pharmacology",
+      "year": "2021",
+      "authors": [
+        "Wang FengLi",
+        "Zhao ChenYang",
+        "Wen Xin",
+        "Zheng Qingshan",
+        "Li Lujin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Asian People",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Docetaxel",
+        "Humans",
+        "Lung Neoplasms",
+        "Models, Statistical",
+        "Platinum Compounds",
+        "Survival Analysis",
+        "Survival Rate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34488513/"
+    },
+    {
+      "pmid": "9364543",
+      "title": "Combination docetaxel/vinorelbine for metastatic breast cancer and non-small-cell lung cancer.",
+      "abstract": "Docetaxel (Taxotere) and vinorelbine (Navelbine) have both demonstrated activity as single agents for the treatment of patients with metastatic breast cancer and non-small-cell lung cancer. With 100 mg/m2 of docetaxel administered as a 1-hour intravenous infusion once every 3 weeks, projected median survival in previously untreated and treated patients with non-small-cell lung cancer is reported to be approximately 9 months. In addition, response rates have ranged from 23% to 36% and 17% to 21% in these respective patient populations. Preliminary studies indicate that in previously untreated patients with non-small-cell lung cancer, vinorelbine provides a survival benefit that is greater than best supportive care and similar to that of platinum-based chemotherapeutic regimens. Investigation into the use of these agents in combination is supported by synergy shown in preclinical models, nonoverlapping side-effect profiles, and the schedule independence of docetaxel. Preliminary results ",
+      "journal": "Oncology (Williston Park, N.Y.)",
+      "year": "1997",
+      "authors": [
+        "Aapro M S"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Antineoplastic Agents, Phytogenic",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Breast Neoplasms",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Cisplatin",
+        "Clinical Trials, Phase I as Topic",
+        "Clinical Trials, Phase II as Topic",
+        "Docetaxel",
+        "Drug Synergism"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9364543/"
+    },
+    {
+      "pmid": "11894018",
+      "title": "Preclinical and clinical studies of docetaxel and exisulind in the treatment of human lung cancer.",
+      "abstract": "Lung cancer is the leading cause of cancer death in the United States. The majority of patients with non-small cell lung cancers present with inoperable disease because of the presence of metastases to regional lymph nodes or other metastatic sites. About one third of patients have stage IV disease with metastases to distant organs at the time of diagnosis. The prognosis for these patients is very poor. With best supportive care the median survival is only 4 months and the 1-year survival rate is 10% to 15%. Current chemotherapy combinations improve the survival and quality of life for patients with advanced non-small cell lung cancer. With two-drug combinations, median survival is increased to 8 months or more and 1-year survival is increased to 35% to 40%. Still, complete response rates are low and more than 80% of patients die within 1 year of diagnosis. The improvements created by current therapies led to studies of chemotherapy in the second-line setting. Docetaxel has been shown ",
+      "journal": "Seminars in oncology",
+      "year": "2002",
+      "authors": [
+        "Bunn Paul A",
+        "Chan Daniel C",
+        "Earle Keith",
+        "Zhao Tom L M",
+        "Helfrich Barbara"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Animals",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Cell Cycle",
+        "Disease Models, Animal",
+        "Docetaxel",
+        "Humans",
+        "Immunohistochemistry",
+        "Lung Neoplasms"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11894018/"
+    },
+    {
+      "pmid": "10777470",
+      "title": "Paclitaxel and docetaxel combinations in non-small cell lung cancer.",
+      "abstract": "Paclitaxel, the first of the taxanes, has exhibited unique and encouraging single-agent activity in the treatment of non-small cell lung cancer (NSCLC). Yet, with single-agent response rates approaching 25%, it was logical to examine the impact of paclitaxel in combination chemotherapy regimens. In trials evaluating the activity of paclitaxel in combination with one of the platinum compounds, cisplatin or carboplatin, response rates have ranged from 35 to > 50% and were significantly better than response rates observed with etoposide/cisplatin, the previous standard regimen for treatment of NSCLC. Docetaxel is a newer taxane that also has exhibited notable single-agent activity and response rates ranging from 20 to 50% when combined with cisplatin. Future research will look to refine the use of taxane combinations in NSCLC and to examine the potential of these unique and promising drugs when combined with newer agents that are active against this disease.",
+      "journal": "Chest",
+      "year": "2000",
+      "authors": [
+        "Belani C P"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Agents, Phytogenic",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carboplatin",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Cisplatin",
+        "Docetaxel",
+        "Dose-Response Relationship, Drug",
+        "Humans",
+        "Lung Neoplasms",
+        "Paclitaxel"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10777470/"
+    },
+    {
+      "pmid": "25818741",
+      "title": "The comparisons of the efficacy and toxicity between gefitinib and docetaxel for patients with advanced nonsmall-cell lung cancer: a meta-analysis from randomized controlled clinical trials.",
+      "abstract": "The extent of the benefit of gefitinib in the treatment of advanced nonsmall-cell lung cancer (NSCLC) is till controversial, when compared with docetaxel. We performed this meta-analysis to compare the efficacy and toxicity of gefitinib with docetaxel for different patients with advanced NSCLC.",
+      "journal": "Indian journal of cancer",
+      "year": "2014",
+      "authors": [
+        "Zhao Y L",
+        "Han S",
+        "Pu R",
+        "Shi L W"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Docetaxel",
+        "Gefitinib",
+        "Humans",
+        "Lung Neoplasms",
+        "Quinazolines",
+        "Randomized Controlled Trials as Topic",
+        "Survival Rate",
+        "Taxoids"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25818741/"
+    },
+    {
+      "pmid": "39018922",
+      "title": "Ferroptosis-inducing compounds synergize with docetaxel to overcome chemoresistance in docetaxel-resistant non-small cell lung cancer cells.",
+      "abstract": "Development of resistance to therapy-induced cell death is a major hurdle in the effective treatment of advanced solid tumors. Erastin and RSL3 were originally found to induce synthetic lethality by induction of a novel form of cell death termed ferroptosis. Emerging evidence suggests that ferroptosis inducers enhance chemosensitivity of classic therapeutic agents by triggering ferroptotic cell death. In this study we evaluated the effects of erastin and RSL3 on the resistance of docetaxel, doxorubicin, and cisplatin, and revealed a mechanism whereby these ferroptosis inducers augment docetaxel efficacy in non-small cell lung cancer by regulating redox signaling to promote ferroptosis. Transcriptome analysis revealed that combination treatment modulated not only p53 signaling pathway but also immune responses and several signaling pathways including MAPK, NF-κB and PI3K/Akt. Considering that glutathione peroxidase 4 (GPX4) serves as the main effector to protect cells from ferroptosis, ",
+      "journal": "European journal of medicinal chemistry",
+      "year": "2024",
+      "authors": [
+        "Huang Wei",
+        "Guo Yi",
+        "Qian Yazhi",
+        "Liu Xiaoang",
+        "Li Gaoxiang"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Ferroptosis",
+        "Humans",
+        "Docetaxel",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Drug Resistance, Neoplasm",
+        "Lung Neoplasms",
+        "Antineoplastic Agents",
+        "Drug Screening Assays, Antitumor",
+        "Molecular Structure",
+        "Piperazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39018922/"
+    },
+    {
+      "pmid": "9535209",
+      "title": "Ifosfamide and docetaxel in non-small cell lung cancer.",
+      "abstract": "Ifosfamide has been in use for several decades and is generally considered to be one of the most effective drugs for the treatment of non-small cell lung cancer (NSCLC). At the same time, docetaxel is one of the new, promising drugs with high antitumor activity in various solid tumors. In NSCLC, an objective remission rate of 33% could be achieved in chemotherapy-naive patients. Currently, clinical research with docetaxel in NSCLC patients focuses on various combinations of this drug with radiotherapy and a number of different cytostatic chemicals. There are good reasons for combining docetaxel with ifosfamide. In addition to the promising antitumor activity in NSCLC displayed by both drugs, it is an advantage that docetaxel and ifosfamide have only minimal overlapping nonhematologic toxicity. Moreover, the combination seems to be well founded due to the lack of cross-resistance between docetaxel and alkylators such as ifosfamide of the oxazaphosphorine type, which have shown synergist",
+      "journal": "Seminars in oncology",
+      "year": "1998",
+      "authors": [
+        "Drings P",
+        "Büchholz E",
+        "Manegold C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Clinical Trials, Phase I as Topic",
+        "Clinical Trials, Phase II as Topic",
+        "Docetaxel",
+        "Humans",
+        "Ifosfamide",
+        "Lung Neoplasms",
+        "Paclitaxel",
+        "Taxoids"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9535209/"
+    }
+  ]
+}
