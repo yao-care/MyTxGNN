@@ -6,7 +6,7 @@ drug_name: "Ketoconazole"
 kg_predictions: 759
 dl_predictions: 62
 evidence_level: "L1"
-indication_count: 759
+indication_count: 5
 brands: []
 permalink: /drugs/ketoconazole/
 ---

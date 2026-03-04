@@ -6,7 +6,7 @@ drug_name: "Dexamethasone"
 kg_predictions: 2736
 dl_predictions: 720
 evidence_level: "L1"
-indication_count: 2736
+indication_count: 5
 brands: []
 permalink: /drugs/dexamethasone/
 ---

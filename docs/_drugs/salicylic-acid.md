@@ -6,7 +6,7 @@ drug_name: "Salicylic Acid"
 kg_predictions: 567
 dl_predictions: 282
 evidence_level: "L1"
-indication_count: 567
+indication_count: 5
 brands: []
 permalink: /drugs/salicylic-acid/
 ---

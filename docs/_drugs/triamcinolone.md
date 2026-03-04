@@ -6,7 +6,7 @@ drug_name: "Triamcinolone"
 kg_predictions: 645
 dl_predictions: 637
 evidence_level: "L1"
-indication_count: 645
+indication_count: 5
 brands: []
 permalink: /drugs/triamcinolone/
 ---

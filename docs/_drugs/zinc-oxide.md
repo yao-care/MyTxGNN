@@ -6,7 +6,7 @@ drug_name: "Zinc Oxide"
 kg_predictions: 504
 dl_predictions: 143
 evidence_level: "L1"
-indication_count: 504
+indication_count: 5
 brands: []
 permalink: /drugs/zinc-oxide/
 ---

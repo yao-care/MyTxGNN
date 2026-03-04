@@ -6,7 +6,7 @@ drug_name: "Ibuprofen"
 kg_predictions: 360
 dl_predictions: 77
 evidence_level: "L1"
-indication_count: 360
+indication_count: 5
 brands: []
 permalink: /drugs/ibuprofen/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB02703"
 drug_name: "Fusidic Acid"
 kg_predictions: 3008
 dl_predictions: 294
-evidence_level: "L2"
-indication_count: 3008
+evidence_level: "L5"
+indication_count: 5
 brands: []
 permalink: /drugs/fusidic-acid/
 ---
@@ -21,7 +21,7 @@ permalink: /drugs/fusidic-acid/
 | **DrugBank ID** | [DB02703](https://go.drugbank.com/drugs/DB02703) |
 | **KG Predictions** | 3008 |
 | **DL Predictions (≥0.7)** | 294 |
-| **Evidence Level** | L2 |
+| **Evidence Level** | L5 |
 | **NPRA Status** | Approved |
 
 ---

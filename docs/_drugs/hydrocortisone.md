@@ -6,7 +6,7 @@ drug_name: "Hydrocortisone"
 kg_predictions: 2780
 dl_predictions: 629
 evidence_level: "L1"
-indication_count: 2780
+indication_count: 5
 brands: []
 permalink: /drugs/hydrocortisone/
 ---

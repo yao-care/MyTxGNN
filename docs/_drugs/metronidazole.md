@@ -6,7 +6,7 @@ drug_name: "Metronidazole"
 kg_predictions: 425
 dl_predictions: 491
 evidence_level: "L1"
-indication_count: 425
+indication_count: 5
 brands: []
 permalink: /drugs/metronidazole/
 ---

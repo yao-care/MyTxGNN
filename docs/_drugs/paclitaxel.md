@@ -6,7 +6,7 @@ drug_name: "Paclitaxel"
 kg_predictions: 370
 dl_predictions: 678
 evidence_level: "L1"
-indication_count: 370
+indication_count: 5
 brands: []
 permalink: /drugs/paclitaxel/
 ---

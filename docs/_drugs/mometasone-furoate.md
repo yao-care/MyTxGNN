@@ -6,7 +6,7 @@ drug_name: "Mometasone Furoate"
 kg_predictions: 640
 dl_predictions: 121
 evidence_level: "L1"
-indication_count: 640
+indication_count: 5
 brands: []
 permalink: /drugs/mometasone-furoate/
 ---

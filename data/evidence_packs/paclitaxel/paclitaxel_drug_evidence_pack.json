@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Paclitaxel",
+    "drugbank_id": "DB01229"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 14
+  },
+  "indications": [
+    {
+      "disease": "ovarian clear cell adenocarcinoma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 14,
+      "phase2": 23,
+      "phase4": 0
+    },
+    {
+      "disease": "peritoneum cancer",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 7,
+      "phase2": 26,
+      "phase4": 0
+    },
+    {
+      "disease": "hereditary breast ovarian cancer syndrome",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 4,
+      "articles": 11,
+      "phase3": 0,
+      "phase2": 1,
+      "phase4": 0
+    },
+    {
+      "disease": "primary non-gestational choriocarcinoma of ovary",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 1,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "ovarian carcinosarcoma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 21,
+      "articles": 20,
+      "phase3": 3,
+      "phase2": 12,
+      "phase4": 0
+    }
+  ]
+}

@@ -6,7 +6,7 @@ drug_name: "Betamethasone"
 kg_predictions: 3198
 dl_predictions: 526
 evidence_level: "L1"
-indication_count: 3198
+indication_count: 5
 brands: []
 permalink: /drugs/betamethasone/
 ---

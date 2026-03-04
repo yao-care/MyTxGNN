@@ -5,8 +5,8 @@ drugbank_id: "DB01165"
 drug_name: "Ofloxacin"
 kg_predictions: 690
 dl_predictions: 185
-evidence_level: "L2"
-indication_count: 690
+evidence_level: "L4"
+indication_count: 5
 brands: []
 permalink: /drugs/ofloxacin/
 ---
@@ -21,7 +21,7 @@ permalink: /drugs/ofloxacin/
 | **DrugBank ID** | [DB01165](https://go.drugbank.com/drugs/DB01165) |
 | **KG Predictions** | 690 |
 | **DL Predictions (≥0.7)** | 185 |
-| **Evidence Level** | L2 |
+| **Evidence Level** | L4 |
 | **NPRA Status** | Approved |
 
 ---

@@ -1,126 +1,67 @@
 {
   "meta": {
-    "candidate_id": "MY-DB00860-multi",
     "version": "v1",
     "created_at": "2026-03-04",
-    "data_cutoff": "2026-03-04",
-    "analyzed_by": "Claude"
+    "analyzed_by": "Claude (batch)"
   },
   "drug": {
     "name": "Prednisolone",
-    "drugbank_id": "DB00860",
-    "original_indications": [
-      "Inflammatory conditions",
-      "Allergic disorders",
-      "Autoimmune diseases"
-    ],
-    "original_moa": "Glucocorticoid receptor agonist with anti-inflammatory and immunosuppressive effects"
+    "drugbank_id": "DB00860"
   },
-  "malaysia_regulatory": {
-    "market_status": "Approved",
-    "total_licenses": 38,
-    "sample_products": [
-      "Predsone Syrup 3mg/5ml",
-      "Axcel Prednisolone-5mg Tablet",
-      "Visolone Tablet 1mg"
-    ]
-  },
-  "predicted_indications": [
-    {
-      "rank": 1,
-      "disease_name": "lymphosarcoma",
-      "scoring": {
-        "evidence_level": "L1",
-        "decision_stage": "S3",
-        "recommendation": "Go"
-      },
-      "evidence": {
-        "phase3_completed": 9,
-        "phase3_total": 17,
-        "phase4_total": 3,
-        "phase2_total": 15,
-        "pubmed_articles": 20,
-        "clinical_trials_type": 5
-      },
-      "mechanistic_link": "Corticosteroids induce lymphocyte apoptosis. Prednisolone is a standard component of CHOP chemotherapy regimen for lymphoma."
-    },
-    {
-      "rank": 2,
-      "disease_name": "disease of orbital region",
-      "scoring": {
-        "evidence_level": "L1",
-        "decision_stage": "S3",
-        "recommendation": "Go"
-      },
-      "evidence": {
-        "phase3_completed": 5,
-        "phase3_total": 12,
-        "phase4_completed": 5,
-        "phase4_total": 11,
-        "pubmed_articles": 20
-      },
-      "mechanistic_link": "Anti-inflammatory effects reduce orbital tissue edema. Used for Graves' ophthalmopathy and orbital inflammatory disease."
-    },
-    {
-      "rank": 3,
-      "disease_name": "erythema multiforme",
-      "scoring": {
-        "evidence_level": "L2",
-        "decision_stage": "S2",
-        "recommendation": "Research Question"
-      },
-      "evidence": {
-        "phase3_completed": 2,
-        "phase3_total": 3,
-        "phase2_completed": 6,
-        "phase2_total": 7,
-        "pubmed_articles": 20,
-        "case_reports": 14,
-        "meta_analysis": 1
-      },
-      "mechanistic_link": "Immunomodulatory effects control hypersensitivity reactions in Stevens-Johnson syndrome spectrum."
-    },
-    {
-      "rank": 4,
-      "disease_name": "rheumatic heart disease",
-      "scoring": {
-        "evidence_level": "L2",
-        "decision_stage": "S2",
-        "recommendation": "Research Question"
-      },
-      "evidence": {
-        "phase3_completed": 1,
-        "phase3_total": 2,
-        "phase4_total": 2,
-        "phase2_total": 4,
-        "pubmed_articles": 20
-      },
-      "mechanistic_link": "Anti-inflammatory action reduces cardiac inflammation in acute rheumatic fever."
-    },
-    {
-      "rank": 5,
-      "disease_name": "leukemia, lymphocytic, susceptibility to",
-      "scoring": {
-        "evidence_level": "L4",
-        "decision_stage": "S0",
-        "recommendation": "Hold"
-      },
-      "evidence": {
-        "trials_total": 1,
-        "pubmed_articles": 17
-      },
-      "mechanistic_link": "Basic research on corticosteroid effects on lymphocyte susceptibility. Limited clinical evidence."
-    }
-  ],
-  "overall_assessment": {
+  "overall": {
     "best_evidence_level": "L1",
-    "primary_recommendation": "Go",
-    "summary": "Prednisolone shows strong clinical evidence for lymphosarcoma and orbital diseases, with multiple completed Phase 3/4 trials. Evidence for erythema multiforme and rheumatic heart disease is moderate (L2)."
+    "npra_products": 38
   },
-  "query_log": [
-    {"source": "npra", "status": "success", "count": 38},
-    {"source": "drugbank", "status": "success", "count": 1},
-    {"source": "clinicaltrials", "status": "success", "count": 124},
-    {"source": "pubmed", "status": "success", "count": 97}
+  "indications": [
+    {
+      "disease": "erythema multiforme",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 14,
+      "articles": 20,
+      "phase3": 3,
+      "phase2": 8,
+      "phase4": 0
+    },
+    {
+      "disease": "lymphosarcoma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 17,
+      "phase2": 17,
+      "phase4": 3
+    },
+    {
+      "disease": "disease of orbital region",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 15,
+      "phase2": 9,
+      "phase4": 11
+    },
+    {
+      "disease": "leukemia, lymphocytic, susceptibility to",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 1,
+      "articles": 17,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "rheumatic heart disease",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 9,
+      "articles": 20,
+      "phase3": 4,
+      "phase2": 4,
+      "phase4": 2
+    }
   ]
 }

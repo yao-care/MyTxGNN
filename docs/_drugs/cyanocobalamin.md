@@ -6,7 +6,7 @@ drug_name: "Cyanocobalamin"
 kg_predictions: 320
 dl_predictions: 113
 evidence_level: "L1"
-indication_count: 320
+indication_count: 5
 brands: []
 permalink: /drugs/cyanocobalamin/
 ---

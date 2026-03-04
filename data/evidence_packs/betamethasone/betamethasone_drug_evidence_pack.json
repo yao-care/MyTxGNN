@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Betamethasone",
+    "drugbank_id": "DB00443"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 97
+  },
+  "indications": [
+    {
+      "disease": "erythema multiforme",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 17,
+      "articles": 20,
+      "phase3": 6,
+      "phase2": 3,
+      "phase4": 5
+    },
+    {
+      "disease": "lymphosarcoma",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "disease of orbital region",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 23,
+      "articles": 0,
+      "phase3": 7,
+      "phase2": 10,
+      "phase4": 3
+    },
+    {
+      "disease": "leukemia, lymphocytic, susceptibility to",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 0,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "rheumatic heart disease",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 4,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

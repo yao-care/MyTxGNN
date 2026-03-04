@@ -6,7 +6,7 @@ drug_name: "Telmisartan"
 kg_predictions: 348
 dl_predictions: 72
 evidence_level: "L1"
-indication_count: 348
+indication_count: 5
 brands: []
 permalink: /drugs/telmisartan/
 ---

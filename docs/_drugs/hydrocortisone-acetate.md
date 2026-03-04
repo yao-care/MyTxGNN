@@ -6,7 +6,7 @@ drug_name: "Hydrocortisone Acetate"
 kg_predictions: 2880
 dl_predictions: 472
 evidence_level: "L1"
-indication_count: 2880
+indication_count: 5
 brands: []
 permalink: /drugs/hydrocortisone-acetate/
 ---

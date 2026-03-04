@@ -6,7 +6,7 @@ drug_name: "Fluticasone Propionate"
 kg_predictions: 540
 dl_predictions: 110
 evidence_level: "L1"
-indication_count: 540
+indication_count: 5
 brands: []
 permalink: /drugs/fluticasone-propionate/
 ---

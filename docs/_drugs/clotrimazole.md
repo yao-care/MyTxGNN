@@ -6,7 +6,7 @@ drug_name: "Clotrimazole"
 kg_predictions: 549
 dl_predictions: 83
 evidence_level: "L1"
-indication_count: 549
+indication_count: 5
 brands: []
 permalink: /drugs/clotrimazole/
 ---

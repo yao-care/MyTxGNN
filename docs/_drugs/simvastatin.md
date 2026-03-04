@@ -6,7 +6,7 @@ drug_name: "Simvastatin"
 kg_predictions: 528
 dl_predictions: 120
 evidence_level: "L1"
-indication_count: 528
+indication_count: 5
 brands: []
 permalink: /drugs/simvastatin/
 ---
