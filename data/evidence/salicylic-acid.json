@@ -1,0 +1,1007 @@
+{
+  "drug": "Salicylic Acid",
+  "drugbank_id": "DB00936",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T09:56:36Z",
+  "indications": [
+    {
+      "indication": "keratinization disease",
+      "evidence_level": "L2",
+      "trials": 1,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 7,
+        "total_trials": 1,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "acne",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 2,
+        "phase1_trials": 1,
+        "other_trials": 15,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "plantar wart",
+      "evidence_level": "L1",
+      "trials": 5,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 1,
+        "other_trials": 3,
+        "rct_articles": 1,
+        "review_articles": 3,
+        "other_articles": 6,
+        "total_trials": 5,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "acquired keratosis",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 6,
+        "total_trials": 0,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "osteoarthritis",
+      "evidence_level": "L3",
+      "trials": 3,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 1,
+        "other_trials": 2,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 7,
+        "total_trials": 3,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 29,
+  "total_articles": 49,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05536193",
+      "title": "Efficacy and Safety of Topical Metformin Emulgel Versus Salicylic Acid Peeling in Treatment of Acne Vulgaris: A Split Face Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-09-10",
+      "completion_date": "2023-09-10",
+      "country": "N/A",
+      "enrollment": 34,
+      "brief_summary": "Acne Vulgaris (AV ) is a common skin disorder worldwide, affecting all ages and races, considered as a long term chronic inflammatory disease of the skin.It affects nearly 85% of adolescents and about 30% of adults which is known as post- adolescent acne that often occurs in individuals aged 25 years or older particularly women.\n\nAcne lesions, which may be papules, pustules, or nodules commonly affecting face, chest and back therefore acne patients may suffer from emotional distress due to its c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Both males and females will be included.\n* Patients older than 18 years of age.\n* Patients with mild and moderate AV.\n* Patients with Fitzpatrick skin type III, IV and V.\n\nExclusion Criteria:\n\n* Severe acne.\n\n  * Patients under treatment with contraceptive pills or received an",
+      "endpoints": [
+        "Efficacy of the medications",
+        "Evaluate effect of topical metformin on decreasing serum concentration of insulin-like growth factor 1 (IGF-1)"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT05536193"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06179056",
+      "title": "Anti-microbial Role of Non-antibiotic Agents Against Cutibacterium Acnes in Patients With Acne Vulgaris",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2023-03-01",
+      "completion_date": "2024-02-01",
+      "country": "Egypt",
+      "enrollment": 48,
+      "brief_summary": "* To evaluate and compare the anti-biofilm activity of Salicylic acid, Isotretinoin, and N-acetylcysteine against C. acne .\n* To assess the possible role of Salicylic acid, Isotretinoin, and N-acetylcysteine in improving the susceptibility of C. acne for Azithromycin and Doxycycline.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult Patients.\n* Patients of both sexes.\n* Patients with acne vulgaris with different grades\n\nExclusion Criteria:\n\n* Patients received topical or oral treatment within 6 weeks prior to microbiological sampling",
+      "endpoints": [
+        "inhibition of biofilm formation of c.acne after the use of Salicylic acid, Isotretinoin, and N-acetylcysteine",
+        "improvement of antibiotic sensitivity of c.acne after the use of Salicylic acid, Isotretinoin, and N-acetylcysteine"
+      ],
+      "sponsor": "Zagazig University",
+      "url": "https://clinicaltrials.gov/study/NCT06179056"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05497323",
+      "title": "Effectivity and Safety of Combination Cream of Salicylic Acid, Aqua Posae Filiformis, Niacinamide, Lipohydroxy Acid, Procerad and Zinc PCA as Adjuvant Therapy for Acne Vulgaris Mild to Moderate",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2022-08-01",
+      "completion_date": "2023-05-01",
+      "country": "Indonesia",
+      "enrollment": 284,
+      "brief_summary": "This clinical study will compare the effectivity and safety of combination cream of Salicylic Acid, Aqua Posae Filiformis, Niacinamide, Lipohydroxy Acid, Procerad, and Zinc PCA as adjuvant therapy for acne vulgaris patients. These combination cream will be tested by mild to moderate acne vulgaris patients. Participants will be female patients aged 15-50 years old and divided into three groups. The control group (Group 1) will use Adapalene 0.1% cream only every night. Group 2 will use Adapalene ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female aged 15 - 50 years\n* Mild and moderate acne vulgaris according to IAEM and GEA.\n* Patients are willing to participate in the study until it is finished.\n\nExclusion Criteria:\n\n* History of allergy to dermatocosmetic products.\n* Undergoing other acne therapy, medication, ",
+      "endpoints": [
+        "Change of acne severity",
+        "Change of acne severity",
+        "Change of Level Of Seborrhea"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT05497323"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05779085",
+      "title": "ASSESSMENT OF CLINICAL, INSTRUMENTAL AND NOTICED EFICACY BY SUBJECTS OF A COSMETIC PRODUCT 12.0417.01.090 UNDER NORMAL CONDITIONS OF USE Study With Dermatological Follow-up Including Instrumental Measurements",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2013-04-08",
+      "completion_date": "2013-07-22",
+      "country": "Brazil",
+      "enrollment": 56,
+      "brief_summary": "A clinical study with 56 healthy subjects (both sexes) aged between 13 to 25 years old. Subjects enrolled had a minimum of 5 inflammatory lesions (papules, nodules and pustules) and 10 non-inflammatory lesions (open and closed comedones), determined by dermatologist. The clinical evaluation considered in oiliness, shininess and global aspect of the skin too. Instrumental assessment of oiliness and shininess was performed, respectively, by Sebumeter and Sebutape.\n\nIThe tested cleanser was used tw",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* subjects aged 13-25 years\n* mild to moderate acne on the face\n* signed informed consent\n\nExclusion Criteria:\n\n* subjects below 13 years and above 26 years\n* severe acne on the face",
+      "endpoints": [
+        "Global lesion count",
+        "Global lesion count",
+        "Closed comedones"
+      ],
+      "sponsor": "Cosmetique Active International",
+      "url": "https://clinicaltrials.gov/study/NCT05779085"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06120452",
+      "title": "A Clinical Trial to Evaluate the Effectiveness of an Acne Serum in Improving Facial Acne and Post-Acne Pigmentation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-10-06",
+      "completion_date": "2024-01-31",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study will evaluate the efficacy of the Rael Miracle Clear Complete Acne Serum product in improving facial acne and post-acne pigmentation. This study will last for 56 days. The study will be conducted as a single-arm trial where all participants will use the test products. Participants will be required to complete questionnaires at Baseline, Day 1, Day 3, Day 7, Day 14, Day 28, and Day 56. Photos will be taken at Baseline, Day 28, and Day 56. The photos from Baseline and Day 56 will underg",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female. Age 18+. Currently experiencing mild to moderate acne issues. Generally healthy -and not living with any uncontrolled chronic disease.\n\nExclusion Criteria:\n\n* Anyone with pre-existing chronic conditions that would prevent participants from adhering to the protocol, inc",
+      "endpoints": [
+        "Changes in the appearance of facial acne. [Timeframe: Baseline to Day 56]",
+        "Changes in the appearance of post-acne pigmentation. [Timeframe: Baseline to Day 56]"
+      ],
+      "sponsor": "Rael",
+      "url": "https://clinicaltrials.gov/study/NCT06120452"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01160848",
+      "title": "A Clinical Study of Photoactive Porphyrins (PAP) Levels in Acne-affected Skin After Topical Visonac Application in Patients With Moderate to Severe Facial Acne Vulgaris",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "Open, prospective, randomized, single-centre study in patients with moderate to severe facial acne vulgaris. Three circular areas with a diameter of 4 cm, each circle including at least 4 inflammatory lesions, will be selected in acne-affected areas in the face. One area should be identified on each cheek and one area should be identified on the forehead. The minimum distance between the three areas should be at least 4 cm. For each patient the three areas will be randomized to either a pre-trea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed and verified informed consent form. For patients under age of 18, an assent form in conjunction with an informed consent form, signed and verified by parent/guardian.\n* Adolescent and adult female and male patients, from 12 to 35 years of age.\n* Patients with moderate t",
+      "endpoints": [
+        "Photoactive Porphyrins Level",
+        "Photoactive Porphyrins Level",
+        "Photoactive Porphyrins Level"
+      ],
+      "sponsor": "Photocure",
+      "url": "https://clinicaltrials.gov/study/NCT01160848"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02052752",
+      "title": "A Randomized, Double-blinded Study to Evaluate the Ability of an Acne Treatment Product to Produce Visible Improvements in Acne Lesions Over a 5 Day Period of Once-daily Use",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-02",
+      "completion_date": "2014-05",
+      "country": "United States",
+      "enrollment": 90,
+      "brief_summary": "5 Day study to assess how quickly a topical acne product begins to work.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Capable of understanding and willing to provide signed and dated written voluntary informed consent (and any local or national authorization requirements) before any protocol specific procedures are performed.\n2. Fitzpatrick Skin Type I - V.\n3. Male or female aged from 12 to ",
+      "endpoints": [
+        "To Assess the Percentage Change in Acne Lesion Swelling (Height) of the Target Lesion for 3% Benzoyl Peroxide (BPO) Gel Test Product Relative to the Vehicle Gel After 4 Once-daily Applications."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02052752"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06775314",
+      "title": "The Effectiveness and Safety of Cleanser Containing Triethyl Citrate, Pyruvic Acid, Combination Cream Containing Triethyl Citrate, Ethyl Linoleate, GT Peptide-10, Salicylic Acid 0,5%, Zinc Lactate, Hyaluronic Acid and Spot Cream Containing Triethyl Citrate, Ethyl Linoleate, GT Peptide-10, Honokiol As Adjuvant Therapy for Mild to Moderate Acne Vulgaris",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-03-01",
+      "completion_date": "2025-06-30",
+      "country": "Indonesia",
+      "enrollment": 102,
+      "brief_summary": "The goal of this clinical study is to learn the effectiveness and safety of Cleanser containing Triethyl citrate, Pyruvic acid, Combination cream containing Triethyl citrate, Ethyl linoleate, GT peptide-10, Salicylic acid 0,5%, Zinc lactate, Hyaluronic acid and Spot cream containing Triethyl citrate, Ethyl linoleate, GT peptide-10, Honokiol as Adjuvant Therapy for Mild to Moderate Acne Vulgaris. This research aims to answer the main questions, those are :\n\n1. How is the effectiveness of Cleanser",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female and male aged 15-50 years\n* mild to moderate acne vulgaris according to IAEM (Indonesian Acne Expert Meeting) scale and GEA ( Global Acne Severity) scale\n* The subject is willing to participate in the study until it is finished\n\nExclusion Criteria:\n\n* History of allergy",
+      "endpoints": [
+        "Change of acne severity",
+        "Change of acne severity",
+        "total of inflammation lesion and non inflammation lesion"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT06775314"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07401342",
+      "title": "An Assessment of the Efficacy and Safety of Employing a Duosomal Chemical Peel for Aesthetic Enhancement in the Periocular and Facial Regions",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-11-01",
+      "completion_date": "2024-01-31",
+      "country": "Mexico",
+      "enrollment": 12,
+      "brief_summary": "This study will employ an experimental, prospective, longitudinal, and comparative before-and-after design. The objective is to assess the efficacy and safety of duosomal chemical peels as agents for enhancing the aesthetic appearance of the periocular and facial regions",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Individuals aged 21 years and older, both male and female, who seek enhancement of the periocular and facial regions will be considered for recruitment. Participants must agree to the study conditions, consent to the follow-up period as proposed, and provide informed consent f",
+      "endpoints": [
+        "Objective skin quality improvement",
+        "Subjective skin quality improvement"
+      ],
+      "sponsor": "Instituto de Oftalmología Fundación Conde de Valenciana",
+      "url": "https://clinicaltrials.gov/study/NCT07401342"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05469880",
+      "title": "Evaluation of the Efficacy and Tolerance of Formula 609613 37 in Acneic Patients as an Adjunct to and in Addition to 5% Benzoyl Peroxide for 6 Months",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-10-21",
+      "completion_date": "2010-05-25",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Acne affects most adolescents and young adults with varying severity and presentation. For early or localized forms, the first-line treatment is usually local. The available treatments often lead to local irritation, particularly during the first few weeks of use. This is why creams containing exfoliating agents have long been used in acne, as they are considered to allow a faster disappearance of superficial lesions.\n\nThe objective of this 6-month double-blind study is to demonstrate in 100 acn",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* acneic facial skin\n* between 20 and 50 non-inflammatory lesions on the face\n* between 10 and 40 superficial inflammatory lesions on the face\n* no local acneic treatment in the previous 15 days\n* no treatment with isotretinoin in the previous 3 months\n* agreeing to apply only t",
+      "endpoints": [
+        "change in the composite score"
+      ],
+      "sponsor": "Cosmetique Active International",
+      "url": "https://clinicaltrials.gov/study/NCT05469880"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05821296",
+      "title": "Evaluation of the Efficacy and Tolerance of Crystal Peel (a Salicylic Acid Based Peel) in the Treatment of Acne",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-01-23",
+      "completion_date": "2023-06-07",
+      "country": "Poland",
+      "enrollment": 42,
+      "brief_summary": "The goal of this interventional, confirmatory and post market study is to evaluate the efficacy and clinical performance of Crystal Peel in adults suffering mild facial acne vulgaris. The principal and secondary aims are:\n\n* Principal aim: to evaluate the efficacy and clinical performance of Crystal Peel, a salicylic-based peel, for the treatment of acne by lesions counting (front, 2 cheeks, the chin above the jaw line (excluding the nose)) using both visual observation and palpation.\n* Secondar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy subjects\n2. Gender: female and/or male.\n3. Age: 18 - 45\n4. Phototype I to IV according Fitzpatrick scale.\n5. Healthy subject with normal physical examination results and a medical history compatible with the requirements of the study.\n6. A healthy male or female subje",
+      "endpoints": [
+        "Comparison of the Change From Baseline of Count Lesions on Each Visit to Evaluate the Efficacy and Clinical Performance of Crystal Peel for the Treatment of Acne."
+      ],
+      "sponsor": "Dermosciences France",
+      "url": "https://clinicaltrials.gov/study/NCT05821296"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06943118",
+      "title": "Comparison of Efficacy of 35% Glycolic Acid vs 20% Salicylic Acid Peel in the Treatment of Post Acne Scars",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04",
+      "completion_date": "2025-10",
+      "country": "Pakistan",
+      "enrollment": 60,
+      "brief_summary": "The goal of this clinical trial is to compare the effectiveness of two drugs in patients that presents with scars on face after acnes. The effectiveness will be measured by a goodman and baron scale. One group of patients will receive 35% glycolic acid while other group of patients will receive 20% salicylic acid and both groups will be followed by 12 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 18-45 years with mild to moderate atrophic post acne scars\n* Fitzpatrick skin type 2-4\n* No active acne or ongoing systemic acne treatment\n\nExclusion Criteria:\n\n* Pregnancy and breast feeding\n* History of keloid or hypertrophic scars\n* Use of retinoids or chemica",
+      "endpoints": [
+        "improvement in acne scars as per Goodman and baron scale"
+      ],
+      "sponsor": "Hayatabad Medical Complex",
+      "url": "https://clinicaltrials.gov/study/NCT06943118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05584150",
+      "title": "Assessment of the Benefit of a Deep Cleansing Gel Containing Salicylic Acid 2%, Zinc Gluconate 0.2% and Lipohydroxy Acids 0.05% in Patients With Mild to Moderate Truncal Acne: Results From an Exploratory Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-10-01",
+      "completion_date": "2020-11-30",
+      "country": "Brazil",
+      "enrollment": 35,
+      "brief_summary": "Acne vulgaris is a chronic inflammatory disease, mainly of the face, but also of the trunk. Acne may be caused by internal and external factors. Only a very small amount of data exists concerning truncal acne. The condition affects about 9% of the population worldwide, with 50% of subjects with facial acne also presenting with truncal acne. Until recently, clinicians frequently followed the same therapeutic approach as for facial acne, with treatment adherence remaining an issue.\n\nThis study ass",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* above 18 years\n* truncal acne\n\nExclusion Criteria:\n\n\\- None",
+      "endpoints": [
+        "Investigator global assessment",
+        "Investigator global assessment",
+        "Investigator global assessment"
+      ],
+      "sponsor": "Cosmetique Active International",
+      "url": "https://clinicaltrials.gov/study/NCT05584150"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01706263",
+      "title": "U0289-402: An Open Label, 8 Week Study to Evaluate the Efficacy and Tolerability of MAXCLARITY II in Subjects With Acne",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-08-01",
+      "completion_date": "2009-11-20",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "One of the main success factors in acne therapy is user compliance with treatment, product cost, availability and ease of use. Poor compliance may translate into decreased efficacy (either not improving symptoms well enough or not improving symptoms fast enough), tolerability issues or adverse effects (eg, erythema, dryness, or peeling of the skin), a lack of understanding of the instructions for use, or product cost/availability. Whatever the reason, poor compliance translates to decreased effi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Capable of understanding and willing to provide signed and dated written voluntary informed consent (and any local or national authorization requirements) before any protocol specific procedures are performed.\n2. Male or female aged from 16 to 29 years, inclusive, at time of ",
+      "endpoints": [
+        "Mean Percent Change in Inflammatory, Non Inflammatory, and Total Lesion Counts From Baseline to Week 8"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01706263"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03859843",
+      "title": "Efficacy and Antimicrobial Activity of Platelet Rich Plasma (PRP) in Acne Vulgaris : A Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-01-10",
+      "completion_date": "2022-05-10",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "Efficacy and Antimicrobial activity of Platelet Rich Plasma (PRP) in Acne Vulgaris : A randomized controlled trial",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with active acne vulgaris lesions (inflammatory and non-inflammatory).\n* Age range from 14 to 40 years.\n* Patients with any topical and systemic treatments will undergo wash out period of one month.\n\nExclusion Criteria:\n\n* Patients with herpes labials, or bacterial in",
+      "endpoints": [
+        "Cure rate"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03859843"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04002024",
+      "title": "A Randomized Controlled Trial of Efficiency of Moisturizer Containing Licochalcone A, Decanediol, L-carnitine and Salicylic Acid in Reducing Relapsing of Acne in Thai Acne Subjects",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-06-01",
+      "completion_date": "2020-05-01",
+      "country": "Thailand",
+      "enrollment": 50,
+      "brief_summary": "Moisturizer containing the active ingredients of licochalcone A, decanediol, L-carnitine, and salicylic acid may be beneficial in alternative treatment of acne in maintenance phase. This study aims to evaluate the efficacy and safety of moisturizer containing the active ingredients of licochalcone A, decanediol, L-carnitine, and salicylic acid during the maintenance phase of acne in Thai patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who had age more than 18 years\n2. Female patients must use any reliable contraceptive methods except contraceptive pills for at least 1 month prior to the study and 6 months after the completion of the study\n3. Being diagnosed acne vulgaris by dermatologist. Patients",
+      "endpoints": [
+        "Reduction of acne lesion count of moisturizer containing the active ingredients of licochalcone A, decanediol, L-carnitine, and salicylic acid",
+        "Relapse rate of acne of moisturizer containing the active ingredients of licochalcone A, decanediol, L-carnitine, and salicylic acid",
+        "Time to acne relapse of moisturizer containing the active ingredients of licochalcone A, decanediol, L-carnitine, and salicylic acid"
+      ],
+      "sponsor": "Mahidol University",
+      "url": "https://clinicaltrials.gov/study/NCT04002024"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05536193",
+      "title": "Efficacy and Safety of Topical Metformin Emulgel Versus Salicylic Acid Peeling in Treatment of Acne Vulgaris: A Split Face Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-09-10",
+      "completion_date": "2023-09-10",
+      "country": "N/A",
+      "enrollment": 34,
+      "brief_summary": "Acne Vulgaris (AV ) is a common skin disorder worldwide, affecting all ages and races, considered as a long term chronic inflammatory disease of the skin.It affects nearly 85% of adolescents and about 30% of adults which is known as post- adolescent acne that often occurs in individuals aged 25 years or older particularly women.\n\nAcne lesions, which may be papules, pustules, or nodules commonly affecting face, chest and back therefore acne patients may suffer from emotional distress due to its c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Both males and females will be included.\n* Patients older than 18 years of age.\n* Patients with mild and moderate AV.\n* Patients with Fitzpatrick skin type III, IV and V.\n\nExclusion Criteria:\n\n* Severe acne.\n\n  * Patients under treatment with contraceptive pills or received an",
+      "endpoints": [
+        "Efficacy of the medications",
+        "Evaluate effect of topical metformin on decreasing serum concentration of insulin-like growth factor 1 (IGF-1)"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT05536193"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02524665",
+      "title": "U0289-404: An Evaluator Blinded, 8 Week, Split Face Study to Evaluate and Compare the Efficacy and Tolerability of MAXCLARITYII and MURAD in Subjects With Acne",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2009-12",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "One of the main success factors in acne therapy is user compliance with treatment, product cost, availability and ease of use. Poor compliance may translate into decreased efficacy (either not improving symptoms well enough or not improving symptoms fast enough), tolerability issues or adverse effects (eg, erythema, dryness, or peeling of the skin), a lack of understanding of the instructions for use, or product cost/availability. Whatever the reason, poor compliance translates to decreased effi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Capable of understanding and willing to provide signed and dated written voluntary informed consent (and any local or national authorization requirements) before any protocol specific procedures are performed.\n2. Male or female aged from 16 to 29 years, inclusive, at time of ",
+      "endpoints": [
+        "Mean Percent Change in Inflammatory, Non-inflammatory and Total Lesion Counts From Baseline to Week 8."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02524665"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02755545",
+      "title": "A Multi-Center Clinical Trial to Evaluate the Efficacy of Two Acne Treatments",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-05-01",
+      "completion_date": "2017-04-04",
+      "country": "United States",
+      "enrollment": 127,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of 2 acne treatments for 24 weeks of use in adult men and women with mild to moderate facial acne, at least 5 inflammatory lesions, and at least 10 - 100 non-inflammatory lesions.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Men and women age 21 to 45 years at the time of enrollment.\n2. Individuals with mild to moderate acne (score of 2-3 on FDA Investigator's Global Assessment Scale1) on the face.\n3. Individuals with at least 5 inflammatory lesions.\n4. Individuals with 10 - 100 non-inflammat",
+      "endpoints": [
+        "Percent Change From Baseline in Total Lesions at Week 12"
+      ],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT02755545"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01179633",
+      "title": "Acne Treatment With Active Patches Which Contains Azelaic Acid, Citric Acid,Salicylic Acid and 2% Ascorbic Acid",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-03",
+      "completion_date": "2010-06",
+      "country": "Israel",
+      "enrollment": 35,
+      "brief_summary": "The purpose of this study was to demonstrate the effect of short treatment with active OPLON patches on Acne.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Acne Vulgaris\n* Over 18 years\n* Signing informed consent\n\nExclusion Criteria:\n\n* Active treatment of acne\n* Change in hormonal therapy\n* Antibiotic treatment in a week prior to the experiment\n* Sensitive skin\n* Pregnancy",
+      "endpoints": [
+        "Severity Score of lesion"
+      ],
+      "sponsor": "Oplon-Pure Science Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01179633"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "30972839",
+      "title": "Salicylic acid treats acne vulgaris by suppressing AMPK/SREBP1 pathway in sebocytes.",
+      "abstract": "Acne vulgaris is a prevalent cutaneous disease characterized by a multifactorial pathogenic process including hyperseborrhea, inflammation, over-keratinization of follicular keratinocytes and Propionibacterium acnes (P acnes) overgrowth. Salicylic acid (SA), a beta-hydroxy acid, is frequently used in the treatment of acne. SA has been found to decrease skin lipids and to possess anti-inflammatory properties. However, few studies have elucidated the mechanisms and pathways involved in such treatment of acne. In this study, we initially investigated the anti-acne properties of SA in human SEB-1 sebocytes. Treatment with SA decreased sebocyte lipogenesis by downregulating the adenosine monophosphate-activated protein kinase (AMPK)/sterol response element-binding protein-1 (SREBP-1) pathway and reduced inflammation by suppressing the NF-κB pathway in these cells. Salicylic acid also decreased the cell viability of SEB-1 by increasing apoptosis via the death signal receptor pathway. Subsequ",
+      "journal": "Experimental dermatology",
+      "year": "2019",
+      "authors": [
+        "Lu Jin",
+        "Cong Tianxin",
+        "Wen Xiang",
+        "Li Xiaoxue",
+        "Du Dan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "AMP-Activated Protein Kinases",
+        "Acne Vulgaris",
+        "Apoptosis",
+        "Cell Line",
+        "Computational Biology",
+        "Down-Regulation",
+        "Humans",
+        "Keratinocytes",
+        "Lipid Metabolism",
+        "Propionibacterium acnes"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30972839/"
+    },
+    {
+      "pmid": "11976541",
+      "title": "[Xerosis].",
+      "abstract": "The clinical characteristic of xerosis is rough or coarse skin. Physiopathologically, the structure of the stratum corneum is modified and abnormalities in keratinization, proliferation, surface lipid, water metabolism and also pH and sebum exist. There are two forms of xerosis: dry skin forms and ichtyosis or ichtyosis-like forms. Xerosis has many etiologies including external aggression, senescence, drugs, infection, atopy, deficiencies, malignant diseases, endocrine affections, eating disorders and renal failure in dialyzed patients. It provokes cutaneous discomfort and unaesthetic appearance that justify appropriate treatment. Treatment is essentially local, symptomatic and must be accompanied by general measures. Many products include moisturizers and emollients (keratolytics: salicylic acid, urea and alpha-hydroxy acid).",
+      "journal": "Annales de dermatologie et de venereologie",
+      "year": "2002",
+      "authors": [
+        "Mazereeuw J",
+        "Bonafé J-L"
+      ],
+      "pub_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Dermatologic Agents",
+        "Diet",
+        "Emollients",
+        "Humans",
+        "Hydrotherapy",
+        "Ichthyosis",
+        "Keratolytic Agents",
+        "Salicylic Acid"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11976541/"
+    },
+    {
+      "pmid": "19467104",
+      "title": "[Not Available].",
+      "abstract": "Summary Seborrhea is a problem which ought to be corrected in view of its inacceptability for aesthetic reasons as well as for the complications which can follow, particularly those of acne. The medical treatments of seborrhea are not entirely satisfactory. Products for treating seborrhea do not give complete satisfaction due to secondary effects. When the dosages employed are sufficient to have an effect they are also contraindicated, especially in the female. Cosmetic treatments have considerable benefit and are completely innocuous. The treatment of acne is based on the inhibition of bacterial colonization of the pilo-sebaceous follicle (tetracycline, erythromycine and benzoyl peroxide) as well as by treatments which modify keratinization (vitamin A acid as well as salicylic acid and resorcin). Yeast infections appearing on oily skins are easily treated by classic fungicides. These two diseases associated with oily skin recur continually and require a maintenance therapy.",
+      "journal": "International journal of cosmetic science",
+      "year": "1980",
+      "authors": [
+        "Chivot M"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19467104/"
+    },
+    {
+      "pmid": "26916232",
+      "title": "The role of topical dermocosmetics in acne vulgaris.",
+      "abstract": "Acne is a common chronic inflammatory disease and treatment modalities based on acne severity are well established. The role of dermocosmetics in dermatology, and in particular acne, is becoming more important as more research elucidates the mechanisms of action of products in the pathogenesis of acne. Dermocosmetics have the potential to be used as monotherapy or in combination with medical treatment. Therefore, it has become important for dermatologists to understand dermocosmetics to effectively and appropriately advise patients on their use. The objective of this review was to provide new insights into the role of traditional and novel ingredients in dermocosmetics for the treatment of acne, based on the authors' objective assessment of the published literature. The type of products discussed include: those which have a sebostatic effect, such as topical antioxidants and niacinamide; agents targeting abnormal keratinization, such as salicylic acid, lipo-hydroxy acid, alpha-hydroxy ",
+      "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "year": "2016",
+      "authors": [
+        "Araviiskaia E",
+        "Dréno B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acne Vulgaris",
+        "Administration, Topical",
+        "Cosmetics",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26916232/"
+    },
+    {
+      "pmid": "31032792",
+      "title": "Combination of 30% Salicylic Acid Peels and Mechanical Comedo Extraction for the Treatment of Favre-Racouchot Syndrome.",
+      "abstract": "Dear Editor, Favre-Racouchot syndrome is a cutaneous disease characterized by cysts, comedones, and elastotic nodules in actinically damaged skin, typically on the face (1). It has been specifically connected to sun exposure and heavy smoking, which may act synergistically (2). Available medical and surgical therapies are of variable efficacy. We present a combined therapeutic approach: 30% salicylic acid peels followed by manual extraction of cystic and comedonal material in the same visit. Five male patients, aged between 60-75 years with the clinical diagnosis of Favre-Racouchot syndrome, were treated with salicylic acid peel 30% followed by cyst and mechanical comedo extraction. Local anesthesia was considered unnecessary. Patients were subjected to the above therapies every two weeks for a series of four treatments. Photographs were taken before the beginning of treatment, as well as before and after each session (Figures 1a, b and 2a, b). At the end of the study, physician and pa",
+      "journal": "Acta dermatovenerologica Croatica : ADC",
+      "year": "2019",
+      "authors": [
+        "Platsidaki Eftychia",
+        "Markantoni Vasiliki",
+        "Balamoti Evgenia",
+        "Kouris Anargyros",
+        "Rigopoulos Dimitrios"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Chemexfoliation",
+        "Facial Dermatoses",
+        "Humans",
+        "Keratolytic Agents",
+        "Male",
+        "Middle Aged",
+        "Salicylic Acid"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31032792/"
+    },
+    {
+      "pmid": "10449958",
+      "title": "Comparative effects of retinoic acid, glycolic acid and a lipophilic derivative of salicylic acid on photodamaged epidermis.",
+      "abstract": "Studies comparing purported antiaging compounds are rare.",
+      "journal": "Dermatology (Basel, Switzerland)",
+      "year": "1999",
+      "authors": [
+        "Pi rard G E",
+        "Kligman A M",
+        "Stoudemayer T",
+        "Lévêque J L"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Double-Blind Method",
+        "Epidermis",
+        "Female",
+        "Filaggrin Proteins",
+        "Glycolates",
+        "Humans",
+        "Immunohistochemistry",
+        "Intermediate Filament Proteins",
+        "Keratins",
+        "Keratolytic Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10449958/"
+    },
+    {
+      "pmid": "29077501",
+      "title": "Management of Plantar KeratodermasLessons from Pachyonychia Congenita.",
+      "abstract": "Plantar keratodermas can arise due to a variety of genetically inherited mutations. The need to distinguish between different plantar keratoderma disorders is becoming increasingly apparent because there is evidence that they do not respond identically to treatment. Diagnosis can be aided by observation of other clinical manifestations, such as palmar keratoderma, more widespread hyperkeratosis of the epidermis, hair and nail dystrophies, or erythroderma. However, there are frequent cases of plantar keratoderma that occur in isolation. This review focuses on the rare autosomal dominant keratin disorder pachyonychia congenita, which presents with particularly painful plantar keratoderma for which there is no specific treatment. Typically, patients regularly trim/pare/file/grind their calluses and file/grind/clip their nails. Topical agents, including keratolytics (eg, salicylic acid, urea) and moisturizers, can provide limited benefit by softening the skin. For some patients, retinoids ",
+      "journal": "Journal of the American Podiatric Medical Association",
+      "year": "2017",
+      "authors": [
+        "Porter Rebecca M",
+        "Bravo Albert A",
+        "Smith Frances J D"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Comorbidity",
+        "Disease Management",
+        "Female",
+        "Humans",
+        "Keratoderma, Palmoplantar",
+        "Male",
+        "Pachyonychia Congenita",
+        "Pain Management",
+        "Prognosis",
+        "Quality of Life"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29077501/"
+    },
+    {
+      "pmid": "36812285",
+      "title": "A Case of Segmental Darier Disease.",
+      "abstract": "Darier disease (DD), also known as Darier-White disease, follicular keratosis, or dyskeratosis follicularis, is an uncommon autosomal dominant genodermatosis with complete penetrance and variable expressivity. This disorder is caused by mutations in the ATP2A2 gene and affects the skin, nails, and mucous membranes (1,2). A 40-year-old woman, without comorbidities, presented with pruritic, unilateral skin lesions on the trunk since she was 37 years old. Lesions had remained stable since onset, with physical examination revealing tiny scattered erythematous to light brown keratotic papules beginning at the patient's abdominal midline, extending over her left flank and onto her back (Figure 1, a, b). No other lesions were observed, and family history was negative. Skin punch biopsy revealed parakeratotic and acanthotic epidermis with foci of suprabasilar acantholysis and corps ronds in the stratum spinosum (Figure 2, a, b, c). Based on these findings, the patient was diagnosed with segmen",
+      "journal": "Acta dermatovenerologica Croatica : ADC",
+      "year": "2022",
+      "authors": [
+        "Franceschi Nika",
+        "Gašić Ana",
+        "Šitum Mirna",
+        "Majda Vučić",
+        "Kolić Maja"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Darier Disease",
+        "Acantholysis",
+        "Skin",
+        "Pruritus"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36812285/"
+    },
+    {
+      "pmid": "29500825",
+      "title": "Case of punctate palmoplantar keratoderma type I treated with combination of low-dose oral acitretin and topical salicylic acid and steroid.",
+      "abstract": "Palmoplantar keratodermas (PPK) are heterogeneous disorders characterized by abnormal keratinization. Especially, punctate PPK (PPPK), one of the subtypes of hereditary PPK, is a rare punctate keratoderma characterized by tiny \"raindrop\" keratoses having a tendency to coalesce on the edge of soles, which are exposed to sustained pressure. If typical punctate lesions are confined to the palms and soles and the patient has a family history and late onset, it can be considered as PPPK type I (PPKP1), also called Buschke-Fisher-Brauer disease. The exact etiology of PPPK has not been fully understood. Furthermore, no standardized treatment for PPPK has been established and treatment options are limited. Above all, traditional systemic retinoids have been used in several cases, but dose-related adverse effects are common. Therefore, combination of low-dose systemic retinoids and adjuvant topical therapy can be an alternative treatment option for PPPK. Herein, we report a case of PPKP1 treate",
+      "journal": "The Journal of dermatology",
+      "year": "2018",
+      "authors": [
+        "Jo Jeong Won",
+        "Jeong Do Seon",
+        "Kim Chi Yeon"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acitretin",
+        "Biopsy",
+        "Dose-Response Relationship, Drug",
+        "Drug Therapy, Combination",
+        "Glucocorticoids",
+        "Humans",
+        "Keratoderma, Palmoplantar",
+        "Keratolytic Agents",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29500825/"
+    },
+    {
+      "pmid": "40969999",
+      "title": "Unique Presentation of the Follicular Occlusion Tetrad: A Case Report and Review of the Literature.",
+      "abstract": "The follicular occlusion tetrad is a chronic inflammatory complex that consists of four co-related conditions in which follicles are blocked with keratin rupture and lead to inflammation. These conditions include hidradenitis suppurativa (HS), acne conglobata (AC), dissecting cellulitis of the scalp (DCS), and pilonidal cyst (PC). Our unique case reports a 43-year-old female patient who presented with a 36-year history of all four elements of the tetrad after previous treatment with ciprofloxacin, spironolactone, and salicylic acid. Our case is notable as the patient presented after being on semaglutide for weight loss, as well as the first report of the full tetrad in a female patient. A comprehensive review of the follicular occlusion tetrad was conducted using current literature. The goal of the literature review was to provide a general overview of the patient population diagnosed with follicular occlusion tetrad. Additionally, weight loss medications were discussed as potential tr",
+      "journal": "Cureus",
+      "year": "2025",
+      "authors": [
+        "Adler Robert",
+        "Gandhi Isha",
+        "Sheikh Maisha",
+        "Marson Justin",
+        "Fishman Steven"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40969999/"
+    },
+    {
+      "pmid": "32356369",
+      "title": "Topical azelaic acid, salicylic acid, nicotinamide, sulphur, zinc and fruit acid (alpha-hydroxy acid) for acne.",
+      "abstract": "Acne is an inflammatory disorder with a high global burden. It is common in adolescents and primarily affects sebaceous gland-rich areas. The clinical benefit of the topical acne treatments azelaic acid, salicylic acid, nicotinamide, sulphur, zinc, and alpha-hydroxy acid is unclear.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2020",
+      "authors": [
+        "Liu Haibo",
+        "Yu Haiyan",
+        "Xia Jun",
+        "Liu Ling",
+        "Liu Guan J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Acne Vulgaris",
+        "Adapalene",
+        "Adolescent",
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Benzoyl Peroxide",
+        "Bias",
+        "Child",
+        "Clindamycin",
+        "Dermatologic Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32356369/"
+    },
+    {
+      "pmid": "38300170",
+      "title": "Guidelines of care for the management of acne vulgaris.",
+      "abstract": "Acne vulgaris commonly affects adults, adolescents, and preadolescents aged 9 years or older.",
+      "journal": "Journal of the American Academy of Dermatology",
+      "year": "2024",
+      "authors": [
+        "Reynolds Rachel V",
+        "Yeung Howa",
+        "Cheng Carol E",
+        "Cook-Bolden Fran",
+        "Desai Seemal R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Acne Vulgaris",
+        "Administration, Cutaneous",
+        "Administration, Oral",
+        "Adrenal Cortex Hormones",
+        "Anti-Bacterial Agents",
+        "Benzoyl Peroxide",
+        "Contraceptives, Oral, Combined",
+        "Cortodoxone",
+        "Dermatologic Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38300170/"
+    },
+    {
+      "pmid": "35789996",
+      "title": "A systematic review and network meta-analysis of topical pharmacological, oral pharmacological, physical and combined treatments for acne vulgaris.",
+      "abstract": "Various treatments for acne vulgaris exist, but little is known about their comparative effectiveness in relation to acne severity.",
+      "journal": "The British journal of dermatology",
+      "year": "2022",
+      "authors": [
+        "Mavranezouli Ifigeneia",
+        "Daly Caitlin H",
+        "Welton Nicky J",
+        "Deshpande Shalmali",
+        "Berg Laura"
+      ],
+      "pub_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Isotretinoin",
+        "Acne Vulgaris",
+        "Anti-Bacterial Agents",
+        "Tetracycline"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35789996/"
+    },
+    {
+      "pmid": "34812859",
+      "title": "Management of Acne Vulgaris: A Review.",
+      "abstract": "Acne vulgaris is an inflammatory disease of the pilosebaceous unit of the skin that primarily involves the face and trunk and affects approximately 9% of the population worldwide (approximately 85% of individuals aged 12-24 years, and approximately 50% of patients aged 20-29 years). Acne vulgaris can cause permanent physical scarring, negatively affect quality of life and self-image, and has been associated with increased rates of anxiety, depression, and suicidal ideation.",
+      "journal": "JAMA",
+      "year": "2021",
+      "authors": [
+        "Eichenfield Dawn Z",
+        "Sprague Jessica",
+        "Eichenfield Lawrence F"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acne Vulgaris",
+        "Administration, Cutaneous",
+        "Administration, Oral",
+        "Adolescent",
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Benzoyl Peroxide",
+        "Child",
+        "Contraceptives, Oral, Combined",
+        "Dermatologic Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34812859/"
+    },
+    {
+      "pmid": "30972839",
+      "title": "Salicylic acid treats acne vulgaris by suppressing AMPK/SREBP1 pathway in sebocytes.",
+      "abstract": "Acne vulgaris is a prevalent cutaneous disease characterized by a multifactorial pathogenic process including hyperseborrhea, inflammation, over-keratinization of follicular keratinocytes and Propionibacterium acnes (P acnes) overgrowth. Salicylic acid (SA), a beta-hydroxy acid, is frequently used in the treatment of acne. SA has been found to decrease skin lipids and to possess anti-inflammatory properties. However, few studies have elucidated the mechanisms and pathways involved in such treatment of acne. In this study, we initially investigated the anti-acne properties of SA in human SEB-1 sebocytes. Treatment with SA decreased sebocyte lipogenesis by downregulating the adenosine monophosphate-activated protein kinase (AMPK)/sterol response element-binding protein-1 (SREBP-1) pathway and reduced inflammation by suppressing the NF-κB pathway in these cells. Salicylic acid also decreased the cell viability of SEB-1 by increasing apoptosis via the death signal receptor pathway. Subsequ",
+      "journal": "Experimental dermatology",
+      "year": "2019",
+      "authors": [
+        "Lu Jin",
+        "Cong Tianxin",
+        "Wen Xiang",
+        "Li Xiaoxue",
+        "Du Dan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "AMP-Activated Protein Kinases",
+        "Acne Vulgaris",
+        "Apoptosis",
+        "Cell Line",
+        "Computational Biology",
+        "Down-Regulation",
+        "Humans",
+        "Keratinocytes",
+        "Lipid Metabolism",
+        "Propionibacterium acnes"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30972839/"
+    },
+    {
+      "pmid": "40682377",
+      "title": "Clinical Efficacy of a Salicylic Acid-Containing Gel on Acne Management and Skin Barrier Function: A 21-Day Prospective Study.",
+      "abstract": "Acne vulgaris is a common skin condition characterized by excessive sebum production, inflammation, and compromised skin barrier function. Effective treatments should target both lesion reduction and skin hydration while maintaining tolerability.",
+      "journal": "Journal of cosmetic dermatology",
+      "year": "2025",
+      "authors": [
+        "Liu Ye",
+        "Dan Yanjun",
+        "Yang Jiahong",
+        "He Xiaofeng",
+        "Liu Jingjing"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Clinical Trial"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Acne Vulgaris",
+        "Female",
+        "Salicylic Acid",
+        "Male",
+        "Adult",
+        "Sebum",
+        "Prospective Studies",
+        "Gels",
+        "Young Adult"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40682377/"
+    },
+    {
+      "pmid": "26347269",
+      "title": "Salicylic acid as a peeling agent: a comprehensive review.",
+      "abstract": "Salicylic acid has been used to treat various skin disorders for more than 2,000 years. The ability of salicylic acid to exfoliate the stratum corneum makes it a good agent for peeling. In particular, the comedolytic property of salicylic acid makes it a useful peeling agent for patients with acne. Once considered as a keratolytic agent, the role of salicylic acid as a desmolytic agent, because of its ability to disrupt cellular junctions rather than breaking or lysing intercellular keratin filaments, is now recognized and is discussed here. Salicylic acid as a peeling agent has a number of indications, including acne vulgaris, melasma, photodamage, freckles, and lentigines. The efficacy and safety of salicylic acid peeling in Fitzpatrick skin types I-III as well as in skin types V and VI have been well documented in the literature. This paper reviews the available data and literature on salicylic acid as a peeling agent and its possible indications. Its properties, efficacy and safety",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "year": "2015",
+      "authors": [
+        "Arif Tasleem"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26347269/"
+    },
+    {
+      "pmid": "28274356",
+      "title": "Chemical peels in active acne and acne scars.",
+      "abstract": "Chemical peeling is a widely used procedure in the management of acne and acne scars. It causes controlled destruction of a part of or the entire epidermis, with or without the dermis, leading to exfoliation and removal of superficial lesions, followed by regeneration of new epidermal and dermal tissues. The most frequently used peeling agents are salicylic acid, glycolic acid, pyruvic acid, lactic acid, mandelic acid, Jessner solution, trichloroacetic acid, and phenol. The appropriate peel is chosen based on the patient's skin type, acne activity, and type of acne scars. Combination peels minimize side effects. In acne scars, chemical peels may be combined with other procedures to achieve better clinical results. A series of chemical peels can lead to significant improvement over a short period, leading to patient satisfaction and maintenance of clinical results. © 2016 Elsevier Inc. All rights reserved.",
+      "journal": "Clinics in dermatology",
+      "year": "2017",
+      "authors": [
+        "Kontochristopoulos Georgios",
+        "Platsidaki Eftychia"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acne Vulgaris",
+        "Chemexfoliation",
+        "Cicatrix",
+        "Humans",
+        "Keratolytic Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28274356/"
+    },
+    {
+      "pmid": "38453786",
+      "title": "Management of Acne in Pregnancy.",
+      "abstract": "Acne is one of the most common dermatological conditions to affect women of childbearing age, so it is important to consider the safety of long-term acne treatments on women who could become pregnant. In this review article, we clarify what management options are available to treat acne during pregnancy. Topical treatments, typically first-line for acne, such as azelaic acid, clindamycin, erythromycin, metronidazole, benzoyl peroxide, salicylic acid, dapsone, and retinoids, were reviewed. Systemic treatments, such as zinc supplements, cephalexin, cefadroxil, amoxicillin, azithromycin, erythromycin, and corticosteroids, typically second-line for acne, were also reviewed. Alternative treatments such as light therapy and cosmetic procedures were also evaluated. Due to recommendation of sunscreen utilization during acne treatments, sunscreen usage during pregnancy was also assessed. Management of acne during unplanned pregnancy was discussed in further detail regarding safety and adverse e",
+      "journal": "American journal of clinical dermatology",
+      "year": "2024",
+      "authors": [
+        "Rau Akash",
+        "Keri Jonette",
+        "Murase Jenny E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Acne Vulgaris",
+        "Pregnancy",
+        "Female",
+        "Dermatologic Agents",
+        "Pregnancy Complications",
+        "Anti-Bacterial Agents",
+        "Sunscreening Agents",
+        "Pregnancy, Unplanned",
+        "Phototherapy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38453786/"
+    },
+    {
+      "pmid": "37338719",
+      "title": "The Role and Benefits of Dermocosmetics in Acne Management in Japan.",
+      "abstract": "In Japan, as in other countries around the world, acne vulgaris is a common disease and a frequent reason for patients to consult dermatologists. For optimal management of acne, it is important to understand how available products to support skin health can be used both with and without prescription products. Dermocosmetics can be defined as skincare agents with dermatologically active ingredients that directly support or care for the symptoms of various skin conditions (distinct from vehicle effects). There are products with active ingredients-including familiar ones such as niacinamide, retinol derivatives, and salicylic acid-that target important aspects of acne pathophysiology. Others, including ceramides, glyercin, thermal spring water, and panthenols, may have positive effects on skin barrier function that are useful in managing acne. This publication will discuss the roles of dermocosmetics in acne either as monotherapy to manage the milder forms of acne and help prevent relapse",
+      "journal": "Dermatology and therapy",
+      "year": "2023",
+      "authors": [
+        "Kurokawa Ichiro",
+        "Kobayashi Miwa",
+        "Nomura Yuko",
+        "Abe Masatoshi",
+        "Kerob Delphine"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37338719/"
+    }
+  ]
+}

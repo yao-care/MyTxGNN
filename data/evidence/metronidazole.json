@@ -1,0 +1,988 @@
+{
+  "drug": "Metronidazole",
+  "drugbank_id": "DB00916",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:00:11Z",
+  "indications": [
+    {
+      "indication": "rosacea",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 3,
+        "phase1_trials": 2,
+        "other_trials": 12,
+        "rct_articles": 0,
+        "review_articles": 6,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "intracranial abscess",
+      "evidence_level": "L4",
+      "trials": 2,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 9,
+        "total_trials": 2,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "peritonitis",
+      "evidence_level": "L1",
+      "trials": 16,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 4,
+        "phase1_trials": 0,
+        "other_trials": 9,
+        "rct_articles": 0,
+        "review_articles": 5,
+        "other_articles": 4,
+        "total_trials": 16,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "endometritis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 2,
+        "phase1_trials": 1,
+        "other_trials": 15,
+        "rct_articles": 1,
+        "review_articles": 5,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "bacterial vaginosis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 3,
+        "phase1_trials": 0,
+        "other_trials": 11,
+        "rct_articles": 5,
+        "review_articles": 5,
+        "other_articles": 0,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 78,
+  "total_articles": 48,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05861310",
+      "title": "Effectivity and Safety of Metronidazole 1% Cream in Rosacea Therapy",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2023-05",
+      "completion_date": "2023-12",
+      "country": "Indonesia",
+      "enrollment": 48,
+      "brief_summary": "Rosacea is a chronic inflammatory disease of the central facial region, which can also occur in the neck and chest regions. Microbes that play a role in rosacea are Demodex folliculorum and Helicobactor pylori. On the skin with rosacea have decreased skin barrier function. This clinical study will compare the effectiveness and safety of metronidazole 1% cream as the main therapy in rosacea patients. Participants who will become research subjects are women and men aged 18-60 years who meet the in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and Female, aged 18-60 years\n* Diagnosed with rosacea\n* The patient agreed to participate in the study and signed a inform consent\n\nExclusion Criteria:\n\n* Taking corticosteroid therapy (oral or topical)\n* Patients with a history of using topical therapy on the face within",
+      "endpoints": [
+        "The degree of erythema Examination",
+        "The degree of erythema Examination",
+        "The degree of erythema Examination"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT05861310"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00436527",
+      "title": "MetroGel 1% Hydration Study: A Kinetic Regression Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2006-08",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "This eight-hour kinetic regression clinical study was conducted to assess the ability of MetroGel® 1% to deliver moisture to facial skin after a single application.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of moderate to severe rosacea, defined as the presence of at least moderate erythema with telangiectasia and a minimum of two inflammatory lesions\n\nExclusion Criteria:\n\n* Individuals with active symptoms of allergy (mild active seasonal allergies are accepta",
+      "endpoints": [
+        "Six replicate Corneometer CM 825 measurements"
+      ],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT00436527"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01513863",
+      "title": "A Randomized, Double-Blind, Placebo Controlled, Parallel Design, Multi-Site Clinical Study to Compare the Bioequivalence of Two Metronidazole 1% Topical Gel Formulations in Patients With Moderate to Severe Rosacea",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2012-09",
+      "country": "United States",
+      "enrollment": 602,
+      "brief_summary": "The objective of this study is to demonstrate that metronidazole 1% topical gel is effective for the treatment of patients with moderate to severe rosacea.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or non-pregnant, non-lactating female, 18 years of age or older.\n2. Signed informed consent form, which meets all criteria of current FDA regulations.\n3. If female and of child bearing potential, prepare to abstain from sexual intercourse or use a reliable method of cont",
+      "endpoints": [
+        "Clinical Success",
+        "Treatment Success"
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01513863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03193372",
+      "title": "A Study of Patient Concerns and Treatment Satisfaction in Patients Being Treated With Finacea Foam for Rosacea",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-07-20",
+      "completion_date": "2017-11-15",
+      "country": "United States",
+      "enrollment": 2200,
+      "brief_summary": "To survey rosacea patients about their concerns, treatment satisfaction, and quality of life associated with their Finacea Foam treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 years of age\n* Diagnosis of rosacea by a medical professional\n* Currently using Finacea Foam as topical monotherapy for rosacea\n* Willing and able to provide voluntary, informed consent to participate in this study\n\nExclusion Criteria:\n\n\\- Use of any other topical ",
+      "endpoints": [
+        "Demographics and clinical characteristics",
+        "Rosacea-relevant comorbidities and complications",
+        "Rosacea subtype"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT03193372"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02393937",
+      "title": "A Multi-center, Double-blind, Randomized, Vehicle-controlled, Parallel-group Study Comparing Metronidazole Gel 1%, to Metrogel® (Metronidazole Gel) 1% in the Treatment of Rosacea",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-02",
+      "completion_date": "2015-10",
+      "country": "United States",
+      "enrollment": 963,
+      "brief_summary": "The purpose of this study is to compare the efficacy of two Metronidazole Gels 1%, in the treatment of Rosacea.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female subjects with at least 18 years of age;\n* Read and signed ICF;\n* Clinical Diagnosis of Rosacea;\n\nExclusion Criteria:\n\n* Females who are pregnant, lactating or of childbearing potential who are not using or do not agree to use an acceptable form of contraception;",
+      "endpoints": [
+        "To compare the test and reference products of metronidazole topical gel 1% with regard to the mean percent change from Baseline of the inflammatory lesion counts of rosacea."
+      ],
+      "sponsor": "bioRASI, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02393937"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01426269",
+      "title": "Evaluation of Relapse, Efficacy and Safety of Long-term Treatment With Oracea® Capsules Compared to Placebo After an Initial 12 Week Treatment Regimen With Oracea® and MetroGel® 1% in Adults With Rosacea",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2013-06",
+      "country": "United States",
+      "enrollment": 235,
+      "brief_summary": "The purpose of this study is to assess relapse, efficacy and safety in subjects with rosacea during long-term treatment with either Oracea® or placebo, after an initial 12-week regimen of Oracea® and MetroGel® 1%.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is male or female aged 18 to 80 years inclusive.\n* Subject with papulopustular rosacea (11 to 40 papules or pustules) and an IGA of moderate or severe.\n* For subjects using medications to treat a concurrent medical condition, type and dose must have been stable for at ",
+      "endpoints": [
+        "Period 2: Number of Subjects Who Relapsed"
+      ],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT01426269"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05592548",
+      "title": "Open Label Split Face Pilot Study to Assess the Safety and Efficacy of Cold Atmospheric Plasma (non-thermal Plasma) for the Treatment of Rosacea",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-01-02",
+      "completion_date": "2024-06-30",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "10-13 patients will be enrolled to receive split face treatment: the control side will be treated with metronidazole cream, the intervention side will be treated with a cold atmospheric plasma device",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Papulopustular rosacea of the cheeks\n* Ability to complete six weeks of twice-weekly treatments\n\nExclusion Criteria:\n\n* substantial asymmetry of disease distribution\n* previous failure of topical ivermectin treatment\n* presence of any other facial dermatoses\n* presence of any ",
+      "endpoints": [
+        "Efficacy - Investigator global assessment",
+        "RosaQoL change",
+        "Demodex count change"
+      ],
+      "sponsor": "The Skin Center Dermatology Group",
+      "url": "https://clinicaltrials.gov/study/NCT05592548"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01449591",
+      "title": "A Proof of Concept (PoC) Study to Evaluate the Safety, Tolerability, and Efficacy of 12 Week Administration of BFH772 Ointment in Rosacea Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2012-02",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "This study will evaluate the safety, tolerability and efficacy of BFH772 after 12 weeks of treatment as compared to an active control and vehicle in patients with erythemato-telangiectatic rosacea.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have persistent facial erythema on the cheeks of at least moderate severity.\n* Women must not be able to bear children\n\nExclusion Criteria:\n\n* Have more than 12 inflammatory lesions on the face\n* Previous treatment of facial skin with lasers or electrocauterisation within 2 mo",
+      "endpoints": [
+        "To assess the effect of BFH772 treatment compared to vehicle on non-transient facial erythema using the Investigator's assessment of facial erythema score"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01449591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01493947",
+      "title": "Efficacy and Safety of CD5024 1% Cream Versus Metronidazole 0.75% Cream in Subjects With Papulopustular Rosacea Over 16 Weeks Treatment, Followed by a 36-week Extension Period.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2013-12",
+      "country": "Bulgaria, Czechia, Russia, Germany, Hungary, Romania, France, United Kingdom, Poland, Ukraine",
+      "enrollment": 962,
+      "brief_summary": "Study objectives:\n\n* To compare efficacy and safety of Ivermectin 1% cream versus metronidazole 0.75% cream in subjects with papulopustular rosacea after 16-week topical treatment.\n* And to compare, for subjects initially successfully treated by 16 weeks treatment, Ivermectin 1 % cream versus metronidazole 0.75% cream during a 36-week extension period by assessing, the time of first relapse, the relapse rate, and the number of days free of treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with papulopustular rosacea scored 3 (moderate) or 4 (severe) according to the Investigator Global Assessment (IGA),\n* Subjects with at least 15 but not more than 70 inflammatory lesions (papules and pustules) on the face.\n\nExclusion Criteria:\n\n* Subjects with particu",
+      "endpoints": [
+        "Percent Change in Inflammatory Lesions From Baseline to Week 16"
+      ],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT01493947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02204254",
+      "title": "Prospective, Open Label, Randomized Study Comparing Bipolar Radiofrequency Potentiated by Infrared Light to Doxycycline in Patient With Papulopustular Rosacea",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-03",
+      "completion_date": "2021-06-07",
+      "country": "France",
+      "enrollment": 20,
+      "brief_summary": "Rosacea is a chronic facial disfiguring dermatosis characterized by different stages like flushing, erythema, telangiectasia and papulo-pustular lesions. Recommended treatments include topical (metronidazole) and systemic (doxycycline) antibiotics with only a suspensive effect. The bipolar radiofrequency (RF) with Elos system (infrared light) is a device emitting an electromagnetic current inducing an increase in temperature when applied on the skin, potentiated by infrared light. The monopolar ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be between 18-70 years old\n* Subjects with papulopustular rosacea graded moderate to severe (2 or 3) according to the physician global Assessment, and with lesions on the cheeks.\n* Prior stop of any topical treatment antibiotic, retinoid, corticoid or other topic",
+      "endpoints": [
+        "percent of patients with a score of 0 or 1 severity of rosacea (absent or mild) on a scale of 0-3 (Physician Global Assessment)"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "url": "https://clinicaltrials.gov/study/NCT02204254"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02052999",
+      "title": "An Open Label Pilot Study to Evaluate the Efficacy of PAC-14028 in the Treatment of Erythematotelangiectatic Rosacea and Papulopustular Rosacea",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-02",
+      "completion_date": "2013-08",
+      "country": "South Korea",
+      "enrollment": 80,
+      "brief_summary": "The objective of this study is to determine the efficacy and safety of PAC-14028 1% cream of Amorepacific Corporation in patients with erythema-telangiectatic or papulopustular rosacea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients at the age of 20 to 65 years old\n* Clinical diagnosis of erythematotelangiectatic or papulopustular rosacea according to National Rosacea Committee Expert Society with\n\n  * Erythema severity ≥ 1\n  * Telangiectasia severity ≥ 1\n  * At least 3 papules or",
+      "endpoints": [
+        "Change in Investigator Global Assessment (IGA)"
+      ],
+      "sponsor": "Amorepacific Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT02052999"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06989216",
+      "title": "DermaFlow Alpha - Multi-modal Quantitative Imaging of the Skin",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-02-01",
+      "completion_date": "2026-02-01",
+      "country": "Sweden",
+      "enrollment": 8000,
+      "brief_summary": "This clinical trial is about evaluating the suitability of multi-modal imaging technology, which covers virtually the entire body, to evaluate the possibility of screening and early detection of disease.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Adult patients that are part of the regular healthcare patient flow at the investigational sites, or as separately invited to participate in this investigation.\n* Patients with signed informed consent\n\nExclusion criteria:\n\n* Cognitive impairment\n* Patients unable to understand",
+      "endpoints": [
+        "Sensitivity for detection of lesions requiring excision in comparison to visual inspection",
+        "Difference in body metrics between full-body 3D photography and traditional measurements",
+        "Sensitivity in detection of dermatological conditions with 2D images from full-body photography"
+      ],
+      "sponsor": "HJN Sverige AB/Neko Health",
+      "url": "https://clinicaltrials.gov/study/NCT06989216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06434519",
+      "title": "Evaluation of the Effect of Moisturizers on the Absorption of Metronidazole Into the Stratum Corneum of Rosacea Patients With Tape Stripping and Liquid Chromatography-mass Spectrometry",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-09-03",
+      "completion_date": "2025-11-04",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "Topical metronidazole is a widely used first line treatment for erythemotelangiectatic and inflammatory rosacea. Commonly, a moisturizer is also used to restore the skin barrier and reduce inflammation. The purpose of this study is to assess the whether the common practice of applying moisturizer prior to topical metronidazole affects this medication's stratum corneum penetrance in rosacea patients. Participants will have one research office visit that will consist of having a randomly assigned ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy, non-pregnant individual 18+ years of age;\n2. Subjects willing to allow a series of tape pieces to be pressed and removed from their faces over an 4 hour period;\n3. Subjects can remain calm and quiet at the research facility for 6 hours;\n4. Subjects in general good he",
+      "endpoints": [
+        "Metronidazole penetrance through the stratum corneum (SC)"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT06434519"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00855595",
+      "title": "An Exploratory, Multicenter, Investigator-blinded, Active-controlled Study to Investigate the Efficacy of Topical Azelaic Acid (AzA)15% Gel Twice Daily or Metronidazole Topical Gel 1% Once Daily, Plus Anti-inflammatory Dose Doxycycline (40mg) Once Daily in Subjects With Moderate Papulopustular Rosacea",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2009-07",
+      "country": "United States",
+      "enrollment": 207,
+      "brief_summary": "Subjects with moderate papulopustular rosacea will be treated either with azelaic acid 15% gel topically plus an anti-inflammatory dose of doxycyline (40mg) daily or with metronidazole 1% gel topically once daily plus an anti-inflammatory dose of doxycycline (40mg) over at total of twelve weeks to determine the rapidity of improvement, and the length of time to reach 25%, 50% and 75% clearing compared to baseline.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Moderate papulopustular rosacea (IGA\\>4) with a minimum of 10 and no more than 50 inflammatory lesions and persistent erythema with or without telangiectasia\n\nExclusion Criteria:\n\n* Sensitivity to any of the treatments used\n* Co-existing conditions that would unfavorably infl",
+      "endpoints": [
+        "Nominal Change From Baseline in Inflammatory Lesion (IL) Count (Sum of Papules and Pustules) at Week 2 (LOCF: Last Observation Carried Forward)"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00855595"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00249782",
+      "title": "A Phase II, Randomized, Partial-Blind, Parallel-Group, Active- and Vehicle-Controlled, Multicenter Study of the Safety and Efficacy of ACZONE™ (Dapsone) Gel, 5% in Subjects With Papulopustular Rosacea",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2006-05",
+      "country": "United States",
+      "enrollment": 400,
+      "brief_summary": "The purpose of this study is to evaluate the safety and effectiveness of ACZONE™ gel compared to placebo (inactive substance), MetroGel® and a combination of ACZONE™ gel and MetroGel® for the treatment of rosacea.\n\nACZONE™ gel, 5% is a topical (applied to the skin) medication that is approved by the United States Food and Drug Administration (FDA) for the treatment of acne vulgaris in people 12 years and older. The use of ACZONE™ for the treatment of rosacea is investigational. An investigationa",
+      "eligibility_criteria": "Inclusion Criteria:\n\nTo be eligible for the study, subjects must fulfill all of the following criteria:\n\n1. Men or women ≥18 years of age.\n2. A diagnosis of papulopustular rosacea, with ≥10 inflammatory lesions (papules and/or pustules) above the mandibular line at baseline.\n3. An Investigator Globa",
+      "endpoints": [
+        "Efficacy: Percent change and change from baseline in inflammatory lesion counts;",
+        "\"Success\" rate, defined as proportion of subjects with a score of 0 or 1 and at least a 2 point improvement from baseline on the IGA scale;",
+        "Erythema & telangiectasia scores;"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT00249782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01016782",
+      "title": "Multi-Center, Double-Blind, Randomized, Vehicle-Controlled, Parallel Group Study of 0444 Gel",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-07",
+      "country": "N/A",
+      "enrollment": 867,
+      "brief_summary": "The aim of this trial is to assess the efficacy of Metronidazole Topical Gel 1% in the Treatment of Inflammatory Lesions of Rosacea.\n\nTreatment medication will be administered as follows: A thin film of gel will be applied and rubbed into the entire face once daily for a period of 70 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of rosacea\n* Good health with the exception of rosacea\n* Papsules and pustules minimum and maximum requirements\n\nExclusion Criteria:\n\n* Subjects who are pregnant, nursing, or planning a pregnancy within the study participation period.\n* Subjects who have any",
+      "endpoints": [
+        "Reduction in the number of papules and pustules from Baseline to End of Treatment"
+      ],
+      "sponsor": "Fougera Pharmaceuticals Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01016782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00668655",
+      "title": "An Evaluation of the Cosmetic Appearance of Metronidazole Gel (MetroGel®) 1%",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2008-03",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to determine the cosmetic appearance of metronidazole gel (MetroGel®) 1% with commonly marketed facial foundations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with moderate Rosacea (Global Severity Score of 3),\n* Subjects willing to stop their current rosacea medication for at least 2 weeks\n* Subjects must have an established routine of cosmetics application (e.g. must have been using the same facial foundation for at least",
+      "endpoints": [],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT00668655"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06582043",
+      "title": "Evaluation of the Efficacy and Tolerance of Two Cosmetic Products in Subjects Presenting With Rosacea Treated With Topical Treatment",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-05-16",
+      "completion_date": "2025-02-06",
+      "country": "Argentina, Brazil",
+      "enrollment": 70,
+      "brief_summary": "Multicentric and double-blind randomised comparative clinical study in Argentina and Brazil. Under dermatological and ophthalmological control 4 visits: inclusion \\[Day(D)0\\], D28, D56, D84 Ethical committee required.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject with facial vascular rosacea with flushing, permanent redness, telangiectasias and at least 3 papules and/or pustules (this last criterion for at least 10 subjects per group)\n* Subject starting local treatment for rosacea (Ivermectin or metronidazole)\n* Female aged 18 ",
+      "endpoints": [
+        "Investigator Global Assessment (IGA)"
+      ],
+      "sponsor": "NAOS Argentina S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT06582043"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00495313",
+      "title": "Determine the Effects of COL-101 Administered Once Daily With Metronidazole Topical Gel, 1% Versus Doxycycline Hyclate 100 mg Administered Once Daily With Metronidazole Topical Gel, 1% in Patients With Moderate to Severe Rosacea",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2007-12",
+      "country": "United States",
+      "enrollment": 91,
+      "brief_summary": "To compare the safety and efficacy of two treatment regimens: 1) COL-101 and metronidazole gel 1%; 2) Doxycycline hyclate 100 mg and metronidazole gel 1%",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 8-40 total lesions\n* erythema\n* telangiectasia\n\nExclusion Criteria:\n\n* non-pregnant, non-lactating\n* achlorhydric\n* gastric by-pass surgery\n* allergy to study medications\n* drug/alcohol abuse\n* use of proton pump inhibitors",
+      "endpoints": [
+        "Change in total lesion count from Baseline at the study endpoint"
+      ],
+      "sponsor": "CollaGenex Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00495313"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02602470",
+      "title": "A Study of Patient Preferences and Drivers of Treatment Satisfaction in Patients With Rosacea",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-01-08",
+      "completion_date": "2016-03-10",
+      "country": "United States",
+      "enrollment": 206,
+      "brief_summary": "To survey patients with rosacea about their rosacea treatment preferences as well as to assess potential drivers of rosacea treatment satisfaction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients of at least 18 years of age at index date\n* At least one prescription for a topical rosacea treatments: Azelaic Acid Gel, Azelaic Acid Cream, Metronidazole Gel, Metronidazole Cream, Metronidazole Emulsion, Metronidazole Lotion, Brimonidine Tartrate Gel\n",
+      "endpoints": [
+        "Self-reported concerns and importance of such concerns regarding their current topical rosacea treatments"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02602470"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "38905551",
+      "title": "Rosacea: Common Questions and Answers.",
+      "abstract": "Rosacea is a chronic inflammatory skin disease of the central face, affecting 5% of the population. The exact etiology is unknown. A diagnosis is made based on the updated 2017 National Rosacea Society Expert Committee guidelines, including fixed erythema, phymatous changes of skin thickening due to sebaceous gland hyperplasia and fibrosis, papules, pustules, telangiectasia, and flushing. Delays in an accurate diagnosis and treatment may occur in skin of color due to difficulty visualizing erythema and telangiectasia. The daily use of sunscreen, moisturizers, and mild skin cleansers and avoidance of triggers are essential aspects of maintenance treatment. Effective topical treatment options include alpha-adrenergic receptor agonists for flushing and ivermectin, metronidazole, and azelaic acid for papules and pustules. Systemic treatments include nonselective beta blockers for flushing, low-dose doxycycline, and isotretinoin for papules and pustules. Rosacea can significantly affect a p",
+      "journal": "American family physician",
+      "year": "2024",
+      "authors": [
+        "Frazier Winfred",
+        "Zemtsov Raquel K",
+        "Ge Yufei"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Rosacea",
+        "Humans",
+        "Dermatologic Agents",
+        "Quality of Life",
+        "Dicarboxylic Acids"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38905551/"
+    },
+    {
+      "pmid": "26280139",
+      "title": "Rosacea: Diagnosis and Treatment.",
+      "abstract": "Rosacea is a chronic facial skin condition of unknown cause. It is characterized by marked involvement of the central face with transient or persistent erythema, telangiectasia, inflammatory papules and pustules, or hyperplasia of the connective tissue. Transient erythema, or flushing, is often accompanied by a feeling of warmth. It usually lasts for less than five minutes and may spread to the neck and chest. Less common findings include erythematous plaques, scaling, edema, phymatous changes (thickening of skin due to hyperplasia of sebaceous glands), and ocular symptoms. The National Rosacea Society Expert Committee defines four subtypes of rosacea (erythematotelangiectatic, papulopustular, phymatous, and ocular) and one variant (granulomatous). Treatment starts with avoidance of triggers and use of mild cleansing agents and moisturizing regimens, as well as photoprotection with wide-brimmed hats and broad-spectrum sunscreens (minimum sun protection factor of 30). For inflammatory l",
+      "journal": "American family physician",
+      "year": "2015",
+      "authors": [
+        "Oge' Linda K",
+        "Muncie Herbert L",
+        "Phillips-Savoy Amanda R"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Anti-Bacterial Agents",
+        "Dermatologic Agents",
+        "Education, Medical, Continuing",
+        "Female",
+        "Humans",
+        "Male",
+        "Metronidazole"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26280139/"
+    },
+    {
+      "pmid": "30657582",
+      "title": "Therapeutic uses of metronidazole and its side effects: an update.",
+      "abstract": "Metronidazole is an antibiotic widely used in different medical conditions such as trichomoniasis, amoebiasis, and giardiasis among others. Its use has been associated with toxicity; however, it is not well characterized. In this review, we discuss the different therapeutic uses of metronidazole and its side effects in order to aid future investigation in this field.",
+      "journal": "European review for medical and pharmacological sciences",
+      "year": "2019",
+      "authors": [
+        "Hernández Ceruelos A",
+        "Romero-Quezada L C",
+        "Ruvalcaba Ledezma J C",
+        "López Contreras L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antiprotozoal Agents",
+        "Carcinogenesis",
+        "DNA Damage",
+        "Disease Models, Animal",
+        "Drug Utilization",
+        "Humans",
+        "Legislation, Veterinary",
+        "Metronidazole",
+        "Neurotoxicity Syndromes"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30657582/"
+    },
+    {
+      "pmid": "34347259",
+      "title": "Rosacea: An Update in Diagnosis, Classification and Management.",
+      "abstract": "The diagnosis and classification of rosacea has been modified to reflect presenting features. On exclusion of differentials, the diagnosis of rosacea is based on the presence of either (1) phymatous changes, or (2) centrofacial persistent erythema. In their absence, diagnosis can be established by presence of any two of: flushing/transient erythema, papules and pustules, telangiectases, or ocular manifestations. Management of rosacea depends on presenting feature(s), their severity, and impact. General management includes gentle skin care, sun protection, and trigger avoidance. Evidence-based treatment recommendations include topical brimonidine and oxymetazoline for persistent erythema; topical azelaic acid, ivermectin, metronidazole, minocycline and oral doxycycline, tetracycline and isotretinoin for papules and pustules; vascular lasers and light devices for telangiectases; and omega-3 fatty acids and cyclosporine ophthalmic emulsion for ocular rosacea. While surgical or laser thera",
+      "journal": "Skin therapy letter",
+      "year": "2021",
+      "authors": [
+        "Kang Cindy Na-Young",
+        "Shah Monica",
+        "Tan Jerry"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Brimonidine Tartrate",
+        "Dermatologic Agents",
+        "Doxycycline",
+        "Humans",
+        "Metronidazole",
+        "Rosacea"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34347259/"
+    },
+    {
+      "pmid": "35104917",
+      "title": "Rosacea management: A comprehensive review.",
+      "abstract": "Rosacea is a chronic cutaneous disorder affecting primarily the face, characterized by erythema, transient or persistent, telangiectasia, and inflammatory lesions including papulo-pustules and swelling. The essential component of the disease is the persistent erythema of facial skin. Episodes of flushing (acute-subacute intermittent vasodilation) are common. Swelling and erythema of the nose along with dilatation of the pilosebaceous poral orifices, known as rhinophyma, can be noted in chronic cases. Rosacea affects up to 10% of the world population and is especially noted in fair-skinned individuals aged 35-50. Women are affected more often than men. Several treatment modalities including topical medications, systemic drugs, lasers, and light-based therapies have been used for the management of rosacea with variable results. Topical medications such as azelaic acid, metronidazole, and sulfacetamide/sulfur, oral antibiotics such as tetracyclines, and oral retinoids alone or, most commo",
+      "journal": "Journal of cosmetic dermatology",
+      "year": "2022",
+      "authors": [
+        "Sharma Anuj",
+        "Kroumpouzos George",
+        "Kassir Martin",
+        "Galadari Hassan",
+        "Goren Andy"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Dermatologic Agents",
+        "Erythema",
+        "Female",
+        "Humans",
+        "Male",
+        "Oxymetazoline",
+        "Rosacea",
+        "Telangiectasis",
+        "Tetracyclines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35104917/"
+    },
+    {
+      "pmid": "33646026",
+      "title": "Rosacea.",
+      "abstract": "Rosacea is a common cutaneous condition affecting predominantly the face. It is historically characterised into four subtypes: erythematotelangiectatic, papulopustular, phymatous and ocular rosacea. This article describes the pathophysiology, clinical features and current treatment options for rosacea, and discusses updated diagnostic criteria. General guidance is required on the need to avoid possible triggers including dietary and environmental triggers. The strongest evidence supports the use of 0.75% metronidazole, topical azelaic acid or topical ivermectin for inflammatory rosacea. Erythema should be treated with brimonidine tartrate gel, oral medication such as beta blockers or vascular laser and light-based therapy. Oral doxycycline 40 mg modified release can be used as monotherapy or in combination with other treatments for recalcitrant disease. Further understanding of the pathogenesis of rosacea could allow identification and targeted avoidance of triggers and the development",
+      "journal": "British journal of hospital medicine (London, England : 2005)",
+      "year": "2021",
+      "authors": [
+        "Searle Tamara",
+        "Al-Niaimi Firas",
+        "Ali Faisal R"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Dermatologic Agents",
+        "Doxycycline",
+        "Humans",
+        "Metronidazole",
+        "Phototherapy",
+        "Rosacea"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33646026/"
+    },
+    {
+      "pmid": "40836652",
+      "title": "Treatment management for rosacea: current pharmacological and non-pharmacological options.",
+      "abstract": "Rosacea is a chronic skin condition classified into four subtypes: erythematotelangiectatic, papulopustular, phymatous, and ocular involvement. The physical symptoms and recurrent nature can impact patient quality of life. Effective treatment requires a phenotype-directed strategy that addresses both clinical features and patient concerns.",
+      "journal": "Expert review of clinical pharmacology",
+      "year": "2025",
+      "authors": [
+        "Volk Kyle",
+        "Ulfers Audrey",
+        "Yi Robin C",
+        "Feldman Steven",
+        "Taylor Sarah L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Rosacea",
+        "Quality of Life",
+        "Dermatologic Agents",
+        "Practice Guidelines as Topic",
+        "Severity of Illness Index",
+        "Administration, Oral",
+        "Life Style",
+        "Administration, Topical",
+        "Administration, Cutaneous"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40836652/"
+    },
+    {
+      "pmid": "24314376",
+      "title": "Rosacea and rhinophyma.",
+      "abstract": "Rosacea is a common and chronic inflammatory cutaneous disease with unknown etiology. The pathophysiology of rosacea is still poorly understood. Epidemiological studies indicate a genetic component, but a rosacea gene has not been detected yet. Recent molecular studies propose that an altered innate immune response is involved in the pathogenesis of the rosacea disease. Signs of rosacea are indicated by the presence of characteristic facial or ocular inflammation involving both the vascular and tissue stroma. A wide range of drug options is available for the treatment of rosacea, including several topical ones (metronidazole, antibiotics, azelaic acid, benzoyl peroxide, sulfacetamide/sulfur, retinoids) and oral ones (mainly tetracyclines, metronidazole, macrolides, isotretinoin). This review highlights the recent clinical and pathophysiological developments concerning rosacea.",
+      "journal": "Clinics in dermatology",
+      "year": "2014",
+      "authors": [
+        "Tüzün Yalçın",
+        "Wolf Ronni",
+        "Kutlubay Zekayi",
+        "Karakuş Ozge",
+        "Engin Burhan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Infective Agents",
+        "Dermatologic Agents",
+        "Diagnosis, Differential",
+        "Facial Dermatoses",
+        "Humans",
+        "Intense Pulsed Light Therapy",
+        "Laser Therapy",
+        "Rhinophyma",
+        "Rosacea"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24314376/"
+    },
+    {
+      "pmid": "37276164",
+      "title": "Neurogenic Rosacea Treatment: A Literature Review.",
+      "abstract": "Rosacea is a chronic skin disorder involving central facial erythema secondary to vascular instability and cutaneous inflammation. Rosacea is divided into different subtypes based on the morphology of the rash &mdash; erythematotelangiectatic, papulopustular, phymatous, and ocular rosacea. A less-known subtype called neurogenic rosacea has been proposed to categorize patients suffering from rosacea with erythematous flushing and burning sensation that is refractory to traditional treatment. There is minimal data on this subgroup of rosacea patients and its potential treatment options. This review aims to explore current medical literature to define characteristics of neurogenic rosacea and its management. We performed a systematic search of PubMed database and identified 6 articles meeting inclusion criteria with a total of 37 patients with suspected neurogenic rosacea. Combination treatments with topicals (eg, metronidazole, brimonidine), as well as oral medications including vascular",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "year": "2023",
+      "authors": [
+        "Ivanic Mirjana G",
+        "Oulee Aislyn",
+        "Norden Alexandra",
+        "Javadi Sogol S",
+        "Gold Michael H"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Rosacea",
+        "Erythema",
+        "Metronidazole",
+        "Anti-Bacterial Agents",
+        "Brimonidine Tartrate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37276164/"
+    },
+    {
+      "pmid": "35929658",
+      "title": "S2k guideline: Rosacea.",
+      "abstract": "This updated and upgraded S2k guideline deals with the diagnosis and treatment of rosacea, which is a common, chronic inflammatory skin disease mostly affecting the face. Initially, rosacea is characterized by recurrent erythema, telangiectasia and flushing. Later, the inflammatory component predominates, with persistent erythema with follicular papules, papulopustules and pustules. The development of phyma, which usually occurs on the acral localizations, is the most severe manifestation. For the treatment of rosacea, the interdisciplinary guideline committee, with representatives of the German Dermatological Society (DDG), the Professional Association of German Dermatologists (BVDD), the German Opthalmological Society (DOG), the Society for Dermopharmacy (GD), the Swiss Society for Dermatology and Venereology (SGDV) and the German Rosacea Aid e. V., recommends the avoidance of trigger factors and topical applications of metronidazole, azelaic acid or ivermectin. For symptomatic treat",
+      "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+      "year": "2022",
+      "authors": [
+        "Clanner-Engelshofen Benjamin M",
+        "Bernhard Dominik",
+        "Dargatz Sonja",
+        "Flaig Michael J",
+        "Gieler Uwe"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_terms": [
+        "Brimonidine Tartrate",
+        "Dermatologic Agents",
+        "Erythema",
+        "Humans",
+        "Ivermectin",
+        "Metronidazole",
+        "Rosacea"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35929658/"
+    },
+    {
+      "pmid": "37648062",
+      "title": "European society of Clinical Microbiology and Infectious Diseases guidelines on diagnosis and treatment of brain abscess in children and adults.",
+      "abstract": "These European Society of Clinical Microbiology and Infectious Diseases guidelines are intended for clinicians involved in diagnosis and treatment of brain abscess in children and adults.",
+      "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+      "year": "2024",
+      "authors": [
+        "Bodilsen Jacob",
+        "D'Alessandris Quintino Giorgio",
+        "Humphreys Hilary",
+        "Iro Mildred A",
+        "Klein Matthias"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Child",
+        "Humans",
+        "Anti-Infective Agents",
+        "Brain Abscess",
+        "Communicable Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37648062/"
+    },
+    {
+      "pmid": "33520524",
+      "title": "Intracranial Abscess and Proteus mirabilis: A Case Report and Literature Review.",
+      "abstract": "An intracranial abscess caused by Proteus mirabilis is rarely reported in adults. A 17-year-old girl presented with generalized tonic-clonic seizure, high-grade fever, headache, and vomiting with a history of slowly progressing apathy, clumsiness, and disorientation. She had meningeal signs and altered sensorium with a Glasgow Coma Scale of 10. The laboratory analysis revealed leukocytosis and elevated erythrocyte sedimentation rate. Brain computed tomography (CT) revealed a cystic lesion in the left temporal lobe with perilesional edema and a slight midline shift. She was commenced on empiric ceftriaxone, amikacin, and metronidazole. The non-foul smelling pus was drained through a craniotomy, and pus culture showed P. mirabilis. Culture sensitivity revealed extended-spectrum B-lactamase production, and she was commenced on intravenous carbapenem in addition to existing drugs. A repeat CT revealed a significant reduction in abscess size, and improvement in her condition was observed. O",
+      "journal": "Cureus",
+      "year": "2020",
+      "authors": [
+        "Muddassir Rabia",
+        "Khalil Asfandyar",
+        "Singh Romil",
+        "Taj Shafaq",
+        "Khalid Zoha"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33520524/"
+    },
+    {
+      "pmid": "37073194",
+      "title": "Bacterial Brain Abscess and Life-Threatening Intracranial Hypertension Requiring Emergent Decompressive Craniectomy After SARS-CoV-2 Infection in a Healthy Adolescent.",
+      "abstract": "Acute coronavirus 2 (SARS-CoV-2) infection usually results in mild symptoms, but secondary infections after SARS-CoV-2 infection can occur, particularly with comorbid conditions. We present the clinical course of a healthy adolescent with a brain abscess and life-threatening intracranial hypertension requiring emergent decompressive craniectomy after a SARS-CoV-2 infection. A 13-year-old healthy immunized male presented with invasive frontal, ethmoid, and maxillary sinusitis and symptoms of lethargy, nausea, headache, and photophobia due to a frontal brain abscess diagnosed three weeks after symptoms and 11 days of oral amoxicillin treatment. Coronavirus disease 2019 (COVID-19) reverse transcription-polymerase chain reaction (RT-PCR) was negative twice but then positive on amoxicillin day 11 (symptom day 21), when magnetic resonance imaging revealed a 2.5-cm right frontal brain abscess with a 10-mm midline shift. The patient underwent emergent craniotomy for right frontal epidural absc",
+      "journal": "Cureus",
+      "year": "2023",
+      "authors": [
+        "Kunapaisal Thitikan",
+        "Guo Shuhong",
+        "Gomez Courtney",
+        "Theard Marie A",
+        "Lynch John B"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37073194/"
+    },
+    {
+      "pmid": "11096705",
+      "title": "Brain Abscess.",
+      "abstract": "Optimal treatment of a brain abscess requires early clinical suspicion, and the diagnosis is usually made by identification of the abscess on contrast-enhanced computed tomography (CT) or magnetic resonance imaging (MRI). The immediate first step is to reduce the potentially life-threatening brain mass (abscess and surrounding cerebral edema) and secure the diagnosis with culture specimens. This is usually accomplished by reducing the increased intracranial pressure (ICP) through surgical aspiration with or without drainage of the abscess pus. The surgical procedure chosen depends on several factors, including the location and type of abscess, multiplicity, and the medical condition of the patient. In addition, dexamethasone and hyperventilation may be required if brain herniation is imminent. The dexamethasone dose should be reduced as soon as the ICP is reduced because steroid administration may retard abscess capsule formation and decrease antibiotic concentrations within the absces",
+      "journal": "Current treatment options in neurology",
+      "year": "1999",
+      "authors": [
+        "Davis LE",
+        "Baldwin NG"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11096705/"
+    },
+    {
+      "pmid": "35726849",
+      "title": "A surgical protocol for sinogenic brain abscess: the Oxford experience and a review of the literature.",
+      "abstract": "Rhinosinusitis-induced brain abscesses are rare but can result in devastating long-term sequalae and mortality; they require a high index of suspicion with early imaging to start early empiric parenteral antibiotic treatment covering aerobes and anaerobes.",
+      "journal": "Rhinology",
+      "year": "2022",
+      "authors": [
+        "Bandino F",
+        "Thota R",
+        "Pendolino A L",
+        "Chaidas K",
+        "Jeyaretna S"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Brain Abscess",
+        "Ceftriaxone",
+        "Child",
+        "Humans",
+        "Metronidazole",
+        "Retrospective Studies",
+        "Review Literature as Topic",
+        "Sinusitis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35726849/"
+    },
+    {
+      "pmid": "40279858",
+      "title": "Increased incidence of intracranial complications following pediatric sinogenic and otogenic infections in the post-COVID-19 Era: A systematic review and meta-analysis.",
+      "abstract": "This systematic-review and meta-analysis aims to evaluate and summarize the prevalence of pediatric intracranial complications following sinogenic or otogenic infections before and after the COVID-19 pandemic.",
+      "journal": "International journal of pediatric otorhinolaryngology",
+      "year": "2025",
+      "authors": [
+        "Patel Pranav A",
+        "Ripp Asher T",
+        "Nguyen Shaun A",
+        "Duffy Alexander N",
+        "Soler Zachary M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "COVID-19",
+        "Child",
+        "Incidence",
+        "SARS-CoV-2",
+        "Adolescent",
+        "Sinusitis",
+        "Sinus Thrombosis, Intracranial"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40279858/"
+    },
+    {
+      "pmid": "39920726",
+      "title": "Single-center experience and evaluation of rare ıntracranial abscesses in childhood.",
+      "abstract": "Intracranial abscess (IA) is a rare disorder in childhood. Clinical manifestations of brain abscess include headache, fever, and focal neurological deficits. This study aimed to examine the demographic, clinical, laboratory, and imaging findings in children with IA.",
+      "journal": "Italian journal of pediatrics",
+      "year": "2025",
+      "authors": [
+        "Yildiz Nihal",
+        "Gayretli Aydin Zeynep Gökçe"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Brain Abscess",
+        "Female",
+        "Child",
+        "Child, Preschool",
+        "Retrospective Studies",
+        "Magnetic Resonance Imaging",
+        "Infant",
+        "Anti-Bacterial Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39920726/"
+    },
+    {
+      "pmid": "2566203",
+      "title": "Intracranial complications of sinusitis.",
+      "abstract": "Sinusitis is a common problem that is routinely diagnosed and treated by most primary care physicians. Although most cases usually respond to appropriate therapy, some occasionally progress to the development of intracranial complications, including meningitis, osteomyelitis, epidural and subdural empyema, intracranial mucocele or polyps, and frank brain abscess. It is important to develop a rational approach to the diagnosis and treatment of these conditions. A high clinical index of suspicion must always be maintained, since symptoms are often masked by previous antibiotic therapy. Radiologic evaluation must always include computerized tomography (CT) for accurate diagnosis and surgical planning. Therapy includes surgical drainage and high doses of appropriate intravenous antibiotics. Cefuroxime and metronidazole provide excellent broad spectrum antibacterial coverage. Only early recognition and appropriate therapy can reduce the potential morbidity and mortality associated with thes",
+      "journal": "Southern medical journal",
+      "year": "1989",
+      "authors": [
+        "Parker G S",
+        "Tami T A",
+        "Wilson J F",
+        "Fetter T W"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Brain Abscess",
+        "Brain Neoplasms",
+        "Empyema, Subdural",
+        "Female",
+        "Frontal Bone",
+        "Humans",
+        "Male",
+        "Meningitis",
+        "Mucocele"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2566203/"
+    },
+    {
+      "pmid": "8869712",
+      "title": "Short course antimicrobial therapy in intracranial abscess.",
+      "abstract": "In this study, the author attempts to question the necessity of prolonged antimicrobial treatment for intracranial abscess. The C reactive protein (CRP) was measured serially in 26 patients with intracranial abscess. All patients had undergone surgery and were treated with antimicrobial therapy. The CRP was elevated in 20 (77%) patients and its return to normal after treatment correlated with a good recovery. In 3 (12%) patients a persistently high CRP level postoperatively coincided with reformation of the abscess. A transient rise in the CRP value during decrease to normal was due to deep venous thrombosis in 2 (8%) patients. The return of the CRP to normal in conjunction with improvement of the patient's clinical condition and evidence of resolution of the abscess on CT scan were used as a guideline to stop antibiotics early. The antimicrobial therapy of the patients in this series ranged from 11-30 (mean 20) days and the follow up from 6-36 (median 21) months; there have been no re",
+      "journal": "Acta neurochirurgica",
+      "year": "1996",
+      "authors": [
+        "Jamjoom A B"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Brain Abscess",
+        "C-Reactive Protein",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Humans",
+        "Infant"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8869712/"
+    },
+    {
+      "pmid": "36299836",
+      "title": "Treatment of Extra-Intestinal Clostridioides difficile Abscess following Acute Appendicitis.",
+      "abstract": "Clostridioides difficile infection (CDI) commonly presents with diarrhoea, colitis, and in more severe cases, toxic megacolon. Extraintestinal Clostridioides difficile infection (EI CDI) is rarely reported. Intraabdominal abscesses are the most commonly reported EI CDI presentation. EI CDI-associated bacteraemia, as well as bone, lung, and even intracranial infections have been reported in the literature. EI CDI is usually seen in patients with multiple comorbidities. Due to the rarity of cases, no clear treatment guidelines exist, but metronidazole and vancomycin have been primarily used to treat EI CDI and additional antibiotics have been used for treatment when the isolates are polymicrobial. We report a case of a patient with significant comorbidities who developed EI CDI following acute ruptured appendicitis. She was successfully treated with drainage of abscess and intravenous metronidazole followed by oral metronidazole.",
+      "journal": "European journal of case reports in internal medicine",
+      "year": "2022",
+      "authors": [
+        "Chatterjee Tulika",
+        "Roy Moni",
+        "Ahmad Sharjeel"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36299836/"
+    }
+  ]
+}

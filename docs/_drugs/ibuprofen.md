@@ -5,7 +5,7 @@ drugbank_id: "DB01050"
 drug_name: "Ibuprofen"
 kg_predictions: 360
 dl_predictions: 77
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 360
 brands: []
 permalink: /drugs/ibuprofen/
@@ -21,7 +21,7 @@ permalink: /drugs/ibuprofen/
 | **DrugBank ID** | [DB01050](https://go.drugbank.com/drugs/DB01050) |
 | **KG Predictions** | 360 |
 | **DL Predictions (≥0.7)** | 77 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

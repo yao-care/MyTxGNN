@@ -1,0 +1,130 @@
+{
+  "drug": "Fusidic Acid",
+  "drugbank_id": "DB02703",
+  "evidence_level": "L2",
+  "collected_at": "2026-03-04T09:50:00Z",
+  "indications": [
+    {
+      "indication": "ornithosis",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "superior limbic keratoconjunctivitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "cholera",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "gastrointestinal anthrax",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "typhus",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    }
+  ],
+  "total_trials": 0,
+  "total_articles": 1,
+  "trials": [],
+  "articles": [
+    {
+      "pmid": "11919013",
+      "title": "The clinical efficacy of topical and systemic therapy for the treatment of feline ocular chlamydiosis.",
+      "abstract": "Twenty-four specific-pathogen-free-derived cats aged four to 11 months were challenged by ocular application of a field isolate of Chlamydia psittaci to evaluate the effect of topical and systemic therapy on the course of disease. The cats were monitored for 35 days post-challenge, with severity of clinical signs being measured using a scoring system, and ocular shedding of the organism monitored by culture of conjunctival swabs. All cats developed active C psittaci infection, and after 7 days the cats were randomly assigned to one of four treatment groups: Group P (placebo) was given twice-daily ophthalmic tear-replacement ointment; group F was given twice-daily topical 1% fusidic acid ophthalmic viscous drops; group C was given twice-daily topical 1% chlortetracycline ophthalmic ointment; and group D was given doxycycline at 10 mg/kg daily per os in addition to twice-daily topical 1% fusidic acid ophthalmic ointment. Within 24 h of commencement of therapy, group D had significantly l",
+      "journal": "Journal of feline medicine and surgery",
+      "year": "1999",
+      "authors": [
+        "Sparkes A H",
+        "Caney S M",
+        "Sturgess C P",
+        "Gruffydd-Jones T J"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Administration, Topical",
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Cat Diseases",
+        "Cats",
+        "Chlamydophila psittaci",
+        "Chlortetracycline",
+        "Doxycycline",
+        "Drug Administration Schedule"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11919013/"
+    }
+  ]
+}

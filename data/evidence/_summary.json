@@ -1,0 +1,93 @@
+{
+  "collected_at": "2026-03-04T10:02:26Z",
+  "total_drugs": 20,
+  "level_counts": {
+    "L1": 18,
+    "L2": 2,
+    "L3": 0,
+    "L4": 0,
+    "L5": 0
+  },
+  "drugs": [
+    {
+      "drug": "Prednisolone",
+      "level": "L1"
+    },
+    {
+      "drug": "Betamethasone",
+      "level": "L1"
+    },
+    {
+      "drug": "Fusidic Acid",
+      "level": "L2"
+    },
+    {
+      "drug": "Hydrocortisone Acetate",
+      "level": "L1"
+    },
+    {
+      "drug": "Hydrocortisone",
+      "level": "L1"
+    },
+    {
+      "drug": "Dexamethasone",
+      "level": "L1"
+    },
+    {
+      "drug": "Ketoconazole",
+      "level": "L1"
+    },
+    {
+      "drug": "Ofloxacin",
+      "level": "L2"
+    },
+    {
+      "drug": "Triamcinolone",
+      "level": "L1"
+    },
+    {
+      "drug": "Mometasone Furoate",
+      "level": "L1"
+    },
+    {
+      "drug": "Salicylic Acid",
+      "level": "L1"
+    },
+    {
+      "drug": "Clotrimazole",
+      "level": "L1"
+    },
+    {
+      "drug": "Fluticasone Propionate",
+      "level": "L1"
+    },
+    {
+      "drug": "Simvastatin",
+      "level": "L1"
+    },
+    {
+      "drug": "Zinc Oxide",
+      "level": "L1"
+    },
+    {
+      "drug": "Metronidazole",
+      "level": "L1"
+    },
+    {
+      "drug": "Paclitaxel",
+      "level": "L1"
+    },
+    {
+      "drug": "Ibuprofen",
+      "level": "L1"
+    },
+    {
+      "drug": "Telmisartan",
+      "level": "L1"
+    },
+    {
+      "drug": "Cyanocobalamin",
+      "level": "L1"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ drugbank_id: "DB00257"
 drug_name: "Clotrimazole"
 kg_predictions: 549
 dl_predictions: 83
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 549
 brands: []
 permalink: /drugs/clotrimazole/
@@ -21,7 +21,7 @@ permalink: /drugs/clotrimazole/
 | **DrugBank ID** | [DB00257](https://go.drugbank.com/drugs/DB00257) |
 | **KG Predictions** | 549 |
 | **DL Predictions (≥0.7)** | 83 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

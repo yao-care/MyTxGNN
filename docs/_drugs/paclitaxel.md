@@ -5,7 +5,7 @@ drugbank_id: "DB01229"
 drug_name: "Paclitaxel"
 kg_predictions: 370
 dl_predictions: 678
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 370
 brands: []
 permalink: /drugs/paclitaxel/
@@ -21,7 +21,7 @@ permalink: /drugs/paclitaxel/
 | **DrugBank ID** | [DB01229](https://go.drugbank.com/drugs/DB01229) |
 | **KG Predictions** | 370 |
 | **DL Predictions (≥0.7)** | 678 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

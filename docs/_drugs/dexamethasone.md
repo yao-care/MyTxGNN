@@ -5,7 +5,7 @@ drugbank_id: "DB01234"
 drug_name: "Dexamethasone"
 kg_predictions: 2736
 dl_predictions: 720
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 2736
 brands: []
 permalink: /drugs/dexamethasone/
@@ -21,7 +21,7 @@ permalink: /drugs/dexamethasone/
 | **DrugBank ID** | [DB01234](https://go.drugbank.com/drugs/DB01234) |
 | **KG Predictions** | 2736 |
 | **DL Predictions (≥0.7)** | 720 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

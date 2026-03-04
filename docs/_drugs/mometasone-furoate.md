@@ -5,7 +5,7 @@ drugbank_id: "DB14512"
 drug_name: "Mometasone Furoate"
 kg_predictions: 640
 dl_predictions: 121
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 640
 brands: []
 permalink: /drugs/mometasone-furoate/
@@ -21,7 +21,7 @@ permalink: /drugs/mometasone-furoate/
 | **DrugBank ID** | [DB14512](https://go.drugbank.com/drugs/DB14512) |
 | **KG Predictions** | 640 |
 | **DL Predictions (≥0.7)** | 121 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

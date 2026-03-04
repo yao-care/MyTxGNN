@@ -5,7 +5,7 @@ drugbank_id: "DB00916"
 drug_name: "Metronidazole"
 kg_predictions: 425
 dl_predictions: 491
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 425
 brands: []
 permalink: /drugs/metronidazole/
@@ -21,7 +21,7 @@ permalink: /drugs/metronidazole/
 | **DrugBank ID** | [DB00916](https://go.drugbank.com/drugs/DB00916) |
 | **KG Predictions** | 425 |
 | **DL Predictions (≥0.7)** | 491 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

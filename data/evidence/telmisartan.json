@@ -1,0 +1,1072 @@
+{
+  "drug": "Telmisartan",
+  "drugbank_id": "DB00966",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:02:07Z",
+  "indications": [
+    {
+      "indication": "stroke disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 15,
+        "rct_articles": 2,
+        "review_articles": 2,
+        "other_articles": 6,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "obsolete susceptibility to ischemic stroke",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "hypertension",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 0,
+        "phase1_trials": 1,
+        "other_trials": 14,
+        "rct_articles": 0,
+        "review_articles": 10,
+        "other_articles": 0,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "cerebrovascular disorder",
+      "evidence_level": "L1",
+      "trials": 14,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 10,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 9,
+        "total_trials": 14,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "hypertensive disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 0,
+        "phase1_trials": 1,
+        "other_trials": 14,
+        "rct_articles": 2,
+        "review_articles": 7,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 74,
+  "total_articles": 40,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03785067",
+      "title": "Triple Therapy Prevention of Recurrent Intracerebral Disease EveNts Trial (TRIDENT) Cognitive Sub-Study",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2020-02-27",
+      "completion_date": "2021-02-03",
+      "country": "Netherlands, Australia",
+      "enrollment": 1,
+      "brief_summary": "A Sub-Study of an investigator initiated and conducted, multicentre, international, double-blinded, placebo-controlled, parallel-group, randomised controlled trial (TRIDENT) to determine the effect of more intensive long-term blood pressure control, provided by a fixed low-dose combination blood pressure lowering pill (\"Triple Pill\") strategy on top of standard of care, for slowing memory decline as measured by Cambridge Neuropsychological Test Automated Battery (CANTAB), in patients with a hist",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Eligible for, randomised and continuing in the TRIDENT Main Study\n2. Must be able to attend the site conducting the cognitive assessments. In Sydney, this will either be at the same site as where TRIDENT study is conducted or at the BMC, University of Sydney, Camperdown.\n3. A",
+      "endpoints": [
+        "Memory as measured by the Cambridge Neuropsychological Test Automated Battery (CANTAB) Paired Associates Learning (PAL) subtest"
+      ],
+      "sponsor": "The George Institute",
+      "url": "https://clinicaltrials.gov/study/NCT03785067"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03783754",
+      "title": "Triple Therapy Prevention of Recurrent Intracerebral Disease EveNts Trial (TRIDENT) MRI Sub-study",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2018-08-09",
+      "completion_date": "2021-03-21",
+      "country": "Australia",
+      "enrollment": 4,
+      "brief_summary": "TRIDENT Main Study:\n\nTRIDENT is a multicentre, international, double-blinded, placebo-controlled, parallel-group, randomised controlled trial of a fixed low-dose combination BP-lowering pill (\"Triple Pill\") strategy on top of standard of care, in patients with a history of acute intracerebral haemorrhage (ICH) and systolic blood pressure (SBP) levels defined as 'high normal to borderline high', and on either minimal or no BP-lowering treatment according to current guidelines.\n\nMRI Sub-Study Cent",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Eligible for, randomised and continuing in TRIDENT Main Study\n2. No contraindications to MRI scan of the brain\n3. Provide informed consent for the MRI Sub-Study\n\nExclusion Criteria:\n\n1. Any MRI contraindications (e.g. metallic implants, claustrophobia, etc.)\n2. Less than 6 we",
+      "endpoints": [
+        "Change in T2 FLAIR white matter hyperintensities (WMH) volume"
+      ],
+      "sponsor": "The George Institute",
+      "url": "https://clinicaltrials.gov/study/NCT03783754"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00490958",
+      "title": "Effects Of Telmisartan Added To Angiotensin Converting Enzyme Inhibitors On Mortality And Morbidity In Haemodialysed Patients With Chronic Heart Failure: A Double-Blind Placebo-Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "1999-01",
+      "completion_date": "2005-06",
+      "country": "Italy",
+      "enrollment": 351,
+      "brief_summary": "Background: In haemodialysis patients, chronic heart failure (CHF) is responsible for a high mortality rate but, presently, very little data is available regarding this population.\n\nAim of the study: Aim of this study was to determine whether telmisartan decreases all-cause and cardiovascular mortality and morbidity in haemodialysis patients with CHF and impaired left ventricular ejection fraction (LVEF) when added to standard therapies with ACE inhibitors.\n\nMethods: A 3-year randomized, double-",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult haemodialysis patients with CHF;\n* New York Heart Association (NYHA) class II and III;\n* Ejection fraction less or equal to 40% determined within 6 months; and\n* Therapy with ACE inhibitors individually optimized and unchanged for 30 days before randomization\n\nExclusion ",
+      "endpoints": [
+        "all cause mortality cardiovascular mortality hospitalization for decompensated heart failure"
+      ],
+      "sponsor": "University of Campania Luigi Vanvitelli",
+      "url": "https://clinicaltrials.gov/study/NCT00490958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00274118",
+      "title": "DETAIL = Diabetics Exposed to Telmisartan And enalapIL: A Randomised, Double-blind, Parallel-group Comparison of the Renal and Antihypertensive Effects of Telmisartan and Enalapril in Subjects With Mild to Moderate Hypertension and Concurrent Type II Diabetes Mellitus and Diabetic Nephropathy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1997-07",
+      "completion_date": "2004-01",
+      "country": "Finland, Denmark, Norway, United Kingdom, Sweden, Netherlands",
+      "enrollment": 250,
+      "brief_summary": "To compare the renal consequences of two different approaches to blocking the renin angiotensin system in subjects with hypertension and concurrent Type II diabetes mellitus and diabetic nephropathy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subjects between the ages 35 and 80 years.\n2. Current ACE inhibitor therapy for a minimum period of 3 months prior to study entry.\n3. Confirmed diagnosis of type II diabetes:\n\n   * Subjects currently treated by diet or diet and oral hypoglycaemic drugs, OR\n   *",
+      "endpoints": [
+        "Change from baseline in glomerular filtration rate GFR after five years of treatment."
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00274118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01928927",
+      "title": "Effects of Telmisartan on Fibrotic and Inflammatory Contributors to End-Organ Disease in HIV-Infected Patients Well Controlled on Antiretroviral Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2016-03",
+      "country": "United States, Puerto Rico",
+      "enrollment": 58,
+      "brief_summary": "The main goal of this study was to see if a drug called telmisartan would decrease fibrosis (scarring) and inflammation (irritation) in people who are infected with HIV and doing well on their HIV medications. The study was also done to see what effects telmisartan has on other signs of disease and inflammation in the body, and to see whether people who have HIV can take telmisartan safely and without side effects that make them want to stop the drug. Telmisartan is FDA-approved for treating hig",
+      "eligibility_criteria": "Step 1 Inclusion Criteria:\n\n* HIV-1 infection, documented by any licensed rapid HIV test or HIV enzyme or chemiluminescence immunoassay (E/CIA) test kit at any time prior to Step 1 entry and confirmed by a licensed Western blot or a second antibody test by a method other than the initial rapid HIV a",
+      "endpoints": [
+        "Change in Percent Collagen I Deposition on Lymph Node Pathology From Baseline to Week 48",
+        "Change in Percent Collagen I Deposition on Subcutaneous Abdominal Adipose Tissue Pathology From Baseline to Week 48"
+      ],
+      "sponsor": "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections",
+      "url": "https://clinicaltrials.gov/study/NCT01928927"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00153023",
+      "title": "A Prospective, Randomised, Double-blind, Double-dummy, Forced-titration, Multicentre, Parallel Group, One Year Treatment Trial to Investigate the Efficacy of Telmisartan 80 mg Versus Valsartan 160 mg in Hypertensive Type 2 Diabetic Patients With Overt Nephropathy VIVALDI-Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2005-12",
+      "country": "Czechia, Spain, Russia, Denmark, Taiwan, Germany, Italy, France, Portugal, South Korea, Slovakia, Malaysia, Ukraine",
+      "enrollment": 885,
+      "brief_summary": "The general aim of this study is to compare telmisartan 80 mg with valsartan 160 mg in hypertensive patients with type 2 diabetes and overt nephropathy with adjusted blood pressure beyond the target of 130/80 mmHg after one year of treatment.\n\nThe primary objective of this study is to show that telmisartan 80 mg is at least as effective (i.e., not inferior) and possibly superior to valsartan 160 mg in reducing 24 hour proteinuria after one year of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Type 2 diabetes mellitus\n2. Aged 30-70 years of age\n3. Hypertension at screening defined as:\n\n   * an average cuff systolic blood pressure \\> 130 mmHg and/or diastolic blood pressure \\>80 mmHg in untreated patients OR\n   * patients receiving antihypertensive therapy (i.e., me",
+      "endpoints": [
+        "Change from baseline (Visit 6) in 24 hour proteinuria, after one year of treatment (study end) with telmisartan 80 mg versus valsartan 160 mg."
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00153023"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00741585",
+      "title": "Prognostic Value of the Circadian Pattern of Ambulatory Blood Pressure for Multiple Risk Assessment",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-09-01",
+      "completion_date": "2018-06-30",
+      "country": "Spain",
+      "enrollment": 21983,
+      "brief_summary": "The HYGIA study was designed to investigate prospectively\n\n1. the prognostic value of ambulatory blood pressure (BP) monitoring among subjects primarily evaluated at primary care settings\n2. the impact of changes in ambulatory BP during follow-up in cardiovascular, cerebrovascular, metabolic, and renal risk in hypertensive patients\n3. the influence of circadian time of treatment in cardiovascular, cerebrovascular, metabolic, and renal risk in hypertensive patients\n4. the prevalence of an altered",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects ≥18 years of age.\n* High-normal BP or essential hypertension.\n* Any subject with recommendation for evaluation with ABPM according to the 2007 European Guidelines.\n* Informed consent to participate in the study prior to any study procedures.\n\nExclusion ",
+      "endpoints": [
+        "To evaluate the impact of circadian time of treatment in cardiovascular, cerebrovascular, metabolic, and renal risk assessment."
+      ],
+      "sponsor": "University of Vigo",
+      "url": "https://clinicaltrials.gov/study/NCT00741585"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00904371",
+      "title": "Evaluation of the Effect of Telmisartan on Blood Pressure and Cardiovascular Risk Factor Index in High Risk Hypertensive Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-12",
+      "completion_date": "",
+      "country": "Slovenia",
+      "enrollment": 211,
+      "brief_summary": "The study is designed to evaluate the effect of treatment with Micardis/MicardisPlus on blood pressure and its ability to reduce different indicated cardiovascular risks. Further on, the study will evaluate the current antihypertensive treatment pattern in the daily practice among the patient population at increased cardiovascular risk.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* diagnosis of essential arterial hypertension (BP\\>140/90 mm HG or BP\\>130/80 mm Hg for diabetic patients)\n* at least an additional cardiovascular risk factor\n\nExclusion criteria:\n\n* hypersensitivity to the active substance or to any of the excipients in any ACE inhibitor or an",
+      "endpoints": [
+        "Change From Baseline in Systolic Blood Pressure (SBP)",
+        "Change From Baseline in Diastolic Blood Pressure (DBP)",
+        "Change From Baseline in SCORE (10 Year Risk for Fatal Cardiovascular Event)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00904371"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03006341",
+      "title": "Validation of Predictors for Oral Anticoagulant Medication Choice Using EMR Data",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-02-28",
+      "completion_date": "2017-05-09",
+      "country": "United States",
+      "enrollment": 140187,
+      "brief_summary": "The objectives of this study are, first, to identify select clinical covariates from electronic medical records (EMR) that might be associated with initiation of oral anticoagulant medications (dabigatran or warfarin) in patients with non-valvular atrial fibrillation (NVAF) at risk for stroke; second, to quantify the association between EMR-based clinical characteristics and patterns of insurance claims; third, to assess the potential for unmeasured confounding in dabigatran vs warfarin comparat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* First dispensing of warfarin or dabigatran between October 2010 and December 2014\n* Diagnosis of atrial fibrillation\n* ≥ 12 months enrolment in the database preceding the date of the first dispensing\n* Age ≥ 18\n* Congestive Heart Failure, Hypertension, Age \\> 75, Diabetes Mell",
+      "endpoints": [
+        "Percentage of Patients With Obesity",
+        "Percentage of Patients Smoking",
+        "Percentage of Patients With Alcohol Consumption"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT03006341"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01011660",
+      "title": "Phase 4 Study of Effects of ARB Compared With Diuretics in Hypertension Patients With High Cardiovascular Risks",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2007-10",
+      "completion_date": "2012-12",
+      "country": "China",
+      "enrollment": 13542,
+      "brief_summary": "The aim of the study is to investigate the optimized treatment strategy of hypertension, so as to make more patients to reach the blood pressure goals and to reduce cardio-cerebrovascular events. Objective and Methods: Patients are eligible for inclusion in the study if they are essential hypertension, 50-79 years of age with at least one cardiovascular risk factor and sign the informed consent forms. This project is a multi-centre, prospective randomized,，openlabel blind-endpoint evaluation con",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* essential hypertension\n* 50-79 years old\n* with at least one of the cardiovascular risk factor\n* sign consent forms\n\nExclusion Criteria:\n\n* secondary hypertension\n* attack of cerebrovascular events or myocardial infarction within recent 3 months\n* coexistence of severe cardiom",
+      "endpoints": [
+        "The primary study outcomes are composite of non-fatal stroke, non-fatal myocardial infarction and cardiovascular death."
+      ],
+      "sponsor": "Chinese Academy of Medical Sciences, Fuwai Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01011660"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00147264",
+      "title": "A Randomized, Double Blind, 2X2 Factorial Design Study to Evaluate the Effects of Telmisartan vs Placebo, and of a Low-Glycemic Diet vs Control Diet, in Reducing Intra-Myocellular Lipids In Individuals With Abdominal Obesity",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-04",
+      "completion_date": "2006-11",
+      "country": "Canada",
+      "enrollment": 120,
+      "brief_summary": "The purpose of this study is to determine whether telmisartan and/or a low-glycemic index diet are effective in reducing intra-myocellular lipid (muscle fat) content.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent\n* Between 30 and 70 years of age\n* Abdominal obesity defined as increased waist circumference (Men \\>102cm (\\>40in), Women \\>88cm (\\>35in)), with or without any of the following additional criteria of the metabolic syndrome:\n* Triglycerides \\>=1.7mmol/",
+      "endpoints": [
+        "(for both interventions): change in IMCL content in the soleus muscle as assessed by 1H-MRI Spectroscopy at baseline and 6 months"
+      ],
+      "sponsor": "McMaster University",
+      "url": "https://clinicaltrials.gov/study/NCT00147264"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01377285",
+      "title": "Renoprotection by Combining Pentoxifylline and Angiotensin Blockade in Chronic Kidney Disease",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2010-06",
+      "completion_date": "2018-12",
+      "country": "Taiwan",
+      "enrollment": 350,
+      "brief_summary": "This is a multicenter, randomized, double-blind, placebo-controlled clinical trial to investigate the renoprotective efficacy of combined pentoxifylline (PTX) and angiotensin receptor blockers (valsartan), compared with placebo and valsartan in 700 patients with Chronic Kidney Disease (CKD) stages 3 and 4. The effect on cardiovascular comorbidity will also be observed. The observation period will be 3 years. The primary endpoints consists of doubling of serum creatinine, end stage renal disease ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetic and non-diabetic men and women between 20 and 80 years of age who have been diagnosed as CKD stage 3 to 4. The diabetic patients must be type II diabetes mellitus (DM) having overt proteinuria or microalbuminuria twice within the preceding 6 months with a clinical exc",
+      "endpoints": [
+        "doubling of serum creatinine, ESRD, and death from any cause"
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01377285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04354350",
+      "title": "Replication of the ONTARGET Antihypertensive Trial in Healthcare Claims Data",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-09-22",
+      "completion_date": "2021-02-08",
+      "country": "United States",
+      "enrollment": 63744,
+      "brief_summary": "Investigators are building an empirical evidence base for real world data through large-scale replication of randomized controlled trials. The investigators' goal is to understand for what types of clinical questions real world data analyses can be conducted with confidence and how to implement such studies.",
+      "eligibility_criteria": "Please see: https://drive.google.com/drive/folders/1WD618wrywYjEaXzfLTcuK-VCcnb6b-gV for full code and algorithm definitions.\n\nEligible cohort entry dates: Market availability of telmistartan in the U.S. started on November 10, 1998, however, the Marketscan and Optum data are available at BWH only f",
+      "endpoints": [
+        "Relative hazard of composite outcome of Heart Failure, Stroke, MI, and Mortality"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04354350"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05498675",
+      "title": "Effect of Sacubitril/Valsartan on Cardiac Function Assessed by Cardiac Magnetic Resonance (CMR) in Hypertensive Patients Stratified by Body Mass Index (BMI): A Real World Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2021-09-01",
+      "completion_date": "2027-06-30",
+      "country": "China",
+      "enrollment": 180,
+      "brief_summary": "The purpose of this study is to investigate the effect of sacubitril/valsartan on cardiac function assessed by cardiac magnetic resonance (CMR) in hypertensive patients stratified by BMI.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with essential hypertension\n* 18-70 years old\n* No major barriers to provide written consent\n\nExclusion Criteria:\n\n* Secondary hypertension, except because of sleep apnea\n* cardiovascular disease (myocardial infarction, heart failure, stroke or coronary revascularizat",
+      "endpoints": [
+        "Changes on left ventricular ejection fraction (LVEF)"
+      ],
+      "sponsor": "Beijing Friendship Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05498675"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00863980",
+      "title": "Effects of Telmisartan Compared With Candesartan on Ischemic Cardiovascular Events in High-risk Hypertensive Patients: a Multi-center, Prospective, Randomized, Open-labeled, Blinded Endpoints Trial",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2009-04",
+      "completion_date": "2013-07",
+      "country": "Japan",
+      "enrollment": 1500,
+      "brief_summary": "This study is aimed to investigate whether treatment with Telmisartan is more effective than Candesartan in reducing the ischemic cardiovascular events in high-risk patients with cardiovascular disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nThe inclusion criteria are set by at least one of the three following risk factors:\n\n1. Coronary artery disease documented by at least one of the following:\n\n   * Myocardial infarction at least 12 months before enrollment and not planned for percutaneous coronary intervention (P",
+      "endpoints": [
+        "New or recurrent acute myocardial infarction and angina pectoris"
+      ],
+      "sponsor": "Kyoto Prefectural University of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00863980"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00599885",
+      "title": "Comparison of Effects of Telmisartan and Valsartan on Neointima Volume in Diabetes",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "",
+      "country": "South Korea",
+      "enrollment": 72,
+      "brief_summary": "People with diabetes mellitus are more prone to coronary heart disease, stroke, and peripheral vascular disease, and diabetes mellitus has been regarded as an independent risk factor for the progression of coronary artery disease. Several studies have been reported that diabetes increased the risk of cardiovascular mortality in both men and women. With the introduction of drug-eluting stents (DESs), the angiographic rates of restenosis at later months have reduced dramatically in several studies",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 18 years and above\n* Gender eligible for study: both\n* Hypertensive diabetic patients either previously diagnosed or newly found.\n* Systolic blood pressure ≥ 130 mmHg or diastolic blood pressure ≥ 80 mmHg for newly found hypertensive patients.\n* Fasting blood glucose ≥ 12",
+      "endpoints": [
+        "Comparison of telmisartan and valsartan on neointima volume with IVUS at 8 months after zotarolimus-eluting stent implantation."
+      ],
+      "sponsor": "Korea University Anam Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00599885"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01715584",
+      "title": "Is There an Adverse Drug Reaction Between Renin-Angiotensin System Blockade and Inhaled Anesthetics? - A Pilot Study. Optional Deoxyribo-Nucleic Acid Donation for the Study of Hypertension.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-07",
+      "completion_date": "2019-12-31",
+      "country": "Canada",
+      "enrollment": 80,
+      "brief_summary": "It is controversial whether or not patients whose Renin Angiotensin System is blocked for the treatment of hypertension suffer increased risk when undergoing surgery and anaesthesia.\n\nThe investigators wish to test the hypothesis: Blockade of the Renin Angiotensin System causes altered dose response under general anaesthesia in a dose dependant manner. The investigators wish to look for altered responses across the usual anaesthetic dosing range as measured by blood pressure and heart responses.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age over 40\n* composite head and neck tumor resection\n* treated hypertension\n* hypertension medications taken on morning of surgery (except diuretics)\n\nExclusion Criteria:\n\n* patient refusal\n* age less than 40 or over 80 years\n* combined surgical procedures\n* emergency surgery",
+      "endpoints": [
+        "Systemic Vascular Resistance Index (SVRI)"
+      ],
+      "sponsor": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's",
+      "url": "https://clinicaltrials.gov/study/NCT01715584"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02170246",
+      "title": "Adjunctive Therapy With Telmisartan Instituted With ART During Acute HIV Infection to Reduce the Establishment of Central Nervous System Reservoirs of HIV and Lymph Node Fibrosis [Southeast Asia Research Collaboration With Hawaii (SEARCH) 018]",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-01-28",
+      "completion_date": "2018-06-13",
+      "country": "Thailand",
+      "enrollment": 21,
+      "brief_summary": "This research project will study whether the drug telmisartan administered in conjunction with antiretroviral therapy (ART) will help reduce nervous system infection with HIV. The investigators are studying the effect of this treatment in people who have contracted HIV infection within the past three weeks, and thus have a form of HIV called acute HIV infection. The investigators will measure biological markers of immune activation in the blood and cerebrospinal fluid to see if telmisartan may r",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years old\n* Have protocol-defined acute HIV-1 infection\n* Be part of the SEARCH 010/RV 254 study in Bangkok, Thailand\n* Ability and willingness to start ART immediately after diagnosis\n* Availability for follow-up for the duration of the planned study\n* Systolic blood",
+      "endpoints": [
+        "Change in level of neopterin in the cerebrospinal fluid (CSF) of patients placed on antiretroviral therapy (ART) administered in conjunction with telmisartan, versus those placed on ART only"
+      ],
+      "sponsor": "Yale University",
+      "url": "https://clinicaltrials.gov/study/NCT02170246"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00153062",
+      "title": "PRoFESS - Prevention Regimen For Effectively Avoiding Second Strokes: A Double-blind, Active and Placebo Controlled Study of Aggrenox vs. Clopidogrel, With and Without Micardis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-08",
+      "completion_date": "",
+      "country": "Ireland, Brazil, Canada, Denmark, Norway, Portugal, United Kingdom, Netherlands, South Africa, United States, Hong Kong, South Korea, Ukraine, Russia, Mexico, Thailand, Japan, Italy, Belgium, India, Spain, Australia, Austria, Taiwan, Sweden, Singapore, Israel, Finland, Greece, China, Germany, France, Argentina, Turkey (Türkiye), El Salvador, Malaysia",
+      "enrollment": 20332,
+      "brief_summary": "The purpose of the trial is to determine if extended-release dipyridamole + aspirin \\[Aggrenox, Asasa ntin\\] is superior to clopidogrel \\[Plavix\\], and if telmisartan \\[Micardis, Gliosartan, Kinzal, Kinzalm ono, Predxal, Pritor, Samertan, Telmisartan\\] is superior to placebo, in the presence of background antihypertensive therapy, in prevention of a second stroke in patients who have recently suffered a stroke and therefore are at high risk of suffering another one.",
+      "eligibility_criteria": "Inclusion criteria:\n\nMale or female subjects 55 year or older who have suffered an ischemic stroke within the past 90 days and who meet all other inclusion criteria. Include also patients of ages 50 - 54 years and/or 90 to 120 days after the qualifying stroke provided the patient has at least two of",
+      "endpoints": [
+        "Number of Patients With First Recurrent Stroke of Any Type, Fatal or Nonfatal (Antiplatelet Comparison Only)",
+        "Number of Patients With First Recurrent Stroke of Any Type, Fatal or Nonfatal (Telmisartan vs. Placebo Only)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00153062"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01198496",
+      "title": "Phase IV Study for Effect of Intensive Blood-Pressure Control Using Anti-hypertensive Agents in Essential Hypertension With History of Stroke",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2010-10",
+      "completion_date": "2019-12",
+      "country": "Japan",
+      "enrollment": 5000,
+      "brief_summary": "1. Objectives and Hypothesis\n\n   1. Objectives:\n\n      This study evaluates whether strict BP management is useful for the prevention of recurrent stroke.\n\n      Hypertensive patients with history of stroke are treated with stepwise multi-drug therapy to achieve stricter BP target \\<120/80 mmHg in the strict BP control group and less stricter BP target \\<140/90 mmHg or \\<130/80 mmHg for patients with current DM/CKD/MI in the standard BP control group. The participants under the BP treatment achi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nParticipants include those with essential hypertension and history of stroke who satisfy the following criteria:\n\n* Outpatient\n* Onset of stroke(cerebral infarction/cerebral hemorrhage) occurred between 30 days and 3 years prior to the date of consent.\n* Drug adherence is ≧80% d",
+      "endpoints": [
+        "the prevention of recurrent stroke."
+      ],
+      "sponsor": "Biomedis International Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01198496"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "18378520",
+      "title": "Telmisartan, ramipril, or both in patients at high risk for vascular events.",
+      "abstract": "In patients who have vascular disease or high-risk diabetes without heart failure, angiotensin-converting-enzyme (ACE) inhibitors reduce mortality and morbidity from cardiovascular causes, but the role of angiotensin-receptor blockers (ARBs) in such patients is unknown. We compared the ACE inhibitor ramipril, the ARB telmisartan, and the combination of the two drugs in patients with vascular disease or high-risk diabetes.",
+      "journal": "The New England journal of medicine",
+      "year": "2008",
+      "authors": [
+        "Yusuf Salim",
+        "Teo Koon K",
+        "Pogue Janice",
+        "Dyal Leanne"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Angioedema",
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Benzimidazoles",
+        "Benzoates",
+        "Blood Pressure",
+        "Cardiovascular Diseases",
+        "Creatinine",
+        "Diabetes Mellitus"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18378520/"
+    },
+    {
+      "pmid": "38926677",
+      "title": "The angiotensin II receptors type 1 and 2 modulate astrocytes and their crosstalk with microglia and neurons in an in vitro model of ischemic stroke.",
+      "abstract": "Astrocytes are the most abundant cell type of the central nervous system and are fundamentally involved in homeostasis, neuroprotection, and synaptic plasticity. This regulatory function of astrocytes on their neighboring cells in the healthy brain is subject of current research. In the ischemic brain we assume disease specific differences in astrocytic acting. The renin-angiotensin-aldosterone system regulates arterial blood pressure through endothelial cells and perivascular musculature. Moreover, astrocytes express angiotensin II type 1 and 2 receptors. However, their role in astrocytic function has not yet been fully elucidated. We hypothesized that the angiotensin II receptors impact astrocyte function as revealed in an in vitro system mimicking cerebral ischemia. Astrocytes derived from neonatal wistar rats were exposed to telmisartan (angiotensin II type 1 receptor-blocker) or PD123319 (angiotensin II type 2 receptor-blocker) under normal conditions (control) or deprivation from",
+      "journal": "BMC neuroscience",
+      "year": "2024",
+      "authors": [
+        "Olschewski Daniel Navin",
+        "Nazarzadeh Nilufar",
+        "Lange Felix",
+        "Koenig Anna Maria",
+        "Kulka Christina"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Rats",
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Angiotensin II Type 2 Receptor Blockers",
+        "Animals, Newborn",
+        "Astrocytes",
+        "Benzimidazoles",
+        "Cell Communication",
+        "Cells, Cultured",
+        "Imidazoles"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38926677/"
+    },
+    {
+      "pmid": "36577854",
+      "title": "A Novel Hybrid of Telmisartan and Borneol Ameliorates Neuroinflammation and White Matter Injury in Ischemic Stroke Through ATF3/CH25H Axis.",
+      "abstract": "Cerebral ischemic stroke causes substantial white matter injury, which is further aggravated by neuroinflammation mediated by microglia/astrocytes. Given the anti-neuroinflammatory action of telmisartan and the enhancing blood-brain barrier (BBB) permeability potential of resuscitation-inducing aromatic herbs, 13 hybrids (3a-m) of telmisartan (or its simplified analogues) with resuscitation-inducing aromatic agents were designed, synthesized, and biologically evaluated. Among them, the optimal compound 3a (the ester hybrid of telmisartan and (+)-borneol) potently inhibited neuroinflammation mediated by microglia/astrocytes and ameliorated ischemic stroke. Particularly, 3a significantly conferred protection for white matter integrity after cerebral ischemic stroke via decreasing abnormally dephosphorylated neurofilament protein, upregulating myelin basic protein, and attenuating oligodendrocyte damage. Further RNA-sequencing data revealed that 3a upregulated expression of transcriptiona",
+      "journal": "Translational stroke research",
+      "year": "2024",
+      "authors": [
+        "Guan Xin",
+        "Wu Jianbing",
+        "Geng Jiahui",
+        "Ji Duorui",
+        "Wei Dasha"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Telmisartan",
+        "Ischemic Stroke",
+        "White Matter",
+        "Neuroinflammatory Diseases",
+        "Stroke",
+        "Brain Injuries",
+        "Microglia",
+        "Activating Transcription Factor 3",
+        "Camphanes"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36577854/"
+    },
+    {
+      "pmid": "25591419",
+      "title": "Protective effect of telmisartan on neurovascular unit and inflammasome in stroke-resistant spontaneously hypertensive rats.",
+      "abstract": "Hypertension is a crucial risk factor for both stroke and dementia, including Alzheimer's disease (AD). We inspected the effect of telmisartan on the neurovascular unit (NVU) and related inflammatory responses in spontaneously hypertensive rat stroke resistant (SHR-SR) by observing the components of NVU such as N-acetyl glucosamine oligomer (NAGO), collagen IV, astrocytes, and matrix metalloproteinase-9 (MMP-9), as well as inflammasome NOD-like receptors family protein 3 (NLRP3).",
+      "journal": "Neurological research",
+      "year": "2015",
+      "authors": [
+        "Liu Wentao",
+        "Yamashita Toru",
+        "Kurata Tomoko",
+        "Kono Syoichiro",
+        "Hishikawa Nozomi"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aging",
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Benzimidazoles",
+        "Benzoates",
+        "Carrier Proteins",
+        "Cerebral Cortex",
+        "Collagen",
+        "Disease Models, Animal"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25591419/"
+    },
+    {
+      "pmid": "24065095",
+      "title": "Potential of the angiotensin receptor blockers (ARBs) telmisartan, irbesartan, and candesartan for inhibiting the HMGB1/RAGE axis in prevention and acute treatment of stroke.",
+      "abstract": "Stroke is a major cause of mortality and disability worldwide. The main cause of stroke is atherosclerosis, and the most common risk factor for atherosclerosis is hypertension. Therefore, antihypertensive treatments are recommended for the prevention of stroke. Three angiotensin receptor blockers (ARBs), telmisartan, irbesartan and candesartan, inhibit the expression of the receptor for advanced glycation end-products (RAGE), which is one of the pleiotropic effects of these drugs. High mobility group box 1 (HMGB1) is the ligand of RAGE, and has been recently identified as a lethal mediator of severe sepsis. HMGB1 is an intracellular protein, which acts as an inflammatory cytokine when released into the extracellular milieu. Extracellular HMGB1 causes multiple organ failure and contributes to the pathogenesis of hypertension, hyperlipidemia, diabetes mellitus, atherosclerosis, thrombosis, and stroke. This is the first review of the literature evaluating the potential of three ARBs for t",
+      "journal": "International journal of molecular sciences",
+      "year": "2013",
+      "authors": [
+        "Kikuchi Kiyoshi",
+        "Tancharoen Salunya",
+        "Ito Takashi",
+        "Morimoto-Yamashita Yoko",
+        "Miura Naoki"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Angiotensin Receptor Antagonists",
+        "Animals",
+        "Benzimidazoles",
+        "Benzoates",
+        "Biphenyl Compounds",
+        "HMGB1 Protein",
+        "Humans",
+        "Hypertension",
+        "Irbesartan"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24065095/"
+    },
+    {
+      "pmid": "24780412",
+      "title": "Telmisartan reduces progressive oxidative stress and phosphorylated α-synuclein accumulation in stroke-resistant spontaneously hypertensive rats after transient middle cerebral artery occlusion.",
+      "abstract": "Telmisartan is an angiotensin receptor blocker with high lipid solubility, also called metabosartan, which exerts a special protective effect on both acute brain damage and chronic neurodegeneration. We examined the effects of telmisartan on oxidative stress by advanced glycation end product (AGE) and 4-hydroxynonenal (4-HNE) assays and the accumulation of phosphorylated α-synuclein (pSyn) in the brain of stroke-resistant spontaneously hypertensive rats (SHR-SR). At the age of 12 weeks, SHR-SR received transient middle cerebral artery occlusion (tMCAO) for 90 minutes and were divided into the following 3 groups: the vehicle group, the low-dose telmisartan group (.3 mg/kg/day), and the high-dose telmisartan group (3 mg/kg/day, postoperatively). Immunohistologic analysis was performed when rats were 6, 12, and 18 months old. AGE, 4-HNE, and pSyn-positive cells (per square millimeter) increased with age in the cerebral cortex and hippocampus of the vehicle group, in the low-dose telmisart",
+      "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+      "year": "2014",
+      "authors": [
+        "Sato Kota",
+        "Yamashita Toru",
+        "Kurata Tomoko",
+        "Lukic Violeta",
+        "Fukui Yusuke"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aldehydes",
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Animals",
+        "Benzimidazoles",
+        "Benzoates",
+        "Blood Pressure",
+        "Brain",
+        "Glycation End Products, Advanced",
+        "Hypertension",
+        "Infarction, Middle Cerebral Artery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24780412/"
+    },
+    {
+      "pmid": "35222797",
+      "title": "Endothelial MicroRNA-483-3p Is Hypertension-Protective.",
+      "abstract": "Hypertension is a high-risk factor for developing coronary heart disease and stroke. Endothelial dysfunction and arterial remodeling can lead to increased vascular wall thickness and arterial stiffness. Previous studies showed that microRNA-483 (miR-483) enhances endothelial cell (EC) function. Here, we investigated the protective role of miR-483 in hypertension. Data collected from two patient cohorts showed that the serum miR-483-3p level was associated with the progression of hypertension and positively correlated with vascular function. In cultured ECs, miR-483 targets a number of endothelial dysfunction-related genes, such as transforming growth factor-β (TGF-β), connective tissue growth factor (CTGF), angiotensin-converting enzyme 1 (ACE1), and endothelin-1 (ET-1). Overexpression of miR-483-3p in ECs inhibited Ang II-induced endothelial dysfunction, revealed by the decreased expression of TGF-β, CTGF, ACE1, and ET-1. Furthermore, miR-483-3p secreted from ECs was taken up by smoot",
+      "journal": "Oxidative medicine and cellular longevity",
+      "year": "2022",
+      "authors": [
+        "Shang Fenqing",
+        "Guo Xuan",
+        "Chen Yueer",
+        "Wang Chen",
+        "Gao Jie"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Angiotensin II",
+        "Animals",
+        "Antihypertensive Agents",
+        "Endothelial Cells",
+        "Exosomes",
+        "Humans",
+        "Hypertension",
+        "MicroRNAs",
+        "Muscle, Smooth, Vascular",
+        "Rats"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35222797/"
+    },
+    {
+      "pmid": "22115399",
+      "title": "Telmisartan for the reduction of cardiovascular morbidity and mortality.",
+      "abstract": "Cardiovascular disease (CVD) poses a significant healthcare and economic burden on societies and individuals. Angiotensin II is a key component of the renin-angiotensin system that plays a central role in atherosclerotic mechanisms that contribute to CVD. Renin-angiotensin system blockers are widely used to reduce cardiovascular (CV) risk owing to their potential both to lower blood pressure, a CV risk factor, and to attenuate the atherosclerotic disease process directly. Telmisartan has a number of pharmacological properties that distinguish it from other angiotensin II receptor blockers (ARBs) - the longest plasma half-life, highest lipophilicity and strongest receptor binding affinity in class. The ONTARGET(®) trial showed that telmisartan is as effective as ramipril in reducing CV morbidity (including myocardial infarction and stroke) and mortality in a broad range of patients at increased CV risk. Evidence from other ARBs remains largely restricted to patients with heart failure, ",
+      "journal": "Expert review of clinical pharmacology",
+      "year": "2011",
+      "authors": [
+        "Verdecchia Paolo",
+        "Angeli Fabio",
+        "Gentile Giorgio",
+        "Mazzotta Giovanni",
+        "Reboldi Gianpaolo"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Animals",
+        "Benzimidazoles",
+        "Benzoates",
+        "Cardiovascular Diseases",
+        "Humans",
+        "Morbidity",
+        "Randomized Controlled Trials as Topic",
+        "Telmisartan"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22115399/"
+    },
+    {
+      "pmid": "17845921",
+      "title": "Antiplatelet effect of losartan and telmisartan in patients with ischemic stroke.",
+      "abstract": "Antiplatelet effects of angiotensin II receptor blocker have been suggested, but satisfactory results in clinical settings are lacking. We investigated spontaneous platelet aggregation (SPA) and CD62P levels in patients with hypertension and chronic-stage ischemic stroke. The study comprised 35 patients assigned to losartan (50 mg/day) or telmisartan (40 mg/day) for 4 weeks randomly. SPA was evaluated using laser-scattered light aggregometry and CD62P levels using whole blood flow cytometry before and after treatment. SPA was not significantly reduced after losartan or telmisartan treatment. CD62P was significantly reduced after losartan treatment (P = .016), but no significant differences were noted with telmisartan. These findings suggest that standard doses of losartan display antiplatelet effect as measured by CD62P levels.",
+      "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+      "year": "2007",
+      "authors": [
+        "Yamada Koji",
+        "Hirayama Toshikazu",
+        "Hasegawa Yasuhiro"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Benzimidazoles",
+        "Benzoates",
+        "Biomarkers",
+        "Blood Platelets",
+        "Brain Ischemia",
+        "Chronic Disease",
+        "Female",
+        "Flow Cytometry"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17845921/"
+    },
+    {
+      "pmid": "40045320",
+      "title": "Development of cerebral microhemorrhages in a mouse model of hypertension.",
+      "abstract": "Cerebral microhemorrhages (CMH) are the pathological substrate for MRI-demonstrable cerebral microbleeds, which are associated with cognitive impairment and stroke. Aging and hypertension are the main risk factors for CMH. In this study, we investigated the development of CMH in a mouse model of aging and hypertension. Hypertension was induced in aged (17-month-old) female and male C57BL/6J mice via angiotensin II (Ang II), a potent vasoconstrictor. We investigated the vascular origin of CMH using three-dimensional images of 1-mm thick brain sections. We examined Ang II-induced CMH formation with and without telmisartan, an Ang II type 1 receptor (AT1R) blocker. To evaluate the effect of microglia and perivascular macrophages on CMH formation, mice were treated with PLX3397, a selective colony-stimulating factor 1 receptor (CSF1R) inhibitor, to achieve microglial and macrophage depletion. Iba-1 and CD206 labeling were used to study the relative contributions of microglia and macrophage",
+      "journal": "Journal of neuroinflammation",
+      "year": "2025",
+      "authors": [
+        "Xie Danny F",
+        "Fang Chuo",
+        "Crouzet Christian",
+        "Hung Yu-Han",
+        "Vallejo Adrian"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Male",
+        "Mice, Inbred C57BL",
+        "Hypertension",
+        "Disease Models, Animal",
+        "Cerebral Hemorrhage",
+        "Angiotensin II",
+        "Female",
+        "Telmisartan"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40045320/"
+    },
+    {
+      "pmid": "37432701",
+      "title": "Efficacy of single-pill combination in uncontrolled essential hypertension: A systematic review and network meta-analysis.",
+      "abstract": "This study aimed to evaluate the efficacy of single-pill combination (SPC) antihypertensive drugs in patients with uncontrolled essential hypertension. Through Searching Pubmed, EMBASE, the Cochrane Library, and Web of Science collected only randomized controlled trials on the efficacy of single-pill combination antihypertensive drugs in people with uncontrolled essential hypertension. The search period is from the establishment of the database to July 2022. The methodological quality of the included studies was assessed using the Cochrane Risk of Bias Assessment, and statistical analyses were performed using Review Manage 5.3 and Stata 15.1 software. This review ultimately included 32 references involving 16 273 patients with uncontrolled essential hypertension. The results of the network meta-analysis showed that a total of 11 single-pill combination antihypertensive drugs were included, namely: Amlodipine/valsartan, Telmisartan/amlodipine, Losartan/HCTZ, Candesartan/HCTZ, Amlodipine",
+      "journal": "Clinical cardiology",
+      "year": "2023",
+      "authors": [
+        "Xie Mengxin",
+        "Tang Tianjiao",
+        "Liang Hongsheng"
+      ],
+      "pub_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Antihypertensive Agents",
+        "Losartan",
+        "Hypertension",
+        "Telmisartan",
+        "Irbesartan",
+        "Angiotensin Receptor Antagonists",
+        "Hydrochlorothiazide",
+        "Valine",
+        "Drug Therapy, Combination"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37432701/"
+    },
+    {
+      "pmid": "20144138",
+      "title": "Telmisartan and hydrochlorothiazide combination therapy for the treatment of hypertension.",
+      "abstract": "Control of elevated blood pressure has been shown to reduce the risk of cardiovascular events. The angiotensin II receptor blocker (ARB), telmisartan, has been shown to provide effective 24-hour blood pressure control. Additional antihypertensive efficacy can be achieved by combining telmisartan with the thiazide diuretic hydrochlorothiazide (HCTZ).",
+      "journal": "Current medical research and opinion",
+      "year": "2010",
+      "authors": [
+        "Kjeldsen Sverre E",
+        "Schmieder Roland E",
+        "Unger Thomas",
+        "Mancia Giuseppe"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Antihypertensive Agents",
+        "Benzimidazoles",
+        "Benzoates",
+        "Black People",
+        "Comorbidity",
+        "Diabetes Mellitus",
+        "Drug Combinations",
+        "Drug Therapy, Combination"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20144138/"
+    },
+    {
+      "pmid": "22103868",
+      "title": "Nifedipine and telmisartan for the treatment of hypertension: the TALENT study.",
+      "abstract": "A combination of two drugs as initial treatment in patients with a high or very high cardiovascular risk profile is recommended. Nifedipine extended release (GITS) is a calcium-channel antagonist known to be metabolically neutral, to mildly slow the development of atherosclerosis in hypertensive subjects and to significantly decrease cardiovascular risk in diabetic patients. Telmisartan is highly selective for the angiotensin receptor 1, it gives a greater improvement in glycemic and lipid control compared with irbesartan, and it proved its superiority in improving insulin sensitivity compared with eprosartan. The TALENT study was aimed to determine whether combining low-dose nifedipine GITS at and telmisartan reduced ambulatory and clinic blood pressure more than the two components in monotherapy in hypertensive patients at high cardiovascular risk. The study shows that combination treatment with nifedipine GITS and telmisartan provides a greater and earlier blood pressure reduction t",
+      "journal": "Expert review of cardiovascular therapy",
+      "year": "2011",
+      "authors": [
+        "Derosa Giuseppe",
+        "Maffioli Pamela"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Antihypertensive Agents",
+        "Benzimidazoles",
+        "Benzoates",
+        "Calcium Channel Blockers",
+        "Cardiovascular Diseases",
+        "Delayed-Action Preparations",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Hypertension"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22103868/"
+    },
+    {
+      "pmid": "22085386",
+      "title": "Single-pill telmisartan and amlodipine: a rational combination for the treatment of hypertension.",
+      "abstract": "Despite the well documented benefits conferred by adequate control of hypertension, the majority of hypertensive patients display suboptimal control and few patients achieve blood pressure (BP) levels <140/90 mmHg. As a consequence, combination therapy will be required in the majority of patients to achieve target BP. Fixed-dose combinations of antihypertensives not only simplify treatment regimens, contributing to enhanced patient adherence, they provide superior BP-lowering efficacy and an improved tolerability profile. Fixed-dose combinations have become the strategy of choice in high-risk patients or those with stage 2-3 hypertension. The combination of a renin-angiotensin system inhibitor (RASI) with a calcium channel blocker (CCB) is a first-line combination that, in addition to its antihypertensive efficacy, reduces oedema, the main adverse effect of the dihydropyridine CCB and the main factor limiting their use. In morbidity/mortality studies, this fixed-dose combination has al",
+      "journal": "Drugs",
+      "year": "2011",
+      "authors": [
+        "Suárez Carmen"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Amlodipine",
+        "Antihypertensive Agents",
+        "Benzimidazoles",
+        "Benzoates",
+        "Clinical Trials as Topic",
+        "Drug Combinations",
+        "Humans",
+        "Hypertension",
+        "Telmisartan"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22085386/"
+    },
+    {
+      "pmid": "41292423",
+      "title": "Dual-Targeted Therapy in Cardiometabolic Risk: A Meta-Analysis of Telmisartan-Based Combinations for Hypertension and Dyslipidemia.",
+      "abstract": "Hypertension often coexists with dyslipidemia, requiring combination therapy. Telmisartan, combined with amlodipine or rosuvastatin, targets these conditions. This meta-analysis evaluates the efficacy and safety of these combinations in adults with hypertension and dyslipidemia.",
+      "journal": "Clinical cardiology",
+      "year": "2025",
+      "authors": [
+        "Asim Rabia",
+        "Muhammad Tazheen Saleh",
+        "Ahmed Saad",
+        "Khurram Laiba",
+        "Azeem Bazil"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Telmisartan",
+        "Dyslipidemias",
+        "Hypertension",
+        "Antihypertensive Agents",
+        "Drug Therapy, Combination",
+        "Amlodipine",
+        "Rosuvastatin Calcium",
+        "Blood Pressure",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41292423/"
+    },
+    {
+      "pmid": "20448797",
+      "title": "New standards in hypertension and cardiovascular risk management: focus on telmisartan.",
+      "abstract": "Blockade of the renin-angiotensin system is an important approach in managing high blood pressure, and has increasingly been shown to affect cardiovascular disease processes mediated by angiotensin II throughout the cardiovascular and renal continua. Telmisartan is an angiotensin II receptor blocker (ARB) displaying unique pharmacologic properties, including a longer half life than any other ARB, that result in large and sustained reductions of blood pressure. In patients with mild-to-moderate hypertension, telmisartan has proved superior to other antihypertensive agents (valsartan, losartan, ramipril, perindopril, and atenolol) in controlling blood pressure particularly towards the end of the dosing interval. There is also clinical evidence that telmisartan reduces left ventricular hypertrophy, reduces arterial stiffness and the recurrence of atrial fibrillation, and confers renoprotection. The ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial (ONTARGET)",
+      "journal": "Vascular health and risk management",
+      "year": "2010",
+      "authors": [
+        "Galzerano Domenico",
+        "Capogrosso Cristina",
+        "Di Michele Sara",
+        "Galzerano Antonio",
+        "Paparello Paola"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adrenergic beta-Antagonists",
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Antihypertensive Agents",
+        "Benzimidazoles",
+        "Benzoates",
+        "Calcium Channel Blockers",
+        "Cardiovascular Diseases",
+        "Cardiovascular System",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20448797/"
+    },
+    {
+      "pmid": "18584582",
+      "title": "Cardioprotective effects of telmisartan in uncomplicated and complicated hypertension.",
+      "abstract": "The development of angiotensin II receptor blockers (ARB) as a new class of drugs for the management of hypertension has elicited the attention of many clinicians worldwide with the aim of improving blood pressure (BP) control as well as cardiovascular protection. Among ARB telmisartan has been shown to be characterised by an antihypertensive efficacy fully covering the 24-hour period, thereby allowing to antagonise the adverse effects of early morning BP rise on cardiovascular risk. Other specific effects of the drug are represented by its favourable metabolic profile (particularly on insulin sensitivity) and neutral effects on sympathetic cardiovascular function. These properties are coupled with cardioprotective effects, documented by the evidence that the drug: 1) is effective in favouring the regression of cardiac and vascular organ damage, 2) reduces arterial stiffness and improves vascular distensibility and 3) reverses the endothelial dysfunction typical of the hypertensive sta",
+      "journal": "Journal of the renin-angiotensin-aldosterone system : JRAAS",
+      "year": "2008",
+      "authors": [
+        "Grassi Guido",
+        "Quarti-Trevano Fosca",
+        "Mancia Giuseppe"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Animals",
+        "Benzimidazoles",
+        "Benzoates",
+        "Blood Pressure",
+        "Cardiotonic Agents",
+        "Heart Diseases",
+        "Humans",
+        "Hypertension",
+        "Telmisartan"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18584582/"
+    },
+    {
+      "pmid": "39557773",
+      "title": "Triple Therapy with Telmisartan, Amlodipine, and Rosuvastatin (TAR) Versus Telmisartan/Amlodipine (TA) and Telmisartan/Rosuvastatin (TR) Combinations in Hypertension and Dyslipidemia: A Systematic Review and Meta-analysis.",
+      "abstract": "Hypertension and dyslipidemia are common contributors to cardiovascular disease (CVD), often occurring together. Effectively Managing both is key to reducing mortality and morbidity, but complex regimens reduce adherence.",
+      "journal": "High blood pressure & cardiovascular prevention : the official journal of the Italian Society of Hypertension",
+      "year": "2025",
+      "authors": [
+        "Habboush Shady",
+        "Kagita Navyamani V",
+        "Gadelmawla Ahmed F",
+        "Elmoursi Ahmed",
+        "Merza Nooraldin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Amlodipine",
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Antihypertensive Agents",
+        "Biomarkers",
+        "Blood Pressure"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39557773/"
+    },
+    {
+      "pmid": "20517535",
+      "title": "Importance of a fixed combination of telmisartan and amlodipine for the treatment of hypertension.",
+      "abstract": "Patients with moderate to severe hypertension frequently require>or=2 antihypertensives to achieve blood pressure (BP) control. The combination telmisartan/amlodipine is especially suitable for the treatment of severely hypertensive, high-risk patients, because it offers a substantial and sustained 24-h BP-lowering effect and is well tolerated in a range of patients with hypertension, who are at risk for cardiovascular events. ACCOMPLISH was the first trial to test two fixed-dose combinations (the angiotensin-converting enzyme inhibitor [ACEi] benazepril in combination with either the diuretic hydrochlorothiazide [HCTZ] or the calcium channel blocker amlodipine). It was shown that a combination including amlodipine was superior to that including HCTZ in reducing the risk of cardiovascular events and death among high-risk patients. Results of the ONTARGET study comparing telmisartan with ramipril showed that telmisartan was an equally effective alternative to ramipril and less likely to",
+      "journal": "Drugs of today (Barcelona, Spain : 1998)",
+      "year": "2010",
+      "authors": [
+        "Ahrens K",
+        "Bramlage P"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Amlodipine",
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Antihypertensive Agents",
+        "Benzimidazoles",
+        "Benzoates",
+        "Blood",
+        "Cardiovascular Diseases",
+        "Clinical Trials as Topic",
+        "Drug Combinations",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20517535/"
+    },
+    {
+      "pmid": "38228033",
+      "title": "Effects of telmisartan on metabolic syndrome components: a comprehensive review.",
+      "abstract": "Telmisartan is an antagonist of the angiotensin II receptor used in the management of hypertension (alone or in combination with other antihypertensive agents. It belongs to the drug class of angiotensin II receptor blockers (ARBs). Among drugs of this class, telmisartan shows particular pharmacologic properties, including a longer half-life than any other angiotensin II receptor blockers that bring higher and persistent antihypertensive activity. In hypertensive patients, telmisartan has superior efficacy than other antihypertensive drugs (losartan, valsartan, ramipril, atenolol, and perindopril) in controlling blood pressure, especially towards the end of the dosing interval. Telmisartan has a partial PPARγ-agonistic effect whilst does not have the safety concerns of full agonists of PPARγ receptors (thiazolidinediones). Moreover, telmisartan has an agonist activity on PPARα and PPARδ receptors and modulates the adipokine levels. Thus, telmisartan could be considered as a suitable al",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "year": "2024",
+      "authors": [
+        "Imenshahidi Mohsen",
+        "Roohbakhsh Ali",
+        "Hosseinzadeh Hossein"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Telmisartan",
+        "Angiotensin Receptor Antagonists",
+        "Metabolic Syndrome",
+        "PPAR gamma",
+        "Prospective Studies",
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Benzimidazoles",
+        "Hypertension"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38228033/"
+    }
+  ]
+}

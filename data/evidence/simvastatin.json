@@ -1,0 +1,1080 @@
+{
+  "drug": "Simvastatin",
+  "drugbank_id": "DB00641",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T09:57:59Z",
+  "indications": [
+    {
+      "indication": "stroke disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 9,
+        "phase2_trials": 0,
+        "phase1_trials": 2,
+        "other_trials": 9,
+        "rct_articles": 5,
+        "review_articles": 4,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "hypoalphalipoproteinemia",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 8,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 5,
+        "total_trials": 0,
+        "total_articles": 8
+      }
+    },
+    {
+      "indication": "obsolete susceptibility to ischemic stroke",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "arteriosclerosis disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 13,
+        "rct_articles": 4,
+        "review_articles": 4,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "atherosclerosis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 1,
+        "phase1_trials": 2,
+        "other_trials": 10,
+        "rct_articles": 2,
+        "review_articles": 1,
+        "other_articles": 7,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 60,
+  "total_articles": 38,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02107898",
+      "title": "A Randomized, Double-blind, Placebo-controlled, Parallel Group, Multicenter Study to Evaluate the Efficacy and Safety of Alirocumab in Heterozygous Familial Hypercholesterolemia or High Cardiovascular Risk Patients With Hypercholesterolemia Not Adequately Controlled With Their Lipid Modifying Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-03",
+      "completion_date": "2015-09",
+      "country": "Japan",
+      "enrollment": 216,
+      "brief_summary": "Primary Objective:\n\nTo demonstrate the reduction of low-density lipoprotein cholesterol (LDL-C) by alirocumab as add-on therapy to stable daily statin therapy with or without other lipid modifying therapy in comparison with placebo after 24 weeks of treatment in heterozygous familial hypercholesterolemia (HeFH) or high cardiovascular risk participants with hypercholesterolemia.\n\nSecondary Objectives:\n\n* To evaluate the effect of alirocumab in comparison with placebo on LDL-C after 12 weeks of tr",
+      "eligibility_criteria": "Inclusion criteria:\n\nParticipants with heterozygous familial hypercholesterolemia or non-familial hypercholesterolemia who were not adequately controlled with a stable daily dose of statin with or without other lipid modifying therapy, at stable dose prior to the screening visit (Week -3).\n\nExclusio",
+      "endpoints": [
+        "Percent Change From Baseline in Calculated LDL-C at Week 24 - Intent-to-Treat (ITT Analysis)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02107898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01764451",
+      "title": "Permeability MRI in Cerebral Cavernous Malformations Type 1 in New Mexico: Effects of Statins",
+      "phase": "EARLY_PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2012-03",
+      "completion_date": "2016-01",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "Cerebral cavernous malformations (CCMs) are clusters of abnormal blood vessels in the brain and spine. CCMs can bleed and cause strokes, seizures, and headaches. In some patients, CCMs affect the blood brain barrier (BBB). The BBB is the body's separation of blood and its contents in the brain from the brain tissue itself. Abnormal leakiness or permeability of this barrier can cause disease. We will measure the permeability (leakiness) of the BBB using a magnetic resonance imaging (MRI) techniqu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of cerebral cavernous malformations-common Hispanic mutation (CCM1-CHM)\n* Must be willing to travel to the University of New Mexico in Albuquerque, NM for 5 visits over the course of three months.\n\nExclusion Criteria:\n\n* Incarceration\n* Unable to pass MRI safety scre",
+      "endpoints": [
+        "Change in blood brain barrier permeability over three months for the treatment group compared to the control group."
+      ],
+      "sponsor": "University of New Mexico",
+      "url": "https://clinicaltrials.gov/study/NCT01764451"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00120289",
+      "title": "AIM HIGH: Niacin Plus Statin to Prevent Vascular Events",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2005-09",
+      "completion_date": "2012-12",
+      "country": "United States, Canada",
+      "enrollment": 3414,
+      "brief_summary": "The purpose of this study is to determine whether raising \"good cholesterol\" with a drug based on the vitamin niacin, while lowering \"bad cholesterol\" with a statin drug, can prevent more heart disease than the statin alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women aged 45 and older with established vascular disease and atherogenic dyslipidemia\n* Established vascular disease defined as one or more of the following: (1) documented coronary artery disease (CAD); (2) documented cerebrovascular or carotid disease; (3) documente",
+      "endpoints": [
+        "Composite End Point of CHD Death, Nonfatal MI, Ischemic Stroke, Hospitalization for Non-ST Segment Elevation Acute Coronary Syndrome (ACS), or Symptom-driven Coronary or Cerebral Revascularization"
+      ],
+      "sponsor": "Axio Research. LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00120289"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01073007",
+      "title": "Multicentric, Randomized, Double-blind Clinical Trial to Evaluate the Efficacy of Simvastatin in the Acute Phase of Ischemic Stroke",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2014-06",
+      "country": "Spain",
+      "enrollment": 104,
+      "brief_summary": "The purpose of this study is to determine whether simvastatin treatment started within the first 12 hours from stroke onset improves neurological and functional outcomes, evaluated at seventh day/discharge or at the third month.\n\nAlso, to demonstrate that simvastatin is safe and not associated with higher rates of hemorrhagic transformation in patients who receive thrombolysis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients older than 18 years acute ischemic stroke (less than 12 hours from stroke onset).\n* Stroke involving MCA-ACA-PCA.\n* NIHSS score 4 to 22.\n* Previous modified Rankin Scale score of 1 or 0.\n* Patient or proxy informed consent.\n* Patients not taking statins for the past s",
+      "endpoints": [
+        "The primary outcome of this study is to determine whether simvastatin treatment started within the first 12 hours from stroke onset improves neurological and functional outcomes, evaluated at seventh day/discharge or at the third month."
+      ],
+      "sponsor": "Hospital Universitari Vall d'Hebron Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01073007"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01057537",
+      "title": "A Randomised Controlled Trial of a Fixed-dose Combination Polypill Medication (the Red Heart Pill) and Usual Care in Those at High Risk of Cardiovascular Disease.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2012-09",
+      "country": "India, Ireland, Australia, United Kingdom, Netherlands",
+      "enrollment": 2004,
+      "brief_summary": "People with established cardiovascular disease need secondary prevention that addresses multiple risk factors. Complexity \\& cost confer particularly difficult barriers to uptake of treatment; recovery from a stroke or heart attack typically necessitates multiple drugs for cholesterol, blood pressure and platelet function. A low-cost, fixed-dose, once-daily combination polypill, the Red Heart Pill, has been formulated by Dr Reddy's Laboratories. UMPIRE will evaluate whether provision of this pol",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults (≥ 18 years)\n* The participant is able to give informed consent.\n* Established atherothrombotic cardiovascular disease (CVD) or high cardiovascular risk, of for individuals without established cardiovascular disease, a calculated 5 year CVD risk of 15% or greater (calcu",
+      "endpoints": [
+        "Adherence to medication; self-reported current use of antiplatelet, statin and combination (≥ 2) blood pressure lowering therapy",
+        "Change in blood pressure",
+        "Change in LDL cholesterol"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT01057537"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02795910",
+      "title": "Integrated Primary Care for Diabetes and Cardiovascular Disease in Less Developed Countries: Pragmatic Trial of the Practical Approach to Care Kit",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2017-04-01",
+      "completion_date": "2019-03-31",
+      "country": "Brazil",
+      "enrollment": 40577,
+      "brief_summary": "This study will evaluate a complex intervention based on a patient management tool (PMT), combined with educational outreach to primary care doctors, nurses and other health workers, in the Brazilian city of Florianopolis. The intervention is aimed at improving the quality of primary health care and health outcomes, in adults with diabetes and cardiovascular disease (CVD). The effectiveness of the intervention will be assessed by randomly allocating 48 primary care clinics to receive the interve",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 35 years and over in July 2016\n* Diagnosis of hypertension (ICD-10 code I10-I15), ischaemic heart disease (ICD-10 code I20-I25), heart failure (ICD-10 code I50), cerebrovascular disease (ICD-10 code I60-I69), or diabetes mellitus (ICD-10 code E10-E14) ever recorded since J",
+      "endpoints": [
+        "Cardiovascular risk and diabetes testing",
+        "Systolic blood pressure"
+      ],
+      "sponsor": "University of Sao Paulo General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02795910"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04199663",
+      "title": "Secondary Prevention Treatments and Activities Post Myocardial Infarction Underlying the Risk of Recurrent Hard Cardiovascular Outcomes Associated With Socioeconomic Status",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-01-01",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 30191,
+      "brief_summary": "This is a nationwide cohort study on real-world patients (n≈30,000) surviving a first myocardial infarction (MI) 2006-2013 and alive to attend a routine 1-year follow-up. Associations between Socioeconomic Status (SES) and secondary preventive actions (SPAs) throughout the first year is studied and assessed as possible mechanisms underlying the increased risk of a first recurrent hard cardiocvascular (CV) outcome, recurrent atherosclerotic cardiovascular disease (rASCVD), in patients with low So",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Swedish resident\n* Alive and registered in The Swedish Websystem for Enhancement and Development of Evidence based care in Heart disease Evaluated According to Recommended Therapies (SWEDEHEART)'s secondary prevention subregistry between 1 January 2006 and 31 December 2013 at ",
+      "endpoints": [
+        "first recurrent atherosclerotic cardiovascular disease event (rASCVD)"
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT04199663"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00664846",
+      "title": "Standard Medical Management in Secondary Prevention of Ischemic Stroke in China.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2011-04",
+      "country": "China",
+      "enrollment": 4000,
+      "brief_summary": "The purposes of the study are to analyse the cross-section data of secondary stroke prevention in China and to carry out a standard medical management including medicine and interactive education program,and to evaluate the efficacy and safety of the standard medical management in secondary stroke prevention.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ischemic cerebral infarction or TIA within 30 days.\n2. Aged above 18 years old.\n3. Hospitalized.\n4. Cranial CT or MRI scan exclude intracranial hemorrhagic diseases\n5. Stable clinical and neurological conditions.\n6. A Modified Rankin score less than 4 at enrollment\n7. Informe",
+      "endpoints": [
+        "Success Rate of standard medical management"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00664846"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02850081",
+      "title": "Statin Neuroprotection and Carotid Endarterectomy: Safety, Feasibility and Outcomes",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-06-01",
+      "completion_date": "2022-02-23",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "The investigators hypothesize that pre-operative statin use is neuroprotective at maximal doses. The goals are to determine the safety, feasibility, and efficacy of maximizing statin doses for two weeks (12-18 days) prior to CEA using change in performance on a battery neuropsychometric tests as outcome measure. Study will recruit patients based on their preexisting statin regimen.\n\nThe investigators hypothesize that in asymptomatic CEA patients: 1) Pre-operative statin use is neuroprotective ag",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years of age.\n2. Patient is currently on atorvastatin or simvastatin or rosuvastatin or statin naïve (no statins in the last 30 days).\n3. The patient has unilateral or bilateral carotid artery stenosis that is considered severe (carotid artery diameter reduction ≥ 70",
+      "endpoints": [
+        "Prevalence of eCD"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT02850081"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00125593",
+      "title": "Study of Heart and Renal Protection (SHARP): The Effects of Lowering LDL-cholesterol With Simvastatin 20mg Plus Ezetimibe 10mg in Patients With Chronic Kidney Disease: a Randomized Placebo-controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2010-08",
+      "country": "United Kingdom",
+      "enrollment": 9438,
+      "brief_summary": "The chief aim of SHARP was to determine whether lowering blood LDL cholesterol with simvastatin (20mg) plus ezetimibe (10mg) daily could safely reduce the risk of coronary heart disease, non-hemorrhagic stroke and the need for revascularization procedures in patients with chronic kidney disease (CKD). It also aimed to assess whether lowering LDL cholesterol reduced the rate of loss of renal function in people with CKD who had not commenced dialysis treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of chronic kidney disease (CKD): either patients who are pre-dialysis (with a plasma or serum creatinine greater than or equal to 150 micromol/l \\[greater than or equal to 1.7 mg/dl\\] in men, or greater than or equal to 130 micromol/l \\[greater than or equal to 1.5 mg/",
+      "endpoints": [
+        "Key Outcome as Per Statistical Analysis Plan = Major Atherosclerotic Events Among All Patients Ever Randomized to Simvastatin Plus Ezetimibe Versus All Patients Allocated to Placebo"
+      ],
+      "sponsor": "University of Oxford",
+      "url": "https://clinicaltrials.gov/study/NCT00125593"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03402204",
+      "title": "Efficacy of High-Dose and Low-Dose Simvastatin on Vascular Oxidative Stress and Neurological Outcomes in Patients With Acute Ischemic Stroke: A Randomized, Double-Blind, Parallel, Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-04-01",
+      "completion_date": "2015-12-31",
+      "country": "N/A",
+      "enrollment": 64,
+      "brief_summary": "Patients with acute ischemic stroke will be divided into 2 groups by double-blind, randomized, and controlled trial. Personality and past history of the patients will be recorded after the patients signed inform consent. The patient will be collected blood among 10 cc. for measurement biomarker in serum that related plaque stability for baseline and obtained neurological examination for baseline.\n\nThe patients must be take pills for 180 days by randomized code number on pill box, and patients mu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient with acute ischemic stroke has symptom onset less than 24 hours.\n* Patient has 18 to 85 years old.\n* Patient has been obtained describe the study and sign on informed consent.\n\nExclusion Criteria:\n\n* Patient has indication for simvastatin or ya-hom-navakote.\n* Patient ",
+      "endpoints": [
+        "vascular oxidative stress by measuring Soluble lectin-like oxidized low density lipoprotein receptor-1 and Nitric oxide levels"
+      ],
+      "sponsor": "Thammasat University",
+      "url": "https://clinicaltrials.gov/study/NCT03402204"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00109382",
+      "title": "Fast Assessment of Stroke and Transient Ischemic Attack to Prevent Early Recurrence (FASTER)",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-05",
+      "completion_date": "2007-02",
+      "country": "United States, Canada",
+      "enrollment": 500,
+      "brief_summary": "Current management of patients with TIA (transient ischemic attack) or minor stroke includes the prompt investigation and treatment in the days and weeks after the event. However, new evidence shows patients are at the highest risk of stroke in the first few days after the TIA, with 50% of strokes which happen in the three months following TIA occurring within 48-72 hours. To date, there is no evidence to guide physicians on how to safely reduce this risk.\n\nThe FASTER trial is focusing on the in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with TIA or minor acute ischemic stroke (NIHSS \\< 4 at the time of randomization) who must NOT be candidates for acute thrombolysis or other acute intervention indicated as the current standard of care\n* Aged 40 years or older\n* Patients with: (a) weakness at time of ",
+      "endpoints": [
+        "Any stroke at 90 days",
+        "Stroke severity"
+      ],
+      "sponsor": "University of Calgary",
+      "url": "https://clinicaltrials.gov/study/NCT00109382"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00880178",
+      "title": "Plaque Inflammation and Dysfunctional HDL in AIM-HIGH",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-05",
+      "completion_date": "2011-09",
+      "country": "United States, Canada",
+      "enrollment": 324,
+      "brief_summary": "Coronary heart disease (CHD) is a serious health concern that affects millions of people in the United States. It is usually caused by atherosclerosis-a condition that occurs when fatty material and plaque build up on the walls of the arteries that supply blood and oxygen to the heart, causing the arteries to narrow. As the arteries narrow, blood flow to the heart can slow down or stop, which can cause chest pain, shortness of breath, heart attack, or heart failure. Another component of CHD even",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eligible for main AIM-HIGH study (NCT00120289)\n* Willing to provide informed consent for participation in this substudy",
+      "endpoints": [
+        "Change in HDL oxidation and proteomics"
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT00880178"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01926782",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of an Every Four Weeks Treatment Regimen of Alirocumab in Patients With Primary Hypercholesterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-09",
+      "completion_date": "2015-04",
+      "country": "Bulgaria, Canada, Norway, Hungary, United Kingdom, United States, Israel, Slovakia",
+      "enrollment": 803,
+      "brief_summary": "To determine the efficacy, long-term safety, and tolerability of alirocumab 300 mg every 4 weeks (Q4W), in comparison with placebo, as well as its potential as a starting regimen. The dose regimen of 75 mg every 2 weeks (Q2W), as used in other studies, was added as a calibrator.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men and women \\> age 18 or legal age of majority with elevated LDL-C\n2. Patients not having adequate control of their hypercholesterolemia based on their individual level of CVD risk\n3. Willing and able to comply with clinic visits and study-related procedures\n4. Provided sig",
+      "endpoints": [
+        "Percent Change From Baseline in Calculated LDL-C in Participants Not Receiving Concomitant Statin Therapy - ITT Analysis",
+        "Percent Change From Baseline in Calculated LDL-C in Participants Receiving Concomitant Statin Therapy - Intent-to-Treat (ITT Analysis)"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01926782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01563731",
+      "title": "European Society of Hypertension and Chinese Hypertension League Stroke in Hypertension Optimal Treatment Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-04",
+      "completion_date": "2021-03-31",
+      "country": "Russia",
+      "enrollment": 200,
+      "brief_summary": "Stroke is one of the major causes not only of mortality, but of disease burden worldwide, because of residual disability and cognitive decline. Although blood pressure lowering has been clearly shown to be the most effective means for primary and secondary prevention of stroke, the systolic blood pressure (SBP) levels to achieve by treatment in order to optimize prevention results are unknown, and whether SBP levels lower than those usually recommended are accompanied by further or reduced benef",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Qualifying event: stroke or TIA 1 to 6 months previous to randomization.\n* All patients should have a CT scan or MRI (preferably MRI) at screening. The CT scan or MRI carried out at the time of the qualifying event, if available, is acceptable. Stroke will be defined as imagin",
+      "endpoints": [
+        "Recurrent stroke"
+      ],
+      "sponsor": "Istituto Auxologico Italiano",
+      "url": "https://clinicaltrials.gov/study/NCT01563731"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01567826",
+      "title": "Reduction in YEllow Plaque by Aggressive Lipid LOWering Therapy. (YELLOW Trial)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2012-02",
+      "country": "United States",
+      "enrollment": 87,
+      "brief_summary": "The study will assess the regression of yellow plaque content of the lipid pool after aggressive lipid therapy by utilizing NIR spectroscopy. Statin therapy using Rosuvastatin 10-40 mg will be compared to the statin therapy of either Atorvastatin or Simvastatin. This is a single site study. A total of 100 subjects will randomized, of which 40 will receive intensive lipid therapy (Rosuvastatin 40mg) and 40 will receive standard care lipid lowering therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient \\> 18 years of age and willing to participate\n* Stable patients who will undergo cardiac catheterization and PCI (intent to stent)\n* Patient is willing to go on a cholesterol lowering medication for the duration of the study and willing to change statin therapy to the ",
+      "endpoints": [
+        "Lipiscan - Lipid Core Burden Index (LCBI)",
+        "LCBI4mm Max",
+        "Change in LCBI4mm Max"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT01567826"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06856772",
+      "title": "Randomized Comparison of Morning Versus Bedtime Administration of Statins: A Cardiovascular Circadian Chronotherapy (C3) Trial",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-02-28",
+      "completion_date": "2028-03-28",
+      "country": "Denmark",
+      "enrollment": 42000,
+      "brief_summary": "Statins inhibit hydroxy-methylglutaryl coenzyme A (HMG-CoA) reductase which catalyzes the rate-limiting step in cholesterol synthesis. This in turn leads to reductions in concentrations of low-density lipoprotein (LDL) cholesterol and C-reactive protein which reduces the risk of incident atherosclerotic events among individuals both with and without a history of atherosclerotic cardiovascular Several pilot studies have suggested potential benefits of taking statin in the evening rather than in t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>=18 years\n* Current treatment with atorvastatin 10-80 mg, rosuvastatin 5-40 mg, simvastatin 10-80 mg or pravastatin 20-40 mg (as recorded in the Danish National Prescription Registry and confirmed by the participant via questionnaire)\n* Signed informed consent\n\nExclusion",
+      "endpoints": [
+        "Composite of hospitalization for myocardial infarction, hospitalization for stroke or cardiovascular death"
+      ],
+      "sponsor": "Herlev and Gentofte Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06856772"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05682911",
+      "title": "Hypolipidemic, Cardioprotective and Antioxidant Effect of Zingiber Officinale L. Extract in Hypertensive Patients: A Clinical Approach",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-01-01",
+      "completion_date": "2018-06-30",
+      "country": "Pakistan",
+      "enrollment": 40,
+      "brief_summary": "Hyperlipidemia is a well-known risk factor for cardiovascular diseases (CVDs). Coronary heart disease, stroke, and atherosclerosis are among the primary cause of death. Various medicines are available for the treatment of hyperlipidemia however, they are linked with serious unwanted effects. Zingiber officinale L. extract (Ginger) was used in folklore medicine as a hypolipidemic agent, Although, its clinical trial studies were not been investigated in the Pakistani population yet. Our clinical s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males and females (18-65)\n2. Diagnosis of primary hypercholesterolemia\n3. With total cholesterol 200-239mg/dl and LDL 100-159mg/dl.\n\nExclusion Criteria:\n\n1. Familial hypoalphalipoproteinemia\n2. Patients receiving antihyperlipidemic agents (Statins, Niacin, Fibrates and Bile S",
+      "endpoints": [
+        "Assessment of total lipid profile",
+        "Assessment of cardio protective profile"
+      ],
+      "sponsor": "Jinnah Sindh Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT05682911"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00082251",
+      "title": "Safety & Efficacy of a Combination Niacin ER/Simvastatin in Patients With Dyslipidemia: A Dose-Ranging Study - SEACOAST",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this study is to compare the effectiveness and safety of different doses of Niacin ER/Simvastatin (NS), in subjects with elevated fat levels in their blood (dyslipidemia).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient has primary Type II hyperlipidemia or mixed dyslipidemia\n* If the patient is currently taking anti-dyslipidemic medications other than Zocor, he/she is willing to withdraw from these medications\n* Reasonable compliance with a standard cholesterol-lowering diet for a mi",
+      "endpoints": [],
+      "sponsor": "Kos Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00082251"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092677",
+      "title": "A Multicenter, Double-Blind, Randomized, Placebo-Controlled Study to Evaluate the Effects of Ezetimibe + Simvastatin on Clinical Outcomes in Patients With Aortic Stenosis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-01",
+      "completion_date": "2008-04",
+      "country": "N/A",
+      "enrollment": 1873,
+      "brief_summary": "The purpose of this study is to evaluate whether treatment with an investigational drug as compared to placebo will reduce the risk of major cardiovascular events in patients with aortic stenosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 45 to 85 with mild abnormalities of the aortic valve as confirmed by an echocardiogram.\n\nExclusion Criteria:\n\n* Patients previously in a trial using the study drug, or currently taking any medications that are not allowed in this study.",
+      "endpoints": [
+        "Number of Participants That Experienced One or More Components of the Composite Clinical Endpoint of MCE (Major Cardiovascular Events)"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092677"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "27616593",
+      "title": "Interpretation of the evidence for the efficacy and safety of statin therapy.",
+      "abstract": "This Review is intended to help clinicians, patients, and the public make informed decisions about statin therapy for the prevention of heart attacks and strokes. It explains how the evidence that is available from randomised controlled trials yields reliable information about both the efficacy and safety of statin therapy. In addition, it discusses how claims that statins commonly cause adverse effects reflect a failure to recognise the limitations of other sources of evidence about the effects of treatment. Large-scale evidence from randomised trials shows that statin therapy reduces the risk of major vascular events (ie, coronary deaths or myocardial infarctions, strokes, and coronary revascularisation procedures) by about one-quarter for each mmol/L reduction in LDL cholesterol during each year (after the first) that it continues to be taken. The absolute benefits of statin therapy depend on an individual's absolute risk of occlusive vascular events and the absolute reduction in LD",
+      "journal": "Lancet (London, England)",
+      "year": "2016",
+      "authors": [
+        "Collins Rory",
+        "Reith Christina",
+        "Emberson Jonathan",
+        "Armitage Jane",
+        "Baigent Colin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anticholesteremic Agents",
+        "Cholesterol, LDL",
+        "Clinical Trials as Topic",
+        "Coronary Disease",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Myocardial Infarction",
+        "Risk Assessment",
+        "Safety"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27616593/"
+    },
+    {
+      "pmid": "20228404",
+      "title": "Effects of combination lipid therapy in type 2 diabetes mellitus.",
+      "abstract": "We investigated whether combination therapy with a statin plus a fibrate, as compared with statin monotherapy, would reduce the risk of cardiovascular disease in patients with type 2 diabetes mellitus who were at high risk for cardiovascular disease.",
+      "journal": "The New England journal of medicine",
+      "year": "2010",
+      "authors": [
+        "Ginsberg Henry N",
+        "Elam Marshall B",
+        "Lovato Laura C",
+        "Crouse John R"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Cardiovascular Diseases",
+        "Cholesterol",
+        "Diabetes Mellitus, Type 2",
+        "Drug Therapy, Combination",
+        "Female",
+        "Fenofibrate",
+        "Follow-Up Studies",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20228404/"
+    },
+    {
+      "pmid": "21663949",
+      "title": "The effects of lowering LDL cholesterol with simvastatin plus ezetimibe in patients with chronic kidney disease (Study of Heart and Renal Protection): a randomised placebo-controlled trial.",
+      "abstract": "Lowering LDL cholesterol with statin regimens reduces the risk of myocardial infarction, ischaemic stroke, and the need for coronary revascularisation in people without kidney disease, but its effects in people with moderate-to-severe kidney disease are uncertain. The SHARP trial aimed to assess the efficacy and safety of the combination of simvastatin plus ezetimibe in such patients.",
+      "journal": "Lancet (London, England)",
+      "year": "2011",
+      "authors": [
+        "Baigent Colin",
+        "Landray Martin J",
+        "Reith Christina",
+        "Emberson Jonathan",
+        "Wheeler David C"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Azetidines",
+        "Cardiovascular Diseases",
+        "Cholesterol, LDL",
+        "Confidence Intervals",
+        "Dose-Response Relationship, Drug",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Drug Therapy, Combination"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21663949/"
+    },
+    {
+      "pmid": "12114036",
+      "title": "MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: a randomised placebo-controlled trial.",
+      "abstract": "Throughout the usual LDL cholesterol range in Western populations, lower blood concentrations are associated with lower cardiovascular disease risk. In such populations, therefore, reducing LDL cholesterol may reduce the development of vascular disease, largely irrespective of initial cholesterol concentrations.",
+      "journal": "Lancet (London, England)",
+      "year": "2002",
+      "authors": [],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Anticholesteremic Agents",
+        "Cause of Death",
+        "Cholesterol, LDL",
+        "Coronary Disease",
+        "Diabetes Mellitus",
+        "Female",
+        "Follow-Up Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12114036/"
+    },
+    {
+      "pmid": "35331984",
+      "title": "Comparative effectiveness of statins on non-high density lipoprotein cholesterol in people with diabetes and at risk of cardiovascular disease: systematic review and network meta-analysis.",
+      "abstract": "To compare the efficacy of different statin treatments by intensity on levels of non-high density lipoprotein cholesterol (non-HDL-C) for the prevention of cardiovascular disease in people with diabetes.",
+      "journal": "BMJ (Clinical research ed.)",
+      "year": "2022",
+      "authors": [
+        "Hodkinson Alexander",
+        "Tsimpida Dialechti",
+        "Kontopantelis Evangelos",
+        "Rutter Martin K",
+        "Mamas Mamas A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Bayes Theorem",
+        "Cardiovascular Diseases",
+        "Cholesterol",
+        "Diabetes Mellitus, Type 2",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35331984/"
+    },
+    {
+      "pmid": "30716508",
+      "title": "Comparative effectiveness and safety of statins as a class and of specific statins for primary prevention of cardiovascular disease: A systematic review, meta-analysis, and network meta-analysis of randomized trials with 94,283 participants.",
+      "abstract": "The current guidelines of statins for primary cardiovascular disease (CVD) prevention were based on results from systematic reviews and meta-analyses that suffer from limitations.",
+      "journal": "American heart journal",
+      "year": "2019",
+      "authors": [
+        "Yebyo Henock G",
+        "Aschmann Hélène E",
+        "Kaufmann Marco",
+        "Puhan Milo A"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Atorvastatin",
+        "Cardiovascular Diseases",
+        "Cause of Death",
+        "Chemical and Drug Induced Liver Injury",
+        "Double-Blind Method",
+        "Fluvastatin",
+        "Headache",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Kidney Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30716508/"
+    },
+    {
+      "pmid": "22085343",
+      "title": "Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy.",
+      "abstract": "In patients with established cardiovascular disease, residual cardiovascular risk persists despite the achievement of target low-density lipoprotein (LDL) cholesterol levels with statin therapy. It is unclear whether extended-release niacin added to simvastatin to raise low levels of high-density lipoprotein (HDL) cholesterol is superior to simvastatin alone in reducing such residual risk.",
+      "journal": "The New England journal of medicine",
+      "year": "2011",
+      "authors": [
+        "Boden William E",
+        "Probstfield Jeffrey L",
+        "Anderson Todd",
+        "Chaitman Bernard R"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Atherosclerosis",
+        "Brain Ischemia",
+        "Cardiovascular Diseases",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22085343/"
+    },
+    {
+      "pmid": "40529509",
+      "title": "A Meta-Analysis of the Incidence of Adverse Reactions of Statins in Various Diseases.",
+      "abstract": "Introduction: In clinical practice, patients often avoid or cease statin use due to adverse reactions or noncompliance. To elucidate statin adverse reactions, their variability across diseases, and the factors influencing them, we conducted a high-quality clinical trial-based meta-analysis. Materials and Methods: Clinical randomized controlled trials involving statins and detailed recording of adverse reactions in the following three databases: PubMed, Embase, and Cochrane Library were included. The retrieval was completed by January 31, 2024. All studies will use the ROB2 scale for bias risk assessment. Results: We had included a total of 41 studies, involving a collective sample size of 64,728 individuals. In patients with hyperlipidemia, there was no difference in the overall incidence of total adverse events among four types of statins (p = 0.37). Simvastatin 40 mg had fewer statin-related adverse reactions. High-dose statin users experienced no remarkable transaminase elevation 0.",
+      "journal": "Cardiovascular therapeutics",
+      "year": "2025",
+      "authors": [
+        "Li Wanying",
+        "Wang Ding",
+        "Lin Caiyue",
+        "Cai Tongze",
+        "Zhao Mei"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Incidence",
+        "Risk Factors",
+        "Randomized Controlled Trials as Topic",
+        "Female",
+        "Aged",
+        "Middle Aged",
+        "Risk Assessment",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40529509/"
+    },
+    {
+      "pmid": "21095263",
+      "title": "Study of Heart and Renal Protection (SHARP): randomized trial to assess the effects of lowering low-density lipoprotein cholesterol among 9,438 patients with chronic kidney disease.",
+      "abstract": "Lowering low-density lipoprotein (LDL) cholesterol with statin therapy has been shown to reduce the incidence of atherosclerotic events in many types of patient, but it remains uncertain whether it is of net benefit among people with chronic kidney disease (CKD).",
+      "journal": "American heart journal",
+      "year": "2010",
+      "authors": [
+        "Sharp Collaborative Group"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Anticholesteremic Agents",
+        "Atherosclerosis",
+        "Azetidines",
+        "Cholesterol, LDL",
+        "Dose-Response Relationship, Drug",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Ezetimibe"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21095263/"
+    },
+    {
+      "pmid": "24903982",
+      "title": "Stroke in patients with aortic stenosis: the Simvastatin and Ezetimibe in Aortic Stenosis study.",
+      "abstract": "There are limited data on risk stratification of stroke in aortic stenosis. This study examined predictors of stroke in aortic stenosis, the prognostic implications of stroke, and how aortic valve replacement (AVR) with or without concomitant coronary artery bypass grafting influenced the predicted outcomes.",
+      "journal": "Stroke",
+      "year": "2014",
+      "authors": [
+        "Greve Anders M",
+        "Dalsgaard Morten",
+        "Bang Casper N",
+        "Egstrup Kenneth",
+        "Ray Simon"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Anticholesteremic Agents",
+        "Aortic Valve Stenosis",
+        "Azetidines",
+        "Comorbidity",
+        "Coronary Artery Bypass",
+        "Ezetimibe",
+        "Female",
+        "Heart Valve Prosthesis Implantation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24903982/"
+    },
+    {
+      "pmid": "12679198",
+      "title": "High-density lipoprotein subpopulations in pathologic conditions.",
+      "abstract": "The role of low-density lipoprotein (LDL) cholesterol in coronary artery disease (CAD) and the impact of therapeutic agents on LDL cholesterol are well established. Less is known about the role of high-density lipoprotein (HDL) cholesterol and even less about the role of the different HDL subspecies in CAD. HDL particles vary in size and density, mainly because of differences in the number of apolipoprotein (apo) particles and the amount of cholesterol ester in the core of HDL. Apo A-I is essential and, together with lipid, sufficient for the formation of HDL particles. Apo A-I-containing HDL particles play a primary role in cholesterol efflux from membranes, at least in part through interactions with the adenosine triphosphate-binding cassette transporter A1 (ABCA1). Patients with Tangier disease have mutations in the gene encoding ABCA1, which result in functionally impaired protein, a marked deficiency in HDL cholesterol, and a high risk of premature CAD. Our studies of apo A-I-cont",
+      "journal": "The American journal of cardiology",
+      "year": "2003",
+      "authors": [
+        "Asztalos Bela F",
+        "Schaefer Ernst J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Coronary Artery Disease",
+        "Humans",
+        "Lipoproteins, HDL",
+        "Tangier Disease"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12679198/"
+    },
+    {
+      "pmid": "21107758",
+      "title": "What combination therapy with a statin, if any, would you recommend?",
+      "abstract": "The latest recommended goals for blood lipid levels may require multiple lipid drugs. Lower doses in combination may render more efficacy and safety than highest doses of single agents. Except for isolated hypoalphalipoproteinemia (a low level of high-density lipoprotein cholesterol), therapies will start with a statin. All marketed statins are acceptable. The choice may be based on dose- efficacy and patient's tolerability. High-potency statins (eg, atorvastatin, simvastatin, or rosuvastatin) are often chosen. Currently, generic statins, such as simvastatin, lovastatin, pravastatin, and fluvastatin, offer cost benefits. The choice of added agent depends on the \"residual lipoprotein abnormalities\" after statin therapy, efficacy, compliance issues, and cost. Approved \"combined\" preparations improve cost and compliance. To further lower low-density lipoprotein cholesterol, ezetimibe is a safe, efficacious choice, pending resolution of a controversial trial's results. Colesevelam is moder",
+      "journal": "Current atherosclerosis reports",
+      "year": "2011",
+      "authors": [
+        "Dujovne Carlos A",
+        "Williams Craig D",
+        "Ito Matthew K"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Cholesterol, LDL",
+        "Controlled Clinical Trials as Topic",
+        "Coronary Artery Disease",
+        "Drug Costs",
+        "Drug Monitoring",
+        "Drug Synergism",
+        "Drug Therapy, Combination",
+        "Drugs, Generic",
+        "Dyslipidemias",
+        "Fatty Acids, Omega-3"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21107758/"
+    },
+    {
+      "pmid": "18224302",
+      "title": "Simvastatin reverses the hypertension of heterozygous mice lacking cystathionine beta-synthase and apolipoprotein A-I.",
+      "abstract": "Double heterozygous mice lacking Apoa1 and Cbs genes show mild hyperhomocysteinemia in combination with hypoalphalipoproteinemia. This situation leads to a moderate hypertension associated with a dysregulation in nitric oxide metabolism. The aim of this study was to investigate the potential beneficial effects of statin treatment in these mice. After 4 weeks of simvastatin administration, plasma parameters; apolipoproteins A-I, A-II and A-IV; lipid profile; and blood pressure were assessed, Western blotting was performed in the aorta of these mice to measure endothelial nitric oxide synthase and caveolin-1 content. The high blood pressure level present in the double heterozygous group was corrected down to that of the wild-type group after simvastatin treatment (124+/-7.7 vs. 109+/-11.2 mmHg, p<0.01). Concomitant with this effect, an increase in nitric oxide levels was observed in these double heterozygous mice receiving simvastatin treatment probably mediated in part by a decrease in ",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "year": "2008",
+      "authors": [
+        "Carnicer Ricardo",
+        "Navarro María A",
+        "Guillén Natalia",
+        "Arbonés-Mainar José M",
+        "Surra Joaquín C"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antihypertensive Agents",
+        "Aorta",
+        "Apolipoprotein A-I",
+        "Blood Pressure",
+        "Blotting, Western",
+        "Chromatography, Liquid",
+        "Cystathionine beta-Synthase",
+        "Endothelium, Vascular",
+        "Heterozygote"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18224302/"
+    },
+    {
+      "pmid": "23973688",
+      "title": "Relationship of apolipoproteins A-1 and B, and lipoprotein(a) to cardiovascular outcomes: the AIM-HIGH trial (Atherothrombosis Intervention in Metabolic Syndrome with Low HDL/High Triglyceride and Impact on Global Health Outcomes).",
+      "abstract": "This study sought to examine the relationship between baseline and on-study apolipoproteins (apo) A-1 and B and lipoprotein(a) [Lp(a)] levels and the development of subsequent cardiovascular (CV) events in the AIM-HIGH (Atherothrombosis Intervention in Metabolic Syndrome with Low HDL/High Triglyceride and Impact on Global Health Outcomes) trial.",
+      "journal": "Journal of the American College of Cardiology",
+      "year": "2013",
+      "authors": [
+        "Albers John J",
+        "Slee April",
+        "O'Brien Kevin D",
+        "Robinson Jennifer G",
+        "Kashyap Moti L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Apolipoprotein A-I",
+        "Apolipoproteins B",
+        "Biomarkers",
+        "Cardiovascular Diseases",
+        "Cholesterol, HDL",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23973688/"
+    },
+    {
+      "pmid": "19307143",
+      "title": "Cholesteryl Ester Storage Disease (CESD) due to novel mutations in the LIPA gene.",
+      "abstract": "Cholesteryl Ester Storage Disease (CESD) is a rare recessive disorder due to mutations in LIPA gene encoding the lysosomal acidic lipase (LAL). CESD patients have liver disease associated with mixed hyperlipidemia and low plasma levels of high-density lipoproteins (HDL). The aim of this study was the molecular characterization of three patients with CESD. LAL activity was measured in blood leukocytes. In two patients (twin sisters) the clinical diagnosis of CESD was made at 9 years of age, following the fortuitous discovery of elevated serum liver enzymes in apparently healthy children. They had mixed hyperlipidemia, hepatosplenomegaly, reduced LAL activity (approximately 5% of control) and heteroalleic mutations in LIPA gene coding sequence: (i) the common c.894 G>A mutation and (ii) a novel nonsense mutation c.652 C>T (p.R218X). The other patient was an 80 year-old female who for several years had been treated with simvastatin because of severe hyperlipidemia associated with low plas",
+      "journal": "Molecular genetics and metabolism",
+      "year": "2009",
+      "authors": [
+        "Pisciotta Livia",
+        "Fresa Raffaele",
+        "Bellocchio Antonella",
+        "Pino Elisabetta",
+        "Guido Virgilia"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Aged, 80 and over",
+        "Cholesterol Ester Storage Disease",
+        "Female",
+        "Genetic Testing",
+        "Humans",
+        "Lipids",
+        "Liver",
+        "Mutation",
+        "Pedigree"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19307143/"
+    },
+    {
+      "pmid": "23023895",
+      "title": "Beyond low-density lipoprotein cholesterol: why, who and when.",
+      "abstract": "Cardiovascular disease due to atherosclerosis is a leading cause of death around the world, including Singapore. Current treatment strategies primarily target low-density lipoprotein (LDL) cholesterol levels. Low levels of high-density lipoprotein (HDL) cholesterol and high triglyceride (TG) levels have been shown to increase the risk of coronary heart disease, but the clinical benefits of raising low HDL cholesterol have only been proven in a limited number of studies. This guide provides an approach on managing low HDL cholesterol levels in terms of lifestyle modifications and pharmacotherapy.",
+      "journal": "Singapore medical journal",
+      "year": "2012",
+      "authors": [
+        "Chang Christopher Ngai Kin",
+        "How Choon How",
+        "Tavintharan Subramaniam"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Coronary Disease",
+        "Drug Therapy, Combination",
+        "Exercise",
+        "Fenofibrate",
+        "Humans",
+        "Hypertriglyceridemia",
+        "Hypoalphalipoproteinemias",
+        "Hypolipidemic Agents",
+        "Life Style",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23023895/"
+    },
+    {
+      "pmid": "7567762",
+      "title": "Iatrogenic profound hypoalphalipoproteinaemia: an unrecognised cause of very low HDL cholesterol.",
+      "abstract": "A significant reduction in plasma high density lipoprotein (HDL) cholesterol is a recognised consequence of treatment with probucol. By contrast, fibrate therapy in general has the opposite effect. We report two cases where the combination of probucol and a fibrate led to profoundly reduced plasma levels of HDL cholesterol associated with very low levels of apolipoprotein A-I (apoA-I). In the first, bezafibrate was added to probucol, and in the second, probucol added to a combination of simvastatin and fenofibrate. In both cases, plasma levels of HDL and apoA-I returned towards normal after discontinuation of one or both drugs, indicating that the reduction was reversible.",
+      "journal": "Postgraduate medical journal",
+      "year": "1995",
+      "authors": [
+        "Murphy M J",
+        "Duncan A",
+        "Vallance B D",
+        "Packard C J",
+        "O'Reilly D S"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anticholesteremic Agents",
+        "Bezafibrate",
+        "Cholesterol, HDL",
+        "Drug Interactions",
+        "Female",
+        "Fenofibrate",
+        "Humans",
+        "Hypolipoproteinemias",
+        "Lovastatin"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7567762/"
+    },
+    {
+      "pmid": "9064528",
+      "title": "[A patient with an unexplained low level of high density lipoprotein cholesterol].",
+      "abstract": "A non smoking male patient 42 years old complained of pain in the calves after exercise and had a low 'high density'-lipoprotein (HDL) cholesterol serum concentration. Angiography of the leg vessels revealed no abnormalities. Treatment with simvastatin and gemfibrozil did not affect HDL cholesterol concentrations. Blood tests of relatives made familial hypo-alpha-lipoproteinaemia unlikely. It appeared that the patient had used anabolic steroids; these increase hepatic lipase activity leading to a higher metabolism of HDL and reduced HDL cholesterol levels.",
+      "journal": "Nederlands tijdschrift voor geneeskunde",
+      "year": "1997",
+      "authors": [
+        "Castro Cabezas M",
+        "van Loon D",
+        "de Hiep H J",
+        "Meuwissen O J"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anabolic Agents",
+        "Cholesterol, HDL",
+        "Humans",
+        "Hypolipoproteinemias",
+        "Lipase",
+        "Liver",
+        "Male",
+        "Pedigree"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9064528/"
+    },
+    {
+      "pmid": "22085343",
+      "title": "Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy.",
+      "abstract": "In patients with established cardiovascular disease, residual cardiovascular risk persists despite the achievement of target low-density lipoprotein (LDL) cholesterol levels with statin therapy. It is unclear whether extended-release niacin added to simvastatin to raise low levels of high-density lipoprotein (HDL) cholesterol is superior to simvastatin alone in reducing such residual risk.",
+      "journal": "The New England journal of medicine",
+      "year": "2011",
+      "authors": [
+        "Boden William E",
+        "Probstfield Jeffrey L",
+        "Anderson Todd",
+        "Chaitman Bernard R"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Atherosclerosis",
+        "Brain Ischemia",
+        "Cardiovascular Diseases",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22085343/"
+    },
+    {
+      "pmid": "21095263",
+      "title": "Study of Heart and Renal Protection (SHARP): randomized trial to assess the effects of lowering low-density lipoprotein cholesterol among 9,438 patients with chronic kidney disease.",
+      "abstract": "Lowering low-density lipoprotein (LDL) cholesterol with statin therapy has been shown to reduce the incidence of atherosclerotic events in many types of patient, but it remains uncertain whether it is of net benefit among people with chronic kidney disease (CKD).",
+      "journal": "American heart journal",
+      "year": "2010",
+      "authors": [
+        "Sharp Collaborative Group"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Anticholesteremic Agents",
+        "Atherosclerosis",
+        "Azetidines",
+        "Cholesterol, LDL",
+        "Dose-Response Relationship, Drug",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Ezetimibe"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21095263/"
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "drug": "Ketoconazole",
+  "drugbank_id": "DB01026",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T09:54:33Z",
+  "indications": [
+    {
+      "indication": "chromomycosis",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 4,
+        "other_articles": 6,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "disseminated candidiasis",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 4,
+        "other_articles": 6,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "paracoccidioidomycosis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "tinea pedis",
+      "evidence_level": "L1",
+      "trials": 7,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 5,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 0,
+        "rct_articles": 2,
+        "review_articles": 4,
+        "other_articles": 4,
+        "total_trials": 7,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "pityriasis simplex",
+      "evidence_level": "L2",
+      "trials": 2,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 2,
+        "total_articles": 1
+      }
+    }
+  ],
+  "total_trials": 9,
+  "total_articles": 31,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01110330",
+      "title": "A Double-Blind, Randomized, Parallel Group Comparison of Nizoral Cream (F012), Ketoconazole 2% Cream (F126) and Placebo (F000) in the Treatment of Interdigital Tinea Pedis",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2007-07",
+      "completion_date": "2008-10",
+      "country": "Poland, United Kingdom",
+      "enrollment": 583,
+      "brief_summary": "The purpose of this study is to determine if a new formulation of ketoconazole 2% cream is as effective as a current formulation of ketoconazole 2% cream (Nizoral) compared with placebo in treating patients with Tinea pedis, a skin infection commonly known as \"athlete's foot\" that is caused by a kind of mold called a fungus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be co-operative, reliable and sufficiently competent to grade and record symptoms as requested\n* have a clinical diagnosis of uncomplicated interdigital Tinea pedis confirmed by KOH microscopy\n* Be either post-menopausal or surgically sterile, abstinent, or, if sexually active",
+      "endpoints": [
+        "The Number of Patients in the Positive Baseline Culture Set (PBCS) With Mycological Cure (MC) at Week 6"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT01110330"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02606383",
+      "title": "Non-inferiority, Phase III Clinical Trial Comparing Dapaconazole Cream 2% (Biolab Sanus Farmacêutica Ltda.) Versus Ketoconazole Cream 2% (Nizoral® Janssen-Cilag) in Patients With Tinea Pedis",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2016-06",
+      "completion_date": "",
+      "country": "Brazil",
+      "enrollment": 0,
+      "brief_summary": "This is a non-inferiority, Phase III, open-label, randomized, parallel trial to evaluate the new intervention Dapaconazole cream 2% versus Ketoconazole cream 2% in patients with Tinea pedis. Sample size is 140 participants (70 per treatment group), male or female, aged between 16 and 60 years-old.\n\nPrimary objective is to evaluate non-inferiority of Dapaconazole cream 2% compared to Ketoconazole cream 2% in Tinea pedis treatment. Secondary objective is to evaluate safety and tolerability of Dapa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female study participants, aged between 16 and 60 years-old. Patients aged between 16 and 18 years-old will provide additional Assent Form before enrollment in the trial;\n* Presence of a skin lesion characteristic of Tinea pedis, with diagnosis confirmed by direct myco",
+      "endpoints": [
+        "Clinical cure of the lesion",
+        "Mycological cure of the lesion"
+      ],
+      "sponsor": "Biolab Sanus Farmaceutica",
+      "url": "https://clinicaltrials.gov/study/NCT02606383"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02824926",
+      "title": "Non-inferiority Phase II Trial Comparing BL123 (Biolab Sanus Farmacêutica Ltda.) Versus Ketoconazole (Nizoral® Janssen-Cilag) in Patients With Tinea Pedis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2015-01",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "This is a non-inferiority, Phase II, open-label, randomized, parallel trial to evaluate efficacy and safety of the new intervention (Dapaconazole cream 2%) versus the active control (Ketoconazole cream 2%) in patients with Tinea Pedis. Study schedule comprises enrollment, treatment and follow-up visits. Treatment period is 14 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects, aged between 18 and 60 years-old;\n* Presence of skin lesion(s) characteristic of Tinea Pedis, with diagnosis confirmed by direct mycological exam;\n* Absence of previous antifungic treatment for the current lesion(s) under study;\n* Absence of other sign",
+      "endpoints": [
+        "Clinical cure of the lesion(s)",
+        "Mycological cure of the lesion(s)"
+      ],
+      "sponsor": "Galeno Desenvolvimento de Pesquisas Clínicas",
+      "url": "https://clinicaltrials.gov/study/NCT02824926"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03320486",
+      "title": "Phase 3, Multicenter, Double-blind, Randomized, Non-inferiority Clinical Trial of Dapaconazole Cream 2% (Biolab Sanus Farmacêutica Ltda.) Versus Ketoconazole Cream 2% (Nizoral®, Janssen-Cilag Farmacêutica Ltda.) in Patients With Tinea Pedis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-11-01",
+      "completion_date": "2019-11-12",
+      "country": "Brazil",
+      "enrollment": 360,
+      "brief_summary": "The main purpose of this study is to demonstrate that dapaconazole cream 2% (experimental drug) is non-inferior to ketoconazole cream 2% (Nizoral® - active comparator) for the treatment of dermatological lesions of Tinea pedis, when applied to the skin (topically) once daily during 28 days. Additionally, the safety and tolerability aspects will be evaluated in a descriptive way, through the observation of the incidence of adverse events.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants aged from 18 to 65 years old, male, or female with no childbearing potential or who are using an effective contraceptive method and who do not plan to become pregnant during the study period.\n* Presence of dermatological lesion(s) of Tinea pedis, with a global cli",
+      "endpoints": [
+        "Proportion of participants with therapeutic cure"
+      ],
+      "sponsor": "Biolab Sanus Farmaceutica",
+      "url": "https://clinicaltrials.gov/study/NCT03320486"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04203342",
+      "title": "A Randomized,Double-blind,Vehicle-controlled, Parallel-design,Multiple-site Study to Evaluate the Therapeutic Equivalence of Ketoconazole Cream 2% (Douglas Pharmaceuticals America Ltd) to Ketoconazole Cream 2% (Teva Pharmaceuticals USA Inc.) in the Treatment of Tinea Pedis.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-12-11",
+      "completion_date": "2020-07-13",
+      "country": "Belize, United States",
+      "enrollment": 682,
+      "brief_summary": "Clinical Study to Evaluate the Therapeutic Equivalence of Ketoconazole Cream 2% in the Treatment of Tinea Pedis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male or non-pregnant, non-lactating female, 18 years of age or older\n* Signed ICF meeting all criteria of current FDA regulations\n* Female subject of childbearing potential must NOT be pregnant or lactating at Visit 1 (negative urine pregnancy test)\n* Female subject of",
+      "endpoints": [
+        "Therapeutic cure of tinea pedis"
+      ],
+      "sponsor": "Douglas Pharmaceuticals America Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT04203342"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03824912",
+      "title": "A Randomized, Double-Blind, Vehicle-Controlled, Parallel-Design, Multiple-Site Clinical Study to Evaluate the Therapeutic Equivalence of Ketoconazole Cream 2% (Encube Ethicals Pvt Ltd) to Ketoconazole Cream 2% (G&W Laboratories Inc.) in the Treatment of Tinea Pedis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-08-23",
+      "completion_date": "2019-01-24",
+      "country": "Belize, United States, Saint Lucia",
+      "enrollment": 831,
+      "brief_summary": "Clinical Study to Evaluate the Therapeutic Equivalence of Ketoconazole Cream 2% in the Treatment of Tinea Pedis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy male or non-pregnant, non-lactating female, ≥ 18 years of age.\n2. Signed informed consent form (ICF) that meets all criteria of current Food and Drug Administration regulations.\n3. Female patient of childbearing potential must not be pregnant or lactating at Visit 1 (",
+      "endpoints": [
+        "Primary Efficacy Endpoint: The Number of Patients in Each Treatment Group With a Therapeutic Cure of Tinea Pedis (Equivalence: Per-Protocol Population)",
+        "Primary Efficacy Endpoint: The Number of Patients in Each Treatment Group With a Therapeutic Cure of Tinea Pedis (Superiority: Modified Intent-to-Treat Population)"
+      ],
+      "sponsor": "Encube Ethicals Pvt. Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03824912"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00501397",
+      "title": "An Open Label Study in Healthy Volunteers to Investigate the Effect of Ketoconazole on the Pharmacokinetics of GSK189075",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2007-02",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "The purpose of this research study is to evaluate the effect of several daily doses of ketoconazole (a medication used to treat fungal infections like athlete's foot) on a single dose of GSK189075 (an experimental diabetes drug), and also to evaluate the safety and tolerability of GSK189075 in healthy volunteers. The study will see whether ketoconazole causes GSK189075 to stay in your bloodstream for a longer period of time. It will also examine whether GSK189075 causes any changes in the amount",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Are a healthy, non-smoking male or female.\n* Are 18 to 55 years old, inclusive.\n* Have a body weight of \\> or equal to 110 pounds.\n* Are a female who is unable to have any more children and have a negative pregnancy test.\n* Are willing and able to provide written informed cons",
+      "endpoints": [
+        "Plasma blood samples for GSK189075 at Day 1 Session 1, Days 5 & 6 Session 3",
+        "urine collections for volume, glucose, & creatinine at Day 1 Session 1, Days 5 & 6 Session 3."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00501397"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03845348",
+      "title": "Đánh giá hiệu quả điều trị viêm da dầu ở đầu của dầu gội Thái Dương 3 và Thái Dương 7 (A Randomized, Double Blind, Placebo Controlled, Parallel Group, Phase 3 Trial to Evaluate the Safety and Efficacy Shampoos TD03 and TD07 in Scalp Diseases)",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-05-22",
+      "completion_date": "2023-06",
+      "country": "Vietnam",
+      "enrollment": 366,
+      "brief_summary": "Scalp Conditions are common chronic skin inflamations with the occurence rate of 1 - 5 % among the population. TD03 shampoo and TD07 shampoo are widely used to avoid hair loss with successful rate reaching nearly 95%. This trial is going to evaluate the efficacy of getting rid of dandruff as well as the safety of the investigational products in comparison to a reference (ketoconazole 2%) during a 4-week treatment period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\> 18 years old and signed the ICF.\n* Diagnosed with head skin inflamtion with IGA \\<= 3.\n* Voluntary sign the ICF before any procedures.\n* No hypersentivity to the IP.\n\nExclusion Criteria:\n\n* Use oral antifungal 1 month prior to the trial participation or topical antifungal 2",
+      "endpoints": [
+        "Change from baseline in IGA scale at 4 week-treatment",
+        "The numbers of subjects with AE/SAE"
+      ],
+      "sponsor": "Sao Thai Duong Joint Stock Company",
+      "url": "https://clinicaltrials.gov/study/NCT03845348"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01203189",
+      "title": "Seborrheic Dermatitis of the Scalp in Populations Practicing Less Frequent Hair Washing: Ketoconazole 2% Foam Versus Ketoconazole 2% Shampoo",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2013-06",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "The aims of this study are to compare the effectiveness of antifungal foam versus antifungal shampoo and determine patient compliance and satisfaction with both vehicles among African American females with dandruff practicing less than once weekly hair washing.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* African American females aged 18 to 89 years\n* Previous diagnosis of seborrheic dermatitis of the scalp\n* TDSS between 50 and 200\n* Practice less than or equal to once weekly hair washing\n* Immunocompetent\n* Willing to not grease or oil scalp\n\nExclusion Criteria:\n\n* Age below ",
+      "endpoints": [
+        "Total Dandruff Severity Score (TDSS)"
+      ],
+      "sponsor": "St. Louis University",
+      "url": "https://clinicaltrials.gov/study/NCT01203189"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "6301794",
+      "title": "Ketoconazole.",
+      "abstract": "The treatment of most fungal infections is difficult, at best. Antifungal therapy is complicated by the development of resistant organisms and by the toxicity of many agents. Ketoconazole, an orally active imidazole derivative, has been approved by the Food and Drug Administration for the treatment of candidiasis, chronic mucocutaneous candidiasis, oral thrush, candiduria, coccidioidomycosis, histoplasmosis, chromomycosis, and paracoccidioidomycosis. At present, there is very little peer review literature on ketoconazole's effectiveness for several of its approved indications. Gastrointestinal side effects account for the majority of reported adverse reactions; however, preliminary evidence suggests that higher dosages of ketoconazole may decrease adrenal steroidogenesis. Currently, ketoconazole 200-400 mg/d is recommended; the duration of therapy remains to be firmly established. Until well-designed clinical trials are completed and ketoconazole's effectiveness is compared to that of ",
+      "journal": "Drug intelligence & clinical pharmacy",
+      "year": "1983",
+      "authors": [
+        "Hume A L",
+        "Kerkering T M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antifungal Agents",
+        "Bacteria",
+        "Costs and Cost Analysis",
+        "Drug Interactions",
+        "Humans",
+        "Imidazoles",
+        "Ketoconazole",
+        "Kinetics",
+        "Mycoses",
+        "Piperazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6301794/"
+    },
+    {
+      "pmid": "6309466",
+      "title": "Evaluation of ketoconazole.",
+      "abstract": "The pharmacology, microbiology, pharmacokinetics, clinical use, adverse effects, dosage and administration, and drug interactions of ketoconazole are reviewed. Ketoconazole, a new orally active antifungal agent, is an imidazole derivative structurally related to miconazole and clotrimazole. It impairs the synthesis of ergosterol (the main sterol in fungal cell membranes) in susceptible organisms, including yeast (Candida and Cryptococcus spp.), fungi, and dermatophytes. Ketoconazole is absorbed from the gastrointestinal tract; it is better absorbed from acidic aqueous solutions, so drugs that alter the pH of the stomach affect ketoconazole absorption. Therapeutic plasma concentrations are maintained for several hours following ketoconazole administration. Ketoconazole distributes readily into blood, urine, saliva, joint fluid, sebum, and cerumen; recent data indicate it may penetrate into cerebrospinal fluid as well. Elimination is biphasic, with a half-life of two hours during the fir",
+      "journal": "Clinical pharmacy",
+      "year": "1982",
+      "authors": [
+        "Sohn C A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Fungi",
+        "Humans",
+        "Imidazoles",
+        "Ketoconazole",
+        "Kinetics",
+        "Mycoses",
+        "Piperazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6309466/"
+    },
+    {
+      "pmid": "6252105",
+      "title": "Treatment of paracoccidioidomycosis, candidiasis, chromomycosis, lobomycosis, and mycetoma with ketoconazole.",
+      "abstract": "The authors present the use of ketoconazole in 27 cases of paracoccidioidomycosis, eight of mycetoma, seven of chromomycosis, four of systemic candidiasis and one of lobomycosis. The drug was administered orally in a dosage of 200 to 400 mg per day within a period of up to 90 days. The results of the treatment for paracoccidioidomycosis were of cicatrization of the cutaneous lesions in three to four weeks in 24 patients and in two, from six to seven weeks. Out of 27 patients, 14 presented pulmonary lesions. The evolution within a 90-day period showed radiological cure in one case, improvement in seven, and unaltered picture in five patients. In one, there was no further control. In the three out of four cases of candidiasis there was clinical and mycological cure and in one case marked improvement. In seven cases of chromomycosis there was marked improvement in two, moderate in four, and slight in one case. There was slight improvement in one case of lobomycosis, and in eight cases of ",
+      "journal": "International journal of dermatology",
+      "year": "1980",
+      "authors": [
+        "Cucé L C",
+        "Wroclawski E L",
+        "Sampaio S A"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antifungal Agents",
+        "Candidiasis",
+        "Chromoblastomycosis",
+        "Clinical Trials as Topic",
+        "Female",
+        "Humans",
+        "Imidazoles"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6252105/"
+    },
+    {
+      "pmid": "6298285",
+      "title": "Treatment of chromomycosis with ketoconazole and 5-fluorocytosine.",
+      "abstract": "Chromomycosis is a disfiguring cutaneous mycosis that is often recalcitrant to therapy. We describe a case of chromomycosis of the lower extremities that is being successfully treated with ketoconazole and 5-fluorocytosine (5-FC) after treatment with ketoconazole alone had failed. In vitro studies showed that the drugs acted synergistically against the strain of Fonsecaea pedrosoi which was isolated from the patient's lesion.",
+      "journal": "Journal of the American Academy of Dermatology",
+      "year": "1983",
+      "authors": [
+        "Silber J G",
+        "Gombert M E",
+        "Green K M",
+        "Shalita A R"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Antifungal Agents",
+        "Chromoblastomycosis",
+        "Drug Synergism",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Imidazoles",
+        "Ketoconazole",
+        "Male",
+        "Piperazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6298285/"
+    },
+    {
+      "pmid": "3842101",
+      "title": "Treatment of chromomycosis with a combination of ketoconazole and 5-fluorocytosine.",
+      "abstract": "",
+      "journal": "The Ceylon medical journal",
+      "year": "1985",
+      "authors": [
+        "Atukorala D N",
+        "Pothupitiya G M"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Chromoblastomycosis",
+        "Drug Therapy, Combination",
+        "Flucytosine",
+        "Humans",
+        "Ketoconazole",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3842101/"
+    },
+    {
+      "pmid": "6325087",
+      "title": "Ketoconazole.",
+      "abstract": "",
+      "journal": "Connecticut medicine",
+      "year": "1984",
+      "authors": [
+        "Deutsch P H",
+        "Quintiliani R"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Candidiasis",
+        "Candidiasis, Chronic Mucocutaneous",
+        "Candidiasis, Oral",
+        "Chemical Phenomena",
+        "Chemistry",
+        "Chromoblastomycosis",
+        "Coccidioidomycosis",
+        "Cryptococcosis",
+        "Dermatomycoses",
+        "Drug Interactions"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6325087/"
+    },
+    {
+      "pmid": "3325708",
+      "title": "[Chromomycosis].",
+      "abstract": "A case of chromomycosis with an evolution of 25 years, in a caucasoid man, aged 57, living in Mozambique, is reported. Fonsecae pedrosoi, the most frequently responsible agent of chromomycosis in Mozambique's cases, was isolated. Prognosis seemed poor since good results from therapy were unexpected, considering the long course of disease, the extensive and fibrotic lesions, and the unsuccessful treatment with 5-fluorocytosine and ketoconazole. The patient was treated with associated amphotericin B-5-fluorocytosine, and topical heat. Clinical improvement and mycologic negative studies were obtained.",
+      "journal": "Medicina cutanea ibero-latino-americana",
+      "year": "1987",
+      "authors": [
+        "Cachão P",
+        "Rocha M M",
+        "Cabrita J",
+        "Rodrigo J G"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Amphotericin B",
+        "Chromoblastomycosis",
+        "Flucytosine",
+        "Humans",
+        "Ketoconazole",
+        "Male",
+        "Middle Aged",
+        "Mozambique"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3325708/"
+    },
+    {
+      "pmid": "6255545",
+      "title": "Treatment of paracoccidioidomycosis, candidosis, chromomycosis, lobomycosis, and mycetoma with ketoconazole: a brief summary.",
+      "abstract": "",
+      "journal": "Reviews of infectious diseases",
+      "year": "1980",
+      "authors": [
+        "Cucé L C",
+        "Wroclawski E L",
+        "Sampaio S A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Candidiasis",
+        "Chromoblastomycosis",
+        "Humans",
+        "Imidazoles",
+        "Ketoconazole",
+        "Mycetoma",
+        "Mycoses",
+        "Paracoccidioidomycosis",
+        "Piperazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6255545/"
+    },
+    {
+      "pmid": "8077517",
+      "title": "Treatment of tropical mycoses.",
+      "abstract": "Several subcutaneous and deep-seated mycoses are either observed more frequently in the tropical areas or are restricted to certain regions within the tropics. These mycoses include sporotichosis, chromoblastomycosis, entomophthoromycosis, eumycetoma, lobomycosis, and paracoccidioidomycosis. In sporotrichosis and paracoccidioidomycosis, therapy often results in either complete resolution or marked improvement. For decades sporotrichosis has been treated successfully with potassium iodide, but recently the triazole compounds, especially itraconazole, have proved effective and free of major side effects. The usual therapy for paracoccidioidomycosis is sulfonamides or amphotericin B; the former requires prolonged treatment, whereas the latter causes a significant degree of toxicity. Various azole derivatives (ketoconazole, fluconazole, saperconazole, and itraconazole) allow shorter treatment courses, can be given orally, and are more effective. Presently, itraconazole is the drug of choic",
+      "journal": "Journal of the American Academy of Dermatology",
+      "year": "1994",
+      "authors": [
+        "Restrepo A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antifungal Agents",
+        "Blastomycosis",
+        "Chromoblastomycosis",
+        "Combined Modality Therapy",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Mucormycosis",
+        "Mycetoma",
+        "Mycoses",
+        "Paracoccidioidomycosis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8077517/"
+    },
+    {
+      "pmid": "20952879",
+      "title": "Chromoblastomycosis.",
+      "abstract": "This is an account of twenty eight years of sufferings of a young sikh agriculturist, who ultimately succumbed to chromoblastomycosis- a not so uncommon mycotic infection, despite the use of toxic (amphoterecin-B) and newer antimycotic drugs (ketoconazole). Involvement of face, small and large gut, larynx and trachea are the other highlights of this case.",
+      "journal": "Indian journal of dermatology, venereology and leprology",
+      "year": "1995",
+      "authors": [
+        "Bharti R",
+        "Malhotra S K",
+        "Bal M S",
+        "Sharma K"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20952879/"
+    },
+    {
+      "pmid": "1457662",
+      "title": "Disseminated candidiasis in addicts who use brown heroin: report of 83 cases and review.",
+      "abstract": "From November 1983 to April 1990, disseminated candidiasis was diagnosed in 83 heroin addicts at our institution. All patients had consumed brown heroin diluted in fresh lemon juice. Sixty-two (75%) had skin lesions, 41 (49%) had ocular lesions, and 35 (42%) had one or several costochondral tumors. Candida albicans was grown in culture or histopathologically identified in 34 cases (41%). The patients who had only cutaneous lesions were treated with ketoconazole, and they were all cured. The patients with ocular involvement received systemic amphotericin B with or without oral flucytosine; 29 of these patients developed varying degrees of vision loss. The method of treatment of costochondral tumors was not uniform; in 14 cases the lesions were resected. The one patient who died developed endocarditis involving the aortic valve. Cases of pleuropulmonary involvement, spondylitis, and large-joint arthritis have also been described among the 300 cases reported in the reviewed literature. Th",
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "year": "1992",
+      "authors": [
+        "Bisbe J",
+        "Miro J M",
+        "Latorre X",
+        "Moreno A",
+        "Mallolas J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Candidiasis",
+        "Female",
+        "Heroin Dependence",
+        "Humans",
+        "Male",
+        "Substance Abuse, Intravenous"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1457662/"
+    },
+    {
+      "pmid": "1476286",
+      "title": "[Systemic candidiasis].",
+      "abstract": "Candida proliferate within the body of patients with deficient cellular immunity either by the haematogenous route or by adjacency. This condition is often found in hospital patients. It explains the increasing incidence of disseminated candidiasis. They are preferentially found in patients who have had complicated surgery, mostly of the gastrointestinal tract and the heart, or transplant surgery (except for kidney transplants), or who have had prolonged intensive care. Other patients concerned are neonates with a low birth weight, haemato-oncology patients, heroin addicts and AIDS patients. Clinical signs are usually unspecific. When there is widespread involvement, clinical signs can be defined by the secondary locations, especially within the kidneys, lung, endocardium and brain in surgical patients, and liver and spleen in haemato-oncology patients. Eye, skin, gastrointestinal tract, and indeed, muscle lesions which are easily accessible, should be looked for routinely. This helps ",
+      "journal": "Annales francaises d'anesthesie et de reanimation",
+      "year": "1992",
+      "authors": [
+        "Lelarge P",
+        "Mariot J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Amphotericin B",
+        "Candida",
+        "Candidiasis",
+        "Decontamination",
+        "Drug Therapy, Combination",
+        "Female",
+        "Flucytosine",
+        "Humans",
+        "Ketoconazole",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1476286/"
+    },
+    {
+      "pmid": "2670371",
+      "title": "Systemic candidiasis.",
+      "abstract": "Systemic candidiasis is a disease of increasing incidence and proportions, which appears to be associated with the advances in modern medicine. It involves primarily patients with severe debilitating and malignant disease who are receiving immunosuppressive, cytotoxic, antimetabolite, and antibiotic therapy. Side effects of these otherwise major therapeutic agents predispose patients to opportunistic fungal infections, of which candidiasis is the most common. The high morbidity and mortality of disseminated candidiasis in neutropenic patients are difficult obstacles to obtaining the optimal, if not full, potential of modern chemotherapy for cancer. The inability to diagnose early invasive and systemic candidiasis is a major handicap that delays timely initiation of antifungal therapy. The paucity of highly efficacious antifungal agents with low toxicity severely limits the ability to successfully cure systemic fungal infections in cancer patients. Aggressive research into the basic bio",
+      "journal": "Dermatologic clinics",
+      "year": "1989",
+      "authors": [
+        "Ray T L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Amphotericin B",
+        "Candidiasis",
+        "Flucytosine",
+        "Humans",
+        "Immune Tolerance",
+        "Ketoconazole",
+        "Neoplasms",
+        "Opportunistic Infections",
+        "Risk Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2670371/"
+    },
+    {
+      "pmid": "6252105",
+      "title": "Treatment of paracoccidioidomycosis, candidiasis, chromomycosis, lobomycosis, and mycetoma with ketoconazole.",
+      "abstract": "The authors present the use of ketoconazole in 27 cases of paracoccidioidomycosis, eight of mycetoma, seven of chromomycosis, four of systemic candidiasis and one of lobomycosis. The drug was administered orally in a dosage of 200 to 400 mg per day within a period of up to 90 days. The results of the treatment for paracoccidioidomycosis were of cicatrization of the cutaneous lesions in three to four weeks in 24 patients and in two, from six to seven weeks. Out of 27 patients, 14 presented pulmonary lesions. The evolution within a 90-day period showed radiological cure in one case, improvement in seven, and unaltered picture in five patients. In one, there was no further control. In the three out of four cases of candidiasis there was clinical and mycological cure and in one case marked improvement. In seven cases of chromomycosis there was marked improvement in two, moderate in four, and slight in one case. There was slight improvement in one case of lobomycosis, and in eight cases of ",
+      "journal": "International journal of dermatology",
+      "year": "1980",
+      "authors": [
+        "Cucé L C",
+        "Wroclawski E L",
+        "Sampaio S A"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antifungal Agents",
+        "Candidiasis",
+        "Chromoblastomycosis",
+        "Clinical Trials as Topic",
+        "Female",
+        "Humans",
+        "Imidazoles"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6252105/"
+    },
+    {
+      "pmid": "1815425",
+      "title": "Ketoconazole hepatotoxicity in a patient treated for environmental illness and systemic candidiasis.",
+      "abstract": "Environmental illness, a hypothesized disease caused by exposure to substances such as combustion products, pesticides, food additives, and Candida albicans, is discussed. The case of a patient with environmental illness and systemic candidiasis for six weeks with ketoconazole, liver enzyme concentrations increased. One month after discontinuation of ketoconazole, the liver enzyme concentrations decreased; however, over the next five months, liver enzymes and bilirubin increased. The patient developed encephalopathy and eventually was transferred to a medical center for possible liver transplant. A review of the literature pertaining to ketoconazole hepatotoxicity is also presented.",
+      "journal": "DICP : the annals of pharmacotherapy",
+      "year": "1991",
+      "authors": [
+        "Brusko C S",
+        "Marten J T"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Candidiasis",
+        "Chemical and Drug Induced Liver Injury",
+        "Environmental Exposure",
+        "Environmental Pollutants",
+        "Female",
+        "Humans",
+        "Jaundice",
+        "Ketoconazole",
+        "Liver Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1815425/"
+    },
+    {
+      "pmid": "40574365",
+      "title": "Anticandidal Effects of Ocimum basilicum and Ocimum sanctum: Unveiling in vitro and in vivo Efficacy against Systemic Candidiasis.",
+      "abstract": "This research explored the antimicrobial, antifungal, and in vivo anticandidal activities of two herbal extracts: Ocimum basilicum (HEOB) and Ocimum sanctum (HEOS). Additionally, the study analyzed the phytochemical components of these extracts.",
+      "journal": "Current pharmaceutical design",
+      "year": "2026",
+      "authors": [
+        "Gupta Saurabh",
+        "Nagar Lokesh",
+        "Singla Madhav",
+        "Smriti",
+        "Singh Sachin Kumar"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40574365/"
+    },
+    {
+      "pmid": "7625792",
+      "title": "Evaluation of water-soluble pneumocandin analogs L-733560, L-705589, and L-731373 with mouse models of disseminated aspergillosis, candidiasis, and cryptococcosis.",
+      "abstract": "The activities of the water-soluble pneumocandin derivatives L-733560, L-705589, and L-731373 were evaluated in mouse models of disseminated aspergillosis, candidiasis, and cryptococcosis and were compared with those of commercially available antifungal agents. Pneumocandins are inhibitors of 1,3-beta-D-glucan synthesis. In the aspergillosis model, L-733560 and L-705589 significantly prolonged the survival of DBA/2N mice challenged intravenously with Aspergillus fumigatus conidia. L-733560 and L-705589 exhibited efficacies comparable to that of amphotericin B (AMB) with 90% effective doses of 0.48, 0.12, and 0.36 mg/kg of body weight, respectively. Two mouse models of disseminated candidiasis were used to evaluate these compounds. In both models, mice were challenged intravenously with Candida albicans. In a C. albicans survival model with DBA/2N and CD-1 mice, the efficacy of L-733560 was comparable to that of AMB, while L-731373 and L-705589 were somewhat less active. In a previously",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "year": "1995",
+      "authors": [
+        "Abruzzo G K",
+        "Flattery A M",
+        "Gill C J",
+        "Kong L",
+        "Smith J G"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Antifungal Agents",
+        "Aspergillosis",
+        "Candidiasis",
+        "Cryptococcosis",
+        "Female",
+        "Mice",
+        "Mice, Inbred DBA",
+        "Peptides"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7625792/"
+    },
+    {
+      "pmid": "2350126",
+      "title": "Otitic candidiasis in children: an evaluation of the problem and effectiveness of ketoconazole in 10 patients.",
+      "abstract": "The purpose of this paper is to report a group of children with recurring ear infections in whom persistent otorrhea was found to be due to monilial (Candida) infection of the middle ear. Some of the patients had associated mastoid disease. A review of the literature reveals few reports of otitis media and/or mastoiditis due to Candida infection. Ten patients who had persistent otorrhea were found to have monilial infection as a cause of the ear disease. None of the patients were immunosuppressed or immunocompromised. Nine of the 10 patients (one was lost to follow-up) were treated with antifungal medication, and the effectiveness of ketoconazole therapy is evaluated. None of the children in this series had systemic candidiasis. The probable causes of the problem of yeast infection of the ear are explored and appear to be related to the use of multiple broad-spectrum antibodies and local antibiotic-steroid ear drops.",
+      "journal": "The Annals of otology, rhinology, and laryngology",
+      "year": "1990",
+      "authors": [
+        "Cohen S R",
+        "Thompson J W"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Candidiasis",
+        "Child, Preschool",
+        "Drug Evaluation",
+        "Female",
+        "Humans",
+        "Infant",
+        "Ketoconazole",
+        "Male",
+        "Otitis Media",
+        "Retrospective Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2350126/"
+    },
+    {
+      "pmid": "3705878",
+      "title": "Disseminated candidiasis in heroin addicts. Report of two cases and review of the literature.",
+      "abstract": "",
+      "journal": "Acta clinica Belgica",
+      "year": "1986",
+      "authors": [
+        "Etienne M",
+        "Nemery A",
+        "Darcis J M",
+        "Pierard G E",
+        "Demonty J"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Candidiasis",
+        "Heroin Dependence",
+        "Humans",
+        "Ketoconazole",
+        "Male",
+        "Sepsis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3705878/"
+    },
+    {
+      "pmid": "6302455",
+      "title": "Neonatal systemic candidiasis treated with miconazole and ketoconazole.",
+      "abstract": "Three infants of very low birthweight, who contracted systemic Candida albicans infections while receiving neonatal intensive care, underwent therapy with intravenously administered miconazole and orally administered ketoconazole. The drugs proved to be effective against the systemic infections with C. albicans and were well tolerated by babies. However, further trials are necessary to confirm the efficacy of these drugs in newborn infants.",
+      "journal": "The Medical journal of Australia",
+      "year": "1983",
+      "authors": [
+        "Tudehope D I",
+        "Rigby B"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Candidiasis",
+        "Female",
+        "Humans",
+        "Imidazoles",
+        "Infant, Newborn",
+        "Infant, Newborn, Diseases",
+        "Ketoconazole",
+        "Male",
+        "Miconazole",
+        "Piperazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6302455/"
+    }
+  ]
+}

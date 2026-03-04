@@ -5,7 +5,7 @@ drugbank_id: "DB00741"
 drug_name: "Hydrocortisone"
 kg_predictions: 2780
 dl_predictions: 629
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 2780
 brands: []
 permalink: /drugs/hydrocortisone/
@@ -21,7 +21,7 @@ permalink: /drugs/hydrocortisone/
 | **DrugBank ID** | [DB00741](https://go.drugbank.com/drugs/DB00741) |
 | **KG Predictions** | 2780 |
 | **DL Predictions (≥0.7)** | 629 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

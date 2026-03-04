@@ -1,0 +1,732 @@
+{
+  "drug": "Ofloxacin",
+  "drugbank_id": "DB01165",
+  "evidence_level": "L2",
+  "collected_at": "2026-03-04T09:55:08Z",
+  "indications": [
+    {
+      "indication": "paratyphoid fever",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 7,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "diarrheal disease",
+      "evidence_level": "L4",
+      "trials": 2,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 10,
+        "total_trials": 2,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "pneumonia caused by chlamydia",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 4,
+        "other_articles": 5,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "acute contagious conjunctivitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 2,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 2
+      }
+    },
+    {
+      "indication": "acute gonococcal endometritis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    }
+  ],
+  "total_trials": 2,
+  "total_articles": 33,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01618591",
+      "title": "A Randomized, Double-Blind, Clinical Trial Evaluating Three Single Dose Regimens With Loperamide for Treatment of Ambulatory Watery Travelers' Diarrhea, and Azithromycin With and Without Loperamide for Treatment of Ambulatory Dysentery/Febrile Diarrhea",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2012-09",
+      "completion_date": "2016-03",
+      "country": "Kenya, Thailand, Honduras, Djibouti, Afghanistan",
+      "enrollment": 384,
+      "brief_summary": "The purpose of the trial is to develop the evidence on relative efficacy of 3 available single-dose loperamide adjuncted regimens for watery diarrhea and a single-dose regimen, with and without loperamide, for dysentery/febrile diarrhea required for informing decisions among these regimens. Information from this study will be used to develop management guidelines for the diagnosis and management of travelers' diarrhea (TD) among deployed United States and United Kingdom military personnel.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Active duty military or military beneficiary, 18 years-old or older.\n2. Presence of acute diarrhea (3 or more stools in 24 hours or 2 or more stools in 24 hours and associated symptoms such as nausea, vomiting, abdominal cramps or tenesmus) and \\<96 hours duration.\n3. Eligibl",
+      "endpoints": [
+        "Clinical Cure - Acute Watery Diarrhea group",
+        "Clinical Cure - Acute Dysentery/Febrile Diarrhea group"
+      ],
+      "sponsor": "Uniformed Services University of the Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01618591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07399717",
+      "title": "Assessing Role of Probiotics in Children Aged 6-36 Months Treated for Pneumonia at Phu Tho Provincial Obstetrics and Pediatrics Hospitals Within 2026-2027",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-26",
+      "completion_date": "2027-12-30",
+      "country": "Vietnam",
+      "enrollment": 330,
+      "brief_summary": "The main questions this study aims to answer are:\n\n* Does using probiotic nasal spray (LiveSpo Navax containing Bacillus subtilis and Bacillus clausii, 1x10\\^9 CFU/mL), with or without oral probiotics (LiveSpo Pregmom containing Bacillus subtilis, Bacillus clausii, and Bacillus coagulans, 3x10\\^9 CFU/5 mL), help children recover better from pneumonia when added to standard medical treatment?\n* Does using these adjunctive probiotics support reduce the recurrence of respiratory and gastrointestina",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children (male/female) aged 6-36 months diagnosed and hospitalized for treatment for pneumonia.\n* Parents or guradians of the children agree to participate in the study, explain, and sign the research consent form.\n\nExclusion Criteria:\n\n* Children who need ventilator support.\n",
+      "endpoints": [
+        "Number of days with typical clinical symptoms of pneumonia",
+        "Number of days of inpatient treatment"
+      ],
+      "sponsor": "Anabio R&D",
+      "url": "https://clinicaltrials.gov/study/NCT07399717"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "36420914",
+      "title": "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins.",
+      "abstract": "Typhoid and paratyphoid (enteric fever) are febrile bacterial illnesses common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends treatment with azithromycin, ciprofloxacin, or ceftriaxone due to widespread resistance to older, first-line antimicrobials. Resistance patterns vary in different locations and are changing over time. Fluoroquinolone resistance in South Asia often precludes the use of ciprofloxacin. Extensively drug-resistant strains of enteric fever have emerged in Pakistan. In some areas of the world, susceptibility to old first-line antimicrobials, such as chloramphenicol, has re-appeared. A Cochrane Review of the use of fluoroquinolones and azithromycin in the treatment of enteric fever has previously been undertaken, but the use of cephalosporins has not been systematically investigated and the optimal choice of drug and duration of treatment are uncertain.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2022",
+      "authors": [
+        "Kuehn Rebecca",
+        "Stoesser Nicole",
+        "Eyre David",
+        "Darton Thomas C",
+        "Basnyat Buddha"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Adult",
+        "Humans",
+        "Adolescent",
+        "Paratyphoid Fever",
+        "Typhoid Fever",
+        "Cephalosporins",
+        "Azithromycin",
+        "Ceftriaxone",
+        "Cefixime"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36420914/"
+    },
+    {
+      "pmid": "16271634",
+      "title": "Typhoid and paratyphoid fever.",
+      "abstract": "",
+      "journal": "Lancet (London, England)",
+      "year": "2005",
+      "authors": [
+        "Pandit Anil",
+        "Arjyal Amit"
+      ],
+      "pub_types": [
+        "Comment",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Anti-Infective Agents",
+        "Ciprofloxacin",
+        "Drug Resistance, Multiple, Bacterial",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Nalidixic Acid",
+        "Nepal",
+        "Ofloxacin",
+        "Salmonella enterica"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16271634/"
+    },
+    {
+      "pmid": "21975746",
+      "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+      "abstract": "Typhoid and paratyphoid are febrile illnesses, due to a bacterial infection, which remain common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends the fluoroquinolone antibiotics in areas with known resistance to the older first-line antibiotics.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2011",
+      "authors": [
+        "Effa Emmanuel E",
+        "Lassi Zohra S",
+        "Critchley Julia A",
+        "Garner Paul",
+        "Sinclair David"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Child",
+        "Fluoroquinolones",
+        "Humans",
+        "Norfloxacin",
+        "Paratyphoid Fever",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome",
+        "Typhoid Fever"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21975746/"
+    },
+    {
+      "pmid": "11197787",
+      "title": "Oral administration of fluoroquinolones in the treatment of typhoid fever and paratyphoid fever in Japan.",
+      "abstract": "To study the adverse reactions and therapeutic effects of fluoroquinolones to investigate whether they can be used for the treatment of patients with typhoid fever and paratyphoid fever.",
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "year": "2000",
+      "authors": [
+        "Ohnishi K",
+        "Kimura K",
+        "Masuda G",
+        "Tsunoda T",
+        "Obana M"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Aged",
+        "Anti-Infective Agents",
+        "Drug Evaluation",
+        "Female",
+        "Fluoroquinolones",
+        "Humans",
+        "Japan",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11197787/"
+    },
+    {
+      "pmid": "11022153",
+      "title": "[Typhoid and paratyphoid fever in adults in the Internal Medicine Department at Libreville (Gabon)].",
+      "abstract": "We carried out a retrospective study of 150 files of patients suffering from typhoid or paratyphoid fever, confirmed bacteriologically, between January 1992 and December 1996 at Libreville. Young adults were the most frequently affected. These infections were associated with unstable living conditions and lack of cleanliness. Neurological (17%), digestive (12%) and cardiovascular (3%) complications were the principal factors aggravating the disease. The following serotypes were identified: Salmonella typhi (47%), S. paratyphi B (25%), S. paratyphi C (20%) and S. paratyphi A (8%). Salmonellosis was associated with schistosomiasis (13%), nematodiasis (2.3%), sickle-cell anemia (7%) and HIV infection (8%). The mortality rate was 3.3%. Fluoroquinolones are the molecules of choice for treating typhoid and paratyphoid fevers.",
+      "journal": "Sante (Montrouge, France)",
+      "year": "2000",
+      "authors": [
+        "Okome-Nkoumou M",
+        "Ayo Nkana E",
+        "Békalé J",
+        "Kombila M"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Age Factors",
+        "Anti-Bacterial Agents",
+        "Cefotaxime",
+        "Cephalosporins",
+        "Chloramphenicol",
+        "Drug Resistance, Microbial",
+        "Female",
+        "Gabon"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11022153/"
+    },
+    {
+      "pmid": "17337835",
+      "title": "Paratyphoid sepsis.",
+      "abstract": "A large for gestational age male baby was born to a healthy young primigravida, on L-thyroxime, at 40 weeks by caesarean delivery in a tertiary care hospital. The baby had episodes of hypoglycemia during his immediate four postnatal days in the nursery that were successfully managed with intravenous glucose administration. The baby became unwell on day 5 and had a positive sepsis-screening test. Blood culture revealed a multidrug susceptible S. Paratyphi A strain, which he probably acquired on the first or second postnatal day from the contaminated expressed breast milk or the formula feed.",
+      "journal": "Indian journal of pediatrics",
+      "year": "2007",
+      "authors": [
+        "Randhawa V S",
+        "Kumar Ajay",
+        "Saili Arvind",
+        "Datta Vikram",
+        "Agrawal Charu"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Amikacin",
+        "Anti-Bacterial Agents",
+        "Bottle Feeding",
+        "Breast Feeding",
+        "Cesarean Section",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "India"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17337835/"
+    },
+    {
+      "pmid": "38196224",
+      "title": "Burden of enteric fever and antibiotic sensitivity in Nepalese Children Prior to Typhoid Vaccine in National Immunization Program.",
+      "abstract": "Enteric fever is a major public health problem in developing and under developed countries. Case fatality rate without treatment is 10-30% and with appropriate treatment is only 1-4%. Gold standard for diagnosis is isolation of Salmonella enterica from blood or bone marrow. Antibiotics resistance is skyrocketing with emergence of multidrug resistance S. typhi and extensively drug resistant S. typhi.",
+      "journal": "Journal of Nepal Health Research Council",
+      "year": "2023",
+      "authors": [
+        "Chapagain Ram Hari",
+        "Adhikari Santosh",
+        "Bhattarai Tribhuwan",
+        "Basaula Yubanidhi",
+        "Bhattarai Srijana"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Humans",
+        "Child, Preschool",
+        "Anti-Bacterial Agents",
+        "Typhoid Fever",
+        "Typhoid-Paratyphoid Vaccines",
+        "Azithromycin",
+        "Cefixime",
+        "Ceftriaxone",
+        "Nalidixic Acid"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38196224/"
+    },
+    {
+      "pmid": "20955459",
+      "title": "Immunological, antioxidative, and morphological response in combined treatment of ofloxacin and Lactobacillus fermentum ME-3 probiotic in Salmonella Typhimurium murine model.",
+      "abstract": "We aimed to elucidate the immunological (cytokines), biochemical (antioxidative), and patho-morphological responses in the gut and liver evoked by the addition of Lactobacillus fermentum ME-3 to ofloxacin (OFX) treatment in an experimental infection model of Salmonella enterica serovar Typhimurium. After challenge with S. Typhimurium and treatment according to different schemes, either with OFX and/or addition of L. fermentum ME-3, the mice were killed. Blood, liver, spleen, and small intestine samples were plated to detect S. Typhimurium and lactobacilli. Histological slides were prepared from the liver and ileum. The cytokines (IL-10, IFN-γ, and TNF-α), the glutathione peroxidase and reductase, the glutathione ratio, and the lipid peroxides (LPO) in mucosa of the small intestine and liver were estimated. The addition of L. fermentum ME-3 to OFX increased the eradication of S. Typhimurium from tested sites because of antagonistic and antioxidative properties, reduced the presence of t",
+      "journal": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+      "year": "2010",
+      "authors": [
+        "Truusalu Kai",
+        "Kullisaar Tiiu",
+        "Hütt Pirje",
+        "Mahlapuu Riina",
+        "Aunapuu Marina"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Cytokines",
+        "Disease Models, Animal",
+        "Glutathione Peroxidase",
+        "Glutathione Reductase",
+        "Immunohistochemistry",
+        "Intestine, Small",
+        "Limosilactobacillus fermentum",
+        "Lipid Peroxides"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20955459/"
+    },
+    {
+      "pmid": "18383953",
+      "title": "Current pattern of enteric fever: a prospective clinical and microbiological study.",
+      "abstract": "A prospective clinical and microbiological study was conducted in 145 blood culture positive cases of enteric fever below the age of 18 years over a period of eleven months (June 2004 to April 2005). It aimed to study the clinical profile, the relative magnitude of enteric fever in children, especially in those below the age of two years and to determine the current antibiotic sensitivity pattern of Salmonella typhi and S paratyphi. Enteric fever is a significant problem in the preschool years. Sixty-five per cent of cases were in the age group of 2 to 9 years, 27% in 0-5 years and 13% in age group 0-2 years. Ninety-two per cent of the cases were caused by S typhi. Paratyphoid fever is less common (8%), when occurs is caused by S paratyphi A. In-vitro sensitivity, using the Bauer-Kirby agar disc diffusion method, to ceftriaxone was 99%, cefixime-99%, cefotaxime-99%, cefpodoxime-72%, cefoperazone-93%, among quinolones, ciprofloxacin-95%, ofloxacin-83%, norfloxacin-79%. Sensitivity to th",
+      "journal": "Journal of the Indian Medical Association",
+      "year": "2007",
+      "authors": [
+        "Verma Madhoolika",
+        "Parashar Yogesh",
+        "Singh Anuradha",
+        "Kamoji Ravi"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Cephalosporins",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Humans",
+        "Infant",
+        "Male",
+        "Prospective Studies",
+        "Risk Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18383953/"
+    },
+    {
+      "pmid": "19493939",
+      "title": "A comparison of fluoroquinolones versus other antibiotics for treating enteric fever: meta-analysis.",
+      "abstract": "To review evidence supporting use of fluoroquinolones as first line agents over other antibiotics for treating typhoid and paratyphoid fever (enteric fever).",
+      "journal": "BMJ (Clinical research ed.)",
+      "year": "2009",
+      "authors": [
+        "Thaver Durrane",
+        "Zaidi Anita K M",
+        "Critchley Julia",
+        "Azmatullah Asma",
+        "Madni Syed Ali"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Child",
+        "Child, Preschool",
+        "Fluoroquinolones",
+        "Humans",
+        "Infant",
+        "Randomized Controlled Trials as Topic",
+        "Typhoid Fever"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19493939/"
+    },
+    {
+      "pmid": "31778196",
+      "title": "Deployment Infectious Disease Threats: IDCRP Initiatives and Vision Forward.",
+      "abstract": "Infectious diseases pose a significant threat to health and readiness of military personnel deployed globally during wartime and peacekeeping activities. Surveillance and improvement in mitigation through research of infectious disease threats remain an integral part of Force Health Protection. Herein, we review research efforts of the Infectious Disease Clinical Research Program related to deployment and travel-related infections.",
+      "journal": "Military medicine",
+      "year": "2019",
+      "authors": [
+        "Lalani Tahaniyat",
+        "Fraser Jamie",
+        "Riddle Mark S",
+        "Gutierrez Ramiro L",
+        "Hickey Patrick W"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "mesh_terms": [
+        "Clinical Laboratory Techniques",
+        "Communicable Diseases",
+        "Humans",
+        "Incidence",
+        "Military Medicine",
+        "Travel Medicine",
+        "United States",
+        "Warfare"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31778196/"
+    },
+    {
+      "pmid": "38364524",
+      "title": "Antimicrobial resistance spectrum and virulence characterization of Escherichia coli, Klebsiella pneumoniae and Proteus mirabilis isolated from asymptomatic and diarrheal rhesus monkeys.",
+      "abstract": "This study aims to deepen our understanding of the drug resistance and virulence characterization among gut bacteria in asymptomatic and diarrheal captive rhesus macaques (RMs). A total of 31 samples, including 8 asymptomatic RMs, 10 diarrheal RMs, and 1 dead RM, were collected from a breeding base in Sichuan, China, for bacterial isolation. As a result, Escherichia coli (n = 23), Klebsiella (n = 22), Proteus mirabilis (n = 10), Enterococcus (n = 10), Salmonella (n = 2), and Staphylococcus (n = 2) were isolated. All isolates were subjected to antimicrobial susceptibility testing and whole-genome sequencing, among which some E. coli, K. pneumoniae, and P. mirabilis were subjected to the Galleria mellonella and mice infection testing. The antimicrobial resistance rates of levofloxacin, enrofloxacin, and cefotaxime in diarrhea-associated isolates were higher than those of asymptomatic isolates. Consistent with the antimicrobial resistance phenotype, diarrheal isolates had a higher prevale",
+      "journal": "Microbiological research",
+      "year": "2024",
+      "authors": [
+        "Wu Jie",
+        "Zhou Quan",
+        "Qi Haoxuan",
+        "Lan Weiqi",
+        "Yang Shujian"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Klebsiella pneumoniae",
+        "Escherichia coli",
+        "Anti-Bacterial Agents",
+        "Macaca mulatta",
+        "Proteus mirabilis",
+        "Virulence",
+        "Drug Resistance, Bacterial",
+        "Diarrhea"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38364524/"
+    },
+    {
+      "pmid": "29183395",
+      "title": "Serotyping and antibiotic susceptibility patterns of Vibrio and Shigella isolates from diarrheal patients visiting a Tropical and Infectious Diseases Hospital in central Nepal.",
+      "abstract": "Diarrheal diseases are the major infectious disease in developing countries like Nepal. Lack of proper sanitation and antimicrobial resistance gained by microbes have challenged to address diarrheal diseases in resource-limited countries. Early diagnosis of disease and proper antibiotic treatment can significantly reduce the disease burden. This study was designed to determine the recent antimicrobial susceptibility pattern of Vibrio cholerae and Shigella spp. to assure the proper antibiotic treatment. Stool specimens were processed following microbiological protocol and identified by biochemical and serological tests recommended by the Clinical Laboratory Standard Institute.",
+      "journal": "BMC research notes",
+      "year": "2017",
+      "authors": [
+        "Maharjan Sujan",
+        "Rayamajhee Binod",
+        "Shreshtha Anima",
+        "Acharya Jyoti"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Diarrhea",
+        "Drug Resistance, Bacterial",
+        "Hospitals, Special",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Nepal",
+        "Serotyping",
+        "Shigella",
+        "Vibrio"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29183395/"
+    },
+    {
+      "pmid": "24844559",
+      "title": "Molecular subtyping and antimicrobial susceptibilities of Campylobacter coli isolates from diarrheal patients and food-producing animals in China.",
+      "abstract": "The aim of this study was to determine the molecular subtyping and antimicrobial susceptibility characteristics of Campylobacter coli isolates from different sources in China. One hundred thirteen C. coli isolates were subtyped by pulsed-field gel electrophoresis (PFGE), multilocus sequence typing (MLST), and porA and flaA short variable region (SVR) nucleotide sequences. Cluster analysis was performed based on the PFGE and sequence types (ST). Eighty-four PFGE patterns (SmaI) were observed in 113 isolates. Fifty-four STs (28 novel) and three clonal complexes (CC), 86% of which were clustered to CC828, were observed, as well as 52 porA and 37 flaA-SVR sequence alleles. MLST, porA, and flaA-SVR analysis demonstrated that many isolates from diarrheal patients shared identical genotypes with chicken isolates. Minimum inhibitory concentration values of 10 antibiotics were analyzed for 109 isolates isolated in 2011 using the E-test method. The most frequently observed resistance agents were",
+      "journal": "Foodborne pathogens and disease",
+      "year": "2014",
+      "authors": [
+        "Zhang Maojun",
+        "Liu Xiayang",
+        "Xu Xuebin",
+        "Gu Yixin",
+        "Tao Xiaoxia"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Alleles",
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Bacterial Proteins",
+        "Bacterial Typing Techniques",
+        "Campylobacter coli",
+        "Chickens",
+        "China",
+        "Cloning, Molecular",
+        "Cluster Analysis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24844559/"
+    },
+    {
+      "pmid": "28885920",
+      "title": "Antibiotic Therapy for Acute Watery Diarrhea and Dysentery.",
+      "abstract": "Diarrheal disease affects a large proportion of military personnel deployed to developing countries, resulting in decreased job performance and operational readiness. Travelers' diarrhea is self-limiting and generally resolves within 5 days; however, antibiotic treatment significantly reduces symptom severity and duration of illness. Presently, azithromycin is the preferred first-line antibiotic for the treatment of acute watery diarrhea (single dose 500 mg), as well as for febrile diarrhea and dysentery (single dose 1,000 mg). Levofloxacin and ciprofloxacin are also options for acute watery diarrhea (single dose 500 mg and 750 mg, respectively) and febrile diarrhea/dysentery in areas with high rates of Shigella (500 mg once for 3 days [once daily with levofloxacin and twice daily with ciprofloxacin]), but are becoming less effective because of increasing fluoroquinolone resistance, particularly among Campylobacter spp. Another alternate for acute watery diarrhea is rifaximin (200 mg 3",
+      "journal": "Military medicine",
+      "year": "2017",
+      "authors": [
+        "Tribble David R"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Azithromycin",
+        "Ciprofloxacin",
+        "Developing Countries",
+        "Diarrhea",
+        "Dysentery",
+        "Humans",
+        "Levofloxacin",
+        "Military Personnel",
+        "Rifamycins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28885920/"
+    },
+    {
+      "pmid": "35731948",
+      "title": "Pharmacokinetic-Pharmacodynamic Determinants of Clinical Outcomes for Rifampin-Resistant Tuberculosis: A Multisite Prospective Cohort Study.",
+      "abstract": "Rifampin-resistant and/or multidrug-resistant tuberculosis (RR/MDR-TB) treatment requires multiple drugs, and outcomes remain suboptimal. Some drugs are associated with improved outcome. It is unknown whether particular pharmacokinetic-pharmacodynamic relationships predict outcome.",
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "year": "2023",
+      "authors": [
+        "Heysell Scott K",
+        "Mpagama Stellah G",
+        "Ogarkov Oleg B",
+        "Conaway Mark",
+        "Ahmed Shahriar"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Antitubercular Agents",
+        "Rifampin",
+        "Pyrazinamide",
+        "Prospective Studies",
+        "Clofazimine",
+        "Tuberculosis, Multidrug-Resistant",
+        "Tuberculosis, Pulmonary",
+        "Mycobacterium tuberculosis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35731948/"
+    },
+    {
+      "pmid": "31061152",
+      "title": "Fluoroquinolones in Drug-Resistant Tuberculosis: Culture Conversion and Pharmacokinetic/Pharmacodynamic Target Attainment To Guide Dose Selection.",
+      "abstract": "Fluoroquinolones are group A drugs in tuberculosis guidelines. We aim to compare the culture conversion between new-generation (levofloxacin and moxifloxacin) and old-generation (ciprofloxacin and ofloxacin) fluoroquinolones, develop pharmacokinetic models, and calculate target attainment for levofloxacin and moxifloxacin. We included three U.S. tuberculosis centers. Patients admitted between 1984 and 2015, infected with drug-resistant tuberculosis, and who had received fluoroquinolones for ≥28 days were included. Demographics, sputum cultures and susceptibility, treatment regimens, and serum concentrations were collected. A time-to-event analysis was conducted, and Cox proportional hazards model was used to compare the time to culture conversion. Using additional data from ongoing studies, pharmacokinetic modelling and Monte Carlo simulations were performed to assess target attainment for different doses. Overall, 124 patients received fluoroquinolones. The median age was 40 years, an",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "year": "2019",
+      "authors": [
+        "Al-Shaer Mohammad H",
+        "Alghamdi Wael A",
+        "Alsultan Abdullah",
+        "An Guohua",
+        "Ahmed Shahriar"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Antitubercular Agents",
+        "Ciprofloxacin",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Fluoroquinolones",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31061152/"
+    },
+    {
+      "pmid": "17620240",
+      "title": "Emergence and control of fluoroquinolone-resistant, toxin A-negative, toxin B-positive Clostridium difficile.",
+      "abstract": "Clostridium difficile is a major cause of infectious diarrhea in hospitalized patients. Between August 2003 and January 2004, we experienced an increase in the incidence of C. difficile-associated disease. We describe the investigation into and management of the outbreak in this article.",
+      "journal": "Infection control and hospital epidemiology",
+      "year": "2007",
+      "authors": [
+        "Drudy Denise",
+        "Harnedy Norma",
+        "Fanning Seamus",
+        "Hannan Margaret",
+        "Kyne Lorraine"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Anti-Bacterial Agents",
+        "Bacterial Proteins",
+        "Bacterial Toxins",
+        "Clindamycin",
+        "Clostridioides difficile",
+        "Cross Infection",
+        "Disease Outbreaks",
+        "Drug Resistance, Bacterial"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17620240/"
+    },
+    {
+      "pmid": "37107131",
+      "title": "Phenotypic and Genotypic Characteristics of Antimicrobial Resistance in Citrobacter freundii Isolated from Domestic Ducks (Anas platyrhynchos domesticus) in Bangladesh.",
+      "abstract": "Antimicrobial resistance (AMR) in Citrobacter freundii poses a serious challenge as this species is one of the sources of nosocomial infection and causes diarrheal infections in humans. Ducks could be the potential source of multidrug-resistant (MDR) C. freundii; however, AMR profiles in C. freundii from non-human sources in Bangladesh have remained elusive. This study aimed to detect C. freundii in domestic ducks (Anas platyrhynchos domesticus) in Bangladesh and to determine their phenotypic and genotypic antibiotic susceptibility patterns. A total of 150 cloacal swabs of diseased domestic ducks were screened using culturing, staining, biochemical, polymerase chain reaction (PCR), and matrix-assisted laser desorption/ionization time-of-flight (MALDI-TOF) to detect C. freundii. Phenotypic and genotypic antibiotic susceptibility patterns were done by the disk diffusion method and PCR, respectively. In total, 16.67% (25/150) of the samples were positive for C. freundii. C. freundii isola",
+      "journal": "Antibiotics (Basel, Switzerland)",
+      "year": "2023",
+      "authors": [
+        "Ahmed Tarana",
+        "Islam Md Saiful",
+        "Haider Najmul",
+        "Elton Linzy",
+        "Hasan Badrul"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37107131/"
+    },
+    {
+      "pmid": "1319301",
+      "title": "In vitro activity of lomefloxacin and other antimicrobials against bacterial enteritis pathogens.",
+      "abstract": "Lomefloxacin is a new, difluoroquinolone. In this study, the in vitro activity of lomefloxacin against clinical isolates of a variety of bacterial species associated with acute diarrheal disease was determined and compared with that of ciprofloxacin, ofloxacin, amoxicillin, sulphamethoxazole, trimethoprim, tetracycline, and chloramphenicol. Bacterial isolates were obtained from different geographical areas, including Western Europe and the United Kingdom, Southern Europe, Africa, the Middle East, South and Southeast Asia, and South America, and were included to reflect the range of susceptibility seen throughout the world. Minimum inhibitory concentrations (MICs) were determined using an agar incorporation technique in Mueller-Hinton medium supplemented when necessary with saponin-lysed horse blood at a final concentration of 10% vol/vol. Lomefloxacin was highly active against all the species examined which included Salmonella spp., Shigella spp., Escherichia coli enterotoxigenic [(ETE",
+      "journal": "Diagnostic microbiology and infectious disease",
+      "year": "1992",
+      "authors": [
+        "Felmingham D",
+        "Robbins M J"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Bacteria",
+        "Enteritis",
+        "Fluoroquinolones",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Quinolones"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1319301/"
+    }
+  ]
+}

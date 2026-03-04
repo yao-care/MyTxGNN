@@ -1,0 +1,1049 @@
+{
+  "drug": "Ibuprofen",
+  "drugbank_id": "DB01050",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:01:45Z",
+  "indications": [
+    {
+      "indication": "osteoarthritis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 11,
+        "rct_articles": 2,
+        "review_articles": 6,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "rheumatoid arthritis",
+      "evidence_level": "L1",
+      "trials": 13,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 6,
+        "rct_articles": 2,
+        "review_articles": 8,
+        "other_articles": 0,
+        "total_trials": 13,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "patent ductus arteriosus",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 8,
+        "phase1_trials": 0,
+        "other_trials": 8,
+        "rct_articles": 3,
+        "review_articles": 6,
+        "other_articles": 1,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "osteoarthritis susceptibility",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 3,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 1,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 3
+      }
+    },
+    {
+      "indication": "arthropathy",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 8,
+        "phase2_trials": 1,
+        "phase1_trials": 1,
+        "other_trials": 10,
+        "rct_articles": 3,
+        "review_articles": 2,
+        "other_articles": 5,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 73,
+  "total_articles": 42,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00640627",
+      "title": "A Double-Blind, Placebo-Controlled Study of the Efficacy and Tolerability of Once Daily Celebrex® (Celecoxib) vs. Placebo in the Treatment of Subjects With Osteoarthritis of the Knee Non-Responsive to Naproxen and Ibuprofen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-12",
+      "completion_date": "2004-09",
+      "country": "United States",
+      "enrollment": 380,
+      "brief_summary": "To compare the safety and efficacy of celecoxib versus placebo in the treatment of patients with knee osteoarthritis who were unresponsive to treatment with prescription strength naproxen and ibuprofen or who could not tolerate prescription strength naproxen and ibuprofen",
+      "eligibility_criteria": "Inclusion criteria:\n\n* OA of the knee in flare state at baseline visit and functional capacity class of I-III\n* Failed adequate trials of both naproxen and ibuprofen (prescription strength) within the past 5 years due to lack of efficacy, tolerability or both; duration of prescription strength ibupr",
+      "endpoints": [
+        "Change from baseline in Patient's Assessment of Arthritis Pain, according to visual analog scale (VAS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00640627"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00531427",
+      "title": "Randomized, Double-blind, Placebo-controlled With Open-label Run-in Assessing Efficacy, Tolerability,Safety of BTDS 10 or 20 Compared to Placebo in Opioid-naïve Subjects w/Moderate to Severe, Chronic Pain Due to OA of Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2009-11",
+      "country": "United States",
+      "enrollment": 567,
+      "brief_summary": "The objective of this study is to determine the analgesic efficacy and safety of Buprenorphine Transdermal System (BTDS) 10 and 20 compared to placebo in opioid-naïve subjects with moderate to severe chronic pain due to osteoarthritis (OA) of the knee. The double-blind treatment intervention duration is 12 weeks, during which time supplemental analgesic medication (immediate-release oxycodone for the first 6 days postrandomization and acetaminophen or ibuprofen for the remainder of the double-bl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* subjects with moderate to severe chronic osteoarthritis (OA) pain of the knee (lasting several hours daily) as their predominant pain condition,\n* clinical diagnosis of OA of the knee 1 year or longer,\n* subjects treated within the 14 days prior to screening with nonopioid the",
+      "endpoints": [
+        "\"Average Pain Over the Last 24 Hours\" Score of the Study Knee at Week 12 of the Double Blind Phase."
+      ],
+      "sponsor": "Purdue Pharma LP",
+      "url": "https://clinicaltrials.gov/study/NCT00531427"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00565500",
+      "title": "A Placebo-Controlled, Double-Blind, Randomized Study of the Potential Interaction Between Aspirin and Ibuprofen or Celecoxib.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2005-04",
+      "country": "Italy",
+      "enrollment": 24,
+      "brief_summary": "Study design: Single center, placebo-controlled, double blind, parallel groups. To evaluate the potential interaction between aspirin and ibuprofen or celecoxib in patients with osteoarthritis (OA) and documented stable ischemic heart disease, a total of 24 patients chronically treated with aspirin will be randomly assigned to one of the 3 treatment groups: 1) celecoxib 200 mg bid; 2) ibuprofen 600 mg tid; 3) placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. male or female, age 18-75;\n2. subjects with osteoarthritis and documented stable ischemic heart disease;\n3. the patient is on long-term aspirin prophylaxis for the ischemic condition;\n4. the patient requires or is eligible for chronic treatment with an antiinflammatory and/or",
+      "endpoints": [
+        "serum thromboxane (TX)B2"
+      ],
+      "sponsor": "G. d'Annunzio University",
+      "url": "https://clinicaltrials.gov/study/NCT00565500"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05742763",
+      "title": "Platelet-Rich Plasma and the Effects of NSAIDs on Pain and Functional Scores in Knee Osteoarthritis",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2023-11-01",
+      "completion_date": "2024-10-07",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The primary research purpose is to determine if the use of a drug therapy intervention (each study participant will be randomly assigned to receive one of 3 study medications which will be blinded from everyone, including the study participants, and all research staff (except the principal investigator), combined with a series of 3 injections of Platelet-Rich Plasma (PRP) into an osteoarthritic knee joint, leads to reductions in knee pain, and improvements in physical function. Improvements will",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age \\>50 (all genders, and all races)\n2. Unilateral Symptoms\n3. Symptomatic knee pain on most days in the past month\n4. OA diagnosed with radiographic imaging (K-L grade 2 or 3)\n5. Can commit to 8 office visits (initial and 7 follow up) over a 12-month period\n6. Able to under",
+      "endpoints": [
+        "VAS pain scores after combination interventions of blinded medication therapy and a series of 3 PRP injections.",
+        "WOMAC pain and functionality scores after combination interventions of blinded medication therapy and a series of 3 PRP injections.",
+        "KOOS pain and functionality scores after combination interventions of blinded medication therapy and a series of 3 PRP injections."
+      ],
+      "sponsor": "QC Kinetix LLC",
+      "url": "https://clinicaltrials.gov/study/NCT05742763"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01119885",
+      "title": "Fentanyl Matrix for the Treatment of Pain Caused by Osteoarthritis of the Knee or Hip: Improvement of Pain and Function: Multicenter, Open-label, Prospective, Observational Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2009-01",
+      "country": "N/A",
+      "enrollment": 742,
+      "brief_summary": "The purpose of this study is to investigate the utility of fentanyl matrix for the treatment of pain due to osteoarthritis (OA) of knee or hip, which was not adequately controlled by non-opioid analgesic (e.g. NSAIDs or COX-II inhibitors) or weak opioids \\[tramadol HClacetaminophen, tramadol or codeine (or combinations with acetaminophen/ibuprofen)\\].",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who complain of chronic pain caused by osteoarthritis of the knee or hip persisting for 3 months or longer\n* Patients who can fully observe the overall clinical study requirements including K-WOMAC completion at the investigator's discretion\n* Patients who complain of",
+      "endpoints": [
+        "Change in pain intensity from baseline through final evaluation as measured by Numeric Rating Scale"
+      ],
+      "sponsor": "Janssen Korea, Ltd., Korea",
+      "url": "https://clinicaltrials.gov/study/NCT01119885"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00613106",
+      "title": "Double-Blind Follow-On Safety Study of HZT-501 (Ibuprofen 800 mg/Famotidine 26.6 mg)in Subjects Who Have Completed Participation in Horizon Protocol HZ-CA-301 (NCT00450658)or Horizon Protocol HZ-CA-303 (NCT00450216)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2008-10",
+      "country": "United States",
+      "enrollment": 179,
+      "brief_summary": "The purpose of this study is to evaluate the safety of long-term treatment with HZT-501.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Expected to continue to require daily administration of an NSAID for at least the coming 6 months.\n* Subject completed the 24-week Treatment period of either Horizon Protocol HZ-CA-301 or HZ-CA-303\n\nExclusion Criteria:\n\n* Subject didn't meet all of the Inclusion and Exclusion ",
+      "endpoints": [
+        "Number of Participants With Treatment Emergent Adverse Events"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00613106"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00442546",
+      "title": "A Multicenter, Double-Blind Randomized, Placebo-Controlled Study Of The Efficacy And Safety Of Pregabalin In The Treatment Of Subjects With Post-Operative Pain Following Total Knee Arthroplasty (TKA)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 307,
+      "brief_summary": "Pregabalin added to the standard of care with dosing starting preoperatively and continuing for up to 6 weeks post surgery will decrease the intensity of post-operative pain following total knee replacement.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with osteoarthritis (OA) undergoing elective TKA under regional anesthesia (neuroaxial with or without peripheral nerve block).\n* Subjects able to demonstrate sufficient psychomotor dexterity and cognitive capacity to use Patient Controlled Analgesia/Patient Controlle",
+      "endpoints": [
+        "Subject Reported Worst Pain Score in Daily Diaries Using the Worst Pain Item of the Modified Brief Pain Inventory - Short Form (m-BPI-sf)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00442546"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00784810",
+      "title": "A Double-blind, Double-dummy, Parallel Group, Randomised Study to Compare the Efficacy & Tolerability of Oxycodone/Naloxone Prolonged Release (OXN PR) & Codeine/Paracetamol in the Treatment of Moderate to Severe Chronic Low Back Pain or Pain Due to Osteoarthritis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2011-06",
+      "country": "United Kingdom",
+      "enrollment": 247,
+      "brief_summary": "The purpose of this study is to compare oxycodone/naloxone combination tablet and codeine/paracetamol tablets in the treatment of moderate to severe chronic low back pain or pain due to osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subjects at least 18 years or older.\n2. Female subjects less than one year post-menopausal must have a negative urine pregnancy test recorded prior to the first dose of study medication, be non-lactating, and willing to use adequate and reliable contraception t",
+      "endpoints": [
+        "Average Daily Pain Score Box Scale-11 (BS-11) Recorded at Week 12 (Average Pain Over Last 24 Hours)"
+      ],
+      "sponsor": "Napp Pharmaceuticals Limited",
+      "url": "https://clinicaltrials.gov/study/NCT00784810"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05530551",
+      "title": "The Effect of Single vs Multiple Prophylactic Antibiotic Doses on PJI Following Primary THA in Patients With Osteoarthritis: A Cross-over, Cluster Randomized Controlled, Non-inferiority Trial Based on National Quality Databases. ProHipQ-OA",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-09-01",
+      "completion_date": "2025-03-01",
+      "country": "Denmark",
+      "enrollment": 20000,
+      "brief_summary": "Aim: To compare the effect of one single dose versus multiple doses of prophylactic antibiotics administered within 24 hours, on the development of PJI in patients with osteoarthritis undergoing primary THA.\n\nThe study is designed as a cross-over, cluster randomized, non-inferiority trial. All Danish orthopedic surgery departments performing primary THA with the majority being within inclusion criteria will be involved: Based on national quality databases, two-year cohorts of approximately 20,00",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1\\. All patients receiving a primary Total Hip Arthroplasty (THA) due to primary and secondary causes of osteoarthritis\n\nExclusion Criteria:\n\n1. Patients receiving a primary THA due to either acute or sequelae of proximal femoral or acetabular fractures\n2. Patients receiving a p",
+      "endpoints": [
+        "Incidence of Prosthetic joint infections (PJI)"
+      ],
+      "sponsor": "University Hospital Bispebjerg and Frederiksberg",
+      "url": "https://clinicaltrials.gov/study/NCT05530551"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04320914",
+      "title": "High Intensity Laser Therapy (Classes IV) and Ibuprofen Gel Phonophoresis for Treating Knee Osteoarthritis Among People Living in Hilly Terrain: A Randomized, Double Blind, Controlled Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-09-28",
+      "completion_date": "2023-06-30",
+      "country": "India",
+      "enrollment": 80,
+      "brief_summary": "A total of 80 patients with knee osteoarthritis (KOA) aged between fourty five and seventy years will be recruited by simple random sampling to participate in two group, randomized, double blind, controlled study. Recruited patients will be randomly divided in to two groups high intensity-laser therapy (HILT) group and ibuprofen gel phonophoresis (IGP) group. Duration of the treatment will be 8 minutes in one session/knee joint for each day for 3 days/week for 8 weeks.The pain and quality of lif",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with clinical knee OA according to the diagnostic criteria of ACR were included in the study\n\nExclusion Criteria:\n\n* Unwillingness to participate in the study\n* Recent history (within the last 3 months) of physical therapy to the same joint\n* Recent history ",
+      "endpoints": [
+        "Digitalized pain pressure algometer (ALGO-DS-01)",
+        "Western Ontario and Mc Master Universities Osteoarthritis Index (WOMAC)"
+      ],
+      "sponsor": "Maharishi Markendeswar University (Deemed to be University)",
+      "url": "https://clinicaltrials.gov/study/NCT04320914"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00372801",
+      "title": "A Double-Blind, Randomised, Placebo-Controlled, Cross-Over Pilot Study to Investigate the Efficacy of Ibuprofen in Patients With Osteoarthritis of the Knee Following Administration of a Single Dose",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2005-08",
+      "completion_date": "",
+      "country": "Australia",
+      "enrollment": 36,
+      "brief_summary": "To demonstrate that new drugs work, many complex multidose studies are often required. The intent of this study is to use Ibuprofen as an example of a marketed pain relief drug to validate a simpler single dose model for future assessment of new pain drugs.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Subjects diagnosed with primary Osteoarthritis of the knee.\n* Have at least 3 months in symptom duration prior to screening visit.\n* Regular user of a prescribed non-steroidal anti-inflammatory drug (NSAID) or selective cyclo-oxygenase II (COX2) inhibitor for management of kne",
+      "endpoints": [
+        "Pain intensity recorded over 0-8 hours using question 1 of the WOMAC (Western Ontario and McMaster University Osteoarthritis Index)pain subscale (visual analog scale)."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00372801"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05318521",
+      "title": "A Randomized, Double-Blind, Parallel-Arm Study Comparing the Efficacy of Investigational Product \"Ibuprofen Modified-Release Tablets 800 mg\" and Placebo in Patients With Chronic Pain Related to Osteoarthritis of the Knee",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-12-10",
+      "completion_date": "2022-10-19",
+      "country": "United States",
+      "enrollment": 500,
+      "brief_summary": "It is a Phase III efficacy study as the title 'A randomized, double-blind, parallel-arm study comparing the efficacy of investigational product \"Ibuprofen Modified-Release Tablets 800 mg\" and placebo in patients with chronic pain related to osteoarthritis of the knee.' The primary objective is to determine the analgesic efficacy of orally administered IBUMR in patients with osteoarthritis (OA) of the knee.\n\nThe Secondary objectives are to compare the treatment effect on patient pain, function an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female patients ≥18 years of age at the screening visit.\n2. Patients diagnosed with symptomatic OA of the knee based on the American College of Rheumatology (ACR) clinical criteria and have an American Rheumatology Association (ARA) functional class rating of I, II, ",
+      "endpoints": [
+        "Change from baseline in the WOMAC visual analogue 3.1 Pain intensity subscale, over 12 weeks of treatment. [Time frame: Baseline week up to Week 12]"
+      ],
+      "sponsor": "Overseas Pharmaceuticals, Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05318521"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04170218",
+      "title": "Quality of Care for Knee and Hip Osteoarthritis in Elderly Patients: a Multicentric Observational Study in France Using Quality Indicators Assessed by Questionnaire",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-12-01",
+      "completion_date": "2022-12-01",
+      "country": "France",
+      "enrollment": 405,
+      "brief_summary": "Introduction: Hip and knee osteoarthritis (OA) was ranked in 2010 as the eleventh highest contributor to global disability. In France in 2014, non-spinal OA was the leading self-reported cause of morbidity among adults over sixty-five years of age, with a prevalence of 49.5 per cent. OA is known to be the first cause of disability in activities of daily life and a risk factor of frailty among people over seventy-five years of age. Despite its major impact on the elderly population's quality of l",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients aged seventy-five years or over\n* with symptomatic hip or knee osteoarthritis according to the American College of Rheumatology criteria\n* with pain for more than three months\n* affiliated to French social security\n* having given their oral non-opposition to participa",
+      "endpoints": [
+        "number of participants referred to an orthopedic surgeon as assessed by ACOVE's quality indicator questionnaire"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT04170218"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01066676",
+      "title": "Prospective, Clinical Trial to Investigate Safety, Tolerability and Efficacy of Dexibuprofen Gebro 400 mg Powder for Oral Suspension (Test) Compared to Ibuprofen 400 mg Powder for Oral Suspension (Reference) in Patients Suffering From Osteoarthritis of the Hip or Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2012-06",
+      "country": "Austria",
+      "enrollment": 482,
+      "brief_summary": "Medical condition under investigation: Osteoarthritis of the hip or knee\n\nNumber of patients planned: 480 adult patients\n\nMain objective: To evaluate and compare the tolerability profile of Dexibuprofen Gebro 400 mg powder for oral suspension compared to Ibuprofen 400 mg in patients with painful osteoarthritis of the hip or knee\n\nSecondary objectives: To compare the overall efficacy of Dexibuprofen Gebro 400 mg powder for oral suspension compared to Ibuprofen 400 mg in patients suffering from di",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* male or female patients aged between 18 and 75 years\n* everyday joint pain for the past three months\n* global pain intensity in the involved joint (hip or knee) of \"moderate\" to \"severe\" within the last 48 h\n\nExclusion Criteria:\n\n* acute inflammation or ischaemic necrosis\n* pa",
+      "endpoints": [
+        "Tolerability profile of Dexibuprofen Gebro 400 mg powder for oral suspension compared to Ibuprofen 400 mg in patients with painful osteoarthritis of the hip or knee"
+      ],
+      "sponsor": "Gebro Pharma GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT01066676"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00312221",
+      "title": "Randomized, Double-blind, Multicenter Study to Determine the Efficacy and Safety of BTDS 20 or Oxycodone Immediate-Release (OxyIR) Versus BTDS 5 in Subjects With Moderate to Severe Osteoarthritis (OA) Pain",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2004-04",
+      "completion_date": "2005-08",
+      "country": "United States",
+      "enrollment": 418,
+      "brief_summary": "The objective of this study is to demonstrate the effectiveness and tolerability of the buprenorphine transdermal system (20 mg) in comparison to the buprenorphine transdermal system (5 mg) and oxycodone immediate release in subjects with moderate to severe osteoarthritis pain currently treated with oral opioids. The double-blind treatment intervention duration is 12 weeks during which time supplemental analgesic medication (acetaminophen, ibuprofen, immediate release oxycodone) will be provided",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the hip, knee, or spine for 1 year or longer, confirmed by radiographic evidence within the last 2 years.\n* Good pain control while on a stable dose of an opioid analgesic for osteoarthritis.\n\nExclusion Criteria:\n\n* Not currently taking and tolerating opioids",
+      "endpoints": [
+        "\"Average Pain Over the Last 24 Hours\" Scores at Weeks 4, 8, and 12 of the Double-blind Phase."
+      ],
+      "sponsor": "Purdue Pharma LP",
+      "url": "https://clinicaltrials.gov/study/NCT00312221"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00630929",
+      "title": "A Study of the Efficacy and Tolerability of Once Daily Celebrex (Celecoxib) and Three Times Daily Ibuprofen vs. Placebo in the Treatment of Subjects With Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2004-02",
+      "country": "Germany, Spain, United Kingdom",
+      "enrollment": 388,
+      "brief_summary": "To compare the efficacy and safety of celecoxib versus ibuprofen in subjects with osteoarthritis (OA) of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInclusion criteria:\n\n* Aged \\>=40 years old\n* Diagnosed with OA of the knee according to the American College of Rheumatology and OA in flare state at baseline visit\n* Functional capacity class of I-III\n\nExclusion Criteria:\n\nExclusion criteria:\n\n* Inflammatory arthritis or gout ",
+      "endpoints": [
+        "Change from baseline in patient's assessment of arthritis pain according to visual analogue scale"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00630929"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00450216",
+      "title": "A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 in Subjects Requiring NSAID Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2008-10",
+      "country": "N/A",
+      "enrollment": 906,
+      "brief_summary": "The purpose of this study is to evaluate whether HZT-501 is effective in reducing the rate of development of ibuprofen-associated ulcers in patients who require long-term daily use of ibuprofen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Expected to require daily administration of an NSAID for at least the coming six months for conditions such as osteoarthritis, rheumatoid arthritis, chronic low back pain, chronic regional pain syndrome, and chronic soft tissue pain.\n* Did not use a NSAID within the 30 days pr",
+      "endpoints": [
+        "Number of Participants Who Develop Endoscopically-diagnosed Gastric Ulcers"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00450216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00631514",
+      "title": "Relevance of the Interaction Between Antihypertensive and Antirheumatic Drugs in a Family Practice",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2006-09",
+      "country": "Croatia",
+      "enrollment": 88,
+      "brief_summary": "NSAIDs may increase blood pressure and blunt the effects of many antihypertensives. Members of these drug classes differ in their propensity to such an interaction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Treated hypertensives of either gender aged between 55 and 76 years\n* About 50% with concomitant osteoarthritis of the hip or knee\n\nExclusion Criteria:\n\n* Normotensive persons or untreated hypertensives\n* Individuals outside the age limits\n* General exclusion criteria (e.g. un",
+      "endpoints": [
+        "Arterial blood pressure"
+      ],
+      "sponsor": "University of Split",
+      "url": "https://clinicaltrials.gov/study/NCT00631514"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00450658",
+      "title": "A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 in Subjects Requiring NSAID Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2008-10",
+      "country": "N/A",
+      "enrollment": 627,
+      "brief_summary": "The purpose of this study is to evaluate whether HZT-501 is effective in reducing the rate of development of ibuprofen-associated ulcers in patients who require long-term daily use of ibuprofen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Expected to require daily administration of a nonsteroidal anti-inflammatory drug (NSAID) for at least the coming six months for conditions such as osteoarthritis, rheumatoid arthritis, chronic low back pain, chronic regional pain syndrome, and chronic soft tissue pain.\n* Did ",
+      "endpoints": [
+        "Number of Subjects Who Develop Endoscopically-diagnosed Upper Gastrointestinal Ulcers Confirmed by Endoscopy."
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00450658"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06603662",
+      "title": "Systemic Oral Glucocorticoids for the Treatment of Acute Osteoarthritis Pain in the Emergency Department",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-02-24",
+      "completion_date": "2027-12",
+      "country": "United States",
+      "enrollment": 192,
+      "brief_summary": "The purpose of this clinical trial is to compare the analgesic effects (relief of pain) of glucocorticoids (steroids) and pain medication versus pain medication alone in adult patients presenting to the emergency department with joint pain due to osteoarthritis. Steroids are drugs that can reduce inflammation and are used commonly for many different medical conditions.\n\nIn brief, the central aims of the study are to:\n\n1. Assess the efficacy of adding oral glucocorticoid medications to the standa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years\n* Acute monoarticular arthritic joint pain affecting native knee, hip, or shoulder presumed to be related to osteoarthritis\n* Acute pain above baseline starting less than 72 hour prior to ED visit\n* Planned discharge from the ED\n* History of osteoarthritis of the",
+      "endpoints": [
+        "Change in Resting Pain Score at 3 Days (Effectiveness Outcome)",
+        "Adverse Events (Safety Outcome)"
+      ],
+      "sponsor": "WellSpan Health",
+      "url": "https://clinicaltrials.gov/study/NCT06603662"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "24672232",
+      "title": "Efficacy and safety of Curcuma domestica extracts compared with ibuprofen in patients with knee osteoarthritis: a multicenter study.",
+      "abstract": "To determine the efficacy and safety of Curcuma domestica extracts in pain reduction and functional improvement.",
+      "journal": "Clinical interventions in aging",
+      "year": "2014",
+      "authors": [
+        "Kuptniratsaikul Vilai",
+        "Dajpratham Piyapat",
+        "Taechaarpornkul Wirat",
+        "Buntragulpoontawee Montana",
+        "Lukkanapichonchut Pranee"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Curcuma",
+        "Female",
+        "Humans",
+        "Ibuprofen",
+        "Male",
+        "Middle Aged",
+        "Osteoarthritis, Knee",
+        "Phytotherapy",
+        "Plant Extracts"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24672232/"
+    },
+    {
+      "pmid": "391117",
+      "title": "Ibuprofen.",
+      "abstract": "Ibuprofen was introduced in England in 1967 and in the United States in 1974 as an anti-inflammatory drug in humans. It has weak but definite anti-inflammatory properties similar to those of aspirin, milligram for milligram, but with considerably less adverse effect on the stomach. Ibuprofen is chemically related to fenoprofen and naproxen, but lack of effect for any one in this chemical class of propionic-acid derivatives does not necessarily mean lack of effect for any other in an individual patient. The drug has analgesic properties, probably related to its anti-inflammatory effect. It inhibits prostaglandin synthesis and has no effect on the adrenopituitary axis, making it a nonsteroidal agent. Ibuprofen has been shown to be effective in rheumatoid arthritis and osteoarthritis and is probably effective in ankylosing spondylitis, gout, and Bartter's syndrome.",
+      "journal": "Annals of internal medicine",
+      "year": "1979",
+      "authors": [
+        "Kantor T G"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Analgesics",
+        "Anti-Inflammatory Agents",
+        "Arthritis",
+        "Digestive System",
+        "Drug Interactions",
+        "Humans",
+        "Ibuprofen"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/391117/"
+    },
+    {
+      "pmid": "38937394",
+      "title": "Paracetamol Combination Therapy for Back Pain and Osteoarthritis: A Systematic Review and Meta-Analyses.",
+      "abstract": "Although paracetamol (acetaminophen) combined with other analgesics can reduce pain intensity in some pain conditions, its effectiveness in managing low back pain and osteoarthritis is unclear. This systematic review investigated whether paracetamol combination therapy is more effective and safer than monotherapy or placebo in low back pain and osteoarthritis.",
+      "journal": "Drugs",
+      "year": "2024",
+      "authors": [
+        "Cao Zhiying",
+        "Han Kaiyue",
+        "Lu Hanting",
+        "Illangamudalige Sandalika",
+        "Shaheed Christina Abdel"
+      ],
+      "pub_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Acetaminophen",
+        "Analgesics, Non-Narcotic",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Drug Therapy, Combination",
+        "Ibuprofen",
+        "Low Back Pain",
+        "Osteoarthritis",
+        "Quality of Life",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38937394/"
+    },
+    {
+      "pmid": "25560713",
+      "title": "Comparative effectiveness of pharmacologic interventions for knee osteoarthritis: a systematic review and network meta-analysis.",
+      "abstract": "The relative efficacy of available treatments of knee osteoarthritis (OA) must be determined for rational treatment algorithms to be formulated.",
+      "journal": "Annals of internal medicine",
+      "year": "2015",
+      "authors": [
+        "Bannuru Raveendhara R",
+        "Schmid Christopher H",
+        "Kent David M",
+        "Vaysbrot Elizaveta E",
+        "Wong John B"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Systematic Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Acetaminophen",
+        "Adrenal Cortex Hormones",
+        "Analgesics, Non-Narcotic",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Celecoxib",
+        "Cyclooxygenase 2 Inhibitors",
+        "Diclofenac",
+        "Humans",
+        "Hyaluronic Acid",
+        "Ibuprofen"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25560713/"
+    },
+    {
+      "pmid": "27959716",
+      "title": "Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis.",
+      "abstract": "The cardiovascular safety of celecoxib, as compared with nonselective nonsteroidal antiinflammatory drugs (NSAIDs), remains uncertain.",
+      "journal": "The New England journal of medicine",
+      "year": "2016",
+      "authors": [
+        "Nissen Steven E",
+        "Yeomans Neville D",
+        "Solomon Daniel H",
+        "Lüscher Thomas F",
+        "Libby Peter"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis",
+        "Cardiovascular Diseases",
+        "Celecoxib",
+        "Cyclooxygenase 2 Inhibitors",
+        "Female",
+        "Gastrointestinal Diseases",
+        "Humans",
+        "Ibuprofen"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27959716/"
+    },
+    {
+      "pmid": "36692805",
+      "title": "Risk of COVID-19 Diagnosis and Hospitalisation in Patients with Osteoarthritis or Back Pain Treated with Ibuprofen Compared to Other NSAIDs or Paracetamol: A Network Cohort Study.",
+      "abstract": "We aimed to investigate whether ibuprofen use, compared with other non-selective non-steroidal anti-inflammatory drugs (ns-NSAIDs), cyclooxygenase-2 inhibitors (COX-2i) or paracetamol, increases the risk of coronavirus disease 2019 (COVID-19) diagnosis or hospitalisation.",
+      "journal": "Drugs",
+      "year": "2023",
+      "authors": [
+        "Xie Junqing",
+        "Brash James T",
+        "Turkmen Cigdem",
+        "Driessen Stefan",
+        "Varrassi Giustino"
+      ],
+      "pub_types": [
+        "Meta-Analysis",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Ibuprofen",
+        "Acetaminophen",
+        "COVID-19 Testing",
+        "Cohort Studies",
+        "Pandemics",
+        "COVID-19",
+        "Osteoarthritis",
+        "Cyclooxygenase 2 Inhibitors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36692805/"
+    },
+    {
+      "pmid": "22471358",
+      "title": "Osteoarthritis of the knee and hip. Part II: therapy with ibuprofen and a review of clinical trials.",
+      "abstract": "We review the pharmacological properties and clinical evidence pertaining to the efficacy of ibuprofen as a first-line treatment in hip and knee osteoarthritis (OA). In the context of our previous paper's exploration of the aetiology and pathogenesis of OA as a basis for pharmacotherapy, we discuss the pharmacokinetics (PK) and clinical pharmacodynamics (PD) of ibuprofen relevant to OA.",
+      "journal": "The Journal of pharmacy and pharmacology",
+      "year": "2012",
+      "authors": [
+        "Adatia Aleem",
+        "Rainsford K D",
+        "Kean Walter F"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthralgia",
+        "Hip",
+        "Hip Joint",
+        "Humans",
+        "Ibuprofen",
+        "Knee",
+        "Knee Joint",
+        "Osteoarthritis, Hip",
+        "Osteoarthritis, Knee"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22471358/"
+    },
+    {
+      "pmid": "28035387",
+      "title": "Therapeutic mechanisms of ibuprofen, prednisone and betamethasone in osteoarthritis.",
+      "abstract": "The present study aimed to investigate the therapeutic mechanisms of nonsteroidal anti-inflammatory drugs (NSAIDs) and steroids in osteoarthritis (OA). The CHON‑002 human chondrocyte cell line was used in the study. The levels of the cytokines, interleukin (IL)‑1β, IL‑6, IL‑8 and IL‑10, released by cells treated with tumor necrosis factor‑α (TNF‑α) were determined by ELISA. Levels of collagen I, aggrecan, matrix metalloproteinase (MMP)‑1, MMP‑13, signal transducer and activator of transcription (STAT) 3, nuclear factor‑κB (NF‑κB) subunit p65 and inhibitory subunit of NF‑κB (IκB) following treatment with IL‑1β, IL‑6, IL‑8 or IL‑10 were assessed by western blot. Levels of IL‑6 and IL‑8 were measured by ELISA following administration of TNF‑α combined with certain drugs. In addition, these parameters were evaluated by western blot following incubation with drugs in combination with IL‑6 or IL‑8 and after knockdown of STAT3, by addition of small interfering RNA (siRNA)‑STAT3 (siSTAT3), an ",
+      "journal": "Molecular medicine reports",
+      "year": "2017",
+      "authors": [
+        "Sun Fenglong",
+        "Zhang Yaohua",
+        "Li Qiang"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aggrecans",
+        "Anti-Inflammatory Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Betamethasone",
+        "Cell Line",
+        "Chondrocytes",
+        "Collagen Type I",
+        "Humans",
+        "Ibuprofen",
+        "Interleukins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28035387/"
+    },
+    {
+      "pmid": "36600619",
+      "title": "Toxic, Genotoxic and Teratogenic Effects of Ibuprofen and its Derivatives.",
+      "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are extensively used pharmaceuticals and tons of kilos are produced annually. Ibuprofen is one of the core medicines of non-steroidal anti-inflammatory drug and is primarily used for reduced pain, fever and tissue inflammation. It is also available for the treatment of osteoarthritis, rheumatoid arthritis, tendonitis, etc. It is still one of the most prescribed non-steroidal anti-inflammatory drugs in contemporary times. Although ibuprofen is a drug that has been used for years, it is also known to have various serious toxic effects.",
+      "journal": "Current drug targets",
+      "year": "2023",
+      "authors": [
+        "Çalışıcı Dilan",
+        "Yılmaz Serkan",
+        "Goktas Bayram"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Ibuprofen",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Osteoarthritis",
+        "DNA Damage"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36600619/"
+    },
+    {
+      "pmid": "27959716",
+      "title": "Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis.",
+      "abstract": "The cardiovascular safety of celecoxib, as compared with nonselective nonsteroidal antiinflammatory drugs (NSAIDs), remains uncertain.",
+      "journal": "The New England journal of medicine",
+      "year": "2016",
+      "authors": [
+        "Nissen Steven E",
+        "Yeomans Neville D",
+        "Solomon Daniel H",
+        "Lüscher Thomas F",
+        "Libby Peter"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis",
+        "Cardiovascular Diseases",
+        "Celecoxib",
+        "Cyclooxygenase 2 Inhibitors",
+        "Female",
+        "Gastrointestinal Diseases",
+        "Humans",
+        "Ibuprofen"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27959716/"
+    },
+    {
+      "pmid": "391117",
+      "title": "Ibuprofen.",
+      "abstract": "Ibuprofen was introduced in England in 1967 and in the United States in 1974 as an anti-inflammatory drug in humans. It has weak but definite anti-inflammatory properties similar to those of aspirin, milligram for milligram, but with considerably less adverse effect on the stomach. Ibuprofen is chemically related to fenoprofen and naproxen, but lack of effect for any one in this chemical class of propionic-acid derivatives does not necessarily mean lack of effect for any other in an individual patient. The drug has analgesic properties, probably related to its anti-inflammatory effect. It inhibits prostaglandin synthesis and has no effect on the adrenopituitary axis, making it a nonsteroidal agent. Ibuprofen has been shown to be effective in rheumatoid arthritis and osteoarthritis and is probably effective in ankylosing spondylitis, gout, and Bartter's syndrome.",
+      "journal": "Annals of internal medicine",
+      "year": "1979",
+      "authors": [
+        "Kantor T G"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Analgesics",
+        "Anti-Inflammatory Agents",
+        "Arthritis",
+        "Digestive System",
+        "Drug Interactions",
+        "Humans",
+        "Ibuprofen"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/391117/"
+    },
+    {
+      "pmid": "35234840",
+      "title": "Cardiorenal risk of celecoxib compared with naproxen or ibuprofen in arthritis patients: insights from the PRECISION trial.",
+      "abstract": "Non-steroidal anti-inflammatory drugs (NSAIDs) are among the most frequently used drugs, both prescribed and over the counter. The long-term cardiovascular safety of NSAIDs in patients with arthritis has engendered controversy. Concerns remain regarding the relative incidence and severity of adverse cardiorenal effects, particularly in arthritis patients with established cardiovascular (CV) disease or risk factors for disease as illustrated by the PRECISION (Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen) trial participants (NCT00346216).We further investigated whether the selective COX-2 Inhibitor celecoxib has a superior cardiorenal safety profile compared with ibuprofen or naproxen in the PRECISION population.",
+      "journal": "European heart journal. Cardiovascular pharmacotherapy",
+      "year": "2022",
+      "authors": [
+        "Obeid Slayman",
+        "Libby Peter",
+        "Husni Elaine",
+        "Wang Qiuqing",
+        "Wisniewski Lisa M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Cardiovascular Diseases",
+        "Celecoxib",
+        "Humans",
+        "Ibuprofen",
+        "Naproxen",
+        "Prospective Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35234840/"
+    },
+    {
+      "pmid": "22149579",
+      "title": "HZT-501 (DUEXIS(®); ibuprofen 800 mg/famotidine 26.6 mg) gastrointestinal protection in the treatment of the signs and symptoms of rheumatoid arthritis and osteoarthritis.",
+      "abstract": "Arthritis affects nearly 50 million people in the USA and, with the aging of the population, the prevalence is expected to rise. While NSAIDs are very effective in relieving pain associated with osteoarthritis (OA) and rheumatoid arthritis (RA), they are associated with side effects, including gastrointestinal (GI) toxicity, which may manifest as dyspepsia, ulcers and/or bleeding. A number of approaches have been employed in an effort to either completely avoid or reduce the risk of GI toxicities associated with NSAID use. Two new products combining an NSAID with a gastroprotective agent have recently been approved and other agents are in the pipeline. Patient adherence to prescribed gastroprotective therapy is known to be poor, often resulting in an increased risk of GI events in patients taking NSAIDs. These newer combination products may fulfill an important need for many patients who need to receive NSAIDs for the pain of OA and RA, but who are also at risk of upper GI events. This",
+      "journal": "Expert review of gastroenterology & hepatology",
+      "year": "2012",
+      "authors": [
+        "Schiff Michael",
+        "Peura David"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Anti-Ulcer Agents",
+        "Arthritis, Rheumatoid",
+        "Drug Combinations",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "Famotidine",
+        "Female",
+        "Gastrointestinal Diseases",
+        "Gastrointestinal Tract",
+        "Histamine H2 Antagonists"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22149579/"
+    },
+    {
+      "pmid": "12269850",
+      "title": "Valdecoxib.",
+      "abstract": "In ten large, well-controlled, randomised trials (n = 203 to 1089), valdecoxib, a selective inhibitor of cyclo-oxygenase-2, was significantly more effective than placebo in the treatment of osteoarthritis, rheumatoid arthritis and pain associated with primary dysmenorrhoea, and for postsurgical analgesia. Valdecoxib 1.25 to 10mg twice daily and valdecoxib 10mg once daily were more effective than placebo for the relief of pain in patients with osteoarthritis of the knee, and dosages above 5mg twice daily were similar in efficacy to naproxen 500mg twice daily. Similarly, valdecoxib 5 and 10 mg/day were as effective for osteoarthritis of the hip as naproxen 500mg twice daily. In patients with rheumatoid arthritis, valdecoxib 10, 20 or 40 mg/day was significantly more effective than placebo, and similar in efficacy to naproxen 500mg twice daily; there were no significant differences in efficacy between the three dosages of valdecoxib. Valdecoxib 20 or 40mg administered 1 to 3 hours before ",
+      "journal": "Drugs",
+      "year": "2002",
+      "authors": [
+        "Ormrod Douglas",
+        "Wellington Keri",
+        "Wagstaff Antona J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Arthritis",
+        "Clinical Trials as Topic",
+        "Dysmenorrhea",
+        "Female",
+        "Humans",
+        "Isoxazoles",
+        "Pain",
+        "Sulfonamides",
+        "Benzenesulfonamides"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12269850/"
+    },
+    {
+      "pmid": "11249495",
+      "title": "Rofecoxib.",
+      "abstract": "Rofecoxib (Vioxx, Merck & Co., Inc.) is a new orally-effective non-steroidal anti-inflammatory drug (NSAID) approved for treatment of acute pain, fever, primary dysmenorrhea and pain and inflammation in osteoarthritis (OA). It is also being evaluated for treatment of rheumatoid arthritis and adenomatous polyps of the colon. Rofecoxib is a specific inhibitor of cyclooxygenase-2 (COX-2), thereby inhibiting prostanoid synthesis in cells that express COX-2, including inflammatory cells. As cells in the gastrointestinal (GI) tract principally express COX-1, a different isoform of cyclooxygenase, it is predicted that rofecoxib will have less GI toxicity than other less selective NSAIDs. In clinical trials, rofecoxib was found to be as effective as other NSAIDs for management of pain and inflammation. In trials that compare rofecoxib with ibuprofen, diclofenac and indomethacin, less GI toxicity has been observed, as assayed by a decrease in lesions visible on endoscopy, by GI blood loss and, ",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2000",
+      "authors": [
+        "Hillson J L",
+        "Furst D E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis",
+        "Cyclooxygenase 2",
+        "Cyclooxygenase 2 Inhibitors",
+        "Cyclooxygenase Inhibitors",
+        "Drug Approval",
+        "Humans",
+        "Isoenzymes",
+        "Lactones"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11249495/"
+    },
+    {
+      "pmid": "6380279",
+      "title": "Update on ibuprofen for rheumatoid arthritis.",
+      "abstract": "In doses of 1,200 mg/day or more, ibuprofen is as effective as aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) in the treatment of rheumatoid arthritis. The tolerability and safety of ibuprofen are superior to those of aspirin and compare favorably with those of other NSAIDs. Although additional controlled trials are indicated to determine optimal dose, ibuprofen's excellent therapeutic index establishes it as a useful drug in the treatment of rheumatoid arthritis.",
+      "journal": "The American journal of medicine",
+      "year": "1984",
+      "authors": [
+        "Ward J R"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents",
+        "Arthritis, Rheumatoid",
+        "Aspirin",
+        "Clinical Trials as Topic",
+        "Drug Tolerance",
+        "Fenoprofen",
+        "Humans",
+        "Ibuprofen",
+        "Indomethacin",
+        "Ketoprofen"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6380279/"
+    },
+    {
+      "pmid": "12466002",
+      "title": "Etoricoxib.",
+      "abstract": "Etoricoxib is a cyclo-oxygenase (COX)-2-selective NSAID with a higher COX-1 to COX-2 selectivity ratio than the other COX-2-selective NSAIDs rofecoxib, valdecoxib or celecoxib. In patients with rheumatoid arthritis, improvements in tender and swollen joint counts and patient and investigator global assessment of disease activity were significantly greater in etoricoxib than in placebo recipients in two studies. Etoricoxib was also significantly more effective than naproxen in one of these studies. In patients with osteoarthritis of the hip or knee, etoricoxib was significantly more effective than placebo and had similar efficacy to naproxen with regards to improvements in pain and physical function scores and patient global assessment of disease status scores in two studies. Etoricoxib had similar efficacy to diclofenac in patients with osteoarthritis of the knee. Single-dose etoricoxib relieved pain in patients with postoperative dental pain in two studies. Similar scores assessing to",
+      "journal": "Drugs",
+      "year": "2002",
+      "authors": [
+        "Cochrane Deborah J",
+        "Jarvis Blair",
+        "Keating Gillian M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Arthritis",
+        "Back Pain",
+        "Clinical Trials as Topic",
+        "Cyclooxygenase 1",
+        "Cyclooxygenase 2",
+        "Cyclooxygenase 2 Inhibitors",
+        "Cyclooxygenase Inhibitors",
+        "Dose-Response Relationship, Drug",
+        "Drug Administration Schedule"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12466002/"
+    },
+    {
+      "pmid": "36600619",
+      "title": "Toxic, Genotoxic and Teratogenic Effects of Ibuprofen and its Derivatives.",
+      "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are extensively used pharmaceuticals and tons of kilos are produced annually. Ibuprofen is one of the core medicines of non-steroidal anti-inflammatory drug and is primarily used for reduced pain, fever and tissue inflammation. It is also available for the treatment of osteoarthritis, rheumatoid arthritis, tendonitis, etc. It is still one of the most prescribed non-steroidal anti-inflammatory drugs in contemporary times. Although ibuprofen is a drug that has been used for years, it is also known to have various serious toxic effects.",
+      "journal": "Current drug targets",
+      "year": "2023",
+      "authors": [
+        "Çalışıcı Dilan",
+        "Yılmaz Serkan",
+        "Goktas Bayram"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Ibuprofen",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Osteoarthritis",
+        "DNA Damage"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36600619/"
+    },
+    {
+      "pmid": "35585779",
+      "title": "Lessons from 20 years with COX-2 inhibitors: Importance of dose-response considerations and fair play in comparative trials.",
+      "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) inhibit the enzyme cyclooxygenase (COX), which forms prostaglandins involved in pain and inflammation. COX inhibitors have analgesic and anti-inflammatory effects, but also increase risks for gastrointestinal ulcers, bleeding, and renal and cardiovascular adverse events. Identification of two isoforms of COX, COX-1 and COX-2, led to the development of selective COX-2 inhibitors, which were launched as having fewer gastrointestinal side effects since gastroprotective prostaglandins produced via COX-1 are spared. The balance between COX-1 mediated prothrombotic thromboxane and COX-2 mediated antithrombotic prostacyclin is important for thrombotic risk. An increased risk of suffering myocardial infarction and death with COX-2 inhibitor treatment is well established from clinical trials and observational research. Rofecoxib (Vioxx) was withdrawn from the market for this reason, but the equally COX-2 selective etoricoxib has replaced it in Europ",
+      "journal": "Journal of internal medicine",
+      "year": "2022",
+      "authors": [
+        "Stiller Carl-Olav",
+        "Hjemdahl Paul"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Celecoxib",
+        "Cyclooxygenase 2",
+        "Cyclooxygenase 2 Inhibitors",
+        "Diclofenac",
+        "Etoricoxib",
+        "Fibrinolytic Agents",
+        "Humans",
+        "Ibuprofen",
+        "Lactones"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35585779/"
+    },
+    {
+      "pmid": "29584842",
+      "title": "Association of Placebo, Indomethacin, Ibuprofen, and Acetaminophen With Closure of Hemodynamically Significant Patent Ductus Arteriosus in Preterm Infants: A Systematic Review and Meta-analysis.",
+      "abstract": "Despite increasing emphasis on conservative management of patent ductus arteriosus (PDA) in preterm infants, different pharmacotherapeutic interventions are used to treat those developing a hemodynamically significant PDA.",
+      "journal": "JAMA",
+      "year": "2018",
+      "authors": [
+        "Mitra Souvik",
+        "Florez Ivan D",
+        "Tamayo Maria E",
+        "Mbuagbaw Lawrence",
+        "Vanniyasingam Thuva"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Systematic Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_terms": [
+        "Acetaminophen",
+        "Administration, Intravenous",
+        "Administration, Oral",
+        "Bayes Theorem",
+        "Cerebral Hemorrhage",
+        "Ductus Arteriosus, Patent",
+        "Enterocolitis, Necrotizing",
+        "Hemodynamics",
+        "Humans",
+        "Ibuprofen"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29584842/"
+    }
+  ]
+}

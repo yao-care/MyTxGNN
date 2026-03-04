@@ -1,0 +1,1055 @@
+{
+  "drug": "Mometasone Furoate",
+  "drugbank_id": "DB14512",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T09:56:12Z",
+  "indications": [
+    {
+      "indication": "neurodermatitis",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "exanthem",
+      "evidence_level": "L3",
+      "trials": 1,
+      "articles": 5,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 1,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 5,
+        "total_trials": 1,
+        "total_articles": 5
+      }
+    },
+    {
+      "indication": "granuloma annulare",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "atopic eczema",
+      "evidence_level": "L2",
+      "trials": 10,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 2,
+        "phase1_trials": 2,
+        "other_trials": 6,
+        "rct_articles": 4,
+        "review_articles": 1,
+        "other_articles": 5,
+        "total_trials": 10,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "asthma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 6,
+        "phase1_trials": 1,
+        "other_trials": 6,
+        "rct_articles": 2,
+        "review_articles": 8,
+        "other_articles": 0,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 31,
+  "total_articles": 27,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04615962",
+      "title": "A Phase I, Multicenter, Double-Blind, Randomized Study to Evaluate the Safety and Tolerability Profile of Topical Cream SNG100 for 14 Days of Treatment in Moderate Atopic Dermatitis Subjects.",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2021-01-01",
+      "completion_date": "2022-01",
+      "country": "N/A",
+      "enrollment": 66,
+      "brief_summary": "The investigators aimed to understand better the efficacy in a randomized, double-blind, intraindividual design trial in 66 participants with AD treated with SNG100, and 2 different strengths of topical steroids hydrocortisone and the medium potent mometasone furoate cream.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females 6 years old or older with a diagnosis of moderate atopic dermatitis confirmed by a dermatologist\n2. Any child age 6 to 18 with a diagnosis of moderate atopic dermatitis confirmed by a dermatologist, together with the child's parent/guardian. Written informed ",
+      "endpoints": [
+        "Side Effects AE's and SAE's"
+      ],
+      "sponsor": "Seanergy Dermatology Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04615962"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05578482",
+      "title": "The Pathogenic Role Of Staphylococcus Aureus And The Skin Microbiome During Flare And Resolution Of Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-10-24",
+      "completion_date": "2023-05",
+      "country": "Denmark",
+      "enrollment": 45,
+      "brief_summary": "The goal of this clinical trial is to compare and evaluate in patients with atopic dermatitis. The main questions it aims to answer are:\n\n* Does the addition of systemic dicloxacillin to TCS treatment result in a more rapid and deeper treatment response?\n* Does the addition of systemic dicloxacillin to TCS treatment affect the skin microbiome, the skin barrier and immune response during improvement of AD?\n* Does topical application of S. aureus or SEB increase the severity and rapidity of a flar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or above\n* European ancestry\n* AD diagnosis according to Hanifin \\& Rajka criteria\n* AD for at least 3 years\n* AD that is moderate-to-severe defined as an EASI score of ≥ 7\n* AD in the sampled location that has an TLSS score of ≥ 5\n\nEXCLUSION CRITERIA:\n\n* Current ",
+      "endpoints": [
+        "Change in The Total Lesion Symptom Scale (TLSS) score improvement"
+      ],
+      "sponsor": "Bispebjerg Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05578482"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03676036",
+      "title": "A Prospective, Randomised, Vehicle-Controlled, Double-Blind, Exploratory Clinical Trial To Assess The Efficacy And Steroid Sparing Potential Of DGLA Cream Topically Applied To Patients With Moderate To Severe Atopic Dermatitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2018-07",
+      "country": "Germany",
+      "enrollment": 42,
+      "brief_summary": "This study will investigate the steroid sparing potential of DS107E to vehicle in patients with moderate to severe atopic dermatitis.\n\nDS107E or vehicle will be topically administered with a steroid twice a day for the first 7 days. For the following 28 days DS107E or vehicle will be topically administered twice a day.\n\nThis study will enrol approximately 40 adult patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female and male volunteers aged 18-65 who are willing to give written informed consent.\n* Diagnosis of atopic dermatitis (\\> 6 months) according to the Hanifin and Raika Criteria;\n* Presence of at least 2 moderate to severe (target lesion score\\</=8) inflammatory lesions of co",
+      "endpoints": [
+        "Eczema Area and Severity Index (EASI)"
+      ],
+      "sponsor": "DS Biopharma",
+      "url": "https://clinicaltrials.gov/study/NCT03676036"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04271007",
+      "title": "Phase IV Clinical Study,Comparative, Blind Double and Randomized to Compare Mometasone Furoate Cream (TOPISON) Versus Other Two Cream Mometasone Furoate, in Participants With Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-11-23",
+      "completion_date": "2023-07-10",
+      "country": "Brazil",
+      "enrollment": 32,
+      "brief_summary": "Atopic dermatitis is a chronic disease, with outbreaks, predominant in childhood, whose main symptom is pruritus of variable intensity and signs of cutaneous xerosis and eczematous pattern lesions.\n\nIn this context, the present study aims to evaluate a comparative way of Topison drugs in reducing transepidermal water loss, improving skin hydration and comfort in participants with atopic dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to understand and consent / consent to their participation in this clinical study, manifested by signing the Informed Consent Form and, when applicable, the Informed Consent Form and the responsible consent form;\n* Participants of both sexes aged 10 or over and less th",
+      "endpoints": [
+        "sensory evaluation",
+        "Effectiveness"
+      ],
+      "sponsor": "Libbs Farmacêutica LTDA",
+      "url": "https://clinicaltrials.gov/study/NCT04271007"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07204561",
+      "title": "Analysis of the CeraVe Emollient Effect on Restoring the Hydration of the Skin Barrier as Maintenance Regimen in Subjects With Mild to Moderate Atopic Dermatitis",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-03-25",
+      "completion_date": "2026-07",
+      "country": "Italy",
+      "enrollment": 98,
+      "brief_summary": "This is an open-label, randomised, comparative, prospective, interventional study of a cosmetic product.",
+      "eligibility_criteria": "Inclusion criteria:\n\nSubjects with clinically confirmed mild-to-moderate atopic dermatitis (AD), as defined by an Eczema Area and Severity Index (EASI) score of 1-21, whose lesions will clear after treatment with a steroid and who will experience at least a 90% reduction in their EASI score.\n\n\\- Par",
+      "endpoints": [
+        "Changes in EASI score"
+      ],
+      "sponsor": "Societa Italiana di Dermatologia Medica, Chirurgica, Estetica e di Malattie Sessualmente Trasmesse",
+      "url": "https://clinicaltrials.gov/study/NCT07204561"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06636240",
+      "title": "Study on the Potential Prebiotic Effects and Gut Microbiota Changes of Glucoside-enriched Mulberry Fruit in Children and Adolescents With Atopic Dermatitis",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-03-17",
+      "completion_date": "2026-04-30",
+      "country": "Taiwan",
+      "enrollment": 120,
+      "brief_summary": "This project proposes a randomized controlled human study to explore the prebiotic effects of consuming mulberry juice on atopic dermatitis in children and adolescents. The study aims to investigate the potential of mulberry fruit as a human prebiotic. This human study will recruit up to 120 participants from the Taipei Medical University Hospital (commissioned by the Ministry of Health and Welfare). Participants will be divided into experimental groups and a control group, with a 3-month interv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 6 years and above (including 6 years) to less than 18 years (excluding 18 years)\n* The legal guardian has the ability to understand and is willing to sign the written informed consent document\n* Diagnosed by a physician according to the international Hanifin \\&amp; Rajka ",
+      "endpoints": [
+        "Change of Metabolism"
+      ],
+      "sponsor": "Taipei Medical University Shuang Ho Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06636240"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06448702",
+      "title": "Evaluation of Efficacy and Safety of Enhanced External Counter-pulsation on Patients With Atopic Dermatitis and Inflammatory Skin Disease Requiring Wet Wrap Therapy",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-07-03",
+      "completion_date": "2025-12-31",
+      "country": "N/A",
+      "enrollment": 40,
+      "brief_summary": "Patients with atopic dermatitis (AD) and erythematous skin disease are often treated with topical treatment containing corticosteroids. However, long term use of topical corticosteroid is well known for its potential side-effects such as skin atrophy, hirsutism, dyspigmentation, telangiectasia, and possible skin infection and iatrogenic adrenal insufficiency. Fear about medication side effects would cause lack of adherence to treatment regiments and thus patients would seek for alternative thera",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients aged between 18 to 65 years old present with atopic dermatitis or erythematous / inflammatory skin diseases attending Queen Mary Hospital dermatology clinics requiring wet-wrap therapy (WWT) will be screened for recruitment by attending dermatologist(s)\n2. Patients w",
+      "endpoints": [
+        "EECP therapy treatment should have more superior result compared to those receiving WWT alone"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT06448702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00236106",
+      "title": "Short Term Growth in Children With Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-02",
+      "completion_date": "2005-06",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "Main objective:to assess short term growth in children with atopic dermatitis during treatment with tacrolimus 0.1% and mometasone furoate 0.1%. A singl blind randomised cross over trial including 20 children. The study consists of 5 periods: run in, treatment(1),wash out, treatment(2) and run out. Each period 14 days where the children will use tacrolimus ointment tvice daily, mometasone furoate once daily or moisturizer (in run in wash out and run out)",
+      "eligibility_criteria": "Inclusion Criteria: age 5-14, atopic dermatitis, normal current growth, Tanner 1, informed consent by the parent or guardian, willing and able to comply with study procedures\n\nExclusion Criteria: Tanner 2-5, treatment of atopic dermatitis with anti-inflammatory agent within 1 week before the first v",
+      "endpoints": [
+        "short term growth during treatment compared to run in"
+      ],
+      "sponsor": "Children´s Clinic, Randers",
+      "url": "https://clinicaltrials.gov/study/NCT00236106"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01639040",
+      "title": "A Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Study to Assess the Safety of REGN668 Administered Concomitantly With Topical Corticosteroids to Patients With Moderate-to-Severe Atopic Dermatitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2012-12",
+      "country": "Poland, Germany, Hungary",
+      "enrollment": 31,
+      "brief_summary": "The purpose of this study was to assess the safety of Dupilumab administered concomitantly with topical corticosteroids (TCS) in patients with moderate-to-severe atopic dermatitis (AD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female patients aged 18 years or older\n2. Chronic AD that had been present for at least 2 years\n\nExclusion Criteria:\n\n1. Prior treatment with Dupilumab\n2. Hypersensitivity to corticosteroids or to any other ingredients contained by the TCS product used in the study\n3",
+      "endpoints": [
+        "Percentage of Participants With Treatment Emergent Adverse Events (TEAEs)"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01639040"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04615962",
+      "title": "A Phase I, Multicenter, Double-Blind, Randomized Study to Evaluate the Safety and Tolerability Profile of Topical Cream SNG100 for 14 Days of Treatment in Moderate Atopic Dermatitis Subjects.",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2021-01-01",
+      "completion_date": "2022-01",
+      "country": "N/A",
+      "enrollment": 66,
+      "brief_summary": "The investigators aimed to understand better the efficacy in a randomized, double-blind, intraindividual design trial in 66 participants with AD treated with SNG100, and 2 different strengths of topical steroids hydrocortisone and the medium potent mometasone furoate cream.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females 6 years old or older with a diagnosis of moderate atopic dermatitis confirmed by a dermatologist\n2. Any child age 6 to 18 with a diagnosis of moderate atopic dermatitis confirmed by a dermatologist, together with the child's parent/guardian. Written informed ",
+      "endpoints": [
+        "Side Effects AE's and SAE's"
+      ],
+      "sponsor": "Seanergy Dermatology Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04615962"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00721331",
+      "title": "A Phase I, Single-Center, Randomized, Vehicle-Controlled Study to Assess the Safety and Tolerability of Topical CRx-197 Formulations in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2008-09",
+      "country": "Germany",
+      "enrollment": 20,
+      "brief_summary": "This will be a phase I, single center, randomized, vehicle-controlled, blinded study comparing two dosage strengths of CRx-197 cream, nortriptyline, an active comparator (0.1% mometasone) and placebo (the active ingredient free vehicle cream of CRx-197)in healthy volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must voluntarily sign and date the written Informed Consent prior to any study specific procedures\n* Subject must be 18 to 60 years of age\n* Subject must have healthy skin on which reddening can be easily recognized in the area where they will place the test fields\n* S",
+      "endpoints": [
+        "Safety and tolerability of CRx-197 as assessed by treatment emergent adverse events, physical exams, vital signs, concomitant medications/procedures and subject assessment of pruritus."
+      ],
+      "sponsor": "Zalicus",
+      "url": "https://clinicaltrials.gov/study/NCT00721331"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01401465",
+      "title": "A Randomized Two Period Two-Way Crossover Study To Evaluate Patient Preference, Satisfaction And Efficacy Of A Nasal Aerosol Versus An Aqueous Nasal Spray Used For The Treatment Of Allergic Rhinitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-07",
+      "completion_date": "2011-11",
+      "country": "United States",
+      "enrollment": 327,
+      "brief_summary": "This is a randomized, multicenter, 2-way crossover study in subjects 12 years or older with perennial allergic rhinitis (PAR) to evaluate patient preference, satisfaction and efficacy of ciclesonide nasal aerosol versus mometasone aqueous nasal spray. A novel patient-administered assessment, developed and validated to measure patient satisfaction with and preference of intranasal corticosteroids (INCS) for the treatment of allergic rhinitis (AR), is utilized in this study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Give written informed consent and/or assent (as appropriate), including privacy authorization as well as adherence to concomitant medication withholding periods, prior to participation.\n* Male or female 12 years and older prior to screening\n* Subject must be in general good he",
+      "endpoints": [
+        "Total Preference Composite Score Assessed at the End of the Study. The Total Preference Score is the Standardized Sum of 17 Individual Preference Items",
+        "Change From Baseline in Regimen Attributes Composite Score"
+      ],
+      "sponsor": "Sumitomo Pharma America, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01401465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02110654",
+      "title": "Comparison of Daily Mometasone Furoate Nasal Spray Alone Versus a Combination With Montelukast for Treatment of Chronic Rhinosinusitis With Asthma After Functional Endoscopic Sinus Surgery: a 9-month Randomized, Open-label, Controlled Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2020-11-01",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "1. objectives. To compare the efficacy and the safety of mometasone furoate nasal spray (MFNS; Nasonex 200μg, daily) alone versus a combination with montelukast (singulair 10mg, daily) in chronic rhinosinusitis (CRS) with asthma after functional endoscopic sinus surgery (FESS) for improvement the clinical control of CRS\n2. the clinical hypotheses. The investigators hypothesize that postoperative combined montelukast and MFNS can better improve clinical control of CRS concomitant with asthma afte",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of chronic rhinosinusitis according to European position paper of rhinosinusitis and nasal polyps 2007\n2. Diagnosis of asthma based on Global initiative for asthma 2012\n3. All patients should provide informed consent prior to the study and agree to follow-up appoint",
+      "endpoints": [
+        "Percentage of Participants with Decrease in Nasal symptome Visual Analogue Scale (VAS)"
+      ],
+      "sponsor": "First Affiliated Hospital, Sun Yat-Sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02110654"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04179461",
+      "title": "Personalized Treatment Algorithms for Difficult-to-treat Asthma: Bench to Community",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-03-16",
+      "completion_date": "2019-10-03",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "Asthma is a common, complex and costly chronic condition. Moreover, asthma is heterogeneous in terms of treatment response. This heterogeneity contributes to the difficulty in both studying and treating asthma. This is a pilot study to improve health outcomes in youths with difficult to treat asthma with ongoing symptoms and healthcare utilization despite medium to high doses of inhaled corticosteroids. Asthma heterogeneity in both disease pathophysiology and treatment response contributes to th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of provider-diagnosed asthma\n* Meets one of the following definition for NAEPP guidelines uncontrolled moderate persistent asthma or severe persistent asthma in the past 12 months:\n\n  * NAEPP step 3-4 with one of the following criteria in the past 12 months:\n\n    * Two",
+      "endpoints": [
+        "Change in Composite Asthma Severity Index (CASI)"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT04179461"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00599027",
+      "title": "An Exploratory Study of Mometasone Furoate Nasal Spray in Patients With Moderate-severe Persistent Allergic Rhinitis and Intermittent Asthma: Effects on the Quality of Life Evaluated With the Rhinasthma Questionnaire",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-05",
+      "completion_date": "2009-05",
+      "country": "N/A",
+      "enrollment": 51,
+      "brief_summary": "The primary objective of this study is to explore the efficacy of Nasonex (mometasone furoate nasal spray) in comparison with placebo in improving the quality of life of subjects with moderate to severe persistent allergic rhinitis and intermittent asthma. A secondary objective is to evaluate the efficacy of Nasonex in relieving the subject's symptoms of allergic rhinitis and asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatients (≥18 and ≤ 75 years of age) of either sex\n* Willingness to participate and comply with procedures by signing a written informed consent\n* Moderate/severe persistent allergic rhinitis with a history of intermittent asthma from at least 2 years and actual asthma (sym",
+      "endpoints": [
+        "The Change of the Rhinasthma Global Summary Score From Baseline to Endpoint After 28 Days of Treatment."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00599027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02898454",
+      "title": "A Randomized, Double-blind, 52-week, Placebo Controlled Efficacy and Safety Study of Dupilumab, in Patients With Bilateral Nasal Polyposis on a Background Therapy With Intranasal Corticosteroids",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-11-28",
+      "completion_date": "2018-11-16",
+      "country": "Spain, Australia, Russia, Canada, Mexico, Japan, Portugal, Sweden, Argentina, United States, Turkey (Türkiye), Israel, Belgium, Chile",
+      "enrollment": 448,
+      "brief_summary": "Primary Objective:\n\nTo evaluate the efficacy of dupilumab 300 mg every 2 weeks (q2w) compared to placebo on a background of mometasone furoate nasal spray (MFNS) in reducing nasal congestion (NC)/obstruction severity and endoscopic nasal polyp score (NPS) in participants with bilateral nasal polyps (NP). In addition for Japanese participants, reduction in computed tomography (CT) scan opacification of the sinuses was a co-primary objective.\n\nSecondary Objectives:\n\n* To evaluate the efficacy of d",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Participants with bilateral sino-nasal polyposis that despite prior treatment with SCS anytime within the past 2 years; and/or had a medical contraindication/intolerance to SCS; and/or had prior surgery for NP at the screening visit, had:\n* An endoscopic bilateral NPS at Visi",
+      "endpoints": [
+        "Change From Baseline at Week 24 in Nasal Congestion/Obstruction Symptom Severity Score",
+        "Change From Baseline at Week 24 in Nasal Polyp Score"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02898454"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04480242",
+      "title": "Assessment of Children and Adolescents With Asthma: An Observational Prospective Study",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-07-26",
+      "completion_date": "2030-12-31",
+      "country": "Spain",
+      "enrollment": 525,
+      "brief_summary": "The purpose of this study is to assess the evolution of disease control, health-related quality of life, and the risk of severe asthma exacerbations in children and adolescents with persistent asthma in Spain at short, mid and long-term follow-up. Patient-reported information in this project is collected by computer assisted telephone interviews (CATI) and a mobile application (ARCA App).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children or adolescents aged 6-14.\n* Clinical diagnosis of asthma.\n* Undergoing treatment with inhaled corticosteroids (alone or combined with long-acting beta-agonists) for more than 6 months in the previous year.\n* With access to a smart phone (their own, or their parents').",
+      "endpoints": [
+        "Change from baseline in symptoms control, measured with the Asthma Control Questionnaire (ACQ)",
+        "Change from baseline in Health-Related Quality of Life, measured with the EuroQol",
+        "Number of severe asthmatic exacerbations"
+      ],
+      "sponsor": "Parc de Salut Mar",
+      "url": "https://clinicaltrials.gov/study/NCT04480242"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00605306",
+      "title": "A Randomized, Double-blind, Placebo-controlled, Parallel Group Study to Investigate the Safety and Tolerability of 14-days Treatment With an Inhaled Dose of QMF149 (500/800) in Mild to Moderate Asthmatic Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2008-04",
+      "country": "France",
+      "enrollment": 28,
+      "brief_summary": "This study will investigate the safety and tolerability of indacaterol maleate/mometasone furoate via the Twisthaler device after 14 days treatment in patients with mild to moderate asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female adult patients aged 18-65 years (inclusive)\n* Patients with mild-moderate asthma\n* Forced expiratory volume in one second (FEV1) at Visits 1 and 2 are ≥60% of the predicted normal value for the patient.\n* Body mass index (BMI) must be within the range of 18-32 ",
+      "endpoints": [
+        "Participants With Adverse Events"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00605306"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05274425",
+      "title": "A 24-week Prospective, Open-label, Multicenter, Single-arm, Observational Regulatory Post-Marketing Surveillance (rPMS) Study in Real-world Setting (Mandatory by Local HA Regulation) for Enerzair (QVM149 150/50/80 μg o.d. and QVM149 150/50/160 μg o.d. Via Breezhaler)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2022-05-09",
+      "completion_date": "2027-03-11",
+      "country": "South Korea",
+      "enrollment": 600,
+      "brief_summary": "This surveillance was designed as a prospective, open-label, multicenter, single-arm, non-interventional, observational study to evaluate the safety and effectiveness of Enerzair inhalation capsule for up to 24 weeks under routine clinical practice.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients (≥18 years of age) with a physician's diagnosis of asthma, who are prescribed Enerzair inhalation capsule (indacaterol acetate/ glycopyrronium bromide/mometasone furoate; 150/50/80, 150/50/160 μg) via Breezhaler, as per the approved label information\n2. Patient",
+      "endpoints": [
+        "Incidence of adverse events and serious adverse events",
+        "Incidence of unexpected adverse events and unexpected serious adverse events"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT05274425"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00442351",
+      "title": "A Comparative Study of The Efficacy and Tolerability of Maintenance Treatment of Patients With Mild/Moderate Persistent Asthma With Asmanex Twisthaler 220 mcg QD PM Versus \"Asmanex\" Placebo QD PM",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2006-09",
+      "completion_date": "2007-04",
+      "country": "N/A",
+      "enrollment": 26,
+      "brief_summary": "This is a randomized, multicenter, placebo-controlled, double-blind, parallel-group study evaluating Asmanex Twisthaler 220 mcg once daily (QD) in the evening (PM) compared with \"Asmanex\" Placebo QD PM for 12 weeks. Efficacy will be measured for the changes in forced expiratory volume in 1 second (FEV1) from baseline to the end of treatment period (Week 12 or end of the study).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Sign informed consent\n* Be 18-75 years of age, of either sex and any race\n* Have asthma for \\>= 12 months\n* Have mild or moderate persistent asthma\n* Prior to completing Screening Visit procedures, must be using: low or moderate doses of an inhaled corticosteroid (IC), with a ",
+      "endpoints": [
+        "Change From Baseline to Final/Terminal Visit in Forced Expiratory Value in 1 Second (FEV1) in Morning Office Measurements."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00442351"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "25608275",
+      "title": "Effectiveness of silk fabric underwear as an adjuvant tool in the management of vulvar lichen simplex chronicus: results of a double-blind randomized controlled trial.",
+      "abstract": "Avoiding potentially irritating contact is a key point in vulvar lichen simplex chronicus (VLSC) management. This study aims to assess the use of nonirritating silk fabric underwear (Dermasilk) as an adjuvant tool in the treatment of VLSC.",
+      "journal": "Menopause (New York, N.Y.)",
+      "year": "2015",
+      "authors": [
+        "Corazza Monica",
+        "Borghi Alessandro",
+        "Minghetti Sara",
+        "Toni Giulia",
+        "Virgili Annarosa"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adolescent",
+        "Adult",
+        "Age of Onset",
+        "Aged",
+        "Clothing",
+        "Combined Modality Therapy",
+        "Cotton Fiber",
+        "Dermatologic Agents",
+        "Double-Blind Method"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25608275/"
+    },
+    {
+      "pmid": "28328785",
+      "title": "Contact Allergy to Topical Mometasone Furoate Confirmed by Rechallenge and Patch Test.",
+      "abstract": "",
+      "journal": "American journal of therapeutics",
+      "year": "2018",
+      "authors": [
+        "Tatu Alin L",
+        "Ionescu Marius A",
+        "Nwabudike Lawrence C"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Aged",
+        "Dermatitis, Allergic Contact",
+        "Dermatologic Agents",
+        "Drug Eruptions",
+        "Exanthema",
+        "Female",
+        "Humans",
+        "Mometasone Furoate",
+        "Patch Tests"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28328785/"
+    },
+    {
+      "pmid": "27345420",
+      "title": "Lichenoid drug eruption induced by colchicine: case report.",
+      "abstract": "Lichenoid drug eruption (LDE) is a common cutaneous side effect of drugs including antimalarials, antihypertensives, nonsteroids, anti-inflammatory drugs and diuretics. The physiopathologic relationship between colchicine treatment and LDE is unclear. There is very little documentation of LDE induced by colchicine in the literature. In this report, we present a case that developed LDE on the abdomen and the legs during the colchicine treatment.",
+      "journal": "Cutaneous and ocular toxicology",
+      "year": "2017",
+      "authors": [
+        "An Isa",
+        "Demir Vasfiye",
+        "Akdeniz Sedat"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Abdomen",
+        "Administration, Cutaneous",
+        "Administration, Oral",
+        "Colchicine",
+        "Drug Eruptions",
+        "Exanthema",
+        "Female",
+        "Histamine Antagonists",
+        "Humans",
+        "Hyperpigmentation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27345420/"
+    },
+    {
+      "pmid": "21922203",
+      "title": "Using the Skindex-16 and Common Terminology Criteria for Adverse Events to assess rash symptoms: results of a pooled-analysis (N0993).",
+      "abstract": "Historically, skin toxicity has been assessed in prospective clinical trials using the clinician-reported National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE). The patient-reported Skindex-16 measures symptoms and perceptions of toxicity. This study was designed to compare information provided by these two measures.",
+      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "year": "2012",
+      "authors": [
+        "Atherton Pamela J",
+        "Burger Kelli N",
+        "Loprinzi Charles L",
+        "Neben Wittich Michelle A",
+        "Miller Robert C"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Algorithms",
+        "Anti-Inflammatory Agents",
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Humanized",
+        "Antineoplastic Agents",
+        "Breast Neoplasms",
+        "Cetuximab",
+        "Erlotinib Hydrochloride",
+        "Exanthema",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21922203/"
+    },
+    {
+      "pmid": "22472354",
+      "title": "Management of EGFR-inhibitor associated rash: a retrospective study in 49 patients.",
+      "abstract": "In recent years inhibitors directed against the epidermal growth factor receptor (EGFR) have evolved as effective targeting cancer drugs. Characteristic papulopustular exanthemas, often described as acneiform rashes, are the most frequent adverse effect associated with this class of novel cancer drugs and develop in > 90% of patients. Notably, the rash may significantly compromise the patients' quality of life, thereby potentially leading to incompliance as well as dose reduction or even termination of the anti-EGFR therapy. Yet, an effective dermatologic management of cutaneous adverse effects can be achieved. Whereas various case reports, case series or expert opinions on the management of EGFR-inhibitor (EGFRI) induced rashes have been published, data on systematic management studies are sparse.",
+      "journal": "European journal of medical research",
+      "year": "2012",
+      "authors": [
+        "Gerber Peter Arne",
+        "Meller Stephan",
+        "Eames Tatiana",
+        "Buhren Bettina Alexandra",
+        "Schrumpf Holger"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "ErbB Receptors",
+        "Exanthema",
+        "Fluoroquinolones",
+        "Humans",
+        "Isotretinoin",
+        "Mometasone Furoate",
+        "Pregnadienediols",
+        "Protein Kinase Inhibitors",
+        "Quinolizines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22472354/"
+    },
+    {
+      "pmid": "21244385",
+      "title": "Annular groin eruptions: pityriasis rosea of vidal.",
+      "abstract": "",
+      "journal": "International journal of dermatology",
+      "year": "2011",
+      "authors": [
+        "Zawar Vijay",
+        "Godse Kiran"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Anti-Inflammatory Agents",
+        "Antipruritics",
+        "Biopsy",
+        "Drug Therapy, Combination",
+        "Exanthema",
+        "Groin",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21244385/"
+    },
+    {
+      "pmid": "12007024",
+      "title": "Annular elastolytic giant cell granuloma.",
+      "abstract": "Annular elastolytic giant cell granuloma is a granulomatous process that presents as slowly growing annular papules and plaques on sun-exposed skin. It was first described in patients in the fourth and fifth decades of life. These lesions are primarily distributed on the head and neck. A review of the literature shows a preponderance of cases in adults. We report two cases of annular elastolytic giant cell granuloma developing in children under the age of 11 years.",
+      "journal": "Pediatric and developmental pathology : the official journal of the Society for Pediatric Pathology and the Paediatric Pathology Society",
+      "year": "2002",
+      "authors": [
+        "Herron Mark D",
+        "Coffin Cheryl M",
+        "Vanderhooft Sheryll L"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Inflammatory Agents",
+        "Child",
+        "Elastic Tissue",
+        "Giant Cells",
+        "Granuloma Annulare",
+        "Humans",
+        "Male",
+        "Mometasone Furoate",
+        "Potassium Iodide",
+        "Pregnadienediols"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12007024/"
+    },
+    {
+      "pmid": "38781033",
+      "title": "Efficacy and safety of self-made WenyangJianpi-qushi Decoction combined with mometasone furoate cream in the treatment of atopic dermatitis of spleen deficiency and dampness accumulation type.",
+      "abstract": "Introduction: This work was to explore the efficacy and safety of self-made WenyangJianpi-qushi Decoction plus mometasone furoate cream in atopic dermatitis (AD) of spleen deficiency and dampness accumulation type. Material and method: 120 patients with this kind of atopic dermatitis were grouped: The Observation group (disease health education + basic treatment + mometasone furoate cream + self-made Decoction) and The Control group (disease health education + basic treatment + mometasone furoate cream), 60 cases in each group. The SCORAD score, serum IgE level, peripheral blood eosinophils, adverse events, recurrence rate, and total effective rate after treatment were observed.Result: Through treatment, SCORAD score of the observation group (29.96 ± 2.88) was lower as against controls (36.04 ± 3.12), p < 0.05. Through treatment, the peripheral blood eosinophil count in the observation group was (311.26 ± 50.19) 106/L, which was lower than (582.71 ± 54.75) 106/L in controls; the serum ",
+      "journal": "Cutaneous and ocular toxicology",
+      "year": "2024",
+      "authors": [
+        "Tan Jinhui",
+        "Fan Yuting",
+        "Liu Luhui",
+        "Deng Lixia",
+        "Li Xianzhou"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Dermatitis, Atopic",
+        "Humans",
+        "Mometasone Furoate",
+        "Male",
+        "Female",
+        "Drugs, Chinese Herbal",
+        "Adult",
+        "Adolescent",
+        "Young Adult",
+        "Eosinophils"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38781033/"
+    },
+    {
+      "pmid": "26836729",
+      "title": "Effect of Subcutaneous Dupilumab on Nasal Polyp Burden in Patients With Chronic Sinusitis and Nasal Polyposis: A Randomized Clinical Trial.",
+      "abstract": "Dupilumab has demonstrated efficacy in patients with asthma and atopic dermatitis, which are both type 2 helper T-cell-mediated diseases.",
+      "journal": "JAMA",
+      "year": "2016",
+      "authors": [
+        "Bachert Claus",
+        "Mannent Leda",
+        "Naclerio Robert M",
+        "Mullol Joaquim",
+        "Ferguson Berrylin J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Anti-Inflammatory Agents",
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Humanized",
+        "Asthma",
+        "Chronic Disease",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26836729/"
+    },
+    {
+      "pmid": "38430165",
+      "title": "Efficacy of Mometasone Furoate Cream Sodium Alginate Skin Repair Mask in Atopic Dermatitis Treatment.",
+      "abstract": "To observe the clinical effect of mometasone furoate cream sodium Alginate Skin Repair Mask in the treatment of atopic dermatitis (AD). By assessing the combined use of these two treatments, the study aims to address a gap in knowledge regarding the effectiveness and safety of adjuvant therapies for AD, particularly in the context of Alginate Skin Repair Mask.",
+      "journal": "Alternative therapies in health and medicine",
+      "year": "2024",
+      "authors": [
+        "Ma Haili",
+        "Zhao Ying",
+        "Xia Xiujuan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Young Adult",
+        "Alginates",
+        "Dermatitis, Atopic",
+        "Dermatologic Agents",
+        "Mometasone Furoate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38430165/"
+    },
+    {
+      "pmid": "31865821",
+      "title": "Comparing the effects of proactive treatment with tacrolimus ointment and mometasone furoate on the epidermal barrier structure and ceramide levels of patients with atopic dermatitis.",
+      "abstract": "The epidermal skin barrier and lipids that are integral to its structure are impaired in atopic dermatitis (AD). Current treatment guidelines include proactive therapy.",
+      "journal": "The Journal of dermatological treatment",
+      "year": "2021",
+      "authors": [
+        "Dähnhardt Dorothee",
+        "Bastian Mike",
+        "Dähnhardt-Pfeiffer Stephan",
+        "Buchner Matthias",
+        "Fölster-Holst Regina"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Ceramides",
+        "Dermatitis, Atopic",
+        "Humans",
+        "Immunosuppressive Agents",
+        "Mometasone Furoate",
+        "Ointments",
+        "Tacrolimus",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31865821/"
+    },
+    {
+      "pmid": "22948032",
+      "title": "Efficacy and patient-reported outcomes of a new mometasone cream treating atopic eczema.",
+      "abstract": "This double-blind controlled phase II study was conducted to compare a newly developed formulation of mometasone furoate with a water content of 33% (Monovo® Cream) and with a smooth consistency versus the commercially available fatty cream of mometasone furoate (Ecural® Fettcreme) in terms of efficacy, cosmetic properties, and patients' acceptance. In 20 patients with mild to moderate atopic eczema, the preparations were tested intraindividually in a randomized mode and in two comparable lesion areas. Both preparations were equally effective and well tolerated. Due to improved cosmetic properties, the new formulation was preferred by the patients when asked for preferential use. Quality of life could be improved by treating with both preparations.",
+      "journal": "Skin pharmacology and physiology",
+      "year": "2012",
+      "authors": [
+        "Ruzicka Thomas",
+        "Willers Christoph",
+        "Wigger-Alberti Walter"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adolescent",
+        "Dermatitis, Atopic",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male",
+        "Mometasone Furoate",
+        "Pregnadienediols",
+        "Quality of Life"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22948032/"
+    },
+    {
+      "pmid": "23551950",
+      "title": "Comparison of effects of tacrolimus ointment and mometasone furoate cream on the epidermal barrier of patients with atopic dermatitis.",
+      "abstract": "The skin barrier plays a crucial role in the pathophysiology of atopic dermatitis. The quality of the skin barrier can be assessed using a new semi-quantitative method to measure intercellular lipid lamellae. This procedure was used to evaluate the influence of the topical application of the calcineurin inhibitor tacrolimus 0.1% ointment (Protopic®) versus mometasone furoate cream (Ecural®) on the quality of the skin barrier.",
+      "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+      "year": "2013",
+      "authors": [
+        "Dähnhardt-Pfeiffer Stephan",
+        "Dähnhardt Dorothee",
+        "Buchner Matthias",
+        "Walter Kersten",
+        "Proksch Ehrhardt"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adult",
+        "Anti-Allergic Agents",
+        "Anti-Inflammatory Agents",
+        "Dermatitis, Atopic",
+        "Epidermis",
+        "Female",
+        "Humans",
+        "Immunosuppressive Agents",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23551950/"
+    },
+    {
+      "pmid": "2033138",
+      "title": "Comparison of mometasone furoate 0.1% cream and hydrocortisone 1.0% cream in the treatment of childhood atopic dermatitis.",
+      "abstract": "We conducted a 6-week randomized, blinded study that compared mometasone furoate 0.1% cream, applied once daily, and hydrocortisone 1.0% cream, applied twice daily, in 48 children with moderate to severe atopic dermatitis. Mometasone furoate, a moderate-potency steroid, produced significantly greater improvement than the low-potency hydrocortisone used twice daily. The difference in therapeutic response was particularly evident in patients with involvement of more than 25% of their body surface area. Morning plasma cortisol levels were assayed before treatment, after 1 week of therapy, and at the end of the clinical trial. Plasma cortisol levels were transiently suppressed in one child who was treated with hydrocortisone and in none of the children treated with mometasone.",
+      "journal": "Journal of the American Academy of Dermatology",
+      "year": "1991",
+      "authors": [
+        "Vernon H J",
+        "Lane A T",
+        "Weston W"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Anti-Inflammatory Agents",
+        "Child",
+        "Child, Preschool",
+        "Dermatitis, Atopic",
+        "Double-Blind Method",
+        "Humans",
+        "Hydrocortisone",
+        "Infant",
+        "Mometasone Furoate"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2033138/"
+    },
+    {
+      "pmid": "9035916",
+      "title": "Topical corticosteroids: experience with mometasone furoate.",
+      "abstract": "",
+      "journal": "Current problems in dermatology",
+      "year": "1995",
+      "authors": [
+        "Peets E A"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Adolescent",
+        "Adrenal Cortex Hormones",
+        "Adult",
+        "Aged",
+        "Animals",
+        "Atrophy",
+        "Child",
+        "Child, Preschool",
+        "Clinical Trials as Topic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9035916/"
+    },
+    {
+      "pmid": "12118496",
+      "title": "Therapeutic efficacy and safety of loratadine syrup in childhood atopic dermatitis treated with mometasone furoate 0.1 per cent cream.",
+      "abstract": "Atopic dermatitis is a common skin disease in Thai children. The treatment of atopic dermatitis requires topical corticosteroids, emollients, systemic antihistamine as well as avoidance of the precipitating factors. A double blind multicenter placebo controlled study was conducted to assess the therapeutic efficacy of topical mometasone furoate 0.1 per cent cream in combination with loratadine syrup. Forty-eight patients, 23 boys and 25 girls, mean age 73.67 months, with atopic dermatitis were included in the study. The severity of the disease was measured by using the SCORAD index including the degree of erythema, dryness, edema/papulation, oozing/crusting, lichenification, and excoriation. Total area involved was measured and a target area of dermatitis was selected for specific evaluation. The degree of clinical signs and pruritic symptom was graded. The sensation of pruritus, disturbance of sleep due to pruritus, and feeling of sleepiness in the morning were recorded. Mometasone fu",
+      "journal": "Journal of the Medical Association of Thailand = Chotmaihet thangphaet",
+      "year": "2002",
+      "authors": [
+        "Chunharas Amornsri",
+        "Wisuthsarewong Wanee",
+        "Wananukul Siriwan",
+        "Viravan Suchitra"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Antipruritics",
+        "Child",
+        "Child, Preschool",
+        "Dermatitis, Atopic",
+        "Dosage Forms",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Glucocorticoids"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12118496/"
+    },
+    {
+      "pmid": "41730175",
+      "title": "Drugs for atopic dermatitis.",
+      "abstract": "",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2026",
+      "authors": [],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41730175/"
+    },
+    {
+      "pmid": "38470381",
+      "title": "Allergic Rhinitis: A Review.",
+      "abstract": "Allergic rhinitis affects an estimated 15% of the US population (approximately 50 million individuals) and is associated with the presence of asthma, eczema, chronic or recurrent sinusitis, cough, and both tension and migraine headaches.",
+      "journal": "JAMA",
+      "year": "2024",
+      "authors": [
+        "Bernstein Jonathan A",
+        "Bernstein Joshua S",
+        "Makol Richika",
+        "Ward Stephanie"
+      ],
+      "pub_types": [
+        "Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Budesonide",
+        "Cetirizine",
+        "Fluticasone",
+        "Histamine H1 Antagonists",
+        "Immunoglobulin E",
+        "Mometasone Furoate",
+        "Olopatadine Hydrochloride",
+        "Pruritus",
+        "Rhinitis, Allergic"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38470381/"
+    },
+    {
+      "pmid": "34329722",
+      "title": "Dose bridging data for mometasone furoate in once-daily fixed-dose inhaled combinations of mometasone furoate/indacaterol and mometasone furoate/ indacaterol/glycopyrronium in patients with asthma.",
+      "abstract": "Once-daily (o.d.) fixed-dose combinations of mometasone furoate/indacaterol acetate (MF/IND) and mometasone furoate/indacaterol acetate/glycopyrronium bromide (MF/IND/GLY), both delivered via the Breezhaler® device, are approved for the maintenance treatment of asthma. Across these fixed-dose combinations, while the doses of bronchodilators remain the same, the nominal doses of mometasone furoate in micrograms differ. This article presents the steps followed in bridging the mometasone furoate doses at the corresponding dose strengths in the mometasone furoate formulation delivered via the Twisthaler® and mometasone furoate/indacaterol acetate and mometasone furoate/indacaterol acetate/glycopyrronium bromide formulations delivered via the Breezhaler®. These were: (i) bridging the mometasone furoate doses in the Twisthaler® (previously approved) to mometasone furoate doses in the Breezhaler®; (ii) bridging the mometasone furoate doses in the Breezhaler® to mometasone furoate/indacaterol ",
+      "journal": "Pulmonary pharmacology & therapeutics",
+      "year": "2021",
+      "authors": [
+        "Buhl Roland",
+        "Nikolaev Ivan",
+        "Tillmann Hanns-Christian",
+        "Vaidya Soniya",
+        "Bartels Christian"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Inhalation",
+        "Asthma",
+        "Bronchodilator Agents",
+        "Drug Combinations",
+        "Glycopyrrolate",
+        "Humans",
+        "Indans",
+        "Mometasone Furoate",
+        "Quinolones",
+        "Treatment Outcome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34329722/"
+    },
+    {
+      "pmid": "32524991",
+      "title": "Efficacy and safety of omalizumab in nasal polyposis: 2 randomized phase 3 trials.",
+      "abstract": "Chronic rhinosinusitis with nasal polyps (CRSwNP) is characterized by IgE hyperproduction and eosinophilic inflammation. The anti-IgE antibody, omalizumab, has demonstrated efficacy in patients with CRSwNP and comorbid asthma previously.",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2020",
+      "authors": [
+        "Gevaert Philippe",
+        "Omachi Theodore A",
+        "Corren Jonathan",
+        "Mullol Joaquim",
+        "Han Joseph"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adrenal Cortex Hormones",
+        "Adult",
+        "Anti-Allergic Agents",
+        "Chronic Disease",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32524991/"
+    }
+  ]
+}

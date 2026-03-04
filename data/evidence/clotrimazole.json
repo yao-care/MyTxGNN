@@ -1,0 +1,996 @@
+{
+  "drug": "Clotrimazole",
+  "drugbank_id": "DB00257",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T09:57:08Z",
+  "indications": [
+    {
+      "indication": "pityriasis versicolor",
+      "evidence_level": "L2",
+      "trials": 2,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 3,
+        "review_articles": 1,
+        "other_articles": 6,
+        "total_trials": 2,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "cutaneous candidiasis",
+      "evidence_level": "L2",
+      "trials": 1,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 1,
+        "rct_articles": 1,
+        "review_articles": 3,
+        "other_articles": 6,
+        "total_trials": 1,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "tinea pedis",
+      "evidence_level": "L1",
+      "trials": 10,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 1,
+        "phase1_trials": 5,
+        "other_trials": 2,
+        "rct_articles": 4,
+        "review_articles": 5,
+        "other_articles": 1,
+        "total_trials": 10,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "oral candidiasis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 9,
+      "summary": {
+        "phase3_trials": 7,
+        "phase2_trials": 1,
+        "phase1_trials": 2,
+        "other_trials": 10,
+        "rct_articles": 1,
+        "review_articles": 4,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 9
+      }
+    },
+    {
+      "indication": "vulvovaginal candidiasis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 2,
+        "phase1_trials": 1,
+        "other_trials": 11,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 7,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 53,
+  "total_articles": 49,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04007237",
+      "title": "The Comparative Assessment of Mycological Efficacy, Safety, Recurrence, and Cost-effectiveness of Selenium Sulfide 1.8% Shampoo Versus Ketoconazole 2% Shampoo in Pityriasis Versicolor: a Double-blind Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-09-01",
+      "completion_date": "2018-12-30",
+      "country": "Indonesia",
+      "enrollment": 100,
+      "brief_summary": "There are several topical treatment for Pityriasis Versicolor including ketoconazole and selenium sulfide. Ketoconazole is a broad spectrum anti-fungal drug from imidazole group that has been reported to be effective in PV. The study aimed to reveal the mycological efficacy, safety, recurrence and cost-effectiveness of selenium sulfide 1.8% shampoo (SeS2) and ketoconazole 2% shampoo in the treatment of pityriasis versicolor. A double blind randomized controlled trial was performed in patients wi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Having PV characteristic skin lesions,proven by 20% KOH scraping test and Parker Blue-Black® ink, with the founding of short hyphae and group spores or short hyphae only\n* willing to participate in the study by signing the written informed consent\n* Subjects under the age of 1",
+      "endpoints": [
+        "mycology efficacy",
+        "mycology efficacy",
+        "compliance"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT04007237"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07331792",
+      "title": "Comparative Efficacy of Topical 1% Clotrimazole vs Oral Itraconazole in the Treatment of Pityriasis Versicolor",
+      "phase": "PHASE1, PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02-02",
+      "completion_date": "2026-05-31",
+      "country": "N/A",
+      "enrollment": 86,
+      "brief_summary": "Comparative efficacy of topical 1% clotrimazole vs oral itraconazole in the treatment of pityriasis versicolor -Randomized control trial",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age (15-50 years)\n* Both genders\n* Sufferers of Pityriasis versicolor ( Determined by scale , erythema and pruritus)\n\nExclusion Criteria:\n\n* Pt with history of antifungals in last one month\n* Pt on immunosuppressants or steroid therapy\n* Pregnant and lactating women\n* Pt with ",
+      "endpoints": [
+        "Percentile efficacy of topical versus oral antifungal in the treatment of pityriasis versicolor"
+      ],
+      "sponsor": "Combined Military Hospital Abbottabad",
+      "url": "https://clinicaltrials.gov/study/NCT07331792"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00702507",
+      "title": "Prospective 2-Year Longitudinal Study to Assess for Miconazole Resistance in Candida Spp. With Repeated Treatment Courses of 0.25% Miconazole Nitrate Ointment in Neonates and Infants up to 1 Year of Age With Recurrent Moderate-Severe Diaper Dermatitis Complicated by Cutaneous Candidiasis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2010-12",
+      "country": "Panama, United States, Ecuador, Dominican Republic",
+      "enrollment": 200,
+      "brief_summary": "The purpose of this study is to determine whether repeated use of 0.25% miconazole nitrate ointment in newborns and infants with a yeast infection in the diaper area causes the yeast to become resistant to the drug.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female neonate or infant up to 1 year of age with Fitzpatrick Skin Type I-VI\n* Clinical evidence of diaper dermatitis and a positive KOH result for pseudohyphae and/or budding yeast at baseline visit\n* Overall Diaper Dermatitis Severity Index score at baseline visit of",
+      "endpoints": [
+        "Number of Participants With Overall Cure (OC)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00702507"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01110330",
+      "title": "A Double-Blind, Randomized, Parallel Group Comparison of Nizoral Cream (F012), Ketoconazole 2% Cream (F126) and Placebo (F000) in the Treatment of Interdigital Tinea Pedis",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2007-07",
+      "completion_date": "2008-10",
+      "country": "Poland, United Kingdom",
+      "enrollment": 583,
+      "brief_summary": "The purpose of this study is to determine if a new formulation of ketoconazole 2% cream is as effective as a current formulation of ketoconazole 2% cream (Nizoral) compared with placebo in treating patients with Tinea pedis, a skin infection commonly known as \"athlete's foot\" that is caused by a kind of mold called a fungus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be co-operative, reliable and sufficiently competent to grade and record symptoms as requested\n* have a clinical diagnosis of uncomplicated interdigital Tinea pedis confirmed by KOH microscopy\n* Be either post-menopausal or surgically sterile, abstinent, or, if sexually active",
+      "endpoints": [
+        "The Number of Patients in the Positive Baseline Culture Set (PBCS) With Mycological Cure (MC) at Week 6"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT01110330"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03999437",
+      "title": "EFFICACY AND SAFETY OF A SINGLE-APPLICATION TREATMENT USING TERBINAFINE HYDROCHLORIDE (1%) TOPICAL LIQUID SOLUTION VERSUS A SINGLE-APPLICATION TREATMENT USING BUTENAFINE HYDROCHLORIDE (1%) TOPICAL LIQUID SOLUTION FOR THE TREATMENT OF TINEA PEDIS: A RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED TRIAL",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2019-01-02",
+      "completion_date": "2020-01-03",
+      "country": "Philippines",
+      "enrollment": 42,
+      "brief_summary": "Tinea pedis or athlete's foot is the most common fungal infection worldwide, caused by infection of the feet with dermatophytes such as Trichophyton rubrum, Trichophyton interdigitale (formerly Trichophyton mentagrophytes), and Epidermophyton floccosum. Diagnosis of tinea pedia involves clinical symptoms as well as microscopic examination. Topical therapies are usually applied once or twice daily for as long as 4 weeks, posing a challenge to compliance. The current study aims to test a formulati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or nonpregnant females aged 18-60 years old.\n* Clinical diagnosis of tinea pedis (total sign/symptom score \\>2), lesions between the toes, with possible extension to the lateral surfaces and soles of the feet confirmed by a positive microscopy prior to dosing.\n* Willing t",
+      "endpoints": [
+        "Proportion of participants with effective treatment at week 6"
+      ],
+      "sponsor": "United Laboratories",
+      "url": "https://clinicaltrials.gov/study/NCT03999437"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01524432",
+      "title": "Phase III Study in Hygienic Socks With Antifungal Agent-loaded Microcapsules for Patients With Tinea Pedis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2012-12",
+      "country": "Hong Kong",
+      "enrollment": 42,
+      "brief_summary": "This is a study of hygienic socks with antifungal agent-loaded microcapsules for subjects with interdigital type tinea pedis (athlete's foot between the toes). This is a 6 week study which has a 2 week treatment period and a 4 week follow-up evaluation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be at least 18 years of age and of either sex.\n* Subjects must have clinical evidence of interdigital tinea pedis of one or both feet characterized by: (i) moderate erythema, (ii) scaling and (iii) mild pruritis.\n* Have microscopic evidence (positive KOH) of the presence of fu",
+      "endpoints": [
+        "• Complete Cure"
+      ],
+      "sponsor": "The Hong Kong Polytechnic University",
+      "url": "https://clinicaltrials.gov/study/NCT01524432"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01580878",
+      "title": "A Double-Blind, Randomized, Parallel-Group, Vehicle-Controlled, Multicenter Study to Evaluate the Safety and Bioequivalence of a Generic Butenafine Hydrochloride Cream, 1% and Reference Listed Lotrimin Ultra® (Butenafine Hydrochloride Cream, 1%) and Compare Both Active Treatments to a Vehicle Control in the Treatment of Interdigital Tinea Pedis.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2012-12",
+      "country": "N/A",
+      "enrollment": 707,
+      "brief_summary": "The primary objective of this study is to determine the comparability of the safety and efficacy of a generic Butenafine Hydrochloride Cream, 1% (test product) and Lotrimin Ultra® (the reference listed drug) in subjects with interdigital tinea pedis. It will also be determined whether the efficacy of each of the two active treatments is superior to that of the vehicle cream (placebo).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Willing \\& able to provide \\& understand written informed consent\n* Healthy male or non-pregnant, non-lactating female at least 18 years of age and older\n* Clinical diagnosis of tinea pedis with lesions localized to the interdigital spaces or that is predominantly interdigital",
+      "endpoints": [
+        "Therapeutic Cure"
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01580878"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00004575",
+      "title": "Investigation of Miconazole as an Inhibitor of Endothelium-Derived Hyperpolarizing Factor",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2000-02",
+      "completion_date": "2001-10",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "This study will investigate the effect of the drug miconazole on blood vessel dilation. Miconazole stops production of EDHF, a substance that causes arteries to dilate. EDHF is produced by the cells that line blood vessels.\n\nNormal volunteers between the ages of 21 to 60 may participate in this study. Candidates will be screened for eligibility with a medical history, physical examination, electrocardiogram and routine laboratory tests. Those enrolled will be injected with miconazole to study it",
+      "eligibility_criteria": "Healthy male or female volunteers (age 21-60 years).\n\nNo presence of intercurrent illness.\n\nNo current smoking (within previous 5 years).\n\nNo hypertension (greater than 140/90).\n\nNo diabetes.\n\nNo hypercholesterolemia (total cholesterol greater than 240 mg/dl).\n\nNo pregnancy or menopause.\n\nNo renal f",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00004575"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00835510",
+      "title": "A Randomized, Double-Blind, Placebo Controlled, Parallel Design, Multiple-Site Study to Evaluate the Clinical Equivalence of Two Butenafine Hydrochloride 1% Creams in Patients With Interdigital Tinea Pedis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-06",
+      "completion_date": "2008-12",
+      "country": "Belize, United States",
+      "enrollment": 548,
+      "brief_summary": "To demonstrate comparable safety and efficacy of Taro Pharmaceuticals Inc. butenafine hydrochloride cream 1% (test product) and Lotrimin Ultra® cream (reference listed drug) in the treatment of interdigital tinea pedis, and to show the superiority of the active treatments over that of the placebo (vehicle).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Microbiologically confirmed clinical diagnosis of interdigital tinea pedis\n* If female and of child bearing potential, prepare to abstain from sexual intercourse or use a reliable method of contraception during the study (e.g., condom, intra-uterine device (IUD), oral, transde",
+      "endpoints": [
+        "Therapeutic Cure - Superiority Analysis",
+        "Therapeutic Cure Non-Inferiority Comparison of Butenafine Cream and Lotrimin Ultra"
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00835510"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01119742",
+      "title": "A Randomized, Double-Blind, Placebo Controlled, Parallel Design, Multiple-Site Study to Evaluate the Clinical Equivalence of Two Generic Butenafine Hydrochloride 1% Creams to Lotrimin Ultra® Cream in Patients With Interdigital Tinea Pedis",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2010-07",
+      "completion_date": "2011-07",
+      "country": "N/A",
+      "enrollment": 428,
+      "brief_summary": "To demonstrate comparable safety and efficacy of Taro Pharmaceuticals, Inc butenafine hydrochloride cream 1% test product and Lotrimin Ultra cream (reference listed drug) in the treatment of interdigital tinea pedis, and to show the superiority of the active treatments over that of the placebo (vehicle).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or non-pregnant, non lactating females 18 years of age or older.\n2. Signed informed consent form, which meets all criteria of current FDA regulations and the requirements of the India regulatory authorities.\n3. If female and of child bearing potential, have a negative ur",
+      "endpoints": [
+        "Therapeutic Cure"
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01119742"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01105013",
+      "title": "Study Clinical, Multicenter, Phase III, to Evaluate the Efficacy and Safety of Tolnaftate Cream in the Treatment of Patients With Fungal Infections Like Tinea Foot, Tinea and Tinea Crural Body\"",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2012-04",
+      "completion_date": "2012-07",
+      "country": "Brazil",
+      "enrollment": 90,
+      "brief_summary": "This is a study clinical, multicenter, Phase III trial, to evaluate the efficacy and safety of tolnaftate cream in the treatment of patients with fungal infections such as Tinea foot, Tinea and Tinea crural body.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of both sexes, of any race, aged 12 years;\n* Ability to understand and sign the IC (for patients older than age) in the case of minors monitoring and consent of a guardian;\n* Clinical diagnosis of fungal infections for tinea pedis (ringworm of the feet) or tinea cruri",
+      "endpoints": [
+        "Evaluate the efficacy and safety of the tolnaftate cream 10 mg / g."
+      ],
+      "sponsor": "Laboratório Teuto Brasileiro S/A",
+      "url": "https://clinicaltrials.gov/study/NCT01105013"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06869681",
+      "title": "Comparison of Efficacy of Sertaconazole Nitrate Cream 2 Percent Vs Clotrimazole 1 Percent for the Treatment of Tinea Pedis.",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-03-01",
+      "completion_date": "2025-06-15",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "This randomized controlled trail study will be carried out on OPD patients in the Department of Dermatology, Jinnah Postgraduate Medical Center. Institutional Ethical committee permission will be obtained and clinical trial registration number (CTN) will be obtained for the study. Written consent will obtained from all the participants of the study.\n\nAll the diagnosed patients of Tinea Pedis who will meet the selection criteria will be enrolled and will be educated regarding the study. Participa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of age 18-65 years age.\n* Either sex.\n* Patients presenting with the clinical manifestations of tinea pedis such as erythema, scaling, vesicles, pustules, and itch.\n* Skin scrapings positive for KOH mount test.\n\nExclusion Criteria:\n\n* Patients with secondary bacterial",
+      "endpoints": [
+        "frequency of Efficacy in both treatment groups"
+      ],
+      "sponsor": "Jinnah Postgraduate Medical Centre",
+      "url": "https://clinicaltrials.gov/study/NCT06869681"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01724229",
+      "title": "An Open-Label Clinical Case Series to Demonstrate Efficacy of the Kendall Skin Wellness System",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-11",
+      "completion_date": "2013-06",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this evaluation is to observe the performance of two (2) different skin care treatment protocols on the skin:\n\n#1 Kendall™ Body Wash \\& Shampoo in combination with the Moisture Barrier Cream; or #2 Kendall™ 2-in-1 Cleanser in combination with the Anti-fungal Cream.\n\nThe scientific evidence supports using these types of skin care products to keep the skin healthy in the presence of moisture, urine, stool, or fungal infection. The cleansers are preferred over soap and water and can ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAdult subjects with any of the following indications:\n\n* Erythema, maceration, or broken (denuded) skin from moisture, urinary or fecal incontinence\n* Irritated, unbroken skin (perineal area)\n* Fungal infection present in the perineal area\n\nExclusion Criteria:\n\n* An existing pre",
+      "endpoints": [
+        "skin condition following treatment"
+      ],
+      "sponsor": "GM Associates",
+      "url": "https://clinicaltrials.gov/study/NCT01724229"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06119672",
+      "title": "Evaluation of the Efficacy of Supplementary Probiotic Capsules With Topical Clobetasol Propionate 0.05% in the Treatment of Oral Lichen Planus",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2023-05-01",
+      "completion_date": "2023-12-30",
+      "country": "Egypt",
+      "enrollment": 36,
+      "brief_summary": "Oral lichen planus patients who will meet inclusion criteria will be divided into 2 groups\n\n-The intervention group (Group P): This group will be randomly allocated to take one capsule twice daily during meal time at morning and evening of probiotics complex obtained from Biovea for 4 -week study period. Moreover, patients in this group will be instructed to apply clobetasole propionate in orabase gel 2 times daily for 4 weeks. Patients will receive their supply of the gel and probiotics every 2",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are diagnosed with symptomatic lichen planus whether bullous erosive or erythematous oral lichen planus.\n* Male or female patient with age range between 20-75 years old were included.\n* medically free individuals\n\nExclusion Criteria:\n\n* the use of systemic antibio",
+      "endpoints": [
+        "size wound",
+        "Pain in oral cavity"
+      ],
+      "sponsor": "October 6 University",
+      "url": "https://clinicaltrials.gov/study/NCT06119672"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05421858",
+      "title": "An Interventional Efficacy and Safety Phase 3 Double-blind 2-arm Study to Investigate IV Followed by Oral Fosmanogepix Compared With IV Caspofungin Followed by Oral Fluconazole in Adult Participants With Candidemia and/or Invasive Candidiasis",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-12-11",
+      "completion_date": "2028-01-30",
+      "country": "Brazil, South Africa, United States, Colombia, South Korea, Thailand, Italy, Belgium, Australia, Austria, Taiwan, Singapore, Israel, Bulgaria, Greece, China, Germany, France, Argentina, Spain",
+      "enrollment": 450,
+      "brief_summary": "The purpose of this clinical trial is to learn about the safety and effects of the study medicine (called Fosmanogepix) for the potential treatment of candidemia and/or invasive candidiasis, a life-threatening fungal infection caused by several species of yeast called Candida.\n\nThe study is seeking patients who have a diagnosis of candidemia and/or invasive candidiasis.\n\nTwo-thirds of all patients will receive the study medication fosmanogepix Intravenous (IV) infusion followed by optional fosma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients ≥ 18 years (or the minimum country-specific age of consent if \\> 18) at Screening who have provided signed informed consent indicating that they understand the purpose of, and procedures required for, the study, and are willing to participate in the study. If the pat",
+      "endpoints": [
+        "Proportion of patients alive at Day 30",
+        "Proportion of patients with an overall response of treatment success at end of study treatment (EOST)"
+      ],
+      "sponsor": "Basilea Pharmaceutica",
+      "url": "https://clinicaltrials.gov/study/NCT05421858"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02180828",
+      "title": "An Case-controlled Randomized Study to the Efficacy of Clotrimazole Vaginal Tablet vs Fluconazole for Severe Vulvovaginal Candidiasis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2015-09",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "The study is focused to prove that the efficacy and safety of Clotrimazole vaginal tablet vs Fluconazole for the treatment of severe vulvovaginal candidiasis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Vulvovaginal candidiasis infection is diagnosed, the symptoms evaluated using a numerical rating system based on severity (absent=0; mild=1; moderate=2; severe=3) with a minimum VVC Composite Signs/Symptoms score of 7\n2. Subject completes the informed consent process\n3. Subje",
+      "endpoints": [
+        "Therapeutic Efficacy 1",
+        "Therapeutic Efficacy 2",
+        "Therapeutic Efficacy 3"
+      ],
+      "sponsor": "Peking University Shenzhen Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02180828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01729351",
+      "title": "Comparative Effectiveness of Extrafine Hydrofluoroalkane Beclometasone Versus Fluticasone and Chlorofluorocarbon Beclometasone in Smoking Asthma - a Retrospective, Real-life Observational Study in a UK Primary Care Asthma Population",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-06",
+      "country": "N/A",
+      "enrollment": 7195,
+      "brief_summary": "To evaluate the comparative effectiveness of extrafine hydrofluoroalkane beclometasone (EF HFA-BDP) and other inhaled corticosteroid (ICS) therapy commonly used in the UK, specifically fluticasone (FP) and non-extrafine (NEF) BDP (CFC-BDP and NEF HFA-BDP) in a UK primary care asthma population of current smokers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 16-70 years\n* Current smokers - explicitly coded in patient records or captured in patient questionnaires\n* Evidence of asthma diagnosis and current therapy: ≥2 prescriptions for asthma at different points in time during the baseline year ± a diagnostic code for asthma\n* ",
+      "endpoints": [
+        "Asthma Control proxy incorporating SABA use",
+        "Asthma Exacerbations (ATS Definition)"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01729351"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01242098",
+      "title": "Retrospective, Real-life Observational, Matched Cohort Evaluation of the Effectiveness of BDP/FOR (Fostair® 100/6) and FP/SAL (Seretide® 125) in Patients Switching From Seretide to Fostair in UK Primary Care Asthma Management",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2011-12",
+      "country": "United Kingdom",
+      "enrollment": 137,
+      "brief_summary": "The purpose of this study is to evaluate whether beclomethasone dipropionate / formoterol (BDP/FOR; Fostair® 100/6) is at least equivalent in terms of exacerbation prevention to fluticasone dipropionate / salmeterol (FP/SAL; Seretide® 125) in matched asthma patients switching to BDP/FOR following treatment with FP/SAL in normal clinical practice compared with patients not switched.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged:\n\n  * 18-60 years:\n  * 61-80 years who are never-smokers\n* Evidence of asthma:\n\n  * a diagnostic code for asthma, or\n  * ≥2 prescriptions for asthma at different points in time during the prior year\n* Baseline FP/SAL therapy:\n\n  * ≥2 prescription for ICS/LABA therapy as F",
+      "endpoints": [
+        "Exacerbation rate"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01242098"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05882864",
+      "title": "Efficacy of Ginger Muco-bioadhesive Gel in Management of Oral Lichen Planus: A Randomized Controlled Clinical Trial With Immunohistochemical Analysis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-08-01",
+      "completion_date": "2025-08-01",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "1. Compare the clinical efficacy of topical ginger extract versus triamcinolone acetonide 0.1% for symptomatic oral lichen planus (Primary Objective).\n2. Investigate using immunohistochemical analysis the effect of the two different treatment modalities on FasL expression in oral lichen planus lesions (Secondary Objective).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females, aged from 40 to 60 years.\n* Clinically proven painful Bullous/erosive (score 4) or atrophic (score 3) forms of OLP confirmed by the presence of red or erythromatous changes, or shallow ulcerations with fine lacy lines at the periphery of the lesion accentuate",
+      "endpoints": [
+        "Efficacy of Ginger Muco-bioadhesive Gel in Management of Oral Lichen Planus"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT05882864"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00835029",
+      "title": "Efficacy of Slow Release Clotrimazole Varnish Treating Denture Stomatitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2012-02",
+      "country": "Israel",
+      "enrollment": 13,
+      "brief_summary": "Background: Oral candidiasis is most frequently found among the elderly .It is accompanied with oral pain, irritation, burning sensation. In addition, the altered taste sensation may cause nutrition compromise, which may affect ones diet. Management of superficial oral Candida is usually achieved by treatment with clotrimazole, a fungi static drug which is given five times per day with instruction to slowly suck on it with out the dentures.\n\nWorking hypothesis and aims: Management of oral candid",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adults\n* removable denture in mouth\n* diagnosed oral candida\n\nExclusion Criteria:\n\n* allergy to clotrimazole\n* immunosuppressed\n* using other antifungi treatment\n* have an active oral ulcerative disease\n* impaired kidny or live functions",
+      "endpoints": [
+        "Microbial evidence of reduced candida infection"
+      ],
+      "sponsor": "Hadassah Medical Organization",
+      "url": "https://clinicaltrials.gov/study/NCT00835029"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "38364431",
+      "title": "Comparison of the Efficacies of Topical Liposomal Amphotericin B and Topical Clotrimazole in the Treatment of Pityriasis Versicolor.",
+      "abstract": "Pityriasis versicolor (PV) often exhibits recurrence even despite treatment, and a standardized therapy with a complete cure rate remains elusive. Given the fungicidal property of amphotericin B, its potential for PV treatment warrants investigation.",
+      "journal": "Dermatology practical & conceptual",
+      "year": "2024",
+      "authors": [
+        "Ghahartars Mehdi",
+        "Hosseini Hossein",
+        "Khedri Malek",
+        "Sadati Maryam Sadat"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38364431/"
+    },
+    {
+      "pmid": "6309466",
+      "title": "Evaluation of ketoconazole.",
+      "abstract": "The pharmacology, microbiology, pharmacokinetics, clinical use, adverse effects, dosage and administration, and drug interactions of ketoconazole are reviewed. Ketoconazole, a new orally active antifungal agent, is an imidazole derivative structurally related to miconazole and clotrimazole. It impairs the synthesis of ergosterol (the main sterol in fungal cell membranes) in susceptible organisms, including yeast (Candida and Cryptococcus spp.), fungi, and dermatophytes. Ketoconazole is absorbed from the gastrointestinal tract; it is better absorbed from acidic aqueous solutions, so drugs that alter the pH of the stomach affect ketoconazole absorption. Therapeutic plasma concentrations are maintained for several hours following ketoconazole administration. Ketoconazole distributes readily into blood, urine, saliva, joint fluid, sebum, and cerumen; recent data indicate it may penetrate into cerebrospinal fluid as well. Elimination is biphasic, with a half-life of two hours during the fir",
+      "journal": "Clinical pharmacy",
+      "year": "1982",
+      "authors": [
+        "Sohn C A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Fungi",
+        "Humans",
+        "Imidazoles",
+        "Ketoconazole",
+        "Kinetics",
+        "Mycoses",
+        "Piperazines"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6309466/"
+    },
+    {
+      "pmid": "28120351",
+      "title": "Comparative efficacy of topical application of tacrolimus and clotrimazole in the treatment of pityriasis versicolor: A single blind, randomised clinical trial.",
+      "abstract": "Pityriasis versicolor (PV) is a common superficial fungal disease. Possibility of emergence of resistant strains to azoles, and difficulty in differentiation of hypopigmented PV and early vitiligo, encouraged us to evaluate the efficacy of topical tacrolimus (a calcineurin inhibitor agent with proven in vitro anti-Malassezia effect) for PV treatment generally and its effect on PV-induced hypopigmentation specifically.",
+      "journal": "Mycoses",
+      "year": "2017",
+      "authors": [
+        "Sepaskhah Mozhdeh",
+        "Sadat Maryam Sadat",
+        "Pakshir Keyvan",
+        "Bagheri Zahra"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Infective Agents, Local",
+        "Antifungal Agents",
+        "Clotrimazole",
+        "Drug Administration Schedule",
+        "Female",
+        "Humans",
+        "Hypopigmentation",
+        "Male",
+        "Pityriasis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28120351/"
+    },
+    {
+      "pmid": "3607817",
+      "title": "Comparative study of tioconazole and clotrimazole in the treatment of tinea versicolor.",
+      "abstract": "An eight-week comparative study of tioconazole and clotrimazole was carried out in 32 patients with tinea versicolor. Sixteen patients were treated with 1% tioconazole lotion and 16 with 1% clotrimazole solution; each drug was applied twice daily for 28 days. Clinical and mycological direct examinations were performed before treatment and on days 7, 14, and 28 of therapy. All patients underwent overall clinical evaluation 30 days posttreatment. At the end of the study, all patients were clinically and mycologically cured. During the second week of treatment, however, a significant remission in rash (P less than 0.05) was observed in the group treated with tioconazole. None of the treated patients had adverse reactions. Tioconazole is a new imidazolic agent with an intense fungicidal action. It has been found to be effective and safe and is an agent of choice for treating tinea versicolor.",
+      "journal": "Clinical therapeutics",
+      "year": "1987",
+      "authors": [
+        "Alchorne M M",
+        "Paschoalick R C",
+        "Forjaz M H"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adolescent",
+        "Adult",
+        "Antifungal Agents",
+        "Clotrimazole",
+        "Female",
+        "Humans",
+        "Imidazoles",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3607817/"
+    },
+    {
+      "pmid": "271850",
+      "title": "Pityriasis versicolor.",
+      "abstract": "",
+      "journal": "The New Zealand medical journal",
+      "year": "1977",
+      "authors": [
+        "Hawley T G"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Clotrimazole",
+        "Humans",
+        "Imidazoles",
+        "Tinea Versicolor"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/271850/"
+    },
+    {
+      "pmid": "19882007",
+      "title": "Randomized comparative clinical trial of Artemisia sieberi 5% lotion and clotrimazole 1% lotion for the treatment of pityriasis versicolor.",
+      "abstract": "To compare the therapeutic effects of topical Artremisia sieberi 5% lotion with topical clotrimazole 1% lotion in the treatment of pityriasis versicolor.",
+      "journal": "Indian journal of dermatology",
+      "year": "2008",
+      "authors": [
+        "Rad Farrokh",
+        "Aala Farzad",
+        "Reshadmanesh Naser",
+        "Yaghmaie Rokshana"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19882007/"
+    },
+    {
+      "pmid": "20649710",
+      "title": "Single-dose oral fluconazole versus topical clotrimazole in patients with pityriasis versicolor: A double-blind randomized controlled trial.",
+      "abstract": "This study was designed to compare the therapeutic effects of topical clotrimazole and systemic fluconazole in pityriasis versicolor. A double-blind randomized controlled trial was carried out in the dermatological clinic of Gorgan, northern Iran, between April 2006 and May 2007. All consecutive patients with pityriasis versicolor were included and randomly divided into two groups. In the first group (G1), patients underwent treatment with a single dose of fluconazole capsule (400 mg) and placebo cream. In the second group (G2), patients underwent treatment with clotrimazole cream (twice daily) and placebo capsule. The course of treatment was 2 weeks. All subjects were re-evaluated 2, 4 and 12 weeks after the end of the therapeutic course. After 2 weeks, the rate of complete resolution of disease was significantly higher in G2 than G1 (49.1% vs 30%). After 4 weeks, 41 patients (81.2%) of G1 and 52 patients (94.9%) of G2 showed complete resolution. After 12 weeks, 46 patients (92%) in G",
+      "journal": "The Journal of dermatology",
+      "year": "2010",
+      "authors": [
+        "Dehghan Mohammad",
+        "Akbari Negin",
+        "Alborzi Nazila",
+        "Sadani Somayeh",
+        "Keshtkar Abas A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Antifungal Agents",
+        "Clinical Protocols",
+        "Clotrimazole",
+        "Double-Blind Method",
+        "Female",
+        "Fluconazole",
+        "Humans",
+        "Male",
+        "Recurrence"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20649710/"
+    },
+    {
+      "pmid": "3332758",
+      "title": "Treatment of pityriasis versicolor: comparison of sulconazole nitrate 1% solution and clotrimazole 1 % solution.",
+      "abstract": "",
+      "journal": "The Australasian journal of dermatology",
+      "year": "1987",
+      "authors": [
+        "Tham S N"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adolescent",
+        "Adult",
+        "Antifungal Agents",
+        "Clinical Trials as Topic",
+        "Clotrimazole",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Imidazoles"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3332758/"
+    },
+    {
+      "pmid": "326197",
+      "title": "Double-blind trial of 1% clotrimazole cream and Whitfield ointment in the treatment of pityriasis versicolor.",
+      "abstract": "",
+      "journal": "Archives of dermatology",
+      "year": "1977",
+      "authors": [
+        "Clayton R",
+        "Du Vivier A",
+        "Savage M"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Letter",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Benzoates",
+        "Clinical Trials as Topic",
+        "Clotrimazole",
+        "Humans",
+        "Imidazoles",
+        "Ointments",
+        "Salicylates",
+        "Tinea Versicolor"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/326197/"
+    },
+    {
+      "pmid": "20948094",
+      "title": "A double-blind comparison of 2% ketoconazole and 1% clotrimazole in the treatment of pityriasis versicolor.",
+      "abstract": "Forty adult patients of pityriasis versicolor were treated with either topical 2% ketoconazole cream (20 patients) or topical 1% clotrimazole cream (20 patients). In global assessment of treatment after 2 weeks, 18 (90%) out of 20 patients treated with ketoconazole cream were cured while 2 cases had considerable residual lesions. In clotrimazole treated group, 17 (85%) out of 20 patients were cured and 3 still had considerable lesions. No significant difference was observed in response rates in the two groups. No side effects were reported in either groups.",
+      "journal": "Indian journal of dermatology, venereology and leprology",
+      "year": "1996",
+      "authors": [
+        "Balwada R P",
+        "Jain V K",
+        "Dayal S"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20948094/"
+    },
+    {
+      "pmid": "31287594",
+      "title": "Cutaneous candidiasis - an evidence-based review of topical and systemic treatments to inform clinical practice.",
+      "abstract": "Cutaneous candidiasis is a common skin disease, and several treatments have been investigated within the last fifty years. Yet, systematic reviews are lacking, and evidence-based topical and systemic treatment strategies remain unclear. Thus, the aim of this review was to summarize efficacy and adverse effects of topical and oral therapies for cutaneous candidiasis in all age groups. Two individual researchers searched PubMed and EMBASE for 'cutaneous candidiasis' and 'cutaneous candidiasis treatment', 'intertrigo', 'diaper dermatitis' and 'cheilitis'. Searches were limited to 'English language', 'clinical trials' and 'human subjects', and prospective clinical trials published in abstracts or articles were included. In total, 149 studies were identified, of which 44 were eligible, comprising 41 studies of 19 topical therapies and four studies of three systemic therapies for cutaneous candidiasis. Topical therapies were investigated in infants, children, adolescents, adults and elderly,",
+      "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "year": "2019",
+      "authors": [
+        "Taudorf E H",
+        "Jemec G B E",
+        "Hay R J",
+        "Saunte D M L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Administration, Topical",
+        "Antifungal Agents",
+        "Candidiasis, Cutaneous",
+        "Clotrimazole",
+        "Drug Therapy, Combination",
+        "Evidence-Based Medicine",
+        "Fluconazole",
+        "Humans",
+        "Ketoconazole"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31287594/"
+    },
+    {
+      "pmid": "37536641",
+      "title": "Topical delivery systems containing clotrimazole for the management of candidiasis: Effect of different excipients and enhanced antifungal activity of nanovesicles.",
+      "abstract": "WHO classified Candida albicans as one of the four critical priority fungi for public health worldwide in 2022. Conventional topical formulations commercially available for the treatment of cutaneous candidiasis are associated with low drug bioavailability at the infection site and the lack of a sustained therapeutic effect. The main objectives of this work were to develop new topical administration systems of clotrimazole (CLT) and study the influence of surfactants on the antifungal inhibitory efficacy. Therefore, the minimum concentration of CLT required to inhibit 50 % of growth (MIC50) was determined, obtaining a value of approximately 15 ng/mL. A non-ionic emulsion type 1, Beeler base cream, hydrogel and liposomes containing CLT were designed, prepared, characterized and their antifungal activity against C. albicans was tested. CLT loaded liposomes were small in size (102 nm), homogeneous (polydispersity index = 0.3) and uncharged (+0.07 mV), showing higher antifungal activity ag",
+      "journal": "International journal of pharmaceutics",
+      "year": "2023",
+      "authors": [
+        "Usach Iris",
+        "Martínez-Álvarez Paula",
+        "Peris José-Esteban"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Clotrimazole",
+        "Antifungal Agents",
+        "Excipients",
+        "Liposomes",
+        "Candidiasis",
+        "Candida albicans",
+        "Surface-Active Agents"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37536641/"
+    },
+    {
+      "pmid": "1097234",
+      "title": "Clotrimazole: a review of its antifungal activity and therapeutic efficacy.",
+      "abstract": "Clotrimazole 2, a synthetic imidazole derivative, is primarily used locally in the treatment of vaginal and skin infections due to yeasts and dermatophytes. In vitro, it is most active against Candida spp., Trichophyton spp., Microsporum spp. and Malazzesia fuffur (Pityrosporon orbiculare). In addition, it has some in vitro activity against certain Gram-positive bacteria, and at very high concentrations has activity against Trichomonas spp. In the treatment of vaginal candidiasis, clotrimazole vaginal tablets have produced cure rates comparable with those of conventional nystatin vaginal tablets. There have been no published comparisons with nystatin vaginal cream or foaming vaginal tablets - nystatin dosage forms preferred by some clinicians. Cootrimazole has also been successful in patients who had failed to respond to other antifungal agents such as nystatin and amphotericin B. Results in trichomonal vaginitis are not impressive. Skin infections caused by Candida or dermatophytes ha",
+      "journal": "Drugs",
+      "year": "1975",
+      "authors": [
+        "Sawyer P R",
+        "Brogden R N",
+        "Pinder R M",
+        "Speight T M",
+        "Avery"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Amoeba",
+        "Animals",
+        "Candidiasis",
+        "Clotrimazole",
+        "Dogs",
+        "Drug Resistance, Microbial",
+        "Female",
+        "Fungi",
+        "Humans",
+        "Imidazoles"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1097234/"
+    },
+    {
+      "pmid": "23560821",
+      "title": "Polymeric microparticles-based formulation for the eradication of cutaneous candidiasis: development and characterization.",
+      "abstract": "Cutaneous candidiasis is a common topical fungal infection which may be more prominent in patients associated with AIDS. It is usually treated by conventional formulations such as cream, gel, which show various adverse effects on skin along with systemic absorption. To overcome these drawbacks, various novel drug delivery systems have been explored. Poly(lactic-co-glycolic acid) (PLGA)-based microparticulate systems have shown good dermal penetration after topical application. Therefore, in the present study clotrimazole-loaded PLGA microspheres were prepared for targeted dermal delivery. Microspheres were prepared by using a single emulsification (oil-in-water, O/W) evaporation technique and characterized for different parameters. Prepared microparticulate systems were dispersed in Carbopol 934® gel and antifungal activity was carried out on experimentally induced cutaneous candidiasis in immunosuppressed guinea pigs. Particle size of optimized formulation was 2.9 µm along with 74.85%",
+      "journal": "Pharmaceutical development and technology",
+      "year": "2014",
+      "authors": [
+        "Kumar Lalit",
+        "Verma Shivani",
+        "Jamwal Sumit",
+        "Vaidya Shubha",
+        "Vaidya Bhuvaneshwar"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antifungal Agents",
+        "Candidiasis, Cutaneous",
+        "Clotrimazole",
+        "Drug Delivery Systems",
+        "Gels",
+        "Guinea Pigs",
+        "Lactic Acid",
+        "Particle Size",
+        "Polyglycolic Acid"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23560821/"
+    },
+    {
+      "pmid": "29953171",
+      "title": "Efficacy and Safety in 1% Clotrimazole Powder, Adjuvant Therapy in Patients with Superficial Fungal Cutaneous Infection in Intertriginous Areas.",
+      "abstract": "Superficial fungal cutaneous infection is commonly found in intertriginous area.",
+      "journal": "Journal of the Medical Association of Thailand = Chotmaihet thangphaet",
+      "year": "2016",
+      "authors": [
+        "Desomchoke Rasthawathana",
+        "Bunyaratavej Sumanas",
+        "Leeyaphan Charussri",
+        "Prasertworonun Nuntida",
+        "Rujitharanawong Chuda"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Antifungal Agents",
+        "Candidiasis, Cutaneous",
+        "Clotrimazole",
+        "Dermatomycoses",
+        "Female"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29953171/"
+    },
+    {
+      "pmid": "11302816",
+      "title": "In vitro antifungal activity of KP-103, a novel triazole derivative, and its therapeutic efficacy against experimental plantar tinea pedis and cutaneous candidiasis in guinea pigs.",
+      "abstract": "The in vitro activity of KP-103, a novel triazole derivative, against pathogenic fungi that cause dermatomycoses and its therapeutic efficacy against plantar tinea pedis and cutaneous candidiasis in guinea pigs were investigated. MICs were determined by a broth microdilution method with morpholinepropanesulfonic acid-buffered RPMI 1640 medium for Candida species and with Sabouraud dextrose broth for dermatophytes and by an agar dilution method with medium C for Malassezia furfur. KP-103 was the most active of all the drugs tested against Candida albicans (geometric mean [GM] MIC, 0.002 microg/ml), other Candida species including Candida parapsilosis and Candida glabrata (GM MICs, 0.0039 to 0.0442 microg/ml), and M. furfur (GM MIC, 0.025 microg/ml). KP-103 (1% solution) was highly effective as a treatment for guinea pigs with cutaneous candidiasis and achieved mycological eradication in 8 of the 10 infected animals, whereas none of the imidazoles tested (1% solutions) was effective in e",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "year": "2001",
+      "authors": [
+        "Tatsumi Y",
+        "Yokoo M",
+        "Arika T",
+        "Yamaguchi H"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antifungal Agents",
+        "Blood Proteins",
+        "Candida",
+        "Candidiasis, Cutaneous",
+        "Culture Media",
+        "Disease Models, Animal",
+        "Guinea Pigs",
+        "Hair",
+        "Microbial Sensitivity Tests"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11302816/"
+    },
+    {
+      "pmid": "31028492",
+      "title": "Impact of Process Parameters on Particle Size Involved in Media Milling Technique Used for Preparing Clotrimazole Nanocrystals for the Management of Cutaneous Candidiasis.",
+      "abstract": "Clotrimazole is widely used for the management of cutaneous candidiasis infection. The low solubility of clotrimazole and excipient-related topical side effects (of currently available marketed products) cause the compromised efficacy of the therapy with poor patient compliance. In the present investigation, a clotrimazole nanocrystal-based nanogel was developed. Clotrimazole nanocrystals were optimized with studying the impact of individual process parameters of the media milling technique. The optimum level of individual process parameters was considered in the development of optimized batches. A promising result was obtained with a non-ionic stabilizer, polysorbate 80, at a concentration of 1.5%w/v, showing a distinct reduction in the particle size from above 31 μm to 264 nm and a polydispersity index of 0.211 with media milling at 1500 rpm for 6 h. This result was found to be in concordance with the TEM images, revealing a sharp diminution in particle morphology. Powder X-ray diffr",
+      "journal": "AAPS PharmSciTech",
+      "year": "2019",
+      "authors": [
+        "Patel Viral",
+        "Sharma Om Prakash",
+        "Mehta Tejal A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antifungal Agents",
+        "Candida albicans",
+        "Candidiasis, Cutaneous",
+        "Clotrimazole",
+        "Diffusion",
+        "Drug Compounding",
+        "Irritants",
+        "Nanoparticles",
+        "Particle Size"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31028492/"
+    },
+    {
+      "pmid": "31174342",
+      "title": "Optimization of Innovative Three-Dimensionally-Structured Hybrid Vesicles to Improve the Cutaneous Delivery of Clotrimazole for the Treatment of Topical Candidiasis.",
+      "abstract": "New three-dimensionally-structured hybrid phospholipid vesicles, able to load clotrimazole in a high amount (10 mg/mL), were obtained for the first time in this work by significantly reducing the amount of water (≤10%), which was replaced with a mixture of glycerol and ethanol (≈90%). A pre-formulation study was carried out to evaluate the effect of both the composition of the hydrating medium and the concentration of the phospholipid on the physico-chemical properties of hybrid vesicles. Four different three-dimensionally-structured hybrid vesicles were selected as ideal systems for the topical application of clotrimazole. An extensive physico-chemical characterization performed using transmission electron microscopy (TEM), cryogenic transmission electron microscopy (cryo-TEM), 31P-NMR, and small-angle X-ray scattering (SAXS) displayed the formation of small, multi-, and unilamellar vesicles very close to each other, and was capable of forming a three-dimensional network, which stabil",
+      "journal": "Pharmaceutics",
+      "year": "2019",
+      "authors": [
+        "Manca Maria Letizia",
+        "Usach Iris",
+        "Peris José Esteban",
+        "Ibba Antonella",
+        "Orrù Germano"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31174342/"
+    },
+    {
+      "pmid": "6354167",
+      "title": "Treatment of cutaneous candidiasis: a double blind, parallel comparison of sulconazole nitrate 1% cream and clotrimazole 1% cream.",
+      "abstract": "",
+      "journal": "The Australasian journal of dermatology",
+      "year": "1983",
+      "authors": [
+        "Rajan V S",
+        "Thirumoorthy T"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Antifungal Agents",
+        "Candidiasis, Cutaneous",
+        "Clinical Trials as Topic",
+        "Clotrimazole",
+        "Double-Blind Method",
+        "Humans",
+        "Imidazoles",
+        "Random Allocation"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6354167/"
+    },
+    {
+      "pmid": "10439936",
+      "title": "Terbinafine. An update of its use in superficial mycoses.",
+      "abstract": "Terbinafine is an allylamine antifungal agent which has fungicidal activity against a wide variety of dermatophytes, moulds and certain dimorphic fungi, and fungistatic activity against Candida albicans. Oral terbinafine 250 mg/day is effective in the treatment of superficial dermatophyte infections such as onychomycosis, tinea pedis and tinea corporis/cruris, generally achieving mycological cure in > 80% of patients. The drug is also effective in children with tinea capitis when administered orally in the dosage range 62.5 to 250 mg/day for 4 weeks. Comparative data indicate that oral terbinafine is more effective than continuous or intermittent intraconazole in dermatophyte onychomycosis, and is as effective as itraconazole 400 mg/day in tinea pedis. The drug has shown greater efficacy than griseofulvin in dermatophyte onychomycosis, tinea pedis and tinea corporis/cruris, and comparable efficacy in children with tinea capitis. Additionally, oral terbinafine is more effective than ket",
+      "journal": "Drugs",
+      "year": "1999",
+      "authors": [
+        "McClellan K J",
+        "Wiseman L R",
+        "Markham A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antifungal Agents",
+        "Dermatomycoses",
+        "Humans",
+        "Naphthalenes",
+        "Terbinafine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10439936/"
+    }
+  ]
+}

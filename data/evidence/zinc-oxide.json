@@ -1,0 +1,1000 @@
+{
+  "drug": "Zinc Oxide",
+  "drugbank_id": "DB09321",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T09:58:27Z",
+  "indications": [
+    {
+      "indication": "dermatitis",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 1,
+        "phase1_trials": 0,
+        "other_trials": 18,
+        "rct_articles": 1,
+        "review_articles": 3,
+        "other_articles": 6,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "proctitis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "exanthem",
+      "evidence_level": "L2",
+      "trials": 16,
+      "articles": 2,
+      "summary": {
+        "phase3_trials": 1,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 15,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 2,
+        "total_trials": 16,
+        "total_articles": 2
+      }
+    },
+    {
+      "indication": "tinea pedis",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "cutaneous candidiasis",
+      "evidence_level": "L2",
+      "trials": 0,
+      "articles": 8,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 1,
+        "review_articles": 3,
+        "other_articles": 4,
+        "total_trials": 0,
+        "total_articles": 8
+      }
+    }
+  ],
+  "total_trials": 36,
+  "total_articles": 22,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04101890",
+      "title": "The Healthy Baby Bottoms Study: A Trial of Theraworx Foam Formulation for the Prevention and Treatment of Diaper Dermatitis",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2020-03-12",
+      "completion_date": "2021-01-02",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "Diaper dermatitis is one of the most common dermatologic diseases affecting infants and children. The incidence is highest among those 9-12 months old and it has been reported to affect 7-50% of infants in the US. It is caused by skin exposure to a combination of several factors including: excessive moisture, topical irritants, reduced pH, friction, maceration and bacterial infection. When infants soil their diaper, diaper contents saturate the area raising the pH of the skin above the normal le",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Read English at the 8th grade level\n* Have reliable access to email for 7 weeks\n* Complete the first online survey within 24 hours of the request\n* Custodial guardian of an infant between the ages of 1-12 months old living with him/her, wearing diapers, and has had ≥1 diaper r",
+      "endpoints": [
+        "Caregiver's Self-report of Prevention of Diaper Dermatitis in Infant"
+      ],
+      "sponsor": "Children's National Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT04101890"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06134505",
+      "title": "Evaluation of the Efficiency of Local Application of Bee Products in the Care of Diaper Dermatitis in Infants",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-12-24",
+      "completion_date": "2023-11-08",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 93,
+      "brief_summary": "The aim of this study was to evaluate the local application of bee products in the care of diaper dermatitis in infants.\n\n1. H1: Barrier cream 1, consisting of a mixture of propolis, beeswax, queen bee larva and plants oil used in the care of diaper dermatitis, is more effective in recovering diaper dermatitis than barrier cream 2 containing zinc oxide.\n2. H2: Barrier cream 1, consisting of a mixture of propolis, beeswax, queen bee larva and plants oil used in the care of diaper dermatitis, is m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants aged 1-6 months registered at Family Health Centers No. 1, No. 2 and No. 3,\n* Infants aged 1-6 months admitted to Kumluca State Hospital's Pediatric Outpatient Clinic,\n* Infants with grade one diaper dermatitis according to the Uncomplicated Diaper Dermatitis in Infant",
+      "endpoints": [
+        "Scale for Assessing the Severity of Uncomplicated Diaper Dermatitis in Infants"
+      ],
+      "sponsor": "Karadeniz Technical University",
+      "url": "https://clinicaltrials.gov/study/NCT06134505"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06396689",
+      "title": "NapBiome: Targeting Gut Microbiota and Sleep Rhythm to Improve Developmental and Behavioral Outcomes in Early Childhood",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-03-01",
+      "completion_date": "2029-02-28",
+      "country": "Switzerland",
+      "enrollment": 380,
+      "brief_summary": "The gut-brain axis plays a crucial role in the regulation and development of psychological and physical processes. The first year of life is a critical period for the development of the gut microbiome, which parallels important milestones in establishing sleep rhythm and neurodevelopment. Growing evidence suggests that the gut microbiome influences sleep, cognition, and early neurodevelopment. For term and preterm-born infants, difficulties in sleep regulation can have major consequences on infa",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPreterm-arm:\n\n* neonates born between a gestational age of 34 0/7 to 36 6/7 weeks\n* partially breast-fed at the time of inclusion\n\nTerm-arm\n\n* neonates born at a gestational age of ≥ 37 0/7 weeks Infants need to be\n* partially breast-fed at the time of inclusion\n\nExclusion Crite",
+      "endpoints": [
+        "Sleep-wake behavior",
+        "Neuronal connectivity",
+        "Neurobehavioral development"
+      ],
+      "sponsor": "University of Fribourg",
+      "url": "https://clinicaltrials.gov/study/NCT06396689"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04625426",
+      "title": "Evaluate the Efficacy of Two Advanced Skin Treatment Regimens in Treating Incontinence-associated Dermatitis: Cluster Randomization Study",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2019-04-29",
+      "completion_date": "2020-09-30",
+      "country": "Singapore",
+      "enrollment": 86,
+      "brief_summary": "The aim of this study is to evaluate the efficacy of two different skin care regimens (3M Cavilon Advanced Skin Protectant with 3M No-Rinse Cleanser and Coloplast Conveen Critic Barrier with Easi-Cleanser) against standard care (Skin wipes and Conveen Critic Barrier) in the management of Incontinence-Associated Dermatitis (IAD) in hospitalised patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 21 years and above at point of recruitment\n* Diagnosed with IAD\n* At regular risk of exposure to urine and faeces over their hospitalization\n\nExclusion Criteria:\n\n* Having a known allergy to the treatment products\n* Haemodynamically unstable at point of assessment for stu",
+      "endpoints": [
+        "Number of Participants Who Experienced IAD Healing",
+        "Proportion of Participants With IAD Healing"
+      ],
+      "sponsor": "Tan Tock Seng Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04625426"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05427760",
+      "title": "Effect of Using Oxygen on the Diaper Dermatitis in Infants",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-10-15",
+      "completion_date": "2023-04-15",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 103,
+      "brief_summary": "Background: Airing the diaper area has a positive effect on dermatitis. In addition, it is reported in the literature that oxygen is effective in wound care. The aim of our study is to investigate the effect of oxygen on infant diaper dermatitis.\n\nMethod: The study population consisted of infants will admit to the neonatal intensive care unit of a public hospital in Istanbul between October 2022 and April 2023. Sixty newborns who met the study criteria will randomly divide into two as the experi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Approved by the family for the study\n* Born between 34-42. gestational weeks\n* No skin disease other than diaper dermatitis\n* No skin lesions of another disease other than dermatitis-related lesions in the gland area\n* Newborns who has stable vital signs\n\nExclusion Criteria:\n\n",
+      "endpoints": [
+        "Diaper dermatitis healing scale result"
+      ],
+      "sponsor": "Istanbul University - Cerrahpasa",
+      "url": "https://clinicaltrials.gov/study/NCT05427760"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02570139",
+      "title": "Multi-Center, Randomized Trial Comparing the Efficacy of 3M™ Cavilon™ Advanced Barrier Film for the Treatment of Incontinence-associated Dermatitis to a Commercially Available Moisture Barrier",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2015-10",
+      "completion_date": "2017-06-23",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "The purpose of the study is to evaluate the safety and efficacy of the investigational product (3M™ Cavilon™ Advanced High Endurance Skin Protectant) for the treatment of incontinence associated dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects may be enrolled into this study if the answers to all these questions are yes.\n\n1. Is the subject a full-term newborn (36 weeks or greater gestational age) or older?\n2. Is the subject in a facility providing nursing care 24 hours per day?\n3. Does the subject have severe",
+      "endpoints": [
+        "Percent Change From Baseline to End of Study in Incontinence Associated Dermatitis (IAD) Scores"
+      ],
+      "sponsor": "Solventum US LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02570139"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03309059",
+      "title": "Comparison Between the Effect of Zinc Oxide and Non-irritant Barrier Film on the Prevention of Incontinence-Associated Dermatitis in Hospitalized Elderly in a Teaching Hospital",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-05",
+      "completion_date": "2018-08-01",
+      "country": "Brazil",
+      "enrollment": 138,
+      "brief_summary": "In clinical practice, there are a large number of patients hospitalized with Incontinence-Associated Dermatitis. Studies are needed to determine the effectiveness of products available for disease prevention. It is believed that the use of the non-irritant barrier film is superior to the use of zinc oxide in the prevention of Incontinence-Associated Dermatitis. The objective of this study is to compare the effect of the use of zinc oxide ointment with the use of non-irritant barrier film in the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 60 or older, exhibit stifle incontinence, wear disposable diapers, and be at risk for Incontinence-Associated Dermatitis\n\nExclusion Criteria:\n\n* Patients with allergic reaction to the products used in the study",
+      "endpoints": [
+        "Skin integrity assessment"
+      ],
+      "sponsor": "Federal University of Minas Gerais",
+      "url": "https://clinicaltrials.gov/study/NCT03309059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06370637",
+      "title": "Comparison of an Enhanced Barrier Cream to Standard of Care for the Treatment of Moisture Associated Skin Damage From Fecal Incontinence in an Ambulatory Population",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01",
+      "completion_date": "2027-06",
+      "country": "Canada",
+      "enrollment": 40,
+      "brief_summary": "Liquid stool and diarrhea are associated with an increased risk for moisture-associated skin damage (MASD), and clinical evidence suggests that exposure to liquid stool is associated with severe MASD and extensive erosion of affected skin. There are no known products on the market that treat fecal incontinence or MASD caused by fecal enzyme activity.\n\nScotiaderm has invented a novel barrier cream (Dermategrity Everyday Barrier Cream) with an enhanced formula containing zinc oxide and soybean ext",
+      "eligibility_criteria": "Inclusion Criteria\n\n* ≥18 years of age\n* Clinical diagnosis of incontinence-associated dermatitis resulting from diarrhea and/or fecal incontinence.\n* Able to provide written informed consent\n* Either able to self-administer barrier cream to the affected region OR administer with the assistance of a",
+      "endpoints": [
+        "GLOB-IAD Clinical Assessment",
+        "Visual Analog Scale for Erythema"
+      ],
+      "sponsor": "Scotiaderm",
+      "url": "https://clinicaltrials.gov/study/NCT06370637"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00219466",
+      "title": "A Parallel, Evaluator-Blind, Randomized Clinical Trial to Evaluate the Efficacy and Safety of Two Marketed Topical Skin Protectants Containing Zinc Oxide in Children With Diaper Rash",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-06",
+      "completion_date": "2005-10",
+      "country": "United States",
+      "enrollment": 112,
+      "brief_summary": "To evaluate whether Desitin; Zinc Oxide Diaper Rash Ointment (Desitin Original) and Desitin Creamy; Zinc Oxide Diaper Rash Ointment (Desitin Creamy) provide relief of the signs and symptoms associated with diaper rash after 12 and 24 hours of product application.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male and female children, 2-36 months of age\n* Wear diapers 24 hours per day\n* Present to the test facility for enrollment at baseline with diaper rash receiving an \"Overall Severity Score\" greater than or equal to 1.5 as determined by the trained evaluator\n* Parent/gu",
+      "endpoints": [
+        "Trained evaluator's assessment of the severity of diaper rash and Parent/guardian's assessment of response to treatment"
+      ],
+      "sponsor": "Johnson & Johnson Consumer and Personal Products Worldwide",
+      "url": "https://clinicaltrials.gov/study/NCT00219466"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02080247",
+      "title": "A Randomized Controlled Clinical Study Comparing the Efficacy and Safety of Calmoseptine vs Destin Maximum Strength Diaper Rash Paste in Treatment of Incontinence Associated Dermatitis in Older Children and Adults",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2014-04",
+      "country": "Philippines",
+      "enrollment": 142,
+      "brief_summary": "A randomized controlled trial that compared the use of two topical zinc oxide based diaper rash products in a structured care regimen for the treatment of IAD in hospitalized adults and older children.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant or next of kin/parent/guardian agree to study inclusion and sign the informed consent form or the assent form according to detailed guidance in the consent / assent section.\n* Ages: children (at least 12 years old and up to 18 years old ) and adults (18 years old a",
+      "endpoints": [
+        "Complete healing of Incontinence Associated Dermatitis"
+      ],
+      "sponsor": "University of the Philippines",
+      "url": "https://clinicaltrials.gov/study/NCT02080247"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03051321",
+      "title": "Maintaining Lower Levels of Care Through Automated Perineal Hygiene",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2017-04-01",
+      "completion_date": "2018-10",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "The inability to independently manage perineal hygiene after toileting is a common issue for those in assisted living and nursing home environments. It is associated with skin breakdown (dermatitis), increased nursing costs, and loss of patient self-esteem and independence. Water-based toileting has been evaluated as a possible adjunct to patient care, but its uptake has been limited by ineffective cleansing and drying.\n\n40 subjects with limitations in independent capacity for perineal hygiene t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Limitation of Activity of Daily Living - Toileting, requiring assistance, beginning stages of unmanaged incontinence. For the purposes of this study, toileting refers to maintenance of hygiene and ability to clean the perineum after urination or defecation. It does not includ",
+      "endpoints": [
+        "Days Remaining in independent living environment"
+      ],
+      "sponsor": "SchwabCare",
+      "url": "https://clinicaltrials.gov/study/NCT03051321"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02299206",
+      "title": "Randomized, Double-Blind, Parallel Group, Non-Inferiority Clinical Trial of CeraVe Baby Diaper Rash Cream Compared to Desitin Maximum Strength Original Paste for Management of Diaper Dermatitis in Infants",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2014-12",
+      "completion_date": "2016-07",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "This is a single-center, 1:1 randomized, double-blind, parallel-group, non-inferiority controlled trial to demonstrate non-inferiority of CeraVe Baby Diaper Rash Cream compared to Desitin Maximum Strength Original Paste when administered to children with diaper dermatitis who are between 3 months to 18 months of age. Parents/caregivers of subjects in both groups will administer the product with each diaper change throughout the course of the study period. Product can be applied liberally as need",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy children (except for diaper dermatitis) between 3 and 18 months of age\n* Wearing diapers 24 hours per day\n* Clinical irritant diaper dermatitis\n* Received a Diaper Dermatitis severity score of 1.0 to 2.0 by investigator at screening visit (mild-moderate severity)\n* Par",
+      "endpoints": [
+        "Change From Baseline for the Physician Assessment Diaper Dermatitis Scores to Day 14 for Each Treatment Group."
+      ],
+      "sponsor": "Northwestern University",
+      "url": "https://clinicaltrials.gov/study/NCT02299206"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07186907",
+      "title": "Hydrocolloid Dressing for Diaper Dermatitis in NICU Hospitalized Neonates and Young Infants: A Quasi-Experimental Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-11-13",
+      "completion_date": "2018-03-17",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 44,
+      "brief_summary": "Diaper dermatitis (commonly known as diaper rash) is one of the most frequent skin problems in newborns and infants, especially in neonatal intensive care units (NICUs). This study was designed to compare two treatment approaches for diaper dermatitis: hydrocolloid dressings and a cream containing 40% zinc oxide. The severity of diaper rash was evaluated at the beginning of treatment and at 24, 48, and 72 hours of follow-up.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hospitalization in the NICU\n* Body weight greater than 1000 g at the start of the intervention\n* Gestational age above 26 weeks\n* Diaper dermatitis diagnosis confirmed by a clinician\n* Clinically stable condition at enrollment\n* Written informed consent obtained from parents o",
+      "endpoints": [
+        "Change in diaper dermatitis severity score",
+        "Time to complete healing of diaper dermatitis"
+      ],
+      "sponsor": "University of Beykent",
+      "url": "https://clinicaltrials.gov/study/NCT07186907"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02716415",
+      "title": "Randomized Controlled Trial Comparing the Efficacy and Safety of Calmoseptine Ointment and Desitin Maximum Strength 40% Zinc Oxide Diaper Rash Paste in Diaper Dermatitis in Neonates and Infants",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-03",
+      "completion_date": "2018-03-31",
+      "country": "Philippines",
+      "enrollment": 319,
+      "brief_summary": "The purpose of this study is to compare the efficacy and safety of Calmoseptine Ointment and Desitin Maximum Strength 40% Zinc Oxide Diaper Rash Paste in the treatment of diaper dermatitis among Neonates and Infants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The child participant must be \\< 1 year of age.\n2. The participant must, upon clinical inspection by an investigator, be assessed to have diaper dermatitis ≥ Grade 2 according to the study's diaper dermatitis severity scale (see \"Primary Outcome\").\n3. The participant's parent",
+      "endpoints": [
+        "Healing of diaper Dermatitis"
+      ],
+      "sponsor": "University of the Philippines",
+      "url": "https://clinicaltrials.gov/study/NCT02716415"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04606004",
+      "title": "Perianal Maceration in Pediatric Ostomy Closure Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-11-24",
+      "completion_date": "2021-05-07",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "This pilot study will explore whether preoperative application of stool from the stoma bag to the perianal area will prevent/ decrease postoperative perianal maceration in pediatric ostomy closure patients. It will also explore the overall safety and feasibility of this pilot study for larger randomized control trials. There will be a control group and an intervention group. The intervention group will apply stool from the stoma bag approximately 4 weeks prior to ostomy closure and fill out a co",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ostomy closure (colostomy \\& ileostomy)\n* ages 3 years \\& under (still in diapers)\n* male \\& female\n* Scheduled ostomy closure in approximately 4 weeks.\n* The legal guardian/parent of subject must have a personal device, such as a cell phone, that has access to internet in ord",
+      "endpoints": [
+        "Perianal skin maceration in the group receiving the intervention vs. the control group"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT04606004"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06800352",
+      "title": "Investigation of the Effect of Olive Oil and Centaury Oil in the Management of Diaper Dermatitis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-12-30",
+      "completion_date": "2025-06-30",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 45,
+      "brief_summary": "Diaper dermatitis is a preventable health problem. No study evaluating the efficacy of centaury oil in diaper dermatitis was found in the literature. This study will be conducted to investigate the effect of olive oil and centaury oil in the management of diaper dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The baby has mild diaper dermatitis according to the diaper dermatitis severity rating scale\n* The baby receives antibiotic treatment\n* The baby gets additional food\n* The baby is between 6-18 months\n\nExclusion Criteria:\n\n* Infants with moderate or severe diaper dermatitis acc",
+      "endpoints": [
+        "Outcome Measures"
+      ],
+      "sponsor": "Harran University",
+      "url": "https://clinicaltrials.gov/study/NCT06800352"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06770374",
+      "title": "Effectiveness of a Zinc Oxide Adhesive Securement Device in the Fixation of Midline and Peripherally Inserted Central Catheters in Hospitalized Adult Patients: Randomised Clinical Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-02-01",
+      "completion_date": "2026-12-31",
+      "country": "Spain",
+      "enrollment": 400,
+      "brief_summary": "Study in which a zinc oxide fixation device (a product that can help protect the skin) for catheters (polyurethane tubes inserted into a vein) will be tested to reduce catheter-related complications: catheter displacement, skin complications, phlebitis and pain..",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* requiring cannulation of a midline catheter or a PICC\n* who accepted and signed the informed consent voluntarily\n* with an inpatient unit admission of minimum 7 days\n\nExclusion Criteria:\n\n\\- patients with a known allergy to zinc oxide",
+      "endpoints": [
+        "Number of participants with treatment-related adverse events as assessed by CTCAE v5.0."
+      ],
+      "sponsor": "Hospital Arnau de Vilanova",
+      "url": "https://clinicaltrials.gov/study/NCT06770374"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06958003",
+      "title": "Neonatal Intensive Care Unit (NICU) Diaper Dermatitis: Prevention and Treatment With Airtime",
+      "phase": "NA",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2025-01-21",
+      "completion_date": "2027-12-21",
+      "country": "United States",
+      "enrollment": 320,
+      "brief_summary": "The purpose of this study is to investigate the use of 3-5 minutes air therapy for the prevention and treatment of diaper dermatitis in infants 30 weeks and older receiving care in the neonatal intensive care unit (NICU).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Receiving care at Good Samaritan Hospital NICU\n* At least 30 weeks gestation at birth and corrected or older or corrected gestation\n* Birth to 1 year old\n* Stable vital signs (temperature, pulse, blood pressure, and oxygen saturation)\n\nExclusion Criteria:\n\n* Parent/legal guard",
+      "endpoints": [
+        "Occurrence of diaper dermatitis"
+      ],
+      "sponsor": "TriHealth Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06958003"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03461302",
+      "title": "A Randomized Controlled Pilot Study Comparing the Efficacy of Topical Coal Tar to Topical Corticosteroids in Children Aged 1 to < 16 Years With Moderate-severe Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-02-01",
+      "completion_date": "2019-09-01",
+      "country": "Netherlands",
+      "enrollment": 80,
+      "brief_summary": "Rationale/hypothesis: Atopic dermatitis (AD) is an inflammatory skin disease, occurring most frequently in children. Currently, topically applied corticosteroids are used as a standard anti-inflammatory treatment. When a corticosteroid with a high potency is used for a long period of time, adverse effects like skin atrophy and systemic effects may occur, especially in children. In addition, corticophobia among patients is an issue that warrants alternatives for the treatment of AD in children. A",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of AD based on the criteria of Hanifin and Rajka\n* Moderate to severe AD based on EASI score \\>7.1\n* Willing and able to comply with visits and study-related procedures\n* Provide signed informed consent (if patient \\>12 years of age) and/or signed informed consent pr",
+      "endpoints": [
+        "Disease activity"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03461302"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02517957",
+      "title": "Xia Shi Surgical Treatment for Eczema Multi-center Clinical Research",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2015-08",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 342,
+      "brief_summary": "On the basis of Xiashi skin surgery clinical experience, this project adopts the multicenter, randomized, double-blind, controlled trial of design type. Objective, normative evaluation of traditional Chinese medicine cool blood latent town effectiveness of therapeutic regimen in the treatment of eczema, security, and control of the relapse of situation, provide high-level evidence-based basis for traditional Chinese medicine treatment of eczema, aims to form suitable for popularization and appli",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* accord with standard of syndrome differentiation of traditional Chinese medicine (blood hot sheng) and western medicine diagnostic criteria (subacute eczema);\n* age between 18-65 years old, gender, ethnic unlimited;\n* agreed to participate in clinical trials can observe and co",
+      "endpoints": [
+        "Change from Baseline in the Eczema Area and Severity Index (EASI) score"
+      ],
+      "sponsor": "Shanghai Yueyang Integrated Medicine Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02517957"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "38777185",
+      "title": "Sunscreens part 2: Regulation and safety.",
+      "abstract": "The second part of this CME article discusses sunscreen regulation and safety considerations for humans and the environment. First, we provide an overview of the history of the US Food and Drug Administration's regulation of sunscreen. Recent Food and Drug Administration studies clearly demonstrate that organic ultraviolet filters are systemically absorbed during routine sunscreen use, but to date there is no evidence of associated negative health effects. We also review the current evidence of sunscreen's association with vitamin D levels and frontal fibrosing alopecia, and recent concerns regarding benzene contamination. Finally, we review the possible environmental effects of ultraviolet filters, particularly coral bleaching. While climate change has been shown to be the primary driver of coral bleaching, laboratory-based studies suggest that organic ultraviolet filters represent an additional contributing factor, which led several localities to ban certain organic filters.",
+      "journal": "Journal of the American Academy of Dermatology",
+      "year": "2025",
+      "authors": [
+        "Abdel Azim Sara",
+        "Bainvoll Liat",
+        "Vecerek Natalia",
+        "DeLeo Vincent A",
+        "Adler Brandon L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Sunscreening Agents",
+        "Humans",
+        "United States",
+        "United States Food and Drug Administration",
+        "Alopecia",
+        "Vitamin D",
+        "Ultraviolet Rays"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38777185/"
+    },
+    {
+      "pmid": "27841440",
+      "title": "Interventions for preventing and treating incontinence-associated dermatitis in adults.",
+      "abstract": "Incontinence-associated dermatitis (IAD) is one of the most common skin problems in adults who are incontinent for urine, stool, or both. In practice, products and procedures are the same for both prevention and treatment of IAD.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2016",
+      "authors": [
+        "Beeckman Dimitri",
+        "Van Damme Nele",
+        "Schoonhoven Lisette",
+        "Van Lancker Aurélie",
+        "Kottner Jan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adult",
+        "Amitriptyline",
+        "Dermatitis",
+        "Dermatologic Agents",
+        "Fecal Incontinence",
+        "Humans",
+        "Petrolatum",
+        "Randomized Controlled Trials as Topic",
+        "Skin Care"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27841440/"
+    },
+    {
+      "pmid": "29086472",
+      "title": "Dermatological and environmental toxicological impact of the sunscreen ingredient oxybenzone/benzophenone-3.",
+      "abstract": "Oxybenzone (Benzophenone-3) is an emerging human and environmental contaminant used in sunscreens and personal care products to help minimize the damaging effects of ultraviolet radiation. The Center for Disease Control fourth national report on human exposure to environmental chemicals demonstrated that approximately 97% of the people tested have oxybenzone present in their urine, and independent scientists have reported various concentrations in waterways and fish worldwide. Oxybenzone can also react with chlorine, producing hazardous by-products that can concentrate in swimming pools and wastewater treatment plants. Moreover, adverse reactions could very well be increased by the closed loop of ingesting fish contaminated with oxybenzone and/or washing the ingredient off our bodies and having it return in drinking water as treatment plants do not effectively remove the chemical as part of their processing protocols. In humans, oxybenzone has been reported to produce contact and photo",
+      "journal": "Journal of cosmetic dermatology",
+      "year": "2018",
+      "authors": [
+        "DiNardo Joseph C",
+        "Downs Craig A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Benzophenones",
+        "Dermatitis, Irritant",
+        "Environmental Pollutants",
+        "Humans",
+        "Patch Tests",
+        "Risk Assessment",
+        "Sensitivity and Specificity",
+        "Skin Irritancy Tests",
+        "Skin Neoplasms"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29086472/"
+    },
+    {
+      "pmid": "38099219",
+      "title": "Exploring the antibacterial and dermatitis-mitigating properties of chicken egg white-synthesized zinc oxide nano whiskers.",
+      "abstract": "Zinc oxide nanoparticles (ZnO-NPs) have garnered considerable interest in biomedical research primarily owing to their prospective therapeutic implications in combatting pathogenic diseases and microbial infections. The primary objective of this study was to examine the biosynthesis of zinc oxide nanowhiskers (ZnO-NWs) using chicken egg white (albumin) as a bio-template. Furthermore, this study aimed to explore the potential biomedical applications of ZnO NWs in the context of infectious diseases.",
+      "journal": "Frontiers in cellular and infection microbiology",
+      "year": "2023",
+      "authors": [
+        "Abdikakharovich Sidikov Akmal",
+        "Rauf Mohd A",
+        "Khattak Saadullah",
+        "Shah Junaid Ali",
+        "Al-Keridis Lamya Ahmed"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Zinc Oxide",
+        "Chickens",
+        "Egg White",
+        "Metal Nanoparticles",
+        "Microbial Sensitivity Tests",
+        "Anti-Bacterial Agents",
+        "Staphylococcus aureus",
+        "Communicable Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38099219/"
+    },
+    {
+      "pmid": "33960676",
+      "title": "Effectiveness of skin cleanser and protectant regimen on incontinence-associated dermatitis outcomes in acute care patients: A cluster randomised trial.",
+      "abstract": "Skin cleansers and protectants protect skin from incontinent matter to reduce the risk of incontinence-associated dermatitis (IAD), but their effectiveness treating established IAD in the tropics is unknown. We conducted an open-label cluster randomised trial to compare the effectiveness of a combined regimen of (1) specialised skin cleansers with disposable body wipes and (2) either an acrylic terpolymer (T1) or zinc oxide (T2) skin protectant against disposable body wipes and zinc oxide protectant (control) in promoting IAD healing and reducing the risk of deterioration. Eighty-four patients were recruited in a tertiary hospital in Singapore between April 2019 and January 2020 (T1: n = 23; T2: n = 37; Control: n = 24). Although not statistically significant, patients treated with T1 and T2 were 1.5 times as likely to experience IAD healing within seven days compared with the control (P = .66). Healing was more pronounced in participants with skin loss treated with T1 or T2. No treatm",
+      "journal": "International wound journal",
+      "year": "2021",
+      "authors": [
+        "Glass George Frederick",
+        "Goh Cheng Cheng Karine",
+        "Cheong Run Qi",
+        "Ong Zhi Lei",
+        "Khong Peck Chui Betty"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Dermatitis",
+        "Emollients",
+        "Fecal Incontinence",
+        "Humans",
+        "Skin Care",
+        "Urinary Incontinence"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33960676/"
+    },
+    {
+      "pmid": "33427488",
+      "title": "Zinc oxide nanoparticles prevent multidrug resistant Staphylococcus-induced footpad dermatitis in broilers.",
+      "abstract": "The current experiment was designed to evaluate the effects of dietary supplementations of zinc oxide nanoparticles (ZONPs) on some behavioural, performance, welfare and histopathological changes in broilers exposed to multidrug resistant Staphylococcus aureus (MRSA)-induced footpad dermatitis (FPD). Eighty-four male Indian River (IR) broilers were randomly allotted to six different dietary treatments as follows: C-ve, C+ve, 10, 20, 30 and 40 ppm ZONPs from 7 to 49d of age. At day 28, broilers (n = 70) were sub-cutaneously injected with 0.5 ml of saline containing 5.3 × 107 CFU/ml of S. aureus (MRSA) in each metatarsal foot pad. Control (non-infected) broilers were given 0.5 ml of saline (n = 14). Results clarified that non-infected birds and ZONPs-fed birds had significantly higher standing and feeding activities and lower resting activities in comparison with the infected group. Also, the S. aureus infected group had significantly lower body weight gain (BWG) and higher feed conversi",
+      "journal": "Avian pathology : journal of the W.V.P.A",
+      "year": "2021",
+      "authors": [
+        "Mahmoud Usama T",
+        "Darwish Madeha H A",
+        "Ali Fatma Abo Zakaib",
+        "Amen Omar A",
+        "Mahmoud Manal A M"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33427488/"
+    },
+    {
+      "pmid": "34747103",
+      "title": "Hyperzincemia due to topical zinc oxide in an infant with diaper dermatitis.",
+      "abstract": "",
+      "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+      "year": "2022",
+      "authors": [
+        "Fujita Tomoka",
+        "Kondo Miyuki",
+        "Baba Toru",
+        "Ohishi Akira",
+        "Iijima Shigeo"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Diaper Rash",
+        "Humans",
+        "Infant",
+        "Metal Metabolism, Inborn Errors",
+        "Severity of Illness Index",
+        "Zinc Oxide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34747103/"
+    },
+    {
+      "pmid": "33169905",
+      "title": "Irritant contact dermatitis caused by zinc oxide eugenol and formocresol used in dental operation.",
+      "abstract": "",
+      "journal": "Journal of cosmetic dermatology",
+      "year": "2021",
+      "authors": [
+        "Cenk Hulya",
+        "Erdogan Yıldırım",
+        "Goksin Şule",
+        "Kacar Nida"
+      ],
+      "pub_types": [
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Eugenol",
+        "Formocresols",
+        "Humans",
+        "Irritants",
+        "Zinc Oxide",
+        "Zinc Oxide-Eugenol Cement"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33169905/"
+    },
+    {
+      "pmid": "32466085",
+      "title": "Graphene Decorated Zinc Oxide and Curcumin to Disinfect the Methicillin-Resistant Staphylococcus aureus.",
+      "abstract": "Sometimes, life-threatening infections are initiated by the biofilm formation facilitated at the infection site by the drug-resistant bacteria Staphylococcus aureus. The aggregation of the same type of bacteria leads to biofilm formation on the delicate tissue, dental plaque, and skin. In the present investigation, a Graphene (Gr)-based nano-formulation containing Curcumin (C.C.M.) and Zinc oxide nanoparticles (ZnO-NPs) showed a wide range of anti-microbial activity against Methicillin-resistant Staphylococcus aureus (MRSA) biofilm and demonstrated the anti-microbial mechanism of action. The anti-microbial effect of GrZnO nanocomposites, i.e., GrZnO-NCs, suggests that the integrated graphene-based nanocomposites effectively suppressed both sensitive as well as MRSA ATCC 43300 and BAA-1708 isolates. The S. aureus inhibitory effect of GrZnO-NCs improved >5-fold when combined with C.C.M., and demonstrated a M.I.C. of 31.25 µg/mL contrasting with the GrZnO-NCs or C.C.M. alone having M.I.C.",
+      "journal": "Nanomaterials (Basel, Switzerland)",
+      "year": "2020",
+      "authors": [
+        "Oves Mohammad",
+        "Rauf Mohd Ahmar",
+        "Ansari Mohammad Omaish",
+        "Aslam Parwaz Khan Aftab",
+        "A Qari Huda"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32466085/"
+    },
+    {
+      "pmid": "34434272",
+      "title": "Establishment of incontinence-associated dermatitis rat models and assessment of the therapeutic effects of zinc oxide, painless skin protective film and silicone dressing.",
+      "abstract": "The aim of the present study was to construct incontinence-associated dermatitis (IAD) rat models and observe the therapeutic effects of zinc oxide, painless skin protective film and silicone dressing on IAD. A total of 54 rats were randomly divided into nine groups: i) Control group; ii) trypsin model group; iii) model + zinc oxide group; iv) model + painless skin protective film group; v) model + silicon dressing group; vi) synthetic urine combined with trypsin model group (joint model group); vii) joint model + zinc oxide group; viii) joint model + painless skin protective film group; and ix) joint model + silicone dressing group. A total of 4 days after applying the zinc oxide, protective film or silicon dressing intervention, IAD scores and pH values in skin tissues were examined. Skin tissues and blood samples were collected. Hematoxylin and eosin staining, immunohistochemical staining of major histocompatibility complex class II (MHC-II) and western blot analysis of MHC-II, NF-κ",
+      "journal": "Experimental and therapeutic medicine",
+      "year": "2021",
+      "authors": [
+        "Chen Guiyuan",
+        "Huang Liquan",
+        "Chen Yingxun",
+        "Zheng Shufeng",
+        "Zhu Louying"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34434272/"
+    },
+    {
+      "pmid": "20614409",
+      "title": "[Topical treatment of anal eczema].",
+      "abstract": "",
+      "journal": "Deutsche medizinische Wochenschrift (1946)",
+      "year": "2010",
+      "authors": [
+        "Schauber J"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Anti-Inflammatory Agents",
+        "Astringents",
+        "Betamethasone",
+        "Calcineurin Inhibitors",
+        "Combined Modality Therapy",
+        "Dermatologic Agents",
+        "Diagnosis, Differential",
+        "Eczema",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20614409/"
+    },
+    {
+      "pmid": "36913660",
+      "title": "Autoimmune Skin Conditions: Cutaneous Lupus Erythematosus.",
+      "abstract": "Cutaneous lupus erythematosus (CLE) is a spectrum of autoimmune skin conditions associated with systemic lupus erythematosus (SLE). CLE and SLE may exist concurrently or independently. Accurate recognition of CLE is crucial because it may herald systemic disease onset. Lupus-specific skin conditions include acute cutaneous lupus erythematosus (ACLE) which manifests as a malar or butterfly rash; subacute cutaneous lupus erythematosus (SCLE); and chronic cutaneous lupus erythematosus, which includes discoid lupus erythematosus (DLE). All three types of CLE present as pink-violet macules or plaques with unique morphology, in areas of sun-exposed skin. Association with SLE differs: ACLE is most closely associated, with SCLE in the middle, and DLE the least so. All types of CLE are pruritic, sting, and burn, and DLE can result in disfiguring scarring. All CLE is exacerbated by UV light exposure and smoking. Diagnosis combines clinical evaluation with skin biopsy. Management focuses on mitig",
+      "journal": "FP essentials",
+      "year": "2023",
+      "authors": [
+        "Foulke Galen",
+        "Helm Leesha A",
+        "Clebak Karl T",
+        "Helm Matthew"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Lupus Erythematosus, Discoid",
+        "Lupus Erythematosus, Cutaneous",
+        "Humans",
+        "Lupus Erythematosus, Systemic",
+        "Exanthema",
+        "Antirheumatic Agents",
+        "Skin",
+        "Acute Disease"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36913660/"
+    },
+    {
+      "pmid": "32677172",
+      "title": "Systemic allergic dermatitis from intra-articular triamcinolone acetonide: Report of two cases with unusual clinical manifestations.",
+      "abstract": "",
+      "journal": "Contact dermatitis",
+      "year": "2021",
+      "authors": [
+        "Bianchi Leonardo",
+        "Marietti Rossella",
+        "Tramontana Marta",
+        "Hansel Katharina",
+        "Stingeni Luca"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Anti-Inflammatory Agents",
+        "Cross Reactions",
+        "Dermatitis, Allergic Contact",
+        "Dermatologic Agents",
+        "Glucocorticoids",
+        "Humans",
+        "Injections, Intra-Articular",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32677172/"
+    },
+    {
+      "pmid": "39871011",
+      "title": "Efficacy, Safety, and Cost-effectiveness of Zinc Oxide Nanoparticles in Whitfield's Spirit Solution for Treating Superficial Fungal Foot Infections: A Randomized Controlled Trial.",
+      "abstract": "A novel antifungal formulation combining zinc oxide nanoparticles and Whitfield's spirit solution (ZnO-WFs) was developed to enhance the treatment of superficial fungal foot infections.",
+      "journal": "Dermatology and therapy",
+      "year": "2025",
+      "authors": [
+        "Leeyaphan Charussri",
+        "Punnakitikashem Primana",
+        "Suiwongsa Bordeesuda",
+        "Komesmuneeborirak Phojana",
+        "Chongtrakool Piriyaporn"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39871011/"
+    },
+    {
+      "pmid": "38844611",
+      "title": "Naringenin-Zinc Oxide Nanocomposites Amalgamated Polymeric Gel Augmented Drug Delivery and Attenuated Experimental Cutaneous Candidiasis in Balb/c Mice: In Vitro and In Vivo Studies.",
+      "abstract": "Naringenin (NRG) inhibits the fungal 17β-hydroxysteroid dehydrogenase accountable for ergosterol synthesis in Candida albicans (C. albicans), a causative agent for cutaneous candidiasis. In present research, NRG was complexed with ZnO nanomaterial (NRG-Zn2+) to synthesize NRG-Zn2+ nanocomposites. The particle size and ζ-potential of NRG-Zn2+ nanocomposites were respectively estimated to be 180.33 ± 1.22-nm and - 3.92 ± 0.35-mV. In silico data predicted the greater affinity of NRG-Zn2+ nanocomposite for 14α-demethylase and ceramide in comparison to NRG alone. Later, NRG-Zn2+ nanocomposites solution was transformed in to naringenin-zinc oxide nanocomposites loaded chitosan gel (NRG-Zn-CS-Gel) with viscosity and firmness of 854806.7 ± 52386.43 cP and 698.27 ± 10.35 g, respectively. The ex-vivo skin permeation demonstrated 70.49 ± 5.22% skin retention, significantly greater (P < 0.05) than 44.48 ± 3.06% of naringenin loaded chitosan gel (NRG-CS-Gel) and 31.24 ± 3.28% of naringenin solution",
+      "journal": "AAPS PharmSciTech",
+      "year": "2024",
+      "authors": [
+        "Katta Chanti Babu",
+        "Bahuguna Deepankar",
+        "Veerabomma Harithasree",
+        "Gollapalli Spandana",
+        "Shaikh Arbaz Sujat"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Flavanones",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Candida albicans",
+        "Chitosan",
+        "Nanocomposites",
+        "Antifungal Agents",
+        "Zinc Oxide",
+        "Gels"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38844611/"
+    },
+    {
+      "pmid": "32920952",
+      "title": "Comparison of antifungal and cytotoxicity activities of titanium dioxide and zinc oxide nanoparticles with amphotericin B against different Candida species: In vitro evaluation.",
+      "abstract": "Candida species are known to cause serious fungal infections that produce cutaneous, mucosal, and systemic infections. Nowadays, mortality and morbidity candidiasis in immunocompromised patients have increased. Nanotechnology is a new world-known technology and includes particles ranging from about 1 to 100 nanometers. The purpose of this study was to evaluate the antifungal and cytotoxicity activities of titanium dioxide nanoparticles (TiO2-NPs) and zinc oxide nanoparticles (ZnO-NPs) compared to amphotericin B (AmB) on different Candida spp in in vitro conditions.",
+      "journal": "Journal of clinical laboratory analysis",
+      "year": "2021",
+      "authors": [
+        "Ahmadpour Kermani Shima",
+        "Salari Samira",
+        "Ghasemi Nejad Almani Pooya"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Amphotericin B",
+        "Animals",
+        "Antifungal Agents",
+        "Candida",
+        "Cell Line",
+        "Cell Survival",
+        "Metal Nanoparticles",
+        "Mice",
+        "Microbial Sensitivity Tests",
+        "Tetrazolium Salts"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32920952/"
+    },
+    {
+      "pmid": "2608092",
+      "title": "Treatment of cutaneous candidosis in guinea pigs: effect of zinc oxide on the antifungal efficacy of nystatin.",
+      "abstract": "This article describes the in vivo evaluation of a new topical preparation (Zincostatin) indicated for Candida albicans infected diaper rash. In order to study the influence of the 20% zinc oxide (W/W) (a protectant) on the anti-candidal efficacy of the 100,000 U/g of nystatin found in the ointment, groups of guinea pigs received different treatments with or without local occlusion. Zinc oxide, nystatin, or the combination of both were applied, in the ointment base, on the backs of the animals inoculated with a fresh strain of Candida albicans. Macroscopic and microbiological evaluation of the skin lesions were assessed at regular intervals during 21 days. While the two treatments containing nystatin were more effective than zinc oxide alone, the latter agent did not decrease the efficacy of the antifungal drug in combination therapy. Also, zinc oxide seemed to afford some protection against local maceration induced by occlusion, which increased the severity of the infection.",
+      "journal": "Mycoses",
+      "year": "1989",
+      "authors": [
+        "Auger P",
+        "Colin P",
+        "Joly J",
+        "Poirier S",
+        "Colin D"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Candidiasis, Cutaneous",
+        "Colony Count, Microbial",
+        "Drug Therapy, Combination",
+        "Guinea Pigs",
+        "Humans",
+        "Male",
+        "Nystatin",
+        "Zinc",
+        "Zinc Oxide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2608092/"
+    },
+    {
+      "pmid": "23675632",
+      "title": "A prospective two-year assessment of miconazole resistance in Candida spp. With repeated treatment with 0.25% miconazole nitrate ointment in neonates and infants with moderate to severe diaper dermatitis complicated by cutaneous candidiasis.",
+      "abstract": "A petrolatum and zinc oxide-based ointment containing 0.25% miconazole nitrate is reported to be effective and well tolerated in the treatment of diaper dermatitis complicated by cutaneous candidiasis (DDCC). This prospective, multicenter, open-label, long-term, phase IV study investigated the potential resistance of Candida spp. to repeated topical use of 0.25% miconazole nitrate in infants age 15 months and younger with moderate to severe DDCC. For initial and recurring episodes of DDCC over the 2-year study period, subjects were treated with a 7-day course of 0.25% miconazole nitrate ointment (active components: miconazole nitrate 0.25%, zinc oxide 15%, and white petrolatum 81.35%) with a 7-day follow-up. Clinical and mycologic evaluations were conducted before treatment (day 0) and 7 days after treatment (day 14). Potential resistance to miconazole was defined using an arbitrary breakpoint of minimum inhibitory concentration of 2 μg/mL. There was no evidence of resistance to micona",
+      "journal": "Pediatric dermatology",
+      "year": "2013",
+      "authors": [
+        "Blanco Daisy",
+        "van Rossem Koen"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase IV",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Antifungal Agents",
+        "Candidiasis",
+        "Dermatitis",
+        "Dermatologic Agents",
+        "Diaper Rash",
+        "Drug Resistance, Fungal",
+        "Female",
+        "Humans",
+        "Infant",
+        "Infant, Newborn"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23675632/"
+    },
+    {
+      "pmid": "22193141",
+      "title": "Incontinence-associated dermatitis: a comprehensive review and update.",
+      "abstract": "In 2009, a multinational group of clinicians was charged with reviewing and evaluating the research base pertaining to incontinence-associated dermatitis (IAD) and synthesizing this knowledge into best practice recommendations based on existing evidence. This is the first of 2 articles focusing on IAD; it updates current research and identifies persistent gaps in our knowledge. Our literature review revealed a small but growing body of evidence that provides additional insight into the epidemiology, etiology, and pathophysiology of IAD when compared to the review generated by the first IAD consensus group convened 5 years earlier. We identified research supporting the use of a defined skin care regimen based on principles of gentle perineal cleansing, moisturization, and application of a skin protectant. Clinical experience also supports application of an antifungal powder, ointment, or cream in patients with evidence of cutaneous candidiasis, aggressive containment of urinary or fecal",
+      "journal": "Journal of wound, ostomy, and continence nursing : official publication of The Wound, Ostomy and Continence Nurses Society",
+      "year": "2012",
+      "authors": [
+        "Gray Mikel",
+        "Beeckman Dimitri",
+        "Bliss Donna Z",
+        "Fader Mandy",
+        "Logan Susan"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Clinical Nursing Research",
+        "Consensus Statements as Topic",
+        "Dermatitis",
+        "Fecal Incontinence",
+        "Humans",
+        "Perineum",
+        "Prevalence",
+        "Skin Care",
+        "Terminology as Topic",
+        "Urinary Incontinence"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22193141/"
+    },
+    {
+      "pmid": "20131923",
+      "title": "Optimal management of incontinence-associated dermatitis in the elderly.",
+      "abstract": "Incontinence-associated dermatitis (IAD), sometimes referred to as perineal dermatitis, is an inflammation of the skin associated with exposure to urine or stool. Elderly adults, and especially those in long-term care facilities, are at risk for urinary or fecal incontinence and IAD. Traditionally, IAD has received little attention as a distinct disorder, and it is sometimes confused with stage I or II pressure ulcers. However, a modest but growing body of research is beginning to provide insights into the epidemiology, etiology, and pathophysiology of IAD. In addition, recent changes in reimbursement policies from the US Center for Medicare and Medicaid Services regarding pressure ulcer prevention has focused attention on the differential diagnosis of IAD versus pressure ulcer, and its influence on pressure ulcer risk. Color, location, depth, and the presence or absence of necrotic tissue are visual indicators used to differentiate IAD from pressure-related skin damage. Prevention is ",
+      "journal": "American journal of clinical dermatology",
+      "year": "2010",
+      "authors": [
+        "Gray Mikel"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adrenal Cortex Hormones",
+        "Aged",
+        "Candidiasis",
+        "Dermatitis",
+        "Dermatologic Agents",
+        "Fecal Incontinence",
+        "Humans",
+        "Immobilization",
+        "Perineum",
+        "Skin Care"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20131923/"
+    }
+  ]
+}

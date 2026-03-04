@@ -5,7 +5,7 @@ drugbank_id: "DB14539"
 drug_name: "Hydrocortisone Acetate"
 kg_predictions: 2880
 dl_predictions: 472
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 2880
 brands: []
 permalink: /drugs/hydrocortisone-acetate/
@@ -21,7 +21,7 @@ permalink: /drugs/hydrocortisone-acetate/
 | **DrugBank ID** | [DB14539](https://go.drugbank.com/drugs/DB14539) |
 | **KG Predictions** | 2880 |
 | **DL Predictions (≥0.7)** | 472 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

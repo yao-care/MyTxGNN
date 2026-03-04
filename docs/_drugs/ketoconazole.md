@@ -5,7 +5,7 @@ drugbank_id: "DB01026"
 drug_name: "Ketoconazole"
 kg_predictions: 759
 dl_predictions: 62
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 759
 brands: []
 permalink: /drugs/ketoconazole/
@@ -21,7 +21,7 @@ permalink: /drugs/ketoconazole/
 | **DrugBank ID** | [DB01026](https://go.drugbank.com/drugs/DB01026) |
 | **KG Predictions** | 759 |
 | **DL Predictions (≥0.7)** | 62 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

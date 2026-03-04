@@ -1,0 +1,1028 @@
+{
+  "drug": "Triamcinolone",
+  "drugbank_id": "DB00620",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T09:55:40Z",
+  "indications": [
+    {
+      "indication": "erythema multiforme",
+      "evidence_level": "L2",
+      "trials": 7,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 2,
+        "phase1_trials": 0,
+        "other_trials": 5,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 7,
+        "total_trials": 7,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "lymphosarcoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 14,
+        "phase1_trials": 2,
+        "other_trials": 2,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 10,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "disease of orbital region",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 6,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 6,
+        "phase1_trials": 1,
+        "other_trials": 7,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 6,
+        "total_trials": 20,
+        "total_articles": 6
+      }
+    },
+    {
+      "indication": "leukemia, lymphocytic, susceptibility to",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 0,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 0,
+        "total_trials": 0,
+        "total_articles": 0
+      }
+    },
+    {
+      "indication": "rheumatic heart disease",
+      "evidence_level": "L4",
+      "trials": 3,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 3,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 9,
+        "total_trials": 3,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 50,
+  "total_articles": 36,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06132737",
+      "title": "An Open-label Dose Escalation Study to Evaluate Safety, Tolerability, Biodistribution and Efficacy of [90Y]Y-PentixaTher for the Therapy of Recurrent or Refractory Primary or Isolated Secondary Central Nervous System Lymphoma.",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-11-07",
+      "completion_date": "2028-03-26",
+      "country": "Germany",
+      "enrollment": 15,
+      "brief_summary": "This will be an open-label, single-arm, national phase 1/2 therapeutic study to evaluate the safety, tolerability, and preliminary efficacy of \\[90Y\\]Y-PentixaTher (\\[90Y\\]Y-PTT) for the treatment of recurrent or refractory primary or isolated secondary central nervous system (CNS) lymphoma.\n\nThe study will be performed in three cohorts with different dose levels according to the best-of-5 dose escalation design. A safety review committee (SRC) will evaluate dose-limiting toxicities and decide a",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients are eligible to be included in the study only if all of the following criteria apply and are maintained at Day -2 to Day 0 (before IMP infusion):\n\n1. Signed informed consent, by the patient or an authorized legal guardian in case the patient is temporarily not competent",
+      "endpoints": [
+        "Incidence, severity and relationship of (S)AEs (graded in severity according to NCI CTCAE version 5.0)"
+      ],
+      "sponsor": "Pentixapharm AG",
+      "url": "https://clinicaltrials.gov/study/NCT06132737"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05844618",
+      "title": "A Randomized, Intraindividual, Phase 4 Study to Evaluate the Short-Term Efficacy of Triamcinolone Acetonide (Aristocort® C) in Subjects with Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-05-09",
+      "completion_date": "2025-03-24",
+      "country": "Canada",
+      "enrollment": 20,
+      "brief_summary": "This study is a randomized, intraindividual study to evaluate the short-term efficacy of triamcinolone acetonide (Aristocort® C) in subjects with atopic dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subjects 18 years of age or older at the time of consent.\n2. Subject has clinically confirmed diagnosis of active AD, according to Hanifin and Rajka criteria.\n3. Subject has at least a 6-month history of AD and had no significant flares in AD for at least 4 wee",
+      "endpoints": [
+        "Change from baseline in pruritus NRS on AD lesions"
+      ],
+      "sponsor": "Innovaderm Research Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05844618"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05278858",
+      "title": "Needle-free Delivery of Intralesional Triamcinolone for Pediatric Alopecia Areata: a Pilot Study of Patient Tolerability",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2022-03-24",
+      "completion_date": "2023-06-06",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "This is an interventional pilot study assessing the tolerability of needle-free delivery administration of ILTA with the Med-Jet as an alternative to conventional syringe and needle in patients with patchy pediatric alopecia areata. There will be a total of four (4) or five (5) visits necessary for study participation. The investigators hypothesize that the Med-Jet will have acceptable pain tolerability, efficacy, safety, and a positive impact on patient quality of life.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with alopecia areata by either:\n\n  * A board-certified dermatologist, OR\n  * Dermatology Nurse Practitioner, OR\n  * Skin punch biopsy\n* Patient has at least 2 alopecic patches each measuring at least 2 cm2 and are…\n\n  * Located on contralateral body sites OR\n  * With",
+      "endpoints": [
+        "Determine Patient Tolerability of Needle-free Delivery of Intralesional Triamcinolone Using the Patient-reported Outcomes of a Pain Score Assessment and a Patient Survey."
+      ],
+      "sponsor": "University Hospitals Cleveland Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05278858"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06186596",
+      "title": "Patient Self-Administered Intralesional Injections of Triamcinolone for Acne Vulgaris",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-02-01",
+      "completion_date": "2024-01-31",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "The goal of this clinical trial is to test the safety of intralesional injections of triamcinolone self-administered into acne lesions via an injection assistance device. The main question\\[s\\] it aims to answer are:\n\n* is use of the injection assistance device safe?\n* is delivery of triamcinolone to acne lesions via the injection assistance device efficacious?\n\nParticipants will self-inject low dose triamcinolone into acne lesions and track lesion response via photos and survey for 14 days foll",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Outpatient, male or female of any race, 18 years of age or older. Female subjects of childbearing potential must have a negative UPT at Baseline.\n2. Diagnosed with facial acne vulgaris.\n3. At least one (1) identifiable inflammatory lesion that, in the opinion of the investiga",
+      "endpoints": [
+        "Incidence of adverse events following device use"
+      ],
+      "sponsor": "ACOM Labs",
+      "url": "https://clinicaltrials.gov/study/NCT06186596"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06170593",
+      "title": "Intralesional Injections of Triamcinolone for Acne Vulgaris",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-11-15",
+      "completion_date": "2023-02-14",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This proof-of-concept study seeks to investigate the safety of intralesional injections of triamcinolone for acne vulgaris lesions using an Intradermal Needle Adapter.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient, male or female of any race, 18 years of age or older. Female subjects of childbearing potential must have a negative urine pregnancy test at Baseline.\n* Diagnosed with facial acne vulgaris.\n* At least one (1) identifiable inflammatory lesion that, in the opinion of",
+      "endpoints": [
+        "Safety of intralesional triamcinolone injection"
+      ],
+      "sponsor": "ACOM Labs",
+      "url": "https://clinicaltrials.gov/study/NCT06170593"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01712685",
+      "title": "PET Imaging Of Renal Cell Carcinoma With 18F-VM4-037: A Phase II Pilot Study For Detection Of Disease And Correlation With VHL Mutation Status",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2012-10",
+      "completion_date": "2013-08",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "Background:\n\n\\- The drug 18F-VM4-037 is being tested for use in cancer imaging studies. It may help tumor tissue show up more clearly during scans. Researchers want to see how well it works for scans for people who have kidney cancer.\n\nObjectives:\n\n\\- To test the safety and effectiveness of 18F-VM4-037 during imaging studies of kidney cancer.\n\nEligibility:\n\n\\- Adults at least 18 years of age with kidney cancer that will be treated with surgery.\n\nDesign:\n\n* Participants will be screened with a ph",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n* Subject is greater than or equal to18 years old.\n* Subject must be scheduled to undergo surgery or biopsy for primary renal cell carcinoma (RCC) greater than or equal to 2.5cm in diameter or extrarenal/extrahepatic metastatic RCC lesion (greater than or equal to1cm in diamete",
+      "endpoints": [
+        "Level of Uptake of 18F-VM4-037 in Tumor and Non Tumor Tissues, Calculated as Standardized Uptake Values (SUVs)"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01712685"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05106192",
+      "title": "Triamcinolone Acetonide Injections in Primary Cutaneous Lymphoma Plaques With a Novel Needle-free Drug-delivery System.",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2022-04-01",
+      "completion_date": "2026-06-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "A study to compare pain differences between using MedJet needle-free drug-delivery system with standard of care treatment for cutaneous T-cell lymphomas and cutaneous B-cell lymphomas in participants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. \\> 18 years of age\n2. Diagnosed with primary cutaneous lymphoma defined by either:\n\n   * A board-certified dermatologist, OR\n   * Dermatology Nurse Practitioner, OR\n   * Skin punch biopsy\n3. The presence of plaque-type primary cutaneous lymphoma lesions with at least two plaq",
+      "endpoints": [
+        "Pain measurement between the Med-Jet and standard of care treatment."
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT05106192"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00992030",
+      "title": "Phase III Study Comparing Rituximab-supplemented ABVD (R-ABVD) With ABVD Followed by Involved-field Radiotherapy (ABVD-RT) in Limited Stage (Stage I-IIA With no Areas of Bulk) Hodgkin's Lymphoma",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-09",
+      "completion_date": "2019-03",
+      "country": "United States, Italy",
+      "enrollment": 112,
+      "brief_summary": "Combined modality therapy has then emerged as the standard of care for limited-stage Hodgkin's lymphoma and doxorubicin, bleomycin, vinblastine, and dacarbazine (ABVD) chemotherapy that is devoid of alkylating agents and associated with a low potential for gonadal toxicity and leukemogenesis, is currently considered a gold standard. Nevertheless, the disadvantage to combine radiotherapy to ABVD is represented by late cardiovascular events (myocardial dysfunction and coronary or valvular disease)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of histologically confirmed classical Hodgkin lymphoma (cHL)\n* Limited-stage disease defined as stage I or IIA with no areas of bulky disease\n* Measurable disease according to the Cheson criteria\n* Age \\>=18 years\n* Adequate bone marrow reserve (ANC \\>= 1,500/uL, Plate",
+      "endpoints": [
+        "3-year failure free survival. Failure is defined as disease progression during treatment, achievement of less than complete remission (CR) after the total planned therapy, relapse during follow-up or death from any cause."
+      ],
+      "sponsor": "Fondazione Michelangelo",
+      "url": "https://clinicaltrials.gov/study/NCT00992030"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03880279",
+      "title": "A Phase I/II Trial Investigating Safety and Efficacy of Autologous TAC T Cells Targeting CD19 in Relapsed or Refractory Large B-Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2020-05",
+      "completion_date": "2024-04",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "Phase I/II study to evaluate TAC01-CD19 in subjects with relapsed or refractory B-cell lymphomas. TAC technology is a novel way to genetically modify T cells and to redirect these T cells to target cancer antigens by co-opting the natural T cell receptor. The dose finding portion of this study will evaluate the safety and tolerability of increasing dose levels of TAC01-CD19 to identify a Maximal Tolerated Dose (MTD) or Recommended Phase II Dose (RP2D). The dose expansion portion of the study wil",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed CD19+ Large B-Cell Lymphoma including Diffuse Large B-cell Lymphoma (DLBCL) not otherwise specified (including de novo and transformed lymphoma), Primary Mediastinal Large B-cell Lymphoma, High-Grade B-cell Lymphoma with MYC and BCL2 and/or BCL6 rearra",
+      "endpoints": [
+        "Incidence of dose-limiting toxicities (DLTs)",
+        "Incidence of adverse events (AEs)"
+      ],
+      "sponsor": "Triumvira Immunologics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03880279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00080535",
+      "title": "A Phase II Clinical Trial of Anti-Tac(Fv)-PE38 (LMB-2) Immunotoxin for Treatment of CD25 Positive Cutaneous T-Cell Lymphomas",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-04-30",
+      "completion_date": "2011-12-31",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "This study will evaluate the effectiveness of an experimental drug called LMB-2 for treating cutaneous T-cell lymphoma in patients who have a protein called cluster of differentiation 25 (CD25) on their cancer cells. LMB-2 is a recombinant immunotoxin. It is made up of two parts: a genetically engineered monoclonal antibody that binds to CD25, and a toxin produced by bacteria that kills the cancer cells to which it binds. LMB-2 has killed CD25-containing cells in laboratory experiments and has c",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nPatients must have histopathological evidence of cluster of differentiation 25 (CD25) + cutaneous T-cell lymphoma (CTCL) confirmed by the National Institutes of Health (NIH) pathology department.\n\nOne of the following must be present:\n\nGreater than or equal to 20 percent expre",
+      "endpoints": [
+        "Response Rate"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00080535"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06132737",
+      "title": "An Open-label Dose Escalation Study to Evaluate Safety, Tolerability, Biodistribution and Efficacy of [90Y]Y-PentixaTher for the Therapy of Recurrent or Refractory Primary or Isolated Secondary Central Nervous System Lymphoma.",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-11-07",
+      "completion_date": "2028-03-26",
+      "country": "Germany",
+      "enrollment": 15,
+      "brief_summary": "This will be an open-label, single-arm, national phase 1/2 therapeutic study to evaluate the safety, tolerability, and preliminary efficacy of \\[90Y\\]Y-PentixaTher (\\[90Y\\]Y-PTT) for the treatment of recurrent or refractory primary or isolated secondary central nervous system (CNS) lymphoma.\n\nThe study will be performed in three cohorts with different dose levels according to the best-of-5 dose escalation design. A safety review committee (SRC) will evaluate dose-limiting toxicities and decide a",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients are eligible to be included in the study only if all of the following criteria apply and are maintained at Day -2 to Day 0 (before IMP infusion):\n\n1. Signed informed consent, by the patient or an authorized legal guardian in case the patient is temporarily not competent",
+      "endpoints": [
+        "Incidence, severity and relationship of (S)AEs (graded in severity according to NCI CTCAE version 5.0)"
+      ],
+      "sponsor": "Pentixapharm AG",
+      "url": "https://clinicaltrials.gov/study/NCT06132737"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02432235",
+      "title": "A Phase 1 Adaptive Dose-Escalation Study to Evaluate the Tolerability, Safety, Pharmacokinetics, and Antitumor Activity of ADCT-301 in Patients With Relapsed or Refractory Hodgkin Lymphoma and Non-Hodgkin Lymphoma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-10-05",
+      "completion_date": "2019-10-24",
+      "country": "United States, United Kingdom",
+      "enrollment": 133,
+      "brief_summary": "This study evaluates camidanlumab tesirine in participants with relapsed/refractory Non-Hodgkin or Hodgkin lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female age 18 years or older.\n2. Refractory or relapsed lymphoma (per World Health Organization (WHO) Classification system)\n3. Pathologically confirmed relapsed or refractory lymphoma\n4. Availability of formalin-fixed paraffin-embedded (FFPE) tumor tissue block.\n5. M",
+      "endpoints": [
+        "Number of Participants Who Experienced Dose-Limiting Toxicities (DLTs)",
+        "Recommended Dose of Camidanlumab Tesirine for Part 2",
+        "Number of Participants Reporting at Least One Treatment Emergent Adverse Event (TEAE)"
+      ],
+      "sponsor": "ADC Therapeutics S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02432235"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01323920",
+      "title": "Bortezomib-based Graft-Versus-Host-Disease Prophylaxis After Myeloablative Allogeneic Stem Cell Transplantation for Patients Lacking HLA-matched Related Donors: A Phase 2 Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2013-11",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "A common problem after stem cell transplant is graft-versus-host-disease (GVHD). GVHD is a complication of transplantation where the donor graft attacks and damages some of your tissues. After stem cell transplant, all patients receive prophylactic medications against GVHD.\n\nIn this research study, we are studying the safety and effectiveness of a bortezomib based GVHD prophylaxic drug combination in participants after myeloablative allogeneic stem call transplantation from a matched unrelated d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed advanced and/or aggressive hematologic malignancy (including myelodysplastic syndrome) that is unlikely to be cured by alternative therapies\n* HLA-Matched unrelated donor; or 1-locus HLA-mismatched related or unrelated donor\n* ECOG per",
+      "endpoints": [
+        "The Cumulative Incidence of Grade II-IV Acute GVHD up to Day 100 After Stem Cell Infusion"
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01323920"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03674411",
+      "title": "Single-Arm, Open Label, Interventional Phase II Clinical Trial Evaluating MGTA-456 in Patients With High-Risk Malignancy",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-01-02",
+      "completion_date": "2026-12-01",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "This is an single arm, open label, interventional phase II trial evaluating the efficacy of umbilical cord blood (UCB) hematopoietic stem and progenitor cells (HSPC) expanded in culture with stimulatory cytokines (SCF, Flt-3L, IL-6 and thromopoietin) on lympho-hematopoietic recovery. Patients will receive a uniform myeloablative conditioning and post-transplant immunoprophylaxis.",
+      "eligibility_criteria": "Age, Unit Cell Dose and HLA Match Criteria\n\n* Subjects must be ≤55 years of age\n* Subjects must weigh \\>11 kg\n* Subjects must have a partially HLA matched UCB unit with a pre-cryopreserved TNC dose \\>1.0 x 107 per kilogram recipient weight. HLA matching is initially based on a minimum of 5 of 8 HLA ",
+      "endpoints": [
+        "Percentage of Participants With Neutrophil Recover"
+      ],
+      "sponsor": "Masonic Cancer Center, University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT03674411"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001249",
+      "title": "Treatment of Tac-Expressing Cutaneous T-Cell Lymphoma (CTCL) and Adult T-Cell Leukemia (ATL) With Yttrium-90 Radiolabeled Anti-Tac",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1989-12",
+      "completion_date": "2000-10",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The study purpose is to evaluate the clinical response to multidose administration of anti-Tac monoclonal antibody conjugated with 10 mCi 90Y in patients with Tac-expressing adult T-cell leukemia (ATL).",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\nHistologically confirmed adult T-cell leukemia/lymphoma (ATL) or cutaneous T-cell lymphoma (CTCL).\n\nReactivity of at least 10% of peripheral blood, lymph node, or dermal malignant cells with anti-Tac as determined by immunofluorescent staining or soluble IL-2 receptor level",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00001249"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02373579",
+      "title": "Effect of Omega-3 Fatty Acids on Methotrexate Induced Hepatotoxicity in Children With Acute Lymphoblastic Leukemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2014-10",
+      "country": "N/A",
+      "enrollment": 70,
+      "brief_summary": "Study the role of oxidative stress in methotrexate induced hepatic damage, and the possible protective effect of OMEGA-3 fatty acids against methotrexate hepatotoxicity using clinical and biochemical parameters.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Child age: less than 17 years old.\n* Taking oral methotrexate in maintenance therapy.\n* Patients are at cycle one day zero.\n\nExclusion Criteria:\n\n* Child infected by hepatitis B or C viruses.\n* Child taking medications or having a condition causing elevation in liver enzymes l",
+      "endpoints": [
+        "Number of Participants with Adverse Events as a Measure of Safety and Tolerability by measuring Malondialdehyde (MDA) level changes .",
+        "Number of Participants with Adverse Events as a Measure of Safety and Tolerability by measuring Total antioxidant capacity (TAC) level changes.",
+        "Number of Participants with Adverse Events as a Measure of Safety and Tolerability by measuring superoxide dismutase (SOD) level changes."
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT02373579"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001941",
+      "title": "A Phase I/II Study of the Efficacy and Toxicity of Humanized Anti-Tac (Zenapax(Trademark)) in the Therapy of Tac-Expressing Adult T-Cell Leukemia",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1999-12",
+      "completion_date": "2011-02",
+      "country": "United States",
+      "enrollment": 34,
+      "brief_summary": "The purpose of the study was to determine: (1) the toxicity and maximum tolerated dose (MTD) of humanized anti-Tac (daclizumab), (Zenapax(Registered Trademark)) in patients with adult T-cell leukemia/lymphoma (ATL); (2) to define the dose of Zenapax(Registered Trademark) required to saturate interleukin 2 receptor alpha (IL-2R) alpha in patients with ATL; (3) determine the clinical response to humanized (Hu) anti-Tac (Zenapax(Registered Trademark) of patients with Tac-expressing adult T-cell leu",
+      "eligibility_criteria": "* ELIGIBILITY CRITERIA:\n* Population Base.\n* Patients diagnosed with smoldering or chronic human T-lymphotropic virus type 1 (HTLV-I)- associated adult T-cell leukemia.\n\nINCLUSION CRITERIA:\n\n* Patients must have serum antibodies directed to HTLV-I.\n* All patients must have a histologically confirmed",
+      "endpoints": [
+        "Duration of Response",
+        "Overall Survival",
+        "Percentage of Participants With an Overall Response Rate"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00001941"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06680661",
+      "title": "ABBA CORD: Double Umbilical Cord Blood Transplants With Abatacept for Graft Versus Host Disease Prophylaxis",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-02-25",
+      "completion_date": "2028-10-31",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The goal of this clinical trial is to see if adding abatacept to tacrolimus and MMF prevents or reduces the chances of acute graft versus host disease which is a complication that can occur after transplant in participants with blood cancer. The usual therapy for graft versus host disease prevention after a cord blood transplant includes tacrolimus and MMF. The main question this clinical trial aims to answer is whether or not abatacept will be safe and effective in reducing aGVHD rates in dCBT.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with the following hematologic malignancies:\n\n  * Acute myelogenous leukemia (AML): High-risk and intermediate-risk AML including:\n\n    * Antecedent hematological disease (e.g., myelodysplasia (MDS))\n    * Treatment-related leukemia\n    * Complete Remission (CR1) with",
+      "endpoints": [
+        "Severe aGVHD free survival"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT06680661"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03314974",
+      "title": "Myeloablative Allogeneic Hematopoietic Cell Transplantation Using a Related or Unrelated Donor for the Treatment of Hematological Diseases",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2018-03-30",
+      "completion_date": "2027-06-10",
+      "country": "United States",
+      "enrollment": 300,
+      "brief_summary": "This is a Phase II study of allogeneic hematopoietic stem cell transplant (HCT) using a myeloablative preparative regimen (of either total body irradiation (TBI); or, fludarabine/busulfan for patients unable to receive further radiation). followed by a post-transplant graft-versus-host disease (GVHD) prophylaxis regimen of post-transplant cyclophosphamide (PTCy), tacrolimus (Tac), and mycophenolate mofetil (MMF).",
+      "eligibility_criteria": "-Inclusion Criteria:\n\n* Age: ≤ 60 years of age\n* Performance Status: Karnofsky ≥ 70%, Lansky play score ≥ 70\n* Consent: Voluntary written consent (adult or legally authorized representative; or parental/guardian)\n* Adequate Organ Function:\n\n  * Renal: Creatinine \\<2x upper limit of normal. Patients ",
+      "endpoints": [
+        "Chronic GVHD - 1 year"
+      ],
+      "sponsor": "Masonic Cancer Center, University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT03314974"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00389506",
+      "title": "A Pilot Study of Anti-Tac(Fv)-PE38 (LMB-2) Immunotoxin for Treatment of CD25 Positive Hodgkin's Disease After Fludarabine and Cyclophosphamide",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2006-09",
+      "completion_date": "2008-05",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as fludarabine and cyclophosphamide, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. LMB-2 immunotoxin can find cancer cells and kill them without harming normal cells. Giving fludarabine and cyclophosphamide followed by LMB-2 immunotoxin may kill more cancer cells.\n\nPURPOSE: This clinical trial is studying how well giving fludarabine and cyclophosphamide followed by LMB-2 immuno",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histopathologically confirmed CD25+ Hodgkin's lymphoma\n\n  * At least 20% of the malignant cells positive by immunohistochemistry\n  * Stage II-IV disease\n* Meets the following criteria:\n\n  * Failed standard chemotherapy\n  * Not eligible for curative salvage radiotherapy or",
+      "endpoints": [
+        "Feasibility of using fludarabine phosphate and cyclophosphamide to decrease neutralizing antibodies"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00389506"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "30189985",
+      "title": "Painful Oral Lesions.",
+      "abstract": "Painful oral vesiculoerosive diseases (OVD) include lichen planus, pemphigus vulgaris, mucous membrane pemphigoid, erythema multiforme, and recurrent aphthous stomatitis. OVD lesions have an immunopathic cause. Treatment is aimed at reducing the immunologic and the following inflammatory response. The mainstay of OVD management is topical or systemic corticosteroids to include topical triamcinolone, fluocinonide, and clobetasol, whereas systemic medications used in practice can include dexamethasone, prednisone, and prednisolone. Oral herpetic lesions can be primary or recurrent. If management is desired, they can be treated by topical or systemic antiviral drugs. Topical antiviral creams include prescription acyclovir, penciclovir and over-the-counter docosanol.",
+      "journal": "Dental clinics of North America",
+      "year": "2018",
+      "authors": [
+        "Hargitai Istvan A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Erythema Multiforme",
+        "Facial Pain",
+        "Humans",
+        "Lichen Planus",
+        "Pemphigoid, Benign Mucous Membrane",
+        "Pemphigus",
+        "Stomatitis, Aphthous"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30189985/"
+    },
+    {
+      "pmid": "9687059",
+      "title": "Erythema-multiforme-like lesions from triamcinolone acetonide.",
+      "abstract": "",
+      "journal": "Contact dermatitis",
+      "year": "1998",
+      "authors": [
+        "Valsecchi R",
+        "Reseghetti A",
+        "Leghissa P",
+        "Cologni L",
+        "Cortinovis R"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Dermatitis, Allergic Contact",
+        "Drug Eruptions",
+        "Erythema Multiforme",
+        "Glucocorticoids",
+        "Humans",
+        "Male",
+        "Osteoarthritis",
+        "Patch Tests",
+        "Triamcinolone Acetonide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9687059/"
+    },
+    {
+      "pmid": "8690267",
+      "title": "Erythema multiforme.",
+      "abstract": "The diagnosis of erythema multiforme was established on the basis of physical examination, biopsy specimen evaluation, and the patient's medication history. Use of a triamcinolone mouthrinse and discontinuation of Triphasil-28 contraceptive led to resolution of the lesions.",
+      "journal": "General dentistry",
+      "year": "1996",
+      "authors": [
+        "Manganaro A M"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Inflammatory Agents",
+        "Contraceptives, Oral, Hormonal",
+        "Diagnosis, Differential",
+        "Erythema Multiforme",
+        "Ethinyl Estradiol",
+        "Ethinyl Estradiol-Norgestrel Combination",
+        "Female",
+        "Humans",
+        "Mouth Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8690267/"
+    },
+    {
+      "pmid": "24603513",
+      "title": "Erythema multiforme-like allergic contact reaction to topical triamcinolone.",
+      "abstract": "",
+      "journal": "Dermatitis : contact, atopic, occupational, drug",
+      "year": "2014",
+      "authors": [
+        "Smart David Ross",
+        "Powell Douglas L"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anti-Inflammatory Agents",
+        "Dermatitis, Allergic Contact",
+        "Drug Eruptions",
+        "Erythema Multiforme",
+        "False Negative Reactions",
+        "Female",
+        "Humans",
+        "Patch Tests",
+        "Triamcinolone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24603513/"
+    },
+    {
+      "pmid": "39507134",
+      "title": "Drug-Induced Oral Erythema Multiforme: A Report of a Rare Case.",
+      "abstract": "Erythema multiforme (EM) is an acute-onset, self-limiting inflammatory condition affecting the skin and mucous membranes. It exhibits a range of skin lesions, which is why it is referred to as \"multiforme.\" Oral lesions, usually inflammatory and frequently marked by rapidly rupturing vesicles and bullae, often constitute a significant clinical feature. The exact etiology is obscure; however, it may be caused by multiple triggering factors. The most well-established connection is with a previous herpes simplex virus infection, while a smaller percentage of cases (<10%) are linked to drug use. Based on mucosal involvement, the condition is classified into two types: EM minor and EM major. Stevens-Johnson syndrome and toxic epidermal necrolysis (Lyell's disease) are now recognized as separate clinical conditions. EM usually exhibits a self-limiting course, with lesions typically improving within a few weeks. Avoiding triggers and using steroid therapy can be effective treatments. This pap",
+      "journal": "Cureus",
+      "year": "2024",
+      "authors": [
+        "Sriram Shyamkumar",
+        "Jayakanth Mambakkam J",
+        "Mariam Sarah",
+        "Saeed Shazina",
+        "Hasan Shamimul"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39507134/"
+    },
+    {
+      "pmid": "14206262",
+      "title": "ERYTHEMA MULTIFORME OCCURRING DURING TREATMENT OF PRURITUS VULVAE AND NEURODERMATITIS WITH BETAMETHASONE.",
+      "abstract": "",
+      "journal": "The British journal of clinical practice",
+      "year": "1964",
+      "authors": [
+        "FOX E"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Betamethasone",
+        "Drug Eruptions",
+        "Erythema Multiforme",
+        "Female",
+        "Humans",
+        "Lupus Erythematosus, Discoid",
+        "Neurodermatitis",
+        "Prednisolone",
+        "Pruritus Vulvae",
+        "Toxicology"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14206262/"
+    },
+    {
+      "pmid": "13994257",
+      "title": "Triamcinolone and hydrocortisone in topical therapy.",
+      "abstract": "",
+      "journal": "Archives of dermatology",
+      "year": "1963",
+      "authors": [
+        "TROMOVITCH T A",
+        "JACOBS P H",
+        "PUZAK H P"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Dermatitis",
+        "Dermatitis, Atopic",
+        "Eczema",
+        "Erythema Multiforme",
+        "Humans",
+        "Hydrocortisone",
+        "Neurodermatitis",
+        "Pityriasis",
+        "Triamcinolone",
+        "Triamcinolone Acetonide"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13994257/"
+    },
+    {
+      "pmid": "28128086",
+      "title": "Vesicular Contact Reaction May Progress into Erythema Multiforme.",
+      "abstract": "Dear Editor, Erythema multiforme is considered an acute skin condition, characterized by a self-limiting and sometimes recurrent course. It is regarded as a type IV hypersensitivity reaction associated with certain infections, medications, and other various triggers. Allergic contact dermatitis is in turn a delayed type of induced allergy as a result of cutaneous contact with a specific allergen to which the patient develops specific sensitivity. This type of cutaneous reaction is associated with inflammation manifesting with erythema, edema, and vesicles. A 27-year old female patient presented with a 3-day history of erythematous and vesicular lesions which developed 24 hours after cesarean section. Initially the lesions were localized in the area of surgery (mainly the abdomen and upper thighs) and on the next day progressed to the buttocks and lumbar area. The patient was referred to the Outpatient Clinic and was treated with antihistamines, but her dermatological state deteriorated",
+      "journal": "Acta dermatovenerologica Croatica : ADC",
+      "year": "2016",
+      "authors": [
+        "Czarnecka-Operacz Magdalena",
+        "Jenerowicz Dorota",
+        "Szulczyńska-Gabor Joanna",
+        "Teresiak-Mikołajczak Ewa",
+        "Szyfter-Harris Joanna"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Allergens",
+        "Cesarean Section",
+        "Dermatitis, Allergic Contact",
+        "Disease Progression",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Erythema Multiforme",
+        "Female",
+        "Follow-Up Studies",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28128086/"
+    },
+    {
+      "pmid": "23346669",
+      "title": "Radiation port erythema multiforme: erythema multiforme localized to the radiation port in a patient with non-small cell lung cancer.",
+      "abstract": "A 75-year-old man was treated with stereotactic radiation to 50 gray units in 4 fractions for stage IB non-small cell lung cancer. Radiotherapy was directed at the right lower lobe segment of the lung and lasted 4 days. He developed radiodermatitis, which completely resolved within a few weeks after radiotherapy was finished. Three months after completing radiation therapy, he developed a pruritic red lesion within his radiation port on his right mid back with the formation of blisters a week later. Two weeks after the onset of the patient's blisters, cutaneous examination showed individual and convergent erythematous papules and plaques with superficial scaling at sites of resolving vesicles located within the radiated area (Figures 1 and 2). The patient had neither symptoms of mycoplasma pneumoniae, nor lesions or history of present or past herpetic infection. Also, he had not recently been placed on any new medications, and he did not have any other erythema multiforme-associated ri",
+      "journal": "Skinmed",
+      "year": "2012",
+      "authors": [
+        "Chodkiewicz Hubert M",
+        "Cohen Philip R"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Anti-Inflammatory Agents",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Erythema Multiforme",
+        "Humans",
+        "Hyperpigmentation",
+        "Lung Neoplasms",
+        "Male",
+        "Radiodermatitis",
+        "Time Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23346669/"
+    },
+    {
+      "pmid": "4884283",
+      "title": "Drug reactions. IV.",
+      "abstract": "",
+      "journal": "The British journal of dermatology",
+      "year": "1968",
+      "authors": [
+        "Baker H"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Atrophy",
+        "Child",
+        "Erythema Multiforme",
+        "Female",
+        "Fluocinolone Acetonide",
+        "Glucocorticoids",
+        "Humans",
+        "Male",
+        "Skin Diseases"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4884283/"
+    },
+    {
+      "pmid": "40445595",
+      "title": "How to treat primary cutaneous B cell lymphoma - Results from a monocentric cohort study on 98 patients.",
+      "abstract": "Primary cutaneous B cell lymphomas (CBCL) are chronic diseases with frequent relapses. Time to next treatment (TTNT) is an endpoint reflecting clinical benefit of treatments including patient perspectives. The objectives were to evaluate clinical characteristics, survival, prognosis and TTNT in CBCL.",
+      "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+      "year": "2025",
+      "authors": [
+        "Cankaya Rohat",
+        "Kleiner Pit Leonard",
+        "Hilke Franz Joachim",
+        "Moritz Rose",
+        "Eigentler Thomas"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Neoplasms",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Aged",
+        "Aged, 80 and over",
+        "Adult",
+        "Cohort Studies",
+        "Lymphoma, Large B-Cell, Diffuse"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40445595/"
+    },
+    {
+      "pmid": "4359883",
+      "title": "Glucocorticoid receptors and mechanism of resistance in the cortisol-sensitive and -resistant lines of lymphosarcoma P1798.",
+      "abstract": "",
+      "journal": "Cancer research",
+      "year": "1974",
+      "authors": [
+        "Kaiser N",
+        "Milholland R J",
+        "Rosen F"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Binding Sites",
+        "Cells, Cultured",
+        "Centrifugation, Density Gradient",
+        "Drug Resistance",
+        "Glucocorticoids",
+        "Hydrocortisone",
+        "Hydroxycorticosteroids",
+        "Lymphoma, Non-Hodgkin",
+        "Mice"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4359883/"
+    },
+    {
+      "pmid": "31667886",
+      "title": "Complete resolution of primary cutaneous marginal zone B-cell lymphoma on the cheek of a 7-year-old boy with intralesional triamcinolone and tincture of time.",
+      "abstract": "A 7-year-old healthy boy presented with an asymptomatic smooth, firm red plaque on the cheek. Histopathology, immunostaining, molecular testing and imaging confirmed a diagnosis of a primary cutaneous marginal zone B-cell lymphoma. The lesion was treated with intralesional triamcinolone, with complete clinical resolution achieved within one year. Intralesional steroid injection is an effective first-line modality for the treatment of patients with limited disease in cosmetically sensitive areas.",
+      "journal": "Pediatric dermatology",
+      "year": "2020",
+      "authors": [
+        "Skaljic Meliha",
+        "Cotton Colleen H",
+        "Reilly Anne F",
+        "Pillai Vinodh",
+        "Perman Marissa J"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Cheek",
+        "Child",
+        "Glucocorticoids",
+        "Humans",
+        "Injections, Intralesional",
+        "Lymphoma, B-Cell, Marginal Zone",
+        "Male",
+        "Remission Induction",
+        "Skin Neoplasms",
+        "Time Factors"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31667886/"
+    },
+    {
+      "pmid": "38091439",
+      "title": "Pediatric Primary Cutaneous Marginal Zone Lymphoma Treated With Doxycycline.",
+      "abstract": "Primary cutaneous marginal zone lymphoma (PCMZL) is a cutaneous B-cell lymphoma that rarely occurs in children. We present a 13-year-old boy with multiple asymptomatic erythematous papules and nodules on the trunk and arms that were confirmed on biopsy to be PCMZL. He was treated with doxycycline and intralesional triamcinolone with improvement of lesions. This case supports the use of doxycycline for the treatment of pediatric PCMZL in patients with widespread involvement despite negative Borrelia serology. Multiple low-risk treatment modalities may be used in conjunction to clear disease in pediatric patients.",
+      "journal": "Cutis",
+      "year": "2023",
+      "authors": [
+        "Chan Grace C",
+        "Kamath Sonia"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Humans",
+        "Male",
+        "Doxycycline",
+        "Lymphoma, B-Cell, Marginal Zone",
+        "Skin Neoplasms",
+        "Triamcinolone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38091439/"
+    },
+    {
+      "pmid": "27546732",
+      "title": "CD8+ mycosis fungoides clinically masquerading as alopecia areata.",
+      "abstract": "A 33-year-old female with a 7-year history of CD8-positive hypopigmented mycosis fungoides (MF) involving the trunk and extremities presented with a large well-defined alopecic patch on her frontal scalp. Clinically, this area resembled alopecia areata (AA) and was without hypopigmentation or erythema. A scalp biopsy revealed a non-scarring inflammatory alopecia and a superficial band-like atypical lymphoid infiltrate with prominent epidermotropism. Atypical, predominately CD8-positive lymphocytes were seen surrounding and infiltrating the bulb portion of several hair follicles. Treatments for her MF lesions have included topical bexarotene, topical corticosteroids and phototherapy. Her alopecia has been treated with high potency topical corticosteroids and multiple intralesional triamcinolone injections with very minimal hair regrowth to date. Alopecia due to cutaneous lymphoma is an uncommon phenomenon but can occur in erythrodermic MF or Sezary syndrome. AA-like changes have most of",
+      "journal": "Journal of cutaneous pathology",
+      "year": "2016",
+      "authors": [
+        "Amin Sapna M",
+        "Tan Timothy",
+        "Guitart Joan",
+        "Colavincenzo Maria",
+        "Gerami Pedram"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Alopecia Areata",
+        "CD8-Positive T-Lymphocytes",
+        "Female",
+        "Humans",
+        "Mycosis Fungoides",
+        "Neoplasm Recurrence, Local",
+        "Skin Neoplasms"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27546732/"
+    },
+    {
+      "pmid": "4571883",
+      "title": "Treatment of localized skin lesions with betamethasone 17-valerate and triamcinolone acetonide in alcoholic solution under occlusive dressing. A double blind comparative study.",
+      "abstract": "",
+      "journal": "Dermatologica",
+      "year": "1972",
+      "authors": [
+        "Neering H",
+        "van der Kroon H V",
+        "Roeleveld C G"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "1-Propanol",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Betamethasone",
+        "Child",
+        "Clinical Trials as Topic",
+        "Drug Combinations",
+        "Eczema",
+        "Ethanol"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4571883/"
+    },
+    {
+      "pmid": "17057789",
+      "title": "Local corticosteroid treatment of eyelid and orbital xanthogranuloma.",
+      "abstract": "To demonstrate the efficacy of local corticosteroid therapy for the treatment of eyelid and orbital xanthogranuloma in adults.",
+      "journal": "Transactions of the American Ophthalmological Society",
+      "year": "2005",
+      "authors": [
+        "Elner Victor M",
+        "Mintz Roni",
+        "Demirci Hakan",
+        "Hassan Adam S"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Eyelid Diseases",
+        "Female",
+        "Glucocorticoids",
+        "Granuloma",
+        "Humans",
+        "Injections, Intralesional",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17057789/"
+    },
+    {
+      "pmid": "9722724",
+      "title": "Topical corticosteroids for mycosis fungoides. Experience in 79 patients.",
+      "abstract": "To determine the effectiveness of topical corticosteroids in the management of mycosis fungoides.",
+      "journal": "Archives of dermatology",
+      "year": "1998",
+      "authors": [
+        "Zackheim H S",
+        "Kashani-Sabet M",
+        "Amin S"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Anti-Inflammatory Agents",
+        "Antineoplastic Agents",
+        "Betamethasone",
+        "Betamethasone Valerate",
+        "Clobetasol"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9722724/"
+    },
+    {
+      "pmid": "36714979",
+      "title": "Granulomatosis with polyangiitis-associated sclerokeratitis in a case of ocular adnexal B-cell lymphoma.",
+      "abstract": "We describe the first reported case of granulomatosis polyangiitis (GPA)-associated sclerokeratitis in a patient with treated ocular adnexal lymphoma (OAL). The patient presented with pain and decreased vision in the left eye over several weeks. Past medical history was significant for recent bilateral relapsing OAL that was treated successfully with radiotherapy. Examination of the eyes revealed sectoral scleritis and peripheral ulcerative keratitis. Magnetic resonance imaging (MRI) of the orbits excluded recurrence of OAL and serum antineutrophil cytoplasmic autoantibody (ANCA) titres confirmed the diagnosis of GPA. Disease was poorly responsive to systemic steroids, azathioprine and rituximab. Ultimately, resolution was achieved with successive subconjunctival dexamethasone and subconjunctival triamcinolone injections. This case highlights the need to consider ocular inflammation in patients with a history of malignant hemopathies.",
+      "journal": "Orbit (Amsterdam, Netherlands)",
+      "year": "2024",
+      "authors": [
+        "Valizadeh Ghazal",
+        "Manta Alexandra I",
+        "Conrad Diana",
+        "Schlect David",
+        "Sullivan Timothy J"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Scleritis",
+        "Granulomatosis with Polyangiitis",
+        "Magnetic Resonance Imaging",
+        "Lymphoma, B-Cell",
+        "Keratitis",
+        "Glucocorticoids",
+        "Middle Aged",
+        "Female",
+        "Male"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36714979/"
+    },
+    {
+      "pmid": "16418663",
+      "title": "Local corticosteroid treatment of eyelid and orbital xanthogranuloma.",
+      "abstract": "To demonstrate the efficacy of local corticosteroid therapy for the treatment of eyelid and orbital xanthogranuloma in adults.",
+      "journal": "Ophthalmic plastic and reconstructive surgery",
+      "year": "2006",
+      "authors": [
+        "Elner Victor M",
+        "Mintz Roni",
+        "Demirci Hakan",
+        "Hassan Adam S"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Biopsy",
+        "Diagnosis, Differential",
+        "Eyelid Diseases",
+        "Female",
+        "Follow-Up Studies",
+        "Glucocorticoids",
+        "Granuloma",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16418663/"
+    }
+  ]
+}

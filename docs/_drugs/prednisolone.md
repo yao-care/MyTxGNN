@@ -5,7 +5,7 @@ drugbank_id: "DB00860"
 drug_name: "Prednisolone"
 kg_predictions: 3650
 dl_predictions: 762
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 3650
 brands: []
 permalink: /drugs/prednisolone/
@@ -21,7 +21,7 @@ permalink: /drugs/prednisolone/
 | **DrugBank ID** | [DB00860](https://go.drugbank.com/drugs/DB00860) |
 | **KG Predictions** | 3650 |
 | **DL Predictions (≥0.7)** | 762 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

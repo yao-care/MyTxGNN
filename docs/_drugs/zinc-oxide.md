@@ -5,7 +5,7 @@ drugbank_id: "DB09321"
 drug_name: "Zinc Oxide"
 kg_predictions: 504
 dl_predictions: 143
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 504
 brands: []
 permalink: /drugs/zinc-oxide/
@@ -21,7 +21,7 @@ permalink: /drugs/zinc-oxide/
 | **DrugBank ID** | [DB09321](https://go.drugbank.com/drugs/DB09321) |
 | **KG Predictions** | 504 |
 | **DL Predictions (≥0.7)** | 143 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

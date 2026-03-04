@@ -5,7 +5,7 @@ drugbank_id: "DB00966"
 drug_name: "Telmisartan"
 kg_predictions: 348
 dl_predictions: 72
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 348
 brands: []
 permalink: /drugs/telmisartan/
@@ -21,7 +21,7 @@ permalink: /drugs/telmisartan/
 | **DrugBank ID** | [DB00966](https://go.drugbank.com/drugs/DB00966) |
 | **KG Predictions** | 348 |
 | **DL Predictions (≥0.7)** | 72 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

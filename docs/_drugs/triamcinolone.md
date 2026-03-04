@@ -5,7 +5,7 @@ drugbank_id: "DB00620"
 drug_name: "Triamcinolone"
 kg_predictions: 645
 dl_predictions: 637
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 645
 brands: []
 permalink: /drugs/triamcinolone/
@@ -21,7 +21,7 @@ permalink: /drugs/triamcinolone/
 | **DrugBank ID** | [DB00620](https://go.drugbank.com/drugs/DB00620) |
 | **KG Predictions** | 645 |
 | **DL Predictions (≥0.7)** | 637 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

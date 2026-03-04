@@ -1,0 +1,1065 @@
+{
+  "drug": "Paclitaxel",
+  "drugbank_id": "DB01229",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:01:11Z",
+  "indications": [
+    {
+      "indication": "ovarian clear cell adenocarcinoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 8,
+        "phase2_trials": 8,
+        "phase1_trials": 3,
+        "other_trials": 1,
+        "rct_articles": 0,
+        "review_articles": 1,
+        "other_articles": 9,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "peritoneum cancer",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 4,
+        "phase2_trials": 11,
+        "phase1_trials": 2,
+        "other_trials": 3,
+        "rct_articles": 1,
+        "review_articles": 1,
+        "other_articles": 8,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "hereditary breast ovarian cancer syndrome",
+      "evidence_level": "L2",
+      "trials": 4,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 1,
+        "phase1_trials": 3,
+        "other_trials": 0,
+        "rct_articles": 2,
+        "review_articles": 1,
+        "other_articles": 7,
+        "total_trials": 4,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "primary non-gestational choriocarcinoma of ovary",
+      "evidence_level": "L5",
+      "trials": 0,
+      "articles": 1,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 1,
+        "total_trials": 0,
+        "total_articles": 1
+      }
+    },
+    {
+      "indication": "ovarian carcinosarcoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 3,
+        "phase2_trials": 11,
+        "phase1_trials": 6,
+        "other_trials": 0,
+        "rct_articles": 3,
+        "review_articles": 3,
+        "other_articles": 4,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 64,
+  "total_articles": 41,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01440998",
+      "title": "Pilot and Translational Study of Dasatinib (NSC#732517) Paclitaxel and Carboplatin in Women With Advanced Stage and Recurrent Endometrial Cancer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-09-20",
+      "completion_date": "2015-12-31",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "This pilot phase I trial studies how well dasatinib works together with paclitaxel and carboplatin in treating patients with stage III, stage IV, or endometrial cancer that has come back after a period of improvement. Dasatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have measurable stage III, stage IV, or recurrent endometrial carcinoma whose potential for cure by surgery or radiation therapy alone is poor\n* Patients with the following histologic epithelial cell types are eligible: endometrioid adenocarcinoma, serous adenoca",
+      "endpoints": [
+        "Change in pMEK expression",
+        "Change in EphA2 expression"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01440998"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01097746",
+      "title": "A Phase II Trial of Bevacizumab With Carboplatin and Weekly Paclitaxel as First-Line Treatment in Epithelial Ovarian, Primary Peritoneal, and Fallopian Tube Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-04-14",
+      "completion_date": "2022-09-13",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "This phase II trial studies how well first-line treatment of bevacizumab, carboplatin, and paclitaxel work in treating participants with stage III- IV ovarian, primary peritoneal and fallopian tube cancer. Monoclonal antibodies, such as bevacizumab, may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with a histologic diagnosis of epithelial ovarian cancer, peritoneal primary carcinoma or fallopian tube cancer; FIGO stage III and IV defined surgically at the completion of initial abdominal surgery and with appropriate tissue available for histologic evaluation. T",
+      "endpoints": [
+        "Number of Participants With Treatment Success"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01097746"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00331422",
+      "title": "A Phase II Study of Carboplatin and Paclitaxel as Neoadjuvant Chemotherapy Followed by Interval Cytoreduction in Women With Advanced Staged Epithelial Ovarian, Fallopian Tube and Primary Peritoneal Carcinoma for High-Risk Surgical Candidates or Patients Unlikely to be Optimally Surgically Cytoreduced",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2005-10",
+      "completion_date": "2009-03",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or stopping them from dividing. Giving chemotherapy drugs before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.\n\nPURPOSE: This phase II trial is studying how well giving paclitaxel together with carboplatin before surgery works in treating patients with advanced ovarian epithelial canc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with histological diagnosis of epithelial ovarian, primary peritoneal, or fallopian tube carcinoma for which no previous treatment has been given.\n\nPatients with the following histological epithelial cell types are eligible:\n\n* Serous adenocarcinoma\n* Mucinous adenoca",
+      "endpoints": [
+        "Number of Patients Who Underwent Optimal Cytoreduction After Chemotherapy"
+      ],
+      "sponsor": "Masonic Cancer Center, University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT00331422"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05281471",
+      "title": "A Randomized Phase 3 Study Assessing the Efficacy and Safety of Olvi-Vec Followed by Platinum-doublet Chemotherapy and Bevacizumab Compared With Physician's Choice of Chemotherapy and Bevacizumab in Women With Platinum-Resistant/Refractory Ovarian Cancer (PRROC) (OnPrime, GOG-3076)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2022-08-31",
+      "completion_date": "2026-10",
+      "country": "United States",
+      "enrollment": 186,
+      "brief_summary": "The OnPrime study is a multi-center, randomized open-label phase 3 study evaluating the safety and efficacy of Olvi-Vec followed by platinum-doublet chemotherapy and bevacizumab compared to the Active Comparator Arm with Physician's Choice of chemotherapy and bevacizumab in women diagnosed with platinum-resistant/refractory ovarian cancer (includes fallopian tube cancer and primary peritoneal cancer). This Phase III trial builds on the efficacy and safety data reported in the previous Phase II V",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed (from prior treatment) non-resectable ovarian, fallopian tube or primary peritoneal cancer.\n* High-grade serous \\[including malignant mixed Mullerian tumor (MMMT) with metastasis that contains high-grade epithelial carcinoma, FIGO grades 2 \\& 3 allowed",
+      "endpoints": [
+        "Progression-free survival (PFS) by RECIST 1.1 in the Intention-to-Treat (ITT) population (all randomized participants regardless of whether they received any dose of treatment)"
+      ],
+      "sponsor": "Genelux Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT05281471"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00008138",
+      "title": "Phase II Evaluation Of Neoadjuvant Chemotherapy, Interval Debulking Followed By Intraperitoneal Chemotherapy In Women With Stage III And IV Epithelial Ovarian Cancer, Fallopian Tube Cancer Or Primary Peritoneal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-03",
+      "completion_date": "2009-11",
+      "country": "N/A",
+      "enrollment": 62,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining more than one drug or combining chemotherapy with surgery may kill more tumor cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy and surgery in treating patients who have stage III or stage IV ovarian epithelial cancer, primary peritoneal cancer, or fallopian tube cancer.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed stage III or IV ovarian epithelial cancer, primary peritoneal cancer, or fallopian tube cancer\n\n  * Adenocarcinoma\n  * Large pelvic mass and/or bulky abdominal disease and/or malignant pleural effusion\n  * Pleural effusion only fo",
+      "endpoints": [
+        "Overall Survival",
+        "Progression-Free Survival"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00008138"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03648489",
+      "title": "An International Multi-centre Randomised Phase II Study to Assess the Efficacy of TAK228 in Combination With Intravenous Weekly Paclitaxel Compared With Weekly Paclitaxel Alone in Women With Advanced/Recurrent Epithelial Ovarian, Fallopian Tube or Primary Peritoneal Cancer (of Clear Cell, Endometrioid and High Grade Serous Type, and Carcinosarcoma)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-09-21",
+      "completion_date": "2023-11-30",
+      "country": "Germany, United Kingdom",
+      "enrollment": 134,
+      "brief_summary": "DICE is a randomised study recruiting 126 women over 3 years from hospitals in the UK and Germany. Eligible patients will have tissue based diagnosis of advanced/recurrent ovarian cancer (clear cell, endometrioid or high grade serous or carcinosarcoma), have had chemotherapy before, and be platinum-resistant (the cancer has returned/grown significantly during or within 6 months of platinum-containing chemotherapy).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed and dated written informed consent prior to admission to the study and initiation of any study procedures in accordance with ICH-GCP guidelines and to the local legislation\n* Females ≥ 18 years of age\n* Pathological diagnosis of ovarian, fallopian tube or primary perito",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT03648489"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00888615",
+      "title": "A Phase II Evaluation of Elesclomol Sodium and Weekly Paclitaxel in the Treatment of Recurrent or Persistent Platinum-Resistant Ovarian, Fallopian Tube or Primary Peritoneal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-12-13",
+      "completion_date": "2016-08-31",
+      "country": "United States",
+      "enrollment": 58,
+      "brief_summary": "This phase II trial studies how well elesclomol sodium and paclitaxel work in treating patients with ovarian epithelial cancer, fallopian tube cancer, or primary peritoneal cancer that has returned after a period of improvement (recurrent) or is persistent. Drugs used in chemotherapy, such as elesclomol sodium and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Elesclomol sodium",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have recurrent or persistent epithelial ovarian, fallopian tube or primary peritoneal carcinoma; histologic documentation of the original primary tumor is required via the pathology report\n\n  * Patients with the following histologic epithelial cell types are elig",
+      "endpoints": [
+        "Proportion of Participants With Objective Response",
+        "Duration of Objective Response",
+        "Number of Participants Who Experienced at Least One Adverse Event"
+      ],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00888615"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00483782",
+      "title": "ICON7 - A Randomised, Two-Arm, Multi-Centre Gynaecologic Cancer InterGroup Trial of Adding Bevacizumab to Standard Chemotherapy (Carboplatin and Paclitaxel) in Patients With Epithelial Ovarian Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "",
+      "country": "Australia, Germany, Norway, France, United Kingdom",
+      "enrollment": 1520,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or stopping them from dividing. Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Bevacizumab may also stop the growth of tumor cells by blocking blood flow to",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed ovarian epithelial, fallopian tube, or primary peritoneal cavity cancer\n\n  * Newly diagnosed disease\n* Meets 1 of the following staging criteria:\n\n  * High-risk stage I or IIA disease (grade 3 disease or clear cell carcinoma only)\n  * Stage IIB-IV",
+      "endpoints": [
+        "Progression-free survival"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00483782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00003644",
+      "title": "A Randomized Phase III Trial of IV Carboplatin (AUC 6) and Paclitaxel 175 mg/m2 Q 21 Days x 3 Courses Plus Low Dose Paclitaxel 40 mg/m2/wk Versus IV Carboplatin (AUC 6) and Paclitaxel 175 mg/m2 Q 21 Days x 3 Courses Plus Observation in Patients With Early Stage Ovarian Carcinoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-10",
+      "completion_date": "",
+      "country": "United States, Japan",
+      "enrollment": 571,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining more than one drug may kill more tumor cells. It is not yet known whether receiving combined carboplatin and paclitaxel plus continued low-dose paclitaxel is more effective than carboplatin and paclitaxel alone for early-stage ovarian cancer.\n\nPURPOSE: This randomized phase III trial is studying carboplatin and paclitaxel alone too see how well they work compared to c",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed ovarian epithelial cancer of one of the following histologic cell types:\n\n  * Serous adenocarcinoma\n  * Malignant Brenner's tumor\n  * Mucinous adenocarcinoma\n  * Endometrioid\n  * Adenocarcinoma\n  * Clear cell adenocarcinoma\n  * Undifferentiated ca",
+      "endpoints": [
+        "Progression-free Survival",
+        "Overall Survival",
+        "Number of Participants With Adverse Events Grade 3 or Greater"
+      ],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00003644"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02129036",
+      "title": "Retrospective Multi-institutional Survey of Clinical Characteristics in Ovarian Clear Cell Adenocarcinoma Cancer Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2013-12",
+      "country": "N/A",
+      "enrollment": 5,
+      "brief_summary": "Clear cell carcinoma comprises 5-10% of surface epithelial ovarian cancers, and about 30-40% of the patients with clear cell carcinoma are diagnosed in the advanced stage. The investigators studied the response to chemotherapy and survival for either paclitaxel-platinum based chemotherapy or conventional platinum-based chemotherapy among all stages clear cell ovarian carcinoma. Prognostic factors for survival among the patients with pure, advanced, clear cell ovarian carcinoma were also evaluate",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Ovarian clear cell carcinoma\n\nExclusion Criteria:\n\n* not undergo operation",
+      "endpoints": [
+        "Overall survival (OS)"
+      ],
+      "sponsor": "Cathay General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02129036"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00262847",
+      "title": "A Phase III Trial of Carboplatin and Paclitaxel Plus Placebo Versus Carboplatin and Paclitaxel Plus Concurrent Bevacizumab (NSC # 704865) Followed by Placebo, Versus Carboplatin and Paclitaxel Plus Concurrent and Extended Bevacizumab, in Women With Newly Diagnosed, Previously Untreated, Stage III or IV Epithelial Ovarian, Primary Peritoneal or Fallopian Tube Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2015-04",
+      "country": "South Korea, United States, Japan, Canada",
+      "enrollment": 1873,
+      "brief_summary": "This randomized phase III trial studies carboplatin, paclitaxel, and bevacizumab to see how well they work compared to carboplatin, paclitaxel, and placebo in treating patients with stage III or stage IV ovarian epithelial, primary peritoneal, or fallopian tube cancer. Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as bevacizumab, m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a histologic diagnosis of epithelial ovarian cancer, peritoneal primary carcinoma or fallopian tube cancer; International Federation of Gynecology and Obstetrics (FIGO) stage III with any gross (macroscopic or palpable) residual disease or FIGO stage IV, defined ",
+      "endpoints": [
+        "Progression-free Survival"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00262847"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01824615",
+      "title": "Evaluation of the Efficacy of Sunitinib® in Patients With Recurrent Ovarian Clear Cell Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2016-01",
+      "country": "Taiwan",
+      "enrollment": 30,
+      "brief_summary": "Patients with early and advanced stages of epithelial ovarian cancer are treated with postoperative systemic chemotherapy after appropriate surgical staging and cytoreductive surgery. For ovarian cancer patients with recurrence, salvage chemotherapy with or without secondary cytoreductive surgery are recommended. The recommendation for specific primary adjuvant or salvage chemotherapy is cyclophosphamide or paclitaxel plus platinum regimens. Despite the high objective response rate associated wi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically (Primary tumor with ≥ 50% clear cell histomorphology) or cytologically confirmed ovarian clear cell carcinoma The disease should be documented recurrence or resistant to primary platinum and paclitaxel based adjuvant chemotherapy.\n\n   * Patients are relapsed, n",
+      "endpoints": [
+        "Response rate"
+      ],
+      "sponsor": "Cathay General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01824615"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00108745",
+      "title": "A Randomized Phase III Trial of Maintenance Chemotherapy Comparing 12, Monthly Cycles of Single Agent Paclitaxel or CT-2103 Versus No Treatment Until Documented Relapse in Women With Advanced Ovarian, Primary Peritoneal or Fallopian Tube Cancer Who Achieve a Complete Clinical Response to Primary Platinum/Taxane Chemotherapy",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2005-03-21",
+      "completion_date": "2022-02-22",
+      "country": "United States",
+      "enrollment": 1157,
+      "brief_summary": "This randomized phase III trial studies paclitaxel to see how well it works compared to polyglutamate paclitaxel or observation only in treating patients with stage III or stage IV ovarian epithelial, peritoneal cancer, or fallopian tube cancer. Drugs used in chemotherapy, such as paclitaxel and polyglutamate paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Paclitaxel and polyglutamate paclitaxel may also stop th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a histologic diagnosis of primary peritoneal carcinoma, or stage III or IV epithelial ovarian or fallopian tube carcinoma, with either optimal (=\\< 1 cm residual disease) or suboptimal residual disease following initial surgery; all patients must have had appropr",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00108745"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00085358",
+      "title": "A Phase I Trial of Intravenous Paclitaxel, Intraperitoneal Carboplatin and Intraperitoneal Paclitaxel or Intravenous Docetaxel, Intraperitoneal Carboplatin and Intraperitoneal Paclitaxel or Intravenous Paclitaxel, Intraperitoneal Carboplatin, Intraperitoneal Paclitaxel and CTEP-Supplied Agent Bevacizumab (NSC 704865, IND 7921) in Patients With Previously Untreated Ovarian, Fallopian Tube or Primary Peritoneal Carcinoma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2004-05",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This phase I trial is studying the side effects and best dose of intraperitoneal infusions of carboplatin when given together with intravenous infusions of either docetaxel or paclitaxel followed by intraperitoneal paclitaxel in treating patients with stage II, stage III, or stage IV ovarian epithelial, fallopian tube, or primary peritoneal cavity carcinoma (cancer). Drugs used in chemotherapy, such as carboplatin, docetaxel, and paclitaxel, work in different ways to stop tumor cells from dividi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed fallopian tube, ovarian epithelial, or primary peritoneal carcinoma\n\n  * Stage II-IV disease\n  * The following epithelial cell types are allowed:\n\n    * Carcinosarcoma\n    * Serous adenocarcinoma\n    * Endometrioid adenocarcinoma\n    * Mucinous adenoca",
+      "endpoints": [
+        "Maximum tolerated dose (MTD) of IV paclitaxel with IP carboplatin followed by IP paclitaxel, determined according to dose-limiting toxicities (DLTs) graded using Common Terminology Criteria for Adverse Events version 3.0 (CTCAE v3.0)",
+        "MTD of IV docetaxel with IP carboplatin followed by IP paclitaxel, determined according to dose-limiting toxicities (DLTs) graded using CTCAE v3.0",
+        "MTD of IV paclitaxel with IP carboplatin and IV bevacizumab followed by IP paclitaxel, determined according to dose-limiting toxicities (DLTs) graded using CTCAE v3.0"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00085358"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01294293",
+      "title": "A Phase I Study of VTX-2337 in Combination With Pegylated Liposomal Doxorubicin (PLD; NSC# 712227) or in Combination With Weekly Pactilaxel (NSC #673089) in Patients With Recurrent or Persistent Epithelial Ovarian, Fallopian Tube or Primary Peritoneal Cancer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This phase I trial is studying the side effects and best dose of TLR8 agonist VTX-2337 and pegylated liposomal doxorubicin hydrochloride in treating patients with recurrent or persistent ovarian epithelial, fallopian tube, or peritoneal cavity cancer. Biological therapies, such as TLR8 agonist VTX-2337, may stimulate the immune system in different ways and stop tumor cells from growing. Drugs used in chemotherapy, such as pegylated liposomal doxorubicin hydrochloride and paclitaxel, work in diff",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have recurrent or persistent epithelial ovarian, fallopian tube, or primary peritoneal carcinoma\n\n  * Histologic documentation of the original primary tumor is required via the pathology report\n* Patients with the following histologic cell types are eligible:\n\n  ",
+      "endpoints": [
+        "First-cycle dose-limiting toxicities",
+        "Frequency and severity of toxicities as assessed by CTCAE"
+      ],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT01294293"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01167712",
+      "title": "GOG-0262: A Phase III Trial of Every-3-Weeks Paclitaxel Versus Dose Dense Weekly Paclitaxel in Combination With Carboplatin With or Without Concurrent and Consolidation Bevacizumab (NSC #704865) in the Treatment of Primary Stage II, III or IV Epithelial Ovarian, Peritoneal or Fallopian Tube Cancer and ACRIN 6695: Perfusion CT Imaging to Evaluate Treatment Response in Patients Participating in GOG-0262",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2010-09-27",
+      "completion_date": "2026-07-02",
+      "country": "South Korea, United States, Canada",
+      "enrollment": 692,
+      "brief_summary": "This phase III clinical trial studies two different dose schedules of paclitaxel to see how well they work in combination with carboplatin with or without bevacizumab in treating patients with stage II, III or IV ovarian epithelial cancer, primary peritoneal cancer, or fallopian tube cancer. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary Surgery and Neoadjuvant Chemotherapy with Interval Cytoreductive Surgery Patients:\n* Patients must have measurable disease; at least one target lesion must have a minimum length of 1 cm in both the long and short axis (determined at the local site); for primary surgery",
+      "endpoints": [
+        "Progression-Free Survival"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01167712"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00565851",
+      "title": "A Phase III Randomized Controlled Clinical Trial of Carboplatin and Paclitaxel (or Gemcitabine) Alone or in Combination With Bevacizumab (NSC #704865) Followed by Bevacizumab and Secondary Cytoreductive Surgery in Platinum-Sensitive, Recurrent Ovarian, Peritoneal Primary and Fallopian Tube Cancer. NCI-Supplied Agents: Bevacizumab (NSC #704865)",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2007-12-06",
+      "completion_date": "2028-01-01",
+      "country": "South Korea, United States, Japan",
+      "enrollment": 1052,
+      "brief_summary": "This randomized phase III trial studies carboplatin, paclitaxel and gemcitabine hydrochloride when given together with or without bevacizumab after surgery to see how well it works in treating patients with ovarian, epithelial, primary peritoneal, or fallopian tube cancer that has come back. Drugs used in chemotherapy, such as carboplatin, paclitaxel and gemcitabine hydrochloride work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients enrolled after August 28, 2011 must be candidates for cytoreductive surgery and consent to have their surgical treatment determined by randomization\n* Patients must have histologic diagnosis of epithelial ovarian carcinoma, peritoneal primary or fallopian tube carcino",
+      "endpoints": [
+        "To Determine if Surgical Secondary Cytoreduction in Addition to Adjuvant Chemotherapy Increases the Duration of Overall Survival in Patients With Recurrent Platinum Sensitive Epithelial Ovarian Cancer, Peritoneal Primary or Fallopian Tube Cancer",
+        "To Determine if the Addition of Bevacizumab Increases the Duration of Overall Survival Relative to Second-line Paclitaxel and Carboplatin Alone in Patients With Recurrent Platinum Sensitive Epithelial Ovarian, Peritoneal Primary or Fallopian Tube Cancer"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00565851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04739800",
+      "title": "A Randomized Phase II Trial of Triplet Therapy (A PD-L1 Inhibitor Durvalumab (MEDI4736) in Combination With Olaparib and Cediranib) Compared to Olaparib and Cediranib or Durvalumab (MEDI4736) and Cediranib or Standard of Care Chemotherapy in Women With Platinum-Resistant Recurrent Epithelial Ovarian Cancer, Primary Peritoneal or Fallopian Cancer Who Have Received Prior Bevacizumab",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-06-10",
+      "completion_date": "2026-06-14",
+      "country": "United States, Puerto Rico",
+      "enrollment": 120,
+      "brief_summary": "This phase II trial studies the possible benefits of treatment with different combinations of the drugs durvalumab, olaparib and cediranib vs. the usual treatment in patients with ovarian, primary peritoneal, or fallopian tube cancer that has come back after a period of improvement with platinum therapy (recurrent platinum resistant). Usual treatment is the type of treatment most patients with this condition receive if they are not part of a clinical study. Combination therapies studied in this ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women with recurrent/persistent platinum-resistant ovarian, primary peritoneal, or fallopian tube cancers; platinum-resistant disease is defined as progression within \\< 6 months from completion of platinum based therapy. The date should be calculated from the last administere",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT04739800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02122185",
+      "title": "A Randomized Placebo Controlled Phase II Trial of Metformin in Conjunction With Chemotherapy Followed by Metformin Maintenance Therapy in Advanced Stage Ovarian, Fallopian Tube and Primary Peritoneal Cancer",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2015-02-25",
+      "completion_date": "2027-02-25",
+      "country": "United States",
+      "enrollment": 110,
+      "brief_summary": "This randomized phase II trial studies how well metformin hydrochloride and combination chemotherapy works in treating patients with stage III-IV ovarian, fallopian tube, or primary peritoneal cancer. Drugs used in chemotherapy, such as carboplatin, paclitaxel and docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Metformin hydrochloride may help carboplatin, paclitaxel and docetaxe",
+      "eligibility_criteria": "Inclusion Criteria:\n\nELIGIBILITY CRITERIA FOR PRE-REGISTRATION\n\n* A reasonable suspicion of ovarian cancer by the treating oncologist is required, evidenced by abdominal carcinomatosis, omental caking, pleural effusions or ascites AND an elevated CA125 \\> 250 OR CA125:carcinoembryonic antigen (CEA) ",
+      "endpoints": [
+        "Progression free survival (PFS) evaluated using the Response Evaluation Criteria in Solid Tumors (RECIST) version (v)1.1 and Gynecological Cancer Intergroup (GCIG) criteria"
+      ],
+      "sponsor": "University of Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT02122185"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002717",
+      "title": "A Phase III Randomized Trial of Cisplatin (NSC #119875) With Paclitaxel (NSC #125973) Administered by Either 24 Hour Infusion or 96 Hour Infusion in Patients With Selected Stage III and Stage IV Epithelial Ovarian Cancer and Primary Peritoneal Carcinoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1996-03",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 324,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining more than one drug may kill more tumor cells. It is not yet known which chemotherapy regimen is more effective for ovarian or peritoneal cancer.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of two regimens of paclitaxel plus cisplatin in treating patients who have residual disease after surgery to remove stage III or stage IV ovarian cancer or pri",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically confirmed primary ovarian epithelial cancer or primary peritoneal cancer Suboptimal residual disease within 6 weeks of laparotomy with maximum resection Stage III residual retroperitoneal disease greater than 1 cm and no greater than 1 cm residual intraperiton",
+      "endpoints": [],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00002717"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "39341074",
+      "title": "Paclitaxel-resistance facilitates glycolytic metabolism via Hexokinase-2-regulated ABC and SLC transporter genes in ovarian clear cell carcinoma.",
+      "abstract": "Ovarian clear cell carcinoma (OCCC) frequently develops resistance to platinum-based therapies, which is regarded as an aggressive subtype. However, metabolic changes in paclitaxel resistance remain unclear. Herein, we present the metabolic alternations of paclitaxel resistance in bioenergetic profiling in OCCC. Paclitaxel-resistant OCCC cells were developed and metabolically active with oxygen consumption rates (OCR) compared to parental cells. Metabolite profiling analysis revealed that paclitaxel-resistant OCCC cells reduced intracellular ATP and GTP influx rates, increasing the NADH/NAD+ ratio. We further demonstrated that paclitaxel-resistant OCCC cells led to characteristic alternations of metabolite levels in energy-requiring and energy-releasing steps of glycolysis and their corresponding glycolytic enzymes. Copy number alterations and RNA sequencing analysis demonstrated that ATP-binding cassette (ABC) transporters and solute carrier (SLC) transporter genes involved in glycoly",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "year": "2024",
+      "authors": [
+        "Lin Tsai-Yu",
+        "Gu Shin-Yuan",
+        "Lin Yi-Hui",
+        "Shih Jou-Ho",
+        "Lin Jiun-Han"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Drug Resistance, Neoplasm",
+        "Humans",
+        "Glycolysis",
+        "Female",
+        "Hexokinase",
+        "Ovarian Neoplasms",
+        "Paclitaxel",
+        "Cell Line, Tumor",
+        "ATP-Binding Cassette Transporters",
+        "Adenocarcinoma, Clear Cell"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39341074/"
+    },
+    {
+      "pmid": "37415960",
+      "title": "Mixed squamous and clear cell ovarian adenocarcinoma arising from endometriosis in a 71 year old patient.",
+      "abstract": "•This 71 year old patient was diagnosed with mixed squamous and clear cell ovarian adenocarcinoma.•Patient was surgically staged with guidance from frozen section.•Patient received adjuvant treatment with carboplatin and paclitaxel for 6 cycles.",
+      "journal": "Gynecologic oncology reports",
+      "year": "2023",
+      "authors": [
+        "Mills Alexandra",
+        "Saleh Mona",
+        "Erdem Kombak Faruk",
+        "Flint Matthew",
+        "Kolev Valentin"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37415960/"
+    },
+    {
+      "pmid": "40853419",
+      "title": "Nicotinamide N-methyltransferase enhances paclitaxel resistance in ovarian clear cell carcinoma.",
+      "abstract": "Nicotinamide N-methyltransferase (NNMT) is an S-adenosyl-l-methionine (SAM)-dependent cytosolic enzyme, and a growing body of evidence suggest that it plays an essential role in cancer progression. Recently, NNMT has a role in methylation metabolism and tumorigenesis and was associated with a poor prognosis against numerous cancers. In addition, it has been reported that NNMT has been overexpressed in the stroma of advanced high-grade serous carcinoma and may contribute to decreased survival. This study aimed to identify novel biomarkers to predict resistance and investigate their clinicopathologic significance in paclitaxel-resistant advanced or recurrent ovarian clear cell carcinoma (OCCC). Fluorescence-labeled two-dimensional differential gel electrophoresis (2D-DIGE), immunohistochemical, and MASCOT analyses allowed us to identify the cytoplasmic metabolic enzyme NNMT. In cultured cell studies, NNMT protein expression was higher in paclitaxel-resistant OVMANA and OVTOKO cells than ",
+      "journal": "Human cell",
+      "year": "2025",
+      "authors": [
+        "Kikuchi-Koike Ryoko",
+        "Sakamoto Masaru",
+        "Sasajima Yuko",
+        "Miyagawa Yuko",
+        "Uozaki Hiroshi"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Nicotinamide N-Methyltransferase",
+        "Paclitaxel",
+        "Ovarian Neoplasms",
+        "Drug Resistance, Neoplasm",
+        "Adenocarcinoma, Clear Cell",
+        "Cell Line, Tumor",
+        "Prognosis",
+        "Biomarkers, Tumor"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40853419/"
+    },
+    {
+      "pmid": "25275661",
+      "title": "Patterns of recurrence and role of pelvic radiotherapy in ovarian clear cell adenocarcinoma.",
+      "abstract": "The aims of this study were to analyze patterns of recurrence in patients with ovarian clear cell adenocarcinoma (CCA) and to evaluate the role of pelvic radiotherapy (RT).",
+      "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+      "year": "2014",
+      "authors": [
+        "Macrie Bryan D",
+        "Strauss Jonathan B",
+        "Helenowski Irene B",
+        "Rademaker Alfred",
+        "Schink Julian C"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma, Clear Cell",
+        "Adult",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carcinoma, Ovarian Epithelial",
+        "Chicago",
+        "Combined Modality Therapy",
+        "Endometrial Neoplasms",
+        "Female",
+        "Follow-Up Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25275661/"
+    },
+    {
+      "pmid": "23430509",
+      "title": "Establishment and characterization of a novel ovarian clear cell adenocarcinoma cell line, TU-OC-1, with a mutation in the PIK3CA gene.",
+      "abstract": "A new cell line of human ovarian clear cell adenocarcinoma (CCC), TU-OC-1, was established and characterized. The cells showed a polygonal-shaped morphology and grew in monolayers without contact inhibition and were arranged like a jigsaw puzzle. The chromosome numbers ranged from 64 to 90. A low rate of proliferation was observed, similar to other CCC cell lines tested (OVTOKO, RMG-I, and OVAS), and the doubling time was 38.4 h. The respective IC50 values of cisplatin and paclitaxel were 12.2 μM and 58.3 nM. Mutational analysis revealed that TU-OC-1 cells harbored a PIK3CA mutation at codon 542 (E542K) in exon 9, which is a mutation hot spot on this gene. We observed that phosphorylated Akt protein was overexpressed in TU-OC-1 cells by western blot analysis. Heterotransplantation to nude mice produced tumors that reflected the original. This cell line may be useful to study the chemoresistant mechanisms of CCC and contribute to novel treatment strategies.",
+      "journal": "Human cell",
+      "year": "2013",
+      "authors": [
+        "Itamochi Hiroaki",
+        "Kato Misaki",
+        "Nishimura Mayumi",
+        "Oumi Nao",
+        "Oishi Tetsuro"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma, Clear Cell",
+        "Aged",
+        "Animals",
+        "Antineoplastic Agents",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cisplatin",
+        "Class I Phosphatidylinositol 3-Kinases",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23430509/"
+    },
+    {
+      "pmid": "10695021",
+      "title": "Establishment and characterization of human ovarian clear cell adenocarcinoma cell line (SMOV-2), and its cytotoxity by anticancer agents.",
+      "abstract": "A novel cell line derived from a surgically resected ovarian clear cell adenocarcinoma of 46 year-old Japanese woman was established and designated SMOV-2. Cells of this lineage were continuously propagated in vitro over 44 months and were grown in a mono-layered sheet with a doubling time of 48.2 hours. The histopathology of the transplanted tumor in nude mice showed two distinctive cell types, hobnail cells and clear cells, which demonstrated recognizable characteristics of clear cell adenocarcinoma, as compared to resected original tumors. At the molecular level, SMOV-2 cells had the wild type p53 genes that were free from missence mutations. Anticancer agents (cisplatin and paclitaxel) were examined for cytotoxity against these SMOV-2 cells in vitro. These examinations revealed that the chemotherapy-treated cells had decreased proliferation, cell cycle arrests, and induction of apoptosis by the anticancer agents. As can be gleaned from this research, SMOV-2 is a valuable model to s",
+      "journal": "Human cell",
+      "year": "1999",
+      "authors": [
+        "Yonamine K",
+        "Hayashi K",
+        "Iida T"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma, Clear Cell",
+        "Animals",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Cell Cycle",
+        "Cisplatin",
+        "Female",
+        "Genes, p53",
+        "Humans",
+        "Mice"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10695021/"
+    },
+    {
+      "pmid": "11121861",
+      "title": "Cyclophosphamide and 5-fluorouracil act synergistically in ovarian clear cell adenocarcinoma cells.",
+      "abstract": "Chemosensitivity to the drugs plays a crucial role in the treatment of ovarian cancer. In this study, we evaluate the cytotoxicity of chemotherapeutic agents in six ovarian cancer cell lines; four clear cell adenocarcinoma and two serous papillary adenocarcinoma, using seven single drugs and seven sets of drug combinations with tetrazolium-based semiautomated colorimetric (MTT) assay. The drug concentration which produced 50% growth inhibition (IC50) of cisplatin was within clinically achievable range in five cell lines. The area under the curve (AUC) at IC50 of cyclophosphamide was below the clinically achievable AUC in two serous papillary cell lines. Paclitaxel was more effective in clear cells than serous papillary cells. The intensification of cytotoxicity was observed in the combinations of paclitaxel and cisplatin, and cyclophosphamide and cisplatin or 5-fluorouracil irrespective of histopathological characteristics of the original tumor. Our results indicate that ovarian cancer",
+      "journal": "Cancer letters",
+      "year": "2001",
+      "authors": [
+        "Ohta I",
+        "Gorai I",
+        "Miyamoto Y",
+        "Yang J",
+        "Zheng J H"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma, Clear Cell",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cell Survival",
+        "Cisplatin",
+        "Cyclophosphamide",
+        "Drug Resistance, Neoplasm",
+        "Drug Synergism",
+        "Female",
+        "Fluorouracil",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11121861/"
+    },
+    {
+      "pmid": "9128804",
+      "title": "Endometrial cancer.",
+      "abstract": "Carcinoma of the uterine corpus (endometrial cancer) remains the gynecologic malignant disease with the highest annual prevalence in the United States. The most common histologic type is adenocarcinoma, although more aggressive variants (e.g., papillary serous carcinoma and clear cell carcinoma) have been identified. Risk factors that are strongly associated with the development of endometrial cancer include tamoxifen therapy, obesity, and stimulation from unopposed estrogen (from exogenous sources or endogenously secreting ovarian tumors). The current staging system of the International Federation of Gynecology and Obstetrics is based on surgical-pathologic findings. Survival has been directly correlated with tumor stage in this staging system. The cornerstone of therapy is total abdominal hysterectomy with bilateral salpingo-oophorectomy. Pelvic and para-aortic lymphadenectomy may provide additional prognostic information but probably does not confer a therapeutic advantage. Moreover",
+      "journal": "Current problems in cancer",
+      "year": "1997",
+      "authors": [
+        "Greven K M",
+        "Corn B W"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Combined Modality Therapy",
+        "Endometrial Neoplasms",
+        "Estrogen Replacement Therapy",
+        "Female",
+        "Humans",
+        "Prevalence",
+        "Progestins",
+        "Prognosis"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9128804/"
+    },
+    {
+      "pmid": "16445610",
+      "title": "Paclitaxel-platinum combination chemotherapy for advanced or recurrent ovarian clear cell adenocarcinoma: a multicenter trial.",
+      "abstract": "The therapeutic effect of a combination of paclitaxel (PTX) and platinum (PLT) in ovarian clear cell adenocarcinoma (CC) patients with measurable disease has yet to be elucidated. In this study, we used retrospective review to evaluate the results of treatment with a combination of PTX and PLT in CC patients with measurable disease. A total of 28 patients with measurable residual CC (15 cases with primary disease, 13 cases with recurrent disease) treated with combination PTX-PLT chemotherapy was identified through medical records from ten institutions. Clinical response to chemotherapy was evaluated using Response Evaluation Criteria in Solid Tumors criteria. Of the 28 cases, 8 of 15 patients with primary disease (53.3%) and 3 of 13 patients with recurrent disease (23.1%) responded to PTX-PLT chemotherapy. The response rate for cases with late recurrent disease (>12 months) was 20% (1/5), whereas the rate was 25% (2/8) for cases with early recurrent (<12 months) or refractory disease. ",
+      "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+      "year": "2006",
+      "authors": [
+        "Utsunomiya H",
+        "Akahira J",
+        "Tanno S",
+        "Moriya T",
+        "Toyoshima M"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma, Clear Cell",
+        "Adult",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cisplatin",
+        "Confidence Intervals",
+        "Dose-Response Relationship, Drug",
+        "Drug Administration Schedule",
+        "Female",
+        "Follow-Up Studies"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16445610/"
+    },
+    {
+      "pmid": "20192580",
+      "title": "Clinical outcome of the ovarian clear cell carcinoma compared to other epithelial ovarian cancers when treated with paclitaxel and carboplatin.",
+      "abstract": "Ovarian clear cell carcinoma (OCCC) has an aggressive histology. Our aim was to evaluate the progression free survival (PFS) of OCCC patients compared to other epithelial histology patients when treated with surgery followed by carboplatin and paclitaxel (PT) regimen. The medical records of them who treated with PT regimen at Chiang Mai University Hospital between January 2004 and December 2008 were reviewed. 67 ovarian clear cell patients were compared to 121 non-clear cell ovarian cancer patients. The mean age of OCCC patients was younger than that of the non-clear cell group (46.7 vs. 51.2 years old, P= 0.001). OCCC patients presented in early stage more often than the non-clear cell group (76.1% vs. 38.0%, P= 0.001). The surgical procedures in both groups were not significantly different. The complete response rates of OCCC patients and other epithelial histology patients were 65.7% and 55.3%, respectively (P= 0.01). With a mean follow-up time of 25 months, the 3-year PFS rates of ",
+      "journal": "Asian Pacific journal of cancer prevention : APJCP",
+      "year": "2009",
+      "authors": [
+        "Sirichaisutdhikorn Daranee",
+        "Suprasert Prapaporn",
+        "Khunamornpong Surapan"
+      ],
+      "pub_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma, Clear Cell",
+        "Adult",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carboplatin",
+        "Combined Modality Therapy",
+        "Disease-Free Survival",
+        "Female",
+        "Humans",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20192580/"
+    },
+    {
+      "pmid": "40690248",
+      "title": "Ovarian Cancer: A Review.",
+      "abstract": "Ovarian cancer is the eighth most common cause of cancer and cancer death in women worldwide. In 2022, ovarian cancer was diagnosed in approximately 324 398 individuals, and 206 839 died of ovarian cancer worldwide. In 2025, it is estimated that 20 890 US women will be diagnosed with ovarian cancer and 12 730 patients will die of ovarian cancer.",
+      "journal": "JAMA",
+      "year": "2025",
+      "authors": [
+        "Caruso Giuseppe",
+        "Weroha S John",
+        "Cliby William"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Antineoplastic Agents",
+        "Chemotherapy, Adjuvant",
+        "Genes, BRCA1",
+        "Neoplasm Staging",
+        "Ovarian Neoplasms",
+        "Risk Factors",
+        "Age Factors",
+        "Ovary"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40690248/"
+    },
+    {
+      "pmid": "39285292",
+      "title": "Adipocyte derived exosomes promote cell invasion and challenge paclitaxel efficacy in ovarian cancer.",
+      "abstract": "Epithelial ovarian cancer (EOC) is the deadliest gynaecological cancer with high mortality rates driven by the common development of resistance to chemotherapy. EOC frequently invades the omentum, an adipocyte-rich organ of the peritoneum and omental adipocytes have been implicated in promoting disease progression, metastasis and chemoresistance. The signalling mechanisms underpinning EOC omentum tropism have yet to be elucidated.",
+      "journal": "Cell communication and signaling : CCS",
+      "year": "2024",
+      "authors": [
+        "Williams Michael Ellis",
+        "Howard David",
+        "Donnelly Claire",
+        "Izadi Fereshteh",
+        "Parra Jezabel Garcia"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Exosomes",
+        "Humans",
+        "Paclitaxel",
+        "Ovarian Neoplasms",
+        "Adipocytes",
+        "MicroRNAs",
+        "Cell Line, Tumor",
+        "Neoplasm Invasiveness",
+        "Omentum"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39285292/"
+    },
+    {
+      "pmid": "35123694",
+      "title": "Trametinib versus standard of care in patients with recurrent low-grade serous ovarian cancer (GOG 281/LOGS): an international, randomised, open-label, multicentre, phase 2/3 trial.",
+      "abstract": "Low-grade serous carcinoma of the ovary or peritoneum is characterised by MAPK pathway aberrations and its reduced sensitivity to chemotherapy relative to high-grade serous carcinoma. We compared the MEK inhibitor trametinib to physician's choice standard of care in patients with recurrent low-grade serous carcinoma.",
+      "journal": "Lancet (London, England)",
+      "year": "2022",
+      "authors": [
+        "Gershenson David M",
+        "Miller Austin",
+        "Brady William E",
+        "Paul James",
+        "Carty Karen"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase II",
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carcinoma, Ovarian Epithelial",
+        "Female",
+        "Humans",
+        "MAP Kinase Kinase 1",
+        "Middle Aged",
+        "Neoplasm Grading"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35123694/"
+    },
+    {
+      "pmid": "40646715",
+      "title": "Carboplatin and paclitaxel induced-gonadotoxicity on the ovarian reserve of young breast cancer patients with BRCA1 mutation.",
+      "abstract": "Are ovarian tissue fragments from patients with BReast CAncer gene 1 (BRCA1)-mutated breast cancer (BC) more sensitive to carboplatin and/or paclitaxel exposure compared to those from non-mutated patients with BC?",
+      "journal": "Human reproduction (Oxford, England)",
+      "year": "2025",
+      "authors": [
+        "Dias Nunes Joana",
+        "Ntemou Elissavet",
+        "Van den Steen Géraldine",
+        "Findikli Necati",
+        "Fastrez Maxime"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Carboplatin",
+        "Paclitaxel",
+        "Humans",
+        "Ovarian Reserve",
+        "Animals",
+        "Breast Neoplasms",
+        "Adult",
+        "BRCA1 Protein",
+        "Ovary"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40646715/"
+    },
+    {
+      "pmid": "30761508",
+      "title": "Laparoscopic cytoreductive surgery and HIPEC is effective regarding peritoneum tissue paclitaxel distribution.",
+      "abstract": "In some patients with peritoneal carcinomatosis, we could perform the cytoreductive surgery and the HIPEC procedure by a complete laparoscopic approach to avoid morbidity. We consider that using laparoscopic approach for performing peritoneal carcinomatosis cytoreductive surgery and HIPEC with closed CO2 recirculation technique is possible and safe, with equal efficacy to conventional methods and hemodynamic complications.",
+      "journal": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
+      "year": "2019",
+      "authors": [
+        "Padilla-Valverde D",
+        "Villarejo P",
+        "Redondo J",
+        "Oyarzabal J",
+        "Estella A"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Chemotherapy, Cancer, Regional Perfusion",
+        "Combined Modality Therapy",
+        "Cytoreduction Surgical Procedures",
+        "Female",
+        "Hyperthermia, Induced",
+        "Laparoscopy",
+        "Lymph Node Excision",
+        "Paclitaxel"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30761508/"
+    },
+    {
+      "pmid": "26124480",
+      "title": "Chemotherapy Response Score: Development and Validation of a System to Quantify Histopathologic Response to Neoadjuvant Chemotherapy in Tubo-Ovarian High-Grade Serous Carcinoma.",
+      "abstract": "To develop and validate a histopathologic scoring system for measuring response to neoadjuvant chemotherapy in interval debulking surgery specimens of stage IIIC to IV tubo-ovarian high-grade serous carcinoma.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "year": "2015",
+      "authors": [
+        "Böhm Steffen",
+        "Faruqi Asma",
+        "Said Ian",
+        "Lockley Michelle",
+        "Brockbank Elly"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Validation Study"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carboplatin",
+        "Chemotherapy, Adjuvant",
+        "Cystadenocarcinoma, Serous",
+        "Cytoreduction Surgical Procedures",
+        "Disease-Free Survival",
+        "Fallopian Tube Neoplasms"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26124480/"
+    },
+    {
+      "pmid": "36456160",
+      "title": "First-Line Gemcitabine, Nab-Paclitaxel, and Oxaliplatin Chemotherapy With Itraconazole in Patients With Metastatic Pancreatic Cancer: A Single Institution Experience.",
+      "abstract": "Combination chemotherapy with gemcitabine, nab-paclitaxel, oxaliplatin, and itraconazole (GnPO-ITC) was administered as first-line chemotherapy in patients with metastatic pancreatic cancer (mPC). The efficacy and toxicity of these treatments were retrospectively investigated.",
+      "journal": "Anticancer research",
+      "year": "2022",
+      "authors": [
+        "Sawasaki Miyuki",
+        "Tsubamoto Hiroshi",
+        "Sugihara Ayako",
+        "Ikuta Shinichi",
+        "Sakai Yoshiyuki"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Middle Aged",
+        "Oxaliplatin",
+        "Itraconazole",
+        "Retrospective Studies",
+        "Pancreatic Neoplasms",
+        "Gemcitabine",
+        "Albumins",
+        "Paclitaxel"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36456160/"
+    },
+    {
+      "pmid": "27981493",
+      "title": "Conversion Surgery Post-Intraperitoneal Paclitaxel and Systemic Chemotherapy for Gastric Cancer Carcinomatosis Peritonei. Are We Ready?",
+      "abstract": "Peritoneal metastasis is common in gastric cancer. It is difficult to treat and carries a poor prognosis. Intraperitoneal (IP) delivery of chemotherapy can attain a higher drug exposure in the peritoneal cavity but with reduced systemic toxicity. Therefore, we hypothesized that IP paclitaxel with systemic chemotherapy would be clinically beneficial for gastric cancer with peritoneal metastases. Patients with unresectable and/or recurrent gastric adenocarcinoma with peritoneal dissemination and/or positive peritoneal washing cytology were recruited. They underwent eight cycles of IP paclitaxel and systemic XELOX. The primary endpoint was 1-year overall survival rate and secondary endpoints were safety, response rate, and peritoneal cytological response. Patients who subsequently had no distant metastases and two consecutive negative peritoneal cytologies underwent conversion gastrectomy if there was no macroscopic evidence of peritoneal disease at diagnostic laparoscopy. Twenty-two pati",
+      "journal": "Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract",
+      "year": "2017",
+      "authors": [
+        "Chan Dexter Yak Seng",
+        "Syn Nicholas Li-Xun",
+        "Yap Rachel",
+        "Phua Janelle Niam Sin",
+        "Soh Thomas I Peng"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Capecitabine",
+        "Carcinoma",
+        "Deoxycytidine",
+        "Female",
+        "Fluorouracil",
+        "Gastrectomy",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27981493/"
+    },
+    {
+      "pmid": "9427277",
+      "title": "Paclitaxel and weekly 24-hour infusion of 5-fluorouracil/folinic acid in advanced gastric cancer.",
+      "abstract": "The current phase II study evaluates the safety and efficacy of paclitaxel (Taxol; Bristol-Myers Squibb Company, Princeton, NJ) and 5-fluorouracil (5-FU) plus folinic acid in patients with advanced gastric cancer. Paclitaxel 175 mg/m2 was given intravenously over 3 hours on days 1 and 22; folinic acid 500 mg/m2 given intravenously over 2 hours followed by 5-FU 2,000 mg/m2 given intravenously over 24 hours was administered on days 1, 8, 15, 22, 29, and 36. Six weeks of treatment were considered one cycle, and each cycle was followed by 2 weeks off treatment. Twenty-two patients (six women and 16 men) with advanced/metastatic gastric cancer were entered on trial. All patients are evaluable for response and toxicity. None had received prior chemotherapy. Radiologically metastatic sites included gastric lymph nodes (64%), liver (36%), lungs (18%), peritoneum (18%), bone (9%), and skin (5%). No complete responses were observed. Seven patients (32%; 95% confidence interval, 12% to 52%) had a",
+      "journal": "Seminars in oncology",
+      "year": "1997",
+      "authors": [
+        "Bokemeyer C",
+        "Hartmann J T",
+        "Lampe C S",
+        "Clemens M R",
+        "Quietzsch D"
+      ],
+      "pub_types": [
+        "Clinical Trial",
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Female",
+        "Fluorouracil",
+        "Humans",
+        "Infusions, Intravenous",
+        "Leucovorin",
+        "Male",
+        "Middle Aged"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9427277/"
+    },
+    {
+      "pmid": "24122996",
+      "title": "Establishment of new intraperitoneal paclitaxel-resistant gastric cancer cell lines and comprehensive gene expression analysis.",
+      "abstract": "Intraperitoneal (i.p.) chemotherapy with paclitaxel is a potential therapeutic modality for patients with peritoneal metastasis of gastric cancer. To overcome paclitaxel resistance, which is a major clinical problem with this modality, prediction of i.p. paclitaxel resistance is critically important.",
+      "journal": "Anticancer research",
+      "year": "2013",
+      "authors": [
+        "Murakami Hiroki",
+        "Ito Seiji",
+        "Tanaka Harunari",
+        "Kondo Eisaku",
+        "Kodera Yasuhiro"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "ATPases Associated with Diverse Cellular Activities",
+        "Adaptor Proteins, Signal Transducing",
+        "Adenosine Triphosphatases",
+        "Aged",
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "DNA-Binding Proteins",
+        "Drug Resistance, Neoplasm"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24122996/"
+    }
+  ]
+}

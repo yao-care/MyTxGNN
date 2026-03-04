@@ -5,7 +5,7 @@ drugbank_id: "DB00443"
 drug_name: "Betamethasone"
 kg_predictions: 3198
 dl_predictions: 526
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 3198
 brands: []
 permalink: /drugs/betamethasone/
@@ -21,7 +21,7 @@ permalink: /drugs/betamethasone/
 | **DrugBank ID** | [DB00443](https://go.drugbank.com/drugs/DB00443) |
 | **KG Predictions** | 3198 |
 | **DL Predictions (≥0.7)** | 526 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

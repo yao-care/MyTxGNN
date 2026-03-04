@@ -1,0 +1,1019 @@
+{
+  "drug": "Cyanocobalamin",
+  "drugbank_id": "DB00115",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T10:02:26Z",
+  "indications": [
+    {
+      "indication": "microcytic anemia",
+      "evidence_level": "L4",
+      "trials": 2,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 2,
+        "rct_articles": 0,
+        "review_articles": 6,
+        "other_articles": 4,
+        "total_trials": 2,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "vitamin deficiency disorder",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 18,
+        "rct_articles": 0,
+        "review_articles": 8,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "vitamin B12 deficiency",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 18,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "deficiency anemia",
+      "evidence_level": "L4",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 20,
+        "rct_articles": 0,
+        "review_articles": 7,
+        "other_articles": 3,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "folic acid deficiency anemia",
+      "evidence_level": "L4",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 20,
+        "rct_articles": 0,
+        "review_articles": 8,
+        "other_articles": 2,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 82,
+  "total_articles": 50,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05022979",
+      "title": "Prevalence of Micro-nutritional Deficiencies in Pregnant Women Presenting to the Emergency Department for Threatened Delivery",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-05-28",
+      "completion_date": "2019-03-31",
+      "country": "French Guiana",
+      "enrollment": 341,
+      "brief_summary": "Micronutrient deficiencies are frequent in pregnant women in French Guiana, a French territory in South America. Micronutrient deficiencies are more frequent in precarious women. Obesity is a frequent problem but it is also associated with micronutrient deficiency. Micronutrient deficiencies have largely been overlooked in this outermost European region and should be corrected.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant at least 22 weeks of amenorrhea (WHO threshold for fetal viability)\n* Patient hospitalized for delivery in the Gynecological and Obstetrical Emergency Unit at Cayenne hospital\n* Patient's consent\n* Consent of the legal representative if the patient is a minor\n\nExclusi",
+      "endpoints": [
+        "Identification of a micronutrient deficiency defined as at least one micronutrient below the lower limit."
+      ],
+      "sponsor": "Centre Hospitalier de Cayenne",
+      "url": "https://clinicaltrials.gov/study/NCT05022979"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05185024",
+      "title": "A Study of Efficacy and Safety of Three Different Oral Iron-Containing Dietary Supplements in Correction of Hematological Indices and Replenishment of Depleted Iron Stores in Iron Deficient Adults With or Without Mild Microcytic Anemia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-01-19",
+      "completion_date": "2024-01-15",
+      "country": "Slovenia",
+      "enrollment": 152,
+      "brief_summary": "The study is designed as a parallel, randomized, double blind, three-arm single-center study exploring the efficacy and safety of 12-week once daily oral dosing of iron for correction of overall iron status in 150 otherwise healthy iron-deficient adults presenting with or without mild microcytic anemia. Three iron-containing preparations in the form of either Ferrous Sulfate Capsules, \\>Your\\< Iron Forte Capsules, or \\>Your\\< Iron Forte Liquid will be tested. Potential study participants will be",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Personally signed and dated Informed Consent Form.\n* Male or female, aged 18-50 years (inclusive) at the time of signing the Informed Consent Form.\n* Iron deficiency as defined by a hemoglobin value 100-130 g/L (females) and 110-140 g/L (males) and a serum ferritin level \\<30 ",
+      "endpoints": [
+        "Change in hemoglobin level from baseline to week 12."
+      ],
+      "sponsor": "PharmaLinea Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05185024"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04048330",
+      "title": "Periconceptional Surveillance for Prevention of Anemia and Birth Defects in India",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-04-07",
+      "completion_date": "2024-12-31",
+      "country": "India",
+      "enrollment": 2000,
+      "brief_summary": "Women of reproductive age are a high-risk population for anaemia and micronutrient deficiencies. Evidence supports the role of periconceptional nutrition in the development of adverse pregnancy complications. However, in India, there are limited population-based data to guide evidence-based recommendations and priority setting. The objective of this study is to conduct a population-based biomarker survey of anaemia and vitamin B12 and folate status in women of reproductive age as part of a peric",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female\n* Aged 15 to 49 years\n* Currently not pregnant or lactating\n\nExclusion Criteria:\n\n* \\<15 or \\>49 years old\n* Currently pregnant or lactating",
+      "endpoints": [
+        "Hemoglobin",
+        "Folate status",
+        "Vitamin B12 status"
+      ],
+      "sponsor": "Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT04048330"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05796401",
+      "title": "PsyCARE Trial - \"Efficiency of a Composite Personalised Care on Functional Outcome in Early Psychosis : A Prospective Randomised Controlled Trial \"",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2023-06-15",
+      "completion_date": "2028-06-15",
+      "country": "France",
+      "enrollment": 500,
+      "brief_summary": "Chronic psychosis, including schizophrenia is now viewed as a progressive disorder where cognitive deficits predate the clinical onset. Early intervention programs improve the general outcome with staged care strategies, supporting the view that the period before and around the first episode of psychosis is a window of opportunity for improving its functional recovery.\n\nPioneering epigenetic analyses indicate that psychosis onset involves oxidative stress and inflammation suggesting that neuropr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adolescent and young adults, both sexes, aged 15 to 30 years,\n* From Community or academic clinics,\n* Characterised as UHR or FEP according to the first four items of the Comprehensive Assessment of At Risk Mental State (CAARMS) (first subscale for psychosis) \\[8\\] during the ",
+      "endpoints": [
+        "Global functioning"
+      ],
+      "sponsor": "Centre Hospitalier St Anne",
+      "url": "https://clinicaltrials.gov/study/NCT05796401"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00826657",
+      "title": "Assessment of Functional Vitamin B12 Deficiency in Mexican Women",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2006-11",
+      "country": "Mexico",
+      "enrollment": 180,
+      "brief_summary": "We hope to learn the clinical and functional signs of sub-clinical vitamin B12 deficiency and its response to supplementation in non-anemic, non-pregnant, and non-lactating women in Rural Mexico. Vitamin B12 is important in hematopoiesis, neuro-cognitive functions and genetic integrity. However vitamin B12 is only found in animal source foods therefore a large segment of the population in developing countries and those practicing vegetarianism are at risk of deficiency of the vitamin. This infor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women age 20-59, apparently healthy, no severe B12 deficiency\n\nExclusion Criteria:\n\n* pregnancy, lactation, anemia and disease states",
+      "endpoints": [
+        "response to B12 supplementation in serum B12, Methylmalonic acid, homocystein, and holotranscobalamin concentrations"
+      ],
+      "sponsor": "USDA, Western Human Nutrition Research Center",
+      "url": "https://clinicaltrials.gov/study/NCT00826657"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01475903",
+      "title": "Assessment of Nutritional Consequences of Sleeve Gastrectomy",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2011-11",
+      "completion_date": "2015-05",
+      "country": "France",
+      "enrollment": 60,
+      "brief_summary": "Bariatric surgery is now recognized as a procedure of choice for the treatment of morbid obesity, resulting in long-term effectiveness on weight loss and comorbidities. The two types of procedures, most often performed in Europe, are adjustable gastric banding (AGB), a purely restrictive reversible procedure, and gastric bypass (GBP), an irreversible procedure, which associates restriction and mild malabsorption. Longitudinal sleeve gastrectomy (LSG) is another bariatric procedure which tends to",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18 and 65 years\n* Initial BMI = 35\n* Proposition of a sleeve gastrectomy during a multidisciplinary consultation\n* Bariatric surgery procedure carried out at the University Hospital of Clermont- Ferrand.\n* Patient covered by the national health insurance scheme\n* P",
+      "endpoints": [
+        "micro nutritional status of patients undergoing sleeve gastrectomy"
+      ],
+      "sponsor": "University Hospital, Clermont-Ferrand",
+      "url": "https://clinicaltrials.gov/study/NCT01475903"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06338059",
+      "title": "Relationship Between Vitamin D and Vitamin B12 Levels and Neuropathic Pain in Lipedema:Cross Sectional Study",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-03-01",
+      "completion_date": "2024-06-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 200,
+      "brief_summary": "Lipedema is a disease characterized by bilateral abnormal fat deposition in the upper and lower extremities. Pain is a common symptom in lipedema.Vitamin D plays an important role in chronic pain. Vitamin B have analgesic role in some neuropathic pain conditions.This study aimedto evaluate the relationship between vitamin D and vitamin B12 levels and neuropathic pain in lipedema.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patients diagnosed byan experienced physical medicine and rehabilitation specialist for the diagnosis of lipedema\n\nExclusion Criteria:\n\n* individuals who did not have 25(OH)D and B12 values in the past 6 months,\n* those with a history of gastrectomy or bypass surgery,\n* th",
+      "endpoints": [
+        "Vitamin B12 Level",
+        "25 OH Vitamin D Level"
+      ],
+      "sponsor": "Fatih Sultan Mehmet Training and Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06338059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03272022",
+      "title": "Micronutrient Status in Pregnant and Lactating Women and Their Infants",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-12-14",
+      "completion_date": "2016-02-08",
+      "country": "N/A",
+      "enrollment": 272,
+      "brief_summary": "An adequate micronutrient status during fetal life and infancy is important for optimal development. Dietary practices during pregnancy, lactation and infancy vary among populations and there is today no clear agreement on what constitutes the best diet, including micronutrient supplementation, during this period. There is consequently no clear agreement on what constitutes an optimal biochemical micronutrient status in mothers and infants. Due to substantial physiological changes in plasma volu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* healthy never-pregnant and pregnant women\n\nExclusion Criteria:\n\nchronic illness-",
+      "endpoints": [
+        "Change in micronutrient status during pregnancy and lactation"
+      ],
+      "sponsor": "Haukeland University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03272022"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05517005",
+      "title": "An Exploratory Investigation of a B12 Vitamin to Increase Energy and Focus",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-05-22",
+      "completion_date": "2022-09-30",
+      "country": "United States",
+      "enrollment": 38,
+      "brief_summary": "This study aims to examine the effects of Sourse's Hype Bites at being able to increase vitamin B12 levels to promote positive health outcomes. Participants will consume Hype Bites daily. Participants will also take surveys and blood samples to examine both the subjective experience of taking Hype Bites as well as changes in biomarkers across the trial.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* BMI \\< 40 On a stable, consistent dietary regimen Must be on a vegan or vegetarian diet May experience the feeling of being tired often/several times a week. May experience brain fog May experience negative mood states\n\nExclusion Criteria:\n\n* Females who are pregnant or breast",
+      "endpoints": [
+        "Examine if Hype Bites increase vitamin B12 in the blood"
+      ],
+      "sponsor": "Sourse",
+      "url": "https://clinicaltrials.gov/study/NCT05517005"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03573570",
+      "title": "Reducing Anemia Through Food Fortification at Scale",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2018-04-01",
+      "completion_date": "2021-09-30",
+      "country": "India",
+      "enrollment": 0,
+      "brief_summary": "Anemia is the most common form of malnutrition, affecting approximately 1.6 billion people world-wide. Most commonly caused by iron deficiency, its adverse effects include increased mortality (especially during childbirth), impaired cognitive development among children, chronic fatigue, and reduced lifetime earnings. While iron deficiency is the main cause of anemia worldwide, its etiology is complex and it can also be caused by an insufficient intake of other micronutrients such as Vitamin A, B",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children in the age group of 6 months to 5 years\n* Women in the age group of 12 to 40 years\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Change in hemoglobin level from baseline to endline using Rapid Diagnostic Tests (RDT)",
+        "Change in hemoglobin level from baseline to endline using DBS",
+        "Change in Transferrin Receptor (TfR) level from baseline to endline using DBS"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT03573570"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02446873",
+      "title": "Cracking the Egg Potential: Improving Young Child Nutrition in Ecuador",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-02",
+      "completion_date": "2017-02",
+      "country": "Ecuador",
+      "enrollment": 171,
+      "brief_summary": "The proposed study will fill an important gap in the literature by examining, through a randomized controlled trial, the effect of egg consumption on biochemical markers of choline, vitamin B-12, lipids, and amino acids in young children in a poor rural area of Ecuador. Children from Cotopaxi Province, Ecuador (n=180) will be randomized into one of two groups: 1) intervention, receiving one egg per day for six months; or 2) control. Baseline and endline data on socio-economic factors, and child ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* child is healthy and between the age of 6 months to 9 months\n\nExclusion Criteria:\n\n* age of child\n* any reactions to eating to eggs, a rash, hives, difficulty breathing",
+      "endpoints": [
+        "Serum/plasma concentrations of B12, choline, and betaine",
+        "Serum/plasma concentrations of polyunsaturated fatty acids (PUFAs) and amino acids"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02446873"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07050342",
+      "title": "Evaluation Der Spezialambulanz Ernährung Und Psyche: Eine Pilotstudie",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-12-01",
+      "completion_date": "2028-12-01",
+      "country": "Austria",
+      "enrollment": 84,
+      "brief_summary": "The goal of this observational pilot study is to learn how personalized nutrition-focused care can help people with mental and psychosomatic health problems. This study takes place in Europe's first outpatient clinic that focuses on how diet affects mental well-being.\n\nThe main questions the study aims to answer are:\n\nDoes care at this clinic help lower participants' stress levels over one year?\n\nDo participants report better mental health, resilience, and quality of life during the study?\n\nAre ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inclusion Criteria:\n\nNew patient at the outpatient clinic for Nutrition and Psychosomatics\n\nAge between 18 and 65 years\n\nSufficient German language skills\n\nProvided written informed consent\n\nAble and willing to complete online questionnaires via email\n\nExclusion Criteria:\n\n* L",
+      "endpoints": [
+        "Change in perceived stress levels measured by the Perceived Stress Scale (PSS-10)"
+      ],
+      "sponsor": "Medical University of Graz",
+      "url": "https://clinicaltrials.gov/study/NCT07050342"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00939718",
+      "title": "Comparison of Vitamin B12 Supplementation and SSRI to SSRI Monotherapy in Treating Depression With Low Normal B12: A Randomized Open Label trialComparison of Vitamin B12 Supplementation to SSRI Versus SSRI Antidepressant Treatment Alone",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2009-04",
+      "completion_date": "2010-09",
+      "country": "Pakistan",
+      "enrollment": 268,
+      "brief_summary": "While treating depression, significant numbers respond poorly to anti-depressants; one cause is vitamin B12 deficiency. The investigators are conducting an open label randomized controlled trial to investigate difference in response to SSRI monotherapy alone versus SSRI and intramuscular B12 replacement in people with low-normal B12 levels. 300 participants will be allocated to each arm of intervention at out patient clinics of the department of Psychiatry at Aga Khan University Hospital, Karach",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults between ages 18 to 64 years who meet the criteria for a depressive episode as measured by a score of ≥ 16 on first 17 items of HAM-D (Urdu version.\n* Patients with low normal B12 levels in serum (\\>191 but \\< 300 pg/ml)\n* Those who will provide informed consent\n\nExclusi",
+      "endpoints": [
+        "Decline in HAM-D score of 20% or more from baseline indicating improvement in Depression."
+      ],
+      "sponsor": "Aga Khan University",
+      "url": "https://clinicaltrials.gov/study/NCT00939718"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02440087",
+      "title": "Evaluation of the Dietary Supplement Refill Bypass Administered Sublingually to Reduce Nutritional Deficiencies of Patients Who Underwent Bariatric Surgery Type Gastric Bypass",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2016-04",
+      "country": "France",
+      "enrollment": 35,
+      "brief_summary": "This is a cohort, observational, prospective, multicenter, longitudinal study. 100 patients will be followed postoperatively for a period of 12 months. Intermediate statistical analyzes will be performed at 1 month, 3 months, 6 months and 9 months.\n\nThis observational study is non-interventional, it does not change the usual care of patients who underwent a bariatric surgery. Data collection will be carried out during routine visits planned in the post-operation usual follow-up. The blood tests ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient with a scheduled bariatric surgery \"gastric bypass\",\n* Patient who performed a blood test before surgery,\n* Patient compliant.\n\nExclusion Criteria:\n\n* Allergy to components of the dietary supplement,\n* Pregnancy or breastfeeding,\n* Any biological abnormality considered",
+      "endpoints": [
+        "Reduction of iron deficiency"
+      ],
+      "sponsor": "Refill France",
+      "url": "https://clinicaltrials.gov/study/NCT02440087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02540642",
+      "title": "Effect of Vitamin B12 Supplementation on Glycaemic Control in Uncontrolled Hyperhomocysteinemic Type 2 Diabetic Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2015-05",
+      "country": "India",
+      "enrollment": 38,
+      "brief_summary": "Increased plasma homocysteine level is associated with macroangiopathy and nephropathy in type 2 diabetes. Also increased levels of serum homocysteine are associated with microalbuminuria which is associated with increased cardiovascular morbidity and mortality among the patients with type 2 diabetes. With B12 supplementation homocysteine level can be reduced .Type 2 diabetes as a metabolic syndrome may show improvement in glycaemic control with Vitamin B12 therapy as there is correction of hype",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 30 -70 years\n2. Sex: Male/ Non-lactating female\n3. Glycosylated hemoglobin (HbA1c) \\> 8\n4. Serum Homocysteine \\> 15 umol / L or vitamin B12 less than 223pg/ml\n\nExclusion Criteria:\n\n1. Age \\< 30 yrs.\n2. Pregnancy\n3. Lactating mother\n4. Patient with Insulin dependen",
+      "endpoints": [
+        "To compare the change in HbA1c levels (%) with vitamin B12 supplementation in poorly controlled type 2 diabetic patients"
+      ],
+      "sponsor": "Smt. Kashibai Navale Medical College and General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02540642"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04343170",
+      "title": "Effect of Ultra-short-term Treatment of Patients With Iron Deficiency or Anemia Undergoing Adolescent Scoliosis Correction",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-09-01",
+      "completion_date": "2024-10-01",
+      "country": "Egypt",
+      "enrollment": 44,
+      "brief_summary": "Scoliosis is a condition in which there is curvature of the spine occurring in the lateral plane. It occurs in structural forms, characterized by a fixed curve, and \"functional\" forms, characterized by a flexible or correctable curve. By anatomic necessity, this lateral deviation is associated with vertebral rotation, such that when this deformity occurs in the thoracic spine, a chest wall deformity, or \"rib hump,\" develops.\n\nOften there is a primary structural curve with an adjacent secondary c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with idiopathic adolescent scoliosis\n* patients with anemia (haemoglobin concentration (Hb) \\<12g/dL in women and Hb \\<13 g/dL in men)\n* patients with isolated iron deficiency (ferritin \\<100 mcg/L, no anemia)\n\nExclusion Criteria:\n\n1. Impairments, diseases (renal \\&/ ",
+      "endpoints": [
+        "percentage of patients not required blood transfusion"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT04343170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00383669",
+      "title": "Trial of Vitamins in HIV Progression and Transmission (A Trial of Vitamins and HAART in HIV Disease Progression)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2009-10",
+      "country": "Tanzania",
+      "enrollment": 4012,
+      "brief_summary": "This study is a double-blind randomized clinical trial, conducted to examine the effects of multivitamins (including B, C, and E) on HIV disease progression among HIV-positive Tanzanian adult men and women taking highly active anti-retroviral therapy (HAART).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-positive\n* Men or Women\n* 18 Years of Age or older\n* Initiating HAART at time of randomization\n\nExclusion Criteria:\n\n* Pregnant or Lactating Women\n* Individuals at pre-HAART disease stages\n* BMI less than 16",
+      "endpoints": [
+        "Development of a new or recurrent disease progression event, including all-cause death."
+      ],
+      "sponsor": "Harvard School of Public Health (HSPH)",
+      "url": "https://clinicaltrials.gov/study/NCT00383669"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01795170",
+      "title": "Neurodevelopmental Outcome of Early Dietary Lysine Restriction in Pyridoxine",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2013-04",
+      "completion_date": "2016-11",
+      "country": "Canada, Germany, Switzerland, United Kingdom, Netherlands, United States",
+      "enrollment": 0,
+      "brief_summary": "Restricting dietary lysine intake in infants from age 3 months or less with confirmed diagnosis of pyridoxine-dependent epilepsy due to Antiquitin (ATQ) deficiency will: reduce the accumulation of neurotoxic substratesα-aminoadipicsemialdehydeandits cyclic equivalent 1-piperideine-6-carboxylate;and will improve overall neurodevelopmental outcome at 3 years of age by acting as an effective intervention into the complex pathophysiology of the condition.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of pyridoxine-dependent epilepsy based on clinical symptoms and elevated levels of plasma or urine AASA. Confirmation by at least one known disease causing mutation in the ALDH7A1 gene to be obtained within one month of enrollment.\n* Participant is male or female \\<3",
+      "endpoints": [
+        "Neurocognitive development at age 3 years",
+        "Level of biochemical marker-α- aminoadipicsemialdehyde (AASA) in plasma and urine"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT01795170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03112187",
+      "title": "FLIPS: Ferfer Liposomal Iron Performance Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-08-01",
+      "completion_date": "2019-01-31",
+      "country": "Pakistan",
+      "enrollment": 400,
+      "brief_summary": "To evaluate the efficacy of a novel food supplement, Ferfer® to raise the capacity of Haemoglobin and Haematocrit levels",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Iron deficiency anemia (Hemoglobin \\<8 to \\>5 g/dl)\n* Subjects able to provide written informed consent;\n* Subjects already treated with other iron supplements or drugs that experienced side effects (not including allergy) related to iron administration.\n* Wash out period will",
+      "endpoints": [
+        "Efficacy of a novel food supplement, Ferfer® to raise the capacity of Haemoglobin levels"
+      ],
+      "sponsor": "PharmEvo Pvt Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT03112187"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03247816",
+      "title": "Feraccru® Real World Effectiveness Study in Hospital Practice (FRESH): A Real World Study to Describe the Outcomes Associated With the Use of Ferric Maltol (Feraccru) for the Management of Iron Deficiency Anaemia in Patients With Inflammatory Bowel Disease in the UK.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-08-14",
+      "completion_date": "2018-10-01",
+      "country": "United Kingdom",
+      "enrollment": 59,
+      "brief_summary": "The aim of the study is to understand the early experiences of Feraccru® in patients with inflammatory bowel disease (IBD) and iron deficiency anaemia (IDA) in the UK, including treatment effectiveness, patterns of use and tolerability.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients aged ≥ 18 years at the time of initiation .\n* Patient presenting with mild to moderate IDA that is secondary to either Crohn's disease (CD) or ulcerative colitis (UC) defined as Hb ≥9.5 g/dL and \\<13.0 g/dL in males, or Hb ≥9.5 g/dL and \\<12.0 g/dL in ",
+      "endpoints": [
+        "The Percentage of Patients With Normalised Hb Levels at 12 Weeks After Initiation of Feraccru®."
+      ],
+      "sponsor": "Shield Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT03247816"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "26926814",
+      "title": "Iron Deficiency and Other Types of Anemia in Infants and Children.",
+      "abstract": "Anemia, defined as a hemoglobin level two standard deviations below the mean for age, is prevalent in infants and children worldwide. The evaluation of a child with anemia should begin with a thorough history and risk assessment. Characterizing the anemia as microcytic, normocytic, or macrocytic based on the mean corpuscular volume will aid in the workup and management. Microcytic anemia due to iron deficiency is the most common type of anemia in children. The American Academy of Pediatrics and the World Health Organization recommend routine screening for anemia at 12 months of age; the U.S. Preventive Services Task Force found insufficient evidence to assess the benefits vs. harms of screening. Iron deficiency anemia, which can be associated with cognitive issues, is prevented and treated with iron supplements or increased intake of dietary iron. The U.S. Preventive Services Task Force found insufficient evidence to recommend screening or treating pregnant women for iron deficiency an",
+      "journal": "American family physician",
+      "year": "2016",
+      "authors": [
+        "Wang Mary"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Iron-Deficiency",
+        "Child",
+        "Dietary Supplements",
+        "Female",
+        "Humans",
+        "Infant",
+        "Infant, Newborn",
+        "Iron",
+        "Mass Screening",
+        "Pregnancy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26926814/"
+    },
+    {
+      "pmid": "27212091",
+      "title": "Evaluation of Anemia.",
+      "abstract": "Anemia is a common problem in primary care. Classification based on mean cell volume narrows the differential diagnosis and directs testing. A marked macrocytosis is characteristic of vitamin B12 and folate deficiencies, certain medications, and primary bone marrow disorders. The three most common causes of microcytic anemia are iron deficiency, thalassemia trait, and anemia of inflammation. Additional laboratory testing is required for diagnosis. Determination of the rate of development of anemia and examination of a blood smear may provide diagnostic clues to guide more specialized testing. Diagnosis of iron, vitamin B12, or folate deficiency mandates determination of the underlying cause.",
+      "journal": "Obstetrics and gynecology clinics of North America",
+      "year": "2016",
+      "authors": [
+        "Kujovich Jody L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Alcohol Drinking",
+        "Anemia, Iron-Deficiency",
+        "Anemia, Macrocytic",
+        "Blood Cell Count",
+        "Diagnosis, Differential",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "FIGLU Test",
+        "Female",
+        "Folic Acid",
+        "Folic Acid Deficiency"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27212091/"
+    },
+    {
+      "pmid": "28291568",
+      "title": "Anemia and hematinic deficiencies in oral mucosal disease patients with microcytosis.",
+      "abstract": "Patients with microcytosis (defined as mean corpuscular volume < 80 fL) are not uncommonly found in oral mucosal disease clinics. This study assessed the anemia statuses and hematinic deficiencies in 240 oral mucosal disease patients with microcytosis.",
+      "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+      "year": "2017",
+      "authors": [
+        "Wu Yu-Hsueh",
+        "Wang Yi-Ping",
+        "Chang Julia Yu-Fong",
+        "Wu Yang-Che",
+        "Chen Hsin-Ming"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia",
+        "Erythrocyte Count",
+        "Erythrocyte Indices",
+        "Humans",
+        "Mouth Diseases",
+        "Vitamin B 12"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28291568/"
+    },
+    {
+      "pmid": "28972879",
+      "title": "Challenging clinical presentations of pernicious anemia.",
+      "abstract": "Pernicious anemia (PA) is an autoimmune disease of multifactorial etiologies characterized by autoimmune chronic atrophic gastritis, cobalamin deficiency (CD) due to defective absorption of dietary cobalamin from the terminal ileum, and by the presence of intrinsic factor and parietal cell antibodies. PA is a very common cause of CD-related anemia worldwide. Despite advances in the understanding molecular biology and pathophysiology of PA, the diagnosis of PA remains challenging in many circumstances for many clinicians because of its diverse clinical manifestations and the limitations of currently available diagnostic tools. Diagnostic dilemmas could occur when patients with PA present with spuriously normal or high cobalamin levels, normocytic or microcytic anemia, non-anemic macrocytosis, autoimmune hemolytic anemia, pseudo-thrombotic microangiopathy, hyperhomocysteinemia-associated thromboembolism, pseudoleu-kemia, bone marrow failure, bone marrow ring sideroblasts, and neurologic ",
+      "journal": "Discovery medicine",
+      "year": "2017",
+      "authors": [
+        "Oo Thein Hlaing",
+        "Rojas-Hernandez Cristhiam Mauricio"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Pernicious",
+        "Animals",
+        "Autoantibodies",
+        "Autoimmune Diseases",
+        "Gastritis, Atrophic",
+        "Humans",
+        "Vitamin B 12 Deficiency"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28972879/"
+    },
+    {
+      "pmid": "33906782",
+      "title": "Vitamin B12 deficiency and anemia in 140 Taiwanese female lacto-vegetarians.",
+      "abstract": "Lacto-vegetarians (LVs) tend to have vitamin B12 deficiency (B12D). This study assessed whether 140 female LVs, including 16 B12D/LVs and 124 non-B12D/LVs, had significantly higher frequencies of microcytosis, macrocytosis, and of blood hemoglobin (Hb), red blood cell (RBC), and serum vitamin B12 deficiencies than 140 healthy control subjects (HCSs).",
+      "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+      "year": "2021",
+      "authors": [
+        "Lee Yi-Pang",
+        "Loh Ching-Hui",
+        "Hwang Ming-Jay",
+        "Lin Chun-Pin"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anemia",
+        "Anemia, Iron-Deficiency",
+        "Autoantibodies",
+        "Erythrocyte Indices",
+        "Female",
+        "Folic Acid",
+        "Hemoglobins",
+        "Humans",
+        "Hyperhomocysteinemia",
+        "Iron"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33906782/"
+    },
+    {
+      "pmid": "39954228",
+      "title": "Anemia in inflammatory bowel disease-A comprehensive review.",
+      "abstract": "Anemia is a frequent complication in inflammatory bowel disease (IBD) patients. The etiology is multifactorial, with iron deficiency and anemia of chronic disease being the main reasons. Other causes include vitamin B12 and folate deficiency, hemolytic anemia and medications such as azathioprine and sulfasalazine. Apart from physical symptoms, it is associated with several negative outcomes, including poor quality of life, increased risk of hospital admission, increased risk of surgery and higher treatment costs. Diagnostic evaluation aims to identify the underlying cause and severity to determine the appropriate therapeutic strategy. Investigations include a complete blood count, iron indices, inflammatory markers and vitamin B12 and folate levels. Patients with iron deficiency need adequate replacement therapy to improve hemoglobin and replenish iron stores. Those with moderate to severe anemia and/or active disease need intravenous iron, while mild anemia can be treated with oral ir",
+      "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
+      "year": "2025",
+      "authors": [
+        "Dutta Amit Kumar",
+        "Chinthala Hemanth",
+        "George John Titus",
+        "Thomas David Mathew",
+        "Joseph Joseph Anjilivelil"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Inflammatory Bowel Diseases",
+        "Anemia",
+        "Anemia, Iron-Deficiency",
+        "Iron"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39954228/"
+    },
+    {
+      "pmid": "28314600",
+      "title": "Anemia and hematinic deficiencies in gastric parietal cell antibody-positive and -negative oral mucosal disease patients with microcytosis.",
+      "abstract": "Microcytosis is defined as mean corpuscular volume (MCV) < 80 fL. This study assessed the anemia statuses and hematinic deficiencies in 30 patients with gastric parietal cell antibody-positive microcytosis (GPCA+/microcytosis) and 210 patients with GPCA-negative microcytosis (GPCA-/microcytosis).",
+      "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+      "year": "2017",
+      "authors": [
+        "Lin Hung-Pin",
+        "Wu Yu-Hsueh",
+        "Wang Yi-Ping",
+        "Wu Yang-Che",
+        "Yu-Fong Chang Julia"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Anemia",
+        "Autoantibodies",
+        "Erythrocyte Count",
+        "Erythrocyte Indices",
+        "Female",
+        "Homocysteine",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28314600/"
+    },
+    {
+      "pmid": "36105468",
+      "title": "Magnitude and morphological types of anemia differ by age among under five children: A facility-based study.",
+      "abstract": "World Health Organization recently acknowledged the proportion of anemia attributable to iron deficiency among under-five children could be lower than the previously assumed 50%. Ethiopia reported 8.6% and 12.3% prevalence of iron deficiency anemia by serum ferritin and soluble transferrin receptor respectively. However, evidence generated from large samples on the magnitude of different types of anemias is limited. We aimed to determine the prevalence and morphological types of anemia in relation to age.",
+      "journal": "Heliyon",
+      "year": "2022",
+      "authors": [
+        "Omer Anteneh",
+        "Hailu Dejene",
+        "Nigusse Gezahegn",
+        "Mulugeta Afework"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36105468/"
+    },
+    {
+      "pmid": "37258053",
+      "title": "Severe Anemia in Sprague-Dawley Rats After Roux-en-Y Gastric Bypass Surgery.",
+      "abstract": "Roux-en-Y gastric bypass (RYGB) surgery is one of the most commonly performed bariatric procedures for weight loss in humans. However, this procedure is not risk-free, and patients may experience complications that include small bowel obstruction, gastrointestinal bleeding, chronic diarrhea, ulcers, malnutrition, and anemia. In particular, anemia is a recognized long-term complication and can be severe. Rats have been used as a model to study the effects of gastric bypass surgeries. They can experience similar complications as people, but the development of severe anemia has not previously been reported in rats. We observed 2 cases of severe anemia in female Sprague-Dawley rats after RYGB surgery. These cases prompted us to further investigate the frequency and severity of anemia after RYGB in rats. Blood work and necropsies were performed on 9 additional female Sprague-Dawley rats (5 with RYGB, 4 with sham surgery). In these 9 rats, only one had signs of clinical anemia. These 3 anemi",
+      "journal": "Comparative medicine",
+      "year": "2023",
+      "authors": [
+        "Griffin Rachel L",
+        "Varley Ashley N",
+        "Hajnal Andras",
+        "Booth Jennifer L"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Rats",
+        "Animals",
+        "Gastric Bypass",
+        "Rats, Sprague-Dawley",
+        "Obesity, Morbid",
+        "Anemia",
+        "Vitamin B 12"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37258053/"
+    },
+    {
+      "pmid": "8930231",
+      "title": "Anemia secondary to combined deficiencies of iron and cobalamin.",
+      "abstract": "The focus of attention on combined-deficiency anemia is often on concurrent deficiencies of cobalamin (vitamin B12) and folate, emphasizing the correction of megaloblastic changes with folate alone and risking neurologic sequelae of uncorrected simultaneous cobalamin deficiency. Simultaneous deficiencies of cobalamin and iron, however, may be a more common cause of combined-deficiency anemia. Variability in red blood cell morphologic characteristics in this setting reflects the relative degree of deficiency of each of these substrates. A patient with combined cobalamin and iron deficiency anemia with microcytic, hypochromic indices and the absence of hypersegmented neutrophils was treated. This case and the literature reviewed emphasize the need to consider combined-deficiency states in all cases of anemia.",
+      "journal": "Archives of family medicine",
+      "year": "1996",
+      "authors": [
+        "Hash R B",
+        "Sargent M A",
+        "Katner H"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anemia, Iron-Deficiency",
+        "Anemia, Pernicious",
+        "Diagnosis, Differential",
+        "Female",
+        "Humans",
+        "Managed Care Programs",
+        "United States",
+        "Vitamin B 12 Deficiency"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8930231/"
+    },
+    {
+      "pmid": "32127439",
+      "title": "Severe megaloblastic anemia: Vitamin deficiency and other causes.",
+      "abstract": "Megaloblastic anemia causes macrocytic anemia from ineffective red blood cell production and intramedullary hemolysis. The most common causes are folate (vitamin B9) deficiency and cobalamin (vitamin B12) deficiency. Megaloblastic anemia can be diagnosed based on characteristic morphologic and laboratory findings. However, other benign and neoplastic diseases need to be considered, particularly in severe cases. Therapy involves treating the underlying cause-eg, with vitamin supplementation in cases of deficiency, or with discontinuation of a suspected medication.",
+      "journal": "Cleveland Clinic journal of medicine",
+      "year": "2020",
+      "authors": [
+        "Socha Daniel S",
+        "DeSouza Sherwin I",
+        "Flagg Aron",
+        "Sekeres Mikkael",
+        "Rogers Heesun J"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Aged",
+        "Anemia, Megaloblastic",
+        "Avitaminosis",
+        "Diagnosis, Differential",
+        "Dietary Supplements",
+        "Female",
+        "Folic Acid",
+        "Folic Acid Deficiency",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32127439/"
+    },
+    {
+      "pmid": "35458234",
+      "title": "Pernicious Anemia: The Hematological Presentation of a Multifaceted Disorder Caused by Cobalamin Deficiency.",
+      "abstract": "Pernicious anemia is still a neglected disorder in many medical contexts and is underdiagnosed in many patients. Pernicious anemia is linked to but different from autoimmune gastritis. Pernicious anemia occurs in a later stage of autoimmune atrophic gastritis when gastric intrinsic factor deficiency and consequent vitamin B12 deficiency may occur. The multifaceted nature of pernicious anemia is related to the important role of cobalamin, which, when deficient, may lead to several dysfunctions, and thus, the proteiform clinical presentations of pernicious anemia. Indeed, pernicious anemia may lead to potentially serious long-term complications related to micronutrient deficiencies and their consequences and the development of gastric cancer and type 1 gastric neuroendocrine tumors. When not recognized in a timely manner or when pernicious anemia is diagnosed with delay, these complications may be potentially life-threatening and sometimes irreversible. The current review aimed to focus ",
+      "journal": "Nutrients",
+      "year": "2022",
+      "authors": [
+        "Esposito Gianluca",
+        "Dottori Ludovica",
+        "Pivetta Giulia",
+        "Ligato Irene",
+        "Dilaghi Emanuele"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Anemia, Pernicious",
+        "Gastritis",
+        "Humans",
+        "Micronutrients",
+        "Precancerous Conditions",
+        "Stomach Neoplasms",
+        "Vitamin B 12",
+        "Vitamin B 12 Deficiency",
+        "Vitamins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35458234/"
+    },
+    {
+      "pmid": "38968136",
+      "title": "Folic acid and autism: updated evidences.",
+      "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition that impairs communication, socialization, and behavior. The association of ASD with folic acid has been investigated due to the importance of this vitamin for neurological health. This study is an update of the publication 'Folic acid and autism: What do we know?' and aims to systematically review studies examining the relationship between folic acid and ASD. The search resulted in 2,389 studies on folic acid and ASD, which were selected by two reviewers based on their titles and abstracts. Studies meeting the inclusion criteria were fully read. The 52 included studies involved 10,429 individuals diagnosed with ASD and assessed the intake of vitamin B6, folic acid, and vitamin B12; serum levels of these vitamins, homocysteine, and methionine; therapeutic interventions using folic acid; and the association between maternal exposure to this vitamin and the risk of ASD. The evidence of insufficient folic acid intake",
+      "journal": "Nutritional neuroscience",
+      "year": "2025",
+      "authors": [
+        "Vasconcelos Cristiane",
+        "Perry Ingrid Schweigert",
+        "Gottfried Carmem",
+        "Riesgo Rudimar",
+        "Castro Kamila"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Folic Acid",
+        "Autism Spectrum Disorder",
+        "Female",
+        "Vitamin B 12",
+        "Child",
+        "Homocysteine",
+        "Folic Acid Deficiency",
+        "Autistic Disorder",
+        "Dietary Supplements"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38968136/"
+    },
+    {
+      "pmid": "36669740",
+      "title": "Vitamin B12: For more than just the treatment of megaloblastic anemia?",
+      "abstract": "Vitamin B12, or cobalamin, belongs to the group of water-soluble vitamins and is ingested through food of animal origin such as eggs, milk, red meat and poultry, fish, and shellfish. Its clinical indication is the treatment of hypovitaminosis B12 administered orally or intramuscularly in the form of hydroxocobalamin. Hypovitaminosis B12 is mainly caused by deficient dietary intake (individuals with malnutrition, vegetarians or vegans, older adults, pregnant people, individuals with alcohol use disorder); when intestinal absorption is reduced (atrophic gastritis, malabsorption syndrome, gastrointestinal surgery); and for causes associated with the intake of drugs (antacids, metformin). Hypervitaminosis B12 has been associated with renal failure; liver diseases such as cirrhosis and acute-phase hepatitis; alcohol use disorder with or without liver involvement; solid tumors of the lung, liver, esophagus, pancreas, and colorectum; and in hematological malignancies such as leukemia and bone",
+      "journal": "Revista clinica espanola",
+      "year": "2023",
+      "authors": [
+        "Pardo-Cabello A J",
+        "Manzano-Gamero V",
+        "Puche-Cañas E"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Animals",
+        "Pregnancy",
+        "Vitamin B 12",
+        "Alcoholism",
+        "Vitamin B 12 Deficiency",
+        "Anemia, Megaloblastic",
+        "Vitamins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36669740/"
+    },
+    {
+      "pmid": "40218978",
+      "title": "Vitamin B12 and Autism Spectrum Disorder: A Review of Current Evidence.",
+      "abstract": "Vitamin B12 (cobalamin) plays a crucial role in neurodevelopment, particularly during pregnancy and early childhood. It is essential for DNA synthesis, red blood cell formation, and nervous system function. Maternal B12 levels are particularly important, as they influence fetal brain development. Inadequate maternal intake during pregnancy may lead to altered neurodevelopmental trajectories and increase the risk of ASD. Postnatally, insufficient dietary cobalamin in infants and young children could further contribute to cognitive and behavioral impairments. One potential mechanism linking low B12 levels to ASD involves its role in the gut microbiota balance. Dysbiosis, commonly observed in individuals with ASD, is associated with increased gut permeability, low-grade inflammation, and disruptions in the gut-brain axis, all of which may contribute to ASD symptoms. Additionally, B12 is essential for neurotransmitter metabolism, particularly in the synthesis of serotonin and dopamine, whi",
+      "journal": "Nutrients",
+      "year": "2025",
+      "authors": [
+        "Zwierz Mateusz",
+        "Suprunowicz Maria",
+        "Mrozek Katarzyna",
+        "Pietruszkiewicz Jacek",
+        "Oracz Aleksandra Julia"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Vitamin B 12",
+        "Autism Spectrum Disorder",
+        "Pregnancy",
+        "Female",
+        "Vitamin B 12 Deficiency",
+        "Gastrointestinal Microbiome",
+        "Maternal Nutritional Physiological Phenomena",
+        "Dysbiosis",
+        "Brain"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40218978/"
+    },
+    {
+      "pmid": "29532755",
+      "title": "Homocysteine and Hyperhomocysteinaemia.",
+      "abstract": "Homocysteine (Hcy) is a thiol group containing the amino acid, which naturally occurs in all humans. Hcy is degraded in the body through two metabolic pathways, while a minor part is excreted through kidneys. The chemical reactions that are necessary for degradation of Hcy require the presence of folic acid, vitamins B6 and B12. Consequently, the level of the total Hcy in the serum is influenced by the presence or absence of these vitamins. An elevated level of the Hcy, hyperhomocysteinemia (HHcy) and homocystinuria is connected with occlusive artery disease, especially in the brain, the heart, and the kidney, in addition to venous thrombosis, chronic renal failure, megaloblastic anemia, osteoporosis, depression, Alzheimer's disease, pregnancy problems, and others. Elevated Hcy levels are connected with various pathologies both in adult and child population. Causes of HHcy include genetic mutations and enzyme deficiencies in 5, 10-methylenetetrahydrofolate reductase (MTHFR) methionine ",
+      "journal": "Current medicinal chemistry",
+      "year": "2019",
+      "authors": [
+        "Zaric Bozidarka L",
+        "Obradovic Milan",
+        "Bajic Vladan",
+        "Haidara Mohamed A",
+        "Jovanovic Milos"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "5-Methyltetrahydrofolate-Homocysteine S-Methyltransferase",
+        "Animals",
+        "Avitaminosis",
+        "Cystathionine beta-Synthase",
+        "Folic Acid",
+        "Homocysteine",
+        "Humans",
+        "Hyperhomocysteinemia",
+        "Methylenetetrahydrofolate Reductase (NADPH2)",
+        "Vitamin B 12"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29532755/"
+    },
+    {
+      "pmid": "18606874",
+      "title": "How I treat cobalamin (vitamin B12) deficiency.",
+      "abstract": "The challenges in medical management of cobalamin deficiency lie in attention to the unique pathophysiology that underlies cobalamin deficiency, more than in the mechanics of therapy. The central physiologic principles are that clinically important deficiency is more likely to occur (and progress) when intrinsic factor-driven absorption fails than when diet is poor and that most causes take years to produce clinically obvious deficiency. Transient defects have little clinical impact. The key management principle is the importance of follow-up, which also requires knowing how the deficiency arose. The virtues of these principles are not always fully appreciated. Recent developments have made diagnosis and management more difficult by diminishing the ability to determine cobalamin absorption status. Clinicians must also grapple with premature medicalization of isolated, mild biochemical changes that added many asymptomatic cases of still undetermined medical relevance to their caseload, ",
+      "journal": "Blood",
+      "year": "2008",
+      "authors": [
+        "Carmel Ralph"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_terms": [
+        "Disease Management",
+        "Humans",
+        "Malabsorption Syndromes",
+        "Practice Guidelines as Topic",
+        "Treatment Outcome",
+        "Vitamin B 12",
+        "Vitamin B 12 Deficiency"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18606874/"
+    },
+    {
+      "pmid": "39047712",
+      "title": "Hallucinations and Vitamin B12 Deficiency: A Systematic Review.",
+      "abstract": "Vitamin B12 deficiency is primarily associated with pernicious anaemia, polyneuropathy, and spinal-cord disease, but publications on its association with hallucinations are on the rise.",
+      "journal": "Psychopathology",
+      "year": "2024",
+      "authors": [
+        "Blom Jan Dirk"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Vitamin B 12 Deficiency",
+        "Hallucinations",
+        "Vitamin B 12"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39047712/"
+    },
+    {
+      "pmid": "38797248",
+      "title": "Oral vitamin B12 supplementation in pernicious anemia: a prospective cohort study.",
+      "abstract": "The absorption of vitamin B12 is hindered in pernicious anemia (PA) owing to intrinsic factor deficiency. Traditionally, intramuscular vitamin B12 injections were the standard treatment, bypassing the impaired absorption. Although there is potential for oral vitamin B12 supplementation through passive enteral absorption, it is not commonly prescribed in PA owing to limited studies assessing its efficacy.",
+      "journal": "The American journal of clinical nutrition",
+      "year": "2024",
+      "authors": [
+        "Lacombe Valentin",
+        "Vinatier Emeline",
+        "Roquin Guillaume",
+        "Copin Marie-Christine",
+        "Delattre Estelle"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Vitamin B 12",
+        "Anemia, Pernicious",
+        "Female",
+        "Male",
+        "Prospective Studies",
+        "Dietary Supplements",
+        "Middle Aged",
+        "Aged",
+        "Vitamin B 12 Deficiency"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38797248/"
+    },
+    {
+      "pmid": "37247800",
+      "title": "Effects of vitamin B12 deficiency on risk and outcome of ischemic stroke.",
+      "abstract": "Ischemic stroke is the most prevalent form of stroke and has a high incidence in older adults, characterized by high morbidity, mortality, disability, and recurrence rate. Vitamin B12 deficiency is prevalent in the elderly and has been reported to be associated with ischemic stroke. The mechanisms maybe include the disorder of methylation metabolism, accumulation of toxic metabolites, immune dysfunction, affecting gut microbial composition and gut-brain immune homeostasis, and toxic stress responses to the brain. Vitamin B12 deficiency may lead to cerebral artery atherosclerosis, change myelination, influence the metabolism and transmission between nerve tissue, and ultimately causes the occurrence and development of ischemic stroke. This paper reviews the correlation between vitamin B12 deficiency and ischemic stroke, looking forward to improving clinicians' understanding and providing new therapeutic directions for ischemic stroke.",
+      "journal": "Clinical biochemistry",
+      "year": "2023",
+      "authors": [
+        "Zhou Li",
+        "Song Xiaosong",
+        "Wang Jiani",
+        "Tan Yongjun",
+        "Yang Qin"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Aged",
+        "Vitamin B 12",
+        "Vitamin B 12 Deficiency",
+        "Ischemic Stroke",
+        "Stroke",
+        "Vitamins"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37247800/"
+    }
+  ]
+}

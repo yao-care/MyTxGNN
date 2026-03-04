@@ -1,0 +1,1016 @@
+{
+  "drug": "Dexamethasone",
+  "drugbank_id": "DB01234",
+  "evidence_level": "L1",
+  "collected_at": "2026-03-04T09:54:01Z",
+  "indications": [
+    {
+      "indication": "diffuse large B-cell lymphoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 13,
+        "phase1_trials": 5,
+        "other_trials": 0,
+        "rct_articles": 3,
+        "review_articles": 1,
+        "other_articles": 6,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "erythema multiforme",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 6,
+        "phase2_trials": 12,
+        "phase1_trials": 1,
+        "other_trials": 1,
+        "rct_articles": 1,
+        "review_articles": 2,
+        "other_articles": 7,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "lymphosarcoma",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 8,
+        "phase2_trials": 6,
+        "phase1_trials": 3,
+        "other_trials": 3,
+        "rct_articles": 0,
+        "review_articles": 2,
+        "other_articles": 8,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "disease of orbital region",
+      "evidence_level": "L1",
+      "trials": 20,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 2,
+        "phase2_trials": 6,
+        "phase1_trials": 0,
+        "other_trials": 12,
+        "rct_articles": 0,
+        "review_articles": 0,
+        "other_articles": 10,
+        "total_trials": 20,
+        "total_articles": 10
+      }
+    },
+    {
+      "indication": "leukemia, lymphocytic, susceptibility to",
+      "evidence_level": "L4",
+      "trials": 0,
+      "articles": 10,
+      "summary": {
+        "phase3_trials": 0,
+        "phase2_trials": 0,
+        "phase1_trials": 0,
+        "other_trials": 0,
+        "rct_articles": 0,
+        "review_articles": 3,
+        "other_articles": 7,
+        "total_trials": 0,
+        "total_articles": 10
+      }
+    }
+  ],
+  "total_trials": 80,
+  "total_articles": 50,
+  "trials": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03391466",
+      "title": "A Phase 3, Randomized, Open-Label Study Evaluating the Efficacy of Axicabtagene Ciloleucel Versus Standard of Care Therapy in Subjects With Relapsed/Refractory Diffuse Large B Cell Lymphoma (ZUMA-7)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-01-25",
+      "completion_date": "2024-11-25",
+      "country": "Spain, Australia, Canada, Austria, Germany, France, Italy, Sweden, Netherlands, Switzerland, United Kingdom, United States, Israel, Belgium",
+      "enrollment": 359,
+      "brief_summary": "The goal of this clinical study is to assess whether axicabtagene ciloleucel therapy improves the clinical outcome compared with standard of care second-line therapy in participants with relapsed/refractory diffuse large B-cell lymphoma (DLBCL).",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Histologically proven large B-cell lymphoma (BCL) including the following types defined by World Health Organization (WHO) 2016.\n\n  * Diffuse large B-cell lymphoma (DLBCL) not otherwise specified activated B-cell/ germinal center B-cell (ABC/GCB).\n  * High-grade B-cell lym",
+      "endpoints": [
+        "Event Free Survival (EFS) Per Blinded Central Assessment"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03391466"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05498259",
+      "title": "A Phase 2 Study of Orelabrutinib With R-CHOP-like Regimen for Patients With Newly Diagnosed Untreated Non-GCB DLBCL",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2022-07-27",
+      "completion_date": "2025-01-01",
+      "country": "China",
+      "enrollment": 46,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of orelabrutinib combined with rituximab，followed by orelabrutinib combined with R-CHOP-like regimen for newly diagnosed untreated Non-GCB DLBCL Patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed Non-GCB DLBCL\n2. Age ≥18 and ≤70 years\n3. At least one measurable lesion，measurable lymph nodes or masses of at least 15 millimeter (mm)\n4. ECOG performance status 0-2\n5. Lymphoma International Prognostic Score (IPI) ≥ 2\n6. Life expectancy ≥ 6 months\n",
+      "endpoints": [
+        "Complete Response Rate"
+      ],
+      "sponsor": "The First Affiliated Hospital of Soochow University",
+      "url": "https://clinicaltrials.gov/study/NCT05498259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02589145",
+      "title": "Lenalidomide Combined With Vorinostat/Gemcitabine/Busulfan/Melphalan With Autologous Stem-Cell Transplantation in Diffuse Large B-Cell Lymphoma of the ABC Subtype",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2016-06-22",
+      "completion_date": "2019-04-08",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "The goal of this clinical research study is to find the highest tolerable dose of lenalidomide that can be given in combination with vorinostat, gemcitabine, busulfan, and melphalan, with a stem cell transplant, and with or without rituximab. Researchers also want to learn about the safety and effectiveness of this combination.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 15-65\n2. Patients with ABC (determined by immunohistochemistry using the Hans algorithmI) DLBCL with primary refractory disease, relapse \\<12 months after initial therapy, secondary International Prognostic Index (IPI) \\>1, less than partial response to salvage treatment ",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD)",
+        "Event-free Survival (EFS)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02589145"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02223598",
+      "title": "A Phase 1, Dose-Escalation/Dose-Expansion Study Evaluating the Safety, Pharmacokinetics and Pharmacodynamic Effects of Orally Administered CB-5083 in Subjects With Lymphoid Hematological Malignancies",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2014-08-25",
+      "completion_date": "2017-07-26",
+      "country": "United States, Canada",
+      "enrollment": 120,
+      "brief_summary": "The purpose of this study is to determine the safety, tolerability, dose limiting toxicities, and maximum tolerated dose of CB-5083 in subjects with lymphoid hematological malignancies.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males and females ≥18 years of age at the time of signing the consent form.\n2. Dose Escalation Phase: Have a documented diagnosis of a lymphoid hematological malignancy as described by the 2008 World Health Organization (WHO) classification that requires therapy and for which",
+      "endpoints": [
+        "To determine the dose limiting toxicities (DLTs) of oral CB-5083 in subjects with lymphoid hematological malignancies",
+        "To determine the pharmacokinetic (PK) profile of oral CB-5083 in subjects with lymphoid hematological malignancies by measuring the AUC",
+        "To determine the PK profile of oral CB-5083 in subjects with lymphoid hematological malignancies by measuring the Cmax"
+      ],
+      "sponsor": "Cleave Biosciences, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02223598"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05688475",
+      "title": "Continuing Treatment for Participants Who Have Participated in a Prior Protocol Investigating CC-122",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-04-11",
+      "completion_date": "2026-02-25",
+      "country": "Netherlands, United States, Japan, France",
+      "enrollment": 12,
+      "brief_summary": "The purpose of the study is to provide CC-122 treatment to participants who have been receiving treatment in other CC-122 clinical trials investigating CC-122 for more than 5 years (CC-122-ST-001 \\[NCT01421524\\], CC-122-ST-002 \\[NCT02509039\\], CC-122-DBCL-001 \\[NCT02031419\\], and CC-122-NHL-001 \\[NCT02417285\\]), receiving clinical benefit from the treatment and to monitor the safety and tolerability of CC-122.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Participant who is currently receiving CC-122 on another CC-122 clinical trial that has met its primary and secondary endpoints.\n* Participant who has participated in previous CC-122 protocol (including CC-122-ST-001 \\[NCT01421524\\], CC-122-ST-002 \\[NCT02509039\\], CC-122-D",
+      "endpoints": [
+        "Number of participants with serious adverse events (SAEs) for participants who received at least 1 dose of CC-122",
+        "Number of deaths for participants who received at least 1 dose of CC-122"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT05688475"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00137995",
+      "title": "Randomized Study of ICE Plus RITUXIMAB Versus DHAP Plus Rituximab in Previously Treated Patients With Diffuse Large B-cell Lymphoma, Followed by Randomized Maintenance With Rituximab",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2008-10",
+      "country": "Czechia, Finland, Australia, Germany, Switzerland, Sweden, United Kingdom, United States, Israel, Belgium",
+      "enrollment": 481,
+      "brief_summary": "The primary objective of this study is to evaluate the efficacy and safety of induction therapy R-ICE in comparison to R-DHAP after 3 cycles adjusted to successful mobilization of stem cells in patients with previously treated diffuse large B-cell lymphoma CD20.\n\nThe goal is to detect a difference in mobilization adjusted response rate of 15% between R-ICE and R-DHAP.\n\nThe other objective is to evaluate the efficacy and safety of MabThera maintenance therapy after transplantation as measured by ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with CD20-positive diffuse large B-cell lymphoma. Disease must be histologically proven in case of relapse or partial response.\n* Aged 18 to 65 years\n* First relapse after complete remission (CR), less than partial remission (PR) or partial response to first line trea",
+      "endpoints": [
+        "MARR (mobilization adjusted response rate)",
+        "EFS (event free survival)"
+      ],
+      "sponsor": "Lymphoma Study Association",
+      "url": "https://clinicaltrials.gov/study/NCT00137995"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03719989",
+      "title": "A Phase II Study of Epigenetic Priming Using Azacitidine Followed by Rituximab-GDP Immunochemotherapy in Patients With Relapsed/Refractory Diffuse Large B-Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2018-12-01",
+      "completion_date": "2023-11-30",
+      "country": "South Korea",
+      "enrollment": 27,
+      "brief_summary": "This phase II clinical trial aims at evaluating the efficacy and safety of azacitidine followed by rituximab-GDP immunochemotherapy in patients with relapsed/refractory diffuse large B-cell lymphoma (DLBCL). Patients who were treated with from 1 to 4 lines of prior therapies for relapsed/refractory DLBCL wee eligible. azacitidine will be treated one week prior to conventional rituximab-gemcitabine, dexamethasone, cisplatin (R-GDP) immunochemotherapy. Patients will be treated every 21 days as one",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age from 19 to 75 years\n2. diagnosed as diffuse large B-cell lymphoma according to the World Health Organization 2016 criteria\n3. with any measurable lesion by radiologic studies (direct measurement is allowed in cases of (sub)cutaneous lesions)\n4. patients who were initially",
+      "endpoints": [
+        "Objective response rate"
+      ],
+      "sponsor": "Seoul National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03719989"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03418038",
+      "title": "Phase2 Trial of High Dose Intravenous Ascorbic Acid as an Adjunct to Salvage Chemotherapy in Relapsed/ Refractory Lymphoma, Patients With Clonal Cytopenia of Undetermined Significance, and Chronic Myelomonocytic Leukemia",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2018-03-23",
+      "completion_date": "2027-03-15",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "This phase II trial studies the effect of ascorbic acid and combination chemotherapy in treating patients with lymphoma that has come back (recurrent) or does not respond to therapy (refractory), clonal cytopenia of undetermined significance and chronic myelomonocytic leukemia (CMML). Ascorbic acid may make cancer cells more sensitive to chemotherapy. Drugs used in chemotherapy, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>= 18 years\n* Biopsy-proven relapsed or refractory lymphomas; relapsed is defined as a relapse that occurred after having a response to the last therapy that lasted \\> 6 months; refractory is no response or relapse within 6 months; previous biopsies \\< 6 months prior to t",
+      "endpoints": [
+        "Overall response rate (ORR) (Arms A and B)",
+        "ORR (Arm C)",
+        "Hematologic response (HI) rate (Arm D)"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT03418038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02733380",
+      "title": "The Efficacy and Safety of Chidamide Combined With VDDT Regimen（Vinorelbine，Liposomal Doxorubicin，Dexamethasone and Thalidomide） in Relapse and Refractory Patients With Diffuse Large B Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2016-05",
+      "completion_date": "2021-05",
+      "country": "China",
+      "enrollment": 20,
+      "brief_summary": "This is a prospective phase II clinical trial to observe the efficacy and safety of Chidamide combined with VDDT(vinorelbine，liposomal doxorubicin，dexamethasone and thalidomide) in relapsed and refractory patients with diffuse large B-cell lymphoma(DLBCL).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosed as diffuse large B-cell Lymphoma based on the 2008 WHO classification of tumors of haematopoietic and lymphoid tissues\n2. Failed with second-line therapy\n3. Having at least one measurable lesions\n4. Age between 18 to 75 years old\n5. World health organization-Eastern",
+      "endpoints": [
+        "objective response rate",
+        "adverse events",
+        "abnormal laboratory examinations"
+      ],
+      "sponsor": "Henan Cancer Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02733380"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02532192",
+      "title": "A Phase Ib Study of Belinostat With RDHAP Chemotherapy (Dexamethasone, Cytarabine, Cisplatinum) in Adults With Relapsed or Refractory Diffuse Large B-cell Lymphoma",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2015-12",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The goal of this clinical research study is to find the highest tolerable dose of belinostat that can be combined with standard chemotherapy drugs (rituximab, cisplatin, cytarabine, and dexamethasone) in patients with relapsed or refractory DLBCL who are eligible for an autologous stem cell transplant (a transplant of the patient's own stem cells). The safety of the study drug will also be studied.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aggressive B-cell lymphoma, including DLBCL and FL or other indolent or low grade malignancy transforming to DLBCL, Grade III FL, Burkitt lymphoma, and unclassifiable B-cell lymphoma with features of Burkitt and DLBCL according to the World Health Organization, with biopsy co",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of Belinostat with RDHAP Chemotherapy in Participants with Relapsed or Refractory Diffuse Large B-cell Lymphoma (DLBCL)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02532192"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04329728",
+      "title": "An Open Label, Phase 1/2 Study Evaluating Immunomodulatory AVM0703 in Patients With Lymphoid Malignancies (OPAL Study)",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2020-11-06",
+      "completion_date": "2026-12-01",
+      "country": "United States",
+      "enrollment": 144,
+      "brief_summary": "This is an open-label, Phase 1/2 study designed to characterize the safety, tolerability, Pharmacokinetics(PK), and preliminary antitumor activity of AVM0703 administered as a single intravenous (IV) infusion to patients with lymphoid malignancies.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Age ≥12 years and weight ≥40 kg;\n\n  2\\. Histologically confirmed diagnosis per 2016 World Health Organization (WHO) classification of lymphoid neoplasms160 and per the 2016 WHO classification of acute leukemia161 of the following indications:\n  * DLBCL, including arising f",
+      "endpoints": [
+        "Phase 1: incidence of Adverse events"
+      ],
+      "sponsor": "AVM Biotechnology Inc",
+      "url": "https://clinicaltrials.gov/study/NCT04329728"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02955823",
+      "title": "A Combination of Lenalidomide and Rituximab as Front Line Therapy for the Treatment of Elderly Frail Patients Evaluated in CGA With Diffuse Large B-cells Non-Hodgkin Lymphoma. A Phase II Study of the Fondazione Italiana Linfomi (FIL)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-09",
+      "completion_date": "2022-11-24",
+      "country": "Italy",
+      "enrollment": 68,
+      "brief_summary": "A phase II study to evaluate the combination of Lenalidomide and Rituximab as front line therapy for the treatment of elderly frail patients evaluated in CGA with Diffuse Large B-cells non-Hodgkin Lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically proven CD20 positive Diffuse Large B-cell Lymphoma according to WHO classification (local pathologist)\n2. Age ≥ 70 years\n3. Previously untreated\n4. CGA assessment performed before starting treatment\n5. FRAIL patients defined as follows\n\n   Age \\> 80 years (with",
+      "endpoints": [
+        "ORR",
+        "Safety: clinical relevant toxicity"
+      ],
+      "sponsor": "Fondazione Italiana Linfomi - ETS",
+      "url": "https://clinicaltrials.gov/study/NCT02955823"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04663347",
+      "title": "A Phase 1b/2, Open-Label Trial to Assess the Safety and Preliminary Efficacy of Epcoritamab (GEN3013; DuoBody®-CD3xCD20) in Combination With Other Agents in Subjects With B-cell Non-Hodgkin Lymphoma (B-NHL)",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-11-03",
+      "completion_date": "2027-09-30",
+      "country": "Czechia, Spain, Finland, Australia, Denmark, Norway, France, Italy, Sweden, Netherlands, United Kingdom, United States, Belgium",
+      "enrollment": 543,
+      "brief_summary": "The purpose of this trial is to measure the safety and effectiveness of epcoritamab (EPKINLY™), either by itself or together with other therapies, when treating participants with B-cell non-Hodgkin Lymphoma (B-NHL). The aim of the first part of the trial is to identify the most appropriate dose of epcoritamab, and the aim of the second part of the trial is to assess the selected epcoritamab dose in a larger group of participants with B-NHL. All participants in this trial will receive either epco",
+      "eligibility_criteria": "Key Inclusion Criteria\n\n1. Measurable disease defined as ≥1 measurable nodal lesion (long axis \\>1.5 cm and short axis \\>1.0 cm) or ≥1 measurable extra-nodal lesion (long axis \\>1.0 cm) on computed tomography (CT) or magnetic resonance imaging (MRI). Applies to all arms except arm 7.\n2. Eastern Coop",
+      "endpoints": [
+        "Part 1: Number of Participants With Dose limiting Toxicities (DLTs)",
+        "Part 1 and Part 2 (Arms 1-5, 7 and 10): Number of Participants With Adverse Events (AEs)",
+        "Part 2 (Except Arm 7): Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Genmab",
+      "url": "https://clinicaltrials.gov/study/NCT04663347"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02983097",
+      "title": "Open-label, Multicenter Phase I/II Study: Salvage Therapy of Progressive and Relapsed Aggressive Non-Hodgkin-Lymphoma by Combination of Lenalidomide (Revlimid®) With Rituximab, Dexamethason, High-dose ARA-C and Cisplatinum (R²-DHAP)",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-11",
+      "completion_date": "2015-04-28",
+      "country": "Germany",
+      "enrollment": 34,
+      "brief_summary": "The goal of this study is to evaluate efficacy and safety of the combination of lenalidomide, an immunomodulatory drug (IMiD) with a standard immunochemotherapy treatment, called R-DHAP. R-DHAP consists of a monoclonal antibody called Rituximab and chemotherapy consisting of Dexamethasone, high dose Cytarabine, often called Ara-C, and platinum based chemotherapy, either cisplatinum, or, if treatment with cisplatinum is contraindicated, carboplatinum.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAge: 18-70\n\nRisk groups: All risk groups\n\nhistology: diagnosis or a recurrent or primary progressive aggressive b-cell non-hodgkin lymphoma, in particular\n\n* follicular lymphoma grade III\n* diffuse large b-cell lymphoma\n* burkitt lymphoma\n* mantle cell lymphoma, blastoid variant",
+      "endpoints": [
+        "Overall Response Rate (ORR)",
+        "Maximum tolerated dose (MTD)"
+      ],
+      "sponsor": "Gesellschaft fur Medizinische Innovation - Hamatologie und Onkologie mbH",
+      "url": "https://clinicaltrials.gov/study/NCT02983097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01854372",
+      "title": "Rituximab-HyperCVAD (R-HCVAD) Alternating With Rituximab-Methotrexate-Cytarabine- (R-MC) in Newly Diagnosed Patients With Diffuse Large B-Cell Lymphoma With MYC-Rearrangement. A Phase 2, Multi-Center, Open Label Study (CTRC# 11-53)",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2013-06",
+      "completion_date": "2013-11",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "To estimate the I-year progression-free survival probability in patients up to 70 years of age with previously untreated diffuse large B-celllymphoma (DLBCL), or with intermediate (Burkitt-like) lymphoma, whose tumor cells show MYC rearrangement, and who are treated with alternating cycles of Rituximab-HCV AD and Rituximab-Methotrexate-Cytarabine, in concert with optimal supportive treatment including Pegfilgrastim, prophylactic antimicrobials, and close clinical follow-up.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diffuse large B-cell lymphoma or intermediate (\"Burkitt-like\") lymphoma, newly diagnosed from an excisional biopsy or from a large core biopsy with sufficient diagnostic material to perform genetic testing for MYC-R.\n2. Positivity for MYC-R by Fluorescent in-situ Hybridizatio",
+      "endpoints": [
+        "Progression free survival verified by PET scan."
+      ],
+      "sponsor": "The University of Texas Health Science Center at San Antonio",
+      "url": "https://clinicaltrials.gov/study/NCT01854372"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00022971",
+      "title": "Combination Antibody Therapy With Apolizumab (1D10) and Rituximab (CD20) in Relapsed Lymphoma and CLL",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2001-08-15",
+      "completion_date": "2017-03-17",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "This study will evaluate the safety and effectiveness of a combination of two antibodies, apolizumab and rituximab (Rituxan ), in treating B-cell lymphomas and chronic lymphocytic leukemia. Rituximab attaches to a molecule called CD20 on B-cell lymphomas and can cause significant shrinkage of these tumors in up to half of patients. However, it does not cure the lymphoma, which usually returns. Also, it is not as effective against leukemia. Apolizumab attaches to a protein called 1D10 on B-cell c",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nDiagnosis of B-cell lymphoma, Waldenstrom's CLL with surface expression of both CD20 and 1D10 antigen by immunohistochemistry (IHC) or fluorescence of activated cell sorting (FACS) with anti-CD20 and 1D10 antibody. Positive 1D10 expression in a FACS assay is defined as more th",
+      "endpoints": [
+        "MTD"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00022971"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03837873",
+      "title": "DLCL002 Protocol for Young Patients With Newly Diagnosed High Risk Aggressive B-cell Lymphoma, a Multicenter Phase II Study",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2019-01-21",
+      "completion_date": "2024-09-01",
+      "country": "China",
+      "enrollment": 118,
+      "brief_summary": "Patients eligible for the study will receive R-DA-EDOCH as the induction therapy and be evaluated by PET CT after the fourth cycle. Patients achieve CR at interim-PET(Deauville score 1-3) will receive either ASCT or the remaining 4 cycles of R-DA-EDOCH, while those achieve PR(Deauville score 4-5) will be rescued by two courses of R(2)-DHAP and then be revaluated by the second interim-PET. Patients who achieved CR+good PR(Deauville score 4) after the rescue therapy will be consolidated with ASCT,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histological confirmed aggressive B-cell lymphoma with one of the following subtypes:\n\n  1. diffuse large B-cell lymphoma, NOS with at least one poor prognostic factor as follows:\n\n     1. aaIPI 2\\~3(≤60 years) or IPI 3\\~5(\\>60 years);\n     2. double protein expression lymphom",
+      "endpoints": [
+        "PFS"
+      ],
+      "sponsor": "Institute of Hematology & Blood Diseases Hospital, China",
+      "url": "https://clinicaltrials.gov/study/NCT03837873"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00836173",
+      "title": "A Phase II Study Evaluating Three Cyslces of Ifosfamide, Carboplatin, Etoposide, and Rituximab (RICE) Followed by Two Cycles of Gallium Nitrate, Rituximab and Dexamethasone (GARD) for Relapsed or Refractory Diffuse Large B-Cell Lymphoma MA",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2008-07",
+      "completion_date": "2012-05",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to find out what effects, good and/or bad; rituximab, ifosfamide, carboplatin and etoposide (RICE) followed by gallium nitrate, rituximab and dexamethasone (GARD) have on diffuse large B cell lymphoma.\n\nThis research is being done to try to find a more effective treatment for this type of cancer. We want to know whether treatment with rituximab, ifosfamide, carboplatin and etoposide (RICE) then followed by gallium nitrate, rituximab and dexamethasone (GARD) will impr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must have histologically or cytologically confirmed diffuse, large B-cell lymphoma (WHO classification diffuse large B-cell lymphoma or mediastinal large B-cell lymphoma), immunoblastic B cell lymphoma or Burkitts lymphoma. Transformed, large B-cell lymphoma will be excluded.\n",
+      "endpoints": [
+        "To determine CR rates of standard salvage chemotherapy with rituximab, ifosfamide, carboplatin and etoposide (RICE) for relapsed/refractory diffuse aggressive NHL followed by a novel regimen of gallium nitrate, rituximab, and dexamethasone (GARD)"
+      ],
+      "sponsor": "Loyola University",
+      "url": "https://clinicaltrials.gov/study/NCT00836173"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00489203",
+      "title": "A Phase II Study to Evaluate the Efficacy of Oral Beclomethasone Dipropionate for Prevention of Acute GVHD After Hematopoietic Cell Transplantation With Myeloablative Conditioning Regimens",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 140,
+      "brief_summary": "RATIONALE: Beclomethasone dipropionate may be effective in preventing acute graft-versus-host disease in patients undergoing a stem cell transplant for hematologic cancer.\n\nPURPOSE: This randomized phase II trial is studying how well beclomethasone dipropionate works in preventing acute graft-versus-host disease in patients undergoing a donor stem cell transplant for hematologic cancer.",
+      "eligibility_criteria": "Inclusion\n\n* Allogeneic HCT with marrow or growth-factor mobilized blood cells from an HLA-A, B, C, DRB1, and HLA-DQB1-allele matched or single-allele or antigen mismatched related or unrelated donor\n* Use of myeloablative pre-transplant conditioning regimen with \\> 800 cGy total body irradiation an",
+      "endpoints": [
+        "Development of acute graft-versus-host disease (GVHD) with severity sufficient to require systemic immunosuppressive treatment"
+      ],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00489203"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03795571",
+      "title": "Lenalidomide, Rituximab, Gemcitabine, Oxaliplatin and Dexamethasone (R2-GOD) in Treatment of Relapse/Refractory DLBCL:A Phase I Study",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2019-01-01",
+      "completion_date": "2019-12-31",
+      "country": "China",
+      "enrollment": 12,
+      "brief_summary": "Previous study showed that Lenalidomide or R-GDP could achieve response in Relapse and Refractory DLBCL.The investigators therefore design this phase I study to investigate the safety and efficacy of R2-GOD in relapsed diffuse large-cell lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-65 years old;\n* ECOG PS 0- 2;\n* Histologically confirmed diffuse large B cell lymphoma（With exception of Primary mediastinal large B cell lymphoma、Primary central nervous system lymphoma、HIV-related lymphoma),relapse or refractory,defined as:\n\n  * relapse after standard",
+      "endpoints": [
+        "maximum tolerated dose and dose limited toxicity"
+      ],
+      "sponsor": "The First Affiliated Hospital with Nanjing Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT03795571"
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "35717989",
+      "title": "Lisocabtagene maraleucel versus standard of care with salvage chemotherapy followed by autologous stem cell transplantation as second-line treatment in patients with relapsed or refractory large B-cell lymphoma (TRANSFORM): results from an interim analysis of an open-label, randomised, phase 3 trial.",
+      "abstract": "Patients with large B-cell lymphoma (LBCL) primary refractory to or relapsed within 12 months of first-line therapy are at high risk for poor outcomes with current standard of care, platinum-based salvage immunochemotherapy and autologous haematopoietic stem cell transplantation (HSCT). Lisocabtagene maraleucel (liso-cel), an autologous, CD19-directed chimeric antigen receptor (CAR) T-cell therapy, has previously demonstrated efficacy and manageable safety in third-line or later LBCL. In this Article, we report a prespecified interim analysis of liso-cel versus standard of care as second-line treatment for primary refractory or early relapsed (within 12 months after response to initial therapy) LBCL.",
+      "journal": "Lancet (London, England)",
+      "year": "2022",
+      "authors": [
+        "Kamdar Manali",
+        "Solomon Scott R",
+        "Arnason Jon",
+        "Johnston Patrick B",
+        "Glass Bertram"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Cisplatin",
+        "Dexamethasone",
+        "Hematopoietic Stem Cell Transplantation",
+        "Humans",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Rituximab",
+        "Standard of Care",
+        "Thrombocytopenia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35717989/"
+    },
+    {
+      "pmid": "20660832",
+      "title": "Salvage regimens with autologous transplantation for relapsed large B-cell lymphoma in the rituximab era.",
+      "abstract": "Salvage chemotherapy followed by high-dose therapy and autologous stem-cell transplantation (ASCT) is the standard treatment for relapsed diffuse large B-cell lymphoma (DLBCL). Salvage regimens have never been compared; their efficacy in the rituximab era is unknown.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "year": "2010",
+      "authors": [
+        "Gisselbrecht Christian",
+        "Glass Bertram",
+        "Mounier Nicolas",
+        "Singh Gill Devinder",
+        "Linch David C"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Murine-Derived",
+        "Antigens, CD20",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Australia",
+        "Carboplatin",
+        "Chemotherapy, Adjuvant",
+        "Cytarabine"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20660832/"
+    },
+    {
+      "pmid": "16702182",
+      "title": "Randomised phase III study of R-ICE versus R-DHAP in relapsed patients with CD20 diffuse large B-cell lymphoma (DLBCL) followed by high-dose therapy and a second randomisation to maintenance treatment with rituximab or not: an update of the CORAL study.",
+      "abstract": "The multicentre phase III CORAL study aims to guide choice of salvage chemotherapy in diffuse large B-cell lymphoma (DLBCL) and assess the role of rituximab maintenance after autologous stem cell transplantation (ASCT). Patients are first randomised between ICE (ifosfamide, carboplatin, etoposide) and DHAP (dexamethasone, ara-C and cisplatin), both combined with rituximab (R-ICE or R-DHAP). After three courses, responders are treated by ASCT with BEAM. A second randomisation then allocates patients to maintenance treatment with rituximab 375 mg/m(2), one injection every 2 months six times, or observation. Accrual to the study is now proceeding well and the planned 400 patients are likely to be enrolled within the next 1.5 years. Results to date are very preliminary but suggest encouraging rates of response. However, they also indicate that initial exposure to rituximab may increase the difficulty of salvaging patients who fail first-line therapy.",
+      "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "year": "2006",
+      "authors": [
+        "Hagberg H",
+        "Gisselbrecht C"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Murine-Derived",
+        "Antigens, CD20",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carboplatin",
+        "Carmustine",
+        "Cisplatin",
+        "Combined Modality Therapy",
+        "Cytarabine",
+        "Dexamethasone"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16702182/"
+    },
+    {
+      "pmid": "34296427",
+      "title": "Prophylactic corticosteroid use in patients receiving axicabtagene ciloleucel for large B-cell lymphoma.",
+      "abstract": "ZUMA-1 (NCT02348216) examined the safety and efficacy of axicabtagene ciloleucel (axi-cel), an autologous CD19-directed chimaeric antigen receptor (CAR)-T cell therapy, in refractory large B-cell lymphoma. To reduce treatment-related toxicity, several exploratory safety management cohorts were added to ZUMA-1. Specifically, cohort 6 investigated management of cytokine release syndrome (CRS) and neurologic events (NEs) with prophylactic corticosteroids and earlier corticosteroid and tocilizumab intervention. CRS and NE incidence and severity were primary end-points. Following leukapheresis, patients could receive optional bridging therapy per investigator discretion. All patients received conditioning chemotherapy (days -5 through -3), 2 × 106  CAR-T cells/kg (day 0) and once-daily oral dexamethasone [10 mg, day 0 (before axi-cel) through day 2]. Forty patients received axi-cel. CRS occurred in 80% of patients (all grade ≤2). Any grade and grade 3 or higher NEs occurred in 58% and 13% o",
+      "journal": "British journal of haematology",
+      "year": "2021",
+      "authors": [
+        "Oluwole Olalekan O",
+        "Bouabdallah Krimo",
+        "Muñoz Javier",
+        "De Guibert Sophie",
+        "Vose Julie M"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Adrenal Cortex Hormones",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Antineoplastic Agents, Immunological",
+        "Biological Products",
+        "Cytokine Release Syndrome",
+        "Dexamethasone",
+        "Female",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34296427/"
+    },
+    {
+      "pmid": "40079097",
+      "title": "Real-world comparison of lisocabtagene maraleucel and axicabtagene ciloleucel in large B-cell lymphoma: an inverse probability of treatment weighting analysis with 3-year follow-up.",
+      "abstract": "Lisocabtagene maraleucel (liso-cel) and axicabtagene ciloleucel (axi-cel) are Food and Drug Administration- and European Medicines Agency-approved chimeric antigen receptor (CAR) T-cell therapies for relapsed/refractory large B-cell lymphoma (LBCL). However, comparative real-world analyses of their efficacy and toxicity with extended follow-up are lacking. We conducted a retrospective study of 160 LBCL patients treated at the Fred Hutchinson Cancer Center with commercial liso- cel or axi-cel per standard of care. Using inverse probability of treatment weighting (IPTW) to mitigate treatment allocation bias and multivariable adjustments to minimize other sources of confounding, we assessed the impact of CAR T-cell product type on outcomes. Axi-cel was associated with significantly higher rates of cytokine release syndrome (CRS; grade [G]1+: adjusted odds ratio [aOR] =4.27; P=0.004; G2+: aOR=2.88; P=0.006), immune effector cell-associated neurotoxicity syndrome (ICANS; G1+: aOR=2.10; P=0.",
+      "journal": "Haematologica",
+      "year": "2025",
+      "authors": [
+        "Portuguese Andrew J",
+        "Huang Jennifer J",
+        "Jeon Yein",
+        "Taheri Mahnoosh",
+        "Albittar Aya"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Aged",
+        "Immunotherapy, Adoptive",
+        "Retrospective Studies",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Follow-Up Studies",
+        "Adult"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40079097/"
+    },
+    {
+      "pmid": "33173198",
+      "title": "The nuclear export protein XPO1 - from biology to targeted therapy.",
+      "abstract": "Exportin 1 (XPO1), also known as chromosome region maintenance protein 1, plays a crucial role in maintaining cellular homeostasis via the regulated export of a range of cargoes, including proteins and several classes of RNAs, from the nucleus to the cytoplasm. Dysregulation of this protein plays a pivotal role in the development of various solid and haematological malignancies. Furthermore, XPO1 is associated with resistance to several standard-of-care therapies, including chemotherapies and targeted therapies, making it an attractive target of novel cancer therapies. Over the years, a number of selective inhibitors of nuclear export have been developed. However, only selinexor has been clinically validated. The novel mechanism of action of XPO1 inhibitors implies a different toxicity profile to that of other agents and has proved challenging in certain settings. Nonetheless, data from clinical trials have led to the approval of the XPO1 inhibitor selinexor (plus dexamethasone) as a f",
+      "journal": "Nature reviews. Clinical oncology",
+      "year": "2021",
+      "authors": [
+        "Azmi Asfar S",
+        "Uddin Mohammed H",
+        "Mohammad Ramzi M"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Cell Line, Tumor",
+        "Dexamethasone",
+        "Drug Resistance, Neoplasm",
+        "Hematologic Neoplasms",
+        "Humans",
+        "Hydrazines",
+        "Karyopherins",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Molecular Targeted Therapy"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33173198/"
+    },
+    {
+      "pmid": "38701792",
+      "title": "Molecular targets of glucocorticoids that elucidate their therapeutic efficacy in aggressive lymphomas.",
+      "abstract": "Glucocorticoids have been used for decades to treat lymphomas without an established mechanism of action. Using functional genomic, proteomic, and chemical screens, we discover that glucocorticoids inhibit oncogenic signaling by the B cell receptor (BCR), a recurrent feature of aggressive B cell malignancies, including diffuse large B cell lymphoma and Burkitt lymphoma. Glucocorticoids induce the glucocorticoid receptor (GR) to directly transactivate genes encoding negative regulators of BCR stability (LAPTM5; KLHL14) and the PI3 kinase pathway (INPP5D; DDIT4). GR directly represses transcription of CSK, a kinase that limits the activity of BCR-proximal Src-family kinases. CSK inhibition attenuates the constitutive BCR signaling of lymphomas by hyperactivating Src-family kinases, triggering their ubiquitination and degradation. With the knowledge that glucocorticoids disable oncogenic BCR signaling, they can now be deployed rationally to treat BCR-dependent aggressive lymphomas and use",
+      "journal": "Cancer cell",
+      "year": "2024",
+      "authors": [
+        "Choi Jaewoo",
+        "Ceribelli Michele",
+        "Phelan James D",
+        "Häupl Björn",
+        "Huang Da Wei"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucocorticoids",
+        "Receptors, Antigen, B-Cell",
+        "Animals",
+        "Signal Transduction",
+        "Receptors, Glucocorticoid",
+        "Mice",
+        "Cell Line, Tumor",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Burkitt Lymphoma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38701792/"
+    },
+    {
+      "pmid": "39015647",
+      "title": "Primary Diffuse Large B-Cell Lymphoma of the Breast with MYC and BCL2 Rearrangements with Terminal Deoxynucleotidyl Transferase Expression: A Case Report.",
+      "abstract": "Primary breast lymphoma represents only 1% of non-Hodgkin lymphomas. The most common histology is diffuse large B-cell lymphoma. When dual translocations of MYC and BCL2 or BCL6 occur, it is referred to as \"high-grade B-cell lymphoma with rearrangements of MYC and BCL2 and/or BCL6\" according to the 4th edition of the WHO classification of hematolymphoid tumors. The expression of tdt in this type of malignancy is exceptional.",
+      "journal": "Case reports in oncology",
+      "year": "2024",
+      "authors": [
+        "Matar Bassam",
+        "Chbat Maureen",
+        "Bitar Houssam",
+        "Rosado Francisco"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39015647/"
+    },
+    {
+      "pmid": "35117512",
+      "title": "Chemotherapy-induced thrombocytopenia and platelet transfusion in patients with diffuse large B-cell lymphoma.",
+      "abstract": "Currently, the risk factors associated with chemotherapy-induced thrombocytopenia (CIT) in patients with diffuse large B-cell lymphoma (DLBCL) are still undefined. Our study aimed to analyze the effects of risk factors on thrombocytopenia and to identify the threshold for infusion platelets of CIT patients who have received platelet transfusions.",
+      "journal": "Translational cancer research",
+      "year": "2020",
+      "authors": [
+        "Lu Rong",
+        "Lin Qiaoyan",
+        "Chen Shan",
+        "Ye Xianren"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35117512/"
+    },
+    {
+      "pmid": "37364464",
+      "title": "Primary diffuse large B-cell lymphoma of the kidney: A rare case report and review of literature.",
+      "abstract": "Lymphoma can either be Hodgkin or non-Hodgkin (NHL) with diffuse large B cell lymphoma (DLBL) being a type of the latter with an aggressive behavior. Although it is common for NHL to involve the kidney in its advanced stages, disease that primarily originates from the kidney is rare and therefore poses a diagnostic challenge.",
+      "journal": "International journal of surgery case reports",
+      "year": "2023",
+      "authors": [
+        "Ngowi Bartholomeo Nicholaus",
+        "Bright Frank",
+        "Mremi Alex",
+        "Kimolo Mathias",
+        "Mteta Alfred Kien"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37364464/"
+    },
+    {
+      "pmid": "30189985",
+      "title": "Painful Oral Lesions.",
+      "abstract": "Painful oral vesiculoerosive diseases (OVD) include lichen planus, pemphigus vulgaris, mucous membrane pemphigoid, erythema multiforme, and recurrent aphthous stomatitis. OVD lesions have an immunopathic cause. Treatment is aimed at reducing the immunologic and the following inflammatory response. The mainstay of OVD management is topical or systemic corticosteroids to include topical triamcinolone, fluocinonide, and clobetasol, whereas systemic medications used in practice can include dexamethasone, prednisone, and prednisolone. Oral herpetic lesions can be primary or recurrent. If management is desired, they can be treated by topical or systemic antiviral drugs. Topical antiviral creams include prescription acyclovir, penciclovir and over-the-counter docosanol.",
+      "journal": "Dental clinics of North America",
+      "year": "2018",
+      "authors": [
+        "Hargitai Istvan A"
+      ],
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Erythema Multiforme",
+        "Facial Pain",
+        "Humans",
+        "Lichen Planus",
+        "Pemphigoid, Benign Mucous Membrane",
+        "Pemphigus",
+        "Stomatitis, Aphthous"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30189985/"
+    },
+    {
+      "pmid": "35832787",
+      "title": "A Case Report: Clinical Efficacy of Combination Treatment of Dexamethasone and Azathioprine in Recurrent Erythema Multiforme.",
+      "abstract": "Recurrent erythema multiforme (REM) may have frequent episodes over a period of several years and is considered to be a hypersensitivity reaction associated with infection or medication. REM is a mucocutaneous disorder which is characterized by targetoid lesions. Most of the cases are caused by herpes simplex virus infection. Systemic corticosteroid is frequently used to treat REM due to its effects in suppressing the disease. When REM is unresponsive to systemic corticosteroid, steroid-sparing treatment needs to be instituted. We reported a case of REM in a 49-year-old male. There were complaints of burning sensations on the skin lesions, along with swelling on both hands. On physical examination, erythematous macules and targetoid lesions were found on both palms, arms, and legs. During hospitalization, dexamethasone 20 mg was administered in a tapering dose but new skin lesions still appeared. Two days after azathioprine 50 mg twice daily was added to the treatment, skin lesions and",
+      "journal": "International medical case reports journal",
+      "year": "2022",
+      "authors": [
+        "Suwarsa Oki",
+        "Dewi Isabella Puspa",
+        "Sutedja Endang",
+        "Dharmadji Hartati Purbo",
+        "Gunawan Hendra"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35832787/"
+    },
+    {
+      "pmid": "38828364",
+      "title": "Vaping as a Risk Factor for Oral Erythema Multiforme: A Case Report and Literature Review.",
+      "abstract": "Erythema multiforme is a hypersensitivity reaction caused by various factors, such as viruses, chemicals, and drugs. Electronic cigarettes (e-cigarettes) or vape is a battery-powered nicotine delivery device that substitutes for traditional cigarettes. The chemical components of vaping, including propylene glycol and nicotine, can cause hypersensitivity reactions.",
+      "journal": "International medical case reports journal",
+      "year": "2024",
+      "authors": [
+        "Santo Agustin Ninintowe T",
+        "Hidayat Wahyu",
+        "Dewi Tenny Setiani"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38828364/"
+    },
+    {
+      "pmid": "37829191",
+      "title": "Probable rivaroxaban-induced erythema multiforme in children: A case report.",
+      "abstract": "Background: Limited data exists on the use of rivaroxaban for the treatment of pediatric patients. This report presents a case of probable rivaroxaban-induced Erythema Multiforme in Children. Case Summary: A female patient aged 5.5 years with antiphospholipid syndrome (APS) was administered oral rivaroxaban tablets 2.5 mg twice a day for 16 days. Subsequently, the patient developed a slight itching sensation on both feet and buttocks without an apparent cause. The following day, erythema multiforme appeared across the body in a scattered pattern. The erythema presented higher than the skin surface and partially merged into areas of the skin. Following an increase in the extent and degree of the erythema, all oral medications were ceased. Treatment with dexamethasone sodium phosphate injection, mometasone furoate cream, and mucopolysaccharide polysulfate cream resulted in an improvement of erythema multiforme. The erythema diminished and did not deteriorate subsequent to changing from r",
+      "journal": "Saudi pharmaceutical journal : SPJ : the official publication of the Saudi Pharmaceutical Society",
+      "year": "2023",
+      "authors": [
+        "Cao Zhongqiang",
+        "Fu Zhengran",
+        "Liu Ying",
+        "Liu Ting",
+        "Zhan Min"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37829191/"
+    },
+    {
+      "pmid": "31327687",
+      "title": "Pembrolizumab plus pomalidomide and dexamethasone for patients with relapsed or refractory multiple myeloma (KEYNOTE-183): a randomised, open-label, phase 3 trial.",
+      "abstract": "Pomalidomide and dexamethasone is a standard of care for patients with multiple myeloma in whom bortezomib and lenalidomide treatment has failed. KEYNOTE-183 assessed efficacy and safety of pomalidomide and dexamethasone with or without pembrolizumab in patients with relapsed or refractory multiple myeloma. Here, we present the findings of an unplanned, ad-hoc interim analysis at the request of the US Food and Drug Administration (FDA).",
+      "journal": "The Lancet. Haematology",
+      "year": "2019",
+      "authors": [
+        "Mateos Maria-Victoria",
+        "Blacklock Hilary",
+        "Schjesvold Fredrik",
+        "Oriol Albert",
+        "Simpson David"
+      ],
+      "pub_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Antibodies, Monoclonal, Humanized",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Dexamethasone",
+        "Drug Administration Schedule",
+        "Female",
+        "Humans",
+        "Male",
+        "Multiple Myeloma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31327687/"
+    },
+    {
+      "pmid": "9118633",
+      "title": "Morbilliform erythema-multiforme-like eruption from desoxymethasone.",
+      "abstract": "",
+      "journal": "Contact dermatitis",
+      "year": "1996",
+      "authors": [
+        "Stingeni L",
+        "Hansel K",
+        "Lisi P"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Anti-Inflammatory Agents",
+        "Chronic Disease",
+        "Dermatitis, Allergic Contact",
+        "Desoximetasone",
+        "Drug Eruptions",
+        "Emulsions",
+        "Erythema Multiforme",
+        "Follow-Up Studies",
+        "Glucocorticoids"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9118633/"
+    },
+    {
+      "pmid": "8809612",
+      "title": "Toxic epidermal necrolysis.",
+      "abstract": "Most studies on drug-induced toxic epidermal necrolysis (TEN) report a high mortality rate. This has been attributed partly to the use of corticosteroids for its treatment. However, we consider corticosteroids to be the sheet anchor for saving the patients having TEN.",
+      "journal": "International journal of dermatology",
+      "year": "1996",
+      "authors": [
+        "Pasricha J S",
+        "Khaitan B K",
+        "Shantharaman R",
+        "Mital A",
+        "Girdhar M"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Child",
+        "Dexamethasone",
+        "Female",
+        "Glucocorticoids",
+        "Humans",
+        "Male",
+        "Stevens-Johnson Syndrome"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8809612/"
+    },
+    {
+      "pmid": "14184734",
+      "title": "[LYELL'S SYNDROME].",
+      "abstract": "",
+      "journal": "Bulletin de la Societe francaise de dermatologie et de syphiligraphie",
+      "year": "1964",
+      "authors": [
+        "LAUGIER P",
+        "GISSELBRECHT H",
+        "RISOLD J P",
+        "PAGEAULT G"
+      ],
+      "pub_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Amino Alcohols",
+        "Aminopyrine",
+        "Ascorbic Acid",
+        "Blood Protein Electrophoresis",
+        "Dexamethasone",
+        "Humans",
+        "Hypoproteinemia",
+        "Immunoelectrophoresis",
+        "Leukocyte Disorders",
+        "Leukopenia"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14184734/"
+    },
+    {
+      "pmid": "33511662",
+      "title": "COVID-19-induced toxic epidermal necrolysis.",
+      "abstract": "",
+      "journal": "Clinical and experimental dermatology",
+      "year": "2021",
+      "authors": [
+        "Narang I",
+        "Panthagani A P",
+        "Lewis M",
+        "Chohan B",
+        "Ferguson A"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Adrenal Cortex Hormones",
+        "Androstadienes",
+        "Aromatase Inhibitors",
+        "Body Surface Area",
+        "Bone Neoplasms",
+        "Brain Neoplasms",
+        "Breast Neoplasms",
+        "COVID-19",
+        "Dexamethasone",
+        "Emollients"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33511662/"
+    },
+    {
+      "pmid": "28128086",
+      "title": "Vesicular Contact Reaction May Progress into Erythema Multiforme.",
+      "abstract": "Dear Editor, Erythema multiforme is considered an acute skin condition, characterized by a self-limiting and sometimes recurrent course. It is regarded as a type IV hypersensitivity reaction associated with certain infections, medications, and other various triggers. Allergic contact dermatitis is in turn a delayed type of induced allergy as a result of cutaneous contact with a specific allergen to which the patient develops specific sensitivity. This type of cutaneous reaction is associated with inflammation manifesting with erythema, edema, and vesicles. A 27-year old female patient presented with a 3-day history of erythematous and vesicular lesions which developed 24 hours after cesarean section. Initially the lesions were localized in the area of surgery (mainly the abdomen and upper thighs) and on the next day progressed to the buttocks and lumbar area. The patient was referred to the Outpatient Clinic and was treated with antihistamines, but her dermatological state deteriorated",
+      "journal": "Acta dermatovenerologica Croatica : ADC",
+      "year": "2016",
+      "authors": [
+        "Czarnecka-Operacz Magdalena",
+        "Jenerowicz Dorota",
+        "Szulczyńska-Gabor Joanna",
+        "Teresiak-Mikołajczak Ewa",
+        "Szyfter-Harris Joanna"
+      ],
+      "pub_types": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Allergens",
+        "Cesarean Section",
+        "Dermatitis, Allergic Contact",
+        "Disease Progression",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Erythema Multiforme",
+        "Female",
+        "Follow-Up Studies",
+        "Humans"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28128086/"
+    }
+  ]
+}

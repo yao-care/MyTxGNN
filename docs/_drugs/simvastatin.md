@@ -5,7 +5,7 @@ drugbank_id: "DB00641"
 drug_name: "Simvastatin"
 kg_predictions: 528
 dl_predictions: 120
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 528
 brands: []
 permalink: /drugs/simvastatin/
@@ -21,7 +21,7 @@ permalink: /drugs/simvastatin/
 | **DrugBank ID** | [DB00641](https://go.drugbank.com/drugs/DB00641) |
 | **KG Predictions** | 528 |
 | **DL Predictions (≥0.7)** | 120 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

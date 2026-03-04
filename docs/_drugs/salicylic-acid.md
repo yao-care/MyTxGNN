@@ -5,7 +5,7 @@ drugbank_id: "DB00936"
 drug_name: "Salicylic Acid"
 kg_predictions: 567
 dl_predictions: 282
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 567
 brands: []
 permalink: /drugs/salicylic-acid/
@@ -21,7 +21,7 @@ permalink: /drugs/salicylic-acid/
 | **DrugBank ID** | [DB00936](https://go.drugbank.com/drugs/DB00936) |
 | **KG Predictions** | 567 |
 | **DL Predictions (≥0.7)** | 282 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

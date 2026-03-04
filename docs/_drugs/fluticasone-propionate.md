@@ -5,7 +5,7 @@ drugbank_id: "DB00588"
 drug_name: "Fluticasone Propionate"
 kg_predictions: 540
 dl_predictions: 110
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 540
 brands: []
 permalink: /drugs/fluticasone-propionate/
@@ -21,7 +21,7 @@ permalink: /drugs/fluticasone-propionate/
 | **DrugBank ID** | [DB00588](https://go.drugbank.com/drugs/DB00588) |
 | **KG Predictions** | 540 |
 | **DL Predictions (≥0.7)** | 110 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---

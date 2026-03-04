@@ -5,7 +5,7 @@ drugbank_id: "DB00115"
 drug_name: "Cyanocobalamin"
 kg_predictions: 320
 dl_predictions: 113
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 320
 brands: []
 permalink: /drugs/cyanocobalamin/
@@ -21,7 +21,7 @@ permalink: /drugs/cyanocobalamin/
 | **DrugBank ID** | [DB00115](https://go.drugbank.com/drugs/DB00115) |
 | **KG Predictions** | 320 |
 | **DL Predictions (≥0.7)** | 113 |
-| **Evidence Level** | L5 |
+| **Evidence Level** | L1 |
 | **NPRA Status** | Approved |
 
 ---
