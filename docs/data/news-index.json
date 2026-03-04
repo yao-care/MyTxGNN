@@ -64,9 +64,27 @@
           "slug": "cancer"
         }
       ]
+    },
+    {
+      "title": "‘Diabetes prevention neutralised’",
+      "published": "2026-03-03T16:00:00",
+      "sources": [
+        {
+          "name": "The Star Health",
+          "link": "https://www.thestar.com.my/news/nation/2026/03/04/diabetes-prevention-neutralised"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "Diabetes Mellitus",
+          "keyword": "diabetes",
+          "slug": "diabetes-mellitus"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-03-04T08:57:00.157583Z",
+  "last_updated": "2026-03-04T01:04:19.988049Z",
   "sources": [
     "CodeBlue",
     "The Star",

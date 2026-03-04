@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-03T14:26:22.922801",
+  "fetched": "2026-03-04T01:04:19.902658",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 14,
   "items": [
+    {
+      "title": "LIAM Alleges Average Medical Insurance Claim Only RM12,000",
+      "url": "https://codeblue.galencentre.org/2026/03/liam-alleges-average-medical-insurance-claim-only-rm12000/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-03T07:26:57",
+      "summary": "In defending the RM100k annual limit under the Base MHIT plan, LIAM claims that the average medical claim is only RM12,000, even though many ITOs in the insurance industry regularly tout policies with RM1m or higher annual limits for medical emergencies. The post LIAM Alleges Average Medical Insurance Claim Only RM12,000 appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Malaysia Is Running Out Of Caregivers And Time — Rashidi Yahaya",
       "url": "https://codeblue.galencentre.org/2026/03/malaysia-is-running-out-of-caregivers-and-time-rashidi-yahaya/",
@@ -116,24 +126,45 @@
       ]
     },
     {
-      "title": "Beyond Turf: Safeguarding Malaysia’s Clinical Core Before It Thins — Dr Musa Mohd Nordin",
-      "url": "https://codeblue.galencentre.org/2026/03/beyond-turf-safeguarding-malaysias-clinical-core-before-it-thins-dr-musa-mohd-nordin/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-02T02:30:00",
-      "summary": "The current debate should not centre on which scheme expands its domain. It should centre on sustaining the full spectrum of health care delivery. The post Beyond Turf: Safeguarding Malaysia’s Clinical Core Before It Thins — Dr Musa Mohd Nordin appeared first on CodeBlue .",
+      "title": "‘Diabetes prevention neutralised’",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/04/diabetes-prevention-neutralised",
+      "source": "The Star Health",
+      "published": "2026-03-03T16:00:00",
+      "summary": "The \"add and subtract\" measures on the sugar industry seem to have neutralised the government's efforts at diabetes prevention, says Datuk Seri Dr Wee Ka Siong (pic). Read full story",
       "keywords_matched": [
-        "health",
-        "clinical"
+        "diabetes"
       ]
     },
     {
-      "title": "Rosmah fails final bid to remove judge or get retrial, appellate court to hear solar bribery appeal over 10-year jail, RM970m fine",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/03/rosmah-fails-final-bid-to-remove-judge-or-get-retrial-appellate-court-to-hear-solar-bribery-appeal-over-10-year-jail-rm970m-fine/211109",
+      "title": "Explained: Why Rosmah couldn’t ‘reset’ her bribery trial and lost all three tries to remove judge",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/04/explained-why-rosmah-couldnt-reset-her-bribery-trial-and-lost-all-three-tries-to-remove-judge/211205",
       "source": "Malay Mail",
-      "published": "2026-03-03T04:15:37",
-      "summary": "PUTRAJAYA, March 3 — Datin Seri Rosmah Mansor today failed in her last bid to recuse or remove the judge who found...",
+      "published": "2026-03-03T23:00:00",
+      "summary": "KUALA LUMPUR, March 4 — Datin Seri Rosmah Mansor has officially exhausted all available legal avenues to press the...",
       "keywords_matched": [
         "trial"
+      ]
+    },
+    {
+      "title": "Absence explained: Libaran MP in hospital, Tapah MP at prayers during PM tenure vote",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/03/absence-explained-libaran-mp-in-hospital-tapah-mp-at-prayers-during-pm-tenure-vote/211192",
+      "source": "Malay Mail",
+      "published": "2026-03-03T09:28:39",
+      "summary": "KUALA LUMPUR, March 3 — Government spokesman Datuk Fahmi Fadzil said Datuk Suhaimi Nasir (Libaran) was hospitalise...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Welfare dept seeks mother who left baby girl at Seberang Jaya hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/03/welfare-dept-seeks-mother-who-left-baby-girl-at-seberang-jaya-hospital/211181",
+      "source": "Malay Mail",
+      "published": "2026-03-03T09:01:12",
+      "summary": "BUKIT MERTAJAM, March 3 — The Seberang Perai Tengah Social Welfare Department (JKM) Office is seeking the biologic...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
