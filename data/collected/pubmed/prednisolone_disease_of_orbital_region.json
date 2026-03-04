@@ -1,0 +1,577 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Prednisolone",
+    "disease": "disease of orbital region",
+    "query_string": "Prednisolone AND disease of orbital region"
+  },
+  "data": {
+    "query": "Prednisolone AND disease of orbital region",
+    "results": [
+      {
+        "pmid": "34297684",
+        "title": "The 2021 European Group on Graves' orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves' orbitopathy.",
+        "abstract": "Graves' orbitopathy (GO) is the main extrathyroidal manifestation of Graves' disease (GD). Choice of treatment should be based on the assessment of clinical activity and severity of GO. Early referral to specialized centers is fundamental for most patients with GO. Risk factors include smoking, thyroid dysfunction, high serum level of thyrotropin receptor antibodies, radioactive iodine (RAI) treatment, and hypercholesterolemia. In mild and active GO, control of risk factors, local treatments, and selenium (selenium-deficient areas) are usually sufficient; if RAI treatment is selected to manage GD, low-dose oral prednisone prophylaxis is needed, especially if risk factors coexist. For both active moderate-to-severe and sight-threatening GO, antithyroid drugs are preferred when managing Graves' hyperthyroidism. In moderate-to-severe and active GO i.v. glucocorticoids are more effective and better tolerated than oral glucocorticoids. Based on current evidence and efficacy/safety profile, ",
+        "journal": "European journal of endocrinology",
+        "year": "2021",
+        "authors": [
+          "Bartalena L",
+          "Kahaly G J",
+          "Baldeschi L",
+          "Dayan C M",
+          "Eckstein A"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Antithyroid Agents",
+          "Diagnostic Techniques, Endocrine",
+          "Endocrine Surgical Procedures",
+          "Endocrinology",
+          "Europe",
+          "Graves Ophthalmopathy",
+          "History, 21st Century",
+          "Humans",
+          "Ophthalmologic Surgical Procedures",
+          "Practice Patterns, Physicians'"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34297684/"
+      },
+      {
+        "pmid": "27097061",
+        "title": "Clinical Features and Treatment Outcomes of Orbital Inflammatory Disease in Singapore: A 10-Year Clinicopathologic Review.",
+        "abstract": "1) To assess the clinical profile and treatment outcomes of orbital inflammatory disease in the local population, and 2) classify patients using current histopathological criteria.",
+        "journal": "Ophthalmic plastic and reconstructive surgery",
+        "year": "2017",
+        "authors": [
+          "Young Stephanie M",
+          "Chan Anita S Y",
+          "Jajeh Issam Al",
+          "Shen Sunny",
+          "Seah Lay-Leng"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Biopsy",
+          "Female",
+          "Follow-Up Studies",
+          "Forecasting",
+          "Glucocorticoids",
+          "Humans",
+          "Immunosuppressive Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27097061/"
+      },
+      {
+        "pmid": "16966618",
+        "title": "Idiopathic sclerosing orbital inflammation.",
+        "abstract": "To perform a multicenter review of the clinical features and treatment of 31 patients with idiopathic sclerosing orbital inflammation.",
+        "journal": "Archives of ophthalmology (Chicago, Ill. : 1960)",
+        "year": "2006",
+        "authors": [
+          "Hsuan James D",
+          "Selva Dinesh",
+          "McNab Alan A",
+          "Sullivan Timothy J",
+          "Saeed Peerooz"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Child",
+          "Diagnostic Techniques, Ophthalmological",
+          "Female",
+          "Glucocorticoids",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16966618/"
+      },
+      {
+        "pmid": "23738161",
+        "title": "Steroid-resistant extranodal rosai-dorfman disease of cheek mass and ptosis treated with radiation therapy.",
+        "abstract": "Background. Rosai-Dorfman Disease (RDD) is rare benign hematologic disorder of histiocytes, which usually manifests as painless lymphadenopathy, fever, leukocytosis and hypergammaglobulinemia. Extranodal RDD has been reported in 43% of cases, with skin as commonly involved site followed by head and neck region. However, soft tissue cheek mass is rare presentation of extra-nodal RDD. Case Presentation. A 26-year-old Saudi man presented with a six-month history of right cheek swelling and left upper eyelid swelling. Physical examination revealed right cheek mass of size 3 × 3 cm and left upper eyelid mass of size 1 × 2 cm and no palpable cervical lymphadenopathy. Incisional biopsy of cheek mass showed positivity for S100 and negativity for CD1a, consistent with extra-nodal RDD. Patient did not respond to systemic steroids and was given radiation therapy to left orbit with minimal response. Then, he was started on chemotherapy Rituximab, cyclophosphamide, vincristine, and prednisolone (RC",
+        "journal": "Case reports in hematology",
+        "year": "2013",
+        "authors": [
+          "Maklad Ahmed Marzouk",
+          "Bayoumi Yasser",
+          "Tunio Mutahir",
+          "Alshakweer Wafaa",
+          "Dahar Mashooque A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23738161/"
+      },
+      {
+        "pmid": "29915191",
+        "title": "A British Ophthalmological Surveillance Unit (BOSU) study into dysthyroid optic neuropathy in the United Kingdom.",
+        "abstract": "This prospective British Ophthalmological Surveillance Unit (BOSU) study on dysthyroid optic neuropathy (DON) determines the incidence, presenting features and management throughout the UK. New cases were identified through the BOSU yellow card and an initial questionnaire and a subsequent 9-month follow-up questionnaire were posted out. From August 2015 to August 2016 DON was reported in 49 patients with 71 eyes affected, 22 patients had bilateral DON. The most common presenting symptom was blurred vision (83%) and the most common examination finding was upgaze restriction (85%). 85% of patients were initially treated with 3 days of either 1 g or 500 mg intravenous methyl prednisolone. We received 25 follow-up questionnaires (51% of the initial cohort) with 38 eyes treated for DON and 13 bilateral cases. The average steroid dose over 9 months was 4.5 g and 47% of patients had a surgical orbital decompression. The mean visual acuity gain after 9 months of follow-up for all patients was",
+        "journal": "Eye (London, England)",
+        "year": "2018",
+        "authors": [
+          "Wong Yun",
+          "Dickinson Jane",
+          "Perros Petros",
+          "Dayan Colin",
+          "Veeramani Pratibha"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Decompression, Surgical",
+          "Glucocorticoids",
+          "Graves Ophthalmopathy",
+          "Humans",
+          "Incidence",
+          "Ocular Motility Disorders",
+          "Ophthalmologic Surgical Procedures",
+          "Optic Nerve Diseases",
+          "Prospective Studies",
+          "United Kingdom"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29915191/"
+      },
+      {
+        "pmid": "33027244",
+        "title": "Internuclear Ophthalmoplegia as the First Manifestation of Pediatric-Onset Multiple Sclerosis and Concurrent Lyme Disease.",
+        "abstract": "BACKGROUND Internuclear ophthalmoplegia (INO) presents as a disruption of horizontal conjugate ocular movement and is an uncommon finding in the pediatric population. Its presence warrants a thorough evaluation to search for demyelinating, mass effect, inflammatory, or infectious etiologies. CASE REPORT A 15-year-old African American girl presented to the Emergency Department with acute horizontal binocular diplopia in left gaze. An ophthalmic examination revealed a right INO. She denied any fever, chills, or neck stiffness. Complete blood counts and a metabolic panel were unremarkable. Magnetic resonance imaging (MRI) of the brain and orbits revealed scattered pontine, periventricular, and subcortical white matter signal abnormalities within the left frontal lobe suggestive of active demyelination. MRI of the spinal column also demonstrated multiple areas of increased signal intensity from the C3 to C7-T1 region. Inflammatory and autoimmune studies were negative. However, her serum Ig",
+        "journal": "The American journal of case reports",
+        "year": "2020",
+        "authors": [
+          "Chao Jonathan",
+          "Saleem Sandal",
+          "Tausif Hassan N",
+          "Levasseur Kelly",
+          "Stec Lori A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Female",
+          "Humans",
+          "Lyme Disease",
+          "Magnetic Resonance Imaging",
+          "Methylprednisolone",
+          "Multiple Sclerosis",
+          "Ocular Motility Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33027244/"
+      },
+      {
+        "pmid": "21957952",
+        "title": "Orbital cysticercosis, case report and review.",
+        "abstract": "Orbital cysticercosis is secondary to an infestation by cysticercus cellulosae, the larval form of Taenia solium.Orbital cysticercosis may present with a wide spectrum of clinical findings and result in significant ocular morbidity. Although traditionally thought to be only prevalent in endemic regions with poor sanitation, immigration requires even ophthalmologists practicing in industrialised counties to be aware of this masquerading condition's presentation and treatment.We report the clinical manifestation of a case of orbital cysticersosis that presented with recurrent orbital inflammation for almost a year. We also present a literature review of the different ocular manifestations, diagnostic and treatment modalities.",
+        "journal": "Orbit (Amsterdam, Netherlands)",
+        "year": "2011",
+        "authors": [
+          "Ziaei Mohammed",
+          "Elgohary Mostafa",
+          "Bremner Fion D"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "Cysticercosis",
+          "Cysticercus",
+          "Drug Therapy, Combination",
+          "Eye Infections, Parasitic",
+          "Follow-Up Studies",
+          "Humans",
+          "Male",
+          "Orbital Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21957952/"
+      },
+      {
+        "pmid": "11784839",
+        "title": "Evaluation of the management of optic neuritis: audit on the neurological and ophthalmological practice in the north west of England.",
+        "abstract": "The management of acute optic neuritis by neurologists and ophthalmologists in the north west of England was assessed in the light of the Optic Neuritis Treatment Trial (ONTT) recommendations. A questionnaire on a fictitious case of typical unilateral optic neuritis was mailed to all consultant ophthalmologists and neurologists working in the North West and Merseyside Health Authorities. They were then asked to comment on management of the case. Fifty two out of 86 ophthalmologists and 20 out of 28 neurologists replied. The overall response rate was 63%. Sixty five per cent of neurologists and 46% of ophthalmologists would investigate a typical case of acute optic neuritis further. Forty six per cent of neurologists and 36% of ophthalmologists were likely to arrange MRI of the brain or orbit. Significantly more neurologists (55%) than ophthalmologists (9%) chose to treat with intravenous methylprednisolone (p<0.005). Significantly more ophthalmologists (64%) than neurologists (32%) cho",
+        "journal": "Journal of neurology, neurosurgery, and psychiatry",
+        "year": "2002",
+        "authors": [
+          "Ghosh A",
+          "Kelly S P",
+          "Mathews J",
+          "Cooper P N",
+          "Macdermott N"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Diagnosis, Differential",
+          "England",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Medical Audit",
+          "Methylprednisolone",
+          "Neurology",
+          "Ophthalmology",
+          "Optic Neuritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11784839/"
+      },
+      {
+        "pmid": "38329273",
+        "title": "First case of presumed trigemino-oculomotor synkinesis in a dog.",
+        "abstract": "An 11-year old, intact male Border Collie was referred with a history of subacute and progressive left eye exophthalmos and mydriasis associated with reduced pupillary light reflex, ventrolateral strabismus, and absence of physiologic nystagmus in the left eye. Neuroanatomical localization was consistent with a left oculomotor neuropathy, involving the general somatic and visceral parasympathetic efferent components. Computed tomography and magnetic resonance imaging of the head were performed. Imaging findings were consistent with an infectious-inflammatory process involving the left retrobulbar space and regional muscles, extending intracranially through the left orbital fissure. Cerebrospinal fluid (CSF) was collected from the cerebellomedullary cistern, and the analysis revealed albuminocytologic dissociation. The dog was treated with amoxicillin and clavulanic acid and prednisolone at anti-inflammatory dose; a significant improvement of neurologic status was observed afterward. Ho",
+        "journal": "Veterinary ophthalmology",
+        "year": "2024",
+        "authors": [
+          "Pompilio Silvia",
+          "Scuttari Michela",
+          "Zerbetto Katia",
+          "Andreis Maria Elena",
+          "Tirrito Federica"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Dogs",
+          "Male",
+          "Dog Diseases",
+          "Synkinesis",
+          "Magnetic Resonance Imaging"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38329273/"
+      },
+      {
+        "pmid": "23341818",
+        "title": "Combined lateral orbitotomy and endoscopic transnasal orbital decompression in a case of orbital aspergillosis with impending intracranial invasion.",
+        "abstract": "A 64-year-old man with a known history of diabetes and hypertension presented to the Accident and Emergency Department with a 2-day history of sudden decreased vision in the right eye. Temporal arteritis was suspected with an elevated erythrocyte sedimentation rate (71 mm/h), and oral prednisolone was started immediately. Four days later, the patient's right eye vision deteriorated from 0.6 to 0.05, with a grade-4 relative afferent pupillary defect and ophthalmoplegia. Computed tomography showed a contrast-enhancing orbital apex mass in the right orbit abutting the medial and lateral portions of the optic nerve with extension to the posterior ethmoid and sphenoid sinuses. A transethmoidal biopsy was performed which yielded septate hyphae suggestive of Aspergillus infection. Ten days later, the patient's right eye vision further deteriorated to hand movement with total ophthalmoplegia. MRI of the orbit showed suspicion of cavernous sinus thrombosis. A combined lateral orbitotomy and tra",
+        "journal": "Case reports in ophthalmology",
+        "year": "2012",
+        "authors": [
+          "Chan Jeffrey C W",
+          "Yu Derek K H",
+          "Lee Dennis L Y",
+          "Abdullah V J",
+          "Li Kenneth K W"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23341818/"
+      },
+      {
+        "pmid": "23037479",
+        "title": "Angioedema of the periorbital region that developed during treatment with etanercept in a case of refractory adult-onset Still's disease.",
+        "abstract": "A 78-year-old Japanese man with adult-onset Still's disease that was refractory to conventional treatment, such as prednisolone (PSL) concomitant with methotrexate (MTX). Etanercept (50 mg/week) was added to PSL (12.5 mg/day) and MTX (12 mg/week). His manifestation improved dramatically, nonetheless massive edema of the periorbital region developed by the fourth injection, which kept his palpebral fissure completely closed. There was also a marked injection site reaction to etanercept. A diagnosis of angioedema due to etanercept was thus made, and the drug was discontinued. His angioedema began to ameliorate soon after antihistamines were introduced without any critical involvement, such as laryngeal obstruction.",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "year": "2012",
+        "authors": [
+          "Kato Takashi",
+          "Noguchi Kei",
+          "Uehara Masahiro",
+          "Nobuhara Mamoru",
+          "Takahashi Satoru"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Angioedema",
+          "Antirheumatic Agents",
+          "Drug Hypersensitivity",
+          "Etanercept",
+          "Humans",
+          "Immunoglobulin G",
+          "Male",
+          "Methotrexate",
+          "Orbital Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23037479/"
+      },
+      {
+        "pmid": "41774284",
+        "title": "Surgically induced necrotizing scleritis after orbital surgery with intraconal tumor excision: a case report.",
+        "abstract": "Surgically induced necrotizing scleritis (SINS) is a blinding ocular disease characterized byinfl ammation with scleral necrosis. It occurs as early as one day after ocular surgery, although it can also occur years later. Commonly, it occurs after pterygium and cataract surgeries CASE PRESENTATION: Here, we report a case of a 40-year-old woman with underlying diabetes mellitus whounderwent a successful excisional biopsy via a swinging upper eyelid approach with lateral canthotomy andcantholysis, along with disinsertion of the superior and lateral rectus muscles, for an orbital cavernous venousmalformation. However, 9 weeks postoperatively, the patient developed persistent pain in the right eye (RE),especially with lateral gaze, which was not relieved with oral ibuprofen. At 16 weeks postoperative, an RE focal areaof scleral necrosis with surrounding conjunctival injection was noted at the superotemporal bulbar region. Magneticresonance imaging of the orbit and brain revealed RE focal t",
+        "journal": "International ophthalmology",
+        "year": "2026",
+        "authors": [
+          "Patrick Sylves",
+          "Rashid Jasmine",
+          "Chua Shee Wen",
+          "Juares Rizal Amalina",
+          "Hanafi Hanida"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774284/"
+      },
+      {
+        "pmid": "15272816",
+        "title": "Diagnostic difficulties in a case of isolated sarcoidosis of the nose and sinuses.",
+        "abstract": "Sarcoidosis still remains a diagnosis of exclusion. It is unusual for the disease to be localised in the nose and sinuses and to manifest its symptoms in this site; the diagnosis in such cases is rather a difficult task. There is no symptom pathognomonic of the disease. A major role in the diagnosis of sarcoidosis is played by histologic evidence on the basis of which additional tests can be used. We present a case of primary sarcoidosis of the nose and sinuses which involved the orbit and had non-specific symptoms in the sinonasal region. The diagnosis of sarcoidosis was made ultimately only after decalcification of sample material taken from the ethmoidal labyrinth. Interspersed among the bone trabeculae there were the typical epithelioid cellular granulomas composed of epithelioid cells with round nuclei and prominent nucleoli, Langhans'-type giant cells, and a tender rim of chronic inflammatory infiltrate in the periphery. After initial beneficial response to the administered corti",
+        "journal": "Folia medica",
+        "year": "2003",
+        "authors": [
+          "Djambazov Karen B",
+          "Nikolov Dimitar G",
+          "Chonova Emilia V",
+          "Traikova Nikoleta I"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Biopsy, Needle",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Immunohistochemistry",
+          "Nose Diseases",
+          "Paranasal Sinus Diseases",
+          "Risk Assessment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15272816/"
+      },
+      {
+        "pmid": "29685738",
+        "title": "[Idiopathic orbital inflammatory syndrome: Report of 24 cases].",
+        "abstract": "Idiopathic orbital inflammatory syndrome (IOIS) is an inflammatory condition of unknown etiology. The inflammation may affect all the structures within the orbit (anterior, diffuse, apical, myositic, dacryoadenitis) and corresponds to uniquely orbital inflammation without an identifiable local cause or systemic disease. The goal of this study is to describe the clinical and radiographic characteristics of IOIS and discuss the role of orbital biopsy in this condition.",
+        "journal": "Journal francais d'ophtalmologie",
+        "year": "2018",
+        "authors": [
+          "Khochtali S",
+          "Zayani M",
+          "Ksiaa I",
+          "Ben Meriem I",
+          "Zaouali S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Biopsy",
+          "Female",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Magnetic Resonance Imaging",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29685738/"
+      },
+      {
+        "pmid": "29693233",
+        "title": "Management of optic neuritis in Ireland: a survey comparing the management practices of acute demyelinating optic neuritis amongst ophthalmologists and neurologists in Ireland.",
+        "abstract": "Acute optic neuritis (ON) is often the first manifestation of multiple sclerosis which is particularly common in Ireland. Despite the specific clinical details regarding investigations and management of ON provided by the Optic Neuritis Treatment Trial (ONTT), international surveys have shown that there are still notable differences in the management of ON between neurologists and ophthalmologists.",
+        "journal": "Irish journal of medical science",
+        "year": "2019",
+        "authors": [
+          "Kobayter Lina",
+          "Chetty Shivona"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Clinical Laboratory Techniques",
+          "Demyelinating Diseases",
+          "Female",
+          "Glucocorticoids",
+          "Health Care Surveys",
+          "Humans",
+          "Ireland",
+          "Magnetic Resonance Imaging",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29693233/"
+      },
+      {
+        "pmid": "23133815",
+        "title": "Efficacy of (99m)Tc-EDDA/HYNIC-TOC SPECT/CT scintigraphy in Graves' ophthalmopathy.",
+        "abstract": "The aim of this study was to investigate the predictive role of the orbital somatostatin receptor scintigraphy with (99m)Tc-EDDA/HYNIC-TOC ((99m)Tc-TOC) to detect clinical stage of Graves' ophthalmopathy and the response to corticosteroid therapy. The subjects of the experiment were 46 patients with Graves' ophthalmopathy (GO) and four volunteers without eye disease or GO as the normal group (NG). Single photon emission computed tomography (SPECT), computed tomography (CT) and the left and right lateral position planar imaging of the heads of the all subjects were obtained 4 h after the intravenous injection of 555 MBq of (99m)Tc-TOC. The (99m)Tc-TOC SPECT/CT was repeated 3 months later. 35 (35/46) patients were received corticosteroid therapy (prednisolone, 10 mg po tid ) for 3 months, however, the other 11 patients as control groups did not receive any treatment. The treatment effect was evaluated both by the orbital (99m)Tc-TOC uptake and NOSPECS. A significant decrease in the O/OC ",
+        "journal": "American journal of nuclear medicine and molecular imaging",
+        "year": "2012",
+        "authors": [
+          "Zhao Rong",
+          "Wang Jiang",
+          "Deng Jinglan",
+          "Yang Weidong",
+          "Wang Jing"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23133815/"
+      },
+      {
+        "pmid": "15124526",
+        "title": "Clinical analysis of 106 cases with elevated intraocular pressure in thyroid-associated ophthalmopathy.",
+        "abstract": "To summarize the clinical manifestation of thyroid-associated ophthalmopathy (TAO) with elevated intraocular pressure (IOP), and to analyze the contributing factors.",
+        "journal": "Yan ke xue bao = Eye science",
+        "year": "2004",
+        "authors": [
+          "He Jianfeng",
+          "Wu Zhongyao",
+          "Yan Jianhua",
+          "Yang Huasheng",
+          "Mao Yuxiang"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "China",
+          "Diagnosis, Differential",
+          "Female",
+          "Glaucoma",
+          "Graves Disease",
+          "Humans",
+          "Male",
+          "Methylprednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15124526/"
+      },
+      {
+        "pmid": "17947227",
+        "title": "Efficacy of chemotherapy as a first-line treatment in ocular adnexal extranodal marginal zone B-cell lymphoma.",
+        "abstract": "Radiotherapy is commonly used as a first-line treatment for localized ocular adnexal extranodal marginal zone B-cell lymphoma (EMZBL), despite its ophthalmologic complications. This study was undertaken to analyze the efficacy of first-line chemotherapy in treating EMZBL. Chemotherapy was followed by radiotherapy only in recurrent cases.",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2008",
+        "authors": [
+          "Song E-K",
+          "Kim S-Y",
+          "Kim T M",
+          "Lee K-W",
+          "Yun T"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cohort Studies",
+          "Cyclophosphamide",
+          "Dose-Response Relationship, Drug",
+          "Doxorubicin",
+          "Drug Administration Schedule",
+          "Eye Neoplasms",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17947227/"
+      },
+      {
+        "pmid": "22272561",
+        "title": "Treatment of orbital inflammation with rituximab in Wegener's granulomatosis.",
+        "abstract": "To study the efficacy of rituximab therapy for the treatment of orbital inflammation in patients with Wegener's granulomatosis (WG).",
+        "journal": "Clinical and experimental rheumatology",
+        "year": "2012",
+        "authors": [
+          "Baslund Bo",
+          "Wiencke Anne Katrine",
+          "Rasmussen Niels",
+          "Faurschou Mikkel",
+          "Toft Peter Bjerre"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Denmark",
+          "Female",
+          "Granulomatosis with Polyangiitis",
+          "Humans",
+          "Immunologic Factors",
+          "Inflammation",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22272561/"
+      },
+      {
+        "pmid": "11001189",
+        "title": "Orbital apex lesion as the presenting manifestation of sarcoidosis.",
+        "abstract": "A 32-year-old black woman presented with progressive proptosis, diplopia, and optic disc edema of the right eye. A computed tomography scan of the orbit showed a right retroorbital mass. A gallium scan showed increased radiotracer activity in the right retroorbital region. Biopsy of the mass showed non-caseating granulomas that were compatible with sarcoidosis. The patient was treated with systemic steroids, and the proptosis and diplopia resolved. Seven months later, the patient presented with contralateral optic neuropathy. Neuroimaging showed enlargement of the left optic nerve. The patient again responded to systemic steroid treatment and experienced complete restoration of vision. An orbital apex lesion may be the presenting manifestation of sarcoidosis.",
+        "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+        "year": "2000",
+        "authors": [
+          "Segal E I",
+          "Tang R A",
+          "Lee A G",
+          "Roberts D L",
+          "Campbell G A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Diplopia",
+          "Exophthalmos",
+          "Female",
+          "Gallium Radioisotopes",
+          "Glucocorticoids",
+          "Granuloma",
+          "Humans",
+          "Methylprednisolone",
+          "Optic Nerve Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11001189/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T11:23:24.023169",
+  "success": true,
+  "error_message": null
+}

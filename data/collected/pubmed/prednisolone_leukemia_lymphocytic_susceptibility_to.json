@@ -1,0 +1,531 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Prednisolone",
+    "disease": "leukemia, lymphocytic, susceptibility to",
+    "query_string": "Prednisolone AND leukemia, lymphocytic, susceptibility to"
+  },
+  "data": {
+    "query": "Prednisolone AND leukemia, lymphocytic, susceptibility to",
+    "results": [
+      {
+        "pmid": "23128824",
+        "title": "Combination of prednisolone and low dosed dexamethasone exhibits greater in vitro antileukemic activity than equiactive dose of prednisolone and overcomes prednisolone drug resistance in acute childhood lymphoblastic leukemia.",
+        "abstract": "Glucocorticoids, particularly prednisone/ prednisolone and dexamethasone, play a prominent role in the treatment of pediatric patients with acute lymphoblastic leukemia due to their ability to induce apoptosis in susceptible cells. Current therapeutic protocols use prednisone for both the prophase and the induction phase of the therapy because the greater antileukemic activity of dexamethasone is compromised by its high frequency of serious adverse reactions.",
+        "journal": "Biomedical papers of the Medical Faculty of the University Palacky, Olomouc, Czechoslovakia",
+        "year": "2014",
+        "authors": [
+          "Spenerova Michaela",
+          "Dzubak Petr",
+          "Srovnal Josef",
+          "Radova Lenka",
+          "Burianova Renata"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Dexamethasone",
+          "Drug Resistance, Neoplasm",
+          "Drug Therapy, Combination",
+          "Glucocorticoids",
+          "Humans",
+          "In Vitro Techniques",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Prednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23128824/"
+      },
+      {
+        "pmid": "225025",
+        "title": "Influence of adrenal corticosteroids on the susceptibility of cats to feline leukemia virus infection.",
+        "abstract": "The natural resistance of adult specific-pathogen-free cats to feline leukemia virus (FeLV) was abrogated by treatment with various doses of a synthetic corticosteroid, methylprednisolone acetate (MPA), prior to either oral-nasal or i.p. inoculation of FeLV. Persistent viremia was induced in 82% (18 of 22) of MPA-treated cats versus 11% (1 of 9) of age-matched control cats. MPA-treated FeLV-inoculated cats developed prolonged lymphopenia (2 to 8 weeks postinoculation) and a delayed antibody response to the feline oncornavirus-associated cell membrane antigen. The distribution of FeLV group specific antigen in tissues of MPA-treated, FeLV-inoculated cats suggested that corticosteroids enhanced susceptibility to FeLV by impairing early viral containment in the reticuloendothelial and lymphoid tissues.",
+        "journal": "Cancer research",
+        "year": "1979",
+        "authors": [
+          "Rojko J L",
+          "Hoover E A",
+          "Mathes L E",
+          "Krakowka S",
+          "Olsen R G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antigens, Viral",
+          "Cats",
+          "Leukemia Virus, Feline",
+          "Leukopenia",
+          "Methylprednisolone",
+          "Tumor Virus Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/225025/"
+      },
+      {
+        "pmid": "32035011",
+        "title": "Inclusion-body myositis and primary Sjögren syndrome: mechanisms for shared etiologies.",
+        "abstract": "Herein we report a case of sporadic inclusion-body myositis (sIBM) occurring at an unusually young age in a patient with primary Sjögren syndrome, and use the case to explore possible shared mechanisms for disease susceptibility. Possible factors may include the association of both conditions with the 8.1 ancestral haplotype; the presence of anti-cN1A antibodies, which, although considered specific for sIBM, are also seen in pSS; and the shared association with T-cell large granular lymphocyte leukemia (T-LGLL). Further evaluation of this patient did in fact reveal underlying T-LGLL and mechanisms by which T cells in sIBM may escape immune regulation and contribute to disease phenotype are explored. Despite myofiber infiltration with CD8-positive T cells in sIBM, and, although sIBM is traditionally considered treatment-refractory, we report a significant response to the anti-CD20 monoclonal antibody, rituximab, and discuss possible mechanisms by which this response may be mediated.",
+        "journal": "Muscle & nerve",
+        "year": "2020",
+        "authors": [
+          "Limaye Vidya S",
+          "Cash Kathy",
+          "Smith Caroline",
+          "Koszyca Barbara",
+          "Patel Sandy"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "5'-Nucleotidase",
+          "Adult",
+          "Autoantibodies",
+          "Azathioprine",
+          "CD8-Positive T-Lymphocytes",
+          "Female",
+          "HLA Antigens",
+          "Haplotypes",
+          "Humans",
+          "Hydroxychloroquine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32035011/"
+      },
+      {
+        "pmid": "3457222",
+        "title": "Chronic myelocytic leukemia as a second neoplasia in the course of chronic lymphocytic leukemia. Case report and review of the literature.",
+        "abstract": "A patient with chronic lymphocytic leukemia developed Ph1-positive chronic myelocytic leukemia after a 6-yr course of CLL. Chemotherapy for CLL consisted of chlorambucil and steroids, later vincristine and bleomycin; after resistance to these agents, cyclophosphamide, vincristine and prednisolone were applied. When CML was diagnosed, we found two morphologically distinct populations of malignant cells in the bone marrow; the Ph1-chromosome was identified, and immunological surface marker studies also demonstrated two distinct malignant cell populations. Up to now, only five cases of CML have been reported following CLL and one case accompanying it. Three patients were treated with cytostatic drugs, one patient by total body irradiation and two patients received no therapy. At present, it is not clear whether the development of CML during CLL represents a therapy-induced complication or an increased susceptibility to second malignancies due to the leukemic process itself or possibly to ",
+        "journal": "Leukemia research",
+        "year": "1986",
+        "authors": [
+          "Teichmann J V",
+          "Sieber G",
+          "Ludwig W D",
+          "Karow J",
+          "Ruehl H"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Cell Transformation, Neoplastic",
+          "Female",
+          "Humans",
+          "Leukemia, Lymphoid",
+          "Leukemia, Myeloid",
+          "Male",
+          "Middle Aged",
+          "Neoplasms, Multiple Primary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3457222/"
+      },
+      {
+        "pmid": "10930993",
+        "title": "Constitutive expression levels of CD95 and Bcl-2 as well as CD95 function and spontaneous apoptosis in vitro do not predict the response to induction chemotherapy and relapse rate in childhood acute lymphoblastic leukaemia.",
+        "abstract": "CD95 (Fas/APO-1) expression and function and Bcl-2 expression, as well as spontaneous apoptosis in vitro, have been shown to be predictive markers for the in vivo response to chemotherapy in acute myeloid leukaemia (AML). To determine the clinical significance of apoptosis-regulating factors in acute lymphoblastic leukaemia (ALL), we investigated cell samples of children with ALL who had been included in the German ALL Berlin-Frankfurt-Münster (BFM) study using flow cytometry for constitutive expression levels of CD95 (n = 110) and Bcl-2 (n = 110). Furthermore, we determined the extent of spontaneous apoptosis in vitro (n = 102) and susceptibility to anti-CD95-induced apoptosis (CD95-sensitivity) (n = 97). We correlated these findings with the functional activity of the multidrug resistance (MDR)-associated P-glycoprotein (P-gp), as detected by the rhodamine123 efflux test, immunophenotype, cytogenetics and clinical data of the patients examined. Good responders to initial prednisone t",
+        "journal": "British journal of haematology",
+        "year": "2000",
+        "authors": [
+          "Wuchter C",
+          "Karawajew L",
+          "Ruppert V",
+          "Schrappe M",
+          "Harbott J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily B, Member 1",
+          "Antineoplastic Agents, Hormonal",
+          "Apoptosis",
+          "Biomarkers",
+          "Burkitt Lymphoma",
+          "Child",
+          "Drug Resistance, Multiple",
+          "Female",
+          "Flow Cytometry",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10930993/"
+      },
+      {
+        "pmid": "16615044",
+        "title": "Moyamoya syndrome following childhood acute lymphoblastic leukemia.",
+        "abstract": "Long-term survivors of childhood acute lymphoblastic leukemia (ALL) sometimes suffer from adverse long-term sequelae. We analyzed the incidence, clinical course and prognosis of moyamoya syndrome (MoS) following childhood ALL.",
+        "journal": "Pediatric blood & cancer",
+        "year": "2007",
+        "authors": [
+          "Kikuchi Akira",
+          "Maeda Miho",
+          "Hanada Ryoji",
+          "Okimoto Yuri",
+          "Ishimoto Koichi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anthracyclines",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asparaginase",
+          "Cerebral Infarction",
+          "Child",
+          "Child, Preschool",
+          "Combined Modality Therapy",
+          "Cranial Irradiation",
+          "Cyclophosphamide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16615044/"
+      },
+      {
+        "pmid": "20576660",
+        "title": "Skeletal morbidity in children receiving chemotherapy for acute lymphoblastic leukaemia.",
+        "abstract": "Children receiving chemotherapy for acute lymphoblastic leukaemia (ALL) may be susceptible to skeletal morbidity.",
+        "journal": "Archives of disease in childhood",
+        "year": "2010",
+        "authors": [
+          "Elmantaser M",
+          "Stewart G",
+          "Young D",
+          "Duncan R",
+          "Gibson B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age Factors",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bone Diseases",
+          "Child",
+          "Child, Preschool",
+          "Dexamethasone",
+          "Drug Administration Schedule",
+          "Female",
+          "Fractures, Bone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20576660/"
+      },
+      {
+        "pmid": "17854304",
+        "title": "Genetic alterations determine chemotherapy resistance in childhood T-ALL: modelling in stage-specific cell lines and correlation with diagnostic patient samples.",
+        "abstract": "Acquired drug resistance eventually leads to treatment failure in T-cell acute lymphoblastic leukaemia (T-ALL). Immunophenotypic and cytogenetic heterogeneities within T-ALL influence susceptibility to cytotoxic therapy, and little is known about the mechanisms of drug resistance at specific stages of T-cell ontogeny. We developed tolerance to therapeutic concentrations of daunorubicin (DNR) and L-asparaginase (L-asp) in Jurkat (CD1a(-), sCD3(+)) and Sup T1 (CD1a(+), sCD3(-)) cell lines, having respective 'mature' and 'cortical' stages of developmental arrest. DNR resistant cells acquired multidrug resistance: 310-fold increased resistance to vincristine (VCR) and a 120-fold increased resistance to prednisolone (PRED). Microarray analysis identified upregulation of asparagine synthetase (ASNS) and argininosuccinate synthase 1 (ASS1) to cell lines with acquired resistance to L-asp, and in the case of DNR, upregulation of ATP-binding cassette B1 (ABCB1). Suppression of ABCB1, ASNS and AS",
+        "journal": "British journal of haematology",
+        "year": "2007",
+        "authors": [
+          "Estes David A",
+          "Lovato Debbie M",
+          "Khawaja Hadya M",
+          "Winter Stuart S",
+          "Larson Richard S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily B, Member 1",
+          "Argininosuccinate Synthase",
+          "Asparaginase",
+          "Aspartate-Ammonia Ligase",
+          "Cell Line, Tumor",
+          "Child",
+          "Daunorubicin",
+          "Drug Resistance, Neoplasm",
+          "Gene Expression Profiling",
+          "Gene Expression Regulation, Leukemic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17854304/"
+      },
+      {
+        "pmid": "9220663",
+        "title": "Differential induction of apoptosis on human lymphoblastic leukemia Nalm-6 and Molt-4 cells by various antitumor drugs.",
+        "abstract": "To investigate how chemotherapy agents interact with the leukemic cell death pathway, we examined apoptosis of human lymphoblastic leukemia cells (Nalm-6 and Molt-4) treated with various anticancer drugs (etoposide (VP-16), camptothecin (CPT), adriamycin (ADR), cytosine arabinoside (Ara-C), methotrexate (MTX), 6 mercaptopurine (6MP), cyclophosphamide (CPM), vincristine (VCR) and prednisolone (PRD)) by flow cytometric procedures. The proportion of apoptotic cells was estimated from the presence of cells with a fractional DNA content in the DNA histograms after the incubation of drug-treated cells with a DNA extraction buffer. Treatment with Ara-C, CPT, VP-16 and ADR resulted in rapid apoptosis with 40-60% apoptotic cells by 8 h. Treatment with MTX, VCR, 6MP and PRD induced no apparent apoptosis until 12 h, but further treatments with these drugs resulted in apoptosis with 50% (MTX), 20-30% (6MP and VCR) and 5-10% (PRD) apoptotic cells, respectively, at 24 h. CPM induced apoptosis with 1",
+        "journal": "International journal of hematology",
+        "year": "1997",
+        "authors": [
+          "Tsurusawa M",
+          "Saeki K",
+          "Fujimoto T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Apoptosis",
+          "DNA Damage",
+          "Flow Cytometry",
+          "Humans",
+          "Leukemia, Lymphoid",
+          "Tumor Cells, Cultured"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9220663/"
+      },
+      {
+        "pmid": "10023947",
+        "title": "Inactivation of ataxia telangiectasia mutated gene in B-cell chronic lymphocytic leukaemia.",
+        "abstract": "Patients with the inherited disorder ataxia telangiectasia (A-T) have an increased susceptibility to lymphoid malignancies. In these patients mutations affect both alleles of the A-T gene (ATM). We have looked for mutations in the ATM gene in sporadic cases of B-cell chronic lymphocytic leukaemia (B-CLL).",
+        "journal": "Lancet (London, England)",
+        "year": "1999",
+        "authors": [
+          "Stankovic T",
+          "Weber P",
+          "Stewart G",
+          "Bedenham T",
+          "Murray J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Alleles",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Ataxia Telangiectasia",
+          "Blotting, Western",
+          "Chromosomes, Human, Pair 11",
+          "Cyclophosphamide",
+          "DNA Fingerprinting",
+          "DNA Restriction Enzymes",
+          "Doxorubicin",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10023947/"
+      },
+      {
+        "pmid": "2079728",
+        "title": "[Effects of immunosuppressive chemotherapy on serum levels of IgG subclasses--analysis in children with acute lymphoblastic leukemia and in children with aplastic anemia and autoimmune diseases receiving corticosteroid hormone].",
+        "abstract": "Serum levels of IgG subclasses were analysed in 15 children with acute lymphoblastic leukemia (ALL) receiving maintenance chemotherapy and 10 children with aplastic anemia and autoimmune diseases receiving prednisolone therapy longer than 2 months (Steroid group). The results were as follows. Serum levels of IgG1 in ALL were significantly (p less than 0.05) lower than age matched normal controls, while the IgG1 levels in the Steroid group were as high as in normal controls. Serum levels of IgG2 in ALL and the Steroid group were significantly (p less than 0.005, p less than 0.02) lower than in normal controls. Serum levels of IgG3 in ALL and the Steroid group were as high as in normal controls. Serum levels of IgG4 in ALL and the Steroid group were significantly (p less than 0.005, p less than 0.05) lower than in normal controls. IgG2 and IgG4 should be more susceptible to suppression by immunosuppressive chemotherapy than IgG1, and IgG3 would hardly suppressed by immunosuppressive chem",
+        "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+        "year": "1990",
+        "authors": [
+          "Wakiguchi H",
+          "Fujieda M",
+          "Hisakawa H",
+          "Kubota H",
+          "Matsumoto K"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia, Aplastic",
+          "Autoimmune Diseases",
+          "Child",
+          "Child, Preschool",
+          "Humans",
+          "Immunoglobulin G",
+          "Immunosuppressive Agents",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Prednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2079728/"
+      },
+      {
+        "pmid": "9278296",
+        "title": "Human autoreactive and foreign antigen-specific T cells resist apoptosis induced by soluble recombinant CD95 ligand.",
+        "abstract": "Mature T cells are susceptible to activation-induced cell death in the periphery. Activation-induced cell death is thought to involve CD95/CD95 ligand interactions in vivo. Here we report that stimulated, CD45RO+ human T cell lines specific for myelin basic protein or tetanus toxoid from multiple sclerosis patients and healthy individuals resist apoptosis induced by soluble recombinant CD95 ligand in vitro. In contrast, the same CD95 ligand effectively kills Jurkat T lymphoma and human malignant glioma cells. The resistance of the T cell lines is not due to a lack of CD95 expression at the cell surface and is not overcome by coexposure to CD95 ligand and inhibitors of RNA or protein synthesis. The expression level of BCL-2 is lower in Jurkat than in Ag-specific T cells. After exposure to soluble CD95 ligand, Jurkat T cells, but not Ag-specific T cells, exhibit loss of BCL-2 and BCL-X expression whereas BAX expression is not affected. Surprisingly, Ag-specific T cells are rather sensiti",
+        "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+        "year": "1997",
+        "authors": [
+          "Zipp F",
+          "Martin R",
+          "Lichtenfels R",
+          "Roth W",
+          "Dichgans J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Apoptosis",
+          "Autoimmune Diseases",
+          "Autoimmunity",
+          "Cells, Cultured",
+          "Cytotoxicity, Immunologic",
+          "Drug Resistance",
+          "Fas Ligand Protein",
+          "Gene Expression Regulation",
+          "Glioma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9278296/"
+      },
+      {
+        "pmid": "16494622",
+        "title": "Infections during induction therapy of childhood acute lymphoblastic leukemia--no association to mannose-binding lectin deficiency.",
+        "abstract": "Infection during the induction phase of childhood acute lymphoblastic leukemia (ALL) is a major cause of morbidity and mortality. Several studies have indicated that genetically determined low serum levels of mannose-binding lectin (MBL), a component of innate immunity, are associated with increased risk for infections in patients receiving chemotherapy. Thus, these patients have been proposed to be candidates for MBL replacement therapy.",
+        "journal": "European journal of haematology",
+        "year": "2006",
+        "authors": [
+          "Lausen Birgitte",
+          "Schmiegelow Kjeld",
+          "Andreassen Bente",
+          "Madsen Hans O",
+          "Garred Peter"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age Factors",
+          "Allopurinol",
+          "Anti-Infective Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bacteremia",
+          "Candidiasis",
+          "Child",
+          "Child, Preschool",
+          "Cohort Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16494622/"
+      },
+      {
+        "pmid": "21885611",
+        "title": "Polymorphism in the PAI-1 (SERPINE1) gene and the risk of osteonecrosis in children with acute lymphoblastic leukemia.",
+        "abstract": "",
+        "journal": "Blood",
+        "year": "2011",
+        "authors": [
+          "Bond Jonathan",
+          "Adams Stuart",
+          "Richards Susan",
+          "Vora Ajay",
+          "Mitchell Christopher"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asparaginase",
+          "Child",
+          "Clinical Trials as Topic",
+          "Dexamethasone",
+          "Female",
+          "Gene Frequency",
+          "Genetic Predisposition to Disease",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21885611/"
+      },
+      {
+        "pmid": "7826847",
+        "title": "High incidence of hypertension in children presenting with acute lymphoblastic leukemia.",
+        "abstract": "Although hypertension is a complication of acute lymphoblastic leukemia (ALL), its true incidence in this disease is unknown. In this study the blood pressure profiles in all children newly diagnosed with ALL were reviewed over an 18-month period. Fourteen (46%) from a total of 30 patients were found to be hypertensive at presentation (n = 8) or during induction chemotherapy (n = 6). A patient with significant hypertension developed generalized convulsions; the rest were asymptomatic. Six patients were managed with antihypertensive drugs. Four patients with hypertension had renal enlargement on the initial ultrasound scan, which returned to normal when hematologic remission was achieved. One patient without hypertension had bilateral renal enlargement, but this persisted despite achieving remission. All patients with hypertension were normotensive at follow-up 2 to 18 months after induction chemotherapy. The presence of hypertension before therapy and its association with renal enlarge",
+        "journal": "Pediatric hematology and oncology",
+        "year": "1994",
+        "authors": [
+          "Attard-Montalto S P",
+          "Saha V",
+          "Ng Y Y",
+          "Kingston J E",
+          "Eden O B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asparaginase",
+          "Child",
+          "Child, Preschool",
+          "Cohort Studies",
+          "Daunorubicin",
+          "Female",
+          "Humans",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7826847/"
+      },
+      {
+        "pmid": "16756010",
+        "title": "[Drug sensitivity of tumor cells in varieties of acute childhood leukemia].",
+        "abstract": "Drug sensitivity of tumor cells was studied in 154 children diagnosed with acute leukemia. Cellular sensitivity in acute lymphoblastic leukemia (ALL) was higher than in acute myeloid one (AML), while T-line ALL cells were more sensitive to dexamethasone than those of B-line. It was suggested that lower drug sensitivity of ALL cells at the earlier stages of cell differentiation was due to their reduced susceptibility to apoptosis. Among AML cells, M3 variant was less sensitive to cytozar while M4 - to vepeside. Reduced sensitivity to vincristine was found in series M3 > M1 - M2 > M4 while that to L-asparaginase was in M1- M2 > M4 > M3.",
+        "journal": "Voprosy onkologii",
+        "year": "2005",
+        "authors": [
+          "Shman T V",
+          "Belevtsev M V",
+          "Buglova S E"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antigens, CD34",
+          "Antineoplastic Agents",
+          "Apoptosis",
+          "Asparagine",
+          "Child",
+          "Child, Preschool",
+          "Cyclophosphamide",
+          "Cytarabine",
+          "Dexamethasone",
+          "Doxorubicin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16756010/"
+      },
+      {
+        "pmid": "382521",
+        "title": "Differential susceptibility in vitro to methylprednisolone of human lymphocyte subpopulations stimulated by phytohemagglutinin.",
+        "abstract": "",
+        "journal": "Transplantation proceedings",
+        "year": "1979",
+        "authors": [
+          "Kraft N",
+          "Atkins R C",
+          "Thomson N M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Kidney Transplantation",
+          "Leukemia, Lymphoid",
+          "Lymphocyte Activation",
+          "Lymphocytes",
+          "Methylprednisolone",
+          "Phytohemagglutinins",
+          "Renal Dialysis",
+          "T-Lymphocytes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/382521/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T11:23:37.612120",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,548 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Prednisolone",
+    "disease": "rheumatic heart disease",
+    "query_string": "Prednisolone AND rheumatic heart disease"
+  },
+  "data": {
+    "query": "Prednisolone AND rheumatic heart disease",
+    "results": [
+      {
+        "pmid": "36328476",
+        "title": "2022 EULAR recommendations for screening and prophylaxis of chronic and opportunistic infections in adults with autoimmune inflammatory rheumatic diseases.",
+        "abstract": "To develop EULAR recommendations for screening and prophylaxis of chronic and opportunistic infections in patients with autoimmune inflammatory rheumatic diseases (AIIRD).",
+        "journal": "Annals of the rheumatic diseases",
+        "year": "2023",
+        "authors": [
+          "Fragoulis George E",
+          "Nikiphorou Elena",
+          "Dey Mrinalini",
+          "Zhao Sizheng Steven",
+          "Courvoisier Delphine Sophie"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adult",
+          "Antirheumatic Agents",
+          "Immunosuppressive Agents",
+          "Opportunistic Infections",
+          "Rheumatic Diseases",
+          "Antiviral Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36328476/"
+      },
+      {
+        "pmid": "40412417",
+        "title": "Treatment outcomes in patients with VEXAS syndrome: a retrospective cohort study.",
+        "abstract": "Vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic (VEXAS) syndrome is a recently described autoinflammatory disorder with little therapeutic evidence. We compared treatment outcomes of targeted therapies versus prednisolone alone in the largest UK cohort of patients with VEXAS syndrome to date.",
+        "journal": "The Lancet. Rheumatology",
+        "year": "2025",
+        "authors": [
+          "Al-Hakim Adam",
+          "Trikha Roochi",
+          "Phyu Htut Ei Ei",
+          "Chowdhury Onima",
+          "MacLennan Calman A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Retrospective Studies",
+          "Male",
+          "Female",
+          "Prednisolone",
+          "Middle Aged",
+          "Treatment Outcome",
+          "Adult",
+          "Glucocorticoids",
+          "Antibodies, Monoclonal, Humanized"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40412417/"
+      },
+      {
+        "pmid": "1624969",
+        "title": "Acute rheumatic fever and the evolution of rheumatic heart disease: a prospective 12 year follow-up report.",
+        "abstract": "Sixty four children who presented with the initial attack of acute rheumatic fever and maintained continuous regular secondary prophylaxis, were followed up prospectively for 12.3 years (an observation period of 775 patient-years). The prevalence rate of rheumatic heart disease in the 29 children who had carditis in the initial attack and in the 35 children who had no carditis initially was 49 vs 0%, respectively. The overall prevalence rate of rheumatic heart disease was 20%. Mitral incompetence developed in 11 patients (17%), aortic incompetence in 2 (3%) and mitral stenosis in 2 (3%). None of the patients developed aortic stenosis. Two recurrences developed with a recurrence rate of 0.003 per patient per year. One patient needed cardiac surgery and there was no mortality. These data strongly suggest that continuous regular secondary prophylaxis can prevent or significantly reduce the development of mitral and aortic valve stenosis, the prevalence rate of rheumatic heart disease and ",
+        "journal": "Journal of clinical epidemiology",
+        "year": "1992",
+        "authors": [
+          "Majeed H A",
+          "Batnager S",
+          "Yousof A M",
+          "Khuffash F",
+          "Yusuf A R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Child",
+          "Female",
+          "Heart Valve Diseases",
+          "Humans",
+          "Kuwait",
+          "Male",
+          "Myocarditis",
+          "Penicillin G Benzathine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1624969/"
+      },
+      {
+        "pmid": "41766505",
+        "title": "Molecular docking and dynamics simulations identify marine sponge-derived Halenaquinone as a promising STAT4 modulator for rheumatic heart disease.",
+        "abstract": "This study aimed to investigate the interaction potential of sponge metabolites towards signal transducer and activator of transcription 4 (STAT4), one of the potential targets related with rheumatic heart disease (RHD). Out of 100 sponge molecules screened, Halenaquinone demonstrated as potential inhibitor of STAT4 by modelling. Molecular docking revealed that Halenaquinone exhibited strong binding affinity with STAT4 (-10.2 kcal/mol) and favourable interactions, surpassing the binding of the reference drug Prednisolone-NR3C1complex. The interaction between STAT4 and Halenaquinone stabilized through hydrogen bonding and hydrophobic contacts involving several key residues, supporting its possible inhibitory mechanism. Molecular dynamics simulation studies indicated the stability of the STAT4-Halenaquinone complex, with some flexibility observed in the loop and terminal regions. Free energy decomposition revealed that van der Waals and electrostatic interaction were the main contributor",
+        "journal": "SAR and QSAR in environmental research",
+        "year": "2026",
+        "authors": [
+          "Skariyachan S",
+          "Mathamangalath G K",
+          "Sebastian D",
+          "Sreejith K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41766505/"
+      },
+      {
+        "pmid": "38363075",
+        "title": "Outcome following acute and recurrent rheumatic fever.",
+        "abstract": "Rheumatic carditis is the leading cause of permanent disability caused by damage of the cardiac valve. This study aimed to determine the outcome and predictors of valve surgery in patients with acute rheumatic fever (ARF) and recurrent rheumatic fever (RRF).",
+        "journal": "Paediatrics and international child health",
+        "year": "2024",
+        "authors": [
+          "Silvilairat Suchaya",
+          "Sornwai Artit",
+          "Sethasathien Saviga",
+          "Saengsin Kwannapas",
+          "Makonkawkeyoon Krit"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child, Preschool",
+          "Child",
+          "Adolescent",
+          "Rheumatic Fever",
+          "Mitral Valve Insufficiency",
+          "Tricuspid Valve Insufficiency",
+          "Myocarditis",
+          "Retrospective Studies",
+          "Rheumatic Heart Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38363075/"
+      },
+      {
+        "pmid": "38021813",
+        "title": "Pregnancy and Inflammatory Rheumatological Diseases: A Single-Center Retrospective Cohort Study.",
+        "abstract": "Background Rheumatic diseases pose risks to pregnant women, leading to complications like preterm birth, congenital heart block, and pregnancy loss. These diseases are expected to deteriorate during pregnancy and further in the postpartum period. The impact of these diseases on the pregnancy will add further burden on the patient, fetus, physician, and healthcare system. Advances in diagnosis and treatment have improved outcomes making them similar to that of healthy women, but close follow-up in a multidisciplinary clinic is essential. The objective of this study is to study the outcome of pregnancy in women with rheumatological disease and the behavior of the disease during pregnancy. Methods A retrospective cohort study was conducted in King Abdulaziz Medical City (KAMC) in Riyadh, Saudi Arabia, to compare the outcomes of pregnancy across three rheumatological diseases: Sjogren syndrome (SS), systemic lupus erythematosus (SLE), and rheumatoid arthritis (RA) from 2016 to 2021. A tota",
+        "journal": "Cureus",
+        "year": "2023",
+        "authors": [
+          "Alkhodier Abeer A",
+          "Alsaif Abdurhman S",
+          "Alqntash Norah H",
+          "Alanazi Rakan B",
+          "Alotaibi Ghaida"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38021813/"
+      },
+      {
+        "pmid": "13842284",
+        "title": "[Influence of prednisolone and dexamethasone on the blood proteins in patients with rheumatic carditis].",
+        "abstract": "",
+        "journal": "La Riforma medica",
+        "year": "1959",
+        "authors": [
+          "VILLANO F",
+          "ODOARDI G B",
+          "RAMBALDI M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Blood Proteins",
+          "Dexamethasone",
+          "Leadership",
+          "Myocarditis",
+          "Prednisolone",
+          "Rheumatic Heart Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13842284/"
+      },
+      {
+        "pmid": "32789615",
+        "title": "Myocarditis and intracardiac thrombus due to Henoch-Schönlein purpura: case report and literature review.",
+        "abstract": "Cardiac involvement is very rare in patients with Henoch-Schönlein purpura (HSP). In this case study, we present an 8-year-old girl presenting with HSP-induced myocarditis and thrombus in the right atrium and HSP nephritis. To date, 15 cases of HSP-related cardiac involvement have been reported in the PubMed/MEDLINE, Scopus, and Google Scholar databases. These cases, together with our case, are included in this review. We excluded those patients with other rheumatologic diseases (acute rheumatic fever, acute post-streptococcal glomerulonephritis, Kawasaki disease) accompanied by HSP. Three were children and 13 were adults and all were male except our case. This review revealed tachyarrhythmia, chest pain, dyspnea, murmur, and heart failure as the major signs. Cardiac tests, electrocardiogram (ECG), and imaging methods (echocardiography in all patients, cardiac magnetic resonance imaging (MRI) in three, cardiac biopsy in one, and post-mortem necropsy in three) showed that the cardiac in",
+        "journal": "Clinical rheumatology",
+        "year": "2021",
+        "authors": [
+          "Yılmaz Neslihan",
+          "Yüksel Selçuk",
+          "Becerir Tülay",
+          "Girişgen İlknur",
+          "Ufuk Furkan"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Female",
+          "Glomerulonephritis",
+          "Humans",
+          "IgA Vasculitis",
+          "Male",
+          "Myocarditis",
+          "Rheumatic Fever",
+          "Thrombosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32789615/"
+      },
+      {
+        "pmid": "5917388",
+        "title": "Corticosteroids in heart disease.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1966",
+        "authors": [
+          "Bayliss R I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Female",
+          "Heart Block",
+          "Heart Diseases",
+          "Heart Failure",
+          "Heart Injuries",
+          "Humans",
+          "Lupus Erythematosus, Systemic",
+          "Male",
+          "Myocarditis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5917388/"
+      },
+      {
+        "pmid": "6013062",
+        "title": "Rheumatic heart disease as an economical disease, comment from the pediatric point of view.",
+        "abstract": "",
+        "journal": "Japanese circulation journal",
+        "year": "1966",
+        "authors": [
+          "Okuni M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Economics, Medical",
+          "Humans",
+          "Japan",
+          "Prednisolone",
+          "Rheumatic Fever",
+          "Rheumatic Heart Disease",
+          "Ventricular Fibrillation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6013062/"
+      },
+      {
+        "pmid": "13407128",
+        "title": "[Changes in prognosis of rheumatic disease in children after introduction of new hormones in therapy (hydrocortisone, prednisone, prednisolone); clinical and biological study of 25 treated cases].",
+        "abstract": "",
+        "journal": "Il Lattante",
+        "year": "1956",
+        "authors": [
+          "DE MATTEIS F",
+          "SALOMONE P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Arthritis",
+          "Arthritis, Rheumatoid",
+          "Child",
+          "Humans",
+          "Hydrocortisone",
+          "Infant",
+          "Prednisolone",
+          "Prednisone",
+          "Prognosis",
+          "Rheumatic Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13407128/"
+      },
+      {
+        "pmid": "24382905",
+        "title": "Failure of secondary prophylaxis with erythromycin in rheumatic heart disease.",
+        "abstract": "Erythromycin is recommended for secondary prophylaxis in children with rheumatic heart disease, who are allergic to penicillin.",
+        "journal": "Indian pediatrics",
+        "year": "2013",
+        "authors": [
+          "Yadav Dinesh Kumar",
+          "Anand Puneet",
+          "Bhutia Eden"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Anti-Inflammatory Agents",
+          "Antibiotic Prophylaxis",
+          "Child",
+          "Erythromycin",
+          "Female",
+          "Humans",
+          "Prednisolone",
+          "Rheumatic Heart Disease",
+          "Treatment Failure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24382905/"
+      },
+      {
+        "pmid": "33270649",
+        "title": "Dose-dependent oral glucocorticoid cardiovascular risks in people with immune-mediated inflammatory diseases: A population-based cohort study.",
+        "abstract": "Glucocorticoids are widely used to reduce disease activity and inflammation in patients with a range of immune-mediated inflammatory diseases. It is uncertain whether or not low to moderate glucocorticoid dose increases cardiovascular risk. We aimed to quantify glucocorticoid dose-dependent cardiovascular risk in people with 6 immune-mediated inflammatory diseases.",
+        "journal": "PLoS medicine",
+        "year": "2020",
+        "authors": [
+          "Pujades-Rodriguez Mar",
+          "Morgan Ann W",
+          "Cubbon Richard M",
+          "Wu Jianhua"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Cardiovascular Diseases",
+          "Databases, Factual",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Glucocorticoids",
+          "Heart Disease Risk Factors",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33270649/"
+      },
+      {
+        "pmid": "5974036",
+        "title": "[Effect of prednisolone on water-electrolyte metabolism in patients with rheumatic heart disease complicated by circulatory insufficiency].",
+        "abstract": "",
+        "journal": "Vrachebnoe delo",
+        "year": "1966",
+        "authors": [
+          "Terno V S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Heart Failure",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Potassium",
+          "Prednisolone",
+          "Rheumatic Heart Disease",
+          "Sodium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5974036/"
+      },
+      {
+        "pmid": "948806",
+        "title": "[Uric acid of plasma in patients with rheumatic heart disease, rheumatoid arthritis and systemic lupus erythematosus and its dynamics during treatment].",
+        "abstract": "",
+        "journal": "Terapevticheskii arkhiv",
+        "year": "1976",
+        "authors": [
+          "Belov V A"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Arthritis, Rheumatoid",
+          "Cardiac Glycosides",
+          "Diuretics",
+          "Female",
+          "Humans",
+          "Lupus Erythematosus, Systemic",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/948806/"
+      },
+      {
+        "pmid": "14043524",
+        "title": "[ON RESULTS IN THE TREATMENT OF RHEUMATIC HEART DISEASE WITH ADRENAL CORTEX HORMONE PREPARATIONS].",
+        "abstract": "",
+        "journal": "Nihon Shonika Gakkai zasshi. Acta paediatrica Japonica",
+        "year": "1963",
+        "authors": [
+          "OKUNI M",
+          "YABUTA K",
+          "MATSUO J",
+          "KADOMA K",
+          "ANAMI S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex",
+          "Adrenal Cortex Hormones",
+          "Child",
+          "Cortisone",
+          "Dexamethasone",
+          "Humans",
+          "Infant",
+          "Prednisolone",
+          "Rheumatic Heart Disease",
+          "Triamcinolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14043524/"
+      },
+      {
+        "pmid": "40416409",
+        "title": "Frequency and determinants of use of immunosuppressants in the Australian Scleroderma Cohort Study.",
+        "abstract": "To assess the frequency and determinants of immunosuppressant medication use in systemic sclerosis and changes in prescribing patterns over time.",
+        "journal": "Journal of scleroderma and related disorders",
+        "year": "2025",
+        "authors": [
+          "Fairley Jessica L",
+          "Hansen Dylan",
+          "Proudman Susanna",
+          "Sahhar Joanne",
+          "Ngian Gene-Siew"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40416409/"
+      },
+      {
+        "pmid": "32801134",
+        "title": "The Risk of Cardiovascular Events Associated With Disease-modifying Antirheumatic Drugs in Rheumatoid Arthritis.",
+        "abstract": "To examine the comparative effects of biologic disease-modifying antirheumatic drugs (bDMARD) and tofacitinib against conventional synthetic DMARD (csDMARD) on incident cardiovascular disease (CVD) in patients with rheumatoid arthritis (RA).",
+        "journal": "The Journal of rheumatology",
+        "year": "2021",
+        "authors": [
+          "Ozen Gulsen",
+          "Pedro Sofia",
+          "Michaud Kaleb"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Biological Products",
+          "Cardiovascular Diseases",
+          "Humans",
+          "Methotrexate",
+          "Tumor Necrosis Factor-alpha"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32801134/"
+      },
+      {
+        "pmid": "24029260",
+        "title": "Incidence and clinical outcome of renal amyloidosis: a retrospective study.",
+        "abstract": "The kidneys are affected in almost all patients with amyloid A in secondary amyloidosis (AA) amyloidosis but less frequently in immunoglobulin light chains in primary systemic amyloidosis (AL) amyloidosis. In this study, we present the incidence, etiology, clinical manifestations, biochemical features and clinical course of renal amyloidosis. We conducted a retrospective study on a group of 40 cases with renal biopsy-proven amyloidosis. They constituted 2.5% of the total cases of renal biopsies performed in the Theodor Bilharz Research Institute, Cairo, Egypt, during the period from February 2003 to May 2009. The mean age (30 males, ten females) was 36.51 ± 10.32 years. Thirty-two of the cases had secondary AA amyloidosis and eight cases had primary AL amyloidosis. The causes of secondary amyloidosis were as follows: 12 (30%) familial Mediterranean fever (FMF), eight (20%) pulmonary tuberculosis, four (10%) chronic osteomyelitis, four (10%) bronchiectasis, three (7%) rheumatoid arthrit",
+        "journal": "Saudi journal of kidney diseases and transplantation : an official publication of the Saudi Center for Organ Transplantation, Saudi Arabia",
+        "year": "2013",
+        "authors": [
+          "Abdallah Emad",
+          "Waked Emam"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Amyloidosis",
+          "Creatinine",
+          "Familial Mediterranean Fever",
+          "Female",
+          "Humans",
+          "Incidence",
+          "Kidney Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24029260/"
+      },
+      {
+        "pmid": "14147553",
+        "title": "[TREATMENT OF KIDNEY DISEASES, CARDIAC AND VASCULAR DISORDERS AS WELL AS COLLAGENOSES WITH CORTISONES].",
+        "abstract": "",
+        "journal": "Die Therapiewoche",
+        "year": "1964",
+        "authors": [
+          "SIEGENTHALER W",
+          "SIEGENTHALER G",
+          "BONER A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adams-Stokes Syndrome",
+          "Adrenal Cortex Hormones",
+          "Adrenocorticotropic Hormone",
+          "Arthritis, Rheumatoid",
+          "Cardiac Surgical Procedures",
+          "Cardiovascular Diseases",
+          "Collagen Diseases",
+          "Cortisone",
+          "Heart Block",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14147553/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T11:23:56.268164",
+  "success": true,
+  "error_message": null
+}

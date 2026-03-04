@@ -1,0 +1,20 @@
+{
+  "collected_at": "2026-03-04T11:23:57Z",
+  "total_drugs": 1,
+  "success_count": 1,
+  "results": [
+    {
+      "drug": "Prednisolone",
+      "drugbank_id": "DB00860",
+      "status": "success",
+      "bundle_path": "/Users/lightman/yao.care/MyTxGNN/data/bundles/prednisolone/drug_bundle.json",
+      "indication_count": 5,
+      "error": null,
+      "duration_seconds": 74.82,
+      "total_trials": 124,
+      "total_articles": 97,
+      "npra_found": true,
+      "npra_count": 38
+    }
+  ]
+}

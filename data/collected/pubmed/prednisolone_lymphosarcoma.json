@@ -1,0 +1,601 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Prednisolone",
+    "disease": "lymphosarcoma",
+    "query_string": "Prednisolone AND lymphosarcoma"
+  },
+  "data": {
+    "query": "Prednisolone AND lymphosarcoma",
+    "results": [
+      {
+        "pmid": "38174538",
+        "title": "Tongue and teeth hyperpigmentation in etoposide, prednisolone, vincristine, and cyclophosphamide regimen in the treatment of cutaneous lymphoma.",
+        "abstract": "Cutaneous extranodal non-Hodgkin lymphoma is a rare cancer and chemotherapeutic agents like etoposide, vincristine and cyclophosphamide are the drug of choice, which rarely cause hyperpigmentation in skin and nails. However, herein we present a case of hyperpigmentation that was seen in tongue and even in teeth. The hyperpigmentation of the tongue and teeth occurred shortly after the initiation of chemotherapy. Hyperpigmentation was self-limiting and rectified in a week without need of any pharmacological, surgical, or lifestyle interventions.",
+        "journal": "Indian journal of pharmacology",
+        "year": "2023",
+        "authors": [
+          "Morabad Soumya Shivalingappa",
+          "Khan Zahed Ullah",
+          "Gad Richa",
+          "Kallur Nikitha",
+          "Madhabhavi Irappa Vithoba"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vincristine",
+          "Etoposide",
+          "Prednisolone",
+          "Prednisone",
+          "Doxorubicin",
+          "Lymphoma, Non-Hodgkin",
+          "Lymphoma",
+          "Cyclophosphamide",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38174538/"
+      },
+      {
+        "pmid": "1102806",
+        "title": "Treatment of chronic lymphocytic leukemia and lymphosarcoma with a new chlorambucil ester of prednisolone (Leo 1031) (NSC-134087).",
+        "abstract": "A new chlorambucil ester of prednisolone (LEO 1031) has been evaluated in patients with advanced lymphocytic lymphosarcoma and chronic lymphocytic leukemia. All 11 patients had been previously treated with radiotherapy and/or combination chemotherapy. Three complete remissions and one partial remission were seen in 4/7 lymphocytic lymphosarcoma patients treated with LEO 1031. In the chronic lymphocytic leukemia group, 3/4 have had benefit. This new drug is considered worthy of further trial.",
+        "journal": "Journal of surgical oncology",
+        "year": "1975",
+        "authors": [
+          "Aungst C W",
+          "Mittelman A",
+          "Murphy G P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Chlorambucil",
+          "Clinical Trials as Topic",
+          "Female",
+          "Humans",
+          "Leukemia, Lymphoid",
+          "Lymphoma, Non-Hodgkin",
+          "Prednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1102806/"
+      },
+      {
+        "pmid": "7874005",
+        "title": "Mitoxantrone, chlorambucil and prednisolone in the treatment of non-Hodgkin's lymphoma.",
+        "abstract": "The management of low grade lymphoma, both de novo and relapsed disease, is a contentious area in which there has been little real progress in recent years. Regimens which increase the intensity of treatment may accelerate the response but are inevitably associated with greater toxicity. This cannot be justified in a disease whose median survival is between 4 and 10 years and where the median age at presentation is 57. We have assessed the response of 144 patients treated with a combination of mitoxantrone, chlorambucil and prednisolone in a heterogeneous group with lymphoma, both de novo and relapsed disease. In the subgroup with low grade relapsed/refractory disease our results suggest that this combination is clinically effective, low in toxicity and suitable for the outpatient management of this usually elderly patient population.",
+        "journal": "Leukemia & lymphoma",
+        "year": "1994",
+        "authors": [
+          "Bernard T",
+          "Johnson S A",
+          "Prentice A G",
+          "Jones L",
+          "Phillips M J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Chlorambucil",
+          "Female",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Middle Aged",
+          "Mitoxantrone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7874005/"
+      },
+      {
+        "pmid": "14432695",
+        "title": "[Apropos of a case of lymphosarcoma treated with prednisolone and roentgenotherapy].",
+        "abstract": "",
+        "journal": "Nicaragua medica",
+        "year": "1959",
+        "authors": [
+          "PICASSO V M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Hodgkin Disease",
+          "Lymphoma",
+          "Lymphoma, Non-Hodgkin",
+          "Prednisolone",
+          "X-Ray Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14432695/"
+      },
+      {
+        "pmid": "9650201",
+        "title": "[Treatment of lymphoma in the aged].",
+        "abstract": "",
+        "journal": "Medicina clinica",
+        "year": "1998",
+        "authors": [
+          "Gómez H",
+          "Colomer R"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Etoposide",
+          "Humans",
+          "Lymphoma",
+          "Lymphoma, Non-Hodgkin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9650201/"
+      },
+      {
+        "pmid": "12967352",
+        "title": "Non-hodgkins lymphoma.",
+        "abstract": "",
+        "journal": "Clinical evidence",
+        "year": "2003",
+        "authors": [
+          "Mead Graham",
+          "Woodcock James",
+          "Young Charles"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bleomycin",
+          "Carmustine",
+          "Cisplatin",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "Cytarabine",
+          "Dexamethasone",
+          "Doxorubicin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12967352/"
+      },
+      {
+        "pmid": "21338278",
+        "title": "Anemia and erythropoiesis-stimulating agent administration in patients with non-Hodgkin lymphoma treated with cyclophosphamide, doxorubicin, vincristine, and prednisolone ± rituximab chemotherapy: results from an observational study.",
+        "abstract": "CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) ± rituximab [(± R)CHOP] is the current standard of care for aggressive non-Hodgkin lymphoma (NHL). Anemia resulting from chemotherapy can be treated with erythropoiesis-stimulating agents (ESAs). As part of the observational IMPACT NHL study, data were collected on ESA use and anemia-related outcomes in 1829 adults receiving (± R)CHOP-14 or (± R)CHOP-21. Overall, 33% of patients were anemic during chemotherapy. Older age, lower baseline hemoglobin (Hb), worse performance status, more advanced disease stage, and use of CHOP-14 were significant predictors of transfusion and anemia in logistic regression models. ESAs were received by 404 patients, usually in response to low or declining Hb levels. Most patients (65%) had Hb 9-11 g/dL at ESA initiation, and 89% (Kaplan-Meier percentage) achieved Hb 10-12 g/dL. In conclusion, two-thirds of anemic patients with NHL receiving (± R)CHOP initiated ESA treatment at Hb 9-11 g/dL, and",
+        "journal": "Leukemia & lymphoma",
+        "year": "2011",
+        "authors": [
+          "Haioun Corinne",
+          "Salar Antonio",
+          "Pettengell Ruth",
+          "Johnsen Hans Erik",
+          "Duehrsen Ulrich"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anemia",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Female",
+          "Hematinics",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21338278/"
+      },
+      {
+        "pmid": "2298419",
+        "title": "Phase 2 study of mitozantrone in combination with chlorambucil and prednisolone for relapsed and refractory non-Hodgkins lymphoma.",
+        "abstract": "Thirty-six patients with non-Hodgkin's lymphoma (NHL) (comprising patients with refractory or relapsed disease and eight elderly, unfit patients with de novo disease) were treated with mitozantrone, chlorambucil and prednisolone on an out-patient basis. Fifteen patients had low grade (LG) disease, five patients intermediate grade (IG) disease and 16 patients high grade (HG) disease and 31/36 had stage IV disease. All elderly patients had IG or HG disease. The regimen was well-tolerated. After six courses of chemotherapy, there was a 69 per cent response rate with 33 per cent in complete remission. The median duration of remission was 15 months. The overall 3-year projected survival was 38 per cent; 27 per cent for LG disease and 47 per cent for HG and IG disease. Responses did not appear durable for either HG or LG disease unless CR was achieved early on. Three of the eight patients treated de novo (mean age 71 years) have survived disease-free, between 28 and 38 months from entry. Thi",
+        "journal": "Hematological oncology",
+        "year": "1990",
+        "authors": [
+          "Jones L",
+          "Cotter F E",
+          "Lord D",
+          "Newland A C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Chlorambucil",
+          "Drug Evaluation",
+          "Female",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2298419/"
+      },
+      {
+        "pmid": "7521788",
+        "title": "Dose escalation of biweekly cyclophosphamide, doxorubicin, vincristine, and prednisolone using recombinant human granulocyte colony stimulating factor in non-Hodgkin's lymphoma.",
+        "abstract": "Several uncontrolled trials have suggested that dose intensity of chemotherapy is a crucial determinant of treatment outcome for patients with non-Hodgkin's lymphoma (NHL). To explore the possibility of increasing dose intensity, a dose-escalation study of cyclophosphamide, doxorubicin, vincristine, and prednisolone (CHOP) using recombinant human granulocyte colony stimulating factor (rhG-CSF) was initiated.",
+        "journal": "Cancer",
+        "year": "1994",
+        "authors": [
+          "Tanosaki R",
+          "Okamoto S",
+          "Akatsuka N",
+          "Ishida A",
+          "Michikawa N"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Drug Administration Schedule",
+          "Female",
+          "Granulocyte Colony-Stimulating Factor",
+          "Humans",
+          "Leukocyte Count"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7521788/"
+      },
+      {
+        "pmid": "29380942",
+        "title": "Evaluation of a multi-agent chemotherapy protocol combining lomustine, procarbazine and prednisolone (LPP) for the treatment of relapsed canine non-Hodgkin high-grade lymphomas.",
+        "abstract": "The standard of care treatment for canine lymphoma is multi-agent chemotherapy containing prednisolone, cyclophosphamide, vincristine and an anthracycline such as doxorubicin (CHOP) or epirubicin (CEOP). Lomustine, vincristine, procarbazine, and prednisone (LOPP) has been evaluated as a rescue, with encouraging results; however, resistance to vincristine is likely in patients relapsing on CHOP/CEOP, and this agent may enhance LOPP toxicity without improving efficacy. The aim of this study was to evaluate responses to a modified-LOPP protocol that does not include vincristine (LPP) and is administered on a 21-day cycle. Medical records of dogs with high-grade multicentric lymphoma from 2012 to 2017 were reviewed. Dogs with relapsed lymphoma that received LPP as a rescue protocol were enrolled. Response, time from initiation to discontinuation (TTD) and toxicity of LPP were assessed. Forty-one dogs were included. Twenty-five dogs (61%) responded to LPP including 12 complete responses (CR",
+        "journal": "Veterinary and comparative oncology",
+        "year": "2018",
+        "authors": [
+          "Tanis J-B",
+          "Mason S L",
+          "Maddox T W",
+          "Blackwood L",
+          "Killick D R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Dog Diseases",
+          "Dogs",
+          "Female",
+          "Lomustine",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Neutropenia",
+          "Prednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29380942/"
+      },
+      {
+        "pmid": "1449620",
+        "title": "Non-Hodgkin's lymphomas in children. II. Treatment.",
+        "abstract": "The prognosis of non-Hodgkin's lymphoma (NHL) in childhood has improved steadily in the last 2 decades. This is primarily the result of increasingly effective chemotherapy regimens tailored to defined and relatively homogeneous prognostic categories and tested in prospective clinical trials. Surgical excision remains of prognostic benefit only when near-total resection can be performed without delay of chemotherapy. The role of radiation therapy is now limited to the treatment of overt central nervous system (CNS) lymphoma, disease unresponsive to chemotherapy, and certain emergencies. Effective 'prophylactic' treatment of the CNS has been achieved in most series by intrathecal and systemic chemotherapy alone. The most relevant modality of treatment is chemotherapy and a very large number of protocols have been published. The origins of current multi-agent regimens stem both from early experience with cyclophosphamide in endemic Burkitt's lymphoma and from therapeutic studies of acute ",
+        "journal": "Critical reviews in oncology/hematology",
+        "year": "1992",
+        "authors": [
+          "White L",
+          "Siegel S E",
+          "Quah T C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bone Marrow Transplantation",
+          "Child",
+          "Clinical Protocols",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "Daunorubicin",
+          "Doxorubicin",
+          "Humans",
+          "Immunologic Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1449620/"
+      },
+      {
+        "pmid": "17119330",
+        "title": "Topotecan, Ara-C, cisplatin and prednisolone (Toposhap) for patients with refractory and relapsing lymphomas: Results of a phase II trial.",
+        "abstract": "",
+        "journal": "Acta haematologica",
+        "year": "2006",
+        "authors": [
+          "Dantas André Aleixo Pereira Hipólito",
+          "Manhani Ana Rita",
+          "Coutinho Fernando",
+          "Del Giglio Auro"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Cytarabine",
+          "Female",
+          "Humans",
+          "Lymphoma",
+          "Lymphoma, Non-Hodgkin",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17119330/"
+      },
+      {
+        "pmid": "1071740",
+        "title": "L-asparaginase therapy and its complications in acute lymphoid leukaemia and generalized lymphosarcoma.",
+        "abstract": "",
+        "journal": "Haematologia",
+        "year": "1976",
+        "authors": [
+          "Schuler D",
+          "Koós R",
+          "Révész T",
+          "Virág I",
+          "Gálfi I"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anaphylaxis",
+          "Asparaginase",
+          "Child",
+          "Child, Preschool",
+          "Confusion",
+          "Daunorubicin",
+          "Female",
+          "Hallucinations",
+          "Hemorrhage"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1071740/"
+      },
+      {
+        "pmid": "11837901",
+        "title": "Therapy for Australian cats with lymphosarcoma.",
+        "abstract": "To determine the response of Australian cats with lymphosarcoma to chemotherapy and/or surgery in relation to patient and tumour characteristics, haematological and serum biochemical values and retroviral status.",
+        "journal": "Australian veterinary journal",
+        "year": "2001",
+        "authors": [
+          "Malik R",
+          "Gabor L J",
+          "Foster S F",
+          "McCorkell B E",
+          "Canfield P J"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asparaginase",
+          "Cat Diseases",
+          "Cats",
+          "Cohort Studies",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Female",
+          "Leukemia Virus, Feline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11837901/"
+      },
+      {
+        "pmid": "22058360",
+        "title": "Computed tomography of a cat with primary intratracheal lymphosarcoma before and after systemic chemotherapy.",
+        "abstract": "A 12 yr old male neutered domestic shorthair cat presented with worsening tachypnea of 1 mo duration and open mouth breathing. Radiographs revealed tracheal narrowing at the thoracic inlet. Computed tomography (CT) revealed a contrast enhancing 8-cm long fusiform mass within the dorsal tracheal membrane. Tracheobronchoscopy confirmed the presence of the tracheal mass at the thoracic inlet, and lymphoma was diagnosed based on uniformly atypical lymphoid cells on aspirated bronchoalveolar lavage fluid. The cat was treated with combination chemotherapy consisting of cyclophosphamide, vincristine, doxorubicin, and prednisolone. Thoracic radiographs and CT performed 1 mo after completion of the 6 mo chemotherapy protocol revealed resolution of the tracheal mass. The cat remained clinically normal at 21 mo after treatment.",
+        "journal": "Journal of the American Animal Hospital Association",
+        "year": "2011",
+        "authors": [
+          "Dugas Brandy",
+          "Hoover John",
+          "Pechman Robert"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cat Diseases",
+          "Cats",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Prednisolone",
+          "Tomography, X-Ray Computed"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22058360/"
+      },
+      {
+        "pmid": "5695160",
+        "title": "[Study of combined action of bruneomycin and prednisolone on the development of mouse lymphosarcoma (strain LIO-1)].",
+        "abstract": "",
+        "journal": "Antibiotiki",
+        "year": "1968",
+        "authors": [
+          "Rossolimo O K",
+          "Erokhina N M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibiotics, Antineoplastic",
+          "Drug Synergism",
+          "Lymphoma, Non-Hodgkin",
+          "Mice",
+          "Prednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5695160/"
+      },
+      {
+        "pmid": "18018576",
+        "title": "[Malignant lymphoma of the thyroid].",
+        "abstract": "Primary malignant lymphoma of thyroid is frequently associated with Hashimoto's thyroiditis and it is usually non-Hodgkin type. Thyroid lymphoma is common in women and the mean age at onset is 60 years old. The main symptom is rapidly growing goiter. The majority of histopathologic types are extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue, diffuse large B-cell lymphoma, and mixed type of above two. If the findings on ultrasonography and fine needle aspiration cytology are suspected thyroid lymphoma, histopathological diagnosis of tissue obtaining from open biopsy is necessary. The treatment for thyroid lymphoma consists of chemotherapy (CHOP), rituximab combined with CHOP, and radiation therapy. It is selected based on the histopathologic type and the extent of disease. The prognosis depends on the histopathologic type and the staging. It should be recognized that early diagnosis and correct treatment lead to favorable prognosis.",
+        "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+        "year": "2007",
+        "authors": [
+          "Ohye Hidemi",
+          "Fukata Shuji",
+          "Hirokawa Mitsuyoshi"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biopsy, Fine-Needle",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "Diagnosis, Differential",
+          "Doxorubicin",
+          "Female",
+          "Hashimoto Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18018576/"
+      },
+      {
+        "pmid": "6897633",
+        "title": "Treatment of chronic lymphocytic leukaemia and well-differentiated lymphocytic lymphoma with continuous low- or intermittent high-dose prednimustine versus chlorambucil/prednisolone.",
+        "abstract": "Prednimustine, a new antitumour drug, is a chlorambucil ester of prednisolone. The present prospective randomized study compares the effect of continuous low-dose (B) and intermittent high-dose (C) prednimustine in previously untreated patients with progressive CLL and WDLL. The control group received continuous chlorambucil/prednisolone therapy (A). One hundred and eighteen patients, 88 CLL and 30 WDLL, were evaluable. Response to therapy (greater than 50% improvement) was noted in 61, 55 and 57% in groups A, B and C respectively. The difference was not statistically significant. Time to response, response duration and survival did not show any differences between the groups. Responding patients survived longer than patients with stationary and progressive disease. Median survival time was 72 months from diagnosis and 52 months from start of therapy, with no differences between the treatment groups. Toxicity of prednimustine was usually mild and similar to that of the two constituents",
+        "journal": "European journal of cancer & clinical oncology",
+        "year": "1982",
+        "authors": [
+          "Ideström K",
+          "Kimby E",
+          "Björkholm M",
+          "Mellstedt H",
+          "Engstedt L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Chlorambucil",
+          "Drug Administration Schedule",
+          "Drug Evaluation",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Leukemia, Lymphoid",
+          "Lymphoma, Non-Hodgkin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6897633/"
+      },
+      {
+        "pmid": "15210737",
+        "title": "The limits of limited stage lymphoma.",
+        "abstract": "",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2004",
+        "authors": [
+          "Miller Thomas P"
+        ],
+        "pub_types": [
+          "Comment",
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Prednisolone",
+          "Radiotherapy Dosage",
+          "Randomized Controlled Trials as Topic",
+          "Vincristine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15210737/"
+      },
+      {
+        "pmid": "8022156",
+        "title": "[Mycotic retrobulbar neuritis].",
+        "abstract": "Fungal disease is one of the most common complications of malignant haematologic disease. In the major part of the patients the lungs and the gastrointestinal tract are affected. Infections of the eyes and adnexa are very rare.",
+        "journal": "Klinische Monatsblatter fur Augenheilkunde",
+        "year": "1994",
+        "authors": [
+          "Nenning H",
+          "Meier P",
+          "Penk A",
+          "Kössling S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anemia, Aplastic",
+          "Diagnosis, Differential",
+          "Female",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Opportunistic Infections",
+          "Optic Nerve",
+          "Optic Neuritis",
+          "Orbital Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8022156/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T11:23:09.892828",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,463 @@
+"""Drug-centric bundle for analyzing one drug with multiple predicted indications.
+
+Adapted from TwTxGNN for Malaysia context.
+"""
+
+import json
+from dataclasses import dataclass, field
+from datetime import datetime
+from pathlib import Path
+
+
+@dataclass
+class CollectionStatus:
+    """Tracks the status of data collection for a single source."""
+
+    source: str  # e.g., "clinicaltrials", "pubmed", "npra", "ictrp"
+    query_params: dict  # The query parameters used
+    queried_at: str  # ISO timestamp
+    status: str  # "success", "error", "not_found"
+    result_count: int = 0
+    error_message: str | None = None
+
+    def to_dict(self) -> dict:
+        return {
+            "source": self.source,
+            "query_params": self.query_params,
+            "queried_at": self.queried_at,
+            "status": self.status,
+            "result_count": self.result_count,
+            "error_message": self.error_message,
+        }
+
+
+@dataclass
+class PredictedIndication:
+    """A single predicted new indication for a drug."""
+
+    disease_name: str
+    kg_score: float | None = None  # KG prediction score
+    kg_rank: int | None = None
+    # Disease-specific evidence (collected per indication)
+    clinical_trials: list[dict] = field(default_factory=list)
+    pubmed_articles: list[dict] = field(default_factory=list)
+    ictrp_trials: list[dict] = field(default_factory=list)
+    # Analysis results (to be filled by Claude)
+    evidence_level: str | None = None  # L1-L5
+    evidence_summary: dict | None = None
+    mechanistic_link: str | None = None
+
+    def to_dict(self) -> dict:
+        return {
+            "disease_name": self.disease_name,
+            "kg_score": self.kg_score,
+            "kg_rank": self.kg_rank,
+            "clinical_trials": self.clinical_trials,
+            "pubmed_articles": self.pubmed_articles,
+            "ictrp_trials": self.ictrp_trials,
+            "evidence_level": self.evidence_level,
+            "evidence_summary": self.evidence_summary,
+            "mechanistic_link": self.mechanistic_link,
+        }
+
+
+@dataclass
+class DrugCandidate:
+    """Information about a drug being evaluated for repurposing."""
+
+    name: str  # Drug name (INN or common name)
+    drugbank_id: str | None = None
+    # Original approved indications (from NPRA or KG)
+    original_indications: list[str] = field(default_factory=list)
+    original_moa: str | None = None  # Mechanism of Action
+    # Predicted new indications
+    predicted_indications: list[PredictedIndication] = field(default_factory=list)
+
+    def to_dict(self) -> dict:
+        return {
+            "name": self.name,
+            "drugbank_id": self.drugbank_id,
+            "original_indications": self.original_indications,
+            "original_moa": self.original_moa,
+            "predicted_indications": [p.to_dict() for p in self.predicted_indications],
+        }
+
+
+@dataclass
+class DrugBundle:
+    """Bundle of evidence for one drug with multiple predicted indications.
+
+    This is the drug-centric data structure for repurposing analysis.
+    """
+
+    drug: DrugCandidate
+    # Drug-level data (collected once)
+    npra: dict = field(default_factory=lambda: {"found": False, "records": []})
+    drugbank: dict = field(default_factory=lambda: {"found": False})
+    # Collection status tracking
+    collection_log: list[CollectionStatus] = field(default_factory=list)
+    # Metadata
+    metadata: dict = field(default_factory=dict)
+
+    def __post_init__(self):
+        """Add metadata after initialization."""
+        if "created_at" not in self.metadata:
+            self.metadata["created_at"] = datetime.now().isoformat()
+        if "version" not in self.metadata:
+            self.metadata["version"] = "1.0"
+
+    def to_dict(self) -> dict:
+        """Convert to dictionary for JSON serialization."""
+        return {
+            "drug": self.drug.to_dict(),
+            "npra": self.npra,
+            "drugbank": self.drugbank,
+            "collection_log": [cs.to_dict() for cs in self.collection_log],
+            "metadata": self.metadata,
+        }
+
+    def to_json(self, indent: int = 2) -> str:
+        """Convert to JSON string."""
+        return json.dumps(self.to_dict(), indent=indent, ensure_ascii=False)
+
+    def save(self, output_dir: str | Path | None = None) -> Path:
+        """Save the bundle to a JSON file."""
+        from ..paths import get_bundles_dir, slugify
+
+        if output_dir is None:
+            drug_slug = slugify(self.drug.name)
+            output_dir = get_bundles_dir() / drug_slug
+
+        output_dir = Path(output_dir)
+        output_dir.mkdir(parents=True, exist_ok=True)
+
+        output_path = output_dir / "drug_bundle.json"
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(self.to_dict(), f, indent=2, ensure_ascii=False)
+
+        return output_path
+
+    @classmethod
+    def load(cls, path: str | Path) -> "DrugBundle":
+        """Load a bundle from a JSON file."""
+        path = Path(path)
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        # Reconstruct predicted indications
+        predicted_indications = [
+            PredictedIndication(**pi)
+            for pi in data["drug"].get("predicted_indications", [])
+        ]
+
+        drug = DrugCandidate(
+            name=data["drug"]["name"],
+            drugbank_id=data["drug"].get("drugbank_id"),
+            original_indications=data["drug"].get("original_indications", []),
+            original_moa=data["drug"].get("original_moa"),
+            predicted_indications=predicted_indications,
+        )
+
+        # Reconstruct collection_log
+        collection_log = [
+            CollectionStatus(**cs) for cs in data.get("collection_log", [])
+        ]
+
+        return cls(
+            drug=drug,
+            npra=data.get("npra", {"found": False, "records": []}),
+            drugbank=data.get("drugbank", {"found": False}),
+            collection_log=collection_log,
+            metadata=data.get("metadata", {}),
+        )
+
+    def get_best_evidence_level(self) -> str:
+        """Get the best evidence level across all indications."""
+        level_order = {"L1": 1, "L2": 2, "L3": 3, "L4": 4, "L5": 5}
+        best = "L5"
+        for pi in self.drug.predicted_indications:
+            if pi.evidence_level and level_order.get(pi.evidence_level, 5) < level_order.get(best, 5):
+                best = pi.evidence_level
+        return best
+
+    def get_summary_table(self) -> str:
+        """Generate a markdown summary table."""
+        lines = [
+            "| Predicted Indication | KG Score | Trials | Articles | Evidence |",
+            "|---------------------|----------|--------|----------|----------|",
+        ]
+        for pi in self.drug.predicted_indications:
+            trials = len(pi.clinical_trials) + len(pi.ictrp_trials)
+            articles = len(pi.pubmed_articles)
+            score = f"{pi.kg_score:.4f}" if pi.kg_score else "-"
+            level = pi.evidence_level or "pending"
+            lines.append(
+                f"| {pi.disease_name} | {score} | {trials} | {articles} | {level} |"
+            )
+        return "\n".join(lines)
+
+
+class DrugBundleAggregator:
+    """Aggregates evidence for one drug with multiple predicted indications.
+
+    This is the drug-centric approach:
+    1. Collect drug-level data once (NPRA, DrugBank)
+    2. Load predicted indications for the drug
+    3. Collect disease-specific data for each indication (trials, pubmed)
+    """
+
+    def __init__(self, save_collected: bool = True):
+        """Initialize the aggregator.
+
+        Args:
+            save_collected: Whether to save collected data to disk
+        """
+        self.save_collected = save_collected
+        self._collectors: dict = {}
+        self._collection_log: list[CollectionStatus] = []
+
+    def _record_status(
+        self,
+        source: str,
+        query_params: dict,
+        success: bool,
+        result_count: int = 0,
+        error_message: str | None = None,
+    ) -> None:
+        """Record a collection status entry."""
+        status = "success" if success else ("error" if error_message else "not_found")
+        self._collection_log.append(
+            CollectionStatus(
+                source=source,
+                query_params=query_params,
+                queried_at=datetime.now().isoformat(),
+                status=status,
+                result_count=result_count,
+                error_message=error_message,
+            )
+        )
+
+    def _get_collector(self, name: str):
+        """Lazy-load collectors as needed."""
+        if name not in self._collectors:
+            if name == "npra":
+                from .npra import NPRACollector
+                self._collectors[name] = NPRACollector()
+            elif name == "drugbank":
+                from .drugbank import DrugBankCollector
+                self._collectors[name] = DrugBankCollector()
+            elif name == "clinicaltrials":
+                from .clinicaltrials import ClinicalTrialsCollector
+                self._collectors[name] = ClinicalTrialsCollector()
+            elif name == "ictrp":
+                from .ictrp import ICTRPCollector
+                self._collectors[name] = ICTRPCollector()
+            elif name == "pubmed":
+                from .pubmed import PubMedCollector
+                self._collectors[name] = PubMedCollector()
+        return self._collectors.get(name)
+
+    def collect_drug_level_data(self, drug_name: str) -> tuple[dict, dict]:
+        """Collect drug-level data (NPRA, DrugBank).
+
+        These are collected once per drug, regardless of indications.
+
+        Args:
+            drug_name: Drug name
+
+        Returns:
+            Tuple of (npra_data, drugbank_data)
+        """
+        from ..paths import get_collected_dir, slugify
+
+        npra_data = {"found": False, "records": []}
+        drugbank_data = {"found": False}
+
+        drug_slug = slugify(drug_name)
+
+        # Collect NPRA data
+        npra_collector = self._get_collector("npra")
+        if npra_collector:
+            try:
+                result = npra_collector.search(drug=drug_name)
+                if result.success and result.data:
+                    npra_data = {"found": True, "records": result.data}
+                    self._record_status("npra", {"drug": drug_name}, True, len(result.data))
+                    if self.save_collected:
+                        collected_dir = get_collected_dir("npra")
+                        collected_dir.mkdir(parents=True, exist_ok=True)
+                        with open(collected_dir / f"{drug_slug}.json", "w", encoding="utf-8") as f:
+                            json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("npra", {"drug": drug_name}, False, 0)
+            except Exception as e:
+                npra_data["error"] = str(e)
+                self._record_status("npra", {"drug": drug_name}, False, 0, str(e))
+
+        # Collect DrugBank data
+        drugbank_collector = self._get_collector("drugbank")
+        if drugbank_collector:
+            try:
+                result = drugbank_collector.search(drug=drug_name)
+                if result.success and result.data:
+                    drugbank_data = {"found": True, **result.data}
+                    self._record_status("drugbank", {"drug": drug_name}, True, 1)
+                    if self.save_collected:
+                        collected_dir = get_collected_dir("drugbank")
+                        collected_dir.mkdir(parents=True, exist_ok=True)
+                        with open(collected_dir / f"{drug_slug}.json", "w", encoding="utf-8") as f:
+                            json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("drugbank", {"drug": drug_name}, False, 0)
+            except Exception as e:
+                drugbank_data["error"] = str(e)
+                self._record_status("drugbank", {"drug": drug_name}, False, 0, str(e))
+
+        return npra_data, drugbank_data
+
+    def collect_indication_data(
+        self,
+        drug_name: str,
+        indication: PredictedIndication,
+    ) -> PredictedIndication:
+        """Collect disease-specific data for one predicted indication.
+
+        Args:
+            drug_name: Drug name
+            indication: The predicted indication to collect data for
+
+        Returns:
+            Updated PredictedIndication with collected evidence
+        """
+        from ..paths import get_collected_dir, slugify
+
+        drug_slug = slugify(drug_name)
+        disease_slug = slugify(indication.disease_name)
+        pair_slug = f"{drug_slug}_{disease_slug}"
+
+        query_params = {"drug": drug_name, "disease": indication.disease_name}
+
+        # Collect clinical trials
+        ct_collector = self._get_collector("clinicaltrials")
+        if ct_collector:
+            try:
+                result = ct_collector.search(drug=drug_name, disease=indication.disease_name)
+                if result.success and result.data:
+                    indication.clinical_trials = result.data
+                    self._record_status("clinicaltrials", query_params, True, len(result.data))
+                    if self.save_collected:
+                        collected_dir = get_collected_dir("clinicaltrials")
+                        collected_dir.mkdir(parents=True, exist_ok=True)
+                        with open(collected_dir / f"{pair_slug}.json", "w", encoding="utf-8") as f:
+                            json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("clinicaltrials", query_params, True, 0)
+            except Exception as e:
+                self._record_status("clinicaltrials", query_params, False, 0, str(e))
+
+        # Collect ICTRP trials
+        ictrp_collector = self._get_collector("ictrp")
+        if ictrp_collector:
+            try:
+                result = ictrp_collector.search(drug=drug_name, disease=indication.disease_name)
+                if result.success and result.data:
+                    indication.ictrp_trials = result.data
+                    self._record_status("ictrp", query_params, True, len(result.data))
+                    if self.save_collected:
+                        collected_dir = get_collected_dir("ictrp")
+                        collected_dir.mkdir(parents=True, exist_ok=True)
+                        with open(collected_dir / f"{pair_slug}.json", "w", encoding="utf-8") as f:
+                            json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("ictrp", query_params, True, 0)
+            except Exception as e:
+                self._record_status("ictrp", query_params, False, 0, str(e))
+
+        # Collect PubMed articles
+        pubmed_collector = self._get_collector("pubmed")
+        if pubmed_collector:
+            try:
+                result = pubmed_collector.search(drug=drug_name, disease=indication.disease_name)
+                if result.success and result.data:
+                    articles = result.data.get("results", [])
+                    indication.pubmed_articles = articles
+                    self._record_status("pubmed", query_params, True, len(articles))
+                    if self.save_collected:
+                        collected_dir = get_collected_dir("pubmed")
+                        collected_dir.mkdir(parents=True, exist_ok=True)
+                        with open(collected_dir / f"{pair_slug}.json", "w", encoding="utf-8") as f:
+                            json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("pubmed", query_params, True, 0)
+            except Exception as e:
+                self._record_status("pubmed", query_params, False, 0, str(e))
+
+        return indication
+
+    def collect(
+        self,
+        drug_name: str,
+        drugbank_id: str | None = None,
+        indications: list[str] | None = None,
+        kg_scores: dict[str, float] | None = None,
+    ) -> DrugBundle:
+        """Collect all evidence for a drug with its predicted indications.
+
+        Args:
+            drug_name: Drug name
+            drugbank_id: Optional DrugBank ID
+            indications: List of indication names to collect evidence for
+            kg_scores: Optional dict of indication -> KG score
+
+        Returns:
+            DrugBundle with all collected evidence
+        """
+        # Clear collection log for this run
+        self._collection_log = []
+
+        # Step 1: Collect drug-level data once
+        npra_data, drugbank_data = self.collect_drug_level_data(drug_name)
+
+        # Use DrugBank ID from data if not provided
+        if not drugbank_id and drugbank_data.get("found"):
+            drugbank_id = drugbank_data.get("drugbank_id")
+
+        # Get MOA from DrugBank
+        original_moa = drugbank_data.get("mechanism_of_action") if drugbank_data.get("found") else None
+
+        # Step 2: Build predicted indications
+        predicted_indications = []
+        if indications:
+            for i, disease in enumerate(indications):
+                pi = PredictedIndication(
+                    disease_name=disease,
+                    kg_score=kg_scores.get(disease) if kg_scores else None,
+                    kg_rank=i + 1,
+                )
+                predicted_indications.append(pi)
+
+        # Step 3: Collect disease-specific data for each indication
+        for indication in predicted_indications:
+            self.collect_indication_data(drug_name, indication)
+
+        # Step 4: Build the DrugBundle
+        drug = DrugCandidate(
+            name=drug_name,
+            drugbank_id=drugbank_id,
+            original_indications=[],  # Could be extracted from NPRA if available
+            original_moa=original_moa,
+            predicted_indications=predicted_indications,
+        )
+
+        bundle = DrugBundle(
+            drug=drug,
+            npra=npra_data,
+            drugbank=drugbank_data,
+            collection_log=self._collection_log.copy(),
+            metadata={
+                "indications_requested": len(indications) if indications else 0,
+                "indications_processed": len(predicted_indications),
+            },
+        )
+
+        return bundle
