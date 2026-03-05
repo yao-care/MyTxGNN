@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-05T01:06:58.214976",
+  "fetched": "2026-03-05T04:02:28.953924",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,41 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "IJN First In Asia To Use New System To Treat Irregular Heart Rhythm",
+      "url": "https://codeblue.galencentre.org/2026/03/ijn-first-in-asia-to-use-new-system-to-treat-irregular-heart-rhythm/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-05T03:30:00",
+      "summary": "IJN is the first in Asia to use the Affera Prism-2 system to treat atrial fibrillation, allowing mapping and ablation in a single procedure. The national heart centre has treated 11 patients since February, mainly complex cases, with no complications reported. The post IJN First In Asia To Use New System To Treat Irregular Heart Rhythm appeared first on CodeBlue .",
+      "keywords_matched": [
+        "patient",
+        "trial"
+      ]
+    },
+    {
+      "title": "Sugar, Instant Noodles Most Purchased Sara Items: MOF",
+      "url": "https://codeblue.galencentre.org/2026/03/sugar-instant-noodles-most-purchased-sara-items-mof/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-05T02:00:00",
+      "summary": "The top 5 most purchased items with Sara aid are mostly unhealthy or highly processed food: sugar, instant noodles (curry), cream crackers, instant noodles (fried), and eggs, based on MOF data. Fresh food inclusion under study due to barcode-based system. The post Sugar, Instant Noodles Most Purchased Sara Items: MOF appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Doctors’ Duty Of Care Is Not For Sale — Malaysian Medical Association",
+      "url": "https://codeblue.galencentre.org/2026/03/doctors-duty-of-care-is-not-for-sale-malaysian-medical-association/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-05T01:54:48",
+      "summary": "MMA warns doctors against leasing their credentialing privileges to aesthetic operators or prescribing Ozempic and Mounjaro for weight loss without proper assessment. Such practices breach medical ethics, risk patient harm, and undermine public trust. The post Doctors’ Duty Of Care Is Not For Sale — Malaysian Medical Association appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor",
+        "patient"
+      ]
+    },
     {
       "title": "Protect Children From Attacks On Schools — Malaysian Paediatric Association",
       "url": "https://codeblue.galencentre.org/2026/03/protect-children-from-attacks-on-schools-malaysian-paediatric-association/",
@@ -86,39 +119,23 @@
       ]
     },
     {
-      "title": "IHH Healthcare Malaysia Marks Third Consecutive Year in Newsweek’s World’s Best Hospitals 2026 Rankings",
-      "url": "https://codeblue.galencentre.org/2026/03/ihh-healthcare-malaysia-marks-third-consecutive-year-in-newsweeks-worlds-best-hospitals-2026-rankings/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-03T02:21:19",
-      "summary": "The continued recognition reflects governance systems that are firmly established across its hospitals, with patient safety and care standards applied consistently across specialties and services. The post IHH Healthcare Malaysia Marks Third Consecutive Year in Newsweek’s World’s Best Hospitals 2026 Rankings appeared first on CodeBlue .",
+      "title": "Latest rabies fatality had no clear bite wound, says Dzulkefly",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/05/latest-rabies-fatality-had-no-clear-bite-wound-says-dzulkefly",
+      "source": "The Star Health",
+      "published": "2026-03-05T03:23:00",
+      "summary": "PETALING JAYA: A 44-year-old man in Sarawak has died of rabies, the country's first recorded fatality from the disease this year. Read full story",
       "keywords_matched": [
-        "health",
-        "hospital",
-        "patient",
-        "hospital"
+        "disease"
       ]
     },
     {
-      "title": "Expert: Gradually Replace PTDs In MOH With Public Health, Allied Health Professionals",
-      "url": "https://codeblue.galencentre.org/2026/03/expert-gradually-replace-ptds-in-moh-with-public-health-allied-health-professionals/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-03T02:00:00",
-      "summary": "A public health medicine specialist (PHMS) wants a study to identify MOH's admin posts held by PTDs that can be gradually filled by PHMS or allied health professionals trained in health system management. PTDs are still relevant in some areas in HQ/state. The post Expert: Gradually Replace PTDs In MOH With Public Health, Allied Health Professionals appeared first on CodeBlue .",
+      "title": "Cops find drugs in 4WD after fatal crash in Muar",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/05/cops-find-drugs-in-4wd-after-fatal-crash-in-muar",
+      "source": "The Star Health",
+      "published": "2026-03-05T02:05:00",
+      "summary": "MUAR: Police found drugs in a four-wheel-drive (4WD) vehicle after it was involved in a fatal accident with a motorcycle on Jalan Rencong in Lenga near here. Read full story",
       "keywords_matched": [
-        "health",
-        "medicine"
-      ]
-    },
-    {
-      "title": "SMC Ranked Malaysia’s No. 1 Hospital In Newsweek’s World’s Best Hospitals 2026",
-      "url": "https://codeblue.galencentre.org/2026/03/smc-ranked-malaysias-no-1-hospital-in-newsweeks-worlds-best-hospitals-2026/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-02T08:35:27",
-      "summary": "Sunway Medical Centre is home to more than 300 resident medical consultants and provides comprehensive care across over 80 medical specialties and 28 Centres of Excellence. The post SMC Ranked Malaysia’s No. 1 Hospital In Newsweek’s World’s Best Hospitals 2026 appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "hospital"
+        "drug"
       ]
     }
   ]
