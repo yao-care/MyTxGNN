@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-05T09:32:23.733129",
+  "fetched": "2026-03-05T10:28:53.169028",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Why Malaysia Must Use AI To Strengthen TB Control — Mohamad Arif Awang Nawi",
@@ -117,16 +117,6 @@
       "summary": "In defending the RM100k annual limit under the Base MHIT plan, LIAM claims that the average medical claim is only RM12,000, even though many ITOs in the insurance industry regularly tout policies with RM1m or higher annual limits for medical emergencies. The post LIAM Alleges Average Medical Insurance Claim Only RM12,000 appeared first on CodeBlue .",
       "keywords_matched": [
         "medical"
-      ]
-    },
-    {
-      "title": "Uncle and nephew killed when drug‑positive driver’s Ford Ranger veers into oncoming lane in Muar",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/05/uncle-and-nephew-killed-when-drugpositive-drivers-ford-ranger-veers-into-oncoming-lane-in-muar/211411",
-      "source": "Malay Mail",
-      "published": "2026-03-05T06:35:02",
-      "summary": "MUAR, March 5 — A motorcyclist and his elderly pillion rider were killed after their motorcycle was rammed by a fo...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
