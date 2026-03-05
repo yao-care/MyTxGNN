@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-05T22:20:16.812274",
+  "fetched": "2026-03-05T23:43:52.328201",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 14,
   "items": [
     {
       "title": "Why Malaysia Must Use AI To Strengthen TB Control — Mohamad Arif Awang Nawi",
@@ -115,6 +115,47 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-03-03T07:26:57",
       "summary": "In defending the RM100k annual limit under the Base MHIT plan, LIAM claims that the average medical claim is only RM12,000, even though many ITOs in the insurance industry regularly tout policies with RM1m or higher annual limits for medical emergencies. The post LIAM Alleges Average Medical Insurance Claim Only RM12,000 appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
+    {
+      "title": "INTERACTIVE: Malaysia’s score improves for gender equality but we are still worst in Asean",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/06/interactive-malaysias-score-improves-for-gender-equality-but-we-are-still-worst-in-asean",
+      "source": "The Star Health",
+      "published": "2026-03-05T23:00:00",
+      "summary": "Our country jumped up six steps in the Global Gender Gap Index from 114th to 108th, but more still needs to be done for women to succeed with the government stepping up efforts to support them in health and education. Read full story",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Obesity surges among kids",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/06/obesity-surges-among-kids",
+      "source": "The Star Health",
+      "published": "2026-03-05T16:00:00",
+      "summary": "PETALING JAYA: More than 2.8 million school-aged children in Malaysia are overweight or living with obesity, according to the World Obesity Federation (WOF), raising concerns about a surge in early chronic diseases as the world falls short of targets to curb the crisis. Read full story",
+      "keywords_matched": [
+        "disease"
+      ]
+    },
+    {
+      "title": "NCD crisis looms with dietitian shortage",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/06/ncd-crisis-looms-with-dietitian-shortage",
+      "source": "The Star Health",
+      "published": "2026-03-05T16:00:00",
+      "summary": "PETALING JAYA: A serious non-communicable and chronic disease (NCD) problem is looming, with an acute shortage of dietitians at government health clinics nationwide. Read full story",
+      "keywords_matched": [
+        "health",
+        "disease"
+      ]
+    },
+    {
+      "title": "Boosting women’s welfare",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/06/boosting-womens-welfare",
+      "source": "The Star Health",
+      "published": "2026-03-05T16:00:00",
+      "summary": "PETALING JAYA: Expanding access to affordable childcare, offering more subsidised medical services for women and ensuring girls stay in school. Read full story",
       "keywords_matched": [
         "medical"
       ]
