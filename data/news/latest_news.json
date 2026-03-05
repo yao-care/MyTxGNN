@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-05T05:39:59.487971",
+  "fetched": "2026-03-05T06:37:04.551808",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 15,
   "items": [
+    {
+      "title": "Teen Pregnancy Data Is Incomplete Without Abortion Figures — Dr SP Choong",
+      "url": "https://codeblue.galencentre.org/2026/03/teen-pregnancy-data-is-incomplete-without-abortion-figures-dr-sp-choong/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-05T06:00:00",
+      "summary": "Dr SP Choong argues teen pregnancy data cited in a Ministry of Health report is misleading because it counts only hospital births, not abortions. He says the issue must also address access to safe, legal abortion and accurate information. The post Teen Pregnancy Data Is Incomplete Without Abortion Figures — Dr SP Choong appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "IJN First In Asia To Use New System To Treat Irregular Heart Rhythm",
       "url": "https://codeblue.galencentre.org/2026/03/ijn-first-in-asia-to-use-new-system-to-treat-irregular-heart-rhythm/",
@@ -106,26 +118,43 @@
       "keywords_matched": []
     },
     {
-      "title": "Health PSSC Moots Expansion Of Insurance Coverage For Mental Health Services",
-      "url": "https://codeblue.galencentre.org/2026/03/health-pssc-moots-expansion-of-insurance-coverage-for-mental-health-services/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-03T03:30:00",
-      "summary": "The Health PSSC recommends expanding insurance coverage for mental health services, warning that limited coverage is pushing patients to pay out of pocket and straining public hospitals. Preventive care remains largely excluded from insurance. The post Health PSSC Moots Expansion Of Insurance Coverage For Mental Health Services appeared first on CodeBlue .",
+      "title": "Penang cops uncover illegal e-waste factory, seize items worth RM350,000",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/05/penang-cops-uncover-illegal-e-waste-factory-seize-items-worth-rm350000",
+      "source": "The Star Health",
+      "published": "2026-03-05T06:20:00",
+      "summary": "BUKIT MERTAJAM: Police uncovered unauthorised electronic waste (e‑waste) processing at a factory in the Asas Jaya Light Industrial Estate here on Wednesday (March 4), seizing materials worth RM350,000. Read full story",
       "keywords_matched": [
-        "health",
-        "hospital",
-        "patient",
-        "hospital"
+        "trial"
       ]
     },
     {
-      "title": "Latest rabies fatality had no clear bite wound, says Dzulkefly",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/05/latest-rabies-fatality-had-no-clear-bite-wound-says-dzulkefly",
+      "title": "Namewee to submit representation over charges for drug possession",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/05/namewee-to-submit-representation-over-charges-for-drug-possession",
       "source": "The Star Health",
-      "published": "2026-03-05T03:23:00",
-      "summary": "PETALING JAYA: A 44-year-old man in Sarawak has died of rabies, the country's first recorded fatality from the disease this year. Read full story",
+      "published": "2026-03-05T06:06:00",
+      "summary": "KUALA LUMPUR: Rapper Wee Meng Chee, better known as Namewee, will submit a representation to review two charges of possession of drugs and Sildenafil, last year. Read full story",
       "keywords_matched": [
-        "disease"
+        "drug"
+      ]
+    },
+    {
+      "title": "Uncle and nephew killed when drug‑positive driver’s Ford Ranger veers into oncoming lane in Muar",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/05/uncle-and-nephew-killed-when-drugpositive-drivers-ford-ranger-veers-into-oncoming-lane-in-muar/211411",
+      "source": "Malay Mail",
+      "published": "2026-03-05T06:35:02",
+      "summary": "MUAR, March 5 — A motorcyclist and his elderly pillion rider were killed after their motorcycle was rammed by a fo...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Man dies of rabies in Sarawak, marking Malaysia’s first fatality this year, says health minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/05/man-dies-of-rabies-in-sarawak-marking-malaysias-first-fatality-this-year-says-health-minister/211406",
+      "source": "Malay Mail",
+      "published": "2026-03-05T06:10:34",
+      "summary": "=PUTRAJAYA, March 5 — A 44-year-old man died from a rabies infection in Kota Samarahan, Sarawak, on Feb 25, markin...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
