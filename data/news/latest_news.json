@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-05T06:37:04.551808",
+  "fetched": "2026-03-05T07:35:17.801736",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Why Malaysia Must Use AI To Strengthen TB Control — Mohamad Arif Awang Nawi",
+      "url": "https://codeblue.galencentre.org/2026/03/why-malaysia-must-use-ai-to-strengthen-tb-control-mohamad-arif-awang-nawi/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-05T07:30:00",
+      "summary": "A USM senior lecturer urges Malaysia to use artificial intelligence to strengthen tuberculosis control. AI could detect TB earlier, predict hotspots, and improve treatment adherence, though challenges like fragmented data and limited capacity remain. The post Why Malaysia Must Use AI To Strengthen TB Control — Mohamad Arif Awang Nawi appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment"
+      ]
+    },
     {
       "title": "Teen Pregnancy Data Is Incomplete Without Abortion Figures — Dr SP Choong",
       "url": "https://codeblue.galencentre.org/2026/03/teen-pregnancy-data-is-incomplete-without-abortion-figures-dr-sp-choong/",
@@ -110,14 +120,6 @@
       ]
     },
     {
-      "title": "Malaysia Is Running Out Of Caregivers And Time — Rashidi Yahaya",
-      "url": "https://codeblue.galencentre.org/2026/03/malaysia-is-running-out-of-caregivers-and-time-rashidi-yahaya/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-03T05:30:00",
-      "summary": "Malaysia requires a long-term care insurance framework that spreads risk across the population and creates a sustainable financing pool, built before the demographic wave hits full force, not after. The post Malaysia Is Running Out Of Caregivers And Time — Rashidi Yahaya appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
       "title": "Penang cops uncover illegal e-waste factory, seize items worth RM350,000",
       "url": "https://www.thestar.com.my/news/nation/2026/03/05/penang-cops-uncover-illegal-e-waste-factory-seize-items-worth-rm350000",
       "source": "The Star Health",
@@ -125,16 +127,6 @@
       "summary": "BUKIT MERTAJAM: Police uncovered unauthorised electronic waste (e‑waste) processing at a factory in the Asas Jaya Light Industrial Estate here on Wednesday (March 4), seizing materials worth RM350,000. Read full story",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Namewee to submit representation over charges for drug possession",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/05/namewee-to-submit-representation-over-charges-for-drug-possession",
-      "source": "The Star Health",
-      "published": "2026-03-05T06:06:00",
-      "summary": "KUALA LUMPUR: Rapper Wee Meng Chee, better known as Namewee, will submit a representation to review two charges of possession of drugs and Sildenafil, last year. Read full story",
-      "keywords_matched": [
-        "drug"
       ]
     },
     {
