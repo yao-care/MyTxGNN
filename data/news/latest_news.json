@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-06T07:32:15.383141",
+  "fetched": "2026-03-06T08:24:55.219705",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "Why Children Have Rights, And Older Persons Still Rely On ‘Kindness’",
@@ -110,6 +110,26 @@
       "summary": "The top 5 most purchased items with Sara aid are mostly unhealthy or highly processed food: sugar, instant noodles (curry), cream crackers, instant noodles (fried), and eggs, based on MOF data. Fresh food inclusion under study due to barcode-based system. The post Sugar, Instant Noodles Most Purchased Sara Items: MOF appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Alor Setar private doctor loses RM3.8mil in IPO investment scam",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/06/alor-setar-private-doctor-loses-rm38mil-in-ipo-investment-scam",
+      "source": "The Star Health",
+      "published": "2026-03-06T08:11:00",
+      "summary": "ALOR SETAR: A private doctor here was conned out of RM3.8mil after allegedly falling victim to a non-existent Initial Public Offering (IPO) investment scheme involving currency shares from China and Hong Kong. Read full story",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Fake IPO scheme promising 50pc returns costs doctor RM3.8m, say Kedah cops",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/06/fake-ipo-scheme-promising-50pc-returns-costs-doctor-rm38m-say-kedah-cops/211593",
+      "source": "Malay Mail",
+      "published": "2026-03-06T08:04:13",
+      "summary": "ALOR SETAR, March 6 — A private doctor was conned out of RM3.8 million after allegedly falling victim to a non-exi...",
+      "keywords_matched": [
+        "doctor"
       ]
     }
   ]
