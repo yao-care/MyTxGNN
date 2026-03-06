@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-06T12:30:01.681973",
+  "fetched": "2026-03-06T13:45:27.325609",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 14,
   "items": [
     {
       "title": "Hasnol Zam Zam Appointed New Health Ministry Sec-Gen",
@@ -155,16 +155,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Fake IPO scheme promising 50pc returns costs doctor RM3.8m, say Kedah cops",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/06/fake-ipo-scheme-promising-50pc-returns-costs-doctor-rm38m-say-kedah-cops/211593",
-      "source": "Malay Mail",
-      "published": "2026-03-06T08:04:13",
-      "summary": "ALOR SETAR, March 6 — A private doctor was conned out of RM3.8 million after allegedly falling victim to a non-exi...",
-      "keywords_matched": [
-        "doctor"
       ]
     }
   ]
