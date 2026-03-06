@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-06T06:33:32.207850",
+  "fetched": "2026-03-06T07:32:15.383141",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Why Children Have Rights, And Older Persons Still Rely On ‘Kindness’",
+      "url": "https://codeblue.galencentre.org/2026/03/why-children-have-rights-and-older-persons-still-rely-on-kindness/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-06T07:20:00",
+      "summary": "If Malaysia is serious about preparing for the “grey wave”, it must move beyond well-meaning policies and begin building a rights-based legal architecture for ageing. The post Why Children Have Rights, And Older Persons Still Rely On ‘Kindness’ appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Age Caps Are Blocking Experienced Doctors From Specialist Training — Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/03/age-caps-are-blocking-experienced-doctors-from-specialist-training-medical-officer/",
@@ -102,18 +110,6 @@
       "summary": "The top 5 most purchased items with Sara aid are mostly unhealthy or highly processed food: sugar, instant noodles (curry), cream crackers, instant noodles (fried), and eggs, based on MOF data. Fresh food inclusion under study due to barcode-based system. The post Sugar, Instant Noodles Most Purchased Sara Items: MOF appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Doctors’ Duty Of Care Is Not For Sale — Malaysian Medical Association",
-      "url": "https://codeblue.galencentre.org/2026/03/doctors-duty-of-care-is-not-for-sale-malaysian-medical-association/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-05T01:54:48",
-      "summary": "MMA warns doctors against leasing their credentialing privileges to aesthetic operators or prescribing Ozempic and Mounjaro for weight loss without proper assessment. Such practices breach medical ethics, risk patient harm, and undermine public trust. The post Doctors’ Duty Of Care Is Not For Sale — Malaysian Medical Association appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor",
-        "patient"
       ]
     }
   ]
