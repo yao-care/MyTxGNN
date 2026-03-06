@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-06T13:45:27.325609",
+  "fetched": "2026-03-06T14:28:58.108588",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "title": "Hasnol Zam Zam Appointed New Health Ministry Sec-Gen",
@@ -122,16 +122,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Ex-CDO claims trial to abusing position to benefit relatives",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/06/ex-cdo-claims-trial-to-abusing-position-to-benefit-relatives",
-      "source": "The Star Health",
-      "published": "2026-03-06T11:17:00",
-      "summary": "SANDAKAN: A community development officer claimed trial to two charges of abusing his position to recommend two relatives as recipients of Rumah Mesra Sabah Maju Jaya houses in 2022. Read full story",
-      "keywords_matched": [
-        "trial"
       ]
     },
     {
