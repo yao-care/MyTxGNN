@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-06T03:59:34.628957",
+  "fetched": "2026-03-06T05:09:55.263036",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Pharmacist Contract Delays Trigger Talent Loss To Private Sector, Senator Warns",
@@ -111,16 +111,6 @@
       "published": "2026-03-04T07:30:00",
       "summary": "The MPA urges the international community to move beyond words of sympathy and take decisive action to ensure that children everywhere are shielded from the horrors of war and violence. The post Protect Children From Attacks On Schools — Malaysian Paediatric Association appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "INTERACTIVE: Malaysia’s score improves for gender equality but we are still worst in Asean",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/06/interactive-malaysias-score-improves-for-gender-equality-but-we-are-still-worst-in-asean",
-      "source": "The Star Health",
-      "published": "2026-03-05T23:00:00",
-      "summary": "Our country jumped up six steps in the Global Gender Gap Index from 114th to 108th, but more still needs to be done for women to succeed with the government stepping up efforts to support them in health and education. Read full story",
-      "keywords_matched": [
-        "health"
-      ]
     }
   ]
 }
