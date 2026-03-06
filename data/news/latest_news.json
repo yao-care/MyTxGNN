@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-06T14:28:58.108588",
+  "fetched": "2026-03-06T15:26:49.032806",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Hasnol Zam Zam Appointed New Health Ministry Sec-Gen",
@@ -109,17 +109,6 @@
       "summary": "Dr SP Choong argues teen pregnancy data cited in a Ministry of Health report is misleading because it counts only hospital births, not abortions. He says the issue must also address access to safe, legal abortion and accurate information. The post Teen Pregnancy Data Is Incomplete Without Abortion Figures — Dr SP Choong appeared first on CodeBlue .",
       "keywords_matched": [
         "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Gathering over Penang temple will not proceed, say cops",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/06/gathering-over-penang-temple-will-not-proceed-say-cops",
-      "source": "The Star Health",
-      "published": "2026-03-06T11:51:00",
-      "summary": "BUKIT MERTAJAM: A planned gathering concerning a temple near a hospital in Penang will not proceed following discussions between the police, organisers and the temple management. Read full story",
-      "keywords_matched": [
         "hospital",
         "hospital"
       ]
