@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-06T05:09:55.263036",
+  "fetched": "2026-03-06T06:33:32.207850",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,18 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Age Caps Are Blocking Experienced Doctors From Specialist Training — Medical Officer",
+      "url": "https://codeblue.galencentre.org/2026/03/age-caps-are-blocking-experienced-doctors-from-specialist-training-medical-officer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-06T05:30:00",
+      "summary": "The public health system needs more specialists, yet rigid age limits block long-serving doctors from specialist training, even if self-funded. The policy risks wasting experienced talent and undermining efforts to expand the public sector specialist workforce. The post Age Caps Are Blocking Experienced Doctors From Specialist Training — Medical Officer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "Pharmacist Contract Delays Trigger Talent Loss To Private Sector, Senator Warns",
       "url": "https://codeblue.galencentre.org/2026/03/pharmacist-contract-delays-trigger-talent-loss-to-private-sector-senator-warns/",
@@ -103,14 +115,6 @@
         "doctor",
         "patient"
       ]
-    },
-    {
-      "title": "Protect Children From Attacks On Schools — Malaysian Paediatric Association",
-      "url": "https://codeblue.galencentre.org/2026/03/protect-children-from-attacks-on-schools-malaysian-paediatric-association/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-04T07:30:00",
-      "summary": "The MPA urges the international community to move beyond words of sympathy and take decisive action to ensure that children everywhere are shielded from the horrors of war and violence. The post Protect Children From Attacks On Schools — Malaysian Paediatric Association appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
