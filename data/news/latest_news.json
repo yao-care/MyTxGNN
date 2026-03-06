@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-06T08:24:55.219705",
+  "fetched": "2026-03-06T09:27:37.748028",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,30 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Hasnol Zam Zam Appointed New Health Ministry Sec-Gen",
+      "url": "https://codeblue.galencentre.org/2026/03/hasnol-zam-zam-appointed-new-health-ministry-sec-gen/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-06T08:59:07",
+      "summary": "Hasnol Zam Zam has been transferred from Mosti to MOH as secretary-general effective March 9, replacing Suriani Ahmad, amid several leadership changes in other ministries. The post Hasnol Zam Zam Appointed New Health Ministry Sec-Gen appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Coronary Stent Excluded From Civil Servants’ GL Coverage In Public Hospitals: UiTM",
+      "url": "https://codeblue.galencentre.org/2026/03/coronary-stent-excluded-from-civil-servants-gl-coverage-in-public-hospitals-uitm/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-06T08:42:31",
+      "summary": "UiTM says coronary stents are not covered under civil servants’ guarantee letters (GL) for treatment in UiTM Hospital, in line with procedures in MOH hospitals. Stents are categorised as special devices, for which applicants can request financial aid. The post Coronary Stent Excluded From Civil Servants’ GL Coverage In Public Hospitals: UiTM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Why Children Have Rights, And Older Persons Still Rely On ‘Kindness’",
       "url": "https://codeblue.galencentre.org/2026/03/why-children-have-rights-and-older-persons-still-rely-on-kindness/",
@@ -92,27 +114,6 @@
       ]
     },
     {
-      "title": "IJN First In Asia To Use New System To Treat Irregular Heart Rhythm",
-      "url": "https://codeblue.galencentre.org/2026/03/ijn-first-in-asia-to-use-new-system-to-treat-irregular-heart-rhythm/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-05T03:30:00",
-      "summary": "IJN is the first in Asia to use the Affera Prism-2 system to treat atrial fibrillation, allowing mapping and ablation in a single procedure. The national heart centre has treated 11 patients since February, mainly complex cases, with no complications reported. The post IJN First In Asia To Use New System To Treat Irregular Heart Rhythm appeared first on CodeBlue .",
-      "keywords_matched": [
-        "patient",
-        "trial"
-      ]
-    },
-    {
-      "title": "Sugar, Instant Noodles Most Purchased Sara Items: MOF",
-      "url": "https://codeblue.galencentre.org/2026/03/sugar-instant-noodles-most-purchased-sara-items-mof/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-05T02:00:00",
-      "summary": "The top 5 most purchased items with Sara aid are mostly unhealthy or highly processed food: sugar, instant noodles (curry), cream crackers, instant noodles (fried), and eggs, based on MOF data. Fresh food inclusion under study due to barcode-based system. The post Sugar, Instant Noodles Most Purchased Sara Items: MOF appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
       "title": "Alor Setar private doctor loses RM3.8mil in IPO investment scam",
       "url": "https://www.thestar.com.my/news/nation/2026/03/06/alor-setar-private-doctor-loses-rm38mil-in-ipo-investment-scam",
       "source": "The Star Health",
@@ -120,6 +121,29 @@
       "summary": "ALOR SETAR: A private doctor here was conned out of RM3.8mil after allegedly falling victim to a non-existent Initial Public Offering (IPO) investment scheme involving currency shares from China and Hong Kong. Read full story",
       "keywords_matched": [
         "doctor"
+      ]
+    },
+    {
+      "title": "Penang police warn public against temple assembly near Bukit Mertajam Hospital, vow firm action",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/06/penang-police-warn-public-against-temple-assembly-near-bukit-mertajam-hospital-vow-firm-action/211608",
+      "source": "Malay Mail",
+      "published": "2026-03-06T09:08:35",
+      "summary": "GEORGE TOWN, March 6 — Penang police chief Datuk Azizee Ismail has warned the public not to attend, gather or be i...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "IJN becomes Malaysia’s first hospital to achieve HIMSS EMRAM Stage 7 validation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/06/ijn-becomes-malaysias-first-hospital-to-achieve-himss-emram-stage-7-validation/211602",
+      "source": "Malay Mail",
+      "published": "2026-03-06T08:31:28",
+      "summary": "KUALA LUMPUR, March 6 — The National Heart Institute (IJN) continues to lead Malaysia’s digital healthcare t...",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
       ]
     },
     {
