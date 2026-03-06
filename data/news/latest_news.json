@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-06T01:10:49.064012",
+  "fetched": "2026-03-06T03:59:34.628957",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,48 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Pharmacist Contract Delays Trigger Talent Loss To Private Sector, Senator Warns",
+      "url": "https://codeblue.galencentre.org/2026/03/pharmacist-contract-delays-trigger-talent-loss-to-private-sector-senator-warns/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-06T03:58:32",
+      "summary": "Senator RA Lingeshwaran says delays in permanent appointments are pushing pharmacists out of MOH. Of 352 reserve candidates awaiting posts, 209 have left. He warned MOH cannot keep a “wait for vacancies” hiring model if it drives talent to the private sector. The post Pharmacist Contract Delays Trigger Talent Loss To Private Sector, Senator Warns appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "MSNMMI Launches MyNuCLEaR Platform To Map Nuclear Medicine Services In Malaysia",
+      "url": "https://codeblue.galencentre.org/2026/03/msnmmi-launches-mynuclear-platform-to-map-nuclear-medicine-services-in-malaysia/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-06T03:30:00",
+      "summary": "The Malaysian Society of Nuclear Medicine and Molecular Imaging (MSNMMI) has launched MyNuCLEaR, an online platform mapping nuclear medicine facilities nationwide. The portal aims to improve access to services, information, and therapies such as theranostics. The post MSNMMI Launches MyNuCLEaR Platform To Map Nuclear Medicine Services In Malaysia appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine"
+      ]
+    },
+    {
+      "title": "Master’s Graduates Run Hospitals On ‘Study Leave’ But Can’t Apply For Subspecialty Training — Physician",
+      "url": "https://codeblue.galencentre.org/2026/03/masters-graduates-run-hospitals-on-study-leave-but-cant-apply-for-subspecialty-training-physician/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-06T02:00:00",
+      "summary": "A requirement for three consecutive full-year LNPT reports may delay subspecialty training for Master’s graduates by several years. One doctor says this is because Master’s training is classified as “study leave”, despite trainees continuing to run wards, clinics, and on-calls. The post Master’s Graduates Run Hospitals On ‘Study Leave’ But Can’t Apply For Subspecialty Training — Physician appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Undermining India’s Primary Health Care Missions",
+      "url": "https://codeblue.galencentre.org/2026/03/undermining-indias-primary-health-care-missions/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-06T01:56:02",
+      "summary": "Instead of a thrust on key areas such as women and children’s health, the government has chosen to expand tertiary health care. The post Undermining India’s Primary Health Care Missions appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Why Malaysia Must Use AI To Strengthen TB Control — Mohamad Arif Awang Nawi",
       "url": "https://codeblue.galencentre.org/2026/03/why-malaysia-must-use-ai-to-strengthen-tb-control-mohamad-arif-awang-nawi/",
@@ -73,53 +113,6 @@
       "keywords_matched": []
     },
     {
-      "title": "Outpatient Overload: Can Private GPs Relieve Malaysia’s Public Hospitals? — Dr Mohamed Rafick Khan",
-      "url": "https://codeblue.galencentre.org/2026/03/outpatient-overload-can-private-gps-relieve-malaysias-public-hospitals-dr-mohamed-rafick-khan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-04T05:30:00",
-      "summary": "Scaling GP responsibilities is feasible, but only with coordinated training pathways, regulatory recalibration, and performance-based contracting to maintain clinical governance standards nationwide. The post Outpatient Overload: Can Private GPs Relieve Malaysia’s Public Hospitals? — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "patient",
-        "clinical",
-        "hospital"
-      ]
-    },
-    {
-      "title": "MOH Wants RM29m Additional Funding For Psoriasis Biologics",
-      "url": "https://codeblue.galencentre.org/2026/03/moh-wants-rm29m-additional-funding-for-psoriasis-biologics/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-04T03:30:00",
-      "summary": "MOH spent RM17.35 million on psoriasis biologics in 2025, up 46.7 per cent from 2024, and plans to seek RM29 million more from MOF for six biologic medicines. Biologics are needed for a small group of patients with difficult-to-control disease. The post MOH Wants RM29m Additional Funding For Psoriasis Biologics appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medicine",
-        "disease",
-        "patient"
-      ]
-    },
-    {
-      "title": "Medical Officer Duties, Service Load Strain FMS Gazettement Training — Government Doctor",
-      "url": "https://codeblue.galencentre.org/2026/03/medical-officer-duties-service-load-strain-fms-gazettement-training-government-doctor/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-04T02:00:00",
-      "summary": "A government doctor says FMS gazettement trainees juggle medical officer duties, clinics, and administrative work during a six-month training period. This appears specific to Family Medicine, as other specialties do not routinely undertake MO duties during gazettement. The post Medical Officer Duties, Service Load Strain FMS Gazettement Training — Government Doctor appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "medicine",
-        "doctor"
-      ]
-    },
-    {
-      "title": "LIAM Alleges Average Medical Insurance Claim Only RM12,000",
-      "url": "https://codeblue.galencentre.org/2026/03/liam-alleges-average-medical-insurance-claim-only-rm12000/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-03T07:26:57",
-      "summary": "In defending the RM100k annual limit under the Base MHIT plan, LIAM claims that the average medical claim is only RM12,000, even though many ITOs in the insurance industry regularly tout policies with RM1m or higher annual limits for medical emergencies. The post LIAM Alleges Average Medical Insurance Claim Only RM12,000 appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
       "title": "INTERACTIVE: Malaysia’s score improves for gender equality but we are still worst in Asean",
       "url": "https://www.thestar.com.my/news/nation/2026/03/06/interactive-malaysias-score-improves-for-gender-equality-but-we-are-still-worst-in-asean",
       "source": "The Star Health",
@@ -127,26 +120,6 @@
       "summary": "Our country jumped up six steps in the Global Gender Gap Index from 114th to 108th, but more still needs to be done for women to succeed with the government stepping up efforts to support them in health and education. Read full story",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "National care pathway needed to manage rising cases, say experts",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/06/national-care-pathway-needed-to-manage-rising-cases-say-experts",
-      "source": "The Star Health",
-      "published": "2026-03-05T16:00:00",
-      "summary": "PETALING JAYA: Body mass index (BMI) screenings in clinics and schools are identifying overweight Malaysian children, but the lack of structured follow-up and treatment means many cases go unmanaged. Read full story",
-      "keywords_matched": [
-        "treatment"
-      ]
-    },
-    {
-      "title": "Namewee files legal representation to contest drug charges",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/06/namewee-files-legal-representation-to-contest-drug-charges",
-      "source": "The Star Health",
-      "published": "2026-03-05T16:00:00",
-      "summary": "KUALA LUMPUR: Rapper Wee Meng Chee, better known as Namewee, will submit a representation to review two charges of drug possession and possession of sildenafil last year. Read full story",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
