@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-06T11:20:08.038768",
+  "fetched": "2026-03-06T12:30:01.681973",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -114,21 +114,22 @@
       ]
     },
     {
+      "title": "Gathering over Penang temple will not proceed, say cops",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/06/gathering-over-penang-temple-will-not-proceed-say-cops",
+      "source": "The Star Health",
+      "published": "2026-03-06T11:51:00",
+      "summary": "BUKIT MERTAJAM: A planned gathering concerning a temple near a hospital in Penang will not proceed following discussions between the police, organisers and the temple management. Read full story",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
       "title": "Ex-CDO claims trial to abusing position to benefit relatives",
       "url": "https://www.thestar.com.my/news/nation/2026/03/06/ex-cdo-claims-trial-to-abusing-position-to-benefit-relatives",
       "source": "The Star Health",
       "published": "2026-03-06T11:17:00",
       "summary": "SANDAKAN: A community development officer claimed trial to two charges of abusing his position to recommend two relatives as recipients of Rumah Mesra Sabah Maju Jaya houses in 2022. Read full story",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Father of six claims trial to charge of possessing gun, ammo",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/06/father-of-six-claims-trial-to-charge-of-possessing-gun-ammo",
-      "source": "The Star Health",
-      "published": "2026-03-06T10:03:00",
-      "summary": "KLANG: A 43-year-old father of six claimed trial at the Sessions Court here Friday (March 6) to a charge of possessing a pistol and ammunition without a valid permit last week. Read full story",
       "keywords_matched": [
         "trial"
       ]
