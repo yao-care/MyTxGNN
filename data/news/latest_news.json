@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-07T08:17:29.197473",
+  "fetched": "2026-03-07T09:18:40.671645",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 15,
   "items": [
     {
       "title": "Hasnol Zam Zam Appointed New Health Ministry Sec-Gen",
@@ -109,6 +109,50 @@
       "summary": "Dr SP Choong argues teen pregnancy data cited in a Ministry of Health report is misleading because it counts only hospital births, not abortions. He says the issue must also address access to safe, legal abortion and accurate information. The post Teen Pregnancy Data Is Incomplete Without Abortion Figures — Dr SP Choong appeared first on CodeBlue .",
       "keywords_matched": [
         "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Aid delivered to flood-hit Tangkarason clinic in remote Paitan",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/07/aid-delivered-to-flood-hit-tangkarason-clinic-in-remote-paitan",
+      "source": "The Star Health",
+      "published": "2026-03-07T09:13:00",
+      "summary": "PAITAN: Urgently needed medical supplies and food packs have been delivered to the flood-hit Tangkarason Health Clinic, a remote facility serving communities hours away from the nearest major towns. Read full story",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
+    {
+      "title": "Prayers at Hindu temple in BM go on as usual amid tight security",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/07/prayers-at-hindu-temple-in-bm-go-on-as-usual-amid-tight-security",
+      "source": "The Star Health",
+      "published": "2026-03-07T08:52:00",
+      "summary": "BUKIT MERTAJAM: Prayers for the Aandu Vizha anniversary celebration continued as usual at the Shree Deva Maruthuvar Jada Muniswarar Alayam temple outside the hospital in Jalan Kulim here despite concerns over a planned protest. Read full story",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Tawau community answers urgent blood donation appeal",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/07/tawau-community-answers-urgent-blood-donation-appeal",
+      "source": "The Star Health",
+      "published": "2026-03-07T08:23:00",
+      "summary": "TAWAU: Dozens of residents here turned up to donate blood after breaking their fast in response to an urgent appeal by Hospital Tawau following a road accident involving two siblings. Read full story",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "House officer, 29, found dead in hostel room at Kuala Krai hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/07/house-officer-29-found-dead-in-hostel-room-at-kuala-krai-hospital/211746",
+      "source": "Malay Mail",
+      "published": "2026-03-07T08:18:28",
+      "summary": "KUALA LUMPUR, March 7 — A 29-year-old female house officer was found dead in a hostel room at Hospital Sultan Isma...",
+      "keywords_matched": [
         "hospital",
         "hospital"
       ]
