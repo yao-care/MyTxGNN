@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-06T23:18:05.744422",
+  "fetched": "2026-03-07T01:02:26.209897",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Hasnol Zam Zam Appointed New Health Ministry Sec-Gen",
@@ -114,24 +114,32 @@
       ]
     },
     {
+      "title": "Wife admits role in RM500,000 robbery, five claim trial",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/07/wife-admits-role-in-rm500000-robbery-five-claim-trial",
+      "source": "The Star Health",
+      "published": "2026-03-06T16:00:00",
+      "summary": "JOHOR BARU: Six locals, including the victim's own wife and a wheelchair-bound man, have been charged over a robbery case involving a Pakistani businessman. Read full story",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Bazaar hygiene reminder",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/07/bazaar-hygiene-reminder",
+      "source": "The Star Health",
+      "published": "2026-03-06T16:00:00",
+      "summary": "GEORGE TOWN: Food handlers who wear gloves but use the same gloved hands to handle cash are committing a health offence, says Penang Health Committee chairman Daniel Gooi Zi Sen. Read full story",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Penang police warn public against temple assembly near Bukit Mertajam Hospital, vow firm action",
       "url": "https://www.malaymail.com/news/malaysia/2026/03/06/penang-police-warn-public-against-temple-assembly-near-bukit-mertajam-hospital-vow-firm-action/211608",
       "source": "Malay Mail",
       "published": "2026-03-06T09:08:35",
       "summary": "GEORGE TOWN, March 6 — Penang police chief Datuk Azizee Ismail has warned the public not to attend, gather or be i...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "IJN becomes Malaysia’s first hospital to achieve HIMSS EMRAM Stage 7 validation",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/06/ijn-becomes-malaysias-first-hospital-to-achieve-himss-emram-stage-7-validation/211602",
-      "source": "Malay Mail",
-      "published": "2026-03-06T08:31:28",
-      "summary": "KUALA LUMPUR, March 6 — The National Heart Institute (IJN) continues to lead Malaysia’s digital healthcare t...",
-      "keywords_matched": [
-        "health",
         "hospital",
         "hospital"
       ]
