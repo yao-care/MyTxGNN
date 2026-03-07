@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-07T07:20:54.747557",
+  "fetched": "2026-03-07T08:17:29.197473",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Hasnol Zam Zam Appointed New Health Ministry Sec-Gen",
@@ -109,6 +109,17 @@
       "summary": "Dr SP Choong argues teen pregnancy data cited in a Ministry of Health report is misleading because it counts only hospital births, not abortions. He says the issue must also address access to safe, legal abortion and accurate information. The post Teen Pregnancy Data Is Incomplete Without Abortion Figures — Dr SP Choong appeared first on CodeBlue .",
       "keywords_matched": [
         "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Anwar stops by Penang Hospital to visit ‘old friend’ and PAS spiritual leader Hashim Jasin",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/07/anwar-stops-by-penang-hospital-to-visit-old-friend-and-pas-spiritual-leader-hashim-jasin/211740",
+      "source": "Malay Mail",
+      "published": "2026-03-07T07:56:57",
+      "summary": "KUALA LUMPUR, March 7 — Prime Minister Datuk Seri Anwar Ibrahim visited PAS spiritual leader Datuk Hashim Jasin at...",
+      "keywords_matched": [
         "hospital",
         "hospital"
       ]
