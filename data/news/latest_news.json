@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-07T11:11:23.649177",
+  "fetched": "2026-03-07T12:23:08.330311",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "title": "Hasnol Zam Zam Appointed New Health Ministry Sec-Gen",
@@ -123,17 +123,6 @@
         "hospital",
         "doctor",
         "hospital"
-      ]
-    },
-    {
-      "title": "Aid delivered to flood-hit Tangkarason clinic in remote Paitan",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/07/aid-delivered-to-flood-hit-tangkarason-clinic-in-remote-paitan",
-      "source": "The Star Health",
-      "published": "2026-03-07T09:13:00",
-      "summary": "PAITAN: Urgently needed medical supplies and food packs have been delivered to the flood-hit Tangkarason Health Clinic, a remote facility serving communities hours away from the nearest major towns. Read full story",
-      "keywords_matched": [
-        "health",
-        "medical"
       ]
     },
     {
