@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-07T10:13:38.012635",
+  "fetched": "2026-03-07T11:11:23.649177",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 14,
   "items": [
     {
       "title": "Hasnol Zam Zam Appointed New Health Ministry Sec-Gen",
@@ -134,17 +134,6 @@
       "keywords_matched": [
         "health",
         "medical"
-      ]
-    },
-    {
-      "title": "Prayers at Hindu temple in BM go on as usual amid tight security",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/07/prayers-at-hindu-temple-in-bm-go-on-as-usual-amid-tight-security",
-      "source": "The Star Health",
-      "published": "2026-03-07T08:52:00",
-      "summary": "BUKIT MERTAJAM: Prayers for the Aandu Vizha anniversary celebration continued as usual at the Shree Deva Maruthuvar Jada Muniswarar Alayam temple outside the hospital in Jalan Kulim here despite concerns over a planned protest. Read full story",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     },
     {
