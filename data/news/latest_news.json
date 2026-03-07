@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-07T12:23:08.330311",
+  "fetched": "2026-03-07T13:32:13.075469",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Hasnol Zam Zam Appointed New Health Ministry Sec-Gen",
@@ -110,18 +110,6 @@
       "keywords_matched": [
         "health",
         "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Female trainee doctor found dead in Kuala Krai dorm",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/07/female-trainee-doctor-found-dead-in-kuala-krai-dorm",
-      "source": "The Star Health",
-      "published": "2026-03-07T09:39:00",
-      "summary": "KOTA BARU: A female trainee doctor was found dead in a dormitory in Sultan Ismail Petra Hospital in Kuala Krai on Friday (March 7). Read full story",
-      "keywords_matched": [
-        "hospital",
-        "doctor",
         "hospital"
       ]
     },
