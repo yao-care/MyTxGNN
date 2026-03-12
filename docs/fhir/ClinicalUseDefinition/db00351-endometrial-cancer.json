@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00351-endometrial-cancer",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00351"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "endometrial-cancer",
+            "display": "endometrial cancer"
+          }
+        ],
+        "text": "endometrial cancer"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

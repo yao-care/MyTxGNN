@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db01169-acute-myeloid-leukemia-with-abnormal-bone-marrow-e",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db01169"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "acute-myeloid-leukemia-with-abnormal-bone-marrow-e",
+            "display": "acute myeloid leukemia with abnormal bone marrow eosinophils inv(16)(p13q22) or t(16;16)(p13;q22)"
+          }
+        ],
+        "text": "acute myeloid leukemia with abnormal bone marrow eosinophils inv(16)(p13q22) or t(16;16)(p13;q22)"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db01166-intermittent-vascular-claudication",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db01166"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "intermittent-vascular-claudication",
+            "display": "intermittent vascular claudication"
+          }
+        ],
+        "text": "intermittent vascular claudication"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

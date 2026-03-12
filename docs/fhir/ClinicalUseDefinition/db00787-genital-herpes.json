@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00787-genital-herpes",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00787"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "genital-herpes",
+            "display": "genital herpes"
+          }
+        ],
+        "text": "genital herpes"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

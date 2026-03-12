@@ -1,0 +1,118 @@
+# TODO: 將此檔案改名為 loader.py
+# TODO: 根據您國家的藥監局資料格式實作載入邏輯
+
+"""FDA 藥品資料載入與過濾 - {Country} 版本"""
+
+import json
+from pathlib import Path
+from typing import Optional
+
+import pandas as pd
+import yaml
+
+
+def load_field_config() -> dict:
+    """載入欄位映射設定"""
+    config_path = Path(__file__).parent.parent.parent.parent / "config" / "fields.yaml"
+    with open(config_path, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f)
+
+
+def load_fda_drugs(filepath: Optional[Path] = None) -> pd.DataFrame:
+    """載入藥監局藥品資料
+
+    Args:
+        filepath: JSON 檔案路徑，預設為 data/raw/{country}_fda_drugs.json
+
+    Returns:
+        包含所有藥品的 DataFrame
+
+    Raises:
+        FileNotFoundError: 找不到資料檔案時，提供下載指引
+    """
+    config = load_field_config()
+
+    if filepath is None:
+        # TODO: 修改預設檔案名稱
+        filepath = Path(__file__).parent.parent.parent.parent / "data" / "raw" / "{country}_fda_drugs.json"
+
+    if not filepath.exists():
+        raise FileNotFoundError(
+            f"找不到藥品資料: {filepath}\n"
+            f"請先執行以下步驟：\n"
+            f"1. 從藥監局網站下載資料\n"  # TODO: 填入實際下載網址
+            f"2. 放到 data/raw/ 目錄\n"
+            f"3. 執行: uv run python scripts/process_fda_data.py"
+        )
+
+    # TODO: 根據資料格式實作載入邏輯
+    # 以下為 JSON 格式範例
+    with open(filepath, "r", encoding=config.get("encoding", "utf-8")) as f:
+        data = json.load(f)
+
+    df = pd.DataFrame(data)
+    return df
+
+
+def filter_active_drugs(df: pd.DataFrame) -> pd.DataFrame:
+    """過濾有效藥品（排除已註銷）
+
+    Args:
+        df: 原始藥品 DataFrame
+
+    Returns:
+        僅包含有效藥品的 DataFrame
+    """
+    config = load_field_config()
+    field_mapping = config["field_mapping"]
+    withdrawn_statuses = config.get("withdrawn_statuses", [])
+
+    # 取得狀態欄位名稱
+    status_field = field_mapping.get("status", "")
+
+    if status_field and status_field in df.columns:
+        # 過濾未註銷的藥品
+        active = df[~df[status_field].isin(withdrawn_statuses)].copy()
+    else:
+        active = df.copy()
+
+    # 過濾有主成分的藥品（TxGNN 需要）
+    ingredients_field = field_mapping.get("ingredients", "")
+    if ingredients_field and ingredients_field in df.columns:
+        active = active[active[ingredients_field].notna() & (active[ingredients_field] != "")]
+
+    # 重設索引
+    active = active.reset_index(drop=True)
+
+    return active
+
+
+def get_drug_summary(df: pd.DataFrame) -> dict:
+    """取得藥品資料摘要統計
+
+    Args:
+        df: 藥品 DataFrame
+
+    Returns:
+        摘要統計字典
+    """
+    config = load_field_config()
+    field_mapping = config["field_mapping"]
+
+    ingredients_field = field_mapping.get("ingredients", "")
+    indication_field = field_mapping.get("indication", "")
+    dosage_form_field = field_mapping.get("dosage_form", "")
+
+    summary = {"total_count": len(df)}
+
+    if ingredients_field and ingredients_field in df.columns:
+        summary["with_ingredient"] = df[ingredients_field].notna().sum()
+        summary["unique_ingredients"] = df[ingredients_field].nunique()
+
+    if indication_field and indication_field in df.columns:
+        summary["with_indication"] = df[indication_field].notna().sum()
+
+    if dosage_form_field and dosage_form_field in df.columns:
+        summary["dosage_forms"] = df[dosage_form_field].value_counts().to_dict()
+
+    return summary

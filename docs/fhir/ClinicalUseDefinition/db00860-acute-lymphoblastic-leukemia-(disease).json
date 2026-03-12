@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00860-acute-lymphoblastic-leukemia-(disease)",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00860"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "acute-lymphoblastic-leukemia-(disease)",
+            "display": "acute lymphoblastic leukemia (disease)"
+          }
+        ],
+        "text": "acute lymphoblastic leukemia (disease)"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

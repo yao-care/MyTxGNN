@@ -1,0 +1,70 @@
+name: IndexNow - Notify search engines
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**/*.md'
+      - 'docs/_drugs/**'
+      - 'docs/_posts/**'
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed files
+        id: changed
+        run: |
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- 'docs/**/*.md' 'docs/_drugs/**' 'docs/_posts/**' | head -100)
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No markdown files changed"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "Changed files:"
+          echo "$CHANGED_FILES"
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+
+          URLS=""
+          for file in $CHANGED_FILES; do
+            url_path=$(echo "$file" | sed 's|^docs/||' | sed 's|\.md$|/|' | sed 's|^_drugs/|drugs/|' | sed 's|^_posts/[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-|blog/|')
+
+            if [ "$url_path" = "index/" ]; then
+              url_path=""
+            fi
+
+            full_url="https://mytxgnn.yao.care/${url_path}"
+            URLS="${URLS}\"${full_url}\","
+          done
+
+          URLS=$(echo "$URLS" | sed 's/,$//')
+          echo "urls=[$URLS]" >> $GITHUB_OUTPUT
+
+      - name: Submit to IndexNow
+        if: steps.changed.outputs.has_changes == 'true'
+        run: |
+          PAYLOAD=$(cat <<EOF
+          {
+            "host": "mytxgnn.yao.care",
+            "key": "5aeed979de7d4d1e8dbba3098f504dec",
+            "keyLocation": "https://mytxgnn.yao.care/5aeed979de7d4d1e8dbba3098f504dec.txt",
+            "urlList": ${{ steps.changed.outputs.urls }}
+          }
+          EOF
+          )
+
+          echo "Submitting to IndexNow:"
+          echo "$PAYLOAD" | jq .
+
+          curl -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD" \
+            -w "\nHTTP Status: %{http_code}\n" || true

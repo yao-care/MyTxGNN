@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db09357-obsolete-contact-dermatitis-caused-by-poison-oak",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db09357"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "obsolete-contact-dermatitis-caused-by-poison-oak",
+            "display": "obsolete contact dermatitis caused by poison oak"
+          }
+        ],
+        "text": "obsolete contact dermatitis caused by poison oak"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

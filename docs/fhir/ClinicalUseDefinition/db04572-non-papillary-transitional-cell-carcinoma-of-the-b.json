@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db04572-non-papillary-transitional-cell-carcinoma-of-the-b",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db04572"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "non-papillary-transitional-cell-carcinoma-of-the-b",
+            "display": "non-papillary transitional cell carcinoma of the bladder"
+          }
+        ],
+        "text": "non-papillary transitional cell carcinoma of the bladder"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

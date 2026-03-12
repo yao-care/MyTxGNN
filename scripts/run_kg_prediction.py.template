@@ -1,0 +1,99 @@
+#!/usr/bin/env python3
+# TODO: 將此檔案改名為 run_kg_prediction.py
+# TODO: 根據您的欄位設定微調
+
+"""執行知識圖譜方法預測
+
+使用 TxGNN 知識圖譜進行老藥新用預測。
+
+使用方法:
+    uv run python scripts/run_kg_prediction.py
+
+前置條件:
+    1. 已執行 process_fda_data.py
+    2. 已執行 prepare_external_data.py
+
+產生檔案:
+    data/processed/repurposing_candidates.csv
+"""
+
+from pathlib import Path
+
+import pandas as pd
+import yaml
+
+# TODO: 根據您的套件名稱調整 import
+# from {country}txgnn.data.loader import load_fda_drugs, filter_active_drugs
+# from {country}txgnn.mapping.drugbank_mapper import map_fda_drugs_to_drugbank
+# from {country}txgnn.mapping.disease_mapper import map_fda_indications_to_diseases
+# from {country}txgnn.predict.repurposing import find_repurposing_candidates
+
+
+def load_field_config() -> dict:
+    """載入欄位映射設定"""
+    config_path = Path(__file__).parent.parent / "config" / "fields.yaml"
+    with open(config_path, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f)
+
+
+def main():
+    print("=" * 60)
+    print("執行知識圖譜方法預測")
+    print("=" * 60)
+    print()
+
+    base_dir = Path(__file__).parent.parent
+    config = load_field_config()
+    field_mapping = config["field_mapping"]
+
+    # 1. 載入藥品資料
+    print("1. 載入藥品資料...")
+    # TODO: 取消註解並調整
+    # fda_df = load_fda_drugs()
+    # active_df = filter_active_drugs(fda_df)
+    # print(f"   有效藥品數: {len(active_df)}")
+
+    # 2. DrugBank 映射
+    print("2. 執行 DrugBank 映射...")
+    # TODO: 取消註解並調整
+    # drug_mapping = map_fda_drugs_to_drugbank(
+    #     active_df,
+    #     ingredient_field=field_mapping["ingredients"]
+    # )
+    # print(f"   映射成功: {drug_mapping['drugbank_id'].notna().sum()}")
+
+    # 3. 疾病映射
+    print("3. 執行疾病映射...")
+    # TODO: 取消註解並調整
+    # indication_mapping = map_fda_indications_to_diseases(
+    #     active_df,
+    #     indication_field=field_mapping["indication"],
+    #     license_field=field_mapping["license_id"],
+    #     brand_field=field_mapping["brand_name_local"]
+    # )
+    # print(f"   映射成功: {indication_mapping['disease_id'].notna().sum()}")
+
+    # 4. 尋找老藥新用候選
+    print("4. 尋找老藥新用候選...")
+    # TODO: 取消註解並調整
+    # candidates = find_repurposing_candidates(drug_mapping, indication_mapping)
+    # print(f"   候選數: {len(candidates)}")
+
+    # 5. 儲存結果
+    print("5. 儲存結果...")
+    output_dir = base_dir / "data" / "processed"
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    # TODO: 取消註解
+    # candidates.to_csv(output_dir / "repurposing_candidates.csv", index=False)
+    # print(f"   已儲存至: {output_dir / 'repurposing_candidates.csv'}")
+
+    print()
+    print("完成！")
+    print()
+    print("下一步: 生成 FHIR 資源")
+    print("  uv run python scripts/generate_fhir_resources.py")
+
+
+if __name__ == "__main__":
+    main()

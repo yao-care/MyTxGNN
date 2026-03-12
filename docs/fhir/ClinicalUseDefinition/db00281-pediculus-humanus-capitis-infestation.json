@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00281-pediculus-humanus-capitis-infestation",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00281"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "pediculus-humanus-capitis-infestation",
+            "display": "Pediculus humanus capitis infestation"
+          }
+        ],
+        "text": "Pediculus humanus capitis infestation"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

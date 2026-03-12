@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00443-chronic-cutaneous-lupus-erythematosus",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00443"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "chronic-cutaneous-lupus-erythematosus",
+            "display": "chronic cutaneous lupus erythematosus"
+          }
+        ],
+        "text": "chronic cutaneous lupus erythematosus"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

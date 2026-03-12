@@ -1,0 +1,267 @@
+# TODO: 將此檔案改名為 disease_mapper.py
+# TODO: 填入您國家語言的疾病對照表（DISEASE_DICT）
+
+"""疾病映射模組 - 當地語言適應症映射至 TxGNN 疾病本體"""
+
+import re
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple
+
+import pandas as pd
+
+
+# TODO: 填入當地語言 → 英文疾病對照表
+# 目標：150-200 個疾病詞條
+# 參考分類：心血管、呼吸、消化、神經、精神、內分泌、肌肉骨骼、皮膚、泌尿、眼科、耳鼻喉、感染、過敏、婦科、腫瘤、一般症狀
+DISEASE_DICT = {
+    # === 心血管系統 (15-20 個) ===
+    # TODO: "當地語言": "english_term",
+    # 範例（日文）：
+    # "高血圧": "hypertension",
+    # "低血圧": "hypotension",
+    # "心臓病": "heart disease",
+    # "心筋梗塞": "myocardial infarction",
+    # "狭心症": "angina",
+    # "不整脈": "arrhythmia",
+    # "心不全": "heart failure",
+
+    # === 呼吸系統 (10-15 個) ===
+    # "喘息": "asthma",
+    # "気管支炎": "bronchitis",
+    # "肺炎": "pneumonia",
+
+    # === 消化系統 (15-20 個) ===
+    # "胃炎": "gastritis",
+    # "胃潰瘍": "gastric ulcer",
+
+    # === 神經系統 (10-15 個) ===
+    # "頭痛": "headache",
+    # "偏頭痛": "migraine",
+
+    # === 精神疾病 (8-12 個) ===
+    # "うつ病": "depression",
+    # "不安症": "anxiety disorder",
+
+    # === 內分泌系統 (10-15 個) ===
+    # "糖尿病": "diabetes",
+    # "甲状腺機能亢進症": "hyperthyroidism",
+
+    # === 肌肉骨骼系統 (10-15 個) ===
+    # "関節炎": "arthritis",
+    # "骨粗鬆症": "osteoporosis",
+
+    # === 皮膚疾病 (10-15 個) ===
+    # "湿疹": "eczema",
+    # "蕁麻疹": "urticaria",
+
+    # === 泌尿系統 (8-12 個) ===
+    # "膀胱炎": "cystitis",
+    # "腎炎": "nephritis",
+
+    # === 眼科 (5-8 個) ===
+    # "結膜炎": "conjunctivitis",
+    # "緑内障": "glaucoma",
+
+    # === 耳鼻喉 (5-8 個) ===
+    # "中耳炎": "otitis media",
+    # "咽頭炎": "pharyngitis",
+
+    # === 感染症 (10-15 個) ===
+    # "細菌感染": "bacterial infection",
+    # "ウイルス感染": "viral infection",
+
+    # === 過敏 (5-8 個) ===
+    # "アレルギー": "allergy",
+    # "花粉症": "hay fever",
+
+    # === 婦科 (8-12 個) ===
+    # "月経不順": "menstrual disorder",
+    # "更年期障害": "menopause syndrome",
+
+    # === 腫瘤/癌症 (10-15 個) ===
+    # "がん": "cancer",
+    # "腫瘍": "tumor",
+
+    # === 一般症狀 (15-20 個) ===
+    # "発熱": "fever",
+    # "痛み": "pain",
+    # "炎症": "inflammation",
+}
+
+
+def load_disease_vocab(filepath: Optional[Path] = None) -> pd.DataFrame:
+    """載入 TxGNN 疾病詞彙表"""
+    if filepath is None:
+        filepath = Path(__file__).parent.parent.parent.parent / "data" / "external" / "disease_vocab.csv"
+    return pd.read_csv(filepath)
+
+
+def build_disease_index(disease_df: pd.DataFrame) -> Dict[str, Tuple[str, str]]:
+    """建立疾病名稱索引（關鍵詞 -> (disease_id, disease_name)）"""
+    index = {}
+
+    for _, row in disease_df.iterrows():
+        disease_id = row["disease_id"]
+        disease_name = row["disease_name"]
+        name_upper = row["disease_name_upper"]
+
+        # 完整名稱
+        index[name_upper] = (disease_id, disease_name)
+
+        # 提取關鍵詞（按空格和逗號分割）
+        keywords = re.split(r"[,\s\-]+", name_upper)
+        for kw in keywords:
+            kw = kw.strip()
+            if len(kw) > 3 and kw not in index:  # 只保留較長的關鍵詞
+                index[kw] = (disease_id, disease_name)
+
+    return index
+
+
+def extract_indications(indication_str: str) -> List[str]:
+    """從適應症文字提取個別適應症
+
+    TODO: 根據您國家的適應症文字格式調整分隔符
+    """
+    if not indication_str:
+        return []
+
+    # 正規化
+    text = indication_str.strip()
+
+    # TODO: 根據當地語言調整分隔符
+    # 日文常用：。、；
+    # 韓文常用：。,
+    # 泰文常用：。,
+    parts = re.split(r"[。；]", text)
+
+    indications = []
+    for part in parts:
+        # 再用頓號和逗號細分
+        sub_parts = re.split(r"[、，,]", part)
+        for sub in sub_parts:
+            sub = sub.strip()
+            # TODO: 根據當地語言調整要移除的前綴/後綴
+            # 移除常見的非疾病描述前綴
+            # sub = re.sub(r"^(用於|治療|緩解)", "", sub)
+            sub = sub.strip()
+            if sub and len(sub) >= 2:
+                indications.append(sub)
+
+    return indications
+
+
+def translate_indication(indication: str) -> List[str]:
+    """將當地語言適應症翻譯為英文關鍵詞"""
+    keywords = []
+
+    for local_term, en_term in DISEASE_DICT.items():
+        if local_term in indication:
+            keywords.append(en_term.upper())
+
+    return keywords
+
+
+def map_indication_to_disease(
+    indication: str,
+    disease_index: Dict[str, Tuple[str, str]],
+) -> List[Tuple[str, str, float]]:
+    """將單一適應症映射到 TxGNN 疾病
+
+    Returns:
+        [(disease_id, disease_name, confidence), ...]
+    """
+    results = []
+
+    # 翻譯為英文關鍵詞
+    keywords = translate_indication(indication)
+
+    for kw in keywords:
+        # 完全匹配
+        if kw in disease_index:
+            disease_id, disease_name = disease_index[kw]
+            results.append((disease_id, disease_name, 1.0))
+            continue
+
+        # 部分匹配
+        for index_kw, (disease_id, disease_name) in disease_index.items():
+            if kw in index_kw or index_kw in kw:
+                results.append((disease_id, disease_name, 0.8))
+
+    # 去重並按信心度排序
+    seen = set()
+    unique_results = []
+    for disease_id, disease_name, conf in sorted(results, key=lambda x: -x[2]):
+        if disease_id not in seen:
+            seen.add(disease_id)
+            unique_results.append((disease_id, disease_name, conf))
+
+    return unique_results[:5]  # 最多返回 5 個匹配
+
+
+def map_fda_indications_to_diseases(
+    fda_df: pd.DataFrame,
+    disease_df: Optional[pd.DataFrame] = None,
+    indication_field: str = "indication",  # TODO: 根據 fields.yaml 調整
+    license_field: str = "license_id",
+    brand_field: str = "brand_name_local",
+) -> pd.DataFrame:
+    """將藥品適應症映射到 TxGNN 疾病"""
+    if disease_df is None:
+        disease_df = load_disease_vocab()
+
+    disease_index = build_disease_index(disease_df)
+
+    results = []
+
+    for _, row in fda_df.iterrows():
+        indication_str = row.get(indication_field, "")
+        if not indication_str:
+            continue
+
+        # 提取個別適應症
+        indications = extract_indications(indication_str)
+
+        for ind in indications:
+            # 翻譯並映射
+            matches = map_indication_to_disease(ind, disease_index)
+
+            if matches:
+                for disease_id, disease_name, confidence in matches:
+                    results.append({
+                        "license_id": row.get(license_field, ""),
+                        "brand_name": row.get(brand_field, ""),
+                        "original_indication": indication_str[:100],
+                        "extracted_indication": ind,
+                        "disease_id": disease_id,
+                        "disease_name": disease_name,
+                        "confidence": confidence,
+                    })
+            else:
+                results.append({
+                    "license_id": row.get(license_field, ""),
+                    "brand_name": row.get(brand_field, ""),
+                    "original_indication": indication_str[:100],
+                    "extracted_indication": ind,
+                    "disease_id": None,
+                    "disease_name": None,
+                    "confidence": 0,
+                })
+
+    return pd.DataFrame(results)
+
+
+def get_indication_mapping_stats(mapping_df: pd.DataFrame) -> dict:
+    """計算適應症映射統計"""
+    total = len(mapping_df)
+    mapped = mapping_df["disease_id"].notna().sum()
+    unique_indications = mapping_df["extracted_indication"].nunique()
+    unique_diseases = mapping_df[mapping_df["disease_id"].notna()]["disease_id"].nunique()
+
+    return {
+        "total_indications": total,
+        "mapped_indications": int(mapped),
+        "mapping_rate": mapped / total if total > 0 else 0,
+        "unique_indications": unique_indications,
+        "unique_diseases": unique_diseases,
+    }

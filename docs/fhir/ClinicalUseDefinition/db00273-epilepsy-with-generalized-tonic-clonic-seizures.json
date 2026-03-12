@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00273-epilepsy-with-generalized-tonic-clonic-seizures",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00273"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "epilepsy-with-generalized-tonic-clonic-seizures",
+            "display": "epilepsy with generalized tonic-clonic seizures"
+          }
+        ],
+        "text": "epilepsy with generalized tonic-clonic seizures"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

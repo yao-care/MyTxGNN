@@ -1,0 +1,56 @@
+# 馬來西亞 NPRA 藥品資料欄位映射
+# 資料來源: https://data.gov.my/data-catalogue/pharmaceutical_products
+
+# 基本設定
+country_code: "MY"
+language: "en"  # 馬來西亞藥品資料主要為英文
+regulatory_agency: "NPRA"  # National Pharmaceutical Regulatory Agency
+
+# 欄位映射
+# 將 NPRA 資料欄位對應到標準欄位
+field_mapping:
+  license_id: "reg_no"              # 藥品註冊編號
+  brand_name_local: "product"       # 產品名稱（英文）
+  brand_name_en: "product"          # 產品名稱（同上，馬來西亞用英文）
+  ingredients: "active_ingredient"  # 活性成分列表
+  indication: ""                    # 無適應症欄位（將從 DrugBank 補充）
+  dosage_form: "description"        # 產品類型 (PRESCRIPTION, NATURAL PRODUCT 等)
+  manufacturer: "holder"            # 持證公司
+  approval_date: "date_reg"         # 註冊日期
+  expiry_date: "date_end"           # 有效期滿日期
+  status: "status"                  # 核准狀態
+  generic_name: "generic_name"      # 通用名稱
+  mdc_code: "mdc_code"              # 醫療器材分類代碼
+
+# 有效狀態值（這些狀態的藥品視為有效）
+active_statuses:
+  - "PRODUCT APPROVED"
+  - "CONDITIONAL REGISTRATION"
+
+# 註銷/無效狀態值
+withdrawn_statuses: []  # 目前開放資料只包含有效藥品
+
+# 產品類型過濾（用於 TxGNN 預測的藥品類型）
+# 排除 HEALTH SUPPLEMENT、NATURAL PRODUCT、VETERINARY
+included_descriptions:
+  - "PRESCRIPTION"
+  - "NON PRESCRIPTION"
+  - "NEW CHEMICAL ENTITY"
+  - "BIOLOGICS"
+
+# 成分格式解析
+# 格式範例: "LEVETIRACETAM[500 mg]" 或 "IMIPENEM MONOHYDRATE[530.1 mg],CILASTATIN SODIUM[530.7 mg]"
+ingredient_separator: ","           # 多成分分隔符
+ingredient_pattern: "^([^\\[]+)"    # 正則表達式提取成分名稱（去除 [...] 部分）
+
+# 日期格式
+date_format: "%Y-%m-%d"
+
+# 編碼
+encoding: "utf-8"
+
+# 資料來源資訊
+data_source:
+  url: "https://storage.data.gov.my/healthcare/pharmaceutical_products.csv"
+  license: "CC BY 4.0"
+  update_frequency: "daily"

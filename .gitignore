@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# UV
+.uv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jekyll
+docs/_site/
+docs/.sass-cache/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Large model files
+*.pt
+*.pth
+*.bin
+*.pkl
+model_ckpt/
+
+# Large data files (>100MB)
+data/processed/txgnn_checkpoint.csv
+data/processed/txgnn_dl_predictions.csv
+data/complex_disease_42/
+data/kg.csv
+data/node.csv
+data/edges.csv
+data/kg_directed.csv
+
+# Credentials
+.env
+*.key
+credentials.json
+
+# Large files - exclude from git
+/data/*
+!/data/cache/
+/data/cache/*
+!/data/cache/.gitkeep
+!/data/news/
+!/data/processed/
+!/data/external/
+model_ckpt/
+.venv/

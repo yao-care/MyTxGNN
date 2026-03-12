@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00916-amoebiasis-due-to-entamoeba-histolytica",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00916"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "amoebiasis-due-to-entamoeba-histolytica",
+            "display": "amoebiasis due to Entamoeba histolytica"
+          }
+        ],
+        "text": "amoebiasis due to Entamoeba histolytica"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

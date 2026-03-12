@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00741-renin-angiotensin-aldosterone-system-blocker-induc",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00741"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "renin-angiotensin-aldosterone-system-blocker-induc",
+            "display": "renin-angiotensin-aldosterone system-blocker-induced angioedema"
+          }
+        ],
+        "text": "renin-angiotensin-aldosterone system-blocker-induced angioedema"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

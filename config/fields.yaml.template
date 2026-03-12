@@ -1,0 +1,35 @@
+# TODO: 將此檔案改名為 fields.yaml
+# TODO: 根據您國家的藥監局資料格式填入欄位映射
+
+# 基本設定
+country_code: "{CC}"        # TODO: ISO 3166-1 alpha-2 代碼，例如 JP, KR, TH
+language: "{lang}"          # TODO: ISO 639-1 語言代碼，例如 ja, ko, th
+regulatory_agency: "{AGENCY}"  # TODO: 藥監局名稱，例如 PMDA, MFDS, Thai FDA
+
+# 欄位映射
+# 將您國家藥監局資料的欄位名稱對應到標準欄位
+field_mapping:
+  license_id: ""           # TODO: 許可證/核准字號欄位名稱
+  brand_name_local: ""     # TODO: 當地語言品名欄位名稱
+  brand_name_en: ""        # TODO: 英文品名/通用名欄位名稱
+  ingredients: ""          # TODO: 主成分/有效成分欄位名稱
+  indication: ""           # TODO: 適應症/效能效果欄位名稱
+  dosage_form: ""          # TODO: 劑型欄位名稱
+  manufacturer: ""         # TODO: 製造廠/申請者欄位名稱
+  approval_date: ""        # TODO: 核准日期欄位名稱
+  status: ""               # TODO: 狀態欄位名稱（有效/註銷）
+
+# 註銷/無效狀態值
+# TODO: 列出表示藥品已註銷或無效的狀態值
+withdrawn_statuses:
+  - ""  # TODO: 例如「已註銷」「取消」「回収」等
+
+# 成分分隔符
+# TODO: 多成分時使用的分隔符號
+ingredient_separator: ";"  # 例如 ; 或 ;; 或 ,
+
+# 日期格式
+date_format: "%Y-%m-%d"  # TODO: 根據資料格式調整，例如 %Y年%m月%d日
+
+# 編碼（如有需要）
+encoding: "utf-8"  # TODO: 如資料為其他編碼（如 Shift-JIS），請修改

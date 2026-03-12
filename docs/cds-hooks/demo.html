@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyTxGNN CDS Hooks Demo</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        h1 {
+            color: #1976D2;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+        }
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .card h2 {
+            margin-top: 0;
+            color: #333;
+            font-size: 1.2rem;
+            border-bottom: 2px solid #1976D2;
+            padding-bottom: 10px;
+        }
+        .service {
+            display: flex;
+            align-items: flex-start;
+            padding: 15px;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+        .service:hover {
+            border-color: #1976D2;
+            box-shadow: 0 2px 8px rgba(25, 118, 210, 0.2);
+        }
+        .service-icon {
+            width: 50px;
+            height: 50px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 15px;
+            font-size: 24px;
+        }
+        .icon-ddi { background: #ffebee; }
+        .icon-repurpose { background: #e3f2fd; }
+        .icon-trial { background: #e8f5e9; }
+        .service-content {
+            flex: 1;
+        }
+        .service-title {
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        .service-desc {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 10px;
+        }
+        .service-hook {
+            display: inline-block;
+            background: #f5f5f5;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            color: #666;
+        }
+        .demo-section {
+            margin-top: 30px;
+        }
+        .input-group {
+            margin-bottom: 15px;
+        }
+        .input-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+        .input-group input, .input-group select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+        }
+        .btn {
+            background: #1976D2;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+        .btn:hover {
+            background: #1565C0;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f5f5f5;
+            border-radius: 4px;
+            display: none;
+        }
+        .result.show {
+            display: block;
+        }
+        .alert-card {
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+        .alert-warning {
+            background: #fff3e0;
+            border-left: 4px solid #ff9800;
+        }
+        .alert-info {
+            background: #e3f2fd;
+            border-left: 4px solid #2196f3;
+        }
+        .alert-success {
+            background: #e8f5e9;
+            border-left: 4px solid #4caf50;
+        }
+        .disclaimer {
+            background: #fff8e1;
+            border: 1px solid #ffc107;
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 30px;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>MyTxGNN CDS Hooks Demo</h1>
+    <p class="subtitle">Clinical Decision Support Services for Drug Repurposing</p>
+
+    <div class="card">
+        <h2>Available CDS Services</h2>
+
+        <div class="service">
+            <div class="service-icon icon-ddi">⚠️</div>
+            <div class="service-content">
+                <div class="service-title">Drug Interaction Check</div>
+                <div class="service-desc">Check for potential drug-drug interactions in prescriptions based on DDInter 2.0 database.</div>
+                <span class="service-hook">order-sign</span>
+            </div>
+        </div>
+
+        <div class="service">
+            <div class="service-icon icon-repurpose">💊</div>
+            <div class="service-content">
+                <div class="service-title">Drug Repurposing Candidates</div>
+                <div class="service-desc">Provide TxGNN-based drug repurposing predictions for patient medications and conditions.</div>
+                <span class="service-hook">order-sign</span>
+            </div>
+        </div>
+
+        <div class="service">
+            <div class="service-icon icon-trial">🔬</div>
+            <div class="service-content">
+                <div class="service-title">Clinical Trial Matching</div>
+                <div class="service-desc">Automatically search ClinicalTrials.gov for relevant clinical trials.</div>
+                <span class="service-hook">patient-view</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="card demo-section">
+        <h2>Try It Out</h2>
+
+        <div class="input-group">
+            <label for="drug1">Current Medication:</label>
+            <select id="drug1">
+                <option value="prednisolone">Prednisolone</option>
+                <option value="metformin">Metformin</option>
+                <option value="simvastatin">Simvastatin</option>
+                <option value="aspirin">Aspirin</option>
+            </select>
+        </div>
+
+        <div class="input-group">
+            <label for="drug2">New Prescription:</label>
+            <select id="drug2">
+                <option value="ibuprofen">Ibuprofen</option>
+                <option value="warfarin">Warfarin</option>
+                <option value="ketoconazole">Ketoconazole</option>
+                <option value="amlodipine">Amlodipine</option>
+            </select>
+        </div>
+
+        <div class="input-group">
+            <label for="condition">Patient Condition:</label>
+            <select id="condition">
+                <option value="diabetes">Type 2 Diabetes</option>
+                <option value="hypertension">Hypertension</option>
+                <option value="arthritis">Rheumatoid Arthritis</option>
+                <option value="asthma">Asthma</option>
+            </select>
+        </div>
+
+        <button class="btn" onclick="runDemo()">Check Interactions & Suggestions</button>
+
+        <div id="result" class="result">
+            <!-- Results will be shown here -->
+        </div>
+    </div>
+
+    <div class="disclaimer">
+        <strong>⚠️ Disclaimer</strong><br>
+        This is a demonstration only. The CDS Hooks services shown here are for educational purposes and should not be used for actual clinical decisions. Always consult qualified healthcare professionals for medical advice.
+    </div>
+
+    <script>
+        function runDemo() {
+            const drug1 = document.getElementById('drug1').value;
+            const drug2 = document.getElementById('drug2').value;
+            const condition = document.getElementById('condition').value;
+
+            const result = document.getElementById('result');
+            result.classList.add('show');
+
+            // Simulated responses
+            let html = '<h3>CDS Hooks Response</h3>';
+
+            // DDI Check
+            if ((drug1 === 'prednisolone' && drug2 === 'ibuprofen') ||
+                (drug1 === 'simvastatin' && drug2 === 'ketoconazole')) {
+                html += `
+                    <div class="alert-card alert-warning">
+                        <strong>⚠️ Drug Interaction Alert</strong><br>
+                        <strong>${drug1.charAt(0).toUpperCase() + drug1.slice(1)}</strong> + <strong>${drug2.charAt(0).toUpperCase() + drug2.slice(1)}</strong><br>
+                        Severity: <strong>Moderate</strong><br>
+                        Recommendation: Monitor for adverse effects. Consider alternative if possible.
+                    </div>
+                `;
+            } else {
+                html += `
+                    <div class="alert-card alert-success">
+                        <strong>✓ No Major Interactions</strong><br>
+                        No significant drug interactions detected between the selected medications.
+                    </div>
+                `;
+            }
+
+            // Repurposing Suggestion
+            html += `
+                <div class="alert-card alert-info">
+                    <strong>💊 Drug Repurposing Insight</strong><br>
+                    Based on TxGNN analysis, <strong>${drug1.charAt(0).toUpperCase() + drug1.slice(1)}</strong> has potential applications for related conditions.<br>
+                    <a href="/drugs/">View full predictions →</a>
+                </div>
+            `;
+
+            // Trial Matching
+            html += `
+                <div class="alert-card alert-info">
+                    <strong>🔬 Clinical Trial Opportunities</strong><br>
+                    Found 3 active clinical trials matching patient profile.<br>
+                    <a href="https://clinicaltrials.gov/" target="_blank">View on ClinicalTrials.gov →</a>
+                </div>
+            `;
+
+            result.innerHTML = html;
+        }
+    </script>
+</body>
+</html>

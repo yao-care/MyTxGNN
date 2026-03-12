@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db01005-hereditary-persistence-of-fetal-hemoglobin",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db01005"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "hereditary-persistence-of-fetal-hemoglobin",
+            "display": "hereditary persistence of fetal hemoglobin"
+          }
+        ],
+        "text": "hereditary persistence of fetal hemoglobin"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

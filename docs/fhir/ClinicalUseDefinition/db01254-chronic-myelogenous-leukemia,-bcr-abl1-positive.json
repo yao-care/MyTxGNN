@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db01254-chronic-myelogenous-leukemia,-bcr-abl1-positive",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db01254"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "chronic-myelogenous-leukemia,-bcr-abl1-positive",
+            "display": "chronic myelogenous leukemia, BCR-ABL1 positive"
+          }
+        ],
+        "text": "chronic myelogenous leukemia, BCR-ABL1 positive"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

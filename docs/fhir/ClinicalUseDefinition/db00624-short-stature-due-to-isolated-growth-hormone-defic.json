@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00624-short-stature-due-to-isolated-growth-hormone-defic",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00624"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "short-stature-due-to-isolated-growth-hormone-defic",
+            "display": "short stature due to isolated growth hormone deficiency with X-linked hypogammaglobulinemia"
+          }
+        ],
+        "text": "short stature due to isolated growth hormone deficiency with X-linked hypogammaglobulinemia"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db12466-influenza,-severe,-susceptibility-to",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db12466"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "influenza,-severe,-susceptibility-to",
+            "display": "influenza, severe, susceptibility to"
+          }
+        ],
+        "text": "influenza, severe, susceptibility to"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

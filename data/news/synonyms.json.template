@@ -1,0 +1,55 @@
+{
+  "_comment": "TODO: 將此檔案改名為 synonyms.json，並填入當地語言的疾病/藥物同義詞",
+  "description": "Disease and drug synonyms in {Language}",
+  "generated": "YYYY-MM-DD",
+  "indication_synonyms": {
+    "_comment_indications": "TODO: 為每個英文疾病名稱列出當地語言的同義詞",
+
+    "diabetes mellitus": [
+      "TODO: 填入當地語言同義詞"
+    ],
+    "hypertension": [
+      "TODO: 填入當地語言同義詞"
+    ],
+    "cancer": [
+      "TODO: 填入當地語言同義詞"
+    ],
+    "heart disease": [
+      "TODO: 填入當地語言同義詞"
+    ],
+    "asthma": [
+      "TODO: 填入當地語言同義詞"
+    ],
+    "depression": [
+      "TODO: 填入當地語言同義詞"
+    ],
+    "arthritis": [
+      "TODO: 填入當地語言同義詞"
+    ],
+    "stroke": [
+      "TODO: 填入當地語言同義詞"
+    ],
+    "obesity": [
+      "TODO: 填入當地語言同義詞"
+    ],
+    "alzheimer disease": [
+      "TODO: 填入當地語言同義詞"
+    ]
+  },
+  "drug_synonyms": {
+    "_comment_drugs": "TODO: 為常見藥物列出當地語言的品牌名或別名",
+
+    "metformin": [
+      "TODO: 填入當地語言品牌名"
+    ],
+    "aspirin": [
+      "TODO: 填入當地語言品牌名"
+    ],
+    "ibuprofen": [
+      "TODO: 填入當地語言品牌名"
+    ],
+    "acetaminophen": [
+      "TODO: 填入當地語言品牌名"
+    ]
+  }
+}

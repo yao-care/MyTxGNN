@@ -1,0 +1,71 @@
+<!-- TODO: 將此檔案改名為 launch.html -->
+<!-- TODO: 修改 client_id 和 redirect_uri -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Launching SMART App...</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .loading {
+            text-align: center;
+        }
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 3px solid rgba(255,255,255,0.3);
+            border-radius: 50%;
+            border-top-color: white;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        .error {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 400px;
+        }
+    </style>
+</head>
+<body>
+    <div class="loading" id="loading">
+        <div class="spinner"></div>
+        <p>Connecting to EHR...</p>
+    </div>
+    <div class="error" id="error" style="display: none;">
+        <h2>Launch Error</h2>
+        <p id="error-message"></p>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js"></script>
+    <script>
+        // TODO: 修改以下設定
+        const CLIENT_ID = "{country}txgnn-smart-app";  // TODO: 與 EHR 註冊的 ID 一致
+        const REDIRECT_URI = window.location.origin + "/smart/app.html";
+
+        FHIR.oauth2.authorize({
+            client_id: CLIENT_ID,
+            scope: "launch patient/MedicationRequest.read patient/MedicationStatement.read patient/Patient.read",
+            redirect_uri: REDIRECT_URI,
+            pkce: true
+        }).catch(function(error) {
+            document.getElementById("loading").style.display = "none";
+            document.getElementById("error").style.display = "block";
+            document.getElementById("error-message").textContent = error.message || "Unknown error";
+        });
+    </script>
+</body>
+</html>

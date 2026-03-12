@@ -1,0 +1,8701 @@
+{
+  "generated": "2026-03-08",
+  "drug_count": 100,
+  "indication_count": 256,
+  "drugs": [
+    {
+      "name": "Benzoic Acid",
+      "slug": "benzoic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "pemphigus",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "dermatomyositis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "systemic sclerosis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "balanitis xerotica obliterans",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "penile fibromatosis",
+          "score": 0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Tolnaftate",
+      "slug": "tolnaftate",
+      "brands": [],
+      "original": "",
+      "level": "L2",
+      "indications": [
+        {
+          "name": "pityriasis versicolor",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "tinea pedis",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "tinea barbae",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "tinea corporis",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "dermatophytosis of groin and perianal area",
+          "score": 0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Lamivudine",
+      "slug": "lamivudine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "HIV infectious disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "chronic hepatitis B virus infection",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "AIDS",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "HIV infectious disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "chronic hepatitis B virus infection",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Docetaxel",
+      "slug": "docetaxel",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "familial prostate carcinoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "lung cancer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "head and neck cancer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "non-small cell lung carcinoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "upper aerodigestive tract neoplasm",
+          "score": 0,
+          "level": "L3"
+        }
+      ]
+    },
+    {
+      "name": "Cimetidine",
+      "slug": "cimetidine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "hyperinsulinism",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "esophagitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "gastric ulcer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "systemic mastocytosis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "gastrin secretion abnormality",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Bortezomib",
+      "slug": "bortezomib",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "B-cell neoplasm",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "plasma cell myeloma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "lymphosarcoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "mantle cell lymphoma",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "B-cell neoplasm",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Ketoconazole",
+      "slug": "ketoconazole",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "chromomycosis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "disseminated candidiasis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "paracoccidioidomycosis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "tinea pedis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "pityriasis simplex",
+          "score": 0,
+          "level": "L2"
+        }
+      ]
+    },
+    {
+      "name": "Clobetasol Propionate",
+      "slug": "clobetasol_propionate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "dermatitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "seborrheic keratosis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "scalp dermatosis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "dermatitis, atopic",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "seborrheic dermatitis",
+          "score": 0,
+          "level": "L2"
+        }
+      ]
+    },
+    {
+      "name": "Trimethoprim",
+      "slug": "trimethoprim",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "pneumocystosis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "acute contagious conjunctivitis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "urinary tract infection",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "infectious otitis media",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "conjunctivitis",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Omeprazole",
+      "slug": "omeprazole",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "hyperinsulinism",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "esophagitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "gastric ulcer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "gastrin secretion abnormality",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "duodenal ulcer",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Calcium Chloride",
+      "slug": "calcium_chloride",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "hypercalcemia disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "cardiac arrest",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "phosphorus metabolism disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "potassium deficiency disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "nephrocalcinosis",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Cephalexin",
+      "slug": "cephalexin",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "streptococcal pneumonia",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "infectious otitis media",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "arthropathy",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "streptococcal infection",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "staphylococcus aureus infection",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Famotidine",
+      "slug": "famotidine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "hyperinsulinism",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "esophagitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "gastric ulcer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "gastrin secretion abnormality",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "duodenal ulcer",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Irbesartan",
+      "slug": "irbesartan",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "hypertensive disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "diabetic nephropathy",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypertension",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypertensive disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "diabetic nephropathy",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Paclitaxel",
+      "slug": "paclitaxel",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "ovarian clear cell adenocarcinoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "peritoneum cancer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hereditary breast ovarian cancer syndrome",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "primary non-gestational choriocarcinoma of ovary",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "ovarian carcinosarcoma",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Ferrous Fumarate",
+      "slug": "ferrous_fumarate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "acne",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "microcytic anemia",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "deficiency anemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "folic acid deficiency anemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "anemia of prematurity",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Cyanocobalamin",
+      "slug": "cyanocobalamin",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "microcytic anemia",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "vitamin deficiency disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "vitamin B12 deficiency",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "deficiency anemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "folic acid deficiency anemia",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Triamcinolone",
+      "slug": "triamcinolone",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "erythema multiforme",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "lymphosarcoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "disease of orbital region",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "leukemia, lymphocytic, susceptibility to",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "rheumatic heart disease",
+          "score": 0,
+          "level": "L3"
+        }
+      ]
+    },
+    {
+      "name": "Methotrexate",
+      "slug": "methotrexate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "upper aerodigestive tract neoplasm",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "non-Hodgkin lymphoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "lymphosarcoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "localized pagetoid reticulosis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "lymphoma",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Methylprednisolone",
+      "slug": "methylprednisolone",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "erythema multiforme",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "lymphosarcoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "disease of orbital region",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "leukemia, lymphocytic, susceptibility to",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "rheumatic heart disease",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Rituximab",
+      "slug": "rituximab",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "lymphoma, non-Hodgkin, familial",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "mantle cell lymphoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "B-cell neoplasm",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "Langerhans cell histiocytosis",
+          "score": 0,
+          "level": "L2"
+        }
+      ]
+    },
+    {
+      "name": "Lenalidomide",
+      "slug": "lenalidomide",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "mantle cell lymphoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "B-cell neoplasm",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "plasma cell myeloma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "lymphosarcoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "myelodysplastic syndrome",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Fluconazole",
+      "slug": "fluconazole",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "esophageal candidiasis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "vulvovaginal candidiasis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "oral candidiasis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "disseminated candidiasis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "candidemia",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Levodopa",
+      "slug": "levodopa",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "parkinsonian disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "juvenile onset Parkinson disease 19A",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "early-onset parkinsonism-intellectual disability syndrome",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "Parkinson disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "atypical juvenile parkinsonism",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Risperidone",
+      "slug": "risperidone",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "autism susceptibility 1",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "autism",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "schizophrenia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "bipolar disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "manic bipolar affective disorder",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Azacitidine",
+      "slug": "azacitidine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "therapy related acute myeloid leukemia and myelodysplastic syndrome",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "acute myeloblastic leukemia with maturation",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "myelomonocytic leukemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "acute myeloid leukemia with minimal differentiation",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Decitabine",
+      "slug": "decitabine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "therapy related acute myeloid leukemia and myelodysplastic syndrome",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "acute myeloblastic leukemia with maturation",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "acute myeloid leukemia with minimal differentiation",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "myeloid leukemia",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Ezetimibe",
+      "slug": "ezetimibe",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "sitosterolemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "familial hyperlipidemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "obsolete familial combined hyperlipidemia",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "hyperlipidemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hyperlipidemia, familial combined, LPL related",
+          "score": 0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Gliclazide",
+      "slug": "gliclazide",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "type 2 diabetes mellitus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "diabetes mellitus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "type 2 diabetes mellitus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "diabetes mellitus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "type 2 diabetes mellitus",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Fenofibrate",
+      "slug": "fenofibrate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "hypoalphalipoproteinemia",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "familial hyperlipidemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "obsolete familial combined hyperlipidemia",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "hypertriglyceridemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hyperlipidemia",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Simvastatin",
+      "slug": "simvastatin",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "stroke disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypoalphalipoproteinemia",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "obsolete susceptibility to ischemic stroke",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "arteriosclerosis disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "atherosclerosis",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Prednisolone",
+      "slug": "prednisolone",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "erythema multiforme",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "lymphosarcoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "disease of orbital region",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "leukemia, lymphocytic, susceptibility to",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "rheumatic heart disease",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Thiotepa",
+      "slug": "thiotepa",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "non-papillary transitional cell carcinoma of the bladder",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "ovarian clear cell adenocarcinoma",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "Hodgkins lymphoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "non-Hodgkin lymphoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "lymphosarcoma",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Caffeine",
+      "slug": "caffeine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "pharyngitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "vasomotor rhinitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "common cold",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "nasopharyngitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "headache disorder",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Entacapone",
+      "slug": "entacapone",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "juvenile onset Parkinson disease 19A",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "early-onset parkinsonism-intellectual disability syndrome",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "Parkinson disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "atypical juvenile parkinsonism",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "hemiparkinsonism-hemiatrophy syndrome",
+          "score": 0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Desloratadine",
+      "slug": "desloratadine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "pharyngitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "papillary conjunctivitis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "vasomotor rhinitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "allergic urticaria",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "common cold",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Mometasone Furoate",
+      "slug": "mometasone_furoate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "neurodermatitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "exanthem",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "granuloma annulare",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "atopic eczema",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "asthma",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Clavulanic Acid",
+      "slug": "clavulanic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "streptococcal pneumonia",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "staphylococcus aureus pneumonia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "urinary tract infection",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "bacterial pneumonia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "escherichia coli infection",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Everolimus",
+      "slug": "everolimus",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "breast neoplasm",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "renal cell adenocarcinoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "clear cell renal carcinoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "tuberous sclerosis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "situs inversus",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Loratadine",
+      "slug": "loratadine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "pharyngitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "papillary conjunctivitis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "vasomotor rhinitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "common cold",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "nasopharyngitis",
+          "score": 0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Acyclovir",
+      "slug": "acyclovir",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "herpes zoster",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "herpes simplex encephalitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "herpes labialis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "genital herpes",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "herpes simplex infectious disease",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Sodium Citrate",
+      "slug": "sodium_citrate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "pharyngitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "rhinitis",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "esophagitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "gastroesophageal reflux disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "common cold",
+          "score": 0,
+          "level": "L3"
+        }
+      ]
+    },
+    {
+      "name": "Dexamethasone",
+      "slug": "dexamethasone",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "diffuse large B-cell lymphoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "erythema multiforme",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "lymphosarcoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "disease of orbital region",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "leukemia, lymphocytic, susceptibility to",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Pregabalin",
+      "slug": "pregabalin",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "fibromyalgia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "myofascial pain syndrome",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "anxiety disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "postherpetic neuralgia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "fibromyalgia",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Hydrocortisone Acetate",
+      "slug": "hydrocortisone_acetate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "erythema multiforme",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "hemorrhoid",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "lymphosarcoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "disease of orbital region",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "leukemia, lymphocytic, susceptibility to",
+          "score": 0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Calcium Carbonate",
+      "slug": "calcium_carbonate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "nephrocalcinosis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "dyspepsia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "phosphorus metabolism disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypercalcemia disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "nephrocalcinosis",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Adalimumab",
+      "slug": "adalimumab",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "inflammatory bowel disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "dyshidrosis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "spondyloarthropathy, susceptibility to",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "hidradenitis suppurativa",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Potassium Chloride",
+      "slug": "potassium_chloride",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "potassium deficiency disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "constipation disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "potassium deficiency disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "constipation disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "potassium deficiency disease",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Betamethasone",
+      "slug": "betamethasone",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "erythema multiforme",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "lymphosarcoma",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "disease of orbital region",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "leukemia, lymphocytic, susceptibility to",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "rheumatic heart disease",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Naproxen",
+      "slug": "naproxen",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "spondyloarthropathy, susceptibility to",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "myositis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "migraine disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "migraine with or without aura, susceptibility to",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "osteoarthritis",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Hydrocortisone",
+      "slug": "hydrocortisone",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "erythema multiforme",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "hemorrhoid",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "lymphosarcoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "disease of orbital region",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "leukemia, lymphocytic, susceptibility to",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Zinc Oxide",
+      "slug": "zinc_oxide",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "dermatitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "proctitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "exanthem",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "tinea pedis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "cutaneous candidiasis",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Clarithromycin",
+      "slug": "clarithromycin",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "maxillary sinusitis",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "streptococcal pneumonia",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "pneumonia caused by chlamydia",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "infectious otitis media",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "bacterial pneumonia",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Albendazole",
+      "slug": "albendazole",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "echinococcus granulosus infectious disease",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "cystic echinococcosis",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "cysticercosis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "echinococcus granulosus infectious disease",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "cystic echinococcosis",
+          "score": 0,
+          "level": "L3"
+        }
+      ]
+    },
+    {
+      "name": "Carbamazepine",
+      "slug": "carbamazepine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "epilepsy with generalized tonic-clonic seizures",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "epilepsy",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "cutis verticis gyrata",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "glossopharyngeal neuralgia",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "glossopharyngeal motor neuropathy",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Telmisartan",
+      "slug": "telmisartan",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "stroke disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "obsolete susceptibility to ischemic stroke",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "hypertension",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "cerebrovascular disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypertensive disorder",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Testosterone",
+      "slug": "testosterone",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "congenital hypogonadotropic hypogonadism",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "eunuchism",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "pituitary deficiency",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "trisomy 13",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "hypogonadotropic hypogonadism-frontoparietal alopecia syndrome",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Tobramycin",
+      "slug": "tobramycin",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "superior limbic keratoconjunctivitis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "acute contagious conjunctivitis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "iridocyclitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "escherichia coli infection",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "bacterial meningitis",
+          "score": 0,
+          "level": "L3"
+        }
+      ]
+    },
+    {
+      "name": "Fluticasone Propionate",
+      "slug": "fluticasone_propionate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "neurodermatitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "exanthem",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "granuloma annulare",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "atopic eczema",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "discoid lupus erythematosus",
+          "score": 0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Medroxyprogesterone Acetate",
+      "slug": "medroxyprogesterone_acetate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "uterine corpus cancer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "endometrial cancer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "endometriosis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "endometriosis of uterus",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "postmenopausal atrophic vaginitis",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Olanzapine",
+      "slug": "olanzapine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "major depressive disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "schizophrenia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "endogenous depression",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "bipolar disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "unipolar depression",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Deferasirox",
+      "slug": "deferasirox",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "beta-thalassemia and related diseases",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hemoglobinopathy",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "beta-thalassemia HBB/LCRB",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "dominant beta-thalassemia",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "beta-thalassemia intermedia",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Fusidic Acid",
+      "slug": "fusidic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "ornithosis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "superior limbic keratoconjunctivitis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "cholera",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "gastrointestinal anthrax",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "typhus",
+          "score": 0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Acetylcysteine",
+      "slug": "acetylcysteine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "bronchitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "bronchiectasis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "amyloidosis",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "AL amyloidosis",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "cystic fibrosis",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Iron",
+      "slug": "iron",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "microcytic anemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "deficiency anemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "folic acid deficiency anemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "anemia of prematurity",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "iron deficiency anemia",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Ibuprofen",
+      "slug": "ibuprofen",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "osteoarthritis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "patent ductus arteriosus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "osteoarthritis susceptibility",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "arthropathy",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Capecitabine",
+      "slug": "capecitabine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "gastric neoplasm",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "gastric linitis plastica",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "gastric carcinoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "gastric cancer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "metastasis from malignant tumor of colon",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Chloramphenicol",
+      "slug": "chloramphenicol",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "paratyphoid fever",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "Rickettsiosis",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "typhus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "Q fever",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "meningococcal infection",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Celecoxib",
+      "slug": "celecoxib",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "osteoarthritis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "spondyloarthropathy, susceptibility to",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "osteoarthritis susceptibility",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "ankylosing spondylitis",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Bevacizumab",
+      "slug": "bevacizumab",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "peritoneum cancer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hereditary breast ovarian cancer syndrome",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "malignant epithelial tumor of ovary",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "primary peritoneal carcinoma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "breast neoplasm",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Metronidazole",
+      "slug": "metronidazole",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "rosacea",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "intracranial abscess",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "peritonitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "endometritis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "bacterial vaginosis",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Amphotericin B",
+      "slug": "amphotericin_b",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "esophageal candidiasis",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "acne",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "ornithosis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "disseminated candidiasis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "Actinomycetales infectious disease",
+          "score": 0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Ciprofloxacin",
+      "slug": "ciprofloxacin",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "paratyphoid fever",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "diarrheal disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "acute contagious conjunctivitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "escherichia coli infection",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "malignant otitis externa caused by Pseudomonas aeruginosa",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Ceftazidime",
+      "slug": "ceftazidime",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "peritonitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "streptococcal pneumonia",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "endometritis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "meningococcal infection",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "staphylococcal pneumonia",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Lamotrigine",
+      "slug": "lamotrigine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "cutis verticis gyrata",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "epilepsy",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "Lennox-Gastaut syndrome",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "partial epilepsy",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "visual epilepsy",
+          "score": 0,
+          "level": "L2"
+        }
+      ]
+    },
+    {
+      "name": "Atenolol",
+      "slug": "atenolol",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "hypertension",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "myocardial infarction",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hemoglobinopathy",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "myocardial infarction",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "coronary thrombosis",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Carbidopa",
+      "slug": "carbidopa",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "parkinsonian disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "juvenile onset Parkinson disease 19A",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "early-onset parkinsonism-intellectual disability syndrome",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "Parkinson disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "atypical juvenile parkinsonism",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Clotrimazole",
+      "slug": "clotrimazole",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "pityriasis versicolor",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "cutaneous candidiasis",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "tinea pedis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "oral candidiasis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "vulvovaginal candidiasis",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Magnesium Trisilicate",
+      "slug": "magnesium_trisilicate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "esophagitis",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "gastroesophageal reflux disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "peptic esophagitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "peptic ulcer disease",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "dyspepsia",
+          "score": 0,
+          "level": "L2"
+        }
+      ]
+    },
+    {
+      "name": "Lidocaine",
+      "slug": "lidocaine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "dermatitis",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "mite infestation",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "urethritis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "hemorrhoid",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "premature ejaculation",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Erythromycin",
+      "slug": "erythromycin",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "acne",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "pneumonia caused by chlamydia",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "listeriosis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "acute gonococcal endometritis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "infectious otitis media",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Folic Acid",
+      "slug": "folic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "microcytic anemia",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "vitamin deficiency disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "deficiency anemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "folic acid deficiency anemia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "iron deficiency anemia",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Glycine",
+      "slug": "glycine",
+      "brands": [],
+      "original": "",
+      "level": "L2",
+      "indications": [
+        {
+          "name": "pharyngitis",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "rhinitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "vasomotor rhinitis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "common cold",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "nasopharyngitis",
+          "score": 0,
+          "level": "L2"
+        }
+      ]
+    },
+    {
+      "name": "Meloxicam",
+      "slug": "meloxicam",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "osteoarthritis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "rheumatoid arthritis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "osteoarthritis susceptibility",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "arthropathy",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "juvenile arthritis due to defect in LACC1",
+          "score": 0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "slug": "hydrochlorothiazide",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "hypertensive disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypertension",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "congestive heart failure",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypertensive disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypertension",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Tadalafil",
+      "slug": "tadalafil",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "erectile dysfunction",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "premature ejaculation",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "psychologic dyspareunia",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "pulmonary hypertension",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "benign prostatic hyperplasia",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Ofloxacin",
+      "slug": "ofloxacin",
+      "brands": [],
+      "original": "",
+      "level": "L3",
+      "indications": [
+        {
+          "name": "paratyphoid fever",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "diarrheal disease",
+          "score": 0,
+          "level": "L3"
+        },
+        {
+          "name": "pneumonia caused by chlamydia",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "acute contagious conjunctivitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "acute gonococcal endometritis",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Progesterone",
+      "slug": "progesterone",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "uterine corpus cancer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "endometrial cancer",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "endometriosis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "endometriosis of uterus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "postmenopausal atrophic vaginitis",
+          "score": 0,
+          "level": "L3"
+        }
+      ]
+    },
+    {
+      "name": "Insulin Glargine",
+      "slug": "insulin_glargine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "diabetic ketoacidosis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "type 2 diabetes mellitus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "type 1 diabetes mellitus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "diabetes mellitus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "IDDM 1",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Aripiprazole",
+      "slug": "aripiprazole",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "autism susceptibility 1",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "autism",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "schizophrenia",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "bipolar disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "manic bipolar affective disorder",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Norfloxacin",
+      "slug": "norfloxacin",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "paratyphoid fever",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "diarrheal disease",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "pneumonia caused by chlamydia",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "acute contagious conjunctivitis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "endomyometritis",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Budesonide",
+      "slug": "budesonide",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "asthma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "inflammatory bowel disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "allergic asthma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "intrinsic asthma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "Crohn disease",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Beclomethasone Dipropionate",
+      "slug": "beclomethasone_dipropionate",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "asthma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "allergic asthma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "rhinitis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "intrinsic asthma",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "vasomotor rhinitis",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Salicylic Acid",
+      "slug": "salicylic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "keratinization disease",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "acne",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "plantar wart",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "acquired keratosis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "osteoarthritis",
+          "score": 0,
+          "level": "L2"
+        }
+      ]
+    },
+    {
+      "name": "Ethinylestradiol",
+      "slug": "ethinylestradiol",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "acne",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "obsolete atrophic vulva",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "postmenopausal atrophic vaginitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "postmenopausal osteoporosis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "osteoporosis",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Insulin Human",
+      "slug": "insulin_human",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "diabetic ketoacidosis",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "type 2 diabetes mellitus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "type 1 diabetes mellitus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "diabetes mellitus",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "IDDM 1",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    },
+    {
+      "name": "Ammonium Chloride",
+      "slug": "ammonium_chloride",
+      "brands": [],
+      "original": "",
+      "level": "L4",
+      "indications": [
+        {
+          "name": "pharyngitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "common cold",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "nasopharyngitis",
+          "score": 0,
+          "level": "L5"
+        },
+        {
+          "name": "pharyngitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "common cold",
+          "score": 0,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Theophylline",
+      "slug": "theophylline",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "asthma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "allergic asthma",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "bronchitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "pulmonary emphysema",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "intrinsic asthma",
+          "score": 0,
+          "level": "L3"
+        }
+      ]
+    },
+    {
+      "name": "Magnesium Hydroxide",
+      "slug": "magnesium_hydroxide",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "esophagitis",
+          "score": 0,
+          "level": "L2"
+        },
+        {
+          "name": "constipation disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "gastroesophageal reflux disease",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "peptic esophagitis",
+          "score": 0,
+          "level": "L4"
+        },
+        {
+          "name": "peptic ulcer disease",
+          "score": 0,
+          "level": "L2"
+        }
+      ]
+    },
+    {
+      "name": "Valsartan",
+      "slug": "valsartan",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": [
+        {
+          "name": "hypertensive disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypertension",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypertensive disorder",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypertension",
+          "score": 0,
+          "level": "L1"
+        },
+        {
+          "name": "hypertensive disorder",
+          "score": 0,
+          "level": "L1"
+        }
+      ]
+    }
+  ],
+  "indications": [
+    {
+      "name": "lymphosarcoma",
+      "count": 11,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Bortezomib",
+          "slug": "bortezomib",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Methotrexate",
+          "slug": "methotrexate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Methylprednisolone",
+          "slug": "methylprednisolone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Lenalidomide",
+          "slug": "lenalidomide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Prednisolone",
+          "slug": "prednisolone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Thiotepa",
+          "slug": "thiotepa",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Dexamethasone",
+          "slug": "dexamethasone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Hydrocortisone Acetate",
+          "slug": "hydrocortisone_acetate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Hydrocortisone",
+          "slug": "hydrocortisone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Betamethasone",
+          "slug": "betamethasone",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hypertensive disorder",
+      "count": 8,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Irbesartan",
+          "slug": "irbesartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Irbesartan",
+          "slug": "irbesartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Telmisartan",
+          "slug": "telmisartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Hydrochlorothiazide",
+          "slug": "hydrochlorothiazide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Hydrochlorothiazide",
+          "slug": "hydrochlorothiazide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Valsartan",
+          "slug": "valsartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Valsartan",
+          "slug": "valsartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Valsartan",
+          "slug": "valsartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hypertension",
+      "count": 7,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Irbesartan",
+          "slug": "irbesartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Telmisartan",
+          "slug": "telmisartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Atenolol",
+          "slug": "atenolol",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Hydrochlorothiazide",
+          "slug": "hydrochlorothiazide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Hydrochlorothiazide",
+          "slug": "hydrochlorothiazide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Valsartan",
+          "slug": "valsartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Valsartan",
+          "slug": "valsartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "erythema multiforme",
+      "count": 7,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Methylprednisolone",
+          "slug": "methylprednisolone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Prednisolone",
+          "slug": "prednisolone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Dexamethasone",
+          "slug": "dexamethasone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Betamethasone",
+          "slug": "betamethasone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Hydrocortisone Acetate",
+          "slug": "hydrocortisone_acetate",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Hydrocortisone",
+          "slug": "hydrocortisone",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "disease of orbital region",
+      "count": 7,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Methylprednisolone",
+          "slug": "methylprednisolone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Prednisolone",
+          "slug": "prednisolone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Dexamethasone",
+          "slug": "dexamethasone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Hydrocortisone Acetate",
+          "slug": "hydrocortisone_acetate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Betamethasone",
+          "slug": "betamethasone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Hydrocortisone",
+          "slug": "hydrocortisone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "leukemia, lymphocytic, susceptibility to",
+      "count": 7,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Methylprednisolone",
+          "slug": "methylprednisolone",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Prednisolone",
+          "slug": "prednisolone",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Dexamethasone",
+          "slug": "dexamethasone",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Hydrocortisone",
+          "slug": "hydrocortisone",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Hydrocortisone Acetate",
+          "slug": "hydrocortisone_acetate",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Betamethasone",
+          "slug": "betamethasone",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pharyngitis",
+      "count": 7,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Caffeine",
+          "slug": "caffeine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Loratadine",
+          "slug": "loratadine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Sodium Citrate",
+          "slug": "sodium_citrate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Glycine",
+          "slug": "glycine",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Desloratadine",
+          "slug": "desloratadine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Ammonium Chloride",
+          "slug": "ammonium_chloride",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Ammonium Chloride",
+          "slug": "ammonium_chloride",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "common cold",
+      "count": 7,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Caffeine",
+          "slug": "caffeine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Desloratadine",
+          "slug": "desloratadine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Loratadine",
+          "slug": "loratadine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Glycine",
+          "slug": "glycine",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Sodium Citrate",
+          "slug": "sodium_citrate",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Ammonium Chloride",
+          "slug": "ammonium_chloride",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Ammonium Chloride",
+          "slug": "ammonium_chloride",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "esophagitis",
+      "count": 6,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Omeprazole",
+          "slug": "omeprazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Famotidine",
+          "slug": "famotidine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Sodium Citrate",
+          "slug": "sodium_citrate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Magnesium Hydroxide",
+          "slug": "magnesium_hydroxide",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Magnesium Trisilicate",
+          "slug": "magnesium_trisilicate",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Cimetidine",
+          "slug": "cimetidine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "acute contagious conjunctivitis",
+      "count": 5,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Ciprofloxacin",
+          "slug": "ciprofloxacin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Ofloxacin",
+          "slug": "ofloxacin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Trimethoprim",
+          "slug": "trimethoprim",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Tobramycin",
+          "slug": "tobramycin",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Norfloxacin",
+          "slug": "norfloxacin",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "acne",
+      "count": 5,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Erythromycin",
+          "slug": "erythromycin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Salicylic Acid",
+          "slug": "salicylic_acid",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Ethinylestradiol",
+          "slug": "ethinylestradiol",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Ferrous Fumarate",
+          "slug": "ferrous_fumarate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Amphotericin B",
+          "slug": "amphotericin_b",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "rheumatoid arthritis",
+      "count": 5,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Rituximab",
+          "slug": "rituximab",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Adalimumab",
+          "slug": "adalimumab",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Ibuprofen",
+          "slug": "ibuprofen",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Celecoxib",
+          "slug": "celecoxib",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Meloxicam",
+          "slug": "meloxicam",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "type 2 diabetes mellitus",
+      "count": 5,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Gliclazide",
+          "slug": "gliclazide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Gliclazide",
+          "slug": "gliclazide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Insulin Glargine",
+          "slug": "insulin_glargine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Insulin Human",
+          "slug": "insulin_human",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Gliclazide",
+          "slug": "gliclazide",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "vasomotor rhinitis",
+      "count": 5,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Caffeine",
+          "slug": "caffeine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Desloratadine",
+          "slug": "desloratadine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Loratadine",
+          "slug": "loratadine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Beclomethasone Dipropionate",
+          "slug": "beclomethasone_dipropionate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Glycine",
+          "slug": "glycine",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "osteoarthritis",
+      "count": 5,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Naproxen",
+          "slug": "naproxen",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Ibuprofen",
+          "slug": "ibuprofen",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Celecoxib",
+          "slug": "celecoxib",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Meloxicam",
+          "slug": "meloxicam",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Salicylic Acid",
+          "slug": "salicylic_acid",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "tinea pedis",
+      "count": 4,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Ketoconazole",
+          "slug": "ketoconazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Clotrimazole",
+          "slug": "clotrimazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Tolnaftate",
+          "slug": "tolnaftate",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Zinc Oxide",
+          "slug": "zinc_oxide",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "B-cell neoplasm",
+      "count": 4,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Bortezomib",
+          "slug": "bortezomib",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Bortezomib",
+          "slug": "bortezomib",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Rituximab",
+          "slug": "rituximab",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Lenalidomide",
+          "slug": "lenalidomide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "infectious otitis media",
+      "count": 4,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Trimethoprim",
+          "slug": "trimethoprim",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Clarithromycin",
+          "slug": "clarithromycin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Erythromycin",
+          "slug": "erythromycin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Cephalexin",
+          "slug": "cephalexin",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "potassium deficiency disease",
+      "count": 4,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Calcium Chloride",
+          "slug": "calcium_chloride",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Potassium Chloride",
+          "slug": "potassium_chloride",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Potassium Chloride",
+          "slug": "potassium_chloride",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Potassium Chloride",
+          "slug": "potassium_chloride",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "streptococcal pneumonia",
+      "count": 4,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Cephalexin",
+          "slug": "cephalexin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Clavulanic Acid",
+          "slug": "clavulanic_acid",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Clarithromycin",
+          "slug": "clarithromycin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Ceftazidime",
+          "slug": "ceftazidime",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "microcytic anemia",
+      "count": 4,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Iron",
+          "slug": "iron",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Ferrous Fumarate",
+          "slug": "ferrous_fumarate",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Cyanocobalamin",
+          "slug": "cyanocobalamin",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Folic Acid",
+          "slug": "folic_acid",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "deficiency anemia",
+      "count": 4,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Ferrous Fumarate",
+          "slug": "ferrous_fumarate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Cyanocobalamin",
+          "slug": "cyanocobalamin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Iron",
+          "slug": "iron",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Folic Acid",
+          "slug": "folic_acid",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "folic acid deficiency anemia",
+      "count": 4,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Ferrous Fumarate",
+          "slug": "ferrous_fumarate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Cyanocobalamin",
+          "slug": "cyanocobalamin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Iron",
+          "slug": "iron",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Folic Acid",
+          "slug": "folic_acid",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "rheumatic heart disease",
+      "count": 4,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Methylprednisolone",
+          "slug": "methylprednisolone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Prednisolone",
+          "slug": "prednisolone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Triamcinolone",
+          "slug": "triamcinolone",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Betamethasone",
+          "slug": "betamethasone",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "diabetes mellitus",
+      "count": 4,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Gliclazide",
+          "slug": "gliclazide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Gliclazide",
+          "slug": "gliclazide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Insulin Glargine",
+          "slug": "insulin_glargine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Insulin Human",
+          "slug": "insulin_human",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "nasopharyngitis",
+      "count": 4,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Glycine",
+          "slug": "glycine",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Caffeine",
+          "slug": "caffeine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Loratadine",
+          "slug": "loratadine",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Ammonium Chloride",
+          "slug": "ammonium_chloride",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "asthma",
+      "count": 4,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Budesonide",
+          "slug": "budesonide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Beclomethasone Dipropionate",
+          "slug": "beclomethasone_dipropionate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Theophylline",
+          "slug": "theophylline",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Mometasone Furoate",
+          "slug": "mometasone_furoate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pneumonia caused by chlamydia",
+      "count": 4,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Erythromycin",
+          "slug": "erythromycin",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Clarithromycin",
+          "slug": "clarithromycin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Ofloxacin",
+          "slug": "ofloxacin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Norfloxacin",
+          "slug": "norfloxacin",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "paratyphoid fever",
+      "count": 4,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Ciprofloxacin",
+          "slug": "ciprofloxacin",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Chloramphenicol",
+          "slug": "chloramphenicol",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Ofloxacin",
+          "slug": "ofloxacin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Norfloxacin",
+          "slug": "norfloxacin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hyperinsulinism",
+      "count": 3,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Omeprazole",
+          "slug": "omeprazole",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Cimetidine",
+          "slug": "cimetidine",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Famotidine",
+          "slug": "famotidine",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "gastric ulcer",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Cimetidine",
+          "slug": "cimetidine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Omeprazole",
+          "slug": "omeprazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Famotidine",
+          "slug": "famotidine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "gastrin secretion abnormality",
+      "count": 3,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Cimetidine",
+          "slug": "cimetidine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Omeprazole",
+          "slug": "omeprazole",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Famotidine",
+          "slug": "famotidine",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "mantle cell lymphoma",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Rituximab",
+          "slug": "rituximab",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Lenalidomide",
+          "slug": "lenalidomide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Bortezomib",
+          "slug": "bortezomib",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "disseminated candidiasis",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Fluconazole",
+          "slug": "fluconazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Amphotericin B",
+          "slug": "amphotericin_b",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Ketoconazole",
+          "slug": "ketoconazole",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "dermatitis",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Clobetasol Propionate",
+          "slug": "clobetasol_propionate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Zinc Oxide",
+          "slug": "zinc_oxide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Lidocaine",
+          "slug": "lidocaine",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "nephrocalcinosis",
+      "count": 3,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Calcium Chloride",
+          "slug": "calcium_chloride",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Calcium Carbonate",
+          "slug": "calcium_carbonate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Calcium Carbonate",
+          "slug": "calcium_carbonate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "arthropathy",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Ibuprofen",
+          "slug": "ibuprofen",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Meloxicam",
+          "slug": "meloxicam",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Cephalexin",
+          "slug": "cephalexin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "juvenile onset Parkinson disease 19A",
+      "count": 3,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Levodopa",
+          "slug": "levodopa",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Entacapone",
+          "slug": "entacapone",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Carbidopa",
+          "slug": "carbidopa",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "early-onset parkinsonism-intellectual disability syndrome",
+      "count": 3,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Levodopa",
+          "slug": "levodopa",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Entacapone",
+          "slug": "entacapone",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Carbidopa",
+          "slug": "carbidopa",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Parkinson disease",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Levodopa",
+          "slug": "levodopa",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Entacapone",
+          "slug": "entacapone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Carbidopa",
+          "slug": "carbidopa",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "atypical juvenile parkinsonism",
+      "count": 3,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Levodopa",
+          "slug": "levodopa",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Entacapone",
+          "slug": "entacapone",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Carbidopa",
+          "slug": "carbidopa",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "schizophrenia",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Risperidone",
+          "slug": "risperidone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Olanzapine",
+          "slug": "olanzapine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Aripiprazole",
+          "slug": "aripiprazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "bipolar disorder",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Risperidone",
+          "slug": "risperidone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Olanzapine",
+          "slug": "olanzapine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Aripiprazole",
+          "slug": "aripiprazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "exanthem",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Zinc Oxide",
+          "slug": "zinc_oxide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Mometasone Furoate",
+          "slug": "mometasone_furoate",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Fluticasone Propionate",
+          "slug": "fluticasone_propionate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "escherichia coli infection",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Clavulanic Acid",
+          "slug": "clavulanic_acid",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Tobramycin",
+          "slug": "tobramycin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Ciprofloxacin",
+          "slug": "ciprofloxacin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "rhinitis",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Beclomethasone Dipropionate",
+          "slug": "beclomethasone_dipropionate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Sodium Citrate",
+          "slug": "sodium_citrate",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Glycine",
+          "slug": "glycine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "gastroesophageal reflux disease",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Sodium Citrate",
+          "slug": "sodium_citrate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Magnesium Trisilicate",
+          "slug": "magnesium_trisilicate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Magnesium Hydroxide",
+          "slug": "magnesium_hydroxide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hemorrhoid",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Lidocaine",
+          "slug": "lidocaine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Hydrocortisone Acetate",
+          "slug": "hydrocortisone_acetate",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Hydrocortisone",
+          "slug": "hydrocortisone",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "spondyloarthropathy, susceptibility to",
+      "count": 3,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Adalimumab",
+          "slug": "adalimumab",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Celecoxib",
+          "slug": "celecoxib",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Naproxen",
+          "slug": "naproxen",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "constipation disorder",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Potassium Chloride",
+          "slug": "potassium_chloride",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Potassium Chloride",
+          "slug": "potassium_chloride",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Magnesium Hydroxide",
+          "slug": "magnesium_hydroxide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "postmenopausal atrophic vaginitis",
+      "count": 3,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Progesterone",
+          "slug": "progesterone",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Medroxyprogesterone Acetate",
+          "slug": "medroxyprogesterone_acetate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Ethinylestradiol",
+          "slug": "ethinylestradiol",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "osteoarthritis susceptibility",
+      "count": 3,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Ibuprofen",
+          "slug": "ibuprofen",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Celecoxib",
+          "slug": "celecoxib",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Meloxicam",
+          "slug": "meloxicam",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "diarrheal disease",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Ciprofloxacin",
+          "slug": "ciprofloxacin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Ofloxacin",
+          "slug": "ofloxacin",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Norfloxacin",
+          "slug": "norfloxacin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "allergic asthma",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Budesonide",
+          "slug": "budesonide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Beclomethasone Dipropionate",
+          "slug": "beclomethasone_dipropionate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Theophylline",
+          "slug": "theophylline",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "intrinsic asthma",
+      "count": 3,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Budesonide",
+          "slug": "budesonide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Theophylline",
+          "slug": "theophylline",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Beclomethasone Dipropionate",
+          "slug": "beclomethasone_dipropionate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pityriasis versicolor",
+      "count": 2,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Clotrimazole",
+          "slug": "clotrimazole",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Tolnaftate",
+          "slug": "tolnaftate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "HIV infectious disease",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Lamivudine",
+          "slug": "lamivudine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Lamivudine",
+          "slug": "lamivudine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "chronic hepatitis B virus infection",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Lamivudine",
+          "slug": "lamivudine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Lamivudine",
+          "slug": "lamivudine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "upper aerodigestive tract neoplasm",
+      "count": 2,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Docetaxel",
+          "slug": "docetaxel",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Methotrexate",
+          "slug": "methotrexate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "plasma cell myeloma",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Bortezomib",
+          "slug": "bortezomib",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Lenalidomide",
+          "slug": "lenalidomide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "urinary tract infection",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Trimethoprim",
+          "slug": "trimethoprim",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Clavulanic Acid",
+          "slug": "clavulanic_acid",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "duodenal ulcer",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Omeprazole",
+          "slug": "omeprazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Famotidine",
+          "slug": "famotidine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hypercalcemia disease",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Calcium Chloride",
+          "slug": "calcium_chloride",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Calcium Carbonate",
+          "slug": "calcium_carbonate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "phosphorus metabolism disease",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Calcium Chloride",
+          "slug": "calcium_chloride",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Calcium Carbonate",
+          "slug": "calcium_carbonate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "diabetic nephropathy",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Irbesartan",
+          "slug": "irbesartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Irbesartan",
+          "slug": "irbesartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "ovarian clear cell adenocarcinoma",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Paclitaxel",
+          "slug": "paclitaxel",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Thiotepa",
+          "slug": "thiotepa",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "peritoneum cancer",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Paclitaxel",
+          "slug": "paclitaxel",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Bevacizumab",
+          "slug": "bevacizumab",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hereditary breast ovarian cancer syndrome",
+      "count": 2,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Paclitaxel",
+          "slug": "paclitaxel",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Bevacizumab",
+          "slug": "bevacizumab",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "anemia of prematurity",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Ferrous Fumarate",
+          "slug": "ferrous_fumarate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Iron",
+          "slug": "iron",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "vitamin deficiency disorder",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Cyanocobalamin",
+          "slug": "cyanocobalamin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Folic Acid",
+          "slug": "folic_acid",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "non-Hodgkin lymphoma",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Methotrexate",
+          "slug": "methotrexate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Thiotepa",
+          "slug": "thiotepa",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "esophageal candidiasis",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Fluconazole",
+          "slug": "fluconazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Amphotericin B",
+          "slug": "amphotericin_b",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "vulvovaginal candidiasis",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Fluconazole",
+          "slug": "fluconazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Clotrimazole",
+          "slug": "clotrimazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "oral candidiasis",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Fluconazole",
+          "slug": "fluconazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Clotrimazole",
+          "slug": "clotrimazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "parkinsonian disorder",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Levodopa",
+          "slug": "levodopa",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Carbidopa",
+          "slug": "carbidopa",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "autism susceptibility 1",
+      "count": 2,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Risperidone",
+          "slug": "risperidone",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Aripiprazole",
+          "slug": "aripiprazole",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "autism",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Risperidone",
+          "slug": "risperidone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Aripiprazole",
+          "slug": "aripiprazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "manic bipolar affective disorder",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Risperidone",
+          "slug": "risperidone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Aripiprazole",
+          "slug": "aripiprazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "therapy related acute myeloid leukemia and myelodysplastic syndrome",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Azacitidine",
+          "slug": "azacitidine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Decitabine",
+          "slug": "decitabine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "acute myeloblastic leukemia with maturation",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Azacitidine",
+          "slug": "azacitidine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Decitabine",
+          "slug": "decitabine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Azacitidine",
+          "slug": "azacitidine",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Decitabine",
+          "slug": "decitabine",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "acute myeloid leukemia with minimal differentiation",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Azacitidine",
+          "slug": "azacitidine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Decitabine",
+          "slug": "decitabine",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "familial hyperlipidemia",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Ezetimibe",
+          "slug": "ezetimibe",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Fenofibrate",
+          "slug": "fenofibrate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "obsolete familial combined hyperlipidemia",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ezetimibe",
+          "slug": "ezetimibe",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Fenofibrate",
+          "slug": "fenofibrate",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hyperlipidemia",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Ezetimibe",
+          "slug": "ezetimibe",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Fenofibrate",
+          "slug": "fenofibrate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hypoalphalipoproteinemia",
+      "count": 2,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Fenofibrate",
+          "slug": "fenofibrate",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Simvastatin",
+          "slug": "simvastatin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "stroke disorder",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Simvastatin",
+          "slug": "simvastatin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Telmisartan",
+          "slug": "telmisartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "obsolete susceptibility to ischemic stroke",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Simvastatin",
+          "slug": "simvastatin",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Telmisartan",
+          "slug": "telmisartan",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "papillary conjunctivitis",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Desloratadine",
+          "slug": "desloratadine",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Loratadine",
+          "slug": "loratadine",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "neurodermatitis",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Mometasone Furoate",
+          "slug": "mometasone_furoate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Fluticasone Propionate",
+          "slug": "fluticasone_propionate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "granuloma annulare",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Mometasone Furoate",
+          "slug": "mometasone_furoate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Fluticasone Propionate",
+          "slug": "fluticasone_propionate",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "atopic eczema",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Mometasone Furoate",
+          "slug": "mometasone_furoate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Fluticasone Propionate",
+          "slug": "fluticasone_propionate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "bacterial pneumonia",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Clavulanic Acid",
+          "slug": "clavulanic_acid",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Clarithromycin",
+          "slug": "clarithromycin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "breast neoplasm",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Everolimus",
+          "slug": "everolimus",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Bevacizumab",
+          "slug": "bevacizumab",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "fibromyalgia",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Pregabalin",
+          "slug": "pregabalin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Pregabalin",
+          "slug": "pregabalin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "dyspepsia",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Calcium Carbonate",
+          "slug": "calcium_carbonate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Magnesium Trisilicate",
+          "slug": "magnesium_trisilicate",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "inflammatory bowel disease",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Adalimumab",
+          "slug": "adalimumab",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Budesonide",
+          "slug": "budesonide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cutaneous candidiasis",
+      "count": 2,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Clotrimazole",
+          "slug": "clotrimazole",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Zinc Oxide",
+          "slug": "zinc_oxide",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "echinococcus granulosus infectious disease",
+      "count": 2,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Albendazole",
+          "slug": "albendazole",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Albendazole",
+          "slug": "albendazole",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cystic echinococcosis",
+      "count": 2,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Albendazole",
+          "slug": "albendazole",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        },
+        {
+          "name": "Albendazole",
+          "slug": "albendazole",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "epilepsy",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Carbamazepine",
+          "slug": "carbamazepine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cutis verticis gyrata",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Carbamazepine",
+          "slug": "carbamazepine",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "superior limbic keratoconjunctivitis",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Tobramycin",
+          "slug": "tobramycin",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Fusidic Acid",
+          "slug": "fusidic_acid",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "uterine corpus cancer",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Medroxyprogesterone Acetate",
+          "slug": "medroxyprogesterone_acetate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Progesterone",
+          "slug": "progesterone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "endometrial cancer",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Medroxyprogesterone Acetate",
+          "slug": "medroxyprogesterone_acetate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Progesterone",
+          "slug": "progesterone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "endometriosis",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Medroxyprogesterone Acetate",
+          "slug": "medroxyprogesterone_acetate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Progesterone",
+          "slug": "progesterone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "endometriosis of uterus",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Progesterone",
+          "slug": "progesterone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Medroxyprogesterone Acetate",
+          "slug": "medroxyprogesterone_acetate",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hemoglobinopathy",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Deferasirox",
+          "slug": "deferasirox",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Atenolol",
+          "slug": "atenolol",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "ornithosis",
+      "count": 2,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Fusidic Acid",
+          "slug": "fusidic_acid",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        },
+        {
+          "name": "Amphotericin B",
+          "slug": "amphotericin_b",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "typhus",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Chloramphenicol",
+          "slug": "chloramphenicol",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Fusidic Acid",
+          "slug": "fusidic_acid",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "bronchitis",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Acetylcysteine",
+          "slug": "acetylcysteine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Theophylline",
+          "slug": "theophylline",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "iron deficiency anemia",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Iron",
+          "slug": "iron",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Folic Acid",
+          "slug": "folic_acid",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "meningococcal infection",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Chloramphenicol",
+          "slug": "chloramphenicol",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Ceftazidime",
+          "slug": "ceftazidime",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "peritonitis",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Metronidazole",
+          "slug": "metronidazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Ceftazidime",
+          "slug": "ceftazidime",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "endometritis",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Metronidazole",
+          "slug": "metronidazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Ceftazidime",
+          "slug": "ceftazidime",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "myocardial infarction",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Atenolol",
+          "slug": "atenolol",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Atenolol",
+          "slug": "atenolol",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "peptic esophagitis",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Magnesium Trisilicate",
+          "slug": "magnesium_trisilicate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Magnesium Hydroxide",
+          "slug": "magnesium_hydroxide",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "peptic ulcer disease",
+      "count": 2,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Magnesium Trisilicate",
+          "slug": "magnesium_trisilicate",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        },
+        {
+          "name": "Magnesium Hydroxide",
+          "slug": "magnesium_hydroxide",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "premature ejaculation",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Lidocaine",
+          "slug": "lidocaine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Tadalafil",
+          "slug": "tadalafil",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "acute gonococcal endometritis",
+      "count": 2,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Ofloxacin",
+          "slug": "ofloxacin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        },
+        {
+          "name": "Erythromycin",
+          "slug": "erythromycin",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "diabetic ketoacidosis",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Insulin Glargine",
+          "slug": "insulin_glargine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Insulin Human",
+          "slug": "insulin_human",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "type 1 diabetes mellitus",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Insulin Glargine",
+          "slug": "insulin_glargine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Insulin Human",
+          "slug": "insulin_human",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "IDDM 1",
+      "count": 2,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Insulin Glargine",
+          "slug": "insulin_glargine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        },
+        {
+          "name": "Insulin Human",
+          "slug": "insulin_human",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pemphigus",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Benzoic Acid",
+          "slug": "benzoic_acid",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "dermatomyositis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Benzoic Acid",
+          "slug": "benzoic_acid",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "systemic sclerosis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Benzoic Acid",
+          "slug": "benzoic_acid",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "balanitis xerotica obliterans",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Benzoic Acid",
+          "slug": "benzoic_acid",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "penile fibromatosis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Benzoic Acid",
+          "slug": "benzoic_acid",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "tinea barbae",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Tolnaftate",
+          "slug": "tolnaftate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "tinea corporis",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Tolnaftate",
+          "slug": "tolnaftate",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "dermatophytosis of groin and perianal area",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Tolnaftate",
+          "slug": "tolnaftate",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "AIDS",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Lamivudine",
+          "slug": "lamivudine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "familial prostate carcinoma",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Docetaxel",
+          "slug": "docetaxel",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "lung cancer",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Docetaxel",
+          "slug": "docetaxel",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "head and neck cancer",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Docetaxel",
+          "slug": "docetaxel",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "non-small cell lung carcinoma",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Docetaxel",
+          "slug": "docetaxel",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "systemic mastocytosis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Cimetidine",
+          "slug": "cimetidine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "chromomycosis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Ketoconazole",
+          "slug": "ketoconazole",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "paracoccidioidomycosis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Ketoconazole",
+          "slug": "ketoconazole",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pityriasis simplex",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Ketoconazole",
+          "slug": "ketoconazole",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "seborrheic keratosis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Clobetasol Propionate",
+          "slug": "clobetasol_propionate",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "scalp dermatosis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Clobetasol Propionate",
+          "slug": "clobetasol_propionate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "dermatitis, atopic",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Clobetasol Propionate",
+          "slug": "clobetasol_propionate",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "seborrheic dermatitis",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Clobetasol Propionate",
+          "slug": "clobetasol_propionate",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pneumocystosis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Trimethoprim",
+          "slug": "trimethoprim",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "conjunctivitis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Trimethoprim",
+          "slug": "trimethoprim",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cardiac arrest",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Calcium Chloride",
+          "slug": "calcium_chloride",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "streptococcal infection",
+      "count": 1,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Cephalexin",
+          "slug": "cephalexin",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "staphylococcus aureus infection",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Cephalexin",
+          "slug": "cephalexin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "primary non-gestational choriocarcinoma of ovary",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Paclitaxel",
+          "slug": "paclitaxel",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "ovarian carcinosarcoma",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Paclitaxel",
+          "slug": "paclitaxel",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "vitamin B12 deficiency",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Cyanocobalamin",
+          "slug": "cyanocobalamin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "localized pagetoid reticulosis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Methotrexate",
+          "slug": "methotrexate",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "lymphoma",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Methotrexate",
+          "slug": "methotrexate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "lymphoma, non-Hodgkin, familial",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Rituximab",
+          "slug": "rituximab",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Rituximab",
+          "slug": "rituximab",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "myelodysplastic syndrome",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Lenalidomide",
+          "slug": "lenalidomide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "candidemia",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Fluconazole",
+          "slug": "fluconazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "myelomonocytic leukemia",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Azacitidine",
+          "slug": "azacitidine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "myeloid leukemia",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Decitabine",
+          "slug": "decitabine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "sitosterolemia",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Ezetimibe",
+          "slug": "ezetimibe",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hyperlipidemia, familial combined, LPL related",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ezetimibe",
+          "slug": "ezetimibe",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hypertriglyceridemia",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Fenofibrate",
+          "slug": "fenofibrate",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "arteriosclerosis disorder",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Simvastatin",
+          "slug": "simvastatin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "atherosclerosis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Simvastatin",
+          "slug": "simvastatin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "non-papillary transitional cell carcinoma of the bladder",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Thiotepa",
+          "slug": "thiotepa",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Hodgkins lymphoma",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Thiotepa",
+          "slug": "thiotepa",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "headache disorder",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Caffeine",
+          "slug": "caffeine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hemiparkinsonism-hemiatrophy syndrome",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Entacapone",
+          "slug": "entacapone",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "allergic urticaria",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Desloratadine",
+          "slug": "desloratadine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "staphylococcus aureus pneumonia",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Clavulanic Acid",
+          "slug": "clavulanic_acid",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "renal cell adenocarcinoma",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Everolimus",
+          "slug": "everolimus",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "clear cell renal carcinoma",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Everolimus",
+          "slug": "everolimus",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "tuberous sclerosis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Everolimus",
+          "slug": "everolimus",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "situs inversus",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Everolimus",
+          "slug": "everolimus",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "herpes zoster",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "herpes simplex encephalitis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "herpes labialis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "genital herpes",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "herpes simplex infectious disease",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "diffuse large B-cell lymphoma",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Dexamethasone",
+          "slug": "dexamethasone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "myofascial pain syndrome",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Pregabalin",
+          "slug": "pregabalin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "anxiety disorder",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Pregabalin",
+          "slug": "pregabalin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "postherpetic neuralgia",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Pregabalin",
+          "slug": "pregabalin",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "dyshidrosis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Adalimumab",
+          "slug": "adalimumab",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hidradenitis suppurativa",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Adalimumab",
+          "slug": "adalimumab",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "myositis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Naproxen",
+          "slug": "naproxen",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "migraine disorder",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Naproxen",
+          "slug": "naproxen",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "migraine with or without aura, susceptibility to",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Naproxen",
+          "slug": "naproxen",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "proctitis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Zinc Oxide",
+          "slug": "zinc_oxide",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "maxillary sinusitis",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Clarithromycin",
+          "slug": "clarithromycin",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cysticercosis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Albendazole",
+          "slug": "albendazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "epilepsy with generalized tonic-clonic seizures",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Carbamazepine",
+          "slug": "carbamazepine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "glossopharyngeal neuralgia",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Carbamazepine",
+          "slug": "carbamazepine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "glossopharyngeal motor neuropathy",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Carbamazepine",
+          "slug": "carbamazepine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cerebrovascular disorder",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Telmisartan",
+          "slug": "telmisartan",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "congenital hypogonadotropic hypogonadism",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Testosterone",
+          "slug": "testosterone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "eunuchism",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Testosterone",
+          "slug": "testosterone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pituitary deficiency",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Testosterone",
+          "slug": "testosterone",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "trisomy 13",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Testosterone",
+          "slug": "testosterone",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "hypogonadotropic hypogonadism-frontoparietal alopecia syndrome",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Testosterone",
+          "slug": "testosterone",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "iridocyclitis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Tobramycin",
+          "slug": "tobramycin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "bacterial meningitis",
+      "count": 1,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Tobramycin",
+          "slug": "tobramycin",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "discoid lupus erythematosus",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Fluticasone Propionate",
+          "slug": "fluticasone_propionate",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "major depressive disorder",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Olanzapine",
+          "slug": "olanzapine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "endogenous depression",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Olanzapine",
+          "slug": "olanzapine",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "unipolar depression",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Olanzapine",
+          "slug": "olanzapine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "beta-thalassemia and related diseases",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Deferasirox",
+          "slug": "deferasirox",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "beta-thalassemia HBB/LCRB",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Deferasirox",
+          "slug": "deferasirox",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "dominant beta-thalassemia",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Deferasirox",
+          "slug": "deferasirox",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "beta-thalassemia intermedia",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Deferasirox",
+          "slug": "deferasirox",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cholera",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Fusidic Acid",
+          "slug": "fusidic_acid",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "gastrointestinal anthrax",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Fusidic Acid",
+          "slug": "fusidic_acid",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "bronchiectasis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Acetylcysteine",
+          "slug": "acetylcysteine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "amyloidosis",
+      "count": 1,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Acetylcysteine",
+          "slug": "acetylcysteine",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "AL amyloidosis",
+      "count": 1,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Acetylcysteine",
+          "slug": "acetylcysteine",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "cystic fibrosis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Acetylcysteine",
+          "slug": "acetylcysteine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "patent ductus arteriosus",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Ibuprofen",
+          "slug": "ibuprofen",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "gastric neoplasm",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Capecitabine",
+          "slug": "capecitabine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "gastric linitis plastica",
+      "count": 1,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Capecitabine",
+          "slug": "capecitabine",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "gastric carcinoma",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Capecitabine",
+          "slug": "capecitabine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "gastric cancer",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Capecitabine",
+          "slug": "capecitabine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "metastasis from malignant tumor of colon",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Capecitabine",
+          "slug": "capecitabine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Rickettsiosis",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Chloramphenicol",
+          "slug": "chloramphenicol",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Q fever",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Chloramphenicol",
+          "slug": "chloramphenicol",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "ankylosing spondylitis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Celecoxib",
+          "slug": "celecoxib",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "malignant epithelial tumor of ovary",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Bevacizumab",
+          "slug": "bevacizumab",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "primary peritoneal carcinoma",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Bevacizumab",
+          "slug": "bevacizumab",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "rosacea",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Metronidazole",
+          "slug": "metronidazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "intracranial abscess",
+      "count": 1,
+      "level": "L3",
+      "drugs": [
+        {
+          "name": "Metronidazole",
+          "slug": "metronidazole",
+          "score": 0,
+          "level": "L3",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "bacterial vaginosis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Metronidazole",
+          "slug": "metronidazole",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Actinomycetales infectious disease",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Amphotericin B",
+          "slug": "amphotericin_b",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "malignant otitis externa caused by Pseudomonas aeruginosa",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Ciprofloxacin",
+          "slug": "ciprofloxacin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "staphylococcal pneumonia",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Ceftazidime",
+          "slug": "ceftazidime",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Lennox-Gastaut syndrome",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "partial epilepsy",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "visual epilepsy",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "coronary thrombosis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Atenolol",
+          "slug": "atenolol",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "mite infestation",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Lidocaine",
+          "slug": "lidocaine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "urethritis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Lidocaine",
+          "slug": "lidocaine",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "listeriosis",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Erythromycin",
+          "slug": "erythromycin",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "juvenile arthritis due to defect in LACC1",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Meloxicam",
+          "slug": "meloxicam",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "congestive heart failure",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Hydrochlorothiazide",
+          "slug": "hydrochlorothiazide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "erectile dysfunction",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Tadalafil",
+          "slug": "tadalafil",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "psychologic dyspareunia",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Tadalafil",
+          "slug": "tadalafil",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pulmonary hypertension",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Tadalafil",
+          "slug": "tadalafil",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "benign prostatic hyperplasia",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Tadalafil",
+          "slug": "tadalafil",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "endomyometritis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Norfloxacin",
+          "slug": "norfloxacin",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Crohn disease",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Budesonide",
+          "slug": "budesonide",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "keratinization disease",
+      "count": 1,
+      "level": "L2",
+      "drugs": [
+        {
+          "name": "Salicylic Acid",
+          "slug": "salicylic_acid",
+          "score": 0,
+          "level": "L2",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "plantar wart",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Salicylic Acid",
+          "slug": "salicylic_acid",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "acquired keratosis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Salicylic Acid",
+          "slug": "salicylic_acid",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "obsolete atrophic vulva",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Ethinylestradiol",
+          "slug": "ethinylestradiol",
+          "score": 0,
+          "level": "L5",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "postmenopausal osteoporosis",
+      "count": 1,
+      "level": "L4",
+      "drugs": [
+        {
+          "name": "Ethinylestradiol",
+          "slug": "ethinylestradiol",
+          "score": 0,
+          "level": "L4",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "osteoporosis",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Ethinylestradiol",
+          "slug": "ethinylestradiol",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "pulmonary emphysema",
+      "count": 1,
+      "level": "L1",
+      "drugs": [
+        {
+          "name": "Theophylline",
+          "slug": "theophylline",
+          "score": 0,
+          "level": "L1",
+          "original": ""
+        }
+      ]
+    }
+  ]
+}

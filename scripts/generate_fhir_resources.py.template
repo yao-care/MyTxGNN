@@ -1,0 +1,199 @@
+#!/usr/bin/env python3
+# TODO: 將此檔案改名為 generate_fhir_resources.py
+# TODO: 修改 base_url 和 jurisdiction 設定
+
+"""生成 FHIR R4 資源
+
+從預測結果生成 FHIR 格式的資源檔案。
+
+使用方法:
+    uv run python scripts/generate_fhir_resources.py
+
+前置條件:
+    已執行 run_kg_prediction.py
+
+產生檔案:
+    docs/fhir/metadata
+    docs/fhir/MedicationKnowledge/*.json
+    docs/fhir/ClinicalUseDefinition/*.json
+"""
+
+import json
+from pathlib import Path
+from datetime import datetime
+
+import pandas as pd
+
+
+# TODO: 修改為您的網站 URL
+BASE_URL = "https://{country}txgnn.example.com"
+
+# TODO: 修改為您的國家代碼和名稱
+JURISDICTION = {
+    "coding": [{
+        "system": "urn:iso:std:iso:3166",
+        "code": "{CC}",           # TODO: ISO 3166-1 alpha-2 代碼
+        "display": "{Country}"     # TODO: 國家名稱
+    }]
+}
+
+
+def generate_capability_statement() -> dict:
+    """生成 CapabilityStatement (metadata)"""
+    return {
+        "resourceType": "CapabilityStatement",
+        "id": "txgnn-fhir-server",
+        "url": f"{BASE_URL}/fhir/metadata",
+        "version": "1.0.0",
+        "name": "TxGNNFHIRServer",
+        "status": "active",
+        "date": datetime.now().strftime("%Y-%m-%d"),
+        "publisher": "TxGNN Project",  # TODO: 修改發布者名稱
+        "kind": "instance",
+        "fhirVersion": "4.0.1",
+        "format": ["json"],
+        "rest": [{
+            "mode": "server",
+            "resource": [
+                {
+                    "type": "MedicationKnowledge",
+                    "interaction": [{"code": "read"}, {"code": "search-type"}]
+                },
+                {
+                    "type": "ClinicalUseDefinition",
+                    "interaction": [{"code": "read"}, {"code": "search-type"}]
+                }
+            ]
+        }]
+    }
+
+
+def generate_medication_knowledge(drug_name: str, evidence_level: str) -> dict:
+    """生成 MedicationKnowledge 資源"""
+    slug = drug_name.lower().replace(" ", "-")
+    return {
+        "resourceType": "MedicationKnowledge",
+        "id": slug,
+        "status": "active",
+        "code": {
+            "coding": [{
+                "system": f"{BASE_URL}/drugs",
+                "code": slug,
+                "display": drug_name
+            }]
+        },
+        "intendedJurisdiction": [JURISDICTION],
+        "extension": [{
+            "url": f"{BASE_URL}/fhir/StructureDefinition/evidence-level",
+            "valueCode": evidence_level
+        }]
+    }
+
+
+def generate_clinical_use_definition(
+    drug_name: str,
+    indication: str,
+    score: float,
+    evidence_level: str
+) -> dict:
+    """生成 ClinicalUseDefinition 資源"""
+    drug_slug = drug_name.lower().replace(" ", "-")
+    indication_slug = indication.lower().replace(" ", "-")
+    resource_id = f"{drug_slug}-{indication_slug}"
+
+    return {
+        "resourceType": "ClinicalUseDefinition",
+        "id": resource_id,
+        "type": "indication",
+        "subject": [{"reference": f"MedicationKnowledge/{drug_slug}"}],
+        "indication": {
+            "diseaseSymptomProcedure": {
+                "concept": {"text": indication}
+            }
+        },
+        "extension": [
+            {
+                "url": f"{BASE_URL}/fhir/StructureDefinition/evidence-level",
+                "valueCode": evidence_level
+            },
+            {
+                "url": f"{BASE_URL}/fhir/StructureDefinition/txgnn-score",
+                "valueDecimal": score
+            }
+        ]
+    }
+
+
+def main():
+    print("=" * 60)
+    print("生成 FHIR R4 資源")
+    print("=" * 60)
+    print()
+
+    base_dir = Path(__file__).parent.parent
+    fhir_dir = base_dir / "docs" / "fhir"
+
+    # 建立目錄
+    (fhir_dir / "MedicationKnowledge").mkdir(parents=True, exist_ok=True)
+    (fhir_dir / "ClinicalUseDefinition").mkdir(parents=True, exist_ok=True)
+    (fhir_dir / "Bundle").mkdir(parents=True, exist_ok=True)
+
+    # 1. 生成 CapabilityStatement
+    print("1. 生成 CapabilityStatement...")
+    metadata = generate_capability_statement()
+    with open(fhir_dir / "metadata", "w", encoding="utf-8") as f:
+        json.dump(metadata, f, indent=2, ensure_ascii=False)
+
+    # 2. 載入預測結果
+    print("2. 載入預測結果...")
+    candidates_path = base_dir / "data" / "processed" / "repurposing_candidates.csv"
+
+    if not candidates_path.exists():
+        print(f"   找不到預測結果: {candidates_path}")
+        print("   請先執行 run_kg_prediction.py")
+        return
+
+    candidates = pd.read_csv(candidates_path)
+    print(f"   載入 {len(candidates)} 筆預測")
+
+    # 3. 生成 MedicationKnowledge
+    print("3. 生成 MedicationKnowledge 資源...")
+    # TODO: 根據您的資料結構調整欄位名稱
+    drugs = candidates["drugbank_id"].dropna().unique()
+    for drug in drugs:
+        drug_name = drug  # TODO: 可能需要從其他欄位取得藥物名稱
+        evidence_level = "L5"  # TODO: 根據您的邏輯設定證據等級
+        resource = generate_medication_knowledge(drug_name, evidence_level)
+        slug = drug_name.lower().replace(" ", "-")
+        with open(fhir_dir / "MedicationKnowledge" / f"{slug}.json", "w", encoding="utf-8") as f:
+            json.dump(resource, f, indent=2, ensure_ascii=False)
+
+    print(f"   生成 {len(drugs)} 個 MedicationKnowledge 資源")
+
+    # 4. 生成 ClinicalUseDefinition
+    print("4. 生成 ClinicalUseDefinition 資源...")
+    count = 0
+    for _, row in candidates.iterrows():
+        drug_name = row.get("drugbank_id", "")
+        indication = row.get("potential_indication", row.get("disease_name", ""))
+        score = row.get("score", 0.5)
+        evidence_level = "L5"
+
+        if drug_name and indication:
+            resource = generate_clinical_use_definition(drug_name, indication, score, evidence_level)
+            drug_slug = drug_name.lower().replace(" ", "-")
+            indication_slug = indication.lower().replace(" ", "-")[:50]
+            filename = f"{drug_slug}-{indication_slug}.json"
+            with open(fhir_dir / "ClinicalUseDefinition" / filename, "w", encoding="utf-8") as f:
+                json.dump(resource, f, indent=2, ensure_ascii=False)
+            count += 1
+
+    print(f"   生成 {count} 個 ClinicalUseDefinition 資源")
+
+    print()
+    print("完成！")
+    print(f"FHIR 資源已儲存至: {fhir_dir}")
+
+
+if __name__ == "__main__":
+    main()

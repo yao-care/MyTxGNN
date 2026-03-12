@@ -1,0 +1,45 @@
+{
+  "resourceType": "CapabilityStatement",
+  "id": "mytxgnn-fhir-server",
+  "url": "https://mytxgnn.yao.care/fhir/metadata",
+  "version": "1.0.0",
+  "name": "MyTxGNNFHIRServer",
+  "status": "active",
+  "date": "2026-03-03",
+  "publisher": "MyTxGNN Project",
+  "description": "Malaysia drug repurposing predictions using TxGNN",
+  "kind": "instance",
+  "fhirVersion": "4.0.1",
+  "format": [
+    "json"
+  ],
+  "rest": [
+    {
+      "mode": "server",
+      "resource": [
+        {
+          "type": "MedicationKnowledge",
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ]
+        },
+        {
+          "type": "ClinicalUseDefinition",
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
