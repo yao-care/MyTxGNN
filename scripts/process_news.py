@@ -184,8 +184,15 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
             drug_name = drug["name"]
             drug_slug = drug["slug"]
 
+            # 處理 keywords 可能是 list 或 dict 的情況
+            drug_keywords = drug.get("keywords", [])
+            if isinstance(drug_keywords, dict):
+                en_keywords = drug_keywords.get("en", [])
+            else:
+                en_keywords = drug_keywords if isinstance(drug_keywords, list) else []
+
             # 英文關鍵字
-            for kw in drug["keywords"].get("en", []):
+            for kw in en_keywords:
                 if kw.lower() in text_to_search:
                     matches.append({
                         "type": "drug",
@@ -197,7 +204,8 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
                     break  # 同一藥物只記錄一次
 
             # 中文關鍵字
-            for kw in drug["keywords"].get("zh", []):
+            zh_keywords = drug_keywords.get("zh", []) if isinstance(drug_keywords, dict) else []
+            for kw in zh_keywords:
                 if kw in item["title"] or kw in item.get("summary", ""):
                     # 確保沒有重複
                     if not any(m["slug"] == drug_slug for m in matches):
@@ -220,8 +228,17 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
                 for slug in ind.get("related_drugs", [])
             ]
 
+            # 處理 indication keywords 可能是 list 或 dict 的情況
+            ind_keywords = ind.get("keywords", [])
+            if isinstance(ind_keywords, dict):
+                ind_en_keywords = ind_keywords.get("en", [])
+                ind_zh_keywords = ind_keywords.get("zh", [])
+            else:
+                ind_en_keywords = ind_keywords if isinstance(ind_keywords, list) else []
+                ind_zh_keywords = []
+
             # 英文關鍵字
-            for kw in ind["keywords"].get("en", []):
+            for kw in ind_en_keywords:
                 if kw.lower() in text_to_search:
                     matches.append({
                         "type": "indication",
@@ -232,7 +249,7 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
                     break
 
             # 中文關鍵字
-            for kw in ind["keywords"].get("zh", []):
+            for kw in ind_zh_keywords:
                 if kw in item["title"] or kw in item.get("summary", ""):
                     # 確保同一關鍵字沒有重複（避免 "感冒" 同時出現在 "common cold" 和 "感冒" 兩個條目）
                     if not any(m.get("keyword") == kw and m["type"] == "indication" for m in matches):
@@ -645,7 +662,9 @@ def main():
     # 4. 載入關鍵字並匹配
     print("\n關鍵字匹配:")
     keywords = load_json(DATA_DIR / "keywords.json")
-    print(f"  關鍵字: {keywords['drug_count']} 藥物 + {keywords['indication_count']} 適應症")
+    drug_count = keywords.get('drug_count', len(keywords.get('drugs', [])))
+    indication_count = keywords.get('indication_count', len(keywords.get('indications', [])))
+    print(f"  關鍵字: {drug_count} 藥物 + {indication_count} 適應症")
     all_news = match_keywords(all_news, keywords)
 
     # 5. 輸出 matched_news.json
