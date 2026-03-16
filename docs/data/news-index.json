@@ -1,36 +1,5 @@
 {
-  "news": [
-    {
-      "title": "Living With Prostate Cancer: The Hidden Burden On Family Caregivers",
-      "published": "2026-03-12T05:47:24",
-      "sources": [
-        {
-          "name": "CodeBlue (Health News)",
-          "link": "https://codeblue.galencentre.org/2026/03/living-with-prostate-cancer-the-hidden-burden-on-family-caregivers/"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "name": "Enzalutamide",
-          "slug": "enzalutamide",
-          "via_indication": "Cancer"
-        },
-        {
-          "type": "indication",
-          "name": "Cancer",
-          "keyword": "cancer",
-          "slug": "cancer"
-        }
-      ]
-    }
-  ],
-  "last_updated": "2026-03-12T08:30:08.328653Z",
-  "sources": [
-    "CodeBlue",
-    "The Star",
-    "Malay Mail",
-    "NST",
-    "FMT"
-  ]
+  "generated": "2026-03-16T14:58:07.891001+00:00",
+  "count": 0,
+  "news": []
 }

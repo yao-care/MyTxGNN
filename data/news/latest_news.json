@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-12T08:30:08.241996",
+  "fetched": "2026-03-16T14:58:07.753536",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,159 +7,126 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
     {
-      "title": "Medical Officers Are Slaves Too — MO In Internal Medicine Department",
-      "url": "https://codeblue.galencentre.org/2026/03/medical-officers-are-slaves-too-mo-in-internal-medicine-department/",
+      "title": "UN Experts Call For Malaysia To Strengthen The Social Work Profession — Social Workers Alliance Malaysia",
+      "url": "https://codeblue.galencentre.org/2026/03/un-experts-call-for-malaysia-to-strengthen-the-social-work-profession-social-workers-alliance-malaysia/",
       "source": "CodeBlue (Health News)",
-      "published": "2026-03-12T07:34:43",
-      "summary": "Besides housemen, medical officers are slaves too. MOs clerk patients, formulate the management plan, stabilise patients, and initiate investigations. The same MO continues to run the ward service. One MO may be responsible for 30 to 40 patients at a time. The post Medical Officers Are Slaves Too — MO In Internal Medicine Department appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "medicine",
-        "patient"
-      ]
-    },
-    {
-      "title": "Time To Change Our Antiquated Public Health Care System — Dr DoGood",
-      "url": "https://codeblue.galencentre.org/2026/03/time-to-change-our-antiquated-public-health-care-system-dr-dogood/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-12T07:30:00",
-      "summary": "In many health care systems, blood-taking has been routinely performed by phlebotomists since the 90s, but this work frequently falls to junior doctors in Malaysia's public hospitals. Clarion calls for health care reform have fallen onto deaf ears. The post Time To Change Our Antiquated Public Health Care System — Dr DoGood appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Singapore Agents Poaching Malaysian Medical Students Before Graduation",
-      "url": "https://codeblue.galencentre.org/2026/03/singapore-agents-poaching-malaysian-medical-students-before-graduation/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-12T06:35:16",
-      "summary": "Health Minister Dzulkefly Ahmad says Singapore recruiters are approaching Malaysian medical students, even before they sit for their final exams, with lucrative pay and permanent jobs. He pledges to end Malaysia’s contract doctor system. The post Singapore Agents Poaching Malaysian Medical Students Before Graduation appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Dzulkefly: ‘360-Degree’ Information Needed Before Confirming Bullying In Kuala Krai Doctor’s Death",
-      "url": "https://codeblue.galencentre.org/2026/03/dzulkefly-360-degree-information-needed-before-confirming-bullying-in-kuala-krai-doctors-death/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-12T06:13:07",
-      "summary": "Dr Dzul says \"360-degree\" information is needed before deciding if bullying had led to the death of a Kuala Krai houseman. The health minister also tells HODs and hospital directors not to use house officers as an \"extra pair of hands\" for daily chores. The post Dzulkefly: ‘360-Degree’ Information Needed Before Confirming Bullying In Kuala Krai Doctor’s Death appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Government Studying Pig Farming Industry Reform To Secure Pork Supply: Minister",
-      "url": "https://codeblue.galencentre.org/2026/03/government-studying-pig-farming-industry-reform-to-secure-pork-supply-minister/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-12T06:00:00",
-      "summary": "KPKM Minister Mat Sabu says the government is studying Malaysia’s pig farming industry to strengthen policy and sustain pork supply. The review comes as pork self-sufficiency has fallen below 70 per cent and amid debate over pig farming bans in Selangor. The post Government Studying Pig Farming Industry Reform To Secure Pork Supply: Minister appeared first on CodeBlue .",
+      "published": "2026-03-16T07:22:37",
+      "summary": "SWAM calls on the government to honour the UNCRC by ensuring the upcoming Social Work Profession Bill includes the public sector. The post UN Experts Call For Malaysia To Strengthen The Social Work Profession — Social Workers Alliance Malaysia appeared first on CodeBlue .",
       "keywords_matched": []
     },
     {
-      "title": "Living With Prostate Cancer: The Hidden Burden On Family Caregivers",
-      "url": "https://codeblue.galencentre.org/2026/03/living-with-prostate-cancer-the-hidden-burden-on-family-caregivers/",
+      "title": "Houseman Mental Health: Why We Must Look Beyond The Ward — Dr Lim Poh Khuen",
+      "url": "https://codeblue.galencentre.org/2026/03/houseman-mental-health-why-we-must-look-beyond-the-ward-dr-lim-poh-khuen/",
       "source": "CodeBlue (Health News)",
-      "published": "2026-03-12T05:47:24",
-      "summary": "Living with prostate cancer is a journey that affects the entire family. With the right information, support, and medical guidance, caregivers can play a powerful role in helping their loved ones navigate treatment and daily life with dignity and confidence. The post Living With Prostate Cancer: The Hidden Burden On Family Caregivers appeared first on CodeBlue .",
+      "published": "2026-03-16T05:40:00",
+      "summary": "Hospitals must ensure accessible mental health services, mentorship, and safe channels for house officers to seek help without fear of judgement. The post Houseman Mental Health: Why We Must Look Beyond The Ward — Dr Lim Poh Khuen appeared first on CodeBlue .",
       "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Iran War May Raise Food Prices In Malaysia, Warns MCA",
+      "url": "https://codeblue.galencentre.org/2026/03/iran-war-may-raise-food-prices-in-malaysia-warns-mca/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-16T05:29:53",
+      "summary": "MCA has warned that the Iran conflict may lead to rising food prices in Malaysia that's dependent on food imports. Shifting the responsibility for resolving food supply issues onto ordinary citizens won't ease the current pressure of rising food prices. The post Iran War May Raise Food Prices In Malaysia, Warns MCA appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Malaysia Doesn’t Need Your EPF Savings To Fix Hospital Bills — Dr Pearl Leong",
+      "url": "https://codeblue.galencentre.org/2026/03/malaysia-doesnt-need-your-epf-savings-to-fix-hospital-bills-dr-pearl-leong/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-16T04:00:00",
+      "summary": "Allowing Malaysians to use EPF to buy medical insurance means that we're using our retirement savings to keep funding large hospital bills in private hospitals. GLCs and GLICs that own major hospital groups should control hospital charges instead. The post Malaysia Doesn’t Need Your EPF Savings To Fix Hospital Bills — Dr Pearl Leong appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Intervention Today, Stability Tomorrow — Jasmin Jalil",
+      "url": "https://codeblue.galencentre.org/2026/03/intervention-today-stability-tomorrow-jasmin-jalil/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-16T03:55:53",
+      "summary": "Malaysia’s progress against HIV reflects strong national leadership by the Ministry  of Health, supported by civil society and responsible corporate partners working  together to ensure that no one is left behind. The post Intervention Today, Stability Tomorrow — Jasmin Jalil appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Prudential Paid Out RM1m In Medical Claims To A Policyholder In 2025",
+      "url": "https://codeblue.galencentre.org/2026/03/prudential-paid-out-rm1m-in-medical-claims-to-a-policyholder-in-2025/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-16T02:00:00",
+      "summary": "Prudential paid out RM1.04 million in claims in one policy year to a policyholder undergoing breast cancer treatment in 2025, saying medical plans with RM50k-RM100k annual limits were common in 2013 but are no longer adequate for today’s health care needs. The post Prudential Paid Out RM1m In Medical Claims To A Policyholder In 2025 appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
         "medical",
         "treatment",
         "cancer"
       ]
     },
     {
-      "title": "Hold HOD, Hospital Director Accountable When Doctors Die — Excommunicado",
-      "url": "https://codeblue.galencentre.org/2026/03/hold-hod-hospital-director-accountable-when-doctors-die-excommunicado/",
+      "title": "A ‘Just Culture’ Must Be The Foundation Of Our Health Care System — Dr Musa Mohd Nordin & Prof Azizi Haji Omar",
+      "url": "https://codeblue.galencentre.org/2026/03/a-just-culture-must-be-the-foundation-of-our-health-care-system-dr-musa-mohd-nordin-prof-azizi-haji-omar/",
       "source": "CodeBlue (Health News)",
-      "published": "2026-03-12T03:40:00",
-      "summary": "If a doctor dies in a department where there is bullying, repeated shouting, public humiliation, fear, silence, unbearable workload, or ignored complaints, then the head of department (HOD) and the hospital director must be held responsible. The post Hold HOD, Hospital Director Accountable When Doctors Die — Excommunicado appeared first on CodeBlue .",
+      "published": "2026-03-13T08:57:19",
+      "summary": "The MOH needs a cultural reset, not just a strategic one. This means moving beyond task forces and press releases to embrace a \"Just Culture\" in every hospital, clinic, and department. A Just Culture isn't about being soft, but being fair and systematic. The post A ‘Just Culture’ Must Be The Foundation Of Our Health Care System — Dr Musa Mohd Nordin & Prof Azizi Haji Omar appeared first on CodeBlue .",
       "keywords_matched": [
+        "health",
         "hospital",
-        "doctor",
         "hospital"
       ]
     },
     {
-      "title": "When Fellowship Guidelines Are Ignored, Who Is Accountable? — Physician",
-      "url": "https://codeblue.galencentre.org/2026/03/when-fellowship-guidelines-are-ignored-who-is-accountable-physician/",
+      "title": "Back To Basics: Reclaiming The Soul Of Medicine — Medical Officer",
+      "url": "https://codeblue.galencentre.org/2026/03/back-to-basics-reclaiming-the-soul-of-medicine-medical-officer/",
       "source": "CodeBlue (Health News)",
-      "published": "2026-03-12T02:00:56",
-      "summary": "MOH must clarify if a 2-year waiting period to apply for fellowship or subspecialty training remains official policy. Recently, physicians who didn't complete the 2-year waiting period requirement were accepted into internal medicine subspecialty training. The post When Fellowship Guidelines Are Ignored, Who Is Accountable? — Physician appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medicine"
-      ]
-    },
-    {
-      "title": "From Silent Disease To Systemic Risk: Why Kidney Health Matters More Than We Think",
-      "url": "https://codeblue.galencentre.org/2026/03/from-silent-disease-to-systemic-risk-why-kidney-health-matters-more-than-we-think/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-11T07:31:06",
-      "summary": "Chronic kidney disease is becoming one of Malaysia’s most pressing public health challenges, yet it often develops quietly and goes unnoticed until it reaches an advanced stage. The post From Silent Disease To Systemic Risk: Why Kidney Health Matters More Than We Think appeared first on CodeBlue .",
+      "published": "2026-03-13T07:30:00",
+      "summary": "Family medicine, community health, and preventive medicine are seen by some as less prestigious, complex, or important. But who catches disease early? Who manages chronic illness over decades? Primary care isn't lesser medicine; it's foundational medicine. The post Back To Basics: Reclaiming The Soul Of Medicine — Medical Officer appeared first on CodeBlue .",
       "keywords_matched": [
         "health",
+        "medical",
+        "medicine",
         "disease"
       ]
     },
     {
-      "title": "Nurse Migration: Can Malaysia Afford To Lose Its Caregivers? — Nadira Amalina Azizan & Wong Lee Sia",
-      "url": "https://codeblue.galencentre.org/2026/03/nurse-migration-can-malaysia-afford-to-lose-its-caregivers-nadira-amalina-azizan-wong-lee-sia/",
+      "title": "Seberang Jaya Hospital Leads The Way In The School In Hospital Initiative",
+      "url": "https://codeblue.galencentre.org/2026/03/seberang-jaya-hospital-leads-the-way-in-the-school-in-hospital-initiative/",
       "source": "CodeBlue (Health News)",
-      "published": "2026-03-11T07:30:00",
-      "summary": "Policymakers, health care leaders, and society at large must recognise that retaining nurses is not a cost, but an investment in public health security. The post Nurse Migration: Can Malaysia Afford To Lose Its Caregivers? — Nadira Amalina Azizan & Wong Lee Sia appeared first on CodeBlue .",
+      "published": "2026-03-13T07:10:57",
+      "summary": "No child should have to choose between treatment and learning. The School in Hospital initiative helps ensure that they do not have to. The post Seberang Jaya Hospital Leads The Way In The School In Hospital Initiative appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "42-Hour Work Week For Nurses To Remain For Now: Dzulkefly",
+      "url": "https://codeblue.galencentre.org/2026/03/42-hour-work-week-for-nurses-to-remain-for-now-dzulkefly/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-13T05:30:00",
+      "summary": "Health Minister Dzulkefly Ahmad says nurses will continue working a 42-hour week for now, with a reduction to 38 hours only when staffing improves. MOH is offering incentives, career progression, and digitalisation to improve working conditions and retain nurses. The post 42-Hour Work Week For Nurses To Remain For Now: Dzulkefly appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Sabah DIDR faces multiple graft charges in special corruption court",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/12/sabah-didr-faces-multiple-graft-charges-in-special-corruption-court",
+      "title": "Umno&#039;s doors open to all wanting to return, including Hamzah, says Zambry",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/16/umno039s-doors-open-to-all-wanting-to-return-including-hamzah-says-zambry",
       "source": "The Star Health",
-      "published": "2026-03-12T08:12:00",
-      "summary": "KOTA KINABALU: Sabah Industrial Development and Research Department (DIDR) director Tseu Kei Yue, has been charged with 20 counts of abetment of his staff in corruption-related offences at the Kota Kinabalu Special Corruption Court. Read full story",
+      "published": "2026-03-16T12:10:00",
+      "summary": "PUTRAJAYA: Umno's doors remain open to anyone wishing to return to the party, including Opposition leader Datuk Seri Hamzah Zainudin, following former health minister Khairy Jamaluddin's move to seek re-entry, says Supreme Council member Datuk Seri Dr Zambry Abdul Kadir. Read full story",
       "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Sarawak&#039;s medical tourism sector records positive growth, says minister",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/12/sarawak039s-medical-tourism-sector-records-positive-growth-says-minister",
-      "source": "The Star Health",
-      "published": "2026-03-12T08:07:00",
-      "summary": "KUCHING: Sarawak's medical tourism sector is poised to expand after recording positive growth in the last two years. Read full story",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "GOF corporal detained over Bukit Kayu Hitam commander’s vehicle shooting, linked to syndicate and drugs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/12/gof-corporal-detained-over-bukit-kayu-hitam-commanders-vehicle-shooting-linked-to-syndicate-and-drugs/212365",
-      "source": "Malay Mail",
-      "published": "2026-03-12T07:14:36",
-      "summary": "SUNGAI PETANI, March 12 —A corporal with the General Operations Force (GOF) has been detained to assist in the inv...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "KLIA expands vehicle access management system to Terminal 2 in traffic flow trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/12/klia-expands-vehicle-access-management-system-to-terminal-2-in-traffic-flow-trial/212327",
-      "source": "Malay Mail",
-      "published": "2026-03-12T04:17:09",
-      "summary": "KUALA LUMPUR, March 12 — The Vehicle Access Management System (VAMS) is being trialled at KL International Airport...",
-      "keywords_matched": [
-        "trial"
+        "health"
       ]
     }
   ]
