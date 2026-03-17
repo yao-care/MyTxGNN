@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-17T08:53:01.799095",
+  "fetched": "2026-03-17T09:54:45.572708",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Who Protects The Consumer In Private Hospitals? — Ravinder Singh",
@@ -106,16 +106,6 @@
       "summary": "Malaysia’s progress against HIV reflects strong national leadership by the Ministry  of Health, supported by civil society and responsible corporate partners working  together to ensure that no one is left behind. The post Intervention Today, Stability Tomorrow — Jasmin Jalil appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Zamri’s lawyer decries police treatment of preacher, alleges ‘double standards’",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/17/zamris-lawyer-decries-police-treatment-of-preacher-alleges-double-standards/212914",
-      "source": "Malay Mail",
-      "published": "2026-03-17T04:14:37",
-      "summary": "KUALA LUMPUR, March 17 — Lawyers for independent preacher Zamri Vinoth today alleged “double standards&rdquo...",
-      "keywords_matched": [
-        "treatment"
       ]
     }
   ]
