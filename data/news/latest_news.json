@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-17T02:00:56.081648",
+  "fetched": "2026-03-17T04:50:31.339803",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Dzulkefly: 5,000 Housemanship Slots Offered, Only 529 Medical Graduates Accepted",
+      "url": "https://codeblue.galencentre.org/2026/03/dzulkefly-5000-housemanship-slots-offered-only-529-medical-graduates-accepted/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-17T03:30:00",
+      "summary": "Dr Dzul says medical graduate intake for housemanship halved since 2019. Only 529 graduates reported for 5,000 training slots offered in January 2026. Amid medicolegal payouts, MMC is concerned over training quality if housemanship is shortened to a year. The post Dzulkefly: 5,000 Housemanship Slots Offered, Only 529 Medical Graduates Accepted appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
+    {
+      "title": "Adeeba Appointed To UN Panel To Review Global Drug Policy",
+      "url": "https://codeblue.galencentre.org/2026/03/adeeba-appointed-to-un-panel-to-review-global-drug-policy/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-17T02:30:00",
+      "summary": "Prof Adeeba Kamarulzaman has been appointed to an independent expert panel established by the Commission on Narcotic Drugs for a 2029 global review of drug policy, the first major evaluation of the international drug control machinery in decades. The post Adeeba Appointed To UN Panel To Review Global Drug Policy appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
     {
       "title": "Malaysians May Face More Expensive Chicken And Eggs, Reduced Supply, Producers Warn",
       "url": "https://codeblue.galencentre.org/2026/03/malaysians-may-face-more-expensive-chicken-and-eggs-reduced-supply-producers-warn/",
@@ -93,28 +113,46 @@
       ]
     },
     {
-      "title": "Back To Basics: Reclaiming The Soul Of Medicine — Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/03/back-to-basics-reclaiming-the-soul-of-medicine-medical-officer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-13T07:30:00",
-      "summary": "Family medicine, community health, and preventive medicine are seen by some as less prestigious, complex, or important. But who catches disease early? Who manages chronic illness over decades? Primary care isn't lesser medicine; it's foundational medicine. The post Back To Basics: Reclaiming The Soul Of Medicine — Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "medicine",
-        "disease"
-      ]
-    },
-    {
-      "title": "Seberang Jaya Hospital Leads The Way In The School In Hospital Initiative",
-      "url": "https://codeblue.galencentre.org/2026/03/seberang-jaya-hospital-leads-the-way-in-the-school-in-hospital-initiative/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-13T07:10:57",
-      "summary": "No child should have to choose between treatment and learning. The School in Hospital initiative helps ensure that they do not have to. The post Seberang Jaya Hospital Leads The Way In The School In Hospital Initiative appeared first on CodeBlue .",
+      "title": "Woman fined RM3,000 after pleading guilty to stealing jewellery from hospital patient",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/17/woman-fined-rm3000-after-pleading-guilty-to-stealing-jewellery-from-hospital-patient",
+      "source": "The Star Health",
+      "published": "2026-03-17T04:24:00",
+      "summary": "SEREMBAN: A 38-year-old mother of three was fined RM3,000 by the Magistrate's Court here after pleading guilty to stealing various gold jewellery items from a patient seeking treatment a government hospital. Read full story",
       "keywords_matched": [
         "treatment",
         "hospital",
+        "patient",
         "hospital"
+      ]
+    },
+    {
+      "title": "Foreign woman found stabbed to death at Tangkak factory",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/17/foreign-woman-found-stabbed-to-death-at-tangkak-factory",
+      "source": "The Star Health",
+      "published": "2026-03-17T03:15:00",
+      "summary": "TANGKAK: A foreign woman was found dead after being stabbed in the neck at a factory in the Tangkak Industrial Area here. Read full story",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Zamri’s lawyer decries police treatment of preacher, alleges ‘double standards’",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/17/zamris-lawyer-decries-police-treatment-of-preacher-alleges-double-standards/212914",
+      "source": "Malay Mail",
+      "published": "2026-03-17T04:14:37",
+      "summary": "KUALA LUMPUR, March 17 — Lawyers for independent preacher Zamri Vinoth today alleged “double standards&rdquo...",
+      "keywords_matched": [
+        "treatment"
+      ]
+    },
+    {
+      "title": "Preacher Zamri Vinoth claims trial over inflammatory FB post, denies fleeing to Thailand",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/17/preacher-zamri-vinoth-claims-trial-over-inflammatory-fb-post-denies-fleeing-to-thailand/212905",
+      "source": "Malay Mail",
+      "published": "2026-03-17T02:31:23",
+      "summary": "KUALA LUMPUR, March 17 — Social media personality and preacher Zamri Vinoth pleaded not guilty in the Magistrates&...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
