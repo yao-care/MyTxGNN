@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-16T23:31:04.919804",
+  "fetched": "2026-03-17T02:00:56.081648",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Malaysians May Face More Expensive Chicken And Eggs, Reduced Supply, Producers Warn",
+      "url": "https://codeblue.galencentre.org/2026/03/malaysians-may-face-more-expensive-chicken-and-eggs-reduced-supply-producers-warn/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-17T02:00:00",
+      "summary": "Producers warn that the Iran war may raise chicken and egg prices in Malaysia because the country relies heavily on imported feed ingredients, especially corn and soybean meal. Sustained high feed/fuel costs may affect supply if producers cut production. The post Malaysians May Face More Expensive Chicken And Eggs, Reduced Supply, Producers Warn appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "UN Experts Call For Malaysia To Strengthen The Social Work Profession — Social Workers Alliance Malaysia",
       "url": "https://codeblue.galencentre.org/2026/03/un-experts-call-for-malaysia-to-strengthen-the-social-work-profession-social-workers-alliance-malaysia/",
@@ -107,26 +115,6 @@
         "treatment",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "42-Hour Work Week For Nurses To Remain For Now: Dzulkefly",
-      "url": "https://codeblue.galencentre.org/2026/03/42-hour-work-week-for-nurses-to-remain-for-now-dzulkefly/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-13T05:30:00",
-      "summary": "Health Minister Dzulkefly Ahmad says nurses will continue working a 42-hour week for now, with a reduction to 38 hours only when staffing improves. MOH is offering incentives, career progression, and digitalisation to improve working conditions and retain nurses. The post 42-Hour Work Week For Nurses To Remain For Now: Dzulkefly appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Pop-up cafe helps dementia patients remain connected",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/17/pop-up-cafe-helps-dementia-patients-remain-connected",
-      "source": "The Star Health",
-      "published": "2026-03-16T16:00:00",
-      "summary": "BUTTERWORTH: Around 10 to 12 elderly folk living with dementia get a \"sense of mission\" every time they get to operate their pop-up cafe. Read full story",
-      "keywords_matched": [
-        "patient"
       ]
     }
   ]
