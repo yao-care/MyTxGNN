@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-17T22:31:30.070986",
+  "fetched": "2026-03-17T23:31:23.060309",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Who Protects The Consumer In Private Hospitals? — Ravinder Singh",
@@ -106,6 +106,17 @@
       "summary": "Malaysia’s progress against HIV reflects strong national leadership by the Ministry  of Health, supported by civil society and responsible corporate partners working  together to ensure that no one is left behind. The post Intervention Today, Stability Tomorrow — Jasmin Jalil appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Revisiting the 1988 Butterworth jetty tragedy",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/18/revisiting-the-1988-butterworth-jetty-tragedy",
+      "source": "The Star Health",
+      "published": "2026-03-17T23:00:00",
+      "summary": "PETALING JAYA: The year was 1988, and The Star reporter Paul Gabriel found himself at the district hospital in Butterworth, Penang. It was past 10pm on a Sunday and he had set himself a crucial task. Read full story",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
