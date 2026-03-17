@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-17T04:50:31.339803",
+  "fetched": "2026-03-17T05:58:18.943012",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Prioritise Clinical Staff, Reform Parking Lot Management At HRPZ II — Specialist",
+      "url": "https://codeblue.galencentre.org/2026/03/prioritise-clinical-staff-reform-parking-lot-management-at-hrpz-ii-specialist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-17T05:30:00",
+      "summary": "Parking lot management at HRPZ II's ambulatory care centre seems to disproportionately favour non-clinical personnel. Priority must be given to clinical staff, especially junior specialists with a heavy on-call burden. Parking problems affect staff morale. The post Prioritise Clinical Staff, Reform Parking Lot Management At HRPZ II — Specialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "clinical"
+      ]
+    },
     {
       "title": "Dzulkefly: 5,000 Housemanship Slots Offered, Only 529 Medical Graduates Accepted",
       "url": "https://codeblue.galencentre.org/2026/03/dzulkefly-5000-housemanship-slots-offered-only-529-medical-graduates-accepted/",
@@ -101,38 +111,13 @@
       ]
     },
     {
-      "title": "A ‘Just Culture’ Must Be The Foundation Of Our Health Care System — Dr Musa Mohd Nordin & Prof Azizi Haji Omar",
-      "url": "https://codeblue.galencentre.org/2026/03/a-just-culture-must-be-the-foundation-of-our-health-care-system-dr-musa-mohd-nordin-prof-azizi-haji-omar/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-13T08:57:19",
-      "summary": "The MOH needs a cultural reset, not just a strategic one. This means moving beyond task forces and press releases to embrace a \"Just Culture\" in every hospital, clinic, and department. A Just Culture isn't about being soft, but being fair and systematic. The post A ‘Just Culture’ Must Be The Foundation Of Our Health Care System — Dr Musa Mohd Nordin & Prof Azizi Haji Omar appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Woman fined RM3,000 after pleading guilty to stealing jewellery from hospital patient",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/17/woman-fined-rm3000-after-pleading-guilty-to-stealing-jewellery-from-hospital-patient",
+      "title": "JB cops seize RM1mil worth of syabu, local man arrested",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/17/jb-cops-seize-rm1mil-worth-of-syabu-local-man-arrested",
       "source": "The Star Health",
-      "published": "2026-03-17T04:24:00",
-      "summary": "SEREMBAN: A 38-year-old mother of three was fined RM3,000 by the Magistrate's Court here after pleading guilty to stealing various gold jewellery items from a patient seeking treatment a government hospital. Read full story",
+      "published": "2026-03-17T05:22:00",
+      "summary": "JOHOR BARU: Police have arrested a local man believed to be involved in a drug trafficking syndicate following the seizure of syabu worth more than RM1mil at Taman Mount Austin here. Read full story",
       "keywords_matched": [
-        "treatment",
-        "hospital",
-        "patient",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Foreign woman found stabbed to death at Tangkak factory",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/17/foreign-woman-found-stabbed-to-death-at-tangkak-factory",
-      "source": "The Star Health",
-      "published": "2026-03-17T03:15:00",
-      "summary": "TANGKAK: A foreign woman was found dead after being stabbed in the neck at a factory in the Tangkak Industrial Area here. Read full story",
-      "keywords_matched": [
-        "trial"
+        "drug"
       ]
     },
     {
