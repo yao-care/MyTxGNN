@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-17T07:13:52.128084",
+  "fetched": "2026-03-17T08:53:01.799095",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Who Protects The Consumer In Private Hospitals? — Ravinder Singh",
+      "url": "https://codeblue.galencentre.org/2026/03/who-protects-the-consumer-in-private-hospitals/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-17T07:30:00",
+      "summary": "If private hospital costs continue to rise without stronger safeguards for consumers, public trust will inevitably be tested. The post Who Protects The Consumer In Private Hospitals? — Ravinder Singh appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Prioritise Clinical Staff, Reform Parking Lot Management At HRPZ II — Specialist",
       "url": "https://codeblue.galencentre.org/2026/03/prioritise-clinical-staff-reform-parking-lot-management-at-hrpz-ii-specialist/",
@@ -98,19 +109,6 @@
       ]
     },
     {
-      "title": "Prudential Paid Out RM1m In Medical Claims To A Policyholder In 2025",
-      "url": "https://codeblue.galencentre.org/2026/03/prudential-paid-out-rm1m-in-medical-claims-to-a-policyholder-in-2025/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-16T02:00:00",
-      "summary": "Prudential paid out RM1.04 million in claims in one policy year to a policyholder undergoing breast cancer treatment in 2025, saying medical plans with RM50k-RM100k annual limits were common in 2013 but are no longer adequate for today’s health care needs. The post Prudential Paid Out RM1m In Medical Claims To A Policyholder In 2025 appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "treatment",
-        "cancer"
-      ]
-    },
-    {
       "title": "Zamri’s lawyer decries police treatment of preacher, alleges ‘double standards’",
       "url": "https://www.malaymail.com/news/malaysia/2026/03/17/zamris-lawyer-decries-police-treatment-of-preacher-alleges-double-standards/212914",
       "source": "Malay Mail",
@@ -118,16 +116,6 @@
       "summary": "KUALA LUMPUR, March 17 — Lawyers for independent preacher Zamri Vinoth today alleged “double standards&rdquo...",
       "keywords_matched": [
         "treatment"
-      ]
-    },
-    {
-      "title": "Preacher Zamri Vinoth claims trial over inflammatory FB post, denies fleeing to Thailand",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/17/preacher-zamri-vinoth-claims-trial-over-inflammatory-fb-post-denies-fleeing-to-thailand/212905",
-      "source": "Malay Mail",
-      "published": "2026-03-17T02:31:23",
-      "summary": "KUALA LUMPUR, March 17 — Social media personality and preacher Zamri Vinoth pleaded not guilty in the Magistrates&...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
