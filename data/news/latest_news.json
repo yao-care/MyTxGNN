@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-17T09:54:45.572708",
+  "fetched": "2026-03-17T10:51:08.853499",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Who Protects The Consumer In Private Hospitals? — Ravinder Singh",
@@ -104,6 +104,16 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-03-16T03:55:53",
       "summary": "Malaysia’s progress against HIV reflects strong national leadership by the Ministry  of Health, supported by civil society and responsible corporate partners working  together to ensure that no one is left behind. The post Intervention Today, Stability Tomorrow — Jasmin Jalil appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Five charged over alleged immoral activities at Chow Kit health centre",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/17/five-charged-over-alleged-immoral-activities-at-chow-kit-health-centre",
+      "source": "The Star Health",
+      "published": "2026-03-17T10:16:00",
+      "summary": "KUALA LUMPUR: Five individuals, including two directors of a health centre in Chow Kit, were charged in separate Magistrates' Courts with various offences linked to alleged immoral activities at the premises. Read full story",
       "keywords_matched": [
         "health"
       ]
