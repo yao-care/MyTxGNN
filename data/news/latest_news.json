@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-18T08:48:34.828547",
+  "fetched": "2026-03-18T09:54:20.214329",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Experts Warn Of Food Price Hikes In Malaysia From Fertiliser Cost Surge",
@@ -105,27 +105,6 @@
       "published": "2026-03-17T02:00:00",
       "summary": "Producers warn that the Iran war may raise chicken and egg prices in Malaysia because the country relies heavily on imported feed ingredients, especially corn and soybean meal. Sustained high feed/fuel costs may affect supply if producers cut production. The post Malaysians May Face More Expensive Chicken And Eggs, Reduced Supply, Producers Warn appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Sabah police mulling K9 units at KKIA to sniff out drug smuggling",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/18/sabah-police-mulling-k9-units-at-kkia-to-sniff-out-drug-smuggling",
-      "source": "The Star Health",
-      "published": "2026-03-18T06:08:00",
-      "summary": "KOTA KINABALU: Sabah police are considering deploying K9 units at Kota Kinabalu International Airport (KKIA) checkpoints to curb drug smuggling. Read full story",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "DBKL expands free GOKL11 bus service to Cheras Rehabilitation Hospital",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/18/dbkl-expands-free-gokl11-bus-service-to-cheras-rehabilitation-hospital",
-      "source": "The Star Health",
-      "published": "2026-03-18T06:05:00",
-      "summary": "KUALA LUMPUR: Kuala Lumpur City Hall (DBKL) will extend the free GOKL11 bus route to include a new stop at the Cheras Rehabilitation Hospital (HRC), effective April 1. Read full story",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
     }
   ]
 }
