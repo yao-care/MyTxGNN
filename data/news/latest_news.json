@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-18T07:51:24.293848",
+  "fetched": "2026-03-18T08:48:34.828547",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Experts Warn Of Food Price Hikes In Malaysia From Fertiliser Cost Surge",
+      "url": "https://codeblue.galencentre.org/2026/03/experts-warn-of-food-price-hikes-in-malaysia-from-fertiliser-cost-surge/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-18T08:05:27",
+      "summary": "Fertiliser shocks from the Iran war may push up prices of vegetables, rice, chicken and eggs in Malaysia, as well as flour-based foods. Experts warn that lower yields, higher feed/fuel costs, and import reliance may worsen inflation if disruptions persist. The post Experts Warn Of Food Price Hikes In Malaysia From Fertiliser Cost Surge appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Greater Transparency Needed In Doctor Placement Policies — Family Medicine Specialist",
       "url": "https://codeblue.galencentre.org/2026/03/greater-transparency-needed-in-doctor-placement-policies-family-medicine-specialist/",
@@ -99,14 +107,6 @@
       "keywords_matched": []
     },
     {
-      "title": "UN Experts Call For Malaysia To Strengthen The Social Work Profession — Social Workers Alliance Malaysia",
-      "url": "https://codeblue.galencentre.org/2026/03/un-experts-call-for-malaysia-to-strengthen-the-social-work-profession-social-workers-alliance-malaysia/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-16T07:22:37",
-      "summary": "SWAM calls on the government to honour the UNCRC by ensuring the upcoming Social Work Profession Bill includes the public sector. The post UN Experts Call For Malaysia To Strengthen The Social Work Profession — Social Workers Alliance Malaysia appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
       "title": "Sabah police mulling K9 units at KKIA to sniff out drug smuggling",
       "url": "https://www.thestar.com.my/news/nation/2026/03/18/sabah-police-mulling-k9-units-at-kkia-to-sniff-out-drug-smuggling",
       "source": "The Star Health",
@@ -122,17 +122,6 @@
       "source": "The Star Health",
       "published": "2026-03-18T06:05:00",
       "summary": "KUALA LUMPUR: Kuala Lumpur City Hall (DBKL) will extend the free GOKL11 bus route to include a new stop at the Cheras Rehabilitation Hospital (HRC), effective April 1. Read full story",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Free Go KL bus to Cheras Rehab Hospital from April 1, says Hannah Yeoh",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/18/free-go-kl-bus-tocheras-rehab-hospital-from-april-1-says-hannah-yeoh/213035",
-      "source": "Malay Mail",
-      "published": "2026-03-18T03:41:45",
-      "summary": "KUALA LUMPUR, March 18 — Federal Territories Minister Hannah Yeoh today announced that the free Go KL bus service...",
       "keywords_matched": [
         "hospital",
         "hospital"
