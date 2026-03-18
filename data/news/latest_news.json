@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-18T06:02:17.292390",
+  "fetched": "2026-03-18T07:51:24.293848",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,18 @@
   ],
   "total_items": 13,
   "items": [
+    {
+      "title": "Greater Transparency Needed In Doctor Placement Policies — Family Medicine Specialist",
+      "url": "https://codeblue.galencentre.org/2026/03/greater-transparency-needed-in-doctor-placement-policies-family-medicine-specialist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-18T07:20:00",
+      "summary": "While many doctors remain deeply committed to serving wherever they are needed, policies governing placement, relocation, and support should be transparent, consistent, and responsive to the realities faced by health care professionals. The post Greater Transparency Needed In Doctor Placement Policies — Family Medicine Specialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medicine",
+        "doctor"
+      ]
+    },
     {
       "title": "Malaysia’s Public Health Care Is Flatlining — Public Health Medicine Specialist",
       "url": "https://codeblue.galencentre.org/2026/03/malaysias-public-health-care-is-flatlining-public-health-medicine-specialist/",
@@ -95,33 +107,21 @@
       "keywords_matched": []
     },
     {
-      "title": "Houseman Mental Health: Why We Must Look Beyond The Ward — Dr Lim Poh Khuen",
-      "url": "https://codeblue.galencentre.org/2026/03/houseman-mental-health-why-we-must-look-beyond-the-ward-dr-lim-poh-khuen/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-16T05:40:00",
-      "summary": "Hospitals must ensure accessible mental health services, mentorship, and safe channels for house officers to seek help without fear of judgement. The post Houseman Mental Health: Why We Must Look Beyond The Ward — Dr Lim Poh Khuen appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Five nabbed, drugs worth RM2.5mil seized in Sabah raids",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/18/five-nabbed-drugs-worth-rm25mil-seized-in-sabah-raids",
+      "title": "Sabah police mulling K9 units at KKIA to sniff out drug smuggling",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/18/sabah-police-mulling-k9-units-at-kkia-to-sniff-out-drug-smuggling",
       "source": "The Star Health",
-      "published": "2026-03-18T05:30:00",
-      "summary": "KOTA KINABALU: Five suspected first-time drug transporters and dealers are facing the possible death penalty after they were arrested in several raids here and Tawau that saw narcotics worth over RM2.5mil seized. Read full story",
+      "published": "2026-03-18T06:08:00",
+      "summary": "KOTA KINABALU: Sabah police are considering deploying K9 units at Kota Kinabalu International Airport (KKIA) checkpoints to curb drug smuggling. Read full story",
       "keywords_matched": [
         "drug"
       ]
     },
     {
-      "title": "Cops: Baby at hospital&#039;s childcare centre died of suffocation",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/18/cops-baby-at-hospital039s-childcare-centre-died-of-suffocation",
+      "title": "DBKL expands free GOKL11 bus service to Cheras Rehabilitation Hospital",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/18/dbkl-expands-free-gokl11-bus-service-to-cheras-rehabilitation-hospital",
       "source": "The Star Health",
-      "published": "2026-03-18T04:37:00",
-      "summary": "BUTTERWORTH: The death of a four-month-old boy at a 24-hour childcare centre in the Hospital Seberang Jaya compound last week has been confirmed as suffocation. Read full story",
+      "published": "2026-03-18T06:05:00",
+      "summary": "KUALA LUMPUR: Kuala Lumpur City Hall (DBKL) will extend the free GOKL11 bus route to include a new stop at the Cheras Rehabilitation Hospital (HRC), effective April 1. Read full story",
       "keywords_matched": [
         "hospital",
         "hospital"
