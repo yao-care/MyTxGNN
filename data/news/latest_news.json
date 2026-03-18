@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-18T02:04:52.981992",
+  "fetched": "2026-03-18T04:55:18.487717",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Forward Buying, Strong Feed Supply Buffer Malaysia’s Food Costs For Now: Importer",
+      "url": "https://codeblue.galencentre.org/2026/03/forward-buying-strong-feed-supply-buffer-malaysia-food-costs-for-now-importer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-18T03:30:00",
+      "summary": "Malaysian livestock producers have secured feed supply months in advance, while global corn and soybean stocks remain high, limiting immediate cost pressures despite rising diesel prices, says a commodities importer. The post Forward Buying, Strong Feed Supply Buffer Malaysia’s Food Costs For Now: Importer appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "SSB Tax Fails To Cut Sugary Drinks Consumption: ISIS Malaysia",
       "url": "https://codeblue.galencentre.org/2026/03/ssb-tax-fails-to-cut-sugary-drinks-consumption-isis-malaysia/",
@@ -95,23 +103,22 @@
       "keywords_matched": []
     },
     {
-      "title": "Malaysia Doesn’t Need Your EPF Savings To Fix Hospital Bills — Dr Pearl Leong",
-      "url": "https://codeblue.galencentre.org/2026/03/malaysia-doesnt-need-your-epf-savings-to-fix-hospital-bills-dr-pearl-leong/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-16T04:00:00",
-      "summary": "Allowing Malaysians to use EPF to buy medical insurance means that we're using our retirement savings to keep funding large hospital bills in private hospitals. GLCs and GLICs that own major hospital groups should control hospital charges instead. The post Malaysia Doesn’t Need Your EPF Savings To Fix Hospital Bills — Dr Pearl Leong appeared first on CodeBlue .",
+      "title": "Cops: Baby at hospital&#039;s childcare centre died of suffocation",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/18/cops-baby-at-hospital039s-childcare-centre-died-of-suffocation",
+      "source": "The Star Health",
+      "published": "2026-03-18T04:37:00",
+      "summary": "BUTTERWORTH: The death of a four-month-old boy at a 24-hour childcare centre in the Hospital Seberang Jaya compound last week has been confirmed as suffocation. Read full story",
       "keywords_matched": [
-        "medical",
         "hospital",
         "hospital"
       ]
     },
     {
-      "title": "Revisiting the 1988 Butterworth jetty tragedy",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/18/revisiting-the-1988-butterworth-jetty-tragedy",
-      "source": "The Star Health",
-      "published": "2026-03-17T23:00:00",
-      "summary": "PETALING JAYA: The year was 1988, and The Star reporter Paul Gabriel found himself at the district hospital in Butterworth, Penang. It was past 10pm on a Sunday and he had set himself a crucial task. Read full story",
+      "title": "Free Go KL bus to Cheras Rehab Hospital from April 1, says Hannah Yeoh",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/18/free-go-kl-bus-tocheras-rehab-hospital-from-april-1-says-hannah-yeoh/213035",
+      "source": "Malay Mail",
+      "published": "2026-03-18T03:41:45",
+      "summary": "KUALA LUMPUR, March 18 — Federal Territories Minister Hannah Yeoh today announced that the free Go KL bus service...",
       "keywords_matched": [
         "hospital",
         "hospital"
