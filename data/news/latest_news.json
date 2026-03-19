@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-19T02:05:51.696851",
+  "fetched": "2026-03-19T04:52:44.962493",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,14 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 13,
   "items": [
     {
-      "title": "Malaysian Pharma Monitoring Potential Drug Supply Disruptions. Medical Devices, Supplies, Packaging At Risk Too.",
+      "title": "Malaysia’s Medicine Security At Risk Due To Persian Gulf Conflict",
+      "url": "https://codeblue.galencentre.org/2026/03/malaysias-medicine-security-at-risk-due-to-persian-gulf-conflict/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-19T03:40:00",
+      "summary": "Malaysia’s potential pharmaceutical vulnerability is exposed with alarming clarity. Malaysia is a net importer of pharmaceuticals. Generic medicines are often the most exposed to supply shocks. The government should establish a Health Security Agency. The post Malaysia’s Medicine Security At Risk Due To Persian Gulf Conflict appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medicine",
+        "pharmaceutical"
+      ]
+    },
+    {
+      "title": "Malaysian Pharma Monitoring Potential Drug Supply Disruptions; Medical Devices, Supplies, Packaging At Risk Too",
       "url": "https://codeblue.galencentre.org/2026/03/malaysian-pharma-monitoring-potential-drug-supply-disruptions-medical-devices-supplies-packaging-at-risk-too/",
       "source": "CodeBlue (Health News)",
       "published": "2026-03-19T02:00:00",
-      "summary": "Malaysian pharma suppliers are monitoring potential medicine supply disruptions from the Iran war. India, a major generics producer, comprises >30% of Malaysia's imported drug supply. Medical devices (MRI scanners), supplies, and packaging are at risk too. The post Malaysian Pharma Monitoring Potential Drug Supply Disruptions. Medical Devices, Supplies, Packaging At Risk Too. appeared first on CodeBlue .",
+      "summary": "Malaysian pharma suppliers are monitoring potential medicine supply disruptions from the Iran war. India, a major generics producer, comprises >30% of Malaysia's imported drug supply. Medical devices (MRI scanners), supplies, and packaging are at risk too. The post Malaysian Pharma Monitoring Potential Drug Supply Disruptions; Medical Devices, Supplies, Packaging At Risk Too appeared first on CodeBlue .",
       "keywords_matched": [
         "medical",
         "medicine",
@@ -101,12 +113,34 @@
       ]
     },
     {
-      "title": "Adeeba Appointed To UN Panel To Review Global Drug Policy",
-      "url": "https://codeblue.galencentre.org/2026/03/adeeba-appointed-to-un-panel-to-review-global-drug-policy/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-17T02:30:00",
-      "summary": "Prof Adeeba Kamarulzaman has been appointed to an independent expert panel established by the Commission on Narcotic Drugs for a 2029 global review of drug policy, the first major evaluation of the international drug control machinery in decades. The post Adeeba Appointed To UN Panel To Review Global Drug Policy appeared first on CodeBlue .",
+      "title": "Ex-senior manager claims trial to receiving RM2.1mil in stolen funds",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/19/ex-senior-manager-claims-trial-to-receiving-rm21mil-in-stolen-funds",
+      "source": "The Star Health",
+      "published": "2026-03-19T04:17:00",
+      "summary": "IPOH: A former senior manager of a multinational company has been charged at the Magistrate's Court here with two counts of dishonestly receiving stolen funds amounting to RM2.1mil belonging to an Indonesian company three years ago. Read full story",
       "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Death of baby at hospital childcare centre, worker charged with murder",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/19/death-of-baby-at-hospital-childcare-centre-worker-charged-with-murder",
+      "source": "The Star Health",
+      "published": "2026-03-19T03:20:00",
+      "summary": "BUKIT MERTAJAM: A childcare centre worker was charged in the Magistrate's Court here Thursday (March 19) with the murder of a four-month-old baby boy. Read full story",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "UN appoints Malaysia’s Dr Adeeba to high-level panel to review global drug policies",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/19/un-appoints-malaysias-dr-adeeba-to-high-level-panel-to-review-global-drug-policies/213168",
+      "source": "Malay Mail",
+      "published": "2026-03-19T02:29:59",
+      "summary": "KUALA LUMPUR, March 18 — Malaysian public health expert Professor Emeritus Datuk Dr Adeeba Kamarulzaman has been a...",
+      "keywords_matched": [
+        "health",
         "drug"
       ]
     }
