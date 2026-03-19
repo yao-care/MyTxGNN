@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-19T04:52:44.962493",
+  "fetched": "2026-03-19T05:57:24.465660",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
+    {
+      "title": "After Meeting Philip Morris, FT Mufti Office Explores Fatwa For Shariah-Compliant Tobacco Alternatives",
+      "url": "https://codeblue.galencentre.org/2026/03/after-meeting-philip-morris-ft-mufti-office-explores-fatwa-for-shariah-compliant-tobacco-alternatives/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-19T05:30:00",
+      "summary": "The FT Mufti's Office says it's looking at the role of productive fatwas for \"Shariah-compliant\" alternatives to conventional cigarettes, after receiving a visit from Philip Morris Malaysia. Currently, smoking (including e-cigarettes) is considered haram. The post After Meeting Philip Morris, FT Mufti Office Explores Fatwa For Shariah-Compliant Tobacco Alternatives appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Malaysia’s Medicine Security At Risk Due To Persian Gulf Conflict",
       "url": "https://codeblue.galencentre.org/2026/03/malaysias-medicine-security-at-risk-due-to-persian-gulf-conflict/",
@@ -103,34 +111,13 @@
       ]
     },
     {
-      "title": "Dzulkefly: 5,000 Housemanship Slots Offered, Only 529 Medical Graduates Accepted",
-      "url": "https://codeblue.galencentre.org/2026/03/dzulkefly-5000-housemanship-slots-offered-only-529-medical-graduates-accepted/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-17T03:30:00",
-      "summary": "Dr Dzul says medical graduate intake for housemanship halved since 2019. Only 529 graduates reported for 5,000 training slots offered in January 2026. Amid medicolegal payouts, MMC is concerned over training quality if housemanship is shortened to a year. The post Dzulkefly: 5,000 Housemanship Slots Offered, Only 529 Medical Graduates Accepted appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Ex-senior manager claims trial to receiving RM2.1mil in stolen funds",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/19/ex-senior-manager-claims-trial-to-receiving-rm21mil-in-stolen-funds",
-      "source": "The Star Health",
-      "published": "2026-03-19T04:17:00",
-      "summary": "IPOH: A former senior manager of a multinational company has been charged at the Magistrate's Court here with two counts of dishonestly receiving stolen funds amounting to RM2.1mil belonging to an Indonesian company three years ago. Read full story",
+      "title": "Ex-senior manager claims trial to two counts of receiving RM2.1m in stolen funds in Ipoh",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/19/ex-senior-manager-claims-trial-to-two-counts-of-receiving-rm21m-in-stolen-funds-in-ipoh/213197",
+      "source": "Malay Mail",
+      "published": "2026-03-19T05:53:34",
+      "summary": "IPOH, March 19 — A former senior manager of a multinational company claimed trial to two counts of dishonestl...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Death of baby at hospital childcare centre, worker charged with murder",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/19/death-of-baby-at-hospital-childcare-centre-worker-charged-with-murder",
-      "source": "The Star Health",
-      "published": "2026-03-19T03:20:00",
-      "summary": "BUKIT MERTAJAM: A childcare centre worker was charged in the Magistrate's Court here Thursday (March 19) with the murder of a four-month-old baby boy. Read full story",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     },
     {
