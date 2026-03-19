@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-18T23:29:46.448117",
+  "fetched": "2026-03-19T02:05:51.696851",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,18 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Malaysian Pharma Monitoring Potential Drug Supply Disruptions. Medical Devices, Supplies, Packaging At Risk Too.",
+      "url": "https://codeblue.galencentre.org/2026/03/malaysian-pharma-monitoring-potential-drug-supply-disruptions-medical-devices-supplies-packaging-at-risk-too/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-19T02:00:00",
+      "summary": "Malaysian pharma suppliers are monitoring potential medicine supply disruptions from the Iran war. India, a major generics producer, comprises >30% of Malaysia's imported drug supply. Medical devices (MRI scanners), supplies, and packaging are at risk too. The post Malaysian Pharma Monitoring Potential Drug Supply Disruptions. Medical Devices, Supplies, Packaging At Risk Too. appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "medicine",
+        "drug"
+      ]
+    },
     {
       "title": "Experts Warn Of Food Price Hikes In Malaysia From Fertiliser Cost Surge",
       "url": "https://codeblue.galencentre.org/2026/03/experts-warn-of-food-price-hikes-in-malaysia-from-fertiliser-cost-surge/",
@@ -97,14 +109,6 @@
       "keywords_matched": [
         "drug"
       ]
-    },
-    {
-      "title": "Malaysians May Face More Expensive Chicken And Eggs, Reduced Supply, Producers Warn",
-      "url": "https://codeblue.galencentre.org/2026/03/malaysians-may-face-more-expensive-chicken-and-eggs-reduced-supply-producers-warn/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-17T02:00:00",
-      "summary": "Producers warn that the Iran war may raise chicken and egg prices in Malaysia because the country relies heavily on imported feed ingredients, especially corn and soybean meal. Sustained high feed/fuel costs may affect supply if producers cut production. The post Malaysians May Face More Expensive Chicken And Eggs, Reduced Supply, Producers Warn appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
