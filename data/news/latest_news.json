@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-19T13:02:07.950396",
+  "fetched": "2026-03-19T14:45:33.166995",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Review SSPA Structure, Trained Paramedics Still At U1 Grade — Coalition Of Three Paramedic Schemes",
@@ -105,6 +105,16 @@
         "health",
         "medicine",
         "doctor"
+      ]
+    },
+    {
+      "title": "Be patient, exercise caution when driving home for Aidilfitri, Pahang Sultan advises",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/19/be-patient-exercise-caution-when-driving-home-for-aidilfitri-pahang-sultan-advises",
+      "source": "The Star Health",
+      "published": "2026-03-19T14:30:00",
+      "summary": "KUANTAN: The Sultan of Pahang, Al-Sultan Abdullah Ri'ayatuddin Al-Mustafa Billah Shah, has advised those driving back to their hometowns for Hari Raya Aidilfitri to always be patient and exercise caution when on the road. Read full story",
+      "keywords_matched": [
+        "patient"
       ]
     }
   ]
