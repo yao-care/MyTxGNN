@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-19T09:41:44.019079",
+  "fetched": "2026-03-19T10:38:50.047740",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Review SSPA Structure, Trained Paramedics Still At U1 Grade — Coalition Of Three Paramedic Schemes",
@@ -105,16 +105,6 @@
         "health",
         "medicine",
         "doctor"
-      ]
-    },
-    {
-      "title": "Two claim trial to cheating woman of RM23,000 in Kuantan",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/19/two-claim-trial-to-cheating-woman-of-rm23000-in-kuantan",
-      "source": "The Star Health",
-      "published": "2026-03-19T08:43:00",
-      "summary": "KUANTAN: Two sales promoters have pleaded not guilty in the Magistrate's Court here to a charge of cheating a woman of RM23,000. Read full story",
-      "keywords_matched": [
-        "trial"
       ]
     },
     {
