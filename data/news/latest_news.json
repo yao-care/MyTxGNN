@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-20T09:39:42.256882",
+  "fetched": "2026-03-20T10:36:39.446236",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers",
@@ -102,16 +102,6 @@
       "published": "2026-03-18T08:05:27",
       "summary": "Fertiliser shocks from the Iran war may push up prices of vegetables, rice, chicken and eggs in Malaysia, as well as flour-based foods. Experts warn that lower yields, higher feed/fuel costs, and import reliance may worsen inflation if disruptions persist. The post Experts Warn Of Food Price Hikes In Malaysia From Fertiliser Cost Surge appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Sultan of Pahang’s Raya message: Be patient, obey traffic rules, arrive safely",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/20/sultan-of-pahangs-raya-message-be-patient-obey-traffic-rules-arrive-safely/213288",
-      "source": "Malay Mail",
-      "published": "2026-03-20T03:01:59",
-      "summary": "KUANTAN, March 20 — The Sultan of Pahang, Al-Sultan Abdullah Ri’ayatuddin Al-Mustafa Billah Shah, has advise...",
-      "keywords_matched": [
-        "patient"
-      ]
     }
   ]
 }
