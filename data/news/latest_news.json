@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-21T04:05:05.967778",
+  "fetched": "2026-03-21T05:39:43.868769",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers",
@@ -102,6 +102,16 @@
       "published": "2026-03-18T08:05:27",
       "summary": "Fertiliser shocks from the Iran war may push up prices of vegetables, rice, chicken and eggs in Malaysia, as well as flour-based foods. Experts warn that lower yields, higher feed/fuel costs, and import reliance may worsen inflation if disruptions persist. The post Experts Warn Of Food Price Hikes In Malaysia From Fertiliser Cost Surge appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "‘Unhealthy and inappropriate’: Loke tells Guan Eng, Penang CM to end public spat on quit rent",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/21/unhealthy-and-inappropriate-loke-tells-guan-eng-penang-cm-to-end-public-spat-on-quit-rent/213393",
+      "source": "Malay Mail",
+      "published": "2026-03-21T05:05:33",
+      "summary": "KUALA LUMPUR, March 21 — DAP secretary-general Anthony Loke Siew Fook today called for an end to the public disput...",
+      "keywords_matched": [
+        "health"
+      ]
     }
   ]
 }
