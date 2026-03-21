@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-21T05:39:43.868769",
+  "fetched": "2026-03-21T06:41:09.300160",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers",
@@ -102,6 +102,17 @@
       "published": "2026-03-18T08:05:27",
       "summary": "Fertiliser shocks from the Iran war may push up prices of vegetables, rice, chicken and eggs in Malaysia, as well as flour-based foods. Experts warn that lower yields, higher feed/fuel costs, and import reliance may worsen inflation if disruptions persist. The post Experts Warn Of Food Price Hikes In Malaysia From Fertiliser Cost Surge appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Sarawak panel marks key step towards health autonomy",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/21/sarawak-panel-marks-key-step-towards-health-autonomy",
+      "source": "The Star Health",
+      "published": "2026-03-21T05:43:00",
+      "summary": "PETALING JAYA: A newly operational Sarawak-level medical committee marks a key step towards addressing the state's healthcare shortage and advancing its autonomy in the sector. Read full story",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
     },
     {
       "title": "‘Unhealthy and inappropriate’: Loke tells Guan Eng, Penang CM to end public spat on quit rent",
