@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-20T23:27:37.155365",
+  "fetched": "2026-03-21T01:53:56.900961",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers",
@@ -102,16 +102,6 @@
       "published": "2026-03-18T08:05:27",
       "summary": "Fertiliser shocks from the Iran war may push up prices of vegetables, rice, chicken and eggs in Malaysia, as well as flour-based foods. Experts warn that lower yields, higher feed/fuel costs, and import reliance may worsen inflation if disruptions persist. The post Experts Warn Of Food Price Hikes In Malaysia From Fertiliser Cost Surge appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Langkawi ferry schedule to be restructured over rising diesel costs",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/20/langkawi-ferry-schedule-to-be-restructured-over-rising-diesel-costs",
-      "source": "The Star Health",
-      "published": "2026-03-20T13:48:00",
-      "summary": "ALOR SETAR: The ferry service schedule to Langkawi will be revised after the Aidilfitri holidays due to rising industrial diesel prices by over 100%. Read full story",
-      "keywords_matched": [
-        "trial"
-      ]
     }
   ]
 }
