@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-22T09:31:19.649932",
+  "fetched": "2026-03-22T10:26:16.951440",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers",
@@ -114,6 +114,17 @@
         "hospital",
         "clinical",
         "hospital"
+      ]
+    },
+    {
+      "title": "MOH eyes RM485,000 upgrade for century-old trauma training facility in Sungai Buloh",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/22/moh-eyes-rm485000-upgrade-for-century-old-trauma-training-facility-in-sungai-buloh/213512",
+      "source": "Malay Mail",
+      "published": "2026-03-22T10:20:34",
+      "summary": "KUALA LUMPUR, March 22 — The Ministry of Health (MOH) is studying a proposal to upgrade the National Clinical Inte...",
+      "keywords_matched": [
+        "health",
+        "clinical"
       ]
     },
     {
