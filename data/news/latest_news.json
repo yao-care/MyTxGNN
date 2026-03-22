@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-22T10:26:16.951440",
+  "fetched": "2026-03-22T11:22:36.966704",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers",
@@ -102,19 +102,6 @@
       "published": "2026-03-18T08:05:27",
       "summary": "Fertiliser shocks from the Iran war may push up prices of vegetables, rice, chicken and eggs in Malaysia, as well as flour-based foods. Experts warn that lower yields, higher feed/fuel costs, and import reliance may worsen inflation if disruptions persist. The post Experts Warn Of Food Price Hikes In Malaysia From Fertiliser Cost Surge appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Ministry mulls upgrading trauma life support training centre in Sg Buloh",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/22/ministry-mulls-upgrading-trauma-life-support-training-centre-in-sg-buloh",
-      "source": "The Star Health",
-      "published": "2026-03-22T09:00:00",
-      "summary": "KUALA LUMPUR: The Health Ministry is studying a proposal to upgrade the National Clinical Integration and Trauma Life Support Malaysia (TLSM) Training Centre at Bukit Ilmu, Hospital Sungai Buloh, which is more than 100 years old. Read full story",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "clinical",
-        "hospital"
-      ]
     },
     {
       "title": "MOH eyes RM485,000 upgrade for century-old trauma training facility in Sungai Buloh",
