@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-23T02:06:54.884909",
+  "fetched": "2026-03-23T05:02:03.480589",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
     {
       "title": "China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers",
@@ -104,25 +104,43 @@
       "keywords_matched": []
     },
     {
-      "title": "MOH eyes RM485,000 upgrade for century-old trauma training facility in Sungai Buloh",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/22/moh-eyes-rm485000-upgrade-for-century-old-trauma-training-facility-in-sungai-buloh/213512",
-      "source": "Malay Mail",
-      "published": "2026-03-22T10:20:34",
-      "summary": "KUALA LUMPUR, March 22 — The Ministry of Health (MOH) is studying a proposal to upgrade the National Clinical Inte...",
+      "title": "Malaysia joins WHO event online due to West Asia conflict",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/23/malaysia-joins-who-event-online-due-to-west-asia-conflict",
+      "source": "The Star Health",
+      "published": "2026-03-23T02:56:00",
+      "summary": "KUALA LUMPUR: Malaysia will participate in the 6th Intergovernmental Working Group (IGWG6) negotiation session at the World Health Organisation in Geneva, Switzerland, from today until Saturday, via an online platform due to the conflict in West Asia. Read full story",
       "keywords_matched": [
-        "health",
-        "clinical"
+        "health"
       ]
     },
     {
-      "title": "National Anti‑Drugs Agency reports 81pc recovery rate among 26,852 clients nationwide",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/22/national-antidrugs-agency-reports-81pc-recovery-rate-among-26852-clients-nationwide/213504",
-      "source": "Malay Mail",
-      "published": "2026-03-22T08:52:55",
-      "summary": "KOTA BHARU, March 22 — A total of 21,794 clients who underwent community-based treatment and rehabilitation progra...",
+      "title": "15 heat-related cases this year, including one child death, says Dzulkefly",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/23/15-heat-related-cases-this-year-including-one-child-death-says-dzulkefly",
+      "source": "The Star Health",
+      "published": "2026-03-23T02:52:00",
+      "summary": "PUTRAJAYA: A total of 15 heat-related cases have been reported so far this year, including three cases of heatstroke and one death involving a child left in a vehicle, said Health Minister Datuk Seri Dr Dzulkefly Ahmad. Read full story",
       "keywords_matched": [
-        "drug",
-        "treatment"
+        "health"
+      ]
+    },
+    {
+      "title": "Anwar wishes King Sultan Ibrahim health and blessings on official birthday",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/anwar-wishes-king-sultan-ibrahim-health-and-blessings-on-official-birthday/213565",
+      "source": "Malay Mail",
+      "published": "2026-03-23T04:44:59",
+      "summary": "KUALA LUMPUR, March 23 — Prime Minister Datuk Seri Anwar Ibrahim today conveyed his congratulations in...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Health minister warns of 40°C danger as heatwave scorches Malaysia, claiming life of child left in car",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/health-minister-warns-of-40c-danger-as-heatwave-scorches-malaysia-claiming-life-of-child-left-in-car/213549",
+      "source": "Malay Mail",
+      "published": "2026-03-23T03:47:44",
+      "summary": "PUTRAJAYA, March 23 — A total of 15 heat-related cases have been reported so far this year, including three cases...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
