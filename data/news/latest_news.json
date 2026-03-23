@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-23T05:02:03.480589",
+  "fetched": "2026-03-23T07:08:11.125571",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -104,28 +104,30 @@
       "keywords_matched": []
     },
     {
-      "title": "Malaysia joins WHO event online due to West Asia conflict",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/23/malaysia-joins-who-event-online-due-to-west-asia-conflict",
+      "title": "Country&#039;s medicine supply stable, says Health Ministry",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/23/country039s-medicine-supply-stable-says-health-ministry",
       "source": "The Star Health",
-      "published": "2026-03-23T02:56:00",
-      "summary": "KUALA LUMPUR: Malaysia will participate in the 6th Intergovernmental Working Group (IGWG6) negotiation session at the World Health Organisation in Geneva, Switzerland, from today until Saturday, via an online platform due to the conflict in West Asia. Read full story",
+      "published": "2026-03-23T05:55:00",
+      "summary": "KUALA LUMPUR: The supply of medicines in the country is stable and under control, says the Health Ministry. Read full story",
       "keywords_matched": [
-        "health"
+        "health",
+        "medicine"
       ]
     },
     {
-      "title": "15 heat-related cases this year, including one child death, says Dzulkefly",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/23/15-heat-related-cases-this-year-including-one-child-death-says-dzulkefly",
-      "source": "The Star Health",
-      "published": "2026-03-23T02:52:00",
-      "summary": "PUTRAJAYA: A total of 15 heat-related cases have been reported so far this year, including three cases of heatstroke and one death involving a child left in a vehicle, said Health Minister Datuk Seri Dr Dzulkefly Ahmad. Read full story",
+      "title": "Health Ministry: Malaysia’s medicine supply stable despite West Asia conflict",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/health-ministry-malaysias-medicine-supply-stable-despite-west-asia-conflict/213573",
+      "source": "Malay Mail",
+      "published": "2026-03-23T06:18:59",
+      "summary": "PUTRAJAYA, March 23 — The Ministry of Health (MOH) has confirmed that the supply of medicines in the country is cu...",
       "keywords_matched": [
-        "health"
+        "health",
+        "medicine"
       ]
     },
     {
-      "title": "Anwar wishes King Sultan Ibrahim health and blessings on official birthday",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/anwar-wishes-king-sultan-ibrahim-health-and-blessings-on-official-birthday/213565",
+      "title": "Anwar wishes Sultan Ibrahim health and blessings on official birthday",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/anwar-wishes-sultan-ibrahim-health-and-blessings-on-official-birthday/213565",
       "source": "Malay Mail",
       "published": "2026-03-23T04:44:59",
       "summary": "KUALA LUMPUR, March 23 — Prime Minister Datuk Seri Anwar Ibrahim today conveyed his congratulations in...",
