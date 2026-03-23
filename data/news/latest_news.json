@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-23T07:08:11.125571",
+  "fetched": "2026-03-23T08:54:24.314933",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 15,
   "items": [
     {
       "title": "China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers",
@@ -104,14 +104,35 @@
       "keywords_matched": []
     },
     {
-      "title": "Country&#039;s medicine supply stable, says Health Ministry",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/23/country039s-medicine-supply-stable-says-health-ministry",
+      "title": "Prolonged hot spell risks disrupting ecosystem, say experts",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/23/prolonged-hot-spell-risks-disrupting-ecosystem-say-experts",
       "source": "The Star Health",
-      "published": "2026-03-23T05:55:00",
-      "summary": "KUALA LUMPUR: The supply of medicines in the country is stable and under control, says the Health Ministry. Read full story",
+      "published": "2026-03-23T07:18:00",
+      "summary": "KUALA LUMPUR: The prolonged hot and dry weather not only affects health, but also risks disrupting ecosystem balance, increasing the likelihood of drought and forest fires, as well as affecting surface water sources such as rivers and dams. Read full story",
       "keywords_matched": [
-        "health",
-        "medicine"
+        "health"
+      ]
+    },
+    {
+      "title": "Kedah police checking hospitals after viral claims of ‘mercun bola’ injuries in Pendang",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/kedah-police-checking-hospitals-after-viral-claims-of-mercun-bola-injuries-in-pendang/213593",
+      "source": "Malay Mail",
+      "published": "2026-03-23T08:07:20",
+      "summary": "ALOR SETAR, March 23 — Police are obtaining further information from the hospital regarding claims that several in...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Bukit Mertajam Hospital dismisses claims of relocation to avoid disrupting temple",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/bukit-mertajam-hospital-dismisses-claims-of-relocation-to-avoid-disrupting-temple/213589",
+      "source": "Malay Mail",
+      "published": "2026-03-23T07:28:48",
+      "summary": "SEBERANG PERAI, March 23 — Bukit Mertajam Hospital’s Board of Visitors today dismissed allegations that the...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     },
     {
@@ -131,16 +152,6 @@
       "source": "Malay Mail",
       "published": "2026-03-23T04:44:59",
       "summary": "KUALA LUMPUR, March 23 — Prime Minister Datuk Seri Anwar Ibrahim today conveyed his congratulations in...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Health minister warns of 40°C danger as heatwave scorches Malaysia, claiming life of child left in car",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/health-minister-warns-of-40c-danger-as-heatwave-scorches-malaysia-claiming-life-of-child-left-in-car/213549",
-      "source": "Malay Mail",
-      "published": "2026-03-23T03:47:44",
-      "summary": "PUTRAJAYA, March 23 — A total of 15 heat-related cases have been reported so far this year, including three cases...",
       "keywords_matched": [
         "health"
       ]
