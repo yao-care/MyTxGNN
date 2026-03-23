@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-23T11:42:18.580812",
+  "fetched": "2026-03-23T13:04:51.196092",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 15,
   "items": [
     {
       "title": "China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers",
@@ -104,6 +104,26 @@
       "keywords_matched": []
     },
     {
+      "title": "Health Ministry officer caught smoking at eatery to face disciplinary action, fine",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/23/health-ministry-officer-caught-smoking-at-eatery-to-face-disciplinary-action-fine",
+      "source": "The Star Health",
+      "published": "2026-03-23T11:54:00",
+      "summary": "PETALING JAYA: Action has been taken against a public servant caught smoking at an eatery, says the Health Ministry. Read full story",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "MOH confirms civil servants caught smoking at Rawang eatery, compounds imposed",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/moh-confirms-civil-servants-caught-smoking-at-rawang-eatery-compounds-imposed/213615",
+      "source": "Malay Mail",
+      "published": "2026-03-23T12:14:26",
+      "summary": "PUTRAJAYA, March 23 — The Ministry of Health (MOH) has confirmed that the individuals seen smoking at a...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Kedah police checking hospitals after viral claims of ‘mercun bola’ injuries in Pendang",
       "url": "https://www.malaymail.com/news/malaysia/2026/03/23/kedah-police-checking-hospitals-after-viral-claims-of-mercun-bola-injuries-in-pendang/213593",
       "source": "Malay Mail",
@@ -134,16 +154,6 @@
       "keywords_matched": [
         "health",
         "medicine"
-      ]
-    },
-    {
-      "title": "Anwar wishes Sultan Ibrahim health and blessings on official birthday",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/anwar-wishes-sultan-ibrahim-health-and-blessings-on-official-birthday/213565",
-      "source": "Malay Mail",
-      "published": "2026-03-23T04:44:59",
-      "summary": "KUALA LUMPUR, March 23 — Prime Minister Datuk Seri Anwar Ibrahim today conveyed his congratulations in...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
