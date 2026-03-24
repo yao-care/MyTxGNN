@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-24T07:15:18.064610",
+  "fetched": "2026-03-24T08:52:20.971668",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Understanding The UK Meningitis B Outbreak — Dr Musa Mohd Nordin, Dr Husna Musa & Dr Zulkifli Ismail",
+      "url": "https://codeblue.galencentre.org/2026/03/understanding-the-uk-meningitis-b-outbreak-dr-musa-mohd-nordin-dr-husna-musa-dr-zulkifli-ismail/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-24T07:25:00",
+      "summary": "We must push for the licensing of the MenB vaccine to ensure Malaysia is protected against this devastating but preventable disease. The post Understanding The UK Meningitis B Outbreak — Dr Musa Mohd Nordin, Dr Husna Musa & Dr Zulkifli Ismail appeared first on CodeBlue .",
+      "keywords_matched": [
+        "disease",
+        "vaccine"
+      ]
+    },
     {
       "title": "Malaysia Has Up To Five Months’ Medicine Stock, Says MOH",
       "url": "https://codeblue.galencentre.org/2026/03/malaysia-has-up-to-five-months-medicine-stock-says-moh/",
@@ -91,32 +102,13 @@
       ]
     },
     {
-      "title": "After Meeting Philip Morris, FT Mufti Office Explores Fatwa For Shariah-Compliant Tobacco Alternatives",
-      "url": "https://codeblue.galencentre.org/2026/03/after-meeting-philip-morris-ft-mufti-office-explores-fatwa-for-shariah-compliant-tobacco-alternatives/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-19T05:30:00",
-      "summary": "The FT Mufti's Office says it's looking at the role of productive fatwas for \"Shariah-compliant\" alternatives to conventional cigarettes, after receiving a visit from Philip Morris Malaysia. Currently, smoking (including e-cigarettes) is considered haram. The post After Meeting Philip Morris, FT Mufti Office Explores Fatwa For Shariah-Compliant Tobacco Alternatives appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Cops: Both suspect and victim in Padang Serai shooting have criminal records",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/24/cops-both-suspect-and-victim-in-padang-serai-shooting-have-criminal-records",
+      "title": "Appeals court acquits labourer of drug trafficking charge",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/24/appeals-court-acquits-labourer-of-drug-trafficking-charge",
       "source": "The Star Health",
-      "published": "2026-03-24T05:45:00",
-      "summary": "KULIM: The suspect in Saturday's (March 21) shooting at Kampung Permatang Durian in Seberang Paya, Padang Serai, has 13 criminal and drug offences on his record, according to police. Read full story",
+      "published": "2026-03-24T08:19:00",
+      "summary": "PUTRAJAYA: The Court of Appeal has acquitted a labourer of a charge of trafficking 366.93g of methamphetamine. Read full story",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Steven Sim&#039;s special officer lodges police report over Hospital BM relocation claim",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/24/steven-sim039s-special-officer-lodges-police-report-over-hospital-bm-relocation-claim",
-      "source": "The Star Health",
-      "published": "2026-03-24T03:55:00",
-      "summary": "BUKIT MERTAJAM: Bukit Mertajam MP Steven Sim's team has filed a police report against a social media user for claiming that Sim said Hospital Bukit Mertajam would be relocated to avoid disturbing a temple. Read full story",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     },
     {
@@ -128,16 +120,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "MOH confirms civil servants caught smoking at Rawang eatery, compounds imposed",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/moh-confirms-civil-servants-caught-smoking-at-rawang-eatery-compounds-imposed/213615",
-      "source": "Malay Mail",
-      "published": "2026-03-23T12:14:26",
-      "summary": "PUTRAJAYA, March 23 — The Ministry of Health (MOH) has confirmed that the individuals seen smoking at a...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
