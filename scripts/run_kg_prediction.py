@@ -112,7 +112,7 @@ def main():
     output_dir = base_dir / "data" / "processed"
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    output_path = output_dir / "repurposing_candidates.csv"
+    output_path = output_dir / "repurposing_candidates.csv.gz"
     candidates.to_csv(output_path, index=False)
     print(f"   已儲存至: {output_path}")
 

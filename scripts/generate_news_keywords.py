@@ -111,7 +111,7 @@ def main():
 
     base_dir = Path(__file__).parent.parent
     synonyms_path = base_dir / "data" / "news" / "synonyms.json"
-    predictions_path = base_dir / "data" / "processed" / "repurposing_candidates.csv"
+    predictions_path = base_dir / "data" / "processed" / "repurposing_candidates.csv.gz"
     output_path = base_dir / "data" / "news" / "keywords.json"
 
     # Load data

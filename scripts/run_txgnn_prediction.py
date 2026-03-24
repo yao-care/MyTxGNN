@@ -74,7 +74,7 @@ def run_malaysia_drug_prediction(
     if drug_mapping_path is None:
         drug_mapping_path = base_dir / "data" / "processed" / "drugbank_mapping.csv"
     if output_path is None:
-        output_path = base_dir / "data" / "processed" / "txgnn_dl_predictions.csv"
+        output_path = base_dir / "data" / "processed" / "txgnn_dl_predictions.csv.gz"
     if checkpoint_path is None:
         checkpoint_path = base_dir / "data" / "processed" / "txgnn_checkpoint.csv"
 
@@ -184,7 +184,7 @@ def main():
 
     if result is not None and len(result) > 0:
         print("\n預測完成！")
-        print(f"結果檔案: data/processed/txgnn_dl_predictions.csv")
+        print(f"結果檔案: data/processed/txgnn_dl_predictions.csv.gz")
         print(f"Checkpoint: data/processed/txgnn_checkpoint.csv")
     else:
         print("\n預測未產生結果，請檢查藥品映射資料。")
