@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-23T23:31:09.810881",
+  "fetched": "2026-03-24T01:58:55.350323",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 15,
   "items": [
     {
       "title": "China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers",
@@ -104,6 +104,27 @@
       "keywords_matched": []
     },
     {
+      "title": "Malaysia to join Geneva health session remotely",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/24/malaysia-to-join-geneva-health-session-remotely",
+      "source": "The Star Health",
+      "published": "2026-03-23T16:00:00",
+      "summary": "KUALA LUMPUR: Malaysia will participate in the 6th Intergovernmental Working Group (IGWG6) negotiation session at the World Health Organisation in Geneva, Switzerland, via an online platform due to the conflict in West Asia. Read full story",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Education Ministry expands School in Hospital programme to Penang, helping students stay on track",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/24/education-ministry-expands-school-in-hospital-programme-to-penang-helping-students-stay-on-track/213620",
+      "source": "Malay Mail",
+      "published": "2026-03-24T01:45:34",
+      "summary": "KUALA LUMPUR, March 24 — The Ministry of Education (MOE) is continuously striving to meet the needs of every segme...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
       "title": "MOH confirms civil servants caught smoking at Rawang eatery, compounds imposed",
       "url": "https://www.malaymail.com/news/malaysia/2026/03/23/moh-confirms-civil-servants-caught-smoking-at-rawang-eatery-compounds-imposed/213615",
       "source": "Malay Mail",
@@ -133,17 +154,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Health Ministry: Malaysia’s medicine supply stable despite West Asia conflict",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/health-ministry-malaysias-medicine-supply-stable-despite-west-asia-conflict/213573",
-      "source": "Malay Mail",
-      "published": "2026-03-23T06:18:59",
-      "summary": "PUTRAJAYA, March 23 — The Ministry of Health (MOH) has confirmed that the supply of medicines in the country is cu...",
-      "keywords_matched": [
-        "health",
-        "medicine"
       ]
     }
   ]
