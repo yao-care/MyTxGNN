@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-24T08:52:20.971668",
+  "fetched": "2026-03-24T09:55:04.246669",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Understanding The UK Meningitis B Outbreak — Dr Musa Mohd Nordin, Dr Husna Musa & Dr Zulkifli Ismail",
@@ -99,27 +99,6 @@
       "summary": "The tobacco industry's meeting with a religious office is very alarming. Having faced firm resistance from health authorities, the industry is searching for new avenues of validation. Heated tobacco products and vapes remain harmful. The post Tobacco/Vape Industry’s Pivot To Religious Authorities A Public Health Concern — Fahmi Hassan appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Appeals court acquits labourer of drug trafficking charge",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/24/appeals-court-acquits-labourer-of-drug-trafficking-charge",
-      "source": "The Star Health",
-      "published": "2026-03-24T08:19:00",
-      "summary": "PUTRAJAYA: The Court of Appeal has acquitted a labourer of a charge of trafficking 366.93g of methamphetamine. Read full story",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Education Ministry expands School in Hospital programme to Penang, helping students stay on track",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/24/education-ministry-expands-school-in-hospital-programme-to-penang-helping-students-stay-on-track/213620",
-      "source": "Malay Mail",
-      "published": "2026-03-24T01:45:34",
-      "summary": "KUALA LUMPUR, March 24 — The Ministry of Education (MOE) is continuously striving to meet the needs of every segme...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
