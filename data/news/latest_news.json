@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-24T11:43:50.515190",
+  "fetched": "2026-03-24T13:09:00.124424",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Understanding The UK Meningitis B Outbreak — Dr Musa Mohd Nordin, Dr Husna Musa & Dr Zulkifli Ismail",
@@ -107,6 +107,16 @@
       "source": "The Star Health",
       "published": "2026-03-24T10:58:00",
       "summary": "MELAKA: Melakans have been urged to limit outdoor activities following a rise in ultraviolet (UV) radiation levels and temperatures that have reached unhealthy levels, says Datuk Ngwe Hee Sem. Read full story",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "From sunburn to stroke — experts warn heatwave packs more than discomfort",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/24/from-sunburn-to-stroke-experts-warn-heatwave-packs-more-than-discomfort/213726",
+      "source": "Malay Mail",
+      "published": "2026-03-24T12:22:07",
+      "summary": "KUALA LUMPUR, March 24 — The heatwave currently affecting the country not only increases health risks but may also...",
       "keywords_matched": [
         "health"
       ]
