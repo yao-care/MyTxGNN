@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-24T05:58:44.409496",
+  "fetched": "2026-03-24T07:15:18.064610",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -99,6 +99,16 @@
       "keywords_matched": []
     },
     {
+      "title": "Cops: Both suspect and victim in Padang Serai shooting have criminal records",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/24/cops-both-suspect-and-victim-in-padang-serai-shooting-have-criminal-records",
+      "source": "The Star Health",
+      "published": "2026-03-24T05:45:00",
+      "summary": "KULIM: The suspect in Saturday's (March 21) shooting at Kampung Permatang Durian in Seberang Paya, Padang Serai, has 13 criminal and drug offences on his record, according to police. Read full story",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "Steven Sim&#039;s special officer lodges police report over Hospital BM relocation claim",
       "url": "https://www.thestar.com.my/news/nation/2026/03/24/steven-sim039s-special-officer-lodges-police-report-over-hospital-bm-relocation-claim",
       "source": "The Star Health",
@@ -128,17 +138,6 @@
       "summary": "PUTRAJAYA, March 23 — The Ministry of Health (MOH) has confirmed that the individuals seen smoking at a...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Kedah police checking hospitals after viral claims of ‘mercun bola’ injuries in Pendang",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/kedah-police-checking-hospitals-after-viral-claims-of-mercun-bola-injuries-in-pendang/213593",
-      "source": "Malay Mail",
-      "published": "2026-03-23T08:07:20",
-      "summary": "ALOR SETAR, March 23 — Police are obtaining further information from the hospital regarding claims that several in...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
