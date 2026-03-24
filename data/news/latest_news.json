@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-24T14:57:15.795119",
+  "fetched": "2026-03-24T16:09:33.858432",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Understanding The UK Meningitis B Outbreak — Dr Musa Mohd Nordin, Dr Husna Musa & Dr Zulkifli Ismail",
@@ -97,16 +97,6 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-03-19T06:34:29",
       "summary": "The tobacco industry's meeting with a religious office is very alarming. Having faced firm resistance from health authorities, the industry is searching for new avenues of validation. Heated tobacco products and vapes remain harmful. The post Tobacco/Vape Industry’s Pivot To Religious Authorities A Public Health Concern — Fahmi Hassan appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Melaka residents told to limit outdoor activities due to rising UV levels and heat",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/24/melaka-residents-told-to-limit-outdoor-activities-due-to-rising-uv-levels-and-heat",
-      "source": "The Star Health",
-      "published": "2026-03-24T10:58:00",
-      "summary": "MELAKA: Melakans have been urged to limit outdoor activities following a rise in ultraviolet (UV) radiation levels and temperatures that have reached unhealthy levels, says Datuk Ngwe Hee Sem. Read full story",
       "keywords_matched": [
         "health"
       ]
