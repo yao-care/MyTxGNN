@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-24T04:25:18.031242",
+  "fetched": "2026-03-24T05:58:44.409496",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Malaysia Has Up To Five Months’ Medicine Stock, Says MOH",
+      "url": "https://codeblue.galencentre.org/2026/03/malaysia-has-up-to-five-months-medicine-stock-says-moh/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-24T05:30:00",
+      "summary": "MOH says it has 1-3 months of medicine stock supplies, supported by additional buffer stock of up to 2 months by its concessionaire. Local pharmaceutical manufacturers have up to 3 months' raw material stock and about 2 months' stock of finished products. The post Malaysia Has Up To Five Months’ Medicine Stock, Says MOH appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "pharmaceutical"
+      ]
+    },
     {
       "title": "Fruit And Vegetable Prices In Malaysia Set To Rise: Farmers",
       "url": "https://codeblue.galencentre.org/2026/03/fruit-and-vegetable-prices-in-malaysia-set-to-rise-farmers/",
@@ -88,18 +99,6 @@
       "keywords_matched": []
     },
     {
-      "title": "Malaysia’s Medicine Security At Risk Due To Persian Gulf Conflict",
-      "url": "https://codeblue.galencentre.org/2026/03/malaysias-medicine-security-at-risk-due-to-persian-gulf-conflict/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-19T03:40:00",
-      "summary": "Malaysia’s potential pharmaceutical vulnerability is exposed with alarming clarity. Malaysia is a net importer of pharmaceuticals. Generic medicines are often the most exposed to supply shocks. The government should establish a Health Security Agency. The post Malaysia’s Medicine Security At Risk Due To Persian Gulf Conflict appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medicine",
-        "pharmaceutical"
-      ]
-    },
-    {
       "title": "Steven Sim&#039;s special officer lodges police report over Hospital BM relocation claim",
       "url": "https://www.thestar.com.my/news/nation/2026/03/24/steven-sim039s-special-officer-lodges-police-report-over-hospital-bm-relocation-claim",
       "source": "The Star Health",
@@ -137,17 +136,6 @@
       "source": "Malay Mail",
       "published": "2026-03-23T08:07:20",
       "summary": "ALOR SETAR, March 23 — Police are obtaining further information from the hospital regarding claims that several in...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Bukit Mertajam Hospital dismisses claims of relocation to avoid disrupting temple",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/23/bukit-mertajam-hospital-dismisses-claims-of-relocation-to-avoid-disrupting-temple/213589",
-      "source": "Malay Mail",
-      "published": "2026-03-23T07:28:48",
-      "summary": "SEBERANG PERAI, March 23 — Bukit Mertajam Hospital’s Board of Visitors today dismissed allegations that the...",
       "keywords_matched": [
         "hospital",
         "hospital"
