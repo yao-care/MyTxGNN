@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-25T07:14:53.187631",
+  "fetched": "2026-03-25T08:50:41.889566",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
     {
       "title": "Malaysian Private Hospitals Still Have Medicine Supply: APHM",
@@ -110,28 +110,6 @@
       ]
     },
     {
-      "title": "Take precautions during hot weather, urges Health Ministry",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/25/take-precautions-during-hot-weather-urges-health-ministry",
-      "source": "The Star Health",
-      "published": "2026-03-25T06:47:00",
-      "summary": "PUTRAJAYA: The prolonged hot weather that is currently affecting the country can be detrimental to human health, with a spectrum of heat-related illnesses that can range from mild to severe and potentially fatal, according to the Health Ministry. Read full story",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "No medicine supply issues for private hospitals despite Middle East war",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/25/no-medicine-supply-issues-for-private-hospitals-despite-middle-east-war",
-      "source": "The Star Health",
-      "published": "2026-03-25T06:08:00",
-      "summary": "PETALING JAYA: Private hospitals in the country are not experiencing any disruptions in the supply of medications despite the ongoing conflict in the Middle East, according to the Association of Private Hospitals Malaysia (APHM). Read full story",
-      "keywords_matched": [
-        "medicine",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
       "title": "Malaysia’s private hospitals report no disruption to medicine supply despite West Asia war, says APHM",
       "url": "https://www.malaymail.com/news/malaysia/2026/03/25/malaysias-private-hospitals-report-no-disruption-to-medicine-supply-despite-west-asia-war-says-aphm/213794",
       "source": "Malay Mail",
@@ -141,16 +119,6 @@
         "medicine",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Trial run of Jalan Genting Highlands road charge system to start April 2, no payment required",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/25/trial-run-of-jalan-genting-highlands-road-charge-system-to-start-april-2-no-payment-required/213785",
-      "source": "Malay Mail",
-      "published": "2026-03-25T04:06:41",
-      "summary": "KUALA LUMPUR, March 25 — Lingkaran Cekap Sdn Bhd (LCSB), the authorised operator for Jalan Genting Highlands, will...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
