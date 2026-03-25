@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-25T21:37:51.798951",
+  "fetched": "2026-03-25T22:35:07.365560",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "How Mathematical Modelling Can Save Lives Of TB Patients",
@@ -108,6 +108,16 @@
       "published": "2026-03-20T04:29:31",
       "summary": "China has severely curbed fertiliser exports. China, which is the 2nd highest origin of Malaysia's fertiliser imports, reportedly supplied a third of Malaysia's fertiliser imports in 2025. Malaysia's local fertiliser market is also warning of disruptions. The post China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Experts: Current hot weather can worsen existing illnesses",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/26/experts-current-hot-weather-canworsen-existing-illnesses",
+      "source": "The Star Health",
+      "published": "2026-03-25T16:00:00",
+      "summary": "PETALING JAYA: Malaysia's ongoing heatwave is not just uncomfortable – it can quietly worsen existing illnesses and turn dangerous if left unchecked, health experts warn. Read full story",
+      "keywords_matched": [
+        "health"
+      ]
     }
   ]
 }
