@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-25T02:05:01.362241",
+  "fetched": "2026-03-25T04:52:42.717905",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,16 @@
   ],
   "total_items": 13,
   "items": [
+    {
+      "title": "Delay In SWE Certification, NSR Registration Process — Senior Medical Officer",
+      "url": "https://codeblue.galencentre.org/2026/03/delay-in-swe-certification-nsr-registration-process-senior-medical-officer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-25T03:30:23",
+      "summary": "We were informed by MOH's medical development division that the document verification process alone for SWE certification may take 6-8 months. Only then can candidates proceed with NSR registration, which itself may require additional processing time. The post Delay In SWE Certification, NSR Registration Process — Senior Medical Officer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Russia Halts Some Nitrogen Fertiliser Exports, Russia Is Malaysia’s Top Imported Fertiliser Origin",
       "url": "https://codeblue.galencentre.org/2026/03/russia-halts-some-nitrogen-fertiliser-exports-russia-is-malaysias-top-imported-fertiliser-origin/",
@@ -92,32 +102,23 @@
       "keywords_matched": []
     },
     {
-      "title": "Malaysian Fertiliser Producers Pause New Orders Amid Soaring Prices",
-      "url": "https://codeblue.galencentre.org/2026/03/malaysian-fertiliser-producers-pause-new-orders-amid-soaring-prices/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-19T07:23:47",
-      "summary": "Malaysian fertiliser makers Union Harvest and FGV Fertiliser have suspended new orders due to increased prices of raw materials by some 100% to 150% in just a fortnight. Experts previously warned of food price hikes in Malaysia due to fertiliser costs. The post Malaysian Fertiliser Producers Pause New Orders Amid Soaring Prices appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Building a more inclusive future in healthcare",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/25/building-a-more-inclusive-future-in-healthcare",
+      "title": "15 heat-related cases, one child death reported nationwide",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/25/15-heat-related-cases-one-child-death-reported-nationwide",
       "source": "The Star Health",
-      "published": "2026-03-24T23:30:00",
-      "summary": "As healthcare continues to evolve, women are emerging as powerful forces of change within the field. From the bedside to the laboratory and from research initiatives to health policy, they bring compassion, vision and leadership that make medical care more inclusive. Read full story",
+      "published": "2026-03-25T04:37:00",
+      "summary": "PETALING JAYA: A total of 15 heat-related cases, including one death, have been reported nationwide this year, says the Health Ministry. Read full story",
       "keywords_matched": [
-        "health",
-        "medical"
+        "health"
       ]
     },
     {
-      "title": "Suspected shooter and victim have criminal past",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/25/suspected-shooter-and-victim-have-criminal-past",
-      "source": "The Star Health",
-      "published": "2026-03-24T16:00:00",
-      "summary": "KULIM: The suspect in the shooting at Kampung Permatang Durian, Seberang Paya, Padang Serai, on March 21 has 13 prior criminal and drug-related convictions. Read full story",
+      "title": "Trial run of Jalan Genting Highlands road charge system to start April 2, no payment required",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/25/trial-run-of-jalan-genting-highlands-road-charge-system-to-start-april-2-no-payment-required/213785",
+      "source": "Malay Mail",
+      "published": "2026-03-25T04:06:41",
+      "summary": "KUALA LUMPUR, March 25 — Lingkaran Cekap Sdn Bhd (LCSB), the authorised operator for Jalan Genting Highlands, will...",
       "keywords_matched": [
-        "drug"
+        "trial"
       ]
     },
     {
