@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-25T04:52:42.717905",
+  "fetched": "2026-03-25T05:59:44.202372",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,18 @@
   ],
   "total_items": 13,
   "items": [
+    {
+      "title": "Only Two MRI Machines At HKL — Patient",
+      "url": "https://codeblue.galencentre.org/2026/03/only-two-mri-machines-at-hkl-patient/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-25T05:49:28",
+      "summary": "A patient says HKL only has two MRI machines that can handle 25 patients maximum daily, but more than 40 patients are given appointments in a day. HKL outsourced patients to private hospitals last year for MRI tests, but this wasn't done this year. The post Only Two MRI Machines At HKL — Patient appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "patient",
+        "hospital"
+      ]
+    },
     {
       "title": "Delay In SWE Certification, NSR Registration Process — Senior Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/03/delay-in-swe-certification-nsr-registration-process-senior-medical-officer/",
@@ -94,14 +106,6 @@
       ]
     },
     {
-      "title": "Balik Kampung: From Family Duty To National Elder Care Policy",
-      "url": "https://codeblue.galencentre.org/2026/03/balik-kampung-from-family-duty-to-national-elder-care-policy/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-19T07:30:00",
-      "summary": "When families gather after the Eid prayer, when grandchildren run through the house, and when adult children sit beside their ageing parents, something deeply meaningful is restored. These moments reaffirm bonds that modern life often strains. The post Balik Kampung: From Family Duty To National Elder Care Policy appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
       "title": "15 heat-related cases, one child death reported nationwide",
       "url": "https://www.thestar.com.my/news/nation/2026/03/25/15-heat-related-cases-one-child-death-reported-nationwide",
       "source": "The Star Health",
@@ -112,6 +116,18 @@
       ]
     },
     {
+      "title": "Malaysia’s private hospitals report no disruption to medicine supply despite West Asia war, says APHM",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/25/malaysias-private-hospitals-report-no-disruption-to-medicine-supply-despite-west-asia-war-says-aphm/213794",
+      "source": "Malay Mail",
+      "published": "2026-03-25T05:39:40",
+      "summary": "KUALA LUMPUR, March 25 — Medicine supply in private hospitals across the country remains stable amid the war in We...",
+      "keywords_matched": [
+        "medicine",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
       "title": "Trial run of Jalan Genting Highlands road charge system to start April 2, no payment required",
       "url": "https://www.malaymail.com/news/malaysia/2026/03/25/trial-run-of-jalan-genting-highlands-road-charge-system-to-start-april-2-no-payment-required/213785",
       "source": "Malay Mail",
@@ -119,16 +135,6 @@
       "summary": "KUALA LUMPUR, March 25 — Lingkaran Cekap Sdn Bhd (LCSB), the authorised operator for Jalan Genting Highlands, will...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "From sunburn to stroke — experts warn heatwave packs more than discomfort",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/24/from-sunburn-to-stroke-experts-warn-heatwave-packs-more-than-discomfort/213726",
-      "source": "Malay Mail",
-      "published": "2026-03-24T12:22:07",
-      "summary": "KUALA LUMPUR, March 24 — The heatwave currently affecting the country not only increases health risks but may also...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
