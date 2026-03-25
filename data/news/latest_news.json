@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-24T23:31:08.834173",
+  "fetched": "2026-03-25T02:05:01.362241",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Russia Halts Some Nitrogen Fertiliser Exports, Russia Is Malaysia’s Top Imported Fertiliser Origin",
+      "url": "https://codeblue.galencentre.org/2026/03/russia-halts-some-nitrogen-fertiliser-exports-russia-is-malaysias-top-imported-fertiliser-origin/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-25T02:00:00",
+      "summary": "Russia has suspended ammonium nitrate fertiliser exports until April 21, after China similarly curbed fertiliser exports. Russia and China are Malaysia's two biggest sources of imported fertilisers. KPKM has yet to address Malaysia's fertiliser situation. The post Russia Halts Some Nitrogen Fertiliser Exports, Russia Is Malaysia’s Top Imported Fertiliser Origin appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Understanding The UK Meningitis B Outbreak — Dr Musa Mohd Nordin, Dr Husna Musa & Dr Zulkifli Ismail",
       "url": "https://codeblue.galencentre.org/2026/03/understanding-the-uk-meningitis-b-outbreak-dr-musa-mohd-nordin-dr-husna-musa-dr-zulkifli-ismail/",
@@ -92,24 +100,24 @@
       "keywords_matched": []
     },
     {
-      "title": "Tobacco/Vape Industry’s Pivot To Religious Authorities A Public Health Concern — Fahmi Hassan",
-      "url": "https://codeblue.galencentre.org/2026/03/tobacco-vape-industrys-pivot-to-religious-authorities-a-public-health-concern-fahmi-hassan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-19T06:34:29",
-      "summary": "The tobacco industry's meeting with a religious office is very alarming. Having faced firm resistance from health authorities, the industry is searching for new avenues of validation. Heated tobacco products and vapes remain harmful. The post Tobacco/Vape Industry’s Pivot To Religious Authorities A Public Health Concern — Fahmi Hassan appeared first on CodeBlue .",
+      "title": "Building a more inclusive future in healthcare",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/25/building-a-more-inclusive-future-in-healthcare",
+      "source": "The Star Health",
+      "published": "2026-03-24T23:30:00",
+      "summary": "As healthcare continues to evolve, women are emerging as powerful forces of change within the field. From the bedside to the laboratory and from research initiatives to health policy, they bring compassion, vision and leadership that make medical care more inclusive. Read full story",
       "keywords_matched": [
-        "health"
+        "health",
+        "medical"
       ]
     },
     {
-      "title": "Pushbike therapy for kids with health issues",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/25/pushbike-therapy-for-kids-with-health-issues",
+      "title": "Suspected shooter and victim have criminal past",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/25/suspected-shooter-and-victim-have-criminal-past",
       "source": "The Star Health",
       "published": "2026-03-24T16:00:00",
-      "summary": "KUALA LUMPUR: For many children, riding a pushbike is simply a fun recreational activity. Read full story",
+      "summary": "KULIM: The suspect in the shooting at Kampung Permatang Durian, Seberang Paya, Padang Serai, on March 21 has 13 prior criminal and drug-related convictions. Read full story",
       "keywords_matched": [
-        "health",
-        "therapy"
+        "drug"
       ]
     },
     {
