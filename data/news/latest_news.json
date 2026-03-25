@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-25T08:50:41.889566",
+  "fetched": "2026-03-25T09:52:54.087764",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "How Mathematical Modelling Can Save Lives Of TB Patients",
+      "url": "https://codeblue.galencentre.org/2026/03/how-mathematical-modelling-can-save-lives-of-tb-patients/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-25T09:14:18",
+      "summary": "By using real world data, mathematical models can help policymakers reach patients who would benefit most from an intervention, and better identify their needs. The post How Mathematical Modelling Can Save Lives Of TB Patients appeared first on CodeBlue .",
+      "keywords_matched": [
+        "patient"
+      ]
+    },
     {
       "title": "Malaysian Private Hospitals Still Have Medicine Supply: APHM",
       "url": "https://codeblue.galencentre.org/2026/03/malaysian-private-hospitals-still-have-medicine-supply-aphm/",
@@ -98,28 +108,6 @@
       "published": "2026-03-20T04:29:31",
       "summary": "China has severely curbed fertiliser exports. China, which is the 2nd highest origin of Malaysia's fertiliser imports, reportedly supplied a third of Malaysia's fertiliser imports in 2025. Malaysia's local fertiliser market is also warning of disruptions. The post China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Review SSPA Structure, Trained Paramedics Still At U1 Grade — Coalition Of Three Paramedic Schemes",
-      "url": "https://codeblue.galencentre.org/2026/03/review-sspa-structure-trained-paramedics-still-at-u1-grade-coalition-of-three-paramedic-schemes/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-19T08:26:46",
-      "summary": "An upgrade of the clerical service scheme from Grade 1 to Grade 5 has raised concerns among paramedics in MOH, as this wasn't extended to certain health care support schemes, namely Public Health Assistants, Community Nurses, and Dental Surgery Assistants. The post Review SSPA Structure, Trained Paramedics Still At U1 Grade — Coalition Of Three Paramedic Schemes appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Malaysia’s private hospitals report no disruption to medicine supply despite West Asia war, says APHM",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/25/malaysias-private-hospitals-report-no-disruption-to-medicine-supply-despite-west-asia-war-says-aphm/213794",
-      "source": "Malay Mail",
-      "published": "2026-03-25T05:39:40",
-      "summary": "KUALA LUMPUR, March 25 — Medicine supply in private hospitals across the country remains stable amid the war in We...",
-      "keywords_matched": [
-        "medicine",
-        "hospital",
-        "hospital"
-      ]
     }
   ]
 }
