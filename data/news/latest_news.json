@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-25T05:59:44.202372",
+  "fetched": "2026-03-25T07:14:53.187631",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,22 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Malaysian Private Hospitals Still Have Medicine Supply: APHM",
+      "url": "https://codeblue.galencentre.org/2026/03/malaysian-private-hospitals-still-have-medicine-supply-aphm/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-25T07:03:40",
+      "summary": "APHM says private hospitals in Malaysia have yet to face drug supply disruptions, adding that it will monitor any indications of a significant increase in the cost of medicines and medical consumables that may arise during the West Asia conflict. The post Malaysian Private Hospitals Still Have Medicine Supply: APHM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "medicine",
+        "drug",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Only Two MRI Machines At HKL — Patient",
       "url": "https://codeblue.galencentre.org/2026/03/only-two-mri-machines-at-hkl-patient/",
@@ -96,23 +110,25 @@
       ]
     },
     {
-      "title": "Anti-Tobacco Groups Slam FT Mufti Office’s Meeting With Tobacco Company",
-      "url": "https://codeblue.galencentre.org/2026/03/anti-tobacco-groups-slam-ft-mufti-offices-meeting-with-tobacco-company/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-19T07:56:30",
-      "summary": "Anti-tobacco groups brand Philip Morris' visit to the FT Mufti's Office as breaching Article 5.3 of WHO FCTC that requires protection of public health policies from tobacco industry interference. Public officials should avoid such unnecessary engagement. The post Anti-Tobacco Groups Slam FT Mufti Office’s Meeting With Tobacco Company appeared first on CodeBlue .",
+      "title": "Take precautions during hot weather, urges Health Ministry",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/25/take-precautions-during-hot-weather-urges-health-ministry",
+      "source": "The Star Health",
+      "published": "2026-03-25T06:47:00",
+      "summary": "PUTRAJAYA: The prolonged hot weather that is currently affecting the country can be detrimental to human health, with a spectrum of heat-related illnesses that can range from mild to severe and potentially fatal, according to the Health Ministry. Read full story",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "15 heat-related cases, one child death reported nationwide",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/25/15-heat-related-cases-one-child-death-reported-nationwide",
+      "title": "No medicine supply issues for private hospitals despite Middle East war",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/25/no-medicine-supply-issues-for-private-hospitals-despite-middle-east-war",
       "source": "The Star Health",
-      "published": "2026-03-25T04:37:00",
-      "summary": "PETALING JAYA: A total of 15 heat-related cases, including one death, have been reported nationwide this year, says the Health Ministry. Read full story",
+      "published": "2026-03-25T06:08:00",
+      "summary": "PETALING JAYA: Private hospitals in the country are not experiencing any disruptions in the supply of medications despite the ongoing conflict in the Middle East, according to the Association of Private Hospitals Malaysia (APHM). Read full story",
       "keywords_matched": [
-        "health"
+        "medicine",
+        "hospital",
+        "hospital"
       ]
     },
     {
