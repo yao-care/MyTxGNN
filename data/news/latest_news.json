@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-25T23:33:25.283546",
+  "fetched": "2026-03-26T02:10:35.889421",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,20 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Imbalanced Medical Officer Distribution Between Segamat Hospital And Klinik Kesihatan — Medical Officer",
+      "url": "https://codeblue.galencentre.org/2026/03/imbalanced-medical-officer-distribution-between-segamat-hospital-and-klinik-kesihatan-medical-officer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-26T02:00:00",
+      "summary": "A doctor highlights a maldistribution of MOs between Segamat Hospital and KKs that's putting tremendous pressure on Segamat Hospital's emergency unit with only 13 MOs (set to drop to 11 due to resignations). MOs in emergency work 12-14 hours almost daily. The post Imbalanced Medical Officer Distribution Between Segamat Hospital And Klinik Kesihatan — Medical Officer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "doctor",
+        "kesihatan",
+        "hospital"
+      ]
+    },
     {
       "title": "How Mathematical Modelling Can Save Lives Of TB Patients",
       "url": "https://codeblue.galencentre.org/2026/03/how-mathematical-modelling-can-save-lives-of-tb-patients/",
@@ -102,21 +116,13 @@
       "keywords_matched": []
     },
     {
-      "title": "China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers",
-      "url": "https://codeblue.galencentre.org/2026/03/china-curbs-fertiliser-exports-chinese-supplies-comprise-third-of-malaysias-imported-fertilisers/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-20T04:29:31",
-      "summary": "China has severely curbed fertiliser exports. China, which is the 2nd highest origin of Malaysia's fertiliser imports, reportedly supplied a third of Malaysia's fertiliser imports in 2025. Malaysia's local fertiliser market is also warning of disruptions. The post China Curbs Fertiliser Exports, Chinese Supplies Comprise Third Of Malaysia’s Imported Fertilisers appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Plan outdoor activities outside peak heat hours, says ministry",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/26/plan-outdoor-activities-outside-peak-heat-hours-says-ministry",
+      "title": "Burst pipes, unstable pressure cause water supply disruptions in Kampung Tanah Putih",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/26/burst-pipes-unstable-pressure-cause-water-supply-disruptions-in-kampung-tanah-putih",
       "source": "The Star Health",
-      "published": "2026-03-25T16:00:00",
-      "summary": "PETALING JAYA: The Health Ministry has advised the public to plan Hari Raya visits and outdoor activities outside peak heat hours between 11am and 4pm, and to drink plenty of plain water even when not thirsty, as temperatures continue to rise. Read full story",
+      "published": "2026-03-26T00:37:00",
+      "summary": "GUA MUSANG: Residents of Kampung Tanah Putih here have been experiencing water supply disruptions, attributed to unstable pressure at the water treatment plant as well as the frequent bursting of main pipes. Read full story",
       "keywords_matched": [
-        "health"
+        "treatment"
       ]
     }
   ]
