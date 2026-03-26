@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-26T11:48:33.301808",
+  "fetched": "2026-03-26T13:13:14.691146",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -115,6 +115,16 @@
       ]
     },
     {
+      "title": "Baru Bian threatens lawsuit over ‘baseless’ Facebook allegations linking him to drugs, corruption",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/26/baru-bian-threatens-lawsuit-over-baseless-facebook-allegations-linking-him-to-drugs-corruption/214027",
+      "source": "Malay Mail",
+      "published": "2026-03-26T11:56:32",
+      "summary": "MIRI, March 26 — Ba Kelalan assemblyman Baru Bian has threatened legal action against the administrator of a Faceb...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "Penang Health Dept inspects Lorong Pitt eatery over alleged cockroach leg in dish",
       "url": "https://www.malaymail.com/news/malaysia/2026/03/26/penang-health-dept-inspects-lorong-pitt-eatery-over-alleged-cockroach-leg-in-dish/214015",
       "source": "Malay Mail",
@@ -122,17 +132,6 @@
       "summary": "GEORGE TOWN, March 26 — The Penang Health Department (JKNPP) has investigated a well-known food outlet in Lorong P...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Warisan leaders flag urgent concerns over critical state of Queen Elizabeth Hospital in Kota Kinabalu",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/26/warisan-leaders-flag-urgent-concerns-over-critical-state-of-queen-elizabeth-hospital-in-kota-kinabalu/214004",
-      "source": "Malay Mail",
-      "published": "2026-03-26T09:40:35",
-      "summary": "KOTA KINABALU, March 26 — Parti Warisan has called for immediate attention to Queen Elizabeth Hospital (QEH1), war...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
