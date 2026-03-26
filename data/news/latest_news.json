@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-26T02:10:35.889421",
+  "fetched": "2026-03-26T05:04:54.887373",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Dzulkefly Highlights ‘Extremely Critical’ Cardiologist Shortage In Sabah",
+      "url": "https://codeblue.galencentre.org/2026/03/dzulkefly-highlights-extremely-critical-cardiologist-shortage-in-sabah/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-26T03:30:00",
+      "summary": "Sabah has 8 cardiologists (3 in HQE II and 5 in private), resulting in a 1:467,500 cardiologist to population ratio, which Dr Dzul described as \"very critical\" compared to the 1:35,000 target ratio. Ratio is 1:1,246,667 if only MOH cardiologists counted. The post Dzulkefly Highlights ‘Extremely Critical’ Cardiologist Shortage In Sabah appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Imbalanced Medical Officer Distribution Between Segamat Hospital And Klinik Kesihatan — Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/03/imbalanced-medical-officer-distribution-between-segamat-hospital-and-klinik-kesihatan-medical-officer/",
@@ -108,21 +116,15 @@
       "keywords_matched": []
     },
     {
-      "title": "Malaysia Vulnerable To Fertiliser Import Disruptions, Says RSIS",
-      "url": "https://codeblue.galencentre.org/2026/03/malaysia-vulnerable-to-fertiliser-import-disruptions-says-rsis/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-24T02:00:00",
-      "summary": "RSIS says Malaysia is vulnerable to fertiliser import disruption from the Iran war as Malaysia’s domestic fertiliser production can only meet 39% of annual fertiliser use. Second wave impact is LNG trade disruption; LNG is a critical input to produce urea. The post Malaysia Vulnerable To Fertiliser Import Disruptions, Says RSIS appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Burst pipes, unstable pressure cause water supply disruptions in Kampung Tanah Putih",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/26/burst-pipes-unstable-pressure-cause-water-supply-disruptions-in-kampung-tanah-putih",
+      "title": "Heritage nurses’ quarters to become new Anjung Kasih for SGH Families",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/26/heritage-nurses-quarters-to-become-new-anjung-kasih-for-sgh-families",
       "source": "The Star Health",
-      "published": "2026-03-26T00:37:00",
-      "summary": "GUA MUSANG: Residents of Kampung Tanah Putih here have been experiencing water supply disruptions, attributed to unstable pressure at the water treatment plant as well as the frequent bursting of main pipes. Read full story",
+      "published": "2026-03-26T04:52:00",
+      "summary": "KUCHING: The former nurses' quarters here will be redeveloped into a new Anjung Kasih facility to support families of patients at Sarawak General Hospital (SGH), says Datuk Seri Nancy Shukri. Read full story",
       "keywords_matched": [
-        "treatment"
+        "hospital",
+        "patient",
+        "hospital"
       ]
     }
   ]
