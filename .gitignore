@@ -65,7 +65,5 @@ credentials.json
 /data/cache/*
 !/data/cache/.gitkeep
 !/data/news/
-!/data/processed/
-!/data/external/
 model_ckpt/
 .venv/

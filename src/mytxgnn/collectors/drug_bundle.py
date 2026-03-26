@@ -8,6 +8,8 @@ from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
 
+import pandas as pd
+
 
 @dataclass
 class CollectionStatus:
@@ -93,6 +95,9 @@ class DrugBundle:
     drug: DrugCandidate
     # Drug-level data (collected once)
     npra: dict = field(default_factory=lambda: {"found": False, "records": []})
+    safety: dict = field(
+        default_factory=lambda: {"label_sources": [], "key_warnings": [], "ddi": []}
+    )
     drugbank: dict = field(default_factory=lambda: {"found": False})
     # Collection status tracking
     collection_log: list[CollectionStatus] = field(default_factory=list)
@@ -111,6 +116,7 @@ class DrugBundle:
         return {
             "drug": self.drug.to_dict(),
             "npra": self.npra,
+            "safety": self.safety,
             "drugbank": self.drugbank,
             "collection_log": [cs.to_dict() for cs in self.collection_log],
             "metadata": self.metadata,
@@ -166,6 +172,7 @@ class DrugBundle:
         return cls(
             drug=drug,
             npra=data.get("npra", {"found": False, "records": []}),
+            safety=data.get("safety", {"label_sources": [], "key_warnings": [], "ddi": []}),
             drugbank=data.get("drugbank", {"found": False}),
             collection_log=collection_log,
             metadata=data.get("metadata", {}),
@@ -195,6 +202,70 @@ class DrugBundle:
                 f"| {pi.disease_name} | {score} | {trials} | {articles} | {level} |"
             )
         return "\n".join(lines)
+
+
+def load_predictions_for_drug(
+    drug_name: str,
+    predictions_path: str | Path | None = None,
+    top_n: int = 10,
+    min_score: float = 0.99,
+) -> list[PredictedIndication]:
+    """Load predicted indications for a specific drug from predictions CSV.
+
+    Args:
+        drug_name: Drug name (INN)
+        predictions_path: Path to predictions CSV. If None, uses default.
+        top_n: Maximum number of predictions to return
+        min_score: Minimum TxGNN score threshold
+
+    Returns:
+        List of PredictedIndication objects
+    """
+    from ..paths import get_data_dir
+    from .known_relations import KnownRelationsChecker
+
+    if predictions_path is None:
+        predictions_path = get_data_dir() / "processed" / "txgnn_dl_predictions.csv.gz"
+
+    predictions_path = Path(predictions_path)
+    if not predictions_path.exists():
+        return []
+
+    df = pd.read_csv(predictions_path)
+
+    # Filter by drug name (case-insensitive)
+    drug_df = df[df["drug_name"].str.lower() == drug_name.lower()]
+
+    # Filter by score
+    drug_df = drug_df[drug_df["txgnn_score"] >= min_score]
+
+    # Sort by score descending
+    drug_df = drug_df.sort_values("txgnn_score", ascending=False)
+
+    # Check known relations
+    checker = KnownRelationsChecker()
+    results = []
+
+    for _, row in drug_df.iterrows():
+        disease = row["潛在新適應症"]
+
+        # Skip known indications/contraindications
+        if not checker.is_novel(drug_name, disease):
+            continue
+
+        results.append(
+            PredictedIndication(
+                disease_name=disease,
+                kg_score=row["txgnn_score"],
+                kg_rank=row.get("rank"),
+            )
+        )
+
+        # top_n <= 0 means no limit
+        if top_n > 0 and len(results) >= top_n:
+            break
+
+    return results
 
 
 class DrugBundleAggregator:
@@ -398,16 +469,18 @@ class DrugBundleAggregator:
         self,
         drug_name: str,
         drugbank_id: str | None = None,
-        indications: list[str] | None = None,
-        kg_scores: dict[str, float] | None = None,
+        top_n: int = 10,
+        min_score: float = 0.99,
+        predictions_path: str | Path | None = None,
     ) -> DrugBundle:
         """Collect all evidence for a drug with its predicted indications.
 
         Args:
-            drug_name: Drug name
+            drug_name: Drug name (INN)
             drugbank_id: Optional DrugBank ID
-            indications: List of indication names to collect evidence for
-            kg_scores: Optional dict of indication -> KG score
+            top_n: Maximum number of predicted indications to include
+            min_score: Minimum TxGNN score threshold
+            predictions_path: Optional path to predictions CSV
 
         Returns:
             DrugBundle with all collected evidence
@@ -415,26 +488,32 @@ class DrugBundleAggregator:
         # Clear collection log for this run
         self._collection_log = []
 
-        # Step 1: Collect drug-level data once
+        # Step 1: Load predicted indications
+        predicted_indications = load_predictions_for_drug(
+            drug_name=drug_name,
+            predictions_path=predictions_path,
+            top_n=top_n,
+            min_score=min_score,
+        )
+
+        # Step 2: Collect drug-level data once
         npra_data, drugbank_data = self.collect_drug_level_data(drug_name)
 
-        # Use DrugBank ID from data if not provided
-        if not drugbank_id and drugbank_data.get("found"):
-            drugbank_id = drugbank_data.get("drugbank_id")
+        # Extract original indications from NPRA
+        original_indications = []
+        original_moa = None
 
-        # Get MOA from DrugBank
-        original_moa = drugbank_data.get("mechanism_of_action") if drugbank_data.get("found") else None
+        if npra_data.get("found") and npra_data.get("records"):
+            for record in npra_data["records"]:
+                indication = record.get("indication")
+                if indication:
+                    original_indications.append(indication)
 
-        # Step 2: Build predicted indications
-        predicted_indications = []
-        if indications:
-            for i, disease in enumerate(indications):
-                pi = PredictedIndication(
-                    disease_name=disease,
-                    kg_score=kg_scores.get(disease) if kg_scores else None,
-                    kg_rank=i + 1,
-                )
-                predicted_indications.append(pi)
+        # Extract MOA and DrugBank ID from DrugBank data
+        if drugbank_data.get("found"):
+            original_moa = drugbank_data.get("mechanism_of_action")
+            if not drugbank_id:
+                drugbank_id = drugbank_data.get("drugbank_id")
 
         # Step 3: Collect disease-specific data for each indication
         for indication in predicted_indications:
@@ -444,7 +523,7 @@ class DrugBundleAggregator:
         drug = DrugCandidate(
             name=drug_name,
             drugbank_id=drugbank_id,
-            original_indications=[],  # Could be extracted from NPRA if available
+            original_indications=list(set(original_indications)),
             original_moa=original_moa,
             predicted_indications=predicted_indications,
         )
@@ -452,11 +531,13 @@ class DrugBundleAggregator:
         bundle = DrugBundle(
             drug=drug,
             npra=npra_data,
+            safety={"label_sources": [], "key_warnings": [], "ddi": []},
             drugbank=drugbank_data,
             collection_log=self._collection_log.copy(),
             metadata={
-                "indications_requested": len(indications) if indications else 0,
-                "indications_processed": len(predicted_indications),
+                "top_n": top_n,
+                "min_score": min_score,
+                "indications_found": len(predicted_indications),
             },
         )
 

@@ -1,27 +1,26 @@
 #!/usr/bin/env python3
 """Batch collect drug bundles (without LLM calls).
 
-This script collects drug bundles for multiple drugs.
+This script collects drug bundles including DDI data for multiple drugs.
 It does NOT require an API key since it only collects data, no LLM generation.
-Claude will analyze the bundles later during conversation.
 
 Usage:
     # Collect top 10 drugs by prediction count
-    uv run python scripts/batch_collect_bundles.py --limit 10
+    python scripts/batch_collect_bundles.py --limit 10
 
     # Collect specific drugs
-    uv run python scripts/batch_collect_bundles.py --drugs "Prednisolone,Metformin"
+    python scripts/batch_collect_bundles.py --drugs "Warfarin,Minoxidil,Aspirin"
 
-    # Collect all drugs
-    uv run python scripts/batch_collect_bundles.py --all --limit 100
+    # Collect all drugs with high-confidence predictions
+    python scripts/batch_collect_bundles.py --all --min-score 0.99
 
-    # Skip existing bundles
-    uv run python scripts/batch_collect_bundles.py --limit 50 --skip-existing
+    # Parallel processing with offset (for running multiple instances)
+    python scripts/batch_collect_bundles.py --all --offset 0 --limit 100 --skip-existing
+    python scripts/batch_collect_bundles.py --all --offset 100 --limit 100 --skip-existing
 """
 
 import argparse
 import json
-import re
 import sys
 import time
 from pathlib import Path
@@ -29,90 +28,103 @@ from pathlib import Path
 # Add src to path
 sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
+import pandas as pd
 from mytxgnn.collectors import DrugBundleAggregator
 from mytxgnn.paths import get_bundles_dir, slugify
 
 
-def load_drug_list(drugs_dir: Path) -> list[dict]:
-    """Load drug list from _drugs collection."""
-    drugs = []
+def get_prediction_drugs(
+    predictions_path: Path | None = None,
+    min_score: float = 0.99,
+    offset: int = 0,
+    limit: int | None = None,
+) -> list[dict]:
+    """Get list of drugs with predictions, sorted by prediction count."""
+    if predictions_path is None:
+        predictions_path = Path("data/processed/txgnn_dl_predictions.csv.gz")
 
-    for drug_file in sorted(drugs_dir.glob("*.md")):
-        content = drug_file.read_text(encoding="utf-8")
+    df = pd.read_csv(predictions_path)
 
-        if not content.startswith("---"):
-            continue
+    # Filter by score
+    df = df[df["txgnn_score"] >= min_score]
 
-        parts = content.split("---", 2)
-        if len(parts) < 3:
-            continue
+    # Group by drug and count predictions
+    drug_stats = df.groupby("drug_name").agg({
+        "txgnn_score": ["count", "max", "mean"]
+    }).reset_index()
+    drug_stats.columns = ["drug_name", "prediction_count", "max_score", "mean_score"]
+    drug_stats = drug_stats.sort_values("prediction_count", ascending=False)
 
-        front_matter = parts[1]
-        body = parts[2]
+    # Apply offset
+    if offset > 0:
+        drug_stats = drug_stats.iloc[offset:]
 
-        # Parse front matter
-        drug = {"file": drug_file}
-        for line in front_matter.split("\n"):
-            if line.startswith("title:"):
-                drug["name"] = line.split(":", 1)[1].strip().strip('"')
-            elif line.startswith("drugbank_id:"):
-                drug["drugbank_id"] = line.split(":", 1)[1].strip().strip('"')
-            elif line.startswith("kg_predictions:"):
-                drug["kg_predictions"] = int(line.split(":", 1)[1].strip())
-            elif line.startswith("evidence_level:"):
-                drug["evidence_level"] = line.split(":", 1)[1].strip().strip('"')
+    # Apply limit
+    if limit:
+        drug_stats = drug_stats.head(limit)
 
-        # Extract top indications from body
-        drug["indications"] = extract_top_indications(body)
-
-        if "name" in drug:
-            drugs.append(drug)
-
-    return drugs
+    return drug_stats.to_dict("records")
 
 
-def extract_top_indications(content: str, max_indications: int = 5) -> list[str]:
-    """Extract top predicted indications from drug page content."""
-    indications = []
+def get_mapping_drugs(
+    mapping_path: Path | None = None,
+    offset: int = 0,
+    limit: int | None = None,
+) -> list[dict]:
+    """Get list of unique mapped drugs from drug_mapping.csv."""
+    if mapping_path is None:
+        mapping_path = Path("data/processed/drug_mapping.csv")
 
-    # Look for "Top KG Predictions" table
-    table_match = re.search(
-        r'### Top KG Predictions.*?\n\|.*?\n\|[-|\s]+\n(.*?)(?=\n---|\n##|\Z)',
-        content,
-        re.DOTALL
-    )
+    df = pd.read_csv(mapping_path)
 
-    if table_match:
-        rows = table_match.group(1).strip().split("\n")
-        for row in rows[:max_indications]:
-            # Extract indication from table row: | indication | source |
-            parts = row.split("|")
-            if len(parts) >= 2:
-                indication = parts[1].strip()
-                # Clean up indication name
-                indication = re.sub(r'\s*\(disease\)\s*', '', indication)
-                indication = re.sub(r'\s*\(disorder\)\s*', '', indication)
-                if indication:
-                    indications.append(indication)
+    # Find the success column (映射成功 or mapping_success)
+    success_col = None
+    for col in ["mapping_success", "映射成功"]:
+        if col in df.columns:
+            success_col = col
+            break
 
-    return indications
+    # Find the ingredient column
+    ingredient_col = None
+    for col in ["normalized_ingredient", "標準化成分", "drug_ingredient"]:
+        if col in df.columns:
+            ingredient_col = col
+            break
+
+    if success_col and ingredient_col:
+        df = df[df[success_col] == True]
+        drugs = df[ingredient_col].dropna().unique()
+    else:
+        # Fallback: use drugbank_id mapped rows
+        df = df[df["drugbank_id"].notna()]
+        for col in ["normalized_ingredient", "標準化成分", "drug_ingredient", "ingredient"]:
+            if col in df.columns:
+                drugs = df[col].dropna().unique()
+                break
+        else:
+            drugs = []
+
+    drug_list = [{"drug_name": d} for d in sorted(drugs)]
+
+    if offset > 0:
+        drug_list = drug_list[offset:]
+    if limit:
+        drug_list = drug_list[:limit]
+
+    return drug_list
 
 
-def collect_single_drug(
-    drug: dict,
-    aggregator: DrugBundleAggregator,
-    delay: float = 1.0,
-) -> dict:
+def collect_single_drug(drug_name: str, top_n: int = 10, min_score: float = 0.99) -> dict:
     """Collect bundle for a single drug.
 
     Returns:
-        dict with status, bundle_path, indication_count, error
+        dict with status, bundle_path, ddi_count, indication_count, error
     """
     result = {
-        "drug": drug["name"],
-        "drugbank_id": drug.get("drugbank_id"),
+        "drug": drug_name,
         "status": "pending",
         "bundle_path": None,
+        "ddi_count": 0,
         "indication_count": 0,
         "error": None,
         "duration_seconds": 0,
@@ -121,39 +133,26 @@ def collect_single_drug(
     start_time = time.time()
 
     try:
-        # Collect bundle
+        aggregator = DrugBundleAggregator(save_collected=True)
         bundle = aggregator.collect(
-            drug_name=drug["name"],
-            drugbank_id=drug.get("drugbank_id"),
-            indications=drug.get("indications", []),
+            drug_name=drug_name,
+            top_n=top_n,
+            min_score=min_score,
         )
 
         # Save bundle
         bundle_path = bundle.save()
 
         # Get stats
+        ddi_count = len(bundle.safety.get("ddi", []))
         indication_count = len(bundle.drug.predicted_indications)
-        total_trials = sum(
-            len(pi.clinical_trials) + len(pi.ictrp_trials)
-            for pi in bundle.drug.predicted_indications
-        )
-        total_articles = sum(
-            len(pi.pubmed_articles)
-            for pi in bundle.drug.predicted_indications
-        )
 
         result.update({
             "status": "success",
             "bundle_path": str(bundle_path),
+            "ddi_count": ddi_count,
             "indication_count": indication_count,
-            "total_trials": total_trials,
-            "total_articles": total_articles,
-            "npra_found": bundle.npra.get("found", False),
-            "npra_count": len(bundle.npra.get("records", [])),
         })
-
-        # Add delay between drugs to be nice to APIs
-        time.sleep(delay)
 
     except Exception as e:
         result.update({
@@ -169,47 +168,26 @@ def main():
     parser = argparse.ArgumentParser(description="Batch collect drug bundles")
     parser.add_argument("--drugs", type=str, help="Comma-separated list of drug names")
     parser.add_argument("--limit", type=int, help="Limit number of drugs to process")
-    parser.add_argument("--offset", type=int, default=0, help="Start offset")
-    parser.add_argument("--all", action="store_true", help="Process all drugs")
-    parser.add_argument("--delay", type=float, default=1.0, help="Delay between drugs (seconds)")
+    parser.add_argument("--offset", type=int, default=0, help="Start offset (for parallel processing)")
+    parser.add_argument("--all", action="store_true", help="Process all drugs with predictions")
+    parser.add_argument("--min-score", type=float, default=0.99, help="Minimum TxGNN score")
+    parser.add_argument("--top-n", type=int, default=10, help="Top N predictions per drug")
     parser.add_argument("--output", type=str, help="Output JSON file for results")
     parser.add_argument("--skip-existing", action="store_true", help="Skip drugs with existing bundles")
-    parser.add_argument("--max-indications", type=int, default=5, help="Max indications per drug")
+    parser.add_argument("--from-mapping", action="store_true", help="Get drugs from drug_mapping.csv instead of DL predictions")
 
     args = parser.parse_args()
 
-    print("=" * 60)
-    print("Batch Drug Bundle Collection")
-    print("=" * 60)
-
-    base_dir = Path(__file__).parent.parent
-    drugs_dir = base_dir / "docs" / "_drugs"
-
-    # Load drugs
-    print("\n1. Loading drug list...")
-    all_drugs = load_drug_list(drugs_dir)
-    print(f"   Found {len(all_drugs)} drugs")
-
-    # Filter by specific drugs if requested
+    # Get drug list
     if args.drugs:
-        drug_names = [d.strip().lower() for d in args.drugs.split(",")]
-        drugs = [d for d in all_drugs if d["name"].lower() in drug_names]
-        if not drugs:
-            print(f"   No matching drugs found for: {args.drugs}")
-            return
+        drugs = [{"drug_name": d.strip()} for d in args.drugs.split(",")]
+    elif args.from_mapping:
+        drugs = get_mapping_drugs(offset=args.offset, limit=args.limit)
+    elif args.all or args.limit:
+        drugs = get_prediction_drugs(min_score=args.min_score, offset=args.offset, limit=args.limit)
     else:
-        drugs = all_drugs
-
-    # Sort by prediction count (prioritize drugs with more predictions)
-    drugs.sort(key=lambda d: d.get("kg_predictions", 0), reverse=True)
-
-    # Apply offset
-    if args.offset > 0:
-        drugs = drugs[args.offset:]
-
-    # Apply limit
-    if args.limit:
-        drugs = drugs[:args.limit]
+        print("Please specify --drugs, --limit, or --all")
+        sys.exit(1)
 
     # Filter out existing bundles if requested
     if args.skip_existing:
@@ -217,70 +195,47 @@ def main():
         original_count = len(drugs)
         drugs = [
             d for d in drugs
-            if not (bundles_dir / slugify(d["name"]) / "drug_bundle.json").exists()
+            if not (bundles_dir / slugify(d["drug_name"]) / "drug_bundle.json").exists()
         ]
         skipped = original_count - len(drugs)
         if skipped > 0:
-            print(f"   Skipped {skipped} drugs with existing bundles")
+            print(f"跳過 {skipped} 個已存在的 bundles")
 
-    print(f"\n2. Processing {len(drugs)} drugs...")
+    print(f"Processing {len(drugs)} drugs (offset={args.offset})...")
     print("-" * 60)
 
-    # Initialize aggregator
-    aggregator = DrugBundleAggregator(save_collected=True)
-
     results = []
-    for i, drug in enumerate(drugs, 1):
-        print(f"[{i}/{len(drugs)}] {drug['name']}...", end=" ", flush=True)
+    for i, drug_info in enumerate(drugs, 1):
+        drug_name = drug_info["drug_name"]
+        print(f"[{i}/{len(drugs)}] {drug_name}...", end=" ", flush=True)
 
-        result = collect_single_drug(drug, aggregator, args.delay)
+        result = collect_single_drug(
+            drug_name=drug_name,
+            top_n=args.top_n,
+            min_score=args.min_score,
+        )
         results.append(result)
 
         if result["status"] == "success":
-            print(
-                f"✓ Ind:{result['indication_count']} "
-                f"Trials:{result.get('total_trials', 0)} "
-                f"Pub:{result.get('total_articles', 0)} "
-                f"NPRA:{result.get('npra_count', 0)} "
-                f"({result['duration_seconds']}s)"
-            )
+            print(f"✓ DDI:{result['ddi_count']} Ind:{result['indication_count']} ({result['duration_seconds']}s)")
         else:
             print(f"✗ {result['error']}")
 
     # Summary
     print("-" * 60)
     success = sum(1 for r in results if r["status"] == "success")
-    total_ind = sum(r.get("indication_count", 0) for r in results)
-    total_trials = sum(r.get("total_trials", 0) for r in results)
-    total_articles = sum(r.get("total_articles", 0) for r in results)
-
-    print(f"\n3. Summary")
-    print(f"   Completed: {success}/{len(drugs)}")
-    print(f"   Total indications: {total_ind}")
-    print(f"   Total trials: {total_trials}")
-    print(f"   Total articles: {total_articles}")
+    total_ddi = sum(r["ddi_count"] for r in results)
+    total_ind = sum(r["indication_count"] for r in results)
+    print(f"完成: {success}/{len(drugs)} 成功")
+    print(f"總計 DDI: {total_ddi}, 總計適應症: {total_ind}")
 
     # Save results
     if args.output:
         output_path = Path(args.output)
         output_path.write_text(json.dumps(results, indent=2, ensure_ascii=False))
-        print(f"\n   Results saved to: {output_path}")
-    else:
-        # Save to default location
-        output_path = get_bundles_dir() / "_collection_log.json"
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(json.dumps({
-            "collected_at": time.strftime("%Y-%m-%dT%H:%M:%SZ"),
-            "total_drugs": len(results),
-            "success_count": success,
-            "results": results,
-        }, indent=2, ensure_ascii=False))
-        print(f"\n   Collection log saved to: {output_path}")
+        print(f"結果已儲存: {output_path}")
 
-    print("\n" + "=" * 60)
-    print("Done! Bundles saved to: data/bundles/")
-    print("Next step: Ask Claude to analyze the bundles")
-    print("=" * 60)
+    return results
 
 
 if __name__ == "__main__":
