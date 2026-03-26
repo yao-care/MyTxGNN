@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-26T08:54:32.411909",
+  "fetched": "2026-03-26T10:00:23.961443",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
     {
       "title": "Safety First: Reassessing Fuel Dispensing And Border Trade Oversight — Dr Theva Raj Ponnudurai & Dr Musa Mohd Nordin",
@@ -115,43 +115,14 @@
       ]
     },
     {
-      "title": "Sabah govt to provide RM100,000 in assistance to Sabah Kidney Foundation, says Masidi",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/26/sabah-govt-to-provide-rm100000-in-assistance-to-sabah-kidney-foundation-says-masidi",
-      "source": "The Star Health",
-      "published": "2026-03-26T08:08:00",
-      "summary": "KOTA KINABALU: Kidney diseases continue to affect families in Sabah, says Datuk Seri Masidi Manjun. Read full story",
-      "keywords_matched": [
-        "disease"
-      ]
-    },
-    {
-      "title": "Ewon: Sabah to table Kota Belud Industrial Park Master Plan at next Cabinet meeting",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/26/ewon-sabah-to-table-kota-belud-industrial-park-master-plan-at-next-cabinet-meeting/213952",
+      "title": "Warisan leaders flag urgent concerns over critical state of Queen Elizabeth Hospital in Kota Kinabalu",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/26/warisan-leaders-flag-urgent-concerns-over-critical-state-of-queen-elizabeth-hospital-in-kota-kinabalu/214004",
       "source": "Malay Mail",
-      "published": "2026-03-26T06:01:19",
-      "summary": "KOTA KINABALU, March 26 — The Kota Belud Industrial Park Master Plan will be tabled at the upcoming Sabah State Ca...",
+      "published": "2026-03-26T09:40:35",
+      "summary": "KOTA KINABALU, March 26 — Parti Warisan has called for immediate attention to Queen Elizabeth Hospital (QEH1), war...",
       "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "King warns of health and fire risks, calls for precautions as Malaysia faces hot spell",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/26/king-warns-of-health-and-fire-risks-calls-for-precautions-as-malaysia-faces-hot-spell/213946",
-      "source": "Malay Mail",
-      "published": "2026-03-26T05:36:17",
-      "summary": "KUALA LUMPUR, March 26 — His Majesty Sultan Ibrahim, the King of Malaysia, has urged the Ministry of Education (MO...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Malaysia to ramp up domestic drug production support under NIMP 2030, BMI reports",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/26/malaysia-to-ramp-up-domestic-drug-production-support-under-nimp-2030-bmi-reports/213938",
-      "source": "Malay Mail",
-      "published": "2026-03-26T05:04:36",
-      "summary": "KUALA LUMPUR, March 26 — The government will intensify support for domestic drug production to contain costs under...",
-      "keywords_matched": [
-        "drug"
+        "hospital",
+        "hospital"
       ]
     }
   ]
