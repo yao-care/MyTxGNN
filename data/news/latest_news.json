@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-26T05:04:54.887373",
+  "fetched": "2026-03-26T07:06:56.883250",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 15,
   "items": [
+    {
+      "title": "Beyond Fake MCs: A Call To Rebuild Trust In Malaysia’s Medical Leave System — Dr Raymond Choy",
+      "url": "https://codeblue.galencentre.org/2026/03/beyond-fake-mcs-a-call-to-rebuild-trust-in-malaysias-medical-leave-system-dr-raymond-choy/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-26T05:30:00",
+      "summary": "The scale of MC misuse highlighted in recent reports should not only be seen as a compliance concern, but as a catalyst for reform. The post Beyond Fake MCs: A Call To Rebuild Trust In Malaysia’s Medical Leave System — Dr Raymond Choy appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Dzulkefly Highlights ‘Extremely Critical’ Cardiologist Shortage In Sabah",
       "url": "https://codeblue.galencentre.org/2026/03/dzulkefly-highlights-extremely-critical-cardiologist-shortage-in-sabah/",
@@ -108,23 +118,53 @@
       ]
     },
     {
-      "title": "Fruit And Vegetable Prices In Malaysia Set To Rise: Farmers",
-      "url": "https://codeblue.galencentre.org/2026/03/fruit-and-vegetable-prices-in-malaysia-set-to-rise-farmers/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-24T03:30:00",
-      "summary": "Farmers' groups warn of increases in the prices of fruits and vegetables in Malaysia due to fertiliser shortages and diesel costs, amid the Iran war. Vegetable prices are expected to soar by 50% in one or two weeks and fruits by 20% in three to six months. The post Fruit And Vegetable Prices In Malaysia Set To Rise: Farmers appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Police seize RM1mil ketamine at Pangkor beach",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/26/police-seize-rm1mil-ketamine-at-pangkor-beach",
+      "source": "The Star Health",
+      "published": "2026-03-26T06:14:00",
+      "summary": "IPOH: Police have seized about RM1mil worth of drugs at Pasir Bogak Beach in Pangkor. Read full story",
+      "keywords_matched": [
+        "drug"
+      ]
     },
     {
-      "title": "Heritage nurses’ quarters to become new Anjung Kasih for SGH Families",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/26/heritage-nurses-quarters-to-become-new-anjung-kasih-for-sgh-families",
+      "title": "Langkawi ferry trips cut 40% as diesel prices soar",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/26/langkawi-ferry-trips-cut-40-as-diesel-prices-soar",
       "source": "The Star Health",
-      "published": "2026-03-26T04:52:00",
-      "summary": "KUCHING: The former nurses' quarters here will be redeveloped into a new Anjung Kasih facility to support families of patients at Sarawak General Hospital (SGH), says Datuk Seri Nancy Shukri. Read full story",
+      "published": "2026-03-26T05:21:00",
+      "summary": "LANGKAWI: Ferry operators here have cut daily trips by 40% after industrial diesel prices more than doubled, raising fears that the industry could collapse without intervention. Read full story",
       "keywords_matched": [
-        "hospital",
-        "patient",
-        "hospital"
+        "trial"
+      ]
+    },
+    {
+      "title": "Ewon: Sabah to table Kota Belud Industrial Park Master Plan at next Cabinet meeting",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/26/ewon-sabah-to-table-kota-belud-industrial-park-master-plan-at-next-cabinet-meeting/213952",
+      "source": "Malay Mail",
+      "published": "2026-03-26T06:01:19",
+      "summary": "KOTA KINABALU, March 26 — The Kota Belud Industrial Park Master Plan will be tabled at the upcoming Sabah State Ca...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "King warns of health and fire risks, calls for precautions as Malaysia faces hot spell",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/26/king-warns-of-health-and-fire-risks-calls-for-precautions-as-malaysia-faces-hot-spell/213946",
+      "source": "Malay Mail",
+      "published": "2026-03-26T05:36:17",
+      "summary": "KUALA LUMPUR, March 26 — His Majesty Sultan Ibrahim, the King of Malaysia, has urged the Ministry of Education (MO...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Malaysia to ramp up domestic drug production support under NIMP 2030, BMI reports",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/26/malaysia-to-ramp-up-domestic-drug-production-support-under-nimp-2030-bmi-reports/213938",
+      "source": "Malay Mail",
+      "published": "2026-03-26T05:04:36",
+      "summary": "KUALA LUMPUR, March 26 — The government will intensify support for domestic drug production to contain costs under...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
