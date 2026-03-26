@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-26T07:06:56.883250",
+  "fetched": "2026-03-26T08:54:32.411909",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Safety First: Reassessing Fuel Dispensing And Border Trade Oversight — Dr Theva Raj Ponnudurai & Dr Musa Mohd Nordin",
+      "url": "https://codeblue.galencentre.org/2026/03/safety-first-reassessing-fuel-dispensing-and-border-trade-oversight-dr-theva-raj-ponnudurai-dr-musa-mohd-nordin/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-26T08:08:27",
+      "summary": "The sight of plastic containers filled with petrol being transported in private vehicles is alarming. In the current scorching heat, each such container effectively becomes a potential firebomb. The post Safety First: Reassessing Fuel Dispensing And Border Trade Oversight — Dr Theva Raj Ponnudurai & Dr Musa Mohd Nordin appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Beyond Fake MCs: A Call To Rebuild Trust In Malaysia’s Medical Leave System — Dr Raymond Choy",
       "url": "https://codeblue.galencentre.org/2026/03/beyond-fake-mcs-a-call-to-rebuild-trust-in-malaysias-medical-leave-system-dr-raymond-choy/",
@@ -107,34 +115,13 @@
       ]
     },
     {
-      "title": "Malaysia Has Up To Five Months’ Medicine Stock, Says MOH",
-      "url": "https://codeblue.galencentre.org/2026/03/malaysia-has-up-to-five-months-medicine-stock-says-moh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-24T05:30:00",
-      "summary": "MOH says it has 1-3 months of medicine stock supplies, supported by additional buffer stock of up to 2 months by its concessionaire. Local pharmaceutical manufacturers have up to 3 months' raw material stock and about 2 months' stock of finished products. The post Malaysia Has Up To Five Months’ Medicine Stock, Says MOH appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medicine",
-        "pharmaceutical"
-      ]
-    },
-    {
-      "title": "Police seize RM1mil ketamine at Pangkor beach",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/26/police-seize-rm1mil-ketamine-at-pangkor-beach",
+      "title": "Sabah govt to provide RM100,000 in assistance to Sabah Kidney Foundation, says Masidi",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/26/sabah-govt-to-provide-rm100000-in-assistance-to-sabah-kidney-foundation-says-masidi",
       "source": "The Star Health",
-      "published": "2026-03-26T06:14:00",
-      "summary": "IPOH: Police have seized about RM1mil worth of drugs at Pasir Bogak Beach in Pangkor. Read full story",
+      "published": "2026-03-26T08:08:00",
+      "summary": "KOTA KINABALU: Kidney diseases continue to affect families in Sabah, says Datuk Seri Masidi Manjun. Read full story",
       "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Langkawi ferry trips cut 40% as diesel prices soar",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/26/langkawi-ferry-trips-cut-40-as-diesel-prices-soar",
-      "source": "The Star Health",
-      "published": "2026-03-26T05:21:00",
-      "summary": "LANGKAWI: Ferry operators here have cut daily trips by 40% after industrial diesel prices more than doubled, raising fears that the industry could collapse without intervention. Read full story",
-      "keywords_matched": [
-        "trial"
+        "disease"
       ]
     },
     {
