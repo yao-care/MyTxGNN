@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-26T10:00:23.961443",
+  "fetched": "2026-03-26T11:48:33.301808",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Safety First: Reassessing Fuel Dispensing And Border Trade Oversight — Dr Theva Raj Ponnudurai & Dr Musa Mohd Nordin",
@@ -112,6 +112,16 @@
       "keywords_matched": [
         "disease",
         "vaccine"
+      ]
+    },
+    {
+      "title": "Penang Health Dept inspects Lorong Pitt eatery over alleged cockroach leg in dish",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/26/penang-health-dept-inspects-lorong-pitt-eatery-over-alleged-cockroach-leg-in-dish/214015",
+      "source": "Malay Mail",
+      "published": "2026-03-26T10:25:19",
+      "summary": "GEORGE TOWN, March 26 — The Penang Health Department (JKNPP) has investigated a well-known food outlet in Lorong P...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
