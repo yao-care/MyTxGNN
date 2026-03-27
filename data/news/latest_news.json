@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-27T08:51:56.630938",
+  "fetched": "2026-03-27T09:53:39.815857",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
@@ -122,16 +122,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Man charged with trafficking over 3kg of drugs in Tawau",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/27/man-charged-with-trafficking-over-3kg-of-drugs-in-tawau",
-      "source": "The Star Health",
-      "published": "2026-03-27T07:03:00",
-      "summary": "TAWAU: A man, who is also a store worker, was charged in the Magistrate's Court here on Friday (March 27) with trafficking more than 3kg of drugs earlier this month. Read full story",
-      "keywords_matched": [
-        "drug"
       ]
     },
     {
