@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-27T07:05:39.258664",
+  "fetched": "2026-03-27T08:51:56.630938",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,34 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
+      "url": "https://codeblue.galencentre.org/2026/03/queen-elizabeth-hospital-facing-overworked-doctors-ageing-equipment-luyang-rep/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-27T08:45:49",
+      "summary": "After visiting Queen Elizabeth Hospital (QEH), Luyang rep Samuel Wong says QEH is facing ageing equipment, overcrowded facilities, and overworked doctors, reflecting the state's strained health care system. The Warisan rep wants health autonomy for Sabah. The post Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Patient, Client, Or Health Care Consumer? — Dr Pearl Leong",
+      "url": "https://codeblue.galencentre.org/2026/03/patient-client-or-health-care-consumer-dr-pearl-leong/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-27T07:30:00",
+      "summary": "Nothing can replace the personal medical advice you receive from your own doctor, who knows you and your personal medical history. The post Patient, Client, Or Health Care Consumer? — Dr Pearl Leong appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "doctor",
+        "patient"
+      ]
+    },
     {
       "title": "The Day I Quit Medicine — Dr Goh Heong Keong",
       "url": "https://codeblue.galencentre.org/2026/03/the-day-i-quit-medicine-dr-goh-heong-keong/",
@@ -88,27 +114,24 @@
       ]
     },
     {
-      "title": "How Mathematical Modelling Can Save Lives Of TB Patients",
-      "url": "https://codeblue.galencentre.org/2026/03/how-mathematical-modelling-can-save-lives-of-tb-patients/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-25T09:14:18",
-      "summary": "By using real world data, mathematical models can help policymakers reach patients who would benefit most from an intervention, and better identify their needs. The post How Mathematical Modelling Can Save Lives Of TB Patients appeared first on CodeBlue .",
+      "title": "Main access to HSA main building closed until June 30 for upgrading works",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/27/main-access-to-hsa-main-building-closed-until-june-30-for-upgrading-works",
+      "source": "The Star Health",
+      "published": "2026-03-27T08:38:00",
+      "summary": "JOHOR BARU: The main access to the main building of the Sultanah Aminah Hospital (HSA) in Johor Baru will be temporarily closed from April 1 to June 30, 2026. Read full story",
       "keywords_matched": [
-        "patient"
+        "hospital",
+        "hospital"
       ]
     },
     {
-      "title": "Malaysian Private Hospitals Still Have Medicine Supply: APHM",
-      "url": "https://codeblue.galencentre.org/2026/03/malaysian-private-hospitals-still-have-medicine-supply-aphm/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-25T07:03:40",
-      "summary": "APHM says private hospitals in Malaysia have yet to face drug supply disruptions, adding that it will monitor any indications of a significant increase in the cost of medicines and medical consumables that may arise during the West Asia conflict. The post Malaysian Private Hospitals Still Have Medicine Supply: APHM appeared first on CodeBlue .",
+      "title": "Man charged with trafficking over 3kg of drugs in Tawau",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/27/man-charged-with-trafficking-over-3kg-of-drugs-in-tawau",
+      "source": "The Star Health",
+      "published": "2026-03-27T07:03:00",
+      "summary": "TAWAU: A man, who is also a store worker, was charged in the Magistrate's Court here on Friday (March 27) with trafficking more than 3kg of drugs earlier this month. Read full story",
       "keywords_matched": [
-        "medical",
-        "medicine",
-        "drug",
-        "hospital",
-        "hospital"
+        "drug"
       ]
     },
     {
