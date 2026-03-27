@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-27T05:05:51.549972",
+  "fetched": "2026-03-27T07:05:39.258664",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "The Day I Quit Medicine — Dr Goh Heong Keong",
+      "url": "https://codeblue.galencentre.org/2026/03/the-day-i-quit-medicine-dr-goh-heong-keong/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-27T05:30:00",
+      "summary": "The joy, the intellectual challenge, and the humanitarian core of medicine have been eroded by the weight of liability, leaving only the anxiety and the hollow performance of risk management. The post The Day I Quit Medicine — Dr Goh Heong Keong appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine"
+      ]
+    },
     {
       "title": "Malaysia Looking For Alternative Fertiliser Supplies: Plantation Minister",
       "url": "https://codeblue.galencentre.org/2026/03/malaysia-looking-for-alternative-fertiliser-supplies-plantation-minister/",
@@ -102,15 +112,13 @@
       ]
     },
     {
-      "title": "Only Two MRI Machines At HKL — Patient",
-      "url": "https://codeblue.galencentre.org/2026/03/only-two-mri-machines-at-hkl-patient/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-25T05:49:28",
-      "summary": "A patient says HKL only has two MRI machines that can handle 25 patients maximum daily, but more than 40 patients are given appointments in a day. HKL outsourced patients to private hospitals last year for MRI tests, but this wasn't done this year. The post Only Two MRI Machines At HKL — Patient appeared first on CodeBlue .",
+      "title": "Thirteen plead not guilty to rioting with weapons at Kuching eatery over alleged RM12,000 dispute",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/27/thirteen-plead-not-guilty-to-rioting-with-weapons-at-kuching-eatery-over-alleged-rm12000-dispute/214110",
+      "source": "Malay Mail",
+      "published": "2026-03-27T06:42:58",
+      "summary": "KUCHING, March 27 — A total of 13 men claimed trial in the Magistrates’ Court here to a charge of rioting wh...",
       "keywords_matched": [
-        "hospital",
-        "patient",
-        "hospital"
+        "trial"
       ]
     }
   ]
