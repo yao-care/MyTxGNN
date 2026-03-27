@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-27T09:53:39.815857",
+  "fetched": "2026-03-27T10:47:50.093338",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
@@ -111,27 +111,6 @@
         "doctor",
         "kesihatan",
         "hospital"
-      ]
-    },
-    {
-      "title": "Main access to HSA main building closed until June 30 for upgrading works",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/27/main-access-to-hsa-main-building-closed-until-june-30-for-upgrading-works",
-      "source": "The Star Health",
-      "published": "2026-03-27T08:38:00",
-      "summary": "JOHOR BARU: The main access to the main building of the Sultanah Aminah Hospital (HSA) in Johor Baru will be temporarily closed from April 1 to June 30, 2026. Read full story",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Thirteen plead not guilty to rioting with weapons at Kuching eatery over alleged RM12,000 dispute",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/27/thirteen-plead-not-guilty-to-rioting-with-weapons-at-kuching-eatery-over-alleged-rm12000-dispute/214110",
-      "source": "Malay Mail",
-      "published": "2026-03-27T06:42:58",
-      "summary": "KUCHING, March 27 — A total of 13 men claimed trial in the Magistrates’ Court here to a charge of rioting wh...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
