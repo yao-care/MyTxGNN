@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-27T02:11:41.988533",
+  "fetched": "2026-03-27T05:05:51.549972",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Malaysia Looking For Alternative Fertiliser Supplies: Plantation Minister",
+      "url": "https://codeblue.galencentre.org/2026/03/malaysia-looking-for-alternative-fertiliser-supplies-plantation-minister/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-27T03:51:28",
+      "summary": "Plantation Minister Noraini Ahmad says Malaysia, which imports 4-5 mil tonnes of fertiliser annually, is sourcing alternative fertiliser supplies amid global export restrictions. It's unclear if Malaysia will prioritise fertilisers for palm oil or food crops. The post Malaysia Looking For Alternative Fertiliser Supplies: Plantation Minister appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "How Ignoring Expertise Drives Subspecialists Out Of Public Health Care — Subspecialist",
+      "url": "https://codeblue.galencentre.org/2026/03/how-ignoring-expertise-drives-subspecialists-out-of-public-health-care-subspecialist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-27T03:30:00",
+      "summary": "Tying the title of \"consultant\" to rigid criteria and Jusa disregards our structured subspecialty training. A system that persistently under-recognises and, at times, suppresses its most highly trained professionals shouldn’t be surprised when they leave. The post How Ignoring Expertise Drives Subspecialists Out Of Public Health Care — Subspecialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Mat Sabu Must Step Up At Critical Moment",
       "url": "https://codeblue.galencentre.org/2026/03/mat-sabu-must-step-up-at-critical-moment/",
@@ -93,44 +111,6 @@
         "hospital",
         "patient",
         "hospital"
-      ]
-    },
-    {
-      "title": "Delay In SWE Certification, NSR Registration Process — Senior Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/03/delay-in-swe-certification-nsr-registration-process-senior-medical-officer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-25T03:30:23",
-      "summary": "We were informed by MOH's medical development division that the document verification process alone for SWE certification may take 6-8 months. Only then can candidates proceed with NSR registration, which itself may require additional processing time. The post Delay In SWE Certification, NSR Registration Process — Senior Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Russia Halts Some Nitrogen Fertiliser Exports, Russia Is Malaysia’s Top Imported Fertiliser Origin",
-      "url": "https://codeblue.galencentre.org/2026/03/russia-halts-some-nitrogen-fertiliser-exports-russia-is-malaysias-top-imported-fertiliser-origin/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-25T02:00:00",
-      "summary": "Russia has suspended ammonium nitrate fertiliser exports until April 21, after China similarly curbed fertiliser exports. Russia and China are Malaysia's two biggest sources of imported fertilisers. KPKM has yet to address Malaysia's fertiliser situation. The post Russia Halts Some Nitrogen Fertiliser Exports, Russia Is Malaysia’s Top Imported Fertiliser Origin appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Beach find leads to drug haul",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/27/beach-find-leads-to-drug-haul",
-      "source": "The Star Health",
-      "published": "2026-03-26T23:00:00",
-      "summary": "IPOH: About RM1mil worth of drugs were discovered at Pasir Bogak Beach in Pangkor. Read full story",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Baru Bian threatens lawsuit over ‘baseless’ Facebook allegations linking him to drugs, corruption",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/26/baru-bian-threatens-lawsuit-over-baseless-facebook-allegations-linking-him-to-drugs-corruption/214027",
-      "source": "Malay Mail",
-      "published": "2026-03-26T11:56:32",
-      "summary": "MIRI, March 26 — Ba Kelalan assemblyman Baru Bian has threatened legal action against the administrator of a Faceb...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
