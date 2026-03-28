@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-28T22:27:29.358112",
+  "fetched": "2026-03-28T23:29:53.248634",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
@@ -111,6 +111,16 @@
         "doctor",
         "kesihatan",
         "hospital"
+      ]
+    },
+    {
+      "title": "Outcry over Kasigui’s fate",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/29/outcry-over-kasiguis-fate",
+      "source": "The Star Health",
+      "published": "2026-03-28T16:00:00",
+      "summary": "KOTA KINABALU: A decades-old rain tree (Samanea saman) that has withstood fire, disease and past development threats is now set to be felled next week, sparking an outcry among locals. Read full story",
+      "keywords_matched": [
+        "disease"
       ]
     },
     {
