@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-28T07:50:36.466406",
+  "fetched": "2026-03-28T08:37:47.715728",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
@@ -110,18 +110,6 @@
         "hospital",
         "doctor",
         "kesihatan",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Health Ministry aims to ease HKL MRI congestion with increased outsourcing",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/28/health-ministry-aims-to-ease-hkl-mri-congestion-with-increased-outsourcing/214182",
-      "source": "Malay Mail",
-      "published": "2026-03-28T02:02:59",
-      "summary": "KUALA LUMPUR, March 28 — The Ministry of Health (MOH) has reintroduced the Hospital Services Outsourcing Programme...",
-      "keywords_matched": [
-        "health",
-        "hospital",
         "hospital"
       ]
     }
