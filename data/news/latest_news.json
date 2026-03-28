@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-28T04:51:37.637884",
+  "fetched": "2026-03-28T05:56:02.218131",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
@@ -123,16 +123,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Malaysia’s medicine stock stable for now, but govt’s main supplier sets up task force over disruption risk",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/27/malaysias-medicine-stock-stable-for-now-but-govts-main-supplier-sets-up-task-force-over-disruption-risk/214152",
-      "source": "Malay Mail",
-      "published": "2026-03-27T11:16:45",
-      "summary": "KUALA LUMPUR, March 27 — Malaysia’s medicine supply remains stable for the next few months, even as global t...",
-      "keywords_matched": [
-        "medicine"
       ]
     }
   ]
