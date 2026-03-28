@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-28T11:26:48.480808",
+  "fetched": "2026-03-28T12:52:52.037662",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
@@ -111,16 +111,6 @@
         "doctor",
         "kesihatan",
         "hospital"
-      ]
-    },
-    {
-      "title": "Heatwave: Public advised to limit outdoor time, stay hydrated",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/28/heatwave-public-advised-to-limit-outdoor-time-stay-hydrated",
-      "source": "The Star Health",
-      "published": "2026-03-28T10:24:00",
-      "summary": "PUTRAJAYA: The Health Ministry has advised the public to limit time spent outdoors and reduce physical activity as key measures to mitigate health risks during the current heatwave. Read full story",
-      "keywords_matched": [
-        "health"
       ]
     },
     {
