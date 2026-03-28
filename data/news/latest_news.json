@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-28T10:30:52.142824",
+  "fetched": "2026-03-28T11:26:48.480808",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
@@ -119,6 +119,16 @@
       "source": "The Star Health",
       "published": "2026-03-28T10:24:00",
       "summary": "PUTRAJAYA: The Health Ministry has advised the public to limit time spent outdoors and reduce physical activity as key measures to mitigate health risks during the current heatwave. Read full story",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Health Ministry issues guidelines to reduce heatwave risks, urges less outdoor exposure",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/28/health-ministry-issues-guidelines-to-reduce-heatwave-risks-urges-less-outdoor-exposure/214258",
+      "source": "Malay Mail",
+      "published": "2026-03-28T10:59:02",
+      "summary": "PUTRAJAYA, March 28 — The Ministry of Health (MOH) has advised the public to limit time spent outdoors and reduce...",
       "keywords_matched": [
         "health"
       ]
