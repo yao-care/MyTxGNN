@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-29T10:31:48.391504",
+  "fetched": "2026-03-29T11:27:40.552203",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
@@ -111,6 +111,16 @@
         "doctor",
         "kesihatan",
         "hospital"
+      ]
+    },
+    {
+      "title": "Man driving while intoxicated kills motorcyclist in Klang crash",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/29/man-driving-while-intoxicated-kills-motorcyclist-in-klang-crash",
+      "source": "The Star Health",
+      "published": "2026-03-29T11:17:00",
+      "summary": "KLANG: A motorcyclist has been killed after a car driven by a man allegedly high on drugs and alcohol rammed into at high speed here. Read full story",
+      "keywords_matched": [
+        "drug"
       ]
     },
     {
