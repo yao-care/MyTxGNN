@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-29T22:29:16.308702",
+  "fetched": "2026-03-29T23:31:34.162492",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
@@ -111,26 +111,6 @@
         "doctor",
         "kesihatan",
         "hospital"
-      ]
-    },
-    {
-      "title": "Rompin air quality at unhealthy levels due to plantation fire",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/29/rompin-air-quality-at-unhealthy-levels-due-to-plantation-fire",
-      "source": "The Star Health",
-      "published": "2026-03-29T11:38:00",
-      "summary": "KUANTAN: Air quality in Rompin remained at an unhealthy level on Sunday (March 29), with the Air Pollutant Index (API) recorded at 152 due to a fire at an oil palm plantation. Read full story",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Man driving while intoxicated kills motorcyclist in Klang crash",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/29/man-driving-while-intoxicated-kills-motorcyclist-in-klang-crash",
-      "source": "The Star Health",
-      "published": "2026-03-29T11:17:00",
-      "summary": "KLANG: A motorcyclist has been killed after a car driven by a man allegedly high on drugs and alcohol rammed into at high speed here. Read full story",
-      "keywords_matched": [
-        "drug"
       ]
     },
     {
