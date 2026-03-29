@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-29T11:27:40.552203",
+  "fetched": "2026-03-29T12:53:41.184322",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
@@ -111,6 +111,16 @@
         "doctor",
         "kesihatan",
         "hospital"
+      ]
+    },
+    {
+      "title": "Rompin air quality at unhealthy levels due to plantation fire",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/29/rompin-air-quality-at-unhealthy-levels-due-to-plantation-fire",
+      "source": "The Star Health",
+      "published": "2026-03-29T11:38:00",
+      "summary": "KUANTAN: Air quality in Rompin remained at an unhealthy level on Sunday (March 29), with the Air Pollutant Index (API) recorded at 152 due to a fire at an oil palm plantation. Read full story",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
