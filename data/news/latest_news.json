@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-29T02:22:10.259888",
+  "fetched": "2026-03-29T05:09:54.287902",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Queen Elizabeth Hospital Facing Overworked Doctors, Ageing Equipment: Luyang Rep",
@@ -111,16 +111,6 @@
         "doctor",
         "kesihatan",
         "hospital"
-      ]
-    },
-    {
-      "title": "Partially blind widower holds on after heartbreak",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/29/partially-blind-widower-holds-on-after-heartbreak",
-      "source": "The Star Health",
-      "published": "2026-03-28T16:00:00",
-      "summary": "MELAKA: His family had been in turmoil ever since his 41-year-old wife was diagnosed with stage four stomach cancer last year. Read full story",
-      "keywords_matched": [
-        "cancer"
       ]
     },
     {
