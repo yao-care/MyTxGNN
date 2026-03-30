@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-30T09:10:35.067512",
+  "fetched": "2026-03-30T11:00:39.668487",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "When An Admin Error Cost A Doctor Months Of Her Career — Dr NA",
@@ -45,13 +45,14 @@
       ]
     },
     {
-      "title": "SPM BM, History Requirements Worsening Housemen Shortage: PMPS",
+      "title": "SPM BM, History Requirements Worsening Housemen Shortage: Doctor",
       "url": "https://codeblue.galencentre.org/2026/03/spm-bm-history-requirements-worsening-housemen-shortage-pmps/",
       "source": "CodeBlue (Health News)",
       "published": "2026-03-30T05:48:33",
-      "summary": "The Penang Medical Practitioners Society wants a re-evaluation of SPM BM and History requirements for medical practice in the public sector, saying this obstacle is preventing students from non-mainstream education pathways from joining housemanship. The post SPM BM, History Requirements Worsening Housemen Shortage: PMPS appeared first on CodeBlue .",
+      "summary": "A paediatrician wants a re-evaluation of SPM BM and History requirements for medical practice in the public sector, saying this obstacle is preventing students from non-mainstream education pathways from joining housemanship. The post SPM BM, History Requirements Worsening Housemen Shortage: Doctor appeared first on CodeBlue .",
       "keywords_matched": [
-        "medical"
+        "medical",
+        "doctor"
       ]
     },
     {
@@ -117,26 +118,6 @@
       "summary": "The joy, the intellectual challenge, and the humanitarian core of medicine have been eroded by the weight of liability, leaving only the anxiety and the hollow performance of risk management. The post The Day I Quit Medicine — Dr Goh Heong Keong appeared first on CodeBlue .",
       "keywords_matched": [
         "medicine"
-      ]
-    },
-    {
-      "title": "Farmers’ organisation board staff pleads not guilty to RM141,872 embezzlement in Johor Bahru",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/30/farmers-organisation-board-staff-pleads-not-guilty-to-rm141872-embezzlement-in-johor-bahru/214421",
-      "source": "Malay Mail",
-      "published": "2026-03-30T05:26:20",
-      "summary": "JOHOR BAHRU, March 30 — A 36-year-old staff of the Farmers’ Organisation Board (LPP) claimed trial in the Se...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Ex-Army chief Hafizuddeain and wife to face joint trial over illegal proceeds",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/30/ex-army-chief-hafizuddeain-and-wife-to-face-joint-trial-over-illegal-proceeds/214412",
-      "source": "Malay Mail",
-      "published": "2026-03-30T05:10:42",
-      "summary": "KUALA LUMPUR, March 30 — The 11-count case of receiving money from illegal activities involving former Army Chief...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
