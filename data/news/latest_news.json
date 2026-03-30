@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-30T02:24:48.270009",
+  "fetched": "2026-03-30T05:23:10.641385",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "JanaVeteran Project Empowers ATM Veterans Through Ginger Farming",
+      "url": "https://codeblue.galencentre.org/2026/03/janaveteran-project-empowers-atm-veterans-through-ginger-farming/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-30T03:30:00",
+      "summary": "Boustead Plantations' JanaVeteran project enables Malaysian Armed Forces veterans to cultivate ginger, a high-value cash crop. Participants receive a guaranteed monthly income of RM2,000. Malaysia has low self-sufficiency for ginger at 15%. The post JanaVeteran Project Empowers ATM Veterans Through Ginger Farming appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Johor Government Pays For Locum Doctors At Public Emergency Departments",
       "url": "https://codeblue.galencentre.org/2026/03/johor-government-pays-for-locum-doctors-at-public-emergency-departments/",
@@ -102,32 +110,13 @@
       ]
     },
     {
-      "title": "Dzulkefly Highlights ‘Extremely Critical’ Cardiologist Shortage In Sabah",
-      "url": "https://codeblue.galencentre.org/2026/03/dzulkefly-highlights-extremely-critical-cardiologist-shortage-in-sabah/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-26T03:30:00",
-      "summary": "Sabah has 8 cardiologists (3 in HQE II and 5 in private), resulting in a 1:467,500 cardiologist to population ratio, which Dr Dzul described as \"very critical\" compared to the 1:35,000 target ratio. Ratio is 1:1,246,667 if only MOH cardiologists counted. The post Dzulkefly Highlights ‘Extremely Critical’ Cardiologist Shortage In Sabah appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "The tagal way to save nature",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/30/the-tagal-way-to-save-nature",
-      "source": "The Star Health",
-      "published": "2026-03-29T16:00:00",
-      "summary": "A unique conservation model demonstrates a clear link between environmental health and thriving local economies. Read full story",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Father dies, daughter hospitalised after MPV skids and crashes on North-South Expressway",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/29/father-dies-daughter-hospitalised-after-mpv-skids-and-crashes-on-north-south-expressway/214337",
+      "title": "Ex-Army chief Hafizuddeain and wife to face joint trial over illegal proceeds",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/30/ex-army-chief-hafizuddeain-and-wife-to-face-joint-trial-over-illegal-proceeds/214412",
       "source": "Malay Mail",
-      "published": "2026-03-29T09:22:19",
-      "summary": "KUALA LUMPUR, March 29 — A man was reportedly killed and his eight-year-old daughter seriously injured after the m...",
+      "published": "2026-03-30T05:10:42",
+      "summary": "KUALA LUMPUR, March 30 — The 11-count case of receiving money from illegal activities involving former Army Chief...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
+        "trial"
       ]
     }
   ]
