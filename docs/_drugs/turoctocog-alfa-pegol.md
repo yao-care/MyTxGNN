@@ -13,32 +13,32 @@ permalink: /drugs/turoctocog-alfa-pegol/
 
 # Turoctocog Alfa Pegol
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Turoctocog Alfa Pegol |
-| **DrugBank ID** | [DB14738](https://go.drugbank.com/drugs/DB14738) |
-| **KG Predictions** | 8 |
-| **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Turoctocog Alfa Pegol |
+| **ID DrugBank** | [DB14738](https://go.drugbank.com/drugs/DB14738) |
+| **Ramalan KG** | 8 |
+| **Ramalan DL (≥0.7)** | 0 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **8** knowledge graph predictions and **0** high-confidence deep learning predictions.
+Ubat ini mempunyai **8** ramalan graf pengetahuan dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | hemophilia | KG |
 | symptomatic form of hemophilia in female carriers | KG |
@@ -51,17 +51,17 @@ This drug has **8** knowledge graph predictions and **0** high-confidence deep l
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB14738`](/fhir/MedicationKnowledge/DB14738.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB14738) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Turoctocog+Alfa+Pegol) |
@@ -70,6 +70,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

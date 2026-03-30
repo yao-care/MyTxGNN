@@ -13,32 +13,32 @@ permalink: /drugs/zinc-oxide/
 
 # Zinc Oxide
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Zinc Oxide |
-| **DrugBank ID** | [DB09321](https://go.drugbank.com/drugs/DB09321) |
-| **KG Predictions** | 504 |
-| **DL Predictions (≥0.7)** | 143 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Zinc Oxide |
+| **ID DrugBank** | [DB09321](https://go.drugbank.com/drugs/DB09321) |
+| **Ramalan KG** | 504 |
+| **Ramalan DL (≥0.7)** | 143 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **504** knowledge graph predictions and **143** high-confidence deep learning predictions.
+Ubat ini mempunyai **504** ramalan graf pengetahuan dan **143** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | dermatitis | KG |
 | proctitis | KG |
@@ -53,17 +53,17 @@ This drug has **504** knowledge graph predictions and **143** high-confidence de
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB09321`](/fhir/MedicationKnowledge/DB09321.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB09321) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Zinc+Oxide) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

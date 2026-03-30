@@ -13,32 +13,32 @@ permalink: /drugs/timolol/
 
 # Timolol
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Timolol |
-| **DrugBank ID** | [DB00373](https://go.drugbank.com/drugs/DB00373) |
-| **KG Predictions** | 4 |
-| **DL Predictions (≥0.7)** | 21 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Timolol |
+| **ID DrugBank** | [DB00373](https://go.drugbank.com/drugs/DB00373) |
+| **Ramalan KG** | 4 |
+| **Ramalan DL (≥0.7)** | 21 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **4** knowledge graph predictions and **21** high-confidence deep learning predictions.
+Ubat ini mempunyai **4** ramalan graf pengetahuan dan **21** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | ocular hypertension | KG |
 | hypertensive disorder | KG |
@@ -47,17 +47,17 @@ This drug has **4** knowledge graph predictions and **21** high-confidence deep 
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00373`](/fhir/MedicationKnowledge/DB00373.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00373) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Timolol) |
@@ -66,6 +66,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

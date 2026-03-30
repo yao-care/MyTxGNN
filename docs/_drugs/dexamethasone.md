@@ -13,32 +13,32 @@ permalink: /drugs/dexamethasone/
 
 # Dexamethasone
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Dexamethasone |
-| **DrugBank ID** | [DB01234](https://go.drugbank.com/drugs/DB01234) |
-| **KG Predictions** | 2736 |
-| **DL Predictions (≥0.7)** | 720 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Dexamethasone |
+| **ID DrugBank** | [DB01234](https://go.drugbank.com/drugs/DB01234) |
+| **Ramalan KG** | 2736 |
+| **Ramalan DL (≥0.7)** | 720 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **2736** knowledge graph predictions and **720** high-confidence deep learning predictions.
+Ubat ini mempunyai **2736** ramalan graf pengetahuan dan **720** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | diffuse large B-cell lymphoma | KG |
 | erythema multiforme | KG |
@@ -53,17 +53,17 @@ This drug has **2736** knowledge graph predictions and **720** high-confidence d
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB01234`](/fhir/MedicationKnowledge/DB01234.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB01234) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Dexamethasone) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

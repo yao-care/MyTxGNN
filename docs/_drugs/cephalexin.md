@@ -13,32 +13,32 @@ permalink: /drugs/cephalexin/
 
 # Cephalexin
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Cephalexin |
-| **DrugBank ID** | [DB00567](https://go.drugbank.com/drugs/DB00567) |
-| **KG Predictions** | 64 |
-| **DL Predictions (≥0.7)** | 65 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Cephalexin |
+| **ID DrugBank** | [DB00567](https://go.drugbank.com/drugs/DB00567) |
+| **Ramalan KG** | 64 |
+| **Ramalan DL (≥0.7)** | 65 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **64** knowledge graph predictions and **65** high-confidence deep learning predictions.
+Ubat ini mempunyai **64** ramalan graf pengetahuan dan **65** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | streptococcal pneumonia | KG |
 | infectious otitis media | KG |
@@ -53,17 +53,17 @@ This drug has **64** knowledge graph predictions and **65** high-confidence deep
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00567`](/fhir/MedicationKnowledge/DB00567.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00567) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Cephalexin) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

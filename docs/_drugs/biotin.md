@@ -13,49 +13,49 @@ permalink: /drugs/biotin/
 
 # Biotin
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Biotin |
-| **DrugBank ID** | [DB00121](https://go.drugbank.com/drugs/DB00121) |
-| **KG Predictions** | 2 |
-| **DL Predictions (≥0.7)** | 39 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Biotin |
+| **ID DrugBank** | [DB00121](https://go.drugbank.com/drugs/DB00121) |
+| **Ramalan KG** | 2 |
+| **Ramalan DL (≥0.7)** | 39 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **2** knowledge graph predictions and **39** high-confidence deep learning predictions.
+Ubat ini mempunyai **2** ramalan graf pengetahuan dan **39** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | nutritional biotin deficiency | KG |
 | nutritional biotin deficiency | KG |
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00121`](/fhir/MedicationKnowledge/DB00121.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00121) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Biotin) |
@@ -64,6 +64,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

@@ -13,32 +13,32 @@ permalink: /drugs/triamcinolone/
 
 # Triamcinolone
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Triamcinolone |
-| **DrugBank ID** | [DB00620](https://go.drugbank.com/drugs/DB00620) |
-| **KG Predictions** | 645 |
-| **DL Predictions (≥0.7)** | 637 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Triamcinolone |
+| **ID DrugBank** | [DB00620](https://go.drugbank.com/drugs/DB00620) |
+| **Ramalan KG** | 645 |
+| **Ramalan DL (≥0.7)** | 637 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **645** knowledge graph predictions and **637** high-confidence deep learning predictions.
+Ubat ini mempunyai **645** ramalan graf pengetahuan dan **637** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | erythema multiforme | KG |
 | lymphosarcoma | KG |
@@ -53,17 +53,17 @@ This drug has **645** knowledge graph predictions and **637** high-confidence de
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00620`](/fhir/MedicationKnowledge/DB00620.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00620) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Triamcinolone) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

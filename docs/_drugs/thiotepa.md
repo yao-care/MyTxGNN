@@ -13,32 +13,32 @@ permalink: /drugs/thiotepa/
 
 # Thiotepa
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Thiotepa |
-| **DrugBank ID** | [DB04572](https://go.drugbank.com/drugs/DB04572) |
-| **KG Predictions** | 117 |
-| **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Thiotepa |
+| **ID DrugBank** | [DB04572](https://go.drugbank.com/drugs/DB04572) |
+| **Ramalan KG** | 117 |
+| **Ramalan DL (≥0.7)** | 0 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **117** knowledge graph predictions and **0** high-confidence deep learning predictions.
+Ubat ini mempunyai **117** ramalan graf pengetahuan dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | non-papillary transitional cell carcinoma of the bladder | KG |
 | ovarian clear cell adenocarcinoma | KG |
@@ -53,17 +53,17 @@ This drug has **117** knowledge graph predictions and **0** high-confidence deep
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB04572`](/fhir/MedicationKnowledge/DB04572.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB04572) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Thiotepa) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

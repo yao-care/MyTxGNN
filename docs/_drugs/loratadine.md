@@ -13,32 +13,32 @@ permalink: /drugs/loratadine/
 
 # Loratadine
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Loratadine |
-| **DrugBank ID** | [DB00455](https://go.drugbank.com/drugs/DB00455) |
-| **KG Predictions** | 297 |
-| **DL Predictions (≥0.7)** | 18 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Loratadine |
+| **ID DrugBank** | [DB00455](https://go.drugbank.com/drugs/DB00455) |
+| **Ramalan KG** | 297 |
+| **Ramalan DL (≥0.7)** | 18 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **297** knowledge graph predictions and **18** high-confidence deep learning predictions.
+Ubat ini mempunyai **297** ramalan graf pengetahuan dan **18** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | pharyngitis | KG |
 | papillary conjunctivitis | KG |
@@ -53,17 +53,17 @@ This drug has **297** knowledge graph predictions and **18** high-confidence dee
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00455`](/fhir/MedicationKnowledge/DB00455.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00455) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Loratadine) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

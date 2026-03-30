@@ -13,32 +13,32 @@ permalink: /drugs/dapagliflozin/
 
 # Dapagliflozin
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Dapagliflozin |
-| **DrugBank ID** | [DB06292](https://go.drugbank.com/drugs/DB06292) |
-| **KG Predictions** | 28 |
-| **DL Predictions (≥0.7)** | 12 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Dapagliflozin |
+| **ID DrugBank** | [DB06292](https://go.drugbank.com/drugs/DB06292) |
+| **Ramalan KG** | 28 |
+| **Ramalan DL (≥0.7)** | 12 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **28** knowledge graph predictions and **12** high-confidence deep learning predictions.
+Ubat ini mempunyai **28** ramalan graf pengetahuan dan **12** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | type 2 diabetes mellitus | KG |
 | diabetes mellitus (disease) | KG |
@@ -53,17 +53,17 @@ This drug has **28** knowledge graph predictions and **12** high-confidence deep
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB06292`](/fhir/MedicationKnowledge/DB06292.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB06292) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Dapagliflozin) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

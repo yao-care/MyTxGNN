@@ -13,32 +13,32 @@ permalink: /drugs/pertuzumab/
 
 # Pertuzumab
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Pertuzumab |
-| **DrugBank ID** | [DB06366](https://go.drugbank.com/drugs/DB06366) |
-| **KG Predictions** | 3 |
-| **DL Predictions (≥0.7)** | 481 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Pertuzumab |
+| **ID DrugBank** | [DB06366](https://go.drugbank.com/drugs/DB06366) |
+| **Ramalan KG** | 3 |
+| **Ramalan DL (≥0.7)** | 481 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **3** knowledge graph predictions and **481** high-confidence deep learning predictions.
+Ubat ini mempunyai **3** ramalan graf pengetahuan dan **481** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | HER2 positive breast carcinoma | KG |
 | HER2 positive breast carcinoma | KG |
@@ -46,17 +46,17 @@ This drug has **3** knowledge graph predictions and **481** high-confidence deep
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB06366`](/fhir/MedicationKnowledge/DB06366.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB06366) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Pertuzumab) |
@@ -65,6 +65,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

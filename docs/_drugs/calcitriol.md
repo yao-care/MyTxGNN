@@ -13,32 +13,32 @@ permalink: /drugs/calcitriol/
 
 # Calcitriol
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Calcitriol |
-| **DrugBank ID** | [DB00136](https://go.drugbank.com/drugs/DB00136) |
-| **KG Predictions** | 42 |
-| **DL Predictions (≥0.7)** | 31 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Calcitriol |
+| **ID DrugBank** | [DB00136](https://go.drugbank.com/drugs/DB00136) |
+| **Ramalan KG** | 42 |
+| **Ramalan DL (≥0.7)** | 31 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **42** knowledge graph predictions and **31** high-confidence deep learning predictions.
+Ubat ini mempunyai **42** ramalan graf pengetahuan dan **31** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | renal osteodystrophy | KG |
 | hypophosphatemia (disease) | KG |
@@ -53,17 +53,17 @@ This drug has **42** knowledge graph predictions and **31** high-confidence deep
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00136`](/fhir/MedicationKnowledge/DB00136.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00136) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Calcitriol) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

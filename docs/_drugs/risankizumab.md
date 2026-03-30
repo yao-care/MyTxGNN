@@ -13,32 +13,32 @@ permalink: /drugs/risankizumab/
 
 # Risankizumab
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Risankizumab |
-| **DrugBank ID** | [DB14762](https://go.drugbank.com/drugs/DB14762) |
-| **KG Predictions** | 8 |
-| **DL Predictions (≥0.7)** | 123 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Risankizumab |
+| **ID DrugBank** | [DB14762](https://go.drugbank.com/drugs/DB14762) |
+| **Ramalan KG** | 8 |
+| **Ramalan DL (≥0.7)** | 123 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **8** knowledge graph predictions and **123** high-confidence deep learning predictions.
+Ubat ini mempunyai **8** ramalan graf pengetahuan dan **123** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | parapsoriasis | KG |
 | psoriasis | KG |
@@ -51,17 +51,17 @@ This drug has **8** knowledge graph predictions and **123** high-confidence deep
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB14762`](/fhir/MedicationKnowledge/DB14762.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB14762) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Risankizumab) |
@@ -70,6 +70,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

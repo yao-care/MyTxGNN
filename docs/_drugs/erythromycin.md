@@ -13,32 +13,32 @@ permalink: /drugs/erythromycin/
 
 # Erythromycin
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Erythromycin |
-| **DrugBank ID** | [DB00199](https://go.drugbank.com/drugs/DB00199) |
-| **KG Predictions** | 88 |
-| **DL Predictions (≥0.7)** | 180 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Erythromycin |
+| **ID DrugBank** | [DB00199](https://go.drugbank.com/drugs/DB00199) |
+| **Ramalan KG** | 88 |
+| **Ramalan DL (≥0.7)** | 180 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **88** knowledge graph predictions and **180** high-confidence deep learning predictions.
+Ubat ini mempunyai **88** ramalan graf pengetahuan dan **180** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | acne (disease) | KG |
 | pneumonia caused by chlamydia | KG |
@@ -53,17 +53,17 @@ This drug has **88** knowledge graph predictions and **180** high-confidence dee
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00199`](/fhir/MedicationKnowledge/DB00199.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00199) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Erythromycin) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

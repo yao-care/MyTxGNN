@@ -13,32 +13,32 @@ permalink: /drugs/celecoxib/
 
 # Celecoxib
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Celecoxib |
-| **DrugBank ID** | [DB00482](https://go.drugbank.com/drugs/DB00482) |
-| **KG Predictions** | 198 |
-| **DL Predictions (≥0.7)** | 121 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Celecoxib |
+| **ID DrugBank** | [DB00482](https://go.drugbank.com/drugs/DB00482) |
+| **Ramalan KG** | 198 |
+| **Ramalan DL (≥0.7)** | 121 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **198** knowledge graph predictions and **121** high-confidence deep learning predictions.
+Ubat ini mempunyai **198** ramalan graf pengetahuan dan **121** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | osteoarthritis | KG |
 | spondyloarthropathy, susceptibility to | KG |
@@ -53,17 +53,17 @@ This drug has **198** knowledge graph predictions and **121** high-confidence de
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00482`](/fhir/MedicationKnowledge/DB00482.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00482) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Celecoxib) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

@@ -13,32 +13,32 @@ permalink: /drugs/lorazepam/
 
 # Lorazepam
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Lorazepam |
-| **DrugBank ID** | [DB00186](https://go.drugbank.com/drugs/DB00186) |
-| **KG Predictions** | 40 |
-| **DL Predictions (≥0.7)** | 80 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Lorazepam |
+| **ID DrugBank** | [DB00186](https://go.drugbank.com/drugs/DB00186) |
+| **Ramalan KG** | 40 |
+| **Ramalan DL (≥0.7)** | 80 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **40** knowledge graph predictions and **80** high-confidence deep learning predictions.
+Ubat ini mempunyai **40** ramalan graf pengetahuan dan **80** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | cutis verticis gyrata | KG |
 | absence epilepsy | KG |
@@ -53,17 +53,17 @@ This drug has **40** knowledge graph predictions and **80** high-confidence deep
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00186`](/fhir/MedicationKnowledge/DB00186.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00186) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Lorazepam) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

@@ -13,48 +13,48 @@ permalink: /drugs/riluzole/
 
 # Riluzole
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Riluzole |
-| **DrugBank ID** | [DB00740](https://go.drugbank.com/drugs/DB00740) |
-| **KG Predictions** | 1 |
-| **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Riluzole |
+| **ID DrugBank** | [DB00740](https://go.drugbank.com/drugs/DB00740) |
+| **Ramalan KG** | 1 |
+| **Ramalan DL (≥0.7)** | 0 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **1** knowledge graph predictions and **0** high-confidence deep learning predictions.
+Ubat ini mempunyai **1** ramalan graf pengetahuan dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | amyotrophic lateral sclerosis | KG |
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00740`](/fhir/MedicationKnowledge/DB00740.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00740) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Riluzole) |
@@ -63,6 +63,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

@@ -13,32 +13,32 @@ permalink: /drugs/tranexamic-acid/
 
 # Tranexamic Acid
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Tranexamic Acid |
-| **DrugBank ID** | [DB00302](https://go.drugbank.com/drugs/DB00302) |
-| **KG Predictions** | 18 |
-| **DL Predictions (≥0.7)** | 5 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Tranexamic Acid |
+| **ID DrugBank** | [DB00302](https://go.drugbank.com/drugs/DB00302) |
+| **Ramalan KG** | 18 |
+| **Ramalan DL (≥0.7)** | 5 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **18** knowledge graph predictions and **5** high-confidence deep learning predictions.
+Ubat ini mempunyai **18** ramalan graf pengetahuan dan **5** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | endometriosis of uterus | KG |
 | endometriosis (disease) | KG |
@@ -53,17 +53,17 @@ This drug has **18** knowledge graph predictions and **5** high-confidence deep 
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00302`](/fhir/MedicationKnowledge/DB00302.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00302) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Tranexamic+Acid) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

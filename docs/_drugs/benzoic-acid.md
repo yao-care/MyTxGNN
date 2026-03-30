@@ -13,32 +13,32 @@ permalink: /drugs/benzoic-acid/
 
 # Benzoic Acid
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Benzoic Acid |
-| **DrugBank ID** | [DB03793](https://go.drugbank.com/drugs/DB03793) |
-| **KG Predictions** | 80 |
-| **DL Predictions (≥0.7)** | 249 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Benzoic Acid |
+| **ID DrugBank** | [DB03793](https://go.drugbank.com/drugs/DB03793) |
+| **Ramalan KG** | 80 |
+| **Ramalan DL (≥0.7)** | 249 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **80** knowledge graph predictions and **249** high-confidence deep learning predictions.
+Ubat ini mempunyai **80** ramalan graf pengetahuan dan **249** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | pemphigus | KG |
 | dermatomyositis | KG |
@@ -53,17 +53,17 @@ This drug has **80** knowledge graph predictions and **249** high-confidence dee
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB03793`](/fhir/MedicationKnowledge/DB03793.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB03793) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Benzoic+Acid) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

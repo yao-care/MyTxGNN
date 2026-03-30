@@ -13,32 +13,32 @@ permalink: /drugs/tolnaftate/
 
 # Tolnaftate
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Tolnaftate |
-| **DrugBank ID** | [DB00525](https://go.drugbank.com/drugs/DB00525) |
-| **KG Predictions** | 112 |
-| **DL Predictions (≥0.7)** | 51 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Tolnaftate |
+| **ID DrugBank** | [DB00525](https://go.drugbank.com/drugs/DB00525) |
+| **Ramalan KG** | 112 |
+| **Ramalan DL (≥0.7)** | 51 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **112** knowledge graph predictions and **51** high-confidence deep learning predictions.
+Ubat ini mempunyai **112** ramalan graf pengetahuan dan **51** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | pityriasis versicolor | KG |
 | tinea pedis | KG |
@@ -53,17 +53,17 @@ This drug has **112** knowledge graph predictions and **51** high-confidence dee
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00525`](/fhir/MedicationKnowledge/DB00525.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00525) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Tolnaftate) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

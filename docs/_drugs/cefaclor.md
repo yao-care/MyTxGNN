@@ -13,32 +13,32 @@ permalink: /drugs/cefaclor/
 
 # Cefaclor
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Cefaclor |
-| **DrugBank ID** | [DB00833](https://go.drugbank.com/drugs/DB00833) |
-| **KG Predictions** | 10 |
-| **DL Predictions (≥0.7)** | 41 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Cefaclor |
+| **ID DrugBank** | [DB00833](https://go.drugbank.com/drugs/DB00833) |
+| **Ramalan KG** | 10 |
+| **Ramalan DL (≥0.7)** | 41 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **10** knowledge graph predictions and **41** high-confidence deep learning predictions.
+Ubat ini mempunyai **10** ramalan graf pengetahuan dan **41** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | pharyngitis | KG |
 | streptococcal pneumonia | KG |
@@ -53,17 +53,17 @@ This drug has **10** knowledge graph predictions and **41** high-confidence deep
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00833`](/fhir/MedicationKnowledge/DB00833.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00833) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Cefaclor) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

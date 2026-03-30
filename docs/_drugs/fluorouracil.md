@@ -13,32 +13,32 @@ permalink: /drugs/fluorouracil/
 
 # Fluorouracil
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Fluorouracil |
-| **DrugBank ID** | [DB00544](https://go.drugbank.com/drugs/DB00544) |
-| **KG Predictions** | 57 |
-| **DL Predictions (≥0.7)** | 533 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Fluorouracil |
+| **ID DrugBank** | [DB00544](https://go.drugbank.com/drugs/DB00544) |
+| **Ramalan KG** | 57 |
+| **Ramalan DL (≥0.7)** | 533 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **57** knowledge graph predictions and **533** high-confidence deep learning predictions.
+Ubat ini mempunyai **57** ramalan graf pengetahuan dan **533** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | gastric neoplasm | KG |
 | skin disease | KG |
@@ -53,17 +53,17 @@ This drug has **57** knowledge graph predictions and **533** high-confidence dee
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00544`](/fhir/MedicationKnowledge/DB00544.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00544) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fluorouracil) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

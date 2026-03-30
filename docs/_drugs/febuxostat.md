@@ -13,32 +13,32 @@ permalink: /drugs/febuxostat/
 
 # Febuxostat
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Febuxostat |
-| **DrugBank ID** | [DB04854](https://go.drugbank.com/drugs/DB04854) |
-| **KG Predictions** | 11 |
-| **DL Predictions (≥0.7)** | 14 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Febuxostat |
+| **ID DrugBank** | [DB04854](https://go.drugbank.com/drugs/DB04854) |
+| **Ramalan KG** | 11 |
+| **Ramalan DL (≥0.7)** | 14 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **11** knowledge graph predictions and **14** high-confidence deep learning predictions.
+Ubat ini mempunyai **11** ramalan graf pengetahuan dan **14** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | obsolete hyperuricemia (disease) | KG |
 | obsolete hyperuricemia (disease) | KG |
@@ -53,17 +53,17 @@ This drug has **11** knowledge graph predictions and **14** high-confidence deep
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB04854`](/fhir/MedicationKnowledge/DB04854.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB04854) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Febuxostat) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

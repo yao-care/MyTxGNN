@@ -13,32 +13,32 @@ permalink: /drugs/indomethacin/
 
 # Indomethacin
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Indomethacin |
-| **DrugBank ID** | [DB00328](https://go.drugbank.com/drugs/DB00328) |
-| **KG Predictions** | 45 |
-| **DL Predictions (≥0.7)** | 0 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Indomethacin |
+| **ID DrugBank** | [DB00328](https://go.drugbank.com/drugs/DB00328) |
+| **Ramalan KG** | 45 |
+| **Ramalan DL (≥0.7)** | 0 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **45** knowledge graph predictions and **0** high-confidence deep learning predictions.
+Ubat ini mempunyai **45** ramalan graf pengetahuan dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | osteoarthritis | KG |
 | gout | KG |
@@ -53,17 +53,17 @@ This drug has **45** knowledge graph predictions and **0** high-confidence deep 
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00328`](/fhir/MedicationKnowledge/DB00328.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00328) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Indomethacin) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

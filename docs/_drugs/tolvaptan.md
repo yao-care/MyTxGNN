@@ -13,32 +13,32 @@ permalink: /drugs/tolvaptan/
 
 # Tolvaptan
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Tolvaptan |
-| **DrugBank ID** | [DB06212](https://go.drugbank.com/drugs/DB06212) |
-| **KG Predictions** | 18 |
-| **DL Predictions (≥0.7)** | 1196 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Tolvaptan |
+| **ID DrugBank** | [DB06212](https://go.drugbank.com/drugs/DB06212) |
+| **Ramalan KG** | 18 |
+| **Ramalan DL (≥0.7)** | 1196 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **18** knowledge graph predictions and **1196** high-confidence deep learning predictions.
+Ubat ini mempunyai **18** ramalan graf pengetahuan dan **1196** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | inappropriate ADH syndrome | KG |
 | nephrogenic syndrome of inappropriate antidiuresis | KG |
@@ -53,17 +53,17 @@ This drug has **18** knowledge graph predictions and **1196** high-confidence de
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB06212`](/fhir/MedicationKnowledge/DB06212.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB06212) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Tolvaptan) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

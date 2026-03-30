@@ -13,32 +13,32 @@ permalink: /drugs/budesonide/
 
 # Budesonide
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Budesonide |
-| **DrugBank ID** | [DB01222](https://go.drugbank.com/drugs/DB01222) |
-| **KG Predictions** | 216 |
-| **DL Predictions (≥0.7)** | 208 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Budesonide |
+| **ID DrugBank** | [DB01222](https://go.drugbank.com/drugs/DB01222) |
+| **Ramalan KG** | 216 |
+| **Ramalan DL (≥0.7)** | 208 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **216** knowledge graph predictions and **208** high-confidence deep learning predictions.
+Ubat ini mempunyai **216** ramalan graf pengetahuan dan **208** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | asthma | KG |
 | inflammatory bowel disease | KG |
@@ -53,17 +53,17 @@ This drug has **216** knowledge graph predictions and **208** high-confidence de
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB01222`](/fhir/MedicationKnowledge/DB01222.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB01222) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Budesonide) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

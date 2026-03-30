@@ -13,32 +13,32 @@ permalink: /drugs/midazolam/
 
 # Midazolam
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Midazolam |
-| **DrugBank ID** | [DB00683](https://go.drugbank.com/drugs/DB00683) |
-| **KG Predictions** | 6 |
-| **DL Predictions (≥0.7)** | 26 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Midazolam |
+| **ID DrugBank** | [DB00683](https://go.drugbank.com/drugs/DB00683) |
+| **Ramalan KG** | 6 |
+| **Ramalan DL (≥0.7)** | 26 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **6** knowledge graph predictions and **26** high-confidence deep learning predictions.
+Ubat ini mempunyai **6** ramalan graf pengetahuan dan **26** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | anxiety | KG |
 | anxiety | KG |
@@ -49,17 +49,17 @@ This drug has **6** knowledge graph predictions and **26** high-confidence deep 
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00683`](/fhir/MedicationKnowledge/DB00683.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00683) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Midazolam) |
@@ -68,6 +68,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

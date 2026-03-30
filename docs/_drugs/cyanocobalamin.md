@@ -13,32 +13,32 @@ permalink: /drugs/cyanocobalamin/
 
 # Cyanocobalamin
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Cyanocobalamin |
-| **DrugBank ID** | [DB00115](https://go.drugbank.com/drugs/DB00115) |
-| **KG Predictions** | 320 |
-| **DL Predictions (≥0.7)** | 113 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Cyanocobalamin |
+| **ID DrugBank** | [DB00115](https://go.drugbank.com/drugs/DB00115) |
+| **Ramalan KG** | 320 |
+| **Ramalan DL (≥0.7)** | 113 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **320** knowledge graph predictions and **113** high-confidence deep learning predictions.
+Ubat ini mempunyai **320** ramalan graf pengetahuan dan **113** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | microcytic anemia | KG |
 | vitamin deficiency disorder | KG |
@@ -53,17 +53,17 @@ This drug has **320** knowledge graph predictions and **113** high-confidence de
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00115`](/fhir/MedicationKnowledge/DB00115.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00115) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Cyanocobalamin) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

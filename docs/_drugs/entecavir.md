@@ -13,48 +13,48 @@ permalink: /drugs/entecavir/
 
 # Entecavir
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Entecavir |
-| **DrugBank ID** | [DB00442](https://go.drugbank.com/drugs/DB00442) |
-| **KG Predictions** | 1 |
-| **DL Predictions (≥0.7)** | 81 |
-| **Evidence Level** | L5 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Entecavir |
+| **ID DrugBank** | [DB00442](https://go.drugbank.com/drugs/DB00442) |
+| **Ramalan KG** | 1 |
+| **Ramalan DL (≥0.7)** | 81 |
+| **Tahap Bukti** | L5 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **1** knowledge graph predictions and **81** high-confidence deep learning predictions.
+Ubat ini mempunyai **1** ramalan graf pengetahuan dan **81** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | chronic hepatitis B virus infection | KG |
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00442`](/fhir/MedicationKnowledge/DB00442.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00442) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Entecavir) |
@@ -63,6 +63,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

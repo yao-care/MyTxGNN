@@ -20,7 +20,7 @@ Evidence Level: <strong>L1</strong> | Predicted Indications: <strong>5</strong> 
 
 ---
 
-## One-Line Summary
+## Ringkasan Satu Baris
 
 <p class="key-answer" data-question="What new indications can Prednisolone be used for?">
 <strong>Prednisolone</strong> is a glucocorticoid with anti-inflammatory and immunosuppressive effects. TxGNN predicts it may be effective for <strong>lymphosarcoma</strong> and <strong>orbital diseases</strong>, supported by <strong>multiple Phase 3 clinical trials</strong> and <strong>extensive literature</strong>, achieving the highest evidence level L1.
@@ -30,7 +30,7 @@ Evidence Level: <strong>L1</strong> | Predicted Indications: <strong>5</strong> 
 Prednisolone is already a standard component of CHOP chemotherapy for lymphoma. The KG predictions align with established clinical practice, confirming high validity of the model.
 </div>
 
-## Quick Overview
+## Gambaran Ringkas
 
 | Item | Content |
 |------|---------|
@@ -43,7 +43,7 @@ Prednisolone is already a standard component of CHOP chemotherapy for lymphoma. 
 
 ---
 
-## Predicted Indications Analysis
+## Analisis Petunjuk Diramalkan
 
 <details class="indication-section" open>
 <summary>
@@ -53,11 +53,11 @@ Prednisolone is already a standard component of CHOP chemotherapy for lymphoma. 
 </summary>
 <div class="indication-content">
 
-### Why This Prediction Makes Sense
+### Mengapa Ramalan Ini Munasabah
 
 Corticosteroids induce lymphocyte apoptosis through glucocorticoid receptor activation. Prednisolone is a standard component of the **CHOP** (Cyclophosphamide, Hydroxydaunorubicin, Oncovin, Prednisone) chemotherapy regimen, which is the gold standard treatment for non-Hodgkin lymphoma.
 
-### Clinical Trials
+### Ujian Klinikal
 
 | Trial ID | Phase | Status | Enrollment | Key Finding |
 |----------|-------|--------|------------|-------------|
@@ -67,7 +67,7 @@ Corticosteroids induce lymphocyte apoptosis through glucocorticoid receptor acti
 
 **Trial Summary**: 17 Phase 3 trials (9 completed), 15 Phase 2 trials, 3 Phase 4 trials
 
-### Literature
+### Literatur
 
 | PMID | Year | Type | Key Finding |
 |------|------|------|-------------|
@@ -86,11 +86,11 @@ Corticosteroids induce lymphocyte apoptosis through glucocorticoid receptor acti
 </summary>
 <div class="indication-content">
 
-### Why This Prediction Makes Sense
+### Mengapa Ramalan Ini Munasabah
 
 Anti-inflammatory effects reduce orbital tissue edema and inflammation. Prednisolone is commonly used for **Graves' ophthalmopathy** and **idiopathic orbital inflammatory disease**.
 
-### Clinical Trials
+### Ujian Klinikal
 
 | Trial ID | Phase | Status | Enrollment | Key Finding |
 |----------|-------|--------|------------|-------------|
@@ -100,7 +100,7 @@ Anti-inflammatory effects reduce orbital tissue edema and inflammation. Predniso
 
 **Trial Summary**: 12 Phase 3 trials (5 completed), 11 Phase 4 trials (5 completed)
 
-### Literature
+### Literatur
 
 - 20 PubMed articles including EUGOGO clinical practice guidelines
 - 7 case reports on orbital inflammatory disease
@@ -117,15 +117,15 @@ Anti-inflammatory effects reduce orbital tissue edema and inflammation. Predniso
 </summary>
 <div class="indication-content">
 
-### Why This Prediction Makes Sense
+### Mengapa Ramalan Ini Munasabah
 
 Immunomodulatory effects control hypersensitivity reactions. Corticosteroids are used in the management of **Stevens-Johnson syndrome** and **toxic epidermal necrolysis** spectrum disorders.
 
-### Clinical Trials
+### Ujian Klinikal
 
 **Trial Summary**: 3 Phase 3 trials (2 completed), 7 Phase 2 trials (6 completed)
 
-### Literature
+### Literatur
 
 - 20 PubMed articles
 - 14 case reports
@@ -143,11 +143,11 @@ Immunomodulatory effects control hypersensitivity reactions. Corticosteroids are
 </summary>
 <div class="indication-content">
 
-### Why This Prediction Makes Sense
+### Mengapa Ramalan Ini Munasabah
 
 Anti-inflammatory action reduces cardiac inflammation during acute rheumatic fever, potentially preventing long-term cardiac damage.
 
-### Clinical Trials
+### Ujian Klinikal
 
 | Trial ID | Phase | Status | Key Finding |
 |----------|-------|--------|-------------|
@@ -167,15 +167,15 @@ Anti-inflammatory action reduces cardiac inflammation during acute rheumatic fev
 </summary>
 <div class="indication-content">
 
-### Why This Prediction Makes Sense
+### Mengapa Ramalan Ini Munasabah
 
 Basic research on corticosteroid effects on lymphocyte susceptibility. However, clinical evidence is limited.
 
-### Clinical Trials
+### Ujian Klinikal
 
 Only 1 N/A phase trial currently recruiting.
 
-### Literature
+### Literatur
 
 17 PubMed articles, primarily basic research and 2 case reports.
 
@@ -186,7 +186,7 @@ Only 1 N/A phase trial currently recruiting.
 
 ---
 
-## Evidence Summary
+## Ringkasan Bukti
 
 | Indication | Evidence Level | Trials | Articles | Recommendation |
 |------------|---------------|--------|----------|----------------|
@@ -198,7 +198,7 @@ Only 1 N/A phase trial currently recruiting.
 
 ---
 
-## NPRA Registration (Malaysia)
+## Pendaftaran NPRA (Malaysia)
 
 | Product | Registration No. | Holder | Status |
 |---------|-----------------|--------|--------|
@@ -210,17 +210,17 @@ Only 1 N/A phase trial currently recruiting.
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00860`](/fhir/MedicationKnowledge/DB00860.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00860) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Prednisolone) |
@@ -229,7 +229,7 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
+<strong>Penafian</strong><br>
 This report is for <strong>research purposes only</strong> and does not constitute medical advice. Drug repurposing decisions require complete clinical validation and regulatory review. Always consult healthcare professionals.
 <br><br>
 <small>Last updated: 2026-03-04 | Analyzed by: Claude | MyTxGNN Research Team</small>

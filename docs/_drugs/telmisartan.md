@@ -13,32 +13,32 @@ permalink: /drugs/telmisartan/
 
 # Telmisartan
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Telmisartan |
-| **DrugBank ID** | [DB00966](https://go.drugbank.com/drugs/DB00966) |
-| **KG Predictions** | 348 |
-| **DL Predictions (≥0.7)** | 72 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Telmisartan |
+| **ID DrugBank** | [DB00966](https://go.drugbank.com/drugs/DB00966) |
+| **Ramalan KG** | 348 |
+| **Ramalan DL (≥0.7)** | 72 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **348** knowledge graph predictions and **72** high-confidence deep learning predictions.
+Ubat ini mempunyai **348** ramalan graf pengetahuan dan **72** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | stroke disorder | KG |
 | obsolete susceptibility to ischemic stroke | KG |
@@ -53,17 +53,17 @@ This drug has **348** knowledge graph predictions and **72** high-confidence dee
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00966`](/fhir/MedicationKnowledge/DB00966.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00966) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Telmisartan) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

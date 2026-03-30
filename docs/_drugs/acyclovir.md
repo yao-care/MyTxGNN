@@ -13,32 +13,32 @@ permalink: /drugs/acyclovir/
 
 # Acyclovir
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Acyclovir |
-| **DrugBank ID** | [DB00787](https://go.drugbank.com/drugs/DB00787) |
-| **KG Predictions** | 252 |
-| **DL Predictions (≥0.7)** | 926 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Acyclovir |
+| **ID DrugBank** | [DB00787](https://go.drugbank.com/drugs/DB00787) |
+| **Ramalan KG** | 252 |
+| **Ramalan DL (≥0.7)** | 926 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **252** knowledge graph predictions and **926** high-confidence deep learning predictions.
+Ubat ini mempunyai **252** ramalan graf pengetahuan dan **926** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | herpes zoster | KG |
 | herpes simplex encephalitis | KG |
@@ -53,17 +53,17 @@ This drug has **252** knowledge graph predictions and **926** high-confidence de
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00787`](/fhir/MedicationKnowledge/DB00787.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00787) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Acyclovir) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

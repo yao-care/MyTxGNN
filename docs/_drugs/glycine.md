@@ -13,32 +13,32 @@ permalink: /drugs/glycine/
 
 # Glycine
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Glycine |
-| **DrugBank ID** | [DB00145](https://go.drugbank.com/drugs/DB00145) |
-| **KG Predictions** | 192 |
-| **DL Predictions (≥0.7)** | 35 |
-| **Evidence Level** | L2 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Glycine |
+| **ID DrugBank** | [DB00145](https://go.drugbank.com/drugs/DB00145) |
+| **Ramalan KG** | 192 |
+| **Ramalan DL (≥0.7)** | 35 |
+| **Tahap Bukti** | L2 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **192** knowledge graph predictions and **35** high-confidence deep learning predictions.
+Ubat ini mempunyai **192** ramalan graf pengetahuan dan **35** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | pharyngitis | KG |
 | rhinitis | KG |
@@ -53,17 +53,17 @@ This drug has **192** knowledge graph predictions and **35** high-confidence dee
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00145`](/fhir/MedicationKnowledge/DB00145.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00145) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Glycine) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>

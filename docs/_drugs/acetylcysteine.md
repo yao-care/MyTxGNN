@@ -13,32 +13,32 @@ permalink: /drugs/acetylcysteine/
 
 # Acetylcysteine
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Attribute | Value |
+| Atribut | Nilai |
 |-----------|-------|
-| **Drug Name** | Acetylcysteine |
-| **DrugBank ID** | [DB06151](https://go.drugbank.com/drugs/DB06151) |
-| **KG Predictions** | 232 |
-| **DL Predictions (≥0.7)** | 269 |
-| **Evidence Level** | L1 |
-| **NPRA Status** | Approved |
+| **Nama Ubat** | Acetylcysteine |
+| **ID DrugBank** | [DB06151](https://go.drugbank.com/drugs/DB06151) |
+| **Ramalan KG** | 232 |
+| **Ramalan DL (≥0.7)** | 269 |
+| **Tahap Bukti** | L1 |
+| **Status NPRA** | Approved |
 
 ---
 
-## Sample Brand Names in Malaysia
+## Contoh Nama Jenama di Malaysia
 
 
 
 ---
 
-## Predicted Indications
+## Petunjuk Diramalkan
 
-This drug has **232** knowledge graph predictions and **269** high-confidence deep learning predictions.
+Ubat ini mempunyai **232** ramalan graf pengetahuan dan **269** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
-### Top KG Predictions
+### Ramalan KG Teratas
 
-| Indication | Source |
+| Petunjuk | Sumber |
 |------------|--------|
 | bronchitis | KG |
 | bronchiectasis | KG |
@@ -53,17 +53,17 @@ This drug has **232** knowledge graph predictions and **269** high-confidence de
 
 ---
 
-## FHIR Resources
+## Sumber FHIR
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
 - **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB06151`](/fhir/MedicationKnowledge/DB06151.json)
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Link |
+| Sumber | Pautan |
 |----------|------|
 | DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB06151) |
 | PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Acetylcysteine) |
@@ -72,6 +72,6 @@ Access drug data via FHIR R4 API:
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-Drug repurposing predictions are for research purposes only. These predictions have not been clinically validated and should not be used for medical decisions. Always consult healthcare professionals.
+<strong>Penafian</strong><br>
+Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>
