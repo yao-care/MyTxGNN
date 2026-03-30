@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-30T05:23:10.641385",
+  "fetched": "2026-03-30T07:25:59.421230",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,39 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Consider Hiring Foreign Doctors As Mitigation Strategy: Kota Melaka MP",
+      "url": "https://codeblue.galencentre.org/2026/03/consider-hiring-foreign-doctors-as-mitigation-strategy-kota-melaka-mp/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-30T05:51:08",
+      "summary": "Kota Melaka MP Khoo Poay Tiong says the prospect of hiring foreign doctors may need to be considered as a short-term mitigation strategy to address dire shortages of housemen and specialists, but standards can't be compromised. Remuneration must be fair. The post Consider Hiring Foreign Doctors As Mitigation Strategy: Kota Melaka MP appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "SPM BM, History Requirements Worsening Housemen Shortage: PMPS",
+      "url": "https://codeblue.galencentre.org/2026/03/spm-bm-history-requirements-worsening-housemen-shortage-pmps/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-30T05:48:33",
+      "summary": "The Penang Medical Practitioners Society wants a re-evaluation of SPM BM and History requirements for medical practice in the public sector, saying this obstacle is preventing students from non-mainstream education pathways from joining housemanship. The post SPM BM, History Requirements Worsening Housemen Shortage: PMPS appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
+    {
+      "title": "WFH For Civil Servants: Don’t Forget Those Who Can’t Stay Home — Concerned Doctor",
+      "url": "https://codeblue.galencentre.org/2026/03/wfh-for-civil-servants-dont-forget-those-who-cant-stay-home-concerned-doctor/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-30T05:30:00",
+      "summary": "As health workers, policemen, military personnel, and emergency responders can't work from home, frontline civil servants should get targeted financial incentives and child care support. When flexibility is given to some, fairness must be extended to all. The post WFH For Civil Servants: Don’t Forget Those Who Can’t Stay Home — Concerned Doctor appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
     {
       "title": "JanaVeteran Project Empowers ATM Veterans Through Ginger Farming",
       "url": "https://codeblue.galencentre.org/2026/03/janaveteran-project-empowers-atm-veterans-through-ginger-farming/",
@@ -82,31 +113,13 @@
       ]
     },
     {
-      "title": "Mat Sabu Must Step Up At Critical Moment",
-      "url": "https://codeblue.galencentre.org/2026/03/mat-sabu-must-step-up-at-critical-moment/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-27T02:00:33",
-      "summary": "Mat Sabu must step up at this critical moment when food security is a key concern in the West Asia conflict. While countries are racing to secure enough fertilisers to prevent a food crisis, like the previous scramble for Covid vaccines, Malaysia is inert. The post Mat Sabu Must Step Up At Critical Moment appeared first on CodeBlue .",
+      "title": "Farmers’ organisation board staff pleads not guilty to RM141,872 embezzlement in Johor Bahru",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/30/farmers-organisation-board-staff-pleads-not-guilty-to-rm141872-embezzlement-in-johor-bahru/214421",
+      "source": "Malay Mail",
+      "published": "2026-03-30T05:26:20",
+      "summary": "JOHOR BAHRU, March 30 — A 36-year-old staff of the Farmers’ Organisation Board (LPP) claimed trial in the Se...",
       "keywords_matched": [
-        "vaccine"
-      ]
-    },
-    {
-      "title": "Safety First: Reassessing Fuel Dispensing And Border Trade Oversight — Dr Theva Raj Ponnudurai & Dr Musa Mohd Nordin",
-      "url": "https://codeblue.galencentre.org/2026/03/safety-first-reassessing-fuel-dispensing-and-border-trade-oversight-dr-theva-raj-ponnudurai-dr-musa-mohd-nordin/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-26T08:08:27",
-      "summary": "The sight of plastic containers filled with petrol being transported in private vehicles is alarming. In the current scorching heat, each such container effectively becomes a potential firebomb. The post Safety First: Reassessing Fuel Dispensing And Border Trade Oversight — Dr Theva Raj Ponnudurai & Dr Musa Mohd Nordin appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Beyond Fake MCs: A Call To Rebuild Trust In Malaysia’s Medical Leave System — Dr Raymond Choy",
-      "url": "https://codeblue.galencentre.org/2026/03/beyond-fake-mcs-a-call-to-rebuild-trust-in-malaysias-medical-leave-system-dr-raymond-choy/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-26T05:30:00",
-      "summary": "The scale of MC misuse highlighted in recent reports should not only be seen as a compliance concern, but as a catalyst for reform. The post Beyond Fake MCs: A Call To Rebuild Trust In Malaysia’s Medical Leave System — Dr Raymond Choy appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
+        "trial"
       ]
     },
     {
