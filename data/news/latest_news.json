@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-31T22:33:35.052325",
+  "fetched": "2026-03-31T23:33:04.366031",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "We Finally Solved Malaysia’s Doctor ‘Oversupply’: 5,000 Posts, 529 Doctors — Clinician",
@@ -127,16 +127,6 @@
       "summary": "JOHOR BAHRU, March 31 — A 38 year old municipal administrator claimed trial in the Sessions Court here today on a...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Penang DOSH clamps down on Bukit Minyak site after worker killed by falling plywood from crane",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/31/penang-dosh-clamps-down-on-bukit-minyak-site-after-worker-killed-by-falling-plywood-from-crane/214499",
-      "source": "Malay Mail",
-      "published": "2026-03-31T02:58:55",
-      "summary": "BUKIT MERTAJAM, March 31 — The Department of Occupational Safety and Health (DOSH) Penang has issued a Prohibition...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
