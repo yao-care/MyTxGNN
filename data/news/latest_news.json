@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-30T23:33:36.783209",
+  "fetched": "2026-03-31T02:12:00.167506",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,18 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "‘First-Come, First-Served’, Pharma Company Tells MOH Hospitals As Supply Tightens",
+      "url": "https://codeblue.galencentre.org/2026/03/first-come-first-served-pharma-company-tells-moh-hospitals-as-supply-tightens/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-31T02:00:00",
+      "summary": "A drug maker warns of possible supply constraints and up to 50% cost increases, a \"conservative\" estimate, as it urged MOH hospitals to order early because “first-come, first-served” applies. Its notice has reached at least one public hospital in Sabah. The post ‘First-Come, First-Served’, Pharma Company Tells MOH Hospitals As Supply Tightens appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "When An Admin Error Cost A Doctor Months Of Her Career — Dr NA",
       "url": "https://codeblue.galencentre.org/2026/03/when-an-admin-error-cost-a-doctor-months-of-her-career-dr-na/",
@@ -108,16 +120,6 @@
         "medical",
         "doctor",
         "patient"
-      ]
-    },
-    {
-      "title": "The Day I Quit Medicine — Dr Goh Heong Keong",
-      "url": "https://codeblue.galencentre.org/2026/03/the-day-i-quit-medicine-dr-goh-heong-keong/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-27T05:30:00",
-      "summary": "The joy, the intellectual challenge, and the humanitarian core of medicine have been eroded by the weight of liability, leaving only the anxiety and the hollow performance of risk management. The post The Day I Quit Medicine — Dr Goh Heong Keong appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medicine"
       ]
     }
   ]
