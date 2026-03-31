@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-31T02:12:00.167506",
+  "fetched": "2026-03-31T05:08:17.357173",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,21 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "New Alzheimer’s Drug In Malaysia May Slow Disease Progression By Eight Years",
+      "url": "https://codeblue.galencentre.org/2026/03/new-alzheimers-drug-in-malaysia-may-slow-disease-progression-by-eight-years/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-31T03:30:00",
+      "summary": "Lecanemab, a new Alzheimer's drug recently approved in Malaysia, shows great promise for patients with early Alzheimer’s by slowing disease progression, potentially by over eight years. The treatment doesn't cure disease, but buys time for patients. The post New Alzheimer’s Drug In Malaysia May Slow Disease Progression By Eight Years appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug",
+        "treatment",
+        "disease",
+        "patient"
+      ]
+    },
     {
       "title": "‘First-Come, First-Served’, Pharma Company Tells MOH Hospitals As Supply Tightens",
       "url": "https://codeblue.galencentre.org/2026/03/first-come-first-served-pharma-company-tells-moh-hospitals-as-supply-tightens/",
@@ -110,16 +123,23 @@
       ]
     },
     {
-      "title": "Patient, Client, Or Health Care Consumer? — Dr Pearl Leong",
-      "url": "https://codeblue.galencentre.org/2026/03/patient-client-or-health-care-consumer-dr-pearl-leong/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-27T07:30:00",
-      "summary": "Nothing can replace the personal medical advice you receive from your own doctor, who knows you and your personal medical history. The post Patient, Client, Or Health Care Consumer? — Dr Pearl Leong appeared first on CodeBlue .",
+      "title": "Pontian municipal officer pleads not guilty to cheating charges involving RM62,760 over building application",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/31/pontian-municipal-officer-pleads-not-guilty-to-cheating-charges-involving-rm62760-over-building-application/214512",
+      "source": "Malay Mail",
+      "published": "2026-03-31T04:52:04",
+      "summary": "JOHOR BAHRU, March 31 — A 38 year old municipal administrator claimed trial in the Sessions Court here today on a...",
       "keywords_matched": [
-        "health",
-        "medical",
-        "doctor",
-        "patient"
+        "trial"
+      ]
+    },
+    {
+      "title": "Penang DOSH clamps down on Bukit Minyak site after worker killed by falling plywood from crane",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/31/penang-dosh-clamps-down-on-bukit-minyak-site-after-worker-killed-by-falling-plywood-from-crane/214499",
+      "source": "Malay Mail",
+      "published": "2026-03-31T02:58:55",
+      "summary": "BUKIT MERTAJAM, March 31 — The Department of Occupational Safety and Health (DOSH) Penang has issued a Prohibition...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
