@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-01T05:23:00.102313",
+  "fetched": "2026-04-01T07:19:02.960130",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Middle East War Raises Concerns For Malaysia’s Health Care System — Dr Hoomashini Gunasegaran, Dr Sean Thum & Dr Tharani Loganathan",
@@ -138,17 +138,6 @@
       "summary": "KOTA KINABALU, April 1 — The inquest proceedings into the death of Zara Qairina Mahathir will continue with testim...",
       "keywords_matched": [
         "medical"
-      ]
-    },
-    {
-      "title": "Malaysia, WHO ramp up cooperation to improve early detection of infectious diseases, says health minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/01/malaysia-who-ramp-up-cooperation-to-improve-early-detection-of-infectious-diseases-says-health-minister/214605",
-      "source": "Malay Mail",
-      "published": "2026-04-01T02:19:15",
-      "summary": "KUALA LUMPUR, April 1 — Cooperation between Malaysia and the World Health Organisation (WHO) will strengthen the c...",
-      "keywords_matched": [
-        "health",
-        "disease"
       ]
     }
   ]
