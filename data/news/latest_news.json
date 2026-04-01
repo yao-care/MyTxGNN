@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-01T02:29:33.455682",
+  "fetched": "2026-04-01T05:23:00.102313",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Middle East War Raises Concerns For Malaysia’s Health Care System — Dr Hoomashini Gunasegaran, Dr Sean Thum & Dr Tharani Loganathan",
+      "url": "https://codeblue.galencentre.org/2026/04/middle-east-war-raises-concerns-for-malaysias-health-care-system-dr-hoomashini-gunasegaran-dr-sean-thum-dr-tharani-loganathan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-01T03:49:14",
+      "summary": "Malaysia does have buffers, including energy revenues and existing subsidy frameworks, but these alone are not sufficient. What is needed is a more anticipatory approach that protects access to health care and nutrition while strengthening system resilience. The post Middle East War Raises Concerns For Malaysia’s Health Care System — Dr Hoomashini Gunasegaran, Dr Sean Thum & Dr Tharani Loganathan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Bully Or Build? Teach Or Tear Down?: The Specialist’s Role In Shaping Culture — Dr Timothy Cheng",
       "url": "https://codeblue.galencentre.org/2026/04/bully-or-build-teach-or-tear-down-the-specialists-role-in-shaping-culture-dr-timothy-cheng/",
@@ -111,14 +121,23 @@
       ]
     },
     {
-      "title": "WFH For Civil Servants: Don’t Forget Those Who Can’t Stay Home — Concerned Doctor",
-      "url": "https://codeblue.galencentre.org/2026/03/wfh-for-civil-servants-dont-forget-those-who-cant-stay-home-concerned-doctor/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-30T05:30:00",
-      "summary": "As health workers, policemen, military personnel, and emergency responders can't work from home, frontline civil servants should get targeted financial incentives and child care support. When flexibility is given to some, fairness must be extended to all. The post WFH For Civil Servants: Don’t Forget Those Who Can’t Stay Home — Concerned Doctor appeared first on CodeBlue .",
+      "title": "Driver at centre of viral Klang crash faces murder charge, pleads guilty to drug offence",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/01/driver-at-centre-of-viral-klang-crash-faces-murder-charge-pleads-guilty-to-drug-offence/214618",
+      "source": "Malay Mail",
+      "published": "2026-04-01T03:26:33",
+      "summary": "KLANG, April 1 — The driver at the centre of a viral crash that hurled a motorcyclist onto another car was brought...",
       "keywords_matched": [
-        "health",
-        "doctor"
+        "drug"
+      ]
+    },
+    {
+      "title": "Two more medical experts to testify in Zara Qairina inquest",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/01/two-more-medical-experts-to-testify-in-zara-qairina-inquest/214617",
+      "source": "Malay Mail",
+      "published": "2026-04-01T03:21:58",
+      "summary": "KOTA KINABALU, April 1 — The inquest proceedings into the death of Zara Qairina Mahathir will continue with testim...",
+      "keywords_matched": [
+        "medical"
       ]
     },
     {
