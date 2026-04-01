@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-01T09:02:45.918627",
+  "fetched": "2026-04-01T10:54:33.225417",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Middle East War Raises Concerns For Malaysia’s Health Care System — Dr Hoomashini Gunasegaran, Dr Sean Thum & Dr Tharani Loganathan",
@@ -118,16 +118,6 @@
       "keywords_matched": [
         "medical",
         "doctor"
-      ]
-    },
-    {
-      "title": "Penang lowers quit rent for old industrial plots after landowners protest steep hikes",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/01/penang-lowers-quit-rent-for-old-industrial-plots-after-landowners-protest-steep-hikes/214662",
-      "source": "Malay Mail",
-      "published": "2026-04-01T08:03:25",
-      "summary": "GEORGE TOWN, April 1 — Penang has moved to ease the burden on certain landowners by reducing annual quit rent char...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
