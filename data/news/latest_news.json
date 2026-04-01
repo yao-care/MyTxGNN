@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-01T07:19:02.960130",
+  "fetched": "2026-04-01T09:02:45.918627",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Middle East War Raises Concerns For Malaysia’s Health Care System — Dr Hoomashini Gunasegaran, Dr Sean Thum & Dr Tharani Loganathan",
@@ -121,23 +121,13 @@
       ]
     },
     {
-      "title": "Driver at centre of viral Klang crash faces murder charge, pleads guilty to drug offence",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/01/driver-at-centre-of-viral-klang-crash-faces-murder-charge-pleads-guilty-to-drug-offence/214618",
+      "title": "Penang lowers quit rent for old industrial plots after landowners protest steep hikes",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/01/penang-lowers-quit-rent-for-old-industrial-plots-after-landowners-protest-steep-hikes/214662",
       "source": "Malay Mail",
-      "published": "2026-04-01T03:26:33",
-      "summary": "KLANG, April 1 — The driver at the centre of a viral crash that hurled a motorcyclist onto another car was brought...",
+      "published": "2026-04-01T08:03:25",
+      "summary": "GEORGE TOWN, April 1 — Penang has moved to ease the burden on certain landowners by reducing annual quit rent char...",
       "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Two more medical experts to testify in Zara Qairina inquest",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/01/two-more-medical-experts-to-testify-in-zara-qairina-inquest/214617",
-      "source": "Malay Mail",
-      "published": "2026-04-01T03:21:58",
-      "summary": "KOTA KINABALU, April 1 — The inquest proceedings into the death of Zara Qairina Mahathir will continue with testim...",
-      "keywords_matched": [
-        "medical"
+        "trial"
       ]
     }
   ]
