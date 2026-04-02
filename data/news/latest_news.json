@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-02T11:43:32.401041",
+  "fetched": "2026-04-02T13:11:07.609681",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "From Caregiver To Patient: A Nurse’s Call For Safer Chemotherapy Handling Practices — Parameswari Vadivalu",
@@ -117,26 +117,6 @@
         "drug",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Toxic beauty: MOH bans two cosmetic products over mercury and other poisons",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/02/toxic-beauty-moh-bans-two-cosmetic-products-over-mercury-and-other-poisons/214833",
-      "source": "Malay Mail",
-      "published": "2026-04-02T09:19:59",
-      "summary": "PUTRAJAYA, April 2 — The Ministry of Health (MOH) no longer permits the sale of two cosmetic products, Glowing Nit...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Johor police bust drug syndicate, seize narcotics worth RM1.2m",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/02/johor-police-bust-drug-syndicate-seize-narcotics-worth-rm12m/214808",
-      "source": "Malay Mail",
-      "published": "2026-04-02T06:55:24",
-      "summary": "JOHOR BAHRU, April 2 — Police have crippled a drug trafficking syndicate following two raids here on Monday and Tu...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
