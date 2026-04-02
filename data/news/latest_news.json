@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-02T05:01:34.611959",
+  "fetched": "2026-04-02T07:10:37.958171",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,18 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "From Caregiver To Patient: A Nurse’s Call For Safer Chemotherapy Handling Practices — Parameswari Vadivalu",
+      "url": "https://codeblue.galencentre.org/2026/04/from-caregiver-to-patient-a-nurses-call-for-safer-chemotherapy-handling-practices-parameswari-vadivalu/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-02T06:18:26",
+      "summary": "Every nurse and health care worker deserves a safe working environment. Protecting those who care for others is not only a professional obligation but a moral imperative. The post From Caregiver To Patient: A Nurse’s Call For Safer Chemotherapy Handling Practices — Parameswari Vadivalu appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "therapy",
+        "patient"
+      ]
+    },
     {
       "title": "Long Overdue GP Fee Revision Strengthens Primary Care — MMA",
       "url": "https://codeblue.galencentre.org/2026/04/long-overdue-gp-fee-revision-strengthens-primary-care-mma/",
@@ -108,14 +120,13 @@
       ]
     },
     {
-      "title": "When An Admin Error Cost A Doctor Months Of Her Career — Dr NA",
-      "url": "https://codeblue.galencentre.org/2026/03/when-an-admin-error-cost-a-doctor-months-of-her-career-dr-na/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-30T08:00:00",
-      "summary": "If medical officers are held accountable for non-compliance, then administrative systems and those responsible for them must also be held to a similar standard. This requires meaningful corrective action that reflects the seriousness of the oversight. The post When An Admin Error Cost A Doctor Months Of Her Career — Dr NA appeared first on CodeBlue .",
+      "title": "Johor police bust drug syndicate, seize narcotics worth RM1.2m",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/02/johor-police-bust-drug-syndicate-seize-narcotics-worth-rm12m/214808",
+      "source": "Malay Mail",
+      "published": "2026-04-02T06:55:24",
+      "summary": "JOHOR BAHRU, April 2 — Police have crippled a drug trafficking syndicate following two raids here on Monday and Tu...",
       "keywords_matched": [
-        "medical",
-        "doctor"
+        "drug"
       ]
     },
     {
@@ -124,16 +135,6 @@
       "source": "Malay Mail",
       "published": "2026-04-02T02:09:17",
       "summary": "KUALA LUMPUR, April 2 — Police are tracking down a local man who acted aggressively and injured an officer of the...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Penang police dismantle drug lab, seize RM3.43m worth of narcotics in raids",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/02/penang-police-dismantle-drug-lab-seize-rm343m-worth-of-narcotics-in-raids/214761",
-      "source": "Malay Mail",
-      "published": "2026-04-02T01:22:53",
-      "summary": "GEORGE TOWN, April 2 — Penang police successfully dismantled a drug processing laboratory and busted a drug traffi...",
       "keywords_matched": [
         "drug"
       ]
