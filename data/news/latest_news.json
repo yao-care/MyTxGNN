@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-02T02:08:39.759683",
+  "fetched": "2026-04-02T05:01:34.611959",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,27 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Long Overdue GP Fee Revision Strengthens Primary Care — MMA",
+      "url": "https://codeblue.galencentre.org/2026/04/long-overdue-gp-fee-revision-strengthens-primary-care-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-02T03:56:15",
+      "summary": "MMA will continue to advocate for a structured and consistent approach to future revisions, including better alignment across the system. The post Long Overdue GP Fee Revision Strengthens Primary Care — MMA appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Breaking The Cycle: Mentorship Over Authoritarianism In Malaysian Medicine — Houseman",
+      "url": "https://codeblue.galencentre.org/2026/04/breaking-the-cycle-mentorship-over-authoritarianism-in-malaysian-medicine-houseman/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-02T03:30:00",
+      "summary": "Authoritarian systems create space for bullying and intimidation, eroding confidence and potentially compromising patient safety. The post Breaking The Cycle: Mentorship Over Authoritarianism In Malaysian Medicine — Houseman appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "patient"
+      ]
+    },
     {
       "title": "MOH Moves To ‘Optimise’ Drug Dispensing As Supply Risks Loom",
       "url": "https://codeblue.galencentre.org/2026/04/moh-moves-to-optimise-drug-dispensing-as-supply-risks-loom/",
@@ -100,27 +119,13 @@
       ]
     },
     {
-      "title": "Amend Act 586 Before Launching Base MHIT, Says Gopeng MP",
-      "url": "https://codeblue.galencentre.org/2026/03/amend-act-586-before-launching-base-mhit-says-gopeng-mp/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-30T07:52:32",
-      "summary": "Gopeng MP Tan Kar Hing wants the Private Healthcare Facilities and Services Act to be amended first to control private hospital charges beyond doctor fees (facilities, drugs and consumables) and prevent \"over-servicing\" before launching the Base MHIT plan. The post Amend Act 586 Before Launching Base MHIT, Says Gopeng MP appeared first on CodeBlue .",
+      "title": "Police tracking down suspect after anti‑drugs officer injured in knife attack during Bangsar operation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/02/police-tracking-down-suspect-after-antidrugs-officer-injured-in-knife-attack-during-bangsar-operation/214774",
+      "source": "Malay Mail",
+      "published": "2026-04-02T02:09:17",
+      "summary": "KUALA LUMPUR, April 2 — Police are tracking down a local man who acted aggressively and injured an officer of the...",
       "keywords_matched": [
-        "health",
-        "drug",
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Consider Hiring Foreign Doctors As Mitigation Strategy: Kota Melaka MP",
-      "url": "https://codeblue.galencentre.org/2026/03/consider-hiring-foreign-doctors-as-mitigation-strategy-kota-melaka-mp/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-30T05:51:08",
-      "summary": "Kota Melaka MP Khoo Poay Tiong says the prospect of hiring foreign doctors may need to be considered as a short-term mitigation strategy to address dire shortages of housemen and specialists, but standards can't be compromised. Remuneration must be fair. The post Consider Hiring Foreign Doctors As Mitigation Strategy: Kota Melaka MP appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
+        "drug"
       ]
     },
     {
