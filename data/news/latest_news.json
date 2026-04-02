@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-02T22:30:20.775744",
+  "fetched": "2026-04-02T23:34:27.954856",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "From Caregiver To Patient: A Nurse’s Call For Safer Chemotherapy Handling Practices — Parameswari Vadivalu",
@@ -127,16 +127,6 @@
       "summary": "PUTRAJAYA, April 2 — The Ministry of Health (MOH) no longer permits the sale of two cosmetic products, Glowing Nit...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Johor police bust drug syndicate, seize narcotics worth RM1.2m",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/02/johor-police-bust-drug-syndicate-seize-narcotics-worth-rm12m/214808",
-      "source": "Malay Mail",
-      "published": "2026-04-02T06:55:24",
-      "summary": "JOHOR BAHRU, April 2 — Police have crippled a drug trafficking syndicate following two raids here on Monday and Tu...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
