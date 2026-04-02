@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-01T23:34:42.246088",
+  "fetched": "2026-04-02T02:08:39.759683",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,22 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "MOH Moves To ‘Optimise’ Drug Dispensing As Supply Risks Loom",
+      "url": "https://codeblue.galencentre.org/2026/04/moh-moves-to-optimise-drug-dispensing-as-supply-risks-loom/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-02T02:00:00",
+      "summary": "MOH's Pharmaceutical Services Programme is tightening medicine dispensing as global cost pressures rise, saying it's \"optimising dispensing practices based on clinical needs\" and \"reviewing patients' existing medication supply to avoid duplication\". The post MOH Moves To ‘Optimise’ Drug Dispensing As Supply Risks Loom appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "drug",
+        "patient",
+        "pharmaceutical",
+        "clinical"
+      ]
+    },
     {
       "title": "Middle East War Raises Concerns For Malaysia’s Health Care System — Dr Hoomashini Gunasegaran, Dr Sean Thum & Dr Tharani Loganathan",
       "url": "https://codeblue.galencentre.org/2026/04/middle-east-war-raises-concerns-for-malaysias-health-care-system-dr-hoomashini-gunasegaran-dr-sean-thum-dr-tharani-loganathan/",
@@ -110,14 +124,13 @@
       ]
     },
     {
-      "title": "SPM BM, History Requirements Worsening Housemen Shortage: Doctor",
-      "url": "https://codeblue.galencentre.org/2026/03/spm-bm-history-requirements-worsening-housemen-shortage-pmps/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-30T05:48:33",
-      "summary": "A paediatrician wants a re-evaluation of SPM BM and History requirements for medical practice in the public sector, saying this obstacle is preventing students from non-mainstream education pathways from joining housemanship. The post SPM BM, History Requirements Worsening Housemen Shortage: Doctor appeared first on CodeBlue .",
+      "title": "Penang police dismantle drug lab, seize RM3.43m worth of narcotics in raids",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/02/penang-police-dismantle-drug-lab-seize-rm343m-worth-of-narcotics-in-raids/214761",
+      "source": "Malay Mail",
+      "published": "2026-04-02T01:22:53",
+      "summary": "GEORGE TOWN, April 2 — Penang police successfully dismantled a drug processing laboratory and busted a drug traffi...",
       "keywords_matched": [
-        "medical",
-        "doctor"
+        "drug"
       ]
     }
   ]
