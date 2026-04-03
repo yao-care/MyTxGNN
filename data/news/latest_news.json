@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-03T02:10:15.217229",
+  "fetched": "2026-04-03T05:03:50.509617",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,34 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "GP Fee Revision Impact Depends On TPA Arrangements — FPMPAM",
+      "url": "https://codeblue.galencentre.org/2026/04/gp-fee-revision-impact-depends-on-tpa-arrangements-fpmpam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-03T04:35:43",
+      "summary": "While the revised RM10 to RM80 GP fee range provides some flexibility, its real impact will depend on how it is implemented in practice, particularly within existing managed care and TPA arrangements, where pricing may not be fully market-driven. The post GP Fee Revision Impact Depends On TPA Arrangements — FPMPAM appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Growing Old In A Young Policy State",
+      "url": "https://codeblue.galencentre.org/2026/04/growing-old-in-a-young-policy-state/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-03T04:21:12",
+      "summary": "Perhaps the most striking gap in Malaysia’s ageing policy is the absence of a coherent long-term care system. Families remain the primary caregivers for older persons. Meanwhile, the private nursing home sector has expanded rapidly. The post Growing Old In A Young Policy State appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Health Care Harder To Navigate Than Banking, Air Travel, Say ProtectHealth And Prudential",
+      "url": "https://codeblue.galencentre.org/2026/04/health-care-harder-to-navigate-than-banking-air-travel-say-protecthealth-and-prudential/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-03T03:45:30",
+      "summary": "Patients are confused over care pathways, costs, and access, as health care lags behind other industries in clarity and simplicity, say ProtectHealth and Prudential, citing delays in care and poor navigation. Medical costs change, unlike flight tickets. The post Health Care Harder To Navigate Than Banking, Air Travel, Say ProtectHealth And Prudential appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "patient"
+      ]
+    },
     {
       "title": "Admin Assistant Allegedly Scams Nearly 190 Housemen Out Of RM47,000 At HTA",
       "url": "https://codeblue.galencentre.org/2026/04/admin-assistant-allegedly-scams-nearly-190-housemen-out-of-rm47000-at-hta/",
@@ -83,39 +111,6 @@
       "summary": "Doctors do not expect unlimited freedom, but they do expect to be treated as professionals. I’ve caught myself thinking before, “Why this also you don’t know?\". But then I remind myself – not everyone is working in the same environment as I am. The post Bully Or Build? Teach Or Tear Down?: The Specialist’s Role In Shaping Culture — Dr Timothy Cheng appeared first on CodeBlue .",
       "keywords_matched": [
         "doctor"
-      ]
-    },
-    {
-      "title": "We Finally Solved Malaysia’s Doctor ‘Oversupply’: 5,000 Posts, 529 Doctors — Clinician",
-      "url": "https://codeblue.galencentre.org/2026/03/we-finally-solved-malaysias-doctor-oversupply-5000-posts-529-doctors-clinician/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-31T07:30:00",
-      "summary": "If this trajectory of declining housemen numbers continues, we must ask an uncomfortable question: Are we heading back to the 1960s and 1970s, when we had to import doctors from India, Pakistan, Egypt, or Myanmar just to keep the system running? The post We Finally Solved Malaysia’s Doctor ‘Oversupply’: 5,000 Posts, 529 Doctors — Clinician appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Concerns Regarding Cut To Ophthalmology Master’s Programme Candidates — Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/03/concerns-regarding-cut-to-ophthalmology-masters-programme-candidates-medical-officer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-31T05:30:00",
-      "summary": "The 2026/27 intake for the ophthalmology Master's programme will be reportedly reduced from 60 to 40 candidates this year. Currently, there are only 318 ophthalmologists in public service, reflecting a significant shortfall of over 300 specialists. The post Concerns Regarding Cut To Ophthalmology Master’s Programme Candidates — Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "New Alzheimer’s Drug In Malaysia May Slow Disease Progression By Eight Years",
-      "url": "https://codeblue.galencentre.org/2026/03/new-alzheimers-drug-in-malaysia-may-slow-disease-progression-by-eight-years/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-31T03:30:00",
-      "summary": "Lecanemab, a new Alzheimer's drug recently approved in Malaysia, shows great promise for patients with early Alzheimer’s by slowing disease progression, potentially by over eight years. The treatment doesn't cure disease, but buys time for patients. The post New Alzheimer’s Drug In Malaysia May Slow Disease Progression By Eight Years appeared first on CodeBlue .",
-      "keywords_matched": [
-        "drug",
-        "treatment",
-        "disease",
-        "patient"
       ]
     },
     {
