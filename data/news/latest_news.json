@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-03T08:52:39.728389",
+  "fetched": "2026-04-03T09:52:42.475069",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,24 @@
   ],
   "total_items": 13,
   "items": [
+    {
+      "title": "Restore 300L Monthly Fuel Subsidy Quota For Health Workers — MMA",
+      "url": "https://codeblue.galencentre.org/2026/04/restore-300l-monthly-fuel-subsidy-quota-for-health-workers-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-03T09:34:39",
+      "summary": "We recommend restoring the 300-litre monthly fuel subsidy quota, or implementing a specific exemption, for health care workers who are required to be physically present for duty in MOH. Policies must remain equitable and grounded in operational realities. The post Restore 300L Monthly Fuel Subsidy Quota For Health Workers — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Take Action Against Sale Of Non-Registered, Suspected Counterfeit Blood Pressure Monitors — MPS",
+      "url": "https://codeblue.galencentre.org/2026/04/take-action-against-sale-of-non-registered-suspected-counterfeit-blood-pressure-monitors-mps/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-03T09:22:43",
+      "summary": "MPS notes reports indicating that non-registered or suspected counterfeit BPMs remain widely accessible. Based on a chain pharmacy's internal screening work last year, 10,081 devices were checked for accuracy; 31% were found to be not registered with MDA. The post Take Action Against Sale Of Non-Registered, Suspected Counterfeit Blood Pressure Monitors — MPS appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Schedule 7 Amendment: A Partial Fix That Should Not Be Misread — PMPASKL",
       "url": "https://codeblue.galencentre.org/2026/04/schedule-7-amendment-a-partial-fix-that-should-not-be-misread-pmpaskl/",
@@ -88,27 +106,13 @@
       ]
     },
     {
-      "title": "MOH Moves To ‘Optimise’ Drug Dispensing As Supply Risks Loom",
-      "url": "https://codeblue.galencentre.org/2026/04/moh-moves-to-optimise-drug-dispensing-as-supply-risks-loom/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-02T02:00:00",
-      "summary": "MOH's Pharmaceutical Services Programme is tightening medicine dispensing as global cost pressures rise, saying it's \"optimising dispensing practices based on clinical needs\" and \"reviewing patients' existing medication supply to avoid duplication\". The post MOH Moves To ‘Optimise’ Drug Dispensing As Supply Risks Loom appeared first on CodeBlue .",
+      "title": "After demanding a ‘life for a life’, Klang rider’s widow seeks tougher laws to end drugged driving",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/03/after-demanding-a-life-for-a-life-klang-riders-widow-seeks-tougher-laws-to-end-drugged-driving/214960",
+      "source": "Malay Mail",
+      "published": "2026-04-03T08:51:13",
+      "summary": "SHAH ALAM, April 3 — The widow of a man who died after being hit by a driver under the influence of drugs in Klang...",
       "keywords_matched": [
-        "medicine",
-        "drug",
-        "patient",
-        "pharmaceutical",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Middle East War Raises Concerns For Malaysia’s Health Care System — Dr Hoomashini Gunasegaran, Dr Sean Thum & Dr Tharani Loganathan",
-      "url": "https://codeblue.galencentre.org/2026/04/middle-east-war-raises-concerns-for-malaysias-health-care-system-dr-hoomashini-gunasegaran-dr-sean-thum-dr-tharani-loganathan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-01T03:49:14",
-      "summary": "Malaysia does have buffers, including energy revenues and existing subsidy frameworks, but these alone are not sufficient. What is needed is a more anticipatory approach that protects access to health care and nutrition while strengthening system resilience. The post Middle East War Raises Concerns For Malaysia’s Health Care System — Dr Hoomashini Gunasegaran, Dr Sean Thum & Dr Tharani Loganathan appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
+        "drug"
       ]
     },
     {
@@ -129,16 +133,6 @@
       "summary": "KUALA LUMPUR, April 3 — Department of Environment (DOE) deputy director-general Dr Norhazni Mat Sari pleaded not g...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Private GPs welcome revised RM10–RM80 consultation fee after 30-year freeze",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/03/private-gps-welcome-revised-rm10rm80-consultation-fee-after-30-year-freeze/214926",
-      "source": "Malay Mail",
-      "published": "2026-04-03T05:34:08",
-      "summary": "KUALA LUMPUR, April 3 — The Federation of Private Medical Practitioners’ Associations Malaysia (FPMPAM) has...",
-      "keywords_matched": [
-        "medical"
       ]
     }
   ]
