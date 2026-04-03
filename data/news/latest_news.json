@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-02T23:34:27.954856",
+  "fetched": "2026-04-03T02:10:15.217229",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,17 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Admin Assistant Allegedly Scams Nearly 190 Housemen Out Of RM47,000 At HTA",
+      "url": "https://codeblue.galencentre.org/2026/04/admin-assistant-allegedly-scams-nearly-190-housemen-out-of-rm47000-at-hta/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-03T01:38:43",
+      "summary": "An admin assistant allegedly conned at least 187 housemen in Tunku Azizah Hospital’s paeds department out of over RM47,000 over 2.5 years since Sept 2023. Her two-prong scam: RM900 “refund” for “overpaid” emoluments and RM45 “fee” for a compulsory course. The post Admin Assistant Allegedly Scams Nearly 190 Housemen Out Of RM47,000 At HTA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "From Caregiver To Patient: A Nurse’s Call For Safer Chemotherapy Handling Practices — Parameswari Vadivalu",
       "url": "https://codeblue.galencentre.org/2026/04/from-caregiver-to-patient-a-nurses-call-for-safer-chemotherapy-handling-practices-parameswari-vadivalu/",
@@ -108,25 +119,14 @@
       ]
     },
     {
-      "title": "‘First-Come, First-Served’, Pharma Company Tells MOH Hospitals As Supply Tightens",
-      "url": "https://codeblue.galencentre.org/2026/03/first-come-first-served-pharma-company-tells-moh-hospitals-as-supply-tightens/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-31T02:00:00",
-      "summary": "A drug maker warns of possible supply constraints and up to 50% cost increases, a \"conservative\" estimate, as it urged MOH hospitals to order early because “first-come, first-served” applies. Its notice has reached at least one public hospital in Sabah. The post ‘First-Come, First-Served’, Pharma Company Tells MOH Hospitals As Supply Tightens appeared first on CodeBlue .",
-      "keywords_matched": [
-        "drug",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Toxic beauty: MOH bans two cosmetic products over mercury and other poisons",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/02/toxic-beauty-moh-bans-two-cosmetic-products-over-mercury-and-other-poisons/214833",
+      "title": "Malaysian doctors, nurses head to Mecca for haj duty next week as West Asia armed conflict rages",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/03/malaysian-doctors-nurses-head-to-mecca-for-haj-duty-next-week-as-west-asia-armed-conflict-rages/214877",
       "source": "Malay Mail",
-      "published": "2026-04-02T09:19:59",
-      "summary": "PUTRAJAYA, April 2 — The Ministry of Health (MOH) no longer permits the sale of two cosmetic products, Glowing Nit...",
+      "published": "2026-04-03T01:57:09",
+      "summary": "KUALA LUMPUR, April 3 — A total of 225 Malaysian medical personnel will depart for the Holy Land next week to serv...",
       "keywords_matched": [
-        "health"
+        "medical",
+        "doctor"
       ]
     }
   ]
