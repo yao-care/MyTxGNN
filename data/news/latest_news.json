@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-03T07:06:33.866897",
+  "fetched": "2026-04-03T08:52:39.728389",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
     {
       "title": "Schedule 7 Amendment: A Partial Fix That Should Not Be Misread — PMPASKL",
@@ -109,6 +109,26 @@
       "summary": "Malaysia does have buffers, including energy revenues and existing subsidy frameworks, but these alone are not sufficient. What is needed is a more anticipatory approach that protects access to health care and nutrition while strengthening system resilience. The post Middle East War Raises Concerns For Malaysia’s Health Care System — Dr Hoomashini Gunasegaran, Dr Sean Thum & Dr Tharani Loganathan appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "An eight-year-old girl dies in Taiping, now her parents and stepparents will stand trial for murder",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/03/an-eight-year-old-girl-dies-in-taiping-now-her-parents-and-stepparents-will-stand-trial-for-murder/214947",
+      "source": "Malay Mail",
+      "published": "2026-04-03T07:18:58",
+      "summary": "TAIPING, April 3 — Four family members, including the biological mother, were charged in the Magistrate’s Co...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "DOE deputy director-general claims trial to taking RM21,000 bribes from waste company",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/03/doe-deputy-director-general-claims-trial-to-taking-rm21000-bribes-from-waste-company/214946",
+      "source": "Malay Mail",
+      "published": "2026-04-03T07:24:13",
+      "summary": "KUALA LUMPUR, April 3 — Department of Environment (DOE) deputy director-general Dr Norhazni Mat Sari pleaded not g...",
+      "keywords_matched": [
+        "trial"
       ]
     },
     {
