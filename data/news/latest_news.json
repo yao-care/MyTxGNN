@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-03T10:42:18.101736",
+  "fetched": "2026-04-03T11:36:37.824334",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Restore 300L Monthly Fuel Subsidy Quota For Health Workers — MMA",
@@ -121,16 +121,6 @@
       "source": "Malay Mail",
       "published": "2026-04-03T07:18:58",
       "summary": "TAIPING, April 3 — Four family members, including the biological mother, were charged in the Magistrate’s Co...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "DOE deputy director-general claims trial to taking RM21,000 bribes from waste company",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/03/doe-deputy-director-general-claims-trial-to-taking-rm21000-bribes-from-waste-company/214946",
-      "source": "Malay Mail",
-      "published": "2026-04-03T07:24:13",
-      "summary": "KUALA LUMPUR, April 3 — Department of Environment (DOE) deputy director-general Dr Norhazni Mat Sari pleaded not g...",
       "keywords_matched": [
         "trial"
       ]
