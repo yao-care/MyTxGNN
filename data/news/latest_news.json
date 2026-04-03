@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-03T22:31:44.624422",
+  "fetched": "2026-04-03T23:32:25.610130",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "HTA Sacks Admin Assistant, Reports Massive Housemen Scam To Police",
@@ -113,16 +113,6 @@
       "summary": "PUTRAJAYA, April 3 — Health Minister Datuk Seri Dzulkefly Ahmad today outlined five key strategic priorities requi...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "After demanding a ‘life for a life’, Klang rider’s widow seeks tougher laws to end drugged driving",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/03/after-demanding-a-life-for-a-life-klang-riders-widow-seeks-tougher-laws-to-end-drugged-driving/214960",
-      "source": "Malay Mail",
-      "published": "2026-04-03T08:51:13",
-      "summary": "SHAH ALAM, April 3 — The widow of a man who died after being hit by a driver under the influence of drugs in Klang...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
