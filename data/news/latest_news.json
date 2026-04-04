@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-04T07:02:04.640477",
+  "fetched": "2026-04-04T08:39:10.394265",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "HTA Sacks Admin Assistant, Reports Massive Housemen Scam To Police",
@@ -104,6 +104,17 @@
       "published": "2026-04-02T03:56:15",
       "summary": "MMA will continue to advocate for a structured and consistent approach to future revisions, including better alignment across the system. The post Long Overdue GP Fee Revision Strengthens Primary Care — MMA appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Residents fear black panther after sheep carcass found near Gua Musang Hospital quarters",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/04/residents-fear-black-panther-after-sheep-carcass-found-near-gua-musang-hospital-quarters/215093",
+      "source": "Malay Mail",
+      "published": "2026-04-04T08:11:44",
+      "summary": "GUA MUSANG, April 4 — About 30 families living in the Gua Musang Hospital quarters are worried about their sa...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
     },
     {
       "title": "Anwar vows to prioritise Malaysia’s schools and healthcare amid energy crisis pressures",
