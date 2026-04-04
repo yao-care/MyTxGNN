@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-04T10:32:08.226813",
+  "fetched": "2026-04-04T11:28:28.520989",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "HTA Sacks Admin Assistant, Reports Massive Housemen Scam To Police",
@@ -114,16 +114,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Anwar vows to prioritise Malaysia’s schools and healthcare amid energy crisis pressures",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/04/anwar-vows-to-prioritise-malaysias-schools-and-healthcare-amid-energy-crisis-pressures/215059",
-      "source": "Malay Mail",
-      "published": "2026-04-04T04:04:03",
-      "summary": "KUALA KANGSAR, April 4 — The government has assured that education will continue to be among its top priorities de...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
