@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-05T08:41:25.796406",
+  "fetched": "2026-04-05T09:37:47.303031",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "HTA Sacks Admin Assistant, Reports Massive Housemen Scam To Police",
@@ -104,6 +104,17 @@
       "published": "2026-04-02T03:56:15",
       "summary": "MMA will continue to advocate for a structured and consistent approach to future revisions, including better alignment across the system. The post Long Overdue GP Fee Revision Strengthens Primary Care — MMA appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Tip-off lands suspect in custody at Hospital Kuala Lumpur over Triang kopitiam slashing, police hunt six more",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/05/tip-off-lands-suspect-in-custody-at-hospital-kuala-lumpur-over-triang-kopitiam-slashing-police-hunt-six-more/215213",
+      "source": "Malay Mail",
+      "published": "2026-04-05T09:20:33",
+      "summary": "KUALA LUMPUR, April 5 — Police have arrested a man suspected of involvement in a slashing attack at a kopitiam in...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
     },
     {
       "title": "Air quality breaches unhealthy levels in four areas, Putrajaya hovers near 150",
