@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-05T02:24:12.230390",
+  "fetched": "2026-04-05T05:10:56.343627",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "HTA Sacks Admin Assistant, Reports Massive Housemen Scam To Police",
@@ -104,6 +104,26 @@
       "published": "2026-04-02T03:56:15",
       "summary": "MMA will continue to advocate for a structured and consistent approach to future revisions, including better alignment across the system. The post Long Overdue GP Fee Revision Strengthens Primary Care — MMA appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Don’t cut frontline fuel: Ex-minister moots 300-litre subsidy carve-out for healthcare workers",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/05/dont-cut-frontline-fuel-ex-minister-moots-300-litre-subsidy-carve-out-for-healthcare-workers/215170",
+      "source": "Malay Mail",
+      "published": "2026-04-05T04:04:17",
+      "summary": "KUALA LUMPUR, April 5 — A targeted petrol subsidy of up to 300 litres for healthcare workers should be considered,...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "From Sabah to Sarawak: St John Ambulans Malaysia pulls off complex 600km emergency transfer",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/05/from-sabah-to-sarawak-st-john-ambulans-malaysia-pulls-off-complex-600km-emergency-transfer/215169",
+      "source": "Malay Mail",
+      "published": "2026-04-05T03:53:06",
+      "summary": "KOTA KINABALU, April 5 — St John Ambulans Malaysia (SJAM) Sabah completed a medical transfer covering more than 60...",
+      "keywords_matched": [
+        "medical"
+      ]
     }
   ]
 }
