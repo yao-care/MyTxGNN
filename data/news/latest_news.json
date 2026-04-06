@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-05T23:32:26.532960",
+  "fetched": "2026-04-06T02:25:47.606824",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,16 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "Doctors’ Groups Demand Internal Inquiry Into Housemen Scam, Victim Compensation",
+      "url": "https://codeblue.galencentre.org/2026/04/doctors-groups-demand-internal-inquiry-into-housemen-scam-victim-compensation/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-06T02:00:00",
+      "summary": "MMA and HDK want an internal inquiry into the HTA housemen scam to address structural weaknesses that allowed the crime to occur in the workplace, beyond a police probe. The doctors' groups demand compensation for the 190 victims who suffered RM47k losses. The post Doctors’ Groups Demand Internal Inquiry Into Housemen Scam, Victim Compensation appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
     {
       "title": "HTA Sacks Admin Assistant, Reports Massive Housemen Scam To Police",
       "url": "https://codeblue.galencentre.org/2026/04/hta-sacks-admin-assistant-reports-massive-housemen-scam-to-police/",
@@ -98,29 +108,21 @@
       ]
     },
     {
-      "title": "Long Overdue GP Fee Revision Strengthens Primary Care — MMA",
-      "url": "https://codeblue.galencentre.org/2026/04/long-overdue-gp-fee-revision-strengthens-primary-care-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-02T03:56:15",
-      "summary": "MMA will continue to advocate for a structured and consistent approach to future revisions, including better alignment across the system. The post Long Overdue GP Fee Revision Strengthens Primary Care — MMA appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Level 1 heatwave: How it can harm, who is vulnerable and what to do to stay safe",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/05/level-1-heatwave-how-it-can-harm-who-is-vulnerable-and-what-to-do-to-stay-safe/215218",
+      "title": "Sibu police seize RM164,695 worth of drugs, Indonesian man arrested",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/06/sibu-police-seize-rm164695-worth-of-drugs-indonesian-man-arrested/215247",
       "source": "Malay Mail",
-      "published": "2026-04-05T10:31:00",
-      "summary": "KOTA BHARU, April 5 — Exposure to level one hot weather for a long period of time can be detrimental to health, es...",
+      "published": "2026-04-06T01:07:42",
+      "summary": "SIBU, April 6 — Police arrested an Indonesian man and seized various drugs worth RM164,695 in an integrated operat...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     },
     {
-      "title": "Tip-off lands suspect in custody at Hospital Kuala Lumpur over Triang kopitiam slashing, police hunt six more",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/05/tip-off-lands-suspect-in-custody-at-hospital-kuala-lumpur-over-triang-kopitiam-slashing-police-hunt-six-more/215213",
+      "title": "‘Where is my child?’ A mother’s grief at the mortuary after Kedah kayaking tragedy kills two teacher trainees",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/06/where-is-my-child-a-mothers-grief-at-the-mortuary-after-kedah-kayaking-tragedy-kills-two-teacher-trainees/215230",
       "source": "Malay Mail",
-      "published": "2026-04-05T09:20:33",
-      "summary": "KUALA LUMPUR, April 5 — Police have arrested a man suspected of involvement in a slashing attack at a kopitiam in...",
+      "published": "2026-04-06T00:33:57",
+      "summary": "ALOR SETAR, April 6 — A mother’s grief spilled into the corridors of Hospital Sultanah Bahiyah as she arrive...",
       "keywords_matched": [
         "hospital",
         "hospital"
