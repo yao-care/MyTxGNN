@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-06T11:47:42.674550",
+  "fetched": "2026-04-06T13:07:19.729267",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "First Sarawakian Woman Elected Malaysian Society Of Parasitology And Tropical Medicine President",
@@ -100,6 +100,17 @@
       "published": "2026-04-03T04:21:12",
       "summary": "Perhaps the most striking gap in Malaysia’s ageing policy is the absence of a coherent long-term care system. Families remain the primary caregivers for older persons. Meanwhile, the private nursing home sector has expanded rapidly. The post Growing Old In A Young Policy State appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "From rehab to the classroom: Success stories of SPM achievers at AADK centres",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/06/from-rehab-to-the-classroom-success-stories-of-spm-achievers-at-aadk-centres/215288",
+      "source": "Malay Mail",
+      "published": "2026-04-06T13:00:00",
+      "summary": "KOTA BHARU, April 6 — A total of 22 clients undergoing treatment at National Anti-Drug Agency (AADK) rehabilitatio...",
+      "keywords_matched": [
+        "drug",
+        "treatment"
+      ]
     }
   ]
 }
