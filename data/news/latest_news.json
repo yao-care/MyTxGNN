@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-06T02:25:47.606824",
+  "fetched": "2026-04-06T05:22:43.620523",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Dental Officers’ Contracts Ending Today Without Permanent Appointments — MDA",
+      "url": "https://codeblue.galencentre.org/2026/04/dental-officers-contracts-ending-today-without-permanent-appointments-mda/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-06T03:30:00",
+      "summary": "Contracts for the 2021 contract dental officer cohort are set to end today (April 6), July 11, and Sept, without clear direction on permanent appointments or extensions. These dentists have contributed to service delivery in the public health care system. The post Dental Officers’ Contracts Ending Today Without Permanent Appointments — MDA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Doctors’ Groups Demand Internal Inquiry Into Housemen Scam, Victim Compensation",
       "url": "https://codeblue.galencentre.org/2026/04/doctors-groups-demand-internal-inquiry-into-housemen-scam-victim-compensation/",
@@ -96,36 +106,13 @@
       ]
     },
     {
-      "title": "From Caregiver To Patient: A Nurse’s Call For Safer Chemotherapy Handling Practices — Parameswari Vadivalu",
-      "url": "https://codeblue.galencentre.org/2026/04/from-caregiver-to-patient-a-nurses-call-for-safer-chemotherapy-handling-practices-parameswari-vadivalu/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-02T06:18:26",
-      "summary": "Every nurse and health care worker deserves a safe working environment. Protecting those who care for others is not only a professional obligation but a moral imperative. The post From Caregiver To Patient: A Nurse’s Call For Safer Chemotherapy Handling Practices — Parameswari Vadivalu appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "therapy",
-        "patient"
-      ]
-    },
-    {
-      "title": "Sibu police seize RM164,695 worth of drugs, Indonesian man arrested",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/06/sibu-police-seize-rm164695-worth-of-drugs-indonesian-man-arrested/215247",
+      "title": "Kedah Customs intercept RM3.9m worth of ecstasy and meth",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/06/kedah-customs-intercept-rm39m-worth-of-ecstasy-and-meth/215282",
       "source": "Malay Mail",
-      "published": "2026-04-06T01:07:42",
-      "summary": "SIBU, April 6 — Police arrested an Indonesian man and seized various drugs worth RM164,695 in an integrated operat...",
+      "published": "2026-04-06T04:44:37",
+      "summary": "ALOR SETAR, April 6 — The Kedah Royal Malaysian Customs Department (JKDM) seized over 46kg of drugs during an oper...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "‘Where is my child?’ A mother’s grief at the mortuary after Kedah kayaking tragedy kills two teacher trainees",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/06/where-is-my-child-a-mothers-grief-at-the-mortuary-after-kedah-kayaking-tragedy-kills-two-teacher-trainees/215230",
-      "source": "Malay Mail",
-      "published": "2026-04-06T00:33:57",
-      "summary": "ALOR SETAR, April 6 — A mother’s grief spilled into the corridors of Hospital Sultanah Bahiyah as she arrive...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
