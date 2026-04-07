@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-07T02:12:43.445173",
+  "fetched": "2026-04-07T05:08:17.460969",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 10,
   "items": [
+    {
+      "title": "No Extension For Contract Pharmacists, Applications Open End 2027: MOH",
+      "url": "https://codeblue.galencentre.org/2026/04/no-extension-for-contract-pharmacists-applications-open-end-2027-moh/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-07T03:30:00",
+      "summary": "MOH says there are no contract extensions for over 40 pharmacists who lost their jobs last Saturday because they reached their max 5-year contract duration. They may reapply in more than one and a half year's time when permanent recruitment opens end 2027. The post No Extension For Contract Pharmacists, Applications Open End 2027: MOH appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "When The System Fails Young Doctors: Lessons From HTA Housemen Scam — Clinician",
       "url": "https://codeblue.galencentre.org/2026/04/when-the-system-fails-young-doctors-lessons-from-hta-housemen-scam-clinician/",
@@ -94,45 +102,6 @@
       "published": "2026-04-03T05:22:14",
       "summary": "While the recent amendment introduces adjustments to GP consultation fees and selected areas, it is important to recognise that a substantial portion of Schedule 7 remains unchanged, like procedures, investigations, reports, and other components of care. The post Schedule 7 Amendment: A Partial Fix That Should Not Be Misread — PMPASKL appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "GP Fee Revision Impact Depends On TPA Arrangements — FPMPAM",
-      "url": "https://codeblue.galencentre.org/2026/04/gp-fee-revision-impact-depends-on-tpa-arrangements-fpmpam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-03T04:35:43",
-      "summary": "While the revised RM10 to RM80 GP fee range provides some flexibility, its real impact will depend on how it is implemented in practice, particularly within existing managed care and TPA arrangements, where pricing may not be fully market-driven. The post GP Fee Revision Impact Depends On TPA Arrangements — FPMPAM appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Lorry driver who tested positive for drugs to face murder charge over Segamat crash that killed three",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/07/lorry-driver-who-tested-positive-for-drugs-to-face-murder-charge-over-segamat-crash-that-killed-three/215367",
-      "source": "Malay Mail",
-      "published": "2026-04-07T01:16:07",
-      "summary": "KUALA LUMPUR, April 7 — A lorry driver who tested positive for drugs and crashed into the rear of a van carrying a...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Five-year cap for contract pharmacists, permanent posts conditional, Health Ministry clarifies",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/07/five-year-cap-for-contract-pharmacists-permanent-posts-conditional-health-ministry-clarifies/215364",
-      "source": "Malay Mail",
-      "published": "2026-04-07T02:06:30",
-      "summary": "PUTRAJAYA, April 7 — The Ministry of Health (MOH) has clarified that there will be no contract extensions for phar...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "From rehab to the classroom: Success stories of SPM achievers at AADK centres",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/06/from-rehab-to-the-classroom-success-stories-of-spm-achievers-at-aadk-centres/215288",
-      "source": "Malay Mail",
-      "published": "2026-04-06T13:00:00",
-      "summary": "KOTA BHARU, April 6 — A total of 22 clients undergoing treatment at National Anti-Drug Agency (AADK) rehabilitatio...",
-      "keywords_matched": [
-        "drug",
-        "treatment"
-      ]
     }
   ]
 }
