@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-07T11:53:05.295937",
+  "fetched": "2026-04-07T13:16:21.365556",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Malaysia Part Of New Asean Fertiliser Alliance For Food Security",
@@ -103,6 +103,16 @@
       "keywords_matched": [
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "‘I was not aware’: Dzulkefly denies role in daughter’s board posts amid RM5m suit against Najib",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/07/i-was-not-aware-dzulkefly-denies-role-in-daughters-board-posts-amid-rm5m-suit-against-najib/215463",
+      "source": "Malay Mail",
+      "published": "2026-04-07T11:49:17",
+      "summary": "KUALA LUMPUR, April 7 — Health Minister Datuk Seri Dr Dzulkefly Ahmad told the High Court here today that he was u...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
