@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-07T05:08:17.460969",
+  "fetched": "2026-04-07T07:14:41.721634",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,36 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Malaysia Part Of New Asean Fertiliser Alliance For Food Security",
+      "url": "https://codeblue.galencentre.org/2026/04/malaysia-part-of-new-asean-fertiliser-alliance-for-food-security/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-07T06:19:35",
+      "summary": "Indonesia, Malaysia, and Brunei have formed a new Southeast Asia Fertiliser Association (Seafa) to boost food security, with Indonesia serving as the inaugural chairman and Malaysia (represented by Petronas Chemicals Group Berhad) as co-chairman. The post Malaysia Part Of New Asean Fertiliser Alliance For Food Security appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Probe Denial Of Overtime Allowance For Paramedics, Ambulance Drivers: Ex-Senator",
+      "url": "https://codeblue.galencentre.org/2026/04/probe-denial-of-overtime-allowance-for-paramedics-ambulance-drivers-ex-senator/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-07T06:00:00",
+      "summary": "Ex-senator Dr RA Lingeshwaran asks why paramedics and ambulance drivers are denied payment of overtime allowance or replacement leave, even though MOH says support staff are eligible for these entitlements if they're instructed \"in writing\" to be on-call. The post Probe Denial Of Overtime Allowance For Paramedics, Ambulance Drivers: Ex-Senator appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Smartphone Apps Are Changing How We Study Everyday Brain Activity",
+      "url": "https://codeblue.galencentre.org/2026/04/smartphone-apps-are-changing-how-we-study-everyday-brain-activity/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-07T06:00:00",
+      "summary": "Natural EEGs can support long-term monitoring outside hospitals for people with neurological disorders, and help others track health issues such as fatigue, workload stress, or flagging attention during routine activities. The post Smartphone Apps Are Changing How We Study Everyday Brain Activity appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "No Extension For Contract Pharmacists, Applications Open End 2027: MOH",
       "url": "https://codeblue.galencentre.org/2026/04/no-extension-for-contract-pharmacists-applications-open-end-2027-moh/",
@@ -78,30 +106,14 @@
       ]
     },
     {
-      "title": "Restore 300L Monthly Fuel Subsidy Quota For Health Workers — MMA",
-      "url": "https://codeblue.galencentre.org/2026/04/restore-300l-monthly-fuel-subsidy-quota-for-health-workers-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-03T09:34:39",
-      "summary": "We recommend restoring the 300-litre monthly fuel subsidy quota, or implementing a specific exemption, for health care workers who are required to be physically present for duty in MOH. Policies must remain equitable and grounded in operational realities. The post Restore 300L Monthly Fuel Subsidy Quota For Health Workers — MMA appeared first on CodeBlue .",
+      "title": "Former Johor property executive pleads not guilty to RM1m CBT charges",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/07/former-johor-property-executive-pleads-not-guilty-to-rm1m-cbt-charges/215411",
+      "source": "Malay Mail",
+      "published": "2026-04-07T05:19:46",
+      "summary": "JOHOR BAHRU, April 7 —A former sales executive officer of a property company claimed trial in the Sessions Court h...",
       "keywords_matched": [
-        "health"
+        "trial"
       ]
-    },
-    {
-      "title": "Take Action Against Sale Of Non-Registered, Suspected Counterfeit Blood Pressure Monitors — MPS",
-      "url": "https://codeblue.galencentre.org/2026/04/take-action-against-sale-of-non-registered-suspected-counterfeit-blood-pressure-monitors-mps/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-03T09:22:43",
-      "summary": "MPS notes reports indicating that non-registered or suspected counterfeit BPMs remain widely accessible. Based on a chain pharmacy's internal screening work last year, 10,081 devices were checked for accuracy; 31% were found to be not registered with MDA. The post Take Action Against Sale Of Non-Registered, Suspected Counterfeit Blood Pressure Monitors — MPS appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Schedule 7 Amendment: A Partial Fix That Should Not Be Misread — PMPASKL",
-      "url": "https://codeblue.galencentre.org/2026/04/schedule-7-amendment-a-partial-fix-that-should-not-be-misread-pmpaskl/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-03T05:22:14",
-      "summary": "While the recent amendment introduces adjustments to GP consultation fees and selected areas, it is important to recognise that a substantial portion of Schedule 7 remains unchanged, like procedures, investigations, reports, and other components of care. The post Schedule 7 Amendment: A Partial Fix That Should Not Be Misread — PMPASKL appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
