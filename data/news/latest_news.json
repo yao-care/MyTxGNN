@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-06T23:34:25.804725",
+  "fetched": "2026-04-07T02:12:43.445173",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
+    {
+      "title": "When The System Fails Young Doctors: Lessons From HTA Housemen Scam — Clinician",
+      "url": "https://codeblue.galencentre.org/2026/04/when-the-system-fails-young-doctors-lessons-from-hta-housemen-scam-clinician/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-07T02:00:00",
+      "summary": "It sounds like common sense not to transfer money to a personal account for official payments. But this is a profound misunderstanding of what it's like to be a houseman in Malaysia, where questioning instructions is seen as defiance. \"Just follow first\". The post When The System Fails Young Doctors: Lessons From HTA Housemen Scam — Clinician appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
     {
       "title": "First Sarawakian Woman Elected Malaysian Society Of Parasitology And Tropical Medicine President",
       "url": "https://codeblue.galencentre.org/2026/04/first-sarawakian-woman-elected-malaysian-society-of-parasitology-and-tropical-medicine-president/",
@@ -94,12 +104,24 @@
       "keywords_matched": []
     },
     {
-      "title": "Growing Old In A Young Policy State",
-      "url": "https://codeblue.galencentre.org/2026/04/growing-old-in-a-young-policy-state/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-03T04:21:12",
-      "summary": "Perhaps the most striking gap in Malaysia’s ageing policy is the absence of a coherent long-term care system. Families remain the primary caregivers for older persons. Meanwhile, the private nursing home sector has expanded rapidly. The post Growing Old In A Young Policy State appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Lorry driver who tested positive for drugs to face murder charge over Segamat crash that killed three",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/07/lorry-driver-who-tested-positive-for-drugs-to-face-murder-charge-over-segamat-crash-that-killed-three/215367",
+      "source": "Malay Mail",
+      "published": "2026-04-07T01:16:07",
+      "summary": "KUALA LUMPUR, April 7 — A lorry driver who tested positive for drugs and crashed into the rear of a van carrying a...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Five-year cap for contract pharmacists, permanent posts conditional, Health Ministry clarifies",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/07/five-year-cap-for-contract-pharmacists-permanent-posts-conditional-health-ministry-clarifies/215364",
+      "source": "Malay Mail",
+      "published": "2026-04-07T02:06:30",
+      "summary": "PUTRAJAYA, April 7 — The Ministry of Health (MOH) has clarified that there will be no contract extensions for phar...",
+      "keywords_matched": [
+        "health"
+      ]
     },
     {
       "title": "From rehab to the classroom: Success stories of SPM achievers at AADK centres",
