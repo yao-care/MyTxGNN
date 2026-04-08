@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-08T02:13:27.556301",
+  "fetched": "2026-04-08T05:10:01.179880",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "300L RON95 Quota Isn’t A Privilege, But A Necessity For Public Health Assistants — KPKASM",
+      "url": "https://codeblue.galencentre.org/2026/04/300l-ron95-quota-isnt-a-privilege-but-a-necessity-for-public-health-assistants-kpkasm/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-08T03:30:00",
+      "summary": "Public health assistants (PKA) are among the groups most affected by the reduction of the RON95 fuel subsidy quota from 300 to 200 litres because they conduct a substantial portion of their work in the field, moving between locations to do inspections. The post 300L RON95 Quota Isn’t A Privilege, But A Necessity For Public Health Assistants — KPKASM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Admin Error Goes Unpunished, Doctors Suffer The Consequences — Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/04/admin-error-goes-unpunished-doctors-suffer-the-consequences-medical-officer/",
@@ -94,37 +104,6 @@
       "summary": "Contracts for the 2021 contract dental officer cohort are set to end today (April 6), July 11, and Sept, without clear direction on permanent appointments or extensions. These dentists have contributed to service delivery in the public health care system. The post Dental Officers’ Contracts Ending Today Without Permanent Appointments — MDA appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Doctors’ Groups Demand Internal Inquiry Into Housemen Scam, Victim Compensation",
-      "url": "https://codeblue.galencentre.org/2026/04/doctors-groups-demand-internal-inquiry-into-housemen-scam-victim-compensation/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-06T02:00:00",
-      "summary": "MMA and HDK want an internal inquiry into the HTA housemen scam to address structural weaknesses that allowed the crime to occur in the workplace, beyond a police probe. The doctors' groups demand compensation for the 190 victims who suffered RM47k losses. The post Doctors’ Groups Demand Internal Inquiry Into Housemen Scam, Victim Compensation appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "‘I was not aware’: Dzulkefly denies role in daughter’s board posts amid RM5m suit against Najib",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/07/i-was-not-aware-dzulkefly-denies-role-in-daughters-board-posts-amid-rm5m-suit-against-najib/215463",
-      "source": "Malay Mail",
-      "published": "2026-04-07T11:49:17",
-      "summary": "KUALA LUMPUR, April 7 — Health Minister Datuk Seri Dr Dzulkefly Ahmad told the High Court here today that he was u...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Govt to establish stockpile of medicines, medical devices amid Middle East conflict",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/07/govt-to-establish-stockpile-of-medicines-medical-devices-amid-middle-east-conflict/215458",
-      "source": "Malay Mail",
-      "published": "2026-04-07T10:46:44",
-      "summary": "KUALA LUMPUR, April 7 — The government will establish a national strategic buffer stock to ensure the supply of me...",
-      "keywords_matched": [
-        "medical",
-        "medicine"
       ]
     }
   ]
