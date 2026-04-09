@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-09T07:20:25.824785",
+  "fetched": "2026-04-09T09:06:02.034121",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Strategic Buffer Stocks Should Prioritise Essential Medicines — MMA",
+      "url": "https://codeblue.galencentre.org/2026/04/strategic-buffer-stocks-should-prioritise-essential-medicines-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-09T07:52:50",
+      "summary": "The MMA wishes to emphasise that the global situation remains uncertain, and we cannot rely solely on the current stability. The post Strategic Buffer Stocks Should Prioritise Essential Medicines — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine"
+      ]
+    },
+    {
+      "title": "Expand Public Dental Capacity To Manage System Strain — MDA",
+      "url": "https://codeblue.galencentre.org/2026/04/expand-public-dental-capacity-to-manage-system-strain-mda/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-09T07:37:54",
+      "summary": "MDA reiterates that expanding facilities and strengthening service delivery capacity should be prioritised, rather than focusing solely on increasing or restricting the number of dental practitioners. The post Expand Public Dental Capacity To Manage System Strain — MDA appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "BIW Allowance Cut, Expensive Flight Tickets Complicating Travel To Peninsula — Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/04/biw-allowance-cut-expensive-flight-tickets-complicating-travel-to-peninsula-medical-officer/",
@@ -90,21 +108,23 @@
       ]
     },
     {
-      "title": "No Extension For Contract Pharmacists, Applications Open End 2027: MOH",
-      "url": "https://codeblue.galencentre.org/2026/04/no-extension-for-contract-pharmacists-applications-open-end-2027-moh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-07T03:30:00",
-      "summary": "MOH says there are no contract extensions for over 40 pharmacists who lost their jobs last Saturday because they reached their max 5-year contract duration. They may reapply in more than one and a half year's time when permanent recruitment opens end 2027. The post No Extension For Contract Pharmacists, Applications Open End 2027: MOH appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Najib settles defamation suit with Dzulkefly over nepotism claim",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/09/najib-settles-defamation-suit-with-dzulkefly-over-nepotism-claim/215679",
+      "source": "Malay Mail",
+      "published": "2026-04-09T08:18:09",
+      "summary": "KUALA LUMPUR, April 9 — The 2022 defamation suit filed by Health Minister Datuk Seri Dzulkefly Ahmad against forme...",
+      "keywords_matched": [
+        "health"
+      ]
     },
     {
-      "title": "When The System Fails Young Doctors: Lessons From HTA Housemen Scam — Clinician",
-      "url": "https://codeblue.galencentre.org/2026/04/when-the-system-fails-young-doctors-lessons-from-hta-housemen-scam-clinician/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-07T02:00:00",
-      "summary": "It sounds like common sense not to transfer money to a personal account for official payments. But this is a profound misunderstanding of what it's like to be a houseman in Malaysia, where questioning instructions is seen as defiance. \"Just follow first\". The post When The System Fails Young Doctors: Lessons From HTA Housemen Scam — Clinician appeared first on CodeBlue .",
+      "title": "Trial resumes in June for teacher accused of causing alarm in Zara Qairina case",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/09/trial-resumes-in-june-for-teacher-accused-of-causing-alarm-in-zara-qairina-case/215675",
+      "source": "Malay Mail",
+      "published": "2026-04-09T07:43:34",
+      "summary": "SEPANG, April 9 — The Magistrates’ Court here today set June 11 to 12 as the date for the continuation of th...",
       "keywords_matched": [
-        "doctor"
+        "trial"
       ]
     }
   ]
