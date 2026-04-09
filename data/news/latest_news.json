@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-08T23:36:50.931552",
+  "fetched": "2026-04-09T02:07:24.717485",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,16 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Making Payment To Staff’s Personal Accounts Not Uncommon In MOH, Say Doctors",
+      "url": "https://codeblue.galencentre.org/2026/04/making-payment-to-staffs-personal-accounts-not-uncommon-in-moh-say-doctors/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-09T02:00:00",
+      "summary": "At least two govt doctors say they usually make payments to coworkers' personal accounts for work, like courses or department activities like parties. Receipts are given for course materials. Salary overpayment occurs, like RM14k over 3 years for one MO. The post Making Payment To Staff’s Personal Accounts Not Uncommon In MOH, Say Doctors appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
     {
       "title": "300L RON95 Quota Isn’t A Privilege, But A Necessity For Public Health Assistants — KPKASM",
       "url": "https://codeblue.galencentre.org/2026/04/300l-ron95-quota-isnt-a-privilege-but-a-necessity-for-public-health-assistants-kpkasm/",
@@ -95,16 +105,6 @@
       "published": "2026-04-06T06:00:00",
       "summary": "Consider interim contract extensions for affected pharmacists, pending the issuance of formal appointment letters, to prevent disruption of services and avoid premature workforce attrition. Many of the affected pharmacists have served for several years. The post Provide Transition For Contract Pharmacists Pending Permanent Appointments — MPS appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Dental Officers’ Contracts Ending Today Without Permanent Appointments — MDA",
-      "url": "https://codeblue.galencentre.org/2026/04/dental-officers-contracts-ending-today-without-permanent-appointments-mda/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-06T03:30:00",
-      "summary": "Contracts for the 2021 contract dental officer cohort are set to end today (April 6), July 11, and Sept, without clear direction on permanent appointments or extensions. These dentists have contributed to service delivery in the public health care system. The post Dental Officers’ Contracts Ending Today Without Permanent Appointments — MDA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
     }
   ]
 }
