@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-09T09:06:02.034121",
+  "fetched": "2026-04-09T10:57:25.779301",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,19 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "MOH Admits Energy Crisis Impact On Medicines, Medical Devices Supply",
+      "url": "https://codeblue.galencentre.org/2026/04/moh-admits-energy-crisis-impact-on-medicines-medical-devices-supply/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-09T10:34:32",
+      "summary": "MOH says the global energy crisis is affecting supply of medicines and medical devices in Malaysia, especially critical imported medical devices in high-risk categories, forcing \"prudent\" distribution. MOH is devising alternative clinical treatment plans. The post MOH Admits Energy Crisis Impact On Medicines, Medical Devices Supply appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "medicine",
+        "treatment",
+        "clinical"
+      ]
+    },
     {
       "title": "Strategic Buffer Stocks Should Prioritise Essential Medicines — MMA",
       "url": "https://codeblue.galencentre.org/2026/04/strategic-buffer-stocks-should-prioritise-essential-medicines-mma/",
@@ -94,18 +107,6 @@
       "published": "2026-04-07T06:00:00",
       "summary": "Ex-senator Dr RA Lingeshwaran asks why paramedics and ambulance drivers are denied payment of overtime allowance or replacement leave, even though MOH says support staff are eligible for these entitlements if they're instructed \"in writing\" to be on-call. The post Probe Denial Of Overtime Allowance For Paramedics, Ambulance Drivers: Ex-Senator appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Smartphone Apps Are Changing How We Study Everyday Brain Activity",
-      "url": "https://codeblue.galencentre.org/2026/04/smartphone-apps-are-changing-how-we-study-everyday-brain-activity/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-07T06:00:00",
-      "summary": "Natural EEGs can support long-term monitoring outside hospitals for people with neurological disorders, and help others track health issues such as fatigue, workload stress, or flagging attention during routine activities. The post Smartphone Apps Are Changing How We Study Everyday Brain Activity appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
     },
     {
       "title": "Najib settles defamation suit with Dzulkefly over nepotism claim",
