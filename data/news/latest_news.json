@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-09T02:07:24.717485",
+  "fetched": "2026-04-09T05:08:29.969809",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,16 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Can’t Compare Complex Health Care To Airline Pricing — Dr Poh Ban Chung",
+      "url": "https://codeblue.galencentre.org/2026/04/cant-compare-complex-health-care-to-airline-pricing-dr-poh-ban-chung/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-09T03:30:44",
+      "summary": "Comparing inherently complex health care to airline pricing doesn't quite fit. The suggestion that health care costs should be as predictable as a flight ticket assumes that the journey is already defined. In reality, health care is a process of discovery. The post Can’t Compare Complex Health Care To Airline Pricing — Dr Poh Ban Chung appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Making Payment To Staff’s Personal Accounts Not Uncommon In MOH, Say Doctors",
       "url": "https://codeblue.galencentre.org/2026/04/making-payment-to-staffs-personal-accounts-not-uncommon-in-moh-say-doctors/",
@@ -97,14 +107,6 @@
         "health",
         "medicine"
       ]
-    },
-    {
-      "title": "Provide Transition For Contract Pharmacists Pending Permanent Appointments — MPS",
-      "url": "https://codeblue.galencentre.org/2026/04/provide-transition-for-contract-pharmacists-pending-permanent-appointments-mps/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-06T06:00:00",
-      "summary": "Consider interim contract extensions for affected pharmacists, pending the issuance of formal appointment letters, to prevent disruption of services and avoid premature workforce attrition. Many of the affected pharmacists have served for several years. The post Provide Transition For Contract Pharmacists Pending Permanent Appointments — MPS appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
