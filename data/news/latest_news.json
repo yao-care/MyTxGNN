@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-09T10:57:25.779301",
+  "fetched": "2026-04-09T11:57:21.436600",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "MOH Admits Energy Crisis Impact On Medicines, Medical Devices Supply",
@@ -116,16 +116,6 @@
       "summary": "KUALA LUMPUR, April 9 — The 2022 defamation suit filed by Health Minister Datuk Seri Dzulkefly Ahmad against forme...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Trial resumes in June for teacher accused of causing alarm in Zara Qairina case",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/09/trial-resumes-in-june-for-teacher-accused-of-causing-alarm-in-zara-qairina-case/215675",
-      "source": "Malay Mail",
-      "published": "2026-04-09T07:43:34",
-      "summary": "SEPANG, April 9 — The Magistrates’ Court here today set June 11 to 12 as the date for the continuation of th...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
