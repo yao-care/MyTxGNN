@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-10T05:24:05.517671",
+  "fetched": "2026-04-10T07:25:33.078559",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -116,6 +116,16 @@
       ]
     },
     {
+      "title": "Babysitter, mother claim trial to abusing four-year-old girl in Kuala Lumpur",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/10/babysitter-mother-claim-trial-to-abusing-four-year-old-girl-in-kuala-lumpur/215804",
+      "source": "Malay Mail",
+      "published": "2026-04-10T06:21:02",
+      "summary": "KUALA LUMPUR, April 10 — A babysitter and her mother pleaded not guilty in the Sessions Court here yesterday to a...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
       "title": "Dzulkefly: Malaysia’s medicine supply stable until June despite rising costs",
       "url": "https://www.malaymail.com/news/malaysia/2026/04/10/dzulkefly-malaysias-medicine-supply-stable-until-june-despite-rising-costs/215785",
       "source": "Malay Mail",
@@ -134,16 +144,6 @@
       "keywords_matched": [
         "trial",
         "vaccine"
-      ]
-    },
-    {
-      "title": "Police nab nine in Teluk Intan drug bust with cannabis, meth and heroin",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/10/police-nab-nine-in-teluk-intan-drug-bust-with-cannabis-meth-and-heroin/215750",
-      "source": "Malay Mail",
-      "published": "2026-04-10T02:22:09",
-      "summary": "IPOH, April 10 — A woman was among nine people, believed to be drug addicts, arrested in an operation to curb drug...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
