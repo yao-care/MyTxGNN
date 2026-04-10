@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-10T09:07:23.731219",
+  "fetched": "2026-04-10T10:53:07.090571",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Dzulkefly: MOH Shifting To ‘Targeted’ Drug Stockpiling After Previous Covid Vaccine Wastage",
+      "url": "https://codeblue.galencentre.org/2026/04/dzulkefly-moh-shifting-to-targeted-drug-stockpiling-after-previous-covid-vaccine-wastage/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-10T09:45:09",
+      "summary": "MOH is shifting to targeted, data-driven stockpiling after Covid-19 vaccine wastage, focusing on critical, fast-moving and single-source medicines, says Dr Dzul. MOH has set an April 15 deadline for pharma companies to report product availability levels. The post Dzulkefly: MOH Shifting To ‘Targeted’ Drug Stockpiling After Previous Covid Vaccine Wastage appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "drug",
+        "vaccine"
+      ]
+    },
     {
       "title": "Why The Hormuz Crisis Could Become A Dialysis Crisis For Malaysia — Azrul Mohd Khalib",
       "url": "https://codeblue.galencentre.org/2026/04/why-the-hormuz-crisis-could-become-a-dialysis-crisis-for-malaysia-azrul-mohd-khalib/",
@@ -102,36 +114,6 @@
       "summary": "At least two govt doctors say they usually make payments to coworkers' personal accounts for work, like courses or department activities like parties. Receipts are given for course materials. Salary overpayment occurs, like RM14k over 3 years for one MO. The post Making Payment To Staff’s Personal Accounts Not Uncommon In MOH, Say Doctors appeared first on CodeBlue .",
       "keywords_matched": [
         "doctor"
-      ]
-    },
-    {
-      "title": "300L RON95 Quota Isn’t A Privilege, But A Necessity For Public Health Assistants — KPKASM",
-      "url": "https://codeblue.galencentre.org/2026/04/300l-ron95-quota-isnt-a-privilege-but-a-necessity-for-public-health-assistants-kpkasm/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-08T03:30:00",
-      "summary": "Public health assistants (PKA) are among the groups most affected by the reduction of the RON95 fuel subsidy quota from 300 to 200 litres because they conduct a substantial portion of their work in the field, moving between locations to do inspections. The post 300L RON95 Quota Isn’t A Privilege, But A Necessity For Public Health Assistants — KPKASM appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Babysitter, mother claim trial to abusing four-year-old girl in Kuala Lumpur",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/10/babysitter-mother-claim-trial-to-abusing-four-year-old-girl-in-kuala-lumpur/215804",
-      "source": "Malay Mail",
-      "published": "2026-04-10T06:21:02",
-      "summary": "KUALA LUMPUR, April 10 — A babysitter and her mother pleaded not guilty in the Sessions Court here yesterday to a...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Dzulkefly: Malaysia’s medicine supply stable until June despite rising costs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/10/dzulkefly-malaysias-medicine-supply-stable-until-june-despite-rising-costs/215785",
-      "source": "Malay Mail",
-      "published": "2026-04-10T05:13:01",
-      "summary": "PUTRAJAYA, April 10 — The country’s medicine supply remains stable and sufficient at least until the end of...",
-      "keywords_matched": [
-        "medicine"
       ]
     }
   ]
