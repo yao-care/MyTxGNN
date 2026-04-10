@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-09T23:36:23.561651",
+  "fetched": "2026-04-10T02:27:05.241618",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,21 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "‘I Would Have Fallen For That’: Senior Doctors Defend Scammed HTA Housemen",
+      "url": "https://codeblue.galencentre.org/2026/04/i-would-have-fallen-for-that-senior-doctors-defend-scammed-hta-housemen/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-10T02:00:00",
+      "summary": "Medical officers and specialists say the housemen in the HTA scam weren't naive, but caught in systemic gaps. Inexperience, admin authority, and a culture of blind obedience made the scheme believable. Similar risks may exist across other public hospitals. The post ‘I Would Have Fallen For That’: Senior Doctors Defend Scammed HTA Housemen appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "MOH Admits Energy Crisis Impact On Medicines, Medical Devices Supply",
       "url": "https://codeblue.galencentre.org/2026/04/moh-admits-energy-crisis-impact-on-medicines-medical-devices-supply/",
@@ -101,19 +114,21 @@
       "keywords_matched": []
     },
     {
-      "title": "Probe Denial Of Overtime Allowance For Paramedics, Ambulance Drivers: Ex-Senator",
-      "url": "https://codeblue.galencentre.org/2026/04/probe-denial-of-overtime-allowance-for-paramedics-ambulance-drivers-ex-senator/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-07T06:00:00",
-      "summary": "Ex-senator Dr RA Lingeshwaran asks why paramedics and ambulance drivers are denied payment of overtime allowance or replacement leave, even though MOH says support staff are eligible for these entitlements if they're instructed \"in writing\" to be on-call. The post Probe Denial Of Overtime Allowance For Paramedics, Ambulance Drivers: Ex-Senator appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Police nab nine in Teluk Intan drug bust with cannabis, meth and heroin",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/10/police-nab-nine-in-teluk-intan-drug-bust-with-cannabis-meth-and-heroin/215750",
+      "source": "Malay Mail",
+      "published": "2026-04-10T02:22:09",
+      "summary": "IPOH, April 10 — A woman was among nine people, believed to be drug addicts, arrested in an operation to curb drug...",
+      "keywords_matched": [
+        "drug"
+      ]
     },
     {
-      "title": "Najib settles defamation suit with Dzulkefly over nepotism claim",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/09/najib-settles-defamation-suit-with-dzulkefly-over-nepotism-claim/215679",
+      "title": "Dzulkefly says settlement includes Facebook clarification, removal of disputed post by Najib",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/10/dzulkefly-says-settlement-includes-facebook-clarification-removal-of-disputed-post-by-najib/215725",
       "source": "Malay Mail",
-      "published": "2026-04-09T08:18:09",
-      "summary": "KUALA LUMPUR, April 9 — The 2022 defamation suit filed by Health Minister Datuk Seri Dzulkefly Ahmad against forme...",
+      "published": "2026-04-10T00:58:16",
+      "summary": "KUALA LUMPUR, April 10 — Health Minister Datuk Seri Dr Dzulkefly Ahmad has withdrawn his civil defamation suit aga...",
       "keywords_matched": [
         "health"
       ]
