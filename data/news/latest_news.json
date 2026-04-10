@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-10T02:27:05.241618",
+  "fetched": "2026-04-10T05:24:05.517671",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Malaysia’s Frontliners At Breaking Point Amid Energy Crisis — Asrie Muda",
+      "url": "https://codeblue.galencentre.org/2026/04/malaysias-frontliners-at-breaking-point-amid-energy-crisis-asrie-muda/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-10T03:30:00",
+      "summary": "Malaysian health care workers are at a breaking point due to fuel subsidy rationalisations during an energy crisis and mandatory job rotation policies in the service. MOH staff exempted from WFH are the most exposed to rising costs of physical mobility. The post Malaysia’s Frontliners At Breaking Point Amid Energy Crisis — Asrie Muda appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "‘I Would Have Fallen For That’: Senior Doctors Defend Scammed HTA Housemen",
       "url": "https://codeblue.galencentre.org/2026/04/i-would-have-fallen-for-that-senior-doctors-defend-scammed-hta-housemen/",
@@ -106,12 +116,25 @@
       ]
     },
     {
-      "title": "Malaysia Part Of New Asean Fertiliser Alliance For Food Security",
-      "url": "https://codeblue.galencentre.org/2026/04/malaysia-part-of-new-asean-fertiliser-alliance-for-food-security/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-07T06:19:35",
-      "summary": "Indonesia, Malaysia, and Brunei have formed a new Southeast Asia Fertiliser Association (Seafa) to boost food security, with Indonesia serving as the inaugural chairman and Malaysia (represented by Petronas Chemicals Group Berhad) as co-chairman. The post Malaysia Part Of New Asean Fertiliser Alliance For Food Security appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Dzulkefly: Malaysia’s medicine supply stable until June despite rising costs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/10/dzulkefly-malaysias-medicine-supply-stable-until-june-despite-rising-costs/215785",
+      "source": "Malay Mail",
+      "published": "2026-04-10T05:13:01",
+      "summary": "PUTRAJAYA, April 10 — The country’s medicine supply remains stable and sufficient at least until the end of...",
+      "keywords_matched": [
+        "medicine"
+      ]
+    },
+    {
+      "title": "Sarawak trials edible rabies vaccines to boost immunisation for free-roaming dogs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/10/sarawak-trials-edible-rabies-vaccines-to-boost-immunisation-for-free-roaming-dogs/215763",
+      "source": "Malay Mail",
+      "published": "2026-04-10T03:37:51",
+      "summary": "KUCHING, April 10 — Sarawak has begun distributing oral rabies vaccine (ORV) bait to free-roaming dogs as part of...",
+      "keywords_matched": [
+        "trial",
+        "vaccine"
+      ]
     },
     {
       "title": "Police nab nine in Teluk Intan drug bust with cannabis, meth and heroin",
@@ -121,16 +144,6 @@
       "summary": "IPOH, April 10 — A woman was among nine people, believed to be drug addicts, arrested in an operation to curb drug...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Dzulkefly says settlement includes Facebook clarification, removal of disputed post by Najib",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/10/dzulkefly-says-settlement-includes-facebook-clarification-removal-of-disputed-post-by-najib/215725",
-      "source": "Malay Mail",
-      "published": "2026-04-10T00:58:16",
-      "summary": "KUALA LUMPUR, April 10 — Health Minister Datuk Seri Dr Dzulkefly Ahmad has withdrawn his civil defamation suit aga...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
