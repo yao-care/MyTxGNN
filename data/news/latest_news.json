@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-10T07:25:33.078559",
+  "fetched": "2026-04-10T09:07:23.731219",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Why The Hormuz Crisis Could Become A Dialysis Crisis For Malaysia — Azrul Mohd Khalib",
+      "url": "https://codeblue.galencentre.org/2026/04/why-the-hormuz-crisis-could-become-a-dialysis-crisis-for-malaysia-azrul-mohd-khalib/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-10T07:36:37",
+      "summary": "Malaysia’s health care system is deeply dependent on plastic-based medical devices, consumables, and disposables. Naphtha, a vital petroleum derivative used in plastic manufacturing and petrochemicals, is essential for the production of these items. The post Why The Hormuz Crisis Could Become A Dialysis Crisis For Malaysia — Azrul Mohd Khalib appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
     {
       "title": "Malaysia’s Frontliners At Breaking Point Amid Energy Crisis — Asrie Muda",
       "url": "https://codeblue.galencentre.org/2026/04/malaysias-frontliners-at-breaking-point-amid-energy-crisis-asrie-muda/",
@@ -104,18 +115,6 @@
       ]
     },
     {
-      "title": "Admin Error Goes Unpunished, Doctors Suffer The Consequences — Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/04/admin-error-goes-unpunished-doctors-suffer-the-consequences-medical-officer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-08T02:00:00",
-      "summary": "HTA housemen succumbed to their PT because they know that fighting their admin is useless. The PT's alleged con was based on legit cases of salary overpayment that occurred elsewhere. Why should health care staff pay the consequences of admin incompetence? The post Admin Error Goes Unpunished, Doctors Suffer The Consequences — Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "doctor"
-      ]
-    },
-    {
       "title": "Babysitter, mother claim trial to abusing four-year-old girl in Kuala Lumpur",
       "url": "https://www.malaymail.com/news/malaysia/2026/04/10/babysitter-mother-claim-trial-to-abusing-four-year-old-girl-in-kuala-lumpur/215804",
       "source": "Malay Mail",
@@ -133,17 +132,6 @@
       "summary": "PUTRAJAYA, April 10 — The country’s medicine supply remains stable and sufficient at least until the end of...",
       "keywords_matched": [
         "medicine"
-      ]
-    },
-    {
-      "title": "Sarawak trials edible rabies vaccines to boost immunisation for free-roaming dogs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/10/sarawak-trials-edible-rabies-vaccines-to-boost-immunisation-for-free-roaming-dogs/215763",
-      "source": "Malay Mail",
-      "published": "2026-04-10T03:37:51",
-      "summary": "KUCHING, April 10 — Sarawak has begun distributing oral rabies vaccine (ORV) bait to free-roaming dogs as part of...",
-      "keywords_matched": [
-        "trial",
-        "vaccine"
       ]
     }
   ]
