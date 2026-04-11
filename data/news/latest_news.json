@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-11T08:40:31.754448",
+  "fetched": "2026-04-11T09:38:15.487961",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Dzulkefly: MOH Shifting To ‘Targeted’ Drug Stockpiling After Previous Covid Vaccine Wastage",
@@ -113,6 +113,17 @@
       "published": "2026-04-09T02:00:00",
       "summary": "At least two govt doctors say they usually make payments to coworkers' personal accounts for work, like courses or department activities like parties. Receipts are given for course materials. Salary overpayment occurs, like RM14k over 3 years for one MO. The post Making Payment To Staff’s Personal Accounts Not Uncommon In MOH, Say Doctors appeared first on CodeBlue .",
       "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Sabah faces doctor shortage with fewer than 3,000 serving against need for 9,000, says state health minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/11/sabah-faces-doctor-shortage-with-fewer-than-3000-serving-against-need-for-9000-says-state-health-minister/215975",
+      "source": "Malay Mail",
+      "published": "2026-04-11T08:48:20",
+      "summary": "KOTA KINABALU, April 11 — Sabah only has about 2,884 doctors serving in the state compared to an estimated need of...",
+      "keywords_matched": [
+        "health",
         "doctor"
       ]
     }
