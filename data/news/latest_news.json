@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-10T23:33:48.395331",
+  "fetched": "2026-04-11T02:06:41.805486",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Dzulkefly: MOH Shifting To ‘Targeted’ Drug Stockpiling After Previous Covid Vaccine Wastage",
@@ -114,6 +114,17 @@
       "summary": "At least two govt doctors say they usually make payments to coworkers' personal accounts for work, like courses or department activities like parties. Receipts are given for course materials. Salary overpayment occurs, like RM14k over 3 years for one MO. The post Making Payment To Staff’s Personal Accounts Not Uncommon In MOH, Say Doctors appeared first on CodeBlue .",
       "keywords_matched": [
         "doctor"
+      ]
+    },
+    {
+      "title": "Malaysia, Brunei boost collaboration on treatment, enforcement in anti-drug efforts",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/11/malaysia-brunei-boost-collaboration-on-treatment-enforcement-in-anti-drug-efforts/215890",
+      "source": "Malay Mail",
+      "published": "2026-04-11T01:39:38",
+      "summary": "GEORGE TOWN, April 11 — Malaysia and Brunei are to continue strengthening regional cooperation in the aspects of p...",
+      "keywords_matched": [
+        "drug",
+        "treatment"
       ]
     }
   ]
