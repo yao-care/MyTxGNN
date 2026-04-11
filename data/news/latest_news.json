@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-11T07:13:17.828475",
+  "fetched": "2026-04-11T08:40:31.754448",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 10,
   "items": [
     {
       "title": "Dzulkefly: MOH Shifting To ‘Targeted’ Drug Stockpiling After Previous Covid Vaccine Wastage",
@@ -114,48 +114,6 @@
       "summary": "At least two govt doctors say they usually make payments to coworkers' personal accounts for work, like courses or department activities like parties. Receipts are given for course materials. Salary overpayment occurs, like RM14k over 3 years for one MO. The post Making Payment To Staff’s Personal Accounts Not Uncommon In MOH, Say Doctors appeared first on CodeBlue .",
       "keywords_matched": [
         "doctor"
-      ]
-    },
-    {
-      "title": "Rising costs prompt government action on medicine and medical device supply, says economy minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/11/rising-costs-prompt-government-action-on-medicine-and-medical-device-supply-says-economy-minister/215939",
-      "source": "Malay Mail",
-      "published": "2026-04-11T05:56:34",
-      "summary": "JOHOR BAHRU, April 11 — The government will take intervention measures to address issues of supply and rising pric...",
-      "keywords_matched": [
-        "medical",
-        "medicine"
-      ]
-    },
-    {
-      "title": "First batch of Malaysian Haj personnel departs for Saudi Arabia ahead of 2026 pilgrimage season",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/11/first-batch-of-malaysian-haj-personnel-departs-for-saudi-arabia-ahead-of-2026-pilgrimage-season/215937",
-      "source": "Malay Mail",
-      "published": "2026-04-11T05:48:23",
-      "summary": "SEPANG, April 11 — A total of 141 Haj personnel, comprising staff from Lembaga Tabung Haji (TH) and the Health Min...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Pilot phase to iron out gaps in Malaysia’s new health insurance scheme, says deputy finance minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/11/pilot-phase-to-iron-out-gaps-in-malaysias-new-health-insurance-scheme-says-deputy-finance-minister/215930",
-      "source": "Malay Mail",
-      "published": "2026-04-11T05:21:27",
-      "summary": "KUALA LUMPUR, April 11 — The Malaysian insurance and takaful industry is expected to address any structural gaps d...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Soldier in Pahang military camp assault dies in hospital",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/11/soldier-in-pahang-military-camp-assault-dies-in-hospital/215922",
-      "source": "Malay Mail",
-      "published": "2026-04-11T05:05:35",
-      "summary": "KUALA LUMPUR, April 11 — Prebet Muhammad Amirul Raziq Rosafindi, 24, who was previously reported to have bee...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
