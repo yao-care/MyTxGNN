@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-12T08:45:40.945204",
+  "fetched": "2026-04-12T09:43:33.114722",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Dzulkefly: MOH Shifting To ‘Targeted’ Drug Stockpiling After Previous Covid Vaccine Wastage",
@@ -114,6 +114,19 @@
       "summary": "At least two govt doctors say they usually make payments to coworkers' personal accounts for work, like courses or department activities like parties. Receipts are given for course materials. Salary overpayment occurs, like RM14k over 3 years for one MO. The post Making Payment To Staff’s Personal Accounts Not Uncommon In MOH, Say Doctors appeared first on CodeBlue .",
       "keywords_matched": [
         "doctor"
+      ]
+    },
+    {
+      "title": "New Sarawak cancer hospital aims to serve patients across Borneo; design complete, tender next",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/12/new-sarawak-cancer-hospital-aims-to-serve-patients-across-borneo-design-complete-tender-next/216095",
+      "source": "Malay Mail",
+      "published": "2026-04-12T08:54:17",
+      "summary": "KUCHING, April 12 — The proposed Sarawak Cancer Centre is expected to commence construction in 2027 following the...",
+      "keywords_matched": [
+        "cancer",
+        "hospital",
+        "patient",
+        "hospital"
       ]
     },
     {
