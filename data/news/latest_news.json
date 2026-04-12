@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-12T07:12:25.591375",
+  "fetched": "2026-04-12T08:45:40.945204",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Dzulkefly: MOH Shifting To ‘Targeted’ Drug Stockpiling After Previous Covid Vaccine Wastage",
@@ -117,13 +117,25 @@
       ]
     },
     {
-      "title": "Man with mental health issues critically injured after falling from fifth-floor flat in Jelutong",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/12/man-with-mental-health-issues-critically-injured-after-falling-from-fifth-floor-flat-in-jelutong/216020",
+      "title": "Diabetes-linked kidney diseases on the rise, cost Malaysia RM3.3b a year, says health minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/12/diabetes-linked-kidney-diseases-on-the-rise-cost-malaysia-rm33b-a-year-says-health-minister/216079",
       "source": "Malay Mail",
-      "published": "2026-04-12T01:14:55",
-      "summary": "GEORGE TOWN, April 12 — A 53-year-old man believed to have mental health issues was seriously injured a...",
+      "published": "2026-04-12T07:34:10",
+      "summary": "SHAH ALAM, April 12 — The cost of treating end-stage chronic kidney disease (CKD) in Malaysia has surged sharply f...",
       "keywords_matched": [
-        "health"
+        "health",
+        "disease",
+        "diabetes"
+      ]
+    },
+    {
+      "title": "Ex-Kelantan footballer, friend claim trial to abducting, confining 45-year-old man in Tumpat",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/12/ex-kelantan-footballer-friend-claim-trial-to-abducting-confining-45-year-old-man-in-tumpat/216080",
+      "source": "Malay Mail",
+      "published": "2026-04-12T07:16:08",
+      "summary": "PASIR MAS, April 12 — A former Kelantan football player and his friend pleaded not guilty at the Sessions Court he...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
