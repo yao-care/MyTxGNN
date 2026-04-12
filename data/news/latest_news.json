@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-12T12:58:44.126318",
+  "fetched": "2026-04-12T14:01:58.998432",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "title": "Dzulkefly: MOH Shifting To ‘Targeted’ Drug Stockpiling After Previous Covid Vaccine Wastage",
@@ -114,6 +114,17 @@
       "summary": "At least two govt doctors say they usually make payments to coworkers' personal accounts for work, like courses or department activities like parties. Receipts are given for course materials. Salary overpayment occurs, like RM14k over 3 years for one MO. The post Making Payment To Staff’s Personal Accounts Not Uncommon In MOH, Say Doctors appeared first on CodeBlue .",
       "keywords_matched": [
         "doctor"
+      ]
+    },
+    {
+      "title": "Pharmacists call for buffer stock and stronger local production to secure Malaysia’s medicine supply",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/12/pharmacists-call-for-buffer-stock-and-stronger-local-production-to-secure-malaysias-medicine-supply/216109",
+      "source": "Malay Mail",
+      "published": "2026-04-12T13:00:00",
+      "summary": "KUALA LUMPUR, April 13 — The move to require pharmaceutical companies to report potential medicine supp...",
+      "keywords_matched": [
+        "medicine",
+        "pharmaceutical"
       ]
     },
     {
