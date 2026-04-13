@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-13T02:33:32.778771",
+  "fetched": "2026-04-13T05:40:49.893326",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Expedite Intake For Permanent Positions For Reserve Pharmacists, Dental Officers — Pharmacist",
+      "url": "https://codeblue.galencentre.org/2026/04/expedite-intake-for-permanent-positions-for-reserve-pharmacists-dental-officers-pharmacist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-13T05:30:00",
+      "summary": "We hope the authorities can expedite the intake for permanent positions for contract pharmacists and dentists and provide clarity on the status of those who are still waiting. Some 350 pharmacists are on the reserve list; validity ends on Oct 20, 2026. The post Expedite Intake For Permanent Positions For Reserve Pharmacists, Dental Officers — Pharmacist appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Beyond Chemo, New Blood Cancer Treatments Bring Hope In Malaysia",
+      "url": "https://codeblue.galencentre.org/2026/04/beyond-chemo-new-blood-cancer-treatments-bring-hope-in-malaysia/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-13T03:30:00",
+      "summary": "A haematologist at Sunway Medical Centre, Sunway City, says stem cell transplant can be curative in many instances, while CAR-T cell therapy is lifesaving in Refractory B cell lymphoma, B cell Acute Lymphoblastic Leukemia and multiple myeloma. The post Beyond Chemo, New Blood Cancer Treatments Bring Hope In Malaysia appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "treatment",
+        "therapy",
+        "cancer"
+      ]
+    },
     {
       "title": "Nationalism Can Curb Doctor Brain Drain, Says KPPA",
       "url": "https://codeblue.galencentre.org/2026/04/nationalism-can-curb-doctor-brain-drain-says-kppa/",
@@ -97,26 +118,6 @@
       "keywords_matched": []
     },
     {
-      "title": "BIW Allowance Cut, Expensive Flight Tickets Complicating Travel To Peninsula — Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/04/biw-allowance-cut-expensive-flight-tickets-complicating-travel-to-peninsula-medical-officer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-09T05:30:00",
-      "summary": "The BIW allowance reduction to RM360, coupled with an automatic BISH allowance cut, leaves us with just extra RM60 compared to our friends working in Semenanjung. I can't visit my baby back home because of expensive flight tickets amid the Iran war. The post BIW Allowance Cut, Expensive Flight Tickets Complicating Travel To Peninsula — Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Can’t Compare Complex Health Care To Airline Pricing — Dr Poh Ban Chung",
-      "url": "https://codeblue.galencentre.org/2026/04/cant-compare-complex-health-care-to-airline-pricing-dr-poh-ban-chung/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-09T03:30:44",
-      "summary": "Comparing inherently complex health care to airline pricing doesn't quite fit. The suggestion that health care costs should be as predictable as a flight ticket assumes that the journey is already defined. In reality, health care is a process of discovery. The post Can’t Compare Complex Health Care To Airline Pricing — Dr Poh Ban Chung appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
       "title": "Trip to Songkran festival ends with drug test trouble for two SPM candidates at Bukit Kayu Hitam",
       "url": "https://www.malaymail.com/news/malaysia/2026/04/13/trip-to-songkran-festival-ends-with-drug-test-trouble-for-two-spm-candidates-at-bukit-kayu-hitam/216128",
       "source": "Malay Mail",
@@ -124,30 +125,6 @@
       "summary": "BUKIT KAYU HITAM, April 13 — Two 17-year-old Sijil Pelajaran Malaysia (SPM) candidates were among 37 individuals d...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Pharmacists call for buffer stock and stronger local production to secure Malaysia’s medicine supply",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/12/pharmacists-call-for-buffer-stock-and-stronger-local-production-to-secure-malaysias-medicine-supply/216109",
-      "source": "Malay Mail",
-      "published": "2026-04-12T13:00:00",
-      "summary": "KUALA LUMPUR, April 13 — The move to require pharmaceutical companies to report potential medicine supp...",
-      "keywords_matched": [
-        "medicine",
-        "pharmaceutical"
-      ]
-    },
-    {
-      "title": "New Sarawak cancer hospital aims to serve patients across Borneo; design complete, tender next",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/12/new-sarawak-cancer-hospital-aims-to-serve-patients-across-borneo-design-complete-tender-next/216095",
-      "source": "Malay Mail",
-      "published": "2026-04-12T08:54:17",
-      "summary": "KUCHING, April 12 — The proposed Sarawak Cancer Centre is expected to commence construction in 2027 following the...",
-      "keywords_matched": [
-        "cancer",
-        "hospital",
-        "patient",
-        "hospital"
       ]
     }
   ]
