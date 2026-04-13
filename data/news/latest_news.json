@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-13T08:01:18.213398",
+  "fetched": "2026-04-13T10:43:44.474131",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Nutrition And Physical Activity: 80/20 Or 50/50? — Ahmad Zaki Mohd Rum & Dr Nor Aini Jamil",
@@ -120,23 +120,33 @@
       ]
     },
     {
-      "title": "Court grants FashionValet founder Vivy Yusof, husband temporary release of passport to perform Haj, trial postponed to July",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/court-grants-fashionvalet-founder-vivy-yusof-husband-temporary-release-of-passport-to-perform-haj-trial-postponed-to-july/216165",
+      "title": "Muhyiddin graft trial: Banker says company sent RM800,000 in four cheques to Bersatu in one day",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/muhyiddin-graft-trial-banker-says-company-sent-rm800000-in-four-cheques-to-bersatu-in-one-day/216200",
       "source": "Malay Mail",
-      "published": "2026-04-13T06:15:28",
-      "summary": "KUALA LUMPUR,  April 13 — The trial involving FashionValet Sdn Bhd (FashionValet) founder Datin Vivy Yusof an...",
+      "published": "2026-04-13T09:37:44",
+      "summary": "KUALA LUMPUR, April 13 — A firm called KCJ Engineering Sdn Bhd had sent out RM800,000 via four Maybank Islamic che...",
       "keywords_matched": [
         "trial"
       ]
     },
     {
-      "title": "E-hailing ride turns drug run: Johor cops arrest mule in Pontian bust",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/e-hailing-ride-turns-drug-run-johor-cops-arrest-mule-in-pontian-bust/216161",
+      "title": "Police smash KLIA drug trafficking rings, seize 82kg worth RM5.45m",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/police-smash-klia-drug-trafficking-rings-seize-82kg-worth-rm545m/216187",
       "source": "Malay Mail",
-      "published": "2026-04-13T05:53:36",
-      "summary": "PONTIAN, April 13 — Police have uncovered a drug distribution tactic involving the use of e-hailing services follo...",
+      "published": "2026-04-13T08:35:30",
+      "summary": "SHAH ALAM, April 13 — Police have crippled international drug trafficking syndicates in raids around Kuala Lumpur...",
       "keywords_matched": [
         "drug"
+      ]
+    },
+    {
+      "title": "Penang bans sale of toys with syringes over child safety risks",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/penang-bans-sale-of-toys-with-syringes-over-child-safety-risks/216185",
+      "source": "Malay Mail",
+      "published": "2026-04-13T08:29:50",
+      "summary": "GEORGE TOWN, April 13 — Penang has banned the sale of toys that use medical devices such as syringes, including a...",
+      "keywords_matched": [
+        "medical"
       ]
     }
   ]
