@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-13T10:43:44.474131",
+  "fetched": "2026-04-13T12:01:52.585599",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Nutrition And Physical Activity: 80/20 Or 50/50? — Ahmad Zaki Mohd Rum & Dr Nor Aini Jamil",
@@ -137,16 +137,6 @@
       "summary": "SHAH ALAM, April 13 — Police have crippled international drug trafficking syndicates in raids around Kuala Lumpur...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Penang bans sale of toys with syringes over child safety risks",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/penang-bans-sale-of-toys-with-syringes-over-child-safety-risks/216185",
-      "source": "Malay Mail",
-      "published": "2026-04-13T08:29:50",
-      "summary": "GEORGE TOWN, April 13 — Penang has banned the sale of toys that use medical devices such as syringes, including a...",
-      "keywords_matched": [
-        "medical"
       ]
     }
   ]
