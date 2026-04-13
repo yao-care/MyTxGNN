@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-13T05:40:49.893326",
+  "fetched": "2026-04-13T08:01:18.213398",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Nutrition And Physical Activity: 80/20 Or 50/50? — Ahmad Zaki Mohd Rum & Dr Nor Aini Jamil",
+      "url": "https://codeblue.galencentre.org/2026/04/nutrition-and-physical-activity-80-20-or-50-50-ahmad-zaki-mohd-rum-dr-nor-aini-jamil/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-13T07:30:00",
+      "summary": "Eating well may not be enough to support optimal health. Recent evidence points to a more balanced 50/50 approach, giving equal importance to good nutrition and an active lifestyle. The post Nutrition And Physical Activity: 80/20 Or 50/50? — Ahmad Zaki Mohd Rum & Dr Nor Aini Jamil appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Expedite Intake For Permanent Positions For Reserve Pharmacists, Dental Officers — Pharmacist",
       "url": "https://codeblue.galencentre.org/2026/04/expedite-intake-for-permanent-positions-for-reserve-pharmacists-dental-officers-pharmacist/",
@@ -110,19 +120,21 @@
       ]
     },
     {
-      "title": "Expand Public Dental Capacity To Manage System Strain — MDA",
-      "url": "https://codeblue.galencentre.org/2026/04/expand-public-dental-capacity-to-manage-system-strain-mda/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-09T07:37:54",
-      "summary": "MDA reiterates that expanding facilities and strengthening service delivery capacity should be prioritised, rather than focusing solely on increasing or restricting the number of dental practitioners. The post Expand Public Dental Capacity To Manage System Strain — MDA appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Court grants FashionValet founder Vivy Yusof, husband temporary release of passport to perform Haj, trial postponed to July",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/court-grants-fashionvalet-founder-vivy-yusof-husband-temporary-release-of-passport-to-perform-haj-trial-postponed-to-july/216165",
+      "source": "Malay Mail",
+      "published": "2026-04-13T06:15:28",
+      "summary": "KUALA LUMPUR,  April 13 — The trial involving FashionValet Sdn Bhd (FashionValet) founder Datin Vivy Yusof an...",
+      "keywords_matched": [
+        "trial"
+      ]
     },
     {
-      "title": "Trip to Songkran festival ends with drug test trouble for two SPM candidates at Bukit Kayu Hitam",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/trip-to-songkran-festival-ends-with-drug-test-trouble-for-two-spm-candidates-at-bukit-kayu-hitam/216128",
+      "title": "E-hailing ride turns drug run: Johor cops arrest mule in Pontian bust",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/e-hailing-ride-turns-drug-run-johor-cops-arrest-mule-in-pontian-bust/216161",
       "source": "Malay Mail",
-      "published": "2026-04-13T01:48:51",
-      "summary": "BUKIT KAYU HITAM, April 13 — Two 17-year-old Sijil Pelajaran Malaysia (SPM) candidates were among 37 individuals d...",
+      "published": "2026-04-13T05:53:36",
+      "summary": "PONTIAN, April 13 — Police have uncovered a drug distribution tactic involving the use of e-hailing services follo...",
       "keywords_matched": [
         "drug"
       ]
