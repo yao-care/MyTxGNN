@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-12T23:33:25.121783",
+  "fetched": "2026-04-13T02:33:32.778771",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Nationalism Can Curb Doctor Brain Drain, Says KPPA",
+      "url": "https://codeblue.galencentre.org/2026/04/nationalism-can-curb-doctor-brain-drain-says-kppa/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-13T02:00:00",
+      "summary": "Public Service DG Wan Ahmad Dahlan says doctor brain drain can be curbed if doctors have a \"sense of nationalism to help the country\", amid very low housemen intake. MMA says doctors leave because \"the system and policy don't reciprocate their love.\" The post Nationalism Can Curb Doctor Brain Drain, Says KPPA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
     {
       "title": "Dzulkefly: MOH Shifting To ‘Targeted’ Drug Stockpiling After Previous Covid Vaccine Wastage",
       "url": "https://codeblue.galencentre.org/2026/04/dzulkefly-moh-shifting-to-targeted-drug-stockpiling-after-previous-covid-vaccine-wastage/",
@@ -107,13 +117,13 @@
       ]
     },
     {
-      "title": "Making Payment To Staff’s Personal Accounts Not Uncommon In MOH, Say Doctors",
-      "url": "https://codeblue.galencentre.org/2026/04/making-payment-to-staffs-personal-accounts-not-uncommon-in-moh-say-doctors/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-09T02:00:00",
-      "summary": "At least two govt doctors say they usually make payments to coworkers' personal accounts for work, like courses or department activities like parties. Receipts are given for course materials. Salary overpayment occurs, like RM14k over 3 years for one MO. The post Making Payment To Staff’s Personal Accounts Not Uncommon In MOH, Say Doctors appeared first on CodeBlue .",
+      "title": "Trip to Songkran festival ends with drug test trouble for two SPM candidates at Bukit Kayu Hitam",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/trip-to-songkran-festival-ends-with-drug-test-trouble-for-two-spm-candidates-at-bukit-kayu-hitam/216128",
+      "source": "Malay Mail",
+      "published": "2026-04-13T01:48:51",
+      "summary": "BUKIT KAYU HITAM, April 13 — Two 17-year-old Sijil Pelajaran Malaysia (SPM) candidates were among 37 individuals d...",
       "keywords_matched": [
-        "doctor"
+        "drug"
       ]
     },
     {
@@ -138,28 +148,6 @@
         "hospital",
         "patient",
         "hospital"
-      ]
-    },
-    {
-      "title": "Diabetes-linked kidney diseases on the rise, cost Malaysia RM3.3b a year, says health minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/12/diabetes-linked-kidney-diseases-on-the-rise-cost-malaysia-rm33b-a-year-says-health-minister/216079",
-      "source": "Malay Mail",
-      "published": "2026-04-12T07:34:10",
-      "summary": "SHAH ALAM, April 12 — The cost of treating end-stage chronic kidney disease (CKD) in Malaysia has surged sharply f...",
-      "keywords_matched": [
-        "health",
-        "disease",
-        "diabetes"
-      ]
-    },
-    {
-      "title": "Ex-Kelantan footballer, friend claim trial to abducting, confining 45-year-old man in Tumpat",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/12/ex-kelantan-footballer-friend-claim-trial-to-abducting-confining-45-year-old-man-in-tumpat/216080",
-      "source": "Malay Mail",
-      "published": "2026-04-12T07:16:08",
-      "summary": "PASIR MAS, April 12 — A former Kelantan football player and his friend pleaded not guilty at the Sessions Court he...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
