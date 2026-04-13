@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-13T12:01:52.585599",
+  "fetched": "2026-04-13T14:47:10.498560",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Nutrition And Physical Activity: 80/20 Or 50/50? — Ahmad Zaki Mohd Rum & Dr Nor Aini Jamil",
@@ -127,16 +127,6 @@
       "summary": "KUALA LUMPUR, April 13 — A firm called KCJ Engineering Sdn Bhd had sent out RM800,000 via four Maybank Islamic che...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Police smash KLIA drug trafficking rings, seize 82kg worth RM5.45m",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/police-smash-klia-drug-trafficking-rings-seize-82kg-worth-rm545m/216187",
-      "source": "Malay Mail",
-      "published": "2026-04-13T08:35:30",
-      "summary": "SHAH ALAM, April 13 — Police have crippled international drug trafficking syndicates in raids around Kuala Lumpur...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
