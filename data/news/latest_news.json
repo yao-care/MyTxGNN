@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-14T11:01:34.495551",
+  "fetched": "2026-04-14T13:22:56.532251",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "The Silent Struggle: Why Malaysia Must Wake Up To Rare Immune Disorders — Dr Zarina Thasneem Zainudeen & Dr Intan Juliana Hamid",
@@ -115,16 +115,6 @@
       "keywords_matched": [
         "health",
         "medical"
-      ]
-    },
-    {
-      "title": "No need to turn your house into a pharmacy: MoH says medicine supplies stable, avoid hoarding",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/14/no-need-to-turn-your-house-into-a-pharmacy-moh-says-medicine-supplies-stable-avoid-hoarding/216263",
-      "source": "Malay Mail",
-      "published": "2026-04-14T04:07:29",
-      "summary": "KUALA LUMPUR, April 14 — The supply of medicines in the country is expected to remain stable at least until the en...",
-      "keywords_matched": [
-        "medicine"
       ]
     }
   ]
