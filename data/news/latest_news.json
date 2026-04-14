@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-14T02:27:40.840444",
+  "fetched": "2026-04-14T05:22:17.797088",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,21 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "‘Zero Pending’, Zero Safety, Zero HCWs: The Burning Crisis At Queen Elizabeth Hospital — Health Worker",
+      "url": "https://codeblue.galencentre.org/2026/04/zero-pending-zero-safety-zero-hcw-the-burning-crisis-at-queen-elizabeth-hospital-health-worker/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-14T03:30:00",
+      "summary": "To hit a 4-hour ETD clearance target at Queen Elizabeth Hospital, patients are pushed out of the emergency room and dumped into a multidisciplinary ward, regardless of their diagnosis or stability. Staff who try to delay unsafe admissions are threatened. The post ‘Zero Pending’, Zero Safety, Zero HCWs: The Burning Crisis At Queen Elizabeth Hospital — Health Worker appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "patient",
+        "hospital"
+      ]
+    },
     {
       "title": "Malaysia Faces Emerging Shortage Of Dialysers, Haemodialysis Components",
       "url": "https://codeblue.galencentre.org/2026/04/malaysia-faces-emerging-shortage-of-dialysers-haemodialysis-components/",
@@ -107,16 +120,13 @@
       ]
     },
     {
-      "title": "MOH Admits Energy Crisis Impact On Medicines, Medical Devices Supply",
-      "url": "https://codeblue.galencentre.org/2026/04/moh-admits-energy-crisis-impact-on-medicines-medical-devices-supply/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-09T10:34:32",
-      "summary": "MOH says the global energy crisis is affecting supply of medicines and medical devices in Malaysia, especially critical imported medical devices in high-risk categories, forcing \"prudent\" distribution. MOH is devising alternative clinical treatment plans. The post MOH Admits Energy Crisis Impact On Medicines, Medical Devices Supply appeared first on CodeBlue .",
+      "title": "No need to turn your house into a pharmacy: MoH says medicine supplies stable, avoid hoarding",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/14/no-need-to-turn-your-house-into-a-pharmacy-moh-says-medicine-supplies-stable-avoid-hoarding/216263",
+      "source": "Malay Mail",
+      "published": "2026-04-14T04:07:29",
+      "summary": "KUALA LUMPUR, April 14 — The supply of medicines in the country is expected to remain stable at least until the en...",
       "keywords_matched": [
-        "medical",
-        "medicine",
-        "treatment",
-        "clinical"
+        "medicine"
       ]
     },
     {
