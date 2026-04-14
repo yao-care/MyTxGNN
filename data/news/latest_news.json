@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-13T23:40:57.870022",
+  "fetched": "2026-04-14T02:27:40.840444",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,16 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Malaysia Faces Emerging Shortage Of Dialysers, Haemodialysis Components",
+      "url": "https://codeblue.galencentre.org/2026/04/malaysia-faces-emerging-shortage-of-dialysers-haemodialysis-components/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-14T02:00:00",
+      "summary": "Malaysia is facing an emerging shortage of dialysers (artificial kidney) and canister/bottle packaging for haemodialysis (HD) concentrate solution. A dialyser is necessary for HD. Nephrologists say kidney failure patients can't survive without dialysis. The post Malaysia Faces Emerging Shortage Of Dialysers, Haemodialysis Components appeared first on CodeBlue .",
+      "keywords_matched": [
+        "patient"
+      ]
+    },
     {
       "title": "Nutrition And Physical Activity: 80/20 Or 50/50? — Ahmad Zaki Mohd Rum & Dr Nor Aini Jamil",
       "url": "https://codeblue.galencentre.org/2026/04/nutrition-and-physical-activity-80-20-or-50-50-ahmad-zaki-mohd-rum-dr-nor-aini-jamil/",
@@ -110,23 +120,13 @@
       ]
     },
     {
-      "title": "Strategic Buffer Stocks Should Prioritise Essential Medicines — MMA",
-      "url": "https://codeblue.galencentre.org/2026/04/strategic-buffer-stocks-should-prioritise-essential-medicines-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-09T07:52:50",
-      "summary": "The MMA wishes to emphasise that the global situation remains uncertain, and we cannot rely solely on the current stability. The post Strategic Buffer Stocks Should Prioritise Essential Medicines — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medicine"
-      ]
-    },
-    {
-      "title": "Muhyiddin graft trial: Banker says company sent RM800,000 in four cheques to Bersatu in one day",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/13/muhyiddin-graft-trial-banker-says-company-sent-rm800000-in-four-cheques-to-bersatu-in-one-day/216200",
+      "title": "Cops identify KL hit-and-run suspect as police inspector with schizophrenia, facing medical retirement",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/14/cops-identify-kl-hit-and-run-suspect-as-police-inspector-with-schizophrenia-facing-medical-retirement/216239",
       "source": "Malay Mail",
-      "published": "2026-04-13T09:37:44",
-      "summary": "KUALA LUMPUR, April 13 — A firm called KCJ Engineering Sdn Bhd had sent out RM800,000 via four Maybank Islamic che...",
+      "published": "2026-04-14T01:55:23",
+      "summary": "KUALA LUMPUR, April 14 — The driver detained for allegedly being involved in a hit-and-run case involving a traffi...",
       "keywords_matched": [
-        "trial"
+        "medical"
       ]
     }
   ]
