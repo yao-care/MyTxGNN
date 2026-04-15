@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-14T23:40:44.885735",
+  "fetched": "2026-04-15T02:25:53.095907",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Malaysia Facing Delayed Medicine Supplies, Don’t Panic Buy, Say Importers",
+      "url": "https://codeblue.galencentre.org/2026/04/malaysia-facing-delayed-medicine-supplies-dont-panic-buy-say-importers/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-15T02:00:00",
+      "summary": "Pharmaceutical importers highlight a delay of medicine shipments into Malaysia by some two weeks, but the shipments are still coming in although freight costs are surging rapidly. Consumers are advised to maintain sufficient supply, rather than panic buy. The post Malaysia Facing Delayed Medicine Supplies, Don’t Panic Buy, Say Importers appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "pharmaceutical"
+      ]
+    },
     {
       "title": "The Silent Struggle: Why Malaysia Must Wake Up To Rare Immune Disorders — Dr Zarina Thasneem Zainudeen & Dr Intan Juliana Hamid",
       "url": "https://codeblue.galencentre.org/2026/04/the-silent-struggle-why-malaysia-must-wake-up-to-rare-immune-disorders/",
@@ -107,14 +118,13 @@
       ]
     },
     {
-      "title": "Why The Hormuz Crisis Could Become A Dialysis Crisis For Malaysia — Azrul Mohd Khalib",
-      "url": "https://codeblue.galencentre.org/2026/04/why-the-hormuz-crisis-could-become-a-dialysis-crisis-for-malaysia-azrul-mohd-khalib/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-10T07:36:37",
-      "summary": "Malaysia’s health care system is deeply dependent on plastic-based medical devices, consumables, and disposables. Naphtha, a vital petroleum derivative used in plastic manufacturing and petrochemicals, is essential for the production of these items. The post Why The Hormuz Crisis Could Become A Dialysis Crisis For Malaysia — Azrul Mohd Khalib appeared first on CodeBlue .",
+      "title": "GOF busts RM700,000 drug haul in Pasir Mas",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/15/gof-busts-rm700000-drug-haul-in-pasir-mas/216355",
+      "source": "Malay Mail",
+      "published": "2026-04-15T02:14:40",
+      "summary": "KOTA BHARU, April 15 — The General Operations Force (GOF) Tenggara Brigade seized more than 200 kilogrammes (kg) o...",
       "keywords_matched": [
-        "health",
-        "medical"
+        "drug"
       ]
     }
   ]
