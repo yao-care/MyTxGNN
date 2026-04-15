@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-15T02:25:53.095907",
+  "fetched": "2026-04-15T05:22:37.010407",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "MOH Wants New Dialysis Patients To Choose PD Amid Potential HD Product Shortages",
+      "url": "https://codeblue.galencentre.org/2026/04/moh-wants-new-dialysis-patients-to-choose-pd-amid-potential-hd-product-shortages/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-15T03:30:00",
+      "summary": "MOH exhorts new dialysis patients to choose peritoneal dialysis (PD), amid potential shortages of haemodialysis (HD) components. MOH says local manufacturers highlighted rising prices of plastics and related products, but no supply shortages currently. The post MOH Wants New Dialysis Patients To Choose PD Amid Potential HD Product Shortages appeared first on CodeBlue .",
+      "keywords_matched": [
+        "patient"
+      ]
+    },
     {
       "title": "Malaysia Facing Delayed Medicine Supplies, Don’t Panic Buy, Say Importers",
       "url": "https://codeblue.galencentre.org/2026/04/malaysia-facing-delayed-medicine-supplies-dont-panic-buy-say-importers/",
@@ -106,15 +116,14 @@
       ]
     },
     {
-      "title": "Dzulkefly: MOH Shifting To ‘Targeted’ Drug Stockpiling After Previous Covid Vaccine Wastage",
-      "url": "https://codeblue.galencentre.org/2026/04/dzulkefly-moh-shifting-to-targeted-drug-stockpiling-after-previous-covid-vaccine-wastage/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-10T09:45:09",
-      "summary": "MOH is shifting to targeted, data-driven stockpiling after Covid-19 vaccine wastage, focusing on critical, fast-moving and single-source medicines, says Dr Dzul. MOH has set an April 15 deadline for pharma companies to report product availability levels. The post Dzulkefly: MOH Shifting To ‘Targeted’ Drug Stockpiling After Previous Covid Vaccine Wastage appeared first on CodeBlue .",
+      "title": "Perak faces medical officer shortfall as doctor-to-population ratio lags national level",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/15/perak-faces-medical-officer-shortfall-as-doctor-to-population-ratio-lags-national-level/216381",
+      "source": "Malay Mail",
+      "published": "2026-04-15T04:36:20",
+      "summary": "IPOH, April 15 — Perak continues to face a shortage of medical officers with its doctor-to-population ratio fallin...",
       "keywords_matched": [
-        "medicine",
-        "drug",
-        "vaccine"
+        "medical",
+        "doctor"
       ]
     },
     {
