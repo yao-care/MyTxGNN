@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-15T07:43:25.182389",
+  "fetched": "2026-04-15T09:17:59.266850",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "When Performance Takes A Back Seat: Rethinking Promotion Culture In Malaysia’s Public Health Sector — Dr Musa Mohd Nordin",
@@ -111,17 +111,6 @@
       "published": "2026-04-13T05:30:00",
       "summary": "We hope the authorities can expedite the intake for permanent positions for contract pharmacists and dentists and provide clarity on the status of those who are still waiting. Some 350 pharmacists are on the reserve list; validity ends on Oct 20, 2026. The post Expedite Intake For Permanent Positions For Reserve Pharmacists, Dental Officers — Pharmacist appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Perak faces medical officer shortfall as doctor-to-population ratio lags national level",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/15/perak-faces-medical-officer-shortfall-as-doctor-to-population-ratio-lags-national-level/216381",
-      "source": "Malay Mail",
-      "published": "2026-04-15T04:36:20",
-      "summary": "IPOH, April 15 — Perak continues to face a shortage of medical officers with its doctor-to-population ratio fallin...",
-      "keywords_matched": [
-        "medical",
-        "doctor"
-      ]
     }
   ]
 }
