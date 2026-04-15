@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-15T05:22:37.010407",
+  "fetched": "2026-04-15T07:43:25.182389",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "When Performance Takes A Back Seat: Rethinking Promotion Culture In Malaysia’s Public Health Sector — Dr Musa Mohd Nordin",
+      "url": "https://codeblue.galencentre.org/2026/04/when-performance-takes-a-back-seat-rethinking-promotion-culture-in-malaysias-public-health-sector-dr-musa-mohd-nordin/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-15T07:20:00",
+      "summary": "Restoring confidence in promotion practices is not just about fairness. It is about safeguarding the future effectiveness, morale, and integrity of our public health institutions. The post When Performance Takes A Back Seat: Rethinking Promotion Culture In Malaysia’s Public Health Sector — Dr Musa Mohd Nordin appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Malaysia’s Mental Health Workforce At A Crossroads — Counsellor",
+      "url": "https://codeblue.galencentre.org/2026/04/malaysias-mental-health-workforce-at-a-crossroads-counsellor/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-15T05:30:00",
+      "summary": "Strengthening system capacity is no longer optional, but essential to meeting current and future mental health needs. The post Malaysia’s Mental Health Workforce At A Crossroads — Counsellor appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "MOH Wants New Dialysis Patients To Choose PD Amid Potential HD Product Shortages",
       "url": "https://codeblue.galencentre.org/2026/04/moh-wants-new-dialysis-patients-to-choose-pd-amid-potential-hd-product-shortages/",
@@ -93,29 +113,6 @@
       "keywords_matched": []
     },
     {
-      "title": "Beyond Chemo, New Blood Cancer Treatments Bring Hope In Malaysia",
-      "url": "https://codeblue.galencentre.org/2026/04/beyond-chemo-new-blood-cancer-treatments-bring-hope-in-malaysia/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-13T03:30:00",
-      "summary": "A haematologist at Sunway Medical Centre, Sunway City, says stem cell transplant can be curative in many instances, while CAR-T cell therapy is lifesaving in Refractory B cell lymphoma, B cell Acute Lymphoblastic Leukemia and multiple myeloma. The post Beyond Chemo, New Blood Cancer Treatments Bring Hope In Malaysia appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "treatment",
-        "therapy",
-        "cancer"
-      ]
-    },
-    {
-      "title": "Nationalism Can Curb Doctor Brain Drain, Says KPPA",
-      "url": "https://codeblue.galencentre.org/2026/04/nationalism-can-curb-doctor-brain-drain-says-kppa/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-13T02:00:00",
-      "summary": "Public Service DG Wan Ahmad Dahlan says doctor brain drain can be curbed if doctors have a \"sense of nationalism to help the country\", amid very low housemen intake. MMA says doctors leave because \"the system and policy don't reciprocate their love.\" The post Nationalism Can Curb Doctor Brain Drain, Says KPPA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
       "title": "Perak faces medical officer shortfall as doctor-to-population ratio lags national level",
       "url": "https://www.malaymail.com/news/malaysia/2026/04/15/perak-faces-medical-officer-shortfall-as-doctor-to-population-ratio-lags-national-level/216381",
       "source": "Malay Mail",
@@ -124,16 +121,6 @@
       "keywords_matched": [
         "medical",
         "doctor"
-      ]
-    },
-    {
-      "title": "GOF busts RM700,000 drug haul in Pasir Mas",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/15/gof-busts-rm700000-drug-haul-in-pasir-mas/216355",
-      "source": "Malay Mail",
-      "published": "2026-04-15T02:14:40",
-      "summary": "KOTA BHARU, April 15 — The General Operations Force (GOF) Tenggara Brigade seized more than 200 kilogrammes (kg) o...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
