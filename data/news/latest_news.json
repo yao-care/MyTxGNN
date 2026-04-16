@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-16T07:44:09.478665",
+  "fetched": "2026-04-16T09:17:37.889217",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "RM100 Allowance For Nurses For 17 Years: A Test Of National Leadership — MMA",
+      "url": "https://codeblue.galencentre.org/2026/04/rm100-allowance-for-nurses-for-17-years-a-test-of-national-leadership-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-16T08:39:39",
+      "summary": "MMA calls for an immediate decision to increase the post-basic nursing allowance to a minimum of RM500 per month. The post RM100 Allowance For Nurses For 17 Years: A Test Of National Leadership — MMA appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Ensuring Sustainability And Equity In Malaysia’s Dental Health Care System — MPDPA",
+      "url": "https://codeblue.galencentre.org/2026/04/ensuring-sustainability-and-equity-in-malaysias-dental-health-care-system-mpdpa/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-16T07:49:49",
+      "summary": "Malaysians must continue to receive safe, accessible and high-quality dental care, within a system that is sustainable and equitable for all. The post Ensuring Sustainability And Equity In Malaysia’s Dental Health Care System — MPDPA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Doctor Retention Requires System Reform, Not Just Sentiment — Dr Azizan Abdul Aziz",
       "url": "https://codeblue.galencentre.org/2026/04/doctor-retention-requires-system-reform-not-just-sentiment-dr-azizan-abdul-aziz/",
@@ -93,24 +111,13 @@
       ]
     },
     {
-      "title": "The Silent Struggle: Why Malaysia Must Wake Up To Rare Immune Disorders — Dr Zarina Thasneem Zainudeen & Dr Intan Juliana Hamid",
-      "url": "https://codeblue.galencentre.org/2026/04/the-silent-struggle-why-malaysia-must-wake-up-to-rare-immune-disorders/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-14T07:30:00",
-      "summary": "By integrating clinical expertise with genetic insights and expanded screening, Malaysia can ensure that every child’s genetic blueprint leads to a healthy future. The post The Silent Struggle: Why Malaysia Must Wake Up To Rare Immune Disorders — Dr Zarina Thasneem Zainudeen & Dr Intan Juliana Hamid appeared first on CodeBlue .",
+      "title": "Firm used overdraft to pay Bersatu RM1m in 2022, court hears in Muhyiddin abuse trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/16/firm-used-overdraft-to-pay-bersatu-rm1m-in-2022-court-hears-in-muhyiddin-abuse-trial/216536",
+      "source": "Malay Mail",
+      "published": "2026-04-16T08:56:50",
+      "summary": "KUALA LUMPUR, April 16 — A company which did not have enough funds in its bank account had taken an overdraft to p...",
       "keywords_matched": [
-        "health",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Fifty Years Of Negotiations Across The Table For The Betterment Of Doctors’ Rice Bowl — Dr Sng Kim Hock",
-      "url": "https://codeblue.galencentre.org/2026/04/fifty-years-of-negotiations-across-the-table-for-the-betterment-of-doctors-ricebowl-dr-sng-kim-hock/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-14T06:00:00",
-      "summary": "It is always far better to talk and negotiate, and never to fight and threaten (picket, slow-down, strike) with our masters, because the “doctor can never be king ever again.” With that, I quietly retire from all the “talk across the table”. The post Fifty Years Of Negotiations Across The Table For The Betterment Of Doctors’ Rice Bowl — Dr Sng Kim Hock appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
+        "trial"
       ]
     },
     {
