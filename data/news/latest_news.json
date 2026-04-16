@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-16T09:17:37.889217",
+  "fetched": "2026-04-16T11:01:33.558705",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "RM100 Allowance For Nurses For 17 Years: A Test Of National Leadership — MMA",
@@ -111,26 +111,12 @@
       ]
     },
     {
-      "title": "Firm used overdraft to pay Bersatu RM1m in 2022, court hears in Muhyiddin abuse trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/16/firm-used-overdraft-to-pay-bersatu-rm1m-in-2022-court-hears-in-muhyiddin-abuse-trial/216536",
+      "title": "Firm used overdraft to pay Bersatu RM1m in 2022, court hears in Muhyiddin power abuse trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/16/firm-used-overdraft-to-pay-bersatu-rm1m-in-2022-court-hears-in-muhyiddin-power-abuse-trial/216536",
       "source": "Malay Mail",
       "published": "2026-04-16T08:56:50",
       "summary": "KUALA LUMPUR, April 16 — A company which did not have enough funds in its bank account had taken an overdraft to p...",
       "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Could a new pancreatic cancer drug double survival rates? Malaysian doctor leads breakthrough Chicago trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/16/could-a-new-pancreatic-cancer-drug-double-survival-rates-malaysian-doctor-leads-breakthrough-chicago-trial/216499",
-      "source": "Malay Mail",
-      "published": "2026-04-16T05:43:54",
-      "summary": "KUALA LUMPUR, April 16 — A Malaysian doctor has led a breakthrough clinical trial in Chicago, where an experimenta...",
-      "keywords_matched": [
-        "drug",
-        "cancer",
-        "doctor",
-        "clinical",
         "trial"
       ]
     }
