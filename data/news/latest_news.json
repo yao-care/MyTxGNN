@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-15T23:40:30.417751",
+  "fetched": "2026-04-16T02:32:44.192996",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "‘Perfect Storm’ Hits Malaysian Poultry Sector As Feed, Fuel Costs Squeeze Farmers",
+      "url": "https://codeblue.galencentre.org/2026/04/perfect-storm-hit-poultry-sector-as-feed-fuel-costs-squeeze-farmers/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-16T02:00:00",
+      "summary": "Malaysia’s poultry sector faces a “perfect storm” of rising feed, fuel, and fertiliser costs, forcing small farmers to cut output, says MPA. But FLFAM says supply remains ample and the current shock is “nothing” compared to Covid-19 and the Ukraine war. The post ‘Perfect Storm’ Hits Malaysian Poultry Sector As Feed, Fuel Costs Squeeze Farmers appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "When Performance Takes A Back Seat: Rethinking Promotion Culture In Malaysia’s Public Health Sector — Dr Musa Mohd Nordin",
       "url": "https://codeblue.galencentre.org/2026/04/when-performance-takes-a-back-seat-rethinking-promotion-culture-in-malaysias-public-health-sector-dr-musa-mohd-nordin/",
@@ -103,14 +111,6 @@
       "keywords_matched": [
         "health"
       ]
-    },
-    {
-      "title": "Expedite Intake For Permanent Positions For Reserve Pharmacists, Dental Officers — Pharmacist",
-      "url": "https://codeblue.galencentre.org/2026/04/expedite-intake-for-permanent-positions-for-reserve-pharmacists-dental-officers-pharmacist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-13T05:30:00",
-      "summary": "We hope the authorities can expedite the intake for permanent positions for contract pharmacists and dentists and provide clarity on the status of those who are still waiting. Some 350 pharmacists are on the reserve list; validity ends on Oct 20, 2026. The post Expedite Intake For Permanent Positions For Reserve Pharmacists, Dental Officers — Pharmacist appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
