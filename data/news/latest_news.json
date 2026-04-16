@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-16T05:29:27.448876",
+  "fetched": "2026-04-16T07:44:09.478665",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,31 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Doctor Retention Requires System Reform, Not Just Sentiment — Dr Azizan Abdul Aziz",
+      "url": "https://codeblue.galencentre.org/2026/04/doctor-retention-requires-system-reform-not-just-sentiment-dr-azizan-abdul-aziz/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-16T07:33:55",
+      "summary": "Malaysia has a strong foundation of dedicated health care professionals, and we must ensure that the system supports them as much as they have supported the nation. The post Doctor Retention Requires System Reform, Not Just Sentiment — Dr Azizan Abdul Aziz appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Don’t Reduce Complex Health System Challenges To Cheap Caricatures — Dr Kamal Amzan",
+      "url": "https://codeblue.galencentre.org/2026/04/dont-reduce-complex-health-system-challenges-to-cheap-caricatures-dr-kamal-amzan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-16T07:16:20",
+      "summary": "To suggest that distrust in private health care is driving patients to the public sector because private care is fundamentally transactional, or because doctors may be motivated by personal extravagance, is unfair, reductive, and irresponsible. The post Don’t Reduce Complex Health System Challenges To Cheap Caricatures — Dr Kamal Amzan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor",
+        "patient"
+      ]
+    },
     {
       "title": "Distrust In Private Health Care Driving Patients To Government: NCSM",
       "url": "https://codeblue.galencentre.org/2026/04/distrust-in-private-health-care-driving-patients-to-government-ncsm/",
@@ -91,26 +114,17 @@
       ]
     },
     {
-      "title": "‘Zero Pending’, Zero Safety, Zero HCWs: The Burning Crisis At Queen Elizabeth Hospital — Health Worker",
-      "url": "https://codeblue.galencentre.org/2026/04/zero-pending-zero-safety-zero-hcw-the-burning-crisis-at-queen-elizabeth-hospital-health-worker/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-14T03:30:00",
-      "summary": "To hit a 4-hour ETD clearance target at Queen Elizabeth Hospital, patients are pushed out of the emergency room and dumped into a multidisciplinary ward, regardless of their diagnosis or stability. Staff who try to delay unsafe admissions are threatened. The post ‘Zero Pending’, Zero Safety, Zero HCWs: The Burning Crisis At Queen Elizabeth Hospital — Health Worker appeared first on CodeBlue .",
+      "title": "Could a new pancreatic cancer drug double survival rates? Malaysian doctor leads breakthrough Chicago trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/16/could-a-new-pancreatic-cancer-drug-double-survival-rates-malaysian-doctor-leads-breakthrough-chicago-trial/216499",
+      "source": "Malay Mail",
+      "published": "2026-04-16T05:43:54",
+      "summary": "KUALA LUMPUR, April 16 — A Malaysian doctor has led a breakthrough clinical trial in Chicago, where an experimenta...",
       "keywords_matched": [
-        "health",
-        "hospital",
-        "patient",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Malaysia Faces Emerging Shortage Of Dialysers, Haemodialysis Components",
-      "url": "https://codeblue.galencentre.org/2026/04/malaysia-faces-emerging-shortage-of-dialysers-haemodialysis-components/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-14T02:00:00",
-      "summary": "Malaysia is facing an emerging shortage of dialysers (artificial kidney) and canister/bottle packaging for haemodialysis (HD) concentrate solution. A dialyser is necessary for HD. Nephrologists say kidney failure patients can't survive without dialysis. The post Malaysia Faces Emerging Shortage Of Dialysers, Haemodialysis Components appeared first on CodeBlue .",
-      "keywords_matched": [
-        "patient"
+        "drug",
+        "cancer",
+        "doctor",
+        "clinical",
+        "trial"
       ]
     }
   ]
