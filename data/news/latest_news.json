@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-16T02:32:44.192996",
+  "fetched": "2026-04-16T05:29:27.448876",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,17 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Distrust In Private Health Care Driving Patients To Government: NCSM",
+      "url": "https://codeblue.galencentre.org/2026/04/distrust-in-private-health-care-driving-patients-to-government-ncsm/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-16T03:30:00",
+      "summary": "A growing trust deficit in private health care is driving patients to public facilities, adding strain to an already stretched system, says NCSM’s Dr Murallitharan, as concerns over costs, complexity, and insurer practices deepen. The post Distrust In Private Health Care Driving Patients To Government: NCSM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "patient"
+      ]
+    },
     {
       "title": "‘Perfect Storm’ Hits Malaysian Poultry Sector As Feed, Fuel Costs Squeeze Farmers",
       "url": "https://codeblue.galencentre.org/2026/04/perfect-storm-hit-poultry-sector-as-feed-fuel-costs-squeeze-farmers/",
@@ -100,16 +111,6 @@
       "summary": "Malaysia is facing an emerging shortage of dialysers (artificial kidney) and canister/bottle packaging for haemodialysis (HD) concentrate solution. A dialyser is necessary for HD. Nephrologists say kidney failure patients can't survive without dialysis. The post Malaysia Faces Emerging Shortage Of Dialysers, Haemodialysis Components appeared first on CodeBlue .",
       "keywords_matched": [
         "patient"
-      ]
-    },
-    {
-      "title": "Nutrition And Physical Activity: 80/20 Or 50/50? — Ahmad Zaki Mohd Rum & Dr Nor Aini Jamil",
-      "url": "https://codeblue.galencentre.org/2026/04/nutrition-and-physical-activity-80-20-or-50-50-ahmad-zaki-mohd-rum-dr-nor-aini-jamil/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-13T07:30:00",
-      "summary": "Eating well may not be enough to support optimal health. Recent evidence points to a more balanced 50/50 approach, giving equal importance to good nutrition and an active lifestyle. The post Nutrition And Physical Activity: 80/20 Or 50/50? — Ahmad Zaki Mohd Rum & Dr Nor Aini Jamil appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
