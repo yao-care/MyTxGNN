@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-16T23:38:52.084969",
+  "fetched": "2026-04-17T02:28:45.040439",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,37 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Making An Informed Decision: MAID 2026 Empowers Aspiring Medical Students Across Malaysia",
+      "url": "https://codeblue.galencentre.org/2026/04/making-an-informed-decision-maid-2026-empowers-aspiring-medical-students-across-malaysia/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-17T01:22:57",
+      "summary": "What began as a student-led initiative has since evolved into a nationally recognised platform, empowering aspiring medical students across Malaysia to make informed decisions about pursuing a career in medicine. The post Making An Informed Decision: MAID 2026 Empowers Aspiring Medical Students Across Malaysia appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "medicine",
+        "aspirin",
+        "Aspirin"
+      ]
+    },
+    {
+      "title": "The Business Of Growing Old In Malaysia",
+      "url": "https://codeblue.galencentre.org/2026/04/the-business-of-growing-old-in-malaysia/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-17T01:21:53",
+      "summary": "As Malaysia grows older, the challenge is not only to care for older citizens, but also to ensure that the emerging economy of ageing remains anchored in dignity, protection, and shared prosperity. The post The Business Of Growing Old In Malaysia appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "NKF: Reduce Dialysis Frequency If Shortages Grow Acute",
+      "url": "https://codeblue.galencentre.org/2026/04/nkf-reduce-dialysis-frequency-if-shortages-grow-acute/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-17T01:20:27",
+      "summary": "To address a shortage of dialysis products, NKF moots reducing dialysis frequency. Maaedicare and Socso are monitoring stock levels. A nephrologist urges MOH to form a nephrology task force and activate a central command structure to control distribution. The post NKF: Reduce Dialysis Frequency If Shortages Grow Acute appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "RM100 Allowance For Nurses For 17 Years: A Test Of National Leadership — MMA",
       "url": "https://codeblue.galencentre.org/2026/04/rm100-allowance-for-nurses-for-17-years-a-test-of-national-leadership-mma/",
@@ -80,44 +109,46 @@
       ]
     },
     {
-      "title": "Malaysia’s Mental Health Workforce At A Crossroads — Counsellor",
-      "url": "https://codeblue.galencentre.org/2026/04/malaysias-mental-health-workforce-at-a-crossroads-counsellor/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-15T05:30:00",
-      "summary": "Strengthening system capacity is no longer optional, but essential to meeting current and future mental health needs. The post Malaysia’s Mental Health Workforce At A Crossroads — Counsellor appeared first on CodeBlue .",
+      "title": "Adly Zahari: Over RM300m allocated for veterans’ welfare as Mindef expands outreach in rural Sarawak",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/adly-zahari-over-rm300m-allocated-for-veterans-welfare-as-mindef-expands-outreach-in-rural-sarawak/216590",
+      "source": "Malay Mail",
+      "published": "2026-04-17T02:09:05",
+      "summary": "DARO, April 17 — More than RM300 million has been allocated this year to enhance the welfare, healthcare, housing...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "MOH Wants New Dialysis Patients To Choose PD Amid Potential HD Product Shortages",
-      "url": "https://codeblue.galencentre.org/2026/04/moh-wants-new-dialysis-patients-to-choose-pd-amid-potential-hd-product-shortages/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-15T03:30:00",
-      "summary": "MOH exhorts new dialysis patients to choose peritoneal dialysis (PD), amid potential shortages of haemodialysis (HD) components. MOH says local manufacturers highlighted rising prices of plastics and related products, but no supply shortages currently. The post MOH Wants New Dialysis Patients To Choose PD Amid Potential HD Product Shortages appeared first on CodeBlue .",
+      "title": "MOH to introduce new prescription format with fuller patient and drug details from 2027",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/moh-to-introduce-new-prescription-format-with-fuller-patient-and-drug-details-from-2027/216577",
+      "source": "Malay Mail",
+      "published": "2026-04-17T01:17:11",
+      "summary": "KUALA LUMPUR, April 17 — The Health Ministry will introduce a new prescription format that requires more detailed...",
       "keywords_matched": [
+        "health",
+        "drug",
         "patient"
       ]
     },
     {
-      "title": "Malaysia Facing Delayed Medicine Supplies, Don’t Panic Buy, Say Importers",
-      "url": "https://codeblue.galencentre.org/2026/04/malaysia-facing-delayed-medicine-supplies-dont-panic-buy-say-importers/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-15T02:00:00",
-      "summary": "Pharmaceutical importers highlight a delay of medicine shipments into Malaysia by some two weeks, but the shipments are still coming in although freight costs are surging rapidly. Consumers are advised to maintain sufficient supply, rather than panic buy. The post Malaysia Facing Delayed Medicine Supplies, Don’t Panic Buy, Say Importers appeared first on CodeBlue .",
+      "title": "Queen Raja Zarith Sofiah graces Aidilfitri celebration for cancer fighters in JB",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/queen-raja-zarith-sofiah-graces-aidilfitri-celebration-for-cancer-fighters-in-jb/216575",
+      "source": "Malay Mail",
+      "published": "2026-04-17T01:37:42",
+      "summary": "JOHOR BAHRU, April 17 — Her Majesty Raja Zarith Sofiah, Queen of Malaysia, graced the Aidilfitri celebration for c...",
       "keywords_matched": [
-        "medicine",
-        "pharmaceutical"
+        "cancer"
       ]
     },
     {
-      "title": "Firm used overdraft to pay Bersatu RM1m in 2022, court hears in Muhyiddin power abuse trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/16/firm-used-overdraft-to-pay-bersatu-rm1m-in-2022-court-hears-in-muhyiddin-power-abuse-trial/216536",
+      "title": "Govt keeps medical supplies steady, but monitors slight shortages in some devices",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/govt-keeps-medical-supplies-steady-but-monitors-slight-shortages-in-some-devices/216573",
       "source": "Malay Mail",
-      "published": "2026-04-16T08:56:50",
-      "summary": "KUALA LUMPUR, April 16 — A company which did not have enough funds in its bank account had taken an overdraft to p...",
+      "published": "2026-04-17T01:51:19",
+      "summary": "KUALA LUMPUR, April 17 — The Ministry of Health (MOH) has assured that the supply of critical medications, includi...",
       "keywords_matched": [
-        "trial"
+        "health",
+        "medical"
       ]
     }
   ]
