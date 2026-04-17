@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-17T05:26:35.760839",
+  "fetched": "2026-04-17T07:44:26.194779",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Moving Beyond Headlines: Strengthening Malaysia’s Health Care System Through Collaboration — Assoc Prof Dr M. Murallitharan",
@@ -111,16 +111,6 @@
         "health",
         "doctor",
         "patient"
-      ]
-    },
-    {
-      "title": "Adly Zahari: Over RM300m allocated for veterans’ welfare as Mindef expands outreach in rural Sarawak",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/adly-zahari-over-rm300m-allocated-for-veterans-welfare-as-mindef-expands-outreach-in-rural-sarawak/216590",
-      "source": "Malay Mail",
-      "published": "2026-04-17T02:09:05",
-      "summary": "DARO, April 17 — More than RM300 million has been allocated this year to enhance the welfare, healthcare, housing...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
