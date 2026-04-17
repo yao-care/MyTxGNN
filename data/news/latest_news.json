@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-17T22:37:36.775795",
+  "fetched": "2026-04-17T23:37:41.008607",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -114,6 +114,16 @@
       ]
     },
     {
+      "title": "In an emergency, don’t Google — dial 999 for faster help",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/18/in-an-emergency-dont-google-dial-999-for-faster-help/213599",
+      "source": "Malay Mail",
+      "published": "2026-04-17T23:00:00",
+      "summary": "KUALA LUMPUR, April 18 — In a medical emergency, every second counts; but many Malaysians still waste precious tim...",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
+    {
       "title": "Health Ministry earmarks RM3.42m to improve Batu Pahat clinics",
       "url": "https://www.malaymail.com/news/malaysia/2026/04/17/health-ministry-earmarks-rm342m-to-improve-batu-pahat-clinics/216691",
       "source": "Malay Mail",
@@ -131,17 +141,6 @@
       "summary": "BATU PAHAT, April 17 — The Health Ministry (MoH) will discuss the proposed increase in post-basic nursing allowanc...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Malaysia’s first womb surgery for spine condition sees baby doing well after birth",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/malaysias-first-womb-surgery-for-spine-condition-sees-baby-doing-well-after-birth/216655",
-      "source": "Malay Mail",
-      "published": "2026-04-17T08:27:35",
-      "summary": "KUCHING, April 17 — A baby who underwent in-utero fetal surgery to repair spina bifida at Sarawak General Hospital...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
