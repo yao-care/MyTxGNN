@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-17T02:28:45.040439",
+  "fetched": "2026-04-17T05:26:35.760839",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,42 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Moving Beyond Headlines: Strengthening Malaysia’s Health Care System Through Collaboration — Assoc Prof Dr M. Murallitharan",
+      "url": "https://codeblue.galencentre.org/2026/04/moving-beyond-headlines-strengthening-malaysias-health-care-system-through-collaboration-assoc-prof-dr-m-murallitharan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-17T04:18:32",
+      "summary": "This is not the first time I highlighted a problem that no one wants to look at or even consider; nor will it be the last. I am quite used to being the unwanted or unlooked-for messenger. The post Moving Beyond Headlines: Strengthening Malaysia’s Health Care System Through Collaboration — Assoc Prof Dr M. Murallitharan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Distrust Is A Symptom, Not The Disease In Malaysia’s Health Care Crisis — Dr Musa Mohd Nordin, Dr Rajeentheran Suntheralingam, Dr Ahmad Faizal Mohd Perdaus & Dr Sng Kim Hock",
+      "url": "https://codeblue.galencentre.org/2026/04/distrust-is-a-symptom-not-the-disease-in-malaysias-health-care-crisis-dr-musa-mohd-nordin-dr-rajeentheran-suntheralingam-dr-ahmad-faizal-mohd-perdaus-dr-sng-kim-hock/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-17T03:28:59",
+      "summary": "We call on all stakeholders to move the debate away from emotional accusations of bad faith and toward the unglamorous, difficult work of price regulation. Stop blaming doctors for the medical inflation they did not create. The post Distrust Is A Symptom, Not The Disease In Malaysia’s Health Care Crisis — Dr Musa Mohd Nordin, Dr Rajeentheran Suntheralingam, Dr Ahmad Faizal Mohd Perdaus & Dr Sng Kim Hock appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "disease",
+        "doctor"
+      ]
+    },
+    {
+      "title": "The State Legislative Assembly Isn’t A House To Recite Statistics, But To Solve Problems — Perak Doctor",
+      "url": "https://codeblue.galencentre.org/2026/04/the-state-legislative-assembly-isnt-a-house-to-recite-statistics-but-to-solve-problems-perak-doctor/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-17T02:46:28",
+      "summary": "A state legislative assembly is where elected reps are meant to translate numbers into policy. Health care manpower is heavily shaped by federal policy, but this doesn't absolve state govts of responsibility. Perak should learn from Johor, Sabah, Sarawak. The post The State Legislative Assembly Isn’t A House To Recite Statistics, But To Solve Problems — Perak Doctor appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
     {
       "title": "Making An Informed Decision: MAID 2026 Empowers Aspiring Medical Students Across Malaysia",
       "url": "https://codeblue.galencentre.org/2026/04/making-an-informed-decision-maid-2026-empowers-aspiring-medical-students-across-malaysia/",
@@ -80,35 +114,6 @@
       ]
     },
     {
-      "title": "Distrust In Private Health Care Driving Patients To Government: NCSM",
-      "url": "https://codeblue.galencentre.org/2026/04/distrust-in-private-health-care-driving-patients-to-government-ncsm/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-16T03:30:00",
-      "summary": "A growing trust deficit in private health care is driving patients to public facilities, adding strain to an already stretched system, says NCSM’s Dr Murallitharan, as concerns over costs, complexity, and insurer practices deepen. The post Distrust In Private Health Care Driving Patients To Government: NCSM appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "patient"
-      ]
-    },
-    {
-      "title": "‘Perfect Storm’ Hits Malaysian Poultry Sector As Feed, Fuel Costs Squeeze Farmers",
-      "url": "https://codeblue.galencentre.org/2026/04/perfect-storm-hit-poultry-sector-as-feed-fuel-costs-squeeze-farmers/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-16T02:00:00",
-      "summary": "Malaysia’s poultry sector faces a “perfect storm” of rising feed, fuel, and fertiliser costs, forcing small farmers to cut output, says MPA. But FLFAM says supply remains ample and the current shock is “nothing” compared to Covid-19 and the Ukraine war. The post ‘Perfect Storm’ Hits Malaysian Poultry Sector As Feed, Fuel Costs Squeeze Farmers appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "When Performance Takes A Back Seat: Rethinking Promotion Culture In Malaysia’s Public Health Sector — Dr Musa Mohd Nordin",
-      "url": "https://codeblue.galencentre.org/2026/04/when-performance-takes-a-back-seat-rethinking-promotion-culture-in-malaysias-public-health-sector-dr-musa-mohd-nordin/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-15T07:20:00",
-      "summary": "Restoring confidence in promotion practices is not just about fairness. It is about safeguarding the future effectiveness, morale, and integrity of our public health institutions. The post When Performance Takes A Back Seat: Rethinking Promotion Culture In Malaysia’s Public Health Sector — Dr Musa Mohd Nordin appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
       "title": "Adly Zahari: Over RM300m allocated for veterans’ welfare as Mindef expands outreach in rural Sarawak",
       "url": "https://www.malaymail.com/news/malaysia/2026/04/17/adly-zahari-over-rm300m-allocated-for-veterans-welfare-as-mindef-expands-outreach-in-rural-sarawak/216590",
       "source": "Malay Mail",
@@ -116,39 +121,6 @@
       "summary": "DARO, April 17 — More than RM300 million has been allocated this year to enhance the welfare, healthcare, housing...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "MOH to introduce new prescription format with fuller patient and drug details from 2027",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/moh-to-introduce-new-prescription-format-with-fuller-patient-and-drug-details-from-2027/216577",
-      "source": "Malay Mail",
-      "published": "2026-04-17T01:17:11",
-      "summary": "KUALA LUMPUR, April 17 — The Health Ministry will introduce a new prescription format that requires more detailed...",
-      "keywords_matched": [
-        "health",
-        "drug",
-        "patient"
-      ]
-    },
-    {
-      "title": "Queen Raja Zarith Sofiah graces Aidilfitri celebration for cancer fighters in JB",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/queen-raja-zarith-sofiah-graces-aidilfitri-celebration-for-cancer-fighters-in-jb/216575",
-      "source": "Malay Mail",
-      "published": "2026-04-17T01:37:42",
-      "summary": "JOHOR BAHRU, April 17 — Her Majesty Raja Zarith Sofiah, Queen of Malaysia, graced the Aidilfitri celebration for c...",
-      "keywords_matched": [
-        "cancer"
-      ]
-    },
-    {
-      "title": "Govt keeps medical supplies steady, but monitors slight shortages in some devices",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/govt-keeps-medical-supplies-steady-but-monitors-slight-shortages-in-some-devices/216573",
-      "source": "Malay Mail",
-      "published": "2026-04-17T01:51:19",
-      "summary": "KUALA LUMPUR, April 17 — The Ministry of Health (MOH) has assured that the supply of critical medications, includi...",
-      "keywords_matched": [
-        "health",
-        "medical"
       ]
     }
   ]
