@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-17T07:44:26.194779",
+  "fetched": "2026-04-17T09:16:06.667653",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,21 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "UMMC Denies Radiation Exposure Caused Staff Cancer ‘Cluster’",
+      "url": "https://codeblue.galencentre.org/2026/04/ummc-denies-radiation-exposure-caused-staff-cancer-cluster/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-17T08:58:50",
+      "summary": "UMMC denies claims that radiation safety violations caused a cancer \"cluster\" in its radiology department. Three staff were diagnosed with cancer, four with thyroid diseases. The hospital says staff radiation exposure levels were below prescribed limits. The post UMMC Denies Radiation Exposure Caused Staff Cancer ‘Cluster’ appeared first on CodeBlue .",
+      "keywords_matched": [
+        "disease",
+        "cancer",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Moving Beyond Headlines: Strengthening Malaysia’s Health Care System Through Collaboration — Assoc Prof Dr M. Murallitharan",
       "url": "https://codeblue.galencentre.org/2026/04/moving-beyond-headlines-strengthening-malaysias-health-care-system-through-collaboration-assoc-prof-dr-m-murallitharan/",
@@ -102,15 +115,14 @@
       ]
     },
     {
-      "title": "Don’t Reduce Complex Health System Challenges To Cheap Caricatures — Dr Kamal Amzan",
-      "url": "https://codeblue.galencentre.org/2026/04/dont-reduce-complex-health-system-challenges-to-cheap-caricatures-dr-kamal-amzan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-16T07:16:20",
-      "summary": "To suggest that distrust in private health care is driving patients to the public sector because private care is fundamentally transactional, or because doctors may be motivated by personal extravagance, is unfair, reductive, and irresponsible. The post Don’t Reduce Complex Health System Challenges To Cheap Caricatures — Dr Kamal Amzan appeared first on CodeBlue .",
+      "title": "Malaysia’s first womb surgery for spine condition sees baby doing well after birth",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/malaysias-first-womb-surgery-for-spine-condition-sees-baby-doing-well-after-birth/216655",
+      "source": "Malay Mail",
+      "published": "2026-04-17T08:27:35",
+      "summary": "KUCHING, April 17 — A baby who underwent in-utero fetal surgery to repair spina bifida at Sarawak General Hospital...",
       "keywords_matched": [
-        "health",
-        "doctor",
-        "patient"
+        "hospital",
+        "hospital"
       ]
     }
   ]
