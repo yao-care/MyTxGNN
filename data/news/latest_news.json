@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-18T05:05:26.618354",
+  "fetched": "2026-04-18T07:05:25.556639",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
     {
       "title": "Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply",
@@ -121,36 +121,6 @@
       "summary": "KOTA KINABALU, April 18 — Universiti Malaysia Sabah (UMS) today denied involvement in organising a conference that...",
       "keywords_matched": [
         "medical"
-      ]
-    },
-    {
-      "title": "In an emergency, don’t Google — dial 999 for faster help",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/18/in-an-emergency-dont-google-dial-999-for-faster-help/213599",
-      "source": "Malay Mail",
-      "published": "2026-04-17T23:00:00",
-      "summary": "KUALA LUMPUR, April 18 — In a medical emergency, every second counts; but many Malaysians still waste precious tim...",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Health Ministry earmarks RM3.42m to improve Batu Pahat clinics",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/health-ministry-earmarks-rm342m-to-improve-batu-pahat-clinics/216691",
-      "source": "Malay Mail",
-      "published": "2026-04-17T11:55:48",
-      "summary": "BATU PAHAT, April 17 — The Ministry of Health (MOH) has announced a special allocation of RM3.421 million to upgra...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "MOH sets up task force to study nursing allowance increase",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/17/moh-sets-up-task-force-to-study-nursing-allowance-increase/216690",
-      "source": "Malay Mail",
-      "published": "2026-04-17T11:53:31",
-      "summary": "BATU PAHAT, April 17 — The Health Ministry (MoH) will discuss the proposed increase in post-basic nursing allowanc...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
