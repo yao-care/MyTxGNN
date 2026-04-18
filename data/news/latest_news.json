@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-17T23:37:41.008607",
+  "fetched": "2026-04-18T02:11:38.578827",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "title": "Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply",
@@ -111,6 +111,16 @@
       "summary": "Malaysians must continue to receive safe, accessible and high-quality dental care, within a system that is sustainable and equitable for all. The post Ensuring Sustainability And Equity In Malaysia’s Dental Health Care System — MPDPA appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "No approval given: UMS rejects claims of involvement in engineering, biomedical conferences",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/18/no-approval-given-ums-rejects-claims-of-involvement-in-engineering-biomedical-conferences/216704",
+      "source": "Malay Mail",
+      "published": "2026-04-18T01:12:24",
+      "summary": "KOTA KINABALU, April 18 — Universiti Malaysia Sabah (UMS) today denied involvement in organising a conference that...",
+      "keywords_matched": [
+        "medical"
       ]
     },
     {
