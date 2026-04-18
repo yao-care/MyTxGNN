@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-18T11:33:27.591021",
+  "fetched": "2026-04-18T12:59:28.561291",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply",
@@ -111,6 +111,28 @@
       "summary": "Malaysians must continue to receive safe, accessible and high-quality dental care, within a system that is sustainable and equitable for all. The post Ensuring Sustainability And Equity In Malaysia’s Dental Health Care System — MPDPA appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "PM pays tribute to Karpal Singh, Sikh community, recalls hospital visits during detention",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/18/pm-pays-tribute-to-karpal-singh-sikh-community-recalls-hospital-visits-during-detention/216800",
+      "source": "Malay Mail",
+      "published": "2026-04-18T12:13:23",
+      "summary": "KUALA LUMPUR, April 18 — Prime Minister Datuk Seri Anwar Ibrahim today paid tribute to the late Karpal Singh and t...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Health minister says govt will ensure adequate supply of raw materials for medical devices",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/18/health-minister-says-govt-will-ensure-adequate-supply-of-raw-materials-for-medical-devices/216797",
+      "source": "Malay Mail",
+      "published": "2026-04-18T11:54:54",
+      "summary": "JOHOR BAHRU, April 18 —  The government is focused on ensuring adequate supplies of raw materials for medical...",
+      "keywords_matched": [
+        "health",
+        "medical"
       ]
     }
   ]
