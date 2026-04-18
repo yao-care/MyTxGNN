@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-18T22:33:08.133262",
+  "fetched": "2026-04-18T23:33:27.013023",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply",
@@ -111,6 +111,19 @@
       "summary": "Malaysians must continue to receive safe, accessible and high-quality dental care, within a system that is sustainable and equitable for all. The post Ensuring Sustainability And Equity In Malaysia’s Dental Health Care System — MPDPA appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Prescribing growth: Private hospitals drive Malaysia’s RM7b medical tourism ambition",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/19/prescribing-growth-private-hospitals-drive-malaysias-rm7b-medical-tourism-ambition/216438",
+      "source": "Malay Mail",
+      "published": "2026-04-18T23:00:00",
+      "summary": "KUALA LUMPUR, April 19 — Malaysia’s private healthcare sector has evolved into a global medical tourism powe...",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "hospital"
       ]
     },
     {
