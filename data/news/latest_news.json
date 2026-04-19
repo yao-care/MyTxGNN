@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-19T08:52:37.913390",
+  "fetched": "2026-04-19T09:45:54.627281",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply",
@@ -111,19 +111,6 @@
       "summary": "Malaysians must continue to receive safe, accessible and high-quality dental care, within a system that is sustainable and equitable for all. The post Ensuring Sustainability And Equity In Malaysia’s Dental Health Care System — MPDPA appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Batu Pahat hospital gets RM1.8m to upgrade patient services",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/19/batu-pahat-hospital-gets-rm18m-to-upgrade-patient-services/216863",
-      "source": "Malay Mail",
-      "published": "2026-04-19T05:01:25",
-      "summary": "BATU PAHAT, April 19 — The Ministry of Health (MOH) has approved a special allocation of RM1.8 million to upgrade...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "patient",
-        "hospital"
       ]
     }
   ]
