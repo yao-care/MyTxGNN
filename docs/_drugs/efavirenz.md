@@ -5,8 +5,8 @@ drugbank_id: "DB00625"
 drug_name: "Efavirenz"
 kg_predictions: 22
 dl_predictions: 34
-evidence_level: "L5"
-indication_count: 22
+evidence_level: "L2"
+indication_count: 3
 brands: []
 permalink: /drugs/efavirenz/
 ---

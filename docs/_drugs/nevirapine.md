@@ -5,8 +5,8 @@ drugbank_id: "DB00238"
 drug_name: "Nevirapine"
 kg_predictions: 6
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 6
+evidence_level: "L4"
+indication_count: 3
 brands: []
 permalink: /drugs/nevirapine/
 ---

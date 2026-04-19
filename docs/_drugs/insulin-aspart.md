@@ -5,8 +5,8 @@ drugbank_id: "DB01306"
 drug_name: "Insulin Aspart"
 kg_predictions: 30
 dl_predictions: 43
-evidence_level: "L5"
-indication_count: 30
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/insulin-aspart/
 ---

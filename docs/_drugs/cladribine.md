@@ -6,7 +6,7 @@ drug_name: "Cladribine"
 kg_predictions: 6
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 6
+indication_count: 7
 brands: []
 permalink: /drugs/cladribine/
 ---

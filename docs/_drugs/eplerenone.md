@@ -5,8 +5,8 @@ drugbank_id: "DB00700"
 drug_name: "Eplerenone"
 kg_predictions: 4
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 4
+evidence_level: "L4"
+indication_count: 5
 brands: []
 permalink: /drugs/eplerenone/
 ---

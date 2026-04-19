@@ -5,8 +5,8 @@ drugbank_id: "DB00146"
 drug_name: "Calcifediol"
 kg_predictions: 7
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 7
+evidence_level: "L4"
+indication_count: 4
 brands: []
 permalink: /drugs/calcifediol/
 ---

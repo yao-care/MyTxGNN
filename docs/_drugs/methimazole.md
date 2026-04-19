@@ -6,7 +6,7 @@ drug_name: "Methimazole"
 kg_predictions: 3
 dl_predictions: 16
 evidence_level: "L5"
-indication_count: 3
+indication_count: 0
 brands: []
 permalink: /drugs/methimazole/
 ---

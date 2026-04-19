@@ -6,7 +6,7 @@ drug_name: "Clobazam"
 kg_predictions: 2
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 2
+indication_count: 10
 brands: []
 permalink: /drugs/clobazam/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB00186"
 drug_name: "Lorazepam"
 kg_predictions: 40
 dl_predictions: 80
-evidence_level: "L5"
-indication_count: 40
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/lorazepam/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB06207"
 drug_name: "Silodosin"
 kg_predictions: 1
 dl_predictions: 42
-evidence_level: "L5"
-indication_count: 1
+evidence_level: "L4"
+indication_count: 6
 brands: []
 permalink: /drugs/silodosin/
 ---

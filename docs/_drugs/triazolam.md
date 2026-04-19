@@ -5,7 +5,7 @@ drugbank_id: "DB00897"
 drug_name: "Triazolam"
 kg_predictions: 1
 dl_predictions: 23
-evidence_level: "L5"
+evidence_level: "L4"
 indication_count: 1
 brands: []
 permalink: /drugs/triazolam/

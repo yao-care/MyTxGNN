@@ -5,8 +5,8 @@ drugbank_id: "DB01088"
 drug_name: "Iloprost"
 kg_predictions: 1
 dl_predictions: 46
-evidence_level: "L5"
-indication_count: 1
+evidence_level: "L1"
+indication_count: 9
 brands: []
 permalink: /drugs/iloprost/
 ---

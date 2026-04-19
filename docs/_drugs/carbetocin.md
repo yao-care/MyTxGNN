@@ -6,7 +6,7 @@ drug_name: "Carbetocin"
 kg_predictions: 4
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 4
+indication_count: 2
 brands: []
 permalink: /drugs/carbetocin/
 ---

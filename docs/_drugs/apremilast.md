@@ -6,7 +6,7 @@ drug_name: "Apremilast"
 kg_predictions: 3
 dl_predictions: 600
 evidence_level: "L5"
-indication_count: 3
+indication_count: 0
 brands: []
 permalink: /drugs/apremilast/
 ---

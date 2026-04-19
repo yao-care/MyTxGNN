@@ -6,7 +6,7 @@ drug_name: "Ciclesonide"
 kg_predictions: 25
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 25
+indication_count: 6
 brands: []
 permalink: /drugs/ciclesonide/
 ---

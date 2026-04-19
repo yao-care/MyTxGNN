@@ -5,8 +5,8 @@ drugbank_id: "DB13231"
 drug_name: "Calcium Lactate"
 kg_predictions: 18
 dl_predictions: 27
-evidence_level: "L5"
-indication_count: 18
+evidence_level: "L2"
+indication_count: 2
 brands: []
 permalink: /drugs/calcium-lactate/
 ---

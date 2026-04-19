@@ -6,7 +6,7 @@ drug_name: "Ursodeoxycholic Acid"
 kg_predictions: 15
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 15
+indication_count: 1
 brands: []
 permalink: /drugs/ursodeoxycholic-acid/
 ---

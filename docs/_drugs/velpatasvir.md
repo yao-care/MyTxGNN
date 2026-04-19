@@ -5,8 +5,8 @@ drugbank_id: "DB11613"
 drug_name: "Velpatasvir"
 kg_predictions: 4
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 4
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/velpatasvir/
 ---

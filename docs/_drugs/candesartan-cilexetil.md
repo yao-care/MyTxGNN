@@ -5,8 +5,8 @@ drugbank_id: "DB00796"
 drug_name: "Candesartan Cilexetil"
 kg_predictions: 26
 dl_predictions: 16
-evidence_level: "L5"
-indication_count: 26
+evidence_level: "L4"
+indication_count: 5
 brands: []
 permalink: /drugs/candesartan-cilexetil/
 ---

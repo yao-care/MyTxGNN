@@ -5,8 +5,8 @@ drugbank_id: "DB00581"
 drug_name: "Lactulose"
 kg_predictions: 36
 dl_predictions: 212
-evidence_level: "L5"
-indication_count: 36
+evidence_level: "L2"
+indication_count: 8
 brands: []
 permalink: /drugs/lactulose/
 ---

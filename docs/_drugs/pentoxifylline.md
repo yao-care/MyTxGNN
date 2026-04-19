@@ -6,7 +6,7 @@ drug_name: "Pentoxifylline"
 kg_predictions: 6
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 6
+indication_count: 0
 brands: []
 permalink: /drugs/pentoxifylline/
 ---

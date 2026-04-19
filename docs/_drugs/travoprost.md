@@ -5,8 +5,8 @@ drugbank_id: "DB00287"
 drug_name: "Travoprost"
 kg_predictions: 8
 dl_predictions: 264
-evidence_level: "L5"
-indication_count: 8
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/travoprost/
 ---

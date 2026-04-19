@@ -5,8 +5,8 @@ drugbank_id: "DB06650"
 drug_name: "Ofatumumab"
 kg_predictions: 2
 dl_predictions: 208
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L1"
+indication_count: 8
 brands: []
 permalink: /drugs/ofatumumab/
 ---

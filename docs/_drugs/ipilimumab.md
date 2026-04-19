@@ -5,8 +5,8 @@ drugbank_id: "DB06186"
 drug_name: "Ipilimumab"
 kg_predictions: 1
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 1
+evidence_level: "L1"
+indication_count: 2
 brands: []
 permalink: /drugs/ipilimumab/
 ---

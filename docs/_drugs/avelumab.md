@@ -5,8 +5,8 @@ drugbank_id: "DB11945"
 drug_name: "Avelumab"
 kg_predictions: 1
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 1
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/avelumab/
 ---

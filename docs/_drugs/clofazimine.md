@@ -6,7 +6,7 @@ drug_name: "Clofazimine"
 kg_predictions: 12
 dl_predictions: 111
 evidence_level: "L5"
-indication_count: 12
+indication_count: 3
 brands: []
 permalink: /drugs/clofazimine/
 ---

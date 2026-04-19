@@ -5,8 +5,8 @@ drugbank_id: "DB15035"
 drug_name: "Zanubrutinib"
 kg_predictions: 3
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 3
+evidence_level: "L3"
+indication_count: 6
 brands: []
 permalink: /drugs/zanubrutinib/
 ---

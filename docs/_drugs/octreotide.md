@@ -6,7 +6,7 @@ drug_name: "Octreotide"
 kg_predictions: 12
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 12
+indication_count: 2
 brands: []
 permalink: /drugs/octreotide/
 ---

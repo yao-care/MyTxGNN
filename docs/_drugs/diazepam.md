@@ -5,8 +5,8 @@ drugbank_id: "DB00829"
 drug_name: "Diazepam"
 kg_predictions: 56
 dl_predictions: 413
-evidence_level: "L5"
-indication_count: 56
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/diazepam/
 ---

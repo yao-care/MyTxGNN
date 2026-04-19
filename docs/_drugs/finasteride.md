@@ -5,8 +5,8 @@ drugbank_id: "DB01216"
 drug_name: "Finasteride"
 kg_predictions: 8
 dl_predictions: 32
-evidence_level: "L5"
-indication_count: 8
+evidence_level: "L4"
+indication_count: 6
 brands: []
 permalink: /drugs/finasteride/
 ---

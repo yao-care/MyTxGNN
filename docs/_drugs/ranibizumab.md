@@ -5,8 +5,8 @@ drugbank_id: "DB01270"
 drug_name: "Ranibizumab"
 kg_predictions: 7
 dl_predictions: 176
-evidence_level: "L5"
-indication_count: 7
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/ranibizumab/
 ---

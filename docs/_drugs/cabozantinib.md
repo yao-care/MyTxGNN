@@ -5,8 +5,8 @@ drugbank_id: "DB08875"
 drug_name: "Cabozantinib"
 kg_predictions: 15
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 15
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/cabozantinib/
 ---

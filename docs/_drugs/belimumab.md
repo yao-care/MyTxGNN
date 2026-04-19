@@ -5,8 +5,8 @@ drugbank_id: "DB08879"
 drug_name: "Belimumab"
 kg_predictions: 2
 dl_predictions: 91
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L3"
+indication_count: 6
 brands: []
 permalink: /drugs/belimumab/
 ---

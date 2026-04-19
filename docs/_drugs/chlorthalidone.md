@@ -5,8 +5,8 @@ drugbank_id: "DB00310"
 drug_name: "Chlorthalidone"
 kg_predictions: 9
 dl_predictions: 71
-evidence_level: "L5"
-indication_count: 9
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/chlorthalidone/
 ---

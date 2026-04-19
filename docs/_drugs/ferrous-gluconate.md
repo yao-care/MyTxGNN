@@ -5,7 +5,7 @@ drugbank_id: "DB14488"
 drug_name: "Ferrous Gluconate"
 kg_predictions: 5
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L4"
 indication_count: 5
 brands: []
 permalink: /drugs/ferrous-gluconate/

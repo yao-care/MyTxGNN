@@ -5,8 +5,8 @@ drugbank_id: "DB06643"
 drug_name: "Denosumab"
 kg_predictions: 18
 dl_predictions: 51
-evidence_level: "L5"
-indication_count: 18
+evidence_level: "L2"
+indication_count: 2
 brands: []
 permalink: /drugs/denosumab/
 ---

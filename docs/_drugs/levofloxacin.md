@@ -5,8 +5,8 @@ drugbank_id: "DB01137"
 drug_name: "Levofloxacin"
 kg_predictions: 52
 dl_predictions: 240
-evidence_level: "L5"
-indication_count: 52
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/levofloxacin/
 ---

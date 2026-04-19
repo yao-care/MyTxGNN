@@ -6,7 +6,7 @@ drug_name: "Albutrepenonacog Alfa"
 kg_predictions: 8
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 8
+indication_count: 6
 brands: []
 permalink: /drugs/albutrepenonacog-alfa/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB00864"
 drug_name: "Tacrolimus"
 kg_predictions: 26
 dl_predictions: 135
-evidence_level: "L5"
-indication_count: 26
+evidence_level: "L1"
+indication_count: 3
 brands: []
 permalink: /drugs/tacrolimus/
 ---

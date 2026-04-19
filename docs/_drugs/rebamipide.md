@@ -6,7 +6,7 @@ drug_name: "Rebamipide"
 kg_predictions: 4
 dl_predictions: 45
 evidence_level: "L5"
-indication_count: 4
+indication_count: 0
 brands: []
 permalink: /drugs/rebamipide/
 ---

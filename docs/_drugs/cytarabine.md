@@ -6,7 +6,7 @@ drug_name: "Cytarabine"
 kg_predictions: 60
 dl_predictions: 205
 evidence_level: "L5"
-indication_count: 60
+indication_count: 9
 brands: []
 permalink: /drugs/cytarabine/
 ---

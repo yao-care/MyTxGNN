@@ -5,8 +5,8 @@ drugbank_id: "DB13923"
 drug_name: "Emicizumab"
 kg_predictions: 4
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 4
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/emicizumab/
 ---

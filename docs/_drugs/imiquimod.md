@@ -5,8 +5,8 @@ drugbank_id: "DB00724"
 drug_name: "Imiquimod"
 kg_predictions: 22
 dl_predictions: 287
-evidence_level: "L5"
-indication_count: 22
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/imiquimod/
 ---

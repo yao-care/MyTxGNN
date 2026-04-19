@@ -5,8 +5,8 @@ drugbank_id: "DB00316"
 drug_name: "Acetaminophen"
 kg_predictions: 7
 dl_predictions: 22
-evidence_level: "L5"
-indication_count: 7
+evidence_level: "L2"
+indication_count: 1
 brands: []
 permalink: /drugs/acetaminophen/
 ---

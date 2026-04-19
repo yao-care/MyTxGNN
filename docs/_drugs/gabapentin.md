@@ -6,7 +6,7 @@ drug_name: "Gabapentin"
 kg_predictions: 38
 dl_predictions: 31
 evidence_level: "L5"
-indication_count: 38
+indication_count: 0
 brands: []
 permalink: /drugs/gabapentin/
 ---

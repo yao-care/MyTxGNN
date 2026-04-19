@@ -6,7 +6,7 @@ drug_name: "Dapsone"
 kg_predictions: 6
 dl_predictions: 91
 evidence_level: "L5"
-indication_count: 6
+indication_count: 1
 brands: []
 permalink: /drugs/dapsone/
 ---

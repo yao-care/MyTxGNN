@@ -5,8 +5,8 @@ drugbank_id: "DB00346"
 drug_name: "Alfuzosin"
 kg_predictions: 1
 dl_predictions: 73
-evidence_level: "L5"
-indication_count: 1
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/alfuzosin/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB00391"
 drug_name: "Sulpiride"
 kg_predictions: 3
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 3
+evidence_level: "L4"
+indication_count: 9
 brands: []
 permalink: /drugs/sulpiride/
 ---

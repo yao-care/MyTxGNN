@@ -6,7 +6,7 @@ drug_name: "Voriconazole"
 kg_predictions: 50
 dl_predictions: 109
 evidence_level: "L5"
-indication_count: 50
+indication_count: 0
 brands: []
 permalink: /drugs/voriconazole/
 ---

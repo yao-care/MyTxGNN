@@ -5,8 +5,8 @@ drugbank_id: "DB00390"
 drug_name: "Digoxin"
 kg_predictions: 8
 dl_predictions: 131
-evidence_level: "L5"
-indication_count: 8
+evidence_level: "L4"
+indication_count: 6
 brands: []
 permalink: /drugs/digoxin/
 ---

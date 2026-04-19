@@ -5,8 +5,8 @@ drugbank_id: "DB00005"
 drug_name: "Etanercept"
 kg_predictions: 35
 dl_predictions: 58
-evidence_level: "L5"
-indication_count: 35
+evidence_level: "L1"
+indication_count: 6
 brands: []
 permalink: /drugs/etanercept/
 ---

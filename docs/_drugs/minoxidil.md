@@ -5,8 +5,8 @@ drugbank_id: "DB00350"
 drug_name: "Minoxidil"
 kg_predictions: 45
 dl_predictions: 157
-evidence_level: "L5"
-indication_count: 45
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/minoxidil/
 ---

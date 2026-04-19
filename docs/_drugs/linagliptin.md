@@ -6,7 +6,7 @@ drug_name: "Linagliptin"
 kg_predictions: 18
 dl_predictions: 13
 evidence_level: "L5"
-indication_count: 18
+indication_count: 0
 brands: []
 permalink: /drugs/linagliptin/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB14039"
 drug_name: "Erenumab"
 kg_predictions: 4
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 4
+evidence_level: "L2"
+indication_count: 1
 brands: []
 permalink: /drugs/erenumab/
 ---

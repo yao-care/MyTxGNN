@@ -6,7 +6,7 @@ drug_name: "Nivolumab"
 kg_predictions: 4
 dl_predictions: 63
 evidence_level: "L5"
-indication_count: 4
+indication_count: 0
 brands: []
 permalink: /drugs/nivolumab/
 ---

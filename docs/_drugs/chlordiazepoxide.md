@@ -5,8 +5,8 @@ drugbank_id: "DB00475"
 drug_name: "Chlordiazepoxide"
 kg_predictions: 9
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 9
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/chlordiazepoxide/
 ---

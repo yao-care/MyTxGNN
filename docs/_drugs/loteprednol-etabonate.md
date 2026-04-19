@@ -6,7 +6,7 @@ drug_name: "Loteprednol Etabonate"
 kg_predictions: 26
 dl_predictions: 145
 evidence_level: "L5"
-indication_count: 26
+indication_count: 10
 brands: []
 permalink: /drugs/loteprednol-etabonate/
 ---

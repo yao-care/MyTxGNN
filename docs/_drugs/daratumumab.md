@@ -6,7 +6,7 @@ drug_name: "Daratumumab"
 kg_predictions: 2
 dl_predictions: 2
 evidence_level: "L5"
-indication_count: 2
+indication_count: 0
 brands: []
 permalink: /drugs/daratumumab/
 ---

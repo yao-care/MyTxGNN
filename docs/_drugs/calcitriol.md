@@ -5,8 +5,8 @@ drugbank_id: "DB00136"
 drug_name: "Calcitriol"
 kg_predictions: 42
 dl_predictions: 31
-evidence_level: "L5"
-indication_count: 42
+evidence_level: "L1"
+indication_count: 7
 brands: []
 permalink: /drugs/calcitriol/
 ---

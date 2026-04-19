@@ -5,8 +5,8 @@ drugbank_id: "DB00544"
 drug_name: "Fluorouracil"
 kg_predictions: 57
 dl_predictions: 533
-evidence_level: "L5"
-indication_count: 57
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/fluorouracil/
 ---

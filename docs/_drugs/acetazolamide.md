@@ -5,8 +5,8 @@ drugbank_id: "DB00819"
 drug_name: "Acetazolamide"
 kg_predictions: 18
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 18
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/acetazolamide/
 ---

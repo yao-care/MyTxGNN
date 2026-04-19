@@ -6,7 +6,7 @@ drug_name: "Lopinavir"
 kg_predictions: 14
 dl_predictions: 25
 evidence_level: "L5"
-indication_count: 14
+indication_count: 3
 brands: []
 permalink: /drugs/lopinavir/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB00790"
 drug_name: "Perindopril"
 kg_predictions: 16
 dl_predictions: 7
-evidence_level: "L5"
-indication_count: 16
+evidence_level: "L4"
+indication_count: 5
 brands: []
 permalink: /drugs/perindopril/
 ---

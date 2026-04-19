@@ -5,8 +5,8 @@ drugbank_id: "DB14040"
 drug_name: "Eptinezumab"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L2"
+indication_count: 1
 brands: []
 permalink: /drugs/eptinezumab/
 ---

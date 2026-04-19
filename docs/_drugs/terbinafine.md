@@ -6,7 +6,7 @@ drug_name: "Terbinafine"
 kg_predictions: 6
 dl_predictions: 28
 evidence_level: "L5"
-indication_count: 6
+indication_count: 0
 brands: []
 permalink: /drugs/terbinafine/
 ---

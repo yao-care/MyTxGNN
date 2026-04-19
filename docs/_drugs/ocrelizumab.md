@@ -5,8 +5,8 @@ drugbank_id: "DB11988"
 drug_name: "Ocrelizumab"
 kg_predictions: 1
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 1
+evidence_level: "L4"
+indication_count: 5
 brands: []
 permalink: /drugs/ocrelizumab/
 ---

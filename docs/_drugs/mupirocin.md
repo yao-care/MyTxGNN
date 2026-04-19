@@ -6,7 +6,7 @@ drug_name: "Mupirocin"
 kg_predictions: 20
 dl_predictions: 124
 evidence_level: "L5"
-indication_count: 20
+indication_count: 2
 brands: []
 permalink: /drugs/mupirocin/
 ---

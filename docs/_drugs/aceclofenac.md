@@ -5,8 +5,8 @@ drugbank_id: "DB06736"
 drug_name: "Aceclofenac"
 kg_predictions: 7
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 7
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/aceclofenac/
 ---

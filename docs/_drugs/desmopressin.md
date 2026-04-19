@@ -5,8 +5,8 @@ drugbank_id: "DB00035"
 drug_name: "Desmopressin"
 kg_predictions: 12
 dl_predictions: 203
-evidence_level: "L5"
-indication_count: 12
+evidence_level: "L4"
+indication_count: 7
 brands: []
 permalink: /drugs/desmopressin/
 ---

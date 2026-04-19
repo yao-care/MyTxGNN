@@ -5,8 +5,8 @@ drugbank_id: "DB12267"
 drug_name: "Brigatinib"
 kg_predictions: 6
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 6
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/brigatinib/
 ---

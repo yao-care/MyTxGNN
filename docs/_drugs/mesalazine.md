@@ -5,8 +5,8 @@ drugbank_id: "DB00244"
 drug_name: "Mesalazine"
 kg_predictions: 48
 dl_predictions: 70
-evidence_level: "L5"
-indication_count: 48
+evidence_level: "L1"
+indication_count: 7
 brands: []
 permalink: /drugs/mesalazine/
 ---

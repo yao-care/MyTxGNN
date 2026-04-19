@@ -5,8 +5,8 @@ drugbank_id: "DB00554"
 drug_name: "Piroxicam"
 kg_predictions: 32
 dl_predictions: 100
-evidence_level: "L5"
-indication_count: 32
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/piroxicam/
 ---

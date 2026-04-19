@@ -5,8 +5,8 @@ drugbank_id: "DB00717"
 drug_name: "Norethisterone"
 kg_predictions: 40
 dl_predictions: 113
-evidence_level: "L5"
-indication_count: 40
+evidence_level: "L1"
+indication_count: 1
 brands: []
 permalink: /drugs/norethisterone/
 ---

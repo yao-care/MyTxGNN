@@ -5,8 +5,8 @@ drugbank_id: "DB00317"
 drug_name: "Gefitinib"
 kg_predictions: 20
 dl_predictions: 125
-evidence_level: "L5"
-indication_count: 20
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/gefitinib/
 ---

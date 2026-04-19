@@ -6,7 +6,7 @@ drug_name: "Imiglucerase"
 kg_predictions: 1
 dl_predictions: 352
 evidence_level: "L5"
-indication_count: 1
+indication_count: 5
 brands: []
 permalink: /drugs/imiglucerase/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB04272"
 drug_name: "Citric Acid"
 kg_predictions: 18
 dl_predictions: 346
-evidence_level: "L5"
-indication_count: 18
+evidence_level: "L1"
+indication_count: 8
 brands: []
 permalink: /drugs/citric-acid/
 ---

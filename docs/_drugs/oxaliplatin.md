@@ -5,8 +5,8 @@ drugbank_id: "DB00526"
 drug_name: "Oxaliplatin"
 kg_predictions: 9
 dl_predictions: 241
-evidence_level: "L5"
-indication_count: 9
+evidence_level: "L2"
+indication_count: 4
 brands: []
 permalink: /drugs/oxaliplatin/
 ---

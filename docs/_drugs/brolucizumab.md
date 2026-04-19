@@ -6,7 +6,7 @@ drug_name: "Brolucizumab"
 kg_predictions: 1
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 1
+indication_count: 4
 brands: []
 permalink: /drugs/brolucizumab/
 ---

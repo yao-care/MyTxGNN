@@ -5,8 +5,8 @@ drugbank_id: "DB01126"
 drug_name: "Dutasteride"
 kg_predictions: 14
 dl_predictions: 55
-evidence_level: "L5"
-indication_count: 14
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/dutasteride/
 ---

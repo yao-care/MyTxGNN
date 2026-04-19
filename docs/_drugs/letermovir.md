@@ -6,7 +6,7 @@ drug_name: "Letermovir"
 kg_predictions: 2
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 2
+indication_count: 1
 brands: []
 permalink: /drugs/letermovir/
 ---

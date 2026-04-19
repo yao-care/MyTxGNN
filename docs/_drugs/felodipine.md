@@ -5,8 +5,8 @@ drugbank_id: "DB01023"
 drug_name: "Felodipine"
 kg_predictions: 10
 dl_predictions: 22
-evidence_level: "L5"
-indication_count: 10
+evidence_level: "L2"
+indication_count: 7
 brands: []
 permalink: /drugs/felodipine/
 ---

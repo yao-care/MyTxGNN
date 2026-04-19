@@ -5,8 +5,8 @@ drugbank_id: "DB05109"
 drug_name: "Trabectedin"
 kg_predictions: 23
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 23
+evidence_level: "L2"
+indication_count: 1
 brands: []
 permalink: /drugs/trabectedin/
 ---

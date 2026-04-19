@@ -5,8 +5,8 @@ drugbank_id: "DB09125"
 drug_name: "Potassium Citrate"
 kg_predictions: 27
 dl_predictions: 247
-evidence_level: "L5"
-indication_count: 27
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/potassium-citrate/
 ---

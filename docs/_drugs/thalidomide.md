@@ -6,7 +6,7 @@ drug_name: "Thalidomide"
 kg_predictions: 1
 dl_predictions: 11
 evidence_level: "L5"
-indication_count: 1
+indication_count: 0
 brands: []
 permalink: /drugs/thalidomide/
 ---

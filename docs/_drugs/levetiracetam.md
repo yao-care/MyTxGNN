@@ -5,8 +5,8 @@ drugbank_id: "DB01202"
 drug_name: "Levetiracetam"
 kg_predictions: 44
 dl_predictions: 29
-evidence_level: "L5"
-indication_count: 44
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/levetiracetam/
 ---

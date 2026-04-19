@@ -5,8 +5,8 @@ drugbank_id: "DB00284"
 drug_name: "Acarbose"
 kg_predictions: 10
 dl_predictions: 18
-evidence_level: "L5"
-indication_count: 10
+evidence_level: "L4"
+indication_count: 9
 brands: []
 permalink: /drugs/acarbose/
 ---

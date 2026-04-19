@@ -5,8 +5,8 @@ drugbank_id: "DB00874"
 drug_name: "Guaifenesin"
 kg_predictions: 56
 dl_predictions: 271
-evidence_level: "L5"
-indication_count: 56
+evidence_level: "L3"
+indication_count: 5
 brands: []
 permalink: /drugs/guaifenesin/
 ---

@@ -6,7 +6,7 @@ drug_name: "Isotretinoin"
 kg_predictions: 16
 dl_predictions: 7
 evidence_level: "L5"
-indication_count: 16
+indication_count: 2
 brands: []
 permalink: /drugs/isotretinoin/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB00404"
 drug_name: "Alprazolam"
 kg_predictions: 42
 dl_predictions: 71
-evidence_level: "L5"
-indication_count: 42
+evidence_level: "L2"
+indication_count: 3
 brands: []
 permalink: /drugs/alprazolam/
 ---

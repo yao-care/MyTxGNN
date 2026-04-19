@@ -5,8 +5,8 @@ drugbank_id: "DB00207"
 drug_name: "Azithromycin"
 kg_predictions: 48
 dl_predictions: 149
-evidence_level: "L5"
-indication_count: 48
+evidence_level: "L3"
+indication_count: 10
 brands: []
 permalink: /drugs/azithromycin/
 ---

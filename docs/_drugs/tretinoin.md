@@ -5,8 +5,8 @@ drugbank_id: "DB00755"
 drug_name: "Tretinoin"
 kg_predictions: 8
 dl_predictions: 220
-evidence_level: "L5"
-indication_count: 8
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/tretinoin/
 ---

@@ -6,7 +6,7 @@ drug_name: "Palivizumab"
 kg_predictions: 1
 dl_predictions: 318
 evidence_level: "L5"
-indication_count: 1
+indication_count: 10
 brands: []
 permalink: /drugs/palivizumab/
 ---

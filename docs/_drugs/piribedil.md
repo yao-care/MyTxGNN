@@ -5,8 +5,8 @@ drugbank_id: "DB12478"
 drug_name: "Piribedil"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L4"
+indication_count: 5
 brands: []
 permalink: /drugs/piribedil/
 ---

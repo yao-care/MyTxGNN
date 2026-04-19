@@ -5,7 +5,7 @@ drugbank_id: "DB11855"
 drug_name: "Revefenacin"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 2
 brands: []
 permalink: /drugs/revefenacin/

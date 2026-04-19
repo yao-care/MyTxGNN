@@ -5,8 +5,8 @@ drugbank_id: "DB00248"
 drug_name: "Cabergoline"
 kg_predictions: 4
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 4
+evidence_level: "L1"
+indication_count: 5
 brands: []
 permalink: /drugs/cabergoline/
 ---

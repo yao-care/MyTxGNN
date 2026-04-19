@@ -5,8 +5,8 @@ drugbank_id: "DB06674"
 drug_name: "Golimumab"
 kg_predictions: 12
 dl_predictions: 87
-evidence_level: "L5"
-indication_count: 12
+evidence_level: "L1"
+indication_count: 5
 brands: []
 permalink: /drugs/golimumab/
 ---

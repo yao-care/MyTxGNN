@@ -6,7 +6,7 @@ drug_name: "Semaglutide"
 kg_predictions: 30
 dl_predictions: 12
 evidence_level: "L5"
-indication_count: 30
+indication_count: 0
 brands: []
 permalink: /drugs/semaglutide/
 ---

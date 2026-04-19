@@ -5,8 +5,8 @@ drugbank_id: "DB15566"
 drug_name: "Prednisolone Acetate"
 kg_predictions: 20
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 20
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/prednisolone-acetate/
 ---

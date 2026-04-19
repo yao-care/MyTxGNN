@@ -5,8 +5,8 @@ drugbank_id: "DB01267"
 drug_name: "Paliperidone"
 kg_predictions: 30
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 30
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/paliperidone/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB01436"
 drug_name: "Alfacalcidol"
 kg_predictions: 56
 dl_predictions: 39
-evidence_level: "L5"
-indication_count: 56
+evidence_level: "L4"
+indication_count: 5
 brands: []
 permalink: /drugs/alfacalcidol/
 ---

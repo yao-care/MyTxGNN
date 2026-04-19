@@ -6,7 +6,7 @@ drug_name: "Lonoctocog Alfa"
 kg_predictions: 10
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 10
+indication_count: 4
 brands: []
 permalink: /drugs/lonoctocog-alfa/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB00742"
 drug_name: "Mannitol"
 kg_predictions: 18
 dl_predictions: 698
-evidence_level: "L5"
-indication_count: 18
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/mannitol/
 ---

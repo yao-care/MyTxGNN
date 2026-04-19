@@ -5,8 +5,8 @@ drugbank_id: "DB00442"
 drug_name: "Entecavir"
 kg_predictions: 1
 dl_predictions: 81
-evidence_level: "L5"
-indication_count: 1
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/entecavir/
 ---

@@ -6,7 +6,7 @@ drug_name: "Cyclosporine"
 kg_predictions: 4
 dl_predictions: 348
 evidence_level: "L5"
-indication_count: 4
+indication_count: 7
 brands: []
 permalink: /drugs/cyclosporine/
 ---

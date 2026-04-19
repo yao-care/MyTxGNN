@@ -5,8 +5,8 @@ drugbank_id: "DB01606"
 drug_name: "Tazobactam"
 kg_predictions: 10
 dl_predictions: 58
-evidence_level: "L5"
-indication_count: 10
+evidence_level: "L1"
+indication_count: 2
 brands: []
 permalink: /drugs/tazobactam/
 ---

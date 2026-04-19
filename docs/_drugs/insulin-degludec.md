@@ -5,8 +5,8 @@ drugbank_id: "DB09564"
 drug_name: "Insulin Degludec"
 kg_predictions: 10
 dl_predictions: 18
-evidence_level: "L5"
-indication_count: 10
+evidence_level: "L1"
+indication_count: 6
 brands: []
 permalink: /drugs/insulin-degludec/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB09074"
 drug_name: "Olaparib"
 kg_predictions: 54
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 54
+evidence_level: "L1"
+indication_count: 1
 brands: []
 permalink: /drugs/olaparib/
 ---

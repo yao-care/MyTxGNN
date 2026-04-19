@@ -5,8 +5,8 @@ drugbank_id: "DB01406"
 drug_name: "Danazol"
 kg_predictions: 9
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 9
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/danazol/
 ---

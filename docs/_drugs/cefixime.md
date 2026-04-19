@@ -6,7 +6,7 @@ drug_name: "Cefixime"
 kg_predictions: 40
 dl_predictions: 66
 evidence_level: "L5"
-indication_count: 40
+indication_count: 0
 brands: []
 permalink: /drugs/cefixime/
 ---

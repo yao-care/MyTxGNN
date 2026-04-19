@@ -5,8 +5,8 @@ drugbank_id: "DB00072"
 drug_name: "Trastuzumab"
 kg_predictions: 11
 dl_predictions: 399
-evidence_level: "L5"
-indication_count: 11
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/trastuzumab/
 ---

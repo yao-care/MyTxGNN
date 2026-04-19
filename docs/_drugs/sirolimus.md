@@ -5,8 +5,8 @@ drugbank_id: "DB00877"
 drug_name: "Sirolimus"
 kg_predictions: 5
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 5
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/sirolimus/
 ---

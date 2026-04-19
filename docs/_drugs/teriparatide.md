@@ -5,7 +5,7 @@ drugbank_id: "DB06285"
 drug_name: "Teriparatide"
 kg_predictions: 10
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L4"
 indication_count: 10
 brands: []
 permalink: /drugs/teriparatide/

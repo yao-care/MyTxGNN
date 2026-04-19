@@ -5,8 +5,8 @@ drugbank_id: "DB00853"
 drug_name: "Temozolomide"
 kg_predictions: 15
 dl_predictions: 194
-evidence_level: "L5"
-indication_count: 15
+evidence_level: "L1"
+indication_count: 2
 brands: []
 permalink: /drugs/temozolomide/
 ---

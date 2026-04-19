@@ -5,8 +5,8 @@ drugbank_id: "DB14762"
 drug_name: "Risankizumab"
 kg_predictions: 8
 dl_predictions: 123
-evidence_level: "L5"
-indication_count: 8
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/risankizumab/
 ---

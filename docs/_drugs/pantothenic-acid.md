@@ -5,8 +5,8 @@ drugbank_id: "DB01783"
 drug_name: "Pantothenic Acid"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L4"
+indication_count: 9
 brands: []
 permalink: /drugs/pantothenic-acid/
 ---

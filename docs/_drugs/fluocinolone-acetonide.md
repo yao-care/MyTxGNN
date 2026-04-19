@@ -6,7 +6,7 @@ drug_name: "Fluocinolone Acetonide"
 kg_predictions: 51
 dl_predictions: 153
 evidence_level: "L5"
-indication_count: 51
+indication_count: 4
 brands: []
 permalink: /drugs/fluocinolone-acetonide/
 ---

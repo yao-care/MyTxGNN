@@ -5,8 +5,8 @@ drugbank_id: "DB00153"
 drug_name: "Ergocalciferol"
 kg_predictions: 11
 dl_predictions: 53
-evidence_level: "L5"
-indication_count: 11
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/ergocalciferol/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB00951"
 drug_name: "Isoniazid"
 kg_predictions: 5
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 5
+evidence_level: "L1"
+indication_count: 1
 brands: []
 permalink: /drugs/isoniazid/
 ---

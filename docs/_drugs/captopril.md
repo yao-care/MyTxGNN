@@ -5,8 +5,8 @@ drugbank_id: "DB01197"
 drug_name: "Captopril"
 kg_predictions: 18
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 18
+evidence_level: "L4"
+indication_count: 4
 brands: []
 permalink: /drugs/captopril/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB11637"
 drug_name: "Delamanid"
 kg_predictions: 1
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 1
+evidence_level: "L1"
+indication_count: 7
 brands: []
 permalink: /drugs/delamanid/
 ---

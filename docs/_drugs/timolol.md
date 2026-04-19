@@ -6,7 +6,7 @@ drug_name: "Timolol"
 kg_predictions: 4
 dl_predictions: 21
 evidence_level: "L5"
-indication_count: 4
+indication_count: 0
 brands: []
 permalink: /drugs/timolol/
 ---

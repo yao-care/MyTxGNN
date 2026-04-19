@@ -5,8 +5,8 @@ drugbank_id: "DB00905"
 drug_name: "Bimatoprost"
 kg_predictions: 12
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 12
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/bimatoprost/
 ---

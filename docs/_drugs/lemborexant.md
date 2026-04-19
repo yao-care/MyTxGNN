@@ -5,8 +5,8 @@ drugbank_id: "DB11951"
 drug_name: "Lemborexant"
 kg_predictions: 2
 dl_predictions: 15
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L2"
+indication_count: 1
 brands: []
 permalink: /drugs/lemborexant/
 ---

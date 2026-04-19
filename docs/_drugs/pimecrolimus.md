@@ -5,8 +5,8 @@ drugbank_id: "DB00337"
 drug_name: "Pimecrolimus"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L1"
+indication_count: 4
 brands: []
 permalink: /drugs/pimecrolimus/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB06809"
 drug_name: "Plerixafor"
 kg_predictions: 4
 dl_predictions: 60
-evidence_level: "L5"
-indication_count: 4
+evidence_level: "L1"
+indication_count: 7
 brands: []
 permalink: /drugs/plerixafor/
 ---

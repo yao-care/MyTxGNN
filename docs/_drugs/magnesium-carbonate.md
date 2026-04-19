@@ -5,8 +5,8 @@ drugbank_id: "DB09481"
 drug_name: "Magnesium Carbonate"
 kg_predictions: 48
 dl_predictions: 38
-evidence_level: "L5"
-indication_count: 48
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/magnesium-carbonate/
 ---

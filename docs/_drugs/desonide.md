@@ -5,8 +5,8 @@ drugbank_id: "DB01260"
 drug_name: "Desonide"
 kg_predictions: 25
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 25
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/desonide/
 ---

@@ -6,7 +6,7 @@ drug_name: "Nicotine"
 kg_predictions: 12
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 12
+indication_count: 0
 brands: []
 permalink: /drugs/nicotine/
 ---

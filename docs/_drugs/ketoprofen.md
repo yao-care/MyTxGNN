@@ -5,8 +5,8 @@ drugbank_id: "DB01009"
 drug_name: "Ketoprofen"
 kg_predictions: 40
 dl_predictions: 65
-evidence_level: "L5"
-indication_count: 40
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/ketoprofen/
 ---

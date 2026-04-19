@@ -5,8 +5,8 @@ drugbank_id: "DB12023"
 drug_name: "Benralizumab"
 kg_predictions: 2
 dl_predictions: 113
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L2"
+indication_count: 5
 brands: []
 permalink: /drugs/benralizumab/
 ---

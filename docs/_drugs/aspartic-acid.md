@@ -5,8 +5,8 @@ drugbank_id: "DB00128"
 drug_name: "Aspartic Acid"
 kg_predictions: 21
 dl_predictions: 16
-evidence_level: "L5"
-indication_count: 21
+evidence_level: "L3"
+indication_count: 1
 brands: []
 permalink: /drugs/aspartic-acid/
 ---

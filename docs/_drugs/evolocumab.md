@@ -6,7 +6,7 @@ drug_name: "Evolocumab"
 kg_predictions: 4
 dl_predictions: 550
 evidence_level: "L5"
-indication_count: 4
+indication_count: 6
 brands: []
 permalink: /drugs/evolocumab/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB12457"
 drug_name: "Rimegepant"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L2"
+indication_count: 6
 brands: []
 permalink: /drugs/rimegepant/
 ---

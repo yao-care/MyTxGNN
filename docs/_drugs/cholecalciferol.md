@@ -5,8 +5,8 @@ drugbank_id: "DB00169"
 drug_name: "Cholecalciferol"
 kg_predictions: 50
 dl_predictions: 52
-evidence_level: "L5"
-indication_count: 50
+evidence_level: "L1"
+indication_count: 7
 brands: []
 permalink: /drugs/cholecalciferol/
 ---

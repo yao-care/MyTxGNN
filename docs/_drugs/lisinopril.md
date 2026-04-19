@@ -5,8 +5,8 @@ drugbank_id: "DB00722"
 drug_name: "Lisinopril"
 kg_predictions: 36
 dl_predictions: 59
-evidence_level: "L5"
-indication_count: 36
+evidence_level: "L3"
+indication_count: 10
 brands: []
 permalink: /drugs/lisinopril/
 ---

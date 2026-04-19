@@ -5,8 +5,8 @@ drugbank_id: "DB09357"
 drug_name: "Dexpanthenol"
 kg_predictions: 30
 dl_predictions: 253
-evidence_level: "L5"
-indication_count: 30
+evidence_level: "L2"
+indication_count: 7
 brands: []
 permalink: /drugs/dexpanthenol/
 ---

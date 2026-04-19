@@ -5,8 +5,8 @@ drugbank_id: "DB06273"
 drug_name: "Tocilizumab"
 kg_predictions: 14
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 14
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/tocilizumab/
 ---

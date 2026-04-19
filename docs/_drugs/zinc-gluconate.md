@@ -5,8 +5,8 @@ drugbank_id: "DB11248"
 drug_name: "Zinc Gluconate"
 kg_predictions: 2
 dl_predictions: 329
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/zinc-gluconate/
 ---

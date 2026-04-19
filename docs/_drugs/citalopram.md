@@ -5,8 +5,8 @@ drugbank_id: "DB00215"
 drug_name: "Citalopram"
 kg_predictions: 6
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 6
+evidence_level: "L1"
+indication_count: 5
 brands: []
 permalink: /drugs/citalopram/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB09096"
 drug_name: "Benzoyl Peroxide"
 kg_predictions: 54
 dl_predictions: 156
-evidence_level: "L5"
-indication_count: 54
+evidence_level: "L3"
+indication_count: 4
 brands: []
 permalink: /drugs/benzoyl-peroxide/
 ---

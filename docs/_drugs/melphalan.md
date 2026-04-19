@@ -5,8 +5,8 @@ drugbank_id: "DB01042"
 drug_name: "Melphalan"
 kg_predictions: 44
 dl_predictions: 187
-evidence_level: "L5"
-indication_count: 44
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/melphalan/
 ---

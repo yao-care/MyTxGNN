@@ -5,8 +5,8 @@ drugbank_id: "DB04854"
 drug_name: "Febuxostat"
 kg_predictions: 11
 dl_predictions: 14
-evidence_level: "L5"
-indication_count: 11
+evidence_level: "L4"
+indication_count: 3
 brands: []
 permalink: /drugs/febuxostat/
 ---

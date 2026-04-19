@@ -5,8 +5,8 @@ drugbank_id: "DB00646"
 drug_name: "Nystatin"
 kg_predictions: 12
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 12
+evidence_level: "L3"
+indication_count: 10
 brands: []
 permalink: /drugs/nystatin/
 ---

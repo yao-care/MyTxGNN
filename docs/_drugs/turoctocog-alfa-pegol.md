@@ -6,7 +6,7 @@ drug_name: "Turoctocog Alfa Pegol"
 kg_predictions: 8
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 8
+indication_count: 10
 brands: []
 permalink: /drugs/turoctocog-alfa-pegol/
 ---

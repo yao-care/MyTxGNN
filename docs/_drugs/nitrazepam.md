@@ -5,8 +5,8 @@ drugbank_id: "DB01595"
 drug_name: "Nitrazepam"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L2"
+indication_count: 3
 brands: []
 permalink: /drugs/nitrazepam/
 ---

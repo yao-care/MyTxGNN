@@ -5,8 +5,8 @@ drugbank_id: "DB01110"
 drug_name: "Miconazole"
 kg_predictions: 8
 dl_predictions: 59
-evidence_level: "L5"
-indication_count: 8
+evidence_level: "L2"
+indication_count: 1
 brands: []
 permalink: /drugs/miconazole/
 ---

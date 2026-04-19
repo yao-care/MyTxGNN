@@ -5,8 +5,8 @@ drugbank_id: "DB01060"
 drug_name: "Amoxicillin"
 kg_predictions: 24
 dl_predictions: 111
-evidence_level: "L5"
-indication_count: 24
+evidence_level: "L4"
+indication_count: 8
 brands: []
 permalink: /drugs/amoxicillin/
 ---

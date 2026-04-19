@@ -6,7 +6,7 @@ drug_name: "Magnesium Oxide"
 kg_predictions: 14
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 14
+indication_count: 0
 brands: []
 permalink: /drugs/magnesium-oxide/
 ---

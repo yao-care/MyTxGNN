@@ -5,7 +5,7 @@ drugbank_id: "DB13999"
 drug_name: "Moroctocog Alfa"
 kg_predictions: 8
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 8
 brands: []
 permalink: /drugs/moroctocog-alfa/

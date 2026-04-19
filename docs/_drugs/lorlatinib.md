@@ -5,8 +5,8 @@ drugbank_id: "DB12130"
 drug_name: "Lorlatinib"
 kg_predictions: 4
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 4
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/lorlatinib/
 ---

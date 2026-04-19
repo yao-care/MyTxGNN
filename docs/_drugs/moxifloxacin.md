@@ -5,8 +5,8 @@ drugbank_id: "DB00218"
 drug_name: "Moxifloxacin"
 kg_predictions: 16
 dl_predictions: 70
-evidence_level: "L5"
-indication_count: 16
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/moxifloxacin/
 ---

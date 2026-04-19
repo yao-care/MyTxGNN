@@ -28,7 +28,7 @@ class DrugEvidencePackGenerator:
     def __init__(
         self,
         llm_client: LLMClient | None = None,
-        model: str = "gpt-4o",
+        model: str | None = None,
     ):
         """Initialize the generator.
 
@@ -37,6 +37,21 @@ class DrugEvidencePackGenerator:
             model: Model to use if creating a new LLMClient.
         """
         self.llm_client = llm_client or LLMClient(model=model)
+
+    @staticmethod
+    def _get_regulatory(bundle) -> dict:
+        """Get regulatory data from bundle, handling different field names."""
+        for attr in ("tfda", "thaifda", "pmda", "npra", "mhra", "tga", "fda"):
+            val = getattr(bundle, attr, None)
+            if val is not None:
+                return val
+        return {"found": False, "records": []}
+
+    @staticmethod
+    def _has_package_insert(bundle) -> dict:
+        """Get package_insert data, handling bundles without it."""
+        return getattr(bundle, "package_insert", {"found": False})
+
 
     def _get_analysis_prompt_path(self) -> Path:
         """Get the path to the analysis-only prompt (v4)."""
@@ -149,9 +164,9 @@ class DrugEvidencePackGenerator:
 
         # Extract dosage forms from TFDA data
         dosage_forms = []
-        if bundle.tfda.get("found") and bundle.tfda.get("records"):
+        if self._get_regulatory(bundle).get("found") and self._get_regulatory(bundle).get("records"):
             forms_seen = set()
-            for record in bundle.tfda["records"]:
+            for record in self._get_regulatory(bundle)["records"]:
                 # Support both English and Chinese field names
                 form = record.get("dosage_form", record.get("劑型", ""))
                 if form and form not in forms_seen:
@@ -172,15 +187,15 @@ class DrugEvidencePackGenerator:
                 "data_gaps": self._identify_data_gaps(bundle),
             },
             "drug": {
-                "inn": drug.inn,
+                "inn": getattr(drug, "inn", getattr(drug, "name", "")),
                 "drugbank_id": drug.drugbank_id,
-                "brand_name_zh": drug.brand_name_zh,
+                "brand_name_zh": getattr(drug, "brand_name_zh", getattr(drug, "brand_name_th", getattr(drug, "brand_name", None))),
                 "original_indications": drug.original_indications,
                 "original_moa": drug.original_moa or "[Data Gap]",
             },
             "taiwan_regulatory": {
-                "market_status": "已上市" if bundle.tfda.get("found") else "未上市",
-                "total_licenses": len(bundle.tfda.get("records", [])),
+                "market_status": "已上市" if self._get_regulatory(bundle).get("found") else "未上市",
+                "total_licenses": len(self._get_regulatory(bundle).get("records", [])),
                 "licenses": [
                     {
                         # Support both English and Chinese field names
@@ -190,13 +205,13 @@ class DrugEvidencePackGenerator:
                         "manufacturer": r.get("license_holder", r.get("製造廠", r.get("申請商", ""))),
                         "approved_indication_text": r.get("indication", r.get("適應症", "")),
                     }
-                    for r in bundle.tfda.get("records", [])[:5]  # Limit to 5 for readability
+                    for r in self._get_regulatory(bundle).get("records", [])[:5]  # Limit to 5 for readability
                 ],
                 "dosage_forms_by_route": dosage_forms,
             },
             "safety": {
-                "key_warnings": bundle.package_insert.get("warnings", ["[Data Gap]"]),
-                "contraindications": bundle.package_insert.get("contraindications", ["[Data Gap]"]),
+                "key_warnings": self._has_package_insert(bundle).get("warnings", ["[Data Gap]"]),
+                "contraindications": self._has_package_insert(bundle).get("contraindications", ["[Data Gap]"]),
                 "ddi": {
                     "query_status": "completed" if bundle.safety.get("ddi") else "not_found",
                     "total_count": len(bundle.safety.get("ddi", [])),
@@ -225,13 +240,13 @@ class DrugEvidencePackGenerator:
     def _get_inputs_received(self, bundle: DrugBundle) -> list[str]:
         """Get list of data sources that were received."""
         inputs = []
-        if bundle.tfda.get("found"):
+        if self._get_regulatory(bundle).get("found"):
             inputs.append("tfda")
         if bundle.safety.get("ddi"):
             inputs.append("ddi")
         if bundle.drugbank.get("found"):
             inputs.append("drugbank")
-        if bundle.package_insert.get("found"):
+        if self._has_package_insert(bundle).get("found"):
             inputs.append("package_insert")
 
         # Check if any indication has trials or pubmed
@@ -250,7 +265,7 @@ class DrugEvidencePackGenerator:
         gap_id = 1
 
         # Check TFDA package insert
-        if not bundle.package_insert.get("found"):
+        if not self._has_package_insert(bundle).get("found"):
             gaps.append({
                 "id": f"DG{gap_id:03d}",
                 "category": "Drug_Level",

@@ -5,7 +5,7 @@ drugbank_id: "DB00121"
 drug_name: "Biotin"
 kg_predictions: 2
 dl_predictions: 39
-evidence_level: "L5"
+evidence_level: "L2"
 indication_count: 2
 brands: []
 permalink: /drugs/biotin/

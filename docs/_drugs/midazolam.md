@@ -5,8 +5,8 @@ drugbank_id: "DB00683"
 drug_name: "Midazolam"
 kg_predictions: 6
 dl_predictions: 26
-evidence_level: "L5"
-indication_count: 6
+evidence_level: "L1"
+indication_count: 1
 brands: []
 permalink: /drugs/midazolam/
 ---

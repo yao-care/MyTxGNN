@@ -5,8 +5,8 @@ drugbank_id: "DB06626"
 drug_name: "Axitinib"
 kg_predictions: 8
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 8
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/axitinib/
 ---

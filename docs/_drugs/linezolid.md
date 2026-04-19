@@ -6,7 +6,7 @@ drug_name: "Linezolid"
 kg_predictions: 45
 dl_predictions: 16
 evidence_level: "L5"
-indication_count: 45
+indication_count: 0
 brands: []
 permalink: /drugs/linezolid/
 ---

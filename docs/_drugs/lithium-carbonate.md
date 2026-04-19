@@ -6,7 +6,7 @@ drug_name: "Lithium Carbonate"
 kg_predictions: 11
 dl_predictions: 136
 evidence_level: "L5"
-indication_count: 11
+indication_count: 10
 brands: []
 permalink: /drugs/lithium-carbonate/
 ---

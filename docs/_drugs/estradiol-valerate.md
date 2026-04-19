@@ -5,8 +5,8 @@ drugbank_id: "DB13956"
 drug_name: "Estradiol Valerate"
 kg_predictions: 3
 dl_predictions: 60
-evidence_level: "L5"
-indication_count: 3
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/estradiol-valerate/
 ---

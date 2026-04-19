@@ -5,8 +5,8 @@ drugbank_id: "DB09325"
 drug_name: "Sodium Fluoride"
 kg_predictions: 3
 dl_predictions: 46
-evidence_level: "L5"
-indication_count: 3
+evidence_level: "L4"
+indication_count: 7
 brands: []
 permalink: /drugs/sodium-fluoride/
 ---

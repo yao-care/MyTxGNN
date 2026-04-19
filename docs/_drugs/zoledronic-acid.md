@@ -6,7 +6,7 @@ drug_name: "Zoledronic Acid"
 kg_predictions: 20
 dl_predictions: 24
 evidence_level: "L5"
-indication_count: 20
+indication_count: 0
 brands: []
 permalink: /drugs/zoledronic-acid/
 ---

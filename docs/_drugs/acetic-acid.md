@@ -5,8 +5,8 @@ drugbank_id: "DB03166"
 drug_name: "Acetic Acid"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L2"
+indication_count: 9
 brands: []
 permalink: /drugs/acetic-acid/
 ---

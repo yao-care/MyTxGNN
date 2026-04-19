@@ -5,8 +5,8 @@ drugbank_id: "DB14498"
 drug_name: "Potassium Acetate"
 kg_predictions: 6
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 6
+evidence_level: "L4"
+indication_count: 1
 brands: []
 permalink: /drugs/potassium-acetate/
 ---

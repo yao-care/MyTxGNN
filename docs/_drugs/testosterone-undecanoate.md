@@ -6,7 +6,7 @@ drug_name: "Testosterone Undecanoate"
 kg_predictions: 4
 dl_predictions: 127
 evidence_level: "L5"
-indication_count: 4
+indication_count: 0
 brands: []
 permalink: /drugs/testosterone-undecanoate/
 ---

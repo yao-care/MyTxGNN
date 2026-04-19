@@ -5,8 +5,8 @@ drugbank_id: "DB09101"
 drug_name: "Elvitegravir"
 kg_predictions: 2
 dl_predictions: 44
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L4"
+indication_count: 3
 brands: []
 permalink: /drugs/elvitegravir/
 ---

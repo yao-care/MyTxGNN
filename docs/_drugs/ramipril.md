@@ -5,8 +5,8 @@ drugbank_id: "DB00178"
 drug_name: "Ramipril"
 kg_predictions: 48
 dl_predictions: 53
-evidence_level: "L5"
-indication_count: 48
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/ramipril/
 ---

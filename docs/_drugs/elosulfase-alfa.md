@@ -5,8 +5,8 @@ drugbank_id: "DB09051"
 drug_name: "Elosulfase Alfa"
 kg_predictions: 1
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 1
+evidence_level: "L2"
+indication_count: 9
 brands: []
 permalink: /drugs/elosulfase-alfa/
 ---

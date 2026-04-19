@@ -6,7 +6,7 @@ drug_name: "Drospirenone"
 kg_predictions: 21
 dl_predictions: 78
 evidence_level: "L5"
-indication_count: 21
+indication_count: 0
 brands: []
 permalink: /drugs/drospirenone/
 ---

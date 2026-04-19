@@ -6,7 +6,7 @@ drug_name: "Ropeginterferon Alfa-2B"
 kg_predictions: 3
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 3
+indication_count: 10
 brands: []
 permalink: /drugs/ropeginterferon-alfa-2b/
 ---

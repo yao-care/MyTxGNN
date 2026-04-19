@@ -6,7 +6,7 @@ drug_name: "Crotamiton"
 kg_predictions: 27
 dl_predictions: 270
 evidence_level: "L5"
-indication_count: 27
+indication_count: 0
 brands: []
 permalink: /drugs/crotamiton/
 ---

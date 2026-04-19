@@ -5,8 +5,8 @@ drugbank_id: "DB00415"
 drug_name: "Ampicillin"
 kg_predictions: 35
 dl_predictions: 159
-evidence_level: "L5"
-indication_count: 35
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/ampicillin/
 ---

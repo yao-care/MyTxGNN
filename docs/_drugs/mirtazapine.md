@@ -6,7 +6,7 @@ drug_name: "Mirtazapine"
 kg_predictions: 32
 dl_predictions: 55
 evidence_level: "L5"
-indication_count: 32
+indication_count: 3
 brands: []
 permalink: /drugs/mirtazapine/
 ---

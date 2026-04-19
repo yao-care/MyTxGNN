@@ -5,8 +5,8 @@ drugbank_id: "DB08899"
 drug_name: "Enzalutamide"
 kg_predictions: 12
 dl_predictions: 375
-evidence_level: "L5"
-indication_count: 12
+evidence_level: "L1"
+indication_count: 7
 brands: []
 permalink: /drugs/enzalutamide/
 ---

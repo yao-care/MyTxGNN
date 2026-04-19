@@ -6,7 +6,7 @@ drug_name: "Infliximab"
 kg_predictions: 40
 dl_predictions: 21
 evidence_level: "L5"
-indication_count: 40
+indication_count: 0
 brands: []
 permalink: /drugs/infliximab/
 ---

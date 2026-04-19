@@ -5,8 +5,8 @@ drugbank_id: "DB09063"
 drug_name: "Ceritinib"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/ceritinib/
 ---

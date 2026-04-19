@@ -6,7 +6,7 @@ drug_name: "Potassium Bicarbonate"
 kg_predictions: 24
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 24
+indication_count: 1
 brands: []
 permalink: /drugs/potassium-bicarbonate/
 ---

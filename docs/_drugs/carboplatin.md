@@ -5,8 +5,8 @@ drugbank_id: "DB00958"
 drug_name: "Carboplatin"
 kg_predictions: 42
 dl_predictions: 155
-evidence_level: "L5"
-indication_count: 42
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/carboplatin/
 ---

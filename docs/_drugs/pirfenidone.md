@@ -5,8 +5,8 @@ drugbank_id: "DB04951"
 drug_name: "Pirfenidone"
 kg_predictions: 9
 dl_predictions: 643
-evidence_level: "L5"
-indication_count: 9
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/pirfenidone/
 ---

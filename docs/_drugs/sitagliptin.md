@@ -6,7 +6,7 @@ drug_name: "Sitagliptin"
 kg_predictions: 12
 dl_predictions: 12
 evidence_level: "L5"
-indication_count: 12
+indication_count: 0
 brands: []
 permalink: /drugs/sitagliptin/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB00653"
 drug_name: "Magnesium Sulfate"
 kg_predictions: 24
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 24
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/magnesium-sulfate/
 ---

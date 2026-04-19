@@ -5,8 +5,8 @@ drugbank_id: "DB00291"
 drug_name: "Chlorambucil"
 kg_predictions: 9
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 9
+evidence_level: "L1"
+indication_count: 8
 brands: []
 permalink: /drugs/chlorambucil/
 ---

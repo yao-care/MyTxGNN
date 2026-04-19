@@ -6,7 +6,7 @@ drug_name: "Colchicine"
 kg_predictions: 21
 dl_predictions: 279
 evidence_level: "L5"
-indication_count: 21
+indication_count: 3
 brands: []
 permalink: /drugs/colchicine/
 ---

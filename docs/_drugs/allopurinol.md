@@ -5,8 +5,8 @@ drugbank_id: "DB00437"
 drug_name: "Allopurinol"
 kg_predictions: 33
 dl_predictions: 512
-evidence_level: "L5"
-indication_count: 33
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/allopurinol/
 ---

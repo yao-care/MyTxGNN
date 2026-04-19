@@ -6,7 +6,7 @@ drug_name: "Cinnarizine"
 kg_predictions: 10
 dl_predictions: 118
 evidence_level: "L5"
-indication_count: 10
+indication_count: 0
 brands: []
 permalink: /drugs/cinnarizine/
 ---

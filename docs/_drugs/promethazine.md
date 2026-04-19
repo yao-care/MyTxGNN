@@ -6,7 +6,7 @@ drug_name: "Promethazine"
 kg_predictions: 7
 dl_predictions: 32
 evidence_level: "L5"
-indication_count: 7
+indication_count: 0
 brands: []
 permalink: /drugs/promethazine/
 ---

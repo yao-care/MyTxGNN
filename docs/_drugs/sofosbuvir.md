@@ -5,8 +5,8 @@ drugbank_id: "DB08934"
 drug_name: "Sofosbuvir"
 kg_predictions: 12
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 12
+evidence_level: "L1"
+indication_count: 8
 brands: []
 permalink: /drugs/sofosbuvir/
 ---

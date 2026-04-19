@@ -5,8 +5,8 @@ drugbank_id: "DB00503"
 drug_name: "Ritonavir"
 kg_predictions: 48
 dl_predictions: 39
-evidence_level: "L5"
-indication_count: 48
+evidence_level: "L4"
+indication_count: 3
 brands: []
 permalink: /drugs/ritonavir/
 ---

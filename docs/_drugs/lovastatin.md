@@ -5,8 +5,8 @@ drugbank_id: "DB00227"
 drug_name: "Lovastatin"
 kg_predictions: 32
 dl_predictions: 68
-evidence_level: "L5"
-indication_count: 32
+evidence_level: "L1"
+indication_count: 6
 brands: []
 permalink: /drugs/lovastatin/
 ---

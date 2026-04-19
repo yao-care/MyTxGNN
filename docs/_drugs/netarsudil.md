@@ -5,8 +5,8 @@ drugbank_id: "DB13931"
 drug_name: "Netarsudil"
 kg_predictions: 4
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 4
+evidence_level: "L1"
+indication_count: 2
 brands: []
 permalink: /drugs/netarsudil/
 ---

@@ -6,7 +6,7 @@ drug_name: "Estradiol"
 kg_predictions: 24
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 24
+indication_count: 0
 brands: []
 permalink: /drugs/estradiol/
 ---

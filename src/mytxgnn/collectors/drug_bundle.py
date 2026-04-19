@@ -38,8 +38,8 @@ class PredictedIndication:
     """A single predicted new indication for a drug."""
 
     disease_name: str
-    kg_score: float | None = None  # KG prediction score
-    kg_rank: int | None = None
+    txgnn_score: float = 0.0
+    txgnn_rank: int | None = None
     # Disease-specific evidence (collected per indication)
     clinical_trials: list[dict] = field(default_factory=list)
     pubmed_articles: list[dict] = field(default_factory=list)
@@ -52,8 +52,8 @@ class PredictedIndication:
     def to_dict(self) -> dict:
         return {
             "disease_name": self.disease_name,
-            "kg_score": self.kg_score,
-            "kg_rank": self.kg_rank,
+            "txgnn_score": self.txgnn_score,
+            "txgnn_rank": self.txgnn_rank,
             "clinical_trials": self.clinical_trials,
             "pubmed_articles": self.pubmed_articles,
             "ictrp_trials": self.ictrp_trials,
@@ -67,8 +67,9 @@ class PredictedIndication:
 class DrugCandidate:
     """Information about a drug being evaluated for repurposing."""
 
-    name: str  # Drug name (INN or common name)
+    inn: str  # International Nonproprietary Name
     drugbank_id: str | None = None
+    brand_name_zh: str | None = None
     # Original approved indications (from NPRA or KG)
     original_indications: list[str] = field(default_factory=list)
     original_moa: str | None = None  # Mechanism of Action
@@ -77,8 +78,9 @@ class DrugCandidate:
 
     def to_dict(self) -> dict:
         return {
-            "name": self.name,
+            "inn": self.inn,
             "drugbank_id": self.drugbank_id,
+            "brand_name_zh": self.brand_name_zh,
             "original_indications": self.original_indications,
             "original_moa": self.original_moa,
             "predicted_indications": [p.to_dict() for p in self.predicted_indications],
@@ -131,7 +133,7 @@ class DrugBundle:
         from ..paths import get_bundles_dir, slugify
 
         if output_dir is None:
-            drug_slug = slugify(self.drug.name)
+            drug_slug = slugify(self.drug.inn)
             output_dir = get_bundles_dir() / drug_slug
 
         output_dir = Path(output_dir)
@@ -150,15 +152,22 @@ class DrugBundle:
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        # Reconstruct predicted indications
-        predicted_indications = [
-            PredictedIndication(**pi)
-            for pi in data["drug"].get("predicted_indications", [])
-        ]
+        # Reconstruct predicted indications (handle both old and new key names)
+        predicted_indications = []
+        for pi_data in data["drug"].get("predicted_indications", []):
+            # Normalize old kg_score/kg_rank → txgnn_score/txgnn_rank
+            if "kg_score" in pi_data and "txgnn_score" not in pi_data:
+                pi_data["txgnn_score"] = pi_data.pop("kg_score") or 0.0
+            if "kg_rank" in pi_data and "txgnn_rank" not in pi_data:
+                pi_data["txgnn_rank"] = pi_data.pop("kg_rank")
+            # Remove keys not in dataclass
+            pi_data.pop("evidence_summary", None)
+            predicted_indications.append(PredictedIndication(**pi_data))
 
         drug = DrugCandidate(
-            name=data["drug"]["name"],
+            inn=data["drug"].get("inn") or data["drug"].get("name", ""),
             drugbank_id=data["drug"].get("drugbank_id"),
+            brand_name_zh=data["drug"].get("brand_name_zh"),
             original_indications=data["drug"].get("original_indications", []),
             original_moa=data["drug"].get("original_moa"),
             predicted_indications=predicted_indications,
@@ -196,7 +205,7 @@ class DrugBundle:
         for pi in self.drug.predicted_indications:
             trials = len(pi.clinical_trials) + len(pi.ictrp_trials)
             articles = len(pi.pubmed_articles)
-            score = f"{pi.kg_score:.4f}" if pi.kg_score else "-"
+            score = f"{pi.txgnn_score:.4f}" if pi.txgnn_score else "-"
             level = pi.evidence_level or "pending"
             lines.append(
                 f"| {pi.disease_name} | {score} | {trials} | {articles} | {level} |"
@@ -256,8 +265,8 @@ def load_predictions_for_drug(
         results.append(
             PredictedIndication(
                 disease_name=disease,
-                kg_score=row["txgnn_score"],
-                kg_rank=row.get("rank"),
+                txgnn_score=row["txgnn_score"],
+                txgnn_rank=row.get("rank"),
             )
         )
 
@@ -521,7 +530,7 @@ class DrugBundleAggregator:
 
         # Step 4: Build the DrugBundle
         drug = DrugCandidate(
-            name=drug_name,
+            inn=drug_name,
             drugbank_id=drugbank_id,
             original_indications=list(set(original_indications)),
             original_moa=original_moa,

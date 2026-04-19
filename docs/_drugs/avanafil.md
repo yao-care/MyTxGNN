@@ -6,7 +6,7 @@ drug_name: "Avanafil"
 kg_predictions: 9
 dl_predictions: 22
 evidence_level: "L5"
-indication_count: 9
+indication_count: 0
 brands: []
 permalink: /drugs/avanafil/
 ---

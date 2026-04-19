@@ -6,7 +6,7 @@ drug_name: "Glimepiride"
 kg_predictions: 20
 dl_predictions: 18
 evidence_level: "L5"
-indication_count: 20
+indication_count: 9
 brands: []
 permalink: /drugs/glimepiride/
 ---

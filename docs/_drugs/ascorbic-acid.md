@@ -5,8 +5,8 @@ drugbank_id: "DB00126"
 drug_name: "Ascorbic Acid"
 kg_predictions: 36
 dl_predictions: 206
-evidence_level: "L5"
-indication_count: 36
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/ascorbic-acid/
 ---

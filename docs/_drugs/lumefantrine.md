@@ -6,7 +6,7 @@ drug_name: "Lumefantrine"
 kg_predictions: 8
 dl_predictions: 14
 evidence_level: "L5"
-indication_count: 8
+indication_count: 0
 brands: []
 permalink: /drugs/lumefantrine/
 ---

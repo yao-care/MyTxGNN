@@ -5,8 +5,8 @@ drugbank_id: "DB00879"
 drug_name: "Emtricitabine"
 kg_predictions: 24
 dl_predictions: 24
-evidence_level: "L5"
-indication_count: 24
+evidence_level: "L2"
+indication_count: 3
 brands: []
 permalink: /drugs/emtricitabine/
 ---

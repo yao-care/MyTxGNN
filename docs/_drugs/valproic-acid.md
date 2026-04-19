@@ -5,8 +5,8 @@ drugbank_id: "DB00313"
 drug_name: "Valproic Acid"
 kg_predictions: 6
 dl_predictions: 88
-evidence_level: "L5"
-indication_count: 6
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/valproic-acid/
 ---

@@ -6,7 +6,7 @@ drug_name: "Rivastigmine"
 kg_predictions: 25
 dl_predictions: 71
 evidence_level: "L5"
-indication_count: 25
+indication_count: 1
 brands: []
 permalink: /drugs/rivastigmine/
 ---

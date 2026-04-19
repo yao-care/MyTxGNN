@@ -5,8 +5,8 @@ drugbank_id: "DB00945"
 drug_name: "Acetylsalicylic Acid"
 kg_predictions: 26
 dl_predictions: 178
-evidence_level: "L5"
-indication_count: 26
+evidence_level: "L1"
+indication_count: 9
 brands: []
 permalink: /drugs/acetylsalicylic-acid/
 ---

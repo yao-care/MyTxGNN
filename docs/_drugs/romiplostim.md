@@ -5,8 +5,8 @@ drugbank_id: "DB05332"
 drug_name: "Romiplostim"
 kg_predictions: 3
 dl_predictions: 123
-evidence_level: "L5"
-indication_count: 3
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/romiplostim/
 ---

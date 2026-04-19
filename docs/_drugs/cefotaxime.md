@@ -6,7 +6,7 @@ drug_name: "Cefotaxime"
 kg_predictions: 11
 dl_predictions: 97
 evidence_level: "L5"
-indication_count: 11
+indication_count: 0
 brands: []
 permalink: /drugs/cefotaxime/
 ---

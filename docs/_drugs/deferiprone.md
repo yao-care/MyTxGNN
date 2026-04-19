@@ -6,7 +6,7 @@ drug_name: "Deferiprone"
 kg_predictions: 48
 dl_predictions: 125
 evidence_level: "L5"
-indication_count: 48
+indication_count: 9
 brands: []
 permalink: /drugs/deferiprone/
 ---

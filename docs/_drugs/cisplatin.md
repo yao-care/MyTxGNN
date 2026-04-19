@@ -6,7 +6,7 @@ drug_name: "Cisplatin"
 kg_predictions: 42
 dl_predictions: 115
 evidence_level: "L5"
-indication_count: 42
+indication_count: 0
 brands: []
 permalink: /drugs/cisplatin/
 ---

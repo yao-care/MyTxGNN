@@ -5,8 +5,8 @@ drugbank_id: "DB00213"
 drug_name: "Pantoprazole"
 kg_predictions: 16
 dl_predictions: 22
-evidence_level: "L5"
-indication_count: 16
+evidence_level: "L1"
+indication_count: 6
 brands: []
 permalink: /drugs/pantoprazole/
 ---

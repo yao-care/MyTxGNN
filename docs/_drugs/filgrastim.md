@@ -5,8 +5,8 @@ drugbank_id: "DB00099"
 drug_name: "Filgrastim"
 kg_predictions: 16
 dl_predictions: 120
-evidence_level: "L5"
-indication_count: 16
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/filgrastim/
 ---

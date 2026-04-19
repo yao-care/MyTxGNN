@@ -6,7 +6,7 @@ drug_name: "Cinchocaine"
 kg_predictions: 1
 dl_predictions: 44
 evidence_level: "L5"
-indication_count: 1
+indication_count: 7
 brands: []
 permalink: /drugs/cinchocaine/
 ---

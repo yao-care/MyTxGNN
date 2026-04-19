@@ -5,8 +5,8 @@ drugbank_id: "DB00389"
 drug_name: "Carbimazole"
 kg_predictions: 12
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 12
+evidence_level: "L4"
+indication_count: 3
 brands: []
 permalink: /drugs/carbimazole/
 ---

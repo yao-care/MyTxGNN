@@ -5,8 +5,8 @@ drugbank_id: "DB01136"
 drug_name: "Carvedilol"
 kg_predictions: 28
 dl_predictions: 8
-evidence_level: "L5"
-indication_count: 28
+evidence_level: "L4"
+indication_count: 5
 brands: []
 permalink: /drugs/carvedilol/
 ---

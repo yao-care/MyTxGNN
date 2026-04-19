@@ -5,7 +5,7 @@ drugbank_id: "DB01156"
 drug_name: "Bupropion"
 kg_predictions: 10
 dl_predictions: 137
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 10
 brands: []
 permalink: /drugs/bupropion/

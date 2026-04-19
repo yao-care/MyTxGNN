@@ -6,7 +6,7 @@ drug_name: "Potassium Iodide"
 kg_predictions: 15
 dl_predictions: 28
 evidence_level: "L5"
-indication_count: 15
+indication_count: 2
 brands: []
 permalink: /drugs/potassium-iodide/
 ---

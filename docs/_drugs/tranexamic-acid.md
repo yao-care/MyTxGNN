@@ -6,7 +6,7 @@ drug_name: "Tranexamic Acid"
 kg_predictions: 18
 dl_predictions: 5
 evidence_level: "L5"
-indication_count: 18
+indication_count: 1
 brands: []
 permalink: /drugs/tranexamic-acid/
 ---

@@ -6,7 +6,7 @@ drug_name: "Ramucirumab"
 kg_predictions: 20
 dl_predictions: 750
 evidence_level: "L5"
-indication_count: 20
+indication_count: 10
 brands: []
 permalink: /drugs/ramucirumab/
 ---

@@ -6,7 +6,7 @@ drug_name: "Ibrutinib"
 kg_predictions: 45
 dl_predictions: 44
 evidence_level: "L5"
-indication_count: 45
+indication_count: 0
 brands: []
 permalink: /drugs/ibrutinib/
 ---

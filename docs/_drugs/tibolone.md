@@ -6,7 +6,7 @@ drug_name: "Tibolone"
 kg_predictions: 2
 dl_predictions: 38
 evidence_level: "L5"
-indication_count: 2
+indication_count: 0
 brands: []
 permalink: /drugs/tibolone/
 ---

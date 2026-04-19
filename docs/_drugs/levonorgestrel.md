@@ -5,8 +5,8 @@ drugbank_id: "DB00367"
 drug_name: "Levonorgestrel"
 kg_predictions: 24
 dl_predictions: 69
-evidence_level: "L5"
-indication_count: 24
+evidence_level: "L2"
+indication_count: 6
 brands: []
 permalink: /drugs/levonorgestrel/
 ---

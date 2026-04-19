@@ -5,8 +5,8 @@ drugbank_id: "DB01212"
 drug_name: "Ceftriaxone"
 kg_predictions: 27
 dl_predictions: 174
-evidence_level: "L5"
-indication_count: 27
+evidence_level: "L2"
+indication_count: 7
 brands: []
 permalink: /drugs/ceftriaxone/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB00993"
 drug_name: "Azathioprine"
 kg_predictions: 3
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 3
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/azathioprine/
 ---

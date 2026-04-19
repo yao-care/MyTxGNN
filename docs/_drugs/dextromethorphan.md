@@ -5,8 +5,8 @@ drugbank_id: "DB00514"
 drug_name: "Dextromethorphan"
 kg_predictions: 35
 dl_predictions: 40
-evidence_level: "L5"
-indication_count: 35
+evidence_level: "L2"
+indication_count: 6
 brands: []
 permalink: /drugs/dextromethorphan/
 ---

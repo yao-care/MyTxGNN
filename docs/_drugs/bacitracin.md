@@ -5,8 +5,8 @@ drugbank_id: "DB00626"
 drug_name: "Bacitracin"
 kg_predictions: 3
 dl_predictions: 269
-evidence_level: "L5"
-indication_count: 3
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/bacitracin/
 ---

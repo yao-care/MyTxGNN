@@ -6,7 +6,7 @@ drug_name: "Benzocaine"
 kg_predictions: 30
 dl_predictions: 47
 evidence_level: "L5"
-indication_count: 30
+indication_count: 1
 brands: []
 permalink: /drugs/benzocaine/
 ---

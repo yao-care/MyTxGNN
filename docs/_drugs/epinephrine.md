@@ -5,8 +5,8 @@ drugbank_id: "DB00668"
 drug_name: "Epinephrine"
 kg_predictions: 16
 dl_predictions: 81
-evidence_level: "L5"
-indication_count: 16
+evidence_level: "L1"
+indication_count: 4
 brands: []
 permalink: /drugs/epinephrine/
 ---

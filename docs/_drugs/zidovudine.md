@@ -5,7 +5,7 @@ drugbank_id: "DB00495"
 drug_name: "Zidovudine"
 kg_predictions: 6
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L1"
 indication_count: 6
 brands: []
 permalink: /drugs/zidovudine/

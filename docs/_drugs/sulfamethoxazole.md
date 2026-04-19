@@ -6,7 +6,7 @@ drug_name: "Sulfamethoxazole"
 kg_predictions: 27
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 27
+indication_count: 1
 brands: []
 permalink: /drugs/sulfamethoxazole/
 ---

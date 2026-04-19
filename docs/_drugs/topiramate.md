@@ -5,8 +5,8 @@ drugbank_id: "DB00273"
 drug_name: "Topiramate"
 kg_predictions: 48
 dl_predictions: 34
-evidence_level: "L5"
-indication_count: 48
+evidence_level: "L1"
+indication_count: 9
 brands: []
 permalink: /drugs/topiramate/
 ---

@@ -6,7 +6,7 @@ drug_name: "Nifedipine"
 kg_predictions: 27
 dl_predictions: 10
 evidence_level: "L5"
-indication_count: 27
+indication_count: 0
 brands: []
 permalink: /drugs/nifedipine/
 ---

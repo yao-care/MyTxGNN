@@ -5,8 +5,8 @@ drugbank_id: "DB00654"
 drug_name: "Latanoprost"
 kg_predictions: 34
 dl_predictions: 93
-evidence_level: "L5"
-indication_count: 34
+evidence_level: "L3"
+indication_count: 10
 brands: []
 permalink: /drugs/latanoprost/
 ---

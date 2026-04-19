@@ -6,7 +6,7 @@ drug_name: "Tigecycline"
 kg_predictions: 5
 dl_predictions: 61
 evidence_level: "L5"
-indication_count: 5
+indication_count: 0
 brands: []
 permalink: /drugs/tigecycline/
 ---

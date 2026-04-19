@@ -5,8 +5,8 @@ drugbank_id: "DB00499"
 drug_name: "Flutamide"
 kg_predictions: 3
 dl_predictions: 112
-evidence_level: "L5"
-indication_count: 3
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/flutamide/
 ---

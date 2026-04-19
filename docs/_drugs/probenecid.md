@@ -5,8 +5,8 @@ drugbank_id: "DB01032"
 drug_name: "Probenecid"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L4"
+indication_count: 3
 brands: []
 permalink: /drugs/probenecid/
 ---

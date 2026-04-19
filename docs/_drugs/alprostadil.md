@@ -5,8 +5,8 @@ drugbank_id: "DB00770"
 drug_name: "Alprostadil"
 kg_predictions: 18
 dl_predictions: 199
-evidence_level: "L5"
-indication_count: 18
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/alprostadil/
 ---

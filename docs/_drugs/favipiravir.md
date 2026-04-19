@@ -6,7 +6,7 @@ drug_name: "Favipiravir"
 kg_predictions: 2
 dl_predictions: 139
 evidence_level: "L5"
-indication_count: 2
+indication_count: 3
 brands: []
 permalink: /drugs/favipiravir/
 ---

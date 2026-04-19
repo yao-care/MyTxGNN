@@ -5,8 +5,8 @@ drugbank_id: "DB00836"
 drug_name: "Loperamide"
 kg_predictions: 2
 dl_predictions: 149
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L4"
+indication_count: 10
 brands: []
 permalink: /drugs/loperamide/
 ---

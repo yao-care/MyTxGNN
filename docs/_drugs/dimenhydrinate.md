@@ -6,7 +6,7 @@ drug_name: "Dimenhydrinate"
 kg_predictions: 30
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 30
+indication_count: 2
 brands: []
 permalink: /drugs/dimenhydrinate/
 ---

@@ -6,7 +6,7 @@ drug_name: "Mepolizumab"
 kg_predictions: 4
 dl_predictions: 87
 evidence_level: "L5"
-indication_count: 4
+indication_count: 5
 brands: []
 permalink: /drugs/mepolizumab/
 ---

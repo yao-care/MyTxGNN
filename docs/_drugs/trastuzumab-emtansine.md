@@ -5,8 +5,8 @@ drugbank_id: "DB05773"
 drug_name: "Trastuzumab Emtansine"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 2
+evidence_level: "L1"
+indication_count: 4
 brands: []
 permalink: /drugs/trastuzumab-emtansine/
 ---

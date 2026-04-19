@@ -6,7 +6,7 @@ drug_name: "Liraglutide"
 kg_predictions: 6
 dl_predictions: 12
 evidence_level: "L5"
-indication_count: 6
+indication_count: 0
 brands: []
 permalink: /drugs/liraglutide/
 ---

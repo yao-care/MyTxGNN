@@ -6,7 +6,7 @@ drug_name: "Phentermine"
 kg_predictions: 6
 dl_predictions: 13
 evidence_level: "L5"
-indication_count: 6
+indication_count: 4
 brands: []
 permalink: /drugs/phentermine/
 ---

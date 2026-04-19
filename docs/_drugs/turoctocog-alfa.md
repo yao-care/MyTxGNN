@@ -6,7 +6,7 @@ drug_name: "Turoctocog Alfa"
 kg_predictions: 6
 dl_predictions: 56
 evidence_level: "L5"
-indication_count: 6
+indication_count: 10
 brands: []
 permalink: /drugs/turoctocog-alfa/
 ---

@@ -6,7 +6,7 @@ drug_name: "Galcanezumab"
 kg_predictions: 4
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 4
+indication_count: 3
 brands: []
 permalink: /drugs/galcanezumab/
 ---

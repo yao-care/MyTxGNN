@@ -6,7 +6,7 @@ drug_name: "Edaravone"
 kg_predictions: 3
 dl_predictions: 64
 evidence_level: "L5"
-indication_count: 3
+indication_count: 2
 brands: []
 permalink: /drugs/edaravone/
 ---

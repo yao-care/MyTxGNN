@@ -6,7 +6,7 @@ drug_name: "Griseofulvin"
 kg_predictions: 42
 dl_predictions: 56
 evidence_level: "L5"
-indication_count: 42
+indication_count: 5
 brands: []
 permalink: /drugs/griseofulvin/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB08816"
 drug_name: "Ticagrelor"
 kg_predictions: 32
 dl_predictions: 145
-evidence_level: "L5"
-indication_count: 32
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/ticagrelor/
 ---

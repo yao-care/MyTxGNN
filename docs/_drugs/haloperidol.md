@@ -5,8 +5,8 @@ drugbank_id: "DB00502"
 drug_name: "Haloperidol"
 kg_predictions: 18
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 18
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/haloperidol/
 ---

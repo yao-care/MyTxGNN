@@ -6,7 +6,7 @@ drug_name: "Mebendazole"
 kg_predictions: 33
 dl_predictions: 114
 evidence_level: "L5"
-indication_count: 33
+indication_count: 1
 brands: []
 permalink: /drugs/mebendazole/
 ---

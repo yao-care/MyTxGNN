@@ -5,8 +5,8 @@ drugbank_id: "DB01167"
 drug_name: "Itraconazole"
 kg_predictions: 55
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 55
+evidence_level: "L4"
+indication_count: 1
 brands: []
 permalink: /drugs/itraconazole/
 ---

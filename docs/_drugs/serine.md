@@ -5,8 +5,8 @@ drugbank_id: "DB00133"
 drug_name: "Serine"
 kg_predictions: 54
 dl_predictions: 344
-evidence_level: "L5"
-indication_count: 54
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/serine/
 ---

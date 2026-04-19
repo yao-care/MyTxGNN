@@ -5,8 +5,8 @@ drugbank_id: "DB00550"
 drug_name: "Propylthiouracil"
 kg_predictions: 4
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 4
+evidence_level: "L1"
+indication_count: 3
 brands: []
 permalink: /drugs/propylthiouracil/
 ---

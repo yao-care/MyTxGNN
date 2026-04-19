@@ -6,7 +6,7 @@ drug_name: "Imidafenacin"
 kg_predictions: 1
 dl_predictions: 0
 evidence_level: "L5"
-indication_count: 1
+indication_count: 0
 brands: []
 permalink: /drugs/imidafenacin/
 ---

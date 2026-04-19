@@ -5,8 +5,8 @@ drugbank_id: "DB09036"
 drug_name: "Siltuximab"
 kg_predictions: 4
 dl_predictions: 227
-evidence_level: "L5"
-indication_count: 4
+evidence_level: "L3"
+indication_count: 8
 brands: []
 permalink: /drugs/siltuximab/
 ---

@@ -5,7 +5,7 @@ drugbank_id: "DB00640"
 drug_name: "Adenosine"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: "L3"
 indication_count: 2
 brands: []
 permalink: /drugs/adenosine/

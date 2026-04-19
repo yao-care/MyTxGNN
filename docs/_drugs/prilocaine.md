@@ -5,8 +5,8 @@ drugbank_id: "DB00750"
 drug_name: "Prilocaine"
 kg_predictions: 4
 dl_predictions: 618
-evidence_level: "L5"
-indication_count: 4
+evidence_level: "L2"
+indication_count: 10
 brands: []
 permalink: /drugs/prilocaine/
 ---

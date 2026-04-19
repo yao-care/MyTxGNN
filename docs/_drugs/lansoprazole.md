@@ -5,8 +5,8 @@ drugbank_id: "DB00448"
 drug_name: "Lansoprazole"
 kg_predictions: 27
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 27
+evidence_level: "L2"
+indication_count: 2
 brands: []
 permalink: /drugs/lansoprazole/
 ---

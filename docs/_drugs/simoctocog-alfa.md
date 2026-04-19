@@ -5,8 +5,8 @@ drugbank_id: "DB09108"
 drug_name: "Simoctocog Alfa"
 kg_predictions: 8
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 8
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/simoctocog-alfa/
 ---

@@ -5,8 +5,8 @@ drugbank_id: "DB00422"
 drug_name: "Methylphenidate"
 kg_predictions: 35
 dl_predictions: 0
-evidence_level: "L5"
-indication_count: 35
+evidence_level: "L1"
+indication_count: 4
 brands: []
 permalink: /drugs/methylphenidate/
 ---

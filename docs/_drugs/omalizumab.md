@@ -5,8 +5,8 @@ drugbank_id: "DB00043"
 drug_name: "Omalizumab"
 kg_predictions: 28
 dl_predictions: 255
-evidence_level: "L5"
-indication_count: 28
+evidence_level: "L1"
+indication_count: 10
 brands: []
 permalink: /drugs/omalizumab/
 ---
