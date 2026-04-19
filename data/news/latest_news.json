@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-19T07:17:30.067490",
+  "fetched": "2026-04-19T08:52:37.913390",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply",
@@ -124,16 +124,6 @@
         "hospital",
         "patient",
         "hospital"
-      ]
-    },
-    {
-      "title": "Bukit Aman: Two policemen among 87 testing positive for drugs in Ipoh entertainment outlet raids",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/19/bukit-aman-two-policemen-among-87-testing-positive-for-drugs-in-ipoh-entertainment-outlet-raids/216849",
-      "source": "Malay Mail",
-      "published": "2026-04-19T02:59:00",
-      "summary": "KUALA LUMPUR, April 19 — Two policemen tested positive for drugs after being detained in raids on entertainment ou...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
