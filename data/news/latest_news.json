@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-19T02:33:36.647441",
+  "fetched": "2026-04-19T05:27:42.601649",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply",
@@ -114,16 +114,26 @@
       ]
     },
     {
-      "title": "Prescribing growth: Private hospitals drive Malaysia’s RM7b medical tourism ambition",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/19/prescribing-growth-private-hospitals-drive-malaysias-rm7b-medical-tourism-ambition/216438",
+      "title": "Batu Pahat hospital gets RM1.8m to upgrade patient services",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/19/batu-pahat-hospital-gets-rm18m-to-upgrade-patient-services/216863",
       "source": "Malay Mail",
-      "published": "2026-04-18T23:00:00",
-      "summary": "KUALA LUMPUR, April 19 — Malaysia’s private healthcare sector has evolved into a global medical tourism powe...",
+      "published": "2026-04-19T05:01:25",
+      "summary": "BATU PAHAT, April 19 — The Ministry of Health (MOH) has approved a special allocation of RM1.8 million to upgrade...",
       "keywords_matched": [
         "health",
-        "medical",
         "hospital",
+        "patient",
         "hospital"
+      ]
+    },
+    {
+      "title": "Bukit Aman: Two policemen among 87 testing positive for drugs in Ipoh entertainment outlet raids",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/19/bukit-aman-two-policemen-among-87-testing-positive-for-drugs-in-ipoh-entertainment-outlet-raids/216849",
+      "source": "Malay Mail",
+      "published": "2026-04-19T02:59:00",
+      "summary": "KUALA LUMPUR, April 19 — Two policemen tested positive for drugs after being detained in raids on entertainment ou...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
