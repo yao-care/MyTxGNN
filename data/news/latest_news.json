@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-20T02:34:01.822271",
+  "fetched": "2026-04-20T05:39:49.795815",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "A Profession Built On Sacrifice Can’t Survive On Sacrifice Alone — Doctor",
+      "url": "https://codeblue.galencentre.org/2026/04/a-profession-built-on-sacrifice-cant-survive-on-sacrifice-alone-doctor/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-20T03:30:00",
+      "summary": "The question is not whether doctors love their country enough; the question is whether the system allows them to stay. Doctors in the public health care system face long hours, heavy workloads, and limited job security (particularly for contract officers). The post A Profession Built On Sacrifice Can’t Survive On Sacrifice Alone — Doctor appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
     {
       "title": "Perodua Halts Popular Diabetes Injection Prescriptions For Staff",
       "url": "https://codeblue.galencentre.org/2026/04/perodua-halts-popular-diabetes-injection-prescriptions-for-staff/",
@@ -107,12 +118,25 @@
       "keywords_matched": []
     },
     {
-      "title": "RM100 Allowance For Nurses For 17 Years: A Test Of National Leadership — MMA",
-      "url": "https://codeblue.galencentre.org/2026/04/rm100-allowance-for-nurses-for-17-years-a-test-of-national-leadership-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-16T08:39:39",
-      "summary": "MMA calls for an immediate decision to increase the post-basic nursing allowance to a minimum of RM500 per month. The post RM100 Allowance For Nurses For 17 Years: A Test Of National Leadership — MMA appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Health Ministry: Study shows just 14pc of Malaysians over 60  ‘ageing well’",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/20/health-ministry-study-shows-just-14pc-of-malaysians-over-60-ageing-well/216992",
+      "source": "Malay Mail",
+      "published": "2026-04-20T04:50:11",
+      "summary": "PUTRAJAYA, April 20 — Only 14.7 per cent of Malaysians aged 60 and above are living well, the latest National Heal...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "China deal helps Malaysia avoid medical device shortages, says Health Ministry",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/20/china-deal-helps-malaysia-avoid-medical-device-shortages-says-health-ministry/216962",
+      "source": "Malay Mail",
+      "published": "2026-04-20T03:23:36",
+      "summary": "KUALA LUMPUR, April 20 — The supply of medical devices in Malaysia remains stable and under control despite the gl...",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
     }
   ]
 }
