@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-20T08:04:46.832679",
+  "fetched": "2026-04-20T10:46:51.458848",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "NHMS 2025 Highlights Urgent Need For Dementia Action — DAMAI, ADFM, JOBADA, Dementia Society Perak & Penang Dementia Association",
+      "url": "https://codeblue.galencentre.org/2026/04/nhms-2025-highlights-urgent-need-for-dementia-action-damai-adfm-jobada-dementia-society-perak-penang-dementia-association/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-20T08:50:29",
+      "summary": "We are deeply concerned by the finding that 10% of Malaysians aged 60 years and above are now living with dementia. This represents a significant increase from the 8.5% prevalence of probable dementia among older persons recorded in NHMS 2018. The post NHMS 2025 Highlights Urgent Need For Dementia Action — DAMAI, ADFM, JOBADA, Dementia Society Perak & Penang Dementia Association appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "A Profession Built On Sacrifice Can’t Survive On Sacrifice Alone — Doctor",
       "url": "https://codeblue.galencentre.org/2026/04/a-profession-built-on-sacrifice-cant-survive-on-sacrifice-alone-doctor/",
@@ -110,29 +118,21 @@
       "keywords_matched": []
     },
     {
-      "title": "NKF: Reduce Dialysis Frequency If Shortages Grow Acute",
-      "url": "https://codeblue.galencentre.org/2026/04/nkf-reduce-dialysis-frequency-if-shortages-grow-acute/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-17T01:20:27",
-      "summary": "To address a shortage of dialysis products, NKF moots reducing dialysis frequency. Maaedicare and Socso are monitoring stock levels. A nephrologist urges MOH to form a nephrology task force and activate a central command structure to control distribution. The post NKF: Reduce Dialysis Frequency If Shortages Grow Acute appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Health Ministry: Study shows just 14pc of Malaysians over 60  ‘ageing well’",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/20/health-ministry-study-shows-just-14pc-of-malaysians-over-60-ageing-well/216992",
+      "title": "Atomic Energy department finds no radiation compliance issues after investigation into UMMC’s alleged ‘cancer cluster’",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/20/atomic-energy-department-finds-no-radiation-compliance-issues-after-investigation-into-ummcs-alleged-cancer-cluster/217047",
       "source": "Malay Mail",
-      "published": "2026-04-20T04:50:11",
-      "summary": "PUTRAJAYA, April 20 — Only 14.7 per cent of Malaysians aged 60 and above are living well, the latest National Heal...",
+      "published": "2026-04-20T10:05:27",
+      "summary": "DENGKIL, 20 April 2026 – The Ministry of Science, Technology and Innovation (MOSTI), through the Atomic Energy Dep...",
       "keywords_matched": [
-        "health"
+        "cancer"
       ]
     },
     {
-      "title": "China deal helps Malaysia avoid medical device shortages, says Health Ministry",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/20/china-deal-helps-malaysia-avoid-medical-device-shortages-says-health-ministry/216962",
+      "title": "Health Ministry deploys medical and psychosocial teams to support 9,000 Sandakan fire victims",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/20/health-ministry-deploys-medical-and-psychosocial-teams-to-support-9000-sandakan-fire-victims/217039",
       "source": "Malay Mail",
-      "published": "2026-04-20T03:23:36",
-      "summary": "KUALA LUMPUR, April 20 — The supply of medical devices in Malaysia remains stable and under control despite the gl...",
+      "published": "2026-04-20T09:10:02",
+      "summary": "PUTRAJAYA, April 20 — The Ministry of Health (MOH) has mobilised frontline health teams to support victims of a fi...",
       "keywords_matched": [
         "health",
         "medical"
