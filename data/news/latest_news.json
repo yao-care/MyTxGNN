@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-19T23:34:57.152172",
+  "fetched": "2026-04-20T02:34:01.822271",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,17 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Perodua Halts Popular Diabetes Injection Prescriptions For Staff",
+      "url": "https://codeblue.galencentre.org/2026/04/perodua-halts-popular-diabetes-injection-prescriptions-for-staff/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-20T02:00:00",
+      "summary": "Perodua Manufacturing directs panel clinics to stop prescribing GLP-1 and GIP/GLP-1 shots for diabetes to staff, pending further evaluation, and to prescribe other oral hypoglycaemic drugs instead. GLP-1 and GIP/GLP-1 meds treat both diabetes and obesity. The post Perodua Halts Popular Diabetes Injection Prescriptions For Staff appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug",
+        "diabetes"
+      ]
+    },
     {
       "title": "Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply",
       "url": "https://codeblue.galencentre.org/2026/04/malaysia-makes-deal-with-china-to-stabilise-medical-devices-supply/",
@@ -102,16 +113,6 @@
       "published": "2026-04-16T08:39:39",
       "summary": "MMA calls for an immediate decision to increase the post-basic nursing allowance to a minimum of RM500 per month. The post RM100 Allowance For Nurses For 17 Years: A Test Of National Leadership — MMA appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Ensuring Sustainability And Equity In Malaysia’s Dental Health Care System — MPDPA",
-      "url": "https://codeblue.galencentre.org/2026/04/ensuring-sustainability-and-equity-in-malaysias-dental-health-care-system-mpdpa/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-16T07:49:49",
-      "summary": "Malaysians must continue to receive safe, accessible and high-quality dental care, within a system that is sustainable and equitable for all. The post Ensuring Sustainability And Equity In Malaysia’s Dental Health Care System — MPDPA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
     }
   ]
 }
