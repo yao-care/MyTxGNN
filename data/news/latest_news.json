@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-21T07:47:40.282026",
+  "fetched": "2026-04-21T09:24:47.313583",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Malaysia Short Of Nearly 6,000 Vets, Says DVS",
+      "url": "https://codeblue.galencentre.org/2026/04/malaysia-short-of-nearly-6000-vets-says-dvs/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-21T08:45:51",
+      "summary": "Malaysia is facing a severe shortage of nearly 6,000 veterinarians, says the DVS, as the country only has 2,600 active vets compared to 8,500 needed. The ratio of vets to people in Malaysia is 1:13,700, far worse than the international standard of 1:5,000. The post Malaysia Short Of Nearly 6,000 Vets, Says DVS appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Selangor Expects Up To 25% Medical Cost Hike",
       "url": "https://codeblue.galencentre.org/2026/04/selangor-expects-up-to-25-medical-cost-hike/",
@@ -101,19 +109,6 @@
       "summary": "Malaysia's MDA has reached an agreement with China to increase resin and naphtha supplies for the manufacture of medical devices in Malaysia, says MOH in admitting the \"direct impact\" of the global energy crisis on availability of critical medical devices. The post Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply appeared first on CodeBlue .",
       "keywords_matched": [
         "medical"
-      ]
-    },
-    {
-      "title": "UMMC Denies Radiation Exposure Caused Staff Cancer ‘Cluster’",
-      "url": "https://codeblue.galencentre.org/2026/04/ummc-denies-radiation-exposure-caused-staff-cancer-cluster/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-17T08:58:50",
-      "summary": "UMMC denies claims that radiation safety violations caused a cancer \"cluster\" in its radiology department. Three staff were diagnosed with cancer, four with thyroid diseases. The hospital says staff radiation exposure levels were below prescribed limits. The post UMMC Denies Radiation Exposure Caused Staff Cancer ‘Cluster’ appeared first on CodeBlue .",
-      "keywords_matched": [
-        "disease",
-        "cancer",
-        "hospital",
-        "hospital"
       ]
     }
   ]
