@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-21T02:29:42.025362",
+  "fetched": "2026-04-21T05:26:07.660909",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,18 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "MOH Probe Clears UMMC Over Cancer ‘Cluster’: Mosti",
+      "url": "https://codeblue.galencentre.org/2026/04/moh-probe-clears-ummc-over-cancer-cluster-mosti/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-21T03:30:00",
+      "summary": "Mosti says a probe by MOH's medical radiation regulatory division didn't find radiation safety breaches that could be linked to an alleged cancer cluster at UMMC. The regulator of radiation for medical purposes is the Health DG. The post MOH Probe Clears UMMC Over Cancer ‘Cluster’: Mosti appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "cancer"
+      ]
+    },
     {
       "title": "Only 15% Of Malaysian Seniors Ageing Well, Dementia Rate Up: NHMS 2025",
       "url": "https://codeblue.galencentre.org/2026/04/only-15-of-malaysian-seniors-ageing-well-dementia-rate-up-nhms-2025/",
@@ -105,17 +117,6 @@
         "health",
         "medical",
         "disease",
-        "doctor"
-      ]
-    },
-    {
-      "title": "The State Legislative Assembly Isn’t A House To Recite Statistics, But To Solve Problems — Perak Doctor",
-      "url": "https://codeblue.galencentre.org/2026/04/the-state-legislative-assembly-isnt-a-house-to-recite-statistics-but-to-solve-problems-perak-doctor/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-17T02:46:28",
-      "summary": "A state legislative assembly is where elected reps are meant to translate numbers into policy. Health care manpower is heavily shaped by federal policy, but this doesn't absolve state govts of responsibility. Perak should learn from Johor, Sabah, Sarawak. The post The State Legislative Assembly Isn’t A House To Recite Statistics, But To Solve Problems — Perak Doctor appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
         "doctor"
       ]
     }
