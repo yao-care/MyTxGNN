@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-21T09:24:47.313583",
+  "fetched": "2026-04-21T11:05:12.755263",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Malaysia Short Of Nearly 6,000 Vets, Says DVS",
@@ -109,6 +109,16 @@
       "summary": "Malaysia's MDA has reached an agreement with China to increase resin and naphtha supplies for the manufacture of medical devices in Malaysia, says MOH in admitting the \"direct impact\" of the global energy crisis on availability of critical medical devices. The post Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply appeared first on CodeBlue .",
       "keywords_matched": [
         "medical"
+      ]
+    },
+    {
+      "title": "Rolls-Royce Cullinan, Porsche Taycan among 18 luxury cars seized as KL cops smash drug ring",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/21/rolls-royce-cullinan-porsche-taycan-among-18-luxury-cars-seized-as-kl-cops-smash-drug-ring/217163",
+      "source": "Malay Mail",
+      "published": "2026-04-21T09:29:11",
+      "summary": "KUALA LUMPUR, April 21 — A Rolls-Royce Cullinan, Porsche Taycan 4S and Mercedes-Benz AMG were among 18 luxury vehi...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
