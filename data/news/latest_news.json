@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-22T07:44:53.793865",
+  "fetched": "2026-04-22T09:19:06.568259",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Scammer Nabbed After Collecting RM30 Ward Admission ‘Fee’ At HSAJB",
+      "url": "https://codeblue.galencentre.org/2026/04/scammer-nabbed-after-collecting-rm30-ward-admission-fee-at-hsajb/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-22T09:03:40",
+      "summary": "A woman has been arrested after allegedly impersonating as a staff member at HSAJB and collecting an RM30 ward admission \"fee\" from patients or their next-of-kin. The Johor hospital tells the public to make payments only at authorised payment counters. The post Scammer Nabbed After Collecting RM30 Ward Admission ‘Fee’ At HSAJB appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "patient",
+        "hospital"
+      ]
+    },
     {
       "title": "NHMS 2025: Malaysia Must Accelerate Healthy Ageing Reforms — Malaysian Society of Geriatric Medicine & Gerontological Association of Malaysia",
       "url": "https://codeblue.galencentre.org/2026/04/nhms-2025-malaysia-must-accelerate-healthy-ageing-reforms-malaysian-society-of-geriatric-medicine-gerontological-association-of-malaysia/",
@@ -102,24 +114,6 @@
       "keywords_matched": [
         "doctor",
         "clinical"
-      ]
-    },
-    {
-      "title": "NHMS 2025 Highlights Urgent Need For Dementia Action — DAMAI, ADFM, JOBADA, Dementia Society Perak & Penang Dementia Association",
-      "url": "https://codeblue.galencentre.org/2026/04/nhms-2025-highlights-urgent-need-for-dementia-action-damai-adfm-jobada-dementia-society-perak-penang-dementia-association/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-20T08:50:29",
-      "summary": "We are deeply concerned by the finding that 10% of Malaysians aged 60 years and above are now living with dementia. This represents a significant increase from the 8.5% prevalence of probable dementia among older persons recorded in NHMS 2018. The post NHMS 2025 Highlights Urgent Need For Dementia Action — DAMAI, ADFM, JOBADA, Dementia Society Perak & Penang Dementia Association appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Sipitang residents warned after crocodile seen near water treatment plant",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/22/sipitang-residents-warned-after-crocodile-seen-near-water-treatment-plant/217214",
-      "source": "Malay Mail",
-      "published": "2026-04-22T02:26:32",
-      "summary": "SIPITANG, April 22 — A crocodile was sighted swimming in Sungai Kampung Mesapol near a water treatment plant on Mo...",
-      "keywords_matched": [
-        "treatment"
       ]
     }
   ]
