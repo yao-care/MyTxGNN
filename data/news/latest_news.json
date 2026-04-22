@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-21T23:33:48.697324",
+  "fetched": "2026-04-22T02:28:00.539446",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,16 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Predatory Audiology Practices Fuel Malaysia’s Dementia Crisis — Dr Bryan Kek",
+      "url": "https://codeblue.galencentre.org/2026/04/predatory-audiology-practices-fuel-malaysias-dementia-crisis-dr-bryan-kek/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-22T02:00:00",
+      "summary": "If we do not regulate the cost and quality of hearing health today, our health care system will pay a much higher price for dementia wards tomorrow. The post Predatory Audiology Practices Fuel Malaysia’s Dementia Crisis — Dr Bryan Kek appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Malaysia Short Of Nearly 6,000 Vets, Says DVS",
       "url": "https://codeblue.galencentre.org/2026/04/malaysia-short-of-nearly-6000-vets-says-dvs/",
@@ -102,23 +112,13 @@
       ]
     },
     {
-      "title": "Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply",
-      "url": "https://codeblue.galencentre.org/2026/04/malaysia-makes-deal-with-china-to-stabilise-medical-devices-supply/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-17T11:05:38",
-      "summary": "Malaysia's MDA has reached an agreement with China to increase resin and naphtha supplies for the manufacture of medical devices in Malaysia, says MOH in admitting the \"direct impact\" of the global energy crisis on availability of critical medical devices. The post Malaysia Makes Deal With China To Stabilise Medical Devices’ Supply appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Rolls-Royce Cullinan, Porsche Taycan among 18 luxury cars seized as KL cops smash drug ring",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/21/rolls-royce-cullinan-porsche-taycan-among-18-luxury-cars-seized-as-kl-cops-smash-drug-ring/217163",
+      "title": "Sipitang residents warned after crocodile seen near water treatment plant",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/22/sipitang-residents-warned-after-crocodile-seen-near-water-treatment-plant/217214",
       "source": "Malay Mail",
-      "published": "2026-04-21T09:29:11",
-      "summary": "KUALA LUMPUR, April 21 — A Rolls-Royce Cullinan, Porsche Taycan 4S and Mercedes-Benz AMG were among 18 luxury vehi...",
+      "published": "2026-04-22T02:26:32",
+      "summary": "SIPITANG, April 22 — A crocodile was sighted swimming in Sungai Kampung Mesapol near a water treatment plant on Mo...",
       "keywords_matched": [
-        "drug"
+        "treatment"
       ]
     }
   ]
