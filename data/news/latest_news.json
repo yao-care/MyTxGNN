@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-22T11:03:40.485590",
+  "fetched": "2026-04-22T13:24:18.009277",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Scammer Nabbed After Collecting RM30 Ward Admission ‘Fee’ At HSAJB",
@@ -114,6 +114,18 @@
       "keywords_matched": [
         "doctor",
         "clinical"
+      ]
+    },
+    {
+      "title": "MyUBAT app can verify all drug holograms, Health Ministry says amid safety concerns",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/22/myubat-app-can-verify-all-drug-holograms-health-ministry-says-amid-safety-concerns/217300",
+      "source": "Malay Mail",
+      "published": "2026-04-22T12:22:28",
+      "summary": "PUTRAJAYA, April 22 — The Ministry of Health Malaysia (MOH) has refuted claims of a failure in the verification sy...",
+      "keywords_matched": [
+        "health",
+        "drug",
+        "ubat"
       ]
     }
   ]
