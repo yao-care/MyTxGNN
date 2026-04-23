@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-23T05:28:42.188770",
+  "fetched": "2026-04-23T07:49:59.575058",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,47 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Autism: Turning Awareness Into Acceptance And Action — OKU Card Holder",
+      "url": "https://codeblue.galencentre.org/2026/04/autism-turning-awareness-into-acceptance-and-action/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-23T07:30:00",
+      "summary": "The government must urgently amend Articles 8(2) and 12(1) of the Federal Constitution to explicitly include “disability” as a prohibited ground of discrimination. The post Autism: Turning Awareness Into Acceptance And Action — OKU Card Holder appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Bukit Gasing Rep Wants Unconditional Coverage Of Pre-Existing Conditions Under Base MHIT",
+      "url": "https://codeblue.galencentre.org/2026/04/bukit-gasing-rep-wants-unconditional-coverage-of-pre-existing-conditions-under-base-mhit/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-23T06:17:50",
+      "summary": "Bukit Gasing rep Rajiv Rishyakaran demands unconditional coverage of pre-existing conditions under Base MHIT, not just \"stable\" cases. He asks what percentage of the adult population living with chronic disease would qualify for the health insurance plan. The post Bukit Gasing Rep Wants Unconditional Coverage Of Pre-Existing Conditions Under Base MHIT appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "disease"
+      ]
+    },
+    {
+      "title": "France-Led ‘Healthier Food’ Model In Malaysia Targets Value Over Price",
+      "url": "https://codeblue.galencentre.org/2026/04/france-led-healthier-food-model-in-malaysia-targets-value-over-price/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-23T06:00:00",
+      "summary": "France-backed Biru-Putih-Hati eggs and meat in Malaysia cost about 20% more, but cut waste and improve nutrition from better animal feed. Uptake hinges on consumer trust and wider availability, as local diets shift toward processed foods and eating out. The post France-Led ‘Healthier Food’ Model In Malaysia Targets Value Over Price appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Malaysian EMS Provider Marks Sixth Asia-Pacific Award Since 2020",
+      "url": "https://codeblue.galencentre.org/2026/04/malaysian-ems-provider-marks-sixth-asia-pacific-award-since-2020/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-23T05:54:33",
+      "summary": "First Ambulance Services has been named Ambulance Service of the Year (Asia-Pacific) at the Global Health Asia-Pacific Healthcare Awards for the sixth time since 2020. The post Malaysian EMS Provider Marks Sixth Asia-Pacific Award Since 2020 appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Beyond Maternal Health: Rethinking Women’s Health Policy",
       "url": "https://codeblue.galencentre.org/2026/04/beyond-maternal-health-rethinking-womens-health-policy/",
@@ -76,42 +115,24 @@
       ]
     },
     {
-      "title": "Malaysia Short Of Nearly 6,000 Vets, Says DVS",
-      "url": "https://codeblue.galencentre.org/2026/04/malaysia-short-of-nearly-6000-vets-says-dvs/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-21T08:45:51",
-      "summary": "Malaysia is facing a severe shortage of nearly 6,000 veterinarians, says the DVS, as the country only has 2,600 active vets compared to 8,500 needed. The ratio of vets to people in Malaysia is 1:13,700, far worse than the international standard of 1:5,000. The post Malaysia Short Of Nearly 6,000 Vets, Says DVS appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Selangor Expects Up To 25% Medical Cost Hike",
-      "url": "https://codeblue.galencentre.org/2026/04/selangor-expects-up-to-25-medical-cost-hike/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-21T06:29:44",
-      "summary": "Selangor MB Amirudin Shari expects medical costs to increase by 15% to 25% amid the Persian Gulf conflict, noting that nearly 70% to 80% of medicines for Malaysia are sourced from overseas. The post Selangor Expects Up To 25% Medical Cost Hike appeared first on CodeBlue .",
+      "title": "No evidence of cancer cluster at UMMC, Health Ministry says after probe into viral claims",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/no-evidence-of-cancer-cluster-at-ummc-health-ministry-says-after-probe-into-viral-claims/217378",
+      "source": "Malay Mail",
+      "published": "2026-04-23T06:57:33",
+      "summary": "PUTRAJAYA, April 23 — The Ministry of Health (MOH) has found no technical evidence to support allegations of a can...",
       "keywords_matched": [
-        "medical",
-        "medicine"
+        "health",
+        "cancer"
       ]
     },
     {
-      "title": "No Look-Back, No Way Forward? Why Malaysia’s Insurance Reform Still Leaves HIV Behind — Mohamad Zakifikri Mohamad Nor",
-      "url": "https://codeblue.galencentre.org/2026/04/no-look-back-no-way-forward-why-malaysias-insurance-reform-still-leaves-hiv-behind/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-21T05:30:00",
-      "summary": "The “no look-back” clause asks insurers to stop looking into the past. But if HIV remains excluded, Malaysia’s insurance system is still looking away from the future. The post No Look-Back, No Way Forward? Why Malaysia’s Insurance Reform Still Leaves HIV Behind — Mohamad Zakifikri Mohamad Nor appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "MOH Probe Clears UMMC Over Cancer ‘Cluster’: Mosti",
-      "url": "https://codeblue.galencentre.org/2026/04/moh-probe-clears-ummc-over-cancer-cluster-mosti/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-21T03:30:00",
-      "summary": "Mosti says a probe by MOH's medical radiation regulatory division didn't find radiation safety breaches that could be linked to an alleged cancer cluster at UMMC. The regulator of radiation for medical purposes is the Health DG. The post MOH Probe Clears UMMC Over Cancer ‘Cluster’: Mosti appeared first on CodeBlue .",
+      "title": "Not a producer, but a pit stop: DIGP says Malaysia still major drug transit point",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/not-a-producer-but-a-pit-stop-digp-says-malaysia-still-major-drug-transit-point/217367",
+      "source": "Malay Mail",
+      "published": "2026-04-23T06:02:26",
+      "summary": "GEORGE TOWN, April 23 — Malaysia remains a major transit point for international drug trafficking syndicates, as e...",
       "keywords_matched": [
-        "health",
-        "medical",
-        "cancer"
+        "drug"
       ]
     },
     {
