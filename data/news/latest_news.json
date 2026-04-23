@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-23T07:49:59.575058",
+  "fetched": "2026-04-23T09:26:39.801451",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 15,
   "items": [
     {
       "title": "Autism: Turning Awareness Into Acceptance And Action — OKU Card Holder",
@@ -115,6 +115,36 @@
       ]
     },
     {
+      "title": "Police bust homestay hopping syndicate in Sarawak’s biggest drug haul to date",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/police-bust-homestay-hopping-syndicate-in-sarawaks-biggest-drug-haul-to-date/217400",
+      "source": "Malay Mail",
+      "published": "2026-04-23T09:25:09",
+      "summary": "KUCHING, April 23 — A drug syndicate’s tactic of renting homestay premises as packaging and storage centres...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Melaka police chief: Toddler tested positive after accidentally ingesting suspected drug-laced sweets",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/melaka-police-chief-toddler-tested-positive-after-accidentally-ingesting-suspected-drug-laced-sweets/217393",
+      "source": "Malay Mail",
+      "published": "2026-04-23T08:47:15",
+      "summary": "KUALA LUMPUR, April 23 — A three-year-old girl is believed to have tested positive for drugs after consuming sweet...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Malaysia to target fuel smugglers with designated judges and fast-track trials",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/malaysia-to-target-fuel-smugglers-with-designated-judges-and-fast-track-trials/217388",
+      "source": "Malay Mail",
+      "published": "2026-04-23T08:32:07",
+      "summary": "JOHOR BAHRU, April 23 — The government is moving to expedite court proceedings for cases involving the smuggling o...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
       "title": "No evidence of cancer cluster at UMMC, Health Ministry says after probe into viral claims",
       "url": "https://www.malaymail.com/news/malaysia/2026/04/23/no-evidence-of-cancer-cluster-at-ummc-health-ministry-says-after-probe-into-viral-claims/217378",
       "source": "Malay Mail",
@@ -133,16 +163,6 @@
       "summary": "GEORGE TOWN, April 23 — Malaysia remains a major transit point for international drug trafficking syndicates, as e...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Khaled Nordin: Eight Malaysian firms getting RM1.4b boost for warship MRO",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/khaled-nordin-eight-malaysian-firms-getting-rm14b-boost-for-warship-mro/217327",
-      "source": "Malay Mail",
-      "published": "2026-04-23T01:52:41",
-      "summary": "KUALA LUMPUR, April 23 — The Ministry of Defence has awarded eight Industrial Collaboration Programme (ICP) offer...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
