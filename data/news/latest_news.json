@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-23T02:31:03.123542",
+  "fetched": "2026-04-23T05:28:42.188770",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Beyond Maternal Health: Rethinking Women’s Health Policy",
+      "url": "https://codeblue.galencentre.org/2026/04/beyond-maternal-health-rethinking-womens-health-policy/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-23T03:30:00",
+      "summary": "Malaysia has built strong foundations in maternal and reproductive health. The next step is to build on those foundations. This includes linking prevention, screening, and long-term management of chronic conditions alongside reproductive health services. The post Beyond Maternal Health: Rethinking Women’s Health Policy appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Too Many Agencies Involved In Doctor Workforce Pipeline: Health DG",
       "url": "https://codeblue.galencentre.org/2026/04/too-many-agencies-involved-in-doctor-workforce-pipeline-health-dg/",
@@ -105,18 +115,6 @@
       ]
     },
     {
-      "title": "Only 15% Of Malaysian Seniors Ageing Well, Dementia Rate Up: NHMS 2025",
-      "url": "https://codeblue.galencentre.org/2026/04/only-15-of-malaysian-seniors-ageing-well-dementia-rate-up-nhms-2025/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-21T02:29:18",
-      "summary": "NHMS 2025 reveals a poor state of health among Malaysian seniors: only 15% ageing well, dementia prevalence rose to 10%, and high prevalence of NCDs (diabetes: 39%, hypertension: 73%, high cholesterol: 76%). About 68% live with at least 2 chronic diseases. The post Only 15% Of Malaysian Seniors Ageing Well, Dementia Rate Up: NHMS 2025 appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "disease",
-        "diabetes"
-      ]
-    },
-    {
       "title": "Khaled Nordin: Eight Malaysian firms getting RM1.4b boost for warship MRO",
       "url": "https://www.malaymail.com/news/malaysia/2026/04/23/khaled-nordin-eight-malaysian-firms-getting-rm14b-boost-for-warship-mro/217327",
       "source": "Malay Mail",
@@ -124,18 +122,6 @@
       "summary": "KUALA LUMPUR, April 23 — The Ministry of Defence has awarded eight Industrial Collaboration Programme (ICP) offer...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "MyUBAT app can verify all drug holograms, Health Ministry says amid safety concerns",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/22/myubat-app-can-verify-all-drug-holograms-health-ministry-says-amid-safety-concerns/217300",
-      "source": "Malay Mail",
-      "published": "2026-04-22T12:22:28",
-      "summary": "PUTRAJAYA, April 22 — The Ministry of Health Malaysia (MOH) has refuted claims of a failure in the verification sy...",
-      "keywords_matched": [
-        "health",
-        "drug",
-        "ubat"
       ]
     }
   ]
