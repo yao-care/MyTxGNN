@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-23T09:26:39.801451",
+  "fetched": "2026-04-23T11:06:51.793899",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Ex-UMMC Radiographer To File Negligence Suit Over Alleged Radiation Exposure",
+      "url": "https://codeblue.galencentre.org/2026/04/ex-ummc-radiographer-to-file-negligence-suit-over-alleged-radiation-exposure/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-23T10:33:36",
+      "summary": "A former UMMC radiographer who developed stage 4 lymphoma plans to sue for negligence, alleging SOP breaches. So far, she is the sole claimant from the so-called cancer \"cluster\" in her proposed suit. She was deemed unfit last year to continue working. The post Ex-UMMC Radiographer To File Negligence Suit Over Alleged Radiation Exposure appeared first on CodeBlue .",
+      "keywords_matched": [
+        "cancer"
+      ]
+    },
     {
       "title": "Autism: Turning Awareness Into Acceptance And Action — OKU Card Holder",
       "url": "https://codeblue.galencentre.org/2026/04/autism-turning-awareness-into-acceptance-and-action/",
@@ -105,16 +115,6 @@
       ]
     },
     {
-      "title": "Predatory Audiology Practices Fuel Malaysia’s Dementia Crisis — Dr Bryan Kek",
-      "url": "https://codeblue.galencentre.org/2026/04/predatory-audiology-practices-fuel-malaysias-dementia-crisis-dr-bryan-kek/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-22T02:00:00",
-      "summary": "If we do not regulate the cost and quality of hearing health today, our health care system will pay a much higher price for dementia wards tomorrow. The post Predatory Audiology Practices Fuel Malaysia’s Dementia Crisis — Dr Bryan Kek appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
       "title": "Police bust homestay hopping syndicate in Sarawak’s biggest drug haul to date",
       "url": "https://www.malaymail.com/news/malaysia/2026/04/23/police-bust-homestay-hopping-syndicate-in-sarawaks-biggest-drug-haul-to-date/217400",
       "source": "Malay Mail",
@@ -142,27 +142,6 @@
       "summary": "JOHOR BAHRU, April 23 — The government is moving to expedite court proceedings for cases involving the smuggling o...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "No evidence of cancer cluster at UMMC, Health Ministry says after probe into viral claims",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/no-evidence-of-cancer-cluster-at-ummc-health-ministry-says-after-probe-into-viral-claims/217378",
-      "source": "Malay Mail",
-      "published": "2026-04-23T06:57:33",
-      "summary": "PUTRAJAYA, April 23 — The Ministry of Health (MOH) has found no technical evidence to support allegations of a can...",
-      "keywords_matched": [
-        "health",
-        "cancer"
-      ]
-    },
-    {
-      "title": "Not a producer, but a pit stop: DIGP says Malaysia still major drug transit point",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/not-a-producer-but-a-pit-stop-digp-says-malaysia-still-major-drug-transit-point/217367",
-      "source": "Malay Mail",
-      "published": "2026-04-23T06:02:26",
-      "summary": "GEORGE TOWN, April 23 — Malaysia remains a major transit point for international drug trafficking syndicates, as e...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
