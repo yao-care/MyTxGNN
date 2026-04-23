@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-23T22:42:01.184252",
+  "fetched": "2026-04-23T23:43:18.972437",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Ex-UMMC Radiographer To File Negligence Suit Over Alleged Radiation Exposure",
@@ -132,16 +132,6 @@
       "summary": "KUALA LUMPUR, April 23 — A three-year-old girl is believed to have tested positive for drugs after consuming sweet...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Malaysia to target fuel smugglers with designated judges and fast-track trials",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/malaysia-to-target-fuel-smugglers-with-designated-judges-and-fast-track-trials/217388",
-      "source": "Malay Mail",
-      "published": "2026-04-23T08:32:07",
-      "summary": "JOHOR BAHRU, April 23 — The government is moving to expedite court proceedings for cases involving the smuggling o...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
