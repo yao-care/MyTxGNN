@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-22T23:43:51.424949",
+  "fetched": "2026-04-23T02:31:03.123542",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Too Many Agencies Involved In Doctor Workforce Pipeline: Health DG",
+      "url": "https://codeblue.galencentre.org/2026/04/too-many-agencies-involved-in-doctor-workforce-pipeline-health-dg/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-23T02:00:00",
+      "summary": "DG Mahathar says the doctor workforce pipeline is fragmented across MOHE, JPA, and MOH, causing delays and staff shortages despite adequate workforce numbers. He wants end-to-end workforce planning, competency-based approaches, and less \"regulatory drag\". The post Too Many Agencies Involved In Doctor Workforce Pipeline: Health DG appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
     {
       "title": "Scammer Nabbed After Collecting RM30 Ward Admission ‘Fee’ At HSAJB",
       "url": "https://codeblue.galencentre.org/2026/04/scammer-nabbed-after-collecting-rm30-ward-admission-fee-at-hsajb/",
@@ -106,14 +117,13 @@
       ]
     },
     {
-      "title": "Corporate Benefit Schemes Can’t Override Doctors’ Clinical Decisions, Says MMA",
-      "url": "https://codeblue.galencentre.org/2026/04/corporate-benefit-schemes-cant-override-doctors-clinical-decisions-says-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-21T02:00:00",
-      "summary": "MMA says corporate benefit schemes cannot interfere with doctors' clinical decisions, stressing there's a clear boundary between what's covered by employers and what's prescribed by doctors based on clinical needs. MMA urges MOH to issue clear guidance. The post Corporate Benefit Schemes Can’t Override Doctors’ Clinical Decisions, Says MMA appeared first on CodeBlue .",
+      "title": "Khaled Nordin: Eight Malaysian firms getting RM1.4b boost for warship MRO",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/khaled-nordin-eight-malaysian-firms-getting-rm14b-boost-for-warship-mro/217327",
+      "source": "Malay Mail",
+      "published": "2026-04-23T01:52:41",
+      "summary": "KUALA LUMPUR, April 23 — The Ministry of Defence has awarded eight Industrial Collaboration Programme (ICP) offer...",
       "keywords_matched": [
-        "doctor",
-        "clinical"
+        "trial"
       ]
     },
     {
