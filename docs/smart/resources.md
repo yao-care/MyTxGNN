@@ -68,7 +68,7 @@ Gunakan untuk menguji aplikasi SMART tanpa EHR sebenar:
 <html>
 <head>
   <title>MyTxGNN SMART App</title>
-  <script src="https://cdn.jsdelivr.net/npm/fhirclient/build/fhir-client.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js" integrity="sha384-oPoE+RWX2AZE9PQcDKKsuPU0dLmhGHCmCScrIneODytrl3mhPoRcGbDXVJyt0Q1t" crossorigin="anonymous"></script>
 </head>
 <body>
   <div id="app">Memuatkan...</div>

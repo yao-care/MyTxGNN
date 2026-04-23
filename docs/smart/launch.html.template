@@ -50,7 +50,7 @@
         <p id="error-message"></p>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js" integrity="sha384-oPoE+RWX2AZE9PQcDKKsuPU0dLmhGHCmCScrIneODytrl3mhPoRcGbDXVJyt0Q1t" crossorigin="anonymous"></script>
     <script>
         // TODO: 修改以下設定
         const CLIENT_ID = "{country}txgnn-smart-app";  // TODO: 與 EHR 註冊的 ID 一致
