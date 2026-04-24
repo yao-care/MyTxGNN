@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-24T05:34:04.763364",
+  "fetched": "2026-04-24T08:01:16.402940",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,38 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "IHH Healthcare Delivers Strong Growth, Clinical Firsts In 2025",
+      "url": "https://codeblue.galencentre.org/2026/04/ihh-healthcare-delivers-strong-growth-clinical-firsts-in-2025/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-24T07:38:37",
+      "summary": "IHH Healthcare delivered strong growth in 2025 and is setting a clear course towards 2030 with focus on clinical innovation, patient care and environmental stewardship. The post IHH Healthcare Delivers Strong Growth, Clinical Firsts In 2025 appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "patient",
+        "clinical"
+      ]
+    },
+    {
+      "title": "Open Letter To My Patient, Paul — Dr Goh Heong Keong",
+      "url": "https://codeblue.galencentre.org/2026/04/open-letter-to-my-patient-paul-dr-goh-heong-keong/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-24T07:30:00",
+      "summary": "We all shared the gift of youth once, for time is an impartial companion to every one of us. The post Open Letter To My Patient, Paul — Dr Goh Heong Keong appeared first on CodeBlue .",
+      "keywords_matched": [
+        "patient"
+      ]
+    },
+    {
+      "title": "Ageing Unwell: A Policy Problem We Can No Longer Deny",
+      "url": "https://codeblue.galencentre.org/2026/04/ageing-unwell-a-policy-problem-we-can-no-longer-deny/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-24T07:07:49",
+      "summary": "What emerges is a clear and troubling pattern. Older Malaysians aren't failing because of a single illness, but because multiple systems are failing them simultaneously. Malaysia's health care is fragmented, while its social care is underdeveloped. The post Ageing Unwell: A Policy Problem We Can No Longer Deny appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Rethinking Community Health Work In Malaysia — June Joseph",
       "url": "https://codeblue.galencentre.org/2026/04/rethinking-community-health-work-in-malaysia-june-joseph/",
@@ -75,37 +107,6 @@
       "summary": "France-backed Biru-Putih-Hati eggs and meat in Malaysia cost about 20% more, but cut waste and improve nutrition from better animal feed. Uptake hinges on consumer trust and wider availability, as local diets shift toward processed foods and eating out. The post France-Led ‘Healthier Food’ Model In Malaysia Targets Value Over Price appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Malaysian EMS Provider Marks Sixth Asia-Pacific Award Since 2020",
-      "url": "https://codeblue.galencentre.org/2026/04/malaysian-ems-provider-marks-sixth-asia-pacific-award-since-2020/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-23T05:54:33",
-      "summary": "First Ambulance Services has been named Ambulance Service of the Year (Asia-Pacific) at the Global Health Asia-Pacific Healthcare Awards for the sixth time since 2020. The post Malaysian EMS Provider Marks Sixth Asia-Pacific Award Since 2020 appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Beyond Maternal Health: Rethinking Women’s Health Policy",
-      "url": "https://codeblue.galencentre.org/2026/04/beyond-maternal-health-rethinking-womens-health-policy/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-23T03:30:00",
-      "summary": "Malaysia has built strong foundations in maternal and reproductive health. The next step is to build on those foundations. This includes linking prevention, screening, and long-term management of chronic conditions alongside reproductive health services. The post Beyond Maternal Health: Rethinking Women’s Health Policy appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Too Many Agencies Involved In Doctor Workforce Pipeline: Health DG",
-      "url": "https://codeblue.galencentre.org/2026/04/too-many-agencies-involved-in-doctor-workforce-pipeline-health-dg/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-23T02:00:00",
-      "summary": "DG Mahathar says the doctor workforce pipeline is fragmented across MOHE, JPA, and MOH, causing delays and staff shortages despite adequate workforce numbers. He wants end-to-end workforce planning, competency-based approaches, and less \"regulatory drag\". The post Too Many Agencies Involved In Doctor Workforce Pipeline: Health DG appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "doctor"
       ]
     }
   ]
