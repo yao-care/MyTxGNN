@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-23T23:43:18.972437",
+  "fetched": "2026-04-24T02:32:00.607787",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Ampang Hospital’s IT System Down For 33 Hours In First Huge Outage",
+      "url": "https://codeblue.galencentre.org/2026/04/ampang-hospitals-it-system-down-for-33-hours-in-first-huge-outage/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-24T02:00:00",
+      "summary": "The eHIS system at Ampang Hospital, once a model IT hospital, was down for 33 hours in its first massive outage. The IT system, not upgraded since 2007, previously faced frequent failures last year. Ampang Hospital computers run on Windows XP and use IE. The post Ampang Hospital’s IT System Down For 33 Hours In First Huge Outage appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Ex-UMMC Radiographer To File Negligence Suit Over Alleged Radiation Exposure",
       "url": "https://codeblue.galencentre.org/2026/04/ex-ummc-radiographer-to-file-negligence-suit-over-alleged-radiation-exposure/",
@@ -101,37 +112,6 @@
         "health",
         "medicine",
         "kesihatan"
-      ]
-    },
-    {
-      "title": "Healthy Ageing In Malaysia: Strengthening Public Health Capacity And Long-Term Preventive Strategies — Assistant Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/04/healthy-ageing-in-malaysia-strengthening-public-health-capacity-and-long-term-preventive-strategies/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-22T03:30:00",
-      "summary": "Without decisive intervention now, Malaysia risks facing a future where increased life expectancy does not translate into quality of life, but prolonged years of illness and dependency. The post Healthy Ageing In Malaysia: Strengthening Public Health Capacity And Long-Term Preventive Strategies — Assistant Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical"
-      ]
-    },
-    {
-      "title": "Police bust homestay hopping syndicate in Sarawak’s biggest drug haul to date",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/police-bust-homestay-hopping-syndicate-in-sarawaks-biggest-drug-haul-to-date/217400",
-      "source": "Malay Mail",
-      "published": "2026-04-23T09:25:09",
-      "summary": "KUCHING, April 23 — A drug syndicate’s tactic of renting homestay premises as packaging and storage centres...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Melaka police chief: Toddler tested positive after accidentally ingesting suspected drug-laced sweets",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/23/melaka-police-chief-toddler-tested-positive-after-accidentally-ingesting-suspected-drug-laced-sweets/217393",
-      "source": "Malay Mail",
-      "published": "2026-04-23T08:47:15",
-      "summary": "KUALA LUMPUR, April 23 — A three-year-old girl is believed to have tested positive for drugs after consuming sweet...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
