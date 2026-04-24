@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-24T02:32:00.607787",
+  "fetched": "2026-04-24T05:34:04.763364",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,24 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Rethinking Community Health Work In Malaysia — June Joseph",
+      "url": "https://codeblue.galencentre.org/2026/04/rethinking-community-health-work-in-malaysia-june-joseph/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-24T05:30:00",
+      "summary": "While volunteerism can support engagement, it cannot deliver sustained care at scale. A tiered, professionalised community health workforce offers a way forward that preserves trust while strengthening system reliability. The post Rethinking Community Health Work In Malaysia — June Joseph appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Emerging Asia May Face Increased Food Cost Pressures: Fitch Ratings",
+      "url": "https://codeblue.galencentre.org/2026/04/emerging-asia-may-face-increased-food-cost-pressures-fitch-ratings/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-24T03:30:00",
+      "summary": "Fitch Ratings warns of rising cost pressure across agribusinesses and food supply chains amid reduced fertiliser supply and higher prices, especially in countries that rely on imported food. Food import dependence is 10% for Malaysia, a net food importer. The post Emerging Asia May Face Increased Food Cost Pressures: Fitch Ratings appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Ampang Hospital’s IT System Down For 33 Hours In First Huge Outage",
       "url": "https://codeblue.galencentre.org/2026/04/ampang-hospitals-it-system-down-for-33-hours-in-first-huge-outage/",
@@ -88,30 +106,6 @@
       "keywords_matched": [
         "health",
         "doctor"
-      ]
-    },
-    {
-      "title": "Scammer Nabbed After Collecting RM30 Ward Admission ‘Fee’ At HSAJB",
-      "url": "https://codeblue.galencentre.org/2026/04/scammer-nabbed-after-collecting-rm30-ward-admission-fee-at-hsajb/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-22T09:03:40",
-      "summary": "A woman has been arrested after allegedly impersonating as a staff member at HSAJB and collecting an RM30 ward admission \"fee\" from patients or their next-of-kin. The Johor hospital tells the public to make payments only at authorised payment counters. The post Scammer Nabbed After Collecting RM30 Ward Admission ‘Fee’ At HSAJB appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "patient",
-        "hospital"
-      ]
-    },
-    {
-      "title": "NHMS 2025: Malaysia Must Accelerate Healthy Ageing Reforms — Malaysian Society of Geriatric Medicine & Gerontological Association of Malaysia",
-      "url": "https://codeblue.galencentre.org/2026/04/nhms-2025-malaysia-must-accelerate-healthy-ageing-reforms-malaysian-society-of-geriatric-medicine-gerontological-association-of-malaysia/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-22T06:38:50",
-      "summary": "NHMS 2025 findings strongly reinforce the importance of accelerating implementation of Malaysia’s Pelan Tindakan Perkhidmatan Kesihatan Warga Emas 2023–2030. Healthy ageing isn't just about living longer but maintaining function, dignity, and independence. The post NHMS 2025: Malaysia Must Accelerate Healthy Ageing Reforms — Malaysian Society of Geriatric Medicine & Gerontological Association of Malaysia appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medicine",
-        "kesihatan"
       ]
     }
   ]
