@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-24T08:01:16.402940",
+  "fetched": "2026-04-24T10:19:51.999501",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,30 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Don’t Blame MOH Alone For Health Workforce Shortages — MMA",
+      "url": "https://codeblue.galencentre.org/2026/04/dont-blame-moh-alone-for-health-workforce-shortages-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-24T09:31:42",
+      "summary": "The understaffing, the overwork, the waiting times and the delayed treatments that Malaysians experience today are the accumulated consequence of decisions made across multiple agencies over many years. MOH has been carrying this alone for far too long. The post Don’t Blame MOH Alone For Health Workforce Shortages — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "treatment"
+      ]
+    },
+    {
+      "title": "Take Action Against Retail Blood Testing In Pharmacies — FPMPAM",
+      "url": "https://codeblue.galencentre.org/2026/04/take-action-against-retail-blood-testing-in-pharmacies-fpmpam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-24T08:06:40",
+      "summary": "Retail pharmacy premises are not licensed health care facilities for the purpose of performing invasive medical procedures. The post Take Action Against Retail Blood Testing In Pharmacies — FPMPAM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
     {
       "title": "IHH Healthcare Delivers Strong Growth, Clinical Firsts In 2025",
       "url": "https://codeblue.galencentre.org/2026/04/ihh-healthcare-delivers-strong-growth-clinical-firsts-in-2025/",
@@ -89,24 +111,13 @@
       "keywords_matched": []
     },
     {
-      "title": "Bukit Gasing Rep Wants Unconditional Coverage Of Pre-Existing Conditions Under Base MHIT",
-      "url": "https://codeblue.galencentre.org/2026/04/bukit-gasing-rep-wants-unconditional-coverage-of-pre-existing-conditions-under-base-mhit/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-23T06:17:50",
-      "summary": "Bukit Gasing rep Rajiv Rishyakaran demands unconditional coverage of pre-existing conditions under Base MHIT, not just \"stable\" cases. He asks what percentage of the adult population living with chronic disease would qualify for the health insurance plan. The post Bukit Gasing Rep Wants Unconditional Coverage Of Pre-Existing Conditions Under Base MHIT appeared first on CodeBlue .",
+      "title": "Johor police arrest suspected drug ring mastermind and girlfriend, seize RM1.95m in contraband",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/24/johor-police-arrest-suspected-drug-ring-mastermind-and-girlfriend-seize-rm195m-in-contraband/217535",
+      "source": "Malay Mail",
+      "published": "2026-04-24T09:45:54",
+      "summary": "JOHOR BAHRU, April 24 — Johor police have crippled a drug syndicate believed active since early this year after ra...",
       "keywords_matched": [
-        "health",
-        "disease"
-      ]
-    },
-    {
-      "title": "France-Led ‘Healthier Food’ Model In Malaysia Targets Value Over Price",
-      "url": "https://codeblue.galencentre.org/2026/04/france-led-healthier-food-model-in-malaysia-targets-value-over-price/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-23T06:00:00",
-      "summary": "France-backed Biru-Putih-Hati eggs and meat in Malaysia cost about 20% more, but cut waste and improve nutrition from better animal feed. Uptake hinges on consumer trust and wider availability, as local diets shift toward processed foods and eating out. The post France-Led ‘Healthier Food’ Model In Malaysia Targets Value Over Price appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
+        "drug"
       ]
     }
   ]
