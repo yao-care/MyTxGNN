@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-24T23:37:50.038142",
+  "fetched": "2026-04-25T02:13:41.167577",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Don’t Blame MOH Alone For Health Workforce Shortages — MMA",
@@ -118,16 +118,6 @@
       "summary": "PETALING JAYA, April 25 — Malaysian actress, television host and wellness entrepreneur Sarah Lian was in her late...",
       "keywords_matched": [
         "medical"
-      ]
-    },
-    {
-      "title": "Johor police arrest suspected drug ring mastermind and girlfriend, seize RM1.95m in contraband",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/24/johor-police-arrest-suspected-drug-ring-mastermind-and-girlfriend-seize-rm195m-in-contraband/217535",
-      "source": "Malay Mail",
-      "published": "2026-04-24T09:45:54",
-      "summary": "JOHOR BAHRU, April 24 — Johor police have crippled a drug syndicate believed active since early this year after ra...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
