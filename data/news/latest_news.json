@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-25T02:13:41.167577",
+  "fetched": "2026-04-25T05:10:20.783307",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Don’t Blame MOH Alone For Health Workforce Shortages — MMA",
@@ -109,16 +109,6 @@
       "published": "2026-04-23T07:30:00",
       "summary": "The government must urgently amend Articles 8(2) and 12(1) of the Federal Constitution to explicitly include “disability” as a prohibited ground of discrimination. The post Autism: Turning Awareness Into Acceptance And Action — OKU Card Holder appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Malaysia’s fertility sector grows into regional medical tourism draw",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/25/malaysias-fertility-sector-grows-into-regional-medical-tourism-draw/217486",
-      "source": "Malay Mail",
-      "published": "2026-04-24T23:00:00",
-      "summary": "PETALING JAYA, April 25 — Malaysian actress, television host and wellness entrepreneur Sarah Lian was in her late...",
-      "keywords_matched": [
-        "medical"
-      ]
     }
   ]
 }
