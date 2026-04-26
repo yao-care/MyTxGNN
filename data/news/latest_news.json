@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-26T10:00:57.129043",
+  "fetched": "2026-04-26T11:38:06.046720",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Don’t Blame MOH Alone For Health Workforce Shortages — MMA",
@@ -109,16 +109,6 @@
       "published": "2026-04-23T07:30:00",
       "summary": "The government must urgently amend Articles 8(2) and 12(1) of the Federal Constitution to explicitly include “disability” as a prohibited ground of discrimination. The post Autism: Turning Awareness Into Acceptance And Action — OKU Card Holder appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "‘True face of the Ministry of Health workforce’: Minister salutes Semporna mobile team for mid-sea rescue (VIDEO)",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/26/true-face-of-the-ministry-of-health-workforce-minister-salutes-semporna-mobile-team-for-mid-sea-rescue-video/217746",
-      "source": "Malay Mail",
-      "published": "2026-04-26T06:10:33",
-      "summary": "KUALA LUMPUR, April 26 — Health Minister Datuk Seri Dzulkefly Ahmad today praised the Semporna Community Mobile Bo...",
-      "keywords_matched": [
-        "health"
-      ]
     }
   ]
 }
