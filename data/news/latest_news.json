@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-26T08:59:04.577314",
+  "fetched": "2026-04-26T10:00:57.129043",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "title": "Don’t Blame MOH Alone For Health Workforce Shortages — MMA",
@@ -118,27 +118,6 @@
       "summary": "KUALA LUMPUR, April 26 — Health Minister Datuk Seri Dzulkefly Ahmad today praised the Semporna Community Mobile Bo...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "MOH launches oral health drive, targets older adults to keep 20 teeth by 2030, says Dzulkefly",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/26/moh-launches-oral-health-drive-targets-older-adults-to-keep-20-teeth-by-2030-says-dzulkefly/217738",
-      "source": "Malay Mail",
-      "published": "2026-04-26T05:43:38",
-      "summary": "KUALA SELANGOR, April 26 — The Ministry of Health (MOH) is targeting more than 50 per cent of senior citizens to r...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Wira Transplant Walk: From dialysis to the summit, patients set sights on Mt Kinabalu climb to spotlight organ donation awareness (VIDEO)",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/26/from-dialysis-to-the-summit-patients-set-sights-on-mt-kinabalu-climb-to-spotlight-organ-donation-awareness/217722",
-      "source": "Malay Mail",
-      "published": "2026-04-26T05:00:00",
-      "summary": "Patients on dialysis and organ recipients, alongside doctors and volunteers, are preparing to climb Mt Kinabalu to show...",
-      "keywords_matched": [
-        "doctor",
-        "patient"
       ]
     }
   ]
