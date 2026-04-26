@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-26T05:38:32.205716",
+  "fetched": "2026-04-26T07:26:52.972943",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
     {
       "title": "Don’t Blame MOH Alone For Health Workforce Shortages — MMA",
@@ -109,6 +109,26 @@
       "published": "2026-04-23T07:30:00",
       "summary": "The government must urgently amend Articles 8(2) and 12(1) of the Federal Constitution to explicitly include “disability” as a prohibited ground of discrimination. The post Autism: Turning Awareness Into Acceptance And Action — OKU Card Holder appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "‘True face of the Ministry of Health workforce’: Minister salutes Semporna mobile team for mid-sea rescue (VIDEO)",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/26/true-face-of-the-ministry-of-health-workforce-minister-salutes-semporna-mobile-team-for-mid-sea-rescue-video/217746",
+      "source": "Malay Mail",
+      "published": "2026-04-26T06:10:33",
+      "summary": "KUALA LUMPUR, April 26 — Health Minister Datuk Seri Dzulkefly Ahmad today praised the Semporna Community Mobile Bo...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "MOH launches oral health drive, targets older adults to keep 20 teeth by 2030, says Dzulkefly",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/26/moh-launches-oral-health-drive-targets-older-adults-to-keep-20-teeth-by-2030-says-dzulkefly/217738",
+      "source": "Malay Mail",
+      "published": "2026-04-26T05:43:38",
+      "summary": "KUALA SELANGOR, April 26 — The Ministry of Health (MOH) is targeting more than 50 per cent of senior citizens to r...",
+      "keywords_matched": [
+        "health"
+      ]
     },
     {
       "title": "Wira Transplant Walk: From dialysis to the summit, patients set sights on Mt Kinabalu climb to spotlight organ donation awareness (VIDEO)",
