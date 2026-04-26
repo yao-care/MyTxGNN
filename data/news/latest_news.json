@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-26T11:38:06.046720",
+  "fetched": "2026-04-26T13:03:18.190631",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Don’t Blame MOH Alone For Health Workforce Shortages — MMA",
@@ -109,6 +109,18 @@
       "published": "2026-04-23T07:30:00",
       "summary": "The government must urgently amend Articles 8(2) and 12(1) of the Federal Constitution to explicitly include “disability” as a prohibited ground of discrimination. The post Autism: Turning Awareness Into Acceptance And Action — OKU Card Holder appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Two Malaysian haj pilgrims hospitalised for heart complications, shortness of breath, now stable, says Tabung Haji",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/26/two-malaysian-haj-pilgrims-hospitalised-for-heart-complications-shortness-of-breath-now-stable-says-tabung-haji/217786",
+      "source": "Malay Mail",
+      "published": "2026-04-26T12:11:44",
+      "summary": "MECCA, April 26 — Two Malaysian Haj pilgrims receiving treatment at hospitals in Medina and Mecca are in stab...",
+      "keywords_matched": [
+        "treatment",
+        "hospital",
+        "hospital"
+      ]
     }
   ]
 }
