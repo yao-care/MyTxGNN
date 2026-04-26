@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-26T02:36:28.124650",
+  "fetched": "2026-04-26T05:38:32.205716",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Don’t Blame MOH Alone For Health Workforce Shortages — MMA",
@@ -109,6 +109,17 @@
       "published": "2026-04-23T07:30:00",
       "summary": "The government must urgently amend Articles 8(2) and 12(1) of the Federal Constitution to explicitly include “disability” as a prohibited ground of discrimination. The post Autism: Turning Awareness Into Acceptance And Action — OKU Card Holder appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Wira Transplant Walk: From dialysis to the summit, patients set sights on Mt Kinabalu climb to spotlight organ donation awareness (VIDEO)",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/26/from-dialysis-to-the-summit-patients-set-sights-on-mt-kinabalu-climb-to-spotlight-organ-donation-awareness/217722",
+      "source": "Malay Mail",
+      "published": "2026-04-26T05:00:00",
+      "summary": "Patients on dialysis and organ recipients, alongside doctors and volunteers, are preparing to climb Mt Kinabalu to show...",
+      "keywords_matched": [
+        "doctor",
+        "patient"
+      ]
     }
   ]
 }
