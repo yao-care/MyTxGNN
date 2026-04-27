@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-27T05:52:44.440481",
+  "fetched": "2026-04-27T08:22:22.087956",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "MND Malaysia Strengthens Community Bonds At Family Gathering 2026",
+      "url": "https://codeblue.galencentre.org/2026/04/mnd-malaysia-strengthens-community-bonds-at-family-gathering-2026/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-27T06:48:45",
+      "summary": "A total of 48 participants, including 12 MND warriors and their families, took part in the gathering. The post MND Malaysia Strengthens Community Bonds At Family Gathering 2026 appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Avoid Zero Sum Game Debate Between Doctors And Corporate Schemes — Dr Raymond Choy",
       "url": "https://codeblue.galencentre.org/2026/04/avoid-zero-sum-game-debate-between-doctors-and-corporate-schemes-dr-raymond-choy/",
@@ -105,14 +113,6 @@
       "keywords_matched": [
         "health"
       ]
-    },
-    {
-      "title": "Emerging Asia May Face Increased Food Cost Pressures: Fitch Ratings",
-      "url": "https://codeblue.galencentre.org/2026/04/emerging-asia-may-face-increased-food-cost-pressures-fitch-ratings/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-24T03:30:00",
-      "summary": "Fitch Ratings warns of rising cost pressure across agribusinesses and food supply chains amid reduced fertiliser supply and higher prices, especially in countries that rely on imported food. Food import dependence is 10% for Malaysia, a net food importer. The post Emerging Asia May Face Increased Food Cost Pressures: Fitch Ratings appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
