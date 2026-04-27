@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-27T02:38:39.312801",
+  "fetched": "2026-04-27T05:52:44.440481",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,31 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Avoid Zero Sum Game Debate Between Doctors And Corporate Schemes — Dr Raymond Choy",
+      "url": "https://codeblue.galencentre.org/2026/04/avoid-zero-sum-game-debate-between-doctors-and-corporate-schemes-dr-raymond-choy/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-27T05:35:00",
+      "summary": "Patients should not feel that their care is compromised by cost considerations, nor should they be exposed to unnecessary treatments driven by system inefficiencies. Achieving this balance requires trust. The post Avoid Zero Sum Game Debate Between Doctors And Corporate Schemes — Dr Raymond Choy appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment",
+        "doctor",
+        "patient"
+      ]
+    },
+    {
+      "title": "After DG’s Admission, Hartal Demands Health Service Commission",
+      "url": "https://codeblue.galencentre.org/2026/04/after-dgs-admission-hartal-demands-health-service-commission/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-27T03:45:00",
+      "summary": "In endorsing DG Mahathar's rare acknowledgment of a fragmented health workforce pipeline, Hartal Doktor Kontrak wants a Health Service Commission to streamline the whole process, decentralise health service employment from JPA, and ensure permanent posts. The post After DG’s Admission, Hartal Demands Health Service Commission appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doktor"
+      ]
+    },
     {
       "title": "Operational Blind Spot: MOH Must Own Its HR Execution Failure — Dr Musa Mohd Nordin & Dr Zulkifli Ismail",
       "url": "https://codeblue.galencentre.org/2026/04/operational-blind-spot-moh-must-own-its-hr-execution-failure-dr-musa-mohd-nordin-dr-zulkifli-ismail/",
@@ -90,57 +113,6 @@
       "published": "2026-04-24T03:30:00",
       "summary": "Fitch Ratings warns of rising cost pressure across agribusinesses and food supply chains amid reduced fertiliser supply and higher prices, especially in countries that rely on imported food. Food import dependence is 10% for Malaysia, a net food importer. The post Emerging Asia May Face Increased Food Cost Pressures: Fitch Ratings appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Ampang Hospital’s IT System Down For 33 Hours In First Huge Outage",
-      "url": "https://codeblue.galencentre.org/2026/04/ampang-hospitals-it-system-down-for-33-hours-in-first-huge-outage/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-24T02:00:00",
-      "summary": "The eHIS system at Ampang Hospital, once a model IT hospital, was down for 33 hours in its first massive outage. The IT system, not upgraded since 2007, previously faced frequent failures last year. Ampang Hospital computers run on Windows XP and use IE. The post Ampang Hospital’s IT System Down For 33 Hours In First Huge Outage appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Ex-UMMC Radiographer To File Negligence Suit Over Alleged Radiation Exposure",
-      "url": "https://codeblue.galencentre.org/2026/04/ex-ummc-radiographer-to-file-negligence-suit-over-alleged-radiation-exposure/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-23T10:33:36",
-      "summary": "A former UMMC radiographer who developed stage 4 lymphoma plans to sue for negligence, alleging SOP breaches. So far, she is the sole claimant from the so-called cancer \"cluster\" in her proposed suit. She was deemed unfit last year to continue working. The post Ex-UMMC Radiographer To File Negligence Suit Over Alleged Radiation Exposure appeared first on CodeBlue .",
-      "keywords_matched": [
-        "cancer"
-      ]
-    },
-    {
-      "title": "Deputy minister says Haj operations smooth, urges pilgrims to stay healthy before departure",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/27/deputy-minister-says-haj-operations-smooth-urges-pilgrims-to-stay-healthy-before-departure/217821",
-      "source": "Malay Mail",
-      "published": "2026-04-27T02:01:19",
-      "summary": "SINTOK, April 27 — Haj arrangements for Malaysian pilgrims have so far proceeded smoothly, with flight operations...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "ILP Marang student killed in LPT2 crash involving two motorcycles, car",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/27/ilp-marang-student-killed-in-lpt2-crash-involving-two-motorcycles-car/217812",
-      "source": "Malay Mail",
-      "published": "2026-04-27T01:35:49",
-      "summary": "KUALA LUMPUR, April 27 — A student from the Industrial Training Institute (ILP) Marang was killed after his motorc...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Dirty kitchens cost five Machang eateries dearly as health officers order closures and slap fines",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/27/dirty-kitchens-cost-five-machang-eateries-dearly-as-health-officers-order-closures-and-slap-fines/217801",
-      "source": "Malay Mail",
-      "published": "2026-04-27T01:04:50",
-      "summary": "KOTA BHARU, April 27 — Five food premises in Machang have been ordered to close for 14 days after failing to meet...",
-      "keywords_matched": [
-        "health"
-      ]
     }
   ]
 }
