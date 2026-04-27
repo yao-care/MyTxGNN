@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-27T08:22:22.087956",
+  "fetched": "2026-04-27T11:02:47.996504",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "MND Malaysia Strengthens Community Bonds At Family Gathering 2026",
@@ -112,6 +112,17 @@
       "summary": "While volunteerism can support engagement, it cannot deliver sustained care at scale. A tiered, professionalised community health workforce offers a way forward that preserves trust while strengthening system reliability. The post Rethinking Community Health Work In Malaysia — June Joseph appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Cancer care demands rising, Health Minister highlights shortage of oncologists despite workforce increase",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/27/cancer-care-demands-rising-health-minister-highlights-shortage-of-oncologists-despite-workforce-increase/217890",
+      "source": "Malay Mail",
+      "published": "2026-04-27T08:53:56",
+      "summary": "KUALA LUMPUR, April 27 — Cancer remains the third leading cause of death in Malaysia, with about 40,000 new cases...",
+      "keywords_matched": [
+        "health",
+        "cancer"
       ]
     }
   ]
