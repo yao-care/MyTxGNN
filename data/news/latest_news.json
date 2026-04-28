@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-28T05:58:27.195539",
+  "fetched": "2026-04-28T08:35:01.966501",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Ampang Hospital’s Flooded Operating Theatre Resuming Operations Tomorrow",
+      "url": "https://codeblue.galencentre.org/2026/04/ampang-hospitals-flooded-operating-theatre-resuming-operations-tomorrow/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-28T06:58:59",
+      "summary": "When it rains, it pours — literally in the case of Ampang Hospital with a flooded OT, while its IT system has been down for nearly a week. The OT will resume operations tomorrow as the problem has been fixed. But the eHIS system is still being worked on. The post Ampang Hospital’s Flooded Operating Theatre Resuming Operations Tomorrow appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Nationalism In Malaysia’s Health Service — Specialist",
       "url": "https://codeblue.galencentre.org/2026/04/nationalism-in-malaysias-health-service-specialist/",
@@ -105,35 +116,13 @@
       ]
     },
     {
-      "title": "IHH Healthcare Delivers Strong Growth, Clinical Firsts In 2025",
-      "url": "https://codeblue.galencentre.org/2026/04/ihh-healthcare-delivers-strong-growth-clinical-firsts-in-2025/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-24T07:38:37",
-      "summary": "IHH Healthcare delivered strong growth in 2025 and is setting a clear course towards 2030 with focus on clinical innovation, patient care and environmental stewardship. The post IHH Healthcare Delivers Strong Growth, Clinical Firsts In 2025 appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "patient",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Shamsul Iskandar’s bid to move graft trial to High Court rejected",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/28/shamsul-iskandars-bid-to-move-graft-trial-to-high-court-rejected/217958",
+      "title": "Muhyiddin’s trial: Mamfor’s RM19.5m ‘donations’ in 29 cheques to Bersatu flagged as suspicious, unusual to give money to political party, banker says",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/28/muhyiddins-trial-mamfors-rm195m-donations-in-29-cheques-to-bersatu-flagged-as-suspicious-unusual-to-give-money-to-political-party-banker-says/217983",
       "source": "Malay Mail",
-      "published": "2026-04-28T03:13:06",
-      "summary": "KUALA LUMPUR, April 28 — Prime Minister Datuk Seri Anwar Ibrahim’s former senior political secretary Datuk S...",
+      "published": "2026-04-28T06:22:07",
+      "summary": "KUALA LUMPUR, April 28 — Mamfor Sdn Bhd’s payment of RM19.5 million in frequent and large transactions in 20...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Selangor pork self-sufficiency drops to 10-15pc amid disease outbreak, says state exec",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/28/selangor-pork-self-sufficiency-drops-to-10-15pc-amid-disease-outbreak-says-state-exec/217955",
-      "source": "Malay Mail",
-      "published": "2026-04-28T03:50:56",
-      "summary": "KUALA LUMPUR, April 28 — Selangor’s self-sufficiency rate for pork has fallen sharply to about 10 to 15 per...",
-      "keywords_matched": [
-        "disease"
       ]
     }
   ]
