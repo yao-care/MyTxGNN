@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-28T22:57:45.939698",
+  "fetched": "2026-04-28T23:58:23.823773",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "GP-Led Care Central To Ageing Nation Strategy — MMA",
@@ -110,6 +110,18 @@
       "keywords_matched": [
         "health",
         "treatment"
+      ]
+    },
+    {
+      "title": "How cheap can public hospitals get? Here's a how-to guide to receiving care from MOH specialised institutions",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/29/how-cheap-can-public-hospitals-get-heres-a-how-to-guide-to-receiving-care-from-moh-specialised-institutions/217249",
+      "source": "Malay Mail",
+      "published": "2026-04-28T23:00:00",
+      "summary": "KUALA LUMPUR, ?? – Malaysia’s healthcare system has seen rapid evolution over the decades, marked by the exp...",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
       ]
     },
     {
