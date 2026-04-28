@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-28T11:04:20.510981",
+  "fetched": "2026-04-28T16:50:04.695943",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "GP-Led Care Central To Ageing Nation Strategy — MMA",
@@ -110,6 +110,18 @@
       "keywords_matched": [
         "health",
         "treatment"
+      ]
+    },
+    {
+      "title": "Overcrowded, understaffed and in urgent need of upgrades: Sabah lawmaker says Sandakan Hospital buckling under strain",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/28/overcrowded-understaffed-and-in-urgent-need-of-upgrades-sabah-lawmaker-says-sandakan-hospital-buckling-under-strain/218038",
+      "source": "Malay Mail",
+      "published": "2026-04-28T12:00:41",
+      "summary": "KOTA KINABALU, April 28 — Healthcare services in Sandakan are struggling to keep pace with demand, making it the h...",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
       ]
     },
     {
