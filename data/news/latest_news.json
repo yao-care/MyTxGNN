@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-28T08:35:01.966501",
+  "fetched": "2026-04-28T11:04:20.510981",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "GP-Led Care Central To Ageing Nation Strategy — MMA",
+      "url": "https://codeblue.galencentre.org/2026/04/gp-led-care-central-to-ageing-nation-strategy-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-28T09:08:14",
+      "summary": "Our seniors deserve more than fragmented solutions. They deserve a system designed around their realities, one that brings care closer to where they live. The post GP-Led Care Central To Ageing Nation Strategy — MMA appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Ampang Hospital’s Flooded Operating Theatre Resuming Operations Tomorrow",
       "url": "https://codeblue.galencentre.org/2026/04/ampang-hospitals-flooded-operating-theatre-resuming-operations-tomorrow/",
@@ -105,22 +113,11 @@
       ]
     },
     {
-      "title": "Take Action Against Retail Blood Testing In Pharmacies — FPMPAM",
-      "url": "https://codeblue.galencentre.org/2026/04/take-action-against-retail-blood-testing-in-pharmacies-fpmpam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-24T08:06:40",
-      "summary": "Retail pharmacy premises are not licensed health care facilities for the purpose of performing invasive medical procedures. The post Take Action Against Retail Blood Testing In Pharmacies — FPMPAM appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical"
-      ]
-    },
-    {
-      "title": "Muhyiddin’s trial: Mamfor’s RM19.5m ‘donations’ in 29 cheques to Bersatu flagged as suspicious, unusual to give money to political party, banker says",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/28/muhyiddins-trial-mamfors-rm195m-donations-in-29-cheques-to-bersatu-flagged-as-suspicious-unusual-to-give-money-to-political-party-banker-says/217983",
+      "title": "Court sets Aug 18 trial for Pantai Jerejak assemblyman Fahmi Zainol over alleged wife assault",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/28/court-sets-aug-18-trial-for-pantai-jerejak-assemblyman-fahmi-zainol-over-alleged-wife-assault/218004",
       "source": "Malay Mail",
-      "published": "2026-04-28T06:22:07",
-      "summary": "KUALA LUMPUR, April 28 — Mamfor Sdn Bhd’s payment of RM19.5 million in frequent and large transactions in 20...",
+      "published": "2026-04-28T08:38:20",
+      "summary": "BALIK PULAU, April 28 — The Magistrate’s Court today set August 18 for the trial of Pantai Jerejak assemblym...",
       "keywords_matched": [
         "trial"
       ]
