@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-27T23:52:18.454504",
+  "fetched": "2026-04-28T02:46:32.472639",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Serdang Hospital Begins Outsourcing Outpatient Angiograms To Private",
+      "url": "https://codeblue.galencentre.org/2026/04/serdang-hospital-begins-outsourcing-outpatient-angiograms-to-private/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-28T02:00:00",
+      "summary": "Sultan Idris Shah Serdang Hospital tells other government hospitals to stop referring outpatient angiograms to it, but to private hospitals instead under the HSOP outsourcing programme, reportedly because the MOH’s national heart centre is too overwhelmed. The post Serdang Hospital Begins Outsourcing Outpatient Angiograms To Private appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "patient",
+        "hospital"
+      ]
+    },
     {
       "title": "MND Malaysia Strengthens Community Bonds At Family Gathering 2026",
       "url": "https://codeblue.galencentre.org/2026/04/mnd-malaysia-strengthens-community-bonds-at-family-gathering-2026/",
@@ -102,27 +114,6 @@
       "summary": "What emerges is a clear and troubling pattern. Older Malaysians aren't failing because of a single illness, but because multiple systems are failing them simultaneously. Malaysia's health care is fragmented, while its social care is underdeveloped. The post Ageing Unwell: A Policy Problem We Can No Longer Deny appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Rethinking Community Health Work In Malaysia — June Joseph",
-      "url": "https://codeblue.galencentre.org/2026/04/rethinking-community-health-work-in-malaysia-june-joseph/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-24T05:30:00",
-      "summary": "While volunteerism can support engagement, it cannot deliver sustained care at scale. A tiered, professionalised community health workforce offers a way forward that preserves trust while strengthening system reliability. The post Rethinking Community Health Work In Malaysia — June Joseph appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Cancer care demands rising, Health Minister highlights shortage of oncologists despite workforce increase",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/27/cancer-care-demands-rising-health-minister-highlights-shortage-of-oncologists-despite-workforce-increase/217890",
-      "source": "Malay Mail",
-      "published": "2026-04-27T08:53:56",
-      "summary": "KUALA LUMPUR, April 27 — Cancer remains the third leading cause of death in Malaysia, with about 40,000 new cases...",
-      "keywords_matched": [
-        "health",
-        "cancer"
       ]
     }
   ]
