@@ -35,11 +35,11 @@
 <!-- <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" /> -->
 
 <!-- RSS Feed -->
-<link rel="alternate" type="application/rss+xml" title="TwTxGNN 最新更新" href="{{ '/feed.xml' | absolute_url }}">
+<link rel="alternate" type="application/rss+xml" title="MyTxGNN 最新更新" href="{{ '/feed.xml' | absolute_url }}">
 
 <!-- YMYL 審核資訊 Meta -->
 <meta name="last-reviewed" content="2026-02-19">
-<meta name="reviewed-by" content="TwTxGNN Research Team">
+<meta name="reviewed-by" content="MyTxGNN Research Team">
 
 <!-- Schema.org 結構化資料 -->
 {% if page.layout == 'default' and page.evidence_level %}
@@ -59,20 +59,20 @@
       "lastReviewed": "2026-02-19",
       "reviewedBy": {
         "@type": "Organization",
-        "name": "TwTxGNN Research Team"
+        "name": "MyTxGNN Research Team"
       },
       "author": {
         "@type": "Organization",
-        "name": "TwTxGNN Team",
-        "url": "https://twtxgnn.yao.care/"
+        "name": "MyTxGNN Team",
+        "url": "https://mytxgnn.yao.care/"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "TwTxGNN",
-        "url": "https://twtxgnn.yao.care/",
+        "name": "MyTxGNN",
+        "url": "https://mytxgnn.yao.care/",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://twtxgnn.yao.care/assets/images/og-default.png"
+          "url": "https://mytxgnn.yao.care/assets/images/og-default.png"
         }
       },
       "about": {
@@ -126,31 +126,31 @@
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://twtxgnn.yao.care/#website",
-      "name": "TwTxGNN 老藥新用驗證報告",
-      "url": "https://twtxgnn.yao.care/",
+      "@id": "https://mytxgnn.yao.care/#website",
+      "name": "MyTxGNN 老藥新用驗證報告",
+      "url": "https://mytxgnn.yao.care/",
       "description": "用 AI 預測台灣健保藥品的潛在新適應症，並提供臨床證據驗證報告",
       "publisher": {
-        "@id": "https://twtxgnn.yao.care/#organization"
+        "@id": "https://mytxgnn.yao.care/#organization"
       },
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://twtxgnn.yao.care/?search={search_term_string}",
+        "target": "https://mytxgnn.yao.care/?search={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://twtxgnn.yao.care/#organization",
-      "name": "TwTxGNN",
-      "url": "https://twtxgnn.yao.care/",
+      "@id": "https://mytxgnn.yao.care/#organization",
+      "name": "MyTxGNN",
+      "url": "https://mytxgnn.yao.care/",
       "description": "基於哈佛 TxGNN 模型的老藥新用預測平台",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://twtxgnn.yao.care/assets/images/og-default.png"
+        "url": "https://mytxgnn.yao.care/assets/images/og-default.png"
       },
       "sameAs": [
-        "https://github.com/yao-care/TwTxGNN"
+        "https://github.com/yao-care/MyTxGNN"
       ],
       "knowsAbout": [
         "Drug Repurposing",
@@ -161,29 +161,29 @@
     },
     {
       "@type": "Article",
-      "@id": "https://twtxgnn.yao.care/#article",
+      "@id": "https://mytxgnn.yao.care/#article",
       "headline": "老藥新用，從數據到證據",
       "description": "用 AI 預測台灣健保藥品的潛在新適應症，提供 191 個藥物的臨床試驗與文獻證據驗證報告",
       "author": {
-        "@id": "https://twtxgnn.yao.care/#organization"
+        "@id": "https://mytxgnn.yao.care/#organization"
       },
       "publisher": {
-        "@id": "https://twtxgnn.yao.care/#organization"
+        "@id": "https://mytxgnn.yao.care/#organization"
       },
       "datePublished": "2026-02-19",
       "dateModified": "2026-02-19",
-      "mainEntityOfPage": "https://twtxgnn.yao.care/",
+      "mainEntityOfPage": "https://mytxgnn.yao.care/",
       "isAccessibleForFree": true
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://twtxgnn.yao.care/#breadcrumb",
+      "@id": "https://mytxgnn.yao.care/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://mytxgnn.yao.care/"
         }
       ]
     }
@@ -200,15 +200,15 @@
     {
       "@type": "AboutPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "關於 TwTxGNN",
-      "description": "TwTxGNN 老藥新用驗證報告的專案說明、資料來源與引用方式",
+      "name": "關於 MyTxGNN",
+      "description": "MyTxGNN 老藥新用驗證報告的專案說明、資料來源與引用方式",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
       "dateModified": "2026-02-19",
       "mainEntity": {
         "@type": "Organization",
-        "name": "TwTxGNN",
-        "url": "https://twtxgnn.yao.care/",
+        "name": "MyTxGNN",
+        "url": "https://mytxgnn.yao.care/",
         "description": "基於哈佛 TxGNN 模型的老藥新用預測平台"
       }
     },
@@ -250,7 +250,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://mytxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
@@ -273,7 +273,7 @@
     {
       "@type": "HowTo",
       "@id": "{{ page.url | absolute_url }}#howto",
-      "name": "TwTxGNN 預測與驗證方法",
+      "name": "MyTxGNN 預測與驗證方法",
       "description": "從 AI 預測到證據驗證的完整流程說明",
       "step": [
         {
@@ -310,7 +310,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://mytxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
@@ -333,14 +333,14 @@
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "藥物列表 - TwTxGNN",
-      "description": "TwTxGNN 所有藥物驗證報告列表，共 191 種藥物",
+      "name": "藥物列表 - MyTxGNN",
+      "description": "MyTxGNN 所有藥物驗證報告列表，共 191 種藥物",
       "url": "{{ page.url | absolute_url }}"
     },
     {
       "@type": "ItemList",
       "@id": "{{ page.url | absolute_url }}#itemlist",
-      "name": "TwTxGNN 藥物驗證報告",
+      "name": "MyTxGNN 藥物驗證報告",
       "description": "191 種台灣健保藥品的老藥新用驗證報告",
       "numberOfItems": 191,
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
@@ -353,7 +353,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://mytxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
@@ -376,11 +376,11 @@
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "健康新聞監測 - TwTxGNN",
+      "name": "健康新聞監測 - MyTxGNN",
       "description": "{{ page.description | default: '自動監測 191 種藥物與適應症的最新健康新聞報導' }}",
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
-        "@id": "https://twtxgnn.yao.care/#website"
+        "@id": "https://mytxgnn.yao.care/#website"
       },
       "about": {
         "@type": "Thing",
@@ -399,7 +399,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://mytxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
@@ -429,20 +429,20 @@
       "dateModified": "2026-02-21",
       "author": {
         "@type": "Organization",
-        "name": "TwTxGNN",
-        "url": "https://twtxgnn.yao.care/"
+        "name": "MyTxGNN",
+        "url": "https://mytxgnn.yao.care/"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "TwTxGNN",
-        "url": "https://twtxgnn.yao.care/",
+        "name": "MyTxGNN",
+        "url": "https://mytxgnn.yao.care/",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://twtxgnn.yao.care/assets/images/og-default.png"
+          "url": "https://mytxgnn.yao.care/assets/images/og-default.png"
         }
       },
       "isPartOf": {
-        "@id": "https://twtxgnn.yao.care/news/#webpage"
+        "@id": "https://mytxgnn.yao.care/news/#webpage"
       },
       "mainEntityOfPage": "{{ page.url | absolute_url }}",
       "speakable": {
@@ -459,13 +459,13 @@
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://mytxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "健康新聞",
-          "item": "https://twtxgnn.yao.care/news/"
+          "item": "https://mytxgnn.yao.care/news/"
         },
         {
           "@type": "ListItem",
@@ -490,7 +490,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "首頁",
-      "item": "https://twtxgnn.yao.care/"
+      "item": "https://mytxgnn.yao.care/"
     },
     {
       "@type": "ListItem",
