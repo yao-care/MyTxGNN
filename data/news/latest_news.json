@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-28T23:58:23.823773",
+  "fetched": "2026-04-29T03:47:47.479597",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,31 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Raise ‘Pro-Poor’ Tobacco Taxes For ‘Triple-Win Policy’, Say Anti-Smoking Advocates",
+      "url": "https://codeblue.galencentre.org/2026/04/raise-pro-poor-tobacco-taxes-for-triple-win-policy-say-anti-smoking-advocates/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-29T03:30:00",
+      "summary": "Anti-tobacco groups want a big one-off hike in cigarette excise duty, followed by automatic annual tax increases. Tobacco taxes are a \"pro-poor\" health protection measure and a \"triple-win policy\" for public health, health inequity, and revenue generation. The post Raise ‘Pro-Poor’ Tobacco Taxes For ‘Triple-Win Policy’, Say Anti-Smoking Advocates appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Fifty Patients, Two Doctors: Unsafe Overcrowding Crisis in HRPB Medical Wards — Medical Officer",
+      "url": "https://codeblue.galencentre.org/2026/04/fifty-patients-two-doctors-unsafe-overcrowding-crisis-in-hrpb-medical-wards-medical-officer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-29T02:00:00",
+      "summary": "Amid bed shortages in HRPB's medical wards, patients are being placed as \"lodgers\" in other wards. One medical team of 2 internal medicine MOs and 1-2 HOs is expected to manage 50+ patients across multiple wards in multiple locations, with multiple risks. The post Fifty Patients, Two Doctors: Unsafe Overcrowding Crisis in HRPB Medical Wards — Medical Officer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "medicine",
+        "doctor",
+        "patient"
+      ]
+    },
     {
       "title": "GP-Led Care Central To Ageing Nation Strategy — MMA",
       "url": "https://codeblue.galencentre.org/2026/04/gp-led-care-central-to-ageing-nation-strategy-mma/",
@@ -92,32 +115,11 @@
       ]
     },
     {
-      "title": "Operational Blind Spot: MOH Must Own Its HR Execution Failure — Dr Musa Mohd Nordin & Dr Zulkifli Ismail",
-      "url": "https://codeblue.galencentre.org/2026/04/operational-blind-spot-moh-must-own-its-hr-execution-failure-dr-musa-mohd-nordin-dr-zulkifli-ismail/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-27T02:00:00",
-      "summary": "Blaming only MOH for health worker shortages caused by MOHE, JPA, and MOF is indeed unfair. But MOH can't be absolved either. Without fixing how we deploy, support, and retain our people, no amount of upstream policy reform will translate into better care. The post Operational Blind Spot: MOH Must Own Its HR Execution Failure — Dr Musa Mohd Nordin & Dr Zulkifli Ismail appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Don’t Blame MOH Alone For Health Workforce Shortages — MMA",
-      "url": "https://codeblue.galencentre.org/2026/04/dont-blame-moh-alone-for-health-workforce-shortages-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-24T09:31:42",
-      "summary": "The understaffing, the overwork, the waiting times and the delayed treatments that Malaysians experience today are the accumulated consequence of decisions made across multiple agencies over many years. MOH has been carrying this alone for far too long. The post Don’t Blame MOH Alone For Health Workforce Shortages — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "treatment"
-      ]
-    },
-    {
       "title": "How cheap can public hospitals get? Here's a how-to guide to receiving care from MOH specialised institutions",
       "url": "https://www.malaymail.com/news/malaysia/2026/04/29/how-cheap-can-public-hospitals-get-heres-a-how-to-guide-to-receiving-care-from-moh-specialised-institutions/217249",
       "source": "Malay Mail",
       "published": "2026-04-28T23:00:00",
-      "summary": "KUALA LUMPUR, ?? – Malaysia’s healthcare system has seen rapid evolution over the decades, marked by the exp...",
+      "summary": "KUALA LUMPUR, April 29 — Malaysia’s healthcare system has seen rapid evolution over the decades, marked...",
       "keywords_matched": [
         "health",
         "hospital",
@@ -134,16 +136,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Court sets Aug 18 trial for Pantai Jerejak assemblyman Fahmi Zainol over alleged wife assault",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/28/court-sets-aug-18-trial-for-pantai-jerejak-assemblyman-fahmi-zainol-over-alleged-wife-assault/218004",
-      "source": "Malay Mail",
-      "published": "2026-04-28T08:38:20",
-      "summary": "BALIK PULAU, April 28 — The Magistrate’s Court today set August 18 for the trial of Pantai Jerejak assemblym...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
