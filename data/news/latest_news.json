@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-29T09:08:04.936816",
+  "fetched": "2026-04-29T11:27:25.020721",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "MOH’s Proposed RM3b Budget Cut Risks Worsening Health Care Crisis: Galen Centre",
@@ -105,6 +105,16 @@
       "summary": "I had to beg for almost 2 years just to obtain an office as the neurosurgery HOD. Over the next 5 years, no additional furniture was provided. If the “atasan” were truly nationalistic, wouldn't they equip their workers with basic necessities to function? The post Nationalism In Malaysia’s Health Service — Specialist appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Sabah faces critical shortage of 4,526 doctors, ratio far below national target",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/29/sabah-faces-critical-shortage-of-4526-doctors-ratio-far-below-national-target/218140",
+      "source": "Malay Mail",
+      "published": "2026-04-29T09:13:44",
+      "summary": "KOTA KINABALU, April 29 — Sabah is facing a critical shortage of doctors, with the state government saying the gap...",
+      "keywords_matched": [
+        "doctor"
       ]
     },
     {
