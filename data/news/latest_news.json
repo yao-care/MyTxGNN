@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-29T03:47:47.479597",
+  "fetched": "2026-04-29T06:21:58.148648",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "JPA Launches ‘Reform Circular’ For Civil Service Renaissance",
+      "url": "https://codeblue.galencentre.org/2026/04/jpa-launches-reform-circular-for-civil-service-renaissance/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-29T05:30:00",
+      "summary": "JPA launches a Reform Circular to create a \"cultural renaissance\" in the civil service, aiming to change the stereotype of the apathetic bureaucrat. Reforms involve a fundamental change in the public service mindset, going beyond digitising outdated forms. The post JPA Launches ‘Reform Circular’ For Civil Service Renaissance appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Raise ‘Pro-Poor’ Tobacco Taxes For ‘Triple-Win Policy’, Say Anti-Smoking Advocates",
       "url": "https://codeblue.galencentre.org/2026/04/raise-pro-poor-tobacco-taxes-for-triple-win-policy-say-anti-smoking-advocates/",
@@ -101,41 +109,6 @@
         "treatment",
         "doctor",
         "patient"
-      ]
-    },
-    {
-      "title": "After DG’s Admission, Hartal Demands Health Service Commission",
-      "url": "https://codeblue.galencentre.org/2026/04/after-dgs-admission-hartal-demands-health-service-commission/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-27T03:45:00",
-      "summary": "In endorsing DG Mahathar's rare acknowledgment of a fragmented health workforce pipeline, Hartal Doktor Kontrak wants a Health Service Commission to streamline the whole process, decentralise health service employment from JPA, and ensure permanent posts. The post After DG’s Admission, Hartal Demands Health Service Commission appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "doktor"
-      ]
-    },
-    {
-      "title": "How cheap can public hospitals get? Here's a how-to guide to receiving care from MOH specialised institutions",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/29/how-cheap-can-public-hospitals-get-heres-a-how-to-guide-to-receiving-care-from-moh-specialised-institutions/217249",
-      "source": "Malay Mail",
-      "published": "2026-04-28T23:00:00",
-      "summary": "KUALA LUMPUR, April 29 — Malaysia’s healthcare system has seen rapid evolution over the decades, marked...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Overcrowded, understaffed and in urgent need of upgrades: Sabah lawmaker says Sandakan Hospital buckling under strain",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/28/overcrowded-understaffed-and-in-urgent-need-of-upgrades-sabah-lawmaker-says-sandakan-hospital-buckling-under-strain/218038",
-      "source": "Malay Mail",
-      "published": "2026-04-28T12:00:41",
-      "summary": "KOTA KINABALU, April 28 — Healthcare services in Sandakan are struggling to keep pace with demand, making it the h...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
       ]
     }
   ]
