@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-29T23:54:05.173211",
+  "fetched": "2026-04-30T02:47:34.647279",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,54 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Medicine Prices Not Rising Yet But API Costs To Hit Soon: Importers",
+      "url": "https://codeblue.galencentre.org/2026/04/medicine-prices-not-rising-yet-but-api-costs-to-hit-soon-importers/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-30T01:54:12",
+      "summary": "Drug prices in Malaysia haven’t risen yet, but increases are expected as higher API costs feed through, says MAPS. Heavy reliance on imported API exposes Malaysia’s medicine supply to shocks, though delays haven’t caused nationwide shortages yet. The post Medicine Prices Not Rising Yet But API Costs To Hit Soon: Importers appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "drug"
+      ]
+    },
+    {
+      "title": "Private Health Facilities Face ‘Savage’ Exposure To Drug, Consumable Supply Shocks: Galen Centre",
+      "url": "https://codeblue.galencentre.org/2026/04/private-health-facilities-face-savage-exposure-to-drug-consumable-supply-shocks-galen-centre/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-30T01:53:21",
+      "summary": "Private health care providers in Malaysia face greater risk from global supply shocks for drugs and consumables due to limited stocks and market exposure, while public hospitals are buffered but strained by heavy patient loads, says the Galen Centre. The post Private Health Facilities Face ‘Savage’ Exposure To Drug, Consumable Supply Shocks: Galen Centre appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "drug",
+        "hospital",
+        "patient",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Cut Perks For Ministers, MPs, Top Civil Servants Before Gutting Public Health Care — Specialist",
+      "url": "https://codeblue.galencentre.org/2026/04/cut-perks-for-ministers-mps-top-civil-servants-before-gutting-public-health-care-specialist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-30T01:51:03",
+      "summary": "The government should cut allowances and perks for ministers and deputies, MPs and high-ranking civil servants first before slashing MOH's budget by RM3 billion. Disclose exactly what will be cut from health care. If nothing critical is affected, prove it. The post Cut Perks For Ministers, MPs, Top Civil Servants Before Gutting Public Health Care — Specialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "RM3b Cut To Health Budget Is A Prescription For Crisis — Dr Musa Mohd Nordin, Prof Emeritus Dr Azizi Omar & Prof Dr Zulkifli Ismail",
+      "url": "https://codeblue.galencentre.org/2026/04/rm3b-cut-to-health-budget-is-a-prescription-for-crisis-dr-musa-mohd-nordin-prof-emeritus-dr-azizi-omar-prof-dr-zulkifli-ismail/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-30T01:50:07",
+      "summary": "An RM3 billion cut to the health budget will lead to delayed diagnoses, disease progression, and avoidable deaths. The health workforce crisis will deepen and primary/preventive care will suffer first. This is a penny-wise, pound-foolish approach. The post RM3b Cut To Health Budget Is A Prescription For Crisis — Dr Musa Mohd Nordin, Prof Emeritus Dr Azizi Omar & Prof Dr Zulkifli Ismail appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "disease"
+      ]
+    },
     {
       "title": "MOH’s Proposed RM3b Budget Cut Risks Worsening Health Care Crisis: Galen Centre",
       "url": "https://codeblue.galencentre.org/2026/04/mohs-proposed-rm3b-budget-cut-risks-worsening-health-care-crisis-galen-centre/",
@@ -66,65 +112,13 @@
       ]
     },
     {
-      "title": "Fifty Patients, Two Doctors: Unsafe Overcrowding Crisis in HRPB Medical Wards — Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/04/fifty-patients-two-doctors-unsafe-overcrowding-crisis-in-hrpb-medical-wards-medical-officer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-29T02:00:00",
-      "summary": "Amid bed shortages in HRPB's medical wards, patients are being placed as \"lodgers\" in other wards. One medical team of 2 internal medicine MOs and 1-2 HOs is expected to manage 50+ patients across multiple wards in multiple locations, with multiple risks. The post Fifty Patients, Two Doctors: Unsafe Overcrowding Crisis in HRPB Medical Wards — Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "medicine",
-        "doctor",
-        "patient"
-      ]
-    },
-    {
-      "title": "GP-Led Care Central To Ageing Nation Strategy — MMA",
-      "url": "https://codeblue.galencentre.org/2026/04/gp-led-care-central-to-ageing-nation-strategy-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-28T09:08:14",
-      "summary": "Our seniors deserve more than fragmented solutions. They deserve a system designed around their realities, one that brings care closer to where they live. The post GP-Led Care Central To Ageing Nation Strategy — MMA appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Ampang Hospital’s Flooded Operating Theatre Resuming Operations Tomorrow",
-      "url": "https://codeblue.galencentre.org/2026/04/ampang-hospitals-flooded-operating-theatre-resuming-operations-tomorrow/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-28T06:58:59",
-      "summary": "When it rains, it pours — literally in the case of Ampang Hospital with a flooded OT, while its IT system has been down for nearly a week. The OT will resume operations tomorrow as the problem has been fixed. But the eHIS system is still being worked on. The post Ampang Hospital’s Flooded Operating Theatre Resuming Operations Tomorrow appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Nationalism In Malaysia’s Health Service — Specialist",
-      "url": "https://codeblue.galencentre.org/2026/04/nationalism-in-malaysias-health-service-specialist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-28T05:30:00",
-      "summary": "I had to beg for almost 2 years just to obtain an office as the neurosurgery HOD. Over the next 5 years, no additional furniture was provided. If the “atasan” were truly nationalistic, wouldn't they equip their workers with basic necessities to function? The post Nationalism In Malaysia’s Health Service — Specialist appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Sabah faces critical shortage of 4,526 doctors, ratio far below national target",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/29/sabah-faces-critical-shortage-of-4526-doctors-ratio-far-below-national-target/218140",
+      "title": "A new sensory therapy space in Seremban is helping children with special needs thrive",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/a-new-sensory-therapy-space-in-seremban-is-helping-children-with-special-needs-thrive/218196",
       "source": "Malay Mail",
-      "published": "2026-04-29T09:13:44",
-      "summary": "KOTA KINABALU, April 29 — Sabah is facing a critical shortage of doctors, with the state government saying the gap...",
+      "published": "2026-04-30T01:17:06",
+      "summary": "SEREMBAN, April 30 — Ronald McDonald House Charities Malaysia (RMHC Malaysia) and the Department of Social Welfare...",
       "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Muhyiddin’s trial: Bank officer says Mamfor’s RM19.5m Bersatu donation ‘unusual’ as company sought several RM500,000 cheques on same day",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/29/muhyiddins-trial-bank-officer-says-mamfors-rm195m-bersatu-donation-unusual-as-company-sought-several-rm500000-cheques-on-same-day/218137",
-      "source": "Malay Mail",
-      "published": "2026-04-29T09:03:08",
-      "summary": "KUALA LUMPUR, April 29 — Construction company Mamfor Sdn Bhd’s donations totalling RM19.5 million to politic...",
-      "keywords_matched": [
-        "trial"
+        "therapy"
       ]
     }
   ]
