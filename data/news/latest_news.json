@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-30T12:14:15.607473",
+  "fetched": "2026-04-30T15:08:40.533688",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Pharmacies Barred From Blood Taking, Says Health Ministry",
@@ -135,17 +135,6 @@
       "summary": "PETALING JAYA, April 30 —  The family of a Grup Gerak Khas (GGK) personnel from the 22 Commando Regiment, Tro...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Survivor of SMK Tanjong Mas crash that killed classmate leaves hospital after two weeks, but still needs more surgeries",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/survivor-of-smk-tanjong-mas-crash-that-killed-classmate-leaves-hospital-after-two-weeks-but-still-needs-more-surgeries/218274",
-      "source": "Malay Mail",
-      "published": "2026-04-30T08:45:40",
-      "summary": "KOTA BHARU, April 30 — A Form One student, who was seriously injured after being rammed by an SUV in an acci...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
