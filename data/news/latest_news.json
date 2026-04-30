@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-30T05:57:43.958356",
+  "fetched": "2026-04-30T08:28:51.919629",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,27 @@
   ],
   "total_items": 14,
   "items": [
+    {
+      "title": "Pharmacies Barred From Blood Taking, Says Health Ministry",
+      "url": "https://codeblue.galencentre.org/2026/04/pharmacies-barred-from-blood-taking-says-health-ministry/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-30T07:21:15",
+      "summary": "MOH says blood taking is not permitted in community pharmacies because phlebotomy is a clinical procedure that can only be carried out in licensed health care facilities under Act 586, adding that it will continue to strengthen enforcement. The post Pharmacies Barred From Blood Taking, Says Health Ministry appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "clinical"
+      ]
+    },
+    {
+      "title": "Finance Ministry Says Only Targeting ‘Non-Critical’ Spending Cuts",
+      "url": "https://codeblue.galencentre.org/2026/04/finance-ministry-says-only-targeting-non-critical-spending-cuts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-30T06:21:59",
+      "summary": "MOF says it's only targeting \"non-critical\" spending cuts and core health expenditure will still continue. But MOF didn't revoke its RM3 billion spending cut request to MOH. Instead, MOF cites postponing events, limiting overseas trips and utility savings. The post Finance Ministry Says Only Targeting ‘Non-Critical’ Spending Cuts appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Health Spending Isn’t A Cost, But Core Public Investment — Dr Kelvin Yii",
       "url": "https://codeblue.galencentre.org/2026/04/health-spending-isnt-a-cost-but-core-public-investment-dr-kelvin-yii/",
@@ -96,21 +117,11 @@
       "keywords_matched": []
     },
     {
-      "title": "Report: Treasury Wants RM3b Cut To Health Ministry’s 2026 Budget",
-      "url": "https://codeblue.galencentre.org/2026/04/report-treasury-wants-rm3b-cut-to-health-ministrys-2026-budget/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-29T07:28:22",
-      "summary": "The Treasury has ordered budget cuts for various ministries this year due to a ballooning subsidy bill, specifying a proposed cut of about RM3 billion (6.6%) to the Health Ministry's RM46.5 billion 2026 budget, leaving MOH with a smaller budget than 2025. The post Report: Treasury Wants RM3b Cut To Health Ministry’s 2026 Budget appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Reintroduce Tobacco GEG Under Act 852 — MCTC",
-      "url": "https://codeblue.galencentre.org/2026/04/reintroduce-tobacco-geg-under-act-852-mctc/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-29T06:24:06",
-      "summary": "Malaysia should follow the UK's example and reintroduce the tobacco generational end game (GEG) under the Control of Smoking Products for Public Health Act 2024 (Act 852) to protect future generations from nicotine addiction. The post Reintroduce Tobacco GEG Under Act 852 — MCTC appeared first on CodeBlue .",
+      "title": "New Malaysia–Indonesia pact to tap health, education and cultural travel",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/new-malaysiaindonesia-pact-to-tap-health-education-and-cultural-travel/218254",
+      "source": "Malay Mail",
+      "published": "2026-04-30T07:22:08",
+      "summary": "KUALA LUMPUR, April 30 — Malaysia and Indonesia have agreed to strengthen cooperation in the tourism industry by f...",
       "keywords_matched": [
         "health"
       ]
@@ -142,16 +153,6 @@
       "source": "Malay Mail",
       "published": "2026-04-30T04:54:31",
       "summary": "PUTRAJAYA, April 30 — The government’s recent expenditure adjustment measures will not affect essential publ...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Penang finances still strong, but some projects delayed amid cost pressures, says chief minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/penang-finances-still-strong-but-some-projects-delayed-amid-cost-pressures-says-chief-minister/218223",
-      "source": "Malay Mail",
-      "published": "2026-04-30T03:14:04",
-      "summary": "GEORGE TOWN, April 30 — Penang’s financial position is still healthy so there is no need for a supplementary...",
       "keywords_matched": [
         "health"
       ]
