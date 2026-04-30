@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-30T10:54:30.180217",
+  "fetched": "2026-04-30T12:14:15.607473",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Pharmacies Barred From Blood Taking, Says Health Ministry",
@@ -115,6 +115,17 @@
       "published": "2026-04-29T07:53:13",
       "summary": "Ascott has fully switched to cage-free eggs across its Malaysian properties, positioning the move as scalable despite industry concerns over cost and supply. Stakeholders say it shows that large-scale adoption is feasible and could support wider industry uptake. The post Ascott Makes Full Switch To Cage-Free Eggs In Malaysia Amid Cost, Supply Concerns appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Health minister assures no cuts to treatment, emergency care under Budget 2026 reprioritisation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/health-minister-assures-no-cuts-to-treatment-emergency-care-under-budget-2026-reprioritisation/218304",
+      "source": "Malay Mail",
+      "published": "2026-04-30T11:36:45",
+      "summary": "PUTRAJAYA, April 30 — The government’s adjustment to operating expenditure will not affect essential healthc...",
+      "keywords_matched": [
+        "health",
+        "treatment"
+      ]
     },
     {
       "title": "What happened at Johor military camp? Family questions how healthy soldier ended up in vegetative state",
