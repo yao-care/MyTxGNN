@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-30T02:47:34.647279",
+  "fetched": "2026-04-30T05:57:43.958356",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,30 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Health Spending Isn’t A Cost, But Core Public Investment — Dr Kelvin Yii",
+      "url": "https://codeblue.galencentre.org/2026/04/health-spending-isnt-a-cost-but-core-public-investment-dr-kelvin-yii/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-30T05:37:56",
+      "summary": "Health spending cuts may worsen the health workforce crisis, especially in Sabah and Sarawak. MOH must never be seen as an easy target for savings. Health spending isn’t a cost to minimise, but a core public investment. MOF must reconsider the cuts. The post Health Spending Isn’t A Cost, But Core Public Investment — Dr Kelvin Yii appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Health Spending Cut Will Worsen Patient Outcomes, Strain Health Workers: Doctor Groups",
+      "url": "https://codeblue.galencentre.org/2026/04/health-spending-cut-will-worsen-patient-outcomes-strain-health-workers-doctor-groups/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-04-30T03:34:52",
+      "summary": "FPMPAM says a RM3 billion health spending cut will likely have \"real consequences\" for both patients (worse outcomes) and health workers (rising burnout and resignations), while MMA says the public health care system is already under \"severe strain\". The post Health Spending Cut Will Worsen Patient Outcomes, Strain Health Workers: Doctor Groups appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor",
+        "patient"
+      ]
+    },
     {
       "title": "Medicine Prices Not Rising Yet But API Costs To Hit Soon: Importers",
       "url": "https://codeblue.galencentre.org/2026/04/medicine-prices-not-rising-yet-but-api-costs-to-hit-soon-importers/",
@@ -94,31 +116,44 @@
       ]
     },
     {
-      "title": "JPA Launches ‘Reform Circular’ For Civil Service Renaissance",
-      "url": "https://codeblue.galencentre.org/2026/04/jpa-launches-reform-circular-for-civil-service-renaissance/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-29T05:30:00",
-      "summary": "JPA launches a Reform Circular to create a \"cultural renaissance\" in the civil service, aiming to change the stereotype of the apathetic bureaucrat. Reforms involve a fundamental change in the public service mindset, going beyond digitising outdated forms. The post JPA Launches ‘Reform Circular’ For Civil Service Renaissance appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Raise ‘Pro-Poor’ Tobacco Taxes For ‘Triple-Win Policy’, Say Anti-Smoking Advocates",
-      "url": "https://codeblue.galencentre.org/2026/04/raise-pro-poor-tobacco-taxes-for-triple-win-policy-say-anti-smoking-advocates/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-29T03:30:00",
-      "summary": "Anti-tobacco groups want a big one-off hike in cigarette excise duty, followed by automatic annual tax increases. Tobacco taxes are a \"pro-poor\" health protection measure and a \"triple-win policy\" for public health, health inequity, and revenue generation. The post Raise ‘Pro-Poor’ Tobacco Taxes For ‘Triple-Win Policy’, Say Anti-Smoking Advocates appeared first on CodeBlue .",
+      "title": "No licence, no blood tests, Health Ministry tells community pharmacies",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/no-licence-no-blood-tests-health-ministry-tells-community-pharmacies/218243",
+      "source": "Malay Mail",
+      "published": "2026-04-30T05:50:59",
+      "summary": "PUTRAJAYA, April 30 — The Health Ministry (MOH) has stressed that health screening services, including blood colle...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "A new sensory therapy space in Seremban is helping children with special needs thrive",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/a-new-sensory-therapy-space-in-seremban-is-helping-children-with-special-needs-thrive/218196",
+      "title": "Hospital Sultanah Aminah in JB makes global list of best hospitals, Johor Regent hails achievement",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/hospital-sultanah-aminah-in-jb-makes-global-list-of-best-hospitals-johor-regent-hails-achievement/218236",
       "source": "Malay Mail",
-      "published": "2026-04-30T01:17:06",
-      "summary": "SEREMBAN, April 30 — Ronald McDonald House Charities Malaysia (RMHC Malaysia) and the Department of Social Welfare...",
+      "published": "2026-04-30T05:01:15",
+      "summary": "JOHOR BARU, April 30 — The Johor Regent, Tunku Mahkota Ismail, today congratulated Hospital Sultanah Aminah (HSA)...",
       "keywords_matched": [
-        "therapy"
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Healthcare, education and other essential services safe despite spending cuts, Finance Ministry assures Malaysians",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/healthcare-education-and-other-essential-services-safe-despite-spending-cuts-finance-ministry-assures-malaysians/218233",
+      "source": "Malay Mail",
+      "published": "2026-04-30T04:54:31",
+      "summary": "PUTRAJAYA, April 30 — The government’s recent expenditure adjustment measures will not affect essential publ...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Penang finances still strong, but some projects delayed amid cost pressures, says chief minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/penang-finances-still-strong-but-some-projects-delayed-amid-cost-pressures-says-chief-minister/218223",
+      "source": "Malay Mail",
+      "published": "2026-04-30T03:14:04",
+      "summary": "GEORGE TOWN, April 30 — Penang’s financial position is still healthy so there is no need for a supplementary...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
