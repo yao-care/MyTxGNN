@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-30T08:28:51.919629",
+  "fetched": "2026-04-30T10:54:30.180217",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 12,
   "items": [
     {
       "title": "Pharmacies Barred From Blood Taking, Says Health Ministry",
@@ -117,44 +117,24 @@
       "keywords_matched": []
     },
     {
-      "title": "New Malaysia–Indonesia pact to tap health, education and cultural travel",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/new-malaysiaindonesia-pact-to-tap-health-education-and-cultural-travel/218254",
+      "title": "What happened at Johor military camp? Family questions how healthy soldier ended up in vegetative state",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/what-happened-at-johor-military-camp-family-questions-how-healthy-soldier-ended-up-in-vegetative-state/218289",
       "source": "Malay Mail",
-      "published": "2026-04-30T07:22:08",
-      "summary": "KUALA LUMPUR, April 30 — Malaysia and Indonesia have agreed to strengthen cooperation in the tourism industry by f...",
+      "published": "2026-04-30T09:47:20",
+      "summary": "PETALING JAYA, April 30 —  The family of a Grup Gerak Khas (GGK) personnel from the 22 Commando Regiment, Tro...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "No licence, no blood tests, Health Ministry tells community pharmacies",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/no-licence-no-blood-tests-health-ministry-tells-community-pharmacies/218243",
+      "title": "Survivor of SMK Tanjong Mas crash that killed classmate leaves hospital after two weeks, but still needs more surgeries",
+      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/survivor-of-smk-tanjong-mas-crash-that-killed-classmate-leaves-hospital-after-two-weeks-but-still-needs-more-surgeries/218274",
       "source": "Malay Mail",
-      "published": "2026-04-30T05:50:59",
-      "summary": "PUTRAJAYA, April 30 — The Health Ministry (MOH) has stressed that health screening services, including blood colle...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Hospital Sultanah Aminah in JB makes global list of best hospitals, Johor Regent hails achievement",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/hospital-sultanah-aminah-in-jb-makes-global-list-of-best-hospitals-johor-regent-hails-achievement/218236",
-      "source": "Malay Mail",
-      "published": "2026-04-30T05:01:15",
-      "summary": "JOHOR BARU, April 30 — The Johor Regent, Tunku Mahkota Ismail, today congratulated Hospital Sultanah Aminah (HSA)...",
+      "published": "2026-04-30T08:45:40",
+      "summary": "KOTA BHARU, April 30 — A Form One student, who was seriously injured after being rammed by an SUV in an acci...",
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Healthcare, education and other essential services safe despite spending cuts, Finance Ministry assures Malaysians",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/healthcare-education-and-other-essential-services-safe-despite-spending-cuts-finance-ministry-assures-malaysians/218233",
-      "source": "Malay Mail",
-      "published": "2026-04-30T04:54:31",
-      "summary": "PUTRAJAYA, April 30 — The government’s recent expenditure adjustment measures will not affect essential publ...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
