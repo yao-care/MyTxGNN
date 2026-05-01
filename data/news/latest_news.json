@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-30T23:51:54.450977",
+  "fetched": "2026-05-01T02:53:45.222431",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,43 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Cut Waste If We Must, But Don’t Cut Protection",
+      "url": "https://codeblue.galencentre.org/2026/05/cut-waste-if-we-must-but-dont-cut-protection/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-01T01:57:32",
+      "summary": "The wrong health spending cuts will cost Malaysia more than they save. Don't touch primary care, emergency services, public health/communicable disease control, essential medicines, and MCH. Older Malaysians will be among the first to suffer consequences. The post Cut Waste If We Must, But Don’t Cut Protection appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medicine",
+        "disease"
+      ]
+    },
+    {
+      "title": "Dialysis, Cancer Patient Groups Oppose Health Spending Cuts",
+      "url": "https://codeblue.galencentre.org/2026/05/dialysis-cancer-patient-groups-oppose-health-spending-cuts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-01T01:54:44",
+      "summary": "NKF and NCSM warn that cuts to the government's health budget may hit dialysis and cancer services. NKF, which receives substantial subsidies from MOH for kidney replacement therapy, says it may be forced to reduce screening and prevention programmes. The post Dialysis, Cancer Patient Groups Oppose Health Spending Cuts appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "therapy",
+        "cancer",
+        "patient"
+      ]
+    },
+    {
+      "title": "Dzulkefly Expects 10% Cut To Health Ministry’s Budget",
+      "url": "https://codeblue.galencentre.org/2026/05/dzulkefly-expects-10-cut-to-health-ministrys-budget/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-01T01:53:15",
+      "summary": "Dr Dzul says he expects a cut of about 10% to MOH's RM46.5 billion budget, but maintains that \"essential core services\" will be protected. A 10% cut is equivalent to RM4.65 billion, much higher than the RM3 billion cut initially suggested by the Treasury. The post Dzulkefly Expects 10% Cut To Health Ministry’s Budget appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Pharmacies Barred From Blood Taking, Says Health Ministry",
       "url": "https://codeblue.galencentre.org/2026/04/pharmacies-barred-from-blood-taking-says-health-ministry/",
@@ -88,35 +123,6 @@
       ]
     },
     {
-      "title": "RM3b Cut To Health Budget Is A Prescription For Crisis — Dr Musa Mohd Nordin, Prof Emeritus Dr Azizi Omar & Prof Dr Zulkifli Ismail",
-      "url": "https://codeblue.galencentre.org/2026/04/rm3b-cut-to-health-budget-is-a-prescription-for-crisis-dr-musa-mohd-nordin-prof-emeritus-dr-azizi-omar-prof-dr-zulkifli-ismail/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-30T01:50:07",
-      "summary": "An RM3 billion cut to the health budget will lead to delayed diagnoses, disease progression, and avoidable deaths. The health workforce crisis will deepen and primary/preventive care will suffer first. This is a penny-wise, pound-foolish approach. The post RM3b Cut To Health Budget Is A Prescription For Crisis — Dr Musa Mohd Nordin, Prof Emeritus Dr Azizi Omar & Prof Dr Zulkifli Ismail appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "disease"
-      ]
-    },
-    {
-      "title": "MOH’s Proposed RM3b Budget Cut Risks Worsening Health Care Crisis: Galen Centre",
-      "url": "https://codeblue.galencentre.org/2026/04/mohs-proposed-rm3b-budget-cut-risks-worsening-health-care-crisis-galen-centre/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-29T08:58:45",
-      "summary": "Galen Centre for Health and Social Policy CEO Azrul Mohd Khalib warned a RM3.06b MOH budget cut would mean longer waits, shortages, staff burnout, and preventable deaths. He said the cut would not even match the RM4b spent monthly on RON95 and diesel subsidies. The post MOH’s Proposed RM3b Budget Cut Risks Worsening Health Care Crisis: Galen Centre appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Ascott Makes Full Switch To Cage-Free Eggs In Malaysia Amid Cost, Supply Concerns",
-      "url": "https://codeblue.galencentre.org/2026/04/ascott-makes-full-switch-to-cage-free-eggs-in-malaysia-amid-cost-supply-concerns/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-29T07:53:13",
-      "summary": "Ascott has fully switched to cage-free eggs across its Malaysian properties, positioning the move as scalable despite industry concerns over cost and supply. Stakeholders say it shows that large-scale adoption is feasible and could support wider industry uptake. The post Ascott Makes Full Switch To Cage-Free Eggs In Malaysia Amid Cost, Supply Concerns appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
       "title": "Health minister assures no cuts to treatment, emergency care under Budget 2026 reprioritisation",
       "url": "https://www.malaymail.com/news/malaysia/2026/04/30/health-minister-assures-no-cuts-to-treatment-emergency-care-under-budget-2026-reprioritisation/218304",
       "source": "Malay Mail",
@@ -125,16 +131,6 @@
       "keywords_matched": [
         "health",
         "treatment"
-      ]
-    },
-    {
-      "title": "What happened at Johor military camp? Family questions how healthy soldier ended up in vegetative state",
-      "url": "https://www.malaymail.com/news/malaysia/2026/04/30/what-happened-at-johor-military-camp-family-questions-how-healthy-soldier-ended-up-in-vegetative-state/218289",
-      "source": "Malay Mail",
-      "published": "2026-04-30T09:47:20",
-      "summary": "PETALING JAYA, April 30 —  The family of a Grup Gerak Khas (GGK) personnel from the 22 Commando Regiment, Tro...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
