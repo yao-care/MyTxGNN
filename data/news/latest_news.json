@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-03T08:07:24.912128",
+  "fetched": "2026-05-03T10:02:58.872994",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
     {
       "title": "Cut Waste If We Must, But Don’t Cut Protection",
@@ -120,6 +120,27 @@
       "summary": "The government should cut allowances and perks for ministers and deputies, MPs and high-ranking civil servants first before slashing MOH's budget by RM3 billion. Disclose exactly what will be cut from health care. If nothing critical is affected, prove it. The post Cut Perks For Ministers, MPs, Top Civil Servants Before Gutting Public Health Care — Specialist appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Sarawak Water warns of low water pressure in Sibu after cable theft forced electricity shutdown at treatment plant",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/03/sarawak-water-warns-of-low-water-pressure-in-sibu-after-cable-theft-forced-electricity-shutdown-at-treatment-plant/218589",
+      "source": "Malay Mail",
+      "published": "2026-05-03T09:19:31",
+      "summary": "SIBU, May 3 — Sarawak Water Sdn Bhd (Central Region) has warned of possible low water pressure in several areas he...",
+      "keywords_matched": [
+        "treatment"
+      ]
+    },
+    {
+      "title": "Man killed, four injured in two‑vehicle collision near Miri Hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/03/man-killed-four-injured-in-twovehicle-collision-near-miri-hospital/218587",
+      "source": "Malay Mail",
+      "published": "2026-05-03T09:13:16",
+      "summary": "MIRI, May 3 — A 43-year-old man was killed in a two-vehicle collision early today at a traffic light junction at J...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     },
     {
