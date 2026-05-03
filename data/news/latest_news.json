@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-02T23:41:09.171072",
+  "fetched": "2026-05-03T02:46:06.955443",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -123,6 +123,16 @@
       ]
     },
     {
+      "title": "Penang sees first heat stroke death of 2026 as runner collapses near end of 30km race",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/03/penang-sees-first-heat-stroke-death-of-2026-as-runner-collapses-near-end-of-30km-race/218519",
+      "source": "Malay Mail",
+      "published": "2026-05-03T01:02:48",
+      "summary": "GEORGE TOWN, May 3 — The Penang State Health Department (JKNPP) has announced that a local man has died from heat...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Health Ministry sets up task force to tackle doctor shortage, focus on Sabah",
       "url": "https://www.malaymail.com/news/malaysia/2026/05/02/health-ministry-sets-up-task-force-to-tackle-doctor-shortage-focus-on-sabah/218507",
       "source": "Malay Mail",
@@ -131,16 +141,6 @@
       "keywords_matched": [
         "health",
         "doctor"
-      ]
-    },
-    {
-      "title": "Police chase on NKVE ends with Proton Preve ramming BMW in Subang, fleeing driver has criminal and drug records",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/02/police-chase-on-nkve-ends-with-proton-preve-ramming-bmw-in-subang-fleeing-driver-has-criminal-and-drug-records/218485",
-      "source": "Malay Mail",
-      "published": "2026-05-02T08:16:27",
-      "summary": "KUALA LUMPUR, May 2 — A local man and a foreign woman were arrested last night in Petaling Jaya after the car they...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
