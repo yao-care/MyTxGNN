@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-03T10:02:58.872994",
+  "fetched": "2026-05-03T11:40:54.530840",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "title": "Cut Waste If We Must, But Don’t Cut Protection",
@@ -120,6 +120,17 @@
       "summary": "The government should cut allowances and perks for ministers and deputies, MPs and high-ranking civil servants first before slashing MOH's budget by RM3 billion. Disclose exactly what will be cut from health care. If nothing critical is affected, prove it. The post Cut Perks For Ministers, MPs, Top Civil Servants Before Gutting Public Health Care — Specialist appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Family trip turns tragic after Toyota Hiace van carrying 11 crashes in Jertih, oldest passenger dies in Besut hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/03/family-trip-turns-tragic-after-toyota-hiace-van-carrying-11-crashes-in-jertih-oldest-passenger-dies-in-besut-hospital/218591",
+      "source": "Malay Mail",
+      "published": "2026-05-03T10:05:24",
+      "summary": "JERTIH, May 3 — An elderly woman was killed when the van she was in skidded and crashed into a tree in Kampung Ana...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     },
     {
