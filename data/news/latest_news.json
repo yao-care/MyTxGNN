@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-03T23:42:44.735459",
+  "fetched": "2026-05-04T02:43:29.875830",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,21 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Health Workers Brace For Death By A Thousand Cuts",
+      "url": "https://codeblue.galencentre.org/2026/05/health-workers-brace-for-death-by-a-thousand-cuts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-04T02:00:00",
+      "summary": "Pharmacists expect a reduction in drug dispensing supply and cuts to more effective medicines, ahead of plans to gut health spending by RM4.65 billion (10% of MOH’s budget). Doctors refuse to work for free if on-call claims are barred in allowance cuts. The post Health Workers Brace For Death By A Thousand Cuts appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medicine",
+        "drug",
+        "doctor"
+      ]
+    },
     {
       "title": "Cut Waste If We Must, But Don’t Cut Protection",
       "url": "https://codeblue.galencentre.org/2026/05/cut-waste-if-we-must-but-dont-cut-protection/",
@@ -110,58 +123,6 @@
         "hospital",
         "patient",
         "hospital"
-      ]
-    },
-    {
-      "title": "Cut Perks For Ministers, MPs, Top Civil Servants Before Gutting Public Health Care — Specialist",
-      "url": "https://codeblue.galencentre.org/2026/04/cut-perks-for-ministers-mps-top-civil-servants-before-gutting-public-health-care-specialist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-30T01:51:03",
-      "summary": "The government should cut allowances and perks for ministers and deputies, MPs and high-ranking civil servants first before slashing MOH's budget by RM3 billion. Disclose exactly what will be cut from health care. If nothing critical is affected, prove it. The post Cut Perks For Ministers, MPs, Top Civil Servants Before Gutting Public Health Care — Specialist appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Family trip turns tragic after Toyota Hiace van carrying 11 crashes in Jertih, oldest passenger dies in Besut hospital",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/03/family-trip-turns-tragic-after-toyota-hiace-van-carrying-11-crashes-in-jertih-oldest-passenger-dies-in-besut-hospital/218591",
-      "source": "Malay Mail",
-      "published": "2026-05-03T10:05:24",
-      "summary": "JERTIH, May 3 — An elderly woman was killed when the van she was in skidded and crashed into a tree in Kampung Ana...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Sarawak Water warns of low water pressure in Sibu after cable theft forced electricity shutdown at treatment plant",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/03/sarawak-water-warns-of-low-water-pressure-in-sibu-after-cable-theft-forced-electricity-shutdown-at-treatment-plant/218589",
-      "source": "Malay Mail",
-      "published": "2026-05-03T09:19:31",
-      "summary": "SIBU, May 3 — Sarawak Water Sdn Bhd (Central Region) has warned of possible low water pressure in several areas he...",
-      "keywords_matched": [
-        "treatment"
-      ]
-    },
-    {
-      "title": "Man killed, four injured in two‑vehicle collision near Miri Hospital",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/03/man-killed-four-injured-in-twovehicle-collision-near-miri-hospital/218587",
-      "source": "Malay Mail",
-      "published": "2026-05-03T09:13:16",
-      "summary": "MIRI, May 3 — A 43-year-old man was killed in a two-vehicle collision early today at a traffic light junction at J...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Health Ministry says 56 heat-related illnesses, two deaths reported since January",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/03/health-ministry-says-56-heat-related-illnesses-two-deaths-reported-since-january/218567",
-      "source": "Malay Mail",
-      "published": "2026-05-03T06:41:01",
-      "summary": "PUTRAJAYA, May 3 — The Ministry of Health (MOH) has recorded 56 cases related to hot weather nationwide, including...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
