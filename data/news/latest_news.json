@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-04T06:11:22.632900",
+  "fetched": "2026-05-04T09:16:17.606990",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Cut The Budget, Not The System: A Call For Health Care Stakeholders To Unite Now — Dr Raymond Choy",
+      "url": "https://codeblue.galencentre.org/2026/05/cut-the-budget-not-the-system-a-call-for-health-care-collaboration/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-04T07:45:00",
+      "summary": "Cost optimisation must never come at the expense of access or quality. Instead, it should drive smarter design, ensuring that care is delivered earlier, more efficiently, and in the most appropriate setting. The post Cut The Budget, Not The System: A Call For Health Care Stakeholders To Unite Now — Dr Raymond Choy appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Malaysia Needs A Health Service Commission Authorised With Manpower, Funding Powers — MMA",
+      "url": "https://codeblue.galencentre.org/2026/05/malaysia-needs-a-health-service-commission-authorised-with-manpower-funding-powers-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-04T06:58:05",
+      "summary": "Malaysia needs a Health Service Commission — with full independence over manpower and funding. Health care workforce planning cannot operate effectively within a one-size-fits-all civil service framework. The post Malaysia Needs A Health Service Commission Authorised With Manpower, Funding Powers — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Health Workers Need Clarity, Not ‘Strategic Directions’ — Clinician",
       "url": "https://codeblue.galencentre.org/2026/05/health-workers-need-clarity-not-strategic-directions-clinician/",
@@ -101,45 +121,13 @@
       ]
     },
     {
-      "title": "Finance Ministry Says Only Targeting ‘Non-Critical’ Spending Cuts",
-      "url": "https://codeblue.galencentre.org/2026/04/finance-ministry-says-only-targeting-non-critical-spending-cuts/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-30T06:21:59",
-      "summary": "MOF says it's only targeting \"non-critical\" spending cuts and core health expenditure will still continue. But MOF didn't revoke its RM3 billion spending cut request to MOH. Instead, MOF cites postponing events, limiting overseas trips and utility savings. The post Finance Ministry Says Only Targeting ‘Non-Critical’ Spending Cuts appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Health Spending Isn’t A Cost, But Core Public Investment — Dr Kelvin Yii",
-      "url": "https://codeblue.galencentre.org/2026/04/health-spending-isnt-a-cost-but-core-public-investment-dr-kelvin-yii/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-30T05:37:56",
-      "summary": "Health spending cuts may worsen the health workforce crisis, especially in Sabah and Sarawak. MOH must never be seen as an easy target for savings. Health spending isn’t a cost to minimise, but a core public investment. MOF must reconsider the cuts. The post Health Spending Isn’t A Cost, But Core Public Investment — Dr Kelvin Yii appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Malaysian Haj pilgrims urged to heed health advice amid rising heat in Saudi Arabia, says minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/04/malaysian-haj-pilgrims-urged-to-heed-health-advice-amid-rising-heat-in-saudi-arabia-says-minister/218683",
+      "title": "December trial date set for ‘Inspector Sheila’ after AGC rejects representation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/04/december-trial-date-set-for-inspector-sheila-after-agc-rejects-representation/218691",
       "source": "Malay Mail",
-      "published": "2026-05-04T05:56:07",
-      "summary": "NILAI, May 4 — Malaysian Haj pilgrims have been advised to follow the advice of doctors, health officers and Lemba...",
+      "published": "2026-05-04T06:49:56",
+      "summary": "KUALA LUMPUR, May 4 — The Magistrates’ Court here today fixed two days beginning Dec 1 for the trial of a po...",
       "keywords_matched": [
-        "health",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Anwar says austerity measures won’t hit healthcare or hiring of new doctors",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/04/anwar-says-austerity-measures-wont-hit-healthcare-or-hiring-of-new-doctors/218649",
-      "source": "Malay Mail",
-      "published": "2026-05-04T03:39:23",
-      "summary": "PUTRAJAYA, May 4 — Austerity measures that could see billions of ringgit slashed from several ministries will not...",
-      "keywords_matched": [
-        "health",
-        "doctor"
+        "trial"
       ]
     }
   ]
