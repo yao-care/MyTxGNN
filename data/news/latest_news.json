@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-04T02:43:29.875830",
+  "fetched": "2026-05-04T06:11:22.632900",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,40 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Health Workers Need Clarity, Not ‘Strategic Directions’ — Clinician",
+      "url": "https://codeblue.galencentre.org/2026/05/health-workers-need-clarity-not-strategic-directions-clinician/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-04T05:30:00",
+      "summary": "Health frontliners don't need more frameworks. We don't need more “strategic directions” or “ongoing engagements.” Many of us don't like fluff; we don't need unnecessary content packaged as reform. We need clarity, alignment, timelines and decisions. The post Health Workers Need Clarity, Not ‘Strategic Directions’ — Clinician appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Anwar: Only ‘Luxurious’ Scope Of Hospital Projects Targeted In Spending Cuts",
+      "url": "https://codeblue.galencentre.org/2026/05/anwar-only-luxurious-scope-of-hospital-projects-targeted-in-spending-cuts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-04T04:43:41",
+      "summary": "On health spending cuts, PM Anwar Ibrahim says only the \"more luxurious\" scope of hospital projects will be \"reduced slightly\". It's unclear if development expenditure is also targeted in the government's austerity drive, besides operational expenditure. The post Anwar: Only ‘Luxurious’ Scope Of Hospital Projects Targeted In Spending Cuts appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Health Service Commission May Not Necessarily Solve HR Problems — Dr KA",
+      "url": "https://codeblue.galencentre.org/2026/05/health-service-commission-may-not-necessarily-solve-hr-problems-dr-ka/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-04T04:00:00",
+      "summary": "A Health Service Commission (SPK) isn't necessarily the solution to HR problems in the health service because if it follows the Education Service Commission's model, the SPK won't have the power to create new positions or autonomy of in-service training. The post Health Service Commission May Not Necessarily Solve HR Problems — Dr KA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Health Workers Brace For Death By A Thousand Cuts",
       "url": "https://codeblue.galencentre.org/2026/05/health-workers-brace-for-death-by-a-thousand-cuts/",
@@ -89,40 +121,25 @@
       ]
     },
     {
-      "title": "Health Spending Cut Will Worsen Patient Outcomes, Strain Health Workers: Doctor Groups",
-      "url": "https://codeblue.galencentre.org/2026/04/health-spending-cut-will-worsen-patient-outcomes-strain-health-workers-doctor-groups/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-30T03:34:52",
-      "summary": "FPMPAM says a RM3 billion health spending cut will likely have \"real consequences\" for both patients (worse outcomes) and health workers (rising burnout and resignations), while MMA says the public health care system is already under \"severe strain\". The post Health Spending Cut Will Worsen Patient Outcomes, Strain Health Workers: Doctor Groups appeared first on CodeBlue .",
+      "title": "Malaysian Haj pilgrims urged to heed health advice amid rising heat in Saudi Arabia, says minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/04/malaysian-haj-pilgrims-urged-to-heed-health-advice-amid-rising-heat-in-saudi-arabia-says-minister/218683",
+      "source": "Malay Mail",
+      "published": "2026-05-04T05:56:07",
+      "summary": "NILAI, May 4 — Malaysian Haj pilgrims have been advised to follow the advice of doctors, health officers and Lemba...",
       "keywords_matched": [
         "health",
-        "doctor",
-        "patient"
+        "doctor"
       ]
     },
     {
-      "title": "Medicine Prices Not Rising Yet But API Costs To Hit Soon: Importers",
-      "url": "https://codeblue.galencentre.org/2026/04/medicine-prices-not-rising-yet-but-api-costs-to-hit-soon-importers/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-30T01:54:12",
-      "summary": "Drug prices in Malaysia haven’t risen yet, but increases are expected as higher API costs feed through, says MAPS. Heavy reliance on imported API exposes Malaysia’s medicine supply to shocks, though delays haven’t caused nationwide shortages yet. The post Medicine Prices Not Rising Yet But API Costs To Hit Soon: Importers appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medicine",
-        "drug"
-      ]
-    },
-    {
-      "title": "Private Health Facilities Face ‘Savage’ Exposure To Drug, Consumable Supply Shocks: Galen Centre",
-      "url": "https://codeblue.galencentre.org/2026/04/private-health-facilities-face-savage-exposure-to-drug-consumable-supply-shocks-galen-centre/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-30T01:53:21",
-      "summary": "Private health care providers in Malaysia face greater risk from global supply shocks for drugs and consumables due to limited stocks and market exposure, while public hospitals are buffered but strained by heavy patient loads, says the Galen Centre. The post Private Health Facilities Face ‘Savage’ Exposure To Drug, Consumable Supply Shocks: Galen Centre appeared first on CodeBlue .",
+      "title": "Anwar says austerity measures won’t hit healthcare or hiring of new doctors",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/04/anwar-says-austerity-measures-wont-hit-healthcare-or-hiring-of-new-doctors/218649",
+      "source": "Malay Mail",
+      "published": "2026-05-04T03:39:23",
+      "summary": "PUTRAJAYA, May 4 — Austerity measures that could see billions of ringgit slashed from several ministries will not...",
       "keywords_matched": [
         "health",
-        "drug",
-        "hospital",
-        "patient",
-        "hospital"
+        "doctor"
       ]
     }
   ]
