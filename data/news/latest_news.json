@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-05T05:42:16.604966",
+  "fetched": "2026-05-05T08:07:10.241483",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,24 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Post-Maternity Wage Allowance In Malaysia: Breastfeeding, Work Retention, And Structural Conditions — June Joseph",
+      "url": "https://codeblue.galencentre.org/2026/05/post-maternity-wage-allowance-in-malaysia-breastfeeding-work-retention-and-structural-conditions-june-joseph/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-05T07:30:00",
+      "summary": "The return to work is where biological needs meet institutional design. If that interface is unsupported, even strong early breastfeeding initiation will struggle to continue. The post Post-Maternity Wage Allowance In Malaysia: Breastfeeding, Work Retention, And Structural Conditions — June Joseph appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Beyond Shadow AI: A Physician’s Blueprint For Clinical Sovereignty — Dr Lim Wan Chieh",
+      "url": "https://codeblue.galencentre.org/2026/05/beyond-shadow-ai-a-physicians-blueprint-for-clinical-sovereignty-dr-lim-wan-chieh/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-05T06:00:00",
+      "summary": "AI cannot replicate the lived, human insight of a physician. It is simply the loom; the physician remains the weaver. The post Beyond Shadow AI: A Physician’s Blueprint For Clinical Sovereignty — Dr Lim Wan Chieh appeared first on CodeBlue .",
+      "keywords_matched": [
+        "clinical"
+      ]
+    },
     {
       "title": "When Tragedy Goes Viral: What Social Media Exposure Means For Mental Health In Malaysia — Dr Lim Poh Khuen",
       "url": "https://codeblue.galencentre.org/2026/05/when-tragedy-goes-viral-what-social-media-exposure-means-for-mental-health-in-malaysia-dr-lim-poh-khuen/",
@@ -88,37 +106,14 @@
       ]
     },
     {
-      "title": "Health Service Commission May Not Necessarily Solve HR Problems — Dr KA",
-      "url": "https://codeblue.galencentre.org/2026/05/health-service-commission-may-not-necessarily-solve-hr-problems-dr-ka/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-04T04:00:00",
-      "summary": "A Health Service Commission (SPK) isn't necessarily the solution to HR problems in the health service because if it follows the Education Service Commission's model, the SPK won't have the power to create new positions or autonomy of in-service training. The post Health Service Commission May Not Necessarily Solve HR Problems — Dr KA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Health Workers Brace For Death By A Thousand Cuts",
-      "url": "https://codeblue.galencentre.org/2026/05/health-workers-brace-for-death-by-a-thousand-cuts/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-04T02:00:00",
-      "summary": "Pharmacists expect a reduction in drug dispensing supply and cuts to more effective medicines, ahead of plans to gut health spending by RM4.65 billion (10% of MOH’s budget). Doctors refuse to work for free if on-call claims are barred in allowance cuts. The post Health Workers Brace For Death By A Thousand Cuts appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medicine",
-        "drug",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Medicine supply jitters: Health Ministry forms special task force to secure pipeline",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/05/medicine-supply-jitters-health-ministry-forms-special-task-force-to-secure-pipeline/218750",
+      "title": "Johor govt aims to fill remaining 59pc vacancies at Pasir Gudang Hospital by September",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/05/johor-govt-aims-to-fill-remaining-59pc-vacancies-at-pasir-gudang-hospital-by-september/218798",
       "source": "Malay Mail",
-      "published": "2026-05-05T01:03:09",
-      "summary": "KUALA LUMPUR, May 5 — The Ministry of Health (MOH) is strengthening the country’s preparedness in the face o...",
+      "published": "2026-05-05T06:55:40",
+      "summary": "ISKANDAR PUTERI, May 5 — The Johor government is aiming to fill the remaining 59 per cent of vacancies at Pasir Gu...",
       "keywords_matched": [
-        "health",
-        "medicine"
+        "hospital",
+        "hospital"
       ]
     }
   ]
