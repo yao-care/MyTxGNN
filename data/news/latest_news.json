@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-04T23:02:00.398511",
+  "fetched": "2026-05-05T02:36:44.094304",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Agriculture Ministry Braces For Potential Development Spending Cuts",
+      "url": "https://codeblue.galencentre.org/2026/05/agriculture-ministry-braces-for-potential-development-spending-cuts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-05T02:00:00",
+      "summary": "A senior KPKM official warns of potential cuts to agricultural development expenditure, such as irrigation systems, saying the money may be redirected to fund the country's mounting fuel subsidies. The post Agriculture Ministry Braces For Potential Development Spending Cuts appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Cut The Budget, Not The System: A Call For Health Care Stakeholders To Unite Now — Dr Raymond Choy",
       "url": "https://codeblue.galencentre.org/2026/05/cut-the-budget-not-the-system-a-call-for-health-care-collaboration/",
@@ -110,24 +118,14 @@
       ]
     },
     {
-      "title": "Pharmacies Barred From Blood Taking, Says Health Ministry",
-      "url": "https://codeblue.galencentre.org/2026/04/pharmacies-barred-from-blood-taking-says-health-ministry/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-04-30T07:21:15",
-      "summary": "MOH says blood taking is not permitted in community pharmacies because phlebotomy is a clinical procedure that can only be carried out in licensed health care facilities under Act 586, adding that it will continue to strengthen enforcement. The post Pharmacies Barred From Blood Taking, Says Health Ministry appeared first on CodeBlue .",
+      "title": "Medicine supply jitters: Health Ministry forms special task force to secure pipeline",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/05/medicine-supply-jitters-health-ministry-forms-special-task-force-to-secure-pipeline/218750",
+      "source": "Malay Mail",
+      "published": "2026-05-05T01:03:09",
+      "summary": "KUALA LUMPUR, May 5 — The Ministry of Health (MOH) is strengthening the country’s preparedness in the face o...",
       "keywords_matched": [
         "health",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Backbenchers Club urge mitigation plan over proposed RM3b health budget restructuring",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/04/backbenchers-club-urge-mitigation-plan-over-proposed-rm3b-health-budget-restructuring/218724",
-      "source": "Malay Mail",
-      "published": "2026-05-04T09:16:33",
-      "summary": "KUALA LUMPUR, May 4 — The Madani Government Backbenchers Club (BBC) has urged the government to present a comprehe...",
-      "keywords_matched": [
-        "health"
+        "medicine"
       ]
     }
   ]
