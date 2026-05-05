@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-05T10:44:38.667688",
+  "fetched": "2026-05-05T12:00:39.825707",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "Post-Maternity Wage Allowance In Malaysia: Breastfeeding, Work Retention, And Structural Conditions — June Joseph",
@@ -101,6 +101,28 @@
       "summary": "On health spending cuts, PM Anwar Ibrahim says only the \"more luxurious\" scope of hospital projects will be \"reduced slightly\". It's unclear if development expenditure is also targeted in the government's austerity drive, besides operational expenditure. The post Anwar: Only ‘Luxurious’ Scope Of Hospital Projects Targeted In Spending Cuts appeared first on CodeBlue .",
       "keywords_matched": [
         "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Recycling plant suspected to be source of Sungai Semenyih odour pollution, says exco",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/05/recycling-plant-suspected-to-be-source-of-sungai-semenyih-odour-pollution-says-exco/218839",
+      "source": "Malay Mail",
+      "published": "2026-05-05T11:58:03",
+      "summary": "SHAH ALAM, May 5 — A recycling plant in the Mahkota Beranang industrial area, in Semenyih, is suspected to be the...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Police: Ipoh murder suspect found with beer cans at scene, had prior psychiatric treatment in Tanjong Rambutan hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/05/police-ipoh-murder-suspect-found-with-beer-cans-at-scene-had-prior-psychiatric-treatment-in-tanjong-rambutan-hospital/218836",
+      "source": "Malay Mail",
+      "published": "2026-05-05T11:14:00",
+      "summary": "SERI ISKANDAR, May 5 — The male suspect believed to be involved in the murder of an elderly woman in Taman Desa Am...",
+      "keywords_matched": [
+        "treatment",
         "hospital",
         "hospital"
       ]
