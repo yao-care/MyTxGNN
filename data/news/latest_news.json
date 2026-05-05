@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-05T02:36:44.094304",
+  "fetched": "2026-05-05T05:42:16.604966",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,34 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "When Tragedy Goes Viral: What Social Media Exposure Means For Mental Health In Malaysia — Dr Lim Poh Khuen",
+      "url": "https://codeblue.galencentre.org/2026/05/when-tragedy-goes-viral-what-social-media-exposure-means-for-mental-health-in-malaysia-dr-lim-poh-khuen/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-05T03:38:56",
+      "summary": "Mental health protection in the digital age is not solely an individual responsibility, but a broader public health concern. The post When Tragedy Goes Viral: What Social Media Exposure Means For Mental Health In Malaysia — Dr Lim Poh Khuen appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Government Backbenchers Tout Base MHIT To Mitigate Health Spending Cuts",
+      "url": "https://codeblue.galencentre.org/2026/05/government-backbenchers-tout-base-mhit-to-mitigate-health-spending-cuts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-05T03:30:00",
+      "summary": "BBC chair Dr Zaliha Mustafa wants the Base MHIT to be launched quickly to mitigate Putrajaya's health spending cuts, so as to reduce dependence on public health care funded by the government. Base MHIT is meant to be offered by private insurance companies. The post Government Backbenchers Tout Base MHIT To Mitigate Health Spending Cuts appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "‘Every Clinician Carries A Small Cemetery’: Finding Healing And Hope Through A-Shield — Dr Muhammad Yassin",
+      "url": "https://codeblue.galencentre.org/2026/05/every-clinician-carries-a-small-cemetery-finding-healing-and-hope-through-a-shield-dr-muhammad-yassin/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-05T02:59:53",
+      "summary": "The A‑Shield framework sits comfortably within this philosophy: investigations focus on facts and processes, while peer support focuses on the person. The post ‘Every Clinician Carries A Small Cemetery’: Finding Healing And Hope Through A-Shield — Dr Muhammad Yassin appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Agriculture Ministry Braces For Potential Development Spending Cuts",
       "url": "https://codeblue.galencentre.org/2026/05/agriculture-ministry-braces-for-potential-development-spending-cuts/",
@@ -80,41 +108,6 @@
         "medicine",
         "drug",
         "doctor"
-      ]
-    },
-    {
-      "title": "Cut Waste If We Must, But Don’t Cut Protection",
-      "url": "https://codeblue.galencentre.org/2026/05/cut-waste-if-we-must-but-dont-cut-protection/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-01T01:57:32",
-      "summary": "The wrong health spending cuts will cost Malaysia more than they save. Don't touch primary care, emergency services, public health/communicable disease control, essential medicines, and MCH. Older Malaysians will be among the first to suffer consequences. The post Cut Waste If We Must, But Don’t Cut Protection appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medicine",
-        "disease"
-      ]
-    },
-    {
-      "title": "Dialysis, Cancer Patient Groups Oppose Health Spending Cuts",
-      "url": "https://codeblue.galencentre.org/2026/05/dialysis-cancer-patient-groups-oppose-health-spending-cuts/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-01T01:54:44",
-      "summary": "NKF and NCSM warn that cuts to the government's health budget may hit dialysis and cancer services. NKF, which receives substantial subsidies from MOH for kidney replacement therapy, says it may be forced to reduce screening and prevention programmes. The post Dialysis, Cancer Patient Groups Oppose Health Spending Cuts appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "therapy",
-        "cancer",
-        "patient"
-      ]
-    },
-    {
-      "title": "Dzulkefly Expects 10% Cut To Health Ministry’s Budget",
-      "url": "https://codeblue.galencentre.org/2026/05/dzulkefly-expects-10-cut-to-health-ministrys-budget/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-01T01:53:15",
-      "summary": "Dr Dzul says he expects a cut of about 10% to MOH's RM46.5 billion budget, but maintains that \"essential core services\" will be protected. A 10% cut is equivalent to RM4.65 billion, much higher than the RM3 billion cut initially suggested by the Treasury. The post Dzulkefly Expects 10% Cut To Health Ministry’s Budget appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
       ]
     },
     {
