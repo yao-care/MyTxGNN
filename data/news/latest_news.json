@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-06T11:05:21.039489",
+  "fetched": "2026-05-06T14:06:56.441237",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Newcastle University Admits Malaysia Medical Graduates Deprioritised For UK Training",
@@ -100,16 +100,6 @@
       "published": "2026-05-05T02:00:00",
       "summary": "A senior KPKM official warns of potential cuts to agricultural development expenditure, such as irrigation systems, saying the money may be redirected to fund the country's mounting fuel subsidies. The post Agriculture Ministry Braces For Potential Development Spending Cuts appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Johor to trial Jalan Skudai contraflow lane ahead of RTS Link launch in 2027",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/06/johor-to-trial-jalan-skudai-contraflow-lane-ahead-of-rts-link-launch-in-2027/218929",
-      "source": "Malay Mail",
-      "published": "2026-05-06T08:40:10",
-      "summary": "ISKANDAR PUTERI, May 5 — A contraflow lane will be implemented along the Senai-Johor Bahru corridor, particularly...",
-      "keywords_matched": [
-        "trial"
-      ]
     }
   ]
 }
