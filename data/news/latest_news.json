@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-06T02:41:30.309915",
+  "fetched": "2026-05-06T05:56:18.750601",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Jaya Grocer Launches ‘JS Cage-Free Eggs’ To Advance Animal Welfare",
+      "url": "https://codeblue.galencentre.org/2026/05/jaya-grocer-launches-js-cage-free-eggs-to-advance-animal-welfare/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-06T05:30:00",
+      "summary": "With the introduction of JS Cage-Free Eggs, Jaya Grocer reinforces its role as a forward-thinking retailer committed to innovation, quality, and responsibility. The post Jaya Grocer Launches ‘JS Cage-Free Eggs’ To Advance Animal Welfare appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Junior Doctors Work 10 To 15 Overtime Hours Weekly Without Pay: MMI",
+      "url": "https://codeblue.galencentre.org/2026/05/junior-doctors-work-10-to-15-overtime-hours-weekly-without-pay-mmi/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-06T03:40:20",
+      "summary": "MMI says junior doctors in Malaysia work 10-15 unrecorded and unpaid overtime hours weekly. HOs or MOs in Malaysia average at 65-85 weekly working hours, compared to 40 hours in the UK. MMI urges MOH to formalise a Safe Working Hours Policy for doctors. The post Junior Doctors Work 10 To 15 Overtime Hours Weekly Without Pay: MMI appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
     {
       "title": "Galen Centre Moots Health Service Commission With Ring-Fenced Five-Year Funding",
       "url": "https://codeblue.galencentre.org/2026/05/galen-centre-moots-health-service-commission-with-ring-fenced-five-year-funding/",
@@ -84,43 +102,32 @@
       ]
     },
     {
-      "title": "Malaysia Needs A Health Service Commission Authorised With Manpower, Funding Powers — MMA",
-      "url": "https://codeblue.galencentre.org/2026/05/malaysia-needs-a-health-service-commission-authorised-with-manpower-funding-powers-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-04T06:58:05",
-      "summary": "Malaysia needs a Health Service Commission — with full independence over manpower and funding. Health care workforce planning cannot operate effectively within a one-size-fits-all civil service framework. The post Malaysia Needs A Health Service Commission Authorised With Manpower, Funding Powers — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Health Workers Need Clarity, Not ‘Strategic Directions’ — Clinician",
-      "url": "https://codeblue.galencentre.org/2026/05/health-workers-need-clarity-not-strategic-directions-clinician/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-04T05:30:00",
-      "summary": "Health frontliners don't need more frameworks. We don't need more “strategic directions” or “ongoing engagements.” Many of us don't like fluff; we don't need unnecessary content packaged as reform. We need clarity, alignment, timelines and decisions. The post Health Workers Need Clarity, Not ‘Strategic Directions’ — Clinician appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Recycling plant suspected to be source of Sungai Semenyih odour pollution, says exco",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/05/recycling-plant-suspected-to-be-source-of-sungai-semenyih-odour-pollution-says-exco/218839",
+      "title": "Sessions Court allows removal of ‘received’ from charge in Lim Guan Eng tunnel graft trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/06/sessions-court-allows-removal-of-received-from-charge-in-lim-guan-eng-tunnel-graft-trial/218893",
       "source": "Malay Mail",
-      "published": "2026-05-05T11:58:03",
-      "summary": "SHAH ALAM, May 5 — A recycling plant in the Mahkota Beranang industrial area, in Semenyih, is suspected to be the...",
+      "published": "2026-05-06T04:42:49",
+      "summary": "KUALA LUMPUR, May 6 — Former Penang chief minister Lim Guan Eng’s undersea tunnel corruption trial will cont...",
       "keywords_matched": [
         "trial"
       ]
     },
     {
-      "title": "Police: Ipoh murder suspect found with beer cans at scene, had prior psychiatric treatment in Tanjong Rambutan hospital",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/05/police-ipoh-murder-suspect-found-with-beer-cans-at-scene-had-prior-psychiatric-treatment-in-tanjong-rambutan-hospital/218836",
+      "title": "Teen pleads not guilty to dangerous driving causing cyclist’s death in Kuching",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/06/teen-pleads-not-guilty-to-dangerous-driving-causing-cyclists-death-in-kuching/218887",
       "source": "Malay Mail",
-      "published": "2026-05-05T11:14:00",
-      "summary": "SERI ISKANDAR, May 5 — The male suspect believed to be involved in the murder of an elderly woman in Taman Desa Am...",
+      "published": "2026-05-06T04:10:52",
+      "summary": "KUCHING, May 6 — A 19-year-old man claimed trial at the Magistrates’ Court here on Wednesday to a charge of...",
       "keywords_matched": [
-        "treatment",
+        "trial"
+      ]
+    },
+    {
+      "title": "Teen couple in Melaka to be charged after alleged abortion attempt sends girl to hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/06/teen-couple-in-melaka-to-be-charged-after-alleged-abortion-attempt-sends-girl-to-hospital/218870",
+      "source": "Malay Mail",
+      "published": "2026-05-06T03:12:25",
+      "summary": "MELAKA, May 6 — Melaka police have reportedly uncovered two alleged concealment of birth cases this year, includin...",
+      "keywords_matched": [
         "hospital",
         "hospital"
       ]
