@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-07T06:09:03.934310",
+  "fetched": "2026-05-07T09:30:29.533576",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 13,
   "items": [
+    {
+      "title": "MOH Issuing New Circular On Junior Medical Officers’ Working Hours",
+      "url": "https://codeblue.galencentre.org/2026/05/moh-issuing-new-circular-on-junior-medical-officers-working-hours/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-07T08:15:59",
+      "summary": "Dr Dzul says the Health DG will issue a new circular on junior medical officers' working hours, besides stressing compliance with flexi-work guidelines for housemen. Junior doctors in Malaysia work 65 to 85 hours weekly, far higher than the UK's 40 hours. The post MOH Issuing New Circular On Junior Medical Officers’ Working Hours appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "Mudah Healthtech, Sihat XPress Kiosk To Accelerate Preventive Care",
       "url": "https://codeblue.galencentre.org/2026/05/mudah-healthtech-sihat-xpress-kiosk-to-accelerate-preventive-care/",
@@ -94,11 +106,31 @@
       ]
     },
     {
-      "title": "When Tragedy Goes Viral: What Social Media Exposure Means For Mental Health In Malaysia — Dr Lim Poh Khuen",
-      "url": "https://codeblue.galencentre.org/2026/05/when-tragedy-goes-viral-what-social-media-exposure-means-for-mental-health-in-malaysia-dr-lim-poh-khuen/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-05T03:38:56",
-      "summary": "Mental health protection in the digital age is not solely an individual responsibility, but a broader public health concern. The post When Tragedy Goes Viral: What Social Media Exposure Means For Mental Health In Malaysia — Dr Lim Poh Khuen appeared first on CodeBlue .",
+      "title": "Police seize RM16.3m worth of meth, fentanyl in Tawau raids, two charged under Dangerous Drugs Act",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/07/police-seize-rm163m-worth-of-meth-fentanyl-in-tawau-raids-two-charged-under-dangerous-drugs-act/219088",
+      "source": "Malay Mail",
+      "published": "2026-05-07T09:27:51",
+      "summary": "TAWAU, May 7 — The Royal Malaysia Police (PDRM) seized 323.91 kilogrammes (kg) of methamphetamine and 0.98 litres...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Perak exco: Ambulance reached Pulau Pangkor crash site within minutes, two‑hour delay claim ‘baseless’",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/07/perak-exco-ambulance-reached-pulau-pangkor-crash-site-within-minutes-twohour-delay-claim-baseless/219079",
+      "source": "Malay Mail",
+      "published": "2026-05-07T08:57:23",
+      "summary": "IPOH, May 7 — Pulau Pangkor Health Clinic has filed a police report after a viral video alleged delays in the ambu...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Dzulkefly: MOH to issue guidelines on house officers’ working hours following report of 85‑hour weeks",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/07/dzulkefly-moh-to-issue-guidelines-on-house-officers-working-hours-following-report-of-85hour-weeks/219073",
+      "source": "Malay Mail",
+      "published": "2026-05-07T08:24:30",
+      "summary": "KUALA LUMPUR, May 7 — The Ministry of Health (MOH) will issue a circular on guidelines for working hour limits for...",
       "keywords_matched": [
         "health"
       ]
