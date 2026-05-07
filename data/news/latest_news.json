@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-07T02:43:44.947463",
+  "fetched": "2026-05-07T06:09:03.934310",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,26 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Mudah Healthtech, Sihat XPress Kiosk To Accelerate Preventive Care",
+      "url": "https://codeblue.galencentre.org/2026/05/mudah-healthtech-sihat-xpress-kiosk-to-accelerate-preventive-care/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-07T03:37:18",
+      "summary": "Mudah Healthtech’s Sihat Xpress kiosk closes the health care gap between urban and rural areas, acting as a critical health care link. The post Mudah Healthtech, Sihat XPress Kiosk To Accelerate Preventive Care appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Sustainability Of Primary Care Supersedes Doctors’ Income: FPMPAM",
+      "url": "https://codeblue.galencentre.org/2026/05/sustainability-of-primary-care-supersedes-doctors-income-fpmpam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-07T03:30:00",
+      "summary": "FPMPAM says MMA's survey about GP clinics appears to refer to clinic business revenue, rather than doctors' personal income, adding that the bigger issue is about the sustainability of Malaysia's community-based primary care system, not doctors' earnings. The post Sustainability Of Primary Care Supersedes Doctors’ Income: FPMPAM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
     {
       "title": "‘Godzilla’ El Niño May Slash Malaysia’s Rice Output",
       "url": "https://codeblue.galencentre.org/2026/05/godzilla-el-nino-may-slash-malaysias-rice-output/",
@@ -82,24 +102,6 @@
       "keywords_matched": [
         "health"
       ]
-    },
-    {
-      "title": "Government Backbenchers Tout Base MHIT To Mitigate Health Spending Cuts",
-      "url": "https://codeblue.galencentre.org/2026/05/government-backbenchers-tout-base-mhit-to-mitigate-health-spending-cuts/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-05T03:30:00",
-      "summary": "BBC chair Dr Zaliha Mustafa wants the Base MHIT to be launched quickly to mitigate Putrajaya's health spending cuts, so as to reduce dependence on public health care funded by the government. Base MHIT is meant to be offered by private insurance companies. The post Government Backbenchers Tout Base MHIT To Mitigate Health Spending Cuts appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "‘Every Clinician Carries A Small Cemetery’: Finding Healing And Hope Through A-Shield — Dr Muhammad Yassin",
-      "url": "https://codeblue.galencentre.org/2026/05/every-clinician-carries-a-small-cemetery-finding-healing-and-hope-through-a-shield-dr-muhammad-yassin/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-05T02:59:53",
-      "summary": "The A‑Shield framework sits comfortably within this philosophy: investigations focus on facts and processes, while peer support focuses on the person. The post ‘Every Clinician Carries A Small Cemetery’: Finding Healing And Hope Through A-Shield — Dr Muhammad Yassin appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
