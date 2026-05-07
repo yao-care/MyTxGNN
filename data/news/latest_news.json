@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-07T11:45:49.842983",
+  "fetched": "2026-05-07T14:04:03.258795",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "MOH Issuing New Circular On Junior Medical Officers’ Working Hours",
@@ -121,16 +121,6 @@
       "source": "Malay Mail",
       "published": "2026-05-07T08:57:23",
       "summary": "IPOH, May 7 — Pulau Pangkor Health Clinic has filed a police report after a viral video alleged delays in the ambu...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Dzulkefly: MOH to issue guidelines on house officers’ working hours following report of 85‑hour weeks",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/07/dzulkefly-moh-to-issue-guidelines-on-house-officers-working-hours-following-report-of-85hour-weeks/219073",
-      "source": "Malay Mail",
-      "published": "2026-05-07T08:24:30",
-      "summary": "KUALA LUMPUR, May 7 — The Ministry of Health (MOH) will issue a circular on guidelines for working hour limits for...",
       "keywords_matched": [
         "health"
       ]
