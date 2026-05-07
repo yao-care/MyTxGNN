@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-06T23:50:37.702234",
+  "fetched": "2026-05-07T02:43:44.947463",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "‘Godzilla’ El Niño May Slash Malaysia’s Rice Output",
+      "url": "https://codeblue.galencentre.org/2026/05/godzilla-el-nino-may-slash-malaysias-rice-output/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-07T02:00:00",
+      "summary": "Extreme weather projections could slash local rice production from ~40% contribution in key granary states to as low as 20%, says a KPKM official. Malaysia only produces 52% of its rice needs, leaving it exposed if exporting countries restrict supply. The post ‘Godzilla’ El Niño May Slash Malaysia’s Rice Output appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Newcastle University Admits Malaysia Medical Graduates Deprioritised For UK Training",
       "url": "https://codeblue.galencentre.org/2026/05/newcastle-university-admits-malaysia-medical-graduates-deprioritised-for-uk-training/",
@@ -91,14 +99,6 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-05-05T02:59:53",
       "summary": "The A‑Shield framework sits comfortably within this philosophy: investigations focus on facts and processes, while peer support focuses on the person. The post ‘Every Clinician Carries A Small Cemetery’: Finding Healing And Hope Through A-Shield — Dr Muhammad Yassin appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Agriculture Ministry Braces For Potential Development Spending Cuts",
-      "url": "https://codeblue.galencentre.org/2026/05/agriculture-ministry-braces-for-potential-development-spending-cuts/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-05T02:00:00",
-      "summary": "A senior KPKM official warns of potential cuts to agricultural development expenditure, such as irrigation systems, saying the money may be redirected to fund the country's mounting fuel subsidies. The post Agriculture Ministry Braces For Potential Development Spending Cuts appeared first on CodeBlue .",
       "keywords_matched": []
     }
   ]
