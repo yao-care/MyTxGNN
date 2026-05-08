@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-08T05:28:41.221640",
+  "fetched": "2026-05-08T07:28:00.837181",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,38 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Humane Cage-Free Farming Practices Growing In Malaysia: Advocates",
+      "url": "https://codeblue.galencentre.org/2026/05/humane-cage-free-farming-practices-growing-in-malaysia-advocates/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-08T07:10:18",
+      "summary": "Malaysia is moving toward a more responsible and sustainable food production ecosystem. The rising adoption of cage-free systems reflects a growing understanding that animal welfare, sustainability, food safety, and business resilience are interconnected. The post Humane Cage-Free Farming Practices Growing In Malaysia: Advocates appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Cut Waste, Not Health: Tax Harm, Protect Malaysians — MyWatch",
+      "url": "https://codeblue.galencentre.org/2026/05/cut-waste-not-health-tax-harm-protect-malaysians-mywatch/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-08T06:50:19",
+      "summary": "At a time when public hospitals are overcrowded, primary care clinics are stretched, medicine costs are rising, and chronic disease burdens are worsening, cutting health spending is economically short-sighted and socially reckless. The post Cut Waste, Not Health: Tax Harm, Protect Malaysians — MyWatch appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medicine",
+        "disease",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "When Care Breaks Down At Home: Malaysia’s Hidden Crisis Of Dependent Ageing",
+      "url": "https://codeblue.galencentre.org/2026/05/when-care-breaks-down-at-home-malaysias-hidden-crisis-of-dependent-ageing/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-08T06:00:00",
+      "summary": "Malaysia’s true elder care workforce is found in the home, not institutions. These carers are the real frontline of dependent ageing. Yet policy still treats them as informal extensions of family duty, rather than essential components of the care system. The post When Care Breaks Down At Home: Malaysia’s Hidden Crisis Of Dependent Ageing appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Farmland Shrinks As Data Centres Expand, Raising Food Security Concerns",
       "url": "https://codeblue.galencentre.org/2026/05/farmland-shrinks-as-data-centres-expand-raising-food-security-concerns/",
@@ -84,31 +114,24 @@
       ]
     },
     {
-      "title": "Jaya Grocer Launches ‘JS Cage-Free Eggs’ To Advance Animal Welfare",
-      "url": "https://codeblue.galencentre.org/2026/05/jaya-grocer-launches-js-cage-free-eggs-to-advance-animal-welfare/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-06T05:30:00",
-      "summary": "With the introduction of JS Cage-Free Eggs, Jaya Grocer reinforces its role as a forward-thinking retailer committed to innovation, quality, and responsibility. The post Jaya Grocer Launches ‘JS Cage-Free Eggs’ To Advance Animal Welfare appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Junior Doctors Work 10 To 15 Overtime Hours Weekly Without Pay: MMI",
-      "url": "https://codeblue.galencentre.org/2026/05/junior-doctors-work-10-to-15-overtime-hours-weekly-without-pay-mmi/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-06T03:40:20",
-      "summary": "MMI says junior doctors in Malaysia work 10-15 unrecorded and unpaid overtime hours weekly. HOs or MOs in Malaysia average at 65-85 weekly working hours, compared to 40 hours in the UK. MMI urges MOH to formalise a Safe Working Hours Policy for doctors. The post Junior Doctors Work 10 To 15 Overtime Hours Weekly Without Pay: MMI appeared first on CodeBlue .",
+      "title": "Police: Man in his 80s killed in violent robbery at Ayer Tawar home, wife hospitalised",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/08/police-man-in-his-80s-killed-in-violent-robbery-at-ayer-tawar-home-wife-hospitalised/219200",
+      "source": "Malay Mail",
+      "published": "2026-05-08T07:02:58",
+      "summary": "IPOH, May 8 — An elderly man was killed while his wife was injured after they were allegedly assaulted with a hard...",
       "keywords_matched": [
-        "doctor"
+        "hospital",
+        "hospital"
       ]
     },
     {
-      "title": "Galen Centre Moots Health Service Commission With Ring-Fenced Five-Year Funding",
-      "url": "https://codeblue.galencentre.org/2026/05/galen-centre-moots-health-service-commission-with-ring-fenced-five-year-funding/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-06T01:20:00",
-      "summary": "The Galen Centre calls for the establishment of a Health Service Commission (SPK) authorised to create and fill positions, and set salary scales, with funding for these positions ring-fenced in a 5-year fiscal framework. MPs have mixed views about the SPK. The post Galen Centre Moots Health Service Commission With Ring-Fenced Five-Year Funding appeared first on CodeBlue .",
+      "title": "Police bust two international drug syndicates, seize RM12.6m worth of ganja at KLIA",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/08/police-bust-two-international-drug-syndicates-seize-rm126m-worth-of-ganja-at-klia/219191",
+      "source": "Malay Mail",
+      "published": "2026-05-08T06:21:03",
+      "summary": "SHAH ALAM, May 8 — Police busted two international drug trafficking syndicates after seizing drugs worth RM12.6 mi...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     },
     {
