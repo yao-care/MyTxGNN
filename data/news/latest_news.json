@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-08T07:28:00.837181",
+  "fetched": "2026-05-08T09:18:54.440143",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
+    {
+      "title": "UK Education ‘Important’, Says British High Comm Amid NUMed Limbo",
+      "url": "https://codeblue.galencentre.org/2026/05/uk-education-important-says-british-high-comm-amid-numed-limbo/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-08T08:56:23",
+      "summary": "Despite 103 NUMed graduates being stuck in a limbo due to the UK's new medical training law, the British High Commission says the UK will continue to promote UK education in Malaysia because education is an important pillar of the UK-Malaysia relationship. The post UK Education ‘Important’, Says British High Comm Amid NUMed Limbo appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Humane Cage-Free Farming Practices Growing In Malaysia: Advocates",
       "url": "https://codeblue.galencentre.org/2026/05/humane-cage-free-farming-practices-growing-in-malaysia-advocates/",
@@ -104,13 +114,13 @@
       "keywords_matched": []
     },
     {
-      "title": "Newcastle University Admits Malaysia Medical Graduates Deprioritised For UK Training",
-      "url": "https://codeblue.galencentre.org/2026/05/newcastle-university-admits-malaysia-medical-graduates-deprioritised-for-uk-training/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-06T09:58:28",
-      "summary": "Newcastle University admits that medical graduates at its Malaysian campus, NUMed, have been deprioritised for training in the NHS, following the UK's new Medical Training (Prioritisation) Act, but claims that NUMed's MBBS degree is still GMC accredited. The post Newcastle University Admits Malaysia Medical Graduates Deprioritised For UK Training appeared first on CodeBlue .",
+      "title": "Five-month-old boy killed after drug-positive lorry driver crashes into Perodua Myvi on Baling road",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/08/five-month-old-boy-killed-after-drug-positive-lorry-driver-crashes-into-perodua-myvi-on-baling-road/219207",
+      "source": "Malay Mail",
+      "published": "2026-05-08T07:50:49",
+      "summary": "BALING, May 8 — A five-month-old baby boy in Kedah was killed while his parents were injured in a collision with a...",
       "keywords_matched": [
-        "medical"
+        "drug"
       ]
     },
     {
@@ -132,26 +142,6 @@
       "summary": "SHAH ALAM, May 8 — Police busted two international drug trafficking syndicates after seizing drugs worth RM12.6 mi...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Van driver claims trial to reckless driving charge over death of Year Two pupil in Batu Pahat",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/08/van-driver-claims-trial-to-reckless-driving-charge-over-death-of-year-two-pupil-in-batu-pahat/219178",
-      "source": "Malay Mail",
-      "published": "2026-05-08T05:07:25",
-      "summary": "BATU PAHAT, May 8 — A van driver pleaded not guilty in the Magistrate’s Court here today to reckless driving...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Penang records RM956b trade, strengthens role as key E&E export hub in Malaysia",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/08/penang-records-rm956b-trade-strengthens-role-as-key-ee-export-hub-in-malaysia/219164",
-      "source": "Malay Mail",
-      "published": "2026-05-08T03:59:43",
-      "summary": "GEORGE TOWN, May 8 — Penang has remained as the country’s industrial heartbeat and is recognised as one of t...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
