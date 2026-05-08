@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-08T22:02:56.706981",
+  "fetched": "2026-05-08T23:54:49.046250",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "UK Education ‘Important’, Says British High Comm Amid NUMed Limbo",
@@ -122,16 +122,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Five-month-old boy killed after drug-positive lorry driver crashes into Perodua Myvi on Baling road",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/08/five-month-old-boy-killed-after-drug-positive-lorry-driver-crashes-into-perodua-myvi-on-baling-road/219207",
-      "source": "Malay Mail",
-      "published": "2026-05-08T07:50:49",
-      "summary": "BALING, May 8 — A five-month-old baby boy in Kedah was killed while his parents were injured in a collision with a...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
