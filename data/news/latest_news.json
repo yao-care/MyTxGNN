@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-08T11:13:03.524862",
+  "fetched": "2026-05-08T13:44:01.269172",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "UK Education ‘Important’, Says British High Comm Amid NUMed Limbo",
@@ -132,17 +132,6 @@
       "summary": "BALING, May 8 — A five-month-old baby boy in Kedah was killed while his parents were injured in a collision with a...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Police: Man in his 80s killed in violent robbery at Ayer Tawar home, wife hospitalised",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/08/police-man-in-his-80s-killed-in-violent-robbery-at-ayer-tawar-home-wife-hospitalised/219200",
-      "source": "Malay Mail",
-      "published": "2026-05-08T07:02:58",
-      "summary": "IPOH, May 8 — An elderly man was killed while his wife was injured after they were allegedly assaulted with a hard...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
