@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-08T09:18:54.440143",
+  "fetched": "2026-05-08T11:13:03.524862",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -114,6 +114,17 @@
       "keywords_matched": []
     },
     {
+      "title": "Queen praises Uzbekistan’s beauty, Islamic heritage and hospitality",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/08/queen-praises-uzbekistans-beauty-islamic-heritage-and-hospitality/219234",
+      "source": "Malay Mail",
+      "published": "2026-05-08T09:30:35",
+      "summary": "KUALA LUMPUR, May 8 — Her Majesty Raja Zarith Sofiah, Queen of Malaysia has expressed admiration for Uzbekistan&rs...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
       "title": "Five-month-old boy killed after drug-positive lorry driver crashes into Perodua Myvi on Baling road",
       "url": "https://www.malaymail.com/news/malaysia/2026/05/08/five-month-old-boy-killed-after-drug-positive-lorry-driver-crashes-into-perodua-myvi-on-baling-road/219207",
       "source": "Malay Mail",
@@ -132,16 +143,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Police bust two international drug syndicates, seize RM12.6m worth of ganja at KLIA",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/08/police-bust-two-international-drug-syndicates-seize-rm126m-worth-of-ganja-at-klia/219191",
-      "source": "Malay Mail",
-      "published": "2026-05-08T06:21:03",
-      "summary": "SHAH ALAM, May 8 — Police busted two international drug trafficking syndicates after seizing drugs worth RM12.6 mi...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
