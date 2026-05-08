@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-07T23:01:34.274667",
+  "fetched": "2026-05-08T02:48:06.962866",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,22 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Unfair Treatment At HTJS — Houseman",
+      "url": "https://codeblue.galencentre.org/2026/05/unfair-treatment-at-htjs-houseman/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-08T02:00:00",
+      "summary": "Housemen have been stuck in their medical posting at HTJS for nearly a month now. It's taking a toll on the mental health of all housemen in this hospital because not only are we behind our other batchmates, other departments are severely lacking in HOs. The post Unfair Treatment At HTJS — Houseman appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "treatment",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "MOH Issuing New Circular On Junior Medical Officers’ Working Hours",
       "url": "https://codeblue.galencentre.org/2026/05/moh-issuing-new-circular-on-junior-medical-officers-working-hours/",
@@ -94,36 +108,6 @@
       "published": "2026-05-05T07:30:00",
       "summary": "The return to work is where biological needs meet institutional design. If that interface is unsupported, even strong early breastfeeding initiation will struggle to continue. The post Post-Maternity Wage Allowance In Malaysia: Breastfeeding, Work Retention, And Structural Conditions — June Joseph appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Beyond Shadow AI: A Physician’s Blueprint For Clinical Sovereignty — Dr Lim Wan Chieh",
-      "url": "https://codeblue.galencentre.org/2026/05/beyond-shadow-ai-a-physicians-blueprint-for-clinical-sovereignty-dr-lim-wan-chieh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-05T06:00:00",
-      "summary": "AI cannot replicate the lived, human insight of a physician. It is simply the loom; the physician remains the weaver. The post Beyond Shadow AI: A Physician’s Blueprint For Clinical Sovereignty — Dr Lim Wan Chieh appeared first on CodeBlue .",
-      "keywords_matched": [
-        "clinical"
-      ]
-    },
-    {
-      "title": "Police seize RM16.3m worth of meth, fentanyl in Tawau raids, two charged under Dangerous Drugs Act",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/07/police-seize-rm163m-worth-of-meth-fentanyl-in-tawau-raids-two-charged-under-dangerous-drugs-act/219088",
-      "source": "Malay Mail",
-      "published": "2026-05-07T09:27:51",
-      "summary": "TAWAU, May 7 — The Royal Malaysia Police (PDRM) seized 323.91 kilogrammes (kg) of methamphetamine and 0.98 litres...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Perak exco: Ambulance reached Pulau Pangkor crash site within minutes, two‑hour delay claim ‘baseless’",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/07/perak-exco-ambulance-reached-pulau-pangkor-crash-site-within-minutes-twohour-delay-claim-baseless/219079",
-      "source": "Malay Mail",
-      "published": "2026-05-07T08:57:23",
-      "summary": "IPOH, May 7 — Pulau Pangkor Health Clinic has filed a police report after a viral video alleged delays in the ambu...",
-      "keywords_matched": [
-        "health"
-      ]
     }
   ]
 }
