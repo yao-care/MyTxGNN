@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-08T02:48:06.962866",
+  "fetched": "2026-05-08T05:28:41.221640",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Farmland Shrinks As Data Centres Expand, Raising Food Security Concerns",
+      "url": "https://codeblue.galencentre.org/2026/05/farmland-shrinks-as-data-centres-expand-raising-food-security-concerns/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-08T03:30:00",
+      "summary": "KPKM warns that farmland is being converted for data centres and other industrial purposes, raising food security risks. Livestock land shrank 48% since 2017 due to development pressures. Data centre investments reached RM144 bil from 2021 to March 2025. The post Farmland Shrinks As Data Centres Expand, Raising Food Security Concerns appeared first on CodeBlue .",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
     {
       "title": "Unfair Treatment At HTJS — Houseman",
       "url": "https://codeblue.galencentre.org/2026/05/unfair-treatment-at-htjs-houseman/",
@@ -102,12 +112,24 @@
       ]
     },
     {
-      "title": "Post-Maternity Wage Allowance In Malaysia: Breastfeeding, Work Retention, And Structural Conditions — June Joseph",
-      "url": "https://codeblue.galencentre.org/2026/05/post-maternity-wage-allowance-in-malaysia-breastfeeding-work-retention-and-structural-conditions-june-joseph/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-05T07:30:00",
-      "summary": "The return to work is where biological needs meet institutional design. If that interface is unsupported, even strong early breastfeeding initiation will struggle to continue. The post Post-Maternity Wage Allowance In Malaysia: Breastfeeding, Work Retention, And Structural Conditions — June Joseph appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Van driver claims trial to reckless driving charge over death of Year Two pupil in Batu Pahat",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/08/van-driver-claims-trial-to-reckless-driving-charge-over-death-of-year-two-pupil-in-batu-pahat/219178",
+      "source": "Malay Mail",
+      "published": "2026-05-08T05:07:25",
+      "summary": "BATU PAHAT, May 8 — A van driver pleaded not guilty in the Magistrate’s Court here today to reckless driving...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Penang records RM956b trade, strengthens role as key E&E export hub in Malaysia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/08/penang-records-rm956b-trade-strengthens-role-as-key-ee-export-hub-in-malaysia/219164",
+      "source": "Malay Mail",
+      "published": "2026-05-08T03:59:43",
+      "summary": "GEORGE TOWN, May 8 — Penang has remained as the country’s industrial heartbeat and is recognised as one of t...",
+      "keywords_matched": [
+        "trial"
+      ]
     }
   ]
 }
