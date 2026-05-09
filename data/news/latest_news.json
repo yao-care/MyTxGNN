@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-09T11:51:17.080016",
+  "fetched": "2026-05-09T13:14:35.982846",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "UK Education ‘Important’, Says British High Comm Amid NUMed Limbo",
@@ -112,16 +112,6 @@
       "published": "2026-05-07T02:00:00",
       "summary": "Extreme weather projections could slash local rice production from ~40% contribution in key granary states to as low as 20%, says a KPKM official. Malaysia only produces 52% of its rice needs, leaving it exposed if exporting countries restrict supply. The post ‘Godzilla’ El Niño May Slash Malaysia’s Rice Output appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Penang’s RM250m Taman Mengkuang water plant, set to reduce dependence on Sungai Dua supply, now 35pc complete",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/09/penangs-rm250m-taman-mengkuang-water-plant-set-to-reduce-dependence-on-sungai-dua-supply-now-35pc-complete/219335",
-      "source": "Malay Mail",
-      "published": "2026-05-09T07:09:30",
-      "summary": "BUKIT MERTAJAM, May 9 — The RM250 million Taman Mengkuang Water Treatment Plant (LRA) project undertaken by Perbad...",
-      "keywords_matched": [
-        "treatment"
-      ]
     }
   ]
 }
