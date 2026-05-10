@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-10T22:44:07.559678",
+  "fetched": "2026-05-10T23:51:04.670086",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "UK Education ‘Important’, Says British High Comm Amid NUMed Limbo",
@@ -121,17 +121,6 @@
       "summary": "KUALA LUMPUR, May 10 — The National Anti-Drug Agency (AADK) recorded 1,084 positive drug cases from ins...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Malaysia tightens border health checks as hantavirus alert raised, says Dzulkefly",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/10/malaysia-tightens-border-health-checks-as-hantavirus-alert-raised-says-dzulkefly/219453",
-      "source": "Malay Mail",
-      "published": "2026-05-10T08:33:54",
-      "summary": "CYBERJAYA, May 10 — Malaysia is on full alert to face the threat of hantavirus infection, although no c...",
-      "keywords_matched": [
-        "health",
-        "virus"
       ]
     }
   ]
