@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-10T08:52:02.082546",
+  "fetched": "2026-05-10T10:13:37.755839",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "UK Education ‘Important’, Says British High Comm Amid NUMed Limbo",
@@ -112,6 +112,16 @@
       "published": "2026-05-07T02:00:00",
       "summary": "Extreme weather projections could slash local rice production from ~40% contribution in key granary states to as low as 20%, says a KPKM official. Malaysia only produces 52% of its rice needs, leaving it exposed if exporting countries restrict supply. The post ‘Godzilla’ El Niño May Slash Malaysia’s Rice Output appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "AADK detects over 1,000 drug-positive cases at Malaysia border entry points since 2024",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/10/aadk-detects-over-1000-drug-positive-cases-at-malaysia-border-entry-points-since-2024/219457",
+      "source": "Malay Mail",
+      "published": "2026-05-10T09:06:40",
+      "summary": "KUALA LUMPUR, May 10 — The National Anti-Drug Agency (AADK) recorded 1,084 positive drug cases from ins...",
+      "keywords_matched": [
+        "drug"
+      ]
     },
     {
       "title": "Malaysia tightens border health checks as hantavirus alert raised, says Dzulkefly",
