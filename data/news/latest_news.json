@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-10T06:10:36.645199",
+  "fetched": "2026-05-10T08:52:02.082546",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "UK Education ‘Important’, Says British High Comm Amid NUMed Limbo",
@@ -112,6 +112,17 @@
       "published": "2026-05-07T02:00:00",
       "summary": "Extreme weather projections could slash local rice production from ~40% contribution in key granary states to as low as 20%, says a KPKM official. Malaysia only produces 52% of its rice needs, leaving it exposed if exporting countries restrict supply. The post ‘Godzilla’ El Niño May Slash Malaysia’s Rice Output appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Malaysia tightens border health checks as hantavirus alert raised, says Dzulkefly",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/10/malaysia-tightens-border-health-checks-as-hantavirus-alert-raised-says-dzulkefly/219453",
+      "source": "Malay Mail",
+      "published": "2026-05-10T08:33:54",
+      "summary": "CYBERJAYA, May 10 — Malaysia is on full alert to face the threat of hantavirus infection, although no c...",
+      "keywords_matched": [
+        "health",
+        "virus"
+      ]
     }
   ]
 }
