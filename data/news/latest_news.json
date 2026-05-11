@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-11T10:37:14.916568",
+  "fetched": "2026-05-11T13:47:49.016089",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -108,6 +108,16 @@
       ]
     },
     {
+      "title": "Johor police bust two drug syndicates, seize RM4.77m worth of narcotics in raids",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/11/johor-police-bust-two-drug-syndicates-seize-rm477m-worth-of-narcotics-in-raids/219572",
+      "source": "Malay Mail",
+      "published": "2026-05-11T11:48:28",
+      "summary": "JOHOR BAHRU, May 11 — Police crippled two drug trafficking syndicates following the arrest of six local men and th...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "Penang tightens entry-point health security despite low hantavirus risk in Malaysia",
       "url": "https://www.malaymail.com/news/malaysia/2026/05/11/penang-tightens-entry-point-health-security-despite-low-hantavirus-risk-in-malaysia/219531",
       "source": "Malay Mail",
@@ -116,16 +126,6 @@
       "keywords_matched": [
         "health",
         "virus"
-      ]
-    },
-    {
-      "title": "Customs seizes illicit cash, drugs and liquor at KLIA",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/11/customs-seizes-illicit-cash-drugs-and-liquor-at-klia/219521",
-      "source": "Malay Mail",
-      "published": "2026-05-11T05:50:53",
-      "summary": "SEPANG, May 11 — Customs officers at the Kuala Lumpur International Airport (KLIA) have foiled attempts to smuggle...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
