@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-11T06:42:35.002633",
+  "fetched": "2026-05-11T10:37:14.916568",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Private Dental Practitioners Facing Growing Financial, Professional Pressure — MPDPA",
+      "url": "https://codeblue.galencentre.org/2026/05/private-dental-practitioners-facing-growing-financial-professional-pressure-mpdpa/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-11T07:30:00",
+      "summary": "Young dentists today are facing mounting challenges including income instability, rising rental and staffing costs, increasing prices of dental materials and equipment, and competitive fees undercutting within dense markets. The post Private Dental Practitioners Facing Growing Financial, Professional Pressure — MPDPA appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "What Comes After The Crash: Be Aware Of The Head Injury You Cannot See",
       "url": "https://codeblue.galencentre.org/2026/05/what-comes-after-the-crash-be-aware-of-the-head-injury-you-cannot-see/",
@@ -100,20 +108,6 @@
       ]
     },
     {
-      "title": "Unfair Treatment At HTJS — Houseman",
-      "url": "https://codeblue.galencentre.org/2026/05/unfair-treatment-at-htjs-houseman/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-08T02:00:00",
-      "summary": "Housemen have been stuck in their medical posting at HTJS for nearly a month now. It's taking a toll on the mental health of all housemen in this hospital because not only are we behind our other batchmates, other departments are severely lacking in HOs. The post Unfair Treatment At HTJS — Houseman appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "treatment",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
       "title": "Penang tightens entry-point health security despite low hantavirus risk in Malaysia",
       "url": "https://www.malaymail.com/news/malaysia/2026/05/11/penang-tightens-entry-point-health-security-despite-low-hantavirus-risk-in-malaysia/219531",
       "source": "Malay Mail",
@@ -132,27 +126,6 @@
       "summary": "SEPANG, May 11 — Customs officers at the Kuala Lumpur International Airport (KLIA) have foiled attempts to smuggle...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Penang sees surge in medical tourists, revenue crosses RM1.1b in 2025",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/11/penang-sees-surge-in-medical-tourists-revenue-crosses-rm11b-in-2025/219502",
-      "source": "Malay Mail",
-      "published": "2026-05-11T03:36:42",
-      "summary": "GEORGE TOWN, May 11 — Penang recorded strong growth in its medical tourism sector, with foreign patient numbers ri...",
-      "keywords_matched": [
-        "medical",
-        "patient"
-      ]
-    },
-    {
-      "title": "Ex-aide to Teresa Kok claims trial to graft, cheating charges linked to school funding applications",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/11/ex-aide-to-teresa-kok-claims-trial-to-graft-cheating-charges-linked-to-school-funding-applications/219491",
-      "source": "Malay Mail",
-      "published": "2026-05-11T02:39:34",
-      "summary": "KUALA LUMPUR, May 11 — A former aide to Seputeh MP Teresa Kok pleaded not guilty in the Sessions Court here...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
