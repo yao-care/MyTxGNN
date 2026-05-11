@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-11T02:57:35.967086",
+  "fetched": "2026-05-11T06:42:35.002633",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,38 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 14,
   "items": [
+    {
+      "title": "What Comes After The Crash: Be Aware Of The Head Injury You Cannot See",
+      "url": "https://codeblue.galencentre.org/2026/05/what-comes-after-the-crash-be-aware-of-the-head-injury-you-cannot-see/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-11T05:46:16",
+      "summary": "Road accident-related head injuries may unfold beyond the crash itself, with delayed symptoms and internal complications that are not always visible at the scene. The post What Comes After The Crash: Be Aware Of The Head Injury You Cannot See appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Vital Signs Of Malaysian Health Care Are Failing — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/05/vital-signs-of-malaysian-health-care-are-failing-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-11T05:30:00",
+      "summary": "The confluence of an unprecedented manpower exodus, a proposed RM4.65 bil funding cut, and the highest medical inflation in a decade has pushed MOH to its breaking point. Without radical, immediate intervention, Malaysia risks becoming a cautionary tale. The post Vital Signs Of Malaysian Health Care Are Failing — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
+    {
+      "title": "Target 45-Hour Work Week For Health Workers Beyond Housemen: MMA",
+      "url": "https://codeblue.galencentre.org/2026/05/target-45-hour-work-week-for-health-workers-beyond-housemen-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-11T03:40:00",
+      "summary": "MMA wants Malaysia to eventually move to a 45-hour work week for all health workers beyond housemen. Ex-senator Dr Lingeshwaran says the rigid 3-shift system for HOs will cause medical officers and specialists to be overworked due to a housemen shortage. The post Target 45-Hour Work Week For Health Workers Beyond Housemen: MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
     {
       "title": "Cardiothoracic Surgery Parallel Pathway Produces ‘Malaysian Qualification’: RCSEd",
       "url": "https://codeblue.galencentre.org/2026/05/cardiothoracic-surgery-parallel-pathway-produces-malaysian-qualification-rcsed/",
@@ -84,35 +114,35 @@
       ]
     },
     {
-      "title": "MOH Issuing New Circular On Junior Medical Officers’ Working Hours",
-      "url": "https://codeblue.galencentre.org/2026/05/moh-issuing-new-circular-on-junior-medical-officers-working-hours/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-07T08:15:59",
-      "summary": "Dr Dzul says the Health DG will issue a new circular on junior medical officers' working hours, besides stressing compliance with flexi-work guidelines for housemen. Junior doctors in Malaysia work 65 to 85 hours weekly, far higher than the UK's 40 hours. The post MOH Issuing New Circular On Junior Medical Officers’ Working Hours appeared first on CodeBlue .",
+      "title": "Penang tightens entry-point health security despite low hantavirus risk in Malaysia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/11/penang-tightens-entry-point-health-security-despite-low-hantavirus-risk-in-malaysia/219531",
+      "source": "Malay Mail",
+      "published": "2026-05-11T06:37:00",
+      "summary": "GEORGE TOWN, May 11 — Penang has strengthened health security at its international entry points at both the port a...",
       "keywords_matched": [
         "health",
+        "virus"
+      ]
+    },
+    {
+      "title": "Customs seizes illicit cash, drugs and liquor at KLIA",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/11/customs-seizes-illicit-cash-drugs-and-liquor-at-klia/219521",
+      "source": "Malay Mail",
+      "published": "2026-05-11T05:50:53",
+      "summary": "SEPANG, May 11 — Customs officers at the Kuala Lumpur International Airport (KLIA) have foiled attempts to smuggle...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Penang sees surge in medical tourists, revenue crosses RM1.1b in 2025",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/11/penang-sees-surge-in-medical-tourists-revenue-crosses-rm11b-in-2025/219502",
+      "source": "Malay Mail",
+      "published": "2026-05-11T03:36:42",
+      "summary": "GEORGE TOWN, May 11 — Penang recorded strong growth in its medical tourism sector, with foreign patient numbers ri...",
+      "keywords_matched": [
         "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Mudah Healthtech, Sihat XPress Kiosk To Accelerate Preventive Care",
-      "url": "https://codeblue.galencentre.org/2026/05/mudah-healthtech-sihat-xpress-kiosk-to-accelerate-preventive-care/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-07T03:37:18",
-      "summary": "Mudah Healthtech’s Sihat Xpress kiosk closes the health care gap between urban and rural areas, acting as a critical health care link. The post Mudah Healthtech, Sihat XPress Kiosk To Accelerate Preventive Care appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Sustainability Of Primary Care Supersedes Doctors’ Income: FPMPAM",
-      "url": "https://codeblue.galencentre.org/2026/05/sustainability-of-primary-care-supersedes-doctors-income-fpmpam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-07T03:30:00",
-      "summary": "FPMPAM says MMA's survey about GP clinics appears to refer to clinic business revenue, rather than doctors' personal income, adding that the bigger issue is about the sustainability of Malaysia's community-based primary care system, not doctors' earnings. The post Sustainability Of Primary Care Supersedes Doctors’ Income: FPMPAM appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
+        "patient"
       ]
     },
     {
