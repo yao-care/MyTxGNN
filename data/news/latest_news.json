@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-11T22:06:30.195631",
+  "fetched": "2026-05-11T23:56:34.166243",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Private Dental Practitioners Facing Growing Financial, Professional Pressure — MPDPA",
@@ -115,17 +115,6 @@
       "summary": "JOHOR BAHRU, May 11 — Police crippled two drug trafficking syndicates following the arrest of six local men and th...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Penang tightens entry-point health security despite low hantavirus risk in Malaysia",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/11/penang-tightens-entry-point-health-security-despite-low-hantavirus-risk-in-malaysia/219531",
-      "source": "Malay Mail",
-      "published": "2026-05-11T06:37:00",
-      "summary": "GEORGE TOWN, May 11 — Penang has strengthened health security at its international entry points at both the port a...",
-      "keywords_matched": [
-        "health",
-        "virus"
       ]
     }
   ]
