@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-12T03:28:59.820224",
+  "fetched": "2026-05-12T06:35:16.304935",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,28 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Eight in 10 Malaysians Unaware Of Sight‑Threatening Retinal Diseases, Survey Finds",
+      "url": "https://codeblue.galencentre.org/2026/05/eight-in-10-malaysians-unaware-of-sight-threatening-retinal-diseases-survey-finds/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-12T06:27:26",
+      "summary": "As Malaysia moves towards becoming an aged nation, with NCDs such as diabetes continuing to affect many Malaysians, preserving functional independence must be an important public health priority. The post Eight in 10 Malaysians Unaware Of Sight‑Threatening Retinal Diseases, Survey Finds appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "disease",
+        "diabetes"
+      ]
+    },
+    {
+      "title": "Three-Phase Rescue: Saving Malaysia’s Health Care System Before The Flatline — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/05/three-phase-rescue-saving-malaysias-health-care-system-before-the-flatline-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-12T03:30:00",
+      "summary": "Malaysia’s two-tiered health care system has deep roots in more than three decades of service, but it must now prove its flexibility. The post Three-Phase Rescue: Saving Malaysia’s Health Care System Before The Flatline — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Phase Out Parallel Pathway Programmes After UK’s Pivot",
       "url": "https://codeblue.galencentre.org/2026/05/phase-out-parallel-pathway-programmes-after-uks-pivot/",
@@ -88,33 +110,11 @@
       "keywords_matched": []
     },
     {
-      "title": "Cut Waste, Not Health: Tax Harm, Protect Malaysians — MyWatch",
-      "url": "https://codeblue.galencentre.org/2026/05/cut-waste-not-health-tax-harm-protect-malaysians-mywatch/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-08T06:50:19",
-      "summary": "At a time when public hospitals are overcrowded, primary care clinics are stretched, medicine costs are rising, and chronic disease burdens are worsening, cutting health spending is economically short-sighted and socially reckless. The post Cut Waste, Not Health: Tax Harm, Protect Malaysians — MyWatch appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medicine",
-        "disease",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "When Care Breaks Down At Home: Malaysia’s Hidden Crisis Of Dependent Ageing",
-      "url": "https://codeblue.galencentre.org/2026/05/when-care-breaks-down-at-home-malaysias-hidden-crisis-of-dependent-ageing/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-08T06:00:00",
-      "summary": "Malaysia’s true elder care workforce is found in the home, not institutions. These carers are the real frontline of dependent ageing. Yet policy still treats them as informal extensions of family duty, rather than essential components of the care system. The post When Care Breaks Down At Home: Malaysia’s Hidden Crisis Of Dependent Ageing appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Johor police bust two drug syndicates, seize RM4.77m worth of narcotics in raids",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/11/johor-police-bust-two-drug-syndicates-seize-rm477m-worth-of-narcotics-in-raids/219572",
+      "title": "Police still probing alleged Langkawi drug network linked to cop known as ‘Mr A’, says IGP",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/12/police-still-probing-alleged-langkawi-drug-network-linked-to-cop-known-as-mr-a-says-igp/219607",
       "source": "Malay Mail",
-      "published": "2026-05-11T11:48:28",
-      "summary": "JOHOR BAHRU, May 11 — Police crippled two drug trafficking syndicates following the arrest of six local men and th...",
+      "published": "2026-05-12T03:38:08",
+      "summary": "KUALA LUMPUR, May 12 — Inspector-General of Police Datuk Seri Mohd Khalid Ismail today said authorities are...",
       "keywords_matched": [
         "drug"
       ]
