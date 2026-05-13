@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-13T10:25:49.910745",
+  "fetched": "2026-05-13T13:10:22.444509",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -112,6 +112,16 @@
       ]
     },
     {
+      "title": "Ulu Bendul park closed after four suspected leptospirosis cases detected in Negeri Sembilan",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/13/ulu-bendul-park-closed-after-four-suspected-leptospirosis-cases-detected-in-negeri-sembilan/219834",
+      "source": "Malay Mail",
+      "published": "2026-05-13T12:29:26",
+      "summary": "SEREMBAN, May 13 — The Negeri Sembilan Health Department (JKNNS) has detected four suspected cases of leptospirosi...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Sungai Petani cops probe claim 13-day-old baby suffered fractured thigh during jaundice treatment",
       "url": "https://www.malaymail.com/news/malaysia/2026/05/13/sungai-petani-cops-probe-claim-13-day-old-baby-suffered-fractured-thigh-during-jaundice-treatment/219812",
       "source": "Malay Mail",
@@ -119,16 +129,6 @@
       "summary": "SUNGAI PETANI, May 13 — Police have confirmed receiving a report regarding allegations that a 13-day-old baby boy...",
       "keywords_matched": [
         "treatment"
-      ]
-    },
-    {
-      "title": "Baling mechanic claims trial to illegal possession of firearms",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/13/baling-mechanic-claims-trial-to-illegal-possession-of-firearms/219794",
-      "source": "Malay Mail",
-      "published": "2026-05-13T08:35:58",
-      "summary": "BALING, May 13 — A mechanic was charged at the Sessions and Magistrate’s Courts here today with five counts...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
