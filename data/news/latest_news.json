@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-12T22:59:11.053116",
+  "fetched": "2026-05-13T00:09:18.747968",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Eight in 10 Malaysians Unaware Of Sight‑Threatening Retinal Diseases, Survey Finds",
@@ -108,27 +108,6 @@
       "published": "2026-05-08T07:10:18",
       "summary": "Malaysia is moving toward a more responsible and sustainable food production ecosystem. The rising adoption of cage-free systems reflects a growing understanding that animal welfare, sustainability, food safety, and business resilience are interconnected. The post Humane Cage-Free Farming Practices Growing In Malaysia: Advocates appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "MOH may add hantavirus tracker to MySejahtera if needed, says deputy minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/12/moh-may-add-hantavirus-tracker-to-mysejahtera-if-needed-says-deputy-minister/219644",
-      "source": "Malay Mail",
-      "published": "2026-05-12T07:51:00",
-      "summary": "PUTRAJAYA, May 12 — The Ministry of Health (MOH) will add a hantavirus tracker to the MySejahtera application...",
-      "keywords_matched": [
-        "health",
-        "virus"
-      ]
-    },
-    {
-      "title": "Retired lady cop flees hit-and-run, tests positive for drugs after 50km chase from Negeri to Melaka",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/12/retired-lady-cop-flees-hit-and-run-tests-positive-for-drugs-after-50km-chase-from-negeri-to-melaka/219641",
-      "source": "Malay Mail",
-      "published": "2026-05-12T07:29:59",
-      "summary": "KUALA LUMPUR, May 12 — A 65-year-old former police sergeant who allegedly fled a hit-and-run crash led authorities...",
-      "keywords_matched": [
-        "drug"
-      ]
     }
   ]
 }
