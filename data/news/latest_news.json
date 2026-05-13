@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-13T00:09:18.747968",
+  "fetched": "2026-05-13T04:42:06.826462",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "UPM Pioneers New Fish Surgery Technique In Malaysia",
+      "url": "https://codeblue.galencentre.org/2026/05/upm-pioneers-new-fish-surgery-technique-in-malaysia/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-13T03:30:00",
+      "summary": "UPM has pioneered a new fish surgery technique based on a recirculating anaesthesia system, the first of its kind in Malaysia. The Fish Anaesthetic Delivery System allows surgery to be performed outside of water without disrupting the fish's oxygen supply. The post UPM Pioneers New Fish Surgery Technique In Malaysia appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Health DG’s Circular Welcome Breather For Housemen — Dr Ghazali Ahmad",
+      "url": "https://codeblue.galencentre.org/2026/05/health-dgs-circular-welcome-breather-for-housemen-dr-ghazali-ahmad/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-13T02:00:00",
+      "summary": "DG Mahathar's new circular, which limits housemen's working hours, is good for junior doctors. MOH should adopt a \"Doctors Come First\" motto to ensure staff retention. There will always be patients, but without doctors, waiting times will remain long. The post Health DG’s Circular Welcome Breather For Housemen — Dr Ghazali Ahmad appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor",
+        "patient"
+      ]
+    },
     {
       "title": "Eight in 10 Malaysians Unaware Of Sight‑Threatening Retinal Diseases, Survey Finds",
       "url": "https://codeblue.galencentre.org/2026/05/eight-in-10-malaysians-unaware-of-sight-threatening-retinal-diseases-survey-finds/",
@@ -92,22 +112,15 @@
       ]
     },
     {
-      "title": "UK Education ‘Important’, Says British High Comm Amid NUMed Limbo",
-      "url": "https://codeblue.galencentre.org/2026/05/uk-education-important-says-british-high-comm-amid-numed-limbo/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-08T08:56:23",
-      "summary": "Despite 103 NUMed graduates being stuck in a limbo due to the UK's new medical training law, the British High Commission says the UK will continue to promote UK education in Malaysia because education is an important pillar of the UK-Malaysia relationship. The post UK Education ‘Important’, Says British High Comm Amid NUMed Limbo appeared first on CodeBlue .",
+      "title": "Penang tightens sanitation, rodent monitoring at Swettenham Pier amid Hantavirus concerns",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/13/penang-tightens-sanitation-rodent-monitoring-at-swettenham-pier-amid-hantavirus-concerns/219754",
+      "source": "Malay Mail",
+      "published": "2026-05-13T04:23:50",
+      "summary": "GEORGE TOWN, May 13 — The Penang Port Commission (PPC) has strengthened precautionary and health surveillance meas...",
       "keywords_matched": [
-        "medical"
+        "health",
+        "virus"
       ]
-    },
-    {
-      "title": "Humane Cage-Free Farming Practices Growing In Malaysia: Advocates",
-      "url": "https://codeblue.galencentre.org/2026/05/humane-cage-free-farming-practices-growing-in-malaysia-advocates/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-08T07:10:18",
-      "summary": "Malaysia is moving toward a more responsible and sustainable food production ecosystem. The rising adoption of cage-free systems reflects a growing understanding that animal welfare, sustainability, food safety, and business resilience are interconnected. The post Humane Cage-Free Farming Practices Growing In Malaysia: Advocates appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
