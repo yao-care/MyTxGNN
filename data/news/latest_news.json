@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-14T22:09:48.998653",
+  "fetched": "2026-05-14T23:56:22.580057",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "MOH Maintains Status Quo After UK Royal College Dubs Parallel Pathway ‘Malaysian Qualification’",
@@ -109,16 +109,6 @@
         "hospital",
         "clinical",
         "hospital"
-      ]
-    },
-    {
-      "title": "Namewee freed of drug charges in Kuala Lumpur court, AGC drops case after second bid",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/14/namewee-freed-of-drug-charges-in-kuala-lumpur-court-agc-drops-case-after-second-bid/219937",
-      "source": "Malay Mail",
-      "published": "2026-05-14T07:46:09",
-      "summary": "PETALING JAYA, May 14 — Singer Wee Meng Chee, better known as Namewee, was today acquitted by the magistrates&rsqu...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
