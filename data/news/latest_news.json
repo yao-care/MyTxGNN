@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-13T23:56:33.837183",
+  "fetched": "2026-05-14T03:34:28.197655",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,24 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "Cutting Civil Servants’ Salaries ‘Absolute Last Resort’: PM’s Economic Adviser",
+      "url": "https://codeblue.galencentre.org/2026/05/cutting-civil-servants-salaries-absolute-last-resort-pms-economic-adviser/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-14T03:23:48",
+      "summary": "PM's economic adviser Nurhisham Hussein says cutting civil servants' salaries is an \"absolute last resort\", which Putrajaya doesn't want to do, adding that health spending cuts are targeted because of MOH's big budget that expanded in the last three years. The post Cutting Civil Servants’ Salaries ‘Absolute Last Resort’: PM’s Economic Adviser appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Farmers Expected To Miss Planting Amid Fertiliser Shortages: PM’s Economic Adviser",
+      "url": "https://codeblue.galencentre.org/2026/05/farmers-expected-to-miss-planting-amid-fertiliser-shortages-pm-economic-adviser/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-14T02:00:00",
+      "summary": "PM's economic adviser Nurhisham Hussein says farmers in Malaysia will likely miss planting towards the end of the year due to global fertiliser shortages. He adds that 90% of Malaysia's fertiliser use goes to palm oil, with only 10% for food crops. The post Farmers Expected To Miss Planting Amid Fertiliser Shortages: PM’s Economic Adviser appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Nothing In Public Health Care System Is A ‘Luxury’: KJ",
       "url": "https://codeblue.galencentre.org/2026/05/nothing-in-public-health-care-system-is-a-luxury-kj/",
@@ -90,25 +108,13 @@
       "keywords_matched": []
     },
     {
-      "title": "Vital Signs Of Malaysian Health Care Are Failing — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/05/vital-signs-of-malaysian-health-care-are-failing-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-11T05:30:00",
-      "summary": "The confluence of an unprecedented manpower exodus, a proposed RM4.65 bil funding cut, and the highest medical inflation in a decade has pushed MOH to its breaking point. Without radical, immediate intervention, Malaysia risks becoming a cautionary tale. The post Vital Signs Of Malaysian Health Care Are Failing — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "title": "Bukit Aman dismantles Langkawi drug syndicate, 191 suspects arrested in 231 raids since April 10",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/14/bukit-aman-dismantles-langkawi-drug-syndicate-191-suspects-arrested-in-231-raids-since-april-10/219853",
+      "source": "Malay Mail",
+      "published": "2026-05-14T01:14:26",
+      "summary": "KUALA LUMPUR, May 14 — The Bukit Aman Narcotics Crime Investigation Department (NCID) dismantled a drug distributi...",
       "keywords_matched": [
-        "health",
-        "medical"
-      ]
-    },
-    {
-      "title": "Target 45-Hour Work Week For Health Workers Beyond Housemen: MMA",
-      "url": "https://codeblue.galencentre.org/2026/05/target-45-hour-work-week-for-health-workers-beyond-housemen-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-11T03:40:00",
-      "summary": "MMA wants Malaysia to eventually move to a 45-hour work week for all health workers beyond housemen. Ex-senator Dr Lingeshwaran says the rigid 3-shift system for HOs will cause medical officers and specialists to be overworked due to a housemen shortage. The post Target 45-Hour Work Week For Health Workers Beyond Housemen: MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical"
+        "drug"
       ]
     },
     {
@@ -119,16 +125,6 @@
       "summary": "SEREMBAN, May 13 — The Negeri Sembilan Health Department (JKNNS) has detected four suspected cases of leptospirosi...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Sungai Petani cops probe claim 13-day-old baby suffered fractured thigh during jaundice treatment",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/13/sungai-petani-cops-probe-claim-13-day-old-baby-suffered-fractured-thigh-during-jaundice-treatment/219812",
-      "source": "Malay Mail",
-      "published": "2026-05-13T10:18:47",
-      "summary": "SUNGAI PETANI, May 13 — Police have confirmed receiving a report regarding allegations that a 13-day-old baby boy...",
-      "keywords_matched": [
-        "treatment"
       ]
     }
   ]
