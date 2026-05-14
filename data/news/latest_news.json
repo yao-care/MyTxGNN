@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-14T03:34:28.197655",
+  "fetched": "2026-05-14T06:44:41.978398",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Form National Health Authority For Workforce, Service Delivery — Chua Hong Teck",
+      "url": "https://codeblue.galencentre.org/2026/05/form-national-health-authority-for-workforce-service-delivery-chua-hong-teck/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-14T06:00:00",
+      "summary": "Malaysia should form a National Health Authority as a statutory operator of public health care services responsible for workforce management, in a devolution of these roles from MOH that can focus solely on national public health, policy, and regulation. The post Form National Health Authority For Workforce, Service Delivery — Chua Hong Teck appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Cutting Civil Servants’ Salaries ‘Absolute Last Resort’: PM’s Economic Adviser",
       "url": "https://codeblue.galencentre.org/2026/05/cutting-civil-servants-salaries-absolute-last-resort-pms-economic-adviser/",
@@ -100,31 +110,14 @@
       "keywords_matched": []
     },
     {
-      "title": "What Comes After The Crash: Be Aware Of The Head Injury You Cannot See",
-      "url": "https://codeblue.galencentre.org/2026/05/what-comes-after-the-crash-be-aware-of-the-head-injury-you-cannot-see/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-11T05:46:16",
-      "summary": "Road accident-related head injuries may unfold beyond the crash itself, with delayed symptoms and internal complications that are not always visible at the scene. The post What Comes After The Crash: Be Aware Of The Head Injury You Cannot See appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Bukit Aman dismantles Langkawi drug syndicate, 191 suspects arrested in 231 raids since April 10",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/14/bukit-aman-dismantles-langkawi-drug-syndicate-191-suspects-arrested-in-231-raids-since-april-10/219853",
+      "title": "Penang Opposition leader hospitalised after blood pressure spike during state assembly sitting",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/14/penang-opposition-leader-hospitalised-after-blood-pressure-spike-during-state-assembly-sitting/219914",
       "source": "Malay Mail",
-      "published": "2026-05-14T01:14:26",
-      "summary": "KUALA LUMPUR, May 14 — The Bukit Aman Narcotics Crime Investigation Department (NCID) dismantled a drug distributi...",
+      "published": "2026-05-14T06:15:17",
+      "summary": "GEORGE TOWN, May 14 — Penang Opposition leader Muhammad Fauzi Yusoff was taken to the hospital in the middle...",
       "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Ulu Bendul park closed after four suspected leptospirosis cases detected in Negeri Sembilan",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/13/ulu-bendul-park-closed-after-four-suspected-leptospirosis-cases-detected-in-negeri-sembilan/219834",
-      "source": "Malay Mail",
-      "published": "2026-05-13T12:29:26",
-      "summary": "SEREMBAN, May 13 — The Negeri Sembilan Health Department (JKNNS) has detected four suspected cases of leptospirosi...",
-      "keywords_matched": [
-        "health"
+        "hospital",
+        "hospital"
       ]
     }
   ]
