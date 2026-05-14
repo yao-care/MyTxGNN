@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-14T06:44:41.978398",
+  "fetched": "2026-05-14T09:33:19.742182",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "MOH Maintains Status Quo After UK Royal College Dubs Parallel Pathway ‘Malaysian Qualification’",
+      "url": "https://codeblue.galencentre.org/2026/05/moh-maintains-status-quo-after-uk-royal-college-dubs-parallel-pathway-malaysian-qualification/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-14T08:03:56",
+      "summary": "MOH says there's no need to amend Schedule 4 of the Medical Act, perceiving RCSEd's statement that the cardiothoracic surgery parallel pathway is a \"Malaysian qualification\" as referring to \"implementation\" of the programme, not a change in conferment. The post MOH Maintains Status Quo After UK Royal College Dubs Parallel Pathway ‘Malaysian Qualification’ appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Form National Health Authority For Workforce, Service Delivery — Chua Hong Teck",
       "url": "https://codeblue.galencentre.org/2026/05/form-national-health-authority-for-workforce-service-delivery-chua-hong-teck/",
@@ -102,12 +112,14 @@
       ]
     },
     {
-      "title": "Private Dental Practitioners Facing Growing Financial, Professional Pressure — MPDPA",
-      "url": "https://codeblue.galencentre.org/2026/05/private-dental-practitioners-facing-growing-financial-professional-pressure-mpdpa/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-11T07:30:00",
-      "summary": "Young dentists today are facing mounting challenges including income instability, rising rental and staffing costs, increasing prices of dental materials and equipment, and competitive fees undercutting within dense markets. The post Private Dental Practitioners Facing Growing Financial, Professional Pressure — MPDPA appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Namewee freed of drug charges in Kuala Lumpur court, AGC drops case after second bid",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/14/namewee-freed-of-drug-charges-in-kuala-lumpur-court-agc-drops-case-after-second-bid/219937",
+      "source": "Malay Mail",
+      "published": "2026-05-14T07:46:09",
+      "summary": "PETALING JAYA, May 14 — Singer Wee Meng Chee, better known as Namewee, was today acquitted by the magistrates&rsqu...",
+      "keywords_matched": [
+        "drug"
+      ]
     },
     {
       "title": "Penang Opposition leader hospitalised after blood pressure spike during state assembly sitting",
