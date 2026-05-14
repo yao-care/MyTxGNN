@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-14T09:33:19.742182",
+  "fetched": "2026-05-14T11:51:07.042069",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "MOH Maintains Status Quo After UK Royal College Dubs Parallel Pathway ‘Malaysian Qualification’",
@@ -119,17 +119,6 @@
       "summary": "PETALING JAYA, May 14 — Singer Wee Meng Chee, better known as Namewee, was today acquitted by the magistrates&rsqu...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Penang Opposition leader hospitalised after blood pressure spike during state assembly sitting",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/14/penang-opposition-leader-hospitalised-after-blood-pressure-spike-during-state-assembly-sitting/219914",
-      "source": "Malay Mail",
-      "published": "2026-05-14T06:15:17",
-      "summary": "GEORGE TOWN, May 14 — Penang Opposition leader Muhammad Fauzi Yusoff was taken to the hospital in the middle...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
