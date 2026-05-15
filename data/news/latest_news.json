@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-15T03:37:09.866063",
+  "fetched": "2026-05-15T06:54:12.492897",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 13,
   "items": [
     {
       "title": "Opaque Selection In MOH For Transfers, Master’s Programme — Medical Officer",
@@ -110,6 +110,36 @@
         "health",
         "disease",
         "diabetes"
+      ]
+    },
+    {
+      "title": "Drugs, phone, weapon found inside Ipoh police lock-up, Bukit Aman orders full investigation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/15/drugs-phone-weapon-found-inside-ipoh-police-lock-up-bukit-aman-orders-full-investigation/220032",
+      "source": "Malay Mail",
+      "published": "2026-05-15T05:29:20",
+      "summary": "KUALA LUMPUR, May 15 — Inspector-General of Police Datuk Seri Mohd Khalid Ismail has ordered a full investigation...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "With vape-related drug cases rising in Sarawak, minister says full ban still on the table",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/15/with-vape-related-drug-cases-rising-in-sarawak-minister-says-full-ban-still-on-the-table/220017",
+      "source": "Malay Mail",
+      "published": "2026-05-15T04:05:03",
+      "summary": "KUCHING, May 15 — The Sarawak Government does not rule out imposing a complete ban on vaping in future, said Dato...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Rat droppings found at Penang school canteen, 14-day closure order issued",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/15/rat-droppings-found-at-penang-school-canteen-14-day-closure-order-issued/220007",
+      "source": "Malay Mail",
+      "published": "2026-05-15T02:26:03",
+      "summary": "GEORGE TOWN, May 15 — The canteen of a school here has been ordered to close after a health inspection found rat d...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
