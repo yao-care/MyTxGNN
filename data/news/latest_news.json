@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-15T09:46:43.840868",
+  "fetched": "2026-05-15T11:55:02.154315",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Authorities Must Take Immediate Action After Court Ruling On Liquid Nicotine — MCTC",
+      "url": "https://codeblue.galencentre.org/2026/05/authorities-must-take-immediate-action-after-court-ruling-on-liquid-nicotine-mctc/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-15T10:53:20",
+      "summary": "MCTC hopes that this court decision will serve as an important reminder that all public health policies must be formulated transparently, with integrity, free from industry influence, and in line with Malaysia’s obligations under WHO FCTC and the UN CRC. The post Authorities Must Take Immediate Action After Court Ruling On Liquid Nicotine — MCTC appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Court Ruling On Illegal Nicotine Delisting A Huge Victory For Public Health",
+      "url": "https://codeblue.galencentre.org/2026/05/court-ruling-on-illegal-nicotine-delisting-a-huge-victory-for-public-health/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-15T10:02:10",
+      "summary": "Today's High Court decision to strike down the delisting of liquid nicotine is a significant victory for public health. It puts the proverbial genie back in the bottle and renders the sale and collection of taxes on nicotine vape mostly illegal. The post Court Ruling On Illegal Nicotine Delisting A Huge Victory For Public Health appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "ProtectHealth Says Not Yet Hit By Spending Cuts",
       "url": "https://codeblue.galencentre.org/2026/05/protecthealth-says-not-yet-hit-by-spending-cuts/",
@@ -91,24 +111,6 @@
       "keywords_matched": []
     },
     {
-      "title": "Nothing In Public Health Care System Is A ‘Luxury’: KJ",
-      "url": "https://codeblue.galencentre.org/2026/05/nothing-in-public-health-care-system-is-a-luxury-kj/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-13T08:37:16",
-      "summary": "Khairy Jamaluddin says any amount of spending cuts will affect core services in the already underfunded public health care system, saying nothing in MOH is a \"luxury\" or an “add-on” that can be cut. \"Every single sen taken away will affect the ministry.\" The post Nothing In Public Health Care System Is A ‘Luxury’: KJ appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "UPM Pioneers New Fish Surgery Technique In Malaysia",
-      "url": "https://codeblue.galencentre.org/2026/05/upm-pioneers-new-fish-surgery-technique-in-malaysia/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-13T03:30:00",
-      "summary": "UPM has pioneered a new fish surgery technique based on a recirculating anaesthesia system, the first of its kind in Malaysia. The Fish Anaesthetic Delivery System allows surgery to be performed outside of water without disrupting the fish's oxygen supply. The post UPM Pioneers New Fish Surgery Technique In Malaysia appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
       "title": "Ex-polytechnic student walks free after judge bins 3.4kg drug trafficking charge, says key witness not credible",
       "url": "https://www.malaymail.com/news/malaysia/2026/05/15/ex-polytechnic-student-walks-free-after-judge-bins-34kg-drug-trafficking-charge-says-key-witness-not-credible/220069",
       "source": "Malay Mail",
@@ -124,16 +126,6 @@
       "source": "Malay Mail",
       "published": "2026-05-15T08:43:44",
       "summary": "KULIM, May 15 — Home Minister Datuk Seri Saifuddin Nasution Ismail has denied a news report that likened drug traf...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Drugs, phone, weapon found inside Ipoh police lock-up, Bukit Aman orders full investigation",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/15/drugs-phone-weapon-found-inside-ipoh-police-lock-up-bukit-aman-orders-full-investigation/220032",
-      "source": "Malay Mail",
-      "published": "2026-05-15T05:29:20",
-      "summary": "KUALA LUMPUR, May 15 — Inspector-General of Police Datuk Seri Mohd Khalid Ismail has ordered a full investigation...",
       "keywords_matched": [
         "drug"
       ]
