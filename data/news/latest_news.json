@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-14T23:56:22.580057",
+  "fetched": "2026-05-15T03:37:09.866063",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,29 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Opaque Selection In MOH For Transfers, Master’s Programme — Medical Officer",
+      "url": "https://codeblue.galencentre.org/2026/05/opaque-selection-in-moh-for-transfers-masters-programme-medical-officer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-15T01:52:02",
+      "summary": "The way selection and transfer processes are handled for government doctors reflects a culture of opacity and disregard for basic professional decency. It's hard to retain health workers when the system treats their time and personal lives as disposable. The post Opaque Selection In MOH For Transfers, Master’s Programme — Medical Officer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Don’t Victimise Health Workers With Salary Cuts: Hartal",
+      "url": "https://codeblue.galencentre.org/2026/05/dont-victimise-health-workers-with-salary-cuts-hartal/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-15T01:51:26",
+      "summary": "Hartal Doktor Kontrak says the government shouldn't be talking about salary cuts for civil servants, even as an “absolute last resort”, that would end up demoralising the public service. \"We trust that PMX won't resort to victimising health care workers.\" The post Don’t Victimise Health Workers With Salary Cuts: Hartal appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doktor"
+      ]
+    },
     {
       "title": "MOH Maintains Status Quo After UK Royal College Dubs Parallel Pathway ‘Malaysian Qualification’",
       "url": "https://codeblue.galencentre.org/2026/05/moh-maintains-status-quo-after-uk-royal-college-dubs-parallel-pathway-malaysian-qualification/",
@@ -87,28 +110,6 @@
         "health",
         "disease",
         "diabetes"
-      ]
-    },
-    {
-      "title": "Three-Phase Rescue: Saving Malaysia’s Health Care System Before The Flatline — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/05/three-phase-rescue-saving-malaysias-health-care-system-before-the-flatline-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-12T03:30:00",
-      "summary": "Malaysia’s two-tiered health care system has deep roots in more than three decades of service, but it must now prove its flexibility. The post Three-Phase Rescue: Saving Malaysia’s Health Care System Before The Flatline — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Phase Out Parallel Pathway Programmes After UK’s Pivot",
-      "url": "https://codeblue.galencentre.org/2026/05/phase-out-parallel-pathway-programmes-after-uks-pivot/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-12T02:00:00",
-      "summary": "With RCSEd now calling the cardiothoracic surgery parallel pathway a \"Malaysian qualification\", after the UK's new law, Malaysia should start phasing out the parallel pathway. Expand local Master's clinical programmes to private universities and hospitals. The post Phase Out Parallel Pathway Programmes After UK’s Pivot appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "clinical",
-        "hospital"
       ]
     }
   ]
