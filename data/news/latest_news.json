@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-16T02:46:06.119071",
+  "fetched": "2026-05-16T05:53:11.011122",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Authorities Must Take Immediate Action After Court Ruling On Liquid Nicotine — MCTC",
@@ -109,16 +109,6 @@
       "published": "2026-05-14T02:00:00",
       "summary": "PM's economic adviser Nurhisham Hussein says farmers in Malaysia will likely miss planting towards the end of the year due to global fertiliser shortages. He adds that 90% of Malaysia's fertiliser use goes to palm oil, with only 10% for food crops. The post Farmers Expected To Miss Planting Amid Fertiliser Shortages: PM’s Economic Adviser appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Ex-polytechnic student walks free after judge bins 3.4kg drug trafficking charge, says key witness not credible",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/15/ex-polytechnic-student-walks-free-after-judge-bins-34kg-drug-trafficking-charge-says-key-witness-not-credible/220069",
-      "source": "Malay Mail",
-      "published": "2026-05-15T09:00:53",
-      "summary": "KUALA LUMPUR, May 15 — The High Court today acquitted and discharged a former polytechnic student of a charge of t...",
-      "keywords_matched": [
-        "drug"
-      ]
     }
   ]
 }
