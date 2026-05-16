@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-16T11:49:02.351880",
+  "fetched": "2026-05-16T13:18:44.861426",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Authorities Must Take Immediate Action After Court Ruling On Liquid Nicotine — MCTC",
@@ -109,6 +109,16 @@
       "published": "2026-05-14T02:00:00",
       "summary": "PM's economic adviser Nurhisham Hussein says farmers in Malaysia will likely miss planting towards the end of the year due to global fertiliser shortages. He adds that 90% of Malaysia's fertiliser use goes to palm oil, with only 10% for food crops. The post Farmers Expected To Miss Planting Amid Fertiliser Shortages: PM’s Economic Adviser appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "MOH to appeal High Court ruling on nicotine vape exemption, says Dr Zaliha",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/16/moh-to-appeal-high-court-ruling-on-nicotine-vape-exemption-says-dr-zaliha/220211",
+      "source": "Malay Mail",
+      "published": "2026-05-16T11:53:58",
+      "summary": "KUALA LUMPUR, May 16 — Former Health Minister Dr Zaliha Mustafa today defended the government’s controversia...",
+      "keywords_matched": [
+        "health"
+      ]
     }
   ]
 }
