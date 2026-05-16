@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-16T10:13:13.717449",
+  "fetched": "2026-05-16T11:49:02.351880",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Authorities Must Take Immediate Action After Court Ruling On Liquid Nicotine — MCTC",
@@ -109,17 +109,6 @@
       "published": "2026-05-14T02:00:00",
       "summary": "PM's economic adviser Nurhisham Hussein says farmers in Malaysia will likely miss planting towards the end of the year due to global fertiliser shortages. He adds that 90% of Malaysia's fertiliser use goes to palm oil, with only 10% for food crops. The post Farmers Expected To Miss Planting Amid Fertiliser Shortages: PM’s Economic Adviser appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Driver loses control, crashes car into Kuching coffee shop, two sent to hospital",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/16/driver-loses-control-crashes-car-into-kuching-coffee-shop-two-sent-to-hospital/220161",
-      "source": "Malay Mail",
-      "published": "2026-05-16T06:26:52",
-      "summary": "KUCHING, May 16 — An elderly man lost control of his sedan and crashed into a coffee shop near Jalan Rock traffic...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
     }
   ]
 }
