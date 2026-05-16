@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-15T23:01:30.212515",
+  "fetched": "2026-05-16T02:46:06.119071",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Authorities Must Take Immediate Action After Court Ruling On Liquid Nicotine — MCTC",
@@ -116,16 +116,6 @@
       "source": "Malay Mail",
       "published": "2026-05-15T09:00:53",
       "summary": "KUALA LUMPUR, May 15 — The High Court today acquitted and discharged a former polytechnic student of a charge of t...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Home minister says drug problem in Langkawi real, but not like Pablo Escobar’s cartel",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/15/home-minister-says-drug-problem-in-langkawi-real-but-not-like-pablo-escobars-cartel/220064",
-      "source": "Malay Mail",
-      "published": "2026-05-15T08:43:44",
-      "summary": "KULIM, May 15 — Home Minister Datuk Seri Saifuddin Nasution Ismail has denied a news report that likened drug traf...",
       "keywords_matched": [
         "drug"
       ]
