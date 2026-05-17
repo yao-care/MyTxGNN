@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-17T02:55:00.632007",
+  "fetched": "2026-05-17T06:22:27.786703",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Authorities Must Take Immediate Action After Court Ruling On Liquid Nicotine — MCTC",
@@ -111,21 +111,32 @@
       "keywords_matched": []
     },
     {
+      "title": "Couple claims trial to charge of abusing 10‑year‑old nephew in Kota Bharu",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/17/couple-claims-trial-to-charge-of-abusing-10yearold-nephew-in-kota-bharu/220287",
+      "source": "Malay Mail",
+      "published": "2026-05-17T06:17:34",
+      "summary": "KOTA BHARU, May 17 — A married couple pleaded not guilty in the Sessions Court here today to a charge of abusing t...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Socso health screening shows 59.2pc of Malaysian workers overweight or obese, 19pc have diabetes, says deputy minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/17/socso-health-screening-shows-592pc-of-malaysian-workers-overweight-or-obese-19pc-have-diabetes-says-deputy-minister/220274",
+      "source": "Malay Mail",
+      "published": "2026-05-17T04:59:10",
+      "summary": "PUTRAJAYA, May 17 — A total of 59.2 per cent of workers who underwent the Health Screening Programme organised by...",
+      "keywords_matched": [
+        "health",
+        "diabetes"
+      ]
+    },
+    {
       "title": "Workload, social media pressures add to teachers’ mental health challenges, says Kelantan Social Welfare Dept",
       "url": "https://www.malaymail.com/news/malaysia/2026/05/17/workload-social-media-pressures-add-to-teachers-mental-health-challenges-says-kelantan-social-welfare-dept/220251",
       "source": "Malay Mail",
       "published": "2026-05-17T02:49:26",
       "summary": "KOTA BHARU, May 17 — The teaching profession has become increasingly challenging in the digital era, with teachers...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "MOH to appeal High Court ruling on nicotine vape exemption, says Dr Zaliha",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/16/moh-to-appeal-high-court-ruling-on-nicotine-vape-exemption-says-dr-zaliha/220211",
-      "source": "Malay Mail",
-      "published": "2026-05-16T11:53:58",
-      "summary": "KUALA LUMPUR, May 16 — Former Health Minister Dr Zaliha Mustafa today defended the government’s controversia...",
       "keywords_matched": [
         "health"
       ]
