@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-18T08:01:25.770820",
+  "fetched": "2026-05-18T12:28:20.587650",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Sabah Strengthens HIV Response Through Strategic Partnerships, Expanded Community Support",
@@ -106,26 +106,6 @@
       "summary": "MOH says there's no need to amend Schedule 4 of the Medical Act, perceiving RCSEd's statement that the cardiothoracic surgery parallel pathway is a \"Malaysian qualification\" as referring to \"implementation\" of the programme, not a change in conferment. The post MOH Maintains Status Quo After UK Royal College Dubs Parallel Pathway ‘Malaysian Qualification’ appeared first on CodeBlue .",
       "keywords_matched": [
         "medical"
-      ]
-    },
-    {
-      "title": "Selangor police bust four drug syndicates, seize RM17.8m in narcotics",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/18/selangor-police-bust-four-drug-syndicates-seize-rm178m-in-narcotics/220417",
-      "source": "Malay Mail",
-      "published": "2026-05-18T06:04:33",
-      "summary": "SHAH ALAM, May 18 — Police have busted four drug trafficking syndicates operating around Kuala Lumpur Internationa...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Malaysia to champion people‑centred health reforms, global aid access at 79th World Health Assembly, says Dzulkefly",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/18/malaysia-to-champion-peoplecentred-health-reforms-global-aid-access-at-79th-world-health-assembly-says-dzulkefly/220387",
-      "source": "Malay Mail",
-      "published": "2026-05-18T03:30:52",
-      "summary": "PUTRAJAYA, May 18 — Health Minister Datuk Seri Dr Dzulkefly Ahmad is in Geneva to lead the country’s delegat...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
