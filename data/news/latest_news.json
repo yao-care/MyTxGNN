@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-17T23:56:37.604265",
+  "fetched": "2026-05-18T03:53:54.572638",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Never Sacrifice Public Health For Revenue — Malaysian Pharmacists Society",
+      "url": "https://codeblue.galencentre.org/2026/05/never-sacrifice-public-health-for-revenue-malaysian-pharmacists-society/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-18T03:40:56",
+      "summary": "The Court’s findings are also an important reminder that process matters. Expert advice matters. Consultation cannot become a procedural exercise after decisions have effectively already been made. The Poisons Board is not a decorative committee. The post Never Sacrifice Public Health For Revenue — Malaysian Pharmacists Society appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Analysis: Court Decision Marks De Facto Ban On Nicotine Vape",
+      "url": "https://codeblue.galencentre.org/2026/05/analysis-court-decision-marks-de-facto-ban-on-nicotine-vape/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-18T02:00:00",
+      "summary": "The court ruling means that liquid nicotine stays in the Poisons List because it was never (legally) removed in the first place. Hence there's now a de facto ban on nicotine vape: sales and tax collection became illegal instantly upon the court's decision. The post Analysis: Court Decision Marks De Facto Ban On Nicotine Vape appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Authorities Must Take Immediate Action After Court Ruling On Liquid Nicotine — MCTC",
       "url": "https://codeblue.galencentre.org/2026/05/authorities-must-take-immediate-action-after-court-ruling-on-liquid-nicotine-mctc/",
@@ -93,31 +111,45 @@
       ]
     },
     {
-      "title": "Cutting Civil Servants’ Salaries ‘Absolute Last Resort’: PM’s Economic Adviser",
-      "url": "https://codeblue.galencentre.org/2026/05/cutting-civil-servants-salaries-absolute-last-resort-pms-economic-adviser/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-14T03:23:48",
-      "summary": "PM's economic adviser Nurhisham Hussein says cutting civil servants' salaries is an \"absolute last resort\", which Putrajaya doesn't want to do, adding that health spending cuts are targeted because of MOH's big budget that expanded in the last three years. The post Cutting Civil Servants’ Salaries ‘Absolute Last Resort’: PM’s Economic Adviser appeared first on CodeBlue .",
+      "title": "Malaysia to champion people‑centred health reforms, global aid access at 79th World Health Assembly, says Dzulkefly",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/18/malaysia-to-champion-peoplecentred-health-reforms-global-aid-access-at-79th-world-health-assembly-says-dzulkefly/220387",
+      "source": "Malay Mail",
+      "published": "2026-05-18T03:30:52",
+      "summary": "PUTRAJAYA, May 18 — Health Minister Datuk Seri Dr Dzulkefly Ahmad is in Geneva to lead the country’s delegat...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Farmers Expected To Miss Planting Amid Fertiliser Shortages: PM’s Economic Adviser",
-      "url": "https://codeblue.galencentre.org/2026/05/farmers-expected-to-miss-planting-amid-fertiliser-shortages-pm-economic-adviser/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-14T02:00:00",
-      "summary": "PM's economic adviser Nurhisham Hussein says farmers in Malaysia will likely miss planting towards the end of the year due to global fertiliser shortages. He adds that 90% of Malaysia's fertiliser use goes to palm oil, with only 10% for food crops. The post Farmers Expected To Miss Planting Amid Fertiliser Shortages: PM’s Economic Adviser appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Man found unconscious near Wind Cave in Bau dies; another man discovered dead in Sri Aman bushes",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/18/man-found-unconscious-near-wind-cave-in-bau-dies-another-man-discovered-dead-in-sri-aman-bushes/220373",
+      "source": "Malay Mail",
+      "published": "2026-05-18T02:21:40",
+      "summary": "BAU, May 18 — A 54-year-old man receiving treatment at Sarawak General Hospital (SGH) after being found unconsciou...",
+      "keywords_matched": [
+        "treatment",
+        "hospital",
+        "hospital"
+      ]
     },
     {
-      "title": "Civil servant arrested in Terengganu after police find pistols, suspected drugs and handcuffs in MPV",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/17/civil-servant-arrested-in-terengganu-after-police-find-pistols-suspected-drugs-and-handcuffs-in-mpv/220342",
+      "title": "Hazmat team contains chemical spill at Alor Gajah resort after pool treatment accident",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/18/hazmat-team-contains-chemical-spill-at-alor-gajah-resort-after-pool-treatment-accident/220361",
       "source": "Malay Mail",
-      "published": "2026-05-17T10:50:56",
-      "summary": "KUALA BERANG, May 17 — A civil servant was arrested after police discovered firearms and suspected drugs in his po...",
+      "published": "2026-05-18T01:38:56",
+      "summary": "ALOR GAJAH, May 18 — The Melaka Fire and Rescue Department (JBPM) successfully contained a chemical spill in a pum...",
       "keywords_matched": [
-        "drug"
+        "treatment"
+      ]
+    },
+    {
+      "title": "MOH, AGC to refine legal aspects of nicotine gel exemption review",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/18/moh-agc-to-refine-legal-aspects-of-nicotine-gel-exemption-review/220357",
+      "source": "Malay Mail",
+      "published": "2026-05-18T01:26:42",
+      "summary": "PUTRAJAYA, May 18 — The Health Ministry (MOH) will hold further discussions with the Attorney General’s Cham...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
