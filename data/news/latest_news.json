@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-18T03:53:54.572638",
+  "fetched": "2026-05-18T08:01:25.770820",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Sabah Strengthens HIV Response Through Strategic Partnerships, Expanded Community Support",
+      "url": "https://codeblue.galencentre.org/2026/05/sabah-strengthens-hiv-response-through-strategic-partnerships-expanded-community-support/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-18T07:47:59",
+      "summary": "The Sabah state government remains committed to ensuring that critical HIV/AIDS services reach rural, interior, and underserved communities across the state. The post Sabah Strengthens HIV Response Through Strategic Partnerships, Expanded Community Support appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Never Sacrifice Public Health For Revenue — Malaysian Pharmacists Society",
       "url": "https://codeblue.galencentre.org/2026/05/never-sacrifice-public-health-for-revenue-malaysian-pharmacists-society/",
@@ -101,13 +109,13 @@
       ]
     },
     {
-      "title": "Form National Health Authority For Workforce, Service Delivery — Chua Hong Teck",
-      "url": "https://codeblue.galencentre.org/2026/05/form-national-health-authority-for-workforce-service-delivery-chua-hong-teck/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-14T06:00:00",
-      "summary": "Malaysia should form a National Health Authority as a statutory operator of public health care services responsible for workforce management, in a devolution of these roles from MOH that can focus solely on national public health, policy, and regulation. The post Form National Health Authority For Workforce, Service Delivery — Chua Hong Teck appeared first on CodeBlue .",
+      "title": "Selangor police bust four drug syndicates, seize RM17.8m in narcotics",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/18/selangor-police-bust-four-drug-syndicates-seize-rm178m-in-narcotics/220417",
+      "source": "Malay Mail",
+      "published": "2026-05-18T06:04:33",
+      "summary": "SHAH ALAM, May 18 — Police have busted four drug trafficking syndicates operating around Kuala Lumpur Internationa...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     },
     {
@@ -116,38 +124,6 @@
       "source": "Malay Mail",
       "published": "2026-05-18T03:30:52",
       "summary": "PUTRAJAYA, May 18 — Health Minister Datuk Seri Dr Dzulkefly Ahmad is in Geneva to lead the country’s delegat...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Man found unconscious near Wind Cave in Bau dies; another man discovered dead in Sri Aman bushes",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/18/man-found-unconscious-near-wind-cave-in-bau-dies-another-man-discovered-dead-in-sri-aman-bushes/220373",
-      "source": "Malay Mail",
-      "published": "2026-05-18T02:21:40",
-      "summary": "BAU, May 18 — A 54-year-old man receiving treatment at Sarawak General Hospital (SGH) after being found unconsciou...",
-      "keywords_matched": [
-        "treatment",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Hazmat team contains chemical spill at Alor Gajah resort after pool treatment accident",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/18/hazmat-team-contains-chemical-spill-at-alor-gajah-resort-after-pool-treatment-accident/220361",
-      "source": "Malay Mail",
-      "published": "2026-05-18T01:38:56",
-      "summary": "ALOR GAJAH, May 18 — The Melaka Fire and Rescue Department (JBPM) successfully contained a chemical spill in a pum...",
-      "keywords_matched": [
-        "treatment"
-      ]
-    },
-    {
-      "title": "MOH, AGC to refine legal aspects of nicotine gel exemption review",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/18/moh-agc-to-refine-legal-aspects-of-nicotine-gel-exemption-review/220357",
-      "source": "Malay Mail",
-      "published": "2026-05-18T01:26:42",
-      "summary": "PUTRAJAYA, May 18 — The Health Ministry (MOH) will hold further discussions with the Attorney General’s Cham...",
       "keywords_matched": [
         "health"
       ]
