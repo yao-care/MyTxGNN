@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-19T00:04:07.526296",
+  "fetched": "2026-05-19T04:59:05.397237",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Don’t Appeal Nicotine Ruling, Raise Tobacco Tax Instead",
+      "url": "https://codeblue.galencentre.org/2026/05/dont-appeal-nicotine-ruling-raise-tobacco-tax-instead/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-19T02:00:00",
+      "summary": "Instead of appealing the High Court ruling or attempting once again to remove liquid nicotine from the Poisons List, the government should raise cigarette excise duties to at least 77 sen per stick. This can generate an extra RM772m in annual tax revenue. The post Don’t Appeal Nicotine Ruling, Raise Tobacco Tax Instead appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Sabah Strengthens HIV Response Through Strategic Partnerships, Expanded Community Support",
       "url": "https://codeblue.galencentre.org/2026/05/sabah-strengthens-hiv-response-through-strategic-partnerships-expanded-community-support/",
@@ -99,13 +107,23 @@
       ]
     },
     {
-      "title": "MOH Maintains Status Quo After UK Royal College Dubs Parallel Pathway ‘Malaysian Qualification’",
-      "url": "https://codeblue.galencentre.org/2026/05/moh-maintains-status-quo-after-uk-royal-college-dubs-parallel-pathway-malaysian-qualification/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-14T08:03:56",
-      "summary": "MOH says there's no need to amend Schedule 4 of the Medical Act, perceiving RCSEd's statement that the cardiothoracic surgery parallel pathway is a \"Malaysian qualification\" as referring to \"implementation\" of the programme, not a change in conferment. The post MOH Maintains Status Quo After UK Royal College Dubs Parallel Pathway ‘Malaysian Qualification’ appeared first on CodeBlue .",
+      "title": "Malaysia targets 902 clinics for integrated lung health rollout by end-2026, says Health Minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/19/malaysia-targets-902-clinics-for-integrated-lung-health-rollout-by-end-2026-says-health-minister/220532",
+      "source": "Malay Mail",
+      "published": "2026-05-19T04:02:51",
+      "summary": "PUTRAJAYA, May 19 — Malaysia has stepped up its efforts to translate the World Health Assembly’s...",
       "keywords_matched": [
-        "medical"
+        "health"
+      ]
+    },
+    {
+      "title": "Aunt recounts bruises, severe head injury seen on Zara Qairina during treatment and post-mortem handling at inquest",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/19/aunt-recounts-bruises-severe-head-injury-seen-on-zara-qairina-during-treatment-and-post-mortem-handling-at-inquest/220528",
+      "source": "Malay Mail",
+      "published": "2026-05-19T03:50:14",
+      "summary": "KUALA LUMPUR, May 19 — The Coroner’s Court was told today about visible injuries and bruising found on the b...",
+      "keywords_matched": [
+        "treatment"
       ]
     }
   ]
