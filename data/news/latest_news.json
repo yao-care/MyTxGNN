@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-19T04:59:05.397237",
+  "fetched": "2026-05-19T08:34:36.847208",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Clarify If Nicotine Vapes Now Illegal After Court Ruling: MMA",
+      "url": "https://codeblue.galencentre.org/2026/05/clarify-if-nicotine-vapes-now-illegal-after-court-ruling-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-19T06:48:56",
+      "summary": "MMA wants the Health and Finance Ministries to clarify if liquid nicotine remains on the Poisons List, after the High Court struck down its 2023 removal from the list, and if nicotine vapes are now effectively illegal and hence cannot be taxed. The post Clarify If Nicotine Vapes Now Illegal After Court Ruling: MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Don’t Appeal Nicotine Ruling, Raise Tobacco Tax Instead",
       "url": "https://codeblue.galencentre.org/2026/05/dont-appeal-nicotine-ruling-raise-tobacco-tax-instead/",
@@ -96,34 +106,13 @@
       ]
     },
     {
-      "title": "Don’t Victimise Health Workers With Salary Cuts: Hartal",
-      "url": "https://codeblue.galencentre.org/2026/05/dont-victimise-health-workers-with-salary-cuts-hartal/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-15T01:51:26",
-      "summary": "Hartal Doktor Kontrak says the government shouldn't be talking about salary cuts for civil servants, even as an “absolute last resort”, that would end up demoralising the public service. \"We trust that PMX won't resort to victimising health care workers.\" The post Don’t Victimise Health Workers With Salary Cuts: Hartal appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "doktor"
-      ]
-    },
-    {
-      "title": "Malaysia targets 902 clinics for integrated lung health rollout by end-2026, says Health Minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/19/malaysia-targets-902-clinics-for-integrated-lung-health-rollout-by-end-2026-says-health-minister/220532",
+      "title": "MBI Selangor denies involvement in Bernam Maritime Industrial Park launch, says use of its name and logo unauthorised",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/19/mbi-selangor-denies-involvement-in-bernam-maritime-industrial-park-launch-says-use-of-its-name-and-logo-unauthorised/220550",
       "source": "Malay Mail",
-      "published": "2026-05-19T04:02:51",
-      "summary": "PUTRAJAYA, May 19 — Malaysia has stepped up its efforts to translate the World Health Assembly’s...",
+      "published": "2026-05-19T06:15:36",
+      "summary": "SHAH ALAM, May 19 — Menteri Besar Selangor (Incorporated) (MBI Selangor) has denied any involvement in the o...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Aunt recounts bruises, severe head injury seen on Zara Qairina during treatment and post-mortem handling at inquest",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/19/aunt-recounts-bruises-severe-head-injury-seen-on-zara-qairina-during-treatment-and-post-mortem-handling-at-inquest/220528",
-      "source": "Malay Mail",
-      "published": "2026-05-19T03:50:14",
-      "summary": "KUALA LUMPUR, May 19 — The Coroner’s Court was told today about visible injuries and bruising found on the b...",
-      "keywords_matched": [
-        "treatment"
+        "trial"
       ]
     }
   ]
