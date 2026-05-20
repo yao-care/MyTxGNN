@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-19T22:14:42.237430",
+  "fetched": "2026-05-20T00:03:58.461010",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Malaysia’s Blind Spot On Fake Medicines: Why Ancient Deception Still Thrives — Siman Raj Aruldas",
@@ -101,16 +101,6 @@
       "summary": "In a stunning court ruling, the High Court decided that Dr Zaliha Mustafa acted illegally in removing liquid nicotine from the Poisons List, saying the delisting was mainly based on economic reasons and the health minister didn't consult the Poisons Board. The post High Court Rules Liquid Nicotine Was Delisted Unlawfully appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "MBI Selangor denies involvement in Bernam Maritime Industrial Park launch, says use of its name and logo unauthorised",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/19/mbi-selangor-denies-involvement-in-bernam-maritime-industrial-park-launch-says-use-of-its-name-and-logo-unauthorised/220550",
-      "source": "Malay Mail",
-      "published": "2026-05-19T06:15:36",
-      "summary": "SHAH ALAM, May 19 — Menteri Besar Selangor (Incorporated) (MBI Selangor) has denied any involvement in the o...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
