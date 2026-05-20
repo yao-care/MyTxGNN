@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-20T00:03:58.461010",
+  "fetched": "2026-05-20T05:03:05.916341",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,14 +7,35 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 13,
   "items": [
     {
-      "title": "Malaysia’s Blind Spot On Fake Medicines: Why Ancient Deception Still Thrives — Siman Raj Aruldas",
-      "url": "https://codeblue.galencentre.org/2026/05/malaysias-blind-spot-on-fake-medicines-why-ancient-deception-still-thrives-siman-raj-aruldas/",
+      "title": "Tdap Immunisation For Pregnant Mums Prevents Deadly ‘100-Day Cough’ In Young Babies",
+      "url": "https://codeblue.galencentre.org/2026/05/tdap-immunisation-for-pregnant-mums-prevents-deadly-100-day-cough-in-young-babies/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-20T03:30:00",
+      "summary": "Tdap vaccine has been proven to be safe for both mother and baby, and is widely used around the world, showing no increased risk to pregnancies. The post Tdap Immunisation For Pregnant Mums Prevents Deadly ‘100-Day Cough’ In Young Babies appeared first on CodeBlue .",
+      "keywords_matched": [
+        "vaccine"
+      ]
+    },
+    {
+      "title": "Multilingual Clinic Appointment Cards Ensure Continuity Of Care, Says Contributor",
+      "url": "https://codeblue.galencentre.org/2026/05/multilingual-clinic-appointment-cards-ensure-continuity-of-care-says-contributor/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-20T02:00:00",
+      "summary": "A contributor who was directly involved in the National Health Literacy Policy drafted by MOH and WHO defends the use of Chinese-language clinic appointment cards to ensure continuity of care. Diseases don't recognise race, religion or political ideology. The post Multilingual Clinic Appointment Cards Ensure Continuity Of Care, Says Contributor appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "disease"
+      ]
+    },
+    {
+      "title": "Malaysia’s Blind Spot On Fake Medicines: Why Ancient Deception Still Thrives — Saiman Raj Aruldas",
+      "url": "https://codeblue.galencentre.org/2026/05/malaysias-blind-spot-on-fake-medicines-why-ancient-deception-still-thrives/",
       "source": "CodeBlue (Health News)",
       "published": "2026-05-19T08:39:04",
-      "summary": "Fake medicines have survived for centuries because human vulnerability has remained constant. Malaysia’s true challenge is not simply defeating counterfeiters, but overcoming the ancient habits that allow them to thrive. The post Malaysia’s Blind Spot On Fake Medicines: Why Ancient Deception Still Thrives — Siman Raj Aruldas appeared first on CodeBlue .",
+      "summary": "Fake medicines have survived for centuries because human vulnerability has remained constant. Malaysia’s true challenge is not simply defeating counterfeiters, but overcoming the ancient habits that allow them to thrive. The post Malaysia’s Blind Spot On Fake Medicines: Why Ancient Deception Still Thrives — Saiman Raj Aruldas appeared first on CodeBlue .",
       "keywords_matched": [
         "medicine"
       ]
@@ -84,23 +105,34 @@
       ]
     },
     {
-      "title": "ProtectHealth Says Not Yet Hit By Spending Cuts",
-      "url": "https://codeblue.galencentre.org/2026/05/protecthealth-says-not-yet-hit-by-spending-cuts/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-15T09:39:38",
-      "summary": "ProtectHealth Corp says MOH has not ordered any scale down of its schemes despite proposed federal budget cuts. It also says bulk purchasing has helped contain costs, while the Base MHIT and DRG remain on track despite Iran war pressures. The post ProtectHealth Says Not Yet Hit By Spending Cuts appeared first on CodeBlue .",
+      "title": "Malaysia steps up Ebola preparedness after WHO declares global health emergency",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/20/malaysia-steps-up-ebola-preparedness-after-who-declares-global-health-emergency/220645",
+      "source": "Malay Mail",
+      "published": "2026-05-20T04:02:18",
+      "summary": "PUTRAJAYA, May 20 — The Health Ministry (MOH) has stepped up preparedness and monitoring measures following the Wo...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "High Court Rules Liquid Nicotine Was Delisted Unlawfully",
-      "url": "https://codeblue.galencentre.org/2026/05/high-court-rules-liquid-nicotine-was-delisted-unlawfully/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-15T09:02:51",
-      "summary": "In a stunning court ruling, the High Court decided that Dr Zaliha Mustafa acted illegally in removing liquid nicotine from the Poisons List, saying the delisting was mainly based on economic reasons and the health minister didn't consult the Poisons Board. The post High Court Rules Liquid Nicotine Was Delisted Unlawfully appeared first on CodeBlue .",
+      "title": "Malaysian Haj pilgrims urged to limit outdoor activities as heat hits 48°C in Mecca",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/20/malaysian-haj-pilgrims-urged-to-limit-outdoor-activities-as-heat-hits-48c-in-mecca/220625",
+      "source": "Malay Mail",
+      "published": "2026-05-20T01:32:34",
+      "summary": "MECCA, May 20 — Malaysian Haj pilgrims have been advised to take care of their health and limit outdoor activities...",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Malaysia, Singapore expand healthcare cooperation on food labelling, medical technology and health tourism",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/20/malaysia-singapore-expand-healthcare-cooperation-on-food-labelling-medical-technology-and-health-tourism/220622",
+      "source": "Malay Mail",
+      "published": "2026-05-20T01:23:31",
+      "summary": "KUALA LUMPUR, May 20 — Malaysia and Singapore are strengthening strategic cooperation in healthcare, including foo...",
+      "keywords_matched": [
+        "health",
+        "medical"
       ]
     }
   ]
