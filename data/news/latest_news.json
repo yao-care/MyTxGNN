@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-20T05:03:05.916341",
+  "fetched": "2026-05-20T09:30:00.420912",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Tdap Immunisation For Pregnant Mums Prevents Deadly ‘100-Day Cough’ In Young Babies",
@@ -105,34 +105,23 @@
       ]
     },
     {
-      "title": "Malaysia steps up Ebola preparedness after WHO declares global health emergency",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/20/malaysia-steps-up-ebola-preparedness-after-who-declares-global-health-emergency/220645",
+      "title": "Sabah Customs foils drug smuggling attempt worth over RM3.1m involving courier parcels and airport luggage",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/20/sabah-customs-foils-drug-smuggling-attempt-worth-over-rm31m-involving-courier-parcels-and-airport-luggage/220714",
       "source": "Malay Mail",
-      "published": "2026-05-20T04:02:18",
-      "summary": "PUTRAJAYA, May 20 — The Health Ministry (MOH) has stepped up preparedness and monitoring measures following the Wo...",
+      "published": "2026-05-20T09:22:45",
+      "summary": "KOTA KINABALU, May 20 — The Royal Malaysian Customs Department of Sabah successfully foiled attempts to distribute...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     },
     {
-      "title": "Malaysian Haj pilgrims urged to limit outdoor activities as heat hits 48°C in Mecca",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/20/malaysian-haj-pilgrims-urged-to-limit-outdoor-activities-as-heat-hits-48c-in-mecca/220625",
+      "title": "PH secretariat to review media complaint over alleged rough treatment at convention, says Fahmi",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/20/ph-secretariat-to-review-media-complaint-over-alleged-rough-treatment-at-convention-says-fahmi/220697",
       "source": "Malay Mail",
-      "published": "2026-05-20T01:32:34",
-      "summary": "MECCA, May 20 — Malaysian Haj pilgrims have been advised to take care of their health and limit outdoor activities...",
+      "published": "2026-05-20T08:22:10",
+      "summary": "KUALA LUMPUR, May 20 — Datuk Fahmi Fadzil said he has instructed the Pakatan Harapan (PH) Convention secreta...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Malaysia, Singapore expand healthcare cooperation on food labelling, medical technology and health tourism",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/20/malaysia-singapore-expand-healthcare-cooperation-on-food-labelling-medical-technology-and-health-tourism/220622",
-      "source": "Malay Mail",
-      "published": "2026-05-20T01:23:31",
-      "summary": "KUALA LUMPUR, May 20 — Malaysia and Singapore are strengthening strategic cooperation in healthcare, including foo...",
-      "keywords_matched": [
-        "health",
-        "medical"
+        "treatment"
       ]
     }
   ]
