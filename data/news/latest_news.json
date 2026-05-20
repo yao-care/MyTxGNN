@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-20T09:30:00.420912",
+  "fetched": "2026-05-20T12:22:46.396463",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -105,6 +105,16 @@
       ]
     },
     {
+      "title": "ECRL training programme in China building Malaysia’s future rail workforce, says Loke",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/20/ecrl-training-programme-in-china-building-malaysias-future-rail-workforce-says-loke/220735",
+      "source": "Malay Mail",
+      "published": "2026-05-20T10:27:35",
+      "summary": "LIUZHOU (China), May 20 — The East Coast Rail Link (ECRL) Industrial Skills Training Programme (PLKI-ECRL), conduc...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
       "title": "Sabah Customs foils drug smuggling attempt worth over RM3.1m involving courier parcels and airport luggage",
       "url": "https://www.malaymail.com/news/malaysia/2026/05/20/sabah-customs-foils-drug-smuggling-attempt-worth-over-rm31m-involving-courier-parcels-and-airport-luggage/220714",
       "source": "Malay Mail",
@@ -112,16 +122,6 @@
       "summary": "KOTA KINABALU, May 20 — The Royal Malaysian Customs Department of Sabah successfully foiled attempts to distribute...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "PH secretariat to review media complaint over alleged rough treatment at convention, says Fahmi",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/20/ph-secretariat-to-review-media-complaint-over-alleged-rough-treatment-at-convention-says-fahmi/220697",
-      "source": "Malay Mail",
-      "published": "2026-05-20T08:22:10",
-      "summary": "KUALA LUMPUR, May 20 — Datuk Fahmi Fadzil said he has instructed the Pakatan Harapan (PH) Convention secreta...",
-      "keywords_matched": [
-        "treatment"
       ]
     }
   ]
