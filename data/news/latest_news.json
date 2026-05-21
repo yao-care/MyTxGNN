@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-21T07:50:01.093774",
+  "fetched": "2026-05-21T11:21:58.958935",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Too Few Malaysian Adults Are Protected Against Influenza",
+      "url": "https://codeblue.galencentre.org/2026/05/too-few-malaysian-adults-are-protected-against-influenza/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-21T08:38:14",
+      "summary": "Experts urge high-risk adults to get their influenza shots at private and public health care facilities ahead of the mid-year influenza season. The post Too Few Malaysian Adults Are Protected Against Influenza appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Lessons From The Past, Vaccines For The Future: A Malaysian Story Of Hope — Dr Musa Mohd Nordin & Dr Zulkifli Ismail",
       "url": "https://codeblue.galencentre.org/2026/05/lessons-from-the-past-vaccines-for-the-future-a-malaysian-story-of-hope-dr-musa-mohd-nordin-dr-zulkifli-ismail/",
@@ -104,32 +114,13 @@
       ]
     },
     {
-      "title": "Don’t Appeal Nicotine Ruling, Raise Tobacco Tax Instead",
-      "url": "https://codeblue.galencentre.org/2026/05/dont-appeal-nicotine-ruling-raise-tobacco-tax-instead/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-19T02:00:00",
-      "summary": "Instead of appealing the High Court ruling or attempting once again to remove liquid nicotine from the Poisons List, the government should raise cigarette excise duties to at least 77 sen per stick. This can generate an extra RM772m in annual tax revenue. The post Don’t Appeal Nicotine Ruling, Raise Tobacco Tax Instead appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Too few Malaysians getting flu shots despite high awareness, doctors warn ahead of mid-year influenza season",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/21/too-few-malaysians-getting-flu-shots-despite-high-awareness-doctors-warn-ahead-of-mid-year-influenza-season/220833",
+      "title": "Steamboat restaurant chain director claims trial to CBT charge over RM1.4m misappropriation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/21/steamboat-restaurant-chain-director-claims-trial-to-cbt-charge-over-rm14m-misappropriation/220857",
       "source": "Malay Mail",
-      "published": "2026-05-21T06:00:19",
-      "summary": "KUALA LUMPUR, May 21 — Health experts are urging high-risk adults in Malaysia to get vaccinated against influenza,...",
+      "published": "2026-05-21T08:18:57",
+      "summary": "KUALA LUMPUR, May 21 — A director of a steamboat restaurant chain pleaded not guilty at the Sessions Court here to...",
       "keywords_matched": [
-        "health",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Penang police bust ‘Piau Piau’ vape‑drug syndicate, arrest two and seize RM199,000 in drugs and assets",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/21/penang-police-bust-piau-piau-vapedrug-syndicate-arrest-two-and-seize-rm199000-in-drugs-and-assets/220823",
-      "source": "Malay Mail",
-      "published": "2026-05-21T05:33:38",
-      "summary": "GEORGE TOWN, May 21 — Drugs packed into vape cartridges and sold on the streets as “Piau Piau” have re...",
-      "keywords_matched": [
-        "drug"
+        "trial"
       ]
     }
   ]
