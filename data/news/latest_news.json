@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-21T21:26:21.595588",
+  "fetched": "2026-05-21T23:02:25.822913",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Too Few Malaysian Adults Are Protected Against Influenza",
@@ -111,16 +111,6 @@
       "summary": "MMA wants the Health and Finance Ministries to clarify if liquid nicotine remains on the Poisons List, after the High Court struck down its 2023 removal from the list, and if nicotine vapes are now effectively illegal and hence cannot be taxed. The post Clarify If Nicotine Vapes Now Illegal After Court Ruling: MMA appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Steamboat restaurant chain director claims trial to CBT charge over RM1.4m misappropriation",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/21/steamboat-restaurant-chain-director-claims-trial-to-cbt-charge-over-rm14m-misappropriation/220857",
-      "source": "Malay Mail",
-      "published": "2026-05-21T08:18:57",
-      "summary": "KUALA LUMPUR, May 21 — A director of a steamboat restaurant chain pleaded not guilty at the Sessions Court here to...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
