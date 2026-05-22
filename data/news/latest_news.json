@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-22T07:42:49.808506",
+  "fetched": "2026-05-22T10:48:50.855059",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Clarity Is A Clinical Tool, Not A Cultural Preference — Dr Lim Ren Jye",
@@ -108,29 +108,6 @@
       "summary": "The WHA participation highlights Malaysia’s public-private partnership model for early detection and occupational lung health. The post IHH Healthcare Malaysia Brings LungShield Programme To 79th World Health Assembly appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Jamal Yunos issues public apology, retracts corruption allegations against Khairy in court settlement",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/22/jamal-yunos-issues-public-apology-retracts-corruption-allegations-against-khairy-in-court-settlement/220975",
-      "source": "Malay Mail",
-      "published": "2026-05-22T06:14:17",
-      "summary": "KUALA LUMPUR, May 22 — The defamation suit filed by former Health Minister Khairy Jamaluddin against Datuk Seri Ja...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Anwar visits HKL, meets patients and thanks healthcare workers",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/22/anwar-visits-hkl-meets-patients-and-thanks-healthcare-workers/220971",
-      "source": "Malay Mail",
-      "published": "2026-05-22T05:32:01",
-      "summary": "KUALA LUMPUR, May 22 — Prime Minister Datuk Seri Anwar Ibrahim today visited the Kuala Lumpur Hospital (HKL) to ob...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "patient",
-        "hospital"
       ]
     }
   ]
