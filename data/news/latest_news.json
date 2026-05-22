@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-22T10:48:50.855059",
+  "fetched": "2026-05-22T13:30:49.529114",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "Clarity Is A Clinical Tool, Not A Cultural Preference — Dr Lim Ren Jye",
@@ -108,6 +108,28 @@
       "summary": "The WHA participation highlights Malaysia’s public-private partnership model for early detection and occupational lung health. The post IHH Healthcare Malaysia Brings LungShield Programme To 79th World Health Assembly appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Selangor to expand Selgate facilities to strengthen public health ecosystem, says Amirudin",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/22/selangor-to-expand-selgate-facilities-to-strengthen-public-health-ecosystem-says-amirudin/221036",
+      "source": "Malay Mail",
+      "published": "2026-05-22T11:56:55",
+      "summary": "RAWANG, May 22 — The construction of a network of hospitals under the Selgate Healthcare (SELGATE) group is a crea...",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Johor police bust drug lab, seize RM16.4m worth of narcotic‑laced vape cartridges",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/22/johor-police-bust-drug-lab-seize-rm164m-worth-of-narcoticlaced-vape-cartridges/221026",
+      "source": "Malay Mail",
+      "published": "2026-05-22T10:48:43",
+      "summary": "ISKANDAR PUTERI, May 22 — Police busted an illegal drug processing lab that specialised in producing narcotic‑lace...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
