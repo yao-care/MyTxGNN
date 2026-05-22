@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-21T23:02:25.822913",
+  "fetched": "2026-05-22T03:31:27.014140",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "DRG Based On Severity Levels, Not Insurer-Determined Fee Range: ProtectHealth",
+      "url": "https://codeblue.galencentre.org/2026/05/drg-based-on-severity-levels-not-insurer-determined-fee-range-protecthealth/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-22T02:00:00",
+      "summary": "ProtectHealth says its DRG price guide will use severity levels to set target fees for inpatient cases under Base MHIT, not broad procedure cost ranges published by the insurance industry. The DRG framework is designed to cover most groups of diseases. The post DRG Based On Severity Levels, Not Insurer-Determined Fee Range: ProtectHealth appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "disease",
+        "patient"
+      ]
+    },
     {
       "title": "Too Few Malaysian Adults Are Protected Against Influenza",
       "url": "https://codeblue.galencentre.org/2026/05/too-few-malaysian-adults-are-protected-against-influenza/",
@@ -104,13 +116,13 @@
       ]
     },
     {
-      "title": "Clarify If Nicotine Vapes Now Illegal After Court Ruling: MMA",
-      "url": "https://codeblue.galencentre.org/2026/05/clarify-if-nicotine-vapes-now-illegal-after-court-ruling-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-19T06:48:56",
-      "summary": "MMA wants the Health and Finance Ministries to clarify if liquid nicotine remains on the Poisons List, after the High Court struck down its 2023 removal from the list, and if nicotine vapes are now effectively illegal and hence cannot be taxed. The post Clarify If Nicotine Vapes Now Illegal After Court Ruling: MMA appeared first on CodeBlue .",
+      "title": "Perak MACC remands three over alleged false medical claims worth RM53,000",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/22/perak-macc-remands-three-over-alleged-false-medical-claims-worth-rm53000/220910",
+      "source": "Malay Mail",
+      "published": "2026-05-22T01:09:24",
+      "summary": "IPOH, May 22 — The Malaysian Anti-Corruption Commission (MACC) in Perak has obtained a remand order against three...",
       "keywords_matched": [
-        "health"
+        "medical"
       ]
     }
   ]
