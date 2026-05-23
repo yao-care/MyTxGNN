@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-23T00:05:33.040354",
+  "fetched": "2026-05-23T04:39:21.641754",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Selgate Launches First Specialist Hospital With Over 30 Specialists",
@@ -110,28 +110,6 @@
       "summary": "The Hib success shows that local data, cost-effectiveness analysis, and a champion with moral clarity can overcome even economic collapse. The post Lessons From The Past, Vaccines For The Future: A Malaysian Story Of Hope — Dr Musa Mohd Nordin & Dr Zulkifli Ismail appeared first on CodeBlue .",
       "keywords_matched": [
         "vaccine"
-      ]
-    },
-    {
-      "title": "Selangor to expand Selgate facilities to strengthen public health ecosystem, says Amirudin",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/22/selangor-to-expand-selgate-facilities-to-strengthen-public-health-ecosystem-says-amirudin/221036",
-      "source": "Malay Mail",
-      "published": "2026-05-22T11:56:55",
-      "summary": "RAWANG, May 22 — The construction of a network of hospitals under the Selgate Healthcare (SELGATE) group is a crea...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Johor police bust drug lab, seize RM16.4m worth of narcotic‑laced vape cartridges",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/22/johor-police-bust-drug-lab-seize-rm164m-worth-of-narcoticlaced-vape-cartridges/221026",
-      "source": "Malay Mail",
-      "published": "2026-05-22T10:48:43",
-      "summary": "ISKANDAR PUTERI, May 22 — Police busted an illegal drug processing lab that specialised in producing narcotic‑lace...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
