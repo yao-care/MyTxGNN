@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-23T07:30:20.054715",
+  "fetched": "2026-05-23T09:50:44.319218",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Selgate Launches First Specialist Hospital With Over 30 Specialists",
@@ -110,6 +110,17 @@
       "summary": "The Hib success shows that local data, cost-effectiveness analysis, and a champion with moral clarity can overcome even economic collapse. The post Lessons From The Past, Vaccines For The Future: A Malaysian Story Of Hope — Dr Musa Mohd Nordin & Dr Zulkifli Ismail appeared first on CodeBlue .",
       "keywords_matched": [
         "vaccine"
+      ]
+    },
+    {
+      "title": "Woman fights off robbery attempt at Bukit Jalil hospital car park, repeat offender jailed for 11 months",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/23/woman-fights-off-robbery-attempt-at-bukit-jalil-hospital-car-park-repeat-offender-jailed-for-11-months/221113",
+      "source": "Malay Mail",
+      "published": "2026-05-23T08:25:08",
+      "summary": "KUALA LUMPUR, May 23 — A man who attempted to rob a woman in the parking area of Columbia Asia Hospital Bukit Jali...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     },
     {
