@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-23T04:39:21.641754",
+  "fetched": "2026-05-23T07:30:20.054715",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Selgate Launches First Specialist Hospital With Over 30 Specialists",
@@ -110,6 +110,17 @@
       "summary": "The Hib success shows that local data, cost-effectiveness analysis, and a champion with moral clarity can overcome even economic collapse. The post Lessons From The Past, Vaccines For The Future: A Malaysian Story Of Hope — Dr Musa Mohd Nordin & Dr Zulkifli Ismail appeared first on CodeBlue .",
       "keywords_matched": [
         "vaccine"
+      ]
+    },
+    {
+      "title": "Anwar applauds Serdang Hospital team for world-class, life-saving cardiac care",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/23/anwar-applauds-serdang-hospital-team-for-world-class-life-saving-cardiac-care/221102",
+      "source": "Malay Mail",
+      "published": "2026-05-23T06:44:47",
+      "summary": "KUALA LUMPUR, May 23 — Prime Minister Datuk Seri Anwar Ibrahim today congratulated the staff of Sultan Idris Shah...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
