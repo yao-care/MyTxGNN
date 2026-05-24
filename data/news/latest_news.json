@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-23T23:56:10.849086",
+  "fetched": "2026-05-24T03:39:49.892379",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Selgate Launches First Specialist Hospital With Over 30 Specialists",
@@ -113,25 +113,13 @@
       ]
     },
     {
-      "title": "Woman fights off robbery attempt at Bukit Jalil hospital car park, repeat offender jailed for 11 months",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/23/woman-fights-off-robbery-attempt-at-bukit-jalil-hospital-car-park-repeat-offender-jailed-for-11-months/221113",
+      "title": "Police: Man who drove against traffic in KL tests positive for drugs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/24/police-man-who-drove-against-traffic-in-kl-tests-positive-for-drugs/221156",
       "source": "Malay Mail",
-      "published": "2026-05-23T08:25:08",
-      "summary": "KUALA LUMPUR, May 23 — A man who attempted to rob a woman in the parking area of Columbia Asia Hospital Bukit Jali...",
+      "published": "2026-05-24T02:00:32",
+      "summary": "KUALA LUMPUR, May 24 — Police arrested a man in his 30s for driving against traffic along Jalan Hang Tuah here yesterday...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Anwar applauds Serdang Hospital team for world-class, life-saving cardiac care",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/23/anwar-applauds-serdang-hospital-team-for-world-class-life-saving-cardiac-care/221102",
-      "source": "Malay Mail",
-      "published": "2026-05-23T06:44:47",
-      "summary": "KUALA LUMPUR, May 23 — Prime Minister Datuk Seri Anwar Ibrahim today congratulated the staff of Sultan Idris Shah...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
+        "drug"
       ]
     }
   ]
