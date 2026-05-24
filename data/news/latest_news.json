@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-24T03:39:49.892379",
+  "fetched": "2026-05-24T06:57:46.139414",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Selgate Launches First Specialist Hospital With Over 30 Specialists",
@@ -110,6 +110,16 @@
       "summary": "The Hib success shows that local data, cost-effectiveness analysis, and a champion with moral clarity can overcome even economic collapse. The post Lessons From The Past, Vaccines For The Future: A Malaysian Story Of Hope — Dr Musa Mohd Nordin & Dr Zulkifli Ismail appeared first on CodeBlue .",
       "keywords_matched": [
         "vaccine"
+      ]
+    },
+    {
+      "title": "Police: Man found dead in Proton Wira in Baling had 20 criminal, drug records",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/24/police-man-found-dead-in-proton-wira-in-baling-had-20-criminal-drug-records/221174",
+      "source": "Malay Mail",
+      "published": "2026-05-24T04:04:08",
+      "summary": "KUALA LUMPUR, May 24 — A man found dead inside a locked car near a Chinese cemetery in Simpang Tiga Tawar, Baling,...",
+      "keywords_matched": [
+        "drug"
       ]
     },
     {
