@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-25T00:03:28.762803",
+  "fetched": "2026-05-25T05:18:23.867949",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,24 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Reflections For World Schizophrenia Day — Dr Loshi Rajen",
+      "url": "https://codeblue.galencentre.org/2026/05/reflections-for-world-schizophrenia-day-dr-loshi-rajen/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-25T03:30:00",
+      "summary": "With appropriate treatment and support, people with schizophrenia can and do live meaningful lives, but many never receive the conditions needed for that to unfold. The post Reflections For World Schizophrenia Day — Dr Loshi Rajen appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment"
+      ]
+    },
+    {
+      "title": "Lawyer: Selling Nicotine Vapes Potentially An Offence After Court Ruling",
+      "url": "https://codeblue.galencentre.org/2026/05/lawyer-selling-nicotine-vapes-potentially-an-offence-after-court-ruling/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-25T02:00:00",
+      "summary": "A lawyer in the nicotine case says vape sellers, distributors, and manufacturers may be committing an offence by selling nicotine vapes because the High Court ruling means that liquid nicotine continues to be classified as a poison under the Poisons Act. The post Lawyer: Selling Nicotine Vapes Potentially An Offence After Court Ruling appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Selgate Launches First Specialist Hospital With Over 30 Specialists",
       "url": "https://codeblue.galencentre.org/2026/05/selgate-launches-first-specialist-hospital-with-over-30-specialists/",
@@ -93,33 +111,14 @@
       ]
     },
     {
-      "title": "Too Few Malaysian Adults Are Protected Against Influenza",
-      "url": "https://codeblue.galencentre.org/2026/05/too-few-malaysian-adults-are-protected-against-influenza/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-21T08:38:14",
-      "summary": "Experts urge high-risk adults to get their influenza shots at private and public health care facilities ahead of the mid-year influenza season. The post Too Few Malaysian Adults Are Protected Against Influenza appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Lessons From The Past, Vaccines For The Future: A Malaysian Story Of Hope — Dr Musa Mohd Nordin & Dr Zulkifli Ismail",
-      "url": "https://codeblue.galencentre.org/2026/05/lessons-from-the-past-vaccines-for-the-future-a-malaysian-story-of-hope-dr-musa-mohd-nordin-dr-zulkifli-ismail/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-21T07:44:42",
-      "summary": "The Hib success shows that local data, cost-effectiveness analysis, and a champion with moral clarity can overcome even economic collapse. The post Lessons From The Past, Vaccines For The Future: A Malaysian Story Of Hope — Dr Musa Mohd Nordin & Dr Zulkifli Ismail appeared first on CodeBlue .",
-      "keywords_matched": [
-        "vaccine"
-      ]
-    },
-    {
-      "title": "Police arrest eight, seize ketamine and ecstasy in KL hotel raid linked to a sudden death case",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/24/police-arrest-eight-seize-ketamine-and-ecstasy-in-kl-hotel-raid-linked-to-a-sudden-death-case/221231",
+      "title": "Malaysia’s medicine supply stable and sufficient despite Iran conflict, says economy minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/25/malaysias-medicine-supply-stable-and-sufficient-despite-iran-conflict-says-economy-minister/221322",
       "source": "Malay Mail",
-      "published": "2026-05-24T09:28:54",
-      "summary": "KUALA LUMPUR, May 24 — Police arrested eight individuals of various nationalities for alleged drug abuse in a raid...",
+      "published": "2026-05-25T05:04:25",
+      "summary": "KUALA LUMPUR, May 25 — Malaysia’s supply of medicines and medical devices remains stable and sufficient desp...",
       "keywords_matched": [
-        "drug"
+        "medical",
+        "medicine"
       ]
     }
   ]
