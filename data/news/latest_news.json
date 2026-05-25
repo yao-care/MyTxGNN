@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-25T10:02:03.777357",
+  "fetched": "2026-05-25T13:58:26.233234",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "A 680km Journey To Save Young Lives",
@@ -116,16 +116,6 @@
       "source": "Malay Mail",
       "published": "2026-05-25T08:47:07",
       "summary": "KUALA LUMPUR, May 25 — Former finance minister Datuk Seri Tengku Zafrul Tengku Abdul Aziz will be called as the 11...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Malaysia deepens defence ties with Türkiye as LMS Batch 2 programme launched in Istanbul",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/25/malaysia-deepens-defence-ties-with-turkiye-as-lms-batch-2-programme-launched-in-istanbul/221344",
-      "source": "Malay Mail",
-      "published": "2026-05-25T07:19:45",
-      "summary": "ISTANBUL, May 25 — Malaysia has strengthened its defence-industrial cooperation with Türkiye through a series...",
       "keywords_matched": [
         "trial"
       ]
