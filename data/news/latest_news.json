@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-25T05:18:23.867949",
+  "fetched": "2026-05-25T10:02:03.777357",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,49 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "A 680km Journey To Save Young Lives",
+      "url": "https://codeblue.galencentre.org/2026/05/a-680km-journey-to-save-young-lives/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-25T07:30:00",
+      "summary": "Sepeda Amal Borneo 2026 calls on public support to help fund life-saving surgeries and care for children facing life-threatening and often overlooked medical conditions. The post A 680km Journey To Save Young Lives appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
+    {
+      "title": "Motherhood, Recovery, And The Invisible Labour We Refuse To See — June Joseph",
+      "url": "https://codeblue.galencentre.org/2026/05/motherhood-recovery-and-the-invisible-labour-we-refuse-to-see-june-joseph/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-25T06:41:29",
+      "summary": "For many women, postpartum is marked instead by prolonged physical depletion, emotional strain, and sustained caregiving labour that continues well beyond discharge from hospital. The post Motherhood, Recovery, And The Invisible Labour We Refuse To See — June Joseph appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Newcastle University Claims Malaysian Medical Graduates Can Still Work In UK",
+      "url": "https://codeblue.galencentre.org/2026/05/newcastle-university-claims-malaysian-medical-graduates-can-still-work-in-uk/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-25T05:44:09",
+      "summary": "Newcastle University claims it's still possible for NUMed graduates to work in the UK because NUMed's MBBS degree remains recognised. \"It is important, however, to distinguish between changes in workforce policy and the academic value of a medical degree.\" The post Newcastle University Claims Malaysian Medical Graduates Can Still Work In UK appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
+    {
+      "title": "Why A 2+1 Schedule For PCV20 Is The Smart Choice — Dr Musa Mohd Nordin, Dr Zulkifli Ismail & Dr David Ng",
+      "url": "https://codeblue.galencentre.org/2026/05/why-a-21-schedule-for-pcv20-is-the-smart-choice-dr-musa-mohd-nordin-dr-zulkifli-ismail/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-25T05:30:00",
+      "summary": "Public health policy should be guided not only by licensing pathways, but also by evolving immunological and real-world effectiveness data. The post Why A 2+1 Schedule For PCV20 Is The Smart Choice — Dr Musa Mohd Nordin, Dr Zulkifli Ismail & Dr David Ng appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Reflections For World Schizophrenia Day — Dr Loshi Rajen",
       "url": "https://codeblue.galencentre.org/2026/05/reflections-for-world-schizophrenia-day-dr-loshi-rajen/",
@@ -70,55 +111,23 @@
       "keywords_matched": []
     },
     {
-      "title": "Why Vaccination Must Become A Pillar Of Cardiovascular Prevention — Dr Musa Mohd Nordin & Dr Zulkifli Ismail",
-      "url": "https://codeblue.galencentre.org/2026/05/why-vaccination-must-become-a-pillar-of-cardiovascular-prevention-dr-musa-mohd-nordin-dr-zulkifli-ismail/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-22T05:45:00",
-      "summary": "Implementing routine adult immunisations for cardiac patients is a highly cost-effective intervention that can directly ease the severe financial strain on the health care system. The post Why Vaccination Must Become A Pillar Of Cardiovascular Prevention — Dr Musa Mohd Nordin & Dr Zulkifli Ismail appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "patient"
-      ]
-    },
-    {
-      "title": "IBD Has No Borders: Access To IBD Care — Prof Dr Raja Affendi Raja Ali",
-      "url": "https://codeblue.galencentre.org/2026/05/ibd-has-no-borders-access-to-ibd-care-prof-dr-raja-affendi-raja-ali/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-22T05:39:25",
-      "summary": "IBD is no longer a rare \"Western\" disease because Malaysia's national IBD incidence has nearly doubled over the past decade. We are now seeing rising IBD cases in rural and semi-urban areas, beyond urban centres and specific genetic risk profiles. The post IBD Has No Borders: Access To IBD Care — Prof Dr Raja Affendi Raja Ali appeared first on CodeBlue .",
-      "keywords_matched": [
-        "disease"
-      ]
-    },
-    {
-      "title": "Malaysia Must Invest In Ageing-At-Home Framework",
-      "url": "https://codeblue.galencentre.org/2026/05/malaysia-must-invest-in-ageing-at-home-framework/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-22T03:30:00",
-      "summary": "Malaysia must provide grants for age-friendly home renovations, subsidised installation of accessibility modifications, caregiver allowances, and incentives for employers to support workers if policymakers expect families to care for older parents at home. The post Malaysia Must Invest In Ageing-At-Home Framework appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "DRG Based On Severity Levels, Not Insurer-Determined Fee Range: ProtectHealth",
-      "url": "https://codeblue.galencentre.org/2026/05/drg-based-on-severity-levels-not-insurer-determined-fee-range-protecthealth/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-22T02:00:00",
-      "summary": "ProtectHealth says its DRG price guide will use severity levels to set target fees for inpatient cases under Base MHIT, not broad procedure cost ranges published by the insurance industry. The DRG framework is designed to cover most groups of diseases. The post DRG Based On Severity Levels, Not Insurer-Determined Fee Range: ProtectHealth appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "disease",
-        "patient"
-      ]
-    },
-    {
-      "title": "Malaysia’s medicine supply stable and sufficient despite Iran conflict, says economy minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/25/malaysias-medicine-supply-stable-and-sufficient-despite-iran-conflict-says-economy-minister/221322",
+      "title": "Tengku Zafrul to testify in Muhyiddin RM232.5m graft trial, money laundering case on July 6",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/25/tengku-zafrul-to-testify-in-muhyiddin-rm2325m-graft-trial-money-laundering-case-on-july-6/221358",
       "source": "Malay Mail",
-      "published": "2026-05-25T05:04:25",
-      "summary": "KUALA LUMPUR, May 25 — Malaysia’s supply of medicines and medical devices remains stable and sufficient desp...",
+      "published": "2026-05-25T08:47:07",
+      "summary": "KUALA LUMPUR, May 25 — Former finance minister Datuk Seri Tengku Zafrul Tengku Abdul Aziz will be called as the 11...",
       "keywords_matched": [
-        "medical",
-        "medicine"
+        "trial"
+      ]
+    },
+    {
+      "title": "Malaysia deepens defence ties with Türkiye as LMS Batch 2 programme launched in Istanbul",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/25/malaysia-deepens-defence-ties-with-turkiye-as-lms-batch-2-programme-launched-in-istanbul/221344",
+      "source": "Malay Mail",
+      "published": "2026-05-25T07:19:45",
+      "summary": "ISTANBUL, May 25 — Malaysia has strengthened its defence-industrial cooperation with Türkiye through a series...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
