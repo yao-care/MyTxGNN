@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-26T00:04:03.913696",
+  "fetched": "2026-05-26T05:02:04.863304",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,31 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "When Sungai Buloh Hospital KPIs Matter More Than Human Limits — Medical Officer",
+      "url": "https://codeblue.galencentre.org/2026/05/when-sungai-buloh-hospital-kpis-matter-more-than-human-limits-medical-officer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-26T03:30:00",
+      "summary": "Sungai Buloh Hospital's Internal Medicine is expected to function like several departments. 40 MOs manage 4 major medical wards, lodger and MDSU services, medical admission ward, CCU, plus multiple general medical and geriatric wards at Pusat Kusta Negara. The post When Sungai Buloh Hospital KPIs Matter More Than Human Limits — Medical Officer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "medicine",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "ProtectHealth Improves GP Benefits, Targets 40-Something Adults To Boost Take-Up",
+      "url": "https://codeblue.galencentre.org/2026/05/protecthealth-improves-gp-benefits-targets-40-something-adults-to-boost-take-up/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-26T02:00:00",
+      "summary": "ProtectHealth has raised GP fees and doubled follow-up payments under Peka B40. Despite providing free health screenings, take-up rates are very low at 27%. Hence, ProtectHealth plans to target adults in their 40s by appealing to family responsibility. The post ProtectHealth Improves GP Benefits, Targets 40-Something Adults To Boost Take-Up appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "A 680km Journey To Save Young Lives",
       "url": "https://codeblue.galencentre.org/2026/05/a-680km-journey-to-save-young-lives/",
@@ -92,32 +115,23 @@
       ]
     },
     {
-      "title": "Why Young Malaysians Are Becoming More Vulnerable To Diabetes — Nicson Yap Yong Ze",
-      "url": "https://codeblue.galencentre.org/2026/05/why-young-malaysians-are-becoming-more-vulnerable-to-diabetes-nicson-yap-yong-ze/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-22T07:11:28",
-      "summary": "Diabetes among young Malaysians is linked to diet, lifestyle, education, and daily habits, and if these issues continue to be ignored, they may face chronic health conditions earlier in life. The post Why Young Malaysians Are Becoming More Vulnerable To Diabetes — Nicson Yap Yong Ze appeared first on CodeBlue .",
+      "title": "Put it out: Kelantan health dept issues 85 notices for failure to display no-smoking signs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/26/put-it-out-kelantan-health-dept-issues-85-notices-for-failure-to-display-no-smoking-signs/221411",
+      "source": "Malay Mail",
+      "published": "2026-05-26T01:54:19",
+      "summary": "KOTA BHARU, May 26 — The Kelantan Health Department has issued 85 notices of offence under Section 18 of the...",
       "keywords_matched": [
-        "health",
-        "diabetes"
+        "health"
       ]
     },
     {
-      "title": "Why Microwaves Aren’t The Villains We Think They Are — Tan Lih Sy & Mohammad Irwan Hakeem",
-      "url": "https://codeblue.galencentre.org/2026/05/why-microwaves-arent-the-villains-we-think-they-are-tan-lih-sy-mohammad-irwan-hakeem/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-22T06:15:40",
-      "summary": "Scientific evidence continues to show that when used correctly, microwaves are safe and can even help preserve nutrients better than some conventional cooking methods. The post Why Microwaves Aren’t The Villains We Think They Are — Tan Lih Sy & Mohammad Irwan Hakeem appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Tengku Zafrul to testify in Muhyiddin RM232.5m graft trial, money laundering case on July 6",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/25/tengku-zafrul-to-testify-in-muhyiddin-rm2325m-graft-trial-money-laundering-case-on-july-6/221358",
+      "title": "Police raid upscale KL hotel, arrest 51 men for drug-fuelled immoral activities",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/26/police-raid-upscale-kl-hotel-arrest-51-men-for-drug-fuelled-immoral-activities/221393",
       "source": "Malay Mail",
-      "published": "2026-05-25T08:47:07",
-      "summary": "KUALA LUMPUR, May 25 — Former finance minister Datuk Seri Tengku Zafrul Tengku Abdul Aziz will be called as the 11...",
+      "published": "2026-05-26T00:58:22",
+      "summary": "KUALA LUMPUR, May 26 — A total of 51 men were arrested in a series of four raids that uncovered drug abuse activit...",
       "keywords_matched": [
-        "trial"
+        "drug"
       ]
     }
   ]
