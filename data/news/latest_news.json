@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-26T23:08:50.656419",
+  "fetched": "2026-05-27T03:38:07.049973",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Health Ministry Threatens Enforcement Action Against Doctor Fee-Splitting",
@@ -116,26 +116,6 @@
       "summary": "With appropriate treatment and support, people with schizophrenia can and do live meaningful lives, but many never receive the conditions needed for that to unfold. The post Reflections For World Schizophrenia Day — Dr Loshi Rajen appeared first on CodeBlue .",
       "keywords_matched": [
         "treatment"
-      ]
-    },
-    {
-      "title": "Hydroshoppe and director allowed to stand trial in High Court",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/26/hydroshoppe-and-director-allowed-to-stand-trial-in-high-court/221455",
-      "source": "Malay Mail",
-      "published": "2026-05-26T08:47:53",
-      "summary": "KUALA LUMPUR, May 26 — Hydroshoppe Sdn Bhd and its director will stand trial in the High Court over allegations th...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Kedah realtor charged with stabbing single mum in neck sent for mental health assessment",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/26/kedah-realtor-charged-with-stabbing-single-mum-in-neck-sent-for-mental-health-assessment/221443",
-      "source": "Malay Mail",
-      "published": "2026-05-26T06:19:45",
-      "summary": "KUALA LUMPUR, May 26 — A real estate agent accused of the attempted murder of a single mother in Alor Setar has be...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
