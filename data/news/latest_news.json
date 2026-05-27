@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-27T03:38:07.049973",
+  "fetched": "2026-05-27T08:02:14.377450",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Health Ministry Threatens Enforcement Action Against Doctor Fee-Splitting",
@@ -116,6 +116,17 @@
       "summary": "With appropriate treatment and support, people with schizophrenia can and do live meaningful lives, but many never receive the conditions needed for that to unfold. The post Reflections For World Schizophrenia Day — Dr Loshi Rajen appeared first on CodeBlue .",
       "keywords_matched": [
         "treatment"
+      ]
+    },
+    {
+      "title": "New PJ hospital site finalised; Selangor MB pledges to expedite approvals for 500-bed facility",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/27/new-pj-hospital-site-finalised-selangor-mb-pledges-to-expedite-approvals-for-500-bed-facility/221566",
+      "source": "Malay Mail",
+      "published": "2026-05-27T05:25:04",
+      "summary": "KUALA LUMPUR, May 27 — The site for the long-awaited Petaling Jaya public hospital has been officially confirmed,...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
