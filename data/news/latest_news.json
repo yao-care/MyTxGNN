@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-28T02:57:37.707101",
+  "fetched": "2026-05-28T06:57:50.119683",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,30 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Time To Introduce Dengue Vaccine In Selangor — Dr Musa Mohd Nordin, Dr Zulkifli Ismail, Dr Nur Abdul Karim & Dr Koh Kar Chai",
+      "url": "https://codeblue.galencentre.org/2026/05/time-to-introduce-dengue-vaccine-in-selangor-dr-musa-mohd-nordin-dr-zulkifli-ismail-dr-nur-abdul-karim-dr-koh-kar-chai/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-28T05:30:00",
+      "summary": "Selangor is Malaysia’s economic engine, and cannot afford to let a preventable disease continue to claim its people and its productivity. The post Time To Introduce Dengue Vaccine In Selangor — Dr Musa Mohd Nordin, Dr Zulkifli Ismail, Dr Nur Abdul Karim & Dr Koh Kar Chai appeared first on CodeBlue .",
+      "keywords_matched": [
+        "disease",
+        "vaccine"
+      ]
+    },
+    {
+      "title": "PJ Hospital Can Be Funded Outside 13MP: Dzulkefly",
+      "url": "https://codeblue.galencentre.org/2026/05/pj-hospital-can-be-funded-outside-13mp-dzulkefly/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-28T04:08:30",
+      "summary": "Dr Dzul says the new PJ Hospital can be funded under rolling plans even though the project isn't listed under the 13th Malaysia Plan, expressing hopes that land acquisition will be announced in Budget 2027 and allocations can then be obtained for 2028. The post PJ Hospital Can Be Funded Outside 13MP: Dzulkefly appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Alternative Solution To Petaling Jaya Needs: Reform Access, Not Build Another Hospital — Dr Mohamed Rafick Khan",
       "url": "https://codeblue.galencentre.org/2026/05/alternative-solution-to-petaling-jaya-needs-reform-access-not-build-another-hospital-dr-mohamed-rafick-khan/",
@@ -101,23 +123,13 @@
       ]
     },
     {
-      "title": "Newcastle University Claims Malaysian Medical Graduates Can Still Work In UK",
-      "url": "https://codeblue.galencentre.org/2026/05/newcastle-university-claims-malaysian-medical-graduates-can-still-work-in-uk/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-25T05:44:09",
-      "summary": "Newcastle University claims it's still possible for NUMed graduates to work in the UK because NUMed's MBBS degree remains recognised. \"It is important, however, to distinguish between changes in workforce policy and the academic value of a medical degree.\" The post Newcastle University Claims Malaysian Medical Graduates Can Still Work In UK appeared first on CodeBlue .",
+      "title": "June rollout of fentanyl test kits signals tougher stance on synthetic drugs, says Nada D-G",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/28/june-rollout-of-fentanyl-test-kits-signals-tougher-stance-on-synthetic-drugs-says-nada-d-g/221690",
+      "source": "Malay Mail",
+      "published": "2026-05-28T06:09:26",
+      "summary": "KUALA LUMPUR, May 28 — The National Anti-Drug Agency (Nada) will begin using specialised testing kits nationwide n...",
       "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Why A 2+1 Schedule For PCV20 Is The Smart Choice — Dr Musa Mohd Nordin, Dr Zulkifli Ismail & Dr David Ng",
-      "url": "https://codeblue.galencentre.org/2026/05/why-a-21-schedule-for-pcv20-is-the-smart-choice-dr-musa-mohd-nordin-dr-zulkifli-ismail/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-25T05:30:00",
-      "summary": "Public health policy should be guided not only by licensing pathways, but also by evolving immunological and real-world effectiveness data. The post Why A 2+1 Schedule For PCV20 Is The Smart Choice — Dr Musa Mohd Nordin, Dr Zulkifli Ismail & Dr David Ng appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
+        "drug"
       ]
     }
   ]
