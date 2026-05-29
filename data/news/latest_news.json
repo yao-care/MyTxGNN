@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-29T11:27:29.629113",
+  "fetched": "2026-05-29T15:23:34.302154",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Rethinking Distributive Justice In Malaysian Health Care — Erwin Khoo Jiayuan",
@@ -118,16 +118,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Missing witness sinks case against two men accused of possessing 150kg of drugs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/29/missing-witness-sinks-case-against-two-men-accused-of-possessing-150kg-of-drugs/221827",
-      "source": "Malay Mail",
-      "published": "2026-05-29T07:40:29",
-      "summary": "SHAH ALAM, May 29 — Two former steamboat restaurant workers were acquitted and freed by the High Court here today...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
