@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-29T03:27:25.179034",
+  "fetched": "2026-05-29T07:53:48.610222",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -10,13 +10,14 @@
   "total_items": 12,
   "items": [
     {
-      "title": "Someone Still Has To Stay: Limiting Housemen Hours Comes At A Cost — Dr Muhammad Syauqi Muqri Ilham Akhbar",
+      "title": "Someone Still Has To Stay: Limiting Housemen Hours Comes At A Cost — Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/05/someone-still-has-to-stay-limiting-housemen-hours-comes-at-a-cost-dr-muhammad-syauqi-muqri-ilham-akhbar/",
       "source": "CodeBlue (Health News)",
       "published": "2026-05-29T03:23:48",
-      "summary": "I'm not against improving HO welfare, but why is MO welfare always ignored? If fatigue is dangerous for HOs, then fatigue is also dangerous for MOs. If burnout matters for HOs, then burnout also matters for MOs. MOs hold up the health care system. The post Someone Still Has To Stay: Limiting Housemen Hours Comes At A Cost — Dr Muhammad Syauqi Muqri Ilham Akhbar appeared first on CodeBlue .",
+      "summary": "I'm not against improving HO welfare, but why is MO welfare always ignored? If fatigue is dangerous for HOs, then fatigue is also dangerous for MOs. If burnout matters for HOs, then burnout also matters for MOs. MOs hold up the health care system. The post Someone Still Has To Stay: Limiting Housemen Hours Comes At A Cost — Medical Officer appeared first on CodeBlue .",
       "keywords_matched": [
-        "health"
+        "health",
+        "medical"
       ]
     },
     {
@@ -121,6 +122,16 @@
       ]
     },
     {
+      "title": "Missing witness sinks case against two men accused of possessing 150kg of drugs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/29/missing-witness-sinks-case-against-two-men-accused-of-possessing-150kg-of-drugs/221827",
+      "source": "Malay Mail",
+      "published": "2026-05-29T07:40:29",
+      "summary": "SHAH ALAM, May 29 — Two former steamboat restaurant workers were acquitted and freed by the High Court here today...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "The great migration: Why Singapore giants like Gardenia are moving to Johor",
       "url": "https://www.malaymail.com/news/malaysia/2026/05/29/the-great-migration-why-singapore-giants-like-gardenia-are-moving-to-johor/221748",
       "source": "Malay Mail",
@@ -128,17 +139,6 @@
       "summary": "JOHOR BAHRU, May 29 — In Senai’s sprawling industrial belt, Gardenia Malaysia’s massive bakery sits al...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Putrajaya and Selangor must act fast to ‘lock in’ proposed PJ public hospital, says Kampung Tunku rep",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/28/putrajaya-and-selangor-must-act-fast-to-lock-in-proposed-pj-public-hospital-says-kampung-tunku-rep/221729",
-      "source": "Malay Mail",
-      "published": "2026-05-28T11:38:16",
-      "summary": "KUALA LUMPUR, May 28 — Kampung Tunku assemblyman Lim Yi Wei today urged Putrajaya and the Selangor government to m...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
