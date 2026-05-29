@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-29T07:53:48.610222",
+  "fetched": "2026-05-29T11:27:29.629113",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Rethinking Distributive Justice In Malaysian Health Care — Erwin Khoo Jiayuan",
+      "url": "https://codeblue.galencentre.org/2026/05/rethinking-distributive-justice-in-malaysian-health-care-erwin-khoo-jiayuan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-29T10:14:57",
+      "summary": "The real scandal is not that we are debating how to increase health care capacity in the Klang Valley, but that our national health expenditure as a percentage of the country's GDP remains stagnant despite clear, documented needs across every state. The post Rethinking Distributive Justice In Malaysian Health Care — Erwin Khoo Jiayuan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "New PJ Hospital, Leased Lifeline, Or A Question We Dare Not Ask? — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/05/new-pj-hospital-leased-lifeline-or-a-question-we-dare-not-ask-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-05-29T10:06:50",
+      "summary": "PJ residents have waited a generation for a hospital. They can wait a little longer for the right decision. What they can't afford is a monument to political ambition that stands empty for years or a building that siphons staff from surrounding facilities. The post New PJ Hospital, Leased Lifeline, Or A Question We Dare Not Ask? — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Someone Still Has To Stay: Limiting Housemen Hours Comes At A Cost — Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/05/someone-still-has-to-stay-limiting-housemen-hours-comes-at-a-cost-dr-muhammad-syauqi-muqri-ilham-akhbar/",
@@ -100,28 +121,6 @@
       ]
     },
     {
-      "title": "Health Ministry Threatens Enforcement Action Against Doctor Fee-Splitting",
-      "url": "https://codeblue.galencentre.org/2026/05/health-ministry-threatens-enforcement-action-against-doctor-fee-splitting/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-26T08:42:52",
-      "summary": "MOH pledges action under Act 586 against doctor fee-splitting based on proper investigation and legal assessment. As for TPAs and insurers involved in fee-splitting under discount or panel arrangements, MOH says it may engage the relevant authorities. The post Health Ministry Threatens Enforcement Action Against Doctor Fee-Splitting appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Government Should Lease A Private Hospital In PJ",
-      "url": "https://codeblue.galencentre.org/2026/05/government-should-lease-a-private-hospital-in-pj/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-26T05:51:27",
-      "summary": "Instead of building a general hospital, the government should lease a medium-sized private hospital in PJ and take over its entire operations as a public hospital. This would immediately increase public hospital capacity in PJ and reduce pressure on UMMC. The post Government Should Lease A Private Hospital In PJ appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
       "title": "Missing witness sinks case against two men accused of possessing 150kg of drugs",
       "url": "https://www.malaymail.com/news/malaysia/2026/05/29/missing-witness-sinks-case-against-two-men-accused-of-possessing-150kg-of-drugs/221827",
       "source": "Malay Mail",
@@ -129,16 +128,6 @@
       "summary": "SHAH ALAM, May 29 — Two former steamboat restaurant workers were acquitted and freed by the High Court here today...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "The great migration: Why Singapore giants like Gardenia are moving to Johor",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/29/the-great-migration-why-singapore-giants-like-gardenia-are-moving-to-johor/221748",
-      "source": "Malay Mail",
-      "published": "2026-05-29T01:10:42",
-      "summary": "JOHOR BAHRU, May 29 — In Senai’s sprawling industrial belt, Gardenia Malaysia’s massive bakery sits al...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
