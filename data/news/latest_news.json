@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-30T11:18:35.683757",
+  "fetched": "2026-05-30T13:25:31.844735",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Rethinking Distributive Justice In Malaysian Health Care — Erwin Khoo Jiayuan",
@@ -118,6 +118,16 @@
         "health",
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "Nine times more likely than adults: CAP warns Malaysia is losing a generation to vaping",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/30/nine-times-more-likely-than-adults-cap-warns-malaysia-is-losing-a-generation-to-vaping/221979",
+      "source": "Malay Mail",
+      "published": "2026-05-30T11:34:58",
+      "summary": "GEORGE TOWN, May 30 — Despite various health awareness campaigns conducted every year, the use of nicotine or toba...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
