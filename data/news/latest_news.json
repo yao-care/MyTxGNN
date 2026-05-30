@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-30T02:54:05.950886",
+  "fetched": "2026-05-30T06:22:50.540327",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Rethinking Distributive Justice In Malaysian Health Care — Erwin Khoo Jiayuan",
@@ -116,29 +116,6 @@
       "summary": "The core driver of PJ's access problem isn't geography, but the absence of a universal financing mechanism. A national health insurance scheme, structured as mandatory social contributions by employers and employees, will fundamentally change the equation. The post Alternative Solution To Petaling Jaya Needs: Reform Access, Not Build Another Hospital — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
       "keywords_matched": [
         "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Penang cops consider joint school inspections amid rise in drug-laced vape cases, says state police chief",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/30/penang-cops-consider-joint-school-inspections-amid-rise-in-drug-laced-vape-cases-says-state-police-chief/221886",
-      "source": "Malay Mail",
-      "published": "2026-05-30T01:22:54",
-      "summary": "KUALA LUMPUR, May 30 — Penang police are considering working with schools to conduct joint inspections of students...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "After treatment delay at Tumpat Hospital goes viral, Kelantan Health Dept offers explanation",
-      "url": "https://www.malaymail.com/news/malaysia/2026/05/30/after-treatment-delay-at-tumpat-hospital-goes-viral-kelantan-health-dept-offers-explanation/221882",
-      "source": "Malay Mail",
-      "published": "2026-05-30T01:24:08",
-      "summary": "KOTA BHARU, May 30 — The Kelantan Health Department will conduct a further investigation and improve operating pro...",
-      "keywords_matched": [
-        "health",
-        "treatment",
         "hospital",
         "hospital"
       ]
