@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-05-30T23:08:55.725289",
+  "fetched": "2026-05-31T03:39:39.981403",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Rethinking Distributive Justice In Malaysian Health Care — Erwin Khoo Jiayuan",
@@ -118,6 +118,16 @@
         "health",
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "Penang DOSH issues stop-work order after wall collapse kills Indonesian worker",
+      "url": "https://www.malaymail.com/news/malaysia/2026/05/31/penang-dosh-issues-stop-work-order-after-wall-collapse-kills-indonesian-worker/221997",
+      "source": "Malay Mail",
+      "published": "2026-05-31T01:43:36",
+      "summary": "BUKIT MERTAJAM, May 31 — The Penang Department of Occupational Safety and Health (DOSH) has ordered all work activ...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
