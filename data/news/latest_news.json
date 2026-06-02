@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-02T05:28:51.132721",
+  "fetched": "2026-06-02T10:20:20.367269",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Rethinking Distributive Justice In Malaysian Health Care — Erwin Khoo Jiayuan",
@@ -118,6 +118,16 @@
         "health",
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "Police say Chinese national masterminded KL hotel party linked to drug use, supply chain probe",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/02/police-say-chinese-national-masterminded-kl-hotel-drug-party-drugs-seized-supply-chain-probe/222282",
+      "source": "Malay Mail",
+      "published": "2026-06-02T07:35:26",
+      "summary": "KUALA LUMPUR, June 2 — Police have identified a Chinese national, who was detained during a raid at a hotel here l...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
