@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-02T23:44:09.189348",
+  "fetched": "2026-06-03T03:56:16.018321",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Malaysia Mulls Mandatory National Insurance For Long-Term Care",
+      "url": "https://codeblue.galencentre.org/2026/06/malaysia-mulls-mandatory-national-insurance-for-long-term-care/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-03T02:00:00",
+      "summary": "Malaysia is studying the establishment of a national insurance scheme for long-term care like Japan and Singapore, with potentially mandatory contributions of RM100 monthly base premiums to fund aged care. A pilot may begin in 2027 with civil servants. The post Malaysia Mulls Mandatory National Insurance For Long-Term Care appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Rethinking Distributive Justice In Malaysian Health Care — Erwin Khoo Jiayuan",
       "url": "https://codeblue.galencentre.org/2026/05/rethinking-distributive-justice-in-malaysian-health-care-erwin-khoo-jiayuan/",
@@ -106,28 +114,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Alternative Solution To Petaling Jaya Needs: Reform Access, Not Build Another Hospital — Dr Mohamed Rafick Khan",
-      "url": "https://codeblue.galencentre.org/2026/05/alternative-solution-to-petaling-jaya-needs-reform-access-not-build-another-hospital-dr-mohamed-rafick-khan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-28T02:00:00",
-      "summary": "The core driver of PJ's access problem isn't geography, but the absence of a universal financing mechanism. A national health insurance scheme, structured as mandatory social contributions by employers and employees, will fundamentally change the equation. The post Alternative Solution To Petaling Jaya Needs: Reform Access, Not Build Another Hospital — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Police say Chinese national masterminded KL hotel party linked to drug use, supply chain probe",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/02/police-say-chinese-national-masterminded-kl-hotel-drug-party-drugs-seized-supply-chain-probe/222282",
-      "source": "Malay Mail",
-      "published": "2026-06-02T07:35:26",
-      "summary": "KUALA LUMPUR, June 2 — Police have identified a Chinese national, who was detained during a raid at a hotel here l...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
