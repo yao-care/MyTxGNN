@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-04T03:51:36.152649",
+  "fetched": "2026-06-04T08:19:42.836049",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,36 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "DRG In Malaysia: Where Is The Biggest Gap? — Dr Mohamed Rafick Khan",
+      "url": "https://codeblue.galencentre.org/2026/06/drg-in-malaysia-where-is-the-biggest-gap-dr-mohamed-rafick-khan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-04T07:30:00",
+      "summary": "Intent without readiness for DRG produces disruption, not improvement. The coding gap, system inadequacy, physician documentation culture, actuarial repricing deficit, and unresolved governance questions aren't peripheral issues, but are the reform itself. The post DRG In Malaysia: Where Is The Biggest Gap? — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "MMA Supports Stronger Enforcement Against Unlicensed Health Care Premises — MMA",
+      "url": "https://codeblue.galencentre.org/2026/06/mma-supports-stronger-enforcement-against-unlicensed-health-care-premises-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-04T06:41:52",
+      "summary": "Safeguarding public trust in private health care and shutting down illegal operators are inseparable goals. A health care sector cannot maintain its credibility if illegal operators are allowed to operate unchecked. The post MMA Supports Stronger Enforcement Against Unlicensed Health Care Premises — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "The Cost of Uncertainty In Medical Subspecialty Training — Specialist",
+      "url": "https://codeblue.galencentre.org/2026/06/the-cost-of-uncertainty-in-medical-subspecialty-training-specialist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-04T05:30:00",
+      "summary": "Results of subspecialty training applications are often informed only weeks before training begins, making it difficult for established specialists in their 30s and 40s, with young children and ageing parents, to uproot their life in a short span of time. The post The Cost of Uncertainty In Medical Subspecialty Training — Specialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Minimally Invasive Solution For TMJ Disorders",
       "url": "https://codeblue.galencentre.org/2026/06/minimally-invasive-solution-for-tmj-disorders/",
@@ -80,27 +108,22 @@
       ]
     },
     {
-      "title": "Improving Road Safety Management In Malaysia — Dr Krishnan Rajam & Dr Amar-Singh HSS",
-      "url": "https://codeblue.galencentre.org/2026/06/improving-road-safety-management-in-malaysia-dr-krishnan-rajam-dr-amar-singh-hss/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-03T04:00:00",
-      "summary": "Transforming Malaysia’s road safety landscape requires moving away from viewing traffic crashes as unpredictable accidents and instead managing them as highly predictable, preventable injuries. The post Improving Road Safety Management In Malaysia — Dr Krishnan Rajam & Dr Amar-Singh HSS appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Melaka GH, Masjid Tanah, Umbai and Merlimau lets patients drive-through to get their meds",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/04/melaka-gh-masjid-tanah-umbai-and-merlimau-lets-patients-drive-through-to-get-their-meds/222500",
+      "source": "Malay Mail",
+      "published": "2026-06-04T07:49:50",
+      "summary": "MELAKA, June 4 — Melaka has introduced drive-through pharmacy services at four healthcare facilities, enabling pat...",
+      "keywords_matched": [
+        "health",
+        "patient"
+      ]
     },
     {
-      "title": "Malaysia Mulls Mandatory National Insurance For Long-Term Care",
-      "url": "https://codeblue.galencentre.org/2026/06/malaysia-mulls-mandatory-national-insurance-for-long-term-care/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-03T02:00:00",
-      "summary": "Malaysia is studying the establishment of a national insurance scheme for long-term care like Japan and Singapore, with potentially mandatory contributions of RM100 monthly base premiums to fund aged care. A pilot may begin in 2027 with civil servants. The post Malaysia Mulls Mandatory National Insurance For Long-Term Care appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Rethinking Distributive Justice In Malaysian Health Care — Erwin Khoo Jiayuan",
-      "url": "https://codeblue.galencentre.org/2026/05/rethinking-distributive-justice-in-malaysian-health-care-erwin-khoo-jiayuan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-29T10:14:57",
-      "summary": "The real scandal is not that we are debating how to increase health care capacity in the Klang Valley, but that our national health expenditure as a percentage of the country's GDP remains stagnant despite clear, documented needs across every state. The post Rethinking Distributive Justice In Malaysian Health Care — Erwin Khoo Jiayuan appeared first on CodeBlue .",
+      "title": "‘We cannot turn a blind eye’: Onn Hafiz defends RM66m health spending for Johor",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/04/we-cannot-turn-a-blind-eye-onn-hafiz-defends-rm66m-health-spending-for-johor/222495",
+      "source": "Malay Mail",
+      "published": "2026-06-04T07:58:42",
+      "summary": "ISKANDAR PUTERI, June 4 — The Johor state government has spent more than RM66 million to strengthen the state'...",
       "keywords_matched": [
         "health"
       ]
