@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-03T23:41:53.392138",
+  "fetched": "2026-06-04T03:51:36.152649",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,40 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Minimally Invasive Solution For TMJ Disorders",
+      "url": "https://codeblue.galencentre.org/2026/06/minimally-invasive-solution-for-tmj-disorders/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-04T03:30:00",
+      "summary": "Temporomandibular joint (TMJ) disorders affect the jaw joint. Modern TMJ surgery today is far more refined and minimally invasive compared to the past. Advancements in surgical techniques now allow patients to recover faster with minimal visible scarring. The post Minimally Invasive Solution For TMJ Disorders appeared first on CodeBlue .",
+      "keywords_matched": [
+        "patient"
+      ]
+    },
+    {
+      "title": "Clock Ticks For Health Minister To File Nicotine Case Appeal",
+      "url": "https://codeblue.galencentre.org/2026/06/clock-ticks-for-health-minister-to-file-nicotine-case-appeal/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-04T02:00:00",
+      "summary": "The health minister and government have 12 days until June 15 to appeal the High Court's liquid nicotine ruling. Past the midway point of the 30-day deadline, a lawyer for NGOs in the case says no appeal has been served on his firm yet. The post Clock Ticks For Health Minister To File Nicotine Case Appeal appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Stop Normalising Chickenpox: It’s Time Children Got The Full Shot — Dr Musa Mohd Nordin & Dr Zulkifli Ismail",
+      "url": "https://codeblue.galencentre.org/2026/06/stop-normalising-chickenpox-its-time-children-got-the-full-shot-dr-musa-mohd-nordin-dr-zulkifli-ismail/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-04T01:30:00",
+      "summary": "A preventable illness that hospitalises healthy children, devastates pregnant women, and kills immunocompromised kids is not harmless. It is a public health failure. The post Stop Normalising Chickenpox: It’s Time Children Got The Full Shot — Dr Musa Mohd Nordin & Dr Zulkifli Ismail appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "The Courage To Be Wrong — Dr Loshi Rajen",
       "url": "https://codeblue.galencentre.org/2026/06/the-courage-to-be-wrong-dr-loshi-rajen/",
@@ -71,49 +103,6 @@
       "summary": "The real scandal is not that we are debating how to increase health care capacity in the Klang Valley, but that our national health expenditure as a percentage of the country's GDP remains stagnant despite clear, documented needs across every state. The post Rethinking Distributive Justice In Malaysian Health Care — Erwin Khoo Jiayuan appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "New PJ Hospital, Leased Lifeline, Or A Question We Dare Not Ask? — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/05/new-pj-hospital-leased-lifeline-or-a-question-we-dare-not-ask-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-29T10:06:50",
-      "summary": "PJ residents have waited a generation for a hospital. They can wait a little longer for the right decision. What they can't afford is a monument to political ambition that stands empty for years or a building that siphons staff from surrounding facilities. The post New PJ Hospital, Leased Lifeline, Or A Question We Dare Not Ask? — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Someone Still Has To Stay: Limiting Housemen Hours Comes At A Cost — Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/05/someone-still-has-to-stay-limiting-housemen-hours-comes-at-a-cost-dr-muhammad-syauqi-muqri-ilham-akhbar/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-29T03:23:48",
-      "summary": "I'm not against improving HO welfare, but why is MO welfare always ignored? If fatigue is dangerous for HOs, then fatigue is also dangerous for MOs. If burnout matters for HOs, then burnout also matters for MOs. MOs hold up the health care system. The post Someone Still Has To Stay: Limiting Housemen Hours Comes At A Cost — Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical"
-      ]
-    },
-    {
-      "title": "PJ Hospital Project Needs Land Acquisition, Road Upgrades, Says Taman Medan Rep",
-      "url": "https://codeblue.galencentre.org/2026/05/pj-hospital-project-needs-land-acquisition-road-upgrades-says-taman-medan-rep/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-05-29T03:22:45",
-      "summary": "Taman Medan rep Dr Afif Bahardin says the proposed PJ Hospital site in his constituency needs acquisition of the private land and major road upgrades for the jam-packed area. He suggests two alternative sites of government-owned land: UiTM or UIA in PJ. The post PJ Hospital Project Needs Land Acquisition, Road Upgrades, Says Taman Medan Rep appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Lab assistant facing murder charge over Klang delivery rider’s death pleads not guilty to drug offence",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/03/lab-assistant-facing-murder-charge-over-klang-delivery-riders-death-pleads-not-guilty-to-drug-offence/222403",
-      "source": "Malay Mail",
-      "published": "2026-06-03T08:12:39",
-      "summary": "KLANG, June 3 — A laboratory assistant who was previously charged with killing a motorcyclist in a road...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
