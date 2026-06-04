@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-04T08:19:42.836049",
+  "fetched": "2026-06-04T11:51:50.788009",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "DRG In Malaysia: Where Is The Biggest Gap? — Dr Mohamed Rafick Khan",
@@ -126,6 +126,16 @@
       "summary": "ISKANDAR PUTERI, June 4 — The Johor state government has spent more than RM66 million to strengthen the state'...",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Man with rape and robbery history claims trial with wife over abuse of her three-year-old daughter",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/04/man-with-rape-and-robbery-history-claims-trial-with-wife-over-abuse-of-her-three-year-old-daughter/222494",
+      "source": "Malay Mail",
+      "published": "2026-06-04T08:19:42",
+      "summary": "KUALA LUMPUR, June 4 — A husband and wife pleaded not guilty in the Sessions Court here today to a charge of abusi...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
