@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-05T05:15:01.721333",
+  "fetched": "2026-06-05T09:43:34.337945",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,38 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Johor Told To Curb Doctor Brain Drain Despite Federal Jurisdiction",
+      "url": "https://codeblue.galencentre.org/2026/06/johor-told-to-curb-doctor-brain-drain-despite-federal-jurisdiction/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-05T09:05:41",
+      "summary": "Two advocates want the Johor state government to make health workforce retention a priority, even though health is under federal jurisdiction. Facilities, remuneration, workplace conditions, and workforce planning are under MOH, JPA, MOF, MOHE, or MMC. The post Johor Told To Curb Doctor Brain Drain Despite Federal Jurisdiction appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Private Hospital Pricing: Pre-DRG Solution Proposal — Dr Mohamed Rafick Khan",
+      "url": "https://codeblue.galencentre.org/2026/06/private-hospital-pricing-pre-drg-solution-proposal-dr-mohamed-rafick-khan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-05T07:25:00",
+      "summary": "Malaysia should form a legally structured assurance industry data consortium to produce benchmark costs per procedure. Legally compel private hospitals to publish full fee schedules, distinguishing between cash and panel assurance rates for each procedure. The post Private Hospital Pricing: Pre-DRG Solution Proposal — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Building Communities Where Older Malaysians Continue To Live Fully",
+      "url": "https://codeblue.galencentre.org/2026/06/building-communities-where-older-malaysians-continue-to-live-fully/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-05T06:00:00",
+      "summary": "Malaysia should encourage diverse housing options for independent older persons like age-friendly residential neighbourhoods or independent senior living communities. These should not resemble institutions, but should feel like vibrant communities instead. The post Building Communities Where Older Malaysians Continue To Live Fully appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "PM Orders MOH, MOHE To Resolve PharmD Non-Recognition",
       "url": "https://codeblue.galencentre.org/2026/06/pm-orders-moh-mohe-to-resolve-pharmd-non-recognition/",
@@ -78,68 +108,6 @@
       "summary": "Temporomandibular joint (TMJ) disorders affect the jaw joint. Modern TMJ surgery today is far more refined and minimally invasive compared to the past. Advancements in surgical techniques now allow patients to recover faster with minimal visible scarring. The post Minimally Invasive Solution For TMJ Disorders appeared first on CodeBlue .",
       "keywords_matched": [
         "patient"
-      ]
-    },
-    {
-      "title": "Clock Ticks For Health Minister To File Nicotine Case Appeal",
-      "url": "https://codeblue.galencentre.org/2026/06/clock-ticks-for-health-minister-to-file-nicotine-case-appeal/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-04T02:00:00",
-      "summary": "The health minister and government have 12 days until June 15 to appeal the High Court's liquid nicotine ruling. Past the midway point of the 30-day deadline, a lawyer for NGOs in the case says no appeal has been served on his firm yet. The post Clock Ticks For Health Minister To File Nicotine Case Appeal appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Stop Normalising Chickenpox: It’s Time Children Got The Full Shot — Dr Musa Mohd Nordin & Dr Zulkifli Ismail",
-      "url": "https://codeblue.galencentre.org/2026/06/stop-normalising-chickenpox-its-time-children-got-the-full-shot-dr-musa-mohd-nordin-dr-zulkifli-ismail/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-04T01:30:00",
-      "summary": "A preventable illness that hospitalises healthy children, devastates pregnant women, and kills immunocompromised kids is not harmless. It is a public health failure. The post Stop Normalising Chickenpox: It’s Time Children Got The Full Shot — Dr Musa Mohd Nordin & Dr Zulkifli Ismail appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "The Courage To Be Wrong — Dr Loshi Rajen",
-      "url": "https://codeblue.galencentre.org/2026/06/the-courage-to-be-wrong-dr-loshi-rajen/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-03T08:00:00",
-      "summary": "The task is not simply to identify psychiatric symptoms. Sometimes, the task is to determine why those symptoms exist. The post The Courage To Be Wrong — Dr Loshi Rajen appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Sabah study shows stateless children excluded from healthcare, schooling and social protection systems",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/05/sabah-study-shows-stateless-children-excluded-from-healthcare-schooling-and-social-protection-systems/222582",
-      "source": "Malay Mail",
-      "published": "2026-06-05T04:00:00",
-      "summary": "KOTA KINABALU — Children in Sabah without citizenship documents or recognised nationality are falling behind acros...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Sabah survey finds major gaps in child wellbeing despite near-universal healthcare access",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/05/sabah-survey-finds-major-gaps-in-child-wellbeing-despite-near-universal-healthcare-access/222590",
-      "source": "Malay Mail",
-      "published": "2026-06-05T04:00:00",
-      "summary": "KOTA KINABALU, June 5 — A new survey has found significant gaps in child wellbeing in Sabah across health, learnin...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Johor Health Department dismisses viral claims, says Segamat Hospital remains fully operational",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/05/johor-health-department-dismisses-viral-claims-says-segamat-hospital-remains-fully-operational/222569",
-      "source": "Malay Mail",
-      "published": "2026-06-05T01:42:56",
-      "summary": "JOHOR BAHRU, June 5 — The Johor Health Department (JKNJ) has dismissed as false viral claims circulating on social...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
       ]
     }
   ]
