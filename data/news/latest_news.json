@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-05T00:05:31.989711",
+  "fetched": "2026-06-05T05:15:01.721333",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,39 @@
   ],
   "total_items": 13,
   "items": [
+    {
+      "title": "PM Orders MOH, MOHE To Resolve PharmD Non-Recognition",
+      "url": "https://codeblue.galencentre.org/2026/06/pm-orders-moh-mohe-to-resolve-pharmd-non-recognition/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-05T03:36:30",
+      "summary": "PM Anwar Ibrahim has directed the Health and Higher Education Ministries to resolve the Pharmacy Board of Malaysia's non-recognition of the PharmD programme by Alexandria University. PMO says MQA has no objections to academic recognition of the programme. The post PM Orders MOH, MOHE To Resolve PharmD Non-Recognition appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Track Emerging Salmonella Strains In Poultry Amid AMR Threat: Expert",
+      "url": "https://codeblue.galencentre.org/2026/06/track-emerging-salmonella-strains-in-poultry-amid-amr-threat-expert/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-05T03:30:00",
+      "summary": "Emerging drug-resistant Salmonella serovars in poultry are raising food safety concerns, as experts say Malaysia needs stronger surveillance, early detection, biosecurity, and more careful antimicrobial use. The post Track Emerging Salmonella Strains In Poultry Amid AMR Threat: Expert appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "JKNJ Reviewing Segamat Hospital’s O&G Services Amid Clinic Closure Plan",
+      "url": "https://codeblue.galencentre.org/2026/06/jknj-reviewing-segamat-hospitals-og-services-amid-clinic-closure-plan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-05T01:53:32",
+      "summary": "The Johor health department is reviewing Segamat Hospital's O&G services, amid the hospital's plan to completely close the O&G specialist clinic on July 1 due to critical shortages of medical officers in the department. The hospital itself isn't closed. The post JKNJ Reviewing Segamat Hospital’s O&G Services Amid Clinic Closure Plan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "DRG In Malaysia: Where Is The Biggest Gap? — Dr Mohamed Rafick Khan",
       "url": "https://codeblue.galencentre.org/2026/06/drg-in-malaysia-where-is-the-biggest-gap-dr-mohamed-rafick-khan/",
@@ -78,64 +111,35 @@
       "keywords_matched": []
     },
     {
-      "title": "NGOs Question MOH Data On Enforcement Against Online Vape Ads, Sales",
-      "url": "https://codeblue.galencentre.org/2026/06/ngos-question-moh-data-on-enforcement-against-online-vape-ads-sales/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-03T06:25:52",
-      "summary": "Forty-nine NGOs question the transparency of data on MOH's enforcement under Act 852, asking whether the compounds, investigation papers, and prosecutions truly reflect action against online vape advertising and sales, as they demand specific statistics. The post NGOs Question MOH Data On Enforcement Against Online Vape Ads, Sales appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Protecting Malaysia’s Children From An Invisible Threat — Dr Musa Mohd Nordin & Dr Zulkifli Ismail",
-      "url": "https://codeblue.galencentre.org/2026/06/protecting-malaysias-children-from-an-invisible-threat-dr-musa-mohd-nordin-dr-zulkifli-ismail/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-03T06:00:00",
-      "summary": "RSV is the leading cause of hospitalisation for all infants in Malaysia, yet it remains under-discussed and unaddressed. The post Protecting Malaysia’s Children From An Invisible Threat — Dr Musa Mohd Nordin & Dr Zulkifli Ismail appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Put Liquid Nicotine On Poisons List, Revisit Tobacco GEG — LCNM",
-      "url": "https://codeblue.galencentre.org/2026/06/put-liquid-nicotine-on-poisons-list-revisit-tobacco-geg-lcnm/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-03T04:09:52",
-      "summary": "Liquid nicotine must be relisted on the Poisons List. The government should also revisit the tobacco GEG. For all the truly remarkable recent advances in the diagnosis and treatment of lung cancer, effective tobacco control remains a powerful strategy. The post Put Liquid Nicotine On Poisons List, Revisit Tobacco GEG — LCNM appeared first on CodeBlue .",
-      "keywords_matched": [
-        "treatment",
-        "cancer"
-      ]
-    },
-    {
-      "title": "Melaka GH, Masjid Tanah, Umbai and Merlimau lets patients drive-through to get their meds",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/04/melaka-gh-masjid-tanah-umbai-and-merlimau-lets-patients-drive-through-to-get-their-meds/222500",
+      "title": "Sabah study shows stateless children excluded from healthcare, schooling and social protection systems",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/05/sabah-study-shows-stateless-children-excluded-from-healthcare-schooling-and-social-protection-systems/222582",
       "source": "Malay Mail",
-      "published": "2026-06-04T07:49:50",
-      "summary": "MELAKA, June 4 — Melaka has introduced drive-through pharmacy services at four healthcare facilities, enabling pat...",
-      "keywords_matched": [
-        "health",
-        "patient"
-      ]
-    },
-    {
-      "title": "‘We cannot turn a blind eye’: Onn Hafiz defends RM66m health spending for Johor",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/04/we-cannot-turn-a-blind-eye-onn-hafiz-defends-rm66m-health-spending-for-johor/222495",
-      "source": "Malay Mail",
-      "published": "2026-06-04T07:58:42",
-      "summary": "ISKANDAR PUTERI, June 4 — The Johor state government has spent more than RM66 million to strengthen the state'...",
+      "published": "2026-06-05T04:00:00",
+      "summary": "KOTA KINABALU — Children in Sabah without citizenship documents or recognised nationality are falling behind acros...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Man with rape and robbery history claims trial with wife over abuse of her three-year-old daughter",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/04/man-with-rape-and-robbery-history-claims-trial-with-wife-over-abuse-of-her-three-year-old-daughter/222494",
+      "title": "Sabah survey finds major gaps in child wellbeing despite near-universal healthcare access",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/05/sabah-survey-finds-major-gaps-in-child-wellbeing-despite-near-universal-healthcare-access/222590",
       "source": "Malay Mail",
-      "published": "2026-06-04T08:19:42",
-      "summary": "KUALA LUMPUR, June 4 — A husband and wife pleaded not guilty in the Sessions Court here today to a charge of abusi...",
+      "published": "2026-06-05T04:00:00",
+      "summary": "KOTA KINABALU, June 5 — A new survey has found significant gaps in child wellbeing in Sabah across health, learnin...",
       "keywords_matched": [
-        "trial"
+        "health"
+      ]
+    },
+    {
+      "title": "Johor Health Department dismisses viral claims, says Segamat Hospital remains fully operational",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/05/johor-health-department-dismisses-viral-claims-says-segamat-hospital-remains-fully-operational/222569",
+      "source": "Malay Mail",
+      "published": "2026-06-05T01:42:56",
+      "summary": "JOHOR BAHRU, June 5 — The Johor Health Department (JKNJ) has dismissed as false viral claims circulating on social...",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
       ]
     }
   ]
