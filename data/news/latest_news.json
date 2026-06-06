@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-06T02:57:18.197932",
+  "fetched": "2026-06-06T06:32:34.142113",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "title": "Johor Told To Curb Doctor Brain Drain Despite Federal Jurisdiction",
@@ -120,26 +120,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "MACC officer tells Lim Guan Eng trial he was unaware of Zarul Ahmad’s alleged links to rival tunnel bidder",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/05/macc-officer-tells-lim-guan-eng-trial-he-was-unaware-of-zarul-ahmads-alleged-links-to-rival-tunnel-bidder/222690",
-      "source": "Malay Mail",
-      "published": "2026-06-05T12:05:54",
-      "summary": "KUALA LUMPUR, June 5 — An investigating officer told the Sessions Court today that he was unaware that former Cons...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Nearly 600 smoking notices issued in George Town Heritage Zone since 2022, says Penang rep",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/05/nearly-600-smoking-notices-issued-in-george-town-heritage-zone-since-2022-says-penang-rep/222677",
-      "source": "Malay Mail",
-      "published": "2026-06-05T10:47:03",
-      "summary": "GEORGE TOWN, June 5 — The Penang State Health Department (JKNPP) has issued 597 notices for smoking within the Geo...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
