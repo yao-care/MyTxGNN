@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-05T23:06:53.948681",
+  "fetched": "2026-06-06T02:57:18.197932",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Johor Told To Curb Doctor Brain Drain Despite Federal Jurisdiction",
@@ -108,6 +108,18 @@
       "summary": "Temporomandibular joint (TMJ) disorders affect the jaw joint. Modern TMJ surgery today is far more refined and minimally invasive compared to the past. Advancements in surgical techniques now allow patients to recover faster with minimal visible scarring. The post Minimally Invasive Solution For TMJ Disorders appeared first on CodeBlue .",
       "keywords_matched": [
         "patient"
+      ]
+    },
+    {
+      "title": "Dzulkefly: No healthcare facility, including Segamat Hospital, will be shut down",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/06/dzulkefly-no-healthcare-facility-including-segamat-hospital-will-be-shut-down/222707",
+      "source": "Malay Mail",
+      "published": "2026-06-06T01:14:07",
+      "summary": "MELAKA, June 6 — The government has assured that no healthcare facilities in the country, including Segamat...",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
       ]
     },
     {
