@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-07T10:27:51.149346",
+  "fetched": "2026-06-07T12:19:28.985272",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Johor Told To Curb Doctor Brain Drain Despite Federal Jurisdiction",
@@ -108,6 +108,16 @@
       "summary": "Temporomandibular joint (TMJ) disorders affect the jaw joint. Modern TMJ surgery today is far more refined and minimally invasive compared to the past. Advancements in surgical techniques now allow patients to recover faster with minimal visible scarring. The post Minimally Invasive Solution For TMJ Disorders appeared first on CodeBlue .",
       "keywords_matched": [
         "patient"
+      ]
+    },
+    {
+      "title": "Food poisoning scare hits Rawang care and tahfiz centre, 27 victims rushed for treatment",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/07/food-poisoning-scare-hits-rawang-care-and-tahfiz-centre-27-victims-rushed-for-treatment/222879",
+      "source": "Malay Mail",
+      "published": "2026-06-07T12:08:22",
+      "summary": "KUALA LUMPUR, June 7 — A total of 27 individuals, including tahfiz students and residents of an elderly care home,...",
+      "keywords_matched": [
+        "treatment"
       ]
     },
     {
