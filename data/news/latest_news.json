@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-07T03:43:26.161374",
+  "fetched": "2026-06-07T07:53:27.421720",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Johor Told To Curb Doctor Brain Drain Despite Federal Jurisdiction",
@@ -107,17 +107,6 @@
       "published": "2026-06-04T03:30:00",
       "summary": "Temporomandibular joint (TMJ) disorders affect the jaw joint. Modern TMJ surgery today is far more refined and minimally invasive compared to the past. Advancements in surgical techniques now allow patients to recover faster with minimal visible scarring. The post Minimally Invasive Solution For TMJ Disorders appeared first on CodeBlue .",
       "keywords_matched": [
-        "patient"
-      ]
-    },
-    {
-      "title": "The cost of a heartbeat: How CVSKL Foundation is helping Malaysia’s sickest heart patients",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/07/the-cost-of-a-heartbeat-how-cvskl-foundation-is-helping-malaysias-sickest-heart-patients/222807",
-      "source": "Malay Mail",
-      "published": "2026-06-07T03:02:53",
-      "summary": "KUALA LUMPUR, June 7 — For many Malaysians living with a serious heart disease, the greatest challenge is not alwa...",
-      "keywords_matched": [
-        "disease",
         "patient"
       ]
     }
