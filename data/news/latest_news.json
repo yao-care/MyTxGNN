@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-07T07:53:27.421720",
+  "fetched": "2026-06-07T10:27:51.149346",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Johor Told To Curb Doctor Brain Drain Despite Federal Jurisdiction",
@@ -108,6 +108,17 @@
       "summary": "Temporomandibular joint (TMJ) disorders affect the jaw joint. Modern TMJ surgery today is far more refined and minimally invasive compared to the past. Advancements in surgical techniques now allow patients to recover faster with minimal visible scarring. The post Minimally Invasive Solution For TMJ Disorders appeared first on CodeBlue .",
       "keywords_matched": [
         "patient"
+      ]
+    },
+    {
+      "title": "Jaslinda recovering well after 14-day ordeal in Perak jungle, hospital monitoring continues",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/07/jaslinda-recovering-well-after-14-day-ordeal-in-perak-jungle-hospital-monitoring-continues/222871",
+      "source": "Malay Mail",
+      "published": "2026-06-07T10:24:10",
+      "summary": "TAPAH, June 7 — Female hiker Jaslinda Saludin, 49, who was found safe yesterday after going missing for 14 days at...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
