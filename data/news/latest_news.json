@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-08T10:50:03.604883",
+  "fetched": "2026-06-08T14:47:03.150577",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
     {
       "title": "The Hidden Cost Of Celebration — Dr Nur ’Athira Faisal Sabri",
@@ -108,6 +108,27 @@
       ]
     },
     {
+      "title": "Pekanbaru–Melaka flights to boost health tourism from Indonesia, says exco",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/08/pekanbarumelaka-flights-to-boost-health-tourism-from-indonesia-says-exco/223024",
+      "source": "Malay Mail",
+      "published": "2026-06-08T11:10:53",
+      "summary": "MELAKA, June 8 — The Pekanbaru-Melaka-Pekanbaru flight route, which will begin operating at Batu Berendam Internat...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Genting inheritance dispute: Lim Goh Tong’s daughter signed will in hospital, court told",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/08/genting-inheritance-dispute-lim-goh-tongs-daughter-signed-will-in-hospital-court-told/223022",
+      "source": "Malay Mail",
+      "published": "2026-06-08T11:05:21",
+      "summary": "KUALA LUMPUR, June 8 — The High Court hearing of the Genting Group family’s will dispute heard today that on...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
       "title": "AirAsia apologises to family, submits revised medical child restraint procedures to regulators after viral boarding dispute",
       "url": "https://www.malaymail.com/news/malaysia/2026/06/08/airasia-apologises-to-family-submits-revised-medical-child-restraint-procedures-to-regulators-after-viral-boarding-dispute/223005",
       "source": "Malay Mail",
@@ -118,13 +139,13 @@
       ]
     },
     {
-      "title": "Police: Three‑year‑old girl injured in Sungai Petani crash reported stable, still receiving treatment",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/08/police-threeyearold-girl-injured-in-sungai-petani-crash-reported-stable-still-receiving-treatment/222985",
+      "title": "Charity group pledges yearly support for public healthcare, donates RM1m in equipment",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/08/charity-group-pledges-yearly-support-for-public-healthcare-donates-rm1m-in-equipment/222994",
       "source": "Malay Mail",
-      "published": "2026-06-08T08:16:27",
-      "summary": "SUNGAI PETANI, June 8 — The three-year-old girl injured in yesterday’s crash at Kampung Baru Pinang Tunggal...",
+      "published": "2026-06-08T12:30:17",
+      "summary": "GEORGE TOWN, June 8 — Penang-based non-governmental organisation One Hope Charity has committed to allocating an a...",
       "keywords_matched": [
-        "treatment"
+        "health"
       ]
     }
   ]
