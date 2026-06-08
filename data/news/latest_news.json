@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-08T00:05:20.244702",
+  "fetched": "2026-06-08T05:48:46.057400",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,38 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Would Aborting Pregnancy After Down Syndrome Diagnosis Spark Outrage In East Asia? — Dr Alexis Heng Boon Chin",
+      "url": "https://codeblue.galencentre.org/2026/06/would-aborting-pregnancy-after-down-syndrome-diagnosis-spark-outrage-in-east-asia-dr-alexis-heng-boon-chin/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-08T03:45:00",
+      "summary": "Jesse Ridgway and his wife's decision to abort their pregnancy after prenatal testing confirmed the foetus had Trisomy 21 triggered massive outrage in the US. But in East Asia, bringing a severely disabled child into the world may be seen as irresponsible. The post Would Aborting Pregnancy After Down Syndrome Diagnosis Spark Outrage In East Asia? — Dr Alexis Heng Boon Chin appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Beyond The Bricks And Mortar: Remedies For Malaysia’s Ailing Health Care System — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/06/beyond-the-bricks-and-mortar-remedies-for-malaysias-ailing-health-care-system-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-08T02:35:49",
+      "summary": "A fool and his money are soon parted. Malaysia has been parting with billions on monuments to political ambition while the foundations of its health care system crumble. The post Beyond The Bricks And Mortar: Remedies For Malaysia’s Ailing Health Care System — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "MOH Sets Charging Protocols For Select Medical Procedures",
+      "url": "https://codeblue.galencentre.org/2026/06/moh-sets-charging-protocols-for-select-medical-procedures/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-08T02:00:00",
+      "summary": "An MOH circular lists charging protocols for select medical procedures in private care, including wound dressing, debridement, and IV infusions, among others, that aren't chargeable separately. A doctor says this ignores real-world clinical complexity. The post MOH Sets Charging Protocols For Select Medical Procedures appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor",
+        "clinical"
+      ]
+    },
     {
       "title": "Johor Told To Curb Doctor Brain Drain Despite Federal Jurisdiction",
       "url": "https://codeblue.galencentre.org/2026/06/johor-told-to-curb-doctor-brain-drain-despite-federal-jurisdiction/",
@@ -79,57 +109,6 @@
       "published": "2026-06-04T07:30:00",
       "summary": "Intent without readiness for DRG produces disruption, not improvement. The coding gap, system inadequacy, physician documentation culture, actuarial repricing deficit, and unresolved governance questions aren't peripheral issues, but are the reform itself. The post DRG In Malaysia: Where Is The Biggest Gap? — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "MMA Supports Stronger Enforcement Against Unlicensed Health Care Premises — MMA",
-      "url": "https://codeblue.galencentre.org/2026/06/mma-supports-stronger-enforcement-against-unlicensed-health-care-premises-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-04T06:41:52",
-      "summary": "Safeguarding public trust in private health care and shutting down illegal operators are inseparable goals. A health care sector cannot maintain its credibility if illegal operators are allowed to operate unchecked. The post MMA Supports Stronger Enforcement Against Unlicensed Health Care Premises — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "The Cost of Uncertainty In Medical Subspecialty Training — Specialist",
-      "url": "https://codeblue.galencentre.org/2026/06/the-cost-of-uncertainty-in-medical-subspecialty-training-specialist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-04T05:30:00",
-      "summary": "Results of subspecialty training applications are often informed only weeks before training begins, making it difficult for established specialists in their 30s and 40s, with young children and ageing parents, to uproot their life in a short span of time. The post The Cost of Uncertainty In Medical Subspecialty Training — Specialist appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Minimally Invasive Solution For TMJ Disorders",
-      "url": "https://codeblue.galencentre.org/2026/06/minimally-invasive-solution-for-tmj-disorders/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-04T03:30:00",
-      "summary": "Temporomandibular joint (TMJ) disorders affect the jaw joint. Modern TMJ surgery today is far more refined and minimally invasive compared to the past. Advancements in surgical techniques now allow patients to recover faster with minimal visible scarring. The post Minimally Invasive Solution For TMJ Disorders appeared first on CodeBlue .",
-      "keywords_matched": [
-        "patient"
-      ]
-    },
-    {
-      "title": "Food poisoning scare hits Rawang care and tahfiz centre, 27 victims rushed for treatment",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/07/food-poisoning-scare-hits-rawang-care-and-tahfiz-centre-27-victims-rushed-for-treatment/222879",
-      "source": "Malay Mail",
-      "published": "2026-06-07T12:08:22",
-      "summary": "KUALA LUMPUR, June 7 — A total of 27 individuals, including tahfiz students and residents of an elderly care home,...",
-      "keywords_matched": [
-        "treatment"
-      ]
-    },
-    {
-      "title": "Jaslinda recovering well after 14-day ordeal in Perak jungle, hospital monitoring continues",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/07/jaslinda-recovering-well-after-14-day-ordeal-in-perak-jungle-hospital-monitoring-continues/222871",
-      "source": "Malay Mail",
-      "published": "2026-06-07T10:24:10",
-      "summary": "TAPAH, June 7 — Female hiker Jaslinda Saludin, 49, who was found safe yesterday after going missing for 14 days at...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
     }
   ]
 }
