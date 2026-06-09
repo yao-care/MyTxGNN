@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-08T22:25:12.510749",
+  "fetched": "2026-06-09T00:04:03.323616",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "title": "The Hidden Cost Of Celebration — Dr Nur ’Athira Faisal Sabri",
@@ -136,16 +136,6 @@
       "summary": "KUALA LUMPUR, June 8 — AirAsia has submitted enhanced procedures governing the use of medical child restraint devi...",
       "keywords_matched": [
         "medical"
-      ]
-    },
-    {
-      "title": "Charity group pledges yearly support for public healthcare, donates RM1m in equipment",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/08/charity-group-pledges-yearly-support-for-public-healthcare-donates-rm1m-in-equipment/222994",
-      "source": "Malay Mail",
-      "published": "2026-06-08T12:30:17",
-      "summary": "GEORGE TOWN, June 8 — Penang-based non-governmental organisation One Hope Charity has committed to allocating an a...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
