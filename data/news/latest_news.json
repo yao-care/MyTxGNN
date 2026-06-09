@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-09T09:39:54.936923",
+  "fetched": "2026-06-09T12:35:56.439345",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "HLP Subspecialty Training Application Results Out By June 16: MOH",
@@ -108,6 +108,16 @@
       "summary": "Ahead of a June 15 deadline, two groups tell MOH not to appeal a High Court verdict restoring liquid nicotine as a poison. MyWatch says the court decision gives the government an opportunity to ban nicotine vape retail sales. MMI moots prescription-only. The post Don’t Appeal Court Ruling On Nicotine: Health Groups appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Anwar: Malaysia ready for next industrial leap with Japan in AI, digital and energy sectors",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/09/anwar-malaysia-ready-for-next-industrial-leap-with-japan-in-ai-digital-and-energy-sectors/223145",
+      "source": "Malay Mail",
+      "published": "2026-06-09T10:19:46",
+      "summary": "TOKYO, June 9 — Prime Minister Datuk Seri Anwar Ibrahim has urged Japanese companies to continue expanding investm...",
+      "keywords_matched": [
+        "trial"
       ]
     },
     {
