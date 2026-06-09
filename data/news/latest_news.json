@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-09T05:03:52.357856",
+  "fetched": "2026-06-09T09:39:54.936923",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,51 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "HLP Subspecialty Training Application Results Out By June 16: MOH",
+      "url": "https://codeblue.galencentre.org/2026/06/hlp-subspecialty-training-application-results-out-by-june-16-moh/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-09T08:44:36",
+      "summary": "MOH says HLP subspecialty training application results will be out by June 16, two weeks ahead of the July 1 training commencement date, as it stresses that this year's intake wasn't cancelled due to budget cuts. The post HLP Subspecialty Training Application Results Out By June 16: MOH appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Health Ministry’s Spending Cuts: New Positions Frozen, Overtime Allowance Controlled",
+      "url": "https://codeblue.galencentre.org/2026/06/health-ministrys-spending-cuts-new-positions-frozen-overtime-allowance-controlled/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-09T08:07:13",
+      "summary": "A circular by MOH's sec-gen lists 10 cost-saving measures to cut operational expenditure this year, effective last June 1, including freezing the creation of new positions, controlling ELM overtime allowance, optimising drug usage, and prudent lab testing. The post Health Ministry’s Spending Cuts: New Positions Frozen, Overtime Allowance Controlled appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "drug"
+      ]
+    },
+    {
+      "title": "We Need More Hospitals And Health Care Workers, Not One Or The Other — Dr Timothy William",
+      "url": "https://codeblue.galencentre.org/2026/06/we-need-more-hospitals-and-health-care-workers-not-one-or-the-other-dr-timothy-william/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-09T08:00:00",
+      "summary": "Hospital planning is a long-term undertaking. Workforce numbers are far more dynamic. Indeed, it wasn't that long ago that we were having the exact opposite discussion. Predicting workforce requirements years into the future is far from an exact science. The post We Need More Hospitals And Health Care Workers, Not One Or The Other — Dr Timothy William appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Is Malaysia’s Health Care System Collapsing? — Medical Officer",
+      "url": "https://codeblue.galencentre.org/2026/06/is-malaysias-health-care-system-collapsing-medical-officer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-09T06:00:00",
+      "summary": "Reassigning medical officers from one department to another merely shifts the burden elsewhere and often places inexperienced staff in highly demanding clinical environments. Health care workers are increasingly being asked to do more with less. The post Is Malaysia’s Health Care System Collapsing? — Medical Officer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "clinical"
+      ]
+    },
     {
       "title": "Tax Condensed Milk Under Budget 2027: Galen Centre",
       "url": "https://codeblue.galencentre.org/2026/06/tax-condensed-milk-under-budget-2027-galen-centre/",
@@ -68,40 +111,15 @@
       ]
     },
     {
-      "title": "The Deadly Dance: Why Beating RSV Means Also Fighting Pneumococcus — Dr Musa Mohd Nordin, Dr Zulkifli Ismail & Dr Cheang Hon Kit",
-      "url": "https://codeblue.galencentre.org/2026/06/the-deadly-dance-why-beating-rsv-means-also-fighting-pneumococcus/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-08T07:45:00",
-      "summary": "Optimal control of childhood respiratory disease will not come from targeting RSV or pneumococcus alone, but both simultaneously. The post The Deadly Dance: Why Beating RSV Means Also Fighting Pneumococcus — Dr Musa Mohd Nordin, Dr Zulkifli Ismail & Dr Cheang Hon Kit appeared first on CodeBlue .",
+      "title": "Hiker Jaslinda looks forward to recovery after nearly two weeks lost in Gunung Batu Putih",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/09/hiker-jaslinda-looks-forward-to-recovery-after-nearly-two-weeks-lost-in-gunung-batu-putih/223130",
+      "source": "Malay Mail",
+      "published": "2026-06-09T08:55:00",
+      "summary": "TAPAH, June 9 — After nearly two weeks lost in the Gunung Batu Putih area and three days in hospital, hiker J...",
       "keywords_matched": [
-        "disease"
+        "hospital",
+        "hospital"
       ]
-    },
-    {
-      "title": "SG Lim Reaches NCSM KL In 2,200km Run For Cancer",
-      "url": "https://codeblue.galencentre.org/2026/06/sg-lim-reaches-ncsm-kl-in-2200km-run-for-cancer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-08T06:00:00",
-      "summary": "SG Lim handed over the Relay for Life torch at NCSM KL during its 60th anniversary as part of his 2,200km nationwide Run for Gold cancer campaign. The 66-year-old Penang-born runner has covered 1,781km across the country so far in memory of his late wife. The post SG Lim Reaches NCSM KL In 2,200km Run For Cancer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "cancer"
-      ]
-    },
-    {
-      "title": "Prioritising Local Excellence In Pharmacy Education — Assoc Prof Chan Siok Yee",
-      "url": "https://codeblue.galencentre.org/2026/06/prioritising-local-excellence-in-pharmacy-education-assoc-prof-chan-siok-yee/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-08T05:48:05",
-      "summary": "If we expect Malaysian universities to clear a high bar to offer pharmacy education, which we do, the same standard of evidence should be required for any overseas programme seeking a place on the recognised list. This isn't protectionism, but consistency. The post Prioritising Local Excellence In Pharmacy Education — Assoc Prof Chan Siok Yee appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Would Aborting Pregnancy After Down Syndrome Diagnosis Spark Outrage In East Asia? — Dr Alexis Heng Boon Chin",
-      "url": "https://codeblue.galencentre.org/2026/06/would-aborting-pregnancy-after-down-syndrome-diagnosis-spark-outrage-in-east-asia-dr-alexis-heng-boon-chin/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-08T03:45:00",
-      "summary": "Jesse Ridgway and his wife's decision to abort their pregnancy after prenatal testing confirmed the foetus had Trisomy 21 triggered massive outrage in the US. But in East Asia, bringing a severely disabled child into the world may be seen as irresponsible. The post Would Aborting Pregnancy After Down Syndrome Diagnosis Spark Outrage In East Asia? — Dr Alexis Heng Boon Chin appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
