@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-09T00:04:03.323616",
+  "fetched": "2026-06-09T05:03:52.357856",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Tax Condensed Milk Under Budget 2027: Galen Centre",
+      "url": "https://codeblue.galencentre.org/2026/06/tax-condensed-milk-under-budget-2027-galen-centre/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-09T03:51:38",
+      "summary": "The Galen Centre wants condensed milk and sweetened creamer to be taxed under Budget 2027, suggesting a tiered excise tax structure based on sugar content per 100g. The new tax should apply not just to retail sales, but also bulk supply by restaurants. The post Tax Condensed Milk Under Budget 2027: Galen Centre appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Doctors Ask If HLP Subspecialty Training Sacrificed Under Budget Cuts",
+      "url": "https://codeblue.galencentre.org/2026/06/doctors-ask-if-hlp-subspecialty-training-sacrificed-under-budget-cuts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-09T02:00:00",
+      "summary": "Doctors are asking MOH if the annual HLP subspecialty training intake for 2026 has been cancelled or postponed due to budget cuts. Applicants are left in limbo because results are still not out, three weeks ahead of the traditional July 1 commencement. The post Doctors Ask If HLP Subspecialty Training Sacrificed Under Budget Cuts appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
     {
       "title": "The Hidden Cost Of Celebration — Dr Nur ’Athira Faisal Sabri",
       "url": "https://codeblue.galencentre.org/2026/06/the-hidden-cost-of-celebration-dr-nur-athira-faisal-sabri/",
@@ -84,59 +102,6 @@
       "published": "2026-06-08T03:45:00",
       "summary": "Jesse Ridgway and his wife's decision to abort their pregnancy after prenatal testing confirmed the foetus had Trisomy 21 triggered massive outrage in the US. But in East Asia, bringing a severely disabled child into the world may be seen as irresponsible. The post Would Aborting Pregnancy After Down Syndrome Diagnosis Spark Outrage In East Asia? — Dr Alexis Heng Boon Chin appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Beyond The Bricks And Mortar: Remedies For Malaysia’s Ailing Health Care System — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/06/beyond-the-bricks-and-mortar-remedies-for-malaysias-ailing-health-care-system-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-08T02:35:49",
-      "summary": "A fool and his money are soon parted. Malaysia has been parting with billions on monuments to political ambition while the foundations of its health care system crumble. The post Beyond The Bricks And Mortar: Remedies For Malaysia’s Ailing Health Care System — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "MOH Sets Charging Protocols For Select Medical Procedures",
-      "url": "https://codeblue.galencentre.org/2026/06/moh-sets-charging-protocols-for-select-medical-procedures/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-08T02:00:00",
-      "summary": "An MOH circular lists charging protocols for select medical procedures in private care, including wound dressing, debridement, and IV infusions, among others, that aren't chargeable separately. A doctor says this ignores real-world clinical complexity. The post MOH Sets Charging Protocols For Select Medical Procedures appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Pekanbaru–Melaka flights to boost health tourism from Indonesia, says exco",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/08/pekanbarumelaka-flights-to-boost-health-tourism-from-indonesia-says-exco/223024",
-      "source": "Malay Mail",
-      "published": "2026-06-08T11:10:53",
-      "summary": "MELAKA, June 8 — The Pekanbaru-Melaka-Pekanbaru flight route, which will begin operating at Batu Berendam Internat...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Genting inheritance dispute: Lim Goh Tong’s daughter signed will in hospital, court told",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/08/genting-inheritance-dispute-lim-goh-tongs-daughter-signed-will-in-hospital-court-told/223022",
-      "source": "Malay Mail",
-      "published": "2026-06-08T11:05:21",
-      "summary": "KUALA LUMPUR, June 8 — The High Court hearing of the Genting Group family’s will dispute heard today that on...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "AirAsia apologises to family, submits revised medical child restraint procedures to regulators after viral boarding dispute",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/08/airasia-apologises-to-family-submits-revised-medical-child-restraint-procedures-to-regulators-after-viral-boarding-dispute/223005",
-      "source": "Malay Mail",
-      "published": "2026-06-08T09:28:41",
-      "summary": "KUALA LUMPUR, June 8 — AirAsia has submitted enhanced procedures governing the use of medical child restraint devi...",
-      "keywords_matched": [
-        "medical"
-      ]
     }
   ]
 }
