@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-10T09:56:19.906076",
+  "fetched": "2026-06-10T12:57:08.880175",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "MOH Spending Cuts: Gopeng MP Only Backs Cutting Festive Celebrations, Overseas Travel",
@@ -110,30 +110,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "With 850 doctors across Pahang, Health Dept says it's moving staff from clinics to hospitals to fill gaps",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/10/with-850-doctors-across-pahang-health-dept-says-its-moving-staff-from-clinics-to-hospitals-to-fill-gaps/223257",
-      "source": "Malay Mail",
-      "published": "2026-06-10T08:58:13",
-      "summary": "KUANTAN, June 10 — The Pahang State Health Department (JKNP) said the shortage of medical officers at several heal...",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Ex-CFO of Malaysian condom maker Karex claims trial to insider trading over 150,000 shares",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/10/ex-cfo-of-malaysian-condom-maker-karex-claims-trial-to-insider-trading-over-150000-shares/223235",
-      "source": "Malay Mail",
-      "published": "2026-06-10T06:57:29",
-      "summary": "KUALA LUMPUR, June 10 — A former chief financial officer of Karex Berhad pleaded not guilty in the Sessions Court...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
