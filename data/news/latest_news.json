@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-10T00:11:26.834962",
+  "fetched": "2026-06-10T05:16:19.749087",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,39 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "LCNM Hosts First Malaysian Lung Cancer Policy Roundtable Forum",
+      "url": "https://codeblue.galencentre.org/2026/06/lcnm-hosts-first-malaysian-lung-cancer-policy-roundtable-forum/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-10T03:55:43",
+      "summary": "A wide range of critical issues were discussed, including the rising lung cancer burden in Malaysia, optimal modality and frequency of screening, biomarker testing, compliance with local CPG guidelines, access to cutting-edge therapies, and various strategies to surmount real-world challenges. The post LCNM Hosts First Malaysian Lung Cancer Policy Roundtable Forum appeared first on CodeBlue .",
+      "keywords_matched": [
+        "cancer"
+      ]
+    },
+    {
+      "title": "JPA Admits Concerns About New Subspecialty Training Requirement",
+      "url": "https://codeblue.galencentre.org/2026/06/jpa-admits-concerns-about-new-subspecialty-training-requirement/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-10T03:30:00",
+      "summary": "JPA says it's aware of concerns about a new requirement for doctors to have 3 full LNPT years before applying for subspecialty training. The issue was recently discussed by the KSN, KPPA, and MOH. JPA has requested further input from MOH on implementation. The post JPA Admits Concerns About New Subspecialty Training Requirement appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Freezing Health Worker Hiring Worsens Manpower Crisis, Say Hartal, MPs",
+      "url": "https://codeblue.galencentre.org/2026/06/freezing-health-worker-hiring-worsens-manpower-crisis-say-hartal-mps/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-10T02:00:00",
+      "summary": "Hartal Doktor Kontrak says freezing new positions or hiring of health workers may worsen a critical manpower crisis. MPs for Petaling Jaya and Kapar slam the spending cuts, particularly a hiring freeze. Bersama's Nik Nazmi wants targeted RON95 subsidies. The post Freezing Health Worker Hiring Worsens Manpower Crisis, Say Hartal, MPs appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doktor"
+      ]
+    },
     {
       "title": "HLP Subspecialty Training Application Results Out By June 16: MOH",
       "url": "https://codeblue.galencentre.org/2026/06/hlp-subspecialty-training-application-results-out-by-june-16-moh/",
@@ -79,55 +110,15 @@
       "keywords_matched": []
     },
     {
-      "title": "Over 37,000 Sign Petition Against Health, Education Spending Cuts",
-      "url": "https://codeblue.galencentre.org/2026/06/over-37000-sign-petition-against-health-education-spending-cuts/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-08T08:51:50",
-      "summary": "MyWatch's petition against health and education spending cuts has gained over 37,000 signatures. The petition demands ending blanket fuel subsidies, abolishing multiple pensions for politicians, and removing perks from lawmakers and elite civil servants. The post Over 37,000 Sign Petition Against Health, Education Spending Cuts appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "How To Staff New PJ Hospital Amid Shortages? Asks MMA",
-      "url": "https://codeblue.galencentre.org/2026/06/how-to-staff-new-pj-hospital-amid-shortages-asks-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-08T08:21:50",
-      "summary": "MMA questions how a new PJ Hospital can be staffed amid health workforce shortages, suggesting instead that the MOH expand its hospital services outsourcing programme to private hospitals, besides increasing funding for digitalisation. The post How To Staff New PJ Hospital Amid Shortages? Asks MMA appeared first on CodeBlue .",
+      "title": "MPV collides with ambulance transporting crash victims to Besul Hospital, triggering chain collision",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/10/mpv-collides-with-ambulance-transporting-crash-victims-to-besul-hospital-triggering-chain-collision/223214",
+      "source": "Malay Mail",
+      "published": "2026-06-10T04:57:05",
+      "summary": "JERTIH, June 10 — A Ministry of Health ambulance carrying two patients from an earlier motorcycle crash was involv...",
       "keywords_matched": [
         "health",
         "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Don’t Appeal Court Ruling On Nicotine: Health Groups",
-      "url": "https://codeblue.galencentre.org/2026/06/dont-appeal-court-ruling-on-nicotine-health-groups/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-08T08:00:51",
-      "summary": "Ahead of a June 15 deadline, two groups tell MOH not to appeal a High Court verdict restoring liquid nicotine as a poison. MyWatch says the court decision gives the government an opportunity to ban nicotine vape retail sales. MMI moots prescription-only. The post Don’t Appeal Court Ruling On Nicotine: Health Groups appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Anwar: Malaysia ready for next industrial leap with Japan in AI, digital and energy sectors",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/09/anwar-malaysia-ready-for-next-industrial-leap-with-japan-in-ai-digital-and-energy-sectors/223145",
-      "source": "Malay Mail",
-      "published": "2026-06-09T10:19:46",
-      "summary": "TOKYO, June 9 — Prime Minister Datuk Seri Anwar Ibrahim has urged Japanese companies to continue expanding investm...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Hiker Jaslinda looks forward to recovery after nearly two weeks lost in Gunung Batu Putih",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/09/hiker-jaslinda-looks-forward-to-recovery-after-nearly-two-weeks-lost-in-gunung-batu-putih/223130",
-      "source": "Malay Mail",
-      "published": "2026-06-09T08:55:00",
-      "summary": "TAPAH, June 9 — After nearly two weeks lost in the Gunung Batu Putih area and three days in hospital, hiker J...",
-      "keywords_matched": [
-        "hospital",
+        "patient",
         "hospital"
       ]
     }
