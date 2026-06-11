@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-11T00:13:03.603010",
+  "fetched": "2026-06-11T05:26:44.257765",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Malaysia, WOAH Strengthen Cooperation On Animal Health",
+      "url": "https://codeblue.galencentre.org/2026/06/malaysia-woah-strengthen-cooperation-on-animal-health/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-11T03:42:23",
+      "summary": "Malaysia and WOAH pledged closer cooperation on One Health, including stronger coordination among veterinary, fisheries, wildlife, and environmental agencies. Discussions also covered rabies eradication, zoonotic threats, and veterinary service improvements. The post Malaysia, WOAH Strengthen Cooperation On Animal Health appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Eat Less Chicken During Global Crises: UPM Experts",
+      "url": "https://codeblue.galencentre.org/2026/06/eat-less-chicken-during-global-crises-upm-experts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-11T02:00:00",
+      "summary": "UPM experts say Malaysians may need to reduce chicken consumption during global supply shocks, warning that the country's heavy dependence of at least 90% on imported grain corn for animal feed leaves poultry production vulnerable to disruptions abroad. The post Eat Less Chicken During Global Crises: UPM Experts appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "MOH Spending Cuts: Gopeng MP Only Backs Cutting Festive Celebrations, Overseas Travel",
       "url": "https://codeblue.galencentre.org/2026/06/moh-spending-cuts-gopeng-mp-only-backs-cutting-festive-celebrations-overseas-travel/",
@@ -90,26 +108,13 @@
       "keywords_matched": []
     },
     {
-      "title": "Health Ministry’s Spending Cuts: New Positions Frozen, Overtime Allowance Controlled",
-      "url": "https://codeblue.galencentre.org/2026/06/health-ministrys-spending-cuts-new-positions-frozen-overtime-allowance-controlled/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-09T08:07:13",
-      "summary": "A circular by MOH's sec-gen lists 10 cost-saving measures to cut operational expenditure this year, effective last June 1, including freezing the creation of new positions, controlling ELM overtime allowance, optimising drug usage, and prudent lab testing. The post Health Ministry’s Spending Cuts: New Positions Frozen, Overtime Allowance Controlled appeared first on CodeBlue .",
+      "title": "Police raid in Kota Kinabalu seizes 159.8kg meth worth RM7.99m, drugs hidden in Perodua Alza",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/11/police-raid-in-kota-kinabalu-seizes-1598kg-meth-worth-rm799m-drugs-hidden-in-perodua-alza/223330",
+      "source": "Malay Mail",
+      "published": "2026-06-11T02:54:18",
+      "summary": "KOTA KINABALU, June 11 — Police seized 159.8kg of suspected methamphetamine worth an estimated RM7.99 million and...",
       "keywords_matched": [
-        "health",
         "drug"
-      ]
-    },
-    {
-      "title": "We Need More Hospitals And Health Care Workers, Not One Or The Other — Dr Timothy William",
-      "url": "https://codeblue.galencentre.org/2026/06/we-need-more-hospitals-and-health-care-workers-not-one-or-the-other-dr-timothy-william/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-09T08:00:00",
-      "summary": "Hospital planning is a long-term undertaking. Workforce numbers are far more dynamic. Indeed, it wasn't that long ago that we were having the exact opposite discussion. Predicting workforce requirements years into the future is far from an exact science. The post We Need More Hospitals And Health Care Workers, Not One Or The Other — Dr Timothy William appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
       ]
     }
   ]
