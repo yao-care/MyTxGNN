@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-11T05:26:44.257765",
+  "fetched": "2026-06-11T10:21:41.599572",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Metagenomic Sequencing: The Diagnostic Leap Malaysia Must Take To Combat Superbugs And The Next Pandemic — Dr Musa Mohd Nordin, Prof Azizi Haji Omar & Dr Nur Abdul Karim",
+      "url": "https://codeblue.galencentre.org/2026/06/metagenomic-sequencing-the-diagnostic-leap-malaysia-must-take-to-combat-superbugs-and-the-next-pandemic-dr-musa-mohd-nordin-prof-azizi-haji-omar-dr-nur-abdul-karim/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-11T06:00:00",
+      "summary": "It is time for Malaysia's health care sector to look to the UK and adopt metagenomic sequencing as a national standard. The post Metagenomic Sequencing: The Diagnostic Leap Malaysia Must Take To Combat Superbugs And The Next Pandemic — Dr Musa Mohd Nordin, Prof Azizi Haji Omar & Dr Nur Abdul Karim appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Malaysia, WOAH Strengthen Cooperation On Animal Health",
       "url": "https://codeblue.galencentre.org/2026/06/malaysia-woah-strengthen-cooperation-on-animal-health/",
@@ -100,19 +110,21 @@
       ]
     },
     {
-      "title": "HLP Subspecialty Training Application Results Out By June 16: MOH",
-      "url": "https://codeblue.galencentre.org/2026/06/hlp-subspecialty-training-application-results-out-by-june-16-moh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-09T08:44:36",
-      "summary": "MOH says HLP subspecialty training application results will be out by June 16, two weeks ahead of the July 1 training commencement date, as it stresses that this year's intake wasn't cancelled due to budget cuts. The post HLP Subspecialty Training Application Results Out By June 16: MOH appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Authorities confirm no injuries after chemical leak at Pasir Gudang factory, monitoring continues",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/11/authorities-confirm-no-injuries-after-chemical-leak-at-pasir-gudang-factory-monitoring-continues/223389",
+      "source": "Malay Mail",
+      "published": "2026-06-11T09:23:44",
+      "summary": "JOHOR BAHRU, June 11 — A 200-litre industrial tank containing a chemical known as ‘Spent Inorganic Acid&rsqu...",
+      "keywords_matched": [
+        "trial"
+      ]
     },
     {
-      "title": "Police raid in Kota Kinabalu seizes 159.8kg meth worth RM7.99m, drugs hidden in Perodua Alza",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/11/police-raid-in-kota-kinabalu-seizes-1598kg-meth-worth-rm799m-drugs-hidden-in-perodua-alza/223330",
+      "title": "Deputy IGP says fentanyl‑based ‘Piu Piu’ leaves users zombie‑like, calls for total vape ban",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/11/deputy-igp-says-fentanylbased-piu-piu-leaves-users-zombielike-calls-for-total-vape-ban/223374",
       "source": "Malay Mail",
-      "published": "2026-06-11T02:54:18",
-      "summary": "KOTA KINABALU, June 11 — Police seized 159.8kg of suspected methamphetamine worth an estimated RM7.99 million and...",
+      "published": "2026-06-11T08:28:14",
+      "summary": "KUALA LUMPUR, June 11 — The emergence of “Piu Piu”, a new type of synthetic drug in the market which h...",
       "keywords_matched": [
         "drug"
       ]
