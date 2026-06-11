@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-11T10:21:41.599572",
+  "fetched": "2026-06-11T14:35:25.441534",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Metagenomic Sequencing: The Diagnostic Leap Malaysia Must Take To Combat Superbugs And The Next Pandemic — Dr Musa Mohd Nordin, Prof Azizi Haji Omar & Dr Nur Abdul Karim",
@@ -107,6 +107,17 @@
       "keywords_matched": [
         "health",
         "doktor"
+      ]
+    },
+    {
+      "title": "Malaysia’s medicine and medical device supply stays stable amid global pressures, says economy minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/11/malaysias-medicine-and-medical-device-supply-stays-stable-amid-global-pressures-says-economy-minister/223406",
+      "source": "Malay Mail",
+      "published": "2026-06-11T10:52:39",
+      "summary": "KUALA LUMPUR, June 11 — Economy Minister Datuk Seri Akmal Nasrullah Mohd Nasir said the supply of medicines...",
+      "keywords_matched": [
+        "medical",
+        "medicine"
       ]
     },
     {
