@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-12T12:17:21.568946",
+  "fetched": "2026-06-12T16:15:25.481742",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Chronic Diseases Require Modern Insurance Solutions — Dr K. Thiruchelvam",
@@ -107,6 +107,16 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-06-11T06:00:00",
       "summary": "It is time for Malaysia's health care sector to look to the UK and adopt metagenomic sequencing as a national standard. The post Metagenomic Sequencing: The Diagnostic Leap Malaysia Must Take To Combat Superbugs And The Next Pandemic — Dr Musa Mohd Nordin, Prof Azizi Haji Omar & Dr Nur Abdul Karim appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Media practitioners call on govt to provide healthcare, welfare aid for industry veterans",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/12/media-practitioners-call-on-govt-to-provide-healthcare-welfare-aid-for-industry-veterans/223539",
+      "source": "Malay Mail",
+      "published": "2026-06-12T13:00:00",
+      "summary": "IPOH, June 12 — The government is urged to consider introducing a dedicated aid mechanism for veteran or former me...",
       "keywords_matched": [
         "health"
       ]
