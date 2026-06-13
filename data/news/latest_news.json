@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-12T23:15:03.108762",
+  "fetched": "2026-06-13T03:34:02.498445",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Chronic Diseases Require Modern Insurance Solutions — Dr K. Thiruchelvam",
@@ -112,25 +112,13 @@
       ]
     },
     {
-      "title": "Media practitioners call on govt to provide healthcare, welfare aid for industry veterans",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/12/media-practitioners-call-on-govt-to-provide-healthcare-welfare-aid-for-industry-veterans/223539",
+      "title": "Health Ministry eyes major organ transplant push in 2026 as thousands await lifesaving donors",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/13/health-ministry-eyes-major-organ-transplant-push-in-2026-as-thousands-await-lifesaving-donors/223553",
       "source": "Malay Mail",
-      "published": "2026-06-12T13:00:00",
-      "summary": "IPOH, June 12 — The government is urged to consider introducing a dedicated aid mechanism for veteran or former me...",
+      "published": "2026-06-13T00:48:25",
+      "summary": "KUALA LUMPUR, June 13 — The Health Ministry (MOH) has set the goal of advancing the national transplant...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Hospitalisation, critical illness and medical device aid among RM1.42b MySalam payouts to Malaysians, says minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/12/hospitalisation-critical-illness-and-medical-device-aid-among-rm142b-mysalam-payouts-to-malaysians-says-minister/223523",
-      "source": "Malay Mail",
-      "published": "2026-06-12T09:07:43",
-      "summary": "KUALA LUMPUR, June 12 — Communications Minister Datuk Fahmi Fadzil said a total of 1.88 million Malaysians have be...",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "hospital"
       ]
     }
   ]
