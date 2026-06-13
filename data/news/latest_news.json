@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-13T10:26:37.180709",
+  "fetched": "2026-06-13T12:23:12.613982",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Chronic Diseases Require Modern Insurance Solutions — Dr K. Thiruchelvam",
@@ -109,16 +109,6 @@
       "summary": "It is time for Malaysia's health care sector to look to the UK and adopt metagenomic sequencing as a national standard. The post Metagenomic Sequencing: The Diagnostic Leap Malaysia Must Take To Combat Superbugs And The Next Pandemic — Dr Musa Mohd Nordin, Prof Azizi Haji Omar & Dr Nur Abdul Karim appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Saifuddin Nasution says Poisons Act updates must keep pace with emerging synthetic drugs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/13/saifuddin-nasution-says-poisons-act-updates-must-keep-pace-with-emerging-synthetic-drugs/223627",
-      "source": "Malay Mail",
-      "published": "2026-06-13T06:59:59",
-      "summary": "JOHOR BAHRU, June 13 — Authorities and regulators face a growing challenge to fast-track the scheduling of synthet...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
