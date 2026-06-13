@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-13T07:44:25.388371",
+  "fetched": "2026-06-13T10:26:37.180709",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
     {
       "title": "Chronic Diseases Require Modern Insurance Solutions — Dr K. Thiruchelvam",
@@ -119,36 +119,6 @@
       "summary": "JOHOR BAHRU, June 13 — Authorities and regulators face a growing challenge to fast-track the scheduling of synthet...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Kelantan records highest drug abuse rate in 2025 as border states remain most affected, says AADK",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/13/kelantan-records-highest-drug-abuse-rate-in-2025-as-border-states-remain-most-affected-says-aadk/223624",
-      "source": "Malay Mail",
-      "published": "2026-06-13T06:39:31",
-      "summary": "KUALA NERUS, June 13 — Four states located near or along the country’s borders continued to record the highe...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Penang clinic joins first phase of national lung health initiative using AI screening",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/13/penang-clinic-joins-first-phase-of-national-lung-health-initiative-using-ai-screening/223623",
-      "source": "Malay Mail",
-      "published": "2026-06-13T06:31:08",
-      "summary": "BUTTERWORTH, June 13 — The Seberang Jaya Health Clinic here has been selected as a facility for the first phase of...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Melaka sees strong uptake as 1,318 women get free breast cancer screenings",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/13/melaka-sees-strong-uptake-as-1318-women-get-free-breast-cancer-screenings/223602",
-      "source": "Malay Mail",
-      "published": "2026-06-13T04:35:31",
-      "summary": "MELAKA, June 13 — A total of 1,318 women aged 40 to 70 across the state have undergone free mammogram s...",
-      "keywords_matched": [
-        "cancer"
       ]
     }
   ]
