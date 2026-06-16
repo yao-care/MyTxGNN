@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-16T03:59:31.820068",
+  "fetched": "2026-06-16T09:32:18.312456",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "The Ticking Time Bomb: Why Malaysia’s Health Crisis Is Also A Self-Inflicted Wound — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/06/the-ticking-time-bomb-why-malaysias-health-crisis-is-also-a-self-inflicted-wound-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-16T07:30:00",
+      "summary": "Health is not an entitlement that can be abused and subsequently repaired for a nominal fee at a government clinic. It is an individual and civic responsibility. The post The Ticking Time Bomb: Why Malaysia’s Health Crisis Is Also A Self-Inflicted Wound — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Why Healthy Ageing Must Be Malaysia’s Next Health Care Reform — Dr Darishini Gaanesamurthi",
+      "url": "https://codeblue.galencentre.org/2026/06/why-healthy-ageing-must-be-malaysias-next-health-care-reform-dr-darishini-gaanesamurthi/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-16T06:00:00",
+      "summary": "As Malaysia transitions into an ageing nation, health care reform must move beyond treating disease to preserving function, independence, and quality of life throughout later life. The post Why Healthy Ageing Must Be Malaysia’s Next Health Care Reform — Dr Darishini Gaanesamurthi appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "disease"
+      ]
+    },
     {
       "title": "Incentivise States To Preserve Farmland For Food Production, Expert Tells Putrajaya",
       "url": "https://codeblue.galencentre.org/2026/06/incentivise-states-to-preserve-farmland-for-food-production-expert-tells-putrajaya/",
@@ -85,22 +106,16 @@
       "keywords_matched": []
     },
     {
-      "title": "Withdraw Appeal Against High Court Ruling On Nicotine — Dr Halimah Ali",
-      "url": "https://codeblue.galencentre.org/2026/06/withdraw-appeal-against-high-court-ruling-on-nicotine-dr-halimah-ali/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-15T03:49:58",
-      "summary": "The government must withdraw this appeal, undertake a comprehensive review of the nation’s vaping policy, and consider a total ban on vape products in order to protect Malaysian children from nicotine addiction and drug abuse. The post Withdraw Appeal Against High Court Ruling On Nicotine — Dr Halimah Ali appeared first on CodeBlue .",
+      "title": "Medicine supply stable in Malaysia despite monitoring of select drugs, says Health Ministry",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/16/medicine-supply-stable-in-malaysia-despite-monitoring-of-select-drugs-says-health-ministry/224013",
+      "source": "Malay Mail",
+      "published": "2026-06-16T07:36:39",
+      "summary": "PUTRAJAYA, June 16 — The Ministry of Health (MOH) has assured that medicine supplies in Malaysia remain stable and...",
       "keywords_matched": [
+        "health",
+        "medicine",
         "drug"
       ]
-    },
-    {
-      "title": "Back Of The Thigh, Front Of The Problem: The Injury That Can Sideline Athletes",
-      "url": "https://codeblue.galencentre.org/2026/06/back-of-the-thigh-front-of-the-problem-the-injury-that-can-sideline-athletes/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-15T02:47:36",
-      "summary": "From weekend games to competitive football, hamstring injuries can affect everyday athletes and recreational players in ways that may need assessment, imaging or specialist care. The post Back Of The Thigh, Front Of The Problem: The Injury That Can Sideline Athletes appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
