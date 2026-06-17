@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-17T06:09:03.787037",
+  "fetched": "2026-06-17T11:45:56.400734",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "The Ticking Time Bomb: Why Malaysia’s Health Crisis Is Also A Self-Inflicted Wound — Dr Rajeentheran Suntheralingam",
@@ -104,16 +104,6 @@
       "published": "2026-06-15T03:50:00",
       "summary": "The goal of zero dengue deaths is achievable, but only if we have the strategy and solidarity to act. The post Observing Asean Dengue Day — Dr Zulkifli Ismail, Dr Musa Mohd Nordin & Dr Koh Kar Chai appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Diarrhoea, vomiting claims spark probe at Janda Baik river, Pahang Health Dept steps up checks",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/17/diarrhoea-vomiting-claims-spark-probe-at-janda-baik-river-pahang-health-dept-steps-up-checks/224100",
-      "source": "Malay Mail",
-      "published": "2026-06-17T03:33:07",
-      "summary": "KUANTAN, June 17 — The Pahang State Health Department (JKNP) is conducting an investigation following allegations...",
-      "keywords_matched": [
-        "health"
-      ]
     }
   ]
 }
