@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-17T23:22:36.232586",
+  "fetched": "2026-06-18T03:45:50.354167",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Many Specialists From Master’s Programmes Rejected For Subspecialty Training Due To LNPT Requirement — Physician",
+      "url": "https://codeblue.galencentre.org/2026/06/many-specialists-from-masters-programmes-rejected-for-subspecialty-training-due-to-lnpt-requirement/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-18T02:00:00",
+      "summary": "In the June 16 results of the latest subspecialty training intake, a significant number of specialists who completed local Master's programmes were rejected, mainly because they were short of one LNPT assessment. These rejections cut across various fields. The post Many Specialists From Master’s Programmes Rejected For Subspecialty Training Due To LNPT Requirement — Physician appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "The Ticking Time Bomb: Why Malaysia’s Health Crisis Is Also A Self-Inflicted Wound — Dr Rajeentheran Suntheralingam",
       "url": "https://codeblue.galencentre.org/2026/06/the-ticking-time-bomb-why-malaysias-health-crisis-is-also-a-self-inflicted-wound-dr-rajeentheran-suntheralingam/",
@@ -96,14 +104,6 @@
       "keywords_matched": [
         "virus"
       ]
-    },
-    {
-      "title": "Observing Asean Dengue Day — Dr Zulkifli Ismail, Dr Musa Mohd Nordin & Dr Koh Kar Chai",
-      "url": "https://codeblue.galencentre.org/2026/06/asean-dengue-day-dr-musa-mohd-nordin-dr-zulkifli-ismail-dr-koh-kar-chai/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-15T03:50:00",
-      "summary": "The goal of zero dengue deaths is achievable, but only if we have the strategy and solidarity to act. The post Observing Asean Dengue Day — Dr Zulkifli Ismail, Dr Musa Mohd Nordin & Dr Koh Kar Chai appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
