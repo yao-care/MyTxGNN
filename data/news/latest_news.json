@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-19T06:16:52.879348",
+  "fetched": "2026-06-19T11:20:32.786057",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,46 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Animal Production, Veterinary Industry Conferences To Merge Under Gavis 2026",
+      "url": "https://codeblue.galencentre.org/2026/06/animal-production-veterinary-industry-conferences-to-merge-under-gavis-2026/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-19T09:14:31",
+      "summary": "Ten annual conferences by associations in the animal production and veterinary industries, traditionally held separately, will instead be combined under the inaugural Gavis 2026 summit from July 21-23 in Putrajaya to save costs and time for participants. The post Animal Production, Veterinary Industry Conferences To Merge Under Gavis 2026 appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Is Male Infertility The Missing Piece? When Men Need To Be Part Of The Fertility Conversation",
+      "url": "https://codeblue.galencentre.org/2026/06/is-male-infertility-the-missing-piece-when-men-need-to-be-part-of-the-fertility-conversation/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-19T08:18:55",
+      "summary": "When a couple struggles to conceive, it is rarely a one-sided story. Yet for decades, the fertility spotlight has shone almost exclusively on women. It is time to change that conversation – and science is firmly on our side. The post Is Male Infertility The Missing Piece? When Men Need To Be Part Of The Fertility Conversation appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Three Generations, Two Battles: How Dengue Stole What Mattered Most",
+      "url": "https://codeblue.galencentre.org/2026/06/three-generations-two-battles-how-dengue-stole-what-mattered-most/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-19T07:32:26",
+      "summary": "Dengue affects all age groups, from young children to the elderly, and infection can happen more than once because there are four different strains of the virus. The post Three Generations, Two Battles: How Dengue Stole What Mattered Most appeared first on CodeBlue .",
+      "keywords_matched": [
+        "virus"
+      ]
+    },
+    {
+      "title": "Defusing The Bomb: Fixing Malaysia’s NCD Crisis Before It’s Too Late — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/06/defusing-the-bomb-fixing-malaysias-ncd-crisis-before-its-too-late-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-19T07:30:00",
+      "summary": "Every ringgit we continue to pour into sugar subsidies is a ringgit stolen from dialysis chairs, from cancer treatment, from the nurses and doctors who hold the system together. The post Defusing The Bomb: Fixing Malaysia’s NCD Crisis Before It’s Too Late — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment",
+        "cancer",
+        "doctor"
+      ]
+    },
     {
       "title": "A Specialist Blocked At Home Is A Specialist Recruited Abroad — MMA",
       "url": "https://codeblue.galencentre.org/2026/06/a-specialist-blocked-at-home-is-a-specialist-recruited-abroad-mma/",
@@ -64,43 +102,13 @@
       "keywords_matched": []
     },
     {
-      "title": "The Ticking Time Bomb: Why Malaysia’s Health Crisis Is Also A Self-Inflicted Wound — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/06/the-ticking-time-bomb-why-malaysias-health-crisis-is-also-a-self-inflicted-wound-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-16T07:30:00",
-      "summary": "Health is not an entitlement that can be abused and subsequently repaired for a nominal fee at a government clinic. It is an individual and civic responsibility. The post The Ticking Time Bomb: Why Malaysia’s Health Crisis Is Also A Self-Inflicted Wound — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "title": "Teacher among four arrested on suspicion of using Besut house as drug den",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/19/teacher-among-four-arrested-on-suspicion-of-using-besut-house-as-drug-den/224437",
+      "source": "Malay Mail",
+      "published": "2026-06-19T08:43:33",
+      "summary": "KUALA LUMPUR, June 19 — Police have arrested four men, including a teacher, after raiding a house suspected of bei...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Why Healthy Ageing Must Be Malaysia’s Next Health Care Reform — Dr Darishini Gaanesamurthi",
-      "url": "https://codeblue.galencentre.org/2026/06/why-healthy-ageing-must-be-malaysias-next-health-care-reform-dr-darishini-gaanesamurthi/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-16T06:00:00",
-      "summary": "As Malaysia transitions into an ageing nation, health care reform must move beyond treating disease to preserving function, independence, and quality of life throughout later life. The post Why Healthy Ageing Must Be Malaysia’s Next Health Care Reform — Dr Darishini Gaanesamurthi appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "disease"
-      ]
-    },
-    {
-      "title": "Incentivise States To Preserve Farmland For Food Production, Expert Tells Putrajaya",
-      "url": "https://codeblue.galencentre.org/2026/06/incentivise-states-to-preserve-farmland-for-food-production-expert-tells-putrajaya/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-16T03:30:00",
-      "summary": "Putrajaya should reward states that preserve farmland for food production, a UPM academic said, warning that the loss of paddy land to development could threaten Malaysia’s food security amid reliance on rice imports and climate-related risks to yields. The post Incentivise States To Preserve Farmland For Food Production, Expert Tells Putrajaya appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Deputy DG Touts Micro-Credentials For Non-Doctors Amid Shortage",
-      "url": "https://codeblue.galencentre.org/2026/06/deputy-dg-touts-micro-credentials-for-non-doctors-amid-shortage/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-16T02:00:00",
-      "summary": "MOH deputy DG Dr Fariza calls for micro-credentialing and decentralised training for non-doctors to perform certain health care tasks, amid doctor shortages and long training pathways for doctors. This approach can improve access to care in remote areas. The post Deputy DG Touts Micro-Credentials For Non-Doctors Amid Shortage appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "doctor"
+        "drug"
       ]
     }
   ]
