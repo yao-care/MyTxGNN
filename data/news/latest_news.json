@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-20T00:08:22.561809",
+  "fetched": "2026-06-20T05:11:57.343244",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Animal Production, Veterinary Industry Conferences To Merge Under Gavis 2026",
@@ -102,13 +102,25 @@
       "keywords_matched": []
     },
     {
-      "title": "Teacher among four arrested on suspicion of using Besut house as drug den",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/19/teacher-among-four-arrested-on-suspicion-of-using-besut-house-as-drug-den/224437",
+      "title": "Selgate: How Selangor is using private hospitals to cut public healthcare waiting times",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/20/selgate-how-selangor-is-using-private-hospitals-to-cut-public-healthcare-waiting-times/224509",
       "source": "Malay Mail",
-      "published": "2026-06-19T08:43:33",
-      "summary": "KUALA LUMPUR, June 19 — Police have arrested four men, including a teacher, after raiding a house suspected of bei...",
+      "published": "2026-06-20T03:37:37",
+      "summary": "SHAH ALAM, June 20 — The Selangor state government continues to expand access to affordable healthcare through its...",
       "keywords_matched": [
-        "drug"
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Doctor, two-year-old daughter among three killed in Pekan crash triggered by puddle",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/20/doctor-two-year-old-daughter-among-three-killed-in-pekan-crash-triggered-by-puddle/224494",
+      "source": "Malay Mail",
+      "published": "2026-06-20T01:50:08",
+      "summary": "KUANTAN, June 20 — Three people, including a doctor, were killed while six others sustained injuries in a three-ve...",
+      "keywords_matched": [
+        "doctor"
       ]
     }
   ]
