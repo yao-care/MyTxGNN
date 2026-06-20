@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-20T08:52:59.258220",
+  "fetched": "2026-06-20T11:16:43.261419",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -102,6 +102,16 @@
       "keywords_matched": []
     },
     {
+      "title": "MOH says advanced specialist training selection is transparent, merit-based",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/20/moh-says-advanced-specialist-training-selection-is-transparent-merit-based/224558",
+      "source": "Malay Mail",
+      "published": "2026-06-20T10:35:32",
+      "summary": "PUTRAJAYA, June 20 — The Health Ministry (MOH) stressed today that the selection process for its Advanced Speciali...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Selgate: How Selangor is using private hospitals to cut public healthcare waiting times",
       "url": "https://www.malaymail.com/news/malaysia/2026/06/20/selgate-how-selangor-is-using-private-hospitals-to-cut-public-healthcare-waiting-times/224509",
       "source": "Malay Mail",
@@ -111,16 +121,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Doctor, two-year-old daughter among three killed in Pekan crash triggered by puddle",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/20/doctor-two-year-old-daughter-among-three-killed-in-pekan-crash-triggered-by-puddle/224494",
-      "source": "Malay Mail",
-      "published": "2026-06-20T01:50:08",
-      "summary": "KUANTAN, June 20 — Three people, including a doctor, were killed while six others sustained injuries in a three-ve...",
-      "keywords_matched": [
-        "doctor"
       ]
     }
   ]
