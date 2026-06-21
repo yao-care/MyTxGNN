@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-20T23:06:22.576160",
+  "fetched": "2026-06-21T04:02:32.193905",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Animal Production, Veterinary Industry Conferences To Merge Under Gavis 2026",
@@ -102,6 +102,27 @@
       "keywords_matched": []
     },
     {
+      "title": "Dzulkefly: 402 vape cases involving synthetic drugs give strong basis for national vape ban",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/21/dzulkefly-402-vape-cases-involving-synthetic-drugs-give-strong-basis-for-national-vape-ban/224584",
+      "source": "Malay Mail",
+      "published": "2026-06-21T01:32:05",
+      "summary": "KUALA LUMPUR, June 21 — Data on vape seizures by the Royal Malaysia Police (PDRM) up to April this year recorded 4...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Dzulkefly: MOH fast‑tracking study on e‑MC system to curb medical certificate forgery and identity theft",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/21/dzulkefly-moh-fasttracking-study-on-emc-system-to-curb-medical-certificate-forgery-and-identity-theft/224580",
+      "source": "Malay Mail",
+      "published": "2026-06-21T01:22:29",
+      "summary": "KUALA LUMPUR, June 21 — The Ministry of Health (MOH) is studying the implementation of a digital medical certifica...",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
+    {
       "title": "MOH says advanced specialist training selection is transparent, merit-based",
       "url": "https://www.malaymail.com/news/malaysia/2026/06/20/moh-says-advanced-specialist-training-selection-is-transparent-merit-based/224558",
       "source": "Malay Mail",
@@ -109,18 +130,6 @@
       "summary": "PUTRAJAYA, June 20 — The Health Ministry (MOH) stressed today that the selection process for its Advanced Speciali...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Selgate: How Selangor is using private hospitals to cut public healthcare waiting times",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/20/selgate-how-selangor-is-using-private-hospitals-to-cut-public-healthcare-waiting-times/224509",
-      "source": "Malay Mail",
-      "published": "2026-06-20T03:37:37",
-      "summary": "SHAH ALAM, June 20 — The Selangor state government continues to expand access to affordable healthcare through its...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
       ]
     }
   ]
