@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-21T04:02:32.193905",
+  "fetched": "2026-06-21T08:56:21.671263",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Animal Production, Veterinary Industry Conferences To Merge Under Gavis 2026",
@@ -102,34 +102,25 @@
       "keywords_matched": []
     },
     {
-      "title": "Dzulkefly: 402 vape cases involving synthetic drugs give strong basis for national vape ban",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/21/dzulkefly-402-vape-cases-involving-synthetic-drugs-give-strong-basis-for-national-vape-ban/224584",
+      "title": "Ganja buds: Terengganu police seize luxury rides and RM1.76m in drugs from Kampung Duyong Besar brothers",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/21/ganja-buds-terengganu-police-seize-luxury-rides-and-rm176m-in-drugs-from-kampung-duyong-besar-brothers/224623",
       "source": "Malay Mail",
-      "published": "2026-06-21T01:32:05",
-      "summary": "KUALA LUMPUR, June 21 — Data on vape seizures by the Royal Malaysia Police (PDRM) up to April this year recorded 4...",
+      "published": "2026-06-21T06:04:36",
+      "summary": "KUALA TERENGGANU, June 21 — Police have arrested two brothers suspected of using their house in Kampung Duyong Bes...",
       "keywords_matched": [
         "drug"
       ]
     },
     {
-      "title": "Dzulkefly: MOH fast‑tracking study on e‑MC system to curb medical certificate forgery and identity theft",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/21/dzulkefly-moh-fasttracking-study-on-emc-system-to-curb-medical-certificate-forgery-and-identity-theft/224580",
+      "title": "Diabetes remains one of Malaysia’s biggest public health challenges, says Sarawak Health director",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/21/diabetes-remains-one-of-malaysias-biggest-public-health-challenges-says-sarawak-health-director/224617",
       "source": "Malay Mail",
-      "published": "2026-06-21T01:22:29",
-      "summary": "KUALA LUMPUR, June 21 — The Ministry of Health (MOH) is studying the implementation of a digital medical certifica...",
+      "published": "2026-06-21T05:12:32",
+      "summary": "KUCHING, June 21 — Non-communicable diseases (NCDs), particularly diabetes, continue to pose major public health c...",
       "keywords_matched": [
         "health",
-        "medical"
-      ]
-    },
-    {
-      "title": "MOH says advanced specialist training selection is transparent, merit-based",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/20/moh-says-advanced-specialist-training-selection-is-transparent-merit-based/224558",
-      "source": "Malay Mail",
-      "published": "2026-06-20T10:35:32",
-      "summary": "PUTRAJAYA, June 20 — The Health Ministry (MOH) stressed today that the selection process for its Advanced Speciali...",
-      "keywords_matched": [
-        "health"
+        "disease",
+        "diabetes"
       ]
     }
   ]
