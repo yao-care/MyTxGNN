@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-21T11:46:06.096251",
+  "fetched": "2026-06-21T14:06:53.312827",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Animal Production, Veterinary Industry Conferences To Merge Under Gavis 2026",
@@ -100,28 +100,6 @@
       "published": "2026-06-18T02:00:00",
       "summary": "In the June 16 results of the latest subspecialty training intake, a significant number of specialists who completed local Master's programmes were rejected, mainly because they were short of one LNPT assessment. These rejections cut across various fields. The post Many Specialists From Master’s Programmes Rejected For Subspecialty Training Due To LNPT Requirement — Physician appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Ganja buds: Terengganu police seize luxury rides and RM1.76m in drugs from Kampung Duyong Besar brothers",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/21/ganja-buds-terengganu-police-seize-luxury-rides-and-rm176m-in-drugs-from-kampung-duyong-besar-brothers/224623",
-      "source": "Malay Mail",
-      "published": "2026-06-21T06:04:36",
-      "summary": "KUALA TERENGGANU, June 21 — Police have arrested two brothers suspected of using their house in Kampung Duyong Bes...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Diabetes remains one of Malaysia’s biggest public health challenges, says Sarawak Health director",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/21/diabetes-remains-one-of-malaysias-biggest-public-health-challenges-says-sarawak-health-director/224617",
-      "source": "Malay Mail",
-      "published": "2026-06-21T05:12:32",
-      "summary": "KUCHING, June 21 — Non-communicable diseases (NCDs), particularly diabetes, continue to pose major public health c...",
-      "keywords_matched": [
-        "health",
-        "disease",
-        "diabetes"
-      ]
     }
   ]
 }
