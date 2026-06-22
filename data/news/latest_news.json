@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-22T06:27:42.868182",
+  "fetched": "2026-06-22T12:49:00.717880",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Caught Between Ayam Gepuk And Weight Loss Injections: A Public Health Warning For Malaysia’s Youth — Nor Zehan Ahmad, Dr Noor Hanita Zaini & Dr Noor Hasliza Che Seman",
+      "url": "https://codeblue.galencentre.org/2026/06/caught-between-ayam-gepuk-and-weight-loss-injections-a-public-health-warning-for-malaysias-youth-nor-zehan-ahmad-dr-noor-hanita-zaini-dr-noor-hasliza-che-seman/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-22T07:30:00",
+      "summary": "The generation caught between ayam gepuk and weight-loss injections should not be blamed. It is a generation growing up in a complex health environment. The real issue is not that young people enjoy food, but that insecurity has become a market. The post Caught Between Ayam Gepuk And Weight Loss Injections: A Public Health Warning For Malaysia’s Youth — Nor Zehan Ahmad, Dr Noor Hanita Zaini & Dr Noor Hasliza Che Seman appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "SG Lim Concludes 2,200Km Run For Gold, Raises Over RM700,000 For Children With Cancer",
       "url": "https://codeblue.galencentre.org/2026/06/sg-lim-concludes-2200km-run-for-gold-raises-over-rm700000-for-children-with-cancer/",
@@ -97,12 +107,24 @@
       ]
     },
     {
-      "title": "When Constipation Becomes More Than Just Discomfort — Dr Tan Woei Ling, Dr Noor Hasliza Che Seman & Dr Marina Jokim Robert",
-      "url": "https://codeblue.galencentre.org/2026/06/when-constipation-becomes-more-than-just-discomfort-dr-tan-woei-ling-dr-noor-hasliza-che-seman-dr-marina-jokim-robert/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-19T02:29:27",
-      "summary": "By increasing awareness, encouraging open conversations, and supporting holistic approaches to care, we can help improve not only bowel function, but also comfort, dignity, and overall quality of life. The post When Constipation Becomes More Than Just Discomfort — Dr Tan Woei Ling, Dr Noor Hasliza Che Seman & Dr Marina Jokim Robert appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Lorry driver in FRU crash cleared of stolen cow case but still faces trial over deadly accident",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/22/lorry-driver-in-fru-crash-cleared-of-stolen-cow-case-but-still-faces-trial-over-deadly-accident/224761",
+      "source": "Malay Mail",
+      "published": "2026-06-22T09:08:12",
+      "summary": "TELUK INTAN, June 22 — The lorry driver facing a charge of dangerous driving that caused the deaths of nine Federa...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Two couples plead not guilty in Johor Bahru to charges of abusing and intimidating maids",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/22/two-couples-plead-not-guilty-in-johor-bahru-to-charges-of-abusing-and-intimidating-maids/224760",
+      "source": "Malay Mail",
+      "published": "2026-06-22T08:55:25",
+      "summary": "JOHOR BAHRU, June 22 — Two married couples claimed trial in the Magistrates’ Court here today to charges of...",
+      "keywords_matched": [
+        "trial"
+      ]
     }
   ]
 }
