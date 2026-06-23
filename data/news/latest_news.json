@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-23T00:04:01.527881",
+  "fetched": "2026-06-23T04:58:45.707894",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,27 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "I Quit — Rejected Palliative Medicine Subspecialty Training Applicant",
+      "url": "https://codeblue.galencentre.org/2026/06/i-quit-rejected-palliative-medicine-subspecialty-training-applicant/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-23T03:30:00",
+      "summary": "Despite the well-recognised shortage of palliative medicine physicians nationwide, my application was unsuccessful. I have made the difficult decision to resign from the Ministry of Health and pursue my career in the private sector as a general specialist. The post I Quit — Rejected Palliative Medicine Subspecialty Training Applicant appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medicine"
+      ]
+    },
+    {
+      "title": "Food Subsidies Spared From Budget Cuts: Agriculture Ministry",
+      "url": "https://codeblue.galencentre.org/2026/06/food-subsidies-spared-from-budget-cuts-agriculture-ministry/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-23T02:00:00",
+      "summary": "Agriculture Ministry sec-gen Isham Ishak says food production subsidies remain protected, despite spending cuts across ministries. KPKM is also planning a Food Security Act to provide long-term legal, financial, and policy support for food security. The post Food Subsidies Spared From Budget Cuts: Agriculture Ministry appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Caught Between Ayam Gepuk And Weight Loss Injections: A Public Health Warning For Malaysia’s Youth — Nor Zehan Ahmad, Dr Noor Hanita Zaini & Dr Noor Hasliza Che Seman",
       "url": "https://codeblue.galencentre.org/2026/06/caught-between-ayam-gepuk-and-weight-loss-injections-a-public-health-warning-for-malaysias-youth-nor-zehan-ahmad-dr-noor-hanita-zaini-dr-noor-hasliza-che-seman/",
@@ -85,28 +104,6 @@
       ]
     },
     {
-      "title": "A Specialist Blocked At Home Is A Specialist Recruited Abroad — MMA",
-      "url": "https://codeblue.galencentre.org/2026/06/a-specialist-blocked-at-home-is-a-specialist-recruited-abroad-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-19T06:00:00",
-      "summary": "A specialist blocked at home is a specialist recruited abroad. And the patient left behind is in a public hospital. The post A Specialist Blocked At Home Is A Specialist Recruited Abroad — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "patient",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Growing Old Without Growing Poor",
-      "url": "https://codeblue.galencentre.org/2026/06/growing-old-without-growing-poor/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-19T03:30:00",
-      "summary": "If Malaysia chooses to act now — on retirement income, social security, health care and family support — we can ensure that our citizens grow old without growing poor. The post Growing Old Without Growing Poor appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
       "title": "Above our rooftops: A beginner’s guide to the Low Altitude Economy",
       "url": "https://www.malaymail.com/news/malaysia/2026/06/23/above-our-rooftops-a-beginners-guide-to-the-low-altitude-economy/224517",
       "source": "Malay Mail",
@@ -114,26 +111,6 @@
       "summary": "KUALA LUMPUR, June 23 — Imagine a future where medicine is delivered by drone, emergency responders can fly blood...",
       "keywords_matched": [
         "medicine"
-      ]
-    },
-    {
-      "title": "Lorry driver in FRU crash cleared of stolen cow case but still faces trial over deadly accident",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/22/lorry-driver-in-fru-crash-cleared-of-stolen-cow-case-but-still-faces-trial-over-deadly-accident/224761",
-      "source": "Malay Mail",
-      "published": "2026-06-22T09:08:12",
-      "summary": "TELUK INTAN, June 22 — The lorry driver facing a charge of dangerous driving that caused the deaths of nine Federa...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Two couples plead not guilty in Johor Bahru to charges of abusing and intimidating maids",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/22/two-couples-plead-not-guilty-in-johor-bahru-to-charges-of-abusing-and-intimidating-maids/224760",
-      "source": "Malay Mail",
-      "published": "2026-06-22T08:55:25",
-      "summary": "JOHOR BAHRU, June 22 — Two married couples claimed trial in the Magistrates’ Court here today to charges of...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
