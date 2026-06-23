@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-23T08:33:11.167800",
+  "fetched": "2026-06-23T12:05:21.173706",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Strengthening Malaysia’s Future Subspecialist Workforce Development — College Of Physicians Malaysia",
+      "url": "https://codeblue.galencentre.org/2026/06/strengthening-malaysias-future-subspecialist-workforce-development-college-of-physicians-malaysia/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-23T08:57:26",
+      "summary": "The College is concerned that unresolved issues relating to LNPT and the recognition of service performed during recognised training programmes may inadvertently disadvantage MMed-trained physicians and delay progression towards subspecialty training. The post Strengthening Malaysia’s Future Subspecialist Workforce Development — College Of Physicians Malaysia appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "I Quit — Rejected Palliative Medicine Subspecialty Training Applicant",
       "url": "https://codeblue.galencentre.org/2026/06/i-quit-rejected-palliative-medicine-subspecialty-training-applicant/",
@@ -92,25 +100,13 @@
       ]
     },
     {
-      "title": "Defusing The Bomb: Fixing Malaysia’s NCD Crisis Before It’s Too Late — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/06/defusing-the-bomb-fixing-malaysias-ncd-crisis-before-its-too-late-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-19T07:30:00",
-      "summary": "Every ringgit we continue to pour into sugar subsidies is a ringgit stolen from dialysis chairs, from cancer treatment, from the nurses and doctors who hold the system together. The post Defusing The Bomb: Fixing Malaysia’s NCD Crisis Before It’s Too Late — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
-      "keywords_matched": [
-        "treatment",
-        "cancer",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Education Ministry orders immediate school interventions for students showing mental health warning signs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/23/education-ministry-orders-immediate-school-interventions-for-students-showing-mental-health-warning-signs/224859",
+      "title": "From syabu to fentanyl, synthetic scourge fuels 70pc of Malaysia’s 192,000 abuse cases, says Saifuddin Nasution",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/23/from-syabu-to-fentanyl-synthetic-scourge-fuels-70pc-of-malaysias-192000-abuse-cases-says-saifuddin-nasution/224875",
       "source": "Malay Mail",
-      "published": "2026-06-23T07:22:52",
-      "summary": "JOHOR BAHRU, June 23 — The Ministry of Education (MOE) has urged schools to carry out immediate interventions for...",
+      "published": "2026-06-23T08:56:45",
+      "summary": "KUALA LUMPUR, June 23 — Synthetic drug abuse in the country continues to present a worrying situation, with 141,81...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     }
   ]
