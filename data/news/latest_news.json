@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-23T12:05:21.173706",
+  "fetched": "2026-06-23T15:46:16.054234",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Strengthening Malaysia’s Future Subspecialist Workforce Development — College Of Physicians Malaysia",
@@ -97,6 +97,18 @@
       "summary": "Dengue affects all age groups, from young children to the elderly, and infection can happen more than once because there are four different strains of the virus. The post Three Generations, Two Battles: How Dengue Stole What Mattered Most appeared first on CodeBlue .",
       "keywords_matched": [
         "virus"
+      ]
+    },
+    {
+      "title": "Health minister says MMC registers 854 overseas‑qualified doctors as specialists between January and May",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/23/health-minister-says-mmc-registers-854-overseasqualified-doctors-as-specialists-between-january-and-may/224898",
+      "source": "Malay Mail",
+      "published": "2026-06-23T12:25:40",
+      "summary": "KUALA LUMPUR, June 23 — The Malaysian Medical Council (MMC) has registered 854 overseas-qualified medical practiti...",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "doctor"
       ]
     },
     {
