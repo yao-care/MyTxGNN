@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-22T22:46:14.263850",
+  "fetched": "2026-06-23T00:04:01.527881",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Caught Between Ayam Gepuk And Weight Loss Injections: A Public Health Warning For Malaysia’s Youth — Nor Zehan Ahmad, Dr Noor Hanita Zaini & Dr Noor Hasliza Che Seman",
@@ -104,6 +104,16 @@
       "summary": "If Malaysia chooses to act now — on retirement income, social security, health care and family support — we can ensure that our citizens grow old without growing poor. The post Growing Old Without Growing Poor appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Above our rooftops: A beginner’s guide to the Low Altitude Economy",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/23/above-our-rooftops-a-beginners-guide-to-the-low-altitude-economy/224517",
+      "source": "Malay Mail",
+      "published": "2026-06-22T23:00:00",
+      "summary": "KUALA LUMPUR, June 23 — Imagine a future where medicine is delivered by drone, emergency responders can fly blood...",
+      "keywords_matched": [
+        "medicine"
       ]
     },
     {
