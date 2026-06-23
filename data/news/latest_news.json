@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-23T22:10:06.725063",
+  "fetched": "2026-06-23T23:54:51.429153",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Strengthening Malaysia’s Future Subspecialist Workforce Development — College Of Physicians Malaysia",
@@ -97,6 +97,18 @@
       "summary": "Dengue affects all age groups, from young children to the elderly, and infection can happen more than once because there are four different strains of the virus. The post Three Generations, Two Battles: How Dengue Stole What Mattered Most appeared first on CodeBlue .",
       "keywords_matched": [
         "virus"
+      ]
+    },
+    {
+      "title": "Before dawn, before work: The long road for some outstation cancer patients who travel to Penang for treatment",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/24/before-dawn-before-work-the-long-road-for-some-outstation-cancer-patients-who-travel-to-penang-for-treatment/224430",
+      "source": "Malay Mail",
+      "published": "2026-06-23T23:00:00",
+      "summary": "GEORGE TOWN, June 24 — At least once a month, Noraziliana Ahmad who lives in Sungai Petani, Kedah, wakes up early...",
+      "keywords_matched": [
+        "treatment",
+        "cancer",
+        "patient"
       ]
     },
     {
