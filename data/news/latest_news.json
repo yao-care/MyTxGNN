@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-24T07:38:32.289183",
+  "fetched": "2026-06-24T10:47:28.165210",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "The Collapse Of Malaysian Public Health Care: Not A Doomsday Prediction, But A Reality Already Here — Subspecialist",
@@ -103,6 +103,16 @@
       "published": "2026-06-22T02:00:00",
       "summary": "Despite the US-Iran peace deal, KPKM sec-gen Isham Ishak expects prices of fuel, fertiliser, and animal feed to stay high for two years, but says Malaysia has enough fertiliser supply till end 2026 and food for next year. El Niño may hit veggie production. The post Despite US-Iran Peace Deal, Agriculture Ministry Expects Market Disruptions For Two Years appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "KLIA drug crackdown nets 653kg of cannabis buds, 38 arrests this year",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/24/klia-drug-crackdown-nets-653kg-of-cannabis-buds-38-arrests-this-year/225020",
+      "source": "Malay Mail",
+      "published": "2026-06-24T09:17:50",
+      "summary": "SHAH ALAM, June 24 — Police have seized a total of 653.6 kilogrammes (kg) of cannabis buds at the Kuala...",
+      "keywords_matched": [
+        "drug"
+      ]
     }
   ]
 }
