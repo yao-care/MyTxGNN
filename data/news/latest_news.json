@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-24T10:47:28.165210",
+  "fetched": "2026-06-24T13:20:54.808207",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
     {
       "title": "The Collapse Of Malaysian Public Health Care: Not A Doomsday Prediction, But A Reality Already Here — Subspecialist",
@@ -103,6 +103,26 @@
       "published": "2026-06-22T02:00:00",
       "summary": "Despite the US-Iran peace deal, KPKM sec-gen Isham Ishak expects prices of fuel, fertiliser, and animal feed to stay high for two years, but says Malaysia has enough fertiliser supply till end 2026 and food for next year. El Niño may hit veggie production. The post Despite US-Iran Peace Deal, Agriculture Ministry Expects Market Disruptions For Two Years appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Occupational safety department investigating fatal accident at Sungai Buloh water tank cleaning site",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/24/occupational-safety-department-investigating-fatal-accident-at-sungai-buloh-water-tank-cleaning-site/225048",
+      "source": "Malay Mail",
+      "published": "2026-06-24T11:52:12",
+      "summary": "PUTRAJAYA, June 24 — The Department of Occupational Safety and Health (DOSH) is investigating a fatal workplace ac...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Not out to get you: New Section 42A meant to rein in illegal racing, dangerous speed trials",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/24/not-out-to-get-you-new-section-42a-meant-to-rein-in-illegal-racing-dangerous-speed-trials/225033",
+      "source": "Malay Mail",
+      "published": "2026-06-24T10:32:17",
+      "summary": "KUALA LUMPUR, June 24 — Transport Minister Anthony Loke has clarified that the new Section 42A under the Road Tran...",
+      "keywords_matched": [
+        "trial"
+      ]
     },
     {
       "title": "KLIA drug crackdown nets 653kg of cannabis buds, 38 arrests this year",
