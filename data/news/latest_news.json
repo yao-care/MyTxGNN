@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-24T03:27:09.731699",
+  "fetched": "2026-06-24T07:38:32.289183",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "The Collapse Of Malaysian Public Health Care: Not A Doomsday Prediction, But A Reality Already Here — Subspecialist",
+      "url": "https://codeblue.galencentre.org/2026/06/the-collapse-of-malaysian-public-health-care-not-a-doomsday-prediction-but-a-reality-already-here-subspecialist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-24T06:00:00",
+      "summary": "If meaningful action is not taken now, future generations may look back on this period as the moment Malaysia's public health care system crossed a threshold from which recovery became exponentially more difficult. The post The Collapse Of Malaysian Public Health Care: Not A Doomsday Prediction, But A Reality Already Here — Subspecialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "The Couch Is The Killer: Why Malaysia Must Redesign Movement, Not Just Medicine — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/06/the-couch-is-the-killer-why-malaysia-must-redesign-movement-not-just-medicine-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-24T03:30:00",
+      "summary": "Malaysia is the fattest nation in Southeast Asia, and we are paying for it with kidneys that fail, hearts that give out, and a public health system that is buckling under the weight of preventable illness. The post The Couch Is The Killer: Why Malaysia Must Redesign Movement, Not Just Medicine — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medicine"
+      ]
+    },
     {
       "title": "Ministers, Officials Go Around The World On 50 Trips In 50 Days",
       "url": "https://codeblue.galencentre.org/2026/06/ministers-officials-go-around-the-world-on-50-trips-in-50-days/",
@@ -82,32 +103,6 @@
       "published": "2026-06-22T02:00:00",
       "summary": "Despite the US-Iran peace deal, KPKM sec-gen Isham Ishak expects prices of fuel, fertiliser, and animal feed to stay high for two years, but says Malaysia has enough fertiliser supply till end 2026 and food for next year. El Niño may hit veggie production. The post Despite US-Iran Peace Deal, Agriculture Ministry Expects Market Disruptions For Two Years appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Animal Production, Veterinary Industry Conferences To Merge Under Gavis 2026",
-      "url": "https://codeblue.galencentre.org/2026/06/animal-production-veterinary-industry-conferences-to-merge-under-gavis-2026/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-19T09:14:31",
-      "summary": "Ten annual conferences by associations in the animal production and veterinary industries, traditionally held separately, will instead be combined under the inaugural Gavis 2026 summit from July 21-23 in Putrajaya to save costs and time for participants. The post Animal Production, Veterinary Industry Conferences To Merge Under Gavis 2026 appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Is Male Infertility The Missing Piece? When Men Need To Be Part Of The Fertility Conversation",
-      "url": "https://codeblue.galencentre.org/2026/06/is-male-infertility-the-missing-piece-when-men-need-to-be-part-of-the-fertility-conversation/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-19T08:18:55",
-      "summary": "When a couple struggles to conceive, it is rarely a one-sided story. Yet for decades, the fertility spotlight has shone almost exclusively on women. It is time to change that conversation – and science is firmly on our side. The post Is Male Infertility The Missing Piece? When Men Need To Be Part Of The Fertility Conversation appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Lim Guan Eng, wife to stand trial over RM11.6m Penang project-linked graft case",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/24/lim-guan-eng-wife-to-stand-trial-over-rm116m-penang-project-linked-graft-case/224932",
-      "source": "Malay Mail",
-      "published": "2026-06-24T02:09:04",
-      "summary": "KUALA LUMPUR, June 24 — DAP adviser Lim Guan Eng, his wife Betty Chew and businesswoman Phang Li Koon will stand t...",
-      "keywords_matched": [
-        "trial"
-      ]
     }
   ]
 }
