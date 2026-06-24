@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-23T23:54:51.429153",
+  "fetched": "2026-06-24T03:27:09.731699",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Ministers, Officials Go Around The World On 50 Trips In 50 Days",
+      "url": "https://codeblue.galencentre.org/2026/06/ministers-officials-go-around-the-world-on-50-trips-in-50-days/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-24T02:00:00",
+      "summary": "PM, KSN, ministers, deputies, and officials from 22 ministries travelled abroad on at least 50 trips in 50 days from May 1 to Asia, Europe, UK, US, and Australasia, averaging at one daily overseas visit even as steep budget cuts squeeze the health service. The post Ministers, Officials Go Around The World On 50 Trips In 50 Days appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Strengthening Malaysia’s Future Subspecialist Workforce Development — College Of Physicians Malaysia",
       "url": "https://codeblue.galencentre.org/2026/06/strengthening-malaysias-future-subspecialist-workforce-development-college-of-physicians-malaysia/",
@@ -90,47 +100,13 @@
       "keywords_matched": []
     },
     {
-      "title": "Three Generations, Two Battles: How Dengue Stole What Mattered Most",
-      "url": "https://codeblue.galencentre.org/2026/06/three-generations-two-battles-how-dengue-stole-what-mattered-most/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-19T07:32:26",
-      "summary": "Dengue affects all age groups, from young children to the elderly, and infection can happen more than once because there are four different strains of the virus. The post Three Generations, Two Battles: How Dengue Stole What Mattered Most appeared first on CodeBlue .",
-      "keywords_matched": [
-        "virus"
-      ]
-    },
-    {
-      "title": "Before dawn, before work: The long road for some outstation cancer patients who travel to Penang for treatment",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/24/before-dawn-before-work-the-long-road-for-some-outstation-cancer-patients-who-travel-to-penang-for-treatment/224430",
+      "title": "Lim Guan Eng, wife to stand trial over RM11.6m Penang project-linked graft case",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/24/lim-guan-eng-wife-to-stand-trial-over-rm116m-penang-project-linked-graft-case/224932",
       "source": "Malay Mail",
-      "published": "2026-06-23T23:00:00",
-      "summary": "GEORGE TOWN, June 24 — At least once a month, Noraziliana Ahmad who lives in Sungai Petani, Kedah, wakes up early...",
+      "published": "2026-06-24T02:09:04",
+      "summary": "KUALA LUMPUR, June 24 — DAP adviser Lim Guan Eng, his wife Betty Chew and businesswoman Phang Li Koon will stand t...",
       "keywords_matched": [
-        "treatment",
-        "cancer",
-        "patient"
-      ]
-    },
-    {
-      "title": "Health minister says MMC registers 854 overseas‑qualified doctors as specialists between January and May",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/23/health-minister-says-mmc-registers-854-overseasqualified-doctors-as-specialists-between-january-and-may/224898",
-      "source": "Malay Mail",
-      "published": "2026-06-23T12:25:40",
-      "summary": "KUALA LUMPUR, June 23 — The Malaysian Medical Council (MMC) has registered 854 overseas-qualified medical practiti...",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "From syabu to fentanyl, synthetic scourge fuels 70pc of Malaysia’s 192,000 abuse cases, says Saifuddin Nasution",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/23/from-syabu-to-fentanyl-synthetic-scourge-fuels-70pc-of-malaysias-192000-abuse-cases-says-saifuddin-nasution/224875",
-      "source": "Malay Mail",
-      "published": "2026-06-23T08:56:45",
-      "summary": "KUALA LUMPUR, June 23 — Synthetic drug abuse in the country continues to present a worrying situation, with 141,81...",
-      "keywords_matched": [
-        "drug"
+        "trial"
       ]
     }
   ]
