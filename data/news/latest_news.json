@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-25T00:10:53.551057",
+  "fetched": "2026-06-25T05:03:41.601360",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,31 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
+    {
+      "title": "After Decade-Long Freeze, Ex-MOH Official Demands Annual Cigarette Tax Hikes",
+      "url": "https://codeblue.galencentre.org/2026/06/after-decade-long-freeze-ex-moh-official-demands-annual-cigarette-tax-hikes/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-25T03:30:00",
+      "summary": "Ex-MOH public health chief Lokman Hakim wants annual 5% cigarette tax hikes after a decade-long freeze, as smoking has become more affordable. MOF says it focused on curbing illicit cigarettes. Researchers blame smuggling on weak enforcement, not taxes. The post After Decade-Long Freeze, Ex-MOH Official Demands Annual Cigarette Tax Hikes appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "When Austerity Has Different Boarding Passes — Concerned Doctor",
+      "url": "https://codeblue.galencentre.org/2026/06/when-austerity-has-different-boarding-passes-concerned-doctor/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-25T02:00:00",
+      "summary": "The government must publish the cost of its 50 overseas trips taken in 50 days. Hospitals are expected to justify every expenditure. The public deserves to understand the choice to impose austerity in health care but to allow numerous international visits. The post When Austerity Has Different Boarding Passes — Concerned Doctor appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "The Collapse Of Malaysian Public Health Care: Not A Doomsday Prediction, But A Reality Already Here — Subspecialist",
       "url": "https://codeblue.galencentre.org/2026/06/the-collapse-of-malaysian-public-health-care-not-a-doomsday-prediction-but-a-reality-already-here-subspecialist/",
@@ -89,20 +112,24 @@
       ]
     },
     {
-      "title": "Response To MOH’s Explanation On Subspecialty Training Rejections — Specialist",
-      "url": "https://codeblue.galencentre.org/2026/06/response-to-mohs-explanation-on-subspecialty-training-rejections-specialist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-22T03:30:00",
-      "summary": "MOH's non-explanation on the subspecialty training rejections points fingers in all directions. Some subspecialties were forced to accept zero candidates despite endorsements, while others saw a reduction of more than 80% intake compared to previous years. The post Response To MOH’s Explanation On Subspecialty Training Rejections — Specialist appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Kedah exco Haim Hilman claims trial over PAS ceramah statement on university admissions",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/25/kedah-exco-haim-hilman-claims-trial-over-pas-ceramah-statement-on-university-admissions/225100",
+      "source": "Malay Mail",
+      "published": "2026-06-25T03:16:51",
+      "summary": "KUALA LUMPUR, June 25 — Kedah state executive councillor Haim Hilman Abdullah pleaded not guilty today to a...",
+      "keywords_matched": [
+        "trial"
+      ]
     },
     {
-      "title": "Despite US-Iran Peace Deal, Agriculture Ministry Expects Market Disruptions For Two Years",
-      "url": "https://codeblue.galencentre.org/2026/06/despite-us-iran-peace-deal-agriculture-ministry-expects-market-disruptions-for-two-years/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-22T02:00:00",
-      "summary": "Despite the US-Iran peace deal, KPKM sec-gen Isham Ishak expects prices of fuel, fertiliser, and animal feed to stay high for two years, but says Malaysia has enough fertiliser supply till end 2026 and food for next year. El Niño may hit veggie production. The post Despite US-Iran Peace Deal, Agriculture Ministry Expects Market Disruptions For Two Years appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Ketamine and Erimin 5 ring smashed in Perak, 17-year-old among three suspects",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/25/ketamine-and-erimin-5-ring-smashed-in-perak-17-year-old-among-three-suspects/225068",
+      "source": "Malay Mail",
+      "published": "2026-06-25T01:09:14",
+      "summary": "IPOH, June 25 — Police arrested three individuals, including a 17-year-old, after dismantling a drug trafficking s...",
+      "keywords_matched": [
+        "drug"
+      ]
     },
     {
       "title": "Occupational safety department investigating fatal accident at Sungai Buloh water tank cleaning site",
@@ -122,16 +149,6 @@
       "summary": "KUALA LUMPUR, June 24 — Transport Minister Anthony Loke has clarified that the new Section 42A under the Road Tran...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "KLIA drug crackdown nets 653kg of cannabis buds, 38 arrests this year",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/24/klia-drug-crackdown-nets-653kg-of-cannabis-buds-38-arrests-this-year/225020",
-      "source": "Malay Mail",
-      "published": "2026-06-24T09:17:50",
-      "summary": "SHAH ALAM, June 24 — Police have seized a total of 653.6 kilogrammes (kg) of cannabis buds at the Kuala...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
