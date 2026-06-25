@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-25T05:03:41.601360",
+  "fetched": "2026-06-25T09:18:37.651507",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,50 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
+    {
+      "title": "The Corporate Scalpel: How Malaysia’s Private Hospitals Are Quietly Reshaping The Fight Against NCDs — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/06/the-corporate-scalpel-how-malaysias-private-hospitals-are-quietly-reshaping-the-fight-against-ncds-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-25T07:30:00",
+      "summary": "The old caricature of private health care as an exclusive sanctuary for the wealthy – selling speed, reassurance and escape from public friction – is no longer the whole truth. The post The Corporate Scalpel: How Malaysia’s Private Hospitals Are Quietly Reshaping The Fight Against NCDs — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "PAC Report Confirms Need For Urgent Regulatory Reforms In Private Health Care",
+      "url": "https://codeblue.galencentre.org/2026/06/pac-report-confirms-need-for-urgent-regulatory-reforms-in-private-health-care/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-25T07:15:15",
+      "summary": "The Galen Centre strongly supports the PAC’s recommendation for a new and independent governance mechanism for private health care. The government should establish a statutory Private Healthcare Commission with an explicit consumer protection mandate. The post PAC Report Confirms Need For Urgent Regulatory Reforms In Private Health Care appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "PAC Blames Insurance, Hospitals For Rising Premiums, Health Care Costs",
+      "url": "https://codeblue.galencentre.org/2026/06/pac-blames-insurance-hospitals-for-rising-premiums-health-care-costs/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-25T05:50:00",
+      "summary": "The PAC blames the systemic design of health insurance and private hospital charges for rising premiums and health care costs, citing risk selection in insurance and opaque cross-subsidies in hospitals. The PAC wants a new consumer protection structure. The post PAC Blames Insurance, Hospitals For Rising Premiums, Health Care Costs appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "The Other Side Of The Table — Dr Loshi Rajen",
+      "url": "https://codeblue.galencentre.org/2026/06/the-other-side-of-the-table-dr-loshi-rajen/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-25T05:42:51",
+      "summary": "One day you are the nervous student trying desperately to survive the next station. Then somehow, you find yourself sitting on the other side of the table. The post The Other Side Of The Table — Dr Loshi Rajen appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "After Decade-Long Freeze, Ex-MOH Official Demands Annual Cigarette Tax Hikes",
       "url": "https://codeblue.galencentre.org/2026/06/after-decade-long-freeze-ex-moh-official-demands-annual-cigarette-tax-hikes/",
@@ -72,83 +114,13 @@
       "keywords_matched": []
     },
     {
-      "title": "I Quit — Rejected Palliative Medicine Subspecialty Training Applicant",
-      "url": "https://codeblue.galencentre.org/2026/06/i-quit-rejected-palliative-medicine-subspecialty-training-applicant/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-23T03:30:00",
-      "summary": "Despite the well-recognised shortage of palliative medicine physicians nationwide, my application was unsuccessful. I have made the difficult decision to resign from the Ministry of Health and pursue my career in the private sector as a general specialist. The post I Quit — Rejected Palliative Medicine Subspecialty Training Applicant appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medicine"
-      ]
-    },
-    {
-      "title": "Food Subsidies Spared From Budget Cuts: Agriculture Ministry",
-      "url": "https://codeblue.galencentre.org/2026/06/food-subsidies-spared-from-budget-cuts-agriculture-ministry/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-23T02:00:00",
-      "summary": "Agriculture Ministry sec-gen Isham Ishak says food production subsidies remain protected, despite spending cuts across ministries. KPKM is also planning a Food Security Act to provide long-term legal, financial, and policy support for food security. The post Food Subsidies Spared From Budget Cuts: Agriculture Ministry appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Caught Between Ayam Gepuk And Weight Loss Injections: A Public Health Warning For Malaysia’s Youth — Nor Zehan Ahmad, Dr Noor Hanita Zaini & Dr Noor Hasliza Che Seman",
-      "url": "https://codeblue.galencentre.org/2026/06/caught-between-ayam-gepuk-and-weight-loss-injections-a-public-health-warning-for-malaysias-youth-nor-zehan-ahmad-dr-noor-hanita-zaini-dr-noor-hasliza-che-seman/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-22T07:30:00",
-      "summary": "The generation caught between ayam gepuk and weight-loss injections should not be blamed. It is a generation growing up in a complex health environment. The real issue is not that young people enjoy food, but that insecurity has become a market. The post Caught Between Ayam Gepuk And Weight Loss Injections: A Public Health Warning For Malaysia’s Youth — Nor Zehan Ahmad, Dr Noor Hanita Zaini & Dr Noor Hasliza Che Seman appeared first on CodeBlue .",
+      "title": "Dzulkefly announces immediate RM805,700 allocation for Senawang health and dental clinics",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/25/dzulkefly-announces-immediate-rm805700-allocation-for-senawang-health-and-dental-clinics/225149",
+      "source": "Malay Mail",
+      "published": "2026-06-25T08:12:25",
+      "summary": "SEREMBAN, June 25 — The Health Ministry (MOH) has approved an immediate allocation of RM805,700 to enhance operati...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "SG Lim Concludes 2,200Km Run For Gold, Raises Over RM700,000 For Children With Cancer",
-      "url": "https://codeblue.galencentre.org/2026/06/sg-lim-concludes-2200km-run-for-gold-raises-over-rm700000-for-children-with-cancer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-22T05:30:40",
-      "summary": "Run for Gold draws inspiration from the Gold Ribbon, the universal symbol for childhood cancer awareness, representing the preciousness of children and the courage, strength, and resilience of young patients and their families. The post SG Lim Concludes 2,200Km Run For Gold, Raises Over RM700,000 For Children With Cancer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "cancer",
-        "patient"
-      ]
-    },
-    {
-      "title": "Kedah exco Haim Hilman claims trial over PAS ceramah statement on university admissions",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/25/kedah-exco-haim-hilman-claims-trial-over-pas-ceramah-statement-on-university-admissions/225100",
-      "source": "Malay Mail",
-      "published": "2026-06-25T03:16:51",
-      "summary": "KUALA LUMPUR, June 25 — Kedah state executive councillor Haim Hilman Abdullah pleaded not guilty today to a...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Ketamine and Erimin 5 ring smashed in Perak, 17-year-old among three suspects",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/25/ketamine-and-erimin-5-ring-smashed-in-perak-17-year-old-among-three-suspects/225068",
-      "source": "Malay Mail",
-      "published": "2026-06-25T01:09:14",
-      "summary": "IPOH, June 25 — Police arrested three individuals, including a 17-year-old, after dismantling a drug trafficking s...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Occupational safety department investigating fatal accident at Sungai Buloh water tank cleaning site",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/24/occupational-safety-department-investigating-fatal-accident-at-sungai-buloh-water-tank-cleaning-site/225048",
-      "source": "Malay Mail",
-      "published": "2026-06-24T11:52:12",
-      "summary": "PUTRAJAYA, June 24 — The Department of Occupational Safety and Health (DOSH) is investigating a fatal workplace ac...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Not out to get you: New Section 42A meant to rein in illegal racing, dangerous speed trials",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/24/not-out-to-get-you-new-section-42a-meant-to-rein-in-illegal-racing-dangerous-speed-trials/225033",
-      "source": "Malay Mail",
-      "published": "2026-06-24T10:32:17",
-      "summary": "KUALA LUMPUR, June 24 — Transport Minister Anthony Loke has clarified that the new Section 42A under the Road Tran...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
