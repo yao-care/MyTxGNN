@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-25T09:18:37.651507",
+  "fetched": "2026-06-25T12:17:40.052304",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -114,13 +114,15 @@
       "keywords_matched": []
     },
     {
-      "title": "Dzulkefly announces immediate RM805,700 allocation for Senawang health and dental clinics",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/25/dzulkefly-announces-immediate-rm805700-allocation-for-senawang-health-and-dental-clinics/225149",
+      "title": "PAC flags hospital billing practices, warns of drivers behind rising medical inflation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/25/pac-flags-hospital-billing-practices-warns-of-drivers-behind-rising-medical-inflation/225181",
       "source": "Malay Mail",
-      "published": "2026-06-25T08:12:25",
-      "summary": "SEREMBAN, June 25 — The Health Ministry (MOH) has approved an immediate allocation of RM805,700 to enhance operati...",
+      "published": "2026-06-25T10:34:20",
+      "summary": "KUALA LUMPUR, June 25 — The Parliamentary Accounts Committee (PAC) has raised concerns over private hospital billi...",
       "keywords_matched": [
-        "health"
+        "medical",
+        "hospital",
+        "hospital"
       ]
     }
   ]
