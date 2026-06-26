@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-26T21:16:21.495971",
+  "fetched": "2026-06-26T23:03:57.961039",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Joint Ministerial Committee Touts Base MHIT Pilot By End July",
@@ -108,16 +108,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Maserati, Alphard, Rolexes and RM6.3m in drugs seized in crackdown on alleged ‘Datuk’ kingpin",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/26/maserati-alphard-rolexes-and-rm63m-in-drugs-seized-in-crackdown-on-alleged-datuk-kingpin/225297",
-      "source": "Malay Mail",
-      "published": "2026-06-26T07:24:17",
-      "summary": "KUALA LUMPUR, June 26 — A man holding the title ‘Datuk’, believed to be the mastermind of a drug syndi...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
