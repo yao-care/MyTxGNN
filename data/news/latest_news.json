@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-26T05:06:50.913542",
+  "fetched": "2026-06-26T09:22:23.235310",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,26 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Pig Farm Numbers Fall 22%, KPKM Says Pork Supply Still Sufficient",
+      "url": "https://codeblue.galencentre.org/2026/06/pig-farm-numbers-fall-22-kpkm-says-pork-supply-still-sufficient/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-26T08:43:11",
+      "summary": "Malaysia’s registered pig farms fell 22% and pork production declined, but Agriculture Minister Mat Sabu says supply remains sufficient as imports can cover any shortfall. The ministry also targets higher chili and ginger self-sufficiency under the 13MP. The post Pig Farm Numbers Fall 22%, KPKM Says Pork Supply Still Sufficient appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "APHM Says Joint Ministerial Committee Addressing PAC Report",
+      "url": "https://codeblue.galencentre.org/2026/06/aphm-says-joint-ministerial-committee-addressing-pac-report/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-26T06:12:17",
+      "summary": "APHM says key pain points in the PAC's report on health insurance and private hospital charges are being addressed through the Joint Ministerial Committee, adding that it has engaged MOH to improve hospital bill transparency in private hospitals. The post APHM Says Joint Ministerial Committee Addressing PAC Report appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "MCA: Specify ROI Of Government’s 50 Overseas Trips",
       "url": "https://codeblue.galencentre.org/2026/06/mca-specify-roi-of-governments-50-overseas-trips/",
@@ -93,33 +113,13 @@
       ]
     },
     {
-      "title": "PAC Blames Insurance, Hospitals For Rising Premiums, Health Care Costs",
-      "url": "https://codeblue.galencentre.org/2026/06/pac-blames-insurance-hospitals-for-rising-premiums-health-care-costs/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-25T05:50:00",
-      "summary": "The PAC blames the systemic design of health insurance and private hospital charges for rising premiums and health care costs, citing risk selection in insurance and opaque cross-subsidies in hospitals. The PAC wants a new consumer protection structure. The post PAC Blames Insurance, Hospitals For Rising Premiums, Health Care Costs appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "The Other Side Of The Table — Dr Loshi Rajen",
-      "url": "https://codeblue.galencentre.org/2026/06/the-other-side-of-the-table-dr-loshi-rajen/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-25T05:42:51",
-      "summary": "One day you are the nervous student trying desperately to survive the next station. Then somehow, you find yourself sitting on the other side of the table. The post The Other Side Of The Table — Dr Loshi Rajen appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Woman accused of starving 41 cats in Subang Jaya apartment claims trial, granted RM10,000 bail",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/26/woman-accused-of-starving-41-cats-in-subang-jaya-apartment-claims-trial-granted-rm10000-bail/225260",
+      "title": "Maserati, Alphard, Rolexes and RM6.3m in drugs seized in crackdown on alleged ‘Datuk’ kingpin",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/26/maserati-alphard-rolexes-and-rm63m-in-drugs-seized-in-crackdown-on-alleged-datuk-kingpin/225297",
       "source": "Malay Mail",
-      "published": "2026-06-26T04:36:18",
-      "summary": "KUALA LUMPUR, June 26 — A freelance worker pleaded not guilty in the Petaling Jaya Sessions Court today to two ani...",
+      "published": "2026-06-26T07:24:17",
+      "summary": "KUALA LUMPUR, June 26 — A man holding the title ‘Datuk’, believed to be the mastermind of a drug syndi...",
       "keywords_matched": [
-        "trial"
+        "drug"
       ]
     }
   ]
