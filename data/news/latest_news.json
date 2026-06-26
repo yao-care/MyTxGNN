@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-26T09:22:23.235310",
+  "fetched": "2026-06-26T12:09:42.955207",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Joint Ministerial Committee Touts Base MHIT Pilot By End July",
+      "url": "https://codeblue.galencentre.org/2026/06/joint-ministerial-committee-touts-base-mhit-pilot-by-end-july/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-26T09:25:03",
+      "summary": "In response to the PAC's report, the Joint Ministerial Committee says the base MHIT product will be piloted by the end of July, claiming that \"significant progress\" has been made across its Reset strategy, including a phased adoption of DRG. The post Joint Ministerial Committee Touts Base MHIT Pilot By End July appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Pig Farm Numbers Fall 22%, KPKM Says Pork Supply Still Sufficient",
       "url": "https://codeblue.galencentre.org/2026/06/pig-farm-numbers-fall-22-kpkm-says-pork-supply-still-sufficient/",
@@ -100,16 +108,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "PAC Report Confirms Need For Urgent Regulatory Reforms In Private Health Care",
-      "url": "https://codeblue.galencentre.org/2026/06/pac-report-confirms-need-for-urgent-regulatory-reforms-in-private-health-care/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-25T07:15:15",
-      "summary": "The Galen Centre strongly supports the PAC’s recommendation for a new and independent governance mechanism for private health care. The government should establish a statutory Private Healthcare Commission with an explicit consumer protection mandate. The post PAC Report Confirms Need For Urgent Regulatory Reforms In Private Health Care appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
       ]
     },
     {
