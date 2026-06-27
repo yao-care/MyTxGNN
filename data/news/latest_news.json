@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-27T06:28:40.768587",
+  "fetched": "2026-06-27T09:26:59.851523",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Joint Ministerial Committee Touts Base MHIT Pilot By End July",
@@ -111,23 +111,35 @@
       ]
     },
     {
-      "title": "Former health minister Dr Adham Baba makes political comeback in three-way Pasir Raja contest",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/27/former-health-minister-dr-adham-baba-makes-political-comeback-in-three-way-pasir-raja-contest/225404",
+      "title": "In Malaysia, one in four rehab patients now battling addiction and mental illness",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/27/in-malaysia-one-in-four-rehab-patients-now-battling-addiction-and-mental-illness/225441",
       "source": "Malay Mail",
-      "published": "2026-06-27T04:16:32",
-      "summary": "KOTA TINGGI, June 27 — Former Health Minister Datuk Seri Dr Adham Baba will make his electoral comeback in a...",
+      "published": "2026-06-27T07:20:52",
+      "summary": "KEPALA BATAS, June 27 — More than one in four drug abusers undergoing rehabilitation in Malaysia this year have al...",
       "keywords_matched": [
-        "health"
+        "drug",
+        "patient"
       ]
     },
     {
-      "title": "MOH website hacked, ministry warns Malaysians avoid site and rely on verified platforms",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/27/moh-website-hacked-ministry-warns-malaysians-avoid-site-and-rely-on-verified-platforms/225402",
+      "title": "Prescription for trouble: Unlicensed doctor at Subang Bestari clinic nabbed after eight months of cut-price consultations",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/27/prescription-for-trouble-unlicensed-doctor-at-subang-bestari-clinic-nabbed-after-eight-months-of-cut-price-consultations/225434",
       "source": "Malay Mail",
-      "published": "2026-06-27T04:14:25",
-      "summary": "PUTRAJAYA, June 27 — Malaysia’s Health Ministry has confirmed its official website was hacked after the port...",
+      "published": "2026-06-27T06:55:28",
+      "summary": "KUALA LUMPUR, June 28 — A Pakistani man suspected of posing as an unlicensed doctor has been detained after Immigr...",
       "keywords_matched": [
-        "health"
+        "doctor"
+      ]
+    },
+    {
+      "title": "DUKE highway crash: Police confirm two students burnt to death in BMW blaze, survivor hospitalised",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/27/duke-highway-crash-police-confirm-two-students-burnt-to-death-in-bmw-blaze-survivor-hospitalised/225421",
+      "source": "Malay Mail",
+      "published": "2026-06-27T07:46:06",
+      "summary": "KUALA LUMPUR, June 27 — Two university students were burnt to death in a crash involving a car at the Jalan Kuchin...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
