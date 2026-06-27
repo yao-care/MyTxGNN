@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-27T02:55:11.179093",
+  "fetched": "2026-06-27T06:28:40.768587",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Joint Ministerial Committee Touts Base MHIT Pilot By End July",
@@ -111,13 +111,23 @@
       ]
     },
     {
-      "title": "SUV driver tests positive for drugs after crashing into five vehicles in Klang",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/27/suv-driver-tests-positive-for-drugs-after-crashing-into-five-vehicles-in-klang/225367",
+      "title": "Former health minister Dr Adham Baba makes political comeback in three-way Pasir Raja contest",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/27/former-health-minister-dr-adham-baba-makes-political-comeback-in-three-way-pasir-raja-contest/225404",
       "source": "Malay Mail",
-      "published": "2026-06-27T01:13:23",
-      "summary": "SHAH ALAM, June 27 — A man, believed to be under the influence of drugs, driving an sports utility vehi...",
+      "published": "2026-06-27T04:16:32",
+      "summary": "KOTA TINGGI, June 27 — Former Health Minister Datuk Seri Dr Adham Baba will make his electoral comeback in a...",
       "keywords_matched": [
-        "drug"
+        "health"
+      ]
+    },
+    {
+      "title": "MOH website hacked, ministry warns Malaysians avoid site and rely on verified platforms",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/27/moh-website-hacked-ministry-warns-malaysians-avoid-site-and-rely-on-verified-platforms/225402",
+      "source": "Malay Mail",
+      "published": "2026-06-27T04:14:25",
+      "summary": "PUTRAJAYA, June 27 — Malaysia’s Health Ministry has confirmed its official website was hacked after the port...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
