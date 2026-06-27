@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-27T09:26:59.851523",
+  "fetched": "2026-06-27T11:25:47.151546",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Joint Ministerial Committee Touts Base MHIT Pilot By End July",
@@ -129,17 +129,6 @@
       "summary": "KUALA LUMPUR, June 28 — A Pakistani man suspected of posing as an unlicensed doctor has been detained after Immigr...",
       "keywords_matched": [
         "doctor"
-      ]
-    },
-    {
-      "title": "DUKE highway crash: Police confirm two students burnt to death in BMW blaze, survivor hospitalised",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/27/duke-highway-crash-police-confirm-two-students-burnt-to-death-in-bmw-blaze-survivor-hospitalised/225421",
-      "source": "Malay Mail",
-      "published": "2026-06-27T07:46:06",
-      "summary": "KUALA LUMPUR, June 27 — Two university students were burnt to death in a crash involving a car at the Jalan Kuchin...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
