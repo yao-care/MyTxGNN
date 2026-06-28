@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-27T23:00:24.416675",
+  "fetched": "2026-06-28T03:38:16.036799",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Joint Ministerial Committee Touts Base MHIT Pilot By End July",
@@ -108,27 +108,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "In Malaysia, one in four rehab patients now battling addiction and mental illness",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/27/in-malaysia-one-in-four-rehab-patients-now-battling-addiction-and-mental-illness/225441",
-      "source": "Malay Mail",
-      "published": "2026-06-27T07:20:52",
-      "summary": "KEPALA BATAS, June 27 — More than one in four drug abusers undergoing rehabilitation in Malaysia this year have al...",
-      "keywords_matched": [
-        "drug",
-        "patient"
-      ]
-    },
-    {
-      "title": "Prescription for trouble: Unlicensed doctor at Subang Bestari clinic nabbed after eight months of cut-price consultations",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/27/prescription-for-trouble-unlicensed-doctor-at-subang-bestari-clinic-nabbed-after-eight-months-of-cut-price-consultations/225434",
-      "source": "Malay Mail",
-      "published": "2026-06-27T06:55:28",
-      "summary": "KUALA LUMPUR, June 28 — A Pakistani man suspected of posing as an unlicensed doctor has been detained after Immigr...",
-      "keywords_matched": [
-        "doctor"
       ]
     }
   ]
