@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-29T05:48:30.177375",
+  "fetched": "2026-06-29T10:54:19.108067",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,40 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Nearly Nine In 10 Individuals Have Two Or More Cardio-Renal-Metabolic Risk Factors",
+      "url": "https://codeblue.galencentre.org/2026/06/nearly-nine-in-10-individuals-have-two-or-more-cardio-renal-metabolic-risk-factors/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-29T07:21:47",
+      "summary": "Policy briefs launched by National Cancer Society Malaysia and Boehringer Ingelheim highlights significant rates of co-existing cardiovascular, kidney, and metabolic diseases among Malaysians. The post Nearly Nine In 10 Individuals Have Two Or More Cardio-Renal-Metabolic Risk Factors appeared first on CodeBlue .",
+      "keywords_matched": [
+        "disease",
+        "cancer"
+      ]
+    },
+    {
+      "title": "Support Children With Cerebral Palsy With National Registry, Integrated National Rehabilitation Network — Dr Kelvin Yii",
+      "url": "https://codeblue.galencentre.org/2026/06/support-children-with-cerebral-palsy-with-national-registry-integrated-national-rehabilitation-network-dr-kelvin-yii/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-29T07:12:38",
+      "summary": "Malaysia must establish a National Cerebral Palsy Registry and integrate a national rehabilitation network to foster collaboration between MOH, Socso rehab hospitals, and private rehab centres to deliver rehab services based on patient's clinical needs. The post Support Children With Cerebral Palsy With National Registry, Integrated National Rehabilitation Network — Dr Kelvin Yii appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "patient",
+        "clinical",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Time To Implement School CPR, First Aid Programmes — Dr Sarah Shaikh Abdul Karim",
+      "url": "https://codeblue.galencentre.org/2026/06/time-to-implement-school-cpr-first-aid-programmes-dr-sarah-shaikh-abdul-karim/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-29T07:00:25",
+      "summary": "By weaving life-saving skills into our standard education system, we can support our dedicated educators and empower our students, ensuring our schools remain safe, nurturing environments. The post Time To Implement School CPR, First Aid Programmes — Dr Sarah Shaikh Abdul Karim appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Condemning Unfair Treatment Of Master’s Trained Specialists — Doctor",
       "url": "https://codeblue.galencentre.org/2026/06/condemning-unfair-treatment-of-masters-trained-specialists-doctor/",
@@ -80,32 +112,47 @@
       ]
     },
     {
-      "title": "MCA: Specify ROI Of Government’s 50 Overseas Trips",
-      "url": "https://codeblue.galencentre.org/2026/06/mca-specify-roi-of-governments-50-overseas-trips/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-26T04:26:50",
-      "summary": "MCA tells the government to show the ROI of each of its 50 overseas trips undertaken in 50 days, besides specifying costs and delegations, saying if official travel is justified as a \"necessary investment\", similar investments must be made in health care. The post MCA: Specify ROI Of Government’s 50 Overseas Trips appeared first on CodeBlue .",
+      "title": "Couple hospitalised after wild mushroom meal in Padang Besar",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/29/couple-hospitalised-after-wild-mushroom-meal-in-padang-besar/225694",
+      "source": "Malay Mail",
+      "published": "2026-06-29T10:54:09",
+      "summary": "SIK, June 29 — A husband and wife from Padang Besar were rushed to hospital after suffering severe food‑poisoning...",
       "keywords_matched": [
-        "health"
+        "hospital",
+        "hospital"
       ]
     },
     {
-      "title": "KPKM: Pre-Conflict Stock Keeps Fertiliser Price Hikes Below Global Levels",
-      "url": "https://codeblue.galencentre.org/2026/06/kpkm-pre-conflict-stock-keeps-fertiliser-price-hikes-below-global-levels/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-26T03:11:33",
-      "summary": "KPKM says fertiliser prices in Malaysia rose by up to 29% but are still cheaper than international markets because suppliers are still selling pre-conflict stock. Malaysia also relies heavily on Argentina for soybean meal and grain corn for livestock feed. The post KPKM: Pre-Conflict Stock Keeps Fertiliser Price Hikes Below Global Levels appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "MOH: 351 Medical, Dental Specialists Quit Government For Private In Three Years",
-      "url": "https://codeblue.galencentre.org/2026/06/moh-351-medical-dental-specialists-quit-government-for-private-in-three-years/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-26T03:05:05",
-      "summary": "MOH says 351 medical and dental specialists left the public sector for private practice from 2023 to 2025, averaging at 117 resignations a year. The main reasons cited included personal reasons, private-sector jobs, lecturer offers, and health issues. The post MOH: 351 Medical, Dental Specialists Quit Government For Private In Three Years appeared first on CodeBlue .",
+      "title": "After viral Sabah hospital post, Sabah Health Dept cites familiar strain and overcrowding",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/29/after-viral-sabah-hospital-post-sabah-health-dept-cites-familiar-strain-and-overcrowding/225689",
+      "source": "Malay Mail",
+      "published": "2026-06-29T10:27:33",
+      "summary": "KOTA KINABALU, June 29 — Sabah's Health Department has responded to a viral Facebook post depicting the crowde...",
       "keywords_matched": [
         "health",
-        "medical"
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "New MOH rule compels medicine suppliers to report shortages from July 1, ensuring stability despite West Asia risks",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/29/new-moh-rule-compels-medicine-suppliers-to-report-shortages-from-july-1-ensuring-stability-despite-west-asia-risks/225672",
+      "source": "Malay Mail",
+      "published": "2026-06-29T09:08:51",
+      "summary": "KUALA LUMPUR, June 29 — Effective July 1, the Health Ministry (MOH) will enforce mandatory reporting by Product Re...",
+      "keywords_matched": [
+        "health",
+        "medicine"
+      ]
+    },
+    {
+      "title": "Dzulkefly tells Dewan Rakyat MOH reviewing cerebral palsy registry plan to widen rehab access",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/29/dzulkefly-tells-dewan-rakyat-moh-reviewing-cerebral-palsy-registry-plan-to-widen-rehab-access/225654",
+      "source": "Malay Mail",
+      "published": "2026-06-29T06:22:58",
+      "summary": "KUALA LUMPUR, June 29 — The Health Ministry (MOH) is studying a proposal to establish a National Cerebral Palsy Re...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
