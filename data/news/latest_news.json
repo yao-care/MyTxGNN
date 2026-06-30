@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-30T00:02:46.349144",
+  "fetched": "2026-06-30T05:01:35.910679",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,32 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Genomics Is Coming To Malaysia, But Will It Reach Everyone? — Assoc Prof Dr Teguh Haryo Sasongko",
+      "url": "https://codeblue.galencentre.org/2026/06/genomics-is-coming-to-malaysia-but-will-it-reach-everyone-teguh-haryo-sasongko/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-30T03:30:00",
+      "summary": "The real equity question is not whether genomic technology exists in Malaysia. It is whether a child in a public hospital, a patient in a rural clinic, or a family without savings can benefit from it when it matters. The post Genomics Is Coming To Malaysia, But Will It Reach Everyone? — Assoc Prof Dr Teguh Haryo Sasongko appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "patient",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Two Industries Profit From The Same Bill: Malaysia’s Insurance-Hospital Cost Crisis — Dr Mohamed Rafick Khan",
+      "url": "https://codeblue.galencentre.org/2026/06/two-industries-profit-from-the-same-bill-malaysias-insurance-hospital-cost-crisis-dr-mohamed-rafick-khan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-06-30T02:00:00",
+      "summary": "If neither side of this (medical and insurance) industry disciplines its own pricing, the obvious remedy is one the PAC report gestures toward but doesn't go far enough in recommending: a mandated profit margin ceiling for both private hospitals and ITOs. The post Two Industries Profit From The Same Bill: Malaysia’s Insurance-Hospital Cost Crisis — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Nearly Nine In 10 Individuals Have Two Or More Cardio-Renal-Metabolic Risk Factors",
       "url": "https://codeblue.galencentre.org/2026/06/nearly-nine-in-10-individuals-have-two-or-more-cardio-renal-metabolic-risk-factors/",
@@ -92,77 +116,15 @@
       "keywords_matched": []
     },
     {
-      "title": "Pig Farm Numbers Fall 22%, KPKM Says Pork Supply Still Sufficient",
-      "url": "https://codeblue.galencentre.org/2026/06/pig-farm-numbers-fall-22-kpkm-says-pork-supply-still-sufficient/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-26T08:43:11",
-      "summary": "Malaysia’s registered pig farms fell 22% and pork production declined, but Agriculture Minister Mat Sabu says supply remains sufficient as imports can cover any shortfall. The ministry also targets higher chili and ginger self-sufficiency under the 13MP. The post Pig Farm Numbers Fall 22%, KPKM Says Pork Supply Still Sufficient appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "APHM Says Joint Ministerial Committee Addressing PAC Report",
-      "url": "https://codeblue.galencentre.org/2026/06/aphm-says-joint-ministerial-committee-addressing-pac-report/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-26T06:12:17",
-      "summary": "APHM says key pain points in the PAC's report on health insurance and private hospital charges are being addressed through the Joint Ministerial Committee, adding that it has engaged MOH to improve hospital bill transparency in private hospitals. The post APHM Says Joint Ministerial Committee Addressing PAC Report appeared first on CodeBlue .",
+      "title": "Viral Queen Elizabeth Hospital I scenes prompt Sabah Health Dept pledge to improve facilities, services",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/viral-queen-elizabeth-hospital-i-scenes-prompt-sabah-health-dept-pledge-to-improve-facilities-services/225719",
+      "source": "Malay Mail",
+      "published": "2026-06-30T01:03:19",
+      "summary": "KUALA LUMPUR, June 30 — The Sabah Health Department (JKNS) has pledged to improve facilities and service delivery...",
       "keywords_matched": [
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Malaysia’s nuclear footprint is bigger than many realise, stretching from rice fields to cancer wards",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/malaysias-nuclear-footprint-is-bigger-than-many-realise-stretching-from-rice-fields-to-cancer-wards/224272",
-      "source": "Malay Mail",
-      "published": "2026-06-29T23:00:00",
-      "summary": "KUALA LUMPUR, June 30 — As conflict in the Middle East threatens to disrupt global energy markets and reignite con...",
-      "keywords_matched": [
-        "cancer"
-      ]
-    },
-    {
-      "title": "Couple hospitalised after wild mushroom meal in Padang Besar",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/29/couple-hospitalised-after-wild-mushroom-meal-in-padang-besar/225694",
-      "source": "Malay Mail",
-      "published": "2026-06-29T10:54:09",
-      "summary": "SIK, June 29 — A husband and wife from Padang Besar were rushed to hospital after suffering severe food‑poisoning...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "After viral Sabah hospital post, Sabah Health Dept cites familiar strain and overcrowding",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/29/after-viral-sabah-hospital-post-sabah-health-dept-cites-familiar-strain-and-overcrowding/225689",
-      "source": "Malay Mail",
-      "published": "2026-06-29T10:27:33",
-      "summary": "KOTA KINABALU, June 29 — Sabah's Health Department has responded to a viral Facebook post depicting the crowde...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "New MOH rule compels medicine suppliers to report shortages from July 1, ensuring stability despite West Asia risks",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/29/new-moh-rule-compels-medicine-suppliers-to-report-shortages-from-july-1-ensuring-stability-despite-west-asia-risks/225672",
-      "source": "Malay Mail",
-      "published": "2026-06-29T09:08:51",
-      "summary": "KUALA LUMPUR, June 29 — Effective July 1, the Health Ministry (MOH) will enforce mandatory reporting by Product Re...",
-      "keywords_matched": [
-        "health",
-        "medicine"
-      ]
-    },
-    {
-      "title": "Dzulkefly tells Dewan Rakyat MOH reviewing cerebral palsy registry plan to widen rehab access",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/29/dzulkefly-tells-dewan-rakyat-moh-reviewing-cerebral-palsy-registry-plan-to-widen-rehab-access/225654",
-      "source": "Malay Mail",
-      "published": "2026-06-29T06:22:58",
-      "summary": "KUALA LUMPUR, June 29 — The Health Ministry (MOH) is studying a proposal to establish a National Cerebral Palsy Re...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
