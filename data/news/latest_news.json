@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-30T12:06:58.718826",
+  "fetched": "2026-06-30T15:25:28.607824",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "title": "Genomics Is Coming To Malaysia, But Will It Reach Everyone? — Assoc Prof Dr Teguh Haryo Sasongko",
@@ -146,16 +146,6 @@
         "treatment",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "MOF: Health Ministry spending adjustment capped at RM500m, not RM3.1b as claimed online",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/mof-health-ministry-spending-adjustment-capped-at-rm500m-not-rm31b-as-claimed-online/225816",
-      "source": "Malay Mail",
-      "published": "2026-06-30T08:04:26",
-      "summary": "KUALA LUMPUR, June 30 — The Ministry of Finance (MOF) has considered an adjustment to the Health Ministry’s...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
