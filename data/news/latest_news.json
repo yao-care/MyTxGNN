@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-30T05:01:35.910679",
+  "fetched": "2026-06-30T09:31:30.124908",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 15,
   "items": [
     {
       "title": "Genomics Is Coming To Malaysia, But Will It Reach Everyone? — Assoc Prof Dr Teguh Haryo Sasongko",
@@ -116,15 +116,56 @@
       "keywords_matched": []
     },
     {
-      "title": "Viral Queen Elizabeth Hospital I scenes prompt Sabah Health Dept pledge to improve facilities, services",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/viral-queen-elizabeth-hospital-i-scenes-prompt-sabah-health-dept-pledge-to-improve-facilities-services/225719",
+      "title": "MOH shuts down own website temporarily after cyber scare, says patient data safe",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/moh-shuts-down-own-website-temporarily-after-cyber-scare-says-patient-data-safe/225836",
       "source": "Malay Mail",
-      "published": "2026-06-30T01:03:19",
-      "summary": "KUALA LUMPUR, June 30 — The Sabah Health Department (JKNS) has pledged to improve facilities and service delivery...",
+      "published": "2026-06-30T09:17:47",
+      "summary": "PUTRAJAYA, June 30 — The Ministry of Health (MOH) has temporarily suspended access to its official website to allo...",
       "keywords_matched": [
         "health",
+        "patient"
+      ]
+    },
+    {
+      "title": "Over nine million STR recipients now eligible for mySalam health payouts, govt mulls extension",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/over-nine-million-str-recipients-now-eligible-for-mysalam-health-payouts-govt-mulls-extension/225833",
+      "source": "Malay Mail",
+      "published": "2026-06-30T09:06:53",
+      "summary": "KUALA LUMPUR, June 30 — A total of 9.15 million Sumbangan Tunai Rahmah (STR) recipients are eligible for benefits...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Home again: Malaysian Tak Bai bomb survivors now under treatment in Kota Bharu hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/home-again-malaysian-tak-bai-bomb-survivors-now-under-treatment-in-kota-bharu-hospital/225821",
+      "source": "Malay Mail",
+      "published": "2026-06-30T08:44:16",
+      "summary": "KOTA BHARU, June 30 — Two Malaysian men who were injured in a bomb explosion in Tak Bai, Narathiwat, southern Thai...",
+      "keywords_matched": [
+        "treatment",
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "MOF: Health Ministry spending adjustment capped at RM500m, not RM3.1b as claimed online",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/mof-health-ministry-spending-adjustment-capped-at-rm500m-not-rm31b-as-claimed-online/225816",
+      "source": "Malay Mail",
+      "published": "2026-06-30T08:04:26",
+      "summary": "KUALA LUMPUR, June 30 — The Ministry of Finance (MOF) has considered an adjustment to the Health Ministry’s...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "From RM85 to RM30: Government picks up the health check tab for truckers to keep roads safe",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/from-rm85-to-rm30-government-picks-up-the-health-check-tab-for-truckers-to-keep-roads-safe/225811",
+      "source": "Malay Mail",
+      "published": "2026-06-30T07:33:36",
+      "summary": "KUALA LUMPUR, June 30 — Effective July 1, commercial vehicle drivers in Malaysia will be eligible for a subsidised...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
