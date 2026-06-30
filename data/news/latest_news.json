@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-30T09:31:30.124908",
+  "fetched": "2026-06-30T12:06:58.718826",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 14,
   "items": [
     {
       "title": "Genomics Is Coming To Malaysia, But Will It Reach Everyone? — Assoc Prof Dr Teguh Haryo Sasongko",
@@ -154,16 +154,6 @@
       "source": "Malay Mail",
       "published": "2026-06-30T08:04:26",
       "summary": "KUALA LUMPUR, June 30 — The Ministry of Finance (MOF) has considered an adjustment to the Health Ministry’s...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "From RM85 to RM30: Government picks up the health check tab for truckers to keep roads safe",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/from-rm85-to-rm30-government-picks-up-the-health-check-tab-for-truckers-to-keep-roads-safe/225811",
-      "source": "Malay Mail",
-      "published": "2026-06-30T07:33:36",
-      "summary": "KUALA LUMPUR, June 30 — Effective July 1, commercial vehicle drivers in Malaysia will be eligible for a subsidised...",
       "keywords_matched": [
         "health"
       ]
