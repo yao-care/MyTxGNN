@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-29T22:55:25.907279",
+  "fetched": "2026-06-30T00:02:46.349144",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 15,
   "items": [
     {
       "title": "Nearly Nine In 10 Individuals Have Two Or More Cardio-Renal-Metabolic Risk Factors",
@@ -109,6 +109,16 @@
         "health",
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "Malaysia’s nuclear footprint is bigger than many realise, stretching from rice fields to cancer wards",
+      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/malaysias-nuclear-footprint-is-bigger-than-many-realise-stretching-from-rice-fields-to-cancer-wards/224272",
+      "source": "Malay Mail",
+      "published": "2026-06-29T23:00:00",
+      "summary": "KUALA LUMPUR, June 30 — As conflict in the Middle East threatens to disrupt global energy markets and reignite con...",
+      "keywords_matched": [
+        "cancer"
       ]
     },
     {
