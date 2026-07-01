@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-01T03:39:45.040907",
+  "fetched": "2026-07-01T08:10:45.098263",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
+    {
+      "title": "A Small Pill With Big Responsibility: Why Warfarin Patients Need More Than A Prescription — Noor Hanita Zaini, Nor Zehan Ahmad & Noor Hasliza Che Seman",
+      "url": "https://codeblue.galencentre.org/2026/07/a-small-pill-with-big-responsibility-why-warfarin-patients-need-more-than-a-prescription-noor-hanita-zaini-nor-zehan-ahmad-noor-hasliza-che-seman/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-01T05:30:00",
+      "summary": "The danger with warfarin is not only the medicine itself, but when patients do not know enough about how to take it safely. The post A Small Pill With Big Responsibility: Why Warfarin Patients Need More Than A Prescription — Noor Hanita Zaini, Nor Zehan Ahmad & Noor Hasliza Che Seman appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "patient"
+      ]
+    },
+    {
+      "title": "Make Free Drinking Water Mandatory In Restaurants And Food Premises",
+      "url": "https://codeblue.galencentre.org/2026/07/make-free-drinking-water-mandatory-in-restaurants-and-food-premises/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-01T05:28:48",
+      "summary": "Making free drinking water available in restaurants is one of the simplest public health interventions we can implement. It is practical, affordable, and fair. The post Make Free Drinking Water Mandatory In Restaurants And Food Premises appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Will The Real Cause Of Medical Inflation Please Stand Up? — Dr Kamal Amzan",
       "url": "https://codeblue.galencentre.org/2026/07/will-the-real-cause-of-medical-inflation-please-stand-up-dr-kamal-amzan/",
@@ -99,33 +120,34 @@
       ]
     },
     {
-      "title": "Why Price Controls Over Private Hospitals Is A Bad Idea — Dr James Jeremiah",
-      "url": "https://codeblue.galencentre.org/2026/06/why-price-controls-over-private-hospitals-is-a-bad-idea-dr-james-jeremiah/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-29T03:30:00",
-      "summary": "Price control may protect inefficient hospitals. When the government fixes prices, weaker hospitals don't need to innovate; stronger hospitals can't differentiate properly; and patients lose the natural benefit of market discipline. The post Why Price Controls Over Private Hospitals Is A Bad Idea — Dr James Jeremiah appeared first on CodeBlue .",
+      "title": "Popular conveyor-belt sushi chain Sushiro temporarily closes Suria KLCC outlet ‘following guidance’ from health authorities",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/01/popular-conveyor-sushi-restaurant-sushiro-temporarily-closes-klcc-outlet-following-guidance-from-malaysian-health-authorities/225940",
+      "source": "Malay Mail",
+      "published": "2026-07-01T06:45:15",
+      "summary": "KUALA LUMPUR, July 1 — Japanese conveyor-belt sushi chain Sushiro has temporarily closed its Suria KLCC outlet fro...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Penang sweeps 12 honours at Asian Tourism and Hospitality Awards",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/01/penang-sweeps-12-honours-at-asian-tourism-and-hospitality-awards/225933",
+      "source": "Malay Mail",
+      "published": "2026-07-01T06:01:02",
+      "summary": "SEBERANG PERAI, July 1 — Penang’s tourism industry has claimed 12 honours across multiple categories at the...",
       "keywords_matched": [
         "hospital",
-        "patient",
         "hospital"
       ]
     },
     {
-      "title": "Could Social Media Affect Who We Are?",
-      "url": "https://codeblue.galencentre.org/2026/06/could-social-media-affect-who-we-are/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-29T02:09:29",
-      "summary": "New research suggests that long-term Instagram use may influence the way people experience their own identity and distinguish themselves from others. The post Could Social Media Affect Who We Are? appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Kajang school canteen shut for 14 days after pupils fall ill as health officials investigate",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/01/kajang-school-canteen-shut-for-14-days-after-pupils-fall-ill-as-health-officials-investigate/225881",
+      "title": "Two brothers arrested after MMEA seizes RM6.95m drug haul off Tanjung Piai",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/01/two-brothers-arrested-after-mmea-seizes-rm695m-drug-haul-off-tanjung-piai/225926",
       "source": "Malay Mail",
-      "published": "2026-07-01T02:00:54",
-      "summary": "KUALA LUMPUR, July 1 — A school canteen in Sungai Ramal, Kajang, has been ordered to close for two weeks after sev...",
+      "published": "2026-07-01T05:33:06",
+      "summary": "JOHOR BAHRU, July 1 — The Malaysian Maritime Enforcement Agency (MMEA) arrested two brothers for allegedly a...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     }
   ]
