@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-30T23:10:12.897017",
+  "fetched": "2026-07-01T03:39:45.040907",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,30 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Will The Real Cause Of Medical Inflation Please Stand Up? — Dr Kamal Amzan",
+      "url": "https://codeblue.galencentre.org/2026/07/will-the-real-cause-of-medical-inflation-please-stand-up-dr-kamal-amzan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-01T03:30:00",
+      "summary": "When the public sees a hospital bill, it sees the price. It doesn't see what sits behind the price. It doesn't see what is cross-subsidised, which services are undercharged, which costs are bundled, which capabilities must remain available 24 hours a day. The post Will The Real Cause Of Medical Inflation Please Stand Up? — Dr Kamal Amzan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Governor: Bank Negara Mandated To Protect Insurance Industry",
+      "url": "https://codeblue.galencentre.org/2026/07/governor-bank-negara-mandated-to-protect-insurance-industry/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-01T02:00:00",
+      "summary": "BNM governor Abdul Rasheed says Bank Negara protects the insurance and bank industries to maintain stability of the financial sector for continued services to the public, adding that premium increases are needed to ensure health insurance sustainability. The post Governor: Bank Negara Mandated To Protect Insurance Industry appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Genomics Is Coming To Malaysia, But Will It Reach Everyone? — Assoc Prof Dr Teguh Haryo Sasongko",
       "url": "https://codeblue.galencentre.org/2026/06/genomics-is-coming-to-malaysia-but-will-it-reach-everyone-teguh-haryo-sasongko/",
@@ -97,55 +119,13 @@
       "keywords_matched": []
     },
     {
-      "title": "Pharmacists Say Credentialing, Legal Reform Needed Before Prescribing Expansion",
-      "url": "https://codeblue.galencentre.org/2026/06/pharmacists-say-credentialing-legal-reform-needed-before-prescribing-expansion/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-29T02:00:00",
-      "summary": "Pharmacists back micro-credentialing and a bigger role in patient care, as they already make many clinical decisions. But Malaysia needs clear training, credentialing and governance frameworks before expanding prescribing powers to pharmacists like the UK. The post Pharmacists Say Credentialing, Legal Reform Needed Before Prescribing Expansion appeared first on CodeBlue .",
-      "keywords_matched": [
-        "patient",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Joint Ministerial Committee Touts Base MHIT Pilot By End July",
-      "url": "https://codeblue.galencentre.org/2026/06/joint-ministerial-committee-touts-base-mhit-pilot-by-end-july/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-26T09:25:03",
-      "summary": "In response to the PAC's report, the Joint Ministerial Committee says the base MHIT product will be piloted by the end of July, claiming that \"significant progress\" has been made across its Reset strategy, including a phased adoption of DRG. The post Joint Ministerial Committee Touts Base MHIT Pilot By End July appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "MOH shuts down own website temporarily after cyber scare, says patient data safe",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/moh-shuts-down-own-website-temporarily-after-cyber-scare-says-patient-data-safe/225836",
+      "title": "Kajang school canteen shut for 14 days after pupils fall ill as health officials investigate",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/01/kajang-school-canteen-shut-for-14-days-after-pupils-fall-ill-as-health-officials-investigate/225881",
       "source": "Malay Mail",
-      "published": "2026-06-30T09:17:47",
-      "summary": "PUTRAJAYA, June 30 — The Ministry of Health (MOH) has temporarily suspended access to its official website to allo...",
-      "keywords_matched": [
-        "health",
-        "patient"
-      ]
-    },
-    {
-      "title": "Over nine million STR recipients now eligible for mySalam health payouts, govt mulls extension",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/over-nine-million-str-recipients-now-eligible-for-mysalam-health-payouts-govt-mulls-extension/225833",
-      "source": "Malay Mail",
-      "published": "2026-06-30T09:06:53",
-      "summary": "KUALA LUMPUR, June 30 — A total of 9.15 million Sumbangan Tunai Rahmah (STR) recipients are eligible for benefits...",
+      "published": "2026-07-01T02:00:54",
+      "summary": "KUALA LUMPUR, July 1 — A school canteen in Sungai Ramal, Kajang, has been ordered to close for two weeks after sev...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Home again: Malaysian Tak Bai bomb survivors now under treatment in Kota Bharu hospital",
-      "url": "https://www.malaymail.com/news/malaysia/2026/06/30/home-again-malaysian-tak-bai-bomb-survivors-now-under-treatment-in-kota-bharu-hospital/225821",
-      "source": "Malay Mail",
-      "published": "2026-06-30T08:44:16",
-      "summary": "KOTA BHARU, June 30 — Two Malaysian men who were injured in a bomb explosion in Tak Bai, Narathiwat, southern Thai...",
-      "keywords_matched": [
-        "treatment",
-        "hospital",
-        "hospital"
       ]
     }
   ]
