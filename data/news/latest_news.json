@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-01T12:05:35.320376",
+  "fetched": "2026-07-01T15:39:38.619517",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "A Small Pill With Big Responsibility: Why Warfarin Patients Need More Than A Prescription — Noor Hanita Zaini, Nor Zehan Ahmad & Noor Hasliza Che Seman",
@@ -135,16 +135,6 @@
       "source": "Malay Mail",
       "published": "2026-07-01T09:54:30",
       "summary": "KUANTAN, July 1 — Police arrested a couple and seized various types of drugs estimated to be worth more than RM728...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Bukit Aman: Highway drug crackdown nets 135 drivers, with commercial motorists making up nearly 90pc",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/01/bukit-aman-highway-drug-crackdown-nets-135-drivers-with-commercial-motorists-making-up-nearly-90pc/225956",
-      "source": "Malay Mail",
-      "published": "2026-07-01T08:25:35",
-      "summary": "KUALA LUMPUR, July 1 — A total of 135 people were arrested for driving under the influence of drugs between April...",
       "keywords_matched": [
         "drug"
       ]
