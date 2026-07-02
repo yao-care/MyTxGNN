@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-02T07:29:48.449524",
+  "fetched": "2026-07-02T10:36:31.988045",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "APHM Dismisses ‘Outdated’ PAC Report Amid Reset Initiative",
+      "url": "https://codeblue.galencentre.org/2026/07/aphm-dismisses-outdated-pac-report-amid-reset-initiative/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-02T09:03:36",
+      "summary": "APHM says the PAC’s \"really outdated\" report doesn't take into account what was done in the last 18 months under Reset, adding that it's voluntary for both consumers and providers to participate in Base MHIT. DRG will be limited to Base MHIT too. The post APHM Dismisses ‘Outdated’ PAC Report Amid Reset Initiative appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Medics Seeing Surge In AI-Generated Complaints, Says Indemnity Body",
       "url": "https://codeblue.galencentre.org/2026/07/medics-seeing-surge-in-ai-generated-complaints-says-indemnity-body/",
@@ -109,35 +117,13 @@
       ]
     },
     {
-      "title": "Two Industries Profit From The Same Bill: Malaysia’s Insurance-Hospital Cost Crisis — Dr Mohamed Rafick Khan",
-      "url": "https://codeblue.galencentre.org/2026/06/two-industries-profit-from-the-same-bill-malaysias-insurance-hospital-cost-crisis-dr-mohamed-rafick-khan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-30T02:00:00",
-      "summary": "If neither side of this (medical and insurance) industry disciplines its own pricing, the obvious remedy is one the PAC report gestures toward but doesn't go far enough in recommending: a mandated profit margin ceiling for both private hospitals and ITOs. The post Two Industries Profit From The Same Bill: Malaysia’s Insurance-Hospital Cost Crisis — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Dzulkefly reassures Dewan Rakyat RM500m savings due to vacancies, not frontline care cuts",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/02/dzulkefly-reassures-dewan-rakyat-rm500m-savings-due-to-vacancies-not-frontline-care-cuts/226061",
+      "title": "Johor teacher accused of bruising seven-year-old pupil with thrown whiteboard eraser claims trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/02/johor-teacher-accused-of-bruising-seven-year-old-pupil-with-thrown-whiteboard-eraser-claims-trial/226090",
       "source": "Malay Mail",
-      "published": "2026-07-02T06:19:48",
-      "summary": "KUALA LUMPUR, July 2 — The RM500 million expenditure restriction warrant imposed on the Ministry of Health (MOH) i...",
+      "published": "2026-07-02T08:45:11",
+      "summary": "BATU PAHAT, July 2 — A primary school teacher has been charged with allegedly injuring a seven-year-old pupil afte...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Can one person build the next startup? Penang launches AI incubator for solo founders",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/02/can-one-person-build-the-next-startup-penang-launches-ai-incubator-for-solo-founders/226057",
-      "source": "Malay Mail",
-      "published": "2026-07-02T05:47:28",
-      "summary": "GEORGE TOWN, July 2 — Penang today launched an AI-powered one-person company incubator programme under Digital Pen...",
-      "keywords_matched": [
-        "ubat"
+        "trial"
       ]
     }
   ]
