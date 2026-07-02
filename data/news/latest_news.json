@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-01T23:13:16.856378",
+  "fetched": "2026-07-02T03:25:12.793619",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,19 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "Insurers Question ‘Excessive’ Private Health Screenings, Procedures, Hospitalisations",
+      "url": "https://codeblue.galencentre.org/2026/07/insurers-question-excessive-private-health-screenings-procedures-hospitalisations/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-02T02:00:00",
+      "summary": "CEOs and chairmen of top insurance companies question the need for \"excessive\" health screenings, tests or procedures, and treatment in private hospitals in Malaysia, especially gastro cases. They also slam itemised billing, comparing hospitals to hotels. The post Insurers Question ‘Excessive’ Private Health Screenings, Procedures, Hospitalisations appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "treatment",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "A Small Pill With Big Responsibility: Why Warfarin Patients Need More Than A Prescription — Noor Hanita Zaini, Nor Zehan Ahmad & Noor Hasliza Che Seman",
       "url": "https://codeblue.galencentre.org/2026/07/a-small-pill-with-big-responsibility-why-warfarin-patients-need-more-than-a-prescription-noor-hanita-zaini-nor-zehan-ahmad-noor-hasliza-che-seman/",
@@ -109,32 +122,21 @@
       "keywords_matched": []
     },
     {
-      "title": "Condemning Unfair Treatment Of Master’s Trained Specialists — Doctor",
-      "url": "https://codeblue.galencentre.org/2026/06/condemning-unfair-treatment-of-masters-trained-specialists-doctor/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-29T05:45:00",
-      "summary": "The Master’s pathway should not become the pathway that demanded more, only to be told that it counts for less. MOH and JPA must stop punishing doctors for complying with their own training arrangements. The post Condemning Unfair Treatment Of Master’s Trained Specialists — Doctor appeared first on CodeBlue .",
-      "keywords_matched": [
-        "treatment",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Bukit Aman moves to profile drivers, companies and vehicles in drug- and drunk-driving crackdown",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/01/bukit-aman-moves-to-profile-drivers-companies-and-vehicles-in-drug-and-drunk-driving-crackdown/225987",
+      "title": "SPM candidate who says he takes ketum to stay awake to study among 195 detained in Negri Sembilan drug raids",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/02/spm-student-who-says-he-takes-ketum-to-stay-awake-to-study-among-195-detained-in-negri-sembilan-drug-raids/226032",
       "source": "Malay Mail",
-      "published": "2026-07-01T11:14:55",
-      "summary": "KUALA LUMPUR, July 1 — The Bukit Aman Traffic Investigation and Enforcement Department (JSPT) will develop a profi...",
+      "published": "2026-07-02T03:00:27",
+      "summary": "SEREMBAN, July 2 — A total of 195 individuals, including a Sijil Pelajaran Malaysia (SPM) candidate, tested positi...",
       "keywords_matched": [
         "drug"
       ]
     },
     {
-      "title": "Pahang police seize over RM728,000 in drugs, arrest couple believed to be East Coast couriers",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/01/pahang-police-seize-over-rm728000-in-drugs-arrest-couple-believed-to-be-east-coast-couriers/225976",
+      "title": "Drivers are turning to syabu and ketum to stay awake — and putting lives at risk, says anti-drug agency",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/02/drivers-are-turning-to-syabu-and-ketum-to-stay-awake-and-putting-lives-at-risk-says-anti-drug-agency/226007",
       "source": "Malay Mail",
-      "published": "2026-07-01T09:54:30",
-      "summary": "KUANTAN, July 1 — Police arrested a couple and seized various types of drugs estimated to be worth more than RM728...",
+      "published": "2026-07-02T01:07:17",
+      "summary": "SEREMBAN, July 2 — Methamphetamine, or syabu, and ketum abuse has become an emerging trend among drivers, includin...",
       "keywords_matched": [
         "drug"
       ]
