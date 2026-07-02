@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-02T03:25:12.793619",
+  "fetched": "2026-07-02T07:29:48.449524",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,37 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "Medics Seeing Surge In AI-Generated Complaints, Says Indemnity Body",
+      "url": "https://codeblue.galencentre.org/2026/07/medics-seeing-surge-in-ai-generated-complaints-says-indemnity-body/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-02T06:43:12",
+      "summary": "These complaint letters can be seven pages, sometimes longer. They are complicated, often quote questionable legal arguments, and some fail to remove the AI’s ‘coaching’ and common tells. The post Medics Seeing Surge In AI-Generated Complaints, Says Indemnity Body appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Interfering With Medical Practice May Be Illegal, MOH Warns TPAs",
+      "url": "https://codeblue.galencentre.org/2026/07/interfering-with-medical-practice-may-be-illegal-moh-warns-tpas/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-02T05:30:00",
+      "summary": "MOH warns MCOs and TPAs that undermining doctors' autonomy in treating patients may breach Act 586, stressing that the main role of payers is to facilitate financial and insurance claims administration, not to regulate the practice of medicine. The post Interfering With Medical Practice May Be Illegal, MOH Warns TPAs appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "medicine",
+        "doctor",
+        "patient"
+      ]
+    },
+    {
+      "title": "Sunway Medical Centre Velocity’s A&E Department Provides Timely Care For Heart Attacks, Stroke, And Trauma Cases",
+      "url": "https://codeblue.galencentre.org/2026/07/sunway-medical-centre-velocitys-ae-department-provides-timely-care-for-heart-attacks-stroke-and-trauma-cases/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-02T03:30:00",
+      "summary": "With emergency physicians and comprehensive in-house facilities such as point-of-care testing, MRI, X-ray, and a procedure room, Sunway Medical Centre Velocity’s A&E department enables prompt and effective emergency care. The post Sunway Medical Centre Velocity’s A&E Department Provides Timely Care For Heart Attacks, Stroke, And Trauma Cases appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Insurers Question ‘Excessive’ Private Health Screenings, Procedures, Hospitalisations",
       "url": "https://codeblue.galencentre.org/2026/07/insurers-question-excessive-private-health-screenings-procedures-hospitalisations/",
@@ -90,55 +121,23 @@
       ]
     },
     {
-      "title": "Nearly Nine In 10 Individuals Have Two Or More Cardio-Renal-Metabolic Risk Factors",
-      "url": "https://codeblue.galencentre.org/2026/06/nearly-nine-in-10-individuals-have-two-or-more-cardio-renal-metabolic-risk-factors/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-29T07:21:47",
-      "summary": "Policy briefs launched by National Cancer Society Malaysia and Boehringer Ingelheim highlights significant rates of co-existing cardiovascular, kidney, and metabolic diseases among Malaysians. The post Nearly Nine In 10 Individuals Have Two Or More Cardio-Renal-Metabolic Risk Factors appeared first on CodeBlue .",
-      "keywords_matched": [
-        "disease",
-        "cancer"
-      ]
-    },
-    {
-      "title": "Support Children With Cerebral Palsy With National Registry, Integrated National Rehabilitation Network — Dr Kelvin Yii",
-      "url": "https://codeblue.galencentre.org/2026/06/support-children-with-cerebral-palsy-with-national-registry-integrated-national-rehabilitation-network-dr-kelvin-yii/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-29T07:12:38",
-      "summary": "Malaysia must establish a National Cerebral Palsy Registry and integrate a national rehabilitation network to foster collaboration between MOH, Socso rehab hospitals, and private rehab centres to deliver rehab services based on patient's clinical needs. The post Support Children With Cerebral Palsy With National Registry, Integrated National Rehabilitation Network — Dr Kelvin Yii appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "patient",
-        "clinical",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Time To Implement School CPR, First Aid Programmes — Dr Sarah Shaikh Abdul Karim",
-      "url": "https://codeblue.galencentre.org/2026/06/time-to-implement-school-cpr-first-aid-programmes-dr-sarah-shaikh-abdul-karim/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-06-29T07:00:25",
-      "summary": "By weaving life-saving skills into our standard education system, we can support our dedicated educators and empower our students, ensuring our schools remain safe, nurturing environments. The post Time To Implement School CPR, First Aid Programmes — Dr Sarah Shaikh Abdul Karim appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "SPM candidate who says he takes ketum to stay awake to study among 195 detained in Negri Sembilan drug raids",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/02/spm-student-who-says-he-takes-ketum-to-stay-awake-to-study-among-195-detained-in-negri-sembilan-drug-raids/226032",
+      "title": "Dzulkefly reassures Dewan Rakyat RM500m savings due to vacancies, not frontline care cuts",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/02/dzulkefly-reassures-dewan-rakyat-rm500m-savings-due-to-vacancies-not-frontline-care-cuts/226061",
       "source": "Malay Mail",
-      "published": "2026-07-02T03:00:27",
-      "summary": "SEREMBAN, July 2 — A total of 195 individuals, including a Sijil Pelajaran Malaysia (SPM) candidate, tested positi...",
+      "published": "2026-07-02T06:19:48",
+      "summary": "KUALA LUMPUR, July 2 — The RM500 million expenditure restriction warrant imposed on the Ministry of Health (MOH) i...",
       "keywords_matched": [
-        "drug"
+        "health"
       ]
     },
     {
-      "title": "Drivers are turning to syabu and ketum to stay awake — and putting lives at risk, says anti-drug agency",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/02/drivers-are-turning-to-syabu-and-ketum-to-stay-awake-and-putting-lives-at-risk-says-anti-drug-agency/226007",
+      "title": "Can one person build the next startup? Penang launches AI incubator for solo founders",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/02/can-one-person-build-the-next-startup-penang-launches-ai-incubator-for-solo-founders/226057",
       "source": "Malay Mail",
-      "published": "2026-07-02T01:07:17",
-      "summary": "SEREMBAN, July 2 — Methamphetamine, or syabu, and ketum abuse has become an emerging trend among drivers, includin...",
+      "published": "2026-07-02T05:47:28",
+      "summary": "GEORGE TOWN, July 2 — Penang today launched an AI-powered one-person company incubator programme under Digital Pen...",
       "keywords_matched": [
-        "drug"
+        "ubat"
       ]
     }
   ]
