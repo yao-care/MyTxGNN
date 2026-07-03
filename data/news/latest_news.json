@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-03T12:09:41.523096",
+  "fetched": "2026-07-03T15:09:36.613314",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Socso Says Paid Out RM1.2m In First Month Of Lindung 24 Hours",
@@ -103,6 +103,16 @@
         "medicine",
         "doctor",
         "patient"
+      ]
+    },
+    {
+      "title": "Healthy, active, and gaining weight: Taiping council says Malaysia’s three elephants envoys living the good life in Japan’s Tennoji Zoo",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/03/healthy-active-and-gaining-weight-taiping-council-says-malaysias-three-elephants-envoys-living-the-good-life-in-japans-tennoji-zoo/226180",
+      "source": "Malay Mail",
+      "published": "2026-07-03T13:00:00",
+      "summary": "IPOH, July 3 — Three female elephants, Dara, Amoi and Kelat (DAK), housed at Tennoji Zoo in Japan, continue to sho...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
