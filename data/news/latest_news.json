@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-03T06:30:38.141972",
+  "fetched": "2026-07-03T09:56:34.284023",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,38 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Socso Says Paid Out RM1.2m In First Month Of Lindung 24 Hours",
+      "url": "https://codeblue.galencentre.org/2026/07/socso-says-paid-out-rm1-2m-in-first-month-of-lindung-24-hours/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-03T08:38:44",
+      "summary": "Socso says it paid out over RM1.2 million under Lindung 24 Hours within the first month of implementation in June. The largest benefit payout was for implant costs at RM1.16 million, followed by over RM99,000 in temporary disablement benefit payments. The post Socso Says Paid Out RM1.2m In First Month Of Lindung 24 Hours appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "PH’s Johor Manifesto: RM100,000 Health Insurance Coverage For Private Hospitalisation",
+      "url": "https://codeblue.galencentre.org/2026/07/phs-johor-manifesto-rm100000-health-insurance-coverage-for-private-hospitalisation/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-03T07:51:19",
+      "summary": "PH's Johor election manifesto touts a free health insurance scheme with RM100,000 annual limit for 500,000 recipients among B40, M40, and select OKU to access private hospitals. Putrajaya's Base MHIT also has RM100,000 cover, but people must pay premiums. The post PH’s Johor Manifesto: RM100,000 Health Insurance Coverage For Private Hospitalisation appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Rewarding The Healthy: Why Health Assurance Needs Its Own No-Claims Discount — Dr Mohamed Rafick Khan",
+      "url": "https://codeblue.galencentre.org/2026/07/rewarding-the-healthy-why-health-assurance-needs-its-own-no-claims-discount-dr-mohamed-rafick-khan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-03T07:20:00",
+      "summary": "A NCD model adapted for health offers a credible path to a pricing model that rewards good health outcomes rather than simply pooling everyone into the same cost curve. The post Rewarding The Healthy: Why Health Assurance Needs Its Own No-Claims Discount — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Redesign Base MHIT To Protect Senior Citizens",
       "url": "https://codeblue.galencentre.org/2026/07/redesign-base-mhit-to-protect-senior-citizens/",
@@ -76,59 +106,15 @@
       ]
     },
     {
-      "title": "Sunway Medical Centre Velocity’s A&E Department Provides Timely Care For Heart Attacks, Stroke, And Trauma Cases",
-      "url": "https://codeblue.galencentre.org/2026/07/sunway-medical-centre-velocitys-ae-department-provides-timely-care-for-heart-attacks-stroke-and-trauma-cases/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-02T03:30:00",
-      "summary": "With emergency physicians and comprehensive in-house facilities such as point-of-care testing, MRI, X-ray, and a procedure room, Sunway Medical Centre Velocity’s A&E department enables prompt and effective emergency care. The post Sunway Medical Centre Velocity’s A&E Department Provides Timely Care For Heart Attacks, Stroke, And Trauma Cases appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Insurers Question ‘Excessive’ Private Health Screenings, Procedures, Hospitalisations",
-      "url": "https://codeblue.galencentre.org/2026/07/insurers-question-excessive-private-health-screenings-procedures-hospitalisations/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-02T02:00:00",
-      "summary": "CEOs and chairmen of top insurance companies question the need for \"excessive\" health screenings, tests or procedures, and treatment in private hospitals in Malaysia, especially gastro cases. They also slam itemised billing, comparing hospitals to hotels. The post Insurers Question ‘Excessive’ Private Health Screenings, Procedures, Hospitalisations appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "treatment",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "A Small Pill With Big Responsibility: Why Warfarin Patients Need More Than A Prescription — Noor Hanita Zaini, Nor Zehan Ahmad & Noor Hasliza Che Seman",
-      "url": "https://codeblue.galencentre.org/2026/07/a-small-pill-with-big-responsibility-why-warfarin-patients-need-more-than-a-prescription-noor-hanita-zaini-nor-zehan-ahmad-noor-hasliza-che-seman/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-01T05:30:00",
-      "summary": "The danger with warfarin is not only the medicine itself, but when patients do not know enough about how to take it safely. The post A Small Pill With Big Responsibility: Why Warfarin Patients Need More Than A Prescription — Noor Hanita Zaini, Nor Zehan Ahmad & Noor Hasliza Che Seman appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medicine",
-        "patient"
-      ]
-    },
-    {
-      "title": "Govt to build new Bandar Enstek hospital as MOH moves to ease HTJ congestion and expand services, says Dzulkefly",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/03/govt-to-build-new-bandar-enstek-hospital-as-moh-moves-to-ease-htj-congestion-and-expand-services-says-dzulkefly/226171",
+      "title": "MOH overhauls emergency triage system with new five‑tier Malaysian Triage Scale to improve assessments and cut delays",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/03/moh-overhauls-emergency-triage-system-with-new-fivetier-malaysian-triage-scale-to-improve-assessments-and-cut-delays/226223",
       "source": "Malay Mail",
-      "published": "2026-07-03T04:11:47",
-      "summary": "KUALA LUMPUR, July 3 — A new hospital will be built in Bandar Enstek, Nilai, Negeri Sembilan, to meet the healthca...",
+      "published": "2026-07-03T08:29:48",
+      "summary": "KUALA LUMPUR, July 3 — The Ministry of Health (MOH) is revamping the triage system at public hospital emergency de...",
       "keywords_matched": [
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "High Court sets October trial dates for Nhaveen murder case following overturned acquittal",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/03/high-court-sets-october-trial-dates-for-nhaveen-murder-case-following-overturned-acquittal/226170",
-      "source": "Malay Mail",
-      "published": "2026-07-03T03:56:14",
-      "summary": "GEORGE TOWN, July 3 — The High Court here has scheduled eight trial dates in October for four men charged with the...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
