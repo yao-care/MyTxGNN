@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-03T09:56:34.284023",
+  "fetched": "2026-07-03T12:09:41.523096",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Socso Says Paid Out RM1.2m In First Month Of Lindung 24 Hours",
@@ -103,6 +103,17 @@
         "medicine",
         "doctor",
         "patient"
+      ]
+    },
+    {
+      "title": "Avoid the parking nightmare: Penang rolls out free hospital shuttle, now serves 600 people a day",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/03/avoid-the-parking-nightmare-penang-rolls-out-free-hospital-shuttle-now-serves-600-people-a-day/226257",
+      "source": "Malay Mail",
+      "published": "2026-07-03T11:48:49",
+      "summary": "GEORGE TOWN, July 4 — The Penang Island City Council (MBPP) has allocated RM900,000 annually for the free Central...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     },
     {
