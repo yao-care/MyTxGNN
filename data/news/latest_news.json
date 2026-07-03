@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-03T02:48:14.075316",
+  "fetched": "2026-07-03T06:30:38.141972",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Redesign Base MHIT To Protect Senior Citizens",
+      "url": "https://codeblue.galencentre.org/2026/07/redesign-base-mhit-to-protect-senior-citizens/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-03T06:00:00",
+      "summary": "The government should redesign the Base MHIT product in line with the PAC's recommendations, such as adopting community-rating, instead of risk-rating, to protect senior citizens. Premium schedules in Base MHIT policy contracts must be legally binding. The post Redesign Base MHIT To Protect Senior Citizens appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Are We Really ‘Over-Scoping’ Patients? — Dr Khairul Najmi Muhammad Nawawi",
+      "url": "https://codeblue.galencentre.org/2026/07/are-we-really-over-scoping-patients-dr-khairul-najmi-muhammad-nawawi/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-03T03:48:15",
+      "summary": "Doing both OGDS and colonoscopy in one session is often the most efficient and appropriate approach. Comparing polypectomy rates between hospitals/countries without pathology and clinical context isn't meaningful. Stool tests are meant for asymptomatics. The post Are We Really ‘Over-Scoping’ Patients? — Dr Khairul Najmi Muhammad Nawawi appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "patient",
+        "clinical",
+        "hospital"
+      ]
+    },
     {
       "title": "Why Malaysia Needs Stronger Laws Against Predatory Milk Marketing — June Joseph",
       "url": "https://codeblue.galencentre.org/2026/07/why-malaysia-needs-stronger-laws-against-predatory-milk-marketing-june-joseph/",
@@ -89,33 +110,23 @@
       ]
     },
     {
-      "title": "Make Free Drinking Water Mandatory In Restaurants And Food Premises",
-      "url": "https://codeblue.galencentre.org/2026/07/make-free-drinking-water-mandatory-in-restaurants-and-food-premises/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-01T05:28:48",
-      "summary": "Making free drinking water available in restaurants is one of the simplest public health interventions we can implement. It is practical, affordable, and fair. The post Make Free Drinking Water Mandatory In Restaurants And Food Premises appeared first on CodeBlue .",
+      "title": "Govt to build new Bandar Enstek hospital as MOH moves to ease HTJ congestion and expand services, says Dzulkefly",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/03/govt-to-build-new-bandar-enstek-hospital-as-moh-moves-to-ease-htj-congestion-and-expand-services-says-dzulkefly/226171",
+      "source": "Malay Mail",
+      "published": "2026-07-03T04:11:47",
+      "summary": "KUALA LUMPUR, July 3 — A new hospital will be built in Bandar Enstek, Nilai, Negeri Sembilan, to meet the healthca...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Will The Real Cause Of Medical Inflation Please Stand Up? — Dr Kamal Amzan",
-      "url": "https://codeblue.galencentre.org/2026/07/will-the-real-cause-of-medical-inflation-please-stand-up-dr-kamal-amzan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-01T03:30:00",
-      "summary": "When the public sees a hospital bill, it sees the price. It doesn't see what sits behind the price. It doesn't see what is cross-subsidised, which services are undercharged, which costs are bundled, which capabilities must remain available 24 hours a day. The post Will The Real Cause Of Medical Inflation Please Stand Up? — Dr Kamal Amzan appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
+        "health",
         "hospital",
         "hospital"
       ]
     },
     {
-      "title": "Miti: Govt confident Sabah, Sarawak can attract quality investments through downstream industries and strategic industrial parks",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/03/miti-govt-confident-sabah-sarawak-can-attract-quality-investments-through-downstream-industries-and-strategic-industrial-parks/226146",
+      "title": "High Court sets October trial dates for Nhaveen murder case following overturned acquittal",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/03/high-court-sets-october-trial-dates-for-nhaveen-murder-case-following-overturned-acquittal/226170",
       "source": "Malay Mail",
-      "published": "2026-07-03T02:25:45",
-      "summary": "KUALA LUMPUR, July 3 — The government is confident that Sabah and Sarawak will continue to be competitive investme...",
+      "published": "2026-07-03T03:56:14",
+      "summary": "GEORGE TOWN, July 3 — The High Court here has scheduled eight trial dates in October for four men charged with the...",
       "keywords_matched": [
         "trial"
       ]
