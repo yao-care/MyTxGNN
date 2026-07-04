@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-04T09:21:03.050909",
+  "fetched": "2026-07-04T11:24:50.985534",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Socso Says Paid Out RM1.2m In First Month Of Lindung 24 Hours",
@@ -106,23 +106,13 @@
       ]
     },
     {
-      "title": "Penang DOSH issues prohibition notice after worker struck, killed by falling scaffolding platform",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/04/penang-dosh-issues-prohibition-notice-after-worker-struck-killed-by-falling-scaffolding-platform/226301",
+      "title": "Anwar questions ‘impatient’ dissolution of Johor assembly ahead of July 11 polls",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/04/anwar-questions-impatient-dissolution-of-johor-assembly-ahead-of-july-11-polls/226350",
       "source": "Malay Mail",
-      "published": "2026-07-04T05:05:57",
-      "summary": "GEORGE TOWN, July 4 — The Department of Occupational Safety and Health (DOSH) Penang branch has issued a prohibiti...",
+      "published": "2026-07-04T10:56:06",
+      "summary": "KULAI, July 4 — Prime Minister Datuk Seri Anwar Ibrahim took a veld swipe at caretake Johor Menteri Besar Datuk On...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Amirudin dismisses claims Pakatan manifesto copied, says affordable housing and healthcare plans original",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/04/amirudin-dismisses-claims-pakatan-manifesto-copied-says-affordable-housing-and-healthcare-plans-original/226299",
-      "source": "Malay Mail",
-      "published": "2026-07-04T04:51:22",
-      "summary": "KLUANG, July 4 — PKR vice-president Datuk Seri Amirudin Shari has dismissed claims that Pakatan Harapan’s (P...",
-      "keywords_matched": [
-        "health"
+        "patient"
       ]
     }
   ]
