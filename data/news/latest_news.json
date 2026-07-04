@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-03T23:01:02.879022",
+  "fetched": "2026-07-04T02:44:06.123810",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -106,6 +106,16 @@
       ]
     },
     {
+      "title": "Fatal Bera collision claims life of anti‑drugs officer, MPV driver detained after Erimin test",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/04/fatal-bera-collision-claims-life-of-antidrugs-officer-mpv-driver-detained-after-erimin-test/226279",
+      "source": "Malay Mail",
+      "published": "2026-07-04T02:08:25",
+      "summary": "KUANTAN, July 4 — A National Anti-Drugs Agency (AADK) personnel was killed after the car he was driving was involv...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "Healthy, active, and gaining weight: Taiping council says Malaysia’s three elephants envoys living the good life in Japan’s Tennoji Zoo",
       "url": "https://www.malaymail.com/news/malaysia/2026/07/03/healthy-active-and-gaining-weight-taiping-council-says-malaysias-three-elephants-envoys-living-the-good-life-in-japans-tennoji-zoo/226180",
       "source": "Malay Mail",
@@ -122,18 +132,6 @@
       "published": "2026-07-03T11:48:49",
       "summary": "GEORGE TOWN, July 4 — The Penang Island City Council (MBPP) has allocated RM900,000 annually for the free Central...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "MOH overhauls emergency triage system with new five‑tier Malaysian Triage Scale to improve assessments and cut delays",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/03/moh-overhauls-emergency-triage-system-with-new-fivetier-malaysian-triage-scale-to-improve-assessments-and-cut-delays/226223",
-      "source": "Malay Mail",
-      "published": "2026-07-03T08:29:48",
-      "summary": "KUALA LUMPUR, July 3 — The Ministry of Health (MOH) is revamping the triage system at public hospital emergency de...",
-      "keywords_matched": [
-        "health",
         "hospital",
         "hospital"
       ]
