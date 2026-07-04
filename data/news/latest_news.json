@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-04T02:44:06.123810",
+  "fetched": "2026-07-04T06:17:46.933675",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -106,6 +106,26 @@
       ]
     },
     {
+      "title": "Penang DOSH issues prohibition notice after worker struck, killed by falling scaffolding platform",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/04/penang-dosh-issues-prohibition-notice-after-worker-struck-killed-by-falling-scaffolding-platform/226301",
+      "source": "Malay Mail",
+      "published": "2026-07-04T05:05:57",
+      "summary": "GEORGE TOWN, July 4 — The Department of Occupational Safety and Health (DOSH) Penang branch has issued a prohibiti...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Amirudin dismisses claims Pakatan manifesto copied, says affordable housing and healthcare plans original",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/04/amirudin-dismisses-claims-pakatan-manifesto-copied-says-affordable-housing-and-healthcare-plans-original/226299",
+      "source": "Malay Mail",
+      "published": "2026-07-04T04:51:22",
+      "summary": "KLUANG, July 4 — PKR vice-president Datuk Seri Amirudin Shari has dismissed claims that Pakatan Harapan’s (P...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Fatal Bera collision claims life of anti‑drugs officer, MPV driver detained after Erimin test",
       "url": "https://www.malaymail.com/news/malaysia/2026/07/04/fatal-bera-collision-claims-life-of-antidrugs-officer-mpv-driver-detained-after-erimin-test/226279",
       "source": "Malay Mail",
@@ -113,27 +133,6 @@
       "summary": "KUANTAN, July 4 — A National Anti-Drugs Agency (AADK) personnel was killed after the car he was driving was involv...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Healthy, active, and gaining weight: Taiping council says Malaysia’s three elephants envoys living the good life in Japan’s Tennoji Zoo",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/03/healthy-active-and-gaining-weight-taiping-council-says-malaysias-three-elephants-envoys-living-the-good-life-in-japans-tennoji-zoo/226180",
-      "source": "Malay Mail",
-      "published": "2026-07-03T13:00:00",
-      "summary": "IPOH, July 3 — Three female elephants, Dara, Amoi and Kelat (DAK), housed at Tennoji Zoo in Japan, continue to sho...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Avoid the parking nightmare: Penang rolls out free hospital shuttle, now serves 600 people a day",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/03/avoid-the-parking-nightmare-penang-rolls-out-free-hospital-shuttle-now-serves-600-people-a-day/226257",
-      "source": "Malay Mail",
-      "published": "2026-07-03T11:48:49",
-      "summary": "GEORGE TOWN, July 4 — The Penang Island City Council (MBPP) has allocated RM900,000 annually for the free Central...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
