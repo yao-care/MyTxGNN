@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-05T02:54:37.248942",
+  "fetched": "2026-07-05T06:39:07.598864",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Socso Says Paid Out RM1.2m In First Month Of Lindung 24 Hours",
@@ -102,16 +102,6 @@
         "medical",
         "medicine",
         "doctor",
-        "patient"
-      ]
-    },
-    {
-      "title": "Anwar questions ‘impatient’ dissolution of Johor assembly ahead of July 11 polls",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/04/anwar-questions-impatient-dissolution-of-johor-assembly-ahead-of-july-11-polls/226350",
-      "source": "Malay Mail",
-      "published": "2026-07-04T10:56:06",
-      "summary": "KULAI, July 4 — Prime Minister Datuk Seri Anwar Ibrahim took a veld swipe at caretake Johor Menteri Besar Datuk On...",
-      "keywords_matched": [
         "patient"
       ]
     }
