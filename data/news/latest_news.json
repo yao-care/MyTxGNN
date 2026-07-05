@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-05T11:28:17.105018",
+  "fetched": "2026-07-05T13:26:47.273153",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 13,
   "items": [
     {
       "title": "Socso Says Paid Out RM1.2m In First Month Of Lindung 24 Hours",
@@ -103,6 +103,37 @@
         "medicine",
         "doctor",
         "patient"
+      ]
+    },
+    {
+      "title": "Health Ministry rolls out RM1.45m sea ambulance and birthing unit for Pulau Tuba islanders",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/05/health-ministry-rolls-out-rm145m-sea-ambulance-and-birthing-unit-for-pulau-tuba-islanders/226468",
+      "source": "Malay Mail",
+      "published": "2026-07-05T12:18:03",
+      "summary": "LANGKAWI, July 5 — The Ministry of Health (MOH) has rolled out a RM1.45 million sea ambulance and an Emergency Bir...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Short RM100,000, top MRSM student who nearly turns down Al-Azhar offer to study medicine, gets MARA lifeline",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/05/short-rm100000-top-mrsm-student-who-nearly-turns-down-al-azhar-offer-to-study-medicine-gets-mara-lifeline/226466",
+      "source": "Malay Mail",
+      "published": "2026-07-05T12:04:53",
+      "summary": "KOTA BHARU, July 5 — A student who was on the verge of turning down an offer to study medicine at Al-Azhar Univers...",
+      "keywords_matched": [
+        "medicine"
+      ]
+    },
+    {
+      "title": "Conned in Teluk Intan, nabbed in Semenyih: Family of three dupe 67-year-old of RM8,000 in jewellery at hospital with fake aid offer",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/05/conned-in-teluk-intan-nabbed-in-semenyih-family-of-three-dupe-67-year-old-of-rm8000-in-jewellery-at-hospital-with-fake-aid-offer/226465",
+      "source": "Malay Mail",
+      "published": "2026-07-05T11:46:12",
+      "summary": "IPOH, July 5 — Police arrested a woman and her two children for allegedly cheating a senior citizen of jewellery w...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
