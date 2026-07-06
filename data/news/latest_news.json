@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-06T00:03:16.975180",
+  "fetched": "2026-07-06T05:08:35.502199",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,32 @@
   ],
   "total_items": 13,
   "items": [
+    {
+      "title": "Are We Paying For Health Care Or Hospitality? — HCP",
+      "url": "https://codeblue.galencentre.org/2026/07/are-we-paying-for-health-care-or-hospitality-hcp/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-06T03:30:00",
+      "summary": "If medical tourism is profitable, does that additional revenue help moderate health care costs for Malaysians, or does it instead finance further investment in premium amenities, creating a continuous cycle of competition based on luxury rather than value? The post Are We Paying For Health Care Or Hospitality? — HCP appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Private Hospitals Say They’re At The Mercy Of Big Insurers",
+      "url": "https://codeblue.galencentre.org/2026/07/private-hospitals-say-theyre-at-the-mercy-of-big-insurers/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-06T02:00:00",
+      "summary": "Private hospitals say they're at the mercy of big insurance companies, with delisting threats if they don't give discounts at 20% to even 40%. APHM says medical equipment and nursing are actually undercharged to patients; running a hospital is very costly. The post Private Hospitals Say They’re At The Mercy Of Big Insurers appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "patient",
+        "hospital"
+      ]
+    },
     {
       "title": "Socso Says Paid Out RM1.2m In First Month Of Lindung 24 Hours",
       "url": "https://codeblue.galencentre.org/2026/07/socso-says-paid-out-rm1-2m-in-first-month-of-lindung-24-hours/",
@@ -85,52 +111,31 @@
       "keywords_matched": []
     },
     {
-      "title": "Medics Seeing Surge In AI-Generated Complaints, Says Indemnity Body",
-      "url": "https://codeblue.galencentre.org/2026/07/medics-seeing-surge-in-ai-generated-complaints-says-indemnity-body/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-02T06:43:12",
-      "summary": "These complaint letters can be seven pages, sometimes longer. They are complicated, often quote questionable legal arguments, and some fail to remove the AI’s ‘coaching’ and common tells. The post Medics Seeing Surge In AI-Generated Complaints, Says Indemnity Body appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Interfering With Medical Practice May Be Illegal, MOH Warns TPAs",
-      "url": "https://codeblue.galencentre.org/2026/07/interfering-with-medical-practice-may-be-illegal-moh-warns-tpas/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-02T05:30:00",
-      "summary": "MOH warns MCOs and TPAs that undermining doctors' autonomy in treating patients may breach Act 586, stressing that the main role of payers is to facilitate financial and insurance claims administration, not to regulate the practice of medicine. The post Interfering With Medical Practice May Be Illegal, MOH Warns TPAs appeared first on CodeBlue .",
+      "title": "Tengku Zafrul tells Jana Wibawa trial he bears no malice against Muhyiddin",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/tengku-zafrul-tells-jana-wibawa-trial-he-bears-no-malice-against-muhyiddin/226542",
+      "source": "Malay Mail",
+      "published": "2026-07-06T04:53:11",
+      "summary": "KUALA LUMPUR, July 6 — Former finance minister Datuk Seri Tengku Zafrul Tengku Abdul Aziz today said he bears no m...",
       "keywords_matched": [
-        "medical",
-        "medicine",
-        "doctor",
-        "patient"
+        "trial"
       ]
     },
     {
-      "title": "Health Ministry rolls out RM1.45m sea ambulance and birthing unit for Pulau Tuba islanders",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/05/health-ministry-rolls-out-rm145m-sea-ambulance-and-birthing-unit-for-pulau-tuba-islanders/226468",
+      "title": "Tengku Zafrul testifies in Muhyiddin’s RM225m Jana Wibawa corruption trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/tengku-zafrul-testifies-in-muhyiddins-rm225m-jana-wibawa-corruption-trial/226505",
       "source": "Malay Mail",
-      "published": "2026-07-05T12:18:03",
-      "summary": "LANGKAWI, July 5 — The Ministry of Health (MOH) has rolled out a RM1.45 million sea ambulance and an Emergency Bir...",
+      "published": "2026-07-06T02:48:14",
+      "summary": "KUALA LUMPUR, July 6 — Former Finance Minister Tengku Datuk Seri Zafrul Abdul Aziz testified today in the High Cou...",
       "keywords_matched": [
-        "health"
+        "trial"
       ]
     },
     {
-      "title": "Short RM100,000, top MRSM student who nearly turns down Al-Azhar offer to study medicine, gets MARA lifeline",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/05/short-rm100000-top-mrsm-student-who-nearly-turns-down-al-azhar-offer-to-study-medicine-gets-mara-lifeline/226466",
+      "title": "Suspect surrenders after motorcyclist killed in early‑morning hit‑and‑run near Kuala Lumpur Hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/suspect-surrenders-after-motorcyclist-killed-in-earlymorning-hitandrun-near-kuala-lumpur-hospital/226489",
       "source": "Malay Mail",
-      "published": "2026-07-05T12:04:53",
-      "summary": "KOTA BHARU, July 5 — A student who was on the verge of turning down an offer to study medicine at Al-Azhar Univers...",
-      "keywords_matched": [
-        "medicine"
-      ]
-    },
-    {
-      "title": "Conned in Teluk Intan, nabbed in Semenyih: Family of three dupe 67-year-old of RM8,000 in jewellery at hospital with fake aid offer",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/05/conned-in-teluk-intan-nabbed-in-semenyih-family-of-three-dupe-67-year-old-of-rm8000-in-jewellery-at-hospital-with-fake-aid-offer/226465",
-      "source": "Malay Mail",
-      "published": "2026-07-05T11:46:12",
-      "summary": "IPOH, July 5 — Police arrested a woman and her two children for allegedly cheating a senior citizen of jewellery w...",
+      "published": "2026-07-06T01:37:31",
+      "summary": "KUALA LUMPUR, July 6 — Police arrested a driver suspected of involvement in a hit-and-run that killed a motorcycli...",
       "keywords_matched": [
         "hospital",
         "hospital"
