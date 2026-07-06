@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-06T05:08:35.502199",
+  "fetched": "2026-07-06T10:15:49.890501",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,48 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Community Pharmacies Want Integration Into MOH’s New Emergency Triage System",
+      "url": "https://codeblue.galencentre.org/2026/07/community-pharmacies-want-integration-into-mohs-new-emergency-triage-system/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-06T09:29:59",
+      "summary": "MPS suggests integrating community pharmacies into MOH's new emergency triage system for government hospitals, in which less urgent or routine cases with minor ailments can be referred to participating community pharmacists for assessment and management. The post Community Pharmacies Want Integration Into MOH’s New Emergency Triage System appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Coping Without A Limb: Realities Facing Amputees Today — Dr Noor Hasliza Che Seman, Dr Che Chong Chin & Nithya Roobini Govindarajoo",
+      "url": "https://codeblue.galencentre.org/2026/07/coping-without-a-limb-realities-facing-amputees-today-dr-noor-hasliza-che-seman-dr-che-chong-chin-nithya-roobini-govindarajoo/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-06T07:30:00",
+      "summary": "People living with limb loss should not be defined by what they have lost, but recognised for their abilities, resilience, and potential to contribute meaningfully to society. The post Coping Without A Limb: Realities Facing Amputees Today — Dr Noor Hasliza Che Seman, Dr Che Chong Chin & Nithya Roobini Govindarajoo appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Abortion Isn’t Illegal In Malaysia, Deputy Women’s Minister Told",
+      "url": "https://codeblue.galencentre.org/2026/07/abortion-isnt-illegal-in-malaysia-deputy-womens-minister-told/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-06T06:38:04",
+      "summary": "The Galen Centre rebuts the KPWKM deputy minister's claim that abortion and clinics conducting it are illegal. Section 312 of the Penal Code allows termination of pregnancy if continuing pregnancy risks the woman's life or harms her mental/physical health. The post Abortion Isn’t Illegal In Malaysia, Deputy Women’s Minister Told appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Beyond The Price Tag: Addressing The Collective Challenge Of Medical Inflation — Dr Goh Heong Keong",
+      "url": "https://codeblue.galencentre.org/2026/07/beyond-the-price-tag-addressing-the-collective-challenge-of-medical-inflation-dr-goh-heong-keong/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-06T06:00:00",
+      "summary": "Policy discussions must focus on the major drivers of health care expenditure. Professional fees, which are regulated and remain relatively stagnant compared with broader inflationary trends, represent only a modest proportion of total health care costs. The post Beyond The Price Tag: Addressing The Collective Challenge Of Medical Inflation — Dr Goh Heong Keong appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
     {
       "title": "Are We Paying For Health Care Or Hospitality? — HCP",
       "url": "https://codeblue.galencentre.org/2026/07/are-we-paying-for-health-care-or-hospitality-hcp/",
@@ -74,71 +114,23 @@
       "keywords_matched": []
     },
     {
-      "title": "Are We Really ‘Over-Scoping’ Patients? — Dr Khairul Najmi Muhammad Nawawi",
-      "url": "https://codeblue.galencentre.org/2026/07/are-we-really-over-scoping-patients-dr-khairul-najmi-muhammad-nawawi/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-03T03:48:15",
-      "summary": "Doing both OGDS and colonoscopy in one session is often the most efficient and appropriate approach. Comparing polypectomy rates between hospitals/countries without pathology and clinical context isn't meaningful. Stool tests are meant for asymptomatics. The post Are We Really ‘Over-Scoping’ Patients? — Dr Khairul Najmi Muhammad Nawawi appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "patient",
-        "clinical",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Why Malaysia Needs Stronger Laws Against Predatory Milk Marketing — June Joseph",
-      "url": "https://codeblue.galencentre.org/2026/07/why-malaysia-needs-stronger-laws-against-predatory-milk-marketing-june-joseph/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-03T02:46:56",
-      "summary": "Protecting breastfeeding is one of the smartest investments Malaysia can make to reduce stunting, curb NCDs, strengthen human capital and secure the nation's future. The post Why Malaysia Needs Stronger Laws Against Predatory Milk Marketing — June Joseph appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "MPs Demand Parliamentary Oversight Of Big Budget Cuts",
-      "url": "https://codeblue.galencentre.org/2026/07/mps-demand-parliamentary-oversight-of-big-budget-cuts/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-03T02:00:00",
-      "summary": "Some government and Opposition MPs back CodeBlue’s proposal for legislative or regulatory reform to require parliamentary approval or oversight in curbing the Executive's power to make large budget cuts, like 1% of a ministry's budget or another threshold. The post MPs Demand Parliamentary Oversight Of Big Budget Cuts appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "APHM Dismisses ‘Outdated’ PAC Report Amid Reset Initiative",
-      "url": "https://codeblue.galencentre.org/2026/07/aphm-dismisses-outdated-pac-report-amid-reset-initiative/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-02T09:03:36",
-      "summary": "APHM says the PAC’s \"really outdated\" report doesn't take into account what was done in the last 18 months under Reset, adding that it's voluntary for both consumers and providers to participate in Base MHIT. DRG will be limited to Base MHIT too. The post APHM Dismisses ‘Outdated’ PAC Report Amid Reset Initiative appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Tengku Zafrul tells Jana Wibawa trial he bears no malice against Muhyiddin",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/tengku-zafrul-tells-jana-wibawa-trial-he-bears-no-malice-against-muhyiddin/226542",
+      "title": "PMO proposed every Jana Wibawa contractor, Tengku Zafrul tells ex-PM Muhyiddin’s trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/pmo-proposed-every-jana-wibawa-contractor-tengku-zafrul-tells-ex-pm-muhyiddins-trial/226584",
       "source": "Malay Mail",
-      "published": "2026-07-06T04:53:11",
-      "summary": "KUALA LUMPUR, July 6 — Former finance minister Datuk Seri Tengku Zafrul Tengku Abdul Aziz today said he bears no m...",
+      "published": "2026-07-06T09:00:18",
+      "summary": "KUALA LUMPUR, July 6 — All of the Malaysian government’s projects under the Muhyiddin administration’s...",
       "keywords_matched": [
         "trial"
       ]
     },
     {
-      "title": "Tengku Zafrul testifies in Muhyiddin’s RM225m Jana Wibawa corruption trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/tengku-zafrul-testifies-in-muhyiddins-rm225m-jana-wibawa-corruption-trial/226505",
+      "title": "Sabah minister flags unlicensed centres, urges mums and dads to stick with approved childcare",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/sabah-minister-flags-unlicensed-centres-urges-mums-and-dads-to-stick-with-approved-childcare/226577",
       "source": "Malay Mail",
-      "published": "2026-07-06T02:48:14",
-      "summary": "KUALA LUMPUR, July 6 — Former Finance Minister Tengku Datuk Seri Zafrul Abdul Aziz testified today in the High Cou...",
+      "published": "2026-07-06T08:25:41",
+      "summary": "KOTA KINABALU, July 6 — State Women, Health and People’s Wellbeing Minister Datuk Julita Majungki has urged...",
       "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Suspect surrenders after motorcyclist killed in early‑morning hit‑and‑run near Kuala Lumpur Hospital",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/suspect-surrenders-after-motorcyclist-killed-in-earlymorning-hitandrun-near-kuala-lumpur-hospital/226489",
-      "source": "Malay Mail",
-      "published": "2026-07-06T01:37:31",
-      "summary": "KUALA LUMPUR, July 6 — Police arrested a driver suspected of involvement in a hit-and-run that killed a motorcycli...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
+        "health"
       ]
     }
   ]
