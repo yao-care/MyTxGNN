@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-06T10:15:49.890501",
+  "fetched": "2026-07-06T14:22:23.388812",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
     {
       "title": "Community Pharmacies Want Integration Into MOH’s New Emergency Triage System",
@@ -112,6 +112,28 @@
       "published": "2026-07-03T06:00:00",
       "summary": "The government should redesign the Base MHIT product in line with the PAC's recommendations, such as adopting community-rating, instead of risk-rating, to protect senior citizens. Premium schedules in Base MHIT policy contracts must be legally binding. The post Redesign Base MHIT To Protect Senior Citizens appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Health minister aims for all housemen to get permanent posts by 2028",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/health-minister-aims-for-all-housemen-to-get-permanent-posts-by-2028/226607",
+      "source": "Malay Mail",
+      "published": "2026-07-06T10:48:18",
+      "summary": "PUTRAJAYA, July 6 — The Health Ministry (MOH) targets to offer permanent posts to all housemen immediately upon co...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Banting school stabbing: Student stable after hospital treatment",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/banting-school-stabbing-student-stable-after-hospital-treatment/226604",
+      "source": "Malay Mail",
+      "published": "2026-07-06T10:17:43",
+      "summary": "SHAH ALAM, July 6 — A student injured in a stabbing incident at a secondary school in Banting, Kuala Langat, is in...",
+      "keywords_matched": [
+        "treatment",
+        "hospital",
+        "hospital"
+      ]
     },
     {
       "title": "PMO proposed every Jana Wibawa contractor, Tengku Zafrul tells ex-PM Muhyiddin’s trial",
