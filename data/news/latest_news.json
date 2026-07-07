@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-07T02:54:48.581793",
+  "fetched": "2026-07-07T06:44:49.141812",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,41 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Balancing Financing And Patient Care: Accelerate Regulating TPAs And MCOs — Dr James Jeremiah",
+      "url": "https://codeblue.galencentre.org/2026/07/balancing-financing-and-patient-care-accelerate-regulating-tpas-and-mcos-dr-james-jeremiah/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-07T06:00:00",
+      "summary": "As Malaysia aims to cement its status as a regional health care hub, robust governance is vital to offering regulatory certainty to investors, transparency to patients, and fairness to health care providers. The post Balancing Financing And Patient Care: Accelerate Regulating TPAs And MCOs — Dr James Jeremiah appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "patient"
+      ]
+    },
+    {
+      "title": "First, Do No Harm: Why Doctors’ Professional Fees Must Be Excluded From Malaysia’s DRG Implementation — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/07/first-do-no-harm-why-doctors-professional-fees-must-be-excluded-from-malaysias-drg-implementation-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-07T03:30:00",
+      "summary": "Designing a system that respects the distinct roles of institutional facilities and clinical experts will allow the country to protect public affordability without compromising patient safety or clinical excellence. The post First, Do No Harm: Why Doctors’ Professional Fees Must Be Excluded From Malaysia’s DRG Implementation — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor",
+        "patient",
+        "clinical"
+      ]
+    },
+    {
+      "title": "Government Names Base MHIT ‘MediAsas’, Waiting Periods Uncertain",
+      "url": "https://codeblue.galencentre.org/2026/07/government-names-base-mhit-mediasas-waiting-periods-uncertain/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-07T03:15:20",
+      "summary": "The government-designed Base MHIT, named MediAsas, will be offered by six ITOs during its pilot in the Klang Valley from end-July to October. MOH didn't specify waiting periods; conventional medical plans have 120-day waiting periods for certain illnesses. The post Government Names Base MHIT ‘MediAsas’, Waiting Periods Uncertain appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Government Spends More On Innovator Medicines Than Generics, Says Pharmaniaga",
       "url": "https://codeblue.galencentre.org/2026/07/government-spends-more-on-innovator-medicines-than-generics-says-pharmaniaga/",
@@ -88,43 +121,24 @@
       ]
     },
     {
-      "title": "Socso Says Paid Out RM1.2m In First Month Of Lindung 24 Hours",
-      "url": "https://codeblue.galencentre.org/2026/07/socso-says-paid-out-rm1-2m-in-first-month-of-lindung-24-hours/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-03T08:38:44",
-      "summary": "Socso says it paid out over RM1.2 million under Lindung 24 Hours within the first month of implementation in June. The largest benefit payout was for implant costs at RM1.16 million, followed by over RM99,000 in temporary disablement benefit payments. The post Socso Says Paid Out RM1.2m In First Month Of Lindung 24 Hours appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "PH’s Johor Manifesto: RM100,000 Health Insurance Coverage For Private Hospitalisation",
-      "url": "https://codeblue.galencentre.org/2026/07/phs-johor-manifesto-rm100000-health-insurance-coverage-for-private-hospitalisation/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-03T07:51:19",
-      "summary": "PH's Johor election manifesto touts a free health insurance scheme with RM100,000 annual limit for 500,000 recipients among B40, M40, and select OKU to access private hospitals. Putrajaya's Base MHIT also has RM100,000 cover, but people must pay premiums. The post PH’s Johor Manifesto: RM100,000 Health Insurance Coverage For Private Hospitalisation appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Rewarding The Healthy: Why Health Assurance Needs Its Own No-Claims Discount — Dr Mohamed Rafick Khan",
-      "url": "https://codeblue.galencentre.org/2026/07/rewarding-the-healthy-why-health-assurance-needs-its-own-no-claims-discount-dr-mohamed-rafick-khan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-03T07:20:00",
-      "summary": "A NCD model adapted for health offers a credible path to a pricing model that rewards good health outcomes rather than simply pooling everyone into the same cost curve. The post Rewarding The Healthy: Why Health Assurance Needs Its Own No-Claims Discount — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
+      "title": "DOSM: Malaysia’s health inflation doubles to 3pc in 2025 on higher insurance and healthcare costs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/07/dosm-malaysias-health-inflation-doubles-to-3pc-in-2025-on-higher-insurance-and-healthcare-costs/226691",
+      "source": "Malay Mail",
+      "published": "2026-07-07T06:23:12",
+      "summary": "PUTRAJAYA, July 7 — Health inflation in Malaysia increased to three per cent in 2025 from 1.4 per cent the previou...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Court of Appeal grants bail to 14 foreign nationals in Brickfields drug possession case",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/07/court-of-appeal-grants-bail-to-14-foreign-nationals-in-brickfields-drug-possession-case/226656",
+      "title": "Sabah hospital achieves milestone with complex surgery separating 28-day-old conjoined twins",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/07/sabah-hospital-achieves-milestone-with-complex-surgery-separating-28-day-old-conjoined-twins/226676",
       "source": "Malay Mail",
-      "published": "2026-07-07T02:21:21",
-      "summary": "PUTRAJAYA, July 7 — The Court of Appeal yesterday granted bail of RM3,000 with two sureties each to 14 foreign nat...",
+      "published": "2026-07-07T05:16:10",
+      "summary": "KOTA KINABALU, July 7 — The Sabah Women and Children’s Hospital (HWKKS) in Likas has achieved a historic fir...",
       "keywords_matched": [
-        "drug"
+        "hospital",
+        "hospital"
       ]
     }
   ]
