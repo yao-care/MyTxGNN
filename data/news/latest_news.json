@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-07T06:44:49.141812",
+  "fetched": "2026-07-07T10:24:06.689013",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,39 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "HTAR Klang’s Surgery Department On Verge Of Collapse — Concerned Surgical Medical Officers",
+      "url": "https://codeblue.galencentre.org/2026/07/htar-klangs-surgery-department-on-verge-of-collapse-concerned-surgical-medical-officers/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-07T08:41:00",
+      "summary": "HTAR Klang's general surgery department, with just 20 MOs serving 300-400 patients daily (inpatients/outpatients/ED), is on the verge of collapse, say surgical MOs. \"Surgical services in HTAR are now operating beyond safe human and operational limits.\" The post HTAR Klang’s Surgery Department On Verge Of Collapse — Concerned Surgical Medical Officers appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "patient"
+      ]
+    },
+    {
+      "title": "Chaining Is Not Care: Malaysia Must Move Past Restraint And Rethink How We See Autism — Dr Amar-Singh HSS, Ng Lai-Thin & Wong Hui-Min",
+      "url": "https://codeblue.galencentre.org/2026/07/chaining-is-not-care-malaysia-must-move-past-restraint-and-rethink-how-we-see-autism-dr-amar-singh-hss-ng-lai-thin-wong-hui-min/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-07T08:39:27",
+      "summary": "Chaining a child, whatever her diagnosis, is not a clinical intervention. It is restraint, and restraint of this kind has no place in the care of a person with a disability. The post Chaining Is Not Care: Malaysia Must Move Past Restraint And Rethink How We See Autism — Dr Amar-Singh HSS, Ng Lai-Thin & Wong Hui-Min appeared first on CodeBlue .",
+      "keywords_matched": [
+        "clinical"
+      ]
+    },
+    {
+      "title": "Harm Reduction Saves Lives, Protects Communities And Strengthens The Economy",
+      "url": "https://codeblue.galencentre.org/2026/07/harm-reduction-saves-lives-protects-communities-and-strengthens-the-economy/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-07T07:13:32",
+      "summary": "As Malaysia faces the rising burden of NCDs, an ageing population, and increasing health care costs, the lesson from HIV remains clear: preventing harm early is one of the smartest investments a nation can make. The post Harm Reduction Saves Lives, Protects Communities And Strengthens The Economy appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Balancing Financing And Patient Care: Accelerate Regulating TPAs And MCOs — Dr James Jeremiah",
       "url": "https://codeblue.galencentre.org/2026/07/balancing-financing-and-patient-care-accelerate-regulating-tpas-and-mcos-dr-james-jeremiah/",
@@ -81,64 +112,6 @@
       "summary": "The Galen Centre rebuts the KPWKM deputy minister's claim that abortion and clinics conducting it are illegal. Section 312 of the Penal Code allows termination of pregnancy if continuing pregnancy risks the woman's life or harms her mental/physical health. The post Abortion Isn’t Illegal In Malaysia, Deputy Women’s Minister Told appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Beyond The Price Tag: Addressing The Collective Challenge Of Medical Inflation — Dr Goh Heong Keong",
-      "url": "https://codeblue.galencentre.org/2026/07/beyond-the-price-tag-addressing-the-collective-challenge-of-medical-inflation-dr-goh-heong-keong/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-06T06:00:00",
-      "summary": "Policy discussions must focus on the major drivers of health care expenditure. Professional fees, which are regulated and remain relatively stagnant compared with broader inflationary trends, represent only a modest proportion of total health care costs. The post Beyond The Price Tag: Addressing The Collective Challenge Of Medical Inflation — Dr Goh Heong Keong appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical"
-      ]
-    },
-    {
-      "title": "Are We Paying For Health Care Or Hospitality? — HCP",
-      "url": "https://codeblue.galencentre.org/2026/07/are-we-paying-for-health-care-or-hospitality-hcp/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-06T03:30:00",
-      "summary": "If medical tourism is profitable, does that additional revenue help moderate health care costs for Malaysians, or does it instead finance further investment in premium amenities, creating a continuous cycle of competition based on luxury rather than value? The post Are We Paying For Health Care Or Hospitality? — HCP appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Private Hospitals Say They’re At The Mercy Of Big Insurers",
-      "url": "https://codeblue.galencentre.org/2026/07/private-hospitals-say-theyre-at-the-mercy-of-big-insurers/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-06T02:00:00",
-      "summary": "Private hospitals say they're at the mercy of big insurance companies, with delisting threats if they don't give discounts at 20% to even 40%. APHM says medical equipment and nursing are actually undercharged to patients; running a hospital is very costly. The post Private Hospitals Say They’re At The Mercy Of Big Insurers appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "patient",
-        "hospital"
-      ]
-    },
-    {
-      "title": "DOSM: Malaysia’s health inflation doubles to 3pc in 2025 on higher insurance and healthcare costs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/07/dosm-malaysias-health-inflation-doubles-to-3pc-in-2025-on-higher-insurance-and-healthcare-costs/226691",
-      "source": "Malay Mail",
-      "published": "2026-07-07T06:23:12",
-      "summary": "PUTRAJAYA, July 7 — Health inflation in Malaysia increased to three per cent in 2025 from 1.4 per cent the previou...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Sabah hospital achieves milestone with complex surgery separating 28-day-old conjoined twins",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/07/sabah-hospital-achieves-milestone-with-complex-surgery-separating-28-day-old-conjoined-twins/226676",
-      "source": "Malay Mail",
-      "published": "2026-07-07T05:16:10",
-      "summary": "KOTA KINABALU, July 7 — The Sabah Women and Children’s Hospital (HWKKS) in Likas has achieved a historic fir...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
