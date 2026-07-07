@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-06T23:04:36.180726",
+  "fetched": "2026-07-07T02:54:48.581793",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Government Spends More On Innovator Medicines Than Generics, Says Pharmaniaga",
+      "url": "https://codeblue.galencentre.org/2026/07/government-spends-more-on-innovator-medicines-than-generics-says-pharmaniaga/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-07T02:00:00",
+      "summary": "Pharmaniaga says 59% of the government's pharmaceutical spending in 2025 went to innovators (RM2.1b), compared to 41% on generics (RM1.4b). The government also allocated two-thirds of its budget on imported drugs, be it originators or imported generics. The post Government Spends More On Innovator Medicines Than Generics, Says Pharmaniaga appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "drug",
+        "pharmaceutical"
+      ]
+    },
     {
       "title": "Community Pharmacies Want Integration Into MOH’s New Emergency Triage System",
       "url": "https://codeblue.galencentre.org/2026/07/community-pharmacies-want-integration-into-mohs-new-emergency-triage-system/",
@@ -106,53 +118,13 @@
       ]
     },
     {
-      "title": "Redesign Base MHIT To Protect Senior Citizens",
-      "url": "https://codeblue.galencentre.org/2026/07/redesign-base-mhit-to-protect-senior-citizens/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-03T06:00:00",
-      "summary": "The government should redesign the Base MHIT product in line with the PAC's recommendations, such as adopting community-rating, instead of risk-rating, to protect senior citizens. Premium schedules in Base MHIT policy contracts must be legally binding. The post Redesign Base MHIT To Protect Senior Citizens appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Health minister aims for all housemen to get permanent posts by 2028",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/health-minister-aims-for-all-housemen-to-get-permanent-posts-by-2028/226607",
+      "title": "Court of Appeal grants bail to 14 foreign nationals in Brickfields drug possession case",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/07/court-of-appeal-grants-bail-to-14-foreign-nationals-in-brickfields-drug-possession-case/226656",
       "source": "Malay Mail",
-      "published": "2026-07-06T10:48:18",
-      "summary": "PUTRAJAYA, July 6 — The Health Ministry (MOH) targets to offer permanent posts to all housemen immediately upon co...",
+      "published": "2026-07-07T02:21:21",
+      "summary": "PUTRAJAYA, July 7 — The Court of Appeal yesterday granted bail of RM3,000 with two sureties each to 14 foreign nat...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Banting school stabbing: Student stable after hospital treatment",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/banting-school-stabbing-student-stable-after-hospital-treatment/226604",
-      "source": "Malay Mail",
-      "published": "2026-07-06T10:17:43",
-      "summary": "SHAH ALAM, July 6 — A student injured in a stabbing incident at a secondary school in Banting, Kuala Langat, is in...",
-      "keywords_matched": [
-        "treatment",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "PMO proposed every Jana Wibawa contractor, Tengku Zafrul tells ex-PM Muhyiddin’s trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/pmo-proposed-every-jana-wibawa-contractor-tengku-zafrul-tells-ex-pm-muhyiddins-trial/226584",
-      "source": "Malay Mail",
-      "published": "2026-07-06T09:00:18",
-      "summary": "KUALA LUMPUR, July 6 — All of the Malaysian government’s projects under the Muhyiddin administration’s...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Sabah minister flags unlicensed centres, urges mums and dads to stick with approved childcare",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/sabah-minister-flags-unlicensed-centres-urges-mums-and-dads-to-stick-with-approved-childcare/226577",
-      "source": "Malay Mail",
-      "published": "2026-07-06T08:25:41",
-      "summary": "KOTA KINABALU, July 6 — State Women, Health and People’s Wellbeing Minister Datuk Julita Majungki has urged...",
-      "keywords_matched": [
-        "health"
+        "drug"
       ]
     }
   ]
