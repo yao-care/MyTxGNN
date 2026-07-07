@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-07T10:24:06.689013",
+  "fetched": "2026-07-07T13:18:30.710341",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "HTAR Klang’s Surgery Department On Verge Of Collapse — Concerned Surgical Medical Officers",
@@ -112,6 +112,16 @@
       "summary": "The Galen Centre rebuts the KPWKM deputy minister's claim that abortion and clinics conducting it are illegal. Section 312 of the Penal Code allows termination of pregnancy if continuing pregnancy risks the woman's life or harms her mental/physical health. The post Abortion Isn’t Illegal In Malaysia, Deputy Women’s Minister Told appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "‘If it’s from the PM, I will act on it’: Ex-finance minister Tengku Zafrul says in Muhyiddin’s trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/07/if-its-from-the-pm-i-will-act-on-it-ex-finance-minister-tengku-zafrul-says-in-muhyiddins-trial/226753",
+      "source": "Malay Mail",
+      "published": "2026-07-07T11:46:02",
+      "summary": "KUALA LUMPUR, July 7 — Datuk Seri Tengku Zafrul Abdul Aziz today confirmed he did have the power when he was finan...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
