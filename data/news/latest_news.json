@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-08T05:48:59.202952",
+  "fetched": "2026-07-08T08:24:19.162902",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,36 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "Urea Prices Jumped 63% Amid West Asia Conflict: Mat Sabu",
+      "url": "https://codeblue.galencentre.org/2026/07/urea-prices-jumped-63-amid-west-asia-conflict-mat-sabu/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-08T07:30:00",
+      "summary": "Mohamad Sabu says urea prices jumped 63% from Feb to May this year due to the Persian Gulf conflict that directly affected the cost of agricultural inputs. Domestic food inflation reached 1.4% in May, but rice, chicken and egg supplies are sufficient. The post Urea Prices Jumped 63% Amid West Asia Conflict: Mat Sabu appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Health Minister Must Act On HTAR Klang Crisis — Dr Halimah Ali",
+      "url": "https://codeblue.galencentre.org/2026/07/health-minister-must-act-on-htar-klang-crisis-dr-halimah-ali/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-08T05:55:11",
+      "summary": "MOH should urgently conduct an independent assessment of workforce adequacy and workload within HTAR’s surgical services. If our surgeons are telling us that they have reached the limit, the responsible response is to act before patients pay the price. The post Health Minister Must Act On HTAR Klang Crisis — Dr Halimah Ali appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "patient"
+      ]
+    },
+    {
+      "title": "DVS Flags Salmonella Infantis Among Top Five Serovars Found In Healthy Poultry",
+      "url": "https://codeblue.galencentre.org/2026/07/dvs-flags-salmonella-infantis-among-top-five-serovars-found-in-healthy-poultry/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-08T05:50:00",
+      "summary": "Salmonella Infantis is now among the top five Salmonella serovars isolated from healthy poultry in Malaysia, says DVS. It also revealed that 90% of broiler chicken and 93% of layer chicken Salmonella isolates were multidrug-resistant in 2025. The post DVS Flags Salmonella Infantis Among Top Five Serovars Found In Healthy Poultry appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "drug"
+      ]
+    },
     {
       "title": "Behind Closed Doors In HSAJB’s Emergency Department — Houseman",
       "url": "https://codeblue.galencentre.org/2026/07/behind-closed-doors-in-hsajbs-emergency-department-houseman/",
@@ -77,40 +107,6 @@
       "keywords_matched": [
         "health",
         "patient"
-      ]
-    },
-    {
-      "title": "First, Do No Harm: Why Doctors’ Professional Fees Must Be Excluded From Malaysia’s DRG Implementation — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/07/first-do-no-harm-why-doctors-professional-fees-must-be-excluded-from-malaysias-drg-implementation-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-07T03:30:00",
-      "summary": "Designing a system that respects the distinct roles of institutional facilities and clinical experts will allow the country to protect public affordability without compromising patient safety or clinical excellence. The post First, Do No Harm: Why Doctors’ Professional Fees Must Be Excluded From Malaysia’s DRG Implementation — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor",
-        "patient",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Government Names Base MHIT ‘MediAsas’, Waiting Periods Uncertain",
-      "url": "https://codeblue.galencentre.org/2026/07/government-names-base-mhit-mediasas-waiting-periods-uncertain/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-07T03:15:20",
-      "summary": "The government-designed Base MHIT, named MediAsas, will be offered by six ITOs during its pilot in the Klang Valley from end-July to October. MOH didn't specify waiting periods; conventional medical plans have 120-day waiting periods for certain illnesses. The post Government Names Base MHIT ‘MediAsas’, Waiting Periods Uncertain appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Government Spends More On Innovator Medicines Than Generics, Says Pharmaniaga",
-      "url": "https://codeblue.galencentre.org/2026/07/government-spends-more-on-innovator-medicines-than-generics-says-pharmaniaga/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-07T02:00:00",
-      "summary": "Pharmaniaga says 59% of the government's pharmaceutical spending in 2025 went to innovators (RM2.1b), compared to 41% on generics (RM1.4b). The government also allocated two-thirds of its budget on imported drugs, be it originators or imported generics. The post Government Spends More On Innovator Medicines Than Generics, Says Pharmaniaga appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medicine",
-        "drug",
-        "pharmaceutical"
       ]
     },
     {
