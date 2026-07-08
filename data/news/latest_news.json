@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-08T08:24:19.162902",
+  "fetched": "2026-07-08T11:02:29.050587",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Urea Prices Jumped 63% Amid West Asia Conflict: Mat Sabu",
@@ -107,30 +107,6 @@
       "keywords_matched": [
         "health",
         "patient"
-      ]
-    },
-    {
-      "title": "Cloud‑based system speeds up patient flow at public clinics, 81pc seen within 60 minutes, says deputy health minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/08/cloudbased-system-speeds-up-patient-flow-at-public-clinics-81pc-seen-within-60-minutes-says-deputy-health-minister/226822",
-      "source": "Malay Mail",
-      "published": "2026-07-08T05:46:55",
-      "summary": "KUALA LUMPUR July, 8 — The implementation of the Cloud-Based Clinical Management System (CCMS) at government healt...",
-      "keywords_matched": [
-        "health",
-        "patient",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Speaker urges MPs to undergo regular health screenings as Kuala Terengganu MP is hospitalised at IJN",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/08/speaker-urges-mps-to-undergo-regular-health-screenings-as-kuala-terengganu-mp-is-hospitalised-at-ijn/226805",
-      "source": "Malay Mail",
-      "published": "2026-07-08T04:10:27",
-      "summary": "KUALA LUMPUR, July 8 — Dewan Rakyat Speaker Tan Sri Dr Johari Abdul today reminded Members of Parliament to underg...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
       ]
     }
   ]
