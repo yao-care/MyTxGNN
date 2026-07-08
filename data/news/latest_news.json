@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-08T02:39:50.262235",
+  "fetched": "2026-07-08T05:48:59.202952",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,26 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "Behind Closed Doors In HSAJB’s Emergency Department — Houseman",
+      "url": "https://codeblue.galencentre.org/2026/07/behind-closed-doors-in-hsajbs-emergency-department-houseman/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-08T04:00:00",
+      "summary": "A houseman claims that HSAJB's emergency department suffers from a lack of facilities like ECG machines, vital sign monitoring, and oxygen ports, besides lack of privacy when attending to patients, unhelpful support staff, and deplorable toilet conditions. The post Behind Closed Doors In HSAJB’s Emergency Department — Houseman appeared first on CodeBlue .",
+      "keywords_matched": [
+        "patient"
+      ]
+    },
+    {
+      "title": "Mental Health At Work Has Become Something To Measure, Not Just Talk About — Dr Kirath Sidhu",
+      "url": "https://codeblue.galencentre.org/2026/07/mental-health-at-work-has-become-something-to-measure-not-just-talk-about-dr-kirath-sidhu/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-08T03:27:06",
+      "summary": "More than half of working Malaysians report high levels of work-related stress. Many of those people are, at this moment, sitting at a desk or standing on a line, doing their jobs and saying nothing. The post Mental Health At Work Has Become Something To Measure, Not Just Talk About — Dr Kirath Sidhu appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "HSAJB’s Cardiology Department Understaffed, Overworked, Lacking Equipment — Specialist",
       "url": "https://codeblue.galencentre.org/2026/07/hsajbs-cardiology-department-understaffed-overworked-lacking-equipment-specialist/",
@@ -94,43 +114,27 @@
       ]
     },
     {
-      "title": "Community Pharmacies Want Integration Into MOH’s New Emergency Triage System",
-      "url": "https://codeblue.galencentre.org/2026/07/community-pharmacies-want-integration-into-mohs-new-emergency-triage-system/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-06T09:29:59",
-      "summary": "MPS suggests integrating community pharmacies into MOH's new emergency triage system for government hospitals, in which less urgent or routine cases with minor ailments can be referred to participating community pharmacists for assessment and management. The post Community Pharmacies Want Integration Into MOH’s New Emergency Triage System appeared first on CodeBlue .",
+      "title": "Cloud‑based system speeds up patient flow at public clinics, 81pc seen within 60 minutes, says deputy health minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/08/cloudbased-system-speeds-up-patient-flow-at-public-clinics-81pc-seen-within-60-minutes-says-deputy-health-minister/226822",
+      "source": "Malay Mail",
+      "published": "2026-07-08T05:46:55",
+      "summary": "KUALA LUMPUR July, 8 — The implementation of the Cloud-Based Clinical Management System (CCMS) at government healt...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
+        "health",
+        "patient",
+        "clinical"
       ]
     },
     {
-      "title": "Coping Without A Limb: Realities Facing Amputees Today — Dr Noor Hasliza Che Seman, Dr Che Chong Chin & Nithya Roobini Govindarajoo",
-      "url": "https://codeblue.galencentre.org/2026/07/coping-without-a-limb-realities-facing-amputees-today-dr-noor-hasliza-che-seman-dr-che-chong-chin-nithya-roobini-govindarajoo/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-06T07:30:00",
-      "summary": "People living with limb loss should not be defined by what they have lost, but recognised for their abilities, resilience, and potential to contribute meaningfully to society. The post Coping Without A Limb: Realities Facing Amputees Today — Dr Noor Hasliza Che Seman, Dr Che Chong Chin & Nithya Roobini Govindarajoo appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Paloh Pakatan candidate Ruban hospitalised after slipped disc flares up during campaign",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/08/paloh-pakatan-candidate-ruban-hospitalised-after-slipped-disc-flares-up-during-campaign/226762",
+      "title": "Speaker urges MPs to undergo regular health screenings as Kuala Terengganu MP is hospitalised at IJN",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/08/speaker-urges-mps-to-undergo-regular-health-screenings-as-kuala-terengganu-mp-is-hospitalised-at-ijn/226805",
       "source": "Malay Mail",
-      "published": "2026-07-08T00:37:40",
-      "summary": "KLUANG, July 8 —  Pakatan Harapan (PH) candidate for the Paloh state assembly seat, Dr. A. Ruban,...",
+      "published": "2026-07-08T04:10:27",
+      "summary": "KUALA LUMPUR, July 8 — Dewan Rakyat Speaker Tan Sri Dr Johari Abdul today reminded Members of Parliament to underg...",
       "keywords_matched": [
+        "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "‘If it’s from the PM, I will act on it’: Ex-finance minister Tengku Zafrul says in Muhyiddin’s trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/07/if-its-from-the-pm-i-will-act-on-it-ex-finance-minister-tengku-zafrul-says-in-muhyiddins-trial/226753",
-      "source": "Malay Mail",
-      "published": "2026-07-07T11:46:02",
-      "summary": "KUALA LUMPUR, July 7 — Datuk Seri Tengku Zafrul Abdul Aziz today confirmed he did have the power when he was finan...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
