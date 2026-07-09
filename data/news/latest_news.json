@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-09T04:50:32.632905",
+  "fetched": "2026-07-09T08:26:54.449177",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,23 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "The Great Medical Inflation Puzzle: Who Is Really Responsible? — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/07/the-great-medical-inflation-puzzle-who-is-really-responsible-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-09T05:30:00",
+      "summary": "Every time we choose a hospital because of its marble lobby rather than its clinical outcomes, we are voting with our feet and our wallets for a system that prioritises hospitality over health care. The post The Great Medical Inflation Puzzle: Who Is Really Responsible? — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "clinical",
+        "hospital",
+        "ARB"
+      ]
+    },
     {
       "title": "Johor’s Cardiothoracic Service Can’t Continue Like This — Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/07/johors-cardiothoracic-service-cant-continue-like-this-medical-officer/",
@@ -101,23 +116,24 @@
       ]
     },
     {
-      "title": "Chaining Is Not Care: Malaysia Must Move Past Restraint And Rethink How We See Autism — Dr Amar-Singh HSS, Ng Lai-Thin & Wong Hui-Min",
-      "url": "https://codeblue.galencentre.org/2026/07/chaining-is-not-care-malaysia-must-move-past-restraint-and-rethink-how-we-see-autism-dr-amar-singh-hss-ng-lai-thin-wong-hui-min/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-07T08:39:27",
-      "summary": "Chaining a child, whatever her diagnosis, is not a clinical intervention. It is restraint, and restraint of this kind has no place in the care of a person with a disability. The post Chaining Is Not Care: Malaysia Must Move Past Restraint And Rethink How We See Autism — Dr Amar-Singh HSS, Ng Lai-Thin & Wong Hui-Min appeared first on CodeBlue .",
+      "title": "Penang draws more than half a million foreign patients, accounts for 45pc of Malaysia’s medical tourism revenue",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/penang-draws-more-than-half-a-million-foreign-patients-accounts-for-45pc-of-malaysias-medical-tourism-revenue/226952",
+      "source": "Malay Mail",
+      "published": "2026-07-09T05:33:35",
+      "summary": "GEORGE TOWN, July 9 — Penang now contributes 45 per cent of Malaysia’s total medical tourism revenue, said C...",
       "keywords_matched": [
-        "clinical"
+        "medical",
+        "patient"
       ]
     },
     {
-      "title": "Student group GPMS pushes for regular mental health screening at education institutions after recent stabbing incident",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/student-group-gpms-pushes-for-regular-mental-health-screening-at-education-institutions-after-recent-stabbing-incident/226914",
+      "title": "Alleged Gang 24 Hung Hung top member pleads not guilty in Sarawak to having over 120 rounds of ammo, firearm",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/alleged-gang-24-hung-hung-top-member-pleads-not-guilty-in-sarawak-to-having-over-120-rounds-of-ammo-firearm/226951",
       "source": "Malay Mail",
-      "published": "2026-07-09T01:24:42",
-      "summary": "KUALA LUMPUR, July 9 — The Federation of Peninsular Malay Students (GPMS) has proposed that regular mental health...",
+      "published": "2026-07-09T05:17:30",
+      "summary": "KUCHING, July 9 — A top member of a group allegedly linked to the Gang 24 Hung Hung has claimed trial here to six...",
       "keywords_matched": [
-        "health"
+        "trial"
       ]
     }
   ]
