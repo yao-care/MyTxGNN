@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-09T08:26:54.449177",
+  "fetched": "2026-07-09T11:55:24.022846",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,30 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
+    {
+      "title": "JKNS Clarifies Doctor Numbers In HTAR’s Surgery Department",
+      "url": "https://codeblue.galencentre.org/2026/07/jkns-clarifies-doctor-numbers-in-htars-surgery-department/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-09T09:37:52",
+      "summary": "JKNS says HTAR's surgery department has 32 MOs, not 20 as reported, but admits that doctor numbers often change, in line with placements or transfers. This caused an increase in on-call frequency. HTAR is expected to receive new permanent MOs next month. The post JKNS Clarifies Doctor Numbers In HTAR’s Surgery Department appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Doctors Oppose Pharmacists’ Bid To Join Emergency Triage",
+      "url": "https://codeblue.galencentre.org/2026/07/doctors-oppose-pharmacists-bid-to-join-emergency-triage/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-09T08:32:59",
+      "summary": "PMPASKL opposes MPS' suggestion to integrate community pharmacies into a new emergency triage system in public hospitals, saying non-critical cases aren't necessarily simple illnesses. \"A pharmacy is not a clinic and a pharmacist is not a doctor.\" The post Doctors Oppose Pharmacists’ Bid To Join Emergency Triage appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "The Great Medical Inflation Puzzle: Who Is Really Responsible? — Dr Rajeentheran Suntheralingam",
       "url": "https://codeblue.galencentre.org/2026/07/the-great-medical-inflation-puzzle-who-is-really-responsible-dr-rajeentheran-suntheralingam/",
@@ -97,41 +119,43 @@
       ]
     },
     {
-      "title": "HSAJB’s Cardiology Department Understaffed, Overworked, Lacking Equipment — Specialist",
-      "url": "https://codeblue.galencentre.org/2026/07/hsajbs-cardiology-department-understaffed-overworked-lacking-equipment-specialist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-08T02:00:00",
-      "summary": "HSAJB's cardiology department is severely understaffed and overworked, besides not having sufficient beds or angiography machines. Staff at every level are on excessive on-calls or double shifts. Johor has the lowest staffing occupancy rate in MOH. The post HSAJB’s Cardiology Department Understaffed, Overworked, Lacking Equipment — Specialist appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "HTAR Klang’s Surgery Department On Verge Of Collapse — Concerned Surgical Medical Officers",
-      "url": "https://codeblue.galencentre.org/2026/07/htar-klangs-surgery-department-on-verge-of-collapse-concerned-surgical-medical-officers/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-07T08:41:00",
-      "summary": "HTAR Klang's general surgery department, with just 20 MOs serving 300-400 patients daily (inpatients/outpatients/ED), is on the verge of collapse, say surgical MOs. \"Surgical services in HTAR are now operating beyond safe human and operational limits.\" The post HTAR Klang’s Surgery Department On Verge Of Collapse — Concerned Surgical Medical Officers appeared first on CodeBlue .",
+      "title": "Muhyiddin's trial: Director of company that won RM141m project says helped all tender rivals to write to PM too",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/muhyiddins-trial-director-of-company-that-won-rm141m-project-says-helped-all-tender-rivals-to-write-to-pm-too/227018",
+      "source": "Malay Mail",
+      "published": "2026-07-09T11:24:15",
+      "summary": "KUALA LUMPUR, July 9 — Nepturis Sdn Bhd director Aliza Abd Malek today said she had helped her company...",
       "keywords_matched": [
-        "medical",
-        "patient"
+        "trial"
       ]
     },
     {
-      "title": "Penang draws more than half a million foreign patients, accounts for 45pc of Malaysia’s medical tourism revenue",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/penang-draws-more-than-half-a-million-foreign-patients-accounts-for-45pc-of-malaysias-medical-tourism-revenue/226952",
+      "title": "RM13.34m cannabis haul: Selangor police bust four drug syndicates",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/rm1334m-cannabis-haul-selangor-police-bust-four-drug-syndicates/227001",
       "source": "Malay Mail",
-      "published": "2026-07-09T05:33:35",
-      "summary": "GEORGE TOWN, July 9 — Penang now contributes 45 per cent of Malaysia’s total medical tourism revenue, said C...",
+      "published": "2026-07-09T09:11:47",
+      "summary": "SHAH ALAM, July 9 — Selangor police have crippled four syndicates involved in the distribution of cannabis buds, w...",
       "keywords_matched": [
-        "medical",
-        "patient"
+        "drug"
       ]
     },
     {
-      "title": "Alleged Gang 24 Hung Hung top member pleads not guilty in Sarawak to having over 120 rounds of ammo, firearm",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/alleged-gang-24-hung-hung-top-member-pleads-not-guilty-in-sarawak-to-having-over-120-rounds-of-ammo-firearm/226951",
+      "title": "Sabah doctor shortage: Health Ministry plans 560 permanent medical officer postings from October",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/sabah-doctor-shortage-health-ministry-plans-560-permanent-medical-officer-postings-from-october/226994",
       "source": "Malay Mail",
-      "published": "2026-07-09T05:17:30",
-      "summary": "KUCHING, July 9 — A top member of a group allegedly linked to the Gang 24 Hung Hung has claimed trial here to six...",
+      "published": "2026-07-09T08:51:02",
+      "summary": "KUALA LUMPUR, July 9 — The Ministry of Health (MOH) will appoint 560 new permanent medical officers for Sabah star...",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "doctor"
+      ]
+    },
+    {
+      "title": "High Court sets Sept 28 hearing on asset freeze bid in 1MDB’s RM1.41b suit against Rosmah over purchase of luxury goods",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/high-court-sets-sept-28-hearing-on-asset-freeze-bid-in-1mdbs-rm141b-suit-against-rosmah-over-purchase-of-luxury-goods/226993",
+      "source": "Malay Mail",
+      "published": "2026-07-09T08:47:29",
+      "summary": "KUALA LUMPUR, July 9 — The High Court has fixed June 28 next year to begin the trial of a lawsuit filed by 1Malays...",
       "keywords_matched": [
         "trial"
       ]
