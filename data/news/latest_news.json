@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-09T23:09:12.033943",
+  "fetched": "2026-07-10T02:51:47.465321",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Deputy Minister Predicts 50% Doctor No-Shows In Sabah",
+      "url": "https://codeblue.galencentre.org/2026/07/deputy-minister-predicts-50-doctor-no-shows-in-sabah/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-10T02:00:00",
+      "summary": "Deputy Health Minister Hanifah says she expects half of medical officers offered permanent positions in Sabah later this year to reject their offers. Her forecast was based on the June intake, where only 20 of 39 doctors posted to Sabah reported for duty. The post Deputy Minister Predicts 50% Doctor No-Shows In Sabah appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "JKNS Clarifies Doctor Numbers In HTAR’s Surgery Department",
       "url": "https://codeblue.galencentre.org/2026/07/jkns-clarifies-doctor-numbers-in-htars-surgery-department/",
@@ -109,11 +121,21 @@
       ]
     },
     {
-      "title": "Mental Health At Work Has Become Something To Measure, Not Just Talk About — Dr Kirath Sidhu",
-      "url": "https://codeblue.galencentre.org/2026/07/mental-health-at-work-has-become-something-to-measure-not-just-talk-about-dr-kirath-sidhu/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-08T03:27:06",
-      "summary": "More than half of working Malaysians report high levels of work-related stress. Many of those people are, at this moment, sitting at a desk or standing on a line, doing their jobs and saying nothing. The post Mental Health At Work Has Become Something To Measure, Not Just Talk About — Dr Kirath Sidhu appeared first on CodeBlue .",
+      "title": "MOF says no blanket freeze on 2026 allocations for Health and Education ministries",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/10/mof-says-no-blanket-freeze-on-2026-allocations-for-health-and-education-ministries/227041",
+      "source": "Malay Mail",
+      "published": "2026-07-10T01:49:38",
+      "summary": "KUALA LUMPUR, July 9 — The government is not implementing across-the-board restrictions on the allocations for the...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Johor polls: Anwar vows better healthcare facilities, clean water access for Rengit residents",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/10/johor-polls-anwar-vows-better-healthcare-facilities-clean-water-access-for-rengit-residents/227035",
+      "source": "Malay Mail",
+      "published": "2026-07-10T01:16:43",
+      "summary": "BATU PAHAT, July 10 — Prime Minister Datuk Seri Anwar Ibrahim has pledged to resolve the long-standing problems of...",
       "keywords_matched": [
         "health"
       ]
@@ -124,38 +146,6 @@
       "source": "Malay Mail",
       "published": "2026-07-09T11:24:15",
       "summary": "KUALA LUMPUR, July 9 — Nepturis Sdn Bhd director Aliza Abd Malek today said she had helped her company and four ot...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "RM13.34m cannabis haul: Selangor police bust four drug syndicates",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/rm1334m-cannabis-haul-selangor-police-bust-four-drug-syndicates/227001",
-      "source": "Malay Mail",
-      "published": "2026-07-09T09:11:47",
-      "summary": "SHAH ALAM, July 9 — Selangor police have crippled four syndicates involved in the distribution of cannabis buds, w...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Sabah doctor shortage: Health Ministry plans 560 permanent medical officer postings from October",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/sabah-doctor-shortage-health-ministry-plans-560-permanent-medical-officer-postings-from-october/226994",
-      "source": "Malay Mail",
-      "published": "2026-07-09T08:51:02",
-      "summary": "KUALA LUMPUR, July 9 — The Ministry of Health (MOH) will appoint 560 new permanent medical officers for Sabah star...",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "High Court sets Sept 28 hearing on asset freeze bid in 1MDB’s RM1.41b suit against Rosmah over purchase of luxury goods",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/09/high-court-sets-sept-28-hearing-on-asset-freeze-bid-in-1mdbs-rm141b-suit-against-rosmah-over-purchase-of-luxury-goods/226993",
-      "source": "Malay Mail",
-      "published": "2026-07-09T08:47:29",
-      "summary": "KUALA LUMPUR, July 9 — The High Court has fixed June 28 next year to begin the trial of a lawsuit filed by 1Malays...",
       "keywords_matched": [
         "trial"
       ]
