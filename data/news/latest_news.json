@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-10T06:43:13.923958",
+  "fetched": "2026-07-10T10:22:01.142716",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 10,
   "items": [
+    {
+      "title": "When The Pendulum Swings Too Far — Dr Ng Kuo Chern",
+      "url": "https://codeblue.galencentre.org/2026/07/when-the-pendulum-swings-too-far-dr-ng-kuo-chern/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-10T07:30:00",
+      "summary": "There is a profound difference between removing waste and reducing care to the lowest reimbursable denominator. If private health care is forced to use only what is cheapest, most standardised, and easiest to justify to payors, its role begins to change. The post When The Pendulum Swings Too Far — Dr Ng Kuo Chern appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Healthy Ageing Begins In Childhood",
       "url": "https://codeblue.galencentre.org/2026/07/healthy-ageing-begins-in-childhood/",
@@ -108,49 +118,6 @@
       "keywords_matched": [
         "medical",
         "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Mandatory National Health Insurance ‘Not Politically Right’: Dzulkefly",
-      "url": "https://codeblue.galencentre.org/2026/07/mandatory-national-health-insurance-not-politically-right-dzulkefly/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-09T02:00:00",
-      "summary": "Dr Dzul says Putrajaya isn't planning to introduce mandatory national health insurance, likening it to a \"double war\" on top of general taxation that funds public health care. The Madani government wants to \"mainstream\" private health insurance instead. The post Mandatory National Health Insurance ‘Not Politically Right’: Dzulkefly appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Bukit Aman bust drug distribution syndicates, seize RM13.3m in raids across three states",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/10/bukit-aman-bust-drug-distribution-syndicates-seize-rm133m-in-raids-across-three-states/227081",
-      "source": "Malay Mail",
-      "published": "2026-07-10T05:12:54",
-      "summary": "KUALA LUMPUR, July 10 — Federal narcotics police have dismantled two drug distribution syndicates worth RM13.3 mil...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Police bust drop‑and‑collect drug syndicate in Kuching, arrest seven and seize RM1.35m meth",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/10/police-bust-dropandcollect-drug-syndicate-in-kuching-arrest-seven-and-seize-rm135m-meth/227075",
-      "source": "Malay Mail",
-      "published": "2026-07-10T04:54:26",
-      "summary": "KUCHING, July 10 — Police have busted a drug trafficking syndicate believed to have used the drop-and-collect meth...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Rompin Hospital operations unaffected after non‑concession workers’ protest, salary issue resolved, says Pahang Health Dept",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/10/rompin-hospital-operations-unaffected-after-nonconcession-workers-protest-salary-issue-resolved-says-pahang-health-dept/227073",
-      "source": "Malay Mail",
-      "published": "2026-07-10T04:46:12",
-      "summary": "KUANTAN, July 10 — Operations at Rompin Hospital and the delivery of healthcare services to patients have not been...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "patient",
         "hospital"
       ]
     }
