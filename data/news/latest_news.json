@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-12T08:17:01.992615",
+  "fetched": "2026-07-12T10:25:49.551037",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "When The Pendulum Swings Too Far — Dr Ng Kuo Chern",
@@ -119,16 +119,6 @@
         "medical",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Two suspected lovers arrested after police chase uncovers drugs in Perlis",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/12/two-suspected-lovers-arrested-after-police-chase-uncovers-drugs-in-perlis/227270",
-      "source": "Malay Mail",
-      "published": "2026-07-12T01:39:48",
-      "summary": "ARAU, July 12 — A man and woman, suspected to be lovers, were arrested and 419.82 grams  (g)...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
