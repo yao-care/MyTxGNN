@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-13T02:36:41.812214",
+  "fetched": "2026-07-13T06:15:38.049126",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,26 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Permanent Appointments Alone Won’t Solve Doctor Retention In Sabah — MMA",
+      "url": "https://codeblue.galencentre.org/2026/07/permanent-appointments-alone-wont-solve-doctor-retention-in-sabah-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-13T05:40:00",
+      "summary": "Permanency alone may not be sufficient to address the challenge of attracting and retaining doctors in Sabah and Sarawak. More attention should be given to measures that improve long-term retention, including greater flexibility in inter-state transfers. The post Permanent Appointments Alone Won’t Solve Doctor Retention In Sabah — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Lindung 24/7 Must Remain Mandatory For Everyone’s Benefit",
+      "url": "https://codeblue.galencentre.org/2026/07/lindung-24-7-must-remain-mandatory-for-everyones-benefit/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-13T03:40:00",
+      "summary": "Lindung 24/7 must remain mandatory because social insurance only works when everyone, both rich and poor, contributes. Otherwise, it's unsustainable with a small risk pool; contribution rates may spike and claims get denied, like private health insurance. The post Lindung 24/7 Must Remain Mandatory For Everyone’s Benefit appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Poultry Producer SLH Expanding Despite Cost Pressures, Geopolitical Uncertainty",
       "url": "https://codeblue.galencentre.org/2026/07/poultry-producer-slh-expanding-despite-cost-pressures-geopolitical-uncertainty/",
@@ -88,33 +108,6 @@
       "summary": "JKNS says HTAR's surgery department has 32 MOs, not 20 as reported, but admits that doctor numbers often change, in line with placements or transfers. This caused an increase in on-call frequency. HTAR is expected to receive new permanent MOs next month. The post JKNS Clarifies Doctor Numbers In HTAR’s Surgery Department appeared first on CodeBlue .",
       "keywords_matched": [
         "doctor"
-      ]
-    },
-    {
-      "title": "Doctors Oppose Pharmacists’ Bid To Join Emergency Triage",
-      "url": "https://codeblue.galencentre.org/2026/07/doctors-oppose-pharmacists-bid-to-join-emergency-triage/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-09T08:32:59",
-      "summary": "PMPASKL opposes MPS' suggestion to integrate community pharmacies into a new emergency triage system in public hospitals, saying non-critical cases aren't necessarily simple illnesses. \"A pharmacy is not a clinic and a pharmacist is not a doctor.\" The post Doctors Oppose Pharmacists’ Bid To Join Emergency Triage appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "The Great Medical Inflation Puzzle: Who Is Really Responsible? — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/07/the-great-medical-inflation-puzzle-who-is-really-responsible-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-09T05:30:00",
-      "summary": "Every time we choose a hospital because of its marble lobby rather than its clinical outcomes, we are voting with our feet and our wallets for a system that prioritises hospitality over health care. The post The Great Medical Inflation Puzzle: Who Is Really Responsible? — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "hospital",
-        "clinical",
-        "hospital",
-        "ARB"
       ]
     }
   ]
