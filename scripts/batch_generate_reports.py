@@ -152,7 +152,7 @@ def main():
     parser.add_argument("--output", type=str, help="Output JSON file for results")
     parser.add_argument("--no-skip", action="store_true", help="Don't skip existing reports")
     parser.add_argument("--predictions-only", action="store_true", help="Only process bundles with predicted_indications")
-    parser.add_argument("--model", type=str, default=None, help="Claude model (default: sonnet)")
+    parser.add_argument("--model", type=str, default="sonnet", help="Claude model (default: sonnet)")
 
     args = parser.parse_args()
 
