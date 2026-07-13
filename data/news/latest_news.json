@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-13T22:54:19.372242",
+  "fetched": "2026-07-13T23:52:58.397350",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "How Singapore Can Effectively And Efficiently Co-Fund Private IVF Treatment — Dr Alexis Heng Boon Chin",
@@ -105,6 +105,18 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-07-10T02:00:00",
       "summary": "Deputy Health Minister Hanifah says she expects half of medical officers offered permanent positions in Sabah later this year to reject their offers. Her forecast was based on the June intake, where only 20 of 39 doctors posted to Sabah reported for duty. The post Deputy Minister Predicts 50% Doctor No-Shows In Sabah appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Trading ‘Dr Google’ for ‘Dr AI’: Why more Malaysians are self-diagnosing using chatbots — and what medical experts fear most",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/14/trading-dr-google-for-dr-ai-why-more-malaysians-are-self-diagnosing-using-chatbots-and-what-medical-experts-fear-most/226846",
+      "source": "Malay Mail",
+      "published": "2026-07-13T23:00:00",
+      "summary": "Growing reliance: 89 per cent of Malaysian internet users use AI tools, often trusting them over doctors for health deci...",
       "keywords_matched": [
         "health",
         "medical",
