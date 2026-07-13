@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-12T23:51:44.236550",
+  "fetched": "2026-07-13T02:36:41.812214",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Poultry Producer SLH Expanding Despite Cost Pressures, Geopolitical Uncertainty",
+      "url": "https://codeblue.galencentre.org/2026/07/poultry-producer-slh-expanding-despite-cost-pressures-geopolitical-uncertainty/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-13T02:00:00",
+      "summary": "SLH, a major Malaysian poultry producer, is pressing ahead with expansion, automation, and closed-house upgrades, despite rising feed costs and projected two years of market volatility. Smaller farmers are expected to face the greatest pressure. The post Poultry Producer SLH Expanding Despite Cost Pressures, Geopolitical Uncertainty appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "When The Pendulum Swings Too Far — Dr Ng Kuo Chern",
       "url": "https://codeblue.galencentre.org/2026/07/when-the-pendulum-swings-too-far-dr-ng-kuo-chern/",
@@ -107,18 +115,6 @@
         "clinical",
         "hospital",
         "ARB"
-      ]
-    },
-    {
-      "title": "Johor’s Cardiothoracic Service Can’t Continue Like This — Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/07/johors-cardiothoracic-service-cant-continue-like-this-medical-officer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-09T03:40:00",
-      "summary": "Johor Bahru's cardiothoracic service is divided between HSA and HSI. MOs and specialists travel repeatedly between both hospitals that are 20km apart. Two members of our department were involved in road accidents recently. Infrastructure is another issue. The post Johor’s Cardiothoracic Service Can’t Continue Like This — Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "hospital"
       ]
     }
   ]
