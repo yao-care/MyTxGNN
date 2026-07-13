@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-13T06:15:38.049126",
+  "fetched": "2026-07-13T10:23:42.984279",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "How Singapore Can Effectively And Efficiently Co-Fund Private IVF Treatment — Dr Alexis Heng Boon Chin",
+      "url": "https://codeblue.galencentre.org/2026/07/how-singapore-can-effectively-and-efficiently-co-fund-private-ivf-treatment/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-13T07:30:00",
+      "summary": "Singapore's existential demographic challenge requires bold, innovative action, and helping more couples access IVF quickly is a necessary step. But public funds must be spent on evidence-based medicine, not corporate upselling. The post How Singapore Can Effectively And Efficiently Co-Fund Private IVF Treatment — Dr Alexis Heng Boon Chin appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "treatment"
+      ]
+    },
     {
       "title": "Permanent Appointments Alone Won’t Solve Doctor Retention In Sabah — MMA",
       "url": "https://codeblue.galencentre.org/2026/07/permanent-appointments-alone-wont-solve-doctor-retention-in-sabah-mma/",
@@ -101,13 +112,23 @@
       ]
     },
     {
-      "title": "JKNS Clarifies Doctor Numbers In HTAR’s Surgery Department",
-      "url": "https://codeblue.galencentre.org/2026/07/jkns-clarifies-doctor-numbers-in-htars-surgery-department/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-09T09:37:52",
-      "summary": "JKNS says HTAR's surgery department has 32 MOs, not 20 as reported, but admits that doctor numbers often change, in line with placements or transfers. This caused an increase in on-call frequency. HTAR is expected to receive new permanent MOs next month. The post JKNS Clarifies Doctor Numbers In HTAR’s Surgery Department appeared first on CodeBlue .",
+      "title": "Muhyiddin’s trial: Bumiputera company director says gets paid RM12,500 monthly, denies being used as alleged hidden shareholder’s nominee",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/13/muhyiddins-trial-bumiputera-company-director-says-gets-paid-rm12500-monthly-denies-being-used-as-alleged-hidden-shareholders-nominee/227454",
+      "source": "Malay Mail",
+      "published": "2026-07-13T10:00:49",
+      "summary": "KUALA LUMPUR, July 13 — Aliza Abd Malek today said she receives a monthly income of RM12,500 as director of the Bu...",
       "keywords_matched": [
-        "doctor"
+        "trial"
+      ]
+    },
+    {
+      "title": "Worker deaths come at a price: Occupational safety group calls for workplace inspections to return after Klang factory fire",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/13/worker-deaths-come-at-a-price-occupational-safety-group-calls-for-workplace-inspections-to-return-after-klang-factory-fire/227428",
+      "source": "Malay Mail",
+      "published": "2026-07-13T08:25:13",
+      "summary": "KUALA LUMPUR, July 13 — The Malaysian Society for Occupational Safety and Health (MSOSH) has urged the Ministry of...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
