@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-13T10:23:42.984279",
+  "fetched": "2026-07-13T13:21:34.891266",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -112,6 +112,16 @@
       ]
     },
     {
+      "title": "Malaysian schools need more mental health professionals amid rising student crises, say experts",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/13/malaysian-schools-need-more-mental-health-professionals-amid-rising-student-crises-say-experts/227407",
+      "source": "Malay Mail",
+      "published": "2026-07-13T13:00:00",
+      "summary": "KUALA LUMPUR, July 13 — A growing number of negative incidents involving school students in recent years has raise...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Muhyiddin’s trial: Bumiputera company director says gets paid RM12,500 monthly, denies being used as alleged hidden shareholder’s nominee",
       "url": "https://www.malaymail.com/news/malaysia/2026/07/13/muhyiddins-trial-bumiputera-company-director-says-gets-paid-rm12500-monthly-denies-being-used-as-alleged-hidden-shareholders-nominee/227454",
       "source": "Malay Mail",
@@ -119,16 +129,6 @@
       "summary": "KUALA LUMPUR, July 13 — Aliza Abd Malek today said she receives a monthly income of RM12,500 as director of the Bu...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Worker deaths come at a price: Occupational safety group calls for workplace inspections to return after Klang factory fire",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/13/worker-deaths-come-at-a-price-occupational-safety-group-calls-for-workplace-inspections-to-return-after-klang-factory-fire/227428",
-      "source": "Malay Mail",
-      "published": "2026-07-13T08:25:13",
-      "summary": "KUALA LUMPUR, July 13 — The Malaysian Society for Occupational Safety and Health (MSOSH) has urged the Ministry of...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
