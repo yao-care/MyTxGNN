@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-13T23:52:58.397350",
+  "fetched": "2026-07-14T02:21:10.970163",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,17 @@
   ],
   "total_items": 13,
   "items": [
+    {
+      "title": "Doctors Now Eligible To Claim Relocation Allowance For Permanent Posts",
+      "url": "https://codeblue.galencentre.org/2026/07/doctors-now-eligible-to-claim-relocation-allowance-for-permanent-posts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-14T02:00:00",
+      "summary": "Dr Dzul says medical officers are now eligible to claim for transfers for permanent positions, starting last June 22. But in the first batch receiving this new benefit, half of those posted to Sabah (19 of 39 doctors) didn't report for duty on June 29. The post Doctors Now Eligible To Claim Relocation Allowance For Permanent Posts appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "How Singapore Can Effectively And Efficiently Co-Fund Private IVF Treatment — Dr Alexis Heng Boon Chin",
       "url": "https://codeblue.galencentre.org/2026/07/how-singapore-can-effectively-and-efficiently-co-fund-private-ivf-treatment/",
@@ -100,15 +111,16 @@
       ]
     },
     {
-      "title": "Deputy Minister Predicts 50% Doctor No-Shows In Sabah",
-      "url": "https://codeblue.galencentre.org/2026/07/deputy-minister-predicts-50-doctor-no-shows-in-sabah/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-10T02:00:00",
-      "summary": "Deputy Health Minister Hanifah says she expects half of medical officers offered permanent positions in Sabah later this year to reject their offers. Her forecast was based on the June intake, where only 20 of 39 doctors posted to Sabah reported for duty. The post Deputy Minister Predicts 50% Doctor No-Shows In Sabah appeared first on CodeBlue .",
+      "title": "Health Ministry plans AI pilot to cut doctors’ paperwork at selected hospitals",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/14/health-ministry-plans-ai-pilot-to-cut-doctors-paperwork-at-selected-hospitals/227491",
+      "source": "Malay Mail",
+      "published": "2026-07-14T01:16:40",
+      "summary": "KUALA LUMPUR, July 14 — The Ministry of Health (MOH) will implement a proof-of-concept project on the use of artif...",
       "keywords_matched": [
         "health",
-        "medical",
-        "doctor"
+        "hospital",
+        "doctor",
+        "hospital"
       ]
     },
     {
@@ -131,16 +143,6 @@
       "summary": "KUALA LUMPUR, July 13 — A growing number of negative incidents involving school students in recent years has raise...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Muhyiddin’s trial: Bumiputera company director says gets paid RM12,500 monthly, denies being used as alleged hidden shareholder’s nominee",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/13/muhyiddins-trial-bumiputera-company-director-says-gets-paid-rm12500-monthly-denies-being-used-as-alleged-hidden-shareholders-nominee/227454",
-      "source": "Malay Mail",
-      "published": "2026-07-13T10:00:49",
-      "summary": "KUALA LUMPUR, July 13 — Aliza Abd Malek today said she receives a monthly income of RM12,500 as director of the Bu...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
