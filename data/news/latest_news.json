@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-14T02:21:10.970163",
+  "fetched": "2026-07-14T05:27:53.506312",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,19 @@
   ],
   "total_items": 13,
   "items": [
+    {
+      "title": "Malaysia’s Private Health Care Sector Among Asean’s Strongest: Frost & Sullivan",
+      "url": "https://codeblue.galencentre.org/2026/07/malaysias-private-health-care-sector-among-aseans-strongest-frost-sullivan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-14T03:30:00",
+      "summary": "Malaysia is among Asean’s strongest private health care markets, says Frost & Sullivan, citing hospital expansion and medical tourism. Malaysia has ~290 private hospitals and ~19,000 private beds. MHIT claims funded grew 6x in 20 years to RM6.75b in 2023. The post Malaysia’s Private Health Care Sector Among Asean’s Strongest: Frost & Sullivan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Doctors Now Eligible To Claim Relocation Allowance For Permanent Posts",
       "url": "https://codeblue.galencentre.org/2026/07/doctors-now-eligible-to-claim-relocation-allowance-for-permanent-posts/",
@@ -101,13 +114,23 @@
       ]
     },
     {
-      "title": "Doctor Shortage Now A National Pattern Beyond Departments — Specialist",
-      "url": "https://codeblue.galencentre.org/2026/07/doctor-shortage-now-a-national-pattern-beyond-departments-specialist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-10T03:26:44",
-      "summary": "Doctor shortages are no longer about one department complaining; it's now a national pattern. Doctors leave when the system takes everything and gives back slogans. They leave when “service to nation” becomes a polite phrase for exploitation. The post Doctor Shortage Now A National Pattern Beyond Departments — Specialist appeared first on CodeBlue .",
+      "title": "Decision on new Bukit Rambai Health Clinic expected in Budget 2027",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/14/decision-on-new-bukit-rambai-health-clinic-expected-in-budget-2027/227511",
+      "source": "Malay Mail",
+      "published": "2026-07-14T04:08:24",
+      "summary": "MELAKA, July 14 — A decision on the proposed construction of the Type 3 Bukit Rambai Health Clinic is expected to...",
       "keywords_matched": [
-        "doctor"
+        "health"
+      ]
+    },
+    {
+      "title": "MPs asked to submit health reports to Parliament by Oct 30",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/14/mps-asked-to-submit-health-reports-to-parliament-by-oct-30/227509",
+      "source": "Malay Mail",
+      "published": "2026-07-14T03:48:09",
+      "summary": "KUALA LUMPUR, July 14 — Dewan Rakyat Speaker Tan Sri Dr Johari Abdul has asked all MPs to submit their health repo...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
@@ -121,28 +144,6 @@
         "hospital",
         "doctor",
         "hospital"
-      ]
-    },
-    {
-      "title": "Trading ‘Dr Google’ for ‘Dr AI’: Why more Malaysians are self-diagnosing using chatbots — and what medical experts fear most",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/14/trading-dr-google-for-dr-ai-why-more-malaysians-are-self-diagnosing-using-chatbots-and-what-medical-experts-fear-most/226846",
-      "source": "Malay Mail",
-      "published": "2026-07-13T23:00:00",
-      "summary": "Growing reliance: 89 per cent of Malaysian internet users use AI tools, often trusting them over doctors for health deci...",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Malaysian schools need more mental health professionals amid rising student crises, say experts",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/13/malaysian-schools-need-more-mental-health-professionals-amid-rising-student-crises-say-experts/227407",
-      "source": "Malay Mail",
-      "published": "2026-07-13T13:00:00",
-      "summary": "KUALA LUMPUR, July 13 — A growing number of negative incidents involving school students in recent years has raise...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
