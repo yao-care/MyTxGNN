@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-14T08:00:13.374245",
+  "fetched": "2026-07-14T10:06:48.839377",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 13,
   "items": [
     {
       "title": "The Social Work Profession Bill 2026 Needs Urgent Rectification — Dr Amar-Singh HSS",
@@ -108,6 +108,36 @@
       "summary": "Healthy ageing is not something we begin preparing for after retirement. It is built across the life course — from the womb, to the classroom, to the workplace, to the community, and ultimately into older age — one healthy decision at a time. The post Healthy Ageing Begins In Childhood appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "In Muhyiddin’s trial, businessman says brother donated part of company’s RM13.7m to Bersatu without his knowledge",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/14/in-muhyiddins-trial-businessman-says-brother-donated-part-of-companys-rm137m-to-bersatu-without-his-knowledge/227588",
+      "source": "Malay Mail",
+      "published": "2026-07-14T10:04:06",
+      "summary": "KUALA LUMPUR, July 14 — Businessman Shahrin Shamsuddin today told the High Court that he only discovered his elder...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "‘Fat Leonard’ seeks Trump pardon, citing cancer and financial hardship",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/14/fat-leonard-seeks-trump-pardon-cites-cancer-and-financial-hardship/227582",
+      "source": "Malay Mail",
+      "published": "2026-07-14T09:52:26",
+      "summary": "WASHINGTON, July 14 — Former  defence contractor Leonard Glenn Francis is reportedly seeking clemency fr...",
+      "keywords_matched": [
+        "cancer"
+      ]
+    },
+    {
+      "title": "MACC seeks two Bangladeshi men for ongoing corruption trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/14/macc-seeks-two-bangladeshi-men-for-ongoing-corruption-trial/227573",
+      "source": "Malay Mail",
+      "published": "2026-07-14T09:19:18",
+      "summary": "PUTRAJAYA, July 14 — The Malaysian Anti-Corruption Commission (MACC) is tracking down two Bangladeshi men required...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
