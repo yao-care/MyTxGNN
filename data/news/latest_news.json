@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-15T08:05:40.621931",
+  "fetched": "2026-07-15T10:47:31.883965",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Refuting Pharmaniaga, MOH Says Spent More On Generics Than Innovators",
+      "url": "https://codeblue.galencentre.org/2026/07/refuting-pharmaniaga-moh-says-spent-more-on-generics-than-innovators/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-15T09:15:07",
+      "summary": "MOH refutes Pharmaniaga's claim that the government spent more on originators than generics in 2025, clarifying that MOH spent RM3 billion on generics, comprising 78% of its RM3.86 billion drug budget, while RM850 million (22%) was spent on innovators. The post Refuting Pharmaniaga, MOH Says Spent More On Generics Than Innovators appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
     {
       "title": "MMA Welcomes Greater Operational Autonomy for MOH — MMA",
       "url": "https://codeblue.galencentre.org/2026/07/mma-welcomes-greater-operational-autonomy-for-moh-mma/",
@@ -104,22 +114,47 @@
       ]
     },
     {
-      "title": "Poultry Producer SLH Expanding Despite Cost Pressures, Geopolitical Uncertainty",
-      "url": "https://codeblue.galencentre.org/2026/07/poultry-producer-slh-expanding-despite-cost-pressures-geopolitical-uncertainty/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-13T02:00:00",
-      "summary": "SLH, a major Malaysian poultry producer, is pressing ahead with expansion, automation, and closed-house upgrades, despite rising feed costs and projected two years of market volatility. Smaller farmers are expected to face the greatest pressure. The post Poultry Producer SLH Expanding Despite Cost Pressures, Geopolitical Uncertainty appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "More than 3,500 medical officers quit public healthcare between 2023 and 2025, says Health Ministry",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/more-than-3500-medical-officers-quit-public-healthcare-between-2023-and-2025-says-health-ministry/227667",
+      "title": "Health Ministry says generic drugs made up nearly 78pc of medicine spending in 2025",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/health-ministry-says-generic-drugs-made-up-nearly-78pc-of-medicine-spending-in-2025/227722",
       "source": "Malay Mail",
-      "published": "2026-07-15T05:42:36",
-      "summary": "KUALA LUMPUR, July 15 — More than 3,500 medical officers left Malaysia’s public healthcare sector over a thr...",
+      "published": "2026-07-15T10:35:39",
+      "summary": "PUTRAJAYA, July 15 — Generic medicines formed a major component of the Ministry of Health’s (MOH) pharmaceut...",
       "keywords_matched": [
         "health",
-        "medical"
+        "medicine",
+        "drug"
+      ]
+    },
+    {
+      "title": "Selangor identifies Taman Medan as preferred site for new Petaling Jaya hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/selangor-identifies-taman-medan-as-preferred-site-for-new-petaling-jaya-hospital/227709",
+      "source": "Malay Mail",
+      "published": "2026-07-15T09:36:10",
+      "summary": "SHAH ALAM, July 15 — The Selangor state government has identified Taman Medan as the main site for the constructio...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Penang CM: Taman Manggis hospital-hotel project to restart in August, completion set for 2029",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/penang-cm-taman-manggis-hospital-hotel-project-to-restart-in-august-completion-set-for-2029/227692",
+      "source": "Malay Mail",
+      "published": "2026-07-15T08:49:41",
+      "summary": "GEORGE TOWN, July 15 — The proposed hospital and hotel development on the Taman Manggis land along Jalan Zainal Ab...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Penang-Perak water treatment deal details must await Bursa disclosure, says CM",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/penang-perak-water-treatment-deal-details-must-await-bursa-disclosure-says-cm/227690",
+      "source": "Malay Mail",
+      "published": "2026-07-15T08:42:11",
+      "summary": "GEORGE TOWN, July 15 — The Penang state government will only disclose further details of its treated water agreeme...",
+      "keywords_matched": [
+        "treatment"
       ]
     }
   ]
