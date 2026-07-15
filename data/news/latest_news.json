@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-15T10:47:31.883965",
+  "fetched": "2026-07-15T12:13:07.740787",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "title": "Refuting Pharmaniaga, MOH Says Spent More On Generics Than Innovators",
@@ -114,6 +114,26 @@
       ]
     },
     {
+      "title": "Woman claims trial to defaming Farhash Wafa Salvador over viral video",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/woman-claims-trial-to-defaming-farhash-wafa-salvador-over-viral-video/227734",
+      "source": "Malay Mail",
+      "published": "2026-07-15T11:25:20",
+      "summary": "KUALA LUMPUR, July 15 — A woman pleaded not guilty in the Magistrate’s Court here today to a charge of defam...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "No one gets special treatment in high-profile investigations, says deputy home minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/no-one-gets-special-treatment-in-high-profile-investigations-says-deputy-home-minister/227732",
+      "source": "Malay Mail",
+      "published": "2026-07-15T11:14:50",
+      "summary": "KUALA LUMPUR, July 15 — The police (PDRM) do not protect any individual in high-profile case investigations, said...",
+      "keywords_matched": [
+        "treatment"
+      ]
+    },
+    {
       "title": "Health Ministry says generic drugs made up nearly 78pc of medicine spending in 2025",
       "url": "https://www.malaymail.com/news/malaysia/2026/07/15/health-ministry-says-generic-drugs-made-up-nearly-78pc-of-medicine-spending-in-2025/227722",
       "source": "Malay Mail",
@@ -123,38 +143,6 @@
         "health",
         "medicine",
         "drug"
-      ]
-    },
-    {
-      "title": "Selangor identifies Taman Medan as preferred site for new Petaling Jaya hospital",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/selangor-identifies-taman-medan-as-preferred-site-for-new-petaling-jaya-hospital/227709",
-      "source": "Malay Mail",
-      "published": "2026-07-15T09:36:10",
-      "summary": "SHAH ALAM, July 15 — The Selangor state government has identified Taman Medan as the main site for the constructio...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Penang CM: Taman Manggis hospital-hotel project to restart in August, completion set for 2029",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/penang-cm-taman-manggis-hospital-hotel-project-to-restart-in-august-completion-set-for-2029/227692",
-      "source": "Malay Mail",
-      "published": "2026-07-15T08:49:41",
-      "summary": "GEORGE TOWN, July 15 — The proposed hospital and hotel development on the Taman Manggis land along Jalan Zainal Ab...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Penang-Perak water treatment deal details must await Bursa disclosure, says CM",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/penang-perak-water-treatment-deal-details-must-await-bursa-disclosure-says-cm/227690",
-      "source": "Malay Mail",
-      "published": "2026-07-15T08:42:11",
-      "summary": "GEORGE TOWN, July 15 — The Penang state government will only disclose further details of its treated water agreeme...",
-      "keywords_matched": [
-        "treatment"
       ]
     }
   ]
