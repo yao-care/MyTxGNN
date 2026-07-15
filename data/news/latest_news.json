@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-15T05:29:04.203327",
+  "fetched": "2026-07-15T08:05:40.621931",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "MMA Welcomes Greater Operational Autonomy for MOH — MMA",
@@ -110,6 +110,17 @@
       "published": "2026-07-13T02:00:00",
       "summary": "SLH, a major Malaysian poultry producer, is pressing ahead with expansion, automation, and closed-house upgrades, despite rising feed costs and projected two years of market volatility. Smaller farmers are expected to face the greatest pressure. The post Poultry Producer SLH Expanding Despite Cost Pressures, Geopolitical Uncertainty appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "More than 3,500 medical officers quit public healthcare between 2023 and 2025, says Health Ministry",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/more-than-3500-medical-officers-quit-public-healthcare-between-2023-and-2025-says-health-ministry/227667",
+      "source": "Malay Mail",
+      "published": "2026-07-15T05:42:36",
+      "summary": "KUALA LUMPUR, July 15 — More than 3,500 medical officers left Malaysia’s public healthcare sector over a thr...",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
     }
   ]
 }
