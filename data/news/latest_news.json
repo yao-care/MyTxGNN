@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-16T08:09:12.877793",
+  "fetched": "2026-07-16T10:57:13.908478",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 10,
   "items": [
     {
       "title": "Facing The Silver Tsunami: Why Malaysia Must Overhaul Its Aged Care Infrastructure — Dr Rajeentheran Suntheralingam",
@@ -113,38 +113,6 @@
       "summary": "Despite rising production costs, poultry producer SLH says vaccination remains one of the last areas it will cut because disease prevention costs less than outbreaks. An expert warns that reducing core vaccination could undo years of herd immunity. The post Poultry Farm SLH Maintains Vaccination Despite Rising Costs appeared first on CodeBlue .",
       "keywords_matched": [
         "disease"
-      ]
-    },
-    {
-      "title": "‘They’re working tirelessly’: Resident says Sandakan’s Duchess of Kent Hospital, not its staff, needs fixing",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/16/theyre-working-tirelessly-resident-says-sandakans-duchess-of-kent-hospital-not-its-staff-needs-fixing/227832",
-      "source": "Malay Mail",
-      "published": "2026-07-16T06:51:03",
-      "summary": "SANDAKAN, July 16 — The condition of Duchess of Kent Hospital Sandakan has once again come under the spotlight aft...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Govt to pilot affordable MediAsas health insurance plan this month ahead of nationwide rollout in 2027, says deputy minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/16/govt-to-pilot-affordable-mediasas-health-insurance-plan-this-month-ahead-of-nationwide-rollout-in-2027-says-deputy-minister/227825",
-      "source": "Malay Mail",
-      "published": "2026-07-16T06:24:17",
-      "summary": "KUALA LUMPUR, July 16 — The Base Medical and Health Insurance/Takaful (MHIT) Plan, or MediAsas, will begin its pil...",
-      "keywords_matched": [
-        "health",
-        "medical"
-      ]
-    },
-    {
-      "title": "Muhyiddin’s trial: Company’s RM800,000 donation to Bersatu linked to Jana Wibawa project, witness says",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/16/muhyiddins-trial-companys-rm800000-donation-to-bersatu-linked-to-jana-wibawa-project-witness-says/227821",
-      "source": "Malay Mail",
-      "published": "2026-07-16T06:14:21",
-      "summary": "KUALA LUMPUR, July 16 — KCJ Engineering Sdn Bhd’s RM800,000 donation in 2022 to political party Parti Pribum...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
