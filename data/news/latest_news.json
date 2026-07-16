@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-16T10:57:13.908478",
+  "fetched": "2026-07-16T12:21:47.974511",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "Facing The Silver Tsunami: Why Malaysia Must Overhaul Its Aged Care Infrastructure — Dr Rajeentheran Suntheralingam",
@@ -113,6 +113,26 @@
       "summary": "Despite rising production costs, poultry producer SLH says vaccination remains one of the last areas it will cut because disease prevention costs less than outbreaks. An expert warns that reducing core vaccination could undo years of herd immunity. The post Poultry Farm SLH Maintains Vaccination Despite Rising Costs appeared first on CodeBlue .",
       "keywords_matched": [
         "disease"
+      ]
+    },
+    {
+      "title": "Miri drug syndicate crippled after police seize 55kg of meth worth RM2.75m",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/16/miri-drug-syndicate-crippled-after-police-seize-55kg-of-meth-worth-rm275m/227890",
+      "source": "Malay Mail",
+      "published": "2026-07-16T12:14:00",
+      "summary": "MIRI, July 16 — The Sarawak police have crippled a drug trafficking syndicate in Miri with the arrest o...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Dewan Rakyat concludes sitting with 13 Bills passed, health reminder for MPs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/16/dewan-rakyat-concludes-sitting-with-13-bills-passed-health-reminder-for-mps/227889",
+      "source": "Malay Mail",
+      "published": "2026-07-16T12:11:56",
+      "summary": "KUALA LUMPUR, July 16 — The Second Meeting of the Fifth Term of the 15th Parliament was adjourned today...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
