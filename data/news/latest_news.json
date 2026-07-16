@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-16T02:26:27.677501",
+  "fetched": "2026-07-16T05:38:25.300704",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Decentralise Doctor Hiring, Remuneration To Hospital Level In MOH: Bukit Gasing Rep",
+      "url": "https://codeblue.galencentre.org/2026/07/decentralise-doctor-hiring-remuneration-to-hospital-level-in-moh-bukit-gasing-rep/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-16T03:30:00",
+      "summary": "With MOH's \"absolute autonomy\", Bukit Gasing rep Rajiv moots reforming doctor hiring as an open job marketplace by decentralising recruitment and BIW allowance rates to individual hospitals. Hospital directors will be responsible for hiring and retention. The post Decentralise Doctor Hiring, Remuneration To Hospital Level In MOH: Bukit Gasing Rep appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "JPA Refuses To Further Relax LNPT Requirement For Subspecialty Training",
       "url": "https://codeblue.galencentre.org/2026/07/jpa-refuses-to-further-relax-lnpt-requirement-for-subspecialty-training/",
@@ -104,13 +116,13 @@
       ]
     },
     {
-      "title": "Permanent Appointments Alone Won’t Solve Doctor Retention In Sabah — MMA",
-      "url": "https://codeblue.galencentre.org/2026/07/permanent-appointments-alone-wont-solve-doctor-retention-in-sabah-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-13T05:40:00",
-      "summary": "Permanency alone may not be sufficient to address the challenge of attracting and retaining doctors in Sabah and Sarawak. More attention should be given to measures that improve long-term retention, including greater flexibility in inter-state transfers. The post Permanent Appointments Alone Won’t Solve Doctor Retention In Sabah — MMA appeared first on CodeBlue .",
+      "title": "Perlis RTD crackdown finds four commercial vehicle workers test positive for drugs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/16/perlis-rtd-crackdown-finds-four-commercial-vehicle-workers-test-positive-for-drugs/227790",
+      "source": "Malay Mail",
+      "published": "2026-07-16T03:27:00",
+      "summary": "KANGAR, July 16 — The Perlis Road Transport Department (RTD) has seized the Competent Driving Licence (...",
       "keywords_matched": [
-        "doctor"
+        "drug"
       ]
     },
     {
