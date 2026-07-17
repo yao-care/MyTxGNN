@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-17T02:54:13.594805",
+  "fetched": "2026-07-17T05:41:02.769625",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "NIH Study Links Nurse, Medical Assistant Burnout To Double Shifts, Night Duty",
+      "url": "https://codeblue.galencentre.org/2026/07/nih-study-links-nurse-medical-assistant-burnout-to-double-shifts-night-duty/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-17T04:00:00",
+      "summary": "An NIH study found that night and double shifts, traumatic incidents, and workplace conflict contribute to burnout among nurses and assistant medical officers in MOH. MOH says it is increasing recruitment to ease workloads and reduce double shifts. The post NIH Study Links Nurse, Medical Assistant Burnout To Double Shifts, Night Duty appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Time For Doctors To Relinquish Management Of The Health Service",
       "url": "https://codeblue.galencentre.org/2026/07/time-for-doctors-to-relinquish-management-of-the-health-service/",
@@ -110,12 +120,15 @@
       ]
     },
     {
-      "title": "The Social Work Profession Bill 2026 Needs Urgent Rectification — Dr Amar-Singh HSS",
-      "url": "https://codeblue.galencentre.org/2026/07/the-social-work-profession-bill-2026-needs-urgent-rectification-dr-amar-singh-hss/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-14T07:30:00",
-      "summary": "It is critical that we pass the Social Work Profession Bill to enable our social services to be upgraded to a professional level, one that is being looked after and run by professionally trained social workers. The post The Social Work Profession Bill 2026 Needs Urgent Rectification — Dr Amar-Singh HSS appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Another fall feared at Papar school as Form Two girl reportedly rushed to hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/17/another-fall-feared-at-papar-school-as-form-two-girl-reportedly-rushed-to-hospital/227945",
+      "source": "Malay Mail",
+      "published": "2026-07-17T04:44:16",
+      "summary": "KOTA KINABALU, July 17 — Confirmation on reports that another female student fell and had to be rushed to hospital...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
     }
   ]
 }
