@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-17T05:41:02.769625",
+  "fetched": "2026-07-17T08:06:48.254348",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,38 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Hospital At Home: Bringing Acute Care Beyond Hospital Walls In Malaysia — Kala Raani, Suhana Abdul Rasak & Prof Khatijah Abdullah",
+      "url": "https://codeblue.galencentre.org/2026/07/hospital-at-home-bringing-acute-care-beyond-hospital-walls-in-malaysia-kala-raani-suhana-abdul-rasak-prof-khatijah-abdullah/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-17T07:30:00",
+      "summary": "HAH is an evolving model of care with growing international evidence, and Malaysia now has an opportunity to shape its own approach thoughtfully, safely, and equitably. The post Hospital At Home: Bringing Acute Care Beyond Hospital Walls In Malaysia — Kala Raani, Suhana Abdul Rasak & Prof Khatijah Abdullah appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Petition Demands Contract Extensions, Permanent Posts For Over 400 Health Inspectors",
+      "url": "https://codeblue.galencentre.org/2026/07/petition-demands-contract-extensions-permanent-posts-for-over-400-health-inspectors/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-17T06:56:25",
+      "summary": "A petition wants 437 outsourced assistant environmental health officers (PPKPs), or health inspectors, to be extended without a break in service or to receive permanent posts, as their contracts are set to lapse on July 23 after serving for five years. The post Petition Demands Contract Extensions, Permanent Posts For Over 400 Health Inspectors appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Respiratory Syncytial Virus: The Unknown Threat Our Children Face — Dr Azanna Ahmad Kamar",
+      "url": "https://codeblue.galencentre.org/2026/07/respiratory-syncytial-virus-the-unknown-threat-our-children-face-dr-azanna-ahmad-kamar/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-17T05:50:00",
+      "summary": "Like many other respiratory diseases, RSV is highly contagious – among infants, two out of three children experience their first infection before 12 months of age. The post Respiratory Syncytial Virus: The Unknown Threat Our Children Face — Dr Azanna Ahmad Kamar appeared first on CodeBlue .",
+      "keywords_matched": [
+        "disease",
+        "virus"
+      ]
+    },
     {
       "title": "NIH Study Links Nurse, Medical Assistant Burnout To Double Shifts, Night Duty",
       "url": "https://codeblue.galencentre.org/2026/07/nih-study-links-nurse-medical-assistant-burnout-to-double-shifts-night-duty/",
@@ -89,45 +121,13 @@
       ]
     },
     {
-      "title": "Refuting Pharmaniaga, MOH Says Spent More On Generics Than Innovators",
-      "url": "https://codeblue.galencentre.org/2026/07/refuting-pharmaniaga-moh-says-spent-more-on-generics-than-innovators/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-15T09:15:07",
-      "summary": "MOH refutes Pharmaniaga's claim that the government spent more on originators than generics in 2025, clarifying that MOH spent RM3 billion on generics, comprising 78% of its RM3.86 billion drug budget, while RM850 million (22%) was spent on innovators. The post Refuting Pharmaniaga, MOH Says Spent More On Generics Than Innovators appeared first on CodeBlue .",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "MMA Welcomes Greater Operational Autonomy for MOH — MMA",
-      "url": "https://codeblue.galencentre.org/2026/07/mma-welcomes-greater-operational-autonomy-for-moh-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-15T03:30:00",
-      "summary": "Empowering the MOH to manage and deploy its approved positions will enable manpower decisions to be made more efficiently and closer to where health care services are delivered. The post MMA Welcomes Greater Operational Autonomy for MOH — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Doctor Workforce In Public Sector Shrinks For First Time In A Decade",
-      "url": "https://codeblue.galencentre.org/2026/07/doctor-workforce-in-public-sector-shrinks-for-first-time-in-a-decade/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-15T02:00:00",
-      "summary": "Malaysia’s doctor workforce in the public sector declined in 2024 for the first time since 2014. In an historic contraction, MOH lost 1,444 doctors in 2024 (mostly medical officers and specialists), after over 1,100 MOs rejected permanent posts in 2023. The post Doctor Workforce In Public Sector Shrinks For First Time In A Decade appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Another fall feared at Papar school as Form Two girl reportedly rushed to hospital",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/17/another-fall-feared-at-papar-school-as-form-two-girl-reportedly-rushed-to-hospital/227945",
+      "title": "Witness tells Muhyiddin trial only hidden shareholder can explain RM1m payment to Bersatu",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/17/witness-tells-muhyiddin-trial-only-hidden-shareholder-can-explain-rm1m-payment-to-bersatu/227974",
       "source": "Malay Mail",
-      "published": "2026-07-17T04:44:16",
-      "summary": "KOTA KINABALU, July 17 — Confirmation on reports that another female student fell and had to be rushed to hospital...",
+      "published": "2026-07-17T06:45:55",
+      "summary": "KUALA LUMPUR, July 17 — Bumiputera contractor Nepturis Sdn Bhd’s managing director Mohd Rizman Akum Khan tod...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
+        "trial"
       ]
     }
   ]
