@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-16T23:57:19.165626",
+  "fetched": "2026-07-17T02:54:13.594805",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Time For Doctors To Relinquish Management Of The Health Service",
+      "url": "https://codeblue.galencentre.org/2026/07/time-for-doctors-to-relinquish-management-of-the-health-service/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-17T02:00:00",
+      "summary": "MOH's historic doctor workforce contraction and 50% no-show for permanent posts are a wake-up call to revamp the health service. Reserve management positions for those qualified in management; doctors should focus on clinical work and building specialties. The post Time For Doctors To Relinquish Management Of The Health Service appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor",
+        "clinical"
+      ]
+    },
     {
       "title": "Facing The Silver Tsunami: Why Malaysia Must Overhaul Its Aged Care Infrastructure — Dr Rajeentheran Suntheralingam",
       "url": "https://codeblue.galencentre.org/2026/07/facing-the-silver-tsunami-why-malaysia-must-overhaul-its-aged-care-infrastructure-dr-rajeentheran-suntheralingam/",
@@ -104,36 +116,6 @@
       "published": "2026-07-14T07:30:00",
       "summary": "It is critical that we pass the Social Work Profession Bill to enable our social services to be upgraded to a professional level, one that is being looked after and run by professionally trained social workers. The post The Social Work Profession Bill 2026 Needs Urgent Rectification — Dr Amar-Singh HSS appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Poultry Farm SLH Maintains Vaccination Despite Rising Costs",
-      "url": "https://codeblue.galencentre.org/2026/07/poultry-farm-slh-maintains-vaccination-despite-rising-costs/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-14T05:40:00",
-      "summary": "Despite rising production costs, poultry producer SLH says vaccination remains one of the last areas it will cut because disease prevention costs less than outbreaks. An expert warns that reducing core vaccination could undo years of herd immunity. The post Poultry Farm SLH Maintains Vaccination Despite Rising Costs appeared first on CodeBlue .",
-      "keywords_matched": [
-        "disease"
-      ]
-    },
-    {
-      "title": "Miri drug syndicate crippled after police seize 55kg of meth worth RM2.75m",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/16/miri-drug-syndicate-crippled-after-police-seize-55kg-of-meth-worth-rm275m/227890",
-      "source": "Malay Mail",
-      "published": "2026-07-16T12:14:00",
-      "summary": "MIRI, July 16 — The Sarawak police have crippled a drug trafficking syndicate in Miri with the arrest o...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Dewan Rakyat concludes sitting with 13 Bills passed, health reminder for MPs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/16/dewan-rakyat-concludes-sitting-with-13-bills-passed-health-reminder-for-mps/227889",
-      "source": "Malay Mail",
-      "published": "2026-07-16T12:11:56",
-      "summary": "KUALA LUMPUR, July 16 — The Second Meeting of the Fifth Term of the 15th Parliament was adjourned today...",
-      "keywords_matched": [
-        "health"
-      ]
     }
   ]
 }
