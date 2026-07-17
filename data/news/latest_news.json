@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-17T22:47:45.558853",
+  "fetched": "2026-07-17T23:50:59.205677",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Malaysia’s Workplace Mental Health Strategy Must Be Family Centred — June Joseph",
@@ -139,16 +139,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Witness tells Muhyiddin trial only hidden shareholder can explain RM1m payment to Bersatu",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/17/witness-tells-muhyiddin-trial-only-hidden-shareholder-can-explain-rm1m-payment-to-bersatu/227974",
-      "source": "Malay Mail",
-      "published": "2026-07-17T06:45:55",
-      "summary": "KUALA LUMPUR, July 17 — Bumiputera contractor Nepturis Sdn Bhd’s managing director Mohd Rizman Akum Khan tod...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
