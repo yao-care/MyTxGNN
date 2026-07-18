@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-17T23:50:59.205677",
+  "fetched": "2026-07-18T02:19:54.273386",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Malaysia’s Workplace Mental Health Strategy Must Be Family Centred — June Joseph",
@@ -117,27 +117,6 @@
       "keywords_matched": [
         "hospital",
         "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Bandar Utama school stabbing trial to hear evidence from three child witnesses under special safeguards",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/17/bandar-utama-school-stabbing-trial-to-hear-evidence-from-three-child-witnesses-under-special-safeguards/227998",
-      "source": "Malay Mail",
-      "published": "2026-07-17T09:05:09",
-      "summary": "KUALA LUMPUR, July 17 — Three child witnesses are expected to give evidence under special court safeguards when th...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Former PM Najib to undergo heart procedure at Serdang Hospital next week",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/17/former-pm-najib-to-undergo-heart-procedure-at-serdang-hospital-next-week/227993",
-      "source": "Malay Mail",
-      "published": "2026-07-17T08:28:14",
-      "summary": "KUALA LUMPUR, July 17 — Former prime minister Datuk Seri Najib Razak will undergo a heart procedure at Serdang Hos...",
-      "keywords_matched": [
-        "hospital",
         "hospital"
       ]
     }
