@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-18T02:19:54.273386",
+  "fetched": "2026-07-18T05:23:14.586595",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 13,
   "items": [
     {
       "title": "Malaysia’s Workplace Mental Health Strategy Must Be Family Centred — June Joseph",
@@ -118,6 +118,36 @@
         "hospital",
         "doctor",
         "hospital"
+      ]
+    },
+    {
+      "title": "Rantau showdown set as Umno veteran Tok Mat takes on young doctor from Pakatan",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/18/rantau-showdown-set-as-umno-veteran-tok-mat-takes-on-young-doctor-from-pakatan/228078",
+      "source": "Malay Mail",
+      "published": "2026-07-18T04:58:50",
+      "summary": "REMBAU, July 18 — The Rantau state seat is set for a straight fight in the 16th Negeri Sembilan state election, wi...",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Health Ministry gets 66,000 new posts boost to strengthen public healthcare",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/18/health-ministry-gets-66000-new-posts-boost-to-strengthen-public-healthcare/228071",
+      "source": "Malay Mail",
+      "published": "2026-07-18T04:36:29",
+      "summary": "PUTRAJAYA, July 18 — The Public Service Department (JPA) has approved the creation of 66,312 new non-trade-off pos...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Sarawak ministry warns public over fake local purchase orders issued under its name",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/18/sarawak-ministry-warns-public-over-fake-local-purchase-orders-issued-under-its-name/228058",
+      "source": "Malay Mail",
+      "published": "2026-07-18T03:04:15",
+      "summary": "KUCHING, July 18 — The Sarawak Ministry of Public Health, Housing and Local Government (MPHLG) has issued a public...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
