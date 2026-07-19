@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-18T23:51:55.460096",
+  "fetched": "2026-07-19T02:32:08.376541",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Malaysia’s Workplace Mental Health Strategy Must Be Family Centred — June Joseph",
@@ -118,6 +118,16 @@
         "hospital",
         "doctor",
         "hospital"
+      ]
+    },
+    {
+      "title": "Najib to undergo procedure to remove plaque near blood vessel, says Rosmah",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/19/najib-to-undergo-procedure-to-remove-plaque-near-blood-vessel-says-rosmah/228163",
+      "source": "Malay Mail",
+      "published": "2026-07-19T02:18:16",
+      "summary": "KUALA LUMPUR, July 19 — Former prime minister Datuk Seri Najib Razak is scheduled to undergo a medical procedure t...",
+      "keywords_matched": [
+        "medical"
       ]
     },
     {
