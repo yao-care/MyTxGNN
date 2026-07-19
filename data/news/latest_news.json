@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-19T08:13:15.690221",
+  "fetched": "2026-07-19T10:25:49.091072",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Malaysia’s Workplace Mental Health Strategy Must Be Family Centred — June Joseph",
@@ -121,24 +121,16 @@
       ]
     },
     {
-      "title": "Medicine from the sky: MCMC and Health Ministry to begin drone deliveries in Tawau",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/19/medicine-from-the-sky-mcmc-and-health-ministry-to-begin-drone-deliveries-in-tawau/228168",
+      "title": "Seven years’ jail, seven strokes for ENT doctor who sexually assaulted pre-teen patient",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/19/seven-years-jail-seven-strokes-for-ent-doctor-who-sexually-assaulted-pre-teen-patient/228223",
       "source": "Malay Mail",
-      "published": "2026-07-19T02:42:10",
-      "summary": "KUALA LUMPUR, July 19 — The Malaysian Communications and Multimedia Commission (MCMC), in collaboration with the H...",
+      "published": "2026-07-19T10:22:50",
+      "summary": "KUALA TERENGGANU, July 19 — An ear, nose and throat (ENT) specialist at a private hospital was sentenced to seven...",
       "keywords_matched": [
-        "health",
-        "medicine"
-      ]
-    },
-    {
-      "title": "Najib to undergo procedure to remove plaque near blood vessel, says Rosmah",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/19/najib-to-undergo-procedure-to-remove-plaque-near-blood-vessel-says-rosmah/228163",
-      "source": "Malay Mail",
-      "published": "2026-07-19T02:18:16",
-      "summary": "KUALA LUMPUR, July 19 — Former prime minister Datuk Seri Najib Razak is scheduled to undergo a medical procedure t...",
-      "keywords_matched": [
-        "medical"
+        "hospital",
+        "doctor",
+        "patient",
+        "hospital"
       ]
     }
   ]
