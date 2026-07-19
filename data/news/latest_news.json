@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-19T02:32:08.376541",
+  "fetched": "2026-07-19T05:50:16.027523",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Malaysia’s Workplace Mental Health Strategy Must Be Family Centred — June Joseph",
@@ -121,6 +121,17 @@
       ]
     },
     {
+      "title": "Medicine from the sky: MCMC and Health Ministry to begin drone deliveries in Tawau",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/19/medicine-from-the-sky-mcmc-and-health-ministry-to-begin-drone-deliveries-in-tawau/228168",
+      "source": "Malay Mail",
+      "published": "2026-07-19T02:42:10",
+      "summary": "KUALA LUMPUR, July 19 — The Malaysian Communications and Multimedia Commission (MCMC), in collaboration with the H...",
+      "keywords_matched": [
+        "health",
+        "medicine"
+      ]
+    },
+    {
       "title": "Najib to undergo procedure to remove plaque near blood vessel, says Rosmah",
       "url": "https://www.malaymail.com/news/malaysia/2026/07/19/najib-to-undergo-procedure-to-remove-plaque-near-blood-vessel-says-rosmah/228163",
       "source": "Malay Mail",
@@ -128,26 +139,6 @@
       "summary": "KUALA LUMPUR, July 19 — Former prime minister Datuk Seri Najib Razak is scheduled to undergo a medical procedure t...",
       "keywords_matched": [
         "medical"
-      ]
-    },
-    {
-      "title": "Too much, not too little: Deputy premier Dr Sim says overeating is now Sarawak’s bigger health challenge",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/18/too-much-not-too-little-deputy-premier-dr-sim-says-overeating-is-now-sarawaks-bigger-health-challenge/228127",
-      "source": "Malay Mail",
-      "published": "2026-07-18T09:03:02",
-      "summary": "KUCHING, July 18 — Public health policies should place greater emphasis on tackling overnutrition, as it is a majo...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "New Seremban orthopaedic centre launching this year aims to cut treatment costs by up to 50 per cent",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/18/new-seremban-orthopaedic-centre-launching-this-year-aims-to-cut-treatment-costs-by-up-to-50-per-cent/228117",
-      "source": "Malay Mail",
-      "published": "2026-07-18T08:28:20",
-      "summary": "SEREMBAN, July 18 — Bank Rakyat has provided financing totalling RM1.42 million to Limbcraft Innovation Sdn Bhd to...",
-      "keywords_matched": [
-        "treatment"
       ]
     }
   ]
