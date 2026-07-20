@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-20T02:47:08.216158",
+  "fetched": "2026-07-20T06:16:02.869045",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,17 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "JPA: Only 46% Of Medical Officers Complete Specialisation On Time",
+      "url": "https://codeblue.galencentre.org/2026/07/jpa-only-46-of-medical-officers-complete-specialisation-on-time/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-20T03:40:00",
+      "summary": "JPA says only 46% of doctors complete specialisation on time, thus delaying specialty training for others. JPA also approved over 66,000 new positions without trade-offs for MOH from 2019. The issue now is workforce distribution, not creating positions. The post JPA: Only 46% Of Medical Officers Complete Specialisation On Time appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "MOH’s Nursing Workforce Contracted Since 2023 With 1,200 Nurses Lost",
       "url": "https://codeblue.galencentre.org/2026/07/mohs-nursing-workforce-contracted-since-2023-with-1200-nurses-lost/",
@@ -104,18 +115,6 @@
         "doctor",
         "patient",
         "hospital"
-      ]
-    },
-    {
-      "title": "MOH: Rising API Costs May Push Up Medicine Prices, Private Treatment Costs",
-      "url": "https://codeblue.galencentre.org/2026/07/moh-rising-api-costs-may-push-up-medicine-prices-private-treatment-costs/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-16T06:00:00",
-      "summary": "MOH warns rising API costs could push up medicine prices and private treatment costs, while squeezing local generic drugmakers and distributors. The government’s drug may also come under pressure. The post MOH: Rising API Costs May Push Up Medicine Prices, Private Treatment Costs appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medicine",
-        "drug",
-        "treatment"
       ]
     }
   ]
