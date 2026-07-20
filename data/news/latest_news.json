@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-19T23:54:50.200760",
+  "fetched": "2026-07-20T02:47:08.216158",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "MOH’s Nursing Workforce Contracted Since 2023 With 1,200 Nurses Lost",
+      "url": "https://codeblue.galencentre.org/2026/07/mohs-nursing-workforce-contracted-since-2023-with-1200-nurses-lost/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-20T02:00:00",
+      "summary": "Besides doctors, MOH's nursing workforce has also declined, losing 1,200 nurses across 2023 and 2024. The private sector gained 5,658 nurses in that two-year period. The 2023 contraction of MOH's nursing workforce was the first in five years since 2018. The post MOH’s Nursing Workforce Contracted Since 2023 With 1,200 Nurses Lost appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
     {
       "title": "Malaysia’s Workplace Mental Health Strategy Must Be Family Centred — June Joseph",
       "url": "https://codeblue.galencentre.org/2026/07/malaysias-workplace-mental-health-strategy-must-be-family-centred-june-joseph/",
@@ -106,31 +116,6 @@
         "medicine",
         "drug",
         "treatment"
-      ]
-    },
-    {
-      "title": "Decentralise Doctor Hiring, Remuneration To Hospital Level In MOH: Bukit Gasing Rep",
-      "url": "https://codeblue.galencentre.org/2026/07/decentralise-doctor-hiring-remuneration-to-hospital-level-in-moh-bukit-gasing-rep/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-16T03:30:00",
-      "summary": "With MOH's \"absolute autonomy\", Bukit Gasing rep Rajiv moots reforming doctor hiring as an open job marketplace by decentralising recruitment and BIW allowance rates to individual hospitals. Hospital directors will be responsible for hiring and retention. The post Decentralise Doctor Hiring, Remuneration To Hospital Level In MOH: Bukit Gasing Rep appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Seven years’ jail, seven strokes for ENT doctor who sexually assaulted pre-teen patient",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/19/seven-years-jail-seven-strokes-for-ent-doctor-who-sexually-assaulted-pre-teen-patient/228223",
-      "source": "Malay Mail",
-      "published": "2026-07-19T10:22:50",
-      "summary": "KUALA TERENGGANU, July 19 — An ear, nose and throat (ENT) specialist at a private hospital was sentenced to seven...",
-      "keywords_matched": [
-        "hospital",
-        "doctor",
-        "patient",
-        "hospital"
       ]
     }
   ]
