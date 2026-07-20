@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-20T06:16:02.869045",
+  "fetched": "2026-07-20T09:58:27.853527",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "JPA: Only 46% Of Medical Officers Complete Specialisation On Time",
@@ -115,6 +115,27 @@
         "doctor",
         "patient",
         "hospital"
+      ]
+    },
+    {
+      "title": "Sabah viral school assault: Six students charged with rioting, claim trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/20/sabah-viral-school-assault-six-students-charged-with-rioting-claim-trial/228360",
+      "source": "Malay Mail",
+      "published": "2026-07-20T08:27:23",
+      "summary": "KUALA LUMPUR, July 20 — Six female students aged between 12 and 16 were charged in the Court for Children in Kota...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Lab tests confirm Selangor ICU patient free of leptospirosis, health dept dismisses viral claims",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/20/lab-tests-confirm-selangor-icu-patient-free-of-leptospirosis-health-dept-dismisses-viral-claims/228328",
+      "source": "Malay Mail",
+      "published": "2026-07-20T06:41:30",
+      "summary": "SHAH ALAM, July 20 — Laboratory tests have confirmed that a patient admitted to the Intensive Care Unit (ICU) of a...",
+      "keywords_matched": [
+        "health",
+        "patient"
       ]
     }
   ]
