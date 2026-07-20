@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-20T09:58:27.853527",
+  "fetched": "2026-07-20T12:21:16.607932",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "JPA: Only 46% Of Medical Officers Complete Specialisation On Time",
@@ -125,17 +125,6 @@
       "summary": "KUALA LUMPUR, July 20 — Six female students aged between 12 and 16 were charged in the Court for Children in Kota...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Lab tests confirm Selangor ICU patient free of leptospirosis, health dept dismisses viral claims",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/20/lab-tests-confirm-selangor-icu-patient-free-of-leptospirosis-health-dept-dismisses-viral-claims/228328",
-      "source": "Malay Mail",
-      "published": "2026-07-20T06:41:30",
-      "summary": "SHAH ALAM, July 20 — Laboratory tests have confirmed that a patient admitted to the Intensive Care Unit (ICU) of a...",
-      "keywords_matched": [
-        "health",
-        "patient"
       ]
     }
   ]
