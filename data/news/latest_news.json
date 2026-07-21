@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-21T07:31:06.424281",
+  "fetched": "2026-07-21T10:23:27.471416",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Rakan KKM Still Stalled, Dzulkefly Omits Launch Date",
@@ -110,26 +110,6 @@
         "health",
         "doctor",
         "clinical"
-      ]
-    },
-    {
-      "title": "Accused of links to ‘love scam’ ring, nine Chinese nationals claim trial in Penang",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/21/accused-of-links-to-love-scam-ring-nine-chinese-nationals-claim-trial-in-penang/228432",
-      "source": "Malay Mail",
-      "published": "2026-07-21T05:11:50",
-      "summary": "BALIK PULAU, July 21 — Nine Chinese nationals pleaded not guilty in the Magistrate’s Court here today to a c...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Kelantan police order station chiefs to make daily drug arrests under new strategy",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/21/kelantan-police-order-station-chiefs-to-make-daily-drug-arrests-under-new-strategy/228425",
-      "source": "Malay Mail",
-      "published": "2026-07-21T03:34:58",
-      "summary": "KOTA BHARU, July 21 — Police have introduced a new strategy to strengthen the fight against drug abuse by requirin...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
