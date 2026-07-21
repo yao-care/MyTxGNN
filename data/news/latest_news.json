@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-21T04:13:55.011497",
+  "fetched": "2026-07-21T07:31:06.424281",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Rakan KKM Still Stalled, Dzulkefly Omits Launch Date",
@@ -110,6 +110,16 @@
         "health",
         "doctor",
         "clinical"
+      ]
+    },
+    {
+      "title": "Accused of links to ‘love scam’ ring, nine Chinese nationals claim trial in Penang",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/21/accused-of-links-to-love-scam-ring-nine-chinese-nationals-claim-trial-in-penang/228432",
+      "source": "Malay Mail",
+      "published": "2026-07-21T05:11:50",
+      "summary": "BALIK PULAU, July 21 — Nine Chinese nationals pleaded not guilty in the Magistrate’s Court here today to a c...",
+      "keywords_matched": [
+        "trial"
       ]
     },
     {
