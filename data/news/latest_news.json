@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-21T00:02:15.129891",
+  "fetched": "2026-07-21T04:13:55.011497",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,24 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Rakan KKM Still Stalled, Dzulkefly Omits Launch Date",
+      "url": "https://codeblue.galencentre.org/2026/07/rakan-kkm-still-stalled-dzulkefly-omits-launch-date/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-21T04:02:35",
+      "summary": "Dr Dzul says implementation of Rakan KKM, which first received funding under Budget 2025 nearly two years ago, is still stalled due to bureaucracy, without specifying the next target launch date. One of the main hurdles is the need to comply with Act 586. The post Rakan KKM Still Stalled, Dzulkefly Omits Launch Date appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Malaysia Heading In US Direction With MediAsas: Expert",
+      "url": "https://codeblue.galencentre.org/2026/07/malaysia-heading-in-us-direction-with-mediasas-expert/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-21T01:55:55",
+      "summary": "Syed Aljunid slams MediAsas, saying Malaysia is moving in the direction of the US by wrongly using private health insurance as a health financing solution. Introducing MediAsas further breaks up the pool of resources; premiums are unaffordable for elderly. The post Malaysia Heading In US Direction With MediAsas: Expert appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "JPA: Only 46% Of Medical Officers Complete Specialisation On Time",
       "url": "https://codeblue.galencentre.org/2026/07/jpa-only-46-of-medical-officers-complete-specialisation-on-time/",
@@ -95,36 +113,13 @@
       ]
     },
     {
-      "title": "Facing The Silver Tsunami: Why Malaysia Must Overhaul Its Aged Care Infrastructure — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/07/facing-the-silver-tsunami-why-malaysia-must-overhaul-its-aged-care-infrastructure-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-16T07:30:00",
-      "summary": "By 2030, one in six Malaysians will be elderly. By 2040, one in five. The question is not whether we can afford to act. The question is whether we can afford not to. The post Facing The Silver Tsunami: Why Malaysia Must Overhaul Its Aged Care Infrastructure — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Eight-Hour Waits At Miri Hospital’s Emergency Department Amid Doctors’ Shortage",
-      "url": "https://codeblue.galencentre.org/2026/07/eight-hour-waits-at-miri-hospitals-emergency-department-amid-doctors-shortage/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-16T06:47:47",
-      "summary": "Multiple patients complain about waiting for seven to eight hours at Miri Hospital's emergency department for treatment. A doctor says the green zone is sometimes left with only one medical officer on duty or even occasionally has no doctor in charge. The post Eight-Hour Waits At Miri Hospital’s Emergency Department Amid Doctors’ Shortage appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "treatment",
-        "hospital",
-        "doctor",
-        "patient",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Sabah viral school assault: Six students charged with rioting, claim trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/20/sabah-viral-school-assault-six-students-charged-with-rioting-claim-trial/228360",
+      "title": "Kelantan police order station chiefs to make daily drug arrests under new strategy",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/21/kelantan-police-order-station-chiefs-to-make-daily-drug-arrests-under-new-strategy/228425",
       "source": "Malay Mail",
-      "published": "2026-07-20T08:27:23",
-      "summary": "KUALA LUMPUR, July 20 — Six female students aged between 12 and 16 were charged in the Court for Children in Kota...",
+      "published": "2026-07-21T03:34:58",
+      "summary": "KOTA BHARU, July 21 — Police have introduced a new strategy to strengthen the fight against drug abuse by requirin...",
       "keywords_matched": [
-        "trial"
+        "drug"
       ]
     }
   ]
