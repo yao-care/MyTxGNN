@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-21T23:54:37.194016",
+  "fetched": "2026-07-22T02:29:06.919416",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,17 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Stool Tests Cannot Replace Diagnostic, Preventive Colonoscopy: Specialists",
+      "url": "https://codeblue.galencentre.org/2026/07/stool-tests-cannot-replace-diagnostic-preventive-colonoscopy-specialists/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-22T01:50:00",
+      "summary": "Colorectal surgeons say stool tests are for general screening and can't replace colonoscopy to diagnose colorectal cancer when patients have symptoms. Polyps can be removed before turning cancerous, making it both a diagnostic and preventive procedure. The post Stool Tests Cannot Replace Diagnostic, Preventive Colonoscopy: Specialists appeared first on CodeBlue .",
+      "keywords_matched": [
+        "cancer",
+        "patient"
+      ]
+    },
     {
       "title": "Rakan KKM Still Stalled, Dzulkefly Omits Launch Date",
       "url": "https://codeblue.galencentre.org/2026/07/rakan-kkm-still-stalled-dzulkefly-omits-launch-date/",
@@ -98,18 +109,6 @@
       "summary": "An NIH study found that night and double shifts, traumatic incidents, and workplace conflict contribute to burnout among nurses and assistant medical officers in MOH. MOH says it is increasing recruitment to ease workloads and reduce double shifts. The post NIH Study Links Nurse, Medical Assistant Burnout To Double Shifts, Night Duty appeared first on CodeBlue .",
       "keywords_matched": [
         "medical"
-      ]
-    },
-    {
-      "title": "Time For Doctors To Relinquish Management Of The Health Service",
-      "url": "https://codeblue.galencentre.org/2026/07/time-for-doctors-to-relinquish-management-of-the-health-service/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-17T02:00:00",
-      "summary": "MOH's historic doctor workforce contraction and 50% no-show for permanent posts are a wake-up call to revamp the health service. Reserve management positions for those qualified in management; doctors should focus on clinical work and building specialties. The post Time For Doctors To Relinquish Management Of The Health Service appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "doctor",
-        "clinical"
       ]
     }
   ]
