@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-22T05:47:50.538987",
+  "fetched": "2026-07-22T08:25:12.222635",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,24 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Why Returning To Work Shouldn’t Mean The End Of Breastfeeding — Siew Li Teoh",
+      "url": "https://codeblue.galencentre.org/2026/07/why-returning-to-work-shouldnt-mean-the-end-of-breastfeeding-siew-li-teoh/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-22T07:45:00",
+      "summary": "When national progressive policies are matched by a well-prepared, empowered mother and supported by a receptive employer, the path to long-term breastfeeding success becomes clear. The post Why Returning To Work Shouldn’t Mean The End Of Breastfeeding — Siew Li Teoh appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "The State Must Care, Not Coerce: A Critique Of Malaysia’s Senior Citizens Bill — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/07/the-state-must-care-not-coerce-a-critique-of-malaysias-senior-citizens-bill-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-22T06:00:00",
+      "summary": "Meaningful action requires courage, commitment, and the humility to admit that you cannot legislate what only love can provide. The post The State Must Care, Not Coerce: A Critique Of Malaysia’s Senior Citizens Bill — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Non-Cancer Elective Surgery Waiting Time Up To 13 Months In MOH",
       "url": "https://codeblue.galencentre.org/2026/07/non-cancer-elective-surgery-waiting-time-up-to-13-months-in-moh/",
@@ -91,24 +107,13 @@
       ]
     },
     {
-      "title": "Petition Demands Contract Extensions, Permanent Posts For Over 400 Health Inspectors",
-      "url": "https://codeblue.galencentre.org/2026/07/petition-demands-contract-extensions-permanent-posts-for-over-400-health-inspectors/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-17T06:56:25",
-      "summary": "A petition wants 437 outsourced assistant environmental health officers (PPKPs), or health inspectors, to be extended without a break in service or to receive permanent posts, as their contracts are set to lapse on July 23 after serving for five years. The post Petition Demands Contract Extensions, Permanent Posts For Over 400 Health Inspectors appeared first on CodeBlue .",
+      "title": "Granddad’s car used as drug store: 16-year-old among eight arrested in JB raids",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/22/granddads-car-used-as-drug-store-16-year-old-among-eight-arrested-in-jb-raids/228566",
+      "source": "Malay Mail",
+      "published": "2026-07-22T07:42:15",
+      "summary": "JOHOR BAHRU, July 22 — Police have dismantled a synthetic drug ring after arresting eight individuals, including a...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Respiratory Syncytial Virus: The Unknown Threat Our Children Face — Dr Azanna Ahmad Kamar",
-      "url": "https://codeblue.galencentre.org/2026/07/respiratory-syncytial-virus-the-unknown-threat-our-children-face-dr-azanna-ahmad-kamar/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-17T05:50:00",
-      "summary": "Like many other respiratory diseases, RSV is highly contagious – among infants, two out of three children experience their first infection before 12 months of age. The post Respiratory Syncytial Virus: The Unknown Threat Our Children Face — Dr Azanna Ahmad Kamar appeared first on CodeBlue .",
-      "keywords_matched": [
-        "disease",
-        "virus"
+        "drug"
       ]
     }
   ]
