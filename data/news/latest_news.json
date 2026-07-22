@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-22T08:25:12.222635",
+  "fetched": "2026-07-22T11:07:23.644312",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Why Returning To Work Shouldn’t Mean The End Of Breastfeeding — Siew Li Teoh",
@@ -59,7 +59,7 @@
       "url": "https://codeblue.galencentre.org/2026/07/malaysia-heading-in-us-direction-with-mediasas-expert/",
       "source": "CodeBlue (Health News)",
       "published": "2026-07-21T01:55:55",
-      "summary": "Syed Aljunid slams MediAsas, saying Malaysia is moving in the direction of the US by wrongly using private health insurance as a health financing solution. Introducing MediAsas further breaks up the pool of resources; premiums are unaffordable for elderly. The post Malaysia Heading In US Direction With MediAsas: Expert appeared first on CodeBlue .",
+      "summary": "Syed Aljunid says with MediAsas, Malaysia is moving in the direction of the US by wrongly using private health insurance as a health financing solution. Introducing MediAsas further breaks up the pool of resources; premiums are unaffordable for elderly. The post Malaysia Heading In US Direction With MediAsas: Expert appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
       ]
@@ -104,6 +104,16 @@
       "keywords_matched": [
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "Kidnap victim rescued in RM7m ransom case detained over alleged drug trafficking links",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/22/kidnap-victim-rescued-in-rm7m-ransom-case-detained-over-alleged-drug-trafficking-links/228586",
+      "source": "Malay Mail",
+      "published": "2026-07-22T10:12:39",
+      "summary": "SUBANG JAYA, July 22 — A kidnap victim rescued within 48 hours after police foiled a RM7 million ransom...",
+      "keywords_matched": [
+        "drug"
       ]
     },
     {
