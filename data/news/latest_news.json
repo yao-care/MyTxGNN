@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-22T02:29:06.919416",
+  "fetched": "2026-07-22T05:47:50.538987",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,16 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Non-Cancer Elective Surgery Waiting Time Up To 13 Months In MOH",
+      "url": "https://codeblue.galencentre.org/2026/07/non-cancer-elective-surgery-waiting-time-up-to-13-months-in-moh/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-22T03:41:26",
+      "summary": "Dr Dzul says the waiting time for elective surgery for non-cancer cases is up to 13 months in MOH facilities. Cardiothoracic surgery, paediatric surgery, and urology have longer waiting times. Wait times for elective surgery for cancer are up to six weeks. The post Non-Cancer Elective Surgery Waiting Time Up To 13 Months In MOH appeared first on CodeBlue .",
+      "keywords_matched": [
+        "cancer"
+      ]
+    },
     {
       "title": "Stool Tests Cannot Replace Diagnostic, Preventive Colonoscopy: Specialists",
       "url": "https://codeblue.galencentre.org/2026/07/stool-tests-cannot-replace-diagnostic-preventive-colonoscopy-specialists/",
@@ -99,16 +109,6 @@
       "keywords_matched": [
         "disease",
         "virus"
-      ]
-    },
-    {
-      "title": "NIH Study Links Nurse, Medical Assistant Burnout To Double Shifts, Night Duty",
-      "url": "https://codeblue.galencentre.org/2026/07/nih-study-links-nurse-medical-assistant-burnout-to-double-shifts-night-duty/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-17T04:00:00",
-      "summary": "An NIH study found that night and double shifts, traumatic incidents, and workplace conflict contribute to burnout among nurses and assistant medical officers in MOH. MOH says it is increasing recruitment to ease workloads and reduce double shifts. The post NIH Study Links Nurse, Medical Assistant Burnout To Double Shifts, Night Duty appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
       ]
     }
   ]
