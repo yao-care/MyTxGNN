@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-23T02:33:37.220715",
+  "fetched": "2026-07-23T05:51:33.586982",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "MB Sounds Alarm On HSA’s ‘Critical’ Staff Shortage",
+      "url": "https://codeblue.galencentre.org/2026/07/mb-sounds-alarm-on-hsas-critical-staff-shortage/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-23T03:58:29",
+      "summary": "Johor MB Onn Hafiz highlights a \"critical\" staff shortage at HSA that has 142 vacancies (31%) for medical officers and 220 (13%) for nurses. A total of 54 staff at the hospital quit this year as of June 30, including 11 specialists and 26 medical officers. The post MB Sounds Alarm On HSA’s ‘Critical’ Staff Shortage appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "US’ 100% Tariff On Generic Drugs May Hit Malaysian Producers Hard: Galen Centre",
       "url": "https://codeblue.galencentre.org/2026/07/us-100-tariff-on-generic-drugs-may-hit-malaysian-producers-hard-galen-centre/",
@@ -97,13 +109,24 @@
       ]
     },
     {
-      "title": "Malaysia’s Workplace Mental Health Strategy Must Be Family Centred — June Joseph",
-      "url": "https://codeblue.galencentre.org/2026/07/malaysias-workplace-mental-health-strategy-must-be-family-centred-june-joseph/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-17T09:03:55",
-      "summary": "Workplace mental health policy should be accompanied by a national strategy that integrates parental and child health, education, employment, and social welfare. The post Malaysia’s Workplace Mental Health Strategy Must Be Family Centred — June Joseph appeared first on CodeBlue .",
+      "title": "Sabah NGO president claims trial to MACC charge over RM2m Rungus cultural hall project",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/sabah-ngo-president-claims-trial-to-macc-charge-over-rm2m-rungus-cultural-hall-project/228667",
+      "source": "Malay Mail",
+      "published": "2026-07-23T05:42:11",
+      "summary": "KOTA KINABALU, July 23 — Pertubuhan Rungus Bersatu Sabah (PRBS) president Makinsos Nawai pleaded not guilty in the...",
       "keywords_matched": [
-        "health"
+        "trial"
+      ]
+    },
+    {
+      "title": "Police investigating sexual harassment allegations involving Sabah hospital director",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/police-investigating-sexual-harassment-allegations-involving-sabah-hospital-director/228656",
+      "source": "Malay Mail",
+      "published": "2026-07-23T05:07:28",
+      "summary": "KOTA KINABALU, July 23 — Police have opened investigation papers into sexual harassment allegations by a public ho...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
