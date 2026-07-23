@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-22T23:00:34.538989",
+  "fetched": "2026-07-23T02:33:37.220715",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "US’ 100% Tariff On Generic Drugs May Hit Malaysian Producers Hard: Galen Centre",
+      "url": "https://codeblue.galencentre.org/2026/07/us-100-tariff-on-generic-drugs-may-hit-malaysian-producers-hard-galen-centre/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-23T02:00:00",
+      "summary": "The Galen Centre says the US' 100% tariff on imported generic drugs, which will take effect in August 2028, may severely affect Malaysian drug makers exporting to that market. The US is Malaysia's second-biggest export destination for pharmaceuticals. The post US’ 100% Tariff On Generic Drugs May Hit Malaysian Producers Hard: Galen Centre appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug",
+        "pharmaceutical"
+      ]
+    },
     {
       "title": "Why Returning To Work Shouldn’t Mean The End Of Breastfeeding — Siew Li Teoh",
       "url": "https://codeblue.galencentre.org/2026/07/why-returning-to-work-shouldnt-mean-the-end-of-breastfeeding-siew-li-teoh/",
@@ -93,37 +104,6 @@
       "summary": "Workplace mental health policy should be accompanied by a national strategy that integrates parental and child health, education, employment, and social welfare. The post Malaysia’s Workplace Mental Health Strategy Must Be Family Centred — June Joseph appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Hospital At Home: Bringing Acute Care Beyond Hospital Walls In Malaysia — Kala Raani, Suhana Abdul Rasak & Prof Khatijah Abdullah",
-      "url": "https://codeblue.galencentre.org/2026/07/hospital-at-home-bringing-acute-care-beyond-hospital-walls-in-malaysia-kala-raani-suhana-abdul-rasak-prof-khatijah-abdullah/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-17T07:30:00",
-      "summary": "HAH is an evolving model of care with growing international evidence, and Malaysia now has an opportunity to shape its own approach thoughtfully, safely, and equitably. The post Hospital At Home: Bringing Acute Care Beyond Hospital Walls In Malaysia — Kala Raani, Suhana Abdul Rasak & Prof Khatijah Abdullah appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Malaysia’s witness protection participants may lose protection for refusing relocation, drug abuse",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/22/malaysias-witness-protection-participants-may-lose-protection-for-refusing-relocation-drug-abuse/228604",
-      "source": "Malay Mail",
-      "published": "2026-07-22T11:58:10",
-      "summary": "KUALA LUMPUR, July 22 — Witness Protection Programme participants who refuse to relocate to safer accommodation or...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Kidnap victim rescued in RM7m ransom case detained over alleged drug trafficking links",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/22/kidnap-victim-rescued-in-rm7m-ransom-case-detained-over-alleged-drug-trafficking-links/228586",
-      "source": "Malay Mail",
-      "published": "2026-07-22T10:12:39",
-      "summary": "SUBANG JAYA, July 22 — A kidnap victim rescued within 48 hours after police foiled a RM7 million ransom...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
