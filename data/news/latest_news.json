@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-23T05:51:33.586982",
+  "fetched": "2026-07-23T08:26:21.280695",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,24 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "The International Playbook: What Malaysia Must Get Right In Its Senior Citizens Bill — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/07/the-international-playbook-what-malaysia-must-get-right-in-its-senior-citizens-bill-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-23T07:30:00",
+      "summary": "A society that forces its most vulnerable citizens to depend on family relationships, without providing a robust safety net, is a society that has failed its moral obligations. The post The International Playbook: What Malaysia Must Get Right In Its Senior Citizens Bill — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Unlicensed Pig Farms Increased To 89 Last Year: Mat Sabu",
+      "url": "https://codeblue.galencentre.org/2026/07/unlicensed-pig-farms-increased-to-89-last-year-mat-sabu/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-23T06:00:00",
+      "summary": "Mohamad Sabu says the number of unlicensed pig farms in Malaysia increased from 52 in 2024 to 89 in 2025, stressing the need to transform the pig farming industry through modern pig farming and pig farming areas to control river pollution and ASF risk. The post Unlicensed Pig Farms Increased To 89 Last Year: Mat Sabu appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "MB Sounds Alarm On HSA’s ‘Critical’ Staff Shortage",
       "url": "https://codeblue.galencentre.org/2026/07/mb-sounds-alarm-on-hsas-critical-staff-shortage/",
@@ -88,45 +104,34 @@
       ]
     },
     {
-      "title": "JPA: Only 46% Of Medical Officers Complete Specialisation On Time",
-      "url": "https://codeblue.galencentre.org/2026/07/jpa-only-46-of-medical-officers-complete-specialisation-on-time/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-20T03:40:00",
-      "summary": "JPA says only 46% of doctors complete specialisation on time, thus delaying specialty training for others. JPA also approved over 66,000 new positions without trade-offs for MOH from 2019. The issue now is workforce distribution, not creating positions. The post JPA: Only 46% Of Medical Officers Complete Specialisation On Time appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "MOH’s Nursing Workforce Contracted Since 2023 With 1,200 Nurses Lost",
-      "url": "https://codeblue.galencentre.org/2026/07/mohs-nursing-workforce-contracted-since-2023-with-1200-nurses-lost/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-20T02:00:00",
-      "summary": "Besides doctors, MOH's nursing workforce has also declined, losing 1,200 nurses across 2023 and 2024. The private sector gained 5,658 nurses in that two-year period. The 2023 contraction of MOH's nursing workforce was the first in five years since 2018. The post MOH’s Nursing Workforce Contracted Since 2023 With 1,200 Nurses Lost appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Sabah NGO president claims trial to MACC charge over RM2m Rungus cultural hall project",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/sabah-ngo-president-claims-trial-to-macc-charge-over-rm2m-rungus-cultural-hall-project/228667",
+      "title": "Former e-hailing driver claims trial to 12 charges in Klang over armed robbery, fraud, theft",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/former-e-hailing-driver-claims-trial-to-12-charges-in-klang-over-armed-robbery-fraud-theft/228698",
       "source": "Malay Mail",
-      "published": "2026-07-23T05:42:11",
-      "summary": "KOTA KINABALU, July 23 — Pertubuhan Rungus Bersatu Sabah (PRBS) president Makinsos Nawai pleaded not guilty in the...",
+      "published": "2026-07-23T08:16:02",
+      "summary": "KUALA LUMPUR, July 23 — A former e-hailing driver was charged in separate courts in Klang today with armed robbery...",
       "keywords_matched": [
         "trial"
       ]
     },
     {
-      "title": "Police investigating sexual harassment allegations involving Sabah hospital director",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/police-investigating-sexual-harassment-allegations-involving-sabah-hospital-director/228656",
+      "title": "Sabah assemblyman questions delay in action against hospital director over sexual harassment claims",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/sabah-assemblyman-questions-delay-in-action-against-hospital-director-over-sexual-harassment-claims/228689",
       "source": "Malay Mail",
-      "published": "2026-07-23T05:07:28",
-      "summary": "KOTA KINABALU, July 23 — Police have opened investigation papers into sexual harassment allegations by a public ho...",
+      "published": "2026-07-23T07:22:49",
+      "summary": "KOTA KINABALU, July 23 — An opposition assemblyman today questioned why a hospital director accused of sexua...",
       "keywords_matched": [
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "Chief Secretary steps in after complaints pile up at Universiti Malaya Medical Centre",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/chief-secretary-steps-in-after-complaints-pile-up-at-universiti-malaya-medical-centre/228678",
+      "source": "Malay Mail",
+      "published": "2026-07-23T06:29:58",
+      "summary": "KUALA LUMPUR, July 23 — Chief Secretary to the Government (KSN) Tan Sri Datuk Seri Shamsul Azri Abu Bakar has dire...",
+      "keywords_matched": [
+        "medical"
       ]
     }
   ]
