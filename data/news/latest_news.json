@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-23T08:26:21.280695",
+  "fetched": "2026-07-23T11:07:04.225418",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -104,6 +104,18 @@
       ]
     },
     {
+      "title": "Sabah Health Dept says action underway over sexual harassment, bullying allegations involving hospital director",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/sabah-health-dept-says-action-underway-over-sexual-harassment-bullying-allegations-involving-hospital-director/228706",
+      "source": "Malay Mail",
+      "published": "2026-07-23T09:05:19",
+      "summary": "KOTA KINABALU, July 23 — The Sabah State Health Department (JKNS) said action is being taken in accordance to proc...",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
       "title": "Former e-hailing driver claims trial to 12 charges in Klang over armed robbery, fraud, theft",
       "url": "https://www.malaymail.com/news/malaysia/2026/07/23/former-e-hailing-driver-claims-trial-to-12-charges-in-klang-over-armed-robbery-fraud-theft/228698",
       "source": "Malay Mail",
@@ -122,16 +134,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Chief Secretary steps in after complaints pile up at Universiti Malaya Medical Centre",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/chief-secretary-steps-in-after-complaints-pile-up-at-universiti-malaya-medical-centre/228678",
-      "source": "Malay Mail",
-      "published": "2026-07-23T06:29:58",
-      "summary": "KUALA LUMPUR, July 23 — Chief Secretary to the Government (KSN) Tan Sri Datuk Seri Shamsul Azri Abu Bakar has dire...",
-      "keywords_matched": [
-        "medical"
       ]
     }
   ]
