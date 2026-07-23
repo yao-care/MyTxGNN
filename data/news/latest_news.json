@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-23T11:07:04.225418",
+  "fetched": "2026-07-23T13:52:17.438617",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "The International Playbook: What Malaysia Must Get Right In Its Senior Citizens Bill — Dr Rajeentheran Suntheralingam",
@@ -123,17 +123,6 @@
       "summary": "KUALA LUMPUR, July 23 — A former e-hailing driver was charged in separate courts in Klang today with armed robbery...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Sabah assemblyman questions delay in action against hospital director over sexual harassment claims",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/sabah-assemblyman-questions-delay-in-action-against-hospital-director-over-sexual-harassment-claims/228689",
-      "source": "Malay Mail",
-      "published": "2026-07-23T07:22:49",
-      "summary": "KOTA KINABALU, July 23 — An opposition assemblyman today questioned why a hospital director accused of sexua...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
