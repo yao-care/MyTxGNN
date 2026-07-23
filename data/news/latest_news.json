@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-23T22:53:49.159517",
+  "fetched": "2026-07-23T23:58:13.926902",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "The International Playbook: What Malaysia Must Get Right In Its Senior Citizens Bill — Dr Rajeentheran Suntheralingam",
@@ -113,16 +113,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Former e-hailing driver claims trial to 12 charges in Klang over armed robbery, fraud, theft",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/former-e-hailing-driver-claims-trial-to-12-charges-in-klang-over-armed-robbery-fraud-theft/228698",
-      "source": "Malay Mail",
-      "published": "2026-07-23T08:16:02",
-      "summary": "KUALA LUMPUR, July 23 — A former e-hailing driver was charged in separate courts in Klang today with armed robbery...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
