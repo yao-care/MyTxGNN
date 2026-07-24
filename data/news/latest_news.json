@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-23T23:58:13.926902",
+  "fetched": "2026-07-24T03:22:28.559774",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,37 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Rethinking Filial Piety: Why Malaysia Needs State-Led Elderly Support In The New Bill — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/07/rethinking-filial-piety-why-malaysia-needs-state-led-elderly-support-in-the-new-bill-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-24T01:52:59",
+      "summary": "The state must build a system where no senior citizen is left behind, and no family is forced to choose between love and survival. The post Rethinking Filial Piety: Why Malaysia Needs State-Led Elderly Support In The New Bill — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Beyond Nursing Homes: Designing Communities Where People Continue To Live, Learn, And Thrive",
+      "url": "https://codeblue.galencentre.org/2026/07/beyond-nursing-homes-designing-communities-where-people-continue-to-live-learn-and-thrive/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-24T01:50:18",
+      "summary": "Healthy ageing is not achieved merely by treating disease or extending life expectancy. It is about enabling people to continue living with purpose, dignity, independence, and fulfilment. The post Beyond Nursing Homes: Designing Communities Where People Continue To Live, Learn, And Thrive appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "disease"
+      ]
+    },
+    {
+      "title": "Climate Change Raises Antibiotic Resistance In Common Pathogens",
+      "url": "https://codeblue.galencentre.org/2026/07/climate-change-raises-antibiotic-resistance-in-common-pathogens/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-24T01:47:16",
+      "summary": "Climate change is increasing antibiotic resistance in bacteria like E. coli and Klebsiella, with rising temperatures and dry soil linked to higher resistance, says an expert. Climate pressures may fuel the spread of increasingly drug-resistant Salmonella. The post Climate Change Raises Antibiotic Resistance In Common Pathogens appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
     {
       "title": "The International Playbook: What Malaysia Must Get Right In Its Senior Citizens Bill — Dr Rajeentheran Suntheralingam",
       "url": "https://codeblue.galencentre.org/2026/07/the-international-playbook-what-malaysia-must-get-right-in-its-senior-citizens-bill-dr-rajeentheran-suntheralingam/",
@@ -72,47 +101,6 @@
       "summary": "Dr Dzul says the waiting time for elective surgery for non-cancer cases is up to 13 months in MOH facilities. Cardiothoracic surgery, paediatric surgery, and urology have longer waiting times. Wait times for elective surgery for cancer are up to six weeks. The post Non-Cancer Elective Surgery Waiting Time Up To 13 Months In MOH appeared first on CodeBlue .",
       "keywords_matched": [
         "cancer"
-      ]
-    },
-    {
-      "title": "Stool Tests Cannot Replace Diagnostic, Preventive Colonoscopy: Specialists",
-      "url": "https://codeblue.galencentre.org/2026/07/stool-tests-cannot-replace-diagnostic-preventive-colonoscopy-specialists/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-22T01:50:00",
-      "summary": "Colorectal surgeons say stool tests are for general screening and can't replace colonoscopy to diagnose colorectal cancer when patients have symptoms. Polyps can be removed before turning cancerous, making it both a diagnostic and preventive procedure. The post Stool Tests Cannot Replace Diagnostic, Preventive Colonoscopy: Specialists appeared first on CodeBlue .",
-      "keywords_matched": [
-        "cancer",
-        "patient"
-      ]
-    },
-    {
-      "title": "Rakan KKM Still Stalled, Dzulkefly Omits Launch Date",
-      "url": "https://codeblue.galencentre.org/2026/07/rakan-kkm-still-stalled-dzulkefly-omits-launch-date/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-21T04:02:35",
-      "summary": "Dr Dzul says implementation of Rakan KKM, which first received funding under Budget 2025 nearly two years ago, is still stalled due to bureaucracy, without specifying the next target launch date. One of the main hurdles is the need to comply with Act 586. The post Rakan KKM Still Stalled, Dzulkefly Omits Launch Date appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Malaysia Heading In US Direction With MediAsas: Expert",
-      "url": "https://codeblue.galencentre.org/2026/07/malaysia-heading-in-us-direction-with-mediasas-expert/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-21T01:55:55",
-      "summary": "Syed Aljunid says with MediAsas, Malaysia is moving in the direction of the US by wrongly using private health insurance as a health financing solution. Introducing MediAsas further breaks up the pool of resources; premiums are unaffordable for elderly. The post Malaysia Heading In US Direction With MediAsas: Expert appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Sabah Health Dept says action underway over sexual harassment, bullying allegations involving hospital director",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/sabah-health-dept-says-action-underway-over-sexual-harassment-bullying-allegations-involving-hospital-director/228706",
-      "source": "Malay Mail",
-      "published": "2026-07-23T09:05:19",
-      "summary": "KOTA KINABALU, July 23 — The Sabah State Health Department (JKNS) said action is being taken in accordance to proc...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
       ]
     }
   ]
