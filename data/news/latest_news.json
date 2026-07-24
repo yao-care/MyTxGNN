@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-24T03:22:28.559774",
+  "fetched": "2026-07-24T06:23:35.817206",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,18 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Type 2 Diabetes At 14: Malaysia Must Act Before Prevention Becomes Too Late — Kalivani Poongawanam",
+      "url": "https://codeblue.galencentre.org/2026/07/type-2-diabetes-at-14-malaysia-must-act-before-prevention-becomes-too-late-kalivani-poongawanam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-24T03:51:50",
+      "summary": "When a 14-year-old develops Type 2 diabetes, the disease did not begin at 14. It began years earlier through unhealthy environments and missed opportunities for prevention. The post Type 2 Diabetes At 14: Malaysia Must Act Before Prevention Becomes Too Late — Kalivani Poongawanam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "disease",
+        "diabetes"
+      ]
+    },
     {
       "title": "Rethinking Filial Piety: Why Malaysia Needs State-Led Elderly Support In The New Bill — Dr Rajeentheran Suntheralingam",
       "url": "https://codeblue.galencentre.org/2026/07/rethinking-filial-piety-why-malaysia-needs-state-led-elderly-support-in-the-new-bill-dr-rajeentheran-suntheralingam/",
@@ -92,16 +104,6 @@
       "published": "2026-07-22T06:00:00",
       "summary": "Meaningful action requires courage, commitment, and the humility to admit that you cannot legislate what only love can provide. The post The State Must Care, Not Coerce: A Critique Of Malaysia’s Senior Citizens Bill — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Non-Cancer Elective Surgery Waiting Time Up To 13 Months In MOH",
-      "url": "https://codeblue.galencentre.org/2026/07/non-cancer-elective-surgery-waiting-time-up-to-13-months-in-moh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-22T03:41:26",
-      "summary": "Dr Dzul says the waiting time for elective surgery for non-cancer cases is up to 13 months in MOH facilities. Cardiothoracic surgery, paediatric surgery, and urology have longer waiting times. Wait times for elective surgery for cancer are up to six weeks. The post Non-Cancer Elective Surgery Waiting Time Up To 13 Months In MOH appeared first on CodeBlue .",
-      "keywords_matched": [
-        "cancer"
-      ]
     }
   ]
 }
