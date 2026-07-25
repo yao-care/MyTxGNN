@@ -9,6 +9,7 @@ evidence_level: "L1"
 indication_count: 10
 brands: []
 permalink: /drugs/arsenic-trioxide/
+sitemap: false
 ---
 
 # Arsenic Trioxide

@@ -9,6 +9,7 @@ evidence_level: "L5"
 indication_count: 6
 brands: []
 permalink: /drugs/albutrepenonacog-alfa/
+sitemap: false
 ---
 
 # Albutrepenonacog Alfa

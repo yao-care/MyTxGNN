@@ -9,6 +9,7 @@ evidence_level: "L1"
 indication_count: 10
 brands: []
 permalink: /drugs/ascorbic-acid/
+sitemap: false
 ---
 
 # Ascorbic Acid

@@ -9,6 +9,7 @@ evidence_level: "L2"
 indication_count: 9
 brands: []
 permalink: /drugs/acetic-acid/
+sitemap: false
 ---
 
 # Acetic Acid

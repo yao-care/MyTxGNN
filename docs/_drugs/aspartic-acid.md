@@ -9,6 +9,7 @@ evidence_level: "L3"
 indication_count: 1
 brands: []
 permalink: /drugs/aspartic-acid/
+sitemap: false
 ---
 
 # Aspartic Acid

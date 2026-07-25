@@ -9,6 +9,7 @@ evidence_level: "L3"
 indication_count: 4
 brands: []
 permalink: /drugs/benzoyl-peroxide/
+sitemap: false
 ---
 
 # Benzoyl Peroxide

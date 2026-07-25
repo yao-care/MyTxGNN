@@ -9,6 +9,7 @@ evidence_level: "L5"
 indication_count: 10
 brands: []
 permalink: /drugs/lithium-carbonate/
+sitemap: false
 ---
 
 # Lithium Carbonate

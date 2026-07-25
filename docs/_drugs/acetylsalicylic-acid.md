@@ -9,6 +9,7 @@ evidence_level: "L1"
 indication_count: 9
 brands: []
 permalink: /drugs/acetylsalicylic-acid/
+sitemap: false
 ---
 
 # Acetylsalicylic Acid

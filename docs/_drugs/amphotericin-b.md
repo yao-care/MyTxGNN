@@ -9,6 +9,7 @@ evidence_level: "L1"
 indication_count: 5
 brands: []
 permalink: /drugs/amphotericin-b/
+sitemap: false
 ---
 
 # Amphotericin B

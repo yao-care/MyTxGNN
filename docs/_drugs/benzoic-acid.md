@@ -9,6 +9,7 @@ evidence_level: "L5"
 indication_count: 5
 brands: []
 permalink: /drugs/benzoic-acid/
+sitemap: false
 ---
 
 # Benzoic Acid

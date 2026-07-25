@@ -9,6 +9,7 @@ evidence_level: "L5"
 indication_count: 0
 brands: []
 permalink: /drugs/azelaic-acid/
+sitemap: false
 ---
 
 # Azelaic Acid

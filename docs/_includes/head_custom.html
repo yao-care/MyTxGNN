@@ -90,7 +90,13 @@
 </script>
 
 <!-- Schema.org 結構化資料 -->
-{% if page.layout == 'default' and page.evidence_level %}
+{% comment %}
+  條件只判斷 evidence_level，不再要求 layout == 'default'。
+  本站是 30 站裡唯一備有 _layouts/drug.html 的，藥品頁的 layout 是 drug，
+  加上 layout 條件會讓這批頁面拿不到 MedicalWebPage schema。
+  evidence_level 只有藥品頁才有，單獨判斷已足夠。
+{% endcomment %}
+{% if page.evidence_level %}
 <!-- MedicalWebPage Schema for Drug Reports -->
 <script type="application/ld+json">
 {

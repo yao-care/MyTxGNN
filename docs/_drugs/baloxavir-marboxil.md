@@ -9,6 +9,7 @@ evidence_level: "L5"
 indication_count: 0
 brands: []
 permalink: /drugs/baloxavir-marboxil/
+sitemap: false
 ---
 
 # Baloxavir Marboxil

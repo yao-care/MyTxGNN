@@ -9,6 +9,7 @@ evidence_level: "L1"
 indication_count: 5
 brands: []
 permalink: /drugs/beclomethasone-dipropionate/
+sitemap: false
 ---
 
 # Beclomethasone Dipropionate
