@@ -193,3 +193,21 @@ Laporan ini adalah untuk <strong>tujuan penyelidikan akademik sahaja</strong> da
 <br><br>
 <small>Kemas kini terakhir: 2026-03-03 | Pasukan Penyelidikan MyTxGNN</small>
 </div>
+
+---
+
+## Tentang Pembangun
+
+Platform ini dibangunkan dan dikendalikan oleh **藥提醒科技有限公司** (yao.care, nombor pendaftaran
+syarikat 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
+
+MyTxGNN ialah laman Malaysia bagi barisan produk "TxGNN Drug Repurposing" syarikat tersebut.
+Sistem yang sama digunakan di 30 negara dan wilayah, masing-masing dinamakan `{CC}TxGNN`
+(JpTxGNN, UsTxGNN, DETxGNN, dan seterusnya) di `{cc}txgnn.yao.care`.
+Gambaran keseluruhan produk: <https://www.yao.care/medical/txgnn/>.
+
+Model TxGNN itu sendiri dibangunkan oleh Zitnik Lab di Harvard Medical School dan diterbitkan
+dalam *Nature Medicine*. Platform ini ialah sistem pengeluaran yang dibina oleh 藥提醒科技有限公司
+berasaskan model tersebut, merangkumi integrasi data pendaftaran ubat kebangsaan, ramalan
+dwi-kaedah graf pengetahuan dan pembelajaran mendalam, penggredan bukti PubMed /
+ClinicalTrials, serta integrasi rekod kesihatan elektronik SMART on FHIR.

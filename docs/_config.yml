@@ -4,6 +4,10 @@
 # Basic settings
 title: "Laporan Penggunaan Semula Ubat MyTxGNN"
 description: "Ramalan penggunaan semula ubat Malaysia menggunakan graf pengetahuan TxGNN"
+
+author:
+  name: 藥提醒科技有限公司 (yao.care)
+  url: https://www.yao.care/
 url: "https://mytxgnn.yao.care"
 baseurl: ""
 lang: "ms"
@@ -24,7 +28,7 @@ search:
   heading_level: 3
 
 # Footer
-footer_content: "Hak Cipta &copy; 2026 Projek MyTxGNN. Untuk tujuan penyelidikan sahaja. Bukan nasihat perubatan."
+footer_content: "Hak Cipta &copy; 2026 藥提醒科技有限公司 (yao.care). Untuk tujuan penyelidikan sahaja. Bukan nasihat perubatan."
 
 # Auxiliary navigation links
 aux_links:
@@ -60,3 +64,4 @@ exclude:
   - node_modules
   - vendor
   - "*.template"
+

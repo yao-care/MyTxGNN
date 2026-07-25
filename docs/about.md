@@ -15,6 +15,24 @@ Using AI to accelerate drug repurposing research for Malaysia's healthcare needs
 
 ---
 
+## Tentang Pembangun
+
+Platform ini dibangunkan dan dikendalikan oleh **藥提醒科技有限公司** (yao.care, nombor pendaftaran
+syarikat 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
+
+MyTxGNN ialah laman Malaysia bagi barisan produk "TxGNN Drug Repurposing" syarikat tersebut.
+Sistem yang sama digunakan di 30 negara dan wilayah, masing-masing dinamakan `{CC}TxGNN`
+(JpTxGNN, UsTxGNN, DETxGNN, dan seterusnya) di `{cc}txgnn.yao.care`.
+Gambaran keseluruhan produk: <https://www.yao.care/medical/txgnn/>.
+
+Model TxGNN itu sendiri dibangunkan oleh Zitnik Lab di Harvard Medical School dan diterbitkan
+dalam *Nature Medicine*. Platform ini ialah sistem pengeluaran yang dibina oleh 藥提醒科技有限公司
+berasaskan model tersebut, merangkumi integrasi data pendaftaran ubat kebangsaan, ramalan
+dwi-kaedah graf pengetahuan dan pembelajaran mendalam, penggredan bukti PubMed /
+ClinicalTrials, serta integrasi rekod kesihatan elektronik SMART on FHIR.
+
+---
+
 ## Project Background
 
 <p class="key-answer" data-question="What is MyTxGNN?">
@@ -27,7 +45,7 @@ Using AI to accelerate drug repurposing research for Malaysia's healthcare needs
 
 | Item | Information |
 |------|-------------|
-| Project Maintained By | Yao.Care |
+| Project Maintained By | 藥提醒科技有限公司 (yao.care) |
 | Model Foundation | Harvard TxGNN (Zitnik Lab) |
 | Data Source | NPRA Malaysia, data.gov.my |
 | Last Updated | March 2026 |
@@ -151,5 +169,5 @@ For questions or suggestions, please contact us through:
 <strong>Disclaimer</strong><br>
 This report is for <strong>academic research purposes only</strong> and does not constitute medical advice. Drug use should follow physician guidance. Do not self-adjust medications. Any drug repurposing decisions require complete clinical validation and regulatory review.
 <br><br>
-<small>Last reviewed: 2026-03-03 | Reviewer: MyTxGNN Research Team</small>
+<small>Last reviewed: 2026-03-03 | Reviewer: 藥提醒科技有限公司 (yao.care)</small>
 </div>

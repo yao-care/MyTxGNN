@@ -4,6 +4,10 @@
 # 基本設定
 title: "{Country}TxGNN Drug Repurposing Reports"  # TODO: 修改標題
 description: "{Country} 藥品老藥新用預測報告"        # TODO: 修改描述
+
+author:
+  name: 藥提醒科技有限公司 (yao.care)
+  url: https://www.yao.care/
 url: "https://{country}txgnn.example.com"          # TODO: 修改網址
 baseurl: ""
 lang: "{lang}"  # TODO: ISO 639-1 語言代碼，如 ja, ko, th
@@ -20,6 +24,8 @@ plugins:
 
 # 搜尋功能
 search_enabled: true
+footer_content: "Copyright &copy; 2026 藥提醒科技有限公司 (yao.care). This report is for research purposes only and does not constitute medical advice."
+
 search:
   heading_level: 3
 
@@ -64,3 +70,4 @@ exclude:
   - node_modules
   - vendor
   - "*.template"
+
