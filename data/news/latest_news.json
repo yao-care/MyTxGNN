@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-25T07:13:16.492840",
+  "fetched": "2026-07-25T09:44:19.682789",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -109,6 +109,16 @@
       "keywords_matched": []
     },
     {
+      "title": "Najib Razak undergoes coronary procedure; no stent needed, doctors confirm",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/25/najib-razak-undergoes-coronary-procedure-no-stent-needed-doctors-confirm/228953",
+      "source": "Malay Mail",
+      "published": "2026-07-25T09:40:58",
+      "summary": "KUALA LUMPUR, July 25 — Former Malaysian Prime Minister Datuk Seri Najib Razak is in stable condition and rec...",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
       "title": "Royal reassurance: Sultan of Terengganu in good health, continues treatment plan",
       "url": "https://www.malaymail.com/news/malaysia/2026/07/25/royal-reassurance-sultan-of-terengganu-in-good-health-continues-treatment-plan/228900",
       "source": "Malay Mail",
@@ -117,16 +127,6 @@
       "keywords_matched": [
         "health",
         "treatment"
-      ]
-    },
-    {
-      "title": "Malaysia aims to produce first locally made human vaccine by 2028",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/25/malaysia-aims-to-produce-first-locally-made-human-vaccine-by-2028/228890",
-      "source": "Malay Mail",
-      "published": "2026-07-25T02:48:48",
-      "summary": "KUALA LUMPUR, July 25 — Malaysia is reprotedly aiming to produce its first locally manufactured human vaccine as e...",
-      "keywords_matched": [
-        "vaccine"
       ]
     }
   ]
