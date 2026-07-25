@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-25T00:10:33.270528",
+  "fetched": "2026-07-25T04:08:17.756275",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "Hospital Director Accused Of Sexually Harassing Second Victim",
@@ -107,6 +107,27 @@
       "published": "2026-07-22T07:45:00",
       "summary": "When national progressive policies are matched by a well-prepared, empowered mother and supported by a receptive employer, the path to long-term breastfeeding success becomes clear. The post Why Returning To Work Shouldn’t Mean The End Of Breastfeeding — Siew Li Teoh appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Royal reassurance: Sultan of Terengganu in good health, continues treatment plan",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/25/royal-reassurance-sultan-of-terengganu-in-good-health-continues-treatment-plan/228900",
+      "source": "Malay Mail",
+      "published": "2026-07-25T03:57:27",
+      "summary": "KUALA LUMPUR, July 25 — The Sultan of Terengganu, Sultan Mizan Zainal Abidin, is in good health and will cont...",
+      "keywords_matched": [
+        "health",
+        "treatment"
+      ]
+    },
+    {
+      "title": "Malaysia aims to produce first locally made human vaccine by 2028",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/25/malaysia-aims-to-produce-first-locally-made-human-vaccine-by-2028/228890",
+      "source": "Malay Mail",
+      "published": "2026-07-25T02:48:48",
+      "summary": "KUALA LUMPUR, July 25 — Malaysia is reprotedly aiming to produce its first locally manufactured human vaccine as e...",
+      "keywords_matched": [
+        "vaccine"
+      ]
     }
   ]
 }
