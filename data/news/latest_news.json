@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-25T09:44:19.682789",
+  "fetched": "2026-07-25T11:07:28.907369",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Hospital Director Accused Of Sexually Harassing Second Victim",
@@ -116,17 +116,6 @@
       "summary": "KUALA LUMPUR, July 25 — Former Malaysian Prime Minister Datuk Seri Najib Razak is in stable condition and rec...",
       "keywords_matched": [
         "doctor"
-      ]
-    },
-    {
-      "title": "Royal reassurance: Sultan of Terengganu in good health, continues treatment plan",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/25/royal-reassurance-sultan-of-terengganu-in-good-health-continues-treatment-plan/228900",
-      "source": "Malay Mail",
-      "published": "2026-07-25T03:57:27",
-      "summary": "KUALA LUMPUR, July 25 — The Sultan of Terengganu, Sultan Mizan Zainal Abidin, is in good health and will cont...",
-      "keywords_matched": [
-        "health",
-        "treatment"
       ]
     }
   ]
