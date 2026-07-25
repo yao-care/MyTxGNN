@@ -5,9 +5,6 @@
 title: "Laporan Penggunaan Semula Ubat MyTxGNN"
 description: "Ramalan penggunaan semula ubat Malaysia menggunakan graf pengetahuan TxGNN"
 
-author:
-  name: 藥提醒科技有限公司 (yao.care)
-  url: https://www.yao.care/
 url: "https://mytxgnn.yao.care"
 baseurl: ""
 lang: "ms"
@@ -64,4 +61,5 @@ exclude:
   - node_modules
   - vendor
   - "*.template"
+
 
