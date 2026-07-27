@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-27T06:27:31.621630",
+  "fetched": "2026-07-27T10:40:19.231899",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Hospital Director Transferred To JKN Sabah After Sexual Harassment Cases",
+      "url": "https://codeblue.galencentre.org/2026/07/hospital-director-transferred-to-jkn-sabah-after-sexual-harassment-cases/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-27T07:06:49",
+      "summary": "The hospital director accused of sexually harassing at least two women at a public hospital has been transferred to JKNS. He also filed a police report against one of his alleged victims, a doctor, over her complaint at the Anti-Sexual Harassment Tribunal. The post Hospital Director Transferred To JKN Sabah After Sexual Harassment Cases appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "Why Malaysia Must End Marriage-Based Citizenship Discrimination",
       "url": "https://codeblue.galencentre.org/2026/07/why-malaysia-must-end-marriage-based-citizenship-discrimination/",
@@ -100,21 +112,23 @@
       "keywords_matched": []
     },
     {
-      "title": "Unlicensed Pig Farms Increased To 89 Last Year: Mat Sabu",
-      "url": "https://codeblue.galencentre.org/2026/07/unlicensed-pig-farms-increased-to-89-last-year-mat-sabu/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-23T06:00:00",
-      "summary": "Mohamad Sabu says the number of unlicensed pig farms in Malaysia increased from 52 in 2024 to 89 in 2025, stressing the need to transform the pig farming industry through modern pig farming and pig farming areas to control river pollution and ASF risk. The post Unlicensed Pig Farms Increased To 89 Last Year: Mat Sabu appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Muhyiddin’s trial: Company MD says he borrowed RM19.5m to donate to Bersatu at request of ‘Datuk’",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/27/muhyiddins-trial-company-md-says-he-borrowed-rm195m-to-donate-to-bersatu-after-datuk-requested-it/229158",
+      "source": "Malay Mail",
+      "published": "2026-07-27T09:28:39",
+      "summary": "KUALA LUMPUR, July 27 — Construction company Mamfor Sdn Bhd managing director Shahradzi Shamsuddin today said a ma...",
+      "keywords_matched": [
+        "trial"
+      ]
     },
     {
-      "title": "Police: Driver in Teluk Intan crash that killed two teenage girls tests positive for drugs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/27/police-driver-in-teluk-intan-crash-that-killed-two-teenage-girls-tests-positive-for-drugs/229103",
+      "title": "Prosecution to call 25 witnesses in former Army chief’s money laundering trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/27/prosecution-to-call-25-witnesses-in-former-army-chiefs-money-laundering-trial/229152",
       "source": "Malay Mail",
-      "published": "2026-07-27T03:07:12",
-      "summary": "IPOH, July 27 — The driver believed to have caused the crash that claimed the lives of two teenage girls on Jalan...",
+      "published": "2026-07-27T08:46:13",
+      "summary": "KUALA LUMPUR, July 27 — The prosecution will call 25 witnesses in the trial of former Army chief Tan Sr...",
       "keywords_matched": [
-        "drug"
+        "trial"
       ]
     }
   ]
