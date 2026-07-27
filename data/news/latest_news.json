@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-27T02:44:09.077144",
+  "fetched": "2026-07-27T06:27:31.621630",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Why Malaysia Must End Marriage-Based Citizenship Discrimination",
+      "url": "https://codeblue.galencentre.org/2026/07/why-malaysia-must-end-marriage-based-citizenship-discrimination/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-27T05:38:39",
+      "summary": "The global direction of nationality law has moved away from punishing children for the circumstances of their birth, and towards recognising proven parentage, genuine connection to the state, and prevention of statelessness as the guiding principles. The post Why Malaysia Must End Marriage-Based Citizenship Discrimination appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Health Ministry’s Nursing Vacancies Rise, Now Exceed 15,000",
+      "url": "https://codeblue.galencentre.org/2026/07/health-ministrys-nursing-vacancies-rise-now-exceed-15000/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-27T04:04:24",
+      "summary": "Nursing vacancies in MOH rose from 14,792 in Sept 2025 to 15,587 in March 2026, marking an increase of 795 vacancies. MOH also reported 2,901 vacancies for AMOs in March 2026. Senator Lingeshwaran suggests retention bonuses for health care workers. The post Health Ministry’s Nursing Vacancies Rise, Now Exceed 15,000 appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "MOH Clawing Back Critical Allowance Payments From Sexual Harassment Victim",
       "url": "https://codeblue.galencentre.org/2026/07/moh-clawing-back-critical-allowance-payments-from-sexual-harassment-victim/",
@@ -90,26 +108,13 @@
       "keywords_matched": []
     },
     {
-      "title": "MB Sounds Alarm On HSA’s ‘Critical’ Staff Shortage",
-      "url": "https://codeblue.galencentre.org/2026/07/mb-sounds-alarm-on-hsas-critical-staff-shortage/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-23T03:58:29",
-      "summary": "Johor MB Onn Hafiz highlights a \"critical\" staff shortage at HSA that has 142 vacancies (31%) for medical officers and 220 (13%) for nurses. A total of 54 staff at the hospital quit this year as of June 30, including 11 specialists and 26 medical officers. The post MB Sounds Alarm On HSA’s ‘Critical’ Staff Shortage appeared first on CodeBlue .",
+      "title": "Police: Driver in Teluk Intan crash that killed two teenage girls tests positive for drugs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/27/police-driver-in-teluk-intan-crash-that-killed-two-teenage-girls-tests-positive-for-drugs/229103",
+      "source": "Malay Mail",
+      "published": "2026-07-27T03:07:12",
+      "summary": "IPOH, July 27 — The driver believed to have caused the crash that claimed the lives of two teenage girls on Jalan...",
       "keywords_matched": [
-        "medical",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "US’ 100% Tariff On Generic Drugs May Hit Malaysian Producers Hard: Galen Centre",
-      "url": "https://codeblue.galencentre.org/2026/07/us-100-tariff-on-generic-drugs-may-hit-malaysian-producers-hard-galen-centre/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-23T02:00:00",
-      "summary": "The Galen Centre says the US' 100% tariff on imported generic drugs, which will take effect in August 2028, may severely affect Malaysian drug makers exporting to that market. The US is Malaysia's second-biggest export destination for pharmaceuticals. The post US’ 100% Tariff On Generic Drugs May Hit Malaysian Producers Hard: Galen Centre appeared first on CodeBlue .",
-      "keywords_matched": [
-        "drug",
-        "pharmaceutical"
+        "drug"
       ]
     }
   ]
