@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-26T23:01:39.451175",
+  "fetched": "2026-07-27T02:44:09.077144",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,18 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "MOH Clawing Back Critical Allowance Payments From Sexual Harassment Victim",
+      "url": "https://codeblue.galencentre.org/2026/07/moh-clawing-back-critical-allowance-payments-from-sexual-harassment-victim/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-27T02:00:00",
+      "summary": "MOH is instituting critical allowance repayments from a doctor who took over 3 months' MC after she was allegedly sexually harassed by her hospital director. MOH's MyHelp took 4 months to address her complaint and merely referred it to hospital management. The post MOH Clawing Back Critical Allowance Payments From Sexual Harassment Victim appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "Hospital Director Accused Of Sexually Harassing Second Victim",
       "url": "https://codeblue.galencentre.org/2026/07/hospital-director-accused-of-sexually-harassing-second-victim/",
@@ -99,14 +111,6 @@
         "drug",
         "pharmaceutical"
       ]
-    },
-    {
-      "title": "Why Returning To Work Shouldn’t Mean The End Of Breastfeeding — Siew Li Teoh",
-      "url": "https://codeblue.galencentre.org/2026/07/why-returning-to-work-shouldnt-mean-the-end-of-breastfeeding-siew-li-teoh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-22T07:45:00",
-      "summary": "When national progressive policies are matched by a well-prepared, empowered mother and supported by a receptive employer, the path to long-term breastfeeding success becomes clear. The post Why Returning To Work Shouldn’t Mean The End Of Breastfeeding — Siew Li Teoh appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
