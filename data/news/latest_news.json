@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-28T06:24:41.076710",
+  "fetched": "2026-07-28T09:35:00.708481",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Bayer Appoints Simon Rosof To Lead Pharmaceuticals Business Across Asia Pacific",
+      "url": "https://codeblue.galencentre.org/2026/07/bayer-appoints-simon-rosof-to-lead-pharmaceuticals-business-across-asia-pacific/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-28T07:30:00",
+      "summary": "Rosof's appointment underscores Bayer's commitment to accelerating the delivery of innovative medicines and strengthening talent development across Asia Pacific. The post Bayer Appoints Simon Rosof To Lead Pharmaceuticals Business Across Asia Pacific appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "pharmaceutical"
+      ]
+    },
     {
       "title": "Poultry Experts Want Greater Focus On Prevention, Climate-Ready Infrastructure, Industry Resilience",
       "url": "https://codeblue.galencentre.org/2026/07/poultry-experts-want-greater-focus-on-prevention-climate-ready-infrastructure-industry-resilience/",
@@ -106,12 +117,16 @@
       ]
     },
     {
-      "title": "Rethinking Filial Piety: Why Malaysia Needs State-Led Elderly Support In The New Bill — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/07/rethinking-filial-piety-why-malaysia-needs-state-led-elderly-support-in-the-new-bill-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-24T01:52:59",
-      "summary": "The state must build a system where no senior citizen is left behind, and no family is forced to choose between love and survival. The post Rethinking Filial Piety: Why Malaysia Needs State-Led Elderly Support In The New Bill — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Malaysia registers 26 rare disease medicines since 2020, says Health Ministry",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/28/malaysia-registers-26-rare-disease-medicines-since-2020-says-health-ministry/229273",
+      "source": "Malay Mail",
+      "published": "2026-07-28T08:58:37",
+      "summary": "KUALA LUMPUR, July 28 — A total of 26 medicines for rare diseases had been registered in Malaysia as of April this...",
+      "keywords_matched": [
+        "health",
+        "medicine",
+        "disease"
+      ]
     }
   ]
 }
