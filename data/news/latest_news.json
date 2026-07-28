@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-28T03:26:10.753936",
+  "fetched": "2026-07-28T06:24:41.076710",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,27 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Poultry Experts Want Greater Focus On Prevention, Climate-Ready Infrastructure, Industry Resilience",
+      "url": "https://codeblue.galencentre.org/2026/07/poultry-experts-want-greater-focus-on-prevention-climate-ready-infrastructure-industry-resilience/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-28T06:00:00",
+      "summary": "The strategic question is no longer whether poultry is important to Malaysia's food system. The real question is whether our production systems can remain resilient amid disease threats, climate stress, rising costs and changing market expectations. The post Poultry Experts Want Greater Focus On Prevention, Climate-Ready Infrastructure, Industry Resilience appeared first on CodeBlue .",
+      "keywords_matched": [
+        "disease"
+      ]
+    },
+    {
+      "title": "Sarawak Short Of About 1,200 Doctors, 1,200 Nurses",
+      "url": "https://codeblue.galencentre.org/2026/07/sarawak-short-of-about-1200-doctors-1200-nurses/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-28T03:56:16",
+      "summary": "Sarawak is facing a large shortage of doctors and nurses, with over 930 vacancies for medical officers, over 260 for specialist doctors, and over 1,200 for nurses as of June 30. Vacancy rates in the state are 30% (MO), 28% (specialist), and 15% (nurse). The post Sarawak Short Of About 1,200 Doctors, 1,200 Nurses appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "Only 50 Veterinary Specialists In Malaysia, Experts Seek Local Training Pathway",
       "url": "https://codeblue.galencentre.org/2026/07/only-50-veterinary-specialists-in-malaysia-experts-seek-local-training-pathway/",
@@ -91,27 +112,6 @@
       "published": "2026-07-24T01:52:59",
       "summary": "The state must build a system where no senior citizen is left behind, and no family is forced to choose between love and survival. The post Rethinking Filial Piety: Why Malaysia Needs State-Led Elderly Support In The New Bill — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Beyond Nursing Homes: Designing Communities Where People Continue To Live, Learn, And Thrive",
-      "url": "https://codeblue.galencentre.org/2026/07/beyond-nursing-homes-designing-communities-where-people-continue-to-live-learn-and-thrive/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-24T01:50:18",
-      "summary": "Healthy ageing is not achieved merely by treating disease or extending life expectancy. It is about enabling people to continue living with purpose, dignity, independence, and fulfilment. The post Beyond Nursing Homes: Designing Communities Where People Continue To Live, Learn, And Thrive appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "disease"
-      ]
-    },
-    {
-      "title": "Climate Change Raises Antibiotic Resistance In Common Pathogens",
-      "url": "https://codeblue.galencentre.org/2026/07/climate-change-raises-antibiotic-resistance-in-common-pathogens/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-24T01:47:16",
-      "summary": "Climate change is increasing antibiotic resistance in bacteria like E. coli and Klebsiella, with rising temperatures and dry soil linked to higher resistance, says an expert. Climate pressures may fuel the spread of increasingly drug-resistant Salmonella. The post Climate Change Raises Antibiotic Resistance In Common Pathogens appeared first on CodeBlue .",
-      "keywords_matched": [
-        "drug"
-      ]
     }
   ]
 }
