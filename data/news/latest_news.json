@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-28T00:00:08.471377",
+  "fetched": "2026-07-28T03:26:10.753936",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Only 50 Veterinary Specialists In Malaysia, Experts Seek Local Training Pathway",
+      "url": "https://codeblue.galencentre.org/2026/07/only-50-veterinary-specialists-in-malaysia-experts-seek-local-training-pathway/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-28T02:00:00",
+      "summary": "Malaysia needs more veterinary specialists, not just vet GPs, as only 50 vet specialists serve the country. Experts urge local residency training, specialist recognition in the civil service, and new pathways to strengthen animal health and food security. The post Only 50 Veterinary Specialists In Malaysia, Experts Seek Local Training Pathway appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Hospital Director Transferred To JKN Sabah After Sexual Harassment Cases",
       "url": "https://codeblue.galencentre.org/2026/07/hospital-director-transferred-to-jkn-sabah-after-sexual-harassment-cases/",
@@ -101,34 +111,6 @@
       "summary": "Climate change is increasing antibiotic resistance in bacteria like E. coli and Klebsiella, with rising temperatures and dry soil linked to higher resistance, says an expert. Climate pressures may fuel the spread of increasingly drug-resistant Salmonella. The post Climate Change Raises Antibiotic Resistance In Common Pathogens appeared first on CodeBlue .",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "The International Playbook: What Malaysia Must Get Right In Its Senior Citizens Bill — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/07/the-international-playbook-what-malaysia-must-get-right-in-its-senior-citizens-bill-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-23T07:30:00",
-      "summary": "A society that forces its most vulnerable citizens to depend on family relationships, without providing a robust safety net, is a society that has failed its moral obligations. The post The International Playbook: What Malaysia Must Get Right In Its Senior Citizens Bill — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Muhyiddin’s trial: Company MD says he borrowed RM19.5m to donate to Bersatu at request of ‘Datuk’",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/27/muhyiddins-trial-company-md-says-he-borrowed-rm195m-to-donate-to-bersatu-after-datuk-requested-it/229158",
-      "source": "Malay Mail",
-      "published": "2026-07-27T09:28:39",
-      "summary": "KUALA LUMPUR, July 27 — Construction company Mamfor Sdn Bhd managing director Shahradzi Shamsuddin today said a ma...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Prosecution to call 25 witnesses in former Army chief’s money laundering trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/27/prosecution-to-call-25-witnesses-in-former-army-chiefs-money-laundering-trial/229152",
-      "source": "Malay Mail",
-      "published": "2026-07-27T08:46:13",
-      "summary": "KUALA LUMPUR, July 27 — The prosecution will call 25 witnesses in the trial of former Army chief Tan Sr...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
