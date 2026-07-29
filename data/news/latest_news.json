@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-28T23:56:35.278683",
+  "fetched": "2026-07-29T02:44:28.025240",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Wait Time For Angiogram, PCI Up To A Year In MOH",
+      "url": "https://codeblue.galencentre.org/2026/07/wait-time-for-angiogram-pci-up-to-a-year-in-moh/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-29T02:00:00",
+      "summary": "Dr Dzul says the wait times for angiogram and PCI procedures in MOH range from 2 to 12 months. Wait times for diagnostic/imaging for elective cases range from 2 weeks to 10 months. On average, MRI: 4 months, CT scan: 2.5 months, and mammogram: 2.6 months. The post Wait Time For Angiogram, PCI Up To A Year In MOH appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Bayer Appoints Simon Rosof To Lead Pharmaceuticals Business Across Asia Pacific",
       "url": "https://codeblue.galencentre.org/2026/07/bayer-appoints-simon-rosof-to-lead-pharmaceuticals-business-across-asia-pacific/",
@@ -64,11 +72,11 @@
       ]
     },
     {
-      "title": "Why Malaysia Must End Marriage-Based Citizenship Discrimination",
+      "title": "Why Malaysia Must End Marriage-Based Citizenship Discrimination — Dr Amar-Singh HSS et al.",
       "url": "https://codeblue.galencentre.org/2026/07/why-malaysia-must-end-marriage-based-citizenship-discrimination/",
       "source": "CodeBlue (Health News)",
       "published": "2026-07-27T05:38:39",
-      "summary": "The global direction of nationality law has moved away from punishing children for the circumstances of their birth, and towards recognising proven parentage, genuine connection to the state, and prevention of statelessness as the guiding principles. The post Why Malaysia Must End Marriage-Based Citizenship Discrimination appeared first on CodeBlue .",
+      "summary": "The global direction of nationality law has moved away from punishing children for the circumstances of their birth, and towards recognising proven parentage, genuine connection to the state, and prevention of statelessness as the guiding principles. The post Why Malaysia Must End Marriage-Based Citizenship Discrimination — Dr Amar-Singh HSS et al. appeared first on CodeBlue .",
       "keywords_matched": []
     },
     {
@@ -102,30 +110,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Type 2 Diabetes At 14: Malaysia Must Act Before Prevention Becomes Too Late — Kalivani Poongawanam",
-      "url": "https://codeblue.galencentre.org/2026/07/type-2-diabetes-at-14-malaysia-must-act-before-prevention-becomes-too-late-kalivani-poongawanam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-24T03:51:50",
-      "summary": "When a 14-year-old develops Type 2 diabetes, the disease did not begin at 14. It began years earlier through unhealthy environments and missed opportunities for prevention. The post Type 2 Diabetes At 14: Malaysia Must Act Before Prevention Becomes Too Late — Kalivani Poongawanam appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "disease",
-        "diabetes"
-      ]
-    },
-    {
-      "title": "Malaysia registers 26 rare disease medicines since 2020, says Health Ministry",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/28/malaysia-registers-26-rare-disease-medicines-since-2020-says-health-ministry/229273",
-      "source": "Malay Mail",
-      "published": "2026-07-28T08:58:37",
-      "summary": "KUALA LUMPUR, July 28 — A total of 26 medicines for rare diseases had been registered in Malaysia as of April this...",
-      "keywords_matched": [
-        "health",
-        "medicine",
-        "disease"
       ]
     }
   ]
