@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-29T02:44:28.025240",
+  "fetched": "2026-07-29T05:50:20.605564",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,18 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Take Doctors Out Of The MC Business — Dr Vekneswaraj Arumugam",
+      "url": "https://codeblue.galencentre.org/2026/07/take-doctors-out-of-the-mc-business-dr-vekneswaraj-arumugam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-29T04:00:00",
+      "summary": "Clinical medicine works through history, examination, probability, and professional judgement. It is not an interrogation designed to establish whether an employee deserves an MC. The post Take Doctors Out Of The MC Business — Dr Vekneswaraj Arumugam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "doctor",
+        "clinical"
+      ]
+    },
     {
       "title": "Wait Time For Angiogram, PCI Up To A Year In MOH",
       "url": "https://codeblue.galencentre.org/2026/07/wait-time-for-angiogram-pci-up-to-a-year-in-moh/",
@@ -98,17 +110,6 @@
       "keywords_matched": [
         "hospital",
         "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Hospital Director Accused Of Sexually Harassing Second Victim",
-      "url": "https://codeblue.galencentre.org/2026/07/hospital-director-accused-of-sexually-harassing-second-victim/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-24T10:24:13",
-      "summary": "A Warisan leader has alleged a second sexual harassment victim of the director of a Kota Kinabalu hospital, who filed a complaint in July 2025, before another complainant filed a police report in January 2026 for alleged sexual harassment in October 2025. The post Hospital Director Accused Of Sexually Harassing Second Victim appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
         "hospital"
       ]
     }
