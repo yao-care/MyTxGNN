@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-29T08:37:04.087306",
+  "fetched": "2026-07-29T11:24:22.423829",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "APSMI Calls For Stronger Health Literacy As The Foundation For Responsible Self-Care Across Asia-Pacific",
+      "url": "https://codeblue.galencentre.org/2026/07/apsmi-calls-for-stronger-health-literacy-as-the-foundation-for-responsible-self-care-across-asia-pacific/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-29T09:00:55",
+      "summary": "Self-care is defined as the ability of individuals, families, and communities to promote health, prevent disease, maintain well-being, and manage health conditions, with or without the support of health care professionals. The post APSMI Calls For Stronger Health Literacy As The Foundation For Responsible Self-Care Across Asia-Pacific appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "disease"
+      ]
+    },
     {
       "title": "Malaysians Unknowingly Flushing Medicines Into Water Supply: MPS",
       "url": "https://codeblue.galencentre.org/2026/07/malaysians-unknowingly-flushing-medicines-into-water-supply-mps/",
@@ -103,25 +114,23 @@
       ]
     },
     {
-      "title": "Hospital Director Transferred To JKN Sabah After Sexual Harassment Cases",
-      "url": "https://codeblue.galencentre.org/2026/07/hospital-director-transferred-to-jkn-sabah-after-sexual-harassment-cases/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-27T07:06:49",
-      "summary": "The hospital director accused of sexually harassing at least two women at a public hospital has been transferred to JKNS. He also filed a police report against one of his alleged victims, a doctor, over her complaint at the Anti-Sexual Harassment Tribunal. The post Hospital Director Transferred To JKN Sabah After Sexual Harassment Cases appeared first on CodeBlue .",
+      "title": "Bukit Aman arrests suspended officer alleged to be behind RM21.3m Cheras drug-trafficking ring",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/29/bukit-aman-arrests-suspended-officer-alleged-to-be-behind-rm213m-cheras-drug-trafficking-ring/229468",
+      "source": "Malay Mail",
+      "published": "2026-07-29T11:16:19",
+      "summary": "KUALA LUMPUR, July 29 — Police have crippled a drug trafficking syndicate after seizing 425.3 kilogrammes of metha...",
       "keywords_matched": [
-        "hospital",
-        "doctor",
-        "hospital"
+        "drug"
       ]
     },
     {
-      "title": "Trial: Bersatu finance officer confirms party received donations; finances reported to leadership including Muhyiddin",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/29/trial-bersatu-finance-officer-confirms-party-received-donations-finances-reported-to-leadership-including-muhyiddin/229420",
+      "title": "Bukit Aman busts three drug-laced vape syndicates after students fall ill in Sentul",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/29/bukit-aman-busts-three-drug-laced-vape-syndicates-after-students-fall-ill-in-sentul/229457",
       "source": "Malay Mail",
-      "published": "2026-07-29T07:51:53",
-      "summary": "KUALA LUMPUR, July 29 — Donations that had been given to Parti Pribumi Bersatu Malaysia have to be declared to the...",
+      "published": "2026-07-29T10:16:16",
+      "summary": "KUALA LUMPUR, July 29 — Police have busted three syndicates involved in the distribution of vape liquids containin...",
       "keywords_matched": [
-        "trial"
+        "drug"
       ]
     }
   ]
