@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-29T05:50:20.605564",
+  "fetched": "2026-07-29T08:37:04.087306",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,39 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Malaysians Unknowingly Flushing Medicines Into Water Supply: MPS",
+      "url": "https://codeblue.galencentre.org/2026/07/malaysians-unknowingly-flushing-medicines-into-water-supply-mps/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-29T08:00:00",
+      "summary": "Members of the public are encouraged to return unused, unwanted or expired medicines, as well as eligible used insulin pens, to participating MyMediSAFE collection points instead of disposing of them through household waste or down the drain. The post Malaysians Unknowingly Flushing Medicines Into Water Supply: MPS appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine",
+        "insulin",
+        "insulin"
+      ]
+    },
+    {
+      "title": "FPMPAM Supports Due Process, Fairness, And Respect For All Parties — FPMPAM",
+      "url": "https://codeblue.galencentre.org/2026/07/fpmpam-supports-due-process-fairness-and-respect-for-all-parties/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-29T07:59:16",
+      "summary": "Allegations of sexual harassment, workplace misconduct, or abuse of authority are serious and must be investigated diligently, professionally, and without delay. The post FPMPAM Supports Due Process, Fairness, And Respect For All Parties — FPMPAM appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "NPRA Warns Of Severe Acute Pancreatitis Risk With Diabetes, Weight Loss Drugs",
+      "url": "https://codeblue.galencentre.org/2026/07/npra-warns-of-severe-acute-pancreatitis-risk-with-diabetes-weight-loss-drugs/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-29T05:57:14",
+      "summary": "NPRA warns of severe acute pancreatitis risk with GLP-1 and dual GLP-1/GIP receptor agonists. NPRA has received 504 reports of adverse events suspected to be linked with the diabetes/weight loss drugs, including two of pancreatitis and acute pancreatitis. The post NPRA Warns Of Severe Acute Pancreatitis Risk With Diabetes, Weight Loss Drugs appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug",
+        "diabetes"
+      ]
+    },
     {
       "title": "Take Doctors Out Of The MC Business — Dr Vekneswaraj Arumugam",
       "url": "https://codeblue.galencentre.org/2026/07/take-doctors-out-of-the-mc-business-dr-vekneswaraj-arumugam/",
@@ -84,33 +115,13 @@
       ]
     },
     {
-      "title": "Why Malaysia Must End Marriage-Based Citizenship Discrimination — Dr Amar-Singh HSS et al.",
-      "url": "https://codeblue.galencentre.org/2026/07/why-malaysia-must-end-marriage-based-citizenship-discrimination/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-27T05:38:39",
-      "summary": "The global direction of nationality law has moved away from punishing children for the circumstances of their birth, and towards recognising proven parentage, genuine connection to the state, and prevention of statelessness as the guiding principles. The post Why Malaysia Must End Marriage-Based Citizenship Discrimination — Dr Amar-Singh HSS et al. appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Health Ministry’s Nursing Vacancies Rise, Now Exceed 15,000",
-      "url": "https://codeblue.galencentre.org/2026/07/health-ministrys-nursing-vacancies-rise-now-exceed-15000/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-27T04:04:24",
-      "summary": "Nursing vacancies in MOH rose from 14,792 in Sept 2025 to 15,587 in March 2026, marking an increase of 795 vacancies. MOH also reported 2,901 vacancies for AMOs in March 2026. Senator Lingeshwaran suggests retention bonuses for health care workers. The post Health Ministry’s Nursing Vacancies Rise, Now Exceed 15,000 appeared first on CodeBlue .",
+      "title": "Trial: Bersatu finance officer confirms party received donations; finances reported to leadership including Muhyiddin",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/29/trial-bersatu-finance-officer-confirms-party-received-donations-finances-reported-to-leadership-including-muhyiddin/229420",
+      "source": "Malay Mail",
+      "published": "2026-07-29T07:51:53",
+      "summary": "KUALA LUMPUR, July 29 — Donations that had been given to Parti Pribumi Bersatu Malaysia have to be declared to the...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "MOH Clawing Back Critical Allowance Payments From Sexual Harassment Victim",
-      "url": "https://codeblue.galencentre.org/2026/07/moh-clawing-back-critical-allowance-payments-from-sexual-harassment-victim/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-27T02:00:00",
-      "summary": "MOH is instituting critical allowance repayments from a doctor who took over 3 months' MC after she was allegedly sexually harassed by her hospital director. MOH's MyHelp took 4 months to address her complaint and merely referred it to hospital management. The post MOH Clawing Back Critical Allowance Payments From Sexual Harassment Victim appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "doctor",
-        "hospital"
+        "trial"
       ]
     }
   ]
