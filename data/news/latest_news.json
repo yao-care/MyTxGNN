@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-30T11:05:29.633707",
+  "fetched": "2026-07-30T13:54:43.958891",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -115,6 +115,16 @@
       "keywords_matched": []
     },
     {
+      "title": "Workplace mental health policy draft expected by October, says health minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/30/workplace-mental-health-policy-draft-expected-by-october-says-health-minister/229624",
+      "source": "Malay Mail",
+      "published": "2026-07-30T12:14:46",
+      "summary": "REMBAU, July 30 — The Ministry of Health (MOH) aims to finalise the workplace mental health policy draft by Septem...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Starlink to trial satellite-to-phone internet service in Malaysia, says Fahmi",
       "url": "https://www.malaymail.com/news/malaysia/2026/07/30/starlink-to-trial-satellite-to-phone-internet-service-in-malaysia-says-fahmi/229600",
       "source": "Malay Mail",
@@ -122,16 +132,6 @@
       "summary": "CYBERJAYA, July 30 — Satellite internet provider Starlink plans to conduct a trial of its direct-to-device (D2D),...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Sabah sets aside RM100m for scholarships, targets future healthcare talent",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/30/sabah-sets-aside-rm100m-for-scholarships-targets-future-healthcare-talent/229575",
-      "source": "Malay Mail",
-      "published": "2026-07-30T07:27:32",
-      "summary": "KOTA KINABALU, July 30 — Sabah is setting aside more than RM100 million for state scholarships this year as it exp...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
