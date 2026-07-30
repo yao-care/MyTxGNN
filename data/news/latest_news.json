@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-30T02:09:49.108878",
+  "fetched": "2026-07-30T05:38:38.854771",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,27 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "One Law, Three Communities: Why Malaysia’s Filial Legislation Is An Idea Whose Time Has Come — Dr Alexis Heng Boon Chin",
+      "url": "https://codeblue.galencentre.org/2026/07/one-law-three-communities-why-malaysias-filial-legislation-is-an-idea-whose-time-has-come-dr-alexis-heng-boon-chin/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-30T05:30:00",
+      "summary": "If Malaysia crafts a Senior Citizens Bill that is humane in its exemptions, robust in its enforcement, and generous in its social support, it will have passed a law the nation's moral traditions did not merely tolerate, but demanded. The post One Law, Three Communities: Why Malaysia’s Filial Legislation Is An Idea Whose Time Has Come — Dr Alexis Heng Boon Chin appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Warisan Leader Questions Double Standards In Handling Sexual Harassment Claims In Hospitals",
+      "url": "https://codeblue.galencentre.org/2026/07/warisan-leader-questions-double-standards-in-handling-sexual-harassment-claims-in-hospitals/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-30T03:59:41",
+      "summary": "Warisan's Istefan Koh asks why a Kota Kinabalu hospital director was allowed to work for a year after a sexual harassment complaint, compared to a cardiac hospital in KL that placed an HOD on leave immediately after the first sexual harassment complaint. The post Warisan Leader Questions Double Standards In Handling Sexual Harassment Claims In Hospitals appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Cardiac Hospital HOD Faces Two Sexual Harassment Allegations",
       "url": "https://codeblue.galencentre.org/2026/07/cardiac-hospital-hod-faces-two-sexual-harassment-allegations/",
@@ -94,24 +113,13 @@
       ]
     },
     {
-      "title": "Poultry Experts Want Greater Focus On Prevention, Climate-Ready Infrastructure, Industry Resilience",
-      "url": "https://codeblue.galencentre.org/2026/07/poultry-experts-want-greater-focus-on-prevention-climate-ready-infrastructure-industry-resilience/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-28T06:00:00",
-      "summary": "The strategic question is no longer whether poultry is important to Malaysia's food system. The real question is whether our production systems can remain resilient amid disease threats, climate stress, rising costs and changing market expectations. The post Poultry Experts Want Greater Focus On Prevention, Climate-Ready Infrastructure, Industry Resilience appeared first on CodeBlue .",
+      "title": "Authorities dismiss Bangi escape rumour after four drug rehabilitation inmates rearrested in Perak",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/30/authorities-dismiss-bangi-escape-rumour-after-four-drug-rehabilitation-inmates-rearrested-in-perak/229528",
+      "source": "Malay Mail",
+      "published": "2026-07-30T03:55:17",
+      "summary": "KUALA LUMPUR, July 30 — The National Anti-Drugs Agency (AADK) has confirmed that four inmates from the Perlop Narc...",
       "keywords_matched": [
-        "disease"
-      ]
-    },
-    {
-      "title": "Sarawak Short Of About 1,200 Doctors, 1,200 Nurses",
-      "url": "https://codeblue.galencentre.org/2026/07/sarawak-short-of-about-1200-doctors-1200-nurses/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-28T03:56:16",
-      "summary": "Sarawak is facing a large shortage of doctors and nurses, with over 930 vacancies for medical officers, over 260 for specialist doctors, and over 1,200 for nurses as of June 30. Vacancy rates in the state are 30% (MO), 28% (specialist), and 15% (nurse). The post Sarawak Short Of About 1,200 Doctors, 1,200 Nurses appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor"
+        "drug"
       ]
     }
   ]
