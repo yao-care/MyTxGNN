@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-30T05:38:38.854771",
+  "fetched": "2026-07-30T08:22:33.203833",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,19 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Should Government Hospitals And Ambulance Services Be Used For Private Events? — Dr Sarah Shaikh Abdul Karim",
+      "url": "https://codeblue.galencentre.org/2026/07/should-government-hospitals-and-ambulance-services-be-used-for-private-events-dr-sarah-shaikh-abdul-karim/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-30T07:31:34",
+      "summary": "Enforcing MOH's circular which restricts public medical coverage will safeguard public emergency readiness and protect health care staff from burnout. The post Should Government Hospitals And Ambulance Services Be Used For Private Events? — Dr Sarah Shaikh Abdul Karim appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "One Law, Three Communities: Why Malaysia’s Filial Legislation Is An Idea Whose Time Has Come — Dr Alexis Heng Boon Chin",
       "url": "https://codeblue.galencentre.org/2026/07/one-law-three-communities-why-malaysias-filial-legislation-is-an-idea-whose-time-has-come-dr-alexis-heng-boon-chin/",
@@ -102,24 +115,13 @@
       "keywords_matched": []
     },
     {
-      "title": "Bayer Appoints Simon Rosof To Lead Pharmaceuticals Business Across Asia Pacific",
-      "url": "https://codeblue.galencentre.org/2026/07/bayer-appoints-simon-rosof-to-lead-pharmaceuticals-business-across-asia-pacific/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-28T07:30:00",
-      "summary": "Rosof's appointment underscores Bayer's commitment to accelerating the delivery of innovative medicines and strengthening talent development across Asia Pacific. The post Bayer Appoints Simon Rosof To Lead Pharmaceuticals Business Across Asia Pacific appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medicine",
-        "pharmaceutical"
-      ]
-    },
-    {
-      "title": "Authorities dismiss Bangi escape rumour after four drug rehabilitation inmates rearrested in Perak",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/30/authorities-dismiss-bangi-escape-rumour-after-four-drug-rehabilitation-inmates-rearrested-in-perak/229528",
+      "title": "Sabah sets aside RM100m for scholarships, targets future healthcare talent",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/30/sabah-sets-aside-rm100m-for-scholarships-targets-future-healthcare-talent/229575",
       "source": "Malay Mail",
-      "published": "2026-07-30T03:55:17",
-      "summary": "KUALA LUMPUR, July 30 — The National Anti-Drugs Agency (AADK) has confirmed that four inmates from the Perlop Narc...",
+      "published": "2026-07-30T07:27:32",
+      "summary": "KOTA KINABALU, July 30 — Sabah is setting aside more than RM100 million for state scholarships this year as it exp...",
       "keywords_matched": [
-        "drug"
+        "health"
       ]
     }
   ]
