@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-31T09:42:21.839792",
+  "fetched": "2026-07-31T11:57:33.447742",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Registered Autistic OKUs Rise 24% To Over 93,000 In Malaysia",
@@ -113,6 +113,16 @@
       "keywords_matched": [
         "health",
         "disease"
+      ]
+    },
+    {
+      "title": "CAAM to probe circumstances of Malaysian pilot’s detention in Indonesia over alleged drug smuggling attempt",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/31/caam-to-probe-circumstances-of-malaysian-pilots-detention-in-indonesia-over-alleged-drug-smuggling-attempt/229779",
+      "source": "Malay Mail",
+      "published": "2026-07-31T11:22:09",
+      "summary": "KUALA LUMPUR, July 31 — The Civil Aviation Authority of Malaysia (CAAM) is investigating the reported detention of...",
+      "keywords_matched": [
+        "drug"
       ]
     },
     {
