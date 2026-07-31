@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-31T06:10:48.128024",
+  "fetched": "2026-07-31T09:42:21.839792",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Registered Autistic OKUs Rise 24% To Over 93,000 In Malaysia",
+      "url": "https://codeblue.galencentre.org/2026/07/registered-autistic-okus-rise-24-to-over-93000-in-malaysia/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-31T09:11:17",
+      "summary": "The number of OKUs with autism registered with JKM rose 23.5% to 93,199 people in June 2026 from 75,457 registered in June 2025. Senator Lingeshwaran wants fast-track warrants for speech therapy officers, occupational therapists, and audiology officers. The post Registered Autistic OKUs Rise 24% To Over 93,000 In Malaysia appeared first on CodeBlue .",
+      "keywords_matched": [
+        "therapy"
+      ]
+    },
     {
       "title": "JPA Approves Over 13,000 New Positions For Health Workers",
       "url": "https://codeblue.galencentre.org/2026/07/jpa-approves-over-13000-new-positions-for-health-workers/",
@@ -106,35 +116,13 @@
       ]
     },
     {
-      "title": "Malaysians Unknowingly Flushing Medicines Into Water Supply: MPS",
-      "url": "https://codeblue.galencentre.org/2026/07/malaysians-unknowingly-flushing-medicines-into-water-supply-mps/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-29T08:00:00",
-      "summary": "Members of the public are encouraged to return unused, unwanted or expired medicines, as well as eligible used insulin pens, to participating MyMediSAFE collection points instead of disposing of them through household waste or down the drain. The post Malaysians Unknowingly Flushing Medicines Into Water Supply: MPS appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medicine",
-        "insulin",
-        "insulin"
-      ]
-    },
-    {
-      "title": "Malaysia Airlines reserves comment, pledges full cooperation with Indonesian authorities on pilot’s alleged drug case",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/31/malaysia-airlines-reserves-comment-pledges-full-cooperation-with-indonesian-authorities-on-pilots-alleged-drug-case/229701",
+      "title": "Malaysian Embassy seeks consular access to pilot arrested over 25kg Jakarta drug haul",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/31/malaysian-embassy-seeks-consular-access-to-pilot-arrested-over-25kg-jakarta-drug-haul/229754",
       "source": "Malay Mail",
-      "published": "2026-07-31T05:42:24",
-      "summary": "KUALA LUMPUR, July 31 — Malaysia Airlines reserves its comment on its pilot being caught for a narcotics-related o...",
+      "published": "2026-07-31T09:01:22",
+      "summary": "JAKARTA, July 31 — The Malaysian Embassy in Jakarta is seeking consular access to a Malaysian pilot detained in In...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "King to undergo follow-up treatment for back, hip pain",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/31/king-to-undergo-follow-up-treatment-for-back-hip-pain/229666",
-      "source": "Malay Mail",
-      "published": "2026-07-31T02:18:31",
-      "summary": "KUALA LUMPUR, July 31 — His Majesty Sultan Ibrahim, King of Malaysia, will undergo follow-up treatment for musculo...",
-      "keywords_matched": [
-        "treatment"
       ]
     }
   ]
