@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-31T02:37:42.674803",
+  "fetched": "2026-07-31T06:10:48.128024",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,17 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "JPA Approves Over 13,000 New Positions For Health Workers",
+      "url": "https://codeblue.galencentre.org/2026/07/jpa-approves-over-13000-new-positions-for-health-workers/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-07-31T03:47:19",
+      "summary": "JPA approved 13,343 new positions without trade-offs for MOH, including 1,197 for medical officers and 3,471 for nurses. Amid 15,587 existing nursing vacancies, MOH must hire over 19,000 nurses, likely to take eight years by 2034, assuming no one quits. The post JPA Approves Over 13,000 New Positions For Health Workers appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
     {
       "title": "Is Insurance Clawback Legal In Malaysia? — Specialist",
       "url": "https://codeblue.galencentre.org/2026/07/is-insurance-clawback-legal-in-malaysia-specialist/",
@@ -107,12 +118,14 @@
       ]
     },
     {
-      "title": "FPMPAM Supports Due Process, Fairness, And Respect For All Parties — FPMPAM",
-      "url": "https://codeblue.galencentre.org/2026/07/fpmpam-supports-due-process-fairness-and-respect-for-all-parties/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-29T07:59:16",
-      "summary": "Allegations of sexual harassment, workplace misconduct, or abuse of authority are serious and must be investigated diligently, professionally, and without delay. The post FPMPAM Supports Due Process, Fairness, And Respect For All Parties — FPMPAM appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Malaysia Airlines reserves comment, pledges full cooperation with Indonesian authorities on pilot’s alleged drug case",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/31/malaysia-airlines-reserves-comment-pledges-full-cooperation-with-indonesian-authorities-on-pilots-alleged-drug-case/229701",
+      "source": "Malay Mail",
+      "published": "2026-07-31T05:42:24",
+      "summary": "KUALA LUMPUR, July 31 — Malaysia Airlines reserves its comment on its pilot being caught for a narcotics-related o...",
+      "keywords_matched": [
+        "drug"
+      ]
     },
     {
       "title": "King to undergo follow-up treatment for back, hip pain",
@@ -122,16 +135,6 @@
       "summary": "KUALA LUMPUR, July 31 — His Majesty Sultan Ibrahim, King of Malaysia, will undergo follow-up treatment for musculo...",
       "keywords_matched": [
         "treatment"
-      ]
-    },
-    {
-      "title": "Workplace mental health policy draft expected by October, says health minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/07/30/workplace-mental-health-policy-draft-expected-by-october-says-health-minister/229624",
-      "source": "Malay Mail",
-      "published": "2026-07-30T12:14:46",
-      "summary": "REMBAU, July 30 — The Ministry of Health (MOH) aims to finalise the workplace mental health policy draft by Septem...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
