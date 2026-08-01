@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-01T13:16:59.210082",
+  "fetched": "2026-08-01T14:58:21.267585",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Registered Autistic OKUs Rise 24% To Over 93,000 In Malaysia",
@@ -113,16 +113,6 @@
       "keywords_matched": [
         "health",
         "disease"
-      ]
-    },
-    {
-      "title": "Bukit Aman awaits Indonesian details after Malaysian pilot arrested with drugs at Jakarta airport",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/01/bukit-aman-awaits-indonesian-details-after-malaysian-pilot-arrested-with-drugs-at-jakarta-airport/229854",
-      "source": "Malay Mail",
-      "published": "2026-08-01T06:54:51",
-      "summary": "KUALA LUMPUR, Aug 1 — Bukit Aman will cooperate with Indonesian authorities following the arrest of a Malaysian pi...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
