@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-01T09:04:37.506006",
+  "fetched": "2026-08-01T11:14:49.903127",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Registered Autistic OKUs Rise 24% To Over 93,000 In Malaysia",
@@ -123,17 +123,6 @@
       "summary": "KUALA LUMPUR, Aug 1 — Bukit Aman will cooperate with Indonesian authorities following the arrest of a Malaysian pi...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "HKL refutes viral video claims of filthy toilets",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/01/hkl-refutes-viral-video-claims-of-filthy-toilets/229829",
-      "source": "Malay Mail",
-      "published": "2026-08-01T03:03:35",
-      "summary": "KUALA LUMPUR, Aug 1 — Hospital Kuala Lumpur (HKL) has denied claims that its public toilets are dirty and poorly m...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
