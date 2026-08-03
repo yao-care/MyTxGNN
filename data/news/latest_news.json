@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-03T02:55:44.695857",
+  "fetched": "2026-08-03T06:22:21.354290",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "MOH: 54% Of Housemanship Slots Nationwide Filled After Three Intakes",
+      "url": "https://codeblue.galencentre.org/2026/08/moh-54-of-housemanship-slots-nationwide-filled-after-three-intakes/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-03T03:30:00",
+      "summary": "MOH says over half, or 6,580, of 12,198 housemanship training slots nationwide were filled after the first three recruitment rounds in 2026. The ministry says current training capacity remains sufficient for the remaining three intake exercises. The post MOH: 54% Of Housemanship Slots Nationwide Filled After Three Intakes appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Academic Moots Unique Retention, Retirement Benefits For Health Workers",
       "url": "https://codeblue.galencentre.org/2026/08/academic-moots-unique-retention-retirement-benefits-for-health-workers/",
@@ -104,34 +112,23 @@
       ]
     },
     {
-      "title": "Cardiac Hospital HOD Faces Two Sexual Harassment Allegations",
-      "url": "https://codeblue.galencentre.org/2026/07/cardiac-hospital-hod-faces-two-sexual-harassment-allegations/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-30T02:00:00",
-      "summary": "An HOD at a cardiac centre in KL has been accused of sexual harassment by at least two women – a cardiothoracic surgery trainee and a nurse – who lodged reports last May. KL police have probed the cases and referred them to Bukit Aman’s legal division. The post Cardiac Hospital HOD Faces Two Sexual Harassment Allegations appeared first on CodeBlue .",
+      "title": "Terengganu police deny preferential treatment for RXZ Members 8.0, citing six arrests and 1,850 summonses",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/terengganu-police-deny-preferential-treatment-for-rxz-members-80-citing-six-arrests-and-1850-summonses/230070",
+      "source": "Malay Mail",
+      "published": "2026-08-03T06:10:55",
+      "summary": "KUALA LUMPUR, Aug 3 — Terengganu police have denied giving preferential treatment to the organisers or participant...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
+        "treatment"
       ]
     },
     {
-      "title": "Selangor DOSH shuts unregistered Kuala Langat site after crane collapse kills two workers",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/selangor-dosh-shuts-unregistered-kuala-langat-site-after-crane-collapse-kills-two-workers/230029",
+      "title": "Technician pleads not guilty to reckless driving over Pahang crash that killed doctor, his two-year-old daughter and another motorist",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/technician-pleads-not-guilty-to-reckless-driving-over-crash-that-killed-doctor-his-two-year-old-daughter-and-another-motorist-in-pahang/230044",
       "source": "Malay Mail",
-      "published": "2026-08-03T01:44:34",
-      "summary": "KUALA LUMPUR, Aug 3 — The Selangor Department of Occupational Safety and Health (DOSH) has halted work at an unreg...",
+      "published": "2026-08-03T02:56:14",
+      "summary": "KUALA LUMPUR, Aug 3 — A technician has pleaded not guilty to reckless driving over a crash that killed a doctor, h...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Police seek KLIA CCTV in probe into Malaysia Airlines pilot accused of smuggling RM45m in ecstasy to Jakarta",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/police-seek-klia-cctv-in-probe-into-malaysia-airlines-pilot-accused-of-smuggling-rm45m-in-ecstasy-to-jakarta/230018",
-      "source": "Malay Mail",
-      "published": "2026-08-03T01:01:56",
-      "summary": "KUALA LUMPUR, Aug 3 — Malaysian police are investigating whether a drug syndicate used flight crews and air routes...",
-      "keywords_matched": [
-        "drug"
+        "doctor"
       ]
     }
   ]
