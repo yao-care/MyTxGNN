@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-02T23:56:33.814556",
+  "fetched": "2026-08-03T02:55:44.695857",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Academic Moots Unique Retention, Retirement Benefits For Health Workers",
+      "url": "https://codeblue.galencentre.org/2026/08/academic-moots-unique-retention-retirement-benefits-for-health-workers/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-03T02:00:00",
+      "summary": "Prof Arshil suggests retention and retirement benefits specifically for health workers, like an EPF-plus model with dedicated retention allowances, post-retirement health coverage guarantees, and specialised hazard/longevity benefits. Attrition is costly. The post Academic Moots Unique Retention, Retirement Benefits For Health Workers appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Registered Autistic OKUs Rise 24% To Over 93,000 In Malaysia",
       "url": "https://codeblue.galencentre.org/2026/07/registered-autistic-okus-rise-24-to-over-93000-in-malaysia/",
@@ -105,14 +115,23 @@
       ]
     },
     {
-      "title": "APSMI Calls For Stronger Health Literacy As The Foundation For Responsible Self-Care Across Asia-Pacific",
-      "url": "https://codeblue.galencentre.org/2026/07/apsmi-calls-for-stronger-health-literacy-as-the-foundation-for-responsible-self-care-across-asia-pacific/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-29T09:00:55",
-      "summary": "Self-care is defined as the ability of individuals, families, and communities to promote health, prevent disease, maintain well-being, and manage health conditions, with or without the support of health care professionals. The post APSMI Calls For Stronger Health Literacy As The Foundation For Responsible Self-Care Across Asia-Pacific appeared first on CodeBlue .",
+      "title": "Selangor DOSH shuts unregistered Kuala Langat site after crane collapse kills two workers",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/selangor-dosh-shuts-unregistered-kuala-langat-site-after-crane-collapse-kills-two-workers/230029",
+      "source": "Malay Mail",
+      "published": "2026-08-03T01:44:34",
+      "summary": "KUALA LUMPUR, Aug 3 — The Selangor Department of Occupational Safety and Health (DOSH) has halted work at an unreg...",
       "keywords_matched": [
-        "health",
-        "disease"
+        "health"
+      ]
+    },
+    {
+      "title": "Police seek KLIA CCTV in probe into Malaysia Airlines pilot accused of smuggling RM45m in ecstasy to Jakarta",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/police-seek-klia-cctv-in-probe-into-malaysia-airlines-pilot-accused-of-smuggling-rm45m-in-ecstasy-to-jakarta/230018",
+      "source": "Malay Mail",
+      "published": "2026-08-03T01:01:56",
+      "summary": "KUALA LUMPUR, Aug 3 — Malaysian police are investigating whether a drug syndicate used flight crews and air routes...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
