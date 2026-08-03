@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-03T06:22:21.354290",
+  "fetched": "2026-08-03T10:40:52.327109",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,24 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "Work-Life Balance At Risk: When Connectivity Becomes Intrusion — Harjit Kaur",
+      "url": "https://codeblue.galencentre.org/2026/08/work-life-balance-at-risk-when-connectivity-becomes-intrusion-harjit-kaur/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-03T07:46:31",
+      "summary": "By recognising the subtle dangers of digital overload and formalising clear communication boundaries, organisations can build healthier, more sustainable workplaces. The post Work-Life Balance At Risk: When Connectivity Becomes Intrusion — Harjit Kaur appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Nearly Half Of Malaysia’s Farmers Are Aged 60 And Above",
+      "url": "https://codeblue.galencentre.org/2026/08/nearly-half-of-malaysias-farmers-are-aged-60-and-above/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-03T06:54:39",
+      "summary": "Nearly half of Malaysia’s agricultural producers are aged 60 and above, while almost 78% are aged 46 and above. KPKM says employability at its training institutes rose to 81.2% in 2024 from 78.1% in 2023 and aims to raise it to 85% by 2030. The post Nearly Half Of Malaysia’s Farmers Are Aged 60 And Above appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "MOH: 54% Of Housemanship Slots Nationwide Filled After Three Intakes",
       "url": "https://codeblue.galencentre.org/2026/08/moh-54-of-housemanship-slots-nationwide-filled-after-three-intakes/",
@@ -93,42 +111,23 @@
       ]
     },
     {
-      "title": "One Law, Three Communities: Why Malaysia’s Filial Legislation Is An Idea Whose Time Has Come — Dr Alexis Heng Boon Chin",
-      "url": "https://codeblue.galencentre.org/2026/07/one-law-three-communities-why-malaysias-filial-legislation-is-an-idea-whose-time-has-come-dr-alexis-heng-boon-chin/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-30T05:30:00",
-      "summary": "If Malaysia crafts a Senior Citizens Bill that is humane in its exemptions, robust in its enforcement, and generous in its social support, it will have passed a law the nation's moral traditions did not merely tolerate, but demanded. The post One Law, Three Communities: Why Malaysia’s Filial Legislation Is An Idea Whose Time Has Come — Dr Alexis Heng Boon Chin appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Warisan Leader Questions Double Standards In Handling Sexual Harassment Claims In Hospitals",
-      "url": "https://codeblue.galencentre.org/2026/07/warisan-leader-questions-double-standards-in-handling-sexual-harassment-claims-in-hospitals/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-30T03:59:41",
-      "summary": "Warisan's Istefan Koh asks why a Kota Kinabalu hospital director was allowed to work for a year after a sexual harassment complaint, compared to a cardiac hospital in KL that placed an HOD on leave immediately after the first sexual harassment complaint. The post Warisan Leader Questions Double Standards In Handling Sexual Harassment Claims In Hospitals appeared first on CodeBlue .",
+      "title": "Malaysia Airlines pilot’s baggage raised no alarm at KLIA before drug arrest in Jakarta, border agency chief says",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/malaysia-airlines-pilots-baggage-raised-no-alarm-at-klia-before-drug-arrest-in-jakarta-border-agency-chief-says/230113",
+      "source": "Malay Mail",
+      "published": "2026-08-03T09:30:45",
+      "summary": "KUALA LUMPUR, Aug 3 — Malaysian authorities are examining how a pilot arrested with drugs at an Indonesian airport...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
+        "drug"
       ]
     },
     {
-      "title": "Terengganu police deny preferential treatment for RXZ Members 8.0, citing six arrests and 1,850 summonses",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/terengganu-police-deny-preferential-treatment-for-rxz-members-80-citing-six-arrests-and-1850-summonses/230070",
+      "title": "MAHB pledges full support, vows tighter airport security after pilot’s Indonesia drug arrest",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/mahb-pledges-full-support-vows-tighter-airport-security-after-pilots-indonesia-drug-arrest/230100",
       "source": "Malay Mail",
-      "published": "2026-08-03T06:10:55",
-      "summary": "KUALA LUMPUR, Aug 3 — Terengganu police have denied giving preferential treatment to the organisers or participant...",
+      "published": "2026-08-03T08:37:47",
+      "summary": "PUTRAJAYA, Aug 3 — Malaysia Airports Holdings Bhd (MAHB) today reaffirmed its commitment to supporting multi-agenc...",
       "keywords_matched": [
-        "treatment"
-      ]
-    },
-    {
-      "title": "Technician pleads not guilty to reckless driving over Pahang crash that killed doctor, his two-year-old daughter and another motorist",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/technician-pleads-not-guilty-to-reckless-driving-over-crash-that-killed-doctor-his-two-year-old-daughter-and-another-motorist-in-pahang/230044",
-      "source": "Malay Mail",
-      "published": "2026-08-03T02:56:14",
-      "summary": "KUALA LUMPUR, Aug 3 — A technician has pleaded not guilty to reckless driving over a crash that killed a doctor, h...",
-      "keywords_matched": [
-        "doctor"
+        "drug"
       ]
     }
   ]
