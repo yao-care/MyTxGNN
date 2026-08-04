@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-04T21:10:43.246504",
+  "fetched": "2026-08-04T23:01:11.689263",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "AI Can Cut Blanket Antibiotic Use In Livestock Farms: Expert",
@@ -105,6 +105,17 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-07-31T03:47:19",
       "summary": "JPA approved 13,343 new positions without trade-offs for MOH, including 1,197 for medical officers and 3,471 for nurses. Amid 15,587 existing nursing vacancies, MOH must hire over 19,000 nurses, likely to take eight years by 2034, assuming no one quits. The post JPA Approves Over 13,000 New Positions For Health Workers appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
+    {
+      "title": "MediAsas explained: The RM65 health insurance lifeline coming to Malaysia in 2027",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/05/mediasas-explained-the-rm65-health-insurance-lifeline-coming-to-malaysia-in-2027/230089",
+      "source": "Malay Mail",
+      "published": "2026-08-04T23:00:00",
+      "summary": "KUALA LUMPUR, Aug 5 — Malaysians facing the burden of rising medical insurance premiums will soon have a more affo...",
       "keywords_matched": [
         "health",
         "medical"
