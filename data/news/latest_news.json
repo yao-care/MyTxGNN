@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-04T04:11:28.681855",
+  "fetched": "2026-08-04T07:36:56.892687",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,31 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "AI Can Cut Blanket Antibiotic Use In Livestock Farms: Expert",
+      "url": "https://codeblue.galencentre.org/2026/08/ai-can-cut-blanket-antibiotic-use-in-livestock-farms-expert/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-04T07:30:00",
+      "summary": "UPM's Prof Goh Yong Meng says AI can help livestock farmers reduce antibiotic use, thus curbing antimicrobial resistance, by detecting sick animals through movement, sound, and biometric data, allowing targeted treatment instead of medicating entire herds. The post AI Can Cut Blanket Antibiotic Use In Livestock Farms: Expert appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment"
+      ]
+    },
+    {
+      "title": "Doctors, Nurses Demand Safe Workplaces After Sexual Harassment Complaints",
+      "url": "https://codeblue.galencentre.org/2026/08/doctors-nurses-demand-safe-workplaces-after-sexual-harassment-complaints/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-04T05:45:00",
+      "summary": "MMA and MNU want fair and prompt probes into sexual harassment complaints. The doctors' group and nurses' union demand a safe workplace for health workers, following sexual harassment claims against a KL hospital HOD and a Kota Kinabalu hospital director. The post Doctors, Nurses Demand Safe Workplaces After Sexual Harassment Complaints appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "Authorities Reportedly Visiting Clinics Despite Court’s Suspension Of Price Display Enforcement: PMPASKL",
       "url": "https://codeblue.galencentre.org/2026/08/authorities-reportedly-visiting-clinics-despite-courts-suspension-of-price-display-enforcement-pmpaskl/",
@@ -88,30 +111,21 @@
       ]
     },
     {
-      "title": "Is Insurance Clawback Legal In Malaysia? — Specialist",
-      "url": "https://codeblue.galencentre.org/2026/07/is-insurance-clawback-legal-in-malaysia-specialist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-31T01:58:57",
-      "summary": "An insurer is clawing back payments from private specialists over admissions that occurred over two years ago, supposedly because the wrong procedure codes were used. Why weren't queries raised at the time hospital bills were issued? Are clawbacks legal? The post Is Insurance Clawback Legal In Malaysia? — Specialist appeared first on CodeBlue .",
+      "title": "Drug seizures at KLIA jump nearly six-fold as syndicates target airport",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/04/drug-seizures-at-klia-jump-nearly-six-fold-as-syndicates-target-airport/230181",
+      "source": "Malay Mail",
+      "published": "2026-08-04T06:09:13",
+      "summary": "SHAH ALAM, Aug 4 — Federal narcotics police said today that drug syndicates may be favouring Kuala Lumpur In...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
+        "drug"
       ]
     },
     {
-      "title": "Promise And Pitfalls Of SWE Pathway — Pioneer SWE Cohort Member",
-      "url": "https://codeblue.galencentre.org/2026/07/promise-and-pitfalls-of-swe-pathway-pioneer-swe-cohort-member/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-31T01:57:44",
-      "summary": "Under SWE, we receive specialist allowance earlier, but seemingly at the expense of equitable on-call remuneration. Despite the pioneer cohort nearing completion of its first year under SWE, there's no clear guidance on subspecialty training eligibility. The post Promise And Pitfalls Of SWE Pathway — Pioneer SWE Cohort Member appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Malaysia Airlines pilot’s baggage raised no alarm at KLIA before drug arrest in Jakarta, border agency chief says",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/malaysia-airlines-pilots-baggage-raised-no-alarm-at-klia-before-drug-arrest-in-jakarta-border-agency-chief-says/230113",
+      "title": "How did a Malaysia Airlines pilot’s drug-filled baggage clear KLIA? Police identify person of interest",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/04/how-did-a-malaysia-airlines-pilots-drug-filled-baggage-clear-klia-police-identify-person-of-interest/230172",
       "source": "Malay Mail",
-      "published": "2026-08-03T09:30:45",
-      "summary": "KUALA LUMPUR, Aug 3 — Malaysian authorities are examining how a pilot arrested with drugs at an Indonesian airport...",
+      "published": "2026-08-04T04:49:02",
+      "summary": "SHAH ALAM, Aug 4 — Federal police said today they have identified a person of interest in their investigation into...",
       "keywords_matched": [
         "drug"
       ]
