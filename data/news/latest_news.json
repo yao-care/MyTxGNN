@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-04T07:36:56.892687",
+  "fetched": "2026-08-04T10:35:58.282735",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "AI Can Cut Blanket Antibiotic Use In Livestock Farms: Expert",
@@ -108,6 +108,16 @@
       "keywords_matched": [
         "health",
         "medical"
+      ]
+    },
+    {
+      "title": "Health reforms must be guided by evidence-based data, says Dzulkefly",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/04/health-reforms-must-be-guided-by-evidence-based-data-says-dzulkefly/230204",
+      "source": "Malay Mail",
+      "published": "2026-08-04T07:58:15",
+      "summary": "KUALA LUMPUR, Aug 4 — The implementation of health reforms must be guided by accurate, evidence-based d...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
