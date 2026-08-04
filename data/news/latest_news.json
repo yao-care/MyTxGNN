@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-04T00:07:05.612380",
+  "fetched": "2026-08-04T04:11:28.681855",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Authorities Reportedly Visiting Clinics Despite Court’s Suspension Of Price Display Enforcement: PMPASKL",
+      "url": "https://codeblue.galencentre.org/2026/08/authorities-reportedly-visiting-clinics-despite-courts-suspension-of-price-display-enforcement-pmpaskl/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-04T03:45:16",
+      "summary": "PMPASKL highlights reported visits from the authorities to GP clinics related to drug price display, despite a High Court stay order on its enforcement. If a summons is issued, which may be contempt of court, PMPASKL reserves its legal rights. The post Authorities Reportedly Visiting Clinics Despite Court’s Suspension Of Price Display Enforcement: PMPASKL appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Sexual Harassment Under-Reported In Malaysia’s Medical Profession: Doctors",
+      "url": "https://codeblue.galencentre.org/2026/08/sexual-harassment-under-reported-in-malaysias-medical-profession-doctors/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-04T02:00:00",
+      "summary": "Senior doctors say sexual harassment is under-reported in Malaysia's medical profession and that senior consultants are especially powerful in the public sector. Two doctors have personally witnessed or received requests for help over sexual harassment. The post Sexual Harassment Under-Reported In Malaysia’s Medical Profession: Doctors appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "Work-Life Balance At Risk: When Connectivity Becomes Intrusion — Harjit Kaur",
       "url": "https://codeblue.galencentre.org/2026/08/work-life-balance-at-risk-when-connectivity-becomes-intrusion-harjit-kaur/",
@@ -86,46 +107,11 @@
       "keywords_matched": []
     },
     {
-      "title": "Health Workers Tout Salary Increments, Career Progression, Work Environment Over Proposed MOH Pension",
-      "url": "https://codeblue.galencentre.org/2026/07/health-workers-tout-salary-increments-career-progression-work-environment-over-proposed-moh-pension/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-31T01:56:30",
-      "summary": "Doctors, nurses, pharmacists, medical assistants and public health assistants say a pension isn't the sole health worker retention tool, responding to CodeBlue's proposal for an MOH pension. They stress salary hikes, career progression, smaller workloads. The post Health Workers Tout Salary Increments, Career Progression, Work Environment Over Proposed MOH Pension appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Should Government Hospitals And Ambulance Services Be Used For Private Events? — Dr Sarah Shaikh Abdul Karim",
-      "url": "https://codeblue.galencentre.org/2026/07/should-government-hospitals-and-ambulance-services-be-used-for-private-events-dr-sarah-shaikh-abdul-karim/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-30T07:31:34",
-      "summary": "Enforcing MOH's circular, which restricts public medical coverage, will safeguard public emergency readiness and protect health care staff from burnout. The post Should Government Hospitals And Ambulance Services Be Used For Private Events? — Dr Sarah Shaikh Abdul Karim appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
       "title": "Malaysia Airlines pilot’s baggage raised no alarm at KLIA before drug arrest in Jakarta, border agency chief says",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/03/malaysia-airlines-pilots-baggage-raised-no-alarm-at-klia-before-drug-arrest-in-jakarta-border-agency-chief-says/230113",
       "source": "Malay Mail",
       "published": "2026-08-03T09:30:45",
       "summary": "KUALA LUMPUR, Aug 3 — Malaysian authorities are examining how a pilot arrested with drugs at an Indonesian airport...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "MAHB pledges full support, vows tighter airport security after pilot’s Indonesia drug arrest",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/03/mahb-pledges-full-support-vows-tighter-airport-security-after-pilots-indonesia-drug-arrest/230100",
-      "source": "Malay Mail",
-      "published": "2026-08-03T08:37:47",
-      "summary": "PUTRAJAYA, Aug 3 — Malaysia Airports Holdings Bhd (MAHB) today reaffirmed its commitment to supporting multi-agenc...",
       "keywords_matched": [
         "drug"
       ]
