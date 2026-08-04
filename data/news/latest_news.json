@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-04T10:35:58.282735",
+  "fetched": "2026-08-04T13:00:13.379221",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "AI Can Cut Blanket Antibiotic Use In Livestock Farms: Expert",
@@ -111,6 +111,16 @@
       ]
     },
     {
+      "title": "Second Malaysian in a week arrested for drug smuggling in Indonesia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/04/second-malaysian-in-a-week-arrested-for-drug-smuggling-in-indonesia/230225",
+      "source": "Malay Mail",
+      "published": "2026-08-04T10:31:39",
+      "summary": "JAKARTA, Aug 4 — Another Malaysian has been arrested in Indonesia within days for allegedly attempting to smuggle...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "Health reforms must be guided by evidence-based data, says Dzulkefly",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/04/health-reforms-must-be-guided-by-evidence-based-data-says-dzulkefly/230204",
       "source": "Malay Mail",
@@ -118,26 +128,6 @@
       "summary": "KUALA LUMPUR, Aug 4 — The implementation of health reforms must be guided by accurate, evidence-based d...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Drug seizures at KLIA jump nearly six-fold as syndicates target airport",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/04/drug-seizures-at-klia-jump-nearly-six-fold-as-syndicates-target-airport/230181",
-      "source": "Malay Mail",
-      "published": "2026-08-04T06:09:13",
-      "summary": "SHAH ALAM, Aug 4 — Federal narcotics police said today that drug syndicates may be favouring Kuala Lumpur In...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "How did a Malaysia Airlines pilot’s drug-filled baggage clear KLIA? Police identify person of interest",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/04/how-did-a-malaysia-airlines-pilots-drug-filled-baggage-clear-klia-police-identify-person-of-interest/230172",
-      "source": "Malay Mail",
-      "published": "2026-08-04T04:49:02",
-      "summary": "SHAH ALAM, Aug 4 — Federal police said today they have identified a person of interest in their investigation into...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
