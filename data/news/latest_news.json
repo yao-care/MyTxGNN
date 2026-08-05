@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-05T05:44:33.287462",
+  "fetched": "2026-08-05T08:32:13.113015",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "When Every Hospital Becomes The Same Hospital — Dr Ng Kuo Chern",
+      "url": "https://codeblue.galencentre.org/2026/08/when-every-hospital-becomes-the-same-hospital-dr-ng-kuo-chern/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-05T06:00:00",
+      "summary": "Commoditisation means that care provided is reduced to the lowest reimbursable denominator: the cheapest medications and implants, and the lowest prices. It is here that we need to exercise caution on the conversation around health care affordability. The post When Every Hospital Becomes The Same Hospital — Dr Ng Kuo Chern appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "High Costs Stall Malaysia’s Shift To Closed-House Poultry Farming",
       "url": "https://codeblue.galencentre.org/2026/08/high-costs-stall-malaysias-shift-to-closed-house-poultry-farming/",
@@ -99,11 +111,21 @@
       "keywords_matched": []
     },
     {
-      "title": "Academic Moots Unique Retention, Retirement Benefits For Health Workers",
-      "url": "https://codeblue.galencentre.org/2026/08/academic-moots-unique-retention-retirement-benefits-for-health-workers/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-03T02:00:00",
-      "summary": "Prof Arshil suggests retention and retirement benefits specifically for health workers, like an EPF-plus model with dedicated retention allowances, post-retirement health coverage guarantees, and specialised hazard/longevity benefits. Attrition is costly. The post Academic Moots Unique Retention, Retirement Benefits For Health Workers appeared first on CodeBlue .",
+      "title": "Johor police bust drug syndicate using vape cartridges, seize RM10.68m worth of drugs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/05/johor-police-bust-drug-syndicate-using-vape-cartridges-seize-rm1068m-worth-of-drugs/230318",
+      "source": "Malay Mail",
+      "published": "2026-08-05T08:10:53",
+      "summary": "JOHOR BAHRU, Aug 5 — Police have busted a drug trafficking syndicate that used vape cartridges to distr...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "MOH upgrading health facilities in Sabah, Sarawak interior based on local needs, says deputy minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/05/moh-upgrading-health-facilities-in-sabah-sarawak-interior-based-on-local-needs-says-deputy-minister/230314",
+      "source": "Malay Mail",
+      "published": "2026-08-05T07:27:34",
+      "summary": "KUALA LUMPUR, Aug 5 — The Health Ministry (MOH) is adopting a tailored approach to upgrading health facilities in...",
       "keywords_matched": [
         "health"
       ]
