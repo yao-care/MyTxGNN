@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-05T22:10:53.857549",
+  "fetched": "2026-08-05T23:58:17.944237",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "When Every Hospital Becomes The Same Hospital — Dr Ng Kuo Chern",
@@ -128,16 +128,6 @@
       "summary": "JOHOR BAHRU, Aug 5 — Police have busted a drug trafficking syndicate that used vape cartridges to distr...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "MOH upgrading health facilities in Sabah, Sarawak interior based on local needs, says deputy minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/05/moh-upgrading-health-facilities-in-sabah-sarawak-interior-based-on-local-needs-says-deputy-minister/230314",
-      "source": "Malay Mail",
-      "published": "2026-08-05T07:27:34",
-      "summary": "KUALA LUMPUR, Aug 5 — The Health Ministry (MOH) is adopting a tailored approach to upgrading health facilities in...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
