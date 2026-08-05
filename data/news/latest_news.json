@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-05T08:32:13.113015",
+  "fetched": "2026-08-05T11:19:12.293262",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "When Every Hospital Becomes The Same Hospital — Dr Ng Kuo Chern",
@@ -109,6 +109,16 @@
       "published": "2026-08-03T03:30:00",
       "summary": "MOH says over half, or 6,580, of 12,198 housemanship training slots nationwide were filled after the first three recruitment rounds in 2026. The ministry says current training capacity remains sufficient for the remaining three intake exercises. The post MOH: 54% Of Housemanship Slots Nationwide Filled After Three Intakes appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Fahmi says tighter airport security measures being considered after pilot’s arrest over alleged drug trafficking",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/05/fahmi-says-tighter-airport-security-measures-being-considered-after-pilots-arrest-over-alleged-drug-trafficking/230321",
+      "source": "Malay Mail",
+      "published": "2026-08-05T08:33:15",
+      "summary": "KUALA LUMPUR, Aug 5 — The government is considering several security measures to be implemented at airports follow...",
+      "keywords_matched": [
+        "drug"
+      ]
     },
     {
       "title": "Johor police bust drug syndicate using vape cartridges, seize RM10.68m worth of drugs",
