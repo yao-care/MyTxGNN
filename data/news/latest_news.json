@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-04T23:01:11.689263",
+  "fetched": "2026-08-05T02:21:47.306474",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Study: 27% Of UM Medical Graduates Since 2018 Hold Active Singapore Registration",
+      "url": "https://codeblue.galencentre.org/2026/08/study-27-of-um-medical-graduates-since-2018-hold-active-singapore-registration/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-05T02:00:00",
+      "summary": "About 27% of UM medical grads since 2018, or 314 doctors, hold active Singapore registration. Over 10% registered with the Singapore Medical Council (SMC) after obtaining full registration in Malaysia. SMC-only proportion rose markedly in recent cohorts. The post Study: 27% Of UM Medical Graduates Since 2018 Hold Active Singapore Registration appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "AI Can Cut Blanket Antibiotic Use In Livestock Farms: Expert",
       "url": "https://codeblue.galencentre.org/2026/08/ai-can-cut-blanket-antibiotic-use-in-livestock-farms-expert/",
@@ -100,17 +111,6 @@
       ]
     },
     {
-      "title": "JPA Approves Over 13,000 New Positions For Health Workers",
-      "url": "https://codeblue.galencentre.org/2026/07/jpa-approves-over-13000-new-positions-for-health-workers/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-31T03:47:19",
-      "summary": "JPA approved 13,343 new positions without trade-offs for MOH, including 1,197 for medical officers and 3,471 for nurses. Amid 15,587 existing nursing vacancies, MOH must hire over 19,000 nurses, likely to take eight years by 2034, assuming no one quits. The post JPA Approves Over 13,000 New Positions For Health Workers appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical"
-      ]
-    },
-    {
       "title": "MediAsas explained: The RM65 health insurance lifeline coming to Malaysia in 2027",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/05/mediasas-explained-the-rm65-health-insurance-lifeline-coming-to-malaysia-in-2027/230089",
       "source": "Malay Mail",
@@ -129,16 +129,6 @@
       "summary": "JAKARTA, Aug 4 — Another Malaysian has been arrested in Indonesia within days for allegedly attempting to smuggle...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Health reforms must be guided by evidence-based data, says Dzulkefly",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/04/health-reforms-must-be-guided-by-evidence-based-data-says-dzulkefly/230204",
-      "source": "Malay Mail",
-      "published": "2026-08-04T07:58:15",
-      "summary": "KUALA LUMPUR, Aug 4 — The implementation of health reforms must be guided by accurate, evidence-based d...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
