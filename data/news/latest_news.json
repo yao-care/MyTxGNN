@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-05T02:21:47.306474",
+  "fetched": "2026-08-05T05:44:33.287462",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "High Costs Stall Malaysia’s Shift To Closed-House Poultry Farming",
+      "url": "https://codeblue.galencentre.org/2026/08/high-costs-stall-malaysias-shift-to-closed-house-poultry-farming/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-05T03:30:00",
+      "summary": "Malaysia's push for closed-house poultry farming has stalled, with only 8% of poultry houses fully adopting the system after nearly three decades. DVS says high costs remain the biggest barrier, especially for small and medium-sized farmers. The post High Costs Stall Malaysia’s Shift To Closed-House Poultry Farming appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Study: 27% Of UM Medical Graduates Since 2018 Hold Active Singapore Registration",
       "url": "https://codeblue.galencentre.org/2026/08/study-27-of-um-medical-graduates-since-2018-hold-active-singapore-registration/",
@@ -98,37 +106,6 @@
       "summary": "Prof Arshil suggests retention and retirement benefits specifically for health workers, like an EPF-plus model with dedicated retention allowances, post-retirement health coverage guarantees, and specialised hazard/longevity benefits. Attrition is costly. The post Academic Moots Unique Retention, Retirement Benefits For Health Workers appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Registered Autistic OKUs Rise 24% To Over 93,000 In Malaysia",
-      "url": "https://codeblue.galencentre.org/2026/07/registered-autistic-okus-rise-24-to-over-93000-in-malaysia/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-07-31T09:11:17",
-      "summary": "The number of OKUs with autism registered with JKM rose 23.5% to 93,199 people in June 2026 from 75,457 registered in June 2025. Senator Lingeshwaran wants fast-track warrants for speech therapy officers, occupational therapists, and audiology officers. The post Registered Autistic OKUs Rise 24% To Over 93,000 In Malaysia appeared first on CodeBlue .",
-      "keywords_matched": [
-        "therapy"
-      ]
-    },
-    {
-      "title": "MediAsas explained: The RM65 health insurance lifeline coming to Malaysia in 2027",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/05/mediasas-explained-the-rm65-health-insurance-lifeline-coming-to-malaysia-in-2027/230089",
-      "source": "Malay Mail",
-      "published": "2026-08-04T23:00:00",
-      "summary": "KUALA LUMPUR, Aug 5 — Malaysians facing the burden of rising medical insurance premiums will soon have a more affo...",
-      "keywords_matched": [
-        "health",
-        "medical"
-      ]
-    },
-    {
-      "title": "Second Malaysian in a week arrested for drug smuggling in Indonesia",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/04/second-malaysian-in-a-week-arrested-for-drug-smuggling-in-indonesia/230225",
-      "source": "Malay Mail",
-      "published": "2026-08-04T10:31:39",
-      "summary": "JAKARTA, Aug 4 — Another Malaysian has been arrested in Indonesia within days for allegedly attempting to smuggle...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
