@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-06T03:17:35.865721",
+  "fetched": "2026-08-06T06:27:30.164873",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,28 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "CPR For The Ministry Of Health — Anonymous Specialist",
+      "url": "https://codeblue.galencentre.org/2026/08/cpr-for-the-ministry-of-health-anonymous-specialist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-06T06:00:00",
+      "summary": "To drive the resuscitation and transformation of MOH we need to remove it from politics. The change must not be led by politicians, but by an empowered task force of health care professionals, without those who have a vested interest in the private sector. The post CPR For The Ministry Of Health — Anonymous Specialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Veterinary Pathologist Says Animal Diseases Hold Clues To Human Disease",
+      "url": "https://codeblue.galencentre.org/2026/08/veterinary-pathologist-says-animal-diseases-hold-clues-to-human-disease/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-06T03:30:00",
+      "summary": "Erasmus Medical Centre’s Prof Vanessa Herder says veterinary pathology offers a window into how viruses emerge, spread between species, and determine who becomes severely ill – knowledge that is reshaping pandemic preparedness. The post Veterinary Pathologist Says Animal Diseases Hold Clues To Human Disease appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "disease",
+        "virus"
+      ]
+    },
     {
       "title": "Nearly 1,700 Specialists In MOH Aren’t Clinicians In Hospitals: Minister",
       "url": "https://codeblue.galencentre.org/2026/08/nearly-1700-specialists-in-moh-arent-clinicians-in-hospitals-minister/",
@@ -96,24 +118,6 @@
         "medical",
         "doctor"
       ]
-    },
-    {
-      "title": "Work-Life Balance At Risk: When Connectivity Becomes Intrusion — Harjit Kaur",
-      "url": "https://codeblue.galencentre.org/2026/08/work-life-balance-at-risk-when-connectivity-becomes-intrusion-harjit-kaur/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-03T07:46:31",
-      "summary": "By recognising the subtle dangers of digital overload and formalising clear communication boundaries, organisations can build healthier, more sustainable workplaces. The post Work-Life Balance At Risk: When Connectivity Becomes Intrusion — Harjit Kaur appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Nearly Half Of Malaysia’s Farmers Are Aged 60 And Above",
-      "url": "https://codeblue.galencentre.org/2026/08/nearly-half-of-malaysias-farmers-are-aged-60-and-above/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-03T06:54:39",
-      "summary": "Nearly half of Malaysia’s agricultural producers are aged 60 and above, while almost 78% are aged 46 and above. KPKM says employability at its training institutes rose to 81.2% in 2024 from 78.1% in 2023 and aims to raise it to 85% by 2030. The post Nearly Half Of Malaysia’s Farmers Are Aged 60 And Above appeared first on CodeBlue .",
-      "keywords_matched": []
     },
     {
       "title": "Three Malaysian women held in Jakarta after drugs found hidden in luggage, shoes",
