@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-06T06:27:30.164873",
+  "fetched": "2026-08-06T09:37:51.334314",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "CPR For The Ministry Of Health — Anonymous Specialist",
@@ -117,26 +117,6 @@
       "keywords_matched": [
         "medical",
         "doctor"
-      ]
-    },
-    {
-      "title": "Three Malaysian women held in Jakarta after drugs found hidden in luggage, shoes",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/06/three-malaysian-women-held-in-jakarta-after-drugs-found-hidden-in-luggage-shoes/230354",
-      "source": "Malay Mail",
-      "published": "2026-08-06T01:00:05",
-      "summary": "KUALA LUMPUR, Aug 6 — Three Malaysian women were detained at the Soekarno-Hatta International Airport i...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Bukit Aman to send team to Jakarta to probe Malaysian pilot drug case",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/06/bukit-aman-to-send-team-to-jakarta-to-probe-malaysian-pilot-drug-case/230351",
-      "source": "Malay Mail",
-      "published": "2026-08-06T00:34:36",
-      "summary": "KUALA LUMPUR, Aug 6 — The Royal Malaysia Police (PDRM) will send a team of investigators and intelligen...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
