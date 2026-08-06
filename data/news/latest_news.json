@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-06T15:13:13.929584",
+  "fetched": "2026-08-06T23:55:46.484462",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "CPR For The Ministry Of Health — Anonymous Specialist",
@@ -117,6 +117,16 @@
       "keywords_matched": [
         "medical",
         "doctor"
+      ]
+    },
+    {
+      "title": "End of lane hoggers? Malaysia trials minimum speed limits to combat highway congestion",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/07/end-of-lane-hoggers-malaysia-trials-minimum-speed-limits-to-combat-highway-congestion/230297",
+      "source": "Malay Mail",
+      "published": "2026-08-06T23:00:00",
+      "summary": "KUALA LUMPUR, Aug 7 — We are all familiar with maximum speed limits designed to keep us safe. Now, the Malays...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
