@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-07T06:07:21.110813",
+  "fetched": "2026-08-07T08:11:11.506631",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,18 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "Experts: TB Elimination Requires Finding Patients Before They Become Sick",
+      "url": "https://codeblue.galencentre.org/2026/08/experts-tb-elimination-requires-finding-patients-before-they-become-sick/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-07T07:30:00",
+      "summary": "TB elimination requires finding infection before illness, not just treating disease after symptoms appear. Experts urge active case finding, preventive treatment, AI-assisted screening, and integrated testing to stop transmission earlier. The post Experts: TB Elimination Requires Finding Patients Before They Become Sick appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment",
+        "disease",
+        "patient"
+      ]
+    },
     {
       "title": "Malaysia Can Lead Region In Cutting Farm Antibiotic Use: Expert",
       "url": "https://codeblue.galencentre.org/2026/08/malaysia-can-lead-region-in-cutting-farm-antibiotic-use-expert/",
@@ -103,13 +115,14 @@
       ]
     },
     {
-      "title": "AI Can Cut Blanket Antibiotic Use In Livestock Farms: Expert",
-      "url": "https://codeblue.galencentre.org/2026/08/ai-can-cut-blanket-antibiotic-use-in-livestock-farms-expert/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-04T07:30:00",
-      "summary": "UPM's Prof Goh Yong Meng says AI can help livestock farmers reduce antibiotic use, thus curbing antimicrobial resistance, by detecting sick animals through movement, sound, and biometric data, allowing targeted treatment instead of medicating entire herds. The post AI Can Cut Blanket Antibiotic Use In Livestock Farms: Expert appeared first on CodeBlue .",
+      "title": "Government prioritises new theatres to support surgeries during Sultanah Aminah Hospital upgrades",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/07/government-prioritises-new-theatres-to-support-surgeries-during-sultanah-aminah-hospital-upgrades/230528",
+      "source": "Malay Mail",
+      "published": "2026-08-07T07:50:59",
+      "summary": "JOHOR BAHRU, Aug 7 — The Economy Ministry will prioritise building three to four new operating theatres at the Sul...",
       "keywords_matched": [
-        "treatment"
+        "hospital",
+        "hospital"
       ]
     },
     {
@@ -120,16 +133,6 @@
       "summary": "KUCHING, Aug 7 — Kuching and Samarahan recorded unhealthy readings on the Air Pollutant Index (API) on Friday morn...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Malaysia Aviation Group mandates pilot drug tests after off-duty crew member’s Jakarta drug arrest",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/07/malaysia-aviation-group-mandates-pilot-drug-tests-after-off-duty-crew-members-drug-arrest/230480",
-      "source": "Malay Mail",
-      "published": "2026-08-07T03:14:38",
-      "summary": "KUALA LUMPUR, Aug 7 — Malaysia Aviation Group (MAG) has commenced mandatory drug screening for all 1,260 Malaysia...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
