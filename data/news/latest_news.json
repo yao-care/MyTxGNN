@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-07T04:52:27.953914",
+  "fetched": "2026-08-07T06:07:21.110813",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Malaysia Can Lead Region In Cutting Farm Antibiotic Use: Expert",
+      "url": "https://codeblue.galencentre.org/2026/08/malaysia-can-lead-region-in-cutting-farm-antibiotic-use-expert/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-07T06:00:00",
+      "summary": "A livestock expert says Malaysia can lead Southeast Asia in reducing farm antibiotic use by strengthening feed hygiene, biosecurity, and Salmonella control. Malaysia’s strong regulatory framework and imported antibiotic supply chain provide an advantage. The post Malaysia Can Lead Region In Cutting Farm Antibiotic Use: Expert appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Beyond Licensing: One Ecosystem For Caregiver Standards, Registration, Governance — Kendana",
       "url": "https://codeblue.galencentre.org/2026/08/beyond-licensing-one-ecosystem-for-caregiver-standards-registration-governance-kendana/",
@@ -105,16 +113,13 @@
       ]
     },
     {
-      "title": "Doctors, Nurses Demand Safe Workplaces After Sexual Harassment Complaints",
-      "url": "https://codeblue.galencentre.org/2026/08/doctors-nurses-demand-safe-workplaces-after-sexual-harassment-complaints/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-04T05:45:00",
-      "summary": "MMA and MNU want fair and prompt probes into sexual harassment complaints. The doctors' group and nurses' union demand a safe workplace for health workers, following sexual harassment claims against a KL hospital HOD and a Kota Kinabalu hospital director. The post Doctors, Nurses Demand Safe Workplaces After Sexual Harassment Complaints appeared first on CodeBlue .",
+      "title": "Kuching, Samarahan record unhealthy API readings",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/07/kuching-samarahan-record-unhealthy-api-readings/230501",
+      "source": "Malay Mail",
+      "published": "2026-08-07T05:16:46",
+      "summary": "KUCHING, Aug 7 — Kuching and Samarahan recorded unhealthy readings on the Air Pollutant Index (API) on Friday morn...",
       "keywords_matched": [
-        "health",
-        "hospital",
-        "doctor",
-        "hospital"
+        "health"
       ]
     },
     {
