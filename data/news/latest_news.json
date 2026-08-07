@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-07T08:11:11.506631",
+  "fetched": "2026-08-07T09:59:09.587773",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "JPA Already Granted Autonomy To MOH: Johor MB",
+      "url": "https://codeblue.galencentre.org/2026/08/jpa-already-granted-autonomy-to-moh-johor-mb/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-07T09:36:40",
+      "summary": "Johor MB Onn Hafiz says he's merely demanding that MOH fulfil its promise to post health workers to the state amid a \"critical\" shortage of doctors and nurses hampering various hospitals, pointing out that JPA already gave MOH autonomy to manage positions. The post JPA Already Granted Autonomy To MOH: Johor MB appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Looking Beyond Straight Teeth: A Case For Earlier Orthodontic Assessment — Dr Caren Lwi Yee Chin",
+      "url": "https://codeblue.galencentre.org/2026/08/looking-beyond-straight-teeth-a-case-for-earlier-orthodontic-assessment-dr-caren-lwi-yee-chin/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-07T08:20:54",
+      "summary": "A child who presented with retained baby teeth reminded me that early orthodontic assessment is not about starting braces sooner, but about recognising developmental concerns early enough to provide timely, coordinated care. The post Looking Beyond Straight Teeth: A Case For Earlier Orthodontic Assessment — Dr Caren Lwi Yee Chin appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Experts: TB Elimination Requires Finding Patients Before They Become Sick",
       "url": "https://codeblue.galencentre.org/2026/08/experts-tb-elimination-requires-finding-patients-before-they-become-sick/",
@@ -96,25 +117,6 @@
       ]
     },
     {
-      "title": "High Costs Stall Malaysia’s Shift To Closed-House Poultry Farming",
-      "url": "https://codeblue.galencentre.org/2026/08/high-costs-stall-malaysias-shift-to-closed-house-poultry-farming/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-05T03:30:00",
-      "summary": "Malaysia's push for closed-house poultry farming has stalled, with only 8% of poultry houses fully adopting the system after nearly three decades. DVS says high costs remain the biggest barrier, especially for small and medium-sized farmers. The post High Costs Stall Malaysia’s Shift To Closed-House Poultry Farming appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Study: 27% Of UM Medical Graduates Since 2018 Hold Active Singapore Registration",
-      "url": "https://codeblue.galencentre.org/2026/08/study-27-of-um-medical-graduates-since-2018-hold-active-singapore-registration/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-05T02:00:00",
-      "summary": "About 27% of UM medical grads since 2018, or 314 doctors, hold active Singapore registration. Over 10% registered with the Singapore Medical Council (SMC) after obtaining full registration in Malaysia. SMC-only proportion rose markedly in recent cohorts. The post Study: 27% Of UM Medical Graduates Since 2018 Hold Active Singapore Registration appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor"
-      ]
-    },
-    {
       "title": "Government prioritises new theatres to support surgeries during Sultanah Aminah Hospital upgrades",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/07/government-prioritises-new-theatres-to-support-surgeries-during-sultanah-aminah-hospital-upgrades/230528",
       "source": "Malay Mail",
@@ -123,16 +125,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Kuching, Samarahan record unhealthy API readings",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/07/kuching-samarahan-record-unhealthy-api-readings/230501",
-      "source": "Malay Mail",
-      "published": "2026-08-07T05:16:46",
-      "summary": "KUCHING, Aug 7 — Kuching and Samarahan recorded unhealthy readings on the Air Pollutant Index (API) on Friday morn...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
