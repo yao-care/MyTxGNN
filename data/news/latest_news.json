@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-07T02:37:45.373695",
+  "fetched": "2026-08-07T04:52:27.953914",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Beyond Licensing: One Ecosystem For Caregiver Standards, Registration, Governance — Kendana",
+      "url": "https://codeblue.galencentre.org/2026/08/beyond-licensing-one-ecosystem-for-caregiver-standards-registration-governance-kendana/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-07T03:30:00",
+      "summary": "Until caregiver standards, facility licensing, and local authority approval are treated as one connected system, certifying caregivers alone will not prevent tragedies from occurring. The post Beyond Licensing: One Ecosystem For Caregiver Standards, Registration, Governance — Kendana appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Starting At RM55 Premium, AIA’s RM3m Medical Plan Better Value Than MediAsas",
       "url": "https://codeblue.galencentre.org/2026/08/starting-at-rm55-premium-aias-rm3m-medical-plan-better-value-than-mediasas/",
@@ -110,23 +118,13 @@
       ]
     },
     {
-      "title": "Authorities Reportedly Visiting Clinics Despite Court’s Suspension Of Price Display Enforcement: PMPASKL",
-      "url": "https://codeblue.galencentre.org/2026/08/authorities-reportedly-visiting-clinics-despite-courts-suspension-of-price-display-enforcement-pmpaskl/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-04T03:45:16",
-      "summary": "PMPASKL highlights reported visits from the authorities to GP clinics related to drug price display, despite a High Court stay order on its enforcement. If a summons is issued, which may be contempt of court, PMPASKL reserves its legal rights. The post Authorities Reportedly Visiting Clinics Despite Court’s Suspension Of Price Display Enforcement: PMPASKL appeared first on CodeBlue .",
+      "title": "Malaysia Aviation Group mandates pilot drug tests after off-duty crew member’s Jakarta drug arrest",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/07/malaysia-aviation-group-mandates-pilot-drug-tests-after-off-duty-crew-members-drug-arrest/230480",
+      "source": "Malay Mail",
+      "published": "2026-08-07T03:14:38",
+      "summary": "KUALA LUMPUR, Aug 7 — Malaysia Aviation Group (MAG) has commenced mandatory drug screening for all 1,260 Malaysia...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "End of lane hoggers? Malaysia trials minimum speed limits to combat highway congestion",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/07/end-of-lane-hoggers-malaysia-trials-minimum-speed-limits-to-combat-highway-congestion/230297",
-      "source": "Malay Mail",
-      "published": "2026-08-06T23:00:00",
-      "summary": "KUALA LUMPUR, Aug 7 — We are all familiar with maximum speed limits designed to keep us safe. Now, the Malays...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
