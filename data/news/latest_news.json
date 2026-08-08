@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-08T08:37:48.943873",
+  "fetched": "2026-08-08T09:34:41.388308",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "JPA Already Granted Autonomy To MOH: Johor MB",
@@ -114,6 +114,16 @@
         "health",
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "AADK backs mandatory drug screening for all Malaysia Airlines pilots, cabin crew",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/08/aadk-backs-mandatory-drug-screening-for-all-malaysia-airlines-pilots-cabin-crew/230620",
+      "source": "Malay Mail",
+      "published": "2026-08-08T08:51:39",
+      "summary": "JERTIH, Aug 8 — The National Anti-Drug Agency (AADK) supports the move by Malaysia Aviation Group (MAG)...",
+      "keywords_matched": [
+        "drug"
       ]
     },
     {
