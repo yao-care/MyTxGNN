@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-08T22:25:50.624876",
+  "fetched": "2026-08-08T23:26:02.395565",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "title": "JPA Already Granted Autonomy To MOH: Johor MB",
@@ -144,16 +144,6 @@
       "summary": "PUTRAJAYA, Aug 8 — Air quality in the country has worsened, with five areas in Sarawak recording unhealthy Air Pol...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "King orders tighter airport security, urges ministries to curb drug smuggling nationwide",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/08/king-orders-tighter-airport-security-urges-ministries-to-curb-drug-smuggling-nationwide/230595",
-      "source": "Malay Mail",
-      "published": "2026-08-08T05:23:13",
-      "summary": "KUALA LUMPUR, Aug 8 — His Majesty Sultan Ibrahim, King of Malaysia today called on the relevant ministries and age...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
