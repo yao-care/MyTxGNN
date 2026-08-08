@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-08T12:42:15.392518",
+  "fetched": "2026-08-08T13:42:59.817079",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "title": "JPA Already Granted Autonomy To MOH: Johor MB",
@@ -114,6 +114,16 @@
         "health",
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "Experts urge holistic measures, warn teacher workload threatens mental health and classroom quality",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/08/experts-urge-holistic-measures-warn-teacher-workload-threatens-mental-health-and-classroom-quality/230603",
+      "source": "Malay Mail",
+      "published": "2026-08-08T13:00:00",
+      "summary": "KUALA LUMPUR, Aug 8 — The issue of teacher workload needs to be addressed holistically and continuously through st...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
