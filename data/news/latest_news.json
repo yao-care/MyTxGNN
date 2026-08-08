@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-08T05:40:35.953903",
+  "fetched": "2026-08-08T06:48:46.438326",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "JPA Already Granted Autonomy To MOH: Johor MB",
@@ -114,6 +114,16 @@
         "health",
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "DOE confirms haze movement, unhealthy API hits Serian, Kuching, Samarahan, Sri Aman, Bintulu",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/08/doe-confirms-haze-movement-unhealthy-api-hits-serian-kuching-samarahan-sri-aman-bintulu/230599",
+      "source": "Malay Mail",
+      "published": "2026-08-08T05:46:45",
+      "summary": "PUTRAJAYA, Aug 8 — Air quality in the country has worsened, with five areas in Sarawak recording unhealthy Air Pol...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
