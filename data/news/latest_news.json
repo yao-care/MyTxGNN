@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-07T23:31:12.662274",
+  "fetched": "2026-08-08T01:23:08.925332",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "JPA Already Granted Autonomy To MOH: Johor MB",
@@ -112,17 +112,6 @@
       "summary": "Commoditisation means that care provided is reduced to the lowest reimbursable denominator: the cheapest medications and implants, and the lowest prices. It is here that we need to exercise caution on the conversation around health care affordability. The post When Every Hospital Becomes The Same Hospital — Dr Ng Kuo Chern appeared first on CodeBlue .",
       "keywords_matched": [
         "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Government prioritises new theatres to support surgeries during Sultanah Aminah Hospital upgrades",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/07/government-prioritises-new-theatres-to-support-surgeries-during-sultanah-aminah-hospital-upgrades/230528",
-      "source": "Malay Mail",
-      "published": "2026-08-07T07:50:59",
-      "summary": "JOHOR BAHRU, Aug 7 — The Economy Ministry will prioritise building three to four new operating theatres at the Sul...",
-      "keywords_matched": [
         "hospital",
         "hospital"
       ]
