@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-09T22:27:52.481071",
+  "fetched": "2026-08-09T23:28:47.840866",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "JPA Already Granted Autonomy To MOH: Johor MB",
@@ -124,16 +124,6 @@
       "summary": "KUCHING, Aug 9 — Miri and Sarikei recorded unhealthy Air Pollutant Index (API) readings as of 1pm today.According...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Malaysia awaits US response on excess capacity after concluding forced-labour tariff talks, says Johari Ghani",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/09/malaysia-awaits-us-response-on-excess-capacity-after-concluding-forced-labour-tariff-talks-says-johari-ghani/230683",
-      "source": "Malay Mail",
-      "published": "2026-08-09T05:01:15",
-      "summary": "SHAH ALAM, Aug 9 — Malaysia is awaiting Washington’s response on concerns over industrial excess capacity af...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
