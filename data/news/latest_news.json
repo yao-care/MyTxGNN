@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-09T01:28:29.253001",
+  "fetched": "2026-08-09T03:39:44.845600",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "JPA Already Granted Autonomy To MOH: Johor MB",
@@ -114,6 +114,16 @@
         "health",
         "hospital",
         "hospital"
+      ]
+    },
+    {
+      "title": "Five Sarawak areas record unhealthy API levels amid transboundary haze",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/09/five-sarawak-areas-record-unhealthy-api-levels-amid-transboundary-haze/230659",
+      "source": "Malay Mail",
+      "published": "2026-08-09T01:59:12",
+      "summary": "KUCHING, Aug 9 — Five areas in Sarawak continued to record unhealthy Air Pollutant Index (API) readings due to tra...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
