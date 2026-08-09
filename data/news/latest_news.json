@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-09T10:31:59.878844",
+  "fetched": "2026-08-09T11:25:52.690941",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "JPA Already Granted Autonomy To MOH: Johor MB",
@@ -134,16 +134,6 @@
       "summary": "SHAH ALAM, Aug 9 — Malaysia is awaiting Washington’s response on concerns over industrial excess capacity af...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Saifuddin Nasution vows scanner upgrade, promises smarter baggage checks after pilot drug scandal",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/09/saifuddin-vows-scanner-upgrade-promises-smarter-baggage-checks-after-pilot-drug-scandal/230679",
-      "source": "Malay Mail",
-      "published": "2026-08-09T04:00:09",
-      "summary": "PUTRAJAYA, Aug 9 — The government will look into upgrading scanning machines at airports nationwide as part of eff...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
