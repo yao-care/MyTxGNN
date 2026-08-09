@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-09T03:39:44.845600",
+  "fetched": "2026-08-09T05:01:50.117666",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "title": "JPA Already Granted Autonomy To MOH: Johor MB",
@@ -117,6 +117,26 @@
       ]
     },
     {
+      "title": "Malaysia awaits US response on excess capacity after concluding forced-labour tariff talks, says Johari Ghani",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/09/malaysia-awaits-us-response-on-excess-capacity-after-concluding-forced-labour-tariff-talks-says-johari-ghani/230683",
+      "source": "Malay Mail",
+      "published": "2026-08-09T05:01:15",
+      "summary": "SHAH ALAM, Aug 9 — Malaysia is awaiting Washington’s response on concerns over industrial excess capacity af...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Saifuddin Nasution vows scanner upgrade, promises smarter baggage checks after pilot drug scandal",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/09/saifuddin-vows-scanner-upgrade-promises-smarter-baggage-checks-after-pilot-drug-scandal/230679",
+      "source": "Malay Mail",
+      "published": "2026-08-09T04:00:09",
+      "summary": "PUTRAJAYA, Aug 9 — The government will look into upgrading scanning machines at airports nationwide as part of eff...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "Five Sarawak areas record unhealthy API levels amid transboundary haze",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/09/five-sarawak-areas-record-unhealthy-api-levels-amid-transboundary-haze/230659",
       "source": "Malay Mail",
@@ -134,16 +154,6 @@
       "summary": "KUALA LUMPUR, Aug 8 — The issue of teacher workload needs to be addressed holistically and continuously through st...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "AADK backs mandatory drug screening for all Malaysia Airlines pilots, cabin crew",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/08/aadk-backs-mandatory-drug-screening-for-all-malaysia-airlines-pilots-cabin-crew/230620",
-      "source": "Malay Mail",
-      "published": "2026-08-08T08:51:39",
-      "summary": "JERTIH, Aug 8 — The National Anti-Drug Agency (AADK) supports the move by Malaysia Aviation Group (MAG)...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
