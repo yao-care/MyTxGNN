@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-10T07:28:01.165464",
+  "fetched": "2026-08-10T09:17:27.050896",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Drug Testing Must Be Reliable, Fair, And Difficult To Tamper With — Dr Steven Chow",
+      "url": "https://codeblue.galencentre.org/2026/08/drug-testing-must-be-reliable-fair-and-difficult-to-tamper-with-dr-steven-chow/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-10T07:30:00",
+      "summary": "Drug tests must be reliable, the sample must be genuine, and the person being tested must be treated fairly. The post Drug Testing Must Be Reliable, Fair, And Difficult To Tamper With — Dr Steven Chow appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
     {
       "title": "Decoupling Private Event Medical Coverage From MOH: How Commercial Organisers Can Stand On Their Own  — Dr Sarah Shaikh Abdul Karim",
       "url": "https://codeblue.galencentre.org/2026/08/decoupling-private-event-medical-coverage-from-moh-how-commercial-organisers-can-stand-on-their-own-dr-sarah-shaikh-abdul-karim/",
@@ -101,24 +111,24 @@
       "keywords_matched": []
     },
     {
-      "title": "Starting At RM55 Premium, AIA’s RM3m Medical Plan Better Value Than MediAsas",
-      "url": "https://codeblue.galencentre.org/2026/08/starting-at-rm55-premium-aias-rm3m-medical-plan-better-value-than-mediasas/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-07T02:00:00",
-      "summary": "AIA's A-Plus Health360 is superior to MediAsas for both young and old. The new AIA medical plan has an RM3 million annual limit with monthly premiums starting from RM55, comparably priced or even cheaper than MediAsas with RM100,000 limit and RM60 premium. The post Starting At RM55 Premium, AIA’s RM3m Medical Plan Better Value Than MediAsas appeared first on CodeBlue .",
+      "title": "Doctors confirm elective surgery success, PM Anwar Ibrahim under strict medical watch",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/10/doctors-confirm-elective-surgery-success-pm-anwar-ibrahim-under-strict-medical-watch/230839",
+      "source": "Malay Mail",
+      "published": "2026-08-10T08:28:04",
+      "summary": "KUALA LUMPUR, Aug 10 — Prime Minister Datuk Seri Anwar Ibrahim has successfully undergone elective laparoscopic su...",
       "keywords_matched": [
-        "health",
-        "medical"
+        "medical",
+        "doctor"
       ]
     },
     {
-      "title": "Transboundary haze worsens as nine Sarawak areas record unhealthy air quality",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/10/transboundary-haze-worsens-as-nine-sarawak-areas-record-unhealthy-air-quality/230784",
+      "title": "Pakistan PM wishes ‘brother’ Anwar swift recovery from medical procedure",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/10/pakistan-pm-wishes-brother-anwar-swift-recovery-from-medical-procedure/230838",
       "source": "Malay Mail",
-      "published": "2026-08-10T03:52:23",
-      "summary": "KUCHING, Aug 10 — The number of areas in Sarawak recording unhealthy Air Pollutant Index (API) readings due to tra...",
+      "published": "2026-08-10T08:27:53",
+      "summary": "KUALA LUMPUR, Aug 10 — Pakistani Prime Minister Shehbaz Sharif wishes Prime Minister Datuk Seri Anwar Ibrahim a sp...",
       "keywords_matched": [
-        "health"
+        "medical"
       ]
     }
   ]
