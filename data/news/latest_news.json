@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-10T03:51:36.326068",
+  "fetched": "2026-08-10T05:24:13.275786",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "MMA Slams Insurer’s RM50 Limit For GP Visits",
@@ -107,6 +107,16 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-08-06T06:00:00",
       "summary": "To drive the resuscitation and transformation of MOH we need to remove it from politics. The change must not be led by politicians, but by an empowered task force of health care professionals, without those who have a vested interest in the private sector. The post CPR For The Ministry Of Health — Anonymous Specialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Transboundary haze worsens as nine Sarawak areas record unhealthy air quality",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/10/transboundary-haze-worsens-as-nine-sarawak-areas-record-unhealthy-air-quality/230784",
+      "source": "Malay Mail",
+      "published": "2026-08-10T03:52:23",
+      "summary": "KUCHING, Aug 10 — The number of areas in Sarawak recording unhealthy Air Pollutant Index (API) readings due to tra...",
       "keywords_matched": [
         "health"
       ]
