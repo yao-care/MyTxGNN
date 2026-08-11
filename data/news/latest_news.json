@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-11T05:05:11.063880",
+  "fetched": "2026-08-11T07:02:55.526319",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Singapore Must Be Cautious In Approving PGT-A As A Mainstream Clinical Service — Dr Alexis Heng Boon Chin",
@@ -112,16 +112,6 @@
         "treatment",
         "disease",
         "patient"
-      ]
-    },
-    {
-      "title": "Haze worsens in Sarawak as 11 areas record unhealthy air quality",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/11/haze-worsens-in-sarawak-as-11-areas-record-unhealthy-air-quality/230885",
-      "source": "Malay Mail",
-      "published": "2026-08-11T00:59:13",
-      "summary": "KUALA LUMPUR, Aug 11 — Haze conditions in Sarawak have worsened, with the number of areas recording unhealthy Air...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
