@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-10T23:32:20.933872",
+  "fetched": "2026-08-11T01:28:00.007808",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -111,14 +111,13 @@
       "keywords_matched": []
     },
     {
-      "title": "Doctors confirm elective surgery success, PM Anwar Ibrahim under strict medical watch",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/10/doctors-confirm-elective-surgery-success-pm-anwar-ibrahim-under-strict-medical-watch/230839",
+      "title": "Haze worsens in Sarawak as 11 areas record unhealthy air quality",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/11/haze-worsens-in-sarawak-as-11-areas-record-unhealthy-air-quality/230885",
       "source": "Malay Mail",
-      "published": "2026-08-10T08:28:04",
-      "summary": "KUALA LUMPUR, Aug 10 — Prime Minister Datuk Seri Anwar Ibrahim has successfully undergone elective laparoscopic su...",
+      "published": "2026-08-11T00:59:13",
+      "summary": "KUALA LUMPUR, Aug 11 — Haze conditions in Sarawak have worsened, with the number of areas recording unhealthy Air...",
       "keywords_matched": [
-        "medical",
-        "doctor"
+        "health"
       ]
     }
   ]
