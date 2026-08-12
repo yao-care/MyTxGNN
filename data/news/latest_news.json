@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-12T08:14:51.000952",
+  "fetched": "2026-08-12T10:00:32.017705",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 15,
   "items": [
     {
       "title": "Explainer: MediAsas Just Regular Private Health Insurance With Pre-Existing Condition Exclusions",
@@ -114,6 +114,47 @@
       "keywords_matched": []
     },
     {
+      "title": "Haze hits Malaysia as 12 air monitoring stations record unhealthy API readings",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/haze-hits-malaysia-as-12-air-monitoring-stations-record-unhealthy-api-readings/231096",
+      "source": "Malay Mail",
+      "published": "2026-08-12T09:23:07",
+      "summary": "KUALA LUMPUR, Aug 12 — Malaysia has been experiencing haze since Aug 8, with 11 air monitoring stations reco...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Got haze health worries? Ministry steps up monitoring, medical readiness",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/got-haze-health-worries-ministry-steps-up-monitoring-medical-readiness/231095",
+      "source": "Malay Mail",
+      "published": "2026-08-12T09:33:24",
+      "summary": "PUTRAJAYA, Aug 12 — The Health Ministry (MOH) is strengthening surveillance of haze-related illnesses at health fa...",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
+    {
+      "title": "Airport security plan heads to Cabinet next week after Malaysian pilot’s drug bust",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/airport-security-plan-heads-to-cabinet-next-week-after-malaysian-pilots-drug-bust/231087",
+      "source": "Malay Mail",
+      "published": "2026-08-12T09:15:11",
+      "summary": "KOTA BHARU, Aug 12 — A plan to enhance airport security controls will be presented to the Cabinet next week follow...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Worried govt producing GMO rice? Agriculture Ministry says Perak run is only a controlled test",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/worried-govt-producing-gmo-rice-agriculture-ministry-says-perak-run-is-only-a-controlled-test/231083",
+      "source": "Malay Mail",
+      "published": "2026-08-12T08:53:57",
+      "summary": "SERDANG, Aug 12 — The proposed genetically modified rice field trial in Perak involving the MR219 variety is only...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
       "title": "Sarawak caregiver in the dock over fractured arm of baby just 20 days old",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/12/sarawak-caregiver-in-the-dock-over-fractured-arm-of-baby-just-20-days-old/231075",
       "source": "Malay Mail",
@@ -121,27 +162,6 @@
       "summary": "KUCHING, Aug 12 — A 29-year-old woman claimed trial at the Sessions Court here today to a charge of causing injury...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "PMX expected home today after hernia procedure, says wife",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/pmx-expected-home-today-after-hernia-procedure-says-wife/231063",
-      "source": "Malay Mail",
-      "published": "2026-08-12T05:53:16",
-      "summary": "KUALA LUMPUR, Aug 12 — Prime Minister Datuk Seri Anwar Ibrahim is expected to be discharged from hospital today af...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Six schools in Sarawak shift to online learning as haze hits ‘very unhealthy’ levels",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/six-schools-in-sarawak-shift-to-online-learning-as-haze-hits-very-unhealthy-levels/231056",
-      "source": "Malay Mail",
-      "published": "2026-08-12T04:57:49",
-      "summary": "KUCHING, Aug 12 — Six schools in the Tebedu district have been ordered to temporarily close after the Air Pollutan...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
