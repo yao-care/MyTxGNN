@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-11T23:37:07.003431",
+  "fetched": "2026-08-12T01:45:48.785603",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 12,
   "items": [
     {
       "title": "Singapore Must Be Cautious In Approving PGT-A As A Mainstream Clinical Service — Dr Alexis Heng Boon Chin",
@@ -132,26 +132,6 @@
       "summary": "SHAH ALAM, Aug 11 — Federal narcotics police foiled an international drug syndicate’s tactic of storing ganj...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Johor police bust drug syndicate supplying local market, seize RM8.49m worth of drugs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/11/johor-police-bust-drug-syndicate-supplying-local-market-seize-rm849m-worth-of-drugs/230963",
-      "source": "Malay Mail",
-      "published": "2026-08-11T08:45:22",
-      "summary": "JOHOR BAHRU, Aug 11 — Johor police have busted a drug trafficking syndicate following the arrest of two men...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Sarawak orders schools to halt outdoor activities amid unhealthy API readings",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/11/sarawak-orders-schools-to-halt-outdoor-activities-amid-unhealthy-api-readings/230959",
-      "source": "Malay Mail",
-      "published": "2026-08-11T08:21:48",
-      "summary": "KUALA LUMPUR, Aug 11 — Schools in Sarawak have been ordered to immediately halt all outdoor activities involving p...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
