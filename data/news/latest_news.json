@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-12T01:45:48.785603",
+  "fetched": "2026-08-12T04:04:59.798842",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Explainer: MediAsas Just Regular Private Health Insurance With Pre-Existing Condition Exclusions",
+      "url": "https://codeblue.galencentre.org/2026/08/explainer-mediasas-just-regular-private-health-insurance-with-pre-existing-condition-exclusions/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-12T02:00:00",
+      "summary": "With age-based premium revisions and standard exclusions like pre-existing conditions, based on BNM's FAQ, MediAsas turns out to be a regular private health insurance product but is uncompetitive against other medical plans with >RM1 million annual limit. The post Explainer: MediAsas Just Regular Private Health Insurance With Pre-Existing Condition Exclusions appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
     {
       "title": "Singapore Must Be Cautious In Approving PGT-A As A Mainstream Clinical Service — Dr Alexis Heng Boon Chin",
       "url": "https://codeblue.galencentre.org/2026/08/singapore-must-be-cautious-in-approving-pgt-a-as-a-mainstream-clinical-service-dr-alexis-heng-boon-chin/",
@@ -103,35 +114,33 @@
       "keywords_matched": []
     },
     {
-      "title": "Experts: TB Elimination Requires Finding Patients Before They Become Sick",
-      "url": "https://codeblue.galencentre.org/2026/08/experts-tb-elimination-requires-finding-patients-before-they-become-sick/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-07T07:30:00",
-      "summary": "TB elimination requires finding infection before illness, not just treating disease after symptoms appear. Experts urge active case finding, preventive treatment, AI-assisted screening, and integrated testing to stop transmission earlier. The post Experts: TB Elimination Requires Finding Patients Before They Become Sick appeared first on CodeBlue .",
+      "title": "Putrajaya chokes as unhealthy air readings climb across Malaysia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/putrajaya-chokes-as-unhealthy-air-readings-climb-across-malaysia/231042",
+      "source": "Malay Mail",
+      "published": "2026-08-12T03:45:18",
+      "summary": "KUALA LUMPUR, Aug 12 — Eight areas nationwide recorded unhealthy Air Pollutant Index (API) readings as at 9 am tod...",
       "keywords_matched": [
-        "treatment",
-        "disease",
-        "patient"
+        "health"
       ]
     },
     {
-      "title": "Drug smuggling via KLIA: 14 Malaysians arrested abroad since January, say police",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/11/drug-smuggling-via-klia-14-malaysians-arrested-abroad-since-january-say-police/230977",
+      "title": "Kota Kinabalu airport security needs a closer look, Sabah rep says after string of overseas drug arrests",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/kota-kinabalu-airport-security-needs-a-closer-look-sabah-rep-says-after-string-of-overseas-drug-arrests/231031",
       "source": "Malay Mail",
-      "published": "2026-08-11T10:12:12",
-      "summary": "SHAH ALAM, Aug 11 — A total of 14 Malaysians have been arrested overseas for alleged drug smuggling activities aft...",
+      "published": "2026-08-12T03:07:08",
+      "summary": "KOTA KINABALU, Aug 12 — The relevant agencies have been called on to undertake a comprehensive security audit of K...",
       "keywords_matched": [
         "drug"
       ]
     },
     {
-      "title": "Police bust syndicate storing RM21m worth of ganja near KLIA, Penang airport",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/11/police-bust-syndicate-storing-rm21m-worth-of-ganja-near-klia-penang-airport/230974",
+      "title": "Sarawak air quality stays unhealthy in nine areas as transboundary haze persists",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/sarawak-air-quality-stays-unhealthy-in-nine-areas-as-transboundary-haze-persists/231025",
       "source": "Malay Mail",
-      "published": "2026-08-11T10:40:36",
-      "summary": "SHAH ALAM, Aug 11 — Federal narcotics police foiled an international drug syndicate’s tactic of storing ganj...",
+      "published": "2026-08-12T02:10:04",
+      "summary": "KUCHING, Aug 12 — The air quality in nine areas in Sarawak was at an unhealthy level as at 8 am today due to trans...",
       "keywords_matched": [
-        "drug"
+        "health"
       ]
     }
   ]
