@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-12T11:42:45.379877",
+  "fetched": "2026-08-12T13:03:14.451189",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Explainer: MediAsas Just Regular Private Health Insurance With Pre-Existing Condition Exclusions",
@@ -132,16 +132,6 @@
       "keywords_matched": [
         "health",
         "medical"
-      ]
-    },
-    {
-      "title": "Airport security plan heads to Cabinet next week after Malaysian pilot’s drug bust",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/airport-security-plan-heads-to-cabinet-next-week-after-malaysian-pilots-drug-bust/231087",
-      "source": "Malay Mail",
-      "published": "2026-08-12T09:15:11",
-      "summary": "KOTA BHARU, Aug 12 — A plan to enhance airport security controls will be presented to the Cabinet next week follow...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
