@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-12T10:00:32.017705",
+  "fetched": "2026-08-12T11:42:45.379877",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 13,
   "items": [
     {
       "title": "Explainer: MediAsas Just Regular Private Health Insurance With Pre-Existing Condition Exclusions",
@@ -114,11 +114,11 @@
       "keywords_matched": []
     },
     {
-      "title": "Haze hits Malaysia as 12 air monitoring stations record unhealthy API readings",
+      "title": "Haze worsens in Malaysia as 11 stations record unhealthy API, Serian reaches 204",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/12/haze-hits-malaysia-as-12-air-monitoring-stations-record-unhealthy-api-readings/231096",
       "source": "Malay Mail",
       "published": "2026-08-12T09:23:07",
-      "summary": "KUALA LUMPUR, Aug 12 — Malaysia has been experiencing haze since Aug 8, with 11 air monitoring stations reco...",
+      "summary": "KUALA LUMPUR, Aug 12 — Malaysia has been experiencing haze since August 8, with 11 air monitoring stations recordi...",
       "keywords_matched": [
         "health"
       ]
@@ -142,26 +142,6 @@
       "summary": "KOTA BHARU, Aug 12 — A plan to enhance airport security controls will be presented to the Cabinet next week follow...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Worried govt producing GMO rice? Agriculture Ministry says Perak run is only a controlled test",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/worried-govt-producing-gmo-rice-agriculture-ministry-says-perak-run-is-only-a-controlled-test/231083",
-      "source": "Malay Mail",
-      "published": "2026-08-12T08:53:57",
-      "summary": "SERDANG, Aug 12 — The proposed genetically modified rice field trial in Perak involving the MR219 variety is only...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Sarawak caregiver in the dock over fractured arm of baby just 20 days old",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/sarawak-caregiver-in-the-dock-over-fractured-arm-of-baby-just-20-days-old/231075",
-      "source": "Malay Mail",
-      "published": "2026-08-12T07:20:45",
-      "summary": "KUCHING, Aug 12 — A 29-year-old woman claimed trial at the Sessions Court here today to a charge of causing injury...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
