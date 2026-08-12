@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-12T04:04:59.798842",
+  "fetched": "2026-08-12T06:11:50.197975",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "title": "Explainer: MediAsas Just Regular Private Health Insurance With Pre-Existing Condition Exclusions",
@@ -114,6 +114,27 @@
       "keywords_matched": []
     },
     {
+      "title": "PMX expected home today after hernia procedure, says wife",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/pmx-expected-home-today-after-hernia-procedure-says-wife/231063",
+      "source": "Malay Mail",
+      "published": "2026-08-12T05:53:16",
+      "summary": "KUALA LUMPUR, Aug 12 — Prime Minister Datuk Seri Anwar Ibrahim is expected to be discharged from hospital today af...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Six schools in Sarawak shift to online learning as haze hits ‘very unhealthy’ levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/six-schools-in-sarawak-shift-to-online-learning-as-haze-hits-very-unhealthy-levels/231056",
+      "source": "Malay Mail",
+      "published": "2026-08-12T04:57:49",
+      "summary": "KUCHING, Aug 12 — Six schools in the Tebedu district have been ordered to temporarily close after the Air Pollutan...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Putrajaya chokes as unhealthy air readings climb across Malaysia",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/12/putrajaya-chokes-as-unhealthy-air-readings-climb-across-malaysia/231042",
       "source": "Malay Mail",
@@ -131,16 +152,6 @@
       "summary": "KOTA KINABALU, Aug 12 — The relevant agencies have been called on to undertake a comprehensive security audit of K...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Sarawak air quality stays unhealthy in nine areas as transboundary haze persists",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/sarawak-air-quality-stays-unhealthy-in-nine-areas-as-transboundary-haze-persists/231025",
-      "source": "Malay Mail",
-      "published": "2026-08-12T02:10:04",
-      "summary": "KUCHING, Aug 12 — The air quality in nine areas in Sarawak was at an unhealthy level as at 8 am today due to trans...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
