@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-12T23:38:20.511751",
+  "fetched": "2026-08-13T01:48:02.563308",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Explainer: MediAsas Just Regular Private Health Insurance With Pre-Existing Condition Exclusions",
@@ -114,24 +114,14 @@
       "keywords_matched": []
     },
     {
-      "title": "Haze worsens in Malaysia as 11 stations record unhealthy API, Serian reaches 204",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/haze-hits-malaysia-as-12-air-monitoring-stations-record-unhealthy-api-readings/231096",
+      "title": "Port Klang shophouse fire kills man and eight-year-old nephew, two others hospitalised",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/port-klang-shophouse-fire-kills-man-and-eight-year-old-nephew-two-others-hospitalised/231144",
       "source": "Malay Mail",
-      "published": "2026-08-12T09:23:07",
-      "summary": "KUALA LUMPUR, Aug 12 — Malaysia has been experiencing haze since August 8, with 11 air monitoring stations recordi...",
+      "published": "2026-08-13T01:21:11",
+      "summary": "SHAH ALAM, Aug 13 — A 66-year-old man and his eight-year-old nephew died, while two others suffered breathing diff...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Got haze health worries? Ministry steps up monitoring, medical readiness",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/12/got-haze-health-worries-ministry-steps-up-monitoring-medical-readiness/231095",
-      "source": "Malay Mail",
-      "published": "2026-08-12T09:33:24",
-      "summary": "PUTRAJAYA, Aug 12 — The Health Ministry (MOH) is strengthening surveillance of haze-related illnesses at health fa...",
-      "keywords_matched": [
-        "health",
-        "medical"
+        "hospital",
+        "hospital"
       ]
     }
   ]
