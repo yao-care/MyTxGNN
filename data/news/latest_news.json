@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-13T11:42:56.008354",
+  "fetched": "2026-08-13T13:04:30.554307",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 16,
+  "total_items": 17,
   "items": [
     {
       "title": "The Role Of A Healthy Diet In Supporting The Brain Across The Lifespan — Thilagavathy Muniandy, Thilagavathi Subramaniam, and Kala Raani Chandra Guindan",
@@ -107,6 +107,16 @@
       "summary": "MMA protests against an insurer’s RM50 limit for GP visits, pointing out that RM50 for consultation and meds was inadequate as far back as 2018, nearly a decade ago. AIA touts the primary care benefit in its new medical plan as the first in the market. The post MMA Slams Insurer’s RM50 Limit For GP Visits appeared first on CodeBlue .",
       "keywords_matched": [
         "medical"
+      ]
+    },
+    {
+      "title": "No tyre marks, no crushed bones: Defence challenges eyewitness accounts in murder trial of senior cop accused of running down teen with Ativa",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/no-tyre-marks-no-crushed-bones-defence-challenges-eyewitness-accounts-in-murder-trial-of-senior-cop-accused-of-running-down-teen-with-ativa/231267",
+      "source": "Malay Mail",
+      "published": "2026-08-13T12:12:09",
+      "summary": "IPOH, Aug 13 — The High Court here today heard that 17-year-old Muhammad Zaharif Affendi Muhd Zamrie was not run o...",
+      "keywords_matched": [
+        "trial"
       ]
     },
     {
