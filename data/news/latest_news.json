@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-13T01:48:02.563308",
+  "fetched": "2026-08-13T04:09:35.787809",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,27 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Beyond Post-Basic: Why Malaysia Must Invest In Advanced Practice Nurses — Sakinah Awang @ Harun & Noor Hasliza Che Seman",
+      "url": "https://codeblue.galencentre.org/2026/08/beyond-post-basic-why-malaysia-must-invest-in-advanced-practice-nurses-sakinah-awang-harun-noor-hasliza-che-seman/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-13T03:30:00",
+      "summary": "Advanced Practice Nurses are uniquely positioned to manage complex patient profiles, lead quality improvement initiatives, and drive health care innovation. But we are failing to fully leverage this potential due to deeply entrenched systemic barriers. The post Beyond Post-Basic: Why Malaysia Must Invest In Advanced Practice Nurses — Sakinah Awang @ Harun & Noor Hasliza Che Seman appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "patient"
+      ]
+    },
+    {
+      "title": "When The Accused Becomes The Victim: The Workplace Danger We Must Discuss — Dr James Jeremiah",
+      "url": "https://codeblue.galencentre.org/2026/08/when-the-accused-becomes-the-victim-the-workplace-danger-we-must-discuss-dr-james-jeremiah/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-13T02:00:00",
+      "summary": "A workplace dispute escalates, perhaps over promotion, performance, or personal conflict. An allegation of sexual harassment is then made. Almost immediately, he may be suspended, isolated, and presumed guilty in practice, even if not in principle. The post When The Accused Becomes The Victim: The Workplace Danger We Must Discuss — Dr James Jeremiah appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Explainer: MediAsas Just Regular Private Health Insurance With Pre-Existing Condition Exclusions",
       "url": "https://codeblue.galencentre.org/2026/08/explainer-mediasas-just-regular-private-health-insurance-with-pre-existing-condition-exclusions/",
@@ -93,25 +112,24 @@
       ]
     },
     {
-      "title": "JPA Already Granted Autonomy To MOH: Johor MB",
-      "url": "https://codeblue.galencentre.org/2026/08/jpa-already-granted-autonomy-to-moh-johor-mb/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-07T09:36:40",
-      "summary": "Johor MB Onn Hafiz says he's merely demanding that MOH fulfil its promise to post health workers to the state amid a \"critical\" shortage of doctors and nurses hampering various hospitals, pointing out that JPA already gave MOH autonomy to manage positions. The post JPA Already Granted Autonomy To MOH: Johor MB appeared first on CodeBlue .",
+      "title": "Unhealthy air quality recorded in 11 areas nationwide, Sarawak worst hit",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/unhealthy-air-quality-recorded-in-11-areas-nationwide-sarawak-worst-hit/231163",
+      "source": "Malay Mail",
+      "published": "2026-08-13T02:22:31",
+      "summary": "KUALA LUMPUR, Aug 13 — As of 9am today, air quality in 11 areas across the country is at unhealthy levels, with Sa...",
       "keywords_matched": [
-        "health",
-        "hospital",
-        "doctor",
-        "hospital"
+        "health"
       ]
     },
     {
-      "title": "Looking Beyond Straight Teeth: A Case For Earlier Orthodontic Assessment — Dr Caren Lwi Yee Chin",
-      "url": "https://codeblue.galencentre.org/2026/08/looking-beyond-straight-teeth-a-case-for-earlier-orthodontic-assessment-dr-caren-lwi-yee-chin/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-07T08:20:54",
-      "summary": "A child who presented with retained baby teeth reminded me that early orthodontic assessment is not about starting braces sooner, but about recognising developmental concerns early enough to provide timely, coordinated care. The post Looking Beyond Straight Teeth: A Case For Earlier Orthodontic Assessment — Dr Caren Lwi Yee Chin appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Seven areas in Sarawak record unhealthy API levels, down from nine",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/seven-areas-in-sarawak-record-unhealthy-api-levels-down-from-nine/231160",
+      "source": "Malay Mail",
+      "published": "2026-08-13T02:15:52",
+      "summary": "KUCHING, Aug 13 — Seven areas in Sarawak recorded unhealthy Air Pollution Index (API) readings due to transboundar...",
+      "keywords_matched": [
+        "health"
+      ]
     },
     {
       "title": "Port Klang shophouse fire kills man and eight-year-old nephew, two others hospitalised",
