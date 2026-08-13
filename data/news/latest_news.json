@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-13T10:02:04.311943",
+  "fetched": "2026-08-13T11:42:56.008354",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 16,
   "items": [
     {
       "title": "The Role Of A Healthy Diet In Supporting The Brain Across The Lifespan — Thilagavathy Muniandy, Thilagavathi Subramaniam, and Kala Raani Chandra Guindan",
@@ -110,6 +110,26 @@
       ]
     },
     {
+      "title": "If it feels like this haze has been here forever, you’re right — and 10 areas in Klang Valley and Sarawak are still recording unhealthy air pollution levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/if-it-feels-like-this-haze-has-been-here-forever-youre-right-and-10-areas-in-klang-valley-and-sarawak-are-still-recording-unhealthy-air-pollution-levels/231260",
+      "source": "Malay Mail",
+      "published": "2026-08-13T10:17:56",
+      "summary": "KUALA LUMPUR, Aug 13 — A total of 10 areas nationwide recorded unhealthy Air Pollutant Index (API) readings as of...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "1MDB strikes a deal to drop its civil suit against former CFO, trial continues for Najib and five others",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/1mdb-strikes-a-deal-to-drop-its-civil-suit-against-former-cfo-trial-continues-for-najib-and-five-others/231259",
+      "source": "Malay Mail",
+      "published": "2026-08-13T10:30:04",
+      "summary": "KUALA LUMPUR, Aug 13 — 1Malaysia Development Berhad (1MDB) and its former chief financial officer (CFO) Radhi Moha...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
       "title": "Cough and flu remedies flying off the shelves as Sibu’s haze refuses to clear",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/13/cough-and-flu-remedies-flying-off-the-shelves-as-sibus-haze-refuses-to-clear/231248",
       "source": "Malay Mail",
@@ -147,17 +167,6 @@
       "summary": "SHAH ALAM, Aug 13 — A 15-year-old boy, on trial for the murder of a female student at a secondary school in Bandar...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "If you have type O or AB blood, Johor’s Hospital Sultanah Aminah really needs you to come forward this weekend",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/if-you-have-type-o-or-ab-blood-johors-hospital-sultanah-aminah-really-needs-you-to-come-forward-this-weekend/231217",
-      "source": "Malay Mail",
-      "published": "2026-08-13T08:29:39",
-      "summary": "JOHOR BAHRU, Aug 13 — Hospital Sultanah Aminah (HSA) has issued an urgent appeal for type O and AB blood donors as...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
