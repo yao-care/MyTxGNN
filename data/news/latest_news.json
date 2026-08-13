@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-13T04:09:35.787809",
+  "fetched": "2026-08-13T06:14:32.340213",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "title": "Beyond Post-Basic: Why Malaysia Must Invest In Advanced Practice Nurses — Sakinah Awang @ Harun & Noor Hasliza Che Seman",
@@ -112,6 +112,26 @@
       ]
     },
     {
+      "title": "Meth, heroin and cannabis worth RM18,500 found inside a Lumut police cell, and a cop's in trouble too",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/meth-heroin-and-cannabis-worth-rm18500-found-inside-a-lumut-police-cell-and-a-cops-in-trouble-too/231197",
+      "source": "Malay Mail",
+      "published": "2026-08-13T05:29:17",
+      "summary": "IPOH, Aug 13 — Three men, including a police constable, were arrested after police seized drugs worth RM18,534 at...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Transport minister urges commercial vehicle drivers to make RM30 health screening count as fewer than 20 sign up",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/transport-minister-urges-commercial-vehicle-drivers-to-make-rm30-health-screening-count-as-fewer-than-20-sign-up/231196",
+      "source": "Malay Mail",
+      "published": "2026-08-13T05:12:39",
+      "summary": "KUALA LUMPUR, Aug 13 — Fewer than 20 commercial vehicle drivers have taken up the government’s subsidised he...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Unhealthy air quality recorded in 11 areas nationwide, Sarawak worst hit",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/13/unhealthy-air-quality-recorded-in-11-areas-nationwide-sarawak-worst-hit/231163",
       "source": "Malay Mail",
@@ -129,17 +149,6 @@
       "summary": "KUCHING, Aug 13 — Seven areas in Sarawak recorded unhealthy Air Pollution Index (API) readings due to transboundar...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Port Klang shophouse fire kills man and eight-year-old nephew, two others hospitalised",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/port-klang-shophouse-fire-kills-man-and-eight-year-old-nephew-two-others-hospitalised/231144",
-      "source": "Malay Mail",
-      "published": "2026-08-13T01:21:11",
-      "summary": "SHAH ALAM, Aug 13 — A 66-year-old man and his eight-year-old nephew died, while two others suffered breathing diff...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
