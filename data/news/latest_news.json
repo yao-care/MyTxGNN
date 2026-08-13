@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-13T08:18:33.227795",
+  "fetched": "2026-08-13T10:02:04.311943",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 15,
   "items": [
     {
       "title": "The Role Of A Healthy Diet In Supporting The Brain Across The Lifespan — Thilagavathy Muniandy, Thilagavathi Subramaniam, and Kala Raani Chandra Guindan",
@@ -110,6 +110,36 @@
       ]
     },
     {
+      "title": "Cough and flu remedies flying off the shelves as Sibu’s haze refuses to clear",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/cough-and-flu-remedies-flying-off-the-shelves-as-sibus-haze-refuses-to-clear/231248",
+      "source": "Malay Mail",
+      "published": "2026-08-13T09:09:15",
+      "summary": "SIBU, Aug 13 — The haze situation in Sibu remained at an unhealthy level today, with the Air Pollutant Index (API) recor...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "As air quality turns unhealthy at Minden, Penang exco urges public to limit outdoor activities",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/as-air-quality-turns-unhealthy-at-minden-penang-exco-urges-public-to-limit-outdoor-activities/231242",
+      "source": "Malay Mail",
+      "published": "2026-08-13T08:46:05",
+      "summary": "GEORGE TOWN, Aug 13 — Air quality in parts of Penang reached unhealthy levels today, with the Minden monitoring st...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Malaysian police granted access to question pilot detained in Jakarta over drug case, says home minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/malaysian-police-granted-access-to-question-pilot-detained-in-jakarta-over-drug-case-says-home-minister/231234",
+      "source": "Malay Mail",
+      "published": "2026-08-13T08:19:40",
+      "summary": "SUBANG, Aug 13 — Indonesian authorities have reportedly allowed Malaysian police investigators to question a Malay...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "Bandar Utama murder trial: Teen in dock says sorry in court over schoolmate’s death",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/13/bandar-utama-murder-trial-teen-in-dock-says-sorry-in-court-over-schoolmates-death/231231",
       "source": "Malay Mail",
@@ -120,23 +150,14 @@
       ]
     },
     {
-      "title": "Meth, heroin and cannabis worth RM18,500 found inside a Lumut police cell, and a cop's in trouble too",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/meth-heroin-and-cannabis-worth-rm18500-found-inside-a-lumut-police-cell-and-a-cops-in-trouble-too/231197",
+      "title": "If you have type O or AB blood, Johor’s Hospital Sultanah Aminah really needs you to come forward this weekend",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/if-you-have-type-o-or-ab-blood-johors-hospital-sultanah-aminah-really-needs-you-to-come-forward-this-weekend/231217",
       "source": "Malay Mail",
-      "published": "2026-08-13T05:29:17",
-      "summary": "IPOH, Aug 13 — Three men, including a police constable, were arrested after police seized drugs worth RM18,534 at...",
+      "published": "2026-08-13T08:29:39",
+      "summary": "JOHOR BAHRU, Aug 13 — Hospital Sultanah Aminah (HSA) has issued an urgent appeal for type O and AB blood donors as...",
       "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Transport minister urges commercial vehicle drivers to make RM30 health screening count as fewer than 20 sign up",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/transport-minister-urges-commercial-vehicle-drivers-to-make-rm30-health-screening-count-as-fewer-than-20-sign-up/231196",
-      "source": "Malay Mail",
-      "published": "2026-08-13T05:12:39",
-      "summary": "KUALA LUMPUR, Aug 13 — Fewer than 20 commercial vehicle drivers have taken up the government’s subsidised he...",
-      "keywords_matched": [
-        "health"
+        "hospital",
+        "hospital"
       ]
     }
   ]
