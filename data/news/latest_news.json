@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-13T06:14:32.340213",
+  "fetched": "2026-08-13T08:18:33.227795",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
+    {
+      "title": "The Role Of A Healthy Diet In Supporting The Brain Across The Lifespan — Thilagavathy Muniandy, Thilagavathi Subramaniam, and Kala Raani Chandra Guindan",
+      "url": "https://codeblue.galencentre.org/2026/08/the-role-of-a-healthy-diet-in-supporting-the-brain-across-the-lifespan-thilagavathy-muniandy-thilagavathi-subramaniam-and-kala-raani-chandra-guindan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-13T07:31:54",
+      "summary": "Combined with regular physical activity, adequate sleep, and lifelong mental stimulation, healthy eating remains one of the most practical and accessible strategies for maintaining brain health and promoting healthy ageing. The post The Role Of A Healthy Diet In Supporting The Brain Across The Lifespan — Thilagavathy Muniandy, Thilagavathi Subramaniam, and Kala Raani Chandra Guindan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Know What You’re Paying For: Insurance/Takaful Agents’ Caution About MediAsas",
+      "url": "https://codeblue.galencentre.org/2026/08/know-what-youre-paying-for-insurance-takaful-agents-caution-about-mediasas/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-13T07:17:18",
+      "summary": "Insurance/takaful agents advise consumers to understand MediAsas benefits and T&C, like annual limit, exclusions, and copayments, before buying the medical plan. Just because it's \"cheap\" doesn't necessarily mean better value or that it's suitable for you. The post Know What You’re Paying For: Insurance/Takaful Agents’ Caution About MediAsas appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Beyond Post-Basic: Why Malaysia Must Invest In Advanced Practice Nurses — Sakinah Awang @ Harun & Noor Hasliza Che Seman",
       "url": "https://codeblue.galencentre.org/2026/08/beyond-post-basic-why-malaysia-must-invest-in-advanced-practice-nurses-sakinah-awang-harun-noor-hasliza-che-seman/",
@@ -90,25 +110,13 @@
       ]
     },
     {
-      "title": "Malaysia Needs A Smarter Tobacco And Nicotine Endgame — Kingsun Lim",
-      "url": "https://codeblue.galencentre.org/2026/08/malaysia-needs-a-smarter-tobacco-and-nicotine-endgame-kingsun-lim/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-10T02:21:56",
-      "summary": "If Malaysia is to achieve its target of 5 per cent smoking prevalence by 2045, policymakers must look past idealistic short-term regulatory mechanisms and focus on implementing an adaptive, market-aware sequencing model. The post Malaysia Needs A Smarter Tobacco And Nicotine Endgame — Kingsun Lim appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "How Non-Doctors Successfully Run Private Hospitals In Malaysia",
-      "url": "https://codeblue.galencentre.org/2026/08/how-non-doctors-successfully-run-private-hospitals-in-malaysia/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-10T02:00:00",
-      "summary": "PCMC CEO Tan Sok Kheng, Columbia Asia regional CEO Engku Marina and Asia OneHealthcare regional CEO/SJMC CEO Bryan Lin reveal how they run hospitals as non-doctors. Tan is a pharmacist by training; the others have qualifications in health admin/management. The post How Non-Doctors Successfully Run Private Hospitals In Malaysia appeared first on CodeBlue .",
+      "title": "Bandar Utama murder trial: Teen in dock says sorry in court over schoolmate’s death",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/bandar-utama-murder-trial-teen-in-dock-says-sorry-in-court-over-schoolmates-death/231231",
+      "source": "Malay Mail",
+      "published": "2026-08-13T07:57:42",
+      "summary": "SHAH ALAM, Aug 13 — A 15-year-old boy, on trial for the murder of a female student at a secondary school in Bandar...",
       "keywords_matched": [
-        "health",
-        "hospital",
-        "doctor",
-        "hospital",
-        "PCM"
+        "trial"
       ]
     },
     {
@@ -127,26 +135,6 @@
       "source": "Malay Mail",
       "published": "2026-08-13T05:12:39",
       "summary": "KUALA LUMPUR, Aug 13 — Fewer than 20 commercial vehicle drivers have taken up the government’s subsidised he...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Unhealthy air quality recorded in 11 areas nationwide, Sarawak worst hit",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/unhealthy-air-quality-recorded-in-11-areas-nationwide-sarawak-worst-hit/231163",
-      "source": "Malay Mail",
-      "published": "2026-08-13T02:22:31",
-      "summary": "KUALA LUMPUR, Aug 13 — As of 9am today, air quality in 11 areas across the country is at unhealthy levels, with Sa...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Seven areas in Sarawak record unhealthy API levels, down from nine",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/seven-areas-in-sarawak-record-unhealthy-api-levels-down-from-nine/231160",
-      "source": "Malay Mail",
-      "published": "2026-08-13T02:15:52",
-      "summary": "KUCHING, Aug 13 — Seven areas in Sarawak recorded unhealthy Air Pollution Index (API) readings due to transboundar...",
       "keywords_matched": [
         "health"
       ]
