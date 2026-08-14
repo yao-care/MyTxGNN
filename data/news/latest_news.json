@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-14T04:06:10.786669",
+  "fetched": "2026-08-14T06:11:11.053394",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
+    {
+      "title": "So, You’re The One Who Took My Salary Increment? — Sandra Laxmana",
+      "url": "https://codeblue.galencentre.org/2026/08/so-youre-the-one-who-took-my-salary-increment-sandra-laxmana/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-14T06:00:00",
+      "summary": "Transparency can make us uncomfortable because it exposes differences we might prefer not to see. But secrecy has its own price. It allows inequality, favouritism and poor decisions to exist without scrutiny. The post So, You’re The One Who Took My Salary Increment? — Sandra Laxmana appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Private Hospitals See Rise In Dengue Fever Admissions",
       "url": "https://codeblue.galencentre.org/2026/08/private-hospitals-see-rise-in-dengue-fever-admissions/",
@@ -101,16 +109,6 @@
       ]
     },
     {
-      "title": "Drug Testing Must Be Reliable, Fair, And Difficult To Tamper With — Dr Steven Chow",
-      "url": "https://codeblue.galencentre.org/2026/08/drug-testing-must-be-reliable-fair-and-difficult-to-tamper-with-dr-steven-chow/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-10T07:30:00",
-      "summary": "Drug tests must be reliable, the sample must be genuine, and the person being tested must be treated fairly. The post Drug Testing Must Be Reliable, Fair, And Difficult To Tamper With — Dr Steven Chow appeared first on CodeBlue .",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
       "title": "Serian has Malaysia’s worst air quality with API at 183, Kuching and Samarahan tie at 171 while Cheras chokes in the peninsula",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/14/serian-has-malaysias-worst-air-quality-with-api-at-183-kuching-and-samarahan-tie-at-171-while-cheras-chokes-in-the-peninsula/231303",
       "source": "Malay Mail",
@@ -128,16 +126,6 @@
       "summary": "GEORGE TOWN, Aug 14 — Schools in areas recording an unhealthy Air Pollutant Index (API) reading will be required t...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "No tyre marks, no crushed bones: Defence challenges eyewitness accounts in murder trial of senior cop accused of running down teen with Ativa",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/no-tyre-marks-no-crushed-bones-defence-challenges-eyewitness-accounts-in-murder-trial-of-senior-cop-accused-of-running-down-teen-with-ativa/231267",
-      "source": "Malay Mail",
-      "published": "2026-08-13T12:12:09",
-      "summary": "IPOH, Aug 13 — The High Court here today heard that 17-year-old Muhammad Zaharif Affendi Muhd Zamrie was not run o...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
