@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-14T09:58:17.236122",
+  "fetched": "2026-08-14T11:01:20.326794",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "title": "When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee",
@@ -135,16 +135,6 @@
       "summary": "KUALA LUMPUR, Aug 14 — Police are pursuing members of a drug syndicate in Malaysia after a Malaysia Airlines pilot...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Jobless single dad claims trial to robbing and injuring mum with baby at Batu Gajah house",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/14/jobless-single-dad-claims-trial-to-robbing-and-injuring-mum-with-baby-at-batu-gajah-house/231354",
-      "source": "Malay Mail",
-      "published": "2026-08-14T07:59:30",
-      "summary": "IPOH, Aug 14 — An unemployed man pleaded not guilty in the Sessions Court here today to a charge of robbing and ca...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
