@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-13T23:38:13.158334",
+  "fetched": "2026-08-14T01:45:55.800294",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 17,
+  "total_items": 16,
   "items": [
     {
       "title": "The Role Of A Healthy Diet In Supporting The Brain Across The Lifespan — Thilagavathy Muniandy, Thilagavathi Subramaniam, and Kala Raani Chandra Guindan",
@@ -110,6 +110,16 @@
       ]
     },
     {
+      "title": "Haze? Penang schools ready to call off outdoor activities once API crosses 100, shut if over 200",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/14/haze-penang-schools-ready-to-call-off-outdoor-activities-once-api-crosses-100-shut-if-over-200/231279",
+      "source": "Malay Mail",
+      "published": "2026-08-14T00:54:16",
+      "summary": "GEORGE TOWN, Aug 14 — Schools in areas recording an unhealthy Air Pollutant Index (API) reading will be required t...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "No tyre marks, no crushed bones: Defence challenges eyewitness accounts in murder trial of senior cop accused of running down teen with Ativa",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/13/no-tyre-marks-no-crushed-bones-defence-challenges-eyewitness-accounts-in-murder-trial-of-senior-cop-accused-of-running-down-teen-with-ativa/231267",
       "source": "Malay Mail",
@@ -157,26 +167,6 @@
       "summary": "GEORGE TOWN, Aug 13 — Air quality in parts of Penang reached unhealthy levels today, with the Minden monitoring st...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Malaysian police granted access to question pilot detained in Jakarta over drug case, says home minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/malaysian-police-granted-access-to-question-pilot-detained-in-jakarta-over-drug-case-says-home-minister/231234",
-      "source": "Malay Mail",
-      "published": "2026-08-13T08:19:40",
-      "summary": "SUBANG, Aug 13 — Indonesian authorities have reportedly allowed Malaysian police investigators to question a Malay...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Bandar Utama murder trial: Teen in dock says sorry in court over schoolmate’s death",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/13/bandar-utama-murder-trial-teen-in-dock-says-sorry-in-court-over-schoolmates-death/231231",
-      "source": "Malay Mail",
-      "published": "2026-08-13T07:57:42",
-      "summary": "SHAH ALAM, Aug 13 — A 15-year-old boy, on trial for the murder of a female student at a secondary school in Bandar...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
