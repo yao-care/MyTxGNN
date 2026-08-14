@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-14T08:13:26.331389",
+  "fetched": "2026-08-14T09:58:17.236122",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
     {
       "title": "When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee",
@@ -107,7 +107,28 @@
       "keywords_matched": []
     },
     {
-      "title": "Bukit Aman say they know how MAS pilot cleared KLIA checks after three-day interrogation",
+      "title": "‘Datuk Seri’ businessman claims trial to RM37.1m company funds breach of trust at Bukit Tunku bank",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/14/datuk-seri-businessman-claims-trial-to-rm371m-company-funds-breach-of-trust-at-bukit-tunku-bank/231369",
+      "source": "Malay Mail",
+      "published": "2026-08-14T08:47:45",
+      "summary": "KUALA LUMPUR, Aug 14 — A businessman with a “Datuk Seri” title pleaded not guilty in the Sessions Cour...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Bukit Mertajam Hospital makes global green list, ranks among world’s top 250",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/14/bukit-mertajam-hospital-makes-global-green-list-ranks-among-worlds-top-250/231365",
+      "source": "Malay Mail",
+      "published": "2026-08-14T08:51:17",
+      "summary": "BUKIT MERTAJAM, Aug 14 — Bukit Mertajam Hospital (HBM) here has made history by being ranked among the 250 greenes...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Bukit Aman say they know how Malaysia Airlines pilot cleared KLIA checks after three-day interrogation",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/14/bukit-aman-say-they-know-how-mas-pilot-cleared-klia-checks-after-three-day-interrogation/231361",
       "source": "Malay Mail",
       "published": "2026-08-14T08:10:39",
