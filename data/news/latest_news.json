@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-15T08:24:18.353420",
+  "fetched": "2026-08-15T09:23:27.245119",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee",
@@ -114,6 +114,19 @@
       "summary": "KOTA KINABALU, Aug 15 — The Ministry of Health (MOH) is strengthening three key strategies under the country&rsquo...",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Sabah hospital sexual harassment case: MOH moves director out, complainant under treatment, PSD to decide next step",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/15/sabah-hospital-sexual-harassment-case-moh-moves-director-out-complainant-under-treatment-psd-to-decide-next-step/231476",
+      "source": "Malay Mail",
+      "published": "2026-08-15T08:24:42",
+      "summary": "KOTA KINABALU, Aug 15 — The Health Ministry has completed its internal investigation into an alleged sexual harass...",
+      "keywords_matched": [
+        "health",
+        "treatment",
+        "hospital",
+        "hospital"
       ]
     }
   ]
