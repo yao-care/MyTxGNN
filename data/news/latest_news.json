@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-16T07:28:31.581837",
+  "fetched": "2026-08-16T08:26:10.155630",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee",
@@ -105,6 +105,16 @@
       "published": "2026-08-13T02:00:00",
       "summary": "A workplace dispute escalates, perhaps over promotion, performance, or personal conflict. An allegation of sexual harassment is then made. Almost immediately, he may be suspended, isolated, and presumed guilty in practice, even if not in principle. The post When The Accused Becomes The Victim: The Workplace Danger We Must Discuss — Dr James Jeremiah appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Dungun doctor duped in forex, Ethereum scam, loses RM558,000 through 77 transactions",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/dungun-doctor-duped-in-forex-ethereum-scam-loses-rm558000-through-77-transactions/231586",
+      "source": "Malay Mail",
+      "published": "2026-08-16T08:03:42",
+      "summary": "DUNGUN, Aug 16 — A female doctor at a private clinic here lost RM558,000 after falling victim to an online forex a...",
+      "keywords_matched": [
+        "doctor"
+      ]
     },
     {
       "title": "Sarawak skies turn grey, DOE warns haze plumes from Kalimantan push API into danger zone",
