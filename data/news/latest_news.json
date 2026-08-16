@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-16T22:18:18.151844",
+  "fetched": "2026-08-16T23:16:43.281316",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 16,
+  "total_items": 17,
   "items": [
     {
       "title": "When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee",
@@ -105,6 +105,18 @@
       "published": "2026-08-13T02:00:00",
       "summary": "A workplace dispute escalates, perhaps over promotion, performance, or personal conflict. An allegation of sexual harassment is then made. Almost immediately, he may be suspended, isolated, and presumed guilty in practice, even if not in principle. The post When The Accused Becomes The Victim: The Workplace Danger We Must Discuss — Dr James Jeremiah appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Explained: Can a person be charged in a Malaysian hospital instead of a courtroom?",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/explained-can-a-person-be-charged-in-a-malaysian-hospital-instead-of-a-courtroom/231271",
+      "source": "Malay Mail",
+      "published": "2026-08-16T23:00:00",
+      "summary": "KUALA LUMPUR, Aug 17 — Did you know that an accused person can be charged or face trial while hospitali...",
+      "keywords_matched": [
+        "hospital",
+        "trial",
+        "hospital"
+      ]
     },
     {
       "title": "Malaysian pilot detained in Jakarta, accused of smuggling RM45m drugs abroad since 2024",
