@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-16T11:17:46.598696",
+  "fetched": "2026-08-16T12:34:03.567473",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 16,
   "items": [
     {
       "title": "When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee",
@@ -107,6 +107,39 @@
       "keywords_matched": []
     },
     {
+      "title": "Malaysian pilot detained in Jakarta, accused of smuggling RM45m drugs abroad since 2024",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/malaysian-pilot-detained-in-jakarta-accused-of-smuggling-rm45m-drugs-abroad-since-2024/231615",
+      "source": "Malay Mail",
+      "published": "2026-08-16T12:20:50",
+      "summary": "KUALA LUMPUR, Aug 16 — A local airline pilot, who was arrested in Indonesia last month in connection with the disc...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Minister calls nine‑year abandoned Tambunan Hospital project ‘sick’, pledges RM988,000 for urgent upgrades",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/minister-calls-nineyear-abandoned-tambunan-hospital-project-sick-pledges-rm988000-for-urgent-upgrades/231614",
+      "source": "Malay Mail",
+      "published": "2026-08-16T12:11:52",
+      "summary": "KOTA KINABALU, Aug 16 — The new Outpatient Department (OPD) building project at Tambunan Hospital, which has been...",
+      "keywords_matched": [
+        "hospital",
+        "patient",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Kelantan Health Department to monitor baby girl’s growth after testing positive for drugs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/kelantan-health-department-to-monitor-baby-girls-growth-after-testing-positive-for-drugs/231610",
+      "source": "Malay Mail",
+      "published": "2026-08-16T11:17:38",
+      "summary": "KOTA BHARU, Aug 16 — The Kelantan Health Department (JKNK) will continue to monitor the development of a baby girl...",
+      "keywords_matched": [
+        "health",
+        "drug"
+      ]
+    },
+    {
       "title": "Saifuddin Nasution warns poverty and drugs, not racial fears, are Malays’ real enemies",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/16/saifuddin-nasution-warns-poverty-and-drugs-not-racial-fears-are-malays-real-enemies/231606",
       "source": "Malay Mail",
@@ -134,16 +167,6 @@
       "summary": "DUNGUN, Aug 16 — A female doctor at a private clinic here lost RM558,000 after falling victim to an online forex a...",
       "keywords_matched": [
         "doctor"
-      ]
-    },
-    {
-      "title": "Sarawak skies turn grey, DOE warns haze plumes from Kalimantan push API into danger zone",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/sarawak-skies-turn-grey-doe-warns-haze-plumes-from-kalimantan-push-api-into-danger-zone/231571",
-      "source": "Malay Mail",
-      "published": "2026-08-16T06:18:41",
-      "summary": "KUALA LUMPUR, Aug 16 — Three areas in Sarawak recorded unhealthy Air Pollutant Index (API) readings as of 11am tod...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
