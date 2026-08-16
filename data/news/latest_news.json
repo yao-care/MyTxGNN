@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-16T10:19:56.597408",
+  "fetched": "2026-08-16T11:17:46.598696",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
     {
       "title": "When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee",
@@ -105,6 +105,26 @@
       "published": "2026-08-13T02:00:00",
       "summary": "A workplace dispute escalates, perhaps over promotion, performance, or personal conflict. An allegation of sexual harassment is then made. Almost immediately, he may be suspended, isolated, and presumed guilty in practice, even if not in principle. The post When The Accused Becomes The Victim: The Workplace Danger We Must Discuss — Dr James Jeremiah appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Saifuddin Nasution warns poverty and drugs, not racial fears, are Malays’ real enemies",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/saifuddin-nasution-warns-poverty-and-drugs-not-racial-fears-are-malays-real-enemies/231606",
+      "source": "Malay Mail",
+      "published": "2026-08-16T10:39:30",
+      "summary": "MELAKA, Aug 16 — The position of Malays in the country is not threatened by the existence of other races, but by p...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Three towns choke on unhealthy API, Serian tops list as haze blankets Malaysia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/three-towns-choke-on-unhealthy-api-serian-tops-list-as-haze-blankets-malaysia/231603",
+      "source": "Malay Mail",
+      "published": "2026-08-16T10:27:59",
+      "summary": "KUALA LUMPUR, Aug 16 — Three areas, including two in Sarawak, recorded unhealthy Air Pollutant Index (API) reading...",
+      "keywords_matched": [
+        "health"
+      ]
     },
     {
       "title": "Dungun doctor duped in forex, Ethereum scam, loses RM558,000 through 77 transactions",
