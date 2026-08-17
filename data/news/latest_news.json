@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-17T04:38:40.190521",
+  "fetched": "2026-08-17T05:32:36.956982",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 13,
   "items": [
     {
       "title": "Ex-Hospital Director Mulling Legal Action Against Transfer: Lawyer",
@@ -137,29 +137,6 @@
       "published": "2026-08-16T12:20:50",
       "summary": "KUALA LUMPUR, Aug 16 — A local airline pilot, who was arrested in Indonesia last month in connection with the disc...",
       "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Minister calls nine‑year abandoned Tambunan Hospital project ‘sick’, pledges RM988,000 for urgent upgrades",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/minister-calls-nineyear-abandoned-tambunan-hospital-project-sick-pledges-rm988000-for-urgent-upgrades/231614",
-      "source": "Malay Mail",
-      "published": "2026-08-16T12:11:52",
-      "summary": "KOTA KINABALU, Aug 16 — The new Outpatient Department (OPD) building project at Tambunan Hospital, which has been...",
-      "keywords_matched": [
-        "hospital",
-        "patient",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Kelantan Health Department to monitor baby girl’s growth after testing positive for drugs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/kelantan-health-department-to-monitor-baby-girls-growth-after-testing-positive-for-drugs/231610",
-      "source": "Malay Mail",
-      "published": "2026-08-16T11:17:38",
-      "summary": "KOTA BHARU, Aug 16 — The Kelantan Health Department (JKNK) will continue to monitor the development of a baby girl...",
-      "keywords_matched": [
-        "health",
         "drug"
       ]
     }
