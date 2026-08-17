@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-17T03:52:06.157026",
+  "fetched": "2026-08-17T04:38:40.190521",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 17,
+  "total_items": 15,
   "items": [
+    {
+      "title": "Ex-Hospital Director Mulling Legal Action Against Transfer: Lawyer",
+      "url": "https://codeblue.galencentre.org/2026/08/ex-hospital-director-mulling-legal-action-against-transfer-lawyer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-17T04:00:00",
+      "summary": "An ex-hospital director's lawyer says her client is considering legal action against the government over his transfer to JKN Sabah because he wasn't given the right to be heard, nor informed about the findings of an internal probe into sexual harassment. The post Ex-Hospital Director Mulling Legal Action Against Transfer: Lawyer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Expert: Scrap MediAsas For Excluding Pre-Existing Conditions, Seven-Year ‘No Look-Back’",
       "url": "https://codeblue.galencentre.org/2026/08/expert-scrap-mediasas-for-excluding-pre-existing-conditions-seven-year-no-look-back/",
@@ -98,17 +109,6 @@
       ]
     },
     {
-      "title": "Beyond Post-Basic: Why Malaysia Must Invest In Advanced Practice Nurses — Sakinah Awang @ Harun & Noor Hasliza Che Seman",
-      "url": "https://codeblue.galencentre.org/2026/08/beyond-post-basic-why-malaysia-must-invest-in-advanced-practice-nurses-sakinah-awang-harun-noor-hasliza-che-seman/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-13T03:30:00",
-      "summary": "Advanced Practice Nurses are uniquely positioned to manage complex patient profiles, lead quality improvement initiatives, and drive health care innovation. But we are failing to fully leverage this potential due to deeply entrenched systemic barriers. The post Beyond Post-Basic: Why Malaysia Must Invest In Advanced Practice Nurses — Sakinah Awang @ Harun & Noor Hasliza Che Seman appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "patient"
-      ]
-    },
-    {
       "title": "Sarawak air quality improves as Serian and Samarahan drop from unhealthy to moderate",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/17/sarawak-air-quality-improves-as-serian-and-samarahan-drop-from-unhealthy-to-moderate/231632",
       "source": "Malay Mail",
@@ -161,26 +161,6 @@
       "keywords_matched": [
         "health",
         "drug"
-      ]
-    },
-    {
-      "title": "Saifuddin Nasution warns poverty and drugs, not racial fears, are Malays’ real enemies",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/saifuddin-nasution-warns-poverty-and-drugs-not-racial-fears-are-malays-real-enemies/231606",
-      "source": "Malay Mail",
-      "published": "2026-08-16T10:39:30",
-      "summary": "MELAKA, Aug 16 — The position of Malays in the country is not threatened by the existence of other races, but by p...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Three towns choke on unhealthy API, Serian tops list as haze blankets Malaysia",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/three-towns-choke-on-unhealthy-api-serian-tops-list-as-haze-blankets-malaysia/231603",
-      "source": "Malay Mail",
-      "published": "2026-08-16T10:27:59",
-      "summary": "KUALA LUMPUR, Aug 16 — Three areas, including two in Sarawak, recorded unhealthy Air Pollutant Index (API) reading...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
