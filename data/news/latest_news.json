@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-17T11:22:34.300529",
+  "fetched": "2026-08-17T12:38:38.636212",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 12,
   "items": [
     {
       "title": "Ex-Hospital Director Transferred To Avoid Interference With Further Probe: Dzulkefly",
@@ -131,26 +131,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "DOE: Air quality mostly moderate nationwide, Johan Setia stands out with unhealthy reading 137",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/doe-air-quality-mostly-moderate-nationwide-johan-setia-stands-out-with-unhealthy-reading-137/231669",
-      "source": "Malay Mail",
-      "published": "2026-08-17T06:24:05",
-      "summary": "PETALING JAYA, Aug 17 — Johan Setia in Selangor recorded an Air Pollutant Index (API) of 137 at 1pm today, the onl...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Malaysia Airlines pilots cleared in drug tests, MAG moves to cabin crew screening phase",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/malaysia-airlines-pilots-cleared-in-drug-tests-mag-moves-to-cabin-crew-screening-phase/231667",
-      "source": "Malay Mail",
-      "published": "2026-08-17T06:04:37",
-      "summary": "KUALA LUMPUR, Aug 17 — Malaysia Aviation Group (MAG) has completed a mandatory drug screening for all Malaysia Air...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
