@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-16T23:16:43.281316",
+  "fetched": "2026-08-17T01:07:16.934515",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 17,
+  "total_items": 16,
   "items": [
     {
       "title": "When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee",
@@ -169,16 +169,6 @@
       "summary": "KUALA LUMPUR, Aug 16 — Three areas, including two in Sarawak, recorded unhealthy Air Pollutant Index (API) reading...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Dungun doctor duped in forex, Ethereum scam, loses RM558,000 through 77 transactions",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/dungun-doctor-duped-in-forex-ethereum-scam-loses-rm558000-through-77-transactions/231586",
-      "source": "Malay Mail",
-      "published": "2026-08-16T08:03:42",
-      "summary": "DUNGUN, Aug 16 — A female doctor at a private clinic here lost RM558,000 after falling victim to an online forex a...",
-      "keywords_matched": [
-        "doctor"
       ]
     }
   ]
