@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-17T01:07:16.934515",
+  "fetched": "2026-08-17T02:57:07.582136",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 16,
+  "total_items": 17,
   "items": [
+    {
+      "title": "Expert: Scrap MediAsas For Excluding Pre-Existing Conditions, Seven-Year ‘No Look-Back’",
+      "url": "https://codeblue.galencentre.org/2026/08/expert-scrap-mediasas-for-excluding-pre-existing-conditions-seven-year-no-look-back/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-17T02:00:00",
+      "summary": "Health financing expert Syed Aljunid wants MediAsas axed due to its pre-existing condition exclusions and 7-year moratorium before \"no look-back\" kicks in, saying MediAsas is no different from private health insurance. Millions might not get coverage. The post Expert: Scrap MediAsas For Excluding Pre-Existing Conditions, Seven-Year ‘No Look-Back’ appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee",
       "url": "https://codeblue.galencentre.org/2026/08/when-weight-loss-wins-over-wellness-the-glp-1-overflooding-in-malaysia-lisa-amanda-gintingan-ho-sweet-lee/",
@@ -99,12 +109,14 @@
       ]
     },
     {
-      "title": "When The Accused Becomes The Victim: The Workplace Danger We Must Discuss — Dr James Jeremiah",
-      "url": "https://codeblue.galencentre.org/2026/08/when-the-accused-becomes-the-victim-the-workplace-danger-we-must-discuss-dr-james-jeremiah/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-13T02:00:00",
-      "summary": "A workplace dispute escalates, perhaps over promotion, performance, or personal conflict. An allegation of sexual harassment is then made. Almost immediately, he may be suspended, isolated, and presumed guilty in practice, even if not in principle. The post When The Accused Becomes The Victim: The Workplace Danger We Must Discuss — Dr James Jeremiah appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Sarawak air quality improves as Serian and Samarahan drop from unhealthy to moderate",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/sarawak-air-quality-improves-as-serian-and-samarahan-drop-from-unhealthy-to-moderate/231632",
+      "source": "Malay Mail",
+      "published": "2026-08-17T01:47:00",
+      "summary": "KUCHING, Aug 17 — Sarawak recorded moderate air quality at all monitoring stations except Bario, where the Air Pol...",
+      "keywords_matched": [
+        "health"
+      ]
     },
     {
       "title": "Explained: Can a person be charged in a Malaysian hospital instead of a courtroom?",
