@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-17T05:32:36.956982",
+  "fetched": "2026-08-17T06:50:15.943478",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,16 @@
   ],
   "total_items": 13,
   "items": [
+    {
+      "title": "UPM, Elanco Malaysia Formalise Partnership For Veterinary Education, Research, Animal Health",
+      "url": "https://codeblue.galencentre.org/2026/08/upm-elanco-malaysia-formalise-partnership-for-veterinary-education-research-animal-health/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-17T05:40:00",
+      "summary": "Potential areas highlighted included improving access to animal health innovations, antimicrobial resistance and stewardship, antiparasitic management, veterinary education and other areas where academia and industry can jointly address emerging needs. The post UPM, Elanco Malaysia Formalise Partnership For Veterinary Education, Research, Animal Health appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Ex-Hospital Director Mulling Legal Action Against Transfer: Lawyer",
       "url": "https://codeblue.galencentre.org/2026/08/ex-hospital-director-mulling-legal-action-against-transfer-lawyer/",
@@ -99,13 +109,23 @@
       ]
     },
     {
-      "title": "Know What You’re Paying For: Insurance/Takaful Agents’ Caution About MediAsas",
-      "url": "https://codeblue.galencentre.org/2026/08/know-what-youre-paying-for-insurance-takaful-agents-caution-about-mediasas/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-13T07:17:18",
-      "summary": "Insurance/takaful agents advise consumers to understand MediAsas benefits and T&C, like annual limit, exclusions, and copayments, before buying the medical plan. Just because it's \"cheap\" doesn't necessarily mean better value or that it's suitable for you. The post Know What You’re Paying For: Insurance/Takaful Agents’ Caution About MediAsas appeared first on CodeBlue .",
+      "title": "DOE: Air quality mostly moderate nationwide, Johan Setia stands out with unhealthy reading 137",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/doe-air-quality-mostly-moderate-nationwide-johan-setia-stands-out-with-unhealthy-reading-137/231669",
+      "source": "Malay Mail",
+      "published": "2026-08-17T06:24:05",
+      "summary": "PETALING JAYA, Aug 17 — Johan Setia in Selangor recorded an Air Pollutant Index (API) of 137 at 1pm today, the onl...",
       "keywords_matched": [
-        "medical"
+        "health"
+      ]
+    },
+    {
+      "title": "Malaysia Airlines pilots cleared in drug tests, MAG moves to cabin crew screening phase",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/malaysia-airlines-pilots-cleared-in-drug-tests-mag-moves-to-cabin-crew-screening-phase/231667",
+      "source": "Malay Mail",
+      "published": "2026-08-17T06:04:37",
+      "summary": "KUALA LUMPUR, Aug 17 — Malaysia Aviation Group (MAG) has completed a mandatory drug screening for all Malaysia Air...",
+      "keywords_matched": [
+        "drug"
       ]
     },
     {
@@ -116,28 +136,6 @@
       "summary": "KUCHING, Aug 17 — Sarawak recorded moderate air quality at all monitoring stations except Bario, where the Air Pol...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Explained: Can a person be charged in a Malaysian hospital instead of a courtroom?",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/explained-can-a-person-be-charged-in-a-malaysian-hospital-instead-of-a-courtroom/231271",
-      "source": "Malay Mail",
-      "published": "2026-08-16T23:00:00",
-      "summary": "KUALA LUMPUR, Aug 17 — Did you know that an accused person can be charged or face trial while hospitali...",
-      "keywords_matched": [
-        "hospital",
-        "trial",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Malaysian pilot detained in Jakarta, accused of smuggling RM45m drugs abroad since 2024",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/16/malaysian-pilot-detained-in-jakarta-accused-of-smuggling-rm45m-drugs-abroad-since-2024/231615",
-      "source": "Malay Mail",
-      "published": "2026-08-16T12:20:50",
-      "summary": "KUALA LUMPUR, Aug 16 — A local airline pilot, who was arrested in Indonesia last month in connection with the disc...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
