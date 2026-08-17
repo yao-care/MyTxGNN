@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-17T06:50:15.943478",
+  "fetched": "2026-08-17T07:50:51.122339",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -109,6 +109,18 @@
       ]
     },
     {
+      "title": "Ministry defends transfer of Sabah hospital director amid ongoing sexual harassment probe",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/ministry-defends-transfer-of-sabah-hospital-director-amid-ongoing-sexual-harassment-probe/231676",
+      "source": "Malay Mail",
+      "published": "2026-08-17T07:20:55",
+      "summary": "KOTA KINABALU, Aug 17 — The Health Ministry’s decision to remove a Sabah hospital director from his post and...",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
       "title": "DOE: Air quality mostly moderate nationwide, Johan Setia stands out with unhealthy reading 137",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/17/doe-air-quality-mostly-moderate-nationwide-johan-setia-stands-out-with-unhealthy-reading-137/231669",
       "source": "Malay Mail",
@@ -126,16 +138,6 @@
       "summary": "KUALA LUMPUR, Aug 17 — Malaysia Aviation Group (MAG) has completed a mandatory drug screening for all Malaysia Air...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Sarawak air quality improves as Serian and Samarahan drop from unhealthy to moderate",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/sarawak-air-quality-improves-as-serian-and-samarahan-drop-from-unhealthy-to-moderate/231632",
-      "source": "Malay Mail",
-      "published": "2026-08-17T01:47:00",
-      "summary": "KUCHING, Aug 17 — Sarawak recorded moderate air quality at all monitoring stations except Bario, where the Air Pol...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
