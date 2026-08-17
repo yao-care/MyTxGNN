@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-17T07:50:51.122339",
+  "fetched": "2026-08-17T08:40:02.129606",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,21 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Ex-Hospital Director Transferred To Avoid Interference With Further Probe: Dzulkefly",
+      "url": "https://codeblue.galencentre.org/2026/08/ex-hospital-director-transferred-to-avoid-interference-with-further-probe-dzulkefly/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-17T08:16:22",
+      "summary": "Health Minister Dr Dzul says a former hospital director in Kota Kinabalu was transferred to JKNS to avoid potential interference with a further probe into sexual harassment claims and that the transfer of the medical officer wasn't a demotion of his grade. The post Ex-Hospital Director Transferred To Avoid Interference With Further Probe: Dzulkefly appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "UPM, Elanco Malaysia Formalise Partnership For Veterinary Education, Research, Animal Health",
       "url": "https://codeblue.galencentre.org/2026/08/upm-elanco-malaysia-formalise-partnership-for-veterinary-education-research-animal-health/",
@@ -99,13 +112,13 @@
       ]
     },
     {
-      "title": "The Role Of A Healthy Diet In Supporting The Brain Across The Lifespan — Thilagavathy Muniandy, Thilagavathi Subramaniam, and Kala Raani Chandra Guindan",
-      "url": "https://codeblue.galencentre.org/2026/08/the-role-of-a-healthy-diet-in-supporting-the-brain-across-the-lifespan-thilagavathy-muniandy-thilagavathi-subramaniam-and-kala-raani-chandra-guindan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-13T07:31:54",
-      "summary": "Combined with regular physical activity, adequate sleep, and lifelong mental stimulation, healthy eating remains one of the most practical and accessible strategies for maintaining brain health and promoting healthy ageing. The post The Role Of A Healthy Diet In Supporting The Brain Across The Lifespan — Thilagavathy Muniandy, Thilagavathi Subramaniam, and Kala Raani Chandra Guindan appeared first on CodeBlue .",
+      "title": "No drug cartel in Genting: Pahang police stress immediate action if reports are lodged",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/no-drug-cartel-in-genting-pahang-police-stress-immediate-action-if-reports-are-lodged/231689",
+      "source": "Malay Mail",
+      "published": "2026-08-17T08:34:00",
+      "summary": "KUANTAN, Aug 17 — Pahang police have denied viral claims on social media that a large-scale drug cartel is operati...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     },
     {
