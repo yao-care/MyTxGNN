@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-18T03:41:39.850747",
+  "fetched": "2026-08-18T04:32:36.996056",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "What Does Dignity Look Like? — Sharifah Tahir",
@@ -107,6 +107,16 @@
       "published": "2026-08-14T06:00:00",
       "summary": "Transparency can make us uncomfortable because it exposes differences we might prefer not to see. But secrecy has its own price. It allows inequality, favouritism and poor decisions to exist without scrutiny. The post So, You’re The One Who Took My Salary Increment? — Sandra Laxmana appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Home minister: Malaysia’s entry points to get security boost after drug scandal",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/18/home-minister-malaysias-entry-points-to-get-security-boost-after-drug-scandal/231762",
+      "source": "Malay Mail",
+      "published": "2026-08-18T04:03:55",
+      "summary": "PUTRAJAYA, Aug 18 — A comprehensive plan to enhance security at the country’s entry points will be pres...",
+      "keywords_matched": [
+        "drug"
+      ]
     },
     {
       "title": "Unhealthy air alert: Johan Setia in Klang hits API 157",
