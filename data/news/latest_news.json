@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-18T05:26:12.229882",
+  "fetched": "2026-08-18T06:38:41.047018",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "What Does Dignity Look Like? — Sharifah Tahir",
@@ -107,6 +107,16 @@
       "published": "2026-08-14T06:00:00",
       "summary": "Transparency can make us uncomfortable because it exposes differences we might prefer not to see. But secrecy has its own price. It allows inequality, favouritism and poor decisions to exist without scrutiny. The post So, You’re The One Who Took My Salary Increment? — Sandra Laxmana appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Home minister: Drone surveillance boosts AADK drug enforcement, identifies 23,317 suspects",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/18/home-minister-drone-surveillance-boosts-aadk-drug-enforcement-identifies-23317-suspects/231775",
+      "source": "Malay Mail",
+      "published": "2026-08-18T05:29:05",
+      "summary": "PUTRAJAYA, Aug 18 — The National Anti-Drug Agency (AADK) has identified 23,317 suspected drug addicts through surv...",
+      "keywords_matched": [
+        "drug"
+      ]
     },
     {
       "title": "Home minister: Malaysia’s entry points to get security boost after drug scandal",
