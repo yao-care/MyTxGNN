@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-18T06:38:41.047018",
+  "fetched": "2026-08-18T07:35:38.689989",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "What Does Dignity Look Like? — Sharifah Tahir",
@@ -126,16 +126,6 @@
       "summary": "PUTRAJAYA, Aug 18 — A comprehensive plan to enhance security at the country’s entry points will be pres...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Unhealthy air alert: Johan Setia in Klang hits API 157",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/18/unhealthy-air-alert-johan-setia-klang-hits-api-157/231747",
-      "source": "Malay Mail",
-      "published": "2026-08-18T01:49:12",
-      "summary": "KUALA LUMPUR, Aug 18 — Air quality in Johan Setia, Klang dipped to an unhealthy level this morning, with the area...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
