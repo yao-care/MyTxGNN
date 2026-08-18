@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-18T01:05:12.015713",
+  "fetched": "2026-08-18T02:52:39.517426",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "The MediAsas Mirage: How Malaysia’s Flagship Health Plan Betrayed Its Promise To The Chronically Ill — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/08/the-mediasas-mirage-how-malaysias-flagship-health-plan-betrayed-its-promise-to-the-chronically-ill-dr-rajeentheran-suntheralingam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-18T01:30:00",
+      "summary": "The betrayal of the chronically ill is not merely a failure of MediAsas' product design. It is a failure of political will – a refusal to confront the uncomfortable truth that voluntary, market-driven insurance cannot deliver universal protection. The post The MediAsas Mirage: How Malaysia’s Flagship Health Plan Betrayed Its Promise To The Chronically Ill — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Ex-Hospital Director Transferred To Avoid Interference With Further Probe: Dzulkefly",
       "url": "https://codeblue.galencentre.org/2026/08/ex-hospital-director-transferred-to-avoid-interference-with-further-probe-dzulkefly/",
@@ -102,35 +112,13 @@
       ]
     },
     {
-      "title": "Over 6,200 Medical Officers Quit From 2021 To 2025: Dzulkefly",
-      "url": "https://codeblue.galencentre.org/2026/08/over-6200-medical-officers-quit-from-2021-to-2025-dzulkefly/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-14T02:00:00",
-      "summary": "6,212 medical officers quit in 5 years from 2021 to 2025, comprising 4,380 contract and 1,832 permanent. Although contract MO resignations have been dropping annually from 2023, resignations of permanent MOs rose every year from 238 in 2021 to 498 in 2025. The post Over 6,200 Medical Officers Quit From 2021 To 2025: Dzulkefly appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "No drug cartel in Genting: Pahang police stress immediate action if reports are lodged",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/no-drug-cartel-in-genting-pahang-police-stress-immediate-action-if-reports-are-lodged/231689",
+      "title": "Unhealthy air alert: Johan Setia in Klang hits API 157",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/18/unhealthy-air-alert-johan-setia-klang-hits-api-157/231747",
       "source": "Malay Mail",
-      "published": "2026-08-17T08:34:00",
-      "summary": "KUANTAN, Aug 17 — Pahang police have denied viral claims on social media that a large-scale drug cartel is operati...",
+      "published": "2026-08-18T01:49:12",
+      "summary": "KUALA LUMPUR, Aug 18 — Air quality in Johan Setia, Klang dipped to an unhealthy level this morning, with the area...",
       "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Ministry defends transfer of Sabah hospital director amid ongoing sexual harassment probe",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/17/ministry-defends-transfer-of-sabah-hospital-director-amid-ongoing-sexual-harassment-probe/231676",
-      "source": "Malay Mail",
-      "published": "2026-08-17T07:20:55",
-      "summary": "KOTA KINABALU, Aug 17 — The Health Ministry’s decision to remove a Sabah hospital director from his post and...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
+        "health"
       ]
     }
   ]
