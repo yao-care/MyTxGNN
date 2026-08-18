@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-18T02:52:39.517426",
+  "fetched": "2026-08-18T03:41:39.850747",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "What Does Dignity Look Like? — Sharifah Tahir",
+      "url": "https://codeblue.galencentre.org/2026/08/what-does-dignity-look-like-sharifah-tahir/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-18T03:30:00",
+      "summary": "Dignity applies to disability, ageing, and any situation where a person’s worth may become less visible because of what they cannot or can no longer do, or because their contributions are not socially valued. The post What Does Dignity Look Like? — Sharifah Tahir appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "The MediAsas Mirage: How Malaysia’s Flagship Health Plan Betrayed Its Promise To The Chronically Ill — Dr Rajeentheran Suntheralingam",
       "url": "https://codeblue.galencentre.org/2026/08/the-mediasas-mirage-how-malaysias-flagship-health-plan-betrayed-its-promise-to-the-chronically-ill-dr-rajeentheran-suntheralingam/",
@@ -99,17 +107,6 @@
       "published": "2026-08-14T06:00:00",
       "summary": "Transparency can make us uncomfortable because it exposes differences we might prefer not to see. But secrecy has its own price. It allows inequality, favouritism and poor decisions to exist without scrutiny. The post So, You’re The One Who Took My Salary Increment? — Sandra Laxmana appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Private Hospitals See Rise In Dengue Fever Admissions",
-      "url": "https://codeblue.galencentre.org/2026/08/private-hospitals-see-rise-in-dengue-fever-admissions/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-14T03:30:00",
-      "summary": "Admissions to private hospitals for dengue fever have jumped this year, similar to public hospitals. APHM advises the public to seek early consultation for high fever, severe headache, joint/muscle pain, or rash, to prevent serious dengue complications. The post Private Hospitals See Rise In Dengue Fever Admissions appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
     },
     {
       "title": "Unhealthy air alert: Johan Setia in Klang hits API 157",
