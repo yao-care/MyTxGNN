@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-18T09:30:01.849085",
+  "fetched": "2026-08-18T10:24:38.239116",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Government Drops Appeal Against Liquid Nicotine Court Ruling",
@@ -128,16 +128,6 @@
       "summary": "KUALA LUMPUR, Aug 18 — The Sessions Court today was told that Khazanah Nasional Berhad (Khazanah) made two transfe...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Home minister: Drone surveillance boosts AADK drug enforcement, identifies 23,317 suspects",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/18/home-minister-drone-surveillance-boosts-aadk-drug-enforcement-identifies-23317-suspects/231775",
-      "source": "Malay Mail",
-      "published": "2026-08-18T05:29:05",
-      "summary": "PUTRAJAYA, Aug 18 — The National Anti-Drug Agency (AADK) has identified 23,317 suspected drug addicts through surv...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
