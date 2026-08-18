@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-18T08:33:43.656069",
+  "fetched": "2026-08-18T09:30:01.849085",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Government Drops Appeal Against Liquid Nicotine Court Ruling",
@@ -111,21 +111,31 @@
       ]
     },
     {
+      "title": "Ex-PM Muhyiddin’s trial: PMO gave names of contractors for Jana Wibawa projects, Finance Ministry officer says",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/18/ex-pm-muhyiddins-trial-pmo-gave-names-of-contractors-for-jana-wibawa-projects-finance-ministry-officer-says/231813",
+      "source": "Malay Mail",
+      "published": "2026-08-18T08:52:26",
+      "summary": "KUALA LUMPUR, Aug 18 — The Prime Minister’s Office (PMO) during the Muhyiddin administration had propos...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Vivy Yusof, husband face CBT trial as court hears RM19.5m Khazanah transfers, director records",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/18/vivy-yusof-husband-face-cbt-trial-as-court-hears-rm195m-khazanah-transfers-director-records/231809",
+      "source": "Malay Mail",
+      "published": "2026-08-18T08:30:41",
+      "summary": "KUALA LUMPUR, Aug 18 — The Sessions Court today was told that Khazanah Nasional Berhad (Khazanah) made two transfe...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
       "title": "Home minister: Drone surveillance boosts AADK drug enforcement, identifies 23,317 suspects",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/18/home-minister-drone-surveillance-boosts-aadk-drug-enforcement-identifies-23317-suspects/231775",
       "source": "Malay Mail",
       "published": "2026-08-18T05:29:05",
       "summary": "PUTRAJAYA, Aug 18 — The National Anti-Drug Agency (AADK) has identified 23,317 suspected drug addicts through surv...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Home minister: Malaysia’s entry points to get security boost after drug scandal",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/18/home-minister-malaysias-entry-points-to-get-security-boost-after-drug-scandal/231762",
-      "source": "Malay Mail",
-      "published": "2026-08-18T04:03:55",
-      "summary": "PUTRAJAYA, Aug 18 — A comprehensive plan to enhance security at the country’s entry points will be pres...",
       "keywords_matched": [
         "drug"
       ]
