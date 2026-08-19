@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-19T09:31:19.750177",
+  "fetched": "2026-08-19T10:25:32.174189",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -110,6 +110,16 @@
       ]
     },
     {
+      "title": "HR Ministry to review TalentCorp processing times for Malaysian doctors seeking to return home",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/19/hr-ministry-to-review-talentcorp-processing-times-for-malaysian-doctors-seeking-to-return-home/231942",
+      "source": "Malay Mail",
+      "published": "2026-08-19T09:32:22",
+      "summary": "KUALA LUMPUR, Aug 19 — Prime Minister Datuk Seri Anwar Ibrahim has ordered the Human Resources Ministry to review...",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
       "title": "Serian tops Sarawak’s unhealthy API readings as seven areas exceed 100 at 4pm",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/19/serian-tops-sarawaks-unhealthy-api-readings-as-seven-areas-exceed-100-at-4pm/231941",
       "source": "Malay Mail",
@@ -117,16 +127,6 @@
       "summary": "KUALA LUMPUR, Aug 19 — Seven areas in Sarawak recorded unhealthy Air Pollutant Index (API) readings as of 4pm toda...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "KL police dispose of RM15m in seized drugs to ensure integrity of case exhibits",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/19/kl-police-dispose-of-rm15m-in-seized-drugs-to-ensure-integrity-of-case-exhibits/231897",
-      "source": "Malay Mail",
-      "published": "2026-08-19T05:38:20",
-      "summary": "KUALA LUMPUR, Aug 19 — The Kuala Lumpur police today disposed of various types of drugs worth over RM15 million se...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
