@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-19T01:06:15.463001",
+  "fetched": "2026-08-19T02:54:33.086668",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Scrap ‘Uncompetitive’ MediAsas, It’s Not A Game-Changer: Tanjong Karang MP",
+      "url": "https://codeblue.galencentre.org/2026/08/scrap-uncompetitive-mediasas-its-not-a-game-changer-tanjong-karang-mp/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-19T02:00:00",
+      "summary": "Tanjong Karang MP Zulkafperi Hanapi wants MediAsas axed because it’s “not a game-changer”. Excluding pre-existing conditions means the sick/elderly might not be covered while MediAsas’ “uncompetitive” RM100,000 annual limit won’t attract the young/healthy. The post Scrap ‘Uncompetitive’ MediAsas, It’s Not A Game-Changer: Tanjong Karang MP appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Government Drops Appeal Against Liquid Nicotine Court Ruling",
       "url": "https://codeblue.galencentre.org/2026/08/government-drops-appeal-against-liquid-nicotine-court-ruling/",
@@ -100,42 +110,11 @@
       "keywords_matched": []
     },
     {
-      "title": "Dzulkefly: Pasir Gudang Hospital Fully Operational December 2026",
-      "url": "https://codeblue.galencentre.org/2026/08/dzulkefly-pasir-gudang-hospital-fully-operational-december-2026/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-14T06:29:58",
-      "summary": "Dr Dzul targets Dec 2026 for Pasir Gudang Hospital to be fully operational, even though less than half of staffing positions are currently filled. MOH's deployment of human resources must be strategic, not done \"drastically\" for any one facility alone. The post Dzulkefly: Pasir Gudang Hospital Fully Operational December 2026 appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
       "title": "1MDB civil trial: Shahrol Azral denies Jho Low acted as PM, insists Najib briefed indirectly",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/18/1mdb-civil-trial-shahrol-azral-denies-jho-low-acted-as-pm-insists-najib-briefed-indirectly/231831",
       "source": "Malay Mail",
       "published": "2026-08-18T11:49:50",
       "summary": "KUALA LUMPUR, Aug 18 — Former 1Malaysia Development Berhad (1MDB) chief executive officer (CEO) Datuk Shahrol Azra...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Ex-PM Muhyiddin’s trial: PMO gave names of contractors for Jana Wibawa projects, Finance Ministry officer says",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/18/ex-pm-muhyiddins-trial-pmo-gave-names-of-contractors-for-jana-wibawa-projects-finance-ministry-officer-says/231813",
-      "source": "Malay Mail",
-      "published": "2026-08-18T08:52:26",
-      "summary": "KUALA LUMPUR, Aug 18 — The Prime Minister’s Office (PMO) during the Muhyiddin administration had propos...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Vivy Yusof, husband face CBT trial as court hears RM19.5m Khazanah transfers, director records",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/18/vivy-yusof-husband-face-cbt-trial-as-court-hears-rm195m-khazanah-transfers-director-records/231809",
-      "source": "Malay Mail",
-      "published": "2026-08-18T08:30:41",
-      "summary": "KUALA LUMPUR, Aug 18 — The Sessions Court today was told that Khazanah Nasional Berhad (Khazanah) made two transfe...",
       "keywords_matched": [
         "trial"
       ]
