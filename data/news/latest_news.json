@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-19T10:25:32.174189",
+  "fetched": "2026-08-19T11:22:20.821374",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Groups Question Nicotine Vape’s Legal Status After Government Withdrew Appeal",
@@ -107,6 +107,18 @@
       "summary": "We need to promote healthy, safe approaches to weight management rather than quick fixes that could undermine wellness. The post When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Kota Bharu hospital says drug‑positive newborn now stable, no longer showing withdrawal symptoms",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/19/kota-bharu-hospital-says-drugpositive-newborn-now-stable-no-longer-showing-withdrawal-symptoms/231956",
+      "source": "Malay Mail",
+      "published": "2026-08-19T11:15:46",
+      "summary": "KOTA BHARU, Aug 19 — A baby girl who tested positive for drugs after being born at Raja Perempuan Zainab II Hospit...",
+      "keywords_matched": [
+        "drug",
+        "hospital",
+        "hospital"
       ]
     },
     {
