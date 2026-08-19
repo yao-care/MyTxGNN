@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-19T08:33:56.460284",
+  "fetched": "2026-08-19T09:31:19.750177",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Groups Question Nicotine Vape’s Legal Status After Government Withdrew Appeal",
@@ -105,6 +105,16 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-08-14T08:11:23",
       "summary": "We need to promote healthy, safe approaches to weight management rather than quick fixes that could undermine wellness. The post When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Serian tops Sarawak’s unhealthy API readings as seven areas exceed 100 at 4pm",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/19/serian-tops-sarawaks-unhealthy-api-readings-as-seven-areas-exceed-100-at-4pm/231941",
+      "source": "Malay Mail",
+      "published": "2026-08-19T09:24:07",
+      "summary": "KUALA LUMPUR, Aug 19 — Seven areas in Sarawak recorded unhealthy Air Pollutant Index (API) readings as of 4pm toda...",
       "keywords_matched": [
         "health"
       ]
