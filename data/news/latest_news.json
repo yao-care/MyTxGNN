@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-19T22:21:25.106493",
+  "fetched": "2026-08-19T23:20:01.499453",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "title": "Groups Question Nicotine Vape’s Legal Status After Government Withdrew Appeal",
@@ -105,6 +105,16 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-08-14T08:11:23",
       "summary": "We need to promote healthy, safe approaches to weight management rather than quick fixes that could undermine wellness. The post When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Beyond the naked eye: What PM2.5, haze’s invisible threat, means for your health",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/beyond-the-naked-eye-what-pm25-hazes-invisible-threat-means-for-your-health/231763",
+      "source": "Malay Mail",
+      "published": "2026-08-19T23:00:00",
+      "summary": "PETALING JAYA, Aug 20 — As Malaysians once again experience a resurgence in haze pollution and deteriorating air q...",
       "keywords_matched": [
         "health"
       ]
