@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-20T04:34:08.452982",
+  "fetched": "2026-08-20T05:27:32.411946",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -106,6 +106,16 @@
       ]
     },
     {
+      "title": "Johor police cripple drug ring, seize RM7.93m drugs from ‘repository’ homes",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/johor-police-cripple-drug-ring-seize-rm793m-drugs-from-repository-homes/232021",
+      "source": "Malay Mail",
+      "published": "2026-08-20T05:24:18",
+      "summary": "JOHOR BAHRU, Aug 20 — A drug trafficking syndicate, believed to be using houses in secure gated residences as a st...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "Rocky case: Klang council volunteer claims trial over alleged animal cruelty in dog’s death",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/20/rocky-case-klang-council-volunteer-claims-trial-over-alleged-animal-cruelty-in-dogs-death/232004",
       "source": "Malay Mail",
@@ -121,16 +131,6 @@
       "source": "Malay Mail",
       "published": "2026-08-20T02:17:03",
       "summary": "KUALA LUMPUR, Aug 20 — Six areas in Sarawak recorded Air Pollutant Index (API) readings at an unhealthy level as o...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Beyond the naked eye: What PM2.5, haze’s invisible threat, means for your health",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/beyond-the-naked-eye-what-pm25-hazes-invisible-threat-means-for-your-health/231763",
-      "source": "Malay Mail",
-      "published": "2026-08-19T23:00:00",
-      "summary": "PETALING JAYA, Aug 20 — As Malaysians once again experience a resurgence in haze pollution and deteriorating air q...",
       "keywords_matched": [
         "health"
       ]
