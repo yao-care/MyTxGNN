@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-20T06:40:35.669136",
+  "fetched": "2026-08-20T07:38:41.127395",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 13,
   "items": [
     {
       "title": "After The First Month: Can Breastfeeding Be Sustained In Malaysia? — Chee Gek Neo & Zainah Mat Isa",
@@ -131,26 +131,6 @@
       "summary": "JOHOR BAHRU, Aug 20 — A drug trafficking syndicate, believed to be using houses in secure gated residences as a st...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Rocky case: Klang council volunteer claims trial over alleged animal cruelty in dog’s death",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/rocky-case-klang-council-volunteer-claims-trial-over-alleged-animal-cruelty-in-dogs-death/232004",
-      "source": "Malay Mail",
-      "published": "2026-08-20T02:33:42",
-      "summary": "KLANG, Aug 20 — A volunteer with the Klang city council claimed trial in the Sessions Court today for allegedly co...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Six Sarawak areas hit ‘Unhealthy’ air levels as API readings spike",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/six-sarawak-areas-hit-unhealthy-air-levels-as-api-readings-spike/232002",
-      "source": "Malay Mail",
-      "published": "2026-08-20T02:17:03",
-      "summary": "KUALA LUMPUR, Aug 20 — Six areas in Sarawak recorded Air Pollutant Index (API) readings at an unhealthy level as o...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
