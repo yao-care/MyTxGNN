@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-20T07:38:41.127395",
+  "fetched": "2026-08-20T08:34:48.866659",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Protect Victims, Yes, But Who Protects The Falsely Accused? — Dr James Jeremiah",
+      "url": "https://codeblue.galencentre.org/2026/08/protect-victims-yes-but-who-protects-the-falsely-accused/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-20T08:00:00",
+      "summary": "If the authorities have investigated and the evidence does not justify further criminal action, society must have the intellectual honesty to acknowledge that outcome as well. The post Protect Victims, Yes, But Who Protects The Falsely Accused? — Dr James Jeremiah appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Sarawak Expands Community-Based HIV Care To Advance People-Centred Development",
+      "url": "https://codeblue.galencentre.org/2026/08/sarawak-expands-community-based-hiv-care-to-advance-people-centred-development/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-20T07:44:39",
+      "summary": "Backed by a three-year RM2.25 million state allocation and cross-sector partnerships, Teratak Kasih Tok Nan’s expansion to Miri and Bintulu will bring treatment access closer to communities, addressing barriers to HIV care. The post Sarawak Expands Community-Based HIV Care To Advance People-Centred Development appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment"
+      ]
+    },
     {
       "title": "After The First Month: Can Breastfeeding Be Sustained In Malaysia? — Chee Gek Neo & Zainah Mat Isa",
       "url": "https://codeblue.galencentre.org/2026/08/after-the-first-month-can-breastfeeding-be-sustained-in-malaysia-chee-gek-neo-zainah-mat-isa/",
@@ -80,29 +98,6 @@
       ]
     },
     {
-      "title": "Ex-Hospital Director Transferred To Avoid Interference With Further Probe: Dzulkefly",
-      "url": "https://codeblue.galencentre.org/2026/08/ex-hospital-director-transferred-to-avoid-interference-with-further-probe-dzulkefly/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-17T08:16:22",
-      "summary": "Health Minister Dr Dzul says a former hospital director in Kota Kinabalu was transferred to JKNS to avoid potential interference with a further probe into sexual harassment claims and that the transfer of the medical officer wasn't a demotion of his grade. The post Ex-Hospital Director Transferred To Avoid Interference With Further Probe: Dzulkefly appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "UPM, Elanco Malaysia Formalise Partnership For Veterinary Education, Research, Animal Health",
-      "url": "https://codeblue.galencentre.org/2026/08/upm-elanco-malaysia-formalise-partnership-for-veterinary-education-research-animal-health/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-17T05:40:00",
-      "summary": "Potential areas highlighted included improving access to animal health innovations, antimicrobial resistance and stewardship, antiparasitic management, veterinary education and other areas where academia and industry can jointly address emerging needs. The post UPM, Elanco Malaysia Formalise Partnership For Veterinary Education, Research, Animal Health appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
       "title": "Singaporean man and local youth claim trial over violent road rage brawl in Johor Bahru",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/20/singaporean-man-and-local-youth-claim-trial-over-violent-road-rage-brawl-in-johor-bahru/232033",
       "source": "Malay Mail",
@@ -110,27 +105,6 @@
       "summary": "JOHOR BAHRU, Aug 20 — A 46-year-old Singaporean man claimed trial in the Sessions and Magistrates Court today on t...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Perak MB’s political secretary resigns, cites health reasons amid drug allegations",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/perak-mbs-political-secretary-resigns-cites-health-reasons-amid-drug-allegations/232025",
-      "source": "Malay Mail",
-      "published": "2026-08-20T05:49:35",
-      "summary": "IPOH, Aug 20 — Perak Menteri Besar Datuk Seri Saarani Mohamad said his political secretary, Mohamad Hamidi Baharud...",
-      "keywords_matched": [
-        "health",
-        "drug"
-      ]
-    },
-    {
-      "title": "Johor police cripple drug ring, seize RM7.93m drugs from ‘repository’ homes",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/johor-police-cripple-drug-ring-seize-rm793m-drugs-from-repository-homes/232021",
-      "source": "Malay Mail",
-      "published": "2026-08-20T05:24:18",
-      "summary": "JOHOR BAHRU, Aug 20 — A drug trafficking syndicate, believed to be using houses in secure gated residences as a st...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
