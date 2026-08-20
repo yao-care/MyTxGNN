@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-20T01:05:37.612229",
+  "fetched": "2026-08-20T02:54:00.968571",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 13,
   "items": [
+    {
+      "title": "Vape Tax Collection Invalid If Liquid Nicotine Exemption Cancelled, MOF Said In 2023",
+      "url": "https://codeblue.galencentre.org/2026/08/vape-tax-collection-invalid-if-liquid-nicotine-exemption-cancelled-mof-said-in-2023/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-20T02:00:00",
+      "summary": "Johan Merican said in 2023 that cancelling the exemption of liquid nicotine from the Poisons List will invalidate vape tax collection. As Putrajaya now upholds a court ruling nullifying the exemption, it's unclear if it must refund vape businesses >RM354m. The post Vape Tax Collection Invalid If Liquid Nicotine Exemption Cancelled, MOF Said In 2023 appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Groups Question Nicotine Vape’s Legal Status After Government Withdrew Appeal",
       "url": "https://codeblue.galencentre.org/2026/08/groups-question-nicotine-vapes-legal-status-after-government-withdrew-appeal/",
@@ -100,11 +108,21 @@
       ]
     },
     {
-      "title": "When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee",
-      "url": "https://codeblue.galencentre.org/2026/08/when-weight-loss-wins-over-wellness-the-glp-1-overflooding-in-malaysia-lisa-amanda-gintingan-ho-sweet-lee/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-14T08:11:23",
-      "summary": "We need to promote healthy, safe approaches to weight management rather than quick fixes that could undermine wellness. The post When Weight Loss Wins Over Wellness: The GLP-1 Overflooding In Malaysia — Lisa Amanda Gintingan & Ho Sweet Lee appeared first on CodeBlue .",
+      "title": "Rocky case: Klang council volunteer claims trial over alleged animal cruelty in dog’s death",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/rocky-case-klang-council-volunteer-claims-trial-over-alleged-animal-cruelty-in-dogs-death/232004",
+      "source": "Malay Mail",
+      "published": "2026-08-20T02:33:42",
+      "summary": "KLANG, Aug 20 — A volunteer with the Klang city council claimed trial in the Sessions Court today for allegedly co...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Six Sarawak areas hit ‘Unhealthy’ air levels as API readings spike",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/six-sarawak-areas-hit-unhealthy-air-levels-as-api-readings-spike/232002",
+      "source": "Malay Mail",
+      "published": "2026-08-20T02:17:03",
+      "summary": "KUALA LUMPUR, Aug 20 — Six areas in Sarawak recorded Air Pollutant Index (API) readings at an unhealthy level as o...",
       "keywords_matched": [
         "health"
       ]
@@ -117,28 +135,6 @@
       "summary": "PETALING JAYA, Aug 20 — As Malaysians once again experience a resurgence in haze pollution and deteriorating air q...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Kota Bharu hospital says drug‑positive newborn now stable, no longer showing withdrawal symptoms",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/19/kota-bharu-hospital-says-drugpositive-newborn-now-stable-no-longer-showing-withdrawal-symptoms/231956",
-      "source": "Malay Mail",
-      "published": "2026-08-19T11:15:46",
-      "summary": "KOTA BHARU, Aug 19 — A baby girl who tested positive for drugs after being born at Raja Perempuan Zainab II Hospit...",
-      "keywords_matched": [
-        "drug",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "HR Ministry to review TalentCorp processing times for Malaysian doctors seeking to return home",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/19/hr-ministry-to-review-talentcorp-processing-times-for-malaysian-doctors-seeking-to-return-home/231942",
-      "source": "Malay Mail",
-      "published": "2026-08-19T09:32:22",
-      "summary": "KUALA LUMPUR, Aug 19 — Prime Minister Datuk Seri Anwar Ibrahim has ordered the Human Resources Ministry to review...",
-      "keywords_matched": [
-        "doctor"
       ]
     }
   ]
