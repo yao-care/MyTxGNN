@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-20T10:26:55.565681",
+  "fetched": "2026-08-20T11:23:43.462472",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
     {
       "title": "Protect Victims, Yes, But Who Protects The Falsely Accused? — Dr James Jeremiah",
@@ -95,6 +95,28 @@
       "summary": "The betrayal of the chronically ill is not merely a failure of MediAsas' product design. It is a failure of political will – a refusal to confront the uncomfortable truth that voluntary, market-driven insurance cannot deliver universal protection. The post The MediAsas Mirage: How Malaysia’s Flagship Health Plan Betrayed Its Promise To The Chronically Ill — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "MOH says hydrogen inhalers not approved by Medical Device Authority, cautions public on health claims",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/moh-says-hydrogen-inhalers-not-approved-by-medical-device-authority-cautions-public-on-health-claims/232089",
+      "source": "Malay Mail",
+      "published": "2026-08-20T10:52:27",
+      "summary": "KUALA LUMPUR, Aug 20 — The Ministry of Health (MOH) has advised the public, particularly older people, to be cauti...",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "inhaler"
+      ]
+    },
+    {
+      "title": "‘Nobody asked’: In Muhyiddin’s trial, Chinese businessman says didn’t hide his 30pc share in ‘Bumiputera’ company",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/nobody-asked-in-muhyiddins-trial-chinese-businessman-says-didnt-hide-his-30pc-share-in-bumiputera-company/232082",
+      "source": "Malay Mail",
+      "published": "2026-08-20T10:33:16",
+      "summary": "KUALA LUMPUR, Aug 20 — Malaysian Chinese businessman Lian Tan Chuan today said he was not intentionally hiding his...",
+      "keywords_matched": [
+        "trial"
       ]
     },
     {
