@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-21T07:39:46.167354",
+  "fetched": "2026-08-21T08:37:11.794103",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,31 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "NUMed MBBS Graduates Continue Securing UK Foundation Programme Placements",
+      "url": "https://codeblue.galencentre.org/2026/08/numed-mbbs-graduates-continue-securing-uk-foundation-programme-placements/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-21T08:02:35",
+      "summary": "69.6% of graduates have secured UK Foundation Programme placements across 12 National Health Service (NHS) regions, despite an increasingly competitive UK postgraduate medical training environment. The post NUMed MBBS Graduates Continue Securing UK Foundation Programme Placements appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
+    {
+      "title": "The Silent Burden Of Renal Nurses: Managing Life And Death In Private Dialysis Centres — Noor Hanita Zaini & Noor Hasliza Che Seman",
+      "url": "https://codeblue.galencentre.org/2026/08/the-silent-burden-of-renal-nurses-managing-life-and-death-in-private-dialysis-centres/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-21T08:00:00",
+      "summary": "While the public focuses on doctor shortages in government hospitals, specialised renal nurses in private standalone clinics are quietly managing life and death emergencies with limited resources. The post The Silent Burden Of Renal Nurses: Managing Life And Death In Private Dialysis Centres — Noor Hanita Zaini & Noor Hasliza Che Seman appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "Malaysia Has A Plan, Now It Needs The Courage To Deliver",
       "url": "https://codeblue.galencentre.org/2026/08/malaysia-has-a-plan-now-it-needs-the-courage-to-deliver/",
@@ -78,21 +101,23 @@
       "keywords_matched": []
     },
     {
-      "title": "Groups Question Nicotine Vape’s Legal Status After Government Withdrew Appeal",
-      "url": "https://codeblue.galencentre.org/2026/08/groups-question-nicotine-vapes-legal-status-after-government-withdrew-appeal/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-19T03:30:00",
-      "summary": "MPS, MMA, and MyWatch demand clarity on the legal and regulatory status of liquid nicotine used in vapes, after the government dropped its appeal against a High Court ruling. MPS wants to know how the Poisons Act and Act 852 will operate together now. The post Groups Question Nicotine Vape’s Legal Status After Government Withdrew Appeal appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Scrap ‘Uncompetitive’ MediAsas, It’s Not A Game-Changer: Tanjong Karang MP",
-      "url": "https://codeblue.galencentre.org/2026/08/scrap-uncompetitive-mediasas-its-not-a-game-changer-tanjong-karang-mp/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-19T02:00:00",
-      "summary": "Tanjong Karang MP Zulkafperi Hanapi wants MediAsas axed because it’s “not a game-changer”. Excluding pre-existing conditions means the sick/elderly might not be covered while MediAsas’ “uncompetitive” RM100,000 annual limit won’t attract the young/healthy. The post Scrap ‘Uncompetitive’ MediAsas, It’s Not A Game-Changer: Tanjong Karang MP appeared first on CodeBlue .",
+      "title": "MOH bans three batches of Chomel hand sanitiser over excessive methanol content",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/moh-bans-three-batches-of-chomel-hand-sanitiser-over-excessive-methanol-content/232208",
+      "source": "Malay Mail",
+      "published": "2026-08-21T08:22:45",
+      "summary": "PUTRAJAYA, Aug 21 — The Ministry of Health (MOH) has banned the sale of Chomel Hand Sanitizer after three batches...",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Police arrest drug suspect after struggle with machete leaves officer injured in Jeli",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/police-arrest-drug-suspect-after-struggle-with-machete-leaves-officer-injured-in-jeli/232207",
+      "source": "Malay Mail",
+      "published": "2026-08-21T08:16:34",
+      "summary": "KOTA BHARU, Aug 21 — A suspect believed to be involved in drug trafficking was arrested after brandishing a machet...",
+      "keywords_matched": [
+        "drug"
       ]
     },
     {
@@ -101,16 +126,6 @@
       "source": "Malay Mail",
       "published": "2026-08-21T02:29:03",
       "summary": "KUALA LUMPUR, Aug 21 — The Ministry of Health (MOH) has sounded the alarm over a significant surge in dengue cases...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Serian API hits ‘Very Unhealthy’ level of 241 as Sarawak air quality worsens",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/serian-api-hits-very-unhealthy-level-of-241-as-sarawak-air-quality-worsen/232135",
-      "source": "Malay Mail",
-      "published": "2026-08-21T01:56:24",
-      "summary": "SERIAN, Aug 21 — Air quality here is still at a very unhealthy level with the monitoring station at the Serian Dis...",
       "keywords_matched": [
         "health"
       ]
