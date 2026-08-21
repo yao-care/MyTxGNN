@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-21T08:37:11.794103",
+  "fetched": "2026-08-21T09:33:36.675189",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "title": "NUMed MBBS Graduates Continue Securing UK Foundation Programme Placements",
@@ -101,6 +101,26 @@
       "keywords_matched": []
     },
     {
+      "title": "Muhyiddin trial: Witness says MOF wanted open tender, but PMO insisted on pre-qualification",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/muhyiddin-trial-witness-says-mof-wanted-open-tender-but-pmo-insisted-on-pre-qualification/232214",
+      "source": "Malay Mail",
+      "published": "2026-08-21T08:50:22",
+      "summary": "KUALA LUMPUR, Aug 21 — The Finance Ministry (MOF) had initially wanted government projects under the Bumiputera co...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Afternoon checks show nine Sarawak areas with unhealthy air quality, Serian still very unhealthy",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/afternoon-checks-show-nine-sarawak-areas-with-unhealthy-air-quality-serian-still-very-unhealthy/232211",
+      "source": "Malay Mail",
+      "published": "2026-08-21T08:56:17",
+      "summary": "KUALA LUMPUR, Aug 21 — The Air Pollution Index (API) reading at Serian station in Sarawak reached 227 (very unheal...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "MOH bans three batches of Chomel hand sanitiser over excessive methanol content",
       "url": "https://www.malaymail.com/news/malaysia/2026/08/21/moh-bans-three-batches-of-chomel-hand-sanitiser-over-excessive-methanol-content/232208",
       "source": "Malay Mail",
@@ -118,16 +138,6 @@
       "summary": "KOTA BHARU, Aug 21 — A suspect believed to be involved in drug trafficking was arrested after brandishing a machet...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Dengue cases surge 56pc as MOH warns of nationwide spread",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/dengue-cases-surge-56pc-as-moh-warns-of-nationwide-spread/232144",
-      "source": "Malay Mail",
-      "published": "2026-08-21T02:29:03",
-      "summary": "KUALA LUMPUR, Aug 21 — The Ministry of Health (MOH) has sounded the alarm over a significant surge in dengue cases...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
