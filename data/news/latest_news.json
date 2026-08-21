@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-21T01:09:31.275339",
+  "fetched": "2026-08-21T02:59:56.733057",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "High Court’s Nicotine Ruling Mandates Government Compliance With FCTC In Historic First",
+      "url": "https://codeblue.galencentre.org/2026/08/high-courts-nicotine-ruling-mandates-government-compliance-with-fctc-in-historic-first/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-21T02:00:00",
+      "summary": "Justice Aliza Sulaiman's full written judgement on a nicotine case marks Malaysia's biggest advancement on tobacco control. The High Court mandated government compliance with WHO FCTC, the first ruling that ties domestic policy to this international treaty. The post High Court’s Nicotine Ruling Mandates Government Compliance With FCTC In Historic First appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Protect Victims, Yes, But Who Protects The Falsely Accused? — Dr James Jeremiah",
       "url": "https://codeblue.galencentre.org/2026/08/protect-victims-yes-but-who-protects-the-falsely-accused/",
@@ -88,35 +96,33 @@
       "keywords_matched": []
     },
     {
-      "title": "The MediAsas Mirage: How Malaysia’s Flagship Health Plan Betrayed Its Promise To The Chronically Ill — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/08/the-mediasas-mirage-how-malaysias-flagship-health-plan-betrayed-its-promise-to-the-chronically-ill-dr-rajeentheran-suntheralingam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-18T01:30:00",
-      "summary": "The betrayal of the chronically ill is not merely a failure of MediAsas' product design. It is a failure of political will – a refusal to confront the uncomfortable truth that voluntary, market-driven insurance cannot deliver universal protection. The post The MediAsas Mirage: How Malaysia’s Flagship Health Plan Betrayed Its Promise To The Chronically Ill — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "title": "Dengue cases surge 56pc as MOH warns of nationwide spread",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/dengue-cases-surge-56pc-as-moh-warns-of-nationwide-spread/232144",
+      "source": "Malay Mail",
+      "published": "2026-08-21T02:29:03",
+      "summary": "KUALA LUMPUR, Aug 21 — The Ministry of Health (MOH) has sounded the alarm over a significant surge in dengue cases...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "MOH says hydrogen inhalers not approved by Medical Device Authority, cautions public on health claims",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/moh-says-hydrogen-inhalers-not-approved-by-medical-device-authority-cautions-public-on-health-claims/232089",
+      "title": "Serian API hits ‘Very Unhealthy’ level of 241 as Sarawak air quality worsens",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/serian-api-hits-very-unhealthy-level-of-241-as-sarawak-air-quality-worsen/232135",
       "source": "Malay Mail",
-      "published": "2026-08-20T10:52:27",
-      "summary": "KUALA LUMPUR, Aug 20 — The Ministry of Health (MOH) has advised the public, particularly older people, to be cauti...",
+      "published": "2026-08-21T01:56:24",
+      "summary": "SERIAN, Aug 21 — Air quality here is still at a very unhealthy level with the monitoring station at the Serian Dis...",
       "keywords_matched": [
-        "health",
-        "medical",
-        "inhaler"
+        "health"
       ]
     },
     {
-      "title": "‘Nobody asked’: In Muhyiddin’s trial, Chinese businessman says didn’t hide his 30pc share in ‘Bumiputera’ company",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/20/nobody-asked-in-muhyiddins-trial-chinese-businessman-says-didnt-hide-his-30pc-share-in-bumiputera-company/232082",
+      "title": "CAAM orders Malaysian airlines to drug-test 100pc of active flight and cabin crew",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/caam-orders-malaysian-airlines-to-drug-test-100pc-of-active-flight-and-cabin-crew/232118",
       "source": "Malay Mail",
-      "published": "2026-08-20T10:33:16",
-      "summary": "KUALA LUMPUR, Aug 20 — Malaysian Chinese businessman Lian Tan Chuan today said he was not intentionally hiding his...",
+      "published": "2026-08-21T01:10:29",
+      "summary": "PUTRAJAYA, Aug 21 — The Civil Aviation Authority of Malaysia (CAAM) has introduced enhanced regulatory measures to...",
       "keywords_matched": [
-        "trial"
+        "drug"
       ]
     }
   ]
