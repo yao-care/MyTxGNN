@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-21T23:21:04.043052",
+  "fetched": "2026-08-22T01:05:42.664802",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
     {
       "title": "NUMed MBBS Graduates Continue Securing UK Foundation Programme Placements",
@@ -101,43 +101,15 @@
       "keywords_matched": []
     },
     {
-      "title": "Muhyiddin trial: Witness says MOF wanted open tender, PMO insisted on direct negotiation, pre‑qualification",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/muhyiddin-trial-witness-says-mof-wanted-open-tender-but-pmo-insisted-on-pre-qualification/232214",
+      "title": "Penang Hospital acts to cut emergency wait times after viral video shows overcrowding",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/22/penang-hospital-acts-to-cut-emergency-wait-times-after-viral-video-shows-overcrowding/232260",
       "source": "Malay Mail",
-      "published": "2026-08-21T08:50:22",
-      "summary": "KUALA LUMPUR, Aug 21 — The Finance Ministry (MOF) had initially wanted government projects under the Bumiputera co...",
+      "published": "2026-08-22T00:53:23",
+      "summary": "GEORGE TOWN, Aug 22 — The Penang Health Department (JKNPP) is implementing several measures to reduce congestion a...",
       "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Afternoon checks show nine Sarawak areas with unhealthy air quality, Serian still very unhealthy",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/afternoon-checks-show-nine-sarawak-areas-with-unhealthy-air-quality-serian-still-very-unhealthy/232211",
-      "source": "Malay Mail",
-      "published": "2026-08-21T08:56:17",
-      "summary": "KUALA LUMPUR, Aug 21 — The Air Pollution Index (API) reading at Serian station in Sarawak reached 227 (very unheal...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "MOH bans three batches of Chomel hand sanitiser over excessive methanol content",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/moh-bans-three-batches-of-chomel-hand-sanitiser-over-excessive-methanol-content/232208",
-      "source": "Malay Mail",
-      "published": "2026-08-21T08:22:45",
-      "summary": "PUTRAJAYA, Aug 21 — The Ministry of Health (MOH) has banned the sale of Chomel Hand Sanitizer after three batches...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Police arrest drug suspect after struggle with machete leaves officer injured in Jeli",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/21/police-arrest-drug-suspect-after-struggle-with-machete-leaves-officer-injured-in-jeli/232207",
-      "source": "Malay Mail",
-      "published": "2026-08-21T08:16:34",
-      "summary": "KOTA BHARU, Aug 21 — A suspect believed to be involved in drug trafficking was arrested after brandishing a machet...",
-      "keywords_matched": [
-        "drug"
+        "health",
+        "hospital",
+        "hospital"
       ]
     }
   ]
