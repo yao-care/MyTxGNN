@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-22T05:23:53.098989",
+  "fetched": "2026-08-22T06:35:28.427975",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "NUMed MBBS Graduates Continue Securing UK Foundation Programme Placements",
@@ -99,6 +99,16 @@
       "published": "2026-08-20T02:00:00",
       "summary": "Johan Merican said in 2023 that cancelling the exemption of liquid nicotine from the Poisons List will invalidate vape tax collection. As Putrajaya now upholds a court ruling nullifying the exemption, it's unclear if it must refund vape businesses >RM354m. The post Vape Tax Collection Invalid If Liquid Nicotine Exemption Cancelled, MOF Said In 2023 appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Sarawak postpones National Day events as haze pushes API readings to unhealthy levels statewide",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/22/sarawak-postpones-national-day-events-as-haze-pushes-api-readings-to-unhealthy-levels-statewide/232308",
+      "source": "Malay Mail",
+      "published": "2026-08-22T06:29:09",
+      "summary": "KUCHING, Aug 22 — The Sarawak-level National Day Celebration 2026 and two other major events have been postponed a...",
+      "keywords_matched": [
+        "health"
+      ]
     },
     {
       "title": "Penang Hospital acts to cut emergency wait times after viral video shows overcrowding",
