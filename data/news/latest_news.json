@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-23T08:26:35.745858",
+  "fetched": "2026-08-23T09:24:26.921258",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "NUMed MBBS Graduates Continue Securing UK Foundation Programme Placements",
@@ -119,16 +119,6 @@
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Budget 2027: Social Welfare Dept requests increase in RM500 caregiver assistance for bedridden patients",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/23/budget-2027-social-welfare-dept-requests-increase-in-rm500-caregiver-assistance-for-bedridden-patients/232378",
-      "source": "Malay Mail",
-      "published": "2026-08-23T04:04:36",
-      "summary": "PUTRAJAYA, Aug 23 — The Social Welfare Department (JKM) has submitted a request to the Finance Ministry for an inc...",
-      "keywords_matched": [
-        "patient"
       ]
     }
   ]
