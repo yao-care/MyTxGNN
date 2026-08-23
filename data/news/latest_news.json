@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-23T02:59:40.518065",
+  "fetched": "2026-08-23T03:56:11.978075",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "NUMed MBBS Graduates Continue Securing UK Foundation Programme Placements",
@@ -99,27 +99,6 @@
       "published": "2026-08-20T02:00:00",
       "summary": "Johan Merican said in 2023 that cancelling the exemption of liquid nicotine from the Poisons List will invalidate vape tax collection. As Putrajaya now upholds a court ruling nullifying the exemption, it's unclear if it must refund vape businesses >RM354m. The post Vape Tax Collection Invalid If Liquid Nicotine Exemption Cancelled, MOF Said In 2023 appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "UM scientist Lee Yee Qing clinches prestigious Young Investigator Award in tropical medicine research",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/22/um-scientist-lee-yee-qing-clinches-prestigious-young-investigator-award-in-tropical-medicine-research/232330",
-      "source": "Malay Mail",
-      "published": "2026-08-22T11:33:12",
-      "summary": "KUALA LUMPUR, Aug 22 — Universiti Malaya (UM) academic Dr Lee Yee Qing became the first Malaysian scientist to rec...",
-      "keywords_matched": [
-        "medicine"
-      ]
-    },
-    {
-      "title": "PM Anwar thanks Brunei for warm welcome, hospitality during two‑day Annual Leaders’ Consultation",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/22/pm-anwar-thanks-brunei-for-warm-welcome-hospitality-during-twoday-annual-leaders-consultation/232329",
-      "source": "Malay Mail",
-      "published": "2026-08-22T11:20:19",
-      "summary": "KUALA LUMPUR, Aug 22 — Prime Minister Datuk Seri Anwar Ibrahim has expressed his appreciation to Brunei for the wa...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
     }
   ]
 }
