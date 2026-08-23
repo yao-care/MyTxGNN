@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-23T03:56:11.978075",
+  "fetched": "2026-08-23T04:36:30.633599",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "NUMed MBBS Graduates Continue Securing UK Foundation Programme Placements",
@@ -99,6 +99,16 @@
       "published": "2026-08-20T02:00:00",
       "summary": "Johan Merican said in 2023 that cancelling the exemption of liquid nicotine from the Poisons List will invalidate vape tax collection. As Putrajaya now upholds a court ruling nullifying the exemption, it's unclear if it must refund vape businesses >RM354m. The post Vape Tax Collection Invalid If Liquid Nicotine Exemption Cancelled, MOF Said In 2023 appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Budget 2027: Social Welfare Dept requests increase in RM500 caregiver assistance for bedridden patients",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/23/budget-2027-social-welfare-dept-requests-increase-in-rm500-caregiver-assistance-for-bedridden-patients/232378",
+      "source": "Malay Mail",
+      "published": "2026-08-23T04:04:36",
+      "summary": "PUTRAJAYA, Aug 23 — The Social Welfare Department (JKM) has submitted a request to the Finance Ministry for an inc...",
+      "keywords_matched": [
+        "patient"
+      ]
     }
   ]
 }
