@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-23T09:24:26.921258",
+  "fetched": "2026-08-23T10:20:33.785520",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "NUMed MBBS Graduates Continue Securing UK Foundation Programme Placements",
@@ -99,6 +99,16 @@
       "published": "2026-08-20T02:00:00",
       "summary": "Johan Merican said in 2023 that cancelling the exemption of liquid nicotine from the Poisons List will invalidate vape tax collection. As Putrajaya now upholds a court ruling nullifying the exemption, it's unclear if it must refund vape businesses >RM354m. The post Vape Tax Collection Invalid If Liquid Nicotine Exemption Cancelled, MOF Said In 2023 appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Haze watch: Sungai Petani, Johan Setia worsen as five more areas in Malaysia edge towards unhealthy levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/23/haze-watch-sungai-petani-johan-setia-worsens-as-five-more-areas-in-malaysia-edge-towards-unhealthy-levels/232429",
+      "source": "Malay Mail",
+      "published": "2026-08-23T09:27:48",
+      "summary": "KUALA LUMPUR, Aug 23 — The haze picture shifted across peninsular Malaysia this afternoon, with Sungai Petani wors...",
+      "keywords_matched": [
+        "health"
+      ]
     },
     {
       "title": "Health Ministry reports surge in respiratory illnesses as several areas hit unhealthy API levels",
