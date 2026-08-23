@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-23T06:36:29.463317",
+  "fetched": "2026-08-23T07:30:55.628752",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
     {
       "title": "NUMed MBBS Graduates Continue Securing UK Foundation Programme Placements",
@@ -99,6 +99,27 @@
       "published": "2026-08-20T02:00:00",
       "summary": "Johan Merican said in 2023 that cancelling the exemption of liquid nicotine from the Poisons List will invalidate vape tax collection. As Putrajaya now upholds a court ruling nullifying the exemption, it's unclear if it must refund vape businesses >RM354m. The post Vape Tax Collection Invalid If Liquid Nicotine Exemption Cancelled, MOF Said In 2023 appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Health Ministry reports surge in respiratory illnesses as several areas hit unhealthy API levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/23/health-ministry-reports-surge-in-respiratory-illnesses-as-several-areas-hit-unhealthy-api-levels/232408",
+      "source": "Malay Mail",
+      "published": "2026-08-23T06:48:49",
+      "summary": "KUALA SELANGOR, Aug 23 — The Ministry of Health (MOH) has recorded a sharp increase in asthma and upper respirator...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Neighbourly row lands 80-year-old man in Penang Hospital, 62-year-old man in police custody",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/23/neighbourly-row-lands-80-year-old-man-in-penang-hospital-62-year-old-man-in-police-custody/232407",
+      "source": "Malay Mail",
+      "published": "2026-08-23T06:48:28",
+      "summary": "GEORGE TOWN, Aug 23 — A dispute between neighbours turned violent this morning when a 62-year-old man allegedly at...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
     },
     {
       "title": "Budget 2027: Social Welfare Dept requests increase in RM500 caregiver assistance for bedridden patients",
