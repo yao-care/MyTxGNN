@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-24T03:00:17.805080",
+  "fetched": "2026-08-24T04:40:57.116033",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Regulatory Oversight Needed For Insurance Clawbacks From Specialists — Private Specialist",
+      "url": "https://codeblue.galencentre.org/2026/08/regulatory-oversight-needed-for-insurance-clawbacks-from-specialists-private-specialist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-24T04:00:00",
+      "summary": "If specialists become worried that clinically appropriate procedures may later result in financial clawbacks, there is a risk that doctors may become more cautious about offering certain procedures. The post Regulatory Oversight Needed For Insurance Clawbacks From Specialists — Private Specialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor",
+        "clinical"
+      ]
+    },
+    {
+      "title": "Malaysia’s Hidden Sleep Crisis: Rest Must Become A Public Health Priority — Kala Raani Chandra Guindan, Thilagavathy Muniandy & Thilagavathi Subramaniam",
+      "url": "https://codeblue.galencentre.org/2026/08/malaysias-hidden-sleep-crisis-rest-must-become-a-public-health-priority-kala-raani-chandra-guindan-thilagavathy-muniandy-thilagavathi-subramaniam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-24T03:34:20",
+      "summary": "Recognising adequate sleep as a public health priority will protect well-being, support productivity and contribute to a healthier and safer Malaysia. The post Malaysia’s Hidden Sleep Crisis: Rest Must Become A Public Health Priority — Kala Raani Chandra Guindan, Thilagavathy Muniandy & Thilagavathi Subramaniam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Why I Stayed Quiet And Why The Nicotine Victory Belongs To All Of Us",
       "url": "https://codeblue.galencentre.org/2026/08/why-i-stayed-quiet-and-why-the-nicotine-victory-belongs-to-all-of-us/",
@@ -85,20 +106,14 @@
       ]
     },
     {
-      "title": "After The First Month: Can Breastfeeding Be Sustained In Malaysia? — Chee Gek Neo & Zainah Mat Isa",
-      "url": "https://codeblue.galencentre.org/2026/08/after-the-first-month-can-breastfeeding-be-sustained-in-malaysia-chee-gek-neo-zainah-mat-isa/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-20T06:00:00",
-      "summary": "Malaysia has made important progress, but sustaining breastfeeding beyond the early months requires more than awareness campaigns. The post After The First Month: Can Breastfeeding Be Sustained In Malaysia? — Chee Gek Neo & Zainah Mat Isa appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Court’s Nicotine Ruling Not Status Quo: Galen Centre",
-      "url": "https://codeblue.galencentre.org/2026/08/courts-nicotine-ruling-not-status-quo-galen-centre/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-20T03:30:00",
-      "summary": "Galen Centre CEO Azrul says the High Court's ruling on nicotine isn't status quo after the government dropped its appeal, pointing out that Act 852 doesn't address the legal status of liquid nicotine. He asks if nicotine vape retail sales are now banned. The post Court’s Nicotine Ruling Not Status Quo: Galen Centre appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Sarawak leads haze misery as Serian hits 194, unhealthy API spreads to Selangor, Kedah, Penang",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/24/sarawak-leads-haze-misery-as-serian-hits-194-unhealthy-api-spreads-to-selangor-kedah-penang/232470",
+      "source": "Malay Mail",
+      "published": "2026-08-24T03:47:14",
+      "summary": "KUALA LUMPUR, Aug 24 — Ten areas in four states recorded unhealthy Air Pollutant Index (API) readings as of 10am t...",
+      "keywords_matched": [
+        "health"
+      ]
     },
     {
       "title": "Haze watch: Sungai Petani, Johan Setia worsen as five more areas in Malaysia edge towards unhealthy levels",
