@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-24T08:47:20.164021",
+  "fetched": "2026-08-24T09:44:08.299321",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Medical Group Demands Action On Nicotine Vape, Tax Collection Validity",
+      "url": "https://codeblue.galencentre.org/2026/08/medical-group-demands-action-on-nicotine-vape-tax-collection-validity/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-24T09:35:45",
+      "summary": "Medical Mythbusters Malaysia wants clarity on whether nicotine vapes are now illegal and if a grace period is given to retailers. The group also asks if the RM354m in vape tax collected is invalid and if the government will pay refunds to vape businesses. The post Medical Group Demands Action On Nicotine Vape, Tax Collection Validity appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "When The Accused Is Moved And The Complainant Takes His Chair: Is This Natural Justice? — Dr Devadas Pathiyil Ramankutty",
       "url": "https://codeblue.galencentre.org/2026/08/when-the-accused-is-moved-and-the-complainant-takes-his-chair-is-this-natural-justice-dr-devadas-pathiyil-ramankutty/",
@@ -94,33 +104,14 @@
       "keywords_matched": []
     },
     {
-      "title": "It’s Not The Consumer’s Job To Tackle Medical Inflation",
-      "url": "https://codeblue.galencentre.org/2026/08/its-not-the-consumers-job-to-tackle-medical-inflation/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-21T03:30:00",
-      "summary": "MediAsas' numerous copayments, some of which breach BNM rules, show a misplaced burden on consumers to control medical inflation, even though it's not our fault when we fall sick. Guarantee premiums to prove that MediAsas will be affordable in 30 years. The post It’s Not The Consumer’s Job To Tackle Medical Inflation appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "E-hailing driver charged with attempted murder after setting woman on fire in Kepong",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/24/e-hailing-driver-charged-with-attempted-murder-after-setting-woman-on-fire-in-kepong/232476",
+      "title": "Ex-Sabah women and children’s hospital director sues successor, top official over removal",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/24/ex-sabah-women-and-childrens-hospital-director-sues-successor-top-official-over-removal/232509",
       "source": "Malay Mail",
-      "published": "2026-08-24T04:38:50",
-      "summary": "KUALA LUMPUR, Aug 24 — An e-hailing driver has claimed trial at the Sessions Court here to an attempted murder cha...",
+      "published": "2026-08-24T08:50:42",
+      "summary": "KOTA KINABALU, Aug 24 — The former director of Hospital Wanita dan Kanak-Kanak Sabah (HWKKS) has sued two senior s...",
       "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Sarawak leads haze misery as Serian hits 194, unhealthy API spreads to Selangor, Kedah, Penang",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/24/sarawak-leads-haze-misery-as-serian-hits-194-unhealthy-api-spreads-to-selangor-kedah-penang/232470",
-      "source": "Malay Mail",
-      "published": "2026-08-24T03:47:14",
-      "summary": "KUALA LUMPUR, Aug 24 — Ten areas in four states recorded unhealthy Air Pollutant Index (API) readings as of 10am t...",
-      "keywords_matched": [
-        "health"
+        "hospital",
+        "hospital"
       ]
     }
   ]
