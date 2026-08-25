@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-25T01:07:24.797646",
+  "fetched": "2026-08-25T02:55:56.877952",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Medical Group Demands Action On Nicotine Vape, Tax Collection Validity",
@@ -104,11 +104,21 @@
       "keywords_matched": []
     },
     {
-      "title": "Ex-Sabah women and children’s hospital director sues successor, top official over removal",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/24/ex-sabah-women-and-childrens-hospital-director-sues-successor-top-official-over-removal/232509",
+      "title": "Sarawak and Klang Valley worst hit as 30 spots in Malaysia breach ‘Unhealthy’ API levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/25/sarawak-and-klang-valley-worst-hit-as-30-spots-in-malaysia-breach-unhealthy-api-levels/232552",
       "source": "Malay Mail",
-      "published": "2026-08-24T08:50:42",
-      "summary": "KOTA KINABALU, Aug 24 — The former director of Hospital Wanita dan Kanak-Kanak Sabah (HWKKS) has sued two senior s...",
+      "published": "2026-08-25T02:29:50",
+      "summary": "KUALA LUMPUR, Aug 25 — Malaysia’s prolonged haze crisis showed no signs of abating today, with 30 monitoring...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Police say Pasir Mas crash kills elderly woman and granddaughter, third victim hospitalised with injuries",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/25/police-say-pasir-mas-crash-kills-elderly-woman-and-granddaughter-third-victim-hospitalised-with-injuries/232540",
+      "source": "Malay Mail",
+      "published": "2026-08-25T01:32:34",
+      "summary": "KOTA BHARU, Aug 25 — An elderly woman and her granddaughter were killed after the Perodua Axia they were travellin...",
       "keywords_matched": [
         "hospital",
         "hospital"
