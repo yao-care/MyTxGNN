@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-25T11:24:08.004859",
+  "fetched": "2026-08-25T12:41:59.416939",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Medical Group Demands Action On Nicotine Vape, Tax Collection Validity",
@@ -102,16 +102,6 @@
       "published": "2026-08-21T06:00:00",
       "summary": "The answer to ageing is not simply to build more nursing homes. It is to create a continuum of care that allows people to receive the right level of support wherever they live. The post Malaysia Has A Plan, Now It Needs The Courage To Deliver appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Haze alert: Penang health exco advises face masks as API levels spike",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/25/haze-alert-penang-health-exco-advises-face-masks-as-api-levels-spike/232566",
-      "source": "Malay Mail",
-      "published": "2026-08-25T04:17:04",
-      "summary": "GEORGE TOWN, Aug 25 — Residents of Penang are urged to limit outdoor activities as air quality deteriorated today,...",
-      "keywords_matched": [
-        "health"
-      ]
     }
   ]
 }
