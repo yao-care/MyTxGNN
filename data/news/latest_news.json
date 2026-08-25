@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-25T06:41:25.278788",
+  "fetched": "2026-08-25T07:41:21.387968",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Medical Group Demands Action On Nicotine Vape, Tax Collection Validity",
@@ -121,17 +121,6 @@
       "summary": "KUALA LUMPUR, Aug 25 — Malaysia’s prolonged haze crisis showed no signs of abating today, with 30 monitoring...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Police say Pasir Mas crash kills elderly woman and granddaughter, third victim hospitalised with injuries",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/25/police-say-pasir-mas-crash-kills-elderly-woman-and-granddaughter-third-victim-hospitalised-with-injuries/232540",
-      "source": "Malay Mail",
-      "published": "2026-08-25T01:32:34",
-      "summary": "KOTA BHARU, Aug 25 — An elderly woman and her granddaughter were killed after the Perodua Axia they were travellin...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
