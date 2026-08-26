@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-26T09:37:33.223778",
+  "fetched": "2026-08-26T10:32:21.295936",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 16,
   "items": [
     {
       "title": "Natural Justice, Institutional Fairness Needed In Sabah Hospital Case — FPMPAM",
@@ -100,6 +100,26 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-08-24T03:34:20",
       "summary": "Recognising adequate sleep as a public health priority will protect well-being, support productivity and contribute to a healthier and safer Malaysia. The post Malaysia’s Hidden Sleep Crisis: Rest Must Become A Public Health Priority — Kala Raani Chandra Guindan, Thilagavathy Muniandy & Thilagavathi Subramaniam appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "IGP: Police awaiting Indonesia report on Malaysian couple arrested over drug-laced vapes",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/26/igp-police-awaiting-indonesia-report-on-malaysian-couple-arrested-over-drug-laced-vapes/232761",
+      "source": "Malay Mail",
+      "published": "2026-08-26T10:09:53",
+      "summary": "PASIR MAS, Aug 26 — The Royal Malaysian Police (PDRM) is still waiting for a full report from Indonesian authoriti...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Haze: Health Ministry prepares for possible spike in asthma, respiratory infections",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/26/haze-health-ministry-prepares-for-possible-spike-in-asthma-respiratory-infections/232755",
+      "source": "Malay Mail",
+      "published": "2026-08-26T09:51:21",
+      "summary": "KUALA LUMPUR, Aug 26 — The Ministry of Health (MOH) will step up its preparedness in terms of manpower, monitoring...",
       "keywords_matched": [
         "health"
       ]
