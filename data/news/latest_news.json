@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-26T03:02:06.392445",
+  "fetched": "2026-08-26T04:36:33.174784",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Empowering The Underutilised GP: Why True Public-Private Partnership Demands Political Will And Fiscal Courage — Dr Bryan Kek",
+      "url": "https://codeblue.galencentre.org/2026/08/empowering-the-underutilised-gp-why-true-public-private-partnership-demands-political-will-and-fiscal-courage-dr-bryan-kek/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-26T03:30:00",
+      "summary": "Working families and vulnerable communities deserve policies anchored in uncompromising political will, solid fiscal backing, and an enduring commitment to true health care justice. The post Empowering The Underutilised GP: Why True Public-Private Partnership Demands Political Will And Fiscal Courage — Dr Bryan Kek appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "MOH And JPA Making It Hard For Specialists To Stay — Specialist",
       "url": "https://codeblue.galencentre.org/2026/08/moh-and-jpa-making-it-hard-for-specialists-to-stay-specialist/",
@@ -94,15 +104,13 @@
       ]
     },
     {
-      "title": "The Silent Burden Of Renal Nurses: Managing Life And Death In Private Dialysis Centres — Noor Hanita Zaini & Noor Hasliza Che Seman",
-      "url": "https://codeblue.galencentre.org/2026/08/the-silent-burden-of-renal-nurses-managing-life-and-death-in-private-dialysis-centres/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-21T08:00:00",
-      "summary": "While the public focuses on doctor shortages in government hospitals, specialised renal nurses in private standalone clinics are quietly managing life and death emergencies with limited resources. The post The Silent Burden Of Renal Nurses: Managing Life And Death In Private Dialysis Centres — Noor Hanita Zaini & Noor Hasliza Che Seman appeared first on CodeBlue .",
+      "title": "Malaysia must move beyond reactive API readings to forecast haze, says air quality researcher",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/26/malaysia-must-move-beyond-reactive-api-readings-to-forecast-haze-says-air-quality-researcher/232667",
+      "source": "Malay Mail",
+      "published": "2026-08-26T03:32:52",
+      "summary": "KUALA NERUS, Aug 26 — Malaysia should develop an early haze warning system to protect public health following recu...",
       "keywords_matched": [
-        "hospital",
-        "doctor",
-        "hospital"
+        "health"
       ]
     },
     {
