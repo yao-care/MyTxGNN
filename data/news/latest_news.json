@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-26T07:42:58.491900",
+  "fetched": "2026-08-26T08:39:50.069102",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Natural Justice, Institutional Fairness Needed In Sabah Hospital Case — FPMPAM",
+      "url": "https://codeblue.galencentre.org/2026/08/natural-justice-institutional-fairness-needed-in-sabah-hospital-case-fpmpam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-26T08:00:00",
+      "summary": "The medical profession and the public must be able to have confidence not only in the eventual outcome, but also in the fairness of the process by which that outcome is reached. The post Natural Justice, Institutional Fairness Needed In Sabah Hospital Case — FPMPAM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Suicide Prevention In Malaysia: Awareness Is Not Enough — Zainah Mat Isa & Chee Gek Neo",
       "url": "https://codeblue.galencentre.org/2026/08/suicide-prevention-in-malaysia-awareness-is-not-enough-zainah-mat-isa-chee-gek-neo/",
@@ -93,12 +105,14 @@
       ]
     },
     {
-      "title": "Why I Stayed Quiet And Why The Nicotine Victory Belongs To All Of Us",
-      "url": "https://codeblue.galencentre.org/2026/08/why-i-stayed-quiet-and-why-the-nicotine-victory-belongs-to-all-of-us/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-24T02:00:00",
-      "summary": "There were moments during this journey when things were considerably darker than perhaps most people outside the small group involved ever realised – because there was pressure on us not to proceed with the legal challenge. The post Why I Stayed Quiet And Why The Nicotine Victory Belongs To All Of Us appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Preacher, NGO secretary claim trial to RM13.8m CBT and money laundering charges",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/26/preacher-ngo-secretary-claim-trial-to-rm138m-cbt-and-money-laundering-charges/232735",
+      "source": "Malay Mail",
+      "published": "2026-08-26T08:14:21",
+      "summary": "SEREMBAN, Aug 26 — A 40-year-old “religious influencer” claimed trial at the Sessions Court here today...",
+      "keywords_matched": [
+        "trial"
+      ]
     },
     {
       "title": "Kluang used car dealer claims trial over illegal possession of Smith & Wesson pistol",
