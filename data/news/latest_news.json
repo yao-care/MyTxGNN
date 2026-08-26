@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-25T23:22:50.768677",
+  "fetched": "2026-08-26T01:09:49.887112",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Medical Group Demands Action On Nicotine Vape, Tax Collection Validity",
@@ -102,6 +102,16 @@
       "published": "2026-08-21T06:00:00",
       "summary": "The answer to ageing is not simply to build more nursing homes. It is to create a continuum of care that allows people to receive the right level of support wherever they live. The post Malaysia Has A Plan, Now It Needs The Courage To Deliver appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Haze persists across Malaysia as 17 stations record unhealthy air quality",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/26/haze-persists-across-malaysia-as-17-stations-record-unhealthy-air-quality/232628",
+      "source": "Malay Mail",
+      "published": "2026-08-26T00:50:46",
+      "summary": "KUALA LUMPUR, Aug 26 — Malaysia's air quality crisis showed no signs of abating this morning, with the Departm...",
+      "keywords_matched": [
+        "health"
+      ]
     }
   ]
 }
