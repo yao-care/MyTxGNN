@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-26T08:39:50.069102",
+  "fetched": "2026-08-26T09:37:33.223778",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
     {
       "title": "Natural Justice, Institutional Fairness Needed In Sabah Hospital Case — FPMPAM",
@@ -102,6 +102,26 @@
       "summary": "Recognising adequate sleep as a public health priority will protect well-being, support productivity and contribute to a healthier and safer Malaysia. The post Malaysia’s Hidden Sleep Crisis: Rest Must Become A Public Health Priority — Kala Raani Chandra Guindan, Thilagavathy Muniandy & Thilagavathi Subramaniam appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Bandar Utama school murder trial: Defence closes case after boy testifies",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/26/bandar-utama-school-murder-trial-defence-closes-case-after-boy-testifies/232747",
+      "source": "Malay Mail",
+      "published": "2026-08-26T09:04:00",
+      "summary": "SHAH ALAM, Aug 26 — The defence in the case of a 15-year-old boy charged with murdering a female student at a seco...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "‘If Muhyiddin did not help me… I would not donate RM4.8m to PPBM’, Bumi contractor says in Jana Wibawa trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/26/if-muhyiddin-did-not-help-me-i-would-not-donate-rm48m-to-ppbm-bumi-contractor-says-in-jana-wibawa-trial/232740",
+      "source": "Malay Mail",
+      "published": "2026-08-26T08:38:17",
+      "summary": "KUALA LUMPUR, Aug 26 — A Bumiputera businessman who secured a RM62 million government project under the Jana Wibaw...",
+      "keywords_matched": [
+        "trial"
       ]
     },
     {
