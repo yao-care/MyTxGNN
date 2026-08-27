@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-27T02:54:26.584644",
+  "fetched": "2026-08-27T13:46:34.197510",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Pharmacists Mobilise To Help Malaysians Affected By Haze",
+      "url": "https://codeblue.galencentre.org/2026/08/pharmacists-mobilise-to-help-malaysians-affected-by-haze/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-27T05:30:00",
+      "summary": "The role of pharmacists in responding to air pollution is also recognised by the International Pharmaceutical Federation (FIP). Community pharmacists are among the most accessible health care professionals in Malaysia. The post Pharmacists Mobilise To Help Malaysians Affected By Haze appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "pharmaceutical"
+      ]
+    },
+    {
+      "title": "Nicotine Vape Legality, Control Under MOH’s Jurisdiction: KPDN",
+      "url": "https://codeblue.galencentre.org/2026/08/nicotine-vape-legality-control-under-mohs-jurisdiction-kpdn/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-27T03:30:00",
+      "summary": "KPDN says the legality and control of nicotine vape fall under MOH's jurisdiction, not Domestic Trade, because nicotine is \"classified as an active chemical substance and poison that directly affects public health, not an ordinary trade commodity\". The post Nicotine Vape Legality, Control Under MOH’s Jurisdiction: KPDN appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Vape Industry Flags Massive Potential Legal, Commercial Consequences After Government Drops Nicotine Appeal",
       "url": "https://codeblue.galencentre.org/2026/08/vape-industry-flags-massive-potential-legal-commercial-consequences-after-government-drops-nicotine-appeal/",
@@ -84,32 +105,34 @@
       "keywords_matched": []
     },
     {
-      "title": "MCTC Demands Consistent National Vape Policy Amid Perak Ban, Nicotine Appeal Withdrawal",
-      "url": "https://codeblue.galencentre.org/2026/08/mctc-demands-consistent-national-vape-policy-amid-perak-ban-nicotine-appeal-withdrawal/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-24T05:46:22",
-      "summary": "MCTC wants the federal government to be clear on whether nicotine vape is banned at the national level since the industry is challenging a Perak state ban on vape. Putrajaya hasn’t explained the implications of dropping its court appeal on nicotine either. The post MCTC Demands Consistent National Vape Policy Amid Perak Ban, Nicotine Appeal Withdrawal appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Regulatory Oversight Needed For Insurance Clawbacks From Specialists — Private Specialist",
-      "url": "https://codeblue.galencentre.org/2026/08/regulatory-oversight-needed-for-insurance-clawbacks-from-specialists-private-specialist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-24T04:00:00",
-      "summary": "If specialists become worried that clinically appropriate procedures may later result in financial clawbacks, there is a risk that doctors may become more cautious about offering certain procedures. The post Regulatory Oversight Needed For Insurance Clawbacks From Specialists — Private Specialist appeared first on CodeBlue .",
+      "title": "Muhyiddin trial: Witness admits testifying to avoid corruption charges, but denies getting MACC ‘immunity’ deal",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/27/muhyiddin-trial-witness-admits-testifying-to-avoid-corruption-charges-but-denies-getting-macc-immunity-deal/232924",
+      "source": "Malay Mail",
+      "published": "2026-08-27T09:57:27",
+      "summary": "KUALA LUMPUR, Aug 27 — A key prosecution witness today agreed that he had come to court to testify against former...",
       "keywords_matched": [
-        "doctor",
-        "clinical"
+        "trial"
       ]
     },
     {
-      "title": "Haze: Four areas in Sarawak, capital record unhealthy API readings",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/27/haze-four-areas-in-sarawak-capital-record-unhealthy-api-readings/232794",
+      "title": "Lubok Antu only Sarawak area with very unhealthy API reading as of 4pm",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/27/lubok-antu-only-sarawak-area-with-very-unhealthy-api-reading-as-of-4pm/232920",
       "source": "Malay Mail",
-      "published": "2026-08-27T00:56:53",
-      "summary": "KUALA LUMPUR, Aug 27 — Three areas in Sarawak and one in Kuala Lumpur recorded Air Pollutant Index (API) readings...",
+      "published": "2026-08-27T09:23:25",
+      "summary": "KUCHING, Aug 27 — Lubok Antu was the only area in Sarawak to record a “very unhealthy” Air Pollutant I...",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Sunway Lagoon roller coaster accident that landed two in hospital now under Selangor police probe for possible negligence, sabotage",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/27/sunway-lagoon-roller-coaster-accident-that-landed-two-in-hospital-now-under-selangor-police-probe-for-possible-negligence-sabotage/232889",
+      "source": "Malay Mail",
+      "published": "2026-08-27T07:53:51",
+      "summary": "SHAH ALAM, Aug 27 — Police are conducting a detailed investigation into an accident involving a roller coaster rid...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
