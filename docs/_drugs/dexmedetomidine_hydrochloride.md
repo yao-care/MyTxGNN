@@ -2,7 +2,7 @@
 layout: default
 title: Dexmedetomidine Hydrochloride
 parent: 僅模型預測 (L5)
-nav_order: 170
+nav_order: 265
 evidence_level: L5
 indication_count: 0
 ---

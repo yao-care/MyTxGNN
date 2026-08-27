@@ -2,7 +2,7 @@
 layout: default
 title: Pivmecillinam Hydrochloride
 parent: 僅模型預測 (L5)
-nav_order: 232
+nav_order: 558
 evidence_level: L5
 indication_count: 0
 ---

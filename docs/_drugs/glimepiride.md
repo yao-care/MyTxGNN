@@ -1,77 +1,90 @@
 ---
-layout: drug
-title: "Glimepiride"
-drugbank_id: "DB00222"
-drug_name: "Glimepiride"
-kg_predictions: 20
-dl_predictions: 18
-evidence_level: "L5"
+layout: default
+title: Glimepiride
+parent: 僅模型預測 (L5)
+nav_order: 370
+evidence_level: L5
 indication_count: 9
-brands: []
-permalink: /drugs/glimepiride/
 ---
 
 # Glimepiride
+{: .fs-9 }
 
-## Gambaran Ringkas
-
-| Atribut | Nilai |
-|-----------|-------|
-| **Nama Ubat** | Glimepiride |
-| **ID DrugBank** | [DB00222](https://go.drugbank.com/drugs/DB00222) |
-| **Ramalan KG** | 20 |
-| **Ramalan DL (≥0.7)** | 18 |
-| **Tahap Bukti** | L5 |
-| **Status NPRA** | Approved |
+證據等級: **L5** | 預測適應症: **9** 個
+{: .fs-6 .fw-300 }
 
 ---
 
-## Contoh Nama Jenama di Malaysia
+## 目錄
+{: .no_toc .text-delta }
 
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **20** ramalan graf pengetahuan dan **18** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| type 2 diabetes mellitus | KG |
-| diabetes mellitus (disease) | KG |
-| type 2 diabetes mellitus | KG |
-| diabetes mellitus (disease) | KG |
-| type 2 diabetes mellitus | KG |
-| diabetes mellitus (disease) | KG |
-| type 2 diabetes mellitus | KG |
-| diabetes mellitus (disease) | KG |
-| type 2 diabetes mellitus | KG |
-| diabetes mellitus (disease) | KG |
+1. TOC
+{:toc}
 
 ---
 
-## Sumber FHIR
+<div id="pharmacist">
 
-Akses data ubat melalui API FHIR R4:
+## 藥師評估報告
 
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00222`](/fhir/MedicationKnowledge/DB00222.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00222) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Glimepiride) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Glimepiride) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>
+
+# Glimepiride: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
+
+## One-Sentence Summary
+
+Glimepiride is a second-generation sulfonylurea widely used for type 2 diabetes mellitus. The TxGNN model predicts it may be effective for **focal stiff limb syndrome**, but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a model-only prediction with no external evidence backing it.
+
+## Quick Overview
+
+| Item | Content |
+|------|------|
+| Original Indication | Type 2 Diabetes Mellitus (well-established use as a sulfonylurea; TFDA-specific approved indication text is not available in the current registry data) |
+| Predicted New Indication | Focal stiff limb syndrome |
+| TxGNN Prediction Score | 99.75% |
+| Evidence Level | L5 |
+| Malaysia Market Status | ✓ Marketed |
+| Number of Registrations | 10 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap). Based on generally known pharmacology, glimepiride is a sulfonylurea that stimulates insulin release from pancreatic β-cells by closing ATP-sensitive potassium channels; its efficacy in type 2 diabetes is well established.
+
+Focal stiff limb syndrome is a rare autoimmune/neurological disorder of the GABAergic inhibitory system, typically related to anti-GAD65 antibodies rather than glucose metabolism or insulin secretion. No mechanistic rationale linking sulfonylurea pharmacology to this condition is provided in the evidence pack for this candidate (the field is marked "pending"), and no clinical trials or literature support the association.
+
+Given the absence of a plausible mechanistic link, an established biological rationale, and any supporting evidence, this prediction should be treated as a candidate for hypothesis generation only, not as a basis for clinical action.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered
+
+## Literature Evidence
+
+Currently no related literature available
+
+## Safety Considerations
+
+Please refer to the package insert for safety information.
+
+Note: a TFDA label warnings/contraindications data gap (DG001) is flagged as **Blocking**, meaning a formal S1 safety review cannot currently be conducted for this candidate.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This is an L5, model-prediction-only candidate with no clinical trials, no literature, and no established mechanistic link between glimepiride's pharmacology and focal stiff limb syndrome. A blocking data gap in TFDA safety labeling also prevents a proper safety evaluation.
+
+**To proceed, the following is needed:**
+- TFDA product label (warnings, contraindications) — resolves DG001 (Blocking)
+- DrugBank mechanism-of-action data — resolves DG002 (High)
+- A defined mechanistic hypothesis linking sulfonylurea pharmacology to stiff limb/stiff person spectrum disorders
+- Any preclinical, case-report, or mechanistic literature to elevate evidence above L5 before further evaluation
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

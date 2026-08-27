@@ -2,7 +2,7 @@
 layout: default
 title: Pitavastatin Calcium
 parent: 僅模型預測 (L5)
-nav_order: 230
+nav_order: 556
 evidence_level: L5
 indication_count: 0
 ---

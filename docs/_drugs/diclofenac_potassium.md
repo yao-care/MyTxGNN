@@ -2,7 +2,7 @@
 layout: default
 title: Diclofenac Potassium
 parent: 僅模型預測 (L5)
-nav_order: 181
+nav_order: 276
 evidence_level: L5
 indication_count: 0
 ---

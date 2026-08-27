@@ -1,71 +1,96 @@
 ---
-layout: drug
-title: "Netarsudil"
-drugbank_id: "DB13931"
-drug_name: "Netarsudil"
-kg_predictions: 4
-dl_predictions: 0
-evidence_level: "L1"
+layout: default
+title: Netarsudil
+parent: 僅模型預測 (L5)
+nav_order: 499
+evidence_level: L5
 indication_count: 2
-brands: []
-permalink: /drugs/netarsudil/
 ---
 
 # Netarsudil
+{: .fs-9 }
 
-## Gambaran Ringkas
-
-| Atribut | Nilai |
-|-----------|-------|
-| **Nama Ubat** | Netarsudil |
-| **ID DrugBank** | [DB13931](https://go.drugbank.com/drugs/DB13931) |
-| **Ramalan KG** | 4 |
-| **Ramalan DL (≥0.7)** | 0 |
-| **Tahap Bukti** | L5 |
-| **Status NPRA** | Approved |
+證據等級: **L5** | 預測適應症: **2** 個
+{: .fs-6 .fw-300 }
 
 ---
 
-## Contoh Nama Jenama di Malaysia
+## 目錄
+{: .no_toc .text-delta }
 
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **4** ramalan graf pengetahuan dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| ocular hypertension | KG |
-| open-angle glaucoma | KG |
-| ocular hypertension | KG |
-| open-angle glaucoma | KG |
+1. TOC
+{:toc}
 
 ---
 
-## Sumber FHIR
+<div id="pharmacist">
 
-Akses data ubat melalui API FHIR R4:
+## 藥師評估報告
 
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB13931`](/fhir/MedicationKnowledge/DB13931.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB13931) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Netarsudil) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Netarsudil) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>
+
+# Netarsudil: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+
+## One-Sentence Summary
+
+> Netarsudil is a Rho-kinase (ROCK) inhibitor already marketed for lowering intraocular pressure in open-angle glaucoma and ocular hypertension.
+> The TxGNN model predicts it may also be effective for **Primary Hereditary Glaucoma**,
+> but this direction is currently supported by only **1 indirectly relevant clinical trial** and **0 dedicated publications**.
+
+## Quick Overview
+
+| Item | Content |
+|------|------|
+| Original Indication | Not stated in the NPRA license records provided (fields blank); per the evidence pack's own literature/trial titles, netarsudil's established approved use is open-angle glaucoma / ocular hypertension (IOP lowering) |
+| Predicted New Indication | Primary Hereditary Glaucoma |
+| TxGNN Prediction Score | 99.50% |
+| Evidence Level | L4 |
+| Malaysia Market Status | ✓ Marketed (已上市) |
+| Number of Registrations | 2 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed DrugBank mechanism-of-action text is not available for this drug (data gap). Based on the literature captured in this evidence pack, netarsudil is known to act as a dual Rho-associated kinase (ROCK) and norepinephrine-transporter inhibitor. It acts directly on the trabecular meshwork cytoskeleton, increasing conventional aqueous outflow and reducing episcleral venous pressure — the mechanism underlying its established IOP-lowering effect in open-angle glaucoma and ocular hypertension.
+
+Primary hereditary glaucoma is a genetically driven subtype of glaucoma in which elevated intraocular pressure again arises from increased resistance to aqueous humor outflow, typically due to developmental abnormalities of the anterior chamber angle. Since the pathophysiological endpoint (elevated outflow resistance → elevated IOP) is shared with the already-approved indication, there is a plausible mechanistic rationale for extrapolating netarsudil's effect to this hereditary subtype.
+
+However, this extrapolation is not yet clinically validated for this specific population. The only trial mapped to this indication, NCT06969586, enrolls patients with Fuchs endothelial corneal dystrophy (some of whom have glaucoma) and measures corneal endothelial cell protection after cataract surgery — not IOP-lowering efficacy in primary hereditary glaucoma. No trial has been designed with this hereditary subtype as its primary study population or endpoint.
+
+## Clinical Trial Evidence
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT06969586](https://clinicaltrials.gov/study/NCT06969586) | N/A | Enrolling by Invitation | 50 | Evaluates whether topical ROCK inhibitors protect corneal endothelial cells after cataract surgery in patients with glaucoma and Fuchs endothelial corneal dystrophy — a corneal-safety study, not an efficacy trial in primary hereditary glaucoma |
+
+## Literature Evidence
+
+Currently no related literature available
+
+## Malaysia Market Information
+
+NPRA records confirm netarsudil is registered under **2 authorizations** and is currently marketed, but the detailed fields (authorization number, product name, dosage form, approved indication text) were not returned in this data pull and are unavailable for citation here.
+
+## Safety Considerations
+
+Please refer to the package insert for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The mechanistic rationale is plausible (shared outflow-resistance pathophysiology with the drug's approved use), but evidence is L4 — the only mapped trial does not test efficacy in this hereditary glaucoma subtype, and there is no supporting literature. A TFDA/NPRA-level safety review is also blocked pending package insert data (DG001).
+
+**To proceed, the following is needed:**
+- TFDA/NPRA package insert (warnings, contraindications) — currently a blocking data gap
+- Confirmed DrugBank mechanism-of-action record
+- A clinical trial or observational study with primary hereditary glaucoma patients as the primary population/endpoint
+- Complete Malaysia license detail (authorization numbers, product names, approved indication text)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

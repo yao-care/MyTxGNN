@@ -2,7 +2,7 @@
 layout: default
 title: Dihydrocodeine Tartrate
 parent: 僅模型預測 (L5)
-nav_order: 186
+nav_order: 281
 evidence_level: L5
 indication_count: 0
 ---

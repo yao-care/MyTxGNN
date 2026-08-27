@@ -1,77 +1,91 @@
 ---
-layout: drug
-title: "Lactulose"
-drugbank_id: "DB00581"
-drug_name: "Lactulose"
-kg_predictions: 36
-dl_predictions: 212
-evidence_level: "L2"
+layout: default
+title: Lactulose
+parent: 僅模型預測 (L5)
+nav_order: 422
+evidence_level: L5
 indication_count: 8
-brands: []
-permalink: /drugs/lactulose/
 ---
 
 # Lactulose
+{: .fs-9 }
 
-## Gambaran Ringkas
-
-| Atribut | Nilai |
-|-----------|-------|
-| **Nama Ubat** | Lactulose |
-| **ID DrugBank** | [DB00581](https://go.drugbank.com/drugs/DB00581) |
-| **Ramalan KG** | 36 |
-| **Ramalan DL (≥0.7)** | 212 |
-| **Tahap Bukti** | L5 |
-| **Status NPRA** | Approved |
+證據等級: **L5** | 預測適應症: **8** 個
+{: .fs-6 .fw-300 }
 
 ---
 
-## Contoh Nama Jenama di Malaysia
+## 目錄
+{: .no_toc .text-delta }
 
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **36** ramalan graf pengetahuan dan **212** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| hepatic coma | KG |
-| hepatic encephalopathy | KG |
-| constipation disorder | KG |
-| hepatic coma | KG |
-| hepatic encephalopathy | KG |
-| constipation disorder | KG |
-| hepatic coma | KG |
-| hepatic encephalopathy | KG |
-| constipation disorder | KG |
-| hepatic coma | KG |
+1. TOC
+{:toc}
 
 ---
 
-## Sumber FHIR
+<div id="pharmacist">
 
-Akses data ubat melalui API FHIR R4:
+## 藥師評估報告
 
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00581`](/fhir/MedicationKnowledge/DB00581.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00581) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Lactulose) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Lactulose) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>
+
+# Lactulose: From Constipation / Hepatic Encephalopathy to Acute Urate Nephropathy
+
+## One-Sentence Summary
+
+Lactulose is a non-absorbable synthetic disaccharide long established for treating constipation and hepatic (portosystemic) encephalopathy. The TxGNN model's top-ranked prediction proposes potential effectiveness for **Acute Urate Nephropathy**, but currently **0 clinical trials** and **0 publications** support this specific pairing — the prediction rests on the model score alone.
+
+## Quick Overview
+
+| Item | Content |
+|------|------|
+| Original Indication | Not recorded in the current NPRA license extract (this data pull returned no `approved_indication_text`); lactulose's globally established indications are constipation and hepatic/portosystemic encephalopathy |
+| Predicted New Indication | Acute Urate Nephropathy |
+| TxGNN Prediction Score | 99.89% |
+| Evidence Level | L5 |
+| Malaysia Market Status | ✓ Marketed (已上市) |
+| Number of Registrations | 12 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available (DrugBank MOA query returned a data gap). Based on known pharmacology, lactulose acts locally in the colon — its osmotic effect and bacterial fermentation to short-chain organic acids lower luminal pH, which underlies its efficacy in constipation and in reducing ammonia absorption in hepatic encephalopathy.
+
+For this specific prediction, there is no known mechanistic link between lactulose and acute urate nephropathy: lactulose does not affect uric acid metabolism or renal tubular urate deposition/excretion. No clinical trial or literature evidence was found for this pairing. This appears to be a pure model-score prediction without pharmacological or empirical support, and should be treated as a low-confidence signal rather than a research lead.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## Malaysia Market Information
+
+Detailed license records (product names, dosage forms, manufacturers) were not returned in this data extract — all license fields came back empty. NPRA data confirms lactulose has **12 active registrations** and a market status of **Marketed (已上市)** in Malaysia; individual authorization details would need to be re-pulled from the NPRA source.
+
+## Safety Considerations
+
+Please refer to the package insert for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Despite a high TxGNN score, there is no known mechanistic link between lactulose and acute urate nephropathy, and zero clinical trials or literature exist for this pairing — this is an L5, model-only prediction with insufficient basis to advance.
+
+**To proceed, the following is needed:**
+- Preclinical/mechanistic studies on lactulose's effect on uric acid metabolism or renal urate handling, to establish any plausible biological rationale
+- TFDA/NPRA package insert data (warnings, contraindications) — currently a blocking data gap for even a baseline safety screen
+- DrugBank MOA data to properly assess mechanistic plausibility across all candidate indications
+
+**Note:** Among the other indications in this evidence pack, **obstructive jaundice** (rank 3, evidence level L3, 1 completed Phase 4 trial plus 20 publications including a multicentre RCT on postoperative renal protection) shows substantially stronger mechanistic and evidentiary support and may warrant a separate, dedicated evaluation report.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

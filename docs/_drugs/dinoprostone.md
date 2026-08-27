@@ -2,7 +2,7 @@
 layout: default
 title: Dinoprostone
 parent: 僅模型預測 (L5)
-nav_order: 190
+nav_order: 285
 evidence_level: L5
 indication_count: 0
 ---

@@ -1,77 +1,91 @@
 ---
-layout: drug
-title: "Gilteritinib"
-drugbank_id: "DB12141"
-drug_name: "Gilteritinib"
-kg_predictions: 15
-dl_predictions: 0
-evidence_level: "L5"
+layout: default
+title: Gilteritinib
+parent: 僅模型預測 (L5)
+nav_order: 367
+evidence_level: L5
 indication_count: 1
-brands: []
-permalink: /drugs/gilteritinib/
 ---
 
 # Gilteritinib
+{: .fs-9 }
 
-## Gambaran Ringkas
-
-| Atribut | Nilai |
-|-----------|-------|
-| **Nama Ubat** | Gilteritinib |
-| **ID DrugBank** | [DB12141](https://go.drugbank.com/drugs/DB12141) |
-| **Ramalan KG** | 15 |
-| **Ramalan DL (≥0.7)** | 0 |
-| **Tahap Bukti** | L5 |
-| **Status NPRA** | Approved |
+證據等級: **L5** | 預測適應症: **1** 個
+{: .fs-6 .fw-300 }
 
 ---
 
-## Contoh Nama Jenama di Malaysia
+## 目錄
+{: .no_toc .text-delta }
 
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **15** ramalan graf pengetahuan dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| therapy related acute myeloid leukemia and myelodysplastic syndrome | KG |
-| acute myeloblastic leukemia with maturation | KG |
-| acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor | KG |
-| acute myeloid leukemia with minimal differentiation | KG |
-| myeloid leukemia | KG |
-| acute myeloid leukemia with t(6;9)(p23;q34) | KG |
-| acute myeloid leukemia with t(8;21)(q22;q22) translocation | KG |
-| inherited acute myeloid leukemia | KG |
-| acute myeloid leukemia with t(8;16)(p11;p13) translocation | KG |
-| acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2) | KG |
+1. TOC
+{:toc}
 
 ---
 
-## Sumber FHIR
+<div id="pharmacist">
 
-Akses data ubat melalui API FHIR R4:
+## 藥師評估報告
 
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB12141`](/fhir/MedicationKnowledge/DB12141.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB12141) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Gilteritinib) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Gilteritinib) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>
+
+# Gilteritinib: From Acute Myeloid Leukemia to Bulbar Polio
+
+## One-Sentence Summary
+
+Gilteritinib is a FLT3/AXL tyrosine kinase inhibitor used clinically for FLT3-mutated acute myeloid leukemia (AML). The TxGNN model predicts a possible effect in **Bulbar Polio**, a poliovirus-mediated motor neuron disease, but this direction is currently supported only by the model's graph score — **no clinical trials and no literature** have been identified.
+
+## Quick Overview
+
+| Item | Content |
+|------|------|
+| Original Indication | Not available in regulatory record (license fields blank); per drug mechanism notes, gilteritinib is used for FLT3-mutated AML |
+| Predicted New Indication | Bulbar Polio |
+| TxGNN Prediction Score | 99.10% |
+| Evidence Level | L5 |
+| Malaysia Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism of action data from the regulatory source is not available (flagged as a Blocking/High-severity data gap). Based on the mechanistic notes accompanying this prediction, gilteritinib is a FLT3/AXL tyrosine kinase inhibitor, clinically used for FLT3-mutation-positive acute myeloid leukemia — a targeted oncology therapy acting on hematopoietic malignant cell signaling.
+
+Bulbar polio is an acute neuromuscular disease caused by poliovirus infection and destruction of motor neurons in the brainstem. Its pathology (viral replication and direct neuronal injury) has no established relationship to the FLT3/AXL kinase pathway, and no shared pharmacological, mechanistic, or epidemiological rationale links the two conditions.
+
+This prediction should therefore be read as a pure knowledge-graph association rather than a mechanistically grounded hypothesis. The TxGNN score is high, but score magnitude alone does not substitute for mechanistic plausibility or empirical evidence — both of which are absent here.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## Malaysia Market Information
+
+Gilteritinib is registered as marketed in Malaysia (1 authorization on file), but the license record (authorization number, product name, dosage form, approved indication text) is not populated in the current data source and cannot be tabulated.
+
+## Safety Considerations
+
+Please refer to the package insert for safety information.
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction is supported only by a TxGNN graph score (L5, no clinical or literature evidence), and the proposed mechanistic link between a FLT3/AXL kinase inhibitor and a poliovirus-mediated neurological disease is not biologically plausible based on available information. This does not meet the threshold to advance to safety or clinical evaluation.
+
+**To proceed, the following is needed:**
+- Official TFDA/NPRA label data — warnings, contraindications, and full approved indication text (currently blocking)
+- Verified mechanism of action documentation (currently a data gap)
+- Any preclinical or mechanistic evidence connecting FLT3/AXL inhibition to poliovirus pathology, motor neuron protection, or antiviral activity, before further evaluation is warranted
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+
