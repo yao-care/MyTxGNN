@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-27T13:46:34.197510",
+  "fetched": "2026-08-27T23:35:11.480213",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Pharmacists Mobilise To Help Malaysians Affected By Haze",
@@ -122,17 +122,6 @@
       "summary": "KUCHING, Aug 27 — Lubok Antu was the only area in Sarawak to record a “very unhealthy” Air Pollutant I...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Sunway Lagoon roller coaster accident that landed two in hospital now under Selangor police probe for possible negligence, sabotage",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/27/sunway-lagoon-roller-coaster-accident-that-landed-two-in-hospital-now-under-selangor-police-probe-for-possible-negligence-sabotage/232889",
-      "source": "Malay Mail",
-      "published": "2026-08-27T07:53:51",
-      "summary": "SHAH ALAM, Aug 27 — Police are conducting a detailed investigation into an accident involving a roller coaster rid...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
