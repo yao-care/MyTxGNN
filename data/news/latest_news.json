@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-26T21:43:40.052189",
+  "fetched": "2026-08-27T02:54:26.584644",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Vape Industry Flags Massive Potential Legal, Commercial Consequences After Government Drops Nicotine Appeal",
+      "url": "https://codeblue.galencentre.org/2026/08/vape-industry-flags-massive-potential-legal-commercial-consequences-after-government-drops-nicotine-appeal/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-27T02:00:00",
+      "summary": "Mevta says if Putrajaya decides that nicotine vape is illegal, after it dropped its appeal, there must be a minimum 6-month transition period for the entire supply chain (from raw liquid nicotine stock to retail vape sale) and refund of excise duties paid. The post Vape Industry Flags Massive Potential Legal, Commercial Consequences After Government Drops Nicotine Appeal appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Natural Justice, Institutional Fairness Needed In Sabah Hospital Case — FPMPAM",
       "url": "https://codeblue.galencentre.org/2026/08/natural-justice-institutional-fairness-needed-in-sabah-hospital-case-fpmpam/",
@@ -95,41 +103,11 @@
       ]
     },
     {
-      "title": "Malaysia’s Hidden Sleep Crisis: Rest Must Become A Public Health Priority — Kala Raani Chandra Guindan, Thilagavathy Muniandy & Thilagavathi Subramaniam",
-      "url": "https://codeblue.galencentre.org/2026/08/malaysias-hidden-sleep-crisis-rest-must-become-a-public-health-priority-kala-raani-chandra-guindan-thilagavathy-muniandy-thilagavathi-subramaniam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-24T03:34:20",
-      "summary": "Recognising adequate sleep as a public health priority will protect well-being, support productivity and contribute to a healthier and safer Malaysia. The post Malaysia’s Hidden Sleep Crisis: Rest Must Become A Public Health Priority — Kala Raani Chandra Guindan, Thilagavathy Muniandy & Thilagavathi Subramaniam appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Khairy launches Flowstate as GE16 uncertainty looms, to advise on political, investment risks",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/26/khairy-launches-flowstate-as-ge16-uncertainty-looms-to-advise-on-political-investment-risks/232769",
+      "title": "Haze: Four areas in Sarawak, capital record unhealthy API readings",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/27/haze-four-areas-in-sarawak-capital-record-unhealthy-api-readings/232794",
       "source": "Malay Mail",
-      "published": "2026-08-26T11:16:06",
-      "summary": "KUALA LUMPUR, Aug 26 — Former health minister Khairy Jamaluddin has launched boutique corporate advisory firm Flow...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "IGP: Police awaiting Indonesia report on Malaysian couple arrested over drug-laced vapes",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/26/igp-police-awaiting-indonesia-report-on-malaysian-couple-arrested-over-drug-laced-vapes/232761",
-      "source": "Malay Mail",
-      "published": "2026-08-26T10:09:53",
-      "summary": "PASIR MAS, Aug 26 — The Royal Malaysian Police (PDRM) is still waiting for a full report from Indonesian authoriti...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Haze: Health Ministry prepares for possible spike in asthma, respiratory infections",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/26/haze-health-ministry-prepares-for-possible-spike-in-asthma-respiratory-infections/232755",
-      "source": "Malay Mail",
-      "published": "2026-08-26T09:51:21",
-      "summary": "KUALA LUMPUR, Aug 26 — The Ministry of Health (MOH) will step up its preparedness in terms of manpower, monitoring...",
+      "published": "2026-08-27T00:56:53",
+      "summary": "KUALA LUMPUR, Aug 27 — Three areas in Sarawak and one in Kuala Lumpur recorded Air Pollutant Index (API) readings...",
       "keywords_matched": [
         "health"
       ]
