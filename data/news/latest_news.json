@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-27T23:35:11.480213",
+  "fetched": "2026-08-28T09:34:05.271560",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,28 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "I Hope Medicine Is Kind To You — Dr Loshi Rajen",
+      "url": "https://codeblue.galencentre.org/2026/08/i-hope-medicine-is-kind-to-you-dr-loshi-rajen/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-28T03:30:00",
+      "summary": "I have experienced both casual unkindness and spontaneous kindness in medicine. I know how much unkindness can take away from someone and how much kindness can give. The post I Hope Medicine Is Kind To You — Dr Loshi Rajen appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine"
+      ]
+    },
+    {
+      "title": "Universiti Malaya’s Nirmala Appointed To WHO Science Council",
+      "url": "https://codeblue.galencentre.org/2026/08/universiti-malayas-nirmala-appointed-to-who-science-council/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-08-28T02:00:00",
+      "summary": "Prof Nirmala Bhoo-Pathy, a clinical epidemiology professor at Universiti Malaya and cancer systems scientist, has been appointed to the WHO Science Council. She wants to focus on the health workforce as the “human infrastructure for scientific progress”. The post Universiti Malaya’s Nirmala Appointed To WHO Science Council appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "cancer",
+        "clinical"
+      ]
+    },
     {
       "title": "Pharmacists Mobilise To Help Malaysians Affected By Haze",
       "url": "https://codeblue.galencentre.org/2026/08/pharmacists-mobilise-to-help-malaysians-affected-by-haze/",
@@ -89,37 +111,21 @@
       ]
     },
     {
-      "title": "When The Accused Is Moved And The Complainant Takes His Chair: Is This Natural Justice? — Dr Devadas Pathiyil Ramankutty",
-      "url": "https://codeblue.galencentre.org/2026/08/when-the-accused-is-moved-and-the-complainant-takes-his-chair-is-this-natural-justice-dr-devadas-pathiyil-ramankutty/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-24T08:00:00",
-      "summary": "A system that effectively presumes guilt simply because an accusation has been made is an unjust system. The post When The Accused Is Moved And The Complainant Takes His Chair: Is This Natural Justice? — Dr Devadas Pathiyil Ramankutty appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "When Waiting Becomes Falling Behind — Dr Ng Kuo Chern",
-      "url": "https://codeblue.galencentre.org/2026/08/when-waiting-becomes-falling-behind-dr-ng-kuo-chern/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-24T06:00:00",
-      "summary": "A system in which nobody will pay until a technology is already cheap, familiar, and universally accepted will have no mechanism for developing new capabilities of its own. The post When Waiting Becomes Falling Behind — Dr Ng Kuo Chern appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Muhyiddin trial: Witness admits testifying to avoid corruption charges, but denies getting MACC ‘immunity’ deal",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/27/muhyiddin-trial-witness-admits-testifying-to-avoid-corruption-charges-but-denies-getting-macc-immunity-deal/232924",
+      "title": "Why being young and healthy won’t protect you from the haze choking Malaysia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/28/why-being-young-and-healthy-wont-protect-you-from-the-haze-choking-malaysia/233029",
       "source": "Malay Mail",
-      "published": "2026-08-27T09:57:27",
-      "summary": "KUALA LUMPUR, Aug 27 — A key prosecution witness today agreed that he had come to court to testify against former...",
+      "published": "2026-08-28T07:20:18",
+      "summary": "KUALA LUMPUR, Aug 28 — We often think of haze as a problem for the vulnerable, such as kids, seniors and asthma su...",
       "keywords_matched": [
-        "trial"
+        "health"
       ]
     },
     {
-      "title": "Lubok Antu only Sarawak area with very unhealthy API reading as of 4pm",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/27/lubok-antu-only-sarawak-area-with-very-unhealthy-api-reading-as-of-4pm/232920",
+      "title": "Haze continues choking Malaysia as 19 areas see ‘Unhealthy’ air quality",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/28/haze-continues-choking-malaysia-as-19-areas-see-unhealthy-air-quality/233012",
       "source": "Malay Mail",
-      "published": "2026-08-27T09:23:25",
-      "summary": "KUCHING, Aug 27 — Lubok Antu was the only area in Sarawak to record a “very unhealthy” Air Pollutant I...",
+      "published": "2026-08-28T05:50:54",
+      "summary": "KUALA LUMPUR, Aug 28 — Nineteen air quality monitoring stations nationwide recorded “unhealthy” air po...",
       "keywords_matched": [
         "health"
       ]
