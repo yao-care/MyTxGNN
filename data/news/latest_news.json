@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-29T03:29:24.084705",
+  "fetched": "2026-08-29T10:47:02.748919",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "I Hope Medicine Is Kind To You — Dr Loshi Rajen",
@@ -111,23 +111,13 @@
       ]
     },
     {
-      "title": "Sarawak wakes to worsening haze as API breaches 200 in three locations",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/29/sarawak-wakes-to-worsening-haze-as-api-breaches-200-in-three-locations/233124",
+      "title": "Air quality worsens, two Sarawak stations breach very unhealthy levels, 29 areas nationwide unhealthy",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/29/air-quality-worsens-two-sarawak-stations-breach-very-unhealthy-levels-29-areas-nationwide-unhealthy/233207",
       "source": "Malay Mail",
-      "published": "2026-08-29T02:23:24",
-      "summary": "KUCHING, Aug 29 — Lubok Antu, Sri Aman and Lundu recorded very unhealthy air quality as of 8am on Saturday, with A...",
+      "published": "2026-08-29T10:33:18",
+      "summary": "KUALA LUMPUR, Aug 29 — Two monitoring stations in Sarawak recorded very unhealthy Air Pollutant Index (API) readin...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Nine years in remand, murder trial still at prosecution stage: Orang Asli man finally released",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/29/nine-years-in-remand-murder-trial-still-at-prosecution-stage-orang-asli-man-finally-released/233115",
-      "source": "Malay Mail",
-      "published": "2026-08-29T01:38:36",
-      "summary": "KUALA LUMPUR, Aug 29 — An Orang Asli man has been freed after spending nine years in remand while his murder trial...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
