@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-30T01:02:42.911014",
+  "fetched": "2026-08-30T07:52:04.141336",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "I Hope Medicine Is Kind To You — Dr Loshi Rajen",
@@ -108,16 +108,6 @@
       "summary": "Medical Mythbusters Malaysia wants clarity on whether nicotine vapes are now illegal and if a grace period is given to retailers. The group also asks if the RM354m in vape tax collected is invalid and if the government will pay refunds to vape businesses. The post Medical Group Demands Action On Nicotine Vape, Tax Collection Validity appeared first on CodeBlue .",
       "keywords_matched": [
         "medical"
-      ]
-    },
-    {
-      "title": "Air quality worsens, two Sarawak stations breach very unhealthy levels, 29 areas nationwide unhealthy",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/29/air-quality-worsens-two-sarawak-stations-breach-very-unhealthy-levels-29-areas-nationwide-unhealthy/233207",
-      "source": "Malay Mail",
-      "published": "2026-08-29T10:33:18",
-      "summary": "KUALA LUMPUR, Aug 29 — Two monitoring stations in Sarawak recorded very unhealthy Air Pollutant Index (API) readin...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
