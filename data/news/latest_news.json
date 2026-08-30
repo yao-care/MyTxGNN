@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-30T07:52:04.141336",
+  "fetched": "2026-08-30T13:32:05.122150",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "I Hope Medicine Is Kind To You — Dr Loshi Rajen",
@@ -108,6 +108,28 @@
       "summary": "Medical Mythbusters Malaysia wants clarity on whether nicotine vapes are now illegal and if a grace period is given to retailers. The group also asks if the RM354m in vape tax collected is invalid and if the government will pay refunds to vape businesses. The post Medical Group Demands Action On Nicotine Vape, Tax Collection Validity appeared first on CodeBlue .",
       "keywords_matched": [
         "medical"
+      ]
+    },
+    {
+      "title": "Fahmi: 15 govt hospitals among early recipients of RM1b allocation to boost digital access and electronic medical record rollout",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/30/fahmi-15-govt-hospitals-among-early-recipients-of-rm1b-allocation-to-boost-digital-access-and-electronic-medical-record-rollout/233314",
+      "source": "Malay Mail",
+      "published": "2026-08-30T11:49:04",
+      "summary": "PUTRAJAYA, Aug 30 — A total of 15 government hospitals are among the initial group that will benefit from an alloc...",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Anwar pledges billions in seized funds for health, education; eases rules for small businesses",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/30/anwar-pledges-billions-in-seized-funds-for-health-education-eases-rules-for-small-businesses/233301",
+      "source": "Malay Mail",
+      "published": "2026-08-30T09:35:03",
+      "summary": "PUTRAJAYA, Aug 30 — The government will channel billions of ringgit seized from illegal activities into public hea...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
