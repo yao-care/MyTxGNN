@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-31T10:31:43.150258",
+  "fetched": "2026-08-31T17:52:17.652775",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "IHH Healthcare Malaysia And UiTM Put Youth Voices At The Heart Of Merdeka",
@@ -108,6 +108,16 @@
       "summary": "The government should answer a very basic question: do we genuinely want to produce, develop, and retain more doctors, or are we creating a system that steadily reduces the number willing to stay? The post MOH And JPA Making It Hard For Specialists To Stay — Specialist appeared first on CodeBlue .",
       "keywords_matched": [
         "doctor"
+      ]
+    },
+    {
+      "title": "Haze worsens in East Malaysia as Sarawak records hazardous API, Sabah unhealthy levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/31/sarawak-haze-worsens-as-four-areas-record-hazardous-api-readings/233428",
+      "source": "Malay Mail",
+      "published": "2026-08-31T11:05:34",
+      "summary": "KUALA LUMPUR, Aug 31 — Haze conditions remained severe in East Malaysia today, with four areas in Sarawak recordin...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
