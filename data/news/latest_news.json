@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-31T03:40:40.626124",
+  "fetched": "2026-08-31T10:31:43.150258",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "IHH Healthcare Malaysia And UiTM Put Youth Voices At The Heart Of Merdeka",
@@ -108,6 +108,27 @@
       "summary": "The government should answer a very basic question: do we genuinely want to produce, develop, and retain more doctors, or are we creating a system that steadily reduces the number willing to stay? The post MOH And JPA Making It Hard For Specialists To Stay — Specialist appeared first on CodeBlue .",
       "keywords_matched": [
         "doctor"
+      ]
+    },
+    {
+      "title": "From midnight to noon, Hospital Tunku Azizah welcomes 12 Merdeka babies including twin girls",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/31/from-midnight-to-noon-hospital-tunku-azizah-welcomes-12-merdeka-babies-including-twin-girls/233398",
+      "source": "Malay Mail",
+      "published": "2026-08-31T08:24:39",
+      "summary": "KUALA LUMPUR, Aug 31 — As the nation celebrated its 69th National Day, 12 newborns, including a pair of twin girls...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Customs sniffer dogs Goku and Cafrey join military K9s marching at Putrajaya National Day",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/31/customs-sniffer-dogs-goku-and-cafrey-join-military-k9s-marching-at-putrajaya-national-day/233396",
+      "source": "Malay Mail",
+      "published": "2026-08-31T07:48:52",
+      "summary": "PUTRAJAYA, Aug 31 — While their daily routine involves tracking drugs at national entry points or performing milit...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
