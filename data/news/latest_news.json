@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-01T01:38:00.519409",
+  "fetched": "2026-09-01T07:15:40.547042",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,27 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Budget 2027 Must Stop Bleeding Of Health Care Workforce — MMA",
+      "url": "https://codeblue.galencentre.org/2026/09/budget-2027-must-stop-bleeding-of-health-care-workforce-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-01T03:30:00",
+      "summary": "Budget 2027 should recognise years served under contract when doctors are appointed permanently, besides reviewing the requirement for three consecutive LNPT assessments before subspecialty training. Consider Jusa promotions for specialists after 5 years. The post Budget 2027 Must Stop Bleeding Of Health Care Workforce — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Explainer: Three Options For Putrajaya After Withdrawing Nicotine Appeal",
+      "url": "https://codeblue.galencentre.org/2026/09/explainer-three-options-for-putrajaya-after-withdrawing-nicotine-appeal/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-01T02:00:00",
+      "summary": "The government has 3 options to take after dropping its nicotine appeal. Option A: Ban nicotine vape. Option B: Return to the Poisons Board. Option C: Enact a simple Act to classify tobacco and nicotine products as ordinary trade commodities, not poisons. The post Explainer: Three Options For Putrajaya After Withdrawing Nicotine Appeal appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "IHH Healthcare Malaysia And UiTM Put Youth Voices At The Heart Of Merdeka",
       "url": "https://codeblue.galencentre.org/2026/08/ihh-healthcare-malaysia-and-uitm-put-youth-voices-at-the-heart-of-merdeka/",
@@ -91,33 +110,23 @@
       "keywords_matched": []
     },
     {
-      "title": "Empowering The Underutilised GP: Why True Public-Private Partnership Demands Political Will And Fiscal Courage — Dr Bryan Kek",
-      "url": "https://codeblue.galencentre.org/2026/08/empowering-the-underutilised-gp-why-true-public-private-partnership-demands-political-will-and-fiscal-courage-dr-bryan-kek/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-26T03:30:00",
-      "summary": "Working families and vulnerable communities deserve policies anchored in uncompromising political will, solid fiscal backing, and an enduring commitment to true health care justice. The post Empowering The Underutilised GP: Why True Public-Private Partnership Demands Political Will And Fiscal Courage — Dr Bryan Kek appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "MOH And JPA Making It Hard For Specialists To Stay — Specialist",
-      "url": "https://codeblue.galencentre.org/2026/08/moh-and-jpa-making-it-hard-for-specialists-to-stay-specialist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-26T02:00:00",
-      "summary": "The government should answer a very basic question: do we genuinely want to produce, develop, and retain more doctors, or are we creating a system that steadily reduces the number willing to stay? The post MOH And JPA Making It Hard For Specialists To Stay — Specialist appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Haze worsens in East Malaysia as Sarawak records hazardous API, Sabah unhealthy levels",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/31/sarawak-haze-worsens-as-four-areas-record-hazardous-api-readings/233428",
+      "title": "Sabah disaster committee urges public to limit outdoor activities as four districts record unhealthy API",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/01/sabah-disaster-committee-urges-public-to-limit-outdoor-activities-as-four-districts-record-unhealthy-api/233536",
       "source": "Malay Mail",
-      "published": "2026-08-31T11:05:34",
-      "summary": "KUALA LUMPUR, Aug 31 — Haze conditions remained severe in East Malaysia today, with four areas in Sarawak recordin...",
+      "published": "2026-09-01T06:38:10",
+      "summary": "KOTA KINABALU, Sept 1 — The Sabah State Disaster Management Committee (JPBN) has urged the public, particularly vu...",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "‘Baddestcoach’ defamation suit against Caprice heads to trial after settlement talks collapse",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/01/baddestcoach-defamation-suit-against-caprice-heads-to-trial-after-settlement-talks-collapse/233530",
+      "source": "Malay Mail",
+      "published": "2026-09-01T06:03:45",
+      "summary": "KUALA LUMPUR, Sept 1 — The defamation suit filed by renowned high-performance transformation coach Syed Mohammad M...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
