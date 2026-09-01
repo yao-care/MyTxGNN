@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-31T22:27:07.149809",
+  "fetched": "2026-09-01T01:38:00.519409",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "title": "IHH Healthcare Malaysia And UiTM Put Youth Voices At The Heart Of Merdeka",
@@ -118,27 +118,6 @@
       "summary": "KUALA LUMPUR, Aug 31 — Haze conditions remained severe in East Malaysia today, with four areas in Sarawak recordin...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "From midnight to noon, Hospital Tunku Azizah welcomes 12 Merdeka babies including twin girls",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/31/from-midnight-to-noon-hospital-tunku-azizah-welcomes-12-merdeka-babies-including-twin-girls/233398",
-      "source": "Malay Mail",
-      "published": "2026-08-31T08:24:39",
-      "summary": "KUALA LUMPUR, Aug 31 — As the nation celebrated its 69th National Day, 12 newborns, including a pair of twin girls...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Customs sniffer dogs Goku and Cafrey join military K9s marching at Putrajaya National Day",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/31/customs-sniffer-dogs-goku-and-cafrey-join-military-k9s-marching-at-putrajaya-national-day/233396",
-      "source": "Malay Mail",
-      "published": "2026-08-31T07:48:52",
-      "summary": "PUTRAJAYA, Aug 31 — While their daily routine involves tracking drugs at national entry points or performing milit...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
