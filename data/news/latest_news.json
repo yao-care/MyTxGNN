@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-01T07:15:40.547042",
+  "fetched": "2026-09-01T13:05:21.132905",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Budget 2027 Must Stop Bleeding Of Health Care Workforce — MMA",
@@ -110,6 +110,26 @@
       "keywords_matched": []
     },
     {
+      "title": "MOH monitors rise in respiratory infections and conjunctivitis in Sarawak amid haze crisis",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/01/moh-monitors-rise-in-respiratory-infections-and-conjunctivitis-in-sarawak-amid-haze-crisis/233563",
+      "source": "Malay Mail",
+      "published": "2026-09-01T11:01:59",
+      "summary": "SIBU, Sept 1 — The Ministry of Health (MOH) is monitoring the increase in cases of acute respiratory tract infections (U...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Penang police arrest married couple, two others in drug syndicate on Thai intel tip",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/01/penang-police-arrest-married-couple-two-others-in-drug-syndicate-on-thai-intel-tip/233550",
+      "source": "Malay Mail",
+      "published": "2026-09-01T08:31:22",
+      "summary": "GEORGE TOWN, Sept 1 — Police have arrested four members of an international drug syndicate, including a married co...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "Sabah disaster committee urges public to limit outdoor activities as four districts record unhealthy API",
       "url": "https://www.malaymail.com/news/malaysia/2026/09/01/sabah-disaster-committee-urges-public-to-limit-outdoor-activities-as-four-districts-record-unhealthy-api/233536",
       "source": "Malay Mail",
@@ -117,16 +137,6 @@
       "summary": "KOTA KINABALU, Sept 1 — The Sabah State Disaster Management Committee (JPBN) has urged the public, particularly vu...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "‘Baddestcoach’ defamation suit against Caprice heads to trial after settlement talks collapse",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/01/baddestcoach-defamation-suit-against-caprice-heads-to-trial-after-settlement-talks-collapse/233530",
-      "source": "Malay Mail",
-      "published": "2026-09-01T06:03:45",
-      "summary": "KUALA LUMPUR, Sept 1 — The defamation suit filed by renowned high-performance transformation coach Syed Mohammad M...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
