@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-02T02:54:18.374672",
+  "fetched": "2026-09-02T07:38:02.391968",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,24 @@
   ],
   "total_items": 12,
   "items": [
+    {
+      "title": "MCA Demands Consistent Government Policy On Nicotine Vape",
+      "url": "https://codeblue.galencentre.org/2026/09/mca-demands-consistent-government-policy-on-nicotine-vape/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-02T06:00:00",
+      "summary": "MCA president Wee Ka Siong tells the government to be consistent in its policy on nicotine vape, saying vape businesses can’t be allowed if liquid nicotine is on the Poisons List. But if Putrajaya decides otherwise, then it needs to do the necessary. The post MCA Demands Consistent Government Policy On Nicotine Vape appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Why Malaysia’s Health Care Financing Model Is Mathematically Unsustainable",
+      "url": "https://codeblue.galencentre.org/2026/09/why-malaysias-health-care-financing-model-is-mathematically-unsustainable/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-02T03:30:00",
+      "summary": "Malaysia’s health financing model is fundamentally unsustainable because most Malaysians don't pay income tax. This is also the reason why a mandatory NHI scheme isn't feasible. MediAsas is also just a mirage because it's just private health insurance. The post Why Malaysia’s Health Care Financing Model Is Mathematically Unsustainable appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Declare Nicotine Vape Illegal As Poison, Stop Collecting Tax: MPs",
       "url": "https://codeblue.galencentre.org/2026/09/declare-nicotine-vape-illegal-as-poison-stop-collecting-tax-mps/",
@@ -90,41 +108,21 @@
       ]
     },
     {
-      "title": "Vape Industry Flags Massive Potential Legal, Commercial Consequences After Government Drops Nicotine Appeal",
-      "url": "https://codeblue.galencentre.org/2026/08/vape-industry-flags-massive-potential-legal-commercial-consequences-after-government-drops-nicotine-appeal/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-27T02:00:00",
-      "summary": "Mevta says if Putrajaya decides that nicotine vape is illegal, after it dropped its appeal, there must be a minimum 6-month transition period for the entire supply chain (from raw liquid nicotine stock to retail vape sale) and refund of excise duties paid. The post Vape Industry Flags Massive Potential Legal, Commercial Consequences After Government Drops Nicotine Appeal appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Natural Justice, Institutional Fairness Needed In Sabah Hospital Case — FPMPAM",
-      "url": "https://codeblue.galencentre.org/2026/08/natural-justice-institutional-fairness-needed-in-sabah-hospital-case-fpmpam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-26T08:00:00",
-      "summary": "The medical profession and the public must be able to have confidence not only in the eventual outcome, but also in the fairness of the process by which that outcome is reached. The post Natural Justice, Institutional Fairness Needed In Sabah Hospital Case — FPMPAM appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Malaysia hosts Asean health ministers’ meet again after 20 years",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/02/malaysia-hosts-asean-health-ministers-meet-again-after-20-years/233605",
+      "title": "Sabah activates state and district disaster command centres as API readings rise to unhealthy levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/02/sabah-activates-state-and-district-disaster-command-centres-as-api-readings-rise-to-unhealthy-levels/233650",
       "source": "Malay Mail",
-      "published": "2026-09-02T01:45:05",
-      "summary": "KUALA LUMPUR, Sept 2 — Malaysia will play host to the 17th Asean Health Ministers’ Meeting and Related Meeti...",
+      "published": "2026-09-02T06:08:49",
+      "summary": "KOTA KINABALU, Sept 2 — Sabah has activated its State Disaster Operations Command Centre (PKOB), as well as distri...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "MOH monitors rise in respiratory infections and conjunctivitis in Sarawak amid haze crisis",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/01/moh-monitors-rise-in-respiratory-infections-and-conjunctivitis-in-sarawak-amid-haze-crisis/233563",
+      "title": "Six areas in Sabah record unhealthy API readings with KK Polytechnic highest at 185",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/02/six-areas-in-sabah-record-unhealthy-api-readings-kk-polytechnic-highest-at-185/233620",
       "source": "Malay Mail",
-      "published": "2026-09-01T11:01:59",
-      "summary": "SIBU, Sept 1 — The Ministry of Health (MOH) is monitoring the increase in cases of acute respiratory tract infections (U...",
+      "published": "2026-09-02T04:03:04",
+      "summary": "KOTA KINABALU, Sept 2 — Six areas in Sabah recorded unhealthy Air Pollutant Index (API) readings as of 8 am today,...",
       "keywords_matched": [
         "health"
       ]
