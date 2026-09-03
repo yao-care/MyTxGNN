@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-03T00:56:05.887428",
+  "fetched": "2026-09-03T05:30:02.279422",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Pulai MP Wants Clarity On Nicotine Vape Control, Taxation Status",
+      "url": "https://codeblue.galencentre.org/2026/09/pulai-mp-wants-clarity-on-nicotine-vape-control-taxation-status/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-03T03:45:00",
+      "summary": "Pulai MP Suhaizan Kaiat wants Putrajaya to explain nicotine vape's taxation status and how it will be regulated, expressing support for nicotine remaining on the Poisons List. Nicotine shouldn't be seen solely as a trade or tax issue, but public health. The post Pulai MP Wants Clarity On Nicotine Vape Control, Taxation Status appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Malaysian Medical Negligence Damages Still Too Low: Lawyer",
+      "url": "https://codeblue.galencentre.org/2026/09/malaysian-medical-negligence-damages-still-too-low-lawyer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-03T02:00:00",
+      "summary": "Despite court awards exceeding RM8 million or RM9 million, lawyer Manmohan Singh Dhillon says Malaysia’s medical negligence damages remain too low for catastrophic injuries, citing restrictions on lost earnings and gaps in funding lifelong care. The post Malaysian Medical Negligence Damages Still Too Low: Lawyer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Ronald McCoy Was A Remarkable Doctor, Global Peace Advocate — MMA",
       "url": "https://codeblue.galencentre.org/2026/09/ronald-mccoy-was-a-remarkable-doctor-global-peace-advocate-mma/",
@@ -87,29 +107,42 @@
       ]
     },
     {
-      "title": "Explainer: Three Options For Putrajaya After Withdrawing Nicotine Appeal",
-      "url": "https://codeblue.galencentre.org/2026/09/explainer-three-options-for-putrajaya-after-withdrawing-nicotine-appeal/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-01T02:00:00",
-      "summary": "The government has 3 options to take after dropping its nicotine appeal. Option A: Ban nicotine vape. Option B: Return to the Poisons Board. Option C: Enact a simple Act to classify tobacco and nicotine products as ordinary trade commodities, not poisons. The post Explainer: Three Options For Putrajaya After Withdrawing Nicotine Appeal appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "IHH Healthcare Malaysia And UiTM Put Youth Voices At The Heart Of Merdeka",
-      "url": "https://codeblue.galencentre.org/2026/08/ihh-healthcare-malaysia-and-uitm-put-youth-voices-at-the-heart-of-merdeka/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-08-31T02:47:33",
-      "summary": "\"Merdeka Through Our Eyes\" gives UiTM students the space to tell their own stories of Malaysia, as IHH Healthcare Malaysia extends its longstanding role in the community. The post IHH Healthcare Malaysia And UiTM Put Youth Voices At The Heart Of Merdeka appeared first on CodeBlue .",
+      "title": "‘Malaysia, Jom Check!’: Free health screenings for STR recipients aged 40 and up",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/03/malaysia-jom-check-free-health-screenings-for-str-recipients-aged-40-and-up/233744",
+      "source": "Malay Mail",
+      "published": "2026-09-03T03:26:00",
+      "summary": "KUALA LUMPUR, Sept 3 — ProtectHealth Corporation Sdn Bhd (ProtectHealth) under the Ministry of Health (MOH) is off...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Serian and Kuching record hazardous API levels in Sarawak at 4pm; more areas very unhealthy",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/02/serian-and-kuching-record-hazardous-api-levels-in-sarawak-at-4pm-more-areas-very-unhealthy/233685",
+      "title": "Former Tabung Haji COO’s corruption charges postponed after hospitalisation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/03/former-tabung-haji-coos-corruption-charges-postponed-after-hospitalisation/233742",
       "source": "Malay Mail",
-      "published": "2026-09-02T09:58:44",
-      "summary": "KUALA LUMPUR, Sept 2 — Two areas in Sarawak recorded hazardous Air Pollutant Index (API) readings as of 4 pm today...",
+      "published": "2026-09-03T02:58:56",
+      "summary": "SHAH ALAM, Sept 3 — The reading of corruption charges against former Lembaga Tabung Haji chief operating off...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "TH Properties unit ex-manager hit with three CBT charges",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/03/th-properties-unit-ex-manager-hit-with-three-cbt-charges/233738",
+      "source": "Malay Mail",
+      "published": "2026-09-03T02:42:32",
+      "summary": "KUALA LUMPUR, Sept 3 — A former Health and Safety Manager of THP Bina Sdn Bhd was charged in the Sessions Court he...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Haze drives up demand for bottled water, health products in Kuching",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/03/haze-drives-up-demand-for-bottled-water-health-products-in-kuching/233721",
+      "source": "Malay Mail",
+      "published": "2026-09-03T01:39:09",
+      "summary": "KUCHING, Sept 3 — The haze has driven up demand for bottled water and health-related products at supermarkets...",
       "keywords_matched": [
         "health"
       ]
