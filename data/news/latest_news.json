@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-04T07:47:40.089615",
+  "fetched": "2026-09-04T12:29:33.526896",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Malaysia’s Poisoned Chalice Of Nicotine Vape: First Lacuna, Now An Accidental ‘Ban’",
@@ -107,23 +107,13 @@
       ]
     },
     {
-      "title": "MAG says mass drug screenings for Malaysia Airlines crew near 100pc",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/04/mag-says-mass-drug-screenings-for-malaysia-airlines-crew-near-100pc/233897",
+      "title": "Transboundary haze poses long-term threat to wildlife, disrupting habitats, food sources and reproduction",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/04/transboundary-haze-poses-long-term-threat-to-wildlife-disrupting-habitats-food-sources-and-reproduction/233948",
       "source": "Malay Mail",
-      "published": "2026-09-04T05:42:06",
-      "summary": "KUALA LUMPUR, Sept 4 — Malaysia Aviation Group (MAG) has completed drug screenings for nearly all Malaysia Airline...",
+      "published": "2026-09-04T10:13:35",
+      "summary": "KUALA LUMPUR, Sept 4 — Transboundary haze not only threatens human health, but also has a long-term eff...",
       "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Six held over Malaysian co-pilot’s Jakarta drug case after four fled to Thailand, Vietnam and returned",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/04/four-suspects-in-malaysian-pilots-jakarta-drug-case-arrested-after-fleeing-to-thailand-vietnam/233870",
-      "source": "Malay Mail",
-      "published": "2026-09-04T03:06:06",
-      "summary": "KUALA LUMPUR, Sept 4 — Bukit Aman’s Narcotics Criminal Investigation Department (JSJN) has detained six loca...",
-      "keywords_matched": [
-        "drug"
+        "health"
       ]
     }
   ]
