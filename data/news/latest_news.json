@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-03T23:46:12.099726",
+  "fetched": "2026-09-04T02:56:45.277121",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,27 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Malaysia’s Poisoned Chalice Of Nicotine Vape: First Lacuna, Now An Accidental ‘Ban’",
+      "url": "https://codeblue.galencentre.org/2026/09/malaysias-poisoned-chalice-of-nicotine-vape-first-lacuna-now-an-accidental-ban/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-04T02:24:27",
+      "summary": "Only 2 preparations of nicotine are exempt from the Poisons List: tobacco and nicotine patch/gum. Amid Madani's silence, the industry has a \"grace period\" until GE16 to get rid of nicotine vape stock before a potential instant ban by a new government. The post Malaysia’s Poisoned Chalice Of Nicotine Vape: First Lacuna, Now An Accidental ‘Ban’ appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "HSAJB Probes Doctor’s Sexual Harassment Complaint Against Anaesthesiologist",
+      "url": "https://codeblue.galencentre.org/2026/09/hsajb-probes-doctors-sexual-harassment-complaint-against-anaesthesiologist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-04T02:00:00",
+      "summary": "HSAJB is investigating a medical officer's sexual harassment complaint against an anaesthesiologist. The junior doctor was allegedly asked by a superior to withdraw her report. Nurses have also complained about the specialist's \"unprofessional\" behaviour. The post HSAJB Probes Doctor’s Sexual Harassment Complaint Against Anaesthesiologist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "Pulai MP Wants Clarity On Nicotine Vape Control, Taxation Status",
       "url": "https://codeblue.galencentre.org/2026/09/pulai-mp-wants-clarity-on-nicotine-vape-control-taxation-status/",
@@ -88,25 +107,6 @@
       ]
     },
     {
-      "title": "Declare Nicotine Vape Illegal As Poison, Stop Collecting Tax: MPs",
-      "url": "https://codeblue.galencentre.org/2026/09/declare-nicotine-vape-illegal-as-poison-stop-collecting-tax-mps/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-02T02:00:00",
-      "summary": "Petaling Jaya and Kuala Langat MPs tell the government to ban nicotine vape as a scheduled poison under the Poisons Act and to stop collecting excise duties on it, saying MOF must also refund businesses over RM354m in excise duties collected since 2023. The post Declare Nicotine Vape Illegal As Poison, Stop Collecting Tax: MPs appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Budget 2027 Must Stop Bleeding Of Health Care Workforce — MMA",
-      "url": "https://codeblue.galencentre.org/2026/09/budget-2027-must-stop-bleeding-of-health-care-workforce-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-01T03:30:00",
-      "summary": "Budget 2027 should recognise years served under contract when doctors are appointed permanently, besides reviewing the requirement for three consecutive LNPT assessments before subspecialty training. Consider Jusa promotions for specialists after 5 years. The post Budget 2027 Must Stop Bleeding Of Health Care Workforce — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "doctor"
-      ]
-    },
-    {
       "title": "Serian records hazardous API 391, four other Sarawak areas at very unhealthy levels",
       "url": "https://www.malaymail.com/news/malaysia/2026/09/03/serian-records-hazardous-api-391-four-other-sarawak-areas-at-very-unhealthy-levels/233820",
       "source": "Malay Mail",
@@ -114,16 +114,6 @@
       "summary": "KUALA LUMPUR, September 3 — Air quality continued to deteriorate this afternoon, with Serian in Sarawak recording...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "DOE samples factory discharge after dead fish and crabs found in Sungai Sitiawan",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/03/doe-detects-stp-blower-valve-fault-at-manufacturing-factory-amid-sitiawan-river-pollution-probe/233770",
-      "source": "Malay Mail",
-      "published": "2026-09-03T06:18:25",
-      "summary": "IPOH, Sept 3 — The Department of Environment (DOE) has collected industrial effluent samples from a manufactu...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
