@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-04T02:56:45.277121",
+  "fetched": "2026-09-04T07:47:40.089615",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Malaysia’s Poisoned Chalice Of Nicotine Vape: First Lacuna, Now An Accidental ‘Ban’",
@@ -107,13 +107,23 @@
       ]
     },
     {
-      "title": "Serian records hazardous API 391, four other Sarawak areas at very unhealthy levels",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/03/serian-records-hazardous-api-391-four-other-sarawak-areas-at-very-unhealthy-levels/233820",
+      "title": "MAG says mass drug screenings for Malaysia Airlines crew near 100pc",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/04/mag-says-mass-drug-screenings-for-malaysia-airlines-crew-near-100pc/233897",
       "source": "Malay Mail",
-      "published": "2026-09-03T12:40:32",
-      "summary": "KUALA LUMPUR, September 3 — Air quality continued to deteriorate this afternoon, with Serian in Sarawak recording...",
+      "published": "2026-09-04T05:42:06",
+      "summary": "KUALA LUMPUR, Sept 4 — Malaysia Aviation Group (MAG) has completed drug screenings for nearly all Malaysia Airline...",
       "keywords_matched": [
-        "health"
+        "drug"
+      ]
+    },
+    {
+      "title": "Six held over Malaysian co-pilot’s Jakarta drug case after four fled to Thailand, Vietnam and returned",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/04/four-suspects-in-malaysian-pilots-jakarta-drug-case-arrested-after-fleeing-to-thailand-vietnam/233870",
+      "source": "Malay Mail",
+      "published": "2026-09-04T03:06:06",
+      "summary": "KUALA LUMPUR, Sept 4 — Bukit Aman’s Narcotics Criminal Investigation Department (JSJN) has detained six loca...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
