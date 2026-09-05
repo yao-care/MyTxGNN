@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-05T05:15:06.663534",
+  "fetched": "2026-09-05T09:57:27.751925",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "title": "Malaysia’s Poisoned Chalice Of Nicotine Vape: First Lacuna, Now An Accidental ‘Ban’",
@@ -107,6 +107,36 @@
       ]
     },
     {
+      "title": "Serian tops very unhealthy API readings as six Sarawak areas exceed 200",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/05/serian-tops-very-unhealthy-api-readings-as-six-sarawak-areas-exceed-200/234046",
+      "source": "Malay Mail",
+      "published": "2026-09-05T08:17:59",
+      "summary": "KUALA LUMPUR, Sept 5 — A total of six areas in Sarawak recorded Air Pollutant Index (API) readings at very unhealt...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "‘Not just Kota Kinabalu’: MOH targets Sandakan, Tawau clusters in Sabah specialist expansion",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/05/not-just-kota-kinabalu-moh-targets-sandakan-tawau-clusters-in-sabah-specialist-expansion/234033",
+      "source": "Malay Mail",
+      "published": "2026-09-05T06:52:32",
+      "summary": "KOTA KINABALU, Sept 5 — The Ministry of Health Malaysia (MOH) will begin placing resident specialists in several h...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Workplaces in Serian may operate during haze emergency with health precautions, says SDMC",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/05/workplaces-in-serian-may-operate-during-haze-emergency-with-health-precautions-says-sdmc/234024",
+      "source": "Malay Mail",
+      "published": "2026-09-05T05:40:34",
+      "summary": "KUCHING, Sept 5 — Government, private offices and other workplaces affected by the haze emergency in Serian, inclu...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Air Kelantan: Pipe leak cuts water supply in Machang, Pasir Puteh and Kota Bharu Selatan, affecting 34,000 accounts",
       "url": "https://www.malaymail.com/news/malaysia/2026/09/05/air-kelantan-pipe-leak-cuts-water-supply-in-machang-pasir-puteh-and-kota-bharu-selatan-affecting-34000-accounts/234021",
       "source": "Malay Mail",
@@ -114,26 +144,6 @@
       "summary": "KOTA BHARU, Sept 5 — Production capacity at the Merbau Chondong Water Treatment Plant (WTP) in Machang has dropped...",
       "keywords_matched": [
         "treatment"
-      ]
-    },
-    {
-      "title": "MOH: Malaysia to lead 17th Asean Health Ministers Meeting in Kuala Lumpur from Sept 7-11",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/05/moh-malaysia-to-lead-17th-asean-health-ministers-meeting-in-kuala-lumpur-from-sept-7-11/234009",
-      "source": "Malay Mail",
-      "published": "2026-09-05T04:31:22",
-      "summary": "KUALA LUMPUR, Sept 5 — Malaysia will chair the 17th Asean Health Ministers Meeting (AHMM), which begins September...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Serian haze eases slightly, but API remains hazardous at 390 at 7am; Kuching, Tebedu, Lundu remain at very unhealthy levels",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/05/serian-haze-eases-slightly-but-api-remains-hazardous-at-390-at-7am-kuching-tebedu-lundu-remain-at-very-unhealthy-levels/234000",
-      "source": "Malay Mail",
-      "published": "2026-09-05T03:21:29",
-      "summary": "KUCHING, Sept 5 — Air quality in Serian improved slightly, with its Air Pollutant Index (API) reading dropping to...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
