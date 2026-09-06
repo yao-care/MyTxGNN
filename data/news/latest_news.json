@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-06T00:33:36.313539",
+  "fetched": "2026-09-06T05:29:22.598867",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
     {
       "title": "Malaysia’s Poisoned Chalice Of Nicotine Vape: First Lacuna, Now An Accidental ‘Ban’",
@@ -107,13 +107,36 @@
       ]
     },
     {
-      "title": "Serian tops very unhealthy API readings as six Sarawak areas exceed 200",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/05/serian-tops-very-unhealthy-api-readings-as-six-sarawak-areas-exceed-200/234046",
+      "title": "Breathing isn’t easy in Kuching, Malaysia’s haziest spot at 10am as API hits 223",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/06/breathing-isnt-easy-in-kuching-malaysias-haziest-spot-at-10am-as-api-hits-223/234115",
       "source": "Malay Mail",
-      "published": "2026-09-05T08:17:59",
-      "summary": "KUALA LUMPUR, Sept 5 — A total of six areas in Sarawak recorded Air Pollutant Index (API) readings at very unhealt...",
+      "published": "2026-09-06T02:51:37",
+      "summary": "KUALA LUMPUR, Sept 6 — Two areas in Sarawak recorded very unhealthy Air Pollutant Index (API) readings as at 10am...",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Varsity student dies, eight in hospital after UiTM endurance challenge in Jengka",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/06/varsity-student-dies-eight-in-hospital-after-uitm-endurance-challenge-in-jengka/234112",
+      "source": "Malay Mail",
+      "published": "2026-09-06T03:13:09",
+      "summary": "KUANTAN, Sept 6 — One participant died while eight others received treatment at hospital after experiencing health...",
+      "keywords_matched": [
+        "health",
+        "treatment",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Police probe alleged mistreatment of two-year-old girl at Temerloh nursery after viral video",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/06/police-probe-alleged-mistreatment-of-two-year-old-girl-at-temerloh-nursery-after-viral-video/234081",
+      "source": "Malay Mail",
+      "published": "2026-09-06T00:56:09",
+      "summary": "KUANTAN, Sept 6 — Police are investigating a case involving a two-year-old girl who was allegedly mistreated by a...",
+      "keywords_matched": [
+        "treatment"
       ]
     }
   ]
