@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-06T05:29:22.598867",
+  "fetched": "2026-09-06T10:15:57.717252",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Malaysia’s Poisoned Chalice Of Nicotine Vape: First Lacuna, Now An Accidental ‘Ban’",
@@ -107,36 +107,23 @@
       ]
     },
     {
-      "title": "Breathing isn’t easy in Kuching, Malaysia’s haziest spot at 10am as API hits 223",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/06/breathing-isnt-easy-in-kuching-malaysias-haziest-spot-at-10am-as-api-hits-223/234115",
+      "title": "Sri Aman only area with very unhealthy API reading of 216 as of 4pm, with no hazardous readings nationwide",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/06/sri-aman-only-area-with-very-unhealthy-api-reading-of-216-as-of-4pm-with-no-hazardous-readings-nationwide/234191",
       "source": "Malay Mail",
-      "published": "2026-09-06T02:51:37",
-      "summary": "KUALA LUMPUR, Sept 6 — Two areas in Sarawak recorded very unhealthy Air Pollutant Index (API) readings as at 10am...",
+      "published": "2026-09-06T09:49:04",
+      "summary": "KUALA LUMPUR, Sept 6 — No area recorded a hazardous Air Pollutant Index (API) reading due to the haze as of 4 pm t...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Varsity student dies, eight in hospital after UiTM endurance challenge in Jengka",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/06/varsity-student-dies-eight-in-hospital-after-uitm-endurance-challenge-in-jengka/234112",
+      "title": "Doctors induce coma for Batu Pahat toddler wounded in stray dog attack",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/06/doctors-induce-coma-for-batu-pahat-toddler-wounded-in-stray-dog-attack/234190",
       "source": "Malay Mail",
-      "published": "2026-09-06T03:13:09",
-      "summary": "KUANTAN, Sept 6 — One participant died while eight others received treatment at hospital after experiencing health...",
+      "published": "2026-09-06T09:31:17",
+      "summary": "JOHOR BAHRU, Sept 6 — A two-year-old girl is fighting for her life after being critically injured by a pack of fiv...",
       "keywords_matched": [
-        "health",
-        "treatment",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Police probe alleged mistreatment of two-year-old girl at Temerloh nursery after viral video",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/06/police-probe-alleged-mistreatment-of-two-year-old-girl-at-temerloh-nursery-after-viral-video/234081",
-      "source": "Malay Mail",
-      "published": "2026-09-06T00:56:09",
-      "summary": "KUANTAN, Sept 6 — Police are investigating a case involving a two-year-old girl who was allegedly mistreated by a...",
-      "keywords_matched": [
-        "treatment"
+        "doctor"
       ]
     }
   ]
