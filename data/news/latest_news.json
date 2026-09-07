@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-07T07:57:16.444111",
+  "fetched": "2026-09-07T14:05:04.573156",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -110,6 +110,16 @@
       ]
     },
     {
+      "title": "Minden air quality hits unhealthy level as API rises to 142, says Penang exco",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/07/minden-air-quality-hits-unhealthy-level-as-api-rises-to-142-says-penang-exco/234305",
+      "source": "Malay Mail",
+      "published": "2026-09-07T09:43:15",
+      "summary": "GEORGE TOWN, Sept 7 — Air quality in parts of Penang island reached an unhealthy level today, with its Air Polluta...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Police confirm RM27.5m drug syndicate crippled with main suspect shot dead",
       "url": "https://www.malaymail.com/news/malaysia/2026/09/07/police-confirm-rm275m-drug-syndicate-crippled-with-main-suspect-shot-dead/234287",
       "source": "Malay Mail",
@@ -117,16 +127,6 @@
       "summary": "SEREMBAN, Sept 7 — The Royal Malaysia Police’s (PDRM) Narcotics Criminal Investigation Department...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Two women remanded over alleged child mistreatment at Pahang nurseries",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/07/two-women-remanded-over-alleged-child-mistreatment-at-pahang-nurseries/234277",
-      "source": "Malay Mail",
-      "published": "2026-09-07T06:54:57",
-      "summary": "KUANTAN, Sept 7 — Two women have been remanded for six days to assist in investigations into the alleged mist...",
-      "keywords_matched": [
-        "treatment"
       ]
     }
   ]
