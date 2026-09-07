@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-06T23:28:22.122679",
+  "fetched": "2026-09-07T02:55:32.587134",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,21 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Taiping Hospital Medical Officers Drowning Under Cluster Expansions, Zero Housemen — Medical Officer",
+      "url": "https://codeblue.galencentre.org/2026/09/taiping-hospital-medical-officers-drowning-under-cluster-expansions-zero-housemen-medical-officer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-07T02:00:00",
+      "summary": "With zero housemen, medical officers are drowning at Taiping Hospital that covers four district hospitals under an expansive cluster hospital system, in addition to heavy internal workload. A doctor had to manage two separate CPRs occurring simultaneously. The post Taiping Hospital Medical Officers Drowning Under Cluster Expansions, Zero Housemen — Medical Officer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "Malaysia’s Poisoned Chalice Of Nicotine Vape: First Lacuna, Now An Accidental ‘Ban’",
       "url": "https://codeblue.galencentre.org/2026/09/malaysias-poisoned-chalice-of-nicotine-vape-first-lacuna-now-an-accidental-ban/",
@@ -97,16 +110,6 @@
       "keywords_matched": []
     },
     {
-      "title": "Why Malaysia’s Health Care Financing Model Is Mathematically Unsustainable",
-      "url": "https://codeblue.galencentre.org/2026/09/why-malaysias-health-care-financing-model-is-mathematically-unsustainable/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-02T03:30:00",
-      "summary": "Malaysia’s health financing model is fundamentally unsustainable because most Malaysians don't pay income tax. This is also the reason why a mandatory NHI scheme isn't feasible. MediAsas is also just a mirage because it's just private health insurance. The post Why Malaysia’s Health Care Financing Model Is Mathematically Unsustainable appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
       "title": "Police confirm shooting of wanted drug suspect in Seremban housing area",
       "url": "https://www.malaymail.com/news/malaysia/2026/09/06/police-confirm-shooting-of-wanted-drug-suspect-in-seremban-housing-area/234202",
       "source": "Malay Mail",
@@ -124,26 +127,6 @@
       "summary": "SHAH ALAM, Sept 6 — Seven Universiti Teknologi MARA (UiTM) students are still receiving treatment and undergoing m...",
       "keywords_matched": [
         "treatment"
-      ]
-    },
-    {
-      "title": "Sri Aman only area with very unhealthy API reading of 216 as of 4pm, with no hazardous readings nationwide",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/06/sri-aman-only-area-with-very-unhealthy-api-reading-of-216-as-of-4pm-with-no-hazardous-readings-nationwide/234191",
-      "source": "Malay Mail",
-      "published": "2026-09-06T09:49:04",
-      "summary": "KUALA LUMPUR, Sept 6 — No area recorded a hazardous Air Pollutant Index (API) reading due to the haze as of 4 pm t...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Doctors induce coma for Batu Pahat toddler wounded in stray dog attack",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/06/doctors-induce-coma-for-batu-pahat-toddler-wounded-in-stray-dog-attack/234190",
-      "source": "Malay Mail",
-      "published": "2026-09-06T09:31:17",
-      "summary": "JOHOR BAHRU, Sept 6 — A two-year-old girl is fighting for her life after being critically injured by a pack of fiv...",
-      "keywords_matched": [
-        "doctor"
       ]
     }
   ]
