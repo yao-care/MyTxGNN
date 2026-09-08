@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-08T10:35:00.354635",
+  "fetched": "2026-09-08T14:52:18.250284",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "How Public-Private-Community Partnership Gets HIV Patients Access To Treatment In Sabah, Sarawak",
@@ -110,6 +110,27 @@
       ]
     },
     {
+      "title": "Dzulkefly: Status of five aboard Flying Doctor Service helicopter still unknown after Sarawak crash",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/08/dzulkefly-status-of-five-aboard-flying-doctor-service-helicopter-still-unknown-after-sarawak-crash/234466",
+      "source": "Malay Mail",
+      "published": "2026-09-08T11:57:20",
+      "summary": "KUCHING, Sept 8 — The status of five people aboard a Health Ministry (MOH) Flying Doctor Service helicopter...",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Flying Doctor Service helicopter carrying five crashes near Long Lellang airport",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/08/flying-doctor-service-helicopter-carrying-five-crashes-near-long-lellang-airport/234462",
+      "source": "Malay Mail",
+      "published": "2026-09-08T11:11:29",
+      "summary": "KUCHING, 8 Sept — A BO-105 helicopter carrying five people, including the pilot, crashed near the Long Lella...",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
       "title": "Senior medical officer in Melaka remanded over RM1.5m knee implant supply probe",
       "url": "https://www.malaymail.com/news/malaysia/2026/09/08/senior-medical-officer-in-melaka-remanded-over-rm15m-knee-implant-supply-probe/234439",
       "source": "Malay Mail",
@@ -117,16 +138,6 @@
       "summary": "KUALA LUMPUR, Sept 8 —  A senior medical officer has been remanded for five days to assist a Malaysian Anti-C...",
       "keywords_matched": [
         "medical"
-      ]
-    },
-    {
-      "title": "IBS classrooms to ease overcrowding in Melaka schools, says deputy education minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/08/ibs-classrooms-to-ease-overcrowding-in-melaka-schools-says-deputy-education-minister/234417",
-      "source": "Malay Mail",
-      "published": "2026-09-08T06:09:48",
-      "summary": "MELAKA, Sept 8 — The construction of additional classrooms using the Industrialised Building System (IBS) will ena...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
