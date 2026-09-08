@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-07T21:57:34.417682",
+  "fetched": "2026-09-08T00:04:38.671928",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "The Grey Wave Is Becoming A National Conversation",
@@ -117,16 +117,6 @@
       "summary": "GEORGE TOWN, Sept 7 — Air quality in parts of Penang island reached an unhealthy level today, with its Air Polluta...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Police confirm RM27.5m drug syndicate crippled with main suspect shot dead",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/07/police-confirm-rm275m-drug-syndicate-crippled-with-main-suspect-shot-dead/234287",
-      "source": "Malay Mail",
-      "published": "2026-09-07T07:48:05",
-      "summary": "SEREMBAN, Sept 7 — The Royal Malaysia Police’s (PDRM) Narcotics Criminal Investigation Department...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
