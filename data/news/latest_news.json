@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-08T00:04:38.671928",
+  "fetched": "2026-09-08T05:35:37.250521",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,38 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "How Public-Private-Community Partnership Gets HIV Patients Access To Treatment In Sabah, Sarawak",
+      "url": "https://codeblue.galencentre.org/2026/09/how-public-private-community-partnership-gets-hiv-patients-access-to-treatment-in-sabah-sarawak/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-08T05:30:00",
+      "summary": "In Sabah and Sarawak, a partnership model between the government, Sunway Group, and Malaysian AIDS Foundation is helping patients overcome poverty, distance, and transport costs to stay on life-saving HIV treatment. The post How Public-Private-Community Partnership Gets HIV Patients Access To Treatment In Sabah, Sarawak appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment",
+        "patient"
+      ]
+    },
+    {
+      "title": "Where Do ICU Nurses Put Their Grief? — Nor Zehan Ahmad",
+      "url": "https://codeblue.galencentre.org/2026/09/where-do-icu-nurses-put-their-grief-nor-zehan-ahmad/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-08T03:30:00",
+      "summary": "The monitor stops, but the nurse carries on. The grief often remains unseen, with nowhere safe to go. The post Where Do ICU Nurses Put Their Grief? — Nor Zehan Ahmad appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Beyond Litigation: What Malaysia Can Learn From A UK Patient Safety Group",
+      "url": "https://codeblue.galencentre.org/2026/09/beyond-litigation-what-malaysia-can-learn-from-a-uk-patient-safety-group/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-08T02:00:00",
+      "summary": "UK patient safety charity AvMA helps patients seek answers and support after medical harm. Beyond litigation, AvMA says Malaysia could benefit from a similar independent body to help patients navigate complaints and, when needed, legal support. The post Beyond Litigation: What Malaysia Can Learn From A UK Patient Safety Group appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "patient"
+      ]
+    },
     {
       "title": "The Grey Wave Is Becoming A National Conversation",
       "url": "https://codeblue.galencentre.org/2026/09/the-grey-wave-is-becoming-a-national-conversation/",
@@ -80,43 +110,27 @@
       ]
     },
     {
-      "title": "Pulai MP Wants Clarity On Nicotine Vape Control, Taxation Status",
-      "url": "https://codeblue.galencentre.org/2026/09/pulai-mp-wants-clarity-on-nicotine-vape-control-taxation-status/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-03T03:45:00",
-      "summary": "Pulai MP Suhaizan Kaiat wants Putrajaya to explain nicotine vape's taxation status and how it will be regulated, expressing support for nicotine remaining on the Poisons List. Nicotine shouldn't be seen solely as a trade or tax issue, but public health. The post Pulai MP Wants Clarity On Nicotine Vape Control, Taxation Status appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Malaysian Medical Negligence Damages Still Too Low: Lawyer",
-      "url": "https://codeblue.galencentre.org/2026/09/malaysian-medical-negligence-damages-still-too-low-lawyer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-03T02:00:00",
-      "summary": "Despite court awards exceeding RM8 million or RM9 million, lawyer Manmohan Singh Dhillon says Malaysia’s medical negligence damages remain too low for catastrophic injuries, citing restrictions on lost earnings and gaps in funding lifelong care. The post Malaysian Medical Negligence Damages Still Too Low: Lawyer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Ronald McCoy Was A Remarkable Doctor, Global Peace Advocate — MMA",
-      "url": "https://codeblue.galencentre.org/2026/09/ronald-mccoy-was-a-remarkable-doctor-global-peace-advocate-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-02T09:07:38",
-      "summary": "Dr Ronald McCoy helped initiate the International Campaign to Abolish Nuclear Weapons, which was awarded the Nobel Peace Prize in 2017. Malaysia has lost a remarkable doctor and global advocate for peace. Rest in peace, Dr McCoy. The post Ronald McCoy Was A Remarkable Doctor, Global Peace Advocate — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Minden air quality hits unhealthy level as API rises to 142, says Penang exco",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/07/minden-air-quality-hits-unhealthy-level-as-api-rises-to-142-says-penang-exco/234305",
+      "title": "Early arrivals contributing to hospital congestion, says Perak health exco",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/08/early-arrivals-contributing-to-hospital-congestion-says-perak-health-exco/234380",
       "source": "Malay Mail",
-      "published": "2026-09-07T09:43:15",
-      "summary": "GEORGE TOWN, Sept 7 — Air quality in parts of Penang island reached an unhealthy level today, with its Air Polluta...",
+      "published": "2026-09-08T03:29:01",
+      "summary": "IPOH, Sept 8 — Congestion at government hospitals in Perak is partly caused by elderly patients arriving with fami...",
       "keywords_matched": [
-        "health"
+        "health",
+        "hospital",
+        "patient",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Small fire at Raja Permaisuri Bainun Hospital children’s ward quickly extinguished, no injuries",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/08/small-fire-at-raja-permaisuri-bainun-hospital-childrens-ward-quickly-extinguished-no-injuries/234363",
+      "source": "Malay Mail",
+      "published": "2026-09-08T01:45:21",
+      "summary": "KUALA LUMPUR, Sept 8 — Raja Permaisuri Bainun Hospital (HRPB) staff in Ipoh quickly extinguished a fire involving...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
