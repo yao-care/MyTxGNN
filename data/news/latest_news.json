@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-09T03:07:01.060395",
+  "fetched": "2026-09-09T08:37:30.079136",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,47 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 17,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Game Changer For Infant Health — Dr Musa Mohd Nordin & Dr Husna Musa",
+      "url": "https://codeblue.galencentre.org/2026/09/game-changer-for-infant-health-dr-musa-mohd-nordin-dr-husna-musa/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-09T07:57:42",
+      "summary": "The arrival of nirsevimab, a long-acting monoclonal antibody, promises to rewrite the narrative of RSV prevention. The post Game Changer For Infant Health — Dr Musa Mohd Nordin & Dr Husna Musa appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Sarawak Gives RM100,000 To Each Family Of FDS Helicopter Crash Victims, Sponsors Children’s Education",
+      "url": "https://codeblue.galencentre.org/2026/09/sarawak-gives-rm100000-to-each-family-of-fds-helicopter-crash-victims-sponsors-childrens-education/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-09T07:22:28",
+      "summary": "The Sarawak state government is donating RM100,000 to each family of the five victims killed in a Flying Doctor Service helicopter crash, besides fully bearing the education fees of their school-going children. Their deaths are a loss to all Sarawakians. The post Sarawak Gives RM100,000 To Each Family Of FDS Helicopter Crash Victims, Sponsors Children’s Education appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "MOH ‘Doubles Down’ On Flying Doctor Service Despite Scant Details On Safety",
+      "url": "https://codeblue.galencentre.org/2026/09/moh-doubles-down-on-flying-doctor-service-despite-scant-details-on-safety/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-09T06:39:36",
+      "summary": "Dr Dzul says MOH will \"double down\" on its Flying Doctor Service (FDS) for universal health coverage, even though he couldn't provide technical safety details on its helicopters. FDS aircraft are contracted. MOH has proposed raising the RM30 allowance. The post MOH ‘Doubles Down’ On Flying Doctor Service Despite Scant Details On Safety appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Government Can’t Use Indemnity Shield If FDS Helicopter Crash Involved Negligence: MP",
+      "url": "https://codeblue.galencentre.org/2026/09/government-cant-use-indemnity-shield-if-fds-helicopter-crash-involved-negligence-mp/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-09T05:21:37",
+      "summary": "Bandar Kuching MP Dr Kelvin Yii tells the government not to use indemnity forms signed by staff as a shield if negligence is found in the fatal FDS helicopter crash. Senator Dr Lingeshwaran says the chopper model, built in 1991, was fully retired in 2001. The post Government Can’t Use Indemnity Shield If FDS Helicopter Crash Involved Negligence: MP appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "FDS Helicopter Crash Sparks Anger: Indemnity Form, RM30 Allowance",
       "url": "https://codeblue.galencentre.org/2026/09/fds-helicopter-crash-sparks-anger-indemnity-form-rm30-allowance/",
@@ -70,114 +109,44 @@
       ]
     },
     {
-      "title": "MMA Wants Independent Inquiries After Sexual Harassment Claims In Two Government Hospitals",
-      "url": "https://codeblue.galencentre.org/2026/09/mma-wants-independent-inquiries-after-sexual-harassment-claims-in-two-government-hospitals/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-07T03:29:31",
-      "summary": "MMA calls for independent panels outside MOH to investigate sexual harassment claims in government hospitals, after two cases in HSAJB and Likas Hospital. MOH should also strengthen the reporting mechanism for complaints against senior officers. The post MMA Wants Independent Inquiries After Sexual Harassment Claims In Two Government Hospitals appeared first on CodeBlue .",
+      "title": "Eleven men, including college student, claim trial to armed rioting charge outside Air Itam school",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/eleven-men-including-college-student-claim-trial-to-armed-rioting-charge-outside-air-itam-school/234554",
+      "source": "Malay Mail",
+      "published": "2026-09-09T08:13:57",
+      "summary": "GEORGE TOWN, Sept 9 — Eleven men, including a college student, reportedly pleaded not guilty in the Magistrate&rsq...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Another Malaysian pilot arrested over Jakarta drug syndicate probe, says Bukit Aman",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/another-malaysian-pilot-arrested-over-jakarta-drug-syndicate-probe-says-bukit-aman/234550",
+      "source": "Malay Mail",
+      "published": "2026-09-09T07:24:17",
+      "summary": "KUALA SELANGOR, Sept 9 — Another local pilot has been arrested to assist in investigations in connectio...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Police uncover RM2.4b drug operation in Puncak Alam, seize 13.17 tonnes in biggest haul this year",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/police-uncover-rm24b-drug-operation-in-puncak-alam-seize-1317-tonnes-in-biggest-haul-this-year/234529",
+      "source": "Malay Mail",
+      "published": "2026-09-09T05:36:09",
+      "summary": "KUALA SELANGOR, Sept 9 — Police have crippled a drug processing and distribution syndicate and uncovered a d...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Perak rejects claim Taiping Hospital has no house officers, says 93 currently undergoing training",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/perak-rejects-claim-taiping-hospital-has-no-house-officers-says-93-currently-undergoing-training/234525",
+      "source": "Malay Mail",
+      "published": "2026-09-09T05:24:57",
+      "summary": "IPOH, Sept 9 — Perak has denied an allegation that Taiping Hospital has no house officers (HOs), descri...",
       "keywords_matched": [
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "A Toxic Recipe For Social Disconnect And Disaffection",
-      "url": "https://codeblue.galencentre.org/2026/09/a-toxic-recipe-for-social-disconnect-and-disaffection/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-07T03:00:00",
-      "summary": "Australians were less engaged in their communities, lonelier, unhappier and less satisfied with life, even before the present turmoil. But there is cause for hope. The post A Toxic Recipe For Social Disconnect And Disaffection appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Taiping Hospital Medical Officers Drowning Under Cluster Expansions, Zero Housemen — Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/09/taiping-hospital-medical-officers-drowning-under-cluster-expansions-zero-housemen-medical-officer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-07T02:00:00",
-      "summary": "With zero housemen, medical officers are drowning at Taiping Hospital that covers four district hospitals under an expansive cluster hospital system, in addition to heavy internal workload. A doctor had to manage two separate CPRs occurring simultaneously. The post Taiping Hospital Medical Officers Drowning Under Cluster Expansions, Zero Housemen — Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Malaysia’s Poisoned Chalice Of Nicotine Vape: First Lacuna, Now An Accidental ‘Ban’",
-      "url": "https://codeblue.galencentre.org/2026/09/malaysias-poisoned-chalice-of-nicotine-vape-first-lacuna-now-an-accidental-ban/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-04T02:24:27",
-      "summary": "Only 2 preparations of nicotine are exempt from the Poisons List: tobacco and nicotine patch/gum. Amid Madani's silence, the industry has a \"grace period\" until GE16 to get rid of nicotine vape stock before a potential instant ban by a new government. The post Malaysia’s Poisoned Chalice Of Nicotine Vape: First Lacuna, Now An Accidental ‘Ban’ appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Kelantan MB: Doctor killed in Sarawak helicopter crash dedicated to serving rural communities",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/kelantan-mb-doctor-killed-in-sarawak-helicopter-crash-dedicated-to-serving-rural-communities/234498",
-      "source": "Malay Mail",
-      "published": "2026-09-09T02:38:21",
-      "summary": "KOTA BHARU, Sept 9 — Kelantan has lost a Kota Bharu-born, the late Dr Ainul Baraah Kamarudin, who passe...",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Flying Doctor Service crash: Investigation team due in Miri at 2pm, wreckage to be left untouched",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/flying-doctor-service-crash-investigation-team-due-in-miri-at-2pm-wreckage-to-be-left-untouched/234490",
-      "source": "Malay Mail",
-      "published": "2026-09-09T02:06:25",
-      "summary": "KUALA LUMPUR, Sept 9 — Air Accident Investigation Bureau (AAIB) investigators are expected to arrive in Miri at 2p...",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "FDS team in Sarawak helicopter crash was serving remote communities",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/fds-team-in-sarawak-helicopter-crash-was-serving-remote-communities/234475",
-      "source": "Malay Mail",
-      "published": "2026-09-09T01:03:26",
-      "summary": "KUCHING, Sept 9 —The Flying Doctor Service (FDS) team involved in the helicopter crash near Long Lellang this afternoo...",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Father says doctor killed in helicopter crash returned to Sarawak just two days ago",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/father-says-doctor-killed-in-helicopter-crash-returned-to-sarawak-just-two-days-ago/234474",
-      "source": "Malay Mail",
-      "published": "2026-09-09T01:00:06",
-      "summary": "KOTA BHARU, Sept 9 — The father of one of the victims of the helicopter crash in Sarawak, Kamarudin Salleh,...",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Pilot, four Health Ministry personnel confirmed dead in Long Lellang helicopter crash",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/pilot-four-health-ministry-personnel-confirmed-dead-in-long-lellang-helicopter-crash/234473",
-      "source": "Malay Mail",
-      "published": "2026-09-09T00:54:50",
-      "summary": "MIRI, Sept 9 — A pilot and four Ministry of Health (MOH) personnel were confirmed dead after the Flying Docto...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Dzulkefly: Status of five aboard Flying Doctor Service helicopter still unknown after Sarawak crash",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/08/dzulkefly-status-of-five-aboard-flying-doctor-service-helicopter-still-unknown-after-sarawak-crash/234466",
-      "source": "Malay Mail",
-      "published": "2026-09-08T11:57:20",
-      "summary": "KUCHING, Sept 8 — The status of five people aboard a Health Ministry (MOH) Flying Doctor Service helicopter...",
-      "keywords_matched": [
-        "health",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Flying Doctor Service helicopter carrying five crashes near Long Lellang airport",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/08/flying-doctor-service-helicopter-carrying-five-crashes-near-long-lellang-airport/234462",
-      "source": "Malay Mail",
-      "published": "2026-09-08T11:11:29",
-      "summary": "KUCHING, 8 Sept — A BO-105 helicopter carrying five people, including the pilot, crashed near the Long Lella...",
-      "keywords_matched": [
-        "doctor"
       ]
     }
   ]
