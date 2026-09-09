@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-08T23:49:39.353675",
+  "fetched": "2026-09-09T03:07:01.060395",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 17,
   "items": [
+    {
+      "title": "FDS Helicopter Crash Sparks Anger: Indemnity Form, RM30 Allowance",
+      "url": "https://codeblue.galencentre.org/2026/09/fds-helicopter-crash-sparks-anger-indemnity-form-rm30-allowance/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-09T02:33:24",
+      "summary": "The fatal crash of a Flying Doctor Service helicopter has sparked widespread anger over the RM30 allowance for health workers, an indemnity form, and age of the aircraft. A doctor who served on FDS says he didn't get insurance or aviation safety training. The post FDS Helicopter Crash Sparks Anger: Indemnity Form, RM30 Allowance appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
     {
       "title": "How Public-Private-Community Partnership Gets HIV Patients Access To Treatment In Sabah, Sarawak",
       "url": "https://codeblue.galencentre.org/2026/09/how-public-private-community-partnership-gets-hiv-patients-access-to-treatment-in-sabah-sarawak/",
@@ -99,14 +110,53 @@
       "keywords_matched": []
     },
     {
-      "title": "HSAJB Probes Doctor’s Sexual Harassment Complaint Against Anaesthesiologist",
-      "url": "https://codeblue.galencentre.org/2026/09/hsajb-probes-doctors-sexual-harassment-complaint-against-anaesthesiologist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-04T02:00:00",
-      "summary": "HSAJB is investigating a medical officer's sexual harassment complaint against an anaesthesiologist. The junior doctor was allegedly asked by a superior to withdraw her report. Nurses have also complained about the specialist's \"unprofessional\" behaviour. The post HSAJB Probes Doctor’s Sexual Harassment Complaint Against Anaesthesiologist appeared first on CodeBlue .",
+      "title": "Kelantan MB: Doctor killed in Sarawak helicopter crash dedicated to serving rural communities",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/kelantan-mb-doctor-killed-in-sarawak-helicopter-crash-dedicated-to-serving-rural-communities/234498",
+      "source": "Malay Mail",
+      "published": "2026-09-09T02:38:21",
+      "summary": "KOTA BHARU, Sept 9 — Kelantan has lost a Kota Bharu-born, the late Dr Ainul Baraah Kamarudin, who passe...",
       "keywords_matched": [
-        "medical",
         "doctor"
+      ]
+    },
+    {
+      "title": "Flying Doctor Service crash: Investigation team due in Miri at 2pm, wreckage to be left untouched",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/flying-doctor-service-crash-investigation-team-due-in-miri-at-2pm-wreckage-to-be-left-untouched/234490",
+      "source": "Malay Mail",
+      "published": "2026-09-09T02:06:25",
+      "summary": "KUALA LUMPUR, Sept 9 — Air Accident Investigation Bureau (AAIB) investigators are expected to arrive in Miri at 2p...",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "FDS team in Sarawak helicopter crash was serving remote communities",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/fds-team-in-sarawak-helicopter-crash-was-serving-remote-communities/234475",
+      "source": "Malay Mail",
+      "published": "2026-09-09T01:03:26",
+      "summary": "KUCHING, Sept 9 —The Flying Doctor Service (FDS) team involved in the helicopter crash near Long Lellang this afternoo...",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Father says doctor killed in helicopter crash returned to Sarawak just two days ago",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/father-says-doctor-killed-in-helicopter-crash-returned-to-sarawak-just-two-days-ago/234474",
+      "source": "Malay Mail",
+      "published": "2026-09-09T01:00:06",
+      "summary": "KOTA BHARU, Sept 9 — The father of one of the victims of the helicopter crash in Sarawak, Kamarudin Salleh,...",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Pilot, four Health Ministry personnel confirmed dead in Long Lellang helicopter crash",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/pilot-four-health-ministry-personnel-confirmed-dead-in-long-lellang-helicopter-crash/234473",
+      "source": "Malay Mail",
+      "published": "2026-09-09T00:54:50",
+      "summary": "MIRI, Sept 9 — A pilot and four Ministry of Health (MOH) personnel were confirmed dead after the Flying Docto...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
@@ -128,16 +178,6 @@
       "summary": "KUCHING, 8 Sept — A BO-105 helicopter carrying five people, including the pilot, crashed near the Long Lella...",
       "keywords_matched": [
         "doctor"
-      ]
-    },
-    {
-      "title": "Senior medical officer in Melaka remanded over RM1.5m knee implant supply probe",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/08/senior-medical-officer-in-melaka-remanded-over-rm15m-knee-implant-supply-probe/234439",
-      "source": "Malay Mail",
-      "published": "2026-09-08T08:35:09",
-      "summary": "KUALA LUMPUR, Sept 8 —  A senior medical officer has been remanded for five days to assist a Malaysian Anti-C...",
-      "keywords_matched": [
-        "medical"
       ]
     }
   ]
