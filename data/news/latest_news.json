@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-09T08:37:30.079136",
+  "fetched": "2026-09-09T13:23:42.282327",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Hartal Demands FDS Suspension, MNU Wants Memorial For Crash Victims",
+      "url": "https://codeblue.galencentre.org/2026/09/hartal-demands-fds-suspension-mnu-wants-memorial-for-crash-victims/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-09T09:11:55",
+      "summary": "Hartal Doktor Kontrak demands a temporary suspension of the Flying Doctor Service (FDS), pending full safety checks. The Malayan Nurses Union tells MOH to organise a memorial or official tribute to the five people killed in the FDS helicopter crash. The post Hartal Demands FDS Suspension, MNU Wants Memorial For Crash Victims appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor",
+        "doktor"
+      ]
+    },
     {
       "title": "Game Changer For Infant Health — Dr Musa Mohd Nordin & Dr Husna Musa",
       "url": "https://codeblue.galencentre.org/2026/09/game-changer-for-infant-health-dr-musa-mohd-nordin-dr-husna-musa/",
@@ -98,55 +109,13 @@
       "keywords_matched": []
     },
     {
-      "title": "Public Health Starts With Nutritious Food: Health Minister",
-      "url": "https://codeblue.galencentre.org/2026/09/public-health-starts-with-nutritious-food-health-minister/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-07T05:45:00",
-      "summary": "Health Minister Dzulkefly Ahmad said public health starts with safe, nutritious food, calling local agricultural production the “first line of defence” against disease. He said a healthy society begins with the quality of nutrition on the people’s plates. The post Public Health Starts With Nutritious Food: Health Minister appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "disease"
-      ]
-    },
-    {
-      "title": "Eleven men, including college student, claim trial to armed rioting charge outside Air Itam school",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/eleven-men-including-college-student-claim-trial-to-armed-rioting-charge-outside-air-itam-school/234554",
+      "title": "Haze: Serian records API 213, highest air pollution level in Sarawak",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/haze-serian-records-api-213-highest-air-pollution-level-in-sarawak/234579",
       "source": "Malay Mail",
-      "published": "2026-09-09T08:13:57",
-      "summary": "GEORGE TOWN, Sept 9 — Eleven men, including a college student, reportedly pleaded not guilty in the Magistrate&rsq...",
+      "published": "2026-09-09T09:46:06",
+      "summary": "KUALA LUMPUR, Sept 9 — Serian in Sarawak continued to record a very unhealthy Air Pollutant Index (API) reading du...",
       "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Another Malaysian pilot arrested over Jakarta drug syndicate probe, says Bukit Aman",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/another-malaysian-pilot-arrested-over-jakarta-drug-syndicate-probe-says-bukit-aman/234550",
-      "source": "Malay Mail",
-      "published": "2026-09-09T07:24:17",
-      "summary": "KUALA SELANGOR, Sept 9 — Another local pilot has been arrested to assist in investigations in connectio...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Police uncover RM2.4b drug operation in Puncak Alam, seize 13.17 tonnes in biggest haul this year",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/police-uncover-rm24b-drug-operation-in-puncak-alam-seize-1317-tonnes-in-biggest-haul-this-year/234529",
-      "source": "Malay Mail",
-      "published": "2026-09-09T05:36:09",
-      "summary": "KUALA SELANGOR, Sept 9 — Police have crippled a drug processing and distribution syndicate and uncovered a d...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Perak rejects claim Taiping Hospital has no house officers, says 93 currently undergoing training",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/perak-rejects-claim-taiping-hospital-has-no-house-officers-says-93-currently-undergoing-training/234525",
-      "source": "Malay Mail",
-      "published": "2026-09-09T05:24:57",
-      "summary": "IPOH, Sept 9 — Perak has denied an allegation that Taiping Hospital has no house officers (HOs), descri...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
+        "health"
       ]
     }
   ]
