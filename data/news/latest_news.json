@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-10T10:37:38.755570",
+  "fetched": "2026-09-10T14:48:48.010066",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "MOH Suspends Flying Doctor Service In Sarawak Pending Safety Reviews",
@@ -132,16 +132,6 @@
       "keywords_matched": [
         "health",
         "doctor"
-      ]
-    },
-    {
-      "title": "Transboundary haze discussed on sidelines of Asean health ministers meeting, says Dzulkefly",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/transboundary-haze-discussed-on-sidelines-of-asean-health-ministers-meeting-says-dzulkefly/234684",
-      "source": "Malay Mail",
-      "published": "2026-09-10T05:11:51",
-      "summary": "KUALA LUMPUR, Sept 10 — The transboundary haze issue is not on the formal agenda of the 17th ASEAN Health Mi...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
