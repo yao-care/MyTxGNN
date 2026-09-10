@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-10T00:50:30.562188",
+  "fetched": "2026-09-10T05:35:38.486757",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 16,
   "items": [
+    {
+      "title": "After Tragedy, Zaliha Reverses Earlier Opposition To Health Service Commission",
+      "url": "https://codeblue.galencentre.org/2026/09/after-tragedy-zaliha-reverses-earlier-opposition-to-health-service-commission/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-10T04:00:00",
+      "summary": "In 2023, Zaliha Mustafa said forming a Health Service Commission won't solve MOH's issues and it lacks the power to improve health worker remuneration. But today, she wants it expedited because \"we shouldn't wait until an issue receives public attention\". The post After Tragedy, Zaliha Reverses Earlier Opposition To Health Service Commission appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "The Five Lights Extinguished In Long Lellang Tragedy",
+      "url": "https://codeblue.galencentre.org/2026/09/the-five-lights-extinguished-in-long-lellang-tragedy/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-10T02:00:00",
+      "summary": "Family, friends, coworkers, and patients pay tribute to Capt Zainol, Dr Ainul, SN Debra, SN Jessie, and MA Alexson, who died in the line of duty in their 30s and 40s on a Flying Doctor Service flight in Sarawak. They were remembered as dedicated workers. The post The Five Lights Extinguished In Long Lellang Tragedy appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor",
+        "patient"
+      ]
+    },
     {
       "title": "Hartal Demands FDS Suspension, MNU Wants Memorial For Crash Victims",
       "url": "https://codeblue.galencentre.org/2026/09/hartal-demands-fds-suspension-mnu-wants-memorial-for-crash-victims/",
@@ -90,32 +111,64 @@
       "keywords_matched": []
     },
     {
-      "title": "Beyond Litigation: What Malaysia Can Learn From A UK Patient Safety Group",
-      "url": "https://codeblue.galencentre.org/2026/09/beyond-litigation-what-malaysia-can-learn-from-a-uk-patient-safety-group/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-08T02:00:00",
-      "summary": "UK patient safety charity AvMA helps patients seek answers and support after medical harm. Beyond litigation, AvMA says Malaysia could benefit from a similar independent body to help patients navigate complaints and, when needed, legal support. The post Beyond Litigation: What Malaysia Can Learn From A UK Patient Safety Group appeared first on CodeBlue .",
+      "title": "Transboundary haze discussed on sidelines of Asean health ministers meeting, says Dzulkefly",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/transboundary-haze-discussed-on-sidelines-of-asean-health-ministers-meeting-says-dzulkefly/234684",
+      "source": "Malay Mail",
+      "published": "2026-09-10T05:11:51",
+      "summary": "KUALA LUMPUR, Sept 10 — The transboundary haze issue is not on the formal agenda of the 17th ASEAN Health Mi...",
       "keywords_matched": [
-        "medical",
-        "patient"
+        "health"
       ]
     },
     {
-      "title": "The Grey Wave Is Becoming A National Conversation",
-      "url": "https://codeblue.galencentre.org/2026/09/the-grey-wave-is-becoming-a-national-conversation/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-07T07:30:00",
-      "summary": "Reflections on NCWO’s 65th National Women’s Day Celebration: financial literacy cannot restore years of retirement contributions lost to unpaid caregiving. Budgeting cannot correct low wages, insecure employment, or unaffordable long-term care. The post The Grey Wave Is Becoming A National Conversation appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Haze: Serian records API 213, highest air pollution level in Sarawak",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/09/haze-serian-records-api-213-highest-air-pollution-level-in-sarawak/234579",
+      "title": "MOH still awaiting official post-mortem report on five Long Lellang crash victims",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/moh-still-awaiting-official-post-mortem-report-on-five-long-lellang-crash-victims/234676",
       "source": "Malay Mail",
-      "published": "2026-09-09T09:46:06",
-      "summary": "KUALA LUMPUR, Sept 9 — Serian in Sarawak continued to record a very unhealthy Air Pollutant Index (API) reading du...",
+      "published": "2026-09-10T03:59:26",
+      "summary": "KUALA LUMPUR, Sept 10 — The Ministry of Health (MOH) is still awaiting the official report on the post-morte...",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Nurse killed in helicopter crash had planned to leave flying doctor service to further studies",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/nurse-killed-in-helicopter-crash-had-planned-to-leave-flying-doctor-service-to-further-studies/234663",
+      "source": "Malay Mail",
+      "published": "2026-09-10T03:39:47",
+      "summary": "KUCHING, Sept 10 — The dream of nurse Jessie Paya Jok, 44, to further her studies was cut short when sh...",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Alam Maritim CEO charged with fraud over vessel charter rates, claims trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/alam-maritim-ceo-charged-with-fraud-over-vessel-charter-rates-claims-trial/234657",
+      "source": "Malay Mail",
+      "published": "2026-09-10T03:24:17",
+      "summary": "KUALA LUMPUR, Sept 10 — Alam Maritim Resources Bhd group managing director and chief executive officer (CEO) Datuk Azm...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "No hazardous API readings recorded nationwide, Sarawak records highest unhealthy levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/no-hazardous-api-readings-recorded-nationwide-sarawak-records-highest-unhealthy-levels/234658",
+      "source": "Malay Mail",
+      "published": "2026-09-10T03:25:28",
+      "summary": "KUALA LUMPUR, Sept 10 — No areas recorded hazardous Air Pollutant Index (API) readings due to haze as o...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Ceiling fire at Jengka Hospital wards forces 17 to evacuate, no injuries reported",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/ceiling-fire-at-jengka-hospital-wards-forces-17-to-evacuate-no-injuries-reported/234633",
+      "source": "Malay Mail",
+      "published": "2026-09-10T01:28:11",
+      "summary": "KUANTAN, Sept 10 — Part of the ceiling in the paediatric and women’s wards at Jengka Hospital cau...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
