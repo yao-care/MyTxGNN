@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-10T05:35:38.486757",
+  "fetched": "2026-09-10T10:37:38.755570",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,80 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 16,
+  "total_items": 13,
   "items": [
+    {
+      "title": "MOH Suspends Flying Doctor Service In Sarawak Pending Safety Reviews",
+      "url": "https://codeblue.galencentre.org/2026/09/moh-suspends-flying-doctor-service-in-sarawak-pending-safety-reviews/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-10T09:14:41",
+      "summary": "MOH has suspended all Flying Doctor Service operations in Sarawak following a fatal helicopter crash, pending safety reviews. Emergency medical evacuation services will run with Bomba. MOH is also exploring the use of military assets for patient transfers. The post MOH Suspends Flying Doctor Service In Sarawak Pending Safety Reviews appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor",
+        "patient"
+      ]
+    },
+    {
+      "title": "Dzulkefly Proposed Raising FDS Allowance To RM60: Aide",
+      "url": "https://codeblue.galencentre.org/2026/09/dzulkefly-proposed-raising-fds-allowance-to-rm60-aide/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-10T08:56:06",
+      "summary": "Dzulkefly Ahmad's aide says the health minister proposed last Nov a 100% raise of the RM30 allowance for health workers on the Flying Doctor Service to at least RM60. The proposal is under consideration by MOF and JPA, hopefully announced in Budget 2027. The post Dzulkefly Proposed Raising FDS Allowance To RM60: Aide appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Health Ministry Raises Funds For FDS Victims’ Families",
+      "url": "https://codeblue.galencentre.org/2026/09/health-ministry-raises-funds-for-fds-victims-families/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-10T07:57:46",
+      "summary": "The Sarawak state health department, which is under the federal MOH, has launched a fundraising drive for the public to make donations to the families of five victims of the Long Lellang tragedy. Dr Dzul earlier announced unspecified ex-gratia payments. The post Health Ministry Raises Funds For FDS Victims’ Families appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Verify Safety Of Aircraft, Boats, Ambulances For Health Care — MMA",
+      "url": "https://codeblue.galencentre.org/2026/09/verify-safety-of-aircraft-boats-ambulances-for-health-care-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-10T07:50:00",
+      "summary": "MMA wants safety assurances for all assets (aircraft, boats, ambulances) used for medical missions, mandatory government-funded insurance for health workers on official duty, allowance reviews, a review of liability-waiver forms, and a national task force. The post Verify Safety Of Aircraft, Boats, Ambulances For Health Care — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
+    {
+      "title": "Malaysia Needs A Modern Aeromedical Service",
+      "url": "https://codeblue.galencentre.org/2026/09/malaysia-needs-a-modern-aeromedical-service/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-10T07:00:00",
+      "summary": "The Galen Centre calls for a specialised aeromedical service with specialist pilots, flight nurses, retrieval physicians, and paramedics who train and work together, rather than renting helicopters like a taxi. The private sector can contribute funding. The post Malaysia Needs A Modern Aeromedical Service appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
+    {
+      "title": "Dengue: Staying One Step Ahead — Dr Naveen Nair Gangadaran & Dr Musa Mohd Nordin",
+      "url": "https://codeblue.galencentre.org/2026/09/dengue-staying-one-step-ahead-dr-naveen-nair-gangadaran-dr-musa-mohd-nordin/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-10T06:52:45",
+      "summary": "We already know how to hunt the mosquito. It is time more Malaysians knew there is another shield available to keep our loved ones safe. The post Dengue: Staying One Step Ahead — Dr Naveen Nair Gangadaran & Dr Musa Mohd Nordin appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Long Lellang Tragedy Triggers Calls For Dzulkefly’s Resignation",
+      "url": "https://codeblue.galencentre.org/2026/09/long-lellang-tragedy-triggers-calls-for-dzulkeflys-resignation/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-10T06:16:04",
+      "summary": "Dr Dzul's handling of the Long Lellang tragedy has led to mounting demands for his resignation as health minister. Beyond health workers, the general public is incensed at how he acted at a press conference and his attendance at an Asean meeting in KL. The post Long Lellang Tragedy Triggers Calls For Dzulkefly’s Resignation appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "After Tragedy, Zaliha Reverses Earlier Opposition To Health Service Commission",
       "url": "https://codeblue.galencentre.org/2026/09/after-tragedy-zaliha-reverses-earlier-opposition-to-health-service-commission/",
@@ -42,73 +114,25 @@
       ]
     },
     {
-      "title": "Game Changer For Infant Health — Dr Musa Mohd Nordin & Dr Husna Musa",
-      "url": "https://codeblue.galencentre.org/2026/09/game-changer-for-infant-health-dr-musa-mohd-nordin-dr-husna-musa/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-09T07:57:42",
-      "summary": "The arrival of nirsevimab, a long-acting monoclonal antibody, promises to rewrite the narrative of RSV prevention. The post Game Changer For Infant Health — Dr Musa Mohd Nordin & Dr Husna Musa appeared first on CodeBlue .",
+      "title": "Drug syndicates use public as mules to smuggle cannabis to Europe, says Bukit Aman",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/drug-syndicates-use-public-as-mules-to-smuggle-cannabis-to-europe-says-bukit-aman/234710",
+      "source": "Malay Mail",
+      "published": "2026-09-10T08:25:47",
+      "summary": "BACHOK,  Sept 10 — The Royal Malaysia Police (PDRM) have found that drug trafficking syndicates op...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     },
     {
-      "title": "Sarawak Gives RM100,000 To Each Family Of FDS Helicopter Crash Victims, Sponsors Children’s Education",
-      "url": "https://codeblue.galencentre.org/2026/09/sarawak-gives-rm100000-to-each-family-of-fds-helicopter-crash-victims-sponsors-childrens-education/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-09T07:22:28",
-      "summary": "The Sarawak state government is donating RM100,000 to each family of the five victims killed in a Flying Doctor Service helicopter crash, besides fully bearing the education fees of their school-going children. Their deaths are a loss to all Sarawakians. The post Sarawak Gives RM100,000 To Each Family Of FDS Helicopter Crash Victims, Sponsors Children’s Education appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "MOH ‘Doubles Down’ On Flying Doctor Service Despite Scant Details On Safety",
-      "url": "https://codeblue.galencentre.org/2026/09/moh-doubles-down-on-flying-doctor-service-despite-scant-details-on-safety/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-09T06:39:36",
-      "summary": "Dr Dzul says MOH will \"double down\" on its Flying Doctor Service (FDS) for universal health coverage, even though he couldn't provide technical safety details on its helicopters. FDS aircraft are contracted. MOH has proposed raising the RM30 allowance. The post MOH ‘Doubles Down’ On Flying Doctor Service Despite Scant Details On Safety appeared first on CodeBlue .",
+      "title": "Sarawak Flying Doctor Service operations suspended after fatal helicopter crash, says health minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/sarawak-flying-doctor-service-operations-suspended-after-fatal-helicopter-crash-says-health-minister/234704",
+      "source": "Malay Mail",
+      "published": "2026-09-10T07:57:38",
+      "summary": "KUALA LUMPUR, Sept 10 — All Flying Doctor Service (FDS) operations in Sarawak have been temporarily suspended foll...",
       "keywords_matched": [
         "health",
         "doctor"
       ]
-    },
-    {
-      "title": "Government Can’t Use Indemnity Shield If FDS Helicopter Crash Involved Negligence: MP",
-      "url": "https://codeblue.galencentre.org/2026/09/government-cant-use-indemnity-shield-if-fds-helicopter-crash-involved-negligence-mp/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-09T05:21:37",
-      "summary": "Bandar Kuching MP Dr Kelvin Yii tells the government not to use indemnity forms signed by staff as a shield if negligence is found in the fatal FDS helicopter crash. Senator Dr Lingeshwaran says the chopper model, built in 1991, was fully retired in 2001. The post Government Can’t Use Indemnity Shield If FDS Helicopter Crash Involved Negligence: MP appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "FDS Helicopter Crash Sparks Anger: Indemnity Form, RM30 Allowance",
-      "url": "https://codeblue.galencentre.org/2026/09/fds-helicopter-crash-sparks-anger-indemnity-form-rm30-allowance/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-09T02:33:24",
-      "summary": "The fatal crash of a Flying Doctor Service helicopter has sparked widespread anger over the RM30 allowance for health workers, an indemnity form, and age of the aircraft. A doctor who served on FDS says he didn't get insurance or aviation safety training. The post FDS Helicopter Crash Sparks Anger: Indemnity Form, RM30 Allowance appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "doctor"
-      ]
-    },
-    {
-      "title": "How Public-Private-Community Partnership Gets HIV Patients Access To Treatment In Sabah, Sarawak",
-      "url": "https://codeblue.galencentre.org/2026/09/how-public-private-community-partnership-gets-hiv-patients-access-to-treatment-in-sabah-sarawak/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-08T05:30:00",
-      "summary": "In Sabah and Sarawak, a partnership model between the government, Sunway Group, and Malaysian AIDS Foundation is helping patients overcome poverty, distance, and transport costs to stay on life-saving HIV treatment. The post How Public-Private-Community Partnership Gets HIV Patients Access To Treatment In Sabah, Sarawak appeared first on CodeBlue .",
-      "keywords_matched": [
-        "treatment",
-        "patient"
-      ]
-    },
-    {
-      "title": "Where Do ICU Nurses Put Their Grief? — Nor Zehan Ahmad",
-      "url": "https://codeblue.galencentre.org/2026/09/where-do-icu-nurses-put-their-grief-nor-zehan-ahmad/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-08T03:30:00",
-      "summary": "The monitor stops, but the nurse carries on. The grief often remains unseen, with nowhere safe to go. The post Where Do ICU Nurses Put Their Grief? — Nor Zehan Ahmad appeared first on CodeBlue .",
-      "keywords_matched": []
     },
     {
       "title": "Transboundary haze discussed on sidelines of Asean health ministers meeting, says Dzulkefly",
@@ -118,57 +142,6 @@
       "summary": "KUALA LUMPUR, Sept 10 — The transboundary haze issue is not on the formal agenda of the 17th ASEAN Health Mi...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "MOH still awaiting official post-mortem report on five Long Lellang crash victims",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/moh-still-awaiting-official-post-mortem-report-on-five-long-lellang-crash-victims/234676",
-      "source": "Malay Mail",
-      "published": "2026-09-10T03:59:26",
-      "summary": "KUALA LUMPUR, Sept 10 — The Ministry of Health (MOH) is still awaiting the official report on the post-morte...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Nurse killed in helicopter crash had planned to leave flying doctor service to further studies",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/nurse-killed-in-helicopter-crash-had-planned-to-leave-flying-doctor-service-to-further-studies/234663",
-      "source": "Malay Mail",
-      "published": "2026-09-10T03:39:47",
-      "summary": "KUCHING, Sept 10 — The dream of nurse Jessie Paya Jok, 44, to further her studies was cut short when sh...",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Alam Maritim CEO charged with fraud over vessel charter rates, claims trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/alam-maritim-ceo-charged-with-fraud-over-vessel-charter-rates-claims-trial/234657",
-      "source": "Malay Mail",
-      "published": "2026-09-10T03:24:17",
-      "summary": "KUALA LUMPUR, Sept 10 — Alam Maritim Resources Bhd group managing director and chief executive officer (CEO) Datuk Azm...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "No hazardous API readings recorded nationwide, Sarawak records highest unhealthy levels",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/no-hazardous-api-readings-recorded-nationwide-sarawak-records-highest-unhealthy-levels/234658",
-      "source": "Malay Mail",
-      "published": "2026-09-10T03:25:28",
-      "summary": "KUALA LUMPUR, Sept 10 — No areas recorded hazardous Air Pollutant Index (API) readings due to haze as o...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Ceiling fire at Jengka Hospital wards forces 17 to evacuate, no injuries reported",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/ceiling-fire-at-jengka-hospital-wards-forces-17-to-evacuate-no-injuries-reported/234633",
-      "source": "Malay Mail",
-      "published": "2026-09-10T01:28:11",
-      "summary": "KUANTAN, Sept 10 — Part of the ceiling in the paediatric and women’s wards at Jengka Hospital cau...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
