@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-10T23:42:53.398894",
+  "fetched": "2026-09-11T03:02:03.066342",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Deputy Foreign Minister Moots Insurance For Flying Doctor Service Passengers",
+      "url": "https://codeblue.galencentre.org/2026/09/deputy-foreign-minister-moots-insurance-for-flying-doctor-service-passengers/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-11T02:00:00",
+      "summary": "Deputy Foreign Minister Lukanisman wants insurance coverage for Flying Doctor Service (FDS) passengers. Before the FDS suspension was announced, Lukanisman said the service should be halted to avoid traumatising other FDS teams. The post Deputy Foreign Minister Moots Insurance For Flying Doctor Service Passengers appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
     {
       "title": "MOH Suspends Flying Doctor Service In Sarawak Pending Safety Reviews",
       "url": "https://codeblue.galencentre.org/2026/09/moh-suspends-flying-doctor-service-in-sarawak-pending-safety-reviews/",
@@ -100,38 +110,6 @@
       "keywords_matched": [
         "doctor",
         "patient"
-      ]
-    },
-    {
-      "title": "Hartal Demands FDS Suspension, MNU Wants Memorial For Crash Victims",
-      "url": "https://codeblue.galencentre.org/2026/09/hartal-demands-fds-suspension-mnu-wants-memorial-for-crash-victims/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-09T09:11:55",
-      "summary": "Hartal Doktor Kontrak demands a temporary suspension of the Flying Doctor Service (FDS), pending full safety checks. The Malayan Nurses Union tells MOH to organise a memorial or official tribute to the five people killed in the FDS helicopter crash. The post Hartal Demands FDS Suspension, MNU Wants Memorial For Crash Victims appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor",
-        "doktor"
-      ]
-    },
-    {
-      "title": "Drug syndicates use public as mules to smuggle cannabis to Europe, says Bukit Aman",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/drug-syndicates-use-public-as-mules-to-smuggle-cannabis-to-europe-says-bukit-aman/234710",
-      "source": "Malay Mail",
-      "published": "2026-09-10T08:25:47",
-      "summary": "BACHOK,  Sept 10 — The Royal Malaysia Police (PDRM) have found that drug trafficking syndicates op...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Sarawak Flying Doctor Service operations suspended after fatal helicopter crash, says health minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/10/sarawak-flying-doctor-service-operations-suspended-after-fatal-helicopter-crash-says-health-minister/234704",
-      "source": "Malay Mail",
-      "published": "2026-09-10T07:57:38",
-      "summary": "KUALA LUMPUR, Sept 10 — All Flying Doctor Service (FDS) operations in Sarawak have been temporarily suspended foll...",
-      "keywords_matched": [
-        "health",
-        "doctor"
       ]
     }
   ]
