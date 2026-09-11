@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-11T08:33:34.713378",
+  "fetched": "2026-09-11T13:14:02.638400",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Malaysia Must Rethink How It Ages As Population Ages: MHAS",
+      "url": "https://codeblue.galencentre.org/2026/09/malaysia-must-rethink-how-it-ages-as-population-ages-mhas/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-11T09:31:07",
+      "summary": "MCHA 2026 provides an important platform for stakeholders to exchange ideas and develop approaches that could contribute towards a more age-friendly Malaysia. The post Malaysia Must Rethink How It Ages As Population Ages: MHAS appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Broken Guarantees: How Bureaucratic Bullying Is Draining Health Care Talent — Senior Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/09/broken-guarantees-how-bureaucratic-bullying-is-draining-health-care-talent-senior-medical-officer/",
@@ -99,13 +107,12 @@
       ]
     },
     {
-      "title": "Dzulkefly Proposed Raising FDS Allowance To RM60: Aide",
-      "url": "https://codeblue.galencentre.org/2026/09/dzulkefly-proposed-raising-fds-allowance-to-rm60-aide/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-10T08:56:06",
-      "summary": "Dzulkefly Ahmad's aide says the health minister proposed last Nov a 100% raise of the RM30 allowance for health workers on the Flying Doctor Service to at least RM60. The proposal is under consideration by MOF and JPA, hopefully announced in Budget 2027. The post Dzulkefly Proposed Raising FDS Allowance To RM60: Aide appeared first on CodeBlue .",
+      "title": "DNA results for five Long Lellang crash victims due by tomorrow, say Sarawak police",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/11/dna-results-for-five-long-lellang-crash-victims-due-by-tomorrow-say-sarawak-police/234847",
+      "source": "Malay Mail",
+      "published": "2026-09-11T08:51:52",
+      "summary": "MIRI, Sept 11 — The deoxyribonucleic acid (DNA) analysis for all five victims of the Flying Doctor Service helicop...",
       "keywords_matched": [
-        "health",
         "doctor"
       ]
     },
@@ -122,31 +129,11 @@
       ]
     },
     {
-      "title": "DNA tests pending for five victims of Long Lellang helicopter crash, says Sarawak police",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/11/dna-tests-pending-for-five-victims-of-long-lellang-helicopter-crash-says-sarawak-police/234816",
-      "source": "Malay Mail",
-      "published": "2026-09-11T06:19:50",
-      "summary": "KUCHING, Sept 11 — The post-mortems on all five victims of the Flying Doctor Service helicopter crash in Long Lell...",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
       "title": "No U-turn: Ex-minister Dr Zaliha says she has backed Health Service Commission proposal since 2023",
       "url": "https://www.malaymail.com/news/malaysia/2026/09/11/no-u-turn-ex-minister-dr-zaliha-says-she-has-backed-health-service-commission-proposal-since-2023/234817",
       "source": "Malay Mail",
       "published": "2026-09-11T05:58:56",
       "summary": "KUALA LUMPUR, Sept 11 — Former Health Minister Datuk Seri Dr Zaliha Mustafa today denied making a U-turn on the pr...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Health cooperation gets fresh push as Asean, China face new threats",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/11/health-cooperation-gets-fresh-push-as-asean-china-face-new-threats/234801",
-      "source": "Malay Mail",
-      "published": "2026-09-11T04:24:59",
-      "summary": "KUALA LUMPUR, Sept 11 — Asean and China are seeking to deepen their decade-long health cooperation as the region c...",
       "keywords_matched": [
         "health"
       ]
