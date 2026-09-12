@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-12T10:06:23.507496",
+  "fetched": "2026-09-12T13:52:04.399865",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 10,
   "items": [
     {
       "title": "Malaysia Must Rethink How It Ages As Population Ages: MHAS",
@@ -104,47 +104,6 @@
         "medical",
         "doctor",
         "patient"
-      ]
-    },
-    {
-      "title": "Empty posts, crumbling clinics: Sarawak wants the power to fix its own healthcare",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/12/empty-posts-crumbling-clinics-sarawak-wants-the-power-to-fix-its-own-healthcare/234937",
-      "source": "Malay Mail",
-      "published": "2026-09-12T05:36:17",
-      "summary": "KUCHING, Sept 12 — Sarawak is pushing for regulatory powers under the Private Healthcare Facilities and Services A...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Sarawak dialysis patient’s rescue shows why the Flying Doctor Service matters",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/12/sarawak-dialysis-patients-rescue-shows-why-the-flying-doctor-service-matters/234924",
-      "source": "Malay Mail",
-      "published": "2026-09-12T04:20:15",
-      "summary": "KUCHING, Sept 12 — When a helicopter crashed just 200 metres from her home in Long Lellang, Renai Iwat was not only conf...",
-      "keywords_matched": [
-        "doctor",
-        "patient"
-      ]
-    },
-    {
-      "title": "No special treatment in Peter Anthony’s release, says Prisons Department",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/12/no-special-treatment-in-peter-anthonys-release-says-prisons-department/234919",
-      "source": "Malay Mail",
-      "published": "2026-09-12T04:19:35",
-      "summary": "KUALA LUMPUR, Sept 12 — Malaysia’s Prisons Department said the release of former Sabah Infrastructure Minist...",
-      "keywords_matched": [
-        "treatment"
-      ]
-    },
-    {
-      "title": "DNA results of Long Lellang crash victims finally in, families set to receive remains",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/12/dna-results-of-long-lellang-crash-victims-finally-in-families-set-to-receive-remains/234917",
-      "source": "Malay Mail",
-      "published": "2026-09-12T04:11:08",
-      "summary": "MIRI, Sept 12 — The DNA (deoxyribonucleic acid) test results for the five victims of the Flying Doctor Service (FD...",
-      "keywords_matched": [
-        "doctor"
       ]
     }
   ]
