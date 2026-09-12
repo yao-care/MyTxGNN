@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-12T00:57:51.751879",
+  "fetched": "2026-09-12T05:30:46.259288",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -107,35 +107,34 @@
       ]
     },
     {
-      "title": "DNA results for five Long Lellang crash victims due by tomorrow, say Sarawak police",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/11/dna-results-for-five-long-lellang-crash-victims-due-by-tomorrow-say-sarawak-police/234847",
+      "title": "Sarawak dialysis patient’s rescue shows why the Flying Doctor Service matters",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/12/sarawak-dialysis-patients-rescue-shows-why-the-flying-doctor-service-matters/234924",
       "source": "Malay Mail",
-      "published": "2026-09-11T08:51:52",
-      "summary": "MIRI, Sept 11 — The deoxyribonucleic acid (DNA) analysis for all five victims of the Flying Doctor Service helicop...",
+      "published": "2026-09-12T04:20:15",
+      "summary": "KUCHING, Sept 12 — When a helicopter crashed just 200 metres from her home in Long Lellang, Renai Iwat was not only conf...",
+      "keywords_matched": [
+        "doctor",
+        "patient"
+      ]
+    },
+    {
+      "title": "No special treatment in Peter Anthony’s release, says Prisons Department",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/12/no-special-treatment-in-peter-anthonys-release-says-prisons-department/234919",
+      "source": "Malay Mail",
+      "published": "2026-09-12T04:19:35",
+      "summary": "KUALA LUMPUR, Sept 12 — Malaysia’s Prisons Department said the release of former Sabah Infrastructure Minist...",
+      "keywords_matched": [
+        "treatment"
+      ]
+    },
+    {
+      "title": "DNA results of Long Lellang crash victims finally in, families set to receive remains",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/12/dna-results-of-long-lellang-crash-victims-finally-in-families-set-to-receive-remains/234917",
+      "source": "Malay Mail",
+      "published": "2026-09-12T04:11:08",
+      "summary": "MIRI, Sept 12 — The DNA (deoxyribonucleic acid) test results for the five victims of the Flying Doctor Service (FD...",
       "keywords_matched": [
         "doctor"
-      ]
-    },
-    {
-      "title": "Tanker driver, still hospitalised, charged with murder over Pahang crash that wiped out young family on Merdeka Day",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/11/tanker-driver-still-hospitalised-charged-with-murder-over-pahang-crash-that-wiped-out-young-family-on-merdeka-day/234838",
-      "source": "Malay Mail",
-      "published": "2026-09-11T08:23:39",
-      "summary": "TEMERLOH, Sept 11 — A cement tanker driver receiving treatment at Hospital Sultan Haji Ahmad Shah was charged toda...",
-      "keywords_matched": [
-        "treatment",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "No U-turn: Ex-minister Dr Zaliha says she has backed Health Service Commission proposal since 2023",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/11/no-u-turn-ex-minister-dr-zaliha-says-she-has-backed-health-service-commission-proposal-since-2023/234817",
-      "source": "Malay Mail",
-      "published": "2026-09-11T05:58:56",
-      "summary": "KUALA LUMPUR, Sept 11 — Former Health Minister Datuk Seri Dr Zaliha Mustafa today denied making a U-turn on the pr...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
