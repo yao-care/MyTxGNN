@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-12T05:30:46.259288",
+  "fetched": "2026-09-12T10:06:23.507496",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "title": "Malaysia Must Rethink How It Ages As Population Ages: MHAS",
@@ -104,6 +104,16 @@
         "medical",
         "doctor",
         "patient"
+      ]
+    },
+    {
+      "title": "Empty posts, crumbling clinics: Sarawak wants the power to fix its own healthcare",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/12/empty-posts-crumbling-clinics-sarawak-wants-the-power-to-fix-its-own-healthcare/234937",
+      "source": "Malay Mail",
+      "published": "2026-09-12T05:36:17",
+      "summary": "KUCHING, Sept 12 — Sarawak is pushing for regulatory powers under the Private Healthcare Facilities and Services A...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
