@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-12T23:43:54.096491",
+  "fetched": "2026-09-13T03:11:32.895916",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "Malaysia Must Rethink How It Ages As Population Ages: MHAS",
@@ -104,6 +104,28 @@
         "medical",
         "doctor",
         "patient"
+      ]
+    },
+    {
+      "title": "Health Ministry to announce number affected by Sarawak Flying Doctor Service suspension",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/13/health-ministry-to-announce-number-affected-by-sarawak-flying-doctor-service-suspension/235001",
+      "source": "Malay Mail",
+      "published": "2026-09-13T01:23:48",
+      "summary": "IPOH, Sept 13 — The number of residents affected in terms of access to follow-up medical services follo...",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Anwar says Malaysia set to gain from new investment, industrial cooperation with India",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/13/anwar-says-malaysia-set-to-gain-from-new-investment-industrial-cooperation-with-india/234996",
+      "source": "Malay Mail",
+      "published": "2026-09-13T00:48:09",
+      "summary": "NEW DELHI, Sept 13 — Prime Minister Datuk Seri Anwar Ibrahim said his meetings with representatives of...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
