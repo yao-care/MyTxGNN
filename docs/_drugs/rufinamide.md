@@ -1,69 +1,91 @@
 ---
-layout: drug
-title: "Rufinamide"
-drugbank_id: "DB06201"
-drug_name: "Rufinamide"
-kg_predictions: 2
-dl_predictions: 0
-evidence_level: "L5"
+layout: default
+title: Rufinamide
+parent: 僅模型預測 (L5)
+nav_order: 606
+evidence_level: L5
 indication_count: 5
-brands: []
-permalink: /drugs/rufinamide/
 ---
 
 # Rufinamide
+{: .fs-9 }
 
-## Gambaran Ringkas
-
-| Atribut | Nilai |
-|-----------|-------|
-| **Nama Ubat** | Rufinamide |
-| **ID DrugBank** | [DB06201](https://go.drugbank.com/drugs/DB06201) |
-| **Ramalan KG** | 2 |
-| **Ramalan DL (≥0.7)** | 0 |
-| **Tahap Bukti** | L5 |
-| **Status NPRA** | Approved |
+證據等級: **L5** | 預測適應症: **5** 個
+{: .fs-6 .fw-300 }
 
 ---
 
-## Contoh Nama Jenama di Malaysia
+## 目錄
+{: .no_toc .text-delta }
 
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **2** ramalan graf pengetahuan dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| cutis verticis gyrata | KG |
-| Lennox-Gastaut syndrome | KG |
+1. TOC
+{:toc}
 
 ---
 
-## Sumber FHIR
+<div id="pharmacist">
 
-Akses data ubat melalui API FHIR R4:
+## 藥師評估報告
 
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB06201`](/fhir/MedicationKnowledge/DB06201.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB06201) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rufinamide) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Rufinamide) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>
+
+# Rufinamide: From Lennox-Gastaut Syndrome to Febrile Infection-Related Epilepsy Syndrome
+
+## One-Sentence Summary
+
+Rufinamide is a triazole-derivative antiepileptic drug, primarily used for the treatment-resistant epileptic encephalopathy Lennox-Gastaut Syndrome (LGS). The TxGNN model predicts it may be effective for **Febrile Infection-Related Epilepsy Syndrome (FIRES)**, but this is currently a pure knowledge-graph inference with **no clinical trials** and **no published literature** supporting it.
+
+## Quick Overview
+
+| Item | Content |
+|------|------|
+| Original Indication | Lennox-Gastaut Syndrome (per mechanistic rationale; Malaysia-specific label text not available in this data source) |
+| Predicted New Indication | Febrile infection-related epilepsy syndrome (FIRES) |
+| TxGNN Prediction Score | 99.57% |
+| Evidence Level | L5 (model prediction only, no clinical or literature support) |
+| Malaysia Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Detailed mechanism-of-action data was not returned from the structured drug record (original_moa: Data Gap). However, the evidence pack's rationale notes that rufinamide is a triazole derivative that acts on voltage-gated sodium channels, prolonging their inactivated state to suppress excessive neuronal firing. It is an approved antiepileptic for Lennox-Gastaut Syndrome, a treatment-resistant epileptic encephalopathy characterized by multiple seizure types.
+
+FIRES is also a refractory, treatment-resistant epilepsy syndrome (presenting as super-refractory status epilepticus following a febrile illness), placing it in the same broad "drug-resistant epileptic encephalopathy" category as LGS. This shared clinical profile is the basis for the TxGNN model's mechanistic-similarity prediction — sodium-channel modulation could theoretically reduce cortical hyperexcitability in FIRES as it does in LGS.
+
+That said, FIRES pathophysiology is thought to involve a significant neuroinflammatory component, for which rufinamide has no established or studied activity. The mechanistic link is therefore plausible but unproven, and should be treated as a research hypothesis rather than a validated repurposing signal.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## Malaysia Market Information
+
+Rufinamide has 1 registered product in Malaysia (market status: Marketed). Detailed registration information (authorization number, product name, dosage form, approved indication text) was not returned by the data source for this record and cannot be tabulated at this time.
+
+## Safety Considerations
+
+Please refer to the package insert for safety information. (No structured warnings, contraindications, or drug-interaction data are currently available; NPRA label warnings/contraindications retrieval is a blocking data gap — see Next Steps.)
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The prediction score is high, but the evidence level is L5 — supported only by mechanistic knowledge-graph inference, with zero clinical trials or literature for FIRES. In addition, a blocking data gap on the NPRA product label (warnings/contraindications) prevents even an initial safety screen (S1).
+
+**To proceed, the following is needed:**
+- Retrieve the NPRA product label (indication text, warnings, contraindications) to resolve the blocking data gap and enable an S1 safety assessment
+- Obtain confirmed original MOA and indication documentation from DrugBank
+- Monitor for emerging case reports, preclinical studies, or off-label use data specifically evaluating sodium-channel antiepileptics (including rufinamide) in FIRES before advancing this candidate beyond the research-hypothesis stage
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

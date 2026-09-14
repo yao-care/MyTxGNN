@@ -1,77 +1,93 @@
 ---
-layout: drug
-title: "Topiramate"
-drugbank_id: "DB00273"
-drug_name: "Topiramate"
-kg_predictions: 48
-dl_predictions: 34
-evidence_level: "L1"
+layout: default
+title: Topiramate
+parent: 僅模型預測 (L5)
+nav_order: 657
+evidence_level: L5
 indication_count: 9
-brands: []
-permalink: /drugs/topiramate/
 ---
 
 # Topiramate
+{: .fs-9 }
 
-## Gambaran Ringkas
-
-| Atribut | Nilai |
-|-----------|-------|
-| **Nama Ubat** | Topiramate |
-| **ID DrugBank** | [DB00273](https://go.drugbank.com/drugs/DB00273) |
-| **Ramalan KG** | 48 |
-| **Ramalan DL (≥0.7)** | 34 |
-| **Tahap Bukti** | L5 |
-| **Status NPRA** | Approved |
+證據等級: **L5** | 預測適應症: **9** 個
+{: .fs-6 .fw-300 }
 
 ---
 
-## Contoh Nama Jenama di Malaysia
+## 目錄
+{: .no_toc .text-delta }
 
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **48** ramalan graf pengetahuan dan **34** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| partial epilepsy | KG |
-| Lennox-Gastaut syndrome | KG |
-| epilepsy with generalized tonic-clonic seizures | KG |
-| cutis verticis gyrata | KG |
-| partial epilepsy | KG |
-| Lennox-Gastaut syndrome | KG |
-| epilepsy with generalized tonic-clonic seizures | KG |
-| cutis verticis gyrata | KG |
-| partial epilepsy | KG |
-| Lennox-Gastaut syndrome | KG |
+1. TOC
+{:toc}
 
 ---
 
-## Sumber FHIR
+<div id="pharmacist">
 
-Akses data ubat melalui API FHIR R4:
+## 藥師評估報告
 
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00273`](/fhir/MedicationKnowledge/DB00273.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00273) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Topiramate) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Topiramate) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>
+
+# Topiramate: From Epilepsy to Trigeminal Nerve Neoplasm
+
+## One-Sentence Summary
+
+Topiramate is a broad-spectrum antiepileptic drug with established efficacy in epilepsy and migraine prophylaxis. The TxGNN model's top-ranked prediction is **Trigeminal Nerve Neoplasm**, but this candidate currently has **0 clinical trials** and **0 publications** supporting it, despite a 99.70% model confidence score — a gap that warrants caution before further investment.
+
+## Quick Overview
+
+| Item | Content |
+|------|------|
+| Original Indication | Not returned in this evidence pack (all Malaysia NPRA license fields are blank). Topiramate is globally established for epilepsy (partial-onset and primary generalized tonic-clonic seizures) and migraine prophylaxis. |
+| Predicted New Indication | Trigeminal Nerve Neoplasm |
+| TxGNN Prediction Score | 99.70% |
+| Evidence Level | L5 |
+| Malaysia Market Status | ✓ Marketed |
+| Number of Registrations | 12 |
+| Recommended Decision | Hold |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data for topiramate is not available in this evidence pack. Based on established pharmacological knowledge, topiramate is a sulfamate-substituted monosaccharide with multiple mechanisms of action — blockade of voltage-gated sodium channels, potentiation of GABA-A receptor activity, and antagonism of AMPA/kainate glutamate receptors — and its efficacy in epilepsy has been proven through decades of clinical use.
+
+The TxGNN model's top-ranked prediction, however, is **Trigeminal Nerve Neoplasm** — a nerve-sheath tumor with no established mechanistic link to topiramate's anticonvulsant/neuromodulatory activity. The evidence pack returns **zero clinical trials and zero published literature** connecting topiramate to this indication. A 99.70% model score with no corroborating study is an unusually large evidence gap, and should be treated as a signal of knowledge-graph embedding noise rather than a validated repurposing hypothesis at this stage.
+
+By contrast, several lower-ranked candidates in this pack are mechanistically coherent and evidence-backed — notably rank 2, "visual epilepsy" (4 clinical trials, 20 publications, score 99.28%), which fits directly with topiramate's known antiepileptic profile. If a repurposing candidate is to be advanced from this pack, that indication is a more defensible starting point than the rank-1 prediction.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
+
+## Malaysia Market Information
+
+Topiramate holds **12 registrations** in Malaysia and is currently marketed ("已上市"). However, this evidence pack did not return license-level detail — authorization numbers, product names, dosage forms, and approved indication text are all blank for the returned records — so a per-license table cannot be produced from the current data.
+
+## Safety Considerations
+
+Please refer to the package insert for safety information. Note: this evidence pack currently lacks TFDA/NPRA label warnings, contraindications, and drug-interaction data, which blocks a formal safety (S1) pre-assessment for this candidate (see Conclusion below).
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+- A Blocking data gap (missing TFDA/NPRA label warnings and contraindications) prevents the mandatory S1 safety pre-assessment.
+- The top-ranked predicted indication (Trigeminal Nerve Neoplasm) has no independent clinical trial or literature support despite its high model score, so there is currently no evidence base to justify advancing it.
+
+**To proceed, the following is needed:**
+- TFDA/NPRA package insert (warnings, contraindications) — Blocking gap, required before any safety review
+- DrugBank mechanism of action data — High priority, needed for mechanistic-link analysis
+- Malaysia NPRA license-level detail (product names, dosage forms, approved indication text)
+- Re-evaluate rank 2 "visual epilepsy" (4 trials, 20 publications) as a more evidence-supported candidate before further work on trigeminal nerve neoplasm
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

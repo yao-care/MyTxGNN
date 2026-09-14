@@ -1,69 +1,108 @@
 ---
-layout: drug
-title: "Revefenacin"
-drugbank_id: "DB11855"
-drug_name: "Revefenacin"
-kg_predictions: 2
-dl_predictions: 0
-evidence_level: "L1"
+layout: default
+title: Revefenacin
+parent: 僅模型預測 (L5)
+nav_order: 590
+evidence_level: L5
 indication_count: 2
-brands: []
-permalink: /drugs/revefenacin/
 ---
 
 # Revefenacin
+{: .fs-9 }
 
-## Gambaran Ringkas
-
-| Atribut | Nilai |
-|-----------|-------|
-| **Nama Ubat** | Revefenacin |
-| **ID DrugBank** | [DB11855](https://go.drugbank.com/drugs/DB11855) |
-| **Ramalan KG** | 2 |
-| **Ramalan DL (≥0.7)** | 0 |
-| **Tahap Bukti** | L5 |
-| **Status NPRA** | Approved |
+證據等級: **L5** | 預測適應症: **2** 個
+{: .fs-6 .fw-300 }
 
 ---
 
-## Contoh Nama Jenama di Malaysia
+## 目錄
+{: .no_toc .text-delta }
 
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **2** ramalan graf pengetahuan dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| COPD, severe early onset | KG |
-| chronic obstructive pulmonary disease | KG |
+1. TOC
+{:toc}
 
 ---
 
-## Sumber FHIR
+<div id="pharmacist">
 
-Akses data ubat melalui API FHIR R4:
+## 藥師評估報告
 
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB11855`](/fhir/MedicationKnowledge/DB11855.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB11855) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Revefenacin) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Revefenacin) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
 </div>
+
+# Revefenacin: From COPD Maintenance Therapy to Bronchitis
+
+## One-Sentence Summary
+
+Revefenacin is a once-daily nebulized long-acting muscarinic antagonist (LAMA), with its established role as a maintenance bronchodilator in chronic obstructive pulmonary disease (COPD) well documented in the literature reviewed here. The TxGNN model predicts it may also be effective for **Bronchitis**, but this direction is currently supported by only **1 indirect clinical trial** and **no dedicated literature**, making the evidence base thin.
+
+---
+
+## Quick Overview
+
+| Item | Content |
+|------|------|
+| Original Indication | COPD maintenance treatment (per literature evidence in this pack; Malaysia label indication text is not populated in the NPRA record) |
+| Predicted New Indication | Bronchitis |
+| TxGNN Prediction Score | 99.61% |
+| Evidence Level | L2 |
+| Malaysia Market Status | ✓ Marketed |
+| Number of Registrations | 1 |
+| Recommended Decision | Hold |
+
+---
+
+## Why is This Prediction Reasonable?
+
+The structured mechanism-of-action field for this candidate is a data gap, but the literature evidence collected under this candidate consistently describes revefenacin as a lung-selective, long-acting muscarinic (M3) receptor antagonist. By blocking acetylcholine-mediated bronchoconstriction in airway smooth muscle, it produces sustained, once-daily bronchodilation delivered via nebulizer — a profile developed specifically for COPD patients who cannot reliably generate the inspiratory effort needed for dry-powder or metered-dose inhalers.
+
+Chronic bronchitis is one of the two classic clinical phenotypes of COPD (alongside emphysema), defined by chronic mucus hypersecretion, cough, and airflow limitation. Because revefenacin already targets the airway obstruction component shared by both phenotypes, it is mechanistically plausible that its bronchodilator effect could extend to bronchitis specifically, rather than only to COPD as a composite diagnosis.
+
+That said, the only clinical trial evidence tied to this prediction (NCT01704404) enrolled a general COPD population rather than a bronchitis-specific cohort, so the mechanistic rationale is currently stronger than the direct clinical evidence. This is reflected in the model's own relevance grading ("B" — indirect support).
+
+---
+
+## Clinical Trial Evidence
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT01704404](https://clinicaltrials.gov/study/NCT01704404) | Phase 2 | Completed | 62 | Characterized the dose-response of TD-4208 (revefenacin) after 7 days of dosing in COPD subjects; population was general COPD rather than a bronchitis-specific diagnosis, so support is indirect. |
+
+---
+
+## Literature Evidence
+
+Currently no related literature available specific to the bronchitis indication.
+
+---
+
+## Malaysia Market Information
+
+NPRA confirms revefenacin is marketed in Malaysia with 1 active registration. However, product-level details (registration number, product name, dosage form, and approved indication text) are not populated in this evidence pack and require direct retrieval from the NPRA product registry.
+
+---
+
+## Safety Considerations
+
+Please refer to the package insert for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The bronchitis prediction is mechanistically plausible given revefenacin's established LAMA activity in COPD, but it is currently backed by only one indirect Phase 2 trial (general COPD population, not bronchitis-specific) and no dedicated literature — insufficient to move beyond a research question at this stage.
+
+**To proceed, the following is needed:**
+- Malaysia-specific product label data (registration number, indication text, dosage form) — currently missing from the NPRA record
+- TFDA/NPRA package insert warnings and contraindications (flagged as a blocking data gap for safety pre-screening)
+- Confirmed structured mechanism-of-action data from DrugBank
+- A bronchitis-specific (rather than general COPD) clinical trial or observational study to directly test the predicted indication
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

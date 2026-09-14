@@ -1,236 +1,115 @@
 ---
-layout: drug
-title: "Prednisolone"
-description: "Prednisolone drug repurposing analysis. Evidence level L1 with 5 predicted indications. View AI predictions and clinical evidence."
-drugbank_id: "DB00860"
-drug_name: "Prednisolone"
-kg_predictions: 3650
-dl_predictions: 762
-evidence_level: "L1"
+layout: default
+title: Prednisolone
+parent: 僅模型預測 (L5)
+nav_order: 568
+evidence_level: L5
 indication_count: 5
-brands: ["Predsone", "Axcel Prednisolone", "Visolone"]
-permalink: /drugs/prednisolone/
 ---
 
 # Prednisolone
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-Evidence Level: <strong>L1</strong> | Predicted Indications: <strong>5</strong> | Recommendation: <strong style="color: #2E7D32;">Go</strong>
-</p>
+證據等級: **L5** | 預測適應症: **5** 個
+{: .fs-6 .fw-300 }
 
 ---
 
-## Ringkasan Satu Baris
+## 目錄
+{: .no_toc .text-delta }
 
-<p class="key-answer" data-question="What new indications can Prednisolone be used for?">
-<strong>Prednisolone</strong> is a glucocorticoid with anti-inflammatory and immunosuppressive effects. TxGNN predicts it may be effective for <strong>lymphosarcoma</strong> and <strong>orbital diseases</strong>, supported by <strong>multiple Phase 3 clinical trials</strong> and <strong>extensive literature</strong>, achieving the highest evidence level L1.
-</p>
+1. TOC
+{:toc}
 
-<div class="key-takeaway">
-Prednisolone is already a standard component of CHOP chemotherapy for lymphoma. The KG predictions align with established clinical practice, confirming high validity of the model.
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
 </div>
 
-## Gambaran Ringkas
+Using the evidence pack as given (no skill applies to this reporting task — it's a direct write-up against a fixed template), here's the report.
+
+Note upfront: `taiwan_regulatory.licenses` contains 5 entries but every field is an empty string (no license numbers/product names/indication text were actually captured), and `drug.original_indications` is an empty array. I could not fabricate an "Original Indication" from this, so I've labeled it accordingly rather than inventing a value.
+
+---
+
+# Prednisolone: From Corticosteroid-Responsive Conditions to Erythema Multiforme
+
+## One-Sentence Summary
+
+Prednisolone is a systemic corticosteroid used broadly for inflammatory, allergic, and autoimmune conditions; the specific original indication text is not available in the current NPRA extract. The TxGNN model's top-ranked prediction is **Erythema Multiforme**, supported by **14 clinical trials** and **20 publications** in the evidence pack — though on closer review only 2 of the 14 trials and roughly half of the literature are directly on-topic, with the rest being keyword-driven false hits (e.g., prednisone as an incidental component of unrelated cancer chemotherapy regimens).
+
+## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indications | Inflammatory conditions, Allergic disorders, Autoimmune diseases |
-| Top Predicted Indications | lymphosarcoma, disease of orbital region, erythema multiforme |
-| Best Evidence Level | L1 |
-| Malaysia Status | Approved (38 products) |
-| NPRA Licenses | 38 |
-| Recommendation | Go |
+|------|------|
+| Original Indication | Not captured in current NPRA license extract (all 5 license records are blank; drug-level original indication field is also empty) |
+| Predicted New Indication | Erythema Multiforme |
+| TxGNN Prediction Score | 0.00% (evidence pack reports a uniform 0.0 score across all 5 candidates — appears to be a placeholder rather than a discriminating value; ranking below is based on the qualitative evidence review, not this score) |
+| Evidence Level | L3 (observational studies / case series; no EM-specific high-quality RCT yet) |
+| Malaysia Market Status | ✓ Marketed |
+| Number of Registrations | 38 |
+| Recommended Decision | Proceed with Guardrails |
+
+## Why is This Prediction Reasonable?
+
+Currently, detailed mechanism of action data is not available for Prednisolone in this evidence pack (marked as a data gap). Based on general pharmacological knowledge, Prednisolone is a synthetic glucocorticoid with anti-inflammatory and immunosuppressive activity, widely used across corticosteroid-responsive inflammatory, allergic, and autoimmune conditions.
+
+Erythema multiforme (EM) is understood to result from keratinocyte apoptosis driven by a type IV hypersensitivity reaction (T-cell-mediated cytotoxicity), most commonly triggered by HSV infection or drug exposure. Prednisolone's immunosuppressive and anti-inflammatory action could theoretically reduce inflammation and limit cytotoxic keratinocyte damage in this setting.
+
+This mechanistic rationale reflects a long-standing dermatological practice pattern rather than a novel hypothesis — systemic corticosteroids are already used off-label/empirically for severe EM in clinical practice. However, high-quality RCTs specific to EM itself (as distinct from its more severe cousins SJS/TEN) are lacking; the evidence base is mainly case series, case reports, and clinical consensus.
+
+## Clinical Trial Evidence
+
+Of the 14 trials returned by the search, only 2 are directly relevant to erythema multiforme or its clinical spectrum (SJS/TEN); the remaining 12 are keyword-driven matches where prednisone/prednisolone appears as an incidental component of unrelated oncology or dermatology regimens (e.g., abiraterone + prednisone for prostate cancer, vitiligo repigmentation studies) and are excluded below.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT06266221](https://clinicaltrials.gov/study/NCT06266221) | Phase 3 | Not yet recruiting | 96 | Randomized controlled trial comparing a short systemic corticosteroid regimen to placebo in the acute established phase of severe erythema multiforme — the only EM-specific RCT identified |
+| [NCT06119490](https://clinicaltrials.gov/study/NCT06119490) | Early Phase 1 | Recruiting | 30 | Evaluates methylprednisolone combined with JAK inhibitors (abrocitinib/tofacitinib) for toxic epidermal necrolysis, a disease on the same immune-mediated mucocutaneous spectrum as EM |
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [35274741](https://pubmed.ncbi.nlm.nih.gov/35274741/) | 2022 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Reviews systemic interventions (including glucocorticoids) for SJS/TEN/overlap syndrome; highlights unmet need for efficacy data across this spectrum |
+| [26281815](https://pubmed.ncbi.nlm.nih.gov/26281815/) | 2015 | Review | J Emerg Med | General clinical review of erythema multiforme diagnosis and management |
+| [8566721](https://pubmed.ncbi.nlm.nih.gov/8566721/) | 1995 | Review/case series | Allergy Proc | Virus-induced EM and SJS; reports treatment success with acyclovir plus prednisolone |
+| [15599469](https://pubmed.ncbi.nlm.nih.gov/15599469/) | 2004 | Cohort | J Microbiol Immunol Infect | Clinical characteristics of childhood EM, SJS, and TEN in Taiwanese/regional children — locally relevant outcome data |
+| [30189985](https://pubmed.ncbi.nlm.nih.gov/30189985/) | 2018 | Review | Dent Clin North Am | Reviews painful oral vesiculoerosive diseases including EM; topical/systemic corticosteroids as mainstay treatment |
+| [40454868](https://pubmed.ncbi.nlm.nih.gov/40454868/) | 2025 | Case report + literature review | J Chemother | EM following pembrolizumab; tapering-dose prednisolone resolved the rash without discontinuing immunotherapy |
+| [38962048](https://pubmed.ncbi.nlm.nih.gov/38962048/) | 2024 | Mechanistic/translational | Int Cancer Conf J | PD-L1/CD4+ T-cell infiltration predicts severe pembrolizumab-induced EM; steroid ointment alone was ineffective in the severe case |
+| [21675930](https://pubmed.ncbi.nlm.nih.gov/21675930/) | 2011 | Case-based review | Cutan Ocul Toxicol | Describes EMPACT syndrome (phenytoin-induced EM with cranial irradiation) |
+| [28101031](https://pubmed.ncbi.nlm.nih.gov/28101031/) | 2016 | Case report | Case Rep Oncol | Alectinib-induced EM with successful rechallenge after treatment |
+| [15608841](https://pubmed.ncbi.nlm.nih.gov/15608841/) | 2004 | Case report | Ann Acad Med Singap | Recurrent EM managed with corticosteroids; patient developed iatrogenic Cushing's syndrome from prolonged use — relevant to long-term safety |
+
+## Malaysia Market Information
+
+License-level detail (registration numbers, product names, dosage forms, approved indication text) was not captured in the current NPRA data extract — all 5 retrieved license records are blank. NPRA registration confirms **38 active licenses** for Prednisolone products and a "Marketed" status, but specific product/indication text needs to be re-pulled from source before it can be reported here.
+
+## Safety Considerations
+
+Please refer to the package insert for safety information. The evidence pack currently has no usable key warnings, contraindications, or DDI data (all marked as data gaps), and this is flagged as a **blocking** gap (DG001) — full label warnings/contraindications must be retrieved from the NPRA package insert before this candidate can pass an initial safety review (S1).
+
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+Corticosteroid use for erythema multiforme is an established, mechanistically plausible dermatological practice, and one EM-specific Phase 3 RCT (NCT06266221) is underway — but current evidence is otherwise limited to case series/reports (L3), and the label-level safety data needed for a proper risk assessment is currently missing.
+
+**To proceed, the following is needed:**
+- TFDA/NPRA package insert (warnings, contraindications) — currently blocking (DG001)
+- Detailed mechanism of action confirmation from DrugBank (DG002)
+- Malaysia license/indication text re-extraction (current records are blank despite 38 registrations)
+- Results from NCT06266221 (EM-specific Phase 3 RCT, not yet recruiting) once available
+- DDI data completion (currently "not_found" with zero interactions on record)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-## Analisis Petunjuk Diramalkan
-
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. Lymphosarcoma</span>
-<span class="evidence-badge evidence-L1">L1</span>
-<span class="decision-badge">Go</span>
-</summary>
-<div class="indication-content">
-
-### Mengapa Ramalan Ini Munasabah
-
-Corticosteroids induce lymphocyte apoptosis through glucocorticoid receptor activation. Prednisolone is a standard component of the **CHOP** (Cyclophosphamide, Hydroxydaunorubicin, Oncovin, Prednisone) chemotherapy regimen, which is the gold standard treatment for non-Hodgkin lymphoma.
-
-### Ujian Klinikal
-
-| Trial ID | Phase | Status | Enrollment | Key Finding |
-|----------|-------|--------|------------|-------------|
-| [NCT03206671](https://clinicaltrials.gov/study/NCT03206671) | Phase 3 | Active | - | B-NHL 2013 Treatment Protocol |
-| [NCT03007147](https://clinicaltrials.gov/study/NCT03007147) | Phase 3 | Active | - | Ph+ ALL International Trial |
-| [NCT00054236](https://clinicaltrials.gov/study/NCT00054236) | Phase 1 | Completed | - | Umbilical Cord Blood Transplant |
-
-**Trial Summary**: 17 Phase 3 trials (9 completed), 15 Phase 2 trials, 3 Phase 4 trials
-
-### Literatur
-
-| PMID | Year | Type | Key Finding |
-|------|------|------|-------------|
-| - | - | Clinical Trial | 5 clinical trial publications |
-| - | - | Review | 4 review articles |
-| - | - | Case Reports | 4 case reports |
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. Disease of Orbital Region</span>
-<span class="evidence-badge evidence-L1">L1</span>
-<span class="decision-badge">Go</span>
-</summary>
-<div class="indication-content">
-
-### Mengapa Ramalan Ini Munasabah
-
-Anti-inflammatory effects reduce orbital tissue edema and inflammation. Prednisolone is commonly used for **Graves' ophthalmopathy** and **idiopathic orbital inflammatory disease**.
-
-### Ujian Klinikal
-
-| Trial ID | Phase | Status | Enrollment | Key Finding |
-|----------|-------|--------|------------|-------------|
-| [NCT05049603](https://clinicaltrials.gov/study/NCT05049603) | Phase 3 | Not Yet Recruiting | - | Orbital Disease Treatment |
-| [NCT04501367](https://clinicaltrials.gov/study/NCT04501367) | Phase 4 | Unknown | - | DEXTENZA Efficacy Study |
-| [NCT00406042](https://clinicaltrials.gov/study/NCT00406042) | NA | Completed | - | Prednisolone in Trabeculoplasty |
-
-**Trial Summary**: 12 Phase 3 trials (5 completed), 11 Phase 4 trials (5 completed)
-
-### Literatur
-
-- 20 PubMed articles including EUGOGO clinical practice guidelines
-- 7 case reports on orbital inflammatory disease
-- 2 systematic reviews
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. Erythema Multiforme</span>
-<span class="evidence-badge evidence-L2">L2</span>
-<span class="decision-badge decision-research">Research Question</span>
-</summary>
-<div class="indication-content">
-
-### Mengapa Ramalan Ini Munasabah
-
-Immunomodulatory effects control hypersensitivity reactions. Corticosteroids are used in the management of **Stevens-Johnson syndrome** and **toxic epidermal necrolysis** spectrum disorders.
-
-### Ujian Klinikal
-
-**Trial Summary**: 3 Phase 3 trials (2 completed), 7 Phase 2 trials (6 completed)
-
-### Literatur
-
-- 20 PubMed articles
-- 14 case reports
-- 4 reviews
-- 1 meta-analysis (Cochrane systematic review)
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. Rheumatic Heart Disease</span>
-<span class="evidence-badge evidence-L2">L2</span>
-<span class="decision-badge decision-research">Research Question</span>
-</summary>
-<div class="indication-content">
-
-### Mengapa Ramalan Ini Munasabah
-
-Anti-inflammatory action reduces cardiac inflammation during acute rheumatic fever, potentially preventing long-term cardiac damage.
-
-### Ujian Klinikal
-
-| Trial ID | Phase | Status | Key Finding |
-|----------|-------|--------|-------------|
-| [NCT01553981](https://clinicaltrials.gov/study/NCT01553981) | Phase 3 | Completed | ILD Treatment Study |
-| [NCT00430677](https://clinicaltrials.gov/study/NCT00430677) | Phase 2/3 | Terminated | Rheumatic Disease Study |
-
-**Trial Summary**: 2 Phase 3 trials (1 completed), 2 Phase 4 trials, 4 Phase 2 trials
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. Leukemia, Lymphocytic, Susceptibility to</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="decision-badge decision-hold">Hold</span>
-</summary>
-<div class="indication-content">
-
-### Mengapa Ramalan Ini Munasabah
-
-Basic research on corticosteroid effects on lymphocyte susceptibility. However, clinical evidence is limited.
-
-### Ujian Klinikal
-
-Only 1 N/A phase trial currently recruiting.
-
-### Literatur
-
-17 PubMed articles, primarily basic research and 2 case reports.
-
-**Note**: More clinical evidence needed before proceeding.
-
-</div>
-</details>
-
----
-
-## Ringkasan Bukti
-
-| Indication | Evidence Level | Trials | Articles | Recommendation |
-|------------|---------------|--------|----------|----------------|
-| Lymphosarcoma | **L1** | 50 | 20 | Go |
-| Disease of Orbital Region | **L1** | 50 | 20 | Go |
-| Erythema Multiforme | **L2** | 14 | 20 | Research Question |
-| Rheumatic Heart Disease | **L2** | 9 | 20 | Research Question |
-| Leukemia, Lymphocytic | **L4** | 1 | 17 | Hold |
-
----
-
-## Pendaftaran NPRA (Malaysia)
-
-| Product | Registration No. | Holder | Status |
-|---------|-----------------|--------|--------|
-| Predsone Syrup 3mg/5ml | MAL06081197AZ | Pahang Pharmacy | Approved |
-| Axcel Prednisolone-5mg Tablet | MAL21106027AZ | Kotra Pharma | Approved |
-| Visolone Tablet 1mg | MAL16125034AZ | Y.S.P. Industries | Approved |
-
-**Total**: 38 registered products
-
----
-
-## Sumber FHIR
-
-Akses data ubat melalui API FHIR R4:
-
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00860`](/fhir/MedicationKnowledge/DB00860.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00860) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Prednisolone) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Prednisolone) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-This report is for <strong>research purposes only</strong> and does not constitute medical advice. Drug repurposing decisions require complete clinical validation and regulatory review. Always consult healthcare professionals.
-<br><br>
-<small>Last updated: 2026-03-04 | Analyzed by: Claude | MyTxGNN Research Team</small>
-</div>
