@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-15T05:48:46.365290",
+  "fetched": "2026-09-15T11:05:05.820029",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,24 @@
   ],
   "total_items": 14,
   "items": [
+    {
+      "title": "Deepest Condolences To Families Of Victims Of Long Lellang Tragedy — Chiew Choon Man",
+      "url": "https://codeblue.galencentre.org/2026/09/deepest-condolences-to-families-of-victims-of-long-lellang-tragedy-chiew-choon-man/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-15T09:37:31",
+      "summary": "I'll stay in touch with the late Jessie’s husband to provide any assistance the family may need. At the same time, I will aid the wife of the late Alexson in searching for suitable employment to support her family (Stephanie has two children aged 2 and 5). The post Deepest Condolences To Families Of Victims Of Long Lellang Tragedy — Chiew Choon Man appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "JPA Should Consider IVF Reimbursement For Civil Servants — Government Servant",
+      "url": "https://codeblue.galencentre.org/2026/09/jpa-should-consider-ivf-reimbursement-for-civil-servants-government-servant/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-15T08:00:00",
+      "summary": "JPA should reconsider its position on IVF reimbursement for civil servants and at least introduce partial coverage for medically indicated cases. The fundamental question should not be whether IVF is “natural” or “artificial”. The post JPA Should Consider IVF Reimbursement For Civil Servants — Government Servant appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Taiping Hospital’s Emergency Department Is Also Drowning — Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/09/taiping-hospitals-emergency-department-is-also-drowning-medical-officer/",
@@ -96,62 +114,43 @@
       ]
     },
     {
-      "title": "Sarawak Offers To Fund Medical School For Nurse Debra’s Daughter",
-      "url": "https://codeblue.galencentre.org/2026/09/sarawak-offers-to-fund-medical-school-for-nurse-debra-daughter/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-14T03:45:00",
-      "summary": "Sarawak Premier Abang Johari says the state government will pay for the education of Debra Moset's 15-year-old daughter Euodia, including medical school, because she wants to become a doctor to help people like her late mother, who was a staff nurse. The post Sarawak Offers To Fund Medical School For Nurse Debra’s Daughter appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "A National Framework To Protect Frontline Public Personnel From Occupational Risk — FPMPAM",
-      "url": "https://codeblue.galencentre.org/2026/09/a-national-framework-to-protect-frontline-public-personnel-from-occupational-risk-fpmpam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-14T02:10:59",
-      "summary": "The Long Lellang tragedy provides Malaysia with an opportunity to move from review to reform, and to establish a system that protects people before they are placed in harm's way. The post A National Framework To Protect Frontline Public Personnel From Occupational Risk — FPMPAM appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Former construction manager claims trial over RM14,000 CBT involving Tabung Haji project",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/15/former-construction-manager-claims-trial-over-rm14000-cbt-involving-tabung-haji-project/235278",
+      "title": "Haze: 39 areas hit unhealthy API levels as of 4pm",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/15/haze-39-areas-hit-unhealthy-api-levels-as-of-4pm/235330",
       "source": "Malay Mail",
-      "published": "2026-09-15T04:33:20",
-      "summary": "KOTA BHARU,  Sept  15 — A former construction project manager pleaded not guilty in the Sessi...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Four Chinese nationals claim trial over alleged kidnapping of woman in Alor Setar",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/15/four-chinese-nationals-claim-trial-over-alleged-kidnapping-of-woman-in-alor-setar/235277",
-      "source": "Malay Mail",
-      "published": "2026-09-15T04:30:58",
-      "summary": "ALOR SETAR, Sept 15 — Three men and a woman, all of Chinese nationality, pleaded not guilty in the Sess...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Dzulkefly: 902 health clinics nationwide to offer AI-assisted lung screening by year-end",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/15/dzulkefly-902-health-clinics-nationwide-to-offer-ai-assisted-lung-screening-by-year-end/235264",
-      "source": "Malay Mail",
-      "published": "2026-09-15T03:22:29",
-      "summary": "KUALA LUMPUR, Sept 15 — A total of 902 health clinics nationwide will be empowered with Artificial Intellige...",
+      "published": "2026-09-15T10:28:55",
+      "summary": "KUALA LUMPUR, Sept 15 — A total of 39 areas nationwide recorded unhealthy Air Pollutant Index (API) readings as of...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Anwar seeks closer Malaysia-Keralam ties in key sectors including digital economy, healthcare",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/15/anwar-seeks-closer-malaysia-keralam-ties-in-key-sectors-including-digital-economy-healthcare/235242",
+      "title": "Muhyiddin trial: Prosecution completes case after 29 witnesses",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/15/muhyiddin-trial-prosecution-completes-case-after-29-witnesses/235319",
       "source": "Malay Mail",
-      "published": "2026-09-15T01:22:32",
-      "summary": "KERALAM, Sept 15 — Prime Minister Datuk Seri Anwar Ibrahim has called for stronger cooperation between Malay...",
+      "published": "2026-09-15T09:22:51",
+      "summary": "KUALA LUMPUR, Sept 15 — The prosecution today completed its case in former prime minister Tan Sri Muhyiddin Yassin...",
       "keywords_matched": [
-        "health"
+        "trial"
+      ]
+    },
+    {
+      "title": "Prosecution drops four charges against Muhyiddin, presses on with three in corruption trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/15/prosecution-drops-four-charges-against-muhyiddin-presses-on-with-three-in-corruption-trial/235295",
+      "source": "Malay Mail",
+      "published": "2026-09-15T06:58:18",
+      "summary": "KUALA LUMPUR, Sept 15 — The High Court today acquitted former prime minister Tan Sri Muhyiddin Yassin of four char...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Muhyiddin trial: Lawyer accuses MACC officer of ‘intimidation’ over police report",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/15/muhyiddin-trial-lawyer-accuses-macc-officer-of-intimidation-over-police-report/235292",
+      "source": "Malay Mail",
+      "published": "2026-09-15T06:00:13",
+      "summary": "KUALA LUMPUR, Sept 15 — Former prime minister Tan Sri Muhyiddin Yassin’s lawyer Datuk Amer Hamzah Arshad tod...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
