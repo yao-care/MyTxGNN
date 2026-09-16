@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-16T01:05:25.497405",
+  "fetched": "2026-09-16T07:13:40.901026",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
     {
       "title": "Deepest Condolences To Families Of Victims Of Long Lellang Tragedy — Chiew Choon Man",
@@ -114,23 +114,44 @@
       ]
     },
     {
-      "title": "Haze: 39 areas hit unhealthy API levels as of 4pm",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/15/haze-39-areas-hit-unhealthy-api-levels-as-of-4pm/235330",
+      "title": "Negeri Sembilan DOE ramps up enforcement as haze hits unhealthy levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/16/negeri-sembilan-doe-ramps-up-enforcement-as-haze-hits-unhealthy-levels/235411",
       "source": "Malay Mail",
-      "published": "2026-09-15T10:28:55",
-      "summary": "KUALA LUMPUR, Sept 15 — A total of 39 areas nationwide recorded unhealthy Air Pollutant Index (API) readings as of...",
+      "published": "2026-09-16T06:17:17",
+      "summary": "SEREMBAN, Sept 16 — The Negeri Sembilan Department of Environment (DOE) is stepping up ground-level monitoring, pa...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Muhyiddin trial: Prosecution completes case after 29 witnesses",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/15/muhyiddin-trial-prosecution-completes-case-after-29-witnesses/235319",
+      "title": "Schools advised to stagger students seeking medical checks, says Perak health exco",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/16/schools-advised-to-stagger-students-seeking-medical-checks-says-perak-health-exco/235405",
       "source": "Malay Mail",
-      "published": "2026-09-15T09:22:51",
-      "summary": "KUALA LUMPUR, Sept 15 — The prosecution today completed its case in former prime minister Tan Sri Muhyiddin Yassin...",
+      "published": "2026-09-16T05:41:12",
+      "summary": "IPOH, Sept 16 — The Perak government has advised schools to coordinate with District Health Offices and relevant h...",
       "keywords_matched": [
-        "trial"
+        "health",
+        "medical"
+      ]
+    },
+    {
+      "title": "Penang air quality hits unhealthy levels statewide, Minden records API of 167",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/16/penang-air-quality-hits-unhealthy-levels-statewide-minden-records-api-of-167/235394",
+      "source": "Malay Mail",
+      "published": "2026-09-16T04:21:22",
+      "summary": "GEORGE TOWN, Sept 16 — Air quality at all four monitoring stations in Penang reached unhealthy levels as of 11am t...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Haze flips west: 41 areas in Peninsular Malaysia hit unhealthy levels as Sabah, Sarawak clear",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/16/haze-blankets-peninsular-malaysia-with-41-areas-at-unhealthy-api-levels/235384",
+      "source": "Malay Mail",
+      "published": "2026-09-16T02:29:30",
+      "summary": "KUALA LUMPUR, Sept 16 — A total of 41 areas in Peninsular Malaysia recorded Air Pollutant Index (API) readings at...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
