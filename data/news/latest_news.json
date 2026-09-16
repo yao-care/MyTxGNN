@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-16T07:13:40.901026",
+  "fetched": "2026-09-16T13:07:39.686176",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -114,6 +114,16 @@
       ]
     },
     {
+      "title": "Haze alert: 38 areas in Peninsular Malaysia record unhealthy readings",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/16/haze-alert-38-areas-in-peninsular-malaysia-record-unhealthy-readings/235434",
+      "source": "Malay Mail",
+      "published": "2026-09-16T09:54:57",
+      "summary": "KUALA LUMPUR, Sept 16 — A total of 38 areas in Peninsular Malaysia recorded unhealthy Air Pollution Index (API) re...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Negeri Sembilan DOE ramps up enforcement as haze hits unhealthy levels",
       "url": "https://www.malaymail.com/news/malaysia/2026/09/16/negeri-sembilan-doe-ramps-up-enforcement-as-haze-hits-unhealthy-levels/235411",
       "source": "Malay Mail",
@@ -140,16 +150,6 @@
       "source": "Malay Mail",
       "published": "2026-09-16T04:21:22",
       "summary": "GEORGE TOWN, Sept 16 — Air quality at all four monitoring stations in Penang reached unhealthy levels as of 11am t...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Haze flips west: 41 areas in Peninsular Malaysia hit unhealthy levels as Sabah, Sarawak clear",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/16/haze-blankets-peninsular-malaysia-with-41-areas-at-unhealthy-api-levels/235384",
-      "source": "Malay Mail",
-      "published": "2026-09-16T02:29:30",
-      "summary": "KUALA LUMPUR, Sept 16 — A total of 41 areas in Peninsular Malaysia recorded Air Pollutant Index (API) readings at...",
       "keywords_matched": [
         "health"
       ]
